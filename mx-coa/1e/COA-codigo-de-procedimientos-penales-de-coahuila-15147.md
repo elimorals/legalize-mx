@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2013-05-17"
+last_updated: "2013-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1717 +21,3169 @@ state: "COA"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO
 
-CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO, TERCERO Y SEXTO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE.</small>
+Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 27 de junio del 2015.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 260, PUBLICADO EN EL P.O. DE 17 DE MAYO DE 2013, LAS DISPOSICIONES CONTENIDAS EN EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999, ESTARÁN VIGENTES EN AQUELLOS DISTRITOS JUDICIALES O REGIONES EN QUE NO SE IMPLEMENTE EL NUEVO SISTEMA DE JUSTICIA PENAL PREVISTO EN EL CÓDIGO ADJETIVO PENAL PUBLICADO EL 17 DE FEBRERO DEL 2012. IGUALMENTE CONTINUARÁN VIGENTES TALES DISPOSICIONES HASTA QUE SE CONCLUYAN LOS PROCESOS PENALES QUE DEBERÁN TRAMITARSE BAJO LAS DISPOSICIONES DEL PRIMERO DE LOS ORDENAMIENTOS SEÑALADOS.</small>
+DECRETO 212
 
-UNA VEZ QUE SE HAYA OBSERVADO LO PREVISTO EN EL PÁRRAFO QUE ANTECEDE EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999 QUEDARÁ ABROGADO.
+LIC. ARTURO NÚÑEZ JIMÉNEZ, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 51 FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA LOCAL; A SUS HABITANTES SABED:
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
+Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
-Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
+LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCION I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO, Y CON BASE EN LOS SIGUIENTES:
 
-EL C. ROGELIO MONTEMAYOR SEGUY, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+ANTECEDENTES
 
-QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
+1.- Con fecha 09 de diciembre de 2014, en sesión ordinaria de la Cámara, el Diputado José del Carmen Herrera Sánchez, integrante de la Fracción Parlamentaria del Partido Revolucionario Institucional, presentó ante el Pleno de la Soberanía, iniciativa con proyecto de decreto de reformas y adiciones a la Ley de Seguridad Pública para el Estado de Tabasco.
 
-DECRETA:
+La citada iniciativa, fue turnada por el Presidente de la Mesa Directiva del H. Congreso del Estado el mismo día de su presentación instruyendo para tal efecto al Oficial Mayor de esta cámara quien mediante oficio HCE/OM/1659/2014 de fecha 09 de diciembre de 2014, hizo llegar dicha propuesta a la Comisión de Seguridad Pública, Protección Civil y Procuración de Justicia, para su estudio, análisis y emisión del dictamen y/o acuerdo que en derecho proceda.
 
-NUMERO.- 303
+2.- Con fecha 07 de mayo del año 2015, el titular del Poder Ejecutivo del Estado, en ejercicio de la facultad conferida por la fracción I del artículo 33 de la Constitución Política del Estado Libre y Soberano de Tabasco, presentó ante el pleno de este H. Congreso iniciativa con proyecto de decreto por el que se expide la LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO.
 
-CÓDIGO DE PROCEDIMIENTOS PENALES
+La iniciativa en comento, fue turnada por el Presidente de la Mesa Directiva del H. Congreso del Estado el mismo día de su presentación instruyendo para tal efecto al Oficial Mayor de esta cámara quien mediante oficio HCE/OM/0694/2015 de fecha 07 de mayo de 2015, hizo llegar dicha propuesta a la comisión para su estudio, análisis y emisión del dictamen y/o acuerdo que en derecho proceda.
 
-# LIBRO PRIMERO. DISPOSICIONES GENERALES
+Finalmente, una vez analizadas las iniciativas antes referidas, los integrantes de ésta comisión procedieron a la elaboración del presente dictamen, al tenor de los siguientes:
 
-## TÍTULO PRIMERO. PROCESO, ACCIÓN Y DEFENSA
+CONSIDERANDO
 
-### CAPÍTULO I. OBJETO Y FIN DEL PROCESO PENAL
+PRIMERO.- Que en aras de emitir un análisis de viabilidad respecto a las propuestas de reformas y, en su caso, expedición de un nuevo ordenamiento que regule la materia de Seguridad Pública en el Estado de Tabasco, los integrantes de la comisión procedieron al realizar una ponderación respecto a los planteamientos de las iniciativas que se dictaminan, en el orden en que fueron presentadas.
 
-###### ARTÍCULO 1°.
+Iniciativa del Diputado José del Carmen Herrera Sánchez.
 
-OBJETO DEL PROCESO PENAL. El objeto del proceso penal es:
+El Legislador propone homologar en la Legislación de Seguridad Pública Local, la Figura del Fiscal General del Estado, ello en razón de que, en la reforma constitucional local, de fecha 10 de junio del año 2014, se modificaron diversos preceptos del citado ordenamiento, para otorgarle autonomía a la Institución del Ministerio Público y con ello se modificó el nombre de la otrora Procuraduría General del Estado a la hoy Fiscalía General del Estado.
 
-I. RESOLVER LA PRETENSIÓN PENAL. En todo caso y de manera principal, resolver la pretensión penal. Que consiste en pedir al juzgador que aplique las penas y/o medidas de seguridad a quien intervino en un hecho que la ley prevé como delito.
+Añade el proponente, la necesidad de regular el servicio de protección privada, para efectos de que el personal de aquellas empresas que presten dicho servicio, cuenten con un certificado expedido por la Secretaría de Seguridad Pública del Estado que avale la preparación del personal que habrá de realizar la prestación del citado servicio.
 
-II. RESOLVER LA PRETENSIÓN DE RESARCIR. En su caso, de manera contingente y accesoria, resolver la pretensión de resarcir. Que consiste en pedir al juzgador que condene a la reparación del daño con motivo del delito, al inculpado y/o a la persona responsable civilmente.
+Por último, solicita la pertinencia de otorgar servicios de protección personal a los ex servidores públicos, incluso hasta después de seis meses de haber concluido en su cargo, ello en razón del riesgo a su integridad física en relación al puesto desempeñado.
 
-###### ARTÍCULO 2°.
+Iniciativa del Titular del Poder Ejecutivo del Estado.
 
-FIN DEL PROCESO PENAL. El fin del proceso penal es obtener; con base en la prueba de las pretensiones de la acción; de las excepciones o defensas; y, el debido proceso; la declaración en sentencia de que existió o no existió el delito; y, en su caso, la condena con sus consecuencias legales.
+La iniciativa del Ejecutivo, tiene como objeto la expedición de un nuevo ordenamiento jurídico que regule de manera integral la materia de Seguridad Pública a través de un diseño acorde al nuevo modelo del Sistema de Justicia Penal Acusatorio y Adversarial, el cual se encuentra en vía de implementación a nivel nacional y local; al respecto el proponente señala:
 
-### CAPÍTULO II. ACCIÓN PENAL
+La presente iniciativa propone unificar en un solo ordenamiento denominado “Ley del Sistema de Seguridad Pública del Estado de Tabasco” las hasta hoy dos leyes vigentes en nuestro Estado: las ya citadas “Ley General del Sistema Estatal de Seguridad Pública del Estado de Tabasco” (sic) y la “Ley de Seguridad Pública para el Estado de Tabasco”, a efecto de eliminar la inexplicable dicotomía y regular de manera integral el Sistema de Seguridad Pública estatal, a la par que armonizar su contenido con los requerimientos del nuevo Sistema de Justicia Penal Acusatorio y Adversarial y con la expedición de importantes ordenamientos en el orden nacional, como es el Código Nacional de Procedimientos Penales, cuya adopción y vigencia han sido ya declaradas para el Estado de Tabasco por esa H. Soberanía; y el conjunto de normas y leyes surgidos de la reforma integral del Sistema Nacional de Justicia Penal en nuestra Constitución local, como son la ley Orgánica de la Fiscalía General del Estado, ahora órgano constitucional autónomo; la nueva Ley del Servicio de Defensoría Pública; la Ley Orgánica del Poder Judicial; la Ley de Extinción de Dominio; y la Ley de Protección a personas que intervienen en el Procedimiento Penal, entre otras reformas y nuevos ordenamientos que se han venido construyendo en el marco del Proceso de Implementación del Sistema Procesal Penal Acusatorio que coordina a nivel nacional la Secretaría Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal, SETEC.
 
-###### ARTÍCULO 3°.
+Así mismo, el titular del Ejecutivo considera, que la iniciativa que se dictamina se relaciona con el Eje Rector 1, del Plan Estatal de Desarrollo 2013-2018, a lo cual manifiesta lo siguiente:
 
-OBJETO DE LA ACCIÓN PENAL. La acción penal tiene por objeto provocar la jurisdicción, para que en la sentencia se concrete el derecho penal; imponiendo al inculpado las penas y/o medidas de seguridad que le correspondan; y, en su caso, se condene a la reparación del daño.
+En cumplimiento a lo establecido por el artículo 12 de la Ley de Planeación del Estado de Tabasco, me permito manifestar que la presente iniciativa tiene relación con el Eje Rector 1, denominado “Estado de Derecho, Construcción de Ciudadanía, Democracia, Seguridad y Justicia” del Plan Estatal de Desarrollo 2013-2018, en el que se señala que uno de los compromisos de la actual administración estatal es la seguridad de la gente y de su patrimonio, con la firme convicción de servir y proteger a la ciudadanía brindándole confianza y certidumbre; estableciéndose como objetivo, estrategia y línea de acción “actualizar el marco normativo de la seguridad pública de acuerdo a los nuevos requerimientos legales para responder a la demanda de la sociedad”.
 
-###### ARTÍCULO 4°.
+Por lo que hace al nombre del nuevo ordenamiento, se propone el de “Ley del Sistema de Seguridad Pública del Estado de Tabasco”, en tanto que la denominación de “Ley General”, que tiene la actual Ley que regula el Sistema de Seguridad Pública en el Estado de Tabasco no resulta apropiada, ya que el calificativo de “General”, como es de explorado derecho, se halla reservado para aquellas leyes del orden constitucional general que distribuyen competencias entre los tres órdenes de gobierno, federal, estatal y municipal. Lo anterior sin que resulte evidente que precisamente está en la naturaleza de los ordenamientos legales, el ser “generales”, además de “abstractos”, “impersonales” y “obligatorios”.
 
-TITULAR DE LA ACCIÓN PENAL. Al Ministerio Público le compete la persecución de los delitos. Por tanto, será el único titular de la acción penal cualquiera que sea el delito.
+SEGUNDO.- En atención a la exposición de motivos de la Iniciativa presentada por el titular del Ejecutivo Local, en conjunto con la del Diputado José del Carmen Herrera Sánchez, los integrantes de la Comisión Orgánica de Seguridad Pública, Protección Civil y Procuración de Justicia, coincidieron en el sentido, por un lado, de expedir un nuevo ordenamiento legal que regule una de las grandes tareas trascendentales del Estado, esto es, la Seguridad Pública de los Gobernados; así mismo que dicho ordenamiento regule el tema de la prestación del servicio de Seguridad privada otorgado por personas físicas o morales de giro mercantil, para efectos de garantizar que dicho servicio se preste acorde a los lineamientos y directrices de las Instituciones de Seguridad Pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Al respecto, la comisión legislativa, considera que “La seguridad pública” implica que los ciudadanos puedan convivir en armonía, cada uno respetando los derechos individuales del otro, siendo el caso que el Estado es el garante de la misma y el máximo responsable a la hora de evitar las alteraciones del orden social.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2008)</small>
+En este sentido, la seguridad pública es un servicio que debe ser universal, en razón de que debe beneficiar a todas las personas para proteger la integridad física de los ciudadanos y sus bienes.
 
-###### ARTÍCULO 5°.
+Para este Poder Legislativo Estatal, se concibe a la seguridad pública no solo como una función que comprende las actividades ejecutivas de prevención, sino también las acciones sustantivas de investigación y persecución para que los delincuentes sean enjuiciados y reinsertos a la sociedad en términos que ordenen las leyes aplicables.
 
-FACULTADES Y DEBERES DEL MINISTERIO PÚBLICO PARA PREPARAR LA ACCIÓN PENAL. Corresponde al Ministerio Público investigar los hechos puestos en su conocimiento como posiblemente constitutivos de delito y, en su caso, preparar la acción penal durante la averiguación previa. Lo anterior con sujeción a lo dispuesto por la Ley de Procuración de Justicia del Estado.
+TERCERO.- En sintonía con lo anterior, se coincide con las propuestas planteadas, tanto por el titular del Ejecutivo Local, como de los diputados integrantes de esta Legislatura, ello en razón de que, como primer elemento prioritario, es importante la adecuación de un marco legal que regule la coordinación entre el Gobierno del Estado y los municipios, así como la de ambos órdenes de gobierno con la Federación, mediante la integración, la organización y el funcionamiento de un Sistema de Seguridad Pública del Estado, para el adecuado ejercicio de la función de seguridad pública.
 
-El Ministerio Público podrá promover la conciliación entre el ofendido, víctima e inculpado en los delitos que sólo se persiguen previa querella y en los perseguibles de oficio en los que el código penal autorice el inejercicio de la acción penal por perdón del ofendido o acto equivalente.
+Siendo indispensable contar con un ordenamiento jurídico que establezca de manera precisa, eficaz y coordinada la participación tanto de las autoridades del ámbito local, en el marco de sus respectivas competencias y atribuciones, así como de la ciudadanía en general.
 
-Para investigar los delitos el Ministerio Público se auxiliará de la policía ministerial; la que estará bajo su autoridad y mando inmediato.
+Es por tal razón, que se coincide con la propuesta de expedir una nueva legislación local, que esté acorde ante la nueva realidad social que se vive en el Estado y a su vez, en estricta armonía con la legislación general en el ámbito de la distribución de competencias entre la federación, entidades federativas y los municipios.
 
-Las demás policías de cualquier orden, sea municipal, estatal o federal, que primero conozcan de un delito, deberán preservar el lugar y sus evidencias. Igualmente, tomarán los datos que identifiquen a los que se digan testigos o puedan serlo y de otros medios de prueba posibles, hasta que el Ministerio Público o la policía ministerial intervengan. De inmediato le informarán de aquellos a la policía ministerial. Con la misma prontitud, darán parte de todo al Ministerio Público y le entregarán los instrumentos, objetos y evidencias que aseguren.
+CUARTO.- Con el ordenamiento que se pretende expedir, se unifica el criterio de “Sistema Estatal de Seguridad Pública” definiéndolo como el conjunto de instituciones, instrumentos jurídicos, principios, reglas, políticas, acciones, acuerdos y convenios que ordenan las atribuciones, los procedimientos y la actuación del Gobierno del Estado y los municipios, así como la coordinación entre ellos y la Federación, tendientes a lograr los objetivos y fines de la seguridad pública, en los términos de los artículos 21 y 115 de la Constitución Federal, la Ley General del Sistema Nacional de Seguridad Pública, la ley que se emite y los demás ordenamientos aplicables.
 
-Durante la averiguación previa, el Ministerio Público retendrá al indiciado que se le detenga por delito flagrante, hasta por el tiempo que la constitución autoriza. También ordenará la detención de indiciados por caso urgente, hasta por igual tiempo. Promoverá el arraigo de inculpados. Solicitará cateos y el embargo precautorio para garantizar la reparación del daño. Citará y declarará a testigos; practicará confrontaciones e inspecciones; solicitará informes y documentos a cualquier autoridad o particular; acordará peritajes y cualesquier otro medio de prueba lícito; siempre y cuando sean conducentes para decidir el ejercicio de la acción penal.
+Así mismo se regula la función de las empresas o personas que ofrecen y brindan servicios de seguridad privada en el Estado, señalando su condición de instancias auxiliares en el marco del Sistema Estatal de Seguridad Pública y sujetándolas, bajo esa condición, a los mecanismos de supervisión, evaluación y control de confianza establecidos para los elementos de seguridad pública, además de sujetarlos a las reglas establecidas en el orden federal para la aportación obligatoria de toda la información relativa a su personal, armamento, equipo y demás elementos que deben entregar a los registros estatales.
 
-###### ARTÍCULO 6°.
+Especial relevancia es el hecho, de que el presente ordenamiento es acorde al nuevo modelo del Sistema de Justicia Penal Acusatorio, el cual se encuentra en funciones en los Municipios de Macuspana, Jalapa, Teapa, Tacotalpa, Paraíso y Centla, siendo el caso que esta legislación conlleva la integración del nuevo modelo de los cuerpos policiales de las instituciones de Seguridad Pública.
 
-FACULTADES Y DEBERES DEL MINISTERIO PÚBLICO EN EJERCICIO DE LA ACCIÓN PENAL. Si con relación a un hecho determinado, se prueba el cuerpo del delito y hay datos bastantes que hagan probable la responsabilidad penal del inculpado; el Ministerio Público en ejercicio de la acción penal:
+En consecuencia, el ordenamiento que se expide se considera apegado a la realidad jurídica ante los nuevos diseños constitucionales y legales emanados del poder constituyente de la unión, se encuentra adecuado ante las necesidades de la ciudadanía Tabasqueña que reclama día con día acciones eficaces y contundentes para abatir el índice de criminalidad.
 
-I. PEDIR INICIO DEL PROCESO. Pedirá que se inicie proceso y formulará en contra de aquél acusación por hecho determinado, que la ley prevea como delito.
+QUINTO.- Cabe señalar, si bien se considera viable en sus términos la iniciativa de Ley presentada por el Ejecutivo Local, la cual dicho sea de paso, coincide con las propuestas de reforma planteadas por el Diputado José del Carmen Herrera Sánchez, la comisión al realizar un análisis de valoración a la propuesta de ley, estima necesario realizar adecuaciones a los artículos 13, 18 y quinto transitorio, ello en razón de lo que a continuación se expone:
 
-II. PEDIR ÓRDENES DE APREHENSIÓN Y COMPARECENCIA. Pedirá la orden de aprehensión o comparecencia en contra del inculpado.
+En el artículo 13 del ordenamiento que se expide, se establece la obligatoriedad para las instituciones de seguridad pública del Estado y los municipios, de proporcionar al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, los informes que les soliciten, respecto al ejercicio de los recursos derivados de los fondos de aportaciones federales y demás fondos de ayuda federal para la seguridad pública, no obstante, esta comisión considera pertinente añadir en dicho precepto, que dichos informes, en su caso, sean entregados de igual forma, al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, ello con el afán de coadyuvar y privilegiar el control y transparencia del manejo e implementación de recursos públicos en el rubro de seguridad pública.
 
-III. PEDIR ASEGURAMIENTO. Pedirá que se preserve el lugar del delito, sus instrumentos, objetos y evidencias; al igual que la identidad y domicilio del inculpado y testigos.
+En el artículo 18, el cual se refiere a la integración del Consejo Estatal de Seguridad Pública, se establece quienes serán los servidores públicos que habrán de conformar dicho consejo, estableciendo, que solamente el Titular del Ejecutivo Local podrá ser suplido en su ausencia, por el Secretario de Gobierno, lo cual se entiende en razón de las diversas funciones y tareas que ejerce el Mandatario Estatal.
 
-IV. PEDIR REPARACIÓN DEL DAÑO Y EMBARGO PRECAUTORIO. Pedirá la reparación del daño y según el caso, el embargo precautorio de bienes para garantizarla.
+Sin embargo, se sostiene la obligatoriedad para la figura del Presidente Municipal, a lo cual la comisión, estima conveniente precisar que los presidentes municipales tengan también, como excepción, la posibilidad de ser suplidos en sus ausencias; ello en razón de que dicha figura, al igual que el Gobernador del Estado, conlleva una serie de responsabilidades, acotadas a su ámbito de responsabilidad, motivo por el cual se considera pertinente, que el Primer Regidor del Ayuntamiento pueda ser suplido por el Director Municipal de Seguridad Pública en las Sesiones del Consejo Estatal.
 
-V. PRESENTAR O PEDIR DESAHOGO DE PRUEBAS. Presentará u ofrecerá los medios de prueba conducentes a sostener la comprobación del cuerpo del delito y demostrar la responsabilidad del inculpado; así como del daño que se deba reparar, su cuantía y la capacidad económica del obligado, según proceda.
+Por último, al realizar un estudio de valoración en el régimen transitorio de la propuesta, particularmente en el artículo Quinto, el cual se refiere a los ajustes presupuestarios que habrá de realizar el Titular del Ejecutivo con motivo de la entrada en vigor del presente ordenamiento, considera necesario establecer que dichos ajustes se realizarán de conformidad a la disponibilidad presupuestal de la administración estatal, ello en razón que, se debe ponderar la capacidad financiera del Estado para efectos de dar cumplimiento a cabalidad del presente ordenamiento.
 
-VI. PEDIR SANCIONES. Pedirá la aplicación de las sanciones que procedan.
+Motivo por el cual se realizaron las adecuaciones respectivas al ordenamiento que se expide en los términos antes referidos.
 
-VII. PEDIR TRÁMITE REGULAR DEL PROCESO. Promoverá que se tramite el proceso de manera regular. Cuidará que el juzgador aplique las leyes y que se cumplan sus resoluciones.
+SEXTO.- Que en virtud de lo anterior y tomando en cuenta que el Honorable Congreso del Estado, de conformidad con lo dispuesto por el artículo 36, fracción I de la Constitución Política Local, se encuentra facultado para expedir, reformar, adicionar, derogar y abrogar las leyes y decretos para la mejor administración del Estado, planeando su desarrollo económico y social. Por lo que se emite y somete a consideración del Pleno el siguiente:
 
-VIII. OTRAS QUE PREVEA LA LEY. Ejercerá las demás atribuciones que este código y las leyes le otorguen.
+DECRETO 212
 
-###### ARTÍCULO 7°.
+###### ARTÍCULO ÚNICO.
 
-ES INADMISIBLE EL DESISTIMIENTO DE LA INSTANCIA. Una vez que el Ministerio Público ejercita la acción penal, se convierte en parte procesal. Por tanto, con relación a los hechos que motiven la acción, no podrá renunciar a los actos procesales que realice, para dejarlos sin efecto y formular de nuevo acusación.
+SE EXPIDE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO, para quedar como sigue:
 
-El proceso se suspenderá cuando se niegue la orden de aprehensión o de comparecencia; o se dicte auto de libertad o de no-sujeción a proceso. Pero el Ministerio Público podrá ofrecer medios de prueba ante el juez que conoció y en su oportunidad, pedirle otra vez orden de aprehensión o de comparecencia. El auto que admita medios de prueba se notificará en forma personal a quién se inculpó sólo cuando se le dictó auto de libertad. Éste podrá ser por datos insuficientes para procesar; o porque ellos se desvanezcan.
+LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO
 
-Las diligencias que practique el Ministerio Público con abandono de la instancia, carecerán de validez.
+# LIBRO PRIMERO. SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+## TÍTULO PRIMERO
 
-> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2008)</small>
+### CAPÍTULO I. SEGURIDAD PÚBLICA
 
-Queda prohibido que se formulen conclusiones no acusatorias. El Ministerio Público se podrá desistir de la acción penal hasta antes de que concluya la fase probatoria.
+DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 1.
 
-###### ARTÍCULO 8°.
+Naturaleza y objeto de la Ley
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+La presente ley es de orden público, interés social y observancia general en el Estado de Tabasco. Tiene por objeto regular la coordinación entre el Gobierno del Estado y los municipios, así como la de ambos órdenes de gobierno con la Federación, mediante la integración, la organización y el funcionamiento del Sistema de Seguridad Pública del Estado de Tabasco, para el adecuado ejercicio de la función de seguridad pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Es también objeto de esta Ley, conforme a la distribución de competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos y en la Ley General del Sistema Nacional de Seguridad Pública:
 
-###### ARTÍCULO 9°.
+I. Establecer el marco jurídico para la organización, estructura y funcionamiento de los cuerpos policiales y el Servicio de Carrera Policial en las instituciones y cuerpos de seguridad pública estatal y municipal;
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+II. Regular la prestación del servicio de seguridad pública y la relación administrativa entre los Miembros de las Instituciones Policiales del Estado de Tabasco y las dependencias y órganos de la Administración Pública Estatal o Municipal, con motivo de la prestación de sus servicios, conforme al artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos;
 
-### CAPÍTULO III. DEFENSAS Y EXCEPCIONES
+III. Regular y fomentar las formas de participación de la comunidad en la función de seguridad pública; y
 
-###### ARTÍCULO 10.
+IV. Regular los servicios de seguridad privada.
 
-DEFENSAS Y EXCEPCIONES. Las defensas y excepciones, sean sustantivas o procesales, perentorias o dilatorias, se podrán plantear por el inculpado o su defensor en cualquier estado del proceso; en la forma y términos de ley.
+###### Artículo 2.
 
-###### ARTÍCULO 11.
+Glosario
 
-DEFENSAS SUSTANTIVAS O PROCESALES. Las defensas sustantivas que se funden en la extinción de la acción penal; así como las procesales por faltar las condiciones para constituir con validez la relación procesal; se resolverán sin trámite especial si están probadas al oponerse.
+Para efectos de esta Ley, se entenderá por:
 
-Las causas que excluyen el delito sólo se tomarán en cuenta al resolver la petición para que se ordene aprehender o hacer comparecer al inculpado; al dictar el auto que resuelva su situación jurídica o que sobresea el proceso y en la sentencia.
+I. Academia de Policía: las instituciones de formación, capacitación y profesionalización policial, del Gobierno del Estado o de los municipios;
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+II. Centro Estatal: el Centro Estatal de Evaluación y Control de Confianza;
 
-###### ARTÍCULO 12.
+III. Centro Nacional: el Centro Nacional de Información;
 
-EXCEPCIONES SUSTANTIVAS O PROCESALES. Las excepciones, sustantivas o procesales, que presuponen la existencia de la acción penal, de los hechos que la motivan y de la relación procesal penal, se podrán examinar al resolver sobre la orden de aprehensión o comparecencia; en el auto que resuelva la situación jurídica; en el que resuelva sobre el sobreseimiento y en la sentencia.
+IV. Certificado: el expedido por el Centro Estatal a los integrantes de los servicios profesionales de carrera policial;
 
-###### ARTÍCULO 13.
+V. Comisionado: el Comisionado de la Policía Estatal;
 
-LAS DEFENSAS Y EXCEPCIONES PROBADAS, PUEDEN CONSIDERARSE DE OFICIO. El juzgador puede de oficio tomar en consideración las defensas y las excepciones, materiales o procesales, siempre y cuando exista prueba de los hechos que les sirva de fundamento.
+VI. Comisiones: las Comisiones del Servicio Profesional de Carrera Policial y las Comisiones de Honor y Justicia, del Estado y de los municipios, respectivamente;
 
-## TÍTULO SEGUNDO. ÓRGANOS CON JURISDICCIÓN Y COMPETENCIA PENAL
+VII. Consejo Estatal: el Consejo de Seguridad Pública del Estado de Tabasco;
 
-### CAPÍTULO I. JURISDICCIÓN PENAL Y ÓRGANOS QUE LA EJERCITAN
+VIII. Consejos Municipales: los Consejos de Seguridad Pública de los municipios;
 
-###### ARTÍCULO 14.
+IX. Consejo Nacional: el Consejo Nacional de Seguridad Pública;
 
-ÓRGANOS CON JURISDICCIÓN PENAL. El ejercicio del poder jurisdiccional en materia penal corresponde:
+X. Constitución Local: la Constitución Política del Estado Libre y Soberano de Tabasco;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+XI. Constitución Federal: la Constitución Política de los Estados Unidos Mexicanos;
 
-I. JUZGADOS LETRADOS. A los jueces letrados en materia penal o letrados mixtos.
+XII. Fiscalía General: la Fiscalía General del Estado de Tabasco;
 
-II. JUZGADOS MIXTOS Y PENALES DE PRIMERA INSTANCIA. A los jueces de primera instancia en materia penal o de primera instancia mixtos.
+XIII. Gobierno del Estado: el Conjunto de poderes y entes públicos del Estado de Tabasco, que cuentan con atribuciones y facultades relativas al ejercicio de la función de seguridad pública;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+XIV. Hoja de Servicio: el documento que resume la trayectoria de cada integrante de las Instituciones de Seguridad Pública, de conformidad con las disposiciones aplicables;
 
-III. TRIBUNALES DISTRITALES. A los magistrados de los tribunales distritales.
+XV. Instituciones de Seguridad Pública: la Institución del Ministerio Público, los Servicios Periciales, las Instituciones Policiales y las dependencias y órganos encargados de la Seguridad Pública en el Estado y los municipios;
 
-IV. TRIBUNAL SUPERIOR DE JUSTICIA. A los magistrados del Tribunal Superior de Justicia, cuando integren pleno del propio tribunal o de sus salas; según lo establezca este código y la Ley Orgánica del Poder Judicial.
+XVI. Instituciones Policiales: las corporaciones de policía de la entidad, incluyendo vialidad y tránsito y agentes de seguridad, custodia y traslado tanto de los centros de reinserción social como de internamiento para adolescentes y de vigilancia de audiencias judiciales, así como las corporaciones policiales de los municipios, comprendiendo vialidad y tránsito;
 
-###### ARTÍCULO 15.
+XVII. Integrantes: los Integrantes de las Instituciones de Seguridad Pública;
 
-OBJETO DE LA JURISDICCIÓN DENTRO DE PROCESO PENAL. La jurisdicción penal tiene por objeto:
+XVIII. Ley General: la Ley General del Sistema Nacional de Seguridad Pública;
 
-I. DECLARAR CUÁNDO UN HECHO ES O NO ES DELITO. Declarar con base en este ordenamiento y el código penal u otras leyes del estado, si las normas penales son o no son aplicables según sus ámbitos; si el hecho es o no es delito; y si a quién se acusa, lo cometió o no lo cometió o existe prueba insuficiente de ello; según corresponda.
+XIX. Ley: la presente Ley del Sistema de Seguridad Pública del Estado de Tabasco;
 
-II. APLICAR LAS SANCIONES O MEDIDAS DE SEGURIDAD. Aplicar las penas y/o medidas de seguridad y condenar a la reparación del daño, con base en este ordenamiento y el código penal u otras leyes del estado.
+XX. Procedimiento: el instaurado a los Integrantes de los cuerpos policiales, por incumplimiento a los requisitos de permanencia o infracción al régimen disciplinario;
 
-Sólo estas declaraciones se tendrán como verdad legal.
+XXI. Programa Rector: el instrumento aprobado respectivamente por la Conferencia Nacional de Procuración de Justicia o por la Conferencia Nacional de Secretarios de Seguridad Pública, que establece el conjunto de contenidos encaminados a la profesionalización de los integrantes de cada una de las instituciones de Seguridad Pública;
 
-### CAPÍTULO II. COMPETENCIA
+XXII. Registro de Armamento: el Registro Estatal de Armamento y Equipo Policial;
 
-###### ARTÍCULO 16.
+XXIII. Registro de Detenidos: el Registro Estatal de Detenidos;
 
-LA COMPETENCIA ES TOTAL. El juzgador que con arreglo a este código es competente para conocer de un proceso, lo es también para conocer de los incidentes; salvo los casos que prevea la ley.
+XXIV. Registro Estatal de Personal: el Registro Estatal de Personal de Seguridad Pública;
 
-###### ARTÍCULO 17.
+XXV. Registro Nacional de Personal: el Registro Nacional de Personal de Seguridad Pública;
 
-NATURALEZA DE LOS LÍMITES DE LA COMPETENCIA. En materia penal no cabe prórroga ni renuncia a la competencia.
+XXVI. Secretaría de Seguridad Pública: la Secretaría de Seguridad Pública del Gobierno del Estado de Tabasco;
 
-###### ARTÍCULO 18.
+XXVII. Secretario: El Secretario de Seguridad Pública del Gobierno del Estado de Tabasco;
 
-INVALIDEZ DE LO QUE SE ACTÚA SIN COMPETENCIA. Carecerá de validez lo que un juez actúe sin jurisdicción o competencia.
+XXVIII. Secretariado Ejecutivo: el Secretariado Ejecutivo del Sistema de Seguridad Pública del Estado de Tabasco;
 
-Las diligencias de averiguación previa no se repetirán para que tengan validez; sin perjuicio de lo que previene el artículo 263.
+XXIX. Secretario Ejecutivo: el Titular del Secretariado Ejecutivo del Sistema de Seguridad Pública del Estado de Tabasco;
 
-###### ARTÍCULO 19.
+XXX. Servicio de Carrera Policial: el Servicio Profesional de Carrera Policial de las instituciones de seguridad pública reguladas en esta Ley;
 
-LÍMITES DE LA COMPETENCIA PENAL. Los límites de la competencia penal se determinan por el lugar donde se comete el delito; por el momento de su ejecución; por turno; por la gravedad de la sanción; y, por grado.
+XXXI. Sistema Estatal: el Sistema de Seguridad Pública del Estado de Tabasco; y
 
-###### ARTÍCULO 20.
+XXXII. Sistema Nacional: el Sistema Nacional de Seguridad Pública.
 
-COMPETENCIA POR TERRITORIO. Es juez competente el del lugar donde se comete el delito. Para ello, se estará al artículo 1° del código penal.
+### CAPÍTULO II. COORDINACIÓN ENTRE LOS ÓRDENES DE GOBIERNO
 
-###### ARTÍCULO 21.
+###### Artículo 3.
 
-DELITOS QUE SE COMETEN FUERA DEL ESTADO Y SOBRE LOS QUE EXISTE JURISDICCIÓN. Son jueces competentes para conocer de un delito que se cometa fuera del estado y cause efectos dentro de él, los de donde se agote la lesión al bien jurídico según el fin del autor o partícipe o se realicen actos para ello.
+Fines del Sistema Estatal
 
-Son jueces competentes para conocer de los delitos permanentes y continuados que se cometan en parte dentro del estado, los de donde aquéllos se ejecuten.
+El Sistema Estatal combatirá las causas que generan la comisión de delitos y de conductas antisociales, a la vez que desarrollará políticas, programas y acciones para fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad.
 
-###### ARTÍCULO 22.
+En el marco del Sistema Estatal, los Gobiernos estatal y municipales garantizarán la seguridad pública a través del diseño transversal de políticas de prevención y su implementación efectiva, que permitan identificar y erradicar los factores de riesgo que originan conductas antisociales y delincuencia, así como establecer los mecanismos necesarios para la reinserción social. Asimismo, desarrollarán políticas, programas y acciones para que la sociedad participe en la planeación y supervisión de la seguridad pública y se fomenten valores culturales y cívicos que estimulen el respeto a la legalidad.
 
-PRINCIPIOS DE PREVENCIÓN Y DE ATRACCIÓN EN LA COMPETENCIA POR TERRITORIO. Cuando dos o más jueces de diverso lugar sean competentes por territorio para conocer del mismo delito, la competencia se resolverá a favor de quien conozca primero.
+###### Artículo 4.
 
-El juez del lugar donde se cometió el delito más grave; atendiendo a la pena máxima de prisión; tendrá competencia para conocer de todos los que se cometieron en otros lugares y respecto de los que procedería la acumulación. Sin perjuicio de que si el Ministerio Público ejercita acción penal ante los jueces de cada lugar según el delito que en él se cometió, se considere válido lo que conozcan y, en su caso, se decrete luego la acumulación.
+Función de seguridad pública
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+De conformidad con lo dispuesto en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley General del Sistema Nacional de Seguridad Pública, la función de seguridad pública se realizará, en los diversos ámbitos de competencia, por conducto de la Secretaría de Seguridad Pública; de la Fiscalía General; de las instituciones policiales; de los ayuntamientos municipales; de las instancias encargadas de aplicar las infracciones administrativas; de los responsables de la prisión preventiva y la ejecución de penas; de las autoridades competentes en materia de justicia para adolescentes; de las instancias encargadas de aplicar las infracciones administrativas, así como de las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al cumplimiento del objeto de esta Ley.
 
-###### ARTÍCULO 23.
+###### Artículo 5.
 
-COMPETENCIA CUANDO SE IGNORE DONDE SE COMETIO EL DELITO. Cuando se ignore dónde se cometió el delito, serán jueces competentes en el orden de prelación siguiente:
+Bases de la seguridad pública
 
-I. LUGAR DE PRUEBAS MATERIALES. El del lugar donde se descubren evidencias materiales del delito.
+Conforme a las bases establecidas en la Ley General, el Sistema Estatal comprende:
 
-II. RESIDENCIA DEL AGENTE DEL MINISTERIO PUBLICO QUE PRIMERO TENGA NOTICIA DEL DELITO. El de la residencia del agente del Ministerio Público que primero tiene noticia del delito.
+I. La coordinación entre el Gobierno del Estado, los municipios y la Federación, mediante los instrumentos, instancias, programas, mecanismos, políticas públicas, servicios y acciones tendentes a cumplir los objetivos y fines de la seguridad pública;
 
-Si después se conoce donde se cometió el delito, sin que aún se cite para sentencia, se remitirán al juez respectivo las actuaciones, los inculpados y las evidencias. Las actuaciones serán válidas.
+II. El Servicio de Carrera Policial;
 
-###### ARTÍCULO 24.
+III. La sistematización de los instrumentos de información sobre seguridad pública, que comprende las bases de datos criminalísticas, así como del personal de las Instituciones de Seguridad Pública, a través de un Sistema de Información Estatal que permita el acceso a la información en materia de seguridad pública;
 
-INCOMPETENCIA TERRITORIAL POR AUSENCIA DE JURISDICCIÓN. Existirá falta de jurisdicción cuando se consigne con o sin detenido por un delito del orden común que se cometió fuera del estado, sin aparecer que produjo efectos dentro de él. En cuyo caso, de plano el juez lo declarará así; anulará lo actuado y pondrá las constancias de la averiguación previa a disposición del Ministerio Público. Si procede, también dispondrá la libertad del detenido.
+IV. Lo relativo al ejercicio, el control, la vigilancia, la información, la evaluación y la fiscalización de los fondos de aportaciones federales para la seguridad pública;
 
-El juez podrá decidir lo anterior desde el auto de inicio hasta antes de que se cumpla ante él la orden de aprehensión o de comparecencia.
+V. La coordinación y la colaboración con la Federación para la seguridad y el resguardo de las instalaciones estratégicas y de aquellas instituciones destinadas a preservar la integridad, la estabilidad y la permanencia del Estado Mexicano; y
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+VI. Las demás necesarias para el cumplimiento de los objetivos y fines del Sistema Estatal y la eficaz coordinación con el Sistema Nacional.
 
-Si después de ello advierte o se promueve su falta de jurisdicción, el juez de plano y sin suspender el procedimiento, remitirá de inmediato testimonio de la causa al tribunal distrital. Exponiendo los motivos por los que estima carecer de jurisdicción; o en su caso, agregará la promoción. Al recibir el asunto, el tribunal distrital dará vista al Ministerio Público por cinco días y al concluir este plazo, resolverá dentro de otro igual. Si fuere el caso, hasta en tanto decida el tribunal distrital, el juez se abstendrá de dictar sentencia.
+###### Artículo 6.
 
-###### ARTÍCULO 25.
+Régimen supletorio
 
-DECLINATORIA OFICIOSA POR INCOMPETENCIA TERRITORIAL EN CONSIGNACIÓN SIN DETENIDO; Y COMPETENCIA LIMITADA EN CIERTOS CASOS DE CONSIGNACIÓN CON DETENIDO. Cuando el juez reciba consignación sin detenido y estime que es incompetente, por serlo el de otro lugar del estado o del orden federal, se procederá de igual forma que el artículo anterior.
+Cuando las disposiciones de esta Ley comprendan materias y acciones que incidan en diversos ámbitos de competencia del Gobierno del Estado y los municipios y no exista disposición expresa en la misma, se aplicará lo que prevea al respecto la Ley General; en su defecto, se atenderá a los lineamientos generales y específicos dictados por los Consejos Nacional y Estatal de Seguridad Pública.
 
-Mas si la consignación es con detenido y existen los mismos motivos del párrafo anterior, el juez dictará auto de inicio y conocerá hasta resolver la situación jurídica. En este auto o enseguida de él, de plano se separará de conocer y remitirá la causa al juez que estime competente. En su caso, también pondrá a su disposición al inculpado; pero si se encuentra en libertad caucional, se respetará ésta y prevendrá a aquél para que se presente ante el juez competente.
+###### Artículo 7.
 
-Cuando los motivos de incompetencia a que se refiere este artículo, se adviertan después de resolver la situación jurídica, el juez procederá de acuerdo al último párrafo del artículo anterior.
+Principios
 
-Lo que se previene en este artículo y el anterior se entiende sin perjuicio de la inhibitoria o declinatoria.
+Las instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional. Su actuación se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos fundamentales reconocidos por la Constitución Federal, en los tratados internacionales de los cuales México sea parte y en la Constitución Local; asimismo, fomentarán la participación ciudadana y la rendición de cuentas en términos de ley.
 
-###### ARTÍCULO 26.
+###### Artículo 8.
 
-COMPETENCIA POR TURNO. Si en el mismo lugar hay dos o más jueces competentes, conocerá el del turno.
+Mecanismos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+Las autoridades competentes en los órdenes Gobierno Estatal y Municipal, establecerán mecanismos eficaces de coordinación entre sí y con las del Gobierno Federal, para el debido cumplimiento de sus atribuciones en los términos de la Ley General y de la presente Ley, para la realización de los objetivos y fines de la seguridad pública.
 
-###### ARTÍCULO 27.
+###### Artículo 9.
 
-COMPETENCIA POR GRAVEDAD DE LA SANCIÓN Y PRINCIPIO DE ATRACCIÓN. Los jueces letrados en materia penal o letrados mixtos, serán competentes para conocer de delitos que sin incluir atenuante, su pena máxima de prisión sea hasta seis años; siempre y cuando no sean graves.
+Convenios
 
-Los jueces de primera instancia en materia penal o de primera instancia mixtos, conocerán de delitos cuya pena máxima de prisión sea superior a seis años; y de los que esa pena sea menor pero el delito sea grave.
+La coordinación entre las autoridades e instituciones de Seguridad Pública de los distintos órdenes de gobierno se realizará con respeto absoluto de sus respectivas atribuciones constitucionales y legales.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+Los municipios podrán celebrar convenios con el Gobierno del Estado para la prestación de los servicios de seguridad pública, en forma coordinada, estableciendo la autoridad que asumirá el mando, o bien, convenir que el Gobierno estatal los asuma totalmente en forma temporal cuando a juicio de los ayuntamientos sea necesario, fijando los mecanismos, medios, recursos, atribuciones y demás elementos y condiciones que se requieran.
 
-Cuando se trate de delitos conexos que por su gravedad diversa, sean competentes jueces letrados y de primera instancia, estos últimos conocerán preferentemente de todos los delitos. Sin perjuicio de considerar válido, en su caso, todo lo que conocieren los letrados.
+Asimismo, los municipios, el Gobierno del Estado y la Federación podrán celebrar convenios o acuerdos específicos para la realización conjunta de operaciones policiales de combate a la delincuencia, estableciendo la autoridad que ejercerá el mando.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+En los casos de fuerza mayor o alteración grave del orden público, el Gobernador del Estado podrá disponer de la policía preventiva municipal, conforme a lo señalado en el artículo 65 de la Constitución Local.
 
-Tan pronto un juez de primera instancia o letrado sepa de un proceso acumulable al de primera instancia; de oficio pedirá informe y con base en éste, de plano decidirá si se remite o no se remite la causa. En su caso, la remitirá después de resolver la situación jurídica.
+### CAPÍTULO III. FONDOS DE AYUDA FEDERAL PARA LA SEGURIDAD PÚBLICA
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+###### Artículo 10.
 
-El juez de primera instancia también ordenará de plano remitir la causa al letrado, cuando el proceso se deba continuar por sólo uno o más delitos que sean competencia de este último.
+Sistema de Información estatal
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El Gobierno del Estado y los municipios integrarán los instrumentos de información del Sistema Estatal, para lo cual se establecerán las bases de datos sobre la seguridad pública, que serán desarrolladas, ejecutadas y actualizadas directamente por los titulares de los órganos encargados de estas funciones.
 
-###### ARTÍCULO 28.
+###### Artículo 11.
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+Finalidades de la coordinación
 
-###### ARTÍCULO 29.
+Sin perjuicio de la coordinación establecida en la Ley General, las autoridades competentes del Gobierno del Estado y de los Municipios se coordinarán para:
 
-DELITOS DE PENALIDAD ALTERNATIVA PARA LOS EFECTOS PROCESALES. Sólo para los efectos procesales, se considerarán de penalidad alternativa los delitos que sin incluir atenuante su pena máxima de prisión sea de seis años o menos; excepto si son graves y, además, los del artículo siguiente.
+I. Integrar el Sistema Estatal y cumplir con sus objetivos y fines, en concordancia con la Ley General;
 
-Por ende, en la sentencia de condena el juzgador impondrá la pena de prisión conducente. Sin perjuicio de aplicar luego la condena condicional si se satisfacen las condiciones de ley.
+II. Ejecutar las políticas del desarrollo policial, así como dar seguimiento y evaluar sus acciones a través de las instancias previstas en esta Ley;
 
-###### ARTÍCULO 30.
+III. Desarrollar y aplicar los lineamientos, mecanismos e instrumentos para mejorar la organización y el funcionamiento de las instituciones policiales y para la formación y mejoramiento personal y profesional de sus Integrantes;
 
-DELITOS QUE SE EXCLUYEN DEL BENEFICIO PROCESAL DE PENALIDAD ALTERNATIVA. Se excluyen del beneficio procesal del artículo anterior:
+IV. Suministrar, intercambiar y sistematizar la información que genere el Sistema Estatal;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2002)</small>
+V. Determinar las políticas de seguridad pública y comunitaria, así como ejecutar, dar seguimiento y evaluar sus acciones a través de mecanismos eficaces;
 
-I. CIERTOS DELITOS DOLOSOS CON PENA DE PRISIÓN INFERIOR A SEIS AÑOS. Los delitos tipificados en los artículos 187; 190; 197; 208 fracción I; 215; 216; 217; 224; 233 fracción VI; 235; 244 si es doloso; 273; 295; 297; 304; 306 fracción IV; 310; 311; 339; 345 salvo que las lesiones dolosas sean leves o levísimas; 348 salvo que las lesiones dolosas sean leves o levísimas; 385; 412; 416; 417; 419; 421; 422; 424 fracción I; 428; 430; 431; 438 y 442, todos del Código Penal.
+VI. Establecer, supervisar, utilizar y mantener actualizados los instrumentos de información del Sistema Estatal;
 
-II. DELITOS CULPOSOS DE HOMICIDIO E INCENDIO. Los delitos culposos de homicidio y el de incendio del artículo 292 del código penal.
+VII. Coadyuvar con la Federación en la vigilancia y protección de las instalaciones estratégicas y de aquellas otras que las leyes determinen;
 
-III. DELITOS CULPOSOS DE LESIONES GRAVÍSIMAS O GRAVES, SI SE OMITE REPARAR EL DAÑO. Los delitos culposos de lesiones gravísimas o graves; salvo que se repare el daño durante la averiguación previa o antes de dictarse orden de aprehensión.
+VIII. Prestar el auxilio necesario, en el marco de sus respectivas competencias, para hacer efectivas las resoluciones o disposiciones de las autoridades jurisdiccionales y administrativas;
 
-IV. DELITOS CULPOSOS COMETIDOS CON MODALIDAD AGRAVANTE. Cualquier otro delito culposo que se cometa bajo una o más de las modalidades agravantes que prevé el código penal; salvo que se repare el daño durante la averiguación previa o antes de dictarse orden de aprehensión.
+IX. Establecer criterios para la organización, la administración, la operación y la modernización tecnológica de las instituciones de seguridad pública;
 
-V. DELITOS EN LOS QUE LA PENA MÁXIMA DE PRISIÓN SE REDUCE A SEIS AÑOS O MENOS, POR MODALIDAD ATENUANTE. Los delitos cuya pena máxima de prisión se reduzca a seis años o menos, por concurrir una o más modalidades atenuantes.
+X. Suministrar, intercambiar y sistematizar todo tipo de información sobre seguridad pública;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+XI. Realizar operaciones policiales conjuntas, en los términos de esta Ley;
 
-VI. DELITOS CUANDO EXISTA REITERACION DELICTIVA. Cuando aparezca que el inculpado cometió con anterioridad otro delito, sin aún transcurrir el término legal para que se excluya la reiteración delictiva; sea ésta real o ficta; si ello aparece durante el proceso, el juez letrado ordenará que se aprehenda al inculpado, sin perjuicio de que el inculpado obtenga luego su libertad provisional bajo caución.
+XII. Efectuar el control y la vigilancia de los servicios de seguridad privada y de otros auxiliares, en los términos de la Ley; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIII. Las relacionadas con las anteriores y demás que sean necesarias para fortalecer la efectividad de las medidas y acciones tendientes a alcanzar los fines de la seguridad pública.
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+###### Artículo 12.
 
-VII. DELITOS EN LOS QUE SE VIOLAN MEDIDAS DE ARRAIGO JUDICIAL. Los delitos en los que el inculpado viole sin causa justificada alguna de las medidas de arraigo que se le fijen durante el proceso o la averiguación previa. En cuyo caso, se procederá de igual forma que la fracción anterior.
+Manejo de los recursos
 
-###### ARTÍCULO 31.
+El ejercicio, el control, la vigilancia, la información, la evaluación y la fiscalización de los recursos derivados de los fondos de aportaciones federales y demás fondos de ayuda federal para la seguridad pública, se sujetarán a la Ley de Coordinación Fiscal, a la Ley General, a la presente Ley y a los convenios celebrados entre los Gobiernos Federal, Estatal y Municipal, así como a las demás disposiciones federales y estatales aplicables.
 
-JUEZ QUE SE ESTIMA INCOMPETENTE PARA CONOCER UN ASUNTO QUE RECIBIÓ POR INCOMPETENCIA DE OTRO. (CONFLICTO NEGATIVO DE COMPETENCIA). Si el juez ante quién se ejercita acción penal porque otro se estimó incompetente; o al que se remita una causa por igual motivo; también así se considera; enviará los autos al tribunal de competencia para que resuelva el conflicto.
+El ejercicio, el control, la vigilancia, la información, la evaluación y la fiscalización de dichos recursos quedarán a cargo de las instancias competentes, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+###### Artículo 13.
 
-###### ARTÍCULO 32.
+Informes sobre el ejercicio de los recursos
 
-COMPETENCIA POR GRADO DE TRIBUNALES DISTRITALES, SALAS Y PLENO DEL TRIBUNAL SUPERIOR. Los tribunales distritales y las salas del Tribunal Superior de Justicia, conocerán de los recursos y demás asuntos en materia penal que les encomiende la ley. El pleno del Tribunal Superior de Justicia conocerá de los asuntos en los que se plantee el reconocimiento de la inocencia del sentenciado y demás en materia penal que le encomiende la ley.
+Las instituciones de seguridad pública del Estado y los municipios deberán proporcionar al Secretariado Ejecutivo del Sistema Nacional y, en su caso, al Secretariado Ejecutivo del Sistema Estatal, los informes que les soliciten respecto al ejercicio de los recursos a que se refiere el primer párrafo del artículo anterior y al avance en el cumplimiento de los programas o proyectos en que fueron aplicados, así como a la ejecución del Programa de Seguridad Pública del Estado de Tabasco, derivado del Programa Nacional de Seguridad Pública y demás acciones relacionadas con el control, la vigilancia, la transparencia y la supervisión del manejo de dichos recursos.
 
-## TÍTULO TERCERO. PARTES EN EL PROCESO PENAL
+## TÍTULO SEGUNDO. SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-### CAPÍTULO I. EL MINISTERIO PÚBLICO Y SU ACUSACIÓN
+### CAPÍTULO I. INTEGRACIÓN Y OBJETIVOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 14.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+Responsabilidades por el manejo indebido de los fondos federales
 
-###### ARTÍCULO 33.
+Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos estatales o municipales por el manejo o aplicación indebidos de los recursos derivados de los fondos de aportaciones federales y demás fondos de ayuda federal para la seguridad pública de las entidades y de los municipios que establece la Ley de Coordinación Fiscal serán determinadas y sancionadas por las autoridades federales o locales, según corresponda, de conformidad con lo previsto en la normatividad aplicable.
 
-EL MINISTERIO PÚBLICO COMO PARTE. El Ministerio Público es parte y carece de autoridad en el proceso; por tanto, el agente que intervenga es irrecusable. Pero cuando le afecte algún impedimento de los previstos en la Ley de Procuración de Justicia se excusará en la forma que dicho ordenamiento prevea.
+###### Artículo 15.
 
-###### ARTÍCULO 34.
+Componentes del Sistema Estatal
 
-ACUSACIÓN DEL MINISTERIO PÚBLICO AL INICIAR LA ACCIÓN PENAL, POR HECHO DETERMINADO QUE INTEGRE TIPO PENAL. En capítulo especial del pedimento por el que inicia la acción penal, el Ministerio Público determinará en proposiciones sencillas y concretas, con relación a cada inculpado:
+El Sistema Estatal es el conjunto de instituciones, instrumentos jurídicos, principios, reglas, políticas, acciones, acuerdos y convenios que ordenan las atribuciones, los procedimientos y la actuación del Gobierno del Estado y los municipios, así como la coordinación entre ellos y la Federación, tendientes a lograr los objetivos y fines de la seguridad pública, en los términos de los artículos 21 y 115 de la Constitución Federal, la Ley General, la presente Ley y los demás ordenamientos aplicables.
 
-I. FUNDAMENTOS DE LA ACUSACIÓN. Qué delitos le imputa. Para ello, citará sus nombres y los fundamentos legales que prevean al tipo penal de cada hecho por el que acuse al inculpado. Además, pedirá que se imponga a aquél las penas que corresponda; para lo cual invocará la penalidad legal aplicable a cada delito; con inclusión de las reglas por concurso, según proceda.
+### CAPÍTULO II. CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
-II. CONCRECIÓN DE LOS ELEMENTOS DEL TIPO PENAL. Qué hecho o hechos determinados motivan su acusación. Cuidándose de precisar, en qué hace consistir la intervención del inculpado y las circunstancias de los demás elementos típicos esenciales para la punibilidad de cada hecho; según el o los delitos por los que lo acuse.
+###### Artículo 16.
 
-Cuando el tipo penal del delito tenga conductas, circunstancias y/o modalidades alternas, el Ministerio Público precisará en qué hace consistir sólo aquéllas por las que acuse.
+Integración del Sistema Estatal
 
-En cualquier caso será innecesario que el Ministerio Público relacione por aparte cada circunstancia con su elemento típico. Pero éstas se contendrán en el hecho por el que acuse y, en su caso, motivará en forma especial las circunstancias agravantes.
+El Sistema Estatal se integra por los siguientes órganos e instancias:
 
-III. ENUNCIACIÓN DE LOS DATOS QUE INDIQUEN LA CULPABILIDAD PENAL. Qué circunstancias indican la culpabilidad penal del inculpado.
+I. El Consejo Estatal de Seguridad Pública;
 
-###### ARTÍCULO 35.
+II. Los Consejos de Seguridad Pública de los municipios; y
 
-DENUNCIA O QUERELLA POR HECHO DETERMINADO QUE INTEGRE TIPO PENAL. El Ministerio Público al iniciar la acción, se podrá remitir a los hechos de la denuncia o querella, sólo si en ellas se determinaron aquéllos en la forma que prevén las fracciones II y III del artículo anterior.
+III. El Secretariado Ejecutivo del Sistema Estatal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 17.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+Colaboración del Poder Judicial de la Entidad
 
-###### ARTÍCULO 36.
+El Poder Judicial del Estado de Tabasco, en tanto parte integrante del Sistema Estatal de Seguridad Pública en el seno del Consejo Estatal, contribuirá con los órganos e instancias señalados en el artículo anterior en la formulación de estudios, lineamientos e implementación de acciones que permitan alcanzar los fines de la seguridad pública.
 
-ANTECEDENTES DEL HECHO TIPICO PENAL. En la acusación del pedimento que inicia la acción, se podrán incluir en capítulo aparte los antecedentes que se consideren necesarios de los hechos típicos penales.
+En todo caso, la participación del Poder Judicial en el Sistema Estatal se regirá por la Ley Orgánica del Poder Judicial del Estado de Tabasco y sus ordenamientos internos, conservando plena independencia en el ejercicio de la función jurisdiccional que le compete.
 
-###### ARTÍCULO 37.
+###### Artículo 18.
 
-PRESUPUESTO NECESARIO PARA EL DESARROLLO VÁLIDO DE LA RELACIÓN PROCESAL. Sólo los hechos que se determinen en la forma que señalan los artículos 34 o 35, se tendrán como acusación de parte legítima para el desarrollo válido del proceso penal.
+Integración
 
-###### ARTÍCULO 38.
+El Consejo Estatal es la instancia responsable de la coordinación, la planeación y la implementación del Sistema Estatal, así como del Sistema Nacional en el ámbito local, responsable de dar seguimiento a los acuerdos, políticas y lineamientos emitidos por las instancias respectivas.
 
-ACLARACIÓN DE PEDIMENTO POR DEFECTOS SUSTANCIALES AL DETERMINAR EL HECHO TÍPICO PENAL. El juzgador ordenará aclarar el pedimento que inicia la acción penal, si en éste se incumple con acusar por hechos determinados de acuerdo con los artículos 34 o 35. El auto que ordene aclarar, contendrá los motivos, razones y fundamentos para esa determinación.
+Asimismo, será la máxima instancia de deliberación, consulta y definición de políticas públicas del Sistema Estatal y estará integrado por:
 
-###### ARTÍCULO 39.
+I. El Gobernador del Estado, quien lo presidirá;
 
-FALTA POR DESATENDER LAS GARANTÍAS DE ACUSACIÓN Y AUDIENCIA. Incurrirá en falta el juzgador que no mande aclarar el pedimento que inicia la acción y por el cual se pida orden de aprehensión o comparecencia, sin que en aquél se acuse por hechos determinados conforme a los artículos 34 o 35.
+II. El Secretario de Gobierno;
 
-Incurrirá en igual falta, si al consignarse con detenido se lleva a cabo la diligencia de declaración preparatoria, sin que la acusación se determine a más tardar al iniciar aquella. En ésta, el Ministerio Público podrá determinar la acusación en forma oral.
+III. El Secretario de Seguridad Pública;
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+IV. El Coordinador General de Asuntos Jurídicos;
 
-No se considerará como falta cuando se lleve a cabo la diligencia de declaración preparatoria y luego aparezca que se formuló acusación por hecho determinado que resulte ser atípico, o cuando en la acusación se omitió precisar en qué consiste algún elemento típico que sea esencial para la punibilidad del hecho.
+V. El Fiscal General del Estado;
 
-###### ARTÍCULO 40.
+VI. El Comisionado de la Policía Estatal;
 
-CONSECUENCIAS PROCESALES POR INCUMPLIR LAS GARANTÍAS DE ACUSACIÓN Y AUDIENCIA. Será motivo para anular de pleno derecho la diligencia de declaración preparatoria; así como las actuaciones y resoluciones posteriores, salvo las que no se puedan renovar; al igual que para ordenar la libertad del inculpado:
+VII. Los Presidentes Municipales;
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+VIII. Un representante por cada una de las Instituciones de Seguridad Pública de la Federación presentes en el Estado, sólo con derecho a voz;
 
-Si en esa diligencia se omite darle a conocer el o los hechos determinados de que se le acusa; o éstos no se hacen constar en el acta y el Ministerio Público omitió hacerlo antes en la forma que señalan los Artículos 34 o 35. Así mismo, cuando los hechos determinados por los que se formuló acusación resulten ser atípicos o en la acusación se omitió precisar en qué consiste algún elemento típico que sea esencial para la punibilidad básica del hecho.
+IX. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública, quien fungirá como Secretario del Consejo, sólo con derecho a voz; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+X. Dos ciudadanos representativos de la sociedad civil interesados en los temas de seguridad pública, sólo con derecho a voz.
 
-###### ARTÍCULO 41.
+El Presidente del Consejo Estatal será suplido en sus ausencias por el Secretario de Gobierno. Los demás integrantes del Consejo no tendrán suplentes, salvo los presidentes municipales, en cuya representación podrán acudir los directores de seguridad pública municipal.
 
-CLASIFICACION TECNICA DEL DELITO POR EL QUE SE EJERCITA ACCION. El nombre del o de los delitos y los fundamentos que con relación a ellos se invoquen en el pedimento que inicia la acción penal, no impedirán al juzgador reclasificarlos al resolver sobre la orden de aprehensión o de comparecencia; o la situación jurídica del inculpado. La facultad de reclasificar, incluirá los casos en los que los mismos hechos configuren varios delitos y en el pedimento se omitió mencionar algunos de éstos. Mas se ordenará la libertad del inculpado al resolver su situación jurídica, si los hechos determinados por los que se formuló acusación resultan ser atípicos, con inclusión de los casos en los que en la acusación se omita precisar en qué consiste algún elemento típico que sea esencial para la punibilidad básica del hecho.
+Así mismo, concurrirán a las reuniones del Consejo Estatal, un representante del Poder Legislativo y un representante del Poder Judicial, sólo con derecho a voz.
 
-Para ello y en cualquier caso, el juzgador se estará a la prueba de los hechos y a la exacta aplicación de la ley penal; pero sin que pueda atender a circunstancias ajenas a la materia de la acusación que perjudiquen al inculpado. El Ministerio Público o inculpado podrán apelar la reclasificación.
+El Presidente de la Comisión Estatal de Derechos Humanos será invitado permanente a las sesiones del Consejo.
 
-Todo proceso se seguirá por los hechos y delitos que señale el auto de formal prisión o sujeción a proceso que quede firme. Si durante el proceso aparecen hechos delictivos distintos a los que motiven el auto de formal prisión o sujeción a proceso, el Ministerio Público iniciará acción penal por separado; sin perjuicio de decretar la acumulación de procesos cuando sea procedente.
+El Consejo Estatal podrá invitar, dependiendo de la naturaleza de los asuntos a tratar, a personas, instituciones y representantes de organizaciones de la sociedad civil, que puedan exponer o aportar conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública. Dicha participación será con carácter honorífico.
 
-Mas si en el proceso aparecen datos que revelen otros elementos alternativos del mismo tipo penal; que lo complementen; o agraven su penalidad; al igual que si el Ministerio Público omitió incluirlos en su acusación: Aquél podrá ejercitar de nuevo acción penal antes de cerrarse la fase probatoria, sirviéndole como base del nuevo ejercicio las constancias del proceso, de las que presentará copia certificada.
+Los miembros del Consejo Estatal podrán proponer acuerdos y resoluciones, así como vigilar su cumplimiento.
 
-Si en la nueva causa se dicta auto de formal prisión que incluya las circunstancias omitidas; o alguna de ellas; se sobreseerá el proceso anterior. En caso contrario, se sobreseerá el segundo proceso. El inculpado podrá, con la asistencia de su defensor, renunciar a la fase probatoria y pedir que después del auto de formal prisión, se cite a la audiencia final.
+###### Artículo 19.
 
-Al concluir la fase probatoria y antes de citar a la audiencia final, el juez dictará auto preventivo en tal sentido. El que notificará personalmente al Ministerio Público; quién dentro de los tres días siguientes a la notificación podrá pedir pena diversa a las de prisión y multa o corregir las que pidió; o que se aplique regla de penalidad por concurso de delitos; si es que omitió hacerlo antes en su pedimento de inicio de la acción penal o al respecto incurrió en error. En tales casos, el juez dará vista de ello al inculpado y su defensor y citará a audiencia final. Después de ese plazo, el Ministerio Público no podrá subsanar ningún error u omisión.
+Atribuciones del Consejo Estatal
 
-###### ARTÍCULO 42.
+El Consejo Estatal tendrá las siguientes atribuciones:
 
-ACUSACIÓN DEL MINISTERIO PÚBLICO Y CONCLUSIONES. Salvo el caso que se reclasifique al delito en el auto de formal prisión o sujeción a proceso que quede firme, las conclusiones serán innecesarias. Toda vez que la acusación se concreta desde que se inicia la acción.
+I. Expedir las bases y reglamentos para su organización y su funcionamiento;
 
-Por lo tanto, si no se reclasificó al delito, al concluir la fase probatoria se citará a audiencia final. En ella las partes presentarán alegatos si lo desean y se citará para sentencia.
+II. Promover la efectiva coordinación entre el Gobierno del Estado y los municipios para el cumplimiento de los objetivos y fines de la seguridad pública, conforme a la Ley General y la presente Ley;
 
-###### ARTÍCULO 43.
+III. Presentar propuestas para el Programa Estatal de Seguridad Pública, en los términos de la Ley de la materia;
 
-PETICIÓN DE REPARACIÓN DEL DAÑO. Por ministerio de ley, todo pedimento que inicia la acción penal lleva implícita la petición de que se condene al inculpado a reparar el daño, aún si no se solicita en forma expresa; ni se pide en conclusiones. Mas cuando el Ministerio Público pretenda condena por cantidad líquida, al iniciar la acción especificará en qué hace consistir los conceptos y al formular alegatos o conclusiones, especificará el monto y su prueba, según el caso.
+IV. Evaluar el cumplimiento de los objetivos y metas de los programas de Seguridad Pública y otros relacionados;
 
-El Ministerio Público también podrá pedir la reparación del daño al tercero obligado, a través del incidente especial que este código prevé; siempre y cuando se lo pida el ofendido o víctima. A quienes les informará de lo anterior.
+V. Expedir políticas en materia de suministro, intercambio, sistematización y actualización de la información que sobre Seguridad Pública generen las Instituciones de seguridad pública en el Estado;
 
-###### ARTÍCULO 44.
+VI. Proponer programas de colaboración internacional sobre seguridad pública y de investigación y persecución del delito, en coordinación con las entidades y dependencias competentes;
 
-OFICIOSIDAD JUDICIAL Y PROMOCIONES DEL MINISTERIO PÚBLICO DURANTE EL PROCESO. El impulso del proceso estará a cargo del juzgador; salvo su inicio y aquellas resoluciones en las que conforme a la ley sea indispensable promoción previa del Ministerio Público. Éste cuidará siempre que todo proceso se tramite regularmente y promoverá lo conducente a tal efecto.
+VII. Vigilar la implementación en el Estado y los municipios, de los acuerdos y resoluciones generales dictados por el Consejo Nacional;
 
-El Ministerio Público debe fundar y motivar sus promociones durante el proceso. Pero ello no será impedimento para que el juzgador provea de oficio todo lo pertinente para la pronta y expedita tramitación de la causa. Así como todo lo necesario para la adecuada administración de justicia.
+VIII. Impulsar el Servicio de Carrera Policial, así como promover su homologación y evaluar sus avances;
 
-Será suficiente para considerar motivado y fundado el pedimento que inicia la acción penal con relación a los hechos por los que se acuse, cuando aquél se ajuste a los artículos 34 ó 35; sin necesidad de que se desglosen los respectivos medios de prueba, con relación a cada elemento del tipo penal delictivo por el que acuse. Pero el Ministerio Público sí deberá presentar aquellos en el expediente de averiguación previa.
+IX. Vigilar la observancia de los criterios para la distribución de recursos de los fondos federales para la seguridad pública, establecidos en la Ley de Coordinación Fiscal y demás disposiciones aplicables;
 
-### CAPÍTULO II. OFENDIDO Y VÍCTIMA
+X. Supervisar el cumplimiento cabal y oportuno del Programa Rector, fundamentalmente en los aspectos de ingreso, formación, capacitación, adiestramiento y actualización;
 
-###### ARTÍCULO 45.
+XI. Impulsar la instalación y funcionamiento en los municipios de las Comisiones y las Academias de Policía;
 
-QUIÉNES SON OFENDIDOS O VÍCTIMAS. Son ofendidos o víctimas las personas que señala el Código Penal.
+XII. Vigilar la correcta tramitación de los procesos relativos al Servicio de Carrera Policial, así como a la Profesionalización y al Régimen Disciplinario;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIII. Proponer políticas, lineamientos y acciones para el eficaz funcionamiento de las instituciones de seguridad pública;
 
-###### ARTÍCULO 46.
+XIV. Designar a los dos presidentes municipales que participarán en la Conferencia Nacional de Seguridad Pública Municipal;
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+XV. Vigilar y supervisar la administración y el funcionamiento correctos de los Centros de Reinserción Social del Estado, así como de los administrados u operados por los municipios;
 
-###### ARTÍCULO 47.
+XVI. Diseñar e implementar mecanismos eficaces para promover la participación de la sociedad en el cumplimiento de los fines y objetivos de la función de seguridad pública;
 
-GARANTÍAS DEL OFENDIDO O VÍCTIMA EN EL PROCESO. En todo proceso penal, los ofendidos o víctimas tendrán derecho:
+XVII. Vigilar la implementación de políticas en materia de atención a víctimas u ofendidos del delito;
 
-I. INFORMACIÓN Y ASESORÍA JURIDÍCA. A que el Ministerio Público les dé asesoría jurídica. El juzgador les informará del desarrollo del proceso cuándo lo pidan.
+XVIII. Aprobar el Reglamento del Secretariado Ejecutivo del Sistema Estatal; y
 
-II. COADYUVANCIA PROBATORIA. A ofrecer por sí, por conducto de su abogado o del Ministerio Público y dentro de los plazos de ley, todos los medios de prueba conducentes a acreditar el cuerpo del delito y la responsabilidad del inculpado; así como de la existencia y monto del daño.
+XIX. Las demás que le confieran otras disposiciones legales.
 
-Podrán estar presentes en la recepción de medios de prueba y el juzgador les dará la misma intervención que conceda al Ministerio Público. El juzgador no estará obligado a notificarles la admisión o no-admisión; o recepción de medios de prueba; salvo los casos de la fracción siguiente.
+###### Artículo 20.
 
-III. PARTE CIVIL. A constituirse en parte civil por sí o por conducto de abogado. A que con tal carácter; además de las que este código señale; se les notifique toda resolución que se pronuncie con relación directa a la reparación del daño y a impugnarlas a través del recurso idóneo. Igualmente, a realizar los actos procesales de los artículos 49 y 50.
+Reuniones del Consejo Estatal
 
-IV. OTROS RECURSOS. A apelar el auto que sobresea el proceso por desistimiento de la acción penal.
+A convocatoria de su Presidente, por conducto del Secretario Ejecutivo, quien integrará la agenda de los asuntos a tratar, el Consejo Estatal se reunirá en forma ordinaria por lo menos cada tres meses, y de manera extraordinaria en cualquier tiempo.
 
-V. NOTIFICACIONES. Para los efectos de este artículo el juez ordenará de oficio al iniciar proceso que se notifique personalmente al ofendido o víctima; siempre y cuando en la averiguación previa aparezca su domicilio para oír y recibir notificaciones en el lugar del proceso. Para que si lo desean, comparezcan por sí o por abogado a manifestar lo que a su derecho convenga.
+Para que el Consejo pueda sesionar se requerirá la asistencia de la mitad más uno de sus integrantes. Tomará sus acuerdos por mayoría de votos de los miembros presentes con derecho a ello; en caso de empate, el Presidente del Consejo contará con voto de calidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 21.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+Convocatorias
 
-Las demás notificaciones se les harán por lista; salvo las que sobresean el proceso por desistimiento de la acción; perdón del ofendido; y demás que en forma expresa prevea este código. Siempre y cuando en autos aparezca su domicilio para oír y recibir notificaciones en el lugar del proceso.
+Las convocatorias a las reuniones ordinarias del Consejo Estatal deberán informarse a sus miembros al menos tres días antes de la fecha de su celebración; y las relativas a reuniones extraordinarias, en cualquier tiempo.
 
-###### ARTÍCULO 48.
+Las reuniones del Consejo Estatal podrán ser públicas o privadas, conforme lo decida el propio Consejo a propuesta de su Presidente, atendiendo la naturaleza de los asuntos a tratar.
 
-MOMENTO EN QUE EL OFENDIDO O VÍCTIMA SE PUEDEN CONSTITUIR EN PARTE CIVIL. El ofendido o víctima se podrán constituir en parte civil desde que Ministerio Público ejercite la acción penal, hasta antes de que concluya la fase probatoria.
+###### Artículo 22.
 
-###### ARTÍCULO 49.
+Comisiones del Consejo Estatal
 
-EFECTOS DE CONSTITUIRSE EN PARTE CIVIL. Si el ofendido o víctima se constituyen en parte civil por sí o por abogado, podrán solicitar la reparación del daño al inculpado; rendir pruebas sobre su monto y sobre la situación económica del acusado; formular alegatos de buena prueba e impugnar las resoluciones que sobre esta materia se dicten.
+El Consejo podrá formar las comisiones que considere necesarias para el mejor cumplimiento de su objeto. Serán comisiones permanentes del Consejo las siguientes:
 
-En tal caso la pretensión de resarcir se desincorporará de la acción penal.
+I. De Certificación y Acreditación;
 
-###### ARTÍCULO 50.
+II. De Información; y
 
-DEMANDA DE REPARACIÓN DEL DAÑO; TIEMPO PARA OFRECER PRUEBAS Y FORMA DE CONDENA. Al constituirse en parte civil, el ofendido o víctima manifestarán por escrito el carácter con el que comparecen y en qué hacen consistir los motivos y conceptos del daño según el código penal.
+III. De Prevención del Delito y Participación Ciudadana.
 
-Cuando, además, pretendan justificar el monto de los daños, presentarán la relación de éstos a que se refiere el código penal; y sólo serán admisibles los medios de prueba que ofrezcan dentro de los períodos que este código concede al Ministerio Público. Los que se lleguen a recibir después de la fase probatoria sólo se tomarán en cuenta en el incidente de liquidación que se llegue a tramitar después de sentencia.
+Las comisiones se coordinarán con el Secretario Ejecutivo para dar seguimiento al cumplimiento de las disposiciones aplicables por parte de las instancias competentes.
 
-Si desean condena por cantidad líquida, durante el plazo que la ley concede al Ministerio Público para alegatos o conclusiones, formularán los propios en los que especificarán el monto, relacionándolo con los conceptos del daño. Para tal efecto, el juzgador siempre ordenará notificar a la parte civil el auto que pone la causa a la vista del Ministerio Público para formular conclusiones o alegatos; según corresponda.
+###### Artículo 23.
 
-Se podrá condenar por cantidad líquida o ilíquida. Para la liquidación y hacer efectiva la reparación se procederá de acuerdo a lo que éste y el Código Penal prevén.
+Aplicación y ejecución de acuerdos y resoluciones de coordinación
 
-### CAPÍTULO III. INCULPADO
+Los acuerdos y resoluciones del Consejo Estatal que comprendan materias o acciones de coordinación entre autoridades estatales con las de los ámbitos federal o municipal, se aplicarán y ejecutarán mediante convenios generales o específicos entre las partes, según se requiera.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 24.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+El Secretariado Ejecutivo es el órgano operativo del Sistema Estatal, de naturaleza desconcentrada, dependiente de la Secretaría de Gobierno, que gozará de autonomía técnica y de gestión, necesarias para el debido ejercicio de sus funciones. El Consejo Estatal aprobará el Reglamento del Secretariado Ejecutivo, a propuesta que presente el Secretario Ejecutivo.
 
-###### ARTÍCULO 51.
+Al frente del Secretariado Ejecutivo habrá un titular al que se le denominará Secretario Ejecutivo.
 
-PERSONA INCULPADA. Durante el proceso tendrá calidad de inculpada la persona a la que el Ministerio Público le atribuya intervención típica en un delito.
+###### Artículo 25.
 
-Una vez que se adquiere la calidad de persona inculpada, se conserva durante el proceso sin importar la instancia y terminará con sentencia ejecutoria; auto que niegue la aprehensión o comparecencia; auto de libertad, no-sujeción a proceso o que lo sobresea; siempre y cuando queden firmes.
+Nombramiento y remoción del Secretario Ejecutivo del Sistema Estatal
 
-Igualmente terminará cuando exista error en la persona por confusión de generales.
+El Gobernador del Estado nombrará y removerá libremente al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 26.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+Requisitos para ser Secretario Ejecutivo
 
-###### ARTÍCULO 52.
+El Secretario Ejecutivo deberá cumplir los siguientes requisitos:
 
-IDENTIDAD DEL INCULPADO. (IGNORANCIA O ERROR EN GENERALES O DE PERSONA). Cuando es cierta la identidad física del inculpado, la imposibilidad de conocer sus generales no suspende el proceso.
+I. Ser ciudadano mexicano por nacimiento; no tener o adquirir otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
 
-Las generales falsas por las que se llegue a identificar al inculpado, podrán rectificarse en cualquier momento; sin que ello afecte la calidad de aquél.
+II. Tener más de 30 años de edad;
 
-Si en cualquier estado o grado del proceso se prueba que se procede contra una persona que no intervino en el delito, por confundir su identidad o sus generales con las del inculpado, se sobreseerá la causa con relación a ella.
+III. Contar con título de grado de Licenciatura debidamente registrado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. Ser de reconocida capacidad y probidad y contar con, por lo menos, tres años de experiencia en áreas o temas de Seguridad Pública; y
 
-###### ARTÍCULO 53.
+V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+###### Artículo 27.
 
-###### ARTÍCULO 54.
+Personal de confianza del Secretariado Ejecutivo
 
-ACTOS PROCESALES DEL INCULPADO DURANTE EL PROCESO. El inculpado, por sí o por medio de su defensor, durante el proceso podrá realizar actos conducentes a su defensa, en los casos siguientes:
+El personal de confianza del Secretariado Ejecutivo se considerará personal de seguridad pública y será de libre designación y remoción; asimismo, se sujetará a los procesos de evaluación de control de confianza y de certificación, según corresponda.
 
-I. SITUACIÓN DE SUBJUDICE. Cuando esté detenido o sujeto a prisión preventiva; o se encuentre en libertad provisional bajo caución o bajo protesta, hasta en tanto no se revoque o modifique por el juez en auto que quede firme.
+El personal que sea designado para laborar en el Centro Estatal de Evaluación y Control de Confianza, no deberá pertenecer a la Carrera Policial.
 
-II. PETICIÓN CAUCIONAL DE PERÍODO CONSTITUCIONAL EN CIERTOS DELITOS NO GRAVES. Cuando esté pendiente de resolverse la petición de orden de aprehensión o de comparecencia y sin que se trate de delito grave, para pedir se lleve a cabo la declaración preparatoria y se resuelva su situación jurídica.
+###### Artículo 28.
 
-Mas la petición sólo se acordará de conformidad si al ameritar el delito orden de aprehensión, se exhibe caución en efectivo. La que será bastante a juicio del juez, según las circunstancias, para asegurar que el inculpado se presente personalmente dentro de los tres días siguientes de que se defina su situación jurídica. Ello, con independencia de que se le notifique o no se le notifique el auto que la defina.
+Atribuciones del Secretario Ejecutivo
 
-Si se dicta auto de soltura que quede firme, la caución se devolverá. Si se dicta auto de formal prisión y el inculpado se presenta dentro del plazo del párrafo anterior, la caución podrá prorrogarse mientras el proceso se resuelve; siempre y cuando el monto de aquella sea suficiente para garantizar la reparación del daño. Si el monto fuere insuficiente, se deberá complementar con la diferencia a través de cualquiera de las formas que autoriza este código.
+Son atribuciones del Secretario Ejecutivo:
 
-Si el inculpado no se presenta dentro del plazo; o no complementa el monto de la caución dentro de los cinco días siguientes al auto que fije el complemento; el juez de oficio hará efectiva la caución a favor del fondo para mejorar la administración de justicia. Además, ordenará aprehender al inculpado conforme al auto de formal prisión que se le dictó. Los recursos que se interpongan en contra del auto de formal prisión o demás resoluciones que se prevén en esta fracción, se admitirán sin efecto suspensivo.
+I. Fungir como enlace responsable de atender y dar seguimiento a la operación del Sistema Nacional en el Estado, así como proporcionar al Secretariado Ejecutivo de dicho Sistema la información que requiera, en los términos de la Ley General;
 
-El inculpado también podrá solicitar se lleve a cabo la declaración preparatoria y se resuelva su situación jurídica cuando la orden de aprehensión esté sin cumplirse; pero en tal caso quedará en detención; a menos que obtenga su libertad provisional bajo caución si ésta procede; la que podrá pedir por conducto de defensor.
+II. Elaborar, previa autorización del Presidente del Consejo Estatal, la propuesta de contenidos de la Política Estatal en Seguridad Pública y someterla a la aprobación del Consejo Estatal;
 
-III. PROMOCIONES PARA SOBRESEER. Fuera de los supuestos anteriores, el inculpado no podrá realizar actos procesales por sí o por medio de otra persona; excepto cuando haga valer alguna de las causas para sobreseer el proceso que prevé el artículo 512 fracciones II y V. Para ello no se admitirán nuevos medios de prueba, salvo documentales.
+III. Organizar y dirigir el Centro Estatal de Evaluación y Control de Confianza;
 
-###### ARTÍCULO 55.
+IV. Sugerir mejoras para administrar y sistematizar los instrumentos de información del Sistema Estatal;
 
-DERECHOS DEL INCULPADO DURANTE EL PROCESO. En todo proceso penal, el inculpado tendrá las garantías siguientes:
+V. Redactar, compilar y archivar los acuerdos que apruebe el Consejo Estatal, así como los instrumentos jurídicos que deriven de ellos;
 
-I. GARANTÍA DE DEFENSA ADECUADA. A que desde el inicio de su proceso tenga derecho a una defensa adecuada; por sí, por abogado o por persona de su confianza que él designe y que pueda brindarle aquélla. Mas si no quiere o no puede nombrar defensor, después de que se le requiera para hacerlo, el juez le designará al de oficio al inicio de la declaración preparatoria.
+VI. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal y de su Presidente;
 
-También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera.
+VII. Celebrar, en el marco de su competencia, los convenios de coordinación, colaboración y concertación que sean necesarios para el cumplimiento de los fines del Sistema Estatal, o proponer su celebración a las instancias respectivas;
 
-II. INICIO DE LA GARANTÍA DE AUDIENCIA. A que se le haga saber en audiencia pública y dentro de las cuarenta y ocho horas siguientes a su consignación, el hecho determinado por el que se le acusa; así como la naturaleza y causa de la acusación; a fin de que pueda contestar el cargo como declaración preparatoria.
+VIII. Promover, por conducto de las instituciones de seguridad pública, la realización de acciones conjuntas conforme a las bases y reglas que emita el Consejo Estatal y bajo las directrices de su Presidente, sin menoscabo de otras que realicen las autoridades competentes;
 
-En esa diligencia también se le informará de los derechos que a su favor consigna la Constitución de los Estados Unidos Mexicanos.
+IX. Proponer al Consejo Estatal políticas, lineamientos, protocolos, instrumentos y acciones para el mejor desempeño de las instituciones de seguridad pública;
 
-III. LIBERTAD CAUCIONAL. A que inmediatamente que lo solicite, el juez le otorgue la libertad provisional bajo caución, si se cumplen las condiciones que este código establece.
+X. Preparar la evaluación del cumplimiento de las políticas, estrategias y acciones del Sistema Estatal, en los términos de esta ley y las demás disposiciones aplicables;
 
-IV. LIBERTAD DE DECLARAR, COMUNICACIÓN Y AUSENCIA DE VIOLENCIA. A que no se le obligue a declarar. Queda prohibida toda incomunicación, intimidación o tortura.
+XI. Informar trimestralmente de sus actividades al Consejo Estatal, así como a su Presidente;
 
-V. GARANTÍA AL CONFESAR. A que la confesión sólo la rinda ante el juzgador, con la asistencia de su defensor. En caso contrario, carecerá de valor probatorio.
+XII. Realizar estudios especializados sobre las materias de seguridad pública;
 
-VI. GARANTÍA DE CAREOS. A que siempre que lo solicite se le caree en presencia del juez con quienes declaren en su contra.
+XIII. Informar al Consejo Estatal y a su Presidente sobre el incumplimiento de las disposiciones de esta Ley, los convenios generales o específicos en la materia y las demás disposiciones normativas aplicables, así como respecto de los servidores públicos que incurran en responsabilidad;
 
-VII. GARANTÍA PROBATORIA. A que se le reciban los testigos y demás pruebas que ofrezca; concediéndosele el tiempo que la ley estime necesario al efecto. Además, se le auxiliará para obtener la comparecencia de las personas cuyo testimonio solicite, siempre que se encuentren en el lugar del proceso.
+XIV. Previa aprobación del Consejo Estatal, elaborar y publicar los informes de actividades;
 
-VIII. GARANTÍA DE INFORMACIÓN. A que se le facilite todos los datos que solicite para su defensa y que consten en la causa. Para ello, se le podrán expedir copias a su costa.
+XV. Gestionar ante las autoridades correspondientes, la ministración de los fondos federales de apoyo para la seguridad pública;
 
-IX. GARANTÍA DE BREVE JUICIO. A que se le juzgue antes de cuatro meses, si se trata de delitos cuya pena máxima no excede de dos años de prisión. Si la pena excede de ese tiempo, a que se le juzgue antes de un año. En ambos casos, salvo que solicite mayor plazo para su defensa.
+XVI. Coadyuvar en la realización de los procesos de programación, presupuestación, seguimiento y evaluación de aspectos programático-presupuestales derivados de los convenios de coordinación y sus anexos técnicos que suscriba el Estado en el marco del Sistema Nacional;
 
-X. GARANTÍA DE PRISIÓN SÓLO POR CAUSA PENAL. A que en ningún caso se le prolongue la prisión o detención por impago de honorarios de defensores o por cualquiera otra prestación de dinero; por causa de responsabilidad civil o algún otro motivo análogo.
+XVII. Coadyuvar, en coordinación con las demás instancias competentes, en las acciones necesarias para que los municipios apliquen de modo correcto los fondos destinados a la seguridad pública;
 
-XI. GARANTÍA DE LIMITACIÓN DE LA PRISIÓN PREVENTIVA. A que tampoco se le prolongue la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motive el proceso.
+XVIII. Impulsar en los municipios el establecimiento y efectivo funcionamiento del Servicio de Carrera Policial, así como de las Comisiones, informando del grado de avance que observen; asimismo, proponer las medidas y acciones que se requieran para ello;
 
-XII. GARANTÍA DE ABONAR EL TIEMPO DE LA DETENCIÓN Y PRISIÓN PREVENTIVA. A que en toda pena de prisión que le imponga una sentencia, se le compute el tiempo de detención cualquiera que sea la calidad de ésta.
+XIX. Presentar informes, quejas o denuncias ante las autoridades competentes por el incumplimiento a esta Ley, acuerdos generales, convenios y demás instrumentos celebrados, así como por el uso ilícito o indebido de los recursos federales y estatales para la seguridad pública e informar de ello al Consejo Estatal;
 
-###### ARTÍCULO 56.
+XX. Dictar las medidas necesarias para garantizar el adecuado funcionamiento del Sistema Estatal; y
 
-GARANTÍAS DE COSA JUZGADA; LÍMITE DE INSTANCIAS Y PROHIBICIÓN DE ABSOLVER LA INSTANCIA. No se le podrá procesar de nuevo por el mismo hecho una vez que se le condene o absuelva por sentencia firme mediante el debido proceso penal; ni siquiera cuando se considere al delito de diversa manera por razón del tipo penal básico; grado o circunstancias.
+XXI. Las demás que le confieran esta ley y otras disposiciones aplicables, así como las que le encomienden el Consejo Estatal o su Presidente.
 
-Ningún proceso podrá tener más de tres instancias y no podrá absolverse de la instancia.
+###### Artículo 29.
 
-La primera instancia comienza cuando el Ministerio Público inicia la acción penal y concluye cuando transcurre el plazo para apelar la sentencia que resuelva la pretensión penal de la acción.
+Seguimiento de acuerdos y resoluciones del Consejo Estatal
 
-### CAPÍTULO IV. DEFENSORES
+El Secretariado Ejecutivo se coordinará con las dependencias y órganos del Gobierno Estatal, así como con los presidentes de los Consejos Municipales, a fin de dar seguimiento a los acuerdos y resoluciones adoptados por el Consejo Estatal, en los términos de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 30.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+Fines
 
-###### ARTÍCULO 57.
+Para la debida integración del Sistema Nacional y cumplir con sus objetivos y fines en los términos de la Ley General y la presente Ley, en cada municipio se establecerá un Consejo Municipal de Seguridad Pública como instancia de deliberación, consulta y definición de políticas públicas en la materia, así como para dar seguimiento, en dicho ámbito de gobierno, al cumplimiento de los acuerdos del Consejo Estatal.
 
-CAPACIDAD, PROTESTA Y DURACIÓN DEL CARGO DE DEFENSOR. El defensor del inculpado deberá ser abogado o persona de su confianza que posea conocimientos en materia penal y procesal penal, suficientes para brindarle una defensa adecuada. A la persona que designe el inculpado, se le interrogará durante la instancia, bajo protesta de decir verdad, si cumple con las condiciones anteriores. Igualmente, protestará cumplir el cargo con fidelidad y que le brindará al inculpado una defensa adecuada. Se hará constar todo lo anterior en caso de que el defensor no lo haya hecho por escrito.
+###### Artículo 31.
 
-No podrá abandonar la defensa, hasta que el juzgador admitan (sic) su renuncia o revocación. Si durante la averiguación previa el cargo de defensor no se revoca o renuncia, aquél se prorrogará hasta la primera instancia. Salvo cuando se trate del defensor de oficio. La revocación sólo se podrá acordar por petición expresa del inculpado u otra causa legal.
+Integración
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Los Consejos Municipales estarán integrados por:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2008)</small>
+I. El Presidente Municipal, quien lo presidirá;
 
-###### ARTÍCULO 58.
+II. El Secretario del Ayuntamiento, quien suplirá las ausencias del Presidente;
 
-DEFENSOR Y PROTESTA DEL CARGO. El nombramiento de defensor se le hará saber luego, si está presente durante el proceso.
+III. Los regidores integrantes de la Comisión de Gobernación, Seguridad Pública y Tránsito;
 
-Si durante el proceso no está presente, se le mandará citar en el domicilio que señale el inculpado. Para que en el acto o al día siguiente, manifieste si acepta o no acepta el cargo. Si no acepta o no comparece dentro de dicho plazo, se informará al inculpado con objeto de que designe otra persona.
+IV. El Director de Seguridad Pública Municipal u órgano equivalente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V. Un Secretario Técnico, que será designado y removido libremente por el Presidente, sólo con derecho a voz; y
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+VI. Cuatro integrantes de la comunidad de que se trate, a invitación del Presidente, únicamente con derecho a voz.
 
-Si dentro del plazo es preciso realizar acto urgente, el juzgador designará al defensor de oficio.
+Los Consejos Municipales podrán invitar a sus sesiones a representantes de las instituciones de seguridad pública del Estado y de la Federación o de otras dependencias estatales o federales relacionadas con la seguridad pública, y a delegados municipales, así como a personas, instituciones y representantes de la sociedad civil que por sus conocimientos y experiencia puedan contribuir al cumplimiento de los objetivos y fines de la seguridad pública. Su participación será con carácter honorífico.
 
-Siempre que el defensor acepte el cargo por escrito o en forma oral, protestará desempeñarlo fielmente y con arreglo al artículo anterior.
+###### Artículo 32.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Atribuciones de los Consejos Municipales
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+Los Consejos Municipales, a fin de lograr los objetivos de la seguridad pública, tendrán las siguientes atribuciones:
 
-El inculpado, aún cuando cuente con defensor, podrá pedir a cualquier abogado se informe del proceso. Para que a aquél se le dé acceso será suficiente que por escrito y bajo protesta de decir verdad manifieste lo anterior, dé el número de su cédula profesional y su domicilio. En tal caso, el abogado estará obligado con el inculpado y con la autoridad por el secreto profesional.
+I. Expedir las bases para su organización y su funcionamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II. Ejecutar, en lo conducente, los acuerdos, lineamientos y políticas emitidos por el Consejo Estatal, sin perjuicio de lo dispuesto por la Ley General;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+III. Vigilar la efectiva coordinación del municipio con las demás instancias del Sistema Estatal;
 
-###### ARTÍCULO 59.
+IV. Establecer criterios para la elaboración y la implementación de los programas de seguridad pública del municipio;
 
-NOMBRAMIENTO DEL DEFENSOR DE OFICIO. Cuando el inculpado no tenga persona que lo defienda o se rehúse a designar defensor, el juzgador le nombrará al de oficio. Si no hay en el lugar, hará recaer el nombramiento en abogado o persona que pueda brindarle defensa adecuada; pero sólo si el inculpado confía en ella.
+V. Proponer al Consejo Estatal, a través del Secretariado Ejecutivo, programas y acciones para mejorar y fortalecer la seguridad pública;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI. Evaluar la estructura orgánica, así como el funcionamiento de las áreas de seguridad pública, proponiendo las acciones de mejora que requieran;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+VII. Diseñar y proponer la implementación de programas contra las adicciones, en coadyuvancia con las instancias competentes;
 
-###### ARTÍCULO 60.
+VIII. Promover el establecimiento del Servicio de Carrera Policial;
 
-REPRESENTANTE COMÚN DE LA DEFENSA. Cuando el inculpado nombre varios defensores, cualquiera podrá proceder; pero aquél designará un representante común, para que con él se entiendan las notificaciones. Si omite designarlo, el juzgador conferirá el cargo al primero que nombró el inculpado.
+IX. Supervisar que los Integrantes de las instituciones policiales se sometan a los procedimientos de evaluación y control de confianza y de certificación;
 
-###### ARTÍCULO 61.
+X. Promover el establecimiento de academias de policía en sus municipios y supervisar los procesos de formación, capacitación, adiestramiento y actualización;
 
-FACULTADES Y OBLIGACIONES DE LA DEFENSA. El defensor tendrá la protección y la obligación del secreto profesional para con su cliente. Le brindará una defensa adecuada y estará presente en todas las audiencias y diligencias que se practiquen en el proceso. Durante ellas se le dará al defensor la intervención que le competa.
+XI. Establecer y verificar las medidas de vinculación operativa con las instituciones policiales del Estado;
 
-Podrá promover los medios de prueba e intentar todos los recursos que legalmente crea convenientes; sin que pueda desistirse de los que promueva ni de los recursos que interponga, sin consentimiento expreso del inculpado. Igualmente, éste sólo se podrá desistir de medios de prueba que ofrezca y los recursos que interponga, con el consentimiento del defensor.
+XII. Emitir recomendaciones y proponer acciones para mejorar el funcionamiento de sus instituciones policiales, incluidas las funciones de vialidad y tránsito;
 
-###### ARTÍCULO 62.
+XIII. Promover la instalación y el funcionamiento de las Comisiones;
 
-DEFENSOR COMÚN. Cuando no exista incompatibilidad en la defensa de varios inculpados, éstos pueden tener un defensor. El defensor está obligado a no aceptar la defensa de varios inculpados, si sus intereses jurídicos en el proceso están en conflicto.
+XIV. Vigilar que los recursos presupuestarios para la seguridad pública se apliquen estrictamente a los fines autorizados;
 
-La incompatibilidad podrá ponerse de manifiesto por quien tenga interés en ello. Pero si aquélla existe a juicio del juzgador, cualquiera de los inculpados hará la substitución; de lo contrario, aquél designará al de oficio.
+XV. Supervisar y emitir recomendaciones respecto del funcionamiento y las condiciones de los centros municipales de detención o su equivalente, a efecto de que en ellos se respeten los derechos humanos consagrados en las Constituciones Federal y Local, así como en los tratados de los que México sea parte;
 
-###### ARTÍCULO 63.
+XVI. Formular propuestas para la realización de operaciones conjuntas con corporaciones policiales de otros municipios, del Estado y de la Federación;
 
-IMPEDIMENTOS PARA SER DEFENSOR. Están impedidos para ser defensores:
+XVII. Evaluar y dar seguimiento a las actividades programadas;
 
-I. FALTA DE CONOCIMIENTOS. Los que no sean licenciados en derecho; o en caso de que la designación de defensor recaiga en persona de la confianza del inculpado que no tenga el título de licenciado en derecho, pero carezca de conocimiento en materia penal y procesal penal suficiente para brindar una defensa adecuada.
+XVIII. Promover la participación de la comunidad en la planeación, la evaluación y la supervisión de las políticas de prevención social de la violencia y la delincuencia, así como la instalación y el funcionamiento de los comités de participación ciudadana y comunitaria;
 
-II. PRESOS. Los que se hallen presos.
+XIX. Impulsar el acceso, por vía telefónica o cualquier medio electrónico, a un servicio de emergencia y denuncia anónima sobre faltas y delitos de que tenga conocimiento la comunidad; y
 
-III. FALTA DE DOMICILIO. Los que omitan designar domicilio en el lugar del proceso para que se les hagan las notificaciones conducentes.
+XX. Las demás que establezcan otras disposiciones legales.
 
-IV. DEFENSA CONTRADICTORIA. Los que ya defiendan a otro inculpado cuyos intereses jurídicos estén en conflicto con los de quién se pretenda defender.
+## TÍTULO TERCERO. AUTORIDADES EN MATERIA DE SEGURIDAD PÚBLICA Y SUS ATRIBUCIONES
 
-V. INHABILITACIÓN. Los que estén inhabilitados.
+### CAPÍTULO III. SECRETARIADO EJECUTIVO
 
-## TÍTULO CUARTO. FORMAS COMUNES A LA AVERIGUACIÓN PREVIA Y EL PROCESO
+###### Artículo 33.
 
-### CAPÍTULO I. ACTUACIONES Y DILIGENCIAS
+Atribuciones del Secretario Técnico
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Corresponde al Secretario Técnico:
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+I. Fungir como enlace ante el Consejo Estatal, a fin de atender y dar seguimiento a los acuerdos y resoluciones que emita y proporcionar al Secretariado Ejecutivo la información que le requiera;
 
-###### ARTÍCULO 64.
+II. Promover en todo tiempo la efectiva coordinación y funcionamiento del Consejo Municipal;
 
-PREVENCIÓN PARA EL CUMPLIMIENTO Y LA VALIDEZ DE LAS ACTUACIONES Y DILIGENCIAS. Los juzgadores en las diligencias y actuaciones se ajustarán a las formas que se prevén en este capítulo y a las condiciones del capítulo II de este título. La diligencia o actuación carecerá de valor en los casos que este código indique.
+III. Ejecutar y dar seguimiento a los acuerdos del Consejo Municipal; y
 
-###### ARTÍCULO 65.
+IV. Las demás atribuciones que le otorguen el Consejo Municipal, esta Ley y otras disposiciones.
 
-MOMENTO EN QUE PUEDEN PRACTICARSE. Las actuaciones y diligencias podrán practicarse a toda hora y aún en días inhábiles, sin necesidad de previa habilitación. En cada una de ellas se expresará el día, mes y año que se efectúen. En caso contrario carecerán de valor.
+###### Artículo 34.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Periodicidad de las reuniones
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+Los Consejos Municipales se reunirán en forma ordinaria cuando menos cada tres meses, y de manera extraordinaria en cualquier tiempo, a juicio de su Presidente. Al efecto, el Secretario Técnico elaborará el orden del día y convocará por escrito a sus integrantes al menos tres días hábiles antes de la celebración de las sesiones ordinarias y un día hábil antes de las sesiones extraordinarias.
 
-###### ARTÍCULO 66.
+Los acuerdos de los Consejos Municipales se tomarán por mayoría simple de votos. En caso de empate, el Presidente tendrá voto de calidad.
 
-INTERVENCIÓN FORZOSA DE FEDATARIOS Y ACUERDOS URGENTES. Para que las actuaciones y diligencias de los juzgadores sean válidas, se acompañarán de su secretario o con un testigo de asistencia. Los que darán fe de todo lo que en aquéllas pase. Siempre se dirá o pondrá el nombre y apellidos del testigo de asistencia; así como su domicilio. Si falta cualquiera, carecerá de valor la diligencia o actuación, salvo los casos que este código prevé.
+###### Artículo 35.
 
-Cuando se trate de delitos graves y las circunstancias del caso así lo requieran, el juez podrá dictar orden de aprehensión fuera del juzgado, en cualquier día y hora. Para dar fe de este acto, el que será por escrito, será suficiente la firma de un testigo cuyo nombre, apellidos y domicilio se identifiquen. Se podrá acordar de la misma forma cuándo se trate de libertad caucional, si su procedencia es notoria; al igual que el monto de la caución que haya de fijarse.
+Participación de Instancias auxiliares
 
-###### ARTÍCULO 67.
+Para el impulso y el desarrollo de las materias de la coordinación a que se refiere esta Ley, así como para el logro de los objetivos y fines de la seguridad pública, el Sistema Estatal contará con instancias auxiliares en las que participarán representantes de las instituciones del Estado, de los municipios y de las organizaciones de la sociedad civil, en los términos de las disposiciones aplicables.
 
-BREVETE DE ACTUACIONES O DILIGENCIAS. En el acta que reproduzca cada actuación o diligencia se agregará un brevete inicial que indique el objeto de la misma. Mas aquélla tendrá valor si se omite el brevete.
+###### Artículo 36.
 
-###### ARTÍCULO 68.
+Instancias auxiliares
 
-USO DEL ESPAÑOL Y FORMA DE REPRODUCIR LAS ACTUACIONES Y DILIGENCIAS. En las actuaciones y diligencias se empleará el español y, en su caso, su traducción a ese idioma; de lo contrario carecerá de valor lo que se diga al respecto.
+Son instancias auxiliares del Sistema Estatal, las organizaciones gremiales interesadas en temas de seguridad pública, los observatorios ciudadanos, las organizaciones civiles en materia de derechos humanos, los colegios o barras de profesionistas. En todo caso, tales instancias auxiliares integrarán y articularán intereses y demandas ciudadanas, con el propósito de incidir favorablemente en políticas públicas para mejorar la calidad de vida en seguridad y justicia, así como contribuir a fortalecer la cultura de la legalidad y generar un entorno de armonía social.
 
-Para hacer constar las actuaciones y diligencias se podrá emplear cualquier medio que tenga por objeto reproducir sonidos; o imágenes con sonidos; en especial para practicar las audiencias, actuaciones y diligencias en las que se desahoguen medios de prueba que impliquen inspecciones, comparecencias o declaraciones. De preferencia en esos actos se utilizará la grabación magnetofónica o de audiovideo con sonido.
+Las instancias auxiliares podrán presentar planteamientos, propuestas y recomendaciones al Consejo Estatal por conducto del Secretariado Ejecutivo.
 
-En las actuaciones o diligencias no se requerirá mandamiento escrito para tomar las providencias que en ellas se requieran; ni para hacer las prevenciones y aplicar las correcciones disciplinarias que sean procedentes; sin perjuicio de glosar luego el mandamiento escrito en debida forma.
+El Secretariado Ejecutivo llevará y actualizará permanentemente un Registro Estatal de Instancias Auxiliares y de las propuestas o planteamientos que presenten, con el fin de optimizar su análisis y seguimiento.
 
-También se podrá emplear la reproducción inmediata por escrito en forma de acta, por medio mecanográfico o equivalente.
+###### Artículo 37.
 
-Cuando se trate de grabación magnetofónica o de audiovideo con sonido, se transcribirá luego en forma de acta el contenido de la grabación. En el acta se hará constar lo que se diga en la grabación y, además, antes de cada intervención, el cargo o carácter de la persona que hace uso de la voz, así como su nombre o apellidos. Dicha acta de la transcripción se firmará por quienes corresponda dar fe y autorizar el acto. En caso contrario, el acta de transcripción carecerá de valor. Las grabaciones en cintas, disquetes o medios equivalentes, se transcribirán en actas a más tardar hasta cinco días después del que se hicieron.
+Autoridades Estatales
 
-Los medios que guarden la grabación de una actuación o diligencia; tales como cintas, disquetes o equivalentes, se identificarán de forma tal que se correlacionen con una constancia en forma de acta que los identifique. En esa acta, además, se hará constar el objeto de la actuación o diligencia, el lugar, día, mes y año en que se efectúe, las personas y el carácter con el que intervinieron. Esta constancia se levantará por triplicado cuando menos. Un tanto se adjuntará a la cinta, disquete o equivalente y ambos se guardarán en lugar seguro. Los dos tantos restantes se agregarán a los respectivos expedientes que se lleven por duplicado, a los que se agregará luego el acta de la transcripción. La constancia en forma de acta se levantará durante la actuación o diligencia.
+Son autoridades estatales en materia de seguridad pública para la aplicación de esta Ley:
 
-La cinta, disquete o equivalente de la actuación o diligencia, en la que constarán sus datos que la identifiquen, siempre se guardará por separado del expediente y en lugar adecuado. A las partes o personas con interés legítimo se les podrá dar a su costa, copia de la transcripción en forma de acta y/o de la propia cinta, disquete o equivalente en otro medio igual.
+I. El Gobernador del Estado;
 
-Las constancias en forma de acta, ya sea de la cinta, disquete o equivalente que contenga la grabación de la actuación o diligencia, se autorizarán de inmediato por los funcionarios a quienes corresponda dar fe o certificar el acto y firmarán en ellas todas las personas que intervinieron en la actuación o diligencia. Se procederá de igual forma con cualquier acta que contenga la reproducción inmediata por escrito de la actuación o diligencia, por medio mecanográfico o equivalente.
+II. El Secretario de Seguridad Pública;
 
-Será motivo de invalidez todo lo que digan las personas, o se diga de ellas, que intervengan por única vez en la actuación o diligencia, cuando en dicha constancia en forma de acta falte la firma o razón conducente, el nombre, los apellidos o el domicilio de ellas, salvo que en comparecencia posterior por ese motivo, reconozcan su voz y lo que dijeron en la grabación.
+III. El Fiscal General del Estado;
 
-También carecerá de validez si se omite asentar el nombre o apellido o el carácter con el que la persona interviene por única vez; a menos que ello se deduzca con claridad de la grabación. Si no es la primera vez que interviene, en la constancia sólo será indispensable la firma o razón conducente, el nombre y apellidos de la persona. La falta de firma en la constancia se suplirá por razón de los motivos por los que no se firmó, si son de los que autoriza este código; o, en su caso, de la forma que se señala en el párrafo anterior.
+IV. El Comisionado de la Policía Estatal; y
 
-El funcionario que practique las actuaciones o diligencias se asegurará de la identidad de los que intervengan. Si se trata del inculpado sin que se sepa su nombre o apellidos, o se dude de ello, se hará constar el motivo por el que se ignore o se dude del nombre o apellidos.
+V. Las unidades especializadas y los integrantes de las instituciones y cuerpos estatales de seguridad pública en el desempeño de sus funciones.
 
-###### ARTÍCULO 69.
+El Fiscal General del Estado, como parte integrante del Sistema Estatal, se regirá, en cuanto a sus facultades y atribuciones, conforme al artículo 54 Ter de la Constitución Local, la Ley Orgánica de la Fiscalía General del Estado de Tabasco, a su normatividad interna, ésta Ley y demás ordenamientos aplicables.
 
-REDACCIÓN EN ESPAÑOL DE LAS ACTAS DE ACTUACIONES O DILIGENCIAS. En cualquier caso, las actas se escribirán en español, con inclusión de las fechas y cantidades. En las actas se evitarán las abreviaturas y raspaduras. Así como el alterar las palabras con error. Sobre ellas sólo se pondrá una línea delgada que permita su lectura. De lo contrario carecerá de valor lo que se abrevie, raspe o altere; sin perjuicio de acudir, en su caso, a la grabación que corresponda.
+###### Artículo 38.
 
-###### ARTÍCULO 70.
+Atribuciones del Gobernador
 
-REDACCIÓN EN ESPAÑOL DE LAS PROMOCIONES Y DOCUMENTOS QUE SE PRESENTEN. Las promociones se redactarán en español y los documentos en otro idioma se presentarán con su traducción al español; en caso contrario, ningún efecto producirán.
+Son atribuciones del Gobernador del Estado en materia de Seguridad Pública, quien las ejercerá directamente o a través del Secretario de Seguridad Pública, en su caso, las siguientes:
 
-###### ARTÍCULO 71.
+I. Ejercer el mando de la Policía Estatal, por conducto del Secretario de Seguridad Pública y del Comisionado, en los términos de la Constitución Local y las demás leyes generales y locales aplicables, a fin de salvaguardar la integridad y los derechos de las personas, y preservar las libertades, el orden y la paz pública en el territorio del Estado;
 
-CONTINUIDAD DE ACTUACIONES O DILIGENCIAS. Las actas de las actuaciones y diligencias se asentarán en los expedientes en forma continua; sin dejar hojas o espacios en blanco y sin testar. Cuando se agreguen documentos, se foliarán las hojas que les correspondan. Pero si son numerosos, a juicio del funcionario, se glosarán, foliarán y sellarán por separado; con anotación en el expediente de su número.
+II. Celebrar convenios o acuerdos con la Federación, el Distrito Federal, los Estados y los Municipios, en términos de la Ley General y demás disposiciones aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+III. Suscribir y ejecutar acuerdos con personas de los sectores público, social y privado, en el ámbito nacional e internacional;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+IV. Promover la participación de la comunidad, para la formulación de propuestas de solución a los problemas de seguridad pública;
 
-Las actuaciones y diligencias de preferencia se glosarán al expediente en su orden cronológico.
+V. Expedir los reglamentos y disposiciones administrativas derivados de ésta Ley, relativas a la seguridad pública;
 
-###### ARTÍCULO 72.
+VI. Ordenar las medidas de seguridad necesarias para prevenir la comisión de delitos y conductas infractoras;
 
-DUPLICADOS Y AUTORIZACIÓN. Las actas se levantarán por escrito, con letra clara y por duplicado al menos. Se autorizarán de inmediato por los funcionarios que les competa llevar a cabo el acto y por las personas que les corresponda dar fe de él. Será motivo de invalidez si falta cualquier firma de éstos. Igualmente, cuando falte el nombre, los apellidos o el domicilio del testigo de asistencia y éste no lo aporte dentro de los cinco días siguientes que así se le pida al funcionario que practicó el acto.
+VII. Ordenar y ejecutar las medidas de emergencia que se ameriten, conforme a la Ley de Protección Civil del Estado de Tabasco;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones correspondientes a la prevención y la reinserción social;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+IX. Establecer, ejecutar y coordinar las acciones necesarias que se realicen en materia de radiocomunicación, registro, y actualización de la información relacionada con la seguridad pública; y
 
-###### ARTÍCULO 73.
+X. Las demás que le confieran la Constitución Federal, la Constitución Local, esta Ley y otros ordenamientos aplicables.
 
-DILIGENCIAS Y COMPARECENCIAS. Para desahogar las declaraciones de quiénes comparezcan se observarán las reglas para las diligencias o actuaciones y las que este código prevé para las confesiones o testimonios, según sea el caso.
+###### Artículo 39.
 
-###### ARTÍCULO 74.
+Atribuciones del Secretario de Seguridad Pública
 
-FIRMAS Y HUELLAS DIGITALES. El inculpado y el defensor; así como el ofendido, la víctima, sus representantes o abogados; los peritos y los testigos; firmarán al calce del acta y al margen de cada una de las hojas que, por medio mecanográfico o equivalente, de inmediato reproduzca la actuación o diligencia.
+Además de las señaladas en la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y demás ordenamientos aplicables, son atribuciones del Secretario de Seguridad Pública, que las ejercerá directamente o por conducto de sus subordinados, las siguientes:
 
-Se procederá de igual forma en el caso de la constancia de la actuación o diligencia en la que tomen parte, si aquélla se reproduce en grabación magnetofónica; de audiovideo con sonido o en medios equivalentes.
+I. Ejercer la máxima autoridad y mando en la Secretaría de Seguridad Pública, bajo las órdenes del Gobernador del Estado; en los términos de esta Ley y demás disposiciones jurídicas aplicables, en el ámbito de su competencia; así como ejecutar políticas y programas en materia de seguridad pública en coordinación y colaboración con la Federación, otras entidades federativas y los municipios;
 
-Si alguien no sabe firmar imprimirá al calce y al margen la huella del dedo pulgar de la mano derecha. A falta de éste, el de la izquierda. En defecto de ambos, cualquiera de los que tenga. En el acto se expresará a que dedo pertenece la huella en caso de no ser el pulgar de la mano derecha.
+II. Dictar las disposiciones necesarias para asegurar y proteger en forma inmediata el orden y la paz públicos, así como la integridad física de las personas y sus bienes; prevenir la comisión de delitos e infracciones administrativas; auxiliar a las autoridades competentes, cuando así lo soliciten o se requiera, en la investigación y persecución de los delitos; y concurrir, en términos de la ley, con las autoridades competentes, en casos de siniestro o desastre;
 
-Cuando se estime conveniente, los testigos que sepan firmar también imprimirán su huella digital. Si una persona no firma o, en su caso, imprime su huella digital, se hará constar el motivo.
+III. Elaborar, en coordinación con el Secretariado Ejecutivo del Sistema Estatal las propuestas de contenido del Programa Estatal de Seguridad Pública;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. Participar en la Conferencia Nacional de Secretarios de Seguridad Pública u órganos equivalentes y ejecutar, en el ámbito de su competencia, los acuerdos respectivos;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+V. Coordinar y supervisar las acciones y operativos que en materia de seguridad pública e intercambio de información criminal se realicen con los Municipios y entidades colindantes;
 
-El juzgador firmará al calce y si lo estiman conveniente, también al margen. En el calce del acta, debajo de la firma o huella de todos los que intervengan, se asentará su nombre y apellidos completos.
+VI. Proponer al Gobernador del Estado los programas, convenios y acciones estratégicas tendientes a mejorar la seguridad pública y ampliar la prevención del delito;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VII. Representar al gobierno estatal en las comisiones de Seguridad Pública que se establezcan con los Estados colindantes;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+VIII. Proponer al Gobernador del Estado el nombramiento y, en su caso, remoción del Comisionado;
 
-Cuando las actuaciones o diligencias judiciales se guarden en grabaciones o reproducciones magnetofónicas, electrónicas, de audio y/o video, en la constancia en forma de acta que las identifique, se asentarán los datos de quienes intervinieron y sus firmas o razón conducente de acuerdo con lo que previene este artículo.
+IX. Acordar con el Gobernador del Estado, para su aprobación, los nombramientos y remociones de los titulares de las distintas unidades operativas y administrativas de la Secretaría de Seguridad Pública, respetando su grado policial y derechos inherentes al Servicio de Carrera Policial, en su caso;
 
-###### ARTÍCULO 75.
+X. Instrumentar y aplicar el Programa Rector, conforme a las disposiciones legales relativas;
 
-RECTIFICACIONES EN ACTAS DE ACTUACIONES O DILIGENCIAS. Las rectificaciones que hagan los comparecientes se harán constar antes de que firmen o pongan sus huellas. Si es después, pero antes de retirarse los interesados, se asentará la rectificación en actuación o diligencia inmediata y firmarán el acta los que intervinieron; en la forma que señala este código.
+XI. Promover la formación, capacitación, profesionalización, actualización, adiestramiento y especialización de los integrantes de las Instituciones Policiales, conforme a lo establecido en el Programa Rector;
 
-Las demás rectificaciones las pedirán dentro de los cinco días siguientes de que se glose el acta. En cuyo caso el juzgador resolverá lo que corresponda.
+XII. Evaluar el funcionamiento de la Policía Estatal;
 
-###### ARTÍCULO 76.
+XIII. Supervisar el funcionamiento de la Policía Auxiliar y la Bancaria, Industrial y Comercial como órganos auxiliares de la Secretaría de Seguridad Pública;
 
-FALTA DE HUELLAS O DOMICILIOS EN ACTAS DE ACTUACIONES O DILIGENCIAS. Será motivo de invalidez la falta de huellas cuando éstas sean necesarias, a menos que en comparecencia posterior por ese motivo, reconozcan su voz y lo que dijeron en la grabación. También será motivo de invalidez la falta del domicilio, cuando éste no pueda ser habido, a menos que quien intervino lo proporcione después o se trate de los funcionarios que llevaron a cabo la diligencia.
+XIV. Autorizar, controlar y vigilar el funcionamiento de los servicios de seguridad privada, conforme a lo establecido en esta Ley, el Reglamento correspondiente y demás disposiciones aplicables;
 
-###### ARTÍCULO 77.
+XV. Supervisar la organización, control, verificación y administración de los registros estatales de personal, de armamento y equipo de seguridad pública, a través del Comisionado;
 
-ACTUACIÓN QUE SE DIFIERE. Siempre que por cualquier motivo se omita practicar una actuación o diligencia en el día y hora que previamente se señalaron, se hará constar la razón por la cual no se practicó.
+XVI. Establecer y operar los procedimientos de administración, seguridad, control y de apoyo logístico del Sistema Penitenciario y Centros de Internamiento, definiendo esquemas de supervisión, registro y verificación, así como estrategias de intervención y de apoyo táctico operativo;
 
-###### ARTÍCULO 78.
+XVII. Vigilar y propiciar, en el ámbito de su competencia, el cumplimiento de las disposiciones legales y administrativas en materia de protección a los derechos fundamentales;
 
-RATIFICACIÓN DE PROMOCIONES POR ESCRITO. Las promociones que se hagan por escrito se firmarán por su autor. Se podrá ordenar su ratificación cuando se estime necesario; pero siempre se ratificarán si no se firman. Si falta la firma o la ratificación, ningún efecto producirá la promoción.
+XVIII. Coordinar los servicios de seguridad, vigilancia y protección regional en caminos y carreteras estatales o vías primarias, zonas rurales, áreas de recreo y turísticas, de competencia estatal, así como las instalaciones estratégicas en el Estado, de conformidad con las disposiciones legales aplicables y en el ámbito de su competencia;
 
-Los escritos ilegibles serán inadmisibles. Si el inculpado aparece como su autor y está preso se le llamará para que haga su petición por comparecencia.
+XIX. Promover la coordinación de los sistemas de comunicación entre los diversos cuerpos de seguridad pública en el Estado;
 
-###### ARTÍCULO 79.
+XX. Suscribir y ejecutar contratos, acuerdos y convenios de coordinación, colaboración y participación con organizaciones de los sectores público, social y privado, nacionales o del extranjero;
 
-FORMA DE LAS PROMOCIONES POR ESCRITO. Las promociones y los documentos se presentarán con una copia. Las promociones en papel tamaño oficio y a renglón espaciado.
+XXI. Ejercer la autoridad para la evaluación y supervisión de medidas cautelares y de la suspensión condicional del proceso;
 
-###### ARTÍCULO 80.
+XXII. Promover y establecer métodos que conlleven a la reinserción social y familiar de los internos de los centros de ejecución de penas y de los adolescentes sujetos al sistema integral de justicia;
 
-RAZÓN DE RECIBO DE LAS PROMOCIONES Y DOCUMENTOS. Los interesados pueden presentar una copia más de sus escritos para que se les devuelva con firma, sello y anotación de la hora y fecha de presentación.
+XXIII. Impulsar las acciones necesarias para promover la prevención de la violencia y la delincuencia, así como la participación ciudadana;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXIV. Proponer y, en su caso, celebrar acuerdos, convenios y demás actos jurídicos, relacionados con las atribuciones de la Secretaría de Seguridad Pública;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+XXV. Autorizar operaciones encubiertas y de usuarios simulados para desarrollar operaciones de inteligencia policial;
 
-Si quien recibe y sella es persona distinta al juzgador, secretarios o actuarios, deberá anotar su nombre y apellidos; así como su puesto de funcionario o empleado.
+XXVI. Participar, en coordinación con la Fiscalía General, en el diseño e implementación de la política criminal del Estado y realizar estudios e investigaciones en criminología y materias afines;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXVII. Intervenir en el auxilio de víctimas y ofendidos del delito, en el ámbito de su competencia;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2008)</small>
+XXVIII. Definir criterios homogéneos para la recopilación, sistematización y manejo de información por parte de las Instituciones Policiales y promover su aplicación;
 
-###### ARTÍCULO 81.
+XXIX. Verificar que toda la información generada por las Instituciones Policiales del Estado, sea remitida de manera inmediata al Sistema Estatal;
 
-CUENTA DE LAS PROMOCIONES. Podrá recibir promociones cualquier funcionario o empleado que autorice el juzgador. Éste también las podrá recibir. En la oficina habrá una lista de las personas autorizadas. La lista se firmará y sellará por el juzgador o sus secretarios. Si quien recibe no es el juzgador o secretario, de inmediato entregará la promoción a este último.
+XXX. Promover criterios uniformes para el desarrollo policial, en términos de esta Ley;
 
-En cualquier caso, los secretarios darán cuenta de las promociones que se presenten a más tardar al día laborable siguiente. Si es urgente, darán cuenta de inmediato a sus superiores.
+XXXI. Verificar que los elementos de las Instituciones Policiales del Estado se sometan a las evaluaciones de control de confianza y cuenten con el Certificado, de conformidad con las disposiciones legales aplicables;
 
-En cada escrito se hará constar el día y hora que se presente; así como los documentos que se le acompañen. Si el ocursante manifiesta no saber leer ni firmar se le dará lectura del escrito.
+XXXII. Supervisar la actuación de las Instituciones Policiales del Estado, en la investigación de delitos, bajo el mando y conducción del ministerio público;
 
-En cualquier caso, estará a cargo de los secretarios o de quienes hagan sus veces, vigilar el cumplimiento de lo que se prevé en este artículo.
+XXXIII. Emitir los acuerdos, instructivos, manuales de organización y de procedimientos, y demás normatividad que rija las actividades de las Instituciones Policiales del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXXIV. Promover la realización de estudios de vialidad, transporte y movilidad urbana, para mejorar el tránsito vehicular en las vías primarias;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+XXXV. Administrar los centros de reclusión, preventivos y de ejecución de sanciones; así como los centros de internamiento para adolescentes;
 
-###### ARTÍCULO 82.
+XXXVI. Establecer políticas, programas y acciones en materia de reinserción social de adultos y adolescentes, conforme lo dispongan las leyes aplicables;
 
-SEÑALAMIENTO DE DOMICILIO. Los ofendidos, inculpados, defensores, testigos, peritos y demás personas que intervengan en cualquier acto del proceso, darán sus nombres, apellidos y domicilio desde la primera intervención.
+XXXVII. Promover la homologación de los mecanismos, sistemas y procedimientos de seguridad en los centros penitenciarios e instituciones de reinserción social para adultos y de centros de internamiento para adolescentes;
 
-Tendrán obligación de comunicar por escrito el cambio o error en cualquiera de ellos, a las autoridades ante las que intervinieron. Así se les hará saber en la primera diligencia o actuación.
+XXXVIII. Diseñar mecanismos que incentiven la participación de la iniciativa privada para generar actividades económicas para los internos, que les permita obtener un ingreso para su manutención y la de sus familias;
 
-###### ARTÍCULO 83.
+XXXIX. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Conferencia Nacional del Sistema Penitenciario; y
 
-FOLIACIÓN DEL EXPEDIENTE. Los secretarios o quienes hagan sus veces cuidarán que los expedientes se folien, después de agregar las hojas. Rubricarán todas al margen y pondrán el sello oficial en las dos caras.
+XL. Las demás que establezcan la Constitución Local, la Ley Orgánica del Poder Ejecutivo, esta Ley y otros ordenamientos en la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 40.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+Unidad de Servicios Auxiliares para Medidas Cautelares
 
-###### ARTÍCULO 84.
+La Unidad de Servicios Auxiliares para Medidas Cautelares es la autoridad estatal especializada para la supervisión de medidas cautelares y de la suspensión condicional del proceso, conforme a lo señalado en el Código Nacional de Procedimientos Penales. Estará adscrita a la Secretaría de Seguridad Pública y contará con la estructura, personal y equipamiento necesarios para su adecuada operación.
 
-PRESENTACIÓN, CERTIFICACIÓN Y DEVOLUCIÓN DE DOCUMENTOS. El juzgador o sus secretarios, durante el proceso, tendrán la facultad para certificar las copias de un documento original que en su lugar hayan de agregarse al expediente; siempre y cuando se les presente u obre el original y así se les pida.
+La Unidad de Servicios Auxiliares para Medidas Cautelares tiene por objeto proporcionar a los órganos judiciales competentes la información necesaria para decidir sobre la necesidad de imponer, modificar o extinguir medidas cautelares, de modo que el imputado cumpla con sus obligaciones procesales; así como supervisar el debido cumplimiento de las medidas cautelares en libertad por parte de los imputados sujetos a ellas; y el seguimiento de las condiciones impuestas en la suspensión condicional del proceso.
 
-Si se devuelven a los interesados documentos originales que ya obren en los expedientes, el secretario o quién haga sus veces hará constar las hojas numeradas que se entreguen y evitará que la foliación se altere. Siempre se agregará copia exacta del documento que se devuelva; el que se certificará por el juzgador o su secretario.
+La autoridad para la evaluación y supervisión de medidas cautelares y de la suspensión condicional del proceso se conducirá bajo los principios de neutralidad, objetividad, imparcialidad y confidencialidad, de conformidad con las obligaciones y procedimientos señalados en el Código Nacional de Procedimientos Penales; y tendrá las limitaciones y condicionantes establecidos en dicho ordenamiento para el uso de la información a que tenga acceso en el ejercicio de sus funciones.
 
-Al presentar o recibir un documento que pidan se les devuelva, los interesados acompañaran dos copias por lo menos, darán su domicilio y protestarán presentarlo de inmediato cuantas veces así se les requiera por el juzgador. Si omiten hacerlo o no se les puede localizar para tal efecto y el original es indispensable para alguna prueba, carecerá de validez la copia que se certificó.
+En todo caso, la autoridad para la evaluación y supervisión de medidas cautelares y de la suspensión condicional del proceso se conducirá conforme a las determinaciones que dicte la autoridad judicial competente y a los protocolos que conforme a ello establezcan las instancias competentes.
 
-Si ya se presentó el documento o se agregó al expediente, sólo se devolverá cuando lo pida por escrito quien a él tenga derecho. Además, así lo autorice el juzgador. Al devolverlo siempre se le tomarán los datos de documentos oficiales con los que se identifique. Sin ello, tampoco se devolverá.
+La supervisión de la prisión preventiva quedará a cargo de la autoridad penitenciaria en los términos de la ley de la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 41.
 
-###### ARTÍCULO 85.
+Auxilio en materia de protección civil
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+En casos de emergencia o de desastre en el Estado o los municipios, todas las instituciones y los cuerpos de seguridad pública y de protección civil se coordinarán y actuarán conjuntamente en el marco del Sistema Estatal de Protección Civil, conforme a lo establecido en la Ley de Protección Civil del Estado de Tabasco, con el objeto de aprovechar de manera más eficiente los recursos humanos y materiales para el auxilio de la población.
 
-###### ARTÍCULO 86.
+###### Artículo 42.
 
-ENTREGA DE EXPEDIENTES DURANTE EL PROCESO. Durante el proceso podrán entregarse los expedientes al Ministerio Público, previo recibo; siempre y cuando ello no entorpezca el procedimiento a juicio del juzgador.
+Autoridades Municipales
 
-El inculpado o su defensor, el ofendido o víctima podrán enterarse de los autos en la secretaría. Se tomarán las medidas prudentes para evitar que los destruyan, alteren o sustraigan. Si es necesario, se ordenará que un empleado le dé lectura a las actuaciones.
+Son autoridades en materia de Seguridad Pública Municipal para la aplicación de esta Ley:
 
-###### ARTÍCULO 87.
+I. El Presidente de la República, cuando habitual o transitoriamente residiere en territorio del Municipio correspondiente;
 
-EXPEDICIÓN DE COPIAS DURANTE EL PROCESO. Las partes y los superiores jerárquicos pueden solicitar copia simple o certificada de las constancias durante el proceso. La copia certificada se pedirá por escrito.
+II. El Gobernador del Estado en los términos del artículo 9 de esta Ley;
 
-Los secretarios de los juzgados y tribunales cotejarán las copias certificadas que se manden expedir, las sellarán y autorizarán con su firma.
+III. Los Presidentes Municipales y los Ayuntamientos o Concejos Municipales, en los territorios de sus respectivos Municipios;
 
-### CAPÍTULO II. TRADUCTORES E INTÉRPRETES
+IV. Los directores de seguridad pública municipal; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V. Los elementos de los cuerpos de seguridad pública municipales en el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+###### Artículo 43.
 
-###### ARTÍCULO 88.
+Mando operativo municipal
 
-DESIGNACIÓN DE TRADUCTORES. Cuando la persona con la cual se entienda la diligencia o actuación no hable español, el juzgador designará uno o más traductores mayores de edad. Estos protestarán traducir fielmente las preguntas y contestaciones que transmitirán. Si no hay traductor de esa edad, podrá designarse a quien tenga dieciséis años o más.
+El mando operativo de los Cuerpos de Seguridad Pública Municipales corresponderá originalmente a los Presidentes Municipales en el territorio de sus respectivos Municipios, y a los responsables operativos de Seguridad Pública Municipal, cualquiera que sea la denominación que señalen los ordenamientos respectivos.
 
-###### ARTÍCULO 89.
+###### Artículo 44.
 
-SORDOS, MUDOS O SORDOMUDOS. Si el inculpado; ofendido; víctima; o algún testigo es sordo, mudo o sordomudo y no sabe leer ni escribir, se le nombrará intérprete a quien pueda comprenderlo; observándose el artículo anterior.
+Atribuciones de los ayuntamientos
 
-A los sordos y a los mudos que sepan leer y escribir, se les interrogará por escrito y producirán sus respuestas de igual forma.
+Son atribuciones de los ayuntamientos de los Municipios en materia de seguridad pública preventiva:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. Expedir las disposiciones administrativas correspondientes a la seguridad pública, en el ámbito de su competencia;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+II. Establecer y ordenar las medidas necesarias para prevenir la comisión de faltas administrativas y delitos;
 
-###### ARTÍCULO 90.
+III. Expedir y vigilar el cabal cumplimiento del Bando de Policía y Gobierno;
 
-IMPEDIMENTOS PARA SER TRADUCTOR O INTÉRPRETE. Estarán impedidos para fungir como traductores o intérpretes quienes tengan otra participación en el proceso o la hayan tenido durante la averiguación previa, o concurra en ellos alguna causa de excusa para los jueces; salvo que en el lugar no haya otro y el caso así lo amerite.
+IV. Suscribir convenios de coordinación en materia de Seguridad Pública preventiva con otros municipios y de coordinación y de asunción de funciones con el Estado, previa la observancia de las formalidades que establezcan las leyes aplicables; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V. Las demás que les señalen esta Ley, la Ley Orgánica de los Municipios del Estado de Tabasco u otras leyes aplicables.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+### CAPÍTULO IV. CONSEJOS MUNICIPALES
 
-###### ARTÍCULO 91.
+###### Artículo 45.
 
-RECUSACION DE TRADUCTORES O INTÉRPRETES. Las partes, durante el proceso, podrán recusar al traductor o intérprete motivando la recusación. Oyendo primero al recusado y sin ulterior trámite, el juzgador la calificará. La determinación será irrecurrible.
+Atribuciones de los Presidentes Municipales
 
-### CAPÍTULO III. CITACIONES Y MEDIOS DE APREMIO
+Son atribuciones de los presidentes municipales en materia de seguridad pública preventiva:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. Ejercer el mando del cuerpo de policía preventiva de seguridad pública, en términos de la Ley Orgánica de los Municipios del Estado de Tabasco, los reglamentos y demás disposiciones legales aplicables, a fin de salvaguardar la integridad y los derechos de las personas y preservar las libertades, el orden y la paz pública en el territorio del Municipio;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+II. Ejecutar los acuerdos y convenios en materia de seguridad pública preventiva aprobados por el Ayuntamiento;
 
-###### ARTÍCULO 92.
+III. Aplicar las directrices que, dentro de su competencia, señalen las autoridades federales o estatales en materia de seguridad pública preventiva;
 
-CITATORIOS Y OBLIGACIÓN DE PRESENTARSE. Toda persona deberá presentarse ante los juzgadores que conozcan en materia penal, cuando se le cite; salvo cuando esté impedida por enfermedad u otra causa física que se acredite. Se exceptuará a los altos servidores públicos federales y del estado; a quienes se les pedirá informen por escrito. O se acudirá a su lugar de trabajo para practicar la diligencia en forma reservada.
+IV. Cumplir y hacer cumplir esta Ley, el bando y reglamentos municipales que se dicten, en el ámbito de su competencia, para mantener la seguridad pública en el territorio del Municipio;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V. Asegurar la vigilancia en los lugares de uso común, vías y espacios públicos en la jurisdicción del Municipio;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+VI. Hacer del conocimiento de las autoridades competentes los actos u omisiones de los integrantes del cuerpo preventivo de seguridad pública municipal que puedan constituir delito;
 
-###### ARTÍCULO 93.
+VII. Establecer en el municipio las instancias de coordinación para la integración y funcionamiento del Sistema Estatal;
 
-FORMA DE HACER LOS CITATORIOS. Los citatorios se podrán hacer por cédula en forma personal; mensajería; correo o telegrama. En cualquier caso se anotará constancia en el expediente.
+VIII. Verificar que toda la información generada por las instituciones y cuerpos policiales a su cargo, sea remitida de manera inmediata al Sistema Estatal;
 
-###### ARTÍCULO 94.
+IX. Proponer y aplicar políticas y programas de cooperación municipal en materia de seguridad pública;
 
-CONTENIDO DE LA CÉDULA EN FORMA PERSONAL O POR OTRO MEDIO. La cédula, sea en forma personal, por mensajería, correo o telegrama contendrán:
+X. Aplicar las directrices que dentro de su competencia se señalen en el marco de los Sistemas Estatal y Nacional en materia de Seguridad Pública;
 
-I. NOMBRE Y DOMICILIO. El nombre, apellido, domicilio y/o lugar en que trabaje la persona que se cita. En caso de ignorarse algunos de esos datos: Los que se tengan para identificarlo.
+XI. Garantizar la coordinación de los elementos a su cargo con las demás Instituciones de Seguridad Pública y protección civil, en su caso;
 
-II. AUTORIDAD. La autoridad ante la que se deba presentar.
+XII. Supervisar la actuación de los elementos a su cargo, en la investigación de delitos, bajo el mando y conducción del ministerio público;
 
-III. DÍA Y LUGAR. El día, hora y lugar en que se deba presentar.
+XIII. Proponer al Ayuntamiento el nombramiento del Director de Seguridad Pública Municipal;
 
-IV. MOTIVO Y OBJETO DE LA CITACIÓN. El motivo que origina el citatorio y el objeto de la presentación.
+XIV. Promover el desarrollo y fortalecimiento de las dependencias encargadas de la seguridad pública municipal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XV. Diseñar y ejecutar programas en materia de prevención de los delitos y la violencia, así como colaborar con las autoridades competentes en la ejecución de los programas respectivos;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+XVI. Aplicar y vigilar el cumplimiento de esta Ley, reglamentos, convenios, y demás disposiciones en materia de seguridad pública;
 
-V. PREVENCIÓN DE ORDEN DE PRESENTACIÓN Y DE DESACATO. La prevención de que se empleará la fuerza pública si no comparece y de que se ordenará la presentación mediante la policía, cuando se trate de citatorio judicial. Además, en cualquier caso, la prevención de que si omite comparecer sin motivo justificado su conducta se tipificará penalmente como desacato.
+XVII. Promover la capacitación, actualización y especialización de los elementos de los cuerpos de policía a su cargo, conforme al Programa Rector;
 
-VI. FIRMA. La firma del funcionario que ordene la citación debidamente sellada y el carácter de aquél. Si es telegrama, la constancia de la firma.
+XVIII. Verificar que los elementos de los cuerpos policiales a su cargo se sometan a las evaluaciones de control de confianza y cuenten con el Certificado, de conformidad con las disposiciones legales aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIX. Suscribir convenios de coordinación en materia de seguridad pública con otros Municipios del Estado o de otras entidades federativas, para cumplir con los fines de la seguridad pública, de conformidad con las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+XX. Establecer las instancias de coordinación para la integración y funcionamiento del Sistema Nacional y del Sistema Estatal;
 
-###### ARTÍCULO 95.
+XXI. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Conferencia Nacional de Seguridad Pública Municipal;
 
-ENTREGA PERSONAL DE CÉDULA. La cédula se hará al menos en original y duplicado. Existirá formato para uno y otro. En el duplicado, habrá espacio adicional para hacer constar los incidentes en la entrega del original.
+XXII. Promover la participación de la comunidad, para estimular propuestas de solución a los problemas de seguridad pública preventiva;
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+XXIII. Difundir los reglamentos de los cuerpos preventivos de seguridad pública municipal; y
 
-La cédula original se entregará al destinatario donde se le localice, de preferencia en su domicilio y/o donde trabaje, por actuario del juzgado; por la Policía del Estado o por los interesados. El juzgador también podrá disponer la entrega de cédulas por conducto de la policía municipal. Siempre se asentará en el duplicado, el nombre, apellidos y cargo de quién entregue la cédula. Si el encargado de la citación es uno de los interesados, en vez del cargo pondrá su domicilio.
+XXIV. Las demás que les confieran esta Ley y demás ordenamientos en la materia.
 
-###### ARTÍCULO 96.
+Las Direcciones de Seguridad de Seguridad (sic) Pública Municipal, serán integradas y funcionarán de conformidad con lo establecido en la Ley Orgánica de los Municipios del Estado de Tabasco y cumplirán con sus funciones y atribuciones conforme a las bases y principios de la Ley General, de la presente Ley y demás ordenamientos aplicables.
 
-RECEPCIÓN DE CÉDULA PERSONAL. El destinatario deberá firmar el duplicado o imprimir en él su huella digital. Así se hará constar en el duplicado. Si se niega a ello, así se hará constar. Si el destinatario no se encuentra y quien deba entregar la cédula se cerciora que ahí vive o trabaja el destinatario, la entregará a la persona que se halle en el lugar; la que firmará el duplicado o imprimirá su huella digital. Además, se hará constar su nombre, apellidos y domicilio. Si se niega a ello, se asentará constancia.
+###### Artículo 46.
 
-###### ARTÍCULO 97.
+Clasificación
 
-NEGATIVA DE RECEPCIÓN DE CÉDULA PERSONAL O CUANDO NO SE ENCUENTRE AL DESTINATARIO. Si, además, el destinatario o la persona que se encuentre en el lugar, se niegan a recibir la cédula original, ésta se fijará en el sitio de acceso y se hará constar lo anterior en el duplicado.
+Los Cuerpos Policiales de Seguridad Pública del Estado son:
 
-Cuando no se encuentre al destinatario y no viva en el lugar, ni ahí trabaje, se asentará constancia en el duplicado, señalándose cómo se supo, de quién se supo y su domicilio. Sin dejar la cédula original. Mas si en el lugar no se encuentra al destinatario o a otra persona, pero un vecino o vecina manifiesta que aquél ahí vive o trabaja, así se hará constar y se acudirá de nuevo al día siguiente. Si de nuevo no se encuentra al destinatario, se le dejará el original en el sitio de acceso y se hará constar lo anterior.
+I. La Policía Estatal;
 
-En cualquier caso, en el duplicado se asentará el nombre, apellidos y domicilio de las personas que den la información.
+II. El cuerpo de custodios al servicio de la seguridad de los Centros Penitenciarios y de Internamiento Especializado para Adolescentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+III. La Policía Auxiliar y la Bancaria, Industrial y Comercial, ambas con el carácter de auxiliar; y
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+IV. Los cuerpos de Seguridad Pública municipales.
 
-###### ARTÍCULO 98.
+###### Artículo 47.
 
-REGRESO DEL DUPLICADO DE LA CÉDULA PERSONAL ANTE EL JUZGADO O TRIBUNAL. Antes de la hora que se señaló para la diligencia o actuación, quien debió cumplir con el citatorio dará cuenta con el duplicado de la cédula y, en su caso, con el original. Igualmente, informará sobre el motivo por el que no le fue posible hacer entrega. Si incumple lo anterior, se le aplicará corrección disciplinaria. Si quién incumple es el interesado que haya pedido el medio de prueba que dio motivo a la citación, también se declarará desierto aquél.
+De la Policía Estatal
 
-Cualquier afirmación o constancia falsa en el duplicado de la cédula o con motivo de su entrega, se considerará como obstrucción a la justicia y se sancionará de acuerdo al código penal. El juzgador estará obligado a dar vista de ello al Ministerio Público. Éste procederá en consecuencia.
+La Policía Estatal es un órgano desconcentrado de la Secretaría de Seguridad Pública, con autonomía técnica y operativa. Se organizará y funcionará conforme a esta Ley y sus reglamentos. Al frente de la Policía Estatal estará un Comisionado quien tendrá el más alto rango y ejercerá sobre la misma, atribuciones de mando, dirección y disciplina.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La Policía Estatal ejercerá en todo el territorio del Estado las atribuciones que le otorga la presente Ley, con estricto respeto a las que corresponden a las competencias de las instituciones de policía federal y municipal.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+###### Artículo 48.
 
-###### ARTÍCULO 99.
+Requisitos y atribuciones del Comisionado
 
-ENTREGA DE CÉDULA POR OTRO MEDIO DISTINTO AL PERSONAL. La cédula también se podrá enviar por mensajería o correo en sobre cerrado, sellado y con acuse de recibo. En el duplicado se hará constar lo anterior.
+Para ser Comisionado, deberán reunirse los requisitos siguientes:
 
-En el duplicado del telegrama se deberá asentar constancia de recibo por la oficina que lo transmita.
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles y no tener otra nacionalidad;
 
-El sobre en el que se envíe la cédula o en el del telegrama, deberán contener la leyenda de "citación judicial oficial".
+II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-Los secretarios de los tribunales cuidarán que se agregue a los autos el duplicado de la cédula; del telegrama; o el acuse de recibo que se agregará al duplicado. Asimismo, los secretarios informarán al juzgador.
+III. Tener reconocida buena conducta y no haber sido sentenciado por delito doloso o inhabilitado como servidor público, ni estar sujeto a proceso penal; y
 
-###### ARTÍCULO 100.
+IV. Comprobar una experiencia mínima de cinco años en labores vinculadas con la seguridad pública.
 
-AUSENCIA DE LA PERSONA QUE SE CITA. Si la persona que reciba la cédula manifiesta que el citado está ausente, dará el motivo que tenga de ese conocimiento; y si lo sabe, el lugar donde se pueda encontrar y desde cuándo se ausentó; así como cuándo regresará. Sin estas aclaraciones, lo dicho carecerá de valor. Todo esto se hará constar para que el funcionario respectivo dicte las providencias pertinentes.
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Son atribuciones del Comisionado, en materia de seguridad pública, las siguientes:
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+I. Fortalecer la función de seguridad pública, a fin de salvaguardar la integridad y derechos de las personas, preservar las libertades, la paz y el orden público, así como generar inteligencia para prevenir e investigar los delitos;
 
-###### ARTÍCULO 101.
+II. Ejercer el mando de los elementos que conforman el órgano desconcentrado denominado Policía Estatal, bajo las órdenes del Secretario;
 
-CITACIÓN POR TELÉFONO Y ENVÍO DE CÉDULA POR FAX. Podrá hacerse la citación por teléfono que transmitirá el juzgador o sus secretarios. Asentándose constancia en el expediente. Si el citado tiene telefax o módem, se le podrá enviar, además, la cédula por alguno de esos medios y se hará constar.
+III. Realizar investigación para la prevención de infracciones administrativas y de los delitos;
 
-###### ARTÍCULO 102.
+IV. Auxiliar a las autoridades competentes y coadyuvar en la investigación y persecución de los delitos y delincuentes bajo el mando y conducción del ministerio público, así como en la detención de personas o en el aseguramiento de bienes que sean objeto, instrumento o producto de un delito, y en aquellos casos en que sea formalmente requerida, cumpliendo sin excepción los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
 
-CITACIÓN A MILITARES Y EMPLEADOS. Se podrá citar a militares y a empleados públicos por conducto de sus superiores jerárquicos, si se estima necesario.
+V. Nombrar y remover a los titulares de las unidades entidades operativas y administrativas a su cargo, previo acuerdo con el Secretario;
 
-###### ARTÍCULO 103.
+VI. Coordinar los servicios de seguridad, vigilancia y protección regional en caminos y carreteras estatales o vías primarias, zonas urbanas y rurales, áreas de recreo y turísticas de competencia estatal, así como las instalaciones estratégicas estatales, de conformidad con las disposiciones legales aplicables;
 
-MEDIDAS DE APREMIO. El juzgador durante el proceso, para hacer cumplir sus determinaciones, podrá emplear a discreción cualquiera de los medios de apremio siguientes:
+VII. En coordinación con la autoridad competente, realizar estudios de vialidad y transporte que permitan agilizar el tránsito de vehículos;
 
-I. MULTA. Multa de diez hasta cien días del salario mínimo general vigente donde y cuando se apremie.
+VIII. Participar en operativos conjuntos con otras instituciones de policía federales, estatales o municipales, que se lleven a cabo conforme a lo dispuesto en las disposiciones legales aplicables;
 
-II. ARRESTO. Arresto hasta por 36 horas.
+IX. Obtener, analizar, estudiar y procesar información, así como poner en práctica métodos conducentes para la prevención y persecución de los delitos, sea directamente o mediante los sistemas de coordinación previstos en otras leyes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+X. Coadyuvar en las acciones de auxilio para salvaguardar a las personas y sus bienes en caso de emergencias o desastres;
 
-III (SIC). (REFORMADO [N. DE E. DEROGADO], P.O. 16 DE MAYO DE 2008)
+XI. Celebrar convenios con los Municipios para coordinar la función de seguridad pública en éstos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XII. Llevar el control, verificación y administración de los registros estatales y municipales de personal, de armamento y equipo, de conformidad con el reglamento respectivo;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 104.
+XIII. Elaborar, coordinar, planear y dirigir las acciones necesarias para establecer y mejorar el Sistema Estatal de Información sobre Seguridad Pública y de Inteligencia Policial;
 
-PREVENCIONES EN CITATORIOS O DETERMINACIONES JUDICIALES. En toda resolución que deba cumplirse, sea o no sea citatorio, el juzgador siempre prevendrá de la medida de apremio que impondrá a quien deba cumplir la resolución, en caso de que no lo haga. Si es multa señalará los días de salario. Ésta se fijará al prudente arbitrio del juzgador, según la importancia de la diligencia, actuación o audiencia que deba efectuarse. Sin perjuicio de hacer comparecer a quién desatienda un citatorio. La resolución y la prevención se darán a conocer a quien deba cumplirla. Si fuere necesario se le dejará cédula, dándole a conocer lo anterior.
+XIV. Coordinar y supervisar las acciones y operativos que en materia de seguridad pública e intercambio de información se realicen con los Municipios del Estado, entidades federativas, Distrito Federal y la Federación;
 
-###### ARTÍCULO 105.
+XV. Colaborar, cuando así lo soliciten otras autoridades estatales o federales competentes, para el ejercicio de sus funciones de vigilancia, verificación e inspección, que tengan conferidas por disposición de otras leyes;
 
-INCUMPLIMIENTO DEL CITADO U OBLIGADO A CUMPLIR DETERMINACIÓN MINISTERIAL O JUDICIAL. Si el obligado incumple la resolución sin motivo justificado, se le aplicará el medio de apremio que se señaló en la prevención. Además, con independencia de ello, el juzgador ordenará el auxilio de la fuerza pública para hacer cumplir su resolución; así como el cateo, si fuere necesario para asegurar cosas.
+XVI. Proponer y, en su caso, celebrar acuerdos, convenios y demás actos jurídicos, relacionados con las atribuciones del organismo público desconcentrado denominado Policía Estatal;
 
-Si el desacato persiste por cualquier causa indebida atribuible al apremiado, se procederá penalmente en su contra sin necesidad de agotar otro medio de apremio.
+XVII. Definir lineamientos de racionalidad, austeridad, disciplina, equidad, igualdad, legalidad y transparencia administrativas para el ejercicio, seguimiento y control de los recursos que se aporten para la operación y funcionamiento del organismo público desconcentrado denominado Policía Estatal;
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+XVIII. Supervisar, vigilar e inspeccionar que los servicios de Seguridad Privada se apeguen a las disposiciones legales y reglamentarias correspondientes;
 
-El juzgador girará la orden de presentación a la Policía del Estado por conducto del Ministerio Público; o a cualquier dependencia estatal o municipal de policía; quienes tendrán el deber de cumplirla.
+XIX. Coordinar a los Cuerpos de la Policía Auxiliar y la Bancaria, Industrial y Comercial, en su carácter de auxiliares de la seguridad pública;
 
-###### ARTÍCULO 106.
+XX. Promover la integración de Grupos de Coordinación Interinstitucional con autoridades de los diferentes órdenes de gobierno, con el fin de optimizar y aplicar con eficiencia los recursos, así como fomentar la participación ciudadana en materia de seguridad pública y reinserción social;
 
-INCONFORMIDAD DEL APREMIADO. Siempre que se imponga multa o arresto como medio de apremio, el apremiado se podrá inconformar por escrito o comparecencia el mismo día o durante los tres siguientes de cuando aquél conozca del apremio. Salvo prueba en contrario se estimará que conoció del apremio desde el día siguiente al que se entregó o fijó la cédula; o se recibió el citatorio, según el acuse de recibo.
+XXI. Ejercer acciones de coordinación con las diferentes Dependencias y entidades del Estado y los municipios, en situaciones de emergencia y desastre, conforme a lo establecido en la ley de Protección Civil;
 
-En tal caso, se le podrá fijar un plazo prudente para justificar el incumplimiento. Al concluir el plazo, la autoridad que corresponda resolverá de inmediato lo procedente.
+XXII. Emitir los acuerdos, instructivos, manuales de organización y de procedimientos, y demás normatividad que rija las actividades de las direcciones generales y unidades administrativas de la Policía Estatal, en el ámbito de su competencia;
 
-###### ARTÍCULO 107.
+XXIII. Dar cumplimiento a los mandamientos que giren las autoridades competentes de la federación y del Estado, las autoridades jurisdiccionales administrativas y órganos autónomos, en el ejercicio de sus funciones
 
-DOMICILIO QUE SE IGNORA. Si se ignora el domicilio de la persona que deba citarse o el sitio en el que trabaja, se encargará a la policía que lo investigue y lo proporcione en el plazo que con prudencia se fije. Si esta investigación no tiene éxito y quien ordena la citación lo estima conveniente, podrá hacerla por periódico hasta por dos ocasiones.
+XXIV. Auxiliar en todo lo relativo al mantenimiento del orden tanto al interior como al exterior de los Centros Penitenciarios;
 
-### CAPÍTULO IV. DESPACHO DE LOS NEGOCIOS
+XXV. Informar al Secretario sobre el desempeño de las atribuciones del órgano desconcentrado a su cargo y de los resultados alcanzados; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXVI. Las demás que le señale esta Ley, otras disposiciones legales y administrativas y las que determine el Secretario.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+###### Artículo 49.
 
-###### ARTÍCULO 108.
+Policía Auxiliar y la Bancaria, Industrial y Comercial
 
-BUEN ORDEN Y RESPETO. Los juzgadores mantendrán el orden y exigirán que se guarde respeto tanto a ellos como a las demás autoridades y personas. Aplicarán en el acto, por las faltas que se cometan, las correcciones disciplinarias que este código autoriza.
+La Policía Auxiliar y la Bancaria Industrial y Comercial serán coordinadas por el Comisionado; su operación, los gastos necesarios para su funcionamiento, así como el pago de salario y demás prestaciones de sus elementos serán financiados por un fondo, que se denominará "Fondo Para la Operación de las Policías Auxiliar y la Bancaria Industrial y Comercial", que el Gobernador del Estado establecerá por conducto de la Secretaría de Planeación y Finanzas, el cual se integrará de los recursos que ingresen por la contratación de los servicios que ambas policías proporcionen.
 
-###### ARTÍCULO 109.
+###### Artículo 50.
 
-GASTOS POR PRACTICAR DILIGENCIAS. Se destituirá de su empleo a quién cobre o reciba dinero; aunque sea a título de gratificación y con independencia de la responsabilidad penal en que pueda incurrir.
+De las policías municipales
 
-###### ARTÍCULO 110.
+Los cuerpos de seguridad pública municipales se organizarán y funcionarán de conformidad a esta Ley y las disposiciones reglamentarias y administrativas municipales. Estarán bajo el mando del Presidente Municipal, quien lo ejercerá directamente o por conducto del Director de Seguridad Pública Municipal.
 
-CAMBIO DE PERSONAL. Cuando cambie el personal de un juzgado o tribunal, no se dictará decreto para hacerlo saber. Pero en la primera resolución que se pronuncie deberá insertarse el nombre completo del nuevo funcionario.
+### CAPÍTULO V. INSTANCIAS AUXILIARES DEL SISTEMA ESTATAL
 
-En caso de que el cambio ocurra después de la audiencia final o de vista, según la instancia, sí se hará saber por decreto especial.
+###### Artículo 51.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Atribuciones de las policías
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2008)</small>
+La función básica de los cuerpos de policía es prevenir el delito y preservar la paz y el orden público, para lo cual tendrán las siguientes atribuciones:
 
-###### ARTÍCULO 111.
+I. Prevención: consistente en llevar a cabo las acciones necesarias para evitar la comisión de delitos e infracciones administrativas y, en sus circunscripciones, realizar acciones de inspección, vigilancia y vialidad;
 
-RESTITUCIÓN AL OFENDIDO EN EL GOCE DE SUS DERECHOS. El juez, durante la causa, dictará las providencias necesarias a solicitud del interesado, para restituirle en el goce de sus derechos. Siempre y cuando se acrediten y no aparezcan datos que los controviertan.
+II. Atención a víctimas y ofendidos del delito: proporcionar auxilio a víctimas y ofendidos del delito, en los términos que señalan el Código Nacional de Procedimientos Penales y las respectivas leyes nacional y local de víctimas, para lo cual recibirán, en su caso, las denuncias o solicitudes respectivas;
 
-Si según constancias de autos los derechos sobre el bien aparecen controvertidos, su devolución sólo procederá cuando se acredite el cuerpo del delito y se otorgue caución bastante para garantizar daños y perjuicios a terceros.
+III. Investigación: bajo la conducción y mando del ministerio público, participar en la investigación de los delitos, en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, cumpliendo con las obligaciones y procedimientos que para el ejercicio de dicha atribución establecen el Código Nacional de Procedimientos Penales y demás normatividad aplicable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. Reacción: para lo que garantizarán, mantendrán y restablecerán la paz y el orden públicos, y ejecutarán los mandamientos ministeriales y judiciales; y
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+V. Protección y Custodia: que implica la protección de las instalaciones, el personal de los tribunales, los centros de reinserción social y de internamiento para adolescentes, así como de los intervinientes en el proceso penal y, de requerirse, el traslado y la vigilancia de los imputados. Así mismo, brindar los servicios de protección a las demás personas que la propia Ley señala.
 
-El juzgador fijará la naturaleza y el monto de la caución en vista de las circunstancias.
+###### Artículo 52.
 
-###### ARTÍCULO 112.
+Organización de las policías
 
-CARÁCTER DE LA RESTITUCIÓN AL OFENDIDO EN EL GOCE DE SUS DERECHOS. En los supuestos de los dos últimos párrafos del artículo anterior, la restitución será provisional y quedará sin efecto cuando se desvanezca la prueba del cuerpo del delito o cuando se dicte auto de libertad o sobreseimiento por prueba de una excluyente de delito o causa que extinga la acción penal, que queden firmes. Más si se dicta sentencia de condena que quede firme la restitución será definitiva y se cancelará la caución.
+Para el debido ejercicio de las atribuciones enumeradas en el artículo anterior, la policía podrá contar con las siguientes divisiones, cuyas actividades específicas se establecerán en el respectivo Reglamento de esta Ley:
 
-###### ARTÍCULO 113.
+I. De proximidad;
 
-RETENCIÓN DE COSAS. Podrán retenerse las cosas si a criterio racionalmente motivado y por escrito de quien practica las diligencias, ello sea indispensable para la causa; exista o no exista prueba del cuerpo del delito.
+II. De atención a víctimas y ofendidos del delito;
 
-### CAPÍTULO V. CORRECCIONES DISCIPLINARIAS
+III. De investigación;
 
-###### ARTÍCULO 114.
+IV. De inteligencia;
 
-CORRECCIONES DISCIPLINARIAS. Son correcciones disciplinarias:
+V. De reacción; y
 
-I. MULTA. La multa de diez a cien días del salario mínimo general vigente donde y cuando se realice la conducta.
+VI. De protección y custodia.
 
-II. ARRESTO. El arresto hasta por 36 horas.
+###### Artículo 53.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Estructura policial
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+La estructura de las corporaciones policiales, considerará por lo menos las categorías siguientes:
 
-###### ARTÍCULO 115.
+I. Comisarios:
 
-IMPOSICIÓN DE CORRECCIONES DISCIPLINARIAS. Corresponderá al juzgador durante el proceso, previo apercibimiento oral o escrito, imponer correcciones disciplinarias por los motivos del artículo 94 fracción V y los demás que este código prevea.
+a) Comisario General;
 
-Siempre que se cometa una falta, dará fe del hecho o levantará constancia el secretario o testigo de asistencia del juzgador.
+b) Comisario Jefe, y
 
-###### ARTÍCULO 116.
+c) Comisario.
 
-AUDIENCIA DEL INTERESADO. Cuando se imponga una corrección disciplinaria, el interesado se podrá inconformar por escrito hasta el día laborable siguiente de cuando conozca la sanción.
+II. Inspectores:
 
-En vista de lo que exprese el interesado, quien impuso la corrección disciplinaria resolverá de inmediato lo procedente.
+a) Inspector General;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) Inspector Jefe;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+c) Inspector; y
 
-###### ARTÍCULO 117.
+d) Subinspector.
 
-SANCIONES AL PERSONAL. Las faltas que cometa el personal de juzgados y tribunales se sancionarán conforme a la Ley Orgánica del Poder Judicial.
+III. Oficiales:
 
-### CAPÍTULO VI. PÉRDIDA Y REPOSICIÓN DE EXPEDIENTES
+a) Oficial General;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) Oficial Jefe;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+c) Oficial; y
 
-###### ARTÍCULO 118.
+d) Suboficial.
 
-CERTIFICACIÓN SOBRE PÉRDIDA DE EXPEDIENTES. Cuando no se halle un expediente dentro del plazo de diez días a partir de la fecha que se le informe al juzgador, éste dispondrá de oficio o a petición de parte, que se certifique la existencia y falta posterior. Para que se proceda a sacar copia del duplicado o autenticar una de las demás copias que se tengan; o, en su caso, a obtener trascripción de la grabación que se tenga.
+IV. Escala Básica:
 
-###### ARTÍCULO 119.
+a) Policía Primero;
 
-REPOSICIÓN DE EXPEDIENTES. Cuando haya pérdida del expediente original, del duplicado y demás copias que se tuvieren y después de la certificación, se repondrán con las transcripciones de las grabaciones que se tengan y/o con copias de los escritos que presenten los interesados. Siempre y cuando éstos tengan sello y razón de que se presentaron. Además, con los acuerdos que obren en las listas de notificaciones y con las copias certificadas o con firma ológrafa que existan de las actuaciones.
+b) Policía Segundo;
 
-Igualmente, se tendrá por probada la existencia de las que se inserten o mencionen en cualquier otra resolución de la que exista constancia. Siempre y cuando no se objetare oportunamente la exactitud de la inserción o cita.
+c) Policía Tercero; y
 
-## TÍTULO QUINTO. ACTUACIONES PREVALENTEMENTE JUDICIALES
+d) Policía.
 
-### CAPÍTULO I. PREVENCIONES GENERALES
+###### Artículo 54.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Categorías
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+Para ocupar cargos en las diferentes divisiones de las corporaciones policiales se observará lo siguiente:
 
-###### ARTÍCULO 120.
+A) Para las divisiones de proximidad, de reacción y de custodia las categorías son:
 
-APLICABILIDAD DE LAS NORMAS DE ESTE TÍTULO. Las normas de este título son prevalentemente judiciales.
+I. Oficiales
 
-### CAPÍTULO II. EXHORTOS Y OFICIOS
+II. Escala básica
 
-###### ARTÍCULO 121.
+B) Para las divisiones de atención a víctimas, investigación e inteligencia, deberá cubrir las categorías de:
 
-EXHORTOS Y OFICIOS. Cuando se tengan que practicar diligencias judiciales fuera de donde conoce el juzgador, se encomendará su cumplimiento a otro de igual o menor escalafón general, de donde se deban llevar a cabo.
+I. Inspectores
 
-Cuando se encomiende su cumplimiento a juzgadores dentro del estado, será suficiente que se les encargue mediante simple oficio. Sólo se empleará la forma de exhorto cuando se pidan a juzgadores fuera del estado o del orden federal.
+II. Comisarios
 
-Al dirigirse los juzgadores a funcionarios o autoridades que no sean judiciales, también lo harán por medio de oficio.
+###### Artículo 55.
 
-###### ARTÍCULO 122.
+Jerarquías
 
-REQUISITOS DE FORMA. Los exhortos y oficios contendrán las inserciones necesarias, según la naturaleza de las diligencias a practicarse; llevarán el sello del juzgado o tribunal y se firmarán por el juzgador y el secretario.
+Los cuerpos Policiales de la Entidad y los municipios se organizarán bajo un esquema de jerarquización terciaria, cuya célula básica se compondrá invariablemente por tres elementos.
 
-###### ARTÍCULO 123.
+Los titulares de las categorías jerárquicas estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
 
-NO ES REQUISITO LA LEGALIZACIÓN DE FIRMAS. Se dará entera fe y crédito a los exhortos que libren los juzgados y tribunales mexicanos ajenos a los del estado, sin condicionarlos a la legalización de firmas.
+###### Artículo 56.
 
-###### ARTÍCULO 124.
+Uniformes e insignias
 
-USO DE LA VÍA TELEGRÁFICA O DE OTRAS VÍAS. En casos urgentes o cuando el juzgador lo estime conveniente, podrá hacerse uso de mensajería; módem; correo electrónico; o vía telegráfica. Se expresarán con claridad las diligencias a practicarse; la parte que las solicitó; el delito de que se trata y el fundamento de la providencia.
+En los Manuales de Uniformes e Insignias que al efecto se expidan por las corporaciones policiales, se establecerán el diseño y demás características de las insignias correspondientes a cada jerarquía.
 
-Tratándose del telégrafo, los exhortos, despachos u oficios se presentarán por el actuario al jefe de la oficina telegráfica, quien extenderá recibo. En los demás casos, se asentará constancia del medio que se empleó, quién lo recibió y sus datos de identificación. Si es por mensajería deberá hacerse, además, con acuse de recibo.
+### CAPÍTULO I. AUTORIDADES ESTATALES
 
-Si el juzgador lo estima prudente, mandará después por correo certificado y con acuse de recibo, otro exhorto u oficio igual.
+###### Artículo 57.
 
-###### ARTÍCULO 125.
+Concepto de Mando
 
-CUMPLIMIENTO DEL EXHORTO U OFICIO. El juzgador que reciba un exhorto u oficio que se extendió en debida forma, procederá a cumplirlo a la brevedad posible. Para ello tendrá todas las atribuciones que sean necesarias; sin que sea condición que el exhortante u oficiante le autorice en forma previa.
+Se entenderá por mando la autoridad ejercida por un superior jerárquico en servicio activo sobre sus subordinados o iguales en jerarquía, cuando éstos se encuentren bajo sus órdenes, en razón de su categoría, cargo o comisión.
 
-###### ARTÍCULO 126.
+Para el cumplimiento de sus funciones y atribuciones, así como para el desarrollo de sus operaciones, las instituciones policiales contarán con los niveles de mando que se establezcan en los ordenamientos específicos que regulen a cada una de ellas.
 
-EXHORTO U OFICIO SIN REQUISITOS LEGALES. Si el juzgador estima que el exhorto o despacho no satisface los requisitos legales, lo devolverá fundando su negativa.
+###### Artículo 58.
 
-###### ARTÍCULO 127.
+Obligaciones generales de los policías
 
-INCUMPLIMIENTO INJUSTIFICADO DE EXHORTOS U OFICIOS. Cuando un juzgador desatienda un exhorto u oficio: Quien lo envió le recordará y si la demora continúa, dará aviso al Presidente del Tribunal Superior de Justicia; para que la omisión se sancione como falta.
+Para garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los policías tendrán las siguientes obligaciones:
 
-Si el funcionario no es juzgador, quien libró el oficio presentará queja al superior de aquél.
+I. Actuar dentro del orden jurídico respetando en todo momento la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen;
 
-###### ARTÍCULO 128.
+II. Servir con fidelidad y honor a la sociedad;
 
-INCUMPLIMIENTO JUSTIFICADO POR RAZONES DE COMPETENCIA. Promoverá su competencia el juzgador que reciba exhorto o despacho y estime que no debe cumplirlos por interesarse en ello su jurisdicción.
+III. Respetar y proteger los derechos humanos;
 
-###### ARTÍCULO 129.
+IV. Prevenir la comisión de faltas administrativas y delitos;
 
-NOTIFICACIONES EN CASO DE EXHORTO U OFICIO. La primera resolución que se dicte para ejecutar un exhorto u oficio, se notificará personalmente al Ministerio Público y a las partes si están presentes o señalaron domicilio en el lugar en que se deba diligenciar. Si no lo señalaron, se les notificará por lista.
+V. Salvaguardar la vida, la integridad, bienes y los derechos de las personas, así como preservar las libertades, la paz y el orden público en el territorio del Estado;
 
-Cuando las actuaciones deban permanecer en secreto, sólo se les notificará al Ministerio Público.
+VI. Tratar respetuosamente a las personas, absteniéndose de todo acto arbitrario;
 
-###### ARTÍCULO 130.
+VII. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
 
-EXHORTO HACIA EL EXTRANJERO. Los exhortos que se dirijan a los tribunales extranjeros se remitirán por la vía diplomática. Las firmas de las autoridades que los expidan se legalizarán por el Ejecutivo del Estado. La de éste, por la Secretaría de Relaciones Exteriores.
+VIII. Participar en operaciones y mecanismos de coordinación con otras instituciones de seguridad pública, así como brindarles, en su caso, el apoyo que proceda conforme a derecho;
 
-Podrá encomendarse la práctica de diligencias en países extranjeros a los agentes consulares mexicanos, por medio de oficio y con las inserciones necesarias.
+IX. Oponerse, rechazar y denunciar cualquier acto de corrupción;
 
-###### ARTÍCULO 131.
+X. Cumplir y hacer cumplir con diligencia las órdenes que reciban con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
 
-EXHORTO PROVENIENTE DEL EXTRANJERO. Los exhortos de los tribunales extranjeros deberán contener, además, los requisitos que señalen las legislaciones respectivas y los tratados internacionales.
+XI. Abstenerse de convocar o participar en cualquier práctica de inconformidad que afecte las actividades de las corporaciones policiales;
 
-###### ARTÍCULO 132.
+XII. En los términos de las disposiciones aplicables, mantener estricta reserva respecto de los asuntos que conozcan por razón del desempeño de su función;
 
-EXHORTOS PARA LA APREHENSIÓN DEL INCULPADO EN EL EXTRANJERO. Los exhortos que se expidan al extranjero para la aprehensión de un inculpado, contendrán:
+XIII. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
 
-El auto en que se decretaron; el pedimento del Ministerio Público; la media filiación del inculpado si fuere posible; o los datos necesarios para su identificación. Así como copia certificada de todas las constancias de la averiguación previa o de la causa en las que se sustenta la aprehensión. Además, los requisitos que señale la ley de extradición y los convenios internacionales.
+XIV. Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra, denunciando inmediatamente tales hechos a la autoridad competente;
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+XV. Desempeñar el servicio sin solicitar ni aceptar compensaciones, pagos o gratificaciones;
 
-###### ARTÍCULO 133.
+XVI. Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir los requisitos previstos en las disposiciones constitucionales y legales aplicables;
 
-APREHENSIÓN DEL INCULPADO FUERA DEL ESTADO O DENTRO DE ÉL POR ÓRDENES DE FUERA DEL ESTADO. Para cumplir las órdenes de aprehensión de jueces fuera del estado o para realizar fuera del estado las que se dicten por jueces del estado, se observará el convenio de colaboración que en la materia se encuentren vigentes, que la Fiscalía General del Estado celebró con la procuraduría que corresponda, de conformidad con el artículo 119 constitucional.
+XVII. Someterse a las evaluaciones periódicas para acreditar el cumplimiento de los requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
 
-###### ARTÍCULO 134.
+XVIII. Informar inmediatamente al superior jerárquico de las omisiones y de los actos indebidos o constitutivos de delito, de sus subordinados o iguales en categoría jerárquica;
 
-RECURSOS. Contra la resolución que ordene librar un exhorto u oficio; o que disponga su cumplimiento, no se concede recurso.
+XIX. Fomentar en sí mismo y en el personal bajo su mando la disciplina, la dedicación, la responsabilidad, la decisión, la integridad, el sentido de pertenencia a la corporación policial y el profesionalismo;
 
-Contra el auto que niegue librar un exhorto u oficio procede el recurso de apelación.
+XX. Resguardar la vida y la integridad física de las personas detenidas;
 
-### CAPÍTULO III. NOTIFICACIONES
+XXI. Aplicar y respetar los protocolos de investigación y de cadena de custodia adoptados por las instituciones de seguridad pública;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXII. Preservar, conforme a las disposiciones aplicables y protocolos respectivos, las pruebas y los indicios de hechos presumiblemente delictivos o de faltas administrativas, de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+XXIII. Abstenerse de disponer, para beneficio propio o de terceros, de los bienes asegurados;
 
-###### ARTÍCULO 135.
+XXIV. Abstenerse de sustraer, ocultar, alterar o dañar bienes en perjuicio de las instituciones de seguridad pública, así como evitar cualquier acto de descuido o negligencia que ocasione la pérdida, deterioro o extravío de los que le hayan sido confiados;
 
-NOTIFICADORES Y TIEMPO PARA NOTIFICAR. Las notificaciones durante el proceso se harán por los secretarios o actuarios dentro de los cinco días siguientes a las resoluciones que las motiven; salvo que exista causa que justifique dilación.
+XXV. Abstenerse de entregar o revelar, a quien no tenga derecho conforme a las disposiciones aplicables, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga custodia o conocimiento en ejercicio y con motivo de su función, cargo o comisión;
 
-La notificación también se podrá llevar a cabo por los juzgadores cuando se haga en el propio juzgado o tribunal; o así lo estimen pertinente.
+XXVI. Atender con diligencia las solicitudes de informes, quejas o auxilio de la ciudadanía o de sus propios subordinados, excepto cuando la petición rebase sus atribuciones, en cuyo caso deberá turnarlo al área que corresponda;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXVII. Abstenerse de introducir a la corporación policial a la que pertenezcan, bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros actos similares en que previamente exista la orden correspondiente y se haga constar en el informe respectivo;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+XXVIII. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo que se trate de medicamentos controlados prescritos en los términos de ley;
 
-###### ARTÍCULO 136.
+XXIX. Abstenerse de consumir bebidas embriagantes en las instalaciones de las corporaciones policiales o durante el servicio;
 
-DOMICILIO PARA RECIBIR NOTIFICACIONES. Las personas que intervengan en el proceso, designarán en el primer escrito, diligencia o audiencia, su domicilio para oír y recibir notificaciones y citatorios, en la población que tenga su sede el juzgado o tribunal.
+XXX. Dentro o fuera del servicio, abstenerse de realizar conductas que desacrediten su persona o la imagen de las corporaciones policiales;
 
-Si por cualquier circunstancia no hacen la designación; cambian su domicilio sin dar aviso o señalan uno falso; el actuario o quien ejerza sus funciones asentará la razón respectiva y todas las notificaciones se harán por lista.
+XXXI. Impedir que personas ajenas a las corporaciones policiales realicen actos inherentes a éstas; asimismo, al realizar actos del servicio, abstenerse de hacerse acompañar por dichas personas;
 
-###### ARTÍCULO 137.
+XXXII. Abstenerse de participar en actos de rebeldía o indisciplina contra el mando o alguna otra autoridad; y
 
-RESOLUCIONES QUE SE DEBEN GUARDAR EN SECRETO. Los autos que ordenen aprehensiones; cateos; providencias precautorias; aseguramientos; u otras diligencias análogas que el tribunal estime se deban guardar secreto sólo se notificarán personalmente al Ministerio Público. También se le notificará en forma personal, el auto que niegue una orden de aprehensión.
+XXXIII. Las demás que establezcan el Código Nacional de Procedimientos Penales, la Ley General y otras disposiciones legales aplicables.
 
-###### ARTÍCULO 138.
+###### Artículo 59.
 
-NOTIFICACIONES AL DETENIDO. Se notificarán personalmente al inculpado que esté detenido o en prisión preventiva, todas las resoluciones que tengan relación con su derecho a defenderse por sí mismo.
+Obligaciones específicas de los policías
 
-Al procesado que no esté detenido ni en prisión preventiva, se le notificarán las resoluciones en la forma que previenen los artículos siguientes.
+Los policías tendrán las siguientes obligaciones específicas:
 
-###### ARTÍCULO 139.
+I. En los términos del Código Nacional de Procedimientos Penales:
 
-NOTIFICACIONES PERSONALES AL MINISTERIO PÚBLICO, AL PROCESADO NO DETENIDO Y AL DEFENSOR. Se notificarán personalmente al Ministerio Público, al inculpado que no esté detenido ni en prisión preventiva y al defensor:
+a) Recibir denuncias sobre hechos que puedan ser constitutivos de delito e informar al Ministerio Público, por cualquier medio y de forma inmediata, de las diligencias que practiquen; y
 
-I. AUTOS QUE DEFINEN LA SITUACIÓN JURÍDICA. Los autos de sujeción o de no-sujeción a proceso; de formal prisión y libertad.
+b) Proporcionar atención a víctimas, ofendidos y testigos del delito;
 
-II. LIBERTAD CAUCIONAL. El auto que niegue o conceda la libertad caucional y todos los que de aquél se deriven.
+II. Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realicen;
 
-III. SOBRESEIMIENTO. El auto que sobresea o niega sobreseer el proceso.
+III. Remitir a la instancia que corresponda, para su análisis y su registro, la información que recopilen en el desempeño de sus actividades. Asimismo, entregar a otras instituciones de seguridad pública la información que les soliciten, en los términos de las leyes correspondientes;
 
-IV. DESVANECIMIENTO DE DATOS. El auto que pone fin al incidente de desvanecimiento de datos.
+IV. Apoyar a las autoridades que se lo soliciten en la investigación y la persecución de delitos, así como en situaciones de grave riesgo, catástrofes o desastres;
 
-V. CONCLUSIONES. El auto en el que se tiene al Ministerio Público ampliando la acción penal; así como el que cierra la fase probatoria.
+V. Ejecutar los mandamientos judiciales y ministeriales;
 
-VI. AUDIENCIA FINAL. El auto que cita a la audiencia final.
+VI. Obedecer las órdenes de los superiores jerárquicos o de quienes ejerzan sobre ellos funciones de mando;
 
-VII. SENTENCIA. La sentencia.
+VII. Ejecutar las órdenes que reciban de la línea de mando relativa y responder sobre su ejecución;
 
-VIII. OTROS. Las demás resoluciones que señale este código.
+VIII. Participar en operativos de coordinación con otras corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
-###### ARTÍCULO 140.
+IX. Mantener en buen estado, custodiar y devolver, cuando se les ordene, el armamento, el material, las municiones, los vehículos y el equipo que se les asigne con motivo de sus funciones;
 
-NOTIFICACIONES PERSONALES CUANDO HAY VARIOS DEFENSORES O AGENTES DEL MINISTERIO PÚBLICO. Si el inculpado tiene varios defensores, designará uno de ellos para que reciba las notificaciones personales que correspondan a la defensa. A los demás se les notificará si ocurren al juzgado o tribunal el día que se fije la lista o el siguiente; durante las horas de despacho.
+X. Hacer uso de la fuerza dentro de los límites y en los casos y circunstancias que establece la presente ley, las demás disposiciones legales aplicables y procedimientos previamente establecidos, así como los lineamientos, manuales y acuerdos que al efecto expidan las instituciones de seguridad pública;
 
-Si no se hace la designación, bastará notificar a cualquiera de los defensores.
+XI. Abstenerse de asistir uniformados a bares, cantinas, centros de apuestas y establecimientos similares, salvo que exista orden expresa para el desempeño de sus funciones o en casos de flagrancia o peligro inminente;
 
-Cuando intervengan en el proceso varios agentes del Ministerio Público, se podrá notificar a cualquiera de ellos.
+XII. Prestar auxilio congruente, oportuno y proporcional al hecho, a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindarles protección a sus bienes y derechos;
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+XIII. Inscribir las detenciones en el Registro de Detenidos, conforme a las disposiciones aplicables; y
 
-###### ARTÍCULO 141.
+XIV. Las demás que establezcan otras disposiciones legales.
 
-LUGAR PARA HACER NOTIFICACIONES PERSONALES. Las notificaciones personales se harán en el lugar que señalaron las partes o en el juzgado o tribunal. Las notificaciones al Ministerio Público, además, en los locales de las agencias, delegaciones o Fiscalía General, según corresponda.
+###### Artículo 60.
 
-###### ARTÍCULO 142.
+El Informe Policial Homologado
 
-MANERAS DE HACER LAS NOTIFICACIONES PERSONALES. Las notificaciones personales se podrán hacer de esa forma; o por mensajería, correo, telegrama, módem, correo electrónico o fax.
+Es el documento en el cual los Integrantes de las Instituciones Policiales realizarán el levantamiento, la revisión y el envío de información sobre hechos presumiblemente constitutivos de delito o faltas administrativas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 61.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+Contenido
 
-###### ARTÍCULO 143.
+Los Integrantes de los cuerpos policiales elaborarán el Informe Policial Homologado, el cual enviarán inmediatamente a las instancias correspondientes y que contendrá, cuando menos, los siguientes datos:
 
-FORMA DE LAS NOTIFICACIONES PERSONALES. Cuando en el juzgado o en el lugar que se señaló, el notificador encuentre a quien deba notificar, hará constar en el expediente los datos siguientes: Fecha en la que se notifica; fecha de la resolución que se notifica; a quién se notifica, con sus nombres y apellidos; el carácter por el cual se le notifica; la firma de éste o constancia de que se negó a firmar; y, firma, nombre, apellidos y cargo del notificador. Las personas que se les notifique podrán exponer lo que estimen pertinente, lo cual también se hará constar.
+I. El área que lo emite;
 
-Cuando en el lugar que se señaló, el notificador no encuentra a quien debe notificar, le dejará cédula en la que hará constar los datos siguientes: La fecha y hora en que la entregue; el juez o tribunal que dictó la resolución; el proceso en el que se dictó; la identificación de la resolución que se manda notificar; el nombre y apellido de la persona a quien se entrega.
+II. El usuario capturista, con expresión de nombre completo y adscripción;
 
-Las notificaciones que no sean personales, se podrán hacer de esa forma a los interesados o a sus abogados, cuando ocurran al tribunal o juzgado el día de la resolución o el siguiente, en horas de despacho.
+III. Los datos generales; a saber:
 
-###### ARTÍCULO 144.
+a. Folio;
 
-NEGATIVA A RECIBIR CÉDULA DE NOTIFICACIÓN. Si las personas que residan en el domicilio señalado para la notificación, ajenas a quién deba notificarse, se rehusan a recibir la cédula; o a nadie se encuentra en el lugar; aquélla se fijará en el sitio de entrada y se hará constar el motivo.
+b. Número de oficio;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+c. Fecha y hora del informe;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+d. Fecha y hora de los hechos;
 
-###### ARTÍCULO 145.
+e. Asunto;
 
-NOTIFICACIONES POR MENSAJERÍA O CORREO. La notificación también se podrá enviar en oficio por mensajería o correo en sobre cerrado, sellado y con acuse de recibo. En el duplicado del oficio y en el expediente se hará constar lo anterior. Al oficio se agregará copia de la resolución que se notifica o en aquél se insertarán sus resolutivos.
+f. A quién se dirige; y
 
-El sobre en el que se envíe la cédula o en el del telegrama, deberán contener la leyenda de "citación judicial oficial".
+g. Oficial que lo elaboró.
 
-Los secretarios de los tribunales cuidarán que se agregue a los autos el duplicado de la cédula; del telegrama; o el acuse de recibo que se agregará al duplicado. Asimismo, los secretarios informarán al juzgador.
+IV. Motivo, que se clasifica en:
 
-###### ARTÍCULO 146.
+a. Tipo de evento; y
 
-NOTIFICACIÓN POR FAX O MÓDEM. Podrá hacerse la notificación por fax, módem o correo electrónico, asentándose constancia en el expediente. A tal efecto, por esos medio (sic) se enviará el oficio y en su caso copia de la resolución. En el expediente se agregará copia del oficio.
+b. Subtipo de evento.
 
-Para notificar por módem, correo electrónico o fax, quién deba ser objeto de la notificación debió haber dado los datos a tal efecto.
+V. La ubicación, que contendrá:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+a. Entidad federativa;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+b. Municipio y, en su caso, sección, comisaría o comunidad;
 
-###### ARTÍCULO 147.
+c. Sector;
 
-NOTIFICACIONES POR LISTA. Los funcionarios que deban hacer las notificaciones que no sean personales fijarán diariamente una lista de los asuntos acordados en los estrados del juzgado o tribunal, según corresponda. En ella se expresará el número del expediente.
+d. Comandancia;
 
-La lista se publicará al día laborable siguiente de la resolución; a más tardar, en la última hora laborable. Publicada la lista, se asentará razón en autos.
+e. Turno;
 
-Las listas se firmarán por los secretarios; quienes deberán coleccionarlas y remitirlas al archivo del Poder Judicial en enero de cada año.
+f. Colonia;
 
-###### ARTÍCULO 148.
+g. Calle y número;
 
-EFECTO DE LAS NOTIFICACIONES. Las notificaciones personales surten efecto el mismo día que se hagan; o el día que se recibieron en el domicilio señalado, según el acuse de recibo.
+h. Código postal;
 
-Las notificaciones por lista surten efecto al día siguiente laborable de su publicación. A menos que la resolución respectiva se hubiere notificado antes, en forma personal.
+i. Entre qué calles; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+j. Otros elementos de referencia.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+VI. Los caminos, debiendo especificar:
 
-###### ARTÍCULO 149.
+a. Tramos; y
 
-NOTIFICACIONES A LA PARTE CIVIL; OFENDIDOS O VICTIMAS. Las notificaciones a la parte civil se harán por lista, excepto las que este código señale en forma personal.
+b. Kilómetro.
 
-Lo mismo se observará tratándose de ofendidos o víctimas que no se constituyan en parte civil, si señalaron domicilio para oír y recibir notificaciones en el lugar de proceso.
+VII. La descripción de los hechos, que deberá comprender:
 
-Si fueren varios ofendidos o víctimas por un mismo delito, deberán señalar un representante común. El juzgador los prevendrá de ello en la primera notificación y si dentro de los tres días siguientes no lo hicieren, tendrán como representante común al primero que aparezca en las constancias del proceso.
+a. Modo;
 
-###### ARTÍCULO 150.
+b. Tiempo; y
 
-NULIDAD DE LAS NOTIFICACIONES. Serán nulas las notificaciones que se hagan en forma distinta a la que prevé este capítulo.
+c. Lugar.
 
-Mas si la persona a la que se notificó en forma indebida se manifiesta sabedora de la providencia porque así se deduzca de alguna promoción; o recibe alguna notificación posterior sin reclamar la indebida dentro los tres días siguientes; desde entonces la notificación surtirá efecto como si se hubiese hecho legalmente.
+VIII. Mapa o croquis para la ubicación de los hechos;
 
-Deducida la nulidad, la autoridad que conozca resolverá sin ulterior trámite. Cuando se declare la nulidad de la notificación, también se anularán las actuaciones posteriores que no se hayan podido practicar legalmente sin la existencia previa y validez de la notificación que se anule.
+IX. Entrevistas realizadas; y
 
-Al responsable se le impondrá corrección disciplinaria y en caso de reincidir en más de una ocasión se le destituirá del cargo.
+X. En caso de detención, además de los datos anteriores, deberán adicionarse los siguientes:
 
-### CAPÍTULO IV. PLAZOS
+a. Señalar los motivos de la detención;
 
-###### ARTÍCULO 151.
+b. Descripción del o de los detenidos;
 
-NATURALEZA DE LOS PLAZOS. En los procesos penales los plazos son improrrogables y empezarán a correr al día siguiente que surta efecto la notificación; salvo los casos que este código señale.
+c. El nombre y el apodo, en su caso, del o de los detenidos;
 
-###### ARTÍCULO 152.
+d. Descripción de estado físico aparente del o de los detenidos;
 
-CÓMPUTO DE LOS PLAZOS. Los plazos se contarán por días naturales; pero no se tomarán en cuenta los sábados y domingos, ni los días no laborables; excepto cuando se deba hacer el cómputo de momento a momento.
+e. Objetos asegurados; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+f. Autoridad a la que el o los detenidos fueron puestos a disposición y el lugar de internamiento.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+Al describir los hechos deberá observarse un estricto orden cronológico, resaltando los aspectos relevantes; no deberán hacerse afirmaciones sin que se sustenten en datos o hechos reales, por lo que no se incluirán conjeturas, conclusiones ajenas al evento o informaciones de oídas.
 
-###### ARTÍCULO 153.
+Cuando elementos de diversas corporaciones policiales conozcan de un mismo hecho, cada uno deberá elaborar un informe policial homologado.
 
-PLAZOS COMPUTABLES POR HORAS. Los plazos que señala este código para practicar la declaración preparatoria o para resolver la situación jurídica se contarán de momento a momento y desde que se puso al inculpado a disposición del juzgador.
+En su caso, el diseño y formatos del Informe Policial Homologado se ajustarán a los modelos y las directrices que establezcan las instancias competentes.
 
-###### ARTÍCULO 154.
+###### Artículo 62.
 
-PLAZO PARA LOS CASOS NO PREVISTOS. Cuando este código no fije plazo especial, el término será de tres días.
+Servicios de protección y custodia
 
-###### ARTÍCULO 155.
+Los agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes y de vigilancia de audiencias judiciales, además de las obligaciones establecidas en la presente Ley, tendrán las siguientes:
 
-PLAZOS COMUNES. Los plazos se reputarán comunes. Por tanto, se empezarán a computar a partir del día que surta efecto la última notificación a las partes. Salvo que por su naturaleza o por disposición de la ley, sea claro que deban correr por separado.
+I. Mantener estrictamente vigilados dichos establecimientos a fin de garantizar la seguridad, el orden y la tranquilidad, de conformidad con las disposiciones aplicables;
 
-### CAPÍTULO V. AUDIENCIAS
+II. Salvaguardar la vida, la integridad, la seguridad y los derechos de los internos, de quienes los visiten y, en general, de los servidores públicos adscritos a los citados centros, haciendo cumplir la normatividad correspondiente;
 
-###### ARTÍCULO 156.
+III. Mantener recluidos y custodiados, con las seguridades debidas, a los internos, de conformidad con las disposiciones legales y reglamentarias aplicables;
 
-AUDIENCIAS PÚBLICAS. Las audiencias judiciales serán públicas, bajo pena de nulidad. Excepto cuando el juzgador estime conveniente hacerlas reservadas, por alguna de las causas siguientes: Por razones graves que así lo ameriten a juicio del juzgador; por existir motivos razonables de afectar seriamente al ofendido, víctima o testigo en sus sentimientos, seguridad personal o intimidad; por alterarse el orden en el público; o en los demás casos que fije la ley.
+IV. Mantener el orden, la disciplina y el adecuado comportamiento de los internos, con absoluto respeto de sus derechos;
 
-Durante la audiencia no se permitirán fotografías, ni grabaciones de video o similares; salvo cuando se dispongan por el propio juzgador para constancia de aquélla.
+V. Custodiar el orden y la seguridad en el interior y el perímetro exterior de los centros de reinserción social e internamiento, evitando cualquier incidente o contingencia que comprometa o ponga en riesgo la seguridad e integridad física de los internos, de sus visitas y en general de cualquier persona que se encuentre en aquéllos;
 
-###### ARTÍCULO 157.
+VI. Efectuar revisiones periódicas en los mencionados centros, con el objeto de prevenir la comisión de hechos delictuosos;
 
-INTERVENCIÓN DE LAS PARTES Y DEL DEFENSOR. En las audiencias el inculpado se podrá defender por sí mismo o por su defensor. Mas la defensa a favor de sí mismo, no excluirá la intervención del defensor.
+VII. Cumplir, en el ámbito de su responsabilidad, las resoluciones dictadas por las autoridades jurisdiccionales y administrativas competentes;
 
-Si el acusado tuviere varios defensores, sólo se oirá a uno cada vez que corresponda hablar a la defensa. Lo mismo se hará cuando intervengan varios agentes del Ministerio Público. Cuando a éste se conceda intervención, se le concederá enseguida al ofendido; víctima; o su abogado; si así lo piden.
+VIII. Revisar a las personas, los objetos y vehículos que ingresen o salgan de los referidos centros, respetando los derechos de aquéllas;
 
-No se dará intervención a ninguna persona ajena a las anteriores y a las demás con las que se entienda la audiencia. Salvo cuando el juzgador lo estime necesario.
+IX. Excarcelar y trasladar a los internos, de conformidad con las órdenes que al efecto se dicten por las autoridades competentes;
 
-###### ARTÍCULO 158.
+X. Custodiar a los internos o imputados y mantener el orden y la seguridad en el desarrollo de las audiencias u otros actos procesales; y
 
-ASISTENCIA FORZOSA DE LAS PARTES. Las audiencias principal, adicional y final se llevarán a cabo con la necesaria concurrencia de las partes. Mas cuando el Ministerio Público falte sin motivo justificado a cualquiera de las dos primeras, se declararán desiertas las pruebas que se le admitieron si estuviere a su cargo preguntar a quienes debieren producirlas. En tales casos, la audiencia podrá llevarse a cabo. Si el defensor falta sin motivo justificado, se designará al de oficio; mas si la presencia del defensor fuere indispensable para formular interrogatorios que aquél debió preparar, se declarará desierto el medio de prueba, a menos que el inculpado o el de oficio solicite se reciba con posterioridad.
+XI. Las demás que sean necesarias y análogas a las anteriores.
 
-###### ARTÍCULO 159.
+###### Artículo 63.
 
-AUSENCIA DEL DEFENSOR. Si el defensor falta a la audiencia o se ausenta de ella sin autorización expresa del inculpado, se le impondrá multa y se requerirá a aquél si está presente, para que nombre otro defensor. Si no lo hace o está ausente, se le designará uno de oficio.
+Obligación de identificarse en servicio
 
-Si el faltista fuere defensor de oficio, se comunicará la falta a su superior inmediato.
+Los policías tienen la obligación de identificarse durante la prestación del servicio, salvo los casos previstos por la Ley, a fin de que el ciudadano se cerciore de que efectivamente pertenecen a una corporación policial.
 
-###### ARTÍCULO 160.
+El documento de identificación deberá contener, al menos: nombre, cargo, fotografía, huella digital y Clave Única de Identificación Personal ante el Registro Nacional de Personal, así como las medidas de seguridad que garanticen su autenticidad.
 
-COMUNICACIÓN DURANTE LAS AUDIENCIAS. Durante el desahogo de las audiencias el inculpado se podrá comunicar con sus defensores y éstos entre sí; pero no con el público. Los agentes del Ministerio Público se podrán comunicar entre sí; pero tampoco podrán hacerlo con el público. Se procederá de igual forma, cuando el ofendido, víctimas o sus abogados pidan y se les conceda intervención. En cuyo caso, éstos sí se podrán comunicar con el Ministerio Público.
+## TÍTULO PRIMERO. CUERPOS POLICIALES
 
-El juzgador podrá dispensar las prohibiciones anteriores, cuando lo pida cualquiera de las partes. Siempre y cuando el juzgador y quien pida la dispensa lo estimen indispensable.
+### CAPÍTULO II. ATRIBUCIONES DEL GOBERNADOR Y DEL SECRETARIO DE SEGURIDAD PÚBLICA
 
-###### ARTÍCULO 161.
+###### Artículo 64.
 
-INFRACCIÓN A LAS REGLAS DE COMUNICACIÓN DURANTE LAS AUDIENCIAS. Si cualquiera de las personas mencionadas infringe lo que se previene en el artículo anterior, se le prevendrá y si persiste se le impondrá corrección disciplinaria.
+Derechos de los policías
 
-Si alguna persona del público sin autorización del juzgador, se comunica o intenta comunicarse con los que intervienen en la audiencia, se le prevendrá que no lo haga y de que si persiste se le podrá imponer multa o arresto como corrección disciplinaria. Si persiste se le impondrá una corrección disciplinaria si se estima pertinente y, en todo caso, se le ordenará que se retire de la audiencia.
+Los policías tendrán los derechos siguientes:
 
-Antes de que concluya la audiencia, el funcionario que la presida preguntará al inculpado si quiere hacer uso de la palabra. En caso afirmativo, se le concederá aquella.
+I. Participar en los cursos de capacitación, actualización, profesionalización y especialización correspondientes, así como en aquellos que se acuerden con otras instituciones académicas nacionales y del extranjero que tengan relación con sus funciones, conforme a la disponibilidad presupuestal y las necesidades del servicio;
 
-###### ARTÍCULO 162.
+II. Sugerir las medidas que estimen pertinentes para el mejoramiento del Servicio de Carrera Policial del que formen parte;
 
-ALTERACIÓN DEL ORDEN POR EL INCULPADO. Si el inculpado altera el orden o injuria a cualquier persona, se le apercibirá que si insiste en su actitud se entenderá que renuncia a su derecho a estar presente y de que se expone a una sanción disciplinaria. Si no obstante continúa, se le mandará retirar del local, a excepción de las diligencias cuya presencia sea indispensable y proseguirá la audiencia con su defensor. Además, el juzgador le podrá aplicar la corrección disciplinaria que estime pertinente.
+III. Recibir la percepción económica que les corresponda, en los términos establecidos en el tabulador aplicable;
 
-###### ARTÍCULO 163.
+IV. Gozar del esquema de prestaciones y servicios en materia de seguridad social, conforme a las disposiciones legales y reglamentarias aplicables;
 
-ALTERACIÓN DEL ORDEN POR EL DEFENSOR. Si es el defensor quien altera el orden, se le apercibirá. Si continúa en la misma actitud, se le expulsará del local. Además, se le podrá imponer una corrección disciplinaria.
+V. Recibir asesoría y, en su caso, defensa jurídica en forma gratuita en asuntos civiles o penales y siempre que los hechos sean resultado del cumplimiento de sus deberes legales y la demanda o denuncia sea promovida por particulares;
 
-Para evitar que el inculpado carezca de defensor, se procederá conforme a lo que este código previene.
+VI. Ser recluidos en áreas especiales, en los casos en que sean sujetos a prisión preventiva;
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+VII. Acceder al sistema de estímulos o reconocimientos cuando su conducta y su desempeño así lo ameriten, de acuerdo con las normas aplicables y la disponibilidad presupuestal;
 
-###### ARTÍCULO 164.
+VIII. Usar los uniformes, condecoraciones e insignias propias de su categoría o jerarquía y que le hayan sido entregados y otorgadas, respectivamente;
 
-FALTAS DEL AGENTE DEL MINISTERIO PÚBLICO. Cuando el agente del Ministerio Público comenta alguna falta durante la audiencia, se le impondrá multa; en caso de que reincida, se dará a conocer el hecho al Fiscal General del Estado para que envíe otro agente a sustituirlo.
+IX. Ser promovidos de categoría y rango, en los términos del Servicio de Carrera Policial;
 
-###### ARTÍCULO 165.
+X. Participar en los concursos de ascenso a que se convoque;
 
-CONDUCTA DEL PÚBLICO. Todos los que asistan a la audiencia, con inclusión del público, deberán observar orden; guardar silencio y abstenerse de intervenir en ella sin que lo autorice el juzgador. Al transgresor se le apercibirá; si reincide se le expulsará del local y se le prevendrá de que si se resiste o regresa a la audiencia, se le aplicará corrección disciplinaria. Si se resiste a salir o vuelve al lugar mientras se celebra la audiencia, se le impondrá multa o arresto, a elección del juzgador, como corrección disciplinaria.
+XI. Gozar de un trato digno y decoroso por parte de sus superiores jerárquicos;
 
-###### ARTÍCULO 166.
+XII. Recibir el equipo de trabajo sin costo alguno;
 
-USO DE LA FUERZA PÚBLICA. Si el orden no se restablece por los medios que señalan los artículos anteriores, el juzgador podrá disponer que la fuerza pública desaloje al infractor. Si fuere necesario, también podrá disponer que desaloje a las personas del público que se encuentren en el local donde se celebra la audiencia. Ésta continuará a puerta cerrada.
+XIII. Recibir atención médica oportuna e idónea;
 
-###### ARTÍCULO 167.
+XIV. Disfrutar de los beneficios que establezcan las disposiciones aplicables, una vez terminado el Servicio de Carrera Policial;
 
-MANDO DE LA FUERZA PÚBLICA. El funcionario que presida la audiencia tendrá el mando de la fuerza pública; si se ausenta del lugar, se encargará de ella quien lo sustituya; y, a falta de ambos; estará a cargo del jefe de la escolta que condujo a los inculpados.
+XV. Gozar de permisos y licencias en los términos de la presente Ley; y
 
-### CAPÍTULO VI. RESOLUCIONES JUDICIALES
+XVI. Los demás que establezcan otras disposiciones aplicables.
 
-###### ARTÍCULO 168.
+###### Artículo 65.
 
-CLASIFICACIÓN. Las resoluciones judiciales son decretos si se refieren a simples determinaciones de trámite; sentencias si terminan la instancia resolviendo el asunto en lo principal; y autos en cualquier otro caso.
+Servicio de Carrera Policial
 
-###### ARTÍCULO 169.
+El Servicio de Carrera Policial es el conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí, que comprende los esquemas de, ingreso, percepción, permanencia, reconocimiento y separación o baja. Tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los integrantes; promover y elevar su profesionalización mediante los estudios que realicen; fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez, certeza, imparcialidad y respeto a los derechos fundamentales reconocidos en la Constitución Federal, en la Constitución Local y en los Tratados Internacionales de los que México forme parte.
 
-FORMA DE LAS RESOLUCIONES. Toda resolución judicial constará por escrito y expresará el lugar y fecha en que se dicte; se firmará por la autoridad que la pronuncia y por el secretario respectivo o testigo de asistencia. Si la resolución se da en una audiencia, actuación o diligencia, será suficiente el acta que se levante.
+###### Artículo 66.
 
-###### ARTÍCULO 170.
+Fines
 
-CONTENIDO DE LOS AUTOS. Los autos contendrán una breve exposición del punto que traten o motivo que los origina; su motivación y fundamentos legales; y la resolución que proceda.
+Los fines del Servicio de Carrera Policial son:
 
-###### ARTÍCULO 171.
+I. Garantizar el desarrollo institucional y asegurar la estabilidad en el cargo o la comisión, con base en un esquema de percepción, que comprende una estructura salarial por rangos del Servicio de Carrera Policial, tomando en cuenta la descripción del puesto, la valuación de la actividad desempeñada y la competitividad salarial existente en la población asignada para la realización de labores similares a la que se trate;
 
-CONTENIDO DE AUTOS QUE RESUELVEN SOBRE LA SITUACIÓN JURÍDICA, SOBRESEIMIENTO Y SENTENCIA. Los autos que resuelvan la petición de orden de aprehensión o de comparecencia; situación jurídica; sobreseimiento; y las sentencias; además de los requisitos comunes de las resoluciones judiciales, contendrán:
+II. Promover la responsabilidad, la honradez, la diligencia, la eficiencia y la eficacia en el desempeño de las funciones y la óptima utilización de los recursos;
 
-I. ÓRGANO JURISDICCIONAL QUE DICTA. Designación del órgano jurisdiccional que la pronuncia.
+III. Fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento;
 
-II. NOMBRE DEL INCULPADO. Nombre y apellidos del inculpado; su apodo si lo tuviere; lugar de nacimiento; edad; estado civil; domicilio y ocupación o profesión.
+IV. Instrumentar e impulsar la capacitación y la profesionalización permanente de los policías, para asegurar la lealtad institucional en la prestación de los servicios; y
 
-III. SÍNTESIS DE LOS HECHOS DETERMINADOS QUE SEAN MATERIA DE LA ACUSACIÓN. Una síntesis de los hechos determinados que sean materia de la acusación conforme se especificaron, según corresponda, en el pedimento que inició la acción penal; auto de formal prisión o de sujeción a proceso; conclusiones; o bien de los motivos que se invoquen para sobreseer.
+V. Los demás que establezcan las disposiciones legales aplicables.
 
-IV. DECLARACIÓN DE LA PRUEBA O INSUFICIENCIA DE ELLA. La declaración de prueba o insuficiencia de ella respecto a los hechos o motivos que se invoquen, según los medios de prueba y demás constancias que obren en la causa; evitando su reproducción innecesaria; motivando y fundando legalmente las consideraciones respectivas; y, si existen o no existen datos bastantes que hagan probable o demuestren la responsabilidad del inculpado.
+###### Artículo 67.
 
-V. RESOLUTIVOS PRINCIPALES. La declaración que proceda y si es sentencia: 1) La condena o absolución que corresponda. 2) La determinación sobre la reparación del daño. 3) La aplicación de las sanciones conducentes.
+Rubros que integran el Servicio de Carrera Policial
 
-VI. OTROS RESOLUTIVOS. Los demás resolutivos conducentes.
+El Servicio de Carrera Policial se integra por los siguientes rubros:
 
-Las sentencias que se dicten en las audiencias finales sólo se referirán a los resolutivos de la fracción V incisos 1) y 2); los que se harán constar en el acta; sin perjuicio de luego reproducirlos en forma, junto con los demás requisitos, en la glosa escrita de la sentencia.
+I. Selección e ingreso, que comprende los requisitos y procedimientos de selección, de formación y de certificación inicial;
 
-###### ARTÍCULO 172.
+II. Percepción económica, que comprende una estructura salarial por rangos del Servicio de Carrera Policial, elaborada con base en la descripción del puesto, la valuación de la actividad desempeñada y la competitividad salarial existente en la población asignada para la realización de labores similares a la de (sic) que se trate;
 
-DECLARACIÓN RESPECTO A DOCUMENTOS FALSOS. Cuando en un proceso se acredite la falsedad de un documento público o privado, aquélla se declarará en la parte resolutoria de la sentencia. Además, se ordenará la cancelación total o parcial del documento; según las circunstancias.
+III. Permanencia, que comprende los requisitos y procedimientos de formación continua y especializada, de actualización, de evaluación del desempeño, y de ascensos y promociones;
 
-###### ARTÍCULO 173.
+IV. Reconocimiento, que comprende el método por el cual se mide, tanto en forma individual como colectiva y en atención a las habilidades, capacidades y adecuación al puesto, los aspectos cualitativos y cuantitativos del cumplimiento de las funciones y metas asignadas a los servidores públicos;
 
-PLAZOS PARA PRONUNCIAR RESOLUCIONES. Los decretos se dictarán al día siguiente de cuando se presentó la promoción. Los autos en un plazo de tres días; salvo lo que la ley disponga para casos especiales. Las sentencias dentro de los quince días siguientes a la audiencia final; pero si el expediente excede de doscientas fojas, se aumentará un día por cada cincuenta de exceso.
+V. Los estímulos al desempeño destacado, que consisten en la cantidad neta de numerario, que se entregará al servidor público de manera extraordinaria con motivo de la productividad, eficacia y eficiencia; y
 
-###### ARTÍCULO 174.
+VI. Separación o baja, que comprende las causas ordinarias y extraordinarias de separación del servicio, así como los procedimientos y recursos de inconformidad a los que haya lugar, ajustándose a lo establecido por las leyes y disposiciones aplicables.
 
-LIBERTAD DEL INCULPADO. Se pondrá inmediatamente en libertad al inculpado, cuando el tiempo de la detención y la prisión preventiva sea igual al máximo que fije la ley al delito por el cual se siga el proceso; sin que esto sea obstáculo para continuarlo hasta que se dicte resolución definitiva. Siempre se dará aviso previo mediante notificación personal al Ministerio Público.
+Las percepciones extraordinarias por estímulos al desempeño destacado en ningún caso se considerarán un ingreso fijo, regular o permanente, ni formarán parte de los sueldos u honorarios que los servidores públicos perciban en forma ordinaria. El reglamento determinará el otorgamiento de dichas percepciones, de acuerdo con el nivel de cumplimiento de las metas comprometidas.
 
-###### ARTÍCULO 175.
+###### Artículo 68.
 
-QUÉ RESOLUCIONES NO SE PUEDEN MODIFICAR. Los juzgadores no podrán modificar sus resoluciones después de la primera notificación; salvo cuando se trate del recurso de revocación; aclaración de la sentencia; nulidad; o en los demás casos que prevea este código.
+Bases de organización
 
-### CAPÍTULO VII. NULIDADES
+El Servicio de Carrera Policial se organizará de conformidad con las bases siguientes:
 
-###### ARTÍCULO 176.
+I. Tendrá carácter obligatorio y permanente; incluirá los programas, cursos, planes de estudio, evaluaciones, exámenes y concursos correspondientes a las diversas etapas que comprende, en su caso;
 
-INOBSERVANCIA DE LOS REQUISITOS QUE PRESCRIBE LA LEY. La inobservancia de los requisitos que se prescriben para los actos procesales sólo es causa de nulidad en los casos que determine la ley.
+II. Se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Federal. Tendrá como objetivos la preparación, la competencia, la capacidad y la superación constante del personal en el desempeño del servicio;
 
-Sin embargo, se podrá pronunciar la nulidad relativa de las actuaciones a las que les falte alguno de los requisitos esenciales o que dejen sin defensa al inculpado.
+III. Fomentará que los miembros del Servicio de Carrera Policial logren la profesionalización y ejerzan sus atribuciones con base en los principios y objetivos referidos en la fracción anterior; y promoverá el efectivo aprendizaje y pleno desarrollo de los conocimientos, habilidades, destrezas y aptitudes necesarios para el desempeño del servicio público, de conformidad con el Programa Rector;
 
-###### ARTÍCULO 177.
+IV. Determinará los perfiles y niveles jerárquicos, así como los rangos de percepción;
 
-PREVENCIÓN DE NULIDADES. Cuando los juzgadores adviertan que se incurrió en nulidad, procederán de inmediato a remediarla; corrigiendo o renovando el acto, si con ello no se infringe lo que dispone este código.
+V. Contará con procedimientos disciplinarios sustentados en principios de justicia y con pleno respeto a los derechos humanos;
 
-###### ARTÍCULO 178.
+VI. Promoverá el desarrollo, el ascenso y el otorgamiento de estímulos y reconocimientos con base en el mérito y la eficiencia en el desempeño de las funciones;
 
-NULIDADES DE PLENO DERECHO. Son nulos de pleno derecho:
+VII. Fomentará el sentido de pertenencia institucional; y
 
-I. FALTA DE ACCIÓN PENAL. Todos los actos procesales que realicen el juzgador, las partes y el defensor, si el Ministerio Público no ejercita la acción penal.
+VIII. Establecerá las normas para el registro y el reconocimiento del Certificado en el Registro Estatal de Personal y en el Registro Nacional de Personal, así como las relativas al registro de las incidencias del personal en su Hoja de Servicio.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+###### Artículo 69.
 
-II. INCOMPETENCIA DE ORIGEN. Las sentencias que se dicten por el juzgador que le falten los requisitos personales que la ley señala para ser juez o magistrado. En el caso anterior la nulidad sólo procederá si lo pide el inculpado y/o su defensor en los términos a que se refiere el Artículo 182 de este código. La nulidad se limitará a reponer el acto procesal para que sea renovado por autoridad legítima, quedando por consecuencia la autoridad ilegítima separada de su cargo, sin perjuicio de la responsabilidad administrativa o penal que proceda.
+Componentes del Servicio de Carrera Policial
 
-III. FALTA DE COMPETENCIA. Los actos procesales que se realicen sin competencia.
+El Servicio de Carrera Policial comprende los rangos, las categorías, la antigüedad, las condecoraciones, las compensaciones, los reconocimientos, los procesos de promoción, así como el registro de los correctivos disciplinarios y sanciones que, en su caso, correspondan a cada uno de sus integrantes.
 
-IV. ACTO SIN AUTORIZACIÓN. Cualquier acto procesal que se efectúe por funcionarios distintos a quienes corresponda hacerlo.
+El Servicio de Carrera Policial se regirá por las normas siguientes:
 
-V. FALTA DE FIRMA. Todos los actos procesales que se realicen sin que conste la firma de los que intervinieron o la razón de porqué no firmaron; o la de quienes competa autorizar la actuación.
+I. Antes de autorizar el ingreso de un aspirante, las corporaciones policiales deberán consultar sus antecedentes, en el Sistema de Información Estatal de Seguridad Pública, en los registros municipales y en el Sistema Nacional de Información;
 
-VI. AUDIENCIA FINAL SIN PLAZO PARA LOS ALEGATOS O LAS CONCLUSIONES DE LA DEFENSA. La audiencia final que se celebre sin antes conceder plazo al Ministerio Público; inculpado o su defensor para formular sus alegatos o conclusiones; según proceda.
+II. Todo aspirante deberá obtener y mantener actualizado el Certificado;
 
-###### ARTÍCULO 179.
+III. Sólo ingresarán y permanecerán en las corporaciones policiales, los aspirantes y policías que hayan cursado y aprobado los programas de ingreso, formación, capacitación y profesionalización de las Academias de Policía;
 
-CUANDO SE PUEDE HACER VALER LA NULIDAD DE PLENO DERECHO. El juzgador, las partes y el defensor pueden hacer valer la nulidad de pleno derecho en cualquier estado y grado del proceso.
+IV. La permanencia de los policías estará condicionada al cumplimiento de los requisitos que determinen esta Ley y las demás disposiciones legales aplicables;
 
-###### ARTÍCULO 180.
+V. Para incrementar el salario, se considerarán, además de los aumentos que correspondan a las revisiones generales de los salarios, la evaluación de los méritos en el desempeño, que se cumplan a cabalidad los requisitos de permanencia, la antigüedad y los resultados obtenidos en los programas de capacitación y profesionalización;
 
-RESOLUCIÓN EN CASO DE NULIDAD DE PLENO DERECHO. Deducida o advertida la nulidad de pleno derecho, el juzgador dictará la resolución que proceda conforme a las normas de este código; a fin de que el proceso se inicie; reponga en lo que corresponda y/o continúe de manera regular.
+VI. Para incrementar la categoría de los policías se deberán considerar las circunstancias enunciadas en la fracción inmediata anterior, así como sus aptitudes de mando y liderazgo; y
 
-De no ser procedente el reinicio por falta de acción penal, ordenará la libertad del inculpado y pondrá las constancias de la averiguación previa a disposición del Ministerio Público; o las acumulará a otro proceso o agregará a uno nuevo; según el caso. Las actuaciones judiciales las mandará archivar una vez que quede firme la resolución de nulidad.
+VII. Los policías podrán ser cambiados de adscripción, con base en las necesidades del servicio.
 
-###### ARTÍCULO 181.
+###### Artículo 70.
 
-NULIDAD POR INCOMPETENCIA EN MATERIA PENAL. La inobservancia de las normas sobre la competencia en materia penal, produce la nulidad de pleno derecho de los actos procesales; pero cuando se trate de incompetencia por territorio, sólo procederá si el juez le declara de oficio o si la promueve el inculpado o su defensor.
+Independencia e inamovilidad
 
-###### ARTÍCULO 182.
+El Servicio de Carrera Policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección. Al término de los efectos de los nombramientos para tales cargos, los policías podrán reincorporarse al Servicio de Carrera Policial, debiendo respetarse su categoría, siempre que no exista impedimento legal para ello.
 
-DECLARACIÓN DE NULIDAD DE PLENO DERECHO. La declaración judicial para excluir la eficacia de los actos procesales por nulidad de pleno derecho, podrá hacerse valer de oficio o a petición de parte; en cualquier estado y grado del proceso.
+###### Artículo 71.
 
-La convalidación de los actos procesales sólo puede verificarse mediante la cosa juzgada, que precluye todo derecho y facultad para denunciar la nulidad de pleno derecho.
+Régimen laboral
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El régimen laboral de los miembros de las instituciones policiales, tanto en la Policía Estatal como en los cuerpos de Policía Municipal, cualquiera que sea la función que desempeñen, se regulará conforme al artículo 123, apartado B, fracción XIII, segundo párrafo, de la Constitución Federal, la presente Ley y los reglamentos que de ésta deriven.
 
-###### ARTÍCULO 183.
+Todos los servidores públicos de las Instituciones de Seguridad Pública que no pertenezcan al Servicio de Carrera Policial, se considerarán trabajadores de confianza. Los efectos de su nombramiento se podrán dar por terminados en cualquier momento, de conformidad con las disposiciones aplicables y en caso que no acrediten las evaluaciones de control de confianza, cuando por disposición expresa estén obligados a someterse a ellas.
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+###### Artículo 72.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Remoción e indemnización
 
-###### ARTÍCULO 184.
+Los miembros de las instituciones policiales podrán ser separados o removidos de su cargo si no cumplen con los requisitos que establece esta Ley para ingresar o permanecer en las mismas; o ser removidos por incumplimiento de sus obligaciones y deberes, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa intentado para combatir la separación, la remoción o cualquier otra forma de terminación del servicio. Lo anterior, conforme al artículo 123, apartado B, fracción XIII, segundo párrafo, de la Constitución Federal.
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+En caso de que los órganos jurisdiccionales competentes resuelvan que la separación o la remoción es injustificada el Estado o el municipio respectivo sólo estará obligado a pagar al servidor público la indemnización y las prestaciones que le correspondan al momento de la terminación del servicio.
 
-###### ARTÍCULO 185.
+En todo caso, la indemnización consistirá en tres meses de sueldo base. Las demás prestaciones comprenderán el sueldo base, así como los beneficios, recompensas, estipendios, asignaciones, gratificaciones, premios, retribuciones, subvenciones, haberes, dietas, compensaciones o cualquier otro concepto que percibía el interesado por la prestación de sus servicios, las cuales se computarán desde la fecha de su separación, baja, cese o remoción, hasta por un período máximo de doce meses.
 
-NULIDAD RELATIVA. Estarán viciados de nulidad relativa:
+El Reglamento del Servicio Profesional de Carrera establecerá el procedimiento para la separación o baja.
 
-I. ACTOS DESPUÉS DE EXCUSA. Los actos procesales que lleve a cabo el juzgador, después de que se excuse o se le recuse, si la excusa o la recusación se declaran procedentes.
+Al concluir el servicio por cualquier causa, servidor público de que se trate deberá entregar al personal designado para tal efecto, la información, la documentación, las identificaciones, los valores, las armas, los vehículos y los demás bienes y recursos que hayan sido puestos bajo su responsabilidad o custodia.
 
-II. FALTA DEL INCULPADO O SU DEFENSOR EN CIERTAS ACTUACIONES. Las diligencias que tengan por objeto la declaración de testigos o peritos, la inspección y la reconstrucción de hechos: Cuando se desatiendan las condiciones para su admisión o recepción y si el inculpado o su defensor no concurren a causa de la irregularidad.
+###### Artículo 73.
 
-III. AUDIENCIAS SIN PUBLICIDAD. Las audiencias y diligencias que se efectúen sin publicidad y sin motivo legal para realizarlas en reserva.
+Suspensión temporal
 
-###### ARTÍCULO 186.
+El auto de formal prisión o de vinculación a proceso dictado a un miembro de cualquier institución policial, ocasionará su suspensión temporal, sin el pago de la remuneración diaria ordinaria, hasta que se resuelva en definitiva el proceso penal correspondiente.
 
-INCIDENTE PARA DECLARAR LA NULIDAD RELATIVA. Las partes y el defensor podrán solicitar la declaración de nulidad de una actuación desde la fecha de la actuación; hasta los tres días siguientes de cuando se notifique en forma legal la resolución subsecuente.
+El procesado deberá informar, por sí o a través de su defensor, su situación jurídica, para lo cual deberá presentar al superior jerárquico copia certificada de la resolución respectiva, así como de las actuaciones ministeriales o judiciales necesarias, sin perjuicio de que aquél obtenga la información que requiera y lo haga del conocimiento del Órgano de Asuntos Internos; de la unidad administrativa encargada de los recursos humanos y de la instancia responsable de dar el aviso correspondiente al Registro Nacional de Personal y al Registro Estatal de Personal.
 
-El juzgador resolverá dentro del plazo de tres días, si a su juicio no se requiere tramitación. De lo contrario, de inmediato dará vista a las partes por el término de tres días. Al concluir éste, resolverá lo que proceda en un plazo igual.
+###### Artículo 74.
 
-###### ARTÍCULO 187.
+Consejo de Desarrollo Policial
 
-EFECTOS DE LA DECLARACIÓN DE NULIDAD. El juzgador que declare la nulidad de un acto, absoluta o relativa; determinará en su resolución los demás que son nulos por la imposibilidad de practicarlos legalmente sin la previa existencia y validez del primero.
+El Consejo de Desarrollo Policial es la instancia colegiada encargada de opinar sobre criterios y lineamientos en relación con los procedimientos del Servicio de Carrera Policial, la profesionalización y el régimen disciplinario; así como para el debido funcionamiento de las Comisiones del Servicio Profesional de Carrera Policial y de las Comisiones de Honor y Justicia, tanto de la Policía Estatal como de las policías municipales.
 
-En la misma resolución ordenará la reposición de los autos, cuando sea necesaria y posible.
+###### Artículo 75.
 
-###### ARTÍCULO 188.
+Integración
 
-QUIEN NO PUEDE PEDIR LA NULIDAD RELATIVA. No podrá pedir declaración de nulidad relativa, quien dio lugar a ella.
+El Consejo de Desarrollo Policial se integrará de la siguiente manera:
 
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO No. 511, MODIFICAN DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL PRESENTE TÍTULO, DANDO COMO RESULTADO UN TEXTO DIFERENTE, QUEDANDO INTACTOS DIVERSOS ARTÍCULOS; MOTIVO POR EL CUAL SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2008.</small>
+I. Un Presidente, que será el Secretario Ejecutivo del Sistema Estatal;
 
-## TÍTULO SEXTO. ACTOS PREPARATORIOS DE LA ACCIÓN PENAL
+II. Un Secretario Técnico, designado por el Presidente, quien sólo tendrá voz;
 
-### CAPÍTULO I. CONCEPTO DE AVERIGUACIÓN PREVIA
+III. El Comisionado de la Policía Estatal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. El Director de la Academia de Policía del Estado;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+V. El Director General de Administración de la Secretaría de Seguridad Pública;
 
-###### ARTÍCULO 189.
+VI. Los Directores de Seguridad Pública Municipal u órgano equivalente de los municipios que designe el Consejo Estatal de Seguridad Pública; y
 
-AVERIGUACIÓN PREVIA. La investigación de los hechos posiblemente constitutivos de delito y la averiguación previa se regirán por lo dispuesto en la Ley de Procuración de Justicia del Estado.
+VII. Un representante de las Academias de Policía municipales para la formación, capacitación y profesionalización policial, designado por el Presidente.
 
-Los Jueces y Tribunales atenderán a lo dispuesto por dicha Ley por cuanto a los actos realizados bajo el imperio de la misma.
+Los integrantes del Consejo designarán por escrito a un suplente, quien deberá contar con amplia experiencia y probada capacidad, así como antigüedad, rectitud y responsabilidad en el desempeño de su función.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Ningún integrante del Consejo podrá suplir en sus ausencias a cualquiera de los demás miembros.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+El Consejo sesionará en pleno con la presencia de las dos terceras partes de sus integrantes y los acuerdos se tomarán por mayoría simple de los miembros presentes. En caso de empate, el Presidente tendrá voto de calidad.
 
-###### ARTÍCULO 190.
+Las sesiones del Consejo se celebrarán previa convocatoria del Presidente, por conducto del Secretario Técnico, de conformidad con su Reglamento.
 
-VALIDEZ DE LAS DILIGENCIAS DE LA AVERIGUACIÓN PREVIA. No será necesario que los jueces repitan las diligencias de averiguación previa para que tengan validez; salvo los casos que este código prevé.
+El Consejo de Desarrollo Policial se auxiliará en su funcionamiento del personal necesario que autorice el presupuesto.
 
-Lo anterior no será obstáculo para que durante el proceso: Las partes ofrezcan medios de prueba que controviertan los de la averiguación previa; a efecto de que se les reste validez o eficacia o para que el juzgador lo haga de oficio en las fases que este código autoriza. Igualmente, para que se ofrezcan y valoren los medios de prueba conducentes al esclarecimiento de los hechos.
+###### Artículo 76.
 
-El juzgador podrá repetir cualquier diligencia que se practicó durante la averiguación previa; siempre y cuando su desahogo no sea imposible.
+Atribuciones del Consejo de Desarrollo Policial
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Son atribuciones del Consejo de Desarrollo Policial:
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+I. Establecer las bases para su organización y funcionamiento;
 
-###### ARTÍCULO 191.
+II. Establecer políticas relativas al ingreso, selección, permanencia, estímulos y reconocimiento de los Integrantes de las Instituciones Policiales;
 
-VALORACIÓN DE LAS PRUEBAS PRACTICADAS EN AVERIGUACIÓN PREVIA. Las pruebas y diligencias practicadas en Averiguación Previa se valorarán conforme a lo dispuesto en este Código; pero para apreciar su legal constitución, validez y requisitos se atenderá a lo dispuesto por la Ley de Procuración de Justicia.
+III. Opinar sobre los lineamientos para los procedimientos del Servicio de Carrera Policial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. Opinar respecto de los programas y planes de estudio y profesionalización para los Integrantes de las corporaciones policiales de la entidad y los municipios que le formulen las Academias de Policía, a partir del Programa Nacional de Profesionalización;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+V. Recomendar el desarrollo de programas de investigación académica en materia policial;
 
-###### ARTÍCULO 192.
+VI. Emitir recomendaciones sobre los lineamientos para los procedimientos aplicables al régimen disciplinario de las corporaciones policiales;
 
-FALTA DE CONDICIÓN DE PROCEDIBILIDAD: O CUESTIÓN PREJUDICIAL ESPECÍFICA; CON RELACIÓN A LAS DILIGENCIAS DE AVERIGUACIÓN PREVIA. La falta de condición de procedibilidad; o de la existencia de cuestión prejudicial específica; no produce la invalidez de las diligencias de averiguación previa que se llegaren a practicar; sean o no sean relativas a las que se reciban medios de prueba.
+VII. Emitir recomendaciones de carácter general en materia de desarrollo policial para la debida instrumentación del Servicio de Carrera Policial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII. Emitir opinión respecto de los procedimientos de ingreso, selección, permanencia, estímulos y reconocimientos de los policías;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+IX. Emitir recomendaciones a las Comisiones, para asegurar el estricto cumplimiento a los requisitos que deberán observar los Integrantes que participen en los procesos de promoción;
 
-###### ARTÍCULO 193.
+X. Vigilar el funcionamiento de las Comisiones, haciéndoles saber las omisiones o deficiencias que advierta a fin de que sean corregidas;
 
-PERDÓN DEL OFENDIDO EN DELITOS SÓLO PERSEGUIBLES POR QUERELLA. El ofendido podrá formular perdón si el delito que se cometió en su contra sólo se persigue por querella. Lo podrá formular durante la averiguación previa o en cualquier estado y grado del proceso; hasta antes de sentencia firme.
+XI. Establecer criterios respecto de los procedimientos a que habrán de sujetarse las corporaciones policiales para la reubicación o cambios de adscripción de sus Integrantes;
 
-En los casos de daño patrimonial sobre cosa que pertenezca a varias personas, o se posea o utilice por varias personas con título legal; así como en los casos en los que la ley faculta a terceros a formular querella, el perdón se deberá formular por quienes se querellaron. Lo mismo se observará para los representantes legales del menor de dieciocho años de edad; pero el de dieciséis años de edad o más, podrá formular perdón aunque no haya formulado la querella.
+XII. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia; y
 
-Si el perdón se somete a condiciones ajenas a las que prevea la ley, no producirá efecto. No se admitirá perdón del representante legal que a la vez sea inculpado.
+XIII. Las demás que le señalen otras disposiciones legales y reglamentarias.
 
-El perdón se podrá formular por apoderado con poder especial otorgado en escritura pública; o en carta poder ratificada ante notario público. El Ministerio Público o juzgador verificarán la identidad del apoderado legal y la autenticidad del poder.
+###### Artículo 77.
 
-El perdón que se otorgue conforme a este artículo y al código penal, extinguirá la acción penal.
+Selección
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La selección es el proceso que consiste en elegir, de entre los aspirantes que hayan sido reclutados, a quienes cubran el perfil y la formación requeridos para ingresar a las corporaciones policiales.
 
-###### ARTÍCULO 194.
+Dicho proceso comprende el periodo de los cursos de formación o capacitación y concluye con la resolución que determine cuáles son los candidatos aceptados.
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+###### Artículo 78.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Ingreso
 
-###### ARTÍCULO 195.
+El ingreso es el proceso de integración de los candidatos a la estructura institucional y tendrá verificativo al concluir su formación o capacitación inicial y el correspondiente periodo de prácticas, previo cumplimiento de los requisitos previstos en esta Ley y demás disposiciones aplicables.
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+###### Artículo 79.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Requisitos de ingreso
 
-###### ARTÍCULO 196.
+El ingreso al Servicio de Carrera Policial se hará por convocatoria pública abierta, debiendo los aspirantes cumplir los requisitos siguientes:
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II. Acreditar que se ha concluido, al menos, los estudios siguientes:
 
-###### ARTÍCULO 197.
+a. En el caso de policía de proximidad y de custodia, educación media superior o equivalente, y
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+b. En el caso de atención a víctimas y áreas de investigación, enseñanza superior o equivalente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+III. Aprobar el proceso de evaluación inicial de control de confianza;
 
-###### ARTÍCULO 198.
+IV. Aprobar el curso de ingreso, formación inicial o básica, así como el concurso que establezcan las disposiciones aplicables y, en su caso, la convocatoria respectiva;
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+V. No estar sujeto o vinculado a proceso penal por delito doloso;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables;
 
-###### ARTÍCULO 199.
+VII. No haber sido condenado por sentencia irrevocable como responsable de delito doloso;
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+VIII. No consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IX. Someterse a las evaluaciones de aptitud y exámenes médicos o toxicológicos que establezca la normatividad aplicable;
 
-###### ARTÍCULO 200.
+X. Cumplir con los estudios de formación inicial, a fin de que adquieran y desarrollen los conocimientos, habilidades y aptitudes necesarias para el desempeño de sus funciones y responsabilidades; y
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+XI. Los demás requisitos que establezcan otras disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+En caso de que el candidato no apruebe la etapa de formación inicial, no continuará con el proceso para el ingreso.
 
-###### ARTÍCULO 201.
+Previo al ingreso de los candidatos a los cursos de formación inicial, deberán consultarse sus antecedentes en el Registro Nacional de Personal y en el Registro Estatal de Personal, así como verificarse la autenticidad de los documentos e información presentados.
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+###### Artículo 80.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Informes
 
-###### ARTÍCULO 202.
+Las Academias de Policía proporcionarán a las Comisiones que correspondan, la relación de aspirantes que hayan concluido satisfactoriamente su formación básica, en el orden de prelación que resulte del promedio general de calificación académica y actualizarán la información en el Registro Estatal de Personal con los nuevos policías, sin perjuicio de lo dispuesto por la Ley General.
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+###### Artículo 81.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Declaración de ingreso
 
-###### ARTÍCULO 203.
+La Comisión del Servicio Profesional de Carrera Policial respectiva, con base en la información proporcionada por las Academias de Policía, declarará procedente el ingreso de los aspirantes que hayan aprobado el proceso relativo en términos de esta Ley; asimismo, publicará el listado respectivo y lo comunicará a la corporación policial correspondiente a efecto de que, conforme a las posibilidades presupuestales de ésta, proceda a su contratación.
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+La corporación policial de que se trate expedirá los nombramientos o constancias de grado correspondientes, formalizándose con ello la relación administrativa de sus nuevos integrantes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 82.
 
-###### ARTÍCULO 204.
+Reingreso
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+Los Integrantes que se separen de una corporación policial podrán reingresar cumpliendo los requisitos de ingreso previstos en esta Ley y demás disposiciones aplicables, siempre que no se encuentren en alguno de los supuestos siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. Haber sido removido, separado o destituido de la Institución correspondiente;
 
-###### ARTÍCULO 205.
+II. Haberse separado voluntariamente de la institución de seguridad pública sin haber obtenido dispensa previa por la respectiva Comisión del Servicio Profesional de Carrera Policial;
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+III. Estar sujeto a proceso penal; a procedimiento por incumplimiento a los requisitos de permanencia o por violación a sus obligaciones y deberes o a procedimiento de responsabilidad administrativa conforme a las leyes de la materia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. Exceder el límite de edad a que se refiere el presente ordenamiento, según sea el caso; o
 
-###### ARTÍCULO 206.
+V. Haber renunciado encontrándose sujeto a Procedimiento ante la Comisión respectiva por incumplimiento a los requisitos de permanencia o infracción al régimen disciplinario, o bien, haber renunciado después de dictada la resolución en dicho Procedimiento declarando procedente la separación o remoción.
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+###### Artículo 83.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Resolución
 
-###### ARTÍCULO 207.
+La corporación policial analizará la solicitud a fin de determinar si el interesado reúne los requisitos previstos y, en caso afirmativo, someterá a la consideración de la Comisión del Servicio Profesional de Carrera Policial, respectiva, la solicitud de reingreso junto con el expediente relativo. La misma Comisión resolverá sobre las solicitudes de reingreso. La resolución de la Comisión no admitirá recurso alguno.
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+###### Artículo 84.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Remuneración ordinaria
 
-###### ARTÍCULO 208.
+Las corporaciones policiales cubrirán a los policías una contraprestación económica por los servicios prestados, la que se integrará por la remuneración ordinaria y, en su caso, la compensación que determinen las autoridades competentes, conforme a la disponibilidad presupuestal.
 
-(DEROGADO, P.O. 16 DE MAYO DE 2008)
+###### Artículo 85.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Contraprestación
+
+La contraprestación que se asigne en los tabuladores para cada puesto, constituirá el total que deba cubrirse al policía, sin perjuicio de otras prestaciones ya establecidas o que se establezcan.
+
+###### Artículo 86.
+
+Derechos a la seguridad social
+
+Los policías gozarán de las prestaciones y beneficios de la seguridad social que establezcan las leyes respectivas.
+
+###### Artículo 87.
+
+Complemento de la seguridad social
+
+El régimen complementario de seguridad social de los Integrantes comprenderá, considerando las posibilidades y disponibilidad presupuestal del Gobierno del Estado y de los municipios, cuando menos las siguientes prestaciones:
+
+I. Seguro de vida;
+
+II. Pago de gastos de defunción de los Integrantes fallecidos en el ejercicio o con motivo de sus funciones;
+
+III. Créditos hipotecarios y de corto plazo; y
+
+IV. Becas educativas para los propios Integrantes.
+
+### CAPÍTULO III. AUTORIDADES MUNICIPALES
+
+###### Artículo 88.
+
+Concepto
+
+La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en esta Ley y demás disposiciones legales y reglamentarias aplicables, para continuar en el servicio activo en las corporaciones policiales.
+
+###### Artículo 89.
+
+Requisitos de permanencia
+
+Son requisitos de permanencia:
+
+I. Conservar los requisitos de ingreso durante el servicio;
+
+II. Ser de notoria buena conducta y no haber sido condenado por sentencia irrevocable por delito doloso;
+
+III. Mantener actualizado el Certificado y registro correspondientes;
+
+IV. Cumplir con los programas de formación continua y especializada, así como de actualización y profesionalización que establecen la presente Ley y demás disposiciones aplicables;
+
+V. Aprobar los procesos de evaluación de control de confianza;
+
+VI. Someterse periódicamente a las evaluaciones de aptitud y exámenes médicos o toxicológicos que establezca la normatividad aplicable;
+
+VII. Cumplir con los requisitos de la promoción en las diferentes categorías de la carrera;
+
+VIII. Participar en los procesos de ascenso que se convoquen, conforme a las disposiciones aplicables;
+
+IX. No haber sido suspendido, destituido o inhabilitado como servidor público, por resolución firme;
+
+X. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos, o de cinco días discontinuos, dentro de un plazo de treinta días naturales;
+
+XI. No superar la edad máxima de retiro establecida en la presente Ley; y
+
+XII. Los demás que establezcan otras disposiciones legales aplicables.
+
+###### Artículo 90.
+
+Separación del servicio
+
+El incumplimiento de alguno de los requisitos señalados en el artículo anterior, dará lugar al inicio del procedimiento de separación del servicio del Integrante ante la respectiva Comisión del Servicio de Carrera Policial, salvo el caso de superar la edad, el que se tramitará administrativamente de manera interna por la Institución respectiva.
+
+###### Artículo 91.
+
+Evaluación del desempeño
+
+La evaluación del desempeño es el proceso mediante el cual se mide periódicamente la contribución individual y colectiva de los policías para el logro de las metas y objetivos de las corporaciones a las que pertenezcan, de acuerdo con las disposiciones de esta Ley y los reglamentos respectivos.
+
+Las Comisiones, así como el superior jerárquico, aplicarán la evaluación del desempeño, con la periodicidad y conforme a los procedimientos, criterios, indicadores de desempeño y demás elementos que establezca el Reglamento respectivo, así como la normatividad correspondiente.
+
+### CAPÍTULO IV. ATRIBUCIONES DE LAS AUTORIDADES MUNICIPALES
+
+###### Artículo 92.
+
+Clasificación de antigüedad y su cómputo
+
+La antigüedad se clasificará y computará de la siguiente forma:
+
+I. Antigüedad en el servicio, a partir de la fecha de ingreso; y
+
+II. Antigüedad en la categoría y el rango, a partir de la fecha señalada en el nombramiento o la constancia correspondiente.
+
+La antigüedad contará hasta el momento en que la misma deba determinarse para los efectos del Servicio de Carrera Policial, en los casos y conforme a las disposiciones de esta Ley.
+
+La antigüedad se interrumpirá en los casos y términos que prevén esta Ley y las demás disposiciones aplicables.
+
+###### Artículo 93.
+
+Definiciones
+
+La promoción es el proceso que permite a los policías subir de categoría en el Servicio de Carrera Policial.
+
+El ascenso es el proceso que, por medio de concurso o de las disposiciones legales aplicables, permite a los policías subir de jerarquía dentro de las corporaciones.
+
+En el Reglamento del Servicio de Carrera Policial se establecerán los términos y condiciones a que se sujetarán las promociones y los ascensos.
+
+###### Artículo 94.
+
+Ascensos
+
+Para ascender de jerarquía, es decir, subir de puesto dentro de la estructura orgánica, el policía deberá cubrir los requisitos correspondientes de la convocatoria; hecho esto, le será conferida la nueva jerarquía mediante la expedición del nombramiento o la constancia correspondiente. Los ascensos sólo podrán otorgarse cuando exista una vacante.
+
+Para participar en los ascensos del Servicio de Carrera Policial, los policías deberán:
+
+I. Estar en servicio activo y no encontrarse comisionados o con licencia;
+
+II. Cumplir los requisitos de antigüedad en la categoría y rango en el servicio;
+
+III. Haber observado buena conducta;
+
+IV. Cumplir con el perfil y requisitos del puesto a ocupar;
+
+V. Haber aprobado los cursos de formación, capacitación o profesionalización;
+
+VI. Haber obtenido evaluación satisfactoria del desempeño; y
+
+VII. Cumplir los demás requisitos que de manera específica establecen la presente Ley y la normatividad aplicable.
+
+Para el ascenso deberán considerarse, por lo menos, la categoría en el Servicio de Carrera Policial, los resultados obtenidos en los programas de profesionalización, conocimientos, experiencia, antigüedad y méritos demostrados en el servicio, así como las aptitudes de mando y liderazgo.
+
+###### Artículo 95.
+
+Etapas
+
+La profesionalización es el proceso permanente y progresivo de formación para desarrollar al máximo las competencias, capacidades y habilidades de los policías y consta de las siguientes etapas: inicial, actualización, promoción, especialización y alta dirección.
+
+###### Artículo 96.
+
+Programas de Profesionalización
+
+Los programas de profesionalización de las policías se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza y aprendizaje; se elaborarán por las Academias de Policía, de conformidad con el Programa Rector formulado por la Conferencia Nacional de Secretarios de Seguridad Pública; serán aprobados por el Consejo de Desarrollo Policial, y sometidos a la verificación y la validación del Secretariado Ejecutivo del Sistema Nacional.
+
+###### Artículo 97.
+
+Obligatoriedad
+
+La profesionalización será el elemento fundamental para el otorgamiento de los ascensos y condición obligatoria para todos los policías, con la finalidad de que cuenten con los conocimientos, aptitudes y destrezas para desempeñar sus funciones con calidad y eficiencia, acorde a las funciones que realicen.
+
+###### Artículo 98.
+
+Reconocimientos
+
+El Régimen de Reconocimientos y Estímulos es el mecanismo por el cual las corporaciones policiales otorgan incentivos públicos a sus integrantes por actos de servicio meritorios o por su trayectoria ejemplar, con la finalidad de promover la lealtad, el valor, el mérito y la honradez, así como fomentar la calidad y la efectividad en el desempeño del servicio, incrementar sus posibilidades de promoción y ascenso, y fortalecer su identidad institucional.
+
+El régimen de que se trata comprende los distintivos, recompensas, condecoraciones, menciones honoríficas y citaciones, por medio de los cuales se reconoce y promueve la actuación heroica, valiente, ejemplar y sobresaliente, así como los demás actos meritorios de los policías.
+
+###### Artículo 99.
+
+Estímulos
+
+Los estímulos se otorgarán a los policías conforme a la recomendación que emita la Comisión respectiva, sujetándose a los principios de justicia, equidad y proporcionalidad, teniendo en cuenta la disponibilidad presupuestal, en la inteligencia de que por una misma acción no se podrá otorgar más de un estímulo, ni sumarse para otorgar otro.
+
+Todo reconocimiento será acompañado de una constancia para acreditar que se ha otorgado, la cual deberá ser agregada al expediente del policía; en su caso, se emitirá la autorización de portación de la condecoración o el distintivo correspondiente.
+
+###### Artículo 100.
+
+Criterios para el otorgamiento
+
+La Comisión del Servicio Profesional de Carrera de la institución respectiva establecerá, conforme al Reglamento, los criterios y pautas para el otorgamiento de reconocimientos y estímulos a los policías.
+
+###### Artículo 101.
+
+Conclusión
+
+La separación definitiva del Servicio de Carrera Policial de sus integrantes, tiene como efecto inmediato la cancelación del nombramiento respectivo y la cesación de sus efectos legales por las siguientes causas:
+
+I. Incumplimiento de cualquiera de los requisitos de ingreso y permanencia;
+
+II. Cuando en los procesos de promoción concurra alguna de las siguientes circunstancias:
+
+a. Que por causas imputables al policía, en un plazo de tres años no hubiese obtenido la categoría inmediata superior que le corresponda, salvo que ya cuente con la máxima dentro de su jerarquía;
+
+b. Que del expediente del policía no se desprendan méritos suficientes para conservar su permanencia; y
+
+c. Que haya alcanzado la edad máxima correspondiente a su jerarquía, en los siguientes términos:
+
+i. Escala Básica, 55 años;
+
+ii. Suboficial, 56 años;
+
+iii. Oficial, 57 años;
+
+iv. Subinspector, 58 años;
+
+v. Inspector, 60 años;
+
+vi. Inspector Jefe, 62 años; y
+
+vii. Comisario, 65 años.
+
+Los policías que hayan alcanzado la edad límite para su permanencia podrán ser reubicados en las áreas en que así se requiera, de acuerdo con sus aptitudes, a consideración de las instancias correspondientes y conforme a las necesidades del servicio;
+
+III. Por haber sido removido, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus obligaciones y deberes, de conformidad con las disposiciones relativas al régimen disciplinario; y
+
+IV. Haber causado baja por renuncia, jubilación, retiro anticipado, incapacidad permanente o muerte.
+
+###### Artículo 102.
+
+Componentes
+
+El régimen disciplinario comprende las obligaciones y los deberes, las correcciones disciplinarias, las sanciones y el procedimiento para su aplicación.
+
+La actuación de los policías se regirá por los principios y valores previstos en el artículo 21 de la Constitución Federal y en esta Ley.
+
+###### Artículo 103.
+
+Disciplina
+
+La disciplina comprende el aprecio por sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, y el escrupuloso respeto a las leyes, los reglamentos y los derechos humanos.
+
+La disciplina es la base del funcionamiento y la organización de las corporaciones policiales, por lo que sus integrantes deberán observar las leyes, jerarquías y categorías, así como obedecer las órdenes legítimas que se les den y salvaguardar los altos conceptos del honor, la justicia y la ética.
+
+La disciplina demanda respeto mutuo entre quien ostente autoridad o mando y sus subordinados.
+
+###### Artículo 104.
+
+Cumplimiento del deber
+
+Las corporaciones policiales exigirán de sus integrantes el más estricto cumplimiento del deber, a efecto de salvaguardar la integridad y los derechos de las personas, prevenir la comisión de delitos y lograr los objetivos y fines de la seguridad pública.
+
+###### Artículo 105.
+
+Inicio del procedimiento disciplinario
+
+El incumplimiento por parte de los policías a las obligaciones y deberes que les establecen esta Ley y las demás disposiciones aplicables, dará lugar al inicio del procedimiento del régimen disciplinario ante la correspondiente Comisión de Honor y Justicia.
+
+###### Artículo 106.
+
+Tipo de sanciones
+
+Las sanciones que se apliquen por el incumplimiento de los deberes previstos en esta Ley, así como por infracciones al régimen disciplinario, serán:
+
+I. Amonestación;
+
+II. Suspensión hasta por treinta días; y
+
+III. Remoción.
+
+Las sanciones se impondrán sin perjuicio de la obligación del pago de la reparación del daño a cargo del infractor, en los casos en que legalmente proceda.
+
+La aplicación de sanciones deberá registrarse en el expediente personal del policía infractor, así como en su Hoja de Servicio.
+
+###### Artículo 107.
+
+Individualización de las sanciones
+
+La aplicación de las sanciones se hará tomando en cuenta las circunstancias agravantes y atenuantes que concurran en la comisión de la infracción.
+
+### CAPÍTULO I. GENERALIDADES
+
+###### Artículo 108.
+
+Agravantes
+
+Son circunstancias agravantes:
+
+I. Incurrir simultáneamente en dos o más infracciones;
+
+II. La reincidencia;
+
+III. El cometer la falta en forma colectiva. Se considerará colectiva la falta concertada por dos o más policías;
+
+IV. Afectar la imagen institucional con la conducta realizada;
+
+V. Ejecutar la transgresión con dolo y en presencia de subalternos;
+
+VI. Existir en su ejecución abuso de autoridad jerárquica o de funciones;
+
+VII. La mayor o menor jerarquía del presunto infractor; y
+
+VIII. La gravedad de las consecuencias que haya producido la transgresión.
+
+###### Artículo 109.
+
+Atenuantes
+
+Son circunstancias atenuantes:
+
+I. La buena conducta del policía infractor con anterioridad al hecho;
+
+II. Los méritos acreditados;
+
+III. La inexperiencia del presunto infractor por ser de reciente ingreso;
+
+IV. Haberse originado la falta por un exceso de celo en bien del servicio; y
+
+V. Incurrir en falta o infracción por la influencia probada de un superior.
+
+###### Artículo 110.
+
+Amonestación
+
+Por virtud de la amonestación se hará notar al policía infractor la acción o la omisión indebida en que incurrió en el desempeño de sus funciones, se le exhortará a que enmiende su conducta y se le apercibirá de que, si no hace esto último, se hará acreedor a una sanción mayor.
+
+La amonestación se ejecutará en privado por conducto del superior jerárquico.
+
+###### Artículo 111.
+
+Suspensión
+
+La suspensión es la interrupción temporal de la relación administrativa existente entre el policía infractor y la corporación policial.
+
+La suspensión a que se refiere el presente artículo es distinta a la suspensión temporal que como medida cautelar se dicte eventualmente dentro de un procedimiento.
+
+Durante el tiempo que dure la suspensión a que se refiere esta disposición, el policía infractor no deberá prestar sus servicios y, en consecuencia, la corporación policial tampoco le cubrirá sus percepciones.
+
+###### Artículo 112.
+
+Conclusión de la suspensión
+
+Concluida la suspensión, el policía deberá presentarse en su área o unidad de adscripción, debiendo informar por escrito al superior jerárquico su reincorporación al servicio.
+
+###### Artículo 113.
+
+Remoción
+
+La remoción es la terminación de la relación administrativa entre la institución o corporación policial y el policía infractor, sin responsabilidad para aquélla, derivado del procedimiento disciplinario a que se refiere este Capítulo.
+
+### CAPÍTULO II. DISPOSICIONES COMUNES A LOS INTEGRANTES DE LOS CUERPOS POLICIALES
+
+###### Artículo 114.
+
+Independencia de las sanciones
+
+La imposición de las sanciones se hará con independencia de las que puedan corresponder al infractor por responsabilidad civil, penal o administrativa, de conformidad con la legislación aplicable.
+
+###### Artículo 115.
+
+Devolución de bienes y recursos
+
+Si el policía infractor es suspendido o removido deberá entregar su identificación, así como la documentación, el armamento, las municiones y el equipo, valores, vehículos y los demás bienes y recursos que se le hubieren ministrado o puesto bajo su resguardo para el cumplimiento de sus funciones.
+
+###### Artículo 116.
+
+Efectos de la resolución
+
+Las Comisiones remitirán copia certificada de sus resoluciones al Centro Estatal y demás instancias que se estime pertinentes, para que procedan a su ejecución.
+
+###### Artículo 117.
+
+Procedencia y tipos
+
+Se impondrá arresto a los policías por actos u omisiones que constituyan faltas menores en el cumplimiento de la disciplina, y podrá ser:
+
+I. Sin perjuicio del servicio, que consiste en realizar sus actividades normales, ya sea dentro o fuera de las instalaciones, durante el lapso que se establezca al efecto; en el entendido de que si termina aquéllas y éste no ha fenecido, se concentrará en su unidad para concluirlo; o
+
+II. Con perjuicio del servicio, en cuyo caso el policía desempeñará sus actividades exclusivamente dentro de las instalaciones y no se le asignará servicio alguno.
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### Artículo 118.
+
+Duración
+
+El arresto durará:
+
+I. Para las categorías de Comisario e Inspectores, hasta doce horas;
+
+II. Para la categoría de Oficiales, hasta veinticuatro horas; y
+
+III. Para la categoría de Escala Básica, hasta treinta y seis horas.
+
+###### Artículo 119.
+
+Imposición
+
+El arresto se impondrá por escrito y será graduado por el superior jerárquico del infractor. Excepcionalmente se notificará verbalmente, en cuyo caso se ratificará por escrito dentro de las veinticuatro horas siguientes, anotando el motivo y la hora de la orden correspondiente; asimismo, deberá ejecutarse inmediatamente.
+
+## TÍTULO SEGUNDO. SERVICIO PROFESIONAL DE CARRERA POLICIAL
+
+### CAPÍTULO II. SELECCIÓN E INGRESO AL SERVICIO DE CARRERA POLICIAL
+
+###### Artículo 120.
+
+Inconformidad
+
+El policía que haya sido arrestado podrá inconformarse ante el superior de quien le haya impuesto la corrección disciplinaria; lo anterior, mediante escrito simple, sin mayor formalidad, y dentro de las veinticuatro horas siguientes a su cumplimiento.
+
+La inconformidad se resolverá sin mayor trámite, dentro de los tres días hábiles siguientes a su interposición, mediante resolución irrecurrible en la que se expondrán los motivos y fundamentos del caso. Si esta determinación es favorable, el antecedente del arresto no se integrará al expediente del policía.
+
+### CAPÍTULO III. PERCEPCIÓN ECONÓMICA
+
+###### Artículo 121.
+
+Objeto
+
+Se establecen las Comisiones del Servicio Profesional de Carrera Policial y las Comisiones de Honor y Justicia, como las instancias colegiadas, encargadas de conocer y resolver, ya sea en el ámbito estatal o municipal, sobre las reglas y procesos para el ingreso, percepción, permanencia, reconocimientos y separación o baja del Servicio de Carrera Policial y de los procedimientos por incumplimiento a los requisitos de ingreso y permanencia, así como los asuntos y controversias relacionados con el Servicio de Carrera Policial; y por violación a las obligaciones y deberes relativos al régimen disciplinario, en los términos de esta Ley.
+
+###### Artículo 122.
+
+Integración de la Comisión Estatal del Servicio Profesional de Carrera Policial
+
+La Comisión Estatal del Servicio Profesional de Carrera Policial para los integrantes de las corporaciones policiales de la entidad, se compondrá por:
+
+I. Un Presidente, que será el Secretario de Seguridad Pública, con voz y voto;
+
+II. Un Secretario Técnico, que será el Comisionado de la Policía Estatal, sólo con voz;
+
+III. Un Vocal, que será un representante del área jurídica de la Secretaría de Seguridad Pública con voz y voto;
+
+IV. Un Vocal, que será un representante del área administrativa de la Secretaría de Seguridad Pública, con voz y voto; y
+
+V. Vocales que serán los representantes de cada una de las divisiones policiacas de la entidad, quienes tendrán voz y voto sólo en los asuntos relacionados con su competencia.
+
+Los vocales serán designados por el titular de la unidad administrativa u operativa a la que pertenezcan, y deberán ser de probada experiencia, reconocida solvencia moral o destacados en su función.
+
+###### Artículo 123.
+
+Integración de las Comisiones Municipales del Servicio Profesional de Carrera Policial,
+
+Las Comisiones Municipales del Servicio Profesional de Carrera Policial para los integrantes de las corporaciones policiales municipales, se compondrán de la siguiente manera:
+
+I. Un Presidente, que será el Director de Seguridad Pública Municipal o del órgano equivalente, con voz y voto;
+
+II. Un Secretario Técnico, designado por el Presidente, sólo con voz;
+
+III. Un Vocal, que será el Director de Administración o la autoridad equivalente, con voz y voto;
+
+IV. Un Vocal, que será el representante del Órgano de Asuntos Internos, sólo con voz;
+
+V. Un Vocal de Mandos, que será un Oficial, con voz y voto;
+
+VI. Un Vocal, que será un elemento de la Policía Preventiva, con voz y voto; y
+
+VII. Un Vocal, que será un elemento de Vialidad y Tránsito, con voz y voto.
+
+En aquellos municipios que no tengan a su cargo la función de vialidad y tránsito, el Presidente de la Comisión tendrá voto de calidad, en caso de empate.
+
+Los vocales serán designados por el titular de la unidad administrativa u operativa a la que pertenezcan, y deberán ser de probada experiencia, reconocida solvencia moral o destacados en su función.
+
+###### Artículo 124.
+
+Atribuciones de las Comisiones del Servicio Profesional de Carrera Policial.
+
+Son atribuciones de las Comisiones Estatal y Municipales del Servicio Profesional de Carrera Policial:
+
+I. Aplicar y observar las disposiciones relativas al Servicio de Carrera Policial, así como expedir los lineamientos respecto de procesos de reclutamiento, selección, ingreso, permanencia, evaluación del desempeño y programas de profesionalización;
+
+II. Conocer sobre el otorgamiento de promociones, ascensos, reconocimientos y estímulos tomando en cuenta las sanciones aplicadas, méritos y demás antecedentes;
+
+III. Analizar y sugerir las modificaciones necesarias a los procedimientos de formación, capacitación, adiestramiento, desarrollo, actualización y profesionalización de los policías;
+
+IV. Conocer y resolver los procedimientos de separación, derivados de la aplicación de las reglas del Servicio de Carrera Policial;
+
+V. Conocer y resolver las controversias del Servicio de Carrera Policial y las que atañan a la profesionalización, iniciadas por los policías, en las que reclamen:
+
+a. Violación a sus derechos por no haber sido evaluado objetivamente su desempeño;
+
+b. No haber sido convocados a cursos de capacitación, adiestramiento, actualización, especialización o cualesquier otros de profesionalización;
+
+c. No permitirles participar o continuar en algún proceso de promoción o ascenso; o
+
+d. La determinación de su antigüedad.
+
+VI. Las demás que establezcan otras disposiciones legales y reglamentarias, así como las que sean acordadas por la propia Comisión.
+
+###### Artículo 125.
+
+Integración de las Comisiones Estatal y Municipales de Honor y Justicia
+
+La Comisión Estatal de Honor y Justicia se integrará de la siguiente manera:
+
+I. Un Presidente, que será el Comisionado;
+
+II. Un Secretario Técnico, quien será nombrado por el Presidente; y
+
+III. Un vocal representando cada área operativa de la policía estatal.
+
+Las comisiones Municipales de Honor y Justicia se integrarán de la siguiente manera:
+
+I. Un Presidente, que será el Titular de la respectiva Dirección de Seguridad Pública Municipal;
+
+II. Un Secretario Técnico, quien será nombrado por el Presidente; y
+
+III. Un vocal representando cada área operativa de la policía municipal.
+
+###### Artículo 126.
+
+Atribuciones de las Comisiones de Honor y Justicia
+
+Las Comisiones de Honor y Justicia tendrán las atribuciones siguientes:
+
+I. Conocer y resolver sobre las faltas graves que no constituyan un delito, en que incurran los Integrantes, a los deberes y obligaciones establecidos en esta Ley, la Ley General, así como a los principios de actuación previstos en las mismas, y a las disposiciones en la materia;
+
+II. Resolver sobre la suspensión temporal y la separación y remoción de los Integrantes, derivadas de procedimientos disciplinarios; y
+
+III. Conocer y resolver los recursos.
+
+En caso de tener conocimiento de la comisión de un delito, la Comisión respectiva deberá dar conocimiento a la autoridad competente.
+
+###### Artículo 127.
+
+Disposiciones comunes
+
+Los integrantes de las Comisiones serán de carácter permanente.
+
+El único integrante que tendrá suplente será el Presidente de la Comisión respectiva.
+
+Las Comisiones sesionarán en pleno, con la presencia de la mitad más uno de sus integrantes, previa convocatoria del Presidente, por conducto del Secretario Técnico.
+
+Para la realización de sus atribuciones, las Comisiones se auxiliarán del personal necesario que autorice el presupuesto de egresos correspondiente.
+
+El Reglamento respectivo determinará las bases para la operación y el funcionamiento de las Comisiones, así como las atribuciones de sus integrantes.
+
+###### Artículo 128.
+
+Inicio
+
+El procedimiento para la aplicación de sanciones disciplinarias por incumplimiento a los requisitos de ingreso y permanencia y demás supuestos a que se refiere esta Ley, así como el procedimiento disciplinario por violación o incumplimiento de las obligaciones y los deberes de los policías será preponderantemente oral y deberá realizarse ante la Comisión del Servicio Profesional de Carrera Policial, o la Comisión de Honor y Justicia, respectiva, con estricto apego a las disposiciones de esta ley y a las formalidades esenciales.
+
+Iniciará por solicitud fundada y motivada del Órgano de Asuntos Internos, o la unidad acusatoria correspondiente, ante el Presidente de la Comisión respectiva, en la que expresará la causa que motiva el procedimiento, que a su parecer se ha actualizado, así como los hechos que eventualmente la sustenten y expondrá el contenido de las actuaciones que se hubieren realizado, así como los demás elementos probatorios en que se apoye.
+
+###### Artículo 129.
+
+Medida cautelar
+
+El Órgano de Asuntos Internos, o unidad acusatoria, de la institución de seguridad pública que corresponda, podrá determinar inmediatamente como medida cautelar la suspensión del policía en el servicio, el cargo o la comisión, sin el pago de la remuneración diaria ordinaria, si así resulta conveniente para no afectar el servicio, a la corporación policial o a la realización de la investigación correspondiente, en su caso; e informará de ello al Presidente de la Comisión del Servicio Profesional de Carrera Policial, o de la de Honor y Justicia, respectiva, en la solicitud de inicio de procedimiento.
+
+La medida cautelar será notificada al policía y al titular de la corporación; por otra parte, no prejuzga sobre la responsabilidad de aquél.
+
+De no dictarse la medida, el Órgano de Asuntos Internos solicitará al superior jerárquico que determine y notifique al policía el lugar donde quedará a disposición y las funciones que realizará, en tanto se resuelve el procedimiento.
+
+En los casos de vinculación a proceso penal, o resolución equivalente, deberá estarse a lo dispuesto por esta Ley.
+
+El titular de la institución de Seguridad Pública podrá determinar dicha medida cautelar, en caso de posible violación o incumplimiento a las obligaciones y los deberes por parte del policía, cuando tenga conocimiento de ello por informe del superior jerárquico correspondiente o mediante queja o denuncia de particular, y remitirá sin demora al Órgano de Asuntos Internos las actuaciones y demás constancias relativas a los hechos, así como a la medida cautelar; todo lo cual deberá ser notificado al policía.
+
+La medida cautelar a que se refiere el presente artículo en ningún caso podrá exceder de treinta días hábiles contados a partir del momento en que le sea notificada al policía, transcurridos los cuales sin que se haya presentado la solicitud de inicio del procedimiento, aquél se reincorporará plenamente al servicio, cargo o comisión, sin perjuicio de que el Órgano de Asuntos Internos prosiga la investigación.
+
+Con excepción de la suspensión por causa de vinculación a proceso penal o resolución equivalente, si el policía suspendido por una medida cautelar no resultare responsable de la conducta imputada, será restituido en el goce de sus derechos y se le cubrirán las percepciones que hubiese dejado de percibir durante el tiempo de la suspensión.
+
+###### Artículo 130.
+
+Análisis de procedencia de la solicitud
+
+Dentro de los cinco días hábiles siguientes a que se reciba la solicitud, el Presidente de la Comisión del Servicio Profesional de Carrera Policial, o de la Comisión de Honor y Justicia, respectivamente, determinará si existen elementos para iniciar el procedimiento; en caso contrario, devolverá el expediente al Órgano de Asuntos Internos o unidad acusatoria y le adjuntará la resolución de no procedencia correspondiente.
+
+###### Artículo 131.
+
+Recurso de reclamación
+
+El Órgano de Asuntos Internos o unidad acusatoria, dentro de los cinco días hábiles siguientes a que haya sido notificado del acuerdo de no procedencia, podrá impugnarlo ante el pleno de la comisión respectiva mediante el recurso de reclamación, en el que hará valer los argumentos de procedencia y las pruebas en que se apoye. La Comisión del Servicio Profesional de Carrera Policial, o la de Honor y Justicia, según corresponda, resolverá dentro de los diez días naturales siguientes, mediante determinación que no será recurrible.
+
+###### Artículo 132.
+
+Acuerdo de inicio
+
+Resuelto el inicio del procedimiento, el Presidente de la correspondiente Comisión mediante acuerdo convocará a los miembros de la instancia y citará al promovente y al presunto infractor a una audiencia haciéndole saber la infracción que se le imputa, el lugar, el día y la hora en que se llevará a cabo dicha audiencia y su derecho a ofrecer pruebas y formular alegatos, por sí o asistido de un defensor. En el acto de la citación entregará al presunto infractor copia de la solicitud y anexos presentados por el promovente.
+
+De igual manera lo apercibirá de que si no comparece a la audiencia señalada se tendrán por presuntivamente ciertos los hechos que se le imputan, así como de que con posterioridad no se le recibirán probanzas, salvo las que tuvieren el carácter de supervenientes.
+
+Se hará saber al presunto infractor que en el acto de su comparecencia deberá señalar domicilio para oír y recibir notificaciones dentro del lugar de residencia de la Comisión que conozca del asunto, apercibiéndolo que en caso de no hacerlo las subsecuentes notificaciones se realizarán mediante aviso fijado en estrados, los que se colocarán en un lugar visible al público dentro de las oficinas de la propia Comisión
+
+En su caso, el Presidente de la Comisión confirmará o revocará la medida cautelar, o bien la impondrá.
+
+La audiencia se celebrará dentro de un plazo no menor de cinco ni mayor de veinte días naturales posteriores a la recepción del expediente por el Presidente de la Comisión.
+
+###### Artículo 133.
+
+Notificaciones
+
+La notificación o cita al policía a que se refiere el artículo anterior será personal y se realizará en el domicilio oficial de su adscripción, en el último que hubiere reportado o en el lugar en que se encuentre físicamente, indistintamente; en caso de desconocerse los mismos, se le notificará mediante edictos que se publicarán por dos veces consecutivas de siete en siete días en el Periódico Oficial del Estado y en uno de los periódicos diarios de mayor circulación en la entidad.
+
+Para el caso de la notificación mediante edictos, se le hará saber que las copias del traslado a que se refiere el artículo anterior, quedarán a su disposición en el local de la Comisión respectiva,
+
+Las notificaciones al Órgano de Asuntos Internos o Unidad Acusatoria se harán mediante oficio.
+
+El Presidente de la Comisión designará al personal que llevará a cabo las notificaciones personales al Integrante o a su defensor.
+
+###### Artículo 134.
+
+Audiencia.
+
+El día y hora señalados para la comparecencia del presunto infractor, el Presidente de la Comisión declarará formalmente abierta la audiencia y enseguida, el Secretario Técnico de la comisión competente tomará los generales de aquél y de su defensor, a quien protestará en el cargo y apercibirá al primero para conducirse con verdad. Acto seguido, a solicitud del presunto infractor o de su defensa procederá a dar lectura a los hechos imputados.
+
+Así mismo, dicho Secretario Técnico concederá el uso de la palabra al presunto infractor y a su defensor, quienes expondrán en forma concreta y específica lo que a su derecho convenga, debiéndose referir a todos y cada uno de los hechos contenidos en la solicitud del Órgano de Asuntos Internos o Unidad Acusatoria, afirmándolos, negándolos, expresando los que ignoren por no ser propios, o refiriéndolos como consideren que tuvieron lugar.
+
+Los integrantes de la Comisión podrán formular preguntas al presunto infractor, solicitar informes u otros elementos de prueba, por conducto del Secretario Técnico de la misma, con la finalidad de allegarse los datos necesarios para el conocimiento del asunto.
+
+El Órgano de Asuntos Internos o unidad acusatoria comparecerá por conducto de los servidores públicos facultados conforme a la Ley, a su reglamento interior o, en su defecto, por medio de delegados.
+
+### CAPÍTULO IV. PERMANENCIA
+
+###### Artículo 135.
+
+Pruebas
+
+Las pruebas que sean presentadas por las partes, serán debidamente analizadas y ponderadas, resolviendo cuáles se admiten y cuáles son desechadas dentro de la misma audiencia.
+
+Son admisibles como medio de prueba:
+
+I. Los documentos públicos;
+
+II. Los documentos privados;
+
+III. Los testigos;
+
+IV. Las fotografías, escritos y notas taquigráficas y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia.
+
+V. Las presunciones; y
+
+VI. Todas aquellas que sean permitidas por la ley.
+
+No es admisible la confesional a cargo de la autoridad. Las pruebas se admitirán siempre que guarden relación inmediata con los hechos materia de la litis y sólo en cuanto fueren conducentes para el eficaz esclarecimiento de los hechos y se encuentren ofrecidas conforme a derecho. Sólo los hechos están sujetos a prueba.
+
+Si la prueba ofrecida por el presunto infractor fuese la testimonial, quedará a su cargo la presentación de los testigos.
+
+Si el oferente no puede presentar a los testigos, deberá señalar su domicilio y solicitar a la Comisión que los cite. Ésta los citará por una sola ocasión; en caso de incomparecencia declarará desierta la prueba.
+
+Si el Secretario Técnico de la Comisión lo considera necesario, por lo extenso o particular de las pruebas presentadas, cerrará la audiencia, levantando el acta correspondiente, y establecerá un término probatorio de diez días para su desahogo.
+
+###### Artículo 136.
+
+Alegatos
+
+Concluido el desahogo de las pruebas, el Secretario Técnico de la Comisión concederá en forma sucesiva el uso de la voz al promovente y al presunto infractor, quienes podrán alegar en forma escrita o verbal, por una sola vez y en un tiempo no mayor a treinta minutos cada uno.
+
+###### Artículo 137.
+
+Resolución
+
+Una vez desahogadas todas las pruebas y presentados los alegatos, el Presidente de la Comisión cerrará la instrucción.
+
+La Comisión que conozca del asunto deberá emitir la resolución que conforme a derecho corresponda, dentro del término de veinte días hábiles contados a partir del cierre de la instrucción.
+
+La resolución se notificará personalmente a los interesados por conducto del personal que para tal efecto se designe.
+
+La resolución definitiva dictada en sesión por la Comisión del Servicio Profesional de Carrera Policial, o la Comisión de Honor y Justicia, según corresponda, deberá estar debidamente fundada y motivada y contendrá una relación sucinta de los hechos y circunstancias materia del procedimiento, un análisis y valoración de todas y cada una de las pruebas aportadas junto con los razonamientos lógico jurídicos en que se apoyen los resolutivos de la Comisión.
+
+Los acuerdos dictados en el procedimiento serán firmados por el Presidente de la Comisión y por el Secretario Técnico de la misma; la resolución definitiva será firmada por todos los integrantes de la Comisión con voz y voto, y por el Secretario Técnico.
+
+###### Artículo 138.
+
+Consecuencia de la resolución
+
+Si en la resolución dictada por la Comisión del Servicio Profesional de Carrera Policial, o por la de Honor y Justicia, respectiva, no se impusiere al policía la separación o la remoción del servicio, cargo o comisión, será restituido en el mismo, en caso de que hubiere sido suspendido, y se le cubrirán las percepciones que dejó de recibir durante ese tiempo.
+
+###### Artículo 139.
+
+Prescripción
+
+La facultad para solicitar o denunciar ante las Comisiones del Servicio Profesional de Carrera Policial o de Honor y Justicia, respectivas, la imposición de las sanciones por violaciones o incumplimiento a las obligaciones y deberes previstos en esta ley, así como por infracciones al régimen disciplinario, prescribe en el término de tres años. Los términos de la prescripción serán continuos y se contarán desde el día en que se realice la conducta u omisión en que consista la infracción.
+
+La prescripción operará de oficio o a petición del policía. En el primer caso, la Comisión podrá determinarla al resolver respecto del inicio del Procedimiento y, en el segundo caso, la hará valer el policía en la audiencia de ley.
+
+El procedimiento caducará si no se efectúa ningún acto procedimental, ni se presenta promoción alguna dentro de un año contado a partir del día hábil siguiente a la fecha en que se hubiere dictado el último acuerdo.
+
+Cuando se determine la caducidad se procederá al archivo del expediente, sin perjuicio de que se solicite nuevamente por el Órgano de Asuntos Internos el inicio del Procedimiento.
+
+La prescripción y la caducidad procederán de oficio o a solicitud del policía.
+
+###### Artículo 140.
+
+Impugnación
+
+La resolución definitiva dictada por la Comisión podrá ser impugnada ante el Tribunal de lo Contencioso Administrativo del Estado, en los términos de la ley aplicable.
+
+###### Artículo 141.
+
+Cuestiones no previstas
+
+En lo no previsto en el presente capítulo en cuanto a la admisión, desahogo y valoración de las pruebas se aplicará de manera supletoria el Código de Procedimientos Civiles para el Estado de Tabasco.
+
+###### Artículo 142.
+
+Inconformidad
+
+Los policías podrán inconformarse ante la Comisión del Servicio Profesional de Carrera Policial, respectiva, cuando proceda conforme a esta Ley.
+
+El policía deberá plantear la inconformidad por escrito, el cual presentará dentro de los nueve días hábiles posteriores a la fecha en que tuvo conocimiento del hecho presumiblemente violatorio de sus derechos, expresando los agravios que le cause. A dicho escrito deberá acompañar las pruebas en que se apoye, siendo inadmisible la prueba confesional.
+
+Transcurrido dicho plazo sin que se haya planteado la inconformidad, prescribirá el derecho del policía.
+
+###### Artículo 143.
+
+Auto de admisión
+
+La Comisión del Servicio Profesional de Carrera Policial, dentro de los ocho días hábiles siguientes a la interposición de la inconformidad, proveerá sobre su admisión o desechamiento, lo que notificará al policía inconforme; en caso afirmativo procederá, dentro de los treinta días hábiles siguientes, al estudio, investigación o indagación de los antecedentes que la motivaron.
+
+Transcurrido el segundo plazo señalado en el párrafo anterior, el Presidente de la Comisión citará a la autoridad contra la que se haya interpuesto la inconformidad, entregándole copia del escrito inicial y de las constancias integradas con motivo de la investigación realizada; siguiéndose, en lo aplicable, las reglas para la notificación y desahogo de la audiencia previstos en el Capítulo anterior.
+
+En caso de que se determine procedente la inconformidad, en la misma resolución se establecerá la forma y términos para la rectificación de la violación en que se hubiere incurrido.
+
+La resolución que dicte la Comisión del Servicio Profesional de Carrera Policial respectiva, se notificará personalmente al policía, quien podrá impugnarla, en su caso, ante el Tribunal de lo Contencioso Administrativo del Estado, en los términos de la ley aplicable.
+
+###### Artículo 144.
+
+Objeto
+
+El Centro Estatal es la unidad dependiente del Secretariado Ejecutivo del Sistema Estatal, responsable de dirigir, coordinar, operar y calificar el proceso integral de evaluación de los aspirantes e Integrantes de las Instituciones de Seguridad Pública, así como comprobar el cumplimiento de los perfiles físicos, médicos, éticos, socioeconómicos, de personalidad y demás que establezcan las disposiciones legales aplicables emitiendo, en su caso, el Certificado correspondiente.
+
+Asimismo, la autoridad responsable del Centro Estatal podrá celebrar convenios con las instituciones de seguridad pública y empresas de seguridad privada, u otros entes públicos que lo requieran, para hacerse cargo del proceso integral de evaluación y control de confianza de su personal operativo.
+
+###### Artículo 145.
+
+Facultades
+
+El Centro Estatal aplicará las evaluaciones a que se refiere esta Ley, tanto en los procesos de selección de aspirantes como en la evaluación para la permanencia, el desarrollo y la promoción de los policías de las Instituciones de Seguridad Pública. Para tal efecto, tendrá las siguientes facultades:
+
+I. Aplicar los procedimientos de evaluación y control de confianza a los Integrantes de las Instituciones de Seguridad Pública y demás servidores públicos que prevean las disposiciones legales aplicables, conforme a los lineamientos emitidos por el Centro Nacional de Certificación y Acreditación;
+
+II. Proponer los lineamientos para la verificación y control de certificación de los Integrantes y coordinarse con el Centro Nacional de Certificación y Acreditación para su instrumentación;
+
+III. Proponer los lineamientos para la aplicación de los exámenes médicos, toxicológicos, psicológicos, poligráficos, socioeconómicos y demás necesarios que se consideren de conformidad con la normatividad aplicable;
+
+IV. Comprobar el cumplimiento de los perfiles médico, ético y de personalidad;
+
+V. Comprobar los niveles de escolaridad de los Integrantes;
+
+VI. Aplicar el procedimiento de certificación de los Integrantes aprobado por el Centro Nacional de Certificación y Acreditación;
+
+VII. Expedir y actualizar los Certificados de acuerdo a los formatos, condiciones, formalidades y medidas de seguridad autorizados por el Centro Nacional de Certificación y Acreditación;
+
+VIII. Establecer políticas de evaluación de los aspirantes e Integrantes de las Instituciones de Seguridad Pública, de conformidad con las disposiciones aplicables y el principio de confidencialidad;
+
+IX. Informar a los titulares de las Instituciones de Seguridad Pública sobre los resultados de las evaluaciones que practique, a efecto de que cada uno de ellos determine sobre el inicio del Procedimiento ante la Comisión respectiva;
+
+X. Proporcionar al Registro Nacional de Personal, así como al Registro Estatal, los datos del personal evaluado, los resultados de las evaluaciones practicadas y, en su caso, la información del Certificado expedido, de conformidad con las disposiciones y normatividad aplicables;
+
+XI. Solicitar se efectúe el seguimiento individual de los Integrantes evaluados, en los que se identifiquen factores de riesgo que interfieran y repercutan en el desempeño de sus funciones;
+
+XII. Detectar áreas de oportunidad para establecer programas de prevención y atención que permitan solucionar la problemática identificada;
+
+XIII. Proporcionar a las Instituciones de Seguridad Pública, la asesoría y apoyo técnico que requieran sobre información de su competencia;
+
+XIV. Proporcionar a las autoridades competentes la información de los Integrantes, cuando así se requiera en procesos administrativos o judiciales, con las reservas previstas en las leyes aplicables;
+
+XV. Llevar un sistema de registro de la información relativa a los aspirantes o candidatos e Integrantes de las Instituciones de Seguridad Pública que hayan sido evaluados, a fin de garantizar la confidencialidad de dicha información, estableciendo políticas para el manejo y destino final de la misma;
+
+XVI. Elaborar los informes de resultados para la aceptación o rechazo de los aspirantes a ingresar a las Instituciones de Seguridad Pública;
+
+XVII. Fungir como enlace con el Centro Nacional de Certificación y Acreditación, así como con los Centros de la Federación y de las demás entidades federativas, en materia de evaluación y control de confianza; y
+
+XVIII. Las demás que establezcan la Ley General, la presente Ley y la normatividad aplicable.
+
+###### Artículo 146.
+
+Evaluación
+
+El Centro Estatal aplicará los procedimientos de evaluación y control de confianza, tanto en los procesos de selección de aspirantes, como en la evaluación para la permanencia, el desarrollo y la promoción de los Integrantes de las Instituciones de Seguridad Pública, con apego a los criterios expedidos por el Centro Nacional de Certificación y Acreditación.
+
+Los Integrantes deberán someterse a los procesos de evaluación para la permanencia, a fin de obtener la revalidación y registro del Certificado correspondiente, de conformidad con lo previsto en la presente Ley, sin perjuicio de lo dispuesto en la Ley General.
+
+###### Artículo 147.
+
+Objetivos de la evaluación
+
+Las evaluaciones que aplique el Centro Estatal tendrán como objetivos:
+
+I. Seleccionar a los aspirantes o candidatos para nuevo ingreso que se consideren idóneos para integrarse a las Instituciones de Seguridad Pública, conforme a los perfiles de puesto aprobados por las instancias competentes; y
+
+II. Asegurar el cumplimiento constante de los requisitos de permanencia establecidos en la Ley General, la presente Ley y demás disposiciones aplicables.
+
+###### Artículo 148.
+
+Certificación
+
+La certificación es el proceso mediante el cual los aspirantes e Integrantes de las Instituciones de Seguridad Pública se someten a las evaluaciones periódicas establecidas por el Centro Estatal, para comprobar el cumplimiento de los requisitos y perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
+
+Las Instituciones de Seguridad Pública contratarán únicamente al personal que cuente con el Certificado y registro correspondientes, de conformidad con lo establecido en la Ley General y en la presente Ley.
+
+Ningún aspirante podrá ingresar a las Instituciones de Seguridad Pública, ni los Integrantes permanecer en las mismas, sin contar con el Certificado y registro vigentes.
+
+###### Artículo 149.
+
+Ingreso de datos al Registro Nacional de Personal
+
+El Centro Estatal, una vez practicados los exámenes de evaluación de control de confianza, procederá a ingresar los datos del personal evaluado, los resultados de las evaluaciones practicadas y, en su caso, el Certificado correspondiente, al Registro Nacional de Personal, dentro de los plazos establecidos por la normatividad federal, así como al Registro Estatal de Personal.
+
+###### Artículo 150.
+
+Confidencialidad
+
+Los resultados de las evaluaciones practicadas por el Centro Estatal, así como los expedientes que se formen de cada aspirante o Integrante que haya sido sometido a evaluación, serán estrictamente confidenciales y su acceso se mantendrá como información restringida de manera indefinida en términos de las disposiciones aplicables, por lo que dichos resultados sólo podrán ser entregados cuando sean requeridos con motivo de procedimientos administrativos o judiciales.
+
+### CAPÍTULO V. ANTIGÜEDAD
+
+###### Artículo 151.
+
+Objeto de la certificación
+
+La certificación tiene por objeto:
+
+I. Reconocer en los aspirantes e Integrantes de las Instituciones de Seguridad Pública, las habilidades, destrezas, aptitudes, conocimientos generales y específicos para desempeñar sus funciones, conforme a los perfiles aprobados; y
+
+II. Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de sus funciones, con el fin de garantizar la calidad de los servicios, enfocándose en los siguientes aspectos:
+
+a. Cumplimiento de los requisitos de edad, en su caso, así como del perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
+
+b. Observancia de un desarrollo patrimonial justificado, en el que sus egresos guarden adecuada proporción con sus ingresos;
+
+c. El no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares y ausencia de alcoholismo;
+
+d. Ausencia de vínculos con organizaciones delictivas;
+
+e. Notoria buena conducta;
+
+f. No haber sido condenado por sentencia irrevocable por delito doloso y no estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público; y
+
+g. Cumplimiento de las obligaciones y deberes establecidos en esta Ley y demás disposiciones aplicables.
+
+El Centro Estatal emitirá el Certificado a quien acredite el cumplimiento de los requisitos de ingreso o de permanencia, según corresponda, establecidos en esta Ley y demás ordenamientos aplicables.
+
+###### Artículo 152.
+
+Entrega del Certificado
+
+El Certificado a que se refiere el artículo anterior, para su validez, deberá otorgarse en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de certificación, a efecto de que sea ingresado al Registro Nacional de Personal, conforme a lo previsto en la Ley General y en esta Ley. Dicha certificación y registro tendrá la vigencia que determine la normatividad aplicable.
+
+###### Artículo 153.
+
+Renovación del Certificado
+
+Los Integrantes deberán someterse a los procesos de evaluación para la permanencia en los términos de esta Ley y los reglamentos que expida el Ejecutivo, con seis meses de anticipación a la expiración de la validez de su Certificado y registro, a fin de obtener la revalidación de los mismos.
+
+La revalidación del Certificado será requisito indispensable para la permanencia en las Instituciones de Seguridad Pública y deberá registrarse para los efectos a que se refiere el artículo anterior.
+
+Los servidores públicos de las Instituciones de Seguridad Pública de la Federación o de otras entidades federativas que pretendan prestar sus servicios en las Instituciones de Seguridad Pública del Estado de Tabasco o de sus municipios, deberán presentar el Certificado que les haya sido expedido previamente.
+
+Las Instituciones de Seguridad Pública reconocerán la vigencia de los certificados debidamente expedidos y registrados conforme a las disposiciones de la Ley General, de esta Ley y demás ordenamientos aplicables. En caso de que la vigencia del Certificado no sea reconocida, el aspirante deberá someterse a los procesos de evaluación para el ingreso.
+
+En todos los casos deberán realizarse las inscripciones correspondientes en el Registro Nacional de Personal, conforme a lo previsto en la Ley General y esta Ley.
+
+###### Artículo 154.
+
+Cancelación del Certificado
+
+El Certificado de los Integrantes de las Instituciones de Seguridad Pública se cancelará:
+
+I. Al ser separados del servicio por incumplimiento de alguno de los requisitos de permanencia a que se refiere esta Ley y demás disposiciones aplicables;
+
+II. Al ser removidos de su encargo por incumplimiento o violación a las obligaciones y deberes establecidos en esta Ley y demás disposiciones relativas al régimen disciplinario;
+
+III. Por no obtener la revalidación del propio Certificado; y
+
+IV. Por las demás causas que establezcan las disposiciones aplicables.
+
+Las Comisiones informarán al Centro Estatal, y demás instancias que estime pertinente, de las resoluciones que dicten por virtud de las cuales se declare la separación por incumplimiento a los requisitos de permanencia o por incumplimiento o violación a sus obligaciones y deberes, a fin de que dicho Centro proceda a cancelar el Certificado correspondiente e ingresar la información al Registro Nacional de Personal, así como al Registro Estatal de Personal, en términos de las disposiciones y normatividad aplicables.
+
+###### Artículo 155.
+
+Reubicación
+
+Las Instituciones de Seguridad Pública implementarán medidas de registro y seguimiento para quienes sean separados del servicio por no obtener o no revalidar los Certificados; asimismo, deberán establecer programas de reubicación laboral conforme a los criterios y lineamientos que al efecto expidan y de acuerdo a su disponibilidad presupuestal.
+
+### CAPÍTULO VI. PROMOCIONES Y ASCENSOS
+
+###### Artículo 156.
+
+Objeto y función general
+
+Las Academias de Policía serán las responsables de elaborar y aplicar los programas de capacitación, instrucción o formación de conformidad con el Programa Rector en cada Institución de Seguridad Pública y tendrán, entre otras, las siguientes funciones:
+
+I. Promover y prestar servicios educativos a las Instituciones de Seguridad Pública;
+
+II. Aplicar los procedimientos homologados del Sistema Nacional;
+
+III. Capacitar en materia de investigación científica y técnica a los Integrantes;
+
+IV. Aplicar las estrategias para la profesionalización de los aspirantes e Integrantes de las Instituciones de Seguridad Pública;
+
+V. Proponer y aplicar los contenidos de los programas para la formación de los Integrantes, a que se refiere el correspondiente Programa Rector;
+
+VI. Garantizar la equivalencia de los contenidos mínimos de programas de Profesionalización;
+
+VII. Revalidar equivalencias de estudios de la Profesionalización;
+
+VIII. Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
+
+IX. Realizar estudios para detectar las necesidades de capacitación de los Integrantes y proponer los cursos correspondientes;
+
+X. Proponer y, en su caso, publicar, con la aprobación de la respectiva Comisión del Servicio Profesional de Carrera Policial y con conocimiento de la unidad administrativa encargada de los recursos humanos, las convocatorias para el ingreso a las Academias de Policía;
+
+XI. Tramitar los registros, autorizaciones y reconocimiento de los programas de estudio ante las autoridades competentes;
+
+XII. Expedir constancias de las actividades para la profesionalización que impartan;
+
+XIII. Supervisar que los aspirantes e Integrantes de las Instituciones de Seguridad Pública, se sujeten a los manuales de las Academias de Policía; y
+
+XIV. Las demás que establezcan otras disposiciones aplicables.
+
+###### Artículo 157.
+
+Funciones específicas
+
+Además de lo señalado en el artículo anterior, la Academia de Policía Estatal tendrá específicamente las siguientes funciones:
+
+I. Proponer y desarrollar los programas de investigación académica en materia policial, de conformidad con lo dispuesto en la Ley General, en esta Ley y demás disposiciones aplicables;
+
+II. Proporcionar formación y capacitación especializadas a los aspirantes e Integrantes que tengan a su cargo las funciones de Policía de Investigación;
+
+III. Proponer las etapas, niveles de escolaridad y grados académicos de la Profesionalización;
+
+IV. Proponer la celebración de convenios con instituciones educativas nacionales y extranjeras, públicas y privadas, con el objeto de brindar formación académica de excelencia a los Integrantes; y
+
+V. Las demás que establezcan otras disposiciones aplicables.
+
+###### Artículo 158.
+
+Uso
+
+Los policías portarán en los actos del servicio los uniformes, insignias, divisas, condecoraciones y equipo correspondientes a su categoría, su jerarquía y su antigüedad, así como sus reconocimientos, cargo o comisión, salvo en las corporaciones en que no se encuentre establecida expresamente esta condición.
+
+###### Artículo 159.
+
+Características
+
+En los Manuales de Uniformes e Insignias que al efecto se expidan se determinará el diseño, confección y características de los uniformes, insignias, divisas, condecoraciones, equipo, vestuario y demás prendas de las corporaciones policiales, así como los actos en que deberán usarse y portarse.
+
+Para los efectos de esta Ley, son actos del servicio los que realizan los policías en forma individual o colectiva, en cumplimiento de órdenes recibidas o en el desempeño de las funciones y atribuciones que les competen, según su categoría, jerarquía y adscripción.
+
+###### Artículo 160.
+
+Elementos que lo integran
+
+El Sistema de Información Estatal de Seguridad Pública es el conjunto de medios electrónicos y tecnologías de la información vinculados entre sí, diseñado, estructurado y operado para facilitar interconexiones de voz, datos y video, que comprende el registro, el almacenamiento, el suministro, la actualización y la consulta de información en materia de seguridad pública sobre:
+
+I. Información criminal para la prevención, la persecución y la sanción de las infracciones y los delitos y la reinserción social, que incluye: investigaciones, imputados, indiciados, órdenes de detención y aprehensión, detenidos, procesados, sentenciados, ejecución de penas, medidas sancionadoras impuestas a adolescentes, y de la población penitenciaria;
+
+II. Personal de seguridad pública, que incluya información relativa a los elementos de los prestadores de servicios de seguridad privada de protección personal; y
+
+III. Armamento y equipo, que comprenda los equipos de comunicación y las frecuencias autorizadas para su uso, así como los colores oficiales de los uniformes que utilicen los integrantes de las corporaciones policiales.
+
+###### Artículo 161.
+
+Obligación de incorporar información
+
+Todas las unidades administrativas de las corporaciones policiales deberán inscribir inmediatamente la información de la materia en las bases de datos y los registros que integran el Sistema de Información Estatal de Seguridad Pública.
+
+Están igualmente obligadas a proporcionar información al Sistema de Información Estatal de Seguridad Pública las siguientes autoridades o sus equivalentes:
+
+I. La Secretaría de Gobierno;
+
+II. La Secretaría de Planeación y Finanzas;
+
+III. La Secretaría de Contraloría;
+
+IV. La Secretaría de Administración;
+
+V. Los municipios, a través de:
+
+a. La Dirección de Seguridad Pública;
+
+b. La Dirección encargada de las funciones de vialidad y tránsito;
+
+c. Las Academias de Policía municipales para la formación, la capacitación y la profesionalización policial; y
+
+VI. Las demás dependencias y entidades de la administración pública estatal y municipal que generen información relevante en materia de seguridad pública o de protección civil y determine el Consejo Estatal.
+
+###### Artículo 162.
+
+Suministro e intercambio obligatorios de la información
+
+Las Instituciones de Seguridad Pública del Estado y los municipios deberán suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que diariamente se genere sobre seguridad pública, en los términos de este título y demás disposiciones aplicables, sin perjuicio de las prevenciones contenidas en la Ley General.
+
+###### Artículo 163.
+
+Integración de información audiovisual
+
+En los términos de la ley de la materia, la información que se obtenga a través de la operación de videocámaras y equipos para grabar o captar imágenes, con o sin sonido, por parte de las corporaciones policiales y de los prestadores de servicios de seguridad privada o de particulares deberá integrarse al Sistema de Información Estatal de Seguridad Pública.
+
+###### Artículo 164.
+
+Adscripción
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+El Centro de Mando y Comunicaciones formará parte de la estructura orgánica de la Secretaría de Seguridad Pública, y será la instancia encargada de la operación y coordinación del Sistema Estatal de Información sobre Seguridad Pública.
+
+Es responsabilidad de las Instituciones de Seguridad Pública, así como del Centro de Mando y Comunicaciones, mantener permanentemente actualizada la información relativa a los registros y bases de datos en materia de Seguridad Pública.
+
+###### Artículo 165.
+
+Atribuciones
+
+El Centro de Mando y Comunicaciones tendrá, entre otras, las siguientes atribuciones:
+
+I. Establecer, administrar y resguardar las bases de datos del Sistema Estatal, de acuerdo a las disposiciones aplicables;
+
+II. Determinar los criterios técnicos y de homologación de los registros y bases de datos de los integrantes del Sistema Estatal;
+
+III. Emitir los protocolos de interconexión, acceso y seguridad de los registros y bases de datos;
+
+IV. Vigilar el cumplimiento de los criterios de acceso a la información y hacer del conocimiento de las instancias competentes cualquier irregularidad detectada;
+
+V. Colaborar con el Instituto Nacional de Información de Estadística y Geografía, en la integración de la estadística nacional en materia de seguridad pública, de conformidad con la Ley de la materia;
+
+VI. Implementar, homologar y promover los mecanismos de acopio, recopilación, manejo, sistematización, consulta, análisis, e intercambio de información inherente a la Seguridad Pública; y
+
+VII. Brindar asesoría a las Instituciones de Seguridad Pública para la integración de información, interconexión, acceso, uso, intercambio y establecimiento de medidas de seguridad para las bases de datos.
+
+###### Artículo 166.
+
+Coordinación
+
+El Centro de Mando y Comunicaciones estará en contacto permanente con el Centro Nacional de Información para efectos de lograr un adecuado intercambio y suministro de la información generada a nivel estatal y nacional, procurando además la homologación de los sistemas de información relativos a la Seguridad Pública.
+
+###### Artículo 167.
+
+Autorizaciones
+
+El Centro de Mando y Comunicaciones asignará a los usuarios autorizados las claves y controles de acceso a los registros y bases de datos del Sistema Estatal de Información sobre Seguridad Pública, de conformidad con los niveles de consulta que para tal efecto se establezcan; del mismo modo llevará un control pormenorizado de los accesos, movimientos y consultas realizados.
+
+En ningún caso se proporcionará información que ponga en riesgo la Seguridad Pública o física de las personas, ni que atente contra su honor. En todo caso, la información que administre el Centro de Mando y Comunicaciones se sujetará a la normatividad vigente en materia de transparencia y acceso a la información pública.
+
+### CAPÍTULO VII. PROFESIONALIZACIÓN
+
+###### Artículo 168.
+
+Objeto
+
+El Registro de Detenidos tiene por objeto establecer el control administrativo de las detenciones en sus distintas modalidades de orden de aprehensión, flagrancia, ministerial por caso urgente, arraigo, cateo y provisional con fines de extradición, de personas que sean entregadas a un elemento de seguridad pública, detenidas por éste, o bien puestas a disposición del Ministerio Público del Estado.
+
+###### Artículo 169.
+
+Obligación de los policías
+
+El integrante de una institución de seguridad pública que realice una detención o reciba a su disposición un detenido deberá dar aviso al Registro de Detenidos a través del Informe Policial Homologado, sin perjuicio de la obligación prevista en el artículo 112 de la Ley General.
+
+En todos los casos en que un elemento de cualquier institución de seguridad pública realice una detención o le sea entregado un detenido, por la presunta comisión de un delito, lo pondrá de inmediato a disposición del Ministerio Público.
+
+###### Artículo 170.
+
+Datos del Registro de Detenidos
+
+El Registro de Detenidos contendrá los siguientes datos:
+
+I. Nombre y, en su caso, apodo;
+
+II. Media filiación o descripción física;
+
+III. Sexo;
+
+IV. Edad aproximada;
+
+V. Motivo y circunstancias generales de la detención, así como lugar y hora en que se realizó;
+
+VI. Nombre de quien o quienes hayan intervenido en la detención, así como categoría o jerarquía y área de adscripción;
+
+VII. Nombre de quien haya efectuado el registro, así como corporación, puesto, categoría o jerarquía y área de adscripción;
+
+VIII. Autoridad ante la que será puesto a disposición, mencionando el lugar a donde será trasladado así como el tiempo aproximado para ello; y
+
+IX. Siempre que las circunstancias de la detención lo permitan, datos personales de la probable víctima u ofendido, considerando los datos y elementos a que se refieren las fracciones I a IV del presente artículo.
+
+###### Artículo 171.
+
+Respeto a los Derechos Humanos
+
+Desde el momento de la detención hasta la puesta a disposición ante la autoridad correspondiente, se deberán respetar los derechos fundamentales del detenido. El agente del Ministerio Público constatará, cuando le sea puesto a su disposición el detenido, que dichas prerrogativas no le hayan sido violadas y le informará de manera inmediata sus derechos.
+
+###### Artículo 172.
+
+Confidencialidad
+
+La información que obre en el Registro de Detenidos será confidencial y reservada, por lo que sólo tendrán acceso a la misma las autoridades competentes en materia de investigación y persecución del delito, para los fines previstos en los ordenamientos legales aplicables. Los imputados podrán solicitar la rectificación de sus datos personales, así como que se asiente en el Registro de Detenidos el resultado del procedimiento penal, en los términos de las disposiciones legales aplicables.
+
+Al servidor público que quebrante la reserva del Registro de Detenidos, proporcione información a terceros o transgreda sus responsabilidades en la administración, guarda y custodia de los datos que integran el Registro, se le sujetará a los procedimientos disciplinarios, de responsabilidad administrativa o penal, según corresponda, de conformidad con las leyes aplicables.
+
+Todo servidor público que en razón de sus funciones tenga acceso o maneje información del Registro de Detenidos, estará obligado en todo momento a salvaguardar su confidencialidad.
+
+###### Artículo 173.
+
+Empleo de los datos
+
+Los datos integrados al Registro de Detenidos constituirán la plataforma para archivar, preservar, utilizar, enviar o recibir la información de los detenidos con el fin de dar cumplimiento a lo dispuesto en los artículos 112 y 114 de la Ley General.
+
+###### Artículo 174.
+
+Contenido
+
+El Registro Estatal de Personal de Seguridad Pública contendrá la información actualizada de los elementos de las instituciones de seguridad pública del Estado y sus municipios relativa a: ingreso, permanencia, evaluaciones, reconocimiento y certificación, suspensiones, sanciones, destituciones, consignaciones, procesos, sentencias por delito doloso, inhabilitaciones, renuncias; y a los datos conducentes que contengan sus hojas de servicio, sin perjuicio de la obligación prevista en la Ley General.
+
+Asimismo, contendrá la información concerniente a: los aspirantes a ingresar a las instituciones de seguridad pública; a los que hayan sido rechazados y a los admitidos que hayan desertado del curso de formación inicial; y a los elementos de los prestadores de servicios de seguridad privada de protección personal, así como de servicios de videovigilancia.
+
+###### Artículo 175.
+
+Integración y actualización de los registros
+
+Para la integración y la actualización de los Registros Estatal y Nacional de Personal de Seguridad Pública, las corporaciones policiales deberán ingresar de manera inmediata y permanente al primero de tales registros la información relacionada con los procesos de formación, evaluación, certificación, ingreso, estímulos, reconocimientos, promoción, ascenso, incumplimiento de los requisitos de permanencia y sanción de los aspirantes y policías,
+
+Asimismo, registrarán los datos referentes a los policías a quienes se haya dictado vinculación a proceso o resolución equivalente.
+
+Quienes incumplan lo dispuesto en el párrafo anterior, expidan o exhiban constancias que modifiquen o alteren el sentido de la información que conste en los registros, omitan registrar u oculten antecedentes de las personas en ellos relacionadas, serán sancionados en los términos de las disposiciones aplicables.
+
+### CAPÍTULO VIII. RÉGIMEN DE RECONOCIMIENTOS Y ESTÍMULOS
+
+###### Artículo 176.
+
+Elementos mínimos
+
+El Registro Estatal de Personal contendrá, por lo menos:
+
+I. Los datos que permitan identificar plenamente y localizar al personal de seguridad, sus generales y media filiación; huellas digitales y palmares; fotografías de frente y perfil; escolaridad y antecedentes laborales, así como su trayectoria en los servicios de seguridad pública;
+
+II. Los reconocimientos, estímulos, sanciones a que se hayan hecho acreedores, comprendiendo en este último caso información sobre los hechos que dieron motivo a la corrección o al procedimiento disciplinario; y
+
+III. Cualquier cambio de adscripción, actividad, categoría o jerarquía del policía, así como las razones que se consideraron para ello.
+
+Deberá ingresarse inmediatamente al Registro Estatal de Personal la información relativa al auto de vinculación a proceso, sentencia absolutoria o condenatoria y sanciones administrativas impuestas a los policías, así como las resoluciones que las modifiquen, confirmen o revoquen.
+
+Las órdenes de detención o aprehensión se notificarán al Registro Estatal de Personal, siempre que no se ponga en riesgo la investigación o el proceso.
+
+###### Artículo 177.
+
+Procedimiento para la incorporación al Registro Nacional
+
+El procedimiento para la incorporación al Registro Nacional de Personal, tanto de los elementos de las instituciones de seguridad pública como de los prestadores de servicios de seguridad privada de protección personal, se realizará conforme a las disposiciones, criterios y lineamientos que expida el Centro Nacional, integrándose la información respectiva al Registro Estatal de Personal.
+
+###### Artículo 178.
+
+Actualización de datos
+
+Los policías están obligados a notificar a su superior jerárquico inmediato, cualquier cambio o modificación que se produzca en los datos que hayan aportado con anterioridad, y el segundo, a su vez, de enterarlo al Registro Estatal de Personal.
+
+###### Artículo 179.
+
+Clave Única de Identificación Personal
+
+Una vez integrado el policía a la corporación correspondiente o autorizado el personal operativo del prestador de servicios de seguridad privada de protección personal, el Registro Estatal de Personal expedirá y remitirá a la autoridad requirente la constancia que contenga la Clave Única de Identificación Personal que se haya asignado, la cual deberá insertarse en el texto del nombramiento, en la constancia de grado o en el contrato respectivo.
+
+###### Artículo 180.
+
+Empleo de los datos
+
+Los datos integrados al Registro Estatal de Personal constituirán la plataforma para archivar, preservar, utilizar, enviar o recibir información, a fin de cumplir lo dispuesto en los artículos 122 y 123 de la Ley General.
+
+###### Artículo 181.
+
+Concepto
+
+La Hoja de Servicio es el documento que resume la trayectoria de los policías desde su ingreso a una corporación policial hasta la conclusión de sus servicios como tales.
+
+###### Artículo 182.
+
+Contenido
+
+Las corporaciones policiales integrarán y actualizarán constante y permanentemente la Hoja de Servicio de cada uno de sus integrantes, en períodos del primero de enero al treinta y uno de diciembre, para que contenga:
+
+I. Una síntesis biográfica, que comprenderá desde el nacimiento del integrante hasta su ingreso a alguna corporación policial, especificando los nombres de sus padres, cónyuge y, en su caso, concubinario o concubina e hijos, así como los estudios efectuados, conocimientos adquiridos y empleos o cargos desempeñados;
+
+II. Los cargos o comisiones desempeñados o conferidos al servicio de las instituciones de seguridad pública, con anotación de las fechas precisas de cada uno de ellos, incluyendo las promociones, los ascensos las insignias, las condecoraciones, los estímulos, las categorías y las jerarquías obtenidas;
+
+III. El cómputo total del tiempo de servicios con mención de las licencias o incapacidades médicas acaecidas durante ese tiempo;
+
+IV. Los estudios efectuados en las Academias de Policía u otras instituciones educativas, públicas o privadas, reconocidas oficialmente, con expresión del grado académico alcanzado;
+
+V. Las campañas u operaciones en que hubiesen participado, indicando las fechas de inicio y conclusión, señalándose, además, los hechos meritorios en los que hayan intervenido de manera destacada;
+
+VI. En su caso, trabajos de investigación, artículos, publicaciones, colaboraciones y cualquier otro que aporte conocimientos técnicos o científicos que resulten de utilidad en materia de seguridad pública;
+
+VII. Los correctivos disciplinarios y sanciones que se les hayan impuesto mediante resolución firme;
+
+VIII. Los procesos penales a que hubieren quedado sujetos, con expresión del sentido de la resolución con que haya concluido el procedimiento; y
+
+IX. Todos los demás datos que se consideren de relevancia o trascendencia para las instituciones de seguridad pública.
+
+En cualquier momento, el policía podrá solicitar la actualización de su Hoja de Servicio y una copia de ella.
+
+Las corporaciones policiales, así como las Comisiones del Servicio de Carrera Policial, y las de Honor y Justicia, deberán proporcionar al Registro Estatal de Personal la información relativa a la Hoja de Servicio, o de los datos que contenga, para el cumplimiento de sus respectivas atribuciones.
+
+###### Artículo 183.
+
+Obligatoriedad del Registro
+
+Las corporaciones policiales y los prestadores de servicios de seguridad privada informarán respecto de su armamento y equipo y mantendrán permanentemente actualizado al Registro de Armamento, sin perjuicio de las obligaciones previstas en la Ley General y demás leyes aplicables.
+
+###### Artículo 184.
+
+Rubros
+
+El Registro de Armamento deberá comprender la información actualizada que proporcionen las corporaciones policiales, respecto a:
+
+I. Los vehículos asignados, cuya descripción deberá comprender el número económico de la unidad, las placas de circulación, la marca, el modelo, el tipo, y los números de serie y de motor;
+
+II. Las armas de fuego y municiones que les hayan sido autorizadas por las dependencias competentes, especificando respecto de las primeras el número de registro, la marca, el modelo, el calibre, la matrícula, el país de fabricación y los demás elementos de identificación;
+
+III. Los cambios, altas y bajas de armamento;
+
+IV. Los equipos de comunicación y las frecuencias autorizadas para su uso; y
+
+V. Los colores oficiales de los uniformes que utilicen sus integrantes, así como datos sobre los inmuebles y vehículos de que dispongan.
+
+###### Artículo 185.
+
+Actualización de datos de los registros
+
+Las corporaciones policiales de los municipios que ingresen y actualicen de manera directa la información respectiva al Registro Nacional de Armamento y Equipo en términos de la Ley General, compartirán dicha información al Registro de Armamento.
+
+Los prestadores de servicios de seguridad privada, se coordinarán con el Registro de Armamento para que, por conducto del mismo, se ingrese y actualice la información al Registro Nacional de Armamento y Equipo.
+
+###### Artículo 186.
+
+Disponibilidad de los datos
+
+La información del Registro de Armamento estará disponible para las corporaciones policiales y demás autoridades competentes, en relación con la investigación de delitos en cuya comisión se hubiesen empleado armas de fuego.
+
+###### Artículo 187.
+
+Restricción de la portación de armas
+
+Los policías sólo podrán portar las armas de fuego que les hubiesen asignado de manera individual, al amparo de la licencia oficial colectiva expedida a favor de la corporación a que pertenezcan, de conformidad con la Ley Federal de Armas de Fuego y Explosivos y su
+
+Reglamento.
+
+Los policías sólo podrán portar las armas de fuego oficialmente asignadas durante el tiempo del ejercicio de sus funciones, o para un horario, una misión o una comisión determinados, salvo autorización expresa del titular y de acuerdo con los ordenamientos de cada corporación, particularmente en aquellos casos en los que, por la naturaleza de sus encomiendas, su integridad física o vida corran peligro.
+
+###### Artículo 188.
+
+Restricción de uso de equipos de comunicación
+
+Los equipos de comunicación asignados a los policías sólo serán usados y operados por éstos y exclusivamente para el ejercicio de sus atribuciones, por lo que su uso para fines distintos se sancionará en los términos de la presente Ley.
+
+Durante el tiempo que estuvieren en servicio, los policías sólo usarán u operarán los equipos de comunicación que les fueren asignados para el cumplimiento de sus funciones, por lo que deberán abstenerse de portar o utilizar cualquier otro equipo o medio de comunicación distinto.
+
+## TÍTULO TERCERO. PROCEDIMIENTOS ANTE LAS COMISIONES DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL; Y LAS COMISIONES DE HONOR Y JUSTICIA
+
+### CAPÍTULO IX. SEPARACIÓN
+
+###### Artículo 189.
+
+Instrumentos de acopio
+
+La Fiscalía General y la Secretaría de Seguridad Pública, en el marco de sus respectivas competencias, establecerán los instrumentos de acopio de datos que permitan analizar la incidencia criminológica y, en general, el problema de seguridad pública en la entidad, para la planeación y la implementación de programas y acciones, así como para la evaluación de sus resultados.
+
+###### Artículo 190.
+
+Sistematización de datos
+
+La estadística de seguridad pública sistematizará los datos y cifras relevantes sobre: seguridad preventiva; investigación y persecución del delito; administración de justicia; sistemas de prisión preventiva, de ejecución de penas y medidas de seguridad, y de tratamiento de adolescentes; y factores asociados al problema de seguridad pública.
+
+###### Artículo 191.
+
+Concepto y fines
+
+La fuerza pública es el instrumento legítimo mediante el cual los integrantes de las corporaciones policiales hacen frente a las situaciones, los actos y hechos que afectan o ponen en peligro la preservación de la libertad, el orden y la paz públicos, así como la integridad y los derechos de las personas, a fin de asegurar y mantener la vigencia de la legalidad y el respeto de los derechos humanos.
+
+Su uso, sus objetivos y principios, la capacitación y el adiestramiento que requiere su correcta utilización, y la responsabilidad que acarrea su empleo ilícito se regularán en el reglamento respectivo.
+
+###### Artículo 192.
+
+Prevención social de violencia y delincuencia
+
+El Estado y los Municipios combatirán las causas que generan la comisión de delitos y conductas antisociales y desarrollarán políticas, programas y acciones para que la sociedad participe en la planeación y supervisión de la seguridad pública, a la vez que se fomenten valores culturales y cívicos que estimulen el respeto a la legalidad.
+
+Los programas de la entidad y los municipios en materia de prevención social de la violencia y la delincuencia deberán sujetarse a las bases previstas en la Ley General para la Prevención Social de la Violencia y la Delincuencia, la Ley General y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+Para tales efectos, el Estado contará con un Centro Estatal de Prevención Social del Delito y Participación Ciudadana, el cual será un órgano de naturaleza desconcentrada dotado de autonomía técnica y funcional, que para su adecuado funcionamiento estará adscrito a la Secretaría de Seguridad Pública y tendrá las atribuciones que se establezcan en esta Ley, en el Acuerdo de Creación respectivo y demás disposiciones aplicables.
+
+###### Artículo 193.
+
+Servicio de localización de personas y bienes
+
+El Estado y los Municipios, en el ámbito de sus atribuciones, deberán establecer un servicio, que promueva la colaboración y la participación ciudadana, para la localización de personas y bienes.
+
+Para el caso de la sustracción de menores, deberán implementar sistemas de alerta y protocolos de acción inmediata para su búsqueda y su localización, en el que coadyuven con las instituciones de seguridad pública las corporaciones de emergencia, los medios de comunicación, prestadores de servicios de telecomunicaciones, las organizaciones no gubernamentales y la ciudadanía en general.
+
+###### Artículo 194.
+
+Servicio de emergencia y denuncia anónima
+
+El Estado y los Municipios deberán establecer un servicio de emergencia y denuncia anónima sobre faltas y otros delitos de que tenga conocimiento la comunidad, el que operará a través de teléfono con un número único y de cualquier medio electrónico. Tratándose de violencia familiar y desaparición de personas, se implementarán sistemas especializados de alerta y protocolos de reacción y apoyo.
+
+El citado servicio tendrá comunicación directa con las instituciones de seguridad pública, de salud, de protección civil y demás organismos asistenciales públicos y privados.
+
+###### Artículo 195.
+
+Participación de la comunidad en el servicio de seguridad pública
+
+Para mejorar el servicio de seguridad pública, los órganos del Sistema Estatal promoverán la participación de la comunidad en la evaluación de las políticas y de las Instituciones de Seguridad Pública, así como en la formulación de propuestas de medidas específicas y acciones concretas. Esta participación se hará por conducto de los representantes de las organizaciones de la sociedad civil que forman parte del Consejo Estatal o de los cuatro integrantes de la comunidad pertenecientes a los Consejos Municipales.
+
+###### Artículo 196.
+
+Cultura de la denuncia
+
+Sin menoscabo de lo previsto por el artículo 20 de la Constitución Federal y las leyes aplicables, por conducto de la Fiscalía General, de la Secretaría de Seguridad Pública y de las Corporaciones Policiales del Estado y los municipios, se desarrollarán programas y acciones para fomentar la cultura de la denuncia.
+
+###### Artículo 197.
+
+Servicio de protección y seguridad personal
+
+Para efectos de esta Ley se entiende como seguridad personal a la protección mínima indispensable que dentro del territorio estatal otorga el Estado a servidores en activo o a ex servidores públicos que acrediten encontrarse en situación de riesgo por la naturaleza propia de su encomienda; o en razón de que generen o hayan generado acciones de investigación, persecución de delitos, administración e impartición de justicia y mantenimiento del orden y la paz pública durante el ejercicio del encargo, con el propósito de salvaguardar su vida e integridad física.
+
+El servicio de protección a la seguridad personal se prestará exclusivamente con elementos certificados de la Secretaría de Seguridad Pública, con los recursos humanos y materiales con que se cuente, siempre y cuando exista la disponibilidad presupuestal suficiente para ello. En todo caso tales servicios serán temporales y se referirán únicamente a personas, por lo cual no incluirán la guarda o vigilancia de bienes muebles e inmuebles.
+
+###### Artículo 198.
+
+Comité de Autorización
+
+El Comité de Autorización de protección personal será la instancia responsable de determinar, mediante resolución definitiva e inatacable, la pertinencia de autorizar o no, el servicio a los ex servidores públicos que lo requieran.
+
+El Comité de Autorización de protección personal estará integrado por el Secretario de Gobierno, el Secretario de Seguridad Pública y el Comisionado, presidiendo dicho Comité el primero de dichos servidores públicos.
+
+Para determinar la pertinencia de otorgar servicios de protección personal señalados en el párrafo anterior, se podrán ordenar los estudios e investigaciones necesarias y realizar las consultas del caso con las autoridades de procuración de justicia y seguridad pública federales o de otras entidades federativas.
+
+El Comité tomará sus decisiones por mayoría de votos.
+
+###### Artículo 199.
+
+Solicitudes del servicio de protección personal
+
+Los ex servidores públicos que así lo estimen necesario, podrán presentar la solicitud del servicio de protección personal, dirigida al Comité, dentro de los quince días siguientes a la conclusión de su encargo, o en cualquier momento durante el plazo en que tengan derecho a ello, cuando existan elementos para temer por su seguridad e integridad personal, con motivo del ejercicio del cargo que hubiesen desempeñado.
+
+Para tener derecho al servicio de protección personal, los ex servidores públicos requieren haber desempeñado el cargo mínimo durante un año. La protección se otorgará hasta por un año, periodo prorrogable por un año más por única vez, en tanto que el interesado acredite ante el Comité que subsiste la necesidad.
+
+El número de personal, equipo y demás instrumentos destinados para la protección de los ex servidores públicos, no será mayor de dos elementos; salvo en el caso de los ex gobernadores, que tendrán derecho a cuatro elementos, incluido un chofer.
+
+###### Artículo 200.
+
+Sujetos
+
+Tendrán derecho a contar con protección personal, los ex servidores que hayan desempeñado los siguientes cargos públicos en la entidad:
+
+I. Gobernador del Estado;
+
+II. Secretario de Gobierno;
+
+III. Fiscal General del Estado;
+
+IV. Secretario de Seguridad Pública;
+
+V. Presidente del Tribunal Superior de Justicia; y
+
+VI. Vicefiscales.
+
+Sólo en casos excepcionales, previa autorización del Gobernador del Estado, se podrán prestar de forma temporal servicios de seguridad a personas distintas a las señaladas en el artículo anterior, ya sean servidores públicos de otros órdenes de gobierno o particulares; cuando por sus características, circunstancias o situación específicas, sean objeto de amenazas o agresiones, o exista causa fundada para temer por su integridad física.
+
+###### Artículo 201.
+
+Protección a servidores públicos en activo
+
+Corresponde al Comité disponer las medidas conducentes para proveer de seguridad personal a los servidores públicos estatales en activo que con motivo de su encargo, responsabilidades y grado de riesgo en su desempeño, requieran de las mismas de manera permanente o temporal, durante su ejercicio.
+
+###### Artículo 202.
+
+Ámbito Territorial
+
+El servicio de seguridad personal se prestará única y exclusivamente dentro del territorio del Estado, salvo los casos de servidores públicos en activo que requieran del mismo durante comisiones y representaciones oficiales fuera de la entidad pero dentro del país.
+
+La Secretaría de Seguridad Pública será la única instancia facultada para prestar el servicio de seguridad personal.
+
+El Secretario de Seguridad Pública proyectará un Reglamento del Servicio de Protección Personal, que someterá a la aprobación del Titular del Poder Ejecutivo del Estado.
+
+###### Artículo 203.
+
+Protección a candidatos a cargos de elección popular
+
+En períodos electorales, las autoridades estatales de Seguridad Pública, previa solicitud de la autoridad electoral, deberán brindar las medidas de seguridad personal a los candidatos a Gobernador del Estado, desde el momento en que, de acuerdo con los mecanismos internos de su partido, se ostenten con tal carácter. Así mismo y desde el momento señalado, podrá otorgársele exclusivamente a los candidatos a diputados y presidentes municipales, que lo soliciten a través del Presidente del Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, cuando así se estime necesario conforme a las razones y elementos de convicción que expongan los solicitantes.
+
+###### Artículo 204.
+
+Los particulares que presten el servicio de seguridad privada, así como el personal que utilicen, se regirán en lo conducente, por las normas que esta Ley y las demás aplicables establecen para las Instituciones de Seguridad Pública; incluyendo los principios de actuación y desempeño, así como la obligación de aportar los datos para el registro de su personal y equipo y, en general, proporcionar la información estadística y sobre delincuencia a los Centros Nacional y Estatal de Información.
+
+El personal de las empresas privadas de seguridad será sometido a procedimientos de evaluación y control de confianza.
+
+###### Artículo 205.
+
+Regulación
+
+Las personas físicas y morales que pretendan prestar servicios de seguridad y protección personal y de bienes; de traslado de bienes o valores; de información; de sistemas de prevención y responsabilidades; de fabricación, comercialización, almacenamiento, transportación o distribución de vestimenta e instrumentos; de blindaje; de sistemas electrónicos de seguridad; así como de capacitación y adiestramiento, deberán además sujetarse, en lo conducente, a las disposiciones de la Ley Federal de Armas de Fuego y Explosivos y su reglamento.
+
+En los casos de autorizaciones otorgadas por la autoridad federal competente, los particulares autorizados deberán cumplir con las disposiciones de esta Ley, sin que les sean exigibles mayores requisitos a los establecidos en la Ley Federal de Seguridad Privada, conforme a lo dispuesto por la Ley General.
+
+###### Artículo 206.
+
+Deber de coadyuvar
+
+Los servicios de seguridad privada son auxiliares de la función de seguridad pública; sus integrantes coadyuvarán con las autoridades y las instituciones de seguridad pública en situaciones de urgencia, desastre o cuando lo solicite el órgano competente, de acuerdo con los requisitos y condiciones que establezca la autorización respectiva.
+
+Los particulares autorizados para prestar servicios de seguridad privada, así como su personal operativo, estarán impedidos para ejercer las funciones que corresponden a las instituciones de seguridad pública y, en lo conducente, les serán aplicables los principios y obligaciones en cuanto a su actuación y su desempeño, incluidos los de aportar datos para el registro de su personal y su equipo, evaluación y control de confianza, certificación y, en general, proporcionar información estadística y sobre la delincuencia en términos de esta Ley, sin perjuicio de lo dispuesto por la Ley General.
+
+###### Artículo 207.
+
+Definición
+
+Para efectos de esta Ley, se consideran instalaciones estratégicas los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, el mantenimiento y la operación de las actividades consideradas como estratégicas por la Constitución Federal, así como de aquéllas que tiendan a preservar la integridad, la estabilidad y la permanencia del Estado Mexicano, en los términos de la Ley de Seguridad Nacional y la Ley General.
+
+###### Artículo 208.
+
+Protección y vigilancia de instalaciones estratégicas
+
+Las instituciones de seguridad pública del Estado y sus municipios coadyuvarán con las instancias federales competentes para proteger y vigilar las instalaciones estratégicas, así como para garantizar su integridad y su operación.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, quedarán abrogadas la Ley General del Sistema Estatal de Seguridad Pública para el Estado de Tabasco, expedida mediante Decreto 190, publicado en el Suplemento 7000 F del Periódico Oficial del Estado de Tabasco, el miércoles 7 de octubre de 2009; así como la Ley de Seguridad Pública para el Estado de Tabasco, expedida mediante Decreto 226, publicado en el Suplemento 7023 R del Periódico Oficial del Estado de Tabasco, el sábado 26 de diciembre de 2009.
+
+El Congreso del Estado, en un término de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, realizará las adecuaciones a los ordenamientos legales que así lo requieran con motivo de la aplicación de la nueva Ley.
+
+TERCERO. El Ejecutivo del Estado y los ayuntamientos, según corresponda, expedirán o adecuarán las disposiciones reglamentarias o administrativas que deriven de la presente Ley, dentro de los 180 días naturales siguientes al inicio de su vigencia. Entre tanto, seguirán vigentes los reglamentos aplicables a las Instituciones de Seguridad Pública, en lo que no se opongan a esta Ley.
+
+CUARTO. Los procedimientos jurisdiccionales y administrativos, relacionados con la separación, remoción, cese o cualquier otra forma de conclusión de los servicios del personal al servicio de las Instituciones de Seguridad Pública, que estuviesen en trámite a la entrada en vigor de este Decreto, se concluirán conforme a la normatividad que les era aplicable al inicio del procedimiento de que se trate. Los procedimientos iniciados después de la entrada en vigor de este Decreto y los ordenamientos administrativos correspondientes, se tramitarán conforme a ellos.
+
+QUINTO. Conforme a las disposiciones legales aplicables y a la disponibilidad presupuestal, el Titular del Ejecutivo, por conducto de las dependencias competentes, realizará los ajustes presupuestarios y demás acciones administrativas que resulten necesarias, a efecto de que las Dependencias y órganos que así lo requieran y justifiquen en términos de la presente Ley, atiendan adecuadamente las atribuciones, funciones y servicios que les correspondan.
+
+SEXTO. Se derogan todas las disposiciones de orden legal que se opongan a lo establecido en la Presente Ley.
+
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS CATORCE DÍAS DEL MES DE MAYO DEL AÑO DOS MIL QUINCE. DIP. LETICIA TARACENA GORDILLO, PRESIDENTA; DIP. NOÉ DANIEL HERRERA TORRUCO, SECRETARIO. RÚBRICAS.
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+EXPEDIDO EN EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS DOCE DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL QUINCE.
+
+“SUFRAGIO EFECTIVO. NO REELECCIÓN”
+
+LIC. ARTURO NÚÑEZ JIMÉNEZ
+
+GOBERNADOR DEL ESTADO DE TABASCO
+
+C. CÉSAR RAÚL OJEDA ZUBIETA
+
+SECRETARIO DE GOBIERNO
+
+LIC. JUAN JOSÉ PERALTA FÓCIL
+
+COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 027 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 164, Y SE DEROGA LA FRACCIÓN XIII DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 48, AMBOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo no mayor de 180 días a partir de la publicación de este Decreto, se deberá emitir el Reglamento Interior del Órgano Administrativo Desconcentrado Centro de Mando y Comunicaciones.
+
+TERCERO.- Los recursos humanos, financieros y materiales que actualmente se encuentran asignados al Centro de Mando y Comunicaciones como parte de la estructura orgánica de la Secretaría de Seguridad Pública, pasarán a formar parte del nuevo Órgano Administrativo Desconcentrado que se crea, dependiente de la Secretaría de Gobierno, en un plazo que no exceda de 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+El personal que se transfiere al Órgano Desconcentrado, deberán (sic) someterse a los procedimientos de evaluación y control de confianza que el Centro Estatal respectivo, aplique conforme a los lineamientos emitidos por el Centro Nacional de Certificación y Acreditación.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 008 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 48, SEGUNDO PÁRRAFO, FRACCIÓN XIII Y 164, PRIMER PÁRRAFO; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 192, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El Gobernador deberá efectuar las respectivas reformas, adiciones y derogaciones al Acuerdo por el que se crea el Centro Estatal de Prevención Social del Delito y Participación Ciudadana, en un término no mayor a cuarenta y cinco días hábiles a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- Realícense los trámites administrativos y presupuestales necesarios, para que se establezca formal, material y operativamente el debido funcionamiento del Centro de Mando y Comunicaciones; y del Centro Estatal de Prevención Social del Delito y Participación Ciudadana, como órgano desconcentrado dependiente de la Secretaría de Seguridad Pública, en un plazo que no exceda de cuarenta y cinco días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente Decreto.
 
 ###### ARTÍCULO 209.
 
@@ -2059,11 +3511,7 @@ El delito deberá consumarse para ser grave, salvo los casos que prevé este art
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO XI], P.O. 16 DE MAYO DE 2008)</small>
 
-### CAPÍTULO II. CATEOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+### CAPÍTULO X. RÉGIMEN DISCIPLINARIO DE LAS CORPORACIONES POLICIALES
 
 ###### ARTÍCULO 249.
 
@@ -2211,7 +3659,7 @@ USO DE LA FUERZA. Cuando la autoridad que practica el cateo encuentre cerrado el
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO XIX], P.O. 16 DE MAYO DE 2008)</small>
 
-### CAPÍTULO III. EJERCICIO DE LA ACCIÓN PENAL
+### CAPÍTULO XI. ARRESTO
 
 ###### ARTÍCULO 272.
 
@@ -2295,7 +3743,7 @@ El Ministerio Público también se ajustará a las previsiones del artículo ant
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO XX], P.O. 16 DE MAYO DE 2008)</small>
 
-### CAPÍTULO IV. EMBARGO PRECAUTORIO
+### CAPÍTULO XII. INTEGRACIÓN Y ATRIBUCIONES DE LAS COMISIONES DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL Y COMISIONES DE HONOR Y JUSTICIA, ESTATAL Y MUNICIPALES
 
 ###### ARTÍCULO 277.
 
@@ -2343,17 +3791,17 @@ SUSPENSIÓN O LEVANTAMIENTO DEL EMBARGO POR CONTRA-GARANTÍA O CAUSA DE LIBERTAD
 
 El embargo también se levantará si se niega orden de aprehensión o comparecencia; se decreta la libertad del inculpado por falta de pruebas para procesar o por desvanecimiento de datos; se dicta auto de sobreseimiento o sentencia absolutoria. Siempre y cuando queden firmes.
 
-# LIBRO SEGUNDO. DESARROLLO DEL PROCESO PENAL
+# LIBRO SEGUNDO. ORGANIZACIÓN, ESTRUCTURA Y FUNCIONAMIENTO DE LOS CUERPOS POLICIALES
 
-## TÍTULO PRIMERO. DEBIDO PROCESO PENAL
+## TÍTULO CUARTO. INFORMACIÓN ESTATAL SOBRE SEGURIDAD PÚBLICA
 
-### CAPÍTULO I. PRINCIPIO GENERAL
+### CAPÍTULO I. PROCEDIMIENTO
 
 ###### ARTÍCULO 285.
 
 CUÁNDO HAY DEBIDO PROCESO PENAL. El proceso penal será debido, cuando concurran las condiciones siguientes: 1) Previo el ejercicio de la acción penal, se lleve ante juez competente. 2) Con relación al inculpado se observen en aquél las formalidades esenciales del procedimiento.
 
-### CAPÍTULO II. INSTANCIAS PROCESALES
+### CAPÍTULO II. DE LAS CONTROVERSIAS DERIVADAS DEL SERVICIO DE CARRERA POLICIAL Y LA PROFESIONALIZACIÓN
 
 ###### ARTÍCULO 286.
 
@@ -2375,9 +3823,9 @@ En la primera instancia se juzgará a la persona inculpada antes de cuatro meses
 
 Los plazos a que se refiere el párrafo anterior se contarán desde el día que se dicte auto de formal prisión o de sujeción a proceso.
 
-## TÍTULO SEGUNDO. LÍMITES A LA JURISDICCIÓN
+## TÍTULO QUINTO. SERVICIOS Y PARTICIPACIÓN DE LA COMUNIDAD
 
-### CAPÍTULO I. CONDICIONES DE PROCEDIBILIDAD DE LA ACCIÓN PENAL
+### CAPÍTULO III. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
 ###### ARTÍCULO 289.
 
@@ -2397,7 +3845,7 @@ IV. NULIDAD HASTA SEGUNDA INSTANCIA. Si se tramita recurso de apelación contra 
 
 Cuándo además de advertir la falta de condición de procedibilidad, se encuentre que el derecho para ejercerla ya precluyó; o que sobrevino otra causa que extinga la acción penal; se sobreseerá la causa.
 
-### CAPÍTULO II. CUESTIONES PREJUDICIALES
+### CAPÍTULO IV. EVALUACIÓN Y CERTIFICACIÓN
 
 ###### ARTÍCULO 291.
 
@@ -2427,15 +3875,15 @@ EXTENSIÓN DE LA COMPETENCIA A CUESTIONES PREJUDICIALES NO ESPECÍFICAS. La comp
 
 No estarán sujetas a substanciación especial; sino que seguirán la del proceso. Podrán examinarse en los autos que resuelven la situación jurídica y en la sentencia. Pero no serán materia de sus puntos resolutivos.
 
-## TÍTULO TERCERO. FASE DE PREINSTRUCCIÓN
+## TÍTULO SEXTO. OTORGAMIENTO DE SEGURIDAD PERSONAL
 
-### CAPÍTULO I. PERÍODOS DE LA PREINSTRUCCIÓN
+### CAPÍTULO V. ACADEMIAS DE POLICÍA
 
 ###### ARTÍCULO 295.
 
 PREINSTRUCCIÓN. La preinstrucción principia con el auto de inicio y concluye con el que resuelve la situación jurídica del inculpado. Podrá comprender los períodos siguientes: 1) De orden de aprehensión o comparecencia. 2) Período constitucional.
 
-### CAPÍTULO II. AUTO DE INICIO
+### CAPÍTULO VI. UNIFORMES, INSIGNIAS, DIVISAS, CONDECORACIONES Y EQUIPO
 
 ###### ARTÍCULO 296.
 
@@ -2463,7 +3911,7 @@ El juzgador designará depositarios de bienes que no se puedan guardar en el juz
 
 V. CONSIGNACIÓN CON O SIN DETENIDO. Acordará lo conducente, según la consignación sea con o sin detenido.
 
-### CAPÍTULO III. PERÍODO DE ORDEN DE APREHENSIÓN O COMPARECENCIA
+### CAPÍTULO I. SISTEMA DE INFORMACIÓN ESTATAL DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 297.
 
@@ -2537,7 +3985,7 @@ Al citatorio se agregará copia de la orden y en aquel se prevendrá al inculpad
 
 Toda orden de comparecencia lleva implícitas estas prevenciones sin necesidad de que se consignen en ella. Si carece del domicilio del inculpado o no se encuentra a éste; el citatorio y la orden de comparecencia se cumplirán por la Policía del Estado; a las que se les comunicarán por conducto del Ministerio Público.
 
-### CAPÍTULO IV. PERÍODO CONSTITUCIONAL
+### CAPÍTULO II. DEL CENTRO DE MANDO Y COMUNICACIONES
 
 ###### ARTÍCULO 304.
 
@@ -2705,23 +4153,15 @@ OBLIGACIONES DEL INCULPADO SUJETO A PROCESO. Serán obligaciones de la persona i
 
 Si la persona inculpada sujeta a proceso incumple sin causa justificada cualquiera de sus obligaciones que se le impongan mediante arraigo, se procederá de acuerdo con la fracción VII del artículo 30.
 
-## TÍTULO CUARTO. FASE PROBATORIA Y FASE DE JUICIO
+## TÍTULO SEPTIMO. SERVICIOS DE SEGURIDAD PRIVADA
 
-### CAPÍTULO I. VÍAS PARA LAS FASES PROBATORIA Y DE JUICIO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+### CAPÍTULO III. REGISTRO ESTATAL DE DETENIDOS
 
 ###### ARTÍCULO 321.
 
 VIAS PARA LAS FASES PROBATORIA Y DE JUICIO. La fase probatoria y la del juicio se seguirán en la vía ordinaria o sumaria; según lo determine este código.
 
-### CAPÍTULO II. REGLAS COMUNES PARA LAS TRES VÍAS CON RELACIÓN A LA PRUEBA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+### CAPÍTULO IV. REGISTRO ESTATAL DE PERSONAL DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 322.
 
@@ -3627,11 +5067,7 @@ Los datos del hecho, de las circunstancias personales y del caso concreto en los
 
 DUDA RAZONABLE. Existirá duda razonable: 1) Cuando a la prueba del hecho se le oponga otra que no se pueda descartar razonablemente. 2) Cuando no se puedan descartar razonablemente uno o más contraindicios o motivos infirmantes.
 
-### CAPÍTULO III. VÍA ORDINARIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+### CAPÍTULO V. HOJA DE SERVICIO
 
 ###### ARTÍCULO 451.
 
@@ -4017,7 +5453,7 @@ Antes de que el juzgador declare que causó ejecutoria la sentencia, el secretar
 
 La declaración de que la sentencia causó ejecutoria no admite recurso.
 
-### CAPÍTULO IV. VÍA SUMARIA
+### CAPÍTULO VI. REGISTRO ESTATAL DE ARMAMENTO Y EQUIPO POLICIAL
 
 ###### ARTÍCULO 500.
 
@@ -4053,9 +5489,7 @@ En la audiencia final sólo se darán a conocer oralmente los puntos resolutivos
 
 RECURSOS. No se admitirá ningún recurso contra las resoluciones que se dicten en el proceso sumario; con excepción de los autos que decreten o nieguen el sobreseimiento por desistimiento de la acción penal.
 
-### CAPÍTULO V. VÍA DE OBLACIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+### CAPÍTULO VII. ESTADÍSTICA DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 505.
 
@@ -4073,9 +5507,9 @@ RECURSOS. No se admitirá ningún recurso contra las resoluciones que se dicten 
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-## TÍTULO QUINTO. SUSPENSIÓN Y SOBRESEIMIENTO DEL PROCESO
+## TÍTULO OCTAVO. INSTALACIONES ESTRATÉGICAS
 
-### CAPÍTULO I. SUSPENSIÓN DEL PROCESO
+### CAPÍTULO VIII. FUERZA PÚBLICA
 
 ###### ARTÍCULO 508.
 
@@ -4103,7 +5537,7 @@ La sustracción de un inculpado no impedirá que continúe el proceso respecto a
 
 REANUDACION DEL PROCESO. En cuanto desaparezcan las causas que motivaron la suspensión del proceso, se reanudará su curso, a petición de parte o de oficio; sin que se repitan las diligencias que ya se practicaron, a menos que el juzgador lo estime indispensable.
 
-### CAPÍTULO II. SOBRESEIMIENTO
+### CAPÍTULO ÚNICO. SERVICIOS DE ATENCIÓN A LA POBLACIÓN
 
 ###### ARTÍCULO 512.
 
@@ -4653,11 +6087,7 @@ Si la apelación se declara admisible, el ad quem ordenará al juez que le enví
 
 ## TÍTULO PRIMERO. INCIDENTES DE LIBERTAD
 
-### CAPÍTULO I. LIBERTAD PROVISIONAL BAJO CAUCIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+### CAPÍTULO ÚNICO. SERVICIO DE PROTECCIÓN Y SEGURIDAD PERSONAL
 
 ###### ARTÍCULO 584.
 
@@ -4941,7 +6371,7 @@ DISPOSICIONES APLICABLES PARA LA NUEVA LIBERTAD CAUCIONAL. Son aplicables a una 
 
 Si aquélla se revoca y se hace efectiva la garantía, su importe se aplicará a favor del fondo para mejorar la administración de justicia.
 
-### CAPÍTULO II. LIBERTAD POR DESVANECIMIENTO DE DATOS
+### CAPÍTULO ÚNICO. REGULACIÓN
 
 ###### ARTÍCULO 616.
 
@@ -4965,7 +6395,7 @@ EFECTOS DEL AUTO QUE CONCEDE LA LIBERTAD POR DESVANECIMIENTO DE DATOS. El auto q
 
 ## TÍTULO SEGUNDO. INCIDENTES DIVERSOS
 
-### CAPÍTULO I. EXCUSAS Y RECUSACIONES
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 621.
 
