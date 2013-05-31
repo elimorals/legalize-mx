@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-municipal-de-la-mujer-de-san-38247"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-04"
-last_updated: "2008-07-30"
+last_updated: "2013-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER DE SAN NICOLÁS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2013.
 
 Reglamento publicado en el Periódico Oficial de Estado de Nuevo León, el viernes 6 de febrero de 2004.
 
@@ -459,11 +459,11 @@ En la disposición sobre sus bienes muebles e inmuebles, el Instituto se regirá
 
 En el Presupuesto de Egresos del municipio, que anualmente apruebe el R. Ayuntamiento, se fijará el monto anual que como transferencia corresponderá al Instituto, sin perjuicio de que le sean asignados recursos adicionales.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 31.
 
-La Secretaría de Finanzas y Tesorería Municipal realizará las ministraciones iguales mensualmente a la cuenta del Instituto, dentro de los primeros diez días de cada mes.
+El presupuesto anual a que hace referencia el artículo anterior se dividirá en doce ministraciones, las cuales se entregarán durante los primeros diez días de cada mes por parte de el municipio. Solo en casos excepcionales la Secretaría de Finanzas y Tesorería podrá entregar el 50% antes del día 15 de cada mes, y el resto de la ministración antes del día último del mismo mes.
 
 ###### ARTÍCULO 32.
 
@@ -556,3 +556,7 @@ P.O. 30 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 2013.
+
+PRIMERO (SIC): La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
