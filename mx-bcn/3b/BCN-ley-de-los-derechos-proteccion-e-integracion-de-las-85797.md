@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2012-01-06"
+last_updated: "2013-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2013.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -251,9 +251,17 @@ IX. Visitas de inspección y vigilancia por parte de las dependencias estatales,
 
 X. Programas en los que las personas adultas mayores sean beneficiarias de créditos a bajas tasas o sean beneficiarios de subsidios, para la adquisición o mejoramiento de sus viviendas;
 
-XI. La difusión de esta ley para que la sociedad y las familias respeten a los adultos mayores e invariablemente otorguen el reconocimiento a su dignidad; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2013)</small>
 
-XII. A través del Ejecutivo Estatal, en el ámbito de su competencia y de conformidad con las disposiciones legales, aportará los recursos materiales, humanos, técnicos y financieros que sean necesarios y su disponibilidad presupuestal le permita, para implementar programas que incentiven la integración social de las personas adultas mayores.
+XI. La difusión de esta ley para que la sociedad y las familias respeten a los adultos mayores e invariablemente otorguen el reconocimiento a su dignidad;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2013)</small>
+
+XII. A través del Ejecutivo Estatal, en el ámbito de su competencia y de conformidad con las disposiciones legales, aportará los recursos materiales, humanos, técnicos y financieros que sean necesarios y su disponibilidad presupuestal le permita, para la construcción y apertura de asilos públicos e implementar programas que incentiven la integración social de las personas adultas mayores; y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2013)</small>
+
+XIII. Que toda institución pública que brinde servicios al público, cuente con una ventanilla de atención preferente para las personas adultas mayores.
 
 ###### Artículo 18.
 
@@ -285,9 +293,17 @@ VII. Realizar visitas de inspección y vigilancia a casas hogar, albergues, resi
 
 VIII. Denunciar ante las autoridades competentes, las irregularidades de las cuales se percate, como resultado de la inspección y vigilancia, mencionadas en la fracción anterior;
 
-IX. Impulsar exenciones fiscales permitidas conforme a la ley de la materia, dirigidas a las personas adultas mayores, y a las personas que efectúen donaciones en especie o en efectivo a casas hogar, albergues, residencias, guarderías o cualquier otro centro de atención de personas adultas mayores; cuyo objeto sea el de prestarles servicios de protección, asistencia, cuidados físicos, psicológicos y sociales; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2013)</small>
 
-X. Las demás que le confieran esta ley y otros ordenamientos legales y reglamentarios sobre la materia.
+IX. Impulsar exenciones fiscales permitidas conforme a la ley de la materia, dirigidas a las personas adultas mayores, y a las personas que efectúen donaciones en especie o en efectivo a casas hogar, albergues, residencias, guarderías o cualquier otro centro de atención de personas adultas mayores; cuyo objeto sea el de prestarles servicios de protección, asistencia, cuidados físicos, psicológicos y sociales;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2013)</small>
+
+X. Implementar en las dependencias y entidades que presten servicios al público, una ventanilla de atención preferente para las personas adultas mayores; y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2013)</small>
+
+XI. Las demás que le confieran esta ley y otros ordenamientos legales y reglamentarios sobre la materia.
 
 ###### Artículo 21.
 
@@ -567,6 +583,20 @@ IV (SIC). Establecer convenios de coordinación con empresas del ramo, para ofre
 
 IV. Para garantizar el derecho a la recreación y turismo, difundirá permanentemente a través de los medios masivos de comunicación, las actividades turísticas que se realizan a favor de las personas adultas mayores.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE MAYO DE 2013)</small>
+
+#### SECCIÓN IX. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2013)</small>
+
+Artículo 44 BIS.- Corresponde a la Secretaría de Desarrollo Económico:
+
+I.- Proponer la implementación de medidas fiscales y no fiscales que incentiven la contratación de personas adultas mayores;
+
+II.- Promover que en los proyectos de inversión a que se refiere la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado, se comprenda la contratación de personas adultas mayores; y
+
+III.- Impulsar cualquier tipo de medida con el fin de que el sector empresarial otorgue más y mejores prestaciones laborales para las personas adultas mayores.
+
 ## TÍTULO QUINTO. CONSEJO ESTATAL PARA LA PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES
 
 ### CAPÍTULO I. DE SU NATURALEZA, OBJETO Y FUNCIONES
@@ -794,3 +824,9 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE MAYO DE 2013.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
