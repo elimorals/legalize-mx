@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-salud-para-el-municipio-de-rosamorada-nayarit-774
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-13"
-last_updated: "2012-07-28"
+last_updated: "2013-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77453&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "NAY"
 
 REGLAMENTO DE SALUD PARA EL MUNICIPIO DE ROSAMORADA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2013.
 
 Reglamento publicado en la Sección Octava del Periódico Oficial del Estado de Nayarit, el sábado 13 de noviembre de 2010.
 
@@ -150,7 +150,7 @@ Para los efectos del presente ordenamiento, por control sanitario se entiende el
 
 Los establecimientos y servicios señalados en el artículo 13 del presente reglamento, requieren para su funcionamiento de autorización previa del Ayuntamiento y deberán dar aviso por escrito a los Servicios de Salud en Nayarit 30 días antes del inicio de operaciones, en términos que dispone la Ley de Salud para el Estado.
 
-### CAPITULO IV. DISPOSICIONES ESPECIALES PARA ESTABLECIMIENTOS SERVICIOS Y GIROS
+### CAPITULO IV. DISPOSICIONES ESPECIALES PARA ESTABLECIMIENTOS, SERVICIOS Y GIROS
 
 (A) MERCADOS, TIANGUIS Y CENTROS DE ABASTO
 
@@ -266,9 +266,9 @@ II. Tener limpias las banquetas y el arroyo de las calles frente a sus domicilio
 
 III. Participar en las campañas de limpieza que convoque la autoridad mpal.
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 1 DE JUNIO DE 2013)</small>
 
-IV. Mantener los patios y solares baldíos barridos, desyerbados, ordenado, evitando tiraderos de agua, tapar los depósitos de agua; lavarlos por los menos una vez al mes los tambos y otros recipientes, de no ser usados tenerlos boca abajo y resguardar bajo techo objetos que acumulen agua.
+IV. Mantener los patios y solares baldíos barridos, desyerbados, ordenado, evitando tiraderos de agua, tapar los depósitos de agua; lavarlos por lo menos una vez al mes los tambos y otros recipientes, de no ser usados tenerlos boca abajo y resguardar bajo techo objetos que acumulen agua.
 
 ###### ARTICULO 36.
 
@@ -634,15 +634,15 @@ En el Municipio de Rosamorada no se concederá ninguna licencia de gasolinera o 
 
 El Presidente Municipal por si a (sic) través de las (sic) Dirección de Salud Municipal, Arquitectura o de Protección Civil, tendrá en todo tiempo la facultad permanente de indicar a los propietarios o responsables de la (sic) gasolineras o gaseras, las medidas que considere necesarias para prevenir y combatir siniestros.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2013)</small>
 
 La multa administrativa podrá ser de 1 hasta 100 veces el salario mínimo vigente en la zona del Municipio de Rosamorada, Nayarit, de acuerdo a la gravedad de la falta cometida, el peligro expuesto, la naturaleza y el tipo de giro o establecimiento y a la capacidad económica del infractor. Si se tratare de vendedores ambulantes de escasos recursos, la multa no excederá de un día de salario.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2013)</small>
 
 Para dar seguimiento a la solución del problema, se procederá al trámite administrativo; se hará llegar a su domicilio un requerimiento expedido por el fiscal de salud municipal, dando un plazo máximo de 10 días para la solución por parte del infractor, de hacer caso omiso se procederá a la aplicación de la sanción durante el periodo de 5 días posteriores al termino del tiempo señalado para la solución del problema.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2013)</small>
 
 En caso de reincidencia se aplicara al infractor hasta el doble de la sanción que se haya hecho acreedora con antelación y si se percibe en la misma falta se sancionara con la cancelación de la licencia o permiso, o clausura del establecimiento.
 
@@ -899,3 +899,7 @@ ATENTAMENTE SEFRAGIO (SIC) EFECTIVO NO REELECCIÓN, ING. ROMÁN VILLELA MALLORQU
 P.O. 28 DE JULIO DE 2012.
 
 Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 1 DE JUNIO DE 2013.
+
+UNICO.- El presente Reglamento entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
