@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-del-comite-de-obra-publica-y-servicios-76908"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-28"
-last_updated: "2010-08-28"
+last_updated: "2013-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DEL COMITE DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL MUNICIPIO DE MUNICIPIO DE JALPA DE MENDEZ, TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL COMITÉ DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LAS MISMAS, DEL MUNICIPIO DE JALPA DE MENDEZ, TABASCO, PUBLICADO EN EL P.O. DE 1 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL COMITE DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL MUNICIPIO DE JALPA DE MENDEZ, TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de agosto de 2010.
 
@@ -830,3 +832,21 @@ Y EN CUMPLIMIENTO DE LO DISPUESTO POR EL ARTICULO 48 DE LA LEY ORGANICA DE LOS M
 Ing. Audemar Coronel González
 
 Secretario del Ayuntamiento
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JUNIO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DEL COMITÉ DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LAS MISMAS, DEL MUNICIPIO DE JALPA DE MENDEZ, TABASCO".]
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento del Comité de Obra Pública del municipio de Jalpa de Méndez, Tabasco, Publicado en el Suplemento 7093 del Periódico Oficial del Estado de Tabasco, Número 26904 de fecha 28 de agosto de 2010 y todas aquellas disposiciones que se opongan él lo ordenado (sic) en el presente Reglamento.
+
+###### ARTICULO TERCERO.
+
+En todo lo no previsto por este Reglamento, se estará a lo dispuesto en la Ley de Obras Públicas y Servicios Relacionados con las mismas del Estado de Tabasco; y su Reglamento.
