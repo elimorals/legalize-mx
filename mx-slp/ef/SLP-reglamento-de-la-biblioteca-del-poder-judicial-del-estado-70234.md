@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-biblioteca-del-poder-judicial-del-estado-70234
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-08"
-last_updated: "2009-09-08"
+last_updated: "2013-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO DE LA BIBLIOTECA DEL PODER JUDICIAL DEL ESTADO "LIC. JOSE FRANCISCO PEDRAZA MONTES"
 
-REGLAMENTO DE LA BIBLIOTECA DEL PODER JUDICIAL DEL ESTADO "LIC. JOSE FRANCISCO PEDRAZA MONTES"
+REGLAMENTO DE LA BIBLIOTECA DEL PODER JUDICIAL DEL ESTADO "LIC. JOSÉ FRANCISCO PEDRAZA MONTES"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2013.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el martes 8 de septiembre de 2009.
 
@@ -257,11 +257,13 @@ XIII. Usar las instalaciones para fines ajenos a la Biblioteca.
 
 DE LA PRESTACIÓN DE LOS SERVICIOS DE LA BIBLIOTECA.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2013)</small>
+
 ###### Artículo 16.
 
 La Biblioteca brindará sus servicios, en días hábiles, bajo el siguiente horario:
 
-De lunes a jueves de 8:00 a 14:30 horas; viernes de 8:00 a 14:00 horas; de lunes a viernes de 18:00 a 20:00 horas y los sábados de 9:00 a 12:00 horas.
+De lunes a jueves de 8:00 a 16:00 horas; viernes de 8:00 a 14:00 horas; y los sábados de 9:00 a 12:00 horas.
 
 ###### Artículo 17.
 
@@ -488,3 +490,11 @@ LIC. JUAN MIGUEL CHAVEZ VAZQUEZ.
 Secretario Ejecutivo de Pleno y Carrera Judicial del Consejo de la Judicatura.
 
 (Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JUNIO DE 2013.
+
+PRIMERO.- Con apoyo en el artículo 93 último párrafo de la Ley Orgánica del Poder Judicial del Estado, se ordena la publicación del presente acuerdo en el Periódico Oficial del Estado.
+
+SEGUNDO.- Este acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
