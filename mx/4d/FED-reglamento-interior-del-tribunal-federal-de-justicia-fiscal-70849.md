@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2013-05-17"
+last_updated: "2013-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -583,7 +583,9 @@ XI. Región Hidalgo-México: Tres Salas que se denominarán, “Primera Sala Reg
 
 XII. Región de Oriente: Una Sala que se denominará, "Sala Regional de Oriente" con sede en la Ciudad de Puebla, Estado de Puebla;
 
-XIII. Región del Golfo: Dos Salas que se denominarán, “Primera Sala Regional del Golfo” y “Segunda Sala Regional del Golfo”, ambas con sede en la Ciudad de Jalapa, Estado de Veracruz;
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2013)</small>
+
+XIII. Región del Golfo: Una Sala que se denominará “Sala Regional del Golfo”, con sede en la Ciudad de Jalapa, Estado de Veracruz;
 
 XIV. Región del Pacífico: Una Sala que se denominará “Sala Regional del Pacífico”, con sede en la Ciudad de Acapulco, Estado de Guerrero;
 
@@ -619,17 +621,19 @@ I.- Una Sala Especializada en Materia de Propiedad Intelectual, con sede en el D
 
 II.- Una Sala Especializada en Juicios en Línea, con sede en el Distrito Federal, con competencia exclusiva para tramitar y resolver, en todo el territorio nacional, de los juicios en línea o bien de los que conforme a la Ley Federal de Procedimiento Contencioso Administrativo se deban tramitar de manera simultánea en línea y en la vía tradicional, que se promuevan en los supuestos señalados en los artículos 14 y 15 de la Ley, sin perjuicio de que la Sala Especializada en Materia de Propiedad Intelectual conozca de los juicios de su competencia que se tramiten en cualquiera de las vías señaladas;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2013)</small>
 
-III.- Una Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, con sede en el Distrito Federal, que tendrá competencia material en todo el territorio nacional para tramitar y resolver los juicios que se promuevan contra resoluciones definitivas, actos administrativos y procedimientos, que encuadren en los supuestos previstos por las fracciones III, XI, XII y XIV, penúltimo y último párrafo, del artículo 14 de la Ley, dictadas por los Organos Reguladores a que se refiere esta fracción, así como por las Secretarías de Estado y entidades de la Administración Pública Federal directamente relacionadas con las materias que sean competencia de los Organos Reguladores de la Actividad del Estado. Para los efectos de esta fracción, los Organos Reguladores de la Actividad del Estado son únicamente los siguientes:
+III.- Una Sala Especializada en Materia Ambiental y de Regulación, con sede en el Distrito Federal, que tendrá competencia material en todo el territorio nacional para:
 
-a) Comisión Federal de Competencia (CFC), en lo que resulte competente
+1) Tramitar y resolver los juicios que se promuevan contra resoluciones definitivas, actos administrativos y procedimientos, que encuadren en los supuestos previstos por las fracciones III, XI, XII y XIV, penúltimo y último párrafo, del artículo 14 de la Ley, dictadas por los Órganos Reguladores a que se refiere esta fracción, Secretarías de Estado, entidades de la Administración Pública Federal, así como por las entidades federativas en los casos de coordinación y concurrencia previamente establecidos en la legislación correspondiente, directamente relacionadas con las materias que sean competencia de los Órganos Reguladores de la Actividad del Estado. Para los efectos de esta fracción, los Órganos Reguladores de la Actividad del Estado son únicamente los siguientes:
 
-b) Comisión Federal de Mejora Regulatoria (COFEMER)
+a) Comisión Federal de Competencia (CFC), en lo que resulte competente.
+
+b) (DEROGADO, D.O.F. 3 DE JUNIO DE 2013)
 
 c) Comisión Federal de Telecomunicaciones (COFETEL)
 
-d) Comisión Federal para la Protección contra Riesgos Sanitarios (COFEPRIS) en lo que resulte competente y no sea del conocimiento de la Sala Especializada en Propiedad Intelectual
+d) Comisión Federal para la Protección contra Riesgos Sanitarios (COFEPRIS) en lo que resulte competente y no sea del conocimiento de la Sala Especializada en Propiedad Intelectual.
 
 e) Comisión Nacional Bancaria y de Valores (CNBV)
 
@@ -643,7 +647,7 @@ i) Comisión Nacional de Seguridad Nuclear y Salvaguardias (CNSNS)
 
 j) Comisión Nacional de Seguros y Fianzas (CNSF)
 
-k) (DEROGADO, D.O.F. 8 DE FEBRERO DE 2012)
+k) (DEROGADO, D.O.F. 3 DE JUNIO DE 2013)
 
 l) Comisión Nacional del Sistema de Ahorro para el Retiro (CONSAR)
 
@@ -651,15 +655,21 @@ m) Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios
 
 n) Comisión Reguladora de Energía (CRE)
 
+ñ) Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA)
+
+2) Tramitar y resolver los juicios que se promuevan contra resoluciones definitivas, actos administrativos y procedimientos, que encuadren en los supuestos previstos por las fracciones III, XI, XII y XIV, penúltimo y último párrafo, del artículo 14 de la Ley, dictadas con fundamento en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en la Ley General de Desarrollo Forestal Sustentable, Ley General de Vida Silvestre, Ley General para la Prevención y Gestión Integral de Residuos, Ley de Bioseguridad de Organismos Genéticamente Modificados, Ley General de Cambio Climático, así como en los demás ordenamientos que regulan la materia de Protección al Medio Ambiente, o que tengan alguna injerencia en la citada materia, que no sea del conocimiento de la Sala Especializada en Propiedad Intelectual.
+
+3) Tramitar y resolver los juicios que se promuevan contra normas oficiales mexicanas publicadas en el Diario Oficial de la Federación, cuando sean autoaplicativas o cuando se controviertan en unión o con motivo del primer acto de aplicación, de conformidad con lo previsto por el artículo 2o. de la Ley.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ENERO DE 2013)</small>
 
 ###### Artículo 23
 
 Bis.- El Tribunal contará con las Salas Auxiliares siguientes, cuya denominación y sede serán:
 
-> <small>(REFORMADA, D.O.F. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2013)</small>
 
-I. Primera Sala Auxiliar, con sede en San Andrés Cholula, Estado de Puebla;
+I. Primera Sala Auxiliar, con sede en la Ciudad de México, Distrito Federal.
 
 II. (DEROGADA, D.O.F. 18 DE SEPTIEMBRE DE 2012)
 
@@ -670,6 +680,14 @@ III. Tercera Sala Auxiliar, con sede en la Ciudad de Torreón, Estado de Coahuil
 (ADICIONADA, D.O.F. 8 DE ENERO DE 2013) (F. DE E., D.O.F. 18 DE ENERO DE 2013)
 
 IV. Cuarta Sala Auxiliar, con sede en la ciudad de Victoria de Durango, Estado de Durango, que será la Sala Regional del Norte-Centro III, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21, fracción XXII, y 22, fracción XXII, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
+
+> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2013)</small>
+
+V. Quinta Sala Auxiliar, con sede en la ciudad de Jalapa, Estado de Veracruz.
+
+> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2013)</small>
+
+VI. Sexta Sala Auxiliar, con sede en la ciudad de Morelia, Estado de Michoacán, que será la Sala Regional del Pacífico-Centro, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21, fracción XXI, y 22, fracción XXI, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2012)</small>
 
@@ -2678,3 +2696,43 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en este ordenamiento.
 
 TERCERO.- Los documentos emitidos por las Unidades Administrativas que desaparecen en virtud del presente Acuerdo, continuarán vigentes hasta en tanto los mismos no sean sustituidos por las Unidades Administrativas competentes establecidas en el presente ordenamiento.
+
+D.O.F. 3 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Pleno de la Sala Superior, en su integración de once Magistrados, determinará las Salas Regionales que serán apoyadas por la Primera, Tercera, Cuarta, Quinta y Sexta Salas Auxiliares, así como el número de asuntos que le serán enviados.
+
+TERCERO.- En términos de lo señalado por el artículo 41, fracciones I y IV, de la Ley Orgánica del Tribunal, la Junta de Gobierno y Administración determinará la redistribución de los expedientes en trámite y concluidos que se encuentren radicados en la actual Segunda Sala Regional del Golfo, con sede en Jalapa, Estado de Veracruz, a fin de garantizar una equitativa división de las cargas de trabajo. Asimismo, deberá dictar los demás acuerdos que sean necesarios para la consecución del objetivo de este Acuerdo.
+
+CUARTO.- La Primera Sala Auxiliar, con sede en la Ciudad de México, Distrito Federal, iniciará sus funciones conforme a lo establecido en este Acuerdo, el 1o. de julio de 2013.
+
+QUINTO.- La Quinta Sala Auxiliar, con sede en la Ciudad de Jalapa, Estado de Veracruz, iniciará sus funciones el 1o. de julio de 2013.
+
+SEXTO.- La Sexta Sala Auxiliar, con sede en la Ciudad de Morelia, Estado de Michoacán, iniciará sus funciones el 1o. de julio de 2013.
+
+SÉPTIMO.- La Sala Especializada en Materia Ambiental y de Regulación conocerá de los juicios en los que se actualice la competencia establecida en este acuerdo a partir del 1o. de julio de 2013, y de igual forma desde esa fecha deberá emplearse el cambio de denominación de la Sala, para lo cual la (sic) se establece como clave de identificación de la Sala Especializada la siguiente: "EAR".
+
+OCTAVO.- Los juicios interpuestos en contra de las resoluciones administrativas emitidas en materia ambiental, aquellas dictadas por el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA) y las referidas a las normas oficiales mexicanas, en los términos del presente Acuerdo, y que a la fecha de entrada en vigor del presente acuerdo se encuentren en trámite, estarán sujetos a lo siguiente:
+
+I. Las Salas Regionales emitirán la sentencia que corresponda en aquéllos juicios que tengan radicados y que al 31 de mayo de 2013 haya concluido la substanciación del procedimiento, de acuerdo con lo previsto en el artículo 47 de la Ley Federal de Procedimiento Contencioso Administrativo, independientemente de que se haya dictado o no el acuerdo de cierre de instrucción.
+
+Para tales efectos, la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones (SOTIC) informará a las Salas Regionales la cantidad de expedientes que se encuentren en tales supuestos. La Junta de Gobierno y Administración del Tribunal se encargará de dar seguimiento al cumplimiento del presente Acuerdo.
+
+II. A partir del 17 de junio de 2013, las Salas Regionales remitirán a la Sala Especializada en Materia Ambiental y de Regulación los juicios que tengan radicados en los cuales al primer día hábil de junio no hubiese concluido su substanciación, previa emisión y notificación que hagan a las partes por Boletín Electrónico del acuerdo de cambio de radicación, dicha remisión se hará con base en el Acuerdo que emita la Junta de Gobierno y Administración, que se fije en un lugar visible de cada Sala Regional.
+
+III. A partir del 1o. de julio de 2013, las demandas nuevas que corresponda conocer a la Sala Especializada en Materia Ambiental y de Regulación, derivado de la ampliación de su competencia, se deberán presentar en la sede de la misma, a través de la Oficialía de Partes de las Salas Especializadas, personalmente o por correo certificado en términos del artículo 13 de la Ley Federal de Procedimiento Contencioso Administrativo. En caso de que se presenten en otra Sala Regional, ésta deberá remitirlas a la Sala Especializada en Materia Ambiental y de Regulación.
+
+IV. Las demandas interpuestas en contra de las resoluciones administrativas emitidas en materia ambiental, aquéllas dictadas por el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA) y las referidas a las normas oficiales mexicanas, que ingresen en el mes de junio de 2013, deberán ser presentadas en la Oficialía de Partes que corresponda en términos de lo previsto por el artículo 34 de la Ley Orgánica de este Tribunal, a efecto de que la Sala Regional provea lo conducente, y a partir del 1o. de julio de 2013, el Magistrado Instructor deberá emitir el acuerdo por el que ordene la remisión de los autos del juicio a la Sala Especializada en Materia Ambiental y de Regulación.
+
+V. No serán remitidos a la Sala Especializada en Materia Ambiental y de Regulación aquéllos juicios que ya hubiesen sido resueltos, ya sea que la sentencia respectiva hubiere quedado firme, o bien, se encuentre pendiente de resolución algún medio de defensa. Dichos expedientes permanecerán en las Salas Regionales hasta su total conclusión.
+
+VI. En cualquier caso, se podrá solicitar a la Sala Superior que ejerza su facultad de atracción en aquéllos asuntos que sean representativos para fijar los criterios en las materias competencia de la Sala Especializada en Materia Ambiental y de Regulación, que permitan resolver los juicios con mayor celeridad, y conforme a los criterios establecidos en el artículo 48 de la Ley Federal de Procedimiento Contencioso Administrativo.
+
+NOVENO.- Quedan sin efecto las disposiciones emitidas por la Junta de Gobierno y Administración, por el Pleno Jurisdiccional o por la propia Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa que se opongan a los términos del presente Acuerdo.
+
+DÉCIMO.- La Junta de Gobierno y Administración emitirá el Acuerdo respectivo, en el que establecerá el procedimiento de identificación, remisión y distribución de expedientes radicados en las Salas Regionales que serán materia de competencia de la Sala Especializada en Materia Ambiental y de Regulación.
+
+DÉCIMO PRIMERO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+DÉCIMO SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
