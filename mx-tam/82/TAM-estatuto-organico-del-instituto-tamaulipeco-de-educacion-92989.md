@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-del-instituto-tamaulipeco-de-educacion-92989"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-02-26"
-last_updated: "2013-02-26"
+last_updated: "2013-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO TAMAULIPECO DE EDUCACION PARA ADULTOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO TAMAULIPECO DE EDUCACIÓN PARA ADULTOS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE JUNIO DE 2013.</small>
 
 Estatuto publicado en el Anexo al Periódico Oficial del Estado de Tamaulipas, el martes 26 de febrero de 2013.
 
@@ -305,7 +305,9 @@ La Junta Directiva podrá contar con un Consejo, que estará integrado por espec
 
 La Junta Directiva, tendrá las siguientes facultades:
 
-I. Establecer las políticas del Instituto, atendiendo los lineamientos emitidos por el Instituto Nacional para la Educación de los Adultos y la Secretaría de Educación, Cultura y Deporte.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2013)</small>
+
+I. Establecer las políticas del Instituto, atendiendo los lineamientos emitidos por el Instituto Nacional para la Educación de los Adultos y la Secretaría de Educación.
 
 II. Determinar el establecimiento de unidades administrativas en cualquier municipio del Estado, para el mejor cumplimiento de sus objetivos;
 
@@ -513,13 +515,17 @@ I. Ser representante legal del Instituto, como apoderado para pleitos y cobranza
 
 II. Dirigir Técnica y Administrativamente al Instituto.
 
-III. Proponer a la Junta Directiva, el establecimiento de las unidades administrativas necesarias para el desarrollo de las actividades del Instituto, conforme a la normatividad interior y a las políticas, lineamientos y criterios generales que establezca el Instituto Nacional para la Educación de los Adultos y la Secretaría de Desarrollo Social del Estado.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2013)</small>
+
+III. Proponer a la Junta Directiva, el establecimiento de las unidades administrativas necesarias para el desarrollo de las actividades del Instituto, conforme a la normatividad interior y a las políticas, lineamientos y criterios generales que establezca el Instituto Nacional para la Educación de los Adultos y la Secretaría de Educación del Estado.
 
 IV. Proponer a la Junta Directiva, la designación de los servidores públicos del Instituto de conformidad a las disposiciones aplicables;
 
 V. Cumplir y hacer cumplir la legislación aplicable al Instituto, así como los acuerdos que emita la Junta Directiva.
 
-VI. Proponer a la Junta Directiva los proyectos de estatuto y organización administrativa en los términos de las políticas y lineamientos generales que emita el Instituto Nacional para la Educación de los Adultos y la Secretaría de Desarrollo Social del Estado.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2013)</small>
+
+VI. Aprobar a la Junta Directiva los proyectos de estatuto y organización administrativa en los términos de las políticas y lineamientos generales que emita el Instituto Nacional para la Educación de los Adultos y la Secretaría de Educación del Estado.
 
 VII. Elaborar y presentar, para su aprobación, los proyectos, programas, planes y presupuestos a la Junta Directiva del Instituto.
 
@@ -641,9 +647,11 @@ XI. Las demás que les señale el Director General o les confieran otros ordenam
 
 ### CAPÍTULO III. FUNCIÓN GENERAL DE LAS COORDINACIONES DE ZONA
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 28.
 
-Las Coordinaciones de Zona, dependen de la Coordinación de Enlace; y tendrán como función general, atender el rezago educativo existente en la zona asignada a través de la promoción y difusión de los programas del Instituto Tamaulipeco de Educación para Adultos; atendiendo a personas mayores de 15 años que por algún motivo no han concluido la educación básica y de ésta manera por (sic) disminuir el rezago educativo en el Estado; así como administrar los recursos financieros, humanos, materiales y servicios generales.
+Las Coordinaciones de Zona, dependerán directamente de la Dirección General y de manera coordinada estarán con constante relación con la Coordinación de Enlace; así como se interrelacionará con las distintas Direcciones y Áreas del Instituto, y tendrán como función general, atender el rezago educativo existente en la zona asignada a través de la promoción y difusión de los programas del Instituto Tamaulipeco de Educación para Adultos; atendiendo a personas mayores de 15 años que por algún motivo no han concluido la educación básica y de ésta manera por (sic) disminuir el rezago educativo en el Estado; así como administrar los recursos financieros, humanos, materiales y servicios generales.
 
 ## TÍTULO IV. DE LAS ATRIBUCIONES GENERALES DE LAS COORDINACIONES DE ZONA
 
@@ -989,9 +997,11 @@ El Departamento de Apoyo Institucional, tendrá las siguientes funciones especí
 
 ### CAPÍTULO V. DE LA DIRECCIÓN DE ADMINISTRACIÓN
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 45.
 
-La Dirección de Administración, tiene como función básica planear, organizar, dirigir y controlar las actividades vinculadas con los recursos humanos, financieros, adquisiciones, recursos materiales y servicios generales del Instituto, estableciendo y ejecutando estrategias de administración que permitan eficientar los recursos, con el propósito de contribuir en el cumplimiento de los objetivos y metas del mismo.
+La Dirección de Administración, dependerá de la Dirección General, tiene como función básica planear, organizar, dirigir y controlar las actividades vinculadas con los recursos humanos, financieros, adquisiciones, recursos materiales y servicios generales del Instituto, estableciendo y ejecutando estrategias de administración que permitan eficientar los recursos, con el propósito de contribuir en el cumplimiento de los objetivos y metas del mismo.
 
 ###### ARTÍCULO 46.
 
@@ -1169,9 +1179,11 @@ El Departamento de Adquisiciones, tendrá las siguientes funciones específicas:
 
 ### CAPÍTULO VI. DE LA DIRECCIÓN DE PLANEACIÓN
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 55.
 
-La Dirección de Planeación, tiene como función básica planear y evaluar estratégicamente las acciones dirigidas al cumplimiento de metas del organismo, estableciendo mecanismos con base a la disponibilidad federal y estatal, así como llevar el control de dichos recursos, vigilando que se ejerzan para lo que están destinados, regulando las acciones implementadas con la finalidad de brindar un servicio de calidad a la población objetivo.
+La Dirección de Planeación, dependerá de la Dirección General, tiene como función básica planear y evaluar estratégicamente las acciones dirigidas al cumplimiento de metas del organismo, estableciendo mecanismos con base a la disponibilidad federal y estatal, así como llevar el control de dichos recursos, vigilando que se ejerzan para lo que están destinados, regulando las acciones implementadas con la finalidad de brindar un servicio de calidad a la población objetivo.
 
 ###### ARTÍCULO 56.
 
@@ -1285,9 +1297,11 @@ El Departamento de Evaluación, tendrá las siguientes funciones específicas:
 
 ### CAPÍTULO VII. DE LA DIRECCIÓN DE CERTIFICACIÓN
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 61.
 
-La Dirección de Certificación, tiene como función básica diseñar, implementar y dar seguimiento a las acciones que aseguren la calidad en la prestación de los servicios de inscripción y certificación, atendiendo las necesidades de las personas jóvenes y adultas que hacen uso de los servicios educativos del organismo.
+La Dirección de Certificación, dependerá de la Dirección General, tiene como función básica diseñar, implementar y dar seguimiento a las acciones que aseguren la calidad en la prestación de los servicios de inscripción y certificación, atendiendo las necesidades de las personas jóvenes y adultas que hacen uso de los servicios educativos del organismo.
 
 ###### ARTÍCULO 62.
 
@@ -1351,13 +1365,11 @@ El Departamento de Acreditación, tendrá las siguientes funciones específicas:
 
 ### CAPÍTULO VII.II. DEPARTAMENTO DE CERTIFICACIÓN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., 4 DE JUNIO DE 2013)</small>
 
-###### ARTÍCULO 65.
+###### ARTICULO 65.
 
-El Departamento de Certificación, dependerá de la Dirección de Certificación, tiene como función básica; organizar y coordinar las actividades de los procesos de acreditación y evaluación del aprendizaje, que coadyuven al cumplimiento de las normas establecidas por el INEA, implementando estrategias que aseguren el control y funcionamiento de los servicios educativos, administrativos y de gestión.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+El Departamento de Certificación, dependerá de la Dirección de Certificación, tiene como función básica; emitir los certificados y certificaciones de estudio, supervisando que la documentación enviadas (sic) por las coordinaciones de zona para la emisión sea conforme a la normatividad vigente, así como implementar estrategias para el cumplimiento de las normas establecidas que aseguren la calidad en los procesos de certificación.
 
 ###### ARTÍCULO 66.
 
@@ -1365,25 +1377,37 @@ El Departamento de Certificación, tendrá las siguientes funciones específicas
 
 1.- Elaborar el programa anual de trabajo del área a cargo, informando periódicamente del cumplimiento del mismo.
 
-2.- Recibir de oficinas centrales INEA el material de acreditación y distribuir a las coordinaciones de zona, para su oportuna utilización, implementando acciones que indiquen el índice de utilización y desperdicio del mismo.
+> <small>(F. DE E., 4 DE JUNIO DE 2013)</small>
 
-3.- Elaborar estadísticas mensuales y acumuladas, respecto a los logros de acreditación en exámenes presentados y acreditados, Usuarios que Concluyen Nivel, UCN'S, concentrados por coordinación de zona, microregión e instituto estatal de los diferentes subproyectos.
+2.- Brindar un servicio oportuno en la expedición de certificados y certificaciones de estudio, en apego a los lineamientos establecidos
 
-4.- Analizar y proporcionar el índice de acreditación por coordinación de zona estatal por módulo y eje, para coadyuvar en la toma de decisiones.
+> <small>(F. DE E., 4 DE JUNIO DE 2013)</small>
 
-5.- Verificar la actualización del banco de aplicadores y sedes de aplicación registradas por las coordinaciones de zona en el Sistema Automatizado de Seguimiento y Acreditación en Línea (SASA OL).
+3.- Resguardar los formatos oficiales de certificados y certificaciones de estudio recibidos por oficinas centrales del INEA.
 
-6.- Operar y administrar el Sistema Automatizado de Exámenes en Línea (SAEL).
+> <small>(F. DE E., 4 DE JUNIO DE 2013)</small>
 
-7.- Revisar los listados de apoyo a voluntarios, para las figuras solidarias que facilitan los procesos de formación y aplicación evaluativa de la educación para adultos en las coordinaciones de zona.
+4.- Conocer y operar los módulos del Sistema Automatizado de Seguimiento y Acreditación en Línea (SASA OL), que la normatividad indica para las funciones relacionadas con la certificación de estudios.
 
-8.- Analizar y turnar para su trámite a la Dirección de Área los casos considerados como especiales; así como dar seguimiento una vez resueltos por las Oficinas Centrales del INEA.
+> <small>(F. DE E., 4 DE JUNIO DE 2013)</small>
 
-9.- Analizar los resultados de las aplicaciones de exámenes para la detección de problemáticas específicas en las coordinaciones de zona, diseñando estrategias y acciones para la solución de las mismas.
+5.- Conformar y elaborar el archivo histórico de certificación.
 
-10.- Informar permanentemente al área superior inmediata de las actividades programadas, en proceso y concluidas, con la finalidad de unificar criterios para el cumplimiento de los objetivos.
+> <small>(F. DE E., 4 DE JUNIO DE 2013)</small>
 
-11.- Realizar las demás funciones que en el ámbito de su competencia le delegue la superioridad.
+6.- Analizar y brindar solución a los casos considerados especiales para trámites de certificación.
+
+> <small>(F. DE E., 4 DE JUNIO DE 2013)</small>
+
+7.- Elaborar estadísticas mensuales y acumuladas, respecto a las emisiones de certificados y certificaciones de estudio, concentradas por coordinación de zona, microregión e instituto estatal.
+
+> <small>(F. DE E., 4 DE JUNIO DE 2013)</small>
+
+8.- Informar permanentemente al área superior inmediata de las actividades programadas, en proceso y concluidas, con la finalidad de unificar criterios para el cumplimiento de los objetivos.
+
+> <small>(F. DE E., 4 DE JUNIO DE 2013)</small>
+
+9.- Realizar las demás funciones que en el ámbito de su competencia le delegue la superioridad.
 
 ### CAPÍTULO VIII. DE LA DIRECCIÓN DE INFORMÁTICA
 
@@ -1493,9 +1517,11 @@ El Departamento de Sistemas; tendrá las siguientes funciones específicas:
 
 ### CAPÍTULO IX. DE LA DIRECCIÓN DE OPERACIÓN EDUCATIVA
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 73.
 
-La Dirección de Operación Educativa, tiene como función básica propiciar y realizar la adecuada coordinación del área así como establecer políticas y estrategias que alienten la eficacia y eficiencia académica-operativa del Instituto, que permitan el logro de los objetivos y metas programadas.
+La Dirección de Operación Educativa, dependerá de la Dirección General, tiene como función básica propiciar y realizar la adecuada coordinación del área así como establecer políticas y estrategias que alienten la eficacia y eficiencia académica-operativa del Instituto, que permitan el logro de los objetivos y metas programadas.
 
 ###### ARTÍCULO 74.
 
@@ -2371,13 +2397,25 @@ Quienes incurran en las conductas anteriores, podrán ser removidos de sus cargo
 
 ARTÍCULO 115 Las sanciones que se podrán imponer a los Titulares de la Secretaría Técnica, Secretaría Particular, Direcciones de Área, Coordinación de Enlace y Coordinaciones de Zona; hasta las Jefaturas de Departamento; siendo las siguientes:
 
-I. Amonestación Verbal o Escrita;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2013)</small>
 
-II. Suspensión en sueldo y funciones;
+I. Amonestación Verbal;
 
-III. Remoción
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2013)</small>
 
-IV. Rescisión.
+II. Amonestación y Apercibimiento por escrito;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2013)</small>
+
+III. Suspensión en sueldo y funciones;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2013)</small>
+
+IV. Remoción
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JUNIO DE 2013)</small>
+
+V. Rescisión.
 
 La aplicación de las sanciones, en su caso corresponderá al Director General del Instituto.
 
@@ -2409,7 +2447,9 @@ El Patronato se integrará, por asociados activos y honorarios representativos d
 
 El presente Estatuto Orgánico podrá ser adicionado, reformado o derogado, conforme al siguiente procedimiento:
 
-I. Que se convoque a sesión extraordinaria de la Junta Directiva, exclusivamente para este objeto;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2013)</small>
+
+I. Que se convoque a sesión ordinaria y/o extraordinaria de la Junta Directiva.
 
 II. Que se ponga en conocimiento de los miembros de la Junta Directiva, el texto de las reformas con anticipación mínima de quince días hábiles a la fecha en que deba reunirse la Junta Directiva;
 
@@ -2430,3 +2470,15 @@ El presente Estatuto Orgánico entrará en vigor al día siguiente de su publica
 El presente Estatuto Orgánico fue aprobado por la Junta Directiva del Instituto en la Sesión Ordinaria de fecha 21 de febrero de 2013, en la que se acordó su publicación para su debido cumplimiento.
 
 INSTITUTO TAMAULIPECO DE EDUCACIÓN PARA ADULTOS.- DIRECTOR GENERAL.- LIC. JUAN ENRIQUE MONTERO HIGUERA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO
+
+Una vez aprobadas las reformas por la Junta Directiva, ordénese su publicación en el Periódico Oficial del Estado
+
+###### ARTÍCULO SEGUNDO
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
