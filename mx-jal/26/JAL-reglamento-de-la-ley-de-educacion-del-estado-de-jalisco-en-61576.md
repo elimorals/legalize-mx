@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-educacion-del-estado-de-jalisco-en-6157
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-07"
-last_updated: "2008-06-07"
+last_updated: "2013-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA LEY DE EDUCACION DEL ESTADO DE JALISCO EN MATERIA DEL CONSEJO ESTATAL TECNICO DE LA EDUCACION DEL ESTADO DE JALISCO
 
-REGLAMENTO DE LA LEY DE EDUCACION DEL ESTADO DE JALISCO EN MATERIA DEL CONSEJO ESTATAL TECNICO DE LA EDUCACION DEL ESTADO DE JALISCO
+REGLAMENTO DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO EN MATERIA DEL CONSEJO ESTATAL TÉCNICO DE LA EDUCACIÓN DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL REGLAMENTO DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO EN MATERIA DEL CONSEJO ESTATAL TÉCNICO DE LA EDUCACIÓN DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 4 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 7 de junio de 2008.
 
@@ -214,3 +216,11 @@ LIC. MIGUEL ÁNGEL MARTÍNEZ ESPINOSA
 SECRETARIO DE EDUCACIÓN
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE JUNIO DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", quedando abrogado el Reglamento de la Ley de Educación del Estado de Jalisco en materia del Consejo Estatal Técnico de la Educación del Estado de Jalisco, expedido mediante Acuerdo DIGELAG ACU 029/2008, publicado el 07 de junio de 2008.
+
+SEGUNDO. El Consejo Estatal Técnico de la Educación del Estado de Jalisco se integrará e instalará a más tardar en un plazo de treinta días hábiles, contados a partir de la entrada en vigor del presente decreto.
