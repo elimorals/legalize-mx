@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2011-05-25"
+last_updated: "2013-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,9 @@ abbreviation: "LMIGRA"
 ---
 # LEY DE MIGRACION
 
-LEY DE MIGRACION
+LEY DE MIGRACIÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO SU ENTRADA EN VIGOR SERA AL DIA SIGUIENTE DE SU PUBLICACION EN EL DIARIO OFICIAL DE LA FEDERACION, A EXCEPCION DE LOS ARTICULOS QUE SE MENCIONAN EN EL TRANSITORIO SEGUNDO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -1150,13 +1148,17 @@ Transcurrido dicho plazo, el Instituto les otorgará la condición de estancia d
 
 ### CAPÍTULO VII. DEL PROCEDIMIENTO EN LA ATENCIÓN DE PERSONAS EN SITUACIÓN DE VULNERABILIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2013)</small>
+
 ###### Artículo 112.
 
-Cuando alguna niña, niño o adolescente migrante no acompañado, sea puesto a disposición del Instituto quedará bajo su custodia y se deberá garantizar el respeto a sus derechos humanos, sujetándose particularmente a lo siguiente:
+Cuando alguna niña, niño o adolescente migrante no acompañado, sea puesto a disposición del Instituto quedará bajo la responsabilidad y se deberá garantizar el respeto a sus derechos humanos, sujetándose particularmente a lo siguiente:
 
-I. El Instituto procederá a canalizar de manera inmediata a la niña, niño o adolescente migrante no acompañado al Sistema Nacional para el Desarrollo Integral de la Familia, a los Sistemas Estatales DIF y del Distrito Federal, con objeto de privilegiar su estancia en lugares donde se les proporcione la atención adecuada, mientras se resuelve su situación migratoria.
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2013)</small>
 
-Cuando por alguna circunstancia excepcional las niñas, niños y adolescentes migrantes extranjeros no acompañados lleguen a ser alojados en una estación migratoria, en tanto se les traslada a las instalaciones del Sistema Nacional para el Desarrollo Integral de la Familia, a los Sistemas Estatales DIF y del Distrito Federal, deberá asignárseles en dicha estación un espacio específico para su estadía distinto al del alojamiento de los adultos. La autoridad deberá respetar en todo momento los derechos de los niños, niñas y adolescentes migrantes no acompañados previstos en el presente ordenamiento y la legislación aplicable;
+I. El Instituto procederá a canalizar de manera inmediata a la niña, niño o adolescente migrante no acompañado al Sistema Nacional para el Desarrollo Integral de la Familia, a los Sistemas Estatales DIF y del Distrito Federal, con objeto de privilegiar su estancia en lugares donde se les proporcione la atención adecuada, mientras se resuelve su situación migratoria y dará aviso al consulado de su país.
+
+Cuando por alguna circunstancia excepcional las niñas, niños y adolescentes migrantes extranjeros no acompañados lleguen a ser alojados en una estación migratoria, en tanto se les traslada a las instalaciones del Sistema Nacional para el Desarrollo Integral de la Familia, a los Sistemas Estatales DIF y del Distrito Federal, deberá asignárseles en dicha estación un espacio específico para su estadía distinto al del alojamiento de los adultos. La autoridad deberá respetar en todo momento los derechos de los niños, niñas y adolescentes migrantes no acompañados previstos en el presente ordenamiento y la legislación aplicables, dándose aviso inmediato a la Comisión Nacional de los Derechos Humanos y a las comisiones estatales de derechos humanos, así como al Comité Estatal del Sistema Nacional de Seguimiento y Vigilancia de la Aplicación de los Derechos del Niño en la entidad que corresponda, a efecto de que coadyuven en la garantía y protección de sus derechos.
 
 II. Se le informará a la niña, niño y adolescente del motivo de su presentación, de sus derechos dentro del procedimiento migratorio, de los servicios a que tiene acceso y se le pondrá en contacto con el consulado de su país, salvo que a juicio del Instituto o a solicitud del niño, niña o adolescente pudiera acceder al asilo político o al reconocimiento de la condición de refugiado, en cuyo caso no se entablará contacto con la representación consular;
 
@@ -1173,6 +1175,10 @@ En el caso de que el niño, niña o adolescente se ubique en los supuestos estab
 VI. Una vez resuelta la situación migratoria del niño, niña o adolescente y en caso de resolverse la conveniencia de su retorno asistido se notificará de esta situación al consulado correspondiente, con tiempo suficiente para la recepción del niño, niña o adolescente en su país de nacionalidad o residencia.
 
 El retorno asistido de la niña, niño o adolescente migrante a su país de nacionalidad o residencia se realizará atendiendo al interés superior de la niña, niño y adolescente y su situación de vulnerabilidad, con pleno respeto a sus derechos humanos y con la intervención de la autoridad competente del país de nacionalidad o residencia.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2013)</small>
+
+Tratándose de niña, niño o adolescente migrante nacional no acompañado, corresponderá al Sistema Nacional para el Desarrollo Integral de la Familia, garantizar el eficaz retorno asistido del menor con sus familiares adultos, atendiéndose en todo momento el interés superior de la niña, niño y adolescente y su situación de vulnerabilidad, en coordinación y coadyuvancia con los Sistemas Estatales DIF y del Distrito Federal que corresponda, considerando las causas de su migración: reunificación familiar, en busca de empleo, violencia intrafamiliar, violencia e inseguridad social, entre otras.
 
 ###### Artículo 113.
 
@@ -1617,3 +1623,9 @@ CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigenci
 México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
