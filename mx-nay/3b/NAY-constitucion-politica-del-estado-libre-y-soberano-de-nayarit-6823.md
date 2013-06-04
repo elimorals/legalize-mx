@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2013-01-21"
+last_updated: "2013-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -433,7 +433,7 @@ I. Por incapacidad declarada conforme a las leyes.
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-II. Por estar sujeto a proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formar(sic) prisión, así como durante la extinción de una pena corporal.
+II. Por estar sujeto a proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formar (sic) prisión, así como durante la extinción de una pena corporal.
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -599,7 +599,7 @@ El Congreso del Estado se renovará cada tres años contados desde el 18 de Agos
 
 ###### Art. 36.
 
-La Legislatura del Estado celebrará anualmente dos periodos ordinarios de sesiones: uno que contará desde el 18 de agosto hasta el 17 de diciembre y, previa aprobación, podrá prorrogarse hasta el día 30 del mismo mes; y otro que comenzará el 18 de febrero terminando el 17 de mayo, pudiendo también, previa aprobación, prorrogarse hasta el día 30 del mismo mes. En los recesos del Congreso podrán verificarse períodos extraordinarios de sesiones por el tiempo y objeto que así lo exija la importancia de los asuntos, en los términos de las convocatorias respectivas.
+La Legislatura del Estado celebrará anualmente dos períodos ordinarios de sesiones: uno que contará desde el 18 de agosto hasta el 17 de diciembre y, previa aprobación, podrá prorrogarse hasta el día 30 del mismo mes; y otro que comenzará el 18 de febrero terminando el 17 de mayo, pudiendo también, previa aprobación, prorrogarse hasta el día 30 del mismo mes. En los recesos del Congreso podrán verificarse períodos extraordinarios de sesiones por el tiempo y objeto que así lo exija la importancia de los asuntos, en los términos de las convocatorias respectivas.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
@@ -795,7 +795,7 @@ VIII. Constituirse en Colegio Electoral para designar al gobernador provisional,
 
 > <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
 
-IX. Designar a los Magistrados Numerarios y Supemumerarios del Tribunal Superior de Justicia del Estado, al Fiscal General y al Secretario de Seguridad Pública, con base en las propuestas que haga el Gobernador en los términos de esta Constitución y las leyes aplicables.
+IX. Designar a los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia del Estado, al Fiscal General y al Secretario de Seguridad Pública, con base en las propuestas que haga el Gobernador en los términos de esta Constitución y las leyes aplicables.
 
 X. Recibir a los mismos funcionarios, la protesta de guardar y hacer guardar la Constitución General, la Particular del Estado y las leyes que de ambas emanen.
 
@@ -1381,7 +1381,9 @@ Es facultad del Pleno del Tribunal Superior de Justicia, emitir los acuerdos gen
 
 La remuneración que perciban por sus servicios los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y Jueces no podrá ser disminuida durante su encargo.
 
-Los Magistrados del Tribunal Superior de Justicia durarán en su encargo diez años, podrán ser ratificados, y si lo fueren, sólo podrán ser removidos del mismo en los términos del Título Octavo de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2013)</small>
+
+Los Magistrados Numerarios del Tribunal Superior de Justicia durarán en su encargo diez años, podrán ser ratificados por una sola vez y por el mismo período, salvo que por edad aplique la causa de retiro forzoso. Durante el desempeño de sus funciones sólo podrán ser removidos del cargo en los términos del Título Octavo de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 Tres meses antes de que concluya el periodo para el que fue nombrado un Magistrado, en los términos que disponga la ley, el Congreso del Estado, previa opinión del Gobernador y del Consejo de la Judicatura, deberá iniciar un procedimiento de evaluación. Al efecto resolverá en definitiva, oyendo al magistrado, fundando y motivando su resolución, la que se dictará a más tardar treinta días antes de que concluya el periodo respectivo.
 
@@ -1501,15 +1503,15 @@ El Presidente:
 
 El Secretario General de Acuerdos, los Jueces y demás servidores que señale la Ley Orgánica del Poder Judicial, protestarán ante el Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2013)</small>
 
 ###### Art. 87.
 
-Los Magistrados Numerarios del Tribunal Superior de Justicia, serán suplidos en sus faltas temporales por los Supernumerarios, en la forma y términos que la ley determine.
+Los Magistrados Numerarios del Tribunal Superior de Justicia, serán suplidos en sus faltas temporales por los Supernumerarios, en la forma y término que la Ley determine.
 
-Si la falta fuere definitiva, entrará provisionalmente en funciones el Magistrado Supernumerario que determine el Pleno del Consejo de la Judicatura, en tanto el Congreso o la Diputación Permanente en su caso, resuelve, de entre los Supernumerarios, la designación del Magistrado sustituto, observándose en cuanto a la vacante el procedimiento dispuesto por el Artículo 83 de esta Constitución
+Si la falta fuere definitiva, entrará provisionalmente en funciones el Magistrado Supernumerario que determine el Pleno del Consejo de la Judicatura, en atención al orden de prelación previsto en el decreto de su designación, situación que se hará del conocimiento del Gobernador y del Congreso o Diputación Permanente para proceder a la designación de un Magistrado Numerario por un nuevo periodo, de conformidad a lo previsto por el artículo 83 de esta Constitución, sin exceder del término de sesenta días entre la ausencia y la designación.
 
-Si el nombramiento estuviere ratificado y el titular no aceptara el cargo, se hará nueva designación.
+La terna que someta el Gobernador para la designación del Magistrado Numerario, podrá incluir a personas que en ese momento tengan el carácter de Magistrados Supernumerarios.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -2947,7 +2949,7 @@ Para todos los efectos prevenidos en la Ley Orgánica del Poder Legislativo y el
 
 P.O. 1 DE JUNIO DE 1994.
 
-DECRETO NUM. 7766, QUE REFORMA LOS ARTS. 29 Y 124, Y DEL 72 AL 79.
+DECRETO NÚM. 7766, QUE REFORMA LOS ARTS. 29 Y 124, Y DEL 72 AL 79.
 
 ###### ARTICULO UNICO.
 
@@ -3416,3 +3418,9 @@ Artículo Tercero.- En tanto se emitan las adecuaciones legislativas referidas e
 Artículo Cuarto.- El Congreso del Estado deberá realizar las adecuaciones correspondientes en la Ley Electoral del Estado de Nayarit, en un término de ciento ochenta días contados a partir de la entrada en vigor del presente decreto.
 
 Artículo Quinto.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los ayuntamientos de la entidad.
+
+P.O. 4 DE JUNIO DE 2013.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo segundo.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la entidad.
