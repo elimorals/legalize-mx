@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-seguridad-publica-64542
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-21"
-last_updated: "2010-07-10"
+last_updated: "2013-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64542&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de noviembre de 2008.
 
@@ -243,13 +245,13 @@ XVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones j
 
 Las facultades establecidas en el artículo 8 tienen el carácter de delegables, excepto en las fracciones II, III, XI, XII, XIII, XIV y XVII que son indelegables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO IV
 
 DE LAS ATRIBUCIONES COMUNES DEL SUBSECRETARIO, DIRECTORES GENERALES, COMISARIOS GENERALES, COMISARIOS JEFE, RECTOR Y PRESIDENTE DE LA COMISIÓN DE HONOR Y JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2009)</small>
 
 ###### ARTÍCULO 10.
 
@@ -603,7 +605,7 @@ XXII. Otorgar perdón y desistimiento, previa autorización expresa del Secretar
 
 XXIII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 23 DE ENERO DE 2009)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE ENERO DE 2009)</small>
 
 #### Sección Segunda Bis. De la Comisión de Honor y Justicia
 
@@ -1379,7 +1381,7 @@ ALDO FASCI ZUAZUA
 
 La presente hoja de firmas corresponde al Reglamento Interior de la Secretaría de Seguridad Pública del Gobierno del Estado de Nuevo León, dado el 14 de Noviembre de 2008.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE ENERO DE 2009.
 
@@ -1390,3 +1392,11 @@ Segundo.- Las investigaciones, procedimientos de responsabilidad administrativa 
 P.O. 10 DE JULIO DE 2010.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública, publicado en el Periódico Oficial del Estado de fecha 21 de noviembre de 2008.
+
+TERCERO.- Los epígrafes de cada artículo de este Reglamento son de carácter indicativo por lo que no definen, interpretan o limitan el contenido de los artículos.
