@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-instituto-michoacano-para-la-70920"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-12"
-last_updated: "2009-11-12"
+last_updated: "2013-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,11 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MICHOACANO PARA LA EDUCACIÓN DE LOS ADULTOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2013 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 8 DEL DECRETO DE EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO MICHOACANO PARA LA EDUCACIÓN DE LOS ADULTOS, Y QUE ABROGA SU REGLAMENTO INTERIOR, PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el jueves 12 de noviembre de 2009.
 
@@ -340,3 +344,25 @@ La Coordinadora de Contraloría
 Rosa María Gutiérrez Cárdenas
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2013 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 5 DE JUNIO DE 2013
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Decreto Administrativo publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 7 de febrero del año 2008, por el cual se creó el Organismo Público Descentralizado denominado Instituto Michoacano para la Educación de los Adultos.
+
+Artículo Tercero. El liquidador del Organismo deberá, a más tardar a los quince días hábiles posteriores a su designación, cerrar los estados financieros del "Instituto Michoacano para la Educación de los Adultos".
+
+Artículo Cuarto. El presupuesto asignado al "Instituto Michoacano para la Educación de los Adultos" en el Decreto que contiene el Presupuesto de Egresos para el Gobierno del Estado de Michoacán de Ocampo, para el Ejercicio Fiscal del año 2013, y que a la fecha de cierre de Estados Financieros deberá destinarse a la Secretaría de Educación Pública, con la finalidad de que ésta, concluya todos y cada uno de los asuntos pendientes, en los términos y para los fines establecidos en el artículo 6º de este Decreto, en la inteligencia de que el remanente deberá reintegrarse al patrimonio del Gobierno del Estado de Michoacán de Ocampo.
+
+Artículo Quinto. La Coordinación de Contraloría, una vez en funciones de (sic) liquidador del Instituto Michoacano para la Educación de los Adultos, designará el despacho externo encargado de la realización de una auditoría administrativa-financiera por el periodo comprendido del 15 de febrero al 31 de diciembre de 2012 y del 1º de enero al 30 de mayo de 2013, con cargo al presupuesto del organismo sujeto al proceso de liquidación.
+
+Artículo Sexto. Las cuentas bancarias y de inversión, que opera el Instituto Michoacano para la Educación de los Adultos, deberán estar conciliadas y canceladas.
+
+Artículo Séptimo. Las adecuaciones presupuestarias que deban realizarse como consecuencia del proceso de liquidación y extinción definitiva del Instituto Michoacano para la Educación de los Adultos, incluirán las transferencias de recursos humanos y de los activos patrimoniales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, sistemas, maquinaria, archivos y, en general el equipo con el que el Instituto Michoacano para la Educación de los Adultos, haya utilizado para el despacho de los asuntos a su cargo.
+
+Artículo Octavo. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
