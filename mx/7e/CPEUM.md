@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2013-02-26"
+last_updated: "2013-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2013.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -750,11 +750,11 @@ El Congreso no puede dictar leyes que establezcan o prohiban religión alguna.
 
 Los actos religiosos de culto público se celebrarán ordinariamente en los templos. Los que extraordinariamente se celebren fuera de éstos se sujetarán a la ley reglamentaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JUNIO DE 2013)</small>
 
 ###### Art. 25.
 
-Corresponde al Estado la rectoría del desarrollo nacional para garantizar que éste sea integral y sustentable, que fortalezca la Soberanía de la Nación y su régimen democrático y que, mediante el fomento del crecimiento económico y el empleo y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, cuya seguridad protege esta Constitución.
+Corresponde al Estado la rectoría del desarrollo nacional para garantizar que éste sea integral y sustentable, que fortalezca la Soberanía de la Nación y su régimen democrático y que, mediante la competitividad, el fomento del crecimiento económico y el empleo y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, cuya seguridad protege esta Constitución. La competitividad se entenderá como el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo.
 
 > <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
@@ -780,19 +780,23 @@ Bajo criterios de equidad social y productividad se apoyará e impulsará a las 
 
 La ley establecerá los mecanismos que faciliten la organización y la expansión de la actividad económica del sector social: de los ejidos, organizaciones de trabajadores, cooperativas, comunidades, empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores y, en general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios socialmente necesarios.
 
-> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2013)</small>
 
-La ley alentará y protegerá la actividad económica que realicen los particulares y proveerá las condiciones para que el desenvolvimiento del sector privado contribuya al desarrollo económico nacional, en los términos que establece esta Constitución.
+La ley alentará y protegerá la actividad económica que realicen los particulares y proveerá las condiciones para que el desenvolvimiento del sector privado contribuya al desarrollo económico nacional, promoviendo la competitividad e implementando una política nacional para el desarrollo industrial que incluya vertientes sectoriales y regionales, en los términos que establece esta Constitución.
 
 > <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2006)</small>
 
 ###### Art. 26.
 
-A. El Estado organizará un sistema de planeación democrática del desarrollo nacional que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la Nación.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JUNIO DE 2013)</small>
+
+A. El Estado organizará un sistema de planeación democrática del desarrollo nacional que imprima solidez, dinamismo, competitividad, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la nación.
 
 Los fines del proyecto nacional contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación será democrática. Mediante la participación de los diversos sectores sociales recogerá las aspiraciones y demandas de la sociedad para incorporarlas al plan y los programas de desarrollo. Habrá un plan nacional de desarrollo al que se sujetarán obligatoriamente los programas de la Administración Pública Federal.
 
-La ley facultará al Ejecutivo para que establezca los procedimientos de participación y consulta popular en el sistema nacional de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo. Asimismo, determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo Federal coordine mediante convenios con los gobiernos de las entidades federativas e induzca y concierte con los particulares las acciones a realizar para su elaboración y ejecución.
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2013)</small>
+
+La ley facultará al Ejecutivo para que establezca los procedimientos de participación y consulta popular en el sistema nacional de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo. Asimismo, determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo Federal coordine mediante convenios con los gobiernos de las entidades federativas e induzca y concierte con los particulares las acciones a realizar para su elaboración y ejecución. El plan nacional de desarrollo considerará la continuidad y adaptaciones necesarias de la política nacional para el desarrollo industrial, con vertientes sectoriales y regionales.
 
 En el sistema de planeación democrática, el Congreso de la Unión tendrá la intervención que señale la ley.
 
@@ -9927,6 +9931,12 @@ c) Prohibir en todas las escuelas los alimentos que no favorezcan la salud de lo
 Al efecto, el Poder Legislativo hará las adecuaciones normativas conducentes y preverá en ellas los elementos que permitan al Ejecutivo Federal instrumentar esta medida. El Ejecutivo Federal la instrumentará en un plazo de 180 días naturales, contados a partir del día siguiente al de la entrada en vigor de las normas que al efecto expida el Congreso de la Unión.
 
 Sexto. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+D.O.F. 5 DE JUNIO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Ejecutivo Federal tendrá un plazo de 16 meses para iniciar las leyes reglamentarias pertinentes a la presente reforma.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA; VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
