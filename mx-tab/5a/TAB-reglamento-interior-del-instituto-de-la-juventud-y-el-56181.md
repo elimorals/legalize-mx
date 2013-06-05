@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-de-la-juventud-y-el-56181"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-10"
-last_updated: "2012-02-15"
+last_updated: "2013-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA JUVENTUD Y EL DEPORTE DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DE TABASCO, PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 10 de febrero de 2007.
 
@@ -588,3 +590,15 @@ P.O. 15 DE FEBRERO DE 2012.
 PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+P.O. 5 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las Disposiciones Administrativas que se opongan al presente Reglamento.
+
+TERCERO.- Se abroga el Reglamento del Instituto de la Juventud y el Deporte de Tabasco, publicado en el Periódico Oficial del Estado número 6723 suplemento I de fecha 10 de febrero de 2007.
+
+CUARTO.- Los asuntos que tuviesen pendientes al entrar en vigor el presente Reglamento, que conforme al mismo deben pasar de una Unidad Administrativa a otra, estos continuarán su trámite, y serán resueltos por aquella o aquellas Unidades a las que se les haya atribuido la competencia de este Reglamento.
+
+QUINTO.- Los recursos humanos, materiales y financieros que estuviesen asignados a las Unidades Administrativas que desaparecen o modifican su competencia, en virtud de lo dispuesto en el presente Reglamento, serán reasignados a las Unidades Administrativas que asuman las correspondientes atribuciones, con intervención de las áreas competentes.
