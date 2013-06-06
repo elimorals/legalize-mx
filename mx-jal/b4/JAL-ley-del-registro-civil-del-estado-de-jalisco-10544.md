@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2012-04-21"
+last_updated: "2013-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 21 DE ABRIL DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -231,7 +229,7 @@ XIII. Conservar bajo su responsabilidad y cuidado los libros y archivos de la of
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
-XIV. Instar de manera verbal a quien o quienes comparezcan a efectuar el registro de nacimiento, cuando el nombre que deseen poner al menor, contengan abreviaturas, diminutivos, claves, números y adjetivos que puedan llegar a denigrar a la persona, o cuando a juicio del oficial del Registro Civil resulte impropio, denostante, cause afrenta, ya sea por su rareza, peculiaridad o dificulta en su emisión y articulación, solicitando se reconsidere su decisión.
+XIV. Instar de manera verbal a quien o quienes comparezcan a efectuar el registro de nacimiento, cuando el nombre que deseen poner al menor, contenga abreviaturas, diminutivos, claves, números y adjetivos que puedan llegar a denigrar a la persona, o cuando a juicio del oficial del Registro Civil resulte impropio, denostante, cause afrenta, ya sea por su rareza, peculiaridad o dificultad en su emisión y articulación, solicitando se reconsidere su decisión.
 
 Bajo ninguna circunstancia el Oficial del Registro Civil podrá efectuar sugerencias de nombres para los registrados, y
 
@@ -245,7 +243,7 @@ Los oficiales del Registro Civil serán suplidos en sus faltas temporales por qu
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-Artículo 22 bis.- Las autoridades municipales deberán pagar horas extras a los Oficiales del Registro Civil que atiendan asuntos inherentes a sus funciones fuera de su horario de conformidad a lo que disponga el presupuesto de egresos y la normatividad estatal y municipal correspondiente.
+Artículo 22 bis.- Las autoridades municipales deberán pagar horas extras a los Oficiales del Registro Civil que atiendan asuntos inherentes a sus funciones fuera de su horario de trabajo de conformidad a lo que disponga el presupuesto de egresos y la normatividad estatal y municipal correspondiente.
 
 ### CAPITULO IV. De los procedimientos
 
@@ -417,7 +415,7 @@ Los apéndices estarán constituidos por todos los documentos relativos al acta 
 
 ###### Artículo 40.
 
-La declaración de nacimiento se hará por el padre, por la madre o ambos, o persona distinta, en los (sic) caso previsto por la ley, dentro de los ciento ochenta días siguientes a éste. El infante deberá ser presentado ante el Oficial del Registro Civil y en los casos que circunstancialmente sea necesario, éste acudirá al lugar en que se encuentre el infante.
+La declaración de nacimiento se hará por el padre, por la madre o ambos, o por persona distinta, en los caso (sic) previstos por la ley, dentro de los ciento ochenta días siguientes a éste. El infante deberá ser presentado ante el Oficial del Registro Civil y en los casos que circunstancialmente sea necesario, éste acudirá al lugar en que se encuentre el infante.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -565,13 +563,13 @@ Si el reconocimiento se hace por alguno de los otros medios establecidos en el C
 
 La omisión del registro en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de esta ley y del Código Civil, pero los responsables de la omisión incurrirán en una multa de un tanto de el salario mínimo vigente en el lugar en donde debió inscribirse el acto, que impondrá y hará efectiva el oficial del Registro Civil ante quien se haga valer el reconocimiento.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2013)</small>
 
 ###### Artículo 63.
 
-El acto de reconocimiento hecho con posterioridad al acta de nacimiento, se anotará marginalmente en ésta última, así como los apellidos del reconocedor y los de los abuelos del reconocido.
+El acto de reconocimiento hecho con posterioridad al acta de nacimiento, implicará que se expida una nueva acta de nacimiento en la que se asienten los mismos datos del acta anterior, más los nombres y apellidos del reconocedor y de los abuelos del reconocido, señalando con anotación marginal la existencia del acta anterior, pero sin referencia al procedimiento de reconocimiento. El oficial a quien correspondió la expedición de una nueva acta deberá remitir copia de la misma al Archivo General del Registro Civil.
 
-En los extractos certificados de actas que se emitan con posterioridad, aparecerá el nombre del reconocido seguido de los apellidos que con motivo del reconocimiento le corresponden, haciendo referencia a la fecha y acto mediante el cual se efectuó el reconocimiento.
+El acta anterior al reconocimiento se considera información sensible y confidencial y solo puede ser consultada o reproducida a petición del reconocido o por requerimiento judicial.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -1061,7 +1059,7 @@ VI. Lugar y fecha de certificación; y
 
 VII. Los demás datos que deberán contener cada extracto en lo particular, siendo los siguientes:
 
-a) De las actas de nacimiento: Nombre, apellido y sexo del registrado; lugar y fecha de nacimiento; la expresión de si es presentado vivo o muerto; nombre, apellidos y nacionalidad de los padres;
+a) De las actas de nacimiento: Nombre, apellidos y sexo del registrado; lugar y fecha de nacimiento; la expresión de si es presentado vivo o muerto; nombre, apellidos y nacionalidad de los padres;
 
 b) De las actas de matrimonio: Nombres, apellidos, nacionalidad, estado civil, fecha de nacimiento de los contrayentes; nombre de quien o quienes otorgaron su consentimiento en caso de minoría de edad de los consortes, cuando corresponda; y estipulación del régimen económico patrimonial elegido;
 
@@ -1071,7 +1069,7 @@ d) De las actas de reconocimiento: Nombre, apellidos, sexo, edad, lugar y fecha 
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-e) De las actas de divorcio: Nombre, apellidos, edad y nacionalidad de los divorciados; fecha en que causó estado la sentencia, tribunal que la dictó y número de expediente; fecha de resolución administrativa en que se resolvió, Oficial que resolvió y número de expediente; datos de ubicación del acta de matrimonio y lugar en que lo contrajeron;
+e) De las actas de divorcio: Nombre, apellidos, edad y nacionalidad de los divorciados; fecha en que causó estado la sentencia, tribunal que la dictó y número de expediente; fecha de la resolución administrativa en que se resolvió, Oficial que resolvió y número de expediente; datos de ubicación del acta de matrimonio y lugar en que lo contrajeron;
 
 f) De las actas de defunción: Nombre, apellidos, fecha de nacimiento, sexo, edad, estado civil y nacionalidad del finado; lugar, fecha y hora de la defunción; nombre apellidos y cédula profesional del médico que la certificó; causas de la muerte; nombre y apellidos del declarante; y
 
@@ -1081,33 +1079,45 @@ g) De las actas de inscripción de sentencia de tutela, emancipación, ausencia,
 
 ### CAPITULO XVI. De la nulificación, rectificación, aclaración y testadura de las actas del registro civil
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996) (REUBICADO [N. DE E. ANTES ARTÍCULO 120], P.O. 15 DE JUNIO DE 1999)
 
 ### CAPITULO XVII. De las Visitas de Orientación e Inspección
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 134], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 122.
 
 Sólo se harán mediante sentencia ejecutoria, la nulificación y rectificación de las actas del estado civil; la aclaración y testaduras que se deban efectuar en las mismas, se llevaran a cabo ante el Oficial del Registro Civil donde se haya asentado el acta, o en el Registro Civil del Estado, a través del procedimiento administrativo que se señale en el Reglamento correspondiente.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 121], P.O. 15 DE JUNIO DE 1999)
+
 ###### Artículo 123.
 
 Hay lugar a pedir la nulificación en todo o en parte de una acta del Registro Civil, cuando el suceso registrado no haya ocurrido o cuando haya habido falsedad en alguno de los elementos esenciales que lo constituyan.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 122], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 124.
 
 Cuando el acto haya ocurrido, pero se declare nulo con posterioridad, el acta sólo será anotada al margen.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 123], P.O. 15 DE JUNIO DE 1999)
+
 ###### Artículo 125.
 
 Podrá pedirse la rectificación:
 
-I. Cuando habiendo ocurrido realmente el acto y hayan intervenido personas legalmente obligadas o facultadas, se hicieren constar estados o vínculos que no correspondan a la realidad establecida por una sentencia o se omitieren indebidamente; y
+I. Cuando habiendo ocurrido realmente el acto y hayan intervenido personas legalmente obligadas o facultadas, se hicieren constar estados o vínculos que no corresponden a la realidad establecida por una sentencia o se omitieren indebidamente; y
 
 II. Cuando se solicite variar algún nombre puesto erróneamente u otra circunstancia esencial.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 124], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 126.
 
 No será permitido a persona alguna cambiar su nombre o modificarlo, pero si alguien hubiere sido conocida con nombre diferente al que aparece en su acta, declarado este hecho por sentencia ejecutoria se anotará la referida acta en tal sentido, subsistiendo el nombre de la persona que primeramente se haya asentado en los libros del registro.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 125], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 127.
 
@@ -1119,21 +1129,25 @@ II. En los casos de desconocimiento, reconocimiento de la paternidad o maternida
 
 III. En el caso de homonimia que le cause un perjuicio podrá pedirse al juez competente del lugar donde esté asentada el acta de nacimiento, autorice transformar el primero de los apellidos de simple a compuesto o de compuesto a simple.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 126], P.O. 15 DE JUNIO DE 1999)
+
 ###### Artículo 128.
 
 Procede la aclaración cuando se trate de errores ortográficos, de impresión que sea manual, mecánica, eléctrica o electrónica, numéricos y otros meramente accidentales que no afecten los datos esenciales.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 127], P.O. 15 DE JUNIO DE 1999)
+
 ###### Artículo 129.
 
-Cuando se observe que en una actuación no autorizada, se hiciere mención de cualesquiera de las expresiones prohibidas en esta ley, así como en las de reconocimiento de hijos se expresare el nombre de otro progenitor, se deberán testar éstas de tal manera que queden absolutamente ilegibles, advirtiéndose al final del acta la causa por la que se hace.
+Cuando se observe que en una acta aún no autorizada, se hiciere mención de cualesquiera de las expresiones prohibidas en esta ley, así como en las de reconocimiento de hijos se expresare el nombre de otro progenitor, se deberán testar éstas de tal manera que queden absolutamente ilegibles, advirtiéndose al final del acta la causa por la que se hace.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996) (REUBICADO [N. DE E. ANTES ARTÍCULO 128], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 130.
 
 En los casos de los dos artículos que preceden, la parte interesada deberá, ante el Oficial del Registro Civil que corresponda, o ante el Registro Civil del Estado, presentar solicitud con apego a lo dispuesto en el reglamento aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 1996) (REUBICADO [N. DE E. ANTES ARTÍCULO 129], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 131.
 
@@ -1149,17 +1163,25 @@ III. Los herederos de las personas comprendidas en las dos fracciones anteriores
 
 IV. Los que según el Código Civil del Estado puedan continuar o intentar la acción respectiva, así como el Oficial del Registro Civil, en los casos de nulificación y rectificación.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 15 DE JUNIO DE 1999)
+
 ###### Artículo 132.
 
 En los casos de nulificación y rectificación de las actas del estado civil siempre serán partes el ministerio público y el oficial del Registro Civil donde se asentó el acta.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 131], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 133.
 
 Los negocios que versen sobre la nulificación y rectificación de las actas del estado civil, se tramitarán en la forma que se establezca en el Código de Procedimientos Civiles del Estado para los juicios ordinarios y será competente para conocer de ellos el juzgado de Primera Instancia que ejerza su jurisdicción en el domicilio de la oficialía del Registro Civil.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 132], P.O. 15 DE JUNIO DE 1999)
+
 ###### Artículo 134.
 
 Una vez que exista sentencia ejecutoria deberá remitirse copia de la misma al oficial del Registro Civil y al Titular del Archivo General del Registro Civil para que hagan las anotaciones que procedan.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 133], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 135.
 
@@ -1169,17 +1191,25 @@ La sentencia ejecutoria hará fe plena contra todos, aunque no hayan comparecido
 
 ### CAPITULO XVIII. De las sanciones
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 138], P.O. 15 DE JUNIO DE 1999)
+
 ###### Artículo 136.
 
 La Dirección General del Registro Civil podrá realizar las visitas de orientación y control administrativo que señala la presente ley a las oficinas del Registro Civil de la entidad, así como solicitar en todo tiempo a sus titulares, la información que requiera para el control del Archivo General y la coordinación del sistema.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 135], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 137.
 
 Las visitas de orientación tendrán por objeto informar a los titulares de las oficialías del Registro Civil y los servidores públicos que dependan de las mismas, respecto a la aplicación de las normas reglamentarias que regulen sus actividades, así como promover su capacitación y actualización.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 136], P.O. 15 DE JUNIO DE 1999)
+
 ###### Artículo 138.
 
 Las visitas de control administrativo tendrán por objeto asegurar la coordinación de las actividades de las oficialías, conforme a las normas reglamentarias y los convenios que se celebren con el Gobierno Federal.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 137], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 139.
 
@@ -1190,6 +1220,8 @@ Las visitas e inspecciones que corresponde realizar a la Procuraduría General d
 ###### Artículo 140.
 
 Las faltas y omisiones de carácter administrativo que cometan o en que incurran los servidores públicos de la Dirección General del Registro Civil y los oficiales del Registro Civil, serán sancionados en los términos establecidos por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y este ordenamiento, sin perjuicio de la responsabilidad civil o penal en que incurran.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 139], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 141.
 
@@ -1203,6 +1235,8 @@ III. Suspensión hasta por un año; y
 
 IV. Destitución del cargo.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 140], P.O. 15 DE JUNIO DE 1999)
+
 ###### Artículo 142.
 
 Se sancionará con amonestación:
@@ -1215,13 +1249,19 @@ III. No comunicar a la Dirección General del Registro Civil las anotaciones o c
 
 IV. Asentar en las formas errores mecanográficos, ortográficos y otros que no afecten la esencia del acta
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 141], P.O. 15 DE JUNIO DE 1999)
+
 ###### Artículo 143.
 
 Las personas, que estando obligadas a declarar el nacimiento lo hagan fuera del término fijado, serán sancionadas con una multa de hasta el equivalente a un día de salario mínimo general vigente en la zona, que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea del nacimiento.
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 142], P.O. 15 DE JUNIO DE 1999)
+
 ###### Artículo 144.
 
 El Oficial del Registro Civil que sin motivo justificado, retarde la celebración de un matrimonio, será sancionado por el presidente municipal, por la primera vez, con una multa de cien días de salario mínimo vigente en la zona en donde preste sus servicios, y en caso de reincidencia, con la destitución.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 143], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 145.
 
@@ -1237,19 +1277,21 @@ II. No reponer de inmediato las formas que se destruyan, inutilicen o queden ile
 
 III. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 1996)
 
+(REUBICADO [N. DE E. ANTES ARTÍCULO 144], P.O. 15 DE JUNIO DE 1999)
+
 ###### Artículo 146.
 
 Se sancionará con destitución:
 
 I. No firmar las actas en el mismo momento que sean levantadas;
 
-II. Incumplir con las obligaciones de levantar las actas en los términos previstos por esta ley;
+II. Incumplir con la obligación de levantar las actas en los términos previstos por esta ley;
 
 III. No hacer en las actas las anotaciones o cancelaciones que ordene la autoridad judicial correspondiente dentro de los tres días de recibido;
 
 IV. No integrar los documentos respectivos en el apéndice;
 
-V. Retardar si causa justificada, la celebración de cualquier acto del Registro Civil;
+V. Retardar sin causa justificada, la celebración de cualquier acto del Registro Civil;
 
 VI. Faltar por más de tres días consecutivos a sus labores, sin causa justificada;
 
@@ -1309,7 +1351,7 @@ El Secretario General de Gobierno
 
 Lic. José Luis Leal Sanabria.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 7 DE SEPTIEMBRE DE 1996.
 
@@ -1400,5 +1442,9 @@ P.O. 15 DE SEPTIEMBRE DE 2011.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 15 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 6 DE JUNIO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
