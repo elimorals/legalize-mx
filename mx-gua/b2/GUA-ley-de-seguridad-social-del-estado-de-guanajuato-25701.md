@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-seguridad-social-del-estado-de-guanajuato-25701"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-16"
-last_updated: "2008-12-23"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 16 de agosto de 2002.
 
@@ -1405,7 +1405,9 @@ IV.- Proponer al Consejo Directivo, cuando se estime necesario, la práctica de 
 
 V.- Poner en conocimiento del Consejo Directivo, las irregularidades que observe, para los efectos legales y administrativos que correspondan;
 
-VI.- Verificar los procesos de adjudicación en materia de adquisiciones, en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios Relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VI. Verificar los procesos de adjudicación en materia de adquisiciones, en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
 
 VII.- Establecer, a través del Consejo Directivo, la coordinación necesaria con las unidades administrativas del Instituto, para el cumplimiento de sus atribuciones, así como con la Coordinación de Auditoría Interna dependiente de la Dirección General del Instituto;
 
@@ -1636,3 +1638,9 @@ Durante el tercer año de vigencia la aportación será del 18%.
 A partir del cuarto año de vigencia la aportación será del 20%.
 
 Artículo Cuarto.- Dentro de los 30 días siguientes a la entrada en vigencia del presente decreto, el Consejo Directivo designará a dos integrantes de la Comisión de Vigilancia: uno a propuesta de los representantes de los asegurados y de los pensionistas, que se incorporará como cuarto integrante; y otro que sustituirá a uno de los actuales comisionados designados por la parte patronal, conforme al acuerdo que tome el Consejo Directivo. En el mes de enero de 2010 se designará y se sustituirá al comisionado que representa a los asegurados y pensionistas a la entrada en vigor de este decreto. En el mes de enero de 2011, deberá designarse y sustituirse al comisionado con mayor antigüedad en tal función que represente a la parte patronal.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
