@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-mejora-regulatoria-para-el-estado-de-guanajuato-y-55732"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-22"
-last_updated: "2011-06-03"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Tercera Parte al Periódico Oficial del Estado de Guanajuato, el martes 22 de mayo de 2007.
 
@@ -119,7 +119,9 @@ XI. Sistema: El Sistema Electrónico de Trámites y Servicios.
 
 Son autoridades en materia de mejora regulatoria:
 
-l. El Poder Ejecutivo, por conducto de las Secretarías de Desarrollo Económico Sustentable y de la Gestión Pública, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I. El Poder Ejecutivo, por conducto de las Secretarías de Desarrollo Económico Sustentable y de la Transparencia y Rendición de Cuentas; y
 
 II. Los municipios por conducto de la dependencia o entidad responsable que al efecto designe el Ayuntamiento.
 
@@ -129,7 +131,9 @@ La SGP tendrá las siguientes atribuciones:
 
 l. Formular y evaluar, en coordinación con la SDES, las políticas en materia de mejora regulatoria y proponerlas al Gobernador del Estado;
 
-II. Coordinar la conducción de las políticas en materia de mejora regulatoria, así como establecer los instrumentos que permitan su implementación; acorde con las acciones y objetivos establecidos en el Plan Estatal de Desarrollo y el Plan de Gobierno;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+II. Coordinar la conducción de las políticas en materia de mejora regulatoria, así como establecer los instrumentos que permitan su implementación; acorde con las acciones y objetivos establecidos en el Plan Estatal de Desarrollo y el Programa de Gobierno;
 
 III. Promover la simplificación de trámites y mejora en la prestación de servicios;
 
@@ -171,7 +175,9 @@ XIV. Las demás que prevea esta ley.
 
 La SDES, en el ámbito económico y empresarial, tendrá las siguientes atribuciones:
 
-l. Implementar y coordinar los instrumentos de mejora regulatoria, acorde con las acciones y objetivos establecidos en el Plan Estatal de Desarrollo y el Plan de Gobierno del Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I. Implementar y coordinar los instrumentos de mejora regulatoria, acorde con las acciones y objetivos establecidos en el Plan Estatal de Desarrollo y el Programa de Gobierno;
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -193,13 +199,13 @@ VII. Participar en la elaboración y actualización del Programa Estatal de Mejo
 
 VIII. Promover la armonización y uniformidad de los trámites y servicios prestados por las administraciones públicas municipales, para la instalación y operación de empresas o negocios;
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-IX. Proporcionar, en coordinación con la SGP, toda la colaboración y apoyo para el buen funcionamiento y ejercicio de las atribuciones del Consejo a que se refiere el artículo 9 de esta ley;
+IX. Proporcionar, en coordinación con la STRC, toda la colaboración y apoyo para el buen funcionamiento y ejercicio de las atribuciones del Consejo a que se refiere el artículo 9 de esta ley;
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-X. Impulsar y proponer, en coordinación con la SGP, la integración de trámites y servicios de la administración pública estatal al Sistema;
+X. Impulsar y proponer, en coordinación con la STRC, la integración de trámites y servicios de la administración pública estatal al Sistema;
 
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -213,7 +219,9 @@ XII. Las demás que prevea esta ley.
 
 A los municipios les corresponde:
 
-l. Coordinarse con la SGP y la SDES para homologar los lineamientos, criterios, guías y en general todo tipo de disposiciones de carácter general, para la aplicación de la presente ley;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I. Coordinarse con la STRC y la SDES para homologar los lineamientos, criterios, guías y en general todo tipo de disposiciones de carácter general, para la aplicación de la presente ley:
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -229,9 +237,9 @@ IV. Operar y difundir las actividades y funcionamiento de los SARE y Centros que
 
 V. Establecer la clasificación de los giros o actividades empresariales en congruencia con los lineamientos que establezca la SDES, y (sic)
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-VI. Coordinarse con el Estado por conducto de la SDES y de la SGP, para que en el ámbito de su competencia se implementen y operen los instrumentos de mejora regulatoria que prevé la presente ley, y
+VI. Coordinarse con el Estado por conducto de la SDES y de la STRC, para que en el ámbito de su competencia se implementen y operen los instrumentos de mejora regulatoria que prevé la presente ley, y
 
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -257,7 +265,9 @@ Los cargos de los integrantes del Consejo serán honoríficos por lo que no reci
 
 La Presidencia del Consejo recaerá en uno de los representantes de los sectores social, económico o académico, fungirá con dicho cargo por un periodo de dos años y podrá reelegirse hasta por una sola ocasión.
 
-La SGP y la SDES prestarán al Consejo la colaboración y apoyo necesario, para el ejercicio de sus atribuciones.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+La STRC y la SDES prestarán al Consejo la colaboración y apoyo necesario, para el ejercicio de sus atribuciones.
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -267,9 +277,13 @@ El Consejo estará integrado por:
 
 I. El titular de la Secretaría de Desarrollo Económico Sustentable;
 
-II. El titular de la Secretaría de la Gestión Pública;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-III. El titular de la Secretaría de Finanzas y Administración;
+II. El titular de la Secretaría de la Transparencia y Rendición de Cuentas;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+III. El titular de la Secretaría de Finanzas, Inversión y Administración;
 
 IV. El titular de la Delegación Federal de la Secretaría de Economía en el Estado;
 
@@ -345,7 +359,9 @@ III. Proporcionar y mantener actualizada la información de los trámites y serv
 
 IV. Designar por conducto del titular de la dependencia o entidad, a un servidor público que funja como enlace para efectos de la mejora regulatoria;
 
-V. Someter a consulta de la SGP toda disposición administrativa de carácter general, a efecto de que ésta determine si es sujeta de Manifestación de Impacto Regulatorio o emita la excepción correspondiente, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+V. Someter a consulta de la STRC toda disposición administrativa de carácter general, a efecto de que ésta determine si es sujeta de manifestación de impacto regulatorio o emita la excepción correspondiente, y
 
 VI. Las demás que prevea esta ley.
 
@@ -355,7 +371,7 @@ VI. Las demás que prevea esta ley.
 
 Los municipios deberán integrar consejos como órganos de asesoría y consulta en materia de mejora regulatoria, en los que se contemplará la participación social a través de los sectores social, económico y académico. Los cargos de quienes los integren deberán ser honoríficos.
 
-### Capitulo III. Instrumentos para la mejora regulatoria
+### Capítulo III. Instrumentos para la mejora regulatoria
 
 #### Sección Primera. De los programas de mejora regulatoria
 
@@ -385,7 +401,9 @@ A fin de propiciar una mejora regulatoria integral, el Programa Estatal de Mejor
 
 El Registro será público, gratuito y tiene por objeto la inscripción y publicidad de los trámites y servicios, que lleven a cabo las dependencias y entidades de las administraciones públicas estatal y municipal.
 
-La SGP, en coordinación con la SDES, conformará, coordinará y mantendrá actualizado el Registro con la información que inscriban las dependencias y entidades de las administraciones públicas estatal y municipal.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+La STRC, en coordinación con la SDES, conformará, coordinará y mantendrá actualizado el Registro con la información que inscriban las dependencias y entidades de las administraciones públicas estatal y municipal.
 
 ###### Artículo 15.
 
@@ -421,11 +439,15 @@ XIII. Las sanciones, que en su caso procedan, por omisión del trámite respecti
 
 XIV. Vigencia de la licencia, permiso o autorización, y
 
-XV. La demás información que a juicio de la SGP resulte conveniente en beneficio del particular.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+XV. La demás información que a juicio de la STRC resulte conveniente en beneficio del particular.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 16.
 
-Las dependencias y entidades de las administraciones públicas estatal y municipal deberán informar a la SGP cualquier creación o modificación de los trámites y servicios de su competencia, dentro de los diez días hábiles posteriores a que entre en vigor la disposición que fundamente tal situación.
+Las dependencias y entidades de las administraciones públicas estatal y municipal deberán informar a la STRC cualquier creación o modificación de los trámites y servicios de su competencia, dentro de los diez días hábiles posteriores a que entre en vigor la disposición que fundamente tal situación.
 
 Las dependencias y entidades de las administraciones públicas estatal y municipal deberán tener físicamente a disposición del público la información de su competencia que al respecto esté inscrita en el Registro.
 
@@ -445,9 +467,11 @@ Con el fin de agilizar y modernizar la gestión pública se creará el Sistema c
 
 Lo anterior se llevará a cabo sin perjuicio de que la realización de trámites y obtención de servicios, puedan efectuarse o solicitarse directamente ante las dependencias y entidades correspondientes.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 20.
 
-La SGP en coordinación con las instancias que correspondan, expedirá la guía básica que contenga los mecanismos para la incorporación, actualización y eliminación de trámites y servicios en el Sistema.
+La STRC en coordinación con las instancias que correspondan, expedirá la guía básica que contenga los mecanismos para la incorporación, actualización y eliminación de trámites y servicios en el Sistema.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -463,7 +487,9 @@ Las dependencias y entidades de las administraciones públicas estatal y municip
 
 En el Sistema no se podrán solicitar más requisitos al ciudadano que los establecidos en el Registro.
 
-La SGP autorizará la integración de nuevos trámites y servicios de las dependencias y entidades de la administración pública estatal al Sistema, siempre y cuando los mismos signifiquen un beneficio para los ciudadanos y en cumplimiento de los fines de la presente ley.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+La STRC autorizará la integración de nuevos trámites y servicios de las dependencias y entidades de la administración pública estatal al Sistema, siempre y cuando los mismos signifiquen un beneficio para los ciudadanos y en cumplimiento de los fines de la presente ley.
 
 #### Sección Cuarta. Del Sistema de Apertura Rápida de Empresas
 
@@ -547,17 +573,23 @@ La manifestación de impacto regulatorio es el documento que elaborarán las dep
 
 Aquellas disposiciones de carácter general cuya creación o modificación esté prevista en un procedimiento específico se regirán por éste, sin perjuicio de que se elabore la manifestación de impacto regulatorio correspondiente.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 33.
 
-Corresponde a la SGP expedir la guía básica para la elaboración de la manifestación de impacto regulatorio, la cual deberá publicarse en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Corresponde a la STRC expedir la guía básica para la elaboración de la manifestación de impacto regulatorio, la cual deberá publicarse en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
-Los municipios podrán adoptar la guía básica que expida la SGP, para la elaboración de las manifestaciones de impacto regulatorio dentro del ámbito de su competencia.
+Los municipios podrán adoptar la guía básica que expida la STRC, para la elaboración de las manifestaciones de impacto regulatorio dentro del ámbito de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 34.
 
-Las dependencias y entidades de la administración pública estatal que elaboren una manifestación de impacto regulatorio, deberán remitirla a la SGP a efecto de que emita el dictamen correspondiente.
+Las dependencias y entidades de la administración pública estatal que elaboren una manifestación de impacto regulatorio, deberán remitirla a la STRC a efecto de que emita el dictamen correspondiente.
 
-Recibida una manifestación de impacto regulatorio la SGP de manera inmediata dará vista a la SDES a efecto de que analice el impacto económico o empresarial y en su caso, formule las consideraciones que estime pertinentes.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Recibida una manifestación de impacto regulatorio la STRC de manera inmediata dará vista a la SDES a efecto de que analice el impacto económico o empresarial y en su caso, formule las consideraciones que estime pertinentes.
 
 El dictamen respectivo deberá contener necesariamente la determinación que sobre la manifestación emita la SDES.
 
@@ -569,25 +601,31 @@ Lo anterior se llevará a cabo, sin perjuicio de las atribuciones que al respect
 
 Las dependencias y entidades de la administración pública municipal que elaboren una manifestación de impacto regulatorio, deberán remitirla a la instancia y bajo el procedimiento que determine el ayuntamiento, a efecto de que se emita el dictamen correspondiente.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 35.
 
-La SGP y la SDES podrán requerir a la dependencia o entidad la ampliación o corrección de información relacionada con la manifestación de impacto regulatorio, de conformidad con lo establecido en la guía básica para que la remita dentro de los tres días hábiles al requerimiento.
+La STRC y la SDES podrán requerir a la dependencia o entidad la ampliación o corrección de información relacionada con la manifestación de impacto regulatorio, de conformidad con lo establecido en la guía básica para que la remita dentro de los tres días hábiles al requerimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 36.
 
-La SGP deberá entregar el dictamen a la dependencia o entidad correspondiente, dentro de un plazo de veinte días hábiles siguientes a la recepción de la manifestación de impacto regulatorio.
+La STRC deberá entregar el dictamen a la dependencia o entidad correspondiente, dentro de un plazo de veinte días hábiles siguientes a la recepción de la manifestación de impacto regulatorio.
 
 En aquellos casos en que sea necesaria la opinión de especialistas, el plazo para la entrega del dictamen podrá ampliarse hasta por diez días hábiles más, situación que deberá comunicarse a la dependencia o entidad que corresponda con antelación al vencimiento del plazo original.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 37.
 
-Las dependencias y entidades deberán observar lo señalado en el dictamen emitido por la SGP; en caso contrario, deberán comunicar por escrito en un plazo de tres días hábiles siguientes a que se haya notificado el dictamen, las razones que así lo motiven, por lo que esta última deberá emitir un dictamen final dentro de un plazo similar contado a partir del día siguiente en que se reciba el escrito.
+Las dependencias y entidades deberán observar lo señalado en el dictamen emitido por la STRC; en caso contrario, deberán comunicar por escrito en un plazo de tres días hábiles siguientes a que se haya notificado el dictamen, las razones que así lo motiven, por lo que esta última deberá emitir un dictamen final dentro de un plazo similar contado a partir del día siguiente en que se reciba el escrito.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 38.
 
-Cuando la SGP no emita alguno de los dictámenes a que se refiere este capítulo, se entenderá su conformidad con la manifestación de impacto regulatorio, sin perjuicio de que la dependencia o entidad que corresponda remita a la Coordinación General Jurídica el anteproyecto para su análisis.
+Cuando la STRC no emita alguno de los dictámenes a que se refiere este capítulo, se entenderá su conformidad con la manifestación de impacto regulatorio, sin perjuicio de que la dependencia o entidad que corresponda remita a la Coordinación General Jurídica el anteproyecto para su análisis.
 
 ###### Artículo 39.
 
@@ -601,9 +639,11 @@ Se creará el RUPEA con el objeto de inscribir, por única ocasión, la document
 
 La inscripción en el RUPEA no es obligatoria para realizar trámites o solicitar servicios ante las dependencias o entidades de la administración pública estatal, por lo que en ningún caso podrá exigirse ésta.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 41.
 
-La SGP, en coordinación con las instancias que correspondan, emitirá los lineamientos para la creación, operación e interconexión informática del RUPEA, los cuales contendrán los mecanismos y procedimientos para establecer los formatos de inscripción y las claves de identificación.
+La STRC, en coordinación con las instancias que correspondan, emitirá los lineamientos para la creación, operación e interconexión informática del RUPEA, los cuales contendrán los mecanismos y procedimientos para establecer los formatos de inscripción y las claves de identificación.
 
 ###### Artículo 42.
 
@@ -664,3 +704,9 @@ Artículo Tercero. El poder Ejecutivo contará con un plazo de treinta días nat
 Artículo Cuarto. El Gobernador del Estado emitirá el reglamento interno del Consejo en un plazo de treinta días naturales. En tanto se emita dicha reglamentación se aplicará, en lo conducente, el Acuerdo Gubernativo número 45 por el que creó el Consejo de Mejora Regulatoria del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 164, segunda parte, de fecha 12 de octubre de 2007.
 
 Artículo Quinto. La Secretaría de Desarrollo Económico Sustentable deberá actualizar la clasificación de giros o actividades empresariales en un plazo de seis meses.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
