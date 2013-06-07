@@ -4,7 +4,7 @@ identifier: "GUA-ley-sobre-el-sistema-estatal-de-asistencia-social-guanajuato-55
 country: "mx"
 rank: "ley"
 publication_date: "1986-09-19"
-last_updated: "2012-09-14"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de septiembre de 1986.
 
@@ -425,7 +425,9 @@ II.- El Titular de la Secretaría de Desarrollo Social y Humano;
 
 III.- El Titular de la Secretaría de Educación;
 
-IV.- El Titular de la Secretaría de la Gestión Pública;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+IV.- El Titular de la Secretaría de la Transparencia y Rendición de Cuentas;
 
 V.- El Procurador General de Justicia del Estado; y
 
@@ -437,9 +439,9 @@ Los miembros de la Junta de Gobierno serán suplidos por los Representantes que 
 
 La Junta de Gobierno contará con una secretaría técnica, designada por la misma, a propuesta del Director General del Organismo.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-Los integrantes de la Junta de Gobierno tendrán derecho a voz y voto, con excepción del titular de la Secretaría de la Gestión Pública, quien sólo tendrá derecho a voz.
+Los integrantes de la Junta de Gobierno tendrán derecho a voz y voto, con excepción del titular de la Secretaría de Transparencia y Rendición de Cuentas, quien sólo tendrá derecho a voz.
 
 ###### ARTICULO 27.
 
@@ -525,11 +527,11 @@ XI.- Autorizar constancias y certificar copias de los documentos originales que 
 
 XII.- Las demás que sean necesarias para el ejercicio de las anteriores.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 32.
 
-El Contralor Interno será designado y removido libremente por el Secretario de la Gestión Pública y será ciudadano mexicano por nacimiento y con experiencia profesional no menor de cinco años.
+El Contralor Interno será designado y removido libremente por el Secretario de la Transparencia y Rendición de Cuentas y será ciudadano mexicano por nacimiento y con experiencia profesional no menor de cinco años.
 
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
@@ -850,3 +852,9 @@ Artículo Único. El presente Decreto entrará en vigor el cuarto día siguiente
 P.O. 14 DE SEPTIEMBRE DE 2012.
 
 Artículo Único. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
