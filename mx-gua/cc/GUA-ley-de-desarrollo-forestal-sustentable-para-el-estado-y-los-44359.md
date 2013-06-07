@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-desarrollo-forestal-sustentable-para-el-estado-y-los-443
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-15"
-last_updated: "2005-03-15"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 15 de marzo de 2005.
 
@@ -117,7 +117,9 @@ II.- Consejo Estatal: El Consejo Estatal Forestal;
 
 III.- Instituto: El Instituto de Ecología del Estado;
 
-IV.- Secretaría: La Secretaría de Desarrollo Agropecuario; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+IV.- Secretaría: La Secretaría de Desarrollo Agroalimentario y Rural; y
 
 V.- SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales.
 
@@ -431,61 +433,29 @@ XI.- La relacionada con la prevención y combate de incendios forestales y los p
 
 XII.- Las demás que se considere (sic) estratégica (sic) para la planeación y evaluación del desarrollo forestal sustentable.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 27.
 
-Toda persona tendrá derecho a que las autoridades en materia forestal pongan a su disposición la información forestal que les soliciten, en los términos previstos por la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+Toda persona tendrá derecho a que las autoridades en materia forestal pongan a su disposición la información forestal que les soliciten, en los términos previstos por la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
 
 #### Sección Tercera. Del Inventario Estatal Forestal y de Suelos
 
 ###### Artículo 28.
 
-El Reglamento de esta Ley, de conformidad con lo establecido en la Ley General de Desarrollo Forestal Sustentable, establecerá los procedimientos y metodología a fin de que la Secretaría integre el Inventario Estatal Forestal y de Suelos, de conformidad con los principios y metodología que al efecto expida la SEMARNAT, el cual deberá relacionar de manera organizada y sistemática los datos estadísticos y contables de los bienes y servicios forestales.
+(DEROGADO, P.O. 7 DE JUNIO DE 2013)
 
 ###### Artículo 29.
 
-El Inventario Estatal Forestal y de Suelos deberá comprender la siguiente información:
-
-I.- La superficie y localización de terrenos forestales y preferentemente forestales con que cuenta el Estado y sus Municipios, con el propósito de integrar su información estadística y elaborar su cartografía, en sus distintos niveles de ordenación y manejo;
-
-II.- Los terrenos forestales temporales, su superficie y localización, así como los datos de sus legítimos propietarios;
-
-III.- Los tipos de vegetación forestal y de suelos, su localización, formaciones y clases, con tendencias y proyecciones que permitan clasificar y delimitar el estado actual de la degradación, así como las zonas de conservación, protección, restauración y producción forestal, en relación con las cuencas hidrológicas-forestales, las regiones ecológicas, las áreas forestales permanentes y las áreas naturales protegidas;
-
-IV.- La dinámica de cambio de la vegetación forestal del país, y del Estado que permita conocer y evaluar las tasas de deforestación y las tasas de degradación y disturbio, registrando sus causas principales;
-
-V.- La cuantificación de los recursos forestales que incluya la valoración de los bienes y servicios ambientales que generen los ecosistemas forestales, así como los impactos que ocasionen en los mismos;
-
-VI.- Los criterios e indicadores de sustentabilidad y degradación de los ecosistemas forestales;
-
-VII.- Los inventarios sobre la infraestructura forestal existente; y
-
-VIII.- Los demás datos afines a la materia forestal.
+(DEROGADO, P.O. 7 DE JUNIO DE 2013)
 
 ###### Artículo 30.
 
-Los datos comprendidos en el Inventario Estatal Forestal y de Suelos serán la base para:
-
-I.- La formulación, ejecución, control y seguimiento de programas y acciones en materia forestal estatal y municipal;
-
-II.- El cálculo del volumen de madera o biomasa forestal en pie, su incremento y el volumen de corta o aprovechamiento potencial;
-
-III.- La integración de la ordenación forestal y el ordenamiento ecológico del territorio; y
-
-IV.- La evaluación y seguimiento de los planes a largo, mediano y corto plazo.
-
-En el Reglamento de la presente Ley se determinarán los criterios, metodología y procedimientos para la integración, organización, actualización y monitoreo de los datos que deberá contener el Inventario Estatal Forestal y de Suelos.
+(DEROGADO, P.O. 7 DE JUNIO DE 2013)
 
 ###### Artículo 31.
 
-En la formulación de Inventario Estatal Forestal y de Suelos y de ordenación forestal, se deberán considerar cuando menos los siguientes criterios:
-
-I.- La delimitación por cuencas y subcuencas hidrológicas-forestales;
-
-II.- La naturaleza, características, diversidad de los ecosistemas o tipos de vegetación forestales existentes en el territorio del Estado;
-
-III.- La vocación de los terrenos forestales y preferentemente forestales; y
-
-IV.- Los desequilibrios existentes en los ecosistemas por efecto de las actividades económicas o de otras actividades humanas o fenómenos naturales.
+(DEROGADO, P.O. 7 DE JUNIO DE 2013)
 
 #### Sección Cuarta. De la Ordenación Forestal
 
@@ -687,9 +657,11 @@ Las medidas, programas e instrumentos económicos relativos al desarrollo de la 
 
 La autoridad estatal, con el propósito de coadyuvar en el desarrollo industrial forestal de la Entidad, promoverá programas de apoyo para los dueños de los terrenos forestales y del sector privado, tendientes a la modernización industrial forestal y a la constitución de asociaciones en participación entre productores y del sector privado, así como para el otorgamiento de incentivos de carácter económico y fiscal, en coordinación con las dependencias federales y estatales con ingerencia (sic) en la materia.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 65.
 
-La Secretaría de Finanzas y Administración diseñará, propondrá y aplicará medidas para asegurar que el Estado, los Municipios, la sociedad y los particulares coadyuven financieramente para la realización de tareas de conservación, protección, restauración, vigilancia, silvicultura, ordenación y manejo sustentable de los ecosistemas forestales.
+La Secretaría de Finanzas, Inversión y Administración diseñará, propondrá y aplicará medidas para asegurar que el Estado, los Municipios, la sociedad y los particulares coadyuven financieramente para la realización de tareas de conservación, protección, restauración, vigilancia, silvicultura, ordenación y manejo sustentable de los ecosistemas forestales.
 
 #### Sección Segunda. De la Empresa Social Forestal
 
@@ -821,9 +793,13 @@ Invariablemente deberá solicitársele su opinión en materia de planeación for
 
 El Consejo Estatal Forestal estará integrado por los siguientes miembros:
 
-I.- El Gobernador del Estado, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-II.- El Titular de la Secretaría de Desarrollo Agropecuario, quien fungirá como Secretario;
+I.- Un ciudadano designado por el Gobernador del Estado, quien fungirá como Presidente;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+II.- El Titular de la Secretaría de Desarrollo Agroalimentario y Rural, quien fungirá como Secretario;
 
 III.- El Director General del Instituto de Ecología del Estado; y
 
@@ -835,11 +811,17 @@ b) Representantes de instituciones académicas y de investigación en materia fo
 
 c) Representantes de los municipios, de ejidos, comunidades indígenas, pequeños propietarios, prestadores de servicios técnicos forestales, industriales o personas físicas o morales relacionadas con la actividad forestal.
 
-Cada integrante del Consejo Estatal Forestal designará un suplente. El Gobernador del Estado será suplido por el vocal que para tal efecto designe.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Cada integrante del Consejo Estatal Forestal designará un suplente.
 
 Asimismo se invitará a formar parte del Consejo a un representante del Poder Legislativo de la comisión legislativa vinculada con la materia, y a representantes de la Comisión y de la SEMARNAT.
 
 Los cargos de los integrantes del Consejo Estatal Forestal, serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Cuando el Gobernador asista, asumirá la presidencia, y el ciudadano presidente se desempeñará como vocal; ambos conservarán su derecho a voz y voto.
 
 ###### Artículo 82.
 
@@ -888,3 +870,11 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
