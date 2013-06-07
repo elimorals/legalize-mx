@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-proyectos-de-prestacion-de-servicios-para-el-estado-7545
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-11"
-last_updated: "2010-06-11"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75453&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 11 de junio de 2010.
 
@@ -77,7 +77,7 @@ IV. Contrato de Prestación de Servicios: El instrumento jurídico que, para el 
 
 V. Convocante: El sujeto de la ley que convoque a una licitación para adjudicar un contrato de prestación de servicios;
 
-VI. Coordinación: La Coordinación General de Programación y Gestión de la Inversión Pública del Estado;
+VI. (DEROGADA, P.O. 7 DE JUNIO DE 2013)
 
 VII. Dependencias: Los órganos subordinados en forma directa al titular del Poder Ejecutivo del Estado o a los ayuntamientos;
 
@@ -87,9 +87,13 @@ IX. Inversionista proveedor: La persona obligada a prestar servicios a los sujet
 
 X. Licitador: La persona que participe en un procedimiento de licitación;
 
-XI. Órgano de Control Interno: La Secretaría de la Gestión Pública del Estado, las contralorías municipales, así como las áreas administrativas responsables de las funciones de vigilancia y control en los poderes Legislativo y Judicial y en los organismos autónomos, en el ámbito de sus competencias;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-XII. Secretaría: La Secretaría de Finanzas y Administración del Estado; y
+XI. Órgano de Control Interno: La Secretaría de la Transparencia y Rendición de Cuentas del Estado, las contralorías municipales, así como las áreas administrativas responsables de las funciones de vigilancia y control en los poderes Legislativo y Judicial y en los organismos autónomos, en el ámbito de sus competencias;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+XII. Secretaría: La Secretaría de Finanzas, Inversión y Administración del Estado; y
 
 XIII. Tesorería: La Tesorería Municipal.
 
@@ -217,11 +221,23 @@ La Secretaría, de conformidad con la Ley General de Contabilidad Gubernamental,
 
 Obligación y alcances del Análisis de Comparación Público-Privado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 13.
 
-Los sujetos de la ley deberán elaborar para cada proyecto de prestación de servicios que pretendan implementar, un Análisis de Comparación Público-Privado, de conformidad con los lineamientos que al efecto emita la Coordinación en el ámbito estatal o la Tesorería en el municipal.
+Los sujetos de la ley deberán elaborar para cada proyecto de prestación de servicios que pretendan implementar, un Análisis de Comparación Público-Privado, de conformidad con los lineamientos que al efecto emita la Secretaría en el ámbito estatal o la Tesorería en el municipal.
 
 El Análisis de Comparación Público-Privado deberá demostrar si el proyecto de prestación de servicios generará o no beneficios netos iguales o mayores a los que se obtendrían a través de un proyecto financiado con recursos presupuestales o crediticios bajo esquemas de inversión pública tradicional y que atenderá las mismas necesidades que éstos.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Dictamen
+
+###### Artículo 13 Bis.
+
+Para cada proyecto de prestación de servicios que pretendan implementar los sujetos de la ley, deberá contarse con un dictamen favorable respecto al contenido y resultados del Análisis de Comparación Público-Privado, que determine la congruencia del proyecto de prestación de servicios con esta ley y con el marco normativo del sujeto de la ley solicitante, el Plan Estatal de Desarrollo, el Programa de Gobierno y, según sea el caso, los programas regionales, sectoriales, institucionales y especiales que resulten aplicables.
+
+El dictamen será elaborado por la unidad administrativa de la Secretaría que señale el Reglamento de la Ley.
 
 ### Capítulo II. Validación
 
@@ -265,7 +281,9 @@ I. Considerar el impacto que en las finanzas públicas puedan tener los pagos qu
 
 II. Analizar la sustentabilidad a largo plazo del proyecto de prestación de servicios; y
 
-III. Recibir un dictamen favorable de la Coordinación respecto al contenido y resultados del Análisis de Comparación Público-Privado y respecto a la congruencia del proyecto de prestación de servicios con esta ley y con el marco normativo del sujeto de la ley solicitante, el Plan Estatal de Desarrollo y, según sea el caso, los programas regionales, sectoriales, institucionales y especiales que resulten aplicables.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+III. Recibir el dictamen favorable que señala el artículo 13 Bis.
 
 Elementos a considerar para validar proyectos de prestación de servicios en los municipios
 
@@ -277,9 +295,13 @@ I. Considerar el impacto que en las finanzas públicas puedan tener los pagos qu
 
 II. Analizar la sustentabilidad a largo plazo del proyecto de prestación de servicios;
 
-III. Considerar la congruencia del proyecto de prestación de servicios con esta ley, el Plan Municipal de Desarrollo, el Plan de Gobierno Municipal y los programas derivados de éste que resulten aplicables y el marco normativo del sujeto de la ley solicitante;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-IV. Recabar la opinión de la Coordinación respecto al contenido y resultados del Análisis de Comparación Público-Privado y respecto a la congruencia del proyecto de prestación de servicios con esta ley y su relación con el Plan Estatal de Desarrollo, el Plan de Gobierno del Estado, planes o programas municipales y los programas que resulten aplicables; y
+III. Considerar la congruencia del proyecto de prestación de servicios con esta ley, el Plan Municipal de Desarrollo, el Programa de Gobierno Municipal y los programas derivados de éste que resulten aplicables y el marco normativo del sujeto de la ley solicitante;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+IV. Recabar la opinión de la Secretaría sobre el contenido y resultados del Análisis de Comparación Público-Privado y respecto a la congruencia del proyecto de prestación de servicios con esta ley y su relación con el Plan Estatal de Desarrollo, el Programa de Gobierno del Estado, planes o programas municipales y los programas que resulten aplicables; y
 
 V. Recabar la opinión de la Secretaría respecto a la viabilidad financiera para desarrollar el proyecto de prestación de servicios.
 
@@ -926,3 +948,11 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
