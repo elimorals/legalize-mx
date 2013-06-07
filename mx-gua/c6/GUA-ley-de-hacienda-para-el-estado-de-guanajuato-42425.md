@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-42425"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2012-09-14"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 27 de diciembre de 2004.
 
@@ -161,11 +161,19 @@ II.- Llevar la contabilidad de conformidad con el Código Fiscal para el Estado 
 
 III.- Presentar declaraciones; y
 
-IV.- Presentar ante las oficinas autorizadas a más tardar el 28 de febrero de cada año, la información sobre las personas a las que les hayan efectuado pagos por concepto de remuneraciones, en la forma oficial que dé a conocer la Secretaría de Finanzas y Administración.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+IV.- Presentar ante las oficinas autorizadas a más tardar el 28 de febrero de cada año, la información sobre las personas a las que les hayan efectuado pagos por concepto de remuneraciones, en la forma oficial que dé a conocer la Secretaría de Finanzas, Inversión y Administración.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 8.
 
-La Secretaría de Finanzas y Administración podrá estimar las erogaciones de los sujetos de este impuesto en los siguientes casos:
+La Secretaría de Finanzas, Inversión y Administración podrá estimar las erogaciones de los sujetos de este impuesto en los siguientes casos:
 
 I.- Cuando no presenten sus declaraciones, no lleven los libros o registros a que legalmente están obligados.
 
@@ -371,7 +379,9 @@ Las personas físicas que realicen actividades empresariales, que únicamente en
 
 Los contribuyentes a que se refiere el párrafo anterior, efectuarán pagos bimestrales definitivos, mediante declaración, a más tardar el día 22 del mes inmediato posterior a aquél al que corresponda el pago. El pago definitivo se determinará restando de la totalidad de los ingresos a que se refiere esta Sección obtenidos en el periodo que declara un monto equivalente a cuatro veces el salario mínimo general en el Estado de Guanajuato elevado al periodo que declara.
 
-Al resultado que se obtenga conforme al párrafo anterior, se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato, o bien, podrán aplicar la cuota fija que determine la Secretaría de Finanzas y Administración, la cual deberá ser publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato, en el mes de enero de cada año.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Al resultado que se obtenga conforme al párrafo anterior, se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato, o bien, podrán aplicar la cuota fija que determine la Secretaría de Finanzas, Inversión y Administración, la cual deberá ser publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato, en el mes de enero de cada año.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2007)</small>
 
@@ -399,9 +409,13 @@ Es objeto de este impuesto la adquisición de vehículos de motor usados por cua
 
 Están obligados al pago de este impuesto las personas físicas y morales que adquieran los vehículos de motor señalados en el artículo anterior.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 31.
 
-La base para el pago de este impuesto será el precio más alto que resulte entre el valor de la operación y el que fije la Secretaría de Finanzas y Administración en las tablas de valores que anualmente autorice para este efecto, y que deberá expedir durante el primer trimestre del ejercicio fiscal, tomando como referencia los precios comerciales de compra que rijan entre los comerciantes del ramo, o el que determine la propia Secretaría mediante avalúo.
+La base para el pago de este impuesto será el precio más alto que resulte entre el valor de la operación y el que fije la Secretaría de Finanzas, Inversión y Administración en las tablas de valores que anualmente autorice para este efecto, y que deberá expedir durante el primer trimestre del ejercicio fiscal, tomando como referencia los precios comerciales de compra que rijan entre los comerciantes del ramo, o el que determine la propia Secretaría mediante avalúo.
 
 ###### Artículo 32.
 
@@ -411,7 +425,11 @@ Este impuesto se causará y liquidará a la tasa que establezca anualmente la Le
 
 El impuesto se pagará dentro de los 15 días siguientes a la adquisición y se liquidará en la Oficina Recaudadora que corresponda, presentando la factura o documento en que se haya hecho constar.
 
-Los contribuyentes acreditarán el pago del impuesto mediante el recibo oficial que expidan las Oficinas Recaudadoras de la Secretaría de Finanzas y Administración.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Los contribuyentes acreditarán el pago del impuesto mediante el recibo oficial que expidan las Oficinas Recaudadoras de la Secretaría de Finanzas, Inversión y Administración.
 
 ###### Artículo 34.
 
@@ -431,7 +449,11 @@ Son sujetos de este impuesto las personas físicas o morales que obtengan ingres
 
 Este impuesto se determinará de acuerdo con la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato, sobre la base gravable, constituida por el monto total del ingreso obtenido por los premios correspondientes a cada boleto o billete entero, sin deducción alguna.
 
-Los organismos descentralizados, sus sucursales o expendios autorizados, a que se refiere el artículo 35 de esta Ley, retendrán el impuesto causado y lo enterarán a la Secretaría de Finanzas y Administración, mediante declaración mensual en el formato autorizado, que deberán presentar dentro de los quince días del mes siguiente a aquél al que corresponda el pago en la que se señalarán los datos relativos a la identificación de los premios pagados y el impuesto retenido en el territorio del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Los organismos descentralizados, sus sucursales o expendios autorizados, a que se refiere el artículo 35 de esta Ley, retendrán el impuesto causado y lo enterarán a la Secretaría de Finanzas, Inversión y Administración, mediante declaración mensual en el formato autorizado, que deberán presentar dentro de los quince días del mes siguiente a aquél al que corresponda el pago en la que se señalarán los datos relativos a la identificación de los premios pagados y el impuesto retenido en el territorio del Estado.
 
 ### CAPÍTULO QUINTO. DEL IMPUESTO POR SERVICIOS DE HOSPEDAJE
 
@@ -505,13 +527,25 @@ Las infracciones a las disposiciones de este Capítulo se sancionarán en los t�
 
 El 90% de los ingresos que se obtengan de este impuesto, se destinarán por conducto de la dependencia respectiva, a la promoción y difusión de la imagen turística del Estado y municipios de Guanajuato, a la inversión y desarrollo en paraderos turísticos públicos, así como la participación del Estado en los fondos concurrentes con los gobiernos federal y municipales y el sector privado en esta materia.
 
-La Secretaría de Finanzas y Administración asignará a la dependencia correspondiente los ingresos captados, dentro de los 30 días siguientes al mes en que se deba pagar este impuesto en la Oficina Recaudadora.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En la cuenta pública estatal, se deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en los términos de esta Ley. Para este efecto se deberá presentar a la Secretaría de Finanzas y Administración un informe financiero en forma trimestral.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+La Secretaría de Finanzas, Inversión y Administración asignará a la dependencia correspondiente los ingresos captados, dentro de los 30 días siguientes al mes en que se deba pagar este impuesto en la oficina recaudadora.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+En la cuenta pública estatal, se deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en los términos de esta ley. Para este efecto se deberá presentar a la Secretaría de Finanzas, Inversión y Administración un informe financiero en forma trimestral.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 48.
 
-El 90% de los ingresos obtenidos de la recaudación de este impuesto, se destinará a la constitución de un fondo de promoción y difusión para el turismo del Estado, que será administrado en los términos del artículo anterior; y el 10% a la Secretaría de Finanzas y Administración para gastos de administración integral del impuesto.
+El 90% de los ingresos obtenidos de la recaudación de este impuesto, se destinará a la constitución de un fondo de promoción y difusión para el turismo del Estado, que será administrado en los términos del artículo anterior; y el 10% a la Secretaría de Finanzas, Inversión y Administración para gastos de administración integral del impuesto.
 
 ### CAPÍTULO PRIMERO. REGLAS GENERALES
 
@@ -525,9 +559,13 @@ El 90% de los ingresos obtenidos de la recaudación de este impuesto, se destina
 
 Los derechos por la prestación de servicios públicos que presten las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que se provoque por parte del Estado el gasto que deba ser remunerado por aquél, salvo el caso en que la disposición que fije el Derecho, señale cosa distinta.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 50.
 
-El importe de las cuotas que para cada derecho señala anualmente la Ley de Ingresos respectivamente deberá ser cubierto, en la Oficina Recaudadora con jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Finanzas y Administración, salvo lo dispuesto en el Capítulo Tercero de este Título.
+El importe de las cuotas que para cada derecho señala anualmente la Ley de Ingresos respectivamente deberá ser cubierto, en la Oficina Recaudadora con jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Finanzas, Inversión y Administración, salvo lo dispuesto en el Capítulo Tercero de este Título.
 
 ###### Artículo 51.
 
@@ -589,17 +627,21 @@ Para obtener la baja definitiva del vehículo en los casos de cambio de propieta
 
 Las personas físicas y las morales que usen las carreteras y puentes de cuota en operación pagarán derechos conforme a las tarifas que al efecto establezca la Ley de Ingresos para el Estado de Guanajuato.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 57.
 
-La Secretaría de Finanzas y Administración, deberá fijar en lugares visibles para los usuarios de las citadas vías de comunicación, la tarifa vigente para el pago de los derechos correspondientes por el uso de las carreteras y puentes estatales de cuota. Asimismo, podrá proponer la celebración de convenios, y efectuar promociones para el pago de dichos derechos.
+La Secretaría de Finanzas, Inversión y Administración, deberá fijar en lugares visibles para los usuarios de las citadas vías de comunicación, la tarifa vigente para el pago de los derechos correspondientes por el uso de carreteras y puentes estatales de cuota. Asimismo, podrá proponer la celebración de convenios, y efectuar promociones para el pago de dichos derechos.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 58.
 
-La Secretaría de Finanzas y Administración recaudará los ingresos a que se refiere el artículo anterior.
+La Secretaría de Finanzas, Inversión y Administración recaudará los ingresos a que se refiere el artículo anterior.
 
 ###### Artículo 59.
 
@@ -775,13 +817,21 @@ Los capitales sujetos a réditos, así como toda clase de acciones y valores que
 
 Los rendimientos producidos por organismos descentralizados y empresas de participación estatal, se percibirán cuando lo decreten y exhiban, conforme a sus respectivos regímenes interiores, los organismos y empresas que los produzcan.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 81.
 
-La venta de inmuebles propiedad del Estado de Guanajuato se sujetará a lo que establezca la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con bienes muebles e inmuebles propiedad del Estado.
+La venta de inmuebles propiedad del Estado de Guanajuato se sujetará a lo que establezca la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 82.
 
-Ingresarán además a la Secretaría de Finanzas y Administración en la cuantía respectiva, los ingresos derivados de:
+Ingresarán además a la Secretaría de Finanzas, Inversión y Administración en la cuantía respectiva, los ingresos derivados de:
 
 I.- Actos lucrativos en los establecimientos de Asistencia Pública Estatal;
 
@@ -870,3 +920,9 @@ Artículo Segundo. Se derogan las disposiciones legales, que se opongan al prese
 P.O. 14 DE SEPTIEMBRE DE 2012.
 
 Artículo Único. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
