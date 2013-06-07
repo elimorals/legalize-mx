@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-gestion-integral-de-residuos-del-estado-y-los-44842
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-10"
-last_updated: "2005-05-10"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY PARA LA GESTION INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-LEY PARA LA GESTION INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
+LEY PARA LA GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley Publicada en el Periódico Oficial del Estado de Guanajuato, el 10 de mayo de 2005.
 
@@ -77,7 +77,9 @@ IX. Ley General: Ley General para la Prevención y Gestión Integral de los Resi
 
 X. Minimización: El conjunto de medidas dirigidas a disminuir la generación de residuos y a aprovechar el valor de aquellos cuya generación no sea posible evitar;
 
-XI. Procuraduría: La Procuraduría de Protección al Ambiente del Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+XI. Procuraduría: La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato;
 
 XII. Recolección: La acción de recibir los residuos sólidos urbanos o de manejo especial de sus generadores y trasladarlos a las instalaciones autorizadas, almacenarlos, reutilizarlos, reciclarlos, tratarlos o disponer de ellos en rellenos sanitarios o en sitios controlados;
 
@@ -113,7 +115,9 @@ I. El Ejecutivo del Estado;
 
 II. El Instituto de Ecología del Estado;
 
-III. La Procuraduría de Protección al Ambiente del Estado, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+III. La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato; y
 
 IV. Los ayuntamientos.
 
@@ -397,9 +401,11 @@ El Ejecutivo del Estado y los ayuntamientos deberán publicar en el Periódico O
 
 ### CAPÍTULO IV. DE LA INFORMACIÓN SOBRE RESIDUOS
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 24.
 
-La información obtenida por el Instituto, la Procuraduría y las autoridades municipales en el ejercicio de sus funciones, será pública en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+La información obtenida por el Instituto, la Procuraduría y las autoridades municipales en el ejercicio de sus funciones, será pública en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
 
 ### CAPÍTULO V. DE LOS INSTRUMENTOS ECONÓMICOS
 
@@ -858,3 +864,11 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
