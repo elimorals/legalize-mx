@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "2013-03-22"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -925,13 +925,17 @@ I.- Los créditos fiscales por Impuestos sobre la Propiedad Raíz, serán prefer
 
 II.- En los demás casos, la preferencia corresponderá al fisco que tenga el carácter de primer embargante.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 91.
 
 En los casos en que la coincidencia se presente ante el fisco del Municipio y autoridades diversas a las fiscales, la preferencia respecto de los créditos fiscales, se sujetará a las siguientes reglas:
 
-I.- Los créditos a favor del fisco del Municipio son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaria, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los obreros de acuerdo con la Ley Federal del Trabajo.
+l. Los créditos a favor del fisco del Municipio son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaria, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los obreros de acuerdo con la Ley Federal del Trabajo;
 
-En el caso de las garantías hipotecarias y, en su caso, las prendarias, se requiere que se encuentren debidamente inscritas en el Registro Público de la Propiedad y del Comercio, y, respecto de los créditos por alimentos, que se haya presentado la demanda ante las autoridades competentes antes de que se hubiera notificado al deudor el crédito fiscal, y la vigencia y exigibilidad por la cantidad líquida del derecho del crédito cuya preferencia se invoque, deberá comprobarse en forma fehaciente al hacerse valer el recurso administrativo.
+II. En el caso de las garantías hipotecarias y, en su caso, las prendarias, se requiere que se encuentren debidamente inscritas en el Registro Público de la Propiedad; y
+
+III. Respecto de los créditos por alimentos, que se haya presentado la demanda ante las autoridades competentes antes de que se hubiera notificado al deudor el crédito fiscal, y la vigencia y exigibilidad por la cantidad líquida del derecho del crédito cuya preferencia se invoque, deberá comprobarse en forma fehaciente al hacerse valer el recurso administrativo.
 
 ###### ARTICULO 92.
 
@@ -943,7 +947,9 @@ II.- Impresión y publicación de edictos y convocatorias;
 
 III.- Transporte del personal ejecutor y de los bienes muebles embargados, o guarda y custodia de éstos;
 
-IV.- Inscripción en el Registro Público de la Propiedad y del Comercio, del embargo de bienes o negociaciones y certificados de gravámenes de los bienes embargados; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+IV.- Inscripción en el Registro Público de la Propiedad, del embargo de bienes o negociaciones y certificados de gravámenes de los bienes embargados; y
 
 V.- Cualquier otro gasto o erogación que con el carácter de extraordinario sea necesario hacer para el éxito del procedimiento aludido.
 
@@ -1059,9 +1065,13 @@ Cuando los bienes señalados para la traba de ejecución estuvieren ya embargado
 
 El embargo de créditos será notificado personalmente por el ejecutor a los deudores del embargo para que hagan pago de los adeudos a su cargo en la Tesorería Municipal, apercibidos de doble pago en caso de desobediencia.
 
-Si en cumplimiento de lo dispuesto en el primer párrafo de este artículo se pagó un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad y del Comercio, se requerirá al acreedor embargado para que, dentro de los cinco días siguientes a la notificación firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-En caso de abstención del titular de los créditos embargados, transcurrido el plazo señalado, el Tesorero Municipal firmará la escritura o documentos relativos en rebeldía de aquél. Lo que hará del conocimiento de la Oficina de Registro Público de la Propiedad y del Comercio para los efectos procedentes.
+Si en cumplimiento de lo dispuesto en el primer párrafo de este artículo se pagó un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad, se requerirá al acreedor embargado para que, dentro de los cinco días siguientes a la notificación firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+En caso de abstención del titular de los créditos embargados, transcurrido el plazo señalado, el Tesorero Municipal firmará la escritura o documentos relativos en rebeldía de aquél, lo que hará del conocimiento de la Oficina de Registro Público de la Propiedad para los efectos procedentes.
 
 ###### ARTICULO 105.
 
@@ -1173,9 +1183,11 @@ El embargado o terceros acreedores que no estén conformes con la valuación hec
 
 En caso de discrepancia en los avalúos practicados por los dos peritos, la Tesorería Municipal, hará el nombramiento de un tercero y el avalúo practicado por este, será la base para el remate.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 121.
 
-Para proceder al remate de bienes inmuebles, derechos reales o posesorios y de negociaciones embargadas se obtendrá del Registro Público de la Propiedad y del Comercio, un certificado a fin de acreditar que los bienes son propiedad del deudor o tiene derechos adquiridos sobre ellos y conocen, en su caso, los gravámenes registrados.
+Para proceder al remate de bienes inmuebles, derechos reales o posesorios y de negociaciones embargadas se obtendrá del Registro Público de la Propiedad, un certificado a fin de acreditar que los bienes son propiedad del deudor o tiene derechos adquiridos sobre ellos y conocen, en su caso, los gravámenes registrados.
 
 ###### ARTICULO 122.
 
@@ -1225,7 +1237,9 @@ El importe de los depósitos que se constituyan, servirá de garantía para el c
 
 Las posturas deberán contener los siguientes datos:
 
-I.- Cuando se trate de personas físicas, el nombre, edad, nacionalidad, capacidad legal, estado civil, profesión y domicilio del postor. Si fuere una Sociedad, la denominación o razón social, la fecha de su constitución e inscripción del Registro Público de la Propiedad y del Comercio, la clave del Registro Federal de Contribuyentes y el Domicilio Social.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I. Cuando se trate de personas físicas, el nombre, edad, nacionalidad, capacidad legal, estado civil, profesión y domicilio del postor. Si fuere una Sociedad, la denominación o razón social, la fecha de su constitución e inscripción del Registro Público de la Propiedad, la clave del Registro Federal de Contribuyentes y el Domicilio Social.
 
 II. Las cantidades que se ofrezcan y la forma de pago.
 
@@ -1257,9 +1271,11 @@ Hecho el pago a que se refiere el párrafo anterior y designado en su caso el no
 
 El ejecutado, aún en el caso de rebeldía, responde a la evicción y saneamiento del bien adjudicado y responderá por los vicios ocultos, según corresponda.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 133.
 
-Los bienes pasarán a ser propiedad del adquirente, libres de todo gravamen y a fin de que se cancelen los que reportare el Jefe de la Oficina Ejecutora que finque el remate, deberá comunicarlo al Registro Público de la Propiedad y del Comercio respectivo en un plazo que no excederá de quince días.
+Los bienes pasarán a ser propiedad del adquirente, libres de todo gravamen y a fin de que se cancelen los que reportare el Jefe de la Oficina Ejecutora que finque el remate, deberá comunicarlo al Registro Público de la Propiedad respectivo en un plazo que no excederá de quince días.
 
 ###### ARTICULO 134.
 
@@ -1525,9 +1541,9 @@ III.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1990)
 
 IV.- Por avalúo realizado por peritos autorizados por la Tesorería Municipal, usando medios o técnicas fotogramétricas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 1993)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-Cuando se trate de vivienda de interés social o popular, en los términos de la fracción II del artículo 3o. de la Ley de Vivienda para el Estado de Guanajuato, la base para el pago de éste impuesto será el setenta por ciento del valor que resulte de la aplicación de la tabla de valores que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato, siempre y cuando se trate de la única propiedad o posesión del contribuyente.
+Cuando se trate de vivienda de interés social o popular, en los términos del artículo 462 del Código Territorial para el Estado y los Municipios de Guanajuato, la base para el pago de éste impuesto será el setenta por ciento del valor que resulte de la aplicación de la tabla de valores que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato, siempre y cuando se trate de la única propiedad o posesión del contribuyente.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
@@ -1727,11 +1743,11 @@ La base de este impuesto será el valor más alto entre el fiscal registrado, en
 
 Para los efectos de este impuesto, también podrá presentarse peritaje bancario con antigüedad no mayor a un año.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-Sin perjuicio de lo señalado en el párrafo primero del presente artículo, para el caso de vivienda de interés social, en los términos de la Ley de Vivienda para el Estado de Guanajuato, adquirida solamente con crédito del Instituto de Fondo Nacional de la Vivienda para los Trabajadores, del Fondo Nacional de la Vivienda para los Trabajadores, del Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o del Instituto de Seguridad Social del Estado de Guanajuato o, en cofinanciamiento con algún intermediario financiero, podrá presentarse el avalúo practicado por la unidad de valuación que haya servido de base paro el otorgamiento del crédito.
+Sin perjuicio de lo señalado en el párrafo primero del presente artículo, para el caso de vivienda de interés social, en los términos del Código Territorial para el Estado y los Municipios de Guanajuato, adquirida solamente con crédito del Instituto de Fondo Nacional de la Vivienda para los Trabajadores, del Fondo Nacional de la Vivienda para los Trabajadores, del Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o del Instituto de Seguridad Social del Estado de Guanajuato o, en cofinanciamiento con algún intermediario financiero, podrá presentarse el avalúo practicado por la unidad de valuación que haya servido de base para el otorgamiento del crédito.
 
-> <small>(REFORMADO, P. O. 22 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 Cuando el inmueble no haya sufrido modificaciones, el valor del mismo, a elección del contribuyente y mediante solicitud por escrito, podrá ser el valor de adquisición del mismo, disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere esta Ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto. En este caso no se aplicará lo dispuesto por el artículo 181 de esta Ley.
 
@@ -1743,15 +1759,15 @@ En todas las operaciones se reducirá el valor del inmueble de la siguiente mane
 
 I.- La cantidad que represente diez veces el salario mínimo general diario elevado al año, que corresponda en el área geográfica donde se encuentre ubicado el bien inmueble;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
-II.- La cantidad que represente quince veces el salario mínimo general diario elevado al año, que corresponda en el área geográfica donde se encuentre ubicado el inmueble, cuando se trate de casas habitación de interés social, en los términos de la fracción II del artículo 3o. de la Ley de Vivienda para el Estado de Guanajuato.
+II.- La cantidad que represente quince veces el salario mínimo general diario elevado al año, que corresponda en el área geográfica donde se encuentre ubicado el inmueble, cuando se trate de casas habitación de interés social, en los términos del artículo 462 del Código Territorial para el Estado y los Municipios de Guanajuato.
 
 El mismo monto se reducirá tratándose de casas habitación adquiridas mediante financiamiento otorgado por el Instituto de Seguridad Social del Estado de Guanajuato; Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fondo Nacional de Habitaciones Populares; Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o por el Fondo de la Vivienda para los Miembros del Ejército, Fuerza Aérea y Armada; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 1993)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-III.- La cantidad que represente veinte veces el salario mínimo general elevado al año, que corresponda en el área geográfica donde se encuentre ubicado el inmueble, cuando se trate de vivienda popular, cuyo valor no exceda del monto previsto en la fracción II del artículo 3o. de la Ley de Vivienda para el Estado de Guanajuato.
+III.- La cantidad que represente veinte veces el salario mínimo general elevado al año, que corresponda en el área geográfica donde se encuentre ubicado el inmueble, cuando se trate de vivienda popular, cuyo valor no exceda del monto previsto en el artículo 462 del Código Territorial para el Estado y los Municipios de Guanajuato.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 1993)</small>
 
@@ -1787,9 +1803,9 @@ Si el acto o contrato se hace constar en Escritura Pública, el Notario Público
 
 Están obligados al pago de este impuesto los propietarios o poseedores de inmuebles que los dividan o lotifiquen y no constituya fraccionamiento.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-La lotificación y división de inmuebles, se tramitarán de conformidad con las disposiciones contenidas en la Ley de Fraccionamientos para los Municipios del Estado de Guanajuato.
+La lotificación y división de inmuebles, se tramitarán de conformidad con las disposiciones contenidas en el Código Territorial para el Estado y los Municipios de Guanajuato.
 
 ###### ARTICULO 187.
 
@@ -1855,9 +1871,11 @@ El pago de la cuota anterior deberá hacerse dentro de los quince días siguient
 
 Una vez pagado o garantizado el Impuesto, la Tesorería Municipal, después de señalar la región y el número catastral que le corresponda a cada una de las manzanas de que se componga el fraccionamiento, entregará los planos aprobados con la anotación anterior al Ayuntamiento para que proceda, en su caso, a otorgar la licencia para la ejecución de las obras de urbanización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 198.
 
-En los casos de fraccionamientos que se hagan total o parcialmente sin la autorización que establece la Ley de Fraccionamientos, independientemente del cobro del Impuesto sobre Fraccionamientos y la aplicación de las sanciones procedentes, tanto administrativas como penales, se ordenará desde luego el registro de los lotes en que se divide el fraccionamiento, para que se apliquen las disposiciones relacionadas con el Impuesto Predial.
+En los casos de fraccionamientos que se hagan total o parcialmente sin la autorización que establece el Código Territorial para el Estado y los Municipios de Guanajuato y la aplicación de las sanciones procedentes, tanto administrativas como penales, se ordenará desde luego el registro de los lotes en que se divide el fraccionamiento, para que se apliquen las disposiciones relacionadas con el Impuesto Predial.
 
 En estos casos el adquirente de lotes de un fraccionamiento irregular será solidariamente responsable del pago del Impuesto sobre fraccionamientos y anexidades legales.
 
@@ -2325,27 +2343,19 @@ Los rendimientos producidos por organismos descentralizados y empresas de partic
 
 ###### ARTICULO 253.
 
-La venta de inmuebles municipales se sujetará a las bases siguientes:
-
-I.- Obtenida por el Ayuntamiento la autorización del Congreso del Estado, o en su caso, de la diputación permanente, a que se refiere el artículo 42 de la Ley Orgánica Municipal, y una vez atendidas las indicaciones señaladas en la propia autorización sobre publicidad y desarrollo de la subasta pública, la venta se hará en esta, presidida por el tesorero municipal, con citación del sindico del ayuntamiento.
-
-II.- El producto de la venta se destinará a obras útiles o necesarias en los términos que hubiere acordado el propio ayuntamiento al decidir tal enajenación.
+(DEROGADO, P.O. 7 DE JUNIO DE 2013)
 
 ###### ARTICULO 254.
 
-Los inmuebles que las tesorerías municipales se hayan adjudicado en pago de contribuciones, podrán ser enajenados en subasta pública, previo acuerdo del ayuntamiento y autorización correspondiente por el Congreso del Estado o en su caso por la diputación permanente.
+(DEROGADO, P.O. 7 DE JUNIO DE 2013)
 
 ###### ARTICULO 255.
 
-Las tesorerías municipales, llevaran un registro de los inmuebles del municipio haciendo relación de títulos y demás características necesarias para su identificación.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
-
-Igualmente, llevará un inventario de todos los bienes muebles que le pertenecen, cuyo valor exceda de la cantidad que represente veinte veces el salario mínimo general diario que corresponda, elaborándose el resguardo correspondiente por cada uno de ellos. Ninguno podrá ser dado de baja sin autorización expresa del Ayuntamiento, salvo aquellos bienes muebles cuyo valor sea inferior a la cantidad antes indicada, para los cuales se elaborará el resguardo económico respectivo.
+(DEROGADO, P.O. 7 DE JUNIO DE 2013)
 
 ###### ARTICULO 256.
 
-Las enajenaciones que se efectúen en contravención a este Capítulo, serán nulas de pleno derecho.
+(DEROGADO, P.O. 7 DE JUNIO DE 2013)
 
 ###### ARTICULO 257.
 
@@ -2586,3 +2596,9 @@ Artículo Segundo. El Poder Ejecutivo del Estado establecerá conjuntamente con 
 P.O. 22 DE MARZO DE 2013.
 
 Artículo Único. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
