@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-seguridad-publica-94913
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-05"
-last_updated: "2013-06-05"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE JUNIO DE 2013.]</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 5 de junio de 2013.
 
@@ -1359,4 +1359,8 @@ RODOLFO GÓMEZ ACOSTA
 
 EL C. SECRETARIO DE SEGURIDAD PÚBLICA
 
-GRAL. DIV. D.E.M. RET ALFREDO GÓMEZ FLORES
+GRAL. DIV. D.E.M. RET
+
+> <small>(F. DE E., P.O. 7 DE JUNIO DE 2013)</small>
+
+ALFREDO FLORES GÓMEZ
