@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-defensoria-publica-para-el-estado-de-tamaulipas-72762"
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-05"
-last_updated: "2009-05-05"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "TAM"
 ---
 # LEY DE DEFENSORIA PUBLICA PARA EL ESTADO DE TAMAULIPAS
 
-LEY DE DEFENSORIA PUBLICA PARA EL ESTADO DE TAMAULIPAS
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+LEY DE DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS
+
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE LA DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS PUBLICADA EN EL ANEXO AL EXTRAORDINARIO DEL P.O. DEL ESTADO DE TAMAULIPAS DEL 7 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO SE ABROGARÁ EN LA FECHA Y ÁMBITOS ESPACIAL Y TEMPORAL DE VALIDEZ CONFORME A LAS FECHAS DE APLICACIÓN DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TAMAULIPAS EXPEDIDO MEDIANTE DECRETO No. LXI-475.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de mayo de 2009.
 
@@ -702,3 +706,25 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los dieciséis días del mes de abril del año dos mil nueve.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS ARTÍCULOS TRANSITORIOS DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley deberá ser publicada en el Periódico Oficial del Estado y entrará en vigor de manera sucesiva, conforme a las fechas de aplicación del Código de Procedimientos Penales del Estado de Tamaulipas expedida mediante Decreto No. LXI-475.
+
+###### ARTÍCULO SEGUNDO.
+
+La Ley de la Defensoría Pública del Estado de Tamaulipas, contenida en el Decreto Legislativo número LX-690, emitido por la Sexagésima Legislatura del Congreso del Estado, publicada en el Periódico Oficial del Gobierno del Estado, el 5 de mayo del año 2009, se abrogará en la fecha y ámbitos espacial y temporal de validez conforme a las fechas de aplicación del Código de Procedimientos Penales del Estado de Tamaulipas expedido mediante Decreto No. LXI-47 y conforme a las siguientes disposiciones:
+
+I. En el Distrito Judicial o Región con cabecera en Victoria, Tamaulipas, la Ley de Defensoría Pública del Estado referida en el párrafo anterior tendrá aplicación para la atención y seguimiento de los asuntos legales a cargo de los defensores y asesores públicos, iniciados con anterioridad a la entrada en vigor de la presente Ley, abrogándose cuando el último de los asuntos tramitados conforme a la ley anterior cause ejecutoria; y
+
+II. En el resto de los Distritos Judiciales o Regiones sus disposiciones seguirán aplicando hasta la fecha y en los términos contenidos en los Decretos que se expidan e inicien su vigencia formal, a cargo del Congreso del Estado o la Diputación Permanente.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo expedirá el Reglamento de la Ley de la Defensoría Pública para el Estado de Tamaulipas a más tardar 90 días después de que entre en vigor el presente Decreto.
