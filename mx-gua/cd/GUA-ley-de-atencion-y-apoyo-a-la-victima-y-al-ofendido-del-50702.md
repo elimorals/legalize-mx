@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-atencion-y-apoyo-a-la-victima-y-al-ofendido-del-50702"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2011-08-12"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ATENCIÓN Y APOYO A LA VÍCTIMA Y AL OFENDIDO DEL DELITO EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 30 de mayo de 2006.
 
@@ -393,9 +393,13 @@ V. El Titular de la Secretaría de Educación;
 
 VI. El Titular de la Secretaría de Desarrollo Social y Humano;
 
-VII. El Titular de la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-VIII. El Titular de la Secretaría de la Gestión Pública;
+VII. El titular de la Secretaría de Finanzas, Inversión y Administración;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VIII. El titular de la Secretaría de la Transparencia y Rendición de Cuentas;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -577,9 +581,11 @@ VII. Los rendimientos que se obtengan de las inversiones y reinversiones de los 
 
 VIII. Por el pago de la reparación del daño causado, cuando se trate de hechos punibles que afecten intereses colectivos o difusos o que afecten el patrimonio del Estado.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 36.
 
-Los recursos del Fondo serán administrados por la Dirección General de Administración de la Procuraduría General de Justicia del Estado. Mensualmente las Secretarías de Finanzas y Administración y la de la Gestión Pública fiscalizarán el correcto ejercicio del Fondo.
+Los recursos del Fondo serán administrados por la Dirección General de Administración de la Procuraduría General de Justicia del Estado. Mensualmente las Secretarías de Finanzas, Inversión y Administración y de la Transparencia y Rendición de Cuentas fiscalizarán el correcto ejercicio del Fondo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -661,7 +667,7 @@ Los programas tendientes a una cultura de prevención del delito con la particip
 
 ###### Artículo 44.
 
-Dependiendo de los requerimientos o necesidades de Atención, las acciones, para la generación de soluciones y alternativas de más fácil acceso, se encaminarán a orientar, sensibilizar, concientizar o asesorar sobre cuestiones relativas a:
+Dependiendo de los requerimientos o necesidades de atención, las acciones, para la generación de soluciones y alternativas de más fácil acceso, se encaminarán a orientar, sensibilizar, concientizar o asesorar sobre cuestiones relativas a:
 
 I. Prevención de delitos;
 
@@ -752,3 +758,9 @@ P.O. 12 DE AGOSTO DE 2011.
 Artículo Primero. El presente Decreto entrará en vigencia el 1 de septiembre de 2011, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. El Reglamento de esta Ley deberá modificarse dentro de los noventa días siguientes a la vigencia de este Decreto. Hasta en tanto se emita la reglamentación correspondiente, continuará aplicándose el actual Reglamento de la Ley de Atención y Apoyo a la Víctima y al Ofendido del Delito en el Estado de Guanajuato, en lo que no se oponga a las disposiciones del presente Decreto.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
