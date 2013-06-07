@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-del-estado-de-tamaulipas-88613
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-04"
-last_updated: "2012-07-04"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
@@ -4313,7 +4313,9 @@ Oportunidad
 
 Trámite
 
-1. Desde su primera intervención, el Ministerio Público o, en su caso, el Juez de Control, invitará a los interesados a que lleguen a acuerdos reparatorios en los casos en que proceda, y remitirá al Centro de Justicia Alternativa, en donde un especialista les explicará los efectos y los mecanismos de mediación o conciliación disponibles.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+1. Desde su primera intervención, el Ministerio Público o, en su caso, el Juez de Control, invitará a los interesados a que lleguen a acuerdos reparatorios en los casos en que proceda, y remitirá al Centro de Justicia Alternativa, en donde un especialista les explicará los efectos y los mecanismos de mediación o conciliación disponibles. Los Centros de Justicia Alternativa, así como los procedimientos que se sigan ante ellos, serán regulados conforme a los Reglamentos que para tal efecto expidan el Poder Ejecutivo y el Poder Judicial del Estado, respectivamente.
 
 2. La información que se genere en los procedimientos respectivos no podrá ser utilizada en perjuicio de las partes dentro del proceso penal.
 
@@ -6865,9 +6867,13 @@ Vigencia
 
 El Código de Procedimientos Penales del Estado de Tamaulipas contenido en el presente Decreto entrará en vigor, de manera sucesiva, según las siguientes prevenciones:
 
-I. Sus disposiciones se aplicarán el 1 de julio de 2013, en el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la ciudad de Victoria, Tamaulipas. En caso de que entrara en vigor antes de la fecha señalada, se atenderá el procedimiento que señala la fracción siguiente de este artículo;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-II. En el resto de los Distritos Judiciales o Regiones, sus disposiciones se aplicarán en la fecha que contengan los Decretos respectivos que deberán ser emitidos por el Congreso del Estado o la Comisión Permanente. Los Decretos deberán ser publicados en el Periódico Oficial del Estado;
+I. Sus disposiciones empezarán a regir el 1 de julio de 2013 en la circunscripción territorial que comprende el Primer Distrito Judicial, con cabecera en Ciudad Victoria, perteneciente a la Primera Región Judicial y sólo para los delitos de daño en propiedad, lesiones y homicidio, todos de carácter culposo, exceptuando cuando se cometan en las circunstancias previstas en el artículo 318 del Código Penal para el Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+II. En el resto de los Distritos Judiciales o Regiones y el catálogo de delitos, sus disposiciones se aplicarán en la fecha que contengan los Decretos respectivos que deberán ser emitidos por el Congreso del Estado o la Diputación Permanente. Los Decretos deberán ser publicados en el Periódico Oficial del Estado;
 
 III. En caso de contar con la suficiencia presupuestal para su implementación, el Sistema Penal Acusatorio podrá aplicarse en uno o más de los Distritos Judiciales o Regiones atendiendo la prevención contenida en la fracción II del presente artículo; y
 
@@ -6922,3 +6928,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiocho días del mes de junio del año dos mil doce.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
