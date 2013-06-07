@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-47063"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-11-25"
-last_updated: "2007-05-22"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # CODIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-CODIGO FISCAL PARA EL ESTADO DE GUANAJUATO
+CÓDIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Código publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de noviembre de 2005.
 
@@ -61,7 +61,9 @@ V. La Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y
 
 VI. Las demás leyes que contengan normas de carácter fiscal.
 
-La legislación fiscal se complementa con los reglamentos de las leyes fiscales, el Reglamento Interior de la Secretaría de Finanzas y Administración, los convenios de coordinación y colaboración administrativa y demás actos jurídicos que en materia fiscal expidan, otorguen o celebren las autoridades fiscales, los cuales participan de su naturaleza.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+La legislación fiscal se complementa con los reglamentos de las leyes fiscales, el Reglamento Interior de la Secretaría de Finanzas, Inversión y Administración, los convenios de coordinación y colaboración administrativa y demás actos jurídicos que en materia fiscal expidan, otorguen o celebren las autoridades fiscales, los cuales participan de su naturaleza.
 
 ###### ARTÍCULO 3.
 
@@ -69,9 +71,13 @@ Son autoridades fiscales:
 
 I. El titular del Poder Ejecutivo del Estado;
 
-II. El secretario de finanzas y administración;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-III. El subsecretario de finanzas;
+II. El Secretario de Finanzas, Inversión y Administración;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+III. El Subsecretario de Finanzas e Inversión;
 
 IV. El procurador fiscal del estado;
 
@@ -89,7 +95,9 @@ VII. El Director General de Verificación al Comercio Exterior; y
 
 VIII. Los directores de área, coordinadores, jefes de oficina, visitadores, auditores, inspectores, notificadores, verificadores, actuarios fiscales y ministros ejecutores que dependan de los citados en las fracciones anteriores y que en términos de las disposiciones legales y reglamentarias tengan atribuciones de esta naturaleza.
 
-Las facultades y competencia de las autoridades fiscales se regirán por la legislación fiscal del estado, por la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, por el Reglamento Interior de la Secretaría de Finanzas y Administración, así como por los convenios de coordinación fiscal y colaboración administrativa que con los gobiernos federal o municipales se celebren.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Las facultades y competencia de las autoridades fiscales se regirán por la legislación fiscal del estado, por la Ley Orgánica del Poder ·Ejecutivo para el Estado de Guanajuato, por el Reglamento Interior de la Secretaría de Finanzas, Inversión y Administración, así como por los convenios de coordinación fiscal y colaboración administrativa que con los gobiernos federal o municipales se celebren.
 
 ###### ARTÍCULO 4.
 
@@ -99,11 +107,13 @@ Las autoridades fiscales podrán celebrar convenios con dependencias de la admin
 
 De igual forma, podrán realizar actos jurídicos con instituciones públicas o privadas para el fortalecimiento de la administración y recaudación de las contribuciones y aprovechamientos.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 5.
 
-La recaudación de los ingresos del Estado corresponde a la Secretaría de Finanzas y Administración, la cual podrá autorizar a dependencias, entidades o particulares, para realizar dichas funciones.
+La recaudación de los ingresos del Estado corresponde a la Secretaría de Finanzas, Inversión y Administración, la cual podrá autorizar a dependencias, entidades o particulares, para realizar dichas funciones.
 
-La Secretaría de Finanzas y Administración podrá dictar disposiciones de carácter general, con objeto de simplificar las obligaciones de los contribuyentes, de facilitar la recaudación de los ingresos, y de hacer más efectivos y prácticos los sistemas de control fiscal, sin contravenir las normas establecidas en las leyes fiscales.
+La Secretaría de Finanzas, Inversión y Administración podrá dictar disposiciones de carácter general, con objeto de simplificar las obligaciones de los contribuyentes, de facilitar la recaudación de los ingresos, y de hacer más efectivos y prácticos los sistemas de control fiscal, sin contravenir las normas establecidas en las leyes fiscales.
 
 ###### ARTÍCULO 6.
 
@@ -249,7 +259,9 @@ La asociación en participación se identificará con una denominación o razón
 
 Cuando las disposiciones fiscales obliguen a presentar declaraciones, promociones, documentos o informes, éstos podrán realizarse a través de medios electrónicos mediante documento de dicha naturaleza que contenga la firma electrónica certificada del autor, en los términos de la Ley sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios y su reglamento aplicable al ámbito del Poder Ejecutivo.
 
-Asimismo, la presentación de solicitudes en materia de registro estatal de contribuyentes, declaraciones, avisos o cualquier información, podrá realizarse a través de los formatos y medios electrónicos que para tal efecto autorice la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Asimismo, la presentación de solicitudes en materia de registro estatal de contribuyentes, declaraciones, avisos o cualquier información, podrá realizarse a través de los formatos y medios electrónicos que para tal efecto autorice la Secretaría de Finanzas, Inversión y Administración.
 
 ### Capítulo Segundo. De los Ingresos del Estado
 
@@ -373,11 +385,15 @@ El pago de créditos fiscales se acreditará mediante el recibo oficial, comprob
 
 Los recargos a que se refiere el segundo párrafo del artículo 23 de este código, se causarán por cada mes o fracción que transcurra a partir de la exigibilidad hasta que se efectúe el pago.
 
-Los recargos se causarán hasta por cinco años, y se calcularán sobre el total del crédito fiscal actualizado, excluyendo los propios recargos, los gastos de ejecución y las multas por infracción a disposiciones fiscales, aplicando al importe del crédito fiscal, las tasas que al efecto se establezcan en la Ley de Ingresos para el Estado, del ejercicio fiscal correspondiente.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Los recargos se causarán hasta por cinco años, y se calcularán sobre el total del crédito fiscal actualizado, excluyendo los propios recargos, los gastos de ejecución y las multas por infracción a disposiciones fiscales, aplicando al importe del crédito fiscal, las tasas que al efecto se establezcan en la Ley de Ingresos para el Estado de Guanajuato, para el ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTÍCULO 35.
 
-La Secretaría de Finanzas y Administración podrá conceder prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el plazo dentro del cual deban pagarse las parcialidades, no excederá de tres años.
+La Secretaría de Finanzas, Inversión y Administración podrá conceder prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el plazo dentro del cual deban pagarse las parcialidades, no excederá de tres años.
 
 En los casos anteriores deberá garantizarse el interés fiscal conforme a las disposiciones de este código.
 
@@ -429,7 +445,9 @@ La compensación entre el fisco del Estado, por una parte, y el de los municipio
 
 Además de los casos indicados, los créditos y deudas podrán compensarse cuando provengan de la aplicación de leyes tributarias y se satisfagan los requisitos que para esta forma de extinción señala el derecho común.
 
-La compensación será declarada por la Secretaría de Finanzas y Administración a petición del interesado. Las autoridades fiscales, si llegaren a tener conocimiento de que se han satisfecho los requisitos para la compensación, podrán declararla de oficio.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+La compensación será declarada por la Secretaría de Finanzas, Inversión y Administración a petición del interesado. Las autoridades fiscales, si llegaren a tener conocimiento de que se han satisfecho los requisitos para la compensación, podrán declararla de oficio.
 
 ###### ARTÍCULO 40.
 
@@ -467,9 +485,11 @@ Los particulares podrán solicitar a la autoridad la declaratoria de prescripci�
 
 #### Sección Quinta. De la Cancelación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 43.
 
-La Secretaría de Finanzas y Administración podrá cancelar el procedimiento de cobro de los créditos fiscales de las cuentas públicas, por incosteabilidad en la cobranza, o por insolvencia del deudor o de los responsables solidarios.
+La Secretaría de Finanzas, Inversión y Administración podrá cancelar el procedimiento de cobro de los créditos fiscales de las cuentas públicas, por incosteabilidad en la cobranza, o por insolvencia del deudor o de los responsables solidarios.
 
 Se consideran créditos de cobro incosteable, aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
 
@@ -543,7 +563,9 @@ a) El lugar en que esté ubicado el negocio o donde se encuentre establecida la 
 
 b) Si existen varios establecimientos, el lugar donde se encuentre la administración principal del negocio y en defecto de ella, el lugar en donde esté ubicado el principal de los mencionados establecimientos;
 
-c) Si se trata de sucursales o agencias cuya matriz esté radicada fuera del territorio del estado, el lugar donde se establezcan las sucursales, pero si varias dependen de una misma negociación, deberán señalar a una de ellas para que haga las veces de casa matriz y de no hacerlo en un plazo de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo determinará la Secretaría de Finanzas y Administración, y
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+c) Si se trata de sucursales o agencias cuya matriz esté radicada fuera del territorio del estado, el lugar donde se establezcan las sucursales, pero si varias dependen de una misma negociación, deberán señalar a una de ellas para que haga las veces de casa matriz y de no hacerlo en un plazo de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo determinará la Secretaría de Finanzas, Inversión y Administración, y
 
 d) A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
 
@@ -597,7 +619,9 @@ Las resoluciones administrativas de carácter individual favorables a un particu
 
 Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando los contribuyentes no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
 
-Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas y Administración al respecto no podrán ser impugnadas por los contribuyentes.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas, Inversión y Administración al respecto no podrán ser impugnadas por los contribuyentes.
 
 ###### ARTÍCULO 54.
 
@@ -605,7 +629,9 @@ Los contribuyentes deberán inscribirse en el registro estatal de contribuyentes
 
 La solicitud de inscripción deberá presentarse dentro del mes siguiente al día en que se inicien actividades de las que derive el cumplimiento de obligaciones fiscales.
 
-La Secretaría de Finanzas y Administración llevará el registro estatal de contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo y asignará la clave que corresponda a cada persona inscrita, o bien podrá considerar la clave del registro federal de contribuyentes, la cual deberá citarse en todo documento que se presente ante las autoridades fiscales y jurisdiccionales, cuando en este último caso se trate de asuntos en que la Secretaría de Finanzas y Administración sea parte.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+La Secretaría de Finanzas, Inversión y Administración llevará el registro estatal de contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo y asignará la clave que corresponda a cada persona inscrita, o bien podrá considerar la clave del registro federal de contribuyentes, la cual deberá citarse en todo documento que se presente ante las autoridades fiscales y jurisdiccionales, cuando en este último caso se trate de asuntos en que la Secretaría de Finanzas, Inversión y Administración sea parte.
 
 Los contribuyentes y los retenedores a que se refiere el presente artículo, deberán presentar aviso a la oficina autorizada, cuando ocurra alguno de los siguientes supuestos, dentro de los plazos que se señalan:
 
@@ -625,7 +651,9 @@ V. Reanudación, cuando se esté nuevamente obligado a presentar alguna de las d
 
 VI. Traspaso de la negociación, liquidación o suspensión definitiva de actividades, dentro de los quince días siguientes a aquél en que se actualice la situación jurídica o de hecho, y
 
-VII. Cualquier otro que se traduzca en alguna modificación de los datos que se encuentren registrados en la Secretaría de Finanzas y Administración, dentro de los quince días siguientes a aquél en que se actualice la situación jurídica o de hecho.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VII. Cualquier otro que se traduzca en alguna modificación de los datos que se encuentren registrados en la Secretaría de Finanzas, Inversión y Administración, dentro de los quince días siguientes a aquél en que se actualice la situación jurídica o de hecho.
 
 Los contribuyentes y retenedores a que se refiere este artículo, estarán obligados a tener a disposición de las autoridades fiscales, en su domicilio, los libros, registros y documentos relativos a su negociación.
 
@@ -647,11 +675,15 @@ Las oficinas autorizadas recibirán las declaraciones, solicitudes, avisos y dem
 
 Las personas obligadas a presentar solicitud de inscripción o avisos en los términos de las disposiciones fiscales, podrán presentar su solicitud o avisos complementarios, completando o sustituyendo los datos de la solicitud o aviso original, siempre que los mismos se presenten dentro de los plazos previstos en las disposiciones fiscales.
 
-La Secretaría de Finanzas y Administración, mediante disposiciones de carácter general, podrá facilitar la recepción de pagos de las contribuciones.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+La Secretaría de Finanzas, Inversión y Administración, mediante disposiciones de carácter general, podrá facilitar la recepción de pagos de las contribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTÍCULO 57.
 
-Los contribuyentes y los responsables solidarios, en los casos que establezcan las disposiciones tributarias, tendrán obligación de presentar declaraciones, manifestaciones o avisos en las formas que al efecto se aprueben y proporcionar los datos e informes que en dichas formas se requieran. Las declaraciones, manifestaciones o avisos se presentarán en las oficinas de la Secretaría de Finanzas y Administración. Cuando las disposiciones tributarias no señalen el plazo para la presentación de las declaraciones, manifestaciones o avisos, se tendrá por establecido el de quince días siguientes a la realización del hecho de que se trate.
+Los contribuyentes y los responsables solidarios, en los casos que establezcan las disposiciones tributarias, tendrán obligación de presentar declaraciones, manifestaciones o avisos en las formas que al efecto se aprueben y proporcionar los datos e informes que en dichas formas se requieran. Las declaraciones, manifestaciones o avisos se presentarán en las oficinas de la Secretaría de Finanzas, Inversión y Administración. Cuando las disposiciones tributarias no señalen el plazo para la presentación de las declaraciones, manifestaciones o avisos, se tendrá por establecido el de quince días siguientes a la realización del hecho de que se trate.
 
 Las declaraciones que presenten los contribuyentes serán definitivas y sólo se podrán modificar por el propio contribuyente hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultades de comprobación.
 
@@ -761,9 +793,11 @@ Asimismo, podrán efectuar el pago en parcialidades de conformidad con lo dispue
 
 Las autoridades fiscales estatales podrán coordinarse con las de la federación para el cumplimiento de las leyes fiscales federales, en cuyo caso se les considerará autoridades fiscales federales y ejercerán las atribuciones de la Secretaría de Hacienda y Crédito Público que se les señalen en los convenios o acuerdos respectivos, por lo que en contra de los actos que realicen cuando actúen en los términos de este precepto, sólo procederán los recursos y medios de defensa que establezcan las leyes fiscales federales.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 66.
 
-Para el mejoramiento y eficaz desempeño de sus funciones, la Secretaría de Finanzas y Administración, siempre que lo considere conveniente, promoverá la participación y colaboración de las cámaras que agrupen contribuyentes y de los colegios de profesionistas con las autoridades fiscales.
+Para el mejoramiento y eficaz desempeño de sus funciones, la Secretaría de Finanzas, Inversión y Administración, siempre que lo considere conveniente, promoverá la participación y colaboración de las cámaras que agrupen contribuyentes y de los colegios de profesionistas con las autoridades fiscales.
 
 ###### ARTÍCULO 67.
 
@@ -819,7 +853,9 @@ IV. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el 
 
 V. Recabar de los servidores públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones;
 
-VI. Allegarse las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Podrán designarse servidores públicos coadyuvantes del Ministerio Público, en los términos del Código de Procedimientos Penales del Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VI. Allegarse las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Podrán designarse servidores públicos coadyuvantes del Ministerio Público, en los términos del Código de Procedimientos Penales para el Estado de Guanajuato o de la Ley del Proceso Penal para el Estado de Guanajuato;
 
 VII. En la comprobación de los ingresos de los contribuyentes se presumirá, salvo prueba en contrario:
 
@@ -1081,11 +1117,15 @@ I. Cuando la omisión sea descubierta por las autoridades fiscales, y
 
 II. Cuando la omisión haya sido corregida por el contribuyente, después que las autoridades fiscales hubiesen notificado una orden de visita domiciliaria o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendientes al cumplimiento de la obligación fiscal de que se trate, salvo lo dispuesto por el primer párrafo del artículo 64 de este código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 88.
 
-La Secretaría de Finanzas y Administración podrá condonar los recargos y las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+La Secretaría de Finanzas, Inversión y Administración podrá condonar los recargos y las multas por infracción a las disposiciones fiscales, paro lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
 
-La solicitud de condonación de recargos y multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas y Administración al respecto, no podrán ser impugnadas por el medio de defensa que establece este código.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+La solicitud de condonación de recargos y multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas, Inversión y Administración al respecto, no podrán ser impugnadas por el medio de defensa que establece este código.
 
 La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
@@ -1135,7 +1175,9 @@ c) Que se lleven dos o más libros sociales similares con distinto contenido.
 
 d) Que se destruya, ordene o permita la destrucción total o parcial de la contabilidad.
 
-e) Que se microfilme o grabe en discos ópticos o en cualquier otro medio que autorice la Secretaría de Finanzas y Administración mediante reglas de carácter general, documentación o información para efectos fiscales, sin cumplir con los requisitos que establecen las disposiciones relativas. La agravante procederá sin perjuicio de que los documentos microfilmados o grabados en discos ópticos o en cualquier otro medio de los autorizados, en contravención de las disposiciones fiscales, carezcan de valor probatorio.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+e) Que se microfilme o grabe en discos ópticos o en cualquier otro medio que autorice la Secretaría de Finanzas, Inversión y Administración mediante reglas de carácter general, documentación o información para efectos fiscales, sin cumplir con los requisitos que establecen las disposiciones relativas. La agravante procederá sin perjuicio de que los documentos microfilmados o grabados en discos ópticos o en cualquier otro medio de los autorizados, en contravención de las disposiciones fiscales, carezcan de valor probatorio.
 
 f) Divulgar, hacer uso personal o indebido de la información confidencial proporcionada por terceros independientes que afecte su posición competitiva, a que se refieren el artículo 75 fracción IV de este código.
 
@@ -1157,7 +1199,9 @@ III. Del 50% al 100% de las contribuciones omitidas, en los demás casos.
 
 Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos de la fracción I de este artículo, aplicarán el porcentaje que corresponda en los términos de la fracción II sobre el remanente no pagado de las contribuciones.
 
-El pago de las multas en los términos de la fracción I de este artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+El pago de las multas en los términos de la fracción I de este artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Secretaría de Finanzas, Inversión y Administración.
 
 Cuando se declaren pérdidas fiscales mayores a las realmente sufridas, la multa será del 30% al 40% de la diferencia que resulte entre la pérdida declarada y la que realmente corresponda, siempre que el contribuyente la hubiere disminuido total o parcialmente de su utilidad fiscal. En caso de que aún no se hubiere tenido oportunidad de disminuirla, no se impondrá multa alguna. En el supuesto de que la diferencia mencionada no se hubiere disminuido habiendo tenido la oportunidad de hacerlo, no se impondrá la multa a que se refiere este párrafo, hasta por el monto de la diferencia que no se disminuyó. Lo dispuesto para los dos últimos supuestos se condicionará a la presentación de la declaración complementaria que corrija la pérdida declarada.
 
@@ -1205,7 +1249,9 @@ VI. No haber solicitado en los últimos tres años el pago a plazos de contribuc
 
 Las autoridades fiscales para verificar lo anterior, podrán requerir al infractor en un plazo no mayor de veinte días posteriores a la fecha en que hubiera presentado la solicitud a que se refiere este artículo, los datos, informes o documentos que considere necesarios. Para tal efecto, se requerirá al infractor a fin de que en un plazo máximo de quince días cumpla con lo solicitado por las autoridades fiscales, apercibido que de no hacerlo dentro de dicho plazo, no será procedente la reducción a que se refiere este artículo. No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes y documentos a que se refiere este párrafo, pudiendo ejercerlas en cualquier momento.
 
-Las autoridades fiscales, una vez que se cercioren que el infractor cumple con los requisitos a que se refiere este artículo, reducirán el monto de las multas por infracción a las disposiciones fiscales en 100% y aplicarán la tasa de recargos por prórroga determinada conforme a la Ley de Ingresos del Estado por el plazo que corresponda.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Las autoridades fiscales, una vez que se cercioren que el infractor cumple con los requisitos a que se refiere este artículo, reducirán el monto de las multas por infracción a las disposiciones fiscales en 100% y aplicarán la tasa de recargos por prórroga determinada conforme a la Ley de Ingresos para el Estado de Guanajuato por el plazo que corresponda.
 
 La reducción de la multa y la aplicación de la tasa de recargos a que se refiere este artículo, se condicionará a que el adeudo sea pagado ante las oficinas autorizadas, dentro de los quince días siguientes a aquél en que se le haya notificado la resolución respectiva.
 
@@ -1217,9 +1263,11 @@ Lo previsto en este artículo no constituye instancia y las resoluciones que se 
 
 Los ingresos que se obtengan por concepto de multas, se destinarán al financiamiento de programas de fortalecimiento de la administración tributaria.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 98.
 
-Los servidores públicos, que en ejercicio de sus funciones, conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a las disposiciones fiscales, lo deberán comunicar a la Secretaría de Finanzas y Administración para no incurrir en responsabilidad, dentro de los quince días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
+Los servidores públicos, que en ejercicio de sus funciones, conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a las disposiciones fiscales, lo deberán comunicar a la· Secretaría de Finanzas, Inversión y Administración para no incurrir en responsabilidad, dentro de los quince días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
 
 ### Capítulo Segundo. De las Infracciones y Sanciones Relacionadas con el Registro Estatal de Contribuyentes
 
@@ -1363,7 +1411,9 @@ La clausura procederá:
 
 I. En el caso de que una persona física o moral realice alguna actividad de cualquier índole sin las autorizaciones, licencias o permisos, que de conformidad con las leyes fiscales sean requisitos indispensables para su funcionamiento;
 
-II. En los casos en que el interés del fisco del Estado, derivado de obligaciones a cargo de sujetos pasivos, pudiera quedar insoluto, porque el obligado pretenda trasladar, ocultar o enajenar a cualquier título los bienes de su propiedad o aquéllos que constituyan garantía del interés fiscal, sin perjuicio de que en este caso la Secretaría de Finanzas y Administración pueda embargar precautoriamente los bienes a que se refiere esta fracción en el mismo acto de la notificación, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+II. En los casos en que el interés del fisco del Estado, derivado de obligaciones a cargo de sujetos pasivos, pudiera quedar insoluto, porque el obligado pretenda trasladar, ocultar o enajenar a cualquier título los bienes de su propiedad o aquéllos que constituyan garantía del interés fiscal, sin perjuicio de que en este caso la Secretaría de Finanzas, Inversión y Administración pueda embargar precautoriamente los bienes a que se refiere esta fracción en el mismo acto de la notificación, y
 
 III. Cuando el contribuyente omita el pago de sus contribuciones en tres ocasiones consecutivas.
 
@@ -1383,9 +1433,11 @@ III. Las clausuras deberán ser ejecutadas en días y horas hábiles, pero en ca
 
 En el acto de clausura deberán observarse las mismas formalidades que establece este código para las visitas domiciliarias.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 107.
 
-Una vez clausurado un local o establecimiento, la Secretaría de Finanzas y Administración podrá levantar la clausura en los casos que correspondan, cuando hubiere cesado la causa por la que se ordenó y se hayan pagado las multas aplicadas y demás créditos fiscales o cuando exista resolución de autoridad judicial, laboral o administrativa competente.
+Una vez clausurado un local o establecimiento, la Secretaría de Finanzas, Inversión y Administración podrá levantar la clausura en los casos que correspondan, cuando hubiere cesado la causa por la que se ordenó y se hayan pagado las multas aplicadas y demás créditos fiscales o cuando exista resolución de autoridad judicial, laboral o administrativa competente.
 
 ## TÍTULO SEXTO. PROCEDIMIENTOS ADMINISTRATIVOS
 
@@ -1507,7 +1559,9 @@ V. Embargo en la vía administrativa.
 
 La garantía deberá comprender, además de las contribuciones adeudadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá ampliarse la garantía para que cubra el crédito y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
-Las garantías se otorgarán a favor de la Secretaría de Finanzas y Administración y deberán reunir los requisitos que establece este código. La dependencia citada vigilará que las garantías que se otorguen sean suficientes tanto en el momento de su aceptación como con posterioridad, y si no lo fueren, exigirá su ampliación o procederá al embargo de otros bienes.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Las garantías se otorgarán a favor de la Secretaría de Finanzas, Inversión y Administración y deberán reunir los requisitos que establece este código. La dependencia citada vigilará que las garantías que se otorguen sean suficientes tanto en el momento de su aceptación como con posterioridad, y si no lo fueren, exigirá su ampliación o procederá al embargo de otros bienes.
 
 En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la garantía.
 
@@ -1535,7 +1589,9 @@ No se otorgará garantía respecto de gastos de ejecución, salvo que el interé
 
 Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del artículo 118 de este código, se harán efectivas a través del procedimiento administrativo de ejecución.
 
-Si la garantía consiste en depósito de dinero, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Si la garantía consiste en depósito de dinero, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Finanzas, Inversión y Administración.
 
 ###### ARTÍCULO 121.
 
@@ -1561,7 +1617,9 @@ En caso de impugnación, la solicitud de suspensión del procedimiento administr
 
 Para los efectos de la fracción II del artículo 118 de este código, la prenda o hipoteca se constituirá sobre los siguientes bienes:
 
-I. Bienes muebles, por el 75% de su valor siempre que estén libres de gravámenes hasta por ese porcentaje. La Secretaría de Finanzas y Administración podrá autorizar a instituciones y a corredores públicos para valuar o mantener en depósito determinados bienes. Deberá inscribirse la prenda en el registro que corresponda cuando los bienes en que recaiga estén sujetos a esta formalidad.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I. Bienes muebles, por el 75% de su valor siempre que estén libres de gravámenes hasta por ese porcentaje. La Secretaría de Finanzas, Inversión y Administración podrá autorizar a instituciones y a corredores públicos para valuar o mantener en depósito determinados bienes. Deberá inscribirse la prenda en el registro que corresponda cuando los bienes en que recaiga estén sujetos a esta formalidad.
 
 II. Bienes inmuebles, por el 75% del valor de avalúo o valor catastral. Para estos efectos se deberá acompañar a la solicitud respectiva el certificado del Registro Público de la Propiedad en el que no aparezca anotado algún gravamen ni afectación urbanística o agraria, que hubiera sido expedido cuando más con tres meses de anticipación. En el supuesto de que el inmueble reporte gravámenes, la suma del monto total de éstos y el interés fiscal a garantizar, no podrá exceder del 75% del valor.
 
@@ -1639,9 +1697,11 @@ I. La preferencia corresponderá al fisco que tenga a su favor créditos por imp
 
 II. En los demás casos, la preferencia corresponderá al fisco que tenga el carácter de primer embargante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 135.
 
-Cuando en el procedimiento administrativo de ejecución concurran contra un mismo deudor, el fisco estatal con los fiscos municipales, fungiendo éstos como autoridad estatal de conformidad con los convenios respectivos, la Secretaría de Finanzas y Administración iniciará o continuará, según sea el caso, con el procedimiento administrativo de ejecución por todos los créditos fiscales omitidos.
+Cuando en el procedimiento administrativo de ejecución concurran contra un mismo deudor, el fisco estatal con los fiscos municipales, fungiendo éstos como autoridad estatal de conformidad con los convenios respectivos, la Secretaría de Finanzas, Inversión y Administración iniciará o continuará, según sea el caso, con el procedimiento administrativo de ejecución por todos los créditos fiscales omitidos.
 
 El producto obtenido en los términos de este artículo, se aplicará a cubrir los créditos fiscales en el orden siguiente:
 
@@ -1815,7 +1875,9 @@ Cuando se acredite que los bienes señalados estuvieren ya embargados por otras 
 
 Si los bienes señalados para la ejecución hubieran sido embargados por autoridades fiscales federales o municipales, se practicará la diligencia haciéndose constar dicha situación en el acta y se dará aviso a dichas autoridades, para que estén en posibilidad de hacer valer sus derechos de prelación y preferencia en el cobro.
 
-En tanto se resuelve el procedimiento respectivo no se hará aplicación del ingreso de la venta o remate del bien embargado, salvo que se garantice el interés fiscal a satisfacción de la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+En tanto se resuelve el procedimiento respectivo no se hará aplicación del ingreso de la venta o remate del bien embargado, salvo que se garantice el interés fiscal a satisfacción de la Secretaría de Finanzas, Inversión y Administración.
 
 ###### ARTÍCULO 149.
 
@@ -1857,9 +1919,11 @@ Cualquier otra dificultad que se suscite, tampoco impedirá la continuación de 
 
 Terminada la diligencia de embargo, el ministro ejecutor devolverá el expediente al jefe de la oficina recaudadora para que verifique si se ha cumplido en sus términos el procedimiento administrativo de ejecución. En caso contrario, mandará reponerlo a partir de la deficiencia substancial que apareciere.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 155.
 
-El procedimiento administrativo de ejecución será radicado en la oficina recaudadora que corresponda al domicilio del deudor, pero la Secretaría de Finanzas y Administración podrá trasladarlo a cualquier otra demarcación para la práctica de una, algunas, o todas las diligencias respectivas.
+El procedimiento administrativo de ejecución será radicado en la oficina recaudadora que corresponda al domicilio del deudor, pero la Secretaría de Finanzas, Inversión y Administración podrá trasladarlo a cualquier otra demarcación para la práctica de una, algunas, o todas las diligencias respectivas.
 
 #### Sección Tercera. De la Intervención
 
@@ -2374,6 +2438,12 @@ SECRETARIO DE GOBIERNO
 P.O. 22 DE MAYO DE 2007.
 
 Artículo Único. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 149.- POR EL QUE SE REFORMAN LAS FRACCIONES XIV Y XXVIII DEL ARTÍCULO 3 DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO”.]
 
