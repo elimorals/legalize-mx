@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fomento-a-la-investigacion-cientifica-tecnologica-y-2487
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-17"
-last_updated: "2012-09-11"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA Y A LA INNOVACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 17 de mayo de 2002.
 
@@ -97,7 +97,9 @@ Corresponde al Gobernador del Estado:
 
 I.- Planear, conducir y coordinar la política general que oriente el desarrollo sustentable del Estado a través de la ciencia y la tecnología impulsando acciones de fomento y colaboración entre las instituciones que integran el Sistema de Ciencia y Tecnología del Estado;
 
-II.- Establecer en los Planes Estatal de Desarrollo y de Gobierno del Estado las políticas y programas relativos al fomento de la ciencia y la tecnología en el Estado, de conformidad con lo previsto en esta Ley;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+II.- Establecer en el Plan Estatal de Desarrollo y en el Programa de Gobierno del Estado las políticas y programas relativos al fomento de la ciencia y la tecnología en el Estado, de conformidad con lo previsto en esta Ley;
 
 III.- Aprobar y expedir el Programa Estatal de Ciencia y Tecnología;
 
@@ -141,7 +143,9 @@ VII.- Realizar aquéllas otras actividades que se prevengan en esta Ley o en otr
 
 El Consejo de Ciencia y Tecnología del Estado de Guanajuato, es un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios.
 
-El Consejo no estará sectorizado.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+El Consejo estará sectorizado a Secretaría que se establezca en el Reglamento Interior del CONCYTEG.
 
 ## TÍTULO SEGUNDO
 
@@ -213,27 +217,41 @@ El gobierno y administración del CONCYTEG estará a cargo del Consejo Directivo
 
 El Consejo Directivo será la máxima autoridad y estará integrado por los siguientes miembros:
 
-I.- El Gobernador del Estado, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I.- Un ciudadano designado por el Gobernador del Estado, quien fungirá como Presidente;
 
 II.- El Director General del CONCYTEG, quien fungirá como Secretario, con derecho a voz, pero no a voto;
 
-III.- El titular de la Secretaría de la Contraloría; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+III.- El titular de la Secretaría de la Transparencia y Rendición de Cuentas; y
 
 IV.- Catorce vocales, que serán:
 
 a) Los titulares de las Secretarías que establezca el Reglamento de la presente Ley;
 
-b) El Rector de la Universidad de Guanajuato;
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+b) El Rector General de la Universidad de Guanajuato;
 
 c) Representantes del sector académico y empleador, que serán nombrados de conformidad con el Reglamento de la presente Ley.
 
-Cada integrante del Consejo Directivo designará un suplente. El Gobernador del Estado será suplido por el vocal que para tal efecto designe. Los suplentes de los representantes de los sectores académicos y empleador del Estado serán nombrados por el Gobernador del Estado a propuesta del Director General del CONCYTEG.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Cada integrante del Consejo Directivo designará un suplente. Los suplentes de los representantes de los sectores académicos y empleados del Estado serán nombrados por el Gobernador del Estado a propuesta del Director General del CONCYTEG.
 
 Los cargos de los integrantes del Consejo Directivo, salvo el de Director General serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Cuando acuda el Gobernador del Estado, éste asumirá la presidencia y el ciudadano presidente fungirá como vocal; ambos conservarán el derecho a voz y voto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 12.
 
-El titular de la Secretaría de la Contraloría o su suplente, tendrá las siguientes atribuciones:
+El titular de la Secretaría de la Transparencia y Rendición de Cuentas o su suplente, tendrá las siguientes atribuciones:
 
 I.- Asistir a las sesiones del Consejo Directivo;
 
@@ -275,7 +293,9 @@ VIII.- Autorizar la práctica de auditorias externas para vigilar la correcta ap
 
 IX.- Aprobar las bases generales para la suscripción de convenios;
 
-X.- Autorizar actos y contratos en los términos de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+X.- Autorizar actos y contratos en los términos de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
 
 XI.- Autorizar actos de dominio sobre su patrimonio inmobiliario, sujetándose a las disposiciones constitucionales y legales; y
 
@@ -341,7 +361,9 @@ III.- No desempeñar ningún cargo o empleo en la Administración Pública a la 
 
 El Director General, tendrá las siguientes atribuciones:
 
-I.- Formular y someter a la aprobación del Consejo Directivo los programas derivados del Plan Estatal de Desarrollo y del Plan de Gobierno del Estado, así como el programa anual de actividades del CONCYTEG;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I.- Formular y someter a la aprobación del Consejo Directivo los programas derivados del Plan Estatal de Desarrollo y del Programa de Gobierno del Estado, así como el programa anual de actividades del CONCYTEG;
 
 II.- Formular el anteproyecto del presupuesto de egresos del CONCYTEG;
 
@@ -369,13 +391,17 @@ El control y vigilancia del CONCYTEG estará a cargo de un órgano de vigilancia
 
 El órgano de vigilancia tendrá el carácter de contraloría interna, el cual será el responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del CONCYTEG, con el fin de determinar el correcto desempeño del organismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 #### SECCIÓN SEGUNDA. DEL CONSEJO TÉCNICO
 
 ###### Artículo 22.
 
-La Contraloría Interna dependerá orgánica y funcionalmente de la Secretaría de la Contraloría y presupuestalmente del CONCYTEG.
+La Contraloría Interna dependerá orgánica y funcionalmente de la Secretaría de la Transparencia y Rendición de Cuentas y presupuestalmente del CONCYTEG.
 
-La Contraloría Interna estará integrada por el Titular designado por la Secretaría de la Contraloría y por el personal necesario que su presupuesto permita.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+La Contraloría Interna estará integrada por el Titular designado por la Secretaría de la Transparencia y Rendición de Cuentas y por el personal necesario que su presupuesto permita.
 
 La Contraloría Interna, tendrá las facultades que le establezca la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato y demás disposiciones jurídicas aplicables.
 
@@ -628,3 +654,9 @@ P.O. 11 DE SEPTIEMBRE DE 2012.
 Artículo primero. El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo segundo. El Poder Ejecutivo, a fin de adecuar el monto del recurso destinado a investigación científica y tecnológica y a la innovación en el Estado, llevará a cabo la previsión y planeación presupuestal, así como acciones de gobierno necesarias en el próximo ejercicio fiscal de la entrada en vigor de la presente Ley, para contemplar una asignación inicial del 0.4% (cero punto cuatro por ciento) del presupuesto general de egresos del siguiente ejercicio fiscal, incrementando de manera gradual para que en un término de seis años se alcance, al menos, el 1 % (uno por ciento) del presupuesto general de egresos.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
