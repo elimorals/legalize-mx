@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-cultura-fisica-y-deporte-del-estado-de-guanajuato-76479"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2010-09-03"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE GUANAJUATO
 
-LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE GUANAJUATO
+LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 3 de septiembre de 2010.
 
@@ -517,7 +517,9 @@ Competencia del Ejecutivo del Estado
 
 Compete al Titular del Poder Ejecutivo del Estado:
 
-I. Incluir en el Plan Estatal de Desarrollo y en el Plan de Gobierno los objetivos, metas, estrategias y acciones para incrementar la calidad de la cultura física y el deporte en el Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I. Incluir en el Plan Estatal de Desarrollo y en el Programa de Gobierno los objetivos, metas, estrategias y acciones para incrementar la calidad de la cultura física y el deporte en el Estado;
 
 II. Designar y remover libremente al Director General;
 
@@ -569,7 +571,9 @@ Competencia de los ayuntamientos
 
 Corresponde a los ayuntamientos:
 
-I. Establecer en el Plan Municipal de Desarrollo y en el Plan de Gobierno Municipal las metas, estrategias y acciones para incrementar la calidad de la cultura física y el deporte en el municipio en los términos del Programa Estatal de Cultura Física y Deporte;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I. Establecer en el Plan Municipal de Desarrollo y en el Programa de Gobierno Municipal las metas, estrategias y acciones para incrementar la calidad de la cultura física y el deporte en el municipio en los términos del Programa Estatal de Cultura Física y Deporte;
 
 II. Contar con un organismo municipal, en los términos de la presente Ley;
 
@@ -749,17 +753,27 @@ Conformación del Consejo Directivo
 
 El Consejo Directivo es el órgano de gobierno de la Comisión y se integrará por:
 
-I. El Titular de la Secretaría de Educación quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+l. Un ciudadano, quien fungirá como Presidente, designado por el Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I Bis. El Titular de la Secretaría de Educación;
 
 II. El Titular de la Secretaría de Salud;
 
-III. El Titular de la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+III. El Titular de la Secretaría de Finanzas, Inversión y Administración;
 
 IV. El Titular de la Secretaría de Seguridad Pública;
 
 V. El Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
 
-VI. El Rector de la Universidad de Guanajuato;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VI. El Rector General de la Universidad de Guanajuato;
 
 VII. Cuatro representantes de los municipios;
 
@@ -987,11 +1001,13 @@ VII. Las demás que le confiera el Director General y otras disposiciones legale
 
 Órgano de Vigilancia
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 73.
 
-La Comisión contará con un órgano de vigilancia, que será parte integrante de su estructura y desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Gestión Pública.
+La Comisión contará con un órgano de vigilancia, que será parte integrante de su estructura y desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Transparencia y Rendición de Cuentas.
 
-En dicho órgano de vigilancia participará un representante de la Secretaría de la Gestión Pública.
+En dicho órgano de vigilancia participará un representante de la Secretaría de la Transparencia y Rendición de Cuentas.
 
 Atribuciones del Órgano de Vigilancia
 
@@ -1348,3 +1364,11 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
