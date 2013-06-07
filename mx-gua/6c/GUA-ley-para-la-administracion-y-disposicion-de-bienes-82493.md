@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-administracion-y-disposicion-de-bienes-82493"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-12"
-last_updated: "2011-08-12"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY PARA LA ADMINISTRACION Y DISPOSICION DE BIENES RELACIONADOS CON HECHOS DELICTUOSOS PARA EL ESTADO DE GUANAJUATO
 
-LEY PARA LA ADMINISTRACION Y DISPOSICION DE BIENES RELACIONADOS CON HECHOS DELICTUOSOS PARA EL ESTADO DE GUANAJUATO
+LEY PARA LA ADMINISTRACIÓN Y DISPOSICIÓN DE BIENES RELACIONADOS CON HECHOS DELICTUOSOS PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte, en el Periódico Oficial del Estado de Guanajuato, el viernes 12 de agosto de 2011.
 
@@ -447,15 +447,19 @@ Los bienes podrán ser dados en comodato a la Federación, a los Poderes del Est
 
 Control y vigilancia
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 40.
 
-En los procedimientos de administración y disposición, la Secretaría de la Gestión Pública tendrá las facultades de control y vigilancia que establece la Ley.
+En los procedimientos de administración y disposición, la Secretaría de la Transparencia y Rendición de Cuentas tendrá las facultades de control y vigilancia que establece la Ley.
 
 Intervención y seguimiento
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 41.
 
-La Secretaría de la Gestión Pública intervendrá en los actos públicos que dentro de los procedimientos de administración o disposición de bienes, se realicen.
+La Secretaría de la Transparencia y Rendición de Cuentas intervendrá en los actos públicos que dentro de los procedimientos de administración o disposición de bienes, se realicen.
 
 Responsabilidad de los servidores públicos
 
@@ -492,3 +496,11 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
