@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-deuda-publica-para-el-estado-y-los-municipios-de-10488"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-30"
-last_updated: "2010-06-11"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-LEY DE DEUDA PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
+LEY DE DEUDA PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 30 de agosto de 1996.
 
@@ -145,7 +145,7 @@ Las entidades públicas deberán programar un superávit primario en sus finanza
 
 No constituirán deuda pública estatal o municipal, las obligaciones directas a corto plazo que se contraigan para solventar necesidades urgentes, producto de circunstancias extraordinarias e imprevisibles, siempre que su vencimiento y liquidación se realicen en el mismo ejercicio anual para el cual fueron contratadas, y que su monto neto no exceda del 5% de sus respectivos presupuestos de egresos; pero quedarán sujetas a los requisitos de información y registro previstos en esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
 
@@ -271,11 +271,11 @@ XIV.- Reglamentar los procedimientos de emisión, colocación, amortización y r
 
 XV.- Las demás que en materia de deuda pública le correspondan.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 14.
 
-Las atribuciones a que se refieren las fracciones IV, V, VI, VII, VIII, IX y XIII del artículo anterior, serán ejercidas por la Secretaría de Finanzas y Administración.
+Las atribuciones a que se refieren las fracciones IV, V, VI, VII, VIII, IX y XIII del artículo anterior, serán ejercidas por la Secretaría de Finanzas, Inversión y Administración.
 
 ###### Artículo 15.
 
@@ -413,7 +413,7 @@ Las entidades públicas podrán convenir para otorgarse financiamientos entre s�
 
 Tratándose de Ayuntamientos y de sus organismos descentralizados, el plazo para que se reintegre no podrá exceder del periodo constitucional de éste.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
 ### CAPITULO IV. DE LAS OBLIGACIONES DERIVADAS DE FIDEICOMISOS DE FINANCIAMIENTO
 
@@ -449,13 +449,15 @@ Artículo 33 E.- En relación con las obligaciones adquiridas por los fideicomis
 
 No obstante, la entidad pública correspondiente puede pactar obligaciones de hacer y no hacer, que incluyan recurso limitado en su contra, consistentes, de manera enunciativa en la sustitución de todas o algunas de las cantidades provenientes de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios, aportaciones federales e incentivos económicos derivados del cobro de impuestos federales que conforme a la legislación aplicable sean susceptibles de afectación, y demás ingresos que reciba, que en su caso haya aportado a dichos fideicomisos, en llevar cabo aportaciones adicionales y en otorgar indemnizaciones respecto de posibles responsabilidades.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
 ### CAPITULO V. DE LA EMISION DE DEUDA PUBLICA
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
-Artículo 33 F.- El Poder Ejecutivo del Estado y el Ayuntamiento, por conducto de la Secretaría de Finanzas y Administración o Tesorería Municipal, respectivamente, y las demás entidades públicas estatales o municipales, en el ámbito de su competencia, podrán ocurrir, previa autorización del Congreso del Estado, al mercado de valores o a los mercados de crédito privado, para captar, mediante la emisión de obligaciones, bonos, títulos opcionales, certificados, pagarés y demás títulos de deuda, valores o instrumentos de deuda similares, los recursos para financiar inversiones públicas productivas.
+Artículo 33 F.- El Poder Ejecutivo del Estado y el Ayuntamiento, por conducto de la Secretaría de Finanzas, Inversión y Administración o Tesorería Municipal, respectivamente, y las demás entidades públicas estatales o municipales, en el ámbito de su competencia, podrán ocurrir, previa autorización del Congreso del Estado, al mercado de valores o a los mercados de crédito privado, para captar, mediante la emisión de obligaciones, bonos, títulos opcionales, certificados, pagarés y demás títulos de deuda, valores o instrumentos de deuda similares, los recursos para financiar inversiones públicas productivas.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
 Los valores, cuando se trate de los mismos, podrán ser colocados en el mercado de valores por un agente colocador, entre inversionistas mexicanos y dentro del territorio nacional, a través de la Bolsa Mexicana de Valores, o en los mercados privados de financiamiento nacionales.
 
@@ -467,7 +469,9 @@ Artículo 33 G.- La emisión de valores u otros instrumentos de deuda, incluyend
 
 Artículo 33 H.- Los valores, tales como los bonos, obligaciones, certificados, títulos opcionales, pagarés, letras y otros títulos de deuda que las entidades públicas, incluyendo los fideicomisos de financiamiento emitan en serie o en masa, excluyendo los que se emitan al amparo de contratos de crédito o contratos similares, y que estén destinados a circular en el mercado de valores, son títulos de deuda pública, sujetos a los siguientes requisitos y previsiones:
 
-I.- Su emisión corresponderá al Titular del Poder Ejecutivo. por conducto de la Secretaría de Finanzas y Administración, o al Ayuntamiento, a través de la Tesorería Municipal, o al órgano de gobierno, por conducto de la instancia competente, según corresponda o al fiduciario respectivo en el caso de los fideicomisos de financiamiento, previa instrucción de la mencionada Secretaría o el Ayuntamiento correspondiente;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I.- Su emisión corresponderá al Titular del Poder Ejecutivo, por conducto de la Secretaría de Finanzas, Inversión y Administración, o al Ayuntamiento, a través de la Tesorería Municipal, o al órgano de gobierno, por conducto de la instancia competente, según corresponda o al fiduciario respectivo en el caso de los fideicomisos de financiamiento, previa instrucción de la mencionada Secretaría o el Ayuntamiento correspondiente;
 
 II.- Podrán ser emitidos a través de un fideicomiso de financiamiento, según lo prevenido en esta Ley;
 
@@ -489,7 +493,7 @@ El resultado de lo anterior se hará del conocimiento del Congreso del Estado y 
 
 Artículo 33 I.- Para efectos de la emisión de valores podrán constituirse fideicomisos de financiamiento, con el propósito de eficientar el manejo de los recursos captados.
 
-Los fideicomisos de financiamiento constituidos para solicitar financiamientos o para emitir y colocar títulos de deuda en el mercado de valores y su operación interna se sujetará a lo previsto en su contrato y en las disposiciones mercantiles y bursátiles correspondientes.
+Los fideicomisos de financiamiento constituidos para solicitar financiamientos o para emitir y colocar títulos de deuda en el mercado de valores y su operación interna se sujetará a lo previsto en su contrato yen las disposiciones mercantiles y bursátiles correspondientes.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
@@ -511,7 +515,7 @@ II.- Informar anualmente a la Secretaría que corresponda, el saldo de su deuda 
 
 III.- Proporcionar al Congreso del Estado toda la información necesaria para que éste, en el ámbito de su competencia cumpla con la facultad de vigilancia y fiscalización.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 35.
 
@@ -619,7 +623,7 @@ JOSE LUIS ROMERO HICKS.
 
 SECRETARIO DE PLANEACION Y FINANZAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE SEPTIEMBRE DE 2008.
 
@@ -630,3 +634,9 @@ P.O. 11 DE JUNIO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
