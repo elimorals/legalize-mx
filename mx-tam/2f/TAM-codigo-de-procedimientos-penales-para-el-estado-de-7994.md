@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2013-02-28"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN LA FECHA Y ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN QUE DETERMINEN LOS DECRETOS A QUE ALUDE EL ARTÍCULO PRIMERO TRANSITORIO DEL ORDENAMIENTO EN MENCIÓN.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -1061,15 +1061,31 @@ l.- De los delitos contra la seguridad del Estado.
 
 a) Atentados a la soberanía del Estado previsto por el artículo 143.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+b) Las conductas previstas en los artículos 157 Bis y 157 Ter; y
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+c) Las conductas previstas en los artículos 157 Quáter.
+
 II.- De los delitos contra la seguridad pública.
 
 a) Evasión de presos previsto por el artículo 158, en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160;
 
 b) Contra la seguridad de la comunidad previsto en el artículo 171 Quáter.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+c) Las conductas previstas en el artículo 171 Quinquies.
+
 III.- De los delitos contra la seguridad de los medios de transporte, vías de comunicación y correspondencia.
 
 a) Ataques a los medios de transporte previsto por el artículo 174.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+b) Simulación de retenes previsto en el artículo 178 Bis.
 
 IV.- De los delitos contra la autoridad.
 
@@ -1121,7 +1137,7 @@ e) Abandono de personas, cuando se trate de menores de 12 años, establecido en 
 
 XI.- De los delitos contra la seguridad en el goce de garantías.
 
-a) Secuestro en los casos de los artículos 391 y 391 Bis.
+a) (DEROGADO, P.O. 7 DE JUNIO DE 2013)
 
 XII.- De los delitos contra el patrimonio de las personas.
 
@@ -5063,9 +5079,13 @@ Vigencia
 
 El Código de Procedimientos Penales del Estado de Tamaulipas contenido en el presente Decreto entrará en vigor, de manera sucesiva, según las siguientes prevenciones:
 
-I. Sus disposiciones se aplicarán el 1 de julio de 2013, en el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la ciudad de Victoria, Tamaulipas. En caso de que entrara en vigor antes de la fecha señalada, se atenderá el procedimiento que señala la fracción siguiente de este artículo;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-II. En el resto de los Distritos Judiciales o Regiones, sus disposiciones se aplicarán en la fecha que contengan los Decretos respectivos que deberán ser emitidos por el Congreso del Estado o la Comisión Permanente. Los Decretos deberán ser publicados en el Periódico Oficial del Estado;
+I. Sus disposiciones empezarán a regir el 1 de julio de 2013 en la circunscripción territorial que comprende el Primer Distrito Judicial, con cabecera en Ciudad Victoria, perteneciente a la Primera Región Judicial y sólo para los delitos de daño en propiedad, lesiones y homicidio, todos de carácter culposo, exceptuando cuando se cometan en las circunstancias previstas en el artículo 318 del Código Penal para el Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+II. En el resto de los Distritos Judiciales o Regiones y el catálogo de delitos, sus disposiciones se aplicarán en la fecha que contengan los Decretos respectivos que deberán ser emitidos por el Congreso del Estado o la Diputación Permanente. Los Decretos deberán ser publicados en el Periódico Oficial del Estado;
 
 III. En caso de contar con la suficiencia presupuestal para su implementación, el Sistema Penal Acusatorio podrá aplicarse en uno o más de los Distritos Judiciales o Regiones atendiendo la prevención contenida en la fracción II del presente artículo; y
 
@@ -5126,3 +5146,33 @@ Los procedimientos de mediación y conciliación que con anterioridad a la entra
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
+
+P.O. 7 DE JUNIO DE 2013.
+
+DECRETO NÚMERO LXI-859, POR EL QUE SE DEROGA EL INCISO A) DE LA FRACCIÓN XI, DEL ARTÍCULO 109 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a los delitos de secuestro previstas en el Código Penal para el Estado de Tamaulipas y de la Ley de Justicia para Adolescentes del Estado vigentes hasta la entrada en vigor del Decreto mediante el cual se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2013.
+
+DECRETO NÚMERO LXI-860, POR EL QUE SE ADICIONAN LOS INCISOS B Y C) DE LA FRACCIÓN I, C) DE LA FRACCIÓN II Y B) DE LA FRACCIÓN III DEL ARTÍCULO 109 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JUNIO DE 2013.
+
+DECRETO NÚMERO LXI-862, POR EL QUE SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO No. LXI-475, MEDIANTE EL CUAL SE EXPIDE EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO ANEXO AL NÚMERO 80, DE FECHA 4 DE JULIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
