@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2013-05-24"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -3062,25 +3062,51 @@ ARTICULO 167 BIS 4.- Toda notificación deberá efectuarse en un plazo máximo d
 
 Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría procederá, dentro de los veinte días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Durante el procedimiento y antes de que se dicte resolución, el interesado y la Secretaría, a petición del primero, podrán convenir la realización de las acciones de restauración o compensación de daños necesarias para la corrección de las presuntas irregularidades observadas. La instrumentación y evaluación de dicho convenio, se llevará a cabo en los términos del artículo 169 de esta Ley.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+Durante el procedimiento, y antes de que se dicte resolución administrativa, el interesado y la Procuraduría Federal de Protección al Ambiente, a petición del primero, podrán convenir la realización de acciones para la reparación y compensación de los daños que se hayan ocasionado al ambiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+En los convenios administrativos referidos en el párrafo anterior, podrán intervenir quienes sean parte en el procedimiento judicial previsto en la Ley Federal de Responsabilidad Ambiental, siempre que se trate de la misma infracción, hechos y daños.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+En la formulación y ejecución de los convenios se observará lo dispuesto por el artículo 169 de esta Ley, así como lo previsto por la Ley Federal de Responsabilidad Ambiental, en ellos podrá también acordarse la realización del examen metodológico de las operaciones del interesado a las que hace referencia el artículo 38 Bis, así como la atenuación y conmutación de las multas que resulten procedentes. En todo caso, deberá garantizarse el cumplimiento de las obligaciones del infractor, en cualquiera de las formas previstas en el Código Fiscal de la Federación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+La celebración del convenio suspenderá el procedimiento administrativo y el término para la caducidad, a partir de la presentación de la solicitud a la autoridad, y hasta por un plazo de cuarenta y cinco días hábiles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 169.
 
-En la resolución administrativa correspondiente, se señalarán o, en su caso, adicionarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables.
+La resolución del procedimiento administrativo contendrá:
 
-Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo.
+I. Las sanciones a que se haya hecho acreedor el responsable;
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+II. Las medidas que el responsable deba llevar a cabo para corregir las deficiencias, violaciones o irregularidades observadas;
 
-Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer además de la sanción o sanciones que procedan conforme al artículo 171 de esta Ley, una multa adicional que no exceda de los límites máximos señalados en dicho precepto.
+III. El reconocimiento de los términos y obligaciones derivados del convenio previsto en el artículo anterior, y las medidas que el responsable deba llevar a cabo para su cumplimiento. En este supuesto, la resolución del procedimiento será pública, y
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+IV. Los plazos para el cumplimiento de las obligaciones del infractor que se deriven de la resolución.
 
-En los casos en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades detectadas, en los plazos ordenados por la Secretaría, siempre y cuando el infractor no sea reincidente, y no se trate de alguno de los supuestos previstos en el artículo 170 de esta Ley, ésta podrá revocar o modificar la sanción o sanciones impuestas.
+El infractor deberá informar a la autoridad ordenadora, por escrito, en forma detallada y dentro de los cinco días siguientes al vencimiento del plazo correspondiente, sobre el cumplimiento de las obligaciones a que se refiere el presente artículo.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+La procuraduría podrá realizar inspecciones para verificar el cumplimiento de las obligaciones del infractor. Cuando del acta que se levante al efecto, se desprenda su incumplimiento, podrá imponerse además de las sanciones previstas en el artículo 171 de esta Ley, una multa adicional que no exceda el monto previsto en dicho precepto.
+
+En los casos en que el infractor realice las medidas correctivas o de urgente aplicación, subsane las irregularidades detectadas, o cumpla con las obligaciones derivadas del convenio previsto en el artículo 168, en los plazos ordenados o acordados por la Procuraduría Federal de Protección al Ambiente, siempre y cuando el infractor no sea reincidente, ésta podrá revocar o modificar la sanción o sanciones impuestas.
 
 En los casos en que proceda, la autoridad federal hará del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
 
@@ -3231,6 +3257,12 @@ ARTICULO 175 BIS.- Los ingresos que se obtengan de las multas por infracciones a
 Las resoluciones definitivas dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y disposiciones que de ella emanen, podrán ser impugnadas por los afectados, mediante el recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación, o ante las instancias jurisdiccionales competentes.
 
 El recurso de revisión se interpondrá directamente ante la autoridad que emitió la resolución impugnada, quien en su caso, acordará su admisión, y el otorgamiento o denegación de la suspensión del acto recurrido, turnando el recurso a su superior jerárquico para su resolución definitiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+La resolución del procedimiento administrativo y la que recaiga al recurso administrativo de revisión, podrán controvertirse en vía de juicio ante los juzgados de distrito en materia administrativa. Cuando se impugne la resolución del recurso administrativo, se entenderá que simultáneamente se impugna la resolución administrativa recurrida en la parte que continúa afectándolo, pudiendo hacer valer conceptos de impugnación no planteados en el recurso.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3765,3 +3797,11 @@ D.O.F. 24 DE MAYO DE 2013.
 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, EN MATERIA DE ÁREAS PROTEGIDAS MARINAS.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
