@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2013-04-04"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -2367,9 +2367,9 @@ ART. 563.- Si la tutela hubiera fenecido durante la minoridad, el menor podrá e
 
 ART. 564.- El que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apoderado constituido antes o después de su partida, se tendrá como presente para todos los efectos civiles, y sus negocios se podrán tratar con el apoderado hasta donde alcance el poder.
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
-ART. 565.- Cuando de manera generalizada se ignore el lugar donde se halle una persona que ha desaparecido sin dejar quien lo represente, el juez, a petición de parte o de oficio, nombrará un depositario de sus bienes y procederá a citar al ausente por medio de edicto que se publicará por dos veces, con intervalo de quince días, en el periódico de mayor circulación de su último domicilio o en su caso residencia, señalándole para que se presente un término no menor de un mes ni mayor de tres y dictará las providencias necesarias para asegurar los bienes.
+ART. 565.- Cuando de manera generalizada se ignore el lugar donde se halle una persona que ha desaparecido sin dejar quien lo represente, el Juez, a petición de parte o de oficio, nombrará un depositario de sus bienes y procederá a citar al ausente por medio de edicto que se publicará por dos veces, con intervalo de diez días, en el periódico de mayor circulación de su último domicilio o en su caso residencia, señalándole para que se presente en un término no menor de un mes ni mayor de tres y dictará las providencias necesarias para asegurar los bienes.
 
 Cuando el suceso de la desaparición hubiese acaecido en diverso estado de la República o si se tuviere motivos fundados para creer que el ausente se halle en él, el juez ordenará se publique en dicha localidad igual edicto.
 
@@ -2421,7 +2421,9 @@ III.- Con la muerte del ausente;
 
 IV.- Con la posesión provisional.
 
-ART. 578.- Cada seis meses, en el día que corresponda a aquel en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente. En ellos constarán el nombre y domicilio del representante y el tiempo que falta para que se cumpla el plazo que señalan los artículos 580 y 581, en su caso.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
+ART. 578.- Cada tres meses, en el día que corresponda a aquel en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente. En ellos constarán el nombre y domicilio del representante y el tiempo que falta para que se cumpla el plazo que señalan los artículos 580 y 581, en su caso.
 
 Para la publicación de estos edictos se observará lo dispuesto en el artículo 565.
 
@@ -2429,13 +2431,21 @@ ART. 579.- El representante está obligado a promover la publicación de los edi
 
 ### CAPITULO II. DE LA DECLARACION DE AUSENCIA
 
-ART. 580.- Pasado un año desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-ART. 581.- En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados dos años, que se contarán desde la desaparición del ausente, si en este período no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
+ART. 580.- Pasados seis meses desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
 
-ART. 582.- Lo dispuesto en el artículo anterior se observará aun cuando el poder se haya conferido por más de dos años.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-ART. 583.- Pasado un año que se contará del modo establecido en el artículo 581, el Ministerio Público y las personas que designa el artículo 586, pueden pedir que el apoderado garantice en los mismos términos en que debe hacerlo el representante; y el juez así lo dispondrá si hubiere motivo fundado.
+ART. 581.- En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasado un año, que se contarán desde la desaparición del ausente, si en este período no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+ART. 582.- Lo dispuesto en el artículo anterior se observará aún cuando el poder se haya conferido con plazo indefinido.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+ART. 583.- Pasados seis meses, que se contarán del modo establecido en el artículo 581, el Ministerio Público y las personas que designa el artículo 586, pueden pedir que el apoderado garantice en los mismos términos en que debe hacerlo el representante, y el Juez así lo dispondrá si hubiere motivo fundado.
 
 ART. 584.- Si el apoderado no quiere o no puede dar garantía, se tendrá por terminado el poder, y se procederá al nombramiento de representante de la manera dispuesta en los artículos 571 y fracción IV del 568.
 
@@ -2451,13 +2461,15 @@ IV.- El Ministerio Público.
 
 ART. 586.- Si el juez encuentra fundada la solicitud, dispondrá que se publiquen dos edictos, con intervalos de quince días, en el periódico de mayor circulación en el Estado; observándose además, en su caso, lo dispuesto en los dos últimos párrafos del artículo 565.
 
-ART. 587.- Pasados dos meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+ART. 587.- Pasado un mes desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el Juez declarará en forma la ausencia.
 
 ART. 588.- Si hubiere algunas noticias u oposición, el Juez a su arbitrio no declarará la ausencia sin repetir las publicaciones que establece el artículo 565 y hacer la averiguación por los medios que el oponente proponga y por los que el mismo Juez crea oportunos.
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-ART. 589.- La declaración de ausencia, se publicará por una vez en el periódico de mayor circulación en el Estado, observándose, en su caso, lo dispuesto en los dos últimos párrafos del artículo 565. Cada seis meses, hasta que se declare la presunción de muerte, se publicará un edicto en la misma forma.
+ART. 589.- La declaración de ausencia, se publicará por una vez en el periódico de mayor circulación en el Estado, observándose, en su caso, lo dispuesto en los dos últimos párrafos del artículo 565. Cada tres meses, hasta que se declare la presunción de muerte se publicará un edicto en la misma forma.
 
 ### CAPITULO III. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
 
@@ -2527,11 +2539,13 @@ ART. 613.- Si el cónyuge ausente regresa o se probare su existencia, quedará r
 
 ### CAPITULO V. DE LA PRESUNCION DE MUERTE DEL AUSENTE
 
-ART. 614.- Cuando hayan transcurrido tres años desde la declaración de ausencia, el juez, a instancia de la parte interesada, declarará la presunción de muerte.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+ART. 614.- Cuando hayan transcurrido un año desde la declaración de ausencia, el Juez, a instancia de la parte interesada, declarará la presunción de muerte.
 
-ART. 615.- Respecto a los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que haya transcurrido un año, contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia, pero si se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+ART. 615.- Respecto a los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que haya transcurrido un año, contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte; igual término se aplicará a quienes hayan desaparecido como víctimas de la presunta comisión de un delito, de cuyos hechos haya tenido conocimiento el Ministerio Público, computado a partir de la fecha de la denuncia. En estos casos no será necesario que previamente se declare su ausencia, pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
 
 ART. 616.- Declarada la presunción de muerte, se abrirá el testamento del ausente, si no estuviere ya publicado conforme al artículo 591; los poseedores provisionales darán cuenta de su administración en los términos previstos en el artículo 603, y los herederos y demás interesados entrarán en la posesión definitiva de los bienes, sin garantía alguna. La que se hubiere otorgado quedará cancelada.
 
@@ -10054,3 +10068,17 @@ El presente Decreto entrará en vigor treinta días posteriores al de su publica
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos para contraer matrimonio que se hayan iniciado hasta la entrada en vigor del presente Decreto, deberán concluir con la aplicación de la normatividad con la que se hubieren iniciado.
+
+P.O. 7 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de Declaración de Ausencia y de Presunción de Muerte del Ausente que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, deberán concluir conforme al procedimiento con el que hayan dado comienzo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto
