@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2013-02-22"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1027,29 +1027,29 @@ Este impuesto será destinado para la promoción y difusión de la actividad tur
 
 Cuando los servicios a que se refiere el Artículo 127 de esta Ley, se reciban con motivo de los actos jurídicos que realice el prestador del servicio con personas físicas o morales directamente o a través de agencias operadoras mayoristas, agencias de viajes minoristas o empresas de sistemas de intercambio de servicios turísticos y de cualquier tipo con el propósito de dar alojamiento o albergue a terceras personas, se tendrá obligación de enterar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien preste los servicios de hospedaje y sobre el monto de los mismos.
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 131.
 
-Quienes presten los servicios señalados en este capítulo tendrán el carácter de retenedores del impuesto sobre servicios de hospedaje, así como del impuesto adicional para la educación media y superior que se cause por aquel, y deberán enterarlos mensualmente, a más tardar el día veinticinco del mes siguiente a aquel al que correspondan los impuestos causados, mediante las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado; debiendo constar en la declaración correspondiente, la información y demás datos relativos a los actos y operaciones objeto de estos impuestos, que se hayan realizado en el mes inmediato anterior.
+Quienes presten los servicios señalados en este capítulo tendrán el carácter de retenedores y deberán enterarlo mensualmente, a más tardar el día veinticinco del mes siguiente a aquel al que corresponda el impuesto causado, mediante las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado; debiendo constar en la declaración correspondiente, la información y demás datos relativos a los actos y operaciones objeto de este impuesto, que se hayan realizado en el mes inmediato anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 132.
 
-Las personas que presten los servicios de hospedaje, serán responsables solidarios de este impuesto, así como del impuesto adicional para la educación media y superior. Con independencia de las obligaciones señaladas en el Código Fiscal del Estado tendrán las siguientes:
+Las personas que presten los servicios de hospedaje, serán responsables solidarios de este impuesto, además de las obligaciones señaladas en el Código Fiscal del Estado; con excepción del Impuesto Adicional para la Educación Media y Superior, de conformidad a lo establecido en los Artículos 155 y 156 de esta Ley; y, estarán obligados a lo siguiente:
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 I.- Estar inscritos en el Registro Estatal de Causantes, mediante la forma oficial correspondiente, y proporcionar la información relacionada con su identidad, su domicilio y aquella que le sea solicitada.
 
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-II.- Retener y enterar los impuestos aún cuando no hubieren hecho la retención o no hayan recibido el pago de las contraprestaciones del servicio prestado.
+II.- Retener y enterar el impuesto, aún cuando no hubieren hecho la retención o no hayan recibido el pago de las contraprestaciones del servicio prestado.
 
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-III.- Llevar los controles contables necesarios que acrediten en forma fehaciente cada uno de los actos y operaciones objeto del impuesto sobre servicios de hospedaje, así como del impuesto adicional para la educación media y superior que se cause por aquel.
+III.- Llevar los controles contables necesarios que acrediten en forma fehaciente cada uno de los actos y operaciones objeto de este impuesto.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -1611,6 +1611,10 @@ Este Impuesto se causará conforme la tasa que fije la Ley de Ingresos del Estad
 
 Son sujetos de este impuesto, quienes causen los impuestos y derechos a que se refiere el Artículo 152.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JUNIO DE 2013)</small>
+
+Para efectos de su causación, tratándose del Impuesto sobre Servicios de Hospedaje, en cuanto a las retenciones a cargo de terceros, no se pagará este impuesto adicional, ni tendrán responsabilidad solidaria, aquellos que presten los servicios de hospedaje de conformidad a lo previsto en los términos de los Artículos 131 y 132 de esta Ley.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 1975)</small>
 
 ###### ARTICULO 156.
@@ -1625,7 +1629,9 @@ III.- Los Impuestos a cargo de los ejidatarios.
 
 IV.- El Impuesto sobre venta de primera mano de gasolina y derivados del petróleo destinados al consumo del Estado.
 
-V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2013)</small>
+
+V.- El Impuesto sobre Servicios de Hospedaje;
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 1975)</small>
 
@@ -3162,3 +3168,7 @@ P.O. 22 DE FEBRERO DE 2013.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Túrnese las presentes reformas de Ley al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE JUNIO DE 2013.
+
+ÚNICO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
