@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-proteccion-de-datos-personales-para-el-estado-y-los-5054
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-19"
-last_updated: "2006-05-19"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
+LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de mayo de 2006.
 
@@ -267,11 +267,17 @@ III. Elaborar y mantener actualizado el Registro Estatal de Protección de Datos
 
 IV. Procurar la conciliación de los intereses de los titulares con los de los sujetos obligados cuando éstos entren en conflicto con motivo de la aplicación de la presente Ley.
 
-### CAPÍTULO II. DEL DIRECTOR GENERAL DEL INSTITUTO Y SUS ATRIBUCIONES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
+
+### CAPÍTULO II. DEL CONSEJO GENERAL DEL INSTITUTO Y SUS ATRIBUCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 22.
 
-El Director General del Instituto además de las atribuciones que le confieren otras disposiciones legales, tendrá las siguientes:
+El Consejo General del Instituto además de las atribuciones que le confieren otras disposiciones legales, tendrá las siguientes:
 
 I. Conocer y resolver el recurso de queja;
 
@@ -315,9 +321,11 @@ II. Del incumplimiento de notificar dentro del plazo que establece esta Ley, el 
 
 III. De la negativa de corregir o cancelar los datos personales.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 26.
 
-El titular o su representante podrán interponer el recurso de queja ante el Director General del Instituto dentro de los quince días hábiles siguientes a la notificación o a la fecha en que tenga conocimiento de los supuestos contemplados en el artículo anterior.
+El titular o su representante podrán interponer el recurso de queja ante el Consejo General del Instituto dentro de los quince días hábiles siguientes a la notificación o a la fecha en que tenga conocimiento de los supuestos contemplados en el artículo anterior.
 
 ###### Artículo 27.
 
@@ -335,9 +343,9 @@ V. La exposición en forma clara y sucinta de los hechos relativos a la queja, a
 
 Al escrito, el recurrente deberá acompañar los documentos en que funde su impugnación.
 
-###### Artículo 28.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-Como medida preventiva, el Director General del Instituto podrá ordenar el bloqueo de los datos personales contenidos en el archivo o banco de datos, que sean motivo del recurso. Dicho bloqueo, permanecerá hasta que se emita la resolución correspondiente.
+Artículo. 28. Como medida preventiva, el Consejo General del Instituto podrá ordenar el bloqueo de los datos personales contenidos en el archivo o banco de datos que sean motivo del recurso. Dicho bloqueo permanecerá hasta que se emita la resolución correspondiente.
 
 ###### Artículo 29.
 
@@ -345,21 +353,29 @@ Una vez recibido el recurso de queja, se hará el emplazamiento a la unidad de a
 
 Ante la negación de la existencia del acto recurrido por parte de la unidad de acceso, se correrá traslado al recurrente para que en el plazo de tres días hábiles manifieste lo que su interés convenga. En caso de no comprobar la existencia del acto impugnado se sobreseerá el recurso.
 
-###### Artículo 30.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
-Rendido el informe justificado o transcurrido el plazo señalado en el segundo párrafo del artículo anterior, el Director General del Instituto resolverá el recurso de queja dentro de los diez días hábiles siguientes, confirmando, modificando o revocando el acto recurrido.
+###### Articulo 30.
+
+Rendido el informe justificado o transcurrido el plazo señalado en el segundo párrafo del artículo anterior, el Consejo General del Instituto resolverá el recurso de queja dentro de los diez días hábiles siguientes, confirmando, modificando o revocando el acto recurrido.
 
 La resolución que recaiga al recurso de queja se notificará en forma personal al recurrente y por cualquier medio a la unidad de acceso que corresponda.
 
-Si la resolución es favorable al recurrente, el Director General del Instituto ordenará a la unidad de acceso que entregue los informes solicitados o realice la corrección o cancelación de los datos solicitados, en un plazo no mayor a cinco días hábiles.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Si la resolución es favorable al recurrente, el Consejo General del Instituto ordenará a la unidad de acceso que entregue los informes solicitados o realice la corrección o cancelación de los datos solicitados, en un plazo no mayor a cinco días hábiles.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 31.
 
-El Director General del Instituto puede en todo momento y hasta antes de dictar resolución, requerir todo tipo de información que considere necesaria para la resolución del recurso de queja.
+El Consejo General del Instituto puede en todo momento y hasta antes de dictar resolución, requerir todo tipo de información que considere necesaria para la resolución del recurso de queja.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 32.
 
-En la substanciación del recurso de queja, en lo no previsto por esta Ley, se aplicará de manera supletoria la Ley de Justicia Administrativa del Estado de Guanajuato.
+En la substanciación del recurso de queja, en lo no previsto por esta ley, se aplicará de manera supletoria el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 ## TÍTULO SEXTO. INFRACCIONES Y SANCIONES
 
@@ -430,3 +446,11 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 SAMUEL ALCOCER FLORES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
