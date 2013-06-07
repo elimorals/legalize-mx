@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales-8089
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-15"
-last_updated: "2012-08-10"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EJECUCIÓN DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de abril de 2011.
 
@@ -75,13 +75,17 @@ Glosario
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Autoridades auxiliares: Las Secretarías de Gobierno, de Finanzas y Administración, de Educación, de Desarrollo Social y Humano, de Salud, de Desarrollo Económico Sustentable, de Desarrollo Agropecuario, Instituciones Policiales del Estado y de los municipios, organismos autónomos y descentralizados estatales y municipales, así como todas aquellas que les resulte participación, conforme a su naturaleza y atribuciones, en el desarrollo y ejecución del objeto de la presente Ley;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I. Autoridades auxiliares: Las Secretarías de Gobierno, de Finanzas, Inversión y Administración, de Educación, de Desarrollo Social y Humano, de Salud, de Desarrollo Económico Sustentable, de Desarrollo Agroalimentario y Rural, Instituciones Policiales del Estado y de los municipios, organismos autónomos y descentralizados estatales y municipales, así como todas aquellas que les resulte participación, conforme a su naturaleza y atribuciones, en el desarrollo y ejecución del objeto de la presente Ley;
 
 II. Centros: Los establecimientos destinados exclusivamente a la aplicación de la prisión preventiva;
 
 III. Centros de Prevención y Reinserción Social: Los establecimientos en los cuales se aplicará la prisión preventiva y se ejecutarán, tanto las penas privativas como las restrictivas de libertad y, en su caso, las medidas de seguridad, en el ámbito de su competencia, en espacios separados unos de los otros;
 
-IV. Código Penal: El Código Penal para el Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+IV. Código Penal: El Código Penal del Estado de Guanajuato;
 
 V. Condiciones: Las establecidas por el artículo 154 de la Ley del Proceso Penal para el Estado de Guanajuato y cualquier otra que con base en ese precepto pudiera imponer el Juez de Control para la procedencia de la suspensión condicional del proceso;
 
@@ -347,11 +351,15 @@ II. Prohibición de salir del país; y
 
 II. Abstención de viajar al extranjero.
 
-Secretaría de Finanzas y Administración
+> <small>(REFORMADO ACÁPITE, P.O. 7 DE JUNIO DE 2013)</small>
+
+Secretaría de Finanzas, Inversión y Administración
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 23.
 
-Corresponde a la Secretaría de Finanzas y Administración, el auxilio en la ejecución:
+Corresponde a la Secretaría de Finanzas, Inversión y Administración, el auxilio en la ejecución:
 
 I. Durante el proceso penal, de las medidas cautelares o condiciones de suspensión provisional sin goce de sueldo en el ejercicio del cargo, cuando se trate de un delito cometido por servidores públicos; y
 
@@ -407,9 +415,11 @@ Corresponde a la Secretaría de Desarrollo Económico Sustentable, durante el pr
 
 Instituciones policiales del estado y de los municipios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 28.
 
-Corresponde a las Instituciones policiales, dependientes de la Secretaría, de la Secretaría de Gobierno y de los municipios, el auxilio en la ejecución:
+Corresponde a las Instituciones policiales, dependientes de la Secretaría y de los municipios, el auxilio en la ejecución:
 
 l. Durante el proceso penal, de las medidas cautelares o condiciones de:
 
@@ -693,7 +703,9 @@ III. Abstenerse de consumir sustancias psicotrópicas, drogas, estupefacientes u
 
 IV. Participar en programas especiales para la prevención y tratamiento de adicciones. Corresponde a la Secretaría de Salud, incorporar al inculpado para su participación en dichos programas, la que además revisará los resultados e informará sobre su cumplimiento;
 
-V. Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez. Se sujetará a la revisión, por parte de la Secretaría de Educación, de la Secretaría de Desarrollo Económico Sustentable y de la Secretaría de Desarrollo Agropecuario, las cuales incorporarán al inculpado en alguno (sic) de las instituciones que ofrezcan servicios educativos o de capacitación para el trabajo, informando sobre los avances programáticos que alcance el inculpado, y sobre la culminación de los estudios, en su caso;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+V. Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez. Se sujetará a la revisión, por parte de la Secretaría de Educación, de la Secretaría de Desarrollo Económico Sustentable y de la Secretaría de Desarrollo Agroalimentario y Rural, las cuales incorporarán al inculpado en alguno (sic) de las instituciones que ofrezcan servicios educativos o de capacitación para el trabajo, informando sobre los avances programáticos que alcance el inculpado, y sobre la culminación de los estudios, en su caso;
 
 VI. Prestar servicio social a favor del Estado o de instituciones de beneficencia pública. La Dirección inscribirá al inculpado en un listado especial de prestadores de servicio social y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, y las labores que desempeñará. Asimismo, supervisará el trabajo del inculpado periódicamente e informará sobre su cumplimiento;
 
@@ -1679,7 +1691,9 @@ La capacitación para el trabajo deberá orientarse a desarrollar armónicamente
 
 La capacitación que se imparta será actualizada, de tal forma que pueda incorporar al interno a una actividad económica, social y culturalmente productiva.
 
-Para este fin, la Secretaría se auxiliará de la Secretaría de Educación, de la Secretaría de Desarrollo Económico Sustentable y de la Secretaría de Desarrollo Agropecuario, a través de las áreas de esas Secretarías que ofrezcan servicios educativos o de capacitación para el trabajo.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Para este fin, la Secretaría se auxiliará de la Secretaría de Educación, de la Secretaría de Desarrollo Económico Sustentable y de la Secretaría de Desarrollo Agroalimentario y Rural, a través de las áreas de esas Secretarías que ofrezcan servicios educativos o de capacitación para el trabajo.
 
 ### Capítulo V. Régimen educativo
 
@@ -2134,3 +2148,9 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 P.O. 10 DE AGOSTO DE 2012.
 
 Único. El presente Decreto entrará en vigencia al cuarto día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
