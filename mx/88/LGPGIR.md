@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2013-05-21"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPGIR"
 
 LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -438,11 +438,13 @@ IV. Identificar las fuentes generadoras de los residuos cuya disposición final 
 
 La clasificación de un residuo como peligroso, se establecerá en las normas oficiales mexicanas que especifiquen la forma de determinar sus características, que incluyan los listados de los mismos y fijen los límites de concentración de las sustancias contenidas en ellos, con base en los conocimientos científicos y las evidencias acerca de su peligrosidad y riesgo.
 
-> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 17.
 
-Los residuos de la industria minera-metalúrgica provenientes del minado y tratamiento de minerales tales como jales, residuos de los patios de lixiviación abandonados, así como los metalúrgicos provenientes de los procesos de fundición, refinación y transformación de metales, que se definirán en forma genérica en el reglamento según lo estipulado en el artículo 7 fracción III de esta ley, son de regulación y competencia federal. Podrán disponerse finalmente en el sitio de su generación; su peligrosidad y manejo integral, se determinará conforme a las normas oficiales mexicanas aplicables, y estarán sujetos a los planes de manejo previstos en esta Ley. Se exceptúan de esta clasificación los referidos en el artículo 19 fracción I de este ordenamiento.
+Los residuos de la industria minera-metalúrgica provenientes del minado y tratamiento de minerales tales como jales, residuos de los patios de lixiviación abandonados, así como los metalúrgicos provenientes de los procesos de fundición, refinación y transformación de metales, que se definirán en forma genérica en el reglamento según lo estipulado en el artículo 7 fracción III de esta Ley, son de regulación y competencia federal. Podrán disponerse finalmente en el sitio de su generación; su peligrosidad y manejo integral, se determinará conforme a las normas oficiales mexicanas aplicables, y estarán sujetos a los planes de manejo previstos en esta Ley. Se exceptúan de esta clasificación los referidos en el artículo 19, fracción I de este ordenamiento.
 
 ###### Artículo 18.
 
@@ -900,6 +902,12 @@ IX. La incineración de residuos peligrosos que sean o contengan compuestos org�
 
 Quienes resulten responsables de la contaminación de un sitio, así como de daños a la salud como consecuencia de ésta, estarán obligados a reparar el daño causado, conforme a las disposiciones legales correspondientes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+Toda persona física o moral que, directa o indirectamente, contamine un sitio u ocasione un daño o afectación al ambiente como resultado de la generación, manejo o liberación, descarga, infiltración o incorporación de materiales o residuos peligrosos al ambiente, será responsable y estará obligada a su reparación y, en su caso, a la compensación correspondiente, de conformidad a lo previsto por la Ley Federal de Responsabilidad Ambiental.
+
 ###### Artículo 69.
 
 Las personas responsables de actividades relacionadas con la generación y manejo de materiales y residuos peligrosos que hayan ocasionado la contaminación de sitios con éstos, están obligadas a llevar a cabo las acciones de remediación conforme a lo dispuesto en la presente Ley y demás disposiciones aplicables.
@@ -956,9 +964,13 @@ La Secretaría y las autoridades locales competentes, según corresponda, serán
 
 Las autoridades locales deberán inscribir en el Registro Público de la Propiedad correspondiente los sitios contaminados que se encuentren dentro de su jurisdicción.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 77.
 
-Las acciones en materia de remediación de sitios, previstas en este capítulo, se llevarán a cabo mediante programas, de conformidad con lo que señale el Reglamento.
+Las acciones en materia de remediación de sitios, y de reparación y compensación de daños ocasionados al ambiente, previstas en este capítulo, se llevarán a cabo de conformidad con lo que señale el Reglamento, y a lo previsto por la Ley Federal de Responsabilidad Ambiental.
 
 ###### Artículo 78.
 
@@ -1487,3 +1499,11 @@ D.O.F. 21 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las entidades federativas deberán realizar las reformas a su legislación y reglamentación, en las disposiciones que resulten necesarias para el desarrollo y ejecución del presente Decreto.
+
+D.O.F. 7 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
