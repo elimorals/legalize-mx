@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-68085"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2010-11-26"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el 27 de marzo de 2009.
 
@@ -325,11 +325,15 @@ VI. De la Secretaría de Educación;
 
 VII. De la Secretaría de Salud;
 
-VIII. De la Secretaría de la Gestión Pública;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VIII. De la Secretaría de la Transparencia y Rendición de Cuentas;
 
 IX. Del Instituto de la Mujer Guanajuatense;
 
-X. Del Instituto Estatal de la Juventud de Guanajuato;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+X. Del Instituto de la Juventud Guanajuatense;
 
 XI. Del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
 
@@ -535,13 +539,19 @@ II. Proporcionar atención médica con respeto a la dignidad humana y aplicació
 
 III. Canalizar a las personas receptoras de violencia a las instituciones correspondientes.
 
-#### Sección Décima. Del Titular de la Secretaria de la Gestión Pública
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
 
-Facultades del Secretario de la Gestión Pública
+#### Sección Décima. Del Titular de la Secretaría de la Transparencia y Rendición de Cuentas
+
+> <small>(REFORMADO ACÁPITE, P.O. 7 DE JUNIO DE 2013)</small>
+
+Facultades de la Secretaría de la Transparencia y Rendición de Cuentas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 37.
 
-El Titular de la Secretaria de la Gestión Pública tendrá las siguientes facultades:
+El Titular de la Secretaría de la Transparencia y Rendición de Cuentas tendrá las siguientes facultades:
 
 I. Implementar programas que promuevan y fortalezcan el derecho de servidores públicos a una vida libre de violencia en sus relaciones laborales; y
 
@@ -555,13 +565,19 @@ II. Implementar un procedimiento especializado de tratamiento cuando el servidor
 
 (DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 95, POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO, P.O. 26 DE NOVIEMBRE DE 2010)
 
-#### Sección Duodécima. Del Titular del Instituto Estatal de la Juventud de Guanajuato
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
 
-Facultades del Titular del Instituto Estatal de la Juventud de Guanajuato
+#### Sección Duodécima. Del Titular del Instituto de la Juventud Guanajuatense
 
-###### Articulo 39.
+> <small>(REFORMADO ACÁPITE, P.O. 7 DE JUNIO DE 2013)</small>
 
-El Titular del Instituto Estatal de la Juventud de Guanajuato tendrá las siguientes facultades:
+Facultades del Titular del Instituto de la Juventud Guanajuatense
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### Artículo 39.
+
+El Titular del Instituto de la Juventud Guanajuatense tendrá las siguientes facultades:
 
 I. Proporcionar la información relativa a programas y acciones tendientes al desarrollo integral de la juventud en el Estado;
 
@@ -1078,3 +1094,9 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 P.O. 26 DE NOVIEMBRE DE 2010.
 
 Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
