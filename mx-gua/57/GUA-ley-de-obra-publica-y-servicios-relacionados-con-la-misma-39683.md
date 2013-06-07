@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-39683
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-25"
-last_updated: "2011-12-02"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de mayo de 2004.
 
@@ -137,11 +137,9 @@ XI. Licitador.- La persona física o moral, o asociación de éstas, que partici
 
 XII. Obras por Cooperación.- Las realizadas de conformidad con lo dispuesto en el Título Sexto, Sección Primera de la Ley de Hacienda para los Municipios del Estado de Guanajuato;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
-
-XIII. Órganos de Control Interno.- La Secretaría de la Gestión Pública y los Órganos de Control Interno de los Poderes Legislativo y Judicial, así como de los Ayuntamientos, Organismos Autónomos por Ley y entidades paraestatales y paramunicipales;
+XIII. Órganos de Control Interno.- La Secretaría de la Transparencia y Rendición de Cuentas y los Órganos de Control Interno de los Poderes Legislativo y Judicial, así como de los Ayuntamientos, Organismos Autónomos por Ley y entidades paraestatales y paramunicipales;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -505,7 +503,9 @@ Dicha clasificación no causará impedimento alguno para que una persona física
 
 La clasificación tendrá por objeto que en los procedimientos de contratación se consideren criterios de evaluación de las propuestas que justifiquen la elección.
 
-La información del padrón referida en la fracción I del artículo 26 de esta Ley y el objeto social tratándose de personas morales, así como la resolución definitiva sobre la cancelación o suspensión temporal de las personas físicas o morales en el padrón, será información pública de oficio en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+La información del padrón referida en la fracción I del artículo 26 de esta Ley y el objeto social tratándose de personas morales, así como la resolución definitiva sobre la cancelación o suspensión temporal de las personas físicas o morales en el padrón, será información pública de oficio en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -709,9 +709,9 @@ Los entes públicos podrán convocar, adjudicar y contratar obra pública y serv
 
 I.- Que las obras se encuentren incluidas en el programa de inversión autorizado y se cuente con saldo disponible dentro del presupuesto aprobado y en la partida correspondiente;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-II.- En los supuestos contemplados en las fracciones I y II del artículo 73 de la presente Ley, bajo la responsabilidad de los entes públicos se podrá contratar sin saldo disponible en su presupuesto, o bien, cuando los recursos financieros se encuentren en trámite; en ambos casos se deberá contar con la aprobación de la Secretaría de Finanzas y Administración o de la Tesorería Municipal, del titular de la entidad paraestatal o paramunicipal, según corresponda;
+II.- En los supuestos contemplados en las fracciones I y II del artículo 73 de la presente ley, bajo la responsabilidad de los entes públicos se podrá contratar sin saldo disponible en su presupuesto, o bien, cuando los recursos financieros se encuentren en trámite; en ambos casos se deberá contar con la aprobación de la Secretaría de Finanzas, Inversión y Administración o de la tesorería municipal, del titular de la entidad paraestatal o paramunicipal, según corresponda.
 
 III.- Que se cuente con los estudios y proyectos, normas y especificaciones de diseño y construcción vigentes, así como las contempladas en el reglamento respectivo, en el presupuesto y el programa de ejecución de obra y en su caso, el programa de suministro, o bien con un avance en su desarrollo que permita a los licitadores preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su conclusión;
 
@@ -1321,19 +1321,27 @@ VI.- Contrato de hipoteca; y
 
 VII.- Contrato de prenda.
 
-Las garantías referidas en las fracciones I a III deberán ser otorgadas por instituciones debidamente acreditadas y autorizadas para tal efecto, de reconocida capacidad, seriedad, responsabilidad y solvencia económica y moral. El certificado de depósito a que hace referencia la fracción IV deberá tramitarse ante la Secretaría de Finanzas y Administración o la Tesorería Municipal, o demás instituciones acreditadas y autorizadas para tal efecto. Los contratos aludidos en las fracciones VI y VII deberán otorgarse en los términos de la legislación aplicable.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Las garantías referidas en las fracciones I a III deberán ser otorgadas por instituciones debidamente acreditadas y autorizadas para tal efecto, de reconocida capacidad, seriedad, responsabilidad y solvencia económica y moral. El certificado de depósito a que hace referencia la fracción IV deberá tramitarse ante la Secretaría de Finanzas, Inversión y Administración o la Tesorería Municipal, o demás instituciones acreditadas y autorizadas para tal efecto. Los contratos aludidos en las fracciones VI y VII deberán otorgarse en los términos de la legislación aplicable.
 
 Los requisitos que deban cumplir las garantías que se contienen en el presente artículo, se establecerán en el reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 74.
 
-Las garantías a que se refiere esta Ley se constituirán a favor de la Secretaría de Finanzas y Administración tratándose de contratos que celebre el Poder Ejecutivo y sus dependencias, así como los poderes Legislativo y Judicial.
+Las garantías a que se refiere esta Ley se constituirán a favor de la Secretaría de Finanzas, Inversión y Administración tratándose de contratos que celebre el Poder Ejecutivo y sus dependencias, así como los poderes Legislativo y Judicial.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 En los contratos que celebre la administración pública municipal, las garantías correspondientes se constituirán a favor de las Tesorerías Municipales.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 Los Organismos Autónomos y las entidades paraestatales y paramunicipales serán beneficiarios de las garantías relativas a los contratos que al efecto suscriban.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 Cuando las autoridades facultadas para aplicar esta Ley, celebren entre sí convenios de colaboración para la ejecución de obras públicas, se precisará en dichos instrumentos la autoridad a favor de la cual deberán constituirse las garantías correspondientes.
 
@@ -1475,7 +1483,9 @@ En esta modalidad por ejecución de obra, queda prohibida la intervención de te
 
 Previamente a la ejecución de la obra pública en la modalidad de administración directa, el titular del área responsable emitirá el acuerdo respectivo y lo hará del conocimiento del órgano de control que corresponda, al que comunicará mensualmente sobre el avance físico, los gastos efectuados, el personal, material y equipo de construcción utilizado, así como de la terminación de la obra.
 
-Los Ayuntamientos notificarán a la Secretaría y a la Secretaría de la Gestión Pública, el acuerdo a que se refiere el párrafo anterior cuando las obras se ejecuten con cargo parcial o total a fondos federales transferidos por el Estado o del Gobierno del Estado. Asimismo informarán mensualmente sobre el avance físico, los gastos efectuados y la terminación de la obra.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Los ayuntamientos notificarán a la secretaría y a la Secretaría de la Transparencia y Rendición de Cuentas, el acuerdo a que se refiere el párrafo anterior cuando las obras se ejecuten con cargo parcial o total a fondos federales transferidos por el estado o del gobierno del estado. Asimismo informarán mensualmente sobre el avance físico, los gastos efectuados y la terminación de la obra.
 
 Formará parte integrante del acuerdo, la descripción pormenorizada de la obra que se deba ejecutar, los proyectos, los planos, especificaciones, programas de ejecución, suministros y el presupuesto correspondiente.
 
@@ -1717,9 +1727,9 @@ Las estimaciones por trabajos ejecutados previamente autorizadas por la supervis
 
 Las estimaciones por trabajos ejecutados son independientes entre sí y, por lo tanto, cualquier tipo y secuencia será sólo para efecto de control administrativo.
 
-> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-Se prohíbe la cesión total o parcial de los derechos y obligaciones que se deriven de los contratos de obra pública a favor de cualesquiera otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, facturas o recibos de honorarios, que se podrán ceder a favor de instituciones financieras en cuyo caso se deberá contar con el consentimiento de la contratante y de la Secretaría de Finanzas y Administración o de la Tesorería Municipal, según corresponda.
+Se prohíbe la cesión total o parcial de los derechos y obligaciones que se deriven de los contratos de obra pública a favor de cualesquiera otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, facturas o recibos de honorarios, que se podrán ceder a favor de instituciones financieras en cuyo caso se deberá contar con el consentimiento de la contratante y de la Secretaría de Finanzas, Inversión y Administración o de la tesorería municipal, según corresponda.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1931,13 +1941,15 @@ Para garantizar durante doce meses el cumplimiento de las obligaciones a que se 
 
 Para tal efecto la contratante deberá efectuar una nueva revisión de dichos trabajos, dentro de los cinco días hábiles posteriores a la solicitud de liberación de la fianza, para percatarse de que no aparecieron vicios ocultos, asentando los resultados de manera formal y en su caso, procederá la liberación de la garantía, de lo contrario procederá a solicitar su reparación, de ser posible, o aplicará la garantía, y de ser necesario iniciará un proceso de naturaleza civil en contra de éste para la obtención de la reparación total de daño.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 112.
 
-Para efecto del padrón inmobiliario de los bienes propiedad del Estado, los entes públicos deberán enviar a la Secretaría de Finanzas y Administración, en su caso, copia de los títulos de propiedad y los datos sobre la localización de la obra pública ejecutada o bien, el expediente de la obra respectiva, con los elementos necesarios para su titulación, a efecto de que se incluyan en el mismo.
+Para efecto del padrón inmobiliario de los bienes propiedad del Estado, los entes públicos deberán enviar a la Secretaría de Finanzas, Inversión y Administración, en su caso, copia de los títulos de propiedad y los datos sobre la localización de la obra pública ejecutada o bien, el expediente de la obra respectiva, con los elementos necesarios para su titulación, a efecto de que se incluyan en el mismo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 Tratándose de los Municipios, la información señalada en el párrafo anterior se deberá remitir a la Tesorería Municipal o a la unidad administrativa correspondiente para su inscripción o actualización en el padrón inmobiliario municipal.
 
@@ -2187,7 +2199,7 @@ EL SECRETARIO DE GOBIERNO
 
 GERARDO LUIS RODRÍGUEZ OROZCO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE SEPTIEMBRE DE 2005.
 
@@ -2220,3 +2232,9 @@ Artículo Cuarto. Los procesos de contratación que se hayan iniciado bajo los t
 Artículo Quinto. La Secretaría de Obra Pública emitirá las disposiciones administrativas complementarias a la Ley y al Reglamento para facilitar la integración inicial del padrón.
 
 Artículo Sexto. La Secretaría de Finanzas y Administración proporcionará la asesoría y los recursos necesarios para la implementación del sistema informático referido en el artículo 25 Bis.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
