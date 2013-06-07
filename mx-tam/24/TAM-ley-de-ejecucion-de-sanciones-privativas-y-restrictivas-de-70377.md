@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-7037
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2012-04-19"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -36,6 +36,8 @@ Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas
 LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
 D E C R E T O No. LIX-1087
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. LXI866, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. 7 DE JUNIO DE 2013, TODA REFERENCIA QUE SE HAGA DE LA SUBSECRETARÍA DE REINSERCIÓN SOCIAL Y DE LA COORDINACIÓN GENERAL DE REINSERCIÓN SOCIAL Y EJECUCIÓN DE SANCIONES O DE SUS TITULARES, EN CUALQUIER DISPOSICIÓN JURÍDICA DEL ESTADO, SE ENTENDERÁ HECHA A LA SUBSECRETARÍA DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL Y A SU TITULAR, EL SUBSECRETARIO DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL.</small>
 
 MEDIANTE EL CUAL SE EXPIDE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE TAMAULIPAS.
 
@@ -55,9 +57,9 @@ I. El establecimiento de las bases para la coordinación entre autoridades judic
 
 II. La ejecución de programas y estrategias que impidan la desadaptación del indiciado, el procesado o el sentenciado;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-III. La readaptación y reinserción social del sentenciado o del ejecutoriado;
+III. La reinserción social del sentenciado o del ejecutoriado;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2011)</small>
 
@@ -67,11 +69,11 @@ IV. El control, administración, dirección y vigilancia de los centros para gar
 
 V. Regular la ejecución de las penas, así como establecer los requisitos y procedimientos para el otorgamiento de beneficios de libertad anticipada previstos en la presente ley.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 2.
 
-La aplicación de esta ley corresponde, en el ámbito de sus respectivas competencias, a los poderes Judicial y Ejecutivo del Estado, este último, a través de la Secretaría de Seguridad Pública en forma directa, o por conducto de la Coordinación General de Reintegración Social y Ejecución de Sanciones.
+La aplicación de esta ley corresponde, en el ámbito de sus respectivas competencias, a los poderes Judicial y Ejecutivo del Estado, este último, a través de la Secretaría de Seguridad Pública en forma directa, o por conducto de la Subsecretaría de Reinserción Social y Ejecución de Sanciones.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
@@ -85,7 +87,7 @@ II. Consejo: El Consejo Técnico Interdisciplinario;
 
 III. Defensor: Profesional del Derecho, de carácter público o privado, que ejerce la defensa técnica durante la ejecución de la sentencia o medida de seguridad;
 
-IV. Coordinación General: La Coordinación General de Reintegración Social y Ejecución de Sanciones;
+IV. (DEROGADA, P.O. 7 DE JUNIO DE 2013)
 
 V. Juez de Ejecución de Sanciones: El Juez encargado de vigilar la ejecución, modificación y duración de la pena;
 
@@ -93,7 +95,9 @@ VI. Juez de la Causa: El Juez que impone la pena;
 
 VII. Ley: La Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Tamaulipas;
 
-VIII. Patronato: El Patronato para la Readaptación y Reinserción Social;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VIII. Patronato: El Patronato de Reinserción Social y Apoyo a Liberados;
 
 IX. Reglamento: El Reglamento de los Centros de Ejecución de Sanciones del Estado de Tamaulipas;
 
@@ -101,35 +105,45 @@ X. Secretaría: La Secretaría de Seguridad Pública del Estado de Tamaulipas;
 
 XI. Secretario: El Secretario de Seguridad Pública del Estado de Tamaulipas;
 
-XII. Subsecretaría: La Subsecretaría de Reinserción Social; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-XIII. Subsecretario: El Subsecretario de Reinserción Social.
+XII. Subsecretaría: La Subsecretaría de Ejecución de Sanciones y Reinserción Social; y
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+XIII. Subsecretario: El Subsecretario de Ejecución de Sanciones y Reinserción Social.
 
 ###### ARTICULO 4.
 
 1. El Ejecutivo del Estado a través del Secretario podrá, sujetándose a lo que establece la ley correspondiente, celebrar convenios específicos de colaboración con la Federación, los Estados y Municipios, para la exacta aplicación y cumplimiento de esta ley.
 
-2. Asimismo, podrá celebrar los convenios de coordinación que fueren necesarios con los sectores público y privado para apoyar los procesos de readaptación y reinserción social.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+2. Asimismo, podrá celebrar los convenios de coordinación que fueren necesarios con los sectores público y privado para apoyar los procesos de reinserción social.
 
 ## TITULO SEGUNDO. DE LAS ATRIBUCIONES
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
 
-### CAPITULO PRIMERO. DE LA COORDINACION GENERAL
+### CAPITULO PRIMERO. DE LA SUBSECRETARIA
 
 ###### ARTICULO 5.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
-Son atribuciones de la Coordinación General, las siguientes:
+Son atribuciones de la Subsecretaría, las siguientes:
 
 I. Administrar el sistema penitenciario del Estado, y realizar los actos inherentes a la ejecución de sanciones, con base en las leyes y reglamentos vigentes en la materia;
 
-II. Proponer al Secretario la firma de convenios de colaboración con el Gobierno Federal, otros gobiernos estatales o los gobiernos municipales, así como con la iniciativa privada y organizaciones civiles que ayuden al establecimiento de sistemas eficaces y congruentes de atención, readaptación y reinserción social;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+II. Proponer al Secretario la firma de convenios de colaboración con el Gobierno Federal, gobiernos estatales y del Distrito Federal o los gobiernos municipales, así como con la iniciativa privada y organizaciones civiles que ayuden al establecimiento de sistemas eficaces y congruentes de atención y reinserción social;
 
 III. Proponer al Secretario las iniciativas de ley, de reformas a las leyes, o de reglamentos que correspondan al ámbito de su competencia;
 
-IV. Desarrollar tareas de investigación criminológica, con el propósito de contar con información que motive políticas y prácticas innovadoras de readaptación y reinserción social del interno;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+IV. Desarrollar tareas de investigación criminológica, con el propósito de contar con información que motive políticas y prácticas innovadoras de reinserción social del interno;
 
 V. Coordinar y supervisar los programas de ejecución de sanciones en los Centros;
 
@@ -145,9 +159,13 @@ X. Administrar y controlar el armamento, equipo antimotín, equipo de radiocomun
 
 XI. Coordinar y practicar periódicamente las revisiones al interior de los Centros, a fin de garantizar la disciplina y el orden y salvaguardar la integridad física de la población penitenciaria;
 
-XII. Organizar, supervisar y vigilar que los titulares y el personal adscrito a los Centros y de los Consejos se conduzcan con el debido y estricto cumplimiento a las disposiciones legales vigentes;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-XIII. Promover programas integrales de educación, trabajo, capacitación, desarrollo humano, mediación, actividades culturales, deportivas y de recreación, que propicien la readaptación social y la reinserción de los internos;
+XII. Organizar, supervisar y vigilar que los titulares y el personal adscrito a los Centros y de los Consejos, se conduzcan con el debido y estricto respeto a los derechos humanos y cumplimiento a las disposiciones legales vigentes;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+XIII. Promover programas integrales de educación, trabajo, capacitación para el mismo, salud, desarrollo humano, mediación y actividades culturales, deportivas y de recreación, que propicien la readaptación social y la reinserción de los internos;
 
 XIV. Coordinar y administrar los servicios de salud que sean proporcionados dentro de los Centros;
 
@@ -165,13 +183,15 @@ XVIII. (DEROGADA, P.O. 31 DE MAYO DE 2011)
 
 XIX. Coadyuvar con el Juez de Ejecución de Sanciones, para su resolución o revocación, en los beneficios de libertad anticipada, la amnistía y el acuerdo de extinción de la pena previstos en esta ley, así como en las peticiones en ese sentido, para su tramitación;
 
-XX. Organizar y coordinar las acciones de los patronatos o instituciones afines, creados para prestar asistencia social, moral o material a internos, preliberados y liberados de los Centros; así como concertar ante los organismos públicos y privados los recursos para la implementación y seguimiento de los programas de prevención y de readaptación y reinserción social en los Centros;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+XX. Organizar y coordinar las acciones de los patronatos o instituciones afines, creados para prestar asistencia social, moral o material a internos, preliberados y liberados de los Centros; así como concertar ante los organismos públicos y privados los recursos para la implementación y seguimiento de los programas de prevención y reinserción social en los Centros;
 
 XXI. Instruir los procedimientos administrativos que se requieran con motivo de actos u omisiones que constituyan violaciones a las disposiciones legales; asimismo, en coordinación con las instancias correspondientes, en su caso, proponer a su superior jerárquico la aplicación de las sanciones administrativas o de rescisión de la relación laboral con apego a la ley en la materia;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-XXII. Promover programas de capacitación y profesionalización del personal adscrito a la Coordinación General y a los Centros;
+XXII. Promover programas de capacitación y profesionalización del personal adscrito a la Subsecretaría y a los Centros;
 
 XXIII. Ejercer el presupuesto de egresos autorizado y vigilar su correcta aplicación;
 
@@ -183,15 +203,17 @@ XXVI. Ejecutar, controlar y dar seguimiento a los sentenciados que hayan obtenid
 
 XXVII. Vigilar y dar seguimiento a los sentenciados que se les haya concedido el beneficio de la condena condicional;
 
-XXVIII. Trasladar y solicitar la internación en una institución psiquiátrica del Sistema Estatal de Salud, de cualquier interno con incapacidad mental. En caso de insuficiencia en dicho sistema para el ingreso de esas personas, se solicitará a las instituciones psiquiátricas de otra entidad federativa o de la Federación, conforme a los convenios de colaboración elaborados por el Estado; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+XXVIII. Trasladar y solicitar la internación en una institución psiquiátrica del Sistema Estatal de Salud, de cualquier interno con discapacidad mental. En caso de insuficiencia en dicho Sistema para el ingreso de esas personas, se solicitará a las instituciones psiquiátricas de otra entidad federativa o de la Federación, conforme a los convenios de colaboración elaborados por el Estado; y
 
 XXIX. Las que le confieran las demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 6.
 
-El Reglamento Interior de la Secretaría determinará el personal que integrará la Coordinación General para el despacho de los asuntos de su competencia, con base en las posibilidades que permita el presupuesto de egresos.
+El Reglamento Interior de la Secretaría determinará el personal que integrará la Subsecretaría para el despacho de los asuntos de su competencia, con base en las posibilidades que permita el presupuesto de egresos.
 
 ### CAPITULO SEGUNDO. DE LOS CENTROS DE EJECUCION DE SANCIONES
 
@@ -199,9 +221,11 @@ El Reglamento Interior de la Secretaría determinará el personal que integrará
 
 Los Centros se destinarán al internamiento de indiciados, procesados, sentenciados y ejecutoriados y deberán contar con las secciones necesarias para su adecuada ubicación, clasificación y albergue, según se trate, tanto para hombres como para mujeres, quienes quedarán sujetos al régimen interno general establecido por el Reglamento y se contará además con un lugar para los casos que ameriten tratamiento especializado.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 8.
 
-Los Centros deberán contar con las instalaciones y espacios necesarios y suficientes para albergar a la población interna y propiciar su readaptación y reinserción social, en las que se consideren las disciplinas o especialidades necesarias, así como las instalaciones para las oficinas y requerimientos de áreas de gobierno, seguridad, atención a familiares y público visitante.
+Los Centros deberán contar con las instalaciones y espacios necesarios y suficientes para albergar a la población interna y propiciar su reinserción social, en las que se consideren las disciplinas o especialidades necesarias, así como las instalaciones para las oficinas y requerimientos de áreas de gobierno, seguridad, atención a familiares y público visitante.
 
 ###### ARTICULO 9.
 
@@ -215,23 +239,25 @@ Las mujeres internas podrán mantener consigo a sus hijos hasta que éstos cumpl
 
 Los enfermos mentales, infectocontagiosos, de alta peligrosidad o adictos a sustancias ilegales, serán atendidos por personal especializado y se procurará que su reclusión sea en secciones especiales habilitadas en el interior de los Centros.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 12.
 
-1. Los internos con capacidades diferentes serán recluidos en áreas que faciliten su estancia, atención y educación.
+1. Los internos con discapacidad serán recluidos en áreas que faciliten su estancia, atención y educación.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+2. La Subsecretaría podrá autorizar que sean trasladados para su internamiento a los establecimientos especiales con que cuenta la Federación, conforme a los convenios celebrados o que se celebren.
 
-2. La Coordinación General podrá autorizar que sean trasladados para su internamiento a los establecimientos especiales con que cuenta la Federación, conforme a los convenios celebrados o que se celebren.
+> <small>(REFORMADA SE DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
 
-## TITULO TERCERO. DEL REGIMEN INTERNO Y DEL PERSONAL DE SEGURIDAD Y CUSTODIA DE LOS CENTROS DE EJECUCION DE SANCIONES
+## TITULO TERCERO. DEL REGIMEN INTERNO Y DE LOS CUERPOS DE VIGILANCIA, CUSTODIA Y SEGURIDAD DE LOS CENTROS DE EJECUCION DE SANCIONES
 
 ### CAPITULO PRIMERO. DEL REGIMEN INTERNO
 
 ###### ARTICULO 13.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-1. Las disposiciones relativas a las atribuciones, organización y régimen interno de los Centros estarán contenidas en el reglamento respectivo que emanen de esta ley o, en su defecto, serán dictadas por el Secretario a través de la Coordinación General para ser acatadas por los Directores y demás personal de los Centros.
+1. Las disposiciones relativas a las atribuciones, organización y régimen interno de los Centros estarán contenidas en el reglamento respectivo que emane de esta ley o, en su defecto, serán dictadas por el Secretario, a través del Subsecretario, para ser acatadas por los Directores y demás personal de los Centros.
 
 2. Para los efectos previstos en el párrafo anterior, se estará a los lineamientos generales que se especifican en el presente Título.
 
@@ -297,9 +323,11 @@ II.- Los probables responsables, estrictamente para la rectificación de sus dat
 
 3. Los estudios de personalidad del sujeto se actualizarán permanentemente y se integrarán a la base de datos del Sistema Nacional de Información Penitenciaria.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 17.
 
-Los horarios generales de actividades de los internos en que se prevea el trabajo, educación, deporte, actividades artísticas y culturales, y otros, serán determinados por el Reglamento del Centro.
+Los horarios generales de actividades de los internos en que se prevea el trabajo, salud, educación, deporte, actividades artísticas y culturales, y otros, serán determinados por el Reglamento del Centro.
 
 ###### ARTICULO 18.
 
@@ -319,61 +347,63 @@ Los escritos de cualquier clase y las solicitudes de audiencias, incluso verbale
 
 Para el buen funcionamiento del Centro, todas las disposiciones de interés general para los internos, serán notificadas verbalmente al pase de lista y dadas a conocer por escrito en lugares visibles.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 22.
 
-A todo interno se le informará sin demora acerca del fallecimiento o enfermedad grave de algún familiar. En estos casos, el Director del Centro solicitará la autorización al Coordinador General o, en su caso, al Juez de la Causa para que ocurra al funeral o visiten al enfermo, cuando las circunstancias lo permitan. La custodia será siempre necesaria tanto para los procesados como para los sentenciados o ejecutoriados.
+A todo interno se le informará sin demora acerca del fallecimiento o enfermedad grave de algún familiar. En estos casos, el Director del Centro solicitará la autorización al Subsecretario o, en su caso, al Juez de la Causa, para que ocurra al funeral o visiten al enfermo, cuando las circunstancias lo permitan. La custodia será siempre necesaria tanto para los procesados como para los sentenciados o ejecutoriados.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 23.
 
-Cuando el interno padezca de una enfermedad para cuyo tratamiento y curación sea indispensable su externamiento, según dictamen médico, el Director del Centro solicitará la autorización de su excarcelación al Coordinador General o, en su caso, al Juez de la Causa, observando lo establecido en el reglamento. En estos casos, siempre se proveerá la custodia del externado con las medidas de seguridad pertinentes.
+Cuando el interno padezca de una enfermedad para cuyo tratamiento y curación sea indispensable su externamiento, según dictamen médico, el Director del Centro solicitará la autorización de su excarcelación al Subsecretario o, en su caso, al Juez de la Causa, observando lo establecido en el reglamento. En estos casos, siempre se proveerá la custodia del externado con las medidas de seguridad pertinentes.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 24.
 
-Salvo lo previsto en los artículos 22 y 23 de esta Ley, los Directores de los Centros no permitirán la excarcelación de los procesados o sentenciados, sino únicamente cuando lo ordene la autoridad a cuya disposición se encuentren.
+Salvo lo previsto en el artículo 23 de esta ley, los Directores de los Centros no permitirán la excarcelación de los procesados o sentenciados, sino únicamente cuando lo ordene la autoridad a cuya disposición se encuentren.
 
 ###### ARTICULO 25.
 
 El Centro procederá a la ejecución de las medidas de seguridad que considere convenientes y las decretadas por el juez en los procesos penales, en los términos de los Códigos Penal y de Procedimientos Penales para el Estado. Asimismo, podrá sustituir una medida de seguridad por otra más adecuada de acuerdo con la personalidad del sujeto, la eficacia de la nueva medida y la recomendación del Consejo.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 26.
 
-Tanto las personas como los vehículos que entren o salgan de algún Centro y los objetos que sean transportados por los mismos, quedarán sujetos a las medidas de revisión y registro que por razones de seguridad se establezcan por el Reglamento Interno o por la Coordinación General.
+Tanto las personas como los vehículos que entren o salgan de algún Centro y los objetos que sean transportados por los mismos, quedarán sujetos a las medidas de revisión y registro que por razones de seguridad se establezcan por el Reglamento Interno o por la Subsecretaría.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-###### ARTICULO 27.
+###### ARTÍCULO 27.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+1. Para efectuar la vigilancia a que se refieren los artículos 25 y 26 de esta ley, la Subsecretaría podrá disponer de los elementos de seguridad penitenciaria que considere pertinente, así como auxiliarse de los equipos tecnológicos y electrónicos necesarios, y de los cuerpos de seguridad estatal y municipal de que se disponga en el lugar en que radique el sentenciado.
 
-1.- Para efectuar la vigilancia a que se refieren los artículos 25 y 26 de esta ley, la Coordinación General podrá disponer de los elementos de seguridad penitenciaria que considere pertinente, así como auxiliarse de los equipos tecnológicos y electrónicos necesarios, y de los cuerpos de seguridad estatal y municipal de que se disponga en el lugar en que radique el sentenciado.
-
-2.- Los cuerpos de vigilancia, custodia y seguridad de los Centros de Ejecución de Sanciones, son considerados como integrantes de las instituciones de seguridad pública y estarán sujetos a los derechos y obligaciones establecidos en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
+2. Los cuerpos de vigilancia, custodia y seguridad de los Centros de Ejecución de Sanciones, son considerados como integrantes de las instituciones preventivas de seguridad pública estatal y estarán sujetos a los derechos y obligaciones establecidos en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
 
 ### CAPITULO SEGUNDO. DEL PERSONAL PENITENCIARIO
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 28.
 
-1.- Los Centros estarán a cargo del personal directivo, administrativo, técnico, jurídico y de seguridad penitenciaria que fuere necesario para el adecuado cumplimiento de sus funciones.
+1. Los Centros estarán a cargo del personal directivo, administrativo, técnico, jurídico y de los cuerpos de vigilancia, custodia y seguridad que fuere necesario para el adecuado cumplimiento de sus funciones.
 
-2.- Las personas que en los Centros desempeñen funciones estrictamente administrativas no tendrán el carácter de integrantes de las instituciones de seguridad pública, aun cuando orgánicamente presten sus servicios en las instituciones de seguridad pública. A dichos servidores se les considerará como personal de confianza, su designación y remoción será libre y no estarán sujetos al servicio civil de carrera. No obstante, en los casos que determinen las autoridades competentes, se sujetarán a las evaluaciones de control de confianza y certificación, establecidas en las leyes respectivas.
+2. Las personas que en los Centros desempeñen funciones estrictamente administrativas no tendrán el carácter de integrantes de las instituciones de seguridad pública, aun cuando orgánicamente presten sus servicios en las instituciones preventivas de seguridad pública estatal. A dichos servidores se les considerará como personal de confianza, su designación y remoción será libre y no estarán sujetos a la carrera policial. No obstante, en los casos que determinen las autoridades competentes, se sujetarán a las evaluaciones de control de confianza y certificación, establecidas en las leyes respectivas.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 29.
 
-Para la mejor aplicación del sistema penitenciario, la Coordinación General elaborará un plan objetivo de selección del personal de seguridad de los Centros, procurando sea idóneo y adecuado; su contratación se hará tomando en cuenta la vocación, aptitudes, preparación académica y antecedentes personales de los aspirantes. Asimismo, se cumplirá con las previsiones establecidas al efecto en la Ley de Seguridad Publica para el Estado de Tamaulipas y en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
+Para la mejor aplicación del sistema penitenciario, la Subsecretaría, en coordinación con el Instituto de Reclutamiento y Formación Policial de Tamaulipas, elaborará un plan objetivo de selección del personal de vigilancia, custodia y seguridad para los Centros, procurando sea idóneo y adecuado; su contratación se hará tomando en cuenta la vocación, aptitudes, preparación académica y antecedentes personales de los aspirantes. Asimismo, se cumplirá con las previsiones establecidas al efecto en la Ley de Seguridad Pública para el Estado de Tamaulipas y en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 30.
 
-La custodia de las mujeres estará atendida exclusivamente por personal femenino, pero en el exterior del Centro o sección respectiva podrá participar personal masculino de custodia.
+La custodia de las mujeres estará atendida exclusivamente por personal femenino, pero en el exterior del Centro o sección respectiva podrá participar personal masculino de vigilancia, custodia y seguridad.
 
 ###### ARTICULO 31.
 
@@ -387,25 +417,31 @@ II. Ser licenciado en Derecho o ciencias sociales afines, con título legalmente
 
 III. Contar con una edad mínima de 28 años el día de su nombramiento;
 
-IV. Tener experiencia de por lo menos un año en la materia de readaptación social; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+IV. Tener experiencia de por lo menos un año en la materia de reinserción social; y
 
 V. No haber sido condenado por sentencia ejecutoriada como responsable de delito doloso, ni inhabilitado por responsabilidad alguna.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 32.
 
-El Director del Centro tendrá a su cargo el establecimiento. Al efecto, ajustará su actuación a los términos de la ley y del reglamento y cuidará primordialmente la efectiva aplicación del sistema de readaptación y reinserción social; la observancia del régimen interno; el funcionamiento y administración del Centro; la seguridad del establecimiento; y la ejecución de las medidas y órdenes que se acuerden por la Dirección General.
+El Director del Centro tendrá a su cargo el establecimiento. Al efecto, ajustará su actuación a los términos de la ley y del reglamento, y cuidará primordialmente la efectiva aplicación del sistema de readaptación y reinserción social; la observancia del régimen interno; el funcionamiento y administración del Centro; la seguridad del establecimiento; y la ejecución de las medidas y órdenes que se acuerden por la Subsecretaría.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 33.
 
-Los integrantes del personal de seguridad penitenciaria deberán estar registrados en el Registro Nacional de Personal de Seguridad Publica y quedarán sujetos a la obligación de asistir a los cursos de capacitación, formación y actualización sobre disciplinas penitenciarias, criminológicas y de relaciones humanas que establezca la Coordinación General y los que determinen conforme a la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
+Los integrantes del personal de vigilancia, custodia y seguridad deberán estar registrados en el Registro Nacional de Personal de Seguridad Pública, y quedarán sujetos al servicio profesional de carrera policial y al régimen disciplinario conforme a lo dispuesto en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas, la Ley de Seguridad Pública para el Estado de Tamaulipas y el Reglamento de Desarrollo Policial de las instituciones Preventivas de Seguridad Pública del Estado de Tamaulipas.
 
 ### CAPITULO TERCERO. DE LOS CONSEJOS TECNICOS INTERDISCIPLINARIOS
 
 ###### ARTICULO 34.
 
-1. Habrá un Consejo en cada Centro, que estará presidido por el Director y se integrará por los titulares de las áreas Médica, Psicológica, Criminológica, de Trabajo Social, Educativa, Laboral, Jurídica, de Seguridad y Custodia, así como por los encargados de las áreas de prisión sustitutiva, condena condicional y beneficios de libertad anticipada.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+1. Habrá un Consejo en cada Centro, que estará presidido por el Director y se integrará por los titulares de las áreas Médica, Psicológica, Criminológica, de Trabajo Social, Educativa, Laboral, Jurídica, Deportiva, de Seguridad y Custodia, así como por los encargados de las áreas de prisión sustitutiva, condena condicional y beneficios de libertad anticipada.
 
 2. Los integrantes del Consejo quienes designarán un secretario, el cual coordinará y documentará las sesiones.
 
@@ -415,9 +451,9 @@ Los integrantes del personal de seguridad penitenciaria deberán estar registrad
 
 2. A su vez, los Consejos podrán sugerir a las autoridades ejecutivas del Centro respectivo, las medidas de alcance general para la buena marcha del mismo.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-3. La Coordinación General podrá intervenir y supervisar a los Consejos cuando lo estime conveniente.
+3. La Subsecretaría podrá intervenir y supervisar a los Consejos cuando lo estime conveniente.
 
 ###### ARTICULO 36.
 
@@ -437,17 +473,19 @@ El proceso de reinserción social tendrá carácter progresivo y técnico y se b
 
 1. El Consejo elaborará el dictamen de la evaluación del interno para efectos de acceder a alguno de los beneficios previstos en esta ley.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-2. Previo requerimiento de la Coordinación General, remitirá copia certificada del acta de la sesión al Consejo donde se haya emitido el dictamen respectivo, citándose el número de fojas del libro de actas en que aparece la misma, anexándose copia de los estudios practicados por cada una de las áreas.
+2. Previo requerimiento de la Subsecretaría, remitirá copia certificada del acta de la sesión al Consejo donde se haya emitido el dictamen respectivo, citándose el número de fojas del libro de actas en que aparece la misma, anexándose copia de los estudios practicados por cada una de las áreas.
 
 ## TITULO CUARTO. DEL SISTEMA DE EJECUCION DE SANCIONES
 
 ### CAPITULO PRIMERO. CONSIDERACIONES GENERALES
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 40.
 
-La privación de la libertad no tiene por objeto infringir sufrimientos físicos, ni afectar la dignidad personal de los internos. El sistema de ejecución de sanciones que se aplique estará exento de toda violencia corporal o psicológica.
+La privación de la libertad no tiene por objeto infringir sufrimientos físicos, ni afectar la dignidad personal de los internos. El sistema de ejecución de sanciones que se aplique estará exento de toda violencia corporal o psicológica, debiendo respetar los derechos humanos del interno.
 
 ###### ARTICULO 41.
 
@@ -457,7 +495,9 @@ Las disposiciones contenidas en esta ley y en el reglamento de la misma, serán 
 
 Son prerrogativas de las personas restringidas o privadas de su libertad:
 
-I. Ser respetado en su dignidad, integridad física y mental, familia, domicilio y bienes, sin demérito del tratamiento de readaptación;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I. Ser respetado en su dignidad, integridad física y mental, familia, domicilio y bienes, sin demérito del tratamiento de reinserción;
 
 II. Ser estudiado en su personalidad por los integrantes del Consejo del Centro que corresponda para, en su caso, proporcionarle el cuidado, asistencia, clasificación y tratamiento;
 
@@ -477,9 +517,11 @@ VIII. Hacer constar el domicilio anterior a su detención en los actos relativos
 
 IX. Las demás que se establezcan en la ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 43.
 
-Podrán existir dormitorios colectivos, pero en ellos se cuidará seleccionar a sus ocupantes mediante el estudio de sus condiciones y circunstancias, para acreditar que son aptos para ser alojados en esa modalidad.
+En los módulos o secciones de los Centros, podrán existir dormitorios colectivos, pero en ellos se cuidará seleccionar a sus ocupantes, mediante el estudio que determine su perfil y el nivel de seguridad.
 
 ###### ARTICULO 44.
 
@@ -487,7 +529,9 @@ Los dormitorios serán higiénicos, con suficiente alumbrado y ventilación. Con
 
 ###### ARTICULO 45.
 
-1. La alimentación de los internos será suficiente, de buena calidad y debidamente balanceada.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+1. La alimentación de los internos será suficiente, de buena calidad y nutritiva.
 
 2. Este servicio podrá ser concesionado a particulares.
 
@@ -509,9 +553,9 @@ Para hacer más efectiva la aplicación de las normas contenidas en este título
 
 ###### ARTICULO 49.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-1. El sistema penitenciario se organizará sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la Ley.
+1. El sistema penitenciario se organizará sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir. Los ejes rectores del sistema penitenciario serán considerados para obtener los beneficios que para él prevé la Ley.
 
 2. El sistema se aplicará a los sentenciados y ejecutoriados y, en lo conducente, a los procesados, según lo determine el Consejo de cada Centro.
 
@@ -529,7 +573,9 @@ V. Reincorporación.
 
 ###### ARTICULO 50.
 
-1. El período de estudio y diagnóstico tiene por objeto conocer la personalidad del interno, su grado de habilidad para su readaptación y, en su caso, el debido tratamiento, así como para la consideración en su momento del juez de la causa. El estudio integral de la personalidad del interno se hará desde los puntos de vista médico, psicológico, social, pedagógico, ocupacional, psiquiátrico, criminológico y de seguridad.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+1. El período de estudio y diagnóstico tiene por objeto conocer la personalidad del interno, su grado de habilidad para su reinserción y, en su caso, el debido tratamiento, así como para la consideración, en su momento, del Juez de la Causa. El estudio integral de la personalidad del interno se hará desde los puntos de vista médico, psicológico, social, pedagógico, deportivo, ocupacional, psiquiátrico, criminológico y de seguridad.
 
 2. Para cumplir con el objeto señalado en el párrafo anterior, el período de estudio y diagnóstico se desarrollará en el pabellón o sección respectiva del Centro correspondiente y será realizado por el Consejo, que mantendrá trato directo y personal con el interno.
 
@@ -543,9 +589,11 @@ Concluida la fase de estudio, el Consejo procederá a emitir el diagnóstico. Es
 
 2. En la ubicación de cada interno se tomará en consideración la edad, el nivel sociocultural, el coeficiente intelectual, el tipo de delito desde el punto de vista criminológico, la educación y la peligrosidad, de tal suerte que en una misma celda y pabellón la población sea homogénea y entre los compañeros de celda exista compatibilidad desde el punto de vista del tratamiento.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 53.
 
-El tratamiento será con aportación de las diversas ciencias y disciplinas pertinentes para la readaptación y reinserción social del sujeto, y tendrá como finalidad modificar las tendencias a desarrollar conductas antisociales y delictivas, y facilitar la adquisición de conocimientos para su reinserción social.
+El tratamiento será con aportación de las diversas ciencias y disciplinas pertinentes para la reinserción social del sujeto, y tendrá como finalidad modificar las tendencias a desarrollar conductas antisociales y delictivas, y facilitar la adquisición de conocimientos para su reinserción social.
 
 ###### ARTICULO 54.
 
@@ -555,9 +603,9 @@ El tratamiento será con aportación de las diversas ciencias y disciplinas pert
 
 ###### ARTICULO 55.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-1. La opinión emitida por el Consejo con relación a cada interno se llevará por triplicado, remitiéndose un tanto a la Coordinación General, uno al Juez de Ejecución de Sanciones y conservándose otro en el Centro donde se encuentre el interno. Se le agregará una copia de las resoluciones que determinen la situación jurídica del mismo, pronunciadas por los tribunales y autoridades competentes que hayan conocido de su caso.
+1. La opinión emitida por el Consejo con relación a cada interno se llevará por triplicado, remitiéndose un tanto a la Subsecretaría, uno al Juez de Ejecución de Sanciones y conservándose otro en el Centro donde se encuentre el interno. Se le agregará una copia de las resoluciones que determinen la situación jurídica del mismo, pronunciadas por los tribunales y autoridades competentes que hayan conocido de su caso.
 
 2. La información sobre cada interno será con base en las siguientes secciones:
 
@@ -575,19 +623,23 @@ VI. Jurídica, que incluirá el expediente del interno desde su ingreso, auto de
 
 ### CAPITULO TERCERO. DEL TRATAMIENTO
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 56.
 
-El régimen básico del tratamiento institucional se fundará primordialmente en medidas de educación, trabajo, salud, deporte y capacitación para el mismo dentro del establecimiento. Este tipo de tratamiento podrá complementarse con disciplina, relaciones del exterior, actividades culturales, deportivas y recreativas que no impliquen externamiento, así como información y orientación especial relacionada con la justicia restaurativa.
+El régimen básico del tratamiento se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud, y el deporte, como medios para lograr la reinserción del sentenciado en la sociedad y procurar que no vuelva a delinquir. Este tipo de tratamiento podrá complementarse con disciplina, relaciones del exterior, actividades culturales, deportivas y recreativas que no impliquen externamiento, así como información y orientación especial relacionada con la justicia restaurativa.
 
-#### SECCION PRIMERA. DE LA EDUCACION
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
+
+#### SECCION PRIMERA. DE LA EDUCACION, LA SALUD Y EL DEPORTE
 
 ###### ARTICULO 57.
 
 1. Los procesados, sentenciados y ejecutoriados analfabetas o que no hubiesen concluido la enseñanza primaria terminarán su educación en la escuela del Centro. A los demás internos se les proporcionarán los medios necesarios para proseguir los estudios en los niveles de secundaria, medio superior y superior adecuados a su vocación, si así lo solicitaren y fuere posible pero, en todo caso, regularmente desarrollarán actividades culturales.
 
-2. De conformidad con lo anterior, toda persona que ingrese a un Centro será sometida, conforme al examen pedagógico que se le practique, al régimen educacional que corresponda, sea de alfabetización o de educación primaria, siendo éstos obligatorios.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+2. De conformidad con lo anterior, toda persona que ingrese a un Centro será integrada, conforme al examen pedagógico que se le practique, al régimen educacional que corresponda, sea de alfabetización o de educación primaria, secundaria y media superior siendo éstos obligatorios.
 
 ###### ARTICULO 58.
 
@@ -603,11 +655,41 @@ Los certificados de estudios que se expidan no harán mención de que fueron rea
 
 Con autorización del Director del Centro, los profesores deberán organizar conferencias, eventos literarios, representaciones teatrales, funciones de cine, conciertos y eventos deportivos; asimismo deberán organizar y administrar la biblioteca del Centro.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+ARTICULO 60 BIS.
+
+1. El interno tiene derecho a acceder a los servicios de salud. En cada uno de los Centros se establecerá un servicio médico, que proporcionará la atención médica en el primer nivel y medicina preventiva, el cual procurará la preservación de la salud física y mental de los internos.
+
+2. El servicio médico funcionará de forma permanente, y se organizará de tal forma que se preste con dignidad, eficiencia, calidad y libre de toda discriminación, con irrestricto respeto a los derechos fundamentales del interno.
+
+3. Dicho servicio detectará y diagnosticará enfermedades o signos patológicos físicos que se presenten en la población interna y proporcionará el tratamiento adecuado, supervisando su evolución, conforme a las capacidades propias de cada Centro; del mismo modo emitirá los dictámenes que le sean solicitados por las autoridades judiciales o administrativas.
+
+4. Este servicio coordinará las acciones de los programas del sector salud; diseñará y supervisará los programas nutricionales; de las campañas permanentes de prevención de enfermedades y planificación familiar; de prevención, atención y tratamiento de adicciones; las medidas de higiene a observarse en las instalaciones del Centro, y evaluará las aptitudes de los internos para la realización de actividades laborales y deportivas, entre otras.
+
+5. Si algún interno presenta signos de trastorno mental, en cualquier etapa del internamiento, será referido al área de psicología para su valoración y tratamiento; si de la valoración que realice dicha área se establece el diagnóstico de un trastorno o discapacidad mental, se emitirá el dictamen correspondiente, que se hará del conocimiento de la autoridad judicial competente para que resuelva lo conducente.
+
+6. Para garantizar el derecho a la salud de los internos enfermos, la Subsecretaría promoverá la celebración de convenios con instituciones públicas del sector salud, con la finalidad de que en los centros hospitalarios que dependan de él, se proporcione el segundo y tercer nivel de atención a los internos que lo requieran, a fin de evitar complicaciones y sufrimientos en los enfermos y el restablecimiento de la salud.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+ARTICULO 60 TER.
+
+1. La práctica de actividades deportivas tiene como objeto fomentar la solidaridad, el trabajo en equipo, la introyección de normas y valores, reglas, la disciplina, la generación de hábitos y, primordialmente, el cuidado preventivo de la salud en los internos.
+
+2. Tomando en cuenta las habilidades y aptitudes físicas y mentales de los internos, se fomentarán e implementarán programas y eventos deportivos con la finalidad de garantizar la participación individual, grupal y colectiva de los internos, acorde a la infraestructura y los horarios establecidos en el Centro.
+
+3. Para garantizar la práctica del deporte, la Subsecretaría promoverá la firma de convenios con autoridades del deporte, que incluyan programas, eventos, recursos humanos y materiales necesarios para su implementación; también se podrá contar con la participación de organizaciones y asociaciones debidamente registradas y acreditadas en la materia, previo acuerdo y autorización de la Subsecretaría.
+
 #### SECCION SEGUNDA. DEL TRABAJO Y CAPACITACION
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 61.
 
-El trabajo será un medio de readaptación para todos los internos, según su aptitud física y mental.
+1. El trabajo será un medio de reinserción para todos los internos, según su aptitud física y mental.
+
+2. La capacitación para el trabajo es una actividad formativa que utiliza un procedimiento planeado, sistemático y organizado, mediante el cual los internos, habrán de adquirir los conocimientos y habilidades, técnicas suficientes y necesarias para que realicen actividades productivas durante su reclusión, y que al recuperar su libertad tenga la posibilidad de desarrollar las habilidades que haya adquirido.
 
 ###### ARTICULO 62.
 
@@ -615,15 +697,17 @@ El trabajo será un medio de readaptación para todos los internos, según su ap
 
 2. A todos los internos se les estimulará en el trabajo, proporcionándoles en lo posible los medios necesarios para la realización del mismo. En caso de dictarse sentencia condenatoria, el tiempo que hayan trabajado se les tomará en consideración para el efecto de la remisión parcial de la pena.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 63.
 
-El trabajo de los internos será organizado y dirigido por el Centro y será supervisado por la Coordinación General, para el efecto del exacto cumplimiento de las normas previstas en este Capítulo y las reglamentarias correspondientes.
+El trabajo de los internos será organizado y dirigido por el Centro y será supervisado por la Subsecretaría, para el efecto del exacto cumplimiento de las normas previstas en este Capítulo y las reglamentarias correspondientes.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 64.
 
-El Centro cuidará que el monto de la remuneración del interno sea justo y proporcional al trabajo que desempeñe.
+El trabajo de los internos generado por la iniciativa privada en industria o talleres, debe ser justo y compensado de acuerdo al tabulador del salario mínimo vigente en la zona geográfica de la ubicación del Centro y proporcional al mismo.
 
 ###### ARTICULO 65.
 
@@ -633,21 +717,37 @@ En los Centros se adoptarán todas las medidas de higiene y seguridad para prote
 
 De acuerdo con sus aptitudes, el interno podrá incursionar, en las diversas ramas de trabajo que existan en el Centro, para obtener una capacitación más amplia y una mayor posibilidad de aceptación en el exterior.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+ARTICULO 66 BIS.
+
+La Subsecretaría Promoverá la instalación de industria penitenciaria o talleres en los Centros, basada en la disponibilidad de espacios, previo estudio de las características de la economía y del mercado, con vistas a la sustentabilidad, y para ello fomentará la participación del sector privado.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+ARTICULO 66 TER.
+
+1. En la capacitación para el trabajo se instruirá a los internos en el conocimiento de un arte u oficio a quienes carecieren de él, se les proporcionará capacitación y nuevas áreas de interés y se fortalecerán las habilidades ya adquiridas, atendiendo a su vocación y aptitud.
+
+2. Los programas de capacitación deben ser desarrollados e impartidos por instituciones públicas, privadas u organizaciones civiles debidamente acreditadas, a efecto de que estén en la posibilidad de obtener una certificación oficial.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+ARTICULO 66 QUÁTER.
+
+Las bases para la capacitación deberán ser:
+
+I. El adiestramiento y los conocimientos del propio oficio o actividad;
+
+II. La vocación del interno por lo que realiza o pretende realizar;
+
+III. El cuidado y protección al medio ambiente; y
+
+IV. La metodología basada en la participación, repetición, pertinencia, transferencia y retroalimentación.
+
 ###### ARTICULO 67.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2011)</small>
-
-1. Los ingresos de los internos en las fuentes de trabajo originadas por la industria penitenciaria promovida por la Coordinación General, se distribuirán en la forma siguiente:
-
-I. 60% para el sostenimiento de sus dependientes económicos;
-
-II. 30% para la constitución de su fondo de ahorros de libertad; y
-
-III. 10% para sus gastos menores.
-
-2. Si los dependientes del interno no requieren de los ingresos previstos en la fracción I del párrafo anterior, los mismos se incorporarán al fondo de ahorros del interno.
-
-3. En los casos de trabajo que no sea promovido por el Centro, se alentará que los ingresos del interno se distribuyan en los términos señalados por el párrafo 1 de este artículo.
+(DEROGADO, P.O. 7 DE JUNIO DE 2013)
 
 ### CAPITULO CUARTO. DE LAS RELACIONES CON EL EXTERIOR
 
@@ -681,21 +781,21 @@ Las internas e internos podrán recibir la visita familiar y de otras personas c
 
 ### CAPITULO PRIMERO. REGLAS DE OPERACION DE LAS PENAS SUSTITUTIVAS DE PRISION
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 73.
 
-La ejecución de las sanciones que entrañen una pena sustitutiva de prisión estará a cargo de la Coordinación General, a través de los Centros.
+La ejecución de las sanciones que entrañen una pena sustitutiva de prisión estará a cargo de la Subsecretaría, a través de los Centros.
 
 ###### ARTICULO 74.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-1. La Coordinación General designará los lugares donde se aplicará la ejecución de penas sustitutivas de prisión y proporcionará a los sentenciados beneficiados con esta modalidad y a los responsables de los diferentes Centros o establecimientos donde se cumpla con las sanciones y medidas impuestas, los formatos para rendir los informes y constancias correspondientes.
+1. La Subsecretaría designará los lugares donde se aplicará la ejecución de penas sustitutivas de prisión y proporcionará a los sentenciados beneficiados con esta modalidad y a los responsables de los diferentes Centros o establecimientos donde se cumpla con las sanciones y medidas impuestas, los formatos para rendir los informes y constancias correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
-2. La Coordinación General, instruirá al sentenciado y al responsable de la ejecución de la sanción la forma en que deberá cumplirse la misma, considerándose lo siguiente:
+2. La Subsecretaría instruirá al sentenciado y al responsable de la ejecución de la sanción y la forma en que deberá cumplirse la misma, considerándose lo siguiente:
 
 I. El tipo de actividad que se le encomienda;
 
@@ -733,9 +833,9 @@ IV. Tratándose de servidores públicos que bajo sus órdenes se apliquen o se d
 
 1. El expediente personal de los sentenciados a penas no privativas de la libertad se mantendrá en forma confidencial e inaccesible a terceros, excepto para las víctimas u ofendidos, quienes pueden contribuir a vigilar que la ley se cumpla.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-2. Toda persona podrá acudir ante la Coordinación General o ante el Ministerio Público, para denunciar cualquier incumplimiento o forma de simulación que favorezca la impunidad del sentenciado, así como las desviaciones respecto de la correcta ejecución de las penas sustitutivas de prisión.
+2. Toda persona podrá acudir ante la Subsecretaría o ante el Ministerio Público, para denunciar cualquier incumplimiento o forma de simulación que favorezca la impunidad del sentenciado, así como las desviaciones respecto de la correcta ejecución de las penas sustitutivas de prisión.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
@@ -751,9 +851,9 @@ IV. Tratándose de servidores públicos que bajo sus órdenes se apliquen o se d
 
 2. Toda cuestión que el Ministerio Público desee hacer valer con relación a la ejecución de las penas sustitutivas de prisión, deberá dirigirla al Centro, pero las modificaciones o revocación de las mismas, en su caso, se ventilarán en el incidente respectivo ante el Juez de Ejecución de Sanciones.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-3. El Ministerio Público podrá solicitar directamente a la Coordinación General o a los Centros, la información necesaria sobre el cumplimiento de las resoluciones de penas no privativas de la libertad y, en su caso, promover lo conducente ante el Juez de Ejecución de Sanciones por medio de incidente, sin que quede facultado para citar o hacer comparecer al sentenciado, ni desahogar ante sí las pruebas pertinentes.
+3. El Ministerio Público podrá solicitar directamente a la Subsecretaría o a los Centros, la información necesaria sobre el cumplimiento de las resoluciones de penas no privativas de la libertad y, en su caso, promover lo conducente ante el Juez de Ejecución de Sanciones por medio de incidente, sin que quede facultado para citar o hacer comparecer al sentenciado, ni desahogar ante sí las pruebas pertinentes.
 
 4. En caso de haberse revocado la pena sustitutiva de prisión, se tomará en cuenta la pena cumplida para extinguir parcialmente la sanción originalmente impuesta. De esta forma, la fracción de la pena reducida podrá considerarse para los efectos de la libertad preparatoria y de la preliberación, mas no podrá contarse el tiempo de trabajo en favor de la comunidad para los efectos de remisión parcial de la pena.
 
@@ -769,15 +869,15 @@ III. El Consejero Penitenciario respectivo deberá acudir cuando menos una vez a
 
 ###### ARTICULO 79.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-1. En el caso de la pena de prisión intermitente, la Coordinación General o el Consejo serán los responsables de establecer los programas a los que aquél quedará sujeto durante los períodos de internamiento en el lugar que se tenga establecido, a partir de los horarios y disposiciones decretados por la autoridad judicial.
+1. En el caso de la pena de prisión intermitente, la Subsecretaría o el Consejo serán los responsables de establecer los programas a los que aquél quedará sujeto durante los períodos de internamiento en el lugar que se tenga establecido, a partir de los horarios y disposiciones decretados por la autoridad judicial.
 
 2. Las penas de prisión intermitente se podrán ejecutar en los Centros, en secciones especiales separadas de los procesados, sentenciados y ejecutoriados a pena de prisión y, en el caso de las mujeres, éstas se encontrarán separadas de los hombres.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-3. Para el cumplimiento de estos programas, la Coordinación General celebrará los convenios que fueren necesarios con instituciones públicas y del sector social, así como con grupos u organizaciones privadas con fines culturales, educativos o de desarrollo social. En el desarrollo de estos programas, a través de los Centros, la Coordinación General promoverá la participación de voluntarios debidamente seleccionados, a quienes se les proporcionará la capacitación necesaria.
+3. Para el cumplimiento de estos programas, la Subsecretaría celebrará los convenios que fueren necesarios con instituciones públicas y del sector social, así como con grupos u organizaciones privadas con fines culturales, educativos o de desarrollo social. En el desarrollo de estos programas, a través de los Centros, la Coordinación General promoverá la participación de voluntarios debidamente seleccionados, a quienes se les proporcionará la capacitación necesaria.
 
 ###### ARTICULO 80.
 
@@ -793,9 +893,9 @@ IV. Que los integrantes del Consejo elaboren los informes y constancias del desa
 
 ###### ARTICULO 81.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
-Si la autoridad judicial no hubiere fijado los horarios de la prisión intermitente, la Coordinación General resolverá lo conducente, tomando en cuenta lo siguiente:
+Si la autoridad judicial no hubiere fijado los horarios de la prisión intermitente, la Subsecretaría resolverá lo conducente, tomando en cuenta lo siguiente:
 
 I. En caso de excarcelación de lunes a viernes y reclusión los días sábado y domingo, el reingreso será a las ocho horas del sábado y la salida a las ocho horas del lunes siguiente;
 
@@ -877,11 +977,11 @@ Las autoridades deberán rendir informe inmediato al Centro, cuando el sentencia
 
 ### CAPITULO SEGUNDO. REGLAS DE OPERACION DE LA CONDENA CONDICIONAL
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 88.
 
-Los sentenciados que obtengan su libertad, de conformidad con lo dispuesto en el artículo 112 del Código Penal para el Estado de Tamaulipas, quedarán sujetos a la vigilancia de la Coordinación General durante el término de la sanción impuesta en la sentencia y computado a partir de la fecha en que ésta cause ejecutoria.
+Los sentenciados que obtengan su libertad, de conformidad con lo dispuesto en el artículo 112 del Código Penal para el Estado de Tamaulipas, quedarán sujetos a la vigilancia de la Subsecretaría durante el término de la sanción impuesta en la sentencia y computado a partir de la fecha en que ésta cause ejecutoria.
 
 ## TITULO SEXTO. DE LOS BENEFICIOS DE LIBERTAD ANTICIPADA
 
@@ -909,9 +1009,11 @@ IV. Beneficios de consideración especial.
 
 2. Al cómputo para la aplicación del tratamiento de preliberación podrá sumarse el de la remisión parcial de la pena, cuando ésta haya sido concedida.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 91.
 
-Para determinar la transición del interno al tratamiento de preliberación, se atenderá a la evolución de la personalidad y al grado de readaptabilidad que el interno haya alcanzado, según el criterio del Consejo.
+Para determinar la transición del interno al tratamiento de preliberación, se atenderá a la evolución de la personalidad y al grado de reinserción que el interno haya alcanzado, según el criterio del Consejo.
 
 ###### ARTICULO 92.
 
@@ -939,7 +1041,9 @@ IV. En el caso de las modalidades previstas en las fracciones III y IV del artí
 
 ###### ARTICULO 94.
 
-1. El Director del Centro en el que esté cumpliendo su sentencia el interno sujeto al beneficio, será responsable de la vigilancia y supervisión de las medidas de tratamiento de preliberación, para que éstas sean cumplidas en los términos de las autorizaciones correspondientes y deberá informar periódicamente a la Dirección General de los resultados de las mismas.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+1. El Director del Centro en el que esté cumpliendo su sentencia el interno sujeto al beneficio, será responsable de la vigilancia y supervisión de las medidas de tratamiento de preliberación, para que éstas sean cumplidas en los términos de las autorizaciones correspondientes y deberá informar periódicamente a la Subsecretaría de los resultados de las mismas.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
@@ -957,7 +1061,9 @@ Los internos que gocen del tratamiento de preliberación, podrán ser trasladado
 
 ###### ARTICULO 96.
 
-1. Por cada dos días de trabajo hecho en beneficio del Centro o en beneficio personal, se hará remisión de uno de prisión, siempre que el interno observe buena conducta, participe regularmente en las actividades educativas que se organicen en el Centro y revele con base en otros elementos, una efectiva readaptación social. Esta última será, en todo caso, el factor determinante para la concesión o negativa de la remisión parcial de la pena, la cual no podrá fundarse exclusivamente en los días de trabajo, la participación en actividades educativas y el buen comportamiento del sentenciado.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+1. Por cada dos días de trabajo hecho en beneficio del Centro o en beneficio personal, se hará remisión de uno de prisión, siempre que el interno observe buena conducta, participe regularmente en las actividades educativas que se organicen en el Centro y revele, con base en otros elementos, una efectiva reinserción social. Esta última será, en todo caso, el factor determinante para la concesión o negativa de la remisión parcial de la pena, la cual no podrá fundarse exclusivamente en los días de trabajo, la participación en actividades educativas y el buen comportamiento del sentenciado.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
@@ -997,7 +1103,9 @@ La remisión parcial de la pena se entiende sin perjuicio del derecho a la liber
 
 I. Que durante el cumplimiento de su sentencia haya observado buena conducta, sin limitarse a la simple observancia de los reglamentos, sino también a su mejoramiento cultural y superación en el trabajo;
 
-II. Que del examen de su personalidad resulte socialmente readaptado y en condiciones de no volver a delinquir; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+II. Que del examen de su personalidad resulte socialmente rehabilitado y en condiciones de no volver a delinquir; y
 
 III. Que haya reparado el daño causado a que fue sentenciado.
 
@@ -1005,9 +1113,9 @@ III. Que haya reparado el daño causado a que fue sentenciado.
 
 3. Cubiertos los requisitos señalados en el párrafo 1 de este artículo, se podrá conceder la libertad preparatoria, sujeta a las siguientes condiciones:
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-I. Residir en lugar determinado, no pudiendo cambiar de domicilio sin autorización de la Coordinación General; la designación del lugar se hará considerando la circunstancia de que el beneficiado pueda obtener trabajo en la localidad que se le fije, además del hecho de que su permanencia en ella no sea un obstáculo para su enmienda;
+I. Residir en lugar determinado, no pudiendo cambiar de domicilio sin autorización de la Subsecretaría; la designación del lugar se hará considerando la circunstancia de que el beneficiado pueda obtener trabajo en la localidad que se le fije, además del hecho de que su permanencia en ella no sea un obstáculo para su enmienda;
 
 II. Desempeñar, en el plazo que la resolución determine, un oficio, arte, industria o profesión lícitos, o continuar su preparación para tal fin;
 
@@ -1057,11 +1165,11 @@ Una vez revocado el beneficio, el ejecutoriado habrá de cumplir el resto de la 
 
 2. La instrucción de los procesos, por la comisión de los delitos a que se refieren las fracciones I y II del artículo 101 de esta ley, interrumpen los términos de la prescripción de la sanción.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 107.
 
-Los beneficiados con la libertad preparatoria quedarán sujetos a la vigilancia de la Coordinación General, por el tiempo que les faltare para extinguir su sanción corporal.
+Los beneficiados con la libertad preparatoria quedarán sujetos a la vigilancia de la Subsecretaría, por el tiempo que les faltare para extinguir su sanción corporal.
 
 ###### ARTICULO 108.
 
@@ -1087,7 +1195,9 @@ I. Enfermo en fase terminal o que presente grave e irreparable deterioro en su s
 
 II. Enfermo infectocontagioso, que ponga en riesgo al resto de la población penitenciaria, con dictamen emitido por el médico del Centro y ratificado por especialista del Sistema Estatal de Salud designado por la Secretaría de Salud, de acuerdo a la enfermedad presentada, así como el dictamen positivo unánime del Consejo al otorgamiento; o
 
-III. Interno mayor de 70 años, siempre y cuando el delito que esté compurgando no sea violación o equiparable a violación en agravio de menores incapaces o secuestro.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+III. Interno mayor de 70 años, siempre y cuando el delito que esté compurgando no sea violación o equiparable a violación en agravio de menores, incapaces o secuestro.
 
 ###### ARTICULO 110.
 
@@ -1105,19 +1215,19 @@ III. Interno mayor de 70 años, siempre y cuando el delito que esté compurgando
 
 ### CAPITULO SEXTO. DE LOS INFORMES Y SUS CONSECUENCIAS
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 112.
 
-1. El Director del Centro será responsable de la vigilancia y supervisión de las medidas de tratamiento de preliberación, de los internos que hubieren obtenido ese beneficio. Dichas medidas deberán cumplirse en los términos de las autorizaciones correspondientes, y el Director del Centro informará periódicamente a la Coordinación General y al Juez de Ejecución de Sanciones de los resultados de las mismas.
+1. El Director del Centro será responsable de la vigilancia y supervisión de las medidas de tratamiento de preliberación, de los internos que hubieren obtenido ese beneficio. Dichas medidas deberán cumplirse en los términos de las autorizaciones correspondientes, y el Director del Centro informará periódicamente a la Subsecretaría y al Juez de Ejecución de Sanciones de los resultados de las mismas.
 
-2. En caso de incumplimiento por parte del preliberado de los términos de una medida de que disfrute, el Director del Centro deberá comunicarlo de inmediato a la Coordinación General y al Juez de Ejecución de Sanciones. Si el incumplimiento fue injustificado, no podrá concederse la reanudación de la medida sino, al menos, dos meses después de haberse verificado el incumplimiento, siempre y cuando lo recomiende el Consejo y se reautorice la medida por el Juez de Ejecución de Sanciones. Si el incumplimiento fue justificado, el Juez de Ejecución de Sanciones podrá levantar la suspensión en cualquier tiempo.
+2. En caso de incumplimiento por parte del preliberado de los términos de una medida de que disfrute, el Director del Centro deberá comunicarlo de inmediato a la Subsecretaría y al Juez de Ejecución de Sanciones. Si el incumplimiento fue injustificado, no podrá concederse la reanudación de la medida sino, al menos, dos meses después de haberse verificado el incumplimiento, siempre y cuando lo recomiende el Consejo y se reautorice la medida por el Juez de Ejecución de Sanciones. Si el incumplimiento fue justificado, el Juez de Ejecución de Sanciones podrá levantar la suspensión en cualquier tiempo.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 113.
 
-Quienes disfruten del beneficio de libertad anticipada y no ocurran al Centro respectivo dentro de las 72 horas siguientes, contadas a partir del momento en que deban presentarse según los términos de la medida otorgada, se les tendrá por evadidos y el Director del Centro deberá comunicarlo de inmediato a la Coordinación General y al Juez de Ejecución de Sanciones para los efectos legales correspondientes.
+Quienes disfruten del beneficio de libertad anticipada y no ocurran al Centro respectivo dentro de las 72 horas siguientes, contadas a partir del momento en que deban presentarse según los términos de la medida otorgada, se les tendrá por evadidos y el Director del Centro deberá comunicarlo de inmediato a la Subsecretaría y al Juez de Ejecución de Sanciones, para los efectos legales correspondientes.
 
 ###### ARTICULO 114.
 
@@ -1165,13 +1275,17 @@ III. La aptitud para el trabajo; y
 
 IV. El certificado del grado educacional adquirido.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 120.
 
-Cuando un interno cumpla su sentencia, la Dirección del Centro lo comunicará de inmediato al Patronato de Liberados. Este se abocará a la intervención prevista en su objeto.
+Cuando un interno cumpla su sentencia, la Dirección del Centro lo comunicará de inmediato al Patronato para la Reinserción Social y Apoyo a Liberados. Este se abocará a la intervención prevista en su objeto.
 
 ## TITULO NOVENO. DE LA REINTEGRACION
 
-### CAPITULO UNICO. DE LA REINTEGRACION SOCIAL Y DE LOS PATRONATOS DE ASISTENCIA POST LIBERACIONAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
+
+### CAPITULO UNICO. DE LA REINSERCION SOCIAL Y DE LOS PATRONATOS PARA LA REINSERCION SOCIAL Y APOYO A LIBERADOS
 
 ###### ARTICULO 121.
 
@@ -1187,15 +1301,17 @@ Cuando un interno cumpla su sentencia, la Dirección del Centro lo comunicará d
 
 3. El Presidente y el Secretario Ejecutivo serán nombrados por mayoría de votos del pleno de los vocales que conformará el Patronato.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 123.
 
-El Presidente o el Secretario Ejecutivo, en su caso, serán los representantes del Patronato ante la Coordinación General y el Centro, para la coordinación de los programas y acciones.
+El Presidente o el Secretario Ejecutivo, en su caso, serán los representantes del Patronato ante la Subsecretaría y el Centro, para la coordinación de los programas y acciones.
 
 ###### ARTICULO 124.
 
-1. Los Patronatos brindarán asistencia de carácter laboral, educativa, jurídica, médica, social, moral y eventualmente económica, entre otros, pero siempre orientados hacia la readaptación y reinserción social.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+1. Los Patronatos brindarán asistencia de carácter laboral, educativa, jurídica, médica, social, moral y eventualmente económica, entre otros, pero siempre orientados hacia la reinserción social.
 
 2. Los patronatos podrán brindar asistencia tanto a los internos procesados y sentenciados, como a preliberados y liberados, de ambos fueros.
 
@@ -1203,11 +1319,11 @@ El Presidente o el Secretario Ejecutivo, en su caso, serán los representantes d
 
 En coordinación con el Centro, el Patronato auxiliará a las víctimas y ofendidos que se encuentren en difícil situación económica y hubieran sufrido daño material o moral a consecuencia de los hechos antisociales, sin perjuicio de lo previsto acerca de la reparación del daño.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 126.
 
-Los fondos recaudados deberán ser administrados por el Patronato en coordinación con el Centro respectivo y su aplicación será autorizada por la Coordinación General para programas y acciones específicos.
+Los fondos recaudados deberán ser administrados por los Patronatos en coordinación con el Centro respectivo y su aplicación será autorizada por la Subsecretaría para programas y acciones específicos.
 
 ## TRANSITORIOS
 
@@ -1266,6 +1382,20 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a partir de su expedición, por tratarse de normas internas del Congreso del Estado, debiéndose publicar en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Toda referencia que se haga de la Subsecretaría de Reinserción Social y de la Coordinación General de Reinserción Social y Ejecución de Sanciones o de sus titulares, en cualquier disposición jurídica del Estado, se entenderá hecha a la Subsecretaría de Ejecución de Sanciones y Reinserción Social y a su titular, el Subsecretario de Ejecución de Sanciones y Reinserción Social.
 
 ###### ARTÍCULO TERCERO.
 
