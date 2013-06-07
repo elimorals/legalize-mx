@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-pueblos-y-comunidades-80652"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-08"
-last_updated: "2011-04-08"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY PARA LA PROTECCION DE LOS PUEBLOS Y COMUNIDADES INDIGENAS Y AFROMEXICANAS EN EL ESTADO DE GUANAJUATO -- ANTES LEY PARA LA PROTECCION DE LOS PUEBLOS Y COMUNIDADES INDIGENAS EN EL ESTADO DE GUANAJUATO --
 
-LEY PARA LA PROTECCION DE LOS PUEBLOS Y COMUNIDADES INDIGENAS EN EL ESTADO DE GUANAJUATO
+LEY PARA LA PROTECCIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS EN EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de abril de 2011.
 
@@ -587,7 +587,9 @@ IV. El titular de la Secretaría de Salud;
 
 V. El titular de la Secretaría de Educación;
 
-VI. El titular de la Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VI. El titular de la Secretaría de Desarrollo Agroalimentario y Rural;
 
 VII. El titular de la Procuraduría General de Justicia del Estado;
 
@@ -708,3 +710,11 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
