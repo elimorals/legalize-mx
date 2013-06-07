@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-archivos-generales-del-estado-y-los-municipios-de-56058"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-15"
-last_updated: "2007-06-15"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ARCHIVOS GENERALES DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de junio de 2007.
 
@@ -107,7 +107,9 @@ En la aplicación e interpretación de la presente Ley, se observarán los sigui
 
 I. Conservación: Consiste en realizar las acciones directas e indirectas encaminadas a que un documento mantenga sus propiedades tangibles e intangibles;
 
-II. Reserva y Confidencialidad: Consiste en asegurar que la información documental contenida en las áreas de archivo de trámite y de concentración, clasificada en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, sea protegida de manera integral;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+II. Reserva y confidencialidad: Consiste en asegurar que la información documental contenida en las áreas de archivo de trámite y de concentración, clasificada en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, sea protegida de manera integral;
 
 III. Continuidad: Consiste en establecer la secuencia de todas las operaciones administrativas y técnicas que se relacionen con la administración de documentos;
 
@@ -237,9 +239,11 @@ Los sujetos obligados de conformidad con su capacidad presupuestaria, realizará
 
 ### CAPÍTULO VI. De la consulta de los archivos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 21.
 
-Sin perjuicio de lo establecido en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, el servicio de consulta de documentos que obren en los archivos generales de los sujetos obligados, se realizará de la siguiente manera:
+Sin perjuicio de lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, el servicio de consulta de documentos que obren en los archivos generales de los sujetos obligados, se realizará de la siguiente manera:
 
 I. Ante las áreas de archivo de trámite y de concentración, a cualquier persona o a su representante legal que acredite tener interés legítimo y directo, conforme a la normativa que así se lo reconozca; y
 
@@ -392,3 +396,11 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
