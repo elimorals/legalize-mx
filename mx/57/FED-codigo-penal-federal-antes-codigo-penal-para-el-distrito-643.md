@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2013-05-03"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -5501,7 +5501,9 @@ Encubrimiento y operaciones con recursos de procedencia ilícita
 
 ### CAPITULO QUINTO. Disposiciones comunes a los delitos contra el ambiente
 
-> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 400.
 
@@ -5865,25 +5867,53 @@ Se aplicará una pena adicional hasta de dos años de prisión y hasta mil días
 
 ###### ARTICULO 421.
 
-Además de lo establecido en los anteriores capítulos del Título Vigésimo Quinto, se impondrá alguna o algunas de las siguientes penas o medidas de seguridad:
+Además de lo establecido en los anteriores capítulos del Título Vigésimo Quinto, se impondrán las siguientes penas y medidas de seguridad:
 
-I. La realización de las acciones necesarias para restablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+I. La reparación y, en su caso, la compensación del daño al ambiente, de conformidad a lo dispuesto en la Ley Federal de Responsabilidad Ambiental;
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 II. La suspensión, modificación o demolición de las construcciones, obras o actividades, según corresponda, que hubieren dado lugar al delito ambiental respectivo;
 
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2002)</small>
+
 III. La reincorporación de los elementos naturales, ejemplares o especies de flora y fauna silvestre, a los hábitat de que fueron sustraídos, siempre y cuando su reincorporación no constituya un peligro al equilibrio ecológico o dificulte la reproducción o migración de especies de flora o fauna silvestre;
+
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 IV. El retorno de los materiales o residuos peligrosos o ejemplares de flora y fauna silvestre amenazados o en peligro de extinción, al país de origen, considerando lo dispuesto en los tratados y convenciones internacionales de que México sea parte, o
 
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2002)</small>
+
 V. Inhabilitación, cuando el autor o partícipe del delito tenga la calidad de servidor público, hasta por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, la cual deberá correr al momento en que el sentenciado haya cumplido con la prisión o ésta se hubiera tenido por cumplida.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 Los trabajos a favor de la comunidad a que se refiere el artículo 24 de este ordenamiento, consistirán en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
 
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
+
 Para los efectos a los que se refiere este artículo, el juez deberá solicitar a la dependencia federal competente o a las instituciones de educación superior o de investigación científica, la expedición del dictamen técnico correspondiente.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 Las dependencias de la administración pública competentes, deberán proporcionar al ministerio público o al juez, los dictámenes técnicos o periciales que se requieran con motivo de las denuncias presentadas por la comisión de los delitos a que se refiere el presente Título.
 
-Siempre que el procesado repare el daño voluntariamente sin que se haya resuelto dicha obligación por resolución administrativa, las punibilidades correspondientes a los delitos cometidos, serán las resultantes de disminuir en una mitad los parámetros mínimos y máximos contemplados en este Título.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+Los parámetros mínimos y máximos de las penas de prisión a que se refiere el presente Título se disminuirán a la mitad, cuando el imputado o procesado repare o compense voluntariamente el daño al ambiente antes de que tal obligación le haya sido impuesta por resolución administrativa o sentencia judicial. Dicha disminución procederá también, cuando se realice o garantice la reparación o compensación del daño en términos de lo dispuesto por el Título Segundo de la Ley Federal de Responsabilidad Ambiental.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+Se considerarán víctimas con derecho a solicitar la reparación o compensación del daño ambiental y coadyuvar en el proceso penal, a las personas legitimadas en términos de lo dispuesto por la Ley Federal de Responsabilidad Ambiental.
 
 > <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
@@ -6814,3 +6844,11 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- El Titular del Poder Ejecutivo Federal contará con un término de 180 días naturales para expedir las adecuaciones al Reglamento de la Ley Orgánica de la Procuraduría General de la República, a efecto de establecer la unidad administrativa que conozca de los delitos federales cometidos contra algún periodista, persona o instalación que atenten contra el derecho a la información o las libertades de expresión o imprenta, así como para aquellos delitos del fuero común que sean atraídos de conformidad con lo dispuesto por los artículos 73, fracción XXI, segundo párrafo, de la Constitución y 10 del Código Federal de Procedimientos Penales.
 
 Tercero.- En tanto se expiden las adecuaciones al Reglamento de la Ley Orgánica de la Procuraduría General de la República al que se refiere el artículo transitorio anterior, la Fiscalía Especial para la Atención de Delitos Cometidos contra la Libertad de Expresión, de la Procuraduría General de la República ejercerá las atribuciones establecidas en el presente Decreto.
+
+D.O.F. 7 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
