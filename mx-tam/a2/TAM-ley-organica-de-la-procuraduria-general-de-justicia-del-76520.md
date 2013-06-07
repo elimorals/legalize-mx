@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2013-02-28"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -343,7 +343,7 @@ V. Participar en la Conferencia Nacional de Procuración de Justicia y ejecutar 
 
 VI. Suministrar, procesar, administrar, explotar y resguardar la información de los asuntos que conozca, utilizando dispositivos tecnológicos para integrar bases de datos propias y los registros del Sistema Nacional de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VII. Organizar y controlar a la Policía Investigadora y a la Policía Ministerial, que estarán bajo la autoridad y mando inmediato del Ministerio Público;
 
@@ -361,7 +361,7 @@ XIII. Diseñar, instrumentar, operar y administrar un sistema informático de re
 
 XIV. Dirigir, planificar, evaluar y coordinar el servicio médico forense;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 XV. Organizar, dirigir, administrar y supervisar el desarrollo del servicio profesional de carrera, tanto de Agentes del Ministerio Público, como de Peritos y Agentes de la Policía Investigadora y Policía Ministerial así como garantizar el desempeño apegado a la ley de sus integrantes;
 
@@ -381,9 +381,17 @@ XXII. Emitir el documento de identificación de los integrantes de la Procuradur
 
 XXIII. Autorizar los procedimientos administrativos en materia de recursos humanos, materiales, financieros y de servicios generales, conforme a las normas y lineamientos que emitan las dependencias competentes del gobierno del Estado;
 
-XXIV. Proponer, opinar y participar en proyectos de iniciativas de ley o reformas legislativas que estén vinculadas en la materia de su competencia; y,
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-XXV. Las demás que prevean otras disposiciones legales aplicables.
+XXIV. Proponer, opinar y participar en proyectos de iniciativas de ley o reformas legislativas que estén vinculadas en la materia de su competencia;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+XXV. Regir la ejecución de las acciones conducentes a la efectiva implementación y operación del Sistema Penal Acusatorio y Oral en la institución; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+XXVI. Las demás que prevean otras disposiciones legales aplicables.
 
 ###### ARTICULO 9°.
 
@@ -445,11 +453,23 @@ III. El acuerdo para el desistimiento total o parcial del ejercicio de la acció
 
 IV. Las prevenciones que la autoridad judicial acuerde respecto de las omisiones de formular conclusiones en el término legal;
 
-V. Las incompetencias que se susciten entre los Agentes del Ministerio Público del Estado con los de la Federación y de otras entidades federativas, así como del Distrito Federal; y,
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-VI. En materia de colaboraciones que conforme al artículo 119 de la Constitución Política de los Estados Unidos Mexicanos, sean solicitadas por las Procuradurías de los Estados, de la Procuraduría General de la República y del Distrito Federal, y las ordenadas por esta Institución.
+V. Las incompetencias que se susciten entre los Agentes del Ministerio Público del Estado con los de la Federación y de otras entidades federativas, así como del Distrito Federal;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VI. En materia de colaboraciones que conforme al artículo 119 de la Constitución Política de los Estados Unidos Mexicanos, sean solicitadas por las Procuradurías de los Estados, de la Procuraduría General de la República y del Distrito Federal, y las ordenadas por esta institución; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VII. El archivo temporal y la abstención de investigar.
 
 El Procurador podrá delegar a los Subprocuradores o a los servidores públicos que él mismo determine conforme a la presente Ley, para conocer y resolver al respecto sobre los supuestos a que se refiere el presente artículo, en los términos de lo previsto en el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Además de las anteriores atribuciones, el Procurador o el funcionario a quien éste designe, revisarán que el criterio de oportunidad aplicado por el Agente del Ministerio Público se ajuste a la normatividad.
 
 ### CAPITULO III. DE LA ESTRUCTURA
 
@@ -459,49 +479,53 @@ El Procurador ejercerá autoridad jerárquica sobre todo el personal de la insti
 
 A) Con funciones de Ministerio Público:
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. DE SEPTIEMBRE DE 2011)</small>
 
 I. Procurador General de Justicia;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 II. Primer Subprocurador General;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 III. Segundo Subprocurador General;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 IV. Director General de Averiguaciones Previas;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 V. Director de Averiguaciones Previas;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VI. Director de Control de Procesos;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VII. Director Jurídico;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VIII. Coordinador de Asuntos Internos;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 IX. Delegados;
 
-> <small>(ADICIONADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-X. Fiscal para Asuntos Electorales; y,
+X. Fiscal para Asuntos Electorales;
 
-> <small>(ADICIONADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-XI. Agentes del Ministerio Público.
+XI. Unidad Especializada en la Investigación y Persecución del Secuestro; y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+XII. Agentes del Ministerio Público.
 
 B) Con funciones auxiliares del Ministerio Público:
 
@@ -509,27 +533,27 @@ B) Con funciones auxiliares del Ministerio Público:
 
 I. Comisario de la Policía Estatal Investigadora;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 II. Agentes de la Policía Investigadora;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 III. Director de Servicios Periciales;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 IV. Peritos;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 V. Director de la Policía Ministerial;
 
-> <small>(ADICIONADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VI. Agentes de la Policía Ministerial; y
 
-> <small>(ADICIONADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VII. Oficiales Ministeriales.
 
@@ -549,41 +573,41 @@ IV. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
 V. Director del Instituto de Capacitación Técnica y Profesional;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VI. Director de Informática;
 
 VII. Director de Administración;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VIII. Director de Normatividad, Control y Seguimiento;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 IX. Director de Comunicación Social;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 X. Director de Enlace con la Secretaría de Seguridad Pública Federal;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 XI. Visitador General;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 XII. Titulares de los Centros de Mediación;
 
-> <small>(ADICIONADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 XIII. Coordinador de Asesoría;
 
-> <small>(ADICIONADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 XIV. Coordinador de Vinculación y Enlace; y
 
-> <small>(ADICIONADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 XV. Coordinador para la implementación de la Reforma Penal.
 
@@ -593,11 +617,11 @@ El Reglamento dispondrá de la estructura administrativa necesaria para el ejerc
 
 El Procurador podrá acordar la creación de unidades administrativas o fiscalías especializadas distintas a las previstas en esta Ley o el Reglamento, con base en la disponibilidad presupuestal y de acuerdo a las necesidades, la urgencia o el interés de investigar y perseguir delitos específicos.
 
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 Asimismo, para la más eficaz atención y eficiente despacho de los asuntos de su competencia, la Procuraduría contará con órganos desconcentrados.
 
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 Los órganos desconcentrados tendrán las atribuciones específicas para resolver sobre las materias de su competencia o dentro del ámbito territorial que se determine en cada caso, de conformidad con las normas que para ello establezcan la presente Ley, los instrumentos jurídicos de creación de dichos órganos y demás disposiciones aplicables.
 
@@ -783,29 +807,45 @@ VII. Informar mensualmente previo acuerdo con el Procurador al Consejo Estatal E
 
 VIII. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+ARTICULO 20 BIS.- La Unidad Especializada en la Investigación y Persecución del Secuestro, será un órgano desconcentrado dependiente directamente del Procurador, estará integrada con personal especializado y deberá contar, al menos, con Ministerios Públicos, peritos, policías investigadores y ministeriales, así como con los recursos humanos, financieros y materiales necesarios para su efectiva operación.
+
+Para ser integrante de la Unidad Especializada en la Investigación y Persecución del Secuestro deberán reunir los requisitos establecidos en la presente ley, así como los dispuestos en el artículo 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### ARTICULO 21.
 
 Los Agentes del Ministerio Público tendrán las atribuciones señaladas en esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 22.
 
-El Agente del Ministerio Público de la Unidad Especializada del Combate al Secuestro tendrá las siguientes atribuciones:
+Los integrantes de la Unidad Especializada en la Investigación y Persecución del Secuestro tendrán las siguientes atribuciones:
 
-l. Recibir toda denuncia, querella, noticia o aviso que tenga relación con hechos posiblemente constitutivos del delito de secuestro e iniciar la averiguación previa correspondiente, dando aviso inmediato a su superior jerárquico;
+I.- Solicitar que se le brinde atención médica, psicológica y jurídica a las víctimas de las conductas previstas como secuestro en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
 
-II. Practicar las diligencias necesarias para la integración de la averiguación previa por la posible comisión del delito de secuestro, allegándose de las pruebas que considere pertinentes para la acreditación de los elementos del cuerpo del delito y la probable responsabilidad del o los indiciados, así como el monto de los daños y perjuicios causados a las víctimas u ofendidos;
+II.- Decretar las providencias precautorias para la protección de la vida o integridad de las víctimas de secuestro o sus familiares;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+III.- Asesorar a los familiares en las negociaciones para lograr la libertad de las víctimas;
 
-III. Ordenar a la Policía Investigadora y Policía Ministerial la detención de las personas probablemente responsables de la comisión del delito, en los casos previstos en la Ley;
+IV.- Recibir, por cualquier medio, las denuncias sobre los delitos e iniciar la investigación;
 
-IV. Solicitar a las autoridades judiciales la expedición de órdenes de cateo y arraigo necesarias para la investigación de hechos posiblemente constitutivos del delito;
+V.- Utilizar las técnicas de investigación previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y en los demás ordenamientos aplicables;
 
-V. Requerir cualquier elemento probatorio a los particulares para la debida integración de las averiguaciones previa (sic);
+VI.- Vigilar, con absoluto respeto a los derechos constitucionales, a las personas respecto de las cuales se tenga indicios de que se encuentran involucradas en los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
 
-VI. Proponer al superior jerárquico y, en su caso, ejecutar políticas públicas necesarias para prevenir y combatir el secuestro; y,
+VII.- Sistematizar la información obtenida para lograr la liberación de las víctimas y la detención de los probables responsables;
 
-VII. Las demás que otras disposiciones legales, el Procurador o Subprocuradores le confieran.
+VIII.- Solicitar a personas físicas o morales la entrega inmediata de información que pueda ser relevante para la investigación del delito o la liberación de las víctimas;
+
+IX.- Proponer políticas para la prevención e investigación de las conductas previstas en esta Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+
+X.- Proponer al Procurador General de Justicia del Estado, en el marco de la colaboración de la Conferencia Nacional de Procuración de Justicia, la celebración de convenios con las empresas de telecomunicaciones para la obtención de datos adicionales contenidos en la base de datos prevista en la Ley Federal de Telecomunicaciones y sobre el uso de las mismas;
+
+XI.- Utilizar cualquier medio de investigación que les permita regresar con vida a la víctima, identificar y ubicar a los presuntos responsables y cumplir con los fines de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, siempre y cuando dichas técnicas de investigación sean legales y con pleno respeto a los derechos humanos, y
+
+XII.- Las demás que disponga la ley.
 
 ###### ARTICULO 23.
 
@@ -1311,7 +1351,7 @@ Los Agentes del Ministerio Público, de la Policía Investigadora, de la Policí
 
 El Procurador, para la mejor organización y funcionamiento de la Procuraduría General de Justicia del Estado y cuando así lo requieran las necesidades del servicio, podrá designar a Agentes del Ministerio Público, Agentes de la Policía Investigadora, Agentes de la Policía Ministerial y Peritos, siempre que se trate de personas de amplia y acreditada experiencia profesional, debiendo previamente haber acreditado los exámenes que comprenden los procesos de evaluación de control de confianza.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 46.
 
@@ -1328,6 +1368,14 @@ IV. No estar suspendido o inhabilitado ni haber sido destituido por resolución 
 V. Gozar de buena reputación, no haber sido sentenciado por la comisión de delito doloso y no estar sujeto a proceso penal.
 
 Se exceptúa de lo especificado en la fracción III de éste artículo a la Dirección General del Servicio Profesional de Carrera, la Dirección Administrativa y la Dirección de Informática y Estadística.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Para ser designado Director General de Operación del Procedimiento Penal Acusatorio y Oral, Coordinador Regional del Sistema Penal Acusatorio y Oral, Agente del Ministerio Público de Procedimiento Penal Acusatorio y Oral, Agente del Ministerio Público Supervisor y Orientador, además de los requisitos señalados para el cargo, deberá acreditar haber recibido capacitación en procedimiento penal acusatorio y oral, que no podrá ser menor de doscientas horas.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Estas designaciones serán hechas conforme a lo establecido en el artículo 45 de esta Ley.
 
 ###### ARTICULO 47.
 
@@ -2049,29 +2097,35 @@ En caso de un comportamiento que perturbe el orden, así como de indisciplina o 
 
 Si las conductas que merezcan la aplicación de las medidas disciplinarias llegaren a constituir delito, se procederá inmediatamente a dar cuenta a la autoridad o dependencia competente para que se inicie la investigación y/o se integre la averiguación previa correspondiente.
 
-## TITULO CUARTO. DE LA MEDIACION Y LA CONCILIACION
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
+
+## TITULO CUARTO. DE LOS MECANISMOS ALTERNATIVOS DE SOLUCION DE CONFLICTOS EN MATERIA PENAL
 
 ### CAPITULO I. DE LA MEDIACION
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 89.
 
-La mediación como procedimiento alterno de solución de conflictos deberá ser aplicado en el ámbito de acción de la Procuraduría en términos de lo dispuesto por la ley de la materia, y se regirá por los principios de voluntariedad de las partes, confidencialidad, flexibilidad, neutralidad, imparcialidad, equidad, legalidad y honestidad.
+Los mecanismos alternativos de solución de conflictos en materia penal deberán ser aplicados en el ámbito de acción de la Procuraduría en términos de lo dispuesto por el orden jurídico rector de la materia, y se regirán por los principios de voluntariedad de las partes, confidencialidad, flexibilidad, neutralidad, imparcialidad, equidad, legalidad y honestidad.
 
 ###### ARTICULO 90.
 
 El objeto de la mediación es lograr que a través de una comunicación efectiva y de manera voluntaria, sean restablecidos los intereses o derechos afectados de la víctima u ofendido por la comisión de alguna conducta presuntamente delictiva, y podrá referirse a la reparación, restitución o resarcimiento de los perjuicios causados; la realización o abstención de determinada conducta; la prestación de servicios a la comunidad; la rehabilitación de derechos, o bien, el pedimento de disculpas o de perdón.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 91.
 
-Sólo se llevará a cabo la mediación en la Procuraduría cuando en los hechos puestos en conocimiento del Ministerio Público, resulte procedente al menos uno de los siguientes supuestos:
+En la Procuraduría solo se efectuarán mecanismos alternativos de solución de conflictos, cuando en los hechos puestos en conocimiento del Ministerio Público, resulte procedente al menos uno de los siguientes supuestos:
 
 I. El perdón de la víctima u ofendido;
 
 II. Los acuerdos reparatorios;
 
-III. La suspensión del proceso a prueba; o,
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+III. Los establecidos en el Código de Procedimientos Penales vigente en el Estado; o
 
 IV. En general, todas las conductas consideradas como delitos por cuanto hace a la reparación del daño.
 
@@ -2101,15 +2155,13 @@ El debido cumplimiento de lo acordado en el convenio respectivo, impedirá el ej
 
 ### CAPITULO II. DE LA CONCILIACIÓN
 
-###### ARTICULO 98.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-La conciliación es propia de las autoridades de procuración de justicia que conozcan de un conflicto, y previo al inicio de un procedimiento penal deberá proponerse a las partes en los casos en que proceda.
+###### ARTÍCULO 98.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE FEBRERO DE 2013)</small>
+Se entiende por conciliación el proceso en el que uno o más conciliadores asisten a las partes en conflicto, para facilitar las vías de diálogo, proponiendo opciones de solución.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE FEBRERO DE 2013)</small>
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ## TITULO QUINTO. INSTITUTO DE CAPACITACIÓN TÉCNICA Y PROFESIONAL
 
@@ -2341,6 +2393,524 @@ VIII. Los representantes de los sectores social y privado que determine convocar
 
 El Consejo sesionará por lo menos una vez al mes o antes cuando alguno de sus integrantes solicite al Procurador se convoque para ello, señalando la causa que lo justifique. Las sesiones se realizarán con la presencia de la mitad más uno de sus integrantes, bajo el orden del día previamente acordado. Los miembros presentes firmarán el acta que se levante con motivo de la sesión correspondiente.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
+
+## TITULO NOVENO. DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 2013)</small>
+
+### CAPITULO I. DE LA ESTRUCTURA
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 114.
+
+Para la adecuada operación del Sistema Penal Acusatorio y Oral la Procuraduría contará con la siguiente estructura:
+
+A) Con funciones de Agente del Ministerio Público:
+
+I. Director General de Operación del Procedimiento Penal Acusatorio y Oral;
+
+II. Coordinadores Regionales del Sistema Penal Acusatorio y Oral;
+
+III. Agentes del Ministerio Público de Procedimiento Penal Acusatorio y Oral;
+
+IV. Agentes del Ministerio Público Supervisores;
+
+V. Agentes del Ministerio Público Orientadores; y
+
+VI. Los demás servidores públicos que se señalen en esta ley y su reglamento.
+
+B) Como auxiliares del Ministerio Público en el Sistema Penal Acusatorio y Oral:
+
+I. Comisario y agentes de la Policía Estatal Investigadora;
+
+II. Director de Servicios Periciales;
+
+III. Peritos;
+
+IV. Auxiliares Profesionales;
+
+V. Las instituciones de seguridad pública; y
+
+VI. Los demás servidores públicos que se señalen en esta ley y su reglamento.
+
+C) Con funciones administrativas en el Sistema Penal Acusatorio y Oral:
+
+I. Director del Sistema Estatal de Justicia Alternativa Penal;
+
+II. Coordinador de Planeación y Seguimiento; y
+
+III. Los demás servidores públicos que se requieran conforme a las necesidades del servicio y aquellas que determine el reglamento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
+
+### CAPITULO II. DE LAS FACULTADES Y OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 115.
+
+El Director General de Operación del Procedimiento Penal Acusatorio y Oral tendrá las siguientes atribuciones:
+
+I. Acordar con el Procurador General de Justicia el despacho de los asuntos de su competencia y de las unidades a su cargo;
+
+II. Desempeñar las funciones y comisiones que el Procurador le encomiende, informando sobre el desarrollo de las mismas;
+
+III. Planear, coordinar, asesorar y evaluar las actividades de las unidades a su cargo, de conformidad con los lineamientos que determine para este caso, el Procurador y las demás disposiciones normativas aplicables;
+
+IV. Someter a consideración del Procurador la organización interna de las unidades administrativas de su adscripción, así como los procedimientos administrativos y las normas de coordinación y operación;
+
+V. Transmitir a los servidores públicos a su cargo las instrucciones generales y especiales para el cumplimiento de sus atribuciones, para lograr la unidad de acción del Ministerio Público, vigilando su debido cumplimiento;
+
+VI. Rendir informe de las actividades desarrolladas en la Dirección General a su cargo, cuando le sea requerido por el Procurador;
+
+VII. Opinar y dictaminar sobre los asuntos que se reciban para su revisión y consulta;
+
+VIII. Realizar visitas periódicas a las unidades de su adscripción para observar su funcionamiento, e informando de ello al Procurador;
+
+IX. Proponer al titular del Instituto de Capacitación y Formación Profesional, la capacitación, actualización y especialización que se requiera para los Agentes del Ministerio Público y demás servidores públicos bajo su cargo;
+
+X. Atender en audiencia al ciudadano que lo solicite, personalmente o por conducto de los servidores públicos a su cargo;
+
+XI. Supervisar que los Coordinadores Regionales realicen las acciones necesarias para cumplir de manera eficaz con los objetivos, políticas y programas establecidos por el Procurador, para la investigación de los delitos y judicialización de los mismos, se realice conforme a los ordenamientos jurídicos;
+
+XII. Supervisar que la Dirección Estatal del Sistema de Justicia Alternativa Penal y los Departamentos de Orientación y Denuncia realicen las acciones necesarias para cumplir de manera eficaz con los objetivos, políticas y programas establecidos por el Procurador, para la aplicación de los criterios de oportunidad y de los mecanismos alternos de solución de conflictos;
+
+XIII. Dictar las medidas que estime adecuadas para el seguimiento a las recomendaciones elaboradas por los Agentes del Ministerio Público Supervisores, para el mejoramiento y avance de los asuntos que conozcan las Unidades de Investigación;
+
+XIV. Solicitar a las instituciones de seguridad pública, a petición del Agente del Ministerio Público, la atención y protección de las víctimas, ofendidos, testigos y cualquier persona que se encuentre en situación de riesgo o peligro como consecuencia de su intervención en una investigación o en un proceso judicial;
+
+XV. Supervisar, por sí o por medio de los coordinadores regionales, que la aplicación de los criterios de oportunidad, la resolución de no ejercicio de la acción penal, de archivo temporal y de la facultad de abstenerse de investigar, así como la solicitud de procedimiento abreviado, se hayan realizado y ejercido conforme lo previsto por las disposiciones normativas aplicables;
+
+XVI. Designar al Agente del Ministerio Público que considere apto para la supervisión y seguimiento en forma especial de los procedimientos penales que así lo ameriten;
+
+XVII. Informar al Procurador en forma inmediata sobre el desarrollo y sobre el resultado de los asuntos que sean de carácter relevante relacionados con el Sistema Penal Acusatorio;
+
+XVIII. Establecer la coordinación necesaria con el Comisario de la Policía Estatal Investigadora para impulsar los asuntos de su competencia;
+
+XIX. Supervisar las acciones de la Coordinación de Planeación y Seguimiento, tanto en materia de desarrollo institucional, como en lo concerniente al proceso de transición al nuevo Sistema de Justicia Penal;
+
+XX. Solicitar información, datos o cooperación técnica a otras áreas de la Procuraduría, conforme a las políticas y normas que establezca el Procurador; y
+
+XXI. Las demás que le encomiende el Procurador y aquellas que le confieran las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 116.
+
+Las Coordinaciones Regionales del Sistema Penal Acusatorio y Oral tendrán a su cargo las Unidades de Investigación en la respectiva circunscripción territorial, así como a las demás unidades administrativas que correspondan.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 117.
+
+El Coordinador Regional del Sistema Penal Acusatorio y Oral será el superior inmediato de los Agentes del Ministerio Público del Sistema Penal Acusatorio y Oral en la región correspondiente; tendrá, además de las atribuciones que esta ley y otros ordenamientos confieren al Ministerio Público, las siguientes atribuciones:
+
+I. Organizar, dirigir, asesorar, controlar y evaluar el desarrollo de las acciones encomendadas a los servidores públicos de las Unidades de Investigación adscritas a la región correspondiente;
+
+II. Supervisar que las actuaciones ministeriales cumplan con los requisitos y procedimientos establecidos en los diversos ordenamientos jurídicos;
+
+III. Establecer, con acuerdo de la superioridad, los turnos, funciones y comisiones de los Agentes del Ministerio Público, auxiliares del Ministerio Público y Agentes de la Policía Investigadora adscritos a la Coordinación Regional, en el marco de la investigación y persecución de los delitos;
+
+IV. Realizar de manera periódica o cuando sea necesario, reuniones de trabajo con los Agentes del Ministerio Público, auxiliares del Ministerio Público y Agentes de la Policía Investigadora adscritos a la Coordinación Regional;
+
+V. Informar a la superioridad, cuando así se le requiera, de las gestiones que realice tanto de los asuntos jurídicos como administrativos;
+
+VI. Desempeñar las funciones propias de su competencia y las comisiones que la superioridad le encomiende e informar sobre el desarrollo de las mismas;
+
+VII. Preparar y someter a consideración de la superioridad, los proyectos de manuales de procedimientos normativos y de operación, correspondientes a la Coordinación Regional;
+
+VIII. Establecer comunicación y enlace con otras Coordinaciones Regionales, cuando el caso lo requiera para el buen funcionamiento de la Procuraduría;
+
+IX. Proponer y justificar a la superioridad, la reorganización, fusión o desaparición de las unidades de investigación adscritas a la Coordinación Regional, así como las acciones para la modernización y simplificación de procedimientos administrativos;
+
+X. Proporcionar la información, datos o cooperación técnica que le sea requerida por otra área de la Procuraduría, de acuerdo a las políticas y normas que establezca el Procurador;
+
+XI. Obtener información correspondiente al resultado del ejercicio de la acción penal y de los procesos que se instruyan, para adoptar medidas y acciones tendientes al abatimiento de la impunidad;
+
+XII. Informar al Director General de Operación del Procedimiento Penal Acusatorio y Oral de las peticiones de los Agentes del Ministerio Público sobre la atención y protección a las víctimas, ofendidos, testigos y a cualquier persona que se encuentren en situación de riesgo o peligro, como consecuencia de su intervención en una investigación o en un proceso penal;
+
+XIII. Rendir mensualmente, o cuando le sea solicitado por la superioridad, un informe de las actividades desarrolladas dentro de su Coordinación;
+
+XIV. Informar de manera inmediata a la superioridad, sobre el desarrollo, avance y resultados de los asuntos que sean de carácter relevante y que sean inherentes a su Coordinación;
+
+XV. Formular observaciones y recomendaciones que considere pertinentes al Agente del Ministerio Público respecto de las investigaciones para su debida integración;
+
+XVI. Rendir los informes de autoridad que le sean solicitados conforme a derecho;
+
+XVII. Verificar que las acciones de los Agentes del Ministerio Público, con motivo de la investigación de los delitos, ejercicio de la acción penal, comparecencia ante los jueces y tribunales competentes, se apeguen a los ordenamientos legales vigentes;
+
+XVIII. Vigilar que la aplicación de los criterios de oportunidad, la resolución de no ejercicio de la acción penal, de archivo temporal y de la facultad de abstenerse de investigar, así como la solicitud de procedimiento abreviado, se hayan realizado y ejercido conforme lo previsto por las disposiciones normativas aplicables;
+
+XIX. Asistir e intervenir en las audiencias que con motivo del proceso se celebren de acuerdo a sus atribuciones; y,
+
+XX. Las demás que le encomiende el Procurador, los Subprocuradores o el Director General de Operación del Procedimiento Penal Acusatorio y Oral aquellas que le confieran las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 118.
+
+Los Agentes del Ministerio Público Supervisores dependerán del Director General de Operación del Procedimiento Penal Acusatorio y Oral, además de las facultades y obligaciones que esta ley y otros ordenamientos confieren al Ministerio Público, tendrá las siguientes atribuciones:
+
+I. Practicar auditorías jurídicas en Unidades de Investigación o de Juicio cuando así se requiera;
+
+II. Rendir informes al Coordinador Regional y al Director General de Operación del Procedimiento Penal Acusatorio y Oral, sobre el resultado de las tareas que le fueron encomendadas y las recomendaciones que haya emitido al efecto;
+
+III. Revisar la conducción de la investigación de los hechos que le fueron encomendados a las Unidades de Investigación, generando los dictámenes y recomendaciones pertinentes;
+
+IV. Vigilar que los Agentes del Ministerio Público titulares de las Unidades de Investigación, cumplan oportunamente con la ejecución de las recomendaciones emitidas;
+
+V. Evaluar, por instrucciones del Director General de Operación del Procedimiento Penal Acusatorio y Oral, el funcionamiento de las diferentes áreas y unidades administrativas que componen las Coordinaciones Regionales, y elaborar las recomendaciones conducentes;
+
+VI. Mantener un registro y control detallado de las observaciones detectadas en las revisiones que se realicen, así como de aquellas que hubieren sido solventadas a efecto de generar los informes periódicos que requiera la superioridad;
+
+VII. Rendir los informes de autoridad que le sean requeridos conforme a derecho; y,
+
+VIII. Las demás que le encomiende el Procurador, los Subprocuradores y el Director General de Procedimiento Penal Acusatorio y aquellas que le confieran las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 119.
+
+Las Unidades de Investigación estarán conformadas y encabezadas por Agentes del Ministerio Público, quienes tendrán bajo su mando a los auxiliares del Ministerio Público, a los agentes de la Policía Investigadora asignados y a los demás Servidores Públicos que se requieran conforme a las necesidades del servicio.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 120.
+
+Son facultades y obligaciones del Ministerio Público de Procedimiento Penal Acusatorio y Oral, Titular de la Unidad de Investigación, además de las facultades y obligaciones que esta ley y otros ordenamientos confieren al Ministerio Público, las siguientes:
+
+I. Dirigir la investigación de los hechos presuntamente constitutivos del delito;
+
+II.- Recabar los antecedentes y elementos de convicción tendientes al esclarecimiento de los hechos materia de la denuncia o querella;
+
+III.- Citar u ordenar la presentación de cualquier persona, siempre que ello sea procedente para el ejercicio de sus funciones;
+
+IV.- Recabar de las autoridades los informes, documentos u opiniones necesarias para la integración de la investigación;
+
+V.- Ejercer la acción penal en la forma establecida por la ley;
+
+VI.- Promover la solución de los conflictos surgidos como consecuencia de los delitos a través de los medios alternos de solución de conflictos entre la víctima u ofendido y el imputado, en los casos autorizados por las leyes;
+
+VII.- Aplicar los criterios de oportunidad en los supuestos previstos por las leyes;
+
+VIII. Solicitar la suspensión del proceso a prueba y la apertura del procedimiento abreviado, en los supuestos previstos por las leyes;
+
+IX. Promover las acciones penales y administrativas, e interponer los recursos correspondientes conforme a lo establecido en las disposiciones normativas aplicables;
+
+X. Solicitar la reparación del daño a favor de la víctima u ofendido;
+
+XI. Vigilar y asegurar que durante la investigación y el proceso se respeten los derechos humanos del imputado, de la víctima u ofendido del delito y de los testigos;
+
+XII. Adoptar las medidas necesarias para la protección, atención y auxilio de las víctimas, ofendidos y testigos; e implementar medidas de protección hacia sus propios funcionarios cuando el caso lo requiera;
+
+XIII. Solicitar al Órgano Jurisdiccional medidas cautelares y providencias precautorias en los términos previstos por la ley;
+
+XIV. Dirigir a la Policía Investigadora y al resto de las instituciones policiales del Estado cuando éstos actúen como auxiliares en la investigación y persecución de delitos, vigilando que los mismos realicen sus actuaciones con pleno respeto a los derechos humanos y conforme a los principios de legalidad y objetividad;
+
+XV. Decretar el no ejercicio de la acción penal o el archivo temporal de la investigación cuando así proceda;
+
+XVI. Solicitar el sobreseimiento del proceso en los supuestos previstos por las disposiciones normativas aplicables;
+
+XVII. Formular la acusación en los términos del Código de Procedimientos Penales del Estado de Tamaulipas;
+
+XVIII. Asistir a las audiencias que con motivo de los recursos interpuestos sean convocadas por el tribunal competente;
+
+XIX. Rendir mensualmente, o cuando le sea solicitado por el Coordinador Regional, un informe de las actividades desarrolladas dentro de la Unidad de Investigación;
+
+XX. Informar de manera inmediata al Coordinador Regional, sobre el desarrollo, avance y resultados de los asuntos que sean de carácter relevante y que sean de su competencia;
+
+XXI. Asistir y conducirse con diligencia en las actuaciones en que tenga que intervenir de acuerdo a sus atribuciones;
+
+XXII. Coadyuvar con el Ministerio Público de la Federación y con el de las demás entidades federativas en los términos de las leyes y los convenios de colaboración respectivos; y
+
+XXIII. Las demás que le encomiende el Procurador, los Subprocuradores, el Director General de Procedimiento Penal Acusatorio y Oral y el Coordinador Regional y aquellas que le confieran otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 121.
+
+Los Auxiliares Profesionales del Ministerio Público en el Nuevo Sistema de Justicia Penal Acusatorio y Oral, tendrán las siguientes facultades y obligaciones:
+
+I. Apoyar en la recepción de denuncias o querellas de hechos presuntamente constitutivos de delitos;
+
+II. Registrar en el sistema de cómputo los informes de los miembros de las instituciones policiales y demás información que se reciba, así como los objetos puestos a disposición del Agente del Ministerio Público, debiendo llevar un control y seguimiento de los mismos, e informar de ello al Agente del Ministerio Público;
+
+III. Registrar las actividades realizadas en el área de su competencia;
+
+IV. Elaborar los informes que le solicite el Agente del Ministerio Público;
+
+V. Recibir el escrito que se presente, asentando al calce la razón del día y la hora de la recepción, de las fojas que contenga y de los documentos que se acompañan; así mismo, deberán anotar razón idéntica en la copia que se exhiba, la que sellada y firmada se devolverá al interesado;
+
+VI. Dar cuenta al Agente del Ministerio Público, bajo su más estricta responsabilidad, de los escritos y promociones que se presenten, así como de los oficios y documentos que reciba;
+
+VII. Resguardar las carpetas de investigación que tengan bajo su cuidado y cuidar que se encuentren en buen estado;
+
+VIII. Auxiliar al Ministerio Público en la elaboración de informes y estadística que deba rendirse;
+
+IX. Llevar el control de los oficios recibidos en la Agencia del Ministerio Público, relativos al juicio de amparo, vigilando que el informe solicitado se rinda dentro del término legal;
+
+X. Auxiliar al Agente del Ministerio Público en la organización, funcionamiento y desarrollo de la unidad de investigación; y,
+
+XI. Las demás que les asigne el Agente del Ministerio Público y aquellas que les confieran las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
+
+### CAPITULO III. DE LA DIRECCION ESTATAL DEL SISTEMA DE JUSTICIA ALTERNATIVA PENAL
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 122.
+
+La Dirección estará a cargo de un servidor público que será designado por el Procurador General de Justicia del Estado.
+
+El Director se auxiliará para el ejercicio de sus funciones en los jefes de departamento titulares de los Centros de Justicia Alternativa Penal, personal jurídico adscrito a la Dirección, personal especializado y auxiliar.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 123.
+
+Para ser director se requiere:
+
+I. Estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Poseer título profesional de licenciado en derecho o su equivalente y cédula profesional con antigüedad mínima de cinco años;
+
+III. Ser mayor de treinta años de edad;
+
+IV. Acreditar mediante certificación que cuenta con capacitación, aptitudes, conocimientos y habilidades para desempeñar la función en el manejo de los mecanismos alternativos de solución de conflictos o controversias, con calidad y eficiencia; y
+
+V. No haber sido condenado por delito doloso.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 124.
+
+El Director tendrá las siguientes facultades:
+
+I. Representar, dirigir y vigilar las funciones de la dirección, conforme a las disposiciones de esta ley y su reglamento;
+
+II. Proponer al Procurador el personal especializado que se designará para integrar los Centros de Justicia Alternativa;
+
+III. Coordinar las actividades del personal de la Dirección;
+
+IV. Implementar los programas de capacitación y actualización para el personal de la Dirección;
+
+V. Calificar la procedencia de las causas de excusa o recusación que se planteen, ya sea antes del inicio del procedimiento o durante el mismo y, de proceder, designar al personal sustituto;
+
+VI. Fungir como especialista cuando las necesidades del servicio lo requieran;
+
+VII. Proponer a los superiores jerárquicos la celebración de convenios de coordinación y colaboración interinstitucional;
+
+VIII.-Llevar la conducción técnica y administrativa de la Dirección;
+
+IX. Divulgar las funciones del Centro, y los beneficios sociales de los servicios de justicia alternativa y sus organismos;
+
+X. Presentar los informes necesarios al Procurador;
+
+XI. Realizar visitas de inspección y supervisión a los Departamentos de Orientación y Denuncia;
+
+XII. Establecer un registro de los casos penales sometidos a los mecanismos alternativos;
+
+XIII. Elaborar la estadística de los acuerdos o convenios celebrados y de otros datos importantes;
+
+XIV. Proponer al superior la creación de manuales de operación para el funcionamiento adecuado de la Dirección, así como las posibles reformas que resulten necesarias; y
+
+XV. Las demás que disponga esta ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 125.
+
+Para ser jefe de departamento titular del Centro de Justicia Alternativa Penal, se deben de cumplir los mismos requisitos que se exigen para ser Director.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 126.
+
+Los jefes de departamento titulares de los Centros de Justicia Alternativa Penal tendrán las siguientes facultades:
+
+I. Turnar los asuntos que le sean planteados al personal especializado que corresponda, tratándose de dichos Centros;
+
+II. Cuidar el buen funcionamiento de la Jefatura de Departamento a su cargo;
+
+III. Rendir al Director, Informe General en los tiempos que se determine;
+
+IV. Realizar visitas de inspección y supervisión a los Departamentos de Atención Integral y Especialistas;
+
+V. Recopilar experiencias del Centro para la realización de estudios y análisis de carácter prospectivo sobre las actividades que éste realiza;
+
+VI. Proporcionar al Centro datos para el control de registro de especialistas, así como mantenerlo actualizado;
+
+VII. Acordar con el Director el despacho de los asuntos de las áreas administrativas adscritas a su cargo;
+
+VIII. Ejecutar los procedimientos para la obtención de los resultados establecidos en los programas de acción;
+
+IX. Desarrollar planes y métodos operativos que promuevan la eficiencia de las funciones que ejecutan; y
+
+X. Las demás que esta ley y el reglamento le confiera.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 127.
+
+La Dirección tendrá su sede en la capital del Estado y competencia en el territorio del mismo, por sí o por conducto de las jefaturas de departamento titulares de los Centros de Justicia Alternativa Penal que se establezcan, de acuerdo a las necesidades de la población y la disponibilidad presupuestal.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 128.
+
+Para el adecuado ejercicio de sus funciones, los Especialistas de la Dirección y los jefes de departamento titulares de los Centros de Justicia Alternativa Penal que presten los servicios de medios alternativos de solución de conflictos, deberán contar con la acreditación expedida por la Dirección de Centros de Mediación dependiente de la Secretaría del Trabajo y Asuntos Jurídicos del Gobierno del Estado de Tamaulipas, en los términos de la Ley de Mediación del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 129.
+
+Son obligaciones de los especialistas, las siguientes:
+
+I. Desarrollar el método alternativo elegido en los términos que se establezcan en el convenio o cláusula compromisoria suscrita por los participantes. Los especialistas, atendiendo a la naturaleza del caso, aplicarán el método adecuado para solucionarlo;
+
+II. Conservar la confidencialidad, en concepto de secreto profesional, de los asuntos de los cuales tengan conocimiento con motivo y en ejercicio de su función;
+
+III. Vigilar que en los trámites de los mecanismos alternativos en los que intervengan, no se afecten derechos de terceros, intereses de menores, colectivos, o difusos, cuestiones de orden público o se trate de personas que no tengan la capacidad de comprender el significado del hecho;
+
+IV. Cerciorarse del correcto entendimiento y comprensión que los participantes tengan del desarrollo del método alternativo elegido, desde su inicio hasta su conclusión, así como de sus alcances;
+
+V. Exhortar y motivar a los participantes a cooperar en la solución del conflicto;
+
+VI. Declarar la improcedencia del método alternativo elegido en los casos en que así corresponda haciendo saber a las partes los motivos de la misma;
+
+VII. Actualizarse permanentemente en la materia;
+
+VIII. Acudir a las revisiones y evaluaciones de la Dirección;
+
+IX. Proporcionar los informes estadísticos o relacionados con su actividad que le requiera la Dirección; y
+
+X. Las demás que esta ley y el reglamento les confiera.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 2013)</small>
+
+### CAPITULO IV. DEL DEPARTAMENTO DE ORIENTACION Y DENUNCIA
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 130.
+
+La Procuraduría contará con Departamentos de Orientación y Denuncia que estarán a cargo de un Agente del Ministerio Público Orientador, quien además de las facultades y obligaciones que esta ley y otros ordenamientos confieren al Ministerio Público, tendrá las siguientes:
+
+I. Orientar a los usuarios que solicitan los servicios de la Procuraduría;
+
+II. Informar a los ciudadanos la procedencia y beneficios de los medios alternativos de justicia penal, de conformidad con las disposiciones normativas aplicables, así como lo relativo al procedimiento penal aplicable;
+
+III. Dictaminar, registrar y turnar a los ciudadanos al área competente, en aquellos asuntos en que acepten iniciar la tramitación de los medios alternativos de justicia penal;
+
+IV. Remitir al ciudadano a la instancia que esté facultada para resolver la problemática planteada;
+
+V. Recibir y registrar las denuncias o querellas de los ciudadanos, y una vez agotado todo el flujo de justicia alternativa remitir, según corresponda, a la Unidad de Investigación o Agencia del Ministerio Público, que les deberá dar seguimiento;
+
+VI. Recibir, en su caso, los objetos que le son turnados y cumplir con la cadena de custodia, remitiéndolos en un término no mayor de veinticuatro horas a la Unidad de Investigación, Agencia del Ministerio Público o a la Dirección de Servicios Periciales, según corresponda;
+
+VII. Dictar las determinaciones de archivo temporal, de abstenerse de investigar, y de aplicación de los criterios de oportunidad, de conformidad con las disposiciones normativas aplicables;
+
+VIII. Rendir los informes de autoridad que se le requieran conforme a derecho; y
+
+IX. Las demás que se deriven de la normatividad aplicable y las que le asigne el Procurador, los Subprocuradores y el Director General de Procedimiento Penal Acusatorio.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
+
+### CAPITULO V. DE LA COORDINACION DE PLANEACION Y SEGUIMIENTO
+
+> <small>(ADICIONADO, P.O. 7 JUNIO DE 2013)</small>
+
+###### ARTICULO 131.
+
+La Coordinación de Planeación y Seguimiento contará con un titular y estará integrada con las siguientes unidades:
+
+I. Departamento de Planeación y Desarrollo Institucional;
+
+II. Departamento de Medición y Evaluación de Procesos Operativos; y,
+
+III. Los servidores públicos necesarios para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 132.
+
+El Coordinador de Planeación y Seguimiento tendrá las siguientes atribuciones y obligaciones:
+
+I. Facilitar y apoyar el proceso de planeación estratégica y operativa de la Procuraduría;
+
+II. Proporcionar a las unidades administrativas de la Procuraduría, las herramientas y el personal de apoyo especializado para la elaboración, ejecución y seguimiento de los procesos de planeación, programación, medición y evaluación;
+
+III. Establecer proyectos de mejora para el desarrollo institucional;
+
+IV. Proponer al Procurador los objetivos, metas, estándares e indicadores de medición, para las personas, grupos de trabajo o unidades de la Procuraduría;
+
+V. Implementar los instrumentos de medición para evaluar los avances de planes estratégicos y programas operativos;
+
+VI. Asegurar la constante medición y automatización de la misma, en los procesos operativos de las unidades de la Procuraduría;
+
+VII. Proporcionar los procedimientos de evaluación del desempeño de las unidades, personas y procesos operativos de la Procuraduría;
+
+VIII. Evaluar permanentemente los resultados obtenidos en el programa sectorial y el programa operativo anual de la Procuraduría, a fin de formular nuevas propuestas; y,
+
+IX. Las demás que le encomiende el Procurador.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 133.
+
+Cada uno de los departamentos señalados en el presente Capítulo contará con un titular, dependiente del Coordinador de Planeación y Seguimiento.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 134.
+
+El Departamento de Planeación y Desarrollo Institucional tendrá las siguientes atribuciones:
+
+I. Apoyar en la planeación del desarrollo institucional de la Procuraduría;
+
+II. Proponer estudios y proyectos para el desarrollo y mejora del desempeño institucional y la eficacia, eficiencia y calidad de la gestión, atendiendo a criterios del óptimo uso de los recursos públicos;
+
+III. Analizar y proponer las especificaciones del servicio que se proporciona a los usuarios y ciudadanía;
+
+IV. Definir los requerimientos necesarios para dar satisfacción a los usuarios;
+
+V. Analizar y proponer los objetivos estratégicos y operativos a alcanzar, las metas, los estándares, así como los indicadores de desempeño calificados con grados de: no satisfactorio, mínimo, satisfactorio y excelente;
+
+VI. Coadyuvar con el Coordinador de Planeación y Seguimiento en la ejecución de los programas y subprogramas requeridos para el logro de los objetivos, metas e indicadores establecidos;
+
+VII. Analizar y proponer a las unidades administrativas de la Procuraduría, las buenas prácticas organizacionales;
+
+VIII. Actualizar y proponer a las unidades administrativas de la Procuraduría, los procedimientos generadores de servicio y que se cuente con el manual de procedimiento correspondiente, de manera que pueda ser certificable y auditable; y,
+
+IX. Las demás que le encomiende el Coordinador de Planeación y Evaluación y aquellas que le confieran las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 135.
+
+El Departamento de Medición y Evaluación de Procesos Operativos tendrá las siguientes atribuciones:
+
+I. Facilitar a las áreas operativas los programas necesarios para ejecutar lo planeado;
+
+II. Dar seguimiento a los resultados de la ejecución de los programas en búsqueda del logro de los objetivos estratégicos y operativos, las metas, los estándares esperados, los desempeños de la eficacia, eficiencia, calidad y los costos esperados de los procesos;
+
+III. Capacitar y facilitar el uso de los formatos de control del desempeño individual del personal de la Procuraduría, que contenga los indicadores de calidad, cantidad, efectividad y desempeño personal y grupal;
+
+IV. Analizar, comparar, evaluar e informar los resultados obtenidos en relación con lo planeado, atendiendo a la tendencia histórica y a otras entidades similares;
+
+V. Verificar el apego a los procedimientos establecidos, e informar los resultados al Coordinador de Planeación y Evaluación;
+
+VI. Facilitar la actualización continua de procedimientos, diagramas, formatos, manuales y catálogos;
+
+VII. Vigilar el correcto funcionamiento del sistema de medición de la Procuraduría;
+
+VIII. Rendir los informes que el Coordinador Planeación y Evaluación le requiera; y,
+
+IX. Las demás que le encomiende el Coordinador de Planeación y Evaluación y aquellas que le confieran las disposiciones normativas aplicables.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -2552,3 +3122,47 @@ Los procedimientos de mediación y conciliación que con anterioridad a la entra
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
+
+P.O. 7 DE JUNIO DE 2013.
+
+DECRETO NO. LXI-859 POR LO QUE SE REFORMAN LA FRACCIÓN X DEL INCISO A) DEL ARTÍCULO 12 Y EL ARTÍCULO 22; SE ADICIONAN LA FRACCIÓN XI AL INCISO A) DEL ARTÍCULO 12, RECORRIÉNDOSE LA SUBSECUENTE; Y EL ARTÍCULO 20 BIS, A LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a los delitos de secuestro previstas en el Código Penal para el Estado de Tamaulipas y de la Ley de Justicia para Adolescentes del Estado vigentes hasta la entrada en vigor del Decreto mediante el cual se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2013.
+
+DECRETO No. LXI-865 POR LO QUE SE REFORMAN LA DENOMINACIÓN DEL TÍTULO CUARTO, Y LOS ARTÍCULOS 8° FRACCIONES XXIV Y XXV, 11 FRACCIONES V Y VI, 89, 91 PÁRRAFO ÚNICO Y FRACCIÓN III Y 98; Y SE ADICIONAN EL TÍTULO NOVENO CON CINCO CAPÍTULOS, LOS ARTÍCULOS 114 A 135, LOS PÁRRAFOS TERCERO DEL ARTÍCULO 11, Y TERCERO Y CUARTO DEL ARTÍCULO 46, Y LAS FRACCIONES XXVI DEL ARTÍCULO 8° Y VII DEL ARTÍCULO 11, DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Procuraduría General de Justicia del Estado proveerá lo conducente para contar con la estructura administrativa necesaria para implementar el nuevo Sistema de Justicia Penal Acusatorio y Oral, conforme a las fechas de aplicación del Código de Procedimientos Penales del Estado de Tamaulipas expedido mediante Decreto No. LXI-475.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo Estatal deberá expedir el Reglamento Interior de la Procuraduría General de Justicia del Estado.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expide el Reglamento Interior de la Procuraduría General de Justicia, la competencia de sus unidades administrativas se norman por la materia de su denominación, al tiempo que si su competencia se hubiere determinado con base en una disposición anterior a la vigencia del presente Decreto, corresponderá a la unidad que conozca de la sustanciación de los asuntos en trámite, hasta que se dicte el acuerdo o resolución pertinente.
+
+###### ARTÍCULO QUINTO.
+
+Cuando con motivo del presente Decreto se confieran una denominación nueva o distinta a alguna unidad administrativa, cuyas funciones sean referidas por otros ordenamientos legales, dichas atribuciones se entenderán concedidas a la unidad administrativa que determine el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
