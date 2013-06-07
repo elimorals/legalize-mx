@@ -4,7 +4,7 @@ identifier: "GUA-ley-ganadera-para-el-estado-de-guanajuato-13335"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-22"
-last_updated: "2012-09-11"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY GANADERA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de diciembre de 1998.
 
@@ -95,9 +95,9 @@ Son autoridades para la aplicación de esta Ley, en el ámbito de sus respectiva
 
 I.- El titular del Poder Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-II.- La Secretaría de Desarrollo Agropecuario;
+II.- La Secretaría de Desarrollo Agroalimentario y Rural;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -161,9 +161,9 @@ IV.- Los colegios de médicos veterinarios zootecnistas y de ingenieros zootecni
 
 Corresponde al titular del Poder Ejecutivo del Estado:
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-I.- Establecer en el Plan de Gobierno Estatal, las políticas y programas relativos al fomento de las actividades pecuarias, a propuesta de la Secretaría de Desarrollo Agropecuario;
+I.- Establecer en el Programa de Gobierno, las políticas y programas relativos al fomento de las actividades pecuarias, a propuesta de la Secretaría de Desarrollo Agroalimentario y Rural;
 
 II.- Celebrar convenios para el logro de los objetivos previstos en esta Ley;
 
@@ -187,15 +187,15 @@ VIII.- Expedir el reglamento de esta Ley; y
 
 IX.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 9o.
 
-Corresponde a la Secretaría de Desarrollo Agropecuario:
+Corresponde a la Secretaría de Desarrollo Agroalimentario y Rural:
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-I.- Proponer las políticas y programas relativos al fomento de las actividades pecuarias que deba contemplar el Plan de Gobierno Estatal, con una visión de cadena agroalimentaria y de sustentabilidad, así como su difusión;
+I.- Proponer las políticas y programas relativos al fomento de las actividades pecuarias que deba contemplar el Programa de Gobierno, con una visión de cadena agroalimentaria y de sustentabilidad, así como su difusión;
 
 II.- Fomentar las actividades pecuarias;
 
@@ -311,11 +311,11 @@ IX.- Atender las denuncias que se presenten, y en su caso, turnarlas a las autor
 
 X.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 11.
 
-La Secretaría de Desarrollo Agropecuario designará verificadores estatales de ganadería, propietarios y suplentes, a propuesta del Comité Estatal para el Fomento y Protección Pecuaria de Guanajuato.
+La Secretaría de Desarrollo Agroalimentario y Rural designará verificadores estatales de ganadería, propietarios y suplentes, a propuesta del Comité Estatal para el Fomento y Protección Pecuaria de Guanajuato.
 
 ###### Artículo 12.
 
@@ -447,13 +447,13 @@ III.- Vigilar el cumplimiento de las disposiciones en materia de sanidad animal;
 
 IV.- Imponer sanciones a quienes infrinjan las disposiciones contenidas en esta Ley;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-V.- Informar mensualmente por escrito a la Secretaría de Desarrollo Agropecuario, respecto al censo de las especies comprendidas en esta Ley y el número de animales que se sacrifiquen o se pierdan por desastre;
+V.- Informar mensualmente por escrito a la Secretaría de Desarrollo Agroalimentario y Rural, respecto al censo de las especies comprendidas en esta Ley y al número de animales que se sacrifiquen o se pierdan por desastre;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-VI.- Comunicar de inmediato a la Secretarías de Desarrollo Agropecuario y a la Secretaría de Salud, la presencia de cualquier envenenamiento, plaga o epizootia, uso, venta, distribución, almacenamiento o transporte de sustancias prohibidas que afecten a las especies pecuarias;
+VI.- Comunicar de inmediato a la Secretaría de Desarrollo Agroalimentario y Rural y a la Secretaría de Salud, la presencia de cualquier envenenamiento, plaga, epizootia, uso, venta, distribución, almacenamiento o transporte de sustancias prohibidas que afecten a las especies pecuarias;
 
 VII.- Vigilar que las personas físicas y morales que se dediquen a las actividades comprendidas en esta Ley, cumplan con las normas contenidas en la misma;
 
@@ -473,9 +473,9 @@ Corresponde a la unidad administrativa municipal:
 
 I.- Vigilar el cumplimiento de las disposiciones previstas en esta Ley, dando cuenta al presidente municipal de las infracciones que se cometan;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-II.- Comunicar inmediatamente al presidente municipal, a la Secretaría de Salud y a la Secretaría de Desarrollo Agropecuario, la presencia de cualquier envenenamiento, plaga, epizootia, uso, venta, distribución, almacenamiento o transporte de sustancias prohibidas que afecten a las especies pecuarias;
+II.- Comunicar inmediatamente al presidente municipal, a la Secretaría de Salud y a la Secretaría de Desarrollo Agroalimentario y Rural, la presencia de cualquier envenenamiento, plaga, epizootia, uso, venta, distribución, almacenamiento o transporte de sustancias prohibidas que afecten a las especies pecuarias;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -529,9 +529,9 @@ XII.- Atender las denuncias que se presenten turnándolas a las autoridades comp
 
 XIII.- Denunciar ante el Ministerio Público, cuando se pretenda sacrificar animales sin justificar su legal adquisición;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-XIV.- Supervisar la implantación y el uso adecuado del medio de identificación autorizado por la Secretaría de Desarrollo Agropecuario en las comunidades rurales de su municipio; y
+XIV.- Supervisar la implantación y el uso adecuado del medio de identificación autorizado por la Secretaría de Desarrollo Agroalimentario y Rural, en las comunidades rurales de su municipio; y
 
 XV.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
 
@@ -561,9 +561,9 @@ VI.- Encauzar las necesidades de crédito de los asociados para obtener éste de
 
 VII.- Procurar el incremento de la producción pecuaria, asesorando a los pequeños productores;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-VIII.- Celebrar convenios con la Secretaría de Desarrollo Agropecuario para la tramitación de solicitudes para la expedición, revalidación, cancelación y registro de guías de tránsito, títulos de marca de herrar, señal de sangre o tatuaje, patente de productor e identificación electrónica; así como para la autorización y registro de la traslación de dominio de los derechos que amparan estos documentos;
+VIII.- Celebrar convenios con la Secretaría de Desarrollo Agroalimentario y Rural para la tramitación de solicitudes para la expedición, revalidación, cancelación y registro de guías de tránsito, títulos de marca de herrar, señal de sangre o tatuaje, patente de productor e identificación electrónica; así como para la autorización y registro de la traslación de dominio de los derechos que amparan estos documentos;
 
 IX.- Establecer, con carácter permanente, un servicio de estadística sobre producción pecuaria y censo de las especies pecuarias, proporcionando a las dependencias federales, estatales y municipales todos los datos que les fueren requeridos;
 
@@ -595,11 +595,11 @@ II.- Uniones ganaderas regionales generales, uniones ganaderas regionales estata
 
 (DEROGADO, P.O. 16 DE JUNIO DE 2006)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 22.
 
-Las uniones ganaderas regionales estatales o especializadas, así como las asociaciones ganaderas locales generales o especializadas, deberán registrarse en la Secretaría de Desarrollo Agropecuario, asimismo, estas últimas deberán registrarse también en la unidad administrativa municipal que corresponda.
+Las uniones ganaderas regionales estatales o especializadas, así como las asociaciones ganaderas locales generales o especializadas, deberán registrarse en la Secretaría de Desarrollo Agroalimentario y Rural, asimismo, estas últimas deberán registrarse también en la unidad administrativa municipal que corresponda.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -609,11 +609,11 @@ Los estatutos de las organizaciones ganaderas deberán consignar, cuando menos, 
 
 La elección de los dirigentes de las organizaciones ganaderas se hará mediante voto libre, secreto y directo de los integrantes.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 23.
 
-Los productores pecuarios de manera directa o por conducto de sus asociaciones y uniones, podrán disfrutar de los beneficios derivados de los programas que el Gobierno del Estado implemente y difunda a través de la Secretaría de Desarrollo Agropecuario.
+Los productores pecuarios de manera directa o por conducto de sus asociaciones y uniones, podrán disfrutar de los beneficios derivados de los programas que el Gobierno del Estado implemente y difunda a través de la Secretaría de Desarrollo Agroalimentario y Rural.
 
 ## TITULO CUARTO
 
@@ -625,23 +625,23 @@ El titular del Poder Ejecutivo del Estado, formulará el programa ganadero para 
 
 Asimismo, el programa ganadero deberá contener acciones para la conservación de agostaderos, procurando evitar la erosión y la desertificación producidas por el sobrepastoreo.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 25.
 
-El programa a que se refiere el artículo anterior se deberá formular de conformidad con el Plan Nacional de Desarrollo y el Plan de Gobierno Estatal.
+El programa a que se refiere el artículo anterior se deberá formular de conformidad con el Plan Nacional de Desarrollo y el Plan Estatal de Desarrollo.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 26.
 
-Corresponde al titular del Poder Ejecutivo del Estado, a través de la Secretaría de Desarrollo Agropecuario, fomentar entre los productores pecuarios la utilización de métodos científicos y tecnológicos, sistemas y procedimientos que mejoren la productividad, así como las acciones para evitar enfermedades en el ganado, mediante programas de inversión.
+Corresponde al titular del Poder Ejecutivo del Estado, a través de la Secretaría de Desarrollo Agroalimentario y Rural, fomentar entre los productores pecuarios la utilización de métodos científicos y tecnológicos, sistemas y procedimientos que mejoren la productividad, así como las acciones para evitar enfermedades en el ganado, mediante programas de inversión.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 27.
 
-La Secretaría de Desarrollo Agropecuario podrá promover ante la banca de desarrollo, el otorgamiento de créditos a aquellas personas que cumplan con los requisitos de control, vigilancia y sanidad que establece esta Ley, con la finalidad de que estos puedan mejorar la producción y la comercialización de sus productos y subproductos.
+La Secretaría de Desarrollo Agroalimentario y Rural podrá promover ante la banca de desarrollo, el otorgamiento de créditos a aquellas personas que cumplan con los requisitos de control, vigilancia y sanidad que establece esta Ley, con la finalidad de que estos puedan mejorar la producción y la comercialización de sus productos y subproductos.
 
 ## TITULO QUINTO
 
@@ -697,9 +697,9 @@ I.- La factura o documento legal en que conste la transferencia de dominio;
 
 II.- La guía de tránsito y certificado zoosanitario que ampare el traslado del lugar de origen al de ubicación del apiario; o
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-III.- La patente del registro expedido por la secretaría de desarrollo Agropecuario.
+III.- La patente del registro expedido por la Secretaría de Desarrollo Agroalimentario y Rural.
 
 ###### Artículo 34.
 
@@ -721,11 +721,9 @@ Los propietarios de apiarios deberán de celebrar convenios con los propietarios
 
 Los productores pecuarios tendrán las siguientes obligaciones:
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-I.- Manifestar por escrito el inicio de actividades, en un término no mayor de sesenta días, a la Secretaría de Desarrollo Agropecuario, o en su caso, a la asociación ganadera local general o especializada de su jurisdicción.
-
-La misma obligación la tendrán todas aquellas personas físicas y morales que realizan actividades industriales y comerciales conexas a la producción pecuaria, de procedimiento o transformación con fines de exploración económica.
+I.- Manifestar por escrito el inicio de sus actividades, en un término no mayor de sesenta días, a la Secretaría de Desarrollo Agroalimentario y Rural, o en su caso, a la asociación ganadera local general o especializada de su jurisdicción.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -767,39 +765,39 @@ VII.- Coadyuvar con las autoridades, denunciando los hechos, actos u omisiones q
 
 ### CAPITULO TERCERO. DE LAS MARCAS Y SEÑALES DEL GANADO
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 38.
 
-La autorización y registro de fierros, señales, identificación electrónica y expedición de patentes, se solicitará ante la Secretaría de Desarrollo Agropecuario o ante las asociaciones ganaderas locales, en atención a los convenios que se celebren.
+La autorización y registro de fierros, señales, identificación electrónica y expedición de patentes, se solicitará ante la Secretaria de Desarrollo Agroalimentario y Rural o ante las asociaciones ganaderas locales, en atención a los convenios que se celebren.
 
 ###### Artículo 39.
 
 Las marcas de herrar se podrán componer de letras, números o signos, o combinaciones entre sí, sin que contengan más de tres figuras, que no sean mayores de diez centímetros de longitud por diez centímetros de ancho y un máximo de ocho milímetros de grueso en la parte que marca.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 40.
 
-Las marcas de herrar, señal de sangre o tatuaje, así como la identificación electrónica, sólo podrán usarse por sus propietarios cuando hayan sido previamente autorizadas y registradas ante la Secretaría de Desarrollo Agropecuario o ante las asociaciones ganaderas locales en atención a los convenios que celebren.
+Las marcas de herrar, señal de sangre o tatuaje, así como la identificación electrónica, sólo podrán usarse por sus propietarios cuando hayan sido previamente autorizadas y registradas ante la Secretaría de Desarrollo Agroalimentario y Rural o ante las asociaciones ganaderas locales en atención a los convenios que celebren.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-Los traspasos que de las mismas hagan sus titulares, requerirán para su validez, la aprobación previa de la Secretaría de Desarrollo Agropecuario, en cuyo caso se cancelará el título original.
+Los traspasos que de las mismas hagan sus titulares, requerirán para su validez, la aprobación previa de la Secretaría de Desarrollo Agroalimentario y Rural, en cuyo caso se cancelará el título original.
 
 El registro de fierro, marca, señal, tatuaje o identificación electrónica, así como las patentes respectivas deberá refrendarse anualmente.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 41.
 
-Cuando los productores pecuarios hayan cumplido con el registro correspondiente del fierro, marca, señal de sangre o tatuaje o identificación electrónica, la Secretaría de Desarrollo Agropecuario les expedirá como título de propiedad, copia certificada de la patente de registro.
+Cuando los productores pecuarios hayan cumplido con el registro correspondiente del fierro, marca, señal de sangre o tatuaje o identificación electrónica, la Secretaría de Desarrollo Agroalimentario y Rural les expedirá como título de propiedad, copia certificada de la patente de registro.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 42.
 
-Se implantará el medio de identificación autorizado por la Secretaría de Desarrollo Agropecuario en las comunidades rurales, mismo que quedará bajo estricto control y responsabilidad del delegado municipal, en los términos y con las modalidades que se establezcan en el reglamento respectivo.
+Se implantará el medio de identificación autorizado por la Secretaría de Desarrollo Agroalimentario y Rural en las comunidades rurales, mismo que quedará bajo estricto control y responsabilidad del delegado municipal, en los términos y con las modalidades que se establezcan en el reglamento respectivo.
 
 ###### Artículo 43.
 
@@ -813,11 +811,11 @@ Cada propietario de ganado sólo podrá tener un título de herrar, señal de sa
 
 Queda estrictamente prohibido herrar animales con marcas distintas a las permitidas en esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 46.
 
-La Secretaría de Desarrollo Agropecuario cancelará las patentes en los casos siguientes:
+La Secretaría de Desarrollo Agroalimentario y Rural cancelará las patentes en los casos siguientes:
 
 I.- Cuando no se refrenden en el plazo legal;
 
@@ -831,11 +829,11 @@ IV.- Cuando por error se expida un segundo título de marca de herrar, señal de
 
 El procedimiento de cancelación podrá iniciarse oficiosamente o a solicitud de parte interesada. En todo caso se oirá al propietario del título que se pretenda cancelar.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 47.
 
-En caso de cancelación de títulos por falta de refrendo, la Secretaría de Desarrollo Agropecuario no podrá autorizar a terceras personas las marcas y señales que amparen dichos títulos; salvo que hayan transcurrido dos años contados a partir de la fecha de cancelación de los mismos.
+En caso de cancelación de títulos por falta de refrendo, la Secretaría de Desarrollo Agroalimentario y Rural no podrá autorizar a terceras personas las marcas y señales que amparen dichos títulos; salvo que hayan transcurrido dos años contados a partir de la fecha de cancelación de los mismos.
 
 ### CAPITULO CUARTO. DE LOS CERCOS GANADEROS
 
@@ -861,11 +859,11 @@ El propietario de un predio contiguo a un cerco divisorio que no sea común, só
 
 Los daños causados en propiedad o posesión ajena con introducción intencional de ganado, serán sancionados en los términos de la legislación penal.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 53.
 
-Cuando se introduzca ganado a un terreno ajeno y cercado, el propietario del terreno deberá reunir y depositar el ganado en un lugar de separo, dando aviso a su propietario para que lo recoja. En caso de que el ganado le haya causado daños y perjuicios, deberá dar aviso a la autoridad municipal poniendo a su disposición el ganado, la que procurará conciliar a las partes; la cuantía del daño se estimará por convenio entre las mismas y en caso de que no lleguen a un acuerdo, se solicitará el avalúo de la Secretaría de Desarrollo Agropecuario. La autoridad municipal emitirá su resolución estimando el monto de los daños causados y requerirá al dueño del ganado para que cubra los mismos. En caso de incumplimiento entregará el ganado a su propietario y el afectado podrá acudir en vía ejecutiva a las autoridades judiciales civiles o penales según corresponda.
+Cuando se introduzca ganado a un terreno ajeno y cercado, el propietario del terreno deberá reunir y depositar el ganado en un lugar de separo, dando aviso a su propietario para que lo recoja. En caso de que el ganado le haya causado daños y perjuicios, deberá dar aviso a la autoridad municipal poniendo a su disposición el ganado, la que procurará conciliar a las partes; la cuantía del daño se estimará por convenio entre las mismas y en caso de que no lleguen a un acuerdo, se solicitará el avalúo de la Secretaría de Desarrollo Agroalimentario y Rural. La autoridad municipal emitirá su resolución estimando el monto de los daños causados y requerirá al dueño del ganado para que cubra los mismos. En caso de incumplimiento entregará el ganado a su propietario y el afectado podrá acudir ante las autoridades judiciales civiles o penales según corresponda.
 
 ### CAPITULO QUINTO. DE LOS ANIMALES MOSTRENCOS Y OREJANOS
 
@@ -883,21 +881,21 @@ II.- Los orejanos que no pertenezcan al dueño del terreno en que pastan o agost
 
 III.- Los trasherrados y traseñalados en los cuales no sea posible identificar la marca o señal; y
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-IV.- Aquellos que ostenten marcas que no se encuentren en el libro de registro de la Secretaría de Desarrollo Agropecuario o de la asociación ganadera local.
+IV.- Aquellos que ostenten marcas que no se encuentren en el libro de registro de la Secretaría de Desarrollo Agroalimentario y Rural o de la asociación ganadera local.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 56.
 
-Cuando se ponga a disposición de la autoridad municipal un animal extraviado, ésta informará inmediatamente a la asociación ganadera local y lo depositará en los corrales municipales, debiendo consultar a la Secretaría de Desarrollo Agropecuario sobre el registro de fierros, marcas o tatuajes o identificación electrónica y de encontrar el nombre del propietario lo comunicará a éste para que recoja al semoviente y cubra los gastos de lazo, manutención y transporte, originados por la recuperación.
+Cuando se ponga a disposición de la autoridad municipal un animal extraviado, ésta informará inmediatamente a la asociación ganadera local y lo depositará en los corrales municipales, debiendo consultar a la Secretaría de Desarrollo Agroalimentario y Rural sobre el registro de fierros, marcas o tatuajes o identificación electrónica y de encontrar el nombre del propietario lo comunicará a éste para que recoja al semoviente y cubra los gastos de lazo, manutención y transporte, originados por la recuperación.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 57.
 
-Si el propietario no acude dentro del plazo de diez días hábiles contados a partir de que se le notificó el aseguramiento, la autoridad municipal dispondrá desde luego, que el o los semovientes se tasen o valoricen por dos peritos designados entre los socios designados por la Secretaría de Desarrollo Agropecuario y procederá a la venta en almoneda pública, conforme las formalidades establecidas en el Código de Procedimientos Civiles para el Estado de Guanajuato.
+Si el propietario no acude a recoger al semoviente dentro del plazo de diez días hábiles contados a partir de que se le notificó el aseguramiento, la autoridad municipal dispondrá desde luego, que el o los semovientes se tasen o valoricen por dos peritos designados por la Secretaría de Desarrollo Agroalimentario y Rural y procederá a la venta en almoneda pública, conforme las formalidades establecidas en el Código de Procedimientos Civiles para el Estado de Guanajuato.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -915,11 +913,11 @@ Si durante el plazo a que se refiere el artículo anterior, se presenta el dueñ
 
 Se prohibe la adquisición de animales mostrencos, por sí o por interpósita persona a las autoridades ante quienes se celebre la almoneda pública, así como a sus parientes afines o consanguíneos dentro del cuarto grado y a los peritos que hayan intervenido.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 61.
 
-Los bienes mostrencos y orejanos que fueren enajenados serán veteados con la marca que autorice la Secretaría de Desarrollo Agropecuario, y se extenderá como título de propiedad la copia certificada de la adjudicación del remate.
+Los bienes mostrencos y orejanos que fueren enajenados serán veteados con la marca que autorice la Secretaría de Desarrollo Agroalimentario y Rural, y se extenderá como título de propiedad la copia certificada de la adjudicación del remate.
 
 ###### Artículo 62.
 
@@ -939,11 +937,11 @@ En lo no previsto por este Capítulo se aplicará de manera supletoria el Códig
 
 La movilización de ganado, de productos y subproductos que se realice en el Estado, se sujetará a las disposiciones de esta Ley y su reglamento.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 65.
 
-La movilización de ganado, productos y subproductos deberá ampararse con la guía de tránsito y certificado zoosanitario que expedirá la Secretaría de Desarrollo Agropecuario o las asociaciones ganaderas locales, de conformidad con los convenios respectivos.
+La movilización de ganado, productos y subproductos deberá ampararse con la guía de tránsito y certificado zoosanitario que expedirá la Secretaría de Desarrollo Agroalimentario y Rural o las asociaciones ganaderas locales, de conformidad con los convenios respectivos.
 
 ###### Artículo 66.
 
@@ -1049,11 +1047,11 @@ Los propietarios o encargados de ganado, deberán aislar el ganado infectado y t
 
 Los animales que se encuentren muertos y ya no puedan ser reconocidos por el dueño o poseedor del terreno en que se hallaren, inmediatamente serán incinerados o sepultados, procurando utilizar métodos que no alteren el medio ambiente, debiendo notificar a las autoridades competentes. En caso de que el animal estuviese abandonado en algún camino sin conocerse su dueño o poseedor, el propietario del predio más próximo al lugar en que se encontrase procederá en los mismos términos.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 80.
 
-Los propietarios o encargados de ganado, estarán obligados a conservar los baños parasiticidas existentes y a construir los que sean necesarios, conforme al modelo aprobado por la Secretaría de Desarrollo Agropecuario.
+Los propietarios o encargados de ganado, estarán obligados a conservar los baños parasiticidas existentes y a construir los que sean necesarios, conforme al modelo aprobado por la Secretaría de Desarrollo Agroalimentario y Rural.
 
 ## TITULO OCTAVO
 
@@ -1093,11 +1091,11 @@ Cuando la denuncia recaiga sobre conductas que pudieran ser constitutivas de del
 
 ### CAPITULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 84.
 
-Las violaciones a los preceptos de esta Ley y demás disposiciones que emanen de la misma, así como de sus reglamentos, serán sancionadas administrativamente por la Secretaría de Desarrollo Agropecuario o por el presidente municipal en su caso, sin perjuicio de las penas que correspondan cuando sean constitutivas de delito.
+Las violaciones a los preceptos de esta Ley y demás disposiciones que emanen de la misma, así como de sus reglamentos, serán sancionadas administrativamente por (sic) Secretaría de Desarrollo Agroalimentario y Rural o por el presidente municipal en su caso, sin perjuicio de las penas que correspondan cuando sean constitutivas de delito.
 
 ###### Artículo 85.
 
@@ -1303,7 +1301,9 @@ I.- Que lo solicite el interesado;
 
 II.- Que al concederse no se contravengan disposiciones de orden público o de interés social; y
 
-III.- Tratándose de multas, que se garantice mediante depósito la cantidad que se cobra, ante la Secretaría de Finanzas y Administración.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+III.- Tratándose de multas, que se garantice mediante depósito la cantidad que se cobra, ante la Secretaría de Finanzas, Inversión y Administración.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTICULO 94], P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -1368,3 +1368,9 @@ Artículo Segundo.- El Ejecutivo del Estado y los ayuntamientos expedirán los r
 P.O. 11 DE SEPTIEMBRE DE 2012.
 
 Único.- El presente Decreto entrará en vigor al cuarto día siguiente a su publicación en el Periódico Oficial, del Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
