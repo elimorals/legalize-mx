@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-profesiones-para-el-estado-de-guanajuato-48160"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2010-12-24"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el martes 20 de diciembre de 2005.
 
@@ -617,7 +617,9 @@ I. Los presidentes de todos los colegios estatales por profesión, con voz y vot
 
 II. El Secretario de Educación del Estado, con voz y sin derecho a voto, y
 
-III. El Rector de la Universidad de Guanajuato, con voz y sin derecho a voto.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+III. El Rector General de la Universidad de Guanajuato, con voz y sin derecho a voto.
 
 El Consejo será presidido por uno de los presidentes de los colegios estatales por profesión y contará con un secretario técnico, quien será el titular de la Unidad Administrativa referida en el párrafo primero del artículo 11, el que tendrá derecho a voz pero no a voto en las reuniones del mismo.
 
@@ -1198,3 +1200,9 @@ P.O. 24 DE DICIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
