@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-cultura-fisica-y-deporte-28581"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-24"
-last_updated: "2012-04-09"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, PUBLICADA EN EL D.O.F. DE 7 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADA.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de febrero de 2003.
 
@@ -1533,3 +1535,29 @@ DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 108 Y 138 DE LA LEY GENERAL DE CUL
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, el Ejecutivo Federal publicará las reformas correspondientes al Reglamento de la Ley General de Cultura Física y Deporte, a efecto de ajustarlo a los términos del mismo.
+
+D.O.F. 7 DE JUNIO DE 2013.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley General de Cultura Física y Deporte, publicada en el Diario Oficial de la Federación el veinticuatro de febrero de dos mil tres, y se derogan todas las disposiciones jurídicas que contravengan la presente Ley.
+
+En cuanto a las disposiciones legales y reglamentarias que se refieren a la CODEME, se ajustarán a las previsiones señaladas en la presente Ley.
+
+Tercero. El Reglamento y demás disposiciones reglamentarias a que se refiere esta Ley deberán expedirse dentro de los seis meses siguientes a la entrada en vigor de la Ley.
+
+Cuarto. En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan.
+
+Quinto. En todo lo previsto en la presente Ley para la Secretaría de la Función Pública, se estará a lo dispuesto en el artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el dos de enero de dos mil trece.
+
+Sexto. La CONADE desarrollará las nuevas atribuciones que le confiere la presente Ley con los recursos humanos, financieros y materiales con los que cuenta actualmente.
+
+Séptimo. Las modificaciones necesarias al Estatuto Orgánico de la CONADE se harán dentro de los tres meses siguientes a la entrada en vigor de la Ley y deberá inscribirse en el Registro Público de organismos descentralizados.
+
+Octavo. La CAAD se ajustará a los recursos humanos, financieros y materiales con los que cuenta actualmente. Respecto del periodo de duración del Presidente y Miembros Titulares que actualmente integran la CAAD, éste se contabilizará a partir de la fecha en la que fueron designados.
+
+Noveno. Todos los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubiesen iniciado bajo la vigencia de la Ley General de Cultura Física y Deporte, se tramitarán y resolverán conforme a las disposiciones de la Ley que se abroga.
+
+Décimo. Para los efectos de la integración y actualización del Registro Nacional de Cultura Física y Deporte de conformidad con el artículo 30, fracción XIII de la Ley, las Asociaciones Deportivas Nacionales reconocidas en los términos de la presente Ley, deberán acreditar en un plazo no mayor de ciento ochenta días naturales, que cumplen con lo dispuesto en el artículo 54 de esta Ley.
+
+Décimo Primero. Para los efectos de lo establecido en la presente Ley las autoridades competentes ajustarán su legislación dentro del primer año siguiente a la entrada en vigor del presente Decreto.
