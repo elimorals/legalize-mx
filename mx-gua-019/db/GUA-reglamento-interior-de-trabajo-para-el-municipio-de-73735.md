@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-trabajo-para-el-municipio-de-73735"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-19"
-last_updated: "2010-02-19"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE TRABAJO PARA EL MUNICIPIO DE JERECUARO, GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE TRABAJO PARA EL MUNICIPIO DE JERÉCUARO, GUANAJUATO, PUBLICADO EN EL P.O. DE 7 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de febrero de 2010.
 
@@ -390,3 +392,13 @@ PRESIDENTE MUNICIPAL
 LIC. JUDITH ORTEGA CASAS
 
 SECRETARIA DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Trabajo Para el Municipio de Jerécuaro, Guanajuato publicado en el Periódico Oficial de Gobierno del Estado en su número 29 segunda parte de fecha 19 de febrero 2010.
+
+Artículo Tercero.- Se derogan las disposiciones administrativas municipales que se opongan al presente acuerdo.
