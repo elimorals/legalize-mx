@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-justicia-para-adolescentes-del-estado-de-guanajuato-5137
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-01"
-last_updated: "2010-09-03"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de agosto de 2006.
 
@@ -77,7 +77,9 @@ II. Centro de Internación: el lugar especializado donde los adolescentes cumple
 
 III. Código de Procedimientos Penales: el Código de Procedimientos Penales para el Estado de Guanajuato;
 
-IV. Código Penal: el Código Penal para el Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+IV. Código Penal: el Código Penal del Estado de Guanajuato;
 
 V. Comité Auxiliar Técnico: el órgano auxiliar del juez para adolescentes, encargado de emitir opinión biosicosocial del adolescente;
 
@@ -201,17 +203,21 @@ En caso necesario la defensa la asumirá el Defensor de Oficio ordinario y a la 
 
 La Defensoría de Oficio Especializada contará con el número de defensores de oficio especializados que requieran las necesidades del servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 12.
 
-Para ser Defensor de Oficio Especializado, además de reunir los requisitos previstos por la Ley de la Defensoría de Oficio en Materia Penal, se requiere cumplir con los siguientes:
+Para ser defensor de oficio especializado, además de reunir los requisitos previstos por la Ley de la Defensoría Pública Penal del Estado de Guanajuato, se requiere cumplir con los siguientes:
 
 l. Contar con capacitación en materia de adolescentes; y
 
 II. No haber sido condenado por delito de carácter intencional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 13.
 
-Los defensores de oficio especializados tendrán adicionalmente a las facultades y obligaciones previstas en la Ley de la Defensoría de Oficio en Materia Penal para los Defensores de Oficio, las siguientes:
+Los defensores de oficio especializados tendrán adicionalmente a las facultades y obligaciones previstas en la Ley de la Defensoría Pública Penal del Estado de Guanajuato para los defensores de oficio, las siguientes:
 
 l. En cualquier fase del procedimiento:
 
@@ -279,11 +285,13 @@ a) Cumplir con la intervención que esta Ley le otorga en la ejecución de las m
 
 b) Asistir al adolescente en aquellos casos en los que una decisión de la autoridad ejecutora, modifique su situación jurídica o ponga en riesgo alguno de sus derechos o garantías.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 14.
 
-La Defensoría de Oficio Especializada, además de lo dispuesto en este capítulo, aplicará, en lo conducente, las disposiciones previstas en la Ley de la Defensoría de Oficio en Materia Penal en lo que no se oponga a esta Ley.
+La Defensoría de Oficio Especializada, además de lo dispuesto en este capítulo, aplicará, en lo conducente, las disposiciones previstas en la Ley de la Defensoría Pública Penal del Estado de Guanajuato en lo que no se oponga a esta ley.
 
-Para el cumplimiento de sus funciones la Defensoría de Oficio Especializada se auxiliará del cuerpo de peritos adscrito a la Defensoría de Oficio en Materia Penal.
+Para el cumplimiento de sus funciones la Defensoría de Oficio Especializada se auxiliará del cuerpo de peritos adscrito a la Defensoría Pública Penal.
 
 ### CAPÍTULO IV. Órganos Judiciales Especializados en Impartición de Justicia para Adolescentes
 
@@ -1109,11 +1117,11 @@ XI. El nombre y la firma del Juez para Adolescentes que la emita y del Secretari
 
 Cuando se trate de conductas consideradas como graves en el artículo 26 A de esta Ley o en otras leyes que deban aplicar los tribunales del Estado, se dictará auto de formal internamiento preventivo sólo cuando su probable autor o partícipe sea un adolescente mayor de catorce años de edad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 81.
 
-En los casos de conductas consideradas como delitos no graves en el Código Penal para el Estado de Guanajuato o en otras leyes que deban aplicar los tribunales del Estado, o que siéndolo se realicen por un adolescente que tenga entre doce y catorce años de edad, se pronunciará sólo auto de sujeción a proceso y se dictarán una o algunas de las siguientes medidas cautelares, según resulte pertinente:
+En los casos de conductas consideradas como delitos no graves en el Código Penal o en otras leyes que deban aplicar los tribunales del Estado, o que siéndolo se realicen por un adolescente que tenga entre doce y catorce años de edad, se pronunciará sólo auto de sujeción a proceso y se dictarán una o algunas de las siguientes medidas cautelares, según resulte pertinente:
 
 l. Prohibición de acercarse a la víctima o a otras personas, de concurrir a determinados lugares, o de tener contacto con personas determinadas; y
 
@@ -1189,9 +1197,9 @@ IV. Las consideraciones, motivos y fundamentos legales en los que se sustenten l
 
 V. Los puntos resolutivos, en los cuales se precisarán las decisiones asumidas en las consideraciones. Cuando se declare que no quedó comprobada la conducta típica o la plena autoría o participación del adolescente sujeto a formal internamiento preventivo, se ordenará que sea entregado a sus padres, tutores o quienes ejerzan la patria potestad o la custodia, y a falta de éstos, a la institución que legalmente pueda acogerlo;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-VI. La orden de restitución de la cosa obtenida por la conducta tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, así como el decomiso o destrucción de objetos o instrumentos, en los casos en que proceda de acuerdo al Código Penal para el Estado de Guanajuato o en otras leyes que deban aplicar los tribunales del Estado; y
+VI. La orden de restitución de la cosa obtenida por la conducta tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, así como el decomiso o destrucción de objetos o instrumentos, en los casos en que proceda de acuerdo al Código Penal o en otras leyes que deban aplicar los tribunales del Estado; y
 
 VII. El nombre y la firma del Juez para Adolescentes que la emita y la del secretario que dé fe.
 
@@ -1822,3 +1830,9 @@ Artículo Segundo. Las autoridades e instituciones del Estado, a más tardar el 
 Artículo Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
 
 Artículo Cuarto. A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
