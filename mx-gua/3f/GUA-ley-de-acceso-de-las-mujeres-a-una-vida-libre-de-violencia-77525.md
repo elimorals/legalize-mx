@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2012-12-04"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -167,39 +167,45 @@ Programa Estatal
 
 El Sistema Estatal contará con un Consejo Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, como órgano de dirección.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 Integración del Consejo Estatal
 
 ###### Artículo 10.
 
 El Consejo Estatal tendrá a su cargo la coordinación de las acciones del Sistema Estatal y estará integrado por:
 
-I. El titular de la Secretaría de Desarrollo Social y Humano, quien presidirá el Consejo;
+I. Una ciudadana designada por el Gobernador del Estado, quien presidirá el Consejo;
 
-II. El titular de la Secretaría de Gobierno;
+II. El titular de la Secretaría de Desarrollo Social y Humano;
 
-III. El titular de la Secretaría de Seguridad Pública;
+III. El titular de la Secretaría de Gobierno;
 
-IV. El titular de la Secretaría de Educación;
+IV. El titular de la Secretaría de Seguridad Pública;
 
-V. El titular de la Secretaría de Salud;
+V. El titular de la Secretaría de Educación;
 
-VI. El titular de la Secretaría de la Gestión Pública;
+VI. El titular de la Secretaría de Salud;
 
-VII. El titular de la Procuraduría General de Justicia;
+VII. El titular de la Secretaría de la Transparencia y Rendición de Cuentas;
 
-VIII. El titular del Instituto de la Mujer Guanajuatense, quien ocupará la Secretaría Ejecutiva del Consejo;
+VIII. El titular de la Procuraduría General de Justicia;
 
-IX. El titular del Instituto de la Juventud Guanajuatense;
+IX. El titular del Instituto de la Mujer Guanajuatense, quien ocupará la Secretaría Ejecutiva del Consejo;
 
-X. El titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
+X. El titular del Instituto de la Juventud Guanajuatense;
 
-XI. El titular de la Procuraduría de los Derechos Humanos;
+XI. El titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
 
-XII. Cuatro representantes de los municipios, por lo menos; y
+XII. El titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
 
-XIII. Dos representantes de Organizaciones No Gubernamentales especializadas en la protección de los derechos humanos de las mujeres.
+XIII. Cuatro representantes de los municipios, por lo menos; y
 
-Los integrantes a que se refieren las fracciones XII y XIII de este artículo, durarán en su encargo tres años, y su designación se realizará de conformidad con los mecanismos que establezca el reglamento del Sistema Estatal.
+XIV. Dos representantes de Organizaciones No Gubernamentales especializadas en la protección de los derechos humanos de las mujeres.
+
+Cuando acuda el Gobernador del Estado, éste asumirá la presidencia y la ciudadana presidenta fungirá como vocal; ambos conservarán el derecho a voz y voto.
+
+Los integrantes a que se refieren las fracciones I, XIII y XIV de este artículo, durarán en su encargo tres años, y su designación se realizará de conformidad con los mecanismos que establezca el reglamento del Sistema Estatal.
 
 Por cada integrante del Consejo Estatal habrá un suplente quien lo cubrirá en sus ausencias.
 
@@ -465,9 +471,11 @@ XI. Las demás previstas para el cumplimiento de esta Ley.
 
 Facultades del Secretario de Salud
 
-#### Sección Séptima. Facultades del titular de la Secretaría de la Gestión Pública
+#### Sección Séptima. Facultades del titular de la Secretaría de la Transparencia y Rendición de Cuentas
 
-Facultades del Secretario de la Gestión Pública
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Facultades del titular de la Secretaría de la Transparencia y Rendición de Cuentas
 
 #### Sección Octava. Facultades del titular de la Procuraduría General de Justicia
 
@@ -497,13 +505,15 @@ IX. Brindar atención de emergencia y, canalizar en su caso a las víctimas, a l
 
 X. Las demás previstas para el cumplimiento de esta Ley.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
+
 #### Sección Novena. Facultades del titular del Instituto de la Mujer Guanajuatense
 
 Facultades del titular del IMUG
 
 ###### Artículo 22.
 
-El titular de la Secretaría de la Gestión Pública ejercerá las siguientes facultades:
+El titular de la Secretaría de la Transparencia y Rendición de Cuentas ejercerá las siguientes facultades:
 
 I. Fomentar la cultura de la denuncia respecto de los actos de violencia en el ámbito institucional;
 
@@ -964,3 +974,9 @@ Artículo Segundo. La Procuraduría General de Justicia del Estado, deberá real
 Previsión presupuestal
 
 Artículo Tercero. El Ejecutivo del Estado preverá los recursos presupuestales para la adecuación del Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres derivado de la entrada en vigor del presente decreto.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
