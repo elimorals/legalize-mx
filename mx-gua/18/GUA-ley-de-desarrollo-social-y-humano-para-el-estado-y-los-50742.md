@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-desarrollo-social-y-humano-para-el-estado-y-los-50742"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-02"
-last_updated: "2009-09-04"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de junio de 2006.
 
@@ -327,9 +327,11 @@ El Titular del Poder Ejecutivo del Estado y los ayuntamientos, en sus respectivo
 
 ### CAPÍTULO II. De la Planeación, programación y presupuestación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 13.
 
-La planeación del desarrollo social y humano del Estado incluirá los programas estatales derivados del Plan de Gobierno del Estado y del Plan Estatal de Desarrollo, ajustándose a lo dispuesto en la Ley de Planeación para el Estado de Guanajuato.
+La planeación del desarrollo social y humano del Estado incluirá los programas estatales derivados del Programa de Gobierno del estado y del Plan Estatal de Desarrollo, ajustándose a lo dispuesto en la Ley de Planeación para el Estado de Guanajuato.
 
 La misma obligación tendrán los ayuntamientos en lo conducente, respecto de los programas municipales derivados de los Planes de Gobierno Municipal y Planes Municipales de Desarrollo.
 
@@ -437,7 +439,9 @@ l. Estará orientada a la promoción de un desarrollo regional y microregional e
 
 II. Se basará en indicadores medibles y verificables de los servicios sociales, y
 
-III. En el caso de los recursos estatales transferidos a los municipios, deberán observarse las Reglas de Operación que emita la Secretaría, los Lineamientos Generales expedidos por la Secretaría de Finanzas y Administración, así como lo establecido en la Ley del Presupuesto General de Egresos correspondiente.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+III. En caso de los recursos estatales transferidos a los municipios, deberán observarse las reglas de operación que emita la Secretaría, los lineamientos generales expedidos por la Secretaría de Finanzas, Inversión y Administración, así como lo establecido en la Ley del Presupuesto General de Egresos correspondiente.
 
 ###### Artículo 18.
 
@@ -711,7 +715,9 @@ La evaluación será interna o externa, misma que se le deberá dar publicidad.
 
 Los servidores públicos que contravengan las disposiciones de esta Ley, serán sancionados de conformidad con la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, sin perjuicio de las demás responsabilidades a que haya lugar en el ejercicio de sus funciones.
 
-Los ciudadanos y los servidores públicos deberán denunciar ante la Secretaría de la Gestión Pública o las Contralorías Municipales, según corresponda, las acciones y omisiones que tengan conocimiento que presumiblemente constituyan irregularidades o impliquen incumplimiento a lo dispuesto por esta Ley.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Los ciudadanos y los servidores públicos deberán denunciar ante la Secretaría de la Transparencia y Rendición de Cuentas o las Contralorías Municipales, según corresponda, las acciones y omisiones que tengan conocimiento que presumiblemente constituyan irregularidades o impliquen incumplimiento a lo dispuesto por esta Ley.
 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -748,3 +754,9 @@ P.O. 4 DE SEPTIEMBRE DE 2009.
 Artículo Primero. El presente decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. En un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente decreto, deberá quedar constituido e instalado el Registro Estatal de Organizaciones de la Sociedad.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
