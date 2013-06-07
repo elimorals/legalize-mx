@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-administrativas-de-los-servidores-4483
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-10"
-last_updated: "2012-09-11"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley Publicada en el Periódico Oficial del Estado de Guanajuato, el martes 10 de mayo de 2005.
 
@@ -79,17 +79,19 @@ V.- Los Ayuntamientos, y
 
 VI.- Las Dependencias y Entidades de la Administración Pública Estatal o Municipal.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 4.
 
-A los servidores públicos de la Administración Pública Estatal se les instaurará y sustanciará el procedimiento de responsabilidad administrativa previsto en esta Ley y se les aplicarán las sanciones que correspondan, por conducto de la Secretaría de la Gestión Pública, con las salvedades establecidas en este artículo.
+A los servidores públicos de la administración pública estatal se les instaurará y sustanciará el procedimiento de responsabilidad administrativa previsto en esta ley y se les aplicarán las sanciones que correspondan, por conducto de la Secretaría de la Transparencia y Rendición de Cuentas, con las salvedades establecidas en este artículo.
 
-El Gobernador del Estado instaurará y sustanciará el procedimiento de responsabilidad administrativa y aplicará las sanciones respectivas al titular de la Secretaría de la Gestión Pública.
+El Gobernador del Estado instaurará y sustanciará el procedimiento de responsabilidad administrativa y aplicará las sanciones respectivas al titular de la Secretaría de la Transparencia y Rendición de Cuentas.
 
-Los titulares de las Dependencias y Entidades podrán instaurar, sustanciar y resolver el procedimiento de responsabilidad administrativa, así como aplicar las sanciones correspondientes, cuando se trate de faltas administrativas detectadas por dichas Dependencias o Entidades, informando en todo momento a la Secretaría de la Gestión Pública de la instauración, sustanciación y conclusión del mismo.
+Los titulares de las dependencias y entidades podrán instaurar, sustanciar y resolver el procedimiento de responsabilidad administrativa, así como aplicar las sanciones correspondientes, cuando se trate de faltas administrativas detectadas por dichas dependencias o entidades, informando en todo momento a la Secretaría de la Transparencia y Rendición de Cuentas de la instauración, sustanciación y conclusión del mismo.
 
-La Secretaría de la Gestión Pública, sin perjuicio de lo establecido en el párrafo anterior, podrá atraer el conocimiento de aquellos asuntos que por su naturaleza revistan interés para la Administración Pública Estatal.
+La Secretaría de la Transparencia y Rendición de Cuentas, sin perjuicio de lo establecido en el párrafo anterior, podrá atraer el conocimiento de aquellos asuntos que por su naturaleza revistan interés para la administración pública estatal.
 
-Cuando la Secretaría de la Gestión Pública ejerza la facultad de atracción, los titulares de las Dependencias y Entidades deberán remitir a aquélla, en un término de diez días hábiles, un informe de los antecedentes del asunto y de todo lo actuado.
+Cuando la Secretaría de la Transparencia y Rendición de Cuentas ejerza la facultad de atracción, los titulares de las dependencias y entidades deberán remitir a aquélla, en un término de diez días hábiles, un informe de los antecedentes del asunto y de todo lo actuado.
 
 ###### Artículo 5.
 
@@ -143,7 +145,9 @@ IV.- Cuidar y usar los recursos públicos con probidad y en la forma prevista po
 
 V.- Custodiar la documentación e información que conserve o a la que tenga acceso, por razón de su empleo, cargo o comisión, así como evitar e impedir el uso, sustracción, destrucción u ocultamiento indebidos de aquélla;
 
-VI.- Respetar el derecho de acceso a la información pública en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VI.- Respetar el derecho de acceso a la información pública en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato;
 
 VII.- Guardar el orden en el trabajo y tratar con respeto, diligencia, imparcialidad y rectitud a todas aquellas personas con las que tenga relación en el desempeño de éste;
 
@@ -279,11 +283,13 @@ La destitución consiste en la separación definitiva del empleo, cargo o comisi
 
 La inhabilitación consiste en el impedimento absoluto para volver a ejercer un empleo, cargo o comisión en el servicio público, durante la temporalidad que decrete la resolución del procedimiento de responsabilidad administrativa.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 19.
 
-En el caso del Poder Ejecutivo, cuando la Secretaría de la Gestión Pública imponga las sanciones de suspensión, destitución e inhabilitación, notificará éstas al titular de la Dependencia o Entidad para que proceda a su ejecución.
+En el caso del Poder Ejecutivo, cuando la Secretaría de la Transparencia y Rendición de Cuentas imponga las sanciones de suspensión, destitución e inhabilitación, notificará éstas al titular de la dependencia o entidad para que proceda a su ejecución.
 
-Cuando el titular de la Dependencia o Entidad se niegue a ejecutar las sanciones, la Secretaría de la Gestión Pública lo hará en rebeldía, sin perjuicio de la responsabilidad en que incurra aquél.
+Cuando el titular de la dependencia o entidad se niegue a ejecutar las sanciones, la Secretaría de la Transparencia y Rendición de Cuentas lo hará en rebeldía, sin perjuicio de la responsabilidad en que incurra aquél.
 
 ### CAPÍTULO III. DE LA INDIVIDUALIZACIÓN DE LAS SANCIONES ADMINISTRATIVAS
 
@@ -373,9 +379,9 @@ III.- Destitución e inhabilitación, pudiendo aplicar ésta última hasta por d
 
 Los Poderes del Estado, los Organismos Autónomos, los Ayuntamientos y las Dependencias y Entidades de la Administración Pública Estatal o Municipal, a través de sus órganos de control, harán la inscripción de sancionados en su respectivo registro de antecedentes disciplinarios.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-Dichas autoridades deberán comunicarse entre sí, para integrar el registro estatal único de los servidores públicos a cargo de la Secretaría de la Gestión Pública que incluirá los registros relativos a las personas sancionadas así como la cancelación de sus inscripciones, y expedirá a solicitud de los propios interesados y de las autoridades ministeriales o judiciales, así como de las áreas de recursos humanos, las constancias respectivas.
+Dichas autoridades deberán comunicarse entre sí, para integrar el registro estatal único de los servidores públicos a cargo de la Secretaría de la Transparencia y Rendición de Cuentas que incluirá los registros relativos a las personas sancionadas así como la cancelación de sus inscripciones, y expedirá a solicitud de los propios interesados y de las autoridades ministeriales o judiciales, así como de las áreas de recursos humanos, las constancias respectivas.
 
 Los jueces penales que impongan a servidores públicos la pena de inhabilitación para ocupar puestos públicos deberán comunicarlo al órgano de control interno que corresponda, según la adscripción del servidor público, para efectos del registro de la misma.
 
@@ -872,3 +878,9 @@ Artículo Segundo.- Las responsabilidades y sanciones administrativas por conduc
 Artículo Tercero.- A partir de la entrada en vigencia de la presente reforma, las autoridades referidas en el artículo 3 de esta Ley deberán remitir la información necesaria a la Secretaría de la Gestión Pública para integrar el registro estatal único de los servidores públicos.
 
 Artículo Cuarto.- A partir del 1 de enero de 2013 la Secretaría de la Gestión Pública deberá contar con el registro estatal único de los servidores públicos.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
