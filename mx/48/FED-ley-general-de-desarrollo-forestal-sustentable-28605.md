@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-desarrollo-forestal-sustentable-28605"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-25"
-last_updated: "2013-05-20"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 25 de febrero de 2003.
 
@@ -1144,7 +1144,9 @@ VII. Los decretos que establezcan vedas forestales;
 
 VIII. Los actos de transferencia de dominio, uso, usufructo o prestación de servicios que involucren recursos forestales, programas de manejo forestal, de manejo de plantaciones forestales comerciales y avisos de forestación;
 
-IX. Las autorizaciones de funcionamiento de centros de almacenamiento y transformación de materias primas forestales, y
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+IX. Las autorizaciones de funcionamiento de centros de almacenamiento y transformación, además de los centros de transformación móviles de materias primas forestales, y
 
 X. Los demás actos y documentos que se señalen en el Reglamento de esta Ley.
 
@@ -1276,9 +1278,15 @@ X. Dar aviso inmediato a la Secretaría cuando detecten la presencia de plagas y
 
 XI. Llevar un libro para registrar el movimiento de sus productos, cuyas características serán fijadas por la Secretaría;
 
-XII. Ejecutar trabajos para prevenir, combatir y controlar incendios forestales en los términos de la presente Ley, y
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2013)</small>
 
-XIII. Las demás establecidas en la presente Ley y su Reglamento.
+XII. Ejecutar trabajos para prevenir, combatir y controlar incendios forestales en los términos de la presente Ley;
+
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+XIII. Dar aviso de los centros de transformación móviles, que en su caso se utilicen, y
+
+XIV. Las demás establecidas en la presente Ley y su Reglamento.
 
 ###### ARTICULO 63.
 
@@ -1734,9 +1742,11 @@ El Fondo promoverá la emisión de bonos que acrediten la conservación de los r
 
 Quienes realicen el transporte de las materias primas forestales, sus productos y subproductos, incluida madera aserrada o con escuadria, con excepción de aquellas destinadas al uso doméstico, deberán acreditar su legal procedencia con la documentación que para tal efecto expidan las autoridades competentes, de acuerdo con lo previsto en el Reglamento, normas oficiales mexicanas o demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 116.
 
-Para el funcionamiento de centros de almacenamiento y transformación de materias primas forestales, se requiere de autorización de la Secretaría de acuerdo con los requisitos y procedimientos previstos en el Reglamento o en las normas oficiales mexicanas que para tal efecto se expidan, los que comprenderán aspectos relacionados con contratos, cartas de abastecimiento, balances oferta-demanda, libros de registro de entradas y salidas, inscripciones en el Registro, entre otros. Lo anterior, con independencia de las licencias, autorizaciones o permisos que deban otorgar las autoridades locales.
+Para el funcionamiento de centros de almacenamiento y transformación, además de los centros de transformación móviles de materias primas forestales, se requiere de autorización de la Secretaría de acuerdo con los requisitos y procedimientos previstos en el Reglamento o en las normas oficiales mexicanas que para tal efecto se expidan, los que comprenderán aspectos relacionados con contratos, cartas de abastecimiento, balances oferta-demanda, libros de registro de entradas y salidas, inscripciones en el Registro, entre otros. Lo anterior, con independencia de las licencias, autorizaciones o permisos que deban otorgar las autoridades locales.
 
 ## TITULO QUINTO. DE LAS MEDIDAS DE CONSERVACION FORESTAL
 
@@ -1940,9 +1950,15 @@ Lo dispuesto en el artículo anterior, será aplicable con independencia de que 
 
 De igual forma, se entenderá sin perjuicio de las sanciones administrativas que en su caso procedan y de las sanciones o penas en que incurran los responsables, de conformidad con las disposiciones legales aplicables.
 
-En el caso de que se ocasionen daños a los recursos forestales, al medio ambiente, a sus ecosistemas o componentes, el responsable deberá cubrir la indemnización económica correspondiente, previa cuantificación de los daños, sin perjuicio de la aplicación de las sanciones administrativas o legales que procedan conforme a esta ley y demás disposiciones legales aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Los jueces podrán calcular el monto a pagar por concepto de pago por daños ocasionados a los ecosistemas o a terceros con base en lo dispuesto por la legislación aplicable.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+Toda persona física o moral que ocasione directa o indirectamente un daño a los recursos forestales, los ecosistemas y sus componentes, estará obligada a repararlo o compensarlo, de conformidad con lo dispuesto en la Ley Federal de Responsabilidad Ambiental.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 7 DE JUNIO DE 2013)</small>
 
 ## TITULO SEXTO. DEL FOMENTO AL DESARROLLO FORESTAL
 
@@ -2004,7 +2020,9 @@ XV. El establecimiento de programas de apoyo a largo plazo que contemplen todas 
 
 XVI. La planeación y construcción de infraestructura forestal;
 
-XVII. El desarrollo y aplicación de sistemas de extracción y aprovechamiento y el fomento que aumenten productividad y minimicen los impactos al ecosistema y promuevan la conservación y mejoramiento del bosque, el agua y el suelo;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+XVII. El desarrollo y aplicación de sistemas de extracción y aprovechamiento, mediante el uso de equipo tecnológico que incremente la productividad y minimicen los impactos al ecosistema y promuevan la conservación y mejoramiento del bosque, el agua y el suelo;
 
 XVIII. El desarrollo de mecanismos especiales de financiamiento promocional que tomen en cuenta el largo plazo de formación del producto forestal, las bajas tasas de interés generadas por su lento crecimiento y los riesgos de su producción;
 
@@ -2479,3 +2497,19 @@ D.O.F. 20 DE MAYO DE 2013.
 Artículo Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo. En un plazo no mayor a 180 días hábiles posteriores a la entrada en vigor del presente Decreto el titular del Poder Ejecutivo Federal deberá realizar las adecuaciones correspondientes al Reglamento de la Ley General de Desarrollo Forestal Sustentable.
+
+D.O.F. 7 DE JUNIO DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL PÁRRAFO TERCERO Y SE DEROGA EL PÁRRAFO CUARTO DEL ARTÍCULO 136, DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
+
+D.O.F. 7 DE JUNIO DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 51, FRACCIÓN IX; 116 Y 139, FRACCIÓN XVII; Y SE ADICIONA UNA FRACCIÓN XIII, RECORRIÉNDOSE LA SIGUIENTE AL ARTÍCULO 62, TODOS DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
