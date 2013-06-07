@@ -4,7 +4,7 @@ identifier: "GUA-ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica-401
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-09"
-last_updated: "2012-09-11"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el día 9 de julio de 2004.
 
@@ -223,7 +223,9 @@ Cuando las leyes requieran que una información o documento sea presentado y con
 
 Para los efectos de la presente Ley, serán autoridades certificadoras en su respectivo ámbito de competencia:
 
-I.- La Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I.- La Secretaría de Finanzas. Inversión y Administración;
 
 II.- El Poder Legislativo;
 
@@ -247,9 +249,11 @@ IV.- Colaborar en el desarrollo de sistemas informáticos internos y externos pa
 
 V.- Las demás que les otorgue esta Ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 24.
 
-El Poder Legislativo, el Poder Judicial, los Organismos Autónomos y los Ayuntamientos, podrán celebrar convenios de colaboración con la Secretaría de Finanzas y Administración para el ejercicio de las atribuciones a que se refiere esta Ley.
+El Poder Legislativo, el Poder Judicial, los Organismos Autónomos y los Ayuntamientos, podrán celebrar convenios de colaboración con la Secretaría de Finanzas, Inversión y Administración para el ejercicio de las atribuciones a que se refiere esta Ley.
 
 ###### Artículo 25.
 
@@ -321,7 +325,9 @@ VI.- Antes de expedir un certificado de firma electrónica, informar en español
 
 VII.- Conservar registrada toda la información y documentación relativa a un certificado de firma electrónica, durante quince años;
 
-VIII.- En el caso de las dependencias o entidades de la administración pública estatal, facilitar a la Secretaría de Finanzas y Administración, toda la información y los medios precisos para el ejercicio de sus funciones y permitir a sus agentes o al personal inspector el acceso a sus instalaciones y la consulta de cualquier documentación relevante para la inspección de que se trate, referida siempre a datos que conciernan a la autoridad certificadora; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VIII.- En el caso de las dependencias o entidades de la administración pública estatal, facilitar a la Secretaría de Finanzas, Inversión y Administración, toda la información y los medios precisos para el ejercicio de sus funciones y permitir a sus agentes o al personal inspector el acceso a sus instalaciones y la consulta de cualquier documentación relevante para la inspección de que se trate, referida siempre a datos que conciernan a la autoridad certificadora; y
 
 IX.- Cumplir con las demás obligaciones que deriven de ésta y otras leyes y demás disposiciones jurídicas aplicables.
 
@@ -425,9 +431,11 @@ IV.- Actualizar los datos contenidos en el certificado de firma electrónica.
 
 ### CAPÍTULO OCTAVO. DISPOSICIONES COMPLEMENTARIAS
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 41.
 
-Por virtud de la aplicación de la presente Ley, en contra de los actos o resoluciones de la administración pública estatal o municipal, procederá el juicio de nulidad en la forma y términos señalados en la Ley de Justicia Administrativa del Estado de Guanajuato.
+Por virtud de la aplicación de la presente Ley, en contra de los actos o resoluciones de la administración pública estatal o municipal, procederá el juicio de nulidad en la forma y términos señalados en el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 ###### Artículo 42.
 
@@ -486,3 +494,9 @@ P.O. 11 DE SEPTIEMBRE DE 2012.
 Artículo Primero. El presente Decreto entrará en vigor el uno de enero del año dos mil trece, previa su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Tribunal de lo Contencioso Administrativo preverá en su anteproyecto de presupuesto para el ejercicio 2013, la partida para la implementación tecnológica a efecto de operar las notificaciones por correo electrónico.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
