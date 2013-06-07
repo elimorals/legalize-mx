@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2012-06-06"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -1270,29 +1270,43 @@ Se crearán, de conformidad con lo establecido en el reglamento, Comités Mixtos
 
 ### CAPÍTULO II. DAÑOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 106.
 
-Sin perjuicio de las demás disposiciones aplicables, toda persona que cause daños a la vida silvestre o su hábitat, en contravención de lo establecido en la presente Ley o en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, estará obligada a repararlos en los términos del Código Civil para el Distrito Federal en materia del Fuero Común y para toda la República en materia del Fuero Federal, así como en lo particularmente previsto por la presente Ley y el reglamento.
+Sin perjuicio de las demás disposiciones aplicables, toda persona física o moral que ocasione directa o indirectamente un daño a la vida silvestre o a su hábitat, está obligada a repararlo o compensarlo de conformidad a lo dispuesto por la Ley Federal de Responsabilidad Ambiental.
 
 Los propietarios y legítimos poseedores de los predios, así como los terceros que realicen el aprovechamiento, serán responsables solidarios de los efectos negativos que éste pudiera tener para la conservación de la vida silvestre y su hábitat.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 107.
 
-Cualquier persona física o moral podrá denunciar ante la Procuraduría Federal de Protección al Ambiente daños a la vida silvestre y su hábitat sin necesidad de demostrar que sufre una afectación personal y directa en razón de dichos daños.
+Cualquier persona podrá denunciar a la Procuraduría Federal de Protección al Ambiente los daños ocasionados a la vida silvestre o a su hábitat de los que tenga conocimiento.
 
 La Procuraduría Federal de Protección al Ambiente evaluará cuidadosamente la información presentada en la denuncia y, en caso de ser procedente, ejercerá de manera exclusiva la acción de responsabilidad por daño a la vida silvestre y su hábitat, la cual será objetiva y solidaria.
 
 En el caso de que el demandado sea algún órgano de la administración pública federal o una empresa de participación estatal mayoritaria, la acción de responsabilidad por daño a la vida silvestre y su hábitat, podrá ser ejercida por cualquier persona directamente ante el tribunal competente.
 
-Esta acción podrá ser ejercitada sin perjuicio de la acción indemnizatoria promovida por los directamente afectados y prescribirá a los cinco años contados a partir del momento en que se conozca el daño.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE MODIFICA LA LEY.</small>
 
 ###### Artículo 108.
 
-La reparación del daño para el caso de la acción de responsabilidad por daño a la vida silvestre y su hábitat, consistirá en el restablecimiento de las condiciones anteriores a la comisión de dicho daño y, en el caso de que el restablecimiento sea imposible, en el pago de una indemnización la cual se destinará, de conformidad con lo establecido en el reglamento, al desarrollo de programas, proyectos y actividades vinculados con la restauración, conservación y recuperación de especies y poblaciones, así como a la difusión, capacitación y vigilancia.
+(DEROGADO, D.O.F. 7 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE MODIFICA LA LEY.</small>
 
 ###### Artículo 109.
 
-Serán competentes para conocer de la acción de responsabilidad por daño a la vida silvestre y su hábitat los Juzgados de Distrito en materia civil, conforme a la competencia territorial que establezcan las disposiciones respectivas, regulándose el procedimiento conforme al Código Federal de Procedimientos Civiles.
+(DEROGADO, D.O.F. 7 DE JUNIO DE 2013)
 
 ### CAPÍTULO III. VISITAS DE INSPECCIÓN
 
@@ -1721,3 +1735,11 @@ c) El sistema, metodología o técnica de identificación, monitoreo y cuantific
 IV. El control de movimientos de inventario de ejemplares (ingresos, liberaciones, canalizaciones, nacimientos y defunciones) en el que se deberá indicar la cantidad, género y especie, así como señalar el sistema de marca utilizado y los datos de identificación individual, en el caso de especies de manejo intensivo.
 
 QUINTO. El contenido y alcances de la capacitación de responsables técnicos será determinada por la Secretaría en colaboración de la Comisión Nacional de Áreas Naturales Protegidas, el Instituto Nacional de Ecología y la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad.
+
+D.O.F. 7 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
