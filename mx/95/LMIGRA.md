@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2013-06-04"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -140,13 +140,17 @@ XXV. Remuneración: a las percepciones que reciban las personas en el territorio
 
 XXVI. Secretaría: a la Secretaría de Gobernación;
 
-XXVII. Situación migratoria: a la hipótesis en la que se ubica un extranjero en función del cumplimiento o incumplimiento de las disposiciones migratorias para su internación y estancia en el país. Se considera que el extranjero tiene situación migratoria regular cuando ha cumplido dichas disposiciones y que tiene situación migratoria irregular cuando haya incumplido con las mismas;
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2013)</small>
 
-XXVIII. Tarjeta de residencia: al documento que expide el Instituto con el que los extranjeros acreditan su situación migratoria regular de residencia temporal o permanente;
+XXVII. Servicio Profesional de Carrera Migratoria: al mecanismo que garantiza la igualdad de oportunidades para el ingreso, permanencia y desarrollo de los servidores públicos con cargos de confianza del Instituto.
 
-XXIX. Trámite migratorio: Cualquier solicitud o entrega de información que formulen las personas físicas y morales ante la autoridad migratoria, para cumplir una obligación, obtener un beneficio o servicio de carácter migratorio a fin de que se emita una resolución, así como cualquier otro documento que dichas personas estén obligadas a conservar, no comprendiéndose aquélla documentación o información que solo tenga que presentarse en caso de un requerimiento del Instituto, y
+XXVIII. Situación migratoria: a la hipótesis en la que se ubica un extranjero en función del cumplimiento o incumplimiento de las disposiciones migratorias para su internación y estancia en el país. Se considera que el extranjero tiene situación migratoria regular cuando ha cumplido dichas disposiciones y que tiene situación migratoria irregular cuando haya incumplido con las mismas;
 
-XXX. Visa: a la autorización que se otorga en una oficina consular que evidencia la acreditación de los requisitos para obtener una condición de estancia en el país y que se expresa mediante un documento que se imprime, adhiere o adjunta a un pasaporte u otro documento. La visa también se puede otorgar a través de medios y registros electrónicos pudiéndose denominar visa electrónica o virtual. La visa autoriza al extranjero para presentarse a un lugar destinado al tránsito internacional de personas y solicitar, según el tipo de visado su estancia, siempre que se reúnan los demás requisitos para el ingreso.
+XXIX. Tarjeta de residencia: al documento que expide el Instituto con el que los extranjeros acreditan su situación migratoria regular de residencia temporal o permanente;
+
+XXX. Trámite migratorio: Cualquier solicitud o entrega de información que formulen las personas físicas y morales ante la autoridad migratoria, para cumplir una obligación, obtener un beneficio o servicio de carácter migratorio a fin de que se emita una resolución, así como cualquier otro documento que dichas personas estén obligadas a conservar, no comprendiéndose aquélla documentación o información que solo tenga que presentarse en caso de un requerimiento del Instituto, y
+
+XXXI. Visa: a la autorización que se otorga en una oficina consular que evidencia la acreditación de los requisitos para obtener una condición de estancia en el país y que se expresa mediante un documento que se imprime, adhiere o adjunta a un pasaporte u otro documento. La visa también se puede otorgar a través de medios y registros electrónicos pudiéndose denominar visa electrónica o virtual. La visa autoriza al extranjero para presentarse a un lugar destinado al tránsito internacional de personas y solicitar, según el tipo de visado su estancia, siempre que se reúnan los demás requisitos para el ingreso.
 
 ###### Artículo 4.
 
@@ -340,11 +344,13 @@ VI. Recomendar la capacitación y la implementación de las medidas que se deriv
 
 VII. Las demás que le señale esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 25.
 
-Los servidores públicos del Instituto para su ingreso y permanencia deberán cursar y aprobar los programas de formación, capacitación y profesionalización, incluyendo normatividad en materia migratoria y derechos humanos, así como contar con la certificación a que hace referencia el artículo 23 de esta Ley.
+Los servidores públicos del Instituto para su ingreso, desarrollo y permanencia deberán cursar y aprobar los programas de formación, capacitación y profesionalización, incluyendo normatividad en materia migratoria y derechos humanos impartidos a través del Servicio Profesional de Carrera Migratoria, posterior a contar con la certificación a que hace referencia el artículo 23 de esta Ley.
 
-Los procedimientos para la selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia y promoción de los servidores públicos del Instituto serán establecidos en el Reglamento de esta Ley.
+Para la eficiencia y eficacia de la gestión migratoria, los procedimientos para la selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia y promoción de los servidores públicos del Instituto, así como los relativos a la organización y funcionamiento del Servicio Profesional de Carrera Migratoria, serán establecidos en el Reglamento de esta Ley.
 
 ### CAPÍTULO III. DE LAS AUTORIDADES AUXILIARES EN MATERIA MIGRATORIA
 
@@ -1629,3 +1635,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 4 DE JUNIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JUNIO DE 2013.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Dentro de un plazo de noventa días naturales, contados a partir de la vigencia de este Decreto, el Ejecutivo Federal publicará las modificaciones que sean necesarias.
