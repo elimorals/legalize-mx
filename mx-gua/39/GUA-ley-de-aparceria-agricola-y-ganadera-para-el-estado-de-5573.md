@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-aparceria-agricola-y-ganadera-para-el-estado-de-5573"
 country: "mx"
 rank: "ley"
 publication_date: "1972-03-05"
-last_updated: "1974-06-06"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE APARCERIA AGRICOLA Y GANADERA PARA EL ESTADO DE GUANAJUATO
 
-LEY DE APARCERIA AGRICOLA Y GANADERA DEL ESTADO DE GUANAJUATO
+LEY DE APARCERÍA AGRÍCOLA Y GANADERA DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1974.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley Publicada en Folleto Anexo al Periódico Oficial del Estado de Guanajuato, el 5 de marzo de 1972.
 
@@ -249,27 +249,9 @@ El cultivo de la tierra por el aparcerista, por sus familiares, o por medio de p
 
 El aparcerista deberá hacer valer la preferencia que se menciona en el artículo anterior dentro de juicio, sea como acción, o como excepción.
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1974)</small>
-
 ###### ARTICULO 28.
 
-Todo aquél que se encuentre comprendido dentro de los casos que enumera el artículo 9 de la presente Ley, tiene derecho de acudir ante el Departamento de Tierras y Quejas del Gobierno del Estado, en solicitud de que se le dé en aparcería, para cultivarla personalmente en la extensión y términos que el propio Departamento señale, y que en ningún caso podrá ser mayor de 6 hectáreas, cualquier porción de tierra que exceda de esa extensión y que al tiempo de la solicitud se encuentre sin cultivar o sin preparar para tal fin, al comenzar el ciclo agrícola correspondiente.
-
-Para los efectos del párrafo anterior, se concede acción popular.
-
-El Departamento de Tierras y Quejas concederá o denegará el otorgamiento de la aparcería, dentro del término de 3 días a partir de la presentación de la solicitud correspondiente, oyendo previamente al propietario o poseedor del predio, según sea el caso, a cuyo efecto girará el correspondiente citatorio, y sin otro trámite que la práctica de una inspección ocular para constatar que la tierra no se encuentra labrada ni preparada para la siembra; las partes podrán concurrir a dicha diligencia.
-
-La inasistencia del propietario o poseedor a la audiencia que se menciona en el párrafo anterior, o bien a la diligencia de inspección ocular, no será obstáculo para que las tierras se den en aparcería, si así procediere.
-
-El término del contrato de aparcería no podrá ser inferior a un ciclo agrícola, pero en tratándose de terrenos alzados o engramados se estará a lo dispuesto en el artículo 14 de esta Ley. En el reparto de la cosecha corresponderá el 70% al aparcero en terrenos de temporal y el 60% en tierras de riego.
-
-La resolución que pronuncie el Departamento de Tierras y Quejas del Gobierno, se notificará personalmente a las partes en el domicilio que tengan señalado en esta ciudad capital, en caso contrario la notificación se hará por rotulón; la determinación se ejecutará desde luego en forma provisional, de ser positiva, diligencia que podrá encomendarse a las autoridades municipales. En contra de dichas resoluciones procederá el recurso de revisión ante el Ejecutivo del Estado, que deberá interponerse con la expresión de agravios respectiva en el acto de la notificación o dentro de los tres días siguientes. El Gobernador del Estado pronunciará su resolución dentro de un término no mayor de 5 días y suplirá de oficio la deficiencia de la queja si el recurrente lo fuere el solicitante de la tierra.
-
-En el caso de ejecución provisional y de encontrarse la semilla germinada y en proceso de cultivo, procederá la desocupación de la tierra hasta el término de ese ciclo agrícola; en cualquier otro supuesto previo el pago de los gastos del barbecho y siembra aumentados en un 10%, se ordenará la desocupación y entrega de la tierra, salvo convenio en contrario entre los interesados.
-
-El Ejecutivo del Estado nombrará Procuradores Rurales para que asesoren a los campesinos que soliciten tierras en aparcería.
-
-Las tierras que por su calidad no puedan ser objeto de fertilización mediante el empleo de productos químicos o de otra índole, y que por tanto estén en descanso para su fertilización natural quedan exceptuadas; pero en este caso, el propietario o poseedor deberá dar aviso de ello por escrito, oportunamente, al Departamento de Tierras y Quejas del Gobierno.
+(DEROGADO, P.O. 7 DE JUNIO DE 2013)
 
 ### CAPITULO III. Del Procedimiento
 
@@ -489,10 +471,16 @@ El Secretario General del Gobierno.
 
 Lic. Ernesto Gallardo Sánchez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE JUNIO DE 1974.
 
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
