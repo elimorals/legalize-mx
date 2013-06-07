@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-patrimonio-cultural-del-estado-de-guanajuato-51376"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-01"
-last_updated: "2006-08-01"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el martes 1 de agosto de 2006.
 
@@ -443,9 +443,11 @@ VI. La Secretaría remitirá el proyecto de resolución con el expediente integr
 
 VII. El decreto que declare afecto un bien al patrimonio cultural del Estado será publicado en el Periódico Oficial del Gobierno del Estado, en un periódico de circulación estatal y en uno de los de mayor circulación en el Municipio a cuya adscripción corresponda el inmueble.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 38.
 
-El propietario o poseedor podrá inconformarse ante el Tribunal de lo Contencioso Administrativo, contra la declaratoria del Gobernador del Estado por la que se adscriba un bien o bienes inmuebles al patrimonio cultural del Estado, en los términos de la Ley de Justicia Administrativa del Estado de Guanajuato.
+El propietario o poseedor podrá inconformarse ante el Tribunal de lo Contencioso Administrativo, contra la declaratoria del gobernador del estado por la que se adscriba un bien o bienes inmuebles al patrimonio cultural del estado, en los términos del Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 ###### Artículo 39.
 
@@ -467,15 +469,19 @@ II. En ningún supuesto se procederá a la demolición o remoción definitiva de
 
 Los bienes afectos al patrimonio cultural del Estado deberán ostentar una placa o emblema que facilite su identificación.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 43.
 
-En todo lo relativo al procedimiento previsto en esta sección, se aplicará de manera supletoria el Código de Procedimientos Civiles para el Estado de Guanajuato.
+En todo lo relativo al procedimiento previsto en esta sección, se aplicará de manera supletoria el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 #### Sección segunda. De la inscripción de las declaratorias
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 44.
 
-El Registro Público de la Propiedad establecerá una sección en el folio real electrónico en la cual se inscribirá o anotará que un bien inmueble está afecto al patrimonio cultural del Estado.
+El Registro Público de la Propiedad establecerá una sección en el folio electrónico en la cual se inscribirá o anotará que un bien inmueble está afecto al patrimonio cultural del estado.
 
 ###### Artículo 45.
 
@@ -518,3 +524,11 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 SAMUEL ALCOCER FLORES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
