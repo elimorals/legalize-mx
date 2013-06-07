@@ -4,7 +4,7 @@ identifier: "FED-ley-para-el-aprovechamiento-de-energias-renovables-y-el-64076"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-28"
-last_updated: "2013-04-23"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-11-27"
 
 LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICIÓN ENERGÉTICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de noviembre de 2008.
 
@@ -55,11 +55,15 @@ I. Minerales radioactivos para generar energía nuclear;
 
 > <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2012)</small>
 
-II.- Energía hidráulica con capacidad para generar más de 30 megawatts, excepto cuando:
+II. Energía hidráulica con capacidad para generar más de 30 megawatts, excepto cuando:
 
 a) Se utilice un almacenamiento menor a 50 mil metros cúbicos de agua o que tengan un embalse con superficie menor a una hectárea y no rebase dicha capacidad de almacenamiento de agua. Estos embalses deberán estar ubicados dentro del inmueble sobre el cual el generador tenga un derecho real.
 
 b) Se trate de embalses ya existentes, aún de una capacidad mayor, que sean aptos para generar electricidad.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+c) Su densidad de potencia, definida como la relación entre capacidad de generación y superficie del embalse, sea superior a 10 watts/m2.
 
 III. Residuos industriales o de cualquier tipo cuando sean incinerados o reciban algún otro tipo de tratamiento térmico, y
 
@@ -293,13 +297,17 @@ IV. Establecer un programa de normalización para la eficiencia energética;
 
 V. Promover y difundir medidas para la eficiencia energética, así como el ahorro de energía;
 
-> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2013)</small>
 
-VI. Proponer las medidas necesarias para que la población tenga acceso a información confiable, oportuna y de fácil consulta en relación con el consumo energético de los equipos, aparatos y vehículos que requieren del suministro de energía para su funcionamiento, y
+VI. Proponer las medidas necesarias para que la población tenga acceso a información confiable, oportuna y de fácil consulta en relación con el consumo energético de los equipos, aparatos y vehículos que requieren del suministro de energía para su funcionamiento;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2013)</small>
 
-VII. Proponer la creación de fondos y fideicomisos que tengan por objeto apoyar la investigación, promoción y aprovechamiento de investigación científica y tecnológica en materia de energía renovable.
+VII. Proponer la creación de fondos y fideicomisos que tengan por objeto apoyar la investigación, promoción y aprovechamiento de investigación científica y tecnológica en materia de energía renovable, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+VIII. Promover que en los inmuebles de las dependencias y organismos de la administración pública federal se utilice energía renovable, de acuerdo con las características geográficas, posibilidades técnicas y viabilidad económica en cada una de ellos.
 
 ###### Artículo 25.
 
@@ -375,7 +383,7 @@ México, D.F., a 28 de octubre de 2008.- Sen. Gustavo Madero Muñoz, Presidente.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de noviembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 1 DE JUNIO DE 2011.
 
@@ -400,3 +408,15 @@ D.O.F. 21 DE MARZO DE 2013.
 D.O.F. 23 DE ABRIL DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JUNIO DE 2013.
+
+DECRETO POR EL QUE SE ADICIONA EL INCISO C) A LA FRACCIÓN II DEL ARTÍCULO 1 DE LA LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICIÓN ENERGÉTICA.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JUNIO DE 2013.
+
+DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 24 DE LA LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICIÓN ENERGÉTICA.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
