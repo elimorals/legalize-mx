@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-proteccion-civil-para-el-estado-de-guanajuato-12053"
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-24"
-last_updated: "1997-10-24"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE GUANAJUATO
 
-LEY DE PROTECCION CIVIL PARA EL ESTADO DE GUANAJUATO
+LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el 24 de octubre de 1997.
 
@@ -97,7 +97,9 @@ XV.- Organizaciones civiles: Asociaciones de personas legalmente constituidas y 
 
 XVI.- Brigadas vecinales: Organizaciones de vecinos coordinadas por las autoridades, que se integran a las acciones de protección civil y que colaboran en los programas y acciones respectivas en función a su ámbito territorial;
 
-XVII.- Secretaría: Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+XVII.- Secretaría: Secretaría de Seguridad Pública;
 
 XVIII.- Sistema de protección civil: Conjunto orgánico y artículado de estructuras, relaciones funcionales, métodos, procedimientos y programas, que establece y concerta el Ejecutivo del Estado con las organizaciones de los diversos grupos sociales y privados a fin de efectuar acciones corresponsables en cuanto a la prevención, mitigación, preparación, auxilio, restablecimiento, rehabilitación y reconstrucción en caso de riesgo, emergencia, siniestro o desastre;
 
@@ -203,7 +205,9 @@ IV.- Solicitar al Titular del Poder Ejecutivo del Estado el apoyo necesario para
 
 V.- Vigilar la actuación de los grupos voluntarios y reglamentar las cuotas de recuperación que éstos cobren por los servicios prestados de protección civil;
 
-VI.- Integrar en los reglamentos y planes directores de desarrollo urbano los criterios de prevención;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VI.- Integrar en los reglamentos y programas de desarrollo urbano los criterios de prevención;
 
 VII.- Celebrar convenios con los gobiernos federal y estatal que apoyen los objetivos y finalidades de los sistemas de protección civil; y
 
@@ -317,9 +321,13 @@ El consejo estatal de protección civil es el órgano consultivo, de coordinaci�
 
 El consejo estatal de protección civil estará integrado por:
 
-I.- Un presidente, que será el Titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-II.- Un secretario ejecutivo, que será el Secretario de Gobierno;
+I.- Un ciudadano, designado por el Gobernador quien fungirá como Presidente;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+II.- Un secretario ejecutivo, que será el Secretario de Seguridad Pública;
 
 III.- Un secretario técnico, que será el titular de la unidad estatal de protección civil;
 
@@ -411,7 +419,9 @@ VIII.- Las demás que le otorgue el consejo estatal o la presente Ley y su regla
 
 Corresponde al secretario ejecutivo:
 
-I.- En ausencia del Titular del Poder Ejecutivo del Estado, presidir las sesiones ordinarias y extraordinarias del pleno del consejo o de las comisiones que se creen en caso de emergencia;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I.- En ausencia del Presidente, presidir las sesiones ordinarias y extraordinarias del pleno del consejo o de las comisiones que se creen en caso de emergencia;
 
 II.- Presentar a la consideración del consejo estatal, el proyecto del programa de protección civil;
 
@@ -457,9 +467,11 @@ XI.- Las demás funciones que le confieran el reglamento interno, los acuerdos d
 
 La unidad estatal de protección civil, es responsable de elaborar, instrumentar y dirigir la ejecución de los programas de protección civil en el Estado, coordinando sus acciones con las dependencias y entidades del sector público; instituciones y organismos de los sectores social, privado y académico, así como con los grupos voluntarios y la población en general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 23.
 
-La unidad estatal de protección civil estará integrada por un director y el personal de apoyo que su propia estructura funcional requiera; dependerá administrativamente del Secretario de Gobierno y para el desempeño de sus funciones se constituirá por:
+La unidad estatal de protección civil estará integrada por un director y el personal de apoyo que su propia estructura funcional requiera; dependerá administrativamente del Secretario de Seguridad Pública y para el desempeño de sus funciones se constituirá por:
 
 I.- Un órgano central de administración;
 
@@ -791,9 +803,11 @@ Las unidades de protección civil competentes en los términos de esta Ley, aten
 
 De la queja y de todo el procedimiento referido en este capítulo, se levantará acta circunstanciada; la unidad de protección civil respectiva tendrá la obligación de informar al denunciante del trámite dado a su queja.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 63.
 
-Los funcionarios de la unidad de protección civil que no cumplan con lo establecido en el artículo anterior, incurrirán en responsabilidad oficial, debiendo ser sancionados conforme a lo que establezca la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato.
+Los funcionarios de la unidad de protección civil que no cumplan con lo establecido en el artículo anterior, incurrirán en responsabilidad oficial, debiendo ser sancionados conforme a lo que establezca la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
 
 ## TITULO CUARTO
 
@@ -1061,9 +1075,11 @@ IV.- Arresto administrativo, en los casos de infracciones que determinen los reg
 
 Para la aplicación de las sanciones pecuniarias a que se hace referencia en este capítulo, la autoridad que las imponga, tomará en cuenta la gravedad de la infracción, la capacidad económica y otras condiciones del infractor, así como lo dispuesto por el reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 97.
 
-Las sanciones pecuniarias que se establecen en este capítulo se consideran créditos fiscales y se harán efectivos por la Secretaría de Planeación y Finanzas o la Tesorería Municipal, a solicitud de la unidad estatal o la unidad municipal, según corresponda.
+Las sanciones pecuniarias que se establecen en este capítulo se consideran créditos fiscales y se harán efectivos por la Secretaría de Finanzas, Inversión y Administración o la Tesorería Municipal, a solicitud de la unidad estatal o la unidad municipal, según corresponda.
 
 El procedimiento de notificación, ejecución y extinción de las sanciones pecuniarias, así como los recursos administrativos para oponerse al procedimiento económico coactivo, se sujetará a lo establecido en las leyes hacendarias correspondientes.
 
@@ -1134,3 +1150,11 @@ VICENTE FOX QUESADA.
 EL SECRETARIO DE GOBIERNO.
 
 RAMON MARTIN HUERTA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
