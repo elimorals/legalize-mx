@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-del-o-p-d-sistema-para-el-desarrollo-18336"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-19"
-last_updated: "2005-08-02"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DEL O.P.D. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 7 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 19 de septiembre de 2000.
 
@@ -892,3 +894,15 @@ Rúbrica.
 P.O. 2 DE AGOSTO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Primero. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se abroga el Reglamento Interior del O.P.D. Sistema para el Desarrollo Integral de la Familia del Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado número 76, de fecha 19 de septiembre del año 2000.
+
+Tercero. Los asuntos pendientes a la entrada en vigor del presente Reglamento Interior que conforme al mismo deban de pasar de un área administrativa a otra, continuarán su trámite y serán resueltos por aquéllas a las que se haya atribuido la competencia correspondiente.
+
+Cuarto. En caso de ser necesario reformar el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia o de autorizarse cambios de denominación, nivel jerárquico, fusión, extinción o ubicación, así como la creación de nuevas áreas administrativas dentro de la estructura orgánica del mismo, el Director General, previa aprobación de la Junta de Gobierno, remitirá al Gobernador del Estado con la opinión del Consejero Jurídico del Poder Ejecutivo, el proyecto de decreto de reformas y adiciones al presente Reglamento Interior.
+
+Quinto. Los casos no previstos en el presente Reglamento Interior, serán tratados por el Pleno de la Junta de Gobierno.
