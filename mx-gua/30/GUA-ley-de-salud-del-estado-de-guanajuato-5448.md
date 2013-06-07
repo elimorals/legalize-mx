@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2010-09-03"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -127,7 +127,7 @@ XIX.- El control sanitario de la disposición de órganos, tejidos y cadáveres 
 
 XX.- Las demás que establezca la Ley General de Salud.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 B).- En materia de salubridad local, el control sanitario de los servicios, y en su caso de las condiciones físico-sanitarias de:
 
@@ -179,7 +179,7 @@ XVI.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2002)
 
 XVII.- Las demás materias que determine esta Ley y demás disposiciones generales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 4.
 
@@ -197,7 +197,7 @@ III.- Los Ayuntamientos y Consejos Municipales.
 
 ### CAPITULO I. Disposiciones Comunes
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 5.
 
@@ -231,7 +231,7 @@ VII.- Coadyuvar en la modificación de los patrones culturales que determinen h�
 
 VIII.- Promover un sistema de fomento sanitario en actividades, establecimientos, productos y servicios, sujetos a vigilancia sanitaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 7.
 
@@ -271,7 +271,7 @@ XV.- Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVI.- Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 8.
 
@@ -279,7 +279,7 @@ La Secretaría de Salud del Estado promoverá la participación, en el Sistema E
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 9.
 
@@ -309,7 +309,7 @@ El Gobierno del Estado, con la participación que corresponda al Comité de Plan
 
 ### CAPITULO II. Distribución de Competencias
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 12.
 
@@ -395,7 +395,7 @@ VII.- Las demás acciones que sean necesarias para hacer efectivas las atribucio
 
 Los ingresos que obtenga el Estado por la prestación de los servicios en materia de salubridad general, quedarán sujetos a lo que se disponga en los acuerdos de coordinación con la Secretaría de Salud y lo que determine la legislación fiscal aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 18.
 
@@ -763,7 +763,7 @@ IV.- Acciones relacionadas con la educación básica, alfabetización de adultos
 
 V.- Las demás que coadyuven a la salud materno infantil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 67.
 
@@ -773,7 +773,7 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 ### CAPITULO VII. Servicios de Planificación Familiar
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 68.
 
@@ -817,7 +817,7 @@ El Gobierno del Estado coadyuvará con la Secretaría de Salud en las acciones d
 
 La prevención de las enfermedades mentales tienen carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros conceptos relacionalos (sic) con la salud mental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 73.
 
@@ -839,7 +839,7 @@ I.- La atención de personas con padecimientos mentales, la rehabilitación psiq
 
 II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 75.
 
@@ -849,7 +849,7 @@ La Secretaría de Salud de la Entidad, conforme a las normas oficiales mexicanas
 
 A estos efectos, se establecerá la coordinación necesaria mediante convenios entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 76.
 
@@ -881,7 +881,7 @@ IV.- Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
 Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología, y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales, los certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y otesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, y embalsamiento y sus ramas, requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y ortesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, y embalsamiento y sus ramas, requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 ###### ARTICULO 79.
 
@@ -925,7 +925,7 @@ Las autoridades sanitarias del Estado, con la participación de las institucione
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 86.
 
@@ -933,7 +933,7 @@ Las autoridades sanitarias, en coordinación con las autoridades educativas y co
 
 Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 87.
 
@@ -947,7 +947,7 @@ III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro
 
 IV.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 88.
 
@@ -1039,7 +1039,7 @@ En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recu
 
 ###### ARTICULO 96.
 
-La Secretaría de Salud del Estado, de conformidad con la Ley de Información Estadística y Geográfica, y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control del Sistemas Estatal de Salud, así como sobre el estado y evolución de la salud pública en la Entidad.
+La Secretaría de Salud del Estado, de conformidad con la Ley del Sistema Nacional de Información Estadística y Geográfica, y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control del Sistema Estatal de Salud, así como sobre el estado y evolución de la salud pública en la Entidad.
 
 La información se referirá, fundamentalmente, a los siguientes aspectos:
 
@@ -1099,13 +1099,13 @@ II.- Proporcionar a la población los conocimientos sobre las causas de las enfe
 
 III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 101.
 
 La Secretaría de Salud, en coordinación con las autoridades federales, estatales y municipales competentes, formulará, propondrá, desarrollará y evaluará los programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-> <small>N. DE E. EN RELACION CON EL ARTICULO CUARTO TRANSITORIO, LA SECRETARIA DE SALUD DEL ESTADO DE GUANAJUATO EN EL AMBITO DE SU COMPETENCIA, DEBERA PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
+> <small>N. DE E. EN RELACIÓN CON EL ARTÍCULO CUARTO TRANSITORIO, LA SECRETARÍA DE SALUD DEL ESTADO DE GUANAJUATO EN EL ÁMBITO DE SU COMPETENCIA, DEBERÁ PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1135,7 +1135,7 @@ I.- Operar un sistema permanente de vigilancia epidemiológica de la nutrición 
 
 II.- Coordinar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos sociales más vulnerables;
 
-> <small>N. DE E. EN RELACION CON EL ARTICULO CUARTO TRANSITORIO, LA SECRETARIA DE SALUD DEL ESTADO DE GUANAJUATO EN EL AMBITO DE SU COMPETENCIA, DEBERA PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
+> <small>N. DE E. EN RELACIÓN CON EL ARTÍCULO CUARTO TRANSITORIO, LA SECRETARÍA DE SALUD DEL ESTADO DE GUANAJUATO EN EL ÁMBITO DE SU COMPETENCIA, DEBERÁ PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1145,7 +1145,7 @@ IV.- Promover investigaciones químicas, biológicas, sociales y económicas, en
 
 V.- Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mismos de nutrimientos para la población en general y proveer en la esfera de su competencia a dicho consumo.
 
-> <small>N. DE E. EN RELACION CON EL ARTICULO CUARTO TRANSITORIO, LA SECRETARIA DE SALUD DEL ESTADO DE GUANAJUATO EN EL AMBITO DE SU COMPETENCIA, DEBERA PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
+> <small>N. DE E. EN RELACIÓN CON EL ARTÍCULO CUARTO TRANSITORIO, LA SECRETARÍA DE SALUD DEL ESTADO DE GUANAJUATO EN EL ÁMBITO DE SU COMPETENCIA, DEBERÁ PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1165,7 +1165,7 @@ Asimismo, proporcionará a la población información y conocimientos relativos 
 
 Las autoridades sanitarias del Estado tomarán las medidas y realizarán las actividades a que se refiere esta Ley, tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del ambiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 105.
 
@@ -1229,7 +1229,7 @@ El Gobierno del Estado, en coordinación con las dependencias y entidades federa
 
 ### CAPITULO II. Enfermedades Transmisibles
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ### CAPITULO III. Enfermedades no Transmisibles
 
@@ -1243,7 +1243,7 @@ El Gobierno del Estado, en coordinación con las autoridades federales, municipa
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 113.
 
@@ -1469,7 +1469,7 @@ Las autoridades sanitarias determinarán los casos en que se deba proceder a la 
 
 ### CAPITULO I. Programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 127.
 
@@ -1495,7 +1495,7 @@ Los profesionales, técnicos y auxiliares de la salud deberán rendir los inform
 
 ### CAPITULO II. Programa contra el Tabaquismo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 130.
 
@@ -1521,7 +1521,7 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Para mayor eficacia de las acciones a las que se refiere este Artículo, el Gobierno del Estado promoverá la participación de representantes de los sectores público, social y privado y procurará la coordinación con el Gobierno Federal dentro del marco de los Sistemas Nacionales y Estatal de Salud.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO NOVENO. Asistencia Social, Prevención de Discapacidad y Rehabilitación de las Personas con Discapacidad
 
@@ -1649,7 +1649,7 @@ La Secretaría de Salud del Estado, en coordinación con otras instituciones pú
 
 Para los efectos de esta Ley, se entiende por discapacidad la limitación en la capacidad de una persona para realizar por sí misma actividades necesarias para su desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática, psicológica o social.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 153.
 
@@ -1781,7 +1781,7 @@ El Consumo de tabaco se sujetará a lo dispuesto en el reglamento correspondient
 
 El Gobierno del Estado coadyuvará con la Secretaría de Salud en la ejecución, en el territorio del Estado de Guanajuato, del programa nacional contra la farmacodependencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 162.
 
@@ -1801,7 +1801,7 @@ III.- Brindarán la atención médica y rehabilitación que se requiera, a las p
 
 IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo indebido de substancias.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO DECIMO PRIMERO. Salubridad Local
 
@@ -1929,7 +1929,7 @@ Cuando los edificios, construcciones o terrenos representen un peligro por su in
 
 Para la creación, ampliación o modificación de colonias o fraccionamientos, se requiere dictamen sanitario previo de la Secretaría de Salud del Estado, quien para expedirlo deberá tomar en consideración la disponibilidad de servicios adecuados de agua potable, disposición sanitaria de excretas, recolección de basura y demás que considere importantes, independientemente de lo que al respecto establezcan otras disposiciones legales aplicables, para el cumplimiento de lo previsto en este Capítulo se coordinarán con las autoridades municipales, estatales y federales en el ámbito de su competencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ### CAPITULO VII. Agua Potable y Alcantarillado
 
@@ -1967,7 +1967,7 @@ La autoridad sanitaria competente hará la declaración del momento en que se en
 
 ###### ARTICULO 188.
 
-(DEROGADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
@@ -1979,7 +1979,7 @@ Los reglamentos o a falta de ellos, la autoridad sanitaria competente, determina
 
 Mientras este plazo no termine sólo podrán efectuarse las exhumaciones autorizadas por las propias autoridades y las ordenadas por la autoridad judicial, mediante los requisitos que se fijen, en su caso, por las autoridades sanitarias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO VIII. Establos, Granjas Avícolas y Porcícolas y otros Establecimientos Pecuarios
 
@@ -2013,9 +2013,9 @@ La basura, por ningún motivo, se manipulará, excepto lo estrictamente indispen
 
 Para toda la actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley y otras disposiciones legales aplicables.
 
-### CAPITULO IX. Centros de Readaptación Social
+### CAPITULO IX. Centros de Reinserción Social
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 196.
 
@@ -2077,7 +2077,7 @@ Los proyectos de abastecimiento de agua potable deberán ser sometidos a la cons
 
 La autoridad sanitaria estatal o municipal, en su caso, realizará análisis periódicos de la potabilidad de las aguas, en los términos de esta Ley de otras disposiciones legales aplicables y las normas oficiales mexicanas correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 206.
 
@@ -2125,7 +2125,7 @@ Las personas que intervengan en el abastecimiento de agua no podrán suprimir la
 
 Los pozos o aljibes cuyas aguas se utilicen para el consumo humano, deberán cumplir con las disposiciones legales y los reglamentos y normas oficiales mexicanas que fije la Secretaría de Salud del Ejecutivo Federal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO XI. Centros de Reunión y Espectáculos
 
@@ -2145,7 +2145,7 @@ IV.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2002)
 
 V.- Establecimientos similares: todos aquellos dedicados a la cría reproducción, mejoramiento y explotación de especies animales no incluidas en las fracciones anteriores, pero aptas para el consumo humano.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 215.
 
@@ -2165,7 +2165,7 @@ Para el funcionamiento de establos, granjas avícolas y porcícolas, se requiere
 
 Las condiciones necesarias que deben reunir estos establecimientos estarán fijadas por esta Ley y demás disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
 
 ### CAPITULO XII. Establecimientos dedicados a la prestación de servicios como Peluquerías, Salones de Belleza y Otros
 
@@ -2173,29 +2173,29 @@ Las condiciones necesarias que deben reunir estos establecimientos estarán fija
 
 ###### ARTICULO 218.
 
-Para los efectos de esta Ley, se entiende por centros de readaptación social, el local destinado a la internación de quienes se encuentran restringidos de su libertad corporal por una resolución judicial o administrativa.
+Para los efectos de esta Ley, se entiende por centros de reinserción social, el local destinado a la internación de quienes se encuentran restringidos de su libertad corporal por una resolución judicial o administrativa.
 
 ###### ARTICULO 219.
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 220.
 
-Los centros de readaptación social deberán contar, además de lo previsto por las disposiciones legales aplicables, con una sección de baños de regadera y retretes, una de peluquería y un consultorio médico que cuente con el personal y equipo necesario para la atención de aquellos casos de enfermedad de los internos, en los que no sea requerido su traslado a un hospital.
+Los centros de reinserción social deberán contar, además de lo previsto por las disposiciones legales aplicables, con una sección de baños de regadera y retretes, una de peluquería y un consultorio médico que cuente con el personal y equipo necesario para la atención de aquellos casos de enfermedad de los internos, en los que no sea requerido su traslado a un hospital.
 
-Tratándose de enfermedades que por su gravedad o cuando así lo requiera el tratamiento a juicio del personal médico de la institución, sea necesario trasladar a un interno a una unidad hospitalaria, el Director del centro de readaptación social deberá autorizar la transferencia, la cual se ejecutará bajo la vigilancia del médico tratante y del personal de custodia, dando aviso de ello en forma inmediata a la autoridad a cuya disposición se encuentre el enfermo, la cual dictará las medidas necesarias.
+Tratándose de enfermedades que por su gravedad o cuando así lo requiera el tratamiento a juicio del personal médico de la institución, sea necesario trasladar a un interno a una unidad hospitalaria, el Director del centro de reinserción social deberá autorizar la transferencia, la cual se ejecutará bajo la vigilancia del médico tratante y del personal de custodia, dando aviso de ello en forma inmediata a la autoridad a cuya disposición se encuentre el enfermo, la cual dictará las medidas necesarias.
 
-Las personas encargadas de los servicios médicos de los centros de readaptación social, inmediatamente que tengan conocimiento de alguna enfermedad transmisible deberán adoptar las medidas de seguridad sanitarias que procedan para evitar la propagación a otros internos, dando aviso a la autoridad sanitaria.
+Las personas encargadas de los servicios médicos de los centros de reinserción social, inmediatamente que tengan conocimiento de alguna enfermedad transmisible deberán adoptar las medidas de seguridad sanitarias que procedan para evitar la propagación a otros internos, dando aviso a la autoridad sanitaria.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 221.
 
-La Secretaría de Salud del Estado, efectuará el control sanitario en los centros de readaptación social, a fin de percatarse del estado en que se encuentran las instalaciones, proveyendo en la esfera de su competencia y de conformidad con las normas aplicables, lo que corresponda.
+La Secretaría de Salud del Estado, efectuará el control sanitario en los centros de reinserción social, a fin de percatarse del estado en que se encuentran las instalaciones, proveyendo en la esfera de su competencia y de conformidad con las normas aplicables, lo que corresponda.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ### CAPITULO XIII. Establecimientos de Hospedaje
 
@@ -2335,7 +2335,7 @@ Los transportes a que se refiere el artículo anterior y que circulen en el inte
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O.24 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO III. Certificados
 
@@ -2397,7 +2397,7 @@ Los transportes a que se refiere el artículo anterior y que circulen en el inte
 
 ### CAPITULO I. Medidas de Seguridad Sanitaria
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 257.
 
@@ -2459,7 +2459,7 @@ El certificado médico prenupcial, será requerido por las autoridades del Regis
 
 Los certificados de defunción y de muerte fetal serán expedidos una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por la autoridad sanitaria competente.
 
-(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002) (F. DE E., P.O. 18 DE FEBRERO DE 2003)
+(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002) (F. DE E., P.O. 18 DE FEBRERO DE 2003)
 
 ###### ARTICULO 269.
 
@@ -2511,7 +2511,7 @@ Los verificadores sanitarios, en el ejercicio de sus funciones, tendrán libre a
 
 Los propietarios, responsables, encargados y ocupantes de establecimientos objeto de verificación, estarán obligados a permitir el acceso y dar facilidades a los verificadores para el desarrollo de su labor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 277.
 
@@ -2527,7 +2527,7 @@ Las órdenes podrán expedirse para visitar establecimientos de una misma rama d
 
 Tratándose de actividades que se realicen en la vía pública, las órdenes podrán darse para vigilar una rama determinada de actividades o una zona que se delimitará en la misma orden.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 278.
 
@@ -2665,7 +2665,7 @@ La desocupación o desalojo de casas, edificios, establecimientos y, en general,
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones que emanen de ella, serán sancionadas administrativamente por las autoridades sanitarias correspondientes, en los términos que al efecto establezca la Ley General de Salud y la Ley de Salud del Estado, según corresponda, sin perjuicio de las penas que implique cuando sean constitutivas de delitos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 292.
 
@@ -2913,7 +2913,7 @@ Al recibir el recurso, la autoridad respectiva verificará si éste es procedent
 
 En el caso de que la unidad citada consideré, previo estudio de los antecedentes respectivos, que proceden (sic) su desechamiento, emitirá opinión técnica en tal sentido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 319.
 
@@ -3043,7 +3043,7 @@ El Secretario de Salud y Seguridad Social,
 
 DR. DAVID CADENA BARQUIN.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE NOVIEMBRE DE 1993.
 
@@ -3072,3 +3072,9 @@ Artículo Segundo. Dentro de los noventa días siguientes a la entrada en vigor 
 Artículo Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
 
 Artículo Cuarto. La Secretaría de Educación del Estado de Guanajuato y la Secretaría de Salud de Guanajuato, en el ámbito de su competencia, deberán proveer lo conducente, para que a partir del 1° primero de enero de 2011 dos mil once, se apliquen las disposiciones contenidas en el presente Decreto.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
