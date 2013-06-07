@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-coordinacion-fiscal-del-estado-de-guanajuato-5334"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-27"
-last_updated: "2007-12-25"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE GUANAJUATO
 
-LEY DE COORDINACION FISCAL DEL ESTADO
+LEY DE COORDINACIÓN FISCAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de diciembre de 1991.
 
@@ -61,9 +61,9 @@ III.- Constituir los organismos en materia de coordinación fiscal y dar las bas
 
 Las Participaciones Federales e Incentivos Económicos derivados de la Colaboración Administrativa en Materia Fiscal Federal e Ingresos Propios del Gobierno del Estado que correspondan a los municipios en los porcentajes que establece esta ley, se calcularán por cada ejercicio fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 3o.
 
@@ -87,59 +87,57 @@ V.- 20% de la participación del Impuesto sobre Automóviles Nuevos; y (sic)
 
 VI.- 100% del Fondo de Fomento Municipal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 VII.- 20% de los recursos derivados del Fondo de Fiscalización; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 VIII.- 20% de los recursos derivados de la aplicación del Impuesto Especial sobre Producción y Servicios en gasolinas y diesel.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 4o.
 
 Los Ingresos provenientes del Fondo General de Participaciones, del Impuesto sobre Tenencia o Uso de Vehículos y del Impuesto sobre Automóviles Nuevos, se distribuirán entre los Municipios de la manera siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
-I.- Recibirán anualmente una cantidad igual a la que les hubiera correspondido en el ano 2007; y
+I.- Recibirán anualmente una cantidad igual a la que les hubiera correspondido en el año 2007; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
-II.- Adicionalmente percibirán la cantidad que resulte de aplicar al monto del incremento que tenga el Fondo General, en el año para el que se realice el cálculo en relación con el ano 2007, el coeficiente que (sic) se determinará conforme a las siguientes reglas:
+II.- Adicionalmente percibirán la cantidad que resulte de aplicar al monto del incremento que tenga el Fondo General, en el año para el que se realice el cálculo en relación con el año 2007, el coeficiente que (sic) se determinará conforme a las siguientes reglas:
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 a).- 50% en razón directa a la Recaudación efectiva del Impuesto Predial y Derechos por Servicios de Consumo de Agua Potable, realizada en el territorio del Municipio en el último año anterior a aquél para el que se efectúa el cálculo.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-b).- 40% en razón directa a la población que registre cada Municipio, de acuerdo a la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al iniciarse cada año; y
+b) 40% en razón directa a la población que registre cada municipio, de acuerdo a la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía, al iniciarse cada año; y
 
 c).- El 10% en razón proporcionalmente inversa a los factores que resulten de la Recaudación y Población a que se refieren los incisos a) y b) de este Artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 La mecánica de distribución anterior no será aplicable en el evento de que en el año de cálculo los recursos referidos en el artículo 3o., fracciones I, II y V de la presente Ley, sean inferiores a lo observado en 2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada municipio haya recibido de dicho Fondo en el año 2007.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+Los municipios del estado deberán enviar a la Secretaría de Finanzas, Inversión y Administración la información de la recaudación del impuesto predial y derechos por servicios de consumo de agua potable a que se refieren los incisos a) y b), dentro de los primeros quince días del mes de enero del año en que se efectúe el cálculo. En caso de no contar con la información necesaria, la Secretaría de Finanzas, Inversión y Administración realizará el cálculo del monto de las participaciones que correspondan a los municipios en forma provisional, con los coeficientes del ejercicio inmediato anterior y efectuará el ajuste correspondiente dentro de los treinta días siguientes, a aquél en que se cuente con dicha información.
 
-Los municipios del estado deberán enviar a la Secretaría de Finanzas y Administración la información de la recaudación del impuesto predial y derechos por servicios de consumo de agua potable a que se refieren los incisos a) y b), dentro de los primeros quince días del mes de enero del año en que se efectúe el cálculo. En caso de no contar con la información necesaria, la Secretaria de Finanzas y Administración realizará el cálculo del monto de las participaciones que correspondan a los municipios en forma provisional, con los coeficientes del ejercicio inmediato anterior y efectuará el ajuste correspondiente dentro de los treinta días siguientes, a aquél en que se cuente con dicha información.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 5-A.
 
@@ -147,7 +145,7 @@ Las participaciones a municipios provenientes del Fondo de Fiscalización establ
 
 El Fondo a que se refiere este artículo se distribuirá en forma trimestral, a los municipios, a través de pagos definitivos. La entrega de dicho Fondo se realizará a más tardar dentro de los 5 días hábiles posteriores al en que la Federación entregue dichos recursos a la entidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
@@ -155,7 +153,9 @@ El Fondo a que se refiere este artículo se distribuirá en forma trimestral, a 
 
 Las participaciones a municipios provenientes de la aplicación del Impuesto Especial sobre Producción y Servicios en Gasolinas y Diesel establecidos en la Ley de Coordinación Fiscal, se distribuirán de la siguiente manera:
 
-I.- 70% en razón directa a la población que registre cada municipio, de acuerdo con la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al inicio del ejercicio fiscal correspondiente al año de cálculo; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I. 70% en razón directa a la población que registre cada municipio, de acuerdo con la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía, al inicio del ejercicio fiscal correspondiente al año de cálculo; y
 
 II.- 30% considerando el padrón vehicular de cada municipio de acuerdo con el Registro Estatal Vehicular, al inicio del ejercicio fiscal correspondiente al año de cálculo.
 
@@ -165,21 +165,21 @@ Los recursos que reciban los municipios en términos de este artículo deberán 
 
 Los recursos que obtengan los municipios de acuerdo con lo previsto en este artículo, podrán afectarse en garantía, en términos del artículo 9º. de la Ley de Coordinación Fiscal, siempre que la afectación correspondiente en ningún caso exceda del 25% de los recursos que le correspondan.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 5o.
 
 El Fondo de Fomento Municipal, el Impuesto Especial sobre Producción y Servicios y los Derechos por Licencias de Funcionamiento para Almacenamiento, Distribución y Compra-venta de Bebidas Alcohólicas, se distribuirán entre los municipios de acuerdo con lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 I.- Recibirán anualmente una cantidad igual a la que les hubiere correspondido en el año 2007; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 II.- Adicionalmente percibirán la cantidad que resulte de aplicar al monto del incremento que tengan las participaciones a que se refiere este artículo en el año para el que se hace el cálculo en relación con el año 2007, el coeficiente que se determine conforme a las siguientes reglas:
 
@@ -187,19 +187,19 @@ a).- El 50% por partes iguales entre la totalidad de los Municipios del Estado; 
 
 b).- El 50% restante entre todos los Municipios en razón proporcionalmente inversa a la Población, de acuerdo a lo que establece el Artículo 4o. Fracción II Inciso b) de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 La mecánica de distribución anterior no será aplicable en el evento de que en el año de cálculo los recursos referidos en el artículo 3°., tracciones III, IV y VI de esta ley, sean interiores a lo observado en 2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada municipio haya recibido de dicho Fondo en el año 2007.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 6o.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas y Administración, pagará a los municipios de forma preliminar, las cantidades que les correspondan, derivadas de las participaciones a que se refiere el artículo 3°. fracciones I a VI, los días 10 y 25 de cada mes o al día siguiente hábil, las que deberán entregarse en efectivo, sin condicionamiento alguno.
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, pagará a los municipios de forma preliminar, las cantidades que les correspondan, derivadas de las participaciones a que se refiere el artículo 3° fracciones I a VI, los días 10 y 25 de cada mes o al día siguiente hábil, las que deberán entregarse en efectivo, sin condicionamiento alguno.
 
 ###### ARTICULO 7o.
 
@@ -209,31 +209,31 @@ La compensación entre el derecho del Municipio a recibir Participaciones, y las
 
 ### CAPITULO TERCERO. DE LA VIGILANCIA DEL CALCULO Y LIQUIDACION DE LAS PARTICIPACIONES
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 8o.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas y Administración, deberá publicar en el Periódico Oficial y en uno de los de mayor circulación en la entidad, dentro del mes de enero de cada año, el monto de las participaciones que hubieren correspondido a cada uno de los municipios, durante el ejercicio fiscal del año inmediato anterior.
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, deberá publicar en el Periódico Oficial y en uno de los de mayor circulación en la entidad, dentro del mes de enero de cada año, el monto de las participaciones que hubieren correspondido a cada uno de los municipios, durante el ejercicio fiscal del año inmediato anterior.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 9o.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas y Administración pondrá a disposición de los ayuntamientos que lo requieran, la información necesaria que les permita comprobar la correcta determinación de sus factores de participaciones e incentivos económicos derivados del Convenio de Colaboración Administrativa en Materia Fiscal Federal, así como el monto de las mismas.
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración pondrá a disposición de los ayuntamientos que lo requieran, la información necesaria que les permita comprobar la correcta determinación de sus factores de participaciones e incentivos económicos derivados del convenio de colaboración administrativa en materia fiscal federal, así como el monto de las mismas.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 10.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas y Administración, independientemente de la publicación a que se refiere el artículo 8°., deberá proporcionar por escrito a cada uno de los municipios del estado, dentro del mes de enero de cada año, el monto anual estimado de sus participaciones e incentivos económicos derivados del Convenio de Colaboración Administrativa en Materia Fiscal Federal, así como un informe sobre las que le hubieren correspondido en el año anterior y su comportamiento en relación a lo estimado para dicho año.
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, independientemente de la publicación a que se refiere el artículo 8, deberá proporcionar por escrito a cada uno de los municipios del estado, dentro del mes de enero de cada año, el monto anual estimado de sus participaciones e incentivos económicos derivados del convenio de colaboración administrativa en materia fiscal federal, así como un informe sobre las que le hubieren correspondido en el año anterior y su comportamiento en relación a lo estimado para dicho año.
 
 ### CAPITULO CUARTO. DE LA COORDINACION FISCAL Y COLABORACION ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 11.
 
-Para el fortalecimiento del sistema fiscal en la entidad, el Gobierno del Estado, por conducto de la Secretaría de Finanzas y Administración, y los ayuntamientos podrán celebrar convenios de coordinación fiscal y colaboración administrativa, a efecto de intercambiar información y establecer programas que permitan actualizar las bases de datos, en los términos y disposiciones que al efecto se establezcan.
+Para el fortalecimiento del sistema fiscal en la entidad, el Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, y los ayuntamientos podrán celebrar convenios de coordinación fiscal y colaboración administrativa, a efecto de intercambiar información y establecer programas que permitan actualizar las bases de datos, en los términos y disposiciones que al efecto se establezcan.
 
 ###### ARTICULO 12.
 
@@ -241,19 +241,19 @@ En los Convenios a que se refiere el Artículo anterior, se establecerán los in
 
 ### CAPITULO QUINTO. DE LOS ORGANISMOS DE COORDINACION FISCAL
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 13.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas y Administración, y los ayuntamientos participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado, por medio de la Reunión Estatal de Funcionarios Fiscales, integrada por el Secretario de Finanzas y Administración y por el titular del órgano hacendario de cada municipio del Estado.
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, y los ayuntamientos participarán en el desarrollo, vigilancia y perfeccionamiento del sistema de coordinación fiscal del estado, por medio de la 6 reunión estatal de funcionarios fiscales, integrada por el Secretario de Finanzas, Inversión y Administración y por el titular del órgano hacendario de cada municipio del Estado.
 
-El Secretario de Finanzas y Administración podrá ser suplido por la persona que al efecto designe, y los titulares de los órganos hacendarios de cada municipio por la persona que al efecto designen.
+El Secretario de Finanzas, Inversión y Administración podrá ser suplido por la persona que al efecto designe, y los titulares de los órganos hacendarios de cada municipio por la persona que al efecto designen.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 14.
 
-La Reunión a que se refiere el artículo anterior deberá sesionar cuando menos una vez al año, en el municipio que se elija por sus integrantes y será presidida por el Secretario de Finanzas y Administración.
+La reunión a que se refiere el artículo anterior deberá sesionar cuando menos una vez al año, en el municipio que se elija por sus integrantes y será presidida por el Secretario de Finanzas, Inversión y Administración.
 
 ###### ARTICULO 15.
 
@@ -303,7 +303,7 @@ ARQ. JUAN PABLO LUNA MERCADO.
 
 (Rúbricas)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE DICIEMBRE DE 1995.
 
@@ -328,3 +328,9 @@ Artículo Primero. El presente decreto entrará en vigor a partir del uno de ene
 Artículo Segundo. Los artículos 3o., 4o., 5o., 5-A y 5-8 del presente decreto entrarán en vigor una vez que cobren vigencia los decretos mediante los cuales se reforman, adicionan y derogan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley del Impuesto Especial sobre Producción y Servicios.
 
 En ese sentido, y mientras no se de la respectiva publicación en el Diario Oficial de la Federación por parte del Ejecutivo Federal, se seguirá aplicando el procedimiento del año en el que se realizó el cálculo que corresponde al año vigente.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
