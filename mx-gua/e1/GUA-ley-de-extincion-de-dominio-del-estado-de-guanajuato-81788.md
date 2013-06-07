@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-extincion-de-dominio-del-estado-de-guanajuato-81788"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-21"
-last_updated: "2011-06-21"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EXTINCÓN DE DOMINIO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el martes 21 de junio de 2011.
 
@@ -91,9 +91,11 @@ La presente Ley se aplicará por los hechos ilícitos cometidos dentro del estad
 
 Carácter de la información
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 6.
 
-Toda información que se genere u obtenga con motivo de la aplicación de esta Ley tendrá el carácter de confidencial, de conformidad con la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+Toda información que se genere u obtenga con motivo de la aplicación de esta Ley tendrá el carácter de confidencial, de conformidad con la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
 
 ### Capítulo II. Extinción de dominio
 
@@ -962,3 +964,11 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
