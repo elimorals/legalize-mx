@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-preservacion-del-ambiente-del-16355"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-08"
-last_updated: "2012-10-12"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 12 DE OCTUBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 8 de febrero de 2000.
 
@@ -379,7 +377,9 @@ VIII.- Resolver los recursos administrativos que le competan;
 
 IX.- Coordinarse con las autoridades y dependencias federales y municipales para el ejercicio de sus atribuciones;
 
-X.- Canalizar ante la Secretaría de la Contraloría del Estado o ante el superior jerárquico correspondiente, las irregularidades en que incurran los servidores públicos estatales en el ejercicio de sus funciones, por la inobservancia a lo dispuesto en esta Ley;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+X.- Canalizar ante la Secretaría de la Transparencia y Rendición de Cuentas o ante el superior jerárquico correspondiente, las irregularidades en que incurran los servidores públicos estatales en el ejercicio de sus funciones, por la inobservancia a lo dispuesto en esta Ley;
 
 XI.- Verificar el cumplimiento de las normas técnicas ambientales y coadyuvar en la vigilancia del cumplimiento de las normas oficiales mexicanas;
 
@@ -2101,9 +2101,11 @@ III.- Sean susceptibles de apropiación.
 
 Por lo que se refiere a los bienes distintos a los señalados, éstos se mantendrán en depósito y no podrá disponerse de ellos hasta en tanto cause estado la resolución correspondiente.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 179.
 
-Por lo que se refiere a los demás trámites relativos a la substanciación del recurso de revisión de esta Ley, se estará a lo dispuesto por la Ley de Justicia Administrativa del Estado de Guanajuato.
+Por lo que se refiere a los demás trámites relativos a la substanciación del recurso de revisión de esta Ley, se estará a lo dispuesto por el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2388,3 +2390,9 @@ Inicio de vigencia del decreto
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigencia el 1 de enero de 2013, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
