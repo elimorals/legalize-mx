@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-adquisiciones-enajenaciones-arrendamientos-y-46361"
 country: "mx"
 rank: "ley"
 publication_date: "2005-09-16"
-last_updated: "2009-08-21"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL SECTOR PÚBLICO EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el viernes 16 de septiembre de 2005.
 
@@ -93,13 +93,17 @@ XIII. Organismos Autónomos: Aquéllos que constitucional o legalmente tienen es
 
 XIV. Órganos de Administración: Los órganos del Poder Legislativo, del Poder Judicial y de los Organismos Autónomos, que de acuerdo a la Constitución para el Estado y las leyes que los regulan, realizan las funciones objeto de esta Ley;
 
-XV. Órganos de Control Interno: La Secretaría de la Gestión Pública del Estado, así como las áreas administrativas responsables de las funciones de vigilancia y control en los Poderes Legislativo y Judicial y en los Organismos Autónomos;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+XV. Órganos de Control Interno: La Secretaría de la Transparencia y Rendición de Cuentas, así como las áreas administrativas responsables de las funciones de vigilancia y control en los Poderes Legislativo y Judicial y en los Organismos Autónomos;
 
 XVI. Postor: La persona que presente su postura en un procedimiento de subasta;
 
 XVII. Proveedor: La persona que por virtud de un contrato transmita la propiedad o el uso de bienes muebles, o preste servicios a los sujetos de esta Ley;
 
-XVIII. Secretaría: La Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+XVIII. Secretaría: La Secretaría de Finanzas, Inversión y Administración;
 
 XIX. Servicios Informáticos: Aquéllos que consisten en el desarrollo de sistemas, sitios, páginas de Internet, procesamiento y elaboración de programas, digitalización de documentos, ploteo por computadora, mantenimiento de sitios y/o páginas web, así como el mantenimiento y soporte a los sistemas y programas ya existentes, y
 
@@ -237,9 +241,11 @@ Las controversias que se susciten con motivo de los actos, contratos y convenios
 
 Tratándose de los Poderes Legislativo y Judicial, así como de los Organismos Autónomos, las controversias que se susciten serán resueltas en los términos que determinen sus propios ordenamientos.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 18.
 
-En lo no previsto expresamente por esta Ley, y en cuanto no se oponga a lo dispuesto por la misma, se aplicará supletoriamente el Código Civil para el Estado de Guanajuato y la Ley de Justicia Administrativa del Estado de Guanajuato.
+En lo no previsto expresamente por esta ley, y en cuanto no se oponga a lo dispuesto por la misma, se aplicará supletoriamente el Código Civil para el Estado de Guanajuato y el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 ## TÍTULO SEGUNDO. PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN DE LAS ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS
 
@@ -897,9 +903,9 @@ VII. Cuando se hubiese rescindido el contrato o no se haya formalizado el mismo 
 
 VIII. Cuando el objeto del contrato sea el diseño y fabricación de un bien que sirva como prototipo para producir otros, en la cantidad necesaria para efectuar las pruebas que demuestren su funcionamiento. En estos casos la dependencia, entidad u Órgano de Administración deberá pactar que los derechos sobre el diseño, uso o cualquier otro derecho exclusivo, se constituya a favor de los sujetos de esta Ley;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-IX. Cuando el conocimiento público de las especificaciones de los bienes o servicios a contratar pudieran afectar la seguridad pública del Estado o de los municipios, o comprometer información de índole reservada o confidencial, en términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato;
+IX. Cuando el conocimiento público de las especificaciones de los bienes o servicios a contratar pudieran afectar la seguridad pública del Estado o de los municipios, o comprometer información de índole reservada o confidencial, en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato;
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
@@ -1325,9 +1331,11 @@ Recibido el recurso de inconformidad se correrá traslado con copia del mismo, a
 
 El órgano de control interno correspondiente solicitará a la autoridad emisora del acto motivo de la inconformidad, un informe justificado en el que dé respuesta a los puntos del recurso de inconformidad presentado, proporcione la documentación requerida y manifieste si a su parecer se causa perjuicio al interés público, a efecto de determinar el monto de la garantía para conceder la suspensión definitiva; dicho informe deberá rendirse en un plazo de cinco días hábiles contados a partir del día hábil siguiente a aquél en que se le corra traslado del escrito de inconformidad.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 131.
 
-Rendido el informe de la autoridad, el órgano de control interno correspondiente, abrirá un periodo probatorio de diez días hábiles, en el que podrán presentarse todas las pruebas que sean pertinentes, en términos de lo previsto por la Ley de Justicia Administrativa del Estado de Guanajuato.
+Rendido el informe de la autoridad, el órgano de control interno correspondiente, abrirá un periodo probatorio de diez días hábiles, en el que podrán presentarse todas las pruebas que sean pertinentes, en términos de lo previsto por el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 ###### Artículo 132.
 
@@ -1466,3 +1474,9 @@ P.O. 21 DE AGOSTO DE 2009.
 Artículo Primero. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto, se tramitarán y resolverán conforme a las disposiciones aplicables al momento en que se iniciaron.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
