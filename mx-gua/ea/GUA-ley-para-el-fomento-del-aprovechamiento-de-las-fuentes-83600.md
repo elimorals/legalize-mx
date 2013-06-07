@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-fomento-del-aprovechamiento-de-las-fuentes-83600"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-08"
-last_updated: "2011-11-08"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA EL FOMENTO DEL APROVECHAMIENTO DE LAS FUENTES RENOVABLES DE ENERGÍA Y SUSTENTABILIDAD ENERGÉTICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 8 de noviembre del 2011.
 
@@ -131,7 +131,9 @@ Atribuciones del Gobernador del Estado
 
 Corresponde al Gobernador del Estado:
 
-I. Establecer en el Plan Estatal de Desarrollo y en el Plan de Gobierno, las políticas y programas relativos al fomento del aprovechamiento de las fuentes renovables de energía y sustentabilidad energética, de conformidad con lo previsto en esta Ley y demás normatividad aplicable;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+l. Establecer en el Plan Estatal de Desarrollo y en el Programa de Gobierno, las políticas y programas relativos al fomento del aprovechamiento de las fuentes renovables de energía y sustentabilidad energética, de conformidad con lo previsto en esta Ley y demás normatividad aplicable;
 
 II. Considerar dentro de los proyectos, programas y presupuestos, las acciones y los recursos necesarios para la aplicación de las fuentes renovables de energía;
 
@@ -275,17 +277,23 @@ I. El titular de la Secretaría de Desarrollo Económico Sustentable, quien lo p
 
 II. El titular de la Secretaría de Educación;
 
-III. El titular de la Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+III. El titular de la Secretaría de Desarrollo Agroalimentario y Rural;
 
 IV. El titular de la Secretaría de Desarrollo Social y Humano;
 
-V. El titular de la Secretaría de Finanzas y Administración, quien fungirá como Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+V. El titular de la Secretaría de Finanzas, Inversión y Administración, quien fungirá como Secretario Ejecutivo;
 
 VI. El Director General del Consejo de Ciencia y Tecnología del Estado de Guanajuato, quien fungirá como Secretario Técnico;
 
 VII. El Director General del Instituto de Ecología del Estado;
 
-VIII. El Procurador de Protección al Ambiente del Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VIII. El Procurador Ambiental y de Ordenamiento Territorial;
 
 IX. El Director General de la Comisión de Vivienda del Estado de Guanajuato; y
 
@@ -389,9 +397,11 @@ III. Aprovechamiento de la energía térmica para el desarrollo de sus procesos.
 
 Construcción de fraccionamientos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 25.
 
-En la construcción de fraccionamientos y desarrollos en condominio, las autoridades estatales y municipales en la materia, promoverán la realización de proyectos que contemplen la aplicación de las fuentes renovables de energía o el uso sustentable de la misma, en los términos de la Ley de Vivienda para el Estado de Guanajuato y de la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios.
+En la construcción de fraccionamientos y desarrollos en condominio, las autoridades estatales y municipales en la materia, promoverán la realización de proyectos que contemplen la aplicación de las fuentes renovables de energía o el uso sustentable de la misma, en los términos del Código Territorial para el Estado y los Municipios de Guanajuato.
 
 En el proceso de entrega-recepción de las obras de urbanización y equipamiento urbano de los fraccionamientos y desarrollos en condominio a que se refiere este artículo, deberá contemplar la verificación del funcionamiento de las tecnologías relacionadas con las fuentes renovables de energía y la sustentabilidad energética.
 
@@ -528,3 +538,11 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
