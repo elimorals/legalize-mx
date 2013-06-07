@@ -4,7 +4,7 @@ identifier: "LFPED"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2003-06-11"
-last_updated: "2012-04-09"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31735&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPED"
 
 LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -126,7 +126,9 @@ IX. Negar o condicionar el derecho de participación política y, específicamen
 
 X. Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo;
 
-XI. Impedir el acceso a la procuración e impartición de justicia;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+XI. Impedir o limitar el acceso a la procuración e impartición de justicia;
 
 XII. Impedir que se les escuche en todo procedimiento judicial o administrativo en que se vean involucrados, incluyendo a las niñas y los niños en los casos que la ley así lo disponga, así como negar la asistencia de intérpretes en procedimientos administrativos o judiciales, de conformidad con las normas aplicables;
 
@@ -174,9 +176,17 @@ I. Incentivar la educación mixta, fomentando la permanencia en el sistema educa
 
 II. Ofrecer información completa y actualizada, así como asesoramiento personalizado sobre salud reproductiva y métodos anticonceptivos;
 
-III. Garantizar el derecho a decidir sobre el número y espaciamiento de sus hijas e hijos, estableciendo en las instituciones de salud y seguridad social las condiciones para la atención obligatoria de las mujeres que lo soliciten, y
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2013)</small>
 
-IV. Procurar la creación de centros de desarrollo infantil y guarderías asegurando el acceso a los mismos para sus hijas e hijos cuando ellas lo soliciten.
+III. Garantizar el derecho a decidir sobre el número y espaciamiento de sus hijas e hijos, estableciendo en las instituciones de salud y seguridad social las condiciones para la atención obligatoria de las mujeres que lo soliciten;
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+IV. Procurar la creación de centros de desarrollo infantil y guarderías asegurando el acceso a los mismos para sus hijas e hijos cuando ellas lo soliciten, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+V. Ofrecer información completa y actualizada sobre los derechos de las mujeres y la forma e instituciones ante los cuales pueden ejercerse.
 
 ###### Artículo 11.
 
@@ -835,3 +845,7 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 7 DE JUNIO DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
