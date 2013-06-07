@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-animales-domesticos-en-el-33057"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-29"
-last_updated: "2011-06-03"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY PARA LA PROTECCION DE LOS ANIMALES DOMESTICOS EN EL ESTADO DE GUANAJUATO
 
-LEY PARA LA PROTECCION DE LOS ANIMALES DOMESTICOS EN EL ESTADO DE GUANAJUATO
+LEY PARA LA PROTECCIÓN DE LOS ANIMALES DOMÉSTICOS EN EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 29 de julio de 2003.
 
@@ -95,7 +95,9 @@ V.- Los Centros de Control Animal.
 
 El Ejecutivo del Estado podrá convenir con los municipios, a solicitud expresa de los Ayuntamientos para que ejerza las funciones señaladas en esta Ley como de competencia municipal.
 
-El Ejecutivo del Estado, cuando exista el convenio a que se refiere el párrafo anterior, se auxiliará de la Secretaría de Salud, del Instituto de Ecología del Estado y de la Procuraduría de Protección al Ambiente del Estado.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+El Ejecutivo del Estado, cuando exista el convenio a que se refiere el párrafo anterior, se auxiliará de la Secretaría de Salud, del Instituto de Ecología del Estado y de la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato.
 
 ###### Artículo 5.
 
@@ -189,7 +191,7 @@ Las sociedades o asociaciones protectoras de animales y los médicos veterinario
 
 Artículo 9 a.- Los municipios podrán celebrar convenios de coordinación con sociedades y asociaciones protectoras de animales, legalmente constituidas, para apoyar en la captura, resguardo, esterilización, orientación, vacunación, desparasitación, clínica y en su caso, sacrificio humanitario de animales domésticos y ferales encontrados en la vía pública o los entregados por sus dueños, para remitirlos a los Centros de Control Animal o a los refugios autorizados.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN)</small>
 
 ### CAPÍTULO CUARTO. DE LA EDUCACIÓN PARA EL TRATO ADECUADO A LOS ANIMALES
 
@@ -335,7 +337,7 @@ Artículo 23 a. Para la venta de un animal doméstico, el vendedor deberá entre
 
 El vendedor además entregará un certificado de salud, en el cual se haga constar que el animal se encuentra libre de enfermedades aparentes, incluyendo el calendario de vacunación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 24.
 
@@ -587,7 +589,7 @@ La medida de seguridad concluye con la imposición de la sanción; en caso de qu
 
 ### CAPÍTULO SEGUNDO. DE LAS SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 59.
 
@@ -643,8 +645,14 @@ Encargado del Despacho de la Secretaría de Gobierno, con fundamento en el artí
 
 ING. GERARDO LUIS RODRÍGUEZ OROZCO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 3 DE JUNIO DE 2011.
 
 Artículo Único. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
