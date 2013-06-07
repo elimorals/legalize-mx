@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2013-05-31"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -303,6 +303,12 @@ VI. A la Secretaría de Desarrollo Social:
 Asimismo, se le adscribe el Órgano Desconcentrado denominado Instituto para la Atención de los Adultos Mayores en el Distrito Federal.
 
 6.- (DEROGADO, G.O. 3 DE SEPTIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2013)</small>
+
+7.- Dirección General del Instituto para la Atención de los Adultos Mayores en el Distrito Federal.
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -4190,9 +4196,47 @@ XXII. Las demás que le atribuyan expresamente las leyes y reglamentos, así com
 
 DE LA SECRETARIA DE DESARROLLO SOCIAL.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 61.
 
-(DEROGADO, G.O. 3 DE SEPTIEMBRE DE 2009)
+Corresponde a la Dirección General del Instituto para la Atención de los Adultos Mayores en el Distrito Federal:
+
+I. Recibir y dar trámite a las solicitudes de Pensión Alimentaria para Adultos Mayores;
+
+II. Promover instrumentos de colaboración con las instancias de la Administración Pública del Distrito Federal, que propicien la atención integral de las personas adultas mayores;
+
+III. Proponer al titular de la Secretaría y operar los programas y acciones para generar una cultura de la vejez y el envejecimiento;
+
+IV. Promover la difusión, reconocimiento y ejercicio de los derechos de las personas adultas mayores;
+
+V. Actualizar permanentemente el padrón de beneficiarios, requisitos y procedimientos para el ejercicio del derecho a la pensión;
+
+VI. Proponer ante las instancias competentes, acciones y programas de promoción de la salud;
+
+VII. Operar el programa de visitas médicas domiciliarias para las personas adultas mayores beneficiarios de una pensión alimentaria;
+
+VIII. Realizar estudios y diagnósticos sobre la situación social y familiar de las personas adultas mayores;
+
+IX. Propiciar espacios de interlocución entre ciudadanía y gobierno para solucionar necesidades y demandas sociales en materia de envejecimiento;
+
+X. Promover entre los sectores social y privado los programas de gobierno a favor de las personas adultas mayores;
+
+XI. Promover ante las instancias competentes la capacitación y sensibilización de los servidores públicos y el personal que atiende a las personas adultas mayores, en materia de promoción y educación para la salud, geronto-geriatría y aspectos de participación social y comunitaria;
+
+XII. Promover la formación y fortalecimiento de redes sociales de apoyo para las personas adultas mayores, involucrando de manera coordinada a la familia, la comunidad y a las instituciones de gobierno;
+
+XIII. Promover el mejoramiento de las condiciones de vida de las personas adultas mayores;
+
+XIV. Fomentar, promover y fortalecer grupos de ayuda mutua para personas adultas mayores;
+
+XV. Proponer la creación y funcionamiento de Centros de Día para la atención de las personas adultas mayores;
+
+XVI. Implementar programas de acompañantes voluntarios y cuidadores primarios, que incluyan la asesoría y capacitación; y
+
+XVII. Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 62.
 
@@ -15364,7 +15408,7 @@ ADSCRITOS A LA SECRETARIA DE DESARROLLO SOCIAL.
 
 #### SECCION VII. ADSCRITO A LA SECRETARIA DE DESARROLLO SOCIAL
 
-> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 205.
 
@@ -15462,195 +15506,47 @@ ADSCRITO A LA SECRETARIA DE SALUD.
 
 ###### Artículo 208.
 
-El Órgano Desconcentrado Instituto para la Atención de los Adultos Mayores en el Distrito Federal tiene por objeto tutelar el ejercicio de los derechos de las personas adultas mayores, operando su pensión alimentaria y promoviendo ante las dependencias y entidades competentes las acciones y programas que aseguren el mejoramiento y fortalecimiento de sus condiciones sociales y de salud y la elevación de su calidad de vida. Para tal efecto cuenta con las siguientes atribuciones:
+(DEROGADO, G.O. 7 DE JUNIO DE 2013)
 
-I. Recibir y dar trámite a las solicitudes de Pensión Alimentaria para los Adultos Mayores;
-
-II. Promover instrumentos de colaboración con las instancias de la Administración Pública del Distrito Federal que propicien la atención integral de las personas adultas mayores;
-
-III. Proponer ante las instancias competentes y operar los programas y acciones para generar una cultura de la vejez y el envejecimiento;
-
-IV. Promover la difusión, reconocimiento y ejercicio de los derechos de las personas adultas mayores;
-
-V. Actualizar permanentemente el padrón de beneficiarios, requisitos y procedimientos para el ejercicio del derecho a la pensión;
-
-VI. Proponer ante las instancias competentes, acciones y programas de promoción de la salud;
-
-VII. Operar el programa de visitas médicas domiciliarias para las personas adultas mayores beneficiarios de una pensión alimentaria;
-
-VIII. Realizar estudios y diagnósticos sobre la situación social y familiar de las personas adultas mayores;
-
-IX. Propiciar espacios de interlocución entre ciudadanía y gobierno para solucionar necesidades y demandas sociales en materia de envejecimiento;
-
-X. Promover entre los sectores social y privado los programas de gobierno a favor de las personas adultas mayores;
-
-XI. Promover ante las instancias competentes la capacitación y sensibilización de los servidores públicos y el personal que atiende a las personas adultas mayores, en materia de promoción y educación para la salud, geronto-geriatría y aspectos de participación social y comunitaria;
-
-XII. Promover la formación y fortalecimiento de redes sociales de apoyo para las personas adultas mayores, involucrando de manera coordinada a la familia, la comunidad y a las instituciones de gobierno;
-
-XIII. Promover el mejoramiento de las condiciones de vida de las personas adultas mayores;
-
-XIV. Fomentar, promover y fortalecer grupos de ayuda mutua para personas adultas mayores;
-
-XV. Proponer la creación y funcionamiento de Centros de Día para la atención de las personas adultas mayores;
-
-XVI. Implementar programas de acompañantes voluntarios y cuidadores primarios, que incluyan la asesoría y capacitación; y
-
-XVII. Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables.
-
-> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 209.
 
-El Órgano Desconcentrado Instituto para la Atención de los Adultos Mayores en el Distrito Federal tendrá autonomía técnica, administrativa y financiera para el ejercicio de sus atribuciones.
+(DEROGADO, G.O. 7 DE JUNIO DE 2013)
 
-> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 210.
 
-Para el despacho de los asuntos que competen al Órgano Desconcentrado Instituto para la Atención de los Adultos Mayores en el Distrito Federal se le adscriben:
+(DEROGADO, G.O. 7 DE JUNIO DE 2013)
 
-I. Dirección de la Pensión Alimentaria;
-
-II. (DEROGADA, G.O. 16 DE NOVIEMBRE DE 2010)
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 16 DE NOVIEMBRE DE 2010)</small>
-
-III. Dirección de Programas Especiales;
-
-> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2010)</small>
-
-IV. Dirección de Vinculación Interinstitucional;
-
-> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2010)</small>
-
-V. Dirección de Operación Territorial; y
-
-> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2010)</small>
-
-VI. Las que se requieran para el cumplimiento de su objeto, en atención a la suficiencia presupuestal y las que se señalen en el dictamen de estructura orgánica autorizada.
-
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 211.
 
-La Dirección de la Pensión Alimentaria cuenta con las siguientes atribuciones:
-
-I. Dirigir, dar seguimiento y evaluar la operación de la Pensión Alimentaria en las Delegaciones del Distrito Federal;
-
-II. .Asegurar (sic) la actualización permanente del padrón de adultos mayores pensionados y garantizar el manejo seguro y confidencial del mismo;
-
-III. Asegurar la calidad de la atención a los solicitantes y derechohabientes de la Pensión Alimentaria;
-
-IV. Elaborar la propuesta del Programa Operativo Anual para la pensión alimentaria y vigilar su cumplimiento;
-
-V. Solicitar la disponibilidad de recursos económicos para el otorgamiento de la pensión alimentaria a los adultos mayores derechohabientes;
-
-VI. Dar seguimiento a los procesos de dispersión mensual de la pensión alimentaria;
-
-VII. Informar permanentemente al titular de la Dirección General del Instituto y las instancias correspondientes sobre el estado y avance del Programa de la Pensión Alimentaria;
-
-VIII. Coadyuvar en el desarrollo de modelos, programas y acciones de atención integral a los adultos mayores pensionados en el Distrito Federal que establezca el Instituto Participar en la planeación estratégica y operativa del programa de visitas domiciliarias a su cargo;
-
-IX. Participar en la planeación y operación de diagnósticos sociales y de salud de los adultos mayores que gozan del beneficio económico de la pensión alimentaria;
-
-X. Proponer lineamientos de supervisión dirigidos al personal operativo de la Pensión Alimentaria y vigilar su cumplimiento;
-
-XI. Vigilar los procedimientos de operación del programa de la pensión alimentaria;
-
-XII. Informar al titular del Instituto sobre las acciones a su cargo y el estado mensual del padrón de derechohabientes de la pensión alimentaria;
-
-XIII. Dirigir, coordinar y supervisar el desempeño del personal a su cargo y de ser el caso, informar las irregularidades detectadas; y
-
-XIV. Las demás que de manera directa le asigne el titular del Instituto y aquellas que se establezcan en otras disposiciones y manuales administrativos.
+(DEROGADO, G.O. 7 DE JUNIO DE 2013)
 
 ###### Artículo 212.
 
 (DEROGADO, G.O. 16 DE NOVIEMBRE DE 2010)
 
-> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 213.
 
-La Dirección de Programas Especiales cuenta con las siguientes atribuciones:
+(DEROGADO, G.O. 7 DE JUNIO DE 2013)
 
-I. Dirigir la operación de los Programas Especiales a cargo del Instituto;
-
-II. Establecer estrategias para el desarrollo de programas permanentes en tareas encomendadas al Instituto;
-
-III. Planear, programar y presupuestar acciones en materia de atención integral y de promoción del envejecimiento activo;
-
-IV. Establecer los lineamientos y elementos técnico normativos, para el desarrollo de las actividades sustantivas de las áreas que integran la Dirección;
-
-V. Formular proyectos de capacitación de recursos humanos en Gerontología, Geriatría y disciplinas afines al objeto del Instituto;
-
-VI. Llevar a cabo actividades que fomenten la participación de la familia y la comunidad, en los programas de atención integral de las personas adultas mayores;
-
-VII. Dirigir el desarrollo de acciones de Apoyo Social para las Personas Adultas Mayores de 68 años;
-
-VIII. Informar al titular del Instituto sobre los avances y variantes que ocurran en la programación y operación de los servicios, así como medidas aplicadas para su atención;
-
-IX. Difundir la normatividad nacional e internacional en materia de promoción de envejecimiento activo, cultura de la vejez y derechos de las personas adultas mayores;
-
-X. Coordinar programas y acciones de inducción, capacitación y actualización del personal operativo, de nuevo ingreso y nivel central;
-
-XI. Elaborar los informes requeridos por su superior jerárquico;
-
-XII. Dirigir, coordinar y supervisar el desempeño del personal a su cargo;
-
-XIII. Elaborar el Programa Operativo Anual de la Dirección de Programas Especiales; y
-
-XIV. Las que de manera directa le asigne el titular del Instituto, así como así como (sic) aquellas que se establezcan en otras disposiciones y manuales administrativos.
-
-> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 214.
 
-La Dirección de Vinculación Interinstitucional cuenta con las siguientes atribuciones:
+(DEROGADO, G.O. 7 DE JUNIO DE 2013)
 
-I. Establecer mecanismos de coordinación intersectorial para la asesoría, capacitación, apoyo didáctico y seguimiento de la población Adulto Mayor;
-
-II. Fijar estrategias de vinculación con instituciones sociales públicas y privadas, con el fin de garantizar la atención integral a las personas adultas mayores;
-
-III. Proponer la ejecución de acciones que enriquezcan el Programa de Protección Social a favor de los Adultos Mayores;
-
-IV. Informar al titular de la Dirección General del Instituto sobre las acciones y programas que en materia de atención a los adultos mayores establezcan las Dependencias del Gobierno del Distrito Federal, Delegaciones Políticas, Gobierno Federal, Organizaciones de la Sociedad Civil;
-
-V. Informar sobre el desarrollo y evaluación del Programa de Protección Social para personas adultas mayores;
-
-VI. Impulsar el desarrollo de modelos de participación, organización y gestión social que coadyuven en la creación y mejoramiento de redes sociales a favor de las personas Adultas Mayores;
-
-VII. Participar en la integración de diagnósticos socio-económicos de las personas adultas mayores;
-
-VIII. Desarrollar y dirigir la aplicación de modelos para la operación de los programas de atención integral a las personas Adultas Mayores del Distrito Federal;
-
-IX. Dirigir, coordinar y supervisar el desempeño del personal a su cargo;
-
-X. Elaborar y entregar los informes que le sean solicitados; y
-
-XI. Las que de manera directa le asigne el titular del Órgano Desconcentrado, así como los que se establezcan en otras disposiciones y manuales administrativos.
-
-> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 215.
 
-La Dirección de Operación Territorial cuenta con las siguientes atribuciones:
-
-I. Proponer al titular del Instituto mecanismos para la operación territorial de la pensión alimentaria, de Visitas Domiciliarias y programas de atención a adultos mayores;
-
-II. Dirigir el desarrollo de programas que se ejecuten en las unidades administrativas de Coordinación Regional;
-
-III. Supervisar la operación de la Pensión Alimentaria a nivel regional;; (sic)
-
-IV. Supervisar al personal adscrito a las unidades administrativas de Coordinación Regional;
-
-V. Elaborar la propuesta del Programa Operativo Anual para la Pensión Alimentaria;
-
-VI. Dirigir, coordinar y supervisar el desempeño del personal a su cargo;
-
-VII. Elaborar los informes que le sean requeridos por el titular del Instituto; y
-
-VIII. Las que de manera directa le asigne el titular del Órgano Desconcentrado, así como los que se establezcan en otras disposiciones y manuales administrativos.
+(DEROGADO, G.O. 7 DE JUNIO DE 2013)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -16461,3 +16357,15 @@ DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN LOS ARTÍCULOS: 7º; 32 QUÁ
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
+
+G.O. 7 DE JUNIO DE 2013.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor a los 60 días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se instruye a la Secretaría de Finanzas y Oficialía Mayor para que dentro de sus facultades realicen la transferencia de los recursos humanos, materiales, técnicos y financieros del entonces Órgano Desconcentrado Instituto para la Atención de los Adultos Mayores en el Distrito Federal, a la Secretaría de Desarrollo Social, quien adecuará la estructura de la Dirección General que se crea para el desempeño apropiado de sus funciones.
+
+CUARTO.- Se instruye a la Secretaría de Desarrollo Social, para que realice las gestiones necesarias ante las instancias competentes y se modifique la normatividad que rija a la Dirección General que se crea y al programa de la pensión alimentaria para adultos mayores de sesenta y ocho años, residentes en el Distrito Federal, ajustándola a los términos de este Decreto.
+
+QUINTO.- Se derogan las disposiciones que se opongan al presente decreto.
