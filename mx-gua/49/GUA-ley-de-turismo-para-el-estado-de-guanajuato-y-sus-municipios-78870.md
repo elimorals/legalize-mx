@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-turismo-para-el-estado-de-guanajuato-y-sus-municipios-78
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-24"
-last_updated: "2010-12-24"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE TURISMO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 2010.
 
@@ -99,7 +99,9 @@ VIII. Potencial Turístico: Característica de un destino, municipio, región o 
 
 IX. Prestador de servicios turísticos: Toda persona física o moral que en forma permanente o eventualmente proporcione, sirva de intermediario o contrate con el turista la prestación de servicios;
 
-X. Secretaría: La Secretaría de Desarrollo Turístico del Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+X. Secretaría: La Secretaría de Turismo del Estado;
 
 XI. Turista: La persona que viaja temporalmente dentro del territorio del Estado y fuera de su lugar de residencia habitual, que utilice alguno de los servicios turísticos a que se refieren las normas de la materia; y
 
@@ -173,7 +175,9 @@ VII. Coordinar con las autoridades federales y municipales, las actividades de v
 
 VIII. Instalar, en coordinación con el sector privado, una oficina encargada de promover de manera integral el turismo en materia de congresos, convenciones y demás segmentos que generen una afluencia permanente al estado;
 
-IX. Crear los mecanismos que permitan la participación del sector privado, en la elaboración y evaluación del Programa de Promoción Turística, a desarrollar con cargo en los recursos que transfiere la Secretaría de Finanzas y Administración a la Secretaría, por concepto de la recaudación del Impuesto por servicios de hospedaje, en los términos de la Ley de Hacienda para el Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+IX. Crear los mecanismos que permitan la participación del sector privado, en la elaboración y evaluación del Programa de Promoción Turística, a desarrollar con cargo en los recursos que transfiere la Secretaría de Finanzas, Inversión y Administración a la Secretaría, por concepto de la recaudación del Impuesto por servicios de hospedaje, en los términos de la Ley de Hacienda para el Estado de Guanajuato;
 
 X. Difundir entre la población los derechos y deberes del turista, así como de los prestadores de servicios turísticos, y
 
@@ -245,9 +249,11 @@ Los cargos de los integrantes del órgano serán honoríficos, por lo que no rec
 
 Organización del Consejo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 13.
 
-El Consejo Consultivo Turístico será presidido por el Titular del Poder Ejecutivo del Estado, y en su ausencia por el Secretario de Desarrollo Turístico.
+El Consejo Consultivo Turístico será presidido por el Titular del Poder Ejecutivo del Estado, y en su ausencia por el Secretario de Turismo.
 
 La organización y funcionamiento del órgano consultivo a que se refiere este artículo, se establecerá en su instrumento de creación.
 
@@ -269,7 +275,9 @@ V. Fomentar la calidad de los servicios turísticos que se ofrecen en la Entidad
 
 VI. Participar en la elaboración y evaluación de los proyectos, políticas y programas de promoción turística; y
 
-VII. Las demás que le encomienden el Titular del Poder Ejecutivo del Estado o el Secretario de Desarrollo Turístico.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VII. Las demás que le encomienden el Titular del Poder Ejecutivo del Estado o el Secretario de Turismo.
 
 ### Capítulo IV. Coordinación
 
@@ -295,9 +303,11 @@ Los municipios con actividad económica turística, podrán integrar un órgano 
 
 Congruencia en los instrumentos de planeación estatal
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 18.
 
-Los planes, programas y acciones relacionados con el turismo se sujetarán a los principios, estrategias y prioridades previstas en el Programa Nacional de Turismo, el Plan Estatal de Desarrollo y el Plan de Gobierno del Estado.
+Los planes, programas y acciones relacionados con el turismo se sujetarán a los principios, estrategias y prioridades previstas en el Programa Nacional de Turismo, el Plan Estatal de Desarrollo y el Programa de Gobierno del Estado.
 
 Congruencia en los instrumentos de planeación municipal
 
@@ -732,3 +742,11 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
