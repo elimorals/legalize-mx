@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ciencia-y-tecnologia-24877"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-05"
-last_updated: "2011-01-28"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2002-06-03"
 ---
 # LEY DE CIENCIA Y TECNOLOGIA
 
-LEY DE CIENCIA Y TECNOLOGIA
+LEY DE CIENCIA Y TECNOLOGÍA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -87,7 +87,7 @@ IX. Fomentar el desarrollo tecnológico y la innovación de las empresas naciona
 
 ###### Artículo 2.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 Se establecen como bases de una política de Estado que sustente la integración del Sistema Nacional de Ciencia, Tecnología e Innovación, las siguientes:
 
@@ -109,17 +109,21 @@ IV. Integrar esfuerzos de los diversos sectores, tanto de los generadores como d
 
 V. Fortalecer el desarrollo regional a través de políticas integrales de descentralización de las actividades científicas, tecnológicas y de innovación;
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2013)</small>
 
-VI. Promover los procesos que hagan posible la definición de prioridades, asignación y optimización de recursos del Gobierno Federal para la ciencia, la tecnología y la innovación en forma participativa, y
+VI. Promover los procesos que hagan posible la definición de prioridades, asignación y optimización de recursos del Gobierno Federal para la ciencia, la tecnología y la innovación en forma participativa;
 
-> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2013)</small>
 
-VII. Propiciar el desarrollo regional mediante el establecimiento de redes o alianzas para la investigación científica, el desarrollo tecnológico y la innovación.
+VII. Propiciar el desarrollo regional mediante el establecimiento de redes o alianzas para la investigación científica, el desarrollo tecnológico y la innovación, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+VIII. Promover la inclusión de la perspectiva de género con una visión transversal en la ciencia, la tecnología y la innovación, así como una participación equitativa de mujeres y hombres en todos los ámbitos del Sistema Nacional de Ciencia, Tecnología e Innovación.
 
 ###### Artículo 3.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 Para los efectos de esta Ley, el Sistema Nacional de Ciencia, Tecnología e Innovación se integra por:
 
@@ -147,13 +151,13 @@ Para los efectos de esta Ley se entenderá por:
 
 I. CONACyT, el Consejo Nacional de Ciencia y Tecnología;
 
-> <small>(REFORMADA, D.O.F.12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 II. Programa, el Programa Especial de Ciencia, Tecnología e Innovación;
 
 III. Investigación, aquélla que abarca la investigación científica, básica y aplicada en todas las áreas del conocimiento, así como la investigación tecnológica;
 
-> <small>(REFORMADA, D.O.F.12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 IV. Consejo General, al Consejo General de Investigación Científica, Desarrollo Tecnológico e Innovación;
 
@@ -165,23 +169,23 @@ VII. Centros, a los Centros Públicos de Investigación;
 
 VIII. Red, a la Red Nacional de Grupos y Centros de Investigación;
 
-> <small>(ADICIONADA, D.O.F.12 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 IX. Innovación, generar un nuevo producto, diseño, proceso, servicio, método u organización o añadir valor a los existentes;
 
-> <small>(ADICIONADA, D.O.F.12 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 X. Desarrollo tecnológico, el uso sistemático del conocimiento y la investigación dirigidos hacia la producción de materiales, dispositivos, sistemas o métodos incluyendo el diseño, desarrollo, mejora de prototipos, procesos, productos, servicios o modelos organizativos;
 
-> <small>(ADICIONADA, D.O.F.12 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 XI. Unidades de vinculación y transferencia de conocimiento, las unidades creadas por las universidades e instituciones de educación superior o los Centros Públicos de Investigación, que tiene como propósito generar y ejecutar proyectos en materia de desarrollo tecnológico e innovación y promover su vinculación con los sectores productivos y de servicios.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO II. Sobre el Consejo General de Investigación Científica, Desarrollo Tecnológico e Innovación
 
-> <small>(REFORMADO, D.O.F.12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 ###### Artículo 5.
 
@@ -247,7 +251,7 @@ XI. Realizar el seguimiento y conocer la evaluación general del programa especi
 
 El Consejo General sesionará dos veces al año en forma ordinaria y en forma extraordinaria cuando su Presidente así lo determine, a propuesta del Secretario Ejecutivo. El Consejo General sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. Las resoluciones se tomarán por mayoría de los miembros presentes teniendo el Presidente voto de calidad para el caso de empate.
 
-> <small>(REFORMADO, D.O.F.12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 ###### Artículo 8.
 
@@ -255,13 +259,13 @@ El Consejo General podrá crear comités intersectoriales y de vinculación para
 
 ###### Artículo 9.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 Para garantizar la eficaz incorporación de las políticas y programas prioritarios en los anteproyectos de programas operativos y presupuestos anuales, así como para la revisión integral y de congruencia global del anteproyecto de presupuesto federal en lo relativo a ciencia, tecnología e innovación y asegurar la ejecución de los instrumentos específicos de apoyo que determine el Consejo General, se integrará un comité intersecretarial que será coordinado de manera conjunta por la Secretaría de Hacienda y Crédito Público, a nivel subsecretario, y por el Secretario Ejecutivo, al que asistirán los subsecretarios o funcionarios de nivel equivalente de la Administración Pública Federal encargados de las funciones de investigación científica, desarrollo tecnológico e innovación de cada sector.
 
 El Comité Intersecretarial a que se refiere el párrafo anterior, se apoyará en un Secretario Técnico con funciones permanentes, designado conjuntamente por la Secretaría de Hacienda y Crédito Público y el CONACyT.
 
-> <small>(ADICIONADO, D.O.F.12 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 El anteproyecto de presupuesto consolidado de ciencia, tecnología e innovación se presentará a consideración del Consejo General para su inclusión en el Proyecto de Presupuesto de Egresos de la Federación.
 
@@ -307,13 +311,13 @@ VI. Las demás que le confieren esta Ley, la Ley Orgánica del CONACyT y otros o
 
 El CONACyT estará facultado para interpretar esta Ley para efectos administrativos.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO III. Principios Orientadores del Apoyo a la Investigación Científica, Desarrollo Tecnológico e Innovación
 
 ###### Artículo 12.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 Los principios que regirán el apoyo que el Gobierno Federal está obligado a otorgar para fomentar, desarrollar y fortalecer en general la investigación científica, el desarrollo tecnológico y la innovación, así como en particular las actividades de investigación que realicen las dependencias y entidades de la Administración Pública Federal, serán los siguientes:
 
@@ -333,9 +337,9 @@ III. La toma de decisiones, desde la determinación de políticas generales y pr
 
 IV. Los instrumentos de apoyo a la ciencia, la tecnología y la innovación deberán ser promotores de la descentralización territorial e institucional, procurando el desarrollo armónico de la potencialidad científica, tecnológica y de innovación del país, y buscando asimismo, el crecimiento y la consolidación de las comunidades científica y académica en todas las entidades federativas, en particular las de las instituciones públicas;
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2013)</small>
 
-V. Las políticas, instrumentos y criterios con los que el Gobierno Federal fomente y apoye la investigación científica, el desarrollo tecnológico y la innovación deberán buscar el mayor efecto benéfico, de estas actividades, en la enseñanza y el aprendizaje de la ciencia y la tecnología, en la calidad de la educación, particularmente de la educación superior, en la vinculación con el sector productivo y de servicios, así como incentivar la participación y desarrollo de las nuevas generaciones de investigadores y tecnólogos;
+V. Las políticas, instrumentos y criterios con los que el Gobierno Federal fomente y apoye la investigación científica, el desarrollo tecnológico y la innovación deberán buscar el mayor efecto benéfico, de estas actividades, en la enseñanza y el aprendizaje de la ciencia y la tecnología, en la calidad de la educación, particularmente de la educación superior, en la vinculación con el sector productivo y de servicios, así como incentivar la participación equilibrada y sin discriminación entre mujeres y hombres y el desarrollo de las nuevas generaciones de investigadores y tecnólogos;
 
 > <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
@@ -387,7 +391,7 @@ XX. Se generará un espacio institucional para la expresión y formulación de p
 
 Este espacio deberá ser plural; representativo de los diversos integrantes de la comunidad científica y tecnológica; expresar un equilibrio entre las diversas regiones del país; e incorporar la opinión de instancias ampliamente representativas de los sectores social y privado.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO IV. Instrumentos de Apoyo a la Investigación Científica, el Desarrollo Tecnológico y la Innovación
 
@@ -395,7 +399,7 @@ Este espacio deberá ser plural; representativo de los diversos integrantes de l
 
 ###### Artículo 13.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 El Gobierno Federal apoyará la investigación científica, el desarrollo tecnológico y la innovación mediante los siguientes instrumentos:
 
@@ -435,6 +439,10 @@ El sistema integrado de información sobre investigación científica, desarroll
 
 El sistema de información también comprenderá datos relativos a los servicios técnicos para la modernización tecnológica, la normalización, la propiedad industrial, el desarrollo tecnológico y la innovación.
 
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+En la medida de lo posible, el sistema deberá incluir información de manera diferenciada entre mujeres y hombres a fin de que se pueda medir el impacto y la incidencia de las políticas y programas en materia de desarrollo científico, tecnológico e innovación.
+
 ###### Artículo 15.
 
 Las dependencias y las entidades de la Administración Pública Federal colaborarán con el CONACyT en la conformación y operación del sistema integrado de información a que se refiere el artículo anterior. Asimismo se podrá convenir con los gobiernos de las entidades federativas, de los municipios, así como con las instituciones de educación superior públicas, su colaboración para la integración y actualización de dicho Sistema.
@@ -473,7 +481,7 @@ Dichas bases preverán lo necesario para que el sistema y el registro sean instr
 
 La constancia de inscripción en el mencionado registro permitirá acreditar que el solicitante realiza efectivamente las actividades a que se refiere el artículo 17 de esta Ley. Para la determinación de aquellas actividades que deban considerarse de desarrollo tecnológico e innovación, el CONACyT pedirá la opinión a las instancias, dependencias o entidades que considere conveniente.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 #### SECCIÓN III. Programa Especial de Ciencia, Tecnología e Innovación
 
@@ -487,7 +495,7 @@ El Programa incluirá una visión de largo plazo y proyección de hasta veintici
 
 ###### Artículo 21.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 La formulación del Programa Especial estará a cargo del CONACyT con base en las propuestas que presenten las dependencias y entidades de la Administración Pública Federal que apoyen o realicen investigación científica, desarrollo tecnológico e innovación. En dicho proceso se tomarán en cuenta las opiniones y propuestas de las comunidades científica, académica, tecnológica y sector productivo, convocadas por el Foro Consultivo Científico y Tecnológico. A fin de lograr la congruencia sustantiva y financiera del Programa, su integración final se realizará conjuntamente por el CONACyT y la Secretaría de Hacienda y Crédito Público. Su presentación será por conducto del Director General del CONACyT y su aprobación corresponderá al Consejo General. Una vez aprobado, su observancia será obligatoria para las dependencias y entidades participantes, en los términos del decreto presidencial que expida el titular del Ejecutivo Federal.
 
@@ -577,7 +585,7 @@ V. El objeto de cada fondo invariablemente será el otorgamiento de apoyos y fin
 
 ###### Artículo 25.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 Las Secretarías de Estado y las entidades de la Administración Pública Federal, podrán celebrar convenios con el CONACyT, cuyo propósito sea determinar el establecimiento de fondos sectoriales CONACyT que se destinen a la realización de investigaciones científicas, desarrollo tecnológico, innovación, el registro nacional o internacional de propiedad intelectual, y la formación de recursos humanos especializados, becas, creación, fortalecimiento de grupos o cuerpos académicos o profesionales de investigación, desarrollo tecnológico e innovación, divulgación científica, tecnológica e innovación y de la infraestructura que requiera el sector de que se trate, en cada caso. Dichos convenios se celebrarán y los fondos se constituirán y operarán con apego a las bases establecidas en las fracciones I y III del artículo 24 y las fracciones I, III, IV, V, VI, VII, VIII y IX del artículo 26 de esta Ley y a las bases específicas siguientes:
 
@@ -673,7 +681,7 @@ El Secretario Ejecutivo, con base al trabajo del Comité Intersectorial y de Vin
 
 ###### Artículo 31.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 Se crea la Conferencia Nacional de Ciencia, Tecnología e Innovación como instancia permanente de coordinación institucional entre el CONACyT y las dependencias o entidades de los gobiernos de las entidades federativas competentes en materia de fomento a la investigación científica, el desarrollo tecnológico y la innovación que acepten a invitación del CONACyT, formar parte del mismo, con objeto de promover acciones para apoyar la investigación científica, el desarrollo tecnológico y la innovación, así como de participar en la definición de políticas y programas en esta materia.
 
@@ -711,7 +719,7 @@ El Director General del CONACyT propondrá al pleno de la Conferencia las bases 
 
 ###### Artículo 33.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 El Ejecutivo Federal, por conducto de las Secretarías de Hacienda y Crédito Público, de Educación Pública, de Economía, de Medio Ambiente y Recursos Naturales, de Salud, de Energía u otras dependencias, según corresponda, y/o el CONACyT, podrá celebrar convenios con los gobiernos de las entidades federativas y con los municipios, a efecto de establecer programas y apoyos específicos de carácter regional, estatal y municipal para impulsar el desarrollo y descentralización de las actividades científicas, tecnológicas y de innovación.
 
@@ -741,7 +749,7 @@ VI. Los demás aspectos necesarios relacionados con lo anterior.
 
 ###### Artículo 35.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 El CONACyT podrá convenir con los gobiernos de las entidades federativas y de los municipios, el establecimiento y operación de fondos mixtos de carácter regional, estatal y municipal de apoyo a la investigación científica, el desarrollo tecnológico y la innovación, que podrán incluir la formación de recursos humanos de alta especialidad, los cuales se integrarán y desarrollarán con aportaciones de las partes en la proporción que en cada caso se determine. Las partes de los convenios serán fideicomitentes. A dichos fondos le será aplicable lo siguiente:
 
@@ -789,7 +797,7 @@ III. En su integración se observarán los criterios de pluralidad, de renovaci�
 
 IV. Tendrá una organización basada en comités de trabajo integrados por especialistas en los diversos temas de la ciencia y la tecnología;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ABRIL DE 2010)</small>
 
 V. Contará con una mesa directiva formada por veinte integrantes, diecisiete de los cuales serán los titulares que representen a las siguientes organizaciones: la Academia Mexicana de Ciencias, A. C.; la Academia Mexicana de Ingeniería, A. C.; la Academia Nacional de Medicina, A. C.; la Asociación Mexicana de Directivos de la Investigación Aplicada y Desarrollo Tecnológico, A.C.; la Asociación Nacional de Universidades e Instituciones de Educación Superior; la Confederación Nacional de Cámaras Industriales; el Consejo Nacional Agropecuario; la Confederación Patronal de la República Mexicana; la Cámara Nacional de la Industria de la Transformación, y un representante de la Red Nacional de Consejos y Organismos Estatales de Ciencia y Tecnología, A.C.; la Universidad Nacional Autónoma de México; el Instituto Politécnico Nacional; el Centro de Investigación y Estudios Avanzados del Instituto Politécnico Nacional; la Academia Mexicana de la Lengua; la Academia Mexicana de Historia; el Sistema de Centros Públicos de Investigación y el Consejo Mexicano de Ciencias Sociales.
 
@@ -833,7 +841,7 @@ VI. Rendir opiniones y formular sugerencias específicas que le solicite el Ejec
 
 El CONACyT otorgará, por conducto del secretario técnico de la mesa directiva, los apoyos necesarios para garantizar el adecuado funcionamiento del Foro Consultivo Científico y Tecnológico, lo que incluirá los apoyos logísticos y los recursos para la operación permanente, así como los gastos de traslado y estancia necesarias para la celebración de sus reuniones de trabajo.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO VII. De la Vinculación del Sector Productivo y de Servicios con la Investigación Científica, el Desarrollo Tecnológico y la Innovación
 
@@ -925,7 +933,9 @@ El Secretario Técnico del Comité tendrá las facultades legales para la celebr
 
 ###### Artículo 42.
 
-El Gobierno Federal apoyará la investigación científica y tecnológica que contribuya significativamente a desarrollar un sistema de educación, formación y consolidación de recursos humanos de alta calidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+El gobierno federal apoyará la investigación científica y tecnológica que contribuya significativamente a desarrollar un sistema de educación, formación y consolidación de recursos humanos de alta calidad en igualdad de oportunidades y acceso entre mujeres y hombres.
 
 La Secretaría de Educación Pública y el CONACyT establecerán los mecanismos de coordinación y colaboración necesarios para apoyar conjuntamente los estudios de posgrado, poniendo atención especial al incremento de su calidad; la formación y consolidación de grupos académicos de investigación, y la investigación científica básica en todas las áreas del conocimiento y el desarrollo tecnológico. Estos mecanismos se aplicarán tanto en las instituciones de educación superior como en la Red Nacional de Grupos y Centros de Investigación.
 
@@ -977,7 +987,7 @@ II. Se constituirán con los recursos autogenerados del propio centro público d
 
 III. El beneficiario del fondo será el centro público de investigación que lo hubiere constituido;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 IV. El objeto del fondo será financiar o complementar financiamiento de proyectos específicos de investigación, de desarrollo tecnológico y de innovación, la creación y mantenimiento de instalaciones de investigación, su equipamiento, el suministro de materiales, el otorgamiento de becas y formación de recursos humanos especializados, la generación de propiedad intelectual y de inversión asociada para su potencial explotación comercial, la creación y apoyo de las unidades de vinculación y transferencia de conocimiento, el otorgamiento de incentivos extraordinarios a los investigadores que participen en los proyectos, y otros propósitos directamente vinculados para proyectos científicos, tecnológicos o de innovación aprobados. Asimismo, podrá financiarse la contratación de personal por tiempo determinado para proyectos científicos, tecnológicos o de innovación, siempre que no se regularice dicha contratación posteriormente. En ningún caso los recursos podrán afectarse para gastos fijos de la administración de la entidad. Los bienes adquiridos, patentes, derechos de autor y obras realizadas con recursos de los fondos formarán parte del patrimonio del propio centro. La contratación de las adquisiciones, arrendamientos y servicios con cargo a los recursos autogenerados de los fondos, será conforme a las reglas de operación de dichos fondos; a los criterios, procedimientos y mecanismos que en estas materias expidan los órganos de gobierno de los centros, así como a las disposiciones administrativas que, en su caso, estime necesario expedir la Secretaría de la Función Pública o la Secretaría de Hacienda y Crédito Público, en el ámbito de sus respectivas competencias, administrando dichos recursos con eficiencia, eficacia y honradez, para satisfacer los objetivos a los que estén destinados y asegurar al centro las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
@@ -991,7 +1001,7 @@ VI. La cuantía o la disponibilidad de recursos en los Fondos, incluyendo capita
 
 ###### Artículo 51.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 Los Centros Públicos de Investigación promoverán conjuntamente con los sectores público y privado la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica, y redes regionales de innovación en las cuales se procurará la incorporación de desarrollos tecnológicos e innovaciones realizadas en dichos centros, así como de los investigadores formados en ellos.
 
@@ -1101,7 +1111,7 @@ XVI. Aprobar el destino de los recursos por los ahorros que se generen que prove
 
 XVII. Establecer las bases y criterios generales que deberán observar los investigadores que concluyan su empleo, cargo o comisión en los Centros, para el eventual uso y aprovechamiento de la información que éstos hubiesen conocido o generado durante o con motivo de su desempeño como personal de los Centros, en los casos en que una vez separados de los Centros, decidan colaborar en forma inmediata con otra dependencia o entidad, pública o privada.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 > <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2006)</small>
 
@@ -1231,7 +1241,7 @@ México, D.F., a 30 de abril de 2002.- Dip. Beatriz Elena Paredes Rangel, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de junio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 1 DE SEPTIEMBRE DE 2004.
 
@@ -1268,3 +1278,7 @@ D.O.F. 27 DE ABRIL DE 2010.
 D.O.F. 28 DE ENERO DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
