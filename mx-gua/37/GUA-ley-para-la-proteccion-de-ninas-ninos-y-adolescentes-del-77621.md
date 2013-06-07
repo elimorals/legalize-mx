@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-ninas-ninos-y-adolescentes-del-77621"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-19"
-last_updated: "2010-11-19"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de noviembre de 2010.
 
@@ -169,7 +169,9 @@ Atribuciones del Gobernador
 
 El titular del Poder Ejecutivo tendrá las siguientes atribuciones:
 
-I. Incluir en el Plan Estatal de Desarrollo y en el Plan de Gobierno los objetivos, las metas, las estrategias y las acciones que garanticen dar protección a niñas, niños y adolescentes en el Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+l. Incluir en el Plan Estatal de Desarrollo y en el Programa de Gobierno los objetivos, las metas, las estrategias y las acciones que garanticen dar protección a niñas, niños y adolescentes en el Estado;
 
 II. Emitir el Programa a favor de niñas, niños y adolescentes;
 
@@ -237,7 +239,9 @@ Atribuciones de los ayuntamientos
 
 Los ayuntamientos tendrán las siguientes atribuciones:
 
-I. Establecer en el Plan Municipal de Desarrollo y en el Plan de Gobierno los objetivos, las metas, las estrategias y las acciones para garantizar la protección de niñas, niños y adolescentes en el Municipio;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+l. Establecer en el Plan Municipal de Desarrollo y en el Programa de Gobierno los objetivos, las metas, las estrategias y las acciones para garantizar la protección de niñas, niños y adolescentes en el Municipio;
 
 II. Aprobar los programas y acciones en materia de protección de niñas, niños y adolescentes en el Municipio;
 
@@ -748,3 +752,11 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
