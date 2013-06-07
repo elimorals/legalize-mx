@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-juventud-del-estado-de-guanajuato-70241"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-04"
-last_updated: "2009-09-04"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA JUVENTUD DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de septiembre de 2009.
 
@@ -211,7 +211,9 @@ Competencia del Ejecutivo del Estado
 
 Compete al Titular del Poder Ejecutivo del Estado:
 
-I. Incluir en el Plan Estatal de Desarrollo y en el Plan de Gobierno, las metas, estrategias y acciones con una perspectiva de desarrollo integral de los jóvenes, en donde se abarquen los principios rectores a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I. Incluir en el Plan Estatal de Desarrollo y en el Programa de Gobierno, las metas, estrategias y acciones con una perspectiva de desarrollo integral de los jóvenes, en donde se abarquen los principios rectores a que se refiere esta Ley;
 
 II. Emitir el Programa Estatal de Juventud, el cual le será propuesto por el Instituto;
 
@@ -235,7 +237,9 @@ Competencia de los ayuntamientos
 
 Corresponde a los ayuntamientos:
 
-I. Establecer en el Plan Municipal de Desarrollo y en el Plan de Gobierno Municipal las metas, estrategias y acciones para el desarrollo integral de los jóvenes, en coordinación con el Instituto;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+l. Establecer en el Plan Municipal de Desarrollo y en el Programa de Gobierno Municipal las metas, estrategias y acciones para el desarrollo integral de los jóvenes, en coordinación con el Instituto;
 
 II. Contar con un organismo municipal en los términos de esta Ley;
 
@@ -327,29 +331,35 @@ Para su gobierno, operación, administración y funcionamiento, el Instituto con
 
 Conformación del Consejo Directivo
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 17.
 
 El Consejo Directivo es el órgano de gobierno del Instituto y se integrará por:
 
-I. El Titular de la Secretaría de Educación quien fungirá como Presidente;
+l. Un ciudadano designado por el Gobernador, quien fungirá como Presidente;
 
-II. El Titular de la Secretaría de Salud;
+II. El Titular de la Secretaría de Desarrollo Social y Humano;
 
-III. El Titular de la Secretaría de Desarrollo Social y Humano;
+III. El Titular de la Secretaría de Salud;
 
-IV. El Titular de la Secretaría de Seguridad Pública;
+IV. El Titular de la Secretaría de Educación;
 
-V. El Director General del Instituto;
+V. El Titular de-la Secretaría de Seguridad Pública;
 
-VI. Un representante de la Comisión Estatal para la Planeación de la Educación Superior designado de entre los directores de facultades, escuelas o planteles cuya población escolar sean predominantemente jóvenes;
+VI. El Director General del Instituto;
 
-VII. Un representante de la Comisión Estatal para la Planeación y Programación de la Educación Media Superior designado de entre los directores de escuelas o planteles;
+VII. Un representante de la Comisión Estatal para la Planeación de la Educación Superior designado de entre los directores de facultades, escuelas o planteles cuya población escolar sean predominantemente jóvenes;
 
-VIII. Un representante de organizaciones de atención a la juventud; y
+VIII. Un representante de la Comisión Estatal para la Planeación y Programación de la Educación Media Superior designado de entre los directores de escuelas o planteles;
 
-IX. Un representante del sector privado.
+IX. Un representante de organizaciones de atención a la juventud; y
+
+X. Un representante del sector privado.
 
 Cada integrante del Consejo deberá designar a su suplente, los cuales deberán ser, preferentemente, personas con conocimiento en materia de atención a la juventud.
+
+Cuando asista el Gobernador del Estado, este asumirá la presidencia y el ciudadano presidente fungirá como vocal; ambos conservarán el derecho a voz y voto.
 
 Carácter honorífico de los cargos del Consejo Directivo
 
@@ -359,9 +369,11 @@ El cargo de los integrantes del Consejo Directivo será de naturaleza honorífic
 
 Método para designar representantes
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 19.
 
-Los representantes señalados en las fracciones VIII y IX del artículo 17 se designarán mediante convocatoria pública, dicho procedimiento será señalado en el Reglamento de ésta Ley.
+Los representantes señalados en las fracciones IX y X del artículo 17 se designarán mediante convocatoria pública, dicho procedimiento será señalado el (sic) Reglamento de ésta Ley.
 
 Derecho a voto en el Consejo Directivo
 
@@ -469,11 +481,13 @@ XV. Las demás que le otorguen esta Ley, el Reglamento Interior o las que le enc
 
 Órgano de Vigilancia
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 26.
 
-El Instituto contará con un órgano de vigilancia, que será parte integrante de su estructura y desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Gestión Pública.
+El Instituto contará con un órgano de vigilancia, que será parte integrante de su estructura y desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Transparencia y Rendición de Cuentas.
 
-En dicho órgano de vigilancia participará un representante de la Secretaría de la Gestión Pública.
+En dicho órgano de vigilancia participará un representante de la Secretaría de la Transparencia y Rendición de Cuentas.
 
 Atribuciones del Órgano de Vigilancia
 
@@ -664,3 +678,11 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
