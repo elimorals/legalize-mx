@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-ejercicio-y-control-de-los-recursos-publicos-33345"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-12"
-last_updated: "2012-12-21"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de agosto del 2003.
 
@@ -65,9 +65,13 @@ Son sujetos de la presente Ley los Poderes Ejecutivo, Legislativo y Judicial, lo
 
 Para los efectos de la presente Ley se entiende por:
 
-I.- Secretaría: La Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-II.- Contralorías: La Secretaría de la Contraloría, las contralorías municipales, y las contralorías internas u órganos de vigilancia de los Poderes Legislativo y Judicial y de los Organismos Autónomos;
+I. Secretaría: La Secretaría de Finanzas, Inversión y Administración;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+II. Contralorías: La Secretaría de la Transparencia y Rendición de Cuentas, las contralorías municipales, y las contralorías internas u órganos de vigilancia de los Poderes Legislativo y Judicial y de los Organismos Autónomos;
 
 III.- Tesorería: Las tesorerías municipales;
 
@@ -87,7 +91,7 @@ X.- Presupuestación: Proceso de consolidación de las acciones encaminadas a cu
 
 XI.- Gasto Público: Conjunto de erogaciones que realizan los sujetos de la Ley en sus respectivos niveles, en el ejercicio de sus funciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÉSE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
 
@@ -851,15 +855,19 @@ Los sistemas de contabilidad deberán diseñarse y operarse en forma tal que fac
 
 Las Contralorías en el ejercicio de sus atribuciones, comprobarán el cumplimiento de esta Ley y establecerán las medidas administrativas necesarias para detectar los posibles daños y perjuicios que afecten al patrimonio o a la hacienda pública.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ## TÍTULO SEXTO. LAS RESPONSABILIDADES
 
 ###### Artículo 106.
 
-Cuando se detecten irregularidades por actos u omisiones de servidores públicos en el manejo, aplicación, administración de bienes, fondos, valores y de recursos económicos públicos, se emitirá resolución en la que se finquen las responsabilidades correspondientes, de acuerdo al procedimiento previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios de Guanajuato.
+Cuando se detecten irregularidades por actos u omisiones de servidores públicos en el manejo, aplicación, administración de bienes, fondos, valores y de recursos económicos públicos, se emitirá resolución en la que se finquen las responsabilidades correspondientes, de acuerdo al procedimiento previsto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 107.
 
-Cuando en la resolución se determine la existencia de daños y perjuicios causados al patrimonio o a la hacienda pública del Estado o de los Municipios, se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios de Guanajuato.
+Cuando en la resolución se determine la existencia de daños y perjuicios causados al patrimonio o a la hacienda pública del Estado o de los Municipios, se procederá en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
 
 ## TRANSITORIOS
 
@@ -918,3 +926,9 @@ El titular del Poder Ejecutivo del Estado y los ayuntamientos contarán con un p
 P.O. 21 DE DICIEMBRE DE 2012.
 
 Artículo Único. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
