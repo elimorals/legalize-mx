@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-planeacion-para-el-estado-de-guanajuato-84262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-27"
-last_updated: "2011-12-27"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, martes 27 de diciembre de 2011.
 
@@ -59,7 +59,9 @@ I. Consejo estatal: el Consejo de Planeación para el Desarrollo del Estado de G
 
 II. Consejos municipales: los Consejos de Planeación de Desarrollo Municipales;
 
-III. Instituto: el Instituto de Planeación del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+III. Instituto: el Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato;
 
 IV. Ley: la Ley de Planeación para el Estado de Guanajuato;
 
@@ -153,11 +155,15 @@ I. Promover la planeación del desarrollo del Estado y de los municipios, buscan
 
 II. Involucrar a la sociedad organizada en la planeación y evaluación del desarrollo del Estado o del Municipio, según corresponda.
 
-### Capítulo III. Instituto de Planeación del Estado de Guanajuato
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
+
+### Capítulo III. Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 14.
 
-El Instituto coordinará el sistema de planeación.
+El Instituto coordinará el sistema de planeación, y el sistema de información.
 
 ###### Artículo 15.
 
@@ -175,7 +181,9 @@ V. Actualizar de manera conjunta con la Secretaría de Desarrollo Social y Human
 
 VI. Vigilar el cumplimiento de las políticas de desarrollo urbano y de ordenamiento ecológico territorial, con visión de largo plazo;
 
-VII. Coadyuvar, como instancia técnica consultiva, en la elaboración, evaluación y actualización del Programa de Gobierno del Estado y de los programas derivados del mismo;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VII. Elaborar, actualizar, dar seguimiento y evaluar del (sic) Programa de Gobierno del Estado y de los programas derivados del mismo;
 
 VIII. Promover la celebración de convenios para el logro de los objetivos del desarrollo integral de la entidad;
 
@@ -337,9 +345,11 @@ Los programas institucionales se sujetarán a las metas y acciones contenidas en
 
 Los programas institucionales se comunicarán a la Secretaría coordinadora de sector para su conocimiento.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 32.
 
-La Secretaría de Finanzas y Administración con las dependencias correspondientes establecerá el sistema de programación del gasto público.
+La Secretaría de Finanzas, Inversión y Administración con las dependencias correspondientes establecerá el sistema de programación del gasto público.
 
 ###### Artículo 33.
 
@@ -351,9 +361,11 @@ En la elaboración de los programas regionales deberán participar los municipio
 
 Los programas especiales serán aprobados por el titular del Poder Ejecutivo; deberán referirse a la atención de un tema o área geográfica estratégicos y podrán contener acciones a realizar por una o varias dependencias y entidades de la administración pública estatal.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 35.
 
-Los programas de desarrollo urbano y de ordenamiento ecológico territorial estatal, municipales, de áreas conurbadas o zonas metropolitanas, se regirán por la Ley de la materia.
+Los programas de desarrollo urbano y de ordenamiento ecológico territorial estatal, municipales, de áreas conurbadas o zonas metropolitanas, se regirán por el Código Territorial para el Estado y los Municipios de Guanajuato.
 
 ###### Artículo 36.
 
@@ -367,9 +379,11 @@ Las dependencias y entidades del Poder Ejecutivo del Estado elaborarán programa
 
 El Plan Estatal de Desarrollo y los programas derivados de éste serán obligatorios para las dependencias y entidades del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 39.
 
-Los instrumentos de planeación del estado serán considerados como información pública de oficio en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+Los instrumentos de planeación del estado serán considerados como información pública de oficio en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
 
 ### Capítulo VII. Sistema Estatal de Información Estadística y Geográfica
 
@@ -484,3 +498,11 @@ EL SECRETARIO DE GOBIERNO
 HÉCTOR GERMAN RENÉ LÓPEZ SANTILLANA
 
 JUAN MANUEL OLIVA RAMÍREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
