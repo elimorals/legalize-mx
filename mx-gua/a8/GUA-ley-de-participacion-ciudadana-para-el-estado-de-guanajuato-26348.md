@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-participacion-ciudadana-para-el-estado-de-guanajuato-263
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-22"
-last_updated: "2002-10-22"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE GUANAJUATO
 
-LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE GUANAJUATO
+LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 22 de octubre de 2002.
 
@@ -665,7 +665,9 @@ En el caso de las fracciones II y III de este Artículo, los recursos se canaliz
 
 La declaratoria que emita la Comisión de Participación Ciudadana del Consejo General sobre la improcedencia de la solicitud de un proceso de plebiscito, referéndum o referéndum constitucional, es un acto de autoridad administrativa el cual podrá ser impugnado por el representante común de los ciudadanos en juicio de nulidad ante el Tribunal de lo Contencioso Administrativo.
 
-El juicio de nulidad se seguirá conforme a las disposiciones aplicables de la Ley de Justicia Administrativa del Estado de Guanajuato.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+El juicio de nulidad se seguirá conforme a las disposiciones aplicables del Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 ## Título Segundo. De la Impugnación ante el Supremo Tribunal de Justicia
 
@@ -946,3 +948,11 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO.
 
 JUAN MANUEL OLIVA RAMÍREZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
