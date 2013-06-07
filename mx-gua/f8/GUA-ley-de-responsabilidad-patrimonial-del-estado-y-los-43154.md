@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidad-patrimonial-del-estado-y-los-43154"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2013-03-05"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 7 de enero de 2005
 
@@ -181,7 +181,9 @@ El procedimiento de responsabilidad patrimonial se iniciará a petición de part
 
 Por responsabilidad de los Poderes del Estado:
 
-I.- En el Poder Ejecutivo, ante el Tribunal de lo Contencioso Administrativo o la Secretaría de la Gestión Pública;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+I.- En el Poder Ejecutivo, ante el Tribunal de lo Contencioso Administrativo o la Secretaría de la Transparencia y Rendición de Cuentas;
 
 II.- En el Poder Judicial, ante el Consejo del Poder Judicial; y
 
@@ -191,11 +193,15 @@ Tratándose de la responsabilidad de los Organismos Autónomos y sólo para efec
 
 I.- En el Instituto Electoral del Estado de Guanajuato, ante el Consejo General;
 
-II.- En el Tribunal Estatal Electoral, ante el Pleno;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+II.- En el Tribunal Electoral del Estado de Guanajuato, ante el Pleno;
 
 III.- En la Procuraduría de los Derechos Humanos del Estado, ante el Procurador;
 
-IV.- En la Universidad de Guanajuato, ante el Rector; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+IV.- En la Universidad de Guanajuato, ante el Rector General; y
 
 V.- En el Tribunal de lo Contencioso Administrativo, ante el Pleno.
 
@@ -453,13 +459,17 @@ III.- Quede firme la resolución que declare nulo el acto administrativo que dé
 
 SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 52.
 
-Los sujetos obligados podrán repetir de sus servidores públicos el pago de la indemnización cubierta a los particulares cuando, previa sustanciación del procedimiento administrativo disciplinario previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato, se determine su responsabilidad.
+Los sujetos obligados podrán repetir de sus servidores públicos el pago de la indemnización cubierta a los particulares cuando, previa sustanciación del procedimiento administrativo disciplinaria previsto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, se determine su responsabilidad.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 53.
 
-La presentación de reclamaciones por responsabilidad patrimonial del sujeto obligado, interrumpirá los términos de prescripción que la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato determina para iniciar el procedimiento administrativo disciplinario a los servidores públicos, los cuales se reanudarán cuando quede firme la resolución o sentencia definitiva que al efecto se dicte en el primero de los procedimientos mencionados.
+La presentación de reclamaciones por responsabilidad patrimonial del sujeto obligado, interrumpirá los términos de prescripción que la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios determina para iniciar el procedimiento administrativo disciplinario a los servidores públicos, los cuales se reanudarán cuando quede firme la resolución o sentencia definitiva que al efecto se dicte en el primero de los procedimientos mencionados.
 
 ## TRANSITORIOS
 
@@ -490,3 +500,9 @@ RICARDO TORRES ORIGEL
 P.O. 5 DE MARZO DE 2013.
 
 Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
