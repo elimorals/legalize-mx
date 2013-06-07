@@ -4,7 +4,7 @@ identifier: "LNCM"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-01"
-last_updated: "2011-05-26"
+last_updated: "2013-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50527&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LNCM"
 ---
 # LEY DE NAVEGACION Y COMERCIO MARITIMOS
 
-LEY DE NAVEGACION Y COMERCIO MARITIMOS
+LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de junio de 2006.
 
@@ -935,6 +935,14 @@ A. La Secretaría, certificará e inspeccionará en el ámbito portuario que las
 B. La Secretaría de Marina, en las zonas marinas mexicanas establecidas en la Ley Federal del Mar, vigilará el cumplimiento de lo establecido en el presente capítulo. De igual manera, verificará las posibles afectaciones por contaminación en dichas zonas y sancionará a los infractores responsables cuando sean identificados de conformidad con el reglamento respectivo. Además aplicará de acuerdo con sus ordenamientos el Plan Nacional de Contingencias para combatir y controlar derrames de hidrocarburos y otras sustancias nocivas en el mar, en coordinación con otras dependencias del gobierno federal involucradas.
 
 C. La Secretaría de Medio Ambiente y Recursos Naturales, coordinará los programas de prevención y control de la contaminación marina, así como el Plan Nacional de Contingencias en el ámbito marítimo. Deberá asimismo sancionar a los infractores en el ámbito de su competencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+
+###### Artículo 77 Bis.
+
+Toda persona física o moral que ocasione directa o indirectamente un daño a los ecosistemas marinos o sus componentes estará obligada a la reparación de los daños, o bien, a la compensación ambiental que proceda de conformidad con lo dispuesto en la Ley Federal de Responsabilidad Ambiental.
 
 ## TÍTULO CUARTO. DE LA PROPIEDAD DE LAS EMBARCACIONES
 
@@ -2682,10 +2690,18 @@ México, D.F., a 27 de abril de 2006.- Dip. Marcela González Salas P., Presiden
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de mayo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 26 DE MAYO DE 2011.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo.- Dentro de un plazo de sesenta días contados a partir de la vigencia del presente Decreto, el Ejecutivo Federal publicará las modificaciones reglamentarias que correspondan.
+
+D.O.F. 7 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
