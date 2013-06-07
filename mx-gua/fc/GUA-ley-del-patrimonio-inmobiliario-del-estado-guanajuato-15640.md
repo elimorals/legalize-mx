@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-patrimonio-inmobiliario-del-estado-guanajuato-15640"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-24"
-last_updated: "2004-08-13"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DEL PATRIMONIO INMOBILIARIO DEL ESTADO, GUANAJUATO
 
-LEY DEL PATRIMONIO INMOBILIARIO DEL ESTADO
+LEY DEL PATRIMONIO INMOBILIARIO DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 1999.
 
@@ -131,9 +131,9 @@ VII.- Destinar los bienes inmuebles disponibles para satisfacer las necesidades 
 
 VIII.- Otorgar o negar asignaciones para el uso, explotación o aprovechamiento de los bienes inmuebles del dominio público del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-IX.- Organizar y mantener actualizado el Padrón de la Propiedad Inmobiliaria del Estado por conducto de la Secretaría de Finanzas y Administración;
+IX.- Organizar y mantener actualizado el Padrón de la Propiedad Inmobiliaria del Estado por conducto de la Secretaría de Finanzas, Inversión y Administración;
 
 X.- Ejercer, por sí o por conducto de la persona o Dependencia que determine, las acciones procedentes sobre los bienes inmuebles del dominio del Estado;
 
@@ -171,11 +171,11 @@ En todo lo relativo a la valoración de las pruebas, la autoridad se sujetará a
 
 Todo acto de dominio o enajenación de bienes del dominio del Estado que se realice en contravención de lo dispuesto por la presente Ley, será nulo e implicará responsabilidad del servidor público que lo lleve a cabo o promueva.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 11.
 
-Las autoridades judiciales están obligadas a comunicar al Ejecutivo del Estado, por conducto del Titular de la Secretaría de Finanzas y Administración, el inicio de cualquier juicio o procedimiento sobre bienes inmuebles que se presuman del dominio del Estado.
+Las autoridades judiciales están obligadas a comunicar al Ejecutivo del Estado, por conducto del Titular de la Secretaría de Finanzas, Inversión y Administración, el inicio de cualquier juicio o procedimiento sobre bienes inmuebles que se presumen del dominio del Estado.
 
 ###### Artículo 12.
 
@@ -183,7 +183,7 @@ Las autoridades judiciales están obligadas a comunicar al Ejecutivo del Estado,
 
 ## TITULO SEGUNDO. DE LOS BIENES INMUEBLES
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ### CAPITULO PRIMERO. BIENES INMUEBLES DEL DOMINIO PUBLICO DEL ESTADO
 
@@ -191,7 +191,7 @@ Las autoridades judiciales están obligadas a comunicar al Ejecutivo del Estado,
 
 Los bienes inmuebles del dominio público son todos aquéllos que le pertenecen al Estado, que de forma directa o indirecta están afectos a una colectividad y que no son susceptibles de posesión o propiedad particular.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 14.
 
@@ -311,77 +311,77 @@ Los bienes inmuebles que ingresen al patrimonio del Estado por concepto de expro
 
 El Estado podrá recibir donaciones, legados y herencias de bienes muebles e inmuebles, siempre y cuando las mismas no resulten gravosas para su patrimonio.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO SEGUNDO. CONCESION DE LOS BIENES INMUEBLES DEL DOMINIO PUBLICO DEL ESTADO
 
 ###### Artículo 27.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 28.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 29.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 30.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 31.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 32.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 33.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 34.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 35.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 36.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 37.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 38.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 39.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 40.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 41.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 42.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 43.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ### CAPITULO TERCERO. ASIGNACION DE LOS BIENES INMUEBLES DEL DOMINIO PUBLICO
 
@@ -543,13 +543,13 @@ Los organismos autónomos por Ley y las entidades de la Administración Pública
 
 ### CAPITULO UNICO. PADRON DE LA PROPIEDAD INMOBILIARIA ESTATAL
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 62.
 
-El Ejecutivo del Estado por conducto de la Secretaría de Finanzas y Administración, deberá llevar el Padrón de la Propiedad Inmobiliaria Estatal con la finalidad de tener un control interno de la propiedad inmobiliaria del Estado.
+El Ejecutivo del Estado por conducto de la Secretaría de Finanzas, Inversión y Administración, deberá llevar el Padrón de la Propiedad Inmobiliaria Estatal con la finalidad de tener un control interno de la propiedad inmobiliaria del Estado.
 
-La Secretaría de Finanzas y Administración deberá organizar el Padrón de la Propiedad Inmobiliaria Estatal, estableciendo los bienes inmuebles que tiene cada Poder en administración, así como los que tiene a su cargo cada dependencia, entidad u organismo autónomo por Ley.
+La Secretaría de Finanzas, Inversión y Administración deberá organizar el Padrón de la Propiedad Inmobiliaria Estatal, estableciendo los bienes inmuebles que tiene cada Poder en administración, así como los que tiene a su cargo cada dependencia, entidad u organismo autónomo por Ley.
 
 ###### Artículo 63.
 
@@ -571,23 +571,23 @@ VI.- Los demás títulos que se equiparen a los anteriores.
 
 Además de la inscripción en el Padrón de la Propiedad Inmobiliaria Estatal, los títulos de los actos o contratos a que se refiere el artículo anterior, se inscribirán en el Registro Público de la Propiedad, que corresponda al lugar de ubicación de los bienes inmuebles de que se trate.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 65.
 
-Los encargados del Registro Público de la Propiedad, que inscriban actos o contratos sobre bienes inmuebles de propiedad estatal, enviarán a la Secretaría de Finanzas y Administración, copia certificada de la inscripción del documento presentado.
+Los encargados del Registro Público de la Propiedad, que inscriban actos o contratos sobre bienes inmuebles de propiedad estatal, enviarán a la Secretaría de Finanzas, Inversión y Administración, copia certificada de la inscripción del documento presentado.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 66.
 
-Los Poderes Legislativo y Judicial y los organismos autónomos por Ley, llevarán sus propios padrones, de los bienes inmuebles que tengan a su servicio y remitirán una copia de los mismos a la Secretaría de Finanzas y Administración, para efecto de su registro en el Padrón de la Propiedad Inmobiliaria Estatal.
+Los Poderes Legislativo y Judicial y los organismos autónomos por Ley, llevarán sus propios padrones de los bienes inmuebles que tengan a su servicio y remitirán una copia de los mismos a la Secretaría de Finanzas, Inversión y Administración, para efecto de su registro en el Padrón de la Propiedad Inmobiliaria Estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 67.
 
-Como parte integrante de la Cuenta Pública Estatal, la Secretaría de Finanzas y Administración deberá remitir al Congreso del Estado, lo siguiente:
+Como parte integrante de la Cuenta Pública Estatal, la Secretaría de Finanzas, Inversión y Administración deberá remitir al Congreso del Estado, lo siguiente:
 
 I.- Con el concentrado anual de la Cuenta Pública Estatal, el Padrón de la Propiedad Inmobiliaria Estatal actualizado; y
 
@@ -613,7 +613,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. ANTONIO OBREGON PADILLA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE DICIEMBRE DE 2002.
 
@@ -626,3 +626,9 @@ Artículo Tercero.- Se deroga el Capítulo Segundo, del Título Tercero, que con
 P.O. 13 DE AGOSTO DE 2004.
 
 Artículo Único.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
