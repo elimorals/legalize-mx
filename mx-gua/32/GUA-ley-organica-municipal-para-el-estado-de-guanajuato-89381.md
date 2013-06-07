@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2013-05-17"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -541,7 +541,9 @@ IV. La situación de la deuda pública municipal, la documentación relativa a l
 
 V. El estado de la obra pública ejecutada y en proceso en el Municipio y la documentación relativa a la misma. Corresponde al Titular de la Dependencia de Obra Pública proporcionar esta información;
 
-VI. La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como los informes y comprobantes de los mismos, ante la Secretaría de la Gestión Pública y la instancia federal que corresponda el fondo o programa. Corresponde al Tesorero Municipal proporcionar esta información;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+VI. La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como los informes y comprobantes de los mismos, ante la Secretaría de la Transparencia y Rendición de Cuentas y la instancia federal que corresponda el fondo o programa. Corresponde al Tesorero Municipal proporcionar esta información;
 
 VII. Los manuales de organización y de procedimientos, la plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos, condiciones generales de trabajo y demás información conducente. Corresponde al Tesorero Municipal proporcionar esta información;
 
@@ -1149,9 +1151,11 @@ La solicitud para que el Congreso del Estado declare la desaparición de un Ayun
 
 Procedimiento de desaparición
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 87.
 
-El procedimiento para decretar la desaparición de un Ayuntamiento o Concejo Municipal, se sujetará a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado de Guanajuato.
+El procedimiento para decretar la desaparición de un Ayuntamiento o Concejo Municipal, se sujetará a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato.
 
 Concejo municipal
 
@@ -1283,7 +1287,9 @@ El Programa de Gobierno Municipal contendrá los objetivos y estrategias que sir
 
 El Programa de Gobierno Municipal será elaborado por el organismo municipal de planeación, con la colaboración de las dependencias y entidades de la administración pública municipal y el Consejo de Planeación de Desarrollo Municipal; el cual será sometido a la aprobación del Ayuntamiento dentro de los primeros cuatro meses de su gestión; tendrá una vigencia de tres años y deberá ser evaluado anualmente.
 
-El Plan de Gobierno Municipal indicará los programas que deriven del mismo.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+El Programa de Gobierno Municipal indicará los programas que deriven del mismo.
 
 Publicidad
 
@@ -1291,7 +1297,9 @@ Publicidad
 
 Una vez aprobados por el Ayuntamiento, el plan y los programas a que se refiere este capítulo, se publicarán en el Periódico Oficial del Gobierno del Estado y, en su caso, podrán ser publicados en el periódico de circulación en el Municipio.
 
-Los instrumentos de planeación referidos en este capítulo se remitirán al Sistema Estatal de Información Estadística y Geográfica y serán información pública de oficio en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Los instrumentos de planeación referidos en este capítulo se remitirán al Sistema Estatal de Información Estadística y Geográfica y serán información pública de oficio en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
 
 Programas operativos
 
@@ -1449,7 +1457,9 @@ Los ayuntamientos podrán celebrar convenios con el Ejecutivo del Estado, cuando
 
 Asimismo, podrán celebrar convenios para que el servicio público o la función se preste o ejerza coordinadamente por el propio Municipio y el Ejecutivo del Estado.
 
-Cuando los convenios tengan por objeto la constitución de áreas conurbadas o zonas metropolitanas, se estará a lo dispuesto en la Ley de Desarrollo Urbano para el Estado de Guanajuato.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Cuando los convenios tengan por objeto la constitución de áreas conurbadas o zonas metropolitanas, se estará a lo dispuesto en el Código Territorial para el Estado y los Municipios de Guanajuato.
 
 Convenios
 
@@ -1925,7 +1935,9 @@ La administración de los organismos descentralizados estará a cargo de un órg
 
 El consejo directivo o su equivalente, elegirá de entre sus miembros a su presidente y, en su caso, designará al director general y demás personal necesario para el cumplimiento de sus funciones.
 
-Las sesiones del consejo directivo o su equivalente serán públicas, con las excepciones previstas en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
+Las sesiones del consejo directivo o su equivalente serán públicas, con las excepciones previstas en la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
 
 Informe trimestral
 
@@ -2517,7 +2529,9 @@ III. Monumentos históricos y artísticos, muebles o inmuebles, de propiedad mun
 
 IV. Pinturas, murales, esculturas y cualquier obra artística incorporada permanentemente a los inmuebles del Municipio o del patrimonio de los organismos descentralizados, cuya conservación sea de interés histórico o artístico;
 
-V. Los que ingresen por disposición de la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+V. Los que ingresen por disposición del Código Territorial para el Estado y los Municipios de Guanajuato;
 
 VI. Servidumbres, cuando el predio dominante sea alguno de los señalados en este artículo; y
 
@@ -2649,7 +2663,9 @@ I. El acuerdo autorizando la venta y el precio base para la misma, serán aproba
 
 II. La convocatoria para la subasta deberá ser publicada en el Periódico Oficial del Gobierno del Estado, así como en un periódico de circulación en el Municipio, señalando fecha, hora y lugar donde se efectuará el acto; y
 
-III. En todo lo no previsto, se aplicará supletoriamente el procedimiento establecido en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
+III. En todo lo no previsto, se aplicará supletoriamente el procedimiento establecido en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato.
 
 Ventas fuera de subasta pública
 
@@ -3290,3 +3306,9 @@ Federales:
 Cuarto. Cualquier referencia que en las Leyes, Decretos u otros ordenamientos exista al Municipio de Silao, se entenderán hechas al Municipio de Silao de la Victoria.
 
 Quinto. El Ayuntamiento de Silao de la Victoria, realizará en el ámbito de su competencia, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, todas las modificaciones a sus Reglamentos Municipales, Bandos de Policía y Buen Gobierno, circulares y demás disposiciones administrativas de observancia general que sean conducentes para adecuarse a las disposiciones del presente Decreto.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
