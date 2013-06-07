@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-tribunal-de-lo-contencioso-administrativo-5942
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-11-30"
-last_updated: "2007-11-30"
+last_updated: "2013-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 30 de noviembre de 2007.
 
@@ -535,9 +535,11 @@ III. Contar con tres años de experiencia académica, preferentemente en el áre
 
 ### Capítulo Décimo. De la Unidad de Acceso a la Información Pública
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+
 ###### Artículo 37.
 
-El Tribunal tendrá una Unidad de Acceso a la Información Pública, con las atribuciones que establece la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato y el reglamento respectivo. Contará además, con el personal que prevea el presupuesto de egresos del Tribunal.
+El Tribunal tendrá una Unidad de Acceso a la Información Pública, con las atribuciones que establece la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato y el reglamento respectivo. Contará además, con el personal que prevea el presupuesto de egresos del Tribunal.
 
 Capítulo Decimoprimero
 
@@ -598,3 +600,11 @@ JUAN MANUEL OLIVA RAMÍREZ
 El SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
