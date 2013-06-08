@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2013-05-25"
+last_updated: "2013-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -711,9 +711,11 @@ Los comités de salud a que se refiere esta Ley, promoverán que en las poblacio
 
 El Ejecutivo del Estado coadyuvará con la Secretaría de Salud Federal, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud, y cuidará que se incorporen en los programas estatales de salud.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2013)</small>
+
 ###### Artículo 66.
 
-La salud reproductiva, en sus actividades, debe incluir la información y orientación educativa para adolescentes.
+La salud reproductiva, en sus actividades, debe incluir la información y orientación educativa para adolescentes sobre los riesgos y consecuencias que conlleva el ejercicio de la sexualidad a temprana edad y de los embarazos no planeados.
 
 ### CAPÍTULO VII. ATENCIÓN MATERNO-INFANTIL
 
@@ -3416,6 +3418,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 25 DE MAYO DE 2013.
 
 DECRETO No. 1239/2013 II P.O. POR EL QUE SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 67, DE LA LEY ESTATAL DE SALUD.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
