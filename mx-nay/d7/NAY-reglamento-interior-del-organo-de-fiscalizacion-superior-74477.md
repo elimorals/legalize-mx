@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-organo-de-fiscalizacion-superior-74477"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-10"
-last_updated: "2013-03-16"
+last_updated: "2013-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE JUNIO DE 2013.</small>
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 10 de marzo de 2010.
 
@@ -333,8 +333,6 @@ XXXI. Compilar, ordenar y sistematizar la normatividad que emitan los gobiernos 
 
 XXXII. Las demás, que en el ámbito de su competencia les establezcan las disposiciones jurídicas aplicables o les encomiende el Auditor General.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 12.
@@ -367,9 +365,9 @@ VI. Informar al Auditor General, sobre el avance en la solventación de las obse
 
 VII. Analizar y verificar que los Avances de Gestión Financiera sean presentados en términos de ley; dar seguimiento al cumplimiento de objetivos y metas de los programas en ellos reportados. En su caso, requerir a los sujetos fiscalizables la documentación complementaria, así como promover las acciones de responsabilidad a que haya lugar por la falta de presentación de dichos informes.
 
-> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2013)</small>
+(ADICIONADA, P.O. 16 DE FEBRERO DE 2013) (F. DE E., P.O. 8 DE JUNIO DE 2013)
 
-IX (SIC).- Participar y coordinar en el ámbito de su competencia las auditorías integrales a los entes fiscalizables, consistentes en evaluación multidisciplinaria y con enfoque de sistemas del grado y forma de cumplimiento de los objetivos del ente fiscalizable respecto a sus operaciones, así como con su entorno. En la forma, plazos y condiciones del calendario de auditorías programadas por el Órgano.
+VIII. Participar y coordinar en el ámbito de su competencia las auditorías integrales a los entes fiscalizables, consistentes en evaluación multidisciplinaria y con enfoque de sistemas del grado y forma de cumplimiento de los objetivos del ente fiscalizable respecto a sus operaciones, así como con su entorno. En la forma, plazos y condiciones del calendario de auditorías programadas por el Órgano.
 
 ###### ARTÍCULO 13.
 
