@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2013-03-16"
+last_updated: "2013-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2057,9 +2057,11 @@ A quien por cualquier medio, procure, induzca o facilite a una persona menor de 
 
 Cuando de la práctica reiterada del activo, el pasivo del delito adquiera los hábitos del alcoholismo o la farmacodependencia, o forme parte de una asociación delictuosa o de la delincuencia organizada las penalidades podrán aumentarse hasta en un tanto más.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2013)</small>
+
 ###### Artículo 182.
 
-A quien emplee, aún gratuitamente, a personas menores de dieciséis años o que no tengan la capacidad de comprender el significado del hecho, utilizando sus servicios en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato o se presenten al público espectáculos obscenos, se le aplicará prisión de seis meses a dos años y multa de treinta a ochenta veces el salario.
+A quien emplee, aun gratuitamente, a personas menores de dieciséis años o que no tengan la capacidad de comprender el significado del hecho, utilizando sus servicios en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato o se presenten al público espectáculos obscenos, se le aplicará prisión de seis meses a dos años y multa de cien a trescientas veces el salario. Se incrementará la pena hasta en una mitad cuando se trate de personas menores de 14 años.
 
 ###### Artículo 183.
 
@@ -4258,6 +4260,12 @@ Los encargados de la ejecución de todas las sentencias firmes, dictadas en proc
 Todos los asuntos relacionados con la ejecución de penas y medidas de seguridad, que se encuentren en trámite al inicio de la entrada en vigor del presente Decreto, deberán remitirse sin dilación alguna al Juez de Ejecución de Penas al que corresponda legalmente el conocimiento de los mismos.
 
 P.O. 16 DE MARZO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
