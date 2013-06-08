@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2011-12-10"
+last_updated: "2013-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2013.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -1773,7 +1773,13 @@ V.- Colaborar con las diferentes instituciones dentro del municipio, que tengan 
 
 VI.- Crear programas que fomenten la participación de la mujer en todas las actividades y áreas laborales.
 
-VII.- En general todas las que le asignen las leyes y los acuerdos del cabildo.
+(REFORMADA, P.O. 8 DE JUNIO DE 2013) (REPUBLICADA POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
+
+VII. Participar en la integración del Consejo Directivo del Instituto de la Mujer del Municipio según lo previsto en el Acuerdo de creación y Reglamento Interior del mismo.
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JUNIO DE 2013) (REPUBLICADA POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
+
+VIII.- En general todas las que le asignen las leyes y los acuerdos del cabildo.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -2131,7 +2137,7 @@ Toda iniciativa de bandos, reglamentos o disposiciones administrativas de observ
 
 ###### Artículo 137.
 
-En el procedimiento de análisis y discusión de las iniciativas o proyectos presentados en materia reglamentaria, la Comisión de Gobernación y Reglamentos procurará invitar a los munícipes integrantes de las comisiones competentes o afines a las materias contenidas en los proyectos para afectos de su revisión, estudio, análisis y discusión correspondientes, con el fin de que sus propuestas le puedan ser de utilidad a aquella comisión en la formulación de su dictamen que deberá presentar al pleno del cabildo.
+En el procedimiento de análisis y discusión de las iniciativas o proyectos presentados en materia reglamentaria, la Comisión de Gobernación y Reglamentos procurará invitar a los munícipes integrantes de las comisiones competentes o afines a las materias contenidas en los proyectos para afectos (sic) de su revisión, estudio, análisis y discusión correspondientes, con el fin de que sus propuestas le puedan ser de utilidad a aquella comisión en la formulación de su dictamen que deberá presentar al pleno del cabildo.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -2545,7 +2551,7 @@ a) Jefatura del Departamento de Prensa.
 
 b) Jefatura del Área de Radio y Televisión.
 
-a (sic)) (DEROGADO, P.O. 10 DE DICIEMBRE DE 2011)
+c) (DEROGADO, P.O. 8 DE JUNIO DE 2013) (REPUBLICADO POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
 
 III.- Dirección de Atención y Participación Social
 
@@ -2557,7 +2563,7 @@ c) Procuraduría de Vecinos.
 
 d) Organizaciones de Participación Social.
 
-e) Jefatura de Área de Atención a la Mujer.
+e) (DEROGADO, P.O. 8 DE JUNIO DE 2013) (REPUBLICADO POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
 
 IV.- Jefatura del Departamento de Proyectos.
 
@@ -3035,11 +3041,11 @@ V.- Promover y apoyar eventos periodísticos y de difusión relativos al Municip
 
 VI.- Las demás que le otorguen las Leyes, Reglamentos y Manuales de Organización.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+(REFORMADO, P.O. 8 DE JUNIO DE 2013) (REPUBLICADO POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
 
 ###### Artículo 191.
 
-Para auxiliar al Presidente Municipal en materia de Participación Social, el Ayuntamiento tendrá una Dirección de Atención y Participación Social, la cual estará a cargo de una persona denominada Director de Atención y Participación Social. Esta Dirección se integra por la Jefatura de Departamento Zona Norte, la Jefatura de Departamento Zona Sur, la Procuraduría de Vecinos, las Organizaciones de Participación Social que para el efecto serán las siguientes: La Junta General de Comités de Participación Social; los Comités de Participación Social; los Clubes Juveniles; los Comités para Obras Determinadas; los Comités de Vigilancia de áreas designadas por el Ayuntamiento y las demás que determine el cabildo o el Presidente Municipal y la Jefatura de Área de Atención a la Mujer.
+Para auxiliar al Presidente Municipal en materia de Participación Social, el Ayuntamiento tendrá una Dirección de Atención y Participación Social, la cual estará a cargo de una persona denominada Director de Atención y Participación Social. Esta Dirección se integra por la Jefatura de Departamento Zona Norte, la Jefatura de Departamento Zona Sur, la Procuraduría de Vecinos, las Organizaciones de Participación Social que para el efecto serán las siguientes: La Junta General de Comités de Participación Social; los Comités de Participación Social; los Clubes Juveniles; los Comités para Obras Determinadas; los Comités de Vigilancia de áreas designadas por el Ayuntamiento y las demás que determine el cabildo o el Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -3067,15 +3073,13 @@ IX.- Coordinarse con las distintas dependencias municipales para la integración
 
 X.- Realizar estudios de impacto social para identificar el grado de aceptación de obras o servicios, previa solicitud de ciudadanos y dependencias municipales.
 
-XI.- Coordinar políticas y programas de atención a la mujer, que promuevan la igualdad jurídica del hombre y la mujer.
+XI.- (DEROGADA, P.O. 8 DE JUNIO DE 2013) (REPUBLICADA POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
 
 XII.- Las demás que acuerde el Presidente Municipal y las que otorguen las Leyes y Reglamentos.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
-
 ###### Artículo 193.
 
-La Jefatura de Área de Atención a la Mujer estará enfocada a la atención de la problemática de la mujer, así como a las campañas contra la discriminación y desigualdad entre mujeres y hombres, la de la violencia intrafamiliar, y prevención de la salud femenina.
+(DEROGADO, P.O. 8 DE JUNIO DE 2013) (REPUBLICADO POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -5001,6 +5005,10 @@ IV.- Dirección de la Unidad Municipal de Protección Civil.
 
 V.- Instituto de Planeación para el Municipio de Colima.
 
+(ADICIONADA, P.O. 8 DE JUNIO DE 2013) (REPUBLICADA POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
+
+VI. Instituto de la Mujer para el Municipio de Colima.
+
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 PROCESADORA MUNICIPAL DE CARNE
@@ -5120,6 +5128,36 @@ V.- Diseñar la metodología para la elaboración de los planes, programas y dem
 VI.- Difundir el Sistema Municipal de Planeación, los proyectos de investigación y los sistemas de información; y
 
 VII.- Orientar, coordinar e impulsar la participación ciudadana, en la elaboración de planes, programas y proyectos.
+
+(ADICIONADO, P.O. 8 DE JUNIO DE 2013) (REPUBLICADO POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
+
+###### Artículo 278 Bis.
+
+El Instituto de la Mujer para el Municipio de Colima, es un organismo público descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio, para establecer las políticas y acciones que propicien y faciliten la plena incorporación de las mujeres en la vida económica, política, cultural y social, alentando su participación en todos los niveles y ámbitos de decisión, promoviendo ante las autoridades e instancias competentes los mecanismos necesarios para ello, además de sus principales objetivos que son:
+
+I.- Promover y fomentar las condiciones que den lugar a la no discriminación, igualdad de oportunidades y de trato entre los géneros, el ejercicio de todos los derechos de las mujeres y su participación equitativa en la vida política, cultural, económica y social del municipio;
+
+II.- Difundir la información pertinente que permita a la población conocer que es la violencia de género y que ésta no es normal, así como las instancias que atienden o sancionan dicha problemática y como tener acceso a ellas;
+
+III.- Canalizar a la dependencia que corresponda los casos de violencia hacia las mujeres que sean detectados, y dar seguimiento a las situaciones que se presenten en el municipio;
+
+IV.- Elaborar e instrumentar, con base en los diagnósticos de los sectores involucrados, el Programa Municipal de la Mujer, documento que orientará la conducción del quehacer público, privado, social, político, económico, académico y cultural para mejorar la condición social de las mujeres del municipio de Colima;
+
+V.- Integrar el programa de Operación Anual de acciones del gobierno en favor de las mujeres del municipio;
+
+VI.- Asesorar y orientar los trabajos del gobierno municipal para la realización de acciones encaminadas al logro de los objetivos del Programa Municipal de la Mujer;
+
+VII.- Coordinar sus trabajos con la Dirección de Planeación del Ayuntamiento, a fin de asegurar la disposición de datos estadísticos, indicadores de registro y otras informaciones, para la instrumentación de acciones que permitan abatir las inequidades en las condiciones en que se encuentran las mujeres;
+
+VIII.- Promover ante el Cabildo las modificaciones pertinentes a los reglamentos municipales, a fin de asegurar el marco legal que garantice la igualdad de oportunidades en materia laboral, de educación, de salud, así como el ejercicio de derechos;
+
+IX.- Fomentar, en coordinación con el Instituto Colimense de la Mujer y las autoridades del sector salud, la educación para la salud, promoviendo servicios de salud integral para la mujer;
+
+X.- Promover la realización de programas de atención para la mujer de la tercera edad y de otros grupos vulnerables;
+
+XI.- Estimular la capacidad productiva de la mujer, promoviendo oportunidades de empleo y autoempleo; y
+
+XII.- Las demás que establezca el presente Acuerdo, y el Reglamento Interior.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -5958,3 +5996,119 @@ Con motivo de la reestructuración de los órganos y dependencias de la administ
 En tanto el Ayuntamiento no asuma la función de la seguridad pública en el Municipio y, por tanto, no ejerza el mando de la policía preventiva municipal, continuarán vigentes la estructura orgánica administrativa y las funciones que desempeña a la fecha la Dirección General de Tránsito y Vialidad
 
 (SIC) SÉPTIMO.- El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento., de acuerdo a lo dispuesto por el artículo 47, fracción I, incisos a) y f), de la Ley del Municipio Libre del Estado de Colima, y 140 del Reglamento del Gobierno Municipal de Colima.
+
+P.O. 8 DE JUNIO DE 2013.
+
+ACUERDO POR LO QUE SE MODIFICAN LOS ARTÍCULOS 121 FRACCIÓN VII Y VIII Y 191, ASÍ COMO LA DEROGACIÓN DEL INCISO E) DE LA FRACCIÓN III DE LA FRACCIÓN I DEL ARTÍCULO 179; ARTÍCULO 192 EN SU FRACCIÓN XI, 193 Y 194, Y LA ADICIÓN DE UNA FRACCIÓN VI AL ARTÍCULO 273, Y DEL ARTÍCULO 278 BIS, DEL REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
+
+P.O. 8 DE JUNIO DE 2013.
+
+ACUERDO QUE APRUEBA LA CREACIÓN DEL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA.
+
+PRIMERO: El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO: El H. Cabildo deberá elaborar y aprobar el Reglamento Interior del INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, en un término que no excederá de 90 días naturales, contados a partir del día siguiente al de la publicación del presente Acuerdo, y proveerá a éste los medios económicos necesarios en el Presupuesto de Egresos para el ejercicio fiscal 2014.
+
+TERCERO: Se instruye a la Oficialía Mayor de este Ayuntamiento, a fin de que realice todas las gestiones administrativas necesarias para que el presupuesto otorgado originalmente a la Jefatura de Área de Atención a la Mujer para el ejercicio fiscal 2013, sea transferido al Instituto de la Mujer para el Municipio de Colima.
+
+CUARTO: El INSTITUTO DE LAS MUJERES, quedará constituido y entrará en funciones a los quince días posteriores al de la publicación del presente Acuerdo en el Periódico Oficial "El Estado de Colima", debiendo operar en las oficinas que ocupa la Dirección de Desarrollo Social.
+
+QUINTO: En virtud de la creación del INSTITUTO DE LAS MUJERES, es necesaria la adecuación del Reglamento del Gobierno Municipal de Colima, ordenamiento que tiene por objeto la organización, funcionamiento y distribución de competencias de la administración pública municipal centralizada y paramunicipal. Lo anterior, a efecto de hacerlo congruente con el contenido del presente Acuerdo y asegurar su eficacia administrativa.
+
+Por lo tanto, se acuerda la modificación de los artículos 121 fracción VII y VIII y 191, así como la derogación del inciso e) de la fracción III de la fracción I del artículo 179, artículo 192 en su fracción XI, 193 y 194, y la adición de una fracción VI al artículo 273, y del artículo 278 BIS, todos del Reglamento del Gobierno Municipal de Colima, para quedar como sigue:
+
+###### Artículo 121.
+
+Son facultades y obligaciones de la Comisión de Atención a la Mujer:
+
+.
+
+VII. Participar en la integración del Consejo Directivo del Instituto de la Mujer del Municipio según lo previsto en el Acuerdo de creación y Reglamento Interior del mismo.
+
+VIII.- En general todas las que le asignen las leyes y los acuerdos del cabildo.
+
+###### Artículo 179.
+
+Para el cumplimiento de sus finalidades que le son propias, el Ayuntamiento organiza la estructura orgánica de la Administración Pública Municipal Centralizada, con las siguientes dependencias:
+
+I.- PRESIDENCIA MUNICIPAL
+
+I.- Secretaría Particular
+
+a) Jefatura de Departamento de Gestión Social.
+
+b) Jefatura de Área de Asistencia.
+
+II.- Dirección de Comunicación Social y Difusión.
+
+a) Jefatura del Departamento de Prensa.
+
+b) Jefatura del Área de Radio y Televisión.
+
+c) DEROGADO.
+
+III.- Dirección de Atención y Participación Social
+
+a) Jefatura de Departamento Zona Norte.
+
+b) Jefatura de Departamento Zona Sur.
+
+c) Procuraduría de Vecinos.
+
+d) Organizaciones de Participación Social.
+
+e) DEROGADO.
+
+###### Artículo 191.
+
+Para auxiliar al Presidente Municipal en materia de Participación Social, el Ayuntamiento tendrá una Dirección de Atención y Participación Social, la cual estará a cargo de una persona denominada Director de Atención y Participación Social. Esta Dirección se integra por la Jefatura de Departamento Zona Norte, la Jefatura de Departamento Zona Sur, la Procuraduría de Vecinos, las Organizaciones de Participación Social que para el efecto serán las siguientes: La Junta General de Comités de Participación Social; los Comités de Participación Social; los Clubes Juveniles; los Comités para Obras Determinadas; los Comités de Vigilancia de áreas designadas por el Ayuntamiento y las demás que determine el cabildo o el Presidente Municipal.
+
+###### Artículo 192.
+
+Al Director de Atención y Participación Social, le corresponde las siguientes funciones:
+
+.
+
+XI.- DEROGADO.
+
+###### Artículo 193.
+
+DEROGADO.
+
+###### Artículo 273.
+
+Para el cumplimiento de sus objetivos y fines que le son propios, forman parte de la estructura de la Administración Pública Paramunicipal del Ayuntamiento de Colima, los siguientes organismos descentralizados:
+
+.
+
+VI. Instituto de la Mujer para el Municipio de Colima.
+
+Artículo 278 BIS.- El Instituto de la Mujer para el Municipio de Colima, es un organismo público descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio, para establecer las políticas y acciones que propicien y faciliten la plena incorporación de las mujeres en la vida económica, política, cultural y social, alentando su participación en todos los niveles y ámbitos de decisión, promoviendo ante las autoridades e instancias competentes los mecanismos necesarios para ello, además de sus principales objetivos que son:
+
+I.- Promover y fomentar las condiciones que den lugar a la no discriminación, igualdad de oportunidades y de trato entre los géneros, el ejercicio de todos los derechos de las mujeres y su participación equitativa en la vida política, cultural, económica y social del municipio;
+
+II.- Difundir la información pertinente que permita a la población conocer que es la violencia de género y que ésta no es normal, así como las instancias que atienden o sancionan dicha problemática y como tener acceso a ellas;
+
+III.- Canalizar a la dependencia que corresponda los casos de violencia hacia las mujeres que sean detectados, y dar seguimiento a las situaciones que se presenten en el municipio;
+
+IV.- Elaborar e instrumentar, con base en los diagnósticos de los sectores involucrados, el Programa Municipal de la Mujer, documento que orientará la conducción del quehacer público, privado, social, político, económico, académico y cultural para mejorar la condición social de las mujeres del municipio de Colima;
+
+V.- Integrar el programa de Operación Anual de acciones del gobierno en favor de las mujeres del municipio;
+
+VI.- Asesorar y orientar los trabajos del gobierno municipal para la realización de acciones encaminadas al logro de los objetivos del Programa Municipal de la Mujer;
+
+VII.- Coordinar sus trabajos con la Dirección de Planeación del Ayuntamiento, a fin de asegurar la disposición de datos estadísticos, indicadores de registro y otras informaciones, para la instrumentación de acciones que permitan abatir las inequidades en las condiciones en que se encuentran las mujeres;
+
+VIII.- Promover ante el Cabildo las modificaciones pertinentes a los reglamentos municipales, a fin de asegurar el marco legal que garantice la igualdad de oportunidades en materia laboral, de educación, de salud, así como el ejercicio de derechos;
+
+IX.- Fomentar, en coordinación con el Instituto Colimense de la Mujer y las autoridades del sector salud, la educación para la salud, promoviendo servicios de salud integral para la mujer;
+
+X.- Promover la realización de programas de atención para la mujer de la tercera edad y de otros grupos vulnerables;
+
+XI.- Estimular la capacidad productiva de la mujer, promoviendo oportunidades de empleo y autoempleo; y
+
+XII.- Las demás que establezca el presente Acuerdo, y el Reglamento Interior.
+
+SEXTO: El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo a lo dispuesto por el artículo 47 fracción I, inciso a) y f) de la Ley del Municipio Libre, artículo 180 fracción I inciso a) y f) del Reglamento del Gobierno Municipal de Colima.
