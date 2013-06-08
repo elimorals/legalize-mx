@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2013-04-24"
+last_updated: "2013-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -175,7 +175,9 @@ VII. Fomentar actitudes que estimulen la investigación y la innovación cientí
 
 VIII. Promover la apreciación y expresión artística, y difundir los bienes y valores de la cultura universal, en especial aquellos que constituyen el patrimonio cultural de la Entidad y de la Nación;
 
-IX. Desarrollar actitudes que permitan crear conciencia sobre la preservación de la salud, la planeación familiar, la paternidad y maternidad responsables, sin menoscabo de la libertad, del respeto absoluto a la dignidad y los derechos humanos;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2013)</small>
+
+IX. Desarrollar actitudes que permitan crear conciencia sobre la preservación de la salud, la planeación familiar, la paternidad y maternidad responsables, así como los riesgos y consecuencias que conlleva el ejercicio de la sexualidad a temprana edad y de los embarazos no planeados; lo anterior sin menoscabo de la libertad, del respeto absoluto a la vida, la dignidad y los derechos humanos;
 
 X. Fomentar el cuidado de la naturaleza, la valoración y preservación del medio ambiente mediante el conocimiento del desarrollo sustentable de la Entidad, propiciando el uso racional de los recursos naturales, en especial el cuidado del agua, a fin de preservar el equilibrio ecológico;
 
@@ -387,7 +389,7 @@ XXXVIII. Invertir recursos financieros a la investigación pedagógica para la i
 
 XXXIX. Supervisar la Vigilancia del ejercicio profesional en el Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS A LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS A LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2009)</small>
 
@@ -3490,6 +3492,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las erogaciones que deban realizarse a fin de dar cumplimiento al presente Decreto, se sujetarán a los recursos aprobados para tal efecto por el H. Congreso del Estado.
+
+P.O. 8 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
