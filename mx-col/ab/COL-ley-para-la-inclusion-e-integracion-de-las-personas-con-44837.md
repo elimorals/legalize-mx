@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2011-08-27"
+last_updated: "2013-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -143,6 +143,12 @@ Corresponderá al titular del Poder Ejecutivo a través del INCODIS y de la Secr
 
 La protección de los derechos de las personas con discapacidad, tiene como finalidad asegurarles un desarrollo pleno, lo que implica la oportunidad de integrarse física, mental, emocional, social y moralmente en condiciones de igualdad.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2013)</small>
+
+###### Artículo 9° Bis.
+
+Las personas con discapacidad gozarán de todos los derechos inherentes al ser humano, así como los establecidos en el marco jurídico nacional e internacional, por lo que cualquier distinción, exclusión, restricción, abuso o explotación por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo, será considerada discriminación por motivo de discapacidad.
+
 ###### Artículo 10°.
 
 Son derechos de las personas con discapacidad los siguientes:
@@ -189,11 +195,19 @@ XVI. Tener acceso a la Información pública del Estado y los Municipios mediant
 
 Los Gobiernos Estatales y Municipales, así como sus organismos descentralizados y las empresas paraestatales y paramunicipales, garantizarán el ejercicio de este derecho;
 
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2013)</small>
 
-XVII. A percibir alimentos de sus familiares en los términos previstos en el Código Civil vigente en el Estado; y
+XVII. A percibir alimentos de sus familiares en los términos previstos en el Código Civil vigente en el Estado;
 
-XVIII. Los demás que señalen las leyes.
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2013)</small>
+
+XVIII. A recibir orientación y asistencia por las instituciones de procuración de justicia, seguridad pública, custodia y tratamiento, en caso de detención, arresto o prisión, para que se garanticen sus derechos fundamentales y evitar en todo momento la tortura o cualquier otro trato degradante;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2013)</small>
+
+XIX La protección contra la explotación, violencia y abusos derivados de su discapacidad, así como por razón de género; y
+
+XX. Los demás que señalen las leyes.
 
 ### Capítulo III. Del Instituto Colimense para la Discapacidad
 
@@ -210,6 +224,12 @@ El INCODIS procurará que las medidas que se adopten de acatamiento de las dispo
 ###### Artículo 13.
 
 La Secretaría de Planeación en coordinación con el INCODIS serán los responsables de proponer a las instituciones públicas, sociales y privadas de la entidad, acciones, política, planes y programas específicos de concertación, planeación y promoción, que garanticen las condiciones favorables para el desarrollo de las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2013)</small>
+
+###### Artículo 13 Bis.
+
+La Unidad Estatal de Protección Civil en coordinación con el INCODIS planearán acciones adecuadas para garantizar la seguridad y, en su caso, la protección prioritaria de las personas con discapacidad durante situaciones de riesgo y emergencia que pongan en peligro su integridad física.
 
 ###### Artículo 14.
 
@@ -249,13 +269,17 @@ XV. El INCODIS evaluará a las asociaciones de y para personas con discapacidad,
 
 XVI. Proponer la creación de las delegaciones municipales del INCODIS;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2013)</small>
 
-XVII. Vigilar que en los informes de los titulares de los poderes del Estado y los presidentes municipales existan personas especializadas en el lenguaje de señas que pongan la Información generada en tales eventos al alcance de quienes presentan alguna discapacidad auditiva; y
+XVII. Vigilar que en los informes de los titulares de los poderes del Estado y los presidentes municipales existan personas especializadas en el lenguaje de señas que pongan la información generada en tales eventos al alcance de quienes presentan alguna discapacidad auditiva;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2013)</small>
+
+XVIII. Promover la participación de las personas con discapacidad en condiciones de igualdad, dentro de los procesos y actividades políticas del Estado, así como vigilar que sean reconocidos y respetados sus derechos político-electorales; y
 
 > <small>(ADICIONADA, P.O. 24 DE MAYO DE 2008)</small>
 
-XVIII. Las demás atribuciones contenidas en el Decreto que crea el lNCODIS, su Reglamento Interior, así como las que sean necesarias para el cumplimiento de sus funciones en términos de esta ley.
+XIX. Las demás atribuciones contenidas en el Decreto que crea el INCODIS, su Reglamento Interior, así como las que sean necesarias para el cumplimiento de sus funciones en términos de esta ley.
 
 ## TITULO SEGUNDO. De los Servicios Institucionales
 
@@ -946,3 +970,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las entidades de la administración pública estatal centralizada, integrada por la Gubernatura del Estado, las Secretarías y la Procuraduría General de Justicia, los ayuntamientos del Estado, así como los poderes Legislativo y Judicial, deberán cumplir con la obligación contenida en el presente Decreto a partir del mes de abril de 2012.
 
 TERCERO.- Las entidades de la administración pública paraestatal y paramunicipales, respectivamente, deberán cumplir con la obligación contenida en el presente Decreto a partir del mes de enero de 2013.
+
+P.O. 8 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
