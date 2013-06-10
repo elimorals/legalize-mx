@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2012-04-09"
+last_updated: "2013-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JUNIO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -56,9 +56,11 @@ La educación es medio fundamental para adquirir, transmitir y acrecentar la cul
 
 En el proceso educativo deberá asegurarse la participación activa del educando, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines a que se refiere el artículo 7o.
 
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 3o.
 
-El Estado está obligado a prestar servicios educativos para que toda la población pueda cursar la educación preescolar, la primaria y la secundaria. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la presente Ley.
+El Estado está obligado a prestar servicios educativos para que toda la población pueda cursar la educación preescolar, la primaria, la secundaria y la media superior. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la presente Ley.
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -66,9 +68,9 @@ El Estado está obligado a prestar servicios educativos para que toda la poblaci
 
 Todos los habitantes del país deben cursar la educación preescolar, la primaria y la secundaria.
 
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2013)</small>
 
-Es obligación de los mexicanos hacer que sus hijas, hijos o pupilos menores de edad cursen la educación preescolar, la primaria y la secundaria.
+Es obligación de los mexicanos hacer que sus hijas, hijos o pupilos menores de edad cursen la educación preescolar, la primaria, la secundaria y la media superior.
 
 ###### ARTICULO 5o.
 
@@ -154,11 +156,11 @@ II.- Será nacional, en cuanto -sin hostilidades ni exclusivismos - atenderá a 
 
 III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 9o.
 
-Además de impartir la educación preescolar, la primaria y la secundaria, el Estado promoverá y atenderá -directamente, mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio- todos los tipos y modalidades educativos, incluida la educación inicial, especial, media superior y superior, necesarios para el desarrollo de la Nación, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y la difusión de la cultura nacional y universal.
+Además de impartir la educación preescolar, la primaria, la secundaria y la media superior, el Estado promoverá y atenderá -directamente, mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio- todos los tipos y modalidades educativos, incluida la educación inicial, especial y superior, necesarios para el desarrollo de la Nación, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y la difusión de la cultura nacional y universal.
 
 ###### ARTICULO 10.
 
@@ -250,6 +252,10 @@ VIII.- Fijar los requisitos pedagógicos de los planes y programas de educación
 
 IX.- Regular un sistema nacional de créditos, de revalidación y de equivalencias, que faciliten el tránsito de educandos de un tipo o modalidad educativo a otro;
 
+> <small>(ADICIONADA, D.O.F. 10 DE JUNIO DE 2013)</small>
+
+IX Bis.- Coordinar un sistema de educación media superior a nivel nacional que establezca un marco curricular común para este tipo educativo, con respeto al federalismo, la autonomía universitaria y la diversidad educativa;
+
 > <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
 X.- Regular, coordinar y operar un padrón nacional de alumnos, docentes, instituciones y centros escolares; un registro nacional de emisión, validación e inscripción de documentos académicos y establecer un Sistema Nacional de Información Educativa;
@@ -285,6 +291,10 @@ V.- Revalidar y otorgar equivalencias de estudios de la educación preescolar, l
 > <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
 VI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica;
+
+> <small>(ADICIONADA, D.O.F. 10 DE JUNIO DE 2013)</small>
+
+VI Bis.- Participar en la integración y operación de un sistema nacional de educación media superior que establezca un marco curricular común para este tipo educativo, con respeto a la autonomía universitaria y la diversidad educativa;
 
 > <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
@@ -580,7 +590,9 @@ El Ejecutivo Federal, el gobierno de cada entidad federativa y los ayuntamientos
 
 La educación de tipo básico está compuesta por el nivel preescolar, el de primaria y el de secundaria.
 
-El tipo medio-superior comprende el nivel de bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes.
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2013)</small>
+
+El tipo medio-superior comprende el nivel de bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes. Se organizará, bajo el principio de respeto a la diversidad, a través de un sistema que establezca un marco curricular común a nivel nacional y la revalidación y reconocimiento de estudios entre las opciones que ofrece este tipo educativo.
 
 El tipo superior es el que se imparte después del bachillerato o de sus equivalentes. Está compuesto por la licenciatura, la especialidad, la maestría y el doctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende la educación normal en todos sus niveles y especialidades.
 
@@ -876,9 +888,9 @@ Los acuerdos secretariales respectivos señalarán los requisitos específicos q
 
 Son derechos de quienes ejercen la patria potestad o la tutela:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JUNIO DE 2013
 
-I.- Obtener inscripción en escuelas públicas para que sus hijas, hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria y la secundaria.
+I.- Obtener inscripción en escuelas públicas para que sus hijas, hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria, la secundaria y la media superior.
 
 > <small>(ADICIONADO, D.O.F. 20 DE JUNIO DE 2006)</small>
 
@@ -910,9 +922,9 @@ VII.- Conocer la relación oficial del personal docente y empleados adscritos en
 
 Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2013)</small>
 
-I.- Hacer que sus hijas, hijos o pupilos menores de edad, reciban la educación preescolar, la primaria y la secundaria;
+I.- Hacer que sus hijas, hijos o pupilos menores de edad, reciban la educación preescolar, la primaria, la secundaria y la media superior;
 
 > <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
@@ -1383,3 +1395,11 @@ D.O.F. 16 DE NOVIEMBRE DE 2011.
 D.O.F. 9 DE ABRIL DE 2012.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE JUNIO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La obligatoriedad del Estado de garantizar la educación media superior se realizará conforme lo disponen los artículos segundo y tercero transitorios del Decreto por el que se declara reformado el párrafo primero; el inciso c) de la fracción II y la fracción V del artículo 3o., y la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Tercero.- Se derogan todas las disposiciones que contravengan al presente Decreto.
