@@ -4,7 +4,7 @@ identifier: "SON-ley-de-reconocimientos-al-merito-civico-del-estado-de-sonora-39
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-20"
-last_updated: "2004-05-20"
+last_updated: "2013-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE RECONOCIMIENTOS AL MERITO CIVICO DEL ESTADO DE SONORA
 
-LEY DE RECONOCIMIENTOS AL MERITO CIVICO
+LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 20 de mayo de 2004.
 
@@ -155,6 +155,34 @@ La Comisión establecerá en su dictamen la forma y términos mediante los cuale
 
 La entrega de los incentivos y las gratificaciones se realizará por conducto de la Secretaría de Hacienda del Gobierno del Estado.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JUNIO DE 2013)</small>
+
+### CAPITULO IV. DE LA MEDALLA DE HONOR AL MERITO CIVICO DEL CONGRESO DEL ESTADO DE SONORA
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 18.
+
+Se crea la Medalla de Honor al Mérito Cívico del Congreso del Estado de Sonora para premiar a hombres y mujeres de nacionalidad mexicana que se hayan distinguido en un grado eminente y trascendental por su aportación y servicio en favor de la imagen y desarrollo del Estado Libre y Soberano de Sonora.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 19.
+
+La Medalla de Honor al Mérito Cívico del Congreso del Estado de Sonora, constará del diploma alusivo y tejo de oro, pendiente de una cinta de seda con los colores de la bandera nacional para fijarse al cuello. Figurarán en el anverso del tejo el escudo oficial del Estado de Sonora en medio de la inscripción: “Estado Libre y Soberano de Sonora. H. Congreso del Estado. Año .... ”; en el reverso del mismo, figurará el mapa del Estado en medio de la inscripción: “Medalla de Honor al Mérito Cívico del Congreso del Estado de Sonora. 1 de abril de …”.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 20.
+
+La Medalla de Honor al Mérito Cívico del Congreso del Estado de Sonora se otorgará anualmente, por acuerdo tomado en sesión pública con el voto de, cuando menos, las dos terceras partes de los miembros de la Legislatura, a propuesta de una Comisión Especial que para tal efecto se cree. La Comisión deberá evaluar los méritos del candidato, quienes podrán ser propuestos por el titular del Poder Ejecutivo Estatal, miembros de los Poderes Legislativo o Judicial Estatal, Universidades del Estado, Organizaciones Civiles o cualquier otra institución que acredite el loable interés.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 21.
+
+La Medalla de Honor al Mérito Cívico del Congreso del Estado de Sonora será entregada en sesión solemne que el día 1 de abril de cada año, celebre el Congreso del Estado.
+
 T R A N S I T O R I O S
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
@@ -172,3 +200,11 @@ Comuníquese al Titular del Poder Ejecutivo para su sanción y promulgación.
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, 13 DE MAYO DE 2004.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- DIPUTADO PRESIDENTE.- C. JOSE RODRIGO GASTELUM AYON.- RUBRICA.- DIPUTADO SECRETARIO.- C. CARLOS RUIZ LOVE.- RUBRICA.- DIPUTADO SECRETARIO.- C. CARLOS A. NAVARRO SUGICH.- RUBRICA.-
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DE EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS DIECISIETE DIAS DEL MES DE MAYO DEL AÑO DOS MIL CUATRO.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- BULMARO PACHECO MORENO.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
