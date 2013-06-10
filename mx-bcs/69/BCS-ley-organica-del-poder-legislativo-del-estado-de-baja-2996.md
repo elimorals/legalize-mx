@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2013-04-20"
+last_updated: "2013-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JUNIO DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -1401,9 +1401,11 @@ DEL ORGANO DE FISCALIZACION SUPERIOR.
 
 > <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
 
-### CAPITULO XI
+### CAPITULO XI. DEL INSTITUTO DE ESTUDIOS LEGISLATIVOS
 
-DE LA ASESORIA JURIDICA.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 79.
 
@@ -1415,19 +1417,115 @@ Para los efectos de las Fracciones IV, XXIX y XXX del Artículo 64 y demás rela
 
 El Órgano de Fiscalización Superior, hará la revisión, fiscalización y auditorias de todas las cuentas que el Ejecutivo, Legislativo, Judicial, entes públicos estatales, Gobiernos Municipales, entes públicos Municipales, entes públicos autónomos que manejen recursos públicos, así como del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas física y morales de derecho privado, que sean presentadas al Congreso del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE JUNIO DE 2013)</small>
+
 ### CAPITULO XII
 
 DE LA DIRECCION DE COMUNICACION SOCIAL Y RELACIONES PUBLICAS.
 
 ###### ARTICULO 81.
 
-El Congreso del Estado contará con uno o más Asesores Jurídicos.
+El Instituto de Estudios Legislativos será el órgano de consulta y encargado de coadyuvar en la asesoría técnica a las comisiones permanentes y especiales en la elaboración de iniciativas y dictámenes. Asimismo, tendrá como objetivo, fortalecer, organizar y planificar el trabajo parlamentario, mediante la investigación, estudio, acopio de información, actualización, capacitación y adiestramiento en materia legislativa.
+
+Corresponde al Instituto de Estudios Legislativos:
+
+I. Realizar los trabajos de investigación que desarrolle el Instituto, para beneficio institucional o en apoyo al trabajo de las Comisiones Permanentes o a solicitud de los Diputados para la formulación de iniciativas;
+
+II. Proponer a las Comisiones Permanentes del Congreso las iniciativas de leyes, decretos y acuerdos económicos que se estimen necesarios a consecuencia de las investigaciones desarrolladas por el Instituto;
+
+III. Coadyuvar con las Comisiones en la elaboración de dictámenes y proyectos que le encomienden las Diputadas y Diputados.
+
+IV. Participar en las reuniones de trabajo de las Comisiones Permanentes;
+
+V. Emitir opinión de los asuntos que le sean solicitados por el Congreso;
+
+VI. Compilar las leyes vigentes, tanto de aplicación estatal como federal; llevar el control, organización y actualización del archivo de los marcos jurídicos federal, estatal, así como de los congresos de las demás entidades federativas, con el objeto de tener toda la bibliografía necesaria para el buen desarrollo y cumplimiento cabal de los diferentes objetivos de cada una de las distintas unidades que conforman el Congreso del Estado;
+
+VII. Proponer a la Legislatura la celebración de convenios de cooperación o colaboración con instituciones académicas y de investigación locales, nacionales e internacionales, con organismos análogos del sector público, privado y social, empresas distribuidoras o comercializadoras de material bibliográfico a fin de contribuir al cumplimiento de las atribuciones del Instituto;
+
+VIII. Proponer, organizar y conducir programas y cursos de capacitación institucional en las materias vinculadas al trabajo legislativo;
+
+IX. Apoyar a la Mesa Directiva, a la Diputación Permanente y a las Comisiones en los eventos de consulta, foros y mesas de trabajo, para la sistematización de las propuestas o conclusiones que se obtengan;
+
+X. Asistir mediante el personal que designe su Director o Directora, a las Reuniones que las Comisiones convoquen;
+
+XI. Elaborar proyecto de Reglamento del Instituto y proponer las reformas necesarias para su eficaz funcionamiento;
+
+XII. Elaborar y mantener actualizados los manuales operativos del Poder Legislativo; y
+
+XIII. Las demás funciones que le sean conferidas por la Mesa Directiva o la Junta de Gobierno y Coordinación Política del Congreso del Estado y esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 82.
 
-Son obligaciones del Asesor Jurídico:
+La Legislatura en turno, a propuesta de la Junta de Gobierno y Coordinación Política nombrará en Sesión Privada al Director o Directora del Instituto de Estudios Legislativos, para lo cual deberá acreditar los siguientes requisitos:
 
-I.- Emitir su opinión en los asuntos que le sean encomendados por el Congreso;
+I. Ser de nacionalidad Mexicana;
+
+II. Ser Ciudadano o ciudadana Sudcaliforniana;
+
+III. Contar con Título y Cédula Profesional, así como de preferencia con estudios concluidos en nivel de Maestría" (sic);
+
+IV. Contar con experiencia de al menos cinco años en el desempeño profesional y en actividades de carácter legislativo y/o parlamentario; (sic)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 83.
+
+El Instituto dependerá orgánicamente de la Oficialía Mayor y contará con el recurso humano profesional indispensable y multidisciplinario para el logro de sus tareas y objetivos. La organización del órgano especializado, deberá obedecer a los principios administrativos más eficientes y al menos, deberá contar con las siguientes unidades administrativas:
+
+I.- Asesoría Jurídica.
+
+II.- Estudios Parlamentarios, que contara con las siguientes áreas:
+
+a) Investigación legislativa;
+
+b) Evaluación presupuestaria;
+
+c) Investigación Social;
+
+d) Elaboración de Proyectos;
+
+e) Archivo y Memoria Legislativa;
+
+III. Enlace interinstitucional; y
+
+IV.- Capacitación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2013)</small>
+
+ARTICULO 83 BIS.- El personal que preste sus servicios de asesoría dentro del Instituto deberá acreditar mediante documentación oficial, contar con los siguientes requisitos:
+
+I.- Ser de Nacionalidad Mexicana;
+
+II.- Tener 25 años o más al momento de su designación;
+
+III.- Tener Título y Cedula Profesional y cinco años por lo menos de ejercicio profesional;
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, en cualesquier caso que haya sido la pena.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2013)</small>
+
+ARTICULO 83 TER.- La Unidad de Asesores Jurídicos del Instituto de Estudios Legislativos, contará con los asesores jurídicos que sean necesarios para el correcto y eficiente desempeño del ejercicio legislativo, los cuales podrán ser adscritos por el Director del Instituto en acuerdo con el Oficial Mayor del Congreso para que presten los servicios de secretario técnico de las Comisiones Permanentes, así como de asesoría y asistencia jurídica directamente a los Diputados, Junta de Gobierno y Coordinación Política, Comisiones Permanentes Legislativas y Oficialía Mayor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2013)</small>
+
+ARTICULO 83 QUATER.- Son obligaciones del Asesor Jurídico:
+
+I.- Emitir su opinión en los asuntos que le sean encomendados por el Congreso y por el Instituto de Investigaciones Legislativas;
 
 II.- Elaborar los Proyectos de Ley, Códigos, Reglamentos, Decretos, Acuerdos, Adiciones o Reformas, que le sean solicitadas por los Diputados del Congreso;
 
@@ -1435,25 +1533,35 @@ III.- Formular los proyectos de dictámenes a las iniciativas, cuando así se lo
 
 IV.- Realizar reuniones periódicas con las personas o instituciones dedicadas a las actividades jurídicas, con el objeto de afinar criterios, estudios e investigaciones de carácter Legislativo que lleven como finalidad la adecuación o mejoramiento del marco jurídico vigente en el Estado;
 
-V.- Compilar las Leyes vigentes tanto de uso Estatal como Federal, con el objeto de tener toda la bibliografía necesaria para el buen desarrollo y cumplimiento cabal de los diferentes objetivos de cada una de las distintas unidades que conforman el Congreso del Estado;
+V.- Asesorar jurídicamente a los Diputados en los asuntos propios de la Legislatura, y al Oficial Mayor cuando este rinda informes prevenidos en la Ley, en los Juicios de Amparo, en los que el Congreso fuere señalado como autoridad responsable;
 
-VI.- Llevar y tener actualizado un archivo con los diferentes marcos jurídicos que regulan los Congresos de las demás Entidades Federativas;
+VI.- Asistir a las reuniones de las Comisiones para emitir su juicio jurídico en la discusión de los asuntos tratados;
 
-VII.- Asesorar jurídicamente a los Diputados en los asuntos propios de la Legislatura, y al Oficial Mayor cuando éste rinda informes prevenidos en la Ley, en los Juicios de Amparo, en los que el Congreso fuere señalado como autoridad responsable;
+VII.- Rendir los informes que le solicite el Director del Instituto o el Oficial Mayor en relación a su desempeño como asesor jurídico;
 
-VIII.- Asistir a las reuniones de las Comisiones para emitir su juicio jurídico en la discusión de los asuntos tratados.
+VIII.- Las demás de naturaleza jurídica que le fijen la Mesa Directiva del Congreso o la Junta de Gobierno y Coordinación Política o la Dirección del Instituto de Estudios Legislativos.
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX.- Las demás de naturaleza jurídica que le fijen la Mesa Directiva del Congreso o la Junta de Gobierno y Coordinación Política.
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2013)</small>
 
-###### ARTICULO 83.
+ARTICULO 83 QUINQUIES.- La unidad de estudios parlamentarios contará con los asesores parlamentarios que sean necesarios para el correcto y eficiente desempeño del instituto y serán adscritos por el director del instituto a las distintas áreas del instituto de acuerdo a su perfil profesional o directamente a los diputados, comisiones permanentes o a la junta de gobierno y coordinación política a su solicitud.
 
-Para ser Asesor Jurídico se requiere:
+Son obligaciones del asesor parlamentario las siguientes:
 
-I.- Ser Licenciado en Derecho y acreditar un ejercicio profesional de dos años cuando menos;
+I.- Emitir su opinión en los asuntos que le sean encomendados por el Congreso o por el Instituto de Investigaciones Legislativas.
 
-II.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, se inhabilitará para el cargo, cualquiera que haya sido la pena.
+II.- Colaborar en la elaboración de los proyectos de ley, códigos, reglamentos, decretos, acuerdos, adiciones o reformas que le sean solicitadas por los Diputados del Congreso o por el Director del Instituto.
+
+III.- Formular los proyectos de dictámenes a las iniciativas cuando así se lo soliciten.
+
+IV.- Realizar reuniones periódicas con personas o instituciones con el objeto de afinar criterios o realizar estudios e investigaciones de carácter legislativo que lleven como finalidad la adecuación o mejoramiento del marco jurídico vigente en el Estado.
+
+V.- Asistir a las reuniones de las comisiones para emitir su opinión en la discusión de los asuntos tratados.
+
+VI.- Rendir los informes que le soliciten el director del instituto o el oficial mayor en relación a su desempeño como asesor parlamentario.
+
+VII.- Las demás que le fijen la Mesa Directiva del Congreso, la Junta de Gobierno y Coordinación Política o la Dirección del Instituto de Estudios Legislativos.
 
 ### CAPITULO I
 
@@ -2189,7 +2297,7 @@ La Sesión inaugural de cada Primer Período Ordinario, que deberá ser invariab
 
 I.- Nombramiento, por la Presidencia, de comisiones que introduzcan al Recinto del Congreso y de las que acompañen a su salida del mismo, al Ciudadano Gobernador del Estado, a los Representantes de los Poderes Federales y del Poder Judicial del Estado que deban asistir especialmente a ella.
 
-Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués en tal caso deberá ponerse de pié.
+Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués en tal caso deberá ponerse de pie.
 
 II.- Ya en el Salón de Sesiones el Ciudadano Gobernador del Estado, el Presidente le concederá la palabra para que rinda el Informe a que se refiere la Fracción XX del Artículo 79 de la Constitución Política del Estado.
 
@@ -2994,3 +3102,11 @@ SEGUNDO.- Dentro de los treinta días posteriores a la entrada en vigor del pres
 B.O. 20 DE ABRIL DE 2013.
 
 ÚNICO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JUNIO DE 2013.
+
+PRIMERO.- El presente decreto será publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, y entrará en vigor el día 15 de marzo del año 2013.
+
+SEGUNDO.- El H. Congreso del Estado de Baja California Sur, por votación del pleno en sesión privada, nombrará al Director o Directora del Instituto de Estudios Legislativos, dentro de los 30 días siguientes de la entrada en vigor del presente decreto.
+
+TERCERO.- El Instituto de Estudios Legislativos, deberá elaborar su reglamento correspondiente dentro de los 90 días siguientes de la entrada en vigor del presente decreto, el cual deberá ser aprobado por la mayoría del pleno del H. Congreso del Estado de Baja California Sur.
