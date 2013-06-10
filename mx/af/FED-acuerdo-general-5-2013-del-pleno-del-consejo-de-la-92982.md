@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2013-del-pleno-del-consejo-de-la-92982"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-03-12"
-last_updated: "2013-03-12"
+last_updated: "2013-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92982&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-03-04"
 
 ACUERDO GENERAL 5/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS LINEAMIENTOS PARA LA ATENCIÓN DE SOLICITUDES DE PUBLICACIONES QUE HACEN LOS ÓRGANOS JURISDICCIONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JUNIO DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 12 de marzo de 2013.
 
@@ -69,7 +69,9 @@ El presente acuerdo tiene por objeto establecer los lineamientos para la atenci�
 
 Las publicaciones de edictos son procedentes:
 
-I. En aquellos juicios de amparo en que los titulares de los órganos jurisdiccionales, ante los cuales se tramitan, determinen el emplazamiento del tercero perjudicado, a través de esta vía, con cargo al presupuesto de egresos del Poder Judicial de la Federación; y
+> <small>(REFORMADA POR EL ACUERDO GENERAL 16/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE JUNIO DE 2013)</small>
+
+I. En aquellos juicios de amparo en que los titulares de los órganos jurisdiccionales, ordenen la publicación de edictos, en términos del artículo 27, fracción III, inciso c) de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; y
 
 II. En las diligencias de averiguación previa, en aquellos supuestos en que sean acordadas por los órganos jurisdiccionales a solicitud del Ministerio Público y en las decretadas de oficio por los referidos órganos jurisdiccionales, cuando los mismos determinen que las publicaciones sean con cargo al presupuesto de egresos del Poder Judicial de la Federación.
 
@@ -152,3 +154,15 @@ SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, en el
 TERCERO.- Se abrogan los Lineamientos que establecen el procedimiento para solicitar la publicación de edictos, cédulas de notificación y otras, que se requieren en los procesos que se tramitan ante los órganos jurisdiccionales, contenidos en la Circular 19/2007, y se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 5/2013, del Pleno del Consejo de la Judicatura Federal, que establece los lineamientos para la atención de solicitudes de publicaciones que hacen los órganos jurisdiccionales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de treinta de enero de dos mil trece, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a cuatro de marzo de dos mil trece.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 10 DE JUNIO DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta; y para su mayor difusión en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las solicitudes de publicación de edictos que se hagan en los juicios de amparo iniciados antes del 3 de abril de 2013, se harán con fundamento en el artículo 2, fracción I, del Acuerdo General 5/2013, del Pleno del Consejo de la Judicatura Federal, que establece los lineamientos para la atención de solicitudes de publicaciones que hacen los órganos jurisdiccionales, vigente antes de la referida fecha.
+
+CUARTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar inmediatamente el texto de este Acuerdo al diverso Acuerdo General 5/2013, del Pleno del Consejo de la Judicatura Federal, que establece los lineamientos para la atención de solicitudes de publicaciones que hacen los órganos jurisdiccionales.
