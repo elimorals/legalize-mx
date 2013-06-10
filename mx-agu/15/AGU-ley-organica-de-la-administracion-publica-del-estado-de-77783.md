@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2012-01-30"
+last_updated: "2013-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2013.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -38,6 +38,8 @@ Decreto Número 19
 ###### ARTÍCULO ÚNICO.
 
 Se aprueba la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, para quedar en los siguientes términos:
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DEL 10 DE JUNIO DE 2013, LAS REFERENCIAS AL INSTITUTO DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES QUE HAGAN LAS LEYES Y DEMÁS DISPOSICIONES ADMINISTRATIVAS, EN ADELANTE SE ATENDERÁN REALIZADAS A LA SECRETARÍA DE LA JUVENTUD.</small>
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
@@ -235,9 +237,17 @@ XII. Secretaría de Turismo;
 
 XIII. Coordinación Estatal de Planeación y Proyectos;
 
-XIV. Oficialía Mayor; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2013)</small>
 
-XV. Secretaría de Fiscalización y Rendición de Cuentas.
+XIV. Oficialía Mayor;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2013)</small>
+
+XV. Secretaría de Fiscalización y Rendición de Cuentas; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2013)</small>
+
+XVI. Secretaría de la Juventud.
 
 ###### ARTÍCULO 16.
 
@@ -1461,6 +1471,46 @@ XXI. Designar a los auditores externos que de acuerdo a las leyes específicas, 
 
 XXII. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE JUNIO DE 2013)</small>
+
+#### SECCIÓN DÉCIMA SEXTA. De la Secretaría de la Juventud
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2013)</small>
+
+ARTÍCULO 43 BIS.- A la Secretaría de la Juventud le corresponde el despacho de los siguientes asuntos:
+
+I. Dirigir, coordinar, instrumentar, controlar, evaluar e impulsar la política estatal de juventud que permita incorporar plenamente a los jóvenes al desarrollo del Estado;
+
+II. Actuar como el órgano rector en representación del Titular del Poder Ejecutivo en materia de las políticas públicas del sector juvenil ante las dependencias y entidades de la administración pública estatal, así como ante los sectores social y privado dentro del marco de sus atribuciones;
+
+III. Proponer al Titular del Poder Ejecutivo el otorgamiento de reconocimientos y estímulos a jóvenes que realicen un trabajo sobresaliente en beneficio de la sociedad;
+
+IV. Crear talleres de planeación social en coordinación con las dependencias y organismos de la administración pública estatal y municipal para promover su participación, tanto en comunidades rurales como urbanas, ejerciendo acciones para mejorar el nivel de vida de la juventud, así como sus expectativas familiares, sociales y culturales, respetando sus derechos humanos y libertades fundamentales;
+
+V. Promover una cultura de respeto, integración y equidad de género en los ámbitos familiar y cívico, que permita la participación de la población juvenil en el Estado en la discusión y solución de conflictos que tengan que ver con problemas relacionados con la juventud, la familia y, en general, la comunidad y el Estado de Aguascalientes;
+
+VI. Implementar políticas públicas y programas formativos y de capacitación para el empleo, dirigidos a la población juvenil, así como ampliar la información sobre el mercado de trabajo disponible, en coordinación con la instancia respectiva;
+
+VII. Gestionar recursos económicos y materiales que permitan la promoción de la oferta educativa, artística, cultural, expresión creativa y científica de la juventud, coadyuvando así con la superación académica del sector juvenil del Estado;
+
+VIII. Operar e implementar programas integrales en coordinación con las dependencias y organismos descentralizados de los tres niveles de gobierno que vayan dirigidos a la prevención y disminución de las adicciones en la población juvenil; así como la desintegración familiar
+
+IX. Gestionar recursos económicos y materiales en coordinación con los organismos y dependencias del gobierno federal, estatal y municipal que permitan la promoción y difusión para la creación de nuevas fuentes de empleo y autoempleo;
+
+X. Promover la creación de instancias municipales de la juventud, así como de espacios físicos acordes al sector juvenil en los que puedan desarrollar actividades de creatividad, expresión y recreación.
+
+XI. Promover la creación de espacios en los medios de comunicación, que permitan la difusión, expresión e interlocución del sector juvenil.
+
+XII. Realizar la evaluación de las políticas públicas y servicios en relación con su efectiva incidencia en la vida y desarrollo de las y los jóvenes del Estado de Aguascalientes.
+
+XIII. Proporcionar mediante los distintos medios de telecomunicación disponibles, servicios de información, orientación y apoyo;
+
+XIV. Operar e implementar programas con el objeto de que la juventud reciba oportunamente la información y los servicios médicos que requieren para su salud integral promoviendo la educación sexual y la prevención de las adicciones;
+
+XV. Celebrar, previa autorización del titular del Poder Ejecutivo, convenios de coordinación y colaboración con los tres órdenes de gobierno y organismos de la sociedad civil, así como con organismos internacionales, para la promoción y ejecución de programas en materia de educación, cultura, deporte, recreación y capacitación para el trabajo; y
+
+XVI. Las demás que le confieran otras leyes o reglamentos sin prejuicio de las atribuciones de otras dependencias.
+
 ### CAPÍTULO IV. De los Tribunales Administrativos
 
 ###### ARTÍCULO 44.
@@ -1507,11 +1557,11 @@ El Organismo Público Descentralizado denominado Instituto de Salud del Estado d
 
 El Decreto de Creación del Instituto de Servicios de Salud del Estado de Aguascalientes, lo deberá expedir el Congreso del Estado, dentro de los 60 días naturales contados a partir de la entrada en vigencia de la presente ley.
 
-> <small>(DEROGADO CUARTO PARRAFO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES, P.O. 13 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES, P.O. 13 DE JUNIO DE 2011)</small>
 
-> <small>(DEROGADO QUINTO PARRAFO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES, P.O. 13 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES, P.O. 13 DE JUNIO DE 2011)</small>
 
-> <small>(DEROGADO SEXTO PARRAFO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES, P.O. 13 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES, P.O. 13 DE JUNIO DE 2011)</small>
 
 Hasta en tanto se expidan los ordenamientos referidos, se seguirá aplicando el Título Tercero, Capítulo Único, que comprende del Artículo 13 al 27 de la ley de Salud del Estado de Aguascalientes, la normativa reglamentaria vigente y, en su caso, los lineamientos que emita el Secretario de Salud.
 
@@ -1605,7 +1655,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic Miguel Romo Medina.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 13 DE JUNIO DE 2011.
 
@@ -1710,3 +1760,41 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Se deroga todo lo que se oponga al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Instituto de la Juventud del Estado de Aguascalientes publicada en el Periódico Oficial del Gobierno del Estado de Aguascalientes en fecha 12 de noviembre de 2001; quedando extinto el organismo público descentralizado denominado "Instituto de la juventud del Estado de Aguascalientes".
+
+###### ARTÍCULO TERCERO.
+
+Los servidores públicos del Instituto de la Juventud del Estado de Aguascalientes pasarán a formar parte de la plantilla de personal de la Secretaría de la Juventud, representándose todos sus derechos laborales en términos de la ley, tanto individuales como colectivos.
+
+De igual manera, todos los bienes muebles e inmuebles y los recursos financieros con que actualmente cuenta el Instituto de la Juventud del Estado de Aguascalientes, a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos legales que haya lugar, la Secretaría de la Juventud sustituirá al Instituto de la Juventud del Estado de Aguascalientes en el cumplimiento de las obligaciones y el ejercicio de los derechos derivados y que se deriven en forma posterior a la entrada en vigencia del presente Decreto, de los convenios, contratos y demás actos jurídicos celebrados por este último, lo que operará de pleno derecho sin necesidad de ratificaciones o suscripciones por parte de la Secretaría para tales efectos.
+
+###### ARTÍCULO QUINTO.
+
+Hasta en tanto sea expedida la normatividad interna de la Secretaría de la Juventud, seguirá en vigor en lo que no contravenga el presente Decreto, aquella que ha regido hasta el momento al Instituto de la Juventud del Estado de Aguascalientes.
+
+###### ARTÍCULO SEXTO.
+
+Para la atención y seguimiento de los asuntos jurisdiccionales o administrativos en trámite o en pendiente (sic) de resolución definitiva que estén vinculados de cualquier manera con el Instituto de la Juventud del Estado de Aguascalientes, la representación de este se entenderá efectuada a través de la Secretaria de la Juventud.
+
+Las responsabilidades derivadas de procedimientos administrativos, judiciales o de cualquier otra índole que se haya iniciado o se inicie sobre el manejo de recursos públicos por parte de los servidores públicos del Instituto de la Juventud del Estado de Aguascalientes o cualquier otra persona física o moral, pública o privada, continuarán su curso independientemente de la modificación a la que se refiere el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las referencias al instituto de la Juventud del Estado de Aguascalientes que hagan las leyes y demás disposiciones administrativas, en adelante se atenderán realizadas a la Secretaría de la Juventud.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
