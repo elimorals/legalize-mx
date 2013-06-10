@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-la-juventud-del-estado-de-22749"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2001-11-12"
+last_updated: "2013-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 354, POR EL QUE SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 10 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -414,3 +416,43 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Instituto de la Juventud del Estado de Aguascalientes publicada en el Periódico Oficial del Gobierno del Estado de Aguascalientes en fecha 12 de noviembre de 2001; quedando extinto el organismo público descentralizado denominado "Instituto de la juventud del Estado de Aguascalientes".
+
+###### ARTÍCULO TERCERO.
+
+Los servidores públicos del Instituto de la Juventud del Estado de Aguascalientes pasarán a formar parte de la plantilla de personal de la Secretaría de la Juventud, representándose todos sus derechos laborales en términos de la ley, tanto individuales como colectivos.
+
+De igual manera, todos los bienes muebles e inmuebles y los recursos financieros con que actualmente cuenta el Instituto de la Juventud del Estado de Aguascalientes, a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos legales que haya lugar, la Secretaría de la Juventud sustituirá al Instituto de la Juventud del Estado de Aguascalientes en el cumplimiento de las obligaciones y el ejercicio de los derechos derivados y que se deriven en forma posterior a la entrada en vigencia del presente Decreto, de los convenios, contratos y demás actos jurídicos celebrados por este último, lo que operará de pleno derecho sin necesidad de ratificaciones o suscripciones por parte de la Secretaría para tales efectos.
+
+###### ARTÍCULO QUINTO.
+
+Hasta en tanto sea expedida la normatividad interna de la Secretaría de la Juventud, seguirá en vigor en lo que no contravenga el presente Decreto, aquella que ha regido hasta el momento al Instituto de la Juventud del Estado de Aguascalientes.
+
+###### ARTÍCULO SEXTO.
+
+Para la atención y seguimiento de los asuntos jurisdiccionales o administrativos en trámite o en pendiente (sic) de resolución definitiva que estén vinculados de cualquier manera con el Instituto de la Juventud del Estado de Aguascalientes, la representación de este se entenderá efectuada a través de la Secretaria de la Juventud.
+
+Las responsabilidades derivadas de procedimientos administrativos, judiciales o de cualquier otra índole que se haya iniciado o se inicie sobre el manejo de recursos públicos por parte de los servidores públicos del Instituto de la Juventud del Estado de Aguascalientes o cualquier otra persona física o moral, pública o privada, continuarán su curso independientemente de la modificación a la que se refiere el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las referencias al instituto de la Juventud del Estado de Aguascalientes que hagan las leyes y demás disposiciones administrativas, en adelante se atenderán realizadas a la Secretaría de la Juventud.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
