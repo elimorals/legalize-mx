@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2012-12-31"
+last_updated: "2013-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JUNIO DE 2013.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -165,7 +165,7 @@ V. Secretaría de Promoción y Desarrollo Económico;
 
 VI. Secretaría de Salud;
 
-VII. Secretaría de Seguridad Pública;
+VII. (DEROGADA, B.O. 10 DE JUNIO DE 2013)
 
 VIII. Secretaría de Turismo;
 
@@ -177,13 +177,11 @@ X. Secretaría del Trabajo y Previsión Social;
 
 XI. Oficialía Mayor de Gobierno;
 
-XII. Procuraduría General de Justicia; y (sic)
+XII. Procuraduría General de Justicia; y
 
 XIII. Contraloría General del Estado.
 
-> <small>(ADICIONADA, B.O. 4 DE OCTUBRE DE 2011)</small>
-
-XIV. Secretaría de la Consejería Jurídica.
+XIV.- (DEROGADA, B.O. 10 DE JUNIO DE 2013)
 
 > <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
 
@@ -205,15 +203,15 @@ Los Titulares de las Secretarías del Despacho y Dependencias de la Administraci
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LOS TITULARES DE LAS SECRETARÍAS Y DEPENDENCIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2013)</small>
 
 ###### ARTÍCULO 20.
 
-Los titulares de las Secretarías del Despacho y Dependencias del Poder Ejecutivo tienen las siguientes obligaciones comunes:
+Los titulares de las Dependencias del Poder Ejecutivo tienen las siguientes obligaciones comunes:
 
-> <small>(REFORMADA, B.O. 4 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2013)</small>
 
-I.- Formular los anteproyectos de leyes, reglamentos, decretos y acuerdos para regular en funcionamiento de las dependencias a su cargo, según corresponda a sus atribuciones, y remitirlos a la Secretaría de la Consejería Jurídica para su estudio y aprobación, para su posterior envío al Gobernador del Estado, previo refrendo de la Secretaría General de Gobierno;
+I.- Formular los anteproyectos de leyes, reglamentos, decretos y acuerdos para regular el funcionamiento de las dependencias a su cargo, según corresponda a sus atribuciones, y remitirlos a la Secretaría General de Gobierno para su estudio, aprobación y refrendo, para su posterior envío al Gobernador del Estado;
 
 II.- Proponer al Gobernador del Estado las políticas y programas relativos a la materia que les corresponda de acuerdo con sus atribuciones, de conformidad con los Planes Nacional y Estatal de Desarrollo;
 
@@ -261,101 +259,107 @@ XII.- Resolver las dudas o controversias en materia de competencia interna que s
 
 XIII.- Las demás que dispongan las leyes, reglamentos, convenios de colaboración administrativa celebrados o que se celebren, relativos a la dependencia a su cargo.
 
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 21.
 
-La Secretaría General de Gobierno, es la dependencia encargada de colaborar con el Gobernador del Estado en la conducción de la política interna del Estado, la protección civil y el bienestar social de los sudcalifornianos; y le competen las siguientes atribuciones:
+La Secretaría General de Gobierno, es la dependencia encargada de colaborar con el Gobernador del Estado en la conducción de la política interna del Estado, los asuntos jurídicos, la seguridad pública, la protección civil y el bienestar social de los sudcalifornianos; y le competen las siguientes atribuciones:
 
 I. En materia de gobierno y de régimen interior:
 
-a) Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial del Estado, con los Ayuntamientos, así como atender lo relativo a la política interna de la Entidad;
+a) Vigilar, en coordinación con las autoridades federales y municipales, el cumplimiento de las leyes y conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial del Estado, con los Ayuntamientos, los Órganos Constitucionales Autónomos, gobiernos de otras entidades federativas; así como atender lo relativo a la política interna de la Entidad;
 
-b) Cumplir y hacer cumplir acuerdos, órdenes, circulares y demás disposiciones emanados del Poder Ejecutivo;
+b) Coordinar, por acuerdo del Gobernador del Estado, a los Secretarios de Despacho, sus equivalentes y demás funcionarios de la Administración Pública del Estado, para garantizar el cumplimiento de las órdenes, acuerdos y demás disposiciones del Titular del Poder Ejecutivo;
 
-c) Vigilar el cumplimiento de los preceptos constitucionales por parte de las entidades y dependencias del Poder Ejecutivo, especialmente el respeto de las garantías individuales y dictar las medidas administrativas conducentes;
+c) Vigilar el cumplimiento de los preceptos constitucionales por parte de las entidades y dependencias del Poder Ejecutivo, especialmente el respeto a los Derechos Humanos y dictar las medidas administrativas conducentes;
 
 d) Prestar al Poder Judicial del Estado, el auxilio para el debido cumplimiento de sus funciones;
 
 e) Asesorar y apoyar a los Ayuntamientos, cuando lo soliciten, para el desempeño de sus funciones;
 
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
-
-f) Coordinar la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública del Consejo Estatal de Seguridad Pública; así como vigilar la debida aplicación de los Fondos que se integren;
-
-> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+f) Coordinar la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública del Consejo Estatal de Seguridad Pública; así como vigilar la debida aplicación de los Fondos y Subsidios que se integren;
 
 g) Ser el conducto para presentar al Congreso del Estado las iniciativas de leyes o decretos que formule el Gobernador del Estado;
 
-h) Coordinar las actividades respecto al Informe de Gobierno Anual, que el Gobernador del Estado, rinde al Congreso del Estado;
+h) Coordinar las actividades respecto al Informe de Gobierno Anual, que el Gobernador, rinde al Congreso del Estado;
 
 i) Auxiliar en los asuntos que en materia electoral le competen al Gobernador del Estado;
 
-j) Promover la cultura cívico-política de los ciudadanos, los mecanismos de participación ciudadana y la atención a los organismos de la sociedad civil;
+j) Promover la cultura cívico-política de los ciudadanos, los mecanismos de participación ciudadana, reglamentos en materia de culto religioso, explosivos, detonantes y pirotecnia, loterías, rifas y juegos permitidos;
 
-k) Vigilar, en coordinación con las autoridades federales y municipales, el cumplimiento de las leyes y reglamentos en materia de culto religioso, explosivos, detonantes y pirotecnia, loterías, rifas y juegos permitidos;
+k) Llevar el registro de autógrafos, legalizar y certificar firmas de los funcionarios estatales, de los Presidentes y Secretarios Municipales y demás funcionarios a quienes les este encomendada la fe pública;
 
-l) Llevar el registro de autógrafos, legalizar y certificar firmas de los funcionarios estatales, de los Presidentes y Secretarios Municipales y demás funcionarios a quienes les este encomendada la fe pública;
+l) Vigilar el Sistema de Radiocomunicaciones del Estado;
 
-m) (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
-
-n) (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
-
-o) Solicitar a la Secretaría de Seguridad Pública, el apoyo de las fuerzas de seguridad pública, cuando lo considere necesario para el cumplimiento de sus atribuciones;
-
-p) Vigilar el Sistema de Radiocomunicaciones del Estado;
-
-q) Expedir y certificar documentos, mientras que esta función no corresponda a otra dependencia o funcionarios.
+m) Expedir y certificar documentos, mientras que esta función no corresponda a otra dependencia o funcionario.
 
 II. En materia jurídica:
 
-a) Coadyuvar con el Poder Legislativo en la compilación de la legislación vigente;
+a) Proporcionar asistencia jurídica al Gobernador del Estado en los actos propios de su investidura que así lo requieran;
 
-b) (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
+b) Brindar apoyo técnico jurídico al Gobernador del Estado, en la elaboración de las iniciativas de ley y decretos, así como en los demás instrumentos que éste considere necesarios;
 
-c) Ejecutar los acuerdos y declaratorias que emita el Gobernador del Estado;
+c) Revisar y validar los proyectos de acuerdos, decretos, normas, reglamentos, iniciativas y demás documentos de carácter jurídico que se remitan al Gobernador del Estado, elaborados por los titulares de las dependencias y entidades de la Administración Pública del Estado;
 
-d) Tramitar las solicitudes de indulto que le sean presentadas al Gobernador del Estado;
+d) Revisar y validar los instrumentos y documentos jurídicos, previo a la firma del Gobernador, relativos a la Administración Pública o que celebre el Estado con la intervención del Titular del Ejecutivo; y llevar el archivo correspondiente;
 
-e) Diseñar e instrumentar una política de apoyo jurídico y de respeto a los derechos humanos de los sudcalifornianos;
+e) Coordinar las acciones en materia jurídica que se implementen en la Administración Pública Estatal, estableciendo los criterios que aplicarán las dependencias y las entidades;
 
-f) (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
+f) Proponer el nombramiento y remoción de los titulares o funcionarios análogos, responsables de las áreas jurídicas de las Dependencias y Entidades de la Administración Pública Estatal, los cuales serán designados conforme la normatividad correspondiente; así como coordinar y vigilar sus actividades;
 
-g) (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
+g) Tramitar e integrar los expedientes relativos a la expropiación, ocupación temporal o limitación de dominio, de acuerdo a la Ley en la materia;
 
-h) (DEROGADO, B.O. 29 DE SEPTIEMBRE DE 2008)
+h) Representar legalmente al Poder Ejecutivo del Gobierno del Estado y a su Titular, en los procedimientos, controversias, juicios o asuntos litigiosos en los que el Poder Ejecutivo sea parte o tenga interés jurídico de cualquier materia o naturaleza; la representación a que se refiere esta fracción, comprende el desahogo de todo tipo de pruebas, la promoción de incidentes, la presentación de recursos, quejas, controversias, o medios de impugnación, y constituye una representación amplísima;
 
-i) Participar con las demás dependencias del Poder Ejecutivo, en la modernización y simplificación del ordenamiento jurídico y administrativo.
+i) Proporcionar la asesoría jurídica que en materia de interpretación y aplicación de las diversas disposiciones legales federales y estatales sea solicitada por las demás Dependencias y Entidades del Estado, por los Municipios y por los particulares;
+
+j) Fungir como órgano de consulta obligatoria para los titulares de las Dependencias y Entidades de la Administración Pública, respecto de los procedimientos contenciosos o litigiosos en los que tengan interés jurídico, pudiendo asumir el patrocinio legal de tales asuntos por orden escrita del Gobernador del Estado;
+
+k) Otorgar mandatos de conformidad al Código Civil del Estado y el Federal, respecto de la representación legal que le confiere la presente Ley;
+
+l) Ejecutar acciones de compilación y difusión del marco jurídico y reglamentario del Estado en coordinación con los órganos e instancias correspondientes;
+
+m) Conocer y substanciar los procedimientos relativos a los recursos administrativos que deba resolver el Gobernador del Estado, dejándolos en estado previo a la resolución y proponerle el proyecto de los mismos;
+
+n) Encargarse de las funciones del Ejecutivo del Estado, en materia del Notariado de conformidad con las leyes respectivas, incluyendo la autorización, organización, vigilancia y sanción de las actividades de los Notarios Titulares y Notarios Adscritos; así como organizar, dirigir y supervisar el Archivo General de Notarias;
+
+o) Coordinar, supervisar, controlar y vigilar las acciones correspondientes a la organización, desempeño y funcionamiento de la Defensoría de Oficio;
+
+p) Coordinar las acciones de la Comisión Implementadora del Nuevo Sistema de Justicia Penal;
+
+q) Organizar, controlar y conducir en el Estado lo concerniente al Registro Civil, al Registro Público de la Propiedad y del Comercio; así como el Catastro del Estado, sin menoscabo de las atribuciones que los Ayuntamientos tienen en la materia;
+
+r) Atendiendo las disposiciones en la materia; publicar en el Boletín Oficial del Gobierno del Estado, los actos y resoluciones que requieran tal requisito conforme a las Leyes y reglamentos aplicables;
+
+s) Efectuar por conducto del funcionario que establezca la reglamentación interna de la Secretaría General de Gobierno, las notificaciones dispuestas en el trámite de los asuntos que conozca en el desempeño de sus funciones, así como las que sean ordenadas por el Gobernador del Estado, las que se harán con sujeción a lo dispuesto, en lo conducente, en el Código de Procedimientos Civiles del Estado; y
+
+t) Ordenar, vigilar y coordinar el cumplimiento de las disposiciones en materia de exhortos judiciales.
 
 III. En materia administrativa:
 
-a).- (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
+a) Previo acuerdo por escrito con el Gobernador del Estado, expedir las licencias, autorización, permisos y refrendos, cuyas facultades no estén asignadas específicamente a otras secretarías del despacho o dependencias;
 
-> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+b) Diseñar y difundir anualmente el Calendario Cívico y Social que regirá en el Estado y organizar los actos cívicos correspondientes;
 
-b).- Previo acuerdo por escrito con el Gobernador del Estado, expedir las licencias, autorización, permisos y refrendos, cuyas facultades no estén asignadas específicamente a otras secretarías del despacho o dependencias.
+c) Vigilar la demarcación y conservar los límites del Estado; así como de los Municipios, de conformidad con los límites que fije el Congreso del Estado;
 
-c) Diseñar y difundir anualmente el Calendario Cívico y Social que regirá en el Estado y organizar los actos cívicos correspondientes;
+d) Tramitar lo relacionado con las renuncias, remociones, destituciones y propuestas de los Magistrados del Tribunal Superior de Justicia y del Tribunal Estatal Electoral;
 
-d) Vigilar la demarcación y conservar los límites del Estado; así como de los Municipios, de conformidad con los límites que fije el Congreso del Estado;
+e) Tramitar lo relacionado con las propuestas de elección y nombramiento, renuncia, remoción y destitución del Procurador General de Justicia;
 
-e) Tramitar lo relacionado con las renuncias, remociones, destituciones y propuestas de los Magistrados del Tribunal Superior de Justicia y del Tribunal Estatal Electoral;
+f) Administrar el Archivo General del Estado;
 
-f) Tramitar lo relacionado con las propuestas de elección y nombramiento, renuncia, remoción y destitución del Procurador General de Justicia;
+g) Conducir las relaciones del Gobierno del Estado con el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes y Municipios del Estado de Baja California Sur;
 
-g) (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
+h) Realizar, en coordinación con los Municipios, los estudios para la planeación del servicio público de transporte de pasajeros y de carga en el Estado; y elaborar las políticas y estrategias en la materia, de acuerdo con las leyes aplicables;
 
-h) Administrar el Archivo General del Estado;
+i) Revisar las solicitudes de las concesiones para la prestación del servicio público de transporte en las carreteras estatales, caminos vecinales y demás vías de jurisdicción estatal, y otorgarlas, previo acuerdo con el Gobernador del Estado;
 
-i) Realizar, en coordinación con los Municipios, los estudios para la planeación del servicio público de transporte de pasajeros y de carga en el Estado; y elaborar las políticas y estrategias en la materia, de acuerdo con las leyes aplicables;
+j) Vigilar el cumplimiento de las bases y los requisitos conforme a los cuales deberá ajustarse el tránsito en las carreteras y caminos de jurisdicción estatal, en los términos de las leyes y reglamentos respectivos;
 
-j) Revisar las solicitudes de las concesiones para la prestación del servicio público de transporte en las carreteras estatales, caminos vecinales y demás vías de jurisdicción estatal, y otorgarlas, previo acuerdo con el Gobernador del Estado;
+k) Realizar en coordinación con las dependencias y entidades de la Administración Pública Federal, Estatal y con los Municipios, acciones para la regularización de la tenencia de la tierra en el Estado; y
 
-k) Vigilar el cumplimiento de las bases y los requisitos conforme a los cuales deberá ajustarse el tránsito en las carreteras y caminos de jurisdicción estatal, en los términos de las leyes y reglamentos respectivos;
-
-> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
-
-l) Realizar en coordinación con la Secretaría de la Consejería Jurídica, y la Secretaría de Planeación Urbana, Infraestructura y Ecología, así como con las dependencias y entidades de la Administración Pública Federal y con los Municipios, acciones para la regularización de la tenencia de la tierra; y
-
-m) Proporcionar los elementos administrativos necesarios que requieran los organismos de la Administración Pública Paraestatal sectorizados a su Secretaría.
+l) Proporcionar los elementos administrativos necesarios que requieran los organismos de la Administración Pública Paraestatal sectorizados a la Secretaría.
 
 IV. En materia de Bienestar Social y Política Poblacional:
 
@@ -363,23 +367,59 @@ a) Coordinar, en el ámbito que le compete al Estado, la política de desarrollo
 
 b) Proteger, mantener y acrecentar el patrimonio histórico de la entidad y coordinar las funciones del Cronista del Estado;
 
-c) Coordinar, apoyar, supervisar y evaluar las acciones de todos aquellos organismos que desarrollen actividades de bienestar social en beneficio de los habitantes de la entidad;
+c) Apoyar las acciones de todos aquellos organismos públicos y privados que desarrollen actividades de bienestar y asistencia social en beneficio de los habitantes de la entidad;
 
 d) Proporcionar los elementos necesarios que requiera el funcionamiento del Patronato del Estudiante Sudcaliforniano, en los términos de las disposiciones legales que resulten aplicables;
 
-e) Coordinar el Instituto Sudcaliforniano de la Mujer, el Instituto Sudcaliforniano de Cultura, el Instituto Sudcaliforniano de la Juventud, sin menoscabo de que deberán seguirse rigiendo por la normatividad local federal vigente.
+e) Coordinar al Instituto Sudcaliforniano de la Mujer, al Instituto Sudcaliforniano de Cultura, al Instituto Sudcaliforniano del Deporte y al Instituto Sudcaliforniano de la Juventud; y
 
-f) Coordinar el Instituto Sudcaliforniano del Deporte.
+f) Atender la política en materia de población.
 
 V. En materia de Protección Civil:
 
-a) Coordinar e inducir las actividades de los sectores públicos (sic), social y privado en materia de protección civil, de acuerdo a los programas que para tal efecto implementen la Federación, el Estado y los Municipios;
+a) Coordinar e inducir las actividades de los sectores públicos, social y privado en materia de protección civil, de acuerdo a los programas que para tal efecto implementen la Federación, el Estado y los Municipios;
 
-b) Coordinar las actividades del Sistema Estatal de Protección Civil;
+b) Vigilar el cumplimiento de las disposiciones en materia de Protección Civil, en los establecimientos públicos y privados, abiertos y cerrados, en los que haya concentración de personas;
 
-c) Planear y vigilar los programas de capacitación en materia de protección civil; y
+c) Coordinar las actividades del Sistema Estatal de Protección Civil; y
 
-VI. Las demás que le señalen las leyes aplicables en la entidad.
+d) Planear y vigilar los programas de capacitación en materia de protección civil.
+
+VI. En materia de Seguridad Pública:
+
+a) Formular, conducir y evaluar las políticas y programas relativos a la seguridad pública, de conformidad con las leyes y ordenamientos administrativos aplicables;
+
+b) Promover en coordinación con la sociedad, campañas tendientes a la prevención de los delitos;
+
+c) Prestar al Poder Judicial del Estado y demás autoridades de carácter jurisdiccional, el auxilio, cuando lo solicite, para el debido cumplimiento de sus resoluciones;
+
+d) Coordinarse con las autoridades federales y municipales para enfrentar los problemas relativos a la seguridad pública;
+
+e) Aplicar las normas, políticas y programas que deriven del Sistema Nacional de Seguridad Pública;
+
+f) En el ámbito de su respectiva competencia, vigilar y coordinar el debido cumplimiento y aplicación de la Ley General en materia de Seguridad Pública y la Ley del Sistema Estatal de Seguridad Pública;
+
+g) Controlar en coordinación con la Procuraduría General de Justicia del Estado y autoridades municipales, la portación de armas para los servidores públicos de la entidad, de acuerdo a los convenios celebrados con las dependencias federales y de conformidad a la legislación aplicable;
+
+h) Controlar y supervisar los servicios de seguridad privada que se presten en el Estado, así como ejercer las funciones asignadas al Estado en la Ley en la Ley (sic) de la materia;
+
+i) Organizar, supervisar y controlar la operación de la Academia Estatal de Seguridad Pública, la Policía Estatal Preventiva y el Centro Estatal de Control de Confianza;
+
+j) Celebrar con autoridades que conforman el Sistema Estatal de Seguridad Pública, convenios que permitan preservar el orden y respeto dentro de la sociedad;
+
+k) Coordinar y operar los registros estatales de información en materia criminal, vehicular, de personal de instituciones de seguridad pública, así como de internos en los centros de reinserción social y de internamiento y tratamiento externo para adolescentes y demás registros nacionales de información sobre seguridad pública;
+
+l) Proporcionar a la Procuraduría General de Justicia la información que se tenga sobre personas y vehículos que ingresen o abandonen el territorio estatal;
+
+m) Organizar, controlar y supervisar, los Módulos de Identificación de personas y vehículos que se instalen en el territorio estatal;
+
+n) Diseñar, implementar y avaluar los programas tendientes a la reinserción social de las personas sujetas a una pena de prisión, así como coordinar a los centros de reinserción social estatales;
+
+o) Administrar, coordinar y supervisar el Centro de Internamiento y Tratamiento Externo para Adolescentes; y
+
+p) Coordinar las funciones y programas que implemente el Patronato para la Reincorporación Social.
+
+VII.- Las demás que le señalen las leyes aplicables en la (sic) Estado y las que le asigne el Gobernador del Estado en el ejercicio de sus atribuciones.
 
 ###### ARTÍCULO 22.
 
@@ -389,11 +429,11 @@ I. En materia de administración financiera:
 
 a) Planear, programar, presupuestar y evaluar la actividad financiera del Estado;
 
-> <small>(REFORMADO, B.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
 
-b) Elaborar y presentar al Gobernador del Estado, previo estudio y validación de la Secretaría de la Consejería Jurídica del Estado, los proyectos de iniciativas de Ley de Ingresos y Presupuesto de Egresos, así como las modificaciones a este último, haciéndolos previamente compatibles con la disponibilidad de recursos.
+b) Elaborar y presentar al Gobernador del Estado, previo estudio y validación de la Secretaría General de Gobierno, los proyectos de iniciativas de Ley de Ingresos y Presupuesto de Egresos, así como las modificaciones a éste último, haciéndolos previamente compatibles con la disponibilidad de recursos.
 
-c) Establecer conjuntamente con la Secretaría de Promoción y Desarrollo y Contraloría General del Estado, el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, normando y asesorando a las dependencias y entidades para la ejecución presupuestal de su operación y sus programas específicos de conformidad con la ley de la materia;
+c) Establecer conjuntamente con la Secretaría de Promoción y Desarrollo Económico y la Contraloría General del Estado, el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, normando y asesorando a las dependencias y entidades para la ejecución presupuestal de su operación y sus programas específicos de conformidad con la ley de la materia;
 
 d) Establecer los sistemas que permitan una mayor racionalidad en el aprovechamiento de los recursos financieros;
 
@@ -409,13 +449,13 @@ i) Ejecutar los pagos de acuerdo a los programas y presupuestos aprobados;
 
 j) Ejercer las acciones conducentes para preservar el patrimonio del Estado;
 
-> <small>(REFORMADO, B.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
 
-k) Presentar denuncias o querellas ante el Ministerio Público e intervenir en los juicios y demás medios de defensa que se ventilen ante cualquier tribunal o instancia administrativa, cuando se afecte o se trate de afectar la Hacienda Pública del Estado, en coordinación con la Secretaría de la Consejería Jurídica del Estado.
+k) Presentar denuncias o querellas ante el Ministerio Público e intervenir en los juicios y demás medios de defensa que se ventilen ante cualquier tribunal o instancia administrativa, cuando se afecte o se trate de afectar la Hacienda Pública del Estado, en coordinación con la Secretaría General de Gobierno.
 
-> <small>(REFORMADO, B.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
 
-l) Asesorar al Poder Ejecutivo para celebrar convenios en materia hacendaria, en coordinación con la Secretaría de la Consejería Jurídica del Estado.
+l) Asesorar al Poder Ejecutivo para celebrar convenios en materia hacendaria.
 
 m) Regular y registrar los actos y contratos de su competencia;
 
@@ -457,13 +497,13 @@ e) Elaborar y mantener actualizado el Padrón Estatal de Contribuyentes y llevar
 
 f) Convenir con los contribuyentes el pago de los créditos fiscales insolutos en parcialidades;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
 
-g) Proporcionar la asesoría que en materia de interpretación y aplicación de las leyes tributarias que sea solicitada por las demás dependencias y entidades del Poder Ejecutivo del Estado y por los Municipios, en coordinación con la Secretaría de la Consejería Jurídica del Estado. Así como resolver las consultas que sobre situaciones reales y concretas presenten los particulares; así como realizar una labor permanente de difusión y orientación fiscal.
+g) Proponer la asesoría que en materia de interpretación y aplicación de las leyes tributarias que sea solicitada por las demás dependencias y entidades del Poder Ejecutivo del Estado y por los Municipios; resolver las consultas que sobre situaciones reales y concretas presenten los particulares, así como realizar una labor permanente de difusión y orientación fiscal.
 
-> <small>(REFORMADO, B.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
 
-h) Ejecutar los convenios de coordinación y colaboración administrativa que en materia impositiva se celebren con la federación, los municipios o con otras entidades federativas y vigilar su cumplimiento.
+h) Ejecutar los convenios de coordinación y colaboración administrativas que en materia impositiva se celebren con la federación, los municipios o con otras entidades federativas y vigilar su cumplimiento.
 
 i) Custodiar los documentos que constituyen valores del Estado;
 
@@ -473,9 +513,9 @@ k) Sugerir los criterios y montos de los estímulos fiscales, estudiar y proyect
 
 l) Cuando proceda conforma a las normas vigentes, condonar multas por infracción a las disposiciones fiscales estatales, así como las multas por infracción a las disposiciones fiscales federales cuando esta facultad haya sido delegada al Estado mediante convenio;
 
-> <small>(REFORMADO, B.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
 
-m) Proponer al Gobernador del Estado, previo estudio y validación de la Secretaría de la Consejería Jurídica del Estado, la cancelación de créditos incobrables a favor del Estado, conforme a las leyes fiscales en vigor, informando al Congreso del Estado y a la Contraloría General del Estado.
+m) Proponer al Gobernador del Estado, la cancelación de créditos incobrables a favor del Estado, conforme a las leyes fiscales en vigor, informando al Congreso del Estado y a la Contraloría General del Estado.
 
 III. En materia de deuda pública:
 
@@ -531,9 +571,9 @@ h) Coordinar las funciones de los organismos de la Administración Pública Para
 
 II. En materia de Obra Pública:
 
-> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
 
-a) Establecer, con la participación y validación de la Secretaría de la Consejería Jurídica del Estado, las bases y normas a las que deben sujetarse los concursos para la ejecución de obras que realice el Gobierno del Estado, señalando las adjudicaciones que procedan y vigilar el cumplimiento de los contratos celebrados, de conformidad con la legislación aplicable;
+a) Establecer las bases y normas a las que deben sujetarse los concursos para la ejecución de obras que realice el Gobierno del Estado, señalando las adjudicaciones que procedan y vigilar el cumplimiento de los contratos celebrados, de conformidad con la legislación aplicable;
 
 b) Consultar a las dependencias y entidades correspondientes respecto a la obra pública que se concursa sobre las especificaciones a que deben sujetarse para la ejecución de las mismas;
 
@@ -803,93 +843,7 @@ V. Las demás que le señalen las leyes aplicables en la entidad.
 
 ###### ARTÍCULO 27.
 
-La Secretaría de Seguridad Pública será la autoridad encargada de velar por la protección de los habitantes del Estado, prevenir la comisión de delitos, hacer guardar el orden público, y le competen las siguientes atribuciones:
-
-I. En materia de Seguridad Pública:
-
-a) Conservar el orden, la tranquilidad y la seguridad del Estado;
-
-b) Formular, conducir y evaluar las políticas y programas relativos a la seguridad pública, de conformidad con las leyes y ordenamientos administrativos aplicables;
-
-c) Promover en coordinación con la sociedad, campañas tendientes a la prevención de los delitos;
-
-d) Prestar al Poder Judicial del Estado y demás autoridades de carácter jurisdiccional, el auxilio, cuando lo solicite, para el debido cumplimiento de sus resoluciones;
-
-e) Coordinar dentro del Sistema Estatal de Seguridad Pública, los esfuerzos de los diversos actores sociales para enfrentar los problemas de esta materia;
-
-f) Coordinarse con las autoridades federales y municipales para enfrentar los problemas relativos a la seguridad pública;
-
-g) Establecer y operar el Sistema Estatal de Información de Seguridad Pública;
-
-h) Aplicar las normas, políticas y programas que deriven del Sistema Nacional de Seguridad Pública;
-
-i) En el ámbito de su respectiva competencia, vigilar y coordinar el debido cumplimiento y aplicación de la Ley General que establece las bases de Coordinación del Sistema Nacional de Seguridad Pública y la Ley de Seguridad Pública del Estado;
-
-j) Controlar en coordinación con la Procuraduría General de Justicia del Estado y autoridades municipales, la portación de armas para los servidores públicos de la entidad, de acuerdo a los convenios celebrados con las dependencias federales y de conformidad a la legislación aplicable;
-
-k) Elaborar el Registro Estatal de Servicios Policiales;
-
-l) Controlar y supervisar los servicios de seguridad privada que se presten en el Estado; y (sic)
-
-m) Organizar, capacitar, supervisar y controlar, el cuerpo de las fuerzas de Seguridad Pública Estatal;
-
-n) Coordinarse con las diferentes autoridades dentro del marco del Sistema Estatal de Seguridad Pública, para proponer al Titular del Poder ejecutivo del Estado reformas y adiciones a leyes y decretos relativos a la seguridad pública, que garanticen el bienestar y la confianza de la población;
-
-o) Celebrar con autoridades que conforman el Sistema Estatal de seguridad Pública, convenios que permitan preservar el orden y respeto dentro de la sociedad;
-
-p) Organizar, supervisar, y controlar, previo acuerdo del Gobernador del Estado, la Academia Estatal de Policía;
-
-> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2008)</small>
-
-q) Coordinar, dirigir y supervisar a la Policía Estatal Preventiva;
-
-> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2008)</small>
-
-r) Organizar, controlar y supervisar el Registro Público Vehicular;
-
-> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2008)</small>
-
-s) Proporcionar a la Procuraduría General de Justicia la información que se tenga sobre personas y vehículos que ingresen o abandonen el territorio estatal;
-
-> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2008)</small>
-
-t) Organizar, controlar y supervisar, los Módulos de Identificación de personas y vehículos que se instalen en el territorio estatal, con el fin de identificarlos a la entrada y salida del Estado;
-
-> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2008)</small>
-
-u) Colaborar con los servicios de protección civil, en caso de situaciones de riesgo por disturbios sociales o desastre naturales, previo acuerdo con el Gobernador del Estado.
-
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
-
-v) Coordinar, dirigir y supervisar la operación del Centro Estatal de Control de Confianza.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE JULIO DE 2011)</small>
-
-II. En materia de reinserción Social:
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
-
-a) Diseñar, implementar y avaluar (sic) los programas tendientes a la reinserción social de las personas sujetas a una pena de prisión en los centros de reinserción social estatales;
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
-
-b) Administrar los centros de reinserción social estatales y vigilar que se cumplan las disposiciones legales en la materia;
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
-
-c) Ejercer las funciones que en la materia establezca la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California Sur;
-
-d) Administrar las instituciones de internamiento para menores infractores, así como vigilar el cumplimiento de las disposiciones legales y reglamentarias respectivas; y (sic)
-
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 2008)</small>
-
-e) Administrar, coordinar y supervisar el Centro de Internamiento y Tratamiento Externo para Adolescentes;
-
-> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2008)</small>
-
-f) Coordinar las funciones y programas que implemente el Patronato para la Reincorporación Social.
-
-III. Las demás que le señalen las leyes aplicables en la entidad.
+(DEROGADO, B.O. 10 DE JUNIO DE 2013)
 
 ###### ARTÍCULO 28.
 
@@ -1025,9 +979,9 @@ c) Atender y resolver los asuntos que conforme a la Ley Federal del Trabajo le c
 
 d) Dar seguimiento a los asuntos encomendados a las entidades sectorizadas a la Secretaría, que así lo ameriten;
 
-> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
 
-e) Proponer al Ejecutivo Estatal, previo estudio y aprobación de la Secretaría de la Consejería Jurídica, los proyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones de carácter general sobre asuntos de naturaleza laboral;
+e) Proponer al Ejecutivo Estatal, previo estudio y aprobación de la Secretaría General de Gobierno, los proyectos de Iniciativas de Ley, reglamentos, decretos, acuerdos y demás disposiciones de carácter general sobre asuntos de naturaleza laboral;
 
 f) Dar seguimiento a los convenios y programas coordinados con la Federación en materia laboral;
 
@@ -1095,9 +1049,9 @@ b) Administrar los talleres gráficos del Estado, y coordinar y supervisar con l
 
 c) Revisar en coordinación con las dependencias responsables, el valor de los bienes de su propiedad y el importe de los servicios que presta la Administración Pública Estatal;
 
-> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
 
-d) Fijar las normas, políticas y procedimientos sobre las adquisiciones, almacenes, arrendamientos, conservación, mantenimiento, uso, destino, afectación, enajenación, contratación de servicios y transacciones similares relacionadas a bienes muebles e inmuebles propiedad del Gobierno del Estado, en los términos de la ley de la materia, y en coordinación con la Secretaría de la Consejería Jurídica del Estado.
+d) Fijar las normas, políticas y procedimientos sobre las adquisiciones, almacenes, arrendamientos, conservación, mantenimiento, uso, destino, afectación, enajenación, contratación de servicios y transacciones similares relacionadas a bienes muebles e inmuebles propiedad del Gobierno del Estado, en los términos de la ley de la materia.
 
 e) Integrar y mantener actualizado el Padrón General de Proveedores del Gobierno del Estado de conformidad con las leyes aplicables;
 
@@ -1175,79 +1129,7 @@ l) Integrar, coordinar, supervisar y evaluar a las Contralorías Internas que pe
 
 III. Las demás que le señalen las leyes aplicables en la entidad.
 
-> <small>(ADICIONADO, B.O. 4 DE OCTUBRE DE 2011)</small>
-
-ARTÍCULO 32 BIS.- A la Secretaría de la Consejería Jurídica del Estado le corresponden las atribuciones, facultades y despacho de los asuntos siguientes:
-
-I.- Proporcionar asistencia jurídica al Gobernador del Estado en los actos propios de su investidura que así lo requieran;
-
-II.- Brindar apoyo técnico jurídico al Gobernador del Estado, en la elaboración de sus iniciativas de ley y decretos, así como en los demás instrumentos que éste considere necesarios;
-
-III.- Revisar y validar los proyectos de acuerdos, decretos, normas, reglamentos, iniciativas y demás documentos de carácter jurídico que se remitan al Gobernador del Estado, elaborados por los titulares de las dependencias y entidades de la Administración Pública del Estado;
-
-IV.- Revisar y validar los instrumentos y documentos jurídicos, previo a la firma del Gobernador, relativos a la Administración Pública o por actos jurídicos que celebre el Estado con la intervención del Titular del Ejecutivo;
-
-V.- Opinar sobre los proyectos de convenios a celebrar por el Ejecutivo del Estado con la Federación, con los estados y los municipios, y respecto de otros asuntos relativos a dichas autoridades;
-
-VI.- Establecer criterios de aplicación de normas que sean competencia del Poder Ejecutivo del Estado en los casos que se requiera; así como definir, unificar, sistematizar y difundir los criterios para la interpretación de las disposiciones jurídicas, que normen el funcionamiento de la Administración Pública Estatal; así como unificar los criterios que deban seguir las dependencias y entidades de la Administración Pública Centralizada y Paraestatal;
-
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
-
-VII.- Coordinar las acciones en materia jurídica que se implementen en la Administración Pública Estatal, estableciendo los criterios jurídicos que aplicarán las dependencias y entidades;
-
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
-
-VIII.- Proponer el nombramiento y remoción de los titulares o funcionarios análogos, responsables de las áreas jurídicas de las Dependencias y las Entidades de la Administración Pública Paraestatal, con excepción de la Procuraduría Fiscal, los cuales serán designados conforme a la normatividad que las regula, previa evaluación y opinión del Consejero Jurídico del Estado;
-
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
-
-IX.- Recibir de todas las áreas jurídicas de las dependencias y entidades, informe sucinto cuando así lo requiera el Ejecutivo, que deberán rendir sobre los asuntos que conozcan y de considerarse necesario requerirles la ampliación de los mismos;
-
-X.- Tramitar e integrar los expedientes relativos a la expropiación, ocupación temporal o limitación de dominio, de acuerdo a la Ley de la materia;
-
-XI.- Ser el conducto del Ejecutivo del Estado para prestar apoyo en materia jurídica a los municipios con los que así se acuerde, sin perjuicio de la competencia que corresponda a otras dependencias;
-
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
-
-XII.- Representar legalmente al Poder Ejecutivo del Gobierno del Estado y a sus Titulares, en los procedimientos, controversias, juicios o asuntos litigiosos en los que el Poder Ejecutivo sea parte o tenga interés jurídico, la representación a que se refiere esta fracción, comprende el desahogo de todo tipo de pruebas, la promoción de incidentes, la presentación de recursos, quejas, controversias, o medios de impugnación, y constituye una representación amplísima;
-
-XIII.- Revisar y validar cualquier convenio o contrato mediante el cual se adquieran, enajenen, afecten o destinen bienes inmuebles propiedad del Gobierno del Estado;
-
-XIV.- Revisar y validar las licitaciones, asignaciones de obra pública, concesiones, así como las adquisiciones de bienes o servicios que realicen las Dependencias y Entidades de la Administración Pública Estatal;
-
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
-
-XV.- Proporcionar la asesoría jurídica que en materia de interpretación y aplicación de las diversas disposiciones legales federales y estatales en materia fiscal, tributaria y financiera le sea solicitada por las demás Dependencias y Entidades del Poder Ejecutivo del Estado, por los Municipios y por los particulares, en coordinación con la Procuraduría Fiscal;
-
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
-
-XVI.- Fungir como órgano de consulta obligatoria para los titulares de las Dependencias y Entidades de la Administración Pública, respecto de los procedimientos contenciosos o litigiosos en los que tenga interés jurídico, con excepción de la materia fiscal, pudiendo asumir el patrocinio legal de tales asuntos por orden escrita del Gobernador del Estado.
-
-XVII.- Otorgar mandatos de conformidad al Código Civil del Estado y el Federal, respecto de la representación legal que le confiere la presente ley;
-
-XIX (SIC).- Conocer y substanciar los procedimientos relativos a los recursos administrativos que deba resolver el Gobernador del Estado, dejándolos en estado previo a la resolución y proponerle el proyecto de la misma;
-
-XX.- Encargarse de las funciones del Ejecutivo del Estado, en materia de la función pública del Notariado de conformidad con las leyes de la materia, incluyendo la organización, vigilancia, autorización y sanción de las actividades de los Notarios y Adscritos; así como organizar, dirigir y supervisar el Archivo General de Notarías;
-
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
-
-XXI.- Coordinar, supervisar, controlar y vigilar las acciones correspondientes a la organización, desempeño y funcionamiento de la Defensoría de Oficio;
-
-XXII.- Organizar, controlar y conducir en el Estado lo concerniente al Registro Civil, al Registro Público de la Propiedad y de Comercio; así como el Catastro del Estado, sin menoscabo de las atribuciones que los ayuntamientos tienen en la materia;
-
-XXIII.- Publicar en el Boletín Oficial del Gobierno del Estado, los actos y resoluciones que requieran tal requisito conforme a las Leyes y reglamentos aplicables;
-
-XXIV.- Llevar el control y archivo de los convenios que celebre el Ejecutivo del Estado con la administración Pública Federal, otros estados y los ayuntamientos;
-
-XXV.- Poner a consideración del Gobernador del Estado en materia jurídica, los temas, la problemática y propuesta de solución que considere deban ser atendidos por el Ejecutivo, considerando las propuestas de las dependencias y entidades de la Administración Pública;
-
-XXVI.- Efectuar por conducto del funcionario que establezca la reglamentación interna de la Secretaría de la Consejería, las notificaciones dispuestas en el trámite de los asuntos que conozca en el desempeño de sus funciones, así como las que sean ordenadas por el Gobernador, las que se harán con sujeción a lo dispuesto, en lo conducente, en el Código de Procedimientos Civiles del Estado;
-
-XXVII.- Ordenar, vigilar y coordinar el cumplimiento de las disposiciones en materia de exhortos judiciales;
-
-XXVIII.- Proponer al Ejecutivo, en coordinación con la Secretaría General de Gobierno y de común acuerdo con el Titular de la Dependencia del ramo, la disolución, extinción o liquidación de los órganos públicos descentralizados, en los términos que establece esta Ley; al efecto, la Secretaría de la Consejería Jurídica y la Secretaría de Gobierno deberán coordinarse con la Secretaría de Finanzas, la Contraloría General, y Oficialía Mayor, para atender y resolver los asuntos relacionados con recursos humanos, financieros, presupuestales y materiales, así como el patrimonio público que en su caso, se le hubieren asignado a tal organismo para el desarrollo de sus objetivos; y
-
-XXIX.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad.
+ARTÍCULO 32 BIS.- (DEROGADO, B.O. 10 DE JUNIO DE 2013)
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -1708,3 +1590,19 @@ B.O. 31 DE DICIEMBRE DE 2012.
 Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Se derogan todas disposiciones que se opongan la (sic) presente decreto.
+
+B.O. 10 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- El Ejecutivo del Estado, en un plazo no mayor de cuarenta y cinco días naturales contados a partir del día en que entre en vigor este Decreto, deberá expedir o adecuar el Reglamento Interior de la Secretaría General de Gobierno. En tanto no se verifique lo anterior, la reglamentación interior de las dependencias que se extinguen continuarán vigentes en lo que respecta a la administración, operación, distribución interna de las funciones y en lo que no se oponga al presente Decreto.
+
+Artículo Tercero.- Los recursos humanos, financieros, materiales, y en general todos aquellos equipos y medios que permiten el cumplimiento de las obligaciones, que conforme a las leyes y respectiva reglamentación interna de las Dependencias del Poder Ejecutivo, le fueron asignadas a la Secretaría de Seguridad Pública y Secretaría de la Consejería Jurídica que se extinguen mediante la derogación de los Artículos 27 y 32-BIS, se transferirán, a partir de la entrada en vigor del presente decreto, a la dependencia de la Administración Pública Centralizada denominada Secretaría General de Gobierno.
+
+Para lo anterior, la Secretaría de Finanzas y la Oficialía Mayor de Gobierno deberán llevar a cabo los ajustes y traspasos que sean necesarios para el debido cumplimiento de presente Decreto.
+
+Artículo Cuarto.- Los convenios, actos jurídicos, asuntos pendientes y en trámite de la Secretaría de Seguridad Pública y de la Secretaría de la Consejería Jurídica, así como de las demás áreas o unidades administrativas que las integraban, que a la entrada en vigor del presente Decreto estén vigentes, quedarán a cargo de la Secretaría General de Gobierno.
+
+Artículo Quinto.- Todos los documentos, normatividad, ordenamientos, reglamentos, leyes y otras disposiciones legales y administrativas vigentes, en que se haga alusión a la Secretaría de Seguridad Pública o Secretario de Seguridad Pública, se entenderán referidos a la Secretaría General de Gobierno y a su Titular, a partir de la entrada en vigor del presente Decreto.
+
+Artículo Sexto.- Todos los documentos, normatividad, ordenamientos, reglamentos, leyes y otras disposiciones legales y administrativas vigentes, en que se haga alusión a la Secretaría de la Consejería Jurídica, Dirección General de Asuntos Jurídicos y Estudios Legislativos, así como sus titulares, se entenderán referidos a la Secretaría General de Gobierno y a su Titular, a partir de la entrada en vigor del presente Decreto.
