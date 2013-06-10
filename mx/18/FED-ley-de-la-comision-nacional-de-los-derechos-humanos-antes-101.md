@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-los-derechos-humanos-antes-101"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-29"
-last_updated: "2013-04-23"
+last_updated: "2013-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-25"
 
 LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JUNIO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de junio de 1992.
 
@@ -121,7 +121,13 @@ X.- Expedir su Reglamento Interno;
 
 XI.- Elaborar y ejecutar programas preventivos en materia de derechos humanos;
 
-XII.- Supervisar el respeto a los derechos humanos en el sistema penitenciario y de readaptación social del país;
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2013)</small>
+
+XII.- Supervisar el respeto a los derechos humanos en el sistema de reinserción social del país mediante la elaboración de un diagnóstico anual sobre la situación que éstos guarden.
+
+En dicho diagnóstico deberán incluirse, además de las evaluaciones que la Comisión pondere, datos estadísticos sobre el número, las causas y efectos de los homicidios, así como de las riñas, motines, desórdenes, abusos y quejas documentadas que sucedan en las prisiones, centros de detención y retención federales y locales.
+
+El diagnóstico se hará del conocimiento de las dependencias federales y locales competentes en la materia para que éstas elaboren, considerando las opiniones de la Comisión, las políticas públicas tendientes a garantizar el respeto de los derechos humanos de los internos;
 
 XIII.- Formular programas y proponer acciones en coordinación con las dependencias competentes que impulsen el cumplimiento dentro del territorio nacional de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos;
 
@@ -387,9 +393,11 @@ Las organizaciones no gubernamentales legalmente constituidas podrán acudir ant
 
 La queja sólo podrá presentarse dentro del plazo de un año, a partir de que se hubiera iniciado la ejecución de los hechos que se estimen violatorios, o de que el quejoso hubiese tenido conocimiento de los mismos. En casos excepcionales, y tratándose de infracciones graves a los derechos humanos, la Comisión Nacional podrá ampliar dicho plazo mediante una resolución razonada. No contará plazo alguno cuando se trate de hechos que por su gravedad puedan ser considerados violaciones de lesa humanidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 27.
 
-La instancia respectiva deberá presentarse por escrito; en casos urgentes podrá formularse por cualquier medio de comunicación electrónica. No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los tres días siguientes a su presentación, si el quejoso no se identifica y la suscribe en un primer momento.
+La instancia respectiva deberá presentarse de forma oral, por escrito o por lenguaje de señas mexicanas y podrá formularse por cualquier medio de comunicación eléctrica, electrónica o telefónica y a través de mecanismos accesibles para personas con discapacidad. No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los tres días siguientes a su presentación, si el quejoso no se identifica y la suscribe en un primer momento.
 
 Cuando los quejosos o denunciantes se encuentren recluidos en un centro de detención o reclusorio, sus escritos deberán ser trasmitidos a la Comisión Nacional sin demora alguna por los encargados de dichos centros o reclusorios o aquéllos podrán entregarse directamente a los Visitadores Generales o adjuntos.
 
@@ -766,3 +774,15 @@ D.O.F. 15 DE JUNIO DE 2012.
 D.O.F. 23 DE ABRIL DE 2013.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE JUNIO DE 2013.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 6o DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE JUNIO DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 27 DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
