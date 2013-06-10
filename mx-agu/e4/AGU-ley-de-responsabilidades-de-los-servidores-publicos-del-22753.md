@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2013-05-20"
+last_updated: "2013-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -141,9 +141,11 @@ Los procedimientos para la aplicación de las sanciones a que se refiere esta Le
 
 ### CAPITULO I. Sujetos, Causas y Sanciones del Juicio Político
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 11.
 
-Podrán ser sujetos de Juicio Político: el Titular del Poder Ejecutivo del Estado; los Diputados de la Legislatura Local; los Magistrados del Poder Judicial del Estado; los Secretarios de Despacho del Poder Ejecutivo; el Procurador General de Justicia; los Regidores y los Síndicos de los Ayuntamientos.
+Podrán ser sujetos de Juicio Político: el Gobernador, los Diputados a la Legislatura local, los Magistrados del Poder Judicial, los miembros del Consejo de la Judicatura del Poder Judicial, los Titulares de las Dependencias del Poder Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes, los titulares de los organismos públicos descentralizados, los titulares de los organismos autónomos y los directores generales de las empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
 
 ###### ARTICULO 12.
 
@@ -1274,3 +1276,9 @@ El Congreso del Estado preverá una partida especial para solventar las erogacio
 ###### ARTÍCULO OCTAVO.
 
 A partir del inicio de vigencia del presente Decreto, toda referencia a la Legislación Penal para el Estado de Aguascalientes que se realice en otras leyes se entenderá hecha al Código Penal para el Estado de Aguascalientes o al Código de Procedimientos Penales para el Estado de Aguascalientes, según corresponda.
+
+P.O. 10 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
