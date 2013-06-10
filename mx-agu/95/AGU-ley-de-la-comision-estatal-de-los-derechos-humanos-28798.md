@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-estatal-de-los-derechos-humanos-28798"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-10"
-last_updated: "2012-04-09"
+last_updated: "2013-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 10 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 9 DE ABRIL DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de febrero de 2003.
 
@@ -1004,3 +1004,39 @@ P.O. 5 DE MARZO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga la Ley de la Comisión Estatal de los Derechos Humanos contenida en el Decreto número 46 publicado en el Periódico Oficial del Estado el 10 de febrero del 2003 y se deroga toda disposición contraria al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión deberá ajustar sus disposiciones reglamentarias en un plazo no mayor a un año contado a partir de la publicación del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Contralor Interno deberá ser designado a más tardar el 31 de enero del 2014.
+
+###### ARTÍCULO QUINTO.
+
+La Junta deberá instalarse a más tardar el 31 de agosto del 2013.
+
+El primer reporte trimestral deberá entregarse a la Junta durante la segunda quincena de octubre del 2013.
+
+La primera evaluación semestral deberá aplicarse en el mes de agosto del 2014.
+
+La primera evaluación anual deberá aplicarse en el mes de noviembre del 2014.
+
+###### ARTÍCULO SEXTO.
+
+El primer informe anual que se rinda en términos del presente Decreto ante el Congreso del Estado deberá presentarse en el mes de diciembre del 2013, salvo lo relacionado con las evaluaciones del servicio profesional cuya información se integrará hasta el informe anual que se presente en el mes de diciembre del 2014.
+
+###### ARTÍCULO SÉPTIMO.
+
+Al personal de base que actualmente labora en la Comisión, se le respetarán íntegramente los derechos que hayan adquirido.
