@@ -4,7 +4,7 @@ identifier: "LFDA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-24"
-last_updated: "2012-01-27"
+last_updated: "2013-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFDA"
 
 LEY FEDERAL DEL DERECHO DE AUTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JUNIO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de diciembre de 1996.
 
@@ -1658,7 +1658,11 @@ V. Promover la cooperación internacional y el intercambio con instituciones enc
 
 El Instituto tiene facultades para:
 
-I. Realizar investigaciones respecto de presuntas infracciones administrativas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2013)</small>
+
+I. Realizar investigaciones respecto de presuntas infracciones administrativas, llevar a cabo visitas de inspección y requerir informes y datos;
 
 II. Solicitar a las autoridades competentes la práctica de visitas de inspección;
 
@@ -1689,6 +1693,12 @@ Si hay oposición, el Instituto hará un segundo análisis y propondrá la tarif
 Los Tribunales Federales conocerán de las controversias que se susciten con motivo de la aplicación de esta Ley, pero cuando dichas controversias sólo afecten intereses particulares, podrán conocer de ellas, a elección del actor, los tribunales de los Estados y del Distrito Federal.
 
 Las acciones civiles que se ejerciten se fundarán, tramitarán y resolverán conforme a lo establecido en esta Ley y en sus reglamentos, siendo supletorio el Código Federal de Procedimientos Civiles ante Tribunales Federales y la legislación común ante los Tribunales del orden común.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE JUNIO DE 2013)</small>
+
+Para el ejercicio de las acciones derivadas de la presente Ley y su Reglamento no será necesario agotar ningún procedimiento ni acción previa como condición para el ejercicio de dichas acciones.
 
 ###### Artículo 214.
 
@@ -1728,7 +1738,11 @@ I. Se iniciará con la queja, que por escrito presente ante el Instituto quien s
 
 II. Con la queja y sus anexos se dará vista a la parte en contra de la que se interpone, para que la conteste dentro de los diez días siguientes a la notificación;
 
-III. Se citará a las partes a una junta de avenencia, apercibiéndolas que de no asistir se les impondrá una multa de cien veces el salario mínimo general diario vigente en el Distrito Federal. Dicha junta se llevará a cabo dentro de los veinte días siguientes a la presentación de la queja;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2013)</small>
+
+III. Se citará a las partes a una junta de avenencia, apercibiéndolas que de no asistir, se les impondrá una multa de cien a ciento cincuenta días de salario mínimo general vigente en el Distrito Federal. Dicha junta se llevará a cabo dentro de los veinte días siguientes a la presentación de la queja;
 
 IV. En la junta respectiva el Instituto tratará de avenir a las partes para que lleguen a un arreglo. De aceptarlo ambas partes, la junta de avenencia puede diferirse las veces que sean necesarias a fin de lograr la conciliación. El convenio firmado por las partes y el Instituto tendrá el carácter de cosa juzgada y título ejecutivo;
 
@@ -1916,9 +1930,13 @@ El Instituto Mexicano de la Propiedad Industrial podrá adoptar las medidas prec
 
 Para tal efecto, el Instituto Mexicano de la Propiedad Industrial, tendrá las facultades de realizar investigaciones; ordenar y practicar visitas de inspección; requerir información y datos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 235.
 
-En relación con las infracciones en materia de comercio, el Instituto Mexicano de la Propiedad Industrial queda facultado para emitir una resolución de suspensión de la libre circulación de mercancías de procedencia extranjera en frontera, en los términos de lo dispuesto por la Ley Aduanera.
+Los Tribunales Federales en cualquier caso y el Instituto Mexicano de la Propiedad Industrial, tratándose de infracciones en materia de comercio, quedan facultados para emitir una resolución de suspensión de la libre circulación de mercancías de procedencia extranjera en frontera, en los términos de lo dispuesto por la Ley Aduanera.
 
 ###### Artículo 236.
 
@@ -1993,3 +2011,9 @@ Tercero.- El Reglamento de la Ley Federal del Derecho de Autor publicado en el D
 D.O.F. 27 DE ENERO DE 2012.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE JUNIO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las controversias que se encuentren en trámite ante el Instituto Mexicano de la Propiedad Industrial y/o ante el Instituto Nacional del Derecho de Autor al momento de la entrada en vigor de este Decreto, continuarán hasta su conclusión conforme a los ordenamientos en vigor existentes al momento de su inicio.
