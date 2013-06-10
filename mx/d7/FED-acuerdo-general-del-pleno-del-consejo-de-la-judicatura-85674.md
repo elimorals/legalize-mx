@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-85674"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-03"
-last_updated: "2013-04-09"
+last_updated: "2013-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-01-26"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JUNIO DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2012.
 
@@ -3131,11 +3131,11 @@ Cualquier consulta o situación no prevista suscitada con motivo de la aplicaci�
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+> <small>(REFORMADO POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 187.
 
-Se crea el Registro a que se refiere el artículo 619 del Código Federal de Procedimientos Civiles, que tiene como finalidad la inscripción de las asociaciones civiles previstas en el diverso numeral 585, fracción II, del propio código federal adjetivo, esto es, de las colectividades conformadas por al menos treinta miembros cuya matrícula corresponde al Consejo.
+El Registro a que se refiere el artículo 619 del Código Federal de Procedimientos Civiles, tiene como finalidad la inscripción de las asociaciones civiles previstas en el diverso numeral 585, fracción III, del mismo ordenamiento.
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
@@ -3237,13 +3237,17 @@ El Secretario Ejecutivo del Pleno y el Coordinador de Administración Regional d
 
 #### Sección Primera. Disposiciones Generales
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 194.
 
-Las asociaciones civiles que podrán solicitar su inscripción en el Registro son aquellas colectividades que estén conformadas por al menos treinta miembros.
+Las asociaciones civiles que podrán solicitar su inscripción en el Registro son aquellas sin fines de lucro, legalmente constituidas, cuyo objeto social incluya la promoción o defensa de los derechos e intereses en materia de relaciones de consumo de bienes o servicios, públicos o privados y medio ambiente, independientemente del número de sus miembros, que tengan al menos un año de haberse constituido y que acrediten haber realizado actividades inherentes al cumplimiento de su objeto social.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
 Las asociaciones registradas deberán informar al Consejo las modificaciones que sufra la información a que se refiere el artículo 189, fracciones II a V de este Acuerdo, dentro de los diez días hábiles siguientes a que se haya realizado.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
 
 Las asociaciones civiles podrán solicitar en cualquier momento la cancelación de su inscripción en el Registro.
 
@@ -3271,11 +3275,9 @@ Presentada la solicitud en los lugares a que se refiere el primer párrafo de es
 
 En el supuesto de que la solicitud sea presentada a través de la página electrónica del Consejo, la asociación civil deberá remitir, mediante correo certificado la solicitud a que se refiere la fracción I del primer párrafo de este artículo, así como copias certificadas ante notario público del resto de la documentación a que aluden las fracciones II a VI del citado párrafo de este artículo, indicando el número de trámite, o presentarla en original y copia para cotejo en el Edificio Sede de Consejo, en la Administración Regional o en la Delegación Administrativa que corresponda, dentro de los tres días hábiles siguientes al de la presentación de la solicitud. En este último caso se observará lo previsto en el párrafo anterior.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2012)</small>
-
 ###### Artículo 196.
 
-Después del primer año de entrada en vigor del Decreto por el que se reforman y adicionan el Código Federal de Procedimientos Civiles, el Código Civil Federal, la Ley Federal de Competencia Económica, la Ley Federal de Protección al Consumidor, la Ley Orgánica del Poder Judicial de la Federación, la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección y Defensa al Usuario de Servicios Financieros, publicado en el Diario Oficial de la Federación el 30 de agosto de 2011, además de los requisitos en el artículo anterior, las asociaciones civiles deberán acreditar tener al menos un año de haberse constituido y haber realizado actividades inherentes al cumplimiento de su objeto social.
+(DEROGADO POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 10 DE JUNIO DE 2013)
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE MAYO DE 2012)</small>
 
@@ -3357,7 +3359,9 @@ II. Dedicarse a actividades compatibles con su objeto social;
 
 III. Conducirse con diligencia, probidad y en estricto apego a las disposiciones legales aplicables;
 
-IV. Entregar en las oficinas del Edificio Sede del Consejo, bajo protesta de decir verdad, el acta de asamblea de la asociación civil, debidamente protocolizada en la que conste el informe anual sobre su operación y actividades respecto del año inmediato anterior, a más tardar el último día hábil del mes de abril de cada año, mediante correo certificado o personalmente; y
+> <small>(REFORMADA POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 10 DE JUNIO DE 2013)</small>
+
+IV. Entregar en las oficinas del Edificio Sede del Consejo, bajo protesta de decir verdad, el informe anual sobre su operación y actividades respecto del año inmediato anterior, a más tardar el último día hábil del mes de abril de cada año, mediante correo certificado o personalmente; y
 
 V. Mantener actualizada en forma permanente la información que deba entregar al Consejo, en términos de lo dispuesto en este Acuerdo.
 
@@ -3600,3 +3604,11 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así c
 TERCERO. Se abroga cualquier disposición emitida con anterioridad que se oponga a lo señalado en el presente acuerdo.
 
 CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, a los Acuerdos Generales correspondientes, conforme al texto que se reforma, adiciona o deroga en su caso particular.
+
+D.O.F. 10 DE JUNIO DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar inmediatamente el texto de este Acuerdo al diverso Acuerdo General que reglamenta la organización y funcionamiento del propio Consejo.
