@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-por-el-que-se-expiden-las-normas-que-establecen-las-945
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-11-26"
-last_updated: "2012-12-03"
+last_updated: "2013-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94539&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2012-11-23"
 
 ACUERDO POR EL QUE SE EXPIDEN LAS NORMAS QUE ESTABLECEN LAS ESPECIFICACIONES DEL ARCHIVO ELECTRÓNICO EN QUE CONSTARÁN LOS INSTRUMENTOS NOTARIALES PARA SU DEPÓSITO EN EL ARCHIVO GENERAL DE NOTARÍAS
 
-TEXTO ORIGINAL.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 3 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JUNIO DE 2013.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el lunes 26 de noviembre de 2012.
 
@@ -104,27 +102,13 @@ B) Módulo de la Autoridad Competente, el cual permitirá al titular del Archivo
 
 C) Módulo de estadísticas y reportes para toma de decisiones.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO</small>
-
-Artículo Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
-
-> <small>(F. DE E., G.O. 3 DE DICIEMBRE DE 2012)</small>
-
-Artículo Segundo.- El Archivo General de Notarías recibirá los archivos electrónicos a que se refiere la Norma Primera del presente Acuerdo, que correspondan a las decenas de libros que se inicien a partir de los 120 días hábiles siguientes a la fecha de inicio de vigencia del mismo.
-
-Artículo Tercero.- El sistema informático a que se refiere el presente Acuerdo se implementará a más tardar el cuarto año contado a partir de la entrada en vigor del mismo, y a partir de esa fecha y hasta antes de la fecha de entrega-recepción electrónica, operará en fase de prueba.
-
-Artículo Cuarto.- La autoridad competente emitirá los lineamientos para la adecuada operación del sistema a que se refiere este Acuerdo, en los cuales se definirán de manera diferenciada, la intervención y privilegios de acceso de los servidores públicos involucrados, los cuales también se contendrán en los manuales de procedimientos respectivos, a más tardar en la fecha de inicio de la fase de prueba.
-
-Artículo Quinto.- Publíquese en la Gaceta Oficial del Distrito Federal.
-
-Dado en la Ciudad de México a los veintitrés días del mes de noviembre de dos mil doce. (Firma)
-
 ## Transitorios
 
 Artículo Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
-Artículo Segundo.- El Archivo General de Notarías recibirá los archivos electrónicos a que se refiere la Norma Primera del presente Acuerdo, que correspondan a las decenas de libros que se inicien a partir de los 45 días hábiles siguientes a la fecha de inicio de vigencia del mismo.
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2013)</small>
+
+Artículo Segundo.- El Archivo General de Notarías recibirá los archivos electrónicos a que se refiere la Norma Primera del presente Acuerdo, que correspondan a las decenas de libros que se inicien a partir del día 11 de junio de 2014.
 
 Artículo Tercero.- El sistema informático a que se refiere el presente Acuerdo se implementará a más tardar el cuarto año contado a partir de la entrada en vigor del mismo, y a partir de esa fecha y hasta antes de la fecha de entrega-recepción electrónica, operará en fase de prueba.
 
@@ -133,3 +117,7 @@ Artículo Cuarto.- La autoridad competente emitirá los lineamientos para la ade
 Artículo Quinto.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Dado en la Ciudad de México a los veintitrés días del mes de noviembre de dos mil doce. (Firma)
+
+G.O. 10 DE JUNIO DE 2013.
+
+ÚNICO.- Publíquese este Acuerdo en la Gaceta Oficial del Distrito Federal.
