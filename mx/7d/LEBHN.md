@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2012-01-17"
+last_updated: "2013-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JUNIO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -294,11 +294,11 @@ Aniversario del nacimiento de Francisco I. Madero, en 1873
 
 1o. de noviembre: (DEROGADO, D.O.F. 9 DE MAYO DE 1995)
 
-> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2013)</small>
 
 6 de noviembre:
 
-Conmemoración de la promulgación del Acta de la Independencia Nacional por el Congreso de Chilpancingo, en 1813.
+Conmemoración de la promulgación del Acta Solemne de la Declaratoria de Independencia de la América Septentrional por el Primer Congreso de Anáhuac sancionada en el Palacio de Chilpancingo, en 1813.
 
 > <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2007)</small>
 
@@ -813,3 +813,7 @@ D.O.F. 20 DE DICIEMBRE DE 2011.
 D.O.F. 17 DE ENERO DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE JUNIO DE 2013.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
