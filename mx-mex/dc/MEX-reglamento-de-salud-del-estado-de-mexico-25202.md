@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-salud-del-estado-de-mexico-25202"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-13"
-last_updated: "2013-03-12"
+last_updated: "2013-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE SALUD DEL ESTADO DE MEXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2013.
 
 Reglamento publicado en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el miércoles 13 de marzo de 2002.
 
@@ -43,9 +43,11 @@ REGLAMENTO DE SALUD DEL ESTADO DE MEXICO
 
 Este Reglamento es de orden público e interés social y tiene por objeto proveer, en la esfera administrativa, el cumplimiento del Libro Segundo del Código Administrativo del Estado de México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 2.
 
-Para los efectos de este Reglamento se entenderá por:
+Para los efectos de este reglamento se entenderá por:
 
 I. Libro, al Libro Segundo del Código Administrativo del Estado de México.
 
@@ -55,81 +57,117 @@ III. Secretaría, a la Secretaría de Salud del Estado de México.
 
 IV. Instituto, al Instituto de Salud del Estado de México.
 
-V. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE JUNIO DE 2013)</small>
 
-VI. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+V. "COPRISEM": a la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, órgano desconcentrado de la Secretaría de Salud.
 
-VII. Atención médica, el conjunto de servicios que se proporcionan al individuo con el fin de proteger, promover y restaurar su salud.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE JUNIO DE 2013)</small>
 
-VIII. Autorización sanitaria, el acto administrativo mediante el cual la Autoridad Sanitaria del Estado permite a una persona física o moral, pública o privada, la realización de actividades relacionadas con la salud humana.
+VI. Atención Médica: al conjunto de servicios que se proporcionan al individuo con el fin de proteger, promover y restaurar la salud.
 
-IX. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2013)</small>
 
-X. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+VII. Autorización sanitaria: al acto administrativo mediante el cual la Autoridad Sanitaria del Estado permite a una persona física o moral, pública o privada, la realización de actividades relacionadas con la salud humana.
 
-XI. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2013)</small>
 
-XII. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+VIII. Certificado: la constancia expedida en los términos que establezca la Autoridad Sanitaria del Estado para la comprobación o información de determinados hechos.
 
-XIII. Certificado, la constancia expedida en los términos que establezcan las Autoridades Sanitarias del Estado para la comprobación o información de determinados hechos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE JUNIO DE 2013)</small>
 
-XIV. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+IX. Control sanitario: el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones que ejerce la "COPRISEM".
 
-XV. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE JUNIO DE 2013)</small>
 
-XVI. Control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones que ejerce el Instituto.
+X. Establecimientos: los locales y sus instalaciones, dependencias y anexos, estén cubiertos o descubiertos, sean fijos o móviles, en los que se desarrolla el proceso de productos o las actividades y servicios a que se refiere este ordenamiento.
 
-XVII. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE JUNIO DE 2013)</small>
 
-XVIII. Establecimientos, los locales y sus instalaciones, dependencias y anexos, estén cubiertos o descubiertos, sean fijos o móviles, en los que se desarrolla el proceso de productos o las actividades y servicios a que se refiere este ordenamiento.
+XI. Funeraria: el establecimiento destinado a la prestación del servicio de velación, traslado o inhumación de cadáveres de seres humanos.
 
-XIX. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE JUNIO DE 2013)</small>
 
-XX. Funeraria, el establecimiento destinado a la prestación del servicio velación, traslado o inhumación de cadáveres de seres humanos.
+XII. Granja avícola: el establecimiento dedicado a la cría y reproducción de aves destinadas a la alimentación humana.
 
-XXI, Granja avícola, el establecimiento dedicado a la cría y reproducción de aves destinadas a la alimentación humana.
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2013)</small>
 
-XXII. Granja porcícola, el establecimiento dedicado a la cría, reproducción, mejoramiento y explotación de cerdos.
+XIII. Granja Porcícola: el establecimiento dedicado a la cría, reproducción, mejoramiento y explotación de cerdos.
 
-XXIII. (DEROGADA, G.G. 31 DE ENERO DE 2005) (F. DE E., G.G. 24 DE MARZO DE 2005)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE JUNIO DE 2013)</small>
 
-XXIV. Medidas de seguridad, aquellas disposiciones de inmediata ejecución que dicte el Instituto de conformidad con los preceptos del libro de salud y demás disposiciones aplicables, para proteger la salud de la población.
+XIV. Medidas de seguridad: aquellas disposiciones de inmediata ejecución que dicte la "COPRISEM" de conformidad con los preceptos del libro de salud y demás disposiciones aplicables, para proteger la salud de la población.
 
-XXV. Norma técnica estatal, el conjunto de reglas científicas y tecnológicas de carácter obligatorio, emitidas por la entidad administrativa correspondiente, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades relacionadas con la salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE JUNIO DE 2013)</small>
 
-XXVI. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+XV. Norma técnica estatal: el conjunto de reglas científicas y tecnológicas de carácter obligatorio, emitidas por la entidad administrativa correspondiente, que establezcan los requisitos que deban satisfacerse en el desarrollo de actividades relacionadas con la salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
 
-XXVII. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2013)</small>
 
-XXVIII. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+XVI. Regulación sanitaria: el conjunto de disposiciones legales que fundamentan las acciones de control sanitario.
 
-XXIX. Regulación sanitaria, el conjunto de disposiciones legales que fundamentan las acciones de control sanitario.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE JUNIO DE 2013)</small>
 
-XXX. Servicios personales, los que se prestan al público en sus personas, tales como rasurar, teñir, peinar o realizar cualquier actividad similar con el cabello de las personas, el arreglo estético de uñas, de manos y pies o a la aplicación al publico de tratamientos de belleza en general, así como procedimientos en su ropa, tales como lavado, planchado o tintorerías.
+XVII. Servicios personales: los que se prestan al público en sus personas, tales como rasurar, teñir, peinar o realizar cualquier actividad similar con el cabello de las personas, el arreglo estético de uñas, de manos y pies o a la aplicación al público de tratamientos de belleza en general, así como procedimientos en su ropa, tales como lavado, planchado o tintorerías.
 
-XXXI. Servicios de salud, todas aquellas acciones realizadas en beneficio del individuo y de la población del Estado, dirigidas a proteger, promover y restaurar la salud de la persona y de la colectividad.
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2013)</small>
 
-XXXII. Servicios de salud privados, los que presten personas físicas o morales en las condiciones que convengan y sujetas a los ordenamientos legales, civiles y mercantiles.
+XVIII. Servicios de salud: todas aquellas acciones realizadas en beneficio del individuo y de la población del Estado, dirigidas a proteger, promover y restaurar la salud de la persona y de la colectividad.
 
-XXXIII Servicios públicos a la población en general, los que se presten en establecimientos públicos de salud a los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de cuotas de recuperación fundadas en las condiciones socioeconómicas de los usuarios.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE JUNIO DE 2013)</small>
 
-XXXIV. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+XIX. Servicios de salud privados: los que presten personas físicas o morales en las condiciones que convengan y sujetas a los ordenamientos legales, civiles y mercantiles.
 
-XXXV. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2013)</small>
 
-XXXVI. Usuario de servicios de salud, toda persona que requiera y obtenga los que presten los sectores público, social y privado en las condiciones y conforme a las bases que para cada modalidad se establezcan en este Libro y demás disposiciones aplicables.
+XX. Servicios públicos a la población en general: los que se presten en establecimientos públicos de salud a los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de cuotas de recuperación fundadas en las condiciones socioeconómicas de los usuarios.
 
-XXXVII. (DEROGADA, G.G. 31 DE ENERO DE 2005)
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2013)</small>
+
+XXI. Usuario de servicios de salud: toda persona que requiera y obtenga los que presten los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en este Reglamento y demás disposiciones aplicables.
+
+XXII. (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXIII. (DEROGADA, G.G. 31 DE ENERO DE 2005) (F. DE E., G.G. 24 DE MARZO DE 2005) (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXIV. (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXV. (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXVI. (DEROGADA, G.G. 31 DE ENERO DE 2005) (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXVII. (DEROGADA, G.G. 31 DE ENERO DE 2005) (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXVIII. (DEROGADA, G.G. 31 DE ENERO DE 2005) (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXIX. (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXX. (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXXI. (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXXII. (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXXIII. (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXXIV. (DEROGADA, G.G. 31 DE ENERO DE 2005) (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXXV. (DEROGADA, G.G. 31 DE ENERO DE 2005) (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXXVI. (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+
+XXXVII. (DEROGADA, G.G. 31 DE ENERO DE 2005) (DEROGADA, G.G. 10 DE JUNIO DE 2013)
 
 ###### Artículo 3.
 
 La aplicación de este reglamento compete a la Secretaría y al Instituto.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 4.
 
-Las relaciones de trabajo entre el Instituto y sus trabajadores, se regirán por el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y estarán incorporados al régimen de seguridad social del Instituto de Seguridad y Servicios Sociales para los Trabajadores al Servicio del Estado, en los términos de los convenios respectivos.
+Las relaciones de trabajo entre el Instituto y sus trabajadores y en su caso, entre la "COPRISEM" y los trabajadores que le sean comisionados por el Instituto de Salud del Estado de México, se regirán por el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y estarán incorporados al régimen de seguridad social del Instituto de Seguridad y Servicios Sociales para los Trabajadores al Servicio del Estado, en los términos de los convenios respectivos.
 
-El Instituto aplicará y respetará las Condiciones Generales de Trabajo de la Secretaría de Salud del Gobierno Federal, así como los Reglamentos de Escalafón y Capacitación para controlar y estimular al personal de base de la propia Secretaría por su asistencia, puntualidad y permanencia en el trabajo; para evaluar y estimular al personal de la dependencia federal por su productividad en el trabajo y el de becas, así como el Reglamento y Manual de Seguridad e Higiene, elaborados conforme a la normatividad federal aplicable en sus relaciones laborales con los trabajadores provenientes de la Secretaría de Salud Federal, para que procedan a su registro ante los organismos jurisdiccionales correspondientes, con el propósito de que se apliquen en las controversias que se deriman (sic) por la autoridad jurisdiccional.
+La "COPRISEM" y el Instituto, en su caso, aplicarán y respetarán las condiciones generales de trabajo de la Secretaría de Salud del Gobierno Federal, así como los reglamentos de escalafón y capacitación para controlar y estimular al personal de base de la propia Secretaría, por su asistencia, puntualidad y permanencia en el trabajo, para evaluar y estimular al personal de la dependencia federal por su productividad en el trabajo y el de becas, así como el Reglamento y Manual de Seguridad e Higiene, elaborados conforme a la normatividad federal aplicable en sus relaciones laborales con los trabajadores provenientes de la Secretaría de Salud Federal, para que procedan a su registro ante los organismos jurisdiccionales correspondientes, con el propósito de que se apliquen en las controversias que se diriman por la autoridad jurisdiccional.
 
 ###### Artículo 5.
 
@@ -141,9 +179,11 @@ El Instituto aplicará y respetará las Condiciones Generales de Trabajo de la S
 
 El cargo de integrante del Consejo será honorífico, a excepción del secretario técnico cuya remuneración será fijada por su propio presidente.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 7.
 
-A las sesiones del Consejo asistirán el Coordinador de Administración y Finanzas, el Coordinador de Salud y Regulación Sanitaria y el Jefe de la Unidad de Asuntos Jurídicos del Instituto, con el propósito de emitir opiniones sobre los asuntos que se le presenten y apoyar las acciones que el propio Consejo determine.
+A las sesiones del Consejo asistirán el Coordinador de Administración y Finanzas, el Coordinador de Salud y el Jefe de la Unidad de Asuntos Jurídicos del Instituto, con el propósito de emitir opiniones sobre los asuntos que se le presenten y apoyar las acciones que el propio Consejo determine.
 
 > <small>(REFORMADO, G.G. 15 DE ABRIL DE 2008)</small>
 
@@ -385,9 +425,11 @@ El Instituto apoyará y fomentará el funcionamiento de establecimientos públic
 
 En los establecimientos en los que se realicen investigaciones en seres humanos, deberá observarse la normatividad en la materia.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 45.
 
-El Instituto vigilará que en las instituciones y establecimientos de salud, así como en las instituciones educativas de nivel superior relacionadas con la salud, se integren comisiones de investigación, ética y bioseguridad, de conformidad con la normatividad sanitaria en la materia.
+La "COPRISEM" vigilará que en las instituciones y establecimientos de salud, así como en las instituciones educativas de nivel superior relacionadas con la salud, se integren comisiones de investigación, ética y bioseguridad, de conformidad con la normatividad sanitaria en la materia.
 
 ###### Artículo 46.
 
@@ -417,13 +459,17 @@ El Instituto, formulará y desarrollará programas de nutrición, promoviendo pa
 
 ### CAPITULO IX. DE LA PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 52.
 
-Las autoridades sanitarias del Estado, en el ámbito de sus respectivas competencias, tomarán las medidas de seguridad sanitaria y realizarán las acciones a que se refiere este Reglamento, para proteger la salud humana de los riesgos y efectos del ambiente.
+La autoridad sanitaria del Estado tomará las medidas de seguridad sanitaria y realizarán las acciones a que se refiere este Reglamento, para proteger la salud humana de los riesgos y efectos del ambiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 53.
 
-Corresponde al Instituto en materia de prevención y control de enfermedades y accidentes:
+Corresponde a la "COPRISEM" en materia de prevención y control de enfermedades y accidentes:
 
 I. Investigar en forma permanente y sistemática los riesgos y efectos que para la salud de la población origine la contaminación del ambiente.
 
@@ -443,9 +489,11 @@ Las autoridades federales, estatales y municipales cooperarán con las autoridad
 
 Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de un caso de enfermedad transmisible, deberán tomar las medidas necesarias de acuerdo con la naturaleza y características del padecimiento, aplicando los recursos a su alcance para proteger la salud individual y colectiva.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 57.
 
-El Instituto para prevenir y controlar enfermedades que pongan en peligro la salud de la población, ante situaciones evidentes de riesgo epidemiológico, podrá ordenar y ejecutar medidas de seguridad sanitaria y, en su caso, acceder al interior de locales, lotes, baldíos o casas habitación para el cumplimiento de actividades encomendadas a su responsabilidad.
+La "COPRISEM" para prevenir y controlar enfermedades que pongan en peligro la salud de la población, ante situaciones evidentes de riesgo epidemiológico, podrán ordenar y ejecutar medidas de seguridad sanitaria y en su caso, acceder al interior de locales, lotes baldíos o casas habitación, para el cumplimiento de actividades encomendadas a su responsabilidad.
 
 ###### Artículo 58.
 
@@ -455,9 +503,11 @@ Las autoridades sanitarias estatales, para atender epidemias y sus efectos, podr
 
 El transporte de enfermos con padecimientos transmisibles deberá efectuarse en vehículos acondicionados conforme a la Norma Oficial Mexicana, y a falta de éstos, podrán utilizarse los que autorice el Instituto.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 60.
 
-Las autoridades sanitarias determinarán los casos en que se deba proceder a la desinfección, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
+La autoridad sanitaria determinará los casos en que se deba proceder a la desinfección, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
 ###### Artículo 61.
 
@@ -499,9 +549,11 @@ I. La prevención y el tratamiento de padecimientos originados por el tabaquismo
 
 II. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos y cerrados.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 66.
 
-El Instituto, para evitar y prevenir el consumo de substancias inhalantes que produzcan efectos psicotrópicos en las personas, desarrollarán las acciones siguientes:
+La Secretaría, para evitar y prevenir el consumo de substancias inhalantes que produzcan efectos psicotrópicos en las personas, desarrollarán las acciones siguientes:
 
 I. Determinará y ejercerá medios de control en el expendio de sustancias inhalantes, para prevenir su consumo por parte de menores de edad, enfermos o deficientes mentales.
 
@@ -519,17 +571,23 @@ Las autoridades municipales para determinar la ubicación y el horario de establ
 
 ### CAPITULO I. DEL CONTROL Y FOMENTO SANITARIOS
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 68.
 
-La participación de la comunidad en los programas de control y fomento sanitarios que establezca el Instituto, tiene por objeto mejorar el nivel de salud de la población y fortalecer la estructura y funcionamiento del Sistema Estatal de Salud.
+La participación de la comunidad en los programas de control y fomento sanitarios que establezca la "COPRISEM" tiene por objeto mejorar el nivel de salud de la población y fortalecer la estructura y funcionamiento del Sistema Estatal de Salud.
+
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 69.
 
-El Instituto en coordinación con los sectores público, social y privado, promoverán la participación de la comunidad, en los programas de vigilancia sanitaria.
+La "COPRISEM" en coordinación con los sectores público, social y privado, promoverán la participación de la comunidad, en los programas de vigilancia sanitaria.
+
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 70.
 
-El Instituto, en coordinación con los sectores público, social y privado, promoverán y, en su caso, llevarán a cabo programas de actualización, capacitación y adiestramiento en las materias de control y fomento sanitarios, que propicien la formación de hábitos y favorezcan mejores condiciones de salud para la población.
+La "COPRISEM" en coordinación con los sectores público, social y privado, promoverá y en su caso, llevarán a cabo programas de actualización, capacitación y adiestramiento en las materias de control y fomento sanitarios que propicien la formación de hábitos y favorezcan mejores condiciones de salud para la población.
 
 ###### Artículo 71.
 
@@ -547,15 +605,17 @@ V. Las autoridades sanitarias correspondientes, efectuarán las diligencias que 
 
 La autoridad sanitaria deberá informar al denunciante de la atención que se le dé a la denuncia.
 
-> <small>(REFORMADO, G.G. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 72.
 
-El Instituto podrá expedir certificados de condiciones y prácticas sanitarias en los rubros que se determine por el Consejo Interno, con validez de un año, a las actividades, establecimientos, vehículos y servicios materia del presente reglamento.
+La "COPRISEM" podrá expedir certificados de condiciones y prácticas sanitarias en los rubros que se determine con la Secretaría, con validez de un año a las actividades, establecimientos, vehículos y servicios materia del presente Reglamento.
+
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2005)</small>
 
 Dichos certificados podrán renovarse de subsistir las condiciones y prácticas sanitarias que dieron origen a su expedición, lo que deberá comprobarse por parte de el Instituto con la verificación respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE ENERO DE 2005)</small>
 
 ###### Artículo 73.
 
@@ -571,21 +631,27 @@ b) Buenas condiciones y prácticas sanitarias.
 
 La expedición de los certificados a que se refiere el artículo anterior tendrá como objetivo propiciar y dar reconocimiento a las mejores condiciones y prácticas sanitarias de las actividades, establecimientos, vehículos y servicios materia del presente Reglamento y promover su difusión e identificación por parte de la población destinataria de los mismos.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 75.
 
-El Instituto, en coordinación con los sectores público, social y privado, promoverán los programas tendientes a cuidar las condiciones y prácticas sanitarias de las actividades, establecimientos, vehículos y servicios objeto del presente Reglamento.
+La "COPRISEM" en coordinación con los sectores público, social y privado promoverán los programas tendientes a cuidar las condiciones y prácticas sanitarias de las actividades, establecimientos, vehículos y servicios objeto del presente Reglamento.
 
 ###### Artículo 76.
 
 Las autoridades en materia de salud, ordenarán las medidas de seguridad sanitaria y realizarán las acciones a que se refiere este Reglamento, tendientes a la protección de la salud humana ante los riesgos y daños provenientes de las condiciones del ambiente.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 77.
 
-El Instituto, en materia de riesgos sanitarios realizará las acciones descritas en el artículo 54 de este Reglamento.
+La "COPRISEM" en materia de riesgos sanitarios realizará las acciones descritas en el artículo 54 de este Reglamento.
+
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 78.
 
-El Instituto, tendrá el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales.
+La "COPRISEM" tendrá el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales.
 
 > <small>(ADICIONADO, G.G. 31 DE ENERO DE 2005)</small>
 
@@ -593,19 +659,21 @@ Artículo 78 bis.- Las infracciones a las disposiciones de este Reglamento y dem
 
 ### CAPITULO II. DE LOS ESTABLECIMIENTOS
 
-> <small>(REFORMADO, G.G. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 79.
 
-Los establecimientos que realicen actividades o presten servicios sujetos a control sanitario, que no requieran autorización sanitaria, deberán presentar aviso de funcionamiento por escrito al Instituto, mediante el formato oficial, dentro de los diez días posteriores al inicio de operaciones y estarán sujetos al cumplimiento de las disposiciones sanitarias y a la obligación prevista en el articulo 107 de este Reglamento.
+Los establecimientos que realicen actividades o presten servicios sujetos a control sanitario que no requieran autorización sanitaria, deberán presentar aviso de funcionamiento por escrito a la "COPRISEM" mediante el formato oficial, dentro de los diez días posteriores al inicio de operaciones y estarán sujetos al cumplimiento de las disposiciones sanitarias y a la obligación prevista en el artículo 107 de este reglamento.
 
 ###### Artículo 80.
 
 Los establecimientos a que se refiere este Reglamento, que hubieran obtenido licencia sanitaria o presentado aviso de inicio de operaciones y pretendan modificar las condiciones sanitarias que sirvieran de base para dicha autorización o aviso, estarán obligados a presentar una nueva solicitud o presentar aviso de modificación de las condiciones de funcionamiento, respectivamente.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 81.
 
-El Instituto, previo a la expedición de la licencia sanitaria, verificará que los establecimientos estén debidamente acondicionados para el uso a que se destinen o pretendan destinar.
+La "COPRISEM" previo a la expedición de la licencia sanitaria, verificará que los establecimientos estén debidamente acondicionados para el uso a que se destinen o pretendan destinar.
 
 ###### Artículo 82.
 
@@ -619,7 +687,9 @@ Los propietarios de los establecimientos en los que se realicen actividades que 
 
 Los propietarios de los establecimientos deberán adoptar las medidas sobre control de fauna nociva que se determinen en las normas aplicables.
 
-Los establecimientos que requieran servicios de fumigación, desinfección y control de plagas, deberán solicitar que el proveedor cuente con la licencia sanitaria expedida por el Instituto.
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
+Los establecimientos que requieran servicios de fumigación, desinfección y control de plagas, deberán solicitar que el proveedor cuente con la licencia sanitaria expedida por la "COPRISEM".
 
 ###### Artículo 85.
 
@@ -655,7 +725,9 @@ g) Vestidores con un casillero para cada trabajador.
 
 Los establecimientos destinados a granjas deberán cumplir para su funcionamiento, con:
 
-I. Planos aprobados por el Instituto.
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2013)</small>
+
+I. Planos aprobados por la "COPRISEM".
 
 II. Casetas con capacidad suficiente para contener animales a efecto de que nos (sic) se propicie la contaminación ambiental, de conformidad con la norma técnica estatal.
 
@@ -703,13 +775,17 @@ IV. Los centros de prevención y readaptación social.
 
 V. Las demás actividades y establecimientos que determine el Código y otras disposiciones legales.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 93.
 
-En el caso de las fracciones II y III del artículo anterior, los responsables deberán presentar aviso ante el Instituto para desempeñarse como tales.
+En el caso de las fracciones II y III del artículo anterior, los responsables deberán presentar aviso ante la "COPRISEM" para desempeñarse como tales.
+
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 94.
 
-Los responsables a que se refiere el artículo anterior deberán exhibir en lugar visible del establecimiento donde desarrollan la actividad de que se trate, copia del aviso correspondiente autorizado por el Instituto.
+Los responsables a que se refiere el artículo anterior deberán exhibir en lugar visible del establecimiento donde desarrollan la actividad de que se trate, copia del aviso correspondiente autorizado por la "COPRISEM".
 
 ###### Artículo 95.
 
@@ -727,21 +803,27 @@ El responsable de las actividades a que se refiere la fracción III del artícul
 
 El responsable sanitario de las actividades a que se refiere la fracción IV del artículo 92 de este Reglamento, deberá ser preferentemente, profesional del área de medicina.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 99.
 
-El Instituto determinará en qué casos se podrá autorizar a profesionales de otras ramas de las ciencias vinculadas a la salud, técnicos o personas con experiencia equivalente, como responsables.
+La "COPRISEM" determinará en qué casos se podrá autorizar a profesionales de otras ramas de las ciencias vinculadas a la salud, técnicos o personas con experiencia equivalente como responsables.
 
 ###### Artículo 100.
 
 Los responsables sanitarios deberán vigilar y supervisar que el proceso de los productos, la realización de actividades y la prestación de servicios se ajuste a los requisitos sanitarios establecidos en las disposiciones legales y en las normas técnicas estatales.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 101.
 
-Los propietarios de las obras o titulares de los servicios y establecimientos que cuenten con responsables sanitarios, deberán informar al Instituto cuando éste deje de prestar sus servicios como tal, dentro de los quince días naturales siguientes y, en su caso, presentarán el aviso del nuevo responsable, en un plazo no mayor de treinta días.
+Los propietarios de las obras o titulares de los servicios y establecimientos que cuenten con responsables sanitarios deberán informar a la "COPRISEM" cuando éstos dejen de prestar sus servicios como tales, dentro de los quince días naturales siguientes y en su caso, presentarán el aviso del nuevo responsable, en un plazo no mayor de treinta días.
+
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 102.
 
-Los propietarios, el encargado o el responsable sanitario de los establecimientos deberán dar aviso inmediato al Instituto, cuando tenga conocimiento de que algún integrante del personal que labora en los mismos o de las personas bajo su responsabilidad, padece de alguna enfermedad transmisible sujeta a vigilancia epidemiológica, de acuerdo a las disposiciones legales.
+Los propietarios, el encargado o el responsable sanitario de los establecimientos deberán dar aviso inmediato a la "COPRISEM" cuando tengan conocimiento de que algún integrante del personal que labora en los mismos o de las personas bajo su responsabilidad, padece de alguna enfermedad transmisible sujeta a vigilancia epidemiológica, de acuerdo a las disposiciones legales.
 
 ### CAPITULO V. DE LAS AUTORIZACIONES SANITARIAS
 
@@ -749,15 +831,17 @@ Los propietarios, el encargado o el responsable sanitario de los establecimiento
 
 Las autorizaciones sanitarias deberán solicitarse en las formas oficiales que al efecto proporcione la autoridad sanitaria. A la solicitud deberá acompañarse la información y documentación que se precise en dichas formas oficiales.
 
-> <small>(REFORMADO, G.G. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 104.
 
-El Instituto previo análisis, dictamen de los documentos y verificación del debido acondicionamiento de los establecimientos para el uso a que se pretenden destinar, expedirá las autorizaciones sanitarias siempre y cuando el solicitante hubiere satisfecho los requisitos y condiciones que se señalan en este Reglamento, en las normas técnicas estatales y demás disposiciones legales.
+La "COPRISEM" previo análisis y dictamen de los documentos y verificación del debido acondicionamiento de los establecimientos para el uso a que se pretenden destinar, expedirá las autorizaciones sanitarias siempre y cuando el solicitante hubiere satisfecho los requisitos y condiciones que se señalan en este Reglamento, en las normas técnicas estatales y demás disposiciones legales.
+
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 105.
 
-Las autorizaciones sanitarias podrán ser revisadas por el Instituto en cualquier tiempo, para verificar el cumplimiento de las condiciones sanitarias por las cuales se otorgó, conforme a las disposiciones legales.
+Las autorizaciones sanitarias podrán ser revisadas por la "COPRISEM" en cualquier tiempo, para verificar el cumplimiento de las condiciones sanitarias por las cuales se otorgó, conforme a las disposiciones legales.
 
 #### SECCION I. DE LAS LICENCIAS SANITARIAS
 
@@ -765,9 +849,11 @@ Las autorizaciones sanitarias podrán ser revisadas por el Instituto en cualquie
 
 Para obtener licencia sanitaria se requiere presentar solicitud debidamente requisitada, dentro de los treinta días anteriores al día propuesto para el inicio de las operaciones del establecimiento y satisfacer los requisitos que señala el presente Reglamento, las normas técnicas estatales y demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 107.
 
-Todo cambio de propietario de un establecimiento, de razón social o de denominación, de domicilio, la suspensión de actividades, trabajos o servicios, deberá ser comunicado al Instituto en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado.
+Todo cambio de propietario de un establecimiento, de razón social o de denominación, de domicilio, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la "COPRISEM" en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado.
 
 ###### Artículo 108.
 
@@ -793,21 +879,23 @@ Los permisos sanitarios expedidos al comercio de alimentos y bebidas en la vía 
 
 Los permisos a los que se refiere la fracción III del artículo 2.46 del Código, deberán tramitarse en el formato oficial previo a la actividad y tendrá vigencia durante las cuarenta y ocho horas posteriores a la defunción o veinticuatro de la exhumación.
 
-> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
-
 ###### Artículo 112 Bis.
 
-Los permisos sanitarios a que se refiere la fracción IV del artículo 2.65 del Código, se expedirán previo Dictamen de Factibilidad favorable que emita la Secretaría a través del Consejo Rector de Impacto Sanitario y tendrá la vigencia y condiciones que el Código establezca.
+(DEROGADO, G.G. 10 DE JUNIO DE 2013)
 
 ### CAPITULO VI. DE LA REVOCACION DE AUTORIZACIONES SANITARIAS
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 113.
 
-La revocación de las autorizaciones que el Instituto haya otorgado, se sujetará a lo previsto en el Código de Procedimientos Administrativos del Estado de México.
+La revocación de las autorizaciones que la "COPRISEM" haya otorgado se sujetará a lo previsto en el Código de Procedimientos Administrativos del Estado de México.
+
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 114.
 
-El Instituto emitirá la resolución que corresponda, al concluir la audiencia o dentro de los cinco días hábiles siguientes, la cual se notificará al particular.
+La "COPRISEM" emitirá la resolución que corresponda, al concluir la audiencia o dentro de los cinco días hábiles siguientes, la cual se notificará al particular.
 
 ### CAPITULO VII. DE LOS CERTIFICADOS
 
@@ -837,21 +925,27 @@ Los certificados a que se refiere este capítulo, se extenderán en los modelos 
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
-> <small>(ADICIONADO, G.G. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
-Artículo 118 bis.- El Consejo Interno del Instituto establecerá las cuotas de recuperación que deben cubrirse por los certificados que conforme a este Reglamento y demás disposiciones se expidan, así como por el análisis, dictamen de documentos y verificaciones que se realicen para efectos de la expedición de autorizaciones y recepción de avisos; por la capacitación que se imparta en materia de fomento sanitario; por los dictámenes de factibilidad para la expedición de autorizaciones de inicio de construcción y ocupación de obras, así como de panteones y por la revisión, para su autorización, de los libros de registro están obligados a llevar los administradores de los panteones.
+###### Artículo 118 Bis.
+
+El Consejo Interno del Instituto establecerá las cuotas de recuperación que deben cubrirse por los certificados que conforme a este Reglamento y demás disposiciones se expidan y en su caso, la "COPRISEM" por el análisis, dictamen de documentos y verificaciones que se realicen para efectos de la expedición de autorizaciones y recepción de avisos, por la capacitación que se imparta en materia de fomento sanitario, por los dictámenes de factibilidad para la expedición de autorizaciones de inicio de construcción y ocupación de obras, así como de panteones y por la revisión, para su autorización.
 
 ## TITULO TERCERO. COMERCIO DE ALIMENTOS Y BEBIDAS EN LA VIA PUBLICA
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 119.
 
-El Instituto ejercerá la regulación y control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, en términos de las normas oficiales mexicanas, el Código, el presente Reglamento y normas técnicas estatales.
+La "COPRISEM" ejercerá la regulación y control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, en términos de las normas oficiales mexicanas, el Código Administrativo, el presente Reglamento y normas técnicas estatales.
+
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 120.
 
-El Instituto no expedirá autorizaciones sanitarias para la comercialización de alcohol y bebidas alcohólicas en puestos temporales o semifijos.
+La "COPRISEM" no expedirá autorizaciones sanitarias para la comercialización de alcohol y bebidas alcohólicas en puestos temporales o semifijos.
 
 ###### Artículo 121.
 
@@ -863,17 +957,21 @@ Las personas que realicen actividades comerciales deben mantener aseados los lug
 
 Los vendedores ambulantes y puestos semifijos deberán observar las disposiciones previstas en el presente Título, otras disposiciones legales y la norma técnica estatal correspondiente.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 123.
 
-El Instituto no expedirá autorizaciones sanitarias para el ejercicio del comercio en vía pública, en el primer cuadro de cabeceras municipales, escuelas, oficinas públicas, centros hospitalarios, terminales de transporte, mercados públicos, centros de reunión y espectáculos, vías principales y otras que determine la autoridad sanitaria competente. En ningún caso se permitirá su instalación en gasolinerías y otros establecimientos que manejen sustancias explosivas o volátiles.
+La "COPRISEM" no expedirá autorizaciones sanitarias para el ejercicio del comercio en vía pública, en el primer cuadro de cabeceras municipales, escuelas, oficinas públicas, centros hospitalarios, terminales de transporte, mercados públicos, centros de reunión, espectáculos, vías principales y otras que determine la autoridad sanitaria competente. En ningún caso se permitirá su instalación en gasolineras y otros establecimientos que manejen sustancias explosivas o volátiles.
 
 ###### Artículo 124.
 
 En los lugares en donde se manipulen alimentos o bebidas deberán existir dispositivos para el aseo de las manos, limpieza y desinfección de utensilios y equipos de trabajo; con materiales resistentes a la corrosión y que puedan limpiarse fácilmente. Dichos dispositivos contarán con agua, jabón y sustancias desinfectantes.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 125.
 
-Para el desarrollo de la actividad comercial a que se refiere este Capítulo, los manejadores de alimentos deberán capacitarse en materia de fomento sanitario en la Jurisdicción de Regulación Sanitaria correspondiente, sobre las buenas prácticas de higiene y sanidad en la preparación de alimentos.
+Para el desarrollo de la actividad comercial a que se refiere este Capítulo, los manejadores de alimentos deberán capacitarse en materia de fomento sanitario en la Jefatura Jurisdiccional para la Protección contra Riesgos Sanitarios correspondiente, sobre las buenas prácticas de higiene y sanidad en la preparación de alimentos.
 
 ## TITULO CUARTO. CONSTRUCCIONES
 
@@ -1143,21 +1241,27 @@ El área administrativa de los panteones y crematorios, llevarán un registro en
 
 ### CAPITULO III. DE LA OCUPACION DE LOS PANTEONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 168.
 
-La ocupación de los panteones se realizará únicamente cuando el Instituto haya expedido el permiso de ocupación de obra, previa visita de verificación de la terminación de los trabajos de construcción.
+La ocupación de los panteones se realizará únicamente cuando la "COPRISEM" haya expedido el permiso de ocupación de obra, previa visita de verificación de la terminación de los trabajos de construcción.
 
 En el caso de ocupación total de las áreas destinadas a inhumaciones, la conservación y vigilancia del panteón corresponde al ayuntamiento o, en su caso al concesionario.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 169.
 
-Cuando por causa de utilidad pública la afectación de un panteón sea parcial y en el predio restante existan áreas disponibles para sepulturas, las autoridades municipales, previo acuerdo con el Instituto, verificarán el cumplimiento de las medidas sanitarias respectivas, para la exhumación de los restos que estuvieren sepultados dentro del área afectada, a fin de reinhumarlos en las fosas que para el efecto deberán destinarse en el predio restante, identificándolos individualmente.
+Cuando por causa de utilidad pública la afectación de un panteón sea parcial y en el predio restante existan áreas disponibles para sepulturas, las autoridades municipales, previo acuerdo con la "COPRISEM" verificarán el cumplimiento de las medidas sanitarias respectivas, para la exhumación de los restos que estuvieren sepultados dentro del área afectada, a fin de reinhumarlos en las fosas que para el efecto deberán destinarse en el predio restante, identificándolos individualmente.
 
-En el caso de que en el predio restante no exista áreas disponibles para la reinhumación de restos, la entidad o dependencia afectante será responsable de reubicar los restos exhumados en otro predio autorizado por el Instituto.
+En el caso de que en el predio restante no existan áreas disponibles para la reinhumación de restos, la entidad o dependencia afectante será responsable de reubicar los restos exhumados en otro predio autorizado por la "COPRISEM".
+
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 170.
 
-Cuando la afectación de un panteón, sea total, la entidad o dependencia a favor de quien se afecte el predio deberá proporcionar los medios que permitan la reubicación de los restos exhumados, previa autorización del Instituto.
+Cuando la afectación de un panteón sea total, la entidad o dependencia a favor de quien se afecte el predio deberá proporcionar los medios que permitan la reubicación de los restos exhumados, previa autorización de la "COPRISEM".
 
 ### CAPITULO IV. DE LAS FUNERARIAS
 
@@ -1213,9 +1317,11 @@ Para toda actividad relacionada con éste Capítulo, se estará a lo dispuesto p
 
 ## TITULO SEPTIMO. AGUA POTABLE Y ALCANTARILLADO
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 183.
 
-El Instituto realizará análisis periódicos de la potabilidad de las aguas, en los sistemas de distribución respectivos, con base en la coordinación que realice con los municipios, organismos operadores u otras entidades, en términos de las disposiciones legales y normas técnicas aplicables.
+La "COPRISEM" realizará análisis periódicos de la potabilidad de las aguas en los sistemas de distribución respectivos, con base en la coordinación que realice con los municipios, organismos operadores u otras entidades, en términos de las disposiciones legales y normas técnicas aplicables.
 
 ###### Artículo 184.
 
@@ -1243,7 +1349,9 @@ La distribución de las aguas destinadas al uso y consumo humano se harán media
 
 Los materiales que se empleen deberán garantizar, la conservación de las cualidades del agua a distribuir.
 
-El responsable deberá notificar al Instituto cuando una fuente o tanque de almacenamiento del sistema vaya a ser utilizada para distribuir agua en vehículos cisterna. Debiendo cumplir con lo establecido en las normas respectivas.
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
+El responsable deberá notificar a la "COPRISEM" cuando una fuente o tanque de almacenamiento del sistema vaya a ser utilizada para distribuir agua en vehículos cisterna, debiendo cumplir con lo establecido en las normas respectivas.
 
 ###### Artículo 190.
 
@@ -1267,17 +1375,23 @@ Quedan comprendidos dentro de la regulación de éste Título las granjas avíco
 
 ## TITULO NOVENO. CENTROS DE PREVENCION Y READAPTACION SOCIAL
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 194.
 
-El Instituto vigilará que los centros preventivos y de readaptación social, dispongan de los elementos materiales adecuados y suficientes para la preparación higiénica de alimentos, así como los utensilios propios para su consumo.
+La "COPRISEM" vigilará que los centros preventivos y de readaptación social dispongan de los elementos materiales adecuados y suficientes para la preparación higiénica de alimentos, así como de los utensilios propios para su consumo.
+
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 195.
 
-El Instituto vigilará que los internos utilicen vestimenta que cumpla con condiciones de higiene y que en los dormitorios en forma periódica se haga el cambio de ropa de cama para prevenir riesgos y daños a la salud de los internos.
+La "COPRISEM" vigilará que los internos utilicen vestimenta que cumpla con condiciones de higiene y que en los dormitorios en forma periódica se haga el cambio de ropa de cama para prevenir riesgos y daños a la salud de los internos.
+
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
 ###### Artículo 196.
 
-El Instituto y las autoridades de prevención y readaptación social realizarán acciones conjuntas para propiciar entre los internos, mejores condiciones de salud e higiene.
+La "COPRISEM" y las autoridades de prevención y readaptación social realizarán acciones conjuntas para propiciar entre los internos, mejores condiciones de salud e higiene.
 
 ###### Artículo 197.
 
@@ -1313,9 +1427,11 @@ En caso de que de la revisión se desprendan irregularidades, el responsable san
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
+
 ###### Artículo 204.
 
-Los propietarios de baños públicos informarán al Instituto la naturaleza y origen del abastecimiento del agua. La autoridad podrá requerir a los propietarios análisis bacteriológico y químico con especificaciones de potabilización del agua para uso humano. Se indicará en su caso, el sistema de calefacción y purificación del agua utilizada.
+Los propietarios de baños públicos informarán a la "COPRISEM" la naturaleza y origen del abastecimiento del agua. La autoridad podrá requerir a los propietarios análisis bacteriológico y químico con especificaciones de potabilización del agua para uso humano. Se indicará en su caso, el sistema de calefacción y purificación del agua utilizada.
 
 ###### Artículo 205.
 
@@ -1547,7 +1663,9 @@ X. Parques y zoológicos.
 
 XI. Salones de baile y similares.
 
-XII. Las demás que el Instituto señale.
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2013)</small>
+
+XII. Las demás que la "COPRISEM" señale.
 
 ###### Artículo 252.
 
@@ -1843,7 +1961,7 @@ El Director General tendrá las siguientes facultades y obligaciones:
 
 I. Autorizar los acuerdos y disposiciones del Consejo Interno.
 
-II. Autorizar con su firma los actos de autoridad que el Instituto ordene, pudiendo delegarse esta facultad en otros servidores públicos, por acuerdo del Consejo Interno.
+II. (DEROGADA, G.G. 10 DE JUNIO DE 2013)
 
 III. Presentar al Consejo Interno, los informes y estados financieros bimestrales, acompañados de los comentarios que estime pertinentes respecto a los reportes, informes y recomendaciones que al efecto formulen el comisario y el auditor externo.
 
@@ -2303,7 +2421,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 31 DE ENERO DE 2005.
 
@@ -2330,3 +2448,9 @@ El presente Acuerdo entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO TERCERO.
 
 Se establece un término no mayor a quince días naturales posteriores a la entrada en vigor del presente Acuerdo, para que se instale el Consejo Rector de Impacto Sanitario y pueda sesionar, debiendo la Secretaria de Salud proveer de lo necesario para tal efecto.
+
+G.G. 10 DE JUNIO DE 2013.
+
+PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
