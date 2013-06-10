@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-del-sistema-para-el-desarrollo-integral-439
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-10"
-last_updated: "2005-02-10"
+last_updated: "2013-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43919&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 10 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el jueves 10 de febrero de 2005.
 
@@ -608,3 +610,13 @@ Procurador General de Justicia del Estado de B.C.S.
 Lic. Siria Verdugo Davis
 
 Secretaria Técnica de la Junta de Gobierno
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Reglamento Interior entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado número 9 de fecha 10 de febrero del año 2005.
+
+TERCERO.- Los asuntos pendientes a la entrada en vigor de este Reglamento, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por aquellas a las que se le haya atribuido la competencia correspondiente.
