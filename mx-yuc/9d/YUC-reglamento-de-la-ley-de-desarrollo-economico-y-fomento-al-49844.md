@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-desarrollo-economico-y-fomento-al-49844
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-20"
-last_updated: "2006-03-20"
+last_updated: "2013-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA LEY DE DESARROLLO ECONOMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATAN
 
-REGLAMENTO DE LA LEY DE DESARROLLO ECONOMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATAN
+REGLAMENTO DE LA LEY DE DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. DE 10 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el lunes 20 de marzo de 2006.
 
@@ -358,3 +360,15 @@ EL SECRETARIO DE DESARROLLO INDUSTRIAL Y COMERCIAL
 (RÚBRICA)
 
 LIC. JOSÉ GUY PUERTO ESPINOSA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. Se abroga el Decreto 663 por el que se expide el Reglamento de la Ley de Desarrollo Económico y Fomento al Empleo del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el día 20 de marzo del año 2006.
+
+TERCERO. El Poder Ejecutivo por conducto del titular de la Secretaría de Fomento Económico del Estado de Yucatán, deberá expedir la convocatoria para la integración del Consejo Consultivo para el Desarrollo Económico de Yucatán, dentro de los 30 días naturales siguientes a la entrada en vigor de este Reglamento.
+
+CUARTO. Los contenidos establecidos en el artículo 6 de este Decreto referentes al Programa Rector para el Desarrollo Económico del Estado de Yucatán se incluirán dentro del Programa Sectorial de Desarrollo Económico y Fomento al Empleo que se menciona dentro del apartado Programas de Mediano Plazo del Plan Estatal de Desarrollo 2012-2018, en el plazo señalado en el artículo Cuarto Transitorio del Decreto Número 51, publicado en el Diario Oficial del Gobierno del Estado el día 30 de marzo del año 2013.
