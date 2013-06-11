@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2013-06-05"
+last_updated: "2013-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JUNIO DE 2013.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -292,15 +292,29 @@ El contrato de trabajo sólo obligará a prestar el servicio convenido por el ti
 
 La falta de cumplimiento de dicho contrato, por lo que respecta al trabajador, sólo obligará a éste a la correspondiente responsabilidad civil, sin que en ningún caso pueda hacerse coacción sobre su persona.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE JUNIO DE 2013)</small>
 
 ###### Art. 6o.
 
-La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
+La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, la vida privada o los derechos de terceros, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+Toda persona tiene derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+El Estado garantizará el derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet. Para tales efectos, el Estado establecerá condiciones de competencia efectiva en la prestación de dichos servicios.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+Para efectos de lo dispuesto en el presente artículo se observará lo siguiente:
+
+> <small>N. DE E. POR DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 11 DE JUNIO DE 2013, ESTE PÁRRAFO CON SUS RESPECTIVAS FRACCIONES PASÓ A SER APARTADO “A”.</small>
 
 > <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2007)</small>
 
-Para el ejercicio del derecho de acceso a la información, la Federación, los Estados y el Distrito Federal, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases:
+A. Para el ejercicio del derecho de acceso a la información, la Federación, los Estados y el Distrito Federal, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases:
 
 I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo federal, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.
 
@@ -316,11 +330,35 @@ VI. Las leyes determinarán la manera en que los sujetos obligados deberán hace
 
 VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+B. En materia de radiodifusión y telecomunicaciones:
+
+I. El Estado garantizará a la población su integración a la sociedad de la información y el conocimiento, mediante una política de inclusión digital universal con metas anuales y sexenales.
+
+II. Las telecomunicaciones son servicios públicos de interés general, por lo que el Estado garantizará que sean prestados en condiciones de competencia, calidad, pluralidad, cobertura universal, interconexión, convergencia, continuidad, acceso libre y sin injerencias arbitrarias.
+
+III. La radiodifusión es un servicio público de interés general, por lo que el Estado garantizará que sea prestado en condiciones de competencia y calidad y brinde los beneficios de la cultura a toda la población, preservando la pluralidad y la veracidad de la información, así como el fomento de los valores de la identidad nacional, contribuyendo a los fines establecidos en el artículo 3o. de esta Constitución.
+
+IV. Se prohíbe la transmisión de publicidad o propaganda presentada como información periodística o noticiosa; se establecerán las condiciones que deben regir los contenidos y la contratación de los servicios para su transmisión al público, incluidas aquellas relativas a la responsabilidad de los concesionarios respecto de la información transmitida por cuenta de terceros, sin afectar la libertad de expresión y de difusión.
+
+V. La ley establecerá un organismo público descentralizado con autonomía técnica, operativa, de decisión y de gestión, que tendrá por objeto proveer el servicio de radiodifusión sin fines de lucro, a efecto de asegurar el acceso al mayor número de personas en cada una de las entidades de la Federación, a contenidos que promuevan la integración nacional, la formación educativa, cultural y cívica, la igualdad entre mujeres y hombres, la difusión de información imparcial, objetiva, oportuna y veraz del acontecer nacional e internacional, y dar espacio a las obras de producción independiente, así como a la expresión de la diversidad y pluralidad de ideas y opiniones que fortalezcan la vida democrática de la sociedad.
+
+El organismo público contará con un Consejo Ciudadano con el objeto de asegurar su independencia y una política editorial imparcial y objetiva. Será integrado por nueve consejeros honorarios que serán elegidos mediante una amplia consulta pública por el voto de dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, de la Comisión Permanente. Los consejeros desempeñarán su encargo en forma escalonada, por lo que anualmente serán sustituidos los dos de mayor antigüedad en el cargo, salvo que fuesen ratificados por el Senado para un segundo periodo.
+
+El Presidente del organismo público será designado, a propuesta del Ejecutivo Federal, con el voto de dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, de la Comisión Permanente; durará en su encargo cinco años, podrá ser designado para un nuevo periodo por una sola vez, y sólo podrá ser removido por el Senado mediante la misma mayoría.
+
+El Presidente del organismo presentará anualmente a los Poderes Ejecutivo y Legislativo de la Unión un informe de actividades; al efecto comparecerá ante las Cámaras del Congreso en los términos que dispongan las leyes.
+
+VI. La ley establecerá los derechos de los usuarios de telecomunicaciones, de las audiencias, así como los mecanismos para su protección.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
 ###### Art. 7o.
 
-Es inviolable la libertad de escribir y publicar escritos sobre cualquiera materia. Ninguna ley ni autoridad puede establecer la previa censura, ni exigir fianza a los autores o impresores, ni coartar la libertad de imprenta, que no tiene más límites que el respeto a la vida privada, a la moral y a la paz pública. En ningún caso podrá secuestrarse la imprenta como instrumento del delito.
+Es inviolable la libertad de difundir opiniones, información e ideas, a través de cualquier medio. No se puede restringir este derecho por vías o medios indirectos, tales como el abuso de controles oficiales o particulares, de papel para periódicos, de frecuencias radioeléctricas o de enseres y aparatos usados en la difusión de información o por cualesquiera otros medios y tecnologías de la información y comunicación encaminados a impedir la transmisión y circulación de ideas y opiniones.
 
-Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar que so pretexto de las denuncias por delito de prensa, sean encarcelados los expendedores, "papeleros", operarios y demás empleados del establecimiento donde haya salido el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquéllos.
+Ninguna ley ni autoridad puede establecer la previa censura, ni coartar la libertad de difusión, que no tiene más límites que los previstos en el primer párrafo del artículo 6o. de esta Constitución. En ningún caso podrán secuestrarse los bienes utilizados para la difusión de información, opiniones e ideas, como instrumento del delito.
 
 ###### Art. 8o.
 
@@ -384,7 +422,7 @@ Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesione
 
 Toda persona tiene derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de seguridad nacional, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
 (REFORMADO, D.O.F. 1 DE JUNIO DE 2009) (F. DE E., D.O.F. 25 DE JUNIO DE 2009)
 
@@ -410,7 +448,7 @@ Las comunicaciones privadas son inviolables. La ley sancionará penalmente cualq
 
 Exclusivamente la autoridad judicial federal, a petición de la autoridad federal que faculte la ley o del titular del Ministerio Público de la entidad federativa correspondiente, podrá autorizar la intervención de cualquier comunicación privada. Para ello, la autoridad competente deberá fundar y motivar las causas legales de la solicitud, expresando además, el tipo de intervención, los sujetos de la misma y su duración. La autoridad judicial federal no podrá otorgar estas autorizaciones cuando se trate de materias de carácter electoral, fiscal, mercantil, civil, laboral o administrativo, ni en el caso de las comunicaciones del detenido con su defensor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
 Los Poderes Judiciales contarán con jueces de control que resolverán, en forma inmediata, y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
 
@@ -422,7 +460,7 @@ La correspondencia que bajo cubierta circule por las estafetas estará libre de 
 
 En tiempo de paz ningún miembro del Ejército podrá alojarse en casa particular contra la voluntad del dueño, ni imponer prestación alguna. En tiempo de guerra los militares podrán exigir alojamiento, bagajes, alimentos y otras prestaciones, en los términos que establezca la ley marcial correspondiente.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
@@ -436,17 +474,17 @@ Toda persona tiene derecho a que se le administre justicia por tribunales que es
 
 El Congreso de la Unión expedirá las leyes que regulen las acciones colectivas. Tales leyes determinarán las materias de aplicación, los procedimientos judiciales y los mecanismos de reparación del daño. Los jueces federales conocerán de forma exclusiva sobre estos procedimientos y mecanismos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
 Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
 Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública previa citación de las partes.
 
 Las leyes federales y locales establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
 La Federación, los Estados y el Distrito Federal garantizarán la existencia de un servicio de defensoría pública de calidad para la población y asegurarán las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
 
@@ -476,7 +514,7 @@ Los sentenciados, en los casos y condiciones que establezca la ley, podrán comp
 
 Para la reclusión preventiva y la ejecución de sentencias en materia de delincuencia organizada se destinarán centros especiales. Las autoridades competentes podrán restringir las comunicaciones de los inculpados y sentenciados por delincuencia organizada con terceros, salvo el acceso a su defensor, e imponer medidas de vigilancia especial a quienes se encuentren internos en estos establecimientos. Lo anterior podrá aplicarse a otros internos que requieran medidas especiales de seguridad, en términos de la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008; ASI COMO, POR LO QUE CORRESPONDE AL SEGUNDO PARRAFO DE ESTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2011, AMBOS QUE MODIFICAN LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008; ASÍ COMO, POR LO QUE CORRESPONDE AL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2011, AMBOS QUE MODIFICAN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
@@ -484,7 +522,7 @@ Para la reclusión preventiva y la ejecución de sentencias en materia de delinc
 
 Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2011, QUE MODIFICA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2011, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
 > <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2011)</small>
 
@@ -500,9 +538,9 @@ Si con posterioridad a la emisión del auto de vinculación a proceso por delinc
 
 Todo mal tratamiento en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución, en las cárceles, son abusos que serán corregidos por las leyes y reprimidos por las autoridades.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008; ASI COMO, POR LO QUE CORRESPONDE AL PRIMER PARRAFO DE LA FRACCION V DEL APARTADO C DE ESTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2011, AMBOS QUE MODIFICAN LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008; ASÍ COMO, POR LO QUE CORRESPONDE AL PRIMER PÁRRAFO DE LA FRACCIÓN V DEL APARTADO C DE ESTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2011, AMBOS QUE MODIFICAN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
@@ -576,9 +614,9 @@ IV. Que se le repare el daño. En los casos en que sea procedente, el Ministerio
 
 La ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2011, QUE MODIFICA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2011, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 2011)</small>
 
 V. Al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, trata de personas, secuestro o delincuencia organizada; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
 
@@ -588,7 +626,7 @@ VI. Solicitar las medidas cautelares y providencias necesarias para la protecci�
 
 VII. Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
@@ -598,7 +636,7 @@ La investigación de los delitos corresponde al Ministerio Público y a las poli
 
 El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO QUINTO TRANSITORIO DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO QUINTO TRANSITORIO DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
 La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
 
@@ -608,7 +646,7 @@ Si el infractor de los reglamentos gubernativos y de policía fuese jornalero, o
 
 Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, no excederá del equivalente a un día de su ingreso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
 El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
 
@@ -628,7 +666,7 @@ d) Se determinará la participación de la comunidad que coadyuvará, entre otro
 
 e) Los fondos de ayuda federal para la seguridad pública, a nivel nacional serán aportados a las entidades federativas y municipios para ser destinados exclusivamente a estos fines.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
@@ -746,9 +784,9 @@ Corresponde a la Nación el dominio directo de todos los recursos naturales de l
 
 Son propiedad de la Nación las aguas de los mares territoriales en la extensión y términos que fije (sic) Derecho Internacional; las aguas marinas interiores; las de las lagunas y esteros que se comuniquen permanente o intermitentemente con el mar; las de los lagos interiores de formación natural que estén ligados directamente a corrientes constantes; las de los ríos y sus afluentes directos o indirectos, desde el punto del cauce en que se inicien las primeras aguas permanentes, intermitentes o torrenciales, hasta su desembocadura en el mar, lagos, lagunas o esteros de propiedad nacional; las de las corrientes constantes o interminentes (sic) y sus afluentes directos o indirectos, cuando el cauce de aquéllas en toda su extensión o en parte de ellas, sirva de límite al territorio nacional o a dos entidades federativas, o cuando pase de una entidad federativa a otra o cruce la línea divisoria de la República; la de los lagos, lagunas o esteros cuyos vasos, zonas o riberas, estén cruzadas por líneas divisorias de dos o más entidades o entre la República y un país vecino, o cuando el límite de las riberas sirva de lindero entre dos entidades federativas o a la República con un país vecino; las de los manantiales que broten en las playas, zonas marítimas, cauces, vasos o riberas de los lagos, lagunas o esteros de propiedad nacional, y las que se extraigan de las minas; y los cauces, lechos o riberas de los lagos y corrientes interiores en la extensión que fija la ley. Las aguas del subsuelo pueden ser libremente alumbradas mediante obras artificiales y apropiarse por el dueño del terreno, pero cuando lo exija el interés público o se afecten otros aprovechamientos; el Ejecutivo Federal podrá reglamentar su extracción y utilización y aún establecer zonas vedadas, al igual que para las demás aguas de propiedad nacional. Cualesquiera otras aguas no incluidas en la enumeración anterior, se considerarán como parte integrante de la propiedad de los terrenos por los que corran o en los que se encuentren sus depósitos, pero si se localizaren en dos o más predios, el aprovechamiento de estas aguas se considerará de utilidad pública, y quedará sujeto a las disposiciones que dicten los Estados.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 6 DE FEBRERO DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
 
-En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible y la explotación, el uso o el aprovechamiento de los recursos de que se trata, por los particulares o por sociedades constituidas conforme a las leyes mexicanas, no podrá realizarse sino mediante concesiones, otorgadas por el Ejecutivo Federal, de acuerdo con las reglas y condiciones que establezcan las leyes. Las normas legales relativas a obras o trabajos de explotación de los minerales y substancias a que se refiere el párrafo cuarto, regularán la ejecución y comprobación de los que se efectúen o deban efectuarse a partir de su vigencia, independientemente de la fecha de otorgamiento de las concesiones, y su inobservancia dará lugar a la cancelación de éstas. El Gobierno Federal tiene la facultad de establecer reservas nacionales y suprimirlas. Las declaratorias correspondientes se harán por el Ejecutivo en los casos y condiciones que las leyes prevean. Tratándose del petróleo y de los carburos de hidrógeno sólidos, líquidos o gaseosos o de minerales radioactivos, no se otorgarán concesiones ni contratos, ni subsistirán los que en su caso se hayan otorgado y la Nación llevará a cabo la explotación de esos productos, en los términos que señale la Ley Reglamentaria respectiva. Corresponde exclusivamente a la Nación generar, conducir, transformar, distribuir y abastecer energía eléctrica que tenga por objeto la prestación de servicio público. En esta materia no se otorgarán concesiones a los particulares y la Nación aprovechará los bienes y recursos naturales que se requieran para dichos fines.
+En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible y la explotación, el uso o el aprovechamiento de los recursos de que se trata, por los particulares o por sociedades constituidas conforme a las leyes mexicanas, no podrá realizarse sino mediante concesiones, otorgadas por el Ejecutivo Federal, de acuerdo con las reglas y condiciones que establezcan las leyes, salvo en radiodifusión y telecomunicaciones, que serán otorgadas por el Instituto Federal de Telecomunicaciones. Las normas legales relativas a obras o trabajos de explotación de los minerales y substancias a que se refiere el párrafo cuarto, regularán la ejecución y comprobación de los que se efectúen o deban efectuarse a partir de su vigencia, independientemente de la fecha de otorgamiento de las concesiones, y su inobservancia dará lugar a la cancelación de éstas. El Gobierno Federal tiene la facultad de establecer reservas nacionales y suprimirlas. Las declaratorias correspondientes se harán por el Ejecutivo en los casos y condiciones que las leyes prevean. Tratándose del petróleo y de los carburos de hidrógeno sólidos, líquidos o gaseosos o de minerales radioactivos, no se otorgarán concesiones ni contratos, ni subsistirán los que en su caso se hayan otorgado y la Nación llevará a cabo la explotación de esos productos, en los términos que señale la Ley Reglamentaria respectiva. Corresponde exclusivamente a la Nación generar, conducir, transformar, distribuir y abastecer energía eléctrica que tenga por objeto la prestación de servicio público. En esta materia no se otorgarán concesiones a los particulares y la Nación aprovechará los bienes y recursos naturales que se requieran para dichos fines.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 6 DE FEBRERO DE 1975)</small>
 
@@ -758,7 +796,7 @@ Corresponde también a la Nación el aprovechamiento de los combustibles nuclear
 
 La Nación ejerce en una zona económica exclusiva situada fuera del mar territorial y adyacente a éste, los derechos de soberanía y las jurisdicciones que determinen las leyes del Congreso. La zona económica exclusiva se extenderá a doscientas millas náuticas, medidas a partir de la línea de base desde la cual se mide el mar territorial. En aquellos casos en que esa extensión produzca superposición con las zonas económicas exclusivas de otros Estados, la delimitación de las respectivas zonas se hará en la medida en que resulte necesario, mediante acuerdo con estos Estados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 1960)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 1960)</small>
 
 La capacidad para adquirir el dominio de las tierras y aguas de la Nación, se regirá por las siguientes prescripciones:
 
@@ -786,7 +824,7 @@ La propia ley establecerá los medios de registro y control necesarios para el c
 
 V.- Los bancos debidamente autorizados, conforme a las leyes de instituciones de crédito, podrán tener capitales impuestos, sobre propiedades urbanas y rústicas de acuerdo con las prescripciones de dichas leyes, pero no podrán tener en propiedad o en administración más bienes raíces que los enteramente necesarios para su objeto directo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE ENERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ENERO DE 1992)</small>
 
 VI.- Los estados y el Distrito Federal, lo mismo que los municipios de toda la República, tendrán plena capacidad para adquirir y poseer todos los bienes raíces necesarios para los servicios públicos.
 
@@ -886,7 +924,9 @@ El desarrollo rural integral y sustentable a que se refiere el párrafo anterior
 
 En los Estados Unidos Mexicanos quedan prohibidos los monopolios, la (sic) prácticas monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que fijan las leyes. El mismo tratamiento se dará a ls (sic) prohibiciones a título de protección a la industria.
 
-En consecuencia, la ley castigará severamente, y las autoridades perseguirán con eficacia, toda concentración o acaparamiento en una o pocas manos de artículos de consumo necesario y que tenga por objeto obtener el alza de los precios; todo acuerdo, procedimiento o combinación de los productores, industriales, comerciantes o empresarios de servicios, que de cualquier manera hagan, para evitar la libre concurrencia o la competencia entre sí y obligar a los consumidores a pagar precios exagerados y, en general, todo lo que constituya una ventaja exclusiva indebida a favor de una o varias personas determinadas y con perjuicio del público en general o de alguna clase social.
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+En consecuencia, la ley castigará severamente, y las autoridades perseguirán con eficacia, toda concentración o acaparamiento en una o pocas manos de artículos de consumo necesario y que tenga por objeto obtener el alza de los precios; todo acuerdo, procedimiento o combinación de los productores, industriales, comerciantes o empresarios de servicios, que de cualquier manera hagan, para evitar la libre concurrencia o la competencia entre sí o para obligar a los consumidores a pagar precios exagerados y, en general, todo lo que constituya una ventaja exclusiva indebida a favor de una o varias personas determinadas y con perjuicio del público en general o de alguna clase social.
 
 Las leyes fijarán bases para que se señalen precios máximos a los artículos, materias o productos que se consideren necesarios para la economía nacional o el consumo popular, así como para imponer modalidades a la organización de la distribución de esos artículos, materias o productos, a fin de evitar que intermediaciones innecesarias o excesivas provoquen insuficiencia en el abasto, así como el alza de precios. La ley protegerá a los consumidores y propiciará su organización para el mejor cuidado de sus intereses.
 
@@ -913,6 +953,118 @@ El Estado, sujetándose a las leyes, podrá en casos de interés general, conces
 La sujeción a regímenes de servicio público se apegará a lo dispuesto por la Constitución y sólo podrá llevarse a cabo mediante ley.
 
 Se podrán otorgar subsidios a actividades prioritarias, cuando sean generales, de carácter temporal y no afecten sustancialmente las finanzas de la Nación. El Estado vigilará su aplicación y evaluará los resultados de ésta.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+El Estado contará con una Comisión Federal de Competencia Económica, que será un órgano autónomo, con personalidad jurídica y patrimonio propio, que tendrá por objeto garantizar la libre competencia y concurrencia, así como prevenir, investigar y combatir los monopolios, las prácticas monopólicas, las concentraciones y demás restricciones al funcionamiento eficiente de los mercados, en los términos que establecen esta Constitución y las leyes. La Comisión contará con las facultades necesarias para cumplir eficazmente con su objeto, entre ellas las de ordenar medidas para eliminar las barreras a la competencia y la libre concurrencia; regular el acceso a insumos esenciales, y ordenar la desincorporación de activos, derechos, partes sociales o acciones de los agentes económicos, en las proporciones necesarias para eliminar efectos anticompetitivos.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+El Instituto Federal de Telecomunicaciones es un órgano autónomo, con personalidad jurídica y patrimonio propio, que tiene por objeto el desarrollo eficiente de la radiodifusión y las telecomunicaciones, conforme a lo dispuesto en esta Constitución y en los términos que fijen las leyes. Para tal efecto, tendrá a su cargo la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico, las redes y la prestación de los servicios de radiodifusión y telecomunicaciones, así como del acceso a infraestructura activa, pasiva y otros insumos esenciales, garantizando lo establecido en los artículos 6o. y 7o. de esta Constitución.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+El Instituto Federal de Telecomunicaciones será también la autoridad en materia de competencia económica de los sectores de radiodifusión y telecomunicaciones, por lo que en éstos ejercerá en forma exclusiva las facultades que este artículo y las leyes establecen para la Comisión Federal de Competencia Económica y regulará de forma asimétrica a los participantes en estos mercados con el objeto de eliminar eficazmente las barreras a la competencia y la libre concurrencia; impondrá límites a la concentración nacional y regional de frecuencias, al concesionamiento y a la propiedad cruzada que controle varios medios de comunicación que sean concesionarios de radiodifusión y telecomunicaciones que sirvan a un mismo mercado o zona de cobertura geográfica, y ordenará la desincorporación de activos, derechos o partes necesarias para asegurar el cumplimiento de estos límites, garantizando lo dispuesto en los artículos 6o. y 7o. de esta Constitución.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+Corresponde al Instituto, el otorgamiento, la revocación, así como la autorización de cesiones o cambios de control accionario, titularidad u operación de sociedades relacionadas con concesiones en materia de radiodifusión y telecomunicaciones. El Instituto notificará al Secretario del ramo previo a su determinación, quien podrá emitir una opinión técnica. Las concesiones podrán ser para uso comercial, público, privado y social que incluyen las comunitarias y las indígenas, las que se sujetarán, de acuerdo con sus fines, a los principios establecidos en los artículos 2o., 3o., 6o. y 7o. de esta Constitución. El Instituto fijará el monto de las contraprestaciones por el otorgamiento de las concesiones, así como por la autorización de servicios vinculados a éstas, previa opinión de la autoridad hacendaria. Las opiniones a que se refiere este párrafo no serán vinculantes y deberán emitirse en un plazo no mayor de treinta días; transcurrido dicho plazo sin que se emitan las opiniones, el Instituto continuará los trámites correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+Las concesiones del espectro radioeléctrico serán otorgadas mediante licitación pública, a fin de asegurar la máxima concurrencia, previniendo fenómenos de concentración que contraríen el interés público y asegurando el menor precio de los servicios al usuario final; en ningún caso el factor determinante para definir al ganador de la licitación será meramente económico. Las concesiones para uso público y social serán sin fines de lucro y se otorgarán bajo el mecanismo de asignación directa conforme a lo previsto por la ley y en condiciones que garanticen la transparencia del procedimiento. El Instituto Federal de Telecomunicaciones llevará un registro público de concesiones. La ley establecerá un esquema efectivo de sanciones que señale como causal de revocación del título de concesión, entre otras, el incumplimiento de las resoluciones que hayan quedado firmes en casos de conductas vinculadas con prácticas monopólicas. En la revocación de las concesiones, el Instituto dará aviso previo al Ejecutivo Federal a fin de que éste ejerza, en su caso, las atribuciones necesarias que garanticen la continuidad en la prestación del servicio.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+El Instituto Federal de Telecomunicaciones garantizará que el Gobierno Federal cuente con las concesiones necesarias para el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+La Comisión Federal de Competencia Económica y el Instituto Federal de Telecomunicaciones, serán independientes en sus decisiones y funcionamiento, profesionales en su desempeño e imparciales en sus actuaciones, y se regirán conforme a lo siguiente:
+
+I. Dictarán sus resoluciones con plena independencia;
+
+II. Ejercerán su presupuesto de forma autónoma. La Cámara de Diputados garantizará la suficiencia presupuestal a fin de permitirles el ejercicio eficaz y oportuno de sus competencias;
+
+III. Emitirán su propio estatuto orgánico, mediante un sistema de votación por mayoría calificada;
+
+IV. Podrán emitir disposiciones administrativas de carácter general exclusivamente para el cumplimiento de su función regulatoria en el sector de su competencia;
+
+V. Las leyes garantizarán, dentro de cada organismo, la separación entre la autoridad que conoce de la etapa de investigación y la que resuelve en los procedimientos que se sustancien en forma de juicio;
+
+VI. Los órganos de gobierno deberán cumplir con los principios de transparencia y acceso a la información. Deliberarán en forma colegiada y decidirán los asuntos por mayoría de votos; sus sesiones, acuerdos y resoluciones serán de carácter público con las excepciones que determine la ley;
+
+VII. Las normas generales, actos u omisiones de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones podrán ser impugnados únicamente mediante el juicio de amparo indirecto y no serán objeto de suspensión. Solamente en los casos en que la Comisión Federal de Competencia Económica imponga multas o la desincorporación de activos, derechos, partes sociales o acciones, éstas se ejecutarán hasta que se resuelva el juicio de amparo que, en su caso, se promueva. Cuando se trate de resoluciones de dichos organismos emanadas de un procedimiento seguido en forma de juicio sólo podrá impugnarse la que ponga fin al mismo por violaciones cometidas en la resolución o durante el procedimiento; las normas generales aplicadas durante el procedimiento sólo podrán reclamarse en el amparo promovido contra la resolución referida. Los juicios de amparo serán sustanciados por jueces y tribunales especializados en los términos del artículo 94 de esta Constitución. En ningún caso se admitirán recursos ordinarios o constitucionales contra actos intraprocesales;
+
+VIII. Los titulares de los órganos presentarán anualmente un programa de trabajo y trimestralmente un informe de actividades a los Poderes Ejecutivo y Legislativo de la Unión; comparecerán ante la Cámara de Senadores anualmente y ante las Cámaras del Congreso en términos del artículo 93 de esta Constitución. El Ejecutivo Federal podrá solicitar a cualquiera de las Cámaras la comparecencia de los titulares ante éstas;
+
+IX. Las leyes promoverán para estos órganos la transparencia gubernamental bajo principios de gobierno digital y datos abiertos;
+
+X. La retribución que perciban los Comisionados deberá ajustarse a lo previsto en el artículo 127 de esta Constitución;
+
+XI. Los comisionados de los órganos podrán ser removidos de su cargo por las dos terceras partes de los miembros presentes del Senado de la República, por falta grave en el ejercicio de sus funciones, en los términos que disponga la ley, y
+
+XII. Cada órgano contará con una Contraloría Interna, cuyo titular será designado por las dos terceras partes de los miembros presentes de la Cámara de Diputados, en los términos que disponga la ley.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+Los órganos de gobierno, tanto de la Comisión Federal de Competencia Económica como del Instituto Federal de Telecomunicaciones se integrarán por siete Comisionados, incluyendo el Comisionado Presidente, designados en forma escalonada a propuesta del Ejecutivo Federal con la ratificación del Senado.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+El Presidente de cada uno de los órganos será nombrado por la Cámara de Senadores de entre los comisionados, por el voto de las dos terceras partes de los miembros presentes, por un periodo de cuatro años, renovable por una sola ocasión. Cuando la designación recaiga en un comisionado que concluya su encargo antes de dicho periodo, desempeñará la presidencia sólo por el tiempo que falte para concluir su encargo como comisionado.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+Los comisionados deberán cumplir los siguientes requisitos:
+
+I. Ser ciudadano mexicano por nacimiento y estar en pleno goce de sus derechos civiles y políticos;
+
+II. Ser mayor de treinta y cinco años;
+
+III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+IV. Poseer título profesional;
+
+V. Haberse desempeñado, cuando menos tres años, en forma destacada en actividades profesionales, de servicio público o académicas sustancialmente relacionadas con materias afines a las de competencia económica, radiodifusión o telecomunicaciones, según corresponda;
+
+VI. Acreditar, en los términos de este precepto, los conocimientos técnicos necesarios para el ejercicio del cargo;
+
+VII. No haber sido Secretario de Estado, Procurador General de la República, senador, diputado federal o local, Gobernador de algún Estado o Jefe de Gobierno del Distrito Federal, durante el año previo a su nombramiento, y
+
+VIII. En la Comisión Federal de Competencia Económica, no haber ocupado, en los últimos tres años, ningún empleo, cargo o función directiva en las empresas que hayan estado sujetas a alguno de los procedimientos sancionatorios que sustancia el citado órgano. En el Instituto Federal de Telecomunicaciones no haber ocupado, en los últimos tres años, ningún empleo, cargo o función directiva en las empresas de los concesionarios comerciales o privados o de las entidades a ellos relacionadas, sujetas a la regulación del Instituto.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+Los Comisionados se abstendrán de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes; estarán impedidos para conocer asuntos en que tengan interés directo o indirecto, en los términos que la ley determine, y serán sujetos del régimen de responsabilidades del Título Cuarto de esta Constitución y de juicio político. La ley regulará las modalidades conforme a las cuales los Comisionados podrán establecer contacto para tratar asuntos de su competencia con personas que representen los intereses de los agentes económicos regulados.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+Los Comisionados durarán en su encargo nueve años y por ningún motivo podrán desempeñar nuevamente ese cargo. En caso de falta absoluta de algún comisionado, se procederá a la designación correspondiente, a través del procedimiento previsto en este artículo y a fin de que el sustituto concluya el periodo respectivo.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+Los aspirantes a ser designados como Comisionados acreditarán el cumplimiento de los requisitos señalados en los numerales anteriores, ante un Comité de Evaluación integrado por los titulares del Banco de México, el Instituto Nacional para la Evaluación de la Educación y el Instituto Nacional de Estadística y Geografía. Para tales efectos, el Comité de Evaluación instalará sus sesiones cada que tenga lugar una vacante de comisionado, decidirá por mayoría de votos y será presidido por el titular de la entidad con mayor antigüedad en el cargo, quien tendrá voto de calidad.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+El Comité emitirá una convocatoria pública para cubrir la vacante. Verificará el cumplimiento, por parte de los aspirantes, de los requisitos contenidos en el presente artículo y, a quienes los hayan satisfecho, aplicará un examen de conocimientos en la materia; el procedimiento deberá observar los principios de transparencia, publicidad y máxima concurrencia.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+Para la formulación del examen de conocimientos, el Comité de Evaluación deberá considerar la opinión de cuando menos dos instituciones de educación superior y seguirá las mejores prácticas en la materia.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+El Comité de Evaluación, por cada vacante, enviará al Ejecutivo una lista con un mínimo de tres y un máximo de cinco aspirantes, que hubieran obtenido las calificaciones aprobatorias más altas. En el caso de no completarse el número mínimo de aspirantes se emitirá una nueva convocatoria. El Ejecutivo seleccionará de entre esos aspirantes, al candidato que propondrá para su ratificación al Senado.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+La ratificación se hará por el voto de las dos terceras partes de los miembros del Senado presentes, dentro del plazo improrrogable de treinta días naturales a partir de la presentación de la propuesta; en los recesos, la Comisión Permanente convocará desde luego al Senado. En caso de que la Cámara de Senadores rechace al candidato propuesto por el Ejecutivo, el Presidente de la República someterá una nueva propuesta, en los términos del párrafo anterior. Este procedimiento se repetirá las veces que sea necesario si se producen nuevos rechazos hasta que sólo quede un aspirante aprobado por el Comité de Evaluación, quien será designado comisionado directamente por el Ejecutivo.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+Todos los actos del proceso de selección y designación de los Comisionados son inatacables.
 
 > <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
@@ -994,7 +1146,7 @@ Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias,
 
 DE LOS EXTRANJEROS.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
 ###### Art. 33.
 
@@ -1384,7 +1536,7 @@ La demarcación territorial de los 300 distritos electorales uninominales será 
 
 Para la elección de los 200 diputados según el principio de representación proporcional y el Sistema de Listas Regionales, se constituirán cinco circunscripciones electorales plurinominales en el país. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
 ###### Art. 54.
 
@@ -1506,7 +1658,7 @@ El Presidente de cada Cámara velará por el respeto al fuero constitucional de 
 
 Los diputados y senadores propietarios durante el período de su encargo, no podrán desempeñar ninguna otra comisión o empleo de la Federación o de los Estados por los cuales se disfrute sueldo, sin licencia previa de la Cámara respectiva; pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La misma regla se observará con los diputados y senadores suplentes, cuando estuviesen en ejercicio. La infracción de esta disposición será castigada con la pérdida del carácter de diputado o senador.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE OCTUBRE DE 2003)</small>
 
 ###### Art. 63.
 
@@ -1524,7 +1676,7 @@ Incurrirán en responsabilidad, y se harán acreedores a las sanciones que la le
 
 Los diputados y senadores que no concurran a una sesión, sin causa justificada o sin permiso de la Cámara respectiva, no tendrán derecho a la dieta correspondiente al día en que falten.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2004)</small>
 
 ###### Art. 65.
 
@@ -1538,7 +1690,7 @@ En ambos Períodos de Sesiones el Congreso se ocupará del estudio, discusión y
 
 En cada Período de Sesiones Ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
 ###### Art. 66.
 
@@ -1732,7 +1884,9 @@ XVI.- Para dictar leyes sobre nacionalidad, condición jurídica de los extranje
 
 4a.- Las medidas que el Consejo haya puesto en vigor en la Campaña contra el alcoholismo y la venta de sustancias que envenenan al individuo o degeneran la especie humana, así como las adoptadas para prevenir y combatir la contaminación ambiental, serán después revisadas por el Congreso de la Unión en los casos que le competan.
 
-XVII.- Para dictar leyes sobre vías generales de comunicación, y sobre postas y correos, para expedir leyes sobre el uso y aprovechamiento de las aguas de jurisdicción federal.
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+XVII.- Para dictar leyes sobre vías generales de comunicación, tecnologías de la información y la comunicación, radiodifusión, telecomunicaciones, incluida la banda ancha e Internet, postas y correos, y sobre el uso y aprovechamiento de las aguas de jurisdicción federal.
 
 > <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1898,7 +2052,7 @@ II.- Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión,
 
 III.- (DEROGADA, D.O.F. 30 DE JULIO DE 1999)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
 
 IV.- Aprobar anualmente el Presupuesto de Egresos de la Federación, previo examen, discusión y, en su caso, modificación del Proyecto enviado por el Ejecutivo Federal, una vez aprobadas las contribuciones que, a su juicio, deben decretarse para cubrirlo. Asimismo, podrá autorizar en dicho Presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos.
 
@@ -1914,11 +2068,11 @@ Cuando inicie su encargo en la fecha prevista por el artículo 83, el Ejecutivo 
 
 No podrá haber otras partidas secretas, fuera de las que se consideren necesarias, con ese carácter, en el mismo presupuesto; las que emplearán los secretarios por acuerdo escrito del Presidente de la República.
 
-> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
 
-> <small>(DEROGADO SEXTO PARRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
 
-> <small>(DEROGADO SEPTIMO PARRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2008)</small>
 
@@ -2056,9 +2210,9 @@ V. Otorgar o negar su ratificación a la designación del Procurador General de 
 
 VI. Conceder licencia hasta por sesenta días naturales al Presidente de la República;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2013)</small>
 
-VII. Ratificar los nombramientos que el Presidente haga de embajadores, cónsules generales, empleados superiores de Hacienda, integrantes de los órganos colegiados encargados de la regulación en materia de telecomunicaciones, energía y competencia económica, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga, y
+VII. Ratificar los nombramientos que el Presidente haga de embajadores, cónsules generales, empleados superiores de Hacienda, integrantes del órgano colegiado encargado de la regulación en materia de energía, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga, y
 
 VIII. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los legisladores.
 
@@ -2316,7 +2470,7 @@ Para ser secretario del Despacho se requiere: ser ciudadano mexicano por nacimie
 
 Todos los reglamentos, decretos, acuerdos y órdenes del Presidente deberán estar firmados por el Secretario de Estado a que el asunto corresponda, y sin este requisito no serán obedecidos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2007)</small>
 
 ###### Art. 93.
 
@@ -2342,7 +2496,7 @@ El ejercicio de estas atribuciones se realizará de conformidad con la Ley del C
 
 DEL PODER JUDICIAL.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE JUNIO DE 1999)</small>
 
 ###### Art. 94.
 
@@ -2364,29 +2518,29 @@ En los términos que la ley disponga las sesiones del Pleno y de las Salas será
 
 La competencia de la Suprema Corte, su funcionamiento en Pleno y Salas, la competencia de los Tribunales de Circuito, de los Juzgados de Distrito y del Tribunal Electoral, así como las responsabilidades en que incurran los servidores públicos del Poder Judicial de la Federación, se regirán por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
 
-El Consejo de la Judicatura Federal determinará el número, división en circuitos, competencia territorial y, en su caso, especialización por materia, de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+El Consejo de la Judicatura Federal determinará el número, división en circuitos, competencia territorial y especialización por materias, entre las que se incluirá la de radiodifusión, telecomunicaciones y competencia económica, de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 Asimismo, mediante acuerdos generales establecerá Plenos de Circuito, atendiendo al número y especialización de los Tribunales Colegiados que pertenezcan a cada Circuito. Las leyes determinarán su integración y funcionamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO. D.O.F. 6 DE JUNIO DE 2011)</small>
 
 El Pleno de la Suprema Corte de Justicia estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre las Salas de los asuntos que competa conocer a la Corte, así como remitir a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los asuntos, aquéllos en los que hubiera establecido jurisprudencia o los que, conforme a los referidos acuerdos, la propia Corte determine para una mejor impartición de justicia. Dichos acuerdos surtirán efectos después de publicados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 Los juicios de amparo, las controversias constitucionales y las acciones de inconstitucionalidad se substanciarán y resolverán de manera prioritaria cuando alguna de las Cámaras del Congreso, a través de su presidente, o el Ejecutivo Federal, por conducto del consejero jurídico del gobierno, justifique la urgencia atendiendo al interés social o al orden público, en los términos de lo dispuesto por las leyes reglamentarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -2396,19 +2550,19 @@ La ley fijará los términos en que sea obligatoria la jurisprudencia que establ
 
 La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito, los Jueces de Distrito y los Consejeros de la Judicatura Federal, así como los Magistrados Electorales, no podrá ser disminuida durante su encargo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 Los Ministros de la Suprema Corte de Justicia durarán en su encargo quince años, sólo podrán ser removidos del mismo en los términos del Título Cuarto de esta Constitución y, al vencimiento de su periodo, tendrán derecho a un haber por retiro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 Ninguna persona que haya sido ministro podrá ser nombrada para un nuevo periodo, salvo que hubiera ejercido el cargo con el carácter de provisional o interino.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2007)</small>
 
 ###### Art. 95.
 
@@ -2544,7 +2698,7 @@ En caso de vacante definitiva se nombrará a un nuevo Magistrado por el tiempo r
 
 El personal del Tribunal regirá sus relaciones de trabajo conforme a las disposiciones aplicables al Poder Judicial de la Federación y a las reglas especiales y excepciones que señale la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE JUNIO DE 1999)</small>
 
 ###### Art. 100.
 
@@ -2586,7 +2740,7 @@ Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no 
 
 La Suprema Corte de Justicia elaborará su propio presupuesto y el Consejo lo hará para el resto del Poder Judicial de la Federación, sin perjuicio de lo dispuesto en el párrafo séptimo del artículo 99 de esta Constitución. Los presupuestos así elaborados serán remitidos por el Presidente de la Suprema Corte para su inclusión en el proyecto de Presupuesto de Egresos de la Federación. La administración de la Suprema Corte de Justicia corresponderá a su Presidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 ###### Art. 101.
 
@@ -2608,11 +2762,11 @@ Los impedimentos de este artículo serán aplicables a los funcionarios judicial
 
 La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial de la Federación, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
-> <small>N. DE E. EL CONTENIDO DEL ANTERIOR ARTICULO 102, PASA A SER EL APARTADO A DEL PROPIO ARTICULO Y SE ADICIONA A ESTE UN APARTADO B, D.O.F. 28 DE ENERO DE 1992.</small>
+> <small>N. DE E. EL CONTENIDO DEL ANTERIOR ARTÍCULO 102, PASA A SER EL APARTADO A DEL PROPIO ARTÍCULO Y SE ADICIONA A ESTE UN APARTADO B, D.O.F. 28 DE ENERO DE 1992.</small>
 
 ###### Art. 102.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 A. La ley organizará el Ministerio Publico de la Federación, cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva. El Ministerio Público de la Federación estará presidido por un Procurador General de la República, designado por el Titular del Ejecutivo Federal con ratificación del Senado o, en sus recesos, de la Comisión Permanente. Para ser Procurador se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso. El procurador podrá ser removido libremente por el Ejecutivo.
 
@@ -2670,7 +2824,7 @@ La Comisión Nacional de los Derechos Humanos conocerá de las inconformidades q
 
 La Comisión Nacional de los Derechos Humanos podrá investigar hechos que constituyan violaciones graves de derechos humanos, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, alguna de las Cámaras del Congreso de la Unión, el gobernador de un Estado, el Jefe de Gobierno del Distrito Federal o las legislaturas de las entidades federativas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -2684,7 +2838,7 @@ II. Por normas generales o actos de la autoridad federal que vulneren o restrinj
 
 III. Por normas generales o actos de las autoridades de los Estados o del Distrito Federal que invadan la esfera de competencia de la autoridad federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -2738,15 +2892,23 @@ h).- Dos Poderes de un mismo Estado, sobre la constitucionalidad de sus actos o 
 
 i).- Un Estado y uno de sus municipios, sobre la constitucionalidad de sus actos o disposiciones generales;
 
-j).- Un Estado y un municipio de otro Estado, sobre la constitucionalidad de sus actos o disposiciones generales; y
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
 
-k).- Dos órganos de gobierno del Distrito Federal, sobre la constitucionalidad de sus actos o disposiciones generales.
+j).- Un Estado y un Municipio de otro Estado, sobre la constitucionalidad de sus actos o disposiciones generales;
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+k).- Dos órganos de gobierno del Distrito Federal, sobre la constitucionalidad de sus actos o disposiciones generales, y
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+
+l).- Dos órganos constitucionales autónomos, y entre uno de éstos y el Poder Ejecutivo de la Unión o el Congreso de la Unión sobre la constitucionalidad de sus actos o disposiciones generales.
 
 Siempre que las controversias versen sobre disposiciones generales de los Estados o de los municipios impugnadas por la Federación, de los municipios impugnadas por los Estados, o en los casos a que se refieren los incisos c), h) y k) anteriores, y la resolución de la Suprema Corte de Justicia las declare inválidas, dicha resolución tendrá efectos generales cuando hubiera sido aprobada por una mayoría de por lo menos ocho votos.
 
 En los demás casos, las resoluciones de la Suprema Corte de Justicia tendrán efectos únicamente respecto de las partes en la controversia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 II.- De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.
 
@@ -2792,15 +2954,15 @@ En caso de incumplimiento de las resoluciones a que se refieren las fracciones I
 
 Corresponde al Poder Judicial de la Federación, en los términos de la ley respectiva, dirimir las controversias que, por razón de competencia, se susciten entre los Tribunales de la Federación, entre éstos y los de los Estados o del Distrito Federal, entre los de un Estado y los de otro, o entre los de un Estado y los del Distrito Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 ###### Art. 107.
 
 Las controversias de que habla el artículo 103 de esta Constitución, con excepción de aquellas en materia electoral, se sujetarán a los procedimientos que determine la ley reglamentaria, de acuerdo con las bases siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -2808,7 +2970,7 @@ I.- El juicio de amparo se seguirá siempre a instancia de parte agraviada, teni
 
 Tratándose de actos o resoluciones provenientes de tribunales judiciales, administrativos o del trabajo, el quejoso deberá aducir ser titular de un derecho subjetivo que se afecte de manera personal y directa;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -2830,7 +2992,7 @@ En los juicios a que se refiere el párrafo anterior no procederán, en perjuici
 
 III.- Cuando se reclamen actos de tribunales judiciales, administrativos o del trabajo, el amparo sólo procederá en los casos siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -2846,7 +3008,7 @@ b).- Contra actos en juicio cuya ejecución sea de imposible reparación, fuera 
 
 c).- Contra actos que afecten a personas extrañas al juicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -2854,9 +3016,9 @@ IV.- En materia administrativa el amparo procede, además, contra actos u omisio
 
 No existe obligación de agotar tales recursos o medios de defensa si el acto reclamado carece de fundamentación o cuando sólo se aleguen violaciones directas a esta Constitución;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 V.- El amparo contra sentencias definitivas, laudos o resoluciones que pongan fin al juicio se promoverá ante el Tribunal Colegiado de Circuito competente de conformidad con la ley, en los casos siguientes:
 
@@ -2882,23 +3044,23 @@ d).- En materia laboral, cuando se reclamen laudos dictados por las Juntas Local
 
 La Suprema Corte de Justicia, de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, o del Procurador General de la República, podrá conocer de los amparos directos que por su interés y trascendencia así lo ameriten.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 VI.- En los casos a que se refiere la fracción anterior, la ley reglamentaria señalará el procedimiento y los términos a que deberán someterse los Tribunales Colegiados de Circuito y, en su caso, la Suprema Corte de Justicia de la Nación para dictar sus resoluciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 VII.- El amparo contra actos u omisiones en juicio, fuera de juicio o después de concluido, o que afecten a personas extrañas al juicio, contra normas generales o contra actos u omisiones de autoridad administrativa, se interpondrá ante el Juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse, y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos, pronunciándose en la misma audiencia la sentencia;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 VIII.- Contra las sentencias que pronuncien en amparo los Jueces de Distrito o los Tribunales Unitarios de Circuito procede revisión. De ella conocerá la Suprema Corte de Justicia:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -2916,13 +3078,13 @@ La Suprema Corte de Justicia, de oficio o a petición fundada del correspondient
 
 En los casos no previstos en los párrafos anteriores, conocerán de la revisión los tribunales colegiados de circuito y sus sentencias no admitirán recurso alguno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 IX.- En materia de amparo directo procede el recurso de revisión en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales, establezcan la interpretación directa de un precepto de esta Constitución u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que fijen un criterio de importancia y trascendencia, según lo disponga la Suprema Corte de Justicia de la Nación, en cumplimiento de los acuerdos generales del Pleno. La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales, sin poder comprender otras;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -2930,7 +3092,7 @@ X.- Los actos reclamados podrán ser objeto de suspensión en los casos y median
 
 Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en materia penal al comunicarse la promoción del amparo, y en las materias civil, mercantil y administrativa, mediante garantía que dé el quejoso para responder de los daños y perjuicios que tal suspensión pudiere ocasionar al tercero interesado. La suspensión quedará sin efecto si éste último da contragarantía para asegurar la reposición de las cosas al estado que guardaban si se concediese el amparo y a pagar los daños y perjuicios consiguientes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -2942,7 +3104,7 @@ XII.- La violación de las garantías de los artículos 16, en materia penal, 19
 
 Si el Juez de Distrito o el Tribunal Unitario de Circuito no residieren en el mismo lugar en que reside la autoridad responsable, la ley determinará el juez o tribunal ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -2954,7 +3116,7 @@ Cuando las Salas de la Suprema Corte de Justicia de la Nación sustenten tesis c
 
 Las resoluciones que pronuncien el Pleno o las Salas de la Suprema Corte de Justicia así como los Plenos de Circuito conforme a los párrafos anteriores, sólo tendrán el efecto de fijar la jurisprudencia y no afectarán las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 XIV.- (DEROGADA, D.O.F. 6 DE JUNIO DE 2011)
 
@@ -2962,7 +3124,7 @@ XIV.- (DEROGADA, D.O.F. 6 DE JUNIO DE 2011)
 
 XV.- El Procurador General de la República o el Agente del Ministerio Público Federal que al efecto designare, será parte en todos los juicios de amparo; pero podrán abstenerse de intervenir en dichos juicios, cuando el caso de que se trate carezca a su juicio, de interés público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -2974,23 +3136,23 @@ El cumplimiento sustituto de las sentencias de amparo podrá ser solicitado por 
 
 No podrá archivarse juicio de amparo alguno, sin que se haya cumplido la sentencia que concedió la protección constitucional;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 XVII.- La autoridad responsable que desobedezca un auto de suspensión o que, ante tal medida, admita por mala fe o negligencia fianza o contrafianza que resulte ilusoria o insuficiente, será sancionada penalmente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-XVIII.- (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 1993) (REPUBLICADA DEROGACION, D.O.F. 6 DE JUNIO DE 2011)
+XVIII.- (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 1993) (REPUBLICADA DEROGACIÓN, D.O.F. 6 DE JUNIO DE 2011)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 14 DE JUNIO DE 2002)</small>
 
 ## TITULO CUARTO.
 
 DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 ###### Art. 108.
 
@@ -3028,7 +3190,7 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Cámara de Diputados del Congreso de la Unión respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2007)</small>
 
 ###### Art. 110.
 
@@ -3054,7 +3216,7 @@ Conociendo de la acusación la Cámara de Senadores, erigida en Jurado de senten
 
 Las declaraciones y resoluciones de las Cámaras de Diputados y Senadores son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2007)</small>
 
 ###### Art. 111.
 
@@ -3110,7 +3272,7 @@ Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido 
 
 Las leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 109, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VER PRIMER PARRAFO DEL ARTICULO UNICO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VER PRIMER PÁRRAFO DEL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2002)</small>
 
@@ -3126,7 +3288,7 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 109. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
 ## TITULO QUINTO.
 
@@ -3138,7 +3300,7 @@ DE LOS ESTADOS DE LA FEDERACION Y DEL DISTRITO FEDERAL.
 
 Los Estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, popular, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre, conforme a las bases siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1999)</small>
 
 I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de regidores y síndicos que la ley determine. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
@@ -3178,7 +3340,7 @@ e) Las disposiciones aplicables en aquellos municipios que no cuenten con los ba
 
 Las legislaturas estatales emitirán las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el gobierno del estado, o entre aquéllos, con motivo de los actos derivados de los incisos c) y d) anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1999)</small>
 
 III.- Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 
@@ -3272,7 +3434,7 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero 
 
 VI.- Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas formen o tiendan a formar una continuidad demográfica, la Federación, las entidades federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la ley federal de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 VII.- La policía preventiva estará al mando del presidente municipal en los términos de la Ley de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
@@ -3438,7 +3600,7 @@ II.- Tener, en ningún tiempo, tropa permanente ni buques de guerra.
 
 III.- Hacer la guerra por sí a alguna potencia extranjera, exceptuándose los casos de invasión y de peligro tan inminente, que no admita demora. En estos casos darán cuenta inmediata al Presidente de la República.
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
 ###### Art. 119.
 
@@ -3672,7 +3834,7 @@ H. Las prohibiciones y limitaciones que esta Constitución establece para los Es
 
 DEL TRABAJO Y DE LA PREVISION SOCIAL.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 ###### Art. 123.
 
@@ -3682,7 +3844,7 @@ Toda persona tiene derecho al trabajo digno y socialmente útil; al efecto, se p
 
 El Congreso de la Unión, sin contravenir a las bases siguientes deberá expedir leyes sobre el trabajo, las cuales regirán:
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
 A.- Entre los obreros, jornaleros, empleados domésticos, artesanos y de una manera general, todo contrato de trabajo:
 
@@ -3824,7 +3986,7 @@ XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativ
 
 XXXI.- La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en los asuntos relativos a:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE JUNIO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE JUNIO DE 1990)</small>
 
 a) Ramas industriales y servicios:
 
@@ -3886,7 +4048,7 @@ b) Empresas:
 
 También será competencia exclusiva de las autoridades federales, la aplicación de las disposiciones de trabajo en los asuntos relativos a conflictos que afecten a dos o más Entidades Federativas; contratos colectivos que hayan sido declarados obligatorios en más de una Entidad Federativa; obligaciones patronales en materia educativa, en los términos de Ley; y respecto a las obligaciones de los patrones en materia de capacitación y adiestramiento de sus trabajadores, así como de seguridad e higiene en los centros de trabajo, para lo cual, las autoridades federales contarán con el auxilio de las estatales, cuando se trate de ramas o actividades de jurisdicción local, en los términos de la ley reglamentaria correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
 B.- Entre los Poderes de la Unión, el Gobierno del Distrito Federal y sus trabajadores:
 
@@ -3902,7 +4064,7 @@ II.- Por cada seis días de trabajo, disfrutará el trabajador de un día de des
 
 III.- Los trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
 IV.- Los salarios serán fijados en los presupuestos respectivos sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 127 de esta Constitución y en la ley.
 
@@ -4056,7 +4218,7 @@ Los actos del estado civil de las personas son de la exclusiva competencia de la
 
 Las autoridades federales, de los estados y de los municipios tendrán en esta materia las facultades y responsabilidades que determine la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
 ###### Art. 131.
 
@@ -4076,7 +4238,7 @@ Los fuertes, los cuarteles, almacenes de depósito y demás bienes inmuebles des
 
 Esta Constitución, las leyes del Congreso de la Unión que emanen de ella y todos los Tratados que estén de acuerdo con la misma, celebrados y que se celebren por el Presidente de la República, con aprobación del Senado, serán la Ley Suprema de toda la Unión. Los jueces de cada Estado se arreglarán a dicha Constitución, leyes y tratados, a pesar de las disposiciones en contrario que pueda haber en las Constituciones o leyes de los Estados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
 
 ###### Art. 134.
 
@@ -4122,7 +4284,7 @@ DE LAS REFORMAS DE LA CONSTITUCION.
 
 La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso de la Unión, por el voto de las dos terceras partes de los individuos presentes, acuerden las reformas o adiciones, y que éstas sean aprobadas por la mayoría de las legislaturas de los Estados.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES PARTE FINAL DEL PRIMER PARRAFO], D.O.F. 21 DE OCTUBRE DE 1966)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES PARTE FINAL DEL PRIMER PÁRRAFO], D.O.F. 21 DE OCTUBRE DE 1966)</small>
 
 El Congreso de la Unión o la Comisión Permanente en su caso, harán el cómputo de los votos de las Legislaturas y la declaración de haber sido aprobadas las adiciones o reformas.
 
@@ -4236,27 +4398,27 @@ Constitución y Reformas.- México, cinco de febrero de mil novecientos diez y s
 
 Al Ciudadano ..
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 D.O.F. 8 DE JULIO DE 1921.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
 
 D.O.F. 24 DE NOVIEMBRE DE 1923.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
 
 D.O.F. 22 DE ENERO DE 1927.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
 
 D.O.F. 24 DE ENERO DE 1928.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
 
 D.O.F. 20 DE AGOSTO DE 1928.
 
-LEY QUE REFORMA LOS ARTICULOS 73, 74, 76, 79, 89, 94, 96, 97, 98, 99, 100 Y 111.
+LEY QUE REFORMA LOS ARTÍCULOS 73, 74, 76, 79, 89, 94, 96, 97, 98, 99, 100 Y 111.
 
 ###### ARTICULO 1o.
 
@@ -4278,7 +4440,7 @@ Los actuales Jueces del Orden Común del Distrito Federal y de los Territorios, 
 
 D.O.F. 20 DE AGOSTO DE 1928.
 
-LEY QUE REFORMA EL ARTICULO 52 Y EL PARRAFO CUARTO DE LA FRACCION III DEL ARTICULO 115.
+LEY QUE REFORMA EL ARTÍCULO 52 Y EL PÁRRAFO CUARTO DE LA FRACCIÓN III DEL ARTÍCULO 115.
 
 PRIMERO.- La reforma del artículo 52 constitucional entrará en vigor al verificarse las elecciones para integrar la Cámara de Diputados del XXXIV Congreso de la Unión, en el año de 1930.
 
@@ -4288,21 +4450,21 @@ TERCERO.- Las reformas al párrafo cuarto de la fracción III del artículo 115 
 
 D.O.F. 20 DE AGOSTO DE 1928.
 
-LEY QUE REFORMA LAS BASES 1a., 2a., Y 3a. DE LA FRACCION VI DEL ARTICULO 73.
+LEY QUE REFORMA LAS BASES 1a., 2a., Y 3a. DE LA FRACCIÓN VI DEL ARTÍCULO 73.
 
 Unico.- Esta ley entrará en vigor el día primero de enero de mil novecientos veintinueve.
 
 D.O.F. 6 DE SEPTIEMBRE DE 1929.
 
-LA LEY DE REFORMAS CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+LA LEY DE REFORMAS CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
 
 D.O.F. 7 DE FEBRERO DE 1931.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
 
 D.O.F. 19 DE DICIEMBRE DE 1931.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
 
 D.O.F. 27 DE ABRIL DE 1933.
 
@@ -4318,7 +4480,7 @@ En las próximas elecciones ordinarias de Poderes Federales, se elegirán Senado
 
 D.O.F. 4 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 10 DE ENERO DE 1934.
 
@@ -4326,25 +4488,25 @@ UNICO.- Se abroga la Ley de 6 de enero de 1915, sus reformas y demás disposicio
 
 D.O.F. 18 DE ENERO DE 1934.
 
-DECRETO QUE REFORMA EL ARTICULO 42.
+DECRETO QUE REFORMA EL ARTÍCULO 42.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 18 DE ENERO DE 1934.
-
-DECRETO QUE REFORMA LOS ARTICULOS 30, 37, 73, FRACCION XVI Y 133.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 18 DE ENERO DE 1934.
 
-DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 73.
+DECRETO QUE REFORMA LOS ARTÍCULOS 30, 37, 73, FRACCIÓN XVI Y 133.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 18 DE ENERO DE 1934.
 
-DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 104.
+DECRETO QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 73.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
+
+D.O.F. 18 DE ENERO DE 1934.
+
+DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 104.
 
 ###### ARTICULO UNICO.
 
@@ -4362,7 +4524,7 @@ UNICO.- Las presentes reformas constitucionales entrarán en vigor el día prime
 
 D.O.F. 15 DE DICIEMBRE DE 1934.
 
-DECRETO QUE REFORMA EL ULTIMO PARRAFO DE LA BASE 4ª DE LA FRACCION VI DEL ARTICULO 73, EL ARTICULO 94 Y LAS FRACCIONES II Y III DEL ARTICULO 95.
+DECRETO QUE REFORMA EL ÚLTIMO PÁRRAFO DE LA BASE 4ª DE LA FRACCIÓN VI DEL ARTÍCULO 73, EL ARTÍCULO 94 Y LAS FRACCIONES II Y III DEL ARTÍCULO 95.
 
 ###### ARTICULO PRIMERO.
 
@@ -4382,7 +4544,7 @@ La Suprema Corte de Justicia de la Nación designará a los nuevos magistrados d
 
 D.O.F. 15 DE DICIEMBRE DE 1934.
 
-DECRETO QUE REFORMA EL ARTICULO 32.
+DECRETO QUE REFORMA EL ARTÍCULO 32.
 
 ###### ARTICULO 1o.
 
@@ -4416,39 +4578,39 @@ Los Estados de Yucatán y Campeche, una vez que entre en vigor esta reforma cons
 
 D.O.F. 18 DE ENERO DE 1935.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 6 DE DICIEMBRE DE 1937.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 12 DE AGOSTO DE 1938.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 31 DE DICIEMBRE DE 1938.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 11 DE SEPTIEMBRE DE 1940.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 9 DE NOVIEMBRE DE 1940.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 14 DE DICIEMBRE DE 1940.
 
-DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 73.
+DECRETO QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 73.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 14 DE DICIEMBRE DE 1940.
 
-DECRETO QUE ADICIONA LA BASE SEGUNDA DE LA FRACCION VI DEL ARTICULO 73.
+DECRETO QUE ADICIONA LA BASE SEGUNDA DE LA FRACCIÓN VI DEL ARTÍCULO 73.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 24 DE OCTUBRE DE 1942.
 
@@ -4456,11 +4618,11 @@ UNICO.- La presente Ley entrará en vigor el día 1º del mes siguiente al en qu
 
 D.O.F. 17 DE NOVIEMBRE DE 1942.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 18 DE NOVIEMBRE DE 1942.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 30 DE DICIEMBRE DE 1942.
 
@@ -4470,11 +4632,11 @@ La presente ley entrará en vigor quince días después de la fecha en que se pu
 
 D.O.F. 8 DE ENERO DE 1943.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 10 DE FEBRERO DE 1944.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 21 DE SEPTIEMBRE DE 1944.
 
@@ -4488,11 +4650,11 @@ La Suprema Corte y el Tribunal Superior de Justicia del Distrito y Territorios F
 
 D.O.F. 21 DE ABRIL DE 1945.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 30 DE DICIEMBRE DE 1946.
 
-DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 104.
+DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 104.
 
 ###### ARTICULO UNICO.
 
@@ -4500,41 +4662,41 @@ Esta Ley entrará en vigor diez días después de su publicación en el "Diario 
 
 D.O.F. 30 DE DICIEMBRE DE 1946.
 
-DECRETO QUE REFORMA EL ARTICULO 3°.
+DECRETO QUE REFORMA EL ARTÍCULO 3°.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 30 DE DICIEMBRE DE 1946.
 
-DECRETO QUE REFORMA LA FRACCION VIII DEL ARTICULO 73 Y ADICIONA LA FRACCION VIII DEL ARTICULO 117.
+DECRETO QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 73 Y ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 117.
 
 UNICO.- Este Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 
 D.O.F. 12 DE FEBRERO DE 1947.
 
-DECRETO QUE REFORMA LAS FRACCIONES X, XIV Y XV DEL ARTICULO 27.
+DECRETO QUE REFORMA LAS FRACCIONES X, XIV Y XV DEL ARTÍCULO 27.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 12 DE FEBRERO DE 1947.
 
-DECRETO QUE ADICIONA EL PARRAFO PRIMERO DE LA FRACCION I DEL ARTICULO 115.
+DECRETO QUE ADICIONA EL PÁRRAFO PRIMERO DE LA FRACCIÓN I DEL ARTÍCULO 115.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 29 DE DICIEMBRE DE 1947.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 2 DE DICIEMBRE DE 1948.
 
-DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 20.
+DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 20.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 2 DE DICIEMBRE DE 1948.
 
-DECRETO QUE ADICIONA LA FRACCION I DEL ARTICULO 27.
+DECRETO QUE ADICIONA LA FRACCIÓN I DEL ARTÍCULO 27.
 
 ###### ARTICULO UNICO.
 
@@ -4542,7 +4704,7 @@ La presente adición a la fracción I del artículo 27 de la Constitución Gener
 
 D.O.F. 10 DE FEBRERO DE 1949.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 19 DE FEBRERO DE 1951.
 
@@ -4612,7 +4774,7 @@ La presente reforma entrará en vigor el día de su publicación en el "Diario O
 
 D.O.F. 17 DE OCTUBRE DE 1953.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 20 DE ENERO DE 1960.
 
@@ -4666,13 +4828,13 @@ TRANSITORIO.- La presente adición entrará en vigor a partir de los cinco días
 
 D.O.F. 21 DE OCTUBRE DE 1966.
 
-DECRETO QUE REFORMA LA FRACCION XIII DEL ARTICULO 73 Y DEROGA LA FRACCION IX DEL ARTICULO 89 Y LA FRACCION II DEL ARTICULO 117.
+DECRETO QUE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 73 Y DEROGA LA FRACCIÓN IX DEL ARTÍCULO 89 Y LA FRACCIÓN II DEL ARTÍCULO 117.
 
 UNICO.- Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 
 D.O.F. 21 DE OCTUBRE DE 1966.
 
-DECRETO QUE REFORMA LA FRACCION III Y ADICIONA LA FRACCION VII DEL ARTICULO 79, REFORMA EL ARTICULO 88, LA FRACCION XVI DEL ARTICULO 89 Y ADICIONA EL PARRAFO ULTIMO DEL ARTICULO 135.
+DECRETO QUE REFORMA LA FRACCIÓN III Y ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 79, REFORMA EL ARTÍCULO 88, LA FRACCIÓN XVI DEL ARTÍCULO 89 Y ADICIONA EL PÁRRAFO ÚLTIMO DEL ARTÍCULO 135.
 
 UNICO.- Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 
@@ -4724,13 +4886,13 @@ UNICO.- Este Decreto entrará en vigor tres días después de su publicación en
 
 D.O.F. 6 DE JULIO DE 1971.
 
-DECRETO QUE REFORMA EL ARTICULO 74 Y ADICIONA EL ARTICULO 79.
+DECRETO QUE REFORMA EL ARTÍCULO 74 Y ADICIONA EL ARTÍCULO 79.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 6 DE JULIO DE 1971.
 
-DECRETO QUE ADICIONA LA BASE 4a. DE LA FRACCION XVI DEL ARTICULO 73.
+DECRETO QUE ADICIONA LA BASE 4a. DE LA FRACCIÓN XVI DEL ARTÍCULO 73.
 
 UNICO.- La presente reforma entrará en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
 
@@ -4740,13 +4902,13 @@ UNICO.- La presente reforma entrará en vigor el mismo día que entre en vigor l
 
 D.O.F. 14 DE FEBRERO DE 1972.
 
-DECRETO QUE REFORMA Y ADICIONA LOS ARTICULOS 52, 54 FRACCIONES I, II Y III; 55 FRACCION II Y 58.
+DECRETO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 52, 54 FRACCIONES I, II Y III; 55 FRACCIÓN II Y 58.
 
 TRANSITORIO.- Las presentes reformas y adiciones entrarán en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
 
 D.O.F. 14 DE FEBRERO DE 1972.
 
-DECRETO QUE REFORMA LA FRACCION XII DEL APARTADO A DEL ARTICULO 123.
+DECRETO QUE REFORMA LA FRACCIÓN XII DEL APARTADO A DEL ARTÍCULO 123.
 
 UNICO.- La presente reforma entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
 
@@ -4870,7 +5032,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 D.O.F. 6 DE FEBRERO DE 1975.
 
-DECLARATORIA QUE ADICIONA LA FRACCION XXXI DEL APARTADO A, DEL ARTICULO 123.
+DECLARATORIA QUE ADICIONA LA FRACCIÓN XXXI DEL APARTADO A, DEL ARTÍCULO 123.
 
 ###### ARTICULO PRIMERO.
 
@@ -4886,7 +5048,7 @@ El día en que entre en vigor esta Ley, los conflictos en los diversos ramos a q
 
 D.O.F. 6 DE FEBRERO DE 1975.
 
-DECLARATORIA QUE ADICIONA EL PARRAFO SEXTO Y SEPTIMO DEL ARTICULO 27 Y LA FRACCION X DEL ARTICULO 73.
+DECLARATORIA QUE ADICIONA EL PÁRRAFO SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y LA FRACCIÓN X DEL ARTÍCULO 73.
 
 ###### ARTICULO UNICO.
 
@@ -4908,13 +5070,13 @@ Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas 
 
 D.O.F. 6 DE FEBRERO DE 1976.
 
-DECRETO QUE ADICIONA DESPUES DEL PARRAFO SEPTIMO EL ARTICULO 27.
+DECRETO QUE ADICIONA DESPUÉS DEL PÁRRAFO SÉPTIMO EL ARTÍCULO 27.
 
 UNICO.- El presente Decreto entrará en vigor ciento veinte días después de su publicación en el "Diario Oficial" de la Federación.
 
 D.O.F. 6 DE FEBRERO DE 1976.
 
-DECRETO QUE REFORMA EL PARRAFO TERCERO DEL ARTICULO 27, SE ADICIONA LA FRACCION XXIX-C DEL ARTICULO 73 Y LAS FRACCIONES IV Y V DEL ARTICULO 115.
+DECRETO QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 27, SE ADICIONA LA FRACCIÓN XXIX-C DEL ARTÍCULO 73 Y LAS FRACCIONES IV Y V DEL ARTÍCULO 115.
 
 PRIMERO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
 
@@ -4938,13 +5100,13 @@ Las presentes adiciones y reformas entrarán en vigor al día siguiente de su pu
 
 D.O.F. 9 DE ENERO DE 1978.
 
-DECRETO QUE ADICIONA LA FRACCION XII Y REFORMA LA FRACCION XIII, AMBAS DEL APARTADO "A" DEL ARTICULO 123.
+DECRETO QUE ADICIONA LA FRACCIÓN XII Y REFORMA LA FRACCIÓN XIII, AMBAS DEL APARTADO "A" DEL ARTÍCULO 123.
 
 UNICO.- El Presente Decreto entrará en vigor al día siguiente del de su publicación en el "Diario Oficial" de la Federación.
 
 D.O.F. 9 DE ENERO DE 1978.
 
-DECRETO QUE REFORMA LA FRACCION XXXI, DEL APARTADO "A", DEL ARTICULO 123.
+DECRETO QUE REFORMA LA FRACCIÓN XXXI, DEL APARTADO "A", DEL ARTÍCULO 123.
 
 ###### ARTICULO PRIMERO.
 
@@ -4988,13 +5150,13 @@ Esta reforma entrará en vigor al día siguiente de su publicación en el "Diari
 
 D.O.F. 21 DE ABRIL DE 1981.
 
-DECRETO QUE REFORMA LA FRACCION VIII DEL ARTICULO 117.
+DECRETO QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 117.
 
 UNICO.- Una vez que el Congreso de la Unión o la Comisión Permanente, en su caso, hagan la declaración de haber sido aprobada esta Reforma, pasará al Ejecutivo Federal para su promulgación y publicación, y entrará en vigor a los quince días siguientes de efectuada la citada declaración.
 
 D.O.F. 21 DE ABRIL DE 1981.
 
-DECRETO QUE REFORMA LOS ARTICULOS 29, 90 Y 92.
+DECRETO QUE REFORMA LOS ARTÍCULOS 29, 90 Y 92.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
@@ -5006,7 +5168,7 @@ Esta reforma entrará en vigor al día siguiente de su publicación en el "Diari
 
 D.O.F. 17 DE NOVIEMBRE DE 1982.
 
-DECRETO QUE ADICIONA UN PARRAFO QUINTO AL ARTICULO 28, MODIFICA LA FRACCION X Y XVIII DEL ARTICULO 73, Y ADICIONA LA FRACCION XIII BIS DEL APARTADO B DEL ARTICULO 123.
+DECRETO QUE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 28, MODIFICA LA FRACCIÓN X Y XVIII DEL ARTÍCULO 73, Y ADICIONA LA FRACCIÓN XIII BIS DEL APARTADO B DEL ARTÍCULO 123.
 
 ###### ARTICULO PRIMERO.
 
@@ -5018,7 +5180,7 @@ En tanto se establecen por la Ley reglamentaria del párrafo quinto del Artícul
 
 D.O.F. 17 DE NOVIEMBRE DE 1982.
 
-DECRETO QUE REFORMA EL PARRAFO SEGUNDO DE LA FRACCION IV DEL ARTICULO 74.
+DECRETO QUE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN IV DEL ARTÍCULO 74.
 
 ###### ARTICULO UNICO.
 
@@ -5040,7 +5202,7 @@ Dentro del año siguiente a la entrada en vigor del presente Decreto, los Estado
 
 D.O.F. 3 DE FEBRERO DE 1983.
 
-DECRETO QUE ADICIONA DOS PARRAFOS AL ARTICULO 16, REFORMA EL ARTICULO 25, 26, ADICIONA LAS FRACCIONES XIX Y XX DEL ARTICULO 27, REFORMA EL ARTICULO 28 Y ADICIONA LAS FRACCIONES XXIX-D; XXIX-E Y XXIX-F AL ARTICULO 73.
+DECRETO QUE ADICIONA DOS PÁRRAFOS AL ARTÍCULO 16, REFORMA EL ARTÍCULO 25, 26, ADICIONA LAS FRACCIONES XIX Y XX DEL ARTÍCULO 27, REFORMA EL ARTÍCULO 28 Y ADICIONA LAS FRACCIONES XXIX-D; XXIX-E Y XXIX-F AL ARTÍCULO 73.
 
 ###### ARTICULO UNICO.
 
@@ -5048,7 +5210,7 @@ Las presentes reformas y adiciones a la Constitución Política de los Estados U
 
 D.O.F. 3 DE FEBRERO DE 1983.
 
-DECRETO QUE REFORMA Y ADICIONA EL ARTICULO 115.
+DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 115.
 
 ###### ARTICULO PRIMERO.
 
@@ -5060,7 +5222,7 @@ El Congreso de la Unión y las legislaturas de los Estados, en el plazo de un a�
 
 D.O.F. 3 DE FEBRERO DE 1983.
 
-DECRETO QUE ADICIONA UN PARRAFO PENULTIMO AL ARTICULO 4°.
+DECRETO QUE ADICIONA UN PÁRRAFO PENÚLTIMO AL ARTÍCULO 4°.
 
 ###### ARTICULO UNICO.
 
@@ -5068,7 +5230,7 @@ La presente adición entrará en vigor al día siguiente de su publicación en e
 
 D.O.F. 3 DE FEBRERO DE 1983.
 
-DECRETO QUE REFORMA EL ARTICULO 21.
+DECRETO QUE REFORMA EL ARTÍCULO 21.
 
 ###### ARTICULO UNICO.
 
@@ -5092,7 +5254,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 D.O.F. 7 DE ABRIL DE 1986.
 
-DECRETO QUE REFORMA LOS ARTICULOS 65, 66 Y 69, Y ADICIONA LOS ARTICULOS DECIMO SEPTIMO Y DECIMO OCTAVO TRANSITORIOS.
+DECRETO QUE REFORMA LOS ARTÍCULOS 65, 66 Y 69, Y ADICIONA LOS ARTÍCULOS DÉCIMO SÉPTIMO Y DECIMO OCTAVO TRANSITORIOS.
 
 ###### ARTICULO 1o.
 
@@ -5104,7 +5266,7 @@ Los Artículos Transitorios Décimo Séptimo y Décimo Octavo de la Constitució
 
 D.O.F. 7 DE ABRIL DE 1986.
 
-DECRETO QUE REFORMA LOS ARTICULOS 106 Y 107.
+DECRETO QUE REFORMA LOS ARTÍCULOS 106 Y 107.
 
 UNICO.- El presente decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Diario Oficial de la Federación.
 
@@ -5122,7 +5284,7 @@ El presente Decreto entrará en vigor el 1o. de enero de 1987.
 
 D.O.F. 17 DE MARZO DE 1987.
 
-DECRETO QUE REFORMA LOS ARTICULOS 17, 46, 115 Y 116.
+DECRETO QUE REFORMA LOS ARTÍCULOS 17, 46, 115 Y 116.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5130,7 +5292,7 @@ SEGUNDO.- Las legislaturas de los estados, en el plazo de un año, computado a p
 
 D.O.F. 17 DE MARZO DE 1987.
 
-DECRETO QUE REFORMA EL PARRAFO SEXTO DE LA FRACCION IV DEL ARTICULO 74.
+DECRETO QUE REFORMA EL PÁRRAFO SEXTO DE LA FRACCIÓN IV DEL ARTÍCULO 74.
 
 ###### ARTICULO UNICO.
 
@@ -5138,13 +5300,13 @@ El presente decreto entrará en vigor a partir del 1o. de septiembre de 1989.
 
 D.O.F. 10 DE AGOSTO DE 1987.
 
-DECRETO QUE ADICIONA LA FRACCION XXIX-H DEL ARTICULO 73, LA FRACCION I-B DEL ARTICULO 104 Y UN PARRAFO FINAL A LA FRACCION V DEL ARTICULO 107; REFORMA EL ARTICULO 94, EL PRIMER Y SEGUNDO PARRAFOS DEL ARTICULO 97, EL ARTICULO 101, Y EL INCISO A) DE LA FRACCION III, EL PRIMER PARRAFO Y EL INCISO B) DE LA FRACCION V Y LAS FRACCIONES VI, VIII Y XI DEL ARTICULO 107; DEROGA LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DE LA FRACCION I DEL ARTICULO 104 Y EL PARRAFO SEGUNDO DEL ARTICULO 107.
+DECRETO QUE ADICIONA LA FRACCIÓN XXIX-H DEL ARTÍCULO 73, LA FRACCIÓN I-B DEL ARTÍCULO 104 Y UN PÁRRAFO FINAL A LA FRACCIÓN V DEL ARTÍCULO 107; REFORMA EL ARTÍCULO 94, EL PRIMER Y SEGUNDO PÁRRAFOS DEL ARTÍCULO 97, EL ARTÍCULO 101, Y EL INCISO A) DE LA FRACCIÓN III, EL PRIMER PÁRRAFO Y EL INCISO B) DE LA FRACCIÓN V Y LAS FRACCIONES VI, VIII Y XI DEL ARTÍCULO 107; DEROGA LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DE LA FRACCIÓN I DEL ARTÍCULO 104 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 107.
 
 UNICO.- El presente Decreto entrará en vigor el día 15 de enero de 1988, previa su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 10 DE AGOSTO DE 1987.
 
-DECRETO QUE REFORMA LOS ARTICULOS 73 FRACCION VI, 79 FRACCION V, 89 FRACCIONES II Y XVII, 110 PRIMER PARRAFO, 111 PRIMER PARRAFO Y 127 Y SE DEROGA LA FRACCION VI DEL ARTICULO 74.
+DECRETO QUE REFORMA LOS ARTÍCULOS 73 FRACCIÓN VI, 79 FRACCIÓN V, 89 FRACCIONES II Y XVII, 110 PRIMER PÁRRAFO, 111 PRIMER PÁRRAFO Y 127 Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 74.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5162,7 +5324,7 @@ SEPTIMO.- El Colegio Electoral de la Asamblea de Representantes del Distrito Fed
 
 D.O.F. 10 DE AGOSTO DE 1987.
 
-DECRETO QUE REFORMA EL ARTICULO 78 Y ADICIONA UN ARTICULO DECIMO NOVENO TRANSITORIO.
+DECRETO QUE REFORMA EL ARTÍCULO 78 Y ADICIONA UN ARTÍCULO DÉCIMO NOVENO TRANSITORIO.
 
 ###### ARTICULO UNICO.
 
@@ -5170,7 +5332,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 D.O.F. 10 DE AGOSTO DE 1987.
 
-DECRETO QUE REFORMA EL PARRAFO TERCERO DEL ARTICULO 27 Y ADICIONA LA FRACCION XXIX-G DEL ARTICULO 73.
+DECRETO QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 27 Y ADICIONA LA FRACCIÓN XXIX-G DEL ARTÍCULO 73.
 
 ###### ARTICULO UNICO.
 
@@ -5220,7 +5382,7 @@ Los demás asuntos de naturaleza agraria que se encuentren en trámite o se pres
 
 D.O.F. 28 DE ENERO DE 1992.
 
-DECRETO QUE REFORMA LAS FRACCIONES I, II, III Y IV DEL ARTICULO 3; PARRAFO QUINTO DEL ARTICULO 5; ARTICULO 24; FRACCIONES II Y III DEL ARTICULO 27, EL ARTICULO 130 Y ADICIONA EL ARTICULO DECIMOSEPTIMO TRANSITORIO.
+DECRETO QUE REFORMA LAS FRACCIONES I, II, III Y IV DEL ARTÍCULO 3; PÁRRAFO QUINTO DEL ARTÍCULO 5; ARTÍCULO 24; FRACCIONES II Y III DEL ARTÍCULO 27, EL ARTÍCULO 130 Y ADICIONA EL ARTÍCULO DECIMOSÉPTIMO TRANSITORIO.
 
 ###### ARTICULO UNICO.
 
@@ -5228,7 +5390,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 D.O.F. 28 DE ENERO DE 1992.
 
-DECRETO QUE REFORMA EL ARTICULO 102.
+DECRETO QUE REFORMA EL ARTÍCULO 102.
 
 ###### ARTICULO 1o.
 
@@ -5244,7 +5406,7 @@ Las Legislaturas de los Estados dispondrán de un año a partir de la publicaci�
 
 D.O.F. 28 DE ENERO DE 1992.
 
-DECRETO QUE REFORMA EL ARTICULO 4.
+DECRETO QUE REFORMA EL ARTÍCULO 4.
 
 ###### ARTICULO UNICO.
 
@@ -5256,13 +5418,13 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 
 D.O.F. 20 DE AGOSTO DE 1993.
 
-DECRETO QUE ADICIONA LA FRACCION III DEL ARTICULO 82.
+DECRETO QUE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 82.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 20 DE AGOSTO DE 1993.
 
-DECRETO QUE REFORMA EL PARRAFO CUARTO Y ADICIONA LOS PARRAFOS SEXTO Y SEPTIMO DEL ARTICULO 28, REFORMA LA FRACCION X DEL ARTICULO 73 Y LA FRACCION XIII BIS DEL APARTADO B DEL ARTICULO 123.
+DECRETO QUE REFORMA EL PÁRRAFO CUARTO Y ADICIONA LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 28, REFORMA LA FRACCIÓN X DEL ARTÍCULO 73 Y LA FRACCIÓN XIII BIS DEL APARTADO B DEL ARTÍCULO 123.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5270,7 +5432,7 @@ SEGUNDO.- En tanto se expide la ley del banco central, reglamentaria del artícu
 
 D.O.F. 3 DE SEPTIEMBRE DE 1993.
 
-DECRETO QUE REFORMA Y ADICIONA LOS ARTICULOS 41, 54, 56, 60, 63, 74, Y 100.
+DECRETO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 41, 54, 56, 60, 63, 74, Y 100.
 
 Artículo Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
@@ -5278,7 +5440,7 @@ Artículo Segundo. Permanecerán en sus cargos los actuales Magistrados del Trib
 
 Artículo Tercero. En la elección federal de 1994 se elegirán, para cada Estado y el Distrito Federal, dos senadores de mayoría relativa y uno de primera minoría a las Legislaturas LVI y LVII del Congreso de la Unión, quienes durarán en funciones del 1o. de noviembre de 1994 a la fecha del término del ejercicio de la última legislatura citada. Para esta elección, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos en cada entidad federativa.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 Artículo Cuarto. Los diputados federales a la LVI Legislatura durarán en su encargo del 1o. de noviembre de 1994 a la fecha en que concluya la citada legislatura.
 
@@ -5288,7 +5450,7 @@ Artículo Sexto. Se derogan todas las disposiciones que se opongan a las reforma
 
 D.O.F. 3 DE SEPTIEMBRE DE 1993.
 
-DECRETO QUE REFORMA LOS ARTICULOS 16, 19, 20 Y 119 Y DEROGA LA FRACCION XVIII DEL ARTICULO 107.
+DECRETO QUE REFORMA LOS ARTÍCULOS 16, 19, 20 Y 119 Y DEROGA LA FRACCIÓN XVIII DEL ARTÍCULO 107.
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto por el Artículo Segundo Transitorio.
 
@@ -5296,7 +5458,7 @@ SEGUNDO.- Lo previsto en el párrafo primero de la fracción I, del artículo 20
 
 D.O.F. 3 DE SEPTIEMBRE DE 1993.
 
-DECRETO QUE REFORMA LOS ARTICULOS 65 Y 66.
+DECRETO QUE REFORMA LOS ARTÍCULOS 65 Y 66.
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5480,7 +5642,7 @@ CUARTO.- Los procesos a que aluden los artículos que se reforman, iniciados con
 
 D.O.F. 28 DE JUNIO DE 1999.
 
-DECRETO QUE ADICIONA LA FRACCION XXIX-J AL ARTICULO 73.
+DECRETO QUE ADICIONA LA FRACCIÓN XXIX-J AL ARTÍCULO 73.
 
 PRIMERO.- La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5488,13 +5650,13 @@ SEGUNDO.- Se fija como plazo máximo para la expedición de la ley reglamentaria
 
 D.O.F. 28 DE JUNIO DE 1999.
 
-DECRETO QUE ADICIONA UN PARRAFO QUINTO AL ARTICULO 4 Y REFORMA EL PRIMER PARRAFO DEL ARTICULO 25.
+DECRETO QUE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 4 Y REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 25.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 28 DE JUNIO DE 1999.
 
-DECRETO QUE REFORMA LA FRACCION XXIX-H Y ADICIONA LA FRACCION XXIX-I AL ARTICULO 73.
+DECRETO QUE REFORMA LA FRACCIÓN XXIX-H Y ADICIONA LA FRACCIÓN XXIX-I AL ARTÍCULO 73.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5574,13 +5736,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 D.O.F. 21 DE SEPTIEMBRE DE 2000.
 
-DECRETO QUE REFORMA LA FRACCION XXV DEL ARTICULO 73.
+DECRETO QUE REFORMA LA FRACCIÓN XXV DEL ARTÍCULO 73.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 21 DE SEPTIEMBRE DE 2000.
 
-DECRETO QUE DEROGA EL ULTIMO PARRAFO, REFORMA EL PRIMER PARRAFO Y LA FRACCION IV Y AGRUPA EL CONTENIDO DEL ARTICULO 20 EN UN APARTADO A Y SE ADICIONA EL APARTADO B.
+DECRETO QUE DEROGA EL ÚLTIMO PÁRRAFO, REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN IV Y AGRUPA EL CONTENIDO DEL ARTÍCULO 20 EN UN APARTADO A Y SE ADICIONA EL APARTADO B.
 
 ###### ARTICULO PRIMERO.
 
@@ -5726,7 +5888,7 @@ D.O.F. 14 DE SEPTIEMBRE DE 2006.
 
 D.O.F. 4 DE DICIEMBRE DE 2006.
 
-DECRETO POR EL QUE SE REFORMA LA FRACCION XXIX-H DEL ARTICULO 73.
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXIX-H DEL ARTÍCULO 73.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5734,7 +5896,7 @@ Artículo Segundo.- En tanto no se modifique la legislación que regula la mater
 
 D.O.F. 4 DE DICIEMBRE DE 2006.
 
-DECRETO QUE REFORMA EL ARTICULO 1.
+DECRETO QUE REFORMA EL ARTÍCULO 1.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5744,19 +5906,19 @@ D.O.F. 12 DE FEBRERO DE 2007.
 
 D.O.F. 19 DE JUNIO DE 2007.
 
-DECRETO QUE REFORMA LA FRACCION VI, DEL ARTICULO 82.
+DECRETO QUE REFORMA LA FRACCIÓN VI, DEL ARTÍCULO 82.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 19 DE JUNIO DE 2007.
 
-DECRETO QUE REFORMA LA FRACCION V, DEL ARTICULO 55.
+DECRETO QUE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 55.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 20 DE JULIO DE 2007.
 
-DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 73.
+DECRETO QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 73.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -5764,7 +5926,7 @@ SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al cont
 
 D.O.F. 20 DE JULIO DE 2007.
 
-DECRETO QUE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 6.
+DECRETO QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -5882,7 +6044,7 @@ Segundo. Las Legislaturas de los Estados deberán realizar las adecuaciones que 
 
 D.O.F. 30 DE ABRIL DE 2009.
 
-DECRETO POR EL QUE SE ADICIONA UN PARRAFO NOVENO AL ARTICULO 4o.; SE REFORMA LA FRACCION XXV Y SE ADICIONA UNA FRACCION XXIX-Ñ AL ARTICULO 73 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO NOVENO AL ARTÍCULO 4o.; SE REFORMA LA FRACCIÓN XXV Y SE ADICIONA UNA FRACCIÓN XXIX-Ñ AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5890,7 +6052,7 @@ Segundo. Todos los actos jurídicos emitidos y fundamentados en las leyes anteri
 
 D.O.F. 30 DE ABRIL DE 2009.
 
-DECRETO POR EL QUE SE ADICIONA LA FRACCION XXIX-O AL ARTICULO 73 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXIX-O AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5986,7 +6148,7 @@ D.O.F. 17 DE AGOSTO DE 2011.
 
 D.O.F. 12 DE OCTUBRE DE 2011.
 
-DECRETO POR EL QUE SE ADICIONA UN PARRAFO DECIMO AL ARTICULO 4o. Y SE REFORMA LA FRACCION XXIX-J DEL ARTICULO 73 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO DECIMO AL ARTÍCULO 4o. Y SE REFORMA LA FRACCIÓN XXIX-J DEL ARTICULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
 
 Primero. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -5994,7 +6156,7 @@ Segundo. En el plazo de un año, a partir de la publicación del presente Decret
 
 D.O.F. 12 DE OCTUBRE DE 2011.
 
-DECRETO POR EL QUE SE REFORMAN LOS PARRAFOS SEXTO Y SEPTIMO DEL ARTICULO 4o. Y SE ADICIONA LA FRACCION XXIX-P AL ARTICULO 73, DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+DECRETO POR EL QUE SE REFORMAN LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 4o. Y SE ADICIONA LA FRACCIÓN XXIX-P AL ARTÍCULO 73, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -6103,3 +6265,163 @@ D.O.F. 5 DE JUNIO DE 2013.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. El Ejecutivo Federal tendrá un plazo de 16 meses para iniciar las leyes reglamentarias pertinentes a la presente reforma.
+
+D.O.F. 11 DE JUNIO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las medidas de fomento a la competencia en televisión, radio, telefonía y servicios de datos, deberán aplicarse en todos los segmentos de forma que se garantice en su conjunto la competencia efectiva en la radiodifusión y telecomunicaciones.
+
+TERCERO. El Congreso de la Unión realizará las adecuaciones necesarias al marco jurídico conforme al presente Decreto dentro de los ciento ochenta días naturales siguientes a su entrada en vigor, y deberá:
+
+I. Establecer tipos penales especiales que castiguen severamente prácticas monopólicas y fenómenos de concentración;
+
+II. Regular el organismo público a que se refiere el artículo 6o. que se adiciona en virtud del presente Decreto. Pasarán a este organismo público los recursos humanos, financieros y materiales del organismo descentralizado denominado Organismo Promotor de Medios Audiovisuales;
+
+III. Establecer los mecanismos para homologar el régimen de permisos y concesiones de radiodifusión, a efecto de que únicamente existan concesiones, asegurando una diversidad de medios que permita distinguir las concesiones de uso comercial, público, privado y social que incluyen las comunitarias e indígenas;
+
+IV. Regular el derecho de réplica;
+
+V. Establecer la prohibición de difundir publicidad engañosa o subrepticia;
+
+VI. Establecer los mecanismos que aseguren la promoción de la producción nacional independiente;
+
+VII. Establecer prohibiciones específicas en materia de subsidios cruzados o trato preferencial, consistentes con los principios de competencia, para el efecto de que los operadores de radiodifusión o telecomunicaciones no otorguen subsidios a los servicios que proporcionan, por sí o a través de sus empresas subsidiarias, filiales, afiliadas o que pertenezcan al mismo grupo de interés económico. Cada concesionario deberá fijar tarifas mínimas, consistentes con los principios de competencia, para la emisión de anuncios, las cuales serán presentadas ante la autoridad para su registro público;
+
+VIII. Determinar los criterios conforme a los cuales el Instituto Federal de Telecomunicaciones otorgará las autorizaciones para el acceso a la multiprogramación, bajo los principios de competencia y calidad, garantizado el derecho a la información y atendiendo de manera particular la concentración nacional y regional de frecuencias, incluyendo en su caso, el pago de las contraprestaciones debidas;
+
+IX. Crear un Consejo Consultivo del Instituto Federal de Telecomunicaciones, integrado por miembros honorarios y encargado de fungir como órgano asesor en la observancia de los principios establecidos en los artículos 6o. y 7o. constitucionales, y
+
+X. Aprobar las leyes, reformas y adiciones que deriven del presente Decreto.
+
+CUARTO. En el mismo plazo referido en el artículo anterior, el Congreso de la Unión deberá expedir un solo ordenamiento legal que regule de manera convergente, el uso, aprovechamiento y explotación del espectro radioeléctrico, las redes de telecomunicaciones, así como la prestación de servicios de radiodifusión y telecomunicaciones.
+
+La ley establecerá que las concesiones serán únicas, de forma que los concesionarios puedan prestar todo tipo de servicios a través de sus redes, siempre que cumplan con las obligaciones y contraprestaciones que les imponga el Instituto Federal de Telecomunicaciones y en su caso, las contraprestaciones correspondientes.
+
+El Instituto Federal de Telecomunicaciones, una vez que haya determinado los concesionarios que tienen el carácter de agente económico preponderante en términos de la fracción III del artículo Octavo Transitorio de este Decreto, establecerá, dentro de los sesenta días naturales siguientes, mediante lineamientos de carácter general, los requisitos, términos y condiciones que los actuales concesionarios de radiodifusión, telecomunicaciones y telefonía deberán cumplir para que se les autorice la prestación de servicios adicionales a los que son objeto de su concesión o para transitar al modelo de concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. La autorización a que se refiere este párrafo podrá otorgarse a los agentes económicos preponderantes sólo cuando se encuentren en cumplimiento de las medidas que se les hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio de este Decreto. El Instituto deberá resolver sobre la procedencia o improcedencia de las autorizaciones a que se refiere este párrafo dentro de los sesenta días naturales siguientes a la presentación de las solicitudes respectivas y, en el primer caso, determinará las contraprestaciones correspondientes.
+
+QUINTO. A la entrada en vigor del presente Decreto se permitirá la inversión extranjera directa hasta el cien por ciento en telecomunicaciones y comunicación vía satélite.
+
+Se permitirá la inversión extranjera directa hasta un máximo del cuarenta y nueve por ciento en radiodifusión. Dentro de este máximo de inversión extranjera se estará a la reciprocidad que exista en el país en el que se encuentre constituido el inversionista o el agente económico que controle en última instancia a éste, directa o indirectamente.
+
+La transición digital terrestre culminará el 31 de diciembre de 2015. Los Poderes de la Unión estarán obligados a promover, en el ámbito de sus competencias, la implementación de equipos receptores y decodificadores necesarios para la adopción de esta política de gobierno garantizando, a su vez, los recursos presupuestales que resulten necesarios. Los concesionarios y permisionarios están obligados a devolver, en cuanto culmine el proceso de transición a la televisión digital terrestre, las frecuencias que originalmente les fueron concesionadas por el Estado, a fin de garantizar el uso eficiente del espectro radioeléctrico, la competencia y el uso óptimo de la banda de 700 MHz.
+
+SEXTO. Con el objeto de asegurar el escalonamiento en el cargo de los Comisionados de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones, los primeros Comisionados nombrados en cada uno de esos órganos concluirán su encargo el último día de febrero de los años 2016, 2017, 2018, 2019, 2020, 2021 y 2022.
+
+El Ejecutivo Federal, al someter los nombramientos a la ratificación del Senado de la República, señalará los periodos respectivos.
+
+Para los nombramientos de los primeros Comisionados, tanto de la Comisión Federal de Competencia Económica como del Instituto Federal de Telecomunicaciones, deberá observarse lo siguiente:
+
+I. El Comité de Evaluación a que se refiere el artículo 28 de la Constitución deberá enviar al Ejecutivo Federal las listas de aspirantes respectivas, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto;
+
+II. Una vez recibidas las listas, el Ejecutivo Federal deberá remitir sus propuestas al Senado de la República dentro de los diez días naturales siguientes;
+
+III. El Senado de la República, una vez reunido, contará con un plazo de diez días naturales para resolver sobre la propuesta, y
+
+IV. En caso de que respecto de una misma vacante el Senado de la República no apruebe en dos ocasiones la designación del Ejecutivo Federal, corresponderá a éste la designación directa del comisionado respectivo, a partir de la lista de aspirantes presentada por el Comité de Evaluación a que se refiere el artículo 28 de la Constitución.
+
+SÉPTIMO. En tanto se integran los órganos constitucionales conforme a lo dispuesto en el artículo Sexto Transitorio, continuarán en sus funciones, conforme al marco jurídico vigente a la entrada en vigor del presente Decreto, los órganos desconcentrados Comisión Federal de Competencia y Comisión Federal de Telecomunicaciones. Los recursos humanos, financieros y materiales de los órganos desconcentrados referidos pasarán a los órganos constitucionales que se crean por virtud de este Decreto.
+
+Los procedimientos iniciados con anterioridad a la integración de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones, continuarán su trámite ante estos órganos en términos de la legislación aplicable al momento de su inicio. Las resoluciones que recaigan en estos procedimientos, sólo podrán ser impugnadas en términos de lo dispuesto por el presente Decreto mediante juicio de amparo indirecto.
+
+Asimismo, los juicios y recursos en trámite, continuarán hasta su conclusión conforme a la legislación vigente a la entrada en vigor del presente Decreto.
+
+Si no se hubieren realizado las adecuaciones al marco jurídico previstas en el artículo Tercero Transitorio a la fecha de la integración de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones, éstos ejercerán sus atribuciones conforme a lo dispuesto por el presente Decreto y, en lo que no se oponga a éste, en las leyes vigentes en materia de competencia económica, radiodifusión y telecomunicaciones.
+
+OCTAVO. Una vez constituido el Instituto Federal de Telecomunicaciones conforme a lo dispuesto en el artículo Sexto Transitorio, deberá observarse lo siguiente:
+
+I. Los concesionarios que presten servicios de televisión radiodifundida están obligados a permitir a los concesionarios de televisión restringida la retransmisión de su señal, de manera gratuita y no discriminatoria, dentro de la misma zona de cobertura geográfica, en forma íntegra, simultánea y sin modificaciones, incluyendo la publicidad y con la misma calidad de la señal que se radiodifunde.
+
+Los concesionarios que presten servicios de televisión restringida están obligados a retransmitir la señal de televisión radiodifundida, de manera gratuita y no discriminatoria, dentro de la misma zona de cobertura geográfica, en forma íntegra, simultánea y sin modificaciones, incluyendo la publicidad y con la misma calidad de la señal que se radiodifunde, e incluirla sin costo adicional en los servicios contratados por los suscriptores y usuarios. Los concesionarios de televisión restringida vía satélite, sólo deberán retransmitir obligatoriamente las señales radiodifundidas de cobertura del cincuenta por ciento o más del territorio nacional. Todos los concesionarios de televisión restringida deberán retransmitir las señales radiodifundidas por instituciones públicas federales.
+
+Los concesionarios de telecomunicaciones o de televisión radiodifundida que hayan sido declarados con poder sustancial en cualquiera de los mercados de telecomunicaciones o radiodifusión o como agentes económicos preponderantes en los términos de este Decreto, no tendrán derecho a la regla de gratuidad de los contenidos de radiodifusión o de la retransmisión gratuita; lo que en ningún caso se reflejará como costo adicional en los servicios contratados por los suscriptores y usuarios. Estos concesionarios deberán acordar las condiciones y precios de los contenidos radiodifundidos o de la retransmisión. En caso de diferendo, el Instituto Federal de Telecomunicaciones determinará la tarifa bajo los principios de libre competencia y concurrencia. El Instituto Federal de Telecomunicaciones sancionará con la revocación de la concesión a los agentes económicos preponderantes o con poder sustancial que se beneficien directa o indirectamente de la regla de gratuidad, a través de otros concesionarios, sin perjuicio del pago de las contraprestaciones que correspondan. También se revocará la concesión a estos últimos.
+
+Las obligaciones de ofrecer y retransmitir gratuitamente los contenidos radiodifundidos perderán su vigencia simultáneamente cuando existan condiciones de competencia en los mercados de radiodifusión y telecomunicaciones. Esta declaración será realizada por el Instituto Federal de Telecomunicaciones en los términos que establezca la ley. En este caso, los concesionarios estarán en libertad de acordar los precios y condiciones de la retransmisión de contenidos radiodifundidos. En caso de diferendo el Instituto Federal de Telecomunicaciones determinará la tarifa que deberá estar orientada a costos.
+
+II. Para dar cabal cumplimiento al Programa de Licitación y Adjudicación de Frecuencias de Televisión Radiodifundida Digital, el Instituto Federal de Telecomunicaciones publicará, en un plazo no mayor a ciento ochenta días naturales a partir de su integración, las bases y convocatorias para licitar nuevas concesiones de frecuencias de televisión radiodifundida que deberán ser agrupadas a efecto de formar por lo menos dos nuevas cadenas de televisión con cobertura nacional, bajo los principios de funcionamiento eficiente de los mercados, máxima cobertura nacional de servicios, derecho a la información y función social de los medios de comunicación, y atendiendo de manera particular las barreras de entrada y las características existentes en el mercado de televisión abierta. No podrán participar en las licitaciones aquellos concesionarios o grupos relacionados con vínculos de tipo comercial, organizativo, económico o jurídico, que actualmente acumulen concesiones para prestar servicios de radiodifusión de 12 MHz de espectro radioeléctrico o más en cualquier zona de cobertura geográfica.
+
+III. El Instituto Federal de Telecomunicaciones deberá determinar la existencia de agentes económicos preponderantes en los sectores de radiodifusión y de telecomunicaciones, e impondrá las medidas necesarias para evitar que se afecte la competencia y la libre concurrencia y, con ello, a los usuarios finales. Dichas medidas se emitirán en un plazo no mayor a ciento ochenta días naturales contados a partir de su integración, e incluirán en lo aplicable, las relacionadas con información, oferta y calidad de servicios, acuerdos en exclusiva, limitaciones al uso de equipos terminales entre redes, regulación asimétrica en tarifas e infraestructuras de red, incluyendo la desagregación de sus elementos esenciales y, en su caso, la separación contable, funcional o estructural de dichos agentes.
+
+Para efectos de lo dispuesto en este Decreto, se considerará como agente económico preponderante, en razón de su participación nacional en la prestación de los servicios de radiodifusión o telecomunicaciones, a cualquiera que cuente, directa o indirectamente, con una participación nacional mayor al cincuenta por ciento, medido este porcentaje ya sea por el número de usuarios, suscriptores, audiencia, por el tráfico en sus redes o por la capacidad utilizada de las mismas, de acuerdo con los datos con que disponga el Instituto Federal de Telecomunicaciones.
+
+Las obligaciones impuestas al agente económico preponderante se extinguirán en sus efectos por declaratoria del Instituto Federal de Telecomunicaciones una vez que conforme a la ley existan condiciones de competencia efectiva en el mercado de que se trate.
+
+IV. El Instituto Federal de Telecomunicaciones, en un plazo no mayor a ciento ochenta días naturales contados a partir de su integración, establecerá las medidas que permitan la desagregación efectiva de la red local del agente preponderante en telecomunicaciones de manera que otros concesionarios de telecomunicaciones puedan acceder, entre otros, a los medios físicos, técnicos y lógicos de conexión entre cualquier punto terminal de la red pública de telecomunicaciones y el punto de acceso a la red local pertenecientes a dicho agente. Estas medidas también serán aplicables al agente económico con poder sustancial en el mercado relevante de servicios al usuario final.
+
+Las medidas a que se refiere el párrafo anterior deberán considerar como insumo esencial todos los elementos necesarios para la desagregación efectiva de la red local. En particular, los concesionarios podrán elegir los elementos de la red local que requieran del agente preponderante y el punto de acceso a la misma. Las citadas medidas podrán incluir la regulación de precios y tarifas, condiciones técnicas y de calidad, así como su calendario de implantación con el objeto de procurar la cobertura universal y el aumento en la penetración de los servicios de telecomunicaciones.
+
+V. El Instituto Federal de Telecomunicaciones revisará, dentro de los ciento ochenta días naturales siguientes a su integración, los títulos de concesión vigentes, a efecto de verificar el cumplimiento de sus términos, condiciones y modalidades.
+
+VI. En un plazo de ciento ochenta días naturales siguientes a su integración, el Instituto Federal de Telecomunicaciones recabará la información necesaria a fin de constituir el Registro Público de Concesiones a que se refiere el artículo 28 de la Constitución.
+
+NOVENO. En relación con las resoluciones a que se refieren las fracciones III y IV del artículo anterior, se estará a lo siguiente:
+
+I. Se pronunciarán de conformidad con el procedimiento que establezca la legislación vigente en la fecha de su emisión y a falta de disposición expresa, conforme a la Ley Federal de Procedimiento Administrativo;
+
+II. Únicamente podrán ser impugnadas mediante el juicio de amparo indirecto y no serán objeto de suspensión, tal y como lo establece el artículo 28 de la Constitución, reformado en virtud del presente Decreto. Las normas generales aplicadas durante el procedimiento y los actos intraprocesales sólo podrán reclamarse en el amparo promovido contra la resolución referida, y
+
+III. No admitirán recurso administrativo alguno y solamente podrán ser impugnadas a través del juicio de amparo indirecto en los términos de la fracción anterior.
+
+El incumplimiento de las medidas contempladas en las citadas resoluciones será sancionado en términos de las disposiciones aplicables. El incumplimiento a la separación contable, funcional o estructural dará lugar a la revocación de los títulos de concesión.
+
+DÉCIMO. Los medios públicos que presten el servicio de radiodifusión deberán contar con independencia editorial; autonomía de gestión financiera; garantías de participación ciudadana; reglas claras para la transparencia y rendición de cuentas; defensa de sus contenidos; opciones de financiamiento; pleno acceso a tecnologías, y reglas para la expresión de diversidades ideológicas, étnicas y culturales.
+
+DÉCIMO PRIMERO. Para que la publicidad en radio y televisión sea equilibrada, la ley dotará al Instituto Federal de Telecomunicaciones de atribuciones para vigilar el cumplimiento de los tiempos máximos que la misma señale para la transmisión de mensajes comerciales.
+
+La ley deberá asegurar que la programación dirigida a la población infantil respete los valores y principios a que se refiere el artículo 3o. de la Constitución, así como las normas en materia de salud y establecerá lineamientos específicos que regulen la publicidad pautada en la programación destinada al público infantil. El Instituto contará con facultades para supervisar su cumplimiento.
+
+Asimismo, corresponderá al Instituto resolver cualquier desacuerdo en materia de retransmisión de contenidos, con excepción de la materia electoral.
+
+DÉCIMO SEGUNDO. El Consejo de la Judicatura Federal deberá establecer Tribunales Colegiados de Circuito y Juzgados de Distrito especializados en materia de competencia económica, radiodifusión y telecomunicaciones, en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+El Consejo de la Judicatura Federal emitirá acuerdos de carácter general en los que se preverán la forma de asignación de los asuntos y la rotación de jueces y magistrados especializados que conocerán de los mismos, así como las medidas pertinentes para garantizar la independencia, objetividad e imparcialidad de los juzgados y tribunales a que se refiere el párrafo anterior.
+
+DÉCIMO TERCERO. La Cámara de Diputados, en el Presupuesto de Egresos de la Federación, aprobará las disposiciones necesarias para dotar de suficiencia presupuestaria a los órganos reguladores a que se refiere este Decreto para el desempeño de sus funciones, así como las previsiones presupuestarias para el buen funcionamiento del organismo a que se refiere el artículo 6o., Apartado B, fracción V, de la Constitución.
+
+DÉCIMO CUARTO. El Ejecutivo Federal tendrá a su cargo la política de inclusión digital universal, en la que se incluirán los objetivos y metas en materia de infraestructura, accesibilidad y conectividad, tecnologías de la información y comunicación, y habilidades digitales, así como los programas de gobierno digital, gobierno y datos abiertos, fomento a la inversión pública y privada en aplicaciones de telesalud, telemedicina y Expediente Clínico Electrónico y desarrollo de aplicaciones, sistemas y contenidos digitales, entre otros aspectos.
+
+Dicha política tendrá, entre otras metas, que por lo menos 70 por ciento de todos los hogares y 85 por ciento de todas las micros, pequeñas y medianas empresas a nivel nacional, cuenten con accesos con una velocidad real para descarga de información de conformidad con el promedio registrado en los países miembros de la Organización para la Cooperación y el Desarrollo Económicos. Esta característica deberá ser ofrecida a precios competitivos internacionalmente.
+
+El Instituto Federal de Telecomunicaciones deberá realizar las acciones necesarias para contribuir con los objetivos de la política de inclusión digital universal.
+
+Asimismo, el Ejecutivo Federal elaborará las políticas de radiodifusión y telecomunicaciones del Gobierno Federal y realizará las acciones tendientes a garantizar el acceso a Internet de banda ancha en edificios e instalaciones de las dependencias y entidades de la Administración Pública Federal. Las entidades federativas harán lo propio en el ámbito de su competencia.
+
+DÉCIMO QUINTO. La Comisión Federal de Electricidad cederá totalmente a Telecomunicaciones de México su concesión para instalar, operar y explotar una red pública de telecomunicaciones y le transferirá todos los recursos y equipos necesarios para la operación y explotación de dicha concesión, con excepción de la fibra óptica, derechos de vía, torres, postería, edificios e instalaciones que quedarán a cargo de la Comisión Federal de Electricidad, garantizando a Telecomunicaciones de México el acceso efectivo y compartido a dicha infraestructura para su aprovechamiento eficiente, a fin de lograr el adecuado ejercicio de sus funciones y el cumplimiento de sus objetivos. Telecomunicaciones de México tendrá atribuciones y recursos para promover el acceso a servicios de banda ancha, planear, diseñar y ejecutar la construcción y el crecimiento de una robusta red troncal de telecomunicaciones de cobertura nacional, así como la comunicación vía satélite y la prestación del servicio de telégrafos. Lo anterior, de conformidad con los lineamientos y acuerdos emitidos por el Instituto Federal de Telecomunicaciones.
+
+DÉCIMO SEXTO. El Estado, a través del Ejecutivo Federal, en coordinación con el Instituto Federal de Telecomunicaciones, garantizará la instalación de una red pública compartida de telecomunicaciones que impulse el acceso efectivo de la población a la comunicación de banda ancha y a los servicios de telecomunicaciones, de conformidad con los principios contenidos en el artículo 6o., Apartado B, fracción II del presente Decreto y las características siguientes:
+
+I. Iniciará la instalación antes de que concluya el año 2014, y estará en operación antes de que concluya el año 2018;
+
+II. Contemplará el aprovechamiento de al menos 90 MHz del espectro liberado por la transición a la Televisión Digital Terrestre (banda 700 MHz), de los recursos de la red troncal de fibra óptica de la Comisión Federal de Electricidad y de cualquier otro activo del Estado que pueda utilizarse en la instalación y la operación de la red compartida;
+
+III. Podrá contemplar inversión pública o privada, identificando las necesidades presupuestales y, en su caso, las previsiones que deba aprobar la Cámara de Diputados;
+
+IV. Asegurará que ningún prestador de servicios de telecomunicaciones tenga influencia en la operación de la red;
+
+V. Asegurará el acceso a los activos requeridos para la instalación y operación de la red, así como el cumplimiento de su objeto y obligaciones de cobertura, calidad y prestación no discriminatoria de servicios;
+
+VI. Operará bajo principios de compartición de toda su infraestructura y la venta desagregada de todos sus servicios y capacidades, y prestará exclusivamente servicios a las empresas comercializadoras y operadoras de redes de telecomunicaciones, bajo condiciones de no discriminación y a precios competitivos. Los operadores que hagan uso de dicha compartición y venta desagregada se obligarán a ofrecer a los demás operadores y comercializadores las mismas condiciones que reciban de la red compartida, y
+
+VII. Promoverá que la política tarifaria de la red compartida fomente la competencia y que asegure la reinversión de utilidades para la actualización, el crecimiento y la cobertura universal.
+
+El Ejecutivo Federal, en el marco del Sistema Nacional de Planeación Democrática, incluirá en los instrumentos programáticos respectivos, las acciones necesarias para el desarrollo de la red a que se refiere este artículo.
+
+DÉCIMO SÉPTIMO. En el marco del Sistema Nacional de Planeación Democrática, el Ejecutivo Federal incluirá en el Plan Nacional de Desarrollo y en los programas sectoriales, institucionales y especiales conducentes las siguientes acciones:
+
+I. El crecimiento de la red troncal prevista en el artículo Décimo Sexto Transitorio de este Decreto, ya sea mediante inversión pública, privada o mixta, para asegurar la máxima cobertura de servicios a la población;
+
+II. Un programa de banda ancha en sitios públicos que identifique el número de sitios a conectar cada año, hasta alcanzar la cobertura universal;
+
+III. Un estudio pormenorizado que identifique el mayor número posible de sitios públicos federales, ductos, postería y derechos de vía que deberán ser puestos a disposición de los operadores de telecomunicaciones y radiodifusión para agilizar el despliegue de sus redes. El programa deberá incluir la contraprestación que los concesionarios deberán pagar por el aprovechamiento correspondiente, bajo principios de acceso no discriminatorio y precios que promuevan el cumplimiento del derecho a que se refiere el artículo 6o., párrafo tercero, de la Constitución, siempre y cuando el concesionario ofrezca las mismas condiciones en el acceso a su propia infraestructura;
+
+IV. Un programa de trabajo para dar cabal cumplimiento a la política para la transición a la Televisión Digital Terrestre y los recursos presupuestales necesarios para ello, y
+
+V. Un Programa Nacional de Espectro Radioeléctrico que, de manera enunciativa y no limitativa, incluirá lo siguiente:
+
+a) Un programa de trabajo para garantizar el uso óptimo de las bandas 700 MHz y 2.5 GHz bajo principios de acceso universal, no discriminatorio, compartido y continuo, y
+
+b) Un programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión.
+
+El Instituto Federal de Telecomunicaciones deberá realizar las acciones necesarias para contribuir con los objetivos y metas fijados en el Plan Nacional de Desarrollo y demás instrumentos programáticos, relacionados con los sectores de radiodifusión y telecomunicaciones.
+
+DÉCIMO OCTAVO. Los derechos laborales de los trabajadores que presten sus servicios en las empresas y organismos dedicados a las actividades que comprende el presente Decreto se respetarán en todo momento de conformidad con la ley.
