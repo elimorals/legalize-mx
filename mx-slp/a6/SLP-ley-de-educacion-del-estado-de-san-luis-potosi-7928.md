@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2012-09-13"
+last_updated: "2013-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -1007,6 +1007,10 @@ XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la cons
 
 XIII.- Apoyarán y desarrollarán programas destinados a que los padres y/o tutores apoyen en circunstancias de igualdad los estudios de sus hijas e hijos; prestando especial atención a la necesidad de que aquellos tomen conciencia de la importancia de que las niñas deben recibir un trato igualitario y que deben recibir las mismas oportunidades educativas que los varones.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2013)</small>
+
+ARTICULO 75 BIS. Queda prohibido a las autoridades educativas, así como a las y los docentes, de las instituciones públicas y privadas de cualquier nivel en el Estado, negar la inscripción o, en su caso, la continuación de sus estudios a las niñas y adolescentes por motivo de estar embarazada (sic).
+
 ###### ARTICULO 76.
 
 Las autoridades educativas estatales y municipales podrán llevar a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas, tendientes a contrarrestar las condiciones sociales que incidan en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
@@ -1818,6 +1822,12 @@ SEGUNDO. Las bibliotecas que bajo el esquema que determina la Ley que se expide,
 TERCERO. El Consejo de la Red Estatal de Bibliotecas Públicas debe integrarse en un plazo máximo de treinta días a la entrada en vigor de esta Ley; y su Reglamento Interior debe expedirse dentro del término de noventa días a partir de su vigencia.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 11 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
 ## TRANSITORIOS
 
