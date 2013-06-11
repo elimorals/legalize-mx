@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-pase-de-oficiales-de-la-milicia-auxiliar-413
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-29"
-last_updated: "2004-10-29"
+last_updated: "2013-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2004-10-22"
 ---
 # REGLAMENTO PARA EL PASE DE OFICIALES DE LA MILICIA AUXILIAR A LA MILICIA PERMANENTE DE LA ARMADA DE MEXICO
 
-REGLAMENTO PARA EL PASE DE OFICIALES DE LA MILICIA AUXILIAR A LA MILICIA PERMANENTE DE LA ARMADA DE MEXICO
+REGLAMENTO PARA EL PASE DE OFICIALES DE LA MILICIA AUXILIAR A LA MILICIA PERMANENTE DE LA ARMADA DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL PASE DE OFICIALES DE LA MILICIA AUXILIAR A LA MILICIA PERMANENTE DE LA ARMADA DE MÉXICO, PUBLICADO EN EL D.O.F. DE 11 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de octubre de 2004.
 
@@ -224,3 +226,15 @@ TERCERO. Las solicitudes elevadas a partir de la entrada en vigor de la Ley Org�
 CUARTO. Se derogan todas las disposiciones, directivas y órdenes que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de octubre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Marina, Marco Antonio Peyrot González.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento para el Pase de Oficiales de la Milicia Auxiliar a la Milicia Permanente de la Armada de México, publicado en el Diario Oficial de la Federación, el 29 de octubre de 2004.
+
+TERCERO.- Se derogan todas las disposiciones, directivas y órdenes que se opongan al presente Reglamento.
+
+CUARTO.- El personal de la milicia auxiliar que posea un grado superior a los especificados en la Ley Orgánica de la Armada de México se regirá por lo dispuesto en el artículo sexto transitorio del Decreto por el que se expide la Ley Orgánica de la Armada de México publicado en el Diario Oficial de la Federación el 30 de diciembre de 2002.
