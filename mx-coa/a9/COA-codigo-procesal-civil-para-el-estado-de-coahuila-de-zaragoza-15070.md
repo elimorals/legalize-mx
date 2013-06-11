@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2013-04-05"
+last_updated: "2013-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -6585,6 +6585,10 @@ III. Los hechos que den motivo a la demanda.
 
 IV. Diagnóstico y pronóstico de la enfermedad, formulados por el facultativo que asista al incapaz, acompañando el certificado o certificados relativos.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2013)</small>
+
+Para el caso de personas con síndrome down, se requerirá únicamente la exhibición del examen de genética denominado cariotipo, a fin de acreditar la existencia de la trisomía veintiuno; el cual podrá ser realizado por cualquier institución médica autorizada para practicar esta prueba.
+
 V. Relación de los bienes conocidos como propiedad de la persona y que deben ser sometidos a la vigilancia judicial.
 
 VI. Especificación del parentesco o vínculo que une al demandante con el demandado.
@@ -6602,6 +6606,10 @@ I. Ordenará que se notifique la demanda al Ministerio Público.
 II. Nombrará a la persona cuya interdicción se demande, un tutor dativo. Para hacer la designación se preferirá a los padres, cónyuge, abuelos o hermanos y si no los hubiere, se nombrará persona de reconocida honorabilidad que, además, no tenga relación de amistad o comunidad de intereses con el demandante.
 
 III. Dispondrá que dos peritos médicos, preferentemente alienistas, examinen al demandado y emitan opinión acerca del fundamento de la demanda. El tutor podrá nombrar un médico para que tome parte en el examen y se oiga su dictamen. Podrá el juzgador, además, requerirles opinión preliminar a los médicos.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2013)</small>
+
+Para el caso de personas con síndrome down, bastara un solo perito médico, y su opinión podrá ofrecerse al momento de realizar el examen.
 
 IV. Dispondrá que se cite al cónyuge y a los parientes cuyos informes se consideren útiles.
 
@@ -13404,3 +13412,7 @@ SEGUNDO.- En los juicios de divorcio, en ambas instancias, que se encuentren pen
 Si existe otra pretensión en los juicios pendientes de resolución distinta a la disolución del vínculo matrimonial, el juzgador seguirá el trámite del juicio en relación a estos puntos litigiosos conforme a las disposiciones procesales aplicables y anteriores al presente decreto, hasta resolver en definitiva según corresponda, sin perjuicio de que decrete la disolución del vínculo matrimonial.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
