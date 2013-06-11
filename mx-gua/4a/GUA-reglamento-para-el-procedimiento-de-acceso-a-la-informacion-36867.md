@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-procedimiento-de-acceso-a-la-informacion-368
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-30"
-last_updated: "2009-06-02"
+last_updated: "2013-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO PARA EL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA EN EL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER JUDICIAL, PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 30 de enero de 2004.
 
@@ -428,3 +430,9 @@ Lic. Francisco Javier Zamora Rocha
 P.O. 2 DE JUNIO DE 2009.
 
 Artículo único.- El presente decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 11 DE JUNIO DE 2013.
+
+Artículo Primero. El presente Reglamento entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Se abroga el Reglamento para el Procedimiento de Acceso a la Información Pública en el Poder Judicial del Estado de Guanajuato, aprobado por el Consejo del Poder Judicial del Estado en Sesión celebrada el 27 de enero de 2004 y publicado en el Periódico Oficial del Gobierno del Estado número 18, segunda parte, de fecha 30 de enero de 2004.
