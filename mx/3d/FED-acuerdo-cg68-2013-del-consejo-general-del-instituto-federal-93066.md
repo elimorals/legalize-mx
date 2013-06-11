@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg68-2013-del-consejo-general-del-instituto-federal-930
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-03-14"
-last_updated: "2013-03-14"
+last_updated: "2013-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93066&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2013-02-27"
 ---
 # ACUERDO CG68/2013 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL SE APLICA EL LIMITE DE VIGENCIA DE CREDENCIALES PARA VOTAR QUE TENGAN COMO RECUADROS PARA EL MARCAJE DE LA ELECCION FEDERAL 00 03 06 09 DENOMINADAS "09" Y 12 03 06 09 DENOMINADAS "12", EN ACATAMIENTO A LO ORDENADO POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, EN LA RESOLUCION DEL RECURSO DE APELACION CON. NUMERO SUP-RAP-522/2012
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JUNIO DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APLICA EL LÍMITE DE LA VIGENCIA DE LAS CREDENCIALES PARA VOTAR QUE TENGAN COMO RECUADROS PARA EL MARCAJE DEL AÑO DE LA ELECCIÓN FEDERAL LOS SIGUIENTES 00 03 06 09 DENOMINADAS "09" Y 12 03 06 09 DENOMINADAS "12", EN ACATAMIENTO A LO ORDENADO POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, EN LA RESOLUCIÓN DEL RECURSO DE APELACIÓN CON NÚMERO DE EXPEDIENTE SUP-RAP-522/2012
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE JUNIO DE 2013.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de marzo de 2013.
 
@@ -245,9 +245,9 @@ En razón de lo expuesto y con fundamento en los artículos 1, párrafo tercero;
 
 ACUERDO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE PUNTO DE ACUERDO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JUNIO DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 11 DE JUNIO DE 2013)</small>
 
-Primero. Conforme a lo resuelto por el Tribunal Electoral del Poder Judicial de la Federación, en el expediente SUP-RAP-522/2012, quedan firmes los puntos Primero, párrafos primero y tercero; Cuarto; Quinto; Sexto; Séptimo y Noveno del Acuerdo CG712/2010, en los términos precisados en el Considerando 32 de este Acuerdo.
+Primero. Conforme a lo resuelto por el Tribunal Electoral del Poder Judicial de la Federación, en el expediente SUP-RAP-522/2012, quedan firmes los puntos Primero, párrafos primero y tercero; Cuarto; Quinto; Sexto; Séptimo y Noveno del Acuerdo CG712/2012, en los términos precisados en el Considerando 32 de este Acuerdo.
 
 Segundo. Los registros de los titulares de las credenciales para votar que tengan como recuadros para el marcaje del año de la elección federal los siguientes 00 03 06 09 denominadas “09” y 12 03 06 09 denominadas “12”, serán excluidos de la Lista Nominal de Electores el 1 de enero de 2014.
 
