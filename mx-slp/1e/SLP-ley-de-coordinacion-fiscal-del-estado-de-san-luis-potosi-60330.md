@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-60330"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-26"
-last_updated: "2011-12-24"
+last_updated: "2013-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 26 de enero de 2008.
 
@@ -97,7 +97,7 @@ De la participación federal establecida del Impuesto Sobre Automóviles Nuevos 
 
 Del Impuesto a la Venta Final de Gasolinas y Diesel a que se refiere a las fracciones I y II del artículo 4-A de la Ley de Coordinación Fiscal, que corresponda al Estado, los municipios participarán de un veinte por ciento.
 
-Los recursos que reciban los municipios del Impuesto a la Venta Final de Gasolinas y Diesel, deberán destinarlos exclusivamente a infraestructura vial, sea rural o urbana; infraestructura hidráulica; movilidad urbana; y por lo menos el doce punto cinco por ciento a programas para la protección y conservación ambiental.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 11 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 9°.
 
@@ -392,3 +392,9 @@ P.O. 24 DE DICIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 11 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
