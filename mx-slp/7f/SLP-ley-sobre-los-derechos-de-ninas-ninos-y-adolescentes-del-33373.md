@@ -4,7 +4,7 @@ identifier: "SLP-ley-sobre-los-derechos-de-ninas-ninos-y-adolescentes-del-33373"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2013-05-21"
+last_updated: "2013-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY SOBRE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -376,6 +376,10 @@ VII. Coordinar con las instituciones de cultura, la difusión de la participaci�
 VIII. Difundir programas formativos para que a través de coordinaciones interinstitucionales se forme conciencia y se divulgue el uso responsable de los recursos naturales, tendientes a la conservación del medio ambiente, y
 
 IX. Promover dentro de las bibliotecas públicas, la creación de espacios especialmente para niñas, niños y adolescentes, fomentado así la lectura y el conocimiento.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2013)</small>
+
+ARTICULO 33 BIS. Queda prohibido a las autoridades educativas, así como a las y los docentes, de las instituciones públicas y privadas de cualquier nivel en el Estado, negar la inscripción o, en su caso, la continuación de sus estudios a las niñas y adolescentes por motivo de estar embarazada (sic).
 
 ###### ARTICULO 34.
 
@@ -792,3 +796,9 @@ P.O. 21 DE MAYO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto
+
+P.O. 11 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
