@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2012-09-06"
+last_updated: "2013-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -41,9 +41,13 @@ LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
 ### Capítulo Unico
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 1°.
 
-Esta Ley tiene fundamento en las disposiciones contenidas en los artículos, 21 y 115 fracción VII de la Constitución Política de los Estados Unidos Mexicanos, en relación con los artículos, 80 fracción XVI, 88, 89 y 114 fracción III incisos h) y j) párrafo quinto, de la Constitución Política del Estado.
+Las disposiciones de esta Ley son de orden público, interés social y observancia general en el territorio del Estado de San Luis Potosí; tienen por objeto regular la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública, así como establecer la distribución de competencias y bases de coordinación en la materia, de las autoridades del Estado y de los municipios para la realización de la función de seguridad pública.
+
+Este Ordenamiento es reglamentario de las disposiciones contenidas en los artículos, 21, y 115 fracción VII, de la Constitución Política de los Estados Unidos Mexicanos; y de la Ley General del Sistema Nacional de Seguridad Pública, en relación con los artículos, 80 fracción XVI, 88, 89, y 114 fracción III incisos h) y j) párrafo quinto, de la Constitución Política del Estado.
 
 ###### ARTICULO 2°.
 
@@ -1842,3 +1846,9 @@ P.O. 6 DE SEPTIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 11 DE JUNIO DE 2013.
+
+PRIMERO. Ese Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
