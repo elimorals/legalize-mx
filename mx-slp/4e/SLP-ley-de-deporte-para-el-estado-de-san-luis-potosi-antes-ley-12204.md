@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deporte-para-el-estado-de-san-luis-potosi-antes-ley-1220
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2012-07-14"
+last_updated: "2013-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEPORTE PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 26 de agosto de 1996.
 
@@ -307,9 +307,17 @@ III.- Utilizar las instalaciones deportivas de acuerdo con su área de factibili
 
 IV.- Recibir asistencia y entrenamiento deportivo, así como los servicios médicos adecuados en competencias oficiales;
 
-V.- Participar en competencias, juegos o eventos deportivos reglamentarios u oficiales, emanados del Sistema Estatal del Deporte; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2013)</small>
 
-VI.- Desempeñar cargos de directivos siempre y cuando hayan sido electos en asamblea de clubes, ligas comités municipales, asociaciones o federaciones deportivas.
+V.- Participar en competencias, juegos o eventos deportivos reglamentarios u oficiales, emanados del Sistema Estatal del Deporte;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2013)</small>
+
+VI.- Desempeñar cargos de directivos siempre y cuando hayan sido electos en asamblea de clubes, ligas comités municipales, asociaciones o federaciones deportivas; y
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2013)</small>
+
+VII.- Tener igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen en el Estado y municipios de San Luis Potosí, sin distinción de, origen étnico, género, edad, discapacidad, condición social, económica y cultural, religión, opiniones, preferencias sexuales o estado civil.
 
 ### CAPITULO II
 
@@ -638,3 +646,9 @@ P.O. 14 DE JULIO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o inferior jerarquía jurídica que se opongan al presente Decreto.
+
+P.O. 11 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
