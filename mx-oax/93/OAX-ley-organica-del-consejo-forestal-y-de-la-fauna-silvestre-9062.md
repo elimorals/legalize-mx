@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-consejo-forestal-y-de-la-fauna-silvestre-9062"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-03-14"
-last_updated: "1992-03-14"
+last_updated: "2013-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY ORGANICA DEL CONSEJO FORESTAL Y DE LA FAUNA SILVESTRE DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. 11 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado14 de Marzo de 1992.
 
@@ -326,3 +328,25 @@ Oaxaca de Juárez, Oax., a 20 de febrero de 1992.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 ING. LINO CELAYA LURIA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE JUNIO DE 2013.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley Orgánica del Consejo Forestal y de la Fauna Silvestre del Estado de Oaxaca, publicada el 14 de marzo de 1992, en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan o contravengan a la presente Ley.
+
+CUARTO.- Los Archivos, expedientes y mobiliario de la Dirección de Desarrollo Forestal de la Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura del Gobierno del Estado, pasarán a formar parte de la Comisión Estatal Forestal.
+
+QUINTO.- El personal que labora en la Dirección de Desarrollo Forestal de la Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura del Gobierno del Estado, pasará a formar parte de la Comisión Estatal Forestal, respetando sus derechos laborales, mismos que seguirán rigiéndose de acuerdo a las disposiciones de la Ley del Servicio Civil para los Empleados del Gobierno del Estado; para este trámite la Secretaría de Administración del Gobierno de Oaxaca preverá la viabilidad operacional.
+
+SEXTO.- El Ejecutivo del Estado implementará las medidas conducentes para prever en el presupuesto de egresos del Estado, las partidas correspondientes para la operación de la Comisión Estatal Forestal y de la puesta en marcha del Fideicomiso Forestal Oaxaca; para lo cual la Sexagésima Segunda Legislatura lo tendrá previsto para el Presupuesto 2014.
+
+SÉPTIMO.- El Ejecutivo del Estado, por conducto de las dependencias de la Administración Pública Estatal que tengan competencia en la materia, deberá emitir el Reglamento de la Ley, en un plazo no mayor a ciento ochenta días, a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO.- La Comisión Estatal Forestal de Oaxaca deberá funcionar formalmente el trece de enero del 2014. En tanto se instala la Comisión Estatal Forestal, la Dirección de Desarrollo Forestal de la Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura llevará a cabo los trámites y actos que ante ella se presenten conforme a esta Ley y demás normatividad aplicable en el momento.
+
+NOVENO.- Con la entrada en funciones de la Comisión Estatal Forestal del Estado de Oaxaca el trece de enero del 2014, el Congreso del Estado de Oaxaca, deberá reformar en un plazo no mayor a treinta días la LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, en su artículo 30 y todas las disposiciones de igual o mayor rango en donde se den atribuciones forestales a la SEDAFPA (Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura) quien pasará a ser SEDAPA (Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura). Así mismo, el Ejecutivo del Estado, en el ámbito de su competencia, preverá lo necesario, para dar cabal cumplimiento a la presente Ley.
