@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2013-04-16"
+last_updated: "2013-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -2481,7 +2481,7 @@ El Congreso del Estado, podrá suspender o remover a los miembros del Concejo Mu
 
 ### CAPITULO I
 
-> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2013)</small>
 
 ###### Artículo 171.
 
@@ -2687,83 +2687,117 @@ La elección de Agentes y Subagentes municipales, es un proceso que se realizar�
 
 ###### Artículo 186.
 
-La entrega y recepción de la documentación impresa y electrónica que contenga la situación que guarda la administración pública municipal se realizará el día en que se instale el nuevo Ayuntamiento, en términos del presente título, cuyas disposiciones se desarrollarán mediante los lineamientos que al efecto expida el Congreso del Estado.
+La entrega y recepción de la documentación impresa y electrónica que contenga la situación que guarda la administración pública municipal se realizarán el día en que se instale el nuevo Ayuntamiento, en términos del presente Título, cuyas disposiciones se desarrollarán mediante los lineamientos y demás documentación que al efecto expida el Congreso del Estado, durante el mes de mayo anterior, por conducto de su Secretaría de Fiscalización y del Órgano de Fiscalización Superior. El Congreso podrá designar representantes para que participen como observadores en el proceso de rendición de cuentas.
 
-El Congreso del Estado podrá designar representantes para que participen como observadores en la entrega y recepción.
+Expedidos los lineamientos a que se refiere el párrafo anterior, los ayuntamientos deberán conformar de inmediato un Comité de Entrega, cuyo objetivo será coordinar las diferentes acciones de integración de documentos, conciliación, consolidación y verificación de resultados, así como de los asuntos programáticos, presupuestales, contables, financieros, administrativos, patrimoniales, técnicos y jurídicos del período constitucional, para dar cumplimiento al proceso de entrega y recepción. Al efecto, el Comité definirá la estrategia de operación interna, los mecanismos de coordinación necesarios y, en su caso, las acciones adicionales que se requieran.
+
+El Comité de Entrega estará integrado por:
+
+I. El Presidente Municipal, quien lo presidirá;
+
+II. El Síndico, quien fungirá como Vicepresidente;
+
+III. El titular del órgano de control interno municipal, quien fungirá como Secretario Técnico;
+
+IV. Los Regidores y los titulares de las unidades administrativas del Ayuntamiento, quienes fungirán como Vocales.
+
+El Secretario Técnico será responsable de verificar los avances e informar de ello en las reuniones del Comité, levantar las actas correspondientes y dar seguimiento al cumplimiento de los acuerdos.
+
+El Comité de Entrega se reunirá por lo menos una vez al mes durante el período junio-diciembre del año que corresponda. Sus integrantes no podrán delegar sus funciones relativas al mismo ni percibirán remuneración adicional por ello.
+
+Declarado electo el nuevo Ayuntamiento por resolución inatacable de autoridad competente, el Presidente Municipal Electo comunicará de inmediato al Ayuntamiento en funciones los nombres de las personas que conformarán el Comité de Recepción, que se encargará de revisar la información y la integración de documentos relativos al proceso de rendición de cuentas. Al efecto, los Comités de Entrega y de Recepción se reunirán por lo menos una vez, previamente a la instalación del nuevo Ayuntamiento.
+
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2013)</small>
 
 ###### Artículo 187.
 
-Los documentos a que se refiere el artículo anterior deberán ser:
+Los documentos a que se refiere el artículo anterior serán:
 
 I. Los libros de actas de las sesiones de cabildo del Ayuntamiento saliente y la información sobre el lugar donde se encuentran los libros de las administraciones municipales anteriores;
 
-> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
-
 II. La documentación relativa a la situación financiera y estados contables que deberán contener los libros diario, mayor y de inventarios y balances, así como los registros auxiliares, correspondientes al Ayuntamiento saliente; y la documentación comprobatoria de los ingresos, patrimonio y gastos;
 
-> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
-
-III. La documentación relativa al estado que guarda la cuenta pública del Municipio, la que incluirá los oficios de razonabilidad, las observaciones, requerimientos o apercibimientos emitidos por el Órgano de Fiscalización Superior o por el Congreso del Estado a los servidores o ex servidores públicos responsables;
+III. La documentación relativa al estado que guarda la cuenta pública del Municipio, la que incluirá los oficios de razonabilidad, las observaciones, requerimientos o apercibimientos emitidos por el Órgano de Fiscalización Superior o por el Congreso del Estado a los servidores o ex servidores públicos responsables, durante los ejercicios de la Administración Municipal saliente;
 
 IV. La situación de la deuda pública municipal y la documentación relativa a la misma;
-
-> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
 
 V. El estado de la obra pública ejecutada, así como la que esté en proceso, y la documentación relativa a su planeación, programación, presupuestación y ejecución, señalando debidamente el carácter federal, estatal o municipal de los recursos utilizados;
 
 VI. La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como informes y comprobantes de los mismos;
 
-> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2010)</small>
+VII. El Estado que guarda el cumplimiento de obligaciones fiscales, incluidas las de seguridad social, de carácter federal, estatal o municipal, según sea el caso;
 
-VI Bis. El estado que guarda el cumplimiento de obligaciones fiscales, incluidas las de seguridad social, de carácter federal, estatal o municipal, según sea el caso;
+VIII. La plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos y demás información conducente, debiendo observar respecto del personal de confianza lo dispuesto por la fracción XX, segundo párrafo, del Artículo 35 de esta Ley;
 
-VII. La plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos y demás información conducente;
+IX. La documentación relativa a convenios o contratos que el Municipio tenga con otros municipios, con el Estado, con la Federación o con particulares;
 
-VIII. La documentación relativa a convenios o contratos que el Municipio tenga con otros municipios, con el Estado, con la Federación o con particulares;
+X. La documentación relativa a los programas municipales y proyectos aprobados y ejecutados, así como el estado que guarden los que estén en proceso de ejecución;
 
-IX. La documentación relativa a los programas municipales y proyectos aprobados y ejecutados, así como el estado que guarden los que estén en proceso de ejecución;
+XI. El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles de propiedad municipal;
 
-X. El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles de propiedad municipal;
+XII. El inventario de los programas informáticos con que se cuenta y el respaldo electrónico de la información y de las bases de datos;
 
-> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2010)</small>
+XIII. La documentación relativa al estado que guardan los asuntos tratados por las Comisiones del Ayuntamiento;
 
-X. Bis. El inventario de los programas informáticos con que se cuenta y el respaldo electrónico de la información y de las bases de datos;
+XIV. Los juicios en trámite, su estado procesal y el pasivo contingente en cantidad líquida o numeraria que representen;
 
-> <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
+XV. Los asuntos, contratos, convenios u obras pendientes de atención o trámite, conforme al ejercicio de atribuciones del Ayuntamiento, Ediles y servidores públicos municipales; y
 
-XI. La documentación relativa al estado que guardan los asuntos tratados por las Comisiones del Ayuntamiento;
+XVI. Toda la información que se estime relevante para garantizar la continuidad de la Administración Pública Municipal.
 
-> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2010)</small>
+Las entidades paramunicipales acompañarán a sus documentos para la rendición de cuentas todos los relativos a su creación.
 
-XI Bis. Los juicios en trámite, su estado procesal y el pasivo contingente en cantidad líquida o numeraria que representen;
+La atención de los asuntos a que se refiere el presente artículo y las personas que serán responsables de cada uno de ellos se definirán en los lineamientos que expida el Congreso del Estado, en términos del artículo 186 de la presente Ley.
 
-> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2010)</small>
-
-XI Ter. Los asuntos, contratos, convenios u obras pendientes de atención o trámite, conforme al ejercicio de atribuciones del Ayuntamiento, Ediles y servidores públicos municipales; y
-
-XII. Toda la información que se estime relevante para garantizar la continuidad de la Administración Pública Municipal.
-
-> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2013)</small>
 
 ###### Artículo 188.
 
-El Síndico del Ayuntamiento entrante levantará acta circunstanciada de la entrega y recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente que participaron, así como al representante del Congreso del Estado, en su caso.
+El Congreso, tras expedir los lineamientos para el proceso de entrega y recepción, y por conducto de la Secretaría de Fiscalización y del Órgano de Fiscalización Superior, iniciará la capacitación al respecto a servidores públicos municipales, quienes por su parte procederán, con fecha límite al treinta y uno de julio del último año del ejercicio constitucional, a la integración documental en materia de organización, planeación, marco regulatorio y situación legal, administrativa, de obra pública y de transparencia.
 
-El Síndico del Ayuntamiento deberá remitir copia certificada del acta de entrega y recepción al Órgano de Fiscalización Superior.
+La capacitación a los integrantes de los ayuntamientos electos se iniciará en el mes de noviembre y concluirá hasta antes de su instalación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JULIO DE 2010)</small>
+Durante los meses de agosto y septiembre, los ayuntamientos integrarán la documentación financiera, de control y fiscalización y de compromisos institucionales, con corte al treinta de septiembre, y actualizarán, en su caso, la documentación señalada en el párrafo anterior.
+
+Durante el último trimestre de ejercicio constitucional, los ayuntamientos realizarán, en octubre, un ensayo de entrega con la información antes citada, con el fin de evaluar los avances de proceso de preparación de la transmisión municipal.
+
+En la primera quincena de diciembre, iniciarán la actualización e integración de la documentación final, debiendo incluir, en su momento, la captación de ingresos y los gastos menores de la última quincena, de manera que, con límite al treinta y uno de diciembre, se produzca la información completa y definitiva que se anexará al expediente de entrega y recepción.
+
+La información se clasificará conforme a lo siguiente:
+
+I. Organización: Toda documentación relativa a la conformación y operación del Ayuntamiento;
+
+II. Planeación: Planes y programas municipales, así como estrategias y líneas de acción para el logro de objetivos y metas;
+
+III. Marco regulatorio y situación legal: Disposiciones jurídicas que norman la actuación del Ayuntamiento, así como a los compromisos que debe atender, derivados de un instrumento o proceso jurídico;
+
+IV. Financiera: Información presupuestaria y contable de las transacciones efectuadas por el Ayuntamiento, que expresan su situación económica, los resultados de su operación y los cambios en su patrimonio;
+
+V. Administrativa: Todo lo relacionado con los recursos humanos, materiales y técnicos del Ayuntamiento, así como la documentación y elementos utilizados en la operación del mismo;
+
+VI. Obra pública: Engloba todo lo relativo a obras terminadas o en proceso, de acuerdo con el tipo de recursos utilizados y la modalidad de ejecución;
+
+VII. Transparencia: Comprende los asuntos pendientes de atender y el cumplimiento por parte de la autoridad municipal de sus obligaciones en esta materia;
+
+VIII. Control y fiscalización: Observaciones en proceso de atención, resultantes de la fiscalización de las cuentas públicas y la revisión de la gestión municipal; y
+
+IX. Compromisos institucionales: Actividades de atención prioritaria durante los noventa días posteriores a la entrega y recepción.
+
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2013)</small>
 
 ###### Artículo 189.
 
-Una vez concluida la entrega y recepción, el Ayuntamiento entrante designará una comisión especial, de la que deberán formar parte, al menos, el tesorero, el director de obras públicas y el titular del órgano de control interno municipal, que se encargará de analizar el expediente integrado con la documentación conducente, para formular un dictamen en un plazo de treinta días naturales.
+El Síndico del Ayuntamiento entrante levantará acta circunstanciada de la entrega y recepción, con especificación de los documentos anexos, de la que, firmada al margen y al calce por quienes intervengan, se proporcionará copia certificada a los integrantes del Ayuntamiento saliente, al entrante, al Órgano de Fiscalización Superior y al Congreso del Estado a través de la Secretaría de Fiscalización, en un plazo no mayor de quince días naturales.
 
-El dictamen se someterá dentro de los quince días naturales siguientes al conocimiento y consideración del Ayuntamiento, el cual podrá llamar a los servidores públicos de la administración anterior, para que expresen lo que a su interés convenga, respecto de las observaciones que el dictamen contenga o para solicitar información o documentación complementaria. En todo caso, se concederá un plazo prudente para la respuesta, que no será menor a setenta y dos horas, contadas a partir de la notificación.
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2013)</small>
 
 ###### Artículo 190.
 
-Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo correspondiente, en vía de opinión.
+Concluida la entrega y recepción, el Ayuntamiento entrante designará una Comisión Especial, de la que deberán formar parte, al menos, el tesorero, el director de obras públicas y el titular del órgano de control interno municipal, y la que se encargará de analizar el expediente integrado con la documentación conducente, para formular un dictamen en un plazo de treinta días naturales.
 
-El Ayuntamiento dentro de los quince días hábiles siguientes, remitirá copia del expediente de entrega y recepción al Congreso del Estado para el efecto de revisión de las cuentas públicas municipales.
+El dictamen se someterá, dentro de los quince días naturales siguientes, al conocimiento y consideración del Ayuntamiento, el cual podrá llamar a los servidores públicos de la administración anterior, para que expresen lo que a su interés convenga, respecto de las observaciones que el dictamen contenga o para solicitar información o documentación complementaria. La respuesta se producirá en un plazo no menor a setenta y dos horas, contado a partir de la notificación.
+
+Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo correspondiente, en vía de opinión y, dentro de los quince días naturales siguientes, remitirá copia del expediente de entrega y recepción al Congreso del Estado a través de la Secretaria de Fiscalización, para el efecto de revisión de las cuentas públicas municipales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3246,3 +3280,9 @@ G.O. 16 DE ABRIL DE 2013.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE JUNIO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
