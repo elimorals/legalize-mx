@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-del-estado-707
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-23"
-last_updated: "2012-09-19"
+last_updated: "2013-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 23 de octubre de 2009.
 
@@ -760,6 +760,12 @@ IX. (DEROGADA, P.O. 17 DE JUNIO DE 2011)
 ###### Artículo 37 Bis.
 
 Al sentenciado por el delito de secuestro, en términos del artículo 19 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la Fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, no tendrá derecho a los beneficios de la libertad preparatoria, sustitución, conmutación de la pena o cualquier otro que implique la libertad anticipada, lo que incluye la remisión parcial de la pena.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2013)</small>
+
+###### Artículo 37 Ter.
+
+El sentenciado por el delito de feminicidio, no tendrá derecho a los beneficios de la libertad preparatoria, sustitución, conmutación de la pena o cualquier otro que implique la libertad anticipada, lo que incluye la remisión parcial de la pena.
 
 #### Sección Séptima. Del tratamiento preliberacional
 
@@ -1748,3 +1754,9 @@ P.O. 19 DE SEPTIEMBRE DE 2012.
 Artículo Primero. La presente Ley entrará en vigor ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"; plazo en el que los Poderes Ejecutivo y Judicial del Estado realizarán las acciones necesarias a fin que, al inicio de su vigencia, estén en aptitud de cumplir las atribuciones contenidas en la misma.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 12 DE JUNIO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
