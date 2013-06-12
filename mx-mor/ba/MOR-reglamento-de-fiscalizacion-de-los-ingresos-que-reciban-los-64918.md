@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-fiscalizacion-de-los-ingresos-que-reciban-los-649
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-24"
-last_updated: "2009-02-04"
+last_updated: "2013-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,151 +21,99 @@ state: "MOR"
 ---
 # REGLAMENTO DE FISCALIZACION DE LOS INGRESOS QUE RECIBAN LOS PARTIDOS POLITICOS POR CUALQUIER MODALIDAD DE FINANCIAMIENTO, ASI COMO SU EMPLEO Y APLICACION
 
-LEY ORGANICA DE ADMINISTRACION MUNICIPAL
+REGLAMENTO DE FISCALIZACIÓN DE LOS INGRESOS QUE RECIBAN LOS PARTIDOS POLÍTICOS POR CUALQUIER MODALIDAD DE FINANCIAMIENTO ASI COMO SU EMPLEO Y APLICACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 1996.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE FISCALIZACIÓN DE LOS INGRESOS QUE RECIBAN LOS PARTIDOS POLÍTICOS POR CUALQUIER MODALIDAD DE FINANCIAMIENTO, ASÍ COMO SU EMPLEO Y APLICACIÓN DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. 12 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 2 de febrero de 1984.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
-EL C. DR. SAMUEL OCAÑA GARCIA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SONORA, a sus habitantes, sabed:
+Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 24 de diciembre de 2008.
 
-Que el H. Congreso del Estado, se ha servido dirigirme la siguiente LEY :
+Al margen izquierdo un emblema que dice: Instituto Estatal Electoral.- IEE. Morelos.
 
-NUMERO 43
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL CONSEJO ESTATAL, MODIFICAN DE MANERA SUSTANCIAL EL CONTENIDO DEL PRESENTE ORDENAMIENTO, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA; DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 4 DE FEBRERO DE 2009.</small>
 
-EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-LEY
+Reglamento de Fiscalización de los Ingresos que reciban los Partidos Políticos por cualquier Modalidad de Financiamiento así como su empleo y aplicación.
 
-ORGANICA DE ADMINISTRACION MUNICIPAL
+ÍNDICE
 
-## TITULO PRIMERO. REGIMEN MUNICIPAL
+## TÍTULO I. DISPOSICIONES GENERALES
 
-## TITULO SEGUNDO. DEL GOBIERNO MUNICIPAL
+## TÍTULO II. DE LA ESTRUCTURA DEL ÓRGANO DE FINANZAS, DE LOS INGRESOS, EGRESOS E INVENTARIO DE LOS BIENES MUEBLES E INMUEBLES DE LOS PARTIDOS POLÍTICOS Y COALICIÓN
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### Capítulo I. De la Estructura del Órgano de Finanzas de los Partidos Políticos y Coalición
 
-###### ARTICULO 1o.
+### Capítulo I.1. De las Coaliciones
 
-El Municipio Libre, es la base de la división territorial y de la organización política y administrativa del Estado de Sonora, en los términos de la Constitución Política Local, regulándose su integración, organización y funcionamiento de acuerdo a lo previsto en esta Ley.
+### Capítulo II. De los Ingresos y Modalidades de Financiamiento
 
-###### ARTICULO 2o.
+### Capítulo II.1. De las cuentas bancarias y los registros contables
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+### Capítulo II.2. De los formatos para el control de ingresos
 
-###### ARTICULO 3o.
+### Capítulo III. De los Egresos
 
-Los Municipios como personas de derecho público, estarán investidos de personalidad jurídica y manejarán su patrimonio conforme lo determine la Ley. Asimismo, tendrán plena capacidad para adquirir y poseer los bienes raíces necesarios para la prestación de los servicios públicos de su competencia, en los términos del Articulo 27, Fracción VI, primer párrafo, de la Constitución General de la República.
+### Capítulo IV. Del Inventario de Bienes Muebles e Inmuebles
 
-###### ARTICULO 4o.
+## TÍTULO III. DE LOS LÍMITES DE APORTACIONES, TOPES DE CAMPAÑA Y PRECAMPAÑA
 
-Los Municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que conforme a la Fracción IV del Articulo 115 de la Constitución General de los Estados Unidos Mexicanos, el Congreso del Estado establezca a su favor.
+### Capítulo I. De los Límites de Aportaciones
 
-###### ARTICULO 5o.
+### Capítulo I.1. De las Aportaciones o donativos a los partidos políticos y coalición
 
-Los Ayuntamientos de los Municipios del Estado deberán:
+### Capítulo II. De los Topes de Precampaña
 
-I.- Planear y conducir sus actividades con sujeción a los objetivos y prioridades de su desarrollo integral, mismos que serán compatibles con los Planes Estatal y Nacional de Desarrollo.
+### Capítulo III. De los Topes de Campaña
 
-II.- Prestar, con el concurso del Estado, cuando fuere necesario y lo determinen las leyes, los servicios públicos de su competencia y garantizar su funcionamiento.
+## TÍTULO IV. DE LOS INFORMES DE LOS PARTIDOS POLÍTICOS, PRESENTACIÓN, REVISIÓN Y DICTAMEN
 
-III.- Coordinarse con los Gobiernos Estatal y Federal para integrarse a las acciones que tiendan a su desarrollo.
+### Capítulo I
 
-IV.- Administrar los recursos económicos de que dispongan y los de sus respectivas Administraciones Públicas Paramunicipales con eficiencia, eficacia y honradez para satisfacer los objetivos a que estén destinados.
+De los informes de los Partidos Políticos y Coaliciones,
 
-V.- Participar en la prestación del servicio público de educación en los términos del Artículo 3o. de la Constitución General de la República.
+### Capítulo II. De la Presentación de los Informes Anuales Ordinarios
 
-VI.- Impulsar el bienestar y la seguridad de los habitantes del Municipio, mediante la prestación de los servicios públicos de naturaleza municipal, la realización de acciones que promuevan el mejoramiento económico y social de la población y vigilar el respeto a la propiedad, la moral y el orden público.
+### Capítulo III. De la presentación de los Informes de Precampaña
 
-VII.- Promover el desarrollo cívico y cultural de sus habitantes, fomentando la participación ciudadana.
+### Capítulo IV. De la presentación de los Informes de Campaña
 
-VIII.- Vigilar que los habitantes del Municipio, en el ejercicio de sus derechos respeten el interés público y el bienestar general de la población.
+### Capítulo V. De las plazos de Revisión de los Informes
 
-###### ARTICULO 6o.
+### Capítulo V.1. De los plazos de revisión de los Informes Anuales Ordinarios, de Precampaña y Campaña
 
-Los Municipios en los términos establecidos en el Artículo 123, Fracción XXV de la Constitución General de la República, prestarán el servicio de colocación para buscar mayor número de empleos a los habitantes de su jurisdicción. Dicho servicio será gratuito.
+### Capítulo IV (SIC). De la elaboración de los Dictámenes y su presentación al Consejo Estatal Electoral
 
-###### ARTICULO 7o.
+### Capítulo V
 
-Los Municipios en todos aquellos asuntos que deban tratarse y resolverse con el Gobierno Federal o con las Entidades Federativas, lo harán coordinadamente con el Gobernador del Estado.
+De los gastos que realicen los partidos políticos por concepto de actividades relativas a educación, capacitación política, investigación electoral socioeconómica política y tareas editoriales
 
-### CAPITULO II. DE LA ORGANIZACION TERRITORIAL Y ADMINISTRATIVA DE LOS MUNICIPIOS
+## TÍTULO V. DE LA DETERMINACIÓN E IMPOSICIÓN DE SANCIONES DERIVADAS DEL DICTAMEN
 
-###### ARTICULO 8o.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Las Autoridades Municipales tiene competencia plena sobre su territorio y población, así como en su organización administrativa con las limitaciones que establezcan las leyes.
+## TÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 9o.
-
-El Estado se integra con los siguientes Municipios: Aconchi, Agua Prieta, Alamos, Altar, Arivechi, Arizpe, Atil, Bacadéhuachi, Bacanora, Bacerac, Bacoachi, Bácum, Banámichi, Baviácora, Bavispe, Benito Juárez, Benjamín Hill, Caborca, Cajeme, Cananea, Carbó, La Colorada, Cucurpe, Cumpas, Divisaderos, Empalme, Etchojoa, Fronteras, General Plutarco Elías Calles, Granados, Guaymas, Hermosillo, Huachinera, Huásabas, Huatabampo, Huépac, Imuris, Magdalena, Mazatán, Moctezuma, Naco, Nácori Chico, Nacozari de García, Navojoa, Nogales, Onavas, Opodepe, Oquitoa, Pitiquito, Puerto Peñasco, Quiriego, Rayón, Rosario, Sahuaripa, San Felipe de Jesús, San Javier, San Iganacio Rio Muerto, San Luis Río Colorado, San Miguel de Horcasitas, San Pedro de la Cueva, Santa Ana, Santa Cruz, Sáric, Soyopa, Suaqui Grande, Tepache, Trincheras, Tubutama, Ures, Villa Hidalgo, Villa Pesqueira y Yécora.
-
-### CAPITULO III. DE LOS HABITANTES DEL MUNICIPIO
-
-### CAPITULO I. DE LA INTEGRACION DE LOS AYUNTAMIENTOS
-
-> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 1993)</small>
-
-### CAPITULO II. DE LA INSTALACION
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE NOVIEMBRE DE 1993)</small>
-
-### CAPITULO III. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
-
-> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 1993)</small>
-
-### CAPITULO IV. DE LAS FACULTADES Y OBLIGACIONES DE LOS AYUNTAMIENTOS
-
-## TITULO TERCERO. REGIMEN ADMINISTRATIVO MUNICIPAL
-
-### CAPITULO V. DE LAS FACULTADES Y OBLIGACIONES DEL PRESIDENTE MUNICIPAL
-
-### CAPITULO VI. DE LAS FACULTADES Y OBLIGACIONES DE LOS REGIDORES
-
-### CAPITULO VII. DE LAS FACULTADES Y OBLIGACIONES DE LOS SINDICOS
-
-### CAPITULO VIII. DE LOS COMISARIOS MUNICIPALES
-
-## TITULO CUARTO. DEL PATRIMONIO MUNICIPAL
-
-### CAPITULO IX. DE LOS DELEGADOS MUNICIPALES
-
-### CAPITULO I. DE LA ORGANIZACION ADMINISTRATIVA DE LOS MUNICIPIOS
-
-### CAPITULO II. DE LA SECRETARIA DEL AYUNTAMIENTO
-
-### CAPITULO III. DE LA TESORERIA MUNICIPAL
-
-### CAPITULO IV. DE LA ADMINISTRACION PUBLICA PARAMUNICIPAL
-
-### CAPITULO I. DEL PATRIMONIO MUNICIPAL
-
-### CAPITULO II. DE LA HACIENDA MUNICIPAL
-
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
-
-### CAPITULO III. DE LOS PRESUPUESTOS DE EGRESOS
-
-## TITULO QUINTO
-
-DE LA DESAPARICION Y SUSPENSION DE AYUNTAMIENTOS Y DE LA SUSPENSION O REVOCACION DEL MANDATO DE ALGUNOS DE SUS MIEMBROS.
-
-## TITULO SEXTO
-
-DE LAS PROTESTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS DEL MUNICIPIO.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 1.
 
 En términos de lo dispuesto por los artículos 56 y 106 fracciones XV, XVI, XIX, XX, XXIV, XXVI, XXVII, XL, XLI, XLIV del Código Electoral, son atribuciones del Consejo Estatal Electoral, proveer que lo relativo a las prerrogativas y financiamiento de los partidos políticos se desarrolle con apego al citado Código Electoral, aprobar el calendario presupuestal conforme al cual deberá ministrarse a los partidos políticos con registro el financiamiento correspondiente de conformidad a las disponibilidades presupuestales, así como el financiamiento privado, sean ambos en efectivo o en especie, recibidos por los partidos políticos o coalición, y los topes de los gastos de precampaña y campaña, de acuerdo a las disposiciones de la normatividad electoral aludida; vigilar y supervisar el cumplimiento de las obligaciones que la legislación electoral impone a los partidos políticos, así como revisar y aprobar en su caso, los dictámenes que rinda la Comisión de Fiscalización del financiamiento de los partidos políticos.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 2.
 
 Asimismo es atribución del Consejo Estatal Electoral, de acuerdo a lo establecido en el artículo 106 fracción XLI del Código Electoral para la Entidad, el dictar todas las resoluciones que sean necesarias para hacer efectivas las disposiciones de dicho ordenamiento en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 3.
 
 El presente Reglamento de Fiscalización tiene por objeto establecer y fijar las normas procedimentales, criterios y reglas que deberán observar los partidos políticos, en el registro de sus ingresos y egresos por cualquier concepto; así como la presentación de los informes del origen, destino y monto de los ingresos recibidos por cualquier modalidad de financiamiento, así como su empleo y aplicación.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -185,21 +133,31 @@ f) Reembolsar a la secretaría encargada del despacho de la hacienda pública de
 
 g) Las demás que establezca el Código Electoral y el presente Reglamento de Fiscalización.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 5.
 
 Los partidos políticos y coalición con registro o que tengan acreditado el mismo ante el Instituto Estatal Electoral, rendirán los informes anuales sobre el origen y aplicación de los recursos, así como los informes sobre los ingresos y gastos de precampaña y campaña, en términos de lo ordenado por el Código Electoral y de acuerdo con el presente Reglamento de Fiscalización.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 6.
 
 Una vez presentados los informes anuales, de precampaña y de campaña por los partidos políticos o coalición correspondiente, el Consejo Estatal Electoral, turnará inmediatamente a la Comisión de Fiscalización, con el objeto de que inicie la revisión correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 7.
 
 Corresponde a los partidos políticos proporcionar todos los documentos y datos, que garanticen a criterio de la Comisión de Fiscalización o del Consejo Estatal Electoral en su caso, la veracidad de lo reportado en los informes sobre el origen, destino y monto de sus ingresos, así como su empleo y aplicación, conforme a las disposiciones contenidas en las normas que rigen la materia electoral, así como en el presente Reglamento de Fiscalización.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ###### Artículo 8.
 
 Todo lo no previsto en el presente Reglamento de Fiscalización de los ingresos que reciban los partidos políticos por cualquier modalidad de financiamiento, así como su empleo y aplicación, será resuelto por la propia Comisión de Fiscalización o por el Consejo Estatal Electoral en su caso.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 9.
 
@@ -251,1239 +209,1337 @@ Aportación en Especie.- Acto jurídico mediante el cual un simpatizante o milit
 
 Comodato.- Contrato mediante el cual uno de los contratantes se obliga a conceder gratuitamente el uso de un bien mueble o inmueble no fungible y el otro contrae la obligación de restituirle individualmente.
 
-## TITULO SEPTIMO. DE LAS SANCIONES Y RECURSOS
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-### CAPITULO IV. DE LA DEUDA PUBLICA MUNICIPAL
+## TÍTULO II. DE LA ESTRUCTURA DEL ÓRGANO DE FINANZAS, DE LOS INGRESOS, EGRESOS E INVENTARIO DE LOS BIENES MUEBLES E INMUEBLES DE LOS PARTIDOS POLÍTICOS Y COALICIÓN
 
-###### ARTICULO 10.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-La creación de nuevos Municipios, así como la supresión de aquellos que carezcan de elementos para proveer a su existencia política, se sujetarán a las bases normativas que señala la Constitución Política Local.
+### Capítulo I. De la Estructura del Órgano de Finanzas de los Partidos Políticos y Coalición
 
-###### ARTICULO 11.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-El Congreso del Estado definirá los límites de los Municipios.
+###### Artículo 10.
 
-###### ARTICULO 12.
+Los partidos políticos y coalición deberán contar con un órgano responsable de la administración del patrimonio y encargado de la obtención de los recursos financieros generales, el cual será facultado ante el Instituto Estatal Electoral para presentar veraz y oportunamente los informes financieros anuales ordinarios, de precampaña y campaña, del origen destino y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación.
 
-Para su organización territorial y administrativa, los Municipios se componen de:
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-I.- Cabeceras Municipales
+###### Artículo 11.
 
-II.- Comisaría
+Dicho órgano se constituirá en los términos, modalidades y características que libremente determine cada partido o coalición, debiendo contar con estatutos y/o reglamentos y/o manual de operaciones que señalen claramente las funciones de sus áreas administrativas y financieras a nivel ejecutivo.
 
-III.- Delegaciones.
+Los partidos políticos o coalición deberán informar por escrito a la Comisión de Fiscalización, para su registro en los libros que se implementen para tal efecto, el nombre del titular(es) del órgano responsable de la administración del patrimonio y encargado de la obtención de los recursos financieros generales, y los citados documentos, al inicio de cada año fiscal.
 
-### CAPITULO V. DE LOS BIENES MUNICIPALES
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 13.
+###### Artículo 12.
 
-El Congreso del Estado, a iniciativa de los Ayuntamientos correspondientes, declarará en los términos señalados en la Constitución Política Local, la nomenclatura política de los Centros de Población y la creación y supresión de Comisarías y Delegaciones en los Municipios. Para estos efectos, la Legislatura Local tomará en consideración las condiciones territoriales y socioeconómicas de dichos Centros de Población, y todos aquellos elementos políticos, de infraestructura urbana y demás que considere necesario para fundamentar su declaratoria.
+Los partidos políticos podrán realizar las modificaciones a la estructura del órgano de finanzas, en todo tiempo atendiendo a las necesidades de cada partido, debiendo notificar al Consejo Estatal Electoral y a la Comisión de Fiscalización de lo señalado en los artículos anteriores, en un plazo no mayor de 30 días a partir del cambio realizado.
 
-###### ARTICULO 14.
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Son habitantes de un Municipio, las personas que residan habitual o transitoriamente en su territorio.
+### Capítulo I.1. De las Coaliciones
 
-###### ARTICULO 15.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Toda persona adquiere la vecindad en un Municipio si reside de manera efectiva, durante dos años en algún lugar de su territorio y ejerce alguna profesión, arte, industria, empleo o actividad productiva y honorable.
+###### Artículo 13.
 
-###### ARTICULO 16.
+Las coaliciones que se conformen para un determinado proceso electoral, deberán dar cumplimiento a las disposiciones del presente reglamento.
 
-La calidad de vecino de un Municipio se pierde por dejar de reunir los requisitos a que se refiere el Artículo anterior o por manifestación expresa de residir en otro lugar.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 17.
+###### Artículo 14.
 
-Los derechos y obligaciones de los habitantes y de los vecinos de los Municipios, que tengan la calidad de ciudadanos, sin perjuicio de los señalados por la Constitución Federal, la Constitución Política Local y las Leyes que de ellas emanen, serán:
+Es obligación de la coalición que se conforme, por conducto de su representante común, así como del órgano responsable de la administración del patrimonio y encargado de la obtención de los recursos financieros generales, presentar los informes de campaña sobre el origen, destino y monto de los ingresos que recibió la coalición por cualquier modalidad de financiamiento, así como su empleo y aplicación, de la elección en que participe la misma.
 
-I.- Respetar y obedecer a las autoridades legalmente constituidas y cumplir las leyes, reglamentos y disposiciones emanadas de las mismas,
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-II.- Prestar auxilio a las autoridades cuando sean legalmente requeridos para ello.
+###### Artículo 15.
 
-III.- Promover ante el Ayuntamiento, Bandos de Policía y Buen Gobierno, reglamentos, circulares y disposiciones administrativas de observancia general en el Municipio.
+En términos del artículo 84 fracción IV inciso e) del Código Electoral, el representante común de la coalición informará la forma de distribución del financiamiento público que le corresponda como coalición.
 
-IV.- Inscribirse en lo padrones expresamente determinados por las Leyes Federales, Estatales o Municipales.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-V.- Desempeñar los cargos concejiles, las funciones electorales, las de jurado y formar parte de los Consejos Municipales que se constituyan de acuerdo a la Ley.
+###### Artículo 16.
 
-VI.- Atender los llamados que por escrito o por cualquier medio, les haga el Ayuntamiento o sus dependencias.
+En caso de incumplimiento en la presentación de los informes relativos a los gastos de campaña, que como coalición le corresponde exhibir, les serán aplicables, las disposiciones del presente reglamento contenidas en la determinación e imposición de sanciones derivadas del dictamen del presente reglamento.
 
-VII.- Procurar la conservación y mejoramiento de los servicios públicos municipales, participando con las autoridades en dichas actividades.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-VIII.- Proporcionar verazmente y sin demora, los informes y datos estadísticas y de otro género que les sean solicitados por las autoridades municipales.
+###### Artículo 17.
 
-IX.- Contribuir a la limpieza, ornato y conservación del Municipio y del Centro de Población en que resida.
+En el supuesto que el Consejo Estatal Electoral, determine sancionar a determinada coalición por violación a las disposiciones del Código Electoral o a la normatividad establecida en el presente reglamento, dicha sanción se aplicará tomando como base lo establecido en el convenio de coalición, y en forma proporcional a las cantidades que cada partido político que la conforma haya contribuido.
 
-X.- Realizar sus actividades respetando el interés público y el bienestar de los habitantes del Municipio.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-XI.- Preservar y respetar la fisonomía, arquitectura y tradiciones históricas del Municipio y de sus habitantes.
+###### Artículo 18.
 
-XII.- Salvaguardar y enriquecer el equilibrio ecológico de los ecosistemas; evitar su contaminación y deterioro, considerándolo como un patrimonio social.
+Es obligación de la coalición que se conforme para contender en un proceso electoral, el crear un órgano responsable de la administración del patrimonio y encargado de la obtención de los recursos financieros generales que le sean asignados, debiéndose aplicar lo dispuesto en los artículos 10, 11 y 12 del presente ordenamiento.
 
-XIII.- Participar con el Ayuntamiento en la realización de acciones y en la ejecución de obras y servicios públicos de interés colectivo y bienestar social, derivadas de la planeación democrática y participativa.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-XIV.- Las demás que determinen esta Ley, sus Reglamentos, Bando de Policía y Buen Gobierno y las que dicte el Ayuntamiento.
+### Capítulo II. De los Ingresos y Modalidades de Financiamiento
 
-###### ARTICULO 18.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-El Gobierno Municipal estará a cargo de los Ayuntamientos electos popularmente en los términos de la Constitución Política Local y de la Ley Electoral para el Estado de Sonora.
+###### Artículo 19.
 
-> <small>(REFORMADA, B.O. 8 DE JULIO DE 1996)</small>
+El financiamiento de los partidos políticos y coalición tendrá las modalidades de público o privado, de conformidad con lo dispuesto en el Código Electoral.
 
-### CAPITULO I. DE LA DESAPARICION Y SUSPENSION DE AYUNTAMIENTOS
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 19.
+###### Artículo 20.
 
-El total de miembros de cada Ayuntamiento se determinará con base en el número de habitantes que arroje el último censo de población y conforme a las siguientes bases:
+El financiamiento público prevalecerá sobre los otros tipos de financiamiento. El rubro de financiamiento público para campañas no podrá ser superior a los topes de gastos de campaña.
 
-I.- En los municipios cuya población no exceda de treinta mil habitantes, habrá un presidente municipal, un síndico, tres regidores de mayoría relativa y hasta dos regidores según el principio de representación proporcional;
+Tanto el financiamiento público como el privado tendrán las modalidades de directo, que consistirá en aportaciones en dinero; e indirecto que será el otorgado en bienes o servicios a los que se refiere el Código Electoral y el presente Reglamento de Fiscalización.
 
-II.- En los Municipios cuya población exceda a treinta mil habitantes, pero no de cien mil, habrá un Presidente Municipal, un Síndico y seis regidores de mayoría relativa y hasta cuatro regidores según el principio de representación proporcional; y
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-III.- En los Municipios cuya población exceda de cien mil habitantes, habrá un presidente municipal, un síndico y doce regidores de mayoría relativa y hasta ocho regidores según el principio de representación proporcional.
+###### Artículo 21.
 
-La asignación de regidores por el principio de representación proporcional, se hará de acuerdo con la fórmula electoral que se establezca en la ley de la materia; además, se podrá integrar un regidor designado en los términos del artículo 19 del Código Electoral para el Estado de Sonora.
+El régimen de financiamiento público directo de los partidos políticos tendrá las siguientes modalidades mismas que establece el artículo 53 del Código Electoral y su distribución uso se sujetará a lo dispuesto en el Código Electoral.
 
-###### ARTICULO 20.
+I. Financiamiento público local para partidos políticos; y
 
-Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo, será substituído por su suplente o se procederá según lo disponga la Ley.
+II. Transferencias realizadas por la dirección nacional de los partidos políticos del financiamiento público federal, en su caso.
 
-###### ARTICULO 21.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Los cargos de Presidente Municipal, Síndico y Regidor de un Ayuntamiento, son obligatorios pero no gratuitos y su remuneración se fijará en los presupuestos de egresos de los Municipios que al efecto aprueben los Cabildos de cada uno de ellos. Éstos cargos sólo podrán ser renunciables por causa justificada que calificará el propio Ayuntamiento. En todos los casos conocerá el H. Congreso del Estado quien hará la declaratoria correspondiente y proveerá lo necesario para cubrir la vacante.
+###### Artículo 22.
 
-###### ARTICULO 22.
+El financiamiento público directo de los partidos políticos será el que reciban los partidos políticos con cargo al Presupuesto de Egresos del Gobierno del Estado y deberá repartirse conforme a las reglas que establece el propio Código Electoral.
 
-El día dieciséis de septiembre del año en que se verifique la elección ordinaria correspondiente, en el lugar, y hora señalados por los miembros salientes del Ayuntamiento de que se trate, deberán de comparecer en sesión solemne de Cabildo las personas que, en los términos de la Ley , resultaron electas para ocupar los cargos de Presidente Municipal, Síndico y Regidores, con el fin de que previas las formalidades a que se refiere este Capítulo, asuman el ejercicio de las funciones inherentes a sus cargos.
+En caso de coalición, esta será considerada como un solo partido político, en los términos que establezca el convenio de coalición.
 
-De no señalarse por los miembros salientes del Ayuntamiento, lugar y hora para la celebración de esta Sesión solemne, se entenderá que la misma debe efectuarse en el recinto oficial de sesiones del Ayuntamiento respectivo, a las 10:00 horas del día mencionado en el párrafo anterior.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 23.
+###### Artículo 23.
 
-La sesión inaugural tiene por objeto:
+El régimen de financiamiento privado directo de los partidos políticos tendrá las siguientes modalidades:
 
-I.- La lectura del acta levantada con motivo de la sesión anterior y, la entrega de una memoria sobre el estado de los negocios públicos municipales, expresando cuales sean las diferencias que se hubieren observado en la administración y que medidas podrían aplicarse para subsanarlas.
+I. Financiamiento de la militancia; y
 
-II.- La rendición de la protesta legal de los miembros del Ayuntamiento entrante, ante el Ayuntamiento o ante el Ejecutivo del Estado o su Representante, según el caso.
+II. Financiamiento de simpatizantes.
 
-III.- La declaratoria que hará el nuevo Presidente Municipal de quedar instalado el Ayuntamiento.
+Todas las cuotas aportadas serán recibidas y registradas por el órgano interno responsable de la administración del patrimonio del partido político o coalición a que hace referencia el artículo 10 del presente reglamento y deberán ser depositadas en las cuentas bancarias del partido político o coalición según su naturaleza.
 
-###### ARTICULO 24.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Al término de la ceremonia de instalación, el Presidente Municipal saliente, hará entrega al Ayuntamiento, a través del Presidente Municipal entrante, de todos los bienes propiedad del Municipio, por medio de inventario que será visado por el Síndico saliente. Entregará además, los estados financieros correspondientes al último año de su gestión que comprenderá la balanza de comprobación, el balance general y el estado de resultados que contenga el ejercicio presupuestario de ingresos y egresos.
+###### Artículo 24.
 
-> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 1993)</small>
+El financiamiento de la militancia para los partidos políticos y para sus precampañas y campañas, estará conformado por las cuotas ordinarias y extraordinarias de sus afiliados y por las cuotas voluntarias y personales que los precandidatos o candidatos aporten exclusivamente para sus precampañas y campañas conforme a las siguientes reglas:
 
-###### ARTICULO 25.
+I. El órgano interno responsable del financiamiento de cada partido deberá expedir el recibo de las cuotas o aportaciones recibidas, de los cuales deberá conservar una copia para acreditar el monto ingresado; para dichas aportaciones los partidos políticos y coalición deberán utilizar el Formato 6 “RAM” “Recibo de Aportaciones de Militantes” y conservar una copia de la credencial de elector del aportante;
 
-De no presentarse los miembros salientes del Ayuntamiento a la sesión a que se refiere el artículo 22 de esta Ley, se comunicará tal circunstancia de inmediato al Ejecutivo del Estado, para que éste, en el lugar de la persona que designe, a tomar la protesta a los nuevos integrantes del Ayuntamiento y a proveer lo necesario para que el Ayuntamiento se declare legalmente instalado.
+II. Cada partido político determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de sus afiliados, así como las aportaciones de sus organizaciones, siempre y cuando no exceda los límites previstos en el Código Electoral y el presente reglamento;
 
-###### ARTICULO 26.
+III. Las cuotas voluntarias y personales que los precandidatos y candidatos aporten exclusivamente para su participación en precampañas y campañas electorales tendrán el límite que fije el órgano interno responsable del manejo del financiamiento de cada partido, siempre y cuando no exceda de los límites previstos en el Código Electoral y el presente Reglamento, es decir:
 
-Los Ayuntamientos no podrán considerarse legalmente instalados, cuando no concurran el Presidente Municipal entrante y el número de miembros requeridos para que pueda sesionar válidamente la corporación. Tal situación se comunicará de inmediato al Ejecutivo del Estado, para que proceda conforme lo establece el Articulo 123 de esta Ley.
+- Que el Financiamiento Privado no podrá ser superior al 10% del Financiamiento Público a partidos políticos;
 
-> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 1993)</small>
+- Y el límite anual de aportaciones de Financiamiento Privado Directo no podrá ser superior al 10% del Financiamiento Público para actividades ordinarias que corresponda al partido político con mayor financiamiento;
 
-###### ARTICULO 26
+- Y el límite anual de aportaciones en dinero que realice cada persona facultada, tendrá un límite equivalente al 0.5% del monto total de Financiamiento Público para el sostenimiento de actividades ordinarias permanentes otorgado a los partidos políticos, en el año que corresponda;
 
-BIS.- Cuando se erigiere un nuevo Municipio segregándose de otro u otros a los que hubiere pertenecido, corresponderá al Congreso del Estado designar a propuesta del Gobernador del Estado, un Consejo Municipal que fungirá durante el período constitucional respectivo y tendrá la integración y atribuciones que se les confieren a los Ayuntamientos.
+IV. Las cuotas voluntarias y personales de los militantes para apoyar algún precandidato en los procesos de selección interna de candidatos tendrán el límite que fije el órgano interno responsable del manejo del financiamiento de cada partido, siempre y cuando no exceda de los límites previstos en el Código Electoral; y (sic)
 
-###### ARTICULO 27.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Los miembros de los Ayuntamientos durarán en su cargo tres años e iniciarán sus funciones el día dieciséis de septiembre del año que corresponda a su elección.
+###### Artículo 25.
 
-###### ARTICULO 28.
+El financiamiento de simpatizantes estará conformado por las aportaciones o donativos, en dinero o en especie, hechas a los políticos y coalición en forma libre y voluntaria.
 
-Los Ayuntamientos ejercerán las atribuciones que les señala la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política Local, la presente Ley y los demás ordenamientos jurídicos aplicables. Tendrán su residencia oficial en las Cabeceras de los Municipios que administren y no podrán cambiarla a otro lugar, sin previa autorización del Congreso del Estado, quien calificará los motivos que exprese el respectivo Ayuntamiento.
+Para tal efecto los partidos políticos y coalición deberán utilizar el Formato 8 “RASEF” “Recibo de Aportaciones de Simpatizantes en Efectivo” y el Formato 10 “RASES” “Recibo de Aportaciones de Simpatizantes en Especie” y conservar una copia de la credencial de elector del aportante y elaborar los controles correspondientes.
 
-###### ARTICULO 29.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Los Ayuntamientos como órganos deliberantes deberán resolver los asuntos de su competencia colegiadamente, y al efecto, celebrarán sesiones ordinarias y extraordinarias de Cabildo, que serán públicas, con excepción de aquellas que a juicio del propio Ayuntamiento deban ser secretas.
+###### Artículo 26.
 
-Habrá por lo menos una sesión ordinaria cada mes y las extraordinarias que sean necesarias a juicio del Presidente Municipal o a petición de las dos terceras partes de los integrantes del Ayuntamiento, ajustándose en cada caso al Reglamento Interior.
+El financiamiento privado indirecto estará constituido por:
 
-Para que las sesiones de Cabildo sean válidas se requiere que sean citados todos los integrantes del Ayuntamiento y que se constituya el quórum por lo menos con la mitad más uno de los integrantes. Los acuerdos se tomarán por mayoría absoluta del número de sus miembros presentes en sesión, teniendo el Presidente Municipal voto de calidad en caso de empate.
+I. Las aportaciones en bienes muebles, inmuebles, consumibles y servicios que otorguen los particulares para las actividades del partido político;
 
-###### ARTICULO 30.
+II. El autofinanciamiento; y
 
-Las sesiones de los Ayuntamientos se celebrarán en la Sala de Cabildo, o cuando la solemnidad del caso lo requiera, en el recinto previamente declarado oficial por el propio Ayuntamiento para tal objeto.
+III. El financiamiento por rendimientos financieros, fondos y fideicomisos.
 
-###### ARTICULO 31.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Cada sesión se iniciará con la lectura del acta que contenga el o los acuerdos tomados en la sesión anterior. Después de la lectura, se procederá a suscribir el acta por todos los que intervinieron en la misma.
+###### Artículo 27.
 
-###### ARTICULO 32.
+Las aportaciones en bienes muebles, inmuebles, consumibles y servicios que otorguen los particulares para las actividades del partido político; deberán sujetarse a los controles y límites que establece el presente reglamento.
 
-El miembro del Ayuntamiento que no hubiere sido citado a una sesión de Cabildo, podrá solicitar, dentro de las veinticuatro horas siguientes a la fecha en que haya tenido conocimiento de la sesión a la que no fue citado, que se vuelvan a deliberar en su presencia, el o los acuerdos tomados en su ausencia.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-El miembro del Ayuntamiento que sin aviso y causa justificada falte a cualquier sesión, podrá ser sancionado con una multa que se le impondrá de acuerdo con el Reglamento Interior.
+###### Artículo 28.
 
-### CAPITULO II. DE LA SUSPENSION O REVOCACION DEL MANDATO DE ALGUNO O ALGUNOS DE LOS INTEGRANTES DE LOS AYUNTAMIENTOS
+El autofinanciamiento estará constituido por los ingresos que los partidos políticos obtengan de sus actividades promociónales, tales como conferencias, espectáculos, juegos y sorteos, eventos culturales, ventas editoriales, de bienes y de propaganda utilitaria así como cualquier otra similar que realicen para allegarse de fondos, las que estarán sujetas a las leyes correspondientes a su naturaleza. El órgano de finanzas de cada partido y coalición reportará los ingresos obtenidos por estas actividades en los informes respectivos a través del Formato 14 “CE-AUTO” “Control de Eventos de Autofinanciamiento” y los respectivos controles.
 
-###### ARTICULO 33.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Las actas de las sesiones de Cabildo se consignarán en un Libro que se llevará por duplicado, uno de los cuales deberá conservar el Secretario del Ayuntamiento y el otro lo deberá de enviar al Congreso del Estado para formar parte del Archivo Histórico del Estado.
+###### Artículo 29.
 
-###### ARTICULO 34.
+Para obtener financiamiento por rendimientos financieros los partidos políticos podrán crear fondos o fideicomisos con su patrimonio o con las aportaciones que reciban, adicionalmente a las provenientes de las modalidades del financiamiento señaladas en el artículo 65 del Código Electoral.
 
-Los Ayuntamientos podrán ordenar la comparecencia de cualquier funcionario de la Administración Pública Municipal, cuando se discuta algún asunto de la competencia del compareciente.
+Los fondos y fideicomisos que se constituyan serán manejados por conducto de las operaciones bancarias y financieras que el órgano responsable del financiamiento de cada partido político considere conveniente, con excepción de la adquisición de valores bursátiles.
 
-###### ARTICULO 35.
+Los partidos políticos podrán establecer en instituciones bancarias domiciliadas en México cuentas, fondos o fideicomisos para la inversión de sus recursos líquidos a fin de obtener rendimientos financieros de conformidad a lo dispuesto en el Código Electoral y el presente reglamento de fiscalización.
 
-El Secretario del Ayuntamiento podrá expedir certificaciones de los Acuerdos asentados en los Libros de Actas, siempre que el solicitante acredite su interés legítimo y no se perjudique el interés público.
+El financiamiento por rendimientos financieros se sujetará a las siguientes reglas:
 
-###### ARTICULO 36.
+a) Las aportaciones que se realicen, a través de esta modalidad, les serán aplicables las disposiciones contenidas en artículo 65 fracciones VII, VIII y IX del Código Electoral y las leyes correspondientes, atendiendo al tipo de operación realizada;
 
-En todo el Estado se dará entera fe y crédito a los actos y despachos de las Autoridades Municipales en asuntos de su competencia.
+b) Los fondos y fideicomisos que se constituyan serán manejados a través de las operaciones bancarias y financieras que el órgano responsable del financiamiento de cada partido político considere conveniente, con excepción de la adquisición de valores bursátiles, pero solo podrán hacerlo en instrumentos de deuda emitidos por el gobierno mexicano en moneda nacional y a un plazo no mayor de un año;
 
-###### ARTICULO 37.
+c) En todo caso, las cuentas, fondos y fideicomisos no estarán protegidos por los secretos bancario o fiduciario, por lo que se podrá requerir en todo tiempo la información detallada sobre su manejo y operaciones a través de la Unidad de Fiscalización del Instituto Federal Electoral;
 
-Son facultades y obligaciones de los Ayuntamientos:
+d) Los rendimientos financieros obtenidos a través de esta modalidad de financiamiento deberán destinarse para el cumplimiento de los objetivos del partido político.
 
-I.- Elaborar, aprobar y publicar en los términos de Ley, el Plan Municipal de Desarrollo correspondiente a su período constitucional de gobierno y derivar de éste, los programas para la ejecución de obras y la prestación de los servicios de su competencia.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-II.- Constituir los órganos de planeación y presidir los mismos por conducto del Presidente Municipal.
+###### Artículo 30.
 
-III.- Determinar los mecanismos para la actualización, instrumentación, control y evaluación de su Plan Municipal de Desarrollo.
+Se consideran ingresos por rendimientos financieros los intereses que obtengan los partidos políticos por las cuentas bancarias a que se hace referencia en el presente reglamento, así como los provenientes de inversiones en valores o cualquier otra operación financiera.
 
-IV.- Promover las actividades productivas del Municipio, alentado y organizando el desarrollo de la agricultura, ganadería, pesca, industria, minería y de otras actividades que propicien la prosperidad de sus habitantes.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-V.- Ejercer las facultades que en materia de desarrollo urbano y ecología, les confieran la Constitución General de la República y las Leyes Federales y Locales, así como ejercer las atribuciones que les confieran las Fracciones V y VI del Artículo 115 de la Constitución General de la República.
+###### Artículo 31.
 
-VI.- Establecer el Sistema de Información Económica y Social del Municipio.
+Para constituir un fondo o fideicomiso, los partidos políticos deberán sujetarse a las siguientes reglas:
 
-VII.- Aprobar los Convenios que con su autorización previa celebre el Presidente Municipal.
+a) Podrá constituirse con recursos provenientes del financiamiento público, del financiamiento privado, o de ambos. En su caso, para la recepción de las aportaciones privadas con las que se pretenda constituir, deberán extenderse los recibos correspondientes a las personas que las realicen, de conformidad con lo establecido en los artículos 23, 24 y 25 del presente reglamento, según el caso. Las aportaciones recibidas deberán ser depositadas en alguna de las cuentas bancarias a que se hace referencia en los artículos 38 y 39 del presente reglamento. A las aportaciones que se realicen resultarán aplicables los límites de financiamiento establecidos en el presente reglamento y en el Código Electoral;
 
-VIII.- Coordinarse con el Ejecutivo Estatal y por su conducto con el Ejecutivo Federal a efecto de:
+b) El fondo o fideicomiso será manejado a través de las operaciones bancarias y financieras que el órgano responsable del financiamiento de cada partido considere convenientes;
 
-a) Intervenir en el proceso de planeación del desarrollo estatal y nacional, de acuerdo con lo que establezcan las leyes.
+c) Los fondos y fideicomisos deberán ser registrados ante la Comisión de Fiscalización, remitiendo un ejemplar del contrato o convenio correspondiente, dentro de los treinta días siguientes a su constitución.
 
-b) Promover el desarrollo de programas de viviendas y urbanismo.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-c) Realizar la construcción, reconstrucción y conservación de edificios públicos federales o estatales, monumentos y demás obras públicas.
+###### Artículo 32.
 
-d) Prever las necesidades de tierra para vivienda y para el desarrollo urbano e intervenir en el Sistema tendiente a satisfacer dichas necesidades.
+Los ingresos que perciban los partidos políticos por rendimientos financieros, fondos o fideicomisos, estarán sustentados con los estados de cuenta que les remitan las instituciones bancarias o financieras, así como por los documentos en que consten los actos constitutivos o modificatorios de las operaciones financieras de los fondos o fideicomisos correspondientes.
 
-e) Participar en la ejecución de programas de regularización de tenencia de suelo urbano.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+### Capítulo II.1.. De las cuentas bancarias y los registros contables
 
-f) Llevar a cabo las acciones, programas y políticas que al efecto, la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora le establece, y expedir los reglamentos, las circulares y demás disposiciones de observación general que resulten necesarios para dar cumplimiento a lo establecido en la Ley de referencia y dentro de su jurisdicción, siendo ésta, la base normativa para la expedición de las disposiciones jurídicas mencionadas;
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-g) Cuidar los recursos naturales y turísticos de su circunscripción territorial.
+###### Artículo 33.
 
-> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+Los ingresos que reciban los partidos políticos y coalición durante el ejercicio ordinario, las precampañas y las campañas electorales por cualquiera de las modalidades de financiamiento, deberán apegarse, en el control y registro de sus operaciones financieras a lo establecido por el Código Electoral, el presente Reglamento de Fiscalización y las disposiciones contenidas en las Normas de Información Financiera.
 
-h).- Intervenir en los términos que establece la Ley Agraria, en la localización, deslinde y fraccionamiento de la zona de urbanización de las tierras ejidales destinadas al asentamiento humano y tener preferencia para adquirir las tierras con vocación urbana que excedan de la pequeña propiedad individual;
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-i) Vigilar la correcta aplicación de los precios y tarifas autorizadas y registradas y la prestación de servicios turísticos, conforme a las disposiciones legales aplicables.
+###### Artículo 34.
 
-j) Vigilar el estricto cumplimiento de los precios, particularmente de los que se refiere artículos de consumo y uso popular.
+Todos los ingresos que reciban los partidos políticos y coalición durante el ejercicio ordinario, las precampañas y las campañas electorales por cualquiera de las modalidades de financiamiento deberán depositarse en cuentas bancarias a nombre del partido político, que serán manejadas en forma mancomunada por el encargado del órgano de finanzas y quien designe el partido político. Los estados de cuenta respectivos deberán conciliarse mensualmente.
 
-k) Ejecutar programas de abasto.
+Durante la revisión de los informes anuales, de precampaña y de campaña, la Comisión de Fiscalización revisará los estados de cuenta aludidos así como las conciliaciones respectivas.
 
-l) Crear y administrar establecimientos de salubridad, asistencia pública y terapia social.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-m) Coadyuvar en la ejecución y conservación de caminos y puentes de jurisdicción federal o estatal.
+###### Artículo 35.
 
-n) Proponer la construcción de pequeñas obras de irrigación a ejecutarse en su jurisdicción e intervenir en la proyección, ejecución y conservación de bordos, canales, tajos y abrevaderos que competa realizar al Gobierno Federal por si o en cooperación con el Gobierno del Estado o los particulares.
+En la medida de sus necesidades y requerimientos, cada partido político podrá abrir cuentas adicionales para llevar su control contable, y deberá abrirlas para controlar los gastos de mayor cuantía.
 
-ñ) En general, coordinarse conforme a la ley, para asumir el ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos del Gobierno Federal y Estatal cuando su desarrollo económico y social lo hagan necesario.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-IX.- Auxiliar en sus funciones a las autoridades Federales y Estatales.
+###### Artículo 36.
 
-X- Iniciar leyes y decretos ante el Congreso del Estado, en lo concerniente a sus Municipios.
+El órgano de finanzas de cada partido político y coalición deberá elaborar una balanza mensual de comprobación a último nivel.
 
-XI.- Prestar en sus respectivas jurisdicciones y en los términos fijados en las leyes relativas, los siguientes servicios públicos:
+###### Artículo 37.
 
-a) Agua Potable y Alcantarillado
+Al final de cada ejercicio, el órgano de finanzas de cada partido político deberá elaborar con base en las balanzas mencionadas en el artículo anterior, una balanza de comprobación anual estatal, que deberá ser entregada conjuntamente con los informes anuales; para los informes de precampañas y campañas se deberá entregar conjuntamente con dichos informes una balanza de comprobación acumulada del mes o los meses que haya durado la precampaña y campaña, respectivamente.
 
-b) Alumbrado Público
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-c) Limpia
+###### Artículo 38.
 
-> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+Todos los recursos en efectivo que provengan de cualquier modalidad de financiamiento que reciban los órganos directivos estatales de cada partido político, en términos de lo establecido por la Constitución Política del Estado Libre y Soberano de Morelos y el Código Electoral, deberán ser depositados en cuentas bancarias de cheques, que se identificarán como CBODE-(Partido)-(Número) “Cuenta Bancaria Órgano Directivo Estatal (Partido) (Número)”.
 
-d).- Mercados y centrales de abasto;
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-e) Panteones
+###### Artículo 39.
 
-f) Rastros
+Todos los recursos en efectivo que provengan de cualquier modalidad de financiamiento que reciban los Comités Municipales u órganos equivalentes de los partidos políticos en términos del Código Estatal Electoral para gasto ordinario, de precampañas y campañas, y los recursos en efectivo que a dichos órganos sean transferidos por el órgano directivo estatal, deberán ser depositados en cuentas bancarias independientes, a las cuales no podrán ingresar recursos que no hayan sido recibidos por el partido político en los términos de la legislación estatal.
 
-> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+Estas cuentas se identificarán como CBM-(Partido)(Municipio)(Número) “Cuenta Bancaria Municipio (Partido)(Municipio)(Número) ”. Los partidos políticos deberán acreditar el origen y destino de todos los recursos depositados en dichas cuentas al Consejo Estatal Electoral, quien turnará la documentación correspondiente a la Comisión de Fiscalización para su revisión y análisis.
 
-g).- Calles, estacionamientos, parques, jardines y campos deportivos;
+Dichos ingresos y gastos serán reportados en los informes correspondientes, de conformidad a las disposiciones del presente Reglamento de Fiscalización.
 
-h) Seguridad Pública y Tránsito
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-i) Los demás que les señalen el Congreso del Estado, según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa, técnica y financiera.
+###### Artículo 40.
 
-En el caso de que alguno o algunos de estos servicios no se presten eficazmente, el Congreso del Estado intervendrá para resolver lo conducente, a excepción del servicio público de las fuerzas de Seguridad Pública y Tránsito, cuyo manejo y mando se ajustará a las disposiciones que sobre esta materia especifica la Constitución General de la República, la Constitución Política del Estado y las leyes reglamentarias.
+Los partidos políticos deberán abrir una cuenta bancaria para los recursos que manejen los precandidatos para gastos de precampaña por cada tipo de elección en la que se postulen candidatos a cargos de elección popular, las cuales se identificarán como:
 
-XII.- Prestar los servicios públicos municipales a que se refiere la fracción anterior, con el concurso del Estado, cuando así fuere necesario y lo determinen las leyes, así como en coordinación y asociación con otros Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley.
+- CBCPSI - Partido - Número “(Cuenta Bancaria Concentradora Proceso de Selección Interna) (Partido) (Número)”
 
-XIII.- Expedir, de acuerdo con las bases normativas que establezca el Congreso, los Bandos de Policía y Buen Gobierno y los Reglamentos, circulares y demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
+- CBCPG - Partido -Número “(Cuenta Bancaria Concentradora Precampaña Gobernador) (Partido) (Número)”
 
-XIV.- Formular su Reglamento Interior que defina el gobierno, la organización y funcionamiento del propio Ayuntamiento, así como la creación, organización y funcionamiento de sus dependencias directas.
+- CBCPD - Partido -Número “(Cuenta Bancaria Concentradora Precampaña Diputados) (Partido) (Número)”
 
-XV.- Crear, previa autorización del Congreso y conforme lo señalen las Leyes, organismos descentralizados, fideicomisos y empresas públicas de participación municipal, para la atención de los servicios públicos y para el desarrollo económico.
+- CBCPA - Partido -Número “(Cuenta Concentradora Precampaña Ayuntamientos) (Partido) (Número)”
 
-XVI.- Aprobar los nombramientos de Secretario y Tesorero que haya realizado el Presidente Municipal.
+Los partidos políticos deberán acreditar el origen y destino de todos los recursos depositados en dichas cuentas al Consejo Estatal Electoral, quien turnará la documentación correspondiente a la Comisión de Fiscalización para su revisión y análisis.
 
-XVII.- Nombrar apoderados y representantes generales o especiales que hagan valer los derechos que correspondan al Municipio, sin perjuicio de las facultades que esta Ley confiere al Síndico Municipal.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-XVIII.- Nombrar comisiones técnicas para los asuntos que lo requieran.
+###### Artículo 41.
 
-XIX.- Vigilar que los actos de las autoridades municipales, observen los requisitos de legalidad y seguridad jurídica que establece la Constitución Política de la República.
+Para el manejo de los ingresos y egresos de la operación ordinaria del Partido Político, se deberá abrir una cuenta bancaria, la cual se identificará como:
 
-XX.- Acordar y llevar a cabo programas de capacitación en beneficio de sus funcionarios y empleados, en base a las necesidades de la administración y a los recursos disponibles.
+- CBODE-(Partido)-(Número) “Cuenta Bancaria Órgano Directivo Estatal -(Partido)-(Número)”.
 
-XXI.- Designar en la primera sesión que celebren en el mes de enero de cada año, como lo previene el Código Civil del Estado, a los integrantes del Consejo Local de Tutelas del Municipio.
+Para las precampañas los partidos políticos y coalición deberán abrir las cuentas bancarias a que hace referencia el artículo 40 del presente reglamento.
 
-> <small>(REFORMADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+Y para el manejo de los egresos de los gastos de campaña de proceso electoral del Partido Político deberá abrir una cuenta que se identificará como CBODEC (Cuenta Bancaria Órgano Directivo Estatal Campaña).
 
-XXII.- Someter al examen y aprobación del Congreso durante la segunda quincena del mes de noviembre de cada año, las Leyes de Ingresos y Presupuestos de Ingresos, que deberán regir en el año siguiente. Para su ejercicio, todo ingreso adicional o excedente que reciba el Ayuntamiento,, deberá ser autorizado previamente por el Congreso del Estado.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-XXIII.- Aprobar, con base en las contribuciones y demás ingresos que determine anualmente el Congreso, sus Presupuestos de Egresos y publicarlos en el Boletín Oficial del Gobierno del Estado de Sonora.
+###### Artículo 42.
 
-XXIV.- Enviar trimestralmente al Congreso, los estados financieros que comprenderán la balanza de comprobación, el balance general y el estado de resultados que contenga el ejercicio presupuestario de ingresos y egresos que se lleve a la fecha.
+Para el manejo de los ingresos y egresos que se efectúen en las campañas políticas para Gobernador del Estado de Morelos, cada partido político deberá abrir una cuenta bancaria única para su campaña, la cual se identificará como:
 
-XXV.- Someter al examen y aprobación del Congreso, anualmente en la primera quincena del segundo periodo de sesiones ordinarias, sus cuentas públicas del año anterior.
+- CBCGEM-(Partido)-(Número) “Cuenta Bancaria Campaña Gobernador del Estado de Morelos (Partido)- (Número)”.
 
-XXVI.- Glosar las cuentas del Ayuntamiento saliente, en un término de noventa días contados a partir de la fecha de toma de posesión. Si de la glosa resultaron diferencias con las cuentas públicas aprobadas por el Congreso, será éste quien decida lo conducente.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-XXVII.- Formular los estados financieros que comprenderán la balanza de comprobación, el balance general y el estado de resultados que contenga el ejercicio presupuestario de ingresos y egresos correspondientes al último año de su gestión y entregarlos al concluir sus funciones al Ayuntamiento entrante.
+###### Artículo 43.
 
-XXVIII.- Administrar los recursos económicos de que dispongan, conforme a las bases normativas establecidas en el Artículo 150 de la Constitución Política Local y en las Leyes.
+Para el manejo de los ingresos y egresos que se efectúen en las campañas políticas para diputados por el principio de mayoría relativa, cada partido político deberá abrir una cuenta bancaria única para cada campaña, la cual se identificará como:
 
-XXIX.- Publicar en el Boletín Oficial del Gobierno del Estado, sus Presupuestos de Egresos, Bandos de Policía y Buen Gobierno, Reglamentos, Circulares y demás disposiciones administrativas de observancia general en su jurisdicción.
+- CBCDMR-(Partido)- (Distrito) - (Número) “Cuenta Bancaria Campaña Diputado de Mayoría Relativa (Partido)-(Distrito)-(Número)”.
 
-XXX.- Conocer y evaluar las necesidades y capacidad de endeudamiento de la Administración Pública Municipal.
+En el entendido de que deberá presentarse un informe de campaña por cada fórmula de candidatos, como lo establece el presente reglamento.
 
-XXXI.- Autorizar la ampliación, transferencia y supresión de las partidas del Presupuesto de Egresos, en los términos de Ley.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-XXXII.- Glosar anualmente por medio de su Tesorería las cuentas de sus Comisarías y Delegaciones y en caso de irregularidades, exigir las responsabilidades que conforme a la Ley correspondan.
+###### Artículo 44.
 
-XXXIII.- Publicar mensualmente en la tabla de avisos del Ayuntamiento o en alguno de los periódicos de circulación en el Municipio, el estado de origen y aplicación de fondos.
+En el caso de las campañas políticas para presidentes municipales, los partidos políticos deberán abrir cuentas bancarias. Estas cuentas se identificarán como CBCPM (Partido)- (Presidente) - (Número) “Cuenta Bancaria Campaña Presidente Municipale - (Partido) - (Presidente) - (Municipio)”.
 
-XXXIV.- Vigilar que quienes manejen valores municipales, garanticen dicho manejo.
+En el entendido de que deberá presentarse un informe de campaña por cada fórmula de candidatos, como lo establece el presente reglamento.
 
-XXXV.- Aceptar las donaciones o legados que se hicieren al Municipio.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-XXXVI.- Solicitar al Gobierno del Estado o Federal, en su caso, la expropiación de bienes por causa de utilidad pública.
+###### Artículo 45.
 
-XXXVII.- Otorgar concesiones para la prestación de servicios públicos de su competencia, en la forma y términos que señalen las leyes.
+Las cuentas bancarias a que se refieren los artículos anteriores deberán abrirse a nombre del partido político y serán manejadas mancomunadamente por las personas que designe cada órgano directivo y por el responsable del órgano de finanzas del partido.
 
-XXXVIII.- Solicitar, por conducto del Ejecutivo al Congreso del Estado por razones de orden de interés público, la municipalización de los servicios públicos de su competencia que estén a cargo de particulares.
+Los estados de cuenta respectivos deberán conciliarse mensualmente.
 
-XXXIX.- Establecer las bases para la participación, colaboración y cooperación de los vecinos, en la prestación, construcción y conservación de los servicios y obras públicas.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-XL.- Establecer el Sistema Municipal de Asistencia Social, en el que se integren entre otros, programas específicos y acciones concretas en favor de los menores de edad y la familia.
+###### Artículo 46.
 
-XLI.- Nombrar y remover a los funcionarios y empleados de su dependencia y concederles licencia de acuerdo a las leyes aplicables.
+Todos los recursos que ingresen a la cuenta CBCGEM (Cuenta Bancaria Campaña para Gobernador del Estado de Morelos) CBCDMR-(Partido)- (Distrito) - (Número) “Cuenta Bancaria Campaña Diputados de Mayoría Relativa (Partido)-(Distrito)-(Número)” y CBCPM (Cuenta Presidentes Municipales) deberán provenir de la cuenta CBODEC (Cuenta Bancaria Órgano Directivo Estatal Campaña).
 
-XLII.- Conceder pensiones a los empleados del Municipio en reconocimiento a su antigüedad en la función pública, así como a las viudas y huérfanos de los mismos, en los términos de Ley.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-XLIII.- Otorgar reconocimiento público al mérito de personas físicas o morales por acciones o conductas valiosas o relevantes realizadas en beneficio de la Comunidad.
+###### Artículo 47.
 
-XLIV.- Auxiliar a la Secretaria de Gobernación en las funciones que a ésta corresponden, en el Registro de Población e Identificación Personal y en las demás materias reguladas por la Ley General de Población y su Reglamento.
+Los gastos de campaña del proceso electoral y las erogaciones que involucren dos o más campañas deberán efectuarse con recursos provenientes de cuentas CBODEC (Cuenta Bancaria Órgano Directivo Estatal Campaña) del partido político.
 
-XLV.- Llevar un libro local de registro en el que conste el nombre, edad, nacionalidad, calidad migratorio, ocupación, estado civil, domicilio y en su caso el domicilio conyugal de los extranjeros radicados en su jurisdicción, así como el número de su forma migratorio. Se anotará además, los cambios de domicilio y las bajas ocurridas por fallecimiento, por ausencia de los extranjeros o cuando salga a radicar en otro lugar, precisando, de ser posible, la nueva dirección. Asimismo, deberá remitir mensualmente al Registro Nacional de Extranjeros una relación completa de los movimientos ocurridos en el mes.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-XLVI.- Proporcionar a los Poderes del Estado, los informes y documentos que les soliciten sobre cualquier asunto de competencia del Ayuntamiento. Será causa de responsabilidad, en los términos que fije la Ley de la materia, la falta de cumplimiento de las órdenes legítimas que reciban de los Poderes del Estado.
+###### Artículo 48.
 
-XLVII.- Rendir a la población por conducto del Presidente Municipal, un informe anual detallado sobre el estado que guarden los asuntos municipales. Dicho informe será comunicado por escrito al Congreso del Estado y al Gobernador.
+Los ingresos provenientes de los órganos de dirección nacional o sus equivalentes de los partidos políticos, deberán ser depositados en una cuenta diferente a la de los ingresos estatales.
 
-XLVIII.- Aplicar las sanciones por infracciones a los Bandos de Policía y Buen Gobierno y demás Reglamentos Municipales, con base en lo que establezca esta ley y dichos ordenamientos.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-> <small>(ADICIONADO, B.O. 26 DE ABRIL DE 1993)</small>
+###### Artículo 49.
 
-Cuando en los Ayuntamientos de los Municipios, no existan Jueces Calificadores, las funciones que las leyes de la materia confieren a éstos, podrán ser ejercidas por el Secretario del Ayuntamiento;
+Los ingresos que reciban los partidos políticos o coalición por cualquier modalidad de financiamiento en el estado, no podrán ser utilizados ni transferidos a órganos de dirección estatal de otras entidades federativas ni a órganos de dirección nacional o sus equivalentes.
 
-XLIX.- Resolver los recursos interpuestos en contra de los acuerdos dictados por las autoridades municipales o por el propio Ayuntamiento, sin perjuicio de lo dispuesto en las leyes fiscales.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-L.- Las demás que les señalen la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Sonora, esta Ley y demás ordenamientos jurídicos.
+###### Artículo 50.
 
-###### ARTICULO 38.
+Los recursos en efectivo provenientes del financiamiento privado otorgados a los precandidatos y candidatos deberán ser recibidos por el órgano responsable de las finanzas del partido político o coalición, salvo los rendimientos financieros que produzcan las cuentas de cheques en que se manejen los recursos de la precampaña y campaña.
 
-Se prohíbe a los Ayuntamientos:
+Así como los recursos en especie que reciban los precandidatos y candidatos, caso en el cual quedan obligados a cumplir con todas las reglas aplicables para la recepción de esta clase de aportaciones, en correlación con lo dispuesto por el artículo 23 del presente reglamento.
 
-I.- Ejercer atribuciones que la Ley no les conceda y rehusar el cumplimiento de las obligaciones que ésta les impone.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-II.- Cobrar contribuciones que no estén establecidas en la Ley de Ingresos Municipales o decretadas por el Congreso del Estado.
+###### Artículo 51.
 
-III.- Ejercer en programas aprobados diversos, las partidas destinadas a sus Comisarlas o Delegaciones.
+Los registros contables de los partidos políticos deben separar en forma clara los ingresos que tengan en especie de aquellos que reciban en efectivo.
 
-IV.- Conceder a sus funcionarios o empleados, gratificaciones, compensaciones o sobresueldos que no estén comprendidos en los Presupuestos de Egresos respectivos; y pagar con exceso, las remuneraciones personales que por el desempeño de su empleo, cargo o comisión, estén fijadas en dichos Presupuestos de Egresos.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-V.- Ejercer sus recursos económicos públicos en fines distintos a los señalados en los Programas a que estén afectos.
+###### Artículo 52.
 
-VI.- Retener o invertir para fines distintos, la cooperación que en numerario o en especie, hayan enterado a la Hacienda Pública Municipal los representantes de los grupos sociales o los particulares interesados, para la realización de obras públicas o para la prestación de cualquier servicio público.
+Los registros que emanen del financiamiento de los órganos de dirección nacional de los partidos políticos deberán contabilizarse por separado de los registros por financiamiento en el estado.
 
-VII.- Donar y vender bienes del patrimonio del Municipio, sin autorización previa del Congreso.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-VIII.- Eximir a alguno de sus miembros o a los funcionarios y empleados municipales, del cumplimiento de sus obligaciones o de las responsabilidades en que incurran.
+### Capítulo II.2.. De los Formatos para el Control de los Ingresos
 
-IX.- Concesionar los servicios de seguridad pública y tránsito.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 39.
+###### Artículo 53.
 
-Los Ayuntamientos deberán someter en todo caso a la aprobación del Congreso del Estado:
+El órgano de finanzas de cada partido político deberá autorizar la impresión de los recibos foliados que se expedirán para amparar las cuotas o aportaciones de militantes y simpatizantes recibidas en los términos establecidos por el Código Electoral e informará a la Comisión de Fiscalización, del número consecutivo de los folios de los recibos impresos; dichos recibos deberán presentarse conjuntamente con los informes de precampaña y campaña según corresponda, a la Comisión de Fiscalización, para su revisión correspondiente.
 
-I.- La creación de contribuciones y toda clase de resoluciones que importen tribulaciones.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-II.- Los empréstitos de todo género.
+###### Artículo 54.
 
-III.- La enajenación, gravamen, cambio de destino y desincorporación de sus bienes de dominio público y la enajenación y gravamen de sus bienes de dominio privado.
+Todos los recibos utilizados por el partido político o coalición para el registro y control de los ingresos, se deberán expedir en forma consecutiva. El original deberá entregarse a la persona u organización que efectúa la aportación; una copia será remitida al órgano de finanzas del partido y otra copia permanecerá en poder del órgano estatal o municipal del partido que haya recibido la aportación, en su caso.
 
-###### ARTICULO 40.
+Los recibos deben ser llenados de manera tal que los datos resulten legibles en todas las copias, con el objeto de facilitar su cotejo y revisión a la Comisión de Fiscalización.
 
-El Presidente Municipal es el responsable de ejecutar y comunicar las decisiones del Ayuntamiento. Deberá residir en la Cabecera Municipal, durante el lapso de su período constitucional y tiene las siguientes facultades y obligaciones:
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-I.- Dentro de su competencia cumplir y hacer cumplir las disposiciones contenidas en las Leyes y Reglamentos Federales, Estatales y Municipales.
+###### Artículo 55.
 
-II.- Promulgar y publicar el Reglamento Interior del Ayuntamiento.
+Los partidos políticos y coalición deberán llevar un control de folios de los recibos que se impriman y expidan por el órgano directivo estatal y en cada municipio. Con los cuales se integrará un anexo técnico que deberá ser presentado conjuntamente con los informes que rindan los partidos políticos mismo que deberá contener lo siguiente:
 
-III.- Presidir los actos cívicos y públicos en la Cabecera Municipal salvo el caso de que en el Municipio residiera habitual o se encontrare transitoriamente el Ejecutivo del Estado.
+- Especificar los que corresponden al Órgano Directivo Estatal.
 
-IV.- Concurrir a las reuniones generales o regionales de Presidentes Municipales, a que fuere convocado por el Ejecutivo del Estado, para plantear la problemática, soluciones y programas de trabajo respecto de su Municipio.
+- Nombre de municipio.
 
-V.- Celebrar, a nombre del Ayuntamiento y por acuerdo de éste, todos los actos y contratos necesarios para el despacho de los asuntos administrativos y la atención de los servicios públicos municipales.
+- Nombre o razón social del impresor.
 
-> <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
+- Registro Federal de Contribuyentes del impresor.
 
-VI.- Controlar, vigilar y evaluar a las dependencias y entidades paramunicipales, en los términos previstos en esta Ley.
+- Autorización de la Secretaría de Hacienda y Crédito Público para imprimir comprobantes fiscales.
 
-VII.- Nombrar al Secretario y Tesorero de la Corporación Municipal y someter los nombramientos a la aprobación del Ayuntamiento.
+- Numeración del tiraje realizado por el impresor.
 
-VIII.- Convocar al Ayuntamiento a sesiones, en la forma y términos que establezca la Ley y el Reglamento Interior respectivo y presidir, en todo caso, las sesiones.
+- Fecha de impresión de los recibos.
 
-IX.- Rendir mensualmente al Ayuntamiento, un informe del estado de la administración en todos sus aspectos.
+Dichos controles permitirán verificar los recibos cancelados, el número total de recibos impresos, los recibos utilizados con su importe total y los recibos pendientes de utilizar. Los controles de folios deberán presentarse de conformidad con los Formatos 7 “CF-RAM”, 9 “CF-RASEF”, 11 “CF-RASES”, 13 “CF-REAPAC” y los Formatos 15 “DAM”, 16 “DAS”, 17 “DIA”, 18 “DIRFFF” y el anexo técnico de referencia deberán remitirse junto con el informe anual, de precampaña y de campaña según corresponda, con la finalidad de verificar el origen y monto de las aportaciones.
 
-X.- Informar anualmente a la población en sesión solemne de Cabildo, del estado que guarda la Administración Municipal y de las labores realizadas durante ese año.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-XI.- Conocer de los problemas de las Comisarlas y Delegaciones del Municipio, a fin de promover e impulsar su solución.
+###### Artículo 56.
 
-XII.- Vigilar que la recaudación de la Hacienda Pública se haga conforme a lo dispuesto en las leyes respectivas.
+Los recibos para las aportaciones de militantes se imprimirán según el Formato 6 “RAM” “Recibos de Aportaciones de Militantes”.
 
-XIII.- Autorizar el ejercicio de los recursos públicos municipales, en base al Presupuesto de Egresos aprobado.
+Cada recibo foliado se imprimirá en original y dos copias, la numeración de los folios se hará conforme a treinta y cuatro series distintas, una para las aportaciones que reciba el órgano directivo estatal del partido, que será:
 
-XIV.- Visar los documentos por pagar, dar órdenes de cobro y de pagar si la naturaleza del caso lo exige, siendo responsable de las irregularidades que se cometieron.
+- RAM (Partido)-ODE-(Número)
 
-XV.- Conceder licencias, permisos y autorizaciones con sujeción a las Leyes y Reglamentos Municipales respectivos, que no estuvieron reservadas al Ayuntamiento.
+Y las otras para las aportaciones que reciban los órganos del partido en cada municipio, que será:
 
-XVI.- Vigilar y preservar el patrimonio cultural e histórico del Municipio.
+- RAM-(Partido)-(Municipio)-(Número), (sic)
 
-XVII.- Formar y actualizar el catastro y padrón municipal, cuidando de que se inscriban en este último todos los vecinos, expresando su nombre, edad, estado civil, nacionalidad, residencia, domicilio, propiedades, profesión, actividad productiva o trabajo de que subsistan, si son jefes de familia, en cuyo caso, se expresará el número y sexo de las personas que la formen.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
+###### Artículo 57.
 
-XVIII.- Ser auxiliar de la federación en la aplicación de la Ley de asociaciones Religiosas y Culto Público, reglamentaria de los artículos 24 y 130 constitucionales, debiendo recibir los avisos respecto a la celebración de actos religiosos y culto público con carácter extraordinario fuera de los templos y ejercer sus facultades al respecto. De igual manera, registrar los tiempos que existan o se abran al culto religioso, así como a los encargados de los mismos, y sus cambios, notificando de todo lo actuado a la Secretaría de Gobernación por conducto del Gobernador del Estado;
+Los recibos para aportaciones en efectivo se imprimirán según el Formato 8 “RASEF” “Recibo de Aportaciones de Simpatizantes en Efectivo” y para las aportaciones en especie de conformidad al Formato 10 “RASES” “Recibo de Aportaciones de Simpatizantes en Especie”.
 
-XIX.- Ejercer las atribuciones que en el ramo de mostrencos les confieran.
+Cada recibo foliado se imprimirá en original y dos copias, la numeración de los folios se hará conforme a treinta y cuatro series distintas, una para las aportaciones que reciba el órgano directivo estatal del partido que serán respectivamente:
 
-XX.- Promover la organización y participación ciudadana para el desarrollo integral de los Municipios.
+- RASEF-(Partido) - ODE - (Número)
 
-XXI.- Llevar las estadísticas de los sectores económicos y sociales del Municipio, en los términos que señalen las leyes.
+- RASES-(Partido) - ODE - (Número)
 
-XXII.- Promover la comunicación social.
+Y para las aportaciones que reciban los órganos del partido en cada municipio, que serán respectivamente:
 
-XXIII.- Ejercer funciones de conciliación buscando la armonía de la vida comunitaria.
+- RASEF-(Partido)(Municipio)-(Número)
 
-XXIV.- (DEROGADA, B.O. 26 DE ABRIL DE 1993)
+- RASES-(Partido)-(Municipio)-(Número).
 
-XXV.- Auxiliar, previa solicitud, a quienes ejerzan la patria potestad en el desempeño de ésta, de conformidad con las prevenciones legales del caso.
+En el caso de las aportaciones en especie, deberá expresarse, en el cuerpo del recibo, la información relativa al bien aportado y el criterio de valuación que se haya utilizado para determinar su precio. Dichas aportaciones deberán destinarse únicamente para el cumplimiento de los fines del partido político que haya sido beneficiado con la aportación.
 
-XXVI.- Promover el establecimiento de hogares y guarderías infantiles, parques e instalaciones deportivas; centros de recreación formativa para menores de edad, centros de asistencia infantil, casas de cuna y establecimientos para menores huérfanos, abandonados, maltratados o de padres indigentes.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-XXVII.- Promover campañas de salud, alfabetización y de regularización del estado civil de las personas.
+###### Artículo 58.
 
-XXVIII.- Prevenir y combatir en auxilio de las autoridades competentes, el alcoholismo, la prostitución y la adicción a los estupefacientes y toda actividad que implique una conducta antisocial.
+Deberá llevarse un control de folios de los recibos que se impriman y expidan por el órgano directivo estatal y en cada municipio. Dichos controles permitirán verificar los recibos cancelados, el número total de recibos impresos, los recibos utilizados con su importe total y los recibos pendientes de utilizar. Los controles de folios deberán remitirse junto con los informes anuales, a través de los formatos:
 
-XXIX.- Cuidar de la conservación del suelo, agua, flora y fauna existentes en el Municipio, conforme a las Leyes y Reglamentos de la materia.
+- Formato 7 “CF- RAM” “Control de Folios de Recibos de Aportaciones de Militantes”,
 
-XXX.- Formar y publicar cada dos años en sus respectivas jurisdicciones, una lista de los vecinos que integrarán el Jurado Popular Federal previsto en la Fracción VI del Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, conforme lo establecen la Ley Orgánica del Poder Judicial de la Federación y el Código Federal de Procedimientos Penales.
+- Formato 9 “CF- RASEF” “Control de Folios de Recibos de Aportaciones de Simpatizantes en Efectivo”,
 
-XXXI.- Amonestar e impedir a los extranjeros que se inmiscuyan en asuntos políticos.
+- Formato 11 “CF- RASES” “Control de Folios de Recibos de Aportaciones de Simpatizantes Especie”,
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
+Asimismo, los Detalles de aportaciones de simpatizantes y militantes, a través de los formatos:
 
-XXXII.- Impartir a la autoridad judicial el auxilio que demande para hacer efectivas sus resoluciones; aprehender a los delincuentes en flagrante delito y detener a algún indiciado en caso de urgencia, tratándose de delitos graves, previa petición por escrito por parte del Ministerio Público, cuando se hubiese actualizado los supuestos previstos en el artículo 16, párrafo quinto de la Constitución Política de los Estados Unidos Mexicanos;
+- Formato 15 “DAM” “Detalle de Aportaciones de Militantes”,
 
-> <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
+- Formato 16 “DAS” “Detalle de Aportaciones de Simpatizantes”, (sic)
 
-XXXIII.- Imponer las sanciones en los términos que señalen las leyes y demás ordenamientos jurídicos;
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-XXXIV.- Las demás que se establecieren en esta u otras leyes y reglamentos.
+###### Artículo 59.
 
-###### ARTICULO 41.
+El órgano de finanzas de cada partido político deberá llevar un registro concentrado de las aportaciones en dinero que en un ejercicio realicen los militantes y simpatizantes. Este registro permitirá conocer el monto acumulado de los donativos de cada persona, y se remitirá a la Comisión de Fiscalización junto con el informe anual, de precampaña y campaña según corresponda.
 
-Los Presidentes Municipales podrán ausentarse de la circunscripción territorial del respectivo Municipio hasta por treinta días para el arreglo de los asuntos relacionados con la administración municipal sin perder el carácter de tales, observándose las siguientes disposiciones:
+Dicho registro concentrado deberá estar suscrito por el Presidente del Partido Político y por el Responsable del Órgano de Finanzas, y deberá contener el número de folio(s) de identificación del recibo (“RAM”, “RASES”, “RASES”) según corresponda, con el cual o los cuales ser realizó la aportación y el monto acumulado del periodo que reporta en cada informe.
 
-I.- Si la ausencia no excede de ocho días, el Presidente Municipal no tendrá obligación de dar aviso al Cabildo, en este lapso el Secretario del Ayuntamiento resolverá los asuntos de mero trámite y aquellos que no admitan demora, de acuerdo con las instrucciones que reciba del Presidente Municipal.
+A dicho registro concentrado deberá anexarse copia de la credencial de elector de los militantes o simpatizantes que realizaron la aportación.
 
-II.- Si la ausencia es mayor de ocho días, sin exceder de quince, el Presidente Municipal deberá dar aviso al Cabildo y éste designará al Regidor que le suplirá como encargado del despacho, con las atribuciones a que se refiere la fracción anterior.
+Los partidos políticos no podrán recibir aportaciones de personas no identificadas.
 
-III.- Si la ausencia es mayor de quince días, sin exceder de treinta, el Presidente Municipal deberá recabar previamente el permiso del Ayuntamiento y éste designará al Regidor que se encargará del despacho.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 42.
+###### Artículo 60.
 
-Cuando el Presidente Municipal debiera aun sentarse por un tiempo mayor de treinta días, el Congreso del Estado o en receso de éste, la Diputación Permanente, concederá el permiso respectivo y designará de entre los integrantes del Ayuntamiento de que se trate, un Presidente Municipal Interino.
+Los partidos políticos deberán contabilizar y registrar en un control por separado los montos obtenidos en cada una de las colectas que realicen, deduciendo los gastos en que hubieren incurrido por cada una de ellas.
 
-###### ARTICULO 43.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Los Presidentes Municipales no podrán:
+###### Artículo 61.
 
-I.- Desviar los fondos y bienes municipales, de los programas a que estén destinados.
+Los ingresos por autofinanciamiento estarán apoyados en un control por cada evento, que deberá contener número consecutivo, tipo de evento, forma de administrarlo, fuente de ingresos, control de folios, números y fechas de las autorizaciones legales para su celebración, importe total de los ingresos brutos obtenidos, importe desglosado de los gastos, ingreso neto obtenido y nombre y firma del responsable del evento. Este control pasará a formar parte del sustento documental del registro del ingreso del evento.
 
-II.- Imponer contribución o sanción alguna que no esté señalada en la Ley de Ingresos u otras disposiciones legales.
+En este sentido, los partidos políticos y coalición informarán a la Comisión de Fiscalización de los ingresos recibidos por esta modalidad de financiamiento a través del Formato 14 “CE-AUTO” “Control de Eventos de Autofinanciamiento” y el Formato 17 “DIA” “Detalle de Ingresos por Autofinanciamiento”
 
-III.- Cobrar personalmente o por interpósita persona, multa o contribución alguno, o autorizar, que oficina distinta de la Tesorería Municipal, conserve fondos municipales.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-IV.- Utilizar a los empleados o a los cuerpos de seguridad pública, así como los bienes que integran el patrimonio municipal, para fines particulares.
+###### Artículo 62.
 
-V.- Realizar conductas y desempeños que vayan en desdoro de su investidura y que afecten la moral pública.
+Para obtener financiamiento por rendimientos financieros, los partidos políticos podrán crear fondos o fideicomisos con su patrimonio o con las aportaciones que reciban, adicionalmente a las provenientes de las modalidades del financiamiento antes señaladas, con excepción de la adquisición de acciones bursátiles, e informarán a la Comisión de Fiscalización de los ingresos obtenidos por esta modalidad de financiamiento a través del Formato 18 “DIRFFF” “Detalle de Ingresos por Rendimientos Financieros, Fondos y Fideicomisos”
 
-VI.- Dejar de observar el estricto cumplimiento de las bases, procedimientos, reglas, requisitos y demás elementos que establezcan las leyes o el propio Ayuntamiento para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que en las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y en la contratación de obras públicas, aseguren las mejores condiciones para el Municipio.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 44.
+### Capítulo III. De los Egresos
 
-Son facultades y obligaciones de los Regidores:
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-I.- Someter a la consideración del Ayuntamiento las medidas que consideren necesarias para el cumplimiento de esta Ley, sus disposiciones reglamentarias, Bandos de Policía y Buen Gobierno, circulares y demás disposiciones administrativas de observancia general en su jurisdicción.
+###### Artículo 63.
 
-II.- Asistir con puntualidad a las sesiones del Ayuntamiento y a los actos oficiales a que sean citados por el Presidente Municipal.
+Los egresos deberán registrarse contablemente y estar soportados con la documentación que expida a nombre del partido político, la persona física o moral a quien se efectuó el pago. Dicha documentación deberá cumplir con los requisitos que exigen las disposiciones fiscales aplicables vigentes, con las siguientes excepciones:
 
-III.- Analizar deliberar y votar sobre los asuntos que se traten en las sesiones.
+a).- Hasta el 25% de los egresos que efectúe cada partido político en una campaña electoral, podrá ser comprobado por vía de bitácoras de gastos menores, viáticos y pasajes de acuerdo al Formato 23 “BGMVP” “Bitácora para Gastos Menores, Viáticos y Pasajes”, dicho formato se deberá elaborar por cada cheque en el cual se tenga este tipo de gastos, y deberá señalarse con toda precisión los siguientes conceptos: el concepto del gasto, fecha y lugar en que se efectuó la erogación, monto, nombre de la persona que realizó el gasto y documento soporte que se anexa a la bitácora.
 
-IV.- Desempeñar con eficiencia las comisiones que les encomiende el Ayuntamiento, informando periódicamente de sus gestiones.
+En todo caso, deberán anexarse a tales bitácoras los comprobantes que se recaben de tales gastos, aún cuando no reúnan los requisitos a que se refiere el primer párrafo de este artículo, o en su caso, recibos de gastos menores que incluyan los datos mencionados.
 
-V.- Proponer al Ayuntamiento los acuerdos que deban dictarse para el mejoramiento de los ramos de administración, cuya vigilancia y evaluación les haya sido encomendada.
+b).- Con independencia de lo señalado en el inciso anterior, hasta el 20% de los egresos que efectúe cada partido político como gastos de operación ordinaria, por concepto de gastos menores viáticos y pasajes podrá ser comprobado a través de bitácoras que reúnan los requisitos señalados en el inciso a) del presente artículo y de acuerdo al formato “23” “BGMVP” “Bitácora para Gastos Menores, Viáticos y Pasajes”.
 
-VI.- Proponer al Ayuntamiento las acciones convenientes para el mejoramiento y desarrollo del Municipio.
+Los gastos que por este concepto se utilicen en precampaña, deberán estar incluidos en el límite establecido para gastos de operación ordinaria.
 
-VII.- Las demás que les señalen las Leyes y sus Reglamentos.
+Asimismo, cada partido político al final del ejercicio ordinario, en los informes de precampaña y de campaña correspondientes, elaborará un concentrado de gastos menores comprobados a través de bitácoras, de conformidad al Formato 24 “CGMB” “Concentrado de Gastos Menores a través de Bitácora”
 
-###### ARTICULO 45.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Los Síndicos de los Ayuntamientos, tendrán las siguientes facultades y obligaciones:
+###### Artículo 64.
 
-I.- La procuración, defensa y promoción de los intereses municipales.
+Los partidos políticos deberán sujetarse a las disposiciones fiscales y de seguridad social que están obligados a cumplir, entre otras las siguientes:
 
-II.- La representación legal de los Ayuntamientos en las controversias o litigios en que éstos fueren parte.
+I. Retener y enterar el impuesto sobre la renta por concepto de remuneraciones por la prestación de un servicio personal subordinado;
 
-> <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
+II. Retener el pago provisional del impuesto sobre la renta sobre pago de honorarios por la prestación de un servicio personal independiente;
 
-III.- La revisión y firma de los estados de origen y aplicación de fondos;
+III. Inscribir en el Registro Federal de Contribuyentes, a quienes reciban pagos por concepto de remuneraciones por la prestación de un servicio personal subordinado;
 
-IV.- Intervenir en la formulación del inventario de bienes muebles e inmuebles, propiedad del Municipio, haciendo que éstos se inscriban, con la expresión de sus valores, sus características de identificación y su destino.
+IV. Proporcionar constancia de retención a quienes se hagan pagos de honorarios por la prestación de un servicio personal independiente;
 
-V.- (DEROGADA, B.O. 26 DE ABRIL DE 1993)
+V. Solicitar, a las personas que contraten para prestar servicios subordinados, las constancias a que se refiere la Ley del Impuesto Sobre la Renta; y
 
-VI.- Realizar las gestiones necesarias a fin de que todos los actos traslativos de dominio en que el Ayuntamiento sea parte, así como las declaratorias de Incorporación y Desincorporación de bienes inmuebles municipales se encuentren debidamente inscritas en el Registro Público de la Propiedad, dentro de los quince días siguientes a la fecha en que se realice.
+VI. Hacer las contribuciones necesarias a los organismos de seguridad social, como lo son el INFONAVIT, IMSS o cualquier otra de índole laboral, en su caso.
 
-VII.- (DEROGADA, B.O. 26 DE ABRIL DE 1993)
+Los partidos políticos podrán otorgar reconocimientos en efectivo a sus militantes o simpatizantes por su participación temporal en campañas electorales, siempre y cuando no medie relación laboral con el partido político.
 
-VIII.- Mantener actualizado, en los términos del Artículo 115 de esta Ley, el registro de todas las enajenaciones que realice el Ayuntamiento.
+Si al concluir las actividades de precampaña quedara algún remanente de recursos en efectivo o en especie, obtenido por cualquier modalidad de financiamiento, una vez aprobado el Dictamen correspondiente por el Consejo Estatal Electoral, estos serán trasladados a la cuenta de Gasto Ordinario del partido político, debiendo elaborar todos los registros contables correspondientes los cuales deberán contar con la documentación soporte respectiva.
 
-IX.- Vigilar, cuando no exista el Organo Responsable, la construcción de los edificios públicos y de todas las fincas urbanas de particulares para evitar irregularidades que ocasionen obstáculos en la vía pública, riesgo de los peatones, interrumpan el alineamiento de las casas, calles y aceras y perjudiquen el buen aspecto de los Centros de Población o invadan bienes de uso común, dominio público y propiedad municipal.
+Los gastos de precampaña deberán ser registrados contablemente y soportados con la documentación comprobatoria correspondiente, toda la documentación probatoria deberá contener la leyenda de “PRECAMPAÑA” y el nombre del precandidato que ejerció el gasto.
 
-X.- Las demás que le señalen ésta u otras Leyes y Reglamentos.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 46.
+###### Artículo 65.
 
-Los Comisarios Municipales serán designa dos cada tres años por los Ayuntamientos al iniciar éstos sus funciones y tendrán su residencia oficial en las Comisarías respectivas.
+Todo pago que efectúen los partidos políticos que rebase la cantidad $10,000.00 (Diez Mil Pesos 00/100 M.N.) deberá realizarse mediante cheque nominativo a favor de la persona física o moral que otorgo el bien o servicio, con excepción de los pagos correspondientes a sueldos y salarios contenidos en nóminas. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria a que hace referencia el artículo 63 del presente reglamento.
 
-###### ARTICULO 47.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Las faltas temporales o absolutas de los Comisarios Municipales, serán cubiertas por un Suplente designado por los Ayuntamientos de que dependan.
+###### Artículo 66.
 
-###### ARTICULO 48.
+Los comprobantes que el partido político presente como sustento de sus gastos, que indiquen que se trató de erogaciones realizadas fuera del estado de Morelos, deberán contar con el visto bueno o autorización por escrito del Presidente del Partido Político.
 
-La retribución de los Comisarios Municipales será fijada en el Presupuesto de Egresos del Municipio.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 49.
+###### Artículo 67.
 
-Son facultades y obligaciones de los Comisarios Municipales:
+Los partidos políticos deberán conservar la página completa de un ejemplar original de las publicaciones que contengan las inserciones en medios gráficos que realicen en las precampañas y campañas electorales, las cuales deberán anexarse a la documentación comprobatoria.
 
-I.- Cumplir y hacer cumplir, las Leyes Federales y Locales, los Bandos de Policía y Buen Gobierno, los Reglamentos Municipales, Circulares, disposiciones administrativas de observancia general y los acuerdos que les señalen los Ayuntamientos o los Presidentes Municipales correspondientes, quienes serán sus órganos de comunicación con las Autoridades del Estado.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-II.- Cuidar dentro de su esfera administrativa del orden y la tranquilidad pública.
+###### Artículo 68.
 
-III.- Ejercer las funciones y prestar los servicios públicos que fije el Ayuntamiento o el Presidente Municipal.
+Las erogaciones que se efectúen con cargo a las cuentas “Materiales y Suministros” y “Servicios Generales” deberán ser agrupadas en subcuentas por concepto del tipo de gastos de que se trate, y a su vez dentro de éstas se agruparán por sub-subcuentas, verificando que los comprobantes estén debidamente autorizados por quien recibió el servicio y quien autorizó.
 
-IV.- Proponer al Ayuntamiento, a través del Presidente Municipal, la realización de obras de infraestructura, equipamiento y servicios urbanos, para el desarrollo de sus Centros de Población.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-V.- Promover la cooperación de los habitantes y vecinos, en la construcción y conservación de obras públicas así como en la prestación de servicios públicos de competencia municipal.
+###### Artículo 69.
 
-VI.- Formar y remitir al Ayuntamiento para su aprobación, en la segunda quincena del mes de noviembre de cada año los programas de gasto que regirán en sus Comisarías en el ejercicio fiscal siguiente.
+Para efectos de la propaganda Político-Electoral, propaganda utilitaria y tareas editoriales, deberá llevarse un registro y control de entradas y salidas, con documentación debidamente foliada y autorizada.
 
-VII.- Rendir trimestralmente al Ayuntamiento, la cuenta comprobada del ejercicio presupuestario de su Comisaría.
+Para tal efecto se deberán utilizar los siguientes formatos:
 
-VIII.- Rendir anualmente al Ayuntamiento dentro de la segunda quincena del mes de marzo, cuenta general del manejo de los recursos económicos que tuviere asignados.
+- 20 “RIAL” “Reporte de inventario anual de almacén”
 
-IX.- Formar el censo de su demarcación cuando se lo ordene el Ayuntamiento de que dependan.
+- 21 “R-ENT” “Reporte de entradas de almacén”
 
-X.- Vigilar que los niños en edad escolar concurran a las escuelas primarias y promover la asistencia a los centros de alfabetización para adultos.
+- 22 “R-SAL” “Reporte de salidas de almacén”
 
-XI.- Fomentar la realización de actividades sociales, culturales y artísticas; y en general, la celebración de eventos que tiendan a exaltar el espíritu cívico y los sentimientos patrióticos de la población.
+Asimismo todos los materiales y suministros, deberán ser ingresados en el control del almacén y hacer un levantamiento de inventario anual.
 
-XII.- Imponer en sus respectivas jurisdicciones las sanciones que fijen los Bandos de Policía y Buen Gobierno y los demás Reglamentos Administrativos, de acuerdo con las normas que en los mencionados ordenamientos se establezcan.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-XIII.- Las demás que les confieren ésta u otras Leyes y Reglamentos.
+###### Artículo 70.
 
-###### ARTICULO 50.
+Las erogaciones por concepto de adquisiciones de materiales, propaganda electoral y utilitaria, así como las correspondientes a tareas editoriales, deberán registrarse y controlarse a través de registro e inventarios de almacén. Las salidas de estos materiales deberán ser identificados específicamente en las precampañas y campañas políticas que los soliciten, con objeto de aplicar el gasto por este concepto en cada una de ellas.
 
-Los Comisarios Municipales tendrán además las facultades y obligaciones que atribuyen a los Presidentes Municipales las Fracciones XVI, XVII, XX, XXVI, XXVII, XXVIII, XXIX y XXXII del Artículo 40 de esta Ley, sin perjuicio de ejercer algunas otras funciones, previo acuerdo de los Ayuntamientos de que dependan.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 51.
+###### Artículo 71.
 
-Los Delegados Municipales serán designados cada tres años por los Ayuntamientos, al iniciar éstos sus funciones y tendrán su residencia oficial en las Congregaciones o Rancherías que el propio Ayuntamiento les señale.
+En caso de que el partido político determine llevar los controles de que se habla en los artículos anteriores a través de sus órganos directivos municipales, cada uno de ellos deberá ajustarse a los requisitos establecidos en los artículos anteriores.
 
-###### ARTICULO 52.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-La retribución que deba percibir cada Delegado Municipal, será la que le asigne los Presupuestos de Egresos respectivos.
+###### Artículo 72.
 
-### CAPITULO UNICO
+Las erogaciones por concepto de gastos en servicios personales deberán clasificarse a nivel de subcuenta, verificando que la documentación de soporte esté autorizada por el funcionario del área de que se trate. Dichas erogaciones deberán estar soportadas de conformidad con lo establecido en el artículo 63, con excepción de los siguientes incisos:
 
-DE LAS PROTESTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS DEL MUNICIPIO.
+a) Durante las precampañas y campañas electorales, los partidos políticos podrán otorgar apoyos en efectivo a sus militantes o simpatizantes por su participación en actividades de colaboración con el partido político. Dichos apoyos deberán estar soportados por recibos “REAPAC” “Recibos de Apoyos por Actividades de Colaboración” foliados que especifiquen el nombre, clave de elector y firma de la persona a quién se efectuó el pago, su domicilio y teléfono, el señalamiento de la precampaña y campaña electoral correspondiente, el monto y fecha del pago, el tipo de servicio prestado al partido político, y el período de tiempo durante el que se realizó el servicio;
 
-###### ARTICULO 53.
+b) Los apoyos que los partidos políticos otorguen a personas involucradas en actividades de colaboración con el partido político relacionadas con su operación ordinaria, deberán ser documentados con un recibo que deberá reunir los requisitos a que hace referencia el inciso anterior, excepto lo relativo a la precampaña y campaña electoral;
 
-Son facultades y obligaciones de los Delegados Municipales:
+c) Las erogaciones realizadas por los partidos políticos como apoyos a una sola persona física por ningún motivo excederá el 1% del monto total del financiamiento otorgado al partido político y la suma de los apoyos no podrá exceder del 25%, ya sea que se paguen en una o varias exhibiciones;
 
-I.- Ejecutar en su demarcación las órdenes que le fueren giradas por el Ayuntamiento y el Presidente Municipal.
+d) El órgano de finanzas de cada partido político deberá autorizar la impresión de los recibos foliados que se expedirán para amparar los apoyos otorgados, y se notificará conjuntamente con los informes correspondientes a la Comisión de Fiscalización, del número consecutivo de los folios de los recibos impresos;
 
-II.- Rendir al Ayuntamiento, durante la primera semana de cada mes, un informe pormenorizado de las labores administrativas realizadas en su jurisdicción.
+e) Los recibos se imprimirán según el Formato 12 “REAPAC” “Recibos de Apoyos por Actividades de Colaboración”. La numeración de los folios se hará conforme a treinta y cuatro series distintas, una para los apoyos que otorgue el órgano directivo estatal del partido, que será REAPAC-(Partido)-ODE-(Número), y una para los apoyos que otorguen los órganos del partido en cada municipio, que será REAPAC-(Partido)-(Municipio)-(Número), cada recibo foliado se imprimirá en original y 2 copias;
 
-III.- Las demás que señalan las Fracciones I, II, VI, X, XI, XII, XIII del Artículo 49, incluyendo las enunciadas en el Artículo 50 de este Ordenamiento.
+f) Los recibos se deberán expedir en forma consecutiva. El original permanecerá en poder del órgano del partido que haya otorgado el apoyo y una copia deberá entregarse a la persona a la que se otorga el reconocimiento y la otra deberá conservarla el Órgano de Finanzas de Partido Político;
 
-###### ARTICULO 54.
+g) Deberá llevarse un control de folios de los recibos que se impriman y expidan por el órgano directivo estatal y en cada municipio. Dichos controles permitirán verificar los recibos cancelados, el número total de recibos impresos, los recibos utilizados con su importe total y los recibos pendientes de utilizar.
 
-El Ayuntamiento, para el ejercicio de sus atribuciones, se auxiliará de la Administración Pública Municipal directa y paramunicipal.
+Para tal efecto se deberá utilizar el Formato 13 “CF-REAPAC” “Control de Folios de los Recibos de Apoyos por Actividades de Colaboración”.
 
-###### ARTICULO 55.
+h) Para gastos de operación ordinaria el límite de REAPAC será el establecido en el inciso c) del presente reglamento, dentro del límite de referencia estarán los gastos que por este concepto se realicen en precampaña;
 
-El Ayuntamiento podrá crear dependencias que le estén subordinadas directamente, así como fusionar, modificar o suprimir las ya existentes, de acuerdo a sus necesidades y a su capacidad financieras. A la vez, podrá crear órganos desconcentrados dependientes jerárquicamente de éste y con las facultades y obligaciones especificas que fije el Reglamento Interior del propio Ayuntamiento.
+i) Con los informes anuales, de precampaña y campaña respectivamente, deberá presentarse un registro concentrado de las personas que recibieron apoyos por actividades de colaboración por parte del órgano directivo estatal y en cada municipio, así como el monto total que percibió cada una de ellas durante el periodo del informe correspondiente, dicha relación deberá estar suscrita por el Presidente del Partido Político y por el Responsable del Órgano de Finanzas, y deberá contener el número de folio(s) del “REAPAC” con los cuales se otorgo el apoyo y el monto acumulado.
 
-Asimismo, cumpliendo los requisitos de este Título, podrá crear entidades paramunicipales cuando su desarrollo económico y social lo haga necesario, previa autorización del Congreso del Estado.
+A dichas relaciones deberá anexarse copia de la credencial de elector de las personas que recibieron apoyos por actividades de colaboración durante el periodo del informe que corresponda.
 
-###### ARTICULO 56.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Las dependencias y entidades de la Administración Pública Municipal, conducirán sus actividades en forma programada y con base en las políticas que para el logro de los objetivos del desarrollo municipal establezca el Ayuntamiento conforme a la Ley de Planeación.
+### Capítulo IV. Del Inventario de los Bienes Muebles e Inmuebles
 
-###### ARTICULO 57.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Las dependencias de la Administración Pública Municipal ejercerán las funciones que les asigne esta Ley y el Reglamento Interior respectivo. Las entidades paramunicipales, estarán sujetas a las normas que rijan su estructura y funcionamiento.
+###### Artículo 73.
 
-###### ARTICULO 58.
+Los partidos políticos por conducto del órgano responsable de la administración de los recursos financieros y de su patrimonio tendrán la obligación de llevar un registro contable de adquisiciones de bienes muebles e inmuebles, que se identificará como activo fijo, complementándolo con la toma de un inventario físico realizado al final de cada ejercicio que deberá contener los resguardos y ubicación de los mismos, los cuales deberán incluirse actualizados al último día de diciembre del ejercicio que se reporte, en los informes anuales; a través del Formato 26 “IAA-BMEI” “Inventario Anual actualizado de Bienes Muebles e Inmuebles”.
 
-Cuando alguna dependencia o entidad de la Administración Pública Municipal necesite informes, datos o cooperación técnica de cualquier otra dependencia o entidad del Municipio, éstas tendrán la obligación de proporcionarlas.
+Los vehículos deberán considerarse dentro de los bienes muebles.
 
-###### ARTICULO 59.
+El Formato 26 “Inventario anual actualizado de Bienes Muebles e Inmuebles” deberá ser exhibido conjuntamente con el informe anual, y cuando se pierda el registro como partido político, en el formato establecido para tal efecto.
 
-La Sindicatura del Ayuntamiento estará a cargo del Síndico, quien tendrá las atribuciones que le confiere esta Ley.
+El Formato de “Inventario anual actualizado de Bienes Muebles e Inmuebles” deberá incluir los bienes que el partido político o coalición tenga en cada localidad donde se tengan oficinas.
 
-###### ARTICULO 60.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Para el estudio, planeación y despacho de los diversos ramos de la Administración Pública Municipal, el Ayuntamiento contará por lo menos, con las siguientes dependencias:
+###### Artículo 74.
 
-I.- La Secretaría del Ayuntamiento y
+El “Inventario anual actualizado de Bienes Muebles e Inmuebles”, deberá contener los siguientes datos:
 
-II.- La Tesorería Municipal.
+- Número de inventario,
 
-###### ARTICULO 61.
+- Fecha de adquisición,
 
-La Secretaría del Ayuntamiento estará a cargo de un Secretario, el que, sin ser miembro del mismo, deberá cubrir los mismos requisitos que se requieran para la responsabilidad de Regidor. Asistirá a las sesiones con voz informativa pero sin voto.
+- Descripción del bien,
 
-###### ARTICULO 62.
+- Marca,
 
-Son facultades y obligaciones del Secretario del Ayuntamiento:
+- Modelo,
 
-I.- Citar, cuando se lo ordene el Presidente Municipal o las dos terceras partes de los integrantes del Ayuntamiento, a todos y cada uno de los miembros de la Corporación para la celebración de las sesiones de Cabildo. Dicha citación deberá ser personal y contener el objeto, lugar, día y hora de la sesión.
+- Número de serie,
 
-II.- Levantar las actas de las sesiones de Cabildo y asentarlas en el libro respectivo.
+- Ubicación,
 
-III.- Proporcionar toda la información que sea necesaria, cuando lo soliciten los integrantes del Ayuntamiento.
+- En resguardo de,
 
-IV.- Atender la audiencia del Presidente Municipal, previo su acuerdo.
+En el caso de los vehículos, los datos que se deberán incluir son los siguientes:
 
-V.- Compilar y difundir las disposiciones jurídicas que tengan vigencia en el Municipio y que ordene el Ayuntamiento.
+- Número de inventario,
 
-VI.- Expedir Certificaciones.
+- Fecha de adquisición,
 
-VII.- Refrendar con su firma todos documentos oficiales emanados del Ayuntamiento o de la Presidencia, los que sin este requisito carecerán de validez.
+- Marca,
 
-VIII.- Observar y hacer cumplir el Reglamento Interior el Ayuntamiento.
+- Tipo,
 
-IX.- Organizar, dirigir y controlar el Archivo Municipal y la correspondencia oficial.
+- Modelo,
 
-X.- Entregar al término de su gestión, los libros y documentos que integran el Archivo Municipal, en acta circunstanciada al nuevo Secretario.
+- Color,
 
-XI.- Las demás que le confiere ésta u otras Leyes, Reglamentos y Bandos Municipales.
+- Número de Motor,
 
-### CAPITULO I. DE LAS SANCIONES
+- Número de serie,
 
-###### ARTICULO 63.
+- Placas,
 
-La recaudación y, en general, el manejo de la Hacienda Pública Municipal, corresponde a una oficina denominada Tesorería Municipal a cargo de un funcionario que se denominará Tesorero Municipal, el que, sin ser miembro del Ayuntamiento, deberá cubrir los mismos requisitos que se requieren para la responsabilidad de Regidor.
+- Ubicación,
 
-###### ARTICULO 64.
+- En resguardo de,
 
-Son facultades y obligaciones del Tesorero Municipal:
+Los bienes inmuebles deberán contener los siguientes datos:
 
-I.- Recaudar los impuestos, derechos, productos, aprovechamientos y contribuciones especiales que correspondan al Municipio; así como las participaciones federales y estatales e ingresos extraordinarios que se establezcan a su favor.
+- Fecha de adquisición o traslado de dominio,
 
-II.- Dar cumplimiento a los Convenios de Coordinación Fiscal.
+- Número de escritura,
 
-III.- Vigilar la administración de fondos para obras por cooperación.
+- Volumen,
 
-IV.- Ejercer la facultad económica-coactiva, conforme a las Leyes y Reglamentos vigentes.
+- Página
 
-V.- Proporcionar oportunamente al Ayuntamiento todos los datos que sean necesarios para la formulación de los proyectos de Ley de Ingresos y Presupuestos de Ingresos y Egresos.
+- Notaría,
 
-VI.- Proponer al Ayuntamiento las medidas o disposiciones que tiendan a incrementar los recursos económicos que constituyen la Hacienda Pública Municipal.
+- Ubicación del inmueble, (sic)
 
-VII.- Ejercer el Presupuesto de Egresos y efectuar los pagos de acuerdo a los programas y presupuestos aprobados, en el caso de que no exista en el Ayuntamiento una dependencia a la cual el Reglamento Interior le confiera estas atribuciones.
-
-VIII.- Llevar la contabilidad general y el control del ejercicio presupuestal.
-
-IX.- Hacer los pagos con estricto apego al Presupuesto de Egresos aprobado por el Ayuntamiento.
-
-X.- Elaborar y someter a la aprobación del Ayuntamiento:
-
-a) La glosa de las cuentas del Ayuntamiento saliente.
-
-b) La glosa anual de las Comisarías y Delegaciones Municipales determinando sus irregularidades, en caso de existir éstas.
-
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
-
-c).- La cuenta anual pormenorizada del manejo hacendario a que se refiere la fracción XXV del artículo 37 de esta Ley, misma que deberá comprender del 1º de enero hasta el 31 de diciembre del ejercicio correspondiente.
-
-d) Los estados financieros trimestrales que se deban enviar al Congreso del Estado de conformidad con lo establecido en la Fracción XXIII del Artículo 136 de la Constitución Política local.
-
-e) El programa financiero mediante el cual se manejará la deuda pública municipal y su forma de administrarla.
-
-XI.- Organizar el funcionamiento de la unidad de auditoria interna.
-
-XII.-(DEROGADA, B.O. 26 DE ABRIL DE 1993)
-
-XIII.- (DEROGADA, B.O. 26 DE ABRIL DE 1993)
-
-XIV.- Diseñar y mantener actualizado un Sistema de Información y Orientación Fiscal para los contribuyentes de ingresos municipales.
-
-XV.- Vigilar y controlar las oficinas recaudadoras.
-
-XVI.- Revisar los Anteproyectos de Presupuestos de Egresos de las entidades que integren el sector paramunicipal, para los efectos de su incorporación al Presupuesto de Egresos del Ayuntamiento, previa aprobación de éste.
-
-XVII.- Proporcionar toda la información que sea necesaria, cuando lo soliciten los integrantes del Ayuntamiento.
-
-XVIII.- Las demás que se señalen en ésta y otras Leyes y el Reglamento Interior del Ayuntamiento.
-
-###### ARTICULO 65.
-
-Integran la Administración Pública Paramunicipal los organismos descentralizados, las empresas de participación municipal mayoritarias y los fideicomisos públicos municipales, creados por el Ayuntamiento, previa autorización del Congreso del Estado.
-
-###### ARTICULO 66.
-
-Para los efectos de esta Ley se entiende por:
-
-I.- Organismos descentralizados, aquellas personas morales investidas de personalidad jurídica y patrimonio propios, cualquiera que sea la forma o estructura que adopten, siempre que reúnan los siguientes requisitos:
-
-a) Que su patrimonio se constituya total o parcialmente con fondos o bienes del Municipio o de los organismos descentralizados municipales, asignaciones, subsidios, concesiones o derechos que le aporte u otorgue el Gobierno Municipal, Estatal o Federal.
-
-b) Que su objeto o fines sean la prestación de un servicio público, la explotación de bienes o recursos propiedad del Municipio.
-
-II.- Empresas de participación municipal mayoritaria, aquellas cuyo capital social se integre con el cincuenta y uno por ciento o más aportado por el Gobierno Municipal, uno o varios organismos descentralizados municipales, una u otras empresas de participación municipal mayoritarias, uno o varios fideicomisos municipales.
-
-III.- Fideicomisos públicos municipales, aquellos que se constituyen conforme a la Ley de la Materia, con fondos del Gobierno Municipal o de alguno o algunos de los organismos a que se refieren las Fracciones que anteceden y en donde el Ayuntamiento como fideicomitente único, atiendan un objeto especifico de interés público o beneficio colectivo, cuya competencia tenga legalmente atribuida.
-
-###### ARTICULO 67.
-
-Los Ayuntamientos, para crear organismos descentralizados, empresas de participación municipal mayoritaria y fideicomisos públicos, deberán de recabar la autorización previa del Congreso del Estado. Para tal efecto, en la solicitud de autorización, se hará del conocimiento de la Legislatura local lo siguiente:
-
-I.- La estructura jurídica interna de la entidad que se pretende crear.
-
-II.- La relación que guardan las actividades que realizará la entidad que se pretenda crear, con los objetivos y estrategias del Plan Municipal, Estatal y Nacional de Desarrollo.
-
-III.- Descripción clara del o los programas que se ejecutarán por el organismo, empresa o fideicomiso, incluyendo los objetivos y metas concretas que se pretenden alcanzar.
-
-IV.- El monto de los recursos que se destinarán originalmente a dichas entidades.
-
-V.- Efectos económicos y sociales que se pretenden lograr.
-
-VI.- Descripción del destino de las utilidades, el cual sólo podrá ser modificado con la autorización del propio Congreso.
-
-VII.- Número de empleos directos que se generarán.
-
-VIII.- Los demás que se considere necesario para justificar el otorgamiento de la autorización.
-
-###### ARTICULO 68.
-
-De concederse la autorización a que se refiere el Artículo que antecede, el Ayuntamiento acordará la creación de la entidad pública de que se trate, sujetándose en lo que respecta a las empresas de participación municipal mayoritaria y a los fideicomisos públicos, a lo que señalen las leyes sobre la materia. Tratándose de organismos descentralizados, expedirá el Ayuntamiento el Acuerdo que cree dicha entidad, debiéndose establecer en el mismo las normas de su estructura, organización y funcionamiento, publicándose dicho Acuerdo en el Boletín Oficial del Gobierno del Estado.
-
-###### ARTICULO 69.
-
-La intervención del Ayuntamiento en las empresas, se sujetará a las siguientes bases:
-
-I.- Las partes sociales serán siempre nominativas.
-
-II.- Los rendimientos que se obtengan se destinarán a los fines autorizados por el Congreso.
-
-III.- La escritura constitutiva de estas empresas deberá contener una cláusula en la que se establezca que los Acuerdos de Asamblea Ordinaria, sean en primera o en segunda convocatoria, deberán aprobarse por un mínimo de acciones que representen el cincuenta y uno por ciento del capital social de la empresa.
-
-IV.- La Tesorería Municipal formará y llevará un expediente para cada empresa en la que participe el Ayuntamiento, con las siguientes constancias:
-
-a) Escritura constitutiva y sus reformas, poderes que otorgue y actas de las asambleas y sesiones.
-
-b) Inventarios y balances.
-
-c) Contratos y documentos en que se comprometa el patrimonio de la empresa.
-
-d) Auditorías e informes contables y financieros.
-
-e) Informes del representante del Ayuntamiento.
-
-f) Otras que tengan relación con la empresa.
-
-###### ARTICULO 70.
-
-Corresponde al Ayuntamiento, por conducto del Presidente Municipal, la coordinación, planeación, supervisión, control y evaluación de las operaciones que realicen las entidades que integran la Administración Pública Paramunicipal.
-
-> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
-
-###### ARTICULO 71.
-
-En todas las entidades del sector paramunicipal existirá un Comisario Público, el cual será designado conforme a los que establece esta Ley.
-
-###### ARTICULO 72.
-
-Los organismos descentralizados podrán modificar su estructura y bases de organización conforme al mismo procedimiento que establece este Titulo para su constitución, siempre y cuando sea necesaria para mejorar el desempeño de sus funciones, el cumplimiento de sus fines o la coordinación de sus actividades.
-
-Las empresas de participación municipal mayoritaria y los fideicomisos públicos municipales podrán extinguirse conforme lo señalen las leyes de la materia.
-
-### CAPITULO II. DE LOS RECURSOS
-
-###### ARTICULO 147.
-
-Los actos de las Autoridades Municipales respecto de los cuales no se contemple medios de impugnación en las normas especificas que los regulen, podrán ser impugnados por la parte interesada mediante la interposición de los recursos de reconsideración y de revisión.
-
-###### ARTICULO 148.
-
-El recurso de reconsideración administrativa deberá promoverse por escrito ante la autoridad que realice el acto recurrido, dentro del término de quince días siguientes a la notificación o ejecución del acto impugnado.
-
-Tratándose de sanción pecuniaria, el recurrente deberá garantizar el interés fiscal en cualquier forma legal, y de no hacerlo se desechará de plano el recurso.
-
-###### ARTICULO 149.
-
-La autoridad resolverá el recurso interpuesto con base en las pruebas aportadas y en lo alegado, dentro de un término que no excederá de treinta días.
-
-###### ARTICULO 150.
-
-El recurso de revisión se concede en contra de la resolución dictada al resolverse el recurso de reconsideración administrativa; deberá promoverse ante el Ayuntamiento en los términos que preven los Artículos anteriores.
-
-###### ARTICULO 73.
-
-No obstante a lo dispuesto en el Artículo que antecede, el Congreso del Estado podrá decretar la fusión, disolución o liquidación de dichas entidades, cuando no cumplan con sus fines u objeto social o cuando su funcionamiento resulte inconveniente para la economía del Municipio o el interés público.
-
-###### ARTICULO 74.
-
-El patrimonio del Municipio se constituye por:
-
-I.- Los ingresos que conforman su Hacienda Pública.
-
-II.- Sus bienes de dominio público y sus bienes de dominio privado.
-
-III.- Sus derechos y obligaciones creados legítimamente, y
-
-IV.- Los demás que señalen las leyes.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ### Capítulo IV.1.. De los registros de activos fijos
 
-###### ARTICULO 75.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-El manejo del patrimonio municipal, se sujetará a lo que señalan las leyes y las disposiciones de este titulo.
+###### Artículo 75.
 
-###### ARTICULO 76.
+Los bienes muebles e inmuebles que se adquieran o reciban en propiedad deberán contabilizarse como activo fijo, dándoles el tratamiento contable respectivo de conformidad con las Normas de Información Financiera.
 
-La inobservancia a lo preceptuado en este Título, será considerada como una violación grave a las normas que determinan el manejo de recursos económicos municipales.
+En el caso de bienes muebles o inmuebles recibidos para su uso o goce temporal, en que no se transfiera la propiedad, el monto se determinará de acuerdo al sistema de valuación establecido en los incisos a), b) y c) del artículo 83, 84, y 85 del presente reglamento. Se deberá especificar dentro del inventario anual a que hace referencia el artículo anterior de tal situación, deberán formularse las notas correspondientes en los estados financieros, con montos y procedencia.
+
+Los partidos políticos deberán registrar en cuentas de orden la posesión, el uso o goce temporal de bienes muebles e inmuebles, utilizados durante el ejercicio ordinario, las precampañas y campañas, para que sean considerados en sus informes anuales.
+
+Los partidos políticos acreditarán la propiedad de los bienes, para efecto de su registro, con las facturas o los títulos de propiedad respectivos.
+
+Los bienes muebles o inmuebles que el partido político tenga en uso o goce temporal, deberán contar con el contrato de comodato respectivo de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 76.
+
+Los activos fijos que sean adquiridos por los partidos políticos en precampañas y campañas electorales y que al término de éstas se destinen para su uso ordinario, deberán registrarse como activo fijo.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ## TÍTULO III. DE LOS LÍMITES DE APORTACIONES, TOPES DE CAMPAÑA Y PRECAMPAÑA
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo I. De los Límites de Aportaciones
 
-###### ARTICULO 77.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-La Hacienda Pública Municipal se formará de los rendimientos de los bienes que les pertenezcan así como de las contribuciones y otros ingresos que establezcan las leyes fiscales.
+###### Artículo 77.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+Los partidos políticos y coalición deberán sujetarse a los límites de ingresos egresos que estable el Código Electoral y el presente Reglamento de Fiscalización.
 
-###### ARTICULO 78.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Las Leyes de Ingresos y Presupuestos de Ingresos establecerán, anualmente los ingresos ordinarios que constituirán la Hacienda Pública Municipal, así como los montos de las cantidades estimadas que se recaudarán en el ejercicio fiscal de que se trate, y regirán del 1º de enero hasta el 31 de diciembre del año que corresponda.
+###### Artículo 78.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+Las aportaciones de financiamiento privado directo se deberán sujetar a las siguientes reglas:
 
-###### ARTICULO 79.
+I. Los partidos políticos no podrán recibir anualmente aportaciones de financiamiento privado directo por una cantidad superior al 10% anual del financiamiento público para actividades ordinarias que corresponda al partido político con mayor financiamiento;
 
-Los Ayuntamientos deberán someter anualmente, al examen y aprobación del Congreso del Estado, durante la segunda quincena del mes de noviembre de cada año, sus proyectos de Leyes de Ingresos y Presupuestos de Ingresos. De no realizarlo, el Congreso declarará aplicable para el siguiente ejercicio fiscal los que se encuentren en vigor.
+II. De las aportaciones en dinero que no excedan de cien salarios mínimos deberán expedirse recibos foliados o depósito bancario por los partidos políticos en los que se harán constar los datos de identificación del aportante, salvo que hubieren sido obtenidas mediante colectas realizadas en mítines o en la vía pública. Sólo deberá reportarse en el informe correspondiente el monto total obtenido, siempre y cuando no impliquen venta de bienes o artículos promocionales;
 
-Para el ejercicio de los excedentes a los montos no autorizados en las Leyes de Ingresos y Presupuestos de Ingresos, se requerirá la autorización previa del Congreso del Estado.
+III. Las aportaciones en dinero mayores a cien salarios mínimos deberán emitirse a través de cheque nominativo;
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+IV. Las aportaciones en dinero que realice cada persona facultada para ello, tendrán un límite anual equivalente al 0.5% del monto total de financiamiento público para el sostenimiento de actividades ordinarias permanentes otorgado a los partidos políticos, en el año que corresponda; y
+
+V. Las aportaciones en dinero podrán realizarse en parcialidades y en cualquier tiempo, pero el monto total aportado durante un año por una persona física no podrá rebasar, según corresponda los límites establecidos en la fracción anterior; (sic)
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 79.
+
+En la sesión en la que el Consejo Estatal Electoral apruebe el Presupuesto de Egresos de cada ejercicio, y una vez determinado el monto del Financiamiento Público a otorgarse a los partidos políticos durante el año que corresponda, se aprobarán los límites del Financiamiento Privado a que hace referencia el artículo anterior.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ### Capítulo I.1.. De las aportaciones o donativos a los partidos políticos y coalición
 
-###### ARTICULO 80.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Los anteproyectos de Leyes de Ingresos y Presupuestos de Ingresos, se deberán de elaborar por los Ayuntamientos con estricto apego a las disposiciones contenidas en las Leyes y Decretos Federales, Estatales y Municipales y con base, además, en los Convenios respectivos.
+###### Artículo 80.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+No podrán realizar aportaciones o donativos a los partidos políticos regulados por el Código Electoral, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia:
 
-###### ARTICULO 81.
+I. Las personas jurídicas de carácter público, sean estas de la federación, de los estados, los ayuntamientos o del Gobierno del Distrito Federal, salvo los establecidos en la ley;
 
-La vigilancia de la Hacienda Pública Municipal compete efectuarla al Ayuntamiento por conducto del Presidente Municipal y del Síndico, en los términos de esta Ley y al Congreso del Estado por medio de la Contaduría Mayor de Hacienda. Cuando el Gobernador del Estado sea avalista de empréstitos o créditos concedidos a los Ayuntamientos podrá nombrar un representante en las visitas de inspección que se realicen.
+II. Los servidores públicos, respecto de los recursos financieros que estén destinados para los programas o actividades institucionales;
 
-El titular del Poder Ejecutivo del Estado, en cualquier tiempo, podrá solicitar al Congreso del Estado que la Contaduría Mayor de Hacienda practique visitas de inspección.
+III. Los partidos políticos, personas físicas o jurídicas extranjeras;
 
-###### ARTICULO 82.
+IV. Los organismos internacionales de cualquier naturaleza;
 
-Los Presupuestos de Egresos Municipales serán los que aprueben los Ayuntamientos respectivos, para sufragar, desde el primero de enero hasta el treinta y uno de diciembre del ejercicio anual correspondiente, las actividades, las obras y los servicios públicos previstos en los programas a cargo de las dependencias directas y del sector paramunicipal que conforman la Administración Pública Municipal.
+V. Las asociaciones, iglesias de cualquier religión;
 
-###### ARTICULO 83.
+VI. Las personas morales mexicanas de cualquier naturaleza;
 
-El Presupuesto de Egresos además de comprender las erogaciones a que se refiere el Artículo que antecede, deberá incorporar los subsidios, donaciones, estímulos, transferencias y demás conceptos de gasto que se otorguen a asociaciones, patronatos, instituciones de beneficencia pública y privada y demás organizaciones similares a éstas.
+VII. Tampoco podrán recibir aportaciones de personas no identificadas, con excepción de las obtenidas mediante colectas realizadas en mítines o en la vía pública. Los partidos políticos no podrán solicitar créditos provenientes de la banca de desarrollo para sus actividades; y
 
-###### ARTICULO 84.
+VIII. Las personas o grupos con actividades ilícitas.
 
-La presupuestación del Gasto Público Municipal se sujetará a los objetivos y prioridades que señale el Plan Municipal de Desarrollo y sus programas.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+###### Artículo 81.
 
-###### ARTICULO 85.
+Las aportaciones de financiamiento privado indirecto se sujetarán a las siguientes reglas:
 
-Los Presupuestos de Egresos regularán el gasto público municipal y se formularán con apoyo en programas que señalen objetivos, metas y unidades responsables de su ejecución, detallando las asignaciones presupuestarias a nivel de partidas y la calendarización de su ejecución.
+a) Las aportaciones en especie podrán ser en bienes muebles, inmuebles, consumibles o servicios que deberán destinarse únicamente para el cumplimiento del objeto del partido político que haya sido beneficiado con la aportación;
 
-Los Presupuestos de Egresos de los Municipios deberán publicarse, en el Boletín Oficial del Gobierno del Estado, con cargo a las Haciendas Municipales en lo que respecta al costo de la publicación, a más tardar el 31 de diciembre de cada año.
+b) Las aportaciones en especie se harán constar en un contrato celebrado conforme a las leyes aplicables;
 
-Asimismo, las modificaciones al Presupuesto de Egresos que autorice el Ayuntamiento, en los términos de la fracción XXXI del artículo 37 de esta Ley, deberán publicarse en el Boletín Oficial del Gobierno del Estado , dentro de los quince días siguientes a la fecha del Acuerdo respectivo.
+c) Los partidos políticos podrán recibir anualmente aportaciones en especie, de personas facultadas para ello, de hasta el equivalente al 5% anual del financiamiento público para actividades ordinarias que corresponda al partido político con mayor financiamiento;
+
+d) En el caso de los bienes inmuebles, las aportaciones que realice cada persona facultada para ello, tendrán un límite anual equivalente hasta del 2.5% del financiamiento público para el sostenimiento de actividades ordinarias permanentes otorgado al partido político con mayor financiamiento, en el año que corresponda;
+
+e) En el caso de bienes muebles y consumibles, las aportaciones que realice cada persona facultada para ello, tendrán un límite anual equivalente al 0.15% del financiamiento público para el sostenimiento de actividades ordinarias permanentes otorgado al partido político con mayor financiamiento, en el año que corresponda;
+
+f) De las aportaciones de militantes y simpatizantes, en efectivo o en especie, que reciba el partido político o coalición, el órgano responsable de finanzas deberá conservar una copia de la credencial de elector del aportante, elaborar los recibos correspondientes que establece el presente reglamento de fiscalización y elaborar los registros concentrados que se presentaran conjuntamente con los informes respectivos.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 82.
+
+Las aportaciones que reciban en especie podrán ser en bienes muebles, inmuebles, consumibles o servicios deberán documentarse en contratos escritos que celebren conforme a los ordenamientos legales aplicables, los cuales deberán contener los datos de identificación del aportante, así como el costo de mercado o estimado del bien aportado, según el caso.
+
+Dichos contratos deberán estar anexos a los registros contables correspondientes.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 83.
+
+Los ingresos por donaciones de bienes muebles y aportaciones en especie deberán registrarse conforme a su valor comercial de mercado, determinado de la siguiente forma:
+
+a) Si se cuenta con la factura correspondiente, se registrará el valor consignado en tal documento.
+
+b) Si no se cuenta con la factura del bien aportado, se determinará a través de tres cotizaciones solicitadas por el partido político.
+
+c) En todo caso se deberán cuantificar las aportaciones en especie recibidas por los partidos políticos o coalición, siguiendo el criterio del inciso anterior.
+
+En ningún caso, las aportaciones o donativos en efectivo o en especie que reciban los partidos políticos, podrán rebasar el límite anual establecido en el Código Electoral para tal efecto.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 84.
+
+Los ingresos por donaciones de bienes inmuebles deberán registrarse conforme a su valor comercial de mercado, determinado su valor mediante un perito valuador legalmente facultado para ello.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 85.
+
+En el supuesto que determinado partido político no presente la cotización o el avalúo elaborado por el profesionista autorizado para ello, la Comisión de Fiscalización ordenará la práctica de las cotizaciones o de los avalúos según sea el caso, con cargo al presupuesto del partido político que se trate.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ### Capítulo II. De los Topes de Precampaña
 
-###### ARTICULO 86.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-El Gasto Público Municipal comprende las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pago de pasivos o deuda pública que realicen las dependencias de la Administración Pública Municipal Directa y Paramunicipal.
+###### Artículo 86.
 
-> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+Los gastos de cada precampaña electoral que realicen los precandidatos y, partidos políticos, en la propaganda electoral y en las actividades de precampaña, no podrán rebasar los topes que para cada elección determine el Consejo Estatal Electoral, en los términos del Código Electoral.
 
-###### ARTICULO 87.
+Para los efectos de este artículo quedarán comprendidos dentro de los topes de gasto, los siguientes conceptos:
 
-La Contraloría Municipal, ejercerá las siguientes funciones:
+I.- Gastos de propaganda.- Comprenden los realizados en bardas, mantas, volantes, pancartas, equipos de sonido, actos políticos realizados en lugares alquilados, espectaculares, pendones, gallardetes, pasa calles, Gastos de Producción de Radio y Televisión propaganda utilitaria y otros similares;
 
-I.- Planear, organizar, coordinar y aplicar, el Sistema Municipal de Control y Evaluación Gubernamental;
+II.- Gastos operativos.- Comprenden honorarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte, viáticos y otros similares; y
 
-II.- Analizar y verificar el ejercicio del Gasto Público Municipal y su congruencia con los presupuestos de egresos;
+III.- Gastos de propaganda en medios gráficos.- comprenden cualquiera de las modalidades de prensa escrita, impresos como trípticos, folletos, gacetas y sus similares y los realizados en cualquiera de las modalidades de este medio.
 
-III.- Comprobar el cumplimiento, por parte de las dependencias y entidades paramunicipales, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamientos, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado del Ayuntamiento;
+No se consideran dentro de los topes de precampaña, los gastos que realicen los partidos políticos para su operación ordinaria y para el sostenimiento de sus órganos directivos.
 
-IV.- Verificar y comprobar directamente, que las dependencias y entidades paramunicipales cumplan, en su caso, con las normas y disposiciones en materia de: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, control, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, concesiones, almacenes y demás activos y recursos materiales de la Administración Pública Municipal;
+Los gastos de precampaña antes citados estarán sujetos a topes, siendo ejercidos por cualquiera de las modalidades de financiamiento que establece el Código Electoral y el presente Reglamento de Fiscalización,
 
-V.- Realizar auditorías a las dependencias y entidades paramunicipales, para promover la eficiencia en sus operaciones y comprobar el cumplimiento de los objetivos contenidos en sus programas;
+Los partidos políticos y precandidatos deberán sujetarse a las disposiciones contenidas en el “Reglamento de Precampañas Electorales para el Estado de Morelos”
 
-VI.- Designar a los auditores externos de las entidades paramunicipales, normar su actividad y contratar sus servicios con cargo al presupuesto de dichas entidades;
+Los gastos de precampaña antes citados estarán sujetos a topes, siendo ejercidos por cualquiera de las modalidades de financiamiento que establece el Código Electoral y el presente Reglamento de Fiscalización.
 
-VII.- Designar, en las entidades paramunicipales a los Comisarios Públicos;
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-VIII.- Promover y verificar que los funcionarios y empleados cumplan con la declaración se situación patrimonial, a que se refiere la ley de responsabilidades de los Servidores Públicos del Estado y de los Municipios;
+###### Artículo 87.
 
-IX.- Conocer e investigar los actos u omisiones de los servidores públicos municipales en relación con responsabilidades administrativas, aplicando las sanciones que correspondan en los términos señalados en las leyes y hacer las denuncias ante el Ministerio Público, presentándole a éste, la colaboración que fuere necesaria; y
+La determinación de los topes de gasto de precampaña se notificará a los partidos políticos a través del Representante acreditado ante el Consejo Estatal Electoral, una vez determinados los montos para tal efecto, en base a lo dispuesto por la fracción I del artículo 204 del Código Electoral.
 
-X.- Las demás que le señalen las leyes u otros ordenamientos jurídicos.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 88.
+###### Artículo 88.
 
-Cada Ayuntamiento llevará su contabilidad por períodos anuales y deberá comprender el registro de los activos, pasivos, capital o patrimonio, ingresos y egresos, así como las designaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto y deberán a la vez permitir, la obtención de sus estados financieros y demás información presupuestal.
+En caso de sustitución de precandidatos, los partidos políticos deberán reportar en cualquier caso, todos los gastos que se hayan efectuado por el precandidato que se sustituye y estos se computarán para los efectos de tope de gastos de precampaña correspondiente.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ### Capítulo III. De los Topes de Campaña
 
-###### ARTICULO 89.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-El Sistema contable deberá diseñarse y operar en forma que facilite la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas y en general, de manera que permita medir la eficacia y eficiencia del Gasto Público Municipal.
+###### Artículo 89.
 
-###### ARTICULO 90.
+Los gastos de cada campaña por cada elección que realicen los partidos políticos, las coaliciones y sus candidatos, en la propaganda electoral y en las actividades de cada campaña, no podrán rebasar los topes que para cada elección determine el Consejo Estatal Electoral, en los términos del Código Electoral.
 
-Los Ayuntamientos autorizarán los libros o los registros contables, tanto en la apertura como en el cierre de los mismos.
+Para los efectos de este artículo quedarán comprendidos dentro de los topes de gasto, los siguientes conceptos:
+
+I.- Gastos de propaganda.- Comprenden los realizados en bardas, mantas, volantes, pancartas, equipos de sonido, actos políticos realizados en lugares alquilados, espectaculares, pendones, gallardetes, pasa calles, Gastos de Producción de Radio y Televisión propaganda utilitaria y otros similares;
+
+II.- Gastos operativos.- Comprenden honorarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte, viáticos y otros similares; y
+
+III.- Gastos de propaganda en medios gráficos.- Comprenden cualquiera de las modalidades de prensa escrita, impresos como trípticos, folletos, gacetas y sus similares y los realizados en cualquiera de las modalidades de este medio.
+
+No se consideran dentro de los topes de campaña, los gastos que realicen los partidos políticos para su operación ordinaria, para el sostenimiento de sus órganos directivos y gastos generales del proceso electoral.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 90.
+
+La determinación de los topes de gasto de campaña se notificará a los partidos políticos o coaliciones a través del Representante acreditado ante el Consejo Estatal Electoral, una vez determinados los montos para tal efecto, en base a lo dispuesto por el artículo 225 del Código Electoral.
+
+Los gastos de campaña antes citados estarán sujetos a topes, siendo ejercidos por cualquiera de las modalidades de financiamiento que establece el Código Electoral y el presente Reglamento de Fiscalización.
+
+Los partidos políticos y coalición deberán sujetarse a las disposiciones contenidas en el “Reglamento de Precampañas Electorales para el Estado de Morelos”.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ## TÍTULO IV. DE LOS INFORMES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, PRESENTACIÓN, REVISIÓN Y DICTAMEN
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
 ### Capítulo I. De los informes de los Partidos Políticos y Coaliciones
 
-###### ARTICULO 91.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Los libros o los registros contables deberán de conservarse por el Ayuntamiento en el Archivo Municipal y no podrán, por ningún motivo, mortificarse o destruirse.
+###### Artículo 91.
 
-###### ARTICULO 92.
+Los informes de ingresos y egresos de los partidos políticos serán presentados en los formatos incluidos en el presente reglamento.
 
-La deuda pública de los Municipios, para los efectos de este Capitulo, está constituida por las obligaciones de pago directas o contingentes, derivadas de financiamiento y a cargo de las dependencias y entidades que conforman la Administración Pública Municipal. Se entiende por financiamiento, la contratación de créditos, préstamos o empréstitos derivados de:
+En el caso de que el partido político o coalición no haya tenido movimientos en el periodo que se reporta con relación a la información solicitada en los formatos, estos se presentarán con la leyenda “EL PARTIDO (Nombre del Partido o Coalición) NO PRESENTÓ MOVIMIENTOS FINANCIEROS EN LOS RUBROS A QUE HACE REFENCIA EL PRESENTE FORMATO” y dichos formatos deberán estar debidamente suscrito por los responsables correspondientes.
 
-I.- La suscripción de títulos de crédito o cualquier otro documento pagadero a plazos.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-II.- La adquisición de bienes de cualquier tipo, así como la contratación de obras o servicios cuyo pago se pacte a plazos.
+###### Artículo 92.
 
-III.- La celebración de actos jurídicos análogos a los anteriores.
+Los informes y en su caso las respuestas a las observaciones que se hayan realizado por parte de la comisión deberán ser presentadas debidamente suscritas por el presidente y el responsable del Órgano de Finanzas del Partido Político.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 93.
+###### Artículo 93.
 
-El Congreso del Estado autorizará los montos de endeudamiento neto, que sean necesarios para el financiamiento de los programas del Ayuntamiento.
+Los partidos políticos, deberán utilizar el catálogo de cuentas, guía contabilizadora e informe mensual, en virtud que los mismos son auxiliares en la presentación de los informes anuales, de campaña y precampaña.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 94.
+###### Artículo 94.
 
-Los Ayuntamientos, con base en su programa financiero anual, al someter a la legislatura local la contratación de endeudamiento, deberán proporcionar los elementos de juicio suficientes para fundar su propuesta, buscando que se mantenga un correcto equilibrio financiero.
+En los informes anuales ordinarios, de precampaña y campaña, serán reportados los ingresos totales y gastos ordinarios que los partidos políticos hayan realizado durante el ejercicio objeto del informe. Todos los ingresos y los gastos que se reporten en dichos informes deberán estar debidamente registrados en la contabilidad estatal del partido, de conformidad a las Normas de Información Financiera, en correlación con lo dispuesto en el Código Electoral y el presente Reglamento de Fiscalización.
 
-###### ARTICULO 95.
+Los partidos políticos que obtengan su registro o que acrediten el mismo, de conformidad con lo dispuesto por el Código Electoral, deberán ajustarse al presente reglamento, en cuanto al registro de sus ingresos, egresos y la documentación comprobatoria, en un plazo de quince días contados a partir del día siguiente a aquél en el que surta efectos la resolución favorable del Consejo Estatal Electoral a su solicitud de registro, o a la acreditación correspondiente.
 
-Los montos de endeudamiento aprobados por la Legislatura local, serán la base para la contratación de los créditos necesarios para el financiamiento de los programas que deriven del Plan Municipal de Desarrollo e incluidos en el Presupuesto de Egresos de los Ayuntamientos.
+El primer informe anual ordinario que presente un partido político que haya obtenido su registro o que acredite el mismo ante el Instituto Estatal Electoral, en el año inmediato anterior, incluirá todos los comprobantes de los ingresos y egresos del partido político a partir del día siguiente a aquél en el que surta efectos su registro o acreditación, en los términos de lo establecido por el Código Electoral y hasta el fin del año natural que deba reportarse.
 
-###### ARTICULO 96.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Son bienes de dominio público municipal, enunciativamente:
+###### Artículo 95.
 
-I.- Los de uso común.
+Los partidos políticos deberán de informar por rubros generales el total de los ingresos federales recibidos que les asignó el órgano de dirección nacional o su equivalente.
 
-II.- Los inmuebles destinados por el Ayuntamiento a un servicio público y los propios que de hecho utilice para dichos fines.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-III.- Los monumentos históricos, arqueológicos, artísticos, de naturaleza mueble e inmueble, de propiedad municipal.
+###### Artículo 96.
 
-IV.- Los muebles municipales que por su naturaleza normalmente no sean substituibles.
+Los partidos políticos y coalición deberán presentar conjuntamente con los informes anuales, de precampaña y campaña, respectivamente, un listado de las cuentas bancarias utilizadas para tal efecto, dicha listado deberá señalar, el número de cuenta, institución bancaria, tipo de ingresos que se manejan en dicha cuenta, la fecha de apertura, estatus (vigente o cancelada, en caso de haber sido cancelada la fecha de la cancelación), nombre de las personas autorizadas para el manejo de la cuenta.
 
-V.- Las servidumbres, cuando el predio dominante sea uno de los indicados en este Artículo.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+###### Artículo 97.
 
-###### ARTICULO 97.
+Los partidos políticos y coaliciones deberán entregar al Director de Administración y Financiamiento, los informes anuales ordinarios, de precampaña y campaña, el origen y aplicación de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación; en los plazos establecidos en el artículo 66 del Código Electoral, mismos que el Secretario Ejecutivo presentará al Consejo Estatal Electoral para los efectos conducentes.
 
-Los bienes de dominio público son inalienables e imprescriptibles y no estarán sujetos a acción reivindicatoria o de posesión. Los derechos sobre su uso, aprovechamiento de las concesiones respectivas, las cuales no crean derechos reales sobre los bienes.
+Todo informe o documento que se presente fuera de dicho plazo, será considerado extemporáneo y la Comisión de Fiscalización determinará lo conducente en cada caso.
 
-Para aprovechamientos especiales, sobre los bienes de uso común, se requerirá de concesión, la cual se otorgará con las condiciones y requisitos que fijen las leyes, los que por ningún motivo desvirtuarán la naturaleza de l bien, en tal forma que los aprovechamientos especiales no hagan nugatorio el uso común.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Los concesionarios deberán cubrir en la Tesorerías Municipales, el monto de los derechos que de acuerdo a la cuota aplicable corresponda, según las disposiciones fiscales relativas.
+###### Artículo 98.
 
-Las concesiones sobre inmuebles de dominio público podrán otorgarse por el Ayuntamiento hasta por un plazo de diez años, el cual podrá ser prorrogado hasta por plazos equivalentes a los señalados originalmente, requiriéndose de la aprobación del Congreso del Estado , cuando el plazo exceda de su período constitucional.
+En la presentación de los informes sobre el origen, destino y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación, que exhiban los partidos políticos se levantará acta circunstanciada, en la que se haga constar la fecha, hora, y personas que intervienen en dicho acto y el motivo de la misma, procediéndose además a firmar, foliar y sellar la documentación que se presente, el Secretario Ejecutivo dará fe de la presentación de dichos informes.
 
-Para el otorgamiento de las concesiones sobre inmuebles de dominio público municipal, así como para su prórroga, se atenderá a:
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-I.- El monto de la inversión que el concesionario pretende aplicar;
+###### Artículo 99.
 
-II.- El plazo de amortización de la inversión realizada ;
+Si al final del ejercicio ordinario existiera un pasivo en la contabilidad del partido, éste deberá integrarse detalladamente de conformidad al Formato 25 “PASIVO”, el que deberá contener la mención de montos, nombres, conceptos y fechas. Dichos pasivos deberán estar debidamente registrados y soportados documentalmente y autorizados por los funcionarios facultados para ello en los estatutos y/o reglamentos y/o el manual de operaciones del órgano de finanzas del partido.
 
-III.- El beneficio social y económico que signifique para la región o localidad en que se encuentre ubicado el bien:
+Los partidos políticos y coalición no podrán generar pasivos derivados de los gastos de precampañas y campañas electorales.
 
-IV.- La necesidad de la actividad o del servicio que se preste;
+Los pasivos por ningún motivo podrán ser superiores al 30% del monto del Financiamiento Público de cada partido político, del ejercicio ordinario que corresponda.
 
-V.- El cumplimiento por parte del concesionario de las obligaciones a su cargo; y
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-VI.- La reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado.
+###### Artículo 100.
 
-Al término del primer plazo de la concesión las obras, instalaciones y los bienes dedicados a la explotación de la misma revertirán en favor del municipio. En caso de prórroga o de otorgamiento de una nueva concesión, para la fijación del monto de los derechos se deberán considerar, además del terreno, las obras, instalaciones y demás bienes dedicados a la explotación de la concesión.
+El Consejo Estatal Electoral podrá aprobar un cronograma que contenga el cómputo de los plazos relativos a los procedimientos de Fiscalización de los informes.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
-
-###### ARTICULO 98.
-
-Los derechos y obligaciones derivados de las concesiones sobre inmuebles de dominio público, sólo podrán cederse, con la autorización previa y expresa del Ayuntamiento, emitida por conducto del Presidente Municipal, exigiendo al cesionario que reúna los mismo requisitos y condiciones que se tuviere en cuenta para el otorgamiento de la concesión respectiva.
-
-Salvo lo dispuesto en el párrafo anterior, las concesiones sobre inmuebles de dominio público no podrán ser objeto en todo o en parte, de subconcesión, arrendamiento, gravámen o cualquier acto o contrato por virtud del cual una persona distinta al concesionario goce de los derechos derivados de tales concesiones.
-
-Cualquier operación que se realice en contravención del tenor de este artículo, estará afectada de nulidad absoluta y el concesionario perderá a favor del Municipio, los derechos que deriven de la concesión y los bienes afectados a ella.
-
-###### ARTICULO 99.
-
-Cuando un bien inmueble propiedad del Municipio, vaya a incorporarse al dominio público, por estar comprendido dentro de las disposiciones de esta Ley, el Ayuntamiento por conducto de su Presidente Municipal, deberá emitir la declaratoria de incorporación correspondiente, la que se publicará por una sola vez en el Boletín Oficial del Gobierno del Estado y se inscribirá en el Registro Público de la Propiedad que corresponda, para que surta efectos contra terceros.
-
-Igual declaratoria de incorporación deberá emitirse, cuando un bien de hecho, esté destinado al uso común, a un servicio público o a alguna de las actividades que se equiparen a éstos.
-
-###### ARTICULO 100.
-
-Para incorporar al dominio público un bien mueble propiedad del Municipio, bastará con la declaratoria emitida por el Ayuntamiento respectivo, por conducto de su Presidente Municipal, para que la incorporación surta todos los efectos.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ### Capítulo II. De la Presentación de los Informes Anuales Ordinarios
 
-###### ARTICULO 101.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Se concede acción popular para solicitar del Ayuntamiento, la expedición de las declaratorias de incorporación a que se refiere el artículo que antecede. De no emitirse ésta en un plazo de sesenta días, contados a partir de la presentación de la solicitud, que por escrito se realice sin que se expresen motivos fundados para la negativa, la petición se dirigirá al Ejecutivo del Estado, quien oyendo la opinión del Ayuntamiento de que se trate, remitirá tanto la solicitud como el informe respectivo, a la Legislatura local, para que resuelva decretando la incorporación o negando la misma.
+###### Artículo 101.
 
-###### ARTICULO 102.
+Los informes anuales deberán ser presentados a más tardar dentro de los cuarenta y cinco días siguientes al último día de diciembre del año del ejercicio que se reporte.
 
-Los bienes de dominio público de los Municipios, podrán ser desincorporados, previa aprobación del Gobernador y mediante decreto que expida la Legislatura local, cuando por algún motivo dejen de ser útiles para fines de servicio público. A la solicitud que para estos efectos realicen los Ayuntamientos, deberá acompañarse:
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-I.- Un dictamen técnico que justifique la desincorporación.
+###### Artículo 102.
 
-II.- Tratándose de inmuebles, un plano de localización de los mismos, en el que se señale la superficie total del inmueble y sus medidas y colindancias.
+Conjuntamente con el informe anual deberán remitirse a la autoridad electoral:
 
-III.- La especificación del aprovechamiento que se pretenda dar al bien. Tratándose de inmuebles, dicho aprovechamiento deberá ser compatible con las correspondientes declaratorias de provisiones, reservas, usos y destinos que señalen los planes y programas de desarrollo urbano municipales.
+a) Los siguientes formatos, atendiendo lo dispuesto en el artículo 91 del presente reglamento:
 
-Cuando la desincorporación tenga como finalidad la enajenación o el gravamen de los bienes a que se refiere este precepto, cumpliéndose con los requisitos que señala el Artículo 106 de esta Ley, podrán presentarse las solicitudes en forma simultánea.
+- Formato 1 “IA” “Informe Anual del origen, destino y monto de los ingresos recibidos por cualquier modalidad de financiamiento, así como su empleo y aplicación”. en correlación con lo dispuesto por el artículo 117 del presente reglamento.
+
+- Formato 7 “CF-RAM” “Control de Folios de Recibos de Aportaciones de Militantes”
+
+- Formato 9 “CF-RASEF” “Control de Folios de Aportaciones de Simpatizantes en Efectivo”
+
+- Formato 11 “CF-RASES” “Control de Folios de Aportaciones de Simpatizantes en Especie”
+
+- Formato 13 “CF-REAPAC” “Control de Folios de recibos por Apoyos por Actividades de Colaboración”
+
+- Formato 14 “CE-AUTO” “Control de Eventos de Autofinanciamiento”
+
+- Formato 15 “DAM” “Detalle de Aportaciones de Militantes”
+
+- Formato 16 “DAS” “Detalle de Aportaciones de Simpatizantes”
+
+- Formato 17 “DIA” “Detalle de Ingresos por Autofinanciamiento”
+
+- Formato 18 “DIRFFF” “Detalle de Ingresos por Rendimientos Financieros Fondos y Fideicomisos”
+
+- Formato 19 “IM” “Informe Mensual”
+
+- Formato 20 “RIAL” “Reporte de Inventario Anual de Almacén”
+
+- Formato 24 “CGMB” “Concentrado de Gastos Menores a Través de Bitácora”
+
+- Formato 25 “PASIVO” “Control de pasivos al cierre del ejercicio que se informa”
+
+- Formato 26 “IAA-BMEI” “Inventario Anual Actualizado de Bienes Muebles e Inmuebles"
+
+- Formato 27 “IGAE” “Informe General de Actividades Específicas”
+
+- Formato 28 “IAE-ECP” “Informe de Actividades Específicas relativas a Educación y Capacitación Política”
+
+- Formato 29 “IAE-IESP” “Informe de Actividades Específicas relativas a Investigación Electoral Socioeconómica Política”
+
+- Formato 30 “IAE-TE” “Informe de Actividades Específicas relativas a Tareas Editoriales”
+
+- El listado a que hace referencia el artículo 96 del presente reglamento.
+
+- Los estados de cuentas bancarias de todas las cuentas utilizadas por el partido político para el manejo de los recursos de su operación ordinaria y las conciliaciones respectivas.
+
+b) La autorización para la impresión de los recibos utilizados a que hace referencia el artículo 54 del presente reglamento.
+
+c) El anexo técnico a que hace referencia el artículo 55 del presente reglamento.
+
+d) Las balanzas de comprobación a que hacen referencia los artículos 36 y 37 del presente reglamento.
+
+e) El registro concentrado a que se refiere el artículo 72 inciso i) del presente reglamento.
+
+f) El registro concentrado a que hace referencia el artículo 59 del presente reglamento.
+
+Y la documentación que en su momento solicité la Comisión de Fiscalización para el mejor desempeño de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ### Capítulo III. De la presentación de los Informes de Precampaña
 
-###### ARTICULO 103.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Son bienes de dominio privado municipal, enunciativamente:
+###### Artículo 103.
 
-I.- Los abandonados, adjudicados al Municipio por la autoridad judicial.
+Los informes de aplicación de recursos sobre gastos de precampaña, deberán presentarse por los partidos políticos que participen en el proceso electoral por cada una de las precampañas de las elecciones respectivas, especificando los gastos que el partido político y el precandidato hayan realizado en el ámbito territorial correspondiente.
 
-II.- Los que resulten de la liquidación o extinción de organismos de derecho público municipal.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-III.- Los muebles no comprendidos en la Fracción IV del Artículo 96 de esta Ley.
+Dichos informes serán presentados dentro de los treinta días posteriores a la conclusión de los procesos internos de selección de candidatos.
 
-IV.- Los inmuebles que adquiera el municipio hasta en tanto no se destinen al uso común, a la prestación de un servicio público o a algunas de las actividades que se equiparen a ésta, o de hecho se utilicen en estos fines.
+En cada informe será reportado el origen de los recursos que se hayan utilizado para financiar los gastos correspondientes a los rubros comprendidos en los topes de gastos de precampaña, y los señalados en el formato 2 “I-PRECAMPAÑA” así como el monto y destino de dichas erogaciones
 
-###### ARTICULO 104.
+No se considerarán dentro de los topes de precampaña los gastos de operación que realicen los partidos para el proceso de selección interna de candidatos a cargos de elección popular.
 
-Los bienes de dominio privado de los Municipios son inembargables e imprescriptibles. Se destinarán prioritariamente al servicio de las diversas dependencias de la Administración Municipal, en cuyo caso tratándose de inmuebles deberán de ser incorporados al dominio público.
+Los gastos de precampaña sujetos a topes son los establecidos en el artículo 86 del presente reglamento.
 
-###### ARTICULO 105.
+Los partidos políticos y coalición deberán sujetarse a las disposiciones contenidas en el “Reglamento de Precampañas Electorales para el Estado de Morelos”
 
-A excepción del Contrato de Comodato para fines particulares, los Ayuntamientos podrán ejecutar sobre los bienes de dominio privado, todos los actos de administración y de dominio que regula el derecho común con las modalidades y cumpliendo los requisitos establecidos en este Capítulo.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+###### Artículo 104.
 
-###### ARTICULO 106.
+Los titulares de los órganos de finanzas de los partidos políticos notificarán a los precandidatos que participen en el proceso de selección interna del partido la obligación de proporcionar relaciones de ingresos obtenidos y gastos ejercidos en sus precampañas, así como de recabar los soportes documentales correspondientes y remitirlos a dicho órgano, señalándoles los plazos para el cumplimiento de estas obligaciones, de manera que el partido esté en posibilidad de cumplir en tiempo y forma con la entrega de sus informes de precampaña.
 
-Los ayuntamientos podrán enajenar o gravar sus bienes muebles e inmuebles de dominio privado, con la autorización del Congreso del Estado y previa la aprobación del Ejecutivo Local, cuando se reúnan los siguientes requisitos:
+Asimismo, deben instruir a sus diferentes precandidatos a cargos de elección popular para que el todo caso el manejo de los recursos de precampaña se realicen a través de las cuentas bancarias que establece el presente reglamento de fiscalización para tal efecto.
 
-I.- Que la necesidad de las enajenaciones responda a la ejecución de un programa, cuyo objetivo sea la satisfacción de suelo urbano para vivienda, atendiendo preferentemente a la población urbana y rural de bajos ingresos; o bien, al impulso o fomento de las actividades productivas o de desarrollo social, cívico, deportivo o cultural de sus comunidades.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-II.- Que en la solicitud respectiva se especifique el destino que se proyecte dar al producto que se obtenga con la enajenación o gravamen.
+###### Artículo 105.
 
-> <small>(REFORMADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+Los informes de precampaña serán presentados dentro de los treinta días posteriores a la conclusión de los procesos internos de selección de candidatos.
 
-III.- Tratándose de inmuebles, que se anexe un avalúo expedido por una Sociedad Nacional de Crédito, o en su defecto, de no existir ésta en el Municipio, la especificación de su valor catastral, asimismo, deberá acompañarse lo señalado en las fracciones II y III del artículo 102 de esta Ley.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-IV.- Cuando las enajenaciones de bienes inmuebles requieran la división de éstos en manzanas, lotes y calles, se deberá de cumplir con las normas vigentes en materia de fraccionamientos.
+###### Artículo 106.
 
-###### ARTICULO 107.
+En los informes de precampaña de cada precandidato se registrarán todos los ingresos y gastos a partir del día siguiente en que cada partido político apruebe el registro interno y hasta la elección del candidato, la cual no podrá excederse más allá del 20 de marzo del año en que se celebren las elecciones.
 
-Los Ayuntamientos pueden dar en arrendamiento los bienes que integren su patrimonio hasta por el término de diez años, pero necesitan de la aprobación del Gobernador y del Congreso, cuando el arrendamiento exceda de su periodo constitucional.
+En el entendido de que no podrán ejercerse gastos de precampaña antes ni después de la fechas previstas en el Código Electoral para las precampañas.
 
-###### ARTICULO 108.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-La enajenación onerosa de bienes inmuebles de los Municipios, deberá ser de contado y se efectuará en subasta pública que garantice al Municipio las mejores condiciones disponibles en cuanto al precio de venta, conforme a las siguientes bases:
+###### Artículo 107.
 
-I.- La convocatoria que deberá contener el precio fijado por el Ayuntamiento y la identificación de los bienes a rematarse, se publicará por una sola vez y con quince días de anticipación por lo menos a la fecha señalada para la diligencia de remate, en uno de los periódicos de mayor circulación en el Municipio, en la tabla de avisos del Ayuntamiento y en cualquier otro lugar público.
+En caso de sustitución de aspirantes a precandidatos, los partidos políticos deberán reportar en cualquier caso, todos los gastos que se hayan efectuado por el precandidato que se sustituye y estos se computarán para los efectos de tope de gastos de precampaña correspondiente.
 
-II.- Será postura legal la que cubra la totalidad del precio fijado y los licitadores deberán depositar previamente a la celebración de la diligencia por lo menos el cincuenta porciento en efectivo de dicho precio.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-III.- El Síndico Municipal declarará fincado el remate y el Ayuntamiento determinará si procede o no aprobarlo. De aprobarse, el mismo acuerdo ordenará se emita el documento justificativo de propiedad, que tendrá el carácter de escritura pública.
+###### Artículo 108.
 
-IV.- En la diligencia de remate y en cualquier otra formalidad se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+Si el precandidato que hubiese obtenido la candidatura, rebasa el tope de precampaña o incumple la obligación de entregar su informe de ingresos y gastos de precampaña dentro del plazo señalado, será sancionado por el Consejo Estatal Electoral con la negativa del registro como candidato, o en su caso, con la pérdida de la candidatura.
 
-###### ARTICULO 109.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-El Ayuntamiento, previo el cumplimiento de los requisitos establecidos en el Artículo 106 de esta Ley, podrá autorizar la enajenación directa en forma onerosa de inmuebles fuera de subasta, cuando se trate de satisfacer necesidades de suelo urbano para vivienda o bien, cuando el Congreso así lo determine al autorizar la enajenación.
+###### Artículo 109.
 
-###### ARTICULO 110.
+Los precandidatos que no cumplan con la presentación del informe de ingreso-gasto de precampaña, serán sancionados por el Instituto Estatal Electoral en los términos que establece el Código Electoral.
 
-Cuando se trate de satisfacer necesidades de suelo para vivienda, el Ayuntamiento se reservará el dominio de los bienes, hasta en tanto se cumplan las siguientes condiciones:
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-I.- Que se edifique en el inmueble, casa suficientemente apta para habitarse de construcción permanente.
+###### Artículo 110.
 
-II.- Que se cubra totalmente el precio fijado, cuando se haya autorizado el pago de éste en parcialidades.
+Conjuntamente con los informes de Precampaña de Gobernador, Diputados y Ayuntamientos los partidos políticos y coalición deberán presentar en los plazos establecidos en el artículo 105 del presente reglamento, lo siguiente:
+
+a) Se deberá presentar un informe por cada precandidato que participó en el proceso de selección interna, los informes serán presentados a través del Formato 2 “I-PRECAMPAÑA”, de Gobernador, Diputados de Mayoría Relativa y Ayuntamientos, según corresponda.
+
+A cada informe, se deberá anexar copia de la credencial de elector del precandidato correspondiente;
+
+b) Listado con nombre completo de propietario y suplente de precandidatos a cargo de diputados y Ayuntamientos, respectivamente;
+
+c) Los siguientes formatos, atendiendo lo dispuesto en el artículo 91 del presente reglamento:
+
+- Formato 2 “I-PRECAMPAÑA” “Informe de Precampaña del origen, destino y monto de los ingresos recibidos por cualquier modalidad de financiamiento, así como su empleo y aplicación” por precandidato, en correlación con lo dispuesto por el artículo 117 del presente reglamento.
+
+- Formato 3 “IC-PRECAMPAÑA” “Informe Consolidado del Proceso de Selección Interna y Precampaña del origen, destino y monto de los ingresos recibidos por cualquier modalidad de financiamiento, así como su empleo y aplicación”
+
+- Formato 6 “RAM” “Recibos de Aportaciones de Militantes” utilizados durante las precampañas.
+
+- Formato 7 “CF-RAM” “Control de Folios de Recibos de Aportaciones de Militantes”
+
+- Formato 8 “RASEF” “Recibos de Aportaciones de Simpatizantes en Efectivo” utilizados durante las precampañas.
+
+- Formato 9 “CF-RASEF” “Control de Folios de Aportaciones de Simpatizantes en Efectivo”
+
+- Formato 10 “RASES” “Recibos de Aportaciones de Simpatizantes en Especie” utilizados durante las precampañas
+
+- Formato 11 “CF-RASES” “Control de Folios de Aportaciones de Simpatizantes en Especie”
+
+- Formato 12 “REAPAC” “Recibos de Apoyos por actividades de colaboración” utilizados durante las precampañas
+
+- Formato 13 “CF-REAPAC” “Control de Folios de recibos por Apoyos por Actividades de Colaboración”
+
+- Formato 14 “CE-AUTO” “Control de Eventos de Autofinanciamiento”
+
+- Formato 15 “DAM” “Detalle de Aportaciones de Militantes”
+
+- Formato 16 “DAS” “Detalle de Aportaciones de Simpatizantes”
+
+- Formato 17 “DIA” “Detalle de Ingresos por Autofinanciamiento”
+
+- Formato 18 “DIRFFF” “Detalle de Ingresos por Rendimientos Financieros Fondos y Fideicomisos”
+
+- Formato 19 “IM” “Informe Mensual”
+
+- Formato 20 “RIAL” “Reporte de Inventario Anual de Almacén”
+
+- Formato 24 “CGMB” “Concentrado de Gastos Menores a Través de Bitácora”
+
+d) El listado a que hace referencia el artículo 56 del presente reglamento.
+
+e) Los estados de cuentas bancarias de todas las cuentas utilizadas por el partido político para el manejo de los recursos precampaña y las conciliaciones respectivas.
+
+f) La autorización para la impresión de los recibos utilizados a que hace referencia el artículo 54 del presente reglamento;
+
+g) El anexo técnico a que hace referencia el artículo 55 del presente reglamento;
+
+h) Las balanzas de comprobación a que hacen referencia los artículos 36 y 37 del presente reglamento;
+
+i) El registro concentrado a que hace referencia el articulo 72 inciso i) del presente reglamento;
+
+j) El registro concentrado a que hace referencia el artículo 59 del presente reglamento de fiscalización;
+
+Y la documentación que en su momento solicité la Comisión de Fiscalización para el mejor desempeño de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ### Capítulo IV. De la presentación de los Informes de Campaña
 
-###### ARTICULO 111.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-En todas las enajenaciones que realice el Ayuntamiento para satisfacer necesidades de suelo para vivienda, quedará constituido de pleno derecho el patrimonio familiar sobre los inmuebles objeto de la enajenación. Para estos efectos, los particulares que deseen adquirir dichos bienes, deberán acreditar ante las autoridades municipales:
+###### Artículo 111.
 
-I.- Que es mayor de edad, o que está emancipado.
+Los gastos que deberán ser reportados en los informes de campaña serán los ejercidos dentro de campañas que fije el Consejo Estatal Electoral para tal efecto.
 
-II.- Que es vecino del Municipio.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio. La comprobación de los vínculos familiares se hará con las copias certificadas de las actas del Registro Civil.
+###### Artículo 112.
 
-IV.- El promedio de sus ingresos, a fin de que se pueda calcular, la posibilidad de pagar el precio del inmueble que se le venda.
+Los titulares de los órganos de finanzas de los partidos políticos notificarán a los candidatos postulados por el partido la obligación de proporcionar relaciones de ingresos obtenidos y gastos ejercidos en sus campañas, así como de recabar los soportes documentales correspondientes y remitirlos a dicho órgano, señalándoles los plazos para el cumplimiento de estas obligaciones, de manera que el partido esté en posibilidad de cumplir en tiempo y forma con la entrega de sus informes de campaña.
 
-V.- Que carece de bienes inmuebles. Si el que tenga interés legítimo demuestra que quien hizo la compra era propietario de bienes inmuebles, se declarará nula la enajenación.
+Asimismo, deben instruir a sus diferentes candidatos a cargos de elección popular para que el todo caso el manejo de los recursos de campaña se realicen a través de las cuentas bancarias que establece el presente reglamento de fiscalización para tal efecto.
 
-> <small>(DEROGADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 112.
+###### Artículo 113.
 
-En las enajenaciones de inmuebles que realicen los Ayuntamientos en los términos del Artículo anterior, no se requerirá el otorgamiento de escritura ante Notario. El documento que contenga la enajenación tendrá el carácter de escritura pública y deberá ser suscrito por el Presidente Municipal, el Secretario del Ayuntamiento, el Síndico Municipal y el Particular respectivo.
+Los informes de campaña de Gobernador y Ayuntamientos deberán ser presentados a más tardar dentro de los 30 días naturales siguientes contados a partir del día de la elección, y los informes de campaña de Diputados de Mayoría relativa deberán ser presentados a más tardar dentro de los veinte días naturales siguientes contados a partir del día de la elección.
 
-El documento que contenga dicha enajenación, deberá ser inscrito en el Registro Público de la Propiedad que corresponda, dentro de los quince días siguientes a su suscripción, previas las gestiones que para tal efecto deberá realizar el Síndico Municipal. Será causa de responsabilidad del Síndico Municipal, en los términos de Ley, el incumplimiento de lo antes preceptuado.
+Se deberá presentar un informe por cada una de las campañas en las elecciones en que hayan participado los partidos políticos, especificando los gastos que el partido y el candidato hayan ejercido en el ámbito territorial correspondiente, así como el monto y origen de todos los recursos que se hayan utilizado con motivo de la campaña en particular y en lo general los aplicados durante todo el proceso electoral.
 
-###### ARTICULO 113.
+En consecuencia, deberá presentarse:
 
-El documento en que conste la enajenación realizada en los términos del Artículo 111 de esta Ley, deberá contener la siguiente Cláusula: "El inmueble objeto de este acto jurídico, se encuentra destinado al patrimonio de familia, en beneficio de la familia del adquiriente, por lo que es inalienable y no puede ser objeto de embargo ni gravamen alguno conforme a lo que dispone el Código Civil del Estado de Sonora, de lo cual deberá tomarse nota al hacerse la inscripción en el Registro Público de la Propiedad".
+a).- Un informe por la campaña de su candidato para Gobernador del Estado de Morelos;
 
-###### ARTICULO 114.
+b).- Tantos informes como fórmulas de candidatos a diputados por el principio de mayoría relativa hayan registrado ante las autoridades electorales; y
 
-Cumplidas las condiciones a que se refiere el Artículo 110 de esta Ley, el Síndico Municipal deberá girar oficio al encargado del Registro Público de la Propiedad que corresponda, haciendo de su conocimiento tal situación, para que, previas las anotaciones registrales del caso, surta plenamente sus efectos la enajenación realizada.
+c).- Tantos informes como fórmulas de candidatos a presidentes municipales que hayan registrado ante las autoridades electorales.
+
+A cada informe, se deberá anexar copia de la credencial de elector del precandidato correspondiente.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 114.
+
+Conjuntamente con los informes de campaña deberán remitirse a la autoridad electoral:
+
+a) Los siguientes formatos, atendiendo lo dispuesto en el artículo 91 del presente reglamento:
+
+- Formato 4 “I-CAMPAÑA” “Informe Campaña del origen, destino y monto de los ingresos recibidos por cualquier modalidad de financiamiento, así como su empleo y aplicación”, en correlación con lo dispuesto por el artículo 117 del presente reglamento;
+
+- Formato 5 “IC-CAMPAÑA” “Informe Consolidado de Campaña del origen, destino y monto de los ingresos recibidos por cualquier modalidad de financiamiento, así como su empleo y aplicación”
+
+- Formato 6 “RAM” “Recibos de Aportaciones de Militantes” utilizados durante las precampañas.
+
+- Formato 7 “CF-RAM” “Control de Folios de Recibos de Aportaciones de Militantes”
+
+- Formato 8 “RASEF” “Recibos de Aportaciones de Simpatizantes en Efectivo” utilizados durante las precampañas.
+
+- Formato 9 “CF-RASEF” “Control de Folios de Aportaciones de Simpatizantes en Efectivo”
+
+- Formato 10 “RASES” “Recibos de Aportaciones de Simpatizantes en Especie” utilizados durante las precampañas
+
+- Formato 11 “CF-RASES” “Control de Folios de Aportaciones de Simpatizantes en Especie”
+
+- Formato 12 “REAPAC” “Recibos de Apoyos por actividades de colaboración” utilizados durante las precampañas
+
+- Formato 13 “CF-REAPAC” “Control de Folios de recibos por Apoyos por Actividades de Colaboración”
+
+- Formato 14 “CE-AUTO” “Control de Eventos de Autofinanciamiento”
+
+- Formato 15 “DAM” “Detalle de Aportaciones de Militantes”
+
+- Formato 16 “DAS” “Detalle de Aportaciones de Simpatizantes”
+
+- Formato 17 “DIA” “Detalle de Ingresos por Autofinanciamiento”
+
+- Formato 18 “DIRFFF” “Detalle de Ingresos por Rendimientos Financieros Fondos y Fideicomisos”
+
+- Formato 19 “IM” “Informe Mensual”
+
+- Formato 20 “RIAL” “Reporte de Inventario Anual de Almacén”
+
+- Formato 24 “CGMB” “Concentrado de Gastos Menores a Través de Bitácora”
+
+b) El listado a que hace referencia el artículo 56 del presente reglamento de fiscalización.
+
+c) Los estados de cuentas bancarias de todas las cuentas utilizadas por el partido político para el manejo de los recursos de campaña y las conciliaciones respectivas;
+
+d) La autorización para la impresión de los recibos utilizados a que hace referencia el artículo 54 del presente reglamento;
+
+e) El anexo técnico a que hace referencia el artículo 55 del presente reglamento;
+
+f) Las balanzas de comprobación a que hacen referencia los artículos 36 y 37 del presente reglamento;
+
+g) El registro concentrado a que hace referencia el artículo 72 inciso i) del presente reglamento;
+
+h) El registro concentrado a que hace referencia el artículo 59 del presente reglamento.
+
+Y la documentación que en su momento solicité la Comisión de Fiscalización para el mejor desempeño de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ### Capítulo V. De la Revisión de los Informes
 
-###### ARTICULO 115.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Los Ayuntamientos a través de sus Síndicos Municipales, deberán de llevar un registro actualizado de todas las enajenaciones que realicen.
+###### Artículo 115.
 
-###### ARTICULO 116.
+La Comisión de Fiscalización contará con el apoyo del o de los despachos contables que coadyuven con los dictámenes sobre los informes que presenten los partidos políticos.
 
-Todas las enajenaciones que realicen los Ayuntamientos, para satisfacer las necesidades de suelo urbano para vivienda, se deberán de sujetar a los objetivos que señalen las leyes federales y estatales en esta materia, evitando el acaparamiento de suelo, propiciando la oferta oportuna de tierra para vivienda a las familias de escasos recursos, fomentando que la vivienda sea un factor de ordenación territorial y estructuración interna de los centros de población y en general, de arraigo, protección y mejoría de la población urbana y rural.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 117.
+###### Artículo 116.
 
-Los actos jurídicos que se ejecuten en contravención de lo previsto en este Capítulo, producirán la nulidad absoluta de dichas operaciones.
+La Comisión de Fiscalización, tendrá en todo momento la facultad de solicitar a los órganos responsables del financiamiento de cada partido político la documentación necesaria para comprobar la veracidad de lo reportado en los informes. Asimismo, la Comisión de Fiscalización antes de iniciar la revisión de gabinete, tomará en cuenta el antecedente del informe anual inmediato anterior al del ejercicio que se reporte, con la finalidad de tener conocimiento de los saldos finales reportados por los partidos políticos, así como darle seguimiento a las observaciones no solventadas correspondientes al citado ejercicio anterior.
 
-###### ARTICULO 118.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Cuando se trate de recuperar la poseción (sic) provisional o definitiva o de reivindicar los inmuebles de dominio privado, o de obtener el cumplimiento, la rescisión o la nulidad de los contratos celebrados respecto de dichos bienes, deberá el Ayuntamiento deducir ante los Tribunales las acciones que correspondan, mismas que se tramitarán en los términos señalados en
+###### Artículo 117.
 
-el Código de Procedimientos Civiles del Estado de Sonora. Presentada la demanda, el Juez, a solicitud del Ayuntamiento de que se trate y siempre que encuentre razón que lo amerite, podrá autorizar la ocupación administrativa provisional de los inmuebles. La resolución denegatoria podrá revocarse en cualquier estado del pleito por causas supervinientes.
+La Comisión de Fiscalización podrá realizar verificaciones selectivas de la documentación comprobatoria de los ingresos y gastos de los Partidos Políticos dichas verificaciones podrán ser totales o muéstrales en uno o varios rubros de acuerdo con los criterios que para el efecto determine el Consejo Estatal Electoral una vez entregados los informes por los partidos políticos.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+Con relación a la revisión de los informes de precampaña y campaña, estos serán revisados en base a la documentación presentada conjuntamente con los mismos, pudiendo solicitar en todo momento la información y documentación soporte para comprobar la veracidad de lo reportado en dichos informes.
 
-###### ARTICULO 119.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Las concesiones sobre bienes de dominio público municipal, se otorgarán , extinguirán, revocarán y se decretará su nulidad y caducidad en la misma forma y términos que para dichos actos se señalen en al Ley General de Bienes del Estado, en todo lo que resulte aplicable. Asimismo, para todo lo no previsto en este Capítulo, se observará en lo conducente la citada Ley.
+###### Artículo 118.
 
-###### ARTICULO 120.
+La Comisión de Fiscalización informará a cada uno de los partidos políticos los nombres de los auditores que se encargarán de la verificación documental y contable relacionada en el artículo anterior, y señalará el día y hora para la entrega de documentos e información en las oficinas que para tal efecto se designe.
 
-El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos y declarar que éstos han desaparecido, conforme a las bases y causas que señala esta Ley.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 121.
+###### Artículo 119.
 
-El Congreso declarará desaparecido un Ayuntamiento en los siguientes casos:
+Del desarrollo de la verificación documental, se levantará un acta que firmarán a su inicio y conclusión, el personal designado para tal efecto por la Comisión de Fiscalización, así como las personas facultadas por el partido político que corresponda.
 
-I.- Cuando exista falta absoluta o de la mayoría de los integrantes de un Ayuntamiento.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-II.- Cuando se suscite entre los integrantes de un Ayuntamiento, o entre éste y la comunidad, conflicto que haga imposible el cumplimiento de los fines del mismo, o el ejercicio de sus funciones, y
+###### Artículo 120.
 
-III.- Por cualquier causa grave, que impida el ejercicio de las funciones del Ayuntamiento conforme al orden constitucional federal o local.
+El personal designado por la Comisión de Fiscalización deberá marcar con sello y fecha los comprobantes presentados por el partido como soporte documental de sus ingresos y egresos, señalando el ejercicio de revisión en el cual se presentó, la fecha de revisión y su firma.
 
-###### ARTICULO 122.
+En el caso de gastos de precampaña y campaña, se asentará también el señalamiento a la cual corresponde el ingreso o egreso.
 
-El Congreso procederá a decretar la suspensión de un Ayuntamiento cuando éste incurra en cualquiera de las siguientes causas:
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-I.- Por quebrantar los principios del régimen jurídico, político o administrativo interior del Estado.
+###### Artículo 121.
 
-II.- Por actos u omisiones que lesionen la integridad del territorio del Estado o su soberanía, libertad e independencia interior.
+Si durante la revisión de los informes la Comisión de Fiscalización advierte la existencia de errores u omisiones técnicas notificará al partido político que hubiere incurrido en ellos, así como al Consejo Estatal Electoral, para que en un plazo de cinco días hábiles contados a partir de dicha notificación, el Partido Político o Coalición del que se trate conteste por escrito las aclaraciones o rectificaciones y aporte pruebas que considere pertinentes, en términos de lo dispuesto en el Código Electoral y el presente reglamento. Las pruebas deberán ser exhibidas junto con el escrito aclaratorio, de acuerdo a lo establecido en el artículo 67 inciso d) del Código Electoral.
 
-III.- Por actos u omisiones que transgredan las garantías individuales y sociales que consagran la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Sonora.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-IV.- Por ejercer atribuciones que las leyes no les confieran o rehusar obligaciones que la Ley les impone.
+###### Artículo 122.
 
-V.- Por permitir que los extranjeros se inmiscuyan en asuntos de política interna del Estado o de los Municipios.
+Si las rectificaciones o aclaraciones que deba hacer el partido político requieren de la entrega de documentación, ésta será única y exclusivamente con la finalidad de aclarar o rectificar lo que el partido político o coalición estime pertinente.
 
-VI.- Por violaciones a las normas jurídicas que rijan los procesos electorales.
-
-VII.- Por desacato a las instrucciones y mandatos que en uso de sus atribuciones y legalmente fundadas y motivadas les fueren giradas por los Supremos Poderes del Estado, en aras del interés general.
-
-VIII.- Por promover o adoptar forma de gobierno o bases de organización política distintas de las señaladas en el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ### Capítulo V.1.
 
@@ -1491,326 +1547,450 @@ De los plazos de Revisión de los Informes Anuales Ordinarios, de Precampaña y 
 
 - Anuales Ordinarios
 
-###### ARTICULO 123.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-La petición para que el Congreso del Estado declare la desaparición o decrete la suspensión de un Ayuntamiento, podrá ser formulada por el Ejecutivo del Estado, por algún integrante de la Legislatura local o por cualquier ciudadano en pleno ejercicio de sus derechos cívicos y políticos.
+###### Artículo 123.
 
-Cuando la petición a la que se refiere el párrafo anterior, sea formulada por algún integrante de la Legislatura local o por cualquier ciudadano, antes de resolver sobre la desaparición o suspensión del Ayuntamiento de que se trate, el Congreso del Estado, deberá tomar en cuenta la opinión del Gobernador.
+La Comisión de Fiscalización contará con sesenta días para revisar los informes anuales.
 
-###### ARTICULO 124.
+Si durante la revisión la Comisión de Fiscalización advierte la existencia de errores técnicos u omisiones, notificará al partido político o coalición que hubiera incurrido en ellos y al Consejo Estatal Electoral, para que en un plazo de cinco días hábiles conteste por escrito las aclaraciones o rectificaciones y aporte pruebas que considere pertinentes en los términos que establece el Código Electoral y el presente reglamento. Las pruebas deberán ser exhibidas junto con el escrito aclaratorio.
 
-En los recesos del Congreso del Estado, la Diputación Permanente, si así lo estima procedente por el voto de las dos terceras partes de sus integrantes, convocará a sesiones extraordinarias, a fin de que el Congreso se reúna dentro de las cuarenta y ocho horas siguientes para conocer de las peticiones a que se refiere el artículo anterior.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 125.
+###### Artículo 124.
 
-Recibida la petición, si el Congreso lo estima procedente, la turnará a la Comisión correspondiente. En caso de no ameritarse la incoación del procedimiento se desechará de plano la petición.
+La Comisión de Fiscalización dispondrá de un plazo de 20 días hábiles para elaborar los Dictámenes, con base en la revisión hecha a los informes presentados por los partidos políticos, los cuales deberá presentar al Consejo Estatal Electoral dentro de los 3 días posteriores a su conclusión.
 
-###### ARTICULO 126.
+Asimismo, la Comisión de Fiscalización remitirá al Consejo Estatal Electoral, en un plazo de 10 días hábiles contados a partir de la aprobación de los Dictámenes, el proyecto de resolución para su aprobación, el cual contendrá la sanción o sanciones que en su caso, se consideren imponer al partido político infractor.
 
-La Comisión del Congreso que substanciará el procedimiento, de acuerdo a las circunstancias que medien y en aras de preservar la buena y normal marcha de la Administración Municipal y los intereses públicos, citará al Ayuntamiento respectivo a una audiencia que se celebrará dentro de las cuarenta y ocho horas siguientes, en la cual podrá comparecer con su defensa y rendir las pruebas que estime conducentes y alegar lo que a sus intereses convenga.
+- De Precampaña
 
-###### ARTICULO 127.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Desahogadas las pruebas ofrecidas, en su caso, y presentados los alegatos, o sin ellos, la Comisión emitirá un dictamen dentro de las veinticuatro horas siguientes a la conclusión de la audiencia a que se refiere el artículo anterior y solicitará se cite al Congreso a sesión, para que conozca y resuelva, en ejercicio de sus atribuciones, lo que corresponda.
+###### Artículo 125.
 
-###### ARTICULO 128.
+La Comisión de Fiscalización contará con siete días naturales para revisar los informes de precampaña.
 
-Si el Congreso decreta la suspensión o declara la desaparición de un Ayuntamiento, por las causas a que se refieren los artículos 121 y 122 de esta Ley y no considerarse que entraren en funciones los suplentes, procederá a formular la declaratoria de que se está en el supuesto de designar un Concejo Municipal; para este efecto, solicitará del Gobernador del Estado la propuesta de los vecinos del Municipio que ocuparán los cargos de Presidente Municipal, Síndico y Regidores del Concejo Municipal respectivo y hará la designación correspondiente comunicándole la misma al Ejecutivo del Estado para que provea a su estricto cumplimiento.
+Si durante la revisión la Comisión de Fiscalización advierte la existencia de errores técnicos u omisiones, notificará al partido político o coalición que hubiera incurrido en ellos y al Consejo Estatal Electoral, para que en un plazo de cinco días hábiles conteste por escrito las aclaraciones o rectificaciones y aporte pruebas que considere pertinentes en los términos que establece el Código Electoral y el presente reglamento. Las pruebas deberán ser exhibidas junto con el escrito aclaratorio.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 126.
+
+La Comisión de Fiscalización dispondrá de un plazo de cinco días naturales para elaborar y presentar al Consejo Estatal Electoral los proyectos de resolución para la aprobación de los dictámenes de precampaña.
+
+Asimismo, la Comisión de Fiscalización remitirá al Consejo Estatal Electoral, en un plazo de dos días hábiles contados a partir de la aprobación de los Dictámenes de Precampaña, el proyecto de resolución para su aprobación, el cual contendrá la sanción o sanciones que en su caso, se consideren imponer al partido político infractor.
+
+- De Campaña
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 127.
+
+La Comisión de Fiscalización contará con quince días hábiles para la revisión de los informes de campaña de Gobernador, con diez días naturales para la revisión de los informes de Diputados de Mayoría Relativa, y con treinta y cinco días hábiles para la revisión de los informes de campaña de los Ayuntamientos.
+
+Si durante la revisión la Comisión de Fiscalización advierte la existencia de errores técnicos u omisiones, notificará al partido político o coalición que hubiera incurrido en ellos y al Consejo Estatal Electoral, para que en un plazo de cinco días hábiles conteste por escrito las aclaraciones o rectificaciones y aporte pruebas que considere pertinentes en los términos que establece el Código Electoral y el presente reglamento. Las pruebas deberán ser exhibidas junto con el escrito aclaratorio.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 128.
+
+La Comisión de Fiscalización dispondrá de un plazo de diez días hábiles para la elaboración de los Dictámenes de Campaña de Gobernador y Ayuntamientos.
+
+Respecto de la elaboración y presentación al Consejo Estatal Electoral de los Dictámenes Campaña de Diputados de Mayoría Relativa, la Comisión de Fiscalización dispondrá de un plazo de diez días hábiles para ambos procedimientos.
+
+Por lo que respecta a la presentación de los dictámenes y proyectos de resolución al Consejo Estatal Electora, la Comisión de Fiscalización dispondrá de un plazo de 3 días hábiles, únicamente en los relativos a Gastos de Campaña de Gobernador y Ayuntamientos.
+
+Asimismo, la Comisión de Fiscalización remitirá al Consejo Estatal Electoral el proyecto de resolución para su aprobación, el cual contendrá la sanción o sanciones que en su caso, se consideren imponer al partido político infractor en un plazo de tres días hábiles para las sanciones derivadas del Dictámen de Campaña de Gobernador, y un plazo de cuatro días hábiles para las resoluciones de sanciones derivadas del Dictámen de Campaña de Diputados de Mayoría Relativa y de un plazo de cinco días hábiles para las resoluciones derivadas de las sanciones del Dictamen de Campaña de Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ### Capítulo VI. De la elaboración de los Dictámenes y su presentación al Consejo Estatal Electoral
 
-###### ARTICULO 129.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Los integrantes de los Concejos Municipales, rendirán su protesta ante el Ejecutivo del Estado o ante su representante, en el lugar y hora y fecha que éste fije y se declarará instalado el Concejo Municipal en los mismos términos que fija esta Ley para la instalación del Ayuntamiento.
+###### Artículo 129.
 
-###### ARTICULO 130.
+La Comisión de Fiscalización en el dictamen que emita, deberá tomar en consideración los escritos, aclaraciones o rectificaciones que presenten los partidos políticos, procediendo a establecer en dicho dictamen lo que considere aplicable y conducente a cada punto en particular, conforme al presente reglamento y a los artículos aplicables del Código Electoral.
 
-Los Concejos Municipales tendrán la misma estructura orgánica, atribuciones y deberes de los Ayuntamientos.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 131.
+###### Artículo 130.
 
-En los casos de que los Concejos Municipales sean designados dentro de la primera mitad del periodo de gobierno de que se trate, se podrán realizar elecciones extraordinarias si el Congreso del Estado lo juzga conveniente, tomando en consideración las circunstancias de orden general de las que se derive si ha lugar o no a que dichas elecciones se practiquen en un término perentorio, pues en caso contrario los designados concluirán el periodo.
+La Comisión de Fiscalización presentará en sesión del Consejo Estatal Electoral, el dictamen que corresponda a cada partido político, para su revisión y aprobación en su caso.
 
-Cuando los Concejos Municipales sean designados dentro de la segunda mitad del período de gobierno, dichos Concejos concluirán éste.
+La Comisión de Fiscalización presentará un proyecto de resolución, para el efecto de que el Consejo Estatal Electoral determine la aprobación o no de los dictámenes, en los plazos establecidos en el Capítulo anterior.
 
-###### ARTICULO 132.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-La designación de los Concejos Municipales o de alguno de sus miembros, podrá ser revocada por el Congreso local por las mismas causas que señalan los Artículos 121, 122 y 133 de esta ley y conforme a los procedimientos que para la desaparición y suspensión de Ayuntamientos señala este Título.
+###### Artículo 131.
 
-###### ARTICULO 133.
+Una vez aprobados los dictámenes emitidos por la Comisión de Fiscalización, la Secretaría Ejecutiva notificará a cada Partido Político el mismo, y en caso que de los referidos dictámenes se desprenda que el partido político o coalición no haya aplicado los recursos para los fines que les fueron otorgados y/o hayan incumplido con las disposiciones contenidas en el Código Electoral y el presente reglamento, se iniciará el procedimiento para determinación e imposición de sanciones.
 
-La Legislatura local, por acuerdo de las dos terceras partes de sus miembros, podrá decretar la suspensión o revocación del mandato de alguno o algunos de los integrantes de un Ayuntamiento, en los casos siguientes:
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-I.- Por abandono de sus funciones en un lapso mayor de quince días, sin causa justificada.
+###### Artículo 132.
 
-II.- Por actos u omisiones reiteradas que alteren el orden, la tranquilidad o la seguridad pública.
+Los dictámenes elaborados por la Comisión de Fiscalización, aprobados por el Consejo Estatal Electoral y las resoluciones emitidas por los órganos jurisdiccionales electorales se publicarán, una vez que se consideren como actos firmes e inatacables, en el periódico oficial denominado “Tierra y Libertad” órgano informativo del gobierno del Estado de Morelos, en la página de internet y órganos de difusión del Instituto Estatal Electoral.
 
-III.- Por no acatar las leyes, locales o federales, o las instrucciones que en aras del interés público, le fueren legítimamente giradas por los Supremos Poderes del Estado o por el Ayuntamiento del que forman parte.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-IV.- Por dictarse, en contra del miembro de que se trate auto de formal prisión por la comisión de un delito intencional.
+###### Artículo 133.
 
-V.- Por incapacidad física o legal permanente.
+En el supuesto que el Consejo Estatal Electoral no apruebe alguno o determinados dictámenes, estos se remitirán a la Comisión de Fiscalización, para efecto de que emita de nueva cuenta los dictámenes no aprobados, en los que se tomarán en consideración las observaciones hechas a los mismos.
 
-VI.- Por haber aportado certificados, documentos o referencias falsas en los que se les atribuyan el cumplimiento de los requisitos de elegibilidad a que se refiere el Artículo 132 de la Constitución Política local.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-VII.- Por realizar, en lo individual, cualquiera de los actos a que se refiere el Artículo 122 de esta Ley.
+###### Artículo 134.
 
-###### ARTICULO 134.
+El dictamen deberá contener por lo menos:
 
-Decretada la suspensión o revocación del mandato de alguno o algunos de los miembros del Ayuntamiento, el Congreso procederá a requerir al suplente que conforme al orden numérico corresponda, para que en un término de setenta y dos horas, proceda a rendir la protesta y a ocupar el cargo de que se trate.
+1. El resultado y las conclusiones de la revisión de los informes que hayan presentado los partidos políticos;
 
-De no comparecer ningún suplente y no siendo necesaria la ocupación del cargo para que el Ayuntamiento pueda sesionar válidamente, quedará vacante el mismo, por el resto del período.
+2. Los procedimientos y formas de revisión aplicados;
+
+3. El desglose por rubros de los ingresos y gastos de los partidos políticos;
+
+4. En su caso, la mención de los errores o irregularidades encontradas en los mismos; o generadas con motivo de su revisión, y
+
+5. El señalamiento de requerimientos y notificaciones realizados, así como las aclaraciones o rectificaciones que presentaron los partidos políticos, después de haber sido notificados con ese fin y la valoración correspondiente.
+
+Una vez cerrado el proceso de instrucción, la comisión de fiscalización presentará el dictamen ante el Consejo Estatal Electoral, y en su caso, iniciará el procedimiento para la determinación e imposición de sanciones.
+
+El Consejo Estatal Electoral publicará en el Periódico Oficial del Estado "Tierra y Libertad", al concluir el procedimiento de fiscalización respectivo el informe general, el dictamen y, en su caso, la resolución o resoluciones que emitan las autoridades electorales. Asimismo podrá acordar otros mecanismos que considere convenientes para la difusión pública del informe general, el dictamen y en su caso las resoluciones.
+
+Los informes que presenten los partidos políticos; así como las auditorías y verificaciones que ordene la Comisión de Fiscalización de los Recursos Públicos de los partidos políticos, sólo se podrán hacer públicos, hasta concluir la última resolución de la autoridad electoral.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ### Capítulo VII
 
 De los gastos que realicen los partidos políticos por concepto de actividades relativas a educación, capacitación política, investigación electoral socioeconómica política y tareas editoriales
 
-###### ARTICULO 135.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-En caso de que la suspensión o revocación del mandato de alguno o algunos de los miembros del Ayuntamiento, impida que éste pueda sesionar válidamente, se procederá en los términos que para la desaparición señala el Capítulo I de este Título.
+###### Artículo 135.
 
-###### ARTICULO 136.
+Los partidos políticos con registro o que tienen acreditado el mismo ante este órgano electoral, deberán recibir anualmente para los gastos que realicen por concepto de actividades relativas a educación, capacitación política, investigación electoral socioeconómica política y tareas editoriales Financiamiento público equivalente hasta el 5% del financiamiento que reciba por concepto de actividades ordinarias permanentes cada uno, previa comprobación del gasto.
 
-De suspenderse o revocarse el mandato de quien funja como Presidente Municipal, en el Decreto del Congreso local, se fijará quien, de entre los restantes miembros del Ayuntamiento, ejercerá las funciones de aquél.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 137.
+###### Artículo 136.
 
-Si la persona que resulte electa para ocupar el cargo de Presidente Municipal, no compareciera en el lugar, día y hora fijadas para la instalación del Ayuntamiento, se comunicará de inmediato tal situación al Congreso del Estado para que designe de entre los restantes miembros del Ayuntamiento a quien fungirá como Presidente Municipal.
+El monto que se destine a cada uno de los partidos políticos se determinará tomando como referencia el financiamiento público que otorgue el honorable congreso del estado a los citados institutos políticos, en términos de lo dispuesto por el artículo 54 fracción III del Código Electoral.
 
-###### ARTICULO 138.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Ningún funcionario ni empleado municipal podrá encargarse de sus funciones sin haber otorgado previamente la protesta a que se refiere el Articulo 157 de la Constitución Política del Estado.
+###### Artículo 137.
 
-###### ARTICULO 139.
+Son objeto del financiamiento público directo para actividades específicas como entidades de interés público, el cual no excederá del cinco por ciento que reciba cada partido político, en términos de lo dispuesto por el artículo 54 fracción III del Código Electoral para el estado, las siguientes actividades:
 
-De las licencias y renuncias de los Presidentes Municipales, Regidores, Síndicos, Secretarios y Tesoreros, Comisarios y Delegados Municipales, conocerán los Ayuntamientos respectivos en los términos de este Título.
+A).- Educación y Capacitación Política:
 
-###### ARTICULO 140.
+Estas actividades tendrán como objeto coadyuvar a la promoción y difusión de la política; la formación ideológica, técnica, política y profesional de sus afiliados, que infunda en ellos el respeto al adversario y a sus derechos en la participación política; así como preparar la participación activa de sus militantes en los procesos electorales, fortaleciendo el régimen de partidos políticos.
 
-Las licencias serán siempre concedidas sin goce de sueldo y no excederán de cinco días continuos o de quince discontinuos en un año. El Ayuntamiento apreciará discrecionalmente las causas o motivos que se invoquen en las solicitudes de las mismas.
+B).- Investigación Electoral Socioeconómica Política:
 
-###### ARTICULO 141.
+Con estas actividades se buscará, además de los objetivos señalados en el inciso anterior, la realización de estudios, análisis y diagnósticos sobre los problemas nacionales y del estado que contribuyan, directa o indirectamente, a la elaboración de propuestas para su solución.
 
-Las renuncias a los cargos de Presidente Municipal, Sindico y Regidores, solamente procederán por causas justificadas que calificará el Ayuntamiento y aprobará el Congreso del Estado o la Diputación Permanente en recesos de éste. De las renuncias de los funcionarios municipales, conocerán los Ayuntamientos respectivos.
+C).- Tareas Editoriales:
 
-###### ARTICULO 142.
+Estas actividades por su parte, deberán estar destinadas a apoyar la difusión y publicación de revistas, libros y gacetas, así como órganos de difusión de los partidos políticos, no se aceptarán ningún tipo de comprobantes por pagos realizados por concepto de publicación en medios privados.
 
-Las licencias y renuncias de los empleados de base, se sujetarán a lo que establezcan las leyes que rigen las relaciones de trabajo.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-###### ARTICULO 143.
+###### Artículo 138.
 
-Las responsabilidades de los funcionarios y empleados municipales se sujetarán a las bases normativas establecidas en el Titulo Sexto de la Constitución Política local y a lo que señalen las leyes.
+En las actividades a que se refiere el artículo 54 fracción III del Código Electoral y el presente reglamento, se deberá procurar el beneficio del mayor número de personas y deberán desarrollarse dentro de la entidad.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 139.
+
+No serán susceptibles del financiamiento a que se refiere el presente Reglamento, las actividades de operación del gasto ordinario, así como aquellas que tengan por objeto la obtención del voto, tales como las de propaganda electoral para las precampañas y campañas de sus precandidatos y candidatos en cualquier elección en que participen, o las encuestas que contengan reactivos sobre preferencias electorales; tampoco se considerarán actividades de educación, capacitación política, investigación electoral socioeconómica y política, y tareas editoriales, las que se refieran a gastos para la celebración de las reuniones por aniversarios o por congresos y reuniones internas que tengan fines administrativos o de organización interna de partidos.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 140.
+
+Los documentos que exhiban los partidos políticos para comprobar los gastos realizados por concepto de las actividades específicas a que se refiere el presente reglamento, deberán cumplir con las disposiciones fiscales vigentes, ya que en caso contrario dichos documentos no tendrán efectos comprobatorios.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 141.
+
+En el supuesto que uno o varios partidos políticos no presenten la comprobación de los gastos por las actividades mencionadas, las sumas no reclamadas serán reintegradas a la Secretaría de Hacienda del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 142.
+
+Para los efectos del presente capítulo los gastos realizados por los partidos políticos por concepto de actividades relativas a educación, capacitación política, investigación electoral socioeconómica política, y tareas editoriales, se clasificaran en directos e indirectos.
+
+No podrá utilizarse el financiamiento público que señale el presente reglamento para la adquisición de activos fijos.
+
+Por gastos directos se entenderá aquellos que se eroguen específicamente por la realización de una actividad susceptible de financiamiento público que regula el presente ordenamiento legal.
+
+En términos del párrafo anterior se consideran como gastos directos, los siguientes:
+
+A) Por Actividades de Educación y Capacitación Política:
+
+I. Gastos por difusión de la convocatoria o realización del evento específico;
+
+II. Honorarios del personal encargado de la realización y organización del evento específico;
+
+III. Gastos por renta del local y mobiliario para la realización del evento específico;
+
+IV. Gastos por renta de equipo técnico en general para la realización del Evento específico;
+
+V. Gastos por adquisición de papelería para la realización del evento específico;
+
+VI. Honorarios de expositores, capacitadores, conferencistas o equivalentes que participen en el evento específico;
+
+VII. Honorarios del personal encargado de auxiliar en las labores para la realización del evento especifico;
+
+VIII. gastos para la producción de materiales audiovisuales destinados a actividades de educación y capacitación política.
+
+B) Por Actividades de Investigación Electoral Socioeconómica Política:
+
+I. Gastos por difusión de la convocatoria para la realización de la investigación específica;
+
+II. Honorarios de los investigadores por concepto de la realización de la investigación específica;
+
+III. Honorarios del personal auxiliar de la investigación específica;
+
+IV. Gastos de adquisición de papelería para la realización de la investigación específica;
+
+V. Gastos de adquisición de material bibliográfico y hemerográfico referente al tema de la investigación específica;
+
+VI. Honorarios del personal encargado de coordinar las tareas de investigación específica;
+
+VII. gastos para la preparación de los productos de la investigación específica, para su posterior publicación;
+
+VIII. Gastos por renta de equipo técnico necesario para la realización de la investigación específica;
+
+C) Gastos Directos por Tareas Editoriales:
+
+I. Gastos para la producción de la publicación específica como la formación, diseño, fotografía y edición de la publicación;
+
+II. gastos por impresión o reproducción para la actividad editorial;
+
+III. Pagos por el derecho de autor así como del número internacional normalizado del libro y del número internacional normalizado para publicaciones periódicas.
+
+IV. Los gastos que implica la elaboración y mantenimiento de una página web.
+
+dichos gastos serán; el diseño y la elaboración de la página web, el pago a la empresa que mantendrá la página web en su servidor, el costo por inscripción de la página web en buscadores, el pago por actualización de la página.
+
+Por gastos indirectos se entenderá aquellos que se eroguen en forma complementaria o adicional a la actividad específica susceptible del financiamiento público a que se refiere el presente reglamento, y solo serán aceptados hasta por un 10% del monto total correspondiente a cada partido político, cuando se acredite que son estrictamente necesarios para realizar las citadas actividades, de los cuales hasta el 10% se podrán comprobar sin requisitos fiscales.
+
+En términos de lo señalado en el párrafo anterior, se considera como gastos Indirectos los siguientes:
+
+I. Honorarios, nómina o gratificaciones a colaboradores a cuya labor esté vinculada a más de una de las actividades específicas;
+
+II. Gastos por renta de espacios publicitarios y por servicios de publicidad en medios impresos vinculados a más de una actividad específica;
+
+III. Pagos por servicios de mensajería o distribución;
+
+IV. Gastos por viáticos, tales como transporte, hospedaje y alimentación del personal encargado de la organización y realización del evento específico;
+
+V. Gastos por viáticos, tales como transporte, hospedaje y alimentación de expositores, capacitadores, conferencistas o equivalentes que participen en el evento específico;
+
+VI. Gastos por distribución de actividades editoriales específicas.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 143.
+
+Los partidos políticos deberán presentar a la Comisión de Fiscalización junto con el informe anual, una evidencia que muestre la actividad especifica realizada, que podrá consistir en el producto elaborado con la actividad o en su defecto, en otros documentos con los que se acredite la realización de la actividad especifica, en el entendido de que a falta de esta muestra, o de la citada documentación, los comprobantes de gasto no tendrán validez para efectos de comprobación.
+
+Los informes de actividades específicas serán presentados a través de los formatos:
+
+- Formato 27 “IGAE” “Informe General de Actividades Específicas”
+
+- Formato 28 “IAE-ECP” “Informe de Actividades Específicas de Educación y Capacitación Política”
+
+- Formato 29 “IAE-IESP” “Informe de Actividades Específicas de Investigación Electoral Socioeconómica Política”
+
+- Formato 30 “IAE-TE” “Informe de Actividades Específicas de Tareas Editoriales”
+
+Asimismo, deberán observar el formato 31 “IAE-RC” que contiene los requisitos de los documentos para la comprobación de gastos.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
 ## TÍTULO V. De la determinación e imposición de sanciones derivadas del Dictámen
 
-###### ARTICULO 144.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
 
-Las infracciones a las normas contenidas en los Bandos de Policía y Buen Gobierno y los Reglamentos, circulares y demás disposiciones administrativas de observancia general en los respectivos Municipios, se sancionarán según lo dispongan dichos ordenamientos.
+###### Artículo 144.
 
-###### ARTICULO 145.
+Los partidos políticos podrán ser sancionados por el Consejo Estatal Electoral, cuando incurran en los supuestos señalados en el Capítulo Primero, Título Primero, Libro Sexto del Código Electoral, según corresponda o incumplan con lo ordenado en el presente reglamento.
 
-La sanción de multa, no podrá ser mayor de la cantidad que resulte de multiplicar por 150 el monto del salario mínimo general diario vigente en la Cabecera del Municipio de que se trate, pero cuando el infractor fuese jornalero, obrero o trabajador, se estará a lo dispuesto por el Articulo 21 de la Constitución Política de los Estados Unidos Mexicanos. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+Las infracciones con las que podrán ser sancionados son las siguientes:
 
-###### ARTICULO 146.
+I.- Por violación a las disposiciones del Código Electoral, sobre restricciones para las aportaciones de financiamiento que no provengan del erario público, se sancionará al partido político con multa de hasta el doble del monto aportado indebidamente. Si se reincide en la falta, el monto de la multa podrá ser aumentado en dos tantos más.
 
-Los ordenamientos a que se refiere el Artículo 144 de esta Ley, determinarán las causas y los procedimientos mediante los cuales se configuren las infracciones a sus disposiciones y la imposición de sanciones, tomando en cuenta la gravedad de la infracción y las circunstancias particulares del caso y del infractor.
+II.- Multas de 100 a 5000 veces el salario mínimo vigente en la zona económica que corresponda el Estado, cuando.
+
+a).- Incumplan las resoluciones y acuerdos del Consejo Estatal Electoral.
+
+b).- No rindan los informes anuales o de campaña en los términos previstos por el Código Electoral para el Estado.
+
+c).- Acepten donativos o aportaciones económicas en contravención a lo dispuesto en el Código, o rebasen los topes de gastos de campañas establecidos por el Consejo Estatal Electoral.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 145.
+
+En la imposición y determinación de sanciones se aplicará el siguiente procedimiento.
+
+I.- Si del dictamen aprobado, se desprende que la Comisión de Fiscalización, dictaminó que el partido político que se trate incumplió con la normatividad en la presentación y comprobación de los informes sobre el origen, destino y monto de los ingresos que recibió por cualquier modalidad de financiamiento, así como su empleo y aplicación, se iniciará el presente procedimiento para determinar e imponer la sanción o sanciones que correspondan.
+
+II.- Para fijar la sanción o sanciones se tomarán en cuenta las circunstancias y la gravedad de la falta, entendiéndose por circunstancia el tiempo, modo y lugar en que ésta se produjo; para determinar la gravedad se deberá analizar la trascendencia de la norma vulnerada y los efectos que produce la violación respecto de los objetivos y los intereses jurídicos tutelados por el derecho. En caso de reincidencia, se aplicará una sanción más severa.
+
+III.- La Comisión de Fiscalización remitirá al Consejo Estatal Electoral, en un plazo de diez días hábiles contados a partir de la aprobación de los dictámenes, el proyecto de resolución para su aprobación, el cual contendrá la sanción o sanciones que en su caso se consideren imponer al partido político infractor, con relación a los Informes Anuales Ordinarios.
+
+Para los informes de Precampaña la Comisión dispondrá de un plazo de 2 días hábiles y para los Informes de Campaña los plazos serán los siguientes, para los informes de campaña de Gobernador el plazo será de 3 días hábiles, para los informes de campaña de Diputados de Mayoría Relativa el plazo será de 4 días hábiles, y para los informes de campaña de Ayuntamientos se contará con un plazo de 5 días hábiles.
+
+IV.- El proyecto de resolución de la probable aplicación de sanciones, deberá contener las opiniones emitidas por la Comisión de Fiscalización en el dictamen aprobado, para cada circunstancia en particular o hechos que se estiman contrarios a las disposiciones legales aplicables.
+
+V.- En el proyecto de resolución que se someta a la aprobación del Consejo Estatal Electoral, se deberá atender en forma particular la gravedad y trascendencia de las normas vulneradas por el partido político infractor.
+
+VI.- El proyecto de resolución que imponga sanciones a los partidos políticos, deberá estar debidamente fundado y motivado para dar cumplimiento a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos.
+
+VII.- La resolución aprobada por el Consejo Estatal Electoral que imponga sanción o sanciones al partido político infractor, le será notificada por conducto de su representante legalmente acreditado ante dicho órgano electoral.
+
+VIII.- Notificado el partido político de la imposición de la sanción o sanciones que le fueron impuestas, tendrá quince días improrrogables a partir de dicha notificación para pagar las multas correspondientes, ante la Secretaría encargada de la Hacienda Pública del Gobierno del Estado.
+
+Para Reembolsar a la secretaría encargada del despacho de la hacienda pública del gobierno del Estado, el monto del financiamiento público cuyo uso o destino no haya sido comprobado de conformidad a las resoluciones que emitan las autoridades electorales. En caso de que no se haga voluntariamente en un término de 60 días el reembolso, el Consejo Estatal Electoral lo descontará de las prerrogativas del partido político.
+
+IX.- Si el partido político opta por impugnar la resolución que contenga la imposición de las sanciones, quedará en suspensión el pago de la multa ante la Secretaría encargada de la Hacienda Pública del Gobierno del Estado, la cual deberá ser cubierta en su caso una vez que se haya resuelto por la autoridad jurisdiccional en última instancia el medio de impugnación interpuesto.
+
+X.- Si el partido político no cubre en los plazos señalados las multas que le fueron impuestas, se le descontarán del importe que le corresponda del financiamiento público.
+
+XI.- Una vez cubierta la sanción administrativa, se dará por concluido el procedimiento para la determinación e imposición de sanciones.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2009)</small>
+
+###### Artículo 146.
+
+Sin perjuicio de las irregularidades, sanciones o demás conductas que establece el Código Electoral, las infracciones señaladas en los artículos anteriores serán sancionadas conforme a lo siguiente:
+
+I. Respecto de los partidos políticos o coaliciones:
+
+a) Con amonestación pública;
+
+b) Con multa de cien hasta cinco mil días de salario mínimo general vigente para el estado, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
+
+Según la gravedad de la falta, con la reducción de hasta el 50 % de las ministraciones del financiamiento público, que les corresponda, por el período que señale la reducción.
+
+c) En los casos de graves y reiteradas conductas violatorias de la constitución y de este código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, con la cancelación de su registro como partido político estatal.
+
+II. Respecto de los aspirantes, precandidatos o candidatos a cargos de elección popular y dirigentes:
+
+a) Con amonestación pública;
+
+b) Con multas de 50 a 2500 veces el salario mínimo vigente de la zona económica a que corresponda el Estado, según la gravedad de la falta; y
+
+c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
+
+III. Respecto de cualquier persona física o moral:
+
+a) Con amonestación pública;
+
+b) Con multa de cien hasta quinientos días de salario mínimo general vigente para el estado; en el caso de aportaciones que violen lo dispuesto en este código; y
+
+c) Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa de mil hasta diez mil días de salario mínimo general vigente para el estado, en el caso de aportaciones que violen lo dispuesto en este código; (sic)
 
 ## TRANSITORIOS
 
-###### ARTICULO PRIMERO.
+PRIMERO.- El presente reglamento entrará en vigor a partir del 01 de enero del año 2009.
 
-La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín oficial del Gobierno del Estado.
+SEGUNDO.- El texto del presente reglamento no será aplicable para el procedimiento de fiscalización de los informes financieros de los partidos políticos correspondientes al ejercicio ordinario del año 2008, debiendo aplicarse en este caso en particular, las disposiciones del Reglamento de Fiscalización anterior.
 
-###### ARTICULO SEGUNDO.
+TERCERO.- Publíquese el presente Reglamento en el Periódico Oficial "Tierra y Libertad" órgano informativo del Gobierno del Estado.
 
-Se abroga:
+Así por unanimidad, lo resolvieron y firman los integrantes del Consejo Estatal Electoral, siendo las once horas con veintiocho minutos del día veintisiete de noviembre del año 2008.
 
-a) La Ley número 153 Orgánica de Administración Municipal, publicada en el Boletín Oficial del Gobierno del Estado número 49, de fecha Diciembre 17 de 1932, con sus Reformas y Adiciones.
+CONSEJERO PRESIDENTE
 
-b) La Ley número 45 para la Adquisición y Fabricación de Solares en todos los Pueblos del Estado, de fecha Julio 2 de 1863.
+ING. OSCAR GRANAT HERRERA
 
-c) La Ley Número 25 de Solares, de fecha Julio 15 de 1892.
+SECRETARIO EJECUTIVO
 
-d) El Decreto número 43, que establece un Impuesto Punitivo sobre solares sin edificar, de fecha Abril 5 de 1916.
+LIC. ARTURO LOZA FLORES
 
-###### ARTICULO TERCERO.
+CONSEJEROS ELECTORALES
 
-Los Municipios y Comisarías tendrán la extensión territorial y los límites que hasta hoy se les han reconocido por Ley o por costumbre, quedando a salvo la posibilidad de su rectificación por los trámites que legalmente correspondan.
+C. MARIO ANTONIO CABALLERO LUNA
 
-###### ARTICULO CUARTO.
+LIC. JOSÉ ISIDRO GALINDO GONZÁLEZ
 
-Se reconocen como Comisarlas, aquellos centros de población que por Decreto del H. Congreso del Estado, han adquirido tal categoría política. Las que se erijan en lo futuro, deberán cumplir con los requisitos que señala este ordenamiento.
+LIC. GUADALUPE RUIZ DEL RÍO
 
-###### ARTICULO QUINTO.
+LIC. LUIS OCAMPO GÓMEZ
 
-Los procedimientos que para la adjudicación de solares estén llevando a cabo los Ayuntamientos del Estado, conforme a las disposiciones legales contenidas en las Leyes y Decreto señalados en los incisos b), c) y d) del Artículo Segundo Transitorio que antecede, se continuarán tramitando hasta su culminación con base en tales ordenamientos.
+REPRESENTANTE DEL GRUPO PARLAMENTARIO
 
-###### ARTICULO SEXTO.
+DIP. JESÚS MARTÍNEZ DORANTES
 
-Las disposiciones reglamentarias de carácter municipal que a la fecha se encuentren en vigor, continuarán rigiendo en todo aquello que no se opongan a la presente Ley.
+PARTIDO ACCIÓN NACIONAL
 
-Comuníquese al Ejecutivo para su sanción y promulgación.
+REPRESENTANTES DE LOS PARTIDOS POLÍTICOS
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.
+LIC. MARICELA VELÁZQUEZ SÁNCHEZ
 
-Hermosillo, Sonora, 24 de enero de 1984.
+PARTIDO REVOLUCIONARIO INSTITUCIONAL
 
-"1984 AÑO DE JESUS GARCIA, HEROE DE NACOZARI"
+LIC. GERARDO HURTADO DE MENDOZA ARMAS
 
-RODOLFO AUDELO NERIS
+PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
 
-DIPUTADO PRESIDENTE
+LIC. PATRICIA ADRIANA ARIZA CUELLAR
 
-OSCAR ULLOA NOGALES,
+PARTIDO VERDE ECOLÓGISTA DE MÉXICO
 
-DIPUTADO SECRETARIO.
+C. JESSICA ORTEGA DE LA CRUZ
 
-RAUL BURTON TREJO,
+CONVERGENCIA
 
-DIPUTADO SECRETARIO.
+C. MAURICIO ARZAMENDI GORDERO
 
-POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.
+PARTIDO NUEVA ALIANZA
 
-PALACIO DE GOBIERNO, Hermosillo, Sonora, el día primero de febrero de mil novecientos ochenta y cuatro.
+RÚBRICAS.
 
-Dr. Samuel Ocaña G.
+> <small>N.DE E. VEASE FORMATOS EN EL P. O. DE 24 DE DICIEMBRE DEL 2008, PAGINAS DE LA 28 A LA 57.</small>
 
-EL SECRETARIO DE GOBIERNO,
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-Lic. Carlos Gámez Fimbres.
+P.O. 4 DE FEBRERO DE 2009.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+SE TRANSCRIBEN LOS PUNTOS RESOLUTIVOS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
-B.O. 16 DE NOVIEMBRE DE 1987.
+Primero.- Es competente para emitir la presente resolución en términos de lo expuesto en el considerando primero de la misma.
 
-###### ARTICULO UNICO.
+Segundo.- Se aprueban las modificaciones a los artículos 103 segundo párrafo y 105 del Reglamento de Fiscalización de los ingresos que reciban los Partidos Políticos por cualquier Modalidad de Financiamiento, así como su empleo y aplicación, atendiendo a lo establecido en el considerando segundo del presente fallo.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+Tercero.- Las modificaciones a los artículos 103 segundo párrafo y 105 del Reglamento de Fiscalización de los ingresos que reciban los Partidos Políticos por cualquier Modalidad de Financiamiento, así como su empleo y aplicación, entrarán en vigor a partir de la presente fecha de aprobación.
 
-B.O. 21 DE AGOSTO DE 1989.
+Cuarto.- Edítese de nueva cuenta el Reglamento de Fiscalización de los ingresos que reciban los Partidos Políticos por cualquier Modalidad de Financiamiento, así como su empleo y aplicación, con las modificaciones a sus artículos 103 segundo párrafo y 105, que quedaron precisadas en el considerando segundo de la presente resolución, debiendo insertarse el artículo transitorio correspondiente.
 
-###### ARTICULO PRIMERO.
+Quinto.- Publíquese la presente resolución en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
 
-SE ADICIONA EL ARTICULO 9º, DE LA LEY NUMERO 43 ORGANICA DE ADMINISTRACION MUNICIPAL, PARA INCLUIR EL NOMBRE DEL MUNICIPIO GENERAL PLUTARCO ELIAS CALLES, ENTRE LOS MUNICIPIOS DE FRONTERAS Y GRANADOS, QUEDANDO EL RESTO DE SU TEXTO EN LOS MISMOS TERMINOS QUE ACTUALMENTE APARECE VIGENTE.
+Sexto.- Notifíquese a los representantes de los partidos políticos acreditados ante este Consejo Estatal Electoral.
 
-###### ARTICULO SEGUNDO.
+P.O. 4 DE FEBRERO DE 2009.
 
-EL EJECUTIVO DEL ESTADO PROCEDERA EN LA FECHA EN QUE ENTRE EN VIGOR LA PRESENTE LEY A NOMBRAR UN CONCEJO MUNICIPAL, QUE DURARA EN FUNCIONES HASTA EN TANTO SE REALICEN LAS PROXIMAS ELECCIONES ORDINARIAS DEL ESTADO DE SONORA, EN EL CITADO MUNICIPIO GENERAL DE PLUTARCO ELIAS CALLES.
+EDICION DE NUEVA CUENTA DEL REGLAMENTO DE FISCALIZACION DE LOS INGRESOS QUE RECIBAN LOS PARTIDOS POLITICOS POR CUALQUIER MODALIDAD DE FINANCIAMIENTO ASI COMO SU EMPLEO Y APLICACION.
 
-###### ARTICULO TERCERO.
+PRIMERO.- L as modificaciones a los artículos 103 segundo párrafo y 105 del presente reglamento, entrarán en vigor a partir de la fecha de su aprobación por el Consejo Estatal Electoral, quedando a partir de esa fecha sin efecto legal alguno el texto anterior de los preceptos normativos de referencia.
 
-ESTA LEY ENTRARA EN VIGOR TREINTA DIAS DESPUES DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
+SEGUNDO. Publíquese las modificaciones a losartículos antes citados, en el periódico oficial denominado "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
 
-B.O. 18 DE JULIO DE 1991.
+P.O. 12 DE JUNIO DE 2013.
 
-UNICO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+PRIMERO.- Para el procedimiento de fiscalización de los informes financieros del origen, destino y monto de los ingresos que recibieron los Partidos Políticos por cualquier modalidad de financiamiento, así como su empleo y aplicación correspondientes al Gasto Ordinario del año 2012, serán aplicables, las disposiciones del Reglamento de Fiscalización aprobado el veintisiete de noviembre del año 2008.
 
-B.O. 21 DE DICIEMBRE DE 1992.
+SEGUNDO.- El presente Reglamento de Fiscalización entrará en vigor, a partir de su aprobación y abroga el Reglamento de Fiscalización de los ingresos que reciban los Partidos Políticos por cualquier modalidad de financiamiento, así como su empleo y aplicación, aprobado el veintisiete de noviembre del año 2008 y demás disposiciones reglamentarias contrarias al presente Reglamento de Fiscalización.
 
-###### ARTICULO UNICO.
-
-La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
-
-B.O. 26 DE ABRIL DE 1993.
-
-###### ARTICULO PRIMERO.
-
-La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-En tanto se establecen la Contralorías Municipales que tengan a su cargo las funciones a que se refiere el artículo 87 de esta ley, éstas serán ejercidas directamente por el Presidente Municipal.
-
-B.O. 25 DE NOVIEMBRE DE 1993.
-
-###### ARTICULO PRIMERO.
-
-La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Las fechas señaladas en los artículos 22 y 27, entrarán en vigor en 1997.
-
-B.O. 30 DE DICIEMBRE DE 1994.
-
-PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
-
-SEGUNDO.- Las personas físicas o morales que con anterioridad a ala entrada en vigor a la presente Ley, estén prestando servicios privados de seguridad, o que actualmente realicen actividades conceptualizadas como tales en este ordenamiento, deberán dentro de un plazo de tres meses contados a partir de la vigencia de esta Ley, comparecer ante la Coordinación Estatal de Seguridad Pública y Transito a efecto de que se les otorgue la autorización y el registro correspondiente, previa comprobación del cumplimiento de los requisitos que se establecen, en el entendido de que de no comparecer dentro del plazo señalado, la Secretaría de Gobierno podrá imponer la sanción de multa, cuyo monto será de hasta cinco mil veces el salario mínimo general vigente en la cabecera del Municipio de que se trate.
-
-B.O. 8 DE JULIO DE 1996.
-
-###### ARTICULO UNICO.
-
-La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
-
-B.O. 26 DE DICIEMBRE DE 1996.
-
-LEY No. 253
-
-###### ARTICULO PRIMERO.
-
-La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se adicionan los artículos 9º de la Ley Orgánica de Administración Municipal, para incluir el nombre del Municipio de Benito Juárez entre los Municipios de Bavispe y Benjamín Hill; y 13 de la Ley de Hacienda Municipal para incluir al final de la enumeración del grupo III, el nombre de la municipalidad de Benito Juárez.
-
-###### ARTICULO TERCERO.
-
-El Congreso del Estado Procederá, en la fecha en que entre en vigor la presente Ley, a nombrar un Concejo Municipal, a propuesta del Ciudadano Gobernador del Estado, que fungirá en lo que resta del período constitucional y tendrá la integración y las atribuciones que la Ley establece para los Ayuntamientos.
-
-###### ARTICULO CUARTO.
-
-Para Proveer a la existencia política del Municipio de Benito Juárez, durante el período que medie entre el día en que entre en funciones el Concejo Municipal que designe y el día 31 de diciembre de 1996, el Gobierno del Estado transferirá los recursos correspondientes.
-
-###### ARTICULO QUINTO.
-
-Los bienes muebles e inmuebles del dominio público que actualmente ocupa la Comisaría de Villa Juárez, y los muebles e inmuebles de dominio privado, existentes en su jurisdicción, pertenecientes al Municipio de Etchojoa, pasarán a formar parte del patrimonio del nuevo Municipio que se erige.
-
-###### ARTICULO SEXTO.
-
-Los servidores públicos que actualmente se encuentren laborando en la Comisaría de Villa Juárez, continuarán en sus funciones pasando a formar parte, respetándose todos sus derechos laborales, de la nueva Administración, sin perjuicio de las facultades y atribuciones que le corresponden al de gobierno municipal.
-
-###### ARTICULO SEPTIMO.
-
-Con efectos hasta la conclusión del actual período constitucional, la autoridad municipal, procederá de inmediato a convenir lo que corresponda con el Organismo Operador Municipal del Agua Potable y Alcantarillado del Municipio de Etchojoa, Sonora, a fin de asegurar la continuidad en la prestación de los servicios de dicho organismo paramunicipal.
-
-###### ARTICULO OCTAVO.
-
-Las acciones del Concejo Municipal se apegarán, en lo que corresponda y sea factible, al Plan Municipal de Desarrollo del Municipio de Etchojoa y los programas de él derivados.
-
-B.O. 26 DE DICIEMBRE DE 1996.
-
-LEY No. 254
-
-###### ARTICULO PRIMERO.
-
-La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se adicionan los artículos 9º de la Ley Orgánica de Administración Municipal, para incluir el nombre del Municipio de San Iganacio Rio Muerto entre los Municipios de San Javier y San Luis Rio Colorado; y 13 de la Ley de Hacienda Municipal para incluir al final de la enumeración del grupo II, el nombre de la municipalidad de San Ignacio Rio Muerto, entre los Municipios de Imuris y Opodepe.
-
-###### ARTICULO TERCERO.
-
-En la fecha en que entre en vigor la presente Ley, y a propuesta del Gobernador del Estado, el Congreso del Estado designará un Concejo Municipal, que fungirá en lo que resta del período constitucional y tendrá la integración y las atribuciones que la Ley establece para los Ayuntamientos.
-
-###### ARTICULO CUARTO.
-
-Para proveer a la existencia política del Municipio de San Ignacio Rio Muerto, durante el período que medie entre el día en que entre en funciones el Concejo Municipal que designe y el día 31 de diciembre de 1996, el Gobierno del Estado, le transferirá los recursos correspondientes.
-
-###### ARTICULO QUINTO.
-
-Los bienes muebles e inmuebles del dominio público que actualmente ocupa la Comisaría de San Ignacio Rio Muerto, y los muebles e inmuebles de dominio privado, existentes en su jurisdicción, pertenecientes al Municipio de Guaymas, pasarán a formar parte del patrimonio del nuevo Municipio que se erige.
-
-###### ARTICULO SEXTO.
-
-Los servidores públicos que actualmente se encuentren laborando en la Comisaría de San Ignacio Rio Muerto, continuarán en sus funciones pasando a formar parte de la nueva administracion, respetándose todos sus derechos laborales, sin perjuicio de las facultades y atribuciones que le corresponden al de gobierno municipal.
-
-###### ARTICULO SEPTIMO.
-
-Con efectos hasta la conclusión del actual período constitucional, la autoridad municipal procederá de inmediato a convenir lo que corresponda con el Organismo Operador Municipal del Agua Potable y Alcantarillado del Municipio de Guaymas, Sonora, a fin de asegurar la continuidad en la prestación de los servicios de dicho organismo paramunicipal.
-
-###### ARTICULO OCTAVO.
-
-Las acciones del Concejo Municipal se apegarán, en lo que corresponda y sea factible, al Plan Municipal de Desarrollo del Municipio de Guaymas y los programas de él derivados.
+TERCERO.- Publíquese el presente Reglamento de Fiscalización en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
