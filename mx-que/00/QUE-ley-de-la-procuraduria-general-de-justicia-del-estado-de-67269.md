@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-procuraduria-general-de-justicia-del-estado-de-67269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-20"
-last_updated: "2012-11-07"
+last_updated: "2013-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de febrero de 2009.
 
@@ -551,7 +551,9 @@ XIX. Cambiar la adscripción del personal operativo, cuando lo estime necesario;
 
 XX. Nombrar Agentes del Ministerio Público Especializados y disponer la apertura de Agencias Especializadas, cuando lo estime conveniente;
 
-XXI. Dictaminar por sí o a través de los Subprocuradores o Agentes Auxiliares que designe, el archivo de las diligencias de preparación del ejercicio de la acción penal y, en consecuencia, el no ejercicio de la misma, cuando agotadas plenamente aquellas, aparezca que el hecho puesto en su conocimiento no es delictuoso o se demostró alguna otra causa de inexistencia del delito o cuando se haya extinguido la pretensión punitiva del Estado o se otorgó perdón por parte del ofendido, cuando la ley así lo permita. Le corresponde la misma facultad respecto a la autorización de la reserva, cuando de las diligencias practicadas no resulten elementos bastantes para proceder al ejercicio de la acción penal, pero con posterioridad, pudieran allegarse datos para proseguir la averiguación y hasta entre tanto éstos aparezcan;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+XXI. Dictaminar por sí o a través de los Subprocuradores o Agentes Auxiliares que designe, el archivo de las diligencias de preparación del ejercicio de la acción penal y, en consecuencia, el no ejercicio de la misma, cuando agotadas plenamente aquellas, aparezca que el hecho puesto en su conocimiento no es delictuoso o se demostró alguna otra causa de inexistencia del delito o cuando se haya extinguido la pretensión punitiva del Estado o se otorgó perdón por parte del ofendido, cuando la ley así lo permita. Le corresponde la misma facultad respecto a la autorización de la reserva, cuando de las diligencias practicadas no resulten elementos bastantes para proceder al ejercicio de la acción penal, pero con posterioridad pudieran allegarse datos para proseguir la averiguación y hasta entre tanto éstos aparezcan, así como la consulta de retrámite en los casos de feminicidio.
 
 XXII. Celebrar convenios y acuerdos sobre apoyo, información y asesoría recíproca en materia técnico-policial, de formación de personal y cualquier otro que permita el mejor desempeño de sus funciones;
 
@@ -595,7 +597,9 @@ Los Subprocuradores tendrán las siguientes facultades:
 
 I. Ejercerán las funciones que señale esta Ley para el Procurador, durante las faltas temporales de éste;
 
-II. Por delegación del Procurador, podrán resolver en los casos de no ejercicio de la acción penal o reserva; desistimiento de la acción penal; confirmación, modificación o revocación de conclusiones presentadas por el Ministerio Público como no acusatorias o contrarias a las constancias procesales, en los términos del Código de Procedimientos Penales del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+II. Por delegación del Procurador, podrán resolver en los casos de no ejercicio de la acción penal, reserva o retrámite; desistimiento de la acción penal; confirmación, modificación o revocación de conclusiones presentadas por el Ministerio Público como no acusatorias o contrarias a las constancias procesales, en los términos del Código de Procedimientos Penales para el Estado de Querétaro;
 
 III. Conocer y resolver los asuntos que por acuerdo del Procurador le corresponda, conforme a la naturaleza de la Subprocuraduría para la cual hayan sido asignados, así como vigilar y girar las indicaciones pertinentes para el debido funcionamiento de los diversos órganos de la Procuraduría General de Justicia del Estado;
 
@@ -1504,3 +1508,9 @@ Artículo Primero. La presente Ley entrará en vigor a los treinta días natural
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese la Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 12 DE JUNIO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
