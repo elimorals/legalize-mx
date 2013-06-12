@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2012-06-08"
+last_updated: "2013-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,147 +21,115 @@ state: "QUE"
 ---
 # CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-REGLAMENTO DE SERVICIO COMUNITARIO DEL MUNICIPIO DE AGUASCALIENTES
+CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
 
-Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de noviembre de 2008.
+Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
-PRESIDENCIA MUNICIPAL AGUASCALIENTES, AGS.
+LIC. JOSÉ EDUARDO CALZADA ROVIROSA,
 
-ING. FRANCISCO GABRIEL ARELLANO ESPINOSA, Presidente Municipal de Aguascalientes, en ejercicio de las facultades contenidas en los artículos 16, 38, fracciones I y ll de la Ley Municipal para el Estado de Aguascalientes; y las demás propias de su cargo, a los habitantes del Municipio de Aguascalientes hace saber que el Honorable Ayuntamiento 2008-2010, tuvo a bien aprobar el decreto mediante el cual se expide el Reglamento de Servicio Comunitario del Municipio de Aguascalientes, de conformidad con la siguiente:
+Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
 
-E X P O S I C I Ó N D E M O T I V O S...
+LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-Derivado de la presente exposición de motivos, se propone el siguiente proyecto de:
+CONSIDERANDO.
 
-D E C R E T O
+Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide el siguiente:
 
-###### ARTÍCULO ÚNICO.
+CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-Se expide el Reglamento de Servicio Comunitario del Municipio de Aguascalientes, en los siguientes términos:
+Disposiciones preliminares
 
-REGLAMENTO DE SERVICIO COMUNITARIO DEL MUNICIPIO DE AGUASCALIENTES
+###### Artículo 1.
 
-###### Artículo 1°.
+Las disposiciones de este Código regirán en el Estado de Querétaro en asuntos del orden común.
 
-Las disposiciones del presente Reglamento tienen por objeto regular los términos de acuerdo y ejecución de los servicios comunitarios con motivo de las infracciones a las disposiciones contenidas en la normatividad municipal y demás disposiciones legales aplicables.
+###### Artículo 2.
 
-###### Artículo 2°.
+La capacidad jurídica es igual para el hombre y para la mujer; en consecuencia, la mujer no queda sometida, por razón de su sexo, a restricción alguna en la adquisición y ejercicio de sus derechos civiles.
 
-Para los efectos del presente Reglamento, se entenderá por:
+###### Artículo 3.
 
-I. Ayuntamiento: El Honorable Ayuntamiento del Municipio de Aguascalientes.
+Las leyes, reglamentos, circulares o cualesquiera otras disposiciones de observancia general, obligan y surten sus efectos, tres días después de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, salvo disposición expresa diferente.
 
-II. Conmutación: Cambio o sustitución de una sanción por otra, ordenada por el Juez Municipal.
+###### Artículo 4.
 
-III. Dependencias: Unidades administrativas de la Presidencia Municipal contempladas por el artículo 98 del Código Municipal de Aguascalientes.
+Si la ley, reglamento, circular o disposición de observancia general fija el día en que debe comenzar a regir, obliga desde ese día, con tal de que su publicación haya sido anterior. En caso contrario, se estará a lo dispuesto en el artículo anterior.
 
-IV. Dirección de Justicia Municipal: La Dirección de Justicia Municipal adscrita a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+###### Artículo 5.
 
-V. Infractor: Persona que infringe o transgrede un precepto contenido en la normatividad municipal.
+A ninguna ley, ni disposición gubernativa, se dará efecto retroactivo en perjuicio de persona alguna.
 
-VI. Juez Municipal: Funcionario del Gobierno Municipal facultado para sancionar a infractores al Bando de Policía y Gobierno o cualquier Reglamento Municipal y, en su caso, resolver inconformidades sobre sanciones impuestas por otras autoridades municipales.
+###### Artículo 6.
 
-VII. Municipio: El Municipio de Aguascalientes.
+La voluntad de los particulares no los exime de la observancia de la ley, ni alterarla o modificarla. Sólo pueden renunciarse los derechos privados que no afecten directamente al interés público, cuando la renuncia no perjudique derechos de terceros.
 
-VIII. Reglamento: Conjunto de disposiciones jurídicas contenidas en el presente ordenamiento.
+###### Artículo 7.
 
-IX. Reincidencia: Cuando una persona ha incurrido, en más de una vez, en alguna conducta que implica la infracción a un precepto contenido en la normatividad municipal.
+La renuncia referida en el artículo anterior, no produce efecto alguno si no se hace en términos claros y precisos, de tal suerte que no quede duda del derecho al que se renuncia.
 
-X. Servicio Comunitario: Prestación de trabajos o servicios personales no remunerados de orientación, limpieza, conservación, restauración, ornamentación o afines a favor de instituciones públicas municipales, educativas o asistenciales ubicadas dentro del territorio del Municipio de Aguascalientes.
+###### Artículo 8.
 
-###### Artículo 3°.
+Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés público serán nulos, excepto en los casos en que la ley disponga lo contrario.
 
-El servicio comunitario consistirá en la obligación de prestar, en forma no remunerada, cualquiera de las siguientes actividades:
+###### Artículo 9.
 
-I. Limpieza, pintura o restauración de los bienes públicos propiedad del Municipio que hubieren sido dañados por el infractor.
-
-II. Limpieza, pintura o restauración de centros públicos, de educación, de salud, de asistencia social y/o servicios municipales.
-
-III. Realización de obras de limpieza, jardinería, reforestación u ornamentación en lugares de uso común resguardados por el Municipio, así como en aquellas instituciones o establecimientos educativos, de salud o de asistencia social, debidamente determinadas.
-
-IV. Impartición de pláticas, conferencias o talleres en beneficio de la comunidad, mismas que pueden ser relacionadas con la convivencia ciudadana, el bienestar social, salud pública, protección al ambiente, orientación familiar, psicológica, jurídica y otras análogas que correspondan a actividades propias del oficio, ocupación o profesión que realice el infractor.
-
-V. Participación en actividades de carácter artístico, cultural, deportivo, ecológico o turístico que promueva el Municipio, así como aquellas relacionadas con el desarrollo social de la población del Municipio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2015)</small>
-
-VI. Participar, en vía pública en la difusión de información vial del Municipio de Aguascalientes, así como asistir a pláticas de los planes y proyectos establecidos en la educación vial impartidos por el Municipio de Aguascalientes.
-
-###### Artículo 4°.
-
-Cuando el infractor acredite, de manera fehaciente, su identidad y domicilio, el Juez Municipal podrá imponer el servicio comunitario como sanción administrativa. Asimismo, el Juez Municipal podrá determinar la conmutación de otra sanción administrativa por el servicio comunitario.
-
-La identidad deberá ser acreditada con documento oficial y vigente, que podrá consistir en la credencial de elector, el pasaporte, la cartilla militar, la matrícula consular o una credencial debidamente firmada y sellada por una institución pública municipal, estatal o federal.
-
-###### Artículo 5°.
-
-El Juez Municipal, valorando la gravedad de la infracción cometida y las circunstancias personales del infractor, tales como la edad, el estado de salud, la actividad u ocupación a que se dedique y, en su caso, la reincidencia, podrá acordar la imposición del servicio comunitario como sanción administrativa. Asimismo, en caso de que la sanción impuesta consista en una multa, podrá acordar la conmutación de ésta por servicio comunitario.
-
-Para tal efecto, el Juez Municipal, mediante un acuerdo, deberá establecer las actividades a realizar por concepto de servicio comunitario, así como los días, horas y lugares en que se llevarán a cabo dichas actividades, las cuales deberán efectuarse dentro de los treinta días naturales siguientes a la fecha del mencionado acuerdo.
-
-En el caso de que el servicio comunitario sea establecido en conmutación por una multa, el infractor deberá otorgar fianza o prenda, ante el Juez Municipal, respecto del importe de la multa para asegurar el cumplimiento del servicio comunitario.
-
-Dicho acuerdo deberá emitirse por quintuplicado, entregándose una copia al infractor y remitiéndose una copia para la Dirección de Justicia Municipal, una más para la Dependencia de la Administración Pública Municipal encargada de la ejecución del servicio comunitario y otra más para la Contraloría Municipal.
-
-###### Artículo 6°.
-
-Las actividades del servicio comunitario serán propuestas por las Dependencias de la Administración Pública Municipal, siguiendo los lineamientos y equivalencias de tiempo que la Dirección de Justicia Municipal determine.
-
-###### Artículo 7°.
-
-El Juez Municipal, al momento de determinar las actividades a realizar por concepto de servicio comunitario, podrá tomar en consideración la preparación académica y la actividad u ocupación del infractor, de tal forma que exista concordancia entre las actividades a realizar por parte del infractor y las circunstancias personales del mismo.
-
-###### Artículo 8°.
-
-La duración de las actividades del servicio comunitario, en el caso de que se determine éste como sanción o sirva de conmutación de la multa impuesta, será establecida por el propio Juez Municipal, tomando en consideración la preparación académica, actividad, ocupación, edad o sexo del infractor, así como la reincidencia, en su caso. Dicha duración no podrá exceder de treinta y seis horas.
-
-###### Artículo 9°.
-
-La sanción a que se refieren los artículos anteriores no se impondrá en el caso de infractores en estado de ebriedad o bajo los efectos de cualquier tipo de estupefaciente o sustancia tóxica, durante la ejecución de la medida de seguridad impuesta por el propio Juez Municipal.
+La ley sólo queda abrogada o derogada por otra posterior que así lo declare expresamente o que contenga disposiciones total o parcialmente incompatibles con la ley anterior.
 
 ###### Artículo 10.
 
-Las actividades del servicio comunitario se llevarán a cabo en jornadas dentro de periodo distinto a las labores que representen la principal fuente de ingresos para la subsistencia del infractor y de su familia, sin que puedan exceder de la jornada extraordinaria determinada por la Ley Federal del Trabajo.
-
-Por ningún motivo, el servicio comunitario se desarrollará en forma que resulte degradante o humillante para el infractor, ni que implique un riesgo a la integridad física del mismo.
+Contra la observancia de la ley no puede alegarse desuso, costumbre o práctica en contrario.
 
 ###### Artículo 11.
 
-La Dependencia encargada de la ejecución y vigilancia del servicio comunitario proporcionará, al infractor, los elementos e instrumentos necesarios para la realización de las actividades, incluyendo algún distintivo que lo identifique como prestador del servicio comunitario en favor del Municipio de Aguascalientes.
+Las leyes que establezcan excepción a las reglas generales, no serán aplicables a caso alguno que no esté expresamente especificado en las mismas.
 
 ###### Artículo 12.
 
-Las actividades del servicio comunitario se efectuarán bajo la coordinación de la Dependencia encargada de la ejecución del mismo y la supervisión de la Contraloría Municipal.
-
-El Municipio, en ningún caso, se hará responsable de algún accidente o percance que se suscite durante la ejecución de las actividades del servicio comunitario.
+Las leyes del Estado rigen a todas las personas que se encuentren en la Entidad, así como los actos y hechos ocurridos en su territorio y aquellos que se sometan a dichas leyes, salvo cuando éstas prevean la aplicación de un derecho extranjero o de otra entidad federativa o algún ordenamiento federal o lo previsto en los tratados y convenciones en que México sea parte, siempre que se encuentren debidamente ratificados en los términos de ley.
 
 ###### Artículo 13.
 
-La Dependencia encargada de la ejecución y vigilancia del servicio comunitario deberá emitir, dentro de los cinco días hábiles siguientes a la fecha de conclusión del mismo, un reporte que acredite el estricto cumplimiento de las actividades y el número de horas de servicio comunitario ordenadas por el Juez Municipal, debiendo estar debidamente firmado por el Titular de la Dependencia receptora del servicio.
+La determinación del derecho aplicable, se hará conforme a las siguientes reglas:
 
-Dicho reporte deberá ser validado por la Contraloría Municipal y remitido a la Dirección de Justicia Municipal, a efecto de que ésta última emita un acuerdo de liberación del servicio comunitario en favor del infractor.
+I. Las situaciones jurídicamente válidas, creadas conforme a derecho, en el Estado de Querétaro, en las entidades de la República Mexicana o en un país extranjero, deberán ser reconocidas;
 
-En caso de que algún funcionario público municipal, al emitir el reporte mencionado en el presente artículo, proporcione información falsa o imprecisa, será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, la Legislación Penal para el Estado de Aguascalientes y las demás disposiciones legales aplicables.
+II. El estado y capacidad de las personas físicas, se rige por el derecho del lugar de su domicilio;
+
+III. La constitución, régimen y extinción de los derechos reales sobre inmuebles, así como los contratos de arrendamiento y de uso temporal de tales bienes, y los bienes muebles, se regirán por el derecho del lugar de su ubicación, aunque sus titulares sean extranjeros;
+
+IV. La forma de los actos jurídicos se rige por las leyes del lugar en que se celebren; sin embargo, podrán sujetarse a las formas prescritas en este Código, cuando el acto tenga efectos en la Entidad; y
+
+V. Salvo lo previsto en las fracciones anteriores, los efectos jurídicos de los actos y contratos, se regirán por el derecho del lugar en donde deban ejecutarse, a menos que las partes hubieren designado válidamente la aplicabilidad de otro derecho.
 
 ###### Artículo 14.
 
-Sólo hasta la ejecución total del servicio comunitario, se cancelará la sanción impuesta.
+En la aplicación del derecho extranjero se observará lo siguiente:
+
+I. Se aplicará como lo haría el juez extranjero respectivo, para lo cual, el juez podrá allegarse la información necesaria acerca del texto, vigencia, sentido y alcance legal de dicho derecho;
+
+II. Se aplicará el derecho sustantivo extranjero, salvo cuando, dadas las circunstancias del caso, deban tomarse en cuenta, con carácter excepcional, las normas conflictuales de ese derecho, que hagan aplicables las normas sustantivas del Estado o de un tercer Estado;
+
+III. No será impedimento para la aplicación del derecho extranjero, que el derecho del Estado no prevea instituciones o procedimientos esenciales a la institución extranjera aplicable, si existen instituciones o procedimientos análogos;
+
+IV. Las cuestiones previas, preliminares o incidentales que puedan surgir con motivo de una cuestión principal, no deberán resolverse necesariamente de acuerdo con el derecho que regule a esta última; y
+
+V. Cuando diversos aspectos de una misma relación jurídica estén regulados por distintos derechos, éstos serán aplicados armónicamente, procurando realizar las finalidades perseguidas por cada uno de ellos.
+
+Las dificultades causadas por la aplicación simultánea de tales derechos, se resolverán tomando en cuenta las exigencias de la equidad en el caso concreto.
+
+Lo dispuesto en el presente artículo, se observará cuando resultare aplicable el derecho de otra entidad federativa.
 
 ###### Artículo 15.
 
-En el supuesto de que el infractor no cumpla total o parcialmente con las actividades del servicio comunitario, se procederá de la siguiente manera:
+No se aplicará el derecho extranjero:
 
-I. En caso de que la sanción impuesta consistiere en una multa, la cual fue conmutada por el servicio comunitario, se hará efectivo el cumplimiento de la fianza o prenda otorgada ante el Juez Municipal. Para tal efecto, éste emitirá la orden de cumplimiento respectiva.
+I. Cuando artificiosamente se hayan evadido principios fundamentales del derecho mexicano, debiendo el juez determinar la intención fraudulenta de tal evasión; y
 
-II. En caso de que la sanción impuesta consista en el servicio comunitario, el Juez Municipal emitirá una orden de presentación a efecto de que el infractor cumpla un arresto cuya duración será igual a las horas de servicio comunitario impuestas.
+II. Cuando las disposiciones del derecho extranjero o el resultado de su aplicación sean contrarios a principios o instituciones fundamentales del orden público mexicano.
 
-En caso de que el infractor no se presente, éste será detenido y remitido ante el Juez Municipal para que se proceda al cumplimiento forzoso del arresto.
-
-T R A N S I T O R I O S
+Lo dispuesto en el presente artículo también se observará cuando pretenda ser aplicado el derecho de otra entidad federativa.
 
 ###### Artículo 16.
 
@@ -191,7 +159,7 @@ La ignorancia de las leyes no excusa su cumplimiento, pero los jueces, teniendo 
 
 ## Título Primero. De las personas físicas y morales
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### Capítulo Primero. De las personas físicas
 
 ###### Artículo 22.
 
@@ -229,7 +197,7 @@ V. Los demás derechos que a favor de las niñas, niños y adolescentes reconozc
 
 El mayor de edad tiene la facultad de disponer libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
 
-### CAPÍTULO SEGUNDO. DEL ACUERDO
+### Capítulo Segundo. De las personas morales
 
 ###### Artículo 25.
 
@@ -393,7 +361,7 @@ Salvo lo que dispongan las leyes sobre imprenta, la exhibición o reproducción 
 
 ## Título Quinto. Del Registro Civil
 
-### CAPÍTULO TERCERO. DE LA EJECUCIÓN
+### Capítulo Primero. Disposiciones generales
 
 ###### Artículo 48.
 
@@ -1627,13 +1595,27 @@ Si ha habido mala fe de parte de ambos cónyuges, el matrimonio produce efectos 
 
 La buena fe se presume; para destruir esta presunción se requiere prueba plena.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
 ###### Artículo 238.
 
-Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que correspondan.
+Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que correspondan, contempladas en el Capítulo Décimo de este Título.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### Artículo 239.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y la custodia de los hijos y el juez resolverá a su criterio de acuerdo con las circunstancias del caso y atendiendo a lo dispuesto en el Capítulo Décimo de este Título.
+Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre, deberán presentar ante el Juez un convenio en el que se fijen los siguientes puntos:
+
+I. Designación de la persona a quien sean confiados los hijos, para su cuidado y custodia;
+
+II. Garantizarán la convivencia de los hijos con sus padres;
+
+III. El modo de subvenir las necesidades de los hijos; y
+
+IV. La forma en que deberá garantizarse el pago por concepto de pensión alimenticia para los hijos.
+
+En caso de no ponerse de acuerdo ambos padres o no se garantice el interés de los hijos en dicho convenio, el Juez, tomando en cuenta las circunstancias del caso, garantizará el cuidado de los menores dejándolos bajo la custodia del progenitor que conforme al interés superior de los hijos sea más conveniente para éstos y resolverá todo lo relativo en cuanto a los puntos enumerados en este artículo, con la obligación del que tiene la custodia, de permitir la convivencia con el otro progenitor o progenitores, si es el caso.
 
 ###### Artículo 240.
 
@@ -2021,7 +2003,9 @@ El adoptante y el adoptado tienen el deber de darse alimentos, en los casos en q
 
 Los alimentos comprenden la comida, el vestido, la habitación, el esparcimiento y la salud.
 
-Respecto de los hijos, los alimentos comprenden, además, los gastos necesarios para su educación básica y para proporcionarle algún oficio, arte o profesión.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
+Respecto de los hijos, los alimentos comprenden, además, los gastos necesarios para su educación básica y para proporcionarle algún oficio, arte o profesión adecuados a sus circunstancias personales. Para el caso de los mayores de edad, la obligación de proporcionar alimentos al acreedor alimentario, subsistirá siempre y cuando éste se encuentre estudiando una carrera técnica o superior, hasta el término normal necesario para concluirla sin interrupción, siempre y cuando no sea mayor de 25 años de edad.
 
 Respecto de las personas con discapacidad, de los adultos mayores o las declaradas en estado de interdicción, los alimentos también comprenderán los gastos necesarios para el tratamiento especial que requieran.
 
@@ -2095,9 +2079,13 @@ II. Cuando el alimentista deja de necesitar los alimentos;
 
 III. En caso de injuria, falta o daños graves inferidos por el alimentista contra el que debe prestarlos, salvo que se trate de menores cuyo deudor alimentario sea el padre o la madre o quien ejerza la patria potestad;
 
-IV. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan esas causas, salvo que se trate de menores cuyo deudor alimentario sea el padre o la madre o quien ejerza la patria potestad; y
+IV. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan esas causas, salvo que se trate de menores cuyo deudor alimentario sea el padre o la madre o quien ejerza la patria potestad; y (sic)
 
 V. Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificadas.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2012)</small>
+
+VI. Cuando el alimentista cumpla la mayoría de edad y no se encuentre en los supuestos del párrafo segundo del artículo 293 de este Código.
 
 ###### Artículo 306.
 
@@ -2125,11 +2113,13 @@ Para tal efecto, contarán con la asistencia y protección de las instituciones 
 
 Por violencia familiar se considera todo acto de poder u omisión intencional, único, recurrente o cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, patrimonial o sexualmente, si tiene por efecto causar daño a cualquier integrante de la familia, dentro o fuera del domicilio familiar, por parte de quienes tengan parentesco o lo hayan tenido o mantengan una relación de hecho.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
+
 ###### Artículo 311.
 
-Los integrantes de la familia que incurran en violencia familiar, deberán reparar los daños y perjuicios que ocasionen con dicha conducta, con independencia de la aplicación de cualquier sanción que éste y otros ordenamientos legales establezcan.
+Quien incurra en violencia familiar, deberá reparar los daños y perjuicios que ocasione con dicha conducta, con independencia de la aplicación de cualquier sanción que éste y otros ordenamientos legales establezcan.
 
-En todas las controversias derivadas de la violencia familiar, el juez podrá dictar las medidas provisionales que correspondan.
+En todas las controversias derivadas de la violencia familiar, el juez deberá dictar las medidas provisionales que correspondan, sin que pueda omitirse la atención psicológica para las víctimas.
 
 ## Título Octavo. De la filiación
 
@@ -3015,13 +3005,23 @@ El derecho de usufructo concedido a las personas que ejercen la patria potestad,
 
 I. Por la emancipación derivada de (sic) del matrimonio o la mayoría de edad de los hijos;
 
-II. Por la pérdida del ejercicio de la patria potestad; y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
 
-III. Por renuncia.
+II. Por la pérdida del ejercicio de la patria potestad;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+III. Por renuncia; y
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+IV. Por incumplimiento injustificado a sus obligaciones de proporcionar alimentos, declarada judicialmente por sentencia firme.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
 
 ###### Artículo 435.
 
-Las personas que ejercen la patria potestad, tienen la obligación de dar cuenta de la administración de los bienes de los hijos, cuando éstos lleguen a la mayoría de edad o cuando el cónyuge que no administra lo exija.
+Las personas que ejercen la patria potestad, tienen la obligación de dar cuenta de la administración de los bienes de los hijos, cuando éstos lleguen a la mayoría de edad o cuando el cónyuge que no administra lo exija o por incumplimiento injustificado a sus obligaciones de proporcionar alimentos, declarada judicialmente por sentencia firme.
 
 ###### Artículo 436.
 
@@ -3159,11 +3159,9 @@ Quien pretenda recuperar este derecho, deberá acreditar ante el juez competente
 
 Si la recuperación de la patria potestad se declara procedente, ésta no se extenderá al derecho de administración sobre el patrimonio del menor.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
-
-No procederá la recuperación de la patria potestad, cuando el menor o incapaz se haya dado en adopción o cuando el motivo por el que se decretó la pérdida del derecho, se hubiera fundado en la corrupción de menores, abuso sexual, violencia u otra causa similar.
+No procederá la recuperación de la patria potestad, cuando el menor o incapaz se haya dado en adopción o cuando el motivo por el que se decretó la pérdida del derecho, se hubiera fundado en la corrupción de menores, abuso sexual, violencia familiar u otra causa similar.
 
 La acción a que se refiere este artículo, sólo podrá iniciarse después de transcurridos dos años a partir de que quedó firme la sentencia que decreto la pérdida o suspensión de la patria potestad.
 
@@ -3171,23 +3169,33 @@ Si la acción no procede, no podrá volver a intentarse con posterioridad.
 
 ### Capítulo Cuarto. De la custodia y convivencias
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2013)</small>
 
 ###### Artículo 446.
 
-La suspensión o pérdida del ejercicio de la patria potestad no afecta la convivencia de los menores con sus progenitores, salvo en los casos en que el menor sea objeto de descuido o violencia reiteradas, perversión o abuso sexual por parte de quien ejerza la patria potestad, o hayan cometido en contra del menor delito grave, o cuando las convivencias representen peligro para el sano desarrollo integral del menor o sean contrarias a su interés superior.
+La suspensión o pérdida del ejercicio de la patria potestad no afecta la convivencia de los menores con sus progenitores, salvo en los casos en que el menor sea objeto de descuido reiterado, violencia familiar, perversión o abuso sexual por parte de quien ejerza la patria potestad o hayan cometido en contra del menor delito grave o cuando las convivencias representen peligro para el sano desarrollo integral del menor o sean contrarias a su interés superior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 El juez, en todos los juicios de pérdida de patria potestad, deberá valorar y resolver respecto (sic) las convivencias, fundamentando siempre su medida en el interés superior del menor.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2013)</small>
+
+En caso de incumplimiento injustificado a sus obligaciones de proporcionar alimentos, declarada judicialmente por sentencia firme, el juez, valorando el interés superior del menor, podrá reducir las convivencias con éste.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2013)</small>
 
 ###### Artículo 447.
 
-Todo menor tiene derecho a vivir con ambos padres, pero cuando no cohabiten entre sí o estén divorciados, éstos establecerán las bases de la custodia, que será preferentemente compartida, conservando el derecho de mantener el contacto y visita regular con aquellos. En caso de que alguno de los progenitores represente peligro para el sano desarrollo del menor, decidirá la autoridad judicial y sólo cuando el menor sea objeto de maltrato, descuido, perversión o abuso por parte de sus padres o tutores, el juez podrá ordenar la custodia provisional en los lugares donde el interés superior del menor reporte mayor garantía.
+Todo menor tiene derecho a vivir con ambos padres, pero cuando no cohabiten entre sí o estén divorciados, éstos establecerán las bases de la custodia, que será preferentemente compartida, conservando el derecho de mantener el contacto y visita regular con aquéllos. En caso de que alguno de los progenitores represente peligro para el sano desarrollo del menor, decidirá la autoridad judicial y sólo cuando el menor sea objeto de maltrato, descuido, perversión, violencia familiar o abuso por parte de sus padres o tutores, el juez podrá ordenar la custodia provisional en los lugares donde el interés superior del menor reporte mayor garantía.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
 
 En lo referente a la custodia de los menores, se observará lo dispuesto en la fracción V del artículo 261 de este Código.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
 
 Cuando quien tenga decretada judicialmente la custodia provisional o definitiva sobre los menores, realice conductas para evitar la convivencia de éstos con la persona o personas que tengan derecho a las mismas, por más de una ocasión y sin causa debidamente justificada a juicio del juez, éste aplicará las medidas previstas en el Código de Procedimientos Civiles del Estado de Querétaro, pudiendo incluso decretar el cambio de custodia de los menores, misma que se tramitará de forma incidental escuchando al menor y al Ministerio Público.
 
@@ -3213,9 +3221,11 @@ Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho d
 
 En los juicios de pérdida de patria potestad, en materia de convivencias, el juez observará lo establecido por el artículo 446 de este Código.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
+
 ###### Artículo 449.
 
-Los jueces, cuando se les pida la suspensión o limitación de la convivencia por falta de ministración de alimentos, deberán ponderar las causas de la misma para determinar si es o no justificada y resolver lo que en su caso corresponda.
+Los jueces, negarán o limitarán las convivencias por falta de ministración de alimentos, pudiendo autorizarlas de manera supervisada únicamente en caso que exista causa justificada para el deudor alimentario solicitante.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7071,9 +7081,17 @@ III. Presunción de influencia contraria a la libertad del testador o a la verda
 
 IV. Falta de reciprocidad internacional;
 
-V. Utilidad pública; y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
 
-VI. Renuncia o remoción de algún cargo conferido en el testamento.
+V. Utilidad pública;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+VI. Renuncia o remoción de algún cargo conferido en el testamento; y
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+VII. Por incumplimiento injustificado a sus obligaciones de proporcionar alimentos, declarada judicialmente por sentencia firme.
 
 ###### Artículo 1207.
 
@@ -15764,6 +15782,18 @@ P.O. 18 DE MAYO DE 2012.
 Artículo Primero. La presente reforma entrará en vigor treinta días naturales después de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 8 DE JUNIO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 12 DE JUNIO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 ###### ARTÍCULO PRIMERO.
 
