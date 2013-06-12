@@ -4,7 +4,7 @@ identifier: "CHH-codigo-para-la-proteccion-y-defensa-del-menor-21825"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-02-02"
-last_updated: "2007-10-13"
+last_updated: "2013-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR
 
-CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR
+CÓDIGO PARA LA PROTECCIÓN Y DEFENSA DEL MENOR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES, PUBLICADA EN EL P.O. DE 12 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 2 de febrero de 1994.
 
@@ -649,7 +651,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 22 DE SEPTIEMBRE DE 2001.
 
@@ -720,3 +722,41 @@ P.O. 13 DE OCTUBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2013.
+
+SE TRANSCRIBE EL ARTÍCULO DEL DECRETO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código para la Protección y Defensa del Menor, aprobado mediante Decreto número 230/94 VII P.E., publicado en el Periódico Oficial del Estado No. 10, del 2 de febrero de 1994.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Comité Estatal de Seguimiento y Vigilancia de la Aplicación de los Derechos de las Niñas, Niños y Adolescentes a que se refiere el artículo 43, deberá quedar conformado a más tardar dentro de los noventa días posteriores de la entrada en vigor de la Ley.
+
+###### ARTÍCULO TERCERO.
+
+La convocatoria pública para la elección de los vocales a que se refiere la fracción VI del artículo 45 de la Ley, deberá establecer por única vez que tres de ellos durarán en su encargo un año; otros tres de los participantes serán electos por dos años y los tres restantes por el periodo completo previsto en el artículo 46 de la Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los trabajos para el diseño, acopio y conformación del Sistema Estatal de Información en Materia de Niñas, Niños y Adolescentes, deberán dar inicio dentro de los treinta días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Titular del Poder Ejecutivo Estatal deberá expedir el Reglamento de la presente Ley, dentro de los ciento ochenta días posteriores a la entrada en vigor de este Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El organismo para la asistencia social pública estatal deberá, dentro de los ciento ochenta días posteriores a la entrada en vigor de la Ley, adecuar sus manuales de procedimientos, lineamientos y demás aspectos necesarios para la correcta aplicación de la misma.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante la Procuraduría de Asistencia Jurídica y Social, continuarán rigiéndose hasta su conclusión por las disposiciones legales que les dieron origen, salvo que las contenidas en la presente Ley sean más favorables para las niñas, niños y adolescentes, en cuyo caso se privilegiará la aplicación de las disposiciones contenidas en el presente ordenamiento.
