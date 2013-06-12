@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2012-06-08"
+last_updated: "2013-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -2113,11 +2113,13 @@ Para tal efecto, contarán con la asistencia y protección de las instituciones 
 
 Por violencia familiar se considera todo acto de poder u omisión intencional, único, recurrente o cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, patrimonial o sexualmente, si tiene por efecto causar daño a cualquier integrante de la familia, dentro o fuera del domicilio familiar, por parte de quienes tengan parentesco o lo hayan tenido o mantengan una relación de hecho.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
+
 ###### Artículo 311.
 
-Los integrantes de la familia que incurran en violencia familiar, deberán reparar los daños y perjuicios que ocasionen con dicha conducta, con independencia de la aplicación de cualquier sanción que éste y otros ordenamientos legales establezcan.
+Quien incurra en violencia familiar, deberá reparar los daños y perjuicios que ocasione con dicha conducta, con independencia de la aplicación de cualquier sanción que éste y otros ordenamientos legales establezcan.
 
-En todas las controversias derivadas de la violencia familiar, el juez podrá dictar las medidas provisionales que correspondan.
+En todas las controversias derivadas de la violencia familiar, el juez deberá dictar las medidas provisionales que correspondan, sin que pueda omitirse la atención psicológica para las víctimas.
 
 ## Título Octavo. De la filiación
 
@@ -3003,13 +3005,23 @@ El derecho de usufructo concedido a las personas que ejercen la patria potestad,
 
 I. Por la emancipación derivada de (sic) del matrimonio o la mayoría de edad de los hijos;
 
-II. Por la pérdida del ejercicio de la patria potestad; y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
 
-III. Por renuncia.
+II. Por la pérdida del ejercicio de la patria potestad;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+III. Por renuncia; y
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+IV. Por incumplimiento injustificado a sus obligaciones de proporcionar alimentos, declarada judicialmente por sentencia firme.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
 
 ###### Artículo 435.
 
-Las personas que ejercen la patria potestad, tienen la obligación de dar cuenta de la administración de los bienes de los hijos, cuando éstos lleguen a la mayoría de edad o cuando el cónyuge que no administra lo exija.
+Las personas que ejercen la patria potestad, tienen la obligación de dar cuenta de la administración de los bienes de los hijos, cuando éstos lleguen a la mayoría de edad o cuando el cónyuge que no administra lo exija o por incumplimiento injustificado a sus obligaciones de proporcionar alimentos, declarada judicialmente por sentencia firme.
 
 ###### Artículo 436.
 
@@ -3147,11 +3159,9 @@ Quien pretenda recuperar este derecho, deberá acreditar ante el juez competente
 
 Si la recuperación de la patria potestad se declara procedente, ésta no se extenderá al derecho de administración sobre el patrimonio del menor.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
-
-No procederá la recuperación de la patria potestad, cuando el menor o incapaz se haya dado en adopción o cuando el motivo por el que se decretó la pérdida del derecho, se hubiera fundado en la corrupción de menores, abuso sexual, violencia u otra causa similar.
+No procederá la recuperación de la patria potestad, cuando el menor o incapaz se haya dado en adopción o cuando el motivo por el que se decretó la pérdida del derecho, se hubiera fundado en la corrupción de menores, abuso sexual, violencia familiar u otra causa similar.
 
 La acción a que se refiere este artículo, sólo podrá iniciarse después de transcurridos dos años a partir de que quedó firme la sentencia que decreto la pérdida o suspensión de la patria potestad.
 
@@ -3159,23 +3169,33 @@ Si la acción no procede, no podrá volver a intentarse con posterioridad.
 
 ### Capítulo Cuarto. De la custodia y convivencias
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2013)</small>
 
 ###### Artículo 446.
 
-La suspensión o pérdida del ejercicio de la patria potestad no afecta la convivencia de los menores con sus progenitores, salvo en los casos en que el menor sea objeto de descuido o violencia reiteradas, perversión o abuso sexual por parte de quien ejerza la patria potestad, o hayan cometido en contra del menor delito grave, o cuando las convivencias representen peligro para el sano desarrollo integral del menor o sean contrarias a su interés superior.
+La suspensión o pérdida del ejercicio de la patria potestad no afecta la convivencia de los menores con sus progenitores, salvo en los casos en que el menor sea objeto de descuido reiterado, violencia familiar, perversión o abuso sexual por parte de quien ejerza la patria potestad o hayan cometido en contra del menor delito grave o cuando las convivencias representen peligro para el sano desarrollo integral del menor o sean contrarias a su interés superior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 El juez, en todos los juicios de pérdida de patria potestad, deberá valorar y resolver respecto (sic) las convivencias, fundamentando siempre su medida en el interés superior del menor.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2013)</small>
+
+En caso de incumplimiento injustificado a sus obligaciones de proporcionar alimentos, declarada judicialmente por sentencia firme, el juez, valorando el interés superior del menor, podrá reducir las convivencias con éste.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2013)</small>
 
 ###### Artículo 447.
 
-Todo menor tiene derecho a vivir con ambos padres, pero cuando no cohabiten entre sí o estén divorciados, éstos establecerán las bases de la custodia, que será preferentemente compartida, conservando el derecho de mantener el contacto y visita regular con aquellos. En caso de que alguno de los progenitores represente peligro para el sano desarrollo del menor, decidirá la autoridad judicial y sólo cuando el menor sea objeto de maltrato, descuido, perversión o abuso por parte de sus padres o tutores, el juez podrá ordenar la custodia provisional en los lugares donde el interés superior del menor reporte mayor garantía.
+Todo menor tiene derecho a vivir con ambos padres, pero cuando no cohabiten entre sí o estén divorciados, éstos establecerán las bases de la custodia, que será preferentemente compartida, conservando el derecho de mantener el contacto y visita regular con aquéllos. En caso de que alguno de los progenitores represente peligro para el sano desarrollo del menor, decidirá la autoridad judicial y sólo cuando el menor sea objeto de maltrato, descuido, perversión, violencia familiar o abuso por parte de sus padres o tutores, el juez podrá ordenar la custodia provisional en los lugares donde el interés superior del menor reporte mayor garantía.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
 
 En lo referente a la custodia de los menores, se observará lo dispuesto en la fracción V del artículo 261 de este Código.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
 
 Cuando quien tenga decretada judicialmente la custodia provisional o definitiva sobre los menores, realice conductas para evitar la convivencia de éstos con la persona o personas que tengan derecho a las mismas, por más de una ocasión y sin causa debidamente justificada a juicio del juez, éste aplicará las medidas previstas en el Código de Procedimientos Civiles del Estado de Querétaro, pudiendo incluso decretar el cambio de custodia de los menores, misma que se tramitará de forma incidental escuchando al menor y al Ministerio Público.
 
@@ -3201,9 +3221,11 @@ Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho d
 
 En los juicios de pérdida de patria potestad, en materia de convivencias, el juez observará lo establecido por el artículo 446 de este Código.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
+
 ###### Artículo 449.
 
-Los jueces, cuando se les pida la suspensión o limitación de la convivencia por falta de ministración de alimentos, deberán ponderar las causas de la misma para determinar si es o no justificada y resolver lo que en su caso corresponda.
+Los jueces, negarán o limitarán las convivencias por falta de ministración de alimentos, pudiendo autorizarlas de manera supervisada únicamente en caso que exista causa justificada para el deudor alimentario solicitante.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7059,9 +7081,17 @@ III. Presunción de influencia contraria a la libertad del testador o a la verda
 
 IV. Falta de reciprocidad internacional;
 
-V. Utilidad pública; y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
 
-VI. Renuncia o remoción de algún cargo conferido en el testamento.
+V. Utilidad pública;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+VI. Renuncia o remoción de algún cargo conferido en el testamento; y
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+VII. Por incumplimiento injustificado a sus obligaciones de proporcionar alimentos, declarada judicialmente por sentencia firme.
 
 ###### Artículo 1207.
 
@@ -15758,3 +15788,9 @@ P.O. 8 DE JUNIO DE 2012.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 12 DE JUNIO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
