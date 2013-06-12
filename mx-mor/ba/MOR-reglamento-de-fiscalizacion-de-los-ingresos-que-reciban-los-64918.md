@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-fiscalizacion-de-los-ingresos-que-reciban-los-649
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-24"
-last_updated: "2009-02-04"
+last_updated: "2013-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE FISCALIZACION DE LOS INGRESOS QUE RECIBAN LOS PARTIDOS POLITICOS POR CUALQUIER MODALIDAD DE FINANCIAMIENTO, ASI COMO SU EMPLEO Y APLICACION
 
-REGLAMENTO DE FISCALIZACION DE LOS INGRESOS QUE RECIBAN LOS PARTIDOS POLITICOS POR CUALQUIER MODALIDAD DE FINANCIAMIENTO ASI COMO SU EMPLEO Y APLICACION
+REGLAMENTO DE FISCALIZACIÓN DE LOS INGRESOS QUE RECIBAN LOS PARTIDOS POLÍTICOS POR CUALQUIER MODALIDAD DE FINANCIAMIENTO ASI COMO SU EMPLEO Y APLICACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE FISCALIZACIÓN DE LOS INGRESOS QUE RECIBAN LOS PARTIDOS POLÍTICOS POR CUALQUIER MODALIDAD DE FINANCIAMIENTO, ASÍ COMO SU EMPLEO Y APLICACIÓN DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. 12 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 24 de diciembre de 2008.
 
@@ -1984,3 +1986,11 @@ EDICION DE NUEVA CUENTA DEL REGLAMENTO DE FISCALIZACION DE LOS INGRESOS QUE RECI
 PRIMERO.- L as modificaciones a los artículos 103 segundo párrafo y 105 del presente reglamento, entrarán en vigor a partir de la fecha de su aprobación por el Consejo Estatal Electoral, quedando a partir de esa fecha sin efecto legal alguno el texto anterior de los preceptos normativos de referencia.
 
 SEGUNDO. Publíquese las modificaciones a losartículos antes citados, en el periódico oficial denominado "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+P.O. 12 DE JUNIO DE 2013.
+
+PRIMERO.- Para el procedimiento de fiscalización de los informes financieros del origen, destino y monto de los ingresos que recibieron los Partidos Políticos por cualquier modalidad de financiamiento, así como su empleo y aplicación correspondientes al Gasto Ordinario del año 2012, serán aplicables, las disposiciones del Reglamento de Fiscalización aprobado el veintisiete de noviembre del año 2008.
+
+SEGUNDO.- El presente Reglamento de Fiscalización entrará en vigor, a partir de su aprobación y abroga el Reglamento de Fiscalización de los ingresos que reciban los Partidos Políticos por cualquier modalidad de financiamiento, así como su empleo y aplicación, aprobado el veintisiete de noviembre del año 2008 y demás disposiciones reglamentarias contrarias al presente Reglamento de Fiscalización.
+
+TERCERO.- Publíquese el presente Reglamento de Fiscalización en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
