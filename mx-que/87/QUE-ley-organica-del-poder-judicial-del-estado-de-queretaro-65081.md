@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-65081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2012-09-19"
+last_updated: "2013-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -1161,9 +1161,17 @@ III. Notificar personalmente en el domicilio del consignatario la existencia del
 
 IV. Si no hay oposición a la consignación, se expedirá el certificado correspondiente y se entregará al beneficiario para que pueda retirar el depósito;
 
-V. En caso de existir oposición, se dejarán a salvo los derechos de la parte interesada y, en su caso, remitirá el expediente al juez competente; y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
 
-VI. Las demás que le confiera la presente Ley, otras disposiciones legales aplicables y los órganos competentes del Poder Judicial.
+V. En caso de existir oposición, se dejarán a salvo los derechos de la parte interesada y, en su caso, remitirá el expediente al juez competente;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+VI. Proporcionar a la Dirección de Informática, de manera constante y actualizada, la información asentada en los libros de registro respecto de los depósitos derivados de resolución judicial y voluntarios sobre pensiones alimentarias, así como la relación de los deudores alimentarios, a fin de mantener actualizada la Base de Datos de Pensiones Alimentarias prevista en el Código de Procedimientos Civiles del Estado de Querétaro; y
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+VII. Las demás que le confiera la presente Ley, otras disposiciones legales aplicables y los órganos competentes del Poder Judicial del Estado.
 
 #### Sección Tercera. De la Dirección de Orientación y Servicio a la Ciudadanía
 
@@ -2094,3 +2102,9 @@ P.O. 19 DE SEPTIEMBRE DE 2012.
 Artículo Primero. La presente Ley entrará en vigor ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"; plazo en el que los Poderes Ejecutivo y Judicial del Estado realizarán las acciones necesarias a fin que (sic), al inicio de su vigencia, estén en aptitud de cumplir las atribuciones contenidas en la misma.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 12 DE JUNIO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
