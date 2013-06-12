@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-turismo-municipal-de-cuernavaca-morelos-25698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-21"
-last_updated: "2002-08-21"
+last_updated: "2013-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DE TURISMO MUNICIPAL DE CUERNAVACA, MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 21 de agosto de 2002.
 
@@ -41,9 +41,11 @@ REGLAMENTO DE TURISMO MUNICIPAL
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 1.
 
-El presente Reglamento es de interés público y observancia general en el Municipio de Cuernavaca, correspondiendo su aplicación e interpretación al Ayuntamiento a través de la Dirección de Turismo.
+El presente Reglamento es de interés público y observancia general en el Municipio de Cuernavaca, correspondiendo su aplicación e interpretación al Ayuntamiento de Cuernavaca, a través de la Dirección General de Promoción y Fomento al Turismo.
 
 ###### ARTÍCULO 2.
 
@@ -77,7 +79,9 @@ I.- Ayuntamiento: el Honorable Ayuntamiento Constitucional de Cuernavaca Morelos
 
 II.- Consejo Consultivo: el Consejo Consultivo de Turismo del Municipio de Cuernavaca;
 
-III.- Dirección: la Dirección de Turismo Municipal, dependiente de la Secretaría de Desarrollo Económico del Municipio de Cuernavaca;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+III.- Dirección: La Dirección General de Promoción y Fomento al Turismo.
 
 IV.- Prestador de Servicios Turísticos: la persona física o moral que habitualmente proporcione, intermedie o contrate con el turista la prestación remunerada de los servicios a que se refiere este Reglamento;
 
@@ -141,9 +145,11 @@ De conformidad con lo establecido en la Constitución Política de los Estados U
 
 La Dirección es una dependencia del Ayuntamiento que tiene por objeto, controlar y regular toda clase de actividades que tiendan a proteger, acrecentar, difundir y promover el turismo en el Municipio, conforme a las disposiciones del presente Reglamento, los acuerdos que el mismo Ayuntamiento tome y las demás disposiciones legales y administrativas que sean aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 8.
 
-Las obligaciones y facultades de la Dirección de Turismo son las siguientes:
+Las obligaciones y facultades de la Dirección General de Promoción y Fomento al Turismo son las siguientes:
 
 I.- Proveer lo necesario para que los días sábados, domingos y los festivos, se continúen cumpliendo las funciones de promoción, a través de los módulos de información turística con mapas, trípticos, base de datos y personal de servicio social y prácticas profesionales;
 
@@ -153,7 +159,9 @@ III.- Buscar el apoyo y coordinación con dependencias Municipales, Estatales y 
 
 IV.- Encauzar, promover y propiciar toda clase de actividades relacionadas con los diversos tipos de turismo, haciendo en su caso las gestiones que se estimen pertinentes ante las autoridades Municipales, Estatales y Federales;
 
-V.- Promover en coordinación con la Dirección de Recursos Humanos que los trabajadores del Ayuntamiento realicen visitas a sitios de interés turístico, negociando lo necesario para que lo hagan en condiciones preferentes;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+V.- Promover en coordinación con la Dirección General de Recursos Humanos que los trabajadores del Ayuntamiento realicen visitas a sitios de interés turístico, negociando lo necesario para que lo hagan en condiciones preferentes;
 
 VI.- Diseñar estrategias para el desarrollo de una cultura de servicios turísticos de alta calidad, higiene y seguridad;
 
@@ -163,11 +171,15 @@ VIII.- Difundir en coordinación con la Secretaría del Ayuntamiento, este Regla
 
 IX.- Promover la oferta de los servicios turísticos del Municipio y propiciar la formación, participación y desarrollo de los recursos humanos del sector;
 
-X.- Coadyuvar con la Secretaría de Seguridad Pública y Tránsito Metropolitana para garantizar la seguridad y el bienestar de los turistas en su transito y estadía, así como orientarlo y auxiliarlo en el caso que suceda alguna contingencia;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+X.- Coadyuvar con la Secretaría de Seguridad Ciudadana para garantizar la seguridad y el bienestar de los turistas en su tránsito y estadía; así como, orientarlo y auxiliarlo en el caso que suceda alguna contingencia;
 
 XI.- Apoyar la difusión de las normas oficiales a los prestadores de servicios en materia turística, proponer acciones de desregulación y simplificación para facilitar la operación y prestación de servicios turísticos en el Municipio;
 
-XII.- Propiciar el cumplimiento por los prestadores de servicios turísticos, de lo dispuesto por la Ley Federal de Turismo, la Ley de Desarrollo y Promoción al Turismo del Estado de Morelos y el presente Reglamento, mediante reuniones periódicas, con los diversos prestadores de servicios turísticos, para conocer sus problemas y atender en lo posible las sugerencias que hagan para el mejor desarrollo del sector;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+XII.- Propiciar el cumplimiento por los prestadores de servicios turísticos, de lo dispuesto por la Ley General de Turismo, la Ley de Turismo del Estado de Morelos y el Presente Reglamento, mediante reuniones periódicas, con los diversos prestadores de servicios turísticos, para conocer sus problemas y atender en lo posible las sugerencias que hagan para el mejor desarrollo del sector;
 
 XIII.- Coordinar la integración del Catálogo de la Oferta Turística Municipal;
 
@@ -201,9 +213,11 @@ XXVII.- Coadyuvar en la participación de todas las ferias y exposiciones del Mu
 
 XXVIII.- Las demás que determinen las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 9.
 
-La Dirección elaborará y administrará, en coordinación con la Dirección de Licencias de Funcionamiento y Supervisión de Espectáculos, dependiente de la Secretaría de Desarrollo Económico del Ayuntamiento, un registro de los prestadores de servicios turísticos del Municipio, debidamente acreditados, conforme a las leyes y reglamentos aplicables en la materia, el cual contendrá lo siguiente:
+La Dirección elaborará y administrará en coordinación con la Dirección de Licencias de Funcionamiento, dependiente de la Secretaría de Desarrollo Económico del Ayuntamiento, un registro de los prestadores de servicios turísticos del Municipio, debidamente acreditados, conforme a las leyes y reglamentos aplicables en la materia, el cual contendrá lo siguiente:
 
 I.- Nombre y domicilio de la persona física o moral que presta el servicio;
 
@@ -329,9 +343,11 @@ La Dirección promoverá, a través de visitas guiadas, pláticas, proyección d
 
 ### CAPÍTULO VII. PRESTADORES DE SERVICIOS TURÍSTICOS
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 25.
 
-Las relaciones entre los prestadores de servicios turísticos y el turista se regirán por lo que las partes convengan, observándose las disposiciones de la Ley Federal de Turismo, su Reglamento y las Normas Oficiales Mexicanas, así como la Ley Federal de Protección al Consumidor, Ley de Desarrollo y Promoción al Turismo del Estado de Morelos y este Reglamento.
+Las relaciones entre los prestadores de servicios turísticos y el turista se regirán por lo que las partes convengan, observándose las disposiciones de la Ley General de Turismo, su Reglamento y las Normas Oficiales Mexicanas; así como, la Ley Federal de Protección al Consumidor, Ley de Turismo del Estado de Morelos y este Reglamento.
 
 ###### ARTÍCULO 26.
 
@@ -392,3 +408,13 @@ ING. REY DAVID OLGUÍN ROSAS
 Secretario del Ayuntamiento
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE JUNIO DE 2013.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo dispuesto en el presente acuerdo.
+
+TERCERO.- Publíquese en la Gaceta Municipal del Municipio de Cuernavaca, Morelos.
