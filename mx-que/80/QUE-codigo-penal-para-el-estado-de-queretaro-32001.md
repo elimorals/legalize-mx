@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2012-12-18"
+last_updated: "2013-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -511,9 +511,7 @@ II.- La que se podrá imponer, discrecionalmente, a los responsables de delitos 
 
 En el primer caso la duración de la vigilancia será señalada en la sentencia. En el segundo, la vigilancia comenzará a partir del momento en que el sentenciado extinga la pena de prisión y no podrá exceder de un lapso de cinco años.
 
-### CAPITULO XI. SUSPENSION, PRIVACION E INHABILITACION DE
-
-DERECHOS Y FUNCIONES
+### CAPITULO XI. SUSPENSION, PRIVACION E INHABILITACION DE DERECHOS Y FUNCIONES
 
 ###### ARTICULO 54.
 
@@ -547,21 +545,13 @@ Son aplicables a la inhabilitación las disposiciones contenidas en el Artículo
 
 El confinamiento consiste en la obligación de residir en determinada circunscripción territorial y no salir de ella. El órgano jurisdiccional hará la designación de la circunscripción y fijará el término de su duración, que no excederá de cinco años conciliando las exigencias de la tranquilidad pública con las circunstancias personales del sentenciado.
 
-### CAPITULO XIII. PROHIBICION DE IR A UNA
-
-CIRCUNSCRIPCION TERRITORIAL
-
-DETERMINADA O DE RESIDIR EN ELLA
+### CAPITULO XIII. PROHIBICION DE IR A UNA CIRCUNSCRIPCION TERRITORIAL DETERMINADA O DE RESIDIR EN ELLA
 
 ###### ARTICULO 59.
 
 El órgano jurisdiccional, tomando en cuenta las circunstancias del delito y las propias del delincuente, podrá disponer que éste no vaya a una circunscripción territorial determinada o que no resida en ella; esta prohibición no excederá de cinco años.
 
-### CAPITULO XIV. DECOMISO, DESTRUCCION Y
-
-APLICACION DE LOS INSTRUMENTOS Y
-
-OBJETOS RELACIONADOS CON EL DELITO
+### CAPITULO XIV. DECOMISO, DESTRUCCION Y APLICACION DE LOS INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
 
 > <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
 
@@ -647,15 +637,9 @@ En los casos de asignación, adjudicación o aplicación de bienes o productos a
 
 Cuando no sea persona cierta, no esté identificada, se desconozca el domicilio de la persona a quien deba de notificársele en los términos de este artículo o se encuentre fuera del Estado o del País, la notificación se hará mediante publicación en los términos que establezca en el Código de Procedimientos Penales o supletoriamente en el de Procedimientos Civiles, ambos para el Estado de Querétaro.
 
-### CAPITULO XV. TRATAMIENTO DE INIMPUTABLES PERMANENTES
+### CAPITULO XV
 
-Y DE QUIENES TENGAN EL HABITO DE CONSUMIR
-
-ESTUPEFACIENTES, PSICOTROPICOS, BEBIDAS
-
-EMBRIAGANTES O CUALQUIER OTRA
-
-SUBSTANCIA TOXICA
+TRATAMIENTO DE INIMPUTABLES PERMANENTES Y DE QUIENES TENGAN EL HABITO DE CONSUMIR ESTUPEFACIENTES, PSICOTROPICOS, BEBIDAS EMBRIAGANTES O CUALQUIER OTRA SUBSTANCIA TOXICA
 
 ###### ARTICULO 62.
 
@@ -685,17 +669,9 @@ La autoridad jurisdiccional podrá resolver sobre la modificación o conclusión
 
 En ningún caso la medida de tratamiento impuesta por el órgano jurisdiccional, excederá de la duración que corresponda al máximo de la pena aplicable al delito. Si concluído este tiempo, la autoridad ejecutora considera que el sujeto continúa necesitando el tratamiento, lo pondrá a disposición de las autoridades sanitarias para que procedan conforme a las leyes aplicables.
 
-### CAPITULO XVI
+### CAPITULO XVI. INTERVENCION, REMOCION, PROHIBICION DE REALIZAR DETERMINADAS OPERACIONES Y
 
-INTERVENCION, REMOCION,
-
-PROHIBICION DE REALIZAR
-
-DETERMINADAS OPERACIONES Y
-
-EXTINCION DE LAS PERSONAS
-
-JURIDICAS COLECTIVAS
+EXTINCION DE LAS PERSONAS JURIDICAS COLECTIVAS
 
 ###### ARTICULO 65.
 
@@ -731,9 +707,7 @@ Si el inculpado no puede otorgar la garantía, ésta será subsituída (sic) por
 
 ### CAPITULO II. PUNIBILIDAD EN CASO DE EXCESO
 
-## TITULO CUARTO. APLICACION DE PENAS Y
-
-MEDIDAS DE SEGURIDAD
+## TITULO CUARTO. APLICACION DE PENAS Y MEDIDAS DE SEGURIDAD
 
 ### CAPITULO III. PUNIBILIDAD EN CASO DE TENTATIVA
 
@@ -765,9 +739,7 @@ Cuando este Código prevea la disminución o el aumento de una pena con referenc
 
 Al que se exceda en los casos de legítima defensa, estado de necesidad, cumplimiento de un deber, ejercicio de un derecho y obediencia jerárquica en los términos del Artículo 25 de este Código, se aplicará pena de tres días a siete años de prisión.
 
-### CAPITULO V. PUNIBILIDAD DE LOS DELITOS
-
-PRETERINTENCIONALES
+### CAPITULO V. PUNIBILIDAD DE LOS DELITOS PRETERINTENCIONALES
 
 ###### ARTICULO 72.
 
@@ -823,9 +795,7 @@ Este artículo sólo se aplicará cuando el imputado al cometer el delito no se 
 
 No se impondrá pena ni medida de seguridad alguna a quien por culpa ocasione lesiones u homicidio de su ascendiente, descendiente, hermano, cónyuge, concubina o concubinario, adoptante y adoptado, siempre y cuando el imputado no se encuentre al momento de cometer el delito, en estado de ebriedad o bajo los efectos de estupefacientes, psicotrópicos, substancias volátiles inhalables o cualquier otra que produzca efectos análogos.
 
-### CAPITULO VII. PUNIBILIDAD EN CASO DE CONCURSO DE
-
-DELITOS Y DELITO CONTINUADO
+### CAPITULO VII. PUNIBILIDAD EN CASO DE CONCURSO DE DELITOS Y DELITO CONTINUADO
 
 ###### ARTICULO 79.
 
@@ -833,17 +803,13 @@ Al responsable de un delito preterintencional se le aplicará de tres meses hast
 
 Las demás penas o medidas de seguridad se aplicarán hasta las dos terceras partes de las correspondientes al delito doloso, en cuantía o duración.
 
-### CAPITULO VIII. PUNIBILIDAD EN CASO DE AUTORIA
-
-INDETERMINADA
+### CAPITULO VIII. PUNIBILIDAD EN CASO DE AUTORIA INDETERMINADA
 
 ###### ARTICULO 80.
 
 Cuando los errores a que se refiere la fracción XII del Artículo 25 de esta Ley sean vencibles, se impondrá al sujeto que se encuentra en dicha situación hasta una mitad de las penas previstas al delito de que se trate.
 
-### CAPITULO IX. PUNIBILIDAD DE LOS DELITOS COMETIDOS EN
-
-PANDILLA
+### CAPITULO IX. PUNIBILIDAD DE LOS DELITOS COMETIDOS EN PANDILLA
 
 ###### ARTICULO 81.
 
@@ -857,9 +823,7 @@ En caso de concurso real, la pena aplicable será la suma de las que corresponda
 
 En caso del delito continuado se aumentará hasta en una tercera parte de la pena correspondiente al delito cometido, sin que exceda del máximo previsto en el Título Tercero.
 
-### CAPITULO X. APLICACION DE MEDIDAS DE SEGURIDAD A LAS
-
-PERSONAS JURIDICAS COLECTIVAS
+### CAPITULO X. APLICACION DE MEDIDAS DE SEGURIDAD A LAS PERSONAS JURIDICAS COLECTIVAS
 
 ###### ARTICULO 84.
 
@@ -875,9 +839,7 @@ Cuando se cometa algún delito por pandilla, se aplicará a los que intervengan 
 
 Se entiende por pandilla, para los efectos de esta disposición, la reunión habitual, ocasional o transitoria de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
 
-### CAPITULO XII. SUSPENSION CONDICIONAL DE LA EJECUCIÓN DE
-
-LA PENA PRIVATIVA DE LIBERTAD
+### CAPITULO XII. SUSPENSION CONDICIONAL DE LA EJECUCIÓN DE LA PENA PRIVATIVA DE LIBERTAD
 
 ###### ARTICULO 86.
 
@@ -1011,11 +973,7 @@ La imposición de una pena de inhabilitación para ejercer funciones, empleos y 
 
 En todo caso, la sanción pecuniaria se hará efectiva por el órgano ejecutor de sanciones, sujetándose al procedimiento económico coactivo.
 
-## TITULO QUINTO. EXTINCION DE LA PRETENSION
-
-PUNITIVA Y DE LA POTESTAD DE
-
-EJECUTAR LAS PENAS Y
+## TITULO QUINTO. EXTINCION DE LA PRETENSION PUNITIVA Y DE LA POTESTAD DE EJECUTAR LAS PENAS Y
 
 MEDIDAS DE SEGURIDAD
 
@@ -1055,9 +1013,7 @@ La muerte del imputado extingue la pretensión punitiva o las penas o medidas de
 
 La amnistía extingue la pretensión punitiva o las penas o medidas de seguridad impuestas, a excepción del decomiso y de la reparación de los daños y perjuicios, en los términos de la Ley que se dicte concediéndola. Si ésta no expresare su alcance se entenderá que la pretensión punitiva y las penas y medidas de seguridad se extinguen en todos sus efectos, con relación a todos los responsables del delito.
 
-### CAPITULO VII. RECONOCIMIENTO DE LA INOCENCIA DEL
-
-SENTENCIADO
+### CAPITULO VII. RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO
 
 ###### ARTICULO 106.
 
@@ -1075,9 +1031,7 @@ Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facul
 
 El perdón sólo beneficia al imputado en cuyo favor se otorga, a menos que el ofendido hubiese obtenido la satisfacción de sus intereses o derechos, caso en el cual beneficiará a todos los imputados y al encubridor.
 
-### CAPITULO IX. EXTINCIÓN DE LAS MEDIDAS DE TRATAMIENTO
-
-DE INIMPUTABLES
+### CAPITULO IX. EXTINCIÓN DE LAS MEDIDAS DE TRATAMIENTO DE INIMPUTABLES
 
 ###### ARTICULO 108.
 
@@ -1097,9 +1051,31 @@ La rehabilitación tiene por objeto reintegrar al sentenciado en el goce de los 
 
 Cuando el inimputable sujeto a una medida de tratamiento se encontrare prófugo y posteriormente fuera detenido, la ejecución de la medida de tratamiento se considerará extinguida si se acredita que las condiciones personales del sujeto no corresponden ya a las que hubieren dado orígen a su imposición.
 
-### CAPITULO II. LESIONES
+### CAPÍTULO I BIS. FEMINICIDIO
 
-> <small>[N. DE E. DERIVADO DE LA PUBLICACION DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO EL 1 DE ENERO DE 2010, EN EL QUE ÚNICAMENTE SE DIFUNDE SU CONTENIDO PARA CONOCIMIENTO DEL PUBLICO EN GENERAL, SE OBSERVA QUE LA FRACCIÓN VII REPETIDA CON EL CONTENIDO DE LA FRACCIÓN VI, (DESDE LA REFORMA DEL 1 DE NOVIEMBRE DE 1990), SE ENCUENTRA REGISTRADA EN ORDEN CORRECTO.]</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2013)</small>
+
+ARTICULO 126 BIS.- Al que prive de la vida a una mujer por razones derivadas de su género, se le impondrán de 20 a 50 años de prisión y de quinientos a setecientos cincuenta días multa.
+
+Se considera que existen razones de género, en cualquiera de las circunstancias siguientes:
+
+I. La víctima presente signos de violencia sexual de cualquier tipo;
+
+II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o marcas degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
+
+III. Existan datos que establezcan que hubo amenazas, acoso o lesiones del sujeto activo en contra de la víctima;
+
+IV. El cuerpo de la víctima haya sido expuesto, depositado o arrojado en un lugar público o paraje despoblado o exhibido por cualquier medio;
+
+V. Existan antecedentes o datos de cualquier tipo de violencia, en el ámbito familiar, laboral, escolar o vecinal del sujeto activo en contra de la víctima, y
+
+VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida.
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, se le impondrá pena de prisión de 3 a 8 años y de quinientos a setecientos cincuenta días multa; además, será destituido e inhabilitado de 3 a 10 años para desempeñar otro empleo, cargo o comisión públicos.
 
 #### SECCION PRIMERA. REGLAS GENERALES
 
@@ -1163,9 +1139,7 @@ Si se dejare de actuar, la prescripción comenzará a correr de nuevo desde el d
 
 Las prevenciones contenidas en el artículo anterior, no comprenden el caso en que las actuaciones se practiquen después de que haya transcurrido la mitad del lapso necesario para la prescripción. Entonces ésta no se interrumpirá sino con la aprehensión del imputado.
 
-#### SECCION TERCERA. PRESCRIPCION DE LA POTESTAD DE EJECUTAR
-
-LAS PENAS Y MEDIDAS DE SEGURIDAD
+#### SECCION TERCERA. PRESCRIPCION DE LA POTESTAD DE EJECUTAR LAS PENAS Y MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 120.
 
@@ -1189,7 +1163,7 @@ La potestad para ejecutar las demás penas y medidas de seguridad prescribirán 
 
 La prescripción de la potestad de ejecutarlas se interrumpirá por cualquier acto de autoridad competente para hacerlas efectivas y comenzará a correr de nuevo al día siguiente del último acto realizado.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 25 DE FEBRERO DE 2011)</small>
 
 #### SECCION CUARTA. PRESCRIPCION DE ANTECEDENTES PENALES
 
@@ -1209,13 +1183,11 @@ La declaración de prescripción se hará en los términos del Código de Proced
 
 #### SECCION PRIMERA. DELITOS CONTRA EL INDIVIDUO
 
-## TITULO PRIMERO. DELITOS CONTRA LA VIDA Y
+## TITULO PRIMERO. DELITOS CONTRA LA VIDA Y SALUD PERSONAL
 
-SALUD PERSONAL
+### CAPITULO II. LESIONES
 
-### CAPITULO III. DISPOSICIONES COMUNES AL HOMICIDIO Y
-
-LESIONES
+> <small>[N. DE E. DERIVADO DE LA PUBLICACION DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO EL 1 DE ENERO DE 2010, EN EL QUE ÚNICAMENTE SE DIFUNDE SU CONTENIDO PARA CONOCIMIENTO DEL PUBLICO EN GENERAL, SE OBSERVA QUE LA FRACCIÓN VII REPETIDA CON EL CONTENIDO DE LA FRACCIÓN VI, (DESDE LA REFORMA DEL 1 DE NOVIEMBRE DE 1990), SE ENCUENTRA REGISTRADA EN ORDEN CORRECTO.]</small>
 
 ###### ARTICULO 125.
 
@@ -1233,6 +1205,10 @@ ARTICULO 125 BIS.- Para determinar que una persona ha perdido la vida, se estar�
 
 Cuando concurra alguna de las circunstancias señaladas en el artículo 131 de este Código; el homicidio se sancionará con prisión de quince a cincuenta años y multa de 500 a 750 días.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2013)</small>
+
+### CAPITULO III. DISPOSICIONES COMUNES AL HOMICIDIO Y LESIONES
+
 ### CAPITULO III BIS. VIOLENCIA EN ESPECTÁCULOS DEPORTIVOS
 
 > <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
@@ -1242,8 +1218,6 @@ ARTICULO 134 BIS.- Se sancionará con prisión de 1 a 4 años y de 10 a 80 días
 > <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
 
 ARTICULO 134 TER.- Además de las sanciones previstas en este Capítulo, a juicio del órgano jurisdiccional, se podrá prohibir al inculpado asistir a estadios o recintos de espectáculos deportivos, por un término de seis meses a cuatro años, en cuyo caso se ordenará la publicación especial de sentencia.
-
-### CAPITULO IV. INSTIGACION O AYUDA AL SUICIDIO
 
 ###### ARTICULO 127.
 
@@ -1309,7 +1283,7 @@ Cuando en las lesiones concurra alguna de las circunstancias a que se refiere el
 
 Si las lesiones se infieren en agravio de un menor o persona que no tiene capacidad para comprender el significado del hecho o capacidad para resistirlo, sujeto a la patria potestad, tutela, custodia o guarda, se privará al agente en el ejercicio de sus derechos, independientemente de las penas que correspondan conforme a los artículos anteriores.
 
-### CAPITULO V. ABORTO
+### CAPITULO IV. INSTIGACION O AYUDA AL SUICIDIO
 
 ###### ARTICULO 131.
 
@@ -1367,13 +1341,13 @@ En ningún caso la sanción podrá exceder de la que se impondrá en el delito s
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE MARZO DE 2012)</small>
 
+### CAPITULO V. ABORTO
+
 ### CAPITULO VI. VIOLENCIA DE GENERO
 
 > <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ARTICULO 142 BIS.- Al que ocasione o promueva la violencia psicológica, física, sexual o patrimonial en contra de una mujer u hombre, por su pertenencia a un género, se le aplicará pena de tres meses a tres años de prisión.
-
-### CAPITULO I. OMISIÓN DE AUXILIO
 
 ###### ARTICULO 135.
 
@@ -1385,7 +1359,7 @@ Si el suicidio no se consuma, se impondrá prisión de 6 meses a tres años.
 
 Si la persona a quien se instigue o ayude al suicidio, fuere menor de edad o persona que no tuviera capacidad para comprender el significado del hecho o capacidad de determinarse de acuerdo a esa comprensión o tuviere discapacidad física o sensorial o sea mayor de sesenta años de edad, se impondrá pena de 15 a 30 años de prisión.
 
-### CAPITULO II. OMISIÓN DE CUIDADO
+### CAPITULO I. OMISIÓN DE AUXILIO
 
 ###### ARTICULO 136.
 
@@ -1425,33 +1399,29 @@ I.- Cuando sea causado por la culpa de la mujer embarazada, y
 
 II.- Cuando el embarazo sea resultado de una violación.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+### CAPITULO II. OMISIÓN DE CUIDADO
 
 ### CAPITULO III. OMISIÓN DE AUXILIO A ATROPELLADOS
 
+## TITULO SEGUNDO. DELITOS DE OMISIÓN DE AUXILIO O DE CUIDADO
+
 ### CAPITULO ÚNICO. EXPOSICIÓN DE INCAPACES
-
-## TITULO SEGUNDO. DELITOS DE OMISIÓN DE AUXILIO O DE
-
-CUIDADO
-
-### CAPITULO I. PRIVACIÓN DE LA LIBERTAD PERSONAL
 
 ###### ARTICULO 143.
 
 Al que omita prestar el auxilio necesario a quien se encuentre desamparado y en peligro manifiesto en su persona, cuando conforme a las circunstancias pudiere hacerlo sin riesgo propio ni de terceros, o al que no estando en condiciones de prestarlo no diere aviso inmediato a la autoridad o no solicitare auxilio a quienes pudieren prestarlo, se le impondrá prisión de tres a cinco meses o trabajo en favor de la comunidad hasta por el mismo tiempo.
 
-### CAPITULO II. SECUESTRO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 1999)</small>
+### CAPITULO I. PRIVACIÓN DE LA LIBERTAD PERSONAL
 
 ###### ARTICULO 144.
 
 Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla, se le aplicará prisión de tres meses a tres años.
 
-### CAPITULO III. TRATA DE PERSONAS
+### CAPITULO II. SECUESTRO
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 145.
 
@@ -1459,9 +1429,7 @@ Al que habiendo atropellado culposamente o por caso fortuito a una persona, no l
 
 ## TITULO TERCERO. EXPOSICIÓN DE INCAPACES
 
-### CAPITULO I. AMENAZAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2008)</small>
+### CAPITULO III. TRATA DE PERSONAS
 
 ###### ARTICULO 146.
 
@@ -1471,9 +1439,9 @@ No se aplicará pena alguna a la madre que entregue a su hijo por ignorancia, ex
 
 ## TITULO CUARTO. DELITOS CONTRA LA LIBERTAD
 
-### CAPITULO II. ASALTO
+### CAPITULO I. AMENAZAS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 147.
 
@@ -1515,9 +1483,9 @@ La pena se aumentará en una mitad, cuando concurran algunas de las agravantes s
 
 Cuando participen de cualquier manera en la comisión de este ilícito, personas que sean o hayan sido servidores públicos encargados de prevenir, denunciar, investigar, juzgar la comisión de delitos o ejecutar penas y medidas de seguridad o sean miembros de alguna corporación de seguridad pública o privada, la pena de prisión se aumentará en una mitad y será motivo de inhabilitación para ocupar cargos del servicio público o ser miembro de una corporación de seguridad por un tiempo igual al de la pena de prisión impuesta.
 
-### CAPITULO ÚNICO. ALLANAMIENTO DE DOMICILIO
+### CAPITULO II. ASALTO
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 150.
 
@@ -1597,75 +1565,41 @@ En los demás casos será perseguible por oficio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
+### CAPITULO ÚNICO. ALLANAMIENTO DE DOMICILIO
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+
+###### ARTICULO 151.
+
+(DEROGADO, P.O. 12 DE JUNIO DE 2013)
+
+###### ARTICULO 152.
+
+(DEROGADO, P.O. 12 DE JUNIO DE 2013)
+
+###### ARTICULO 153.
+
+(DEROGADO, P.O. 12 DE JUNIO DE 2013)
+
+###### ARTICULO 154.
+
+(DEROGADO, P.O. 12 DE JUNIO DE 2013)
+
+## TITULO QUINTO. DELITOS CONTRA LA PAZ Y SEGURIDAD DE LAS PERSONAS
+
 ### CAPITULO I. REVELACION DE SECRETO
 
-###### Artículo 151.
+###### ARTICULO 155.
 
-Se le impondrá de 10 a 18 años de prisión y de 100 a 350 días multa a quién capte, reclute, enganche, traslade, entregue o reciba a una o varias personas a través del engaño, la violencia física o moral, privación de la libertad, el abuso de poder o el abuso de una situación de vulnerabilidad, con fines de:
+Al que intimide a otro con causarle daño en su persona o en sus bienes o le trate de impedir lo que tiene derecho a hacer o en la persona o bienes de un tercero con quien el ofendido tenga vínculos de amor amistad, parentesco, gratitud o cualquier otro, se le impondrá prisión de tres meses a un año o trabajo a favor de la comunidad por seis meses.
 
-I. Explotación sexual;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
-II. Explotación laboral;
+Si la persona ofendida fuere alguno de los parientes o personas a que se refieren los artículos 217 BIS y 217 TER, en este último caso, siempre y cuando habiten en el mismo domicilio; o bien, que la persona ofendida sea un menor de edad o mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, se aumentará la pena prevista hasta en una tercera parte, sin perjuicio del concurso de delitos.
 
-III. Explotación económica;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
-IV. Trabajos o servicios forzados;
-
-V. Esclavitud;
-
-VI. Servidumbre;
-
-VII. Venta de personas;
-
-VIII. Matrimonio forzado o servil; o
-
-IX. Extracción de órganos, tejidos o componentes.
-
-El consentimiento otorgado por la víctima, cualquiera que sea su edad y en cualquier modalidad del delito no excluye de responsabilidad.
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
-
-###### Artículo 152.
-
-Cuando este delito sea cometido en contra de una persona menor de 18 años de edad o en contra de quien no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, no se requerirá acreditación de los medios comisivos señalados en el párrafo primero del artículo anterior.
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
-
-###### Artículo 153.
-
-Se equipara a trata de personas y se sancionará con prisión de 12 a 20 años y de 250 a 750 días multa, a quien:
-
-I. Obtenga algún beneficio económico o de cualquier otra índole, para sí o para una tercera persona, de la explotación sexual, la explotación laboral, la explotación económica, los trabajos o servicios forzados, la esclavitud, la servidumbre, la venta o el matrimonio forzado o servil, de una o más personas;
-
-II. Ofrezca o solicite para sí o para una tercera persona, la explotación sexual, explotación laboral, explotación económica, trabajos o servicios forzados, esclavitud, servidumbre, venta o matrimonios forzados o serviles de una o más personas;
-
-III. Promueva, facilite, procure, favorezca o induzca la explotación sexual, explotación laboral, explotación económica, los trabajos o servicios forzados, esclavitud, servidumbre, venta o matrimonio forzado o servil de una o más personas;
-
-IV. Mantenga o retenga a una o más personas en explotación sexual, explotación laboral, explotación económica, trabajos o servicios forzados, esclavitud, servidumbre, venta o matrimonio forzado o servil; o
-
-V. Celebre con otro un acuerdo que prive a éste de la libertad o le imponga condiciones que lo sujeten a explotación sexual, explotación laboral, trabajos o servicios forzados, esclavitud, servidumbre, venta o matrimonio forzado o servil.
-
-Si se empleara engaño, violencia física o moral, abuso de poder o el sujeto activo se aproveche de una situación de vulnerabilidad del pasivo, la pena aplicable será de 12 a 25 años de prisión y de 500 a 750 días de multa.
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
-
-###### Artículo 154.
-
-Las penas a las que hacen referencia los artículos 151 y 153 de este Código, se incrementarán en una mitad más, cuando se trate de:
-
-I. Persona menor de 18 años o mayor de 60 años de edad o no tenga la capacidad para comprender el significado del hecho o capacidad de resistirlo;
-
-II. Cuando el sujeto activo se valiese de su calidad de servidor público o se haya ostentado como tal, sin serlo. Además, se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñarlos, por un tiempo igual al de la pena de prisión impuesta, la cual iniciará una vez que haya compurgado la pena privativa de libertad;
-
-III. Cuando el sujeto activo tenga parentesco por consanguinidad o afinidad hasta en el cuarto grado o parentesco civil o habite en el mismo domicilio con la víctima o tenga una relación sentimental o de hecho con el sujeto pasivo. Además, en su caso, perderá el ejercicio de la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta;
-
-IV. Cuando exista entre el sujeto pasivo y el activo una relación de confianza, cuidado, guarda o educación; o
-
-V. Cuando el sujeto activo sea un ministro de culto religioso.
-
-## TITULO QUINTO. DELITOS CONTRA LA PAZ Y
-
-SEGURIDAD DE LAS PERSONAS
+Este delito se perseguirá a petición del ofendido, excepto cuando la persona ofendida fuere un menor de edad o mayor de sesenta años o persona con discapacidad mental, intelectual, física o sensorial, se perseguirá de oficio.
 
 ### CAPITULO II. ACCESO ILICITO A SISTEMAS DE INFORMATICA
 
@@ -1685,22 +1619,6 @@ Al que sin autorización conozca o copie información contenida en sistemas o eq
 
 A quien sin autorización conozca, obtenga, copie o utilice información contenida en cualquier sistema, equipo o medio de almacenamiento informáticos de seguridad pública, protegido o no por algún medio de seguridad, se le impondrá pena de cuatro a diez años de prisión y multa de quinientos a setecientos cincuenta días multa. Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, destitución e inhabilitación de cuatro a diez años para desempeñarse en cualquier empleo, puesto, cargo o comisión de carácter público.
 
-###### ARTICULO 155.
-
-Al que intimide a otro con causarle daño en su persona o en sus bienes o le trate de impedir lo que tiene derecho a hacer o en la persona o bienes de un tercero con quien el ofendido tenga vínculos de amor amistad, parentesco, gratitud o cualquier otro, se le impondrá prisión de tres meses a un año o trabajo a favor de la comunidad por seis meses.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
-
-Si la persona ofendida fuere alguno de los parientes o personas a que se refieren los artículos 217 BIS y 217 TER, en este último caso, siempre y cuando habiten en el mismo domicilio; o bien, que la persona ofendida sea un menor de edad o mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, se aumentará la pena prevista hasta en una tercera parte, sin perjuicio del concurso de delitos.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
-
-Este delito se perseguirá a petición del ofendido, excepto cuando la persona ofendida fuere un menor de edad o mayor de sesenta años o persona con discapacidad mental, intelectual, física o sensorial, se perseguirá de oficio.
-
-### CAPITULO I. VIOLACIÓN
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
-
 ###### ARTICULO 156.
 
 Al que en lugar solitario o desprotegido haga uso de la violencia sobre una o más personas con el propósito de causar el mal, obtener un lucro o exigirse asentimiento para cualquier fin, se le sancionará con prisión de uno a seis años.
@@ -1715,15 +1633,13 @@ Si el delito se comete en contra de un menor de edad o mayor de sesenta años de
 
 Cuando el asalto se cometa contra un poblado se les penará con prisión de seis a veinte años.
 
-### CAPITULO II. ABUSOS DESHONESTOS
-
-## TITULO SEXTO. DELITO CONTRA LA
-
-INVIOLABILIDAD DEL DOMICILIO
-
-### CAPITULO III. ESTUPRO
+### CAPITULO I. VIOLACIÓN
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+
+## TITULO SEXTO. DELITO CONTRA LA INVIOLABILIDAD DEL DOMICILIO
+
+### CAPITULO II. ABUSOS DESHONESTOS
 
 ###### ARTICULO 158.
 
@@ -1743,6 +1659,22 @@ Si el medio empleado fuere la violencia, la penalidad se aumentará hasta en una
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE ABRIL DE 2011)</small>
 
+### CAPITULO III. ESTUPRO
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+
+###### ARTICULO 159.
+
+A quien teniendo conocimiento de un secreto, o estando en posesión de un documento, grabación, filmación o cualquier otro objeto que se le hubiese confiado, lo revele o entregue, sin consentimiento de quien tenga derecho a otorgarlo y que pueda causar daño para cualquier persona, se le aplicará prisión de 3 meses a un año y hasta 20 días multa o trabajo en favor de la comunidad hasta por tres meses.
+
+Si el que divulgare el secreto, documento, grabación, filmación u objeto, lo hubiera conocido o recibido por razón de su empleo, cargo, profesión, arte u oficio, la pena de prisión será de uno a 5 años, hasta 50 días multa y suspensión en sus funciones de 2 meses a un año.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2011)</small>
+
+ARTICULO 159 BIS.- El que para descubrir los secretos o vulnerar la intimidad de otro, sin el consentimiento de éste, se apodere de sus papeles, cartas, mensajes de correo electrónico o cualesquiera otros documentos o efectos personales o intercepte sus telecomunicaciones o utilice artificios técnicos de escucha, transmisión, grabación o reproducción del sonido o de la imagen o de cualquier otra señal de comunicación, se le impondrán de seis meses a tres años de prisión y de cien a trescientos días multa.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2011)</small>
+
 ### CAPITULO IV. ACOSO SEXUAL
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2003)</small>
@@ -1761,29 +1693,13 @@ Este delito se perseguirá por querella.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2003)</small>
 
-###### ARTICULO 159.
-
-A quien teniendo conocimiento de un secreto, o estando en posesión de un documento, grabación, filmación o cualquier otro objeto que se le hubiese confiado, lo revele o entregue, sin consentimiento de quien tenga derecho a otorgarlo y que pueda causar daño para cualquier persona, se le aplicará prisión de 3 meses a un año y hasta 20 días multa o trabajo en favor de la comunidad hasta por tres meses.
-
-Si el que divulgare el secreto, documento, grabación, filmación u objeto, lo hubiera conocido o recibido por razón de su empleo, cargo, profesión, arte u oficio, la pena de prisión será de uno a 5 años, hasta 50 días multa y suspensión en sus funciones de 2 meses a un año.
-
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2011)</small>
-
-ARTICULO 159 BIS.- El que para descubrir los secretos o vulnerar la intimidad de otro, sin el consentimiento de éste, se apodere de sus papeles, cartas, mensajes de correo electrónico o cualesquiera otros documentos o efectos personales o intercepte sus telecomunicaciones o utilice artificios técnicos de escucha, transmisión, grabación o reproducción del sonido o de la imagen o de cualquier otra señal de comunicación, se le impondrán de seis meses a tres años de prisión y de cien a trescientos días multa.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2011)</small>
-
 ### CAPITULO V. DISPOSICIONES COMUNES
+
+## TITULO OCTAVO. DELITOS CONTRA LA LIBERTAD E INEXPERIENCIA SEXUALES
 
 ### CAPITULO I. DISCRIMINACION
 
 > <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
-
-## TITULO OCTAVO. DELITOS CONTRA LA LIBERTAD
-
-E INEXPERIENCIA SEXUALES
-
-### CAPITULO II. CALUMNIA
 
 ###### Artículo 160.
 
@@ -1823,7 +1739,7 @@ Cuando la violación sea cometida por dos o más personas se impondrá prisión 
 
 Si entre el activo y el pasivo de la violación existiera un vínculo matrimonial o de concubinato, el delito se perseguirá por querella.
 
-### CAPITULO III. DISPOSICIONES COMUNES
+### CAPITULO II. CALUMNIA
 
 ###### ARTICULO 165.
 
@@ -1845,7 +1761,7 @@ Al que sin el propósito de llegar a la cópula, ejecute un acto erótico sexual
 
 La pena se aumentará en una mitad más cuando se empleare violencia o si el delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano o hermana contra su colateral, el tutor con su pupilo o por cualquier persona que habite en el mismo domicilio que la víctima. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere sobre la víctima, sin perjuicio del concurso de delitos.
 
-### CAPITULO I. ROBO
+### CAPITULO III. DISPOSICIONES COMUNES
 
 ###### Artículo 167.
 
@@ -1855,11 +1771,11 @@ Este delito se perseguirá por querella de la persona ofendida o de quienes ejer
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2003)</small>
 
+### CAPITULO I. ROBO
+
 ### CAPITULO II. ABIGEATO
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
-
-### CAPITULO III. ABUSO DE CONFIANZA
 
 ###### ARTICULO 168.
 
@@ -1879,7 +1795,7 @@ En los delitos a que se refieren los capítulos I, II y III de este Título, la 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE FEBRERO DE 2011)</small>
 
-### CAPITULO IV. FRAUDE
+### CAPITULO III. ABUSO DE CONFIANZA
 
 ###### ARTICULO 170.
 
@@ -1909,9 +1825,7 @@ Este delito se perseguirá por querella.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE FEBRERO DE 2011)</small>
 
-### CAPITULO V. USURA
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1999)</small>
+### CAPITULO IV. FRAUDE
 
 ###### ARTICULO 173.
 
@@ -1931,7 +1845,9 @@ Este delito se perseguirá por querella.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE FEBRERO DE 2011)</small>
 
-### CAPITULO VI. ADMINISTRACIÓN FRAUDULENTA
+### CAPITULO V. USURA
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 177.
 
@@ -1953,13 +1869,9 @@ Este delito se perseguirá por querella.
 
 (DEROGADO, P.O. 25 DE FEBRERO DE 2011)
 
-## TITULO DÉCIMO. DELITOS CONTRA EL
+## TITULO DÉCIMO. DELITOS CONTRA EL PATRIMONIO
 
-PATRIMONIO
-
-### CAPITULO VII. EXTORSIÓN
-
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+### CAPITULO VI. ADMINISTRACIÓN FRAUDULENTA
 
 ###### ARTICULO 182.
 
@@ -2035,7 +1947,7 @@ ARTICULO 183 TER.- Se sancionará con pena de tres a quince años de prisión y.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2012)</small>
 
-ARTICULO 183 QUÁTER.- Se sancionará con pena de uno a quince años de prisión y de 100 a 750 días multa, si el robo se realiza en bodega, edificio, local comercial o cuarto que estén destinados para ejercer el comercio, comprendiéndose en esta denominación no solo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de la que estén construidos.
+ARTICULO 183 QUATER.- Se sancionará con pena de uno a quince años de prisión y de 100 a 750 días multa, si el robo se realiza en bodega, edificio, local comercial o cuarto que estén destinados para ejercer el comercio, comprendiéndose en esta denominación no solo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de la que estén construidos.
 
 ###### ARTICULO 184.
 
@@ -2067,7 +1979,9 @@ Como reparación del daño, además, pagará al ofendido el doble del alquiler, 
 
 Se tendrá por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
-### CAPITULO VIII. DESPOJO
+### CAPITULO VII. EXTORSIÓN
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 189.
 
@@ -2093,7 +2007,7 @@ III.- Expida certificados de contenido falso para obtener guías simulando venta
 
 Al que sin tomar las medidas necesarias para cerciorarse de la procedencia legítima de los animales, adquiera ganado o comercie con pieles, carne u otros derivados obtenidos del abigeato, se le impondrá prisión de 2 a 10 años y de 20 a 500 días multa.
 
-### CAPITULO IX. DAÑOS
+### CAPITULO VIII. DESPOJO
 
 ###### ARTICULO 191.
 
@@ -2115,11 +2029,11 @@ I.- Disponga de una cosa mueble, de su propiedad, si no tiene la libre disposici
 
 II.- Siendo poseedor derivado de una cosa mueble, no la devuelva cuando debiera hacerlo, a pesar de ser requerido formalmente por quien tenga derecho o no la entregue a la autoridad competente.
 
-### CAPITULO X. ENCUBRIMIENTO POR RECEPTACION
+### CAPITULO IX. DAÑOS
 
 ###### ARTICULO 193.
 
-Al que engañando a alguien o aprovechándose del error en que éste se halla, se haga ilícitamente de alguna cosa o alcance un lucro indebido, se le impondrán las siguientes penas:
+Al que engañado a alguien o aprovechándose del error en que éste se halla, se haga ilícitamente de alguna cosa o alcance un lucro indebido, se le impondrán las siguientes penas:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2139,7 +2053,7 @@ II.- Prisión de 4 a 10 años y de 180 hasta 500 días multa, cuando el valor de
 
 III.- Prisión de 10 a 15 años y de 500 hasta 750 días multa, cuando el valor de lo defraudado sea mayor de 1200 veces el salario mínimo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARRÁFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
@@ -2209,11 +2123,7 @@ XXII.- Al que por sí o por interpósita persona, a título de dirigencia, prote
 
 Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud no sólo del engaño, sino de maquinaciones o artificios que para obtener esa entrega se hayan empleado, la pena señalada en el Artículo 193 de este Código se aumentará en un mes a dos años.
 
-### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE
-
-ASISTENCIA FAMILIAR
-
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2012)</small>
+### CAPITULO X. ENCUBRIMIENTO POR RECEPTACION
 
 ###### ARTICULO 196.
 
@@ -2223,9 +2133,9 @@ Si se valiese de la ignorancia, inexperiencia, miseria o necesidad, aunque esta 
 
 Se entenderá que los intereses o lucros son usurarios, cuando sean superiores a las tasas de interés bancario autorizadas en la fecha de la celebración del acto jurídico.
 
-### CAPITULO II. RETENCION Y SUSTRACCION DE PERSONAS MENORES DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O PARA RESISTIRLO
+### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 197.
 
@@ -2235,9 +2145,9 @@ Al que teniendo a su cargo la administración o el cuidado de bienes ajenos, por
 
 Cuando el delito se cometa en contra de persona menor de edad o mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, las penas que correspondan se incrementarán hasta en una tercera parte.
 
-### CAPITULO III. TRAFICO DE MENORES
+### CAPITULO II. RETENCION Y SUSTRACCION DE PERSONAS MENORES DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O PARA RESISTIRLO
 
-> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 198.
 
@@ -2267,7 +2177,7 @@ VIII. Cuando el sujeto activo del delito sea, haya sido, o se ostente sin serlo,
 
 IX. Cuando el delito se cometa en contra de persona menor de edad o mayor de sesenta años o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo.
 
-### CAPITULO IV. DELITOS CONTRA LA FILIACIÓN Y ESTADO CIVIL
+### CAPITULO III. TRAFICO DE MENORES
 
 ###### ARTICULO 199.
 
@@ -2293,7 +2203,7 @@ Cuando el delito se cometa en contra de persona menor de edad o mayor de sesenta
 
 Las penas previstas para el delito de despojo se impondrán aunque el derecho a la posesión sea dudoso o esté sujeto al litigio.
 
-### CAPITULO V. BIGAMIA
+### CAPITULO IV. DELITOS CONTRA LA FILIACIÓN Y ESTADO CIVIL
 
 ###### ARTICULO 202.
 
@@ -2313,7 +2223,7 @@ Si las conductas antes previstas recaen en bienes de valor científico, históri
 
 Si el daño recae en bienes de valor científico, cultural o de utilidad pública o se cometa por medio de inundación, incendio, minas, bombas o explosivos la prisión será de 2 a 9 años y de 50 a 500 días multa.
 
-### CAPITULO VI. MATRIMONIOS ILEGALES
+### CAPITULO V. BIGAMIA
 
 ###### ARTICULO 204.
 
@@ -2353,11 +2263,13 @@ Si el Juez lo creyere conveniente, además de las penas previstas para cada uno 
 
 ## TITULO ÚNICO. DELITOS CONTRA LA FAMILIA
 
-### CAPITULO VII. INCESTO
+### CAPITULO VI. MATRIMONIOS ILEGALES
 
 ###### ARTICULO 210.
 
-Al que no proporcione los recursos indispensables de subsistencia de las personas con las que tenga ese deber legal, se le impondrá prisión de 1 a 5 años, suspensión hasta por seis meses o privación de los derechos de familia, en relación con el ofendido y pago, como reparación del daño, de las cantidades no suministradas oportunamente. Los concubinos quedan comprendidos en las disposiciones de este párrafo.
+Al que sin motivo justificado incumpla con sus obligaciones alimenticias en favor de las personas con las que tenga ese deber legal, se le impondrá prisión de 1 a 5 años, suspensión hasta por seis meses o privación de los derechos de familia, en relación con el ofendido y pago, como reparación del daño, de las cantidades no suministradas oportunamente. Los concubinos quedan comprendidos en las disposiciones de este párrafo.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2012)</small>
 
 Para efecto de la reparación del daño, cuando no sea posible demostrar los ingresos del deudor alimentario, el monto de la obligación alimentaria se determinará con base a la capacidad económica y nivel de vida que el deudor y los acreedores alimentarios hayan tenido en el año previo al incumplimiento.
 
@@ -2365,9 +2277,13 @@ Para efecto de la reparación del daño, cuando no sea posible demostrar los ing
 
 ARTICULO 210 BIS.- Las mismas penas se aplicarán al que:
 
-I. Proporcione de forma irregular los recursos necesarios para la subsistencia de las personas con las que tenga obligación alimentaria, en relación con los plazos fijados mediante convenio extrajudicial o en una resolución judicial.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
 
-II. Proporcione de modo parcial los recursos necesarios para la subsistencia de las personas con las que tenga obligación alimentaria, en relación con las cantidades o porcentajes fijados mediante convenio extrajudicial o en una resolución judicial.
+I. Proporcione de forma irregular los recursos a favor de las personas con las que tenga obligación alimentaria, en relación con los plazos fijados en una resolución judicial o por convenio suscrito ante una autoridad distinta a la judicial, en uso de sus atribuciones; y
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+II. Proporcione de modo parcial los recursos a favor de las personas con las que tenga obligación alimentaria, en relación con las cantidades o porcentajes fijados mediante una resolución judicial o en convenio suscrito ante una autoridad distinta a la judicial, en uso de sus atribuciones.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2012)</small>
 
@@ -2393,33 +2309,13 @@ A falta de querella del ofendido o su representante, cuando la víctima sea meno
 
 ARTICULO 211 TER.- No se impondrá pena alguna o quedarán sin efecto las que se hubieren impuesto, cuando el obligado pague todas las cantidades que hubiere dejado de ministrar por concepto de alimentos o se someta al régimen de pago que el Juez o la autoridad ejecutora, en su caso, determinen, garantizando mediante fianza u otra caución, la amortización de las cantidades que en el futuro le corresponda satisfacer, cuando menos por tres meses.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2013)</small>
+
+El beneficio a que se refiere este artículo no podrá ser otorgado más de una sola vez.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2012)</small>
 
-### CAPITULO VIII. VIOLENCIA FAMILIAR
-
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
-
-ARTICULO 217 BIS.- Al cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado o colateral hasta el cuarto grado o por afinidad hasta el segundo grado, al tutor, curador, al adoptante o al adoptado que haga uso de medios físicos o psicoemocionales, así como la omisión grave contra la integridad física o psíquica de un miembro de su familia, independientemente de que se produzcan o no lesiones, se le impondrán de uno a cuatro años de prisión y se le sujetará a tratamiento psicológico especializado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2012)</small>
-
-Cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, las penas previstas en este artículo se incrementarán hasta en una tercera parte.
-
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
-
-ARTICULO 217 TER.- Se considera también constitutivo de violencia familiar y se sancionará con igual pena, cuando se haga uso de los medios señalados en el artículo anterior, en contra de la persona con la que se encuentre unida fuera de matrimonio llevando relación de pareja o de cualquier otra que esté sujeta a la custodia, protección o cuidado de ésta, siempre y cuando el agresor habite en el mismo domicilio.
-
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
-
-ARTICULO 217 QUÁTER.- En los casos previstos en este Capítulo, el Ministerio Público, durante la Averiguación Previa, decretará las medidas y providencias que considere pertinentes, establecidas en la fracción IV del artículo 20 del Código de Procedimientos Penales para el Estado de Querétaro, para proporcionar seguridad y auxilio a las víctimas en salvaguarda de su integridad física y psíquica, y evitar así que el delito se siga cometiendo. Al ejercitar la acción penal en su caso, solicitará al juez acuerde lo conducente para los mismos fines.
-
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
-
-ARTICULO 217 QUINTUS.- Los beneficios jurisdiccionales, incluyendo la suspensión a prueba del procedimiento penal y los beneficios penitenciarios a los que conforme a las leyes vigentes tenga derecho el procesado o reo, respectivamente, únicamente se concederán si además de cumplir con los requisitos establecidos acredita haber recibido de manera completa el tratamiento psicológico especializado. Dicho tratamiento se brindará por las instituciones públicas, sociales o privadas que tengan por función dar el tratamiento o esté en condiciones de hacerlo.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
-
-ARTICULO 217 SEXIES.- Los hechos previstos en este Capítulo se perseguirán por querella, salvo cuando el ofendido sea menor de edad o mayor de sesenta años de edad o persona con discapacidad o que por sus condiciones no esté en aptitud de comprender los alcances de la conducta o resistirse a ella.
+### CAPITULO VII. INCESTO
 
 ###### ARTICULO 212.
 
@@ -2441,39 +2337,37 @@ II. No tenga la guarda y custodia provisional o definitiva o la tutela sobre él
 
 Si el agente devuelve al menor o a la persona que no tenga capacidad para comprender el significado del hecho o para resistirlo, dentro de los 3 días siguientes a la consumación del delito, se le aplicará hasta una mitad las penas arriba señaladas.
 
-### CAPITULO I. PELIGRO DE DEVASTACIÓN
+### CAPITULO VIII. VIOLENCIA FAMILIAR
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
+ARTICULO 217 BIS.- Al cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado o colateral hasta el cuarto grado o por afinidad hasta el segundo grado, al tutor, curador, al adoptante o al adoptado que haga uso de medios físicos o psicoemocionales, así como la omisión grave contra la integridad física o psíquica de un miembro de su familia, independientemente de que se produzcan o no lesiones, se le impondrán de uno a cuatro años de prisión y se le sujetará a tratamiento psicológico especializado.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
+
+Cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad o personas con discapacidad, las penas previstas en este artículo se incrementarán hasta en una tercera parte.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
+
+ARTICULO 217 TER.- Se considera también constitutivo de violencia familiar y se sancionará con pena de uno a cuatro de prisión, cuando se haga uso de los medios señalados en el artículo anterior, en contra de la persona con la que se encuentre unida fuera de matrimonio llevando relación de pareja o de cualquier otra naturaleza, que implique la sujeción del pasivo a la custodia, protección o cuidado del activo, aun cuando los sujetos no convivan en el mismo domicilio.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
+ARTICULO 217 QUATER.- En los casos previstos en este Capítulo, el Ministerio Público, durante la Averiguación Previa, decretará las medidas y providencias que considere pertinentes, establecidas en la fracción IV del artículo 20 del Código de Procedimientos Penales para el Estado de Querétaro, para proporcionar seguridad y auxilio a las víctimas en salvaguarda de su integridad física y psíquica, y evitar así que el delito se siga cometiendo. Al ejercitar la acción penal en su caso, solicitará al juez acuerde lo conducente para los mismos fines.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+
+ARTICULO 217 QUINTUS.- Los beneficios jurisdiccionales, incluyendo la suspensión a prueba del procedimiento penal y los beneficios penitenciarios a los que conforme a las leyes vigentes tenga derecho el procesado o reo, respectivamente, únicamente se concederán si además de cumplir con los requisitos establecidos acredita haber recibido de manera completa el tratamiento psicológico especializado. Dicho tratamiento se brindará por las instituciones públicas, sociales o privadas que tengan por función dar el tratamiento o esté en condiciones de hacerlo.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+
+ARTICULO 217 SEXIES.- Los hechos previstos en este Capítulo se perseguirán por querella, salvo cuando el ofendido sea menor de edad o mayor de sesenta años de edad o persona con discapacidad o que por sus condiciones no esté en aptitud de comprender los alcances de la conducta o resistirse a ella.
 
 ###### ARTICULO 213.
 
-Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia o tutela de un menor o persona que no tenga capacidad para comprender el significado del hecho, aunque aquéllas no hayan sido declaradas, ilegítimamente lo entregue a un tercero para su custodia definitiva a cambio de un beneficio económico, se le aplicará prisión de 2 a 9 años y de 100 a 400 días multa.
+(DEROGADO, P.O. 12 DE JUNIO DE 2013)
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
-
-Las mismas penas se aplicarán a los que otorguen el consentimiento a que se refiere este artículo, al tercero que reciba al menor o a la persona que no tenga capacidad para comprender el significado del hecho y a todas aquellas personas que colaboren en la comisión del ilícito.
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
-
-Si la entrega definitiva del menor o de la persona que no tenga capacidad para comprender el significado del hecho se hace sin la finalidad de obtener un beneficio económico, la pena aplicable al que lo entregue será de 1 a 3 años de prisión.
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
-
-Si se acredita que quien recibió al menor o a la persona que no tenga capacidad para comprender el significado del hecho lo hizo para incorporarlo a su núcleo familiar y otorgarle los beneficios propios de tal situación, se le impondrá prisión de 2 a 5 años y de 80 a 200 días de multa.
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
-
-Cuando en la comisión del delito no exista el consentimiento a que se refiere el párrafo inicial o la persona que trafique o reciba al menor o a la persona que no tenga capacidad para comprender el significado del hecho sea pariente en línea recta sin limitación de grado y en línea transversal hasta el tercer grado, las penas se aumentarán hasta el doble de las previstas en aquél.
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
-
-Cuando el menor o la persona que no tenga capacidad para comprender el significado del hecho sean trasladados fuera del Estado, la pena que resulte aplicable se aumentará en una tercera parte y si dicho traslado es fuera del territorio mexicano, el incremento de la pena será de la mitad.
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
-
-Si el menor o la persona que no tenga capacidad para comprender el significado del hecho es restituido espontáneamente al seno familiar del que se sustrajo o es entregado a la autoridad dentro del plazo de siete días después de ocurrido el hecho, sin haberle causado algún daño, se impondrá una tercera parte de la pena que corresponda.
-
-A quienes teniendo el ejercicio de la patria potestad, tutela o custodia, cometan el delito previsto por este Artículo, se les sancionará, además, con privación de aquel y de los derechos de familia en relación con el ofendido.
-
-### CAPITULO II. ARMAS PROHIBIDAS
+### CAPITULO I. PELIGRO DE DEVASTACIÓN
 
 ###### ARTICULO 214.
 
@@ -2495,19 +2389,25 @@ VII.- Registre o haga registrar un divorcio o nulidad de matrimonio que no hubie
 
 VIII.- Declare falsamente el fallecimiento de una persona en el acta respectiva.
 
-### CAPITULO III. ASOCIACIÓN DELICTUOSA
+### CAPITULO II. ARMAS PROHIBIDAS
 
 ###### ARTICULO 215.
 
 Al que contraiga nuevo matrimonio, sin hallarse legítimamente disuelto el anterior, se le impondrá prisión de 6 meses a 3 años y hasta 150 días multa. Las mismas penas se aplicarán al otro contrayente si conocía el impedimento al tiempo de celebrarse el matrimonio.
 
-### CAPITULO IV. PROVOCACIÓN A COMETER UN DELITO O
-
-APOLOGÍA DE ESTE
+### CAPITULO III. ASOCIACIÓN DELICTUOSA
 
 ###### ARTICULO 216.
 
 Al que fuera del caso de bigamia contraiga matrimonio con conocimiento de la existencia de un impedimento dirimente, se le impondrá prisión de 3 meses a 2 años.
+
+### CAPITULO IV. PROVOCACIÓN A COMETER UN DELITO O APOLOGÍA DE ESTE
+
+###### ARTICULO 217.
+
+A los parientes consanguineos, sean ascendientes, descendientes o hermanos, que con conocimiento de ese parentesco tengan cópula entre sí, se les impondrá prisión de 3 meses a 3 años.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ### CAPITULO V. DEL CLANDESTINAJE
 
@@ -2517,11 +2417,11 @@ ARTICULO 221 BIS.- Al que realice actividades de almacenaje, venta o porteo de b
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2008)</small>
 
-###### ARTICULO 217.
+#### SECCIÓN TERCERA. DELITOS CONTRA LA SOCIEDAD
 
-A los parientes consanguineos, sean ascendientes, descendientes o hermanos, que con conocimiento de ese parentesco tengan cópula entre sí, se les impondrá prisión de 3 meses a 3 años.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2008)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE FEBRERO DE 2008)</small>
+## TITULO PRIMERO. DELITOS DE PELIGRO CONTRA LA SEGURIDAD Y LA SALUD
 
 ### CAPITULO VI. PELIGRO CONTRA LA SALUD PUBLICA
 
@@ -2555,31 +2455,19 @@ III.- Cuando el valor económico de las sustancias, animales o productos de los 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
-#### SECCIÓN TERCERA. DELITOS CONTRA LA SOCIEDAD
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2008)</small>
-
-## TITULO PRIMERO. DELITOS DE PELIGRO CONTRA LA SEGURIDAD Y LA SALUD
-
-### CAPITULO I. ATAQUES A LOS MEDIOS DE TRANSPORTE Y VÍAS
-
-DE COMUNICACIÓN
-
 ###### ARTICULO 218.
 
 Al que mediante incendio, explosión o por cualquier medio creare un peligro común para los bienes o para las personas se le impondrá prisión de 1 a 5 años.
 
-### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO
-
-DE VEHÍCULOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2008)</small>
+### CAPITULO I. ATAQUES A LOS MEDIOS DE TRANSPORTE Y VÍAS DE COMUNICACIÓN
 
 ###### ARTICULO 219.
 
 A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que sólo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas, se le impondrá prisión de 3 meses a 2 años, hasta 25 días multa y decomiso.
 
-### CAPITULO III. VIOLACIÓN DE CORRESPONDENCIA
+### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHÍCULOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 220.
 
@@ -2597,6 +2485,14 @@ A los miembros de la asociación delictiva que tengan facultades de mando o deci
 
 Cuando se trate de un servidor público encargado de prevenir, denunciar, investigar o juzgar la comisión de delitos, que participe de cualquier manera en la asociación delictuosa, las penas correspondientes por los delitos cometidos se aumentaran hasta en una mitad y se les impondrá además destitución e inhabilitación para desempeñar cualquier empleo, cargo o comisión públicos, hasta por un tiempo igual al de la pena impuesta.
 
+### CAPITULO III. VIOLACIÓN DE CORRESPONDENCIA
+
+###### ARTICULO 221.
+
+Al que públicamente provoque a cometer un delito o haga la apología de éste, se le impondrá prisión de 3 meses a 1 año y de 10 a 30 días multa.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO IV. DELITOS CONTRA LA VIA PUBLICA Y SITIOS DE USO COMUN
 
 ARTICULO 229 BIS.- (DEROGADO, P.O. 6 DE AGOSTO DE 1992)
@@ -2605,15 +2501,9 @@ ARTICULO 229 BIS.- (DEROGADO, P.O. 6 DE AGOSTO DE 1992)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
-###### ARTICULO 221.
-
-Al que públicamente provoque a cometer un delito o haga la apología de éste, se le impondrá prisión de 3 meses a 1 año y de 10 a 30 días multa.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2002)</small>
-
 ### CAPITULO V. DELITOS CONTRA LOS SERVICIOS DE EMERGENCIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTPICULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
@@ -2623,21 +2513,11 @@ Las mismas penas se aplicarán al que permita utilizar su teléfono, a sabiendas
 
 Este delito se perseguirá a petición del representante legal de cualquiera de las instituciones cuya movilización se pretenda realizar o se haya realizado, como consecuencia del aviso de emergencia.
 
-### CAPITULO I
-
-FALSIFICACIÓN Y USO INDEBIDO DE SELLOS,
-
-MARCAS, LLAVES, CONTRASEÑAS Y OTROS
-
-OBJETOS
-
-### CAPITULO II. FALSIFICACIÓN Y USO INDEBIDO DE
-
-DOCUMENTOS
+### CAPITULO I. FALSIFICACIÓN Y USO INDEBIDO DE SELLOS, MARCAS, LLAVES, CONTRASEÑAS Y OTROS OBJETOS
 
 ## TITULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LOS MEDIOS DE TRANSPORTE, DE LAS VÍAS DE COMUNICACIÓN Y DE LOS SERVICIOS DE EMERGENCIA
 
-### CAPITULO III. USO DE DOCUMENTOS FALSOS O ALTERADOS
+### CAPITULO II. FALSIFICACIÓN Y USO INDEBIDO DE DOCUMENTOS
 
 ###### ARTICULO 222.
 
@@ -2669,7 +2549,7 @@ Al que por cualquier medio destruya total o parcialmente un vehículo de servici
 
 Cuando se cause algún daño por medio de cualquier vehículo de motor, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos por un tiempo no menor de seis meses ni mayor de cinco años. En caso de reincidencia, la inhabilitación será definitiva.
 
-### CAPITULO IV. USURPACIÓN DE PROFESIONES
+### CAPITULO III. USO DE DOCUMENTOS FALSOS O ALTERADOS
 
 ###### ARTICULO 228.
 
@@ -2691,9 +2571,7 @@ Si este delito se comete por conductores de vehículos de transporte escolar o d
 
 En ambos casos se estará a lo dispuesto en el Artículo 227 de esta Ley.
 
-### CAPITULO I. CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+### CAPITULO IV. USURPACIÓN DE PROFESIONES
 
 ###### ARTICULO 229.
 
@@ -2705,31 +2583,17 @@ En tratándose de cónyuges, concubinos, ascendientes y descendientes, hermanos,
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
+### CAPITULO I. CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO
+
 ### CAPITULO II. PORNOGRAFIA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+## TITULO TERCERO. DELITOS CONTRA LA FE PUBLICA
 
 ### CAPITULO III. TURISMO SEXUAL CON PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO
 
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2011)</small>
-
-ARTICULO 238 BIS.- Al que promueva, publicite, invite, facilite o gestione por cualquier medio a persona o personas a que viajen al interior o exterior del territorio del Estado, con la finalidad de que sostengan actos erótico sexuales con menores de dieciocho años de edad o con personas que no tengan capacidad para comprender el significado del hecho o para que éste o éstos viajen con esa finalidad o financie cualquiera de las actividades antes descritas, se le impondrá una pena de 4 a 8 años de prisión y de 100 a 400 días multa.
-
-A quien tenga actos erótico sexuales con persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, en virtud de las conductas antes descritas, se le impondrá una pena de 6 a 12 años de prisión y de 200 a 500 días multa.
+ARTICULO 238 BIS.- (DEROGADO, P.O. 12 DE JUNIO DE 2013)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
-
-## TITULO TERCERO. DELITOS CONTRA LA FE
-
-PUBLICA
-
-### CAPITULO IV. RELACIONES SEXUALES REMUNERADAS CON PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2011)</small>
-
-ARTICULO 238 TER.- Al que pague con dinero o en especie, a la víctima o a un tercero, para obtener cópula o sostener actos erótico sexuales con una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, se le impondrá pena de 6 a 12 años de prisión y de 200 a 500 días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 230.
 
@@ -2739,11 +2603,9 @@ Si los objetos falsificados o alterados son propiedad de un particular, la sanci
 
 Al que use indebidamente cualquiera de los objetos arriba señalados, se le aplicarán las penas previstas en el párrafo anterior.
 
-### CAPITULO ÚNICO. DELITOS CONTRA EL RESPETO A LOS MUERTOS
+### CAPITULO IV. RELACIONES SEXUALES REMUNERADAS CON PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
-Y CONTRA LAS NORMAS DE INHUMACIÓN Y
-
-EXHUMACIÓN
+ARTICULO 238 TER.- (DEROGADO, P.O. 12 DE JUNIO DE 2013)
 
 ###### ARTICULO 231.
 
@@ -2799,11 +2661,23 @@ En el caso de que se actualicen otros delitos con motivo de las conductas a que 
 
 Cuando alguno de los delitos previstos en este Capítulo sea ejecutado por un servidor público en ejercicio de sus funciones, será penado, además, con privación del empleo e inhabilitación para ocupar otro cargo público hasta por 3 años.
 
-### CAPITULO ÚNICO. RESPONSABILIDAD PROFESIONAL
+### CAPITULO ÚNICO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACIÓN Y EXHUMACIÓN
 
 ###### ARTICULO 234.
 
 Al que haga uso de un documento falso o alterado para obtener un beneficio o causar daño, se le impondrá prisión de 3 meses a 3 años y de 15 a 90 días multa.
+
+### CAPITULO ÚNICO. RESPONSABILIDAD PROFESIONAL
+
+###### ARTICULO 235.
+
+Al que, sin serlo, se atribuya el carácter de profesionista, ofrezca públicamente sus servicios como tal o realice actividades propias de una profesión sin tener el título correspondiente o sin la debida autorización, se le impondrá prisión de 3 meses a 5 años y de 20 a 200 días multa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
+
+## TITULO CUARTO. DELITOS CONTRA El LIBRE DESARROLLO DE LA PERSONALIDAD
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
 ### CAPITULO UNICO. DELITOS CONTRA EL AMBIENTE
 
@@ -2843,19 +2717,19 @@ III. La reparación del daño, en los términos de las disposiciones aplicables.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2002)</small>
 
-###### ARTICULO 235.
+###### ARTICULO 236.
 
-Al que, sin serlo, se atribuya el carácter de profesionista, ofrezca públicamente sus servicios como tal o realice actividades propias de una profesión sin tener el título correspondiente o sin la debida autorización, se le impondrá prisión de 3 meses a 5 años y de 20 a 200 días multa.
+(DEROGADO, P.O. 12 DE JUNIO DE 2013)
+
+###### ARTICULO 237.
+
+(DEROGADO, P.O. 12 DE JUNIO DE 2013)
+
+ARTICULO 237 BIS.- (DEROGADO, P.O. 12 DE JUNIO DE 2013)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
-## TITULO CUARTO. DELITOS CONTRA El LIBRE DESARROLLO DE LA PERSONALIDAD
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
-
-### CAPITULO ÚNICO. DELITOS CONTRA LA SEGURIDAD Y EL
-
-ORDEN EN EL DESARROLLO URBANO
+### CAPITULO ÚNICO. DELITOS CONTRA LA SEGURIDAD Y EL ORDEN EN EL DESARROLLO URBANO
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2002)</small>
 
@@ -2877,41 +2751,9 @@ En cualquier caso, la sanción se incrementará de 3 meses a 3 años, si el suje
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 236.
+###### ARTICULO 238.
 
-Comete el delito de corrupción, el que procure, facilite, induzca, fomente, propicie, promueva o favorezca la corrupción de una persona menor de dieciocho años de edad o que no tengan capacidad para comprender el significado del hecho o capacidad de resistirlo, mediante acciones u omisiones tendientes o que concluyan en la realización de actos sexuales o conductas depravadas. A quien cometa este delito se le aplicará de 2 a 10 años de prisión y de 100 a 350 días multa.
-
-La misma pena se impondrá a quien obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca el consumo reiterado de bebidas embriagantes o la generación o práctica de algún otro vicio o que induzca a persona menor de dieciocho años de edad a formar parte de grupos de delincuencia organizada, involucrarse en una asociación delictuosa o pandilla o a cometer cualquier delito.
-
-A quien obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca el consumo de narcóticos o de sustancias tóxicas por parte de una persona menor de edad o que no tengan la capacidad de comprender el significado del hecho, se le aplicará pena de 3 a 12 años de prisión y de 150 a 450 días multa.
-
-Cuando los actos de corrupción se realicen reiteradamente sobre la misma persona menor de edad o que no tenga capacidad para comprender el significado del hecho y, debido a ello, éstos adquieren los hábitos del alcoholismo, de adicción a narcóticos, de sustancias tóxicas u otras que produzcan efectos similares o a formar parte de delincuencia organizada, asociación delictuosa o pandilla, la sanción señalada en los párrafos anteriores se aumentará en un tercio de la misma.
-
-Todo sujeto pasivo de este delito, quedará sujeto a los tratamientos médicos y psicológicos adecuados para su recuperación, de acuerdo con las medidas que al efecto sean establecidas por el Ministerio Público en cualquier momento de la averiguación previa y que, en su caso, deberán ser ratificadas o modificadas por el juez que conozca de la consignación correspondiente. En ambos casos, si se hace necesario, dichas medidas se harán cumplir coercitivamente.
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
-
-###### ARTICULO 237.
-
-Al que emplee a una persona menor de dieciocho años de edad o a quienes no tuvieren capacidad para comprender el significado del hecho, en lugares que por su naturaleza sean nocivos a su formación moral, psicológica, o su óptimo desarrollo físico, se le impondrá prisión de 3 meses a 1 año, sin perjuicio de la aplicación de· las sanciones administrativas a que haya lugar.
-
-A los padres o tutores que acepten que las personas menores de edad o que no tengan capacidad para comprender el significado del hecho, sujetas a su patria potestad, custodia o tutela, se empleen en los referidos establecimientos, se les impondrá prisión de 6 meses a 2 años.
-
-Para los efectos de este precepto se considerará que es empleado, la persona menor de 18 años de edad o la que no tuvieren (sic) capacidad para comprender el significado del hecho que preste sus servicios por un salario, gratuitamente o por cualquier prestación.
-
-Las anteriores sanciones se impondrán sin perjuicio del concurso de delitos.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2011)</small>
-
-ARTICULO 237 BIS.- A quien permita el acceso de una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, se le impondrá prisión de 1 a 3 años y de 20 a 200 días multa.
-
-Las mismas penas se impondrán al que ejecute o haga ejecutar a otra persona actos de exhibición sexual ante personas menores de dieciocho años de edad o que no tengan capacidad para comprender el significado del hecho.
-
-A quien por cualesquier medio venda, difunda o exhiba material pornográfico entre menores de edad o personas que no tengan capacidad para comprender el significado del hecho, se le impondrá prisión de 6 meses a 1 año y de 10 a 150 días multa.
-
-Se impondrá pena de 4 a 8 años de prisión y de 100 a 300 días multa a quien induzca, facilite, procure, propicie u obligue a una persona menor de edad o que no tenga la capacidad para comprender el significado del hecho o capacidad para resistirlo, a realizar, por cualquier medio y sin fines comerciales, actos o exhibiciones eróticos o sexuales, públicos o privados.
-
-No se actualizarán estos delitos tratándose de programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
+(DEROGADO, P.O. 12 DE JUNIO DE 2013)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
@@ -2919,43 +2761,11 @@ No se actualizarán estos delitos tratándose de programas preventivos, educativ
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 238.
-
-Comete el delito de pornografía de personas menores de dieciocho años de edad o que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo:
-
-I. Quien produzca, fije, grabe, videograbe, fotografíe o filme de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho o capacidad para resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio, en las que se manifiesten actividades de exhibicionismo corporal, sexuales o eróticas, explícitas o no, reales o simuladas;
-
-II. Quien reproduzca, publique, ofrezca, publicite, almacene, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o que no tenga la capacidad para comprender el significado del hecho o capacidad para resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades de exhibicionismo corporal, sexuales o eróticas, explícitas o no, reales o simuladas;
-
-III. Quien posea intencionalmente imágenes, sonidos o la voz de personas menores de edad o que no tengan la capacidad de comprender el significado del hecho o capacidad para resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades de exhibicionismo corporal, sexuales o eróticas, explícitas o no, reales o simuladas; y
-
-IV. Quien financie, dirija, administre o supervise cualquiera de las actividades previstas en las fracciones anteriores.
-
-Al autor de los delitos previstos en las fracciones I y II, se le impondrá la pena de 2 a 10 años de prisión y de 100 a 600 días multa. Al autor de los delitos previstos en la fracción III, se le impondrá la pena de un 1 a 5 años de prisión y de 100 a 300 días multa. A quien cometa el delito previsto en la fracción IV, se le impondrá pena de prisión de 2 a 12 años y de 300 a 600 días multa.
-
-Las anteriores sanciones se impondrán sin perjuicio del concurso de delitos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
-
 ### CAPITULO I. SEDICIÓN
-
-### CAPITULO II. MOTÍN
 
 ###### ARTICULO 239.
 
-Las penas que resulten aplicables por los delitos previstos en los Capítulos I, II, III y IV de este Título, se duplicarán si concurre alguna de las circunstancias siguientes:
-
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2011)</small>
-
-I. Que el sujeto activo se valga de la función pública o privada, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan. En el primer caso, además, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro; si el sujeto activo fuera un profesionista, se le suspenderá del ejercicio de la profesión u oficio, por un tiempo igual al de la pena de prisión impuesta; para el caso de que el sujeto activo realice funciones de servicio público y privadas respecto de alguna profesión, podrá ser destituido del empleo cargo o comisión públicos e inhabilitado para desempeñar otro y se le suspenderá del ejercicio de la profesión u oficio, por un tiempo igual al de la pena de prisión impuesta; o
-
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2011)</small>
-
-II. Que el sujeto activo del delito tenga parentesco por consanguinidad o afinidad hasta el cuarto grado o habite ocasional o permanentemente en el mismo domicilio que la víctima o tenga una relación análoga al parentesco con el sujeto pasivo.
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
-
-Los sujetos activos de los delitos a que se refieren los Capítulos I, II, III y IV de este Título, quedarán inhabilitados para ser tutores o curadores hasta por cinco años y serán privados, en su caso, del ejercicio de la patria potestad sobre la víctima.
+(DEROGADO, P.O. 12 DE JUNIO DE 2013)
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2002)</small>
 
@@ -2967,15 +2777,9 @@ I. Elabore, reproduzca, venda, arriende, exponga, publique o transmita el materi
 
 II. Procure o facilite la realización de las conductas ilícitas señaladas en el presente artículo.
 
-## TITULO QUINTO. DELITOS CONTRA EL RESPETO A
+## TITULO QUINTO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACIÓN Y EXHUMACIÓN
 
-LOS MUERTOS Y CONTRA LAS
-
-NORMAS DE INHUMACIÓN Y
-
-EXHUMACIÓN
-
-### CAPITULO III. REBELIÓN
+### CAPITULO II. MOTÍN
 
 ###### ARTICULO 240.
 
@@ -2989,11 +2793,9 @@ II.- Sustraiga o esparza las cenizas de un cadáver o restos humanos o cometa ac
 
 Al que profane un cadáver con actos de necrofilia, se le impondrá prisión de 1 a 3 años y de 30 a 150 días multa.
 
-## TITULO SEXTO. DELITOS COMETIDOS EN EL
+## TITULO SEXTO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESIÓN
 
-EJERCICIO DE LA PROFESIÓN
-
-### CAPITULO IV. TERRORISMO
+### CAPITULO III. REBELIÓN
 
 ###### ARTICULO 242.
 
@@ -3049,23 +2851,21 @@ A los encargados, empleados o dependientes de farmacias que al surtir una receta
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE 2000)</small>
 
+### CAPITULO IV. TERRORISMO
+
 ### CAPITULO V. SABOTAJE
 
-### CAPITULO VI. CONSPIRACIÓN
-
-## TITULO OCTAVO. DELITOS CONTRA LA SEGURIDAD Y EL
-
-ORDEN EN EL DESARROLLO URBANO
+## TITULO OCTAVO. DELITOS CONTRA LA SEGURIDAD Y EL ORDEN EN EL DESARROLLO URBANO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2002)</small>
 
-### CAPITULO VII. DISPOSICIONES COMUNES
+### CAPITULO VI. CONSPIRACIÓN
 
 ## TÍTULO NOVENO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO VII. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 246-H.
 
@@ -3081,15 +2881,9 @@ Cuando la persona que realiza los actos jurídicos, con alguno de los resultados
 
 #### SECCIÓN CUARTA. DELITOS CONTRA EL ESTADO
 
-## TITULO PRIMERO. DELITOS CONTRA LA
+## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
-SEGURIDAD INTERIOR DEL
-
-ESTADO
-
-### CAPITULO II. DESEMPEÑO INDEBIDO Y ABANDONO DEL SERVICIO PÚBLICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2012)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 247.
 
@@ -3097,9 +2891,9 @@ A los que en forma tumultuaria, sin uso de armas, resistan o ataquen a la autori
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición se les sancionará con prisión de 2 a 12 años.
 
-### CAPITULO III. DESEMPEÑO IRREGULAR DE LAS FUNCIONES
+### CAPITULO II. DESEMPEÑO INDEBIDO Y ABANDONO DEL SERVICIO PÚBLICO
 
-PUBLICAS
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 248.
 
@@ -3107,7 +2901,7 @@ A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar 
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín se les aplicará prisión de 2 a 12 años.
 
-### CAPITULO IV. ABUSO DE AUTORIDAD
+### CAPITULO III. DESEMPEÑO IRREGULAR DE LAS FUNCIONES PUBLICAS
 
 ###### ARTICULO 249.
 
@@ -3147,9 +2941,7 @@ Los rebeldes no serán responsables de los homicidios ni de las lesiones inferid
 
 No se aplicará pena alguna por el delito de rebelión a los que depongan las armas antes de ser tomados prisioneros salvo que hubieran cometido otros delitos durante la rebelión o los que se mencionan en el artículo anterior.
 
-### CAPITULO V. INTIMIDACIÓN
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+### CAPITULO IV. ABUSO DE AUTORIDAD
 
 ###### ARTICULO 254.
 
@@ -3157,7 +2949,7 @@ Se impondrá prisión de 3 a 30 años, sin perjuicio de las penas que correspond
 
 Se aplicará prisión de 1 a 9 años, al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades.
 
-### CAPITULO VI. COALICIÓN DE SERVIDORES PÚBLICOS
+### CAPITULO V. INTIMIDACIÓN
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
@@ -3173,7 +2965,7 @@ III.- Recursos o elementos esenciales, destinados al mantenimiento del orden pú
 
 Se aplicará prisión de 6 meses a 5 años, al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
 
-### CAPITULO VII. PECULADO
+### CAPITULO VI. COALICIÓN DE SERVIDORES PÚBLICOS
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
@@ -3181,7 +2973,7 @@ Se aplicará prisión de 6 meses a 5 años, al que teniendo conocimiento de las 
 
 A quienes resuelvan de concierto (sic) cometer uno o varios delitos del presente Título y acuerden los medios de llevar a cabo su determinación, se les impondrá prisión de 1 a 5 años.
 
-### CAPITULO VIII. COHECHO
+### CAPITULO VII. PECULADO
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
@@ -3197,13 +2989,9 @@ Tratándose de extranjeros se aumentarán hasta la mitad las penas previstas par
 
 A los mexicanos que cometan algún delito de carácter político, se les privará de sus derechos políticos o se les suspenderá en el ejercicio de éstos hasta por 8 años, contados a partir de que se extinga la pena de prisión o la potestad de ejecutarla.
 
-## TITULO SEGUNDO. DELITOS CONTRA EL SERVICIO
+## TITULO SEGUNDO. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR LOS SERVIDORES PÚBLICOS
 
-PUBLICO COMETIDOS POR LOS
-
-SERVIDORES PÚBLICOS
-
-### CAPITULO IX. CONCUSIÓN
+### CAPITULO VIII. COHECHO
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
@@ -3233,9 +3021,9 @@ Una vez que haya causado ejecutoria la sentencia, el Juez deberá notificar a la
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2012)</small>
 
-### CAPITULO X. ENRIQUECIMIENTO ILÍCITO
+### CAPITULO IX. CONCUSIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 261.
 
@@ -3263,15 +3051,15 @@ VI. Por sí o por interpósita persona, rinda informes a su superior jerárquico
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
-### CAPITULO XI. NEGOCIACIONES ILÍCITAS
+### CAPITULO X. ENRIQUECIMIENTO ILÍCITO
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 262.
 
 Comete el delito de abandono del servicio público, el servidor público que sin causa justificada y en perjuicio del servicio abandone las funciones que legalmente tenga conferidas.
 
-### CAPITULO XII. TRAFICO DE INFLUENCIA
+### CAPITULO XI. NEGOCIACIONES ILÍCITAS
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
@@ -3309,7 +3097,9 @@ Cuando el monto del producto del delito o de los daños o perjuicios causados ex
 
 Además de la (sic) penas establecidas en el primer párrafo de este artículo, en el caso de las conductas previstas en la fracción XI, se impondrá al servidor público que resulte responsable de ellas, la destitución e inhabilitación de seis meses a tres años para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO I. PROMOCIÓN DE CONDUCTAS ILÍCITA
+### CAPITULO XII. TRAFICO DE INFLUENCIA
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 264.
 
@@ -3337,29 +3127,25 @@ VI.- Haga que se le entreguen fondos, valores u otra cosa que no se le haya conf
 
 Al que cometa el delito de abuso de autoridad se le aplicará prisión de 1 a 6 años y de 30 a 300 días multa, penas que se aumentarán hasta en una mitad más por el caso previsto en la fracción VI de este Artículo.
 
-### CAPITULO II. COHECHO COMETIDO POR PARTICULARES
+### CAPITULO I. PROMOCIÓN DE CONDUCTAS ILÍCITA
 
 ###### ARTICULO 265.
 
 Comete el delito de intimidación, el servidor público que por sí o por interpósita persona, intimide a cualquier otra utilizando la violencia física o moral, para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la comisión de un delito.
 
-### CAPITULO III. ADQUISICIÓN U OCULTACION INDEBIDA DE
-
-RECURSOS PÚBLICOS
+### CAPITULO II. COHECHO COMETIDO POR PARTICULARES
 
 ###### ARTICULO 266.
 
 Cometen el delito de coalición de servidores públicos, los servidores públicos que de común acuerdo tomen medidas contrarias a una Ley, reglamento o disposición de carácter general, impidan su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas.
 
-### CAPITULO IV. FALSEDAD ANTE AUTORIDADES
+### CAPITULO III. ADQUISICIÓN U OCULTACION INDEBIDA DE RECURSOS PÚBLICOS
 
 ###### ARTICULO 267.
 
 Comete el delito de peculado el servidor público que para provecho propio o ajeno, desvíe o sustraiga dinero, valores o cualquier otro bien perteneciente a los Poderes, dependencias o entidades de la administración pública del Estado, de un Municipio o de un particular, si por razón de su cargo lo tuviere recibido en administración, en depósito, en resguardo o por concepto de fianza u otra causa.
 
-### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE
-
-PARTICULARES
+### CAPITULO IV. FALSEDAD ANTE AUTORIDADES
 
 ###### ARTICULO 268.
 
@@ -3367,13 +3153,13 @@ Comete el delito de cohecho el servidor público que por sí o por interpósita 
 
 En ningún caso se devolverán a los responsables del delito de cohecho, el dinero o dádivas que se hubiesen entregado.
 
-### CAPITULO VI. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 ###### ARTICULO 269.
 
 Comete el delito de concusión el servidor público que con ese carácter y a titulo de impuesto o contribución, recargo, renta, réditos, salario o emolumentos, exija por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no ser debida o en mayor cantidad que la señalada por la Ley.
 
-### CAPITULO VII. DELITOS CONTRA SERVIDORES PUBLICOS EN EJERCICIO DE SUS FUNCIONES
+### CAPITULO VI. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTICULO 270.
 
@@ -3381,29 +3167,25 @@ Comete el delito de enriquecimiento ilícito el servidor público que con motivo
 
 Los bienes cuya legítima procedencia no se logre acreditar, serán decomisados en beneficio del Estado.
 
-### CAPITULO VIII. USURPACIÓN DE FUNCIONES PUBLICAS
+### CAPITULO VII. DELITOS CONTRA SERVIDORES PUBLICOS EN EJERCICIO DE SUS FUNCIONES
 
 ###### ARTICULO 271.
 
 Comete el delito de negociaciones ilícitas el servidor público que en el desempeño de sus atribuciones y facultades otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones, efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público o a otra persona ajena a la relación que como servidor público tiene o cause perjuicios patrimoniales a los Poderes, dependencias o entidades de la administración pública del Estado o Municipios o que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público, haga por sí o por interpósita persona, inversiones, enajenaciones, adquisiciones o cualquiera otro acto que le produzca algún beneficio económico indebido al servidor público, a su cónyuge o a sus parientes consanguíneos o por afinidad hasta el cuarto grado o a sociedades de las que el agente forme parte.
 
-### CAPITULO IX. USO INDEBIDO DE UNIFORMES OFICIALES Y
-
-CONDECORACIONES
+### CAPITULO VIII. USURPACIÓN DE FUNCIONES PUBLICAS
 
 ###### ARTICULO 272.
 
 Comete el delito de tráfico de influencias el servidor público que por sí o por interpósita persona solicite, promueva o gestione la tramitación o resolución ilícita de negocios públicos o cualquier acto ajeno a las responsabilidades inherentes a su empleo, cargo o comisión, para obtener beneficios económicos para sí o para cualquier persona.
 
-### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES
-
-PÚBLICOS
+### CAPITULO IX. USO INDEBIDO DE UNIFORMES OFICIALES Y CONDECORACIONES
 
 ###### ARTICULO 273.
 
 Al particular que promueva una conducta ilícita de un servidor público o se preste para que él mismo o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, se le impondrá prisión de 3 meses a 4 años y de 10 a 100 días multa.
 
-### CAPITULO II. FRAUDE PROCESAL
+### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PÚBLICOS
 
 ###### ARTICULO 274.
 
@@ -3413,9 +3195,7 @@ Al particular que de manera expontánea (sic) dé u ofrezca dinero o cualquier o
 
 El juez podrá imponer al cohechador hasta una tercera parte de las penas señaladas en el artículo anterior o, a su juicio, eximirlo de las mismas, cuando denuncie espontáneamente el delito cometido o cuando hubiere actuado para beneficiar a una persona con la que lo ligue un vínculo familiar.
 
-### CAPITULO III. IMPUTACIÓN DE HECHOS FALSOS Y SIMULACIÓN
-
-DE PRUEBAS
+### CAPITULO II. FRAUDE PROCESAL
 
 ###### ARTICULO 276.
 
@@ -3437,31 +3217,21 @@ Además de las penas a que se refiere el artículo anterior el perito, intérpre
 
 Al que sin causa legítima rehusare prestar un servicio al que la ley obligue o desobedeciere un mandato legítimo de la autoridad se le impondrá prisión de 3 meses a 1 año y hasta 20 días multa.
 
-### CAPITULO IV. SUSTRACCIÓN, DESTRUCCIÓN, ALTERACIÓN O
+### CAPITULO III. IMPUTACIÓN DE HECHOS FALSOS Y SIMULACIÓN DE PRUEBAS
 
-DAÑO DE ACTUACIONES U OBJETOS
+### CAPITULO IV. SUSTRACCIÓN, DESTRUCCIÓN, ALTERACIÓN O DAÑO DE ACTUACIONES U OBJETOS RELACIONADOS CON ELLAS
 
-RELACIONADOS CON ELLAS
+## TITULO TERCERO. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR PARTICULARES
 
 ### CAPITULO V. EVASIÓN DE PERSONAS ASEGURADAS
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2002)</small>
 
-## TITULO TERCERO. DELITOS CONTRA EL SERVICIO
-
-PUBLICO COMETIDOS POR
-
-PARTICULARES
-
-### CAPITULO VI. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS
-
-DE LIBERTAD Y MEDIDAS DE SEGURIDAD
-
 ###### ARTICULO 280.
 
 Al que debiendo declarar ante la autoridad y sin que le beneficien las excepciones legales se niegue a otorgar la protesta de ley o a declarar, se le impondrán de 3 meses a 2 años de prisión y hasta 20 días multa.
 
-### CAPITULO VII. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPITULO VI. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 281.
 
@@ -3473,19 +3243,15 @@ Al que procure con actos materiales impedir la ejecución de una obra o trabajos
 
 Cuando el delito se cometa por varias personas de común acuerdo se les aplicará prisión de 1 a 2 años y de 20 a 40 días multa. Si se usare violencia, las penas se aumentarán hasta, en una mitad más.
 
-### CAPITULO VIII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPITULO VII. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 ###### ARTICULO 283.
 
 Cuando la Ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiere empleado algún medio de apremio.
 
-## TITULO CUARTO. DELITOS CONTRA LA
+## TITULO CUARTO. DELITOS CONTRA LA ADMINISTRACIÓN DE JUSTICIA
 
-ADMINISTRACIÓN DE JUSTICIA
-
-### CAPITULO IX. DELITOS DE ABOGADOS, DEFENSORES Y
-
-LITIGANTES
+### CAPITULO VIII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### ARTICULO 284.
 
@@ -3501,9 +3267,7 @@ Al que de palabra o de obra insulte o injurie a una autoridad en el ejercicio de
 
 ARTICULO 285 BIS.- Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, cuando se tenga conocimiento de esa circunstancia, se le aplicarán de uno a cinco años de prisión, además de la que le corresponda por el delito cometido.
 
-### CAPITULO X. DE LA TORTURA
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
+### CAPITULO IX. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
 ###### ARTICULO 286.
 
@@ -3583,9 +3347,9 @@ Se entenderá simulado el juicio que se siga en contra de un depositario, si tra
 
 También se entenderá simulado el que se siga contra cualquier otra persona, si con ese motivo se desposee al depositario de la cosa previamente embargada o secuestrada en otro juicio o procedimiento, siempre que éste no la reclame dentro de los 3 días siguientes.
 
-### CAPITULO ÚNICO. DELITOS COMETIDOS CONTRA LA SEGURIDAD, CERTEZA Y EFICACIA DEL SUFRAGIO
+### CAPITULO X. DE LA TORTURA
 
-(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 291.
 
@@ -3594,6 +3358,10 @@ Al que con el propósito de inculpar a alguien como responsable de un delito, le
 No se procederá contra el agente sino después de que se dicte resolución irrevocable que ponga fin al proceso que se le instruye por el delito imputado.
 
 Son aplicables por este delito, en lo conducente, los Artículos 178, 179 y 180 de este Código.
+
+### CAPITULO ÚNICO. DELITOS COMETIDOS CONTRA LA SEGURIDAD, CERTEZA Y EFICACIA DEL SUFRAGIO
+
+(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 292.
 
@@ -4247,7 +4015,7 @@ ARTÍCULO SEGUNDO Se concede un plazo de 30 días naturales, contados a partir d
 
 ###### ARTÍCULO TERCERO.
 
-Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+Se derogan todas las disposiciones de igualo menor jerarquía que se opongan a la presente Ley.
 
 P.O. 20 DE JUNIO DE 2008.
 
@@ -4413,7 +4181,7 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 P.O. 8 DE JUNIO DE 2012.
 
-LEY QUE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO SEGUNDO, SECCIÓN CUARTA, PARTE ESPECIAL DEL LIBRO SEGUNDO Y REFORMA LOS ARTICULOS 260, 261, 262, 264, 265, 266, 267, 268, 269, 270, 271 Y 272 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
+LEY QUE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO SEGUNDO, SECCIÓN CUARTA, PARTE ESPECIAL DEL LIBRO SEGUNDO Y REFORMA LOS ARTÍCULOS 260, 261, 262, 264, 265, 266, 267, 268, 269, 270, 271 Y 272 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
@@ -4464,3 +4232,9 @@ P.O. 18 DE DICIEMBRE DE 2012.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igualo menor jerarquía que se opongan a la presente Ley.
+
+P.O. 12 DE JUNIO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
