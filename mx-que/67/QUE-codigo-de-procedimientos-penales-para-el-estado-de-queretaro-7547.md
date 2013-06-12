@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2012-11-07"
+last_updated: "2013-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -863,11 +863,11 @@ V.- El asalto en el supuesto señalado en el artículo 157;
 
 VI.- La violación en los supuestos de los artículos 160, 161, 162 y 163;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
+VII.- El robo previsto en la fracción III, del artículo 182, en los supuestos establecidos en los artículos 183, fracciones II, III, IV, V, VI y VIII y 183 BIS; así como el robo previsto en las fracciones I, II y III del artículo 182, en los supuestos establecidos en los artículos 183, fracciones I y VII y 183 TER del Código Penal.
 
-VII.- El robo previsto en la fracción III del artículo 182 en los supuestos establecidos en los artículos 183, fracciones II, III, IV, V, VI y VIII y 183 BIS; así como el robo previsto en las fracciones I, II y III del artículo 182 en los supuestos establecidos en los artículos 183, fracciones I y VII, 183 TER Y 183 QUÁTER del Código Penal.
+El robo previsto en el artículo 183 QUÁTER cuando el valor de lo robado exceda de 300 veces el salario mínimo.
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2011)</small>
 
@@ -933,19 +933,19 @@ XXII.- Delitos contra la seguridad y el orden en el desarrollo urbano, en los ca
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-XXIII. Delitos de peligro contra la salud pública, en los casos previstos por los artículos 221 BIS-A fracciones I, III, V y VI en los casos de servidores públicos y 221 BIS-B del Código Penal;
+XXIII.- Delitos de peligro contra la salud pública, en los casos previstos por los artículos 221 BIS-A fracciones I, III, V y VI en los casos de servidores públicos y 221 BIS-B del Código Penal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+XXIV.- La extorsión prevista en el artículo 198 del Código Penal;
 
-XXIV. La extorsión prevista en el artículo 198 del Código Penal; y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXV.- Los delitos contra la salud en la modalidad de narcomenudeo, en los casos y condiciones señaladas por la fracción XV del artículo 194 del Código Federal de Procedimientos Penales, en relación con las fracciones I, II y III del artículo 464 Ter y en los artículos 475 y 476 de la Ley General de Salud; y
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2013)</small>
 
-XXV. Los delitos contra la salud en la modalidad de narcomenudeo, en los casos y condiciones señaladas por la fracción XV del artículo 194 del Código Federal de Procedimientos Penales, en relación con las fracciones I, II y III del artículo 464 Ter y en los artículos 475 y 476 de la Ley General de Salud.
+XXVI.- El feminicidio previsto en el artículo 126 BIS del Código Penal.
 
 > <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
@@ -1601,6 +1601,34 @@ ARTICULO 239 (Conservación de las cosas recogidas).- Las cosas inventariadas co
 
 ARTICULO 240 (Vista de las cosas recogidas).- Siempre que sea necesario tener a la vista alguna de las cosas a que se refieren los artículos anteriores, se comenzará la diligencia haciendo constar si se encuentra en el mismo estado en que estaba al ser recogida. Si se considera que ha sufrido alteración voluntaria o accidental, se expresarán los signos o señales que la hagan presumir.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2013)</small>
+
+ARTICULO 240 BIS.- (Necropsia en el delito de feminicidio).- En tratándose del delito de feminicidio, la necropsia del cadáver estará a cargo de dos peritos que la practicarán expresando con minuciosidad el estado que guarda y las causas que originan la muerte.
+
+Tratándose de este delito no será dispensable la necropsia.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2013)</small>
+
+ARTICULO 240 TER.- (Perspectiva de género en la investigación del delito de feminicidio).- El Ministerio Público, la policía y los peritos oficiales procederán a la investigación del delito de feminicidio con estricto apego a los protocolos especializados, con perspectiva de género y respetando en todo momento la cadena de custodia.
+
+La inobservancia de las obligaciones señaladas en el párrafo anterior, será motivo de responsabilidad de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2013)</small>
+
+ARTICULO 240 QUÁTER.- (Registros fotográficos en la investigación del delito de feminicidio).- El Ministerio Público debe conservar un registro fotográfico de la víctima de feminicidio, de la descripción de sus lesiones, objetos y vestimenta con que haya sido encontrada.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2013)</small>
+
+ARTICULO 240 QUINTUS.- (Estudios de ácido desoxirribonucleico en la investigación del delito de feminicidio).- Cuando los cadáveres no sean identificados o no puedan ser reconocidos, los peritos deben realizar un estudio para determinar el ácido desoxirribonucleico (ADN) de la víctima de feminicidio, que se integrará al Banco de Datos de Información Genética, a cargo de la Procuraduría General de Justicia del Estado, junto con la información genética de familiares de presuntas víctimas de feminicidio, cuando así lo soliciten o por orden judicial.
+
+El Tribunal Superior de Justicia del Estado y la Procuraduría General de Justicia, celebrarán los convenios de coordinación y colaboración que se requieran con sus similares de la Federación o de otras entidades federativas y los propios de concertación con instituciones de los sectores social y privado, a fin de cumplimentar debidamente lo dispuesto en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2013)</small>
+
+ARTICULO 240 SEXTUS.- (Identificación de cadáveres de las víctimas de feminicidio).- Los cadáveres de las víctimas de feminicidio podrán ser identificados por medio de testigos, técnicas periciales de retrato hablado y si esto no fuere posible, se hará mediante fotografías, videograbaciones u otros medios electrónicos, agregando a la indagatoria un tanto del ejemplar, disco o archivo generado, fijando las imágenes correspondientes en oficinas y lugares públicos, con los datos que puedan servir para que las víctimas sean reconocidas, exhortando a quienes las conocieren a que se presenten ante las autoridades ministeriales o judiciales, a proporcionar los datos con los que cuenten, en su caso.
+
+Los vestidos se describirán minuciosamente en el expediente y se conservarán en depósito seguro para que puedan ser presentados a los testigos de identidad.
+
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2008)</small>
 
 ### CAPITULO III BIS
@@ -1768,6 +1796,10 @@ ARTICULO 255 (Definitividad del no ejercicio de la acción penal).- Las resoluci
 ARTICULO 256 (Reserva).- Cuando a juicio del agente del Ministerio Público, de las diligencias practicadas no resulten elementos bastantes para hacer la consignación al Juzgado, pero con posterioridad pudieran allegarse datos para proseguir la averiguación, se reservará el expediente hasta que aparezcan esos datos.
 
 Las averiguaciones cuya reserva haya sido determinada por los agentes del Ministerio Público del conocimiento, serán turnadas a la Dirección de Averiguaciones Previas para su aprobación, quien de considerar que existe alguna diligencia por desahogar, la devolverán, ordenando la práctica de dicha diligencia.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2013)</small>
+
+ARTICULO 256 BIS.- (Consulta al Procurador General de Justicia, para práctica de nuevas diligencias o retrámite de averiguación).- En los casos en que el Ministerio Público, habiendo agotado la práctica de las diligencias probatorias por él ordenadas o las ofrecidas por el imputado o su defensor, considere que no se reúnen los elementos del cuerpo del delito de feminicidio, realizará la consulta respectiva al Procurador General de Justicia, a fin de que éste determine la práctica de nuevas diligencias para acreditar los elementos del tipo, o bien, ordene el retrámite de la averiguación, como delito de homicidio.
 
 # LIBRO TERCERO. PREPARACION DEL PROCESO
 
@@ -3022,3 +3054,9 @@ Artículo Primero. La presente Ley entrará en vigor a los treinta días natural
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese la Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 12 DE JUNIO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
