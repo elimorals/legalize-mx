@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2012-08-23"
+last_updated: "2013-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE JUNIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -279,6 +279,12 @@ III. Llevar un estilo de vida enfocado al autocuidado y fomento de su salud pers
 IV. Acatar el tratamiento e indicaciones que el personal médico le señale con relación a su estado de salud;
 
 V. Participar activamente en los programas y actividades de prevención, fomento y cuidado de la salud;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 2013)</small>
+
+V Bis. Realizarse por lo menos una vez al año un examen médico general en alguna institución de Salud del Distrito Federal;
 
 VI. Dispensar cuidado y diligencia en el uso y conservación de las instalaciones, materiales y equipos que se pongan a su disposición, y
 
@@ -2867,3 +2873,11 @@ Segundo. Las Delegaciones contarán con 45 días hábiles para publicar en la Ga
 Tercero. Las Delegaciones que durante el ejercicio fiscal 2011 no hayan efectuado el proyecto ejecutivo debidamente aprobado, los trámites administrativos o la adquisición del terreno apropiado para la construcción del Centro a que se refiere el artículo 83 de la presente Ley, tendrán como plazo para dar cumplimiento a dicha disposición el segundo semestre de 2012, a fin de garantizar el inicio de las obras de construcción en el primer trimestre del año 2014, lo anterior conforme a la suficiencia presupuestal
 
 Cuarto. La Secretaría de Salud y el Instituto para la Atención y Prevención de las Adicciones de la Ciudad de México, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentarán las acciones establecidas en el presente Decreto.
+
+G.O. 12 DE JUNIO DE 2013.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor a los noventa días hábiles contados a partir de su publicación en la Gaceta Oficial de! (sic) Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal, contará con un plazo de 120 días hábiles para publicar las adecuaciones a las disposiciones reglamentarias en concordancia con el presente Decreto.
