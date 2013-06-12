@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-consejo-consultivo-de-turismo-del-51810
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-13"
-last_updated: "2006-09-13"
+last_updated: "2013-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL CONSEJO CONSULTIVO DE TURISMO DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de septiembre de 2006.
 
@@ -59,7 +59,9 @@ I.- AYUNTAMIENTO: El Ayuntamiento Constitucional de Cuernavaca, Morelos.
 
 II.- COCTUR O CONSEJO: El Consejo Consultivo de Turismo del Municipio de Cuernavaca, Morelos.
 
-III.- LEY: La Ley de Fomento y Promoción al Turismo del Estado de Morelos.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+III.- LEY: la Ley de Turismo del Estado de Morelos;
 
 IV.- PRESIDENTE: El Presidente Municipal Constitucional de Cuernavaca y Presidente del COCTUR.
 
@@ -67,13 +69,19 @@ V.- REGLAMENTO: El Reglamento de Turismo Municipal.
 
 VI.- REGLAMENTO INTERIOR: El Reglamento Interior del Consejo Consultivo de Turismo del Municipio de Cuernavaca, Morelos.
 
-VII.- SECRETARÍA: La Secretaría de Turismo y Fomento Económico del Ayuntamiento de Cuernavaca.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
 
-VIII.- SUBSECRETARÍA: La Subsecretaría de Turismo, dependiente de la Secretaría.
+VII.- SECRETARÍA: La Secretaría de Desarrollo Económico del Ayuntamiento de Cuernavaca;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+VIII.- DIRECCIÓN: La Dirección General de Promoción y Fomento al Turismo, dependiente de la Secretaría; (sic)
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
 
 ###### Artículo 4.
 
-El domicilio oficial del Consejo será el mismo de la Subsecretaría, pero la sede operativa y de sesiones o reuniones de trabajo, podrá variar por acuerdo del Consejo, en sesión ordinaria.
+El domicilio oficial del Consejo será el mismo de la Dirección General de Promoción y Fomento al Turismo; pero la sede operativa y de sesiones o reuniones de trabajo, podrá variar por acuerdo del Consejo, en Sesión Ordinaria.
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN Y ATRIBUCIONES DEL CONSEJO
 
@@ -83,9 +91,13 @@ De conformidad al Artículo 3 del Acuerdo que lo crea, el Consejo se integra de 
 
 I.- El Presidente Municipal Constitucional del Ayuntamiento de Cuernavaca, como Presidente;
 
-II.- El Secretario de Turismo y Fomento Económico del Ayuntamiento, como Vicepresidente;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
 
-III.- El Subsecretario de Turismo del Ayuntamiento, como Secretario Técnico;
+II.- El Secretario de Desarrollo Económico del Ayuntamiento, como vicepresidente;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
+
+III.- El Director General de Promoción y Fomento al Turismo; como Secretario Técnico;
 
 IV.- El Regidor de la Comisión de Turismo del Ayuntamiento;
 
@@ -251,9 +263,11 @@ Al mismo tiempo, el Coordinador fungirá como vocero de los miembros de la socie
 
 Los integrantes representantes de los sectores social y empresarial, podrán nombrar un suplente debidamente acreditado, por escrito, quien los suplirá en caso de ser necesario y tendrá los mismos derechos que el integrante propietario.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
+
 ###### Artículo 20.
 
-El Secretario Técnico será auxiliado en sus funciones, por el Director de Vinculación y Fomento Turístico.
+El Secretario Técnico será auxiliado en sus funciones, por el Director de Proyectos Turísticos.
 
 ### CAPÍTULO V. DE LOS ÓRGANOS AUXILIARES
 
@@ -362,3 +376,13 @@ C. LIBORIO ROMÁN CRUZ MEJÍA
 SECRETARIO DEL AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE JUNIO DE 2013.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo dispuesto en el presente acuerdo.
+
+TERCERO.- Publíquese en la Gaceta Municipal del Municipio de Cuernavaca, Morelos.
