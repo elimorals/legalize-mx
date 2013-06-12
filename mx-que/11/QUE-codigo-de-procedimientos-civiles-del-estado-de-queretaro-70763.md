@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-70763"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2012-11-07"
+last_updated: "2013-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -811,7 +811,7 @@ Si el correo electrónico señalado por cualquiera de las partes no admite las n
 
 I. El actuario deberá elaborar la minuta electrónica en la que precise el auto, acuerdo o resolución a notificar. Dicha minuta contendrá la fecha y hora en que se efectúe el envío señalado y la firma electrónica del actuario, que deberá imprimir para adjuntarla al expediente;
 
-II. El actuario enviará a la dirección de correo electrónico de la o las partes·a notificar, un aviso informándole que se ha dictado un auto, acuerdo o resolución en el expediente en que actúan;
+II. El actuario enviará a la dirección de correo electrónico de la o las partes a notificar, un aviso informándole que se ha dictado un auto, acuerdo o resolución en el expediente en que actúan;
 
 III. El Sistema de Justicia en Línea del Tribunal, registrará la fecha y hora en que se efectúe el envío señalado en la fracción anterior; y
 
@@ -1708,6 +1708,14 @@ V. Si no se conoce al arrendador o su domicilio o se diere el supuesto de que lo
 VI. Si el arrendador comparece a recoger la renta, previa identificación y otorgamiento del recibo, se hará la entrega debiendo expresar también si está o no conforme con el depósito; de manifestar inconformidad se entenderá reservado su derecho de oposición, para que lo haga valer judicialmente en diez días a partir de la fecha, en caso contrario quedará por bien hecho el pago.
 
 La expresión de inconformidad no será motivo para negar u obstaculizar la entrega del depósito.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2013)</small>
+
+###### Artículo 230 Bis.
+
+Las personas que realicen depósitos de pensiones alimenticias, sea o no por mandato judicial, serán integradas a una Base de Datos de Pensiones Alimenticias, de la que será responsable la Oficina Central de Consignaciones del Poder Judicial del Estado, en la que se llevará un registro del deudor, de los beneficiarios, el monto fijado por resolución judicial o mediante convenio, en su caso, así como fecha y monto de los depósitos.
+
+La base de datos a que se refiere este artículo, tendrá el carácter de reservada para los particulares, en términos de la Ley de Acceso a la Información Gubernamental del Estado de Querétaro y sólo podrá ser proporcionada a la autoridad jurisdiccional o Ministerio Público, previa solicitud de dichas autoridades en ejercicio de sus atribuciones.
 
 ### Capítulo Sexto. De las providencias precautorias
 
@@ -6838,3 +6846,9 @@ P.O. 7 DE NOVIEMBRE DE 2012.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 12 DE JUNIO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
