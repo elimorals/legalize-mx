@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2013-06-11"
+last_updated: "2013-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JUNIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1435,11 +1435,11 @@ El Secretario, en sus faltas temporales, será sustituido por el servidor públi
 
 #### SECCIÓN SEGUNDA. DE LA TESORERÍA MUNICIPAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE JUNIO DE 2013)</small>
 
 ###### Artículo 72.
 
-Cada Ayuntamiento contará con una Tesorería, cuyo titular será nombrado conforme a lo dispuesto por esta ley. El Tesorero Municipal deberá contar preferentemente con título profesional y tendrá las facultades y obligaciones siguientes:
+Cada Ayuntamiento contará con una Tesorería, cuyo titular será nombrado conforme a lo dispuesto por esta ley. El Tesorero Municipal deberá contar con título profesional o pasantía de contador público, en administración, en economía, o en derecho, y tendrá las facultades y obligaciones siguientes:
 
 I. Recaudar, administrar, concentrar, custodiar, vigilar y situar los fondos municipales, así como los conceptos que deba percibir el Ayuntamiento, de conformidad con las disposiciones legales aplicables en materia de ingresos;
 
@@ -1529,17 +1529,19 @@ El Congreso del Estado informará a los Ayuntamientos el resultado de las accion
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN DE OBRAS PÚBLICAS
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE 2010)</small>
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2013)</small>
 
 ###### Artículo 73 Bis.
 
-Cada Ayuntamiento contará con una Dirección de Obras Públicas, cuyo titular deberá contar preferentemente con título profesional de arquitecto o ingeniero civil.
+Cada Ayuntamiento contará con una Dirección de Obras Públicas, cuyo titular deberá contar con título profesional o pasantía de ingeniero o arquitecto.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
-Artículo 73 ter. Son atribuciones del Director de Obras Públicas:
+###### Artículo 73 Ter.
+
+Son atribuciones del Director de Obras Públicas:
 
 I. Elaborar y proponer al Ayuntamiento, conforme al Plan Municipal de Desarrollo, los proyectos y presupuestos base de las obras a ejecutarse;
 
@@ -1561,11 +1563,123 @@ IX. Autorizar con su firma las estimaciones, avances de cuenta mensual y toda do
 
 X. Las demás que le otorguen esta ley y las leyes del Estado.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 12 DE JUNIO DE 2013)</small>
+
+#### SECCIÓN CUARTA. DE LA CONTRALORÍA
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+
+###### Artículo 73 Quater.
+
+El Ayuntamiento, de conformidad con lo dispuesto por el artículo 35, fracción XXI, de esta Ley, establecerá un órgano de control interno autónomo, el cual se denominará Contraloría, que desarrollará funciones de control y evaluación; cuyo titular deberá contar con título profesional o pasantía en contador público, de licenciado en Derecho, en Administración o en Economía.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+
+###### Artículo 73 Quinquies.
+
+Corresponde a la Contraloría coordinar los sistemas de auditoría interna, así como de control y evaluación del origen y aplicación de recursos.
+
+Los sistemas de auditoría interna permitirán:
+
+I. Verificar el cumplimiento de normas, objetivos, políticas y lineamientos;
+
+II. Promover la eficiencia y eficacia operativa; y
+
+III. La protección de los activos y la comprobación de la exactitud y confiabilidad de la información financiera y presupuestal.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+
+###### Artículo 73 Sexies.
+
+La Contraloría verificará el cumplimiento de la normatividad en el ejercicio del gasto de las dependencias y entidades, quienes le proporcionarán toda la información que les solicite en el ejercicio de esta atribución.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+
+###### Artículo 73 Septies.
+
+La Contraloría, en caso de determinar la falta de aplicación de la normatividad en el ejercicio del gasto por parte de las dependencias y entidades, reportará tal situación al Cabildo e impondrá las medidas correctivas.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+
+###### Artículo 73 Octies.
+
+Las auditorías al gasto público municipal podrán ser de tipo financiero, operacional, de resultado de programas y de legalidad, las cuales serán realizadas por la Contraloría y, en su caso, por auditores externos que cuenten con el registro correspondiente.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+
+Artículo 73 Novies. Los hechos, conclusiones, recomendaciones y, en general, los informes y resultados de las auditorías practicadas, facilitarán la medición de la eficiencia en la administración de los recursos y el cumplimiento de metas, para apoyar las actividades de evaluación del gasto público, la determinación de las medidas correctivas que sean conducentes y, en su caso, las responsabilidades que procedan.
+
+Las actividades propias de la auditoría no obstaculizarán las labores operativas y trámites administrativos que directamente realicen las dependencias y entidades.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+
+###### Artículo 73 Decies.
+
+La Contraloría, con base en sus programas anuales de auditoría y sin perjuicio de lo establecido en otras disposiciones legales, realizará las actividades siguientes:
+
+I. Evaluar los sistemas y procedimientos de las dependencias y entidades;
+
+II. Revisar las operaciones, transacciones, registros, informes y estados financieros;
+
+III. Comprobar el cumplimiento de las normas, disposiciones legales y políticas aplicables a la entidad, en el desarrollo de sus actividades;
+
+IV. Examinar la asignación y utilización de los recursos financieros, humanos y materiales;
+
+V. Revisar el cumplimiento de los objetivos y metas fijados en los programas a cargo de la dependencia o entidad;
+
+VI. Participar en la determinación de indicadores para la realización de auditorías operacionales y de resultados de los programas;
+
+VII. Analizar y opinar sobre la información que produzca la dependencia o entidad para efectos de evaluación;
+
+VIII. Promover la capacitación del personal de auditoría;
+
+IX. Vigilar el cumplimiento de las medidas correctivas; y
+
+X. Las demás que determine el Cabildo.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+
+Artículo 73 Undecies. La Contraloría elaborará un programa anual de auditoría, el cual contendrá:
+
+I. Los tipos de auditoría a practicar;
+
+II. Las dependencias y entidades, programas y actividades a examinar;
+
+III. Los períodos estimados de realización; y
+
+IV. Los días-hombre a utilizar.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+
+Artículo 73 Duodecies. La Contraloría mantendrá actualizados los manuales de normas, políticas, guías y procedimientos de auditoría y los manuales y guías de revisión para la práctica de auditorías especiales.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+
+Artículo 73 Terdecies. La Contraloría, por cada una de las auditorías que se practiquen, recibirá un informe sobre el resultado de las mismas; estos informes se darán a conocer a los titulares de las dependencias y entidades auditadas para que, en su caso, ejecuten medidas tendientes a mejorar su gestión y el control interno, así como a corregir las desviaciones y deficiencias que se hubieren encontrado.
+
+Si, como resultado de las auditorías, se advirtieren irregularidades que afecten a la Hacienda Pública Municipal, o contravengan lo dispuesto en esta Ley, se procederá en los términos de esta misma, de la Ley de Fiscalización Superior, del Código Hacendario Municipal y del Código de Procedimientos Administrativos, todos para el Estado de Veracruz de Ignacio de la Llave, y las disposiciones civiles o penales aplicables, según sea el caso.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+
+Artículo 73 Quaterdecies. La Contraloría tendrá a su cargo un control de las observaciones y recomendaciones derivadas de la auditoría, y hará el seguimiento sobre el cumplimiento de las medidas correctivas que se hubieren acordado.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+
+Artículo 73 Quinquiedecies. Las dependencias y entidades enviarán a la Contraloría, en la forma y términos que ésta indique, los siguientes documentos:
+
+I. Informe sobre el avance del cumplimiento de los programas anuales de las dependencias y entidades;
+
+II. Informes de las observaciones derivadas de las auditorías, y
+
+III. Informes sobre el seguimiento de las medidas correctivas aprobadas por el titular de la dependencia o entidad.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+
+Artículo 73 Sedecies. Las dependencias y entidades proporcionarán los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar la Contraloría.
+
 #### SECCIÓN PRIMERA. DE LOS ORGANISMOS DESCENTRALIZADOS
 
 #### SECCIÓN SEGUNDA. DE LAS EMPRESAS DE PARTICIPACIÓN MUNICIPAL
-
-#### SECCIÓN TERCERA. DE LOS FIDEICOMISOS PÚBLICOS
 
 ### CAPITULO I. DE LAS FUNCIONES Y SERVICIOS PÚBLICOS MUNICIPALES
 
@@ -1602,6 +1716,8 @@ Al efecto, el Ayuntamiento designará miembros en los Órganos de Gobierno, Cons
 (ADICIONADO, G.O. 9 DE ENERO DE 2007) (F. DE E., G.O. 26 DE ENERO DE 2007)
 
 Se exceptúa lo señalado en este artículo cuando se trate de entidades paramunicipales creadas por dos o más ayuntamientos, en cuyo caso se estará a lo dispuesto en el instrumento de creación o en la legislación que regula el objeto de dicha entidad. Para el ingreso y egreso de recursos, así como para su vigilancia, control y evaluación, se sujetará al Código Hacendario Municipal del Estado de Veracruz de Ignacio de la Llave, aun cuando los ayuntamientos participantes tengan su propio Código Hacendario Municipal.
+
+#### SECCIÓN TERCERA. DE LOS FIDEICOMISOS PÚBLICOS
 
 ###### Artículo 78.
 
@@ -3282,6 +3398,12 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 G.O. 11 DE JUNIO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE JUNIO DE 2013.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
