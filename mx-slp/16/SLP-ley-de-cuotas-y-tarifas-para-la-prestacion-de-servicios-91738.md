@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cuotas-y-tarifas-para-la-prestacion-de-servicios-91738"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-29"
-last_updated: "2012-12-29"
+last_updated: "2013-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CUOTAS Y TARIFAS PARA LA PRESTACIÓN DE SERVICIOS PÚBLICOS DEL ORGANISMO OPERADOR INTERMUNICIPAL METROPOLITANO DE AGUA POTABLE, ALCANTARILLADO, SANEAMIENTO Y SERVICIOS CONEXOS DE LOS MUNICIPIOS DE CERRO DE SAN PEDRO, SAN LUIS POTOSÍ Y SOLEDAD DE GRACIANO SÁNCHEZ, S.L.P.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el sábado 29 de diciembre de 2012.
 
@@ -479,7 +479,7 @@ Total 8,245.58 9,871.00 13,571.22
 
 Por cada metro cuadrado (m2) adicional, la cuota o tarifa es $71.27 más IVA.
 
-Para desarrollos fuera del área de factibilidad, la cuota por infraestructura adicional está sujeta a que se construyan las obras de infraestructura hidráulica que técnicamente estime necesarias el lnterapas para hacer factible la prestación de los servicios de los nuevos fraccionamientos o desarrollos urbanos.
+Para desarrollos fuera del área de factibilidad, la cuota por infraestructura adicional está sujeta a que se construyan las obras de infraestructura hidráulica que técnicamente estime necesarias el interapas para hacer factible la prestación de los servicios de los nuevos fraccionamientos o desarrollos urbanos.
 
 Las cuotas del estudio de factibilidad para la prestación de los servicios públicos de agua potable y drenaje sanitario son las siguientes:
 
@@ -563,6 +563,28 @@ PRIMERO. Este decreto entrará en vigor el día uno de enero del año 2013, prev
 
 SEGUNDO. Las cuotas y tarifas que se establecen en este Decreto, deberán ser publicadas en los medios locales de información del municipio de San Luis Potosí y a la vista de las personas usuarias, en las oficinas del Organismo Operador.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2013)</small>
+
+TERCERO. Durante el ejercicio fiscal 2013 los usuarios que acudan a regularizar sus adeudos, oficiosamente gozarán de los beneficios de, caducidad, y prescripción a que se refieren los artículos, 37 y 38, del Código Fiscal del Estado de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2013)</small>
+
+CUARTO. Los adeudos que no estén sujetos a los beneficios a que se refiere el Transitorio Tercero de este Decreto, podrán ser convenidos en pagos diferidos hasta por doce meses; en dicho convenio puede otorgarse un ajuste de disminución del 30% en el mes de agosto; 20% en el mes de septiembre; y 10% en el mes de octubre, por lo que el organismo previamente se cerciorará que el cálculo del adeudo no derive de errores en la facturación por:
+
+a) Lectura errónea.
+
+b) Falla del medidor.
+
+c) Predio sin toma.
+
+d) Tarifa mal aplicada y cargos improcedentes.
+
+e) Incremento de consumo de un bimestre a otro sin explicación lógica.
+
+f) Inconsistencias en toma de lecturas que presentan de manera incongruente altos consumos.
+
+De encontrar errores en la facturación, previa la celebración del convenio, el organismo deberá efectuar el ajuste a la facturación.
+
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
 D A D O en el salón de sesiones "Ponciano Arriaga Leija" del Honorable Congreso del Estado, el quince de diciembre de dos mil doce.
@@ -584,3 +606,13 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los ajustes de disminución que se establecen en este Decreto, deberán ser publicados en los medios locales de información del municipio de San Luis Potosí, y a la vista de las personas usuarias en las oficinas del organismo operador.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
