@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-para-adolescentes-del-estado-de-quintana-roo-75
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-28"
-last_updated: "2010-06-28"
+last_updated: "2013-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 28 de junio del 2010.
 
@@ -2211,9 +2211,13 @@ III. En los casos de conductas tipificadas como delito en las leyes del Estado, 
 
 IV. El resarcimiento de los perjuicios ocasionados.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2013)</small>
+
 ###### Artículo 183.
 
-En atención a la finalidad de esta medida, se procurará que la reparación del daño consista en acuerdos restaurativos y no necesariamente en el pago de una suma de dinero, pero cuando ello sea inevitable, se procurará que éste provenga del propio esfuerzo del adolescente y se buscará, en la medida de lo posible, que no provoque un traslado de la responsabilidad de este último hacia sus padres, tutores o personas que ejerzan la patria potestad o la custodia.
+En atención a la finalidad de esta medida, se procurará que la reparación del daño consista en acuerdos restaurativos y no necesariamente en el pago de una suma de dinero, pero cuando ello sea inevitable, éste deberá provenir del propio esfuerzo del adolescente.
+
+En el caso de que el adolescente no pueda reparar el daño en términos de lo establecido en el párrafo anterior, serán los padres, tutores o responsables del adolescente, como terceros civilmente responsables, quienes responderán del pago de la reparación del daño, en la vía y forma que corresponda, a favor de la víctima u ofendido.
 
 #### Sección V. Limitación o Prohibición de Residencia
 
@@ -3030,3 +3034,9 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. EDUARDO OVANDO MARTINEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
