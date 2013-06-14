@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2013-05-30"
+last_updated: "2013-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -1432,33 +1432,47 @@ El derecho de iniciar leyes o decretos ante la Asamblea Legislativa del Distrito
 
 I.- A los Diputados a la Asamblea del Distrito Federal;
 
-II.- Al Jefe de Gobierno del Distrito Federal; y
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2013)</small>
 
-III.- A los ciudadanos del Distrito Federal, a través de la iniciativa popular, quienes podrán presentar proyectos de leyes respecto de las materias de la competencia legislativa de la misma, de conformidad con las bases que establece el Estatuto de Gobierno del Distrito Federal y las prevenciones de la Ley de Participación Ciudadana, salvo en las siguientes materias:
+II. Al Jefe de Gobierno del Distrito Federal;
 
-a).- Tributario fiscal así como de Egresos del Distrito Federal;
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2013)</small>
 
-b).- Régimen interno de la Administración Pública del Distrito Federal;
+III. Al Tribunal Superior de Justicia del Distrito Federal, en todo lo relacionado con la organización y funcionamiento de la administración de justicia; y
 
-c).- Regulación interna de la Asamblea Legislativa y de su Contaduría Mayor de Hacienda;
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2013)</small>
 
-d).- Regulación interna de los tribunales de justicia del fuero común del Distrito Federal; y
+IV. A los ciudadanos del Distrito Federal, a través de la iniciativa popular, quienes podrán presentar proyectos de leyes respecto de las materias de la competencia legislativa de la misma, de conformidad con las bases que establece el Estatuto de Gobierno del Distrito Federal y las prevenciones de la Ley de Participación Ciudadana, salvo en las siguientes materias:
 
-e).- Las demás que señalen las leyes.
+a). Tributario fiscal así como de Egresos del Distrito Federal;
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 84], G.O. 30 DE MARZO DE 2005)</small>
+b). Régimen interno de la Administración Pública del Distrito Federal;
 
-###### ARTÍCULO 89.
+c). Regulación interna de la Asamblea Legislativa y de su Contaduría Mayor de Hacienda;
 
-Las iniciativas presentadas por los Diputados y por el Jefe de Gobierno, previo turno dado por la Presidencia de la Mesa Directiva o de la Comisión de Gobierno, pasarán de inmediato a la Comisión o a las Comisiones respectivas para que se dictamine.
+d). Regulación interna de los tribunales de justicia del fuero común del Distrito Federal; y
+
+e). Las demás que señalen las leyes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE JUNIO DE 2013)</small>
+
+###### Artículo 89.
+
+Las iniciativas presentadas por los Diputados, por el Jefe de Gobierno, o por el Tribunal Superior de Justicia, previo turno dado por la Presidencia de la Mesa Directiva o de la Comisión de Gobierno, pasarán de inmediato a la Comisión o a las Comisiones respectivas para que se dictaminen.
 
 > <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
 Los proyectos de iniciativa de Leyes o Decretos que se presenten ante la Asamblea deberán ir acompañados de una exposición de motivos en la cual se fundamente y motive las razones del proyecto, así como de los antecedentes necesarios para poder pronunciarse sobre ellos, firmados cuando menos por su proponente, asimismo, deberá ir acompañado de manera impresa y por medio electrónico, magnético, óptico u otros. El tiempo para hacer uso de la tribuna con tal efecto, será no mayor a diez minutos cuando se trata de iniciativas, cinco minutos cuando se trate de puntos de acuerdo considerados como de urgente y obvia resolución, conforme a lo establecido en el artículo 133 del Reglamento para el Gobierno Interior y tres minutos cuando se trate de puntos de acuerdo de conformidad a lo establecido en el artículo 132 del Reglamento para el Gobierno Interior.
 
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
 Las iniciativas populares serán turnadas a una Comisión Especial integrada por miembros de las Comisiones competentes en la materia de la propuesta para el efecto de que verifique que se cumplan con los requisitos que la Ley de Participación Ciudadana establezca, y de ser procedente, la remitirá a la Mesa Directiva o a la Comisión de Gobierno en su caso, para que se dé el turno correspondiente. En caso contrario, se desechará de plano la iniciativa presentada.
 
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
 Las iniciativas desechadas por la Asamblea no podrán volver a discutirse sino en el siguiente periodo de Sesiones Ordinarias.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 En la interpretación, reforma o derogación de las Leyes, se observarán los mismos trámites establecidos para su formación.
 
@@ -1945,3 +1959,11 @@ La incorporación de la firma electrónica avanzada se hará dentro de los trein
 Segundo.- Se derogan las disposiciones y procedimientos que contravengan al presente Decreto.
 
 Tercero.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 14 DE JUNIO DE 2013.
+
+PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
