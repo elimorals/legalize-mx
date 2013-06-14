@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-penas-y-medidas-judiciales-para-el-76984"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2013-03-08"
+last_updated: "2013-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2013.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -237,9 +237,17 @@ IV.- De custodia procesal;
 
 V.- De perfil criminológico de riesgo;
 
-VI.- De capacidades diferentes; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2013)</small>
 
-VII.- De Sentenciados.
+VI.- De capacidades diferentes;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2013)</small>
+
+VII.- De Sentenciados; y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2013)</small>
+
+VIII.- De entrevistas entre interno y defensor.
 
 Las áreas señaladas en las fracciones anteriores podrán estar integradas en un conjunto arquitectónico, pero totalmente separadas.
 
@@ -479,9 +487,11 @@ Los Imputados estarán alojados en áreas distintas de los Procesados, mientras 
 
 Sólo los Sentenciados están obligados a trabajar dentro del Centro. Los Imputados y Procesados no tienen esa obligación, pero si desean hacerlo, se les permitirá en la medida que sea posible y, en caso de que se les dicte sentencia condenatoria debidamente ejecutoriada, el tiempo trabajado se les contabilizará para el otorgamiento de la remisión parcial de la pena, conforme a lo dispuesto en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 55.
 
-Los Imputados y Procesados tienen derecho a una adecuada comunicación con su defensor. Las conversaciones de los Internos con sus abogados no deberán ser escuchadas por ningún empleado o funcionario del Centro, pero la entrevista podrá ser vigilada a distancia por razones de seguridad.
+Los Imputados y Procesados tienen derecho a una adecuada comunicación con su defensor. Las conversaciones de los Internos con sus abogados no deberán ser escuchadas por ningún empleado o funcionario del Centro, pero la entrevista podrá ser vigilada por razones de seguridad. Cada Centro dispondrá de un área específica para las entrevistas separada del área de vigilancia. Solo a petición del defensor o del interno, podrá haber vigilancia en el mismo espacio de la entrevista.
 
 Los derechos establecidos en el artículo siguiente, también se observarán a favor de Imputados y Procesados, con las salvedades que esta Ley determine, y las demás disposiciones aplicables.
 
@@ -1398,3 +1408,9 @@ P.O. 1 DE JULIO DE 2011.
 P.O. 8 DE MARZO DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor el día primero de enero del año dos mil catorce.
+
+P.O. 14 DE JUNIO DE 2013.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Secretaría de Seguridad Pública del Estado de Baja California, contará con noventa días posteriores a la entrada en vigor de la presente reforma de adición, para hacer las adecuaciones reglamentarias y de instalaciones en los Centros de Reinserción Social del Estado en los términos que la misma ordena.
