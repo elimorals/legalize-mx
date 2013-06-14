@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2012-11-23"
+last_updated: "2013-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE SEPTIEMBRE DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 23 DE NOVIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.O. DE 20 DE SEPTIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -394,9 +392,13 @@ El Tribunal Superior de Justicia del Distrito Federal, funcionará en Pleno y en
 
 El número de Salas del Tribunal Superior de Justicia del Distrito Federal, será determinado por el Consejo de la Judicatura del Distrito Federal, conforme a las necesidades y el presupuesto.
 
+> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2013)</small>
+
 ###### Artículo 29.
 
-Para que funcione el Tribunal en Pleno se necesita la concurrencia de cuando menos las dos terceras partes de los Magistrados que lo integran y las resoluciones se tomarán por unanimidad o mayoría de votos de los Magistrados presentes. En caso de empate, se confiere voto de calidad al Presidente del Tribunal.
+Para que funcione el Tribunal en Pleno se necesita la concurrencia de cuando menos las dos terceras partes de los Magistrados que lo integran y las resoluciones se tomarán por unanimidad o mayoría de votos de los Magistrados presentes, salvo los asuntos que expresamente requieran votación por mayoría calificada. En caso de empate, se confiere voto de calidad al Presidente del Tribunal.
+
+Se requerirá de la mayoría de votos de los Magistrados presentes del Pleno, para aprobar un proyecto de iniciativa y/o Decreto que se presente ante la Asamblea Legislativa del Distrito Federal, en los ordenamientos relacionados con la organización y funcionamiento de la administración de justicia.
 
 ###### Artículo 30.
 
@@ -406,11 +408,11 @@ Las sesiones del Tribunal en Pleno serán ordinarias o extraordinarias y, en amb
 
 Para la Presidencia y Tribunal en Pleno se designarán un Primer Secretario de Acuerdos, un Segundo Secretario de Acuerdos y el número de Secretarios Auxiliares de la Presidencia, así como los servidores públicos de la administración de justicia que fije el presupuesto de egresos respectivo, atendiendo al efecto lo dispuesto por el artículo 20 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE JUNIO DE 2013)</small>
 
 ###### Artículo 32.
 
-Son facultades del Tribunal Superior del Distrito Federal en Pleno:
+Son facultades del Tribunal Superior de Justicia del Distrito Federal en Pleno:
 
 I. Elegir, de entre los Magistrados con una antigüedad no menor de tres años al Presidente del Tribunal Superior de Justicia del Distrito Federal;
 
@@ -478,9 +480,13 @@ XVII. Revisar el cumplimiento de los requisitos que exige el artículo 16 de la 
 
 XVIII. Conocer de los recursos de apelación que se interponga en las causas que se instauren en contra de un Magistrado, Consejero o Juez;
 
-> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2013)</small>
 
-XIX. Las demás que expresamente le confieran esta ley y otras disposiciones aplicables.
+XIX. Discutir, aprobar o rechazar los proyectos de Iniciativas y Decretos propuestos por los jueces y magistrados del Tribunal, respecto de los ordenamientos relacionados con la organización y funcionamiento de la administración de justicia, mismos que serán presentados ante la Asamblea Legislativa del Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2013)</small>
+
+XX. Las demás que expresamente le confieran esta ley y otras disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -504,7 +510,7 @@ El Presidente tendrá las atribuciones que le confiere la presente Ley, siendo s
 
 Las providencias y acuerdos del Presidente pueden reclamarse ante el Tribunal en Pleno, por parte interesada, dentro del plazo de tres días hábiles, siempre que dicha reclamación se presente por escrito, con motivo fundado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE JUNIO DE 2013)</small>
 
 ###### Artículo 36.
 
@@ -548,13 +554,17 @@ b) En un plazo no mayor de cinco días, sobre la vacante de Magistrado que, por 
 
 c) Con una antelación no menor a cuarenta y cinco días, el nombre del o los Magistrados que estén por concluir el ejercicio de su encargo;
 
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2013)</small>
 
-XI. Formar la estadística judicial con los datos que proporcionan las Salas y Juzgados del Tribunal, así como elaborar y difundir la información estadística relevante, desglosada por rubros y categorías; ya sea para fines meramente informativos, o bien para el seguimiento, control y evaluación de los asuntos. El Consejo de la Judicatura del Distrito Federal establecerá los niveles de divulgación y privilegios de acceso a la misma, según la naturaleza y fines de la información;
+XI. Elaborar y difundir la información estadística relevante desglosada por rubros y categorías, ya sea para fines meramente informativos, o bien para el seguimiento, control y evaluación de los asuntos. El Consejo de la Judicatura del Distrito Federal establecerá los niveles de divulgación y privilegios de acceso a la misma, según la naturaleza y fines de la información;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN X], G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2013)</small>
 
-XII. Las demás que expresamente le confiera esta Ley y otras disposiciones aplicables.
+XII. Remitir a la Asamblea Legislativa del Distrito Federal, las propuestas de Iniciativa o Decretos aprobadas por el Pleno del Tribunal, de los ordenamientos relacionados con la organización y funcionamiento de la administración de justicia; y
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2013)</small>
+
+XIII. Las demás que expresamente le confiera esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 37.
 
@@ -3891,3 +3901,11 @@ Segundo. El presente Decreto entrará en vigor, el primero de enero de dos mil t
 Cuarto. Los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de las reformas a que se refiere el presente decreto, en los términos de los transitorios segundo y tercero, se tramitarán conforme a las disposiciones anteriores a él.
 
 Quinto. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 14 DE JUNIO DE 2013.
+
+PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
