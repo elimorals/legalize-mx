@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transito-transporte-y-explotacion-de-vias-y-11769"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "2011-03-22"
+last_updated: "2013-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE TRANSITO, TRANSPORTE Y EXPLOTACION DE VIAS Y CARRETERAS DEL ESTADO DE QUINTANA ROO
 
-LEY DE TRANSITO, TRANSPORTE Y EXPLOTACION DE VIAS Y CARRETERAS DEL ESTADO DE QUINTANA ROO
+LEY DE TRANSITO, TRANSPORTE Y EXPLOTACIÓN DE VIAS Y CARRETERAS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial de Estado de Quintana Roo, el 16 de diciembre de 1996.
 
@@ -243,9 +243,13 @@ Los peatones, además de lo establecido por la presente Ley y sus Reglamentos de
 
 El tránsito de peatones deberá hacerse sobre las aceras o banquetas de las vías públicas por las zonas destinadas reglamentariamente para ese objeto, debiendo en todos los casos procurar no obstruir o interrumpir en forma alguna la fluidez en la circulación de los vehículos o de otros peatones.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 17.
 
-Las personas que aborden los vehículos de servicios públicos para transportarse, son pasajeros que deberán respetar todas las disposiciones reglamentarias correspondientes, asimismo tendrán derecho a disfrutar de las prerrogativas que los Reglamentos de la presente Ley les otorguen.
+Las personas que aborden los vehículos de servicios públicos para transportarse, son pasajeros, quienes están obligados a no arrojar basura a la vía pública y respetar todas las disposiciones reglamentarias correspondientes. Asimismo, disfrutarán de las prerrogativas que los Reglamentos de la presente Ley les otorguen.
+
+Si quien arrojara basura fuera un pasajero menor de edad, se estará a lo dispuesto en el Artículo 92 del Código Civil para el Estado Libre y Soberano de Quintana Roo.
 
 ### CAPITULO SEGUNDO. DE LOS CONDUCTORES
 
@@ -295,11 +299,15 @@ XIII. Utilizar casco protector para los ocupantes de motocicletas de uso públic
 
 > <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
 
-XIV. Abstenerse de conducir vehículos automotores cuando se encuentren bajo la influencia de bebidas alcohólicas, estupefacientes u otras sustancias tóxicas; y
+XIV. Abstenerse de conducir vehículos automotores cuando se encuentren bajo la influencia de bebidas alcohólicas, estupefacientes u otras sustancias tóxicas; y (sic)
 
 > <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
 
 XV. Abstenerse de utilizar dispositivos de comunicación móvil, tales como radios, teléfonos y otros, que disminuyan la habilidad y capacidad de reacción al conductor de un vehículo.
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2013)</small>
+
+XVI.- No arrojar basura a la vía pública y evitar que los pasajeros o acompañantes del vehículo a su cargo lo hagan.
 
 ###### ARTICULO 21.
 
@@ -770,3 +778,13 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.-· El Ejecutivo del Estado y los Municipios realizarán las adecuaciones correspondientes en el Reglamento de Tránsito del Estado de Quintana Roo, y en los Reglamentos Municipales, respectivamente, para establecer las infracciones y sanciones a los conductores de vehículos en los mismos términos del presente decreto, en un plazo no mayor de 60 días naturales contados a partir de su entrada en vigor.
 
 Artículo Tercero.- El Ejecutivo del Estado y los Municipios deberán implementar una campaña para dar a conocer a la ciudadanía en general, las obligaciones que se derivan por la entrada en vigor del presente decreto.
+
+P.O. 14 DE JUNIO DE 2013.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Dentro del término de 30 días contados a partir de la entrada en vigor del presente Decreto, deberán hacerse las adecuaciones a los Reglamentos de Tránsito, a efecto de incluir la sanción para los conductores o pasajeros que no acaten las disposiciones contenidas en este Decreto.
+
+TERCERO.- El Ejecutivo del Estado y los Ayuntamientos deberán implementar una campaña para promover la concienciación de la ciudadanía en general, que le permita conocer y cumplir la obligación que se deriva por la entrada en vigor del presente Decreto.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
