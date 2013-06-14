@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2013-05-30"
+last_updated: "2013-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -1396,19 +1396,29 @@ El derecho de iniciar las leyes o decretos ante la Asamblea compete:
 
 I.- A los Diputados de la Asamblea;
 
-II.- Al Jefe de Gobierno, y
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2013)</small>
 
-III.- A los ciudadanos del Distrito Federal, de conformidad con la fracción IV del artículo 46 del Estatuto.
+II.- Al Jefe de Gobierno;
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 83], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2013)</small>
+
+III.- Al Tribunal Superior de Justicia del Distrito Federal, en todo lo relacionado con la organización y funcionamiento de la administración de justicia; y
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2013)</small>
+
+IV.- A los ciudadanos del Distrito Federal de conformidad con la fracción IV del artículo 46 del Estatuto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE JUNIO DE 2013)</small>
 
 ###### Artículo 86.
 
-Las iniciativas de ley o decreto presentadas por uno o varios miembros de la Asamblea o por el Jefe de Gobierno, previo turno dado por el Presidente de la Mesa Directiva o de la Comisión de Gobierno pasarán desde luego a la comisión o comisiones procurando que no sean más de dos comisiones, mismas que deberán revisar, estudiar, analizar y reformar, en su caso, la iniciativa y formular su correspondiente dictamen.
+Las iniciativas presentadas ante la Asamblea Legislativa, previo turno de la Mesa Directiva o de la Comisión de Gobierno, se remitirán a la comisión o comisiones correspondientes, preferentemente no sean remitidas a más de dos comisiones, mismas que deberán estudiar, analizar y modificar, en su caso, la iniciativa y formular su correspondiente dictamen.
 
 > <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
 
 Las iniciativas que presentes los diputados deberán ir de manera impresa y por medio electrónico, magnético, óptico u otros.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 Las iniciativas populares serán turnadas a una comisión especial integrada por miembros de las comisiones competentes en la materia propuesta, para el efecto de que verifique que se cumple con los requisitos que señala el artículo 46 del Estatuto y la Ley de Participación Ciudadana, en cuyo caso remitirá a la Mesa Directiva o a la Comisión de Gobierno en los recesos, para que se turne a la comisión o comisiones que corresponda su análisis y dictamen. En caso contrario, se desechará de plano la iniciativa presentada.
 
@@ -3259,3 +3269,11 @@ G.O. 30 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 14 DE JUNIO DE 2013.
+
+PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
