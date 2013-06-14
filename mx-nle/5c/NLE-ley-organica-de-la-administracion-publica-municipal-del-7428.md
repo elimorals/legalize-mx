@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-municipal-del-7428"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-01-28"
-last_updated: "2012-05-28"
+last_updated: "2013-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de enero de 1991.
 
@@ -335,9 +335,11 @@ En los casos de ausencia definitiva del Presidente Municipal, el Congreso del Es
 
 ### CAPITULO VI. FACULTADES Y OBLIGACIONES DE LOS REGIDORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 29.
 
-En su carácter de representantes de la comunidad en el Ayuntamiento, los Regidores tienen las siguientes facultades y obligaciones:
+en su carácter de representantes de la comunidad en el Ayuntamiento, los Regidores tienen las siguientes facultades y obligaciones:
 
 I.- Acudir con derecho de voz y voto a las sesiones del Ayuntamiento y vigilar el cumplimiento de sus acuerdos.
 
@@ -353,7 +355,9 @@ VI.- Analizar, discutir y votar los asuntos que se traten en las sesiones.
 
 VII.- Participar en las ceremonias cívicas que se lleven a cabo en el Ayuntamiento.
 
-VIII.- Estar informado del estado financiero y patrimonial del Municipio y de la situación en general del Ayuntamiento, teniendo acceso a la información respectiva.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2013)</small>
+
+VIII. Estar informado del estado financiero y patrimonial del Municipio y de la situación en general del Ayuntamiento, teniendo acceso a la información a detalle del origen y aplicación de los recursos públicos municipales, pudiendo acceder a manera de consulta al sistema de contabilidad, incluyendo al libro auxiliar de mayor, del cual se puedan obtener reportes de las diversas operaciones que lleva a cabo la Administración Municipal, así como a los registros de bienes muebles e inmuebles del Municipio.
 
 IX.- Las demás que señalen en la Ley, los reglamentos municipales y en los acuerdos del Ayuntamiento.
 
@@ -365,7 +369,9 @@ Son facultades y obligaciones del Síndico Municipal o del Síndico Primero en s
 
 I.- Acudir con derecho de voz y voto a las sesiones del Ayuntamiento y vigilar el cumplimiento de sus acuerdos.
 
-II.- Coordinar la Comisión de Hacienda Pública Municipal del Ayuntamiento y vigilar la correcta recaudación y aplicación de los fondos públicos.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2013)</small>
+
+II. Coordinar la Comisión de Hacienda Pública Municipal del Ayuntamiento y vigilar la correcta recaudación y aplicación de los fondos públicos, teniendo para ello acceso a la información a detalle del origen y aplicación de los recursos públicos municipales, pudiendo acceder a manera de consulta al sistema de contabilidad, incluyendo el libro auxiliar de mayor, del cual se puedan obtener reportes de las diversas operaciones que lleva a cabo la Administración Municipal, así como a los registros de bienes muebles e Inmuebles del Municipio.
 
 III.- Revisar y en su caso, si está de acuerdo, suscribir los estados de origen y aplicación de fondos, la Cuenta Pública Municipal y los estados financieros.
 
@@ -385,9 +391,11 @@ IX.- Participar en las ceremonias cívicas que se lleven a cabo en el Ayuntamien
 
 X.- Las demás que se señalen en la ley, los reglamentos municipales y en los acuerdos del Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 31.
 
-Son facultades y obligaciones del Síndico Municipal o en su caso del Síndico Segundo:
+Son facultades y obligaciones del Síndico Municipal o del Síndico Segundo en su caso:
 
 I.- Acudir con derecho de voz y voto a las sesiones del Ayuntamiento y vigilar el cumplimiento de sus acuerdos.
 
@@ -409,7 +417,13 @@ IX.- Participar en las ceremonias cívicas que se lleven a cabo en el Ayuntamien
 
 X.- Vigilar que los Servidores Públicos Municipales de nivel directivo presenten oportunamente la declaración de su situación patrimonial al tomar posesión de su cargo, anualmente y al terminar su ejercicio.
 
-XI.- Las demás que se señalen en la ley, los reglamentos municipales y en los acuerdos del Ayuntamiento.
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2013)</small>
+
+XI.- Estar informado del estado financiero y patrimonial del Municipio y de la situación en general del Ayuntamiento, teniendo acceso a la Información a detalle del origen y aplicación de los recursos públicos municipales, pudiendo acceder a manera de consulta al sistema de contabilidad, incluyendo el libro auxiliar de mayor, del cual se puedan obtener reportes de las diversas operaciones que lleva a cabo la Administración Municipal, así como a los registros de bienes muebles e Inmuebles del Municipio.
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2013)</small>
+
+XI.- Las demás que se señalen en la Ley, los reglamentos municipales y en los acuerdos del Ayuntamiento.
 
 ### CAPITULO VIII. DEL FUNCIONAMIENTO DEL AYUNTAMIENTO
 
@@ -749,9 +763,13 @@ V.- Previo acuerdo del Presidente Municipal, someter a la aprobación del Ayunta
 
 VI.- Llevar a cabo el procedimiento económico-coactivo que determinen las disposiciones legales y aplicar las multas y sanciones que correspondan;
 
-VII.- Vigilar y controlar las oficinas de Recaudación;
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2013)</small>
 
-VIII.- Las que establecen esta Ley, los Reglamentos Municipales y demás leyes relativas.
+VII.- Poner a disposición de los regidores y síndicos, el sistema de contabilidad para su consulta, incluyendo el libro auxiliar de mayor, en el que puedan obtener reportes de las diversas operaciones que lleva a cabo la Administración Municipal, así como de los registros de bienes muebles e inmuebles del Municipio.
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2013)</small>
+
+VIII.- Las demás que establecen esta Ley, los reglamentos municipales y los ordenamientos legales relativos.
 
 ### CAPITULO IV. DE LA DELEGACION DE FACULTADES Y LA DESCONCENTRACION ADMINISTRATIVA
 
@@ -1479,7 +1497,7 @@ En la medida que se modifiquen las condiciones socioeconómicas de los Municipio
 
 ## TITULO SEPTIMO. DEL PROCEDIMIENTO CONTENCIOSO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2005)</small>
 
 ### CAPITULO UNICO
 
@@ -1586,3 +1604,7 @@ P.O. 28 DE MAYO DE 2012.
 Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- En un término no mayor a 90 días siguientes a partir de la entrada en vigor del presente Decreto, los Municipios deberán adecuar sus reglamentos y disposiciones aplicables conforme a la presente reforma.
+
+P.O. 14 DE JUNIO DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
