@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-para-los-no-fumadores-del-estado-de-nuevo-420
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-14"
-last_updated: "2010-12-24"
+last_updated: "2013-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE PROTECCION PARA LOS NO FUMADORES DEL ESTADO DE NUEVO LEON
 
-LEY DE PROTECCION PARA LOS NO FUMADORES DEL ESTADO DE NUEVO LEON
+LEY DE PROTECCIÓN PARA LOS NO FUMADORES DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN LA PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 14 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 14 DE JUNIO DE 2013 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el martes 14 de diciembre de 2004.
 
@@ -407,7 +409,7 @@ EL C. SECRETARIO DE SALUD
 
 GILBERTO MONTIEL AMOROSO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE AGOSTO DE 2005.
 
@@ -432,3 +434,15 @@ P.O. 29 DE SEPTIEMBRE DE 2009.
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2013.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Protección para los No Fumadores del Estado de Nuevo León, publicada en el Periódico Oficial del Estado en fecha 14 de Diciembre de 2004 y sus posteriores modificaciones.
+
+Artículo Tercero.- Se establece un plazo de 180 días naturales contados a partir de la entrada en vigor de la presente Ley para que el Estado y los Municipios del Estado expidan, modifiquen, adicionen o deroguen las disposiciones reglamentarias en la materia, a fin de dar cumplimiento a lo dispuesto por la presente Ley.
+
+Artículo Cuarto.- Los propietarios de establecimientos mercantiles que cuenten con espacios para fumar, y que hubieran realizado inversión para dar cumplimiento a la legislación y reglamentación vigente antes de la entrada en vigor de la presente Ley, podrán contar con un plazo de un año contado a partir del día de su entrada en vigor, para hacer las adecuaciones físicas a tales establecimientos; previa verificación y aprobación por la Subsecretaría de Regulación y Fomento Sanitario de la Secretaría de Salud del Estado.
+
+Artículo Quinto.- Se derogan las disposiciones que se opongan a lo previsto por esta Ley.
