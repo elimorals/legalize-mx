@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2010-08-09"
+last_updated: "2013-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
-DECRETO NUMERO: 76
+DECRETO NÚMERO: 76
 
 POR EL QUE SE APRUEBA LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO.
 
@@ -81,7 +81,7 @@ III.- Los Ayuntamientos en el ámbito de su respectiva competencia.
 
 IV.- Los Servicios Estatales de Salud.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 5o.
 
@@ -175,7 +175,13 @@ XVI.- Prevención y control de la rabia en animales y seres humanos y otras zoon
 
 XVII.- Vendedores semifijos y ambulantes; y
 
-XVIII.- Las demás materias que determine esta Ley y las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2013)</small>
+
+XVIII.- Casas, edificios y, en general, cualquier inmueble de dominio público o privado;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2013)</small>
+
+XIX.-Las demás materias que determine esta ley y las disposiciones legales aplicables.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
@@ -253,7 +259,7 @@ La Secretaría de Salud del Gobierno del Estado, promoverá la participación en
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 10.
 
@@ -283,7 +289,7 @@ El Gobierno del Estado, con la participación que corresponda al Comité de Plan
 
 ### CAPITULO II. DISTRIBUCIONES DE COMPETENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE UNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 13.
 
@@ -323,7 +329,7 @@ VII.- Las demás que establezca esta Ley y otras disposiciones legales aplicable
 
 > <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1998)</small>
 
-ARTICULO 13 bis.- Le corresponde a la Secretaría de Salud del Gobierno del Estado, ejercer las funciones contempladas en la Ley Orgánica de la Administración Pública del Estado y en esta Ley; y por su parte a los Servicios Estatales de Salud le corresponde ejercer las funciones operativas contempladas en su Decreto de creación y en esta Ley, sin perjuicio de la coordinación de acciones que pudiesen tener ambas dependencias gubernamentales.
+ARTICULO 13 BIS.- Le corresponde a la Secretaría de Salud del Gobierno del Estado, ejercer las funciones contempladas en la Ley Orgánica de la Administración Pública del Estado y en esta Ley; y por su parte a los Servicios Estatales de Salud le corresponde ejercer las funciones operativas contempladas en su Decreto de creación y en esta Ley, sin perjuicio de la coordinación de acciones que pudiesen tener ambas dependencias gubernamentales.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -347,7 +353,7 @@ II. Proporcionar información y brindar la atención médica y los tratamientos 
 
 ###### ARTICULO 14.
 
-EI Ejecutivo Estatal podrá convenir con los Ayuntamientos, con la asesoría de la Secretaria de Salud del Gobierno Federal, la desconcentración o descentralización, en su caso, por parte de éstos, de la prestación de los servicios de Salubridad General concurrente y de Salubridad Local, cuando su desarrollo económico y social lo haga necesario.
+El Ejecutivo Estatal podrá convenir con los Ayuntamientos, con la asesoría de la Secretaria de Salud del Gobierno Federal, la desconcentración o descentralización, en su caso, por parte de éstos, de la prestación de los servicios de Salubridad General concurrente y de Salubridad Local, cuando su desarrollo económico y social lo haga necesario.
 
 ###### ARTICULO 15.
 
@@ -373,7 +379,7 @@ Se entiende por Norma Técnica el conjunto de reglas científicas o tecnológica
 
 ###### ARTICULO 17.
 
-EI Gobierno del Estado y los Municipios, de conformidad con las disposiciones legales aplicables, aportarán los recursos humanos, materiales y financieros que sean necesarios para la operación de los servicios de Salubridad Local que queden comprendidos en los convenios que ambos celebren.
+El Gobierno del Estado y los Municipios, de conformidad con las disposiciones legales aplicables, aportarán los recursos humanos, materiales y financieros que sean necesarios para la operación de los servicios de Salubridad Local que queden comprendidos en los convenios que ambos celebren.
 
 Los recursos que aporten las partes quedarán expresamente destinados a los fines del convenio respectivo y sujetos al régimen legal que les corresponda.
 
@@ -383,7 +389,7 @@ Los ingresos que se obtengan por los servicios de Salubridad Local que se presta
 
 ###### ARTICULO 19.
 
-EI Gobierno del Estado y los Municipios en el ámbito de sus respectivas competencias, y en los términos de los convenios que celebren, darán prioridad a los siguientes servicios sanitarios:
+El Gobierno del Estado y los Municipios en el ámbito de sus respectivas competencias, y en los términos de los convenios que celebren, darán prioridad a los siguientes servicios sanitarios:
 
 I.- Proporcionar el servicio de agua potable para uso y consumo humano y vigilar su calidad, de conformidad con la normativa que emita la Secretaría de Salud del Ejecutivo Federal;
 
@@ -399,11 +405,11 @@ Los Municipios, conforme a las leyes aplicables, promoverán la descentralizaci�
 
 ###### ARTICULO 21.
 
-EI Gobierno del Estado podrá celebrar convenios de coordinación y cooperación sanitaria con los Gobiernos de los Estados circunvecinos, sobre aquellas materias que sean de interés común.
+El Gobierno del Estado podrá celebrar convenios de coordinación y cooperación sanitaria con los Gobiernos de los Estados circunvecinos, sobre aquellas materias que sean de interés común.
 
 ###### ARTICULO 22.
 
-EI Gobierno del Estado podrá celebrar con el Ejecutivo Federal, acuerdos de coordinación a fin de que asuma temporalmente la prestación de servicios de salud en el Estado, en los términos que en los acuerdos se convengan.
+El Gobierno del Estado podrá celebrar con el Ejecutivo Federal, acuerdos de coordinación a fin de que asuma temporalmente la prestación de servicios de salud en el Estado, en los términos que en los acuerdos se convengan.
 
 ###### ARTICULO 23.
 
@@ -475,11 +481,11 @@ XI.- La demás que establezca esta Ley o disposiciones legales a aplicables.
 
 ###### ARTICULO 30.
 
-EI Gobierno del Estado, de conformidad con las disposiciones legales aplicables, vigilará que las instituciones que presten servicios de salud en la Entidad, apliquen el Cuadro Básico de Insumos del Sector Salud. Asimismo, dicho Gobierno convendrá con el Gobierno Federal los términos en que las dependencias y entidades del Estado que presten servicios de salud, podrán participar en la elaboración del mencionado Cuadro Básico.
+El Gobierno del Estado, de conformidad con las disposiciones legales aplicables, vigilará que las instituciones que presten servicios de salud en la Entidad, apliquen el Cuadro Básico de Insumos del Sector Salud. Asimismo, dicho Gobierno convendrá con el Gobierno Federal los términos en que las dependencias y entidades del Estado que presten servicios de salud, podrán participar en la elaboración del mencionado Cuadro Básico.
 
 ###### ARTICULO 31.
 
-EI Gobierno del Estado coadyuvará con las autoridades federales competentes para:
+El Gobierno del Estado coadyuvará con las autoridades federales competentes para:
 
 I.- Que se garantice a la población del Estado la disponibilidad de medicamentos básicos, y
 
@@ -547,11 +553,11 @@ Los servicios de salud que presten las entidades públicas estatales y empresas 
 
 ###### ARTICULO 39.
 
-EI Gobierno del Estado y los Municipios podrán convenir con las instituciones federales de seguridad social, la prestación de servicios de salud para sus trabajadores.
+El Gobierno del Estado y los Municipios podrán convenir con las instituciones federales de seguridad social, la prestación de servicios de salud para sus trabajadores.
 
 ###### ARTICULO 40.
 
-EI Gobierno del Estado, la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las Autoridades Educativas, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
+El Gobierno del Estado, la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las Autoridades Educativas, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
 
 ###### ARTICULO 41.
 
@@ -681,7 +687,7 @@ I.- Los programas para padres destinados a promover la atención materno-infanti
 
 II.- Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
-III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas; .
+III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
 IV.- Acciones relacionadas con educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excretas, y
 
@@ -717,7 +723,7 @@ Il.- La atención y vigilancia de los aceptantes y usuarios de servicios de plan
 
 III.- La asesoría para la prestación de servicios de planificación familiar a cargo de los sectores públicos, social y privado y la supervisión y evaluación en su ejecución, de acuerdo con la política establecida por el Consejo Nacional de Población.
 
-IV.- EI apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la reproducción humana;
+IV.- El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la reproducción humana;
 
 V.- La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar, y
 
@@ -729,7 +735,7 @@ Los Comités de Salud a que se refiere el Artículo 53 de esta Ley, promoverán 
 
 ###### ARTICULO 65.
 
-EI Gobierno del Estado, coadyuvará con la Secretaría de Salud del Ejecutivo Federal, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional y del Programa de Planificación Familiar del Sector Salud y cuidará que se incorporen en los programas estatales de salud.
+El Gobierno del Estado, coadyuvará con la Secretaría de Salud del Ejecutivo Federal, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional y del Programa de Planificación Familiar del Sector Salud y cuidará que se incorporen en los programas estatales de salud.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
@@ -743,7 +749,7 @@ La prevención de las enfermedades mentales tienen carácter prioritario. Se bas
 
 Para la promoción de la salud mental, la Secretaría de Salud del Gobierno del Estado y las instituciones de salud en coordinación con las autoridades competentes de cada materia, fomentarán y apoyarán:
 
-I.- EI desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
@@ -765,7 +771,7 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones de atención médica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 70.
 
@@ -833,13 +839,13 @@ Para los efectos del párrafo anterior el Gobierno del Estado, en coordinación 
 
 ###### ARTICULO 79.
 
-EI Gobierno del Estado y con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
+El Gobierno del Estado y con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 80.
 
@@ -867,9 +873,9 @@ VI.- Autorizar en los lugares del Estado donde no existan profesionales o técni
 
 La Secretaría de Salud del Gobierno del Estado, sugerirá a las autoridades e instituciones educativas, cuando éstas lo soliciten, criterios sobre:
 
-I.- EI señalamiento de los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos, y
+I.- El señalamiento de los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos, y
 
-II.- EI perfil de los profesionales para la salud en sus etapas de formación.
+II.- El perfil de los profesionales para la salud en sus etapas de formación.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
@@ -1033,7 +1039,7 @@ Las Autoridades Sanitarias Estatales en coordinación con las autoridades federa
 
 ###### ARTICULO 98.
 
-EI Gobierno del Estado formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos así como de los sectores social y privado.
+El Gobierno del Estado formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos así como de los sectores social y privado.
 
 ###### ARTICULO 99.
 
@@ -1049,7 +1055,7 @@ En los programas a que se refiere el Artículo anterior, se incorporarán accion
 
 La formulación y conducción de la política de saneamiento ambiental, le corresponde en todo lo que se refiere a la salud humana, al Gobierno del Estado, el cual establecerá normas, tomará medidas y realizará actividades para evitar los riesgos y daños derivados de las condiciones del ambiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 101.
 
@@ -1095,7 +1101,7 @@ El Gobierno del Estado en coordinación con las autoridades federales y municipa
 
 ### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 106.
 
@@ -1103,7 +1109,7 @@ El Gobierno del Estado en coordinación con las autoridades federales correspond
 
 ###### ARTICULO 107.
 
-EI Gobierno del Estado, en coordinación con la (sic) dependencias y entidades federales competentes, desarrollarán y difundirán investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
+El Gobierno del Estado, en coordinación con la (sic) dependencias y entidades federales competentes, desarrollarán y difundirán investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
@@ -1183,7 +1189,7 @@ Las medidas que se requieran para la prevención y el control de las enfermedade
 
 I.- La confirmación de la enfermedad por los medios clínicos disponibles;
 
-II.- EI aislamiento, por el tiempo estrictamente necesario, de los enfermos, sospechosos de padecer la enfermedad y de los portadores de gérmenes de la misma, así como la limitación de sus actividades, cuando así se amerite por razones epidemiológicas;
+II.- El aislamiento, por el tiempo estrictamente necesario, de los enfermos, sospechosos de padecer la enfermedad y de los portadores de gérmenes de la misma, así como la limitación de sus actividades, cuando así se amerite por razones epidemiológicas;
 
 III.- La observación, en el grado que se requiera, de los contactos humanos y animales;
 
@@ -1243,7 +1249,7 @@ Las Instituciones de Salud del Estado, realizará las actividades de prevención
 
 ###### ARTICULO 124.
 
-EI ejercicio de la acción de prevención y control de las enfermedades no transmisibles, comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+El ejercicio de la acción de prevención y control de las enfermedades no transmisibles, comprenderá una o más de las siguientes medidas, según el caso de que se trate:
 
 I.- La detección oportuna de las enfermedades no transmisibles y la evaluación del riesgo de contraerlas;
 
@@ -1271,13 +1277,13 @@ Para los efectos de esta Ley, se entiende por accidente el hecho súbito que oca
 
 La acción en materia de prevención y control de accidentes comprende:
 
-I.- EI conocimiento de las causas más usuales que generen accidentes;
+I.- El conocimiento de las causas más usuales que generen accidentes;
 
 II.- La adopción de medidas para prevenir accidentes;
 
-III.- EI desarrollo de la investigación para la prevención de los mismos;
+III.- El desarrollo de la investigación para la prevención de los mismos;
 
-IV.-EI fomento, dentro de los programas de educación para la salud, de la orientación a la población para la prevención de accidentes;
+IV.- El fomento, dentro de los programas de educación para la salud, de la orientación a la población para la prevención de accidentes;
 
 V.- La atención de los padecimientos que se produzcan como consecuencia de ellos, y
 
@@ -1285,7 +1291,7 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Para la mayor eficiencia de las acciones a las que se refiere este Artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2010)</small>
 
 ### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
@@ -1299,21 +1305,21 @@ Para la mayor eficiencia de las acciones a las que se refiere este Artículo, se
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
-ARTICULO 157 bis.- Las autoridades de seguridad pública, procuración e impartición de justicia, así como de ejecución de penas y medidas de seguridad del Estado, conocerán y resolverán de los delitos o ejecutarán las sanciones y medidas de seguridad a que se refiere el Capítulo VII del Título Décimo Octavo, de la Ley General de Salud, en la forma y con la competencia prevista en el Artículo 474 de la propia Ley.
+ARTICULO 157 BIS.- Las autoridades de seguridad pública, procuración e impartición de justicia, así como de ejecución de penas y medidas de seguridad del Estado, conocerán y resolverán de los delitos o ejecutarán las sanciones y medidas de seguridad a que se refiere el Capítulo VII del Título Décimo Octavo, de la Ley General de Salud, en la forma y con la competencia prevista en el Artículo 474 de la propia Ley.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
-ARTICULO 157 ter.- Los procedimientos penales y, en su caso, la ejecución de las penas y medidas de seguridad por los delitos a que se refiere este Capítulo, se regirán por las leyes del Estado en la materia, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
+ARTICULO 157 TER.- Los procedimientos penales y, en su caso, la ejecución de las penas y medidas de seguridad por los delitos a que se refiere este Capítulo, se regirán por las leyes del Estado en la materia, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
-ARTICULO 157 quáter.- El Ministerio Público o el Juez de Garantía, en su caso, tan pronto identifiquen que una persona relacionada con un procedimiento es farmacodependiente, deberán de informar de inmediato y, en su caso, dar intervención a la Secretaría de Salud del Estado, para los efectos del tratamiento que corresponda.
+ARTICULO 157 QUÁTER.- El Ministerio Público o el Juez de Garantía, en su caso, tan pronto identifiquen que una persona relacionada con un procedimiento es farmacodependiente, deberán de informar de inmediato y, en su caso, dar intervención a la Secretaría de Salud del Estado, para los efectos del tratamiento que corresponda.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
-ARTICULO 157 quintus.- Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo emplearé para realizar cualesquiera de las conductas sancionadas en el presente Capítulo o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de los ordenamientos correspondientes.
+ARTICULO 157 QUINTUS.- Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo emplearé para realizar cualesquiera de las conductas sancionadas en el presente Capítulo o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de los ordenamientos correspondientes.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -1321,7 +1327,7 @@ ARTICULO 157 quintus.- Cuando el Ministerio Público tenga conocimiento que el p
 
 ARTICULO 157 A.- Los aspectos concernientes al control sanitario de la disposición de órganos, tejidos, células y sus componentes y derivados, productos y cadáveres de seres humanos, con fines terapéuticos, son regulados conforme a las normas correspondientes contenidas en la Ley General de Salud, el Reglamento de la Ley General de Salud, las Normas Oficiales Mexicanas y los acuerdos de observancia general que en la materia dicten las autoridades competentes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
 
 ### CAPITULO II. DEL OBJETO Y DEL CONSEJO ESTATAL DE TRASPLANTES
 
@@ -1425,7 +1431,7 @@ ARTICULO 157 L.- El Patronato para la Donación y Trasplantes de Órganos, Tejid
 
 ARTICULO 157 LL.- El Patronato para la Donación y Trasplante de Órganos, Tejidos y celulas definirá la aplicación y los rubros en que se utilizarán los recursos financieros y materiales que se obtengan por la gestión, escuchando la opinión del Consejo Estatal de Trasplantes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 128.
 
@@ -1485,11 +1491,11 @@ En estos casos las Instituciones de Salud del Estado, podrán tomar las medidas 
 
 ###### ARTICULO 134.
 
-EI Gobierno del Estado y los Municipios promoverán la creación de establecimientos en los que dé atención a personas con padecimientos mentales, a niños desprotegidos y ancianos desamparados.
+El Gobierno del Estado y los Municipios promoverán la creación de establecimientos en los que dé atención a personas con padecimientos mentales, a niños desprotegidos y ancianos desamparados.
 
 ###### ARTICULO 135.
 
-EI Gobierno del Estado y los Municipios en coordinación con las Dependencias y Entidades Públicas correspondientes, distribuirán raciones alimenticias en aquellas zonas de agudo retraso socioeconómico o en las que padezcan desastres originados por sequía, inundaciones, terremotos y otros fenómenos naturales o contingencias con efectos similares.
+El Gobierno del Estado y los Municipios en coordinación con las Dependencias y Entidades Públicas correspondientes, distribuirán raciones alimenticias en aquellas zonas de agudo retraso socioeconómico o en las que padezcan desastres originados por sequía, inundaciones, terremotos y otros fenómenos naturales o contingencias con efectos similares.
 
 ###### ARTICULO 136.
 
@@ -1547,11 +1553,11 @@ Para los efectos de esta Ley, se entiende por discapacidad a la ausencia, pérdi
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
 
-ARTICULO 147 bis.- La persona con discapacidad es aquella que presenta una deficiencia neuromotora, intelectual, auditiva o visual, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social.
+ARTICULO 147 BIS.- La persona con discapacidad es aquella que presenta una deficiencia neuromotora, intelectual, auditiva o visual, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
 
-ARTICULO 147 ter- La rehabilitación es el proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel neuromotor, intelectual, auditivo o visual óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social.
+ARTICULO 147 TER.- La rehabilitación es el proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel neuromotor, intelectual, auditivo o visual óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social.
 
 Este proceso requiere de la intervención de profesionales de la salud en forma reiterada, con la finalidad de establecer el adecuado seguimiento de casos, evaluar el progreso de la rehabilitación y detectar complicaciones asociadas a la misma que requieran un ajuste en el plan terapéutico y de rehabilitación.
 
@@ -1583,13 +1589,13 @@ Los servicios de rehabilitación que proporcionen los establecimientos del secto
 
 ###### ARTICULO 150.
 
-EI Gobierno del Estado, a través del organismo a que se refiere el Artículo 133 de esta Ley, y en coordinación con las dependencias y entidades federales, deberá promover el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas con discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+El Gobierno del Estado, a través del organismo a que se refiere el Artículo 133 de esta Ley, y en coordinación con las dependencias y entidades federales, deberá promover el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas con discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 151.
 
-EI organismo del Gobierno Estatal previsto en el Artículo 133 de esta Ley tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de discapacidad y participar en programas de rehabilitación y educación especial.
+El organismo del Gobierno Estatal previsto en el Artículo 133 de esta Ley tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de discapacidad y participar en programas de rehabilitación y educación especial.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
@@ -1625,13 +1631,13 @@ ARTICULO 157 O.- El Secretario de Salud del Estado, proporcionará al Consejo Es
 
 ###### ARTICULO 152.
 
-EI Gobierno del Estado se coordinará con las Autoridades Sanitarias Federales para la ejecución en el Estado del Programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas que comprenderá, entre otras, las siguientes acciones:
+El Gobierno del Estado se coordinará con las Autoridades Sanitarias Federales para la ejecución en el Estado del Programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas que comprenderá, entre otras, las siguientes acciones:
 
 I.- La prevención y tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
 
 II.- La educación sobre los efectos del alcohol en salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva;
 
-III.- EI fomento de actividades cívicas, deportivas o culturales que coadyuven en la lucha contra el alcoholismo especialmente en zonas rurales en los grupos de población considerados de alto riesgo; y
+III.- El fomento de actividades cívicas, deportivas o culturales que coadyuven en la lucha contra el alcoholismo especialmente en zonas rurales en los grupos de población considerados de alto riesgo; y
 
 IV.- Ejercer medios de control en los expendios de bebidas alcohólicas para prevenir su venta y consumo, a menores de edad e incapaces.
 
@@ -1653,7 +1659,7 @@ IV.- Efectos de abuso de bebidas alcohólicas en los ámbitos familiar, social, 
 
 ###### ARTICULO 154.
 
-EI Gobierno del Estado se coordinará con la Autoridades Sanitarias Federales para la ejecución en el Estado del Programa contra el Tabaquismo, que comprenderá entre otras, las siguientes acciones:
+El Gobierno del Estado se coordinará con la Autoridades Sanitarias Federales para la ejecución en el Estado del Programa contra el Tabaquismo, que comprenderá entre otras, las siguientes acciones:
 
 I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo, y
 
@@ -1725,7 +1731,7 @@ IV.- Promoverán y llevarán a cabo campañas permanentes de información y orie
 
 A los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Gobierno Estatal y los Municipios, así como los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ### CAPITULO III. DE LAS CONSTRUCCIONES
 
@@ -1749,7 +1755,7 @@ A los establecimientos que vendan o utilicen substancias inhalantes con efectos 
 
 Corresponde al Gobierno del Estado y a los Ayuntamientos en el ámbito de sus respectivas competencias, en los términos de esta Ley, de las demás disposiciones legales aplicables y de los convenios y acuerdos que celebren en la materia, el Control Sanitario de las materias a que se refiere el Artículo 5o., Apartado "B" de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 159.
 
@@ -1767,7 +1773,7 @@ El Gobierno del Estado emitirá las Normas Técnicas a que quedará sujeto el Co
 
 Los establecimientos que señala el Artículo 5o. Apartado "B" de esta Ley, no requerirán de autorización sanitaria; debiéndose ajustar al control y verificación sanitaria, así como a los requisitos sanitarios establecidos en las disposiciones reglamentarias y normas técnicas que en materia de Salubridad Local se expidan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 162.
 
@@ -1813,9 +1819,9 @@ Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a
 
 Para los efectos de esta Ley se entiende por:
 
-I.- MERCADOS: EI sitio público destinado a la compra y venta de productos en general, preferentemente agrícolas y de primera necesidad, en forma permanente o en días determinados, y
+I.- MERCADOS: El sitio público destinado a la compra y venta de productos en general, preferentemente agrícolas y de primera necesidad, en forma permanente o en días determinados, y
 
-II.- CENTROS DE ABASTO: EI sitio destinado al servicio público en maniobras de carga y descarga, la conservación en frío y demás operaciones relativas a la compra-venta al mayoreo y medio mayoreo de productos en general.
+II.- CENTROS DE ABASTO: El sitio destinado al servicio público en maniobras de carga y descarga, la conservación en frío y demás operaciones relativas a la compra-venta al mayoreo y medio mayoreo de productos en general.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
@@ -1865,7 +1871,7 @@ Cuando el uso que se pretenda dar a un edificio o local sea público, además de
 
 ###### ARTICULO 176.
 
-EI dueño, encargado o poseedor de la construcción, reconstrucción, modificación o acondicionamiento de cualquiera de los establecimientos a que se refiere este capítulo, deberá dar aviso de inicio y terminación de obra a la Autoridad Municipal competente quien vigilará el cumplimiento de los requisitos sanitarios aprobados en el proyecto.
+El dueño, encargado o poseedor de la construcción, reconstrucción, modificación o acondicionamiento de cualquiera de los establecimientos a que se refiere este capítulo, deberá dar aviso de inicio y terminación de obra a la Autoridad Municipal competente quien vigilará el cumplimiento de los requisitos sanitarios aprobados en el proyecto.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
@@ -1875,11 +1881,11 @@ EI dueño, encargado o poseedor de la construcción, reconstrucción, modificaci
 
 Para los efectos de esta Ley se considera:
 
-I.- CEMENTERIO: EI lugar destinado a la inhumación de los cadáveres y restos humanos;
+I.- CEMENTERIO: El lugar destinado a la inhumación de los cadáveres y restos humanos;
 
 II.- CREMATORIOS: Las instalaciones destinadas a la incineración de cadáveres y restos humanos, y
 
-III.- FUNERARIA: EI establecimiento dedicado a la prestación del servicio, venta de féretros, velación y traslado de cadáveres de seres humanos a los cementerios o crematorios.
+III.- FUNERARIA: El establecimiento dedicado a la prestación del servicio, venta de féretros, velación y traslado de cadáveres de seres humanos a los cementerios o crematorios.
 
 ###### ARTICULO 178.
 
@@ -1887,7 +1893,7 @@ Para establecer un cementerio o crematorio se requiere que su ubicación esté f
 
 ###### ARTICULO 179.
 
-EI funcionamiento de los cementerios o crematorios estará sujeto a esta Ley, otras disposiciones reglamentarias aplicables y las normas técnicas correspondientes.
+El funcionamiento de los cementerios o crematorios estará sujeto a esta Ley, otras disposiciones reglamentarias aplicables y las normas técnicas correspondientes.
 
 ###### ARTICULO 180.
 
@@ -1925,7 +1931,7 @@ Se debe entender por desecho sólido a todo material orgánico e inorgánico gen
 
 ###### ARTICULO 187.
 
-EI servicio de limpieza pública se sujetará a lo siguiente:
+El servicio de limpieza pública se sujetará a lo siguiente:
 
 I.- Los desechos sólidos serán recolectados a través de sistemas perfectamente planeados, que sea constante y eficiente, que no produzca riesgos para la salud, manipulándose lo estrictamente indispensable hasta su confinamiento.
 
@@ -1941,15 +1947,15 @@ V.- El sistema de eliminación de desechos deberá estar situado a una distancia
 
 VI.- Los desechos deberán eliminarse a través del sistema de relleno sanitario que en esencia consiste en vaciar, en una zanja previa y convenientemente seleccionada los desechos, compactándolos y cubriéndolos posteriormente con una capa del mismo material extraído de dicha zanja.
 
-VII.- EI cumplimiento de las demás medidas y requisitos que establezcan las Leyes y Reglamentos vigentes en el Estado y las normas técnicas que expida la Autoridad Sanitaria.
+VII.- El cumplimiento de las demás medidas y requisitos que establezcan las Leyes y Reglamentos vigentes en el Estado y las normas técnicas que expida la Autoridad Sanitaria.
 
 ###### ARTICULO 188.
 
-EI tratamiento, confinamiento o eliminación de los residuos peligrosos corresponderá a la Autoridad Federal competente; entendiéndose por residuos peligrosos todos aquellos que en cualquier estado físico, por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, flamables, biológico-infecciosos o irritantes representen un peligro para el equilibrio ecológico, el ambiente y la salud pública.
+El tratamiento, confinamiento o eliminación de los residuos peligrosos corresponderá a la Autoridad Federal competente; entendiéndose por residuos peligrosos todos aquellos que en cualquier estado físico, por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, flamables, biológico-infecciosos o irritantes representen un peligro para el equilibrio ecológico, el ambiente y la salud pública.
 
 ###### ARTICULO 189.
 
-EI Gobierno del Estado, por conducto de los Ayuntamientos, proveerá de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares de la vía pública que estén dentro de su jurisdicción, además se ordenará la fumigación periódica en los mismos.
+El Gobierno del Estado, por conducto de los Ayuntamientos, proveerá de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares de la vía pública que estén dentro de su jurisdicción, además se ordenará la fumigación periódica en los mismos.
 
 ###### ARTICULO 190.
 
@@ -1973,7 +1979,7 @@ Para los efectos de esta Ley se entiende por rastro, el establecimiento destinad
 
 ###### ARTICULO 194.
 
-EI funcionamiento, aseo y conservación de los rastros municipales, quedará a cargo de la Autoridad Municipal competente. Si fueren concesionados a particulares, las acciones anteriores, quedarán a cargo de los mismos y bajo la supervisión de las Autoridades Municipales competentes. En ambos casos, quedan sujetos a la observación de los (sic) dispuesto por esta Ley y otras disposiciones legales aplicables.
+El funcionamiento, aseo y conservación de los rastros municipales, quedará a cargo de la Autoridad Municipal competente. Si fueren concesionados a particulares, las acciones anteriores, quedarán a cargo de los mismos y bajo la supervisión de las Autoridades Municipales competentes. En ambos casos, quedan sujetos a la observación de los (sic) dispuesto por esta Ley y otras disposiciones legales aplicables.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
@@ -1991,7 +1997,7 @@ Podrá sacrificarse ganado menor en domicilios particulares, sólo en el caso de
 
 ###### ARTICULO 197.
 
-EI sacrificio de los animales sujetos al aprovechamiento humano, en cualquiera de sus formas, deberá realizarse, con métodos científicos y técnicos actualizados y específicos que señalen las disposiciones reglamentarias o normas técnicas correspondientes, con el objeto de impedir toda crueldad que cause sufrimiento a los animales.
+El sacrificio de los animales sujetos al aprovechamiento humano, en cualquiera de sus formas, deberá realizarse, con métodos científicos y técnicos actualizados y específicos que señalen las disposiciones reglamentarias o normas técnicas correspondientes, con el objeto de impedir toda crueldad que cause sufrimiento a los animales.
 
 ###### ARTICULO 198.
 
@@ -2007,7 +2013,7 @@ Los vehículos y personas que intervengan en el transporte de carne destinada al
 
 ###### ARTICULO 201.
 
-EI sacrificio de los animales en los rastros se efectuará en los días y horas que fije la Autoridad Sanitaria Municipal, en coordinación con la Autoridad Sanitaria Estatal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
+El sacrificio de los animales en los rastros se efectuará en los días y horas que fije la Autoridad Sanitaria Municipal, en coordinación con la Autoridad Sanitaria Estatal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
 ###### ARTICULO 202.
 
@@ -2019,7 +2025,7 @@ Queda prohibida la venta de carne para el consumo humano, cuando no se cumplan c
 
 ###### ARTICULO 203.
 
-EI Gobierno Estatal y Municipal en sus respectivos ámbitos de competencia, se coordinarán con las dependencias del sector público estatal para procurar que las poblaciones tengan servicio regular de aprovisionamiento y distribución de agua potable.
+El Gobierno Estatal y Municipal en sus respectivos ámbitos de competencia, se coordinarán con las dependencias del sector público estatal para procurar que las poblaciones tengan servicio regular de aprovisionamiento y distribución de agua potable.
 
 Cuando el servicio de aprovisionamiento y distribución de agua potable sea concesionado a los particulares, éstos deberán cumplir con la presente Ley, su Reglamento y las Normas Técnicas que se emitan al respecto.
 
@@ -2071,7 +2077,7 @@ II.- GRANJAS AVICOLAS: Los establecimientos dedicados a la cría reproducción y
 
 III.- GRANJAS PORCICOLAS: Los establecimientos dedicados a la cría, reproducción, mejoramiento y explotación de cerdos;
 
-IV.- APIARIOS: EI conjunto de colmenas destinadas a la cría, explotación y mejoramiento genético de abejas, y
+IV.- APIARIOS: El conjunto de colmenas destinadas a la cría, explotación y mejoramiento genético de abejas, y
 
 V.- ESTABLECIMIENTOS SIMILARES: Todos aquellos dedicados a la cría, reproducción, mejoramiento y explotación de especies animales no incluidas en las fracciones anteriores, pero aptas para el consumo humano
 
@@ -2153,9 +2159,23 @@ Una vez terminada la edificación del centro de reunión y antes de abrirse al p
 
 ###### ARTICULO 226.
 
-EI funcionamiento de los establecimientos a que se refiere el Artículo 224 de esta Ley, deberá sujetarse a las disposiciones legales aplicables y, contara con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+El funcionamiento de los establecimientos a que se refiere el Artículo 224 de esta Ley, deberá sujetarse a las disposiciones legales aplicables y, contara con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XIX. CASAS, EDIFICIOS Y, EN GENERAL, CUALQUIER INMUEBLE DE DOMINIO PUBLICO O PRIVADO
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+
+ARTICULO 248 BIS.- Para los efectos de esta Ley, se entiende por casas, edificios y, en general, cualquier inmueble de dominio público o privado, a los establecimientos destinados como casa habitación, centros de trabajo, bodegas y, cualquier otro tipo de inmueble rústico o urbano.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+
+ARTICULO 248 TER.- Los propietarios o poseedores de cualquiera de los establecimientos señalados en el artículo anterior, estarán obligados a conservar las condiciones de saneamiento básico de los mismos, en los términos que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes, so pena de las acciones sanitarias preventivas de seguridad a fin de garantizar la salud pública, independientemente de las medidas y sanciones aplicables por esta Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+
+ARTICULO 248 QUÁTER.- La Secretaría verificará que los establecimientos destinados como casa habitación, centros de trabajo, bodegas y, cualquier otro tipo de inmueble rústico o urbano, cumplan con las condiciones de saneamiento básico que determine esta Ley, los reglamentos respectivos, las normas técnicas correspondientes y las disposiciones legales aplicables.
+
+En el supuesto de que el establecimiento a verificar se encuentre permanentemente cerrado y la causa que origina la visita represente un riesgo inminente para la salud pública, la autoridad sanitaria competente, previa autorización judicial, tendrá libre acceso para llevar a cabo las acciones sanitarias necesarias para corregir las anomalías existentes o detectadas en el establecimiento, mismas que se harán con cargo al propietario.
 
 ###### ARTICULO 227.
 
@@ -2163,21 +2183,21 @@ Para los efectos de esta Ley, se entiende por Peluquería, Salones de Belleza y 
 
 ###### ARTICULO 228.
 
-EI funcionamiento y personal de los establecimientos señalados en el Artículo anterior deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+El funcionamiento y personal de los establecimientos señalados en el Artículo anterior deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 229.
 
 Para los efectos de esta Ley, se entiende por:
 
-I.- TINTORERIA: EI establecimiento dedicado al lavado y planchado de ropa, independientemente del proceso utilizado;
+I.- TINTORERIA: El establecimiento dedicado al lavado y planchado de ropa, independientemente del proceso utilizado;
 
-II.- LAVANDERIA: EI establecimiento dedicado al lavado de ropa, y
+II.- LAVANDERIA: El establecimiento dedicado al lavado de ropa, y
 
-III.- LAVADERO PUBLICO: EI establecimiento al cual acuden los interesados para realizar personalmente el lavado de ropa.
+III.- LAVADERO PUBLICO: El establecimiento al cual acuden los interesados para realizar personalmente el lavado de ropa.
 
 ###### ARTICULO 230.
 
@@ -2185,7 +2205,7 @@ Corresponde a la Autoridad Sanitaria competente ejercer la verificación sanitar
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 231.
 
@@ -2205,9 +2225,7 @@ En los establecimientos de hospedaje, se deberá contar necesariamente con los e
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 234.
 
@@ -2219,7 +2237,7 @@ Los transportes que circulen por uno o más Municipios del Estado no requerirán
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
@@ -2231,7 +2249,9 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad así como las características sanitarias y de prevención ecológicas que establezcan las disposiciones legales y reglamentos aplicables y las norma técnicas correspondientes.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 238.
 
@@ -2255,7 +2275,7 @@ VI.- Obtener los diagnósticos de rabia por medio de análisis de laboratorio;
 
 VII.- Canalizar a las personas agredidas, para su tratamiento oportuno, y
 
-VIII.- EI sacrificio humanitario de los animales, que habiendo cumplido el lapso de observación no hayan sido reclamados por sus propietarios o cuando éstos así lo soliciten.
+VIII.- El sacrificio humanitario de los animales, que habiendo cumplido el lapso de observación no hayan sido reclamados por sus propietarios o cuando éstos así lo soliciten.
 
 ###### ARTICULO 240.
 
@@ -2263,9 +2283,9 @@ Los propietarios de los animales a que se refiere el Artículo anterior estarán
 
 ###### ARTICULO 241.
 
-Las Autoridades Sanitarias. mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia así como otras zoonosis.
+Las Autoridades Sanitarias, mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia así como otras zoonosis.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 242.
 
@@ -2297,13 +2317,15 @@ Queda prohibida la venta de insumos para la salud, complementos alimenticios, vi
 
 Los vendedores semifijos y ambulantes no podrán vender pescado, marisco, aguas frescas y demás alimentos que contemple el reglamento respectivo.
 
-### CAPITULO IV. RECURSOS DE INCONFORMIDAD
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2013)</small>
+
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ## TITULO XIII. VIGILANCIA SANITARIA
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSOS DE INCONFORMIDAD
 
 ###### ARTICULO 249.
 
@@ -2343,6 +2365,8 @@ Los derechos a que se refiere esta Ley se regirán por lo que disponga la Legisl
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
+### CAPITULO V. PRESCRIPCION
+
 ###### ARTICULO 257.
 
 La Autoridad Sanitaria local competente podrá revocar las autorizaciones que haya otorgado en los siguientes casos:
@@ -2359,7 +2383,7 @@ V.- Por reiteradas renuencias a acatar las órdenes que dicte la Autoridad Sanit
 
 VI.- Cuando resulten falsos los datos o documentos proporcionados por el interesado, que hubieren servido de base a la Autoridad Sanitaria, para otorgar la autorización;
 
-VII.- Cuando el interesado no se ajuste a los términos, condiciones y requisitos en que se !e haya otorgado la autorización o haga uso indebido de ésta;
+VII.- Cuando el interesado no se ajuste a los términos, condiciones y requisitos en que se le haya otorgado la autorización o haga uso indebido de ésta;
 
 > <small>(ADICIONADA, P.O. 30 DE ABRIL DE 1998)</small>
 
@@ -2415,7 +2439,7 @@ Para fines sanitarios se extenderán los siguientes certificados:
 
 I.- Prenupciales;
 
-II.- De defunción ;
+II.- De defunción;
 
 III.- De muerte fetal, y
 
@@ -2423,7 +2447,7 @@ IV.- Los demás que determine la Ley General de Salud
 
 ###### ARTICULO 267.
 
-EI Certificado Médico Prenupcial será requerido por las autoridades del Registro Civil a quienes pretendan contraer matrimonio con las excepciones que establezcan las dispociones (sic) generales aplicables.
+El Certificado Médico Prenupcial será requerido por las autoridades del Registro Civil a quienes pretendan contraer matrimonio con las excepciones que establezcan las dispociones (sic) generales aplicables.
 
 ###### ARTICULO 268.
 
@@ -2451,7 +2475,7 @@ Las demás dependencias y entidades públicas en el Estado coadyuvarán a la vig
 
 ###### ARTICULO 272.
 
-EI acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación y fomentos de los infractores, con independencia de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes en esos casos.
+El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación y fomentos de los infractores, con independencia de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes en esos casos.
 
 ###### ARTICULO 273.
 
@@ -2489,15 +2513,27 @@ Tratándose de actividades que se realicen en la vía pública, las órdenes pod
 
 En la diligencia de verificación sanitaria se deberán observar las siguientes reglas:
 
-I.- AI iniciar la visita el verificador deberá exhibir la credencial vigente, expedida por la Autoridad Sanitaria competente, que lo acredite legalmente para desempeñar dicha función, así como la orden expresa a que se refiere al Artículo 277 de esta Ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento. Esta circunstancia se deberá anotar en el acta correspondiente.
+I.- Al iniciar la visita el verificador deberá exhibir la credencial vigente, expedida por la Autoridad Sanitaria competente, que lo acredite legalmente para desempeñar dicha función, así como la orden expresa a que se refiere al Artículo 277 de esta Ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento. Esta circunstancia se deberá anotar en el acta correspondiente.
 
-II.- AI inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento y al conductor del transporte según el caso, que proponga a dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la autoridad que practique la verificación. Estas circunstancias, el nombre, domicilio y firma de los testigos, se hará constar en el acta:
+II.- Al inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento y al conductor del transporte según el caso, que proponga a dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la autoridad que practique la verificación. Estas circunstancias, el nombre, domicilio y firma de los testigos, se hará constar en el acta:
 
 III.- En el acta que se levante con motivo de la verificación, se hará constar las circunstancias de las diligencias, las deficiencias o anomalías sanitarias observadas, el número y tipo de muestras tomadas o en su caso las medidas de seguridad que se ejecuten, y
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-IV.- AI concluir la verificación, se dará oportunidad al propietario, responsable, encargado u ocupantes del establecimiento o al conductor del transporte según el caso, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que se le entregará una copia. La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez, ni la de la diligencia practicada.
+IV.- Al concluir la verificación, se dará oportunidad al propietario, responsable, encargado u ocupantes del establecimiento o al conductor del transporte según el caso, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que se le entregará una copia. La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez, ni la de la diligencia practicada.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+
+ARTÍCULO 278 BIS. Para el desarrollo de una diligencia y cuando por alguna situación ajena al personal comisionado no pueda efectuarse la visita de verificación correspondiente, según el caso, se procederá a lo siguiente:
+
+I.- Cuando el domicilio señalado no corresponda al establecimiento programado, se levantará un acta informativa;
+
+II.- Cuando no haya quien la atienda, el verificador sanitario dejará citatorio pegado en la vía de acceso indicando día y hora en que se presentará nuevamente a fin de que ésta sea atendida, de lo cual asentará la razón en el citatorio respectivo.
+
+III.- Cuando se niegue el acceso al establecimiento o por segunda ocasión no haya quien atienda la diligencia, se dejará aviso donde se establecerá el término de tres días hábiles para que el responsable, propietario o representante legal del establecimiento se presente a la oficina correspondiente a declarar lo que a su derecho convenga; y
+
+IV.- Cuando el establecimiento a verificar se encuentre permanentemente cerrado y la causa que origina la visita represente un riesgo inminente para la salud pública, el titular de la Secretaría de Salud, procederá en términos de lo que dispone el segundo párrafo del artículo 248-Quáter de esta ley.
 
 ###### ARTICULO 279.
 
@@ -2523,7 +2559,7 @@ VI.- Con la impugnación a que se refiere la Fracción anterior, el interesado d
 
 VII.- La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la autoridad sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos, el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos, y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
 
 VIII.- El resultado de los análisis de la muestra testigo, se notificará al interesado o al titular de la autorización sanitaria de que se trate, en forma personal o por correo certificado con acuse de recibo, telefax o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos y en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a otorgar la autorización que se haya solicitado, o a ordenar el levantamiento de la medida de seguridad que hubiera ejecutado, según corresponda.
 
@@ -2535,9 +2571,9 @@ Si la diligencia se practica en un establecimiento que no sea donde se fabrica o
 
 En este caso, el titular podrá inconformarse, solicitando se realizado el análisis de la muestra testigo.
 
-EI depositario de la muestra testigo será responsable solidario con el interesado, si no conserva la muestra citada.
+El depositario de la muestra testigo será responsable solidario con el interesado, si no conserva la muestra citada.
 
-EI procedimiento de muestreo no impide que la Autoridad Sanitaria competente dicte ejecute las medidas de seguridad sanitarias que procedan, en cuyo caso se asentará en el acta de verificación las que se hubieren ejecutado y los productos que comprenda.
+El procedimiento de muestreo no impide que la Autoridad Sanitaria competente dicte ejecute las medidas de seguridad sanitarias que procedan, en cuyo caso se asentará en el acta de verificación las que se hubieren ejecutado y los productos que comprenda.
 
 ###### ARTICULO 280.
 
@@ -2565,7 +2601,7 @@ La participación de los Municipios estará determinada por los convenios que ce
 
 Son medidas de seguridad sanitaria y de inmediata ejecución, las siguientes:
 
-I.- EI aislamiento;
+I.- El aislamiento;
 
 II.- La cuarentena;
 
@@ -2579,7 +2615,7 @@ VI.- La destrucción o control de insectos u otra fauna transmisora y nociva;
 
 VII.- La suspensión de trabajos o servicios;
 
-VIII.- EI aseguramiento y destrucción de objetos, productos o substancias;
+VIII.- El aseguramiento y destrucción de objetos, productos o substancias;
 
 IX.- La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio;
 
@@ -2589,7 +2625,7 @@ XI.- Las demás de índole sanitaria que determine las Autoridades Sanitaria del
 
 ###### ARTICULO 285.
 
-Se entiende por aislamiento, la separación de personas infectadas, durante el período de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio. EI aislamiento se ordenará por escrito por la Autoridad Sanitaria competente, previo dictamen médico y dará el tiempo estrictamente necesario para que desaparezca el peligro.
+Se entiende por aislamiento, la separación de personas infectadas, durante el período de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio. El aislamiento se ordenará por escrito por la Autoridad Sanitaria competente, previo dictamen médico y dará el tiempo estrictamente necesario para que desaparezca el peligro.
 
 ###### ARTICULO 286.
 
@@ -2611,9 +2647,9 @@ III.- Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
 ###### ARTICULO 289.
 
-EI Gobierno del Estado podrá ordenar o proceder a la vacunación de animales que puedan constituirse en trasmisores de enfermedades al hombre o que ponga en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la salud animal.
+El Gobierno del Estado podrá ordenar o proceder a la vacunación de animales que puedan constituirse en trasmisores de enfermedades al hombre o que ponga en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la salud animal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 290.
 
@@ -2633,7 +2669,7 @@ La suspensión de trabajos o servicios será temporal. Podrá ser total o parcia
 
 Durante la suspensión se podrá permitir el acceso de las personas que tengan encomendada la corrección de las irregularidades que la motivaron.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 293.
 
@@ -2671,7 +2707,7 @@ IV.- Arresto hasta por treinta y seis horas.
 
 ###### ARTICULO 297.
 
-AI imponerse una sanción, se fundará y motivará la resolución, tomando en cuenta:
+Al imponerse una sanción, se fundará y motivará la resolución, tomando en cuenta:
 
 I.- Los daños que se hayan producido o puedan producirse en la salud de las personas.
 
@@ -2833,17 +2869,17 @@ Contra actos y resoluciones que dicten las Autoridades Sanitarias del Estado que
 
 ###### ARTICULO 318.
 
-EI plazo para interponer el recurso será de quince días hábiles, contados a partir del día siguiente a aquél en que se hubiese notificado la resolución o acto que se recurra.
+El plazo para interponer el recurso será de quince días hábiles, contados a partir del día siguiente a aquél en que se hubiese notificado la resolución o acto que se recurra.
 
 ###### ARTICULO 319.
 
-EI recurso se interpondrá ante la unidad administrativa que hubiese dictado la resolución o acto combatido, directamente o por correo certificado con acuse de recibo. En este último caso, se tendrá como fecha de presentación la del día de su depósito en la oficina de correos.
+El recurso se interpondrá ante la unidad administrativa que hubiese dictado la resolución o acto combatido, directamente o por correo certificado con acuse de recibo. En este último caso, se tendrá como fecha de presentación la del día de su depósito en la oficina de correos.
 
 ###### ARTICULO 320.
 
 En el escrito se precisará el nombre y domicilio de quien promueva, los hechos objetos del recurso, la fecha en que, bajo protesta de decir verdad, manifieste el recurrente que tuvo conocimiento de la resolución o acto impugnado, los agravios que, a juicio del recurrente, le cause la resolución o acto impugnado, la mención de la autoridad que haya dictado la resolución, ordenado o ejecutado el acto y el ofrecimiento de las pruebas que el inconforme se proponga rendir.
 
-AI escrito deberán acompañarse los siguientes documentos:
+Al escrito deberán acompañarse los siguientes documentos:
 
 I.- Los que acrediten la personalidad del promovente, siempre que no sea el directamente afectado y cuando dicha personalidad no hubiera sido reconocida con anterioridad por la Autoridad Sanitaria correspondiente, en la instancia o expediente que concluyó con la resolución impugnada;
 
@@ -2857,7 +2893,7 @@ En la tramitación del recurso se admitirá toda clase de medios probatorios, ex
 
 ###### ARTICULO 322.
 
-AI recibir el recurso, la unidad respectiva verificará si éste es procedente, y si fue interpuesto en tiempo debe de admitirlo o, en su caso, requerir al promovente para que lo aclare, concediéndole al efecto un término de cinco días hábiles.
+Al recibir el recurso, la unidad respectiva verificará si éste es procedente, y si fue interpuesto en tiempo debe de admitirlo o, en su caso, requerir al promovente para que lo aclare, concediéndole al efecto un término de cinco días hábiles.
 
 En el caso que la unidad citada considere, previo estudio de los antecedentes respectivos, que procede su desechamiento, emitirá opinión técnica en tal sentido.
 
@@ -2901,7 +2937,7 @@ En la tramitación del recurso de inconformidad, se aplicará supletoriamente el
 
 ###### ARTICULO 329.
 
-EI ejercicio de la facultad para imponer las sanciones administrativas que dicte la autoridad competente previstas en la presente Ley, su reglamento y disposiciones aplicables en la materia, prescribirán en el término de tres años.
+El ejercicio de la facultad para imponer las sanciones administrativas que dicte la autoridad competente previstas en la presente Ley, su reglamento y disposiciones aplicables en la materia, prescribirán en el término de tres años.
 
 ###### ARTICULO 330.
 
@@ -2951,7 +2987,7 @@ DIPUTADO PRESIDENTE:
 
 MARGARITO ALBORNOZ CUPUL
 
-DIPUTADO SECRETRIO:
+DIPUTADO SECRETARIO:
 
 MARGARITO BUITRON HERNÁNDEZ
 
@@ -2971,7 +3007,7 @@ EL C. SECRETARIO ESTATAL DE SALUD
 
 C. DR. HECTOR ESQUILIANO SOLIS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE ABRIL DE 1998.
 
@@ -2985,7 +3021,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 30 DE JUNIO DE 2010.
 
-DECRETO NUMERO 287, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 5, 13 Y EL TITULO DECIMO PRIMERO BIS DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO.
+DECRETO NÚMERO 287, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 5, 13 Y EL TÍTULO DÉCIMO PRIMERO BIS DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -3003,7 +3039,7 @@ T R A N S I T O R I O:
 
 P.O. 30 DE JUNIO DE 2010.
 
-DECRETO NUMERO 294, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 5, 33, 52, 87, 92, 96, 130, 147, 147 BIS, 147 TER, 148, 150, 151 Y EL NOMBRE AL TITULO NOVENO DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO.
+DECRETO NÚMERO 294, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 5, 33, 52, 87, 92, 96, 130, 147, 147 BIS, 147 TER, 148, 150, 151 Y EL NOMBRE AL TÍTULO NOVENO DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -3020,3 +3056,7 @@ P.O. 9 DE AGOSTO DE 2010.
 TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 14 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
