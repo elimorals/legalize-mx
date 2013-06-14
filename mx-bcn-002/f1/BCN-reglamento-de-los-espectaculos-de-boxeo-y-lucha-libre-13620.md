@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-los-espectaculos-de-boxeo-y-lucha-libre-13620"
 country: "mx"
 rank: "reglamento"
 publication_date: "1976-04-30"
-last_updated: "1976-04-30"
+last_updated: "2013-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE LOS ESPECTACULOS DE BOXEO Y LUCHA LIBRE PROFESIONALES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LOS ESPECTÁCULOS DE BOXEO, LUCHA LIBRE Y ARTES MARCIALES MIXTAS PROFESIONALES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LOS ESPECTACULOS DE BOXEO Y LUCHA LIBRE PROFESIONALES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de abril de 1976.
 
@@ -1524,3 +1526,15 @@ Que en Sesión de Cabildo celebrada con fecha 19 de marzo de 1976, fue aprobado 
 SUFRAGIO EFECTIVO. NO REELECCION
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JUNIO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA ABROGAR EL REGLAMENTO DE LOS ESPECTÁCULOS DE BOXEO Y LUCHA LIBRE PROFESIONALES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL DÍA 30 DE ABRIL DEL AÑO 1976, ASÍ COMO POSTERIORMENTE REFORMAS AL MISMO; ASÍ CÓMO SE APRUEBA EL REGLAMENTO DE LOS ESPECTÁCULOS DE BOXEO, LUCHA LIBRE Y ARTES MARCIALES MIXTAS PROFESIONALES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
+
+SEGUNDO.- Se derogan todos los acuerdos y disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO.- Se abroga el Reglamento de los Espectáculos de Boxeo y Lucha Libre Profesionales para el Municipio de Mexicali, Baja California, publicado en el periódico oficial de fecha 30 de abril de 1976.
