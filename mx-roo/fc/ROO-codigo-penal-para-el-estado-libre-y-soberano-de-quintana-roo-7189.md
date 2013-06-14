@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2012-12-26"
+last_updated: "2013-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 160 PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -363,7 +361,7 @@ II.- Los tutores o custodios, por los delitos de los incapacitados que estén ba
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-III.- Los directores o propietarios de internados, colegios o talleres, que reciban en su establecimiento personas menores de dieciocho años por las infracciones que cometan éstos durante el tiempo que se hallen bajo la dependencia de aquellos;
+III.- Los directores o propietarios de internados, colegios o talleres, que reciban en su establecimiento personas menores de dieciocho años por las infracciones que cometan éstos durante el tiempo que se hallen bajo la dependencia de aquéllos;
 
 IV.- Las personas físicas, las jurídicas colectivas o que se ostenten como tales, por los delitos que cometa cualquier persona vinculada con aquellos por una relación laboral, con motivo y en el desempeño de sus servicios;
 
@@ -1205,6 +1203,8 @@ Además de las penas previstas, se impondrá suspensión para ejercer la profesi
 
 ### CAPITULO IV. AMENAZAS
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 114.
 
 Al particular que ilegalmente prive a otro de su libertad personal, se le aplicará prisión de seis meses a tres años.
@@ -1293,7 +1293,11 @@ En los demás casos en que espontáneamente se libere al secuestrado, la pena se
 
 ###### ARTICULO 123.
 
-Al que amenace a otro con causarle un daño en su persona de manera reiterada y en un corto período de tiempo, o en sus bienes o en los de un tercero con quien el ofendido tenga algún vínculo, se le impondrá prisión de seis meses a un año o trabajo en favor de la comunidad hasta por seis meses.
+Al que por cualquier medio amenace dos o más veces a otro con causarle un daño en su persona, bienes o derechos, o en la persona, bienes o derechos con quien el ofendido tenga algún vínculo, se le impondrá de seis meses a un año de prisión o trabajo en favor de la comunidad hasta por seis meses.
+
+Se debe entender como persona ligada por algún vínculo con el ofendido, a los que tengan algún tipo de parentesco con este último, de acuerdo a lo establecido en los Artículos 826 al 836 del Código Civil para el Estado Libre y Soberano de Quintana Roo.
+
+Este delito se perseguirá previa querella.
 
 ### CAPITULO UNICO. REVELACION DEL SECRETO
 
@@ -1577,13 +1581,19 @@ I.- Acometiendo a la víctima encontrándose ésta en un vehículo particular o 
 
 II.- Respecto de vehículos estacionados en la vía pública o en otro lugar destinado a su guarda o reparación;
 
-III.- Respecto de instrumentos de labranza, alambre utilizado para cercar, frutos cosechados o por cosechar;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2013)</small>
+
+III.- Respecto de cualquier máquina, objeto, instrumento o pieza que sea utilizado en la agricultura y/o en el riego de cultivos agrícolas; así como de postes, alambres y otros materiales utilizados para cercar frutos cosechados o por cosechar, dejando a éstos desprotegidos en todo o en parte;
 
 IV.- Sobre embarcaciones o cosas que se encuentren en ellas;
 
 V.- Quebrantando la confianza o seguridad derivada de una relación de servicios, trabajo u hospitalidad, o
 
-VI.- Valiéndose de identificaciones falsas o supuestas órdenes de alguna autoridad.
+VI.- Valiéndose de identificaciones falsas o supuestas órdenes de alguna autoridad;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2013)</small>
+
+VII.- Respecto de piezas, partes o accesorios elaborados total o parcialmente de cobre u otros metales utilizados en instalaciones eléctricas, hidráulicas y/o de gas, en equipamiento urbano o industrial.
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1604,6 +1614,12 @@ V.- Mediante uso de armas u otros medios peligrosos;
 VI.- En contra de una oficina bancaria, recaudadora u otra en que se conservan caudales, o en contra de las personas que las custodian, manejan o transportan;
 
 VII.- En local comercial abierto al público;
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 145
+
+TER.- Se impondrá de dos a cuatro años de prisión y de diez a veinte días de multa a quien posea, transporte, adquiera, enajene, acople o comercialice piezas, partes o accesorios objeto de la conducta descrita en la fracción VII del artículo 145 de este Código.
 
 ###### ARTICULO 146.
 
@@ -2005,7 +2021,7 @@ Si se tratare de un funcionario público, se duplicará la pena y se le castigar
 
 Si hubiera mediado una retribución económica y/o de otro tipo, se aumentará la pena hasta tres años de prisión más a quién la hubiera solicitado, pagado, o aceptado.
 
-### CAPITULO II. DELITOS CONTRA LA ECOLOGIA
+### CAPITULO II. DE LOS DELITOS CONTRA EL AMBIENTE Y LA FAUNA
 
 ###### ARTICULO 173.
 
@@ -2145,6 +2161,8 @@ La misma pena o, en su caso, la medida de tratamiento correspondiente, se impond
 
 Se aplicará de dos a ocho años de prisión y de cincuenta a doscientos días multa, al que mediante incendio, explosión, inundación, sumersión, derrumbe de construcciones, edificios, inutilización de obras destinadas a servicios colectivos o por cualquier otro medio, creare un peligro común para las personas o las cosas.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JUNIO DE 2013)</small>
+
 ### CAPITULO II. FALSIFICACION DE DOCUMENTOS Y USO DE DOCUMENTOS FALSOS
 
 ###### ARTICULO 179.
@@ -2160,6 +2178,30 @@ III.- Genere emisión de energía térmica, ruidos o vibraciones, que ocasionen 
 IV.- Contamine o permita la contaminación de alimentos o bebidas con repercusiones para la salud individual o colectiva, o
 
 V.- Provoque la erosión, deterioro o degradación de los suelos y subsuelos de jurisdicción local.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 179
+
+BIS.- Al que injustificada e intencionalmente realice actos de crueldad en contra de cualquier especie animal, causándole maltrato evidente, pero que no pongan en peligro la vida del animal, se le impondrá de seis meses a un año de prisión y de veinticinco a cincuenta días multa.
+
+Si las lesiones ponen en peligro la vida del animal se incrementarán en una mitad de la pena señalada.
+
+Para los efectos del presente Capítulo se entenderá por animal, lo dispuesto en la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 179
+
+TER.- Al que injustificada e intencionalmente cometa actos de maltrato o crueldad en contra de cualquier especie animal provocándole la muerte, se le impondrán de uno a dos años de prisión y de cien a doscientos días multa, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, de conformidad a lo dispuesto en la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
+
+En caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán en una mitad.
+
+Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía del animal, ya sea por las lesiones provocadas o el detrimento de la salud del animal.
+
+Por actos de maltrato o crueldad se estará a lo dispuesto en la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
+
+Se exceptúan del presente capítulo los animales clasificados para abasto y producción de conformidad con la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
 
 ### CAPITULO III. USURPACION DE PROFESIONES
 
@@ -2707,7 +2749,9 @@ Al que para obtener un beneficio indebido para sí o para otro, simule un acto j
 
 Si el juicio que se sigue en contra de un depositario judicial resultare como consecuencia el secuestro de una cosa embargada o depositada con anterioridad, se presumirá que éste fue simulado.
 
-### CAPITULO I. APROVECHAMIENTO ILICITO DEL PODER
+### CAPITULO III. IRRESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 222.
 
@@ -2719,7 +2763,7 @@ La misma pena se impondrá al que a sabiendas presente testigos falsos o que por
 
 Al que espontáneamente se retracte de sus falsas declaraciones, siempre y cuando lo haga antes de que se dicte sentencia se le impondrá de seis meses a un año de prisión o de diez a cincuenta días multa.
 
-### CAPITULO II. ABUSO DE AUTORIDAD
+### CAPITULO I. APROVECHAMIENTO ILICITO DEL PODER
 
 ###### ARTICULO 224.
 
@@ -2731,7 +2775,7 @@ II.- Al que para que un inocente aparezca culpable de un delito ponga sobre él 
 
 En los casos precedentes, si el imputado es declarado penalmente responsable por razón de las falsas denuncias, se impondrá al denunciante o querella (sic), de dos a cinco años de prisión.
 
-### CAPITULO I. COHECHO
+### CAPITULO II. ABUSO DE AUTORIDAD
 
 ###### ARTICULO 225.
 
@@ -2757,7 +2801,7 @@ Si la reaprehensión del evadido se logra por gestiones del responsable de la ev
 
 Al evadido, no se le aplicará sanción alguna, pero si ejerciere violencia en las personas o fuerza en las cosas, o bien actuare de acuerdo con otro u otros detenidos, la pena será de cuatro meses a cuatro años de prisión.
 
-### CAPITULO II. PECULADO
+### CAPITULO I. COHECHO
 
 ###### ARTICULO 230.
 
@@ -2767,7 +2811,7 @@ A quien quebrante una pena no privativa de libertad distinta a la prevista en el
 
 Al que favorezca el quebrantamiento de la pena o medida de seguridad, se le impondrá de seis meses a un año de prisión. Si se trata de un servidor público que tenga a su cargo el cumplimiento de la pena o medida, la pena de prisión será de un año a un año seis meses y privación del cargo.
 
-### CAPITULO III. CONCUSION
+### CAPITULO II. PECULADO
 
 ###### ARTICULO 231.
 
@@ -2829,7 +2873,7 @@ Se presume que no se tomaron las precauciones ni las providencias indispensables
 
 El órgano jurisdiccional, teniendo en cuenta la naturaleza del hecho, las características personales del sujeto activo y las demás que consignan el Artículo 52 de este Código, podrá imponer en los casos de encubrimiento, la mitad de la sanción que corresponda, debiendo hacer constar las razones en que se funda para determinar tal sanción.
 
-### CAPITULO IV. INTIMIDACION
+### CAPITULO III. CONCUSION
 
 ###### ARTICULO 235.
 
@@ -2848,6 +2892,8 @@ V.- Pida términos para probar lo que notoriamente no puede probar o no ha de ap
 VI.- Como defensor sea particular o de oficio sólo se concrete a aceptar el cargo y a solicitar la libertad caucional que menciona la fracción I del Artículo 20 de la Constitución, sin promover más pruebas ni dirigir al inculpado en su defensa.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO IV. INTIMIDACION
 
 ## TITULO I (SIC). USURPACION DE FUNCIONES
 
@@ -2962,6 +3008,18 @@ IV.- Los defensores de oficio que sin causa justificada abandonen la defensa, om
 ###### ARTICULO 250.
 
 Se impondrá de seis meses a dos años de prisión, y de diez a cincuenta días multa, a los servidores públicos que con el solo objeto de justificar el desempeño de su actividad, brinden informes o partes falsas e infundadas, cuando este último requisito sea indispensable y de práctica común en sus labores.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 250
+
+BIS.- Se le impondrá de seis meses a seis años de prisión y de cien a cuatrocientos días multa, al servidor público de una Institución de Seguridad Pública que dañe, altere, destruya, sustraiga o entregue a un tercero, de forma ilícita, equipo táctico, equipo de radiocomunicación, armas de fuego o municiones que se les hayan asignado para el ejercicio de su cargo.
+
+Se le impondrá de seis meses a tres años de prisión y de cien a doscientos días multa, al servidor público de una Institución de Seguridad Pública que de forma negligente extravíe alguno de los objetos señalados en el párrafo anterior.
+
+No se considerará que existe negligencia del servidor público, cuando el extravío se dé con motivo del pleno ejercicio de sus funciones.
+
+Para efectos de este artículo, se entenderá por Instituciones de Seguridad Pública: las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y dependencias encargadas de la Seguridad Pública a nivel estatal y municipal, previstas en el Artículo 5 fracción XVI de la Ley de Seguridad Pública del Estado de Quintana Roo.
 
 ###### ARTICULO 251.
 
@@ -3438,3 +3496,29 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 280, POR EL QUE SE ADICIONA UN CAPÍTULO III Y UN ARTÍCULO 250 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 14 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 283, POR EL QUE SE REFORMA EL ARTÍCULO 123 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 14 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 289, POR EL QUE SE REFORMA EL ARTÍCULO 145 Y SE ADICIONA EL ARTÍCULO 145 TER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 14 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 290, POR EL QUE SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO III Y SE ADICIONAN LOS ARTÍCULOS 179 BIS Y 179 TER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
