@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-colima-colima-26736"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2013-05-04"
+last_updated: "2013-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COL"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA, COLIMA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE COLIMA SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -71,7 +73,7 @@ El Ayuntamiento, de conformidad con la reglamentación correspondiente, podrá o
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
 
-Para determinar el pago de las contribuciones se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en las oficinas ó módulos de atención automatizados se deberá observar la regla de ajuste prevista en el artículo 12 del Código Fiscal Municipal del Estado de Colima. No se considerará como error en la determinación y liquidación de contribuciones o créditos fiscales, cuando se aplique la regla de ajuste correspondiente a que se refiere el citado precepto.
+Para determinar el pago de las contribuciones se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en las oficinas o módulos de atención automatizados se deberá observar la regla de ajuste prevista en el artículo 12 del Código Fiscal Municipal del Estado de Colima. No se considerará como error en la determinación y liquidación de contribuciones o créditos fiscales, cuando se aplique la regla de ajuste correspondiente a que se refiere el citado precepto.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
@@ -811,6 +813,10 @@ Para que la dependencia municipal competente otorgue el permiso de construcción
 
 En el caso de construcción de edificios en el régimen de condominio, sólo se podrá otorgar la licencia de construcción previa comprobación del pago del derecho de constitución en régimen de condominio.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE COLIMA SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>N. DE E. EL 15 DE JUNIO DE 2013 EN EL PRESENTE ARTÍCULO SE PUBLICARON MODIFICACIONES A LAS FRACCIONES I, I BIS Y V POR LO QUE SE SUGIERE CONSULTAR LA PUBLICACIÓN OFICIAL.</small>
+
 ###### ARTICULO 68.
 
 Las personas físicas o morales que realicen subdivisión o modificación de terrenos en lotes o fraccionamientos o que reciban obras de urbanización deberán obtener previamente la autorización correspondiente de las autoridades competentes y pagar los derechos conforme a la siguiente tarifa.
@@ -1303,6 +1309,8 @@ Son ingresos extraordinarios los que perciba la hacienda pública municipal por 
 
 ### CAPITULO UNICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JUNIO DE 2013 EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -1366,6 +1374,54 @@ BASE 0% 20% 40%
 ###### ARTÍCULO OCTAVO.
 
 Para el Ejercicio fiscal 2013, el plazo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta Ley se amplía hasta el 30 de abril.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2013)</small>
+
+###### ARTÍCULO NOVENO.
+
+Se otorgará un subsidio equivalente al 70% del impuesto sobre transmisión patrimonial a todas aquellas personas físicas con actividades empresariales o persona moral constituida como sociedad mercantil, que dentro del territorio del municipio de Colima durante el año 2013 inicie operaciones; los incentivos fiscales señalados en el presente artículo se otorgarán únicamente respecto del inmueble que adquieran con motivo del inicio de operaciones y siempre que éste se destine a fines comerciales e industriales del contribuyente y dichos fines se asienten por el fedatario en el instrumento público presentado para su transmisión, por lo tanto se excluyen todos aquellos inmuebles que se destinen a la enajenación o a la construcción con fines habitacionales.
+
+Se entenderá por inicio de operaciones para efectos del presente artículo el momento en que la empresa presente el Aviso de alta ante el Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público.
+
+Asimismo, como estímulo fiscal al inversionista y fomento de la actividad económica, se podrá otorgar un subsidio equivalente al importe de los derechos por otorgamiento de licencias de funcionamiento para establecimientos comerciales, industriales o de servicios; licencias de construcción; alineamiento; dictamen de vocación del suelo; subdivisiones, fusiones y relotificación, que se lleven a cabo durante el presente ejercicio fiscal, para los fines previstos en el presente Artículo, el cual se deberá solicitar una vez realizado el pago del referido impuesto. Los estímulos fiscales señalados en el presente Artículo, se limitarán al inmueble en el cual se instalen las oficinas y/o planta productiva del contribuyente, pudiendo ser propietario o arrendatario del inmueble; por tanto, se excluyen todos aquellos inmuebles con uso de suelo habitacional en cualquiera de sus modalidades, de conformidad con el Programa de Desarrollo Urbano del centro de población Colima.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2013)</small>
+
+###### ARTÍCULO DÉCIMO.
+
+Las personas físicas o morales con actividad empresarial que deseen ser sujetas de los estímulos fiscales a la inversión previstos en el artículo que antecede, deberán presentar a la Tesorería Municipal, mediante escrito libre, la solicitud que contenga la declaración bajo protesta de decir verdad y sujeta a comprobación cuando lo estime necesario, acompañada de los siguientes documentos y datos:
+
+a) Identificación oficial del solicitante.
+
+b) Original y copia simple, del documento que acredite la personalidad jurídica del solicitante con respecto a la empresa que presente.
+
+c) En caso de personas morales, original y copia para su cotejo del acta constitutiva de la Sociedad Mercantil expedida por fedatario público.
+
+d) Original y copia simple del Aviso de Alta ante el Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público, que compruebe el inicio de operaciones durante el ejercicio fiscal 2013.
+
+e) Original y copia simple del documento público que acredite la adquisición del inmueble objeto de estímulos fiscales, ya sea por compraventa o arrendamiento.
+
+f) Descripción del proyecto a desarrollar que incluya presupuestos y planos de construcciones debidamente aprobados por las autoridades correspondientes;
+
+g) Carta compromiso de la generación empleos directos y permanentes, dentro del periodo de doce meses posteriores al inicio de operaciones.
+
+La Tesorería Municipal tendrá la facultad en todo momento de verificar la información y documentación proporcionada por el solicitante, por lo que si llegara a comprobar que no cumplió fehacientemente con los requisitos aquí señalados, el contribuyente perderá el derecho a los estímulos fiscales contenidos en este artículo y deberá efectuar el pago de las contribuciones que dejó de pagar y los accesorios correspondientes, dentro de los quince días hábiles siguientes a que reciba la notificación del incumplimiento
+
+No se otorgarán los beneficios señalados en este Artículo, respecto a los inmuebles que de acuerdo a las disposiciones fiscales federales, deben formar o formen parte de los inventarios de la empresa o persona física.
+
+Los contribuyentes que hayan sido beneficiados por lo dispuesto en este Artículo, perderán dicho beneficio si tales bienes inmuebles son enajenados y/o otorgados en arrendamiento dentro de los tres años siguientes a la fecha de otorgamiento del subsidio y deberán efectuar el pago de las contribuciones que dejaron de pagar por motivo del beneficio otorgado, más los accesorios correspondientes, dentro de los 15 días hábiles siguientes a la fecha de enajenación y/o arrendamiento de los mismos.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2013)</small>
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Las solicitudes de estímulos fiscales sólo se tendrán por recibidas en forma oficial cuando a juicio de la Tesorería Municipal, éstas hayan sido plenamente requisitadas, de lo que se asentará constancia.
+
+Una vez admitida la solicitud de estímulos fiscales del inversionista, se procederá a emitir una resolución técnica por la Tesorería Municipal, misma que será turnada al Cabildo por conducto de las comisiones competentes para que sea presentado el dictamen correspondiente para su aprobación.
+
+Los estímulos fiscales y derechos se otorgarán a través del Certificado de Promoción Fiscal, en el cual se indicarán los estímulos que se conceden, así como los compromisos establecidos en la resolución.
+
+La Tesorería Municipal deberá notificar lo conducente a las autoridades involucradas en el otorgamiento de los estímulos establecidos en cada resolución.
 
 El Gobernador del Estado dispondrá se imprima, publique, circule y observe.
 
@@ -1480,3 +1536,7 @@ P.O. 30 DE MARZO DE 2013.
 P.O. 4 DE MAYO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
