@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-transparencia-y-acceso-a-la-informacion-64226"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-18"
-last_updated: "2008-10-18"
+last_updated: "2013-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE JALPA DE MENDEZ, TABASCO
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE JALPA DE MENDEZ, TABASCO
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE JALPA DE MÉNDEZ, TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE JALPA DE MÉNDEZ, TABASCO, PUBLICADO EN EL P.O. DE 15 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 18 de octubre de 2008.
 
@@ -644,3 +646,13 @@ PRESIDENTE MUNICIPAL Y DE LA COMISIÓN DE SEGURIDAD PÚBLICA Y TRÁNSITO.
 ING. MARIA REYES DE LA CRUZ HERNANDEZ.
 
 SECRETARIO DEL H. AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JUNIO DE 2013.
+
+PRIMERO.- En todo lo no presente (sic) Reglamento, se estará a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco; y su Reglamento
+
+SEGUNDO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+TERCERO.- Queda abrogado el Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Jalpa de Méndez, Tabasco, publicado en el Periódico Oficial del Estado No. 24125 de fecha 18 de Octubre de 2008 suplemento 6899 Época 6ª.
