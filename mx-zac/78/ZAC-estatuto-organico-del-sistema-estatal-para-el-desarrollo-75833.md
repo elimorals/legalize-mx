@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-sistema-estatal-para-el-desarrollo-75833"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-06-19"
-last_updated: "2010-06-19"
+last_updated: "2013-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-ESTATUTO ORGANICO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+ESTATUTO ORGÁNICO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EN EL P.O. DE 15 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2013 (ABROGADO).
 
 Estatuto Orgánico publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 19 de junio de 2010.
 
@@ -153,7 +155,7 @@ XII. Subdirección de Fortalecimiento Institucional.
 
 XII.1 Delegados Regionales
 
-> <small>N. DE E. VEASE ORGANIGRAMA EN EL SUPLEMENTO DEL P.O. DE 19 DE JUNIO DE 2010, PAGINA 6.</small>
+> <small>N. DE E. VÉASE ORGANIGRAMA EN EL SUPLEMENTO DEL P.O. DE 19 DE JUNIO DE 2010, PÁGINA 6.</small>
 
 DEL PATRONATO
 
@@ -1353,11 +1355,11 @@ Son funciones del (a) Director (a):
 
 20. Notificar a la Coordinación de Casas Asistenciales las necesidades inmediatas a corto y a largo plazo para el mantenimiento de bienes e inmuebles, para el buen funcionamiento de las instalaciones;
 
-21 .Supervisar el control de material médico, educativo, de oficina, limpieza, alimentación, de ropa, calzado, y lo necesario para el óptimo funcionamiento de la institución, solicitando los faltantes y necesidades a través de la Dirección que corresponda;
+21. Supervisar el control de material médico, educativo, de oficina, limpieza, alimentación, de ropa, calzado, y lo necesario para el óptimo funcionamiento de la institución, solicitando los faltantes y necesidades a través de la Dirección que corresponda;
 
 22. Supervisar el buen trato y cuidado de los menores por parte del personal asignado en cada área;
 
-23.Reallzar las canalizaciones de los menores a otras instituciones (C.R.E.E, C.E.S.A.M.E., Escuela de Educación Especial, Escuela de invidentes, Hospitales e instituciones educativas), que corresponda según sea el caso, dando el inmediato aviso a la Coordinación de Casas Asistenciales y a la Procuraduría;
+23. Realizar las canalizaciones de los menores a otras instituciones (C.R.E.E, C.E.S.A.M.E., Escuela de Educación Especial, Escuela de invidentes, Hospitales e instituciones educativas), que corresponda según sea el caso, dando el inmediato aviso a la Coordinación de Casas Asistenciales y a la Procuraduría;
 
 24. Asistir a los Juzgados o dependencias cuando se le requiera por parte de la Procuraduría para cumplir con la documentación y trámites necesarios de los menores internos;
 
@@ -1419,7 +1421,7 @@ Son funciones del Personal Médico:
 
 10. Programar exámenes médicos al personal, para prevenir y controlar las enfermedades infecto-contagiosas;
 
-11. lmpartir pláticas al personal de Casa Hogar sobre primeros auxilios, prevención, educación y desarrollo de la salud; y
+11. Impartir pláticas al personal de Casa Hogar sobre primeros auxilios, prevención, educación y desarrollo de la salud; y
 
 12. Las demás que asigne la Dirección y Subdirección de Casa Hogar.
 
@@ -1525,7 +1527,7 @@ Son funciones del (a) Directora (sic) (a):
 
 20. Realizar las canalizaciones de los adultos mayores que así lo requieran a otras instituciones (C.R.E.E, C.I.S.A.M.E, Escuela de invidentes, Hospitales), que corresponda según sea el caso, dando el inmediato aviso a la Coordinación de Casas Asistenciales y a la Procuradora;
 
-21 .Asistir a los Juzgados o dependencias cuando se le requiera por parte de la Procuradora para cumplir con la documentación y necesidades específicas de los adultos mayores albergados;
+21. Asistir a los Juzgados o dependencias cuando se le requiera por parte de la Procuradora para cumplir con la documentación y necesidades específicas de los adultos mayores albergados;
 
 22. Llevar a cabo entrevistas con los familiares del adulto mayor albergado a fin de obtener información sobre éste y su familia cuando sea necesario, y así se lo encomiende la Procuradora;
 
@@ -1543,7 +1545,7 @@ Son funciones del (a) Directora (sic) (a):
 
 29. Revisar el reporte diario, con la información de los sucesos relevantes de los adultos mayores albergados;
 
-30.Con la participación de la Dirección Administrativa la Dirección de Atención a Grupos Vulnerables y Procuraduría, fijar indicadores de evaluación del desempeño en los que se contengan datos de adultos mayores que egresan, los que ingresan, de estancia temporal, de estancia larga o permanente, total de casos tramitados ante diversas autoridades o instancias, total de casos de resolución interna, control de salidas de los albergados, ya sea a actividades recreativas o a visitas a sus familiares, adultos mayores que carecen de familia, total de visitas por parte de la institución a los familiares, total de visitas a hogares de menores (sic) egresados, menores (sic) que reciben tratamientos médicos permanentemente, adultos mayores albergados que llevan a cabo actividades recreativas entre total de adultos mayores albergados, adultos mayores que realizan actividades deportivas entre total de adultos mayores albergados etcétera; y
+30. Con la participación de la Dirección Administrativa la Dirección de Atención a Grupos Vulnerables y Procuraduría, fijar indicadores de evaluación del desempeño en los que se contengan datos de adultos mayores que egresan, los que ingresan, de estancia temporal, de estancia larga o permanente, total de casos tramitados ante diversas autoridades o instancias, total de casos de resolución interna, control de salidas de los albergados, ya sea a actividades recreativas o a visitas a sus familiares, adultos mayores que carecen de familia, total de visitas por parte de la institución a los familiares, total de visitas a hogares de menores (sic) egresados, menores (sic) que reciben tratamientos médicos permanentemente, adultos mayores albergados que llevan a cabo actividades recreativas entre total de adultos mayores albergados, adultos mayores que realizan actividades deportivas entre total de adultos mayores albergados etcétera; y
 
 31. Las demás que le asigne la Dirección del SEDIF, la Dirección Administrativa, la Coordinación de Casas Asistenciales y en cuestión de la Situación Jurídica de los albergados las que le asigne la Procuradora.
 
@@ -1637,7 +1639,7 @@ Son funciones del Director (a):
 
 6. Mostrar a los familiares responsables del Adulto Mayor de nuevo ingreso las instalaciones del Albergue, así como de impartir un (sic) plática donde se explique el funcionamiento del mismo;
 
-7. Presentar trimestralmente al SEDlF/MUNICIPIO el estado funcional que guarda el Albergue;
+7. Presentar trimestralmente al SEDIF/MUNICIPIO el estado funcional que guarda el Albergue;
 
 8. Llevar a cabo reuniones periódicas con los familiares de los usuarios para tratar asuntos de interés general, en las que deberá estar presente el equipo técnico del Albergue; y
 
@@ -2105,7 +2107,7 @@ La Coordinación de Programas Sociales se integra por:
 
 a. Programa Mujeres Jefas de Familia; y
 
-b. Programa con Amor al Rescate de I@s Abuel@s.
+b. Programa con Amor al Rescate de l@s Abuel@s.
 
 ###### Artículo 149.
 
@@ -2127,7 +2129,7 @@ c. PROMOTORES: Quienes son los responsables de atender y registrar las solicitud
 
 ###### Artículo 151.
 
-Son funciones del Programa con Amor al Rescate de I@s Abuel@s (Programa Estatal de Atención a Personas Adultas Mayores) las siguientes:
+Son funciones del Programa con Amor al Rescate de l@s Abuel@s (Programa Estatal de Atención a Personas Adultas Mayores) las siguientes:
 
 1. Mejorar las condiciones de vida de las (os) adultos mayores de setenta años que no reciban pensión por jubilación de alguna institución pública o privada.
 
@@ -2349,7 +2351,7 @@ II. Coordinar el seguimiento y monitoreo de las actividades programadas anualmen
 
 III. Dar seguimiento a los resultados del SEDIF y los Sistemas Municipales para el Desarrollo Integral de la Familia, para verificar el correcto ejercicio de los recursos y cumplimiento de los objetivos y metas de cada programa;
 
-IV. Administrar el Centro Estatal de Información en Asistencia Social (CElAS);
+IV. Administrar el Centro Estatal de Información en Asistencia Social (CEIAS);
 
 V. Proponer estrategias que ayuden al incremento de la productividad, eficiencia y la corrección de problemáticas en la operación del SEDIF para incrementar el impacto de los servicios que se ofrecen a la población;
 
@@ -2369,7 +2371,7 @@ La Subdirección de Planeación se integra por:
 
 a. Departamento de Programación;
 
-b. Centro Estatal de Información en Asistencia Social CElAS; y
+b. Centro Estatal de Información en Asistencia Social CEIAS; y
 
 c. Departamento de Informática.
 
@@ -2524,3 +2526,15 @@ TERCERO.- Se derogan todas las disposiciones administrativas que contravengan el
 CUARTO.- Los Manuales Generales de Organización y de Procedimientos, deberán elaborarse dentro del término de sesenta días naturales siguientes a la publicación del presente Estatuto Orgánico.
 
 QUINTO.- Aprobado por la Junta de Gobierno del Sistema Estatal para el Desarrollo Integral de la Familia, en sesión ordinaria celebrada en la Ciudad de Zacatecas, Capital del Estado del mismo nombre a los once días del mes de mayo del año dos mil diez.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JUNIO DE 2013.
+
+Primero.- El presente Estatuto Orgánico, entrará en vigor al día siguiente de su Publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones administrativas que contravengan el presente Estatuto Orgánico.
+
+Tercero.- Se Abroga el Estatuto Orgánico, publicado en fecha 19 de Junio de 2010, en Suplemento al Número 49 del Periódico Oficial, Órgano del Gobierno del Estado.
+
+Cuarto.- Dentro del término de 30 días naturales, se expedirá el Manual de Organización y 180 días naturales para el Manual de Procedimientos, contados a partir de la entrada en vigor del presente Estatuto Orgánico.
