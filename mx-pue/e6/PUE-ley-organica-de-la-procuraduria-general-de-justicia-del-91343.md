@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-procuraduria-general-de-justicia-del-91343"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Décima Cuarta del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -625,7 +625,9 @@ Siempre que se use la fuerza pública se hará de manera racional, congruente, o
 
 Para ingresar como agente del Ministerio Público Titular, se requiere:
 
-I.- Tener nacionalidad mexicana por nacimiento, en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2013)</small>
+
+I.- Ser mexicano en pleno ejercicio de sus derechos;
 
 II.- Ser profesional del Derecho con título legalmente expedido, con antigüedad mínima de cinco años y con la correspondiente cédula profesional;
 
@@ -671,7 +673,9 @@ II.- Tener cuando menos seis meses en el ejercicio profesional.
 
 Para ingresar como perito, se requiere:
 
-I.- La nacionalidad mexicana por nacimiento y en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2013)</small>
+
+I.- Ser mexicano en pleno ejercicio de sus derechos;
 
 II.- Acreditar que ha concluido, por lo menos, los estudios correspondientes a la enseñanza media superior o equivalente;
 
@@ -999,7 +1003,9 @@ X.- Contendrá las normas para el registro de las incidencias del personal.
 
 Para ingresar como agente del Ministerio Público Titular de carrera, se requiere:
 
-I.- Tener nacionalidad mexicana por nacimiento, en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2013)</small>
+
+I.- Ser mexicano en pleno ejercicio de sus derechos;
 
 II.- Ser profesional del Derecho con título legalmente expedido, con antigüedad mínima de cinco años y con la correspondiente cédula profesional;
 
@@ -1051,7 +1057,9 @@ II.- Tener cuando menos seis meses en el ejercicio profesional.
 
 Para ingresar como perito de carrera, se requiere:
 
-I.- La nacionalidad mexicana por nacimiento y en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2013)</small>
+
+I.- Ser mexicano en pleno ejercicio de sus derechos;
 
 II.- Acreditar que ha concluido, por lo menos, los estudios correspondientes a la enseñanza media superior o equivalente;
 
@@ -1079,9 +1087,11 @@ II.- Cubrir los programas de profesionalización que establezcan esta Ley y las 
 
 III.- Las demás disposiciones aplicables para el personal de servicio de carrera.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2013)</small>
+
 ###### Artículo 91.
 
-Los integrantes del servicio de carrera ministerial, pericial y policial que no cumplan con los requisitos de permanencia, los de procesos de evaluación de control de confianza o los de desempeño, dejarán de prestar sus servicios en la Procuraduría, previo desahogo del procedimiento que establezca el Reglamento y la normatividad establecida para tal efecto.
+Los integrantes del servicio de carrera ministerial, pericial y policial que no cumplan con los requisitos de permanencia o no aprueben los procesos de evaluación de control de confianza o los de desempeño, dejarán de prestar sus servicios en la Procuraduría.
 
 ###### Artículo 92.
 
@@ -1137,7 +1147,9 @@ Para ingresar y permanecer como Policía Ministerial, se requiere:
 
 I.- De Ingreso:
 
-a) Nacionalidad mexicana por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2013)</small>
+
+a) Ser mexicano en pleno ejercicio de sus derechos;
 
 b) Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso o culposo calificado como grave, ni estar sujeto a proceso penal;
 
@@ -1355,12 +1367,36 @@ VI.- Las que les asignen otros ordenamientos legales aplicables al Sistema Proce
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2013)</small>
 
-TERCERO.- Las Direcciones Generales y Direcciones Regionales, Subdirecciones, agencias del Ministerio Público y demás unidades que describa el Reglamento de esta Ley, respecto del Título Cuarto de esta Ley, se crearán de forma progresiva para cada Región Judicial en que entre en vigor el Sistema Penal Acusatorio en el Estado.
+SEGUNDO.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Puebla, publicada en el Periódico Oficial del Estado el 15 de julio de 2009.
 
-CUARTO.- Para efectos de lo previsto en la fracción I inciso a) del Artículo 19 de esta Ley, su entrada en vigor estará supeditada a las autorizaciones administrativas y a la normatividad que se emita para tal efecto.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2013)</small>
+
+TERCERO.- Los integrantes de la Procuraduría General de Justicia del Estado de Puebla, que en el plazo que establezca la Ley General del Sistema Nacional de Seguridad Pública, no obtengan la certificación por parte del centro de evaluación y control de confianza que corresponda, serán separados del servicio.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2013)</small>
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+En tanto no se emita el Reglamento de esta Ley, seguirá aplicándose el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Puebla, publicado en el Periódico Oficial el 11 de abril de 2011.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2013)</small>
+
+QUINTO.- Las Direcciones Generales y Direcciones Regionales, Subdirecciones, agencias del Ministerio Público y demás unidades que describa el Reglamento de esta Ley, respecto del Título Cuarto de esta Ley, se crearán de forma progresiva para cada Región Judicial en que entre en vigor el Sistema Penal Acusatorio en el Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2013)</small>
+
+SEXTO.- Para efectos de lo previsto en la fracción I inciso a) del artículo 19 de esta Ley, su entrada en vigor estará supeditada a las autorizaciones administrativas y a la normatividad que se emita para tal efecto.
 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de diciembre de dos mil doce.- Diputado Presidente.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Vicepresidente.- RAMÓN FELIPE LÓPEZ CAMPOS.- Rúbrica.- Diputado Secretario.- JESÚS SALVADOR ZALDÍVAR BENAVIDES.- Rúbrica- Diputado Secretario.- ALEJANDRO OAXACA CARREÓN.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de diciembre de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
