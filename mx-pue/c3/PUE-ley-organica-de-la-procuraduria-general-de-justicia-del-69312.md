@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-procuraduria-general-de-justicia-del-69312"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-15"
-last_updated: "2012-12-31"
+last_updated: "2013-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -1463,8 +1465,30 @@ P.O. 31 DE DICIEMBRE DE 2012.
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2013)</small>
 
-TERCERO.- Las Direcciones Generales y Direcciones Regionales, Subdirecciones, agencias del Ministerio Público y demás unidades que describa el Reglamento de esta Ley, respecto del Título Cuarto de esta Ley, se crearán de forma progresiva para cada Región Judicial en que entre en vigor el Sistema Penal Acusatorio en el Estado.
+SEGUNDO.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Puebla, publicada en el Periódico Oficial del Estado el 15 de julio de 2009.
 
-CUARTO.- Para efectos de lo previsto en la fracción I inciso a) del Artículo 19 de esta Ley, su entrada en vigor estará supeditada a las autorizaciones administrativas y a la normatividad que se emita para tal efecto.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2013)</small>
+
+TERCERO.- Los integrantes de la Procuraduría General de Justicia del Estado de Puebla, que en el plazo que establezca la Ley General del Sistema Nacional de Seguridad Pública, no obtengan la certificación por parte del centro de evaluación y control de confianza que corresponda, serán separados del servicio.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2013)</small>
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+En tanto no se emita el Reglamento de esta Ley, seguirá aplicándose el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Puebla, publicado en el Periódico Oficial el 11 de abril de 2011.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2013)</small>
+
+QUINTO.- Las Direcciones Generales y Direcciones Regionales, Subdirecciones, agencias del Ministerio Público y demás unidades que describa el Reglamento de esta Ley, respecto del Título Cuarto de esta Ley, se crearán de forma progresiva para cada Región Judicial en que entre en vigor el Sistema Penal Acusatorio en el Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2013)</small>
+
+SEXTO.- Para efectos de lo previsto en la fracción I inciso a) del artículo 19 de esta Ley, su entrada en vigor estará supeditada a las autorizaciones administrativas y a la normatividad que se emita para tal efecto.
+
+P.O. 17 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
