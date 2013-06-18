@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2012-10-16"
+last_updated: "2013-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y CUARTO TRANSITORIOS, EL PRESENTE ORDENAMIENTO SE SEGUIRÁ APLICANDO HASTA EN TANTO SEAN APLICABLES EN TODO EL TERRITORIO DEL ESTADO LAS DISPOSICIONES DEL CÓDIGO PROCESAL PENAL QUE SE EXPIDIÓ A TRAVÉS DEL DECRETO 1156 PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 16 DE OCTUBRE DE 2012.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2013.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -89,11 +89,23 @@ VIII. Acordar y notificar al ofendido o la víctima el no ejercicio de la acció
 
 IX. Conceder cuando proceda, la libertad provisional del inculpado;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X. Procurar la conciliación de los interesados, en los términos del artículo 155 de este Código, y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2013)</small>
 
-XI. Las demás que señalen las leyes.
+X. Procurar la conciliación de los interesados, en los términos del artículo 155 de este Código;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2013)</small>
+
+XI. Canalizar a las víctimas a las instituciones competentes para que les proporcionen la atención necesaria, en los términos de la ley de la materia, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2013)</small>
+
+XII. Las demás que señalen las leyes.
 
 La Policía Ministerial del Estado actuará bajo la autoridad y mando inmediato del Ministerio Público, de conformidad con lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -2795,13 +2807,23 @@ XXXIII. Deslealtad al empleo, cargo o comisión, o perjuicio al servicio públic
 
 XXXIV. Ataque a las vías de comunicación y medios de transporte, a que se refieren los artículos, 298 y 299;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXV. Narcomenudeo, previsto en los artículos, 325 y 326, y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2012)</small>
+XXXV. Narcomenudeo, previsto en los artículos, 325 y 326;
 
-XXXVI. Desaparición forzada de personas, previsto en los artículos, 136 Quinque, y 136 Sexties.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2013)</small>
+
+XXXVI. Desaparición forzada de personas, previsto en los artículos, 136 Quinque, y 136 Sexties, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2013)</small>
+
+XXXVII. Contra el desarrollo territorial sustentable, previsto en la (sic) fracciones V y VI del artículo 346, del Código Penal del Estado.
 
 Tratándose de delitos cometidos con motivo del tránsito de vehículos, no se concederá la libertad bajo caución al inculpado que hubiese incurrido en delito de abandono de personas, si se encuentra en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que produzca efectos similares.
 
@@ -3979,17 +4001,17 @@ PRIMERO. Este Decreto en vigor al día siguiente de su publicación en el Perió
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
-DECRETO NÚMERO 705 POR EL QUE SE REFORMA EL ARTÍCULO 407 EN SU PÁRRAFO PRIMERO, DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ.
-
 P.O. 30 DE JULIO DE 2011.
+
+DECRETO NÚMERO 705 POR EL QUE SE REFORMA EL ARTÍCULO 407 EN SU PÁRRAFO PRIMERO, DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-DECRETO NÚMERO 708 POR EL QUE SE REFORMA EL ARTÍCULO 247 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ.
-
 P.O. 30 DE JULIO DE 2011.
+
+DECRETO NÚMERO 708 POR EL QUE SE REFORMA EL ARTÍCULO 247 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
@@ -4070,3 +4092,19 @@ NOVENO. El Código que se expide en este Decreto será de aplicación supletoria
 DÉCIMO. El Congreso del Estado, con base en el presupuesto de egresos que remitan los poderes, Ejecutivo; y Judicial, deberá destinar una partida en el presupuesto de egresos del año dos mil trece, y en los sucesivos, cuyos recursos se apliquen en la implementación del sistema de justicia penal. Este presupuesto deberá destinarse al diseño de las reformas legales, los cambios organizacionales, la construcción y operación de la infraestructura, y la capacitación necesarias para jueces, agentes del Ministerio Público, policías, defensores, peritos y abogados, en los términos del Artículo Octavo Transitorio del Decreto publicado en el Diario Oficial de la Federación, el dieciocho de junio del dos mil ocho.
 
 DÉCIMO PRIMERO. Los poderes, Ejecutivo; y Judicial, según corresponda, además de las facultades que expresamente les confiere el Código que con este Decreto se expide, y otros ordenamientos aplicables, emitirán los reglamentos, manuales, acuerdos generales, lineamientos, y demás normatividad que sea necesaria para la correcta implementación y funcionamiento del sistema penal acusatorio. De igual manera, en el ámbito de su competencia los Ayuntamientos del Estado, formularán los ordenamientos legales para los efectos expresados.
+
+P.O. 18 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 160 POR EL QUE SE REFORMA EL ARTÍCULO 407 EN SUS FRACCIONES XXXV Y XXXVI; Y ADICIONA AL MISMO ARTÍCULO 407 LA FRACCIÓN XXXVII, DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 18 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 163 POR EL QUE SE REFORMA EL ARTÍCULO 3° EN SUS FRACCIONES X Y XI; Y ADICIONA AL MISMO ARTÍCULO 3° LA FRACCIÓN XII, DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
