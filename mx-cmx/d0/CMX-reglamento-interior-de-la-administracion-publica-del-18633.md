@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2013-06-07"
+last_updated: "2013-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2000-12-28"
 ---
 # REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JUNIO DE 2013 EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JUNIO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -724,11 +726,13 @@ Al interior de cada Dependencia, incluyendo la Secretaría de Seguridad Pública
 
 ### Capítulo III. De los Gabinetes
 
-> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2007)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JUNIO DE 2013 EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2013)</small>
 
 ###### Artículo 10.
 
-La Administración Pública, para su mejor funcionamiento se integra con seis gabinetes permanentes, los cuales cuentan con un secretario técnico cada uno, designado por el Jefe de Gobierno.
+La Administración Pública, para su mejor funcionamiento se integra con siete Gabinetes permanentes, los cuales cuentan con un secretario técnico, cada uno, designado por el Jefe de Gobierno.
 
 > <small>(REFORMADO, G.O. 11 DE JUNIO DE 2007)</small>
 
@@ -746,9 +750,13 @@ IV. De Educación, Cultura y Ciencia y Tecnología, integrado por las Secretarí
 
 V. De Nuevo Orden Urbano y Desarrollo Sustentable, integrado por las Secretarías de, Desarrollo Urbano y Vivienda; Medio Ambiente; Obras y Servicios; y Transporte y Vialidad;
 
-VI. De Gestión Pública Eficaz, integrado por la Secretaría de Finanzas, la Oficialía Mayor y la Contraloría General; y
+VI. De Gestión Pública Eficaz, integrado por la Secretaría de Finanzas, la Oficialía Mayor y la Contraloría General; y (sic)
 
 VII. De Protección Civil, integrado por la (sic) Secretarías de, Protección Civil; Gobierno; Desarrollo Urbano y Vivienda; Medio Ambiente; Obras y Servicios; de Desarrollo Social; Salud; Seguridad Pública; Heroico Cuerpo de Bomberos; Sistema de Transporte Colectivo Metro y Procuraduría Social.
+
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2013)</small>
+
+VIII. De Desarrollo Rural, integrado por las Secretarias de, Desarrollo Rural y Equidad para las Comunidades; Gobierno; del Medio Ambiente; Desarrollo Económico; Desarrollo Social; Ciencia, Tecnología e Innovación y la Procuraduría Ambiental y del Ordenamiento Territorial.
 
 ###### Artículo 12.
 
@@ -16369,3 +16377,13 @@ TERCERO.- Se instruye a la Secretaría de Finanzas y Oficialía Mayor para que d
 CUARTO.- Se instruye a la Secretaría de Desarrollo Social, para que realice las gestiones necesarias ante las instancias competentes y se modifique la normatividad que rija a la Dirección General que se crea y al programa de la pensión alimentaria para adultos mayores de sesenta y ocho años, residentes en el Distrito Federal, ajustándola a los términos de este Decreto.
 
 QUINTO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 18 DE JUNIO DE 2013.
+
+PRIMERO.- La Secretaria de Desarrollo Rural y Equidad para las Comunidades Rural (sic) deberá estarse a las modificaciones del presente Reglamento.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+CUARTO.- El presente Decreto entrará en vigor el día de su publicación.
