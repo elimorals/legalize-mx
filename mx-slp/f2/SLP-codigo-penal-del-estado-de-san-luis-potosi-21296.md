@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2013-05-25"
+last_updated: "2013-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EL UNO DE MARZO DEL AÑO DOS MIL CATORCE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2013.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1079,31 +1079,33 @@ Si el homicidio se comete en riña, se impondrá una pena de cuatro a ocho años
 
 Para la aplicación de las penas, dentro del mínimo y el máximo señalados, se tomará en consideración quién fue el provocado, quién el provocador y el grado de provocación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 113.
 
-Si el homicidio es calificado, se impondrá una pena de quince a cuarenta años de prisión y sanción pecuniaria de trescientos a ochocientos días de salario mínimo.
+Si el homicidio es calificado, se impondrá una pena de veinte a cuarenta y cinco años de prisión, y sanción pecuniaria de cuatrocientos a un mil días de salario mínimo.
 
 ###### ARTICULO 114.
 
 Cuando en la comisión de un delito de homicidio intervengan dos o más personas y no conste quien fue el homicida, a todas se les impondrá las sanciones que correspondan conforme al artículo 75 de éste Código.
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 114 BIS. El homicidio cometido en agravio de una mujer se considera feminicidio cuando se cometa:
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2013)</small>
 
-I. Para ocultar una violación;
+ARTICULO 114 BIS. Comete el delito de feminicidio quien priva de la vida a una persona del sexo femenino por razones de género. Se considera que existen razones de género cuando ocurra cualquiera de las siguientes circunstancias:
 
-II. Por desprecio u odio a la víctima;
+I. Exista o haya existido una relación de parentesco; afecto; docente; o laboral, o cualquier otra que implique amistad, confianza, subordinación o superioridad, entre la víctima y el agresor;
 
-III. Por tortura o tratos crueles o degradantes;
+II. Existan en la víctima signos de violencia sexual de cualquier tipo;
 
-IV. Exista o haya existido una relación de afecto entre la víctima y el agresor;
+II.(SIC) Se haya infligido a la víctima, lesiones, o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia, y
 
-V. Se haya realizado por violencia familiar, o
+III. Existan antecedentes de cualquier tipo de violencia sexual, física, psicológica, patrimonial o económica, producidas en el ámbito familiar; laboral; o escolar, del sujeto activo en contra de la víctima.
 
-VI. La víctima se haya encontrado en estado de indefensión.
-
-Este delito se sancionará con una pena de dieciséis a cuarenta y un años de prisión, y sanción pecuniaria de cuatrocientos a novecientos días de salario mínimo.
+Este delito se sancionará con una pena de veinte a cincuenta años de prisión, y sanción pecuniaria de quinientos a un mil cien días de salario mínimo.
 
 ### CAPITULO II. LESIONES
 
@@ -1157,23 +1159,27 @@ Si el ofendido es ascendiente, descendiente, cónyuge, concubina, concubinario, 
 
 Riña es la contienda de obra entre dos o más personas con intención de causarse daño.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 18 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 123.
 
-El homicidio y las lesiones serán calificadas cuando se cometan con premeditación, ventaja, alevosía, traición o cruel perversidad.
+El homicidio y las lesiones serán calificados cuando se cometan con, premeditación; ventaja; alevosía; traición; cruel perversidad, u odio. Para tal efecto se entiende que existe:
 
-I. Hay premeditación cuando se comete el delito después de haber reflexionado sobre su ejecución;
+I. Premeditación, cuando se comete el delito después de haber reflexionado sobre su ejecución;
 
-II. Hay ventaja cuando el inculpado no corre riesgo alguno de ser muerto ni lesionado por el ofendido;
+II. Ventaja, cuando el inculpado no corre riesgo alguno de ser muerto ni lesionado por el ofendido;
 
-III. Hay alevosía cuando se sorprende intencionalmente a alguien de improviso o se emplea la asechanza;
+III. Alevosía, cuando se sorprende intencionalmente a alguien de improviso o se emplea la asechanza;
 
-IV. Hay traición cuando se utiliza la perfidia, violando la fe o la seguridad que expresamente se había prometido a la víctima o tácitamente se debía esperar en razón del parentesco, gratitud, amistad o cualquier otra circunstancia que inspire confianza, y
+IV. Traición, cuando se utiliza la perfidia, violando la fe o la seguridad que expresamente se había prometido a la víctima, o tácitamente se debía esperar en razón del parentesco, gratitud, amistad o cualquier otra circunstancia que inspire confianza;
 
-V. Hay cruel perversidad cuando el inculpado actúa sanguinariamente y con tal saña, que revelan en el sujeto un profundo desprecio por la vida humana.
+V. Cruel perversidad, cuando el inculpado actúa sanguinariamente y con tal saña, que revelan en el sujeto un profundo desprecio por la vida humana, y
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
+VI. Odio, cuando el agente comete el hecho por antipatía o aversión contra una persona o su patrimonio, específicamente por su condición social o económica; vinculación, pertenencia o relación con un grupo social definido; origen étnico o social; nacionalidad o lugar de origen; color de piel o cualquier otra característica genética; lengua; género; religión; edad; opiniones; discapacidad; condiciones de salud o embarazo; apariencia física; orientación sexual; identidad de género; estado civil; ocupación o actividad.
 
-También se considerarán calificadas las lesiones y el homicidio, y serán sancionados como tal, cuando se cometan en agravio de una mujer por su condición de género.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 18 DE JUNIO DE 2013)</small>
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -4079,13 +4085,25 @@ III. Un área verde en suelo urbano.
 
 Las penas previstas en este artículo se disminuirán en una mitad, cuando el cambio de uso de suelo se realice de uno a otro de los previstos en el programa o programas de ordenamiento ecológico del Estado o municipios, así como lo establecido en el programa o programas de desarrollo urbano aplicables.
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 346.
 
-Se impondrán de seis meses a cinco años de prisión y sanción pecuniaria de un mil a tres mil días de salario mínimo vigente en el Estado, a quien realice obras o edificaciones en suelo urbano o de conservación, sin contar con la autorización municipal que los ordenamientos correspondientes exijan.
+Se impondrán de seis meses a cinco años de prisión y sanción pecuniaria de un mil a tres mil días de salario mínimo vigente en el Estado, a quien sin contar con la autorización municipal que los ordenamientos correspondientes exijan:
 
-Las mismas sanciones que señala el párrafo anterior, se impondrán a quien lleve a cabo la construcción de una gasolinera o estación de servicio cerca de casas habitación, o lugares de concentración, o dentro de un área natural protegida estatal. En general, a todas aquéllas obras civiles o de servicio que no cuenten con una autorización previa de la Secretaría de Ecología y Gestión Ambiental.
+I. Realice obras o edificaciones en áreas no urbanizables;
+
+II. Lleve a cabo la construcción de una gasolinera o estación de servicio cerca de casas habitación, o lugares de concentración, o dentro de un área natural protegida estatal;
+
+III. Realice, una obra civil, o de servicio, que no cuente con una autorización previa de la Secretaría de Ecología y Gestión Ambiental, en los casos en que se requiera;
+
+IV. Expida autorización de cualquiera de los actos señalados en las fracciones anteriores, sin observar la normatividad aplicable;
+
+V. Realice obras de construcción, edificación, infraestructura o asentamientos humanos en zona determinada sin observar los análisis de riesgo, y
+
+VI. Expida autorización sin observar los análisis de riesgo; y los atlas, municipales, estatales, y el nacional.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4582,6 +4600,22 @@ QUINTO. En los lugares en que se aplique el sistema procesal penal acusatorio, d
 SEXTO. Los poderes, Ejecutivo; y Judicial del Estado expedirán los reglamentos necesarios para la implementación de las disposiciones del presente Decreto, en un plazo de noventa días a partir de la entrada en vigor del mismo.
 
 P.O. 25 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 160, POR EL QUE SE REFORMA EL ARTICULO 346, DEL CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 18 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 163, POR EL QUE. SE REFORMA LOS ARTÍCULOS, 113, 114 BIS, Y 123; Y DEROGA EL PÁRRAFO ULTIMO DEL ARTICULO 123, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
 
