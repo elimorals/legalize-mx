@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2012-08-03"
+last_updated: "2013-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,9 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JULIO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 3 DE AGOSTO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JUNIO DE 2013.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -3095,17 +3093,17 @@ La persona que cuida o ha cuidado de la lactancia de un niño, a quien le ha dad
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 380.
 
-Cuando el padre y la madre que no vivan juntos reconozcan a un hijo en el mismo acto, convendrán cuál de los dos ejercerá su guarda y custodia; y si no lo hicieren, el Juez de lo Familiar, oyendo al padre, madre, al menor y al Ministerio Público, resolverá lo más conveniente atendiendo siempre el interés superior del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan a un hijo en el mismo acto, convendrán cuál de los dos ejercerá su guarda y custodia; y si no lo hicieren, el Juez de lo Familiar, oyendo al padre, madre y al menor, resolverá lo más conveniente atendiendo siempre el interés superior del menor.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 381.
 
-Si el reconocimiento se efectúa sucesivamente por el padre o la madre que no viven juntos, ejercerá la guarda y custodia el que primero hubiere reconocido, salvo que ambos convinieran otra cosa entre ellos, y siempre que el Juez de lo Familiar no creyere necesario modificar el convenio por causa grave, con audiencia de los progenitores, del menor y del Ministerio Público.
+Si el reconocimiento se efectúa sucesivamente por el padre o la madre que no viven juntos, ejercerá la guarda y custodia el que primero hubiere reconocido, salvo que ambos convinieran otra cosa entre ellos, y siempre que el Juez de lo Familiar no creyere necesario modificar el convenio por causa grave, con audiencia de los progenitores y del menor.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -3515,15 +3513,17 @@ V.- Los demás derechos que a favor de las niñas y los niños reconozcan otras 
 
 En caso de desacuerdo sobre las convivencias o cambio de guarda y custodia, en la controversia o en el incidente respectivo deberá oírse a los menores.
 
-A efecto de que el menor sea adecuadamente escuchado independientemente de su edad, deberá ser asistido en la misma por el asistente de menores que para tal efecto designe el Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
+> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2013)</small>
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+A efecto de que el menor sea adecuadamente escuchado independientemente de su edad, deberá ser asistido en la misma por el asistente de menores que para tal efecto designe el Sistema para el Desarrollo Integral de la Familia del Distrito Federal. En caso de que a la audiencia no se presentare el asistente de los menores, atendiendo al interés superior de estos, será potestativo para el Juez celebrar o no la audiencia una vez que verifique si es factible la comunicación libre y espontánea con el menor.
+
+> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 417 Bis.
 
-Se entenderá por asistente de menores al profesional en psicología, trabajo social o pedagogía exclusivamente, adscrito al DIF-DF u otra institución avalada por éste, que asista al menor, sólo para efecto de facilitar su comunicación libre y espontánea y darle protección psicoemocional en las sesiones donde éste sea oído por el juez en privado, sin la presencia de los progenitores.
+Se entenderá por asistente de menores al profesional en psicología, trabajo social o pedagogía exclusivamente, adscrito al Sistema para el Desarrollo Integral de la Familia del Distrito Federal u otra institución avalada por éste, que asista al menor, sólo para efecto de facilitar su comunicación libre y espontánea y darle protección psicológica y emocional en las sesiones donde éste sea oído por el juez en privado, sin la presencia de los progenitores, y sin que ello implique su intervención en la audiencia.
 
-Dicho asistente podrá solicitar hasta dos entrevistas previas a la escucha del menor, siendo obligatorio para el progenitor que tenga la guarda y custodia del menor dar cumplimiento a los requerimientos del asistente del menor.
+Dicho asistente podrá solicitar hasta dos entrevistas previas a la escucha del menor, siendo obligatorio para el progenitor que tenga la guarda y custodia del menor, dar cumplimiento a los requerimientos del asistente del menor.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
@@ -14390,3 +14390,11 @@ Sexto.- En virtud de la supresión de los artículos referentes a la Inmatricula
 Séptimo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 Octavo.- Respecto de las anotaciones preventivas que señala el artículo 3043 fracción V, se empezarán a realizar hasta el primer día hábil de enero del 2013 a efecto de elaborar las modificaciones necesarias en el Sistema Informático con el que opera el Registro Público de la Propiedad.
+
+G.O. 18 DE JUNIO DE 2013.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
