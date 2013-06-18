@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2011-07-26"
+last_updated: "2013-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1931-08-26"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL -ANTES CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO Y TERRITORIOS FEDERALES-
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JUNIO DE 2013.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -34,13 +34,13 @@ El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido d
 
 Que en uso de las facultades extraordinarias que me fueron concedidas por Decreto del H. Congreso de la Unión, de 2 de enero de 1931, he tenido a bien expedir el siguiente
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
 ## TITULO PRELIMINAR
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 1º.
 
@@ -138,7 +138,7 @@ En el segundo caso del artículo 6° el Agente del Ministerio Público presentar
 
 ### CAPITULO I BIS. De las víctimas o los ofendidos por algún delito
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 9°.
 
@@ -236,9 +236,9 @@ XXII.- A que se les otorguen las medidas de protección o precautorias para prev
 
 El sistema de auxilio a la víctima del delito dependerá de la Procuraduría General de Justicia del Distrito Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 9 Bis.
 
@@ -248,7 +248,7 @@ Desde el inicio de la Averiguación el Ministerio Público tendrá la obligació
 
 I.- Hacer cesar, cuando sea posible, las consecuencias del delito;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
 
@@ -270,9 +270,11 @@ V.- Practicar las diligencias inmediatas procedentes cuando de las declaraciones
 
 VI.- Expedir gratuitamente, a solicitud de los denunciantes o querellantes, copia simple de su declaración o copia certificada en términos de lo previsto por este Código y por el Código Financiero del Distrito Federal;
 
-(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-VII.- Trasladarse al lugar de los hechos, para dar fe de las personas y de las cosas afectadas por el acto delictuoso, y a tomar los datos de las personas que lo hayan presenciado, procurando que declaren, si es posible, en el mismo lugar de los hechos, y citándolas en caso contrario para que dentro del término de veinticuatro horas comparezcan a rendir su declaración, y a realizar todas las diligencias inmediatas a que hace referencia este Código y las demás conducentes para la integración debida de la averiguación;
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2013)</small>
+
+VII.- En su caso, cuando así lo considere conveniente para el éxito de la investigación, trasladarse al lugar de los hechos, para dar fe de las personas y de las cosas afectadas por el acto delictuoso, y a tomar los datos de las personas que lo hayan presenciado, procurando que declaren, si es posible, en el mismo lugar de los hechos, y citándolas en caso contrario para que dentro del termino de veinticuatro horas comparezcan a rendir su declaración, y a realizar todas las diligencias inmediatas a que hace referencia este Código y las demás conducentes para la integración debida de la averiguación;
 
 (REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
@@ -416,7 +418,7 @@ En los casos de violencia contra las mujeres, las actuaciones se deberán realiz
 
 En ninguna actuación penal se emplearán abreviaturas ni raspaduras. Las palabras o frases que se hubieran puesto por equivocación, se testarán con una línea delgada, de manera que queden legibles, salvándose al final con toda precisión y antes de las firmas. En la misma forma se salvarán las palabras o frases omitidas por error que se hubieren entrerrenglonado. Toda actuación penal terminará con una línea tirada de la última palabra al fin del renglón; si éste estuviere todo escrito, la línea se trazará debajo de él antes de las firmas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 14.
 
@@ -556,7 +558,7 @@ IV.- Arresto hasta de treinta y seis horas.
 
 Las correcciones disciplinarias podrán imponerse de plano en el acto de cometerse la falta, o después, en vista de lo consignado en el expediente o en la certificación que hubiere extendido el secretario, por orden del tribunal, juez o Ministerio Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 33.
 
@@ -576,7 +578,7 @@ III.- Arresto hasta de treinta y seis horas.
 
 Si fuere insuficiente el apremio, se procederá contra el rebelde por el delito de desobediencia.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -606,7 +608,7 @@ Cuando aparezca que el hecho o hechos que motivan la averiguación previa no tie
 
 Los jueces, tribunales y Ministerio Público, en todo lo que la ley no prohíba o prevenga expresamente, podrán dictar en asuntos sujetos a su competencia, los trámites y providencias necesarios para la pronta y eficaz administración y procuración de justicia, según corresponda, dando prioridad a los casos en que la víctima sea un menor de edad.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ### CAPITULO V. Oficios de colaboración, exhortos y requisitorias
 
@@ -704,19 +706,19 @@ Cuando el Ministerio Público o el juez no puedan dar cumplimiento al oficio de 
 
 No se notificarán las providencias que se dicten para el cumplimiento de un oficio de colaboración, de un exhorto o de una requisitoria, sino cuando se prevenga así en el mismo despacho.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 55.
 
 Cuando se demore en el Distrito Federal el cumplimiento de un oficio de colaboración, de un exhorto o de una requisitoria, se recordará su despacho por medio de oficio. Si a pesar de éste continuare la demora, la autoridad requirente lo pondrá en conocimiento del superior inmediato del requerido; dicho superior apremiará al moroso, lo obligará a cumplimentar el oficio de colaboración, exhorto o requisitoria y le exigirá la responsabilidad en que hubiere incurrido.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, 10 DE ENERO DE 1994)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 56.
 
 Los tribunales o jueces, al dirigirse a las autoridades o funcionarios que no sean judiciales, lo harán por medio de oficio.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1989)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1989)</small>
 
 ### CAPITULO VI. Plazos y Términos
 
@@ -728,7 +730,7 @@ Los plazos son improrrogables y empezarán a correr desde el día siguiente al d
 
 No se incluirán en los plazos, los sábados, los domingos, ni los días inhábiles, a no ser que se trate de poner al inculpado a disposición de los tribunales, de tomarle su declaración preparatoria o de resolver la procedencia de su formal prisión, sujeción o (sic) proceso o libertad.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 58.
 
@@ -998,63 +1000,125 @@ Todas las notificaciones que, conforme a este Código, deban hacerse fuera del t
 
 A los defensores de oficio, cuando no se les pueda hacer la notificación personalmente, se les hará por cédula que se entregará en las oficinas del Jefe del Cuerpo de Defensores.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ## TITULO SEGUNDO. Diligencias de averiguación previa e instrucción
 
 #### SECCION PRIMERA. Disposiciones comunes
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 3 DE MAYO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 3 DE MAYO DE 1999)</small>
 
 ### CAPITULO I. Cuerpo del delito, huellas y objetos del delito
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-#### SECCION SEGUNDA. Diligencias de averiguación previa
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2013)</small>
+
+#### SECCIÓN I.. DE LA CADENA DE CUSTODIA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.O. 18 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 94.
 
-Cuando el delito deje vestigios o pruebas materiales de su perpetración, el Ministerio Público o el agente de la Policía Judicial lo hará constar en el acta o parte que levante, según el caso, recogiéndolos si fuere posible.
+Inmediatamente que el Ministerio Público, o la policía tengan conocimiento de la probable existencia de un delito, dictarán todas las medidas y providencias necesarias para: proporcionar seguridad y auxilio a las víctimas y testigos; impedir que se pierdan, destruyan o alteren los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito; saber qué personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, procediendo a la detención de los que intervinieron en su comisión en los casos de delito flagrante.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.O. 18 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 95.
 
-Cuando se encuentren las personas o cosas relacionadas con el delito, se describirán detalladamente su estado y las circunstancias conexas.
+La cadena de custodia es el sistema de control y registro que se aplica a las evidencias materiales sean estos indicios u objetos, instrumento o producto del hecho delictuoso, desde su localización, descubrimiento o aportación, hasta que la autoridad competente ordene su conclusión.
+
+Tiene la finalidad de demostrar la autenticidad de los elementos materiales probatorios y de la evidencia física y se aplicará considerando los siguientes elementos identidad, estado original, condiciones de recolección, preservación, embalaje y traslado, lugares y fechas de permanencia y los cambios que cada custodio le haya realizado.
+
+La cadena de custodia iniciará donde se descubra, encuentre o levante la evidencia física y finalizará por orden de autoridad competente, según se trate de la averiguación previa o el proceso penal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.O. 18 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 96.
 
-Cuando las circunstancias de la persona o cosa no pudieren apreciarse debidamente sino por peritos, tan luego como se cumpla con lo prevenido en el artículo anterior, el Ministerio Público nombrará dichos peritos, agregando al acta el dictamen correspondiente.
+Los lineamientos para la aplicación de la Cadena de Custodia, detallarán las diligencias, procedimientos, datos e información necesarios para asegurar la integridad de la evidencia física, indicios, huellas o vestigios del hecho delictuoso, así como de los instrumentos, objetos o productos del delito, estarán determinados por el Acuerdo respectivo. El cual por lo menos deberá establecer:
 
-> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+I.- Las actuaciones, diligencias y obligaciones que deberán seguir la policía y otros servidores públicos en ejercicio de sus atribuciones para la preservación del lugar de los hechos y/o del hallazgo.
 
-Cuando existan antecedentes de violencia relacionados con el delito, éstos deberán agregarse al acta o parte que se levante.
+II.- Las actuaciones, diligencias y obligaciones que deberán observar los agentes del Ministerio Publico, sus auxiliares en la investigación de los delitos y demás servidores públicos que entren en contacto con ellos para el debido procesamiento de la evidencia física, indicios, huellas o vestigios del hecho delictuoso, así como de los instrumentos, objetos o productos del delito.
 
-> <small>(REFORMADO, G.O. 3 DE MAYO DE 1999)</small>
+III.- Cuando durante el procedimiento de cadena de custodia exista una alteración de la evidencia física, indicios, huellas o vestigios o de los instrumentos, objetos o productos del delito, estos no perderán su valor probatorio, siempre y cuando no hayan perdido su eficacia para acreditar el hecho o circunstancia de que se trate.
 
-#### SECCION TERCERA. Instrucción
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2013)</small>
+
+#### SECCIÓN II
+
+DE LA PRESERVACIÓN DEL LUGAR DE LOS HECHOS O DEL HALLAZGO.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.O. 18 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 97.
 
-Si para la comprobación del cuerpo del delito, o de sus circunstancias, tuviere importancia el reconocimiento de un lugar cualquiera, se hará constar en el acta la descripción del mismo, sin omitir detalle alguno que pueda tener valor.
+La preservación de la evidencia física, indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito es responsabilidad directa de los servidores públicos que entren en contacto con ellos.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.O. 18 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 98.
 
-El Ministerio Público o la Policía Judicial, en su caso, procederán a recoger en los primeros momentos de su investigación: las armas, instrumentos u objetos de cualquier clase que pudieren tener relación con el delito y se hallaren en el lugar en que éste se cometió, en sus inmediaciones, en poder del inculpado o en otra parte conocida, expresando cuidadosamente el lugar, tiempo y ocasión en que encontraron, y haciendo una descripción minuciosa de las circunstancias y de su hallazgo. De todos estos objetos entregará recibo a la persona en cuyo poder se encuentren, la que asentará su conformidad o inconformidad; el duplicado se agregará al acta que se levante.
+En los casos de flagrancia, o en aquellos que importen peligro de pérdida de la vida o pongan en riesgo la integridad física de las autoridades que tengan conocimiento de los hechos, deberán tomar fotografía, video o cualquier otro medio que permita la certeza del estado en que fueron encontrados los indicios y procederán a fijar y sellar el lugar para practicar el inventario cuando esto sea seguro, debiendo asentar dicha circunstancia en los registros correspondientes.
 
-#### SECCION PRIMERA. Diversos incidentes
+En la averiguación previa deberá constar un registro que contenga la identificación de las personas que intervengan en la cadena de custodia y de quienes estén autorizadas para reconocer y manejarla (sic) evidencia física, los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2013)</small>
+
+#### SECCIÓN III. DEL PROCESAMIENTO DEL LUGAR DE LOS HECHOS O DEL HALLAZGO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.O. 18 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 99.
 
-En los casos de los dos artículos anteriores, el Ministerio Público ordenará el reconocimiento por peritos, siempre que esté indicado para apreciar mejor la relación con el delito, de los lugares, armas, instrumentos u objetos a que dichos artículos se refieren.
+Cuando la Policía de Investigación o los Peritos, en su caso, arriben al lugar de los hechos o del hallazgo de evidencia física, indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito de (sic) procederán a:
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+I. Informar de inmediato por cualquier medio eficaz y sin demora alguna al Ministerio Público e indicarle que se han iniciado las diligencias correspondientes para el esclarecimiento de los hechos, para efectos de la conducción y mando de éste respecto de la investigación;
+
+II. Identificar la evidencia física, indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito. En todo caso, los describirán y fijarán minuciosamente;
+
+III. Recolectar, levantar, embalar técnicamente y etiquetar la evidencia física indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito. Deberán describir la forma en que se haya realizado la recolección y levantamiento respectivos, así como las medidas tomadas para asegurar la integridad de los mismos, y
+
+IV. Entregar al Ministerio Público toda la evidencia física, indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito, sus respectivos contenedores y las actas, partes policiales o documentos donde se haya hecho constancia de su estado original y de lo dispuesto en las fracciones anteriores para efectos de la averiguación y la práctica de las diligencias periciales que éste ordene.
+
+En dichos documentos deberá constar la firma autógrafa de los servidores públicos que intervinieron en el procedimiento.
+
+Cuando la evidencia física, indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito, sean aportados por las parte (sic) o por la víctima u ofendido, la recepción de los mismos se hará constar en la averiguación previa y en el respectivo formato, y se deberá procesar en términos de lo establecido en las fracciones anteriores del presente artículo.
+
+V. El Ministerio Público se cerciorará de que se han seguido los procedimientos para preservar la evidencia física, indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito. Pudiendo auxiliarse para tal efecto de los Peritos. Éstos tienen obligación de cerciorarse, previo al desarrollo de sus tareas, del correcto manejo de la cadena de custodia implementada sobre el material que reciban, informando al ministerio público el incorrecto o indebido resguardo de que se percaten, sin perjuicio ello de la práctica de los peritajes ordenados cuando ello sea aún posible.
+
+El resultado de los dictámenes efectuados, será remitido al ministerio público, quien los integrará a la averiguación previa, en tanto que los materiales restantes serán devueltos para su debido resguardo cuando esto sea posible.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2013)
 
 ###### ARTICULO 100.
 
-Los instrumentos, armas y objetos a que se refiere el Artículo 98, se sellarán, siempre que lo permita su naturaleza, y se acordará su retención y conservación. Si no pudieren conservarse en su forma primitiva, se verificará lo más conveniente para conservarlos del mejor modo posible cuando el caso lo amerite, dictaminarán peritos.
+El Ministerio Público podrá acordar la retención y conservación de la evidencia física, indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito, así como los bienes en que existan huellas o pudieran tener relación con éste, siempre que guarden relación directa con el lugar de los hechos o del hallazgo se realizará con las reglas establecidas para la cadena de custodia y demás disposiciones que resulten aplicables.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 Todo esto se hará constar en el Acta que se levante.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 Tratándose de vehículos, cuando sean necesarios para la práctica de peritaje, los mismos serán entregados de inmediato a sus propietarios, poseedores y representantes legales, en depósito previa inspección ministerial, siempre que se cumplan los siguientes requisitos:
 
@@ -1242,7 +1306,7 @@ El Ministerio Público acreditará el cuerpo del delito de que se trate y la pro
 
 El cuerpo del delito se tendrá por comprobado cuando se demuestre la existencia de los elementos que integran la descripción de la conducta o hecho delictuoso, según lo determine la ley penal.
 
-> <small>(DEROGADO TERCER PARRAFO, G.O. 28 DE ENERO DE 2005)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 28 DE ENERO DE 2005)</small>
 
 > <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
 
@@ -1302,7 +1366,7 @@ Los lesionados que ingresen para su curación a los hospitales públicos, tan lu
 
 Siempre que un lesionado internado en un hospital público, salga de él, los médicos del establecimiento rendirán dictamen haciendo la clasificación legal, señalando el tiempo que dilatare la curación o dando el certificado de sanidad, según el caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 131 Bis.
 
@@ -1340,7 +1404,7 @@ En todos los casos tendrán la obligación de proporcionar a la mujer informaci�
 
 De igual manera, en el periodo posterior ofrecerán la orientación y apoyos necesarios para propiciar su rehabilitación personal y familiar para evitar abortos subsecuentes.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ### CAPITULO III. Aprehensión, detención o comparecencia del inculpado
 
@@ -1442,7 +1506,7 @@ Se admitirá como prueba en los términos del artículo 20, fracción V, de la C
 
 También se admitirán como prueba las declaraciones de los servidores públicos que en ejercicio de sus funciones y con autorización fundada y motivada del Procurador General de Justicia del Distrito Federal, hayan simulado conductas delictivas con el fin de aportar elementos de prueba en una averiguación previa.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ### CAPITULO V. Confesión
 
@@ -1462,7 +1526,7 @@ La confesión es admisible en cualquier estado del proceso, hasta antes de pronu
 
 (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ### CAPITULO VI. Inspección y reconstrucción de hechos
 
@@ -1860,7 +1924,7 @@ Si el testigo se hallare en la misma población, pero tuviere imposibilidad fís
 
 Fuera del caso de enfermedad o de imposibilidad física, toda persona está obligada a presentarse al juzgado cuando sea citada. Sin embargo, cuando haya que examinar a los altos funcionarios de la Federación, quien practique las diligencias se trasladará al domicilio u oficinas de dichas personas para tomarles su declaración o, si lo estima conveniente, solicitará de aquéllos que la rindan por medio de oficio, sin perjuicio de que el interesado, si se le requiere y lo desea, comparezca personalmente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 203.
 
@@ -2170,7 +2234,7 @@ No podrá condenarse a un acusado sino cuando se pruebe que cometió el delito q
 
 El que afirma está obligado a probar. También lo está el que niega, cuando su negación es contraria a una presunción legal o cuando envuelve la afirmación expresa de un hecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE ENERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 249.
 
@@ -2224,7 +2288,7 @@ La inspección, así como el resultado de las visitas domiciliarias o cateos, ha
 
 La fuerza probatoria de todo dictamen pericial, incluso el cotejo de letras y los dictámenes de peritos científicos, será calificada por el Ministerio Público, por el juez o por el tribunal, según las circunstancias.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 255.
 
@@ -2276,13 +2340,13 @@ Tratándose de menores de edad, deberán tomar en cuenta su edad, el delito que 
 
 El Ministerio Público, los jueces y tribunales según la naturaleza de los hechos, la prueba de ellos y el enlace natural, más o menos necesario que exista entre la verdad conocida y la que se busca, apreciarán en conciencia el valor de las presunciones hasta poder considerar su conjunto como prueba plena.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
-#### SECCION SEGUNDA. Incidentes de libertad
+#### SECCION SEGUNDA. Diligencias de averiguación previa
 
 ### CAPITULO I. Iniciación del procedimiento
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 262.
 
@@ -2310,7 +2374,7 @@ III.- Los demás que determine el Nuevo Código Penal para el Distrito Federal.
 
 En los casos de delitos contemplados en el Libro Segundo, Título Quinto y Sexto del Código Penal para el Distrito Federal, cometidos en contra de menores de edad, cualquier persona podrá denunciar ante el Ministerio Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 264.
 
@@ -2356,7 +2420,7 @@ El Ministerio Público, en cuanto advierta que los hechos puestos en su conocimi
 
 El Ministerio Público y la Policía Judicial a su mando están obligados a detener al responsable, sin esperar a tener orden judicial, en delito flagrante o en caso urgente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 267.
 
@@ -2408,7 +2472,7 @@ Para calcular el término medio aritmético de la pena de prisión se tomarán e
 
 Cuando se señalen penas en proporción a las previstas para el delito doloso consumado, la punibilidad aplicable es, para todos los efectos legales, la que resulte de la elevación o disminución, según corresponda, de los términos mínimo y máximo de la pena prevista para aquél.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 268 Bis.
 
@@ -2534,13 +2598,17 @@ La policía judicial estará bajo la autoridad y mando inmediato del Ministerio 
 
 Tanto el Ministerio Público como la policía se sujetarán a los reglamentos y Leyes Orgánicas respectivos, en lo que concierne a las diligencias que hayan de practicar antes de iniciarse el procedimiento judicial.
 
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 273 Bis.
 
 Cuando se presuma que el inculpado es miembro de una asociación delictuosa o delincuencia organizada en los términos de los artículos 254 y 255 del Nuevo Código Penal para el Distrito Federal, el Ministerio Público practicará el aseguramiento de los bienes y valores de dicha persona, así como de aquellos respecto de los cuales ésta se conduzca como dueño, quedando a cargo de sus tenedores acreditar la procedencia legítima de dichos bienes, en cuyo caso deberá ordenarse el levantamiento correspondiente.
 
-> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PARRAFO], G.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PÁRRAFO], G.O. 19 DE JULIO DE 2010)</small>
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 El aseguramiento se sujetará a las siguientes disposiciones:
 
@@ -2548,9 +2616,11 @@ I. Podrá realizarse en cualquier momento de la averiguación previa o del proce
 
 II. (REFORMADA [N. DE E. DEROGADA], G.O. 19 DE JULIO DE 2010)
 
-> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-III. Se levantará el inventario correspondiente de todos y cada uno de los bienes; y
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2013)</small>
+
+III. Se levantará el inventario correspondiente de todos y cada uno de los bienes; se deberá observar las reglas aplicables en materia de cadena de custodia, para la debida preservación del lugar de los hechos o del hallazgo y de la evidencia material, indicios, huellas, o vestigios del hecho delictuoso, así como de los instrumentos, objetos o productos del delito, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE JULIO DE 2010)</small>
 
@@ -2574,7 +2644,7 @@ Para el caso de que la Autoridad Judicial o el Ministerio Público, resuelva res
 
 ### CAPITULO II. Reglas especiales para la práctica de diligencias y levantamiento de actas de Policía Judicial
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 274.
 
@@ -2594,9 +2664,9 @@ III.- Las medidas que dictaren para completar la investigación.
 
 Cuando el delito que se ponga en conocimiento de la Policía Judicial sea de aquellos que menciona el artículo 263, aquella orientará al querellante para que acuda a presentar la querella ante el agente del Ministerio Público que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 276.
 
@@ -2606,13 +2676,13 @@ Las denuncias y las querellas pueden formularse verbalmente, por escrito o vía 
 
 En el caso de que la denuncia o la querella se presenten verbalmente, se harán constar en el acta que levantará el funcionario que la reciba, recabando la firma o huella digital del denunciante o querellante. Cuando se haga por escrito, deberán contener la firma o huella digital del que la presenta y su domicilio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 3 DE OCTUBRE DE 2008)</small>
 
 En el caso de querella por delito considerado no grave, se podrá formular vía portal electrónico de la Procuraduría General de Justicia del Distrito Federal, y ésta hará saber al querellante, en un termino de cinco días hábiles contados a partir del día siguiente al que fue presentada la misma, el día, hora y ante que agencia del Ministerio Publico, deberá acudir a ratificarla, o en caso le hará saber si es necesario que se presente de inmediato ante el ministerio Público para la realización de alguna diligencia o peritaje.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 3 DE OCTUBRE DE 2008)</small>
 
@@ -2678,7 +2748,7 @@ El juez, en su caso, de oficio o a petición de parte, verificará que perdure e
 
 Las diligencias practicadas por el Ministerio Público y por la Policía Judicial, tendrán valor probatorio pleno, siempre que se ajusten a las reglas relativas de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 286 Bis.
 
@@ -2703,6 +2773,8 @@ El juez ordenará o negará la aprehensión o comparecencia solicitada por el Mi
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 Tratándose de consignación sin detenido por delito grave o delincuencia organizada, inmediatamente debe radicarse el asunto, y dentro de los seis días siguientes la autoridad resolverá sobre el pedimento de la orden de aprehensión. Si el juez no resuelve oportunamente sobre estos puntos el Ministerio Público procederá en los términos previstos en el cuarto párrafo de este artículo.
+
+#### SECCION TERCERA. Instrucción
 
 ### CAPITULO I. Declaración preparatoria del inculpado y nombramiento de defensor
 
@@ -2784,7 +2856,7 @@ Si el inculpado tuviere varios defensores, estará obligado a nombrar un represe
 
 Durante la instrucción, el tribunal que conozca del proceso deberá tomar en cuenta las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conductas anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito, así como las condiciones sociales y los datos de violencia si los hubiera; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse; así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión, que en su conjunto demuestren la gravedad del ilícito y el grado de culpabilidad del agente.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ### CAPITULO II. Auto de formal prisión o de sujeción a proceso y libertad por falta de elementos para procesar
 
@@ -2872,7 +2944,7 @@ ARTICULO 304 Bis A.- El auto de formal prisión o el auto de sujeción a proceso
 
 ## TITULO TERCERO. Juicio
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ### CAPITULO I. Procedimiento Sumario
 
@@ -2940,7 +3012,7 @@ La audiencia se desarrollará en un solo día ininterrumpidamente, salvo que sea
 
 Se observará en el procedimiento sumario en lo que no se oponga a las disposiciones de este capítulo, todo lo preceptuado en el presente Código.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ### CAPITULO II. Procedimiento Ordinario
 
@@ -2950,7 +3022,7 @@ Se observará en el procedimiento sumario en lo que no se oponga a las disposici
 
 Los procesos de la competencia de los jueces penales serán consignados a éstos por riguroso turno.
 
-(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 314.
 
@@ -3176,7 +3248,7 @@ Practicado el sorteo, el juez ordenará se dé lectura a los artículos 522, de 
 
 Nunca serán admitidas, en este caso, las de simple excusa señaladas en el artículo 515 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 345.
 
@@ -3466,7 +3538,7 @@ Todos los que no intervinieren oficialmente en el juicio, cualquiera que sea su 
 
 En todo lo demás relativo a la policía de la audiencia, se observarán las disposiciones conducentes de este Código.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], G.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.O. 28 DE ENERO DE 2005)</small>
 
 ### CAPITULO IV
 
@@ -3584,19 +3656,19 @@ Concluido el tiempo fijado para la medida de seguridad, si la autoridad ejecutor
 
 ###### ARTICULO 404.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 405.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 406.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 407.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ### CAPITULO V. Procedimientos para el juicio de responsabilidades
 
@@ -3734,7 +3806,7 @@ El día señalado para la vista del negocio, comenzará la audiencia por la rela
 
 Si fueren dos o más los apelantes, usarán de la palabra en el orden que designe el mismo Magistrado, pudiendo hablar al último el acusado o su defensor. Si las partes, debidamente notificadas, no concurrieren, se llevará adelante la audiencia, la cual podrá celebrarse en todo caso con la presencia de dos Magistrados; pero la sentencia respectiva deberá pronunciarse por los tres que integran la Sala.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 425.
 
@@ -3922,6 +3994,8 @@ II.- Las sentencias de Segunda Instancia y aquellas contra las cuales no concede
 
 ## TITULO QUINTO. Incidentes
 
+#### SECCION PRIMERA. Diversos incidentes
+
 ### CAPITULO I. Substanciación de las competencias
 
 ###### ARTICULO 444.
@@ -4038,7 +4112,7 @@ Si ambos sostuvieren su jurisdicción, remitirán al Tribunal Superior los autos
 
 Recibidos los autos en el Tribunal Superior, desde luego se señalará día para la vista, que se verificará dentro de los ocho días siguientes al de la citación.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 466.
 
@@ -4540,6 +4614,8 @@ Hecha la promoción, se dará vista con ella a las partes, para que contesten en
 
 Si el juez lo creyere conveniente, o alguna de las partes lo pidiere, citará a una audiencia que se verificará dentro de los tres días siguientes. Durante este plazo, así como en la audiencia, se recibirán las pruebas. Concurran o no las partes, el juez fallará desde luego el incidente, siendo apelable el fallo sólo en el efecto devolutivo.
 
+#### SECCION SEGUNDA. Incidentes de libertad
+
 ### CAPITULO I. De la libertad por desvanecimiento de datos
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
@@ -4624,7 +4700,7 @@ I.- Cuando se viole alguna de las disposiciones de los dos artículos anteriores
 
 II.- Cuando recaiga sentencia condenatoria contra el agraciado, ya sea en primera o en segunda instancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 555.
 
@@ -4646,7 +4722,7 @@ Todo inculpado tendrá derecho durante la averiguación previa y en el proceso j
 
 I.- Que garantice el monto estimado de la reparación del daño;
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2007)</small>
 
 Tratándose de delitos que afecten la vida o la integridad corporal, el monto de la reparación no podrá ser menor del que resulte aplicándose las disposiciones relativas de la Ley Federal del Trabajo;
 
@@ -4658,9 +4734,9 @@ III.- Que otorgue caución para el cumplimiento de las obligaciones que en térm
 
 IV.- Que no se trate de delitos que por su gravedad estén previstos en el quinto párrafo del artículo 268 de este Código.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, G.O. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
 > <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
@@ -4744,7 +4820,7 @@ La naturaleza de la caución quedará a elección del inculpado, quien al solici
 
 La caución podrá consistir:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 I.- En depósito en efectivo, hecho por el inculpado o por terceras personas, en la institución de crédito autorizada para ello. El certificado que en estos casos se expida, se depositará en la caja de valores del Ministerio Público, del tribunal o juzgado, tomándose razón de ello en autos. Cuando, por razón de la hora o por ser día inhábil, no pueda constituirse el depósito directamente en la institución mencionada, el Ministerio Público o el juez recibirán la cantidad exhibida y la mandarán depositar en las mismas el primer día hábil.
 
@@ -4800,7 +4876,7 @@ Al notificarse al indiciado el auto que le concede la libertad caucional, se le 
 
 En los casos a que se refiere el artículo 133 bis, el Juez, al notificar el auto de sujeción a proceso le hará saber que ha contraído las dos primeras obligaciones señaladas en el primer párrafo de este mismo artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 568.
 
@@ -5064,7 +5140,7 @@ Cuando se trate del indulto a que se refiere el artículo 103 del Nuevo Código 
 
 El Ejecutivo, en vista de los comprobantes o si así conviniere a la tranquilidad y seguridad públicas, concederá el indulto sin condición alguna, o con las restricciones que estime convenientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
 
 ###### ARTICULO 614.
 
@@ -5212,7 +5288,7 @@ II.- (DEROGADA, D.O.F. 10 DE ENERO DE 1994)
 
 III.- Practicar las diligencias que les encomienden los jueces de Primera Instancia, Menores y Penales de sus respectivos partidos y que deban verificarse dentro de su respectiva jurisdicción territorial.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ### CAPITULO IV. De las Cortes Penales
 
@@ -5268,7 +5344,7 @@ Para el despacho de los negocios de los juzgados penales habrá el número de se
 
 El Primer Secretario deberá tener los requisitos que fija la presente Ley, para los Jueces.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 642.
 
@@ -5382,7 +5458,7 @@ El cargo del Jurado es incompatible con cualquier otro cargo o empleo de la Fede
 
 La Dirección General de Prevención y Readaptación Social formará cada año una lista de los individuos que reúnan los requisitos indispensables para desempeñar el cargo de jurado, y mandará que se publique el día primero de noviembre.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 651.
 
@@ -5436,7 +5512,7 @@ Los Presidentes de Debates de la ciudad de México, tendrán bajo sus órdenes u
 
 Cuando se efectúe un jurado el tribunal dispondrá la manera de atender el servicio taquigráfico.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE ENERO DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ### CAPITULO VIII. Sobreseimiento
 
@@ -5480,7 +5556,7 @@ El procedimiento cesará y el expediente se mandará a archivar en los casos de 
 
 Cuando se siga el procedimiento por dos o más delitos y por lo que toca a alguno, exista causa de sobreseimiento, éste se decretará por lo que al mismo se refiere y continuará el procedimiento en cuanto a los demás delitos, siempre que no deba suspenderse.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 663.
 
@@ -5490,7 +5566,7 @@ El sobreseimiento puede decretarse de oficio o a petición de parte, en los caso
 
 Cuando el sobreseimiento sea a petición de parte, será el juez el que decida si procede o no.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 > <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
@@ -5550,7 +5626,7 @@ El Jurado, tratándose de delitos oficiales será, presidido por el Juez o Magis
 
 Cuando un magistrado, juez o Agente del Ministerio Público fuere acusado por delito del orden común, el juez que conozca del proceso respectivo pedirá al Tribunal Superior de Justicia del Distrito Federal, que lo ponga a su disposición, y éste lo decretará así, siempre que se reúnan los requisitos que para dictar una orden de aprehensión exige el artículo 16 de la Constitución General de la República.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ### CAPITULO X. De la Dirección General de Prevención y Readaptación Social y otras dependencias
 
@@ -5560,7 +5636,7 @@ Cuando un magistrado, juez o Agente del Ministerio Público fuere acusado por de
 
 La Dirección General de Prevención y Readaptación Social, dependiente de la Secretaría de Gobernación, tendrá a su cargo la prevención general de la delincuencia y el tratamiento de los adultos delincuentes en los términos a que alude el artículo siguiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 674.
 
@@ -5630,7 +5706,7 @@ XV.- Las demás que fijen las leyes y los reglamentos.
 
 (DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1974)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 676.
 
@@ -5744,7 +5820,7 @@ México, D.F., a 27 de agosto de 1931.- El Subsecretario de Gobernación, Encarg
 
 Al C...
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 D.O.F. 12 DE MAYO DE 1938.
 
@@ -5756,7 +5832,7 @@ Esta Ley entrará en vigor a partir de la fecha de su publicación en el "Diario
 
 D.O.F. 26 DE JUNIO DE 1941.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -5848,7 +5924,7 @@ UNICO.- El Presente decreto entrará en vigor al día siguiente de la fecha su (
 
 D.O.F. 24 DE DICIEMBRE DE 1991.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- La presente Ley entrará en vigor a los sesenta días siguientes a su publicación en el Diario Oficial de la Federación.
 
@@ -5888,7 +5964,7 @@ TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administr
 
 D.O.F. 13 DE MAYO DE 1996.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CÓDIGO.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5896,7 +5972,7 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 D.O.F. 30 DE DICIEMBRE DE 1997.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CÓDIGO.
 
 PRIMERO.- Este Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
 
@@ -5994,7 +6070,7 @@ CUATRO.- El Jefe de Gobierno del Distrito Federal expedirá el Reglamento que re
 
 G.O. 17 DE ENERO DE 2007.
 
-DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
+DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
 PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -6002,7 +6078,7 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 
 G.O. 17 DE ENERO DE 2007.
 
-DECRETO QUE REFORMA EL ARTICULO 290, PARRAFO SEGUNDO DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
+DECRETO QUE REFORMA EL ARTÍCULO 290, PÁRRAFO SEGUNDO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
 PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -6076,7 +6152,7 @@ SEGUNDO.- Se deroga toda disposición que se oponga al presente decreto.
 
 G.O. 19 DE JULIO DE 2010.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 9 Y 192 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 9 Y 192 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -6084,7 +6160,7 @@ SEGUNDO.- Publíquese el presente en la Gaceta Oficial del Distrito Federal y en
 
 G.O. 19 DE JULIO DE 2010.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 273 BIS Y 273 BIS 1 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 273 BIS Y 273 BIS 1 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federa (sic).
 
@@ -6117,3 +6193,11 @@ En la elaboración del protocolo deberá considerarse los estándares internacio
 Cuarto.- La Procuraduría General de Justicia del Distrito Federal y el Tribunal Superior de Justicia del Distrito Federal, en el ámbito de sus competencias, deberán capacitar continuamente al personal encargado de implementar los protocolos de investigación pericial, ministerial y policial del delito de feminicidio.
 
 Quinto.- La Procuraduría General de Justicia del Distrito Federal deberá en un plazo no mayor a seis meses poner en funcionamiento los registros a los que hace referencia el articulo 105 Ter del Código de Procedimientos Penales para el Distrito Federal, así como el Banco de Datos de Información Genética que establece el mismo precepto.
+
+G.O. 18 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a los noventa días naturales de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+TERCERO.- La Procuraduría General de Justicia del Distrito Federal deberá publicar el acuerdo por el que expiden los Lineamientos de la Cadena de Custodia a que se refiere el artículo 96 del presente Código, a más tardar dentro de los 45 días naturales a la publicación del presente Decreto y entrarán en vigor conjuntamente con este Decreto. Para estos efectos, la Procuraduría General de Justicia del Distrito Federal podrá hacer propios los ordenamientos respectivos relativos a la cadena de custodia emitidos por la Conferencia Nacional de Procuración de Justicia.
