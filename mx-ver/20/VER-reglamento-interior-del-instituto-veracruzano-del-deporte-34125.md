@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-instituto-veracruzano-del-deporte-34125
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-25"
-last_updated: "2003-09-25"
+last_updated: "2013-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DEL DEPORTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DEL DEPORTE, PUBLICADO EN LA G.O. DE 18 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 25 de septiembre de 2003.
 
@@ -321,3 +323,11 @@ Dado (sic) la ciudad de Xalapa-Enríquez, Veracruz, a los ________ días del mes
 Consejo del Sistema Estatal del Deporte:
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado, presidente.-Rúbrica. Ingeniero Carlos Sosa Lagunes, director general del Instituto Veracruzano del Deporte, secretario Ejecutivo.- Rúbrica. Licenciado Porfirio Serrano Amador, secretario de Desarrollo Regional, consejero.- Rúbrica. Licenciado Juan Amieva Huerta, secretario de Finanzas y Planeación, consejero.- Rúbrica. Doctor Mauro Loyo Varela, secretario de Salud y Asistencia, consejero.- Rúbrica. Doctor Rafael Grajales Sansores, director general del D.I.F. Estatal, consejero.- Rúbrica. C.P. Carlos Reyes Simón, presidente del Patronato de Fomento Deportivo, consejero.- Rúbrica. C. José Antonio Pérez Cabrera, representante de Asociaciones Deportivas, consejero.- Rúbrica. L.E.F. José Luis Peregrina Prieto, representante de Comudes, consejero.- Rúbrica. C.P. Ricardo García Guzmán, Contralor General del Estado, comisario.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 18 DE JUNIO DE 2013.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se abroga el Reglamento Interior del Instituto Veracruzano del Deporte de fecha 25 de septiembre de 2003, publicado en la Gaceta Oficial del estado número 192.
