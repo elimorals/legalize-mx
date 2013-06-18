@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2013-02-21"
+last_updated: "2013-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JUNIO DE 2013.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -8562,11 +8562,17 @@ ARTICULO 941 BIS
 
 Cuando a petición de parte interesada, se deba resolver provisionalmente sobre la custodia y la convivencia de las niñas y los niños con sus padres, previamente se dará vista a la parte contraria y, en caso de desacuerdo, se señalará día y hora para que tenga verificativo la audiencia que resolverá sobre la custodia y la convivencia de los menores misma que se efectuará dentro de los quince días siguientes.
 
-En la sesión donde sean escuchados los menores deberán ser asistidos por el asistente de menores correspondiente, adscrito al Sistema Integral de la Familia del Distrito Federal, quien no requerirá comparecer para protestar el cargo. Para que tenga verificativo la audiencia respectiva el Juez de lo Familiar tomará en consideración la programación de audiencias que tenga la Institución.
+> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2013)</small>
 
-Quien tenga a los menores bajo su cuidado, los presentará a la audiencia, para que sean escuchados por el Juez y el Ministerio Público adscrito.
+En la sesión donde sean escuchados los menores, a criterio del juez, podrán ser asistidos por el Agente del Ministerio Público de la adscripción y por el asistente de menores correspondiente adscrito al Sistema Integral de la Familia del Distrito Federal, quien no requerirá comparecer para protestar el cargo, y no realizará manifestaciones dentro de la audiencia correspondiente, limitándose a lo establecido en el segundo párrafo del artículo 417 bis.
 
-El Juez de lo Familiar oyendo la opinión del Representante Social y valorando todos y cada uno de los elementos que tenga a su disposición, pudiendo incluir valoración psicológica del menor y de las partes que solicitan la custodia, determinará a quién de los progenitores corresponderá la custodia provisional de los hijos menores de edad.
+> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2013)</small>
+
+Quien tenga a los menores bajo su cuidado, los presentará a la audiencia, para que sean escuchados por el Juez.
+
+> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2013)</small>
+
+El Juez de lo Familiar valorando todos y cada uno de los elementos que tenga a su disposición, pudiendo incluir valoración psicológica del menor y de las partes que solicitan la custodia, determinará a quién de los progenitores corresponderá la custodia provisional de los hijos menores de edad.
 
 A falta o imposibilidad de los progenitores para tener la custodia de los menores se considerarán las hipótesis previstas en los artículos 414 y 418 del Código Civil.
 
@@ -10549,3 +10555,11 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los asuntos cuya demanda haya sido presentada con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE JUNIO DE 2013.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
