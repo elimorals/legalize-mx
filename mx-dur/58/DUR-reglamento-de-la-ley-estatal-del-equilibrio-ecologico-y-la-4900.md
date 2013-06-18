@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-la-ley-estatal-del-equilibrio-ecologico-y-la-4900
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-04-07"
-last_updated: "1996-04-07"
+last_updated: "2013-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "DUR"
 ---
 # REGLAMENTO DE LA LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE IMPACTO AMBIENTAL
 
-REGLAMENTO DE LA LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE IMPACTO AMBIENTAL
+REGLAMENTO DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE IMPACTO AMBIENTAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO EN MATERIA DE IMPACTO AMBIENTAL, PUBLICADO EN EL P.O. DE 18 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 7 de abril de 1996.
 
-EL CIUDADANO LICENCIADO MAXIMILlANO SILERIO ESPARZA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE LA FRACCION II DEL ARTICULO 70 DE LA CONSTlTUCION POLlTICA LOCAL, y CON FUNDAMENTO EN LO DISPUESTO POR EL ARTICULO 7 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO; Y LOS ARTICULOS 3 ,5 , 34, Y 38, DE LA LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE, HE TENIDO A BIEN EXPEDIR EL SIGUIENTE:
+EL CIUDADANO LICENCIADO MAXIMILIANO SILERIO ESPARZA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE LA FRACCION II DEL ARTICULO 70 DE LA CONSTITUCION POLITICA LOCAL, y CON FUNDAMENTO EN LO DISPUESTO POR EL ARTICULO 7 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO; Y LOS ARTICULOS 3 ,5 , 34, Y 38, DE LA LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE, HE TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
-REGLAMENTO DE LA LEY ESTATAL DEL EQUILlBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE IMPACTO AMBIENTAL
+REGLAMENTO DE LA LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE IMPACTO AMBIENTAL
 
 ### CAPITULO I
 
@@ -161,7 +163,7 @@ En caso de estimarlo necesario La Secretaría, en forma previa a la realización
 
 ###### ARTICULO 9.
 
-Aún cuando la Secretaría no soilcite al interesado la manifestación de impacto ambiental, deberá emitir, en todos los casos, una opinión en tal sentido con los razonamientos por los cuales no consideró necesario solicitársela al interesado.
+Aún cuando la Secretaría no solicite al interesado la manifestación de impacto ambiental, deberá emitir, en todos los casos, una opinión en tal sentido con los razonamientos por los cuales no consideró necesario solicitársela al interesado.
 
 ###### ARTICULO 10.
 
@@ -193,7 +195,7 @@ La manifestación del Impacto Ambiental en su modalidad intermedia, o demás de 
 
 ###### ARTICULO 13.
 
-La Manifestación deL Impacto Ambiental en su modalidad específica debe contener como mínimo lo siguiente:
+La Manifestación de Impacto Ambiental en su modalidad específica debe contener como mínimo lo siguiente:
 
 I.- Descripción detallada y justificación de la obra o actividad proyectada, desde la etapa de selección del sitio hasta terminación de las obras o el cese de la actividad, ampliando la información o que se refiere la fracción II del articulo 11 del Reglamento;
 
@@ -215,7 +217,7 @@ La Secretaría evaluará el informe preventivo en un término no mayor a los 10 
 
 En la evaluación de todo informe preventivo o Manifestación de Impacto Ambiental, se consideraran entre otros, los elementos siguientes:
 
-l.- El ordenamiento ecológico;
+I.- El ordenamiento ecológico;
 
 II.- Las declaratorias de áreas naturales protegidas;
 
@@ -249,7 +251,7 @@ Cuando las obras o actividades que por sus características requieran la intelec
 
 Una vez cumplido por el interesado los requisitos exigidos por la Secretaría así como las evaluaciones a que se refiere el artículo 14.- de este reglamento La Secretaría formulará y comunicará a los interesados la resolución correspondiente en la que podrá:
 
-l.- Autorizar la realización de la obra o actividad en los términos y condiciones señalados en la manifestación correspondiente;
+I.- Autorizar la realización de la obra o actividad en los términos y condiciones señalados en la manifestación correspondiente;
 
 II.- Autorizar la realización de la obra o actividad proyectada de manera condicionada; y
 
@@ -398,3 +400,13 @@ LIC. ALFREDO BRACHO BARROSA.
 EL SECRETARIO DE COMUNICACIONES Y OBRAS PUBLICAS
 
 ING. HECTOR RICALDA Y QUIROGA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE AGOSTO DE 2013.
+
+Primero. El presente reglamento entrará en vigor a los tres días después de su publicación en el Periódico Oficial de Gobierno del Estado de Durango.
+
+Segundo.- Se abroga el Reglamento de la Ley Estatal del Equilibrio Ecológico y Protección al Ambiente en materia de impacto ambiental publicado en el Periódico Oficial del Gobierno Constitucional de Durango, de fecha 7 de abril de 1996 y todas aquellas disposiciones que se opongan al presente reglamento.
+
+Tercero.- Todos los procedimientos de solicitudes que se encuentren en trámite se resolverán de conformidad con el anterior reglamento, excepto aquellos en los que los promoventes soliciten la aplicación del presente ordenamiento.
