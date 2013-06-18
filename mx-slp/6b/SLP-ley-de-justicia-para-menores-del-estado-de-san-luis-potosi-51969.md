@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-para-menores-del-estado-de-san-luis-potosi-5196
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-05"
-last_updated: "2012-12-22"
+last_updated: "2013-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA PARA MENORES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 5 de septiembre de 2006.
 
@@ -81,7 +81,11 @@ III. Constitución Estatal: a la Constitución Política del Estado Libre y Sobe
 
 IV. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos;
 
-V. Dirección General: a la Dirección de Ejecución de Medidas para Menores, adscrita a la Secretaría General de Gobierno del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2013)</small>
+
+V. Dirección General: a la Dirección General de Ejecución de medidas para Menores. Adscrita a la Secretaría de Seguridad Pública del Estado.
 
 VI. Juez Especializado: al juez adscrito al Poder Judicial del Estado, que conocerá de asuntos en materia de justicia para menores;
 
@@ -269,11 +273,13 @@ Los abogados defensores de oficio para menores, dependen de la Coordinación Gen
 
 Los funcionarios judiciales dependen del Poder Judicial del Estado. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción y permanencia del nombramiento, con excepción de los magistrados, serán definidos por el Consejo de la Judicatura. Sus atribuciones y funciones serán reguladas, según corresponda, en (sic) Ley Orgánica del Poder Judicial del Estado de San Luis Potosí.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 17.
 
-El titular de la Dirección General, así como los directores de los centros de Internamiento, y de Reeducación, deberán contar con título profesional legalmente expedido y con una experiencia mínima de tres años en la materia, dependerán del Ejecutivo del Estado, a través de la Secretaría General de Gobierno del Estado, y la Subsecretaría de Prevención y Reinserción Social. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción y permanencia del cargo, serán definidos por esta Dependencia conforme a la legislación aplicable. Sus funciones y atribuciones serán reguladas por esta Ley.
+El titular de la Dirección General, así como los Directores de los Centros de Internamiento, y de Reeducación, deberán contar con título profesional legalmente expedido y con una experiencia mínima de tres años en la materia, dependerán del Ejecutivo del Estado, a través de la Secretaría de Seguridad Pública del Estado; los criterios de organización, formación especializada y los procedimientos de ingreso, promoción y permanencia del cargo, serán definidos por esta Dependencia conforme a la legislación aplicable. Sus funciones y atribuciones serán reguladas por esta Ley.
 
 ###### ARTICULO 18.
 
@@ -405,7 +411,11 @@ I. Administrar eficientemente los recursos humanos, técnicos, materiales y fina
 
 II. Coordinar, ejecutar, vigilar y evaluar el estricto cumplimiento de las normas, términos, criterios, bases y procedimientos instruidos por la Dirección General y por el Juez de Ejecución, para el desarrollo eficaz y eficiente de los modelos individualizados de formación integral, en el estricto cumplimiento de las medidas impuestas al menor;
 
-III. Convocar hasta dos veces por semana a los menores sujetos a medidas de orientación o protección en libertad, para orientación, tutoría, seguimiento y evaluación de las actividades de los modelos individualizados de reeducación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2013)</small>
+
+III. Convocar cuando menos dos veces por mes, a los menores sujetos a medidas de orientación o protección en libertad, para orientación, tutoría, seguimiento y evaluación de las actividades de los modelos individualizados de reeducación;
 
 IV. Ejecutar todas las actividades de los modelos individualizados de formación integral, armónica y dinámica, impuestos por el juez especializado, en las medidas de orientación y protección a los menores;
 
@@ -1453,9 +1463,13 @@ A sugerencia del personal encargado de ejecutar el Programa Individualizado, la 
 
 El Juez de Ejecución hará constar en acta circunstanciada, la fecha, hora y lugar en que se inicie el cumplimiento de la medida. En ese momento le informará personalmente al menor los derechos y garantías que le asisten durante dicho cumplimiento, así como sus deberes y obligaciones.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 133.
 
-La Dirección General deberá recabar la información necesaria para notificar al Juez de Ejecución, cada mes, sobre el desarrollo del Programa Individualizado, haciendo énfasis en los progresos u obstáculos que se hayan presentado. Es obligación de la Dirección General notificar a los familiares, a los defensores y al propio menor, el contenido del informe al que hace referencia este artículo.
+La Dirección General deberá recabar cada mes la información necesaria sobre el desarrollo del programa individualizado, a efecto de cumplir con la obligación de notificar a los familiares, a los defensores, y al propio menor, el contenido del informe al que hace referencia este artículo.
 
 #### Sección I. Adecuación y Cumplimiento Anticipado de la Medida
 
@@ -1838,5 +1852,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 22 DE DICIEMBRE DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
