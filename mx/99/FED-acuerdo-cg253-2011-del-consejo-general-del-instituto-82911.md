@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg253-2011-del-consejo-general-del-instituto-82911"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-09-23"
-last_updated: "2011-09-23"
+last_updated: "2013-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82911&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2011-08-25"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE CREA EL COMITÉ DE ESPECIALISTAS PARA EL SEGUIMIENTO Y EVALUACIÓN DE LA ESTRATEGIA NACIONAL DE EDUCACIÓN CÍVICA PARA EL DESARROLLO DE LA CULTURA POLÍTICA DEMOCRÁTICA EN MÉXICO PARA EL PERÍODO 2011-2015
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 19 DE JUNIO DE 2013, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de septiembre de 2011.
 
@@ -292,3 +294,19 @@ El Plan Anual privilegiará los ejercicios de seguimiento y evaluación con cara
 El Comité rendirá informes semestrales respecto a las actividades realizadas conforme al Plan Anual aprobado, así como un informe final al concluir el periodo de vigencia de la ENEC. Dichos informes serán sometidos a la consideración del Consejo General del Instituto, previa aprobación de la Comisión.
 
 Estos informes se apegarán a las disposiciones establecidas en el Reglamento del Instituto Federal Electoral en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE JUNIO DE 2013.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE MODIFICA LA INTEGRACIÓN DEL COMITÉ DE ESPECIALISTAS PARA EL SEGUIMIENTO Y EVALUACIÓN DE LA ESTRATEGIA NACIONAL DE EDUCACIÓN CÍVICA PARA EL DESARROLLO DE LA CULTURA POLÍTICA DEMOCRÁTICA EN MÉXICO PARA EL PERÍODO 2011-2015”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. Se aprueba la modificación de la integración del Comité de Especialistas para el Seguimiento y Evaluación de la Estrategia Nacional de Educación Cívica para el Desarrollo de la Cultura Política Democrática en México (ENEC) 2011-2015, a efecto de que la C. Marta Subiñas Abad sustituya a la C. Karina Mariela Ansolabehere.
+
+SEGUNDO. Se instruye a la Secretaría Ejecutiva para que notifique su designación a la C. Marta Subiñas Abad a efecto de que, a la brevedad, asuma las funciones inherentes a dicho encargo.
+
+TERCERO. El presente Acuerdo entrará en vigor a partir de su aprobación por el Consejo General.
+
+CUARTO. Publíquese en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
