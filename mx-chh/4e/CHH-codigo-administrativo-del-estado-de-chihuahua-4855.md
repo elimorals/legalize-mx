@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2012-03-31"
+last_updated: "2013-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2013.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -519,9 +519,11 @@ Cuando necesitare aumentarse, en casos excepcionales, la duración de cualquier 
 
 Por cada seis días de trabajo, disfrutará el trabajador cuando menos de un día completo con goce de salario íntegro.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 92.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos, después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
+Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos, después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos, procurándose adecuar un espacio para ello.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
@@ -10758,3 +10760,9 @@ La Junta Central, así como las juntas municipales y rurales, no se verán afect
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado dispone de hasta 180 días contados a partir de la entrada en vigor de la presente Ley, para expedir el Reglamento correspondiente.
+
+P.O. 19 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
