@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2013-02-23"
+last_updated: "2013-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -699,9 +699,13 @@ XLIII.- Como una medida preventiva del delito de robo, ejercer las funciones de 
 
 Los establecimientos dedicados a las actividades señaladas en el párrafo anterior, independientemente de los requisitos que se señalen dentro de los reglamentos que para tal efecto expidan los Ayuntamientos, deberán contar con un registro de proveedores, que contenga entre otros los datos de la empresa que realiza las actividades objeto del control señalado en esta fracción, como son: nombre comercial, domicilio del establecimiento, nombre del propietario o propietarios y, en su caso, nombre del representante legal y su domicilio; así mismo, el registro de proveedores contendrá la identidad de los proveedores, fecha, clase y cantidad de los metales adquiridos.
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2013)</small>
 
-XLIV.- Las demás que le confieren las leyes y sus reglamentos.
+XLIV.- Fomentar la lactancia materna, procurando adecuar un espacio para que las madres que laboran en los Ayuntamientos, la proporcionen a sus hijos.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2013)</small>
+
+XLV.- Las demás que le confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -4348,6 +4352,12 @@ P.O. 2 DE FEBRERO DE 2013.
 El presente Decreto surtirá vigencia un día después de la entrada en vigor de la reforma constitucional al artículo 130 de la Constitución Política del Estado, contenida en el Decreto No. 316/2011 II P.O.
 
 P.O. 23 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
