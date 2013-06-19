@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2013-06-18"
+last_updated: "2013-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JUNIO DE 2013.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2271,11 +2271,15 @@ El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas l
 
 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 287.
 
-En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 267 y éste no contravenga ninguna disposición legal, el Juez lo aprobará de plano, decretando el divorcio mediante sentencia; de no ser así, el juez decretará el divorcio mediante sentencia, dejando expedito el derecho de los cónyuges para que lo hagan valer en la vía incidental, exclusivamente por lo que concierne al convenio.
+En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 267 y éste no contravenga ninguna disposición legal, o presentaren un convenio emanado del procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, en uno u otro caso el juez lo aprobará de plano, decretando el divorcio mediante sentencia. En caso contrario, el juez decretará el divorcio dejando expedito el derecho de los cónyuges para que lo hagan valer por la vía incidental, exclusivamente por lo que concierne al convenio.
+
+El juez decretará en la referida sentencia que, previo al inicio de la vía incidental, las partes acudan obligatoriamente al procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, e intenten, a través de dicho procedimiento, llegar a un acuerdo respecto del convenio señalado.
+
+En caso de que las partes, una vez recibida la pre-mediación, no hubieren aceptado el procedimiento, o habiéndolo iniciado no fuera posible llegar a un acuerdo, podrán hacer valer sus derechos por la vía incidental. En el caso de que las partes logren la construcción de un acuerdo por medio del procedimiento de mediación, lo harán del conocimiento del juez.
 
 > <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
@@ -13017,7 +13021,9 @@ ARTICULO 3,005.- Sólo se registrarán:
 
 I.- Los testimonios de escrituras o actas notariales u otros documentos auténticos;
 
-II.- Las resoluciones y providencias judiciales que consten de manera auténtica;
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+II.- Las resoluciones y providencias judiciales que consten de manera auténtica, así como los convenios emanados del procedimiento de mediación que cumplan con los requisitos previstos por el artículo 38 de la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal.
 
 > <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
 
@@ -13373,7 +13379,9 @@ V.- Los títulos presentados al Registro Público y cuya inscripción haya sido 
 
 VI.- Las fianzas legales o judiciales, de acuerdo con lo establecido en el artículo 2852 de este Código, así como las fianzas a que se refieren los artículos 31 y 100 de la Ley Federal de Instituciones de Fianzas.
 
-VII.- (DEROGADA, G.O. 23 DE JULIO DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE JUNIO DE 2013)</small>
+
+VII.- Los convenios emanados del procedimiento de mediación que cumplan con los requisitos previstos por el artículo 38 de la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -13401,11 +13409,11 @@ De los efectos de las anotaciones
 
 ARTICULO 3,044.- La anotación preventiva, perjudicará a cualquier adquirente de la finca o derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquella, y en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
 
-En los casos de las fracciones IV y VIII del artículo 3043 podrá producirse el cierre del registro en los términos de la resolución correspondiente. En el caso de la fracción VI, la anotación no producirá otro efecto que el fijado por el artículo 2854.
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+En los casos de las fracciones IV y VIII del artículo 3043 podrá producirse el cierre del registro en los términos de la resolución correspondiente. En el caso de la fracción VI la anotación no producirá otro efecto que el fijado por el artículo 2854. Tratándose del caso de la fracción VII, se producirá igualmente el cierre del registro si así fue acordado por los mediados en el convenio respectivo, a efecto de garantizar su cumplimiento. El mediador, Secretario Actuario o funcionario del centro de justicia alternativa según corresponda, solicitará la cancelación de dicho cierre, una vez que las partes se den por satisfechas del cumplimiento de dicho convenio.
 
-En el caso de la fracción VII, la anotación servirá únicamente para que conste la afectación en el registro del inmueble sobre el que hubiere recaído la declaración, pero bastará la publicación del decreto relativo en la Gaceta Oficial del Distrito Federal para que queden sujetos a las resultas del mismo, tanto el propietario o poseedor, como los terceros que intervengan en cualquier acto o contrato posterior a dicha publicación, respecto del inmueble afectado, debiendo hacerse la inscripción definitiva que proceda, hasta que se otorgue la escritura respectiva, salvo el caso expresamente previsto por alguna Ley en que se establezca que no es necesario este requisito.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 19 DE JUNIO DE 2013)</small>
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -14398,3 +14406,19 @@ PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 19 DE JUNIO DE 2013.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. El Jefe de Gobierno del Distrito Federal contará con un plazo de 180 días contados a partir de la entrada en vigor del presente decreto para expedir las modificaciones que correspondan al Reglamento de la Ley Registral de Distrito Federal.
+
+CUARTO. El Consejo de la Judicatura del Distrito Federal, deberá expedir las modificaciones que correspondan al Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, y las Reglas del Mediador Privado en un plazo de 180 días a partir de la entrada en vigor del presente decreto.
+
+QUINTO. Los mediadores privados con certificación y registro vigente ante el Tribunal Superior de Justicia del Distrito Federal, deberán someterse obligatoriamente para conservar el registro a un procedimiento de capacitación y actualización en razón de la entrada en vigor del presente decreto.
+
+SEXTO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
