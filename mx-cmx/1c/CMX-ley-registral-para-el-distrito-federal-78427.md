@@ -4,7 +4,7 @@ identifier: "CMX-ley-registral-para-el-distrito-federal-78427"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-21"
-last_updated: "2011-01-21"
+last_updated: "2013-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78427&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-18"
 
 LEY REGISTRAL PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JUNIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 21 de enero de 2011.
 
@@ -644,6 +644,26 @@ V. Resolución a cumplimentar; y
 
 VI. En su caso, suerte principal y accesorios legales.
 
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 49 Bis.
+
+Las anotaciones a que se refiere la fracción VII del artículo 3043 del Código, contendrán cuando menos los siguientes datos:
+
+I. El nombre de los mediados;
+
+II. Tipo de servicio de mediación;
+
+III. El nombre del Director General, Director de Mediación, Subdirector de Mediación del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, del Secretario Actuario en funciones de mediador público o mediador privado, certificado por el Tribunal Superior de Justicia del Distrito Federal, ante quien se hubiere celebrado el convenio;
+
+IV. La fecha de celebración del convenio, número del convenio y número de registro que le corresponda en su caso;
+
+V. El acuerdo de los mediados relativo a la voluntad de inscripción del convenio y sus efectos de conformidad con lo dispuesto por el segundo párrafo del artículo 3044 del Código;
+
+VI. Los acuerdos donde consten las obligaciones de dar, hacer o no hacer a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, y
+
+VII. En su caso, suerte principal y accesorios legales.
+
 ###### Artículo 50.
 
 Solo se asentarán las anotaciones preventivas por denegación de las inscripciones, cuando se interponga el recurso legal que proceda.
@@ -870,9 +890,11 @@ V. Cuando así lo ordene la autoridad competente o por sentencia firme.
 
 Las anotaciones preventivas a que se refiere el artículo 3035 del Código caducarán a los tres años contados a partir de la fecha que establezca el número de entrada y trámite ante el Registro.
 
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
+
 ###### Artículo 79.
 
-Las anotaciones preventivas que se originen por resoluciones judiciales o administrativas de carácter definitivo, así como las declaraciones de utilidad pública no caducan.
+Las anotaciones preventivas que se originen por resoluciones judiciales o administrativas de carácter definitivo, así como las declaraciones de utilidad pública y los convenios emanados del procedimiento de mediación a que se refiere la fracción VII del artículo 3043 del Código que tengan efectos definitivos, no caducan.
 
 ### CAPÍTULO QUINTO. DE LA PUBLICIDAD Y DE LAS NOTIFICACIONES
 
@@ -1079,3 +1101,21 @@ DÉCIMO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. KAREN QUIROGA ANGUIANO, PRESIDENTA.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de enero del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 19 DE JUNIO DE 2013.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. El Jefe de Gobierno del Distrito Federal contará con un plazo de 180 días contados a partir de la entrada en vigor del presente decreto para expedir las modificaciones que correspondan al Reglamento de la Ley Registral de (sic) Distrito Federal.
+
+CUARTO. El Consejo de la Judicatura del Distrito Federal, deberá expedir las modificaciones que correspondan al Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, y las Reglas del Mediador Privado en un plazo de 180 días a partir de la entrada en vigor del presente decreto.
+
+QUINTO. Los mediadores privados con certificación y registro vigente ante el Tribunal Superior de Justicia del Distrito Federal, deberán someterse obligatoriamente para conservar el registro a un procedimiento de capacitación y actualización en razón de la entrada en vigor del presente decreto.
+
+SEXTO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
