@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2013-06-14"
+last_updated: "2013-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -583,6 +583,10 @@ Los delitos culposos se penarán con prisión de seis meses a siete años, pero 
 
 Las demás penas o medidas de seguridad, se aplicarán hasta en la mitad de las correspondientes al delito doloso en cuantía y duración.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2013)</small>
+
+Se exceptúa de lo establecido en el primer párrafo de este artículo, lo previsto en el artículo 88 bis del presente Código.
+
 ###### ARTICULO 55.
 
 Al responsable de un delito preterintencional, se le aplicará hasta las tres cuartas partes de la pena o medida que correspondería al delito si fuese doloso.
@@ -894,6 +898,14 @@ Al que prive de la vida a otro en riña se le impondrá de ocho a quince años d
 Al que dolosamente prive de la vida a cualquier ascendiente o descendiente en línea recta, a su hermano, cónyuge, concubino, adoptante o adoptado, con conocimiento de ese parentesco o relación se le impondrá de veinte a cuarenta años de prisión y de mil doscientos a dos mil quinientos días multa.
 
 A los sentenciados por el delito previsto en este artículo, no se le concederán ninguno de los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 88
+
+BIS.- A quien conduciendo un vehículo en estado de ebriedad o bajo el influjo de drogas, enervantes, estupefacientes, psicotrópicos u otras sustancias prohibidas que tengan efectos similares en el cuerpo humano, prive de la vida a otro, se le impondrá una pena de cuatro a doce años de prisión, de quinientos a mil quinientos días multa e inhabilitación para conducir por tres años.
+
+Para efectos de este artículo se considera que una persona se encuentra en estado de ebriedad cuando en su organismo existen cien o más miligramos de alcohol por cada decilitro de sangre.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2012)</small>
 
@@ -2019,7 +2031,7 @@ TER.- Comete el delito de adopción ilegal quién facilite, instrumente, colabor
 
 Si se tratare de un funcionario público, se duplicará la pena y se le castigará a éste con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro de carácter público o similar, hasta por un tiempo igual a la pena impuesta, sin exceptuar las sanciones establecidas en la Ley de Responsabilidades de los Servidores Públicos aplicables.
 
-Si hubiera mediado una retribución económica y/o de otro tipo, se aumentará la pena hasta tres años de prisión más a quién la hubiera solicitado, pagado, o aceptado.
+Si hubiera mediado una retribución económica y/o de otro tipo, se aumentará la pena hasta tres años de prisión más a quién la hubiera solicitado, pagadao o aceptado.
 
 ### CAPITULO II. DE LOS DELITOS CONTRA EL AMBIENTE Y LA FAUNA
 
@@ -3522,3 +3534,7 @@ DECRETO NÚMERO 290, POR EL QUE SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO III Y
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
