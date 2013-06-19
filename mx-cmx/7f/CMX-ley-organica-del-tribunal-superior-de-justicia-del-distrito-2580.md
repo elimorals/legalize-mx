@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2013-06-14"
+last_updated: "2013-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JUNIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -56,11 +56,11 @@ El Consejo de la Judicatura es el órgano encargado de manejar, administrar y ej
 
 Se establecen como principios que regulan la función judicial, tanto en su aspecto de impartición de Justicia, como en su aspecto administrativo los siguientes: la expeditez, el impulso procesal oficioso, la imparcialidad, la legalidad, la honradez, la independencia, la caducidad, la sanción administrativa, la oralidad, la formalidad, la calidad total en sus procesos operativos, administrativos y contables, la excelencia en recursos humanos, la vanguardia en sistemas tecnológicos, la carrera judicial, la eficiencia y eficacia.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNICO DEL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN LA G.O. DE 10 DE SEPTIEMBRE DE 2009, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE OCHO FRACCIONES A DOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN LA G.O. DE 10 DE SEPTIEMBRE DE 2009, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE OCHO FRACCIONES A DOS.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 2o.
 
@@ -310,7 +310,7 @@ IV. Tener una práctica profesional en el campo jurídico de seis meses y haber 
 
 Para ser Secretario Auxiliar Actuario de Sala se deben cubrir los requisitos del artículo 19 de esta Ley, a excepción del relativo a la práctica profesional.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -584,7 +584,7 @@ VI. Autorizar en unión del Secretario de Acuerdos que corresponda, las actas de
 
 VII. Dar cuenta al Tribunal en Pleno con las demandas de responsabilidad civil presentadas en contra de los Magistrados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VIII. (DEROGADA, G.O. 18 DE MARZO DE 2011)
 
@@ -820,7 +820,7 @@ Podrá definir el número y especialización de los juzgados de conformidad con 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 50.
 
@@ -838,7 +838,7 @@ I. De los asuntos de jurisdicción voluntaria, cuyo conocimiento no corresponda 
 
 II. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales siempre que el valor de la cosa sea igual o mayor a la cantidad que el artículo 691 del Código de Procedimientos Civiles para el Distrito Federal, establece para que un juicio sea apelable, cantidad que se actualizará en forma anual con base en la variación observada por la inflación en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía, entre la última actualización de dicho monto y el mes de noviembre del año en cuestión. A falta de uno o de otro serán aplicables los que los sustituyan; dicho valor se dará a conocer en el boletín judicial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -1150,7 +1150,9 @@ I. Concurrir diariamente al Juzgado de adscripción en el horario previsto;
 
 II. Recibir del Secretario de Acuerdos los expedientes de notificaciones o diligencias que deban llevarse a cabo fuera de la oficina del propio Juzgado, firmando en el libro respectivo;
 
-III. Hacer las notificaciones y practicar las diligencias decretadas por los Jueces, bajo la responsabilidad de la fe pública que les corresponda y dentro de las horas hábiles del día, entendiéndose por éstas las que median desde las siete hasta las diecinueve horas, devolviendo los expedientes dentro de las veinticuatro horas siguientes, previas las anotaciones en el libro respectivo, y
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+III. Hacer las notificaciones y practicar las diligencias decretadas por los Jueces, bajo la responsabilidad de la fe pública que les corresponda y dentro de las horas hábiles del día, entendiéndose por éstas las que median desde las siete hasta las diecinueve horas, devolviendo los expedientes dentro de las veinticuatro horas siguientes, previas las anotaciones en el libro respectivo. Durante las notificaciones y diligencias podrán llevar a cabo el procedimiento de mediación y, en su caso, redactar los acuerdos respectivos que hayan convenido las partes, en los términos de la Ley de la materia; y
 
 IV. En caso de existir imposibilidad para practicar las diligencias ordenadas, deberá asentar razón de ello y devolver las actuaciones dentro de las veinticuatro horas siguientes.
 
@@ -1208,7 +1210,7 @@ Los jueces podrán facultar a los pasantes de derecho que laboren en el juzgado 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 64.
 
@@ -1328,7 +1330,7 @@ V. De los asuntos de jurisdicción voluntaria, así como de la diligenciación d
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 72.
 
@@ -2530,31 +2532,55 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 El Centro de Justicia Alternativa es una dependencia del Tribunal que cuenta con autonomía técnica y de gestión, y se instituye para administrar y substanciar los métodos alternos de solución de controversias, particularmente la mediación, para la atención de los conflictos de naturaleza civil, mercantil, familiar o penal, entre particulares, así como para su desarrollo.
 
-> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 186 Bis 1.
 
-El Centro de Justicia Alternativa tiene por objeto:
+El Centro de Justicia Alternativa es una dependencia del Tribunal que cuenta con autonomía técnica y de gestión, tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2008)</small>
 
 I. El desarrollo y la administración eficaz y eficiente de los métodos alternos de solución de controversias, principalmente de la mediación;
 
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2008)</small>
+
 II. La prestación de los servicios de información al público, sobre los métodos alternativos de solución de controversias y en particular, sobre la Mediación; así como de orientación jurídica, psicológica y social a los mediados, durante la substanciación de aquella;
 
-III. La capacitación, certificación, selección, registro y monitoreo de los mediadores; para el servicio público y privado, a efecto de garantizar altos índices de competencia profesional;
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+III. La capacitación, certificación, selección, registro y monitoreo de los mediadores para el servicio público y privado; a efecto de garantizar altos índices de competencia profesional; así como la capacitación de mediadores y desarrollo de proyectos de mediación en apoyo a instituciones públicas y privadas, para la solución de controversias en todos los ámbitos de interacción social, tales como mediación escolar y comunitaria, entre otras;
+
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2008)</small>
 
 IV. La difusión y divulgación permanente de los servicios que presta;
 
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2008)</small>
+
 V. El fortalecimiento de sus funciones y la ampliación de sus metas, a partir de su experiencia y del intercambio permanente con instituciones públicas, privadas, nacionales y extranjeras;
 
-VI. La supervisión constante de su servicio y su retroalimentación oportuna, para mantenerlo dentro de niveles superiores de calidad;
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+VI. La supervisión constante de los servicios de los Mediadores y módulos de mediación, su retroalimentación oportuna, para mantenerlos dentro de niveles superiores de calidad así como el registro de los convenios de mediación;
+
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2008)</small>
 
 VII. El apoyo al trabajo jurisdiccional del Tribunal;
 
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2008)</small>
+
 VIII. El diseño y actualización de su normatividad interna, que será aprobada por el Pleno del Consejo;
 
-IX. La optimación de sus servicios a través de la aplicación de programas estratégicos de investigación, planeación y modernización científica y tecnológica; y
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2008)</small>
 
-XI (SIC). Cumplir con las disposiciones legales aplicables, así como con las que le atribuya expresamente esta Ley, sus disposiciones reglamentarias y los acuerdos que emita el Consejo.
+IX. La optimación de sus servicios a través de la aplicación de programas estratégicos de investigación, planeación y modernización científica y tecnológica; y (sic)
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+X. Operar como órgano especializado de la justicia para adolescentes, y
+
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2008)</small>
+
+XI. Cumplir con las disposiciones legales aplicables, así como con las que le atribuya expresamente esta Ley, sus disposiciones reglamentarias y los acuerdos que emita el Consejo.
 
 > <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
 
@@ -2606,11 +2632,11 @@ VI. Gozar de buena reputación; y
 
 VII. No haber sido condenado por delito doloso.
 
-> <small>(ADICIONADO, G.O. 27 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 186 Bis 5.
 
-El Director General del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, estará facultado para expedir copias certificadas de los documentos que obren en los archivos del mismo.
+El Director General, los Directores y Subdirectores de Mediación del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, estarán facultados para expedir copias certificadas de los documentos que obren en los archivos del mismo, y para efectuar los registros e inscripciones que previene la legislación correspondiente.
 
 ## TITULO NOVENO. De la Carrera Judicial
 
@@ -2898,7 +2924,7 @@ El Consejo de la Judicatura del Distrito Federal establecerá, de acuerdo con el
 
 XVIII. (DEROGADA, G.O. 10 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -3092,7 +3118,7 @@ Si todas las Salas o Magistrados del ramo estuvieren impedidos de conocer, pasar
 
 ## TÍTULO DÉCIMO TERCERO. De las Responsabilidades oficiales
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ### CAPITULO IV. Del Recurso de Revisión Administrativa
 
@@ -3406,7 +3432,7 @@ VIII. No entregar las copias certificadas ordenadas por decreto judicial, dentro
 
 IX. No elaborar los proyectos de acuerdo que deban recaer a los asuntos en trámite a su cargo, de manera adecuada tanto en fondo como en forma conforme a las constancias de los expedientes y la ley que resulte aplicable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -3909,3 +3935,19 @@ PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno para efectos de su pr
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 19 DE JUNIO DE 2013.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. El Jefe de Gobierno del Distrito Federal contará con un plazo de 180 días contados a partir de la entrada en vigor del presente decreto para expedir las modificaciones que correspondan al Reglamento de la Ley Registral de (sic) Distrito Federal.
+
+CUARTO. El Consejo de la Judicatura del Distrito Federal, deberá expedir las modificaciones que correspondan al Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, y las Reglas del Mediador Privado en un plazo de 180 días a partir de la entrada en vigor del presente decreto.
+
+QUINTO. Los mediadores privados con certificación y registro vigente ante el Tribunal Superior de Justicia del Distrito Federal, deberán someterse obligatoriamente para conservar el registro a un procedimiento de capacitación y actualización en razón de la entrada en vigor del presente decreto.
+
+SEXTO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
