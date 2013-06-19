@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-comite-organizador-de-los-juegos-96208"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-11"
-last_updated: "2012-12-11"
+last_updated: "2013-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL COMITÉ ORGANIZADOR DE LOS JUEGOS DEPORTIVOS CENTROAMERICANOS, PARACENTROAMERICANOS Y DEL CARIBE VERACRUZ 2014
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 19 DE JUNIO DE 2013.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 11 de diciembre de 2012.
 
@@ -69,7 +69,9 @@ El Comité Organizador, para el despacho de los asuntos de su competencia, de ac
 
 I. Dirección General;
 
-II. Consultoría de Estrategias Deportivas y Vinculación Institucional;
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+II. Coordinación General de Estrategias Deportivas;
 
 III. Subdirección de Administración;
 
@@ -87,7 +89,9 @@ IX. Oficina de Enlace de Comunicación Social.
 
 De las anteriores Áreas o Unidades Administrativas se derivarán los Departamentos u Oficinas necesarios para el cumplimiento de los fines del Organismo, en términos de presupuesto disponible, previa autorización del Consejo Directivo.
 
-La Dirección General y sus áreas de apoyo, Subdirecciones, así como las Áreas o Unidades Administrativas que se establezcan, en lo que se refiere a su organización interna, facultades y obligaciones, estarán reguladas por los manuales de organización y procedimientos del Organismo, además de lo preceptuado por el presente Reglamento.
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+La Dirección General, la Coordinación General de Estrategias Deportivas y sus áreas de apoyo, Subdirecciones, así como las Áreas o Unidades Administrativas que se establezcan, en lo que se refiere a su organización interna, facultades y obligaciones, estarán reguladas por los manuales de organización y procedimientos del Organismo, además de lo preceptuado por el presente Reglamento.
 
 Los responsables de las Áreas Administrativas y Operativas así como el personal administrativo y técnico que apoye sus funciones, serán considerados trabajadores de confianza en los términos de la legislación laboral aplicable y deberán ejercer sus funciones de acuerdo con las políticas, programas, estrategias y prioridades que para el logro de sus objetivos y metas se especifiquen en los manuales de organización y procedimientos.
 
@@ -289,11 +293,51 @@ XIX. Certificar las copias de documentos que obren en los archivos del Organismo
 
 XX. Las demás necesarias para el cumplimiento de los objetivos del Comité Organizador, que le confiera el Consejo Directivo o le encomiende su Presidente.
 
-### CAPÍTULO CUARTO. De los Subdirectores y Titulares de las Áreas Administrativas
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+El Director General tendrá adscritas directamente a su oficina, las Unidades de Acceso a la Información Pública y de Género.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 21 Bis.
+
+La Unidad de Acceso a la Información Pública es responsable de proveer y garantizar, a cualquier persona, el acceso a la información pública que se encuentre en los archivos del Comité Organizador, salvo aquella que por ley se establezca como de acceso restringido, en las modalidades de reservada y confidencial, para lo cual, además de las atribuciones que se establecen (sic) el artículo 29 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave y los Lineamientos emitidos por el Instituto Veracruzano de Acceso a la Información, tendrá las siguientes atribuciones:
+
+I. Recopilar la información a que se refiere el artículo 8 de la Ley de la materia, con veracidad, oportunidad, confiabilidad y demás principios que se establezcan en la Ley y los Lineamientos correspondientes;
+
+II. Gestionar y supervisar la realización de trámites internos necesarios para entregar la información pública solicitada o corrección de datos personales;
+
+III. Atender y orientar al público respecto de su derecho de acceso a la información y corrección de datos personales;
+
+IV. Remitir al Instituto el índice por rubros temáticos de la información clasificada, en los meses de enero y julio de cada año, que comprenderá los acuerdos de clasificación emitidos por el Comité de Información de Acceso Restringido celebrados en el semestre inmediato anterior;
+
+V. Remitir al Instituto en los meses de enero y julio el listado de ficheros o archivos de los expedientes que contengan datos personales;
+
+VI. Remitir al Instituto en los meses de enero y julio de cada año, un informe semestral de los registros de las solicitudes de acceso a la información tramitados durante el semestre inmediato anterior;
+
+VII. Elaborar los manuales de organización y procedimientos de la Unidad de Acceso;
+
+VIII. Atender y dar seguimiento a los recursos de revisión, interpuestos por los particulares, en contra del Comité Organizador ante el Instituto; y
+
+IX. Las demás necesarias para garantizar y agilizar el flujo de información entre la dependencia y los particulares.
+
+La operación de la Unidad de Acceso a la Información y del Comité de Información de Acceso Restringido del Comité Organizador se regirán por los lineamientos que apruebe el Consejo Directivo.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 21 Ter.
+
+La Unidad de Género tendrá las funciones que dispone el Acuerdo por el que se instruye la creación de la Unidad de Género en cada una de las dependencias y entidades de la Administración Pública del Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del Estado, número extraordinario 73, de fecha 8 de marzo de 2010.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE JUNIO DE 2013)</small>
+
+### CAPÍTULO CUARTO. Del Coordinador General de Estrategias Deportivas, los Subdirectores y Titulares de las Áreas Administrativas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 22.
 
-Los Subdirectores y titulares de las áreas administrativas y de operación del Organismo estarán jerárquicamente adscritos a la Dirección General del Comité Organizador y tendrán las siguientes atribuciones comunes:
+El Coordinador General de Estrategias Deportivas los Subdirectores y titulares de las áreas administrativas y de operación del Organismo estarán jerárquicamente adscritos a la Dirección General del Comité Organizador y tendrán las siguientes atribuciones comunes:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar las funciones encomendadas al área a su cargo;
 
@@ -325,25 +369,27 @@ XIII. Las demás que señalen otras disposiciones aplicables.
 
 Los Subdirectores y Titulares de la Áreas Administrativas se auxiliarán por los responsables de las áreas o departamentos adscritos jerárquicamente a su cargo, y demás personal que sea necesario para el logro de los objetivos del Organismo, los que serán nombrados por el Director General.
 
-### CAPÍTULO QUINTO. De la Consultoría de Estrategias Deportivas y Vinculación Institucional
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE JUNIO DE 2013)</small>
+
+### CAPÍTULO QUINTO. De la Coordinación General de Estrategias Deportivas
+
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 24.
 
-La Consultoría de Estrategias Deportivas y Vinculación Institucional estará a cargo de un Coordinador General, quien tendrá las atribuciones siguientes:
+La Coordinación General de Estrategias Deportivas estará a cargo de un Coordinador General, quien tendrá las atribuciones siguientes:
 
 I. Coordinar las acciones de las áreas operativas y técnicas del Comité Organizador;
 
 II. Coadyuvar con el Director General en sus funciones relativas a la dirección y coordinación de actividades de las Subdirecciones del Comité Organizador;
 
-III. Supervisar los servicios de consultoría y apoyo técnico externos que las áreas operativas y técnicas del Comité Organizador requieran para el cumplimiento de sus fines;
+III. Vincular las acciones del Comité Organizador con las instituciones Federales y Estatales, así como con los organismos, comités y entidades deportivas nacionales e internacionales;
 
-IV. Vincular las acciones del Comité Organizador con las instituciones Federales y Estatales, así como con los organismos, comités y entidades deportivas nacionales e internacionales;
+IV. Planificar y coordinar los programas y eventos de naturaleza cultural y deportiva que el Comité Organizador desarrolle para impulsar y fortalecer los valores educativos, morales y éticos sobre los que se sustenta el movimiento olímpico;
 
-V. Planificar y coordinar los programas y eventos de naturaleza cultural y deportiva que el Comité Organizador desarrolle para impulsar y fortalecer los valores educativos, morales y éticos sobre los que se sustenta el movimiento olímpico;
+V. Suplir al Director General en sus ausencias temporales, que no excedan de un mes; y
 
-VI. Suplir al Director General en sus ausencias temporales, que no excedan de un mes; y
-
-VII. Las demás que deriven de lo dispuesto por el presente Reglamento o por acuerdo del Consejo Directivo.
+VI. Las demás que deriven de lo dispuesto por el presente Reglamento o por acuerdo del Consejo Directivo.
 
 ### CAPÍTULO SEXTO. De la Subdirección de Administración
 
@@ -586,3 +632,9 @@ Lic. Dionisio E. Pérez Jácome
 Secretario Técnico del Consejo Directivo
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 19 DE JUNIO DE 2013.
+
+> <small>N. DE E. EL DECRETO DE LA LEY CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2° DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ.</small>
