@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-la-comision-dictaminadora-de-licencias-14446"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-21"
-last_updated: "2012-12-26"
+last_updated: "2013-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MOR"
 
 REGLAMENTO PARA LA COMISIÓN DICTAMINADORA DE LICENCIAS RELATIVAS A LA VENTA Y/O CONSUMO DE BEBIDAS ALCOHÓLICAS DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA REGULAR LA VENTA, DISTRIBUCIÓN Y CONSUMO DE ALCOHOL EN EL MUNICIPIO DE CUERNAVACA, MORELOS, PUBLICADO EN EL P.O. DE 19 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 21 de octubre de 1998.
 
@@ -278,3 +280,23 @@ P.O. 26 DE DICIEMBRE DE 2012.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Publíquese en la Gaceta Municipal de Cuernavaca.
+
+P.O. 19 DE JUNIO DE 2013.
+
+PRIMERO.- El Presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abrogan el Reglamento para la Autorización de Licencias de Funcionamiento Relativas a la Venta de Bebidas Alcohólicas, expedido por el Ayuntamiento can fecha 17 de Agosto del año de 1998, publicado en el Periódico Oficial "Tierra y Libertad", número 3944, de fecha 21 de Octubre del mismo año, y el Reglamento para la Comisión Dictaminadora de Licencias Relativas a la Venta y/o Consumo de Bebidas Alcohólicas, aprobado por el Cabildo, con fecha 17 de Agosto de 1998, publicado en el Periódico Oficial "Tierra y Libertad", número 3944, de fecha 21 de Octubre del mismo año.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo dispuesto en el Presente Reglamento.
+
+CUARTO.- Las solicitudes de licencia de funcionamiento que se encuentren en trámite, se resolverán conforme a las disposiciones vigentes a la fecha de su presentación.
+
+QUINTO.- Los refrendos de las licencias de funcionamiento de los establecimientos con venta de bebidas alcohólicas en cualquiera de sus modalidades, se regirán conforme a las disposiciones de este Reglamento.
+
+SEXTO.- Los establecimientos que no cumplan con la normatividad exigida en este Reglamento, contarán con un plazo de seis meses, contados a partir de la fecha en que entre en vigor, para proceder a su regularización; el Ayuntamiento deberá otorgar las facilidades necesarias para ello.
+
+SÉPTIMO.- La Comisión Reguladora a la que se refiere este Reglamento deberá instalarse de inmediato, a partir de la fecha en que este ordenamiento entre en vigor.
+
+OCTAVO.- Los titulares de las licencias que no se encuentren actualmente en funcionamiento, contarán con un plazo de tres meses para ello, contados a partir de la fecha en que entre en vigor el presente Reglamento; en caso contrario, operará la caducidad.
+
+NOVENO.- Publíquese este Reglamento en la Gaceta Municipal y désele la difusión debida.
