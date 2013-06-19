@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-colegio-de-estudios-cientificos-y-28463
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-29"
-last_updated: "2013-06-07"
+last_updated: "2013-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE NAYARIT
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 7 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE JUNIO DE 2013.</small>
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de enero de 2003.
 
@@ -471,12 +471,12 @@ P.O. 6 DE AGOSTO DE 2003.
 
 La presente reforma entrará en vigor, al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 7 DE JUNIO DE 2013.
 
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nayarit.
 
-SEGUNDO. Se abroga el Reglamento Interno del CECyTEN, publicado en el Periódico Oficial del Estado con fecha 24 (sic) de enero de 2003 y sus reformas.
+> <small>(F. DE E., P.O. 19 DE JUNIO DE 2013)</small>
+
+SEGUNDO. Se abroga el Reglamento Interno del CECyTEN, publicado en el Periódico Oficial del Estado con fecha 29 de enero de 2003 y sus reformas.
 
 TERCERO. En tanto no se expidan los manuales administrativos que este Reglamento menciona, y se defina la estructura ocupacional correspondiente, el Director General resolverá los asuntos que procedan.
