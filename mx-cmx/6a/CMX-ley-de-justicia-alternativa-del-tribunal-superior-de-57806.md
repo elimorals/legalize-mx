@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-justicia-alternativa-del-tribunal-superior-de-57806"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-08"
-last_updated: "2011-02-08"
+last_updated: "2013-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57806&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-20"
 
 LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JUNIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 8 de enero de 2008.
 
@@ -56,11 +56,11 @@ LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO F
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 1.
 
-Las disposiciones contenidas en la presente Ley son de orden público, interés general y observancia obligatoria en el Distrito Federal, y tienen como propósito reglamentar el párrafo tercero del artículo 17 y el párrafo sexto del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y regular la mediación como método de gestión de conflictos para la solución de controversias entre particulares cuando éstas recaigan sobre derechos de los cuales pueden aquellos disponer libremente, sin afectar el orden público, basado en la autocomposición asistida.
+Las disposiciones contenidas en la presente Ley son de orden público, interés general y observancia obligatoria en el Distrito Federal, y tienen como propósito reglamentar el párrafo cuarto del artículo 17 y el párrafo sexto del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y regular la mediación como método de gestión de conflictos para la solución de controversias entre particulares cuando éstas recaigan sobre derechos de los cuales pueden aquellos disponer libremente, sin afectar el orden público, basado en la autocomposición asistida.
 
 ###### Artículo 2.
 
@@ -92,19 +92,41 @@ X. Mediación: procedimiento voluntario por el cual dos o más personas involucr
 
 XI. Mediados: personas físicas o morales que, después de haber establecido una relación de variada naturaleza jurídica, se someten a la mediación, en busca de una solución pacífica a su controversia.
 
-XII. Mediador: especialista capacitado y registrado por el Tribunal Superior de Justicia del Distrito Federal para conducir el procedimiento de mediación e intervenir como facilitador de la comunicación y la negociación entre particulares involucrados en una controversia.
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+XII. Mediador: especialista que habiendo cumplido los requisitos previstos por esta Ley se encuentra capacitado, certificado y registrado por el Tribunal Superior de Justicia del Distrito Federal para conducir el procedimiento de mediación e intervenir como facilitador de la comunicación y la negociación entre particulares involucrados en una controversia, y que podrá ser público o privado.
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+XII bis. Módulo de Mediación: Es la unidad territorialmente desconcentrada que podrá ser permanente, temporal o itinerante, instalada por cuenta del Tribunal o de una dependencia o entidad para ofrecer y atender los servicios de mediación;
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+XII ter. Módulo de mediación privada: Es el establecimiento o espacio físico instalado por cuenta de uno o varios mediadores privados en una institución pública o privada que, habiendo satisfecho los requisitos para ello, se encuentra registrado y autorizado ante el Centro para ofrecer y atender los servicios de mediación privada.
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+XII quater. Módulo de mediación virtual: Es el espacio virtual del sistema automatizado que permite la prestación del servicio de mediación por medios electrónicos, ópticos o de cualquier otra tecnología operada por cuenta del Tribunal por conducto del Centro cuya utilización y acceso se autoriza a uno o varios mediadores privados que han satisfecho los requisitos para ello.
 
 > <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2011)</small>
 
 XIII. Pre-mediación: Sesión informativa previa en la que las personas interesadas son orientadas sobre las ventajas, principios y características de la mediación y para valorar si la controversia que se plantea es susceptible de ser solucionada mediante este procedimiento o, en caso contrario, sugerir las instancias pertinentes.
 
-> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
 
-XIV. Registros: Padrón de mediadores públicos y privados certificados por el Centro de Justicia Alternativa.
+XIV. Registros:
+
+a) En el capítulo correspondiente es el padrón de mediadores públicos y privados certificados por el Tribunal Superior de Justicia del Distrito Federal, y
+
+b) En el capítulo correspondiente es la Inscripción de convenios emanados del procedimiento de mediación en los términos de esta Ley;
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+XIV bis. Reglamento: Reglamento Interno del Centro de Justicia Alternativa;
 
 > <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2011)</small>
 
-XIV bis. Reglas: Reglas del Mediador Privado.
+XIV ter. Reglas: Reglas del Mediador Privado;
 
 XV. Re - mediación: procedimiento posterior a la mediación, que se utiliza cuando el convenio alcanzado en ésta se ha incumplido parcial o totalmente, o cuando surgen nuevas circunstancias que hacen necesario someter el asunto nuevamente a mediación.
 
@@ -178,21 +200,27 @@ VIII. Economía: El procedimiento deberá implicar el mínimo de gastos, tiempo 
 
 DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL CENTRO DE JUSTICIA ALTERNATIVA.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE JUNIO DE 2013)</small>
+
 ###### Artículo 9.
 
-El Centro de Justicia Alternativa tendrá por objeto:
+El Centro de Justicia Alternativa es una dependencia del Tribunal que cuenta con autonomía técnica y de gestión, tendrá las siguientes atribuciones:
 
 I. El desarrollo y la administración eficaz y eficiente de la mediación como método alterno de solución de controversias;
 
 II. La prestación de los servicios de información al público, sobre los métodos alternativos de solución de controversias y en particular, sobre la Mediación; así como de orientación jurídica, psicológica y social a los mediados, durante la substanciación de aquella;
 
-III. La capacitación, certificación, selección, registro y monitoreo de los mediadores para el servicio público y privado; a efecto de garantizar altos índices de competencia profesional;
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+III. La capacitación, certificación, selección, registro y monitoreo de los mediadores para el servicio público y privado; a efecto de garantizar altos índices de competencia profesional; así como la capacitación de mediadores y desarrollo de proyectos de mediación en apoyo a instituciones públicas y privadas, para la solución de controversias en todos los ámbitos de interacción social, tales como mediación escolar y comunitaria, entre otras;
 
 IV. La difusión y divulgación permanente de los servicios que presta;
 
 V. El fortalecimiento de sus funciones y la ampliación de sus metas, a partir de su experiencia y del intercambio permanente con instituciones públicas, privadas, nacionales y extranjeras;
 
-VI. La supervisión constante de su servicio y su retroalimentación oportuna, para mantenerlo dentro de niveles superiores de calidad;
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+VI. La supervisión constante de los servicios a cargo de los Mediadores y del funcionamiento de los módulos de mediación, su retroalimentación oportuna, para mantenerlos dentro de niveles superiores de calidad, así como el registro de los convenios de mediación;
 
 VII. El apoyo al trabajo jurisdiccional del Tribunal;
 
@@ -270,15 +298,25 @@ Si dicha ausencia rebasa el tiempo señalado en el párrafo anterior, el Consejo
 
 En el supuesto de remoción del Director General, el Centro quedará a cargo del servidor público que corresponda, en los términos de su Reglamento Interno, en tanto el Consejo hace la nueva designación.
 
-> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 14.
 
-El Centro contará con los Directores de Mediación por especialidad que requiera. El Director General y los Directores de Mediación tendrán fe pública únicamente para la celebración de los convenios que suscriban los mediados a través del Centro.
+El Centro contará con los Directores y Subdirectores de Mediación por especialidad que requiera. El Director General, los Directores y Subdirectores de Mediación tendrán fe pública, únicamente en los siguientes casos:
+
+I.- Para la celebración de los convenios que suscriban los mediados a través del Centro;
+
+II.- Para certificar las copias de los documentos que por disposición de esta Ley deban agregarse a los convenios de mediación, y
+
+III.- Para expedir copias certificadas de los documentos de mediación que se encuentren registrados y resguardados en el archivo del Centro a petición de cualquier mediado, del Mediador Privado que hubiere intervenido, de autoridad competente o para fines registrales.
 
 ###### Artículo 15.
 
 El Centro estará provisto de sistemas automatizados para la recepción, resguardo, clasificación y el manejo del acervo informativo que genere.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+Así mismo contará con los sistemas automatizados que permitan la prestación del servicio de mediación por medios electrónicos, ópticos o de cualquier otra tecnología; así como la comparecencia por los mismos medios del Director General, del Director, Subdirector de Mediación o mediador privado ante quien se otorgue el convenio, ajustándose a los criterios que para tal efecto emita el Consejo.
 
 ###### Artículo 16.
 
@@ -300,11 +338,13 @@ Para ser mediador se deberá cumplir los siguientes requisitos:
 
 A) Para ser mediador público adscrito al Centro:
 
-I. Tener por lo menos treinta años de edad cumplidos al día de la convocatoria;
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2011)</small>
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos y tener cuando menos veinticinco años de edad al día de su designación;
 
-II. Contar con título y cédula profesionales de Licenciatura en Derecho, así como tres años de experiencia profesional mínima demostrable, en cualquiera de las materias competencia del Centro, a partir de la fecha de expedición del título;
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+II. Contar con título y cédula profesionales de Licenciatura en Derecho, así como dos años de experiencia profesional mínima demostrable, en cualquiera de las materias competencia del Centro;
 
 > <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2011)</small>
 
@@ -314,27 +354,55 @@ III. Concursar y aprobar el proceso de selección correspondiente, sometiéndose
 
 Los resultados de los exámenes son confidenciales y la decisión del Consejo es inapelable.
 
-> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
 
-El cargo de mediador es de confianza y será ratificado cada dos años por el Consejo, previa aprobación de un examen de competencias laborales.
+El cargo de mediador es de confianza y será ratificado cada tres años por el Consejo, previa aprobación de un examen de competencias laborales.
 
-> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
 
-El Director General, los Directores de Mediación y los Subdirectores Operativos que satisfagan los requisitos a que se refieren las fracciones I. y II; de este apartado, podrán ser registrados como mediadores sometiéndose a los exámenes y cursos de capacitación y entrenamiento correspondientes. Su condición de mediador público deberá ratificarse cada dos años y se perderá al dejar de formar parte del Centro.
+El Director General, los Directores y los Subdirectores de Mediación del Centro, así como los Secretarios Actuarios del Tribunal que satisfagan los requisitos a que se refieren las fracciones I y II de este apartado, podrán ser registrados como Mediadores sometiéndose a los exámenes y cursos de capacitación y entrenamiento correspondientes. Su condición de mediador público deberá ratificarse cada tres años y se perderá al dejar de formar parte del Centro o deje de ser Secretario Actuario del Tribunal, según corresponda.
 
 > <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2011)</small>
 
 B) Para ser mediador privado:
 
-I… (SIC)
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
 
-II. Contar con título y cédula profesionales de Licenciatura en Derecho, así como tres años de experiencia profesional mínima demostrable, en cualquiera de las materias competencia del Centro, a partir de la fecha de expedición del título;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos y tener cuando menos veinticinco años de edad al día de su certificación y registro;
 
-III. Aprobar los cursos de capacitación para la certificación y registro, así como presentar y aprobar el examen de competencias laborales.
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+II. Contar con título y cédula profesionales de Licenciatura en Derecho, así como dos años de experiencia profesional mínima demostrable, en cualquiera de las materias competencia del Centro;
+
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+III. Gozar de buena reputación profesional y reconocida honorabilidad;
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+IV. No haber sido condenado, mediante sentencia ejecutoriada, por delito doloso que merezca pena corporal;
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+V. Presentar y aprobar el examen de conocimientos de competencias laborales;
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+VI. Aprobar los cursos de capacitación para la certificación y registro, y
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+VII. Realizar las horas de práctica en el Centro que fijen las Reglas.
 
 Los resultados de los exámenes son confidenciales y la decisión del Comité es inapelable.
 
-La certificación y el registro que otorgue el Centro tendrán una vigencia de dos años. Para renovar la certificación y el registro deberá presentarse y aprobar el examen de competencias laborales.
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+La certificación y el registro que otorgue el Centro tendrán una vigencia de tres años. Para renovar la certificación y el registro deberá presentarse y aprobar el examen de competencias laborales, y cumplir con las disposiciones que sobre esta materia establezcan el Reglamento y las Reglas.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+Los mediadores públicos que dejen de ser servidores públicos del Tribunal, podrán ser certificados y registrados como mediadores privados.
 
 ###### Artículo 19.
 
@@ -358,21 +426,23 @@ IX. Cuando por la especial naturaleza o complejidad de la controversia planteada
 
 Los mediadores también deberán excusarse cuando durante la mediación llegara a actualizarse cualquiera de los supuestos antes mencionados.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
 
-Los mediadores que se encuentren en alguno de los supuestos previstos en el artículo anterior y no se excusen, quedarán sujetos a las sanciones administrativas previstas en la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal o a las sanciones administrativas que prevé esta Ley, según sean públicos adscritos al Centro o privados.
+Los Mediadores que se encuentren en alguno de los supuestos previstos en este artículo y no se excusen, quedarán sujetos a las sanciones administrativas previstas en la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal o a las sanciones administrativas que prevé esta Ley, según sean públicos adscritos al Centro o privados.
 
-> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
 
-### CAPÍTULO CUARTO.
+### CAPÍTULO CUARTO. DEL SERVICIO PÚBLICO DE MEDIACIÓN
 
-DE LOS DERECHOS Y OBLIGACIONES DE LOS MEDIADOS.
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 20.
 
-Los mediados que sean atendidos en el Centro, podrán recusar al mediador o al co-mediador designado y solicitar al Director General del Centro la sustitución de los mismos, mediante petición expresa por escrito y cuando se actualicen alguno de los supuestos previstos en el artículo anterior.
+El servicio público de mediación será prestado por el Centro por conducto de los Mediadores Públicos y de los Secretarios Actuarios a que se refiere el apartado A) del artículo 18 de la Ley, en los términos previstos por la misma y el Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE FEBRERO DE 2011)</small>
+Los mediados que sean atendidos en el Centro, podrán recusar al Mediador o al Co-Mediador designado y solicitar al Director General del Centro la sustitución de los mismos, mediante petición expresa por escrito y cuando se actualicen alguno de los supuestos previstos en el artículo anterior.
+
+(REFORMADO PRIMER PARRAFO, G.O. 8 DE FEBRERO DE 2011) (REUBICADO, G.O. 19 DE JUNIO DE 2013)
 
 ###### Artículo 21.
 
@@ -418,123 +488,69 @@ XIV. Rendir al Director General informe, cuando así se lo solicite; y
 
 XV. Someterse a los programas de capacitación continua y de actualización;
 
-> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 22.
 
-Serán obligaciones del mediador privado:
+Los mediadores públicos tendrán la obligación de seguir las normas y procedimientos establecidos en el Reglamento.
 
-I. Orientar a las personas interesadas sobre el valor, ventajas, principios y características de la mediación y para valorar si la controversia que se plantea es susceptible de ser solucionada mediante este procedimiento o, en caso contrario, sugerir las instancias pertinentes;
+Los Secretarios Actuarios, en funciones de mediador público, remitirán por semana al Centro comunicación por escrito de las mediaciones que conduzcan en el que asentarán por numeración progresiva indicación clara y precisa de los nombres de los mediados, el tipo de servicio de mediación, el número de sesiones de mediación y datos de identificación del juicio o procedimiento de que se trate.
 
-II. Efectuar en forma clara, ordenada, transparente, responsable y de buena fe las actuaciones que impone la mediación siguiendo sus principios rectores;
+Si la mediación concluyó con la celebración de un convenio ante su fe, deberá adjuntarlo para su registro por el Centro en los términos previstos por esta Ley.
 
-III. Tratar con respeto y diligencia a los mediados;
+Anexo al comunicado deberán adjuntarse las constancias que comprueben que se les orientó debidamente en pre-mediación a los mediados, el escrito de autonomía, el convenio de confidencialidad, y en su caso el ejemplar del convenio y demás documentación que considere pertinente, o deba constar agregado por disposición de esta Ley o el Reglamento.
 
-IV. Abstenerse de divulgar y utilizar la información que obtenga en el ejercicio de su función, cumpliendo con el deber que le impone el secreto profesional, por lo cual no podrá actuar, en forma alguna, en cualquier procedimiento legal relacionado con los asuntos en los que participe en términos del principio de confidencialidad que rige a la mediación;
+Los comunicados recibidos en el Centro por parte de los secretarios actuarios así como los documentos anexos deberán incorporarse al sistema de control con base en lo dispuesto por esta Ley y el Reglamento, y los convenios se registrarán en los mismos términos que esta Ley previene para el registro de convenios emanados del servicio de mediación privada.
 
-V. Abstenerse de ofrecer el servicio de mediación cuando haya participado como apoderado, litigante o asesor de alguna de las partes que soliciten sus servicios y excusarse en cualquier otro supuesto previsto en la legislación aplicable;
-
-VI. Conducir la mediación con flexibilidad, respondiendo a las necesidades de los mediados, de manera que, al propiciar una buena comunicación y comprensión entre ellos, se facilite la construcción de acuerdos;
-
-VII. Cuidar que los mediados participen de manera libre y voluntaria, exentos de coacciones o de influencia alguna;
-
-VIII. Conducir la mediación estimulando la creatividad de los mediados durante la construcción de acuerdos;
-
-IX. Asegurarse que los acuerdos a los que lleguen los mediados, estén apegados a la legalidad y sobre la base de la buena fe;
-
-X. Evitar influir en los mediados para acudir, permanecer o retirarse de la mediación;
-
-XI. Suscribir el escrito de autonomía;
-
-XII. Celebrar el convenio de confidencialidad con los mediados;
-
-XIII. Celebrar el convenio de pago de honorarios con los mediados;
-
-XIV. Solicitar el consentimiento de los mediados para la participación de co-mediadores, peritos u otros especialistas externos a la mediación, cuando resulte evidente que por las características del conflicto, se requiera su intervención;
-
-XV. Abstenerse de delegar a persona alguna la función de mediador certificado en un procedimiento ya iniciado, salvo en los casos de vencimiento, suspensión o revocación de la certificación;
-
-XVI. Acompañar a los mediados al acto de celebración del convenio resultado de la mediación, al Centro;
-
-XVII. Facilitar las acciones de supervisión y monitoreo del Centro, y
-
-XVIII. Las demás que se establezcan en la Reglas.
-
-> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 23.
 
-Sin perjuicio de las responsabilidades legales en que pudiera incurrir el mediador privado en el ejercicio de su función, comete infracción el mediador que incumpla las obligaciones previstas en los artículos 22 de la Ley y en las Reglas.
+El Centro, y los secretarios actuarios autorizados para ello, atentos a las posibles circunstancias especiales que se actualicen en el procedimiento de mediación, recurrirá a todas las medidas pertinentes a su alcance, para que éste concluya exitosamente, siempre que las mismas no violenten la ley, la moral ni las buenas costumbres.
 
-El mediador privado es responsable de las infracciones que cometa en el ejercicio de su función y queda por ello sujeto a las sanciones administrativas que determine esta Ley y, en su caso, las demás disposiciones aplicables.
-
-El Comité conocerá de las quejas de los mediados por presuntas infracciones del mediador privado así como los reportes de visita de supervisión y monitoreo que realice el Centro, cuando se haya detectado la posible comisión de una infracción.
-
-La queja y el reporte, según corresponda, se harán constar por escrito y se presentarán ante el Centro para su debida tramitación, las cuales, en todo caso, deberán contener mención de la presunta infracción cometida, nombre, firma y domicilio del quejoso o comisionado del Centro, y se harán bajo protesta de decir verdad.
-
-Con la queja y el reporte, según corresponda, se presentarán los elementos probatorios de la presunta infracción.
-
-El Centro abrirá el expediente de que se trate y lo turnará al Comité en un plazo de tres días hábiles, mismo deberá (sic) substanciar el expediente relativo, solicitando el día hábil siguiente por escrito un informe al mediador denunciado o reportado, quien deberá rendirlo por escrito en un plazo no mayor de cinco días hábiles, contados a partir de la notificación, en el que podrá ofrecer las pruebas que estime necesarias.
-
-Una vez recibido el informe y las pruebas el Comité, dentro del plazo de dos días hábiles, señalará día y hora para la audiencia de desahogo y valoración de las pruebas admitidas, a la que citará al quejoso, al comisionado del Centro, en su caso, y al mediador denunciado. La audiencia se realizará dentro del plazo de cinco días hábiles contados a partir de la recepción del informe y las pruebas.
-
-La audiencia habrá de celebrarse en la sede del Centro y tendrá verificativo concurran o no las partes citadas.
-
-Una vez rendido el informe y desahogadas las pruebas admitidas, el asunto se discutirá y votará en la misma sesión del Comité.
-
-Los acuerdos tomados serán asentados en el acta respectiva. Las resoluciones deberán ser informadas al Pleno del Consejo y notificadas al mediador de que se trate y al quejoso, en su caso, en un plazo de cinco días hábiles a partir de la fecha del acuerdo correspondiente.
-
-El mediador sancionado podrá recurrir la resolución del Comité ante el Consejo de conformidad a lo previsto en la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal. La resolución del Consejo será definitiva.
-
-En caso de ser necesario, se aplicará de manera supletoria el Código Federal de Procedimientos Penales por lo hace (sic) al procedimiento a que se refiere este artículo.
-
-> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 24.
 
-Las sanciones administrativas aplicables a los mediadores privados serán impuestas por el Comité, órgano que fundará y motivará su resolución, tomando en cuenta la gravedad de la infracción; la calidad de reincidente del infractor, entendiendo por reincidencia, que el infractor haya sido sancionado por violaciones a las disposiciones de esta Ley y de las Reglas dentro del periodo de vigencia de la certificación y registro, y el beneficio obtenido por el infractor como resultado de la infracción, en su caso.
+El incumplimiento de alguna de las obligaciones establecidas en los términos de esta Ley, dará lugar a que los Mediadores del Centro y los Secretarios Actuarios sean sometidos al procedimiento disciplinario que corresponda y, en su caso, sancionados por la Comisión de Disciplina Judicial del Consejo.
 
-Las sanciones podrán ser las siguientes:
-
-I. Amonestación escrita con apercibimiento;
-
-II. Suspensión temporal del registro que podrá ser de uno a tres meses, y
-
-III. Cancelación del registro.
-
-El mediador sancionado podrá recurrir la resolución del Comité ante el Consejo de conformidad a lo previsto en la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal. La resolución del Consejo será definitiva.
-
-Se agregará al expediente del mediador de que se trate, un ejemplar de la resolución del Comité y del Consejo, en su caso.
-
-> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 25.
 
-El incumplimiento de alguna de las obligaciones establecidas en los términos de esta Ley, dará lugar a que los mediadores del Centro sean sometidos al procedimiento disciplinario que corresponda y, en su caso, sancionados por la Comisión de Disciplina Judicial del Consejo.
+El Mediador Público que, en el ejercicio de su cargo, tenga un comportamiento sistemáticamente meritorio y destacado, se hará acreedor a los estímulos e incentivos establecidos en los programas que establezca el Centro.
 
-El mediador del Centro que, en el ejercicio de su cargo, tenga un comportamiento sistemáticamente meritorio y destacado, se hará acreedor a los estímulos e incentivos establecidos en los programas que implante el Centro.
+(REUBICADO, G.O. 19 DE JUNIO DE 2013)
 
 ###### Artículo 26.
 
 El mediador no podrá actuar como testigo en procedimiento legal alguno relacionado con los asuntos en los que participe, en términos del principio de confidencialidad que rige a la mediación y al deber del secreto profesional que les asiste.
 
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE JUNIO DE 2013)</small>
+
 ###### Artículo 27.
 
-Los mediados son personas físicas o morales que comparten un conflicto por intereses contrapuestos y optan por la mediación para su solución.
+Los mediados, tratándose de personas físicas, deberán actuar directamente en la mediación, pudiendo celebrarse el convenio en los casos permitidos por la Ley por conducto de apoderado general o especial designado para tal efecto.
 
-Los mediados, tratándose de personas físicas, deberán actuar directamente en la mediación; si se trata de personas morales, por conducto de sus representantes legales.
+Tratándose de personas morales, deberán actuar en la mediación por conducto de sus representantes.
 
-Las personas menores de edad o incapaces podrán acudir e intervenir en la mediación, asistidos por sus representantes legales.
+Las personas menores de edad o incapaces deberán acudir e intervenir en la mediación, asistidos por sus representantes legales.
+
+(REUBICADO, G.O. 19 DE JUNIO DE 2013)
 
 ###### Artículo 28.
 
 Los mediados tendrán derecho a:
 
-I. Solicitar la intervención del Centro, en los términos de esta Ley;
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+I. Solicitar la intervención del Centro, o mediador privado certificado de su elección en los términos de esta Ley;
 
 II. Intervenir personalmente en la mediación;
 
-III. Recibir asesoría legal externa al Centro, así como apoyarse, a su costa, en peritos y otros especialistas;
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+III. Recibir asesoría legal externa al Centro o servicio de mediación privada, así como apoyarse, a su costa, en peritos y otros especialistas;
 
 IV. Solicitar al Director General del Centro la recusación o sustitución de los mediadores o co - mediadores, cuando se actualice alguno de los supuesto de excusa o exista causa justificada para ello; y
 
@@ -542,7 +558,7 @@ V. Los demás que determine esta Ley y las disposiciones reglamentarias conducen
 
 ### CAPÍTULO QUINTO.
 
-DEL PROCEDIMIENTO DE MEDIACIÓN.
+DE LOS DERECHOS Y OBLIGACIONES DE LOS MEDIADOS.
 
 ###### Artículo 29.
 
@@ -555,6 +571,8 @@ II. Cumplir con las obligaciones de dar, hacer o no hacer establecidas en el con
 III. Respetar la confidencialidad; y
 
 IV. Las demás que se contemplen en la presente Ley y disposiciones reglamentarias conducentes.
+
+(REUBICADO, G.O. 19 DE JUNIO DE 2013)
 
 ###### Artículo 30.
 
@@ -600,9 +618,13 @@ a) Revisión y consenso de acuerdos; y
 
 b) Elaboración del convenio y, en su caso, firma del que adopte la forma escrita.
 
+(REUBICADO, G.O. 19 DE JUNIO DE 2013)
+
 ###### Artículo 31.
 
 El procedimiento de mediación se realizará a través de sesiones grupales e individuales.
+
+(REUBICADO, G.O. 19 DE JUNIO DE 2013)
 
 ###### Artículo 32.
 
@@ -626,11 +648,17 @@ VIII. Permanecer en la sesión hasta en tanto el mediador no la dé por terminad
 
 IX. Respetar la fecha y hora señaladas para todas las sesiones, así como confirmar y asistir puntualmente a las mismas; y
 
-X. En caso de fuerza mayor que le impida asistir, solicitar al Centro que reprograme la sesión.
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+
+X. En caso de fuerza mayor que le impida asistir, solicitar al Centro o al mediador privado certificado, según corresponda, la reprogramación de la sesión.
+
+(REUBICADO, G.O. 19 DE JUNIO DE 2013)
 
 ###### Artículo 33.
 
 La duración de la mediación será la que resulte suficiente, en atención a la complejidad de la controversia y de cómo se organizó.
+
+(REUBICADO, G.O. 19 DE JUNIO DE 2013)
 
 ###### Artículo 34.
 
@@ -647,6 +675,8 @@ IV. Por inasistencia injustificada de ambas partes a dos sesiones consecutivas, 
 V. Por decisión del mediador, cuando de la conducta de alguna o de ambas partes, se desprenda indudablemente que no hay voluntad para llegar a un acuerdo.
 
 El Centro, atento a las posibles circunstancias especiales que se actualicen en el transcurso de la mediación, recurrirá a todas las medidas pertinentes a su alcance, para que ésta concluya exitosamente, siempre que las mismas no violenten la ley, la moral ni las buenas costumbres.
+
+(REUBICADO, G.O. 19 DE JUNIO DE 2013)
 
 ###### Artículo 35.
 
@@ -668,21 +698,29 @@ VI. Una descripción precisa de las obligaciones de dar, hacer o no hacer que hu
 
 VII. Las firmas o huellas dactilares, en su caso, de los mediados; y
 
-> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
 
-VIII. Nombre y firma del Director General o del Director de Mediación correspondiente, para hacer constar que da fe de la celebración del convenio; así como el sello del Centro.
+VIII. Nombre y firma del Director General, del Director o Subdirector de Mediación actuante o, en su caso, del Secretario Actuario correspondiente, para hacer constar que da fe de la celebración del convenio; así como el sello del Centro, y
 
-> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2013)</small>
 
-El convenio se redactará al menos por triplicado, en tratándose de mediaciones realizadas en el Centro, y al menos en cuadruplicado cuando provengan de mediadores privados. Se entregará un ejemplar a cada una de las partes y se conservará uno en el archivo del Centro. Al mediador privado se le entregará un ejemplar, en su caso.
+IX. Número o clave de registro en el Centro.
+
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+El Convenio se redactará al menos por triplicado, en todo caso se deberá procurar que, con independencia del número de ejemplares, uno sea conservado por el Centro, y cada una de las partes reciba un ejemplar como constancia.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 36.
 
-La información que se genere en los procedimientos de mediación se considerará reservada, en términos de lo previsto por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+La información que se genere en los procedimientos de mediación se considerará confidencial, en términos de lo previsto por la legislación en materia de transparencia y acceso a la información pública y de protección de datos personales.
 
 ### CAPÍTULO SEXTO.
 
-DE LA RE - MEDIACIÓN.
+DEL PROCEDIMIENTO DE MEDIACIÓN.
+
+(REUBICADO, G.O. 19 DE JUNIO DE 2013)
 
 ###### Artículo 37.
 
@@ -690,27 +728,369 @@ Ante el incumplimiento parcial o total de un convenio celebrado por los mediados
 
 La re - mediación se llevará a cabo, en lo conducente, utilizando las mismas reglas que, para la mediación, establece esta Ley.
 
-### CAPÍTULO SÉPTIMO.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE JUNIO DE 2013)</small>
 
-DE LOS EFECTOS DEL CONVENIO ENTRE LAS PARTES.
+###### Artículo 37 Bis.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE FEBRERO DE 2011)</small>
+Cuando por las características del conflicto se requiera la intervención de un co -mediador, el mediador público o privado podrá solicitar al Director General del Centro o al Director o Subdirector de Mediación que designe a un especialista externo para que lo asista en ese conflicto determinado.
+
+Para ser especialista externo se deberán cumplir los requisitos establecidos en el Reglamento.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 37 Ter.
+
+En todos los casos en que se requiera la intervención de un co-mediador se deberá solicitar el consentimiento de los mediados.
+
+### CAPÍTULO SÉPTIMO. DE LA RE - MEDIACIÓN y CO-MEDIACIÓN
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 38.
 
-El convenio celebrado entre los mediados ante la fe pública del Director General o Director de Mediación, con las formalidades que señala esta ley, será valido y exigible en sus términos.
+El convenio celebrado entre los mediados ante la fe pública del Director General, Director o Subdirector de Mediación actuante con las formalidades que señala esta Ley, será válido y exigible en sus términos y dicho pacto tendrá fuerza de cosa juzgada.
 
 El convenio traerá aparejada ejecución para su exigibilidad en vía de apremio ante los juzgados. La negativa del órgano jurisdiccional para su ejecución será causa de responsabilidad administrativa, excepto cuando el convenio adolezca de alguno de los requisitos señalados en el artículo 35 de la presente ley.
 
 En el supuesto de incumplimiento del convenio en materia penal, quedarán a salvo los derechos del afectado para que los haga valer en la vía y forma correspondientes.
 
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+Surtirán el mismo efecto los convenios emanados de procedimientos conducidos por Secretarios Actuarios y mediadores privados certificados por el Tribunal que sean celebrados con las formalidades que señala esta Ley, y sean debidamente registrados ante el Centro en los términos previstos por esta Ley, el Reglamento y las Reglas, según corresponda.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+Si el convenio emanado de procedimiento conducido por Secretario Actuario o mediador privado certificado por el Tribunal no cumple con alguna de las formalidades previstas en esta Ley, y esta es subsanable, se suspenderá el trámite de registro ante el Centro y se devolverá al Secretario Actuario o Mediador Privado, según corresponda, para que subsane dichas formalidades, en caso contrario se negará el registro y se iniciará el procedimiento de sanción correspondiente.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+Por acuerdo de los mediados los convenios podrán ser anotados en el Registro Público de la Propiedad y del Comercio de conformidad con las leyes respectivas.
+
 ### CAPÍTULO OCTAVO.
 
-DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS DEL CENTRO.
+DE LOS EFECTOS DEL CONVENIO ENTRE LAS PARTES.
+
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, G.O. 19 DE JUNIO DE 2013)
 
 ###### Artículo 39.
 
-El Director General, así como todos los funcionarios y empleados públicos del Centro, son responsables de las faltas y/o delitos que cometan en el ejercicio de sus encargos y quedarán por ello sujetos a los procedimientos y sanciones que determinen la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, la Ley Federal de Responsabilidades de los Servidores Públicos y demás leyes aplicables.
+El Director General, los servidores públicos del Centro, así como los Secretarios Actuarios, en funciones de mediador, son responsables de las faltas y/o delitos que cometan en el ejercicio de sus encargos y quedarán por ello sujetos a los procedimientos y sanciones que determinen la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, la Ley Federal de Responsabilidades de los Servidores Públicos y demás leyes aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE JUNIO DE 2013)</small>
+
+### CAPÍTULO DÉCIMO. DEL SERVICIO PRIVADO DE MEDIACIÓN
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+### CAPÍTULO NOVENO.
+
+DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS DEL CENTRO.
+
+(REUBICADO Y REFORMADO, G.O. 19 DE JUNIO DE 2013)
+
+###### Artículo 40.
+
+El servicio privado de mediación será prestado por conducto de los mediadores privados certificados por el Tribunal en los términos previstos por esta Ley, las Reglas y el Reglamento.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 41.
+
+El mediador privado tendrá las siguientes obligaciones:
+
+I. Orientar a las personas interesadas sobre las ventajas, principios y características de la mediación, para valorar si la controversia que se plantea es susceptible de ser solucionada mediante este procedimiento o, en caso contrario, sugerir las instancias pertinentes;
+
+II. Efectuar en forma clara, ordenada, transparente, responsable y de buena fe las actuaciones que impone la mediación siguiendo sus principios rectores;
+
+III. Tratar con respeto y diligencia a los mediados;
+
+IV. Abstenerse de divulgar y utilizar la información que obtenga en el ejercicio de su función, cumpliendo con el deber que le impone el secreto profesional, por lo cual no podrá actuar, en forma alguna, en cualquier procedimiento legal relacionado con los asuntos en los que participe en términos del principio de confidencialidad que rige a la mediación;
+
+V. Abstenerse de ofrecer el servicio de mediación cuando haya participado como apoderado, litigante o asesor de alguna de las partes que soliciten sus servicios y excusarse en cualquier otro supuesto previsto en la legislación aplicable;
+
+VI. Conducir la mediación con flexibilidad, respondiendo a las necesidades de los mediados, de manera que, al propiciar una buena comunicación y comprensión entre ellos, se facilite la construcción de acuerdos;
+
+VII. Cuidar que los mediados participen de manera libre y voluntaria, exentos de coacciones o de influencia alguna;
+
+VIII. Conducir la mediación estimulando la creatividad de los mediados durante la construcción de acuerdos;
+
+IX. Asegurarse que los acuerdos a los que lleguen los mediados, estén apegados a la legalidad y sobre la base de la buena fe;
+
+X. Evitar influir en los mediados para acudir, permanecer o retirarse de la mediación;
+
+XI. Suscribir el escrito de autonomía;
+
+XII. Celebrar el convenio de confidencialidad con los mediados;
+
+XIII. Celebrar el convenio de pago de honorarios con los mediados;
+
+XIV. Solicitar el consentimiento de los mediados para la participación de co-mediadores, peritos u otros especialistas externos a la mediación, cuando resulte evidente que por las características del conflicto se requiere su intervención;
+
+XV. Abstenerse de delegar a persona alguna la función de Mediador certificado en un procedimiento ya iniciado, salvo en los casos de vencimiento, suspensión o revocación de la certificación;
+
+XVI. Tramitar y obtener el registro de los convenios ante el Centro;
+
+XVII. Facilitar las acciones de supervisión y monitoreo del Centro;
+
+XVIII. Participar, de manera gratuita, en la atención de campañas de orientación, sensibilización y mediación que emprenda el Centro;
+
+XIX. Desempeñar personalmente la función de mediador privado;
+
+XX. Para efectos de la renovación de su certificación y registro, participar en los programas de capacitación continua y de actualización que al efecto organicen el Centro y el Instituto, participando, al menos en dos cursos de capacitación por año, así como acudir a los eventos organizados por el Centro, como foros, congresos, coloquios o cualquier otro relacionado con la justicia alternativa;
+
+XXI. Cubrir las cuotas y derechos que resulten aplicables;
+
+XXII. Verificar y cumplir lo previsto por la legislación aplicable en materia de acceso a la información pública y de datos personales, respecto de la información que se plasme en los convenios en los que participe y resguardarlos, y
+
+XXIII. Las demás que se establezcan en la Ley, el Reglamento y las Reglas.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 42.
+
+Los mediadores privados certificados por el Tribunal tendrán fe pública únicamente en los siguientes casos:
+
+I. Para la celebración de los convenios que suscriban los mediados y que sean emanados del servicio de mediación privada conducida por el propio mediador privado;
+
+II. Para certificar las copias de los documentos que por disposición de esta Ley deban agregarse a los convenios de mediación con la finalidad de acreditar la identidad del documento y que el mismo es fiel reproducción de su original que se tuvo a la vista con el único efecto de ser integrado como anexo al propio convenio de mediación, y
+
+III. Para expedir copias certificadas de los convenios de mediación que se encuentren resguardados en su archivo a petición de cualquier mediado, del Centro, de autoridad competente o para efectos registrales.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 43.
+
+La persona que haya obtenido la certificación y el registro para ejercer como mediador privado previamente al inicio de sus funciones y dentro de los noventa días siguientes a la expedición de su constancia de certificación deberá:
+
+I. Otorgar la garantía que señale el Consejo;
+
+II. Proveerse a su costa de sello y libro de registro, con las características señaladas en las Reglas;
+
+III. Registrar su constancia de certificación, sello, rúbrica o media firma y firma ante el Centro, el Registro Público de la Propiedad, y la Consejería Jurídica y de Servicios Legales del Gobierno del Distrito Federal;
+
+IV. Dar aviso al Centro señalando el domicilio en que se ubique la oficina de su Centro de Mediación Privada, y
+
+V. Rendir protesta ante el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Distrito Federal, o ante quien éste último delegue dicha atribución.
+
+Satisfechos todos los requisitos que anteceden, se mandará publicar, sin costo para el mediador privado certificado, dentro de un plazo de diez días, en el Boletín Judicial y la Gaceta Oficial del Distrito Federal, el acuerdo de certificación y registro correspondiente, a partir de lo cual el mediador privado certificado podrá iniciar el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 44.
+
+Los mediadores privados llevarán un registro de las mediaciones que conduzcan en un libro que denominarán de registro, en el que asentarán por numeración progresiva una razón que contendrá invariablemente los nombres de los mediados, el tipo de servicio de mediación, el número de sesiones de mediación y la mención de que el convenio fue celebrado de manera privada, ante su fe y registrado por el Centro en los términos previstos por esta Ley.
+
+Anexo al registro deberán adjuntarse las constancias que comprueben que se les orientó debidamente en pre-mediación a los mediados, el escrito de autonomía, el convenio de confidencialidad, el convenio de honorarios, el ejemplar del convenio y demás documentación que el mediador privado considere pertinente, o deba constar agregado por disposición de esta Ley o las Reglas.
+
+El libro de registro y los documentos anexos deberán llevarse con las formalidades previstas en esta Ley y las Reglas.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 45.
+
+El registro a que se refiere el artículo que antecede deberá llevarse por cualquier medio que permita su conservación y consulta y conforme a lo dispuesto en las Reglas.
+
+En todo caso el mediador privado es responsable de la veracidad de los datos asentados y que los documentos permanezcan inalterados y no sufran deterioro.
+
+El mediador privado queda obligado a exhibir los registros y documentos durante los procedimientos de verificación y supervisión, así como para el refrendo de su certificación si es requerido para ello.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 46.
+
+La mediación privada certificada a que se refiere esta Ley generalmente estará a cargo de un solo mediador. Cuando por las características del conflicto se requiera la intervención de un co -mediador, o por solicitud expresa de los mediados, se podrá solicitar la intervención de otro mediador privado, mediador público o especialista externo para llevar a cabo la co-mediación.
+
+En caso de que sea necesario un especialista externo, de profesión distinta a la licenciatura en derecho, el mediador podrá solicitar los servicios de los peritos registrados en el Tribunal.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 47.
+
+El mediador privado podrá sustanciar el procedimiento de mediación del modo que estime adecuado, respetando en todo momento los principios básicos de la mediación previstos en Ley y considerando las circunstancias del caso, los deseos que expresen los mediados y la necesidad de solucionar la controversia.
+
+Son aplicables a los mediadores privados las disposiciones previstas por los artículos 21 fracción XIII y 26 de esta Ley.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 48.
+
+Durante el procedimiento de mediación, el mediador privado podrá reunirse o comunicarse con los mediados conjuntamente o con cada uno de ellos por separado, en el momento que así lo considere oportuno.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 49.
+
+El procedimiento de mediación privada se dará por terminado:
+
+I. Por convenio en el que se haya resuelto la totalidad o parte de los puntos litigiosos de la controversia;
+
+II. Por decisión conjunta o separada de los mediados;
+
+III. Por inasistencia injustificada de ambos mediados a dos sesiones consecutivas, o por inasistencia, sin causa justificada de alguno de los mediados a tres sesiones consecutivas;
+
+IV. Por el comportamiento irrespetuoso o agresivo de alguno de los mediados respecto del otro, del mediador o del especialista externo, cuya gravedad impida cualquier intento posterior de diálogo, o
+
+V. Por alguna causa de terminación prevista en otra normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 50.
+
+Los acuerdos a los que lleguen los mediados mediante el servicio de mediación privada podrán adoptar la forma de convenio por escrito, en cuyo caso deberá contener las formalidades y requisitos siguientes:
+
+I. El número de registro que le corresponda de los referidos en el artículo 44 de esta Ley;
+
+II. Lugar y fecha de celebración;
+
+III. Nombre completo, número de registro de certificación, sello y firma del mediador privado;
+
+IV. Nombre completo, en su caso, del especialista o especialistas externos que participaron;
+
+V. Nombre, edad, nacionalidad, estado civil, profesión u ocupación y domicilio de cada uno de los mediados;
+
+VI. En el caso de las personas morales, se acompañará como anexo en copia certificada el documento con el que el apoderado o representante legal del mediado de que se trate, acreditó su personalidad;
+
+VII. Los antecedentes del conflicto entre los mediados que los llevaron a utilizar la mediación;
+
+VIII. Un capítulo de declaraciones, si los mediados lo estiman conveniente;
+
+IX. Una descripción precisa de las obligaciones de dar, hacer o no hacer que hubieren acordado los mediados; así como el lugar, la forma y el tiempo en que estas deberán cumplirse;
+
+X. Las firmas o huellas dactilares, en su caso, de los mediados;
+
+XI. Una certificación del mediador privado al final del documento donde hará constar:
+
+a) Que se aseguró de la identidad de los mediados, y que a su juicio tienen capacidad para participar en el procedimiento;
+
+b) Que orientó a los mediados acerca del valor, las consecuencias y alcances legales de los acuerdos contenidos en el convenio, y
+
+c) Los hechos que el mediador estime necesarios y que guarden relación con el convenio que autorice, en especial aquellos que comprueben que cumplió a satisfacción de los mediados con las obligaciones que le imponen esta Ley, el Reglamento y las Reglas.
+
+El mediador privado deberá señalar expresamente en la certificación el medio por el cual se aseguró de la identidad de los mediados.
+
+Para que el mediador privado haga constar que los mediados tienen capacidad bastará con que no observe en ellos manifestaciones evidentes de incapacidad natural y que no tenga noticias de que estén sujetos a interdicción.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 51.
+
+Los convenios que sean celebrados ante mediador privado certificado en los términos de la fracción I del artículo 42 con todas las formalidades del artículo anterior, traerán aparejada ejecución para su exigibilidad en vía de apremio ante los juzgados, y dicho pacto tendrá fuerza de cosa juzgada en los términos previstos por el artículo 38 de esta Ley.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 52.
+
+En todo caso, además de los requisitos a que se refiere el artículo 50 de esta Ley, el mediador privado es responsable de señalar fehacientemente la forma y términos de la celebración del convenio en los términos dispuestos por esta Ley y las Reglas.
+
+Los convenios deberán ser redactados por el mediador privado al menos en cuadruplicado, uno será entregado al Centro para su registro, otro será conservado en el archivo del mediador privado, y se entregará un ejemplar a cada una de las partes.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 53.
+
+Los mediadores privados deberán excusarse para conocer de un asunto cuando se actualice alguno de los siguientes supuestos:
+
+I. Tener interés directo o indirecto en el resultado del conflicto;
+
+II. Ser cónyuge, concubina o concubinario, socio de convivencia, pariente dentro del cuarto grado por consanguinidad, por afinidad o civil de alguno de los mediados;
+
+III. Estar en la misma situación a que se refiere la fracción anterior respecto de los miembros de los órganos de administración, cuando los mediados o alguno de ellos sea una persona moral o, en su caso, de los socios ilimitadamente responsables;
+
+V (SIC). Mantener o haber mantenido, durante los seis meses inmediatos anteriores a su designación, relación laboral con alguno de los mediados, prestarle o haberle prestado, durante el mismo periodo, servicios profesionales independientes o haber fungido como albacea, síndico, perito o cualquier otra actividad que se encuentre expresamente prohibida en alguna legislación;
+
+VI. Ser socio, arrendador o inquilino de alguno de los mediados;
+
+VII. Cuando exista un vínculo de afecto o desafecto con alguno de los mediados o con sus parientes, dentro del cuarto grado por consanguinidad, por afinidad o civil;
+
+VIII. Haber sido o ser abogado, persona de confianza, apoderado o persona autorizada de cualquiera de los mediados en algún juicio anterior o presente, y
+
+IX. Cuando por la especial naturaleza o complejidad de la controversia planteada reconozcan que la limitación de sus capacidades puede afectar el procedimiento.
+
+Los mediadores privados también deberán excusarse cuando durante la mediación llegare a actualizarse cualquiera de los supuestos antes mencionados.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 54.
+
+Sin perjuicio de las responsabilidades legales en que pudiera incurrir el mediador privado en el ejercicio de su función, queda sometido al régimen disciplinario y procedimiento previsto en esta Ley.
+
+El mediador privado es responsable de las infracciones que cometa en el ejercicio de su función y queda por ello sujeto a las sanciones administrativas que determine esta Ley, las Reglas y, en su caso, las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 55.
+
+El Comité conocerá de las quejas de los mediados por presuntas infracciones del mediador privado así como los reportes de visita de supervisión y monitoreo que realice el Centro, cuando se haya detectado la posible comisión de una infracción.
+
+Con la queja y el reporte, según corresponda, se presentarán los elementos probatorios de la presunta infracción.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 56.
+
+El Centro abrirá el expediente de que se trate y lo turnará al Comité en un plazo de tres días hábiles, mismo que deberá substanciar el expediente relativo, solicitando el día hábil siguiente por escrito un informe al mediador denunciado o reportado, quien deberá rendirlo por escrito en un plazo no mayor de cinco días hábiles, contados a partir de la notificación, en el que podrá ofrecer las pruebas que estime necesarias.
+
+Una vez recibido el informe y las pruebas el Comité, dentro del plazo de dos días hábiles, señalará día y hora para la audiencia de desahogo y valoración de las pruebas admitidas, a la que citará al quejoso, al comisionado del Centro, en su caso, y al mediador denunciado. La audiencia se realizará dentro del plazo de cinco días hábiles contados a partir de la recepción del informe y las pruebas.
+
+La audiencia habrá de celebrarse en la sede del Centro y tendrá verificativo concurran o no las partes citadas.
+
+Una vez rendido el informe y desahogadas las pruebas admitidas, el asunto se discutirá y votará en la misma sesión del Comité.
+
+Los acuerdos tomados serán asentados en el acta respectiva. Las resoluciones deberán ser informadas al Pleno del Consejo y notificadas al mediador de que se trate y al quejoso, en su caso, en un plazo de cinco días hábiles a partir de la fecha del acuerdo correspondiente.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 57.
+
+El mediador sancionado podrá recurrir la resolución del Comité ante el Consejo de conformidad a lo previsto en la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal. La resolución del Consejo será definitiva.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 58.
+
+Comete infracción el mediador que incumpla las obligaciones previstas en esta Ley y en el incumplimiento de las obligaciones establecidas en Reglamento (sic) y las Reglas.
+
+Las sanciones administrativas aplicables a los mediadores privados serán impuestas por el Comité, órgano que fundará y motivará su resolución, tomando en cuenta la gravedad de la infracción; la calidad de reincidente del infractor, entendiendo por reincidencia, que el infractor haya sido sancionado por violaciones a las disposiciones de esta Ley, el Reglamento y de las Reglas dentro del periodo de vigencia de la certificación y registro, y el beneficio obtenido por el infractor como resultado de la infracción en su caso.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 59.
+
+Las sanciones podrán ser las siguientes:
+
+I. Amonestación escrita con apercibimiento y multa en los supuestos previstos por las Reglas;
+
+II. Suspensión temporal del registro que podrá ser de uno a tres meses en los supuestos previstos por las Reglas, y
+
+III. Cancelación del registro en los siguientes casos:
+
+a) Cuando al término de la vigencia de su certificación no cumpla con los requisitos previstos por esta Ley, las Reglas y demás disposiciones aplicables para obtener la renovación;
+
+b) Por reincidencia de alguno de los supuestos que ameriten suspensión;
+
+c) Por celebrar un convenio emanado del servicio de mediación sin entregar un ejemplar al Centro para su archivo y no haber tramitado su registro, en los términos del artículo 35 de esta Ley;
+
+d) Por celebrar un convenio emanado del servicio de mediación sin identificar a los mediados, o habiéndolos identificado hubiere permitido que el convenio se celebrara sin su presencia en los términos previstos por esta Ley, el Reglamento y las Reglas;
+
+e) Por permitir la suplantación de su persona en un procedimiento de mediación;
+
+f) Por presentar a registro ante el Centro un convenio con firmas falsas a sabiendas de esta situación;
+
+g) Por negarse o no permitir por cualquier causa el procedimiento de verificación y supervisión a que se refieren esta Ley, el Reglamento y las Reglas;
+
+h) Por realizar actuaciones de fe pública fuera de los casos previstos por el artículo 42 de esta Ley, e
+
+i) En los demás casos establecidos en las Reglas.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+
+###### Artículo 60.
+
+Cuando la cancelación del registro sea por alguna de las causas previstas en los incisos b), c), d), e), f), g) y h) del artículo 59 de esta Ley, no se podrá volver a certificar ni registrar ante el Tribunal Superior de Justicia del Distrito Federal como mediador.
+
+Las Reglas determinarán los casos en que proceda cada una de las sanciones mencionadas, así como los procedimientos de verificación y supervisión.
+
+Se agregará al expediente del mediador de que se trate, un ejemplar de la resolución del Comité y del Consejo, en su caso.
 
 ...
 
@@ -749,3 +1129,19 @@ Quinto. Los actuales orientadores con que cuenta el Centro de Justicia Alternati
 Sexto. El Tribunal Superior de Justicia del Distrito Federal contará con sesenta días naturales posteriores a la publicación del presente Decreto para modificar el Reglamento Interno Centro (sic) de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal así como las disposiciones administrativas que lo requieran.
 
 Séptimo. El Consejo de la Judicatura del Distrito Federal evaluará la conveniencia de iniciar la aplicación de cuotas de recuperación a que se refiere el artículo 40, a efecto de evitar que se desaliente la utilización de los servicios de mediación, para lo cual diseñara un programa de mediano plazo para la aplicación de cuotas de manera escalonada.
+
+G.O. 19 DE JUNIO DE 2013.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. El Jefe de Gobierno del Distrito Federal contará con un plazo de 180 días contados a partir de la entrada en vigor del presente decreto para expedir las modificaciones que correspondan al Reglamento de la Ley Registral de (sic) Distrito Federal.
+
+CUARTO. El Consejo de la Judicatura del Distrito Federal, deberá expedir las modificaciones que correspondan al Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, y las Reglas del Mediador Privado en un plazo de 180 días a partir de la entrada en vigor del presente decreto.
+
+QUINTO. Los mediadores privados con certificación y registro vigente ante el Tribunal Superior de Justicia del Distrito Federal, deberán someterse obligatoriamente para conservar el registro a un procedimiento de capacitación y actualización en razón de la entrada en vigor del presente decreto.
+
+SEXTO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
