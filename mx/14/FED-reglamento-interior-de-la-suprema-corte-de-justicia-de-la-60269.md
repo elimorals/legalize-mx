@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-suprema-corte-de-justicia-de-la-60269
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-01"
-last_updated: "2012-02-02"
+last_updated: "2013-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60269&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-03-11"
 
 REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JUNIO DE 2013.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de abril de 2008.
 
@@ -329,7 +329,7 @@ Bastará con que un Ministro lo solicite para que se aplacen uno o más asuntos,
 
 Los Ministros podrán someter a la consideración del Pleno la emisión de cualquier Acuerdo General o Reglamento relacionado con las materias de su competencia, así como la modificación o revocación de los ya emitidos o de los que se emitan.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 21.
 
@@ -1391,7 +1391,7 @@ Los Ministros de nueva designación, formarán parte de los Comités a los que p
 
 Lo anterior, con independencia de que, ante la ausencia temporal o permanente de algún Ministro, el Pleno nombre a quien interinamente deba sustituirlo.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL INSTRUMENTO NORMATIVO, PUBLICADO EN EL D.O.F. DE 1 DE OCTUBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PASANDO DE OCHO FRACCIONES A CINCO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTICULO ÚNICO DEL INSTRUMENTO NORMATIVO, PUBLICADO EN EL D.O.F. DE 1 DE OCTUBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PASANDO DE OCHO FRACCIONES A CINCO.]</small>
 
 ###### Artículo 109.
 
@@ -1595,9 +1595,9 @@ III. Para la aprobación de los acuerdos se requerirá mayoría;
 
 IV. Cuando un Comité o alguno de los Ministros considere que el Pleno debe ser el que tome una decisión, el Comité respectivo elaborará un dictamen que se distribuirá oportunamente entre los Ministros.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL INSTRUMENTO NORMATIVO, PUBLICADO EN EL D.O.F. DE 1 DE OCTUBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PASANDO DE OCHO FRACCIONES A CINCO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTICULO ÚNICO DEL INSTRUMENTO NORMATIVO, PUBLICADO EN EL D.O.F. DE 1 DE OCTUBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PASANDO DE OCHO FRACCIONES A CINCO.]</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 123.
 
@@ -2197,23 +2197,39 @@ VI. Dirección General de Relaciones Públicas Nacionales e Internacionales.
 
 Los titulares de estos órganos deberán contar con título profesional legalmente expedido, experiencia profesional vinculada con las funciones a desarrollar mínima de tres años -con excepción de los de la Secretaria Ejecutiva Jurídico Administrativa y de la Dirección General de la Coordinación de Compilación y Sistematización de Tesis, cuyos titulares requieren de cinco años-, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad.
 
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2013)</small>
+
 ###### Artículo 147.
 
-La Dirección General del Centro de Documentación y Análisis, Archivos y Compilación de Leyes tendrá las siguientes atribuciones:
+El Centro de Documentación y Análisis, Archivos y Compilación de Leyes tendrá las siguientes atribuciones:
 
-I. Administrar y conservar los archivos judiciales central y de los órganos jurisdiccionales federales foráneos, archivos de actas e históricos que integran el patrimonio documental que resguarda la Suprema Corte;
+I. Coordinar y administrar los archivos judiciales central y de los órganos jurisdiccionales federales foráneos, archivos de actas e históricos y administrativos que integran el patrimonio documental que resguarda la Suprema Corte.
 
-II. Seleccionar las obras especializadas en el área del Derecho y afines, para su adquisición y una vez efectuada ésta, incorporarlas a los acervos que integran el sistema bibliotecario de la Suprema Corte, en términos de las disposiciones generales aplicables;
+Para su ordenación y conservación física, esto es, su acomodo secuencial en el área de acervo, de acuerdo a su procedencia y orden original, y las medidas para evitar su deterioro y asegurar su permanencia, atenderá a las directrices y a los criterios que emita el Consejo Nacional de Archivos;
 
-III. Recopilar y sistematizar la legislación nacional e internacional, los procesos legislativos y dar seguimiento cronológico a las reformas y adiciones que presente el marco jurídico internacional, federal y local;
+II. Proponer y aplicar las normas, directrices, criterios, lineamientos y manuales para la administración, sistematización, valoración y destino final de los expedientes judiciales y administrativos, así como el diseño y desarrollo de sistemas automatizados para la gestión documental y archivística;
 
-IV. Brindar acceso a información confiable respecto de los acervos que resguarda, de conformidad con los procedimientos de acceso a la información que se desarrollan en la Suprema Corte, en términos de las demás disposiciones generales aplicables;
+III. Elaborar los instrumentos de control y consulta para la adecuada organización y localización expedita de los expedientes o documentos que le sean transferidos por los diversos órganos judiciales, administrativos, de apoyo jurídico o de control y fiscalización de la Suprema Corte, por los Plenos de Circuito, así como por los Tribunales de Circuito y los Juzgados de Distrito;
 
-V. Coordinarse con la Dirección de la Casa de la Cultura Jurídica y Estudios Históricos que corresponda, cuando sus atribuciones deban ejercerse respecto de material ubicado en ésta;
+IV. Brindar capacitación y asesoría en materia archivística;
 
-VI. Proponer al Comité de Biblioteca, Archivo e Informática o a la Secretaría Ejecutiva Jurídico Administrativa las disposiciones generales que rijan las actividades señaladas en las fracciones I y II de este artículo, y
+V. Representar, por conducto de su titular, a los archivos relativos a los órganos del Poder Judicial de la Federación, tanto ante el Consejo Nacional de Archivos, como ante el Sistema Nacional de Archivos, de conformidad con lo señalado en la Ley Federal de Archivos;
 
-VII. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Titular de la Secretaría Ejecutiva Jurídico Administrativa.
+VI. Formar parte, por conducto de su titular, del Comité de Acceso a la Información y de Protección de Datos Personales como asesor en materia de archivos, con voz y voto;
+
+VII. Realizar trabajos de análisis e investigación jurídica e histórico documental sobre temas relacionados con la Suprema Corte y con el Poder Judicial, principalmente con base en los archivos judiciales y demás acervos que resguarda, y generar obras para su posterior publicación en formato impreso o electrónico, así como brindar consulta y asesoría en la materia;
+
+VIII. Seleccionar las obras especializadas en el área del Derecho y afines para su adquisición, y una vez efectuada ésta, incorporarlas a los acervos que integran el sistema bibliotecario de la Suprema Corte, en términos de las disposiciones generales aplicables;
+
+IX. Recopilar y sistematizar la legislación nacional e internacional, los procesos legislativos y dar seguimiento cronológico a las reformas y adiciones que presente el marco jurídico federal, local e internacional, de trascendencia al orden jurídico nacional;
+
+X. Brindar acceso a información confiable respecto de los acervos que resguarda, de conformidad con los procedimientos de acceso a la información que se desarrollan en la Suprema Corte, en términos de las disposiciones aplicables en la materia;
+
+XI. Coordinarse con la Dirección de la Casa de la Cultura Jurídica que corresponda, cuando sus atribuciones deban ejercerse respecto del material ubicado en ésta;
+
+XII. Proponer al Comité de Archivo y Biblioteca, al Ministro Presidente o a la Secretaría General de Acuerdos, las disposiciones generales que rijan las actividades señaladas en este artículo; y
+
+XIII. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Ministro Presidente o por el Secretario General de Acuerdos.
 
 ###### Artículo 148.
 
@@ -2679,7 +2695,7 @@ TERCERO. Se abroga el Reglamento Interior de la Suprema Corte de Justicia de la 
 
 EL CIUDADANO LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que el Tribunal Pleno, en su sesión privada que celebró ayer, por unanimidad de once votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Mariano Azuela Güitrón, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Juan N. Silva Meza y Presidente Guillermo I. Ortiz Mayagoitia, aprobó las reformas al Reglamento Interior de la Suprema Corte de Justicia de la Nación publicado en el Diario Oficial de la Federación el dieciocho de septiembre de dos mil seis, contenidas en la Iniciativa correspondiente que obra en anexo del acta relativa, así como este documento al que se han incorporado dichas reformas.- México, Distrito Federal, a once de marzo de dos mil ocho.- Rúbrica.
 
-> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 D.O.F. 1 DE OCTUBRE DE 2009.
 
@@ -2698,3 +2714,17 @@ PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente d
 SEGUNDO. Se abroga el Acuerdo General Plenario 14/2008, de ocho de diciembre de dos mil ocho; y se deroga el Punto Décimo del diverso 12/2009, de veintitrés de noviembre de dos mil nueve, modificado por última vez mediante Instrumento Normativo de dieciséis de enero de dos mil doce.
 
 TERCERO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Reglamento Interior de la Suprema Corte de Justicia de la Nación en dichos medios electrónicos.
+
+D.O.F. 20 DE JUNIO DE 2013.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Corresponde a la Suprema Corte de Justicia de la Nación determinar las reglas, lineamientos, directrices y criterios para conducir los procedimientos de administración, sistematización, valoración y destino final de los expedientes que genere, atenta al principio de reserva de ley; en tanto que para su ordenación y conservación físicas, esto es, su acomodo secuencial en el área de acervo, de acuerdo a su procedencia y orden original, y las medidas para evitar su deterioro y asegurar su permanencia, atenderá a las directrices y los criterios que emita el Consejo Nacional de Archivos.
+
+TERCERO. Los Acuerdos Generales Conjuntos 1/2009, 2/2009 y 3/2009 de los Plenos de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, relativos a la transferencia, digitalización, depuración y destrucción de los expedientes judiciales generados en los Juzgados de Distrito, en los Tribunales Colegiados de Circuito y en los Tribunales Unitarios de Circuito, respectivamente, y demás disposiciones generales y específicas, al corresponder a lo dispuesto en Ley Federal de Archivos, podrán seguir aplicándose por los órganos jurisdiccionales y por el propio Centro de Documentación y Análisis, Archivos y Compilación de Leyes, así como los lineamientos y manuales que de ellos deriven.
+
+CUARTO. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes dará continuidad a los trabajos del Sistema Nacional de Archivos Judiciales, respetando en todo momento los ámbitos de competencia de cada uno de sus miembros y la normativa federal o local que los rige, para lo cual la titular de dicho Centro, solicitará la colaboración de la Asociación Mexicana de Impartidores de Justicia (AMIJ).
+
+QUINTO. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes proporcionará al Archivo General de la Nación, los registros catalográficos de los expedientes históricos bajo resguardo de este Alto Tribunal, a fin de contar con un medio de difusión adicional a los mecanismos instrumentados, e integrar así un solo registro nacional del patrimonio documental histórico, a efecto de contribuir a la integración del Registro Nacional de Archivos Históricos.
+
+SEXTO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Reglamento Interior de la Suprema Corte de Justicia de la Nación en dichos medios electrónicos.
