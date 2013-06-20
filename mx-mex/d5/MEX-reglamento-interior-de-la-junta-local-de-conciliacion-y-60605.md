@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-junta-local-de-conciliacion-y-60605"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-05"
-last_updated: "2010-07-29"
+last_updated: "2013-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA JUNTA LOCAL O DE CONCILIACIÓN Y ARBITRAJE DEL VALLE DE TOLUCA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL VALLE DE TOLUCA, PUBLICADO EN LA G.G. DE 20 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 29 DE JULIO DE 2010 NO APLICA AL ARTICULADO DE LAS REFORMAS PUBLICADAS EN LA G.G. DE 16 DE JULIO DE 2010.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 5 de marzo de 2008.
 
@@ -1261,3 +1261,13 @@ LIC. MARÍA ISABEL GÓMEZ JARAMILLO
 G.G. 16 DE JULIO DE 2010.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2. DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO.
+
+G.G. 20 DE JUNIO DE 2013.
+
+Primero. Publíquese el presente Reglamento en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+Segundo. Este Reglamento entrará en vigor al día hábil siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+Tercero. El presente Reglamento fue aprobado por el Pleno de la Junta Local de Conciliación y Arbitraje del Valle de Toluca, integrado por el Presidente de la Junta y los representantes de los trabajadores y de los patrones, en sesión celebrada en la Ciudad de Toluca, Estado de México, el 31 de mayo del 2013.
+
+Cuarto. Se abroga el Reglamento Interior de la Junta Local de Conciliación y Arbitraje del Valle de Toluca, aprobado el 29 de febrero del 2008 y publicado el 5 de marzo del 2008, con sus reformas y adiciones publicadas en el periódico oficial "Gaceta del Gobierno" del Estado de México de 16 de julio de 2010.
