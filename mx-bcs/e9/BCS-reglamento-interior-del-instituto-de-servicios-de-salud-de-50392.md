@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-del-instituto-de-servicios-de-salud-de-5039
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-10"
-last_updated: "2006-04-10"
+last_updated: "2013-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE SERVICIOS DE SALUD DE BAJA CALIFORNIA SUR
 
-REGLAMENTO INTERIOR DEL "INSTITUTO DE SERVICIOS DE SALUD DE BAJA CALIFORNIA SUR"
+REGLAMENTO INTERIOR DEL INSTITUTO DE SERVICIOS DE SALUD DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE SERVICIOS DE SALUD DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 20 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el lunes 10 de abril de 2006.
 
@@ -1086,3 +1088,13 @@ Contraloría General del Estado
 Dr. Francisco Cardoza Macías
 
 Director General del Instituto de Servicios de Salud de Baja California Sur
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 20 DE JUNIO DE 2013.
+
+Primero: El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Segundo: Una vez publicado el presente Reglamento, se abrogará el Reglamento Interior del Instituto de Servicios de Salud de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado No. 17 -Bis. de fecha diez de abril de 2006.
+
+Tercero: El Laboratorio Estatal de Salud Pública, queda sectorizado al Instituto de Servicios de Salud; por lo que se deberán llevar a cabo las modificaciones necesarias al Reglamento Interior de la Secretaría de Salud.
