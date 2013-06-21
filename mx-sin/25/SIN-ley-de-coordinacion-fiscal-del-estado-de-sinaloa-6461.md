@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-coordinacion-fiscal-del-estado-de-sinaloa-6461"
 country: "mx"
 rank: "ley"
 publication_date: "1990-01-15"
-last_updated: "2011-12-26"
+last_updated: "2013-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 15 de enero de 1990.
 
@@ -101,7 +101,7 @@ ARTICULO 3 BIS C.- En los términos del Artículo 6o, último párrafo de la Ley
 
 También deberá publicar trimestralmente el importe de las participaciones entregadas y, en su caso, el ajuste realizado al término de cada ejercicio fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 4.
 
@@ -195,17 +195,21 @@ La liquidación anual definitiva de participaciones federales a los municipios, 
 
 En caso de que transcurrido el término señalado en el párrafo anterior, el Congreso del Estado no haya aprobado la cuenta pública municipal se utilizará como base la certificación que emita la Contaduría Mayor de Hacienda del órgano legislativo, de los ingresos propios que haya tenido en el ejercicio inmediato anterior del Municipio de que se trate.
 
-###### ARTICULO 6.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
 
-Las participaciones que correspondan a los municipios son inembargables, imprescriptibles e impostergables.
+###### ARTICULO 6°.
 
-En los términos del Artículo 9o. de la Ley de Coordinación Fiscal Federal, la compensación entre el derecho del Municipio a recibir participaciones y las obligaciones que tenga con la Federación o con el Estado, por créditos de cualquier naturaleza, operará de la siguiente forma:
+Las participaciones que correspondan a los municipios son inembargables, no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas en los términos de lo dispuesto en el artículo 9o de la Ley de Coordinación Fiscal de la Federación y de la legislación estatal aplicable.
 
-I.- Cuando se trate de cualquier clase de créditos o deudas a cargo del Municipio, derivados de créditos de cualquier naturaleza a favor de la Federación o del Estado.
+En los términos de dicha ley, la compensación entre el derecho del Municipio a recibir participaciones y las obligaciones que tenga con la Federación o con el Estado, por créditos de cualquiera naturaleza, operará de la siguiente forma:
 
-II.- Cuando se trate de culaquier (sic) clase de créditos o deudas a cargo de la Federación, del Estado o de organismos descentralizados, a favor del Municipio.
+I. Cuando se trate de cualquier clase de créditos o deudas a cargo del Municipio, derivados de créditos de cualquier naturaleza a favor de la Federación o del Estado.
 
-El Estado podrá realizar pagos por cuenta del Ayuntamiento con cargo a sus participaciones municipales, cuando así lo solicite el Ayuntamiento o cuando las participaciones hayan sido afectadas en garantía de adeudos y éstos no se hayan satisfecho.
+II. Cuando se trate de cualquier clase de créditos o deudas a cargo de la Federación, del Estado o de organismos descentralizados, a favor del Municipio.
+
+El Poder Ejecutivo podrá realizar pagos por cuenta del Ayuntamiento con cargo a sus participaciones municipales, cuando así lo solicite el Ayuntamiento o cuando las participaciones hayan sido afectadas en garantía y ésta no se haya satisfecho.
+
+La afectación de participaciones federales como garantía o fuente de pago de obligaciones contraídas por los Municipios, deberá ser previamente autorizada por el Ayuntamiento y por el Congreso del Estado en términos de lo previsto en la Constitución Política del Estado, Ley de Deuda Pública y la de Contratos de Colaboración Público Privada del Estado.
 
 ### CAPITULO III. DE LOS ORGANISMOS DE COLABORACION
 
@@ -432,3 +436,9 @@ Artículo Tercero. En caso de que se establezca el Impuesto sobre Tenencia o Uso
 Artículo Cuarto. De igual forma se deberá destinar al Fondo Estatal de Participaciones, el 20% de lo que se recaude por concepto de adeudos del Impuesto sobre Tenencia o Uso de Vehículos, de ejercicios anteriores.
 
 Artículo Quinto. Por única ocasión el Fondo Municipal de Participaciones establecido en el artículo 3o de la presente Ley, se integrará durante el año 2012 por el 21%, a excepción de la fracción II.
+
+P.O. 21 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
