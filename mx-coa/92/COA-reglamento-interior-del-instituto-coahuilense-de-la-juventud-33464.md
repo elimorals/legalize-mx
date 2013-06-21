@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-del-instituto-coahuilense-de-la-juventud-33
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-22"
-last_updated: "2003-07-22"
+last_updated: "2013-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "COA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO COAHUILENSE DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN LA PRIMERA SECCIÓN DEL P.O. DE 21 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el martes 22 de julio de 2003.
 
 LOS MIEMBROS DEL CONSEJO DIRECTIVO DEL INSTITUTO COAHUILENSE DE LA JUVENTUD, EN EJERCICIO DE LA FACULTAD QUE NOS CONFIERE EL ARTÍCULO 10, FRACCIÓN XI, DE LA LEY DEL PROPIO INSTITUTO, HEMOS TENIDO A BIEN EMITIR EL PRESENTE REGLAMENTO INTERIOR, BAJO LAS CONSIDERACIONES SIGUIENTES:.
 
-Con la finalidad de definir las disposiciones reglamentarias a las que deberá sujetarse el Instituto, así como el funcionamiento interior del mismo, en sesión ordinaria, y en cumplimiento de lo señalado en el artículo 10 fracción Xl, del Decreto de creación, hemos tenido a bien emitir el siguiente:
+Con la finalidad de definir las disposiciones reglamentarias a las que deberá sujetarse el Instituto, así como el funcionamiento interior del mismo, en sesión ordinaria, y en cumplimiento de lo señalado en el artículo 10 fracción XI, del Decreto de creación, hemos tenido a bien emitir el siguiente:
 
 REGLAMENTO INTERIOR DEL INSTITUTO COAHUILENSE DE LA JUVENTUD
 
@@ -654,3 +656,23 @@ Primero. El presente reglamento entrará en vigor al día siguiente de su public
 Segundo. El Consejo Consultivo se regirá con las reglas generales de funcionamiento bajo las cuales operará, en tanto el Consejo Directivo emita el reglamento correspondiente, de conformidad a lo establecido en el Artículo Octavo transito de la Ley.
 
 Dado en la ciudad de Saltillo, Coahuila a los veintisiete días del mes de junio del año dos mil tres, por los miembros del Consejo Directivo del Instituto Coahuilense de la Juventud.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Reglamento Interno del Instituto Coahuilense de la Juventud publicado en el Periódico Oficial del Estado el 22 de julio del 2003.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría en un término de 90 días a partir de la entrada en vigor del presente reglamento, deberá formular y emitir los manuales de organización correspondientes en los que se precisarán la estructura orgánica y funciones operativas de las unidades administrativas de dicha dependencia.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente reglamento.
