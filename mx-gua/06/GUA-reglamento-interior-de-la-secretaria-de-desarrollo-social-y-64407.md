@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-desarrollo-social-y-644
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-24"
-last_updated: "2008-10-24"
+last_updated: "2013-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y HUMANO DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y HUMANO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL Y HUMANO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL Y HUMANO, PUBLICADO EN EL P.O. DE 21 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de octubre del 2008.
 
@@ -1294,3 +1296,23 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE DESARROLLO SOCIAL Y HUMANO
 
 JUAN CARLOS LÓPEZ RODRIGUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE JUNIO DE 2013.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 85, publicado en el Periódico Oficial del Gobierno del Estado número 171, Tercera Parte, de fecha 24 de octubre del 2008, el cual contiene el Reglamento Interior de la Secretaría de Desarrollo Social y Humano.
+
+Regulación de los asuntos en trámite
+
+Artículo Tercero. Los asuntos en trámite que a la entrada en vigor del presente Decreto estuvieran siendo conocidos por las unidades administrativas cuya denominación cambie, así como aquellas a las que se les modifiquen sus facultades, serón continuados hasta su resolución por las unidades que determine el Titular, por lo que el cambio de denominación no afectará en ningún modo la validez de las actuaciones respectivas.
+
+Asuntos atendidos por áreas que se desincorporan
+
+Artículo Cuarto. Los asuntos en trámite que a la entrada en vigor del presente Decreto, que estuvieran siendo conocidos por las unidades administrativas que se desincorporan de la estructura de la Secretaría de Desarrollo Social y Humano, serán atendidas por aquellas dependencias o entidades de la Administración Pública Estatal que por sus facultades les corresponda.
