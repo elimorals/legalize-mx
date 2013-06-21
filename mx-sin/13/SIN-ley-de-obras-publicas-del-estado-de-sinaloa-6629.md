@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-obras-publicas-del-estado-de-sinaloa-6629"
 country: "mx"
 rank: "ley"
 publication_date: "1985-04-01"
-last_updated: "2004-04-19"
+last_updated: "2013-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE OBRAS PUBLICAS DEL ESTADO DE SINALOA
 
-LEY DE OBRAS PUBLICAS DEL ESTADO DE SINALOA
+LEY DE OBRAS PÚBLICAS DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 1º de abril de 1985.
 
@@ -58,6 +58,14 @@ IV.- Las empresas de participación estatal o municipal en que el Gobierno del E
 V.- Los fideicomisos en los que el fideicomitente sea el Gobierno del Estado o los Municipios o cualesquiera de los organismos o empresas a que se refieren las fracciones III y IV de este Artículo; y,
 
 VI.- Las demás dependencias, organismos, entidades e instituciones similares.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+No estarán sujetas a las disposiciones de esta Ley, las obras que deban ejecutarse para crear la infraestructura necesaria en la prestación de servicios públicos que los particulares tengan concesionados, en los términos de la legislación aplicable, cuando éstos las lleven a cabo.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+Tampoco será aplicable esta ley a obras o servicios relacionados con las mismas, cuya contratación se encuentre contemplada dentro del objeto de contratos de colaboración público privada autorizados por el Congreso del Estado. En esos casos será aplicable la Ley de Contratos de Colaboración Público Privada para el Estado de Sinaloa.
 
 ###### Artículo 2o.
 
@@ -896,3 +904,9 @@ P.O. 19 DE ABRIL DE 2004.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- Las disposiciones de este Decreto no se aplicarán a las convocatorias formuladas y a los contratos de obra pública celebrados a la entrada en vigor del presente ordenamiento.
+
+P.O. 21 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
