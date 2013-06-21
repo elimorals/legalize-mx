@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-estatal-de-la-cultura-del-217
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-25"
-last_updated: "2009-05-08"
+last_updated: "2013-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE LA CULTURA DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE LA CULTURA
+REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE LA CULTURA DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE LA CULTURA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 21 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el lunes 25 de junio de 2001.
 
@@ -777,7 +779,7 @@ VI.- Proponer medios alternativos para la obtención de ingresos por motivo de l
 
 VII.- Las demás que le confiera su superior jerárquico o el Presidente del Consejo Directivo.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2009)</small>
 
 #### Sección Tercera. De la Coordinación de Filmaciones
 
@@ -793,7 +795,7 @@ III.- Llevar y controlar el archivo de filmoteca y videoteca que al efecto sea e
 
 IV.- Las demás que le confiera su superior jerárquico o el Presidente del Consejo Directivo.
 
-(REUBICADA [N. DE E. ANTES SECCION TERCERA], P.O. 8 DE MAYO DE 2009)
+(REUBICADA [N. DE E. ANTES SECCIÓN TERCERA], P.O. 8 DE MAYO DE 2009)
 
 #### Sección Cuarta. De la Banda de Música del Estado
 
@@ -951,7 +953,7 @@ IV.- Registrar a las instituciones públicas o privadas que administren o funjan
 
 V.- Las demás que le asigne su superior jerárquico o el Presidente del Consejo Directivo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ENERO DE 2007)</small>
 
 ### Capítulo XI. De la Dirección de Vinculación en Asuntos Arqueológicos
 
@@ -1153,7 +1155,7 @@ EL SECRETARIO DE EDUCACIÓN
 
 VÍCTOR MANUEL RAMÍREZ VALENZUELA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 7 DE NOVIEMBRE DE 2003.
 
@@ -1172,3 +1174,13 @@ La Secretaría de Desarrollo Económico Sustentable transferirá al Instituto Es
 P.O. 8 DE MAYO DE 2009.
 
 Artículo Único. El presente decreto iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 21 DE JUNIO DE 2013.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Instituto Estatal de la Cultura, contenido en el Decreto Gubernativo número 19, publicado en el Periódico Oficial del Gobierno del Estado número 50-B Cuarta Parte, el 25 de junio de 2005.
