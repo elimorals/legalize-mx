@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-14-2013-del-pleno-del-consejo-de-la-94641"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-06-14"
-last_updated: "2013-06-14"
+last_updated: "2013-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-06-06"
 
 ACUERDO GENERAL 14/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 14 de junio de 2013.
 
@@ -446,5 +446,7 @@ ANEXO DEL ACUERDO GENERAL 14/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERA
 CONFORMACIÓN DE LOS PLENOS DE CIRCUITO DEL PODER JUDICIAL DE LA FEDERACIÓN
 
 > <small>N. DE E. VÉASE ANEXO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 14 DE JUNIO DE 2013, PÁGINAS DE LA 111 A LA 112.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA, D.O.F. 21 DE JUNIO DE 2013, PÁGINAS DE LA 84 A LA 87.</small>
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNÁNDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 14/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veinticuatro de abril de dos mil trece, por mayoría de cinco votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera; en contra del voto del señor Consejero Juan Carlos Cruz Razo.- México, Distrito Federal, a seis de junio de dos mil trece.- Conste.- Rúbrica.
