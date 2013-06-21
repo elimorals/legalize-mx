@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-adquisiciones-arrendamientos-servicios-y-73958"
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-15"
-last_updated: "2010-03-15"
+last_updated: "2013-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ADMINISTRACION DE BIENES MUEBLES PARA EL ESTADO DE SINALOA
 
-LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ADMINISTRACION DE BIENES MUEBLES PARA EL ESTADO DE SINALOA
+LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 15 de marzo de 2010.
 
@@ -54,6 +54,10 @@ II. Los organismos descentralizados estatales;
 III. Las empresas de participación estatal mayoritaria, los fondos estatales, los fideicomisos y demás organismos a los que la ley les atribuya el carácter de entidades paraestatales; y,
 
 IV. Los Municipios, sus dependencias, organismos descentralizados, empresas de participación municipal mayoritaria, fideicomisos y demás organismos a los que la ley les atribuya el carácter de entidades paramunicipales, cuando se realicen con cargo total o parcial a recursos estatales, conforme a los convenios que celebren con el Poder Ejecutivo Estatal.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+No estarán sujetas a las disposiciones de esta ley las adquisiciones, arrendamientos o servicios previstos en la misma, cuya contratación se encuentre contemplada dentro del objeto de contratos de colaboración público privada autorizados por el Congreso del Estado. En esos casos será aplicable la Ley de Contratos de Colaboración Público Privada para el Estado.
 
 B. Regular los actos de administración y de dominio o disposición de bienes muebles que realicen las dependencias y entidades estatales señaladas en el apartado A, fracciones I, II y III de este artículo.
 
@@ -1634,3 +1638,11 @@ Lic. Quirino Ordaz Coppel
 El Secretario de la Contraloría y Desarrollo Administrativo
 
 Lic. Luis Antonio Cárdenas Fonseca
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
