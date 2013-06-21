@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-deuda-publica-para-el-estado-de-sinaloa-33539"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-20"
-last_updated: "2007-12-28"
+last_updated: "2013-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 20 de agosto de 2003.
 
@@ -105,11 +105,21 @@ B). La contratación de préstamos con instituciones financieras;
 
 C). La adquisición de bienes o contratación de obras, adquisiciones o servicios cuyo pago se pacte a plazos;
 
-D). Operaciones de refinanciamiento y reestructuración de empréstitos o créditos;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
 
-E). Pasivos contingentes relacionados con los actos mencionados en las fracciones anteriores; y,
+D). Contratos de colaboración público privada;
 
-F). En general, de operaciones financieras, bajo cualquier modalidad, que comprendan obligaciones a plazo, así como obligaciones de exigibilidad contingente, derivadas de actos jurídicos, independientemente de la forma en que se les documente, contraídas a través o a cargo de las entidades;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+E). Operaciones de refinanciamiento y reestructuración de empréstitos o créditos;
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+F). Pasivos contingentes relacionados con los actos mencionados en las fracciones anteriores; y,
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+G). En general, de operaciones financieras, bajo cualquier modalidad, que comprendan obligaciones a plazo, así como obligaciones de exigibilidad contingente, derivadas de actos jurídicos, independientemente de la forma en que se les documente, contraídas a través o a cargo de las entidades;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -497,13 +507,23 @@ Los financiamientos cuya autorización soliciten las entidades deberán ser, en 
 
 En los casos en que la magnitud de los proyectos de inversión pública productiva lo amerite, el Congreso del Estado podrá autorizar la implementación de programas de financiamiento, que impliquen la obtención de créditos o empréstitos en uno o en varios ejercicios presupuestales, por lo que los financiamientos que se celebren durante ejercicios fiscales posteriores al del programa de financiamiento que contenga su autorización, deberán ser incluidos en los Presupuestos de Ingresos y de Egresos, correspondientes a dichos ejercicios.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
 ###### Artículo 30.
 
-El Ejecutivo Estatal deberá incluir dentro de las Iniciativas de Ley de Ingresos y Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública a su cargo correspondiente al ejercicio fiscal de que se trate, lo cual será vigilado por el Congreso del Estado.
+El Poder Ejecutivo del Estado deberá incluir dentro de las iniciativas de Ley de Ingresos y Presupuesto de Egresos del Estado, la o las partidas presupuéstales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, ·las dependencias, los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos que formen parte de la administración pública paraestatal, derivadas de empréstitos, celebrados o por celebrarse, durante la vigencia de los mismos, lo cual deberá ser verificado por el Congreso. En caso de no incluirse la o las partidas correspondientes, el Congreso deberá incluirlas y autorizarlas.
 
-Los Presidentes Municipales deberán incluir, dentro de las Iniciativas de Presupuesto de Egresos Municipales, la o las partidas presupuestales necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública a su cargo correspondiente al ejercicio fiscal de que se trate, lo cual será vigilado por los Ayuntamientos.
+En caso de que, por cualquier circunstancia, se omita considerarlas, se tendrán por incluidas y autorizadas las partidas correspondientes que hubieren sido aprobadas en la Ley de Ingresos y Presupuesto de Egresos del Estado anterior, ajustándose su monto de manera automática en función de las obligaciones contraídas. Si en la Ley de Ingresos y Presupuesto de Egresos anterior no se hubieren contemplado partidas para cubrir el pago de obligaciones derivadas de empréstitos aprobados por el Congreso, y en la nueva ley no se consideran, se tendrán por incluidas y autorizadas las partidas que sean necesarias y suficientes para cubrir su pago en términos de lo previsto en los contratos respectivos.
 
-Los titulares de las entidades de la administración pública paraestatal y paramunicipal deberán incluir, dentro de sus proyectos de presupuesto de egresos, la o las partidas presupuestales necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública a su cargo, correspondiente al ejercicio fiscal de que se trate, lo cual será vigilado por la Secretaría y por los Ayuntamientos respectivamente.
+De la misma forma, en caso de que, por cualquier circunstancia, el Congreso no apruebe la Ley de Ingresos y Presupuesto de Egresos del Estado o la Ley de Ingresos de algún Municipio, correspondiente a un determinado ejercicio fiscal, se tendrá por prorrogada la ley respectiva vigente al finalizar el año anterior, hasta en tanto se apruebe la nueva y entre en vigor. En este supuesto, las partidas correspondientes al pago de obligaciones derivadas de contratos de colaboración público privada que hubiesen sido autorizadas en el presupuesto anterior se ajustarán en su monto, de manera automática, en función de las obligaciones contraídas.
+
+Si en el presupuesto que se prorrogue no se hubieren contemplado partidas para cubrir el pago de obligaciones derivadas de empréstitos aprobados por el Congreso, se tendrán por incluidas y autorizadas las que sean necesarias y suficientes para cubrir su pago en términos de lo previsto en los contratos respectivos.
+
+Los Presidentes Municipales deberán incluir, dentro de los proyectos de presupuestos de egresos municipales, la o las partidas presupuéstales necesarias y suficientes para cubrir el pago de obligaciones a cargo de las entidades municipales, derivadas de empréstitos, correspondientes al ejercicio fiscal de que se trate, lo cual será verificado por los Ayuntamientos. En caso de no incluirse, el Ayuntamiento respectivo deberá incluirlas y autorizarlas.
+
+En caso de que, por cualquier circunstancia, se omita considerarlas, se tendrán por incluidas y autorizadas las partidas correspondientes que hubieren sido aprobadas en el presupuesto anterior con relación a dichos contratos, ajustándose su monto de manera automática en función de las obligaciones contraídas. Si en el Presupuesto de Egresos anterior no se hubieren contemplado partidas para cubrir el pago de obligaciones derivadas de empréstitos y en el nuevo presupuesto no se consideran, se tendrán por incluidas y autorizadas las partidas que fueren necesarias y suficientes para cubrir su pago en términos de lo previsto en los contratos respectivos.
+
+En el supuesto de que, de acuerdo a lo previsto en este Artículo, el Presupuesto de Egresos del Municipio sea prorrogado, las partidas correspondientes al pago de obligaciones derivadas de empréstitos se ajustarán en su monto, de manera automática, en función de las obligaciones contraídas. Si en el Presupuesto de Egresos que se prorrogue no se hubieren contemplado partidas para cubrir el pago de obligaciones derivadas de empréstitos, se tendrán por incluidas y autorizadas las que sean necesarias y suficientes para cubrir su pago en términos de lo previsto en los contratos respectivos.
 
 ###### Artículo 31.
 
@@ -707,6 +727,12 @@ Las entidades de la administración pública paraestatal podrán, con la autoriz
 
 Las entidades de la administración pública paramunicipal podrán, con la autorización previa de sus Órganos de Gobierno, de los Ayuntamientos y del Congreso del Estado, emitida por éste último mediante ley o decreto, afectar como fuente o garantía de pago, o ambas, de los financiamientos que celebren directamente, los bienes de su propiedad o sus ingresos derivados de la cobranza de cuotas, derechos, productos o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable. Asimismo, las entidades de la administración pública paramunicipal podrán afectar en los términos señalados, los derechos al cobro de los ingresos antes referidos.
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+###### Artículo 72 Bis.
+
+El otorgamiento de garantías, las afectaciones de ingresos, la implementación de los mecanismos de pago y, en general, la celebración de los actos jurídicos a que se refiere este Capítulo, podrá realizarse respecto de cualesquier financiamiento.
+
 ###### Artículo 73.
 
 Las participaciones federales únicamente podrán ser afectadas, en los términos del artículo 70 que precede, para el pago de obligaciones que contraigan el Estado o los Municipios con autorización del Congreso del Estado e inscritas a petición de dichas entidades en el Registro de Obligaciones y Empréstitos que lleva la Secretaría de Hacienda y Crédito Público y en el Registro de Deuda Pública Estatal, en favor de la Federación, de instituciones de crédito que operen en territorio nacional, así como de personas físicas o morales de nacionalidad mexicana.
@@ -728,6 +754,12 @@ Una vez autorizada por el Congreso del Estado la celebración de los mecanismos 
 ###### Artículo 76.
 
 El pago de obligaciones a través de mecanismos legales de garantía o fuente de pago implementados mediante la afectación de participaciones federales a que alude el Artículo 73 de esta Ley, únicamente podrá ser realizado a través de los mismos cuando las obligaciones correspondientes hayan sido previamente autorizadas por el Congreso del Estado y se encuentren inscritas en el Registro de Obligaciones y Empréstitos que lleva la Secretaría de Hacienda y Crédito Público y en el Registro Estatal de Deuda Pública.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+###### Artículo 76 Bis.
+
+Las entidades no podrán, en ningún caso, otorgar mandatos irrevocables para que sus ingresos sean depositados en cuentas determinadas, abiertas en entidades financieras, ni podrán autorizar a las entidades financieras en las que tengan cuentas para que cobren, con cargo a las mismas, cantidades derivadas de financiamientos, compensen adeudos o, en cualquier forma, dispongan de los recursos correspondientes, si no informan previamente al Congreso del Estado para afectar, como garantía o fuente de pago, dichos ingresos en términos de lo previsto en esta ley.
 
 ###### Artículo 77.
 
@@ -902,3 +934,9 @@ P.O. 28 DE DICIEMBRE DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial" El Estado de Sinaloa".
 
 Artículo Segundo.- La aportación que otorgue el Gobierno del Estado de Sinaloa, al patrimonio del Consejo para el Desarrollo Económico de Sinaloa en cada ejercicio fiscal, será el equivalente al 20% de lo recaudado en el ejercicio fiscal 2007 del Impuesto Sobre Nóminas, cantidad que en ejercicios posteriores se tomará como base para integrar su patrimonio, la que será actualizada en términos reales en cada ejercicio.
+
+P.O. 21 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
