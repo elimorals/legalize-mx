@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-2963
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-02"
-last_updated: "2003-04-02"
+last_updated: "2013-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SINALOA
 
-LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SINALOA
+LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el miércoles 2 de abril de 2003.
 
@@ -127,9 +127,11 @@ III. Los derivados de los convenios; y
 
 IV. De otros ingresos no previstos en leyes fiscales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2013)</small>
+
 ###### Artículo 6.
 
-El gasto público comprende las erogaciones que por concepto de gasto corriente, inversión física y financiera, pago de pasivos, deuda pública y transferencias realizan:
+El gasto público comprende las erogaciones que por concepto de gasto corriente, inversión física y financiera, pago de pasivos, deuda pública, contratos de colaboración público privada y transferencias realizan:
 
 I. El Poder Legislativo;
 
@@ -189,9 +191,15 @@ I. A la Secretaría: los correspondientes a las dependencias, entidades y podere
 
 II. A las Tesorerías Municipales: los correspondientes a las dependencias de la administración pública municipal.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
 ###### Artículo 16.
 
-El Congreso del Estado, durante el mes de diciembre de cada año, analizará y aprobará, en su caso la Iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado y las Iniciativas de Leyes de Ingresos Municipales, a efecto de que puedan regir a partir del primero de enero inmediato; sí por algún motivo el Congreso no las aprueba durante dicho mes, en los términos de lo establecido en el artículo 37 de la Constitución Política del Estado, se tendrán por prorrogadas la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos Municipales, del año anterior, hasta en tanto se aprueben las iniciativas correspondientes.
+El Congreso del Estado, durante el mes de diciembre de cada año, analizará y aprobará, en su caso la Iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado y las Iniciativas de Leyes de Ingresos Municipales, a efecto de que se puedan regir a partir del primero de enero del año inmediato siguiente.
+
+Cuando, por cualquier circunstancia, no se aprueben la Ley de Ingresos y Presupuesto de Egresos del Estado o las Leyes de Ingresos de los Municipios correspondientes a un determinado ejercicio fiscal en los términos de lo establecido en el artículo 37 de la Constitución Política del Estado, se tendrán por prorrogadas las leyes respectivas vigentes al finalizar el año anterior, hasta en tanto se aprueben las nuevas y entren en vigor. En este caso, si la Ley de Ingresos y Presupuesto de Egresos que se prorrogue corresponde a un año electoral, no serán aplicables las partidas que se hubieren autorizado a favor de los partidos políticos por tal motivo, sino, únicamente, las que se hubieren incluido para su normal funcionamiento y el de las instituciones electorales en los términos que dispongan las leyes. Asimismo, en caso de que en dichas leyes se hubiesen contemplado montos de endeudamiento y, en su caso, la contratación de empréstitos, dichas autorizaciones no se considerarán renovadas.
+
+En el supuesto de que la Ley de Ingresos y Presupuesto de Egresos del Estado sea prorrogada, el monto de las partidas del presupuesto de egresos correspondientes al pago de obligaciones derivadas de empréstitos y de contratos de colaboración público privada se ajustará, de manera automática, en función de las obligaciones contraídas. Si en el presupuesto que se prorrogue no se hubieren contemplado partidas para cubrir el pago de obligaciones derivadas de empréstitos o de contratos de colaboración público privada aprobados por el Congreso, se tendrán por incluidas y autorizadas las que sean necesarias y suficientes para cubrir su pago en términos de lo previsto en los contratos respectivos.
 
 ###### Artículo 17.
 
@@ -223,7 +231,9 @@ La planeación, programación y presupuestación del gasto público del Estado y
 
 I. Las acciones que deberán realizar los Poderes Ejecutivo, Legislativo y Judicial, Dependencias, Organismos, Ayuntamientos y Paramunicipales, para dar cumplimiento a las políticas, objetivos y estrategias establecidas en el Plan Estatal de Desarrollo y los Planes de Desarrollo Municipales y sus programas operativos anuales; y,
 
-II. Las previsiones que se requieran por concepto de servicios personales; materiales y suministros; servicios generales; ayudas, subsidios y transferencias; bienes muebles e inmuebles; inversión pública; inversión financiera; participaciones a municipios y deuda pública; para disponer de los recursos humanos, materiales, técnicos, financieros y de otra índole, para la ejecución de las acciones señaladas en la fracción anterior.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+II. Las previsiones que se requieran por concepto de servicios personales; materiales y suministros; servicios generales; ayudas, subsidios y transferencias; bienes muebles e inmuebles; inversión pública; inversión financiera; participaciones a municipios, contratos de colaboración público privada y deuda pública; para disponer de los recursos humanos, materiales, técnicos, financieros y de otra índole, para la ejecución de las acciones señaladas en la fracción anterior.
 
 ###### Artículo 21.
 
@@ -253,9 +263,11 @@ La Secretaría establecerá y aplicará los procedimientos o sistemas a seguir p
 
 ### Capítulo Segundo. De la formulación de los anteproyectos del Presupuesto de Egresos en los Poderes, Dependencias, Organismos y Ayuntamientos
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
 ###### Artículo 24.
 
-Todo gasto que los sujetos de la ley pretendan erogar deberá estar debidamente contemplado en el Presupuesto de Egresos del ejercicio fiscal correspondiente.
+Todo gasto que los sujetos de la ley pretendan erogar deberá estar expresamente contemplado en el Presupuesto de Egresos del ejercicio fiscal correspondiente. Tratándose de contratos de colaboración público privada, se atenderá lo previsto en los artículos 37 y 124 de la Constitución Política del Estado.
 
 ###### Artículo 25.
 
@@ -367,9 +379,17 @@ VIII. Por Subsidios;
 
 IX. Por la aplicación y distribución de recursos federalizados;
 
-X. Por la aplicación y distribución de participaciones a municipios; y,
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
-XI. Por los que se deriven de endeudamiento.
+X. Por la aplicación y distribución de participaciones a municipios;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+XI. Por los que se deriven de endeudamiento; y,
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+XII. Por los que deriven de contratos de colaboración público privada.
 
 ###### Artículo 37.
 
@@ -381,11 +401,21 @@ II. Una estimación y desglose de los ingresos al treinta de diciembre del ejerc
 
 III. Situación de la deuda pública estatal, así como una estimación del monto global que tendría al concluir el ejercicio fiscal vigente;
 
-IV. Las estrategias a implementar y los propósitos a lograr con el presupuesto solicitado;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
-V. Explicación y comentarios de los programas y en especial de aquellos que abarquen dos o más ejercicios fiscales; y,
+IV. Un capítulo específico que señale las erogaciones que deberán efectuarse con relación a contratos de colaboración público privada, incluyendo obligaciones contingentes derivadas de los mismos cuyo pago podría requerirse en el ejercicio respectivo;
 
-VI. Descripción clara de los programas que integran el proyecto de presupuesto de egresos en donde se señalen objetivos y metas.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+V. Las estrategias a implementar y los propósitos a lograr con el presupuesto solicitado;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+VI. Explicación y comentarios de los programas y en especial de aquellos que abarquen dos o más ejercicios fiscales; y,
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+VII. Descripción clara de los programas que integran el proyecto de presupuesto de egresos en donde se señalen objetivos y metas.
 
 En caso de que las comisiones legislativas correspondientes requieran mayor información, la Secretaría les proporcionará los elementos respectivos para su análisis.
 
@@ -447,9 +477,11 @@ La Ley de Ingresos y Presupuesto de Egresos del Estado y las leyes de ingresos m
 
 Para cualquier modificación al Presupuesto de Egresos del Estado y de los Municipios, deberá agregarse la correspondiente modificación de los ingresos, si con tal proposición se altera el equilibrio presupuestal. En los casos de traspasos o supresión de partidas deberán acompañarse de los programas que hayan sido afectados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2013)</small>
+
 ###### Artículo 49.
 
-El Ejecutivo por conducto de la Secretaría, podrá autorizar erogaciones adicionales a las previstas en la Ley de Ingresos y Presupuesto de Egresos del ejercicio fiscal en turno, para aplicarlas en los distintos Ramos Administrativos y Generales, en acciones estratégicas y prioritarias, tales como, salud y asistencia social, educación e investigación, cultura, recreación y deporte, seguridad pública y justicia, promoción económica, infraestructura básica, Poderes Legislativo y Judicial y servicio de la deuda pública, hasta por un veinte por ciento de ingresos fiscales ordinarios disponibles en términos netos, que excedan al importe de los aprobados originalmente en la mencionada Ley; entendidos éstos ingresos como los resultantes de restarle a los ingresos totales previstos, las participaciones a municipios, los recursos federalizados y los impuestos, derechos y aprovechamientos comprometidos por ley.
+El Ejecutivo por conducto de la Secretaría, podrá autorizar erogaciones adicionales a las previstas en la Ley de Ingresos y Presupuesto de Egresos del ejercicio fiscal en turno, para aplicarlas en los distintos Ramos Administrativos y Generales, en acciones estratégicas y prioritarias, tales como, salud y asistencia social, educación e investigación, cultura, recreación y deporte, seguridad pública y justicia, promoción económica, infraestructura básica, Poderes Legislativo y Judicial, contratos de colaboración público privada y servicio de la deuda pública, hasta por un veinte por ciento de ingresos fiscales ordinarios disponibles en términos netos, que excedan al importe de los aprobados originalmente en la mencionada Ley; entendidos éstos ingresos como los resultantes de restarle a los ingresos totales previstos, las participaciones a municipios, los recursos federalizados y los impuestos, derechos y aprovechamientos comprometidos por ley.
 
 Las erogaciones adicionales a que se refiere el primer párrafo de este artículo, serán independientes de las que se tengan que realizar por concepto de mayores participaciones y aportaciones federales que correspondan a los municipios en los términos de las disposiciones aplicables, así como las que se deriven de ingresos destinados a un fin específico.
 
@@ -581,13 +613,17 @@ Los Poderes Legislativo y Judicial, en el ejercicio de sus respectivas competenc
 
 ### Capítulo Segundo. Del Pago en Materia de Deuda Pública
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
 ###### Artículo 71.
 
 Para los efectos del presupuesto de egresos, el pago de la deuda pública directa comprende la amortización del capital y el costo financiero de las obligaciones establecidas en los empréstitos.
 
-La deuda pública estatal se identifica como los empréstitos cuyas obligaciones marcan un plazo de vencimiento que rebasa un ejercicio fiscal y que fueron contraídas por el Gobierno del Estado, mediante la autorización del Congreso y que se encuentran inscritas en el Registro Único de Obligaciones y Empréstitos del Gobierno del Estado.
+Para su amortización, la deuda pública deberá contar con las autorizaciones y registros, previstos en las Leyes de Deuda Pública y de Contratos de Colaboración Público Privada para el Estado de Sinaloa, según corresponda.
 
-La deuda pública municipal se identifica como los empréstitos que fueren contraídos por los Ayuntamientos mediante la autorización del Congreso y que se encuentran inscritas en el Registro Único de Obligaciones y Empréstitos del Gobierno del Estado.
+De la misma forma, los contratos de colaboración público privada que celebren el Estado y las Entidades de la Administración Pública Paraestatal que, en términos de lo previsto por la legislación aplicable, no constituyan deuda pública, deberán contar para su pago, con las autorizaciones previstas en la Ley de Contratos de Colaboración Público Privada.
+
+La presupuestación y la clasificación del gasto derivado de empréstitos y de contratos de colaboración público privada se regirá por lo establecido en la Constitución Política del Estado de Sinaloa, en esta Ley, en la Ley de Contratos de Colaboración Público Privada para el Estado de Sinaloa y en la Ley de Deuda Pública para el Estado de Sinaloa.
 
 ## Título Quinto. De la Contabilidad Gubernamental y de la Cuenta Pública
 
@@ -920,3 +956,11 @@ Gonzalo M. Armienta Calderón.
 El Secretario de Administración y Finanzas.
 
 Óscar J. Lara Aréchiga.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
