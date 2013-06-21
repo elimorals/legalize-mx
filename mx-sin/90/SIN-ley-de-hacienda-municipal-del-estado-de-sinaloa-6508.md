@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2011-12-26"
+last_updated: "2013-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -507,7 +507,7 @@ El Impuesto Predial se causará, mediante la aplicación de la siguiente tarifa 
 
 I.- Predios o fincas urbanas:
 
-(VEASE TABLA ANEXA)
+(VÉASE TABLA ANEXA)
 
 Para la aplicación de la tarifa a que se refiere esta fracción, se considera predio urbano sin construcción, aquellos que no tengan edificación y que estén ubicados en lugares que cuenten con servicio de agua potable y drenaje, en poblaciones con más de 5,000 habitantes.
 
@@ -645,7 +645,7 @@ Tratándose de predios en que se encuentren ubicadas empresas comerciales, indus
 
 Para que se tenga derecho a los descuentos señalados en este artículo, así como, de los establecidos en los artículos 41 y 43 de esta Ley, los causantes deberán estar al corriente de sus pagos.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 14 DE ENERO DE 2009)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 14 DE ENERO DE 2009)</small>
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -913,7 +913,7 @@ II.- Entregar anualmente a la Tesorería Municipal, dentro de los cuatro meses s
 
 III.- Una vez concluidos los trabajos de urbanización, formular una liquidación de la inversión efectuada, para determinar los saldos que hayan resultado a favor de la Tesorería o del Contribuyente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE OCTUBRE DE 1990)</small>
 
 ### CAPITULO II
 
@@ -1363,7 +1363,7 @@ La Tesorería Municipal podrá celebrar convenio con los contribuyentes de este 
 
 Los derechos de cooperación para obras públicas se cubrirán en la forma y término señalado en la Ley de Desarrollo Urbano del Estado de Sinaloa y conforme a la tarifa y monto respectivo, que fije el Congreso del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE MARZO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE MARZO DE 1999)</small>
 
 ### CAPITULO XIV
 
@@ -1509,7 +1509,7 @@ Eventos sociales 50 25 10
 
 La revalidación anual de los permisos, licencias y registros de los establecimientos a que se refiere la ley de la materia, deberá efectuarse dentro de los meses de enero a marzo de cada año.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE MARZO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MARZO DE 2004)</small>
 
 ### CAPITULO XV
 
@@ -1775,7 +1775,7 @@ Se constituirán con este título todos aquellos ingresos que a favor del fisco 
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 105.
 
@@ -1813,7 +1813,7 @@ f) Pro-Turismo. 6.5%
 
 ###### ARTICULO 106.
 
-Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se percibirán con arreglo a los convenios que se celebren para su otorgamiento y previa autorización del Congreso del Estado, cuando su plazo rebase el período constitucional del Ayuntamiento en funciones.
+Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se percibirán con arreglo a lo dispuesto en la ley de Deuda Pública para el Estado de Sinaloa. La celebración de los empréstitos correspondientes requerirá, en o (sic) todo caso, de la previa autorización del Congreso del Estado.
 
 ## TITULO NOVENO. DISPOSICIONES SUSTANTIVAS Y PROCEDIMENTALES
 
@@ -1863,11 +1863,11 @@ III.- Las Autoridades Fiscales ejercerán las facultades discrecionales que las 
 
 Los ingresos de los Municipios del Estado de Sinaloa se establecerán cada año por la Ley de Ingresos que expida el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 113.
 
-Son ingresos ordinarios los que en forma normal y permanente se autorizan para cubrir el costo de los servicios públicos regulares de los Municipios. Son ingresos extraordinarios aquellos cuya percepción se autoriza para proveer a la satisfacción de necesidades de carácter extraordinario y los provenientes de empréstitos públicos.
+Son ingresos ordinarios los que en forma normal y permanente se autorizan para cubrir el costo de los servicios públicos regulares de los Municipios. Son ingresos extraordinarios los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la ley de Ingresos, los empréstitos, los financiamientos, los que provengan de aportaciones federales o estatales, los que se decreten por el Congreso del Estado y los ingresos de control indirecto.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1907,11 +1907,11 @@ Son Aprovechamientos los demás ingresos cuya percepción esté legalmente autor
 
 Los Ingresos Extraordinarios que tengan como fuente empréstitos públicos, se percibirán con arreglo a los Convenios que se celebren para su otorgamiento y los demás ingresos extraordinarios se regirán por las disposiciones legales que los establezcan.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 120.
 
-Todos los Ingresos Públicos Municipales se destinarán a cubrir los gastos autorizados por el Presupuesto de Egresos. Sólo por disposición legal podrán afectarse determinados ingresos públicos a fines especiales.
+Todos los Ingresos Públicos Municipales se destinarán a cubrir los gastos autorizados por el Presupuesto de Egresos. Sólo por disposición legal podrán afectarse determinados ingresos públicos a fines específicos.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -2653,7 +2653,7 @@ III.- Crédito o créditos fiscales reclamados.
 
 Hechas las aplicaciones especificadas en el artículo anterior, el saldo si lo hubiere, quedará a disposición del ejecutado, salvo que haya orden de retención dictada por autoridades judiciales o administrativas competentes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO VIII. RECURSO DE INCONFORMIDAD
 
@@ -2849,7 +2849,7 @@ Se deroga en los Municipios de Ahome, El Fuerte, Choix, Guasave, Sinaloa, Mocori
 
 (DEROGADO, P.O. 31 DE ENERO DE 1992)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO CUARTO.
 
@@ -2893,7 +2893,7 @@ VIGOR EN:
 
 1989 El 10% del impuesto a pagar
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 31 DE ENERO DE 1992)</small>
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
 
@@ -3021,7 +3021,7 @@ EL SECRETARIO DE HACIENDA PUBLICA Y TESORERIA
 
 LIC. RENATO MORESCHI OVIEDO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE OCTUBRE DE 1990.
 
@@ -3402,3 +3402,9 @@ Las personas físicas y morales sujetas al pago de este impuesto sobre las reali
 ###### ARTÍCULO TERCERO.
 
 Los Municipios podrán realizar Convenios de Colaboración Administrativa con el Ejecutivo del Estado para comprobar el cumplimiento de las disposiciones fiscales derivadas del impuesto sobre las realizaciones de juegos con apuestas y sorteos, con base a la Ley de Coordinación Fiscal del Estado de Sinaloa.
+
+P.O. 21 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
