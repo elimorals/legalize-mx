@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2010-12-01"
+last_updated: "2013-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
+LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -53,7 +53,7 @@ El Congreso del Estado se compone de representantes del pueblo, nombrados en ele
 
 Por cada Diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 4.
 
@@ -99,7 +99,7 @@ PRIMERA. Informe del Ejecutivo, en su caso, la ampliación de información y la 
 
 a) La Junta de Coordinación Política, al siguiente día hábil en que se reciba por el Congreso el informe del Ejecutivo, lo remitirá por escrito a Comisiones con el señalamiento expreso para que, en un término de quince días hábiles, envíen sus observaciones y, en su caso, las preguntas que se requieran para ampliar la información.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 b) La Junta de Coordinación Política, si las Comisiones lo solicitan por escrito, podrá ampliar el plazo anterior, haciéndolo del conocimiento de la Mesa Directiva.
 
@@ -111,7 +111,7 @@ Concluido el plazo, lo declarará cerrado.
 
 c) Una vez que la Junta de Coordinación Política haya declarado cerrado el período para recibir observaciones y preguntas para el Ejecutivo del Estado, en un término no mayor de cinco días hábiles, procederá a realizar una reunión con la finalidad de organizar y sistematizar las observaciones y preguntas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 d) La Junta de Coordinación Política, con los resultados de su reunión, acordará:
 
@@ -451,7 +451,7 @@ IX.- Las demás que le confiera esta ley, los reglamentos y los acuerdos parlame
 
 ### CAPITULO II. DE LA PRESIDENCIA Y LAS VICE-PRESIDENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 42.
 
@@ -607,7 +607,7 @@ Examinada por el Presidente la documentación, en sesión ordinaria de la Cámar
 
 De acuerdo con las posibilidades y el presupuesto de la propia Cámara, los Grupos Parlamentarios dispondrán de locales adecuados en las instalaciones de la Cámara así como de los asesores, personal y los elementos necesarios para el cumplimiento de sus funciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO V. DE LA JUNTA DE COORDINACION POLITICA
 
@@ -865,7 +865,7 @@ Las Comisiones Permanentes presentarán en la última sesión de cada período o
 
 Las Comisiones Permanentes se reunirán, por lo menos, una vez al mes, con excepción de las Comisiones de Honor y Disciplina Parlamentaria e Instructora.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO No. 147, PUBLICADO EN EL P.O. DE 25 DE JULIO DE 2008, LA ESTRUCTURA DEL PRESENTE ARTICULO HA SIDO MODIFICADA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 147, PUBLICADO EN EL P.O. DE 25 DE JULIO DE 2008, LA ESTRUCTURA DEL PRESENTE ARTÍCULO HA SIDO MODIFICADA.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -893,9 +893,9 @@ d) Conocerá de procedimientos de responsabilidades que instruya el órgano fisc
 
 III.- La Comisión de Protocolo y Régimen Orgánico Interior tendrá a su cargo preparar los proyectos de Ley o Decreto para actualizar las normas de las actividades camarales, estudiar las disposiciones normativas, regímenes y prácticas parlamentarias y desahogar las consultas sobre la aplicación e interpretación de esta Ley, prácticas y usos parlamentarios;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADA. P.O. 21 DE JUNIO DE 2013)</small>
 
-IV.- La Comisión de Hacienda Pública y Administración tendrá a su cargo el despacho de los negocios que le señalen las Leyes, en materia fiscal, los asuntos donde se ventile la situación de la hacienda pública estatal y de los municipios, así como los asuntos en materia de administración pública estatal y municipal.
+IV.- La Comisión de Hacienda Pública y Administración tendrá a su cargo el despacho de los negocios que le señalen las Leyes en materia fiscal, de deuda pública y de contratos de colaboración público privada, los asuntos donde se ventile la situación de la hacienda pública estatal y de los municipios, así como los asuntos en materia de administración pública estatal y municipal.
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
 
@@ -1087,7 +1087,7 @@ La Diputación Permanente cesará en sus funciones inmediatamente que el Congres
 
 En todo lo demás que no esté previsto en los artículos anteriores, la Diputación Permanente se sujetará, a lo que esta Ley dispone respecto de la Cámara.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 ### CAPÍTULO VIII. DE LA ORGANIZACIÓN TÉCNICA Y ADMINISTRATIVA DEL CONGRESO DEL ESTADO
 
@@ -1257,7 +1257,7 @@ X.- Las demás que le asigne el Pleno, la Diputación Permanente, la Junta de Co
 
 Al frente del Instituto habrá un Director y contará con las unidades y Departamentos que fije su Reglamento Interior conforme al cual se desarrollarán sus funciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JULIO DE 2008)</small>
 
 #### SECCION SEGUNDA. DEL CEREMONIAL
 
@@ -1955,9 +1955,7 @@ Cuando el Congreso o su Presidente lo consideren conveniente, ordenarán que se 
 
 ### CAPITULO V. DE LAS REFORMAS A LA CONSTITUCION
 
-### CAPITULO UNICO. DE LA ORGANIZACION DEL JURADO Y
-
-PERSONAS SUJETAS A SU JURISDICCION
+### CAPITULO UNICO. DE LA ORGANIZACION DEL JURADO Y PERSONAS SUJETAS A SU JURISDICCION
 
 ### CAPITULO UNICO
 
@@ -2121,7 +2119,7 @@ Lic. Heriberto Arias Suárez
 
 DIPUTADO SECRETARIO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE MARZO DE 1997.
 
@@ -2242,3 +2240,9 @@ P.O. 1 DE DICIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor en la misma fecha de su expedición, sin perjuicio de su posterior publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- En tanto se realizan las reformas correspondientes, las referencias a la Gran Comisión y a la Comisión de Concertación Política que se hacen en las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas, se entenderán hechas a la Mesa Directiva o a la Junta de Coordinación Política, según corresponda a las atribuciones de éstas.
+
+P.O. 21 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
