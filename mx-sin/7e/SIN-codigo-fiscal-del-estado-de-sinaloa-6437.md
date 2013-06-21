@@ -4,7 +4,7 @@ identifier: "SIN-codigo-fiscal-del-estado-de-sinaloa-6437"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-28"
-last_updated: "2007-12-28"
+last_updated: "2013-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # CODIGO FISCAL DEL ESTADO DE SINALOA
 
-CODIGO FISCAL DEL ESTADO DE SINALOA
+CÓDIGO FISCAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 28 de diciembre de 1994.
 
@@ -103,9 +103,11 @@ Son créditos fiscales las contribuciones, los aprovechamientos y sus accesorios
 
 Los ingresos extraordinarios se percibirán conforme a los convenios que celebre el Ejecutivo con arreglo a lo preceptuado por la Constitución Política del Estado de Sinaloa.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 12.
 
-Todos los ingresos públicos Estatales, se destinarán a cubrir los gastos autorizados por el Presupuesto de Egresos. Sólo por disposición legal podrán afectarse determinados ingresos públicos a fines especiales.
+Todos los ingresos públicos Estatales, se destinarán a cubrir los gastos autorizados por el Presupuesto de Egresos. Sólo por disposición legal podrán afectarse determinados ingresos públicos a fines específicos.
 
 ###### ARTICULO 13.
 
@@ -2334,3 +2336,9 @@ P.O. 28 DE DICIEMBRE DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- La aportación que otorgue el Gobierno del Estado de Sinaloa, al patrimonio del Consejo para el Desarrollo Económico de Sinaloa en cada ejercicio fiscal, será el equivalente al 20% de lo recaudado en el ejercicio fiscal 2007 del Impuesto Sobre Nóminas, cantidad que en ejercicios posteriores se tomará como base para integrar su patrimonio, la que será actualizada en términos reales en cada ejercicio.
+
+P.O. 21 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
