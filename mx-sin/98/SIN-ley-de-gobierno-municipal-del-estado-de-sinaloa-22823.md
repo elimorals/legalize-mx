@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2008-11-07"
+last_updated: "2013-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -247,13 +247,19 @@ II. Proceder a la integración de comisiones mixtas de los sectores público y p
 
 III. Recaudar y administrar los ingresos correspondientes a la hacienda pública municipal, pudiendo celebrar al efecto convenios con el Ejecutivo del Estado respecto a las contribuciones señaladas por el Artículo 123, fracción V, de la Constitución Política del Estado;
 
-IV. Aprobar, ejercer y controlar su presupuesto de egresos conforme a sus ingresos disponibles y aprobar la iniciativa de Ley de Ingresos;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+IV. Aprobar, ejercer y controlar su presupuesto de egresos conforme a sus ingresos disponibles y aprobar la iniciativa de Ley de Ingresos, sujetándose a lo establecido en el Artículo 124 de la Constitución Estatal, a la Ley de Presupuesto Contabilidad y Gasto Público del Estado, a la Ley de Deuda Pública y a la Ley de Contratos de Colaboración Público Privada;
 
 V. Formular la cuenta pública mensual, dentro de los primeros quince días del mes siguiente al que corresponda, que deben presentar al Congreso, acompañada de los comprobantes respectivos y recabar de la Contaduría Mayor de Hacienda del Congreso del Estado, los finiquitos correspondientes;
 
 VI. Administrar los bienes del Municipio, manteniendo un inventario para el control y registro de los mismos;
 
-VII. Resolver, por acuerdo de las dos terceras partes de sus miembros, sobre la celebración de actos, contratos o convenios que afecten el patrimonio inmobiliario municipal o que impliquen obligaciones que excedan del tiempo para el que fueron electos;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+VII. Resolver, por acuerdo de las dos terceras partes de sus miembros, sobre la celebración de actos, contratos o convenios que afecten el patrimonio inmobiliario municipal o que impliquen obligaciones que excedan del tiempo para el que fueron electos. Lo anterior, sin perjuicio de las autorizaciones que en los supuestos previstos en el Artículo 125 fracciones XI, XII y XIII de la Constitución Estatal o en otras disposiciones legales aplicables, deban obtener del Congreso del Estado, previamente a la celebración de dichos actos.
+
+Tratándose de contratos de colaboración público privada se resolverá por acuerdo de la mayoría de sus miembros;
 
 VIII. Otorgar concesiones para la explotación y aprovechamiento de bienes y servicios municipales, requiriéndose la aprobación de las dos terceras partes de sus miembros cuando dichas concesiones se otorguen por un plazo mayor del tiempo para el que fueron electos;
 
@@ -299,7 +305,9 @@ La no observancia de las cláusulas 3, 5, 6, 7, 8 y 9, constituirán causa de re
 
 Los ayuntamientos fijarán anualmente y publicarán en el Periódico Oficial "El Estado de Sinaloa" y en otro de mayor circulación, los precios y tarifas a que deberán sujetarse los servicios públicos concesionados.
 
-X. Observar el cumplimiento del artículo 155 de la Constitución Política del Estado en la administración de los recursos del Municipio y de sus organismos públicos descentralizados, así como en la adquisición, arrendamiento, enajenación de bienes, prestación de servicios y en la contratación de obras que realicen;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+X. En la administración de los recursos del Municipio, sus dependencias, organismos descentralizados, empresas de participación municipal, fideicomisos en los que el fideicomitente sea el Gobierno Municipal o una entidad paramunicipal, y demás organismos a los que la ley les atribuya el carácter de entidades paramunicipales, así como en la adjudicación de las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza, incluidos los derivados de contratos de colaboración público privada y de la contratación de obra que realicen, observar el cumplimiento del artículo 155 de la Constitución Política del Estado;
 
 XI. Aceptar donaciones, herencias y legados que se hagan a los municipios, siempre que no resulten onerosos, y en caso de que lo sean, se requerirá la aprobación de las dos terceras partes de sus miembros;
 
@@ -519,7 +527,9 @@ X. Formular las observaciones que estime pertinentes a los acuerdos del Ayuntami
 
 XI. Tomar la protesta de Ley al personal al servicio del Ayuntamiento;
 
-XII. Someter a la aprobación del Ayuntamiento el presupuesto anual de egresos y la iniciativa de Ley de Ingresos del ejercicio correspondiente que deberá presentarse al Congreso del Estado;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+XII. Someter a la aprobación del Ayuntamiento el presupuesto anual de egresos y la iniciativa de Ley de Ingresos del ejercicio correspondiente que deberá presentarse al Congreso del Estado, sujetándose a lo previsto en el Artículo 124 de la Constitución del Estado y en las demás disposiciones constitucionales y legales aplicables;
 
 XIII. Vigilar que la recaudación en todos los ramos de la hacienda municipal se realice con exactitud, cuidando que los egresos se efectúen con estricto apego al presupuesto;
 
@@ -769,7 +779,9 @@ Corresponde al Tesorero Municipal:
 
 I. Mantener al día los asuntos económicos relacionados con las finanzas del Ayuntamiento, llevando las estadísticas y cuadros comparativos de los ingresos y egresos, a fin de prever los arbitrios y regular los gastos;
 
-II. Formular oportunamente los proyectos de ley de ingresos y de presupuesto de egresos del Ayuntamiento, incluyendo los relativos a los organismos, instituciones o dependencias cuyo sostenimiento esté a su cargo;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+II. Formular oportunamente los proyectos de ley de ingresos y de presupuesto de egresos del Ayuntamiento, incluyendo los relativos a los organismos, instituciones o dependencias cuyo sostenimiento esté a su cargo, de acuerdo a lo previsto por el Artículo 124 de la Constitución Estatal y en las demás disposiciones constitucionales y legales aplicables;
 
 III. Custodiar y administrar los ingresos provenientes de los impuestos, derechos, productos, aprovechamientos y otros arbitrios señalados en la Ley de Ingresos del Municipio y en los demás ordenamientos aplicables;
 
@@ -1358,3 +1370,9 @@ P.O. 7 DE NOVIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
