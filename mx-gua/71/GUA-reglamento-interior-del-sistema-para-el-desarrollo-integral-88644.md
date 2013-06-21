@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-sistema-para-el-desarrollo-integral-886
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-13"
-last_updated: "2012-07-13"
+last_updated: "2013-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE GUANAJUATO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JULIO DE 2013 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de julio de 2012.
 
@@ -301,23 +303,37 @@ I. Áreas Staff:
 
 a) Dirección de Administración;
 
-a.1. Coordinación de Recursos Financieros;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+a.1. Coordinación Financiera;
 
 a.2. Coordinación de Recursos Materiales;
 
 a.3. Coordinación Comercial; y
 
-a.4. Coordinación de Bienes y Servicios;
+a.4. (DEROGADO, P.O. 21 DE JUNIO DE 2013)
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+a.5. Coordinación de Servicios Generales; y
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+a.6. Coordinación de Contabilidad y Presupuesto.
 
 b) Dirección de Desarrollo Institucional;
 
 b.1. Coordinación de Personal;
 
-b.2. Coordinación de Procesos y Capacitación; y
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
 
-b.3. Coordinación de Servicios Generales;
+b.2. Coordinación de Evaluación y Desarrollo;
 
-c) Coordinación de Programación y Seguimiento;
+b.3. (DEROGADO, P.O. 21 DE JUNIO DE 2013)
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+c) Coordinación de Planeación y Seguimiento;
 
 d) Coordinación General de Asuntos Jurídicos;
 
@@ -327,7 +343,7 @@ f) Coordinación de Comunicación Social;
 
 g) Coordinación de Relaciones Públicas; y
 
-h) Coordinación de la Unidad de Enlace;
+h) (DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
 II. Direcciones:
 
@@ -351,6 +367,10 @@ c.2. Coordinación de Atención a Niños en Situación Extraordinaria; y
 
 c.3. Coordinación de Desarrollo Integral de la Primer Infancia;
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+c.4. Coordinación de Orientación Familiar.
+
 d) Dirección de Protección Jurídica Familiar;
 
 d.1. Procuraduría en Materia de Asistencia Social;
@@ -359,23 +379,31 @@ d.2. Coordinación de Rehabilitación y Asistencia Social para Niños y Adolesce
 
 d.3. Coordinación de Servicios· Asistenciales;
 
-e) Dirección de Rehabilitación e Inclusión Social de Personas con Discapacidad;
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
 
-e.1. Coordinación de Rehabilitación;
+d.4. Coordinación de Fortalecimiento a Organizaciones de la Sociedad Civil.
 
-e.2. Coordinación del Centro Estatal de Rehabilitación;
+e) (DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
-e.3. Coordinación de Rehabilitación Visual;
+e.1. (DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
-e.4. Coordinación de Inclusión Social para Personas con Discapacidad; y
+e.2. (DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
-e.5. Coordinación de Atención Integral a Jóvenes;
+e.3. (DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
-f) Dirección de Atención para Adultos Mayores y Participación Social;
+e.4. (DEROGADO, P.O. 21 DE JUNIO DE 2013)
+
+e.5. (DEROGADO, P.O. 21 DE JUNIO DE 2013)
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+f) Dirección de Atención para Adultos Mayores;
 
 f.1. Coordinación de Atención al Adulto Mayor;
 
-f.2. Coordinación de Vinculación y Participación Ciudadana; y
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+f.2. Coordinación de Vinculación; y
 
 f.3. Coordinación de Centros de Desarrollo Gerontológico.
 
@@ -423,9 +451,17 @@ I. Coordinación de Recursos Financieros;
 
 II, Coordinación de Recursos Materiales;
 
-III. Coordinación Comercial; y
+III. Coordinación Comercial; y (sic)
 
-IV. Coordinación de Bienes y Servicios.
+IV. (DEROGADA, P.O. 21 DE JUNIO DE 2013)
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+V. Coordinación de Servicios Generales; y
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+VI. Coordinación de Contabilidad y Presupuesto.
 
 Atribuciones de la Dirección de Administración
 
@@ -455,27 +491,41 @@ X. Vigilar y tomar las medidas correctivas adecuadas a fin de que se efectúen e
 
 XI. Representar al Sistema ante organismos e instituciones públicas y privadas, por instrucciones de la Dirección General, a fin de sumar esfuerzos en la consecución de los fines del organismo, en el ámbito de sus atribuciones;
 
-XII. Autorizar las erogaciones, el control del ejercicio del presupuesto y su contabilidad; y
+XII. Autorizar las erogaciones, el control del ejercicio del presupuesto y su contabilidad; y (sic)
 
 XIII. Implementar sistemas de registros contables y de control de todas las operaciones administrativas, con base en las políticas establecidas por la Secretaría de Finanzas y Administración.
 
-#### Sección Primera. Coordinación de Recursos Financieros
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
 
-Atribuciones de la Coordinación de Recursos Financieros
+XIV. Dirigir y supervisar las tareas de desarrollo y mantenimiento inmobiliario requeridos para operar adecuadamente las diferentes áreas del Sistema.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2013)</small>
+
+#### Sección Primera. Coordinación Financiera
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+Atribuciones de la Coordinación Financiera
 
 ###### Artículo 25.
 
-El Coordinador de Recursos Financieros tendrá las siguientes atribuciones:
+El Coordinador Financiero tendrá las siguientes atribuciones:
 
-I. Registrar, integrar y presentar para su validación y aprobación los estados financieros;
+I. Analizar y proponer alternativas de inversión de los recursos del Sistema;
 
-II. Elaborar y ejecutar los reportes y trámites presupuestales del Sistema;
+II. Operar los traspasos de recursos entre cuentas bancarias derivadas de las operaciones de inversión y gasto;
 
-III. Comunicarse y coordinarse con el resto de las aéreas del Sistema para el cumplimiento de sus funciones;
+III. Efectuar los pagos del gasto previamente autorizados y programados mediante cheques o a través de la banca electrónica;
 
-IV. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
+IV. Recibir y registrar los ingresos que percibe el Sistema;
 
-V. Las demás que le encomiende el Director de Administración y le asignen otras disposiciones normativas.
+V. Coordinar mensualmente las conciliaciones de cuentas bancarias del Sistema;
+
+VI. Comunicarse y coordinarse con el resto de las áreas del Sistema para el cumplimiento de sus funciones;
+
+VII. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
+
+VIII. Las demás que le encomiende el Director de Administración y le asignen otras disposiciones normativas.
 
 #### Sección Segunda. Coordinación de Recursos Materiales
 
@@ -487,9 +537,13 @@ El Coordinador de Recursos Materiales tendrá las atribuciones siguientes:
 
 I. Integrar los programas de adquisiciones y arrendamientos de bienes y servicios del Sistema;
 
-II. Gestionar los procedimientos administrativos de contratación que se requieran;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
-III. Ejecutar, dar seguimiento y vigilar el cumplimiento de las contrataciones;
+II. Llevar a cabo las adquisiciones de acuerdo a los procedimientos señalados en la legislación correspondiente;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+III. Custodiar los bienes y mercancías de los diferentes almacenes del Sistema hasta su entrega;
 
 IV. Comunicarse y coordinarse con el resto de las áreas del Sistema para el cumplimiento de sus funciones;
 
@@ -505,43 +559,107 @@ Atribuciones de la Coordinación Comercial
 
 El Coordinador Comercial tendrá las atribuciones siguientes:
 
-I. Coordinar y supervisar las áreas comerciales del Sistema;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
-II. Dar cumplimiento a las obligaciones fiscales del Sistema;
+I. Coordinar la administración y operación de las áreas comerciales del Sistema;
 
-III. Comunicarse y coordinarse con el resto de las áreas del Sistema para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
-IV. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
+II. Formular estrategias de comercialización que incrementen y mejoren los servicios comerciales del Sistema;
 
-V. Las demás que le encomiende el Director de Administración y le asignen otras disposiciones normativas.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+III. Formular, planear y programar todas las acciones necesarias para coordinar y desarrollar las áreas de comercialización;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+IV. Supervisar la operación de los establecimientos comerciales del Sistema;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+V. Comunicarse y coordinarse con el resto de las áreas del Sistema para el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+VI. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+VII. Las demás que le encomiende el Director de Administración y le asignen otras disposiciones normativas.
 
 #### Sección Cuarta. Coordinación de Bienes y Servicios
 
-Atribuciones de la Coordinación de Bienes y Servicios
-
 ###### Artículo 28.
 
-El Coordinador de Bienes y Servicios tendrá las atribuciones siguientes:
+(DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
-I. Administrar y vigilar el uso correcto de los bienes muebles de la titularidad del Sistema;
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE JUNIO DE 2013)</small>
 
-II. Administrar, dar seguimiento y vigilar el cumplimiento de las obligaciones que se desprendan de los servicios utilizados por el Sistema, así como supervisar su uso adecuado por las distintas áreas;
+#### Sección Quinta. Coordinación de Servicios Generales
 
-III. Comunicarse y coordinarse con el resto de las áreas del Sistema para el cumplimiento de sus funciones;
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
 
-IV. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
+Atribuciones de la Coordinación de Servicios Generales
 
-V. Las demás que le encomiende el Director de Administración y le asignen otras disposiciones normativas.
+###### Artículo 28 Bis.
 
-#### Sección Primera. Coordinación de Personal
+El Coordinador de Servicios Generales tendrá las atribuciones siguientes:
 
-Atribuciones de la Coordinación de Personal
+I. Coordinar y proporcionar el mantenimiento y conservación de los bienes muebles e inmuebles;
 
-#### Sección Segunda. Coordinación de Procesos y Capacitación
+II. Efectuar la remodelación y acondicionamiento de inmuebles en coordinación con la Secretaría de Obra Pública;
 
-Atribuciones de la Coordinación de Procesos y Capacitación
+III. Establecer el control de suministro de combustible y lubricantes asignados a los vehículos del Sistema;
+
+IV. Atender las solicitudes de servicio de mantenimiento de los vehículos al servicio del Sistema;
+
+V. Controlar, vigilar, analizar y tramitar los pagos de los servicios básicos del Sistema;
+
+VI. Comunicarse y coordinarse con el resto de las áreas del Sistema para el cumplimiento de sus funciones;
+
+VII. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
+
+VIII. Las demás que le encomiende el Director de Administración y le asignen otras disposiciones normativos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE JUNIO DE 2013)</small>
+
+#### Sección Sexta. Coordinación de Contabilidad y Presupuesto
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+Atribuciones de la Coordinación de Contabilidad y Presupuesto
+
+###### Artículo 28 Ter.
+
+El Coordinador de Contabilidad y Presupuesto tendrá las atribuciones siguientes:
+
+I. Integrar el proyecto anual del presupuesto general de egresos para el ejercicio correspondiente;
+
+II. Formular adecuaciones presupuestales;
+
+III. Revisar la documentación que se presenta para trámites de pago y comprobación del gasto a fin de que cumplan con los requisitos que establecen las disposiciones fiscales y administrativas aplicables;
+
+IV. Coordinarse con las Direcciones del Sistema para que el gasto se realice conforme a lo programado;
+
+V. Organizar, coordinar y supervisar la contabilidad del Sistema;
+
+VI. Coordinar las actividades para el cierre de los periodos contables mensuales, trimestrales y anuales;
+
+VII. Integrar la cuenta pública trimestral de conformidad con las disposiciones legales aplicables;
+
+VIII. Custodiar la documentación comprobatoria de las operaciones;
+
+IX. Formular y presentar las declaraciones de impuestos ante las autoridades correspondientes;
+
+X. Comunicarse y coordinarse con el resto de las áreas del Sistema para el cumplimiento de sus funciones;
+
+XI. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
+
+XII. Las demás que le encomiende el Director de Administración y le asignen otras disposiciones normativas.
 
 ### Capítulo II. Dirección de Desarrollo Institucional
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JULIO DE 2013 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 Unidades adscritas a la Dirección de Desarrollo Institucional
 
@@ -551,9 +669,11 @@ El Director de Desarrollo Institucional se auxiliará para el mejor despacho de 
 
 I. Coordinación de Personal;
 
-II. Coordinación de Procesos y Capacitación; y
+II. Coordinación de Procesos y Capacitación; y (sic)
 
-III. Coordinación de Servicios Generales.
+III. (DEROGADA, P.O. 21 DE JUNIO DE 2013)
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JULIO DE 2013 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 Atribuciones de la Dirección de Desarrollo Institucional
 
@@ -567,13 +687,13 @@ II. Supervisar la administración de sueldos y salarios, el cálculo de impuesto
 
 III. Establecer un proceso de comunicación constante con las unidades administrativas del Sistema, a efecto de atender y resolver las necesidades del personal;
 
-IV. Promover e impulsar la mejora continua de los procesos y servicios generados por el Sistema; y
+IV. (DEROGADA, P.O. 21 DE JUNIO DE 2013)
 
 V. Dirigir y supervisar el desarrollo y mantenimiento requeridos para operar adecuadamente las diferentes áreas del Sistema.
 
-#### Sección Tercera. Coordinación de Servicios Generales
+#### Sección Primera. Coordinación de Personal
 
-Atribuciones de la Coordinación de Servicios Generales
+Atribuciones de la Coordinación de Personal
 
 ###### Artículo 31.
 
@@ -589,13 +709,19 @@ IV. Supervisar el correcto desempeño de las atribuciones del personal a su carg
 
 V. Las demás que le encomiende el Director de Desarrollo Institucional y le asignen otras disposiciones normativas.
 
-#### Sección Primera. Coordinación de Orientación Alimentaria
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2013)</small>
 
-Atribuciones de la Coordinación de Orientación Alimentaria
+#### Sección Segunda. Coordinación de Evaluación y Desarrollo
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+Atribuciones de la Coordinación de Evaluación y Desarrollo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2013)</small>
 
 ###### Artículo 32.
 
-El Coordinador de Procesos y Capacitación tendrá las atribuciones siguientes:
+El Coordinador de Evaluación y Desarrollo tendrá las atribuciones siguientes:
 
 I. Proponer, planear, organizar, ejecutar y vigilar la aplicación de lineamientos que tengan por objeto promover la mejora continua de los procesos y servicios generados por el Sistema;
 
@@ -607,31 +733,25 @@ IV. Supervisar el correcto desempeño de las atribuciones del personal a su carg
 
 V. Las demás que le encomiende el Director de Desarrollo Institucional y le asignen otras disposiciones normativas.
 
-#### Sección Segunda. Coordinación de Programas Alimentarios
-
-Atribuciones de la Coordinación de Programas Alimentarios
+#### Sección Tercera. Coordinación de Servicios Generales
 
 ###### Artículo 33.
 
-El Coordinador de Servicios Generales tendrá las atribuciones siguientes:
+(DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
-I. Proponer, planear, organizar, dar seguimiento y vigilar las acciones de mantenimiento, conservación y desarrollo de los inmuebles del Sistema;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2013)</small>
 
-II. Organizar, dar seguimiento y vigilar los eventos especiales que se realicen con infraestructura del Sistema;
+### Capítulo III. Coordinación de Planeación y Seguimiento
 
-III. Comunicarse y coordinarse con el resto de las áreas del Sistema para el cumplimiento de sus funciones;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
 
-IV. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
+Atribuciones de la Coordinación de Planeación y Seguimiento
 
-V. Las demás que le encomiende el Director de Desarrollo Institucional y le asignen otras disposiciones normativas.
-
-### Capítulo III. Coordinación de Programación y Seguimiento
-
-Atribuciones de la Coordinación de Programación y Seguimiento
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2013)</small>
 
 ###### Artículo 34.
 
-El Coordinador de Programación y Seguimiento tendrá las siguientes atribuciones:
+El Coordinador de Planeación y Seguimiento tendrá las siguientes atribuciones:
 
 I. Dar seguimiento a los indicadores de desempeño en ámbitos sociales relacionados con la familia y proponer estrategias para mejorarlos;
 
@@ -641,13 +761,23 @@ III. Coordinar el proceso de conformación de propuestas de proyectos de inversi
 
 IV. Diseñar, instrumentar y mantener un sistema de planeación y seguimiento, así como informar y asesorar a las áreas del Sistema acerca del mismo;
 
-V. Supervisar y controlar el sistema de seguimiento de los instrumentos del Sistema Estatal de Población y de los programas operativos anuales, a fin de asegurar el cumplimiento de los elementos que corresponden al Sistema;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+V. Supervisar y controlar el sistema de seguimiento de los instrumentos del Sistema de Inversión Estatal y de los programas operativos anuales;
 
 VI. Coordinar la integración de información del Sistema en el Informe de Gobierno;
 
-VII. Representar al Director General, cuando éste así lo determine, en los consejos, comisiones, comités y demás espacios de trabajo en materia de estadística, inversión y planeación; y
+VII. Representar al Director General, cuando éste así lo determine, en los consejos, comisiones, comités y demás espacios de trabajo en materia de estadística, inversión y planeación; y (sic)
 
 VIII. Colaborar en la integración y elaboración del Informe de la Presidencia del Sistema.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+IX. Colaborar en la planeación y ejecución de proyectos de información en materia de asistencia social, para realizar estrategias y acciones por parte del Sistema; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+X. Diseñar metodologías adecuadas para el acopio y utilización de la información estadística y geográfica generada en la operación de los programas del Sistema y de fuentes externas, para desarrollar productos de información.
 
 ### Capítulo IV. Coordinación General de Asuntos Jurídicos
 
@@ -667,11 +797,41 @@ IV. Intervenir en la tramitación y resolución de los juicios y procedimientos 
 
 V. Proponer al Director General la elaboración de los proyectos de reglamentos, decretos y acuerdos gubernativos, así como demás actos jurídicos administrativos, en materia de asistencia social;
 
-VI. Tramitar los procedimientos de responsabilidad por la probable existencia de faltas administrativas al interior del Sistema, previo acuerdo con el Director General;
+VI. (DEROGADA, P.O. 21 DE JUNIO DE 2013)
 
-VII. Dar seguimiento e instrumentar acciones tendientes a resarcir el incumplimiento de las obligaciones adquiridas por terceros para con el Sistema; y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+VII. Dar seguimiento e instrumentar las acciones tendientes a resarcir los daños y perjuicios que se produzcan al Sistema por parte de terceros, cuando así se solicite por el resto de las áreas Staff y Direcciones;
 
 VIII. Expedir certificaciones de los documentos existentes en los archivos del Sistema.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+IX. Coordinar, recabar y entregar la información que le sea solicitada por conducto de la Unidad de Acceso a la Información Pública del Poder Ejecutivo, en los plazos que marca la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+X. Realizar las gestiones necesarias al interior del Sistema, para localizar y aglutinar los documentos en los que conste la información solicitada;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+XI. Elaborar la propuesta de clasificación de la información que corresponda, con base en la Ley y la normativa vigente para su revisión, y en su caso, aprobación;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+XII. Requerir a las unidades responsables, la información que corresponda a la solicitud de acceso a la información pública;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+XIII. Solicitar a la Unidad de Acceso a la Información Pública del Poder Ejecutivo, cuando así lo amerite, la ampliación del plazo para dar respuesta a las solicitudes de acceso a la información;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+XIV. Participar en las reuniones de trabajo y seguimiento convocadas por la Unidad de Acceso a la Información Pública del Poder Ejecutivo; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+XV. Realizar las gestiones necesarias para mantener actualizado el portal de transparencia de acceso a la información pública correspondiente al Sistema.
 
 ### Capítulo V. Coordinación de Tecnologías de la Información
 
@@ -735,25 +895,9 @@ IV. Promover la integración y participación de los voluntariados municipales.
 
 ### Capítulo VIII. Coordinación de la Unidad de Enlace
 
-Atribuciones de la Coordinación de la Unidad de Enlace
-
 ###### Artículo 39.
 
-El Coordinador de la Unidad de Enlace tendrá las siguientes atribuciones:
-
-I. Coordinar, recabar y entregar la información que le sea solicitada por conducto de la Unidad de Acceso a la Información Pública del Poder Ejecutivo, en los plazos que marca la Ley de Acceso a la Información Pública para el Estado y los municipios de Guanajuato;
-
-II. Realizar las gestiones necesarias al interior del Sistema, para localizar y aglutinar los documentos en los que conste la información solicitada;
-
-III. Elaborar la propuesta de clasificación de la información que corresponda, con base en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, el Reglamento de Transparencia y Acceso a la Información Pública del Poder Ejecutivo del Estado de Guanajuato, criterios de clasificación y desclasificación remitiéndola, a la Unidad de Acceso a la Información Pública del Poder Ejecutivo, para su revisión y en su caso, aprobación;
-
-IV. Requerir a las unidades responsables, la información que corresponda a la solicitud de acceso a la información pública;
-
-V. Solicitar a la Unidad de Acceso a la Información Pública del Poder Ejecutivo cuando así lo amerite la ampliación del plazo para dar respuesta a las solicitudes de acceso a la información;
-
-VI. Participar en las reuniones de trabajo y seguimiento convocadas por la Unidad de Acceso a la Información Pública del Poder Ejecutivo; y
-
-VII. Actualizar en el portal de transparencia de acceso a la información pública correspondiente al Sistema.
+(DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
 ## Título Cuarto. Direcciones
 
@@ -787,9 +931,9 @@ V. Participar coordinadamente con las dependencias e instituciones, públicas y 
 
 VI. Dirigir, supervisar y evaluar las acciones de apoyo a comunidades afectadas por situaciones de riesgo, emergencia o desastres naturales en términos del artículo 19 de la Ley.
 
-#### Sección Primera. Coordinación de Fomento a la Vivienda
+#### Sección Primera. Coordinación de Orientación Alimentaria
 
-Atribuciones de la Coordinación de fomento a la Vivienda
+Atribuciones de la Coordinación de Orientación Alimentaria
 
 ###### Artículo 42.
 
@@ -809,9 +953,9 @@ VI. Supervisar el correcto desempeño de las atribuciones del personal a su carg
 
 VII. Las demás que le encomiende el Director de Asistencia Alimentaria y le asignen otras disposiciones normativas.
 
-#### Sección Segunda. Coordinación de Programas de Desarrollo Comunitario
+#### Sección Segunda. Coordinación de Programas Alimentarios
 
-Atribuciones de la Coordinación de Programas de Desarrollo Comunitario
+Atribuciones de la Coordinación de Programas Alimentarios
 
 ###### Artículo 43.
 
@@ -863,9 +1007,9 @@ VI. Coordinar, supervisar y coadyuvar con las actividades que en materia de desa
 
 VII. Verificar que los proyectos y programas sean proporcionados a las familias sujetas a la asistencia social.
 
-#### Sección Primera. Coordinación de Prevención de Riesgos Psicosociales
+#### Sección Primera. Coordinación de Fomento a la Vivienda
 
-Atribuciones de la Coordinación de Prevención de Riesgos Psicosociales
+Atribuciones de la Coordinación de fomento a la Vivienda
 
 ###### Artículo 46.
 
@@ -885,9 +1029,9 @@ VI. Supervisar el correcto desempeño de las atribuciones del personal a su carg
 
 VII. Las demás que le encomiende el Director de Desarrollo Familiar y Comunitario y le asignen otras disposiciones normativas.
 
-#### Sección Segunda. Coordinación de Atención a Niños en Situación Extraordinaria
+#### Sección Segunda. Coordinación de Programas de Desarrollo Comunitario
 
-Atribuciones de la Coordinación de Atención a Niños en Situación Extraordinaria
+Atribuciones de la Coordinación de Programas de Desarrollo Comunitario
 
 ###### Artículo 47.
 
@@ -917,9 +1061,13 @@ El Director de Acciones en Favor de la Infancia se auxiliará para el mejor desp
 
 I. Coordinación de Prevención de Riesgos Psicosociales;
 
-II. Coordinación de Atención a Niños en Situación Extraordinaria; y
+II. Coordinación de Atención a Niños en Situación Extraordinaria; y (sic)
 
 III. Coordinación de Desarrollo Integral de la Primera Infancia.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+IV. Coordinación de Orientación Familiar.
 
 Atribuciones de la Dirección de Acciones en Favor de la Infancia
 
@@ -945,9 +1093,9 @@ VIII. Participar en actividades de investigación y elaboración de diagnóstico
 
 IX. Establecer mecanismos de coordinación institucional que coadyuven al cumplimiento de las normas, criterios y lineamientos emitidos por el Sistema, el Sistema Nacional para el Desarrollo Integral de la Familia y las demás instancias normativas.
 
-#### Sección Tercera. Coordinación de Desarrollo Integral de la Primera Infancia
+#### Sección Primera. Coordinación de Prevención de Riesgos Psicosociales
 
-Atribuciones de la Coordinación de Desarrollo Integral de la Primera Infancia
+Atribuciones de la Coordinación de Prevención de Riesgos Psicosociales
 
 ###### Artículo 50.
 
@@ -967,9 +1115,9 @@ VI. Supervisar el correcto desempeño de las atribuciones del personal a su carg
 
 VII. Las demás que le encomiende el Director de Acciones en Favor de la Infancia y le asignen otras disposiciones normativas.
 
-#### Sección Primera. Procuraduría en Materia de Asistencia Social
+#### Sección Segunda. Coordinación de Atención a Niños en Situación Extraordinaria
 
-Atribuciones de la Procuraduría en Materia de Asistencia Social
+Atribuciones de la Coordinación de Atención a Niños en Situación Extraordinaria
 
 ###### Artículo 51.
 
@@ -989,9 +1137,9 @@ VI. Supervisar el correcto desempeño de las atribuciones del personal a su carg
 
 VII. Las demás que le encomiende el Director de Acciones en Favor de la Infancia y le asignen otras disposiciones normativas.
 
-#### Sección Segunda. Coordinación de Rehabilitación y Asistencia Social para Niños y Adolescentes en Conflicto con la Ley Penal
+#### Sección Tercera. Coordinación de Desarrollo Integral de la Primera Infancia
 
-Atribuciones de la Coordinación de Rehabilitación y Asistencia Social para Niños y Adolescentes en Conflicto con la Ley Penal
+Atribuciones de la Coordinación de Desarrollo Integral de la Primera Infancia
 
 ###### Artículo 52.
 
@@ -1011,11 +1159,35 @@ VI. Supervisar el correcto desempeño de las atribuciones del personal a su carg
 
 VII. Las demás que le encomiende el Director de Acciones en Favor de la Infancia y le asignen otras disposiciones normativas.
 
-#### Sección Tercera. Coordinación de Servicios Asistenciales
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE JUNIO DE 2013)</small>
 
-Atribuciones de la Coordinación de Servicios Asistenciales
+#### Sección Cuarta. Coordinación de Orientación Familiar
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+Atribuciones de la Coordinación de Orientación familiar
+
+###### Artículo 52 Bis.
+
+El Coordinador de Orientación Familiar tendrá las atribuciones siguientes:
+
+I. Proponer los programas y acciones en la materia de su competencia;
+
+II. Planear, dirigir, dar seguimiento, vigilar y evaluar el cumplimiento de los programas y acciones del Sistema que, redundando en beneficio de niñas, niños y adolescentes, tengan por objeto promover y fortalecer la cultura de valores en familia, así como las conductas protectoras del buen trato familiar;
+
+III. Vincularse y coordinarse con los sistemas municipales para la ejecución de los programas y acciones de su competencia;
+
+IV. Capacitar a los responsables de la operación de los programas y acciones de su responsabilidad;
+
+V. Rendir los informes que se le requieran sobre la ejecución de sus atribuciones y el cumplimiento de los objetivos y metas de los programas y acciones a su cargo;
+
+VI. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
+
+VII. Las demás que le encomiende el Director de Acciones en Favor de la Infancia y le asignen otras disposiciones normativas.
 
 ### Capítulo IV. Dirección de Protección Jurídica Familiar
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JULIO DE 2013 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 Unidades adscritas a la Dirección de Protección Jurídica Familiar
 
@@ -1025,9 +1197,13 @@ El Director de Protección Jurídica Familiar se auxiliará para el mejor despac
 
 I. Procuraduría en Materia de Asistencia Social;
 
-II. Coordinación de Rehabilitación y Asistencia Social para Niños y Adolescentes en Conflicto con la Ley Penal; y
+II. Coordinación de Rehabilitación y Asistencia Social para Niños y Adolescentes en Conflicto con la Ley Penal; y (sic)
 
 III. Coordinación de Servicios Asistenciales.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+V (SIC). Coordinación de Fortalecimiento de Organizaciones de la Sociedad Civil.
 
 Atribuciones de la Dirección de Protección Jurídica Familiar.
 
@@ -1049,9 +1225,9 @@ VI. Coordinar las campañas estatales de regularización del estado civil de las
 
 VII. Fungir como autoridad central en la entidad en materia de adopción internacional, de acuerdo con los tratados internacionales suscritos por el Estado Mexicano en la materia.
 
-#### Sección Primera. Coordinación de Rehabilitación
+#### Sección Primera. Procuraduría en Materia de Asistencia Social
 
-Atribuciones de la Coordinación de Rehabilitación
+Atribuciones de la Procuraduría en Materia de Asistencia Social
 
 ###### Artículo 55.
 
@@ -1071,9 +1247,9 @@ VI. Supervisar el correcto desempeño de las atribuciones del personal a su carg
 
 VII. Las demás que le encomiende el Director de Protección Jurídica Familiar y le asignen otras disposiciones normativas.
 
-#### Sección Segunda. Coordinación del Centro Estatal de Rehabilitación
+#### Sección Segunda. Coordinación de Rehabilitación y Asistencia Social para Niños y Adolescentes en Conflicto con la Ley Penal
 
-Atribuciones de la Coordinación del Centro Estatal de Rehabilitación
+Atribuciones de la Coordinación de Rehabilitación y Asistencia Social para Niños y Adolescentes en Conflicto con la Ley Penal
 
 ###### Artículo 56.
 
@@ -1093,9 +1269,9 @@ VI. Supervisar el correcto desempeño de las atribuciones del personal a su carg
 
 VII. Las demás que le encomiende el Director de Protección Jurídica Familiar y le asignen otras disposiciones normativas.
 
-#### Sección Tercera. Coordinación de Rehabilitación Visual
+#### Sección Tercera. Coordinación de Servicios Asistenciales
 
-Atribuciones de la Coordinación de Rehabilitación Visual
+Atribuciones de la Coordinación de Servicios Asistenciales
 
 ###### Artículo 57.
 
@@ -1115,183 +1291,103 @@ VI. Supervisar el correcto desempeño de las atribuciones del personal a su carg
 
 VII. Las demás que le encomiende el Director de Protección Jurídica Familiar y le asignen otras disposiciones normativas.
 
-#### Sección Cuarta. Coordinación de Inclusión Social para Personas con Discapacidad
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE JUNIO DE 2013)</small>
 
-Atribuciones de la Coordinación de Inclusión Social para Personas con Discapacidad
+#### Sección Cuarta. Coordinación de Fortalecimiento de Organizaciones de la Sociedad Civil
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+Atribuciones de la Coordinación de Fortalecimiento de Organizaciones de la Sociedad Civil
+
+###### Artículo 57 Bis.
+
+El Coordinador de Fortalecimiento de Organizaciones de la Sociedad Civil tendrá las atribuciones siguientes:
+
+I. Proponer los programas y acciones en la materia de su competencia;
+
+II. Planear, dirigir, dar seguimiento, vigilar y evaluar el cumplimiento de los programas y acciones del Sistema tendientes a promover la formación y a fortalecer el desarrollo y funcionamiento de organizaciones de la sociedad civil que tengan por objeto brindar asistencia social a grupos vulnerables, verificando que tales organizaciones estén legalmente constituidas y su funcionamiento se apegue a la normatividad correspondiente en materia de asistencia social;
+
+III. Vincularse y coordinarse con los sistemas municipales para la ejecución de los programas y acciones de su competencia;
+
+IV. Capacitar a los responsables de la operación de los programas y acciones a su cargo;
+
+V. Rendir los informes que se le requieran sobre la ejecución de sus atribuciones y el cumplimiento de los objetivos y metas de los programas y acciones o su cargo;
+
+VI. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
+
+VII. Las demás que le encomiende el Director de Protección Jurídica Familiar y le asignen otras disposiciones normativas.
 
 ### Capítulo V. Dirección de Rehabilitación e Inclusión Social de Personas con Discapacidad
 
-Unidades Adscritas a la Dirección de Rehabilitación e Inclusión Social de Personas con Discapacidad
-
 ###### Artículo 58.
 
-El Director de Rehabilitación e Inclusión Social de Personas con Discapacidad se auxiliará para el mejor despacho de los asuntos de su competencia, en las siguientes unidades:
-
-I. Coordinación de Rehabilitación;
-
-II. Coordinación del Centro Estatal de Rehabilitación;
-
-III. Coordinación de Rehabilitación Visual;
-
-IV. Coordinación de Inclusión Social para Personas con Discapacidad; y
-
-V. Coordinación de Atención Integral a Jóvenes.
-
-Atribuciones de la Dirección de Rehabilitación e Inclusión Social de Personas con Discapacidad
+(DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
 ###### Artículo 59.
 
-El Director de Rehabilitación e Inclusión Social de Personas con Discapacidad, tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
-I. Proponer y ejecutar las políticas, estrategias y procesos en materia de asistencia social e inclusión social a personas con discapacidad;
-
-II. Proponer, coordinar, dirigir, controlar, supervisar y evaluar la ejecución de los programas y acciones en materia (sic) asistencia social e inclusión social;
-
-III. Promover y dirigir la creación e implementación de programas y acciones en materia de rehabilitación e inclusión social para el desarrollo de personas con discapacidad;
-
-IV. Supervisar y administrar el funcionamiento óptimo de los centros de rehabilitación sujetos a su responsabilidad;
-
-V. Promover la difusión en coordinación con la Coordinación de Comunicación Social, de los programas que brinda el Sistema a las personas con discapacidad;
-
-VI. Fomentar la colaboración y participación de instituciones públicas y privadas en acciones que el Sistema emprenda, para el bienestar de las personas con discapacidad e incorporación de las mismas al desarrollo;
-
-VII. Estructurar y difundir los programas de detección oportuna y estimulación temprana;
-
-VIII. Coordinar la Red Estatal de Rehabilitación del Sistema;
-
-IX. Coordinar acciones de trabajo en conjunto con organismos estatales, nacionales e internacionales con el objeto de llevar a cabo la instrumentación de programas especiales que el Sistema requiera en beneficio de las personas con discapacidad;
-
-X. Coordinar las actividades de la Comisión Estatal para la Integración Social de las Personas con Discapacidad; así como presentar informes periódicos a la Dirección General del Sistema;
-
-XI. Promover la participación de personas o grupos voluntarios en acciones determinadas dentro de los programas de discapacidad; y
-
-XII. Fomentar la divulgación de una cultura de integración social basada en el respeto y la dignidad a las personas con discapacidad.
-
-#### Sección Quinta. Coordinación de Atención Integral a Jóvenes
-
-Atribuciones de la Coordinación de Atención Integral a Jóvenes
+#### Sección Primera. Coordinación de Rehabilitación
 
 ###### Artículo 60.
 
-El Coordinador de Rehabilitación tendrá las atribuciones siguientes:
+(DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
-I. Proponer los programas y acciones en la materia de su competencia;
-
-II. Planear, dirigir, dar seguimiento, vigilar y evaluar el cumplimiento de los programas y acciones del Sistema que tengan por objeto brindar atención a personas con discapacidad neuromusculoesquelética, preferentemente en estado de vulnerabilidad, a través de los sistemas municipales;
-
-III. Vincularse y coordinarse con los sistemas municipales para la ejecución de los programas y acciones de su competencia;
-
-IV. Capacitar a los responsables de la operación de los programas y acciones de su responsabilidad;
-
-V. Rendir los informes que se le requieran sobre la ejecución de sus atribuciones y el cumplimiento de los objetivos y metas de los programas y acciones a su cargo;
-
-VI. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
-
-VII. Las demás que le encomiende el Director de Rehabilitación e Inclusión Social de Personas con Discapacidad y le asignen otras disposiciones normativas.
-
-#### Sección Primera. Coordinación de Atención al Adulto Mayor
-
-Atribuciones de la Coordinación de Atención al Adulto Mayor
+#### Sección Segunda. Coordinación del Centro Estatal de Rehabilitación
 
 ###### Artículo 61.
 
-El Coordinador del Centro Estatal de Rehabilitación tendrá las atribuciones siguientes:
+(DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
-I. Proponer los programas y acciones en la materia de su competencia;
-
-II. Planear, dirigir, dar seguimiento, vigilar y evaluar el cumplimiento de los programas y acciones del Sistema que tengan por objeto brindar atención a personas con discapacidades neuromusculoesquelética y de lenguaje por conducto del Centro Estatal de Rehabilitación;
-
-III. Vincularse y coordinarse con los sistemas municipales para la ejecución de los programas y acciones de su competencia;
-
-IV. Capacitar a los responsables de la operación de los programas y acciones de su responsabilidad;
-
-V. Rendir los informes que se le requieran sobre la ejecución de sus atribuciones y el cumplimiento de los objetivos y metas de los programas y acciones a su cargo;
-
-VI. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
-
-VII. Las demás que le encomiende el Director de Rehabilitación e Inclusión Social de Personas con Discapacidad y le asignen otras disposiciones normativas.
-
-#### Sección Segunda. Coordinación de Vinculación y Participación Ciudadana
-
-Atribuciones de la Coordinación de Vinculación y Participación Ciudadana
+#### Sección Tercera. Coordinación de Rehabilitación Visual
 
 ###### Artículo 62.
 
-El Coordinador de Rehabilitación Visual tendrá las atribuciones siguientes:
+(DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
-I. Proponer los programas y acciones en la materia de su competencia;
-
-II. Planear, dirigir, dar seguimiento, vigilar y evaluar el cumplimiento de los programas y acciones del Sistema que tengan por objeto brindar atención médica a la población en estado de vulnerabilidad con alteraciones visuales;
-
-III. Vincularse y coordinarse con los sistemas municipales para la ejecución de los programas y acciones de su competencia;
-
-IV. Capacitar a los responsables de la operación de los programas y acciones de su responsabilidad;
-
-V. Rendir los informes que se le requieran sobre la ejecución de sus atribuciones y el cumplimiento de los objetivos y metas de los programas y acciones a su cargo;
-
-VI. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
-
-VII. Las demás que le encomiende el Director de Rehabilitación e Inclusión Social de Personas con Discapacidad y le asignen otras disposiciones normativas.
-
-#### Sección Tercera. Coordinación de Centros de Desarrollo Gerontológico
-
-Atribuciones de la Coordinación de Centros de Desarrollo Gerontológico
+#### Sección Cuarta. Coordinación de Inclusión Social para Personas con Discapacidad
 
 ###### Artículo 63.
 
-El Coordinador de Inclusión Social para Personas con Discapacidad tendrá las atribuciones siguientes:
+(DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
-I. Proponer los programas y acciones en la materia de su competencia;
-
-II. Planear, dirigir, dar seguimiento, vigilar y evaluar el cumplimiento de los programas y acciones del Sistema que tengan por objeto promover y fortalecer la inclusión de personas con discapacidad en todos los ámbitos de la vida a fin de propiciar el pleno goce de sus derechos;
-
-III. Vincularse y coordinarse con los sistemas municipales para la ejecución de los programas y acciones de su competencia;
-
-IV. Capacitar a los responsables de la operación de los programas y acciones de su responsabilidad;
-
-V. Rendir los informes que se le requieran sobre la ejecución de sus atribuciones y el cumplimiento de los objetivos y metas de los programas y acciones a su cargo;
-
-VI. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
-
-VII. Las demás que le encomiende el Director de Rehabilitación e Inclusión Social de Personas con Discapacidad y le asignen otras disposiciones normativas.
+#### Sección Quinta. Coordinación de Atención Integral a Jóvenes
 
 ###### Artículo 64.
 
-El Coordinador de Atención Integral a Jóvenes tendrá las atribuciones siguientes:
+(DEROGADO, P.O. 21 DE JUNIO DE 2013)
 
-I. Proponer los programas y acciones en la materia de su competencia;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2013)</small>
 
-II. Planear, dirigir, dar seguimiento, vigilar y evaluar el cumplimiento de los programas y acciones del Sistema que tengan por objeto brindar atención médica y psicológica a personas con adicciones y trastornos emotivo-conductuales;
+### Capítulo VI. Dirección de Atención para Adultos Mayores
 
-III. Vincularse y coordinarse con los sistemas municipales para la ejecución de los programas y acciones de su competencia;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
 
-IV. Capacitar a los responsables de la operación de los programas y acciones de su responsabilidad;
+Unidades adscritas a la Dirección de Atención para Adultos Mayores
 
-V. Rendir los informes que se le requieran sobre la ejecución de sus atribuciones y el cumplimiento de los objetivos y metas de los programas y acciones a su cargo;
-
-VI. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
-
-VII. Las demás que le encomiende el Director de Rehabilitación e Inclusión Social de Personas con Discapacidad y le asignen otras disposiciones normativas.
-
-### Capítulo VI. Dirección de Atención para Adultos Mayores y Participación Social
-
-Unidades adscritas a la dirección de Atención para Adultos Mayores y Participación Social
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2013)</small>
 
 ###### Artículo 65.
 
-El Director de Atención para Adultos Mayores y Participación Social se auxiliará para el mejor despacho de los asuntos de su competencia, en las siguientes unidades:
+El Director de Atención para Adultos Mayores se auxiliará, para el mejor despacho de los asuntos de su competencia, en las siguientes unidades:
 
 I. Coordinación de Atención al Adulto Mayor;
 
-II. Coordinación de Vinculación y Participación Ciudadana; y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+II. Coordinación de Vinculación; y
 
 III. Coordinación de Centros de Desarrollo Gerontológico.
 
-Atribuciones de la Dirección de Atención para los Adultos Mayores y Participación Social
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+Atribuciones de la Dirección de Atención para Adultos Mayores
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2013)</small>
 
 ###### Artículo 66.
 
-El Director de Atención para Adultos Mayores y Participación Social, tendrá las siguientes atribuciones:
+El Director de Atención para Adultos Mayores tendrá las siguientes atribuciones:
 
 I. Proponer y ejecutar las políticas, estrategias y procesos que tengan como finalidad mejorar la calidad de vida de los adultos mayores en el estado;
 
@@ -1300,6 +1396,10 @@ II. Planear, organizar, dirigir, controlar, supervisar y evaluar el desarrollo d
 III. Promover y dirigir la creación e implementación de programas y acciones que permitan que la población mayor adulta en estado de vulnerabilidad alcance un nivel óptimo de vida; y
 
 IV. Proponer, dirigir, supervisar y evaluar la aplicación de modelos de atención gerontológica comunitaria que contribuya a cubrir de forma integral las necesidades del adulto mayor.
+
+#### Sección Primera. Coordinación de Atención al Adulto Mayor
+
+Atribuciones de la Coordinación de Atención al Adulto Mayor
 
 ###### Artículo 67.
 
@@ -1317,11 +1417,23 @@ V. Rendir los informes que se le requieran sobre la ejecución de sus atribucion
 
 VI. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
 
-VII. Las demás que le encomiende el Director de Atención para Adultos Mayores y Participación Social y le asignen otras disposiciones normativas.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+VII. Las demás que le encomiende el Director de Atención para Adultos Mayores, y le asignen otras disposiciones normativas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2013)</small>
+
+#### Sección Segunda. Coordinación de Vinculación
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+
+Atribuciones de la Coordinación de Vinculación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2013)</small>
 
 ###### Artículo 68.
 
-El Coordinador de Vinculación y Participación Ciudadana tendrá las atribuciones siguientes:
+El Coordinador de Vinculación tendrá las atribuciones siguientes:
 
 I. Planear, dirigir, dar seguimiento, vigilar y evaluar el cumplimiento de los programas y acciones del Sistema que tengan por objeto gestionar la participación de entes públicos y privados en la asistencia social del adulto mayor;
 
@@ -1335,7 +1447,13 @@ V. Rendir los informes que se le requieran sobre la ejecución de sus atribucion
 
 VI. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
 
-VII. Las demás que le encomiende el Director de Atención para Adultos Mayores y Participación Social, y le asignen otras disposiciones normativas.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+VII. Las demás que le encomiende el Director de Atención para Adultos Mayores, y le asignen otras disposiciones normativas.
+
+#### Sección Tercera. Coordinación de Centros de Desarrollo Gerontológico
+
+Atribuciones de la Coordinación de Centros de Desarrollo Gerontológico
 
 ###### Artículo 69.
 
@@ -1353,7 +1471,9 @@ V. Rendir los informes que se le requieran sobre la ejecución de sus atribucion
 
 VI. Supervisar el correcto desempeño de las atribuciones del personal a su cargo; y
 
-VII. Las demás que le encomiende el Director de Atención para Adultos Mayores y Participación Social, y le asignen otras disposiciones normativas.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+VII. Las demás que le encomiende el Director de Atención para Adultos Mayores, y le asignen otras disposiciones normativas.
 
 ## Título Quinto. Órgano de Vigilancia
 
@@ -1399,9 +1519,15 @@ XI. Asesorar a la Dirección General y a los titulares de las unidades administr
 
 XII. Proponer a la Dirección General mecanismos de control operativo y de recursos;
 
-XIII. Participar en las sesiones del comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios; y
+XIII. Participar en las sesiones del comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios; y (sic)
 
-XIV. Las demás que le confiera la Dirección General del Sistema y las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+XIV. Recibir y tramitar los procedimientos de responsabilidad por la probable existencia de faltas administrativas al interior del Sistema.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+XV. Las demás que le confiera la Dirección General del Sistema y las disposiciones legales aplicables.
 
 ## Título Sexto. Disposiciones Complementarias
 
@@ -1462,3 +1588,9 @@ GERARDO GABRIEL GIL MORALES
 EL SECRETARIO DE SALUD
 
 JUAN LUIS MOSQUEDA GÓMEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE JUNIO DE 2013.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
