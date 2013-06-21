@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2013-03-08"
+last_updated: "2013-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -873,9 +873,17 @@ Requisitos para la substitución.- Para los efectos de la substitución, se requ
 
 I.- El reo haya delinquido por primera vez;
 
-II.- Pague o garantice, a satisfacción del Juez, la multa y la reparación de los daños y perjuicios causados; y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
-III.- La pena substitutiva sea más adecuada que la prisión, en atención a las condiciones personales del sujeto y a los fines que con ella se persiguen.
+II.- Pague o garantice, a satisfacción del Juez, la multa y la reparación de los daños y perjuicios causados;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+III.- La pena substitutiva sea más adecuada que la prisión, en atención a las condiciones personales del sujeto y a los fines que con ella se persiguen; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+
+IV.- Que no se trate de delitos calificados como graves.
 
 ###### Artículo 87.
 
@@ -4968,3 +4976,7 @@ SEGUNDO.- Se procesarán bajo las disposiciones contenidas por el Artículo 201 
 P.O. 8 DE MARZO DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE JUNIO DE 2013.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
