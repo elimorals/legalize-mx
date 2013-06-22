@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2013-06-11"
+last_updated: "2013-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -139,33 +139,37 @@ XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, 
 
 XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, la productividad, el ahorro y el bienestar general;
 
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XIII.- Fomentar la educación financiera;
+
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-XIII. Propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
+XIV.- Propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XIV.- Coordinar con las diversas autoridades de la Entidad, programas permanentes de educación y seguridad vial, necesarios para la prevención de accidentes;
+XV.- Coordinar con las diversas autoridades de la Entidad, programas permanentes de educación y seguridad vial, necesarios para la prevención de accidentes;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XV.- Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
+XVI.- Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XVI.- Fomentar los valores y principios del cooperativismo;
+XVII.- Fomentar los valores y principios del cooperativismo;
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-XVII. Promover y fomentar la lectura y el libro, con el propósito de fortalecer la vida cultural de niños, jóvenes y adultos;
+XVIII.- Promover y fomentar la lectura y el libro, con el propósito de fortalecer la vida cultural de niños, jóvenes y adultos;
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-XVIII. Difundir los derechos y deberes de niños, niñas y adolescentes, así como las formas de protección con que cuentan para ejercitarlos, y
+XIX.- Difundir los derechos y deberes de niños, niñas y adolescentes, así como las formas de protección con que cuentan para ejercitarlos, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2011)</small>
 
-XIX. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad, o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
+XX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad, o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -237,11 +241,11 @@ El Gobierno del Estado otorgará un salario profesional para que los trabajadore
 
 Las autoridades educativas establecerán mecanismos que propicien la permanencia de los maestros frente a grupo, con la posibilidad para éstos de ir obteniendo mejores condiciones de vida y mayor reconocimiento social.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 18.
 
-Las autoridades educativas otorgarán reconocimientos, distinciones, estímulos y recompensas a los educadores que se destaquen en el ejercicio de su profesión y, en general, realizarán actividades que propicien mayor aprecio social por la labor desempeñada por el magisterio. Además, establecerán mecanismos de estímulo a la labor docente con base en la evaluación.
+Las autoridades educativas otorgarán anualmente reconocimientos, distinciones, estímulos y recompensas a los docentes de los servicios educativos públicos, organismos descentralizados y órganos desconcentrados que se destaquen en el ejercicio de su profesión; y, en general, realizarán actividades que propicien mayor aprecio social por la labor desempeñada por el magisterio.
 
 ###### ARTICULO 19.
 
@@ -1828,6 +1832,24 @@ P.O. 11 DE JUNIO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2013.
+
+DECRETO No. 161, POR EL QUE SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 9, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Ley del Presupuesto de Egresos del Estado, de cada ejercicio fiscal, en el rubro educativo, asignará partida que permita cumplir lo dispuesto en este Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2013.
+
+DECRETO No. 162, POR EL QUE SE REFORMA EL ARTÍCULO 18, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 ## TRANSITORIOS
 
