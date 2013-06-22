@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-81582
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2013-03-16"
+last_updated: "2013-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NAY"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
 
-Ley publicada en le Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 25 de Mayo de 2011.
+Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 25 de Mayo de 2011.
 
 Al margen un Sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Nayarit.
 
@@ -43,131 +43,403 @@ Ley de Pesca y Acuacultura Sustentables para el Estado de Nayarit
 
 ### Capítulo I. Generalidades
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta ley son de orden público e interés social y tiene por objeto regular, fomentar y administrar el aprovechamiento integral y sustentable de los recursos pesqueros y acuícolas en cuerpos de agua donde el Estado ejerce jurisdicción, de conformidad con la Ley General de Pesca y Acuacultura Sustentables.
+Las disposiciones de esta ley son de orden público e interés social y tienen por objeto planear, regular, fomentar y administrar el aprovechamiento integral y sustentable de los recursos pesqueros y acuícolas en el ámbito de competencia del Estado, con el fin de propiciar su desarrollo integral y sustentable, estableciendo las bases para el ejercicio de sus atribuciones que en términos de la Ley General de Pesca y Acuacultura Sustentables y su Reglamento, le competen al Estado y sus municipios, bajo el principio de concurrencia previsto en la Constitución Política de los Estados Unidos Mexicanos.
 
-###### Artículo 2
+###### Artículo 2.
 
 Son objetivos de la presente ley:
 
 I. Establecer las bases para el fomento y desarrollo sustentable de la pesca y la acuacultura en el Estado;
 
-II. Regular la planeación y el ordenamiento de las actividades pesqueras y acuícolas en la Entidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+II. Instrumentar y regular la planeación, el ordenamiento y aprovechamiento de las actividades pesqueras y acuícolas en la Entidad;
 
 III. Fomentar y garantizar la sanidad e inocuidad pesquera y acuícola;
 
-IV. Impulsar la organización y capacitación de los pescadores y acuicultores para ampliar sus posibilidades de acceso al crédito para la producción;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+IV. Impulsar la organización y capacitación de los pescadores y acuacultores para ampliar sus posibilidades de gestión para la producción;
 
 V. Promover y apoyar la investigación científica y tecnológica en la materia;
 
-VI. Promover las acciones de coordinación entre autoridades estatales y municipales, en donde se garantice la participación de los pescadores y acuicultores y sus organizaciones, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Organizar y promover la comercialización de los productos de la pesca y la acuacultura, así como de sus bienes y servicios.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+VI. Promover las acciones de coordinación entre autoridades de los tres órdenes de gobierno, en donde se garantice la participación de los pescadores y acuacultores y sus organizaciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+VII. Organizar y promover la comercialización de los productos de la pesca y la acuacultura, así como de sus bienes y servicios, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+VIII. Fomentar la industrialización y el valor agregado a los productos pesqueros y acuícolas.
 
 ###### Artículo 3.
 
 Para los efectos de la presente ley, se entenderá por:
 
-I. Acuacultura: El conjunto de actividades dirigidas a la reproducción controlada, preengorda y engorda de especies de la fauna que sean susceptibles de explotación comercial, ornamental o recreativa, realizadas en instalaciones ubicadas en aguas de jurisdicción estatal, por medio de técnicas de cría o cultivo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+I. Acuacultura: El conjunto de actividades dirigidas a la reproducción controlada, preengorda y engorda de especies de la fauna realizadas en instalaciones ubicadas en aguas dulces, marinas y salobres, por medio de técnicas de cría o cultivo, que sean susceptibles de explotación comercial, ornamental o recreativa;
 
 II. Acuacultura comercial: Modalidad de acuacultura que se realiza con el propósito de obtener beneficios económicos;
 
-III. Acuacultura de fomento: Modalidad de acuacultura que tiene como propósito el estudio, la investigación científica y tecnológica y la experimentación en cuerpos de agua de jurisdicción estatal, orientada al desarrollo de biotecnologías o la incorporación de algún tipo de innovación tecnológica, así como la adopción o transferencia de tecnología en alguna etapa del cultivo de especies de flora y fauna cuyo medio de vida, total o parcial, sea el agua;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Acuacultura didáctica: Modalidad de acuacultura que realizan instituciones públicas y privadas de educación e investigación, o personas físicas dedicadas a actividades científicas y técnicas en la materia, teniendo como objetivo la formación, capacitación, enseñanza y actualización de los recursos humanos en la materia;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+III. Acuacultura de Fomento: Modalidad que tiene como propósito el estudio, la investigación científica y tecnológica y la experimentación orientada al desarrollo de biotecnologías o la incorporación de algún tipo de innovación tecnológica, así como la adopción o transferencia de tecnología en alguna etapa del cultivo de especies de flora y fauna cuyo medio de vida, total o parcial sea el agua;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+IV. Acuacultura Didáctica: Modalidad que realizan las instituciones públicas y privadas que tienen como objetivos la formación, capacitación, enseñanza y actualización de los recursos humanos en la materia;
 
 V. Agua dulce continental: Los cuerpos de agua permanentes que se encuentran en el interior del territorio del Estado, con excepción de las aguas continentales que se extiendan al territorio de las entidades federativas colindantes;
 
 VI. Arte de pesca: Es el instrumento, equipo o estructura con que se realiza la captura o extracción de especies de flora y fauna acuáticas;
 
-VII. Carta Estatal: Carta Estatal Pesquera y Acuícola;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Consejo: Consejo Estatal de Pesca y Acuacultura;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-IX. Cuarentena: El tiempo que determine la autoridad competente para mantener en observación los organismos acuáticos, para determinar su calidad sanitaria, en apego a las normas oficiales mexicanas u otras disposiciones que emita el SENASICA;
+VII. Aviso de Arribo: Al documento en el que se reporta a la autoridad competente los volúmenes de captura obtenidos por especie durante una jornada o viaje de pesca;
 
-X. Embarcación menor: Unidad de pesca con o sin motor fuera de borda y con eslora máxima total de 10.5 metros, con o sin sistema de conservación de la captura a base de hielo y con autonomía de navegación de tres días como máximo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI. Esfuerzo pesquero: El número de tripulantes, embarcaciones o artes de pesca que son aplicados en la captura o extracción de una o varias especies, en una zona y periodo determinados;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-XII. Guía de pesca: Es el documento que ampara el transporte por vía terrestre, marítima o aérea, de productos vivos, frescos o congelados provenientes de la acuacultura o de la pesca;
+VIII. Aviso de Cosecha: Al documento en el que se reporta a la autoridad competente, la producción acuícola;
 
-XIII. INAPESCA: Instituto Nacional de Pesca;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIV. Inocuidad: Es la garantía de que el consumo de los productos pesqueros y acuícolas no causa daño en la salud de los consumidores;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-XV. Ley General: Ley General de Pesca y Acuacultura Sustentables;
+IX. Aviso de Producción: Al documento en el que se reporta a la autoridad competente, la producción obtenida en laboratorio acuícola;
 
-XVI. Ordenamiento pesquero: Conjunto de instrumentos cuyo objeto es regular y administrar las actividades pesqueras y acuícolas, induciendo el aprovechamiento sustentable de los recursos pesqueros y acuícolas, basados en la disponibilidad de los mismos, información histórica de niveles de extracción, usos y potenciales de desarrollo y puntos de referencia para el manejo de las pesquerías;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVII. Permiso: Autorización que otorga la Secretaría a las personas físicas o morales para que puedan llevar a cabo actividades de pesca o acuacultura;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-XVIII. Pesca: Es el acto de extraer, capturar o recolectar, por cualquier método o procedimiento, especies biológicas o elementos biogénicos, cuyo medio de vida total, parcial o temporal, sea el agua;
+X. Aviso de Recolección: Es el documento en el que se reporta a la autoridad competente, el número de organismos colectados del medio natural, al amparo de un permiso;
 
-XIX. Pesca comercial: La captura o extracción que se efectúa con propósitos de beneficio económico;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XX. Pesca de consumo doméstico: Es la captura o extracción que se efectúa sin propósito de lucro y con el único objeto de obtener alimento para quien la realiza y sus dependientes económicos;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-XXI. Pesca de fomento: Es la captura o extracción que se realiza con fines de investigación, experimentación, conservación, evaluación de los recursos acuáticos, creación, mantenimiento y reposición de colecciones científicas y desarrollo de nuevas tecnologías;
+XI. Bitácora de Pesca: Al documento de registro y control del quehacer pesquero a bordo de una embarcación, por medio del cual la autoridad competente recibe del pescador el reporte de la actividad que se le ha concesionado o permitido;
 
-XXII. Pesca deportivo-recreativa: Es la captura o extracción que se practica con fines de esparcimiento o recreación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXIII. Pesca didáctica: Es la captura o extracción que realizan las instituciones que realizan instituciones públicas y privadas de educación e investigación, o personas físicas dedicadas a actividades científicas y técnicas en la materia, teniendo como objetivo la formación, capacitación, enseñanza y actualización de los recursos humanos en la materia;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-XXIV. Pesquería: Conjunto de sistemas de producción pesquera, que comprenden en todo o en parte las fases sucesivas de la actividad pesquera como actividad económica, cuyos medios de producción, estructura organizativa y relaciones de producción, ocurren en un ámbito geográfico y temporal definido;
+XII. Carta Estatal: Carta Estatal Pesquera y Acuícola;
 
-XXV. Plan de manejo pesquero: Conjunto de acciones encaminadas al desarrollo de la actividad pesquera de forma equilibrada, integral y sustentable;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXVI. Programa Estatal: Programa Estatal de Pesca y Acuacultura;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-XXVII. Recursos acuícolas: Las especies acuáticas susceptibles de cultivo, sus productos y subproductos;
+XIII. Captura Incidental: La extracción de cualquier especie no comprendida en la concesión o permiso respectivo, ocurrida de manera fortuita;
 
-XXVIII. Recursos pesqueros: Las especies acuáticas, sus productos y subproductos, susceptibles de obtener mediante la captura o extracción, en su estado natural;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXIX. Registro Estatal: Registro Estatal de Pesca y Acuacultura;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-XXX. Repoblación: Es el acto de introducir organismos acuáticos nativos en cualquiera de los estados de su ciclo de vida, en cuerpos de agua con la finalidad de mantener, recuperar o incrementar las poblaciones pesqueras naturales;
+XIV. Certificado de Calidad: Documento que acredita los estándares de calidad alcanzados en el proceso de producción acuícola expedido por la Secretaría;
 
-XXXI. Sanidad acuícola: Es el conjunto de prácticas y medidas establecidas en normas oficiales, encaminadas a la prevención, diagnostico y control de plagas y enfermedades que afectan a las especies acuáticas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXII. Sanitización: Tratamiento especial por el cual se elimina la contaminación microbiológica en determinado producto;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+XV. Certificado de Sanidad Acuícola: Al documento oficial expedido por el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria, o a través de laboratorio acreditado y aprobado en los términos de esta Ley y de la Ley Federal sobre Metrología y Normalización, en el que se hace constar que las especies acuícolas o las instalaciones en las que se producen, se encuentran libres de patógenos causantes de enfermedades;
 
-XXXIII. Secretaría: Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXIV. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-XXXV. Sistema Estatal: Sistema Estatal de Información y Estadística Pesquera y Acuícola;
+XVI. Concesión: Al título que en ejercicio de sus facultades otorga la Comisión Nacional de Pesca, a personas físicas o morales para llevar a cabo la pesca comercial de los recursos de flora y fauna acuáticas en aguas de jurisdicción nacional, así como para la acuacultura, durante un periodo determinado en función de los resultados que prevean los estudios técnicos, económicos y sociales que presente el solicitante, de la naturaleza de las actividades a realizar, de la cuantía de las inversiones necesarias para ello y de su recuperación económica;
 
-XXXVI. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un periodo o zona específica, establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXVII. Zona de escasa prevalencia: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad o plaga de especies acuáticas vivas, en periodos específicos.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XVII. Consejo: Consejo Estatal de Pesca y Acuacultura;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XVIII. Cuarentena: El tiempo que determine la autoridad competente para mantener en observación los organismos acuáticos, para determinar su calidad sanitaria, en apego a las normas oficiales mexicanas u otras disposiciones que emita el SENASICA;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XIX. Embarcación menor: Unidad de pesca con o sin motor fuera de borda y con eslora máxima total de 10.5 metros, con o sin sistema de conservación de la captura a base de hielo y con autonomía de navegación de tres días como máximo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XX. Enfermedad Controlada: Aquellas susceptibles de tratamiento con posibilidades razonables de éxito;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXI. Enfermedad de Alto Riesgo: Aquella cuyo tratamiento tiene un alto índice de dificultad y una escasa posibilidad de éxito, o no tienen tratamiento conocido en el tiempo de su aparición, o tienen una alta capacidad de difusión y contagio;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXII. Esfuerzo Pesquero: El número de tripulantes, embarcaciones o artes de pesca que son aplicados en la captura o extracción de una o varias especies, en una zona y periodo determinados;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXIII. Guía de Pesca: Es el documento que ampara el transporte por vía terrestre, marítima o aérea, de productos vivos, frescos o congelados provenientes de la acuacultura o de la pesca;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXIV. INAPESCA: Instituto Nacional de Pesca; órgano desconcentrado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXV. Inocuidad: Es la garantía de que el consumo de los productos pesqueros y acuícolas no causa daño en la salud de los consumidores;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXVI. Ley General: Ley General de Pesca y Acuacultura Sustentables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXVII. Medidas Sanitarias: Las establecidas en leyes, reglamentos, normas oficiales mexicanas, acuerdos, decretos, lineamientos y demás disposiciones legales aplicables en materia de sanidad pesquera y acuícola para conservar y proteger a los organismos acuáticos, sus productos o subproductos de cualquier tipo de daño, producido con las plagas que los afecten así como la salud humana;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXVIII. Oficial Verificador: Persona calificada y designada por la Secretaría para llevar a cabo la verificación, y en general todos aquellos actos inherentes para la aplicación de la Ley y su Reglamento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXIX. Ordenamiento Pesquero: Conjunto de instrumentos cuyo objeto es regular y administrar las actividades pesqueras y acuícolas, induciendo el aprovechamiento sustentable de los recursos pesqueros y acuícolas, basados en la disponibilidad de los mismos, información histórica de niveles de extracción, usos y potenciales de desarrollo y puntos de referencia para el manejo de las pesquerías;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXX. Permiso: Documento que otorga la Secretaría a las personas físicas o morales para que puedan llevar a cabo actividades de pesca o acuacultura;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXXI. Pesca: Es el acto de extraer, capturar o recolectar por cualquier método o procedimiento, especies biológicas o elementos biogénicos, cuyo medio de vida total, parcial o temporal sea el agua;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXXII. Pesca Comercial: La captura o extracción que se efectúa con propósitos de beneficio económico;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXXIII. Pesca de Consumo Doméstico: Es la captura o extracción que se efectúa sin propósito de lucro y con el único objeto de obtener alimento para quien la realiza y sus dependientes económicos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXXIV. Pesca Didáctica: Es la que realizan las instituciones de educación, reconocidas oficialmente, para llevar a cabo sus programas de capacitación y enseñanza;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXXV. Pesca de Fomento: Es la captura o extracción que se realiza con fines de investigación, experimentación, conservación, evaluación de los recursos acuáticos, creación, mantenimiento y reposición de colecciones científicas y desarrollo de nuevas tecnologías;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXXVI. Pesca Deportivo-Recreativa: Es la captura o extracción que se practica con fines de esparcimiento o recreación; con las artes de pesca previamente autorizadas por esta Ley, reglamentos y las normas oficiales vigentes;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXXVII. Pesquería: Conjunto de sistemas de producción pesquera que comprenden en todo o en parte las fases sucesivas de la actividad pesquera como actividad económica, cuyos medios de producción, estructura organizativa y relaciones de producción, ocurren en un ámbito geográfico y temporal definido;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXXVIII. Plaga: Forma de vida vegetal o animal o agente patogénico, dañino o potencialmente dañino a los organismos acuáticos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XXXIX. Plan de Manejo Pesquero: Conjunto de acciones encaminadas al desarrollo de la actividad pesquera de forma equilibrada, integral y sustentable;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XL. Programa Estatal: Programa Estatal de Pesca y Acuacultura;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XLI. Recursos Acuícolas: Las especies acuáticas susceptibles de cultivo, sus productos y subproductos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XLII. Recursos Pesqueros: Las especies acuáticas, sus productos y subproductos, susceptibles de obtener mediante la captura o extracción, en su estado natural;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XLIII. Registro Estatal: Registro Estatal de Pesca y Acuacultura;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XLIV. Repoblación: Es el acto de introducir organismos acuáticos nativos en cualquiera de los estados de su ciclo de vida, en cuerpos de agua con la finalidad de mantener, recuperar o incrementar las poblaciones pesqueras naturales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XLV. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XLVI. Secretaría: Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca del Gobierno del Estado de Nayarit;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XLVII. Sanidad Acuícola: Es el conjunto de prácticas y medidas establecidas en normas oficiales, encaminadas a la prevención, diagnóstico y control de plagas y enfermedades que afectan a las especies acuáticas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XLVIII. Sanitización: Tratamiento especial por el cual se elimina la contaminación microbiológica en determinado producto;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XLIX. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+L. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+LI. Sistema Estatal de Información: Sistema Estatal de Información y Estadística Pesquera y Acuícola;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+LII. Unidad de Manejo: Se integra con las áreas comprendidas en una zona delimitada, en la que se establece un conjunto de unidades de producción con una infraestructura básica y las instalaciones necesarias para su operación y funcionamiento compartido, operada de forma común;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+LIII. Unidad de Pesca: Es la unidad operacional ocupada en la pesca y formada por el complejo de mano de obra y equipo, que puede llevar a cabo operaciones de pesca;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+LIV. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un periodo o zona específica, establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+LV. Zona de escasa prevalencia: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad o plaga de especies acuáticas vivas, en periodos específicos.
 
 ### Capítulo II. Competencias
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 4.
 
-Son competentes para aplicar y vigilar el cumplimiento de esta ley, en sus respectivos ámbitos:
+Para la aplicación de la presente ley, el Estado y los municipios ejercerán sus atribuciones en materia de pesca y acuacultura sustentables de manera concurrente y de conformidad con la distribución de competencias establecidas en esta ley, en la Ley General y en otros ordenamientos legales aplicables.
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
-
-I. La Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
-
-II. La Secretaría del Medio Ambiente;
-
-III. El Consejo Estatal de Pesca y Acuacultura, y
-
-IV. Los municipios.
+Cuando por razón de la materia, se requiera de la intervención de otras dependencias u organismos del Ejecutivo Estatal, la Secretaría ejercerá sus atribuciones en coordinación con las mismas mediante la suscripción de los instrumentos jurídicos correspondientes.
 
 ###### Artículo 5.
 
 Son atribuciones de la Secretaría:
 
-I. Diseñar y aplicar la política, los instrumentos y programas para la pesca y la acuacultura en cuerpos de agua de jurisdicción estatal, en concordancia con la política nacional en la materia, vinculándolos con los programas nacionales, sectoriales y regionales, y el Plan Estatal de Desarrollo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Formular y ejercer la política local de inspección y vigilancia pesquera y acuícola y participar en las acciones de prevención y combate a la pesca ilegal en términos de la Ley General;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+I. Diseñar y aplicar la política, los instrumentos y programas para la pesca y la acuacultura en concordancia con la política nacional en la materia, vinculándolos con los programas nacionales, sectoriales y regionales y el Plan Estatal de Desarrollo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+II. Formular y ejercer la política local de inspección y vigilancia en materia pesquera y acuícola en términos de la Ley General;
 
 III. Promover la creación de Comités Municipales de Pesca y Acuacultura, en donde se garantice la participación de los pescadores y acuicultores del municipio que se trate, a efecto de impulsar el desarrollo del sector;
 
@@ -183,29 +455,71 @@ VIII. Fomentar las actividades pesqueras y acuícolas en sus diversas modalidade
 
 IX. Fungir como órgano de consulta, promoción y análisis, en la formulación de acciones entre el sector público y privado, a efecto de promover el desarrollo del sector pesquero y acuícola del Estado;
 
-X. Promover, en coordinación con las dependencias del sector y las organizaciones de productores, todas las acciones necesarias para la protección sanitaria de la actividad acuícola;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI. Controlar el transito de los productos y subproductos derivados de la pesca y la acuacultura;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-XII. Establecer, operar y mantener actualizado el Sistema Estatal;
+X. Promover, en coordinación con las dependencias del sector y las organizaciones de productores, todas las políticas públicas para la protección sanitaria de la actividad acuícola;
 
-XIII. Promover y apoyar la construcción, mejora y equipamiento de embarcaciones y artes de pesca, así como la creación y operación de esquemas de financiamiento adecuados para el desarrollo integral de las actividades pesqueras y acuícolas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XI. Regular, fomentar y administrar el aprovechamiento de los recursos pesqueros y acuícolas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XII. Establecer, operar y mantener actualizado el Sistema Estatal de Información;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XIII. Promover y apoyar el desarrollo tecnológico, mejora y equipamiento de embarcaciones y artes de pesca, así como la creación y operación de esquemas de financiamiento adecuados, para el desarrollo integral de las actividades pesqueras y acuícolas;
 
 XIV. Promover el consumo de productos pesqueros y acuícolas, especialmente de las especies que abunden o se cultiven en la Entidad;
 
-XV. Desarrollar programas para fomentar la vinculación entre la inversión nacional y extranjera, y los productores pesqueros y acuícolas de la Entidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVI. Promover el reconocimiento del Estado como zona de escasa prevalencia;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XV. Desarrollar programas para fomentar la vinculación entre la inversión nacional y extranjera de acuerdo a la respectiva competencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XVI. Promover el reconocimiento del Estado como zona de escasa prevalencia de enfermedades y plagas;
 
 XVII. Fomentar la realización de obras e infraestructura básica de uso común, constitución de unidades y laboratorios para la producción de organismos destinados al cultivo de especies, así como plantas de conservación y transformación industrial;
 
-XVIII. Elaborar los planes de manejo, el ordenamiento pesquero y la Carta Estatal, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIX. Las demás que le confiera la presente ley y su reglamento.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XVIII. Elaborar los planes de manejo, el ordenamiento pesquero y la Carta Estatal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XIX. Promover un plan integral de rehabilitación de los sistemas lagunarios, estuarinos y aguas continentales, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XX. Las demás que le confiera la presente ley y su reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 6.
 
-El Consejo Estatal de Pesca y Acuacultura es un organismo de consulta, promoción y análisis, para la formulación y evaluación de las acciones que se emprendan en materia de pesca y acuacultura en el Estado, y tendrá los siguientes objetivos:
+El Consejo Estatal de Pesca y Acuacultura es un organismo de planeación, consulta, promoción y análisis, para la formulación y evaluación de las acciones que se emprendan en materia de pesca y acuacultura en el Estado y tendrá los siguientes objetivos:
 
 I. Proponer programas de carácter regional, estatal y municipal para el manejo adecuado de cultivos y pesquerías que impulsen el desarrollo de la pesca y la acuacultura, fortalecer las acciones de inspección y vigilancia, así como para la descentralización de programas, recursos y funciones;
 
@@ -213,51 +527,73 @@ II. Contribuir a impulsar el aprovechamiento sustentable de los recursos pesquer
 
 III. Promover la coordinación entre los tres ordenes de gobierno, con la participación concertada de los sectores productivos de la Entidad, y los centros e instituciones de enseñanza e investigación, y
 
-IV. Proponer mecanismos de participación ordenada en las actividades de pesca y acuacultura que se realicen en el Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+IV. Proponer mecanismos de participación ordenada de los diversos sectores, en las actividades de pesca y acuacultura que se realicen en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 7.
 
 El Consejo se integrará por:
 
-I. El Titular del Poder Ejecutivo, o la persona que este designe, quien lo presidirá;
+I. El Titular del Poder Ejecutivo, o la persona que éste designe, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+II. Los titulares de las Secretarías y dependencias del Gobierno del Estado siguientes:
 
-II. El Secretario de Agricultura, Ganadería, Desarrollo Rural y Pesca;
+a) Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
 
-III. El Titular de la Dirección de Pesca y Acuacultura de la Secretaría, como secretario técnico.
+b) Secretaría de Medio Ambiente;
 
-IV. Los siguientes consejeros:
+c) Secretaría de Desarrollo Económico;
 
-a) El Secretario de Desarrollo Económico del Gobierno del Estado;
+d) Secretaria de Planeación, Programación y Presupuesto;
 
-b) El Secretario de Salud del Gobierno del Estado;
+e) Secretaría de Salud;
 
-c) El Procurador General de Justicia del Estado, y
+f) Fiscalía General del Estado, y
 
-d) El Diputado Presidente de la Comisión de Asuntos Pesqueros y Desarrollo Acuícola del Congreso del Estado.
+g) Dirección de Pesca y Acuacultura de la Secretaría, fungiendo su titular como secretario técnico.
 
-V. Los siguientes vocales, sin derecho a voto:
+III. El Presidente de la Comisión de Asuntos Pesqueros y Desarrollo Acuícola del Poder Legislativo del Estado;
 
-a) Un representante de las cooperativas;
+IV. Por el Gobierno Federal, los delegados estatales de las siguientes Secretarías:
+
+a) Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y
+
+b) Secretaría de Medio Ambiente y Recursos Naturales.
+
+V. Los siguientes vocales sin derecho a voto:
+
+a) Un representante de cada una de la Federaciones de las Cooperativas Pesqueras;
 
 b) Un representante del sector académico de la Universidad Autónoma de Nayarit;
 
-c) Un representante de las granjas de acuacultura;
+c) Un representante de cada uno de los sistema-producto pesqueros y acuícolas;
 
-d) Un representante de los pescadores de altamar, y
+d) Un representante de la pesca deportivo-recreativa, y
 
-e) Un representante de la pesca deportivo-recreativa.
+e) Un representante del INAPESCA.
 
 Los integrantes del Consejo designarán a su suplente por escrito y con carácter permanente, para que los supla en sus ausencias.
 
 La participación en el Consejo será a título honorífico por lo que sus integrantes no recibirán retribución o compensación alguna.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 8.
 
-El Consejo sesionará ordinariamente cada tres meses, pudiendo celebrar reuniones extraordinarias cuando los asuntos a tratar así lo ameriten.
+El Consejo funcionará en los términos que disponga el reglamento de la presente Ley.
 
-El reglamento interno del Consejo determinará las formalidades y requisitos a observar para la citación a las sesiones y el desahogo de las mismas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 9.
 
@@ -273,29 +609,103 @@ IV. Participar en la formulación de la Carta Estatal, y
 
 V. Participar en las acciones de prevención y combate a la pesca ilegal, en los términos de la ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 10.
 
-Los municipios de la Entidad, en el ámbito de sus respectivas competencias, coadyuvarán en el desarrollo de las acciones que se implementen en materia de inspección y vigilancia, así como en la prevención y combate a la pesca ilegal; asimismo, en coordinación con la Secretaría, promoverán la integración de Comités Municipales de Pesca y Acuacultura.
+Corresponden a los municipios en el ámbito de su competencia y de conformidad con lo dispuesto en esta ley y las leyes en la materia, las siguientes atribuciones:
 
-## Título Segundo. Instrumentos de Planeación de la Política Estatal en la Materia
+I. Coadyuvar en la planeación de la política estatal pesquera y acuícola, participando igualmente en la integración del Sistema Estatal de Información y del Registro Estatal, en los términos de la presente Ley;
 
-### Capítulo I. Principios Generales de la Política Estatal
+II. Diseñar y aplicar la política y los programas municipales para la pesca y la acuacultura, vinculándolos con los programas nacionales, estatales y regionales;
+
+III. Concurrir de conformidad con los acuerdos y convenios que celebren con las dependencias y entidades competentes, en la inspección y vigilancia pesquera y acuícola en sus jurisdicciones, así como en las acciones de sanidad acuícola en los términos de esta ley y de la Ley General;
+
+IV. Promover la ejecución de obras de infraestructura pesquera y acuícola de uso común, de introducción de servicios básicos, en las comunidades o asentamientos de pescadores; así como de construcción y mantenimiento de centros de procesamiento y comercialización de productos pesqueros;
+
+V. Promover mecanismos de participación social en el manejo y conservación de los recursos pesqueros y acuícolas;
+
+VI. Procurar la creación de Comisiones de Pesca y Acuacultura, como órgano de trabajo de los cabildos;
+
+VII. Promover y fomentar la actividad acuícola, en armonía con la preservación del ambiente y la conservación de la biodiversidad;
+
+VIII. Fomentar mediante instrumentos y medios de difusión, el consumo de los productos pesqueros y acuícolas en el Municipio;
+
+IX. Coadyuvar con el Estado en la organización y desarrollo de exposiciones, ferias y demás actividades de promoción y difusión para del (sic) sector pesquero y acuícola, y
+
+X. Las demás disposiciones que se prevean en el reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+Artículo 10 bis.- Los convenios y acuerdos que el Estado celebre para la concurrencia y coordinación con los municipios o de las dependencias o entidades del Gobierno federal, deberán sujetarse a las siguientes disposiciones:
+
+I. Definirán su objeto con precisión, las materias y facultades que se asumirán, las cuales deberán ser acordes con la política estatal de pesca y acuacultura sustentables;
+
+II. Establecerán las responsabilidades y la participación de cada una de las partes, los bienes y recursos aportados por cada una, su destino y su forma de administración;
+
+III. Se celebrarán por interés común de las partes, cuando garanticen que cuentan con los recursos humanos capacitados y la estructura institucional especifica, para atender las funciones y cumplir con las responsabilidades que asumirían;
+
+IV. Determinarán el órgano u órganos que llevarán a cabo las acciones que resulten de los convenios o acuerdos de coordinación y definirán los procedimientos informativos correspondientes para vigilar el cumplimiento de los objetivos, y
+
+V. Señalarán la vigencia del instrumento, sus formas de modificación y terminación y en su caso, la duración de sus prórrogas.
+
+Los convenios y acuerdos de coordinación, así como sus modificaciones, deberán publicarse en el Periódico Oficial del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2013)</small>
+
+## Título Segundo. Instrumentos de Planeación en la Política Estatal en Materia de Pesca y Acuacultura
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2013)</small>
+
+### Capítulo I. Principios Generales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 11.
 
-Para la formulación y conducción de la Política Estatal de Pesca y Acuacultura Sustentables, en la aplicación de los programas e instrumentos que se deriven de esta ley, deberán observarse los siguientes principios:
+Para la formulación y conducción de la Política Estatal de Pesca y Acuacultura Sustentables, en la aplicación de los programas e instrumentos que se deriven de esta ley, deberá observarse lo siguiente:
 
-I. El Estado reconoce que la pesca y la acuacultura son actividades que fortalecen su soberanía alimentaría y territorial y son prioridad para la planeación del desarrollo y la gestión integral de los recursos pesqueros y acuícolas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Que la pesca y la acuacultura se orienten a la producción de alimentos para el consumo humano directo para el abastecimiento de proteínas de alta calidad y de bajo costo para los habitantes de la nación;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-III. El aprovechamiento de los recursos pesqueros y acuícolas, su conservación, restauración y la protección de los ecosistemas en que se encuentran, debe ser compatible con su capacidad natural de recuperación, disponibilidad y equilibrio ecológico;
+I. El Estado reconoce que la pesca y la acuacultura son actividades que fortalecen su soberanía alimentaria y son prioridad para la planeación del desarrollo y la gestión integral de los recursos pesqueros y acuícolas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+II. Que la pesca y la acuacultura se orienten a la producción de alimentos para el consumo humano;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+III. El aprovechamiento de los recursos pesqueros y acuícolas, su conservación, restauración y la protección de los ecosistemas en que se encuentran, debe ser compatible con su capacidad natural de recuperación;
 
 IV. Que la investigación científica y tecnológica se consolide como herramienta fundamental para definir e implementar políticas, instrumentos, mecanismos, medidas y decisiones relativos a la conservación, restauración, protección y aprovechamiento sustentable de los recursos pesqueros y acuícolas;
 
-V. Reconocer a la acuacultura como una actividad productiva que permita la diversificación pesquera, ofrecer opciones de empleo en el medio rural, incrementar la producción pesquera y la oferta de alimentos que mejoren la dieta de la población del Estado, así como la generación de divisas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. El ordenamiento de la acuacultura debe hacerse a través de programas que incluyan la definición de sitios para su realización, su tecnificación y diversificación, buscando nuevas tecnologías que reduzcan su impacto ambiental y que permitan ampliar el número de especies nativas que se cultiven;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+V. Reconocer a la acuacultura como una actividad productiva que permita la diversificación pesquera, ofrecer opciones de empleo en el medio rural, incrementar la producción pesquera y la oferta de alimentos que mejoren la dieta de la población del Estado, así como la generación de ingresos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+VI. El ordenamiento de la acuacultura debe hacerse a través de programas concurrentes con los tres órdenes de gobierno, que incluyan la definición de zonas con vocación acuícola, sitios para su realización, su tecnificación y diversificación, buscando nuevas tecnologías que permitan ampliar el número de especies nativas que se cultiven;
 
 VII. El uso de artes y métodos de pesca selectivos y de menor impacto ambiental, a fin de conservar y mantener la disponibilidad de los recursos pesqueros, la estructura de las poblaciones, la restauración de los ecosistemas, así como la calidad de los productos de la pesca;
 
@@ -305,9 +715,13 @@ IX. La transparencia en los procedimientos administrativos relativos al otorgami
 
 X. La participación, consenso y compromiso de los productores y sus comunidades en la corresponsabilidad de aprovechar en forma integral y sustentable los recursos pesqueros y acuícolas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 12.
 
-En la planeación estatal del desarrollo se deberá incorporar la política estatal de pesca y acuacultura que se establezca conforme a esta ley y las demás disposiciones en la materia.
+En el Plan Estatal de Desarrollo, se deberá incorporar la política estatal de pesca, privilegiando de manera especial a la acuacultura, que se establezca conforme a esta ley y las demás disposiciones en la materia.
 
 ### Capítulo II. Programa Estatal de Pesca y Acuacultura
 
@@ -315,19 +729,31 @@ En la planeación estatal del desarrollo se deberá incorporar la política esta
 
 El Programa Estatal de Pesca y Acuacultura es el instrumento rector de planeación de las acciones a implementar para impulsar el desarrollo integral de los sectores pesquero y acuícola en el Estado; deberá emitirse en concordancia con la Política Nacional de Pesca y Acuacultura y los programas que de ella deriven, y vincularse con el Plan Estatal de Desarrollo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 14.
 
-La elaboración del Programa Estatal estará a cargo de la Secretaría, quien deberá consultar para tales efectos al Consejo y a los sectores pesquero y acuícola de la Entidad, en los términos que señale el reglamento de esta ley.
+La elaboración del Programa Estatal de Pesca y Acuacultura estará a cargo de la Secretaría, quien deberá consultar para tales efectos al Consejo y a los sectores pesquero y acuícola de la Entidad, en los términos que señale el reglamento de esta ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 15.
 
-El Programa Estatal deberá contemplar entre otros aspectos:
+El Programa Estatal de Pesca y Acuacultura deberá contemplar entre otros aspectos:
 
 I. Acciones de planeación y programación del desarrollo pesquero y acuícola de la Entidad;
 
 II. Mecanismos de promoción para fomentar la investigación y el desarrollo tecnológico en la materia y su transferencia a los sectores productivos;
 
-III. El aprovechamiento integral de los cuerpos de agua de jurisdicción estatal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+III. El aprovechamiento integral de los cuerpos de agua;
 
 IV. El ordenamiento de la pesca y la acuacultura en todas sus modalidades;
 
@@ -341,15 +767,35 @@ VIII. Planes de manejo de los recursos pesqueros y acuícolas;
 
 IX. Los lineamientos para el funcionamiento e integración del programa de inspección y vigilancia;
 
-X. La promoción de actividades productivas complementarias que generan ingresos adicionales a las comunidades pesqueras y acuícolas, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI. La inclusión de mecanismos que implementen las buenas prácticas en la operación de cultivos acuícolas, capacitación y asistencia técnica integral.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+X. La promoción de actividades productivas complementarias que generan ingresos adicionales a las comunidades pesqueras y acuícolas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XI. La inclusión de mecanismos que implementen las buenas prácticas en la operación de cultivos acuícolas, capacitación y asistencia técnica integral, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XII. Se establecerán los esquemas para la capacitación y actualización de la dinámica de los mercados nacional y extranjero en materia de productos pesqueros y acuícolas.
 
 ### Capítulo III. Ordenamiento Pesquero
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 16.
 
-La Secretaría desarrollará los programas de ordenamiento pesquero, tendientes a regular las actividades pesqueras que se desarrollen en aguas de jurisdicción estatal.
+La Secretaría desarrollará los programas de ordenamiento pesquero y acuícola no previstos en la Ley General, tendientes a regular las actividades pesqueras y acuícolas, debiendo publicarlos en el Periódico Oficial del Estado.
+
+Los programas de ordenamiento señalados en el párrafo anterior podrán modificarse por causas científicas, tecnológicas y de medio ambiente, o en su caso, atendiendo a la sustentabilidad de los recursos pesqueros y acuícolas.
 
 ###### Artículo 17.
 
@@ -367,19 +813,35 @@ III. Registro actualizado de los usuarios con permiso que realizarán la activid
 
 IV. En su caso, las especies acuáticas sujetas a la protección especial, amenazadas o en peligro de extinción en la zona a desarrollar el programa, y
 
-V. Los planes de manejo pesquero que resulten aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+V. Los planes de manejo pesquero y acuícola que resulten aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 19.
 
-Los programas de ordenamiento pesquero y acuícola se orientarán al cumplimiento de los siguientes propósitos:
+Los programas de ordenamiento pesquero y acuícola se orientarán al cumplimiento de los siguientes objetivos:
 
 I. Conservar la capacidad productiva de las poblaciones sujetas de aprovechamiento;
 
 II. Prevenir conflictos derivados de las interacciones entre las organizaciones de pescadores;
 
-III. Reducir los impactos al ambiente de la actividad pesquera, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Promover la participación comunitaria en la vigilancia y cuidado de los recursos pesqueros.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+III. Reducir los impactos al medio ambiente ocasionados por la actividad pesquera, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+IV. Promover la participación de los comités municipales de pesca y acuacultura.
 
 ### Capítulo IV. Información Pesquera y Acuícola
 
@@ -401,7 +863,11 @@ V. La información de la situación general de la pesca y la acuacultura en el E
 
 VI. Información relativa a los permisos otorgados para realizar actividades pesqueras y acuícolas, y
 
-VII. El anuario estadístico de pesca y acuacultura.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+VII. El anuario estadístico de pesca y acuacultura, considerando la comercialización.
 
 ###### Artículo 21.
 
@@ -447,7 +913,11 @@ La Carta Estatal contendrá:
 
 I. En el apartado de pesca:
 
-a) El inventario de los recursos pesqueros que se encuentra en las aguas de jurisdicción estatal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+a) El inventario de los recursos pesqueros;
 
 b) El esfuerzo pesquero susceptible de aplicarse por especie o grupo de especies en un área determinada;
 
@@ -465,13 +935,21 @@ b) Caracterización de las zonas por su vocación y potencial de cultivo;
 
 c) Análisis de capacidad instalada por región;
 
-d) Las especificación respecto al dominio de la tecnología para la reproducción y cultivo de las especies acuícolas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+d) Las especificaciones respecto al dominio de la tecnología para la reproducción y cultivo de las especies acuícolas;
 
 e) Los planes de ordenamiento acuícola;
 
 f) Las normas aplicables a aspectos de conservación, protección y/o aprovechamiento de los recursos acuícolas, incluyendo las relativas a la sanidad, calidad e inocuidad de los productos acuícolas;
 
-g) Estadísticas de producción, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+g) Las normas aplicables a aspectos de conservación, protección y/o aprovechamiento de los recursos acuícolas, incluyendo las relativas a la sanidad, calidad e inocuidad de los productos acuícolas, y
 
 h) La demás información que se determine en el reglamento de la presente Ley.
 
@@ -479,9 +957,13 @@ h) La demás información que se determine en el reglamento de la presente Ley.
 
 La elaboración de la Carta Estatal estará a cargo de la Secretaría, la cual se apoyará en el INAPESCA, en la Secretaría del Medio Ambiente y demás dependencias de la administración pública estatal que deban intervenir de conformidad con sus atribuciones, y deberá dar participación a los sectores académico y productivo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 28.
 
-La Carta Estatal deberá publicarse anualmente en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, y podrán publicarse actualizaciones de las fichas individuales, sin que el total de la Carta pierda su validez.
+La Carta Estatal deberá publicarse en el Periódico Oficial de Gobierno del Estado y podrán incluirse actualizaciones de las fichas individuales, sin que el total de la Carta pierda su validez.
 
 ###### Artículo 29.
 
@@ -497,19 +979,49 @@ I. Los objetivos de manejo definidos por el Consejo Nacional de Pesca y el Conse
 
 II. Descripción de las características biológicas de las especies sujetas a explotación;
 
-III. La forma en que se organizará la administración del área y los mecanismos de participación de los individuos y comunidades asentadas en la misma;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Ciclo de captura y estado de aprovechamiento de la pesquería;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+III. La forma en que se organizará y participará la comunidad pesquera, para la administración y el aprovechamiento de las especies de interés;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+IV. Ciclo de captura, vedas y de aprovechamiento de la pesquería;
 
 V. Ubicación de las áreas geográficas a que estará sujeto el aprovechamiento;
 
-VI. Indicadores socioeconómicos de la población dedicada a la pesca en la región y su impacto en la misma, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Artes y métodos de pesca autorizados.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-## Título Tercero. Pesca y Acuacultura en Aguas de Jurisdicción Estatal
+VI. Indicadores socioeconómicos de la población dedicada a la pesca en la región y su impacto en la misma;
 
-### Capítulo I. Fomento a la Pesca y la Acuacultura
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+VII. Artes y métodos de pesca autorizados, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+VIII. Manifestación de Impacto Ambiental, según sea el caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2013)</small>
+
+## Título Tercero. Fomento a la Pesca y Acuacultura
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2013)</small>
+
+### Capítulo I. De los Pescadores y Acuacultores
 
 ###### Artículo 31.
 
@@ -555,25 +1067,21 @@ VI. Otorgará un seguro de vida a los productores pesqueros y acuícolas de la e
 
 Para el otorgamiento de este apoyo, se tomará en cuenta la disponibilidad presupuestal, la gradualidad en su implementación, así como el acreditamiento de la calidad de productor pesquero o acuícola, en términos de las Reglas de Operación que al efecto emita la Secretaría, conforme al Reglamento de esta Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 32.
 
-En materia de pesca deportivo-recreativa, la Secretaría fomentará la práctica y el desarrollo de esta actividad en el Estado, para lo cual, en coordinación con las dependencias y entidades competentes y con los sectores interesados:
+La Secretaría en el ámbito de su competencia, cuando los pescadores o acuacultores lo requieran, los asesorará y proporcionará la información necesaria para el cumplimiento de sus objetivos.
 
-I. Promoverá la construcción de la infraestructura necesaria para esta actividad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Dispondrá las medidas de conservación y protección necesarias;
-
-III. Promoverá y autorizará torneos de pesca deportivo-recreativa;
-
-IV. Propiciará la celebración de convenios con organizaciones y prestadores de servicios, para que los pescadores deportivos protejan las especies;
-
-V. Fomentará la práctica de capturar y liberar, y
-
-VI. Promoverá la celebración de convenios con organizaciones, prestadores de servicios y particulares para facilitar la obtención de los permisos que se requieran para la pesca deportivo-recreativa, mediante el pago de los derechos correspondientes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 33.
 
-Los pescadores y acuicultores podrán organizarse libremente conforme a esta ley y demás disposiciones que resulten aplicables, con alguna de las siguientes finalidades:
+Los pescadores y acuacultores podrán organizarse libremente conforme a esta ley y demás disposiciones que resulten aplicables, con alguna de las siguientes finalidades:
 
 I. Gestionar y promover ante las autoridades competentes, planes, programas y apoyos directos a sus asociados, con el objeto de mejorar la producción pesquera y acuícola en el Estado;
 
@@ -585,19 +1093,35 @@ IV. Solicitar a las autoridades competentes, capacitación y asesoría técnica 
 
 V. Implementar proyectos para el procesamiento de los productos derivados de la pesca y la acuacultura.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 34.
 
-En el desarrollo de las actividades de planeación en materia de pesca y acuacultura se deberá garantizar la participación directa de los pescadores y acuicultores y sus organizaciones en los términos de esta ley.
+En el Desarrollo de las actividades de planeación en materia de pesca y acuacultura, se deberá garantizar la participación directa de los pescadores y acuacultores y sus organizaciones en los términos de esta ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 35.
 
-Las organizaciones de pescadores y acuicultores deberán inscribirse en el Registro Estatal.
+Las organizaciones de pescadores y acuacultores deberán inscribirse en el Registro Estatal
 
-### Capítulo II. Pescadores y Acuicultores
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REUBICADO, [N. DE E. ANTES CAPÍTULO III] P.O. 22 DE JUNIO DE 2013)
+
+### Capítulo II. Unidades de Manejo Acuícola
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 36.
 
-Los acuicultores podrán organizarse en unidades de manejo acuícola para propiciar el desarrollo integral, ordenado y sustentable de la acuicultura.
+Los acuacultores podrán organizarse en unidades de manejo acuícola para propiciar el desarrollo integral, ordenado y sustentable de la acuacultura.
 
 ###### Artículo 37.
 
@@ -629,9 +1153,13 @@ f) La prevención y control de contingencias, y
 
 g) El sistema de aseguramiento para que la descarga de aguas de la unidad no genere contaminación sobre el punto de abastecimiento de la propia unidad o de otras granjas o unidades de manejo acuícola.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 39.
 
-La Secretaría tendrá un plazo de veinte días hábiles contados a partir de la presentación de la solicitud de autorización para integrar el expediente. Una vez integrado éste, resolverá la solicitud dentro de los siguientes cinco días hábiles, la cual notificará al solicitante o su representante legal, en el domicilio señalado para ese efecto, en un plazo no mayor a tres días hábiles contados a partir de aquel en el que se hubiere emitido la resolución.
+La Secretaría tendrá un plazo de veinte días naturales contados a partir de la presentación de la solicitud de autorización para integrar el expediente. Una vez integrado éste, resolverá la solicitud dentro de los siguientes cinco días hábiles, la cual notificará al solicitante o su representante legal, en el domicilio señalado para ese efecto, en un plazo no mayor a tres días hábiles contados a partir de aquel en el que se hubiere emitido la resolución.
 
 Si el solicitante fue omiso en la presentación de la información o documentación a que se refiere el artículo anterior, la Secretaría le requerirá para que en el término de cinco días hábiles subsane sus omisiones, en caso de no darse cumplimiento al requerimiento formulado, la Secretaría tendrá por no presentada la solicitud.
 
@@ -643,17 +1171,25 @@ Cada unidad de manejo acuícola elaborará su propio reglamento interno, en dond
 
 Los permisionarios que se constituyan en una unidad de manejo acuícola son responsables en su conjunto de que ésta cumpla en todo momento con lo establecido en la presente ley y en el plan de manejo acuícola respectivo, sin menoscabo de las obligaciones que le correspondan por la operación de su granja o establecimiento en lo particular.
 
-### Capítulo III. Unidades de Manejo Acuícola
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### Capítulo IV. Certificación de la Calidad de los Procesos de Producción Acuícola
+(REUBICADO, [N. DE E. ANTES CAPÍTULO IV], P.O. 22 DE JUNIO DE 2013)
+
+### Capítulo III. Certificación de la Calidad de los Procesos de Producción Acuícola
+
+### Capítulo IV. Garantías en Materia de Seguridad Sanitaria
 
 ###### Artículo 42.
 
 La Secretaría podrá prestar servicios de verificación de estándares de calidad cuando se lo requieran los productores, y expedirá, en su caso, certificados de calidad de los procesos de producción; para tales efectos verificará las acciones comprendidas desde la siembra hasta antes de la transformación de los recursos acuícolas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 43.
 
-Para determinar los estándares de calidad en el proceso de producción acuícola y otorgar al permisionario el reconocimiento de la calidad alcanzada en el proceso de producción, la Secretaría atenderá la aplicación de las buenas prácticas de sanidad acuícola y de producción establecidas en las normas oficiales.
+Para determinar los estándares de calidad en el proceso de producción acuícola y otorgar al permisionario el reconocimiento de la calidad alcanzada en el proceso de producción, la Secretaría observará la aplicación de las buenas prácticas de sanidad acuícola y de producción establecidas en las normas oficiales.
 
 ###### Artículo 44.
 
@@ -671,7 +1207,11 @@ V. Fecha de expedición y vigencia, y
 
 VI. Nombre y firma del titular de la Secretaría.
 
-### Capítulo V. Garantías en Materia de Seguridad Sanitaria
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REUBICADO, [N. DE E. ANTES CAPÍTULO V], P.O. 22 DE JUNIO DE 2013)
+
+### CAPÍTULO V. Permisos para la Pesca y Acuicultura
 
 #### Sección Primera. Sanidad
 
@@ -689,7 +1229,11 @@ IV. Vigilar la operación de los laboratorios de diagnóstico y de producción, 
 
 V. Promover directamente o en coordinación con las demás autoridades competentes las campañas de prevención, diagnóstico y control sanitario tendientes a proteger los recursos pesqueros y acuícolas;
 
-VI. Requerir en cualquier momento a los acuicultores o porteadores la exhibición de los certificados de sanidad acuícola expedidos por autoridad competente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+VI. Requerir en cualquier momento a los acuacultores o transportador la exhibición de los certificados de sanidad acuícola expedidos por autoridad competente;
 
 VII. Promover y vigilar el establecimiento de estaciones cuarentenarias;
 
@@ -699,7 +1243,11 @@ IX. Difundir y actualizar permanentemente la información sobre sanidad pesquera
 
 X. Promover y operar el intercambio de información con instituciones nacionales o internacionales en materia de sanidad de los recursos pesqueros y acuícolas, y
 
-XI. Realizar las demás acciones que sean procedentes conforme a la presente ley, su reglamento y los planes de manejo en materia de sanidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+XI. Realizar las demás acciones que sean procedentes conforme a la presente ley, su reglamento, los planes de manejo y las normas oficiales mexicanas en materia de sanidad.
 
 ###### Artículo 46.
 
@@ -721,11 +1269,17 @@ Para garantizar la sanidad de los recursos pesqueros y acuícolas, los permision
 
 Los puntos de verificación sanitaria son instalaciones fijas o móviles establecidas por la Secretaría para garantizar que el ingreso y traslado en el Estado de los recursos pesqueros y acuícolas, cumplan con los requisitos establecidos en la presente ley y en las demás disposiciones aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 50.
 
-La ubicación de los puntos de verificación sanitaria fijos será determinada por la Secretaría conforme a los requerimientos y lineamientos que se establezcan en el reglamento de esta ley.
+La ubicación de los puntos de verificación sanitaria fijos, serán determinados por la Secretaría, conforme a los requerimientos y lineamientos que se establezcan en el reglamento de esta ley, pudiendo considerarse aquellos puntos que se operan para la sanidad vegetal y animal.
 
-La Secretaría podrá acordar la instalación temporal de puntos de verificación móviles, en caminos o vías de comunicación terrestre o en pistas aéreas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 51.
 
@@ -749,6 +1303,12 @@ VI. Aplicar las medidas sanitarias que procedan conforme a la presente ley.
 
 Las medidas sanitarias constituyen acciones de seguridad que tienen por objeto prevenir, controlar, combatir y erradicar enfermedades y plagas que puedan afectar los recursos pesqueros y acuícolas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+Cuando el riesgo sanitario o la situación concreta a prevenirse, no este contemplada en una Norma Oficial específica, se deberán cumplir los requisitos mínimos establecidos en las Normas Oficiales aplicables en situaciones generales, y observar el procedimiento que se regula en el reglamento.
+
 ###### Artículo 53.
 
 La Secretaría podrá determinar y aplicar, según proceda, alguna de las siguientes medidas sanitarias:
@@ -757,13 +1317,31 @@ I. Cuarentena;
 
 II. Sanitización;
 
-III. El aseguramiento y, en su caso, disposición de los recursos pesqueros o acuícolas vivos, sus productos y subproductos y elementos químicos, farmacéuticos, biológicos y alimenticios para uso y consumo de dichos recursos, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. La suspensión temporal, parcial o total, de la operación de las instalaciones de granjas, unidades de manejo acuícola o laboratorios de diagnóstico o de producción.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+III. El aseguramiento y, en su caso, disposición de los recursos pesqueros o acuícolas vivos, sus productos y subproductos y elementos químicos, farmacéuticos, biológicos y alimenticios para uso y consumo de dichos recursos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+IV. La suspensión temporal, parcial o total, de la operación de las instalaciones de granjas, unidades de manejo acuícola o laboratorios de diagnóstico o de producción, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+V. Destrucción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 54.
 
-Cuando exista la probabilidad razonable o la presencia probada de alguna plaga o enfermedad controlable o de alto riesgo para los recursos pesqueros o acuícolas, la Secretaría podrá determinar la cuarentena de los recursos contaminados como medida sanitaria, los cuales quedarán en depósito o custodia de los interesados.
+Cuando exista la presencia probada de alguna plaga o enfermedad controlable o de riesgo para los recursos pesqueros o acuícolas, de conformidad con el diagnóstico correspondiente; la Secretaría podrá determinar la cuarentena de los recursos contaminados como medida sanitaria, los cuales quedarán en depósito de los interesados, o en su caso, se procederá a su destrucción de conformidad a las especificaciones que establezca la Secretaría.
 
 ###### Artículo 55.
 
@@ -789,7 +1367,11 @@ Los permisionarios deberán dar aviso a la Secretaría, por cualquier medio, de 
 
 Cuando los permisionarios detecten durante el cultivo de especies la presencia de enfermedades de alto riesgo en uno o más estanques o jaulas, además del referido aviso a la Secretaría, deberán suspender, en su caso, la descarga del agua al drenaje correspondiente. En estos casos, la Secretaría podrá ordenar la cosecha anticipada, previa visita de verificación que realice a través del personal autorizado.
 
-### Capítulo VI. Permisos para la Pesca y la Acuicultura
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REUBICADO, [N. DE E. ANTES CAPÍTULO VI], P.O. 22 DE JUNIO DE 2013)
+
+### Capítulo VI. Revocación y Extinción de los Permisos
 
 #### Sección Primera. Disposiciones Generales
 
@@ -799,33 +1381,43 @@ La expedición de los permisos para la realización de las actividades pesqueras
 
 Los permisos que se otorguen conforme a esta ley serán personales e intransferibles y no podrá constituirse sobre ellos ningún tipo de gravamen.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 60.
 
 Requieren permiso las siguientes actividades:
 
-I. Acuacultura comercial;
+I. Pesca comercial;
 
-II. Acuacultura de fomento;
+II. Pesca de fomento;
 
-III. Acuacultura didáctica;
+III. Pesca didáctica;
 
-IV. Pesca comercial;
+IV. Pesca deportivo-recreativa, excepto la que se realice desde tierra;
 
-V. Pesca de fomento;
+V. Acuacultura comercial;
 
-VI. Pesca didáctica;
+VI. Acuacultura de fomento;
 
-VII. Pesca deportivo-recreativa, excepto la que se realice desde tierra;
+VII. Acuacultura didáctica;
 
-VIII. La introducción o repoblación de especies vivas en cuerpos de agua de jurisdicción estatal;
+VIII. La introducción o repoblación de especies vivas en cuerpos de agua;
 
-IX. La recolección de reproductores del medio natural, y
+IX. La recolección de recursos pesqueros del medio natural, y
 
-X. El funcionamiento de laboratorios de diagnostico y de producción; (sic)
+X. El funcionamiento de laboratorios de diagnóstico y de producción.
+
+> <small>N. DE E. EN RELACIÓN CON EL PRESENTE ARTÍCULO SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL CONGRESO DEL ESTADO DE NAYARIT, www.congresonayarit.mx</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 61.
 
-Los interesados en obtener algún permiso de los enunciados en el artículo anterior, deberán presentar ante la Secretaria la solicitud correspondiente en los formatos que la misma expedirá y acompañar lo siguiente:
+Los interesados en obtener algún permiso de los enunciados en el artículo anterior, deberán acreditar la legal disposición de los bienes a utilizar para cada actividad y presentar ante la Secretaría la solicitud correspondiente en los formatos que expida la misma y acompañar lo siguiente:
 
 I. Identificación oficial del solicitante y acta de nacimiento o carta de naturalización, en su caso. Tratándose de personas morales, la denominación o razón social de esta, copia del acta constitutiva e identificación oficial de su representante legal y el documento que acredite su personalidad;
 
@@ -837,69 +1429,131 @@ IV. Nombre común y científico del recurso pesquero o acuícola que se pretenda
 
 V. Características y dimensiones de la embarcación, equipos y artes de pesca a utilizar, en su caso, y
 
-VI. La demás información y documentación que se requiera para cada permiso en lo particular.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+IV (SIC). La demás información y documentación que se requiera para cada permiso en lo particular.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 62.
 
-La Secretaría podrá realizar diligencias para constatar la veracidad de los documentos que amparan el cumplimiento de los requisitos proporcionados para la obtención de los permisos.
+El otorgamiento de permisos quedará sujeto a las modalidades que dicta el interés público, condicionado siempre a la disponibilidad y preservación del recurso de que se trate.
+
+La Secretaría basará sus decisiones en criterios de equidad social y en la información científica disponible del recurso pesquero.
+
+Ningún permiso se expedirá, si no se cumplen los requisitos establecidos en esta ley y su reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 63.
 
-La Secretaría resolverá las solicitudes de permiso dentro de un plazo no mayor a veinte días hábiles contados a partir de la fecha en que quede integrado el expediente respectivo, y notificará sus resoluciones a los interesados de manera personal o por correo certificado con acuse de recibo, en un plazo no mayor a cinco días hábiles, en el domicilio señalado para ese efecto.
+La Secretaría resolverá las solicitudes de permiso, en los mismos términos del artículo 39 de la presente ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 64.
 
-Cuando en la presentación de la solicitud se omita algún requisito, la Secretaría requerirá al interesado dentro de los dos días hábiles siguientes a la recepción de la solicitud para que dentro de los cinco días hábiles siguientes subsane la omisión. Si el interesado no atiende el requerimiento dentro del término señalado, la Secretaría tendrá por no presentada la solicitud.
+Cuando la documentación sea incompleta, la Secretaría requerirá al interesado por notificación impresa o electrónica, dentro del plazo no mayor a cinco días hábiles siguientes a la recepción de la solicitud, para que dentro de los cinco días hábiles siguientes subsane la omisión. Si el interesado no atiende el requerimiento dentro del término señalado, la Secretaría tendrá por no presentada la solicitud.
 
-Tratándose de los permisos para acuicultura comercial y para laboratorios de producción, cuando por las características del proyecto la Secretaría requiera realizar diligencias de las establecidas en el artículo 62, el término para emitir la resolución respectiva podrá ampliarse hasta diez días hábiles.
+Tratándose de los permisos para acuacultura comercial y para laboratorios de producción, cuando por las características del proyecto la Secretaría requiera información o documentación adicional, el término para emitir la resolución respectiva podrá ampliarse hasta diez días hábiles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 65.
 
-Los permisos que se otorguen conforme a la presente ley, deberán contener:
+Los permisos que se otorguen conforme a la presente ley, contendrán los datos que determine la Secretaría en atención a las disposiciones previstas por el reglamento de esta ley.
 
-I. Número de identificación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Nombre del titular;
+I. (DEROGADA, P.O. 22 DE JUNIO DE 2013)
 
-III. Ubicación del lugar en el que se realizará la actividad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Nombre común y científico del recurso pesquero a capturar o que será objeto de la actividad acuícola;
+II. (DEROGADA, P.O. 22 DE JUNIO DE 2013)
 
-V. Volumen de captura y, en su caso, talla mínima del recurso, tratándose de la actividad pesquera;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Equipos, artes de pesca y métodos autorizados para la actividad a realizar;
+III. (DEROGADA, P.O. 22 DE JUNIO DE 2013)
 
-VII. Vigencia, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Los demás datos que determine la Secretaría de conformidad con el reglamento de esta ley.
+IV. (DEROGADA, P.O. 22 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+V. (DEROGADA, P.O. 22 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VI. (DEROGADA, P.O. 22 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VII. (DEROGADA, P.O. 22 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VIII. (DEROGADA, P.O. 22 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 66.
 
-Las personas físicas o morales que cuenten con algún permiso otorgado conforme a esta ley, podrán solicitar a la Secretaría la revalidación de los mismos, mediante la presentación de la solicitud respectiva con treinta días de anticipación a la fecha de su vencimiento, en la que deberá acompañarse la documentación con la que acredite que cumple con las condiciones originales bajo las que se otorgó el permiso.
+(DEROGADO, P.O. 22 DE JUNIO DE 2013)
 
-La Secretaría podrá realizar diligencias para verificar la certeza de lo manifestado en la solicitud de revalidación y resolverá lo conducente en el término de quince días hábiles siguientes a su recepción, debiendo notificar la resolución respectiva al interesado en un término no mayor a cinco días hábiles.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 67.
 
-Los permisionarios que pretendan realizar modificaciones a las instalaciones donde realicen la actividad pesquera o acuícola autorizada, deberán formular solicitud a la Secretaría para que ésta determine lo conducente, de conformidad a lo dispuesto en esta ley y su reglamento.
+(DEROGADO, P.O. 22 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 68.
 
-La Secretaría evaluará las solicitudes a que refiere el artículo anterior, conforme a los hechos y elementos en los que el permisionario justifica la necesidad de las modificaciones solicitadas y emitirá la resolución correspondiente dentro de los quince días hábiles posteriores a la recepción de la solicitud.
+(DEROGADO, P.O. 22 DE JUNIO DE 2013)
 
-#### Sección Segunda. Permisos para la Pesca
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2013)</small>
+
+#### Sección Segunda. Pesca Comercial
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 69.
 
-Para obtener permiso para realizar la pesca comercial los interesados deberán presentar ante la Secretaría la solicitud respectiva con los datos y documentación a que se refiere el artículo 61, señalando además, el método a utilizar en la captura.
+Para obtener permiso para realizar la pesca comercial los interesados deberán presentar ante la Secretaría la solicitud respectiva con los datos y documentación a que se refiere el artículo 61.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 70.
 
-Los permisos para realizar la pesca comercial se expedirán tomando en cuenta la disponibilidad y preservación del recurso de que se trate, en base a la información disponible de dicho recurso.
+Los permisos para realizar la pesca comercial, se expedirán tomando en cuenta la disponibilidad y preservación del recurso de que se trate, en base a la información disponible de dicho recurso.
+
+La Secretaría dará prioridad a los habitantes de las comunidades locales, otorgando los permisos preferentemente a los habitantes de las comunidades indígenas y a quienes se les promoverán programas que favorezcan su desarrollo sustentable; así como la dotación de estímulos, recursos y tecnologías para que incrementen sus capacidades productivas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 71.
 
-La captura incidental no podrá exceder el volumen que fije la Secretaría en el plan de manejo pesquero respectivo, estando prohibido comercializar el producto derivado de esa captura incidental.
+La captura incidental no podrá exceder el volumen que fije la Secretaría en el plan de manejo pesquero respectivo.
 
 ###### Artículo 72.
 
@@ -921,17 +1575,39 @@ VII. Participar en los programas de repoblación de los recursos pesqueros cuand
 
 VIII. Las demás que se establezcan en la presente ley y su reglamento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 73.
 
-La vigencia de los permisos para la pesca comercial en ningún caso podrá ser mayor de dos años.
+Los permisos para la pesca comercial tendrán una vigencia de dos a cinco años, de acuerdo a la pesquería de que se trate y lo que determine el reglamento de la presente Ley considerando los siguientes supuestos:
 
-#### Sección Tercera. Permisos para la Acuicultura
+a) El permiso por primera vez, se expedirá por 2 años, y
+
+b) La Secretaría podrá extender el permiso, si la evaluación que se realice resulta positiva de acuerdo a las condiciones que establece este ordenamiento legal y su reglamento.
+
+Dicha extensión será por el tiempo equivalente a la calificación de la evaluación del permiso, misma que no excederá de 5 años. Los permisos no podrán ser transferidos a terceros.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+#### Sección Tercera. Pesca de Fomento y Didáctica
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 74.
 
-Los permisos para la pesca de fomento y didáctica se otorgarán a las instituciones de investigación científica y de docencia, así como a las personas físicas dedicadas a actividades científicas o técnicas en materia de pesca.
+La Secretaría podrá otorgar permisos para pesca de fomento a las instituciones de investigación científica y de docencia, así como a las personas físicas dedicadas a actividades científicas o técnicas en materia de pesca, y permisos para pesca didáctica a las instituciones de docencia.
 
-Los interesados en obtener permisos para realizar la pesca de fomento o didáctica deberán presentar ante la Secretaría la descripción detallada del proyecto de fomento o programa de investigación, capacitación o enseñanza, según sea el caso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+Los interesados en obtener permisos para realizar la pesca de fomento o didáctica, además de lo previsto por el artículo 61 de esta ley, deberán presentar ante la Secretaría la descripción detallada del proyecto de fomento o programa de investigación, capacitación o enseñanza.
 
 Tratándose de personas físicas que soliciten permiso para realizar la pesca de fomento o didáctica deberán acreditar su capacidad científica o técnica de conformidad con lo dispuesto en el reglamento de esta ley, para los fines que en su caso pretenda.
 
@@ -949,35 +1625,83 @@ IV. A la conclusión del proyecto o programa, presentar por escrito a la Secreta
 
 V. Las demás que se establezcan en esta Ley y su reglamento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 76.
 
-Los productos derivados de la pesca de fomento y didáctica podrán comercializarse, siempre y cuando el producto de la venta se aplique al desarrollo de programas de investigación, exploración, experimentación, conservación y evaluación de los recursos pesqueros o de proyectos de enseñanza o capacitación.
+Los productos derivados de la pesca didáctica podrán comercializarse, siempre y cuando el producto de la venta se aplique al desarrollo de programas o proyectos de enseñanza o capacitación, atendiendo lo dispuesto por el reglamento de esta ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 77.
 
-La vigencia de los permisos para la pesca de fomento y didáctica será estrictamente por el tiempo necesario para la realización del proyecto de fomento o programa de estudio para el que se hubiere solicitado.
+La vigencia de los permisos para la pesca de fomento y didáctica será estrictamente por el tiempo necesario para la realización del proyecto o programa, para el que se hubiere solicitado.
 
 La Secretaría podrá, a solicitud del interesado, prorrogar el plazo originalmente autorizado, cuando se acredite fehacientemente a criterio de ésta, la necesidad de la ampliación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 78.
 
-La Secretaría no podrá divulgar por ningún medio los resultados del proyecto de fomento o programa de estudio realizado al amparo de los permisos para la pesca de fomento y didáctica autorizados conforme a esta ley, sin previa autorización del permisionario.
+La Secretaría no podrá divulgar por ningún medio los resultados del proyecto de fomento o programa de estudio realizado al amparo de los permisos para la pesca de fomento autorizados conforme a esta ley, sin previa autorización del responsable del proyecto.
 
-#### Sección Cuarta. Laboratorios de diagnóstico y de producción
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+#### Sección Cuarta. Pesca Deportivo-Recreativa
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+Artículo 78 bis.- En materia de pesca deportivo-recreativa, la Secretaría fomentará la práctica y el desarrollo de esta actividad en el Estado, para lo cual, en coordinación con las dependencias, organismos públicos, y los sectores interesados:
+
+I. Promoverá la construcción de la infraestructura necesaria para esta actividad;
+
+II. Dispondrá las medidas de conservación y protección necesarias;
+
+III. Promoverá y autorizará torneos de pesca deportivo-recreativa;
+
+IV. Propiciará la celebración de convenios con organizaciones y prestadores de servicios, para que los pescadores deportivos protejan las especies;
+
+V. Fomentará la práctica de capturar y liberar especies, y
+
+VI. Promoverá la celebración de convenios con organizaciones, prestadores de servicios y particulares para facilitar la obtención de los permisos que se requieran para la pesca deportivo-recreativa, mediante el pago de los derechos correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 79.
 
-Los interesados en obtener permiso para realizar la pesca deportiva-recreativa deberán presentar ante la Secretaría solicitud respectiva en los términos de esta ley y su reglamento y una identificación oficial.
+Los interesados en obtener permiso para realizar la pesca deportivo-recreativa deberán presentar ante la Secretaria solicitud respectiva en los términos del artículo 61 de esta ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 80.
 
-Son obligaciones del permisionario de la pesca deportivo-recreativa, las siguientes:
+Será obligación del permisionario de la pesca deportivo-recreativa, portar el original del permiso otorgado por la Secretaría, así como su identificación oficial, para que pueda ejercer la actividad.
 
-I. Portar el permiso y una identificación oficial durante el desarrollo de la actividad de pesca;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Cumplir con las especificaciones contenidas en el permiso, y
+I. (DEROGADA, P.O. 22 DE JUNIO DE 2013)
 
-III. Las demás que establezca esta ley y su reglamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+II. (DEROGADA, P.O. 22 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+III. (DEROGADA, P.O. 22 DE JUNIO DE 2013)
 
 ###### Artículo 81.
 
@@ -985,17 +1709,25 @@ La vigencia de los permisos para la pesca deportivo-recreativa no podrá ser may
 
 ###### Artículo 82.
 
-La Secretaría podrá promover la realización de torneos de pesca deportivo-recreativa; las personas interesadas en organizar dichos torneos deberán solicitar a la Secretaría el permiso correspondiente, de conformidad a las disposiciones de esta ley y su reglamento.
+La Secretaría podrá promover la realización de torneos de pesca deportivo-recreativa; las personas interesadas en organizar dichos torneos deberán solicitar a la Secretaría el permiso correspondiente, de conformidad a las disposiciones de esta Ley y su reglamento.
 
 ###### Artículo 83.
 
 Los productos derivados de la pesca deportivo-recreativa no podrán ser comercializados.
 
-#### Sección Quinta. Introducción o Repoblación de Especies Vivas
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+#### Sección Quinta. Acuacultura Comercial
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 84.
 
-Las personas físicas o morales interesadas en obtener un permiso para acuicultura comercial deberán presentar la solicitud respectiva ante la Secretaría con los datos y documentos a que se refiere el artículo 61, y proporcionar lo siguiente:
+Las personas físicas o morales interesadas en obtener un permiso para acuacultura comercial deberán presentar la solicitud respectiva ante la Secretaría con los datos y documentos a que se refiere el artículo 61, y proporcionar lo siguiente:
 
 I. Estudio que contendrá una exposición sobre la viabilidad económica del proyecto y el monto y distribución de la inversión;
 
@@ -1015,29 +1747,43 @@ d) Distribución y descripción de la infraestructura, y
 
 e) Dictamen que acredite que el punto de descarga no presenta influencia contaminante sobre el punto de abastecimiento de la unidad de manejo acuícola o granja más próxima.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+La Secretaría dará prioridad a las solicitudes de las comunidades indígenas a quienes se les promoverán programas que favorezcan su desarrollo sustentable, de igual manera se les dotará de estímulos, recursos y tecnologías, para que incrementen sus capacidades productivas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 85.
 
-Los permisos para la acuacultura comercial tendrán una vigencia no mayor a cinco años y podrán ser revalidados de conformidad a las disposiciones de esta Ley.
+Los permisos para la acuacultura comercial tendrán una vigencia no mayor a cinco años y podrán ser prorrogados de conformidad a las disposiciones contenidas en el artículo 73 de esta Ley.
 
-#### Sección Sexta. Recolección de Recursos Pesqueros del Medio Natural
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+#### Sección Sexta. Acuacultura de Fomento y Didáctica
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 86.
 
-Los permisos para la acuacultura de fomento y didáctica se otorgarán a las instituciones de investigación científica y de docencia, así como a las personas físicas dedicadas a actividades científicas o técnicas en materia de pesca.
+La Secretaría podrá otorgar permisos para acuacultura de fomento a las instituciones de investigación científica y de docencia, así como a las personas físicas dedicadas a actividades científicas o técnicas en materia de acuacultura, y permisos para acuacultura didáctica a las instituciones de docencia.
 
-Los interesados en obtener permisos para realizar la acuacultura de fomento o didáctica deberán presentar ante la Secretaría la descripción detallada del proyecto de fomento o programa de investigación, capacitación o enseñanza, según sea el caso.
+Los interesados en obtener permisos para realizar la acuacultura de fomento o didáctica, además de lo previsto por el artículo 61 de esta ley, deberán presentar la solicitud ante la Secretaría y la descripción detallada del proyecto de fomento o programa de investigación, capacitación o enseñanza, según sea el caso.
 
-Tratándose de personas físicas que soliciten permiso para realizar la acuacultura de fomento o didáctica deberán acreditar su capacidad científica o técnica de conformidad con lo dispuesto en el reglamento de esta ley, para los fines que en su caso pretenda.
+Tratándose de personas físicas que soliciten permiso para realizar la acuacultura de fomento deberán acreditar su capacidad científica o técnica de conformidad con lo dispuesto en el reglamento de esta ley, para los fines que en su caso pretenda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 87.
 
-Los interesados en obtener un permiso para acuicultura de fomento o didáctica, deberán presentar solicitud ante la Secretaría, con los datos y la documentación a que refiere el artículo 61 y lo siguiente:
-
-I. Manifestación de impacto ambiental;
-
-II. Autorización otorgada por la Comisión Estatal del Agua para el uso y aprovechamiento de aguas, en los términos de las disposiciones aplicables, y
-
-III. Presentar una definición científica y descripción detallada del proyecto de fomento o programa de estudio o investigación, según sea el caso, con la información que se prevea en el reglamento de esta ley.
+(DEROGADO, P.O. 22 DE JUNIO DE 2013)
 
 ###### Artículo 88.
 
@@ -1069,15 +1815,25 @@ IX. Informar directamente a la Secretaría, dentro del termino de veinticuatro h
 
 X. Las demás que se establezcan en la presente ley y su reglamento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 89.
 
-Los permisionarios que realicen actividades de acuicultura de fomento y didáctica deberán presentar a la Secretaría los informes de resultados de los proyectos de estudio o investigación que realicen en base al permiso otorgado.
+Los permisionarios que realicen actividades de acuacultura de fomento y didáctica deberán presentar a la Secretaría los informes de resultados de los proyectos de estudio o investigación que realicen en base al permiso otorgado.
 
-La Secretaría no podrá divulgar por ningún medio los resultados del proyecto de fomento o programa de estudio sin la previa autorización del permisionario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 90.
 
-La Secretaría no podrá divulgar por ningún medio los resultados del proyecto de fomento o programa de estudio realizado al amparo de los permisos para la acuacultura de fomento y didáctica autorizados conforme a esta ley, sin previa autorización del permisionario.
+La Secretaría no podrá divulgar por ningún medio los resultados del proyecto de fomento o programa de estudio realizado al amparo de los permisos para la acuacultura de fomento autorizados conforme a esta ley, sin previa autorización del responsable del proyecto.
 
 ###### Artículo 91.
 
@@ -1087,13 +1843,25 @@ Los productos derivados de la acuacultura de fomento y didáctica podrán comerc
 
 La vigencia de los permisos para la acuacultura de fomento y didáctica será estrictamente por el tiempo necesario para la realización del proyecto de fomento o programa de estudio para el que se hubieren solicitado.
 
-Los permisionarios de acuacultura de fomento y didáctica podrán solicitar a la Secretaría la modificación de la vigencia del permiso, debiendo justificar los motivos que a su criterio la hacen necesaria; la Secretaría resolverá la solicitud planteada tomando en consideración lo manifestado por el solicitante y en su caso en base a determinaciones técnicas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+Los permisionarios de acuacultura de fomento y didáctica, podrán solicitar en su caso a la Secretaría, prórroga de la vigencia del permiso, debiendo presentar por escrito los motivos que a su criterio la hacen necesaria. La Secretaría resolverá la solicitud planteada tomando en consideración lo manifestado por el solicitante y en su caso, en base a determinaciones técnicas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 93.
 
-Los permisionarios para la acuicultura comercial, de fomento y didáctica que pretendan realizar obras nuevas o actos que modifiquen las condiciones de operación de una granja o establecimiento acuícola deberán formular solicitud a la Secretaría para que ésta determine lo conducente, de conformidad a lo dispuesto en esta ley y su reglamento.
+Los permisionarios para la acuacultura comercial, de fomento y didáctica que pretendan realizar obras nuevas o actos que modifiquen las condiciones de operación de una granja o establecimiento acuícola deberán formular solicitud a la Secretaría, debiendo adjuntar el proyecto correspondiente, para que ésta determine lo conducente, de conformidad a lo dispuesto en esta ley y su reglamento.
 
-#### Sección Primera. Infracciones
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA Y REUBICADA, [N. DE E. ANTES SECCIÓN CUARTA], P.O. 22 DE JUNIO DE 2013)</small>
+
+#### Sección Séptima. Laboratorios de Diagnóstico y de Producción
 
 ###### Artículo 94.
 
@@ -1135,11 +1903,19 @@ Los permisos que otorgue la Secretaría para la operación de los laboratorios d
 
 Los permisos para laboratorios de diagnóstico o de producción podrán ser revalidados por un término de vigencia igual al otorgado originalmente, siempre que los interesados acrediten cumplir con los requisitos necesarios para su otorgamiento.
 
-#### Sección Segunda. Sanciones
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REUBICADA, [N. DE E. ANTES SECCIÓN QUINTA],P.O. 22 DE JUNIO DE 2013)
+
+#### Sección Octava. Introducción o Repoblación de Especies Vivas
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 100.
 
-Los permisos para la introducción o repoblación de especies vivas en los cuerpos de agua dulce continental, los interesados deberán presentar la solicitud respectiva, anexando la siguiente información:
+Para la obtención de permisos para la introducción o repoblación de especies vivas en los cuerpos de agua dulce continental, los interesados, además de lo previsto por el artículo 61 de esta ley, deberán presentar la solicitud respectiva, anexando la siguiente información:
 
 I. La fase de desarrollo de las especies a introducir;
 
@@ -1159,11 +1935,19 @@ VII. Si las especies vivas a introducir son de importación, un estudio con bibl
 
 La vigencia de los permisos para la introducción o repoblación de especies vivas será determinada por la Secretaría de acuerdo con el programa calendarizado de la introducción o repoblación manifestado en la solicitud respectiva y los estudios técnicos que en su caso realice.
 
-#### Sección Tercera. Recursos
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REUBICADA, [N. DE E. ANTES SECCIÓN SEXTA], P.O. 22 DE JUNIO DE 2013)
+
+#### Sección Novena. Recolección de Recursos Pesqueros del Medio Natural
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 102.
 
-Los permisos para recolectar recursos pesqueros del medio natural se otorgarán exclusivamente a:
+La Secretaria podrá otorgar los permisos para recolectar recursos pesqueros del medio natural: reproductores, larvas, post larvas, huevos, crías, alevines o en cualquier estadio, exclusivamente a:
 
 I. Permisionarios para la pesca comercial de la especie que se trate, que acrediten la celebración de contrato con el acuicultor o laboratorio al que abastecerá de estos organismos;
 
@@ -1177,9 +1961,13 @@ IV. Permisionarios para laboratorios de producción, únicamente para satisfacer
 
 Se prohíbe la captura o recolección del medio natural de los recursos pesqueros en cualquier estadio, con fines distintos a los de investigación o de abasto para la acuicultura.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 104.
 
-Los interesados en obtener un permiso para recolectar recursos pesqueros del medio natural deberán presentar ante la secretaría la solicitud respectiva y acreditar lo siguiente:
+Además de lo previsto por el artículo 61 de esta ley, los interesados en obtener un permiso para recolectar recursos pesqueros del medio natural deberán presentar ante la Secretaría la solicitud respectiva y acreditar lo siguiente:
 
 I. Número de permiso de la actividad de que se trate;
 
@@ -1199,13 +1987,21 @@ VIII. Sistema de cultivo.
 
 Se exceptúan del cumplimiento de los requisitos enunciados en las fracciones VII y VIII a los permisionarios de la pesca comercial, quienes a su vez deberán proporcionar el nombre y la ubicación de la granja, laboratorio o institución al que se proveerá del organismo recolectado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 105.
 
-Los permisionarios para recolectar recursos pesqueros del medio natural y los acuicultores que se abastezcan de ellos quedan obligados a realizar acciones de repoblación cuando así lo determine la Secretaría, en los términos y condiciones que la misma establezca.
+Los permisionarios para recolectar recursos pesqueros del medio natural y los acuacultores que se abastezcan de ellos quedan obligados a realizar acciones de repoblación cuando así lo determine la Secretaría, en los términos y condiciones que la misma establezca.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 106.
 
-Los permisionarios para recolectar del medio natural recursos pesqueros están obligados a presentar a la Secretaría, cuando concluyan la recolección, el aviso respectivo dentro de las setenta y dos horas siguientes al arribo en el que se contendrá la información siguiente:
+Los permisionarios para recolectar del medio natural recursos pesqueros están obligados a presentar a la Secretaría, cuando concluyan la recolección, los resultados de la operación en el formato de aviso respectivo, dentro de las setenta y dos horas siguientes al arribo, con la información siguiente:
 
 I. Nombre del permisionario, la fecha y el número del permiso al amparo del cual se realizó la recolección;
 
@@ -1217,7 +2013,11 @@ III. El número de organismos colectados y la fase de su desarrollo.
 
 Quienes colecten en cualquier estadio recursos pesqueros vivos provenientes de poblaciones naturales con fines de acuicultura, deberán observar los lineamientos que en materia de recolección, aclimatación, manejo, transporte y siembra de los mismos se señalen en el plan de manejo acuícola.
 
-### Capítulo VII. Revocación y Extinción de los Permisos
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REUBICADO, [N. DE E. ANTES CAPÍTULO VII], P.O. 22 DE JUNIO DE 2013)
+
+### Capítulo VII. Legal Procedencia
 
 ###### Artículo 108.
 
@@ -1265,7 +2065,11 @@ II. El cumplimiento de su finalidad, y
 
 III. La renuncia del interesado, cuando no se cause perjuicio al interés público.
 
-### Capítulo VIII. Legal Procedencia
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REUBICADO, [N. DE E. ANTES CAPÍTULO VIII], P.O. 22 DE JUNIO DE 213)
+
+### Capítulo I. Sistema Estatal de Financiamiento
 
 ###### Artículo 114.
 
@@ -1275,9 +2079,15 @@ Para las especies obtenidas al amparo de permisos de pesca deportivo-recreativa,
 
 Para la comercialización de los productos de la pesca y de la acuacultura, los comprobantes fiscales que se emitan deberán incluir el número de permiso o concesión respectiva.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 115.
 
-El traslado por vía terrestre, marítima o aérea de productos provenientes de las actividades de pesca y acuacultura en cuerpos de agua de jurisdicción estatal, deberá realizarse al amparo de la guía de pesca que al efecto determine la Secretaría conforme a esta ley y su reglamento.
+El traslado por vía terrestre o área de recursos pesqueros o acuícolas vivos, frescos, enhielados o congelados solo podrá realizarse al amparo de la guía de pesca expedida por la autoridad competente.
+
+Se exceptúan del requisito de tramitar la guía de pesca a los permisionarios de la pesca deportivo-recreativa, quienes deberán portar para ello únicamente el permiso respectivo para acreditar la legal procedencia de los mismos.
 
 ###### Artículo 116.
 
@@ -1285,7 +2095,9 @@ El trámite, los requisitos y la vigencia de los documentos para acreditar la le
 
 ## Título Cuarto. Instrumentos de Apoyo
 
-### Capítulo I. Sistema Estatal de Financiamiento
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+### Capítulo II. Apoyo a la Comercialización
 
 ###### Artículo 117.
 
@@ -1341,7 +2153,7 @@ V. Otorguen garantías para respaldar proyectos de importancia estratégica regi
 
 El Gobierno Estatal propiciara la coordinación en materia de financiamiento a la pesca y acuacultura, por parte de la banca de desarrollo e instituciones del sector público especializadas; la banca comercial, organismos privados de financiamiento, la banca social y organismos financieros de los productores rurales.
 
-### Capítulo II. Apoyo a la Comercialización
+### Capítulo III. Fomento a la Investigación y la Capacitación
 
 ###### Artículo 122.
 
@@ -1351,7 +2163,7 @@ I. Formulará el programa de comercialización y mercadeo;
 
 II. Proporcionará servicios de asesoría y capacitación en el desarrollo de mercados alternativos de comercialización;
 
-III. Establecerá los enlaces institucionales que permitan a los productores pesqueros y acuícolas identificar los nichos de mercado (sic) nacionales e internacionales para la comercialización de sus productos;
+III. Establecerá los enlaces institucionales que permitan a los productores pesqueros y acuícolas identificar los nichos de mercado nacionales e internacionales para la comercialización de sus productos;
 
 IV. Propiciará, el acceso de los productores a los diferentes mercados;
 
@@ -1379,7 +2191,7 @@ IV. Las demás que se establezcan en el reglamento de la presente ley.
 
 La Secretaría promoverá que los productores pesqueros y acuícolas desarrollen estructuras, esquemas e instrumentos que les permitan participar directamente en el mercado, apropiándose del valor que genera la cadena de productos primarios.
 
-### Capítulo III. Fomento a la Investigación y la Capacitación
+### Capítulo I. Inspección y Vigilancia
 
 ###### Artículo 126.
 
@@ -1421,7 +2233,7 @@ IV. Realizará acciones de asesoramiento técnico y capacitación de los product
 
 ## Título Quinto. Inspección y Vigilancia del Cumplimiento de esta Ley y de las Sanciones por su Infracción
 
-### Capítulo I. Inspección y Vigilancia
+### Capítulo II. Infracciones y Sanciones
 
 ###### Artículo 129.
 
@@ -1491,6 +2303,8 @@ La Secretaría, dentro de los quince días hábiles siguientes al del cierre def
 
 ### Capítulo II. Infracciones y Sanciones
 
+#### Sección Primera. Infracciones
+
 ###### Artículo 141.
 
 Son infracciones a lo establecido en la presente ley:
@@ -1509,7 +2323,11 @@ VI. Alterar la información contenida en los permisos otorgados por la Secretar�
 
 VII. Abstenerse de presentar los avisos de arribo y de producción, los informes de siembra y de cosecha, así como los informes de resultados de los proyectos de estudio o de investigación en materia pesquera o acuícola;
 
-VIII. Utilizar instrumentos, métodos o artes de pesca que no estén permitidos por la Secretaría;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+VIII. Transportar y utilizar instrumentos, métodos o artes de pesca que no estén permitidos por la Secretaría;
 
 IX. No contar con los documentos previstos en la presente ley para acreditar la legal procedencia de los recursos pesqueros o acuícolas;
 
@@ -1536,6 +2354,8 @@ XIX. No proporcionar la información en los términos y plazos que solicite la S
 XX. Impedir el acceso a las instalaciones acuícolas al personal autorizado por la Secretaría, y
 
 XXI. Cualquiera otra contravención a lo dispuesto en la presente ley, su reglamento o los planes de manejo pesquero o acuícola.
+
+#### Sección Segunda. Sanciones
 
 ###### Artículo 142.
 
@@ -1589,17 +2409,21 @@ Cuando en una misma acta se haga constar que las infracciones fueron cometidas p
 
 Las sanciones por las infracciones a esta ley se aplicarán sin perjuicio de las penas que correspondan a los delitos en que incurran los infractores.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 149.
 
-Para la determinación del monto de la multa a aplicar, se estará a lo siguiente:
+La imposición de multas a que se refiere la fracción II del artículo 142, se determinará en la forma siguiente:
 
-I. Será sancionado con multa de entre 50 a 100 veces el salario mínimo quien cometa las infracciones establecidas en las (sic) fracción IX del artículo 141;
+I. Con el equivalente de 50 a 100 días de salario mínimo vigente a quien cometa las infracciones señaladas en la fracción IX del artículo 141;
 
-II. Será sancionado con multa de entre 101 a 1000 veces el salario mínimo quien cometa las infracciones establecidas en las fracciones II, VI, VIII, XII, XV y XXI del artículo 141;
+II. Con el equivalente de 101 a 1,000 días de salario mínimo vigente a quien cometa las infracciones señaladas en las fracciones I, II, VI, VIII, XII, XV; y XXI del artículo 141;
 
-III. Será sancionado con multa de entre 1001 a 10000 veces el salario mínimo quien cometa las infracciones establecidas en las fracciones III, IV, V, X, XI, XVIII, XIX y XX del artículo 141, y
+III. Con el equivalente de 1,001 a 10,000 veces el salario mínimo quien cometa las infracciones señaladas en las fracciones III, IV, V, X, XI, XVIII, XIX, y XX del artículo 141, y
 
-IV. Será sancionado con multa de entre 10001 a 25000 veces el salario mínimo quien cometa las infracciones establecidas en las fracciones I, XIII, XIV y XVI del artículo 141.
+IV. Con el equivalente de 10,001 a 25,000 veces el salario mínimo quien cometa las infracciones señaladas en las fracciones XIII, XIV y XVI del artículo 141.
 
 En el caso de reincidencia, el monto de la multa a imponer será el doble a la multa impuesta en la primera infracción.
 
@@ -1607,9 +2431,13 @@ En el caso de reincidencia, el monto de la multa a imponer será el doble a la m
 
 Las sanciones consistentes en multa se harán efectivas por la autoridad fiscal competente a solicitud de la Secretaría, mediante el procedimiento administrativo de ejecución.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 151.
 
-En el caso de aseguramiento de los recursos pesqueros o acuícolas y demás productos a que se refiere la fracción III del artículo 141, la Secretaría deberá disponer de los recursos y bienes asegurados en beneficio social, dejando constancia de ello.
+En el caso de aseguramiento de los recursos pesqueros o acuícolas y demás productos a que se refiere la fracción III del artículo 142, la Secretaría deberá disponer de los recursos y bienes asegurados en beneficio social, antes de que se consideren no aptos para el consumo humano, dejando debida constancia de ello.
 
 ###### Artículo 152.
 
@@ -1629,9 +2457,27 @@ En los casos en que el infractor realice las medidas correctivas o subsane las i
 
 Los recursos financieros recaudados con motivo de la imposición de las multas a que se refiere esta ley, se depositarán en el fondo de fomento a la sanidad pesquera y acuícola que constituirá y operará la Secretaría para apoyar los programas y acciones que incrementen los niveles de sanidad de los recursos pesqueros y acuícolas del Estado.
 
+#### Sección Tercera. Recursos
+
 ###### Artículo 156.
 
 Contra las resoluciones definitivas dictadas por la Secretaría en los procedimientos administrativos instaurados con motivo de la aplicación de esta ley, su reglamento y demás disposiciones que de ellos se deriven, los interesados podrán interponer los medios de defensa previstos en la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+#### Sección Cuarta. Responsabilidades
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### Artículo 157.
+
+El incumplimiento por parte de los servidores públicos Estatales y Municipales de las disposiciones contenidas en la presente ley, su Reglamento y normas oficiales que de ella deriven, dará lugar a la responsabilidad en términos de la Constitución Política del Estado de Nayarit y la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit, así como de las demás vigentes y aplicables de carácter administrativo.
+
+Las responsabilidades a que se refiere este artículo se aplicarán sin perjuicio de las sanciones de carácter penal o civil que en su caso lleguen a determinarse por la autoridad judicial.
 
 Transitorios:
 
@@ -1652,3 +2498,9 @@ Y en cumplimiento a lo dispuesto en Fracción II del Articulo 69 de Constitució
 P.O. 16 DE MARZO DE 2013.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 22 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente decreto, entrará en vigor a los sesenta días siguientes a su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- El reglamento de la presente ley, deberá ser actualizado de conformidad a las disposiciones contenidas en el presente decreto, dentro de los treinta días siguientes a su entrada en vigor.
