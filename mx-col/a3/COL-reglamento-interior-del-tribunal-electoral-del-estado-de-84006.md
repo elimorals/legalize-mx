@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-del-tribunal-electoral-del-estado-de-84006"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-26"
-last_updated: "2011-11-26"
+last_updated: "2013-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84006&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
 
 Reglamento publicado en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 26 de noviembre de 2011.
 
@@ -313,7 +313,9 @@ Son requisitos para fungir como Oficial Mayor del TRIBUNAL, los siguientes:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos políticos y civiles;
 
-II. Tener título profesional en Administración y preferentemente con conocimientos en sistemas informáticos, así como contar con un mínimo de dos años de experiencia en su área;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+II. Tener título profesional de Licenciatura en Administración y/o Contaduría Pública y preferentemente con conocimientos en sistemas informáticos, así como contar con un mínimo de dos años de experiencia en su área;
 
 III. No haber participado como dirigente o candidato de un partido político a nivel municipal, distrital, estatal o federal, ni tener militancia partidista activa y pública en los términos que señala el ordenamiento legal respectivo;
 
@@ -772,3 +774,9 @@ SEGUNDO.- Se abroga el Reglamento Interior del Tribunal Electoral del Estado de 
 Dado en el Recinto Oficial del Tribunal Electoral del Estado, en la Décima Sexta Sesión Privada Extraordinaria del Periodo Interproceso 2010-2011, celebrada el diecisiete de noviembre de dos mil once.
 
 LIC. JULIO CÉSAR MARÍN VELÁZQUEZ COTTIER, MAGISTRADO PRESIDENTE. Rúbrica. LIC. RIGOBERTO SUÁREZ BRAVO, MAGISTRADO NUMERARIO. Rúbrica. LIC. ÁNGEL DURÁN PÉREZ, MAGISTRADO NUMERARIO. Rúbrica. LIC. ELÍAS SÁNCHEZ AGUAYO, SECRETARIO GENERAL DE ACUERDOS. Doy fe. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JUNIO DE 2013.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
