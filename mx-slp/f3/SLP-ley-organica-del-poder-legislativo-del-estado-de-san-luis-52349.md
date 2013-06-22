@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2013-05-14"
+last_updated: "2013-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -939,9 +939,11 @@ Las comisiones permanentes serán constituidas durante la primera semana del pri
 
 Ningún diputado puede formar parte de más de cuatro comisiones permanentes.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 87.
 
-Las comisiones permanentes, temporales y especiales, estarán integradas con un mínimo de tres y un máximo de siete diputados.
+Las comisiones permanentes se integrarán con un mínimo de tres y un máximo de siete diputados; las comisiones temporales y especiales estarán conformadas con por al menos tres, y hasta por el mismo número de legisladores integrantes de la Junta de Coordinación Política.
 
 ###### ARTICULO 88.
 
@@ -1585,11 +1587,11 @@ II. Previo estudio socioeconómico, apoyar en la medida de las posibilidades pre
 
 III. Las demás que les señale la presente Ley y el Reglamento.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 122.
 
-Cada Comité estará integrado pluralmente por un mínimo de cinco y un máximo de siete diputados. Estos comités tienen el carácter de permanentes; cada uno se compondrá de un Presidente, un Secretario, y vocales, electos por el Pleno.
+Cada Comité estará integrado pluralmente por un mínimo de cinco y un máximo de ocho diputados. Estos comités tienen el carácter de permanentes; cada uno se compondrá de, un Presidente, un Secretario, y vocales, electos por el Pleno.
 
 ###### ARTICULO 123.
 
@@ -2122,3 +2124,9 @@ P.O. 14 DE MAYO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.Lo (sic) tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
+
+P.O. 22 DE JUNIO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
