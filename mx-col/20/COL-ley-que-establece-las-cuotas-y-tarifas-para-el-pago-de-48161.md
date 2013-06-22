@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48161"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2013-02-16"
+last_updated: "2013-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -308,6 +308,14 @@ DE HASTA
 76 a 100 0.379 0.129 0.057 0.565
 
 126 en adelante 0.482 0.120 0.070 0.672
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+Se exceptúan de lo dispuesto por el párrafo anterior del presente artículo, cuando el usuario del servicio doméstico instale en el mismo predio donde recibe el servicio, algún comercio de los servicio previsto (sic) por el artículo 4 de esta Ley, y su consumo, promedio, bimestral no sea superior a 50 metros cúbicos por bimestre, al que históricamente se venía realizando, no le serán aplicables las tarifas previstas en el párrafo anterior. Por lo que mantendrá la tarifa correspondiente al servicio doméstico de que se trate.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+Para acceder a la excepción prevista en el párrafo anterior, el usuario del servicio no medido deberá solicitar la instalación de un medidor y acogerse a las tarifas previstas en este supuesto.
 
 ###### ARTICULO 7.
 
@@ -794,6 +802,10 @@ P.O. 16 DE FEBRERO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El presente Decreto no les será aplicable a quienes con anterioridad a éste, hayan cubierto los pagos de los derechos por concepto de agua potable, alcantarillado y saneamiento y, en su caso, los recargos y multas generados.
+
+P.O. 22 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
