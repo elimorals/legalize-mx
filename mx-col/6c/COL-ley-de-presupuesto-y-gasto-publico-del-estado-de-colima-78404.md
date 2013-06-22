@@ -4,7 +4,7 @@ identifier: "COL-ley-de-presupuesto-y-gasto-publico-del-estado-de-colima-78404"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-25"
-last_updated: "2010-12-25"
+last_updated: "2013-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78404&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PRESUPUESTO Y GASTO PUBLICO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 25 de diciembre de 2010.
 
@@ -547,6 +547,14 @@ En el Presupuesto de Egresos podrán incluirse partidas de ampliación automáti
 
 En el ejercicio del Presupuesto de Egresos los Poderes Legislativo y Judicial, los Entes Autónomos y las Entidades se sujetarán a la calendarización señalada en el Presupuesto de Egresos y en la fecha que determine la Secretaría, atendiendo los flujos de ingresos.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### Artículo 63 Bis.
+
+La inclusión que se realice de las sociedades y asociaciones civiles en el Presupuesto de Egresos del Estado, podrá realizarse respecto de aquellas que tengan como objeto social algún rubro diferente al que el Gobierno del Estado ya lo prevea dentro de sus funciones y obligaciones que tiene como Administración gubernamental o de programas y acciones que aquél tiene previsto dentro del Plan Estatal de Desarrollo.
+
+Por conducto del Órgano Superior, se realizarán auditorías a las sociedades y asociaciones civiles que reciban recursos públicos que previamente se hayan autorizado en el Presupuesto de Egresos del Estado, mismas que deberán acreditar anualmente ante la Secretaría el ejercicio del gasto. La Secretaría podrá suspender las ministraciones presupuestadas por falta de información que a criterio de la misma sea necesario.
+
 ### CAPÍTULO V. DE LOS MEDIOS ELECTRÓNICOS
 
 ###### Artículo 64.
@@ -698,3 +706,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 22 del mes de diciembre del año dos mil diez.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, DR. J. JESÚS OROZCO ALFARO.-Rúbrica.- EL SECRETARIO DE FINANZAS, C.P. FRANCISCO MANUEL OSORIO CRUZ.- Rúbrica.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
