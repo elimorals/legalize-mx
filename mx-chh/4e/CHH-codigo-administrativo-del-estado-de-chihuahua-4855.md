@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2013-06-19"
+last_updated: "2013-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -8875,15 +8875,299 @@ Una vez desahogados los traslados o transcurridos los plazos otorgados para ello
 
 Las dependencias o funcionarios del Ejecutivo no podrán impugnar las resoluciones que decidan sobre las cuestiones de competencia.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2013)</small>
+
+### CAPITULO I BIS. DE LOS PERMISOS PARA EL DEPÓSITO DE VEHÍCULOS
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-A.
+
+El servicio de depósito de vehículos consiste en la recepción, guarda y custodia en locales cercados y debidamente acondicionados, de vehículos infraccionados, abandonados, accidentados o descompuestos en las vías locales de comunicación de cualquier clase y/o en su caso, remitidos por la autoridad competente, quedando en garantía o a disposición de esta. Esta disposición incluye a los vehículos embargados o asegurados por las autoridades bajo cualquier título legal.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-B.
+
+El servicio lo prestará el Estado directamente o por conducto de personas morales, mediante el otorgamiento de un permiso del Ejecutivo.
+
+Cuando el servicio sea prestado por dependencias y entidades del Estado o de los Municipios, no será necesario el otorgamiento de permiso; sin embargo, su operación se sujetará a los mismos requisitos previstos en estas disposiciones.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-C.
+
+La autoridad competente para el otorgamiento de permisos, establecimiento de tarifas respectivas, control e inspección es la Secretaría General de Gobierno, quien podrá auxiliarse para estos fines de la Secretaría de Hacienda, de la Fiscalía General del Estado y de las autoridades en materia de vialidad y/o tránsito.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-D.
+
+Los permisos sólo se otorgarán a personas morales creadas o constituidas como sociedades mercantiles conforme a las leyes del país, que no admitan miembros o socios extranjeros y que su objeto social sea específico y exclusivo a la prestación del servicio de depósito vehicular.
+
+Serán otorgados permisos a quienes satisfagan los requisitos que más adelante se detallan.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-E.
+
+En la solicitud para el otorgamiento de permiso se indicará la denominación social de la persona moral y su domicilio, anexando los instrumentos que acrediten la legal existencia y la capacidad y representación de quien comparezca, acompañando la constancia del régimen fiscal a que se encuentra sujeta, y sus comprobantes.
+
+Además, deberá acreditarse la propiedad o legal posesión por un término igual o mayor al de la vigencia del permiso, de un terreno con la superficie mínima que en cada caso sea indicado, de acuerdo a la ubicación donde se pretenda establecer un depósito vehicular; inmueble que necesariamente deberá estar situado dentro del fundo legal de la población, y que se utilizará de manera exclusiva como depósito vehicular, por lo que deberá cercarse y acondicionarse con instalación eléctrica, teléfono o algún otro medio de comunicación, cámaras de video, piso compactado, extinguidores y rotulado para su identificación.
+
+De igual manera, el solicitante deberá presentar licencia de uso de suelo del inmueble expedido por la autoridad municipal correspondiente, y póliza de seguro debidamente liquidada que ampare los daños a los vehículos que ahí se depositarán.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-F.
+
+Una vez verificado el cumplimiento de las exigencias previstas para el otorgamiento de permisos de esta naturaleza, la Secretaría General de Gobierno emitirá la autorización necesaria para la operación de depósitos vehiculares.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-G.
+
+En el permiso estará debidamente fundamentado y motivado su otorgamiento, indicando la denominación social y domicilio del titular; el Registro Federal de Contribuyentes; la especificación de que se trata del servicio de depósito vehicular; las condiciones en que se debe prestar el servicio, incluyendo el domicilio del inmueble donde se prestará el mismo, la capacidad máxima de almacenamiento y las especificaciones físicas esenciales del predio; los derechos y obligaciones de los permisionarios; la vigencia; las causas de extinción y de cancelación; y el lugar y fecha de expedición.
+
+Adicionalmente podrá contener otras condiciones para la operación del servicio y pormenores del permiso.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-H.
+
+Los permisos se otorgarán por el término de quince años, pudiendo ser renovados por un plazo igual, siempre y cuando se mantengan vigentes las exigencias que motivaron su otorgamiento.
+
+Una misma persona moral no podrá ser titular de más de dos permisos. Queda prohibido, al amparo de un mismo permiso, prestar el servicio de depósito vehicular en más de un inmueble.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-I.
+
+Acordado el permiso, se señalará a la persona moral beneficiaria un término de treinta días para que otorgue una garantía a favor de la Secretaría de Hacienda que caucione los daños y perjuicios que pueda ocasionar en la prestación del servicio, así como el cumplimiento a las condiciones fijadas en el permiso para la prestación del servicio en cuanto a continuidad, regularidad, permanencia, seguridad e higiene del inmueble donde se prestará el servicio.
+
+La garantía, fijada discrecionalmente por la Secretaría General de Gobierno, podrá exhibirse en depósito ante la Secretaría de Hacienda, fianza de compañía aseguradora, prenda o hipoteca.
+
+La garantía deberá mantenerse vigente durante el tiempo de otorgamiento del permiso, al igual que la póliza de seguro. Para ello, de manera anual se deberá acreditar el cumplimiento de estas obligaciones.
+
+Los permisionarios serán solidariamente responsables de los daños que ocasionen sus empleados en la prestación del servicio.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-J.
+
+La prestación del servicio de depósito vehicular se sujetará a una tarifa, entendiendo por esta, la contraprestación económica autorizada para el cobro por este servicio, a costa del interesado en su devolución.
+
+La tarifa deberá ser revisada y actualizada anualmente por la Secretaría General de Gobierno y ser incluida en la Ley de Ingresos del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-K.
+
+Los permisionarios que presten el servicio de depósito vehicular tendrán derechos y obligaciones, mismos que serán establecidos en el documento de autorización respectivo.
+
+A. Obligaciones.
+
+I.- Cumplir con la prestación del servicio que fije el permiso;
+
+II.- Recibir los vehículos infraccionados, abandonados, accidentados, descompuestos, embargados o asegurados bajo cualquier título legal, que pongan bajo su guarda y custodia las autoridades competentes;
+
+III.- Observar las condiciones y disposiciones complementarias que se establezcan en el permiso;
+
+IV.- Conservar y devolver el vehículo en las mismas condiciones de su recepción, salvo el deterioro que se presente por el transcurso del tiempo, la intemperie o las condiciones climatológicas;
+
+V.- Entregar a la autoridad que presente el vehículo respectivo, la documentación que demuestre la recepción del mismo y que contenga la descripción pormenorizada de las condiciones en que se encuentra y la enumeración de los objetos que se encuentran en el interior;
+
+VI.- Implantar medidas de seguridad y vigilancia, contando además, con equipo de video que detalle la fecha y hora de la recepción del vehículo, así como la revisión detallada que se realice al bien al momento de recibirlo; debiendo entregar mensualmente a la Secretaría General de Gobierno el respaldo de las videograbaciones que hayan sido filmadas;
+
+VII.- Llevar un control detallado de todo vehículo que ingrese y que, en su caso, sea devuelto, o bien, de aquellos que mediante mandato de autoridad proceda a su remate, incluyendo aquellos sobre los cuales se encuentre fincado un crédito fiscal;
+
+VIII.- Respetar la tarifa establecida para la prestación del servicio;
+
+IX.- Responder ante la Secretaría General de Gobierno o ante cualquier autoridad estatal o municipal competente de las faltas en que incurran por sí mismos o por conducto de las personas de quienes se sirvan como empleados del inmueble donde opere el depósito vehicular;
+
+X.- Adquirir y mantener vigente póliza de seguro que ampare daños tanto a los vehículos que se depositarán en el inmueble, como a terceros, renovable cada dos años, acreditando por tanto, que sea ininterrumpida;
+
+XI.- Contar con personal debidamente capacitado para la atención del servicio requerido durante las veinticuatro horas de todos los días del año;
+
+XII.- Mantener en condiciones óptimas de higiene el inmueble respectivo;
+
+XIII.- Expedir a los interesados, contra el pago del servicio, factura o recibo que cumpla con los requisitos fiscales, y
+
+XIV.- Tratar con respeto, cortesía y atención a las personas que utilicen el servicio y a la población en general.
+
+B. Derechos.
+
+I.- Recibir los vehículos infraccionados, abandonados, accidentados, descompuestos, embargados o asegurados bajo cualquier título legal, que pongan bajo su guarda y custodia las autoridades competentes;
+
+II.- Cobrar a quienes acrediten un interés legítimo sobre los vehículos, la tarifa autorizada por la prestación del servicio;
+
+III.- Verificar el inventario que sea elaborado por la autoridad y cotejarlo con el que se levante en el momento de la recepción;
+
+IV.- Solicitar la renovación del permiso, siempre y cuando se mantengan vigentes las exigencias legales, y
+
+V.- Tener preferencia al pago de los gastos generados por el depósito vehicular, en los supuestos en que sea procedente el remate de los bienes.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-L.
+
+Los permisos se cancelarán cuando:
+
+I.- El que lo obtenga no preste el servicio directamente, transmitiendo de cualquier forma los derechos o explotación del mismo, o que deje de prestarlo sin causa justificada por más de sesenta días en un año;
+
+II.- El inmueble que se utilice como depósito vehicular no cumpla con las condiciones que el servicio requiera;
+
+III.- Se grave o se transmita el permiso;
+
+IV.- Se utilice el predio para realizar cualquier actividad ilícita con conocimiento, autorización o tolerancia del titular del permiso;
+
+V.- Se modifiquen o alteren las tarifas autorizadas, y
+
+VI.- Exista incumplimiento a cualquier disposición establecida en el permiso.
+
+La cancelación se decretará administrativamente, en términos de lo establecido por el artículo 1646 de este Código, sujetándose el procedimiento a lo establecido por el numeral 1647.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-M.
+
+Los permisos se extinguen:
+
+I.- Por la extinción, liquidación, quiebra o concurso de la persona moral titular; declarado judicialmente;
+
+II.- Por renuncia, y
+
+III.- Por cancelación.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-N.
+
+Bajo ninguna circunstancia se permitirá el depósito de vehículos que transporten materiales, residuos, remanentes y desechos peligrosos. Quedan exceptuados de esta disposición los vehículos que los transporten en envases y embalajes, así como en tanques portátiles que puedan ser transvasados y/o transbordados a otros vehículos.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637
+
+Ñ.- Al momento de recibir un vehículo en depósito, el permisionario recibirá del servidor público responsable de la puesta a disposición, o del operador de la grúa responsable del traslado, un acuse del bien depositado, que indique:
+
+I.- El nombre de quien entrega el vehículo;
+
+II.- Nombre de la compañía permisionaria del servicio de grúa, así como la descripción de sus placas de circulación;
+
+III.- Fecha y hora de recepción del vehículo;
+
+IV.- Las características generales del vehículo, tales como marca, tipo, modelo, color, número de serie y número de placas de circulación.
+
+V.- Nombre y firma autógrafa de quien recibe el vehículo;
+
+VI.- La descripción del estado físico del vehículo, así como la enumeración de los objetos que se encuentren en su interior;
+
+VII.- Causa que motivó el ingreso del vehículo al depósito.
+
+Igualmente, el permisionario deberá grabar con equipo de video que detalle la fecha y hora de la recepción del vehículo, así como la revisión detallada que se realice al bien al momento de recibirlo.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-O.
+
+Si al momento de la entrega del vehículo, el propietario o quien acredite legalmente un interés, detecta faltantes o averías que no se consignen en el inventario del vehículo objeto del servicio, deberá hacerlo constar en el apartado de observaciones del mismo.
+
+El permisionario tendrá la facultad de cotejar su documentación con el inventario levantado por la autoridad competente.
+
+El permisionario será responsable de cualquier parte o accesorio faltante, cuya preexistencia conste en el inventario respectivo, o que aparezca en el video que para tal efecto sea grabado, así como de los daños causados a los vehículos durante el plazo que permanezcan bajo su custodia, salvo el deterioro causado por el transcurso del tiempo, la intemperie o las condiciones climatológicas; y en cualquier caso, deberá restituirlos o repararlos a satisfacción del propietario o poseedor del vehículo.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-P.
+
+Para hacer entrega del vehículo objeto del servicio, el particular deberá recabar el oficio de liberación o entrega que para tal efecto expida la autoridad competente de la jurisdicción que corresponda, comprobando el pago de los daños que hubiese.
+
+En el momento de la entrega, deberá liquidarse el pago al permisionario por los servicios proporcionados.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-Q.
+
+La Secretaría General de Gobierno, tendrá en todo momento la facultad de revisar y/o inspeccionar las instalaciones donde se preste el servicio de depósito vehicular.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-R.
+
+En el supuesto de que el Ministerio Publico determine que los vehículos presuntamente abandonados, no hayan sido empleados en la comisión de algún delito, según lo establecido por el artículo 68 de la Ley de Vialidad y Tránsito para el Estado de Chihuahua, y previo al envío a un depósito vehicular y su puesta en disposición para la Secretaría de Hacienda, esta verificará en el padrón vehicular el nombre del propietario del bien presuntamente abandonado, ordenándosele notificar que el vehículo se encuentra a su disposición y señalando el domicilio del depósito vehicular en el que se encuentre.
+
+Cuando se desconozca el propietario y su domicilio, se notificará mediante publicación en el Periódico Oficial del Estado y en uno de mayor circulación en la localidad que se trate.
+
+Transcurrido un año contado a partir de la notificación referida en el párrafo anterior, sin que el propietario o poseedor del vehículo se presente a recogerlo, será emitida una declaratoria de abandono a favor del Estado, que deberá ser publicada en el Periódico Oficial del Estado y en uno de mayor circulación en la localidad que se trate, en la que se señale un plazo perentorio de treinta días para que el interesado acuda a recuperarlo, bajo el apercibimiento que de no realizarlo, se procederá a su remate.
+
+Agotado el procedimiento anterior, el permisionario tendrá prelación sobre el monto en que se adjudiquen los mismos, para que le sea liquidado el gasto operativo que el depósito de los bienes le representó; en este supuesto, deberá efectuarse el cálculo conforme a la tarifa autorizada.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-S.
+
+El remate de los bienes embargados se hará en pública almoneda, que se efectuará en el local que designe la Secretaría de Hacienda.
+
+En todo remate se efectuará previamente un avalúo del bien, en el que se designará un perito valuador, pudiendo quien acredite un interés legal sobre el vehículo, designar uno diverso dentro de los tres días siguientes. Igualmente, será designado por la Secretaría de Hacienda un tercero en discordia cuando hubiese desacuerdo entre los dos mencionados.
+
+El valor que se fije por medio de avalúo pericial, servirá de base para el remate de los bienes.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-T.
+
+El remate deberá ser convocado para una fecha fija dentro de los treinta días siguientes a la determinación del precio que deberá servir de base. La publicación de la convocatoria se hará cuando menos diez días antes de la fecha del remate, por dos veces con intermedio de siete días en el Periódico Oficial del Estado y en uno de circulación estatal.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-U.
+
+Es postura legal la que cubra las dos terceras partes del valor señalado como base para el remate.
+
+Al escrito en que se haga la postura se acompañará necesariamente un certificado de depósito expedido por la Recaudación de Rentas respectiva, por un importe de cuando menos el diez por ciento del valor fijado en la convocatoria a los bienes en cuyo remate se pretenda participar.
+
+El importe de los depósitos que se constituyan, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados.
+
+Inmediatamente después de fincado el remate, se devolverán los certificados de depósito a los postores, excepto el que corresponda al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
+
+Cuando el postor en cuyo favor se hubiere fincado un remate no cumpla con las obligaciones que contraiga, perderá el importe del depósito que hubiere constituido y se aplicará en orden de preferencia, al permisionario a fin de resarcirlo de los gastos que el depósito le hubiese generado.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-V.
+
+Fincado el remate de bienes muebles, se aplicará el depósito constituido y el postor, dentro de los tres días siguientes a la fecha del remate, enterará en la caja de la oficina recaudadora el saldo de la cantidad de contado ofrecida en su postura o mejora, y constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudando.
+
+Tan pronto como el postor hubiere cumplido con los requisitos a que se refiere el párrafo anterior, se procederá a entregarle los bienes que se le hubiere adjudicado.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-W.
+
+Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que, dentro de los treinta días siguientes, se lleve a cabo una segunda almoneda, cuya convocatoria se publicará por una sola vez.
+
+La base para el remate en la segunda almoneda se determinará deduciendo un veinte por ciento de la señalada para la primera.
+
+Si tampoco se fincare el remate en la segunda almoneda, la Secretaría de Hacienda emitirá autorización para su venta al mejor comprador.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-X.
+
+Se aplicarán supletoriamente, en lo concerniente a los remates, las disposiciones del Código Fiscal del Estado en primer término, y en lo no previsto, del Código de Procedimientos Civiles del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 1637-Y.
+
+Los depósitos vehiculares de competencia federal, se sujetarán a lo establecido por la Ley de Caminos, Puentes y Autotransporte Federal, su Reglamento y demás disposiciones que les resulten aplicables.
+
 (REUBICADO, P.O. 12 DE MAYO DE 2001)
 
 ### CAPITULO II. DE LOS PROCEDIMIENTOS
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
-
-### CAPITULO III. DE LA CADUCIDAD, CANCELACION, RESCISION O NULIDAD
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 1638.
 
@@ -8961,9 +9245,9 @@ La revocación se decretará de plano, únicamente en los casos en que los perju
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2001)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DE LA CADUCIDAD, CANCELACION, RESCISION O NULIDAD
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 1646.
 
@@ -9027,7 +9311,7 @@ DECIMA CUARTA PARTE
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO II. DEL DOMINIO PÚBLICO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9079,9 +9363,9 @@ Los bienes a que se refiere el artículo anterior pasarán a formar parte del do
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
+### CAPITULO II. DEL DOMINIO PÚBLICO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ###### ARTICULO 1652.
 
@@ -9291,9 +9575,9 @@ En caso de duda, el Gobernador del Estado, por conducto de la Secretaría de Hac
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
+### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 1672.
 
@@ -9397,9 +9681,9 @@ La Hacienda Pública estará facultada para retener administrativamente los bien
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
+### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ###### ARTICULO 1687.
 
@@ -9429,9 +9713,9 @@ Acordada la destrucción de un mueble inútil para el servicio se dará de baja 
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO UNICO. DE LAS EXPROPIACIONES
+### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 1691.
 
@@ -9518,6 +9802,10 @@ Un reglamento determinará las secciones de que habrá de componerse el Registro
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ## TITULO SEGUNDO. (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+### CAPITULO UNICO. DE LAS EXPROPIACIONES
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1701.
 
@@ -10766,3 +11054,31 @@ P.O. 19 DE JUNIO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría General de Gobierno recibirá las solicitudes para otorgamiento de permisos, en un plazo que no exceda de ciento ochenta días a la entrada en vigor del presente Decreto, teniendo preferencia, en igualdad de condiciones, quienes a la fecha prestan el servicio de depósito vehicular, con el propósito de regularizar su situación y someterse a lo dispuesto en este instrumento.
+
+###### ARTÍCULO TERCERO.
+
+En el caso que la beneficiaria de una autorización sea una persona moral que no se encuentre constituida como una sociedad mercantil conforme lo establecido por el artículo 1637-d, se le otorgará un plazo no mayor a sesenta días para reunir dichas exigencias y acreditarlo ante la propia Secretaría General de Gobierno, a fin de estar en aptitud de proceder al otorgamiento del permiso.
+
+###### ARTÍCULO CUARTO.
+
+Respecto de los vehículos que tengan uno o más años en depósitos vehiculares sin que el propietario o poseedor en aptitud de reclamarlos, se haya presentado a recogerlos, se ordenará notificarle que el bien se encuentra a disposición, mediante una publicación en el Periódico Oficial del Estado y en uno de mayor circulación en la localidad que se trate.
+
+Por única ocasión, después de transcurridos tres meses de la notificación referida, sin que el propietario o poseedor del vehículo se presente a recogerlo, será emitida una declaratoria de abandono que deberá ser publicada en el Periódico Oficial del Estado y en uno de mayor circulación en la localidad que se trate, en la que se señale un plazo perentorio de quince días para que el interesado acuda a recuperarlo, bajo el apercibimiento que de no realizarlo, la Secretaría de Hacienda procederá a su remate.
+
+###### ARTÍCULO QUINTO.
+
+Las tarifas a las que se hacen referencia en el presente Decreto, entrarán en vigor, hasta en tanto se realice la reforma pertinente en la Ley de Ingresos de Gobierno del Estado de Chihuahua.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan las demás disposiciones en lo que se opongan al presente Decreto.
