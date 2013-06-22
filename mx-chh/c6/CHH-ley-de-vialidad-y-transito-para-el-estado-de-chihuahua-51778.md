@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2013-01-12"
+last_updated: "2013-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -909,9 +909,13 @@ Para tal efecto la Dirección o el municipio fijarán el horario para realizar e
 
 Las autoridades de Tránsito y/o Vialidad cuidarán que en las vías públicas no existan obstáculos que impidan la libre circulación de los vehículos y los peatones.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 68.
 
-Los vehículos que presuntamente se encuentren abandonados en las vías públicas, serán retirados de las mismas si no son movilizados dentro de las veinticuatro horas siguientes en que se le requiera para tal efecto, mediante cédula que se dejará en el parabrisas del vehículo.
+La autoridad que reciba el reporte de los vehículos que presuntamente se encuentren abandonados en las vías públicas, deberá dar aviso de manera inmediata a la Fiscalía General del Estado, a efecto de que previas las indagatorias, el Ministerio Público determine si dicho bien fue empleado en la comisión de algún delito.
+
+En caso contrario, la Fiscalía General del Estado enviará el vehículo a un depósito vehicular, poniéndolo a disposición de la Secretaría de Hacienda, y realizándose el procedimiento previsto por el Código Administrativo.
 
 ###### Artículo 69.
 
@@ -1015,9 +1019,11 @@ En caso contrario, los oficiales de tránsito podrán ordenar que sean retirados
 
 El estacionamiento de vehículos destinados al transporte colectivo urbano o foráneo que estén fuera de servicio, así como sus terminales, deberán ubicarse fuera de la vía pública. Para su establecimiento se deberá contar con la opinión de las autoridades de transporte que corresponda, antes de que se emita el dictamen técnico en que se justifique la decisión.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 82.
 
-Los vehículos indebidamente estacionados, así como los señalados en las fracciones III a excepción hecha del propio domicilio y X del artículo 77 de esta Ley, los que se encuentren presuntamente abandonados y que no estén en condiciones de circular y aquellos que sean reparados en las vías públicas sin tener el carácter de urgente, serán retirados y trasladados a los corralones que disponga la Autoridad de Tránsito y/o Vialidad. Los gastos que se generen por el traslado y hospedaje del vehículo correrán por cuenta del propietario o poseedor del vehículo.
+Los vehículos indebidamente estacionados, así como los señalados en las fracciones III a excepción hecha del propio domicilio y X del artículo 77 de esta Ley, los que no estén en condiciones de circular y aquellos que sean reparados en las vías públicas sin tener el carácter de urgente, serán retirados y trasladados a los corralones que disponga la Autoridad de Tránsito y/o Vialidad. Los gastos que se generen por el traslado y hospedaje del vehículo correrán por cuenta del propietario o poseedor del vehículo.
 
 ###### Artículo 83.
 
@@ -1273,7 +1279,9 @@ c) Una placa de circulación.
 
 Los vehículos sólo podrán ser retirados de la circulación por las Autoridades de Tránsito, sin perjuicio de lo establecido por el artículo 82, cuando:
 
-I. Con ellos se cometa algún delito, colisión o volcadura;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+I. Con ellos se cometa alguna colisión o volcadura;
 
 II. No cumpla con los requisitos legales para su circulación;
 
@@ -1606,3 +1614,31 @@ P.O. 12 DE ENERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría General de Gobierno recibirá las solicitudes para otorgamiento de permisos, en un plazo que no exceda de ciento ochenta días a la entrada en vigor del presente Decreto, teniendo preferencia, en igualdad de condiciones, quienes a la fecha prestan el servicio de depósito vehicular, con el propósito de regularizar su situación y someterse a lo dispuesto en este instrumento.
+
+###### ARTÍCULO TERCERO.
+
+En el caso que la beneficiaria de una autorización sea una persona moral que no se encuentre constituida como una sociedad mercantil conforme lo establecido por el artículo 1637-d, se le otorgará un plazo no mayor a sesenta días para reunir dichas exigencias y acreditarlo ante la propia Secretaría General de Gobierno, a fin de estar en aptitud de proceder al otorgamiento del permiso.
+
+###### ARTÍCULO CUARTO.
+
+Respecto de los vehículos que tengan uno o más años en depósitos vehiculares sin que el propietario o poseedor en aptitud de reclamarlos, se haya presentado a recogerlos, se ordenará notificarle que el bien se encuentra a disposición, mediante una publicación en el Periódico Oficial del Estado y en uno de mayor circulación en la localidad que se trate.
+
+Por única ocasión, después de transcurridos tres meses de la notificación referida, sin que el propietario o poseedor del vehículo se presente a recogerlo, será emitida una declaratoria de abandono que deberá ser publicada en el Periódico Oficial del Estado y en uno de mayor circulación en la localidad que se trate, en la que se señale un plazo perentorio de quince días para que el interesado acuda a recuperarlo, bajo el apercibimiento que de no realizarlo, la Secretaría de Hacienda procederá a su remate.
+
+###### ARTÍCULO QUINTO.
+
+Las tarifas a las que se hacen referencia en el presente Decreto, entrarán en vigor, hasta en tanto se realice la reforma pertinente en la Ley de Ingresos de Gobierno del Estado de Chihuahua.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan las demás disposiciones en lo que se opongan al presente Decreto.
