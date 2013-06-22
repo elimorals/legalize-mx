@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-de-estudios-del-17519"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-10"
-last_updated: "2007-11-15"
+last_updated: "2013-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE ESTUDIOS DEL FEDERALISMO "PRISCILIANO SANCHEZ"
 
-REGLAMENTO INTERIOR
+REGLAMENTO INTERIOR DEL INSTITUTO DE ESTUDIOS DEL FEDERALISMO "PRISCILIANO SÁNCHEZ"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado Jalisco, el jueves 10 de agosto de 2000.
 
@@ -189,25 +189,25 @@ La duración del carácter del Consejero General terminará por muerte, incapaci
 
 Los consejeros honoríficos dejarán de serlo cuando fallezcan, renuncien, o el Consejo General les revoque el nombramiento por causa justificada.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### Artículo 13.
 
 Las facultades del Presidente del Consejo General son:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE NOVIEMBRE DE 2005)</small>
+I. Presidir las sesiones y coordinar los debates que surjan en las mismas;
 
-l. Respetar y ejecutar a través del Director General los acuerdos y criterios emanados del Consejo General;
+II. Emitir voto de calidad, en caso de empate;
 
-II. Presidir las sesiones y coordinar los debates que surjan en las mismas;
+III. Vigilar el correcto funcionamiento del Consejo General, de conformidad con los informes periódicos que le rinda el Director General; y
 
-III. Emitir voto de calidad, en caso de empate;
+IV. La representación oficial del Consejo General.
 
-IV. Vigilar el correcto funcionamiento del Consejo General de conformidad con los informes periódicos que le rinda el Director General; y
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-V. La representación oficial del Consejo General.
+###### Artículo 13 Bis.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2005)</small>
-
-En caso de ausencia del Presidente del Consejo General en las sesiones, lo sustituirá el Director General del Instituto, con las facultades que establece el presente artículo; (sic)
+El Presidente del Consejo General podrá delegar temporal o permanentemente su representación, mediante comunicado oficial, con las facultades que establece el presente artículo.
 
 ###### Artículo 14.
 
@@ -219,7 +219,9 @@ De cada una de las sesiones ordinarias o extraordinarias se levantará una acta 
 
 El quórum reglamentario exigirá la presencia de más de la mitad de los Consejeros Generales por lo menos, excepto en el caso de sesión cuando se trate del nombramiento, de la reelección o remoción del Director General o del Secretario General, en la cual se requerirán las dos terceras partes del total de Consejeros acreditados. Si no se integra el quórum requerido, se tendrá una espera de treinta minutos y entonces la sesión se llevará a cabo con los Consejeros Generales presentes, siempre que así se haya previsto en la convocatoria.
 
-Cuando por ausencia del Presidente Honorario del Consejo General, lo sustituya el Director General del Instituto, a éste a su vez lo sustituirá el Secretario General con voz y voto en la asamblea y por consiguiente el Director Administrativo tomará el lugar del Secretario General, para fines de la realización de dicha asamblea.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+En caso de ausencia del Presidente a una sesión, el Consejo General designará, de entre sus integrantes, a quien la presidirá. Cuando dicha designación recaiga en el Director General del Instituto, el mismo será suplido por el Secretario General, quien contará con voz y voto. En ese supuesto, el Secretario General será suplido por el Director Administrativo, quien contará con las facultades para la realización de la sesión.
 
 Para computar el quórum, no se considerará a las instituciones que hayan renunciado, o no hayan acreditado su representación, o a los Consejeros que estén en igual circunstancia.
 
@@ -309,7 +311,9 @@ V. A criterio del Consejo General, haberse distinguido en la promoción del fede
 
 El Director General tendrá, además de las funciones señaladas en el artículo 13 de la ley que crea el Instituto, las siguientes atribuciones:
 
-I. Moderar los trabajos del Consejo General y en ausencia del Presidente del mismo, sustituirlo;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+I. Moderar los trabajos del Consejo General;
 
 II. De acuerdo al decreto de creación del Instituto suscribir convenios de colaboración con dependencias y entidades de la administración pública Federal, Estatal y Municipal, así como con instituciones sociales y privadas en relación con las funciones del Instituto;
 
@@ -624,3 +628,7 @@ Segundo. El presente reglamento entrará en vigor al siguiente día de su public
 P.O. 15 DE NOVIEMBRE DE 2007.
 
 ÚNICO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE JUNIO DE 2013.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
