@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-ministerio-publico-para-el-estado-de-colima-11
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-04"
-last_updated: "2012-02-18"
+last_updated: "2013-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 4 de octubre de 1997.
 
@@ -1125,6 +1125,10 @@ IX.- Las demás que señalen las leyes y reglamentos respectivos.
 
 Toda la persona que tenga conocimiento de la comisión de un delito que deba perseguirse de oficio, esta obligada a denunciar ante el Ministerio Público y en caso de urgencia ante cualquier Funcionario o Agente de la Policía.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+Tratándose de delitos graves, y aquellos en que la víctima sea una persona menor de edad, inmediatamente que el Ministerio Público tenga conocimiento de los hechos deberá abocarse a su investigación y a la persecución del delito, y de no hacerlo así se incurrirá en responsabilidad administrativa.
+
 ###### ARTICULO 86.
 
 Toda persona que en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un delito, que deba perseguirse de oficio, esta obligada a participarlo inmediatamente al Ministerio Público, transmitiéndole todos los datos que tuviere, poniendo a su disposición desde luego a los inculpados, si hubieren sido detenidos.
@@ -1250,3 +1254,7 @@ QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realiza
 P.O. 18 DE FEBRERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
