@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2013-04-01"
+last_updated: "2013-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1857,7 +1857,7 @@ Artículo 52 BIS.- (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
 Por los servicios prestados en la Dirección General de Ingresos:
 
-Numero de días de salario mínimo
+Número de días de salario mínimo
 
 I.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
 
@@ -1873,7 +1873,7 @@ IV.- Por la expedición, renovación anual o reposición de la calcomanía fisca
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
-El derecho por la renovación anual de la calcomanía fiscal vehicular, deberán pagarlo las personas físicas y morales y las unidades económicas sin personalidad jurídica, que al 1°. de enero del ejercicio fiscal de que se trate, mantengan inscritos vehículos en el Registro Publico Vehicular del Estado de Colima, debiéndose realizar el pago a mas tardar el día 31 de marzo.
+El derecho por la renovación anual de la calcomanía fiscal vehicular, deberán pagarlo las personas físicas y morales y las unidades económicas sin personalidad jurídica, que al 1°. de enero del ejercicio fiscal de que se trate, mantengan inscritos vehículos en el Registro Público Vehicular del Estado de Colima, debiéndose realizar el pago a mas tardar el día 31 de marzo.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
@@ -4133,59 +4133,41 @@ la garantía original otorgada, se causarán los derechos por inscripción
 
 de gravámenes a que se refiere esta fracción.
 
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
 V.- Por la inscripción de la escritura constitutiva de sociedades
 
-mercantiles, del capital social o de los incrementos al mismo, sobre
+mercantiles, del capital social o de los incrementos al mismo,
 
-el monto del capital social ya sea fijo o variable o del incremento,
+la cuota a pagar será de 3.500
 
-se causará la tasa del 0.3%, sin que el mínimo sea inferior a. 7.000
+En el caso de escrituras constitutivas, los derechos mencionados
 
-Ni el máximo superior a 541.000
+se causarán incluyendo los poderes que se otorguen en estas,
 
-En caso de sociedades anónimas constituidas en la modalidad de
+independientemente del número de apoderados.
 
-capital variable, solo se causarán, los derechos mencionados cuando
-
-dichas modificaciones se refieran al capital social fijo.
-
-Cuando se presente para su inscripción una escritura o
-
-protocolización de acta de asamblea general de accionistas, en la
-
-que se adviertan modificaciones al capital social realizadas con
-
-anterioridad sin que se hubiera efectuado el pago de los derechos
-
-correspondientes, será base para el pago de los derechos previstos
-
-en esta fracción, el monto del capital que resulte de restarle al capital
-
-social que aparezca consignado en el documento que se presente
-
-para su inscripción, la suma de los importes que aparezcan ya
-
-inscritos en el folio mercantil correspondiente.
-
-Lo dispuesto en el párrafo anterior, es aplicable también para la fracción
-
-siguiente.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
 VI.- Por la inscripción de la escritura constitutiva de sociedades o
 
 asociaciones civiles, del capital social o de los incrementos al mismo,
 
-sobre el monto del capital social ya sea fijo o variable o del incremento,
+la cuota a pagar será de 3.500
 
-se cobrará la tasa del 0.3 %, sin que el mínimo sea inferior a. 7.000
+En el caso de escrituras constitutivas, los derechos mencionados se
 
-Ni el máximo superior a. 139.000
+causarán incluyendo los poderes que se otorguen en estas,
+
+independientemente del número de apoderados.
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
 VII.- Inscripción de las modificaciones a la escritura constitutiva de las
 
 sociedades o asociaciones de cualquier tipo, que no se refieran a
 
-aumento de capital social 9.000
+aumento de capital social, la cuota a pagar será de 3.500
 
 VIII.- Inscripción de operaciones de crédito de cualquier tipo
 
@@ -5400,3 +5382,7 @@ P.O. 1 DE ABRIL DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
