@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2013-04-06"
+last_updated: "2013-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -69,7 +69,9 @@ Todo individuo tiene derecho a ser juzgado en el plazo señalado por la Constitu
 
 El derecho de defensa es inviolable en todo grado y estado del procedimiento penal.
 
-El imputado, desde el momento de ser detenido o aprehendido, o al comparecer para declarar con dicho carácter ante la autoridad competente, tendrá derecho a que se le proporcione toda la información que sobre el caso requiera, a la asistencia, hasta la terminación del procedimiento, de un defensor, y a que se le reciban, en los términos de ley, las pruebas que legalmente ofrezca en relación con los hechos que se le imputen.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+El imputado, desde el momento de ser detenido o aprehendido, o al comparecer para declarar con dicho carácter ante la autoridad competente, tendrá derecho a que se le proporcione toda la información que sobre el caso requiera, incluyéndose la expedición de copias fotostáticas simples o certificadas a su costa de la averiguación previa o el proceso, esto último con excepción de los casos en que se trate de alguno de los delitos contemplados como graves por la Ley y de los autos que ordenen aprehensiones, cateos, intervención de comunicaciones, embargos precautorios, aseguramientos, y demás técnicas especiales de investigación autorizadas por este Código y demás leyes aplicables, u otras diligencias análogas respecto de las cuales el Ministerio Público o el Juez estime que debe guardarse reserva, en cualesquiera de los delitos, los cuales se notificarán en su caso, a criterio del funcionario respectivo únicamente a la víctima u ofendido de manera personal; también tendrá derecho a la asistencia, hasta la terminación del procedimiento de un defensor, y a que se le reciban, en los términos de ley, las pruebas que legalmente ofrezca en relación con los hechos que se le imputen.
 
 ###### ARTICULO 4.
 
@@ -171,9 +173,11 @@ El procedimiento de sustitución se sujetará a lo que señala la Ley Orgánica 
 
 ### CAPITULO II. EL MINISTERIO PUBLICO Y LA POLICIA DE PROCURACION DE JUSTICIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 19.
 
-Compete al Ministerio Público llevar a cabo la preparación y el ejercicio de la acción penal ante los Tribunales del Estado, en los casos que resulte procedente.
+Compete al Ministerio Público llevar a cabo la preparación y el ejercicio de la acción penal ante los Tribunales del Estado, en los casos que resulte procedente. Tratándose de delitos graves, y aquellos en que la víctima sea una persona menor de edad, inmediatamente que el Ministerio Público tenga conocimiento de los hechos deberá abocarse a su investigación y a la persecución del delito, y de no hacerlo así se incurrirá en responsabilidad conforme lo establece la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -295,7 +299,9 @@ Además de los derechos previstos en el Título Primero de este Código, el indi
 
 I.- A nombrar, desde el momento de ser detenido, o al comparecer para declarar con dicho carácter ante el Ministerio Público, persona de su confianza que se encargue de su defensa, a falta de ésta, el Ministerio Público le designará un defensor de oficio, en los términos previstos en el artículo 31, de este Código;
 
-II.- A que se le faciliten desde el momento mencionado en la fracción anterior, todos los datos que solicite para su defensa y que consten en la averiguación previa, para lo cual se permitirá a él y su defensor consultar en la oficina del Ministerio Público y en presencia del personal el expediente relativo;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+II.- A que se le faciliten desde el momento mencionado en la fracción anterior, todos los datos que solicite para su defensa y que consten en la averiguación previa, para lo cual se permitirá a él y su defensor consultar en la oficina del Ministerio Público y en presencia del personal el expediente relativo, sin perjuicio del derecho que tiene a que se le autorice la expedición de copias fotostáticas simples o certificadas a su costa de la averiguación previa, esto último con excepción de los casos en que se trate de alguno de los delitos contemplados como graves por la Ley y de los autos que ordenen aprehensiones, cateos, intervención de comunicaciones, embargos precautorios, aseguramientos, y demás técnicas especiales de investigación autorizadas por este Código y demás leyes aplicables, u otras diligencias análogas respecto de las cuales el Ministerio Público estime que debe guardarse reserva, en cualesquiera de los delitos, los cuales se notificarán en su caso y a criterio del funcionario respectivo únicamente a la víctima u ofendido de manera personal.
 
 III.- A que su defensor se encuentre presente en todas las diligencias que se practiquen durante la preparación de la acción procesal penal;
 
@@ -329,9 +335,9 @@ VIII.- Será juzgado antes de cuatro meses si se trata de delitos cuya pena máx
 
 Son derechos del defensor:
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-I.- Consultar el expediente y obtener las copias y certificaciones que solicite sobre documentos físicos o electrónicos que obren en el mismo. Durante la averiguación previa, solo podrá expedirse al defensor copia de las declaraciones rendidas por su defendido;
+I.- Consultar el expediente y obtener las copias y certificaciones que solicite sobre documentos físicos o electrónicos que obren en el mismo. Durante la averiguación previa se le deberá autorizar la expedición de copias fotostáticas simples o certificadas a su costa de la misma, con excepción de los casos en que se trate de alguno de los delitos contemplados como graves por la Ley y de los autos que ordenen aprehensiones, cateos, intervención de comunicaciones, embargos precautorios, aseguramientos, y demás técnicas especiales de investigación autorizadas por este Código y demás leyes aplicables, u otras diligencias análogas respecto de las cuales el Ministerio Público estime que debe guardarse reserva, en cualesquiera de los delitos, los cuales se notificarán en su caso y a criterio del funcionario respectivo únicamente a la víctima u ofendido de manera personal.
 
 II.- Comunicarse directa y personalmente en privado con el imputado, cuando lo estime conveniente;
 
@@ -401,7 +407,9 @@ I.- Ser enterados directa y oportunamente de los derechos que en su favor establ
 
 II.- Cuando lo soliciten, ser informados tanto del desarrollo del procedimiento penal como de las consecuencias legales de sus actuaciones dentro del mismo y a que se deje constancia en el expediente de esta atención;
 
-III.- A intervenir como coadyuvante del Ministerio Público durante la averiguación previa o en el procedimiento penal y designar personas de su confianza para que lo representen con ese mismo carácter; para poner a disposición del representante social, por sí, o por medio del representante legal todos los datos, indicios y medios de prueba conducentes a acreditar el cuerpo del delito, la probable responsabilidad del imputado, la existencia y el monto de los daños y perjuicios ocasionados por aquél y de su reparación, así como a que el Ministerio Público integre dichos datos a la averiguación;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+III.- A intervenir como coadyuvante del Ministerio Público durante la averiguación previa o en el procedimiento penal y designar personas de su confianza para que lo representen con ese mismo carácter; para poner a disposición del representante social, por sí, o por medio del representante legal todos los datos, indicios y medios de prueba conducentes a acreditar el cuerpo del delito, la probable responsabilidad del imputado, la existencia y el monto de los daños y perjuicios ocasionados por aquél y de su reparación, así como a que el Ministerio Público integre dichos datos a la averiguación; y se le expida copias fotostáticas simples o certificadas a su costa de la averiguación previa esto último con excepción de los casos en que se trate de alguno de los delitos contemplados como graves por la Ley y de los autos que ordenen aprehensiones, cateos, intervención de comunicaciones, embargos precautorios, aseguramientos, y demás técnicas especiales de investigación autorizadas por este Código y demás leyes aplicables, u otras diligencias análogas respecto de las cuales el Ministerio Público estime que debe guardarse reserva, en cualesquiera de los delitos.
 
 IV.- A comparecer activamente en los actos del juicio, por sí o por representante, y a que el Ministerio Público guarde confidencialidad respecto de los datos que permitan su localización, u otros datos que afecten su reputación, honor y buen nombre;
 
@@ -701,7 +709,9 @@ Las notificaciones se harán a más tardar el día siguiente al en que se dicten
 
 Las resoluciones serán notificadas personalmente a quienes puedan apelar de ellas, en los términos de éste Código y cuando así se ordene expresamente, salvo las excepciones que en este Capítulo se consignan.
 
-Los autos que ordenen aprehensiones, cateos, intervención de comunicaciones, embargos precautorios, aseguramientos u otras diligencias análogas, respecto de las cuales el Juzgador estime que debe guardarse reserva, se notificarán personalmente, sólo al Ministerio Público y en su caso al ofendido.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
+Los autos que ordenen aprehensiones, cateos, intervención de comunicaciones, embargos precautorios, aseguramientos, y demás técnicas especiales de investigación autorizadas por este Código y demás leyes aplicables, u otras diligencias análogas, respecto de las cuales el Juzgador estime que debe guardarse reserva, se notificarán personalmente, sólo al Ministerio Público y en su caso al ofendido.
 
 En los demás casos, se notificará al imputado personalmente, y a los otros interesados en la forma señalada en el artículo 72.
 
@@ -2063,9 +2073,11 @@ Para el ejercicio de la acción penal, será suficiente para proceder en el ejer
 
 En los casos de muerte de mujeres ingresadas a hospitales por traumatismo, heridas, fracturas, esguinces; amputaciones, cuerpos extraños, quemaduras y sus secuelas; caídas, contactos traumáticos; disparos, exposición a chorros de alta presión, aporreo, golpe, mordedura, patada, rasguño o torcedura; choque o empellón; ahogamiento y sumersión; sofocación y estrangulamiento; exposición a calor excesiva, contacto con agua corriente, bebidas, alimentos, grasas y aceites para cocina, calientes; privación de alimentos o agua; agresión con drogas, medicamentos, y sustancias biológicas, con sustancias corrosivas; agresión con plaguicidas, con gases y vapores, con productos químicos y sustancias nocivas; agresión por ahorcamiento, estrangulamiento y sofocación; agresión con disparo; agresión con materia explosiva, agresión con humo, fuego y llamas; agresión con vapor de agua, vapores y objetos calientes; agresión con objetos cortantes; agresión por empujón; agresión con fuerza corporal; agresión sexual con fuerza corporal; el Ministerio Público deberá iniciar la investigación como probable feminicidio.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 240.
 
-A las actuaciones de averiguación previa sólo podrán tener acceso el inculpado y su defensor, en los términos de la fracción II del artículo 26 de este Código, así como la víctima u ofendido y/o su representante legal, si los hay. El servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos que obren en la averiguación, incurrirá en la responsabilidad que corresponda.
+A las actuaciones de averiguación previa sólo podrán tener acceso el inculpado y su defensor, en los términos de la fracción II del artículo 26 de este Código, así como la víctima u ofendido y su representante legal, si los hay. El servidor público que indebidamente quebrante la reserva de las actuaciones referentes a autos que ordenen aprehensiones, cateos, intervención de comunicaciones, embargos precautorios, aseguramientos, y demás técnicas especiales de investigación autorizadas por este Código y demás leyes aplicables, u otras diligencias análogas respecto de las cuales se estime que debe guardarse reserva, o proporcione copia de ellas o de los documentos que obren en la averiguación, incurrirá en la responsabilidad que corresponda. No obstante tales actos en principio considerados reservados, se podrán notificar en su caso y a criterio del funcionario respectivo únicamente a la víctima u ofendido de manera personal.
 
 ###### ARTICULO 241.
 
@@ -2501,9 +2513,11 @@ VI.- Cuando se trate del delito contra la salud en su modalidad de narcomenudeo 
 
 En los casos de las tres primeras fracciones del artículo anterior se ordenará el archivo definitivo de la averiguación previa y en los casos de las dos restantes el archivo en reserva, en tanto pueda disponerse de los datos suficientes para satisfacer los requisitos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos o en su caso, decretar el archivo definitivo.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 291.
 
-El archivo de una averiguación debe ser confirmado por el Procurador General de Justicia en el Estado, en los términos de la Ley Orgánica correspondiente. Para este efecto, la determinación de archivo que Dicte el Agente del Ministerio Público, se notificará al denunciante, querellante u ofendido, dándole vista de las constancias de la averiguación previa para que esté en posibilidad de presentar por escrito, ante el Procurador General de Justicia y dentro de los quince días siguientes, los alegatos que estime necesarios. La resolución del Procurador será también notificada al interesado.
+El archivo de una averiguación debe ser confirmado por el Procurador General de Justicia en el Estado, en los términos de la Ley Orgánica correspondiente. Para este efecto la determinación de archivo que dicte el Agente del Ministerio Público, se notificará personalmente al denunciante querellante u ofendido, debiéndole otorgar de oficio copias fotostáticas simples de las constancias de la averiguación previa al momento mismo de la notificación, previo pago de los derechos correspondientes, para que esté en posibilidad de presentar por escrito, ante el Procurador General de Justicia y dentro de los quince días siguientes, los alegatos que estime necesarios. La resolución del Procurador será también notificada en la misma forma al interesado.
 
 ###### ARTICULO 292.
 
@@ -3724,5 +3738,9 @@ P.O. 12 DE ENERO DE 2013.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 6 DE ABRIL DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE JUNIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
