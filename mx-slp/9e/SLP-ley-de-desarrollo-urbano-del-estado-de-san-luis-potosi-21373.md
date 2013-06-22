@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2012-10-18"
+last_updated: "2013-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. EL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ A TRAVÉS DEL DECRETO 002, PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 18 DE OCTUBRE DE 2012, DEJA INSUBSISTENTE EL PROYECTO DE DECRETO APROBADO POR EL HONORABLE CONGRESO DEL ESTADO, DE SESIÓN EXTRAORDINARIA DEL 6 DE SEPTIEMBRE DE 2012, QUE REFORMÓ EL ARTÍCULO 157 EN SU FRACCIÓN IV EL PÁRRAFO TERCERO; Y SE DEROGÓ, DEL ARTÍCULO 202 LA FRACCIÓN III, EL ARTÍCULO 203, Y DEL ARTÍCULO 205 EN SU FRACCIÓN IV EL PÁRRAFO, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ Y, EN CONSECUENCIA, TALES PRECEPTOS QUEDAN COMO ESTABAN VIGENTES.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -791,9 +789,23 @@ I. Los planos de subdivisión y fraccionamiento de predios con sus normas de uso
 
 II. Los planes autorizados según las disposiciones de ésta Ley;
 
-III. Las declaratorias de zonas arqueológicas e históricas propiedad de la Nación, que se encuentren situadas en el territorio de la Entidad y, de igual manera, los planes de habilitación, preservación, ampliación y mejoras de dichas zonas, aprobados por el Instituto Nacional de Antropología e Historia, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Los planes de zonas urbanas ejidales, que de acuerdo a la Ley Agraria, señalen las superficies reservadas para los servicios públicos del núcleo ejidal.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+III. Las declaratorias de zonas arqueológicas e históricas propiedad de la Nación, que se encuentren situadas en el territorio de la Entidad y, de igual manera, los planes de habilitación, preservación, ampliación y mejoras de dichas zonas, aprobados por el Instituto Nacional de Antropología e Historia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+IV. Los planes de zonas urbanas ejidales, que de acuerdo a la Ley Agraria, señalen las superficies reservadas para los servicios públicos del núcleo ejidal, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+V. Los análisis de riesgo.
 
 ###### ARTICULO 30.
 
@@ -3936,3 +3948,13 @@ P.O. 18 DE OCTUBRE DE 2012.
 DECRETO 002, POR EL QUE SE DEJA INSUBSISTENTE EL PROYECTO DE DECRETO APROBADO POR EL HONORABLE CONGRESO DEL ESTADO, DE SESIÓN EXTRAORDINARIA DEL 6 DE SEPTIEMBRE DE 2012, QUE REFORMÓ EL ARTÍCULO 157 EN SU FRACCIÓN IV EL PÁRRAFO TERCERO; Y SE DEROGÓ, DEL ARTÍCULO 202 LA FRACCIÓN III, EL ARTÍCULO 203, Y DEL ARTÍCULO 205 EN SU FRACCIÓN IV EL PÁRRAFO, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ Y, EN CONSECUENCIA, TALES PRECEPTOS QUEDAN COMO ESTABAN VIGENTES.
 
 Único. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+TERCERO. El Plan Regional de Desarrollo deberá adecuarse con las reformas relativas a la Ley de Desarrollo Urbano, en un término de trescientos sesenta y cinco días, contados a partir de la entrada en vigor de este Decreto.
