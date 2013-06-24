@@ -4,7 +4,7 @@ identifier: "SON-codigo-electoral-para-el-estado-de-sonora-45286"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-06-29"
-last_updated: "2012-08-23"
+last_updated: "2013-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # CODIGO ELECTORAL PARA EL ESTADO DE SONORA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2013 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO ELECTORAL PARA EL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE AGOSTO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 24 DE JUNIO DE 2013.</small>
 
 Código publicado en la Edición Especial No. 2 del Boletín Oficial del Estado de Sonora, el miércoles 29 de junio de 2005.
 
@@ -59,7 +59,7 @@ I.- Código: el Código Electoral para el Estado de Sonora;
 
 II.- Constitución Federal: la Constitución Política de los Estados Unidos Mexicanos;
 
-III- Constitución Local: la Constitución Política del Estado de Sonora;
+III.- Constitución Local: la Constitución Política del Estado de Sonora;
 
 IV.- Congreso: el Congreso del Estado de Sonora;
 
@@ -79,7 +79,7 @@ VII.- Consejos Electorales: el Consejo Estatal y los Consejos Distritales y Muni
 
 VIII.- Consejero: cada uno de los integrantes de los Consejos Electorales;
 
-IX.- Candidato: los ciudadanos que se postulan directamente o por un partido, alianza entre partidos o coalición, para ocupar un cargo de elección popular.'
+IX.- Candidato: los ciudadanos que se postulan directamente o por un partido, alianza entre partidos o coalición, para ocupar un cargo de elección popular.
 
 > <small>(REFORMADA, B.O. 9 DE JUNIO DE 2008)</small>
 
@@ -385,7 +385,7 @@ XII.- En la propaganda política o electoral que difunda, abstenerse de expresio
 
 > <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-XIII.- Llevar a cabo cursos de capacitación sobre el cargo a contender pata sus aspirantes a puestos de elección popular, incluidos los cargos de representación proporcional, previo a su correspondiente registro; y
+XIII.- Llevar a cabo cursos de capacitación sobre el cargo a contender para sus aspirantes a puestos de elección popular, incluidos los cargos de representación proporcional, previo a su correspondiente registro; y
 
 > <small>(ADICIONADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
@@ -645,11 +645,11 @@ IV.- La Comisión de Fiscalización podrá ordenar la práctica de auditorías y
 
 Si la Comisión de Fiscalización advirtiera alguna irregularidad en el manejo financiero de los partidos, alianzas o coaliciones, notificará al infractor lo conducente para que, dentro de un plazo de quince días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes. Con base en lo anterior, la Comisión de Fiscalización procederá a elaborar el dictamen con los requisitos y para los efectos señalados en la fracción III del artículo 37 de este Código, y, según sea el caso, podrá proponer al pleno, solicitar al Instituto Federal Electoral, realice la auditoría y fiscalización del partido, candidatos, precandidatos y personal encargado de las finanzas de campañas, que presumiblemente, ha incurrido en dichas irregularidades, para los efectos que establece el penúltimo párrafo de la fracción V del artículo 41 de la Constitución Federal.
 
-> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
+(REFORMADO, B.O. 23 DE AGOSTO DE 2012) (F. DE E., B.O. 24 DE JUNIO DE 2013)
 
 ###### ARTÍCULO 36.
 
-Los partidos, alianzas o coaliciones deberán presentar, dentro de los cuarenta y cinco días naturales siguientes al de cierre de campañas electorales, los informes de gastos de cada una de las campañas en las elecciones respectivas, que contendrán, al menos, origen, monto y destino de los recursos que se hayan utilizado para financiar los gastos correspondientes; debiendo de realizar dos informes preliminares uno al último día del mes de mayo y otro al cierre de la campaña, debiendo de presentar los informes dentro de los cinco días siguientes a dichas fechas. Debiéndose reglamentar los mismos para la forma y efectos en los lineamientos generales que establezca el Consejo Estatal.
+Los partidos, alianzas o coaliciones deberán presentar, dentro de los cuarenta y cinco días naturales siguientes al de cierre de campañas electorales, los informes de gastos de cada una de las campañas en las elecciones respectivas, que contendrán, al menos, origen, monto y destino de los recursos que se hayan utilizado para financiar los gastos correspondientes; debiendo de realizar un informe preliminar al cierre de la campaña. Reglamentándose los mismos para la forma y efectos en los lineamientos generales que establezca el Consejo Estatal.
 
 ###### ARTÍCULO 37.
 
@@ -661,9 +661,9 @@ I.- La Comisión de Fiscalización contará hasta con treinta días para revisar
 
 Dentro del proceso de revisión de los informes, la Comisión de Fiscalización tomará en consideración los informes que le presente la Comisión de Monitoreo de Medios de Comunicación sobre la utilización que los partidos, alianzas o coaliciones hicieran de tales medios.
 
-> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
+(REFORMADA, B.O. 23 DE AGOSTO DE 2012) (F. DE E., B.O. 24 DE JUNIO DE 2013)
 
-II.- Si de la revisión de los informes la Comisión advierte la existencia de irregularidades, omisiones o errores se aclararán y resolverán informalmente las que así procedan dentro de los treinta días del proceso de revisión para lo cual la Comisión de Fiscalización citará a los partidos políticos a fin de realizar una sesión de confronta.
+II.- Si de la revisión de los informes la Comisión advierte la existencia de irregularidades, omisiones o errores se aclararán y resolverán informalmente las que así procedan dentro de los treinta días del proceso de revisión.
 
 Terminado el periodo de revisión se notificará al partido, alianza o coalición que hubiere incurrido en irregularidades, omisiones o errores para que, dentro de un plazo de diez días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes.
 
@@ -1261,7 +1261,7 @@ Asimismo, el Pleno del Consejo Estatal conocerá y resolverá, según sea el cas
 
 ###### ARTÍCULO 96.
 
-El Consejo Estatal se reunirá dentro de los primeros diez día del mes de octubre del año anterior al de las elecciones ordinarias, a efecto de emitir la declaratoria formal del inicio del proceso electoral ordinario correspondiente.
+El Consejo Estatal se reunirá dentro de los primeros diez días del mes de octubre del año anterior al de las elecciones ordinarias, a efecto de emitir la declaratoria formal del inicio del proceso electoral ordinario correspondiente.
 
 A partir de esta declaratoria y hasta la culminación del proceso, el Consejo Estatal sesionará en forma ordinaria por lo menos, una vez al mes dentro de los primeros diez días, para lo cual se deberá convocar cuando menos cuarenta y ocho horas de anticipación a la celebración de la sesión.
 
@@ -1271,17 +1271,21 @@ Concluido el proceso el Consejo Estatal sesionará en forma ordinaria cada dos m
 
 De igual forma, podrá celebrar sesiones con carácter extraordinario cuando así se establezca en el presente Código o bien el presidente del Consejo Estatal o a petición de dos o más Consejeros; debiéndose convocar cuando menos con veinticuatro horas de anticipación a la celebración de la sesión.
 
-En toda convocatoria para sesión se deberá de acompañar los proyectos de acuerdos, resoluciones o demás documentos que tengan relación con los puntos a tratar dentro del orden del día.
+> <small>(F. DE E., B.O. 24 DE JUNIO DE 2013)</small>
+
+En toda convocatoria para sesión se deberá de acompañar los proyectos de acuerdos, resoluciones o demás documentos que tengan relación con los puntos a tratar dentro del orden del día; salvo lo previsto por el reglamento.
 
 Para la celebración de las sesiones es requisito indispensable de que se haya convocado a los comisionados con las formalidades que exija este Código y el reglamento.
 
-> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
+(REFORMADO, B.O. 23 DE AGOSTO DE 2012) (F. DE E., B.O. 24 DE JUNIO DE 2013)
 
 ###### ARTÍCULO 97.
 
-Para que el Consejo Estatal pueda sesionar es necesaria la presencia de la mayoría de los consejeros propietarios, debiendo ser el presidente uno de ellos, a menos de que se encuentren presentes cuatro consejeros, en cuyo caso podrá llevarse a cabo la sesión sin el presidente; para lo cual deberá asumir el cargo de Presidente el consejero de mayor edad.
+Para que el Consejo Estatal pueda sesionar es necesaria la presencia de la mayoría de los consejeros propietarios, debiendo ser el presidente uno de ellos, y en caso de que no se encuentre presente este último, podrán sesionar la mayoría de los Consejeros, nombrando de entre ellos al Consejero que fungirá como presidente.
 
-Las resoluciones se tomarán por mayoría de votos y, en caso de empate, el presidente definirá el sentido de la votación con su voto. Los consejeros podrán votar a favor o en contra del proyecto de acuerdo o resolución pudiendo emitir votos concurrentes o votos particulares, pero en ningún caso podrán abstenerse, y en caso de que no exista pronunciamiento se contará como un voto en contra.
+> <small>(F. DE E., B.O. 24 DE JUNIO DE 2013)</small>
+
+Las resoluciones se tomarán por mayoría de votos y, en caso de empate, el presidente definirá el sentido de la votación con su voto. Los consejeros podrán votar a favor o en contra del proyecto de acuerdo o resolución pudiendo emitir votos concurrentes o votos particulares.
 
 ###### ARTÍCULO 98.
 
@@ -1309,9 +1313,9 @@ VII.- Llevar a cabo el procedimiento para integrar las mesas directivas, de acue
 
 VIII.- Vigilar el desarrollo de los trabajos de integración, actualización, depuración y revisión de las listas nominales;
 
-> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
+(REFORMADA, B.O. 23 DE AGOSTO DE 2012) (F. DE E., B.O. 24 DE JUNIO DE 2013)
 
-IX.- Proporcionar la información que requieran los partidos, alianzas o coaliciones, dentro de los cinco días siguientes a partir de que se reciba la solicitud;
+IX.- Proporcionar la información que requieran los partidos, alianzas o coaliciones, dentro de los quince días siguientes a partir de que se reciba la solicitud;
 
 X.- Promover ante el Registro Electoral o ante el organismo federal electoral que corresponda la práctica de los trabajos técnicos necesarios para la preparación del proceso;
 
@@ -1347,9 +1351,9 @@ XIX.- Registrar la plataforma electoral mínima que los candidatos sostendrán e
 
 XX.- Llevar a cabo los trabajos técnicos y el procedimiento establecido en los artículos 180 y 181 de este Código, relativo a la designación, en tiempo y forma, del regidor étnico propietario y suplente para efecto de que se integren a la planilla de Ayuntamiento que haya resultado electa en el Municipio correspondiente;
 
-> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
+(REFORMADA, B.O. 23 DE AGOSTO DE 2012) (F. DE E., B.O. 24 DE JUNIO DE 2013)
 
-XXI.- Designar al secretario del Consejo Estatal por el voto de las dos terceras partes de sus miembros, conforme a la propuesta en terna que presente su presidente, quien solo podrá ser removido también por el voto de las dos terceras partes previo procedimiento de destitución por las causales que señala este Código. El Secretario del Consejo durará en su encargo tres años a partir de su nombramiento pudiendo ser ratificado para otro periodo más;
+XXI.- Designar al secretario del Consejo Estatal por el voto de las dos terceras partes de sus miembros, conforme a la propuesta en terna que presente su presidente, quien solo podrá ser removido también por el voto de las dos terceras partes;
 
 XXII.- Integrar las comisiones ordinarias según se determinan en este Código, así como las comisiones especiales que considere pertinente, por el voto de las dos terceras partes de sus miembros;
 
@@ -1481,7 +1485,7 @@ Para tal efecto emitirá una convocatoria que deberá publicar en los medios de 
 
 Las propuestas de designación de los consejeros, deberán darse a conocer con diez días de anticipación previo a la designación dentro de los cuales los comisionados podrán formular las objeciones que estimen pertinentes.
 
-Resueltas las objeciones se citará a sesión extraordinaria para la aprobación de los consejeros designados; debiéndose de publicar en los medios de mayor circulación con cobertura en el Estado, así como en la página oficial de Internet del propio Consejo Estatal y en Boletín Oficial del Gobierno del Estado.
+Resueltas las objeciones se citará a sesión extraordinaria para la aprobación de los consejeros designados; debiéndose de publicar en los medios de mayor circulación con cobertura en el Estado, así como en la página oficial de Internet del propio Consejo Estatal y en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO 100.
 
@@ -1495,9 +1499,9 @@ III.- Remitir para su consideración al titular del Poder Ejecutivo el proyecto 
 
 IV.- Ejecutar y vigilar el cumplimiento de los acuerdos del Consejo Estatal, salvo los casos en que la Ley o el pleno del Consejo Estatal dispongan lo contrario;
 
-> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
+(REFORMADA, B.O. 23 DE AGOSTO DE 2012) (F. DE E., B.O. 24 DE JUNIO DE 2013)
 
-V.- Proponer la terna al Consejo Estatal para la designación del titular del órgano de control interno;
+V.- Proponer a quien deba ocupar el cargo de titular del órgano de control interno al Consejo Estatal;
 
 VI.- Establecer los vínculos entre los organismos electorales y las autoridades federales, estatales y municipales, en sus respectivos ámbitos de competencia, cuando esto sea necesario para el cumplimiento de los fines del propio Consejo Estatal;
 
@@ -1603,9 +1607,9 @@ ARTÍCULO 101 BIS 5.- Los consejeros de los Consejos Distritales deberán reunir
 
 ARTÍCULO 101 BIS 6.- Los Consejos Distritales se reunirán, a más tardar durante los primeros quince días del mes de febrero del año de la elección ordinaria, con el objeto de preparar los procesos correspondientes. A partir de esa fecha y hasta la culminación del proceso, sesionarán por lo menos una vez al mes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2012)</small>
+(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2012) (F. DE E., B.O. 24 DE JUNIO DE 2013)
 
-ARTÍCULO 101 BIS 7.- Para que los Consejos Distritales puedan sesionar es necesario que esté presente la mayoría de los consejeros propietarios, previamente convocados por escrito y, entre ellos, deberá estar el Presidente. Si no concurre el Presidente, el Consejo Distrital podrá sesionar con la presencia de cuatro consejeros, para lo cual deberá asumir el cargo de Presidente el consejero de mayor edad.
+ARTÍCULO 101 BIS 7.- Para que los Consejos Distritales puedan sesionar es necesario que esté presente la mayoría de los consejeros propietarios, previamente convocados por escrito y, entre ellos, deberá estar el Presidente. Si no concurre el Presidente, el Consejo Distrital podrá sesionar con la presencia de cuatro consejeros, eligiéndose entre ellos quien deberá fungir cono (sic) Presidente.
 
 > <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2008)</small>
 
@@ -1761,11 +1765,11 @@ Los consejeros de los Consejos Municipales deberán reunir los requisitos que es
 
 Los Consejos Municipales se reunirán, a más tardar durante los primeros quince días del mes de febrero del año de la elección ordinaria, con el objeto de preparar los procesos correspondientes. A partir de esa fecha y hasta la culminación del proceso, sesionarán por lo menos una vez al mes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2012)</small>
+(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2012) (F. DE E., B.O. 24 DE JUNIO DE 2013)
 
 ###### ARTÍCULO 109.
 
-Para que los Consejos Municipales puedan sesionar es necesario que esté presente la mayoría de los consejeros propietarios, previamente convocados por escrito y, entre ellos, deberá estar el Presidente. Si no concurre el presidente, el Consejo Municipal podrá sesionar con la presencia de cuatro consejeros, para lo cual deberá asumir el cargo de Presidente el consejero de mayor edad.
+Para que los Consejos Municipales puedan sesionar es necesario que esté presente la mayoría de los consejeros propietarios, previamente convocados por escrito y, entre ellos, deberá estar el Presidente. Si no concurre el presidente, el Consejo Municipal podrá sesionar con la presencia de cuatro consejeros, eligiéndose entre ellos quien deberá fungir cono (sic) Presidente.
 
 Las resoluciones se tomarán por mayoría de votos y, en caso de empate, el presidente definirá el sentido de la votación con su voto.
 
@@ -1919,7 +1923,7 @@ El procedimiento para integrar las mesas directivas será el siguiente:
 
 > <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-I.- En el mes de marzo del riño en que deban celebrarse las elecciones, el Consejo Estatal procederá a insacular, de las listas nominales formuladas con corte al último día de febrero del mismo año, a un 15% de ciudadanos de cada sección, sin que en ningún caso el número de ciudadanos insaculados sea menor a 50; para lo cual podrá apoyarse en los centros de cómputo del Registro Estatal. En este último supuesto podrán estar presentes en el procedimiento de insaculación los miembros del Consejo Estatal y los comisionados, según la programación que previamente se determine;
+I.- En el mes de marzo del año en que deban celebrarse las elecciones, el Consejo Estatal procederá a insacular, de las listas nominales formuladas con corte al último día de febrero del mismo año, a un 15% de ciudadanos de cada sección, sin que en ningún caso el número de ciudadanos insaculados sea menor a 50; para lo cual podrá apoyarse en los centros de cómputo del Registro Estatal. En este último supuesto podrán estar presentes en el procedimiento de insaculación los miembros del Consejo Estatal y los comisionados, según la programación que previamente se determine;
 
 > <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
@@ -2001,7 +2005,7 @@ b) Comprobar que el nombre y fotografía del elector figure en la lista nominal 
 
 > <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
-c) Antes de iniciar la votación, contar y registrar el número de talonarios foliados en sus correspondientes boletas electorales que se les hayan entregado previamente, anotando los resultados del conteo en el acta de la jornada electoral;
+c) Antes de iniciar la votación, contar y registrar el número de talonarios foliados con sus correspondientes boletas electorales que se les hayan entregado previamente, anotando los resultados del conteo en el acta de la jornada electoral;
 
 d) Verificar la identidad de los representantes;
 
@@ -2715,9 +2719,9 @@ b) Si después de haber efectuado la asignación referida en el inciso anterior 
 
 c) Si después de haber efectuado las asignaciones referidas en los incisos anteriores aún quedaren diputaciones de representación proporcional por asignar, éstas serán distribuidas mediante el sistema de cociente mayor.
 
-> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
+(REFORMADO, B.O. 23 DE AGOSTO DE 2012) (F. DE E., B.O. 24 DE JUNIO DE 2013)
 
-Las asignaciones a que se refieren los incisos a) y c) se realizarán mediante un sistema de listas de tres fórmulas a diputados por el principio de representación proporcional que registrarán los partidos, alianzas entre partidos o coaliciones ante el Consejo Estatal. En las listas los partidos, alianzas entre partidos o coaliciones definirán el orden de preferencia y deberán respetar los principios de paridad y alternancia de género en propietarios y suplentes.
+Las asignaciones a que se refieren los incisos a) y c) se realizarán mediante un sistema de listas de tres fórmulas a diputados por el principio de representación proporcional que registrarán los partidos, alianzas entre partidos o coaliciones ante el Consejo Estatal. En las listas los partidos, alianzas entre partidos o coaliciones definirán el orden de preferencia y deberán respetar los principios de paridad y alternancia de género. En cada fórmula que integre la lista que se registre, el candidato suplente deberá ser del mismo género que el candidato propietario.
 
 En el caso de que se agote la lista y estuvieren pendientes por asignarse diputados de representación proporcional al partido, alianza de partidos o coalición correspondiente, éstos se le asignarán de entre sus candidatos a diputados por el principio de mayoría relativa que no hubieren obtenido el triunfo en sus respectivos distritos, que no se les hubiere asignado una diputación por minoría y que hubieren obtenido la mayor votación de entre los perdedores en la totalidad de distritos en la elección de diputados por el principio de mayoría.
 
@@ -5313,11 +5317,11 @@ De no haber obtenido ningún aspirante el número de votos requerido para su nom
 
 Los actos que el Congreso realice en ejercicio de la función prevista en este artículo son inatacables.
 
-> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
+(REFORMADO, B.O. 23 DE AGOSTO DE 2012) (F. DE E., B.O. 24 DE JUNIO DE 2013)
 
 ###### ARTÍCULO 312.
 
-El presidente del Tribunal será el que designen los magistrados por mayoría de votos a más tardar el día quince de agosto del año de la elección y durará en su encargo tres años.
+El presidente del Tribunal será el que designen los magistrados por mayoría de votos a más tardar el día quince de agosto del año de la elección y durará en su encargo tres años, debiéndose respetar el principio de alternancia de género.
 
 La presidencia del Tribunal será rotativa y no habrá reelección.
 
@@ -6537,7 +6541,9 @@ La investigación para el conocimiento cierto de los hechos se realizará por el
 
 Dentro del proceso, el Consejo Estatal instruirá el procedimiento especial establecido por el presente capítulo, cuando se denuncie, o de oficio cuando cualquier órgano del Consejo Estatal tenga conocimiento de la comisión de conductas infractoras que:
 
-I.- Violen lo establecido en la Base III del artículo 41, o en el séptimo párrafo del artículo 134 ambos de la Constitución Federal;
+> <small>(F. DE E., B.O. 24 DE JUNIO DE 2013)</small>
+
+I.- Violen lo establecido en el séptimo párrafo del artículo 134 de la Constitución Federal;
 
 II.- Contravengan las normas sobre propaganda política o electoral establecidas para los partidos en este Código; o
 
