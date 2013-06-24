@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2013-05-20"
+last_updated: "2013-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2013.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -43,13 +43,11 @@ LEY ORGANICA DEL PODER JUDICIAL
 
 ### CAPITULO I. De los Tribunales del Estado
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 1o.
 
-El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, la Sala Administrativa y Electoral, los Juzgados de Primera Instancia Civiles, de Primera Instancia Penales que estará a cargo de Juzgados de Control, de Juicio Oral y de Ejecución, de Justicia para Adolescentes, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
+El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, la Sala Administrativa y Electoral, los Juzgados de Primera Instancia Civiles, Mercantiles, de Primera Instancia Penales que estará a cargo de Juzgados de Control, de Juicio Oral y de Ejecución, de Justicia para Adolescentes, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -135,7 +133,9 @@ I.- Presentar Iniciativas de Ley ante la Legislatura del Estado, en asuntos que 
 
 II.- Expedir su Reglamento Interior, así como los acuerdos, lineamientos y reglamentos que rijan la organización y funcionamiento de sus dependencias y órganos auxiliares;
 
-III.- Conocer de las competencias que se susciten en materia civil o penal entre los Jueces del Estado y entre éstos y las autoridades administrativas del Estado;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2013)</small>
+
+III.- Conocer de las competencias que se susciten en materia civil, mercantil, familiar o penal entre los Jueces del Estado y entre éstos y las autoridades administrativas del Estado;
 
 IV.- Conocer en los términos de la Constitución Local, de los procesos que por delitos oficiales se sigan en contra del Gobernador, de los Diputados, del Secretario General de Gobierno, del Procurador General de Justicia y de los Regidores y Síndicos de los Ayuntamientos;
 
@@ -251,9 +251,9 @@ X.- Remitir al Juez competente los exhortos y despachos de acuerdo con el turno 
 
 XI.- Informar al Pleno del Supremo Tribunal de Justicia del Estado el nombramiento de los jueces y servidores públicos que nombre el Consejo de la Judicatura Estatal;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2013)</small>
 
-XII.- Nombrar al Oficial Mayor ya los directores de los órganos auxiliares, así como determinar la adscripción de los jueces civiles, penales, mixtos de primera instancia, mixtos menores, de ejecución .y especializados en la impartición de justicia para adolescentes, secretarios y notificadores a las jurisdicciones que les correspondan;
+XII.- Nombrar al Oficial Mayor y a los directores de los órganos auxiliares, así como determinar la adscripción de los jueces civiles, mercantiles, familiares, penales, mixtos de primera instancia, mixtos menores, de ejecución y especializados en la impartición de justicia para adolescentes, secretarios y notificadores a las jurisdicciones que les correspondan;
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -869,13 +869,11 @@ II. Las demás que establece la Ley del Sistema de Justicia para Adolescentes.
 
 ### CAPITULO I. De los Juzgados de Primera Instancia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 34.
 
-Habrá en el Estado los Juzgados de Primera Instancia Civiles, Familiares, Mixtos, de Primera Instancia Penales que estará a cargo de Juzgados de Control, de Juicio Oral, de Ejecución y de Justicia para Adolescentes, que se distinguirán por los números ordinales que les correspondan, que sean necesarios para la pronta administración de justicia. El Consejo de la Judicatura acordará la creación de nuevos juzgados.
+Habrá en el Estado los Juzgados de Primera Instancia Civiles, Mercantiles, Familiares, Mixtos, de Primera Instancia Penales que estará a cargo de Juzgados de Control, de Juicio Oral, de Ejecución y de Justicia para Adolescentes, que se distinguirán por los números ordinales que les correspondan, que sean necesarios para la pronta administración de justicia. El Consejo de la Judicatura acordará la creación de nuevos juzgados.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
 
@@ -883,13 +881,11 @@ Habrá en el Estado los Juzgados de Primera Instancia Civiles, Familiares, Mixto
 
 Habrá en el Estado los partidos judiciales que sean necesarios para la pronta administración de justicia que apruebe el Consejo de la Judicatura de conformidad con su disponibilidad presupuestal, el cual determinará la competencia territorial y, en su caso, la especialización por materia de los juzgados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 36.
 
-Los jueces de primera instancia civiles, familiares, mixtos de primera instancia, mixtos menores y de primera instancia penales que estarán a cargo de Juzgados de Control, de Juicio Oral, de Ejecución y de Justicia para Adolescentes, serán nombrados por el Consejo de la Judicatura Estatal, previo concurso de oposición que aprueben y obtendrán un nombramiento definitivo por diez años, durante los cuales serán inamovibles; sólo podrán ser removidos de sus cargos cuando observen mala conducta o previo juicio de responsabilidad respectivo o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud comprobada para el desempeño del mismo cargo que calificará el Consejo de la Judicatura Estatal.
+Los jueces de primera instancia civiles, mercantiles, familiares, mixtos de primera instancia, mixtos menores y de primera instancia penales que estarán a cargo de Juzgados de Control, de Juicio Oral, de Ejecución y de Justicia para Adolescentes, serán nombrados por el Consejo de la Judicatura Estatal, previo concurso de oposición que aprueben y obtendrán un nombramiento definitivo por diez años, durante los cuales serán inamovibles; sólo podrán ser removidos de sus cargos cuando observen mala conducta o previo juicio de responsabilidad respectivo o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud comprobada para el desempeño del mismo cargo que calificará el Consejo de la Judicatura Estatal.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -905,13 +901,11 @@ III.- Ser de notoria moralidad y buenas costumbres; y
 
 IV.- No haber sido sentenciado por delito doloso con pena privativa de libertad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 38.
 
-Tanto los Juzgados Familiares como los Civiles, recibirán demandas por turno, cuando y en la forma que lo disponga el Supremo Tribunal de Justicia del Estado. Los Juzgados Mixtos de Primera Instancia conocerán en sus respectivas jurisdicciones de todas las materias, a excepción de las reservadas para los Juzgados de Control, de Juicio Oral, de Ejecución y de Justicia para Adolescentes.
+Tanto los Juzgados Familiares como los Civiles y Mercantiles, recibirán demandas por turno, cuando y en la forma que lo disponga el Supremo Tribunal de Justicia del Estado. Los Juzgados Mixtos de Primera Instancia conocerán en sus respectivas jurisdicciones de todas las materias, a excepción de las reservadas para los Juzgados de Control, de Juicio Oral, de Ejecución y de Justicia para Adolescentes.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -924,6 +918,18 @@ I.- Los negocios de jurisdicción voluntaria;
 II.- Los negocios de jurisdicción contenciosa que no sean de la competencia de los Juzgados Mixtos Menores o de lo Familiar; y
 
 III.- Diligenciación de exhortos que se reciban de tribunales del país y de los demás asuntos que les asignen las leyes.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2013)</small>
+
+ARTICULO 39 BIS.- Los Juzgados de lo Mercantil conocerán de:
+
+I.- Los negocios relativos a su materia, en términos de lo dispuesto por el Artículo 104, Fracción II de la Constitución Política de los Estados Unidos Mexicanos.
+
+II.- Diligenciación de exhortos que se reciban de tribunales del país; y
+
+III.- De los demás asuntos que les asignen las leyes.
+
+Tratándose del Juicio Oral Mercantil, serán competentes para conocer del mismo, los Juzgados de lo Mercantil que en número sean determinados por el Consejo de la Judicatura del Estado.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -993,9 +999,7 @@ Los jueces de Control, de Juicio Oral y de Ejecución estarán investidos de fe 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTICULO 41 Bis.
-
-(DEROGADO, P.O. 25 DE MARZO DE 2013)
+ARTICULO 41 BIS. (DEROGADO, P.O. 25 DE MARZO DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1081,11 +1085,13 @@ XI.- Sobre el cumplimiento de la sanción impuesta; y
 
 XII.- De las demás atribuciones que le confieran la Ley de Ejecución de Sanciones Penales para el Estado de Aguascalientes y demás leyes de la materia.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 42.
 
-En cada uno de los Juzgados Civiles y Familiares, habrá dos Secretarios de Acuerdos numerados progresivamente, y un Secretario de Estudio y Proyectos, dos Notificadores, dos Ejecutores como mínimo, y los servidores que fije el Presupuesto de Egresos.
+En cada uno de los Juzgados Civiles, Mercantiles y Familiares, habrá Secretarios de Acuerdos numerados progresivamente, y un Secretario de Estudio y Proyectos, dos Notificadores, dos Ejecutores como mínimo, y los servidores que fije el Presupuesto de Egresos.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 1995)</small>
 
 El funcionamiento de los Notificadores y de los Ejecutores quedará al arbitrio de lo que disponga el Supremo Tribunal de Justicia, el Primer Secretario será el jefe inmediato de la oficina en el orden administrativo y dirigirá las labores de ella de acuerdo con las instrucciones del Juez.
 
@@ -1101,9 +1107,7 @@ Además, los jueces de Control, de Juicio Oral y de Ejecución contarán con el 
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-###### ARTICULO 43 Bis.
-
-En los Juzgados de Ejecución habrá un Juez, un Secretario de Acuerdos, un Notificador cuando menos y demás personal que acuerde el Consejo de la Judicatura. El Juez de Ejecución de Sanciones Penales deberá estar presente en todas las audiencias y trámites que le competan en el procedimiento de ejecución.
+ARTICULO 43 BIS.- En los Juzgados de Ejecución habrá un Juez, un Secretario de Acuerdos, un Notificador cuando menos y demás personal que acuerde el Consejo de la Judicatura. El Juez de Ejecución de Sanciones Penales deberá estar presente en todas las audiencias y trámites que le competan en el procedimiento de ejecución.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1175,9 +1179,7 @@ XV.- Desempeñar las demás funciones que se le encomienden por el Juez, y las d
 
 > <small>(ADICIONADO, P.O. 30 DE JULIO DE 1995)</small>
 
-###### ARTICULO 46 Bis.
-
-Son obligaciones de los Secretarios de Estudio y Proyectos:
+ARTICULO 46 BIS.- Son obligaciones de los Secretarios de Estudio y Proyectos:
 
 Auxiliar al Juez en la elaboración de proyectos de sentencias interlocutorias y definitivas y desempeñar las demás funciones que le encomiende el Juez.
 
@@ -1319,15 +1321,21 @@ Al concederse una licencia o aceptarse alguna renuncia, se dictarán las medidas
 
 (DEROGADO, P.O. 27 DE AGOSTO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 68.
 
-las faltas absolutas de los jueces civiles, familiares, mixtos, de Control, de Juicio Oral, de Ejecución, de justicia para adolescentes y mixtos, se cubrirán con nuevos nombramientos de jueces interinos que durarán en su cargo un año, previa aprobación del concurso de oposición quienes podrán ser ratificados, pero para adquirir la titularidad se requiere el nombramiento definitivo del Consejo de la Judicatura Estatal en los términos del Artículo 36 de esta Ley.
+Las faltas absolutas de los jueces civiles, mercantiles, familiares, mixtos, de Control, de Juicio Oral, de Ejecución, de justicia para adolescentes y mixtos, se cubrirán con nuevos nombramientos de jueces interinos que durarán en su cargo un año, previa aprobación del concurso de oposición quienes podrán ser ratificados, pero para adquirir la titularidad se requiere el nombramiento definitivo del Consejo de la Judicatura Estatal en los términos del Artículo 36 de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 Las faltas temporales que no excedan de quince días en materias distintas a la penal, se suplirán por el primer secretario de estudio y proyectos, con la sola limitación de que no podrá dictar sentencias definitivas e interlocutorias en materia civil y familiar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 En los casos de impedimentos, recusación o excusa, conocerá del negocio de que se trate el juez que le siga en número y el último por el primero y en caso necesario, por los jueces de distinto ramo en el orden indicado, a excepción de los casos en materia penal, que se resolverán conforme a las reglas establecidas en el Código de Procedimientos Penales para el Estado de Aguascalientes.
 
@@ -1369,9 +1377,9 @@ El Secretario General de Acuerdos del Supremo Tribunal de Justicia, de la Sala A
 
 En la Dirección del Archivo Judicial se depositarán:
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2013)</small>
 
-I.- Los tocas o actuaciones de segunda instancia, relativos a los negocios civiles, familiares, de justicia para adolescentes y penales terminados en grado de apelación;
+I.- Los tocas o actuaciones de segunda instancia, relativos a los negocios civiles, mercantiles, familiares, de justicia para adolescentes y penales terminados en grado de apelación;
 
 II.- Los procesos concluidos en apelación o primera instancia;
 
@@ -2206,3 +2214,29 @@ El Congreso del Estado preverá una partida especial para solventar las erogacio
 ###### ARTÍCULO OCTAVO.
 
 A partir del inicio de vigencia del presente Decreto, toda referencia a la Legislación Penal para el Estado de Aguascalientes que se realice en otras leyes se entenderá hecha al Código Penal para el Estado de Aguascalientes o al Código de Procedimientos Penales para el Estado de Aguascalientes, según corresponda.
+
+P.O. 24 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia el primero de julio del año dos mil trece.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los quince días siguientes a la publicación del presente Decreto, el Consejo de la Judicatura del Estado emitirá un acuerdo para determinar el número de juzgados civiles y mercantiles que funcionarán en el primer partido judicial, especificando en su caso, su nueva denominación y cuáles de los juzgados mercantiles conocerán además del juicio oral mercantil previsto en el Código de Comercio.
+
+###### ARTÍCULO TERCERO.
+
+Los Juzgados Mercantiles que conozcan del Juicio Oral Mercantil tendrán competencia en todo el territorio del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los Juzgados Civiles y Mercantiles continuarán conociendo de todos los procedimientos actualmente en trámite hasta su archivo como asunto concluido; así como de cualquier trámite que, con posterioridad a ellos, surja y de los que se encuentran en el Archivo Judicial, de los que hayan conocido en cualquier materia, sea civil o mercantil.
+
+###### ARTÍCULO QUINTO.
+
+Los titulares de los Juzgados que cambien de denominación en los términos del presente Decreto, continuarán en sus cargos hasta el vencimiento de los respectivos períodos por los que fueron nombrados.
+
+###### ARTÍCULO SEXTO.
+
+El Congreso del Estado aprobará la partida presupuestal que permita adecuar la infraestructura y el equipamiento de los Juzgados Mercantiles que conozcan del Juicio Oral Mercantil.
