@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-servicios-medicos-del-instituto-de-seguridad-1015
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-01-19"
-last_updated: "1996-01-19"
+last_updated: "2013-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE SERVICIOS MEDICOS DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-REGLAMENTO DE SERVICIOS MEDICOS DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
+REGLAMENTO DE SERVICIOS MÉDICOS DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE SERVICIOS DE SALUD DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADO EN LA G.G. DE 24 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno, el viernes 19 de enero de 1996.
 
@@ -520,3 +522,19 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. HECTOR XIMENEZ GONZALEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 24 DE JUNIO DE 2013.
+
+PRIMERO. Publíquese el presente Reglamento en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento de Servicios Médicos del Instituto de Seguridad Social del Estado de México y Municipios, publicado en el periódico oficial "Gaceta del Gobierno" el 19 de enero de 1996.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Reglamento.
+
+QUINTO. Los actos celebrados durante la vigencia de las disposiciones reglamentarias que se anulen, seguirán surtiendo sus efectos hasta la conclusión del término o cumplimiento de las condiciones bajo las que se hayan celebrado o convenido.
+
+SEXTO. Los conflictos o dudas que se presenten con motivo de la aplicación e interpretación del presente Reglamento, serán resueltos por la Coordinación de Servicios de Salud del Instituto.
