@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2013-04-16"
+last_updated: "2013-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -185,91 +185,161 @@ Los municipios del Estado de Guerrero conservarán la extensión territorial que
 
 41. Ixcateopan de Cuauhtémoc;
 
-42. José Azueta;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
+42. José Joaquín de Herrera;
 
-43. José Joaquín de Herrera;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-44. Juan R. Escudero;
+43. Juan R. Escudero;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-45. Juchitán;
+44. Juchitán;
 
-46. Leonardo Bravo;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-47. Malinaltepec;
+45. Leonardo Bravo;
 
-48. Mártir de Cuilapan;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
+46. Malinaltepec
 
-49. Marquelia;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-50. Metlatónoc;
+47. Mártir de Cuilapan;
 
-51. Mochitlán;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-52. Olinalá;
+48. Marquelia;
 
-53. Ometepec;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-54. Pedro Ascencio Alquisiras;
+49. Metlatónoc;
 
-55. Petatlán;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-56. Pilcaya;
+50. Mochitlán;
 
-57. Pungarabato;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-58. Quechultenango;
+51. Olinalá;
 
-59. San Luis Acatlán;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-60. San Marcos;
+52. Ometepec;
 
-61. San Miguel Totolapan;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-62. Taxco de Alarcón;
+53. Pedro Ascencio de Alquisiras;
 
-63. Tecoanapa;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-64. Tecpan de Galeana;
+54. Petatlán;
 
-65. Teloloapan;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-66. Tepecuacuilco de Trujano;
+55. Pilcaya;
 
-67. Tetipac;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-68. Tixtla de Guerrero;
+56. Pungarabato;
 
-69. Tlacoapa;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-70. Tlacoachistlahuaca;
+57. Quechultenango;
 
-71. Tlalchapa;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-72. Tlalixtaquilla de Maldonado;
+58. San Luis Acatlán;
 
-73. Tlapa de Comonfort;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-74. Tlapehuala;
+59. San Marcos;
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-75. La Unión de Isidoro Montes de Oca;
+60. San Miguel Totolapan;
 
-76. Xalpatláhuac;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-77. Xochistlahuaca;
+61. Taxco de Alarcón;
 
-78. Xochihuehuetlán;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-79. Zapotitlán Tablas;
+62. Tecoanapa;
 
-80. Zirándaro;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+63. Tecpan de Galeana;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+64. Teloloapan;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+65. Tepecoacuilco de Trujano;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+66. Tetipac;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+67. Tixtla de Guerrero;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+68. Tlacoapa;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+69. Tlacoachistlahuaca;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+70. Tlalchapa;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+71. Tlalixtaquilla de Maldonado;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+72. Tlapa de Comonfort;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+73. Tlapehuala;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+74. La Unión de Isidoro Montes de Oca;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+75. Xalpatláhuac;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+76. Xochistlahuaca;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+77. Xochihuehuetlán;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+78. Zapotitlán Tablas;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+79. Zihuatanejo de Azueta;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+80. Zirándaro, y
 
 81. Zitlala.
 
@@ -1245,6 +1315,10 @@ Así mismo, quedará prohibido a los ayuntamientos contratar como policía a cua
 
 VIII. Establecer exenciones o subsidios respecto de las contribuciones establecidas en las leyes aplicables en favor de las personas físicas o morales y de instituciones públicas o privadas.
 
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2013)</small>
+
+IX. Los integrantes de los Ayuntamientos y los apoderados legales, no podrán desistirse, transigir o comprometerse en árbitros, así como celebrar convenios que afecten bienes o derechos municipales, sin la autorización que para cada caso, le otorgue las dos terceras partes del cabildo.
+
 ###### ARTICULO 71.
 
 Los Ayuntamientos elaborarán libremente su programa anual de actividades, así como los demás programas anuales, ajustándose al efecto a su presupuesto de egresos, Ley de Ingresos, Ley de Planeación del Estado y al programa trianual de labores.
@@ -1263,9 +1337,9 @@ Son facultades y obligaciones del Presidente Municipal las siguientes:
 
 I. Presidir las sesiones y dirigir los debates del Ayuntamiento tomando parte en las deliberaciones con voz y voto y con voto de calidad en caso de empate y facultad de veto suspensivo para efectos de analizar y votar de nueva cuenta el asunto que lo haya motivado;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2013)</small>
 
-II.- Rendir al pueblo del Municipio en Sesión Solemne, en la última quincena del mes de diciembre, el informe anual pormenorizado sobre el estado que guarda la administración municipal del cual enviará copia al Ejecutivo y al Congreso del Estado; en el último año del mandato podrá rendirlo en la Sesión Solemne en que el Ayuntamiento entrante rinda protesta o en Sesión Solemne anterior a la fecha de celebración de ésta;
+II. Rendir al pueblo en Sesión Solemne, en la primera quincena del mes de Septiembre, el informe anual pormenorizado sobre el estado que guarda la administración municipal del cual enviará copia al Ejecutivo y al Congreso del Estado; en el último año del mandato podrá rendirlo en la Sesión Solemne en que el Ayuntamiento entrante rinda protesta o en Sesión Solemne anterior a la fecha de celebración de ésta;
 
 III. Rendir cada mes, en sesión ordinaria del Ayuntamiento y con el auxilio del jefe de la Policía un informe al Ayuntamiento sobre la corporación y las principales incidencias en materia de orden público;
 
@@ -3586,3 +3660,31 @@ P.O. 16 DE ABRIL DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo para su conocimiento y Publicación en el Periódico Oficial del Estado de Guerrero.
+
+P.O. 25 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 164, POR EL QUE SE REFORMA EL ARTÍCULO 73 FRACCIÓN II DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo, para todos los efectos legales conducentes.
+
+P.O. 25 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 165, POR EL QUE SE REFORMA EL ARTÍCULO 9 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- El artículo antes citado deroga todas las disposiciones que se opongan a él.
+
+TERCERO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo, para todos los efectos legales conducentes.
+
+CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para su conocimiento y los efectos legales conducentes.
+
+P.O. 25 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 166, POR EL QUE SE ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente decreto al Titular del Poder Ejecutivo, para su conocimiento y publicación en el Periódico Oficial del Estado de Guerrero.
