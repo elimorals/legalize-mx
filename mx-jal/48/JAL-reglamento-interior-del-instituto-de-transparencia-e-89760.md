@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-de-transparencia-e-89760"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-16"
-last_updated: "2013-02-09"
+last_updated: "2013-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA E INFORMACION PUBLICA DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA E INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2013.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 16 de octubre de 2012.
 
@@ -237,9 +239,61 @@ Los Consejeros tienen la obligación de llevar a cabo todas las funciones que es
 
 Las ausencias de los consejeros Titulares, superiores a los diez días deberán ser notificadas por escrito al Presidente, por conducto del Secretario Ejecutivo, por lo menos con veinticuatro horas de anticipación a la realización de la próxima sesión, para efectos de que se constituya en la o las sesiones correspondientes, el Suplente del Consejero, si la ausencia es del Consejero Presidente, deberá tocar el tema en sesión y llamar al suplente respectivo.
 
-#### Sección I.
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2013)</small>
 
-Disposiciones Generales.
+#### Sección Sexta
+
+De las ponencias.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+###### Artículo 29 Bis.
+
+Para el despacho de los recursos de revisión y recursos de transparencia, cada Consejero ponente actuara auxiliándose de un Secretario de Acuerdos de la ponencia, un Secretario Relator, un Técnico en Ponencia y dos Actuarios, así como el personal administrativo que se requiera para el buen funcionamiento de las ponencias.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+###### Artículo 29 Ter.
+
+Son obligaciones de los integrantes de las ponencias:
+
+1. Del Secretario Relator:
+
+I. Dar cuenta al Consejero titular de su ponencia de los asuntos que le encomiende;
+
+II. Formular el proyecto de resolución, así como la revisión de los proyectos que sean turnados al Consejo para su aprobación;
+
+III. Las demás que señalen las disposiciones legales aplicables.
+
+2. Del Secretario de Acuerdos de la ponencia:
+
+I. Autorizar los acuerdos de trámite de las resoluciones y sus diligencias.
+
+II. Cuidar que los expedientes sean registrados, foliados, rubricados y entre sellados como lo previene la ley; y (sic)
+
+III. Redactar y autorizar las actas de las audiencias en las que corresponda dar cuenta, así como autorizar las resoluciones que recaigan en los expedientes; y (sic)
+
+IV. Expedir certificados de las constancias que obren en los expedientes de la ponencia a la que estén adscritos y dar fe en las diligencias correspondientes.
+
+V. Suplir las ausencias del Secretario Relator.
+
+VI. Las demás que señalen las disposiciones legales aplicables.
+
+3. Del Técnico en ponencia:
+
+I. Auxiliar al Secretario de Acuerdos de la ponencia y/o Secretario Relator en todas sus funciones;
+
+II. Suplir las ausencias del Secretario de Acuerdos de la ponencia y/o Secretario Relator;
+
+III. Las demás que señalen las disposiciones legales aplicables.
+
+4. Corresponde a los Actuarios del Instituto de Transparencia e Información Publica del Estado de Jalisco y sus municipios:
+
+I. Notificar en el tiempo y forma prescritos por la ley, las resoluciones recaídas en los expedientes que para tal efecto les sean turnados;
+
+II. Practicar las diligencias que le encomiende el Consejero instructor, o el Secretario de Acuerdos de la ponencia; y
+
+III. Las demás que señalen las disposiciones legales aplicables.
 
 ### CAPÍTULO III. Del Secretario Ejecutivo
 
@@ -273,7 +327,9 @@ III. Por instrucción del Presidente del Instituto, remitir oportunamente a los 
 
 IV. Llevar el control del libro de actas y firmarlo en compañía del Presidente;
 
-V. Certificar y dar fe de los actos y acuerdos que emita el Consejo y de todos aquellos documentos que obren en poder del Instituto, así como de todos aquellos actos que éste efectúe en el ámbito de su competencia;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE JUNIO DE 2013)</small>
+
+V. Certificar y dar fe de los actos y acuerdos que emita el Consejo y de todos aquellos documentos que obren en poder del Instituto, así como de todos aquellos actos que éste efectúe en el ámbito de su competencia, con independencia de las certificaciones realizadas por cada Secretario de Acuerdos de la ponencia y su Consejero ponente, en el ejercicio de sus funciones.
 
 VI. Ejecutar y brindar el seguimiento correspondiente a las determinaciones acordadas por el Consejo;
 
@@ -295,7 +351,9 @@ XIV. Firmar de manera mancomunada con el Presidente y/o el Director de Planeaci�
 
 XV. Participar y auxiliar en los programas de capacitación que se determinen por el Instituto;
 
-XVI. Emitir todos los acuerdos de trámite en la instrucción de todos los procedimientos señalados por la Ley, en que el Consejo deba emitir resolución definitiva, responsabilizándose del debido registro de cada uno de los expedientes;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE JUNIO DE 2013)</small>
+
+XVI. Emitir todos los acuerdos de trámite en la instrucción de todos los procedimientos señalados por la Ley, en que el Consejo deba emitir resolución definitiva, responsabilizándose del debido registro de cada uno de los expedientes, con excepción de los recursos de revisión y recursos de transparencia, en los cuales únicamente formulará el correspondiente acuerdo de admisión.
 
 XVII. Difundir los lineamientos generales que emita el Consejo, en uso de sus facultades;
 
@@ -675,19 +733,27 @@ Del Recurso de Revisión.
 
 El recurso de revisión, se substanciará conforme a la Ley, y su Reglamento, los precedentes emitidos por el Consejo en casos resueltos con anterioridad y en los lineamientos que emita el Consejo del Instituto.
 
-Corresponde al Secretario Ejecutivo la debida integración del expediente, siendo responsabilidad del Consejo la resolución.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+Corresponde al Secretario Ejecutivo la debida admisión, desechamiento o en su caso requerimiento por la subsanación de éste, en cuyo supuesto será obligatorio precisar los efectos de prevención del expediente, siendo responsabilidad de las ponencias su debida integración y facultad del Consejo su resolución.
 
 ###### Artículo 56.
 
 El recurso de revisión se substanciará de la siguiente forma:
 
-a) Recibido el recurso de revisión, el Secretario Ejecutivo, deberá analizar sobre la procedencia del mismo, pudiendo admitir, desechar o en su caso requerir por la subsanación de éste, en cuyo supuesto será obligatorio precisar los efectos de prevención.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-b) El Secretario Ejecutivo, dentro del acuerdo de admisión o bien en el de recepción de informes, deberá referir si se está en los supuestos de requerir por las diligencias, informes complementarios o bien el llamamiento de terceros a que hace alusión el artículo 100 del Reglamento de la Ley.
+a) Recibido el recurso de revisión, el Secretario Ejecutivo, deberá analizar sobre la procedencia del mismo, pudiendo admitir, desechar o en su caso requerir por la subsanación de éste, en cuyo supuesto será obligatorio precisar los efectos de prevención; así como efectuar el llamamiento de terceros afectados; dentro del acuerdo de admisión podrá referir si se está en los supuestos de requerir por las diligencias o informes complementarios a que hace alusión el artículo 100 del Reglamento de la Ley, esto sin detrimento de aquellas diligencias que consideren necesarias por cada ponencia para su resolución.
 
-c) Una vez recibidos los informes ordinarios en su caso los complementarios y de existir diligencias, ya desahogadas, o bien vencido el plazo para tales actuaciones, el Secretario Ejecutivo turnará a la Ponencia que corresponda, en orden alfabético.
+b) (DEROGADO, P.O. 25 DE JUNIO DE 2013)
 
-d) A partir de la recepción del expediente, la Ponencia contará con el plazo de siete días hábiles para efecto de elaborar y redactar la propuesta de resolución, debiendo turnarla conjuntamente con el expediente, a la Secretaria Ejecutiva dentro del mismo lapso, dicha propuesta deberá además de ser remitida vía correo electrónico a las demás Ponencias.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+c) Una vez admitido el recurso de revisión, el Secretario Ejecutivo lo turnará a la Ponencia que corresponda, en orden alfabético, al día hábil siguiente.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+d) A partir de la recepción del último informe complementario o diligencia, la Ponencia contará con el plazo de siete días hábiles para efecto de elaborar y redactar la propuesta de resolución, debiendo turnarla conjuntamente con el expediente, a la Secretaría Ejecutiva dentro del mismo lapso, dicha propuesta deberá además ser remitida vía correo electrónico a las demás Ponencias.
 
 e) Las Ponencias tendrán la obligación de revisar la propuesta de resolución y en su caso hacer observaciones, lo que deberá efectuarse en un plazo máximo de un día hábil.
 
@@ -701,7 +767,9 @@ i) Si el proyecto del Ponente es rechazado por los Consejeros, el Secretario Eje
 
 j) El engrose deberá efectuarse en un plazo no mayor a cinco días hábiles.
 
-k) La instrucción en la etapa de ejecución se efectuará por el Secretario Ejecutivo.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+k) Una vez transcurrido el término señalado en el inciso anterior el expediente deberá ser turnado a la ponencia instructora para la etapa de ejecución.
 
 l) Una vez cumplidos los puntos señalados en el artículo 107 fracciones I y II del Reglamento de la Ley, en torno al cumplimiento de resolución, el Consejo tendrá un plazo de diez días hábiles para resolver siendo aplicable lo referido en el presente artículo de los incisos d) a j).
 
@@ -753,19 +821,27 @@ Del Recurso de Transparencia.
 
 El recurso de transparencia, se substanciará conforme a la Ley, y su Reglamento, los precedentes emitidos por el Consejo en casos resueltos con anterioridad y en los lineamientos que emita el Consejo del Instituto.
 
-Corresponde al Secretario Ejecutivo la debida integración del expediente, siendo responsabilidad del Consejo la resolución.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+Corresponde al Secretario Ejecutivo la debida admisión, desechamiento o en su caso requerimiento por la subsanación de éste, en cuyo supuesto será obligatorio precisar los efectos de prevención del expediente, siendo responsabilidad de las ponencias su debida integración y facultad del Consejo su resolución.
 
 ###### Artículo 60.
 
 El recurso de Transparencia se substanciará de la siguiente forma:
 
-a) Recibido el recurso de transparencia, el Secretario Ejecutivo, deberá analizar sobre la procedencia del mismo, pudiendo admitir, desechar o en su caso requerir por la subsanación de éste, en cuyo supuesto será obligatorio precisar los efectos de prevención.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
-b) El Secretario Ejecutivo, dentro del acuerdo de admisión o bien en el de recepción de informes, deberá referir si se está en los supuestos de requerir por las diligencias, informes complementarios o bien el llamamiento de terceros a que hace alusión el artículo 113 del Reglamento de la Ley.
+a) Recibido el recurso de transparencia, el Secretario Ejecutivo, deberá analizar sobre la procedencia del mismo, pudiendo admitir, desechar o en su caso requerir por la subsanación de éste, en cuyo supuesto será obligatorio precisar los efectos de prevención; así como efectuar el llamamiento de terceros afectados; dentro del acuerdo de admisión podrá referir si se está en los supuestos de requerir por las diligencias o informes complementarios a que hace alusión el artículo 113 del Reglamento de la Ley, esto sin detrimento de aquellas diligencias que consideren necesarias por cada ponencia para su resolución, bajo el auxilio del personal de la Dirección de Investigación y Estudios de este Instituto.
 
-c) Una vez recibidos los informes ordinarios en su caso los complementarios y de existir diligencias, ya desahogadas, o bien vencido el plazo para tales actuaciones, e Secretario Ejecutivo turnará a la Ponencia que corresponda, en orden alfabético.
+b) (DEROGADO, P.O. 25 DE JUNIO DE 2013)
 
-d) A partir de la recepción del expediente, la Ponencia contará con el plazo de catorce días hábiles para efecto de elaborar y redactar la propuesta de resolución, debiendo turnarla conjuntamente con el expediente, a la Secretaría Ejecutiva dentro del mismo lapso, dicha propuesta deberá además ser remitida vía correo electrónico a las demás Ponencias.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+c) Una vez admitido el recurso, el Secretario Ejecutivo lo turnará a la Ponencia que corresponda, en orden alfabético, al día hábil siguiente.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+d) A partir de la recepción del último informe complementario o de la última inspección ocular, la Ponencia contará con el plazo de catorce días hábiles para efecto de elaborar y redactar la propuesta de resolución, debiendo turnarla conjuntamente con el expediente, a la Secretaría Ejecutiva dentro del mismo lapso, dicha propuesta deberá además ser remitida vía correo electrónico a las demás Ponencias.
 
 e) Las Ponencias tendrán la obligación de revisar la propuesta de resolución y en su caso hacer observaciones, lo que deberá efectuarse en un plazo máximo de tres días hábiles.
 
@@ -779,7 +855,9 @@ i) Si el proyecto del Ponente es rechazado por los Consejeros, el Secretario Eje
 
 j) El engrose deberá efectuarse en un plazo no mayor a cinco días hábiles.
 
-k) La instrucción en la etapa de ejecución se efectuará por el Secretario Ejecutivo.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+k) Una vez transcurrido el término señalado en el inciso anterior, el expediente deberá ser turnado a la ponencia instructora para la etapa de ejecución.
 
 l) Una vez cumplidos los puntos señalados en el artículo 119 fracciones I y II del Reglamento de la Ley, en torno al cumplimiento de las resoluciones, el Consejo tendrá un plazo de diez días hábiles para resolver, siendo aplicable lo referido en el presente artículo de los incisos d) a j).
 
@@ -865,9 +943,9 @@ Recibida la solicitud de consulta, el Secretario Ejecutivo, la remitirá a la Di
 
 ### CAPITULO III. De las tesis
 
-#### Sección II.
+#### Sección I.
 
-De las tesis por reiteración.
+Disposiciones Generales.
 
 ###### Artículo 69.
 
@@ -883,9 +961,9 @@ II. Texto: Deberá derivarse en su integridad de la parte considerativa fundamen
 
 III. Precedentes: Son los datos de identificación de la resolución del medio de impugnación o responsabilidad administrativa, señalándose en su orden y en su caso, el tipo de asunto, número de expediente, nombre del sujeto obligado, fecha de resolución, votación, miembro del Consejo y Secretario Relator.
 
-#### Sección III.
+#### Sección II.
 
-De las Tesis por interrupción.
+De las tesis por reiteración.
 
 ###### Artículo 71.
 
@@ -895,7 +973,9 @@ La Tesis por reiteración podrá ser denunciada, cuando el considerando, criteri
 
 Las Tesis por reiteración sólo podrán atender un criterio de interpretación. Cuando en una misma resolución se contengan varias interpretaciones, deberá elaborase una tesis para cada criterio.
 
-#### Sección IV. Del procedimiento de aprobación
+#### Sección III.
+
+De las Tesis por interrupción.
 
 ###### Artículo 73.
 
@@ -904,6 +984,8 @@ En caso de que existiera dentro de una resolución nuevos elementos para conside
 ###### Artículo 74.
 
 Aquella resolución que sea contraria a una Tesis ya aprobada, deberá sustentar dentro de sus considerandos, las razones jurídicas y materiales del porqué no es aplicable la Tesis vigente, y en consecuencia exponer los nuevos considerandos que darán lugar a la Tesis por interrupción.
+
+#### Sección IV. Del procedimiento de aprobación
 
 ###### Artículo 75.
 
@@ -1015,8 +1097,18 @@ Abogado José Miguel Ángel de la Torre Laguna
 
 Secretario Ejecutivo del Instituto de Transparencia e Información Pública del Estado de Jalisco.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE FEBRERO DE 2013.
 
 EL ACUERDO DE REFORMA No. ASC. 136.12.2012 CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 25 DE JUNIO DE 2013.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Jalisco.
+
+###### ARTÍCULO SEGUNDO.
+
+La Dirección de Planeación y de Gestión Administrativa en atención en uso de sus facultades realizará las adecuaciones técnicas, documentales y materiales necesarias para la reestructuración y mejoramiento del Instituto de Transparencia e Información Pública del Estado de Jalisco, dentro de los 50 días naturales siguientes a su entrada en vigor, (sic)
