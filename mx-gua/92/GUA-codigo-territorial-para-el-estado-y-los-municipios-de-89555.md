@@ -4,7 +4,7 @@ identifier: "GUA-codigo-territorial-para-el-estado-y-los-municipios-de-89555"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-25"
-last_updated: "2012-10-12"
+last_updated: "2013-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 12 DE OCTUBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2013.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -7157,7 +7155,9 @@ Artículo Tercero. Se derogan todas las disposiciones que se opongan al contenid
 
 Plazo para reglamentar
 
-Artículo Cuarto. El Ejecutivo del Estado y los ayuntamientos deberán expedir o modificar los reglamentos en la materia, dentro de los seis meses siguientes a la entrada en vigencia de este Decreto.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+Artículo Cuarto. El Ejecutivo del Estado y los ayuntamientos deberán expedir o modificar los reglamentos en la materia, a más tardar el 31 de diciembre de 2013.
 
 Expedición o actualización de los instrumentos del sistema de planeación
 
@@ -7171,7 +7171,13 @@ Tramitación de procedimientos en trámite
 
 Artículo Séptimo. Los procedimientos regulados en las leyes que se abrogan en el artículo segundo transitorio del presente Decreto, que a la fecha de la entrada en vigor del presente Código, se encuentren en trámite, seguirán desarrollándose observando las normas contenidas en las leyes vigentes al momento de iniciar su procedimiento respectivo, hasta su conclusión; salvo lo dispuesto en el párrafo siguiente.
 
-La Secretaría de Desarrollo Social y Humano remitirá a los ayuntamientos, los expedientes de fraccionamientos y conjuntos habitacionales, anteriores al 1 de enero de 1997, que aun se encuentren en trámite, así como aquéllos iniciados con posterioridad a esta fecha y cuyo trámite se desahogue ante el Ejecutivo Estatal consecuencia del convenio de colaboración; para que los municipios los concluyan. La Secretaría de Desarrollo Social y Humano y los ayuntamientos deberán, en un término máximo de seis meses, contado a partir de la entrada en vigor del presente Código, concluir la transferencia de los expedientes. Previo a la entrega se deberá certificar un tanto de cada uno de los expedientes que se transferirán a los municipios, los cuales se turnarán para su resguardo a la Comisión de Vivienda del Estado de Guanajuato.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+La Secretaría de Desarrollo Social y Humano remitirá a los ayuntamientos los expedientes de fraccionamientos y conjuntos habitacionales anteriores al 1 de enero de 1997, que aún se encuentren en trámite, así como aquéllos iniciados con posterioridad a esta fecha y cuyo trámite se desahogue ante el Ejecutivo Estatal, consecuencia del convenio de colaboración, para que los concluyan. La Secretaría de Desarrollo Social y Humano y los ayuntamientos deberán, en un plazo que no excederá del 31 de diciembre de 2013, concluir la transferencia de los expedientes.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+Previo a la entrega de los expedientes, se deberá hacer una reproducción de cada uno de los que se transferirán a los municipios; para ello se podrán utilizar medios mecánicos, electrónicos, informáticos, ópticos, telemáticos, magnéticos, fotográficos o de cualquier otra tecnología, que garanticen su conservación auténtica, íntegra e inalterada, así como su transmisión; los cuales se turnarán para su resguardo a la Comisión de Vivienda del Estado de Guanajuato.
 
 Término para adecuar la estructura de la Procuraduría
 
@@ -7238,3 +7244,9 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 EL SECRETARIO DE GOBIERNO
 
 ROMÁN CIFUENTES NEGRETE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JUNIO DE 2013.
+
+Artículo Único. El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
