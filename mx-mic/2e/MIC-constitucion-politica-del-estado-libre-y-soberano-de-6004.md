@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2013-01-28"
+last_updated: "2013-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -987,9 +987,11 @@ En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primero
 
 Cuando la falta de Gobernador ocurriere en los cuatro últimos años del período para el cual fue electo, el Congreso del Estado, concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en escrutinio secreto y por mayoría calificada de votos, al Gobernador substituto que deberá concluir el período respectivo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Cuando la falta del Gobernador fuese temporal, el Congreso del Estado designará un Gobernador Interino para que despache durante el tiempo que dure la falta; si ésta no excede de treinta días, el Secretario de Gobierno se encargará del despacho del Poder Ejecutivo y a falta de éste lo hará el Secretario de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+Cuando la falta del Gobernador fuese temporal, el Congreso del Estado designará un Gobernador Interino para que despache durante el tiempo que dure la falta; si ésta no excede de treinta días, el Secretario de Gobierno se encargará del despacho del Poder Ejecutivo, y a falta de éste lo hará el Secretario de Finanzas.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1123,9 +1125,11 @@ IV.- Impedir a retardar las elecciones populares o la instalación de la Legisla
 
 V.- Intervenir por sí o a través de persona física o moral, o en cualquier forma, en las elecciones para favorecer a partido político o candidato alguno;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso. Cuando el Gobernador, sin abandonar sus funciones, salga del territorio del Estado, el Secretario de Gobierno quedará encargado del despacho del Poder Ejecutivo y a falta de éste el encargado será el Secretario de Finanzas y Administración.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2013)</small>
+
+VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso. Cuando el Gobernador, sin abandonar sus funciones, salga del territorio del Estado, el Secretario de Gobierno quedará encargado del despacho del Poder Ejecutivo, y a falta de éste el encargado será el Secretario de Finanzas.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1139,11 +1143,11 @@ VIII.- Autorizar la ocupación de la propiedad de persona alguna, ni privarla de
 
 #### SECCION III. Del Despacho del Poder Ejecutivo
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
 ###### Artículo 62.
 
-Para el despacho de los negocios del orden político-administrativo, el Ejecutivo del Estado contará con las dependencias básicas y organismos que determine esta Constitución, la Ley Orgánica de la Administración Pública y demás leyes.
+Para el despacho de los negocios del orden político-administrativo, el Ejecutivo del Estado contará con las dependencias básicas y organismos que determinen esta Constitución, la Ley Orgánica del Poder Ejecutivo del Estado y demás leyes.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1161,9 +1165,11 @@ III.- Haber cumplido veinticinco años de edad el día de su designación;
 
 IV.- No haber sido condenado por delito no culposo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Los mismos requisitos serán necesarios para ser Secretario de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+Los mismos requisitos serán necesarios para ser Secretario de Finanzas.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -2035,9 +2041,11 @@ II.- Administrar libremente su hacienda, la cual se formará de los rendimientos
 
 a) Percibir las contribuciones, incluyendo tasas adicionales, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Los ayuntamientos podrán celebrar convenios con la Secretaría de Finanzas y Administración, para que ésta se haga cargo de las funciones relacionadas con la administración de esas contribuciones.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+Los ayuntamientos podrán celebrar convenios con la Secretaría de Finanzas, para que ésta se haga cargo de las funciones relacionadas con la administración de esas contribuciones.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -2279,23 +2287,27 @@ El Estado está facultado para celebrar esos convenios con sus municipios, a efe
 
 En el Estado de Michoacán de Ocampo quedan prohibidos los monopolios, las prácticas monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que señalan la Constitución General de la República, esta Constitución y las leyes que de ambas emanen.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Pertenecen al Estado, además de los bienes de dominio público, de las contribuciones decretadas por el Congreso y de los impuestos, derechos, productos, aprovechamientos y participaciones que deba percibir, los inmuebles mostrencos, previa declaración que haga la Secretaría de Finanzas y Administración conforme lo determine la Ley.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+
+Pertenecen al Estado, además de los bienes de dominio público, de las contribuciones decretadas por el Congreso y de los impuestos, derechos, productos, aprovechamientos y participaciones que deba percibir, los inmuebles mostrencos, previa declaración que haga la Secretaría de Finanzas conforme lo determine la Ley.
 
 El Congreso expedirá las leyes fiscales en los ámbitos estatal y municipales, que establecerán las bases, tanto para la fijación de los impuestos, derechos, productos y aprovechamientos, como para la manera de hacerlos efectivos y los medios que permitan la defensa de los contribuyentes.
 
 El Presupuesto formará siempre un sólo cuerpo distribuido en partidas, según los conceptos de erogación y serán obligatoriamente incluidos en él los gastos y las dotaciones necesarias para atender los servicios públicos, según los planes y programas establecidos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2013)</small>
 
-#### SECCION I. De la Secretaría de Finanzas y Administración
+#### SECCION I. De la Secretaría de Finanzas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
 ###### Artículo 132.
 
-Habrá en el Estado, una Secretaría de Finanzas y Administración a quien corresponderá la guarda y distribución de los caudales públicos, regular la actividad financiera, fiscal y tributaria del Estado, así como administrar los recursos humanos, materiales y patrimoniales de la Administración Pública.
+Habrá en el Estado, una Secretaría de Finanzas a quien corresponderá la recaudación, guarda, manejo, distribución y el fortalecimiento de los caudales públicos, así como la regulación de la actividad financiera, fiscal y tributaria de la Administración Pública. El Secretario de Finanzas hará la distribución de los recursos públicos, según el Presupuesto de Egresos y previa autorización, en los términos que establezcan las leyes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -2617,11 +2629,13 @@ Todo funcionario público, sin excepción alguna, antes de tomar posesión de su
 
 Los Poderes Supremos del Estado residirán en el mismo lugar, a menos que por circunstancias extraordinarias, calificadas por el voto de las dos terceras partes de los individuos presentes en el Congreso, sea necesaria la separación.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
 
 ###### Artículo 159.
 
-No podrá hacerse cargo alguno que no esté comprendido en el presupuesto o determinado por la ley. El Secretario de Finanzas y Administración se negará a obedecer cualquier orden del Gobernador contraria a este respecto; pero si le fuere reiterada, la cumplirá dando cuenta inmediatamente al Congreso del Estado; de lo contrario, será responsable personal y pecuniariamente.
+No podrá hacerse cargo alguno que no esté comprendido en el Presupuesto de Egresos o determinado por la Ley. El Secretario de Finanzas se negará a obedecer cualquier orden del Gobernador contraria a este respecto; pero si le fuere reiterada, la cumplirá dando cuenta inmediatamente al Congreso del Estado; de lo contrario, será responsable personal y pecuniariamente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
@@ -2633,13 +2647,15 @@ En el caso de la fracción V del artículo 76 de la Constitución Federal, asumi
 
 I.- El Presidente de la última Legislatura.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. El Secretario de Gobierno o el Secretario de Finanzas y Administración conforme a los artículos 57 y 61, fracción VI, de esta Constitución.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2013)</small>
+
+II.- El Secretario de Gobierno, o el Secretario de Finanzas, conforme a los artículos 57 y 61, fracción VI, de esta Constitución;
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
-III. El último Presidente del Supremo Tribunal de Justicia.
+III.- El último Presidente del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -3528,3 +3544,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación, por 
 ###### ARTÍCULO CUARTO.
 
 El Congreso del Estado deberá aprobar las reformas necesarias en las leyes secundarias relacionadas con la materia del presente, para dar cumplimiento a esta reforma constitucional, a más tardar en un plazo de noventa días, contados a partir de la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Los artículos 57, 61, 63, 123, 131, 132, 159 y 160, en lo que ve a la nueva denominación y atribuciones de la Secretaría de Finanzas, entrarán en vigor al momento en que inicie la vigencia de la normatividad que la regule.
+
+###### ARTÍCULO CUARTO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
