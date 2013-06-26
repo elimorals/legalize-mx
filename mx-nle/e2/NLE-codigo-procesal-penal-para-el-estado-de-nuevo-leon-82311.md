@@ -4,7 +4,7 @@ identifier: "NLE-codigo-procesal-penal-para-el-estado-de-nuevo-leon-82311"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-07-05"
-last_updated: "2012-12-28"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el martes 5 de julio de 2011.
 
@@ -951,7 +951,9 @@ I. Se trate de un hecho socialmente insignificante o de mínima o exigua culpabi
 
 En los casos de esta fracción, el Ministerio Público estará obligado a ofrecer el mecanismo de justicia alternativa, antes de ejercer el criterio de oportunidad;
 
-II. Cuando se trate de delitos calificados como graves, en este Código o que afecten a un número significativo de personas, que sean de investigación compleja y el imputado colabore eficazmente con la misma, brindando información esencial para evitar que continúe el delito o se perpetren otros, ayude a esclarecer el hecho investigado, u otros conexos, o proporcione información útil para probar la participación de otros imputados, y siempre que en todos los casos su participación sea menos grave que la de estos últimos o los hechos delictivos por el cometido resulten considerablemente más leves que aquellos cuya persecución facilita o cuya continuación evita;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+II. Se trate de delitos calificados como graves, de cualquiera de los delitos previstos en los Títulos Séptimo y Octavo del Libro Segundo del Código Penal para el Estado de Nuevo León o que afecten a un número significativo de personas, que sean de investigación compleja y el imputado colabore eficazmente con la misma, brindando información esencial para evitar que continúe el delito o se perpetren otros, ayude a esclarecer el hecho investigado, u otros conexos, o proporcione información útil para probar la participación de otros imputados, y siempre que en todos los casos su participación sea menos grave que la de estos últimos o los hechos delictivos por el cometido resulten considerablemente más leves que aquellos cuya persecución facilita o cuya continuación evita;
 
 III. El imputado haya sufrido, a consecuencia del hecho, daño físico o psicológico grave que torne desproporcionada la aplicación de una pena, o cuando en ocasión de un delito culposo haya sufrido un daño moral de difícil superación; o
 
@@ -5420,3 +5422,7 @@ P.O. 28 DE DICIEMBRE DE 2012.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Los tratamientos derivados del perdón condicionado del Artículo 111 del Código Penal para el Estado de Nuevo León, continuarán hasta su terminación.
+
+P.O. 26 DE JUNIO DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
