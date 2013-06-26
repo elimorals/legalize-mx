@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-procedimiento-administrativo-para-el-estado-de-17530"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2000-09-06"
+last_updated: "2013-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Segunda al Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -49,7 +49,9 @@ Las disposiciones de esta Ley son de orden e interés público y de observancia 
 
 En el caso de la Administración Pública Paraestatal o Paramunicipal, sólo podrá ser aplicada la presente Ley cuando se trate de actos de autoridad provenientes de organismos descentralizados que afecten la esfera jurídica de los particulares.
 
-El presente ordenamiento no será aplicable a las materias de carácter financiero, laboral, electoral, del ministerio público en ejercicio de su facultad constitucional, responsabilidad de servidores públicos y fiscal, excluyéndose de esta última las contribuciones y los accesorios que de ella deriven.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+El presente ordenamiento no será aplicable a las materias de carácter financiero; laboral; electoral; a los actos y resoluciones del Instituto del Registro Público de la Propiedad y del Comercio del Estado de Morelos; del Ministerio Público en ejercicio de su facultad constitucional; de responsabilidades de servidores públicos, y fiscal cuando se trate de contribuciones y sus accesorios.
 
 ###### ARTÍCULO 2.
 
@@ -950,3 +952,19 @@ SECRETARIO GENERAL DE GOBIERNO.
 VÍCTOR MANUEL SAUCEDO PERDOMO.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
