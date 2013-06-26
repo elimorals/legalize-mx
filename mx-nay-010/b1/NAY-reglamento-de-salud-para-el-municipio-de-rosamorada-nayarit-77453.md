@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-salud-para-el-municipio-de-rosamorada-nayarit-774
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-13"
-last_updated: "2013-06-01"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77453&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,9 @@ state: "NAY"
 
 REGLAMENTO DE SALUD PARA EL MUNICIPIO DE ROSAMORADA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL REGLAMENTO DE SALUD PARA EL MUNICIPIO DE ROSAMORADA, PUBLICADO EN EL P.O. DE 26 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Octava del Periódico Oficial del Estado de Nayarit, el sábado 13 de noviembre de 2010.
 
@@ -903,3 +905,9 @@ Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su
 P.O. 1 DE JUNIO DE 2013.
 
 UNICO.- El presente Reglamento entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2013.
+
+Primero.- Se abroga el reglamento anterior con igual jerarquía aprobado por el honorable cabildo el día 13 de Noviembre de 2010.
+
+Segundo.- El presente reglamento entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
