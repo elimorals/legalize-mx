@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-seguridad-privada-para-la-ciudad-de-mexico-antes-ley-425
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-24"
-last_updated: "2009-02-24"
+last_updated: "2013-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42556&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-12-14"
 
 LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 24 de enero de 2005.
 
@@ -194,7 +194,7 @@ V. Celebrar convenios con las autoridades federales, estatales y municipales com
 
 VI. Determinar e imponer las sanciones correspondientes por violaciones a la presente ley y su reglamento, en lo que se refiere a la prestación de los servicios o realización de actividades de seguridad privada;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2009)</small>
 
@@ -264,9 +264,13 @@ V. La persona física, socios, asociados o integrantes del órgano de administra
 
 VI. La persona física, socios, asociados o integrantes del órgano de administración, no haber sido condenados por delito doloso con sanción privativa de la libertad mayor de un año, y
 
-VII. La persona física, socios, asociados o integrantes del órgano de administración no haber sido destituidos de los cuerpos de seguridad pública, ni de las fuerzas armadas por cualquiera de los siguientes motivos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE JUNIO DE 2013)</small>
 
-a) Por falta grave a los principios de actuación previstos en las Leyes;
+VII. La persona física, socios, asociados o integrantes del órgano de administración no haber sido destituidos de los cuerpos de seguridad pública, ni de las fuerzas armadas, despedidos de las empresas de seguridad privada o habérsele revocado su licencia, por cualquiera de los siguientes motivos:
+
+> <small>(REFORMADO, G.O. 26 DE JUNIO DE 2013)</small>
+
+a) Haber sido sancionado por delito doloso.
 
 b) Por poner en peligro a los particulares a causa de imprudencia, negligencia o abandono del servicio;
 
@@ -426,9 +430,13 @@ XI. No haber sido condenado por delito doloso con sanción privativa de la liber
 
 XII. No ser adicto al consumo de alcohol, sustancias psicotrópicas y estupefacientes, ni otros productos que tengan efectos similares;
 
-XIII. No haber sido destituido de los cuerpos de seguridad pública ni de las fuerzas armadas por cualquiera de los siguientes motivos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE JUNIO DE 2013)</small>
 
-a) Por falta grave a los principios de actuación previstos en las Leyes;
+XIII. No haber sido destituidos de los cuerpos de seguridad pública, ni de las fuerzas armadas, despedidos de las empresas de seguridad privada o habérsele revocado su licencia, por cualquiera de los siguientes motivos:
+
+> <small>(REFORMADO, G.O. 26 DE JUNIO DE 2013)</small>
+
+a) Haber sido sancionado por delito doloso;
 
 b) Por poner en peligro a los particulares a causa de imprudencia, negligencia o abandono del servicio;
 
@@ -468,9 +476,13 @@ IX. No haber sido condenado por delito doloso, con sanción privativa de la libe
 
 X. No ser adicto al consumo de alcohol, sustancias psicotrópicas y estupefacientes ni otros productos que tengan efectos similares;
 
-XI. No haber sido destituido de los cuerpos de seguridad pública ni de las fuerzas armadas por cualquiera de los siguientes motivos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE JUNIO DE 2013)</small>
 
-a) Por falta grave a los principios de actuación previstos en las leyes;
+XI. No haber sido destituidos de los cuerpos de seguridad pública, ni de las fuerzas armadas, despedidos de las empresas de seguridad privada o habérsele revocado su licencia, por cualquiera de los siguientes motivos:: (sic)
+
+> <small>(REFORMADO, G.O. 26 DE JUNIO DE 2013)</small>
+
+a) Haber sido sancionado por delito doloso;
 
 b) Por poner en peligro a los particulares a causa de imprudencia, negligencia o abandono del servicio;
 
@@ -552,7 +564,7 @@ IX. Sanciones administrativas y penales;
 
 X. Armamento, y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2009)</small>
 
@@ -560,7 +572,7 @@ XI. Los equipos y sistemas tecnológicos que se utilicen así como las autorizac
 
 XII. Los demás que sean necesarias a juicio de la Secretaría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 24 DE FEBRERO DE 2009)</small>
 
@@ -642,19 +654,27 @@ VI. Informar a la Secretaría de las modificaciones que se registren, en relaci�
 
 VII. Informar al Ministerio Público de aquellas conductas que sean probablemente constitutivas de delito en las que intervenga su personal o elementos operativos o de apoyo, debiendo aportar los datos de que disponga para el esclarecimiento de los hechos;
 
-VIII. Contar en su organización con un jefe de operaciones por lo menos, debiendo hacer del conocimiento de la Secretaría el nombre de éste para su integración en el Registro;
+> <small>(ADICIONADA, G.O. 26 DE JUNIO DE 2013)</small>
 
-IX. Aportar a la Secretaría de manera oportuna y con la periodicidad que determine esta Ley y su Reglamento, los datos que se requieran para el Registro de los Servicios de Seguridad Privada;
+VIII. En caso de homicidio deberá informar inmediatamente al Ministerio Público, proporcionando toda la información requerida del presunto culpable, de lo contrario se hará acreedor a las sanciones que el Código Penal del Distrito Federal señala.
 
-X. Vigilar que su personal cumpla con las obligaciones que le fijan esta Ley y demás ordenamientos jurídicos en la materia;
+IX. Contar en su organización con un jefe de operaciones por lo menos, debiendo hacer del conocimiento de la Secretaría el nombre de éste para su integración en el Registro;
 
-XI. Aplicar anualmente exámenes médicos, psicológicos y toxicológicos a sus elementos operativos, en institución autorizada para el efecto, y presentar el resultado de los mismos en un plazo de diez días hábiles posteriores a su práctica, y (sic)
+X. Aportar a la Secretaría de manera oportuna y con la periodicidad que determine esta Ley y su Reglamento, los datos que se requieran para el Registro de los Servicios de Seguridad Privada;
 
-XII. Proporcionar con la periodicidad que determine el Reglamento, la capacitación y adiestramiento a sus elementos de apoyo y operativos, de conformidad a la modalidad en que presten el servicio o realicen la actividad de seguridad privada;
+XI. Vigilar que su personal cumpla con las obligaciones que le fijan esta Ley y demás ordenamientos jurídicos en la materia;
+
+> <small>(REFORMADA, G.O. 26 DE JUNIO DE 2013)</small>
+
+XII. Aplicar anualmente exámenes médicos, psicológicos y toxicológicos a sus elementos operativos, en institución autorizada para el efecto, y presentar el resultado de los mismos en un plazo de diez días hábiles posteriores a su práctica;
+
+> <small>(REFORMADA, G.O. 26 DE JUNIO DE 2013)</small>
+
+XIII. Proporcionar con la periodicidad que determine el Reglamento, la capacitación y adiestramiento a sus elementos de apoyo y operativos, de conformidad a la modalidad en que presten el servicio o realicen la actividad de seguridad privada; y
 
 > <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2009)</small>
 
-XIII. A las obligaciones que les impone la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal, su Reglamento y otras disposiciones vigentes.
+XIV. A las obligaciones que les impone la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal, su Reglamento y otras disposiciones vigentes.
 
 ###### Artículo 36.
 
@@ -676,13 +696,37 @@ VI. El uniforme, insignias y divisas que utilicen los elementos operativos o ele
 
 VII. El personal que preste servicios o realice actividades de seguridad privada y que requiera uniforme para el desempeño de sus labores deberá usarlo únicamente en los lugares donde se presten tales servicios, y durante los horarios en que se lleven a cabo.
 
+> <small>(ADICIONADO, G.O. 26 DE JUNIO DE 2013)</small>
+
+###### Artículo 36 Bis.
+
+El personal operativo utilizará el uniforme, armamento, automóviles y equipo únicamente en los lugares y horarios de servicio.
+
+El personal operativo en todo momento deberá conducirse con profesionalismo, honestidad y respeto hacia los derechos de las personas.
+
 ###### Artículo 37.
 
 Dentro del marco de actuación que rige la prestación de servicios o de realización de actividades de seguridad privada, los titulares de permisos y autorizaciones deberán conservar los requisitos exigidos para su expedición.
 
-### CAPÍTULO X. De la suspensión de la prestación del servicio
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 26 DE JUNIO DE 2013)</small>
 
-### CAPÍTULO ÚNICO. De la verificación administrativa
+### CAPÍTULO X. De la responsabilidad y obligaciones del Prestatario
+
+> <small>(ADICIONADO, G.O. 26 DE JUNIO DE 2013)</small>
+
+###### Artículo 37 Bis.
+
+El prestatario deberá:
+
+I. Cubrir los daños que provoque cualquier elemento de su seguridad privada; si la autoridad a si (sic) lo considera.
+
+II. En el caso de que su seguridad privada no cuente con los requisitos que exige la ley de Seguridad Privada y la ley de Seguridad Pública ambas del Distrito Federal, por el solo hecho de contratarlo se hará acreedor de una multa de 3 500 a 5000 días de salario mínimo.
+
+III. Para los casos de lesiones y homicidio por parte del prestador del servicio de seguridad privada, el prestatario deberá denunciar los hechos, inmediatamente al Ministerio Público, proporcionando toda la información requerida del presunto responsable, de lo contrario se hará acreedor a las sanciones que el Nuevo Código Penal del Distrito Federal señalan.
+
+### CAPÍTULO XI. De la suspensión de la prestación del servicio
+
+(REUBICADO, G.O. 26 DE JUNIO DE 2013)
 
 ###### Artículo 38.
 
@@ -690,7 +734,7 @@ Los prestadores de los servicios de seguridad privada, titulares de los permisos
 
 ## TÍTULO TERCERO. DE LA VERIFICACIÓN ADMINISTRATIVA
 
-### CAPÍTULO I. Del apercibimiento, amonestación y multa
+### CAPÍTULO ÚNICO. De la verificación administrativa
 
 ###### Artículo 39.
 
@@ -784,7 +828,7 @@ A fin de llevar a cabo las visitas de verificación, la Secretaría podrá solic
 
 ## TÍTULO CUARTO. DE LAS SANCIONES
 
-### CAPÍTULO II. De la suspensión temporal
+### CAPÍTULO I. Del apercibimiento, amonestación y multa
 
 ###### Artículo 49.
 
@@ -812,7 +856,7 @@ V. La cuantía del daño o perjuicio económico causados a terceros o la graveda
 
 En caso de reincidencia, la Secretaría podrá imponer una multa que oscilará entre el 50% y el 100% adicional de las sanciones originalmente impuestas, de acuerdo con la gravedad de la infracción, las circunstancias de ejecución y las condiciones económicas.
 
-### CAPÍTULO III. De la cancelación
+### CAPÍTULO II. De la suspensión temporal
 
 ###### Artículo 51.
 
@@ -832,7 +876,7 @@ La suspensión temporal se aplicará independientemente de las sanciones a que h
 
 Cuando la Secretaría detecte que con motivo de la prestación del servicio de seguridad privada, se ponga en peligro la salud y la seguridad pública, además de la suspensión temporal a que se refiere este artículo, podrá imponer las medidas de seguridad establecidas en el Reglamento de esta Ley.
 
-### CAPÍTULO IV. De la revocación
+### CAPÍTULO III. De la cancelación
 
 ###### Artículo 52.
 
@@ -862,7 +906,7 @@ XI. Haber obtenido el permiso, autorización o licencia, mediante documentos, de
 
 La cancelación prevista en el presente artículo, se aplicará independientemente de las sanciones a que hayan dado lugar las irregularidades detectadas.
 
-### CAPÍTULO V. Del Procedimiento para la suspensión temporal, cancelación o revocación
+### CAPÍTULO IV. De la revocación
 
 ###### Artículo 53.
 
@@ -880,7 +924,7 @@ V. Transgredir lo previsto en los artículos 33 y 34 de esta Ley.
 
 La revocación se aplicará independientemente de las sanciones a que hayan dado lugar las irregularidades detectadas.
 
-### CAPÍTULO VI. De la clausura
+### CAPÍTULO V. Del Procedimiento para la suspensión temporal, cancelación o revocación
 
 ###### Artículo 54.
 
@@ -892,7 +936,7 @@ II. Transcurrido dicho plazo, la Secretaría emitirá acuerdo en el que en su ca
 
 III. Concluido el periodo probatorio, la Secretaría cuenta con un plazo de quince días hábiles para dictar resolución, la cual deberá notificar personalmente y por escrito al titular del permiso, autorización o licencia o quien represente legalmente sus intereses.
 
-### CAPÍTULO VII. De los recursos
+### CAPÍTULO VI. De la clausura
 
 ###### Artículo 55.
 
@@ -942,7 +986,7 @@ Las demás causas que constituyan infracción a los ordenamientos jurídicos que
 
 Los prestatarios de servicios de seguridad privada, serán solidariamente responsables de la comisión de infracciones, cuando contraten personas físicas o morales que no cuenten con permiso, licencia o autorización de la Secretaría.
 
-### CAPITULO I. De la Unidad de Verificación
+### CAPÍTULO VII. De los recursos
 
 ###### Artículo 59.
 
@@ -950,7 +994,7 @@ Los afectados por los actos o resoluciones de la Secretaría podrán interponer 
 
 ## TITULO QUINTO. DE LAS UNIDADES ESPECIALES
 
-### CAPÍTULO II. De la Unidad de Evaluación y Certificación
+### CAPITULO I. De la Unidad de Verificación
 
 ###### Artículo 60.
 
@@ -986,9 +1030,7 @@ Los dictámenes expedidos por la Unidad de Verificación, tendrán carácter de 
 
 La Unidad de Verificación informará permanentemente al Titular de la Secretaría acerca de sus actividades y mantendrá estrecha comunicación con otras unidades administrativas internas y de otras dependencias.
 
-### CAPÍTULO ÚNICO
-
-De la coordinación con autoridades Federales, Estatales y Municipales.
+### CAPÍTULO II. De la Unidad de Evaluación y Certificación
 
 ###### Artículo 66.
 
@@ -999,6 +1041,10 @@ La Secretaría contará con una unidad administrativa de apoyo técnico operativ
 La Secretaría podrá autorizar a personas físicas o morales para que lleven a cabo las evaluaciones y expidan las constancias referidas en el artículo anterior, previo cumplimiento de los requisitos y bajo los lineamientos que al efecto emita la Secretaría.
 
 ## TÍTULO SEXTO. DE LA COORDINACIÓN CON AUTORIDADES FEDERALES, ESTATALES Y MUNICIPALES
+
+### CAPÍTULO ÚNICO
+
+De la coordinación con autoridades Federales, Estatales y Municipales.
 
 ###### Artículo 68.
 
@@ -1038,7 +1084,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de diciembre de dos mil cuatro.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, JOEL ORTEGA CUEVAS.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 24 DE FEBRERO DE 2009.
 
@@ -1049,3 +1095,9 @@ SEGUNDO.- Los procedimientos para la obtención de autorización, aviso de regis
 TERCERO.- Se deroga toda disposición que se oponga al presente decreto.
 
 CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para mayor difusión.
+
+G.O. 26 DE JUNIO DE 2013.
+
+Primero: Este decreto entrara en vigor al día siguiente de su publicación.
+
+Segundo: Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
