@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2012-01-28"
+last_updated: "2013-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -615,7 +615,9 @@ c).- Para desempeñar cargos de elección popular; y
 
 d).- A trabajadores que sufran enfermedades no profesionales, en los términos del Artículo 55 de esta Ley;
 
-IX.- Otorgar jubilaciones a los trabajadores varones que cumplan treinta años de servicio y veintiocho a las mujeres, con el cien por ciento de sus percepciones y pensiones por invalidez, vejez o muerte, de conformidad con lo que disponga el reglamento correspondiente;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+IX.- Otorgar jubilaciones a los trabajadores varones que cumplan treinta años de servicio y veintiocho a las mujeres, con el cien por ciento de sus percepciones; en ningún caso el monto máximo de una pensión será superior al equivalente a dieciséis salarios mínimos diarios vigente (sic) en la Entidad por día. Asimismo, otorgar pensiones por invalidez, vejez o muerte, de conformidad con lo que disponga el reglamento correspondiente;
 
 X.- Cubrir las aportaciones que fijen las leyes especiales, para que los trabajadores reciban los beneficios de la seguridad y servicios sociales;
 
@@ -1438,3 +1440,13 @@ PRIMERO.- El presente Decreto entrará en vigor a (sic) día siguiente de su pub
 P.O. 28 DE ENERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 26 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Lo dispuesto en el presente Decreto no será aplicable a aquellos trabajadores que al 31 de diciembre de 2013 cumplan con los requisitos que la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima establece para ser acreedor a una pensión por jubilación.
