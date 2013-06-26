@@ -4,7 +4,7 @@ identifier: "COL-ley-de-deuda-publica-del-estado-de-colima-21187"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-28"
-last_updated: "2012-01-28"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 28 de abril del 2001.
 
@@ -99,11 +99,13 @@ VII.- Secretaría: la Secretaría de Finanzas del Gobierno del Estado; y
 
 VIII.- Registro: el Registro Estatal de Deuda Pública.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 5º.
 
-No constituyen deuda pública las obligaciones financieras que contraigan. las entidades públicas a que se refiere el artículo 2º de esta Ley, para solventar necesidades temporales, siempre que su liquidación se realice en el mismo ejercicio fiscal para el cual fueron contratadas.
+No constituyen deuda pública las obligaciones financieras que contraigan las entidades públicas a que se refiere el artículo 2° de esta Ley, para solventar necesidades temporales, siempre que su liquidación se realice en el mismo ejercicio fiscal para el cual fueron contratadas. Sin perjuicio de lo señalado, excepcionalmente podrán ser reconocidas por el Congreso dichas obligaciones financieras como operaciones constitutivas de deuda pública, siempre que el destino de las mismas hubiera sido inversión pública productiva, e incluso, refinanciarse a largo plazo y establecer como fuente o garantía de pago de las mismas las participaciones en ingresos federales y/o cualquier otro ingreso del que se pueda disponer para tales efectos conforme a la normativa aplicable, debiendo contar con la autorización previa a través del Decreto correspondiente.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2008)</small>
 
 Tampoco constituyen deuda pública los adelantos de participaciones federales.
 
@@ -151,11 +153,17 @@ II.- Autorizar los montos adicionales de endeudamiento no considerados en las le
 
 III.- Autorizar la afectación en fuente de pago, en garantía o ambas de las participaciones y/o aportaciones federales suceptibles (sic) de afectarse de conformidad a la legislación aplicable, así como el mecanismo a través del cual se realice la afectación.
 
-Cuando dos o más municipios sometan una iniciativa ante el Congreso para que se expida una autorización global de endeudamiento, constitución de garantías, fuente de pago o ambas, el mecanismo de afectación y pago se podrá adherir al esquema autorizado aquellos municipios que así lo decidan y cumplan con los demás requerimientos previstos en la ley; y
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+Cuando dos o más municipios sometan una iniciativa ante el Congreso para que se expida una autorización global de endeudamiento, constitución de garantías, fuente de pago o ambas, el mecanismo de afectación y pago se podrá adherir al esquema autorizado aquellos municipios que así lo decidan y cumplan con los demás requerimientos previstos en la ley;
 
-IV.- Las demás que determinen ésta y otras disposiciones legales y reglamentarias.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+IV.- Reconocer y mandar pagar la deuda pública; y autorizar a las entidades previstas en el Artículo 2 de la presente Ley a reestructurar y/o refinanciar las operaciones constitutivas de deuda pública a su cargo; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+V.- Las demás que determinen ésta y otras disposiciones legales y reglamentarias.
 
 ###### ARTICULO 10.
 
@@ -354,3 +362,13 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE ENERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos del presente Decreto, se deroga todo aquello que en la legislación local se oponga al mismo.
