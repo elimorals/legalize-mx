@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2013-04-24"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -1505,6 +1505,32 @@ La imposición de las sanciones que determinen las autoridades correspondientes 
 
 La institución de procuración de justicia aplicará, operará y supervisará su régimen disciplinario a través de la instancia que para tal efecto determine, sobre las bases de la presente ley en concordancia con su normatividad interna.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+###### Artículo 99 Bis.
+
+La Secretaría de Seguridad Pública, es la facultada exclusivamente para dictar los lineamientos o protocolos del uso de la fuerza pública en el Estado y que deberán asumir la institución de Procuración de Justicia, las propias instituciones de Seguridad Pública y las Instituciones Policiales, de conformidad con las bases siguientes:
+
+I. Señalará con toda precisión qué tipo de armas pueden usar los elementos para atender cada caso o situación particular y la gradualidad del uso de las armas.
+
+II. Establecerá disposiciones tendientes a fomentar el uso de las armas menos lesivas;
+
+III. Contemplará mecanismos de control tanto para el almacenamiento como para la distribución de las armas;
+
+IV. Precisará la obligación de dar avisos de advertencia, previos al uso de las armas;
+
+V. Preverá los lineamientos para la planeación estratégica y coordinada de los operativos, identificando tácticas y fuerzas a emplear en los diferentes escenarios, a fin de ajustarse al principio de proporcionalidad del uso de la fuerza;
+
+VI. Plasmará las condicionantes que justifican los operativos y las causas de suspensión de los mismos;
+
+VII. Preverá los riesgos que pudieran presentarse en las acciones y sus respectivas alternativas de solución;
+
+VIII. Especificará el curso de acción luego de una detención; y
+
+IX. Contemplará, en caso de llegar al uso de la fuerza, que trato y cuidado deben darse a las personas heridas y el aviso inmediato a sus familiares como una prioridad.
+
+La Secretaría de Seguridad Pública, está obligada a actualizar de manera mensual cada lineamiento o protocolo respectivo y de notificar fehacientemente a cada Institución su contenido.
+
 ## TÍTULO SÉPTIMO. DISPOSICIONES COMUNES A LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
 ### CAPÍTULO I. DE LAS OBLIGACIONES Y SANCIONES DE LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
@@ -1533,7 +1559,9 @@ IX. Velar por la vida e integridad física de las personas detenidas;
 
 X. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
 
-XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por las Instituciones de Seguridad Pública;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por las Instituciones de Seguridad Pública, así como los lineamientos o protocolos de actuación que para el uso de la fuerza pública se emitan en base a las prevenciones generales a que refiere esta Ley;
 
 XII. Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
@@ -1573,7 +1601,9 @@ XXVIII. Los demás que establezcan las disposiciones legales aplicables.
 
 Además de lo señalado en el artículo anterior, los integrantes de las instituciones policiales, tendrán específicamente las obligaciones siguientes:
 
-I. Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+I. Registrar en el informe Policial Homologado los datos de las actividades e investigaciones que realice, debiendo en el caso del empleo de la fuerza pública detallar de manera pormenorizada las condiciones o circunstancias que motivaron el uso de la misma;
 
 II. Remitir a la instancia que corresponda la información recopilada, en el cumplimiento de sus misiones o en el desempeño de sus actividades, para su análisis y registro. Asimismo, entregar la información que le sea solicitada por otras instituciones de seguridad pública, en los términos de las leyes correspondientes;
 
@@ -1595,7 +1625,9 @@ Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos
 
 Las demás que establezcan las disposiciones legales aplicables.
 
-Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+Siempre que se use la fuerza pública, se hará de manera racional, congruente, oportuna, cuando sea estrictamente necesario y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
 
 ###### Artículo 102.
 
@@ -1965,7 +1997,7 @@ IV. Facilitar la rendición de cuentas y la evaluación del sistema estatal.
 
 ###### Articulo 131
 
-C (SIC).- En la conformación de esta Comisión, el Consejo Estatal deberá garantizar que la misma contará con los representantes de las dependencias de la administración pública estatal, del Congreso del Estado y del Tribunal Superior de Justicia y de los especialistas, académicos y representes de la sociedad, suficientes para cumplir con los cometidos siguientes:
+C (SIC).- En la conformación de esta Comisión, el Consejo Estatal deberá garantizar que la misma contará con los representantes de las dependencias de la administración pública estatal, del Congreso del Estado y del Tribunal Superior de Justicia y de los especialistas, académicos y representes de la sociedad, suficientes para cumplir con los; cometidos siguientes:
 
 I. Elaborar los estudios para conformar un diagnóstico anual acerca de la situación de la trata de personas en el Estado;
 
@@ -2849,9 +2881,9 @@ Se derogan todas las disposiciones de igual o menor rango que se opongan al pres
 
 P.O. 12 DE SEPTIEMBRE DE 2011.
 
-Primero.- Aprobado que sea el presente decreto túrnese al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+Primero.- Aprobado que sea el presente decreto túrnese al titular del Poder Ejecutivo para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
 
-Segundo.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+Segundo.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
 
 Tercero.- La comisión permanente que el Consejo Estatal de Seguridad Pública debe conformar en términos del artículo 14 de la Ley del Sistema de Seguridad Pública del Estado de Morelos, por virtud de lo establecido en el artículo 130-B, adicionado en ese ordenamiento por efecto del presente decreto, habrá de ser establecida para iniciar sus labores a más tardar en cuarenta y cinco días hábiles contados a partir de la entrada en vigor de esta reforma.
 
@@ -2884,3 +2916,11 @@ PRIMERA (SIC).- El presente Decreto entrará en vigor al día siguiente de su pu
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente decreto.
 
 TERCERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 26 DE JUNIO DE 2013.
+
+PRIMERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Estado.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente decreto.
