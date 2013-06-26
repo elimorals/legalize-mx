@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-del-trabajo-70299"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-19"
-last_updated: "2012-08-22"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -55,9 +55,11 @@ La Secretaría del Trabajo, es una Dependencia del Poder Ejecutivo del Estado, q
 
 La Secretaría del Trabajo, tiene como objetivo principal, proteger los derechos laborales de los trabajadores; así como coordinarse con las autoridades federales en materia de seguridad e higiene en el trabajo, capacitación y adiestramiento, e impulsar la productividad y la competitividad, el mejoramiento de las condiciones de trabajo, la vinculación del empleo y fomento del autoempleo.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### Artículo 4°.
 
-La Secretaría del Trabajo, en coordinación con los Organismos Públicos Federal, Estatal y Municipal, buscará lograr la realización de los objetivos contemplados en el Plan de Desarrollo Chiapas Solidario 2007-2012, en congruencia con el Plan Nacional de Desarrollo.
+La Secretaría del Trabajo, en coordinación con los Organismos de la Administración Pública Federal, Estatal y Municipal, impulsarán los objetivos contemplados en el Plan Estatal de Desarrollo, en congruencia con el Plan Nacional de Desarrollo.
 
 ###### Artículo 5°.
 
@@ -81,11 +83,17 @@ VIII. Ley Orgánica: A la Ley Orgánica de la Administración Pública del Estad
 
 IX. Reglamento: Al Reglamento Interior de la Secretaría del Trabajo.
 
-X. Plan: Al Plan de Desarrollo Chiapas Solidario 2007-2012.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+X. Plan: Al Plan Estatal de Desarrollo.
 
 XI. Programas: A los programas sectoriales, especiales, regionales, de inversión, institucionales y operativos anuales.
 
 XII. Proyectos: A los proyectos derivados de programas.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XIII. Procuraduría: A la Procuraduría de la Defensa del Trabajo.
 
 ###### Artículo 6°.
 
@@ -121,7 +129,9 @@ b) Dirección de Vinculación y Fomento al Autoempleo.
 
 III. Subsecretaría de la Defensa del Trabajo.
 
-a) Dirección de Conciliación.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+a) Dirección del Trabajo y Previsión Social
 
 b) Dirección Jurídica Laboral.
 
@@ -201,7 +211,27 @@ XVI. Regular las relaciones entre el Ejecutivo del Estado y sus servidores públ
 
 XVII. Promover la creación del autoempleo, capacitación y adiestramiento, así como vincular el empleo y auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo.
 
-XVIII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales y administrativas aplicables, así como las que le encomiende el Titular del Ejecutivo.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XVIII. Dirigir y coordinar el funcionamiento de la Procuraduría en el Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XIX. Coordinar y vigilar la implementación de plataformas electrónicas, sistemas y herramientas tecnológicas que se utilizarán para la publicación en medios de comunicación electrónica de los contratos colectivos de trabajo, reglamentos interiores de trabajo y la consulta y actuación de las partes en los procedimientos establecidos en la Ley Federal del Trabajo.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XX. Coordinar el Servicio Público de Conciliación en el Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XXI. Representar legalmente a la Secretaría, en el ámbito de su competencia, ante toda clase de autoridades, organismos, instituciones y personas morales oficiales y privadas, nacionales e internacionales.
+
+La representación a que se refiere esta fracción, comprende el ejercicio de todo tipo de acciones y constituye una representación amplísima.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XXII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 13.
 
@@ -245,7 +275,9 @@ XVIII. Enviar los informes que le soliciten los Organismos Públicos de Derechos
 
 XIX. Proponer a las autoridades jurisdiccionales laborales del Estado, en estricto respeto a su autonomía jurisdiccional, las acciones tendentes a lograr el mejoramiento de la administración e impartición de justicia laboral en el Estado.
 
-XX. Proponer al Ejecutivo del Estado, la integración y establecimiento de la Junta Local de Conciliación y Arbitraje, las Juntas Especiales de Conciliación y Arbitraje y las Juntas de Conciliación del Estado y vigilar su funcionamiento.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XX. Proponer al Ejecutivo del Estado, la integración y establecimiento de la Junta local de Conciliación y Arbitraje y las Juntas Especiales de Conciliación y Arbitraje y vigilar su funcionamiento.
 
 XXI. Intervenir en la conciliación y solución de intereses laborales de las partes en conflicto, cuando éstas lo soliciten, así como tratándose de Organismos Públicos Descentralizados Estatales y Municipales, o cuando la situación lo amerite a juicio del Ejecutivo del Estado.
 
@@ -367,7 +399,13 @@ XV. Ejecutar las resoluciones emitidas por el Secretario, de las sanciones admin
 
 XVI. Promover y proporcionar al personal de la Secretaría, capacitación, adiestramiento, desarrollo y recreación de acuerdo a los programas establecidos por la Dependencia normativa.
 
-XVII. Las demás que en el ámbito de su competencia le asigne el Secretario y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XVII. Otorgar el ingreso, promoción, remoción, cambios de adscripción, comisiones del personal adscrito a la Secretaría, previo acuerdo del Secretario.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XVIII. Las demás atribuciones que en el ámbito de su competencia, les sean encomendadas por el Secretario; así como las que les confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 18.
 
@@ -401,19 +439,29 @@ XI. Capacitar y actualizar al personal de la Secretaría, para que cumpla con lo
 
 XII. Realizar periódica y aleatoriamente la supervisión del software y hardware del equipo de cómputo de la Secretaría, con el fin de prevenir cualquier contaminación, dentro y fuera de la misma, aplicando las medidas que la Unidad determine convenientes.
 
-XIII. Las demás que en el ámbito de su competencia le asigne el Secretario y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XIII. Dirigir y administrar la implementación de plataformas electrónicas, sistemas y herramientas tecnológicas que se utilizarán para la publicación en medios de comunicación electrónica de los contratos colectivos de trabajo, reglamentos interiores de trabajo y la consulta y actuación de las partes en los procedimientos establecidos en la Ley Federal del Trabajo.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XIV. Las demás atribuciones que en el ámbito de su competencia, les sean encomendadas por el Secretario; así como las que les confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 20.
 
 El Titular de la Unidad de Asuntos Jurídicos, tiene las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-I. Representar legalmente a la Secretaría, ante todo tipo de autoridades, con las facultades generales y especiales de un mandato para pleitos y cobranzas y actos de administración.
+I. Representar legalmente a la Secretaría, ante todo tipo de autoridades judiciales, administrativas, del trabajo, militares, fiscales, del fuero federal, estatal, o municipal, ante sociedades, asociaciones y particulares en los procedimientos de cualquier índole, con las facultades generales y especiales de mandato para pleitos y cobranzas y de representación patronal.
+
+La representación a que refiere esta fracción, comprende el desahogo de todo tipo de pruebas, promoción de incidentes, rendición de informes, presentación de recursos o medios de impugnación en cualquier acción o controversia ante cualquier autoridad, y constituye una representación amplísima.
 
 II. Fungir como consejero jurídico de la Secretaría, asesorando legalmente a los Órganos Administrativos y al público en general, cuando así lo requieran.
 
-III. Aplicar las políticas, normas y procedimientos que en materia jurídica sean competencia de la Secretaría.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+III. Formular y substanciar los procedimientos administrativos que conforme a la Legislación de la materia, corresponda a los servidores públicos de la Secretaría, derivados de actos que en el ejercicio de sus funciones cometan; y remitirlos para su resolución a las autoridades competentes.
 
 IV. Intervenir como órgano competente de la Secretaría en los procedimientos y procesos de cualquier orden, que se ventilen ante las autoridades administrativas, judiciales, locales y federales, en que aquella sea parte, y en su caso previo acuerdo con el Secretario, otorgar el perdón o gestionar el desistimiento.
 
@@ -431,9 +479,9 @@ X. Integrar y validar las iniciativas de Leyes, Reglamentos, Decretos, Acuerdos,
 
 XI. Realizar los trámites para la publicación de los instrumentos que por su naturaleza así lo requieran.
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-XII. Formular y suscribir los informes que soliciten los Organismos Públicos de Derechos Humanos, respecto al trámite de quejas, así como atender los pronunciamientos de dichos Organismos.
+XII. Presentar querellas o denuncias ante el Ministerio Público competente, respecto de hechos en los que la Secretaría tenga carácter de ofendida o se encuentre legitimada para hacerlo.
 
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
@@ -543,7 +591,9 @@ VII. Las demás que en el ámbito de su competencia le confieran las disposicion
 
 La Subsecretaría de la Defensa del Trabajo, está integrada por los Órganos Administrativos siguientes:
 
-a) Dirección de Conciliación.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+a) Dirección del Trabajo y Previsión Social.
 
 b) Dirección Jurídica Laboral.
 
@@ -591,7 +641,9 @@ XVI. Autorizar, previo acuerdo con el Secretario, la prórroga del plazo para of
 
 XVII. Supervisar la determinación de las sanciones que correspondan a los centros de trabajo que, previo el procedimiento administrativo sancionador, no acreditaron el cumplimiento de las Condiciones Generales de Trabajo, conforme a lo dispuesto por la Ley.
 
-XVIII. Coadyuvar con la Junta Local de Conciliación y Arbitraje, Juntas Especiales de la Local de Conciliación y Arbitraje y las Juntas de Conciliación, en la planeación y elaboración estadística que se genere.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XVIII. Participar en coordinación con la Junta local de Conciliación y Arbitraje y Juntas Especiales de la local de Conciliación y Arbitraje en la planeación y elaboración estadística que se genere en las mismas.
 
 XIX. Vigilar se presenten las denuncias ante el Ministerio Público competente, cuando se adviertan violaciones a la Ley y demás leyes aplicables en la materia.
 
@@ -603,7 +655,13 @@ XXII. Autorizar las licencias con o sin goce de sueldo que soliciten los trabaja
 
 XXIII. Dictaminar pensiones, pago de marcha y funeral, que soliciten los trabajadores de base o confianza de la Administración Pública Estatal o sus beneficiarios.
 
-XXIV. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que le asigne el Secretario.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XXIV. Vigilar el funcionamiento de la Procuraduría en el Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XXV. Las demás atribuciones que en el ámbito de su competencia, les sean encomendadas por el Secretario; así como las que les confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ### Capítulo III. De la Integración de las Direcciones y de las Atribuciones de sus Titulares
 
@@ -683,17 +741,21 @@ VI. Planear, programar, dirigir y evaluar los proyectos de trabajo de la Secreta
 
 VII. Las demás que le confieran las Leyes, Reglamentos y demás normatividad que le resulte aplicable, así como las que le otorgue el Secretario.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### Artículo 32.
 
-La Dirección de Conciliación, está integrada por los Órganos Administrativos siguientes:
+La Dirección del Trabajo y Previsión Social, está integrada por los Órganos Administrativos siguientes:
 
-a) Departamento de Inspección.
+a) Departamento de Inspección del Trabajo.
 
-b) Departamento de Defensoría de Conflictos.
+b) Procuraduría de la Defensa del Trabajo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2013)</small>
 
 ###### Artículo 33.
 
-El Titular de la Dirección de Conciliación tiene las atribuciones siguientes:
+El Titular de la Dirección del Trabajo y Previsión Social, tiene las atribuciones siguientes:
 
 I. Elaborar y proponer al Subsecretario del Trabajo, la política estatal aplicable a los procedimientos de visitas e inspecciones contenidos en la Ley, en el ámbito de su competencia.
 
@@ -715,7 +777,13 @@ IX. Velar por la protección y vigilancia del trabajo de los grupos vulnerables,
 
 X. Vigilar se presenten las denuncias ante el Ministerio Público competente, cuando se adviertan violaciones a la Ley y demás disposiciones aplicables en la materia.
 
-XI. Las demás que le confieran las Leyes, Reglamentos y demás normatividad que le resulte aplicable, así como las que le otorgue el Secretario.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XI. Vigilar el funcionamiento de la Procuraduría en el Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Subsecretario de la Defensa del Trabajo, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 34.
 
@@ -739,7 +807,9 @@ IV. Asesorar a los trabajadores, sindicatos y patrones, respecto a sus derechos 
 
 V. Proporcionar información y asesorar a los trabajadores y a los patrones sobre el cumplimiento de las normas de trabajo.
 
-VI. Coadyuvar con la Junta Local de Conciliación y Arbitraje, Juntas Especiales de la Local de Conciliación y Arbitraje y las Juntas de Conciliación Permanente, en la planeación y elaboración estadística que se genere.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+VI. Participar en coordinación con la Junta local de Conciliación y Arbitraje y Juntas Especiales de la local de Conciliación y Arbitraje, en la planeación y elaboración estadística que se genere en las mismas.
 
 VII. Valorar y calificar los actos de inspección realizados por el área correspondiente, el emplazamiento y su resolución, de conformidad con el procedimiento respectivo.
 
@@ -769,11 +839,15 @@ II. Formular y revisar los anteproyectos de leyes, reglamentos, decretos, acuerd
 
 III. Proponer la actualización permanente de las condiciones generales de trabajo burocráticas y demás normas laborales.
 
-IV. Fungir como Presidente de la Comisión Mixta de Escalafón de los trabajadores de base al servicio del Poder Ejecutivo del Estado; así como, elaborar los proyectos de modificación a su Reglamento.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+IV. Fungir como Presidente de la Comisión Mixta de Escalafón de los trabajadores de base al Servicio del Poder Ejecutivo del Estado, debiendo informar al Secretario de las actividades previamente a la toma de decisiones; así como, elaborar los proyectos de modificación a su Reglamento.
 
 V. Emitir los reconocimientos de antigüedad laboral genérica que soliciten los trabajadores de base o confianza de la Administración Pública Centralizada.
 
-VI. Otorgar las licencias con o sin goce de sueldo que soliciten los trabajadores de base de la Administración Pública Centralizada.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+VI. Otorgar las licencias con o sin goce de sueldo que soliciten los trabajadores de base de la Administración Pública Centralizada, previa autorización del Secretario.
 
 VII. Formular las comisiones sindicales con o sin goce de sueldo, que solicitadas por los titulares de la administración pública estatal, sean previamente autorizadas por el Titular de la Secretaría.
 
@@ -811,33 +885,147 @@ V. Generar la actualización del directorio de organizaciones, sindicatos de tra
 
 VI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subsecretario de la Defensa del Trabajo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
-### Capítulo IV. De los Órganos Desconcentrados y de las Atribuciones de sus Titulares
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2013)</small>
+
+### Capítulo IV. De la Procuraduría, Delegaciones y Atribuciones de sus Titulares
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+###### Artículo 37 Ter.
+
+Para el despacho de los asuntos, competencia de la Secretaría, los Titulares de la Procuraduría y Delegaciones, tienen las atribuciones generales siguientes:
+
+I. Acordar con su superior inmediato, el despacho y resolución de los asuntos de su competencia e informar el avance de los mismos.
+
+II. Proponer a su superior inmediato, las normas, políticas y procedimientos en la materia que corresponda y vigilar el cumplimiento de las mismas.
+
+III. Proponer a su superior inmediato, iniciativas de leyes, decretos, acuerdos, reglamentos y demás disposiciones jurídicas y administrativas, en materia de su competencia.
+
+IV. Establecer sistemas de control técnicos-administrativos, en las acciones competencia de los Órganos Administrativos a su cargo.
+
+V. Planear e instrumentar los programas que le sean asignados, de acuerdo a las políticas establecidas, optimizando los recursos autorizados para lograr el buen funcionamiento del Órgano Administrativo a su cargo.
+
+VI. Vigilar que las acciones competencia del Órgano Administrativo a su cargo, se realicen de conformidad con las normas, políticas y procedimientos establecidos.
+
+VII. Convocar a reuniones de trabajo, al personal adscrito al Órgano Administrativo a su cargo.
+
+VIII. Establecer coordinación interna, para el cumplimiento de los programas y proyectos técnicos y administrativos ejecutados por la Secretaría.
+
+IX. Vigilar que se ejecuten con eficiencia las actividades técnicas, administrativas y financieras del Órgano Administrativo a su cargo.
+
+X. Proponer el Anteproyecto de Presupuesto Anual de Egresos y Programa Operativo Anual del Órgano Administrativo a su cargo.
+
+XI. Proponer a su superior inmediato, el ingreso, promoción, remoción, cambio de adscripción y comisiones del personal a su cargo.
+
+XII. Proponer el fortalecimiento estructural del Órgano Administrativo y de la plantilla de plazas a su cargo.
+
+XIII. Proponer y participar en la organización de cursos de capacitación y conferencias que se impartan al personal de la Secretaría.
+
+XIV. Proponer proyectos de elaboración o actualización de las Atribuciones para integrar el Reglamento Interior, así como las funciones, procedimientos y servicios para los Manuales Administrativos de la Secretaría.
+
+XV. Vigilar que las actividades sean ejecutadas con eficacia por el personal adscrito en el Órgano Administrativo a su cargo.
+
+XVI. Proponer o designar al personal que requiere para el despacho de los asuntos, competencia del Órgano Administrativo a su cargo.
+
+XVII. Atender, en el ámbito de su competencia, las solicitudes de información pública que realice la ciudadanía, de conformidad a la normatividad aplicable.
+
+XVIII. Proponer al Secretario, la celebración y suscripción de convenios y acuerdos de colaboración con Organismos Gubernamentales, no Gubernamentales y Sociales, Nacionales e Internacionales, para el fortalecimiento de los servicios que proporciona la Secretaría.
+
+XIX. Vigilar que las sanciones a que se hagan acreedores los servidores públicos adscritos a los Órganos Administrativos a su cargo, se apliquen conforme a la Legislación correspondiente.
+
+XX. Las demás atribuciones que en el ámbito de su competencia, les sean encomendadas por su superior inmediato, así como las que les confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+###### Artículo 37 Quáter.
+
+La Procuraduría se integrará con un Procurador General y con el número de Procuradores Auxiliares que se juzgue necesario, para la defensa de los intereses de los trabajadores.
+
+Los servicios que preste la Procuraduría serán gratuitos.
+
+El personal jurídico de la Procuraduría está impedido para actuar como apoderado, asesor o abogado patrono en asuntos particulares en materia de trabajo, en tanto sean servidores públicos adscritos a ésta.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+Artículo 37 Quinter.- El Procurador General de la Defensa del Trabajo, será designado por el Titular del Ejecutivo del Estado y en el ejercicio de sus atribuciones dependerá del Director del Trabajo y Previsión Social.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+Artículo 37 Sexter.- El Titular de la Procuraduría de la Defensa del Trabajo tiene las atribuciones siguientes:
+
+I. Representar legalmente a la Procuraduría ante todo tipo de autoridades federales, estatales y municipales, en asuntos del ámbito de su competencia.
+
+II. Proponer a su superior jerárquico todas las medidas conducentes a dar unidad, eficacia y rapidez a la acción de la Procuraduría y al mejor funcionamiento de los tribunales del trabajo.
+
+III. Resolver las consultas que sobre cuestiones concretas de trabajo formulen los trabajadores o sindicatos, en relación con los conflictos que se susciten con los patrones respectivos turnando a la autoridad que corresponda, aquellos que no sean de su competencia.
+
+IV. Emitir citatorios a los patrones y trabajadores o sindicatos a fin de buscar soluciones conciliatorias en los conflictos suscitados entre ellos.
+
+V. Definir y establecer la unificación los criterios que deba sostener la Procuraduría, en la atención y trámite de los conflictos de trabajo en que intervenga.
+
+VI. Aprobar los dictámenes emitidos por los Procuradores Auxiliares, en aquellos asuntos turnados para su estudio y determinar en última instancia, con base en los mismos, si la Procuraduría prestará o no asesoría a los interesados, de conformidad con lo establecido en el presente Reglamento.
+
+VII. Coordinar a los Procuradores Auxiliares en las labores de conciliación, contenciosa y los asuntos que deben atender.
+
+VIII. Aprobar las excusas y recusaciones que se presenten en relación a los Procuradores Auxiliares.
+
+IX. Vigilar que el personal de la Procuraduría cumpla con el presente Reglamento y demás legislación aplicable.
+
+X. Informar al Titular de la Dirección del Trabajo y Previsión Social, las faltas en que incurra en el desempeño de sus labores el personal de la Procuraduría.
+
+XI. Proporcionar los documentos, opiniones e informes de su competencia que les sean solicitados por el Secretario o por los Órganos Administrativos competentes de la Secretaría.
+
+XII. Denunciar ante el Ministerio Público competente, aquellos casos que tomando en cuenta su naturaleza laboral, puedan constituir un delito.
+
+XIII. Vigilar la actualización del acervo de investigación documental y de consulta de la Procuraduría.
+
+XIV. Proponer la creación de las unidades técnicas y administrativas que se requieran para el buen funcionamiento de la Procuraduría.
+
+XV. Solicitar, a las autoridades los datos e informes necesarios para el mejor desempeño de su función, de conformidad con el artículo 535, de la Ley Federal del Trabajo.
+
+XVI. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Director del Trabajo y Previsión Social, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
 ###### Artículo 38.
 
-Los Órganos Desconcentrados con que cuente la Secretaría, con excepción de los señalados en los artículos siguientes, se regirán por las disposiciones contenidas en su Decreto de Creación, Reglamento Interior y demás disposiciones legales que al efecto se establezcan.
+Los Titulares de las Delegaciones, tienen las atribuciones siguientes:
 
-### Capítulo Único. De las Ausencias y el Orden de Suplencia
+I. Representar al titular de la Secretaría y a sus unidades administrativas en los actos y eventos relacionados a la materia laboral a que sean convocados.
+
+II. Implementar los Programas de Apoyo al Empleo.
+
+III. Coordinar reuniones del sistema Estatal de Empleo (SIEE), Comité de Capacitación y Empleo Regional (COCER), Un Día por el Empleo, Informes Micro y Ferias de Empleo.
+
+IV. Formular informes mensuales relacionados con los Programas de Apoyo al Empleo y Vinculación.
+
+V. Implementar todas las acciones relacionadas con la vinculación como son bolsa de trabajo, talleres para buscadores de empleo.
+
+VI. Participar en el desarrollo y ejecución de programas y proyectos, de conformidad con los lineamientos que determine el Secretario, en el ámbito de su competencia y circunscripción territorial.
+
+VII. Proporcionar asesoría y orientación a los trabajadores, sindicatos y patrones respecto a sus derechos, obligaciones laborales y sobre el cumplimiento de la normatividad en materia laboral.
+
+VIII. Las demás atribuciones que en el ámbito de su competencia, les sean encomendadas por el Secretario; así como las que les confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+### Capítulo V. Del Órgano Desconcentrado de la Secretaría
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
 ###### Artículo 39.
 
-Para el despacho de los asuntos de su competencia, la Secretaría contará con los Órganos Desconcentrados denominados Delegaciones, estarán jerárquicamente subordinados, con facultades específicas para resolver las materias que se le señalan y en el ámbito territorial que determine, de acuerdo a las disposiciones relativas.
+La Secretaría contará con el Órgano Administrativo Desconcentrado, jerárquicamente subordinado a ésta, denominada Junta local de Conciliación y Arbitraje, el cual tendrá las atribuciones que se establezcan en su Decreto de Creación, Reglamento Interior y demás disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
 ###### Artículo 40.
 
-Los Titulares de las Delegaciones, tienen las atribuciones siguientes:
-
-I. Ejecutar los Programas de Apoyo al Empleo (Sistema de Capacitación para el Trabajo, Proyectos de Inversión Productiva, Sistema de Apoyo Económico a Buscadores de Empleo).
-
-II. Coordinar las reuniones del Sistema Estatal de Empleo (SIEE), Comité de Capacitación y Empleo Regional (COCER), Un Día por el Empleo, Informes Micro y Ferias de Empleo.
-
-III. Formular informes mensuales relacionados con los Programas de Apoyo al Empleo y Vinculación.
-
-IV. Ejecutar todas las acciones relacionadas con la vinculación como son bolsa de trabajo, talleres para buscadores de empleo.
-
-V. Las demás que, en el ámbito de su competencia le sean encomendadas por el Secretario o Subsecretarios.
+La Junta local de Conciliación y Arbitraje, dependerá de la Secretaría, para su control y apoyo administrativo, sin menoscabo de la autonomía jurisdiccional de que goza en la emisión de sus respectivas resoluciones.
 
 ## Título Cuarto. De las Suplencias de los Servidores Públicos
+
+### Capítulo Único. De las Ausencias y el Orden de Suplencia
 
 ###### Artículo 41.
 
@@ -851,9 +1039,11 @@ Los Subsecretarios, Jefes de Unidad, Titular del Fondo y Delegados, serán supli
 
 Los Directores serán suplidos en sus ausencias, por el servidor público que designe el Titular de la Subsecretaría de su adscripción, previo acuerdo y aprobación del Secretario.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### Artículo 44.
 
-Los Titulares de los Departamentos y Áreas, serán suplidos en sus ausencias, por los servidores públicos que designen los Directores y Jefes de Unidad, previo acuerdo y aprobación del Subsecretario de su adscripción y aprobación de (sic) Secretario.
+Los Titulares de los Departamentos, Procuraduría y Áreas, serán suplidos en sus ausencias por los servidores públicos que designen los Directores o Jefes de Unidad, previo acuerdo del Subsecretario o Jefe de Unidad de su adscripción y aprobación del Secretario.
 
 T r a n s i t o r i o s
 
@@ -882,3 +1072,17 @@ Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente
 Artículo Tercero. La Secretaría deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
 
 Artículo Cuarto. Conforme a lo dispuesto por el artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 26 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Secretario, resolverá lo conducente.
+
+Artículo Cuarto.- El Manual de Organización de la Secretaría, deberá expedirse en un plazo no mayor a noventa días hábiles, después de la Publicación del presente Reglamento Interior.
+
+Artículo Quinto.- En tanto se expide el Manual de Organización respectivo, el Secretario resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto.- Conforme a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
