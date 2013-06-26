@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-del-estado-libre-y-soberano-de-morelos-63528"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-10-02"
-last_updated: "2012-12-19"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO ELECTORAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 2 de octubre de 2008.
 
@@ -1195,7 +1195,7 @@ III. Estar inscrito en el Registro Federal de Electores y contar con credencial 
 
 IV. Tener más de veinticinco años de edad, el día de la designación;
 
-V. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena privativa de la libertad;
+V. (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
 VI. No desempeñar o haberse desempeñado como alto funcionario de la federación, del estado o de los municipios, tanto de la administración central como del sector paraestatal, en los últimos siete años anteriores a su designación. Serán considerados por este ordenamiento como altos funcionarios los correspondientes al nivel de subsecretario, Oficial Mayor, Procurador, y superiores;
 
@@ -4618,3 +4618,13 @@ P.O. 19 DE DICIEMBRE DE 2012.
 Artículo Primero. Remítase al Titular del Poder Ejecutivo del Estado, para su promulgación y su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
 
 Artículo Segundo. El presente decreto iniciará su vigencia a partir del día primero de enero de 2013.
+
+P.O. 26 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
