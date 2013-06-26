@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-para-el-otorgamiento-de-prestamos-del-instituto-6236
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-30"
-last_updated: "2010-06-02"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO PARA EL OTORGAMIENTO DE PRESTAMOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de julio de 2008.
 
@@ -293,9 +293,11 @@ Por concepto de construcción de vivienda y/o mejoras, el Instituto programará 
 
 No podrá ser concedido un nuevo Préstamo Hipotecario, mientras permanezca insoluto el anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 26 DE JUNIO DE 2013)</small>
+
 ###### Artículo 28.
 
-El jubilado que no rebase los 55 años de edad podrá ser sujeto de los beneficios de este capítulo, siempre que cuente con la autorización del Comité de Prestaciones Económicas facultado por la Junta Directiva, bajo las siguientes condicionantes:
+El jubilado que no rebase los 60 años de edad podrá ser sujeto de los beneficios de este capítulo, siempre que cuente con la autorización del Comité de Prestaciones Económicas facultado por la H. Junta Directiva, bajo las siguientes condicionantes:
 
 I. La prima quincenal aplicada a un préstamo otorgado a un jubilado para constituir el Fondo de Garantía, será la que mediante acuerdo determine la Junta Directiva.
 
@@ -620,3 +622,9 @@ P.O. 2 DE JUNIO DE 2010.
 Artículo Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente reglamento.
+
+P. O. 26 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
