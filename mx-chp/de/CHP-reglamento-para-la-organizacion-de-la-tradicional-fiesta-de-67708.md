@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-para-la-organizacion-de-la-tradicional-fiesta-de-677
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-04"
-last_updated: "2009-02-04"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO PARA LA ORGANIZACION DE LA TRADICIONAL FIESTA DE ENERO DE LA HEROICA CIUDAD DE CHIAPA DE CORZO, CHIAPAS
 
-REGLAMENTO PARA LA ORGANIZACION DE LA TRADICIONAL FIESTA DE ENERO DE LA HEROICA CIUDAD DE CHIAPA DE CORZO, CHIAPAS
+REGLAMENTO PARA LA ORGANIZACIÓN DE LA TRADICIONAL FIESTA DE ENERO DE LA HEROICA CIUDAD DE CHIAPA DE CORZO, CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA ORGANIZACIÓN DE LA TRADICIONAL FIESTA DE ENERO DE LA HEROICA CIUDAD DE CHIAPA DE CORZO, CHIAPAS, PUBLICADO EN EL P.O. DE 26 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 4 de febrero de 2009.
 
@@ -658,3 +660,15 @@ El Presidente Municipal dispondrá se publique, circule y se le dé debido cumpl
 Presidente Municipal Constitucional, Mariano Abelardo Aguilar Díaz.- Miguel Ángel Cameras Ocaña, Síndico Municipal.- Luis Femando Gómez Montejo, Primer Regidor.- Maricela Castro López, Segundo Regidor.- Anselmo Gómez González, Tercer Regidor.- Wirber Arturo Núñez Camas, Cuarto Regidor.- Alejandro Villatoro López, Quinto Regidor.- Fernando Gregorio Escobar Hernández.- Sexto Regidor.- César Augusto Santiago Sánchez, Regidor Plurinominal.- Judith Esmeralda Barrientos Solís, Regidor Plurinominal.- Nicolás Sánchez Lucas, Regidor Plurinominal.- Marcela Bonilla Grajales, Regidor Plurinominal.- María Oliva Montero Fuentes, Secretaria del Ayuntamiento.- Rúbricas.
 
 De conformidad con el artículo 150, de la Ley Orgánica Municipal del Estado de Chiapas y para su observancia, Promulgo: El Presente Reglamento para la Organización de la Tradicional Fiesta de Enero de la Heroica Ciudad de Chiapa de Corzo, Chiapas; en la Residencia del H. Ayuntamiento Constitucional de Chiapa de Corzo, Chiapas; a los 16 días del mes de octubre de dos mil ocho.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Reglamento entrará en vigor el día siguiente de su publicación en los estrados de la Presidencia Municipal y en cinco lugares de mayor afluencia vecinal de la cabecera y agencias municipales.
+
+Artículo Segundo.- Se Deroga el Reglamento para la Organización de la Tradicional Fiesta de Enero de la Heroica Ciudad de Chiapa de Corzo, Chiapas, aprobado en sesión de cabildo de fecha 15 de octubre de 2008.
+
+Artículo Tercero.- En términos del artículo 137 de la Ley Orgánica Municipal vigente en el Estado, remítase copia certificada del presente Reglamento, a la Dirección del Periódico Oficial del Estado, para su difusión y conocimiento. El Presidente Municipal dispondrá se publique, circule y se le dé debido cumplimiento.
+
+Artículo Cuarto.- Queda a discrecionalidad del presidente el nombramiento de los funcionarios y servidores públicos que integrarán el Comité Dictaminador de la Tradicional Fiesta de Enero.
