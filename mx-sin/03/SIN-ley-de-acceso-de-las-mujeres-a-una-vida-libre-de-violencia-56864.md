@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2012-04-25"
+last_updated: "2013-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -143,9 +143,13 @@ XVII. Empoderamiento de las Mujeres: Es el proceso por medio del cual las mujere
 
 XVIII. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
 
-XIX. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad; y,
+XIX. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad; y (sic),
 
 XX. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XXI. Noviazgo: Es el periodo durante el cual dos personas que se sienten atraidas mutuamente y no están en matrimonio o concubinato, mantienen una relación sentimental con el objetivo de avanzar en el conocimiento mutuo.
 
 ###### Artículo 11.
 
@@ -263,6 +267,20 @@ El Estado y los Municipios, cuando se presenten casos de violencia feminicida, d
 
 El Gobierno del Estado y los Ayuntamientos coadyuvarán con el Gobierno Federal en la implementación de las medidas y acciones que se determinen en la declaratoria de alerta de violencia de género y participarán en los grupos interinstitucionales y multidisciplinarios que se formen para dar seguimiento a las acciones y medidas señaladas, de conformidad con el Sistema y el Programa Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2013)</small>
+
+### CAPÍTULO VI. DE LA VIOLENCIA EN EL NOVIAZGO
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+###### Artículo 24 Bis.
+
+La violencia en el noviazgo son todos los actos realizados por una de las partes en contra de la otra, dentro de una relación sentimental, mediante los cuales, se presenten ataques intencionales de tipo sexual, físico o psicológico de manera forzada en la relación, con el objeto de controlar, someter y obligar a la persona a realizar diversos actos en contra de su voluntad.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+Artículo 24 Bis A. El Gobierno del Estado y los Ayuntamientos prevendrán este tipo de violencia de manera transversal con la implementación de políticas públicas para prevenir, identificar, atender y resolver esta modalidad de violencia, realizando acciones y programas de prevención en adolescentes y jóvenes, a través de mecanismos de información y campañas para erradicar los roles discriminatorios, estereotipos sexistas, las prácticas de resolución violenta de conflictos, la misoginia y la legitimación social al uso de la violencia.
+
 ### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
 
 ### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
@@ -271,11 +289,9 @@ El Gobierno del Estado y los Ayuntamientos coadyuvarán con el Gobierno Federal 
 
 ### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
 
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
-
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRAS (SIC) LAS MUJERES
 
-### CAPÍTULO II. DE LOS REFUGIOS
+### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
 
 ###### Artículo 25.
 
@@ -318,6 +334,8 @@ XI. Los organismos y dependencias instituidos en el ámbito municipal para la pr
 ###### Artículo 27.
 
 La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
+
+### CAPÍTULO II. DE LOS REFUGIOS
 
 ###### Artículo 28.
 
@@ -832,3 +850,7 @@ P.O. 25 DE ABRIL DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
