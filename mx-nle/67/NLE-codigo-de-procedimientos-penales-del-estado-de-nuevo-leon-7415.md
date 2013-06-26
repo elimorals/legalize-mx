@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2012-12-28"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE FECHA 5 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO DEJARÁ DE SER APLICABLE EN FORMA GRADUAL Y SUCESIVA, EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO, QUEDANDO ABROGADO A PARTIR DEL 1 DE ENERO DE 2016, CON LAS EXCEPCIONES ESTABLECIDAS EN LOS ARTÍCULOS DEL TERCERO AL SEXTO TRANSITORIOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE FECHA 5 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO DEJA DE SER APLICABLE EN FORMA GRADUAL Y SUCESIVA, EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO, Y QUEDA ABROGADO A PARTIR DEL 1 DE ENERO DE 2016, CON LAS EXCEPCIONES ESTABLECIDAS EN LOS ARTÍCULOS DEL TERCERO AL SEXTO TRANSITORIOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -639,9 +639,7 @@ Si la entrega del bien pudiera lesionar derechos de tercero o del inculpado, pod
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
 
-###### ARTICULO 48 Bis.
-
-Cuando existan indicios suficientes que hagan presumir fundadamente que una persona ha participado en los delitos tipificados por los artículo (sic) 165 bis, 176 o en alguno que tenga relación con el 176 del Código Penal para el Estado de Nuevo León, el Ministerio Público podrá disponer, previa autorización judicial, el aseguramiento de los bienes que son propiedad de dicha persona, así como de aquellos respecto de los cuales ésta se conduzca como dueño, quedando a cargo de sus poseedores acreditar la procedencia legítima de dichos bienes, en cuyo caso deberá ordenarse levantar el aseguramiento.
+ARTICULO 48 BIS.- Cuando existan indicios suficientes que hagan presumir fundadamente que una persona ha participado en los delitos tipificados por los artículo (sic) 165 bis, 176 o en alguno que tenga relación con el 176 del Código Penal para el Estado de Nuevo León, el Ministerio Público podrá disponer, previa autorización judicial, el aseguramiento de los bienes que son propiedad de dicha persona, así como de aquellos respecto de los cuales ésta se conduzca como dueño, quedando a cargo de sus poseedores acreditar la procedencia legítima de dichos bienes, en cuyo caso deberá ordenarse levantar el aseguramiento.
 
 El aseguramiento de bienes podrá realizarse en cualquier fase del proceso.
 
@@ -711,9 +709,7 @@ Durante la etapa de preparación del ejercicio de la acción penal, el Ministeri
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
-###### ARTICULO 54 Bis.
-
-La conciliación y la mediación se admiten hasta antes de que cause ejecutoria la sentencia e intervendrán únicamente, el conciliador o mediador, el inculpado, la víctima u ofendido. Queda prohibida la intervención de cualquier persona distinta a éstas. El resultado se pondrá en conocimiento de la autoridad ministerial y judicial en su caso para los efectos legales correspondientes.
+ARTICULO 54 BIS.- La conciliación y la mediación se admiten hasta antes de que cause ejecutoria la sentencia e intervendrán únicamente, el conciliador o mediador, el inculpado, la víctima u ofendido. Queda prohibida la intervención de cualquier persona distinta a éstas. El resultado se pondrá en conocimiento de la autoridad ministerial y judicial en su caso para los efectos legales correspondientes.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
@@ -1167,25 +1163,19 @@ A los defensores públicos, cuando no se les pueda hacer la notificación person
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-###### ARTICULO 124 Bis.
-
-Las órdenes de protección de emergencia y preventivas a que se refiere el presente Capítulo, serán las previstas en el Capítulo V del Título Quinto del Libro Primero del Código Penal para el Estado de Nuevo León, y están orientadas a proteger a los sujetos pasivos de hechos presuntamente constitutivos del delito de Violencia Familiar, equiparable a la Violencia Familiar o de Hostigamiento Sexual, ya sea para que presenten la denuncia o querella correspondiente, el Ministerio Público ejercite la acción penal al respecto o se logre la consecución legal del juicio respectivo.
+ARTICULO 124 BIS.- Las órdenes de protección de emergencia y preventivas a que se refiere el presente Capítulo, serán las previstas en el Capítulo V del Título Quinto del Libro Primero del Código Penal para el Estado de Nuevo León, y están orientadas a proteger a los sujetos pasivos de hechos presuntamente constitutivos del delito de Violencia Familiar, equiparable a la Violencia Familiar o de Hostigamiento Sexual, ya sea para que presenten la denuncia o querella correspondiente, el Ministerio Público ejercite la acción penal al respecto o se logre la consecución legal del juicio respectivo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-###### ARTICULO 124 Bis 1.
-
-Serán principios rectores de las medidas descritas en el Artículo anterior, el carácter urgente y cautelar para su petición y otorgamiento.
+ARTICULO 124 BIS 1.- Serán principios rectores de las medidas descritas en el Artículo anterior, el carácter urgente y cautelar para su petición y otorgamiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-###### ARTICULO 124 Bis 2.
-
-Las órdenes de protección podrán decretarse tanto antes como después de iniciado el procedimiento, bajo protesta de decir verdad, de manera verbal o escrita, conforme a las siguientes reglas:
+ARTICULO 124 BIS 2.- Las órdenes de protección podrán decretarse tanto antes como después de iniciado el procedimiento, bajo protesta de decir verdad, de manera verbal o escrita, conforme a las siguientes reglas:
 
 I.- Nombre y domicilio del solicitante, y en su caso el carácter con el cual comparece;
 
@@ -1197,9 +1187,7 @@ III.- Exposición de los hechos que motivan la solicitud, el parentesco o relaci
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-###### ARTICULO 124 Bis 3.
-
-Una vez hecha la solicitud, el Juez resolverá de plano atendiendo a lo expresado en la misma, no pudiendo retardar su decisión, bajo pena de responsabilidad; debiendo de resolver conforme a lo previsto en el Artículo 98 Bis 4 del Código Penal para el Estado de Nuevo León, la concesión de las órdenes que estime prudentes y necesarias, su alcance, así como el tiempo de su duración, sin que en ningún caso se pueda exceder el máximo establecido al efecto en el Artículo en cita del Código Penal para el Estado de Nuevo León; en el entendido que para fijar la duración de éstas órdenes, deberá tenerse en cuenta la necesidad y el tiempo requerido por el solicitante para presentar la denuncia o querella correspondiente, o en tratándose del Ministerio Público ejercitar la acción penal, o bien, la duración del juicio; todo ello siempre tendiente a asegurar el bienestar de las víctimas u ofendidos o de aquellos por quienes se pide.
+ARTICULO 124 BIS 3.- Una vez hecha la solicitud, el Juez resolverá de plano atendiendo a lo expresado en la misma, no pudiendo retardar su decisión, bajo pena de responsabilidad; debiendo de resolver conforme a lo previsto en el Artículo 98 Bis 4 del Código Penal para el Estado de Nuevo León, la concesión de las órdenes que estime prudentes y necesarias, su alcance, así como el tiempo de su duración, sin que en ningún caso se pueda exceder el máximo establecido al efecto en el Artículo en cita del Código Penal para el Estado de Nuevo León; en el entendido que para fijar la duración de éstas órdenes, deberá tenerse en cuenta la necesidad y el tiempo requerido por el solicitante para presentar la denuncia o querella correspondiente, o en tratándose del Ministerio Público ejercitar la acción penal, o bien, la duración del juicio; todo ello siempre tendiente a asegurar el bienestar de las víctimas u ofendidos o de aquellos por quienes se pide.
 
 Si la solicitud fuere oscura o irregular, el Juez, en el mismo acto y de manera inmediata, deberá prevenir al solicitante, para que la aclare, corrija o la complete.
 
@@ -1209,49 +1197,37 @@ En caso de que la duración de la medida preventiva o de emergencia, no llegue a
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-###### ARTICULO 124 Bis 4.
-
-Sólo los Jueces de lo Penal, de Preparación Penal, Mixtos y de Juicio Oral Penal, en su caso, pueden decretar las medidas a que se refieren los Artículos anteriores, salvo que, por circunstancias especiales, no pueda ocurrirse al Juez competente, por lo cual el Juez del lugar donde el solicitante se encuentre, podrá decretarla, remitiendo las diligencias al competente. Por ningún motivo, podrá declinarse la competencia para conocer de las mismas, debiendo en todo caso el Juez, resolver lo conducente a la solicitud, y si no fuere competente para conocer del proceso, una vez decretadas y ejecutadas las órdenes respectivas remitirá lo actuado al Juez competente.
+ARTICULO 124 BIS 4.- Sólo los Jueces de lo Penal, de Preparación Penal, Mixtos y de Juicio Oral Penal, en su caso, pueden decretar las medidas a que se refieren los Artículos anteriores, salvo que, por circunstancias especiales, no pueda ocurrirse al Juez competente, por lo cual el Juez del lugar donde el solicitante se encuentre, podrá decretarla, remitiendo las diligencias al competente. Por ningún motivo, podrá declinarse la competencia para conocer de las mismas, debiendo en todo caso el Juez, resolver lo conducente a la solicitud, y si no fuere competente para conocer del proceso, una vez decretadas y ejecutadas las órdenes respectivas remitirá lo actuado al Juez competente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-###### ARTICULO 124 Bis 5.
-
-Una vez ejecutada la orden de protección, aquel que la obtuvo, deberá formular su denuncia o querella por los hechos presuntamente constitutivos del delito de Violencia Familiar, Equiparable a la Violencia Familiar o de Hostigamiento Sexual, o el Ministerio Público ejercitar la acción penal al respecto o bien, continuar con la consecuencia del procedimiento hasta su culminación mediante sentencia ejecutoriada; esto dentro del término otorgado para ello o de sus prorrogas, el cual no excederá el máximo previsto en el Código Penal, según corresponda. De no cumplirse con esta disposición, la orden de protección decretada quedará sin efectos, no pudiendo solicitarla nuevamente por los mismos hechos.
+ARTICULO 124 BIS 5.- Una vez ejecutada la orden de protección, aquel que la obtuvo, deberá formular su denuncia o querella por los hechos presuntamente constitutivos del delito de Violencia Familiar, Equiparable a la Violencia Familiar o de Hostigamiento Sexual, o el Ministerio Público ejercitar la acción penal al respecto o bien, continuar con la consecuencia del procedimiento hasta su culminación mediante sentencia ejecutoriada; esto dentro del término otorgado para ello o de sus prorrogas, el cual no excederá el máximo previsto en el Código Penal, según corresponda. De no cumplirse con esta disposición, la orden de protección decretada quedará sin efectos, no pudiendo solicitarla nuevamente por los mismos hechos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-###### ARTICULO 124 Bis 6.
-
-Decretadas las órdenes de protección o de emergencia respectivas, el Juez deberá velar por su debido cumplimiento contando para ello con todos los elementos necesarios, incluso solicitar el auxilio de la fuerza pública y en su caso ordenar el cateo; mandando notificar su determinación respecto de la concesión de dichas medidas al que se señala como presunto agresor, quien por el sólo hecho de estar notificado se le tendrá por apercibido que en caso de que llegare a violentarlas, se dará vista al Ministerio Público para los efectos de lo dispuesto en el Artículo 180 del Código Penal para el Estado de Nuevo León, sin que para ello sea necesario agotar los medios de apremio previstos en el presente Código.
+ARTICULO 124 BIS 6.- Decretadas las órdenes de protección o de emergencia respectivas, el Juez deberá velar por su debido cumplimiento contando para ello con todos los elementos necesarios, incluso solicitar el auxilio de la fuerza pública y en su caso ordenar el cateo; mandando notificar su determinación respecto de la concesión de dichas medidas al que se señala como presunto agresor, quien por el sólo hecho de estar notificado se le tendrá por apercibido que en caso de que llegare a violentarlas, se dará vista al Ministerio Público para los efectos de lo dispuesto en el Artículo 180 del Código Penal para el Estado de Nuevo León, sin que para ello sea necesario agotar los medios de apremio previstos en el presente Código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-###### ARTICULO 124 Bis 7.
-
-Para la aplicación y ejecución de las órdenes de protección a que se refiere el Capítulo V del Título Quinto del Libro Primero del Código Penal para el Estado de Nuevo León, se contará con el auxilio policiaco de manera inmediata, una vez hecha la solicitud. En caso de que la autoridad requerida retrase o niegue prestar el auxilio sin causa justificada, se dará vista al Ministerio Público para los efectos de lo previsto en el Artículo 209 del Código Penal para el Estado de Nuevo León.
+ARTICULO 124 BIS 7.- Para la aplicación y ejecución de las órdenes de protección a que se refiere el Capítulo V del Título Quinto del Libro Primero del Código Penal para el Estado de Nuevo León, se contará con el auxilio policiaco de manera inmediata, una vez hecha la solicitud. En caso de que la autoridad requerida retrase o niegue prestar el auxilio sin causa justificada, se dará vista al Ministerio Público para los efectos de lo previsto en el Artículo 209 del Código Penal para el Estado de Nuevo León.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-###### ARTICULO 124 Bis 8.
-
-Para conocer y decidir en torno a las órdenes de protección solicitadas previo a un proceso, no habrá lugar a dilucidar cuestiones de competencia, en todo caso, si el Juez que conoció de las mismas, se estima incompetente, una vez ejecutadas las órdenes remitirá las actuaciones al que estime competente.
+ARTICULO 124 BIS 8.- Para conocer y decidir en torno a las órdenes de protección solicitadas previo a un proceso, no habrá lugar a dilucidar cuestiones de competencia, en todo caso, si el Juez que conoció de las mismas, se estima incompetente, una vez ejecutadas las órdenes remitirá las actuaciones al que estime competente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2012)</small>
 
-###### ARTICULO 124 Bis 9.
-
-Contra las determinaciones dictadas con motivos de las solicitudes a que hace mención este Capítulo, no procederá recurso alguno.
+ARTICULO 124 BIS 9.- Contra las determinaciones dictadas con motivos de las solicitudes a que hace mención este Capítulo, no procederá recurso alguno.
 
 ## TITULO TERCERO. PREPARACION DE LA ACCION PENAL
 
@@ -1301,9 +1277,7 @@ Cuando el denunciante o querellante haga publicar la denuncia o la querella, est
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
 
-###### ARTICULO 128 Bis.
-
-En caso de que se reciba información anónima sobre hechos relacionados con la comisión de los delitos tipificados por los artículos 165 bis ó 176 del Código Penal para el Estado de Nuevo León, el Ministerio Público deberá ordenar que se verifique (sic) estos hechos.
+ARTICULO 128 BIS.- En caso de que se reciba información anónima sobre hechos relacionados con la comisión de los delitos tipificados por los artículos 165 bis ó 176 del Código Penal para el Estado de Nuevo León, el Ministerio Público deberá ordenar que se verifique (sic) estos hechos.
 
 Al verificarse la información y que de ello se deriven indicios suficientes de la comisión de estos delitos, se deberá iniciar una averiguación previa, recabar pruebas o interrogar a testigos a partir de esta comprobación, pero en ningún caso dicha información, por sí sola, tendrá valor probatorio alguno dentro del proceso.
 
@@ -1323,9 +1297,7 @@ Cuando la querella verse sobre responsabilidad de los administradores, en el cas
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
-###### ARTICULO 130 Bis.
-
-En los delitos de querella, con la presentación se indicarán los testigos que deban ser examinados u otra prueba de los hechos, cuando fuere posible.
+ARTICULO 130 BIS.- En los delitos de querella, con la presentación se indicarán los testigos que deban ser examinados u otra prueba de los hechos, cuando fuere posible.
 
 ###### ARTICULO 131.
 
@@ -1337,9 +1309,7 @@ En los casos del artículo anterior, se requerirá a quien haya presentado el do
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
-###### ARTICULO 132 Bis.
-
-La acción de la querella se considerará abandonada cuando el querellante no ocurra ante el Ministerio Público a ratificarla sin causa justificada, dentro del término de quince días, contados a partir del día de su presentación.
+ARTICULO 132 BIS.- La acción de la querella se considerará abandonada cuando el querellante no ocurra ante el Ministerio Público a ratificarla sin causa justificada, dentro del término de quince días, contados a partir del día de su presentación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -1489,9 +1459,7 @@ Toda mujer que sea detenida en prisión preventiva, lo será en lugar distinto y
 
 Cuando por la naturaleza del delito, de la pena aplicable al imputado o de las circunstancias personales del mismo, no deba ser internado en prisión preventiva y existan elementos para suponer que podría sustraerse a la acción de la justicia, el Ministerio Público podrá solicitar al Juez, fundada y motivadamente, o éste disponer de oficio durante el proceso, el arraigo del indiciado con las características y por el tiempo que el juzgador señale, sin que en ningún caso pueda exceder del máximo señalado en el Artículo 139 tratándose de la averiguación previa, o bien en el proceso por el término constitucional en que éste deba resolverse, a excepción de aquellos delitos para los cuales la ley señale pena alternativa.
 
-###### ARTICULO 141 Bis.
-
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
+ARTICULO 141 BIS.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 142.
 
@@ -1807,17 +1775,13 @@ Podrán ser objeto de intervención las comunicaciones privadas que se realicen 
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
 
-###### ARTICULO 182 Bis.
-
-Durante la intervención de comunicaciones privadas, el Ministerio Público ordenará la transcripción de aquellas grabaciones que resulten de interés para la averiguación previa y las cotejará en presencia del personal del cuerpo técnico de la Procuraduría, en cuyo caso serán ratificadas por quien las realizó. La transcripción contendrá los datos necesarios para identificar el medio de donde fue tomada. Los datos o informes impresos que resulten de la intervención serán igualmente integrados a la averiguación.
+ARTICULO 182 BIS.- Durante la intervención de comunicaciones privadas, el Ministerio Público ordenará la transcripción de aquellas grabaciones que resulten de interés para la averiguación previa y las cotejará en presencia del personal del cuerpo técnico de la Procuraduría, en cuyo caso serán ratificadas por quien las realizó. La transcripción contendrá los datos necesarios para identificar el medio de donde fue tomada. Los datos o informes impresos que resulten de la intervención serán igualmente integrados a la averiguación.
 
 Las imágenes de video que se estime convenientes podrán, en su caso, ser convertidas a imágenes fijas y ser impresas para su integración a la indagatoria. En este caso, se indicará el medio de donde proviene la imagen y el nombre y cargo de la persona que realizó la conversión.
 
 (ADICIONADO, P.O. 13 DE MARZO DE 2007) (F. DE E., P.O. 18 DE ABRIL DE 2007)
 
-###### ARTICULO 182 Bis 1.
-
-El Ministerio Público deberá levantar acta circunstanciada de la intervención de comunicaciones privadas que realice, la cual contendrá:
+ARTICULO 182 BIS 1.- El Ministerio Público deberá levantar acta circunstanciada de la intervención de comunicaciones privadas que realice, la cual contendrá:
 
 I. Día y hora de inicio y conclusión de la intervención de comunicaciones privadas;
 
@@ -1831,9 +1795,7 @@ Los documentos, objetos y medios de grabación de audio o video, así como el du
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
 
-###### ARTICULO 182 Bis 2.
-
-Al iniciarse el proceso, los documentos, objetos y medios de grabación, así como todos los duplicados existentes, así como cualquier otro resultado de la intervención, serán entregados al juez de la causa.
+ARTICULO 182 BIS 2.- Al iniciarse el proceso, los documentos, objetos y medios de grabación, así como todos los duplicados existentes, así como cualquier otro resultado de la intervención, serán entregados al juez de la causa.
 
 Durante el proceso, el juez de la causa, pondrá los documentos, objetos y medios de grabación a disposición del inculpado, quien podrá verlos o escucharlos durante un período de diez días, bajo la supervisión de la autoridad judicial, quien velará por la integridad de estos elementos probatorios. Al término de este período, el inculpado o su defensor formularán sus observaciones, si las tuvieran, y podrán solicitar al juez de la causa la destrucción de aquellos documentos, objetos y medios de grabación no relevantes para el proceso. Así mismo, podrá solicitar la transcripción de aquellas grabaciones o la fijación en impreso de imágenes, que considere relevantes para su defensa.
 
@@ -1843,37 +1805,33 @@ El auto que resuelva la destrucción de los documentos objetos y medios de graba
 
 (ADICIONADO, P.O. 13 DE MARZO DE 2007) (F. DE E., P.O. 18 DE ABRIL DE 2007)
 
-###### ARTICULO 182 Bis 3.
-
-En caso del no ejercicio de la acción penal, y una vez transcurrido el plazo legal para impugnarlo sin que ello suceda, los medios de grabación, en original y duplicado, se pondrán a disposición del Juez de Distrito que autorizó la intervención, quien dispondrá lo conducente, y en caso de ordenar su destrucción ésta se realizará en presencia del Titular de la Procuraduría. Igual procedimiento se aplicará cuando, por reserva de la averiguación previa u otra circunstancia, dicha averiguación no hubiese sido consignada y haya transcurrido el plazo para la prescripción de la acción penal.
+ARTICULO 182 BIS 3.- En caso del no ejercicio de la acción penal, y una vez transcurrido el plazo legal para impugnarlo sin que ello suceda, los medios de grabación, en original y duplicado, se pondrán a disposición del Juez de Distrito que autorizó la intervención, quien dispondrá lo conducente, y en caso de ordenar su destrucción ésta se realizará en presencia del Titular de la Procuraduría. Igual procedimiento se aplicará cuando, por reserva de la averiguación previa u otra circunstancia, dicha averiguación no hubiese sido consignada y haya transcurrido el plazo para la prescripción de la acción penal.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
 
-###### ARTICULO 182 Bis 4.
-
-En los casos en que el Ministerio Público haya ordenado la detención de alguna persona; conforme a lo previsto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, el Titular de la Procuraduría General de Justicia podrá solicitar al juez de Distrito competente la autorización para realizar la intervención de comunicaciones privadas.
+ARTICULO 182 BIS 4.- En los casos en que el Ministerio Público haya ordenado la detención de alguna persona; conforme a lo previsto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, el Titular de la Procuraduría General de Justicia podrá solicitar al juez de Distrito competente la autorización para realizar la intervención de comunicaciones privadas.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
 
-###### ARTICULO 182 Bis 5.
-
-Toda persona física o moral en cuyo poder se hallen objetos o documentos que pudieran servir de prueba, tiene la obligación de entregarlos al Ministerio Público. De igual forma se tiene la obligación de entregarlos, cuando para ello sea requerido por el Ministerio Público durante la averiguación previa, o por el juzgador durante el proceso, con las salvedades que establezcan las leyes.
+ARTICULO 182 BIS 5. Toda persona física o moral en cuyo poder se hallen objetos o documentos que pudieran servir de prueba, tiene la obligación de entregarlos al Ministerio Público. De igual forma se tiene la obligación de entregarlos, cuando para ello sea requerido por el Ministerio Público durante la averiguación previa, o por el juzgador durante el proceso, con las salvedades que establezcan las leyes.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
 
-###### ARTICULO 182 Bis 6.
+ARTICULO 182 BIS 6.- La autoridad podrá ofrecer recompensa en determinada cantidad de dinero a cualquier persona que aporte datos o elementos probatorios que sean efectivos para la resolución de un delito de los tipificados en el Código Penal como graves. Ningún servidor público podrá participar de dicha recompensa.
 
-La autoridad podrá ofrecer recompensa en determinada cantidad de dinero a cualquier persona que aporte datos o elementos probatorios que sean efectivos para la resolución de un delito de los tipificados en el Código Penal como graves. Ningún servidor público podrá participar de dicha recompensa.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
-
-Cuando se libre orden de aprehensión por los delitos previstos en los artículos 165 Bis, 176, 318, 325, 357, 357 Bis, 363 Bis, 432, 434 ó 439 párrafo primero del Código Penal para el Estado de Nuevo León, la autoridad podrá ofrecer recompensa a quienes auxilien eficazmente para la localización y aprehensión del inculpado.
+Cuando se libre orden de aprehensión por los delitos previstos en los artículos 165 Bis, 176, 318, 325, 331 Bis 2, 357, 357 Bis, 363 Bis, 432, 434 o 439 párrafo primero del Código Penal para el Estado de Nuevo León, la autoridad podrá ofrecer recompensa a quienes auxilien eficazmente para la localización y aprehensión del inculpado.
 
 El reglamento respectivo, establecerá los términos, montos y condiciones de la recompensa de que se trate.
 
 Para tal efecto, la Secretaría de Finanzas y Tesorería General del Estado proveerá los fondos necesarios.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+ARTICULO 182 BIS 7. La persona que preste ayuda eficaz para la investigación y persecución de los delitos previstos por los artículos 165 Bis, 176, 318, 325, 331 Bis 2, 357, 357 Bis, 363 Bis, 395, 432, 434 o 439 párrafo primero del Código Penal para el Estado de Nuevo León, cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la indagatoria indicada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 182 Bis 7.
 
@@ -1881,13 +1839,25 @@ La persona que preste ayuda eficaz para la investigación y persecución de los 
 
 > <small>(ADICIONADO, P.O. 29 DE MARZO DE 2010)</small>
 
-###### ARTICULO 182 Bis 8.
+###### ARTICULO 182.
 
-A la persona que preste ayuda eficaz para la investigación y persecución de cualquiera de los delitos previstos en los Títulos Séptimo y Octavo del Libro Segundo del Código Penal para el Estado de Nuevo León o aporte elementos de prueba suficientes para dictar el auto de formal prisión o vinculación a proceso de su o sus coparticipes, le serán aplicables en beneficio por su cooperación, las reglas establecidas en el artículo 73 del Código Penal para el Estado de Nuevo León.
+BIS 8.- A la persona que preste ayuda eficaz para la investigación y persecución de cualquiera de los delitos previstos en los Títulos Séptimo y Octavo del Libro Segundo del Código Penal para el Estado de Nuevo León o aporte elementos de prueba suficientes para dictar el auto de formal prisión o vinculación a proceso de su o sus copartícipes, siempre que su participación sea menos grave que la de su o sus copartícipes o el hecho delictivo por él cometido resulte considerablemente más leve que aquellos cuya persecución facilita o cuya continuación evita, le serán aplicables en beneficio por su cooperación las reglas siguientes:
 
-Cuando no exista averiguación previa, los elementos de prueba que aporte o se deriven de la indagatoria iniciada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona.
+I. Será causa de ex culpabilidad cuando la ayuda o aportación a que se refiere el primer párrafo de este Artículo ocurra dentro de los sesenta días siguientes a que se hayan cometido los hechos y se realice ante el Ministerio Público;
 
-Para que operen a su favor cualquiera de los beneficios contenidos en los dos párrafos que anteceden, será necesario, en su caso, devolver el monto de lo sustraído o garantizarlo conforme a la ley.
+II. La pena se reducirá de una tercera parte hasta dos terceras partes de la que le corresponda, cuando la ayuda o aportación a que se refiere el primer párrafo de este Artículo, se realice una vez iniciada la indagatoria, o
+
+III. La pena se reducirá de una cuarta parte hasta una mitad de la que le corresponda, cuando la ayuda eficaz o aportación a que se refiere el primer párrafo de este Artículo, contribuya a una sentencia condenatoria y se realice después de ejercitada la acción penal hasta el cierre de la instrucción.
+
+Los beneficios a que se refiere este Artículo, sólo podrán otorgarse en una ocasión respecto de la misma persona, independientemente de la fracción que se aplique.
+
+Para que opere a su favor cualquiera de los beneficios contenidos en este Artículo, en los casos de daño patrimonial de recursos de la hacienda pública, la persona que preste ayuda eficaz deberá devolver o garantizar, conforme a la ley, lo que éste hubiere sustraído indebidamente.
+
+El servidor público que preste ayuda eficaz o aporte elementos de prueba en los términos de este Artículo, para investigar y perseguir a otro servidor público de igual o mayor jerarquía, tendrá derecho a los beneficios señalados en el presente Artículo.
+
+En la imposición de las penas, así como en el otorgamiento de los beneficios a que se refiere este Artículo, el Juez tomará en cuenta la gravedad de los delitos cometidos, además de la eficacia y relevancia de la colaboración prestada.
+
+No aplicarán los beneficios de este Artículo, si los hechos que se investigan están relacionados con la delincuencia organizada.
 
 ### CAPITULO TERCERO. CURACION DE HERIDOS Y ENFERMOS
 
@@ -1941,9 +1911,7 @@ La autoridad revocará la concesión inmediatamente después de que el inculpado
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
-###### ARTICULO 192 Bis.
-
-El Ministerio Público emitirá determinación de reserva de la preparación de la acción penal cuando considere que de lo actuado no resultan elementos bastantes para el ejercicio de la acción penal. Lo anterior sin perjuicio de proseguir la investigación si con posterioridad pudieren allegar medios de convicción, notificando lo anterior al denunciante o querellante.
+ARTICULO 192 BIS.- El Ministerio Público emitirá determinación de reserva de la preparación de la acción penal cuando considere que de lo actuado no resultan elementos bastantes para el ejercicio de la acción penal. Lo anterior sin perjuicio de proseguir la investigación si con posterioridad pudieren allegar medios de convicción, notificando lo anterior al denunciante o querellante.
 
 ### CAPITULO CUARTO. CONSIGNACION ANTE LOS TRIBUNALES
 
@@ -2145,9 +2113,7 @@ El Ministerio Público solicitará al Juez dicte la orden de comparecencia trat�
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
-###### ARTICULO 209 Bis.
-
-Al dictarse la orden de comparecencia, el Juez señalará día y hora para que el inculpado rinda su declaración preparatoria. Si pronunciase auto de formal prisión, le hará saber al inculpado que contrae las siguientes obligaciones que deberá cumplir dentro de los siete días siguientes:
+ARTICULO 209 BIS.- Al dictarse la orden de comparecencia, el Juez señalará día y hora para que el inculpado rinda su declaración preparatoria. Si pronunciase auto de formal prisión, le hará saber al inculpado que contrae las siguientes obligaciones que deberá cumplir dentro de los siete días siguientes:
 
 I.- Que garantice el monto estimado de la reparación del daño.
 
@@ -2159,15 +2125,11 @@ III.- Que otorgue caución para el cumplimiento de las obligaciones que en térm
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
-###### ARTICULO 209 Bis 1.
-
-La fijación de la caución que corresponda se hará conforme al artículo 20 apartado A fracción I de la Constitución Política de los Estados Unidos Mexicanos y 497 de este Código aplicando lo conducente a lo establecido en el capítulo de la libertad provisional bajo caución relativo a su otorgamiento.
+ARTICULO 209 BIS 1.- La fijación de la caución que corresponda se hará conforme al artículo 20 apartado A fracción I de la Constitución Política de los Estados Unidos Mexicanos y 497 de este Código aplicando lo conducente a lo establecido en el capítulo de la libertad provisional bajo caución relativo a su otorgamiento.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
-###### ARTICULO 209 Bis 2.
-
-Si el inculpado sin causa justificada no se presenta ante el Juez a rendir su declaración preparatoria, luego de habérsele notificado en legal forma, se le considerará sustraído de la acción de la justicia. Se escuchará al Ministerio Público y en su caso; el Juez ordenará su aprehensión y detención. Si no cumple con la obligación que establece el artículo 209 Bis de esta (sic) Código, se escuchará al Ministerio Público y en su caso, el Juez ordenará su aprehensión.
+ARTICULO 209 BIS 2.- Si el inculpado sin causa justificada no se presenta ante el Juez a rendir su declaración preparatoria, luego de habérsele notificado en legal forma, se le considerará sustraído de la acción de la justicia. Se escuchará al Ministerio Público y en su caso; el Juez ordenará su aprehensión y detención. Si no cumple con la obligación que establece el artículo 209 Bis de esta (sic) Código, se escuchará al Ministerio Público y en su caso, el Juez ordenará su aprehensión.
 
 Tratándose de delitos sancionados con pena alternativa, si el inculpado no se presenta ante el Juez a rendir su declaración preparatoria sin causa justificada, se procederá contra el rebelde en los términos del artículo 185 del Código Penal vigente en el Estado.
 
@@ -2429,9 +2391,7 @@ A excepción de los casos previstos en los dos artículos anteriores, el reconoc
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2008)</small>
 
-###### ARTICULO 244 Bis.
-
-Cuando se trate de daño a la integridad psicológica, proveniente del delito de violencia familiar, los peritos podrán emitir un dictamen previo como resultado de la primera entrevista.
+ARTICULO 244 BIS.- Cuando se trate de daño a la integridad psicológica, proveniente del delito de violencia familiar, los peritos podrán emitir un dictamen previo como resultado de la primera entrevista.
 
 ###### ARTICULO 245.
 
@@ -2643,9 +2603,7 @@ El valor probatorio del testimonio se calificará en la sentencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 275 Bis.
-
-Tratándose de los tipos descritos por los artículos 165 bis, 176, 318, 325, 357, 357 bis, 363 Bis, 432, 434 ó 439 párrafo primero del Código Penal para el Estado de Nuevo León, el Ministerio Público o la autoridad jurisdiccional correspondiente, antes del inicio de la diligencia se cerciorará en privado, a su satisfacción, de la identidad del testigo, se le preguntará a éste su nombre completo y se ordenará se le practique una prueba de ADN (ácido desoxirribonucleico), que será la única prueba con la que se demuestre la identidad del testigo. Con el resultado de dicha prueba, se iniciará la diligencia, se le tomará la protesta de decir verdad o se le exhortará a conducirse con verdad en caso de ser menor de edad, se le preguntará si se halla ligado con el inculpado, el ofendido o la víctima por vínculos de parentesco, amistad o cualquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos. El nombre del testigo lo guardará la autoridad bajo su responsabilidad.
+ARTICULO 275 BIS.- Tratándose de los tipos descritos por los artículos 165 bis, 176, 318, 325, 357, 357 bis, 363 Bis, 432, 434 ó 439 párrafo primero del Código Penal para el Estado de Nuevo León, el Ministerio Público o la autoridad jurisdiccional correspondiente, antes del inicio de la diligencia se cerciorará en privado, a su satisfacción, de la identidad del testigo, se le preguntará a éste su nombre completo y se ordenará se le practique una prueba de ADN (ácido desoxirribonucleico), que será la única prueba con la que se demuestre la identidad del testigo. Con el resultado de dicha prueba, se iniciará la diligencia, se le tomará la protesta de decir verdad o se le exhortará a conducirse con verdad en caso de ser menor de edad, se le preguntará si se halla ligado con el inculpado, el ofendido o la víctima por vínculos de parentesco, amistad o cualquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos. El nombre del testigo lo guardará la autoridad bajo su responsabilidad.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
 
@@ -2661,9 +2619,7 @@ En caso de que el testigo tenga que comparecer ante el Ministerio Público o la 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 275 Bis 1.
-
-. El Ministerio Público deberá mantener en reserva la identidad de las víctimas y la de las personas que declaren con el carácter de testigos, cuando hagan imputaciones directas en contra de personas a quienes se atribuya la comisión de delitos tipificados por los artículos 165 bis, 176, 318, 325, 357, 357 Bis, 363 Bis, 432, 434 ó 439 párrafo primero del Código Penal para el Estado de Nuevo León.
+ARTICULO 275 BIS 1.-. El Ministerio Público deberá mantener en reserva la identidad de las víctimas y la de las personas que declaren con el carácter de testigos, cuando hagan imputaciones directas en contra de personas a quienes se atribuya la comisión de delitos tipificados por los artículos 165 bis, 176, 318, 325, 357, 357 Bis, 363 Bis, 432, 434 ó 439 párrafo primero del Código Penal para el Estado de Nuevo León.
 
 (ADICIONADO, P.O. 13 DE MARZO DE 2007) (F. DE E., P.O. 18 DE ABRIL DE 2007)
 
@@ -2739,9 +2695,7 @@ En este último caso los que deban tomar la declaración se trasladarán al luga
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
-###### ARTICULO 282 Bis.
-
-El patrón está obligado a permitir que comparezcan ante el Ministerio Público o ante la Autoridad Judicial sus trabajadores a emitir sus testimonios requeridos, sin perjuicio alguno en la relación laboral, para el efecto anterior, se considera causa justificada por fuerza mayor la legal exigencia de las autoridades judiciales o administrativas mencionadas a comparecer ante ellas a rendir sus declaraciones, por constituir el cumplimiento de deberes de carácter público y personal. Lo mismo se observará si se requiere la presencia del procesado, denunciante o querellante o si comparecen para hacer valer el derecho que les otorgan las leyes.
+ARTICULO 282 BIS.- El patrón está obligado a permitir que comparezcan ante el Ministerio Público o ante la Autoridad Judicial sus trabajadores a emitir sus testimonios requeridos, sin perjuicio alguno en la relación laboral, para el efecto anterior, se considera causa justificada por fuerza mayor la legal exigencia de las autoridades judiciales o administrativas mencionadas a comparecer ante ellas a rendir sus declaraciones, por constituir el cumplimiento de deberes de carácter público y personal. Lo mismo se observará si se requiere la presencia del procesado, denunciante o querellante o si comparecen para hacer valer el derecho que les otorgan las leyes.
 
 ###### ARTICULO 283.
 
@@ -2885,9 +2839,7 @@ Cuando sean varios los declarantes o las personas confrontadas, se verificarán 
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
-###### ARTICULO 304 Bis.
-
-Tratándose del reconocimiento de una persona ausente mediante fotografías, dibujos o videos, se le mostrará a quien debiera hacer el reconocimiento junto con otras fotografías, dibujos o videos, que correspondan a individuos con apariencia semejante a aquélla, siguiéndose en lo conducente las disposiciones anteriores.
+ARTICULO 304 BIS.- Tratándose del reconocimiento de una persona ausente mediante fotografías, dibujos o videos, se le mostrará a quien debiera hacer el reconocimiento junto con otras fotografías, dibujos o videos, que correspondan a individuos con apariencia semejante a aquélla, siguiéndose en lo conducente las disposiciones anteriores.
 
 ### CAPITULO OCTAVO. CAREOS
 
@@ -4201,9 +4153,7 @@ IV.- Que no se trate de los casos de delitos graves previstos en las cuatro frac
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2006)</small>
 
-###### ARTICULO 493 Bis.
-
-En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley, o cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+ARTICULO 493 BIS.- En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley, o cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
 
 ###### ARTICULO 494.
 
@@ -4293,9 +4243,7 @@ El fiador propuesto, salvo cuando se trate de las mencionadas empresas afianzado
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
-###### ARTICULO 502 Bis.
-
-Cuando el inculpado o un tercero garanticen el monto estimado de la reparación del daño y perjuicio, se les dará conocimiento del contenido del artículo 516 y demás relativos de este Código.
+ARTICULO 502 BIS.- Cuando el inculpado o un tercero garanticen el monto estimado de la reparación del daño y perjuicio, se les dará conocimiento del contenido del artículo 516 y demás relativos de este Código.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
@@ -4435,23 +4383,17 @@ Quedan exceptuados de embargo los bienes que establece el Código de Procedimien
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
 
-###### ARTICULO 516 Bis.
-
-El procedimiento de ejecución se suspenderá si el condenado hace paga llana de lo reclamado, en cuyo caso se levantará el embargo trabado en los bienes, procediendo a su devolución.
+ARTICULO 516 BIS.- El procedimiento de ejecución se suspenderá si el condenado hace paga llana de lo reclamado, en cuyo caso se levantará el embargo trabado en los bienes, procediendo a su devolución.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
 
-###### ARTICULO 516 Bis 1.
-
-Tratándose de bienes inmuebles, el Juez de oficio procederá a su valorización, para lo cual girará oficio al Director de Catastro o a las autoridades que tengan estas funciones para la valuación del o de los inmuebles, y tratándose de bienes muebles la valuación será realizada por los peritos que soliciten las partes, los cuales serán designados de conformidad a las reglas establecidas en el Capítulo respectivo del presente Código. De así requerirse, el Juez designará el perito, consultando primeramente en la lista de los peritos del Tribunal Superior de Justicia, y posteriormente, en caso de ser necesario, en la lista de la Procuraduría General de Justicia del Estado.
+ARTICULO 516 BIS 1.- Tratándose de bienes inmuebles, el Juez de oficio procederá a su valorización, para lo cual girará oficio al Director de Catastro o a las autoridades que tengan estas funciones para la valuación del o de los inmuebles, y tratándose de bienes muebles la valuación será realizada por los peritos que soliciten las partes, los cuales serán designados de conformidad a las reglas establecidas en el Capítulo respectivo del presente Código. De así requerirse, el Juez designará el perito, consultando primeramente en la lista de los peritos del Tribunal Superior de Justicia, y posteriormente, en caso de ser necesario, en la lista de la Procuraduría General de Justicia del Estado.
 
 En el caso de los inmuebles, adicionalmente se girará oficio al Director del Registro Público de la Propiedad y del Comercio a fin de que remita certificado de gravámenes de los últimos diez años. En el caso de existir acreedores se les citará personalmente para que comparezcan a deducir sus derechos.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
 
-###### ARTICULO 516 Bis 2.
-
-Los bienes embargados serán vendidos en pública subasta, mediante la publicación de un edicto en el boletín judicial y otro en los estrados del juzgado, por lo que el Juez señalará fecha y hora precisa para su celebración, convocando a postores.
+ARTICULO 516 BIS 2.- Los bienes embargados serán vendidos en pública subasta, mediante la publicación de un edicto en el boletín judicial y otro en los estrados del juzgado, por lo que el Juez señalará fecha y hora precisa para su celebración, convocando a postores.
 
 Los postores presentarán el certificado de depósito que cubra el diez por ciento del valor de los bienes dados en remate como requisito para ser aceptados como postores, el Juez pasará la lista de postores y rechazará a los que no reúnan dicho requisito. La víctima u ofendido pueden participar como postores sin necesidad de exhibir el certificado mencionado.
 
@@ -4743,9 +4685,7 @@ Ejercitada la acción penal, el Ministerio Público podrá solicitar al Juez de 
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-###### ARTÍCULO 556 Bis.
-
-En caso de que el Ministerio Público solicite el sobreseimiento de la causa por alguno de los motivos previstos en el artículo 369 de este Código, el Juez citará al Ministerio Público, a la víctima, al inculpado y a su defensor a una audiencia en la que resolverá sobre la procedencia del sobreseimiento, después de escuchar al Ministerio Público, la víctima y al defensor del inculpado, con excepción de los casos en que deba otorgarse la libertad de inmediato, cuando el inculpado se encuentre detenido. La audiencia se llevará a cabo y el juez resolverá sobre el sobreseimiento solicitado aún cuando no comparezca la víctima sin causa justificada a la audiencia a pesar de haber sido citada en legal forma, o no pueda ser localizada para su citación.
+ARTÍCULO 556 BIS.- En caso de que el Ministerio Público solicite el sobreseimiento de la causa por alguno de los motivos previstos en el artículo 369 de este Código, el Juez citará al Ministerio Público, a la víctima, al inculpado y a su defensor a una audiencia en la que resolverá sobre la procedencia del sobreseimiento, después de escuchar al Ministerio Público, la víctima y al defensor del inculpado, con excepción de los casos en que deba otorgarse la libertad de inmediato, cuando el inculpado se encuentre detenido. La audiencia se llevará a cabo y el juez resolverá sobre el sobreseimiento solicitado aún cuando no comparezca la víctima sin causa justificada a la audiencia a pesar de haber sido citada en legal forma, o no pueda ser localizada para su citación.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -4771,9 +4711,7 @@ Presentando el escrito de defensa, y en su caso desahogadas las solicitudes de l
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
-###### ARTICULO 557 Bis.
-
-En caso de que el defensor del inculpado solicite el ofrecimiento de la causa en cualquier etapa del Procedimiento Oral Penal, el Juez que conozca del asunto, resolverá en audiencia conforme lo dispuesto por el artículo 556 Bis de este Código. En caso de que el inculpado se encontrare detenido se resolverá en audiencia de inmediato.
+ARTICULO 557 BIS.- En caso de que el defensor del inculpado solicite el ofrecimiento de la causa en cualquier etapa del Procedimiento Oral Penal, el Juez que conozca del asunto, resolverá en audiencia conforme lo dispuesto por el artículo 556 Bis de este Código. En caso de que el inculpado se encontrare detenido se resolverá en audiencia de inmediato.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -5233,9 +5171,7 @@ Si por la hora o por la naturaleza de las pruebas ofrecidas se determina la susp
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE DICIEMBRE DE 2005)</small>
 
-###### ARTICULO 592 Bis.
-
-En el Juicio Oral Penal, las pruebas serán valoradas libremente por el juez según la sana crítica, pero no podrá contradecir reglas de la lógica, los conocimientos científicos y las máximas de la experiencia.
+ARTICULO 592 BIS.- En el Juicio Oral Penal, las pruebas serán valoradas libremente por el juez según la sana crítica, pero no podrá contradecir reglas de la lógica, los conocimientos científicos y las máximas de la experiencia.
 
 El juez deberá hacerse cargo en la sentencia de toda la prueba producida, incluso de aquélla que hubiere desestimado, indicando en tal caso las razones que hubiere tenido en cuenta para hacerlo.
 
@@ -5273,9 +5209,7 @@ Se prohíbe el alegato hecho al Juez de la causa, fuera de la audiencia y sin pr
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
-###### ARTICULO 594 Bis.
-
-Cuando por vía de Amparo Indirecto se alegue violación los artículos 19 ó 20 de la Constitución Política de los Estados Unidos Mexicanos, una vez que sea enterado el Juez de Preparación de lo Penal, lo comunicará sin demora al Juez del Juicio Oral Penal que conociere del proceso, quien suspenderá la celebración de la audiencia. En caso de que ésta ya se hubiese iniciado se suspenderá su continuación en lo que corresponde al inculpado-quejoso una vez desahogadas las pruebas, y hasta que sea notificada la ejecutoria que recaiga en el Juicio de amparo correspondiente.
+ARTICULO 594 BIS.- Cuando por vía de Amparo Indirecto se alegue violación los artículos 19 ó 20 de la Constitución Política de los Estados Unidos Mexicanos, una vez que sea enterado el Juez de Preparación de lo Penal, lo comunicará sin demora al Juez del Juicio Oral Penal que conociere del proceso, quien suspenderá la celebración de la audiencia. En caso de que ésta ya se hubiese iniciado se suspenderá su continuación en lo que corresponde al inculpado-quejoso una vez desahogadas las pruebas, y hasta que sea notificada la ejecutoria que recaiga en el Juicio de amparo correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -5884,3 +5818,17 @@ P.O. 28 DE DICIEMBRE DE 2012.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Los tratamientos derivados del perdón condicionado del Artículo 111 del Código Penal para el Estado de Nuevo León, continuarán hasta su terminación.
+
+P.O. 26 DE JUNIO DE 2013.
+
+DECRETO No. 067, POR EL QUE SE REFORMA EL ARTÍCULO 182 BIS 8 DEL CÓDIGO PROCEDIMIENTOS PENALES PARA EL ESTADO DE NUEVO LEÓN.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 26 DE JUNIO DE 2013.
+
+DECRETO No. 072, POR EL QUE SE REFORMAN POR MODIFICACIÓN LOS ARTÍCULOS 182 BIS 6 SEGUNDO PÁRRAFO Y 182 BIS 7, DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEÓN.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- La Procuraduría General de Justicia deberá emitir el protocolo de actuación para la investigación del delito de feminicidio, atendiendo a lo señalado en el presente Decreto.
