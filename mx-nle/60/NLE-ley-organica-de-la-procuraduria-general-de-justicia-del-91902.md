@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-91902"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-12-21"
-last_updated: "2012-12-21"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de diciembre de 2012.
 
@@ -143,9 +143,15 @@ c) Diseñar, implementar, vigilar y dar seguimiento a las políticas para la dis
 
 d) Elaborar lineamientos generales para el ejercicio de los criterios de oportunidad, procedencia del procedimiento abreviado y de las formas alternativas de resolución de conflictos; y
 
-e) Atender requerimientos de información pública de conformidad con las disposiciones normativas en materia de Transparencia y Acceso a la Información Pública; y
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
-XXIX. Las demás que se determinen en esta Ley, su Reglamento y otras disposiciones normativas aplicables.
+e) Atender requerimientos de información pública de conformidad con las disposiciones normativas en materia de Transparencia y Acceso a la Información Pública.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XXIX. Establecer un procedimiento que permita comunicar a la ciudadanía, de manera directa, sobre la privación de la libertad o desaparición de una persona menor de dieciocho años de edad, mayor de setenta años de edad o incapaz, cuando se reúnan los criterios para su implementación, y que éstos permitan auxiliar a la Procuraduría en la búsqueda, localización y recuperación de la persona privada de su libertad; y
+
+XXX. Las demás que se determinen en esta Ley, su Reglamento y otras disposiciones normativas aplicables.
 
 ### CAPÍTULO III. DE LA BASE DE ORGANIZACIÓN
 
@@ -706,3 +712,9 @@ ALVARO IBARRA HINOJOSA
 EL C. PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 
 ADRIÁN EMILIO DE LA GARZA SANTOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
