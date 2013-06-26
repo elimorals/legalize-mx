@@ -4,7 +4,7 @@ identifier: "CHH-ley-general-de-sistema-de-documentacion-e-informacion-11675"
 country: "mx"
 rank: "ley_general"
 publication_date: "1997-07-19"
-last_updated: "2007-06-30"
+last_updated: "2013-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY GENERAL DE SISTEMA DE DOCUMENTACION E INFORMACION PUBLICA DEL ESTADO DE CHIHUAHUA
 
-LEY GENERAL DEL SISTEMA DE DOCUMENTACION E INFORMACION PUBLICA DEL ESTADO DE CHIHUAHUA
+LEY GENERAL DEL SISTEMA DE DOCUMENTACIÓN E INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de julio de 1997.
 
@@ -47,9 +47,13 @@ LEY GENERAL DEL SISTEMA DE DOCUMENTACIÓN E INFORMACIÓN PÚBLICA DEL ESTADO DE 
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 1o.
 
-La presente ley es de interés general y orden público, y tiene por objeto normar, regular y coordinar las bibliotecas públicas y la administración de los documentos de interés público del Estado de Chihuahua a través del Sistema de Documentación e Información Pública del mismo.
+La presente Ley es de interés general y orden público, y tiene por objeto normar, regular y coordinar las bibliotecas públicas y la administración de los documentos históricos del Estado de Chihuahua.
 
 ###### ARTÍCULO 2o.
 
@@ -59,33 +63,37 @@ Son autoridades en materia de la presente ley los titulares de los Poderes Ejecu
 
 Para los efectos de esta ley se entenderá por:
 
-I. Documentos de interés público:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a) Toda representación material que se genere como consecuencia de un hecho o acto de los Poderes del Estado, sus dependencias y entidades, así como de los municipios, en el ejercicio de las atribuciones que la ley les confiere.
+I. (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
-b) Toda representación material que dé constancia de un hecho o acto pasado, realizado por alguno de los Poderes del Estado o de los municipios en el desarrollo de sus atribuciones o en el ejercicio de sus funciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c) Toda representación material generada por la actividad de una persona física o moral que dé constancia de un hecho o acto pasado, que por su contenido e información, sea de valor para la sociedad.
+II. (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
-II. Administración de documentos de interés público:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Todos los actos o hechos que intervengan en su creación, adquisición, recepción, control, distribución, reproducción, organización, mantenimiento, custodia, resguardo, restauración, transferencia, selección, depuración, destrucción o eliminación, así como las actividades destinadas a regular, coordinar y dinamizar su uso y divulgación.
-
-III. Unidades orgánicas:
-
-Las áreas o unidades que constituyen las distintas dependencias y entidades que integran la estructura orgánica de los Poderes del Estado y de los Municipios.
+III. (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
 IV. Unidades documentales: Para los efectos de esta ley se entenderá por:
 
 a) Bibliotecas, los centros encargados de seleccionar, adquirir, organizar y difundir, todo tipo de material informativo, con el objetivo de fortalecer los hábitos de lectura, apoyar el autoaprendizaje, asegurar el acceso a la información de los diferentes sectores de la sociedad, promover una cultura para el aprovechamiento apropiado de los recursos, estimular la creatividad e imaginación del individuo y promover la apreciación de las artes y la ciencia.
 
-b) Archivo de Gestión o Trámite, la unidad documental que recibe, registra, organiza y facilita la documentación de uso constante, y se integra con documentos en trámite de las diversas unidades orgánicas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c) Archivo de Transferencia o Concentración, la unidad que se integra con documentos enviados por los archivos de gestión, que ya no estén activos en las diversas unidades orgánicas, pero que por el contenido de su información se consulten ocasionalmente y es necesario conservarlos un tiempo definido, hasta que se decida si son eliminados o tienen la importancia suficiente para ser documentos históricos.
+b) (DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-d) Archivos Históricos, los que se constituyan con aquellos documentos cuyo contenido es de gran trascendencia y digno de memoria, debiendo por tanto, hacer permanente su conservación. Serán considerados como parte del patrimonio cultural del Estado y de los municipios. Se considera archivo histórico los documentos con 30 años de antigüedad a partir del año en curso. Será responsabilidad de los titulares de los archivos históricos garantizar la custodia, conservación y difusión de los documentos que lo integran, considerando que por su trascendencia estos documentos adquieren una vital importancia para la comunidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-e) Centros de Documentación, las unidades documentales que seleccionan, adquieren, organizan, analizan y difunden documentos en cualquier soporte sobre una materia específica. Su finalidad es la divulgación de documentos e información actualizada a usuarios preestablecidos.
+c) (DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+d) (DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+e) (DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
 f) Hemeroteca, las unidades documentales encargadas de seleccionar, adquirir, registrar, clasificar, catalogar, organizar, analizar, divulgar y coleccionar todo tipo de publicaciones periódicas.
 
@@ -95,7 +103,9 @@ h) Centros de Información, las unidades que tienen a su cargo el acopio, organi
 
 i) Unidades Audiovisuales, aquellas encargadas de adquirir, organizar y divulgar los acervos audiovisuales, entendiéndose éste como el método didáctico que combina el empleo del oído, la vista, o ambos valiéndose de grabaciones acústicas acompañadas de imágenes ópticas.
 
-j) Unidades de Correspondencia, todas aquellas que tiene a su cargo el registro y control de documentos oficiales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+j) (DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
 k) Unidades de Microfilmación, el área de reproducción para conservar documentos que se encuentren en peligro de desaparecer por la acción del tiempo, la humedad, riesgo de incendio u otros, a través de la microfotografía.
 
@@ -105,93 +115,113 @@ m) Unidades de Cómputo y Nuevas Tecnologías, encargadas de aplicar la tecnolog
 
 n) Todas aquellas que por la naturaleza propia de las funciones sea necesario crear.
 
-V. Comisión Dictaminadora:
+V. (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
-La Comisión de Validación de Documentos prevista por la presente ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 4o.
 
-Los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial y de los Municipios, así como aquellas personas físicas o morales que tengan en posesión un documento de interés público, serán responsables de su adecuada, eficiente y oportuna administración y conservación, conforme a lo previsto por la presente ley y sus reglamentos.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
 ### CAPÍTULO SEGUNDO. DE LA ADMINISTRACIÓN DE DOCUMENTOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### ARTÍCULO 5o.
 
-Todo documento o registro informativo generado por los servidores públicos en el desempeño de su empleo, cargo o comisión formará parte del patrimonio documental e informativo del Estado y bajo ningún concepto ni circunstancia se considerará propiedad de quien lo produjo.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 6o.
 
-Todo documento o registro que los servidores públicos generen o reciban en el desempeño de su función, cargo o comisión, deberá registrarse en las unidades o mesas de control de documentos en trámite con que cuentan las dependencias y entidades, para inventariarse e integrarse en las unidades documentales correspondientes a efecto de garantizar el control, la propiedad y la utilidad pública del documento.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 7o.
 
-Cuando un servidor público deje de desempeñar su empleo, cargo o comisión, deberá hacer entrega a quien corresponda, de toda la documentación que obre en su poder, conforme a lo establecido en la presente ley, sus reglamentos y demás disposiciones aplicables.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 8o.
 
-La reproducción de un documento se llevará a cabo atendiendo el requerimiento que su trámite determine, así como la divulgación que del mismo deba realizarse.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 9o.
 
-Serán responsables de la conservación, buen estado y custodia de los documentos que se encuentren bajo su responsabilidad, aquellas personas físicas o morales previstas en la presente ley, evitando por lo tanto, todos aquellos actos que propicien su daño y destrucción.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 10.
 
-Cuando por el estado físico que guarde algún documento y por su valor intrínseco se determine la necesidad de su restauración, los titulares de las unidades orgánicas, bajo su responsabilidad, encomendarán dicha labor a personal especializado que garantice la efectividad del trabajo.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-A los documentos restaurados se les deberá anexar constancia por parte del titular de la unidad orgánica que resguarda los documentos, así como por el responsable del trabajo de restauración, de que la información contenida en los mismos no fue alterada.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 11.
 
-La validación de documentos es el acto mediante el cual se certifica la utilidad, importancia y valor de los mismos.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-En el proceso de depuración que se realice en las unidades orgánicas, los responsables de las mismas deberán consultar y considerar la opinión de la Comisión de Validación de Documentos respecto al destino de los documentos objeto de depuración.
-
-Al realizar la depuración de documentos y entregar a la unidad documental correspondiente el acervo que ya no esté activo, la unidad orgánica que remite deberá elaborar un inventario y un calendario de vigencia de los documentos entregados; al término de este plazo, se resguardarán hasta cumplir el tiempo que esta ley establece para su existencia. Concluido este período, la Comisión de Validación de Documentos determinará si se procede a su eliminación o, por el contenido de su información, pasa a ser testimonio histórico.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 12.
 
-Ningún documento podrá ser eliminado o destruido a criterio personal; será la Comisión de Validación de Documentos, en coordinación con la unidad orgánica que lo generó, quienes decidan si procede o no la destrucción, así como el mecanismo aplicable para ello.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 13.
 
-Podrán ser destruidos aquellos documentos que la unidad orgánica de donde proceden considere inactivos, así como aquellos que hayan cumplido treinta años de existencia contados a partir de la fecha en que se produjeron y que, de acuerdo con la Comisión de Validación de Documentos, no hayan satisfecho los requisitos para integrarse al patrimonio histórico.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-Al acto de destrucción de documentos deberán asistir los responsables de la unidad orgánica que los haya generado, así como los integrantes de la Comisión de Validación de Documentos, quienes darán constancia, por escrito, del acto realizado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 14.
 
-Los documentos de interés público podrán ser consultados, por quien los solicite en las unidades documentales dispuestas para este fin, las cuales establecerán las disposiciones a que deberán sujetarse los usuarios en lo referente al manejo y cuidado de los mencionados documentos.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 15.
 
-La difusión de los documentos de interés público será responsabilidad de las unidades documentales que los tengan bajo su custodia.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-Para su difusión, las publicaciones oficiales deberán reunir los requisitos que las acrediten como tales, de acuerdo con las normas jurídicas y disposiciones administrativas en la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 16.
 
-Los documentos de interés público que, como parte integrante del patrimonio documental del Estado, se encuentren por alguna circunstancia en posesión de particulares, podrán ser requeridos o, en su caso, expropiados por causa de utilidad pública.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-La expropiación de los documentos de interés público se realizará conforme a las disposiciones administrativas de la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 17.
 
-Las personas físicas y morales originarias o avecindadas en el Estado que sean propietarias de acervos documentales y pretendan donar, transferir o enajenar dichos bienes, de acuerdo al valor histórico y a la utilidad pública de los mismos, darán preferencia para adquirirlos a las unidades del Sistema de Documentación e Información Pública del Estado de Chihuahua previstas en la presente ley.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
 ### CAPÍTULO TERCERO. DEL SISTEMA DE DOCUMENTACIÓN E INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### ARTÍCULO 18.
 
-Se denomina Sistema de Documentación e Información Pública del Estado de Chihuahua, al conjunto de elementos que integran el acervo documental del Estado, así como a las unidades responsables de su administración y los reglamentos, normas y procedimientos respectivos.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 19.
 
-Forman parte del Sistema de Documentación e Información Pública del Estado de Chihuahua, las unidades documentales definidas en el artículo 3o.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 20.
 
-Será responsabilidad de las distintas unidades documentales a que hace referencia el artículo anterior de esta ley, elaborar el reglamento que normará su unidad documental y mantener debidamente organizados las obras, registros y documentos para su fácil localización y consulta, haciendo uso de sistemas, métodos y técnicas comúnmente aceptados para la sistematización de la información, así como el uso factible de las nuevas tecnologías aplicables.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
 ###### ARTÍCULO 21.
 
@@ -221,105 +251,67 @@ VIII. Participar en la planeación de la creación de bibliotecas escolares dent
 
 #### SECCIÓN PRIMERA. DEL COMITÉ TÉCNICO DE DOCUMENTACIÓN
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### ARTÍCULO 23.
 
-Para el cumplimiento de sus objetivos, el Sistema de Documentación e Información Pública del Estado de Chihuahua contará con un órgano denominado Comité Técnico de Documentación.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 24.
 
-El Comité Técnico se integrará como órgano colegiado, con una Presidencia, que tendrá un carácter electivo y rotatorio, pudiendo recaer este nombramiento en cualquiera de sus integrantes; un Secretario, que será siempre el titular del Centro de Información del Estado de Chihuahua (CIDECH); y ocho Vocales, que serán designados por el titular de la unidad orgánica a la que representan y electos de entre los representantes de las unidades documentales que integran el Sistema de Documentación e Información Pública del Estado de Chihuahua. Durarán en su cargo 3 años.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-Los cargos del Comité de Documentación serán honoríficos, por lo tanto, no percibirán remuneración alguna.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 25.
 
-Serán facultades y obligaciones del Comité Técnico de Documentación las siguientes:
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-I. Proponer a los titulares de los Poderes Ejecutivo, Legislativo y Judicial, y de los Ayntamientos (sic) o sus representantes, las medidas, mecanismos, políticas generales y lineamientos que estime convenientes para el cabal funcionamiento y operación del Sistema;
-
-II. Integrar y promover las políticas y estrategias para el desarrollo documental y archivístico del Estado, auspiciando, entre los miembros del Sistema de Documentación e Información Pública del Estado de Chihuahua, las medidas necesarias para su instrumentación, control y evaluación sistemática en sus distintos ámbitos y niveles;
-
-III. Fungir como órgano de coordinación y vinculación global entre los diversos elementos del Sistema de Documentación e Información Pública del Estado de Chihuahua;
-
-IV. Impulsar, a través de sus componentes y miembros, una amplia labor de comunicación y sensibilización institucional y social que fomente la participación de las instancias gubernamentales, así como de los diversos sectores de la sociedad, en la utilización, preservación y difusión del patrimonio documental del Estado, induciendo la efectiva renovación y fortalecimiento de la cultura informativa, documental, administrativa e histórica de la Entidad;
-
-V. Promover y apoyar investigaciones sobre nuevas técnicas de administración de documentos;
-
-VI. Promover el establecimiento de mecanismos de coordinación entre las unidades documentales existentes en el Estado, y de éstas con la Federación y otras entidades federativas;
-
-VII. Proponer la creación de comisiones especiales temporales que realicen tareas específicas en cumplimiento de los objetivos del Sistema;
-
-VIII. Promover la elaboración de publicaciones que difundan información respecto de las unidades documentales de la entidad;
-
-IX. Colaborar en la vigilancia del estricto cumplimiento de esta ley, sus reglamentos y demás disposiciones aplicables; y
-
-X. Las demás que le señale la presente ley, sus reglamentos y otras disposiciones en la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 26.
 
-Serán facultades y obligaciones del Presidente del Comité:
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-I. Convocar, a través del Secretario, a las sesiones del Comité;
-
-II. Presidir las sesiones ordinarias y extraordinarias del Comité;
-
-III. Evaluar el funcionamiento de las unidades del Sistema de Documentación e Información Pública del Estado de Chihuahua;
-
-IV. Promover la creación de comisiones especiales que se constituyan para coadyuvar al cumplimiento de los objetivos del Sistema; y
-
-V. Las demás que le confieran esta ley, sus reglamentos y demás disposiciones aplicables en la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 27.
 
-Son facultades y obligaciones del Secretario:
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-I. Llevar el control del Libro de Actas;
-
-II. Proponer técnicas para mejorar la organización, clasificación y catalogación de los acervos documentales y las relacionadas a la conservación y preservación de documentos;
-
-III. Proponer métodos de Validación y Depuración de documentos;
-
-IV. Establecer políticas de consulta de los documentos existentes en las unidades documentales; y
-
-V. Las demás que le confieran esta ley, sus reglamentos y otras disposiciones aplicables en la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 28.
 
-Serán facultades y obligaciones de los Vocales:
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-I. Formar parte de las comisiones que se integren para coadyuvar al cumplimiento de los objetivos del Sistema;
-
-II. Asistir a las reuniones que convoque el Presidente;
-
-III. Preparar y presentar los informes que con motivo de su cargo les sean requeridos;
-
-IV. Las demás que les confieran esta ley, sus reglamentos y otras disposiciones aplicables en la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 29.
 
-El Comité sesionará trimestralmente en forma ordinaria, y de manera extraordinaria cuando sea necesario. Sus decisiones se tomarán por mayoría de votos, teniendo el Presidente, o quien legalmente deba suplirlo, voto de calidad, en caso de empate.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
 #### SECCIÓN SEGUNDA. DE LA COMISIÓN DE VALIDACIÓN DE DOCUMENTOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### ARTÍCULO 30.
 
-Dada la trascendencia de los actos de validación y depuración de documentos, el Comité Técnico del Sistema nombrará una Comisión de Validación de Documentos, la cual se integrará con un mínimo de cinco y un máximo de diez personas especializadas en la materia. Los cargos de la Comisión serán honoríficos, por lo tanto no percibirán remuneración.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 31.
 
-La Comisión de Validación de Documentos tendrá las siguientes atribuciones y funciones:
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-I. Coadyuvar con los responsables de cada unidad documental en la depuración de documentos, determinando aquellos que deban conservarse por tiempo definido o trasladarse a la unidad documental correspondiente;
-
-II. Dictaminar la baja de documentos de contenido meramente administrativo, coordinándose para ello con la unidad orgánica que los haya generado; y
-
-III. Realizar estudios, sobre las formas de eliminación de documentos y emitir, cuando le sean requeridas, las opiniones correspondientes.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
 ### CAPÍTULO QUINTO. DEL INSTITUTO CHIHUAHUENSE DE LA CULTURA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 32.
 
@@ -327,17 +319,23 @@ El Instituto Chihuahuense de la Cultura, tiene los siguientes objetivos y facult
 
 A. EN MATERIA DE ADMINISTRACIÓN DE DOCUMENTOS:
 
-I. Ser el Centro de Referencia de Información sobre el Estado de Chihuahua;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
+I. (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
-II. El Director del Instituto vigilará el efectivo funcionamiento del Sistema de Documentación e Información Pública del Estado de Chihuahua;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+II. (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
 III. Ser el encargado de operar y administrar el Archivo Histórico del Poder Ejecutivo y previo convenio que para tal efecto se suscriba, podrá administrar los archivos históricos de los Poderes Legislativo y Judicial Estatales, así como de los municipios y dependencias federativas con representación en el Estado que así lo soliciten;
 
-IV. Regular, supervisar y evaluar técnicamente las actividades de las unidades documentales que administren acervos del Poder Ejecutivo que integran el Sistema de Documentación e Información Pública del Estado de Chihuahua.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. Asesorar y supervisar a las dependencias y entidades de los Poderes Ejecutivo, Legislativo y Judicial del Estado y de los Municipios, respecto a la organización y funcionamiento de sus servicios documentales, archivísticos, bibliográficos, hemerográficos o de cualquier otra índole, independientemente del formato o soporte material que los contenga, coadyuvando en el ámbito de su competencia en los programas y acciones de modernización y simplificación de la administración pública estatal;
+IV. (DEROGADA, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+V. (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
 VI. Salvaguardar la memoria histórica del Estado, al conservar y poner en uso el patrimonio histórico documental contenido en los archivos estatales, municipales o de otros organismos públicos, sociales y privados;
 
@@ -347,9 +345,13 @@ VIII. Desarrollar los programas y acciones de prevención, conservación y resta
 
 IX. Editar, distribuir y comercializar publicaciones y materiales impresos destinados a dar a conocer y facilitar el acceso a los fondos que conserva;
 
-X. Celebrar convenios con los gobiernos municipales, con los organismos descentralizados y desconcentrados, con las organizaciones sociales y privadas, así como con los Poderes Ejecutivo, Legislativo y Judicial del Estado, programas y acciones para impulsar la modernización de sus sistemas, recursos y servicios documentales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI. Constituirse en el órgano depositario de las publicaciones de las dependencias y organismos públicos descentralizados del Poder Ejecutivo, sin perjuicio de los derechos y obligaciones que sobre el particular tiene la Secretaría de Gobierno;
+X. (DEROGADA, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XI. (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
 XII. Promover y apoyar la profesionalización del personal responsable del manejo de las unidades documentales;
 
@@ -365,7 +367,9 @@ I. Promover, auxiliar y apoyar programas de investigación auspiciados por los g
 
 II. Promover y difundir investigaciones relacionadas con la historia de la Entidad, procurando no duplicar labores de investigación y trabajos existentes;
 
-III. Ofrecer a los usuarios información para el manejo del material documental;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+III. (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
 IV. Fomentar el desarrollo de cualidades y habilidades en los niños a través de actividades recreativas;
 
@@ -427,7 +431,9 @@ IV. El Rector de la Universidad Autónoma de Chihuahua;
 
 V. El Rector de la Universidad Autónoma de Ciudad Juárez;
 
-VI. El Presidente del Comité Técnico del Sistema de Documentación e Información Pública del Estado de Chihuahua;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VI. (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
 VII. El Director del Centro de Información del Estado de Chihuahua;
 
@@ -475,7 +481,9 @@ VII. Informar al Consejo Directivo, cuando sea requerido por el mismo, de cualqu
 
 VIII. Conceder licencias al personal en los términos reglamentarios; vigilar que cumpla con sus obligaciones laborales e imponer las sanciones disciplinarias correspondientes;
 
-IX. Fungir como Secretario Técnico del Comité Técnico del Sistema de Documentación e Información Pública del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+IX. (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
 X. Convocar a sesión ordinaria del Consejo Directivo una vez al año y a las extraordinarias que estime necesario;
 
@@ -571,7 +579,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE DICIEMBRE DE 1999.
 
@@ -650,3 +658,33 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 ###### ARTÍCULO SEXTO.
 
 Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+
+P.O. 26 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor 180 días después de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Hasta en tanto se expidan el catálogo de Disposición Documental y demás normas para determinar los procedimientos para la disposición documental, no se permitirá la eliminación de ningún documento.
+
+###### ARTÍCULO TERCERO.
+
+El presupuesto de egresos del Estado para el año 2014 deberá establecer la previsión presupuestal correspondiente para permitir la integración y funcionamiento presupuestal de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los entes públicos deberán designar a los titulares de las Direcciones de Archivos y Comités Técnicos de Administración de Documentos y Archivos, a más tardar 90 días naturales después de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+El Poder Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, en un plazo de 90 días posteriores a la publicación de la presente Ley, instituirá el Archivo General del Estado; asimismo, creará el Reglamento que disponga la estructura, organización y funcionamiento del Órgano.
+
+###### ARTÍCULO SÉPTIMO.
+
+Una vez publicado el presente Decreto, se deroga el Decreto No. 1147/2010 XIII P.E., aprobado el día nueve de septiembre del dos mil diez.
