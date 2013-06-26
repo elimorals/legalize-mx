@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ingresos-del-estado-de-colima-para-el-ejercicio-90442"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-01"
-last_updated: "2012-12-01"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE INGRESOS DEL ESTADO DE COLIMA PARA EL EJERCICIO FISCAL 2013.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Gobierno del Estado de Colima, el sábado 1 de diciembre de 2012.
 
@@ -261,9 +261,15 @@ C. INGRESOS DERIVADOS DE
 
 FINANCIAMIENTOS. 0
 
-TOTAL DE INGRESOS 8,550,284,000
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2013)</small>
 
-(OCHO MIL QUINIENTOS CINCUENTA MILLONES DOSCIENTOS OCHENTA Y CUATRO MIL PESOS 00/100 M.N.)
+I.- Financiamientos $820,663,093,00
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+TOTAL DE INGRESOS $9,370,947,093.00
+
+(NUEVE MIL TRESCIENTOS SETENTA MILLONES NOVECIENTOS CUARENTA Y SIETE MIL NOVENTA Y TRES PESOS 00/100 M.N.)
 
 ###### Artículo 2.
 
@@ -323,6 +329,26 @@ II.- Los que se determinen en materia del Impuesto Sobre Tenencia o Uso de Vehí
 
 Se autoriza a la Secretaría de Finanzas y Administración del Estado a recibir del Gobierno Federal, anticipos o adelantos de participaciones, aportaciones, apoyos y subsidios federales, o de otros ingresos derivados de convenios o acuerdos específicos con la federación, así como a suscribir los compromisos para su reintegro, registro contable y administración financiera.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+###### Artículo 10.
+
+Se autoriza al Gobierno del Estado de Colima para que, por conducto del Poder Ejecutivo del Estado, contrate con Instituciones de Crédito de Banca Múltiple o Banca de Desarrollo de nacionalidad mexicana, uno o varios créditos, hasta por la cantidad de $820,663,093.00 (OCHOCIENTOS VEINTE MILLONES SEISCIENTOS SESENTA Y TRES MIL NOVENTA Y TRES PESOS 00/100 M.N.), a un plazo máximo de 25 (veinticinco) años.
+
+Los recursos señalados, deberán destinarse a:
+
+I.- Refinanciar las obligaciones financieras de corto plazo que hubiere contratado con anterioridad y que se encuentren vigentes, siempre que el destino de las mismas hubiera sido inversión pública productiva hasta por un importe de $583,500,000.00 (Quinientos ochenta y tres millones quinientos mil pesos 00/100 M.N.);
+
+II.- Refinanciar las obligaciones financieras contraídas, pendientes de pago, mediante el esquema de Cadenas Productivas con diversas instituciones bancarias hasta por un monto de $77 ,200,000.00 (Setenta y siete millones doscientos mil pesos 00/100 M.N.); y,
+
+III.- Contratar con el Banco Nacional de Obras y Servicios Públicos, S.N.C. (BANOBRAS) un financiamiento hasta por la cantidad de $159,963,093.00 (Ciento cincuenta y nueve millones novecientos sesenta y tres mil noventa y tres pesos 00/100 M.N.), a través del Programa de Financiamiento para Infraestructura y Seguridad en los Estados (PROFISE), para ser destinado a inversiones públicas productivas.
+
+Se autoriza al Gobierno del Estado de Colima, a través del Poder Ejecutivo, para que, por conducto de sus funcionarios legalmente facultados, afecte en favor de la o las instituciones acreedoras, como garantía y/o fuente de pago y/o fuente alterna de pago para cumplir con las obligaciones asociadas al o a los créditos que contrate con motivo de las operaciones de refinanciamiento y/o reestructura con base en la presente autorización, los flujos de recursos derivados de las participaciones presentes y futuras que en ingresos federales correspondan, sin perjuicio de afectaciones anteriores ni de aquellos derechos o ingresos que las sustituyan, y/o complementen total o parcialmente, pudiendo celebrar los mecanismos que resulten necesarios o convenientes para instrumentar la afectación señalada.
+
+Se podrán celebrar y suscribir todos los documentos, títulos de créditos, contratos, convenios, mecanismos, notificaciones, instrucciones o cualquier instrumento legal que se requiera para formalizar el o los créditos autorizados en el presente Artículo, con las características, montos, condiciones, modalidades y términos que constan en el mismo, así como las que se requieran para la mejor concreción de estos, pudiendo contratar coberturas de tasa de interés y evaluaciones de Agencias Calificadoras.
+
+Dichas autorizaciones se otorgan sin perjuicio de las demás que hubiere dado la Legislatura del Estado de Colima, y que resulten afines o complementarias a las previstas en este Artículo.
+
 T R A N S I T O R I O
 
 ###### ARTICULO ÚNICO.
@@ -340,3 +366,15 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 28 veintiocho del mes de noviembre del año 2012 dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica. EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, DR. J. JESÚS OROZCO ALFARO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos del presente Decreto, se deroga todo aquello que en la legislación local se oponga al mismo.
