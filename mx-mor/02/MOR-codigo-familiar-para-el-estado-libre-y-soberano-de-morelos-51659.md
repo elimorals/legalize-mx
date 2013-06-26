@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2012-02-01"
+last_updated: "2013-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -383,7 +383,7 @@ III.- Las demás personas que señala la Ley.
 
 LIMITACIONES A LA CAPACIDAD. La minoría de edad, por estado de interdicción y las demás incapacidades establecidas por la Ley, son restricciones a la capacidad jurídica que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 8.
 
@@ -565,7 +565,7 @@ ORIGEN DE LA OBLIGACIÓN DE DAR ALIMENTOS. La obligación de dar alimentos se de
 
 ACREEDOR ALIMENTISTA. Es acreedor alimentista toda aquella persona que no pueda bastarse a sí misma, y es deudor alimentista el obligado a proporcionar alimentos, en los términos establecidos en este capitulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 37.
 
@@ -611,13 +611,15 @@ OBLIGACIÓN ALIMENTARIA DE LOS PARIENTES COLATERALES CON RELACIÓN A INCAPACES. 
 
 OBLIGACIÓN ALIMENTARIA EN ADOPCIÓN. El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen los padres y los hijos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2013)</small>
 
 ###### ARTÍCULO 43.
 
-ALIMENTOS.- Los alimentos comprenden la casa, la comida, el vestido, asistencia en caso de enfermedad, los gastos necesarios para la educación básica del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales. Esta obligación subsistirá no obstante la mayoría de edad del alimentista si éste se encuentre incapacitado para trabajar, y hasta los veinticinco años si el acreedor alimentista se encuentre estudiando y no cause baja, conforme al reglamento escolar, y que esta se curse en instituciones educativas que se encuentren en posibilidades de pagar los deudores alimentistas, siempre que los acreedores no cuenten con ingresos propios.
+ALIMENTOS.- Los alimentos comprenden la casa, la comida, el vestido, asistencia en caso de enfermedad, los gastos de embarazo y parto en cuanto no estén cubiertos de otra forma, los gastos necesarios para la educación básica del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales. Esta obligación subsistirá no obstante la mayoría de edad del alimentista si éste se encuentre incapacitado para trabajar, y hasta los veinticinco años si el acreedor alimentista se encuentre estudiando y no cause baja, conforme al reglamento escolar, y que esta se curse en instituciones educativas que se encuentren en posibilidades de pagar los deudores alimentistas, siempre que los acreedores no cuenten con ingresos propios.
 
-En los mismos términos se entienden los alimentos respecto a los acreedores alimentarios a que se refiere el artículo 41 de este Ordenamiento.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+En los mismos términos se entienden los alimentos respecto a los acreedores alimentarios a que se refiere el artículo 41 de este Ordenamiento. En el caso de los adultos mayores, cuando no tengan autosuficiencia económica, además de su atención geriátrica, se procurará que los alimentos se les proporcionen integrándolos a la familia.
 
 La obligación de dar alimentos no comprende la de proveer capital a los hijos para ejercer el oficio, arte o profesión a que se hubieren dedicado.
 
@@ -725,7 +727,7 @@ NEGATIVA DEL DEUDOR ALIMENTARIO A ENTREGAR LOS ALIMENTOS. Cuando el deudor alime
 
 CONTINUIDAD DE LA OBLIGACIÓN DE DAR ALIMENTOS A CARGO DEL CÓNYUGE SEPARADO. El cónyuge que se haya separado del otro sigue obligado a cumplir con los gastos a que se refiere el artículo 86 de este Código. En tal virtud el que no haya dado lugar a ese hecho, podrá pedir al Juez de lo familiar de su residencia, que obligue al otro a que suministre los gastos por el tiempo que dure la separación, así como también que satisfaga los adeudos contraídos en los términos del artículo anterior.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ### CAPÍTULO IV. DE LA EMANCIPACIÓN
 
@@ -823,7 +825,7 @@ Para acreditar el concubinato, el Juez deberá tomar en consideración que los c
 
 GENERALIDADES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 68.
 
@@ -1891,7 +1893,7 @@ LA MATERNIDAD O PATERNIDAD NO SE PRESUMEN POR DAR ALIMENTOS. El hecho de dar ali
 
 PLAZO PARA EJERCITAR LAS PRETENSIONES DE PATERNIDAD O MATERNIDAD. Las pretensiones de investigación de paternidad o maternidad sólo podrán intentarse en vida de los padres. Si estos hubieren fallecido durante la menor edad de los hijos, estos tendrán derecho de intentar la pretensión antes que se cumplan cuatro años de su mayor edad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 217.
 
@@ -2831,7 +2833,7 @@ DISPOSICIONES GENERALES. La adopción es la institución jurídica de protecció
 
 La adopción siempre será benéfica para el adoptado, atendiendo al interés superior del mismo y el respeto de sus derechos fundamentales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 361.
 
@@ -3233,7 +3235,7 @@ Los testigos que intervengan en las actas del Registro Civil deberán ser mayore
 
 Salvo autorización por escrito del Director General del Registro Civil, queda prohibido a los empleados del Registro Civil servir como testigos, en caso de hacerlo, serán destituidos de su cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 423.
 
@@ -6041,7 +6043,7 @@ GERMÁN CASTAÑÓN GALAVIZ
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 15 DE AGOSTO DE 2007.
 
@@ -6092,3 +6094,11 @@ Aprobado el presente, remítase para su publicación en el Periódico Oficial Ti
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2013.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
