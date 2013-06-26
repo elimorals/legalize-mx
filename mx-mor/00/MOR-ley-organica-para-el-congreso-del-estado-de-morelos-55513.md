@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2013-01-16"
+last_updated: "2013-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -209,9 +209,9 @@ IX. Contar con los recursos materiales y humanos necesarios para el cumplimiento
 
 X. Contar con la asesoría del personal técnico y profesional en función de las comisiones a las que pertenezcan;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-XI. En caso de fallecimiento, sus beneficiarios percibirán el equivalente a seis meses del total de la dieta. Quien hubiera sido parte de una anterior legislatura, tendrá derecho después de los sesenta años de edad a recibir previa su solicitud la suma de ciento ocho días del equivalente al total de la dieta vigente en la legislatura en curso, reservándose los otros setenta y dos días restantes de esa prestación a sus beneficiarios por su fallecimiento, o bien, en su defecto aquellos últimos tendrán derecho a percibir el equivalente a los ciento ochenta días del total de la dieta, para lo cual se deberá hacer la designación en los términos del Reglamento para el Congreso del Estado de Morelos; si no se designa beneficiario, ésta se pagará a la persona física que acredite ser su heredero en términos de la legislación civil vigente.
+XI. En caso de fallecimiento, sus beneficiarios percibirán el equivalente a seis meses del total de la dieta. Quien hubiera sido parte de una anterior legislatura, tendrá derecho después de los sesenta años de edad a recibir previa su solicitud la suma de ciento ocho días del equivalente al total de la dieta vigente en la legislatura en curso, reservándose los otros setenta y dos días restantes de esa prestación a sus beneficiarios por su fallecimiento, o bien, en su defecto aquellos últimos tendrán derecho a percibir el equivalente a los ciento ochenta días del total de la dieta, para lo cual se deberá hacer la designación en los términos del Reglamento para el Congreso del Estado de Morelos; si no se designa beneficiario, ésta se pagará a la persona física que acredite ser su heredero en términos de la legislación civil vigente. Este beneficio se aplicará sólo a los diputados que desarrollaron su labor por un mínimo de dos años en la legislatura correspondiente.
 
 XII. Gestionar ante las autoridades correspondientes la atención de las solicitudes que se presenten;
 
@@ -851,7 +851,9 @@ Las Comisiones Ordinarias serán las siguientes:
 
 16. Recursos Naturales y Agua.
 
-17. Grupos Indígenas.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+17. Pueblos Indígenas;
 
 18. Equidad de Género.
 
@@ -1105,9 +1107,11 @@ III. Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y 
 
 IV. Todos aquellos que le sean turnados y no sean competencia de otra Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### Artículo 72.
 
-Corresponde a la Comisión de Grupos Indígenas, conocer y dictaminar los siguientes asuntos:
+A la Comisión de Pueblos Indígenas, le corresponde conocer y dictaminar los siguientes asuntos:
 
 I. Dictaminar las iniciativas para proteger y preservar todos los elementos que integran la cultura de los pueblos indígenas del Estado;
 
@@ -2338,3 +2342,27 @@ Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el pres
 ###### ARTÍCULO TERCERO.
 
 Publíquese en la Gaceta Legislativa y remítase para su divulgación al Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 26 DE JUNIO DE 2013.
+
+DECRETO NÚMERO QUINIENTOS OCHENTA Y OCHO, POR EL QUE SE REFORMA EL NUMERAL 17 DEL ARTÍCULO 59 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 72 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el mismo día de su aprobación por el Pleno del Congreso del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Ejecutivo del Estado de Morelos, para los efectos de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado para su divulgación.
+
+P.O. 26 DE JUNIO DE 2013.
+
+DECRETO NÚMERO QUINIENTOS NOVENTA, POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 18 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el mismo día de su aprobación por el Pleno del Congreso del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Ejecutivo del Estado de Morelos, para los efectos de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado para su divulgación.
