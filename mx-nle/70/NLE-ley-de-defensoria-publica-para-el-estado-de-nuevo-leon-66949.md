@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-defensoria-publica-para-el-estado-de-nuevo-leon-66949"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-06"
-last_updated: "2011-08-05"
+last_updated: "2013-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE DEFENSORIA PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-LEY DE DEFENSORIA PUBLICA PARA EL ESTADO DE NUEVO LEON
+LEY DE DEFENSORÍA PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 6 de febrero de 2009.
 
@@ -41,21 +41,29 @@ LEY DE DEFENSORÍA PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
 ### CAPÍTULO PRIMERO. DEL OBJETO DE LA LEY Y SUS PRINCIPIOS RECTORES
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto regular la organización y funcionamiento del sistema de defensa pública del Estado de Nuevo León.
+La presente Ley es de orden público e interés social y tiene por objeto regular la organización, funcionamiento, competencia y administración del sistema de defensa pública del Estado de Nuevo León, así como la prestación de sus servicios de acuerdo con las disposiciones de esta Ley, de su Reglamento y de las demás normas aplicables en la materia.
 
 ###### Artículo 2.
 
 El servicio de defensoría pública se brindará a través de un organismo público descentralizado denominado “Instituto de Defensoría Pública de Nuevo León” que se crea mediante esta Ley.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### Artículo 3.
 
-El Instituto contará con personalidad jurídica, patrimonio propio y autonomía financiera, técnica y de gestión; tiene por objeto dirigir, operar, coordinar y controlar el sistema de defensa pública del Estado de Nuevo León, el cual deberá actuar bajo los principios de obligatoriedad, gratuidad, honestidad y profesionalismo.
+El Instituto contará con personalidad jurídica, patrimonio propio y autonomía financiera, técnica, operativa y de gestión, con el propósito de garantizar la tutela judicial efectiva del derecho a la defensa y el acceso a la justicia como parte del debido proceso.
+
+Para cumplir con esta finalidad deberá dirigir, operar, coordinar y controlar el sistema de defensa pública del Estado, de acuerdo con las disposiciones de esta Ley, su normatividad interna y demás ordenamientos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2013)</small>
 
 ###### Artículo 4.
 
-El Instituto prestará sus servicios profesionales en materia penal a que tiene derecho todo ciudadano en los términos de los artículos 20 de la Constitución Política de los Estados Unidos Mexicanos y 19 de la Constitución del Estado, consistente en una defensa integral, ininterrumpida, oportuna, técnica, eficiente y competente.
+El Instituto prestará sus servicios profesionales en materia penal a que tiene derecho todo individuo en los términos de los artículos 17 y 20 de la Constitución Política de los Estados Unidos Mexicanos y 19 de la Constitución Política del Estado Libre y Soberano de Nuevo León, consistentes en una defensa integral, ininterrumpida, oportuna, técnica, adecuada y eficiente.
 
 En las materias familiar, civil, mercantil y de justicia administrativa se prestarán los servicios de orientación, asesoría y patrocinio de casos, poniendo especial énfasis en la protección y defensa de los derechos de las personas de escasos recursos económicos y de grupos vulnerables. Su patrocinio litigioso se resolverá en la forma y términos que determine el Reglamento de esta Ley.
 
@@ -71,7 +79,9 @@ III. Consejo Consultivo: Órgano de consulta del Instituto cuyos integrantes se 
 
 IV. Persona de escasos recursos económicos o grupo vulnerable: Todo individuo afectado por algún grado de vulnerabilidad como pobreza, edad, estado de salud, discapacidad, origen étnico o cualquier otra circunstancia excluyente que lo coloque en grave situación de desventaja para la defensa o el debido ejercicio de sus derechos.
 
-V. Sistema: Es el diseño y operación de la prestación de servicio que asegura de manera gratuita la defensa en materia penal de todo ciudadano, y la prestación de servicios de orientación, asesoría y patrocinio a las personas de escasos recursos económicos o grupos vulnerables en las demás materias, ya sea familiar, civil, mercantil y de justicia administrativa.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+V. Sistema: Es el diseño y operación de la prestación de servicio que asegura de manera gratuita la defensa, asesoría y representación en materia penal como parte del debido proceso a todo individuo y la prestación de servicios de orientación y patrocinio a las personas de escasos recursos económicos o grupos vulnerables en las demás materias, ya sean familiar, civil, mercantil y de justicia administrativa en los términos de su Reglamento.
 
 ###### Artículo 6.
 
@@ -83,7 +93,9 @@ II. Gratuidad: El Instituto prestará su servicio de manera gratuita.
 
 III. Igualdad y equilibrio procesal: El Instituto al contar con los instrumentos necesarios para intervenir en los procesos judiciales en condiciones de igualdad, favorecerá al equilibrio procesal frente a los demás sujetos procesales.
 
-IV. Responsabilidad profesional: El Instituto se sujetará a estándares que garanticen la responsabilidad profesional, que se manifestará en la calidad y eficiencia en la prestación del servicio.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+IV. Responsabilidad profesional: El Instituto se sujetará a estándares que garanticen la responsabilidad profesional, que se manifestará en la calidad y eficiencia en la prestación del servicio y los Defensores Públicos guardarán un comportamiento, ético, honesto, calificado, responsable y capaz, en el ejercicio de su función;
 
 > <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
@@ -95,9 +107,17 @@ VI. Confidencialidad: El Instituto brindará la seguridad de que la información
 
 VII. Continuidad: El Instituto procurará la continuidad de la defensa evitando sustituciones innecesarias.
 
-> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-VIII. Obligatoriedad: El Instituto acometerá con estricto apego a la normatividad aplicable, el cumplimiento de los principios del sistema acusatorio y oral, en los casos en que el mismo sea aplicable.
+VIII. Obligatoriedad: El Instituto acometerá con estricto apego a la normatividad aplicable, el cumplimiento de los principios del sistema acusatorio y oral, en los casos en que el mismo sea aplicable, y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+IX. Defensa de los Derechos Humanos: El Instituto velará en cumplimiento de los principios del sistema de defensa y representación jurídica, que su actuación sea acorde con los Derechos Humanos.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+Asimismo, deberá observar el principio de excelencia, respetando la diversidad cultural y multiétnica de toda persona.
 
 ###### Artículo 7.
 
@@ -137,21 +157,45 @@ I. Operar y administrar la Defensoría Pública en el Estado;
 
 II. Establecer y coordinar las relaciones con entidades, dependencias y organismos públicos de los tres niveles de gobierno para el cumplimiento de su objeto;
 
-III. Fomentar, coordinar y concertar acuerdos de apoyo y colaboración con instituciones privadas locales, nacionales o internacionales para el cumplimiento de su objeto; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-IV. Las demás que le otorguen esta Ley, otros ordenamientos legales y el Reglamento de esta Ley.
+III. Fomentar, coordinar y concertar acuerdos de apoyo y colaboración con instituciones privadas locales, nacionales o internacionales para el cumplimiento de su objeto;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+IV. Promover y organizar programas de difusión de los servicios que presta;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+V. Impulsar la formación, capacitación, actualización y especialización de los Defensores Públicos, Peritos, Trabajadores Sociales y en general, a todo el personal del Instituto de acuerdo a sus respectivas funciones;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+VI. Velar por la igualdad ante la Ley, por el respeto al principio de presunción de inocencia y del debido proceso, y actuar con profundo respeto por la dignidad humana de los usuarios;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+VII. Privilegiar la gestión de mecanismos alternativos en la solución de conflictos, y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+VIII. Las demás que le otorguen esta Ley, otros ordenamientos legales y el Reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
 ###### Artículo 11.
 
-El Instituto podrá celebrar convenios de colaboración con personas físicas o morales públicas o privadas, y con Dependencias o Entidades de los tres órdenes de gobierno para el cumplimiento de su objeto.
+El Instituto podrá celebrar convenios de colaboración tanto con personas físicas, morales, públicas, privadas, nacionales y extranjeras, y con Dependencias y Entidades de los tres órdenes de gobierno para el cumplimiento de su objeto.
 
-En particular podrá concertar acuerdos con Instituciones de Educación Superior por lo que respecta a la prestación de servicios periciales, así como para la prestación del servicio social en general y particularmente en las diversas especialidades de derecho, criminología, trabajo social y otras disciplinas en los términos y condiciones que establezca el Reglamento de esta Ley.
+En particular podrá concertar acuerdos con Instituciones de Educación Superior por lo que respecta a la prestación de servicios periciales y sociales y particularmente en las diversas especialidades del derecho, criminología, trabajo social y otras disciplinas en los términos y condiciones que establezca el Reglamento de esta Ley. Los peritos de Instituciones Públicas, no cobrarán por los servicios periciales que presten al Instituto en materia penal.
 
 Igualmente, promoverá la concertación de convenios con Colegios y Asociaciones de Abogados, Facultades y Escuelas de Derecho para su colaboración gratuita en la atención de los asuntos propios de su competencia.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### Artículo 12.
 
-Las dependencias oficiales encargadas de archivos, libros y registros, proporcionarán la información y expedirán gratuitamente las certificaciones o constancias que sean solicitadas por el Instituto, y que estén relacionadas con la defensa o patrocinio encomendadas a éste.
+Todas las dependencias oficiales, así como las encargadas de archivos, libros y registros, deberán proporcionar la información y expedirán gratuitamente las certificaciones o constancias que sean solicitadas por el Instituto, y que estén relacionadas con la defensa o patrocinio encomendadas a éste.
 
 #### SECCIÓN SEGUNDA. DE LA JUNTA DE GOBIERNO
 
@@ -159,9 +203,9 @@ Las dependencias oficiales encargadas de archivos, libros y registros, proporcio
 
 La Junta de Gobierno será la autoridad máxima del Instituto y se integrará por los siguientes miembros con derecho de voz y voto:
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-I. Un Presidente honorario que recaerá en el Titular del Ejecutivo; y
+I. Un Presidente honorario que recaerá en el Titular del Ejecutivo, y
 
 > <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
@@ -217,7 +261,9 @@ V. Delegar en los miembros de la Junta de Gobierno la ejecución de los actos ne
 
 VI. Los demás que le confieran esta Ley, otros ordenamientos legales y el Reglamento.
 
-En ausencia del Presidente Honorario, presidirá el Presidente Ejecutivo y en ausencia de éste lo hará el representante de la Secretaría General de Gobierno.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+En ausencia del Presidente Honorario, presidirá el titular de la Secretaría General de Gobierno.
 
 ###### Artículo 17.
 
@@ -237,9 +283,11 @@ VI. Las demás que le correspondan.
 
 #### SECCIÓN TERCERA. DEL CONSEJO CONSULTIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### Artículo 18.
 
-El Instituto contará con un Consejo Consultivo, que será de carácter honorífico y preponderantemente ciudadano, el cual se desempeñará como un órgano de consulta para la planeación, evaluación y seguimiento.
+El Instituto contará con un Consejo Consultivo, que será de carácter honorífico y preponderantemente ciudadano, el cual se desempeñará como un órgano de asesoría y consulta para la planeación, evaluación y seguimiento de los programas y proyectos para mejorar el sistema de defensa pública.
 
 El Consejo Consultivo será designado por la mayoría absoluta de los integrantes del Congreso del Estado por convocatoria pública, en los casos de las fracciones IV, V, VI, VII, VIII y IX del artículo siguiente.
 
@@ -271,9 +319,11 @@ X. El Presidente de la Comisión Estatal de Derechos Humanos.
 
 El Consejo determinará lo correspondiente a la organización y funcionamiento del mismo. Su Presidente y Secretario de Actas serán designados por sus propios integrantes, quienes durarán un año en el cargo pudiendo ser reelectos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### Artículo 20.
 
-El Consejo autónomamente autorizará los Comités y sus funciones, debiendo mínimamente integrar los siguientes:
+El Consejo autónomamente decidirá por mayoría, la conformación de los Comités y sus funciones, debiendo al menos integrar los siguientes:
 
 I. Comité para la Admisión de Asuntos provenientes de grupos vulnerables;
 
@@ -289,9 +339,11 @@ IV. Comité de Transparencia y Rendición de Cuentas.
 
 El Instituto será dirigido por un Director General que será su representante legal, el cual será designado y removido por el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### Artículo 22.
 
-El Director General del Instituto tendrá las siguientes funciones:
+El Director General del Instituto tendrá las siguientes atribuciones:
 
 I. Diseñar y desarrollar las políticas institucionales del Sistema y del Instituto;
 
@@ -299,9 +351,13 @@ II. Dirigir, organizar, controlar y administrar el Instituto;
 
 III. Aprobar los lineamientos y criterios de aplicación en materia de recursos humanos, remuneraciones, planeación, administración y finanzas en los términos de la legislación aplicable;
 
-IV. Fijar con carácter general los estándares básicos que deben cumplir los defensores en la prestación del servicio;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-V. Proponer a la Junta para su aprobación el proyecto de presupuesto anual de ingresos y egresos del Instituto para su remisión al Congreso del Estado;
+IV. Fijar con carácter general los estándares básicos que deben cumplir los Defensores Públicos en la prestación del servicio;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+V. Proponer a la Junta de Gobierno para su aprobación el proyecto de presupuesto anual de ingresos y egresos del Instituto para su remisión al Congreso del Estado;
 
 VI. Administrar conforme a la legislación aplicable los fondos que le sean asignados al Instituto;
 
@@ -315,7 +371,9 @@ X. Elaborar y divulgar las estadísticas de la prestación del Servicio de Defen
 
 XI. Elaborar una memoria que dé cuenta de la gestión anual de los servicios de la Defensoría Pública;
 
-XII. Formular y aprobar el Reglamento de esta Ley;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XII. Formular y proponer el Reglamento de esta Ley y sus reformas en los términos de la normatividad aplicable;
 
 XIII. Expedir órdenes, circulares, manuales de organización y de procedimientos conducentes a la organización administrativa y al eficaz desempeño del Instituto;
 
@@ -323,9 +381,17 @@ XIV. Representar legalmente al Instituto ante cualquier autoridad federal, estat
 
 XV. Celebrar toda clase de contratos y convenios con entidades, dependencias y organismos públicos del gobierno federal, estatal y municipal, así como con personas físicas o morales privadas que sean necesarios para el cumplimiento del objeto del Instituto, incluyendo las adquisiciones de bienes, arrendamientos y servicios que conforme a los procedimientos legales aplicables requieran de contratación;
 
-XVI. Administrar los recursos humanos, materiales y financieros del Instituto, de acuerdo con lo establecido en las normas legales aplicables; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-XVII. Las demás que le asigne el Reglamento y otras disposiciones aplicables.
+XVI. Contratar al personal del Instituto y administrar sus recursos humanos, materiales y financieros, de acuerdo con lo establecido en las normas legales aplicables y la disponibilidad presupuestal del Instituto. Tratándose del servicio profesional de carrera, se estará a lo dispuesto en el Artículo 44 de esta Ley;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XVII. Crear las unidades administrativas que se requieran, particularmente las relacionadas con la implementación gradual del nuevo sistema de justicia penal, así como las necesarias para la adecuada aplicación y control de los recursos materiales y financieros, en los términos de la legislación en la materia; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XVIII. Las demás que le asigne el Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 23.
 
@@ -335,15 +401,31 @@ Para ser Director General del Instituto se requieren los mismos requisitos que p
 
 El Director General podrá contratar en los términos de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León, los servicios profesionales que eventualmente se requieran para atender un mayor volumen de trabajo de carácter temporal; por situaciones de emergencia o por implicar la necesaria utilización de una especialidad.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### Artículo 25.
 
-El Subdirector General será nombrado por el Director General. El Director General será suplido por el Subdirector General en sus ausencias temporales.
+La remuneración del Director General será igual a la de un Magistrado del Tribunal Superior de Justicia.
 
-Si la ausencia es definitiva o mayor a un mes, el Gobernador del Estado designará al servidor público que lo suplirá.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
 ###### Artículo 26.
 
-La remuneración del Director General será igual a la de un Magistrado del Tribunal Superior de Justicia.
+El Subdirector General será nombrado por el Director General, quien será suplido por aquel en sus ausencias temporales.
+
+Si la ausencia es definitiva o mayor a un mes, el Gobernador del Estado designará al servidor público que lo suplirá.
+
+El Subdirector General deberá:
+
+I. Vigilar, a través de los respectivos Directores, que los Defensores Públicos adscritos a las diversas áreas, respeten los derechos humanos de los usuarios;
+
+II. Vigilar, a través de los respectivos Directores, que los Defensores Públicos adscritos a las diversas áreas, recurran a los mecanismos alternativos de solución de controversias cuando precedieren;
+
+III. Vigilar, a través de los respectivos Directores, que los Defensores Públicos adscritos a las diversas áreas, ejerzan sus funciones bajo su respectiva responsabilidad, con estricto apego a los derechos fundamentales de sus representados;
+
+IV. Ejercer las funciones que específicamente le asigne el Director General, y
+
+V. Ejercer las funciones que le asigne esta Ley, su Reglamento y otras disposiciones legales aplicables.
 
 #### SECCIÓN QUINTA. DEL COMISARIO
 
@@ -377,7 +459,7 @@ Las facultades del Comisario se señalan sin perjuicio de las que le otorguen ot
 
 El Director General del Instituto para el mejor desempeño de sus funciones se auxiliará de la estructura administrativa y operativa que se establezca en el Reglamento de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 31.
 
@@ -389,13 +471,17 @@ II. Subdirección General;
 
 III. Dirección Administrativa;
 
-IV. Dirección de Defensa Penal ante el Ministerio Público;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+IV. Dirección de Defensa en Investigaciones Penales;
 
 V. Dirección de Defensa en Proceso Penal;
 
 VI. Dirección de Defensa en Segunda Instancia y Amparo;
 
-VII. Dirección de lo Civil, Mercantil, Contencioso Administrativo y Métodos Alternos para la Solución de Controversias;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+VII. Dirección de lo Civil, Mercantil y Justicia Administrativa;
 
 VIII. Dirección de Defensa Especializada en Justicia para Adolescentes;
 
@@ -419,9 +505,13 @@ XII. Dirección de Defensa en Ejecución de Sanciones; y
 
 XIII. Dirección del Centro de Formación Profesional.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
-El Reglamento de esta Ley, precisará su competencia, funcionamiento, atribuciones y obligaciones, así como los mecanismos necesarios para la adecuada implementación del sistema de justicia penal acusatorio y oral.
+El Instituto contará con una Unidad de Control Interno para dar cumplimiento a la normatividad relativa a la administración de recursos públicos, en los términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+El Reglamento de esta Ley, precisará la competencia, funcionamiento, atribuciones y obligaciones de las áreas que integran el Instituto, así como los mecanismos necesarios para la adecuada implementación del sistema de justicia penal acusatorio y oral.
 
 ### CAPÍTULO CUARTO. DE LOS DEFENSORES PÚBLICOS
 
@@ -445,11 +535,15 @@ El Defensor Público en el desempeño de sus funciones deberá observar las sigu
 
 I. No podrá tener interés personal con la causa ni con el usuario al que representa como consecuencia del desempeño de sus funciones. El Defensor Público estará obligado a manifestar a su superior cualquier circunstancia que implique conflicto de interés en los asuntos encomendados;
 
-II. Ejercer una defensa técnica idónea y verificar el respeto de los derechos humanos y el cumplimiento de las garantías judiciales por parte de las autoridades en los procesos y asuntos a su cargo;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+II. Ejercer una representación jurídica y defensa técnica idónea, verificando el cumplimiento de las garantías judiciales por parte de las autoridades en los procesos y asuntos a su cargo, así como el respeto a los derechos humanos;
 
 III. Interponer los recursos exclusivamente necesarios para una correcta defensa de los intereses que le han sido confiados;
 
-IV. Mantener personalmente informado, de manera comprensible, permanente, continua y veraz al usuario del servicio sobre el desarrollo y seguimiento del proceso o asunto, con el fin de garantizar una relación de confianza. En caso de no ser posible la comunicación personal y directa se podrá establecer por otros medios;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+IV. Mantener personalmente informado, de manera comprensible, permanente, continua y veraz al usuario del servicio y a sus familiares en los asuntos penales, sobre el desarrollo y seguimiento de su proceso, con el fin de propiciar una relación de confianza. En caso de no ser posible la comunicación personal y directa se podrá establecer por otros medios;
 
 V. Guardar absoluta reserva y secreto sobre los hechos, informaciones o cualquier otro dato o evidencia conocidos en el desempeño de su trabajo, salvo las excepciones establecidas en la Ley y demás disposiciones legales aplicables;
 
@@ -457,9 +551,25 @@ VI. Acatar las normas que regulan el ejercicio profesional del abogado y las que
 
 VII. Rendir un informe mensual a su superior jerárquico;
 
-VIII. Someterse a una capacitación y actualización permanente que asegure la eficiencia del servicio. Deberá cumplir con carácter obligatorio el programa de capacitación y actualización anual que determine la unidad correspondiente; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-IX. Las demás que deriven de su función como Defensor Público, del Reglamento y las que le asigne individualmente el Director General.
+VIII. Someterse a una capacitación y actualización permanente que asegure la eficiencia del servicio. Deberá cumplir con carácter obligatorio el programa de capacitación y actualización anual que el Director General determine;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+IX. Entrevistar al imputado para conocer directamente su versión de los hechos que motivan la investigación o detención, a fin de ofrecer los datos y medios de prueba y exponer los argumentos que le sirvan para justificar o explicar su eventual participación en los mismos;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+X. Asesorar al imputado sobre el derecho a denunciar probables violaciones a los derechos humanos, independientemente de la autoridad de que se trate;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XI. Informar a sus superiores jerárquicos de las quejas que los usuarios les hagan saber sobre el trato que reciban en los centros de detención o establecimientos penitenciarios para los efectos legales conducentes, y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XII. Las demás que deriven de su función como Defensor Público, del Reglamento y las que le asigne individualmente el Director General.
 
 ###### Artículo 34.
 
@@ -471,13 +581,27 @@ La remuneración de un Defensor Público será igual a la que perciba un Agente 
 
 Está prohibido a los Defensores Públicos:
 
-I. Orientar, asesorar, patrocinar o asumir defensa como abogado particular, en cuyo caso será cesado como Defensor Público, independientemente de las responsabilidades en que incurra por su carácter de servidor público;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+I. Orientar, asesorar, patrocinar o asumir defensa como abogado particular, por sí o por interpósita persona, en cuyo caso será cesado como Defensor Público, independientemente de las responsabilidades en que incurra por su carácter de servidor público;
 
 II. Actuar como apoderado judicial, tutor, curador o albacea, a menos que sean herederos o legatarios. También ser depositario judicial, síndico, administrador, interventor en quiebra o concurso, corredor, comisionista o fiador en los asuntos que intervengan o hubieren intervenido oficialmente;
 
-III. Desempeñar funciones que fuesen incompatibles con las que les correspondan conforme a esta Ley y el Reglamento; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-IV. Patrocinar asuntos que no le correspondan o no estén expresamente autorizados.
+III. Desempeñar funciones que fuesen incompatibles con las que les correspondan conforme a esta Ley y su Reglamento;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+IV. Solicitar o recibir en todo tiempo, directa o indirectamente, retribución alguna de parte de los usuarios, ya sea en numerario o especie;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+V. Desempeñar otro empleo, cargo o comisión de la Federación, del Estado o de los Municipios incluyendo el ministerio de algún culto religioso, salvo los cargos honoríficos, actividades académicas o docentes, siempre que su desempeño no perjudique las funciones y labores propias del Instituto, y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+VI. Patrocinar asuntos que no le correspondan o no estén expresamente autorizados.
 
 #### SECCIÓN TERCERA. DE LAS EXCUSAS Y LA PRESTACIÓN DEL SERVICIO
 
@@ -487,11 +611,11 @@ IV. Patrocinar asuntos que no le correspondan o no estén expresamente autorizad
 
 Una vez designado Defensor Público en la materia penal o tratándose de justicia para adolescentes no podrá excusarse de asumir la representación del imputado o sentenciado salvo impedimento legal.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
 ###### Artículo 37.
 
-Los Defensores Públicos adscritos a las Direcciones respectivas conforme al artículo 31, deberán excusarse de aceptar o continuar la defensa de un imputado o sentenciado o adolescente imputado en los casos y en los términos previstos en esta Ley y en el Reglamento.
+Los Defensores Públicos adscritos a las Direcciones respectivas, deberán excusarse de aceptar o continuar los servicios al usuario, en los casos y en los términos previstos en esta Ley y en su Reglamento.
 
 ###### Artículo 38.
 
@@ -515,15 +639,25 @@ Tratándose de la prestación de servicios en materia diversa a la penal y de ju
 
 Si el solicitante fuese la contraparte en el asunto cuya representación se encuentre a cargo del Instituto, únicamente se brindará la prestación del servicio si el interesado se encontrare en alguno de los siguientes supuestos:
 
-I. La persona estuviere desempleada y no perciba ingresos económicos propios;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-II. La persona fuere jubilada o pensionada;
+I. Ser desempleado y no perciba ingresos económicos propios;
 
-III. La persona tuviere setenta o más años de edad;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-IV. La persona fuere trabajador eventual o subempleado; o
+II. Ser jubilado o pensionado;
 
-V. La persona fuere indígena.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+III. Tener setenta o más años de edad;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+IV. Ser trabajador eventual o subempleado; o
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+V. Ser indígena.
 
 Para determinar si el solicitante de los servicios de asistencia jurídica reúne los requisitos establecidos para que se otorgue el servicio, se requerirá estudio socioeconómico.
 
@@ -533,13 +667,21 @@ En el supuesto de este artículo, el servicio de defensoría será prestado, en 
 
 #### SECCIÓN CUARTA. DEL APOYO TÉCNICO A LOS DEFENSORES PÚBLICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### Artículo 40.
 
-En caso de que el Instituto carezca de peritos propios, solicitará los servicios de especialistas externos. Será obligatorio para las Dependencias o Entidades de la Administración Pública del Estado colaborar cuando dispongan dentro de su personal de los especialistas que pudieran desempeñar cargos de perito según la materia de que se trate.
+En caso de que el Instituto carezca de peritos propios, solicitará los servicios de especialistas externos. Será obligatorio para las Dependencias o Entidades de la Administración Pública del Estado, así como para las Universidades Públicas, apoyar al Instituto de forma gratuita cuando se requiera de especialistas que pudieran desempeñar cargos de peritos según la materia de que se trate.
 
-En los asuntos en los que no sea contraparte la Procuraduría General de Justicia del Estado podrá apoyar al Instituto por conducto de la Dirección de Criminalística y Servicios Periciales.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+En los asuntos en los que no sea contraparte la Procuraduría General de Justicia del Estado podrá apoyar al Instituto por conducto del área de Criminalística y Servicios Periciales.
 
 Adicionalmente en todos los asuntos de orden penal y de justicia para adolescentes, el Instituto podrá concertar convenios de colaboración y apoyo pericial con Asociaciones, Colegios de Profesionistas, Universidades y Centros Hospitalarios del Estado y demás instituciones a fin de asistirse para el cumplimiento de los propósitos de la defensa pública.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+El Instituto podrá contar con peritos propios cuando el costo y volumen de asuntos llevados a juicio así lo requiera.
 
 #### SECCIÓN QUINTA. DE LAS MODALIDADES PARA EL CONTROL DEL SERVICIO
 
@@ -639,7 +781,7 @@ EL C. OFICIAL MAYOR DE GOBIERNO
 
 ALFREDO GERARDO GARZA DE LA GARZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE JULIO DE 2009.
 
@@ -652,3 +794,11 @@ P.O. 24 DE DICIEMBRE DE 2010.
 P.O. 5 DE AGOSTO DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 26 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- Todos los asuntos en trámite deberán ser concluidos en los términos previos al inicio de la vigencia del presente Decreto.
+
+Artículo Tercero.- El Director General del Instituto deberá formular y proponer las reformas necesarias al Reglamento de la Ley de Defensoría Pública para el Estado de Nuevo León, o en su caso la emisión de un nuevo ordenamiento, en un plazo máximo de sesenta días contados a partir de la entrada en vigor del presente Decreto.
