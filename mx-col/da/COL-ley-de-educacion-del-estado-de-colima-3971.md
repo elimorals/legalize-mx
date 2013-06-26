@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-3971"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-28"
-last_updated: "2013-04-27"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de mayo de 1994.
 
@@ -139,7 +139,7 @@ XVIII.- Promoverá y fomentará la competitividad de los educandos, entendida é
 
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2012)</small>
 
-XlX.- Realizará acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo; y
+XIX.- Realizará acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo; y
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2012)</small>
 
@@ -845,9 +845,11 @@ De igual manera, el Programa deberá tener un apartado que permita evaluar la ca
 
 Los nombramientos, licencias, cambios de adscripción, destituciones, suspensiones, estímulos y recompensas del personal docente y administrativo, se regirán por las disposiciones contenidas en la presente Ley y sus reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 87.
 
-Los trabajadores estatales de la educación que acrediten una antigüedad en el servicio de 30 años, en el caso de los varones, y 28, en el caso de las mujeres, tendrán derecho a una jubilación equivalente al 100% del salario que perciban, así como las demás prestaciones correspondientes derivadas del acuerdo celebrado entre el Ejecutivo y la representación sindical. Así mismo, tendrán derecho a recibir ellos mismos o sus beneficiarios pensión por invalidez, muerte o retiro por edad avanzada. En caso de muerte se dará origen a la pensión por viudez, concubinato u orfandad en los términos que establezca el reglamento respectivo.
+Los trabajadores estatales de la educación que acrediten una antigüedad en el servicio de 30 años, en el caso de los varones, y 28, en el caso de las mujeres, tendrán derecho a una jubilación equivalente al 100% del salario que perciban, así como las demás prestaciones correspondientes derivadas del acuerdo celebrado entre el Ejecutivo y la representación sindical, las que en ningún caso serán superiores al equivalente a dieciséis salarios mínimos diarios vigente en la Entidad por día. Así mismo, tendrán derecho a recibir ellos mismos o sus beneficiarios pensión por invalidez, muerte o retiro por edad avanzada, en los términos que establezca el reglamento respectivo; en caso de muerte se dará origen a la pensión por viudez, concubinato u orfandad.
 
 El reglamento de las condiciones generales de trabajo del personal en servicio señalará sus derechos, obligaciones, prestaciones laborales y sociales, así como un sistema de estímulos y recompensas. En el mismo se establecerá que el Gobierno del Estado proporcionará a dichos trabajadores y a sus familiares, en primer grado, tanto ascendientes como descendientes, servicio médico, farmacéutico, quirúrgico, hospitalario y de laboratorio, de acuerdo con el convenio existente, a través de la Dirección de Pensiones Civiles o del organismo que convengan las partes.
 
@@ -1252,3 +1254,9 @@ P.O. 27 DE ABRIL DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para el cumplimiento de lo previsto en el artículo 85 de este Decreto, la Secretaría de Educación contará con un plazo de cuatro meses después de su publicación.
+
+P.O. 26 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Lo dispuesto en el presente Decreto no será aplicable a aquellos trabajadores que el 31 de diciembre de 2013 cumplan con los requisitos que la Ley de Educación del Estado de Colima establece para ser acreedor a una pensión por jubilación.
