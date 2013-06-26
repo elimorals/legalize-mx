@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2012-06-27"
+last_updated: "2013-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -211,9 +211,23 @@ XI. Fomentar el apoyo de becas a todos los niveles y en especial a los jóvenes 
 
 XII. Promover las prácticas profesionales en los sectores públicos y privados que coadyuven a fortalecer los conocimientos de los jóvenes en las áreas de su interés;
 
-XIII. Promover en los medios de comunicación mensajes educativos y de reconocimiento de los derechos y obligaciones de los jóvenes; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-XIV. Facilitar la inserción de los jóvenes en los proyectos de desarrollo cultural.
+XIII. Promover en los medios de comunicación mensajes educativos y de reconocimiento de los derechos y obligaciones de los jóvenes;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XIV. Facilitar la inserción de los jóvenes en los proyectos de desarrollo cultural; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XV. Premiar al alumno que haya obtenido el mejor promedio de la generación del nivel superior de cada una de las Instituciones Públicas del sistema educativo estatal.
+
+Al titular del mejor promedio de cada una de las instituciones educativas se le otorgará una beca para cursar el nivel de posgrado en universidad pública del Estado.
+
+El titular del Ejecutivo Estatal garantizara su cumplimiento dentro de los primeros quince días del siguiente año escolar.
+
+En caso de empate se determinará al ganador mediante procedimiento público de insaculación que realice el Instituto.
 
 ###### Artículo 14.
 
@@ -455,7 +469,7 @@ EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
 
 JOSÉ NATIVIDAD GONZÁLEZ PARÁS
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE MARZO DE 2010.
 
@@ -470,3 +484,7 @@ Segundo.- El Ejecutivo del Estado deberá realizar las modificaciones que corres
 P.O. 27 DE JUNIO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
