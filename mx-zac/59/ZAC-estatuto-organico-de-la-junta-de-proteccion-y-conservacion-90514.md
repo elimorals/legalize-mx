@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-de-la-junta-de-proteccion-y-conservacion-9051
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-11-28"
-last_updated: "2012-11-28"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 ESTATUTO ORGÁNICO DE LA JUNTA DE PROTECCIÓN Y CONSERVACIÓN DE MONUMENTOS Y ZONAS TÍPICAS DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA JUNTA DE PROTECCIÓN Y CONSERVACIÓN DE MONUMENTOS Y ZONAS TÍPICAS DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. 26 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 28 de noviembre de 2012.
 
@@ -720,3 +722,17 @@ Tercero.- Los asuntos que se encuentren en trámite a cargo de las Direcciones, 
 Cuarto.- Dentro del término de ciento ochenta días contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberán expedirse y publicarse en el Periódico Oficial Órgano del Gobierno del Estado los Manuales correspondientes.
 
 APROBADO POR LA JUNTA DE PROTECCIÓN Y CONSERVACIÓN DE MONUMENTOS Y ZONAS TÍPICAS DEL ESTADO DE ZACATECAS EN SESIÓN CELEBRADA EN LA CIUDAD DE ZACATECAS, ZAC., BAJO EL NÚMERO DE ACUERDO: 338-25/X/2012/V-1, A LOS 25 DÍAS DEL MES OCTUBRE DEL 2012.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2013.
+
+Primero.- El presente Estatuto Orgánico, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Segundo.- Se Abroga el Estatuto Orgánico de la Junta de Protección y Conservación de Monumentos y Zonas Típicas del Estado de Zacatecas, publicado el 21 de noviembre del 2012, en Suplemento 1 al 94 del Periódico Oficial, Órgano del Gobierno del Estado.
+
+Tercero.- Se derogan las disposiciones administrativas que se (sic) contravengan al presente Estatuto Orgánico
+
+Cuarto.- Los asuntos que se encuentren en trámite a cargo de las Direcciones, Subdirecciones y Departamentos que se modifiquen o cambien de adscripción, los continuará y resolverán las áreas que el presente Estatuto Orgánico establezca.
+
+Quinto.- Dentro del término de 30 días naturales, se expedirá el Manual de Organización y 180 días naturales para el Manual de Procedimientos, contados a partir de la entrada en vigor del presente Estatuto Orgánico.
