@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-del-trabajo-y-70807"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-04"
-last_updated: "2011-08-24"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PRODUCTIVIDAD
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PRODUCTIVIDAD
+REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PRODUCTIVIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 26 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 4 de noviembre de 2009.
 
@@ -547,7 +549,7 @@ IX. Desempeñar las comisiones que le confiera el Secretario, y
 
 X. Las demás que establezca su Reglamentación Interna y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 23.
 
@@ -735,10 +737,20 @@ ING. VÍCTOR AMADOR REYES ADAMS
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE AGOSTO DE 2011.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que contravengan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2013.
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Trabajo publicado en el Periódico Oficial "Tierra y Libertad", número 4753, el cinco de noviembre del dos mil nueve, así como todas las disposiciones de igual ó menor rango jerárquico normativo que se opongan al presente Reglamento.
+
+TERCERA. En un plazo de noventa días hábiles, a partir de la vigencia del presente ordenamiento, la Secretaría del Trabajo en apego a la metodología que establezca la Secretaría de Administración del Poder Ejecutivo efectuará las modificaciones que sean necesarias a los Manuales de Organización, y de Políticas y Procedimientos correspondientes. En tanto se expidan dichos manuales, seguirán vigentes los anteriores y en su caso, el Secretario del Trabajo resolverá las cuestiones de procedimiento y operación que se originen con la aplicación de este ordenamiento legal.
+
+CUARTA. Dentro de un plazo de noventa días hábiles contados a partir de la vigencia del presente Reglamento, en medida que sea necesaria; se realizarán las modificaciones y adecuaciones necesarias a los reglamentos de los órganos desconcentrados de la Secretaría del Trabajo.
