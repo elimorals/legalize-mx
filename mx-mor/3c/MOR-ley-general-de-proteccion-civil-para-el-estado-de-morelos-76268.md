@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-proteccion-civil-para-el-estado-de-morelos-76268
 country: "mx"
 rank: "ley_general"
 publication_date: "2010-08-25"
-last_updated: "2010-08-25"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY GENERAL DE PROTECCION CIVIL PARA EL ESTADO DE MORELOS
 
-LEY GENERAL DE PROTECCION CIVIL PARA EL ESTADO DE MORELOS
+LEY GENERAL DE PROTECCIÓN CIVIL PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 25 de agosto de 2010.
 
@@ -511,9 +511,11 @@ X. Expedir el Reglamento Interno;
 
 XI. Las demás que se señalen en la presente Ley, su Reglamento y las que le atribuyan otros ordenamientos.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 35.
 
-El Consejo Estatal de Protección Civil, se reunirá en sesiones ordinarias o extraordinarias, previa convocatoria del Presidente o Secretario Ejecutivo, en los plazos y términos que acuerde el consejo o establezca el Reglamento Interior, las sesiones ordinarias se celebrarán al menos dos veces al año y las extraordinarias cuando la situación de riesgo o emergencia lo amerite.
+El Consejo Estatal de Protección Civil, se reunirá en sesiones ordinarias o extraordinarias, previa convocatoria del Presidente o Secretario Ejecutivo, en los plazos y términos que acuerde el propio Consejo o se establezca reglamentariamente. En todo caso, las sesiones ordinarias se celebrarán al menos cuatro veces al año y las extraordinarias cuando la situación de riesgo o emergencia lo amerite.
 
 ###### ARTÍCULO 36.
 
@@ -1546,3 +1548,13 @@ SECRETARIO DE GOBIERNO
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2013.
+
+PRIMERO.- Remítase la presente Iniciativa de Ley al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los Artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Estado de Morelos.
+
+TERCERO.- Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
