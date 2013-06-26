@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2013-01-05"
+last_updated: "2013-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -391,7 +391,9 @@ XXIV.- Expedir leyes para regular las relaciones de trabajo entre el gobierno de
 
 XXV.- Nombrar Gobernador interino cuando la falta del propietario sea temporal o designar sustituto si la falta del mismo propietario fuere absoluta, mediante los procedimientos establecidos en esta Constitución;
 
-XXVI.- Otorgar o negar su aprobación a los nombramientos de los Magistrados del Supremo Tribunal de Justicia, expedidos por el Ejecutivo en los términos que establece esta Constitución;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XXVI. Otorgar o negar su aprobación a los nombramientos de los Magistrados del Supremo Tribunal de Justicia y del Procurador General de Justicia expedidos por el Ejecutivo en los términos que establece esta Constitución;
 
 XXVII.- Conocer de las renuncias y licencias de los Diputados y del Gobernador; y otorgar o negar su aprobación a las solicitudes de licencia por más de dos meses o renuncias de los Magistrados del Supremo Tribunal, que le someta el Ejecutivo del Estado;
 
@@ -691,9 +693,11 @@ II.- Promulgar, ejecutar y hacer que se ejecuten las Leyes y Decretos haciendo u
 
 III.- Formar los reglamentos y dictar las providencias que demande la mejor ejecución de las leyes.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-IV. Nombrar y remover libremente a los Secretarios de la Administración Pública Estatal, al Procurador General de Justicia y a los demás servidores públicos cuyos nombramientos o remoción no correspondan, conforme a la ley, a otra autoridad.
+IV. Nombrar y remover libremente a los Secretarios de la Administración Pública Estatal, y a los demás servidores públicos cuyos nombramientos o remoción no correspondan, conforme a la ley, a otra autoridad.
+
+Nombrar con aprobación del Congreso al Procurador General de Justicia y removerlo libremente;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1129,11 +1133,21 @@ El Ministerio Público tendrá un titular que se denominará Procurador General 
 
 Para la investigación de los delitos y persecución de los delincuentes, la Procuraduría contará con un cuerpo policíaco de investigación que estará bajo el mando directo del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
 ###### Artículo 82.
 
-El Procurador General de Justicia será nombrado y removido libremente por el Ejecutivo del Estado, de quien dependerá en forma directa. El nombramiento y remoción de los demás servidores públicos de esta Institución será conforme a lo dispuesto por su propia ley orgánica.
+El Procurador General de Justicia dependerá directamente del Gobernador y será nombrado por éste con la aprobación de la mayoría absoluta de los miembros del Congreso del Estado.
+
+El Gobernador nombrará al Procurador y enviará el nombramiento al Congreso del Estado, el cual otorgará o negará la aprobación, dentro del término improrrogable de 15 días hábiles. Si el Congreso no resolviere dentro de dicho término, se tendrá por aprobado el nombramiento, en este caso, el Ejecutivo solicitará al Congreso tome la protesta de Ley; en caso de negativa o falta de respuesta por parte del Congreso, transcurrido cinco días, el Ejecutivo podrá tomar la protesta señalada. Sin la toma de protesta no podrá tomar posesión el Procurador nombrado.
+
+Si el Congreso niega la aprobación, el Gobernador hará una segunda designación y se procederá en la misma forma que el párrafo anterior. En caso de que el Congreso niegue la aprobación de dos designaciones sucesivas, el Gobernador nombrará libremente a quien ocupará dicho cargo.
+
+En tanto el Congreso substancia el trámite para otorgar la aprobación o la designación del Gobernador surte los efectos previstos en los párrafos anteriores, el Procurador será suplido en la forma que determine la Ley Orgánica de la Institución.
+
+Las faltas temporales del Procurador que no excedan de tres meses, o su ausencia por defunción o por cualquier causa de separación definitiva, serán suplidas en términos del párrafo anterior, en tanto el Gobernador del Estado somete un nuevo nombramiento a la aprobación del Congreso.
+
+El nombramiento y remoción de los demás servidores públicos de esta Institución se realizará en los términos de su propia Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2135,9 +2149,9 @@ VIII.- Por el carácter plural de la sociedad colimense, las autoridades están 
 
 IX.- Corresponde al Estado planear, participar, conducir, coordinar y orientar el desarrollo de la Entidad, para que mediante el fomento del crecimiento económico y el empleo y una justa distribución del ingreso, se permita el pleno ejercicio de la libertad y la dignidad de individuos y grupos sociales cuya seguridad y bienestar protege esta Constitución.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-X.- Todas las autoridades, dentro de la esfera de sus atribuciones, estarán obligadas en su ejercicio a vigilar por la conservación, protección y fomento del medio ambiente y de los recursos naturales de la entidad.
+X.- Todas las autoridades, dentro de la esfera de su competencia y en el marco de sus atribuciones, están obligadas a vigilar y garantizar el derecho a vivir en un medio ambiente sano y equilibrado; así como a promover una adecuada conservación y protección del medio ambiente y de los recursos naturales de la entidad;
 
 > <small>(REFORMADA, P.O. 5 DE ENERO DE 2013)</small>
 
@@ -3006,6 +3020,10 @@ P.O. 29 DE SEPTIEMBRE DE 2012.
 P.O. 5 DE ENERO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
