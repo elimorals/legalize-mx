@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4654
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-15"
-last_updated: "2010-10-02"
+last_updated: "2013-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 15 de octubre de 2005.
 
@@ -51,13 +51,21 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
 ### CAPÍTULO ÚNICO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2013)</small>
+
 ###### Artículo 1.
 
-La presente Ley es reglamentaria del artículo 4°, fracción II de la Constitución Política del Estado de Chihuahua y tiene por objeto garantizar el derecho de acceso a la información pública y la protección de datos personales.
+La presente Ley es reglamentaria del artículo 4°, fracción II, de la Constitución Política del Estado de Chihuahua y tiene por objeto garantizar el derecho de acceso a la información pública.
 
 La información pública, materia de este ordenamiento, es un bien del dominio público en poder del Estado, cuya titularidad reside en la sociedad, misma que tendrá en todo momento la facultad de disponer de ella para los fines que considere.
 
-Sólo en los casos previstos expresamente por esta Ley, se limitará el acceso a dicha información.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+Solo en los casos previstos expresamente por esta Ley, así como en la Ley de Protección de Datos Personales del Estado de Chihuahua, se limitará el acceso a dicha información.
 
 ###### Artículo 2.
 
@@ -89,7 +97,9 @@ XI.- Difundir ampliamente la información que generen los Sujetos Obligados.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- Acción de Hábeas Data o de Protección de Datos Personales.- El ejercicio del titular de los datos personales para acceder, actualizar, rectificar, suprimir o mantener la confidencialidad de dicha información.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+I.- (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
 II.- Comité de Información.- Cuerpo colegiado del Sujeto Obligado encargado de vigilar que se cumpla, en la esfera de su competencia, con lo establecido en esta Ley y su reglamento.
 
@@ -99,7 +109,9 @@ IV.- Datos Sensibles o Información Personalísima.- Los que corresponden a un p
 
 V.- Ente Público.- Los Órganos Constitucionales Autónomos, las dependencias y entidades señaladas en la Constitución Política del Estado, en las leyes orgánicas de los poderes Ejecutivo, Legislativo y Judicial, en la Ley de Entidades Paraestatales y en el Código Municipal del Estado, así como en las demás leyes, decretos y ordenamientos jurídicos mediante los cuales se creen organismos de derecho público.
 
-VI.- Hábeas Data.- El derecho relativo a la tutela de los datos personales en poder de los Sujetos Obligados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VI.- (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
 VII.- Información Confidencial.- La información clasificada como tal en los términos de esta Ley, relativa a datos personales y restringida de manera indefinida al acceso público.
 
@@ -113,7 +125,9 @@ XI.- Ley.- La Ley de Transparencia y Acceso a la Información Pública del Estad
 
 XII.- Reglamento.- Conjunto de normas que desarrollan los contenidos generales de la Ley.
 
-XIII.- Sistema de Datos Personales.- El conjunto organizado de datos personales que estén en posesión de un Sujeto Obligado, cualquiera que fuere su forma o modalidad de creación, almacenamiento, organización o acceso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XIII.- (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
 XIV.- Sistema de Información Pública.- El integrado por el Instituto, la información, los Sujetos Obligados, las personas facultadas para tener acceso a la información pública, la propia Ley, su reglamento y procedimientos que vinculan al estado y los municipios con las personas facultadas.
 
@@ -123,7 +137,9 @@ XVI.- Servidor Público.- Toda persona física que desempeñe en un ente públic
 
 XVII.- Transparencia.- Atributo de la información pública que consiste en que ésta sea clara, oportuna, veraz, con perspectiva de género y suficiente, en los términos de Ley.
 
-XVIII.- Tratamiento de Datos.- Operaciones y procedimientos técnicos de carácter automatizado o no, que permiten obtener, almacenar, grabar, elaborar, modificar, resguardar, disociar y eliminar datos de carácter personal, así como las cesiones de datos que resulten de comunicaciones, consultas, interconexiones y transferencias.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XVIII.- (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
 XIX.- Unidad de Información.- Órgano encargado de operar el sistema de información, cuyas funciones son las de registrar y procesar la información pública.
 
@@ -189,7 +205,11 @@ VIII.- Establecer las medidas necesarias para la protección de archivos y siste
 
 IX.- Contar con espacios físicos determinados para resguardar sus archivos, siguiendo en todo momento las especificaciones técnicas que el Instituto establezca.
 
-Los responsables de los archivos vigilarán la custodia y seguridad jurídica y material de los acervos que conforman la memoria documental del Estado, debiendo conservar los documentos que contengan información pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+Los responsables de los archivos vigilarán la custodia y seguridad jurídica y material de los acervos que conforman la memoria documental del Estado, debiendo conservar los documentos que contengan información pública, en los términos de la ley de Archivos del Estado de Chihuahua.
 
 X.- Capacitar y actualizar, de forma permanente, a sus servidores públicos en la cultura de la apertura informativa, el respeto al derecho a la intimidad y a la protección de los datos personales.
 
@@ -331,7 +351,11 @@ IX.- Elaborar un catálogo de información o de expedientes clasificados, actual
 
 X.- Verificar, en cada caso, que la información solicitada no esté clasificada como reservada o confidencial.
 
-XI.- Recibir las solicitudes de aclaración, la acción de Hábeas Data y los recursos de revisión, dándoles el seguimiento que corresponde.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+XI.- Recibir las solicitudes de aclaración y los recursos de revisión, dándoles el seguimiento que corresponde.
 
 XII.- Conocer y resolver, en su caso, las solicitudes de aclaración que se presenten contra las resoluciones emitidas por los Sujetos Obligados.
 
@@ -585,55 +609,53 @@ La información clasificada como reservada tendrá este carácter hasta por seis
 
 Excepcionalmente, los Sujetos Obligados podrán solicitar al Instituto la ampliación del período de reserva hasta por otro igual, siempre y cuando justifiquen que subsisten las causas que dieron origen a su clasificación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2013)</small>
+
 ### CAPÍTULO III. HÁBEAS DATA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 36.
 
-Toda persona tiene derecho a la protección de sus datos personales.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 37.
 
-Nadie podrá ser obligado a proporcionar información referente a sus datos sensibles o aquella que pudiera propiciar expresión de discriminación e intolerancia sobre su persona, honor, reputación y dignidad, salvo que la información sea estrictamente necesaria para proteger su vida y seguridad personal o lo prevea alguna disposición legal.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-No podrá invocarse el carácter de información reservada o confidencial, cuando se trate de la investigación de violaciones graves de derechos fundamentales o delitos de lesa humanidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 38.
 
-Toda persona que demuestre su identidad tiene derecho a acceder a información sobre sí misma o sus bienes asentada en archivos, bases de datos o registros públicos, así como a actualizar, rectificar, suprimir o mantener la confidencialidad de dicha información.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 39.
 
-La acción de protección de los datos personales o de Hábeas Data, procede:
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-I.- Para acceder a los datos personales contenidos en archivos, registros o bancos de datos en poder de los Sujetos Obligados.
-
-II.- Para exigir su actualización, rectificación, supresión o confidencialidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 40.
 
-Los Sujetos Obligados, por conducto de su Unidad de Información, dispondrán de los medios necesarios para que las personas accedan a sus datos personales y estén en condiciones de hacer efectiva la acción de Hábeas Data, a efecto de determinar que éstos:
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
-I.- Sigan siendo necesarios o pertinentes para cumplir los fines para los que fueron requeridos.
-
-II.- Sean utilizados o se pongan a disposición del público o de terceros, sin el previo consentimiento expreso y por escrito del interesado o su representante legal, con propósitos distintos e incompatibles con los fines originalmente señalados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 41.
 
-Las unidades de información deberán recibir y dar curso a las acciones de Hábeas Data.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 42.
 
-El procedimiento para el ejercicio de la acción de Hábeas Data, se sujetará a lo siguiente:
-
-I.- Será presentado por el interesado ante la Unidad de Información y estará dirigido al Sujeto Obligado que tenga en su poder los archivos, registros o bancos de datos, que contengan información de su persona.
-
-La solicitud podrá ser presentada por escrito, en formato o a través de algún medio o sistema electrónico.
-
-II.- El Sujeto Obligado, por conducto de la Unidad de Información, resolverá lo procedente dentro del término de diez días hábiles contados a partir de la recepción de la solicitud.
-
-III.- La negativa a la solicitud de Hábeas Data deberá ser notificada de oficio al particular, debidamente fundada y motivada.
-
-En caso de que no se resuelva dentro del término señalado, o la resolución no sea favorable a los intereses del promovente, éste podrá ocurrir ante la Unidad de Información o el Instituto a interponer el recurso de revisión establecido en esta ley.
+(DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
 ## TÍTULO CUARTO. DEL INSTITUTO CHIHUAHUENSE PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -741,17 +763,11 @@ h).- Proponer a los Sujetos Obligados, reducciones en el cobro por concepto de d
 
 i).- Ejercer las demás facultades previstas en esta Ley para salvaguardar el derecho de acceso a la información pública.
 
-II.- En materia de protección de datos personales:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-a).- Establecer las normas, criterios y políticas para la administración, seguridad y tratamiento de la información referente a datos personales en poder de los Sujetos Obligados.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-b).- Establecer un listado que contenga la referencia de los sistemas de datos personales en poder de los Sujetos Obligados.
-
-c).- Requerir, recibir, analizar y sistematizar los informes que deberán enviarle los Sujetos Obligados, en este rubro.
-
-d).- Conocer y resolver los recursos de revisión que se interpongan.
-
-e).- Ejercer las demás facultades previstas en esta Ley, para la protección de este derecho.
+II.- En materia de protección de datos personales, las previstas en la Ley de Protección de Datos Personales del Estado de Chihuahua.
 
 III.- En materia de cultura de transparencia, acceso a la información pública y protección de datos personales:
 
@@ -771,7 +787,11 @@ g).- Orientar y auxiliar a las personas para ejercer los derechos de acceso a la
 
 h).- Impulsar, conjuntamente con instituciones de educación superior, la integración de centros de investigación, difusión y docencia sobre la transparencia, el derecho de acceso a la información pública y la protección de datos personales, que promuevan el conocimiento sobre estos temas y coadyuven con el Instituto en sus tareas sustantivas.
 
-i).- Establecer las políticas de creación, clasificación, tratamiento, conservación y resguardo de la información contenida en todos y cada uno de los archivos públicos e históricos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+i).- Participar, en conjunto con el Archivo General del Estado, en el establecimiento de las políticas de creación, clasificación, tratamiento, conservación y resguardo de la información contenida en todos y cada uno de los archivos públicos e históricos.
 
 j).- Las demás que resulten necesarias para lograr estos objetivos.
 
@@ -787,7 +807,9 @@ c).- Expedir el reglamento interior del Instituto y el del servicio profesional 
 
 d).- Implementar las medidas necesarias para la sistematización y la protección de los archivos en poder de los Sujetos Obligados.
 
-e).- Establecer los lineamientos técnicos a efecto de determinar la forma de clasificación, resguardo, conservación y protección de los archivos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+e).- (DEROGADO, P.O. 26 DE JUNIO DE 2013)
 
 V.- En materia de administración y gobierno interno:
 
@@ -919,9 +941,15 @@ V.- Desacatar las resoluciones del Instituto dictadas en materia de recursos.
 
 VI.- Entregar a los particulares información incomprensible, insuficiente, distinta a la solicitada o inoportuna o falsa, vulnerando los atributos de transparencia que establece esta Ley.
 
-VII.- Alterar, falsear, destruir, comercializar, sustraer, ocultar, inutilizar, usar o difundir información pública y datos personales de manera indebida intencionalmente, valiéndose de cualquier medio o persona.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- Realizar el tratamiento de datos personales al margen o en contra de lo dispuesto por la Ley y su reglamento, ya sea por negligencia o dolosamente.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+VII.- Alterar, falsear, destruir, comercializar, sustraer, ocultar; inutilizar, usar o difundir información pública de manera indebida intencionalmente, valiéndose de cualquier medio o persona.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VIII.- (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
 IX.- Proporcionar información al margen o en contra de lo dispuesto por la Ley y su reglamento, ya sea por negligencia o dolosamente.
 
@@ -1075,11 +1103,17 @@ I.- Manifieste al particular no contar con la información solicitada.
 
 II.- Clasifique la información como reservada o confidencial y el particular no esté de acuerdo con dicha clasificación.
 
-III.- Se niegue a efectuar las modificaciones relativas a los datos personales o realice un tratamiento inadecuado en contravención a las disposiciones de esta Ley o su reglamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+III.- (DEROGADA, P.O. 26 DE JUNIO DE 2013)
 
 IV.- Entregue información que no reúna los requisitos previstos en esta Ley.
 
-V.- No dé respuesta a la solicitud de acceso a la información y de protección de datos personales, en los plazos establecidos en el presente ordenamiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+
+V.- No dé respuesta a la solicitud de acceso a la información en los plazos establecidos en el presente ordenamiento.
 
 VI.- No atienda la solicitud de aclaración.
 
@@ -1105,9 +1139,11 @@ La Secretaría Ejecutiva emitirá el acuerdo de recepción del recurso de revisi
 
 Una vez recibido el recurso de revisión, la persona titular de la Secretaría Ejecutiva asignará por riguroso turno el expediente al Consejero que corresponda.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El Secretario Ejecutivo hará del conocimiento del Consejero ponente el desarrollo de la tramitación del recurso de revisión en todas sus etapas, a efecto de que, en su caso, el ponente someta a consideración del Consejo General los acuerdos necesarios para garantizar el derecho de acceso a la información pública y el de protección de datos personales.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+
+El Secretario Ejecutivo hará del conocimiento del Consejero ponente el desarrollo de la tramitación del recurso de revisión en todas sus etapas, a efecto de que, en su caso, el ponente someta a consideración del Consejo General los acuerdos necesarios para garantizar el derecho de acceso a la información pública.
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1352,3 +1388,91 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 1207/2013 X P.E., POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IX DEL ARTÍCULO 7, Y EL INCISO I) DE LA FRACCIÓN III DEL ARTÍCULO 50; Y SE DEROGA EL INCISO E) DE LA FRACCIÓN IV DEL 50, AMBOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor 180 días después de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Hasta en tanto se expidan el catálogo de Disposición Documental y demás normas para determinar los procedimientos para la disposición documental, no se permitirá la eliminación de ningún documento.
+
+###### ARTÍCULO TERCERO.
+
+El presupuesto de egresos del Estado para el año 2014 deberá establecer la previsión presupuestal correspondiente para permitir la integración y funcionamiento presupuestal de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los entes públicos deberán designar a los titulares de las Direcciones de Archivos y Comités Técnicos de Administración de Documentos y Archivos, a más tardar 90 días naturales después de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+El Poder Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, en un plazo de 90 días posteriores a la publicación de la presente Ley, instituirá el Archivo General del Estado; asimismo, creará el Reglamento que disponga la estructura, organización y funcionamiento del Órgano.
+
+###### ARTÍCULO SÉPTIMO.
+
+Una vez publicado el presente Decreto, se deroga el Decreto No. 1147/2010 XIII P.E., aprobado el día nueve de septiembre del dos mil diez.
+
+P.O. 26 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 1208/2013 X P.E., POR EL QUE SE REFORMAN LOS ARTÍCULOS 1°, PÁRRAFOS PRIMERO Y TERCERO; 19, FRACCIÓN XI; 50, FRACCIÓN II; 56, FRACCIÓN VII; 70, FRACCIÓN V, Y 72, PÁRRAFO PENÚLTIMO; SE DEROGAN EL ARTÍCULO 3°, FRACCIONES I, VI, XIII Y XVIII; DEL TÍTULO TERCERO, EL CAPÍTULO III, DENOMINADO "HABEAS DATA", INCLUYENDO SUS NUMERALES 36 AL 42; LOS ARTÍCULOS 50, FRACCIÓN II, INCISOS A) AL E); 56, FRACCIÓN VIII, Y 70, FRACCIÓN III, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los ciento ochenta días naturales, contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los sujetos obligados deberán notificar al Instituto, dentro de los trescientos sesenta y cinco días naturales, contados a partir de la entrada en vigor de la presente Ley, la relación de sistemas de datos personales que posean para su registro.
+
+###### ARTÍCULO TERCERO.
+
+Los sujetos obligados, dentro del plazo de trescientos sesenta y cinco días naturales, contados a partir de la entrada en vigor de la presente Ley, deberán ajustar los sistemas de datos personales que posean, o crearlos, en caso de no contar con ellos, así como adecuar su normatividad interna.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto deberá emitir los lineamientos correspondientes a la presente Ley en un plazo de ciento ochenta días naturales, posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Las solicitudes y recursos de revisión en trámite o que se comiencen a tramitar previo a la entrada en vigor de la Ley que se expide, se resolverán conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua y a los lineamientos correspondientes, hasta su conclusión.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a la nueva Ley.
+
+P.O. 26 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 1208/2013 X P.E., POR EL QUE SE REFORMAN LOS ARTÍCULOS 1°, PÁRRAFOS PRIMERO Y TERCERO; 19, FRACCIÓN XI; 50, FRACCIÓN II; 56, FRACCIÓN VII; 70, FRACCIÓN V, Y 72, PÁRRAFO PENÚLTIMO; SE DEROGAN EL ARTÍCULO 3°, FRACCIONES I, VI, XIII Y XVIII; DEL TÍTULO TERCERO, EL CAPÍTULO III, DENOMINADO "HABEAS DATA", INCLUYENDO SUS NUMERALES 36 AL 42; LOS ARTÍCULOS 50, FRACCIÓN II, INCISOS A) AL E); 56, FRACCIÓN VIII, Y 70, FRACCIÓN III, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los ciento ochenta días naturales, contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los sujetos obligados deberán notificar al Instituto, dentro de los trescientos sesenta y cinco días naturales, contados a partir de la entrada en vigor de la presente Ley, la relación de sistemas de datos personales que posean para su registro.
+
+###### ARTÍCULO TERCERO.
+
+Los sujetos obligados, dentro del plazo de trescientos sesenta y cinco días naturales, contados a partir de la entrada en vigor de la presente Ley, deberán ajustar los sistemas de datos personales que posean, o crearlos, en caso de no contar con ellos, así como adecuar su normatividad interna.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto deberá emitir los lineamientos correspondientes a la presente Ley en un plazo de ciento ochenta días naturales, posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Las solicitudes y recursos de revisión en trámite o que se comiencen a tramitar previo a la entrada en vigor de la Ley que se expide, se resolverán conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua y a los lineamientos correspondientes, hasta su conclusión.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a la nueva Ley.
