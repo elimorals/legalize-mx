@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-heroico-cuerpo-de-bomberos-del-distrito-federal-12825"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-24"
-last_updated: "2012-08-23"
+last_updated: "2013-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12825&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-11-06"
 
 LEY DEL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JUNIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de diciembre de 1998.
 
@@ -112,55 +112,65 @@ II. Bombero Forestal.- Servidor público miembro de un cuerpo de salvaguarda del
 
 III. Consejo del Heroico Cuerpo de Bomberos.- Es el órgano asesor, de consulta y análisis que busca el constante mejoramiento y profesionalización del organismo con la facultad de emitir opiniones y recomendaciones a la Junta de Gobierno, así como de transmitirle ideas y propuestas que hagan llegar la población y los bomberos.
 
-IV. Delegaciones.- Los órganos políticos administrativos en cada una de las demarcaciones territoriales en que se divide el Distrito Federal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE JUNIO DE 2013)</small>
 
-V. Desastre.- Interrupción seria en el funcionamiento de una sociedad causando grandes pérdidas humanas, materiales o ambientales, suficientes para que la sociedad afectada no pueda salir adelante por sus propios medios.
+IV. Comisión.- Comisión Federal de Electricidad.
 
-VI. Director General.- Encargado de ejecutar las políticas, estrategias y lineamientos que la Junta de Gobierno determine, asimismo, será el representante jurídico de este organismo, de conformidad con lo establecido por el artículo 47 de la Ley Orgánica de la Administración Pública del Distrito Federal.
+> <small>(REFORMADA, G.O. 26 DE JUNIO DE 2013)</small>
 
-VII. Emergencia Cotidiana.- Evento repentino e imprevisto, que hace tomar medidas de prevención, protección y control inmediatas por parte del Heroico Cuerpo de Bomberos del Distrito Federal, para minimizar sus consecuencias y acabarlas.
+V. Delegación: El órgano político- administrativo en cada demarcación territorial
 
-VIII. Emergencia Forestal.- Evento repentino e imprevisto ocurrido en suelo de conservación, áreas naturales protegidas y área de valor ambiental, que hace tomar medidas de protección y control inmediatas por parte de la Secretaría del Medio Ambiente y del Heroico Cuerpo de Bomberos del Distrito Federal.
+VI. Desastre.- Interrupción seria en el funcionamiento de una sociedad causando grandes pérdidas humanas, materiales o ambientales, suficientes para que la sociedad afectada no pueda salir adelante por sus propios medios.
 
-IX. Equipo.- Son todos aquellos instrumentos de seguridad, protección, o extinción de incendios o conflagraciones, así como los medios de transporte y demás herramientas necesarias para el ataque y extinción de éstos.
+VII. Director General.- Encargado de ejecutar las políticas, estrategias y lineamientos que la Junta de Gobierno determine, asimismo, será el representante jurídico de este organismo, de conformidad con lo establecido por el artículo 47 de la Ley Orgánica de la Administración Pública del Distrito Federal.
 
-X. Establecimiento mercantil.- Inmueble en el que una persona física o moral, desarrolla actividades relativas a la intermediación, compraventa, alquiler o prestación de servicios en forma permanente.
+VIII. Emergencia Cotidiana.- Evento repentino e imprevisto, que hace tomar medidas de prevención, protección y control inmediatas por parte del Heroico Cuerpo de Bomberos del Distrito Federal, para minimizar sus consecuencias y acabarlas.
 
-XI. Estación.- Instalación operativa ubicada en una Delegación, la cual, acorde con la superficie territorial bajo su responsabilidad, población, establecimientos mercantiles e industriales, contará con el equipo necesario para prestar los servicios inherentes al Heroico Cuerpo de Bomberos del Distrito Federal.
+IX. Emergencia Forestal.- Evento repentino e imprevisto ocurrido en suelo de conservación, áreas naturales protegidas y área de valor ambiental, que hace tomar medidas de protección y control inmediatas por parte de la Secretaría del Medio Ambiente y del Heroico Cuerpo de Bomberos del Distrito Federal.
 
-XII. Estación Central.- Sede de los Órganos de Administración del Heroico Cuerpo de Bomberos del Distrito Federal.
+X. Equipo.- Son todos aquellos instrumentos de seguridad, protección, o extinción de incendios o conflagraciones, así como los medios de transporte y demás herramientas necesarias para el ataque y extinción de éstos.
 
-XIII. Extinción.- Terminación de la conflagración por parte de la corporación que implica la no existencia de riesgo o peligro alguno para la población.
+XI. Establecimiento mercantil.- Inmueble en el que una persona física o moral, desarrolla actividades relativas a la intermediación, compraventa, alquiler o prestación de servicios en forma permanente.
 
-XIV. Falsa Alarma.- Hecho repentino que pone a la población en una situación de peligro, pero que es controlada inmediatamente por la propia sociedad resultando innecesaria la intervención de la corporación.
+XII. Estación.- Instalación operativa ubicada en una Delegación, la cual, acorde con la superficie territorial bajo su responsabilidad, población, establecimientos mercantiles e industriales, contará con el equipo necesario para prestar los servicios inherentes al Heroico Cuerpo de Bomberos del Distrito Federal.
 
-XV. Falsa llamada.- Llamada de auxilio que realiza la población sobre una contingencia falsa que causa la movilización del Heroico Cuerpo de Bomberos del Distrito Federal.
+XIII. Estación Central.- Sede de los Órganos de Administración del Heroico Cuerpo de Bomberos del Distrito Federal.
 
-XVI. Gobierno.- Al Gobierno del Distrito Federal.
+XIV. Extinción.- Terminación de la conflagración por parte de la corporación que implica la no existencia de riesgo o peligro alguno para la población.
 
-XVII. Industria.- Establecimiento en el que se desarrollan actividades económicas de producción de bienes mediante la transformación de materias primas.
+XV. Falsa Alarma.- Hecho repentino que pone a la población en una situación de peligro, pero que es controlada inmediatamente por la propia sociedad resultando innecesaria la intervención de la corporación.
 
-XVIII. Jefe de Gobierno.- Jefe de Gobierno del Distrito Federal.
+XVI. Falsa llamada.- Llamada de auxilio que realiza la población sobre una contingencia falsa que causa la movilización del Heroico Cuerpo de Bomberos del Distrito Federal.
 
-XIX. Junta de Gobierno.- Es la máxima autoridad de este Organismo Descentralizado de la Administración Pública del Distrito Federal, instancia encargada de definir las políticas y estrategias del Organismo.
+> <small>(REFORMADA, G.O. 26 DE JUNIO DE 2013)</small>
 
-XX. Mitigación.- Las medidas tomadas con anticipación al siniestro y durante la emergencia, para reducir su impacto en la población, bienes y entorno.
+XVII. Gobierno: Gobierno del Distrito Federal.
 
-XXI. Organismo.- El organismo descentralizado denominado Heroico Cuerpo de Bomberos del Distrito Federal.
+XVIII. Industria.- Establecimiento en el que se desarrollan actividades económicas de producción de bienes mediante la transformación de materias primas.
 
-XXII. Patronato.- El Patronato del Heroico Cuerpo de Bomberos del Distrito Federal.
+XIX. Jefe de Gobierno.- Jefe de Gobierno del Distrito Federal.
 
-XXIII. Prevención.- Acciones dirigidas a mitigar los peligros, evitando o disminuyendo el impacto destructivo de los fenómenos perturbadores sobre la vida y bienes de la población, los servicios vitales y estratégicos, la planta productiva y el medio ambiente, a través de acciones de mitigación y preparación.
+XX. Junta de Gobierno.- Es la máxima autoridad de este Organismo Descentralizado de la Administración Pública del Distrito Federal, instancia encargada de definir las políticas y estrategias del Organismo.
 
-XXIV. Reglamento.- Reglamento de la Ley del Heroico Cuerpo de Bomberos del Distrito Federal.
+XXI. Mitigación.- Las medidas tomadas con anticipación al siniestro y durante la emergencia, para reducir su impacto en la población, bienes y entorno.
 
-XXV. Riesgo.- Grado de probabilidad de pérdida de vidas, personas heridas, propiedades dañadas y actividad económica detenida durante un periodo de referencia en una región dada, para un peligro en particular producto de la amenaza y vulnerabilidad.
+XXII. Organismo.- El organismo descentralizado denominado Heroico Cuerpo de Bomberos del Distrito Federal.
 
-XXVI. Siniestro.- Hecho funesto, daño grave, destrucción fortuita o pérdida importante que sufren los seres humanos en su persona o en sus bienes, causados por la presencia de un riesgo, emergencia o desastre.
+XXIII. Patronato.- El Patronato del Heroico Cuerpo de Bomberos del Distrito Federal.
 
-XXVII. Subestación.- Instalación ubicada en zona conflictiva y de difícil acceso en las Delegaciones, que deberá contar al menos con el equipo más indispensable para hacer un primer frente a las emergencias.
+XXIV. Prevención.- Acciones dirigidas a mitigar los peligros, evitando o disminuyendo el impacto destructivo de los fenómenos perturbadores sobre la vida y bienes de la población, los servicios vitales y estratégicos, la planta productiva y el medio ambiente, a través de acciones de mitigación y preparación.
 
-XXVIII. Transporte de substancias.- Compuestos o desechos y sus mezclas, que por sus características corrosivas, tóxicas, reactivas, explosivas inflamable o biológicas infecciosas, representen un riesgo para los habitantes del Distrito Federal y su medio ambiente, independiente del medio de transporte en que se conduzcan.
+XXV. Reglamento.- Reglamento de la Ley del Heroico Cuerpo de Bomberos del Distrito Federal.
+
+XXVI. Riesgo.- Grado de probabilidad de pérdida de vidas, personas heridas, propiedades dañadas y actividad económica detenida durante un periodo de referencia en una región dada, para un peligro en particular producto de la amenaza y vulnerabilidad.
+
+> <small>(REFORMADA, G.O. 26 DE JUNIO DE 2013)</small>
+
+XXII (SIC). Siniestro.- Hecho Funesto, daño grave, destrucción fortuita o pérdida importante que sufren los seres humanos en su persona o en sus bienes causados por la presencia de un riesgo, emergencia o desastre natural.
+
+XXVIII. Subestación.- Instalación ubicada en zona conflictiva y de difícil acceso en las Delegaciones, que deberá contar al menos con el equipo más indispensable para hacer un primer frente a las emergencias.
+
+XXIX. Transporte de substancias.- Compuestos o desechos y sus mezclas, que por sus características corrosivas, tóxicas, reactivas, explosivas inflamable o biológicas infecciosas, representen un riesgo para los habitantes del Distrito Federal y su medio ambiente, independiente del medio de transporte en que se conduzcan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -282,9 +292,9 @@ La Junta de Gobierno, en su carácter de máxima autoridad del Organismo, se int
 
 I. Dos funcionarios designados por el Secretario de Protección Civil del Distrito Federal, uno de los cuales será el presidente de la Junta;
 
-> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, G.O. 26 DE JUNIO DE 2013)</small>
 
-II. Dos personas de la sociedad civil con experiencia y conocimientos en Protección Civil y en labores de bomberos, designados por la Asamblea Legislativa del Distrito Federal.
+II. Dos personas de la sociedad civil con experiencia y conocimientos en Protección Civil y en labores de bomberos, designadas por la Asamblea Legislativa del Distrito Federal.
 
 III. Dos miembros designados por el Consejo de Protección Civil del Distrito Federal;
 
@@ -1493,3 +1503,9 @@ G.O. 23 DE AGOSTO DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 26 DE JUNIO DE 2013.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
