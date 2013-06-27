@@ -4,7 +4,7 @@ identifier: "SON-ley-de-prevencion-tratamiento-rehabilitacion-y-control-de-67617
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-05"
-last_updated: "2009-03-05"
+last_updated: "2013-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE PREVENCION, TRATAMIENTO, REHABILITACION Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA
 
-LEY DE PREVENCION, TRATAMIENTO, REHABILITACION Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA
+LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 5 de marzo de 2009.
 
@@ -289,6 +289,10 @@ V.- Potenciar una cultura social favorecedora de la solidaridad y la colaboraci�
 
 VI.- Conocer la evolución de los productos, de las formas de consumo y de las características de los consumidores para poder anticiparse a las necesidades y adaptar los programas y servicios a las nuevas demandas emergentes.
 
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTÍCULO 19 BIS.- El Gobierno del Estado, por conducto de la Secretaría de Salud, operará un centro de atención telefónica en el que, mediante un número de emergencia gratuito, especialistas en la materia atenderán a personas que, derivado de la pérdida de control en juegos de apuestas, consideren que requieren atención especial orientada al tratamiento de la ludopatía, así como a las demás adicciones contempladas en esta ley.
+
 ### CAPÍTULO V. CENTROS DE TRATAMIENTO Y REHABILITACIÓN
 
 ###### ARTÍCULO 20.
@@ -417,6 +421,38 @@ III.- La coordinación entre los programas asistenciales y los específicos de i
 
 IV.- El Programa Estatal definirá las medidas y actuaciones básicas que deberán tener los programas y servicios de integración social.
 
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+###### ARTÍCULO 39 Bis.
+
+El Ejecutivo del Estado, a través de la Secretaría de Salud, y en coordinación con el Consejo Estatal Contra las Adicciones, promoverán programas de atención y prevención de la ludopatía que tengan por objeto las siguientes acciones:
+
+a) Diseñar, formular, ejecutar y evaluar políticas públicas de promoción, prevención y atención de la salud y mejoramiento de la calidad de vida de los ludópatas.
+
+b) Fomentar procesos educativos de capacitación, formación y organización de las comunidades para acceder y participar en la promoción, prevención y atención de la enfermedad de la ludopatía como problemática de salud pública.
+
+c) Formular, desarrollar y evaluar las políticas para mejorar la participación social y establecer alianzas para la construcción de entornos saludables en beneficio de los ludópatas.
+
+d) Diseñar, formular, ejecutar y evaluar políticas públicas para la reorientación de los servicios de salud hacia la promoción, prevención y atención de la enfermedad de la ludopatía bajo los estándares de calidad y satisfacción de los ludópatas, su familia y su entorno social.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+###### ARTÍCULO 39 Bis
+
+1.- Las personas físicas o morales propietarias de establecimientos donde operen máquinas electrónicas de juego con sorteo de números y apuestas, deberán observar las siguientes medidas preventivas:
+
+a) Colocar avisos visibles al público, en accesos principales, en los sitios de juego y ubicación de máquinas dispuestas para el juego, como medida preventiva a la adicción del mismo. Estos avisos tendrán una leyenda, notoriamente visible, que exprese los riesgos del juego sin control, la tendencia a la adicción y la necesidad de buscar ayuda especializada para su tratamiento. Estas leyendas o avisos deberán contener la información de los programas de ayuda que se brinden para la atención y prevención;
+
+b) Divulgar en sus campañas publicitarias, sin importar el medio de comunicación, medidas de prevención y promoción en donde se estimule al juego responsable y se advierta que el juego, como actividad lúdica, puede generar adicción y ludopatía, a través de leyendas tales como: "el juego sin control produce adicción y ludopatía". Estas leyendas deberán expresarse clara e inequívocamente en el audio, en la imagen y en el texto, según sea el caso y de manera rotativa, en los términos que establezca la Secretaría de Salud;
+
+c) Deberán colocar relojes y calendarios en lugares visibles que permitan al usuario decidir sobre el tiempo que van a jugar;
+
+d) Es obligación educar y entrenar a los manejadores y empleados de salas de juego en la identificación y manejo de jugadores ludópatas; y
+
+e) Queda prohibida la operación de sucursales bancarias o cajeros automáticos en el interior del local, así como en los límites exteriores del mismo.
+
+f) Deberán impedir el acceso a sus establecimientos, a personas que hayan sido declaradas como que padecen ludopatía. Para tal efecto, se requerirá dictamen emitido por médico certificado en la materia, el cual deberá estar debidamente notificado al establecimiento.
+
 ### CAPÍTULO VII. COMPETENCIAS Y ATRIBUCIONES DE LAS AUTORIDADES
 
 ###### ARTÍCULO 40.
@@ -455,7 +491,7 @@ Corresponden a los ayuntamientos las siguientes atribuciones:
 
 I.- Participar en la planificación y en la coordinación de las actuaciones en materia de adicciones que se lleven a cabo en el Municipio por parte de las autoridades estatales;
 
-II.- Desarrollar las políticas especificas de prevención en materia de adicciones, fundamentalmente en el ámbito familiar y comunitario;
+II.- Desarrollar las políticas específicas de prevención en materia de adicciones, fundamentalmente en el ámbito familiar y comunitario;
 
 IlI.- Procurar la integración social de las personas con adicciones;
 
@@ -724,3 +760,25 @@ El reglamento de esta ley deberá ser expedido a más tardar en ciento veinte d�
 COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, FEBRERO 6 DEL 2009.- DIPUTADA PRESIDENTA.- C. IRMA VILLALOBOS RASCON.- RUBRICA.- DIPUTADO SECRETARIO.- C. OLIVER FLORES BAREÑO.- RUBRICA.- DIPUTADO SECRETARIO.- C. ROGELIO M. DIAZ BROWN RAMSBURGH.- RUBRlCA.-
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO. EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS NUEVE DÍAS DEL MES DE FEBRERO DEL AÑO DOS MIL NUEVE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- WENCESLAO COTA MONTOYA.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 27 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado de Sonora y los ayuntamientos deberán destinar los recursos financieros necesarios, dentro de sus respectivos presupuestos de egresos de cada año, para cumplimentar lo dispuesto por la Ley de Salud y la Ley de Prevención, Tratamiento y Control de Adicciones para el Estado de Sonora.
+
+El Congreso del Estado deberá establecer las contribuciones necesarias para solventar el gasto que importan los servicios de prevención y rehabilitación en materia de adicción a la ludopatía u otras afecciones que originan el contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los ayuntamientos del Estado deberán adecuar su reglamentación municipal en materia de ordenamiento territorial y desarrollo urbano dentro de los 90 días posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Hasta en tanto los ayuntamientos no cuenten con lo señalado en el artículo anterior, deberán ceñir su actuación de manera supletoria a las disposiciones emanadas del presente Decreto.
