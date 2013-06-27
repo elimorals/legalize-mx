@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ingresos-y-presupuesto-de-ingresos-del-ayuntamiento-9131
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-31"
-last_updated: "2013-01-24"
+last_updated: "2013-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL AYUNTAMIENTO DEL MUNICIPIO DE HERMOSILLO, SONORA, PARA EL EJERCICIO FISCAL DE 2013
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 24 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en la Sección V del Boletín Oficial del Estado de Sonora, el lunes 31 de diciembre de 2012.
 
@@ -3919,67 +3917,81 @@ El Municipio de Hermosillo por conducto de la Tesorería Municipal deberá procu
 
 Se autoriza al Municipio de Hermosillo por conducto de la Tesorería Municipal, a pactar con la o las instituciones acreditantes, las bases, condiciones y modalidades no previstas en los párrafos precedentes de este artículo, en los términos que estime más favorables para la Hacienda Pública Municipal, así como para que concurra a la firma del o los contratos correspondientes por conducto de sus funcionarios o representantes legalmente envestidos para la celebración de dichos actos jurídicos.
 
-Artículo Quinto.- Se autoriza al Organismo Publico Descentralizado Agua de Hermosillo, integrante de la Administración Pública del Gobierno Municipal de Hermosillo, Sonora; para que por conducto de su Director General, realice las gestiones necesarias a efecto de acudir al Sistema Financiero Mexicano a solicitar y en su caso adquirir financiamiento por un monto de hasta $ 330,000,000.00 m.n. (Trescientos Treinta Millones de Pesos 00/100 m.n.) cantidad que incluye el Impuesto al Valor Agregado correspondiente y pago de cualquier accesorio financiero que derive de la contratación del financiamiento, excepto los intereses que se generen de la propia operación de financiamiento, para ejercer en sus programas de a) Obra pública; b) Mantenimiento de Obra Pública; y c) Programa de Eficiencia Comercial, contemplados todos, en su Presupuesto de Egresos para el Ejercicio Fiscal de 2013. El financiamiento deberá cubrirse en un plazo de hasta 15 años y tendrá como garantía y fuente pago (sic), los ingresos que por conceptos de cobro sobre servicios de agua potable, drenaje y alcantarillado sanitario le correspondan, los cuales se afectarán preferentemente mediante un Fideicomiso de inversión, administración, fuente de pago y garantía, o mediante cualquier otro instrumento que legalmente resulte procedente.
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
 
-El financiamiento referido en el párrafo anterior se sujetará a lo siguiente:
-
-A) Deberá contratarse con apego a lo establecido en la Ley de Deuda Pública del Estado de Sonora, conforme a lo establecido en esta ley y conforme a las disposiciones legales que resulten aplicables.
-
-B) Deberá contratarse con las mejores condiciones legales, financieras y de disponibilidad de recursos que el mercado financiero ofrezca al momento de la celebración de la operación; que redunden en un beneficio para las finanzas del Organismo Público de la Administración Pública Municipal Descentralizada
-
-C) Podrá contar con el aval y/o responsabilidad solidaria del Gobierno Municipal de Hermosillo, quien deberá efectuar los trámites y procedimientos que la Ley de Deuda Pública del Estado de Sonora establece y cualquier otra norma legal aplicable.
-
-D) Podrá contar con el aval y/o responsabilidad solidaria del Gobierno del Estado de Sonora, quien deberá efectuar los trámites y procedimientos que la Ley de Deuda Pública del Estado de Sonora establece y cualquier otra norma legal aplicable.
-
-E) Inscribir dicho financiamiento en el Registro de Obligaciones y Empréstitos del Estado de Sonora, y en El Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios de la Secretaria de Hacienda y Crédito Público; conforme a lo establecido en la Ley de Coordinación Fiscal en su artículo 9º y su Reglamento, y en términos de la Ley de Deuda Pública del Estado.
-
-OBJETO DE PROGRAMA DE FINANCIAMIENTO
-
-IMPORTE TOTAL $330,000,000.00
-
-PROGRAMA DE EFICIENCIA COMERCIAL $81,415,000.00
+Artículo Quinto.- Se autoriza al Organismo Público Descentralizado Agua de Hermosillo, integrante de la Administración Pública del Gobierno Municipal de Hermosillo, Sonora, para que por conducto de su Director General contrate crédito (s) con una o varias instituciones de crédito o financieras, por un monto de hasta $ 330,000,000.00 (Trescientos treinta millones de pesos 00/100 M.N.) más intereses, reservas, gastos, comisiones, impuestos o derechos y demás accesorios financieros de la contratación; para ejercer en sus programas de Obra Pública, Mantenimiento de Obra Pública y Programas de Eficiencia Comercial, contemplados todos en su Presupuesto de Egresos para el Ejercicio Fiscal de 2013 y que comprende:
 
 Programa de fortalecimiento y
 
-eficiencia en Micromedición $67,215,000.00
+eficiencia en micromedición
 
 Programa de fortalecimiento y
 
 eficiencia de la infraestructura
 
-de atención al cliente $10,475,000.00
+de atención al cliente
 
 Programa de eficiencia y
 
-Rediseño del proceso comercial $3,725,000.00
+rediseño del proceso comercial
 
-PROGRAMA DE INVERSION PUBLICA $248,585,000.00
+Agua Potable (fuentes)
 
-Agua Potable (Fuentes) $64,775,000.00
-
-Rehabilitación de Red de Distribución $17,270,000.00
+Rehabilitación de red de distribución
 
 Instalación de Micro y Macro
 
-Mediciones, Telemetría y Sectores
+Mediciones, telemetría y sectores
 
-Hidrométricos $66,745,411.00
+hidrométricos
 
-Alcantarillado $46,337,500.00
+Alcantarillado
 
-Saneamiento $7,000,000.00
+Saneamiento
 
-Programa de Eficiencia $3,853,544.05
+Programa de Eficiencia
 
-Sustitución de Tuberías Obsoletas,
+Sustitución de tuberías obsoletas,
 
 rehabilitación de cruceros y
 
-sustitución de válvulas de control $19,450,000.00
+sustitución de válvulas de control
 
-Sustitución de tomas domiciliarias $18,000,000.00
+Programas de ahorro de energía
 
-Programas de Ahorro de Energía $5,153,544.95
+La autorización anterior incluye la de contratar un crédito puente hasta por la cantidad de $150,000,000.00 (Ciento cincuenta millones de pesos 00/100 M.N.), más intereses, reservas, gastos, comisiones, impuestos o derechos y demás accesorios financieros de la contratación; en cuyo caso dicho monto estaría incluido en el autorizado en el párrafo anterior y regido por las condiciones de éste hasta que, en su caso, se obtenga el financiamiento definitivo.
+
+Dicho crédito puente, deberá ser pagado, invariablemente, cuando se liberen los recursos por el orden de $330,000,000.00 (Trescientos treinta millones de pesos 00/100 M.N.) a que se refiere la operación crediticia que se autoriza en el presente artículo transitorio.
+
+Las cantidades que disponga Agua de Hermosillo en el ejercicio de la presente autorización, causarán intereses normales y moratorios a las tasas que se negocien con la institución de crédito o financiera. Estas tasas de intereses podrán revisarse y ajustarse cuando así se precise en el o los contratos de crédito respectivos.
+
+En cualquier caso, las obligaciones deberán contratarse con personas físicas o morales de nacionalidad mexicana, ser pagaderas en moneda de curso legal en los Estados Unidos Mexicanos, dentro del territorio nacional y prever expresamente la prohibición de su cesión a extranjeros.
+
+El plazo máximo de vencimiento de las obligaciones que se contraten conforme al presente artículo no podrá exceder de 15 años y tendrá como garantía y/o fuente de pago, los ingresos que por concepto de cobro sobre servicios de agua potable, drenaje y alcantarillado sanitario le corresponden a dicho organismo, los cuales podrán afectarse en uno o varios fideicomisos que al efecto se constituyan o estén ya constituidos, o mediante cualquier otro instrumento jurídico que legalmente resulte procedente.
+
+Para la obtención del crédito a que se refiere este artículo:
+
+A) Deberá contratarse con apego a lo establecido en la Ley de Deuda Pública del Estado de Sonora, conforme a lo establecido en esta ley y conforme a las disposiciones legales que resulten aplicables.
+
+B) Deberá contratarse con las mejores condiciones legales, financieras y de disponibilidad de recursos que el mercado financiero ofrezca al momento de la celebración de la operación; que redunden en un beneficio para las finanzas del Organismo Público de la Administración Pública Municipal Descentralizada.
+
+C) Se autoriza el aval y/o responsabilidad solidaria del H. Ayuntamiento del Municipio de Hermosillo, Sonora, al que en su caso se faculta por conducto de sus representantes conforme a la Ley para tal efecto y quienes deberán efectuar los trámites y procedimientos que la Ley de Deuda Pública del Estado de Sonora y cualquier otra norma legal aplicable establecen.
+
+Del mismo modo, el Ayuntamiento podrá afectar como fuente de pago y/o como garantía de cumplimiento de las obligaciones que se contraten conforme al presente artículo, un porcentaje suficiente y necesario de los ingresos futuros y el derecho a recibirlos por el Municipio, provenientes de participaciones que de los ingresos federales le correspondan al mismo de conformidad con la Ley de Coordinación Fiscal o cualesquiera otras disposiciones que sustituyan o complementen dichas participaciones.
+
+La afectación de dichas participaciones podrá formalizarse mediante la constitución de uno o varios fideicomisos irrevocables, con institución con facultades para fungir como fiduciaria, o mediante la afectación a un fideicomiso o fideicomisos ya contratados. Dicha afectación en fideicomiso podrá hacerse desde la constitución de aquél y deberá permanecer hasta que los créditos hayan quedado íntegramente liquidados.
+
+En este caso, deberá notificarse a la Secretaría de Hacienda del Gobierno del Estado de Sonora y/o a la Unidad de Coordinación con Entidades Federativas de la Secretaría de Hacienda y Crédito Público la constitución del fideicomiso a que se refiere el párrafo anterior, instruyéndola(s) irrevocablemente a que respecto de cada ministración o entrega de participaciones que corresponda al Municipio, abone al fideicomiso los flujos correspondientes a las participaciones fideicomitidas, hasta el pago total de los financiamientos contratados.
+
+D) Podrá contar con el aval y/o responsabilidad solidaria del Gobierno del Estado de Sonora, al que en su caso se autoriza para tal efecto y quien deberá efectuar los trámites y procedimientos que la Ley de Deuda Pública del Estado de Sonora y cualquier otra norma aplicable establecen.
+
+E) Se deberá inscribir dicho crédito en el Registro de Deuda Pública Municipal, en el Registro Estatal de Deuda Pública, y en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios de la Secretaría de Hacienda y Crédito Público; conforme a lo establecido en la Ley de Coordinación Fiscal en su artículo 9º y su Reglamento, y en términos de la Ley de Deuda Pública del Estado.
+
+F) Se autoriza para que a la par de la contratación del crédito se celebren operaciones financieras de cobertura relativas al o los créditos, como contratos de cobertura de tasa de interés de los denominados Caps, los cuales, en su caso, podrán tener la misma fuente de pago que dichos créditos.
+
+G) Se autorizan al Director General de Agua de Hermosillo y, en su caso, a los representantes del H. Ayuntamiento del Municipio de Hermosillo y/o al Ejecutivo del Estado por conducto del Secretario de Hacienda, para que negocien, acuerden y suscriban todas las bases, condiciones, términos y modalidades convenientes o necesarios en los contratos, convenios y demás documentos relativos, así como para efectuar los actos que se requieran para hacer efectivas las autorizaciones concedidas en el presente artículo.
+
+En todo caso podrán pactarse modalidades a los lineamientos establecidos en el presente artículo, siempre que las mismas no contravengan el sentido o contexto original de dichos lineamientos.
 
 Artículo Sexto.- El Organismo Operador deberá presentar al Cabildo Municipal una propuesta de tarifas y cuotas para el cobro de los servicios de agua potable, drenaje, alcantarillado, saneamiento, tratamiento y disposición de aguas residuales, aplicables para el ejercicio fiscal de 2014, debidamente actualizadas conforme al procedimiento establecido en el artículo 164 de la Ley de Agua del Estado de Sonora; de tal forma que el efecto inflacionario y los incrementos en los costos asociados a la prestación de los servicios correspondientes, no mermen la capacidad de las tarifas y cuotas referidas, para hacer frente a los gastos y costos necesarios para la prestación de tales servicios.
 
@@ -4116,3 +4128,7 @@ GUILLERMO PADRES ELIAS
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO ROMERO LOPEZ
+
+B.O. 27 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
