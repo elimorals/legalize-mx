@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2011-10-20"
+last_updated: "2013-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE GOBIERNO Y ADMINISTRACION MUNICIPAL DEL ESTADO DE SONORA
 
-LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL
+LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -688,6 +688,16 @@ I. La creación de contribuciones y toda clase de resoluciones que importen trib
 II. Los empréstitos de todo género; y
 
 III. Las demás previstas en la presente ley.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+###### Artículo 63 Bis.
+
+Los acuerdos del Congreso del Estado tendrán carácter vinculatorio para los servidores públicos de los Ayuntamientos, quienes contarán con un plazo de quince días hábiles, contado a partir del día siguiente en que se le notifique el contenido del resolutivo respectivo, para emitir una respuesta por escrito fundada y motivada dirigida al Congreso del Estado.
+
+La respuesta de los servidores públicos a que se refiere el párrafo anterior deberá contener, al menos, un informe de las acciones llevadas a cabo y, en su caso, las que se realizarán, así como una fecha probable, para dar oportuno cumplimiento a los planteamientos contenidos en el acuerdo notificado. En caso de disentir del sentido del resolutivo emitido por el Congreso del Estado, el servidor público a quien se dirigió el exhorto emitirá la respuesta expresando las razones de su postura, caso en el cual deberá generarse un seguimiento al tema entre el o los diputados que presentaron la iniciativa con punto de acuerdo y los servidores públicos respectivos mediante la celebración de reuniones públicas o privadas que al efecto estimen pertinente (sic).
+
+Será causa de responsabilidad administrativa y se entenderá actualizado el supuesto de incumplimiento previsto en el artículo 63, fracción XXVI de la ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, la falta de respuesta o seguimiento a que se refieren los párrafos anteriores, por parte del servidor público a quien se dirigió el contenido del acuerdo aprobado por el Congreso del Estado y dará lugar a que el Presidente de la Mesa Directiva del Congreso del Estado de Sonora interponga, ante el Órgano de Control y Evaluación Gubernamental del ayuntamiento que corresponda, la denuncia y seguimiento al procedimiento respectivo para lograr que se sancione al omiso.
 
 ### CAPITULO SEXTO. DE LAS ATRIBUCIONES DE LOS INTEGRANTES DEL AYUNTAMIENTO
 
@@ -1687,11 +1697,11 @@ El Ayuntamiento deberá publicar trimestralmente, un resumen del estado de ingre
 
 Los estados financieros y demás información presupuestal que emane de la contabilidad, serán utilizados por la Tesorería Municipal para la formulación de los avances financieros trimestrales y de la cuenta.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE ABRIL DE 2003)</small>
 
 ## TITULO QUINTO. DE LAS PROTESTAS, PERMISOS, FALTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL MUNICIPIO
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE ABRIL DE 2003)</small>
 
 ### CAPITULO UNICO. DE LAS PROTESTAS, PERMISOS, FALTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL MUNICIPIO
 
@@ -1699,7 +1709,7 @@ Los estados financieros y demás información presupuestal que emane de la conta
 
 Ningún funcionario ni empleado municipal podrá encargarse de sus funciones sin haber otorgado previamente la protesta a que se refiere el artículo 157 de la Constitución Política del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2003)</small>
 
 ###### Artículo 165.
 
@@ -3761,7 +3771,7 @@ PALACIO DE GOBIERNO, HERMOSILLO, SONORA, DIECISIETE DE SEPTIEMBRE DEL DOS MIL UN
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 10 DE ABRIL DE 2003.
 
@@ -3804,3 +3814,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Por una única ocasión y en el supuesto de que algún municipio contemple más de ocho integrantes en su órgano de gobierno, los primeros tres integrantes adicionales durarán en su encargo cinco años, los siguientes dos durarán cuatro años y los dos restantes durarán tres años.
+
+B.O. 27 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
