@@ -4,7 +4,7 @@ identifier: "SON-ley-de-asistencia-social-8480"
 country: "mx"
 rank: "ley"
 publication_date: "1986-06-16"
-last_updated: "2009-01-15"
+last_updated: "2013-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN LA BOLETIN OFICIAL: 15 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 16 de junio de 1986.
 
@@ -49,7 +49,7 @@ II.- Garantizar la coordinación y concurrencia de la Federación, del Estado y 
 
 ###### ARTICULO 2o.
 
-El Gobierno del Estado y los Gobiernos Municipales proporcionarán servicios de asistencia social, encaminados al desarrollo integral de la familia y al apoyo en la formación, subsistencia y desenvolvimiento, de individuos con carencias familiares esenciales no superables en forma autónoma por ellos.
+El Gobierno del Estado y los Gobiernos Municipales proporcionarán servicios de asistencia social, encamina dos al desarrollo integral de la familia y al apoyo en la formación, subsistencia y desenvolvimiento, de individuos con carencias familiares esenciales no superables en forma autónoma por ellos.
 
 ###### ARTICULO 3o.
 
@@ -59,33 +59,73 @@ I.- Asistencia social, el conjunto de acciones tendientes a modificar y mejorar 
 
 II.- Familia, la célula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo.
 
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 4o.
 
-En los términos del Artículo anterior, son sujetos de la recepción de los servicios de asistencia social, preferentemente, los siguientes:
+En los términos del artículo anterior, son sujetos de la recepción de los servicios de asistencia social, preferentemente, los siguientes:
 
-I.- Menores en estado de abandono, desamparo, desnutrición o sujetos a maltrato.
+I.- Todas las niñas, niños y adolescentes, en especial aquellos que se encuentren en situación de riesgo o afectados por:
 
-II.- Menores infractores, sin perjuicio de lo establecido en la Ley que crea el Consejo Tutelar para Menores del Estado de Sonora y en las demás disposiciones aplicables.
+a) Desnutrición;
 
-III.- Alcohólicos, farmacodependientes o individuos en condiciones de vagancia.
+b) Deficiencias en su desarrollo físico o mental, o cuando éste sea afectado por condiciones familiares adversas;
 
-IV.- Mujeres en período de gestación o lactancia.
+c) Maltrato o abuso;
 
-V.- Ancianos en estado de desamparo, incapacidad, marginación o sujetos a maltrato.
+d) Abandono, ausencia o irresponsabilidad de progenitores en el cumplimiento y garantía de sus derechos;
 
-VI.- Minusválidos e inválidos por causa de ceguera, debilidad visual, alteraciones del sistema neuro-musculoesquelético, deficiencias mentales, problemas del lenguaje y de audición o de otras deficiencias.
+e) Ser víctimas de cualquier tipo de explotación;
 
-VII.- Indigentes.
+f) Vivir en la calle;
 
-VIII.- Personas que por su extrema ignorancia requieran de servicios asistenciales.
+g) Ser víctimas del tráfico de personas, la pornografía y el comercio sexual;
 
-IX.- Víctimas de la comisión de delitos, que queden en estado de abandono.
+h) Trabajar en condiciones que afecten su desarrollo e integridad física y mental;
 
-X.- Familiares que dependen económicamente de quienes se encuentren detenidos por causas penales y que queden en estado de abandono.
+i) Víctimas del delito;
 
-XI.- Habitantes del medio rural o del urbano marginados que carezcan de lo indispensable para su subsistencia; y
+j) Ser hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza;
 
-XII.- Personas afectadas por desastres.
+k) Ser migrantes y repatriados;
+
+l) Ser víctimas de conflictos armados y de persecución étnica o religiosa; y
+
+m) Menores infractores, sin perjuicio de lo establecido en la Ley que crea el Consejo Tutelar para Menores del Estado de Sonora y en las demás disposiciones aplicables.
+
+Para los efectos de esta Ley son niñas y niños las personas hasta 12 años incompletos, y adolescentes los que tienen entre 12 años cumplidos y 18 años incumplidos, tal como lo establece el Artículo 2 de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
+
+II.- Las mujeres:
+
+a) En estado de gestación o lactancia y las madres adolescentes;
+
+b) En situación de maltrato o abandono; y
+
+c) En situación de explotación, incluyendo la sexual.
+
+III.- Las personas de los pueblos o comunidades indígenas;
+
+IV.- Alcohólicos, farmacodependientes o individuos en condiciones de vagancia;
+
+V.- Ancianos en estado de desamparo, incapacidad, marginación o sujetos a maltrato;
+
+VI. Personas con algún tipo de discapacidad o necesidades especiales;
+
+VII.- Indigentes;
+
+VIII.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
+
+IX.- Víctimas de la comisión de delitos, que queden en estado de abandono;
+
+X.- Familiares que dependen económicamente de quienes se encuentren detenidos por causas penales y que queden en estado de abandono;
+
+XI.- Habitantes del medio rural o del urbano marginados que carezcan de lo indispensable para su subsistencia;
+
+XII.- Personas afectadas por desastres;
+
+XIII.- Migrantes; y
+
+XIV.- Los demás sujetos considerados en otras disposiciones jurídicas aplicables.
 
 ###### ARTICULO 5o.
 
@@ -549,7 +589,7 @@ MANLIO FABIO BELTRONES R.
 
 Secretario de Gobierno.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 15 DE ENERO DE 2009.
 
@@ -564,3 +604,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Los estímulos fiscales a que se hace referencia en la Ley de Hacienda del Estado se otorgarán a partir del 1º de enero del 2009.
+
+B.O. 27 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
