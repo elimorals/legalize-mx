@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2012-10-11"
+last_updated: "2013-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -3837,6 +3837,12 @@ Se aplicará la pena prevista en el artículo 305 de este capítulo, al que sin 
 
 Por desmantelamiento se entenderá la acción de desarmar y desbaratar de manera total o parcial la estructura del vehículo.
 
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 308-B.
+
+Se sancionará con prisión de un mes a nueve años y de uno hasta doscientos cincuenta días multa, al que sin tomar las medidas indispensables para cerciorarse de su procedencia legítima, compre, venda o comercialice materiales reciclables robados.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 309.
@@ -4438,3 +4444,9 @@ B.O. 11 DE OCTUBRE DE 2012.
 El presente Decreto entrará en vigor a más tardar el 18 de junio de 2016, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 El Congreso del Estado podrá establecer, mediante declaratorias, la entrada en vigor del presente Decreto, de manera gradual, antes del 18 de junio de 2016, en las modalidades que determine.
+
+B.O. 27 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
