@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2012-09-20"
+last_updated: "2013-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -63,7 +63,7 @@ Esta ley, sus reformas y adiciones, así como los reglamentos que emanen de la m
 
 El Congreso del Estado formulará y aprobará su presupuesto anual de egresos y tendrá plena autonomía para su ejercicio, así como para organizarse administrativamente y, en su oportunidad, deberá remitir éste para su inclusión en el proyecto del presupuesto de egresos del Estado que anualmente presenta el Ejecutivo Estatal, con apego a la Constitución Política del Estado y demás normatividad aplicable.
 
-### CAPÍTULO ll. DE LA RESIDENCIA Y DEL RECINTO OFICIAL DEL CONGRESO DEL ESTADO
+### CAPÍTULO II. DE LA RESIDENCIA Y DEL RECINTO OFICIAL DEL CONGRESO DEL ESTADO
 
 ###### ARTÍCULO 8.
 
@@ -239,7 +239,7 @@ Los diputados son responsables por los delitos, faltas u omisiones que cometan d
 
 Son derechos de los diputados:
 
-l.- Integrar la legislatura para la cual fue electo;
+I.- Integrar la legislatura para la cual fue electo;
 
 II.- Iniciar leyes, decretos o acuerdos, proponer enmiendas e intervenir en las discusiones y votaciones de los mismos, así como presentar mociones;
 
@@ -287,7 +287,7 @@ III.- Cumplir con los trabajos que le sean encomendados por el Congreso del Esta
 
 IV.- Justificar ante el pleno del Congreso del Estado la demora en el cumplimiento de los trabajos legislativos que le fueran encomendados de conformidad con la presente ley; y
 
-V- Las demás que contempla la Constitución Política del Estado, esta ley y los ordenamientos jurídicos respectivos.
+V.- Las demás que contempla la Constitución Política del Estado, esta ley y los ordenamientos jurídicos respectivos.
 
 ###### ARTÍCULO 34.
 
@@ -400,6 +400,10 @@ Tratándose de disminución de dieta por los supuestos a que se refieren las fra
 ###### ARTÍCULO 48.
 
 En el caso de la fracción I del artículo 45 de la presente ley, la disminución de la dieta diaria será de un 50%; en tanto que en el caso de las fracciones II, III, IV, V y VI del artículo 45 de esta ley, la disminución de la dieta diaria será del 100%.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTÍCULO 48 BIS.- El monto proveniente de la disminución de la dieta por los supuestos contenidos en el artículo 45 de la presente ley será depositado en un fondo denominado "Fondo de descuentos", a cargo de la Oficialía Mayor, en el cual se acumularán los recursos que fueron sujetos de sanción por faltas injustificadas de los diputados a sesiones del Pleno o reuniones de comisión en el transcurso del año. A final de cada año, el Pleno del Congreso decidirá dicho monto se designará a organizaciones de la sociedad civil que realicen acciones que impacten positivamente en el desarrollo social.
 
 ###### ARTÍCULO 49.
 
@@ -759,19 +763,19 @@ XXI.- De Atención a Grupos Vulnerables de la Sociedad;
 
 > <small>(ADICIONADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
 
-XXl BIS.- De Ciencia y Tecnología;
+XXI BIS.- De Ciencia y Tecnología;
 
 > <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-XXIl.- De Examen Previo y Procedencia Legislativa;
+XXII.- De Examen Previo y Procedencia Legislativa;
 
 > <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-XXIlI.- Del Agua;
+XXIII.- Del Agua;
 
 > <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-XXlV.- De Transporte;
+XXIV.- De Transporte;
 
 > <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
@@ -793,7 +797,7 @@ Además de las comisiones establecidas en el artículo anterior, el Congreso del
 
 Las comisiones de dictamen legislativo tienen las siguientes atribuciones:
 
-l.- Recibir, analizar, estudiar, discutir y dictaminar los asuntos que les turne el pleno del Congreso del Estado;
+I.- Recibir, analizar, estudiar, discutir y dictaminar los asuntos que les turne el pleno del Congreso del Estado;
 
 II.- Elaborar su programa de trabajo, de acuerdo a la agenda legislativa del Congreso del Estado;
 
@@ -813,11 +817,13 @@ El quórum legal para cada sesión de comisiones se constituye por la asistencia
 
 Los dictámenes que las comisiones emitan sobre asuntos que no llegue a resolver el pleno del Congreso del Estado y las iniciativas que por cualquier motivo no se llegasen a dictaminar, quedarán a disposición de la siguiente legislatura.
 
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 97.
 
-Las comisiones deberán presentar sus dictámenes, respecto de los asuntos que les sean turnados, dentro de los treinta días hábiles siguientes a aquél en que los hubieren recibido, salvo que el pleno del Congreso del Estado les determine un plazo distinto. De los asuntos remitidos a comisiones, éstas deberán tomar conocimiento sin estar obligadas a emitir un dictamen respecto de los mismos.
+Las comisiones deberán presentar sus dictámenes, en sentido positivo ó negativo, respecto de los asuntos que les sean turnados, dentro de los treinta días hábiles siguientes a aquél en que los hubieren recibido, salvo que el pleno del Congreso del Estado les determine por mayoría de votos un plazo distinto. Si pasado un año de turnada la iniciativa a la o las Comisiones competentes y ésta no ha sido dictaminada, se desechará de facto, a menos que, de manera razonada, la Comisión o Comisiones a las que les haya sido turnado el asunto a dictaminar, soliciten una prórroga, misma que en ningún caso excederá de un periodo igual al originalmente otorgado.
 
-El término para presentar los dictámenes podrá prorrogarse por el pleno del Congreso del Estado a solicitud del presidente o la mayoría de miembros de la comisión.
+La caducidad legislativa se entenderá como el desechamiento de facto de toda iniciativa no dictaminada en el plazo establecido en el párrafo anterior. Esta figura no aplicará a las iniciativas referidas en el artículo 53, fracciones I, II, IV y V de la Constitución Política del Estado. Tampoco aplica para las denuncias de juicio político o de inicio de un procedimiento de declaratoria de procedencia.
 
 ###### ARTÍCULO 98.
 
@@ -1037,7 +1043,7 @@ Sólo por resolución de las dos terceras partes del pleno del Congreso del Esta
 
 Las iniciativas de ley, de decreto y acuerdo, se sujetarán a los siguientes trámites:
 
-l.- Las iniciativas presentadas por el Ejecutivo y por el Supremo Tribunal de Justicia pasarán desde luego a comisión;
+I.- Las iniciativas presentadas por el Ejecutivo y por el Supremo Tribunal de Justicia pasarán desde luego a comisión;
 
 II. Las iniciativas ciudadanas en los términos del artículo 53 de la Constitución Política del Estado y los acuerdos del Congreso de la Unión para los que se solicite la aprobación de esta legislatura, invariablemente se turnarán a comisión;
 
@@ -1167,7 +1173,7 @@ Cuando el pleno del Congreso del Estado acuerde regresar un dictamen a la comisi
 
 La discusión sólo se podrá suspender por las siguientes causas:
 
-l.- Porque el pleno del Congreso del Estado acuerde dar preferencia a otro negocio de mayor urgencia y gravedad;
+I.- Porque el pleno del Congreso del Estado acuerde dar preferencia a otro negocio de mayor urgencia y gravedad;
 
 II.- Por graves desórdenes en el salón de sesiones;
 
@@ -1175,7 +1181,17 @@ III.- Por falta de quórum; y
 
 IV.- Por moción suspensiva que presente alguno o algunos de los diputados y que la apruebe el pleno del Congreso del Estado.
 
-### CAPÍTULO V. DE LA GACETA PARLAMENTARIA
+### CAPÍTULO IV BIS. DEL CUMPLIMIENTO Y SEGUIMIENTO A LOS PUNTOS DE ACUERDO APROBADOS POR EL CONGRESO DEL ESTADO
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTÍCULO 155 BIS.- Los acuerdos del Congreso del Estado tendrán carácter vinculatorio para los servidores públicos del Gobierno del Estado o de los Ayuntamientos, según corresponda, quienes contarán con un plazo de quince días hábiles, contado a partir del día siguiente en que se le notifique el contenido del resolutivo respectivo, para emitir una respuesta por escrito, fundada y motivada, dirigida al Congreso del Estado.
+
+La respuesta de los servidores públicos a que se refiere el párrafo anterior deberá contener, al menos, un informe de las acciones llevadas a cabo y, en su caso, las que se realizarán, así como una fecha probable para dar oportuno cumplimiento a los planteamientos contenidos en el acuerdo notificado. En caso de disentir del sentido del resolutivo emitido por el Congreso del Estado, el servidor público a quien se dirigió el exhorto, emitirá la respuesta expresando las razones de su postura, caso en el cual, deberá generarse un seguimiento al tema entre el o los diputados que presentaron la iniciativa con punto de acuerdo y los servidores públicos respectivos, mediante la celebración de reuniones públicas o privadas que al efecto estimen pertinente.
+
+Será causa de responsabilidad administrativa y se entenderá actualizado el supuesto de incumplimiento previsto en el artículo 63, fracción XXVI de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, la falta de respuesta o seguimiento a que se refieren los párrafos anteriores, por parte del servidor público a quien se dirigió el contenido del acuerdo aprobado por el Congreso del Estado y dará lugar a que el Presidente de la Mesa Directiva del Congreso del Estado de Sonora interponga, ante la Contraloría del Estado o el Órgano de Control y Evaluación Gubernamental del ayuntamiento, según corresponda, la denuncia y seguimiento al procedimiento respectivo para lograr que se sancione al omiso, informando de todos estos actos al Pleno del Congreso del Estado de Sonora, en forma previa a la culminación de su encargo. El incumplimiento de los deberes impuestos al Presidente de la Mesa Directiva deberá ser sancionado, previo procedimiento que al efecto desahogue la Contraloría Interna del Congreso del Estado, por el Pleno del Poder Legislativo.
+
+Tratándose de acuerdos dirigidos a organismos autónomos, las disposiciones previstas en este capítulo les aplicarán en lo que resulte legalmente aplicable.
 
 ###### ARTÍCULO 147.
 
@@ -1219,9 +1235,11 @@ Para calificar los casos en que los asuntos deban considerarse como de urgente u
 
 En las votaciones que deben resolver las dos terceras partes de los votos que integran el Congreso del Estado, si la división entre tres no diera como resultado un número entero, se pasará al entero inmediato superior.
 
-### CAPÍTULO ÚNICO. DE LOS GRUPOS PARLAMENTARIOS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 27 DE JUNIO DE 2013)</small>
 
-### CAPÍTULO ÚNICO. DE LA AGENDA LEGISLATIVA COMÚN
+### CAPÍTULO V. DE LA GACETA PARLAMENTARIA
+
+### CAPÍTULO ÚNICO. DE LOS GRUPOS PARLAMENTARIOS
 
 ###### ARTÍCULO 156.
 
@@ -1273,7 +1291,7 @@ La lectura a la correspondencia y comunicaciones que requieran el desahogo de tr
 
 ## TÍTULO OCTAVO. DE LOS GRUPOS PARLAMENTARIOS
 
-### CAPÍTULO ÚNICO. EVALUACIÓN DEL DESEMPEÑO LEGISLATIVO
+### CAPÍTULO ÚNICO. DE LA AGENDA LEGISLATIVA COMÚN
 
 ###### ARTÍCULO 161.
 
@@ -1315,7 +1333,7 @@ La falta del informe correspondiente dará lugar a la suspensión de la entrega 
 
 ## TÍTULO NOVENO. DE LA AGENDA LEGISLATIVA COMÚN
 
-### CAPÍTULO ÚNICO. DEL CEREMONIAL
+### CAPÍTULO ÚNICO. EVALUACIÓN DEL DESEMPEÑO LEGISLATIVO
 
 ###### ARTÍCULO 170.
 
@@ -1337,7 +1355,7 @@ IV.- El calendario para la discusión y, en su caso, aprobación de las iniciati
 
 ## TÍTULO DÉCIMO. DE LA EVALUACIÓN DEL DESEMPEÑO Y LA TRANSPARENCIA LEGISLATIVA
 
-### CAPÍTULO I. DE LA ORGANIZACIÓN INTERNA
+### CAPÍTULO ÚNICO. DEL CEREMONIAL
 
 ###### ARTÍCULO 172.
 
@@ -1359,7 +1377,7 @@ El Comité Ciudadano evaluará anualmente al Congreso del Estado en los término
 
 ## TÍTULO DÉCIMO PRIMERO. DEL CEREMONIAL
 
-### CAPÍTULO II. DEL INSTITUTO SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN
+### CAPÍTULO I. DE LA ORGANIZACIÓN INTERNA
 
 ###### ARTÍCULO 176.
 
@@ -1389,9 +1407,17 @@ Siempre que un alto funcionario, un representante diplomático o consular o algu
 
 Los diputados en ejercicio de sus funciones, se presentarán en el salón de sesiones con traje completo. Cuando se trate de un acto solemne usarán vestimenta formal.
 
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTÍCULO 182 BIS.- En la primera sesión de cada periodo ordinario de sesiones, una vez que se haya aprobado el decreto de instalación del periodo ordinario de sesiones correspondiente, deberá entonarse el Himno Nacional con las formalidades que señala la Ley sobre el Escudo, la Bandera y el Himno Nacionales.
+
+Asimismo, al momento de clausurar cada periodo ordinario se deberá entonar el Himno Nacional en los términos del párrafo anterior.
+
+De la misma manera, deberá entonarse el Himno Nacional al inicio de aquellas sesiones que coincidan con alguna fecha de celebración o luto estatal o nacional, según se indique en el orden del día respectivo.
+
 ## TÍTULO DÉCIMO SEGUNDO. DE LA ORGANIZACIÓN ADMINISTRATIVA DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO III. DEL INSTITUTO DE TRANSPARENCIA INFORMATIVA
+### CAPÍTULO II. DEL INSTITUTO SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN
 
 ###### ARTÍCULO 183.
 
@@ -1417,19 +1443,19 @@ Los titulares de la Oficialía Mayor, de las Direcciones Generales y de Contralo
 
 Queda prohibido acordar la entrega de numerario o bienes en especie a diputados o servidores públicos de confianza de primer nivel del Poder Legislativo, a título de bono, indemnización, compensación o cualquier otro concepto semejante o análogo, por motivo de la conclusión anticipada u ordinaria de sus funciones en el Congreso del Estado.
 
-### CAPÍTULO IV. DE LA OFICIALÍA MAYOR
+### CAPÍTULO III. DEL INSTITUTO DE TRANSPARENCIA INFORMATIVA
 
 ###### ARTÍCULO 187.
 
 El Instituto Superior de Auditoría y Fiscalización tendrá la organización y atribuciones que le establezca la Constitución Política del Estado y la ley de la materia.
 
-### CAPÍTULO V. DE LA CONTRALORÍA INTERNA
+### CAPÍTULO IV. DE LA OFICIALÍA MAYOR
 
 ###### ARTÍCULO 188.
 
 El Instituto de Transparencia Informativa tendrá la organización y atribuciones que le establezca la Constitución Política del Estado y la ley de la materia.
 
-### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA
+### CAPÍTULO V. DE LA CONTRALORÍA INTERNA
 
 ###### ARTÍCULO 189.
 
@@ -1675,6 +1701,8 @@ XVI.- Vigilar que se haga buen uso del mobiliario, equipo y vehículos que se as
 
 XVII.- Las demás que les señale el Oficial Mayor o que le confieran otras disposiciones legales.
 
+### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA
+
 ###### ARTÍCULO 194.
 
 La Contraloría interna, será responsable del control y evaluación del desarrollo administrativo y financiero del Congreso del Estado, cuyo titular será designado por el pleno del Congreso del Estado a propuesta de la Comisión de Régimen Interno y Concertación Política.
@@ -1761,7 +1789,7 @@ Hermosillo, Sonora, a 27 de febrero de 2007.
 
 C. DIP. FRANCISCO GARCÍA GÁMEZ, DIPUTADO PRESIDENTE, RUBRICA. C. DIP. REYNALDO MILLÁN COTA, DIPUTADO SECRETARIO, RUBRICA. C. DIP. LUIS MELECIO CHAVARÍN GAXIOLA, DIPUTADO SECRETARIO, RUBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 25 DE SEPTIEMBRE DE 2009.
 
@@ -1796,3 +1824,35 @@ B.O. 20 DE SEPTIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 26, POR EL QUE SE ADICIONA UN CAPÍTULO IV BIS AL TÍTULO SÉPTIMO Y UN ARTÍCULO 155 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 28, POR EL QUE SE REFORMA EL ARTÍCULO 97 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 31, POR EL QUE SE ADICIONA EL ARTÍCULO 48 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 32, POR EL QUE SE ADICIONA EL ARTÍCULO 182 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
