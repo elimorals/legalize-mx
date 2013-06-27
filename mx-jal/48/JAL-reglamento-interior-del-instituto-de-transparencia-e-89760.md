@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-de-transparencia-e-89760"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-16"
-last_updated: "2013-06-25"
+last_updated: "2013-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA E INFORMACION PUBLICA DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA E INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2013.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE JUNIO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 25 DE JUNIO DE 2013.</small>
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 16 de octubre de 2012.
 
@@ -287,7 +287,7 @@ II. Suplir las ausencias del Secretario de Acuerdos de la ponencia y/o Secretari
 
 III. Las demás que señalen las disposiciones legales aplicables.
 
-4. Corresponde a los Actuarios del Instituto de Transparencia e Información Publica del Estado de Jalisco y sus municipios:
+4. Corresponde a los Actuarios del lnstituto de Transparencia e Información Publica del Estado de Jalisco y sus municipios:
 
 I. Notificar en el tiempo y forma prescritos por la ley, las resoluciones recaídas en los expedientes que para tal efecto les sean turnados;
 
@@ -1097,11 +1097,11 @@ Abogado José Miguel Ángel de la Torre Laguna
 
 Secretario Ejecutivo del Instituto de Transparencia e Información Pública del Estado de Jalisco.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE FEBRERO DE 2013.
 
-EL ACUERDO DE REFORMA No. ASC. 136.12.2012 CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+EL ACUERDO DE REFORMA No. ASC. 136.12.2012 CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 25 DE JUNIO DE 2013.
 
@@ -1111,4 +1111,6 @@ El presente Acuerdo entrará en vigor el día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-La Dirección de Planeación y de Gestión Administrativa en atención en uso de sus facultades realizará las adecuaciones técnicas, documentales y materiales necesarias para la reestructuración y mejoramiento del Instituto de Transparencia e Información Pública del Estado de Jalisco, dentro de los 50 días naturales siguientes a su entrada en vigor, (sic)
+La Dirección de Planeación y de Gestión Administrativa en atención en uso de sus facultades realizará las adecuaciones técnicas, documentales y materiales necesarias para la reestructuración y mejoramiento del Instituto de Transparencia e Información Pública del Estado de Jalisco, dentro de los 50 días naturales siguientes a su entrada en vigor,
+
+Sin más, se aprueba por unanimidad de votos por el Pleno del Consejo del Instituto de Transparencia e Información Pública del Estado de Jalisco, la presente iniciativa, para los efectos conducentes en la Sesión Ordinaria de fecha 22 de Mayo del año 2013 dos mil trece.
