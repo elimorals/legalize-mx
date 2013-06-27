@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2011-07-11"
+last_updated: "2013-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -327,7 +327,9 @@ Son obligaciones de los titulares de las entidades públicas sujetas a esta ley:
 
 I.- Preferir, en igualdad de condiciones y de acuerdo con las bases del escalafón, a los trabajadores sindicalizados respecto de quienes no lo estuvieren;
 
-II.- Reinstalar a los trabajadores o cubrir las indemnizaciones por separación injustificada y pagar los salarios caídos en los términos que señale el laudo definitivo del Tribunal;
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
+
+II.- Reinstalar a los trabajadores o cubrir las indemnizaciones por separación injustificada y pagar los salarios caídos en los términos que señale el laudo definitivo del Tribunal; en los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente en categoría y sueldo a la suprimida u optar por su indemnización igual a tres meses del último salario que disfrutaba;
 
 III.- Proporcionar a los trabajadores los medios necesarios para la ejecución de su trabajo;
 
@@ -397,9 +399,7 @@ La relación de trabajo termina:
 
 I.- Por renuncia del trabajador legítimamente aceptada;
 
-> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2010)</small>
-
-II.- Por supresión de la plaza en el presupuesto de egresos o en la ley respectiva; el interesado podrá optar por su indemnización igual a tres meses del último salario que disfrutaba o su colocación en otra plaza equivalente a la suprimida;
+II.- (DEROGADA, B.O. 27 DE JUNIO DE 2013)
 
 III.- Por conclusión del término señalado en el nombramiento o de la obra determinada para la que fue contratado el trabajador;
 
@@ -1214,3 +1214,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado, en un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, realizará las modificaciones pertinentes en las disposiciones reglamentarias de la materia.
+
+B.O. 27 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
