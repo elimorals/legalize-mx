@@ -4,7 +4,7 @@ identifier: "SON-ley-que-determina-las-bases-de-operacion-de-las-casas-de-65112"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-22"
-last_updated: "2008-12-22"
+last_updated: "2013-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY QUE DETERMINA LAS BASES DE OPERACION DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA
 
-LEY QUE DETERMINA LAS BASES DE OPERACION DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA
+LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 22 de diciembre de 2008.
 
@@ -55,7 +55,7 @@ II.- Casas de empeño: Los establecimientos cuyo objeto sea ofrecer la celebraci
 
 III.- Empeño: Contrato de mutuo con interés y garantía prendaria o asimilable a éste, por medio del cual el pignoratario recibe el préstamo y garantiza su restitución a través de una prenda;
 
-lV.- Ley: La Ley que Determina las Bases de Operación de las Casas de Empeño del Estado de Sonora;
+IV.- Ley: La Ley que Determina las Bases de Operación de las Casas de Empeño del Estado de Sonora;
 
 V.- Registro: El Registro Estatal de Casas de Empeño;
 
@@ -101,11 +101,13 @@ III.- Exhibir el formato y la autorización del organismo federal competente, de
 
 La Secretaría deberá expedir a los propietarios o representante legal, en caso de persona moral, previo cumplimiento de las disposiciones establecidas en esta ley, los permisos de operación a que se refiere este capítulo, dentro de los cinco días hábiles siguientes a la fecha en que se realice la solicitud de inscripción.
 
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 10.
 
-Dentro de los cinco días siguientes a la expedición del permiso de operación, el solicitante deberá entregar ante y a favor de la Secretaría, póliza de seguro vigente otorgada por compañía aseguradora autorizada cuyo monto asegurado sea equivalente a doce mil veces el salario mínimo general vigente en la zona económica correspondiente o el suficiente para garantizar los daños y perjuicios que pudiera ocasionarse a los pignoratarios, misma que en ningún caso podrá ser menor a la cantidad antes estipulada y, en todo caso, se deberá mantener vigente el seguro durante la operación del establecimiento y, en su caso, sus sucursales.
+Dentro de los cinco días siguientes a la expedición del permiso de operación, el solicitante deberá presentar a la Secretaría, póliza de seguro vigente otorgada por compañía aseguradora autorizada, cuyo monto asegurado sea equivalente a ocho mil veces el salario mínimo general vigente en la zona económica correspondiente o el suficiente para garantizar los daños y perjuicios que pudiera ocasionarse a los bienes pignorados. En todo caso, el monto de la póliza en ningún caso podrá ser menor a cualquiera de las cantidades antes señaladas, según corresponda. La póliza de seguro deberá estar vigente durante la operación del establecimiento y sus sucursales, cuando las hubiere.
 
-Sin perjuicio de las obligaciones derivadas de los contratos de mutuo con interés y garantía prendaria o asimilable a éstos que se celebren, la póliza de seguro a que se refiere el párrafo anterior deberá garantizar los daños, robo, extravío y, en general, los perjuicios que sufran los objetos entregados por los pignoratarios y que se encuentren en posesión de la casa de empeño correspondiente.
+Sin perjuicio de las obligaciones derivadas de los contratos de mutuo con interés y garantía prendaria o asimilable a éstos que se celebren, la póliza de seguro deberá estar expedida a nombre de la persona física o moral, propietaria de la casa de empeño de que se trate y deberá asegurar al establecimiento por responsabilidad a terceros contra daños, robo, extravío y, en general, por los perjuicios que sufran los bienes pignorados y que se encuentran en posesión de la casa de empeño correspondiente. Los propietarios de la casa de empeño, deberán señalar el número de póliza del seguro que hayan contratado, en cada uno de los recibos de pago que expidan o en los contratos de mutuo con interés y garantía prendaria que celebren.
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES DE LOS PROPIETARIOS Y DE LOS REPRESENTANTES LEGALES, EN LOS CASOS DE PERSONAS MORALES, DE CASAS DE EMPEÑO
 
@@ -153,7 +155,9 @@ II.- La autorización correspondiente expedida por la autoridad federal competen
 
 III.- Lugar y fecha de celebración;
 
-IV.- Los datos de identificación del pignoratario, así como su domicilio, debiendo anexar copia de la documentación que acredite dicha situación, debidamente cotejada con los originales por el propietario o, en su caso, el representante legal de la casa de empeño correspondiente;
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
+
+IV.- Los datos de identificación del pignoratario, anexando copia, por ambos lados, de la credencial de elector, pasaporte mexicano, licencia de manejo o cualquier otro documento de identificación oficial, así como su domicilio, debiendo anexar copia de la documentación que acredite dicha situación, toda copia deberá ser debidamente cotejada con los originales por el propietario o, en su caso, el representante legal de la casa de empeño correspondiente;
 
 V.- El monto del préstamo, los gastos de derecho de almacenaje y el importe de la suma asegurada en caso de siniestro;
 
@@ -161,9 +165,13 @@ VI.- El CAT que deberá cubrir el usuario;
 
 VII.- Los plazos y fechas para los pagos de capital e interés;
 
-VIII.- La descripción de la cosa pignorada, y los datos de identificación individual de la misma cuando por su naturaleza los contenga. Cuando se trate de vehículos de propulsión mecánica y de propulsión o navegación acuática, se deberá anexar al contrato el documento que acredite su propiedad y constancia de la autoridad que corresponda, donde se desprenda que dicho bien no tiene reporte de robo;
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
 
-IX.- La información de la factura que ampare la propiedad de la prenda o la declaración bajo protesta de decir verdad de que se es propietario del bien; y
+VIII.- La descripción detallada de la cosa pignorada, que contenga, en su caso, el número de serie, marca, modelo, así como todos aquellos datos de identificación individual de la misma, cuando por su naturaleza los contenga. Cuando se trate de vehículos de propulsión mecánica, eléctrica y de propulsión o navegación aérea o acuática, se deberá anexar al contrato el documento que acredite su propiedad y constancia de la autoridad que corresponda, donde se desprenda que dicho bien no tiene reporte de robo;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
+
+IX.- La información de la factura o la resolución judicial que ampare la propiedad de la prenda o la declaración bajo protesta de decir verdad, realizada ante dos testigos, de que se es propietario del bien; y
 
 X.- Aceptación expresa por parte del pignoratario de los términos y condiciones del contrato.
 
@@ -171,9 +179,15 @@ X.- Aceptación expresa por parte del pignoratario de los términos y condicione
 
 Los documentos que amparen la propiedad del bien pignorado, deberán anexarse al contrato correspondiente, en copia simple, debidamente cotejada con los originales por el propietario o, en su caso, el representante legal de la casa de empeño correspondiente.
 
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 15.
 
-Los propietarios o, en su caso, el representante legal de las casas de empeño tienen la obligación de llevar un registro pormenorizado de todos los contratos de mutuo con interés y garantía prendaria o asimilable a éstos, del cual deberán remitir una relación mensual a la Secretaría vía electrónica o por algún otro medio aprobado por la misma.
+Los propietarios o, en su caso, el representante legal de las casas de empeño, tienen la obligación de llevar un registro pormenorizado de todos los contratos de mutuo con interés y garantía prendaria o asimilable a éstos, del cual deberán remitir a la Secretaría dentro de los primeros cinco días hábiles de cada mes, una relación de todos los contratos de mutuo con interés y garantía prendaria o asimilables a éstos que hubieren celebrado durante el mes anterior.
+
+Asimismo, deberán remitir a la Procuraduría General de Justicia del Estado, mensualmente y por vía electrónica o por algún otro medio aprobado por dichas dependencias, de los elementos de identificación a que se refiere la fracción VIII del artículo 13 de esta ley de cada objeto pignorado con motivo de los contratos celebrados por la casa de empeño.
+
+La Procuraduría General de Justicia realizará el cotejo de los datos de identificación de los bienes que le sean remitidos por las casas de empeño con la información que conste en las investigaciones por la comisión de delitos que se encuentren en trámite ante dicha dependencia; en caso de que los bienes estén comprendidos dentro de alguna investigación por un hecho delictivo, la Procuraduría General de Justicia deberá comunicar, de inmediato, al propietario o representante legal de la casa de empeño respectiva y procederá conforme a la legislación penal.
 
 ### CAPÍTULO V. DEL REGISTRO ESTATAL DE CASAS DE EMPEÑO
 
@@ -275,7 +289,9 @@ Para el establecimiento de la sanción deberá analizarse la gravedad de la viol
 
 En caso de haberse impuesto por parte de la Secretaría una sanción de suspensión temporal del permiso de operación hasta por treinta días o la cancelación definitiva del permiso de operación a los propietarios y los representantes legales, en los casos de las personas morales, de las casas de empeño, los pignoratarios que deseen recuperar el bien pignorado o llevar a cabo actos estipulados en el contrato respectivo, podrán hacerlo mediante lo dispuesto en el Código Civil y el Código de Procedimientos Civiles para el Estado de Sonora.
 
-De igual forma, al imponerse la cancelación definitiva del permiso de operación o en los casos a que se refiere el párrafo segundo del artículo 10 de esta ley, la Secretaría hará exigible la póliza de seguro establecida en dicho artículo y su producto se distribuirá entre los pignoratarios que acrediten tener contrato vigente con la casa de empeño, sin perjuicio de los derechos y obligaciones que tuvieren las partes con motivo de los contratos respectivos.
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+De igual forma, al imponerse la cancelación definitiva del permiso de operación o en los casos a que se refiere el párrafo segundo del artículo 10 de esta Ley, el propietario de la casa de empeño, hará exigible la póliza de seguro establecida en dicho artículo conforme a los términos contratados, y su producto se distribuirá entre los pignoratarios que acrediten tener contrato vigente con la casa de empeño, sin perjuicio de los derechos y obligaciones que tuvieren las partes con motivo de los contratos respectivos.
 
 ### CAPÍTULO VII. DEL RECURSO
 
@@ -332,3 +348,11 @@ EDUARDO BOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 WENCESLAO COTA MONTOYA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 27 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
