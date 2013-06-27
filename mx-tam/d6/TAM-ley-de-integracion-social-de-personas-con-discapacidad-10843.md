@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-integracion-social-de-personas-con-discapacidad-10843"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "2011-04-27"
+last_updated: "2013-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD
 
-LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD
+LEY DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de febrero de 1997.
 
@@ -51,51 +51,79 @@ La presente Ley es de orden público e interés social y sus disposiciones son d
 
 Salvo mención expresa, para los efectos de esta Ley, se entiende por:
 
-I.- Ley: La Ley de Integración Social de Personas con Discapacidad del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+I.- Asistencia Social: Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, procurar lograr su incorporación a una vida plena y productiva;
 
-II.- Discapacidad: Ausencia, restricción o pérdida, ya sea de naturaleza temporal o permanente, de la habilidad para desarrollar una actividad, en la forma o dentro del margen considerado como normal para un ser humano, pudiendo ser ésta:
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2013)</small>
+
+II.- Ayudas Técnicas: Dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2013)</small>
+
+III.- Barreras arquitectónicas: Todos aquellos elementos de construcción del sector público, social o privado que dificulten, entorpezcan o impidan el libre desplazamiento en espacios interiores y exteriores, a personas con discapacidad, o que dificulten, entorpezcan o impidan el uso de los servicios e instalaciones;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2013)</small>
+
+IV.- Consejo: El Consejo Tamaulipeco para el Bienestar y la Incorporación al Desarrollo de las Personas con Discapacidad;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2013)</small>
+
+V.- D.I.F. Municipal: El Sistema para el Desarrollo Integral de la Familia del Municipio correspondiente del Estado;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2013)</small>
+
+VI.- Discapacidad: Ausencia, restricción o pérdida, ya sea de naturaleza temporal o permanente, de la habilidad para desarrollar una actividad, en la forma o dentro del margen considerado como normal para un ser humano, pudiendo ser ésta;
 
 a).- Discapacidad Neuromotora: El déficit presente en la postura, coordinación o movimiento de los miembros de una persona, ocurrido como secuela de una afección en el sistema nervioso central o periférico o ambos; o por ausencia o pérdida de uno de sus miembros.
 
-b).- Discapacidad Auditiva. La pérdida auditiva en relación a la lesión del oído externo, medio o interno o bien a la patología retrococlear, que a su vez pueden limitar la capacidad de comunicación.
+b).- Discapacidad Auditiva: La pérdida auditiva en relación a la lesión del oído externo, medio o interno o bien a la patología retrococlear, que a su vez pueden limitar la capacidad de comunicación.
 
 c).- Discapacidad Visual: La agudeza visual corregida, en el mejor de los ojos, igual o menor de 20/200 o cuyo campo visual es menor de 20 grados.
 
 d).- Discapacidad Intelectual: El impedimento permanente en las funciones mentales como consecuencia de una alteración prenatal, perinatal o postnatal que limita a la persona en forma permanente para establecer niveles de aprendizaje acordes a su edad cronológica e implica diversos niveles de conciencia e inteligencia.
 
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+e).- Discapacidad del Habla: Discapacidad que presenta una persona, que indica la pérdida, ya sea parcial o total, para hablar.
 
-e).- Discapacidad del Habla: Discapacidad que presenta una persona, que indica la pérdida, ya sea parcial o total, para hablar;
+f).- Discapacidad Múltiple: Es la presencia en una persona de dos o más de las discapacidades contenidas en los incisos anteriores.
 
-f).- Discapacidad Múltiple: Es la presencia en una persona de dos o más de las discapacidades contenidas en los incisos anteriores;
+g).- Debilidad Visual: La incapacidad de la función visual, después de tratamiento médico o quirúrgico, cuya agudeza con su mejor corrección convencional sea de 20/60 a percepción de luz, o un campo visual menor a 10 grados, pero con la visión bastante para la ejecución de sus tareas.
 
-g).- Debilidad Visual: La incapacidad de la función visual, después de tratamiento médico o quirúrgico, cuya agudeza con su mejor corrección convencional sea de 20/60 a percepción de luz, o un campo visual menor a 10 grados, pero con la visión bastante para la ejecución de sus tareas;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2013)</small>
 
-III.- Secretaría: La Secretaría de Salud del Estado;
+VII.- Educación Especial: Conjunto de servicios, programas, orientación y recursos educativos especializados, puestos a disposición de las personas que padecen algún tipo de discapacidad, que favorezcan su desarrollo integral, y faciliten la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación;
 
-IV.- Sistema DIF: El Sistema para el Desarrollo Integral de la Familia del Estado;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+VIII.- Equiparación de Oportunidades: Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población;
 
-V.- Consejo: El Consejo Tamaulipeco para el Bienestar y la Incorporación al Desarrollo de las Personas con Discapacidad;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2013)</small>
 
-VI.- D.I.F. Municipal: El Sistema para el Desarrollo Integral de la Familia del Municipio correspondiente del Estado;
+IX.- Integración: El proceso mediante el cual las personas con discapacidad se incorporan a las actividades de todo tipo, como son las políticas, económicas, laborales, educativas, culturales, deportivas o recreativas, entre otras;
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2013)</small>
 
-VII.- Barreras arquitectónicas: Todos aquellos elementos de construcción del sector público, social o privado que dificulten, entorpezcan o impidan el libre desplazamiento en espacios interiores y exteriores, a personas con discapacidad, o que dificulten, entorpezcan o impidan el uso de los servicios e instalaciones;
+X.- Ley: La Ley de Integración Social de Personas con Discapacidad del Estado de Tamaulipas;
 
-VIII.- Rehabilitación: El conjunto de acciones médicas, psicológicas, sociales, educativas u ocupacionales que tienen por objeto que las personas con discapacidad puedan obtener su máximo grado de recuperación, a fin de realizar actividades que les permitan integrarse a la vida social.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2004)</small>
+XI.- Prevención: La adopción de medidas encaminadas a impedir que se produzcan limitaciones neuromotoras, intelectuales o sensoriales, así como evitar que las discapacidades, cuando se han producido, originen otras.
 
-IX.- Integración: El proceso mediante el cual las personas con discapacidad se incorporan a las actividades de todo tipo, como son las políticas, económicas, laborales, educativas, culturales, deportivas o recreativas, entre otras; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2004)</small>
+XII.- Rehabilitación: El conjunto de acciones Médicas, psicológicas, sociales, educativas u ocupacionales que tiene por objeto que las personas con discapacidad puedan obtener su máximo grado de recuperación, a fin de realizar actividades que le permitan integrarse a la vida social;
 
-X.- Prevención: La adopción de medidas encaminadas a impedir que se produzcan limitaciones neuromotoras, intelectuales o sensoriales, así como evitar que las discapacidades, cuando se han producido, originen otras.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2013)</small>
+
+XIII.- Secretaría: La Secretaría de Salud del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2013)</small>
+
+XIV.- Sistema DIF: El Sistema para el Desarrollo Integral de la Familia del Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2013)</small>
+
+XV.- Perro de asistencia: Aquel que habiendo pasado pruebas de selección física, genética y sanitaria, ha concluido su adiestramiento en centros especializados reconocidos, y adquirido las aptitudes y destrezas necesarias para la compañía, condición y auxilio de personas con discapacidad debiendo estar acreditados e identificados de la forma establecida en esta Ley.
 
 ###### ARTICULO 3o.
 
@@ -105,11 +133,11 @@ X.- Prevención: La adopción de medidas encaminadas a impedir que se produzcan 
 
 (DEROGADO, P.O. 7 DE ENERO DE 2004)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE ENERO DE 2004)</small>
 
 ### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DE LAS PERSONAS CON DISCAPACIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 5o.
 
@@ -143,6 +171,30 @@ VIII.- A ser protegidas contra la discriminación en razón de su discapacidad.
 
 Las personas con discapacidad, al igual que cualquier otro individuo, tienen la obligación de conducirse conforme a la normatividad jurídica vigente y ser respetuosos de las disposiciones constitucionales y de las leyes que rigen la conducta de la sociedad.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 5o.
+
+BIS.- Los principios que deberán observar las políticas públicas en la materia, son:
+
+I.- La equidad;
+
+II.- La justicia social;
+
+III.- La equiparación de oportunidades;
+
+IV.- El reconocimiento de las diferencias;
+
+V.- La dignidad;
+
+VI.- La integración;
+
+VII.- El respeto;
+
+VIII.- La accesibilidad universal; y
+
+IX.- El fomento a la vida independiente.
+
 ### CAPITULO III. DE LAS AUTORIDADES
 
 ###### ARTICULO 6o.
@@ -159,7 +211,9 @@ I.- Establecer las normas técnicas en cuanto a la integración y rehabilitació
 
 II.- Expedir, aplicar y evaluar el Programa Estatal para el Bienestar y la Incorporación al Desarrollo de las Personas con Discapacidad;
 
-III.- Coordinar las diferentes acciones y apoyos que emprendan las instituciones públicas y privadas, en materia de educación, salud, bienestar social, rehabilitación y capacitación laboral, cultura, recreación, deporte, telecomunicaciones, transporte, accesibilidad y derechos humanos;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2013)</small>
+
+III.- Coordinar las diferentes acciones y apoyos que emprendan las instituciones públicas y privadas, en materia de educación, salud, bienestar social, rehabilitación y capacitación laboral, cultura, recreación, deporte, telecomunicaciones, transporte, accesibilidad y derechos humanos, observando siempre la equiparación de oportunidades;
 
 IV.- Contribuir con el Sistema Nacional de Información sobre Población con Discapacidad;
 
@@ -217,13 +271,13 @@ VI.- Coadyuvar, en la esfera de su competencia, al cumplimiento de la presente l
 
 VII.- Otorgar permisos para estacionamientos exclusivos a favor de personas con discapacidad, ubicados de manera adyacente a su domicilio particular, los cuales se distinguirán con guarniciones pintadas de color azul.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE ENERO DE 2004)</small>
 
 ### CAPITULO IV
 
 DEL CONSEJO TAMAULIPECO PARA EL BIENESTAR Y LA INCORPORACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 10.
 
@@ -247,7 +301,7 @@ IV.- Un Coordinador del Consejo; y,
 
 V.- Los vocales necesarios para el desempeño de su función.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 11.
 
@@ -323,7 +377,7 @@ Las subcomisiones se integrarán por instituciones y organismos que desarrollen 
 
 Las subcomisiones tendrán como objetivo evaluar y dar seguimiento a los avances, de conformidad a los compromisos contraídos por cada miembro del Consejo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE ENERO DE 2004)</small>
 
 ### CAPÍTULO V. DE LOS EQUIPOS MULTIPROFESIONALES Y DE LA VALORACIÓN DE LA DISCAPACIDAD
 
@@ -333,7 +387,7 @@ Las subcomisiones tendrán como objetivo evaluar y dar seguimiento a los avances
 
 Corresponde al Sistema DIF, con el auxilio de la Secretaría, la creación de equipos multiprofesionales en las áreas de medicina, psicología, trabajo social y educación especial con la formación profesional y la aptitud necesaria para la valoración y atención profesional de las personas con discapacidad, para su actuación en las diferentes regiones del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 13.
 
@@ -427,11 +481,11 @@ La rehabilitación médico-funcional estará dirigida a dotar a las personas con
 
 La persona que presente alguna discapacidad calificada, según lo establecido por esta Ley, tendrá derecho al beneficio de la rehabilitación médica necesaria para corregir o mejorar su estado físico-mental y social, cuando éste constituya un obstáculo para su integración educativa, laboral y social.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 21.
 
-Se procurará que los procesos de rehabilitación se complementen con la adaptación de prótesis, órtesis, transplante de córnea, lentes intraoculares, otras intervenciones quirúrgicas y cualquier otro elemento auxiliar para personas con discapacidad, cuya condición lo amerite.
+Se procurará que los procesos de rehabilitación se complementen con la adaptación de ayudas técnicas, prótesis, órtesis, trasplante de córnea, lentes intraoculares, otras intervenciones quirúrgicas y cualquier otro elemento auxiliar para personas con discapacidad, cuya condición lo amerite.
 
 ### CAPITULO IX
 
@@ -445,7 +499,7 @@ La orientación y tratamiento psicológico se empleará en todas las fases del p
 
 Para la orientación y tratamiento psicológico se tomarán en cuenta las características individuales de las personas con discapacidad, sus motivaciones e intereses, así como el medio familiar y social que puedan condicionarle.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO X. DE LA EDUCACION GENERAL Y ESPECIAL Y DEL LENGUAJE DE
 
@@ -461,7 +515,7 @@ Una vez determinado y valorado el tipo de discapacidad, la persona será integra
 
 Cuando la persona con discapacidad no fuere aceptada en la escuela regular, a petición de ésta o de quien la represente, el Director del plantel educativo deberá expedir por escrito la causa por la cual no es admitido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 26.
 
@@ -473,7 +527,7 @@ La educación especial a los alumnos con posibilidades de integración, se impar
 
 Con base en lo dispuesto en esta Ley y en la de Educación Pública del Estado, la educación especial, a quienes les resulte imposible la integración al Sistema Educativo General Ordinario, será impartida ajustándose al proceso psicológico de cada sujeto y no estrictamente a su edad cronológica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 28.
 
@@ -617,9 +671,9 @@ Los responsables de las dependencias o empresas que por su naturaleza deban inst
 
 Los restaurantes, comedores de autoservicio, cafeterías y bibliotecas públicas, sin que ello implique instalaciones especiales que puedan denotar segregación, marginación o discriminación de las personas con discapacidad, deberán contar, por lo menos, con una mesa de forma rectangular a una altura de setenta y cinco centímetros libres del piso a la parte inferior de la mesa, con la finalidad de brindar comodidad a usuarios en silla con ruedas.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2013)</small>
 
-Los invidentes acompañados de perros guía, tendrán libre acceso a establecimientos públicos y comerciales, así como a unidades del transporte público colectivo urbano, suburbano, foráneo y taxi con concesión estatal, por lo cual se deberán implementar las medidas necesarias, sin que esto exima del pago de la cuota o tarifa correspondiente.
+Los invidentes acompañados de perros de asistencia, tendrán libre acceso a establecimientos públicos y comerciales, así como a unidades del transporte público colectivo urbano, suburbano, foráneo y taxi con concesión estatal, por lo cual se deberán implementar las medidas necesarias, sin que esto exima del pago de la cuota o tarifa correspondiente.
 
 ###### ARTICULO 44.
 
@@ -903,11 +957,37 @@ Los recursos que se deriven del cobro de multas impuestas por las infracciones a
 
 > <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
 
-###### ARTÍCULO 75.
+###### ARTICULO 75.
 
 Los acreedores a las sanciones impuestas por la Secretaría de Seguridad Pública en el caso de transporte colectivo de pasajeros, podrán inconformarse mediante los recursos que establece la Ley de Transporte vigente en el Estado, ajustándose a las reglas procedimentales que la referida ley establece.
 
 En tratándose de las sanciones impuestas por la Dirección de Obras Públicas municipales en materia de barreras arquitectónicas, podrán inconformarse a través del recurso de reconsideración previsto en el Código Municipal vigente en el Estado, siguiendo las formalidades que establece el mencionado Código para ese procedimiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2013)</small>
+
+### CAPITULO XXI. DEL TRABAJO Y LA CAPACITACION
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 76.
+
+El Gobierno del Estado y los Municipios crearán condiciones que propicien una integración laboral de las personas con discapacidad tendiente al logro de su independencia económica para alcanzar un desarrollo pleno personal y ejercer el derecho a elegir un empleo, tener un hogar, formar una familia y disfrutar una vida digna e independiente.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2013)</small>
+
+###### ARTICULO 77.
+
+Las personas con discapacidad tienen derecho al trabajo y la capacitación, en términos de igualdad de oportunidades y equidad. Para tales efectos, las autoridades competentes establecerán entre otras, las siguientes medidas:
+
+I. Promover el establecimiento de políticas estatales en materia de trabajo encaminadas a la integración laboral de las personas con discapacidad a fin de garantizar que en ningún caso la discapacidad sea motivo de discriminación para el otorgamiento de un empleo;
+
+II. Promover programas de capacitación para el empleo y el desarrollo de actividades productivas destinadas a personas con discapacidad;
+
+III. Diseñar, ejecutar y evaluar programas estatales de trabajo y capacitación para personas con discapacidad, cuyo objeto principal será la integración laboral;
+
+IV. Formular y ejecutar programas específicos de incorporación de personas con discapacidad; y
+
+V. Gestionar la realización de convenios con los sectores empresariales, entidades públicas, organismos sociales, sindicatos y empleadores, instrumentar programas estatales de trabajo y capacitación para las personas con discapacidad, que propicien el acceso al trabajo.
 
 T R A N S I T O R I O
 
@@ -923,7 +1003,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 El Gobernador Constitucional del Estado, MANUEL CAVAZOS LERMA.- Rúbrica.- El Secretario General de Gobierno, JAIME RODRIGUEZ INURRIGARRO.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 7 DE ENERO DE 2004.
 
@@ -962,6 +1042,12 @@ P.O. 21 DE DICIEMBRE DE 2010.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 27 DE ABRIL DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
