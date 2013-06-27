@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-proteccion-contra-la-exposicion-al-9490
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-25"
-last_updated: "2013-06-25"
+last_updated: "2013-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA LEY DE PROTECCION CONTRA LA EXPOSICION AL HUMO DE TABACO PARA EL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE JUNIO DE 2013 NO APLICA AL ARTICULADO DEL ACUERDO PUBLICADO EN EL P.O. DE 25 DE JUNIO DE 2013.</small>
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 25 de junio de 2013.
 
