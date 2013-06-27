@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-del-distrito-federal-34234"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2013-05-13"
+last_updated: "2013-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-09-26"
 
 LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 14 de octubre de 2003.
 
@@ -434,13 +434,17 @@ XX. Presentar ante el titular del órgano Ejecutivo del Distrito Federal, los pr
 
 XXI. Impulsar la creación de fundaciones, fondos, patronatos y similares orientados al apoyo de acciones de fomento y desarrollo cultural;
 
-XXII. Difundir los resultados de los distintos proyectos de investigación, promoviendo tanto publicaciones o ediciones de carácter científico como de divulgación, incluyendo materiales didácticos;
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2013)</small>
+
+XXII. Impulsar la creación del Fondo para Creadores, el cual tendrá el objetivo de generar becas para financiar a los creadores de la Ciudad de México.
+
+XXIII. Difundir los resultados de los distintos proyectos de investigación, promoviendo tanto publicaciones o ediciones de carácter científico como de divulgación, incluyendo materiales didácticos;
 
 > <small>(REFORMADA, G.O. 9 DE MAYO DE 2012)</small>
 
-XXIII. Elaborar las declaratorias de Patrimonio Cultural tangible y/o intangible que expedirá el titular de la Jefatura de Gobierno del Distrito Federal; y
+XXIV. Elaborar las declaratorias de Patrimonio Cultural tangible y/o intangible que expedirá el titular de la Jefatura de Gobierno del Distrito Federal; y
 
-XXIV. Las demás que le otorgue esta Ley y otros ordenamientos jurídicos aplicables.
+XXV. Las demás que le otorgue esta Ley y otros ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
@@ -496,6 +500,8 @@ Las autoridades encargadas de la aplicación de esta Ley se coordinarán entre s
 
 El Consejo de Fomento y Desarrollo Cultural del Distrito Federal, es un espacio de vinculación entre las autoridades culturales y la sociedad en general, con funciones deliberativas y de asesoría.
 
+> <small>N. DE E. SE SUGIERE CONSULTAR EL DECRETO DE REFORMAS DE 10 DE MAYO DE 2013, RELATIVO A LA FRACCIÓN XI, YA QUE EL DECRETO DE 27 DE JUNIO DE 2013, OMITIÓ REFERENCIA ALGUNA.</small>
+
 ###### ARTÍCULO 24.
 
 El Consejo tendrá las siguientes atribuciones:
@@ -518,21 +524,27 @@ VI. Asesorar en el diseño, formulación y ejecución del Programa de Fomento y 
 
 VII. Formular propuestas y opiniones a las autoridades competentes, cuando se considere que estas no se apegan al ejercicio presupuestal y al de sus funciones operativas en el desarrollo de las políticas y programas y Fomento Cultural, así como a los principios y ordenamientos de la presente Ley;
 
-VIII. Opinar sobre las condiciones que estimulen la creación cultural, así como la producción y distribución mayoritaria de los bienes culturales;
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2013)</small>
 
-IX. Aportar ideas con relación a la preservación y fortalecimiento de las diversas culturas que integran el abanico cultural del Distrito Federal, independientemente de su origen territorial;
+VIII. Recibir los proyectos y documentos de los creadores que quieran ser beneficiados con el “Fondo para Creadores” los cuales deberán de ser evaluados para obtener el beneficio;
 
-X. Elaborar sus manuales de organización;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADA, G.O. 10 DE MAYO DE 2013)</small>
+IX. Opinar sobre las condiciones que estimulen la creación cultural, así como la producción y distribución mayoritaria de los bienes culturales;
 
-XI. Conocer de las observaciones formuladas por los Consejos Delegacionales, e intervenir para la constitución en términos del tercer párrafo del artículo 33 de esta ley;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADA, G.O. 10 DE MAYO DE 2013)</small>
+X. Aportar ideas con relación a la preservación y fortalecimiento de las diversas culturas que integran el abanico cultural del Distrito Federal, independientemente de su origen territorial;
 
-XII. Recomendar a la Secretaria de Cultura Bienes de Patrimonio Cultural Intangible susceptibles de declaratoria, y
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2013)</small>
 
-> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2013)</small>
+XI. Elaborar sus manuales de organización;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2013)</small>
+
+XII. Recomendar a la Secretaría de Cultura bienes de Patrimonio Cultural tangible o intangible susceptibles de Declaratoria; y
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2013)</small>
 
 XIII. En general, las que determine su Presidente y que sean inherentes para el cumplimiento del objeto del Consejo.
 
@@ -1145,6 +1157,12 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Fede
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 G.O. 13 DE MAYO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 27 DE JUNIO DE 2013.
 
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
