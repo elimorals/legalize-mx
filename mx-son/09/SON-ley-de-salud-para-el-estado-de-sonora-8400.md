@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2011-06-23"
+last_updated: "2013-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -109,9 +109,9 @@ XV. La prevención de la invalidez y la rehabilitación de los inválidos;
 
 XVI. La asistencia social;
 
-> <small>(REFORMADA, B.O. 7 DE JULIO DE 2003)</small>
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
 
-XVII. Los programas contra el alcoholismo y el tabaquismo;
+XVII.- Los programas contra el alcoholismo, el tabaquismo y la ludopatía;
 
 > <small>(ADICIONADA, B.O. 9 DE JUNIO DE 2008)</small>
 
@@ -527,7 +527,7 @@ De acuerdo con lo que señalen las disposiciones legales aplicables, cualquier a
 
 ###### ARTICULO 44.
 
-La participación de la comunidad en los programas de protección a la salud y en la prestación de los servicios respectivos, tendrá por objeto fortalecer la estructura y funcionamiento de los Sistemas Nacional y Estatal de Salud e incrementar el mejoramiento del nivel de salud de la población del Estado.
+La participación de la comunidad en los programas de protección de la salud y en la prestación de los servicios respectivos, tendrá por objeto fortalecer la estructura y funcionamiento de los Sistemas Nacional y Estatal de Salud e incrementar el mejoramiento del nivel de salud de la población del Estado.
 
 ###### ARTICULO 45.
 
@@ -665,7 +665,9 @@ IV. Las demás acciones que directa o indirectamente contribuyan al fomento de l
 
 La atención de las enfermedades mentales comprende:
 
-I. La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o sustancias psicotrópicas; y
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
+
+I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos, personas que usen habitualmente estupefacientes o sustancias psicotrópicas y ludópatas; y
 
 II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento hospitalario o ambulatorio y rehabilitación de enfermos y deficientes mentales y adictos.
 
@@ -1231,7 +1233,25 @@ Las autoridades sanitarias, en sus respectivos ámbitos de competencia y en form
 
 Las autoridades sanitarias tendrán entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de rehabilitación y educación especial.
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTICULO 142 BIS.- Se entiende por alcoholismo a la enfermedad consistente en padecer una fuerte necesidad por consumir, incontroladamente, bebidas alcohólicas, interfiriendo con la salud física o mental del individuo y con las responsabilidades sociales, familiares u ocupacionales. Las categorías del alcoholismo se dividen en dependencia y abuso.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTICULO 142 BIS 1.- Se entiende por tabaquismo a la enfermedad crónica sistemática de tipo adictiva, provocada por el componente activo de los productos del tabaco, es decir, la nicotina.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTICULO 142 BIS 2.- Se entiende por farmacodependencia, el estado psíquico y a veces físico en el que un individuo tiene un impulso irreprimible de consumir fármacos en forma continua y periódica, esto con el fin de experimentar sus efectos psíquicos y, a veces, para evitar una sensación de malestar que surge al dejar de consumirlo.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTICULO 142 BIS 3.- Se entiende por ludopatía el trastorno del comportamiento, entendiéndose éste como expresión de la psicología del individuo, consistente en la pérdida de control en relación con un juego de apuestas o más, tanto si incide en las dificultades que supone para el individuo dejar de jugar cuando está apostando, como en mantenerse sin apostar definitivamente en el juego, distorsionándose de esta manera el pensamiento, las emociones y la comunicación con las personas que lo rodean.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 128.
 
@@ -1259,7 +1279,7 @@ El Ejecutivo del Estado promoverá en el ámbito estatal la prestación de servi
 
 El Ejecutivo del Estado y los Ayuntamientos, en coordinación con las entidades públicas correspondientes, prestarán el auxilio que requieran aquellas zonas del Estado, en las que se padezcan desastres originados por sequías, terremotos, inundaciones y fenómenos naturales o contingencias con efectos similares.
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO I BIS. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHÓLICAS
 
 ###### ARTICULO 133.
 
@@ -1359,13 +1379,39 @@ El Patronato o Junta Directiva podrá autorizar a cualesquiera de sus integrante
 
 ###### ARTICULO 142.
 
-En el Estado de Sonora, sólo podrán promover y realizar suscripciones de cooperación pública, las instituciones de asistencia pública y aquellas instituciones de asistencia privada debidamente constituIdas y registradas ante la Junta de Asistencia Privada.
+En el Estado de Sonora, sólo podrán promover y realizar suscripciones de cooperación pública, las instituciones de asistencia pública y aquellas instituciones de asistencia privada debidamente constituidas y registradas ante la Junta de Asistencia Privada.
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 9 DE JUNIO DE 2008)</small>
 
 ## TITULO DECIMO. PROGRAMAS CONTRA LAS ADICCIONES, LAS ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
 
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE JUNIO DE 2013)</small>
+
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+
+###### ARTICULO 143.
+
+Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
+
+I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
+
+II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva; y
+
+III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+
+###### ARTICULO 144.
+
+Para obtener la irformación (sic) que oriente las acciones contra el alcoholismo y el abuso de bebidas alcohólicas, las autoridades sanitarias del Estado, en coordinación con otras dependencias y entidades públicas, realizarán actividades de investigación en los siguientes aspectos:
+
+I. Causas del alcoholismo y acciones para controlarlas;
+
+II. Efectos de la publicidad en la incidencia del alcoholismo y en los problemas relacionados con el consumo de bebidas alcohólicas;
+
+III. Hábitos de consumo de alcohol en los diferentes grupos de población; y
+
+IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
 ### CAPITULO IV. ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
 
@@ -1397,29 +1443,7 @@ III.- Hábitos alimenticios y de ejercitación física en los diferentes grupos 
 
 IV.- Dietas alimenticias y rutinas de ejercicio recomendadas por rango de edad, peso, estatura y diferenciado por género, encaminadas a mejorar la calidad de vida y prevenir enfermedades cardiovasculares, obesidad y diabetes en la población.
 
-###### ARTICULO 143.
-
-Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
-
-I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
-
-II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva; y
-
-III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
-
-###### ARTICULO 144.
-
-Para obtener la irformación (sic) que oriente las acciones contra el alcoholismo y el abuso de bebidas alcohólicas, las autoridades sanitarias del Estado, en coordinación con otras dependencias y entidades públicas, realizarán actividades de investigación en los siguientes aspectos:
-
-I. Causas del alcoholismo y acciones para controlarlas;
-
-II. Efectos de la publicidad en la incidencia del alcoholismo y en los problemas relacionados con el consumo de bebidas alcohólicas;
-
-III. Hábitos de consumo de alcohol en los diferentes grupos de población; y
-
-IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
-
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 145.
 
@@ -1440,6 +1464,56 @@ I. La investigación de las causas del tabaquismo y de las acciones para control
 II. La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes; y
 
 III. Los efectos de la publicidad en la incidencia del tabaquismo y en los problemas relacionados con el consumo del tabaco.
+
+### CAPITULO V. PROGRAMA CONTRA LA LUDOPATÍA
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTICULO 148 TER.- El Ejecutivo del Estado realizará acciones coordinadas con la Secretaría de Salud, en la ejecución de programas contra la ludopatía que comprenderán las siguientes:
+
+I.- La prevención y el tratamiento de los padecimientos ocasionados por la ludopatía;
+
+II.- La educación sobre los efectos que produce la ludopatía, dirigida especialmente a las familias, a través de métodos individuales, sociales o de comunicación masiva; y
+
+III.- El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra la ludopatía, especialmente en zonas donde se encuentren ubicados establecimientos de juegos o establecimientos de prestación de servicios de juegos con apuestas y en los grupos de población considerados de alto riesgo.
+
+Los Ayuntamientos deberán considerar en su plan municipal de desarrollo, los mecanismos y acciones que resulten necesarias para la planeación y ejecución de programas orientados a la prevención y combate de los casos de ludopatía en sus respectivos municipios.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTICULO 148 TER 1.- Para poner en práctica las acciones contra la ludopatía, el Ejecutivo del Estado, a través de la Secretaría de Salud, tendrá en cuenta lo siguiente:
+
+I.- La prevención y el tratamiento de padecimientos originados por la ludopatía;
+
+II.- La investigación sobre los efectos de la publicidad en la incidencia de la ludopatía;
+
+III.- La educación a la familia para prevenir la ludopatía por parte de sus miembros integrantes; y
+
+IV.- Los efectos de la ludopatía en los ámbitos familiar, social, laboral, psicológico y educativo.
+
+El Ejecutivo del Estado deberá destinar recursos suficientes para el cumplimiento de este programa.
+
+###### ARTICULO 147.
+
+El Ejecutivo del Estado realizará acciones coordinadas con la Secretaría de Salud, en la ejecución de programas y acciones contra la farmacodependencia, en los términos del Acuerdo de Coordinación específico que celebren ambos órdenes de gobierno.
+
+###### ARTICULO 148.
+
+El Ejecutivo del Estado y los Ayuntamientos, para evitar y prevenir el consumo de sustancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+
+I. Determinarán y ejercerán medios de control en el expendio de sustancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
+
+II. Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas sustancias, para evitar el empleo indebido de las mismas;
+
+III. Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inahalantes; y
+
+IV. Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
+
+A los establecimientos que vendan o utilicen inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Ejecutivo Estatal y los Ayuntamientos, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta ley.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 9 DE JUNIO DE 2008)</small>
+
+### CAPITULO UNICO
 
 ### CAPITULO UNICO. DONACIONES Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS Y PERDIDA DE LA VIDA EN SERES HUMANOS
 
@@ -1475,29 +1549,11 @@ ARTICULO 154 BIS G.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACI
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
 
-###### ARTICULO 147.
-
-El Ejecutivo del Estado realizará acciones coordinadas con la Secretaría de Salud, en la ejecución de programas y acciones contra la farmacodependencia, en los términos del Acuerdo de Coordinación específico que celebren ambos órdenes de gobierno.
-
-###### ARTICULO 148.
-
-El Ejecutivo del Estado y los Ayuntamientos, para evitar y prevenir el consumo de sustancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
-
-I. Determinarán y ejercerán medios de control en el expendio de sustancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
-
-II. Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas sustancias, para evitar el empleo indebido de las mismas;
-
-III. Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inahalantes; y
-
-IV. Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
-
-A los establecimientos que vendan o utilicen inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Ejecutivo Estatal y los Ayuntamientos, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta ley.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 9 DE JUNIO DE 2008)</small>
-
 ### CAPITULO I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, B.O. 10 DE MARZO DE 1997)</small>
+
+## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS ALCOHOLICAS Y NO ALCOHOLICAS
 
 ### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
@@ -1505,21 +1561,15 @@ A los establecimientos que vendan o utilicen inhalantes con efectos psicotrópic
 
 > <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
-## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS ALCOHOLICAS Y NO ALCOHOLICAS
-
 ### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
 
 ### CAPITULO V. SERVICIO DE LIMPIA
-
-### CAPITULO VI. RASTROS
-
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ## TITULO DECIMO PRIMERO BIS. DONACIONES Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS Y PERDIDA DE LA VIDA EN SERES HUMANOS
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2003)</small>
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 149.
 
@@ -1559,17 +1609,17 @@ Corresponde a la autoridad municipal, con base en lo que dispongan los Bandos de
 
 ## TITULO DÉCIMO SEGUNDO. SALUBRIDAD LOCAL
 
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+
 ### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL Y CENTROS DE TRATAMIENTO Y DE APLICACION DE MEDIDAS PARA ADOLESCENTES
 
 > <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO X. BAÑOS Y ALBERCAS PUBLICOS
-
-### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
-
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO XII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO X. BAÑOS Y ALBERCAS PUBLICOS
 
 ###### ARTICULO 155.
 
@@ -1639,7 +1689,7 @@ La autoridad sanitaria competente publicará en el Boletín Oficial del Gobierno
 
 Las notificaciones que conforme a esta ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO XIII. GASOLINERAS
+### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 162.
 
@@ -1659,7 +1709,7 @@ Los vendedores, locatarios y personas cuya actividad esté vinculada con los mer
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL
+### CAPITULO XII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 165.
 
@@ -1699,7 +1749,7 @@ Los propietarios o poseedores de los establecimientos están obligados a ejecuta
 
 (DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
-### CAPITULO XV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO XIII. GASOLINERAS
 
 ###### ARTICULO 173.
 
@@ -1743,7 +1793,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a forestaci
 
 Los procedimientos de refrigeración, exhumación, cremación de cadáveres y embalsamamiento deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las normas técnicas que dicte la Secretaría.
 
-### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
+### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL
 
 ###### ARTICULO 179.
 
@@ -1783,7 +1833,9 @@ La autoridad municipal, proveerá de depósitos de basura en los parques, jardin
 
 Para toda la actividad relacionada con este Capítulo, se estará a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPÍTULO XV. ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTAS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 185.
 
@@ -1821,7 +1873,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios que de
 
 El sacrifico de animales en los rastros autorizados se efectuará en los días y horas que fije la autoridad municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dicha autoridad y la autoridad sanitaria para realizar las verificaciones necesarias.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
 
 ###### ARTICULO 193.
 
@@ -1863,7 +1915,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos a ríos, acueductos, corrientes o canales por donde fluyan aguas destinadas a uso o consumo humano; en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 202.
 
@@ -1897,7 +1949,7 @@ Las condiciones sanitarias que deban reunir los establecimiento (sic) a que se r
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO UNICO
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 207.
 
@@ -1921,7 +1973,7 @@ Los responsables de los reclusorios, centros de readaptación social y Centros d
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 211.
 
@@ -1943,7 +1995,7 @@ Para abrir al servicio público estos establecimientos deberá obtenerse licenci
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes que dicte la Secretaría.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO UNICO
 
 ###### ARTICULO 214.
 
@@ -1961,7 +2013,7 @@ La autoridad sanitaria competente, una vez terminada la edificación del centro 
 
 El funcionamiento de los establecimientos a que se refiere el artículo 214 de esta ley, deberá sujetarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 217.
 
@@ -1979,7 +2031,7 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 
 La autoridad sanitaria competente, expedirá las autorizaciones a que se refieren los artículos anteriores, cuando el solicitante haya satisfecho los requisitos que establece esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 221.
 
@@ -1991,7 +2043,7 @@ Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad 
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 223.
 
@@ -2013,11 +2065,13 @@ En los establecimientos a que se refiere este Capítulo queda prohibida la reali
 
 Los instrumentos, aparatos, ropa y accesorios de uso público que se utilicen en los establecimientos de servicios para el cuidado personal, tales como tijeras, peines, pinzas cosméticas, sillones, mandiles y otros similares deberán mantenerse limpios y, en su caso, esterilizados, conforme a las normas técnicas que al efecto se expidan. En todo caso, las navajas de rasurar para uso público deberán ser desechables, y sólo podrán utilizarse para una ocasión.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
+
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 227.
 
-(DEROGADO, B.O. 4 DE JUNIO DE 2009)
+Previo a las obras de edificación y a la obtención de licencias, permisos o autorizaciones municipales y/o federales, quienes pretendan llevar a cabo proyectos de establecimientos para operar máquinas electrónicas de juego con sorteo de números y apuestas, requerirán de autorización sanitaria de la Secretaría quien, bajo condiciones objetivas, fijará las reglas que deberán cumplir los solicitantes en materia de ludopatía y demás aspectos aplicables a dichos establecimientos en el ámbito de su competencia.
 
 ###### ARTICULO 228.
 
@@ -2026,6 +2080,8 @@ Los instrumentos, aparatos, ropa y accesorios de uso público que se utilicen en
 ###### ARTICULO 229.
 
 (DEROGADO, B.O. 4 DE JUNIO DE 2009)
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 230.
 
@@ -2876,3 +2932,23 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado, deberá realizar las modificaciones que correspondan a los reglamentos respectivos y presentar el programa a que se hace referencia en el Artículo 148 Bis, en un plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+B.O. 27 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado de Sonora y los ayuntamientos deberán destinar los recursos financieros necesarios, dentro de sus respectivos presupuestos de egresos de cada año, para cumplimentar lo dispuesto por la Ley de Salud y la Ley de Prevención, Tratamiento y Control de Adicciones para el Estado de Sonora.
+
+El Congreso del Estado deberá establecer las contribuciones necesarias para solventar el gasto que importan los servicios de prevención y rehabilitación en materia de adicción a la ludopatía u otras afecciones que originan el contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los ayuntamientos del Estado deberán adecuar su reglamentación municipal en materia de ordenamiento territorial y desarrollo urbano dentro de los 90 días posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Hasta en tanto los ayuntamientos no cuenten con lo señalado en el artículo anterior, deberán ceñir su actuación de manera supletoria a las disposiciones emanadas del presente Decreto.
