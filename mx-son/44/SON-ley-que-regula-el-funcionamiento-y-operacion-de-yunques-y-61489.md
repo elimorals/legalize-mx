@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-el-funcionamiento-y-operacion-de-yunques-y-61489
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-02"
-last_updated: "2008-06-02"
+last_updated: "2013-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACION DE YUNQUES Y RECICLADORAS PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 2 de junio de 2008.
 
@@ -147,9 +147,17 @@ VII.- Otorgar garantías ante la Secretaría y, en su caso, los ayuntamientos, p
 
 VIlI.- Proporcionar a la Secretaría y, en su caso, a los ayuntamientos la información que les sea requerida;
 
-IX.- Verificar en todo momento el origen de los materiales u objetos que compran para el desarrollo de su actividad, y llevar un registro de las personas que ofrecen a éstos en venta dichos materiales u objetos, registrando la cantidad comprada y la fecha en que se llevó a cabo la compra; y
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
 
-X.- Las demás que establezca esta ley y otros ordenamientos jurídicos aplicables.
+IX.- Verificar, en todo momento, el origen de los materiales u objetos que compran para el desarrollo de su actividad y llevar un registro con los datos de la identificación correspondiente de las personas que les ofrecen en venta dichos materiales u objetos, registrando la cantidad comprada y la fecha en que se llevó a cabo la compra;
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
+
+X.- Proporcionar, mensualmente, a la Secretaría y a la Procuraduría General de Justicia, la lista de materiales y copia fotostática de las identificaciones oficiales de todas las personas a las que les compraron material reciclable de cualquier tipo; y
+
+> <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2013)</small>
+
+XI.- Las demás que esta ley y otros ordenamientos jurídicos establezcan.
 
 ###### Artículo 8.
 
@@ -364,3 +372,11 @@ EL SECRETARIO DE GOBIERNO
 ROBERTO RUIBAL ASTIAZARAN
 
 RÚBRICA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 27 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
