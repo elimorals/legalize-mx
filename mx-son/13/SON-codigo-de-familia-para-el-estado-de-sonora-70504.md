@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-familia-para-el-estado-de-sonora-70504"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2011-07-14"
+last_updated: "2013-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # CODIGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-CODlGO DE FAMILIA PARA EL ESTADO DE SONORA
+CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de octubre de 2009.
 
@@ -88,6 +88,16 @@ El hombre y la mujer son iguales ante la ley, por lo que de común acuerdo decid
 ###### Artículo 8.
 
 Los hijos, cualquiera que sea la vinculación entre sus padres, son iguales ante la ley. Tienen derecho a conocer íntegramente su identidad, por lo que pueden reclamar el vínculo paterno-filial y a exigir informes sobre su origen genético, en los casos y condiciones previstos por la ley.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+Artículo 8 BIS.- Todo niño tiene derecho a ser escuchado en cualquier causa administrativa o judicial que le afecte, en forma directa y libre cuando su desarrollo intelectual le permita expresarse en forma razonada, a juicio de la autoridad que conozca del asunto, o por medio de representante. Su opinión será tomada en cuenta en razón de su edad y madurez, atendiendo siempre al interés superior del mismo.
+
+Para preservar su estabilidad emocional será escuchado en privado por el Juez, apoyado por un psicólogo, en áreas especiales para este propósito y mediante conversaciones informales.
+
+A fin de evitar conflictos de lealtades, no se dejará constancia de la opinión del menor, cuando se trate de conflictos que involucren a sus padres o a cualquier otro miembro de su familia ni en los juicios sobre adopción o reconocimiento de hijos.
+
+No se admitirá que el menor sea llamado como testigo por alguna de las partes, cuando se trate de juicios de divorcio, pérdida de la patria potestad o en las causas penales, cuando comparezca como testigo de cargo, a solicitud de alguno de sus padres y en perjuicio del otro.
 
 ### CAPITULO II. DE LA CONSTITUCIÓN Y DISOLUCIÓN DE LOS ESTADOS DE FAMILIA
 
@@ -215,7 +225,7 @@ Los cónyuges están obligados a contribuir, cada uno por su parte, a los fines 
 
 Los derechos y obligaciones que esta ley otorga e impone a la pareja conyugal, serán siempre iguales para cada uno de sus miembros, independientemente de su aportación económica al sostenimiento de la familia, por lo que de común acuerdo determinarán todo lo relativo al domicilio, trabajo de los cónyuges, atención y cuidado del hogar, educación y establecimiento de los hijos, así como a la administración y disposición de los bienes comunes y de sus descendientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 26.
 
@@ -375,7 +385,7 @@ Todo pacto que importe cesión de una parte de los bienes propios de cada cónyu
 
 En los supuestos del artículo 51 de este Código, cualquier modificación posterior que hagan los cónyuges de las capitulaciones matrimoniales deberá ser autorizada por el Juez o mediante escritura pública, ordenando la respectiva anotación en el protocolo en que se otorgaron las primeras y en el acta de matrimonio. Cuando por virtud de la modificación se transmitan bienes inmuebles o derechos reales entre los cónyuges, deberá inscribirse esta circunstancia en la oficina del Instituto Catastral y Registral para el Estado de Sonora que corresponda, a fin de que surta efectos contra terceros.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 57.
 
@@ -397,7 +407,7 @@ VI.- La declaración terminante acerca de quién debe ser administrador de la so
 
 VII.- La declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio, habrán de pertenecer exclusivamente al adquirente, o si deben repartirse entre ellos y en qué proporción; y
 
-VlIl.- Las bases para liquidar la sociedad.
+VIII.- Las bases para liquidar la sociedad.
 
 ###### Artículo 58.
 
@@ -569,7 +579,7 @@ II.- El importe de las enajenaciones o cualquier disposición realizada por el a
 
 Son cargas de la sociedad no sólo las que reclamen legítimamente los terceros, sino también los cónyuges, cuando hubiesen cubierto con bienes propios deudas de la sociedad.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 84.
 
@@ -711,7 +721,7 @@ IV.- Que se haya celebrado en contravención a lo dispuesto en los artículos 18
 
 La acción de nulidad que nace del error sobre la persona, sólo puede deducirse por el cónyuge engañado; pero si éste no lo denuncia ante la autoridad judicial en los próximos quince días de conocido o consuma la unión sexual, se tendrá por ratificado el consentimiento y subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 107.
 
@@ -727,7 +737,7 @@ III.- Que haya subsistido al tiempo de celebrarse el matrimonio.
 
 La acción que nace de esta causa de nulidad sólo puede deducirse por el cónyuge agraviado, dentro de sesenta días desde la fecha en que cesó la violencia o intimidación.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 108.
 
@@ -755,7 +765,7 @@ Caduca esta acción de nulidad si ha pasado el término legal sin reclamarla.
 
 El matrimonio entre menores de 18 años pero mayores de 16 años, se convalida si el ascendiente consiente posteriormente en el matrimonio, hace donación a los descendientes en consideración al mismo, invita a los consortes a vivir en su casa o cualquier otro acto que, a juicio del Juez, demuestre su consentimiento tácito.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 112.
 
@@ -877,7 +887,7 @@ II.- Las hechas recíprocamente por los cónyuges durante el matrimonio quedará
 
 III.- El cónyuge de mala fe deberá restituir al otro todo lo que haya recibido en donación o restituir su precio actualizado. Si ambos obraron de mala fe ninguno podrá reclamar la restitución de lo donado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 133.
 
@@ -1123,7 +1133,7 @@ El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a �
 
 El abandono injustificado del domicilio conyugal, constituye una causal permanente que sólo se interrumpe cuando el cónyuge abandonante regrese unilateralmente al hogar y cumpla plenamente las obligaciones inherentes al matrimonio, por lo que el divorcio debe solicitarse dentro de los seis meses siguientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 160.
 
@@ -1151,11 +1161,11 @@ Son causas de divorcio los actos inmorales ejecutados por cualquiera de los padr
 
 Las amenazas e injurias graves, la acusación calumniosa por delito infamante y la comisión de un delito contra la persona o los bienes del otro cónyuge o los hijos, son causales que no requieren la tramitación previa de un juicio penal. El Juez que conozca del divorcio entrará al estudio de la causal invocada, constatando la existencia del delito y la responsabilidad del cónyuge culpable para el sólo efecto de decretar el divorcio.
 
+> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 165.
 
 El delito infamante cometido por uno de los cónyuges en contra de terceros, sí requiere de sentencia penal de condena debidamente ejecutoriada, en la que se imponga al inculpado una pena de prisión, independientemente de su duración y de que ésta se suspenda o se conmute.
-
-> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 166.
 
@@ -1177,7 +1187,7 @@ Los padres divorciados tendrán obligación de contribuir, en proporción a sus 
 
 En el divorcio voluntario los cónyuges no están obligados a darse alimentos. Si se pactan, serán considerados como una liberalidad de quien los otorga y se deberán cumplir a la letra.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 169.
 
@@ -1235,7 +1245,7 @@ III.- En la impotencia para la cópula o enfermedades hereditarias, el Juez requ
 
 Si no se presenta dicho convenio en el plazo que se les fije, el Juez decretará las medidas que considere aplicables en uno u otro caso, manteniendo ambos cónyuges los derechos y obligaciones derivados de la patria potestad, a excepción de la custodia que será asignada por el Juez a quien mejor garantice la protección y el correcto desarrollo de los hijos, pudiendo modificar esta determinación por causas supervenientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Articulo 178.
 
@@ -1449,7 +1459,7 @@ En la línea recta los grados se cuentan por el número de generaciones, excluye
 
 En la línea transversal o colateral, los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra, o por el número de personas que hay de uno al otro de los extremos que se consideren, excluyendo la del progenitor o tronco común. Los derechos y obligaciones de carácter familiar, solo alcanzan a los parientes colaterales hasta el cuarto grado y sin limitación en la línea recta.
 
-## TITULO SEGUNDO. DE LA FlLIACION CONSANGUINEA
+## TITULO SEGUNDO. DE LA FILIACION CONSANGUINEA
 
 ### CAPITULO I. DE LOS HIJOS DE MATRIMONIO Y LA IMPUGNACIÓN DEL VÍNCULO PATERNO FILIAL
 
@@ -1497,7 +1507,7 @@ Excepto en el caso del artículo anterior, los herederos del marido, no podrán 
 
 ###### Artículo 220.
 
-El marido podrá desconocer en cualquier momento al hijo nacido después de trescientos días de que, judicialmente o de hecho, tuvo lugar la separación provisional prescrita para los casos de divorcio, inexistencia o nulidad; pero la mujer, el hijo o su tutor, pueden sostener, en tales casos, que el marido es el padre, demostrando el vinculo por cualquier medio de prueba.
+El marido podrá desconocer en cualquier momento al hijo nacido después de trescientos días de que, judicialmente o de hecho, tuvo lugar la separación provisional prescrita para los casos de divorcio, inexistencia o nulidad; pero la mujer, el hijo o su tutor, pueden sostener, en tales casos, que el marido es el padre, demostrando el vínculo por cualquier medio de prueba.
 
 ###### Artículo 221.
 
@@ -1667,7 +1677,7 @@ En caso de que no hicieren la designación, el Juez de Primera Instancia de lo F
 
 Cuando el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la custodia el que primero hubiere reconocido, salvo que convengan otra cosa o que el Juez de Primera Instancia que conozca del asunto, a solicitud del padre no custodio y con audiencia del otro y del Ministerio Público, en su caso, decida por causas graves trasladarle la custodia, respetando los derechos del padre no custodio a una adecuada vinculación con el hijo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 252.
 
@@ -1709,7 +1719,7 @@ En los casos de matrimonio, el nacimiento de los hijos puede inscribirse por uno
 
 A falta de actas, o si éstas fueren defectuosas, incompletas o falsas, el vínculo se probará con la posesión constante de estado de hijo nacido de matrimonio. En defecto de esta posesión, son admisibles para demostrar el carácter de la filiación todos los medios que la ley autoriza, incluidas las pruebas biológicas que se practiquen por instituciones oficiales o autorizadas por el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 256.
 
@@ -1767,7 +1777,7 @@ La acción correspondiente puede ejercitarse en forma autónoma o conjuntamente 
 
 La investigación de la paternidad y maternidad de los hijos nacidos fuera del matrimonio está permitida y se demostrará a través de las pruebas biológicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 263.
 
@@ -1929,11 +1939,11 @@ Tan luego como cause ejecutoria la resolución judicial que autorice una adopci�
 
 El Juez que apruebe la adopción, remitirá oficiosamente copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que inscriba gratuitamente la adopción en el libro respectivo y al que registró el nacimiento para que haga las anotaciones necesarias.
 
-### CAPITULO Il. DE LA ADOPCIÓN SIMPLE
+### CAPITULO II. DE LA ADOPCIÓN SIMPLE
 
 ###### Artículo 285.
 
-La adopción simple no crea ningún vinculo jurídico entre el adoptado y la familia del adoptante, ni entre éste y la familia de aquél, salvo los impedimentos para contraer matrimonio con el adoptante o con sus ascendientes y descendientes, durante y después de disuelta la adopción. Sólo puede constituirse cuando se conozca a la familia biológica del adoptado y puede ser revocada en los casos previstos en este código.
+La adopción simple no crea ningún vínculo jurídico entre el adoptado y la familia del adoptante, ni entre éste y la familia de aquél, salvo los impedimentos para contraer matrimonio con el adoptante o con sus ascendientes y descendientes, durante y después de disuelta la adopción. Sólo puede constituirse cuando se conozca a la familia biológica del adoptado y puede ser revocada en los casos previstos en este código.
 
 ###### Artículo 286.
 
@@ -1991,7 +2001,7 @@ II.- Cuando el adoptado formule denuncia o querella contra el adoptante por alg�
 
 III.- Cuando el adoptado se rehúse injustificadamente a dar alimentos al adoptante que haya caído en pobreza.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 292.
 
@@ -2067,7 +2077,7 @@ Está prohibido informar sobre los antecedentes registrales del adoptado, a no s
 
 La adopción hecha por extranjeros o por mexicanos que residan permanentemente en otro país, se regirá por las disposiciones de la Ley General de Población; la Convención de las Naciones Unidas sobre los Derechos del Niño; la Convención Interamericana sobre el Conflicto de Leyes en Materia de Adopción de menores; la Convención de la Haya sobre Protección de Menores y Cooperación en materia de Adopción Internacional, así como cualquier otro instrumento de Derecho Internacional vigente en la República Mexicana. La Adopción Internacional será siempre plena.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 302.
 
@@ -2117,7 +2127,7 @@ Autorizada la conversión, el juez ordenará al Oficial del Registro Civil corre
 
 La patria potestad es un conjunto de derechos y obligaciones que se otorgan e imponen legalmente a los padres o a los abuelos, en su caso, para cumplir las funciones nutricias, protectoras y normativas en favor de sus descendientes, así como para la correcta administración de sus bienes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 309.
 
@@ -2131,7 +2141,7 @@ La patria potestad sobre los hijos de matrimonio se ejerce por el padre y la mad
 
 Tratándose de hijos monoparentales, cuando el progenitor muera o pierda la patria potestad, ésta se ejercerá en forma automática y definitiva por los abuelos que correspondan, sin necesidad de declaración judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 311.
 
@@ -2415,7 +2425,7 @@ I.- Los menores de edad;
 
 II.- Los mayores de edad que sufran trastorno mental, aún cuando tengan intervalos lúcidos, así como quienes padezcan una incapacidad mental manifiesta o declarada judicialmente;
 
-Ill.- Los sordomudos que no saben leer ni escribir;
+III.- Los sordomudos que no saben leer ni escribir;
 
 IV.- Los ebrios consuetudinarios y los adictos a narcóticos prohibidos por la ley; y
 
@@ -2487,7 +2497,7 @@ En caso contrario, el Juez familiar del domicilio del incapacitado designará pr
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
-### CAPITULO Il. DE LA TUTELA LEGÍTIMA
+### CAPITULO II. DE LA TUTELA LEGÍTIMA
 
 > <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
 
@@ -3001,11 +3011,13 @@ El saldo que resulte en pro o en contra del tutor, producirá intereses legales,
 
 Cuando resulte un saldo a cargo del tutor, seguirán vigentes las garantías otorgadas para desempeñar la tutela, mientras no se cubra. Si requerido el tutor por el pago del saldo no lo cubre en el término que le fije la autoridad judicial, se harán efectivas las garantías hasta el monto reclamado.
 
+(REUBICADO [N. DE E. ANTES CAPITULO XII], B.O. 1 DE MARZO DE 2011)
+
 ###### Artículo 439.
 
 Todas las acciones que el incapacitado pueda ejercitar contra su tutor o contra los fiadores de éste, prescriben en el término de cuatro años, contados desde el día en que éste cumpla su mayoría de edad o desde que haya cesado la incapacidad.
 
-(REUBICADO [N. DE E. ANTES CAPITULO XII], B.O. 1 DE MARZO DE 2011)
+> <small>(ADICIONADO, B.O. 1 DE MARZO DE 2011)</small>
 
 ### CAPITULO XIII. DEL CURADOR
 
@@ -3046,8 +3058,6 @@ El curador que no cumpla la obligación prevista en el párrafo anterior, respon
 El curador cesará cuando el incapacitado salga de la tutela; pero sólo si varía la persona del tutor, el curador continuará en su cargo.
 
 El curador tiene derecho a ser relevado de la curaduría, pasados cinco años de su encargo, pero no podrá exigir ninguna remuneración, excepto la restitución de los gastos realizados durante su gestión.
-
-> <small>(ADICIONADO, B.O. 1 DE MARZO DE 2011)</small>
 
 ### CAPITULO XIV. DE LOS CONSEJOS LOCALES DE TUTELA
 
@@ -3461,7 +3471,7 @@ Los alimentos comprenden la comida, el vestido, la habitación, el sano esparcim
 
 ###### Articulo 514.
 
-La obligación de dar alimentos es reciproca. El que los da tiene a su vez el derecho de pedirlos.
+La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
 
 ###### Artículo 515.
 
@@ -3523,7 +3533,7 @@ Si sólo algunos tuvieren posibilidad, entre ellos se repartirá el importe de l
 
 La obligación de dar alimentos no comprende la de proveer de capital a los hijos para que ejerzan el oficio, arte o profesión a que se hubiesen dedicado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 527.
 
@@ -3637,7 +3647,7 @@ Sólo puede constituirse el patrimonio de familia, con bienes ubicados en el mun
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan después del primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 542.
 
@@ -3825,7 +3835,7 @@ EL SECRETARIO DE GOBIERNO
 
 HECTOR LARIOS CORDOVA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 11 DE OCTUBRE DE 2010.
 
@@ -3839,7 +3849,7 @@ B.O. 30 DE DICIEMBRE DE 2010.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-B.O. 1 DE MARZO DE 2011
+B.O. 1 DE MARZO DE 2011.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3851,7 +3861,7 @@ Al entrar en vigor el presente Decreto, se derogan los artículos 767, 777, 799,
 
 ###### ARTÍCULO TERCERO.
 
-El Ejecutivo del Estado, en un término de 90 dias hábiles, contado a partir de la entrada en vigor del presente Decreto, deberá emitir la reglamentación correspondiente para autorizar los laboratorios del sector salud que puedan realizar las periciales genéticas a que se refiere el artículo 257 del Código de Familia.
+El Ejecutivo del Estado, en un término de 90 días hábiles, contado a partir de la entrada en vigor del presente Decreto, deberá emitir la reglamentación correspondiente para autorizar los laboratorios del sector salud que puedan realizar las periciales genéticas a que se refiere el artículo 257 del Código de Familia.
 
 ###### ARTÍCULO CUARTO.
 
@@ -3866,3 +3876,9 @@ B.O. 14 DE JULIO DE 2011.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
