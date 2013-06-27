@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-51863"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-28"
-last_updated: "2011-08-05"
+last_updated: "2013-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA
 
-ULTIMA REFOMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en el la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 28 de septiembre de 2006.
 
@@ -90,6 +90,10 @@ IV.- La regulación de la tenencia de la tierra en los centros de población;
 V.- La edificación y mejoramiento de vivienda del interés social;
 
 VI.- La ejecución de obras de vialidad, infraestructura, equipamiento y servicios públicos;
+
+> <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2013)</small>
+
+VI Bis.- La regulación e inducción del uso del suelo y de las actividades económicas.
 
 VII.- La protección del patrimonio histórico y cultural de los centros de población; y
 
@@ -425,15 +429,43 @@ II. - Estarán vinculados entre sí y con otros instrumentos previstos en la Ley
 
 III.- Adoptarán la estructura, contenido, terminología y demás elementos que establezca esta ley y su reglamentación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 17.
 
-En las áreas de ordenamiento y regulación en el territorio estatal para los asentamientos humanos se aplicarán, según corresponda, las políticas siguientes:
+En el ordenamiento y regulación de los asentamientos humanos en el territorio estatal se aplicarán, según corresponda, las políticas siguientes:
 
 I.- Impulso de los centros de población seleccionados por presentar condiciones favorables para incidir o reforzar procesos de desarrollo, así como de rápido crecimiento demográfico y que presuponen una importante concentración de recursos;
+
+> <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2013)</small>
+
+I Bis.- Establecimiento de mecanismos obligatorios que aseguren la orientación de la acción directa gubernamental, así como las políticas inductivas para el resto de la sociedad.
+
+> <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2013)</small>
+
+I Bis 1. Orientación de la planeación del desarrollo de una manera integral, regulando el uso del suelo y las actividades económicas, fomentando el desarrollo de las actividades productivas más convenientes y bajo modelos de ciudades más saludables, generadoras de innovación y crecimiento económico.
 
 II.- Consolidación de centros de población que sólo requieren de un ordenamiento de su estructura básica y que, sin afectar su dinámica actual, procuran evitar los efectos negativos de la desordenada concentración urbana; y
 
 III.- Control y disminución del ritmo de crecimiento de centros de población en los que la concentración provoca problemas crecientemente agudos de congestión e ineficiencia económica y social, o bien, cuando tales centros de población muestran síntomas de saturación por carecer de suelo apto para su expansión y tener, entre otras, limitaciones en las disponibilidades de agua e infraestructura vial, lo que obliga a restringir su desarrollo preferentemente al interior de la estructura urbana existente, rehabilitando y reconstruyendo sus áreas deterioradas, insalubres o deficientemente aprovechadas.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+###### ARTÍCULO 17 Bis.
+
+Con el fin de orientar la planeación del desarrollo en el Estado y regular la ubicación, uso de suelo y ocupación del espacio urbano, destinado a establecimientos donde operen máquinas electrónicas de juego con sorteo de números y apuestas, se establecen las siguientes disposiciones:
+
+I. Los predios para establecimientos donde pretendan operar máquinas electrónicas de juego con sorteo de números y apuestas, deberán estar localizados sobre accesos a carreteras, autopistas o libramientos, así como en aquellos predios cuyo uso específico esté destinado al turismo y alojamiento como hoteles, moteles, casa móviles, marinas, entre otros, siempre y cuando éstos, se encuentren fuera de los límites de crecimiento de los centros de población conforme a los Programas de Desarrollo Urbano de los Centros de Población.
+
+II. Estos establecimientos solo podrán ubicarse, instalarse y operar a 5 kilómetros de los límites de crecimiento de los centros de población o de zonas habitacionales, instituciones educativas, centros de desarrollo infantil, guarderías, hospitales, clínicas o centros de rehabilitación, centros comerciales y lugares dedicados al culto público, que se encuentren ubicados fuera de los límites descritos.
+
+III. Previo a las obras de edificación y a la obtención de licencias, permisos o autorizaciones municipales y/o federales, quienes pretendan llevar a cabo los proyectos de establecimientos para operar máquinas electrónicas de juego con sorteo de números y apuestas, requerirán del dictamen favorable para usos de impacto regional de la Secretaría de Infraestructura y Desarrollo Urbano del Estado, donde se determine el área a desarrollar como zona apta para dicho fin, así como la procedencia del proyecto y de las obras a realizar; además, deberán obtener de la Unidad Estatal de Protección Civil, el dictamen y autorización a que se refiere la fracción XVIII del Artículo 13 de la Ley de Protección Civil para el Estado de Sonora y Autorización de Impacto Ambiental de la autoridad competente.
+
+IV.- Sólo se permitirá la instalación de estos establecimientos en una proporción de uno por cada 300,000 habitantes del centro de población más cercano.
+
+Las anteriores disposiciones normativas, deberán incluirse en los Programas: Estatal de Ordenamiento Territorial y Desarrollo Urbano; Regional de Ordenamiento Territorial, Municipales de Ordenamiento Territorial y de desarrollo Urbano de los Centros de Población, sin menoscabo de otras disposiciones que los ayuntamientos puedan emitir para ordenar el territorio y el desarrollo urbano de sus municipios.
+
+No surtirán efectos los actos, convenios y contratos relativos a la propiedad o cualquier otro derecho, relacionado con el aprovechamiento de áreas y predios que contravengan ésta disposición y los programas de ordenamiento territorial y desarrollo urbano referidos en el párrafo anterior.
 
 ###### ARTÍCULO 18.
 
@@ -1383,7 +1415,7 @@ II.- Programa de obra relativa al fraccionamiento ya sea en su totalidad o en la
 
 III.- La constancia que acredite que cuenta con los recursos financieros suficientes para ejecutar las obras de urbanización convenidas.
 
-Presentados los documentos antes señalados, y previa acreditación del pago de los derechos que tuviere que cubrir conforme a las leyes fiscales respectivas, el Ayuntamiento emitirá la licencia de urbanización, mediante la cual se autoriza al fraccionador el inicio de obras, misma que podrá emitirse para el fraccionamiento en su totalidad o en las etapas y secciones previstas en a autorización del proyecto correspondiente.
+Presentados los documentos antes señalados, y previa acreditación del pago de los derechos que tuviere que cubrir conforme a las leyes fiscales respectivas, el Ayuntamiento emitirá la licencia de urbanización, mediante la cual se autoriza al fraccionador el inicio de obras, misma que podrá emitirse para el fraccionamiento en su totalidad o en las etapas y secciones previstas en la autorización del proyecto correspondiente.
 
 Si por necesidad de un mejor funcionamiento o utilización en el uso de suelo el fraccionador solicitará ante el Ayuntamiento respectivo, la autorización para relotificar el área de interés, el Ayuntamiento dictaminará lo conducente siempre y cuando dicha acción de urbanización no afecte vialidades primarias y colectoras previamente autorizadas y, a su vez, la Comisión Federal de Electricidad y los organismos operadores cuenten con la capacidad de suministrar los servicios correspondientes.
 
@@ -2014,3 +2046,23 @@ Los ayuntamientos del Estado deberán adecuar su reglamentación municipal en la
 ###### ARTÍCULO TERCERO.
 
 Todos los procedimientos que se hayan iniciado antes de la vigencia del presente Decreto y que no se encuentren concluidos, se regirán conforme a las disposiciones con las que se iniciaron.
+
+B.O. 27 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado de Sonora y los ayuntamientos deberán destinar los recursos financieros necesarios, dentro de sus respectivos presupuestos de egresos de cada año, para cumplimentar lo dispuesto por la Ley de Salud y la Ley de Prevención, Tratamiento y Control de Adicciones para el Estado de Sonora.
+
+El Congreso del Estado deberá establecer las contribuciones necesarias para solventar el gasto que importan los servicios de prevención y rehabilitación en materia de adicción a la ludopatía u otras afecciones que originan el contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los ayuntamientos del Estado deberán adecuar su reglamentación municipal en materia de ordenamiento territorial y desarrollo urbano dentro de los 90 días posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Hasta en tanto los ayuntamientos no cuenten con lo señalado en el artículo anterior, deberán ceñir su actuación de manera supletoria a las disposiciones emanadas del presente Decreto.
