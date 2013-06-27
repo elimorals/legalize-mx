@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-centro-de-investigacion-y-55251"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-18"
-last_updated: "2007-04-18"
+last_updated: "2013-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55251&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DEL CENTRO DE INVESTIGACION Y DESARROLLO DEL ESTADO DE MICHOACAN
 
-REGLAMENTO INTERIOR DEL CENTRO DE INVESTIGACION Y DESARROLLO DEL ESTADO DE MICHOACAN
+REGLAMENTO INTERIOR DEL CENTRO DE INVESTIGACIÓN Y DESARROLLO DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "CENTRO DE INVESTIGACIÓN Y DESARROLLO DEL ESTADO DE MICHOACÁN" (CIDEM), PUBLICADO EN EL P.O. DE 27 DE JUNIO DEL 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el miércoles 18 de abril de 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 LÁZARO CÁRDENAS BATEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, en ejercicio de las facultades que me confieren los artículos 60, fracción XXII, 62, 65 y 66 de la Constitución Política del Estado de Michoacán de Ocampo, así como los artículos 1º, 2º, 3º, 4º, 5º, 9º, 12, 14, 16, 37, fracción I y 38 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo; y,
 
@@ -496,3 +496,23 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 SECRETARIA DE CONTRALORÍA Y DESARROLLO ADMINISTRATIVO
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE JUNIO DE 2013.
+
+Artículo Primero. El presente Decreto entrará en vigor a partir del día 1º primero de julio del año en curso.
+
+Artículo Segundo. Se abroga el Decreto Administrativo publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 26 de septiembre del año 1985, por el cual se creó el Organismo Público Descentralizado denominado "Centro de Investigación y Desarrollo del Estado de Michoacán" (CIDEM) de Michoacán.
+
+Artículo Tercero. Se abroga el Decreto Administrativo publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, con fecha 1 de marzo del año 2006, a través del cual se adicionaron, modificaron y derogaron diversas disposiciones del Decreto de Creación del organismo público descentralizado denominado "Centro de Investigación y Desarrollo del Estado de Michoacán".
+
+Artículo Cuarto. Se abroga el Reglamento Interior del "Centro de Investigación y Desarrollo del Estado de Michoacán", publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 18 de abril del año 2007.
+
+Artículo Quinto. Los recursos materiales, humanos y el numerario del organismo "Centro de Investigación y Desarrollo del Estado de Michoacán", serán transferidos a la Secretaría de Educación y al organismo público descentralizado denominado "Consejo Estatal de Ciencia, Tecnología e Innovación", solamente por lo que ve a aquel que sea necesario para terminar los programas de estudios y de postgrado que se encuentren por concluir. Por lo que respecta al otorgamiento de diplomas y expedición de certificados de estudio, grados y títulos, ésta, será ejercida directamente por la Secretaría de Educación en el Estado.
+
+Para efectos de lo dispuesto en el presente artículo transitorio, se establece que del presupuesto asignado al "Centro de Investigación y Desarrollo del Estado de Michoacán" en el Decreto que contiene el Presupuesto de Egresos para el Gobierno del Estado de Michoacán de Ocampo, para el Ejercicio Fiscal del año 2013, y que conste a la fecha de cierre de Estados Financieros, una parte deberá destinarse a la Secretaría de Educación y otra al organismo denominado Consejo Estatal de Ciencia, Tecnología e Innovación, con la finalidad de que éstos, concluyan los asuntos planteados en el párrafo que antecede, en el entendido, de que el remanente deberá reintegrarse al patrimonio del Gobierno del Estado de Michoacán de Ocampo.
+
+Artículo Sexto. Dentro de los cinco días hábiles siguientes a la entrada en vigor del presente Decreto, la Secretaría de Educación en el Estado, deberá publicar en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, las bases para llevar a cabo el proceso de liquidación del "Centro de Investigación y Desarrollo del Estado de Michoacán".
+
+Artículo Séptimo. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
