@@ -4,7 +4,7 @@ identifier: "SON-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-46658"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-24"
-last_updated: "2005-10-17"
+last_updated: "2013-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE SONORA
 
-LEY PARA LA PROTECCION DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE SONORA
+LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE OCTUBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de octubre de 2002.
 
@@ -131,9 +131,15 @@ Las niñas, niños y adolescentes tienen el derecho a ser protegidos contra acto
 
 I.- El descuido, la negligencia, el abandono, el abuso emocional, físico y sexual;
 
-II.- La explotación, el uso de drogas y enervantes, el secuestro y la trata;
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
+
+II.- La explotación, el uso de drogas y enervantes, el secuestro, la pornografía, la corrupción de menores y la trata;
 
 III.- Conflictos armados, desastres naturales, situaciones de refugio o desplazamiento, y acciones de reclutamiento para que participen en conflictos armados.
+
+> <small>(ADICIONADA, B.O. 27 DE JUNIO DE 2013)</small>
+
+IV.- Las solicitudes en forma directa, informática, audiovisual, virtual o por cualquier otro medio, de imágenes o sonidos propios o de terceros menores de edad, con contenido sexual o erótico, explícito o no, reales o simuladas.
 
 ### CAPITULO VII. DEL DERECHO A VIVIR EN FAMILIA
 
@@ -363,6 +369,14 @@ VIII.- Realizar en las comunidades y en forma gratuita, campañas de registro op
 
 IX.- Proporcionar orientación y asistencia para el ejercicio de sus derechos.
 
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+###### Artículo 39 Bis.
+
+El Gobierno del Estado garantizará que los equipos de cómputo que utilicen niñas, niños y adolescentes en centros educativos oficiales y cualquier oficina pública, cuenten con las soluciones tecnológicas adecuadas para impedir el acceso a sitios de Internet con contenido sexual no educativo, así como evitar que los menores sean objeto a través de estos equipos de solicitudes de imágenes, propias o de otros menores, que puedan ser utilizadas para fines sexuales.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán que en las oficinas públicas existan las soluciones tecnológicas adecuadas para impedir el acceso de cualquier persona a los contenidos a que se refiere el primer párrafo del presente artículo.
+
 ###### Artículo 40.
 
 Los Ayuntamientos, deberán establecer en sus reglamentos las normas relativas a las prohibiciones que regula el artículo 20 de esta ley, así como las sanciones a imponer en caso de su infracción.
@@ -567,10 +581,20 @@ AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNID
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS CUATRO DIAS DEL MES DE OCTUBRE DEL DOS MIL DOS.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 17 DE OCTUBRE DE 2005.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 27 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal incluirá en su proyecto de Presupuesto de Egresos para el Ejercicio Fiscal del año 2014, recursos suficientes para dar cumplimiento a lo previsto en el presente Decreto.
