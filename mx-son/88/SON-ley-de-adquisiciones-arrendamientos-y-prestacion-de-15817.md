@@ -4,7 +4,7 @@ identifier: "SON-ley-de-adquisiciones-arrendamientos-y-prestacion-de-15817"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-08"
-last_updated: "2010-11-18"
+last_updated: "2013-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACION PUBLICA ESTATAL
 
-LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACION PUBLICA ESTATAL
+LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 1988.
 
@@ -119,11 +119,11 @@ Para lo anterior, se especificará en los mencionados convenios, la intervenció
 
 BIS.- No aplicarán las disposiciones de la presente Ley a la operación, administración, uso, goce, disposición o cualquier otro acto jurídico sobre bienes muebles, si dichos actos derivan de la prestación de servicios de una Alianza Público Privada de Servicios; en estos casos aplicarán las disposiciones de la Ley de Alianzas Público Privadas de Servicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 6o.
 
-Las especificaciones técnicas para la selección, adquisición y arrendamiento de los equipos de computación, relacionados con el Sistema Estatal de Información, serán establecidos por la Secretaría, sujetándose la formalización de estas operaciones, a lo previsto por el presente ordenamiento y a las disposiciones que deriven de éste.
+Las especificaciones técnicas para la selección, adquisición y arrendamiento de los equipos de computación, relacionados con el Sistema Estatal de Información, serán establecidos por la Secretaría, sujetándose la formalización de estas operaciones, a lo previsto por el presente ordenamiento y a las disposiciones que deriven de éste. Dentro de las especificaciones técnicas, deberán incluirse las relacionadas a las soluciones tecnológicas tendientes a impedir el acceso de cualquier persona, a sitios de Internet con contenido sexual no educativo.
 
 Asimismo, las adquisiciones de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, necesarios para la realización de obras públicas por administración directa o los que suministren las dependencias y entidades de acuerdo a lo pactado en los contratos de obra pública, deberán realizarse conforme a lo establecido en esta Ley y en las normas que se dicten con base en ella.
 
@@ -209,7 +209,7 @@ VI.- Dar preferencia a la adquisición de bienes y servicios que impacten de men
 
 VII.- Respetar las demás disposiciones legales y reglamentarias que rijan las operaciones objeto del presente ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 13.
 
@@ -497,7 +497,7 @@ El titular de la dependencia o entidad o, si éste lo autoriza, el Comité a que
 
 (DEROGADO, B.O. 28 DE DICIEMBRE DE 1992)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 31.
 
@@ -535,7 +535,7 @@ En caso de rescisión del contrato, el proveedor deberá reintegrar el anticipo 
 
 Las dependencias y entidades podrán establecer en sus políticas, bases y lineamientos, preferentemente el pago a proveedores a través de medios de comunicación electrónica.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 32.
 
@@ -799,7 +799,7 @@ EL SECRETARIO DE GOBIERNO,
 
 FRANCISCO JAVIER ALDANA MONTAÑO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 28 DE DICIEMBRE DE 1992.
 
@@ -882,3 +882,13 @@ B.O. 18 DE NOVIEMBRE DE 2010.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal incluirá en su proyecto de Presupuesto de Egresos para el Ejercicio Fiscal del año 2014, recursos suficientes para dar cumplimiento a lo previsto en el presente Decreto.
