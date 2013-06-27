@@ -4,7 +4,7 @@ identifier: "SON-ley-de-deuda-publica-del-estado-de-sonora-8514"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-06"
-last_updated: "2012-06-28"
+last_updated: "2013-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Cuarta del Boletín Oficial del Estado de Sonora, el jueves 6 de julio de 1995.
 
@@ -167,11 +167,11 @@ II. Autorizar en la correspondiente Ley de Ingresos los montos máximos por ende
 
 > <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
 
-III. Autorizar en las correspondientes Leyes de Ingresos los montos máximos por endeudamiento de los municipios como avalistas o deudores solidarios o subsidiarios de las entidades paramunicipales;
+III.- Autorizar en las correspondientes Leyes de Ingresos los montos máximos por endeudamiento de los municipios como avalistas o deudores solidarios o subsidiarios de las entidades paramunicipales;
 
 > <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
 
-IV. Autorizar en las correspondientes Leyes de Ingresos o mediante decretos, la afectación como garantía o fuente de pago, tanto de las participaciones en ingresos federales que corresponden al Estado y municipios, como las estatales en el caso de los municipios, y de las aportaciones federales susceptibles de ser afectadas en los términos de la legislación aplicable, así como la afectación como garantía o fuente de pago de cualquier otro ingreso derivado de contribuciones, productos, aprovechamientos, accesorios o por cualquier otro concepto que sea susceptible de afectación. Tales afectaciones podrán también autorizarse con respecto a otras obligaciones que deriven de contratos que celebren los entes públicos dentro de sus respectivos ámbitos de competencia;
+IV.- Autorizar en las correspondientes Leyes de Ingresos o mediante decretos, la afectación como garantía o fuente de pago, tanto de las participaciones en ingresos federales que corresponden al Estado y municipios, como las estatales en el caso de los municipios, y de las aportaciones federales susceptibles de ser afectadas en los términos de la legislación aplicable, así como la afectación como garantía o fuente de pago de cualquier otro ingreso derivado de contribuciones, productos, aprovechamientos, accesorios o por cualquier otro concepto que sea susceptible de afectación. Tales afectaciones podrán también autorizarse con respecto a otras obligaciones que deriven de contratos que celebren los entes públicos dentro de sus respectivos ámbitos de competencia;
 
 > <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2012)</small>
 
@@ -184,6 +184,30 @@ VI.- Autorizar la celebración de los mecanismos legales que, bajo cualquier mod
 ###### ARTICULO 7o.
 
 El Congreso del Estado, previa solicitud debidamente justificada del Estado y de los Municipios, podrá autorizar el ejercicio de montos de endeudamiento, adicionales a los previstos en las leyes de ingresos correspondientes, cuando a juicio del propio Congreso se presenten circunstancias extraordinarias que así lo exijan.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+El Estado y los municipios no podrán contratar endeudamiento cuando su servicio de la deuda supere el quince por ciento de su presupuesto de ingresos anual, previsto en la respectiva Ley de Ingresos y Presupuesto de Ingresos, considerando al efecto, la deuda contratada y la que se pretende contratar, en su caso.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTICULO 7o BIS.- Las solicitudes de endeudamiento a que se refieren los artículos 6o y 7o de esta Ley, deberán contener:
+
+I.- Exposición de motivos;
+
+II.- Monto de la operación y objeto del crédito;
+
+III.- La corrida financiera de la operación de endeudamiento que se pretende contratar;
+
+IV.- El estado de la situación financiera y sus auxiliares;
+
+V.- El ejercicio de ingresos y egresos por partida;
+
+VI.- Descripción de la situación de la deuda pública; y
+
+VII.- Relación detallada de las inversiones públicas productivas a realizar.
+
+La antigüedad de los documentos que refieren las fracciones IV, V y VI, no deberán ser mayores a seis meses a la fecha en que se presente la solicitud de autorización de endeudamiento ante el Congreso del Estado.
 
 ###### ARTICULO 8o.
 
@@ -213,7 +237,7 @@ VI.- Asesorar a los municipios en todo lo relativo a la obtención de recursos c
 
 (DEROGADO, B.O. 8 DE JULIO DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 10.
 
@@ -283,7 +307,7 @@ VI. Prever en el presupuesto de egresos las partidas destinadas al pago del serv
 
 > <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
 
-VII.- Inscribir en el registro de deuda pública municipal sus operaciones crediticias, así como en el registro general de deuda pública consolidada;
+VII. Inscribir en el registro de deuda pública municipal sus operaciones crediticias, así como en el registro general de deuda pública consolidada;
 
 > <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2012)</small>
 
@@ -301,15 +325,15 @@ Las atribuciones a que se refiere el artículo anterior serán ejercidas, en lo 
 
 La Tesorería Municipal llevará el registro de deuda pública municipal, sin perjuicio de lo dispuesto en el artículo 13 de esta Ley.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 8 DE JULIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 8 DE JULIO DE 2004)</small>
 
 ### CAPITULO III. DEL REGISTRO ESTATAL DE DEUDA PUBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 13.
 
-Todas las obligaciones que en los términos de esta Ley asuman los entes públicos en materia de deuda pública, y en las que el Congreso autorice afectaciones conforme a la fracción IV del articulo 6° de esta Ley, así como aquellas realizadas a través de los fideicomisos de financiamiento previstos en esta Ley y que involucren la afectación de participaciones, deberán inscribirse en el Registro. Para este efecto, el ente público que corresponda, y tratándose de fideicomisos de financiamiento, el ente público que haya efectuado la afectación correspondiente, deberá solicitar la inscripción y acompañar la siguiente documentación:
+Todas las obligaciones que en los términos de esta Ley asuman los entes públicos en materia de deuda pública, y en las que el Congreso autorice afectaciones conforme a la fracción IV del artículo 6° de esta Ley, así como aquellas realizadas a través de los fideicomisos de financiamiento previstos en esta Ley y que involucren la afectación de participaciones, deberán inscribirse en el Registro. Para este efecto, el ente público que corresponda, y tratándose de fideicomisos de financiamiento, el ente público que haya efectuado la afectación correspondiente, deberá solicitar la inscripción y acompañar la siguiente documentación:
 
 > <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
 
@@ -505,7 +529,7 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 30 de Junio
 
 POR TANTO, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, cinco de julio de mil novecientos noventa y cinco.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 8 DE JULIO DE 2004.
 
@@ -564,6 +588,12 @@ B.O. 14 DE JULIO DE 2008.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 B.O. 28 DE JUNIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE JUNIO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
