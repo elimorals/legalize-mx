@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-ii-2013-del-94216"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-04-05"
-last_updated: "2013-04-05"
+last_updated: "2013-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94216&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-04-05"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2013 DEL CINCO DE ABRIL DE DOS MIL TRECE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN POR EL QUE SE SUPRIME LA UNIDAD DE ENLACE DEL PROGRAMA DE EQUIDAD DE GÉNERO EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y SE CREA LA UNIDAD DE IGUALDAD DE GÉNERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2013 DE VEINTISIETE DE JUNIO DE DOS MIL TRECE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN POR EL QUE SE ESTABLECEN LAS FACULTADES Y ATRIBUCIONES DE LA UNIDAD DE IGUALDAD DE GÉNERO, PUBLICADO EN EL S.J.F. Y G. EL 27 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA: 27 DE JUNIO DE 2013 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo 1, Abril de 2013, páginas de la 2315 a la 2318.
 
@@ -82,3 +84,17 @@ Así lo acordó y firma el señor Ministro Juan N. Silva Meza, Presidente de la 
 Ministro Presidente Juan N. Silva Meza
 
 Nota: El Reglamento Interior en Materia de Administración de la Suprema Corte de Justicia de la Nación citado, aparece publicado en el Semanario Judicial de la Federación y su Gaceta, Novena Época, Tomo XXXIII, marzo de 2011, página 2563.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F. Y G. 27 DE JUNIO DE 2013.
+
+PRIMERO. El presente Acuerdo General entrará en vigor el día siguiente de su expedición.
+
+SEGUNDO. En un plazo que no exceda de quince días hábiles, contados a partir de la expedición del presente Acuerdo General de Administración, la Oficialía Mayor, en conjunto con la Coordinación de Derechos Humanos y Asesoría de la Presidencia, instrumentará la adscripción del personal y la reasignación de los recursos presupuestales, materiales y tecnológicos de la suprimida Unidad de Enlace del Programa de Equidad de Género en la Suprema Corte de Justicia de la Nación a la recién creada Unidad de Igualdad de Género, teniendo como base el programa anual de trabajo de dos mil trece.
+
+TERCERO. La Contraloría intervendrá en los procesos de entrega recepción conforme a sus atribuciones, con objeto de verificar el debido cumplimiento a lo dispuesto en el presente Acuerdo General de Administración.
+
+CUARTO. Se abroga el Acuerdo General de Administración número II/2013 del cinco de abril de dos mil trece, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se suprime la Unidad de Enlace del Programa de Equidad de Género en la Suprema Corte de Justicia de la Nación y se crea la Unidad de Igualdad de Género, y se derogan todas aquellas disposiciones normativas que se opongan a lo dispuesto en el presente Acuerdo General de Administración.
+
+QUINTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
