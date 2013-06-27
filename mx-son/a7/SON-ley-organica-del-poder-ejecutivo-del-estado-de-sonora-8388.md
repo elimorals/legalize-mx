@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2011-07-11"
+last_updated: "2013-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
+LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -67,7 +67,7 @@ Componen la administración pública paraestatal las siguientes entidades: organ
 
 El titular del Poder Ejecutivo del Estado tendrá directamente adscritas la Oficina del Ejecutivo Estatal, la Secretaria Particular y la Secretaría Técnica. Además, podrá contar con las unidades de asesoría, de apoyo técnico y de coordinación de actividades prioritarias que se determinen de acuerdo con el presupuesto de egresos. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 5o.
 
@@ -81,7 +81,7 @@ La constitución de las empresas de participación estatal mayoritaria, de las s
 
 Las leyes, decretos, reglamentos, acuerdos, circulares y órdenes que suscriba el Gobernador del Estado, en ejercicio de sus funciones constitucionales, en todo caso, deberán ser refrendados con la firma del Secretario de Gobierno y comunicados por éste. Sin este requisito no surtirán efectos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 7o.
 
@@ -102,6 +102,14 @@ Queda prohibido al Ejecutivo Estatal hacer entrega de numerario o bienes en espe
 ###### ARTICULO 8o.
 
 Las dependencias y entidades de la administración pública estatal deberán planear y conducir sus actividades con sujeción a las disposiciones del Plan Estatal de Desarrollo.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTICULO 8 BIS.- Los acuerdos del Congreso del Estado tendrán carácter vinculatorio para los servidores públicos del Gobierno del Estado, quienes contarán con un plazo de quince días hábiles, contado a partir del día siguiente en que se le notifique el contenido del resolutivo respectivo, para emitir una respuesta por escrito fundada y motivada dirigida al Congreso del Estado.
+
+La respuesta de los servidores públicos a que se refiere el párrafo anterior deberá contener, al menos, un informe de las acciones llevadas a cabo y, en su caso, las que se realizarán, así como una fecha probable para dar oportuno cumplimiento a los planteamientos contenidos en el acuerdo notificado. En caso de disentir del sentido del resolutivo emitido por el Congreso del Estado, el servidor público a quien se dirigió el exhorto emitirá la respuesta expresando las razones de su postura, caso en el cual deberá generarse un seguimiento al tema entre el o los diputados que presentaron la iniciativa con punto de acuerdo y los servidores públicos respectivos mediante la celebración de reuniones públicas o privadas que al efecto estimen pertinente.
+
+Será causa de responsabilidad administrativa y se entenderá actualizado el supuesto de incumplimiento previsto en el artículo 63, fracción XXVI de la ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, la falta de respuesta o seguimiento a que se refieren los párrafos anteriores, por parte del servidor público a quien se dirigió el contenido del acuerdo aprobado por el Congreso del Estado y dará lugar a que el Presidente de la Mesa Directiva del Congreso del Estado de Sonora interponga, ante la Contraloría del Estado, la denuncia y seguimiento al procedimiento respectivo para lograr que se sancione al omiso.
 
 ###### ARTICULO 9o.
 
@@ -133,7 +141,7 @@ Al frente de cada Secretaría habrá un Secretario, quien para el despacho de lo
 
 (DEROGADO, B.O. 17 DE DICIEMBRE DE 1992)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 14.
 
@@ -643,7 +651,7 @@ X.- Establecer normas que deben orientar los servicios de asistencia social que 
 
 XI.- Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realicen en el Estado.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE JULIO DE 2006)</small>
 
 B. En materia de salubridad:
 
@@ -661,7 +669,7 @@ IV.- Coordinar acciones preventivas y de control para el cuidado del medio ambie
 
 V.- Promover y coordinar las campañas sanitarias tendientes a prevenir y erradicar enfermedades y epidemias en el territorio del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 29.
 
@@ -701,7 +709,7 @@ I.- Realizar obras públicas, directamente o a través de terceros, en los térm
 
 II.- Elaborar, directamente o a través de terceros, los estudios, proyectos arquitectónicos y de ingeniería necesarios para ejecutar las obras públicas, cumpliendo con lo previsto en las disposiciones legales y reglamentarias aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE JULIO DE 2006)</small>
 
 D. En materia de transporte:
 
@@ -1011,7 +1019,7 @@ XXII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO I. DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -1157,7 +1165,7 @@ Las entidades a que se refiere esta Ley, deberán inscribirse en el registro de 
 
 Los directores generales de las entidades que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE JULIO DE 2006)</small>
 
 ### CAPITULO II. DEL OBJETO, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS ENTIDADES PARAESTATALES
 
@@ -1335,7 +1343,7 @@ II.- La extinción del fideicomiso o contrato análogo se formalizará mediante 
 
 III.- Realizado lo anterior, las dependencias y entidades a las que se asignen los fideicomisos o que con cargo a su presupuesto se aportaron los recursos presupuestarios fideicomitidos, entregará dentro de los 15 días hábiles posteriores a la Secretaría de Hacienda el convenio de extinción, anexando copia del oficio de entero de recursos públicos estatales remanentes, y solicitarán la cancelación correspondiente en el Registro de fideicomisos, mandatos y contratos análogos del Gobierno del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE JULIO DE 2006)</small>
 
 ### CAPITULO III. DEL DESARROLLO Y OPERACIÓN DE LAS ENTIDADES PARAESTALES
 
@@ -1405,7 +1413,7 @@ Los manuales como instrumentos de apoyo administrativo contendrán información 
 
 Los manuales de organización, de procedimientos y de atención al público deberán formalmente expedirse dentro de los sesenta días posteriores a la publicación del Reglamento Interior de la entidad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO IV. DEL CONTROL, VIGILANCIA Y EVALUACION DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -1447,11 +1455,11 @@ Las empresas de participación estatal mayoritaria, en los términos de este Cap
 
 Los fideicomisos públicos a que se refiere el artículo 47 de esta Ley, se ajustarán en lo que les sea compatible a las disposiciones anteriores.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 6 DE JULIO DE 2006)</small>
 
 ## TITULO CUARTO. DE LOS TRIBUNALES ADMINISTRATIVOS
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 61.
 
@@ -1467,7 +1475,7 @@ Los titulares de las dependencias coordinadoras de sector, en los casos que lo c
 
 En aquellas empresas en las que participe la administración pública estatal con la suscripción del 25% al 50% del capital, se vigilarán las inversiones del Estado a través del comisario que designe la Secretaría de la Contraloría General del Estado. El ejercicio de los derechos respectivos se realizará conforme lo señalen los ordenamientos jurídicos correspondientes.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 6 DE JULIO DE 2006)</small>
 
 ### CAPITULO I. DE LAS JUNTAS LOCALES DE CONCILIACION Y ARBITRAJE
 
@@ -1529,7 +1537,7 @@ EL SECRETARIO DE GOBIERNO,
 
 MANLIO FABIO BELTRONES R.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 19 DE JUNIO DE 1986.
 
@@ -1703,7 +1711,7 @@ Se derogan todas aquellas disposiciones y preceptos que en lo conducente se opon
 
 B.O. 8 DE MARZO DE 2002.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -1898,3 +1906,9 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, con la part
 ###### ARTÍCULO OCTAVO.
 
 A partir de la entrada en vigor del presente Decreto, el Instituto Superior de Seguridad Pública del Estado de Sonora y el Centro Estatal de Evaluación y Control de Confianza estarán agrupados en el sector administrativo que corresponda coordinar a la Secretaría de Seguridad Pública.
+
+B.O. 27 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
