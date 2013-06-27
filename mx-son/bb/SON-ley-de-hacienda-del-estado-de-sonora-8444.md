@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -3747,7 +3747,7 @@ El monto de las cuotas o tarifas de los derechos que este título establece en c
 
 > <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
-El factor aplicable para el mes de enero, será el que resulte de dividir el índice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior entre el mes de mayo inmediato anterior; el factor aplicable para el mes de julio, será el que se obtenga de dividir el índice Nacional de Precios al Consumidor del mes de mayo entre el del mes de noviembre inmediato anterior.
+El factor aplicable para el mes de enero, será el que resulte de dividir el índice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior entre el mes de mayo inmediato enterior; el factor aplicable para el mes de julio, será el que se obtenga de dividir el índice Nacional de Precios al Consumidor del mes de mayo entre el del mes de noviembre inmediato anterior.
 
 > <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -5580,6 +5580,10 @@ I.- Por las inscripciones de:
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 1.2.- Con la entrega de la copia al interesado. $90.00
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+1.3.- Con la entrega de la copia al interesado, por única ocasión, si el registro se efectúa dentro de los primeros 12 meses del nacimiento. Gratuita
 
 2.- Reconocimiento de hijos.
 
@@ -7578,3 +7582,9 @@ Para efectos del pago de la Contribución al Fortalecimiento Municipal, todos aq
 ###### ARTÍCULO QUINTO.
 
 Para efecto de la rendición del informe financiero señalado en el Impuesto por la Prestación de Servicios de Hospedaje, no se presentará este informe el tercer lunes del mes de mayo de 2013.
+
+B.O. 27 DE JUNIO DE 2013.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
