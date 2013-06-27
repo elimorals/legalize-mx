@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2012-07-25"
+last_updated: "2013-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE JUNIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -58,9 +58,9 @@ II. Regular el ejercicio de las facultades de las autoridades de la Administraci
 
 III. Conservar y restaurar el equilibrio ecológico, así como prevenir los daños al ambiente, de manera que sean compatibles la obtención de beneficios económicos y las actividades de la sociedad con la conservación de los ecosistemas;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2013)</small>
 
-IV. Establecer y regular las áreas verdes, áreas de valor ambiental y áreas naturales protegidas de competencia del Distrito Federal, así como manejar y vigilar aquellas cuya administración se asuma por convenio con la Federación, estados o municipios;
+IV. Establecer y regular las áreas verdes, áreas de valor ambiental y áreas naturales protegidas de competencia del Distrito Federal, y en general regular el suelo de conservación para la preservación de los ecosistemas y recursos naturales de la Tierra, así como manejar y vigilar aquellas cuya administración se suma por convenio con la Federación, estados o municipios;
 
 V. Prevenir y controlar la contaminación del aire, agua y suelo en el Distrito Federal en aquellos casos que no sean competencia de la Federación;
 
@@ -878,23 +878,33 @@ El Jefe de Gobierno del Distrito Federal formulará y evaluará, en coordinació
 
 El programa sectorial ambiental se evaluará anualmente por la Secretaría y presentará un informe ante la Asamblea, de los avances del mismo.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2013)</small>
 
 ###### ARTÍCULO 27 Bis.
 
-En el Distrito Federal, los programas de desarrollo urbano se elaborarán atendiendo, además de las disposiciones jurídicas aplicables, los siguientes criterios:
+En el Distrito Federal, los Programas de Desarrollo Urbano se elaborarán atendiendo, además de las disposiciones jurídicas aplicables, los siguientes criterios:
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
 
 I. El cumplimiento y observancia del Programa General de Ordenamiento Ecológico del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
 II. El cuidado de la proporción que debe existir entre las áreas verdes y las edificaciones destinadas a habitación, los servicios y en general otras actividades, siendo responsabilidad de las autoridades y de los habitantes del Distrito Federal la forestación y reforestación;
 
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2013)</small>
 
-III. La conservación de las áreas rurales, de uso agropecuario y forestal, evitando su fraccionamiento para fines de desarrollo urbano;
+III. La preservación de las áreas rurales, de uso agropecuario y forestal, y en general de áreas existentes en suelo de conservación, evitando su fraccionamiento para fines de desarrollo urbano;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
 
 IV. La integración de inmuebles de alto valor histórico, arquitectónico y cultural con áreas verdes y áreas de valor ambiental;
 
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
 V. La compatibilidad para crear zonas habitacionales entorno a centros industriales; y
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
 
 VI. La preservación de las áreas verdes existentes, evitando ocuparlas con obras o instalaciones que se contrapongan a su función.
 
@@ -1376,7 +1386,7 @@ VII. Medidas contempladas para la prevención o mitigación de impactos ambienta
 
 VIII. En su caso, el estudio de riesgo si se tratase de acciones que lo ameriten sin requerir una manifestación de impacto ambiental.
 
-> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 58.
 
@@ -1414,7 +1424,7 @@ Las obras o actividades antes mencionadas, quedan sujetas al cumplimiento de las
 
 El Jefe de Gobierno, mediante acuerdos o en el Reglamento correspondiente a la materia podrá establecer la posibilidad de que la Declaratoria de Cumplimiento Ambiental se presente a través de los medios de comunicación electrónica, otorgando a la firma electrónica que se autorice al mismo valor probatorio que a los presentados con firma autógrafa.
 
-> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 58 Ter.
 
@@ -4215,3 +4225,9 @@ G.O. 25 DE JULIO DE 2012.
 PRIMERO: Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO: El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 27 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El Jefe de Gobierno del Distrito Federal deberá hacer las adecuaciones necesarias a la normatividad reglamentaria aplicable dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
