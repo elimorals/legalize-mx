@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-justicia-para-adolescentes-del-estado-de-baja-52215"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-27"
-last_updated: "2010-10-15"
+last_updated: "2013-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 27 de octubre de 2006.
 
@@ -225,7 +225,7 @@ VI.- En caso de que no designe para su defensa a un Licenciado en Derecho, o se 
 
 VII.- En caso de ser indígenas, extranjeros, sordos, mudos o no sepan leer ni escribir ser asistidos en todos los actos procesales, por un defensor particular o de oficio, que comprenda plenamente su idioma, lengua o dialecto o en su defecto que dicho defensor se auxilie de un traductor;
 
-VIII.- Ser informados, en un lenguaje claro y accesible, sin demora y personalmente, o a través de representantes legales o encargados de su cuidado, sobre las razones por las que se les detiene, juzga o impone una medida; la persona que les atribuye la realización de la conducta tipificada como delito; las consecuencias de la atribución de la conducta, así como de la detención, juicio y medida; los derechos y garantías que les asisten en todo momento y que podrán disponer de defensa jurídica gratuita;
+VIII.- Ser informados, en un lenguaje claro y accesible, sin demora y personalmente, o a través de representantes legales o encargados de su cuidado, sobre las razones por las que se les detiene, juzga, o impone una medida; la persona que les atribuye la realización de la conducta tipificada como delito; las consecuencias de la atribución de la conducta, así como de la detención, juicio y medida; los derechos y garantías que les asisten en todo momento y que podrán disponer de defensa jurídica gratuita;
 
 IX.- Que se le permita en todo momento la comunicación con sus representantes legales o con persona de su confianza;
 
@@ -241,7 +241,7 @@ XIV.- Ser defendidos en igualdad de circunstancias respecto de su acusador;
 
 XV.- Los medios de difusión se abstendrán de publicar la identidad del adolescente sujeto al procedimiento, así como las medidas de orientación, protección o tratamiento;
 
-XVI.- En ningún caso, ser sujetos de medidas cautelares o definitivas que no estén establecidas en esta Ley;
+XVI.- En ningún caso, ser sujetos de medidas cautelares o. definitivas que no estén establecidas en esta Ley;
 
 XVII.- Que la autoridad, defensa, víctima u ofendido del delito no divulguen la identidad del adolescente sujeto a investigación, proceso o ejecución de medidas en los casos en que no sea público el proceso. Las autoridades competentes deberán garantizar que la información que brinden no contravenga el principio de confidencialidad ni el derecho a la privacidad consagrado en la Ley; y
 
@@ -321,7 +321,9 @@ VI.- Si están presentes en la audiencia de juicio, a tomar la palabra después 
 
 VII.- Si por su edad, condición física o psíquica, se les dificulta gravemente comparecer ante cualquier autoridad del proceso, a ser interrogados o a participar en el acto para el cual fueron citados, en el lugar de su residencia, a cuyo fin deberán requerir la dispensa, por sí o por un tercero, con anticipación;
 
-VIII.- Recibir asesoría jurídica, protección especial de su integridad física o psíquica, con inclusión de su familia inmediata, cuando reciban amenazas o corran peligro en razón del papel que cumplen en el proceso;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+VIII.- Recibir asesoría jurídica, protección especial de su integridad física o psíquica, con inclusión de su familia inmediata y en caso de ser necesario la separación restrictiva del espacio de convivencia entre el agresor y la víctima por delitos contra la libertad y seguridad sexual se tomara como medida de protección a la víctima la separación del espacio de convivencia entre el agresor y la víctima; además de contar con asistencia psicológica urgente para ambos, así como la familia cuando reciban amenazas o corran peligro en razón del papel que cumplen en el proceso;
 
 IX.- Interponer la demanda en contra de terceros civilmente obligados, a la reparación del daño;
 
@@ -559,7 +561,7 @@ Los defensores de oficio adscritos a los Juzgados y a las Agencias del Ministeri
 
 ###### Artículo 38.
 
-Los Defensores de Oficio Especializados para Adolescentes se encuentran adscritos a la Defensoría de Oficio del Estado de Baja California. Las bases de organización, formación especializada y los procedimientos de ingresos, promoción, permanencia y terminación del cargo, serán definidos por esa dependencia. Sus atribuciones serán reguladas por la Ley de la Defensoría de Oficio del Estado de Baja California y las demás disposiciones legales aplicables.
+Los Defensores de Oficio Especializados para Adolescentes se encuentran adscritos a la Defensoría de Oficio del Estado de Baja California. Las bases de organización, formación especializada y los procedimientos de ingreso, promoción, permanencia y terminación del cargo, serán definidos por esa dependencia. Sus atribuciones serán reguladas por la Ley de la Defensoría de Oficio del Estado de Baja California y las demás disposiciones legales aplicables.
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO
 
@@ -771,19 +773,19 @@ Dentro del término a que se refiere el artículo 64 de esta Ley, el adolescente
 
 Los procedimientos en los que se ven involucrados adolescentes son de alta prioridad e interés público; en función de lo anterior y para salvaguardar plenamente el derecho que tienen a ser escuchados, su declaración debe ser:
 
-I. Rendida únicamente ante la autoridad judicial;
+I.- Rendida únicamente ante la autoridad judicial;
 
-II. Voluntaria, de manera que sólo se puede realizar si el adolescente presta su consentimiento después de consultarlo con su defensor;
+II.- Voluntaria, de manera que sólo se puede realizar si el adolescente presta su consentimiento después de consultarlo con su defensor;
 
-III. Pronta, por lo que se dará prioridad a la declaración de adolescentes, procurando que el tiempo entre la presentación y la declaración judicial inicial sea el menor posible;
+III.- Pronta, por lo que se dará prioridad a la declaración de adolescentes, procurando que el tiempo entre la presentación y la declaración judicial inicial sea el menor posible;
 
-IV. Breve, de modo que la comparecencia ante el Juez para Adolescentes tome estrictamente el tiempo requerido, considerando incluso periodos de descanso para el adolescente;
+IV.- Breve, de modo que la comparecencia ante el Juez para Adolescentes tome estrictamente el tiempo requerido, considerando incluso periodos de descanso para el adolescente;
 
-V. Eficiente, por lo que la autoridad tendrá que preparar la comparecencia con antelación para obtener la información que requiera para el ejercicio de sus funciones en el menor número de sesiones que sea posible;
+V.- Eficiente, por lo que la autoridad tendrá que preparar la comparecencia con antelación para obtener la información que requiera para el ejercicio de sus funciones en el menor número de sesiones que sea posible;
 
-VI. Necesaria, de manera que ocurra sólo en los momentos en los que es imperativo hacerlo, y
+VI.- Necesaria, de manera que ocurra sólo en los momentos en los que es imperativo hacerlo, y
 
-VII. Asistida, de modo que se realice con la asistencia de su defensor; cuando exista ansiedad, fatiga o daño psicológico producidos por la declaración, se suspenderá ésta, reanudándose a la brevedad posible. En los casos en que el adolescente tenga una edad de entre doce años y catorce años no cumplidos, también será necesaria la presencia de sus padres, tutores, custodios o quienes ejerzan la patria potestad, si él y su defensa lo estiman conveniente.
+VII.- Asistida, de modo que se realice con la asistencia de su defensor; cuando exista ansiedad, fatiga o daño psicológico producidos por la declaración, se suspenderá ésta, reanudándose a la brevedad posible. En los casos en que el adolescente tenga una edad de entre doce años y catorce años no cumplidos, también será necesaria la presencia de sus padres, tutores, custodios o quienes ejerzan la patria potestad, si él y su defensa lo estiman conveniente.
 
 Las mismas reglas se observarán, en lo aplicable, en las entrevistas que voluntariamente tenga el adolescente con el Ministerio Público para Adolescentes. Los datos recogidos en dichas entrevistas carecen de valor probatorio.
 
@@ -1283,7 +1285,9 @@ III.- Prestación de servicios a favor de la comunidad;
 
 IV.- Limitación o prohibición de residencia;
 
-V.- Prohibición de relacionarse con determinadas personas;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+V.- Prohibición y/o restricción de relacionarse con determinadas personas; incluyendo familiares en caso de conductas tipificadas como Delitos contra la libertad y seguridad sexual,
 
 VI.- Prohibición de asistir a determinados lugares;
 
@@ -1373,9 +1377,11 @@ La Subsecretaría debe informar al Juez para Adolescentes sobre las alternativas
 
 La prohibición de relacionarse con determinadas personas, consiste en ordenar al adolescente abstenerse de frecuentar a personas de las que se presume contribuyen en forma negativa a su desarrollo. La finalidad de esta medida es evitar la utilización o inducción del adolescente por parte de otras personas, así como el aprendizaje y realización de conductas socialmente negativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2013)</small>
+
 ###### Artículo 129.
 
-El Juez para Adolescentes, al determinar la medida prevista en esta Sección, deberá indicar, en forma clara y precisa, con qué personas no deberá relacionarse el adolescente, las razones por las cuales se toma esta determinación y el tiempo de vigencia de la misma, que no podrá ser mayor de tres años.
+El Juez para Adolescentes, al determinar la medida prevista en esta Sección, deberá indicar, en forma clara y precisa, con qué personas no deberá relacionarse el adolescente, la restricción de acercamiento familiar para las conductas tipificadas como delitos contra la libertad y seguridad sexual de las personas, en su caso las razones por las cuales se toma esta determinación y el tiempo de vigencia de la misma, que no podrá ser mayor de tres años.
 
 El Centro de Ejecución de Medidas deberá informar a dicho juzgador por lo menos en una ocasión cada tres meses, sobre el cumplimiento de la medida.
 
@@ -1391,9 +1397,11 @@ Cuando la prohibición se refiera a un miembro del núcleo familiar del adolesce
 
 La prohibición de asistir a determinados lugares consiste en ordenar al adolescente que no asista a ciertos domicilios o establecimientos que resulten inconvenientes para el desarrollo pleno de su personalidad.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
+
 ###### Artículo 132.
 
-El Juez para Adolescentes deberá indicar en forma clara y precisa los lugares que no podrá visitar o frecuentar el adolescente, las razones que motivan esta decisión, así como su duración, que en ningún caso podrá ser mayor de tres años.
+El Juez para Adolescentes deberá indicar en forma clara y precisa los lugares que no podrá visitar o frecuentar el adolescente, incluyendo los domicilios de familiares en su caso cuando se traten de las conductas contenidas en esta ley tipificadas como delitos graves que refiere el artículo 159 de este ordenamiento, así como las razones que motivan esta decisión, y su duración, que en ningún caso podrá ser mayor de tres años.
 
 ###### Artículo 133.
 
@@ -1563,7 +1571,7 @@ La finalidad de esta medida es la privación del derecho a la libertad de tráns
 
 ###### Artículo 157.
 
-El Juez para Adolescentes fijará la duración de esta medida, los permisos que correspondan para salir del domicilio y las razones por las que pueden ser concedidos. En el Programa Personalizado de Ejecución deberán establecerse las actividades que puede realizar el adolescente sujeto a la medida.
+El Juez para Adolescentes fijará la duración esta medida, los permisos que correspondan para salir del domicilio y las razones por las que pueden ser concedidos. En el Programa Personalizado de Ejecución deberán establecerse las actividades que puede realizar el adolescente sujeto a la medida.
 
 #### SECCIÓN II. DEL TRATAMIENTO INTERNO
 
@@ -1973,17 +1981,17 @@ El derecho de recurrir corresponderá tan sólo a quien le sea expresamente otor
 
 ###### Artículo 202.
 
-En el procedimiento para adolescentes y en la ejecución de las medidas, sólo se admitirán los siguientes recursos, según corresponda;
+En el procedimiento para adolescentes y en la ejecución de las medidas, sólo se admitirán los siguientes recursos, según corresponda:
 
-I.- Revocación;
+I. Revocación;
 
-II.- Apelación;
+II. Apelación;
 
 III.- Revisión
 
-IV.- Queja y
+IV. Queja y
 
-V.- Reclamación.
+V. Reclamación.
 
 ###### Artículo 203.
 
@@ -2282,3 +2290,9 @@ P.O. 15 DE OCTUBRE DE 2010.
 PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
 
 SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decreto realizarán las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo, a efecto de que asuman las mismas a partir de la entrada en vigor del presente Decreto.
+
+P.O. 28 DE JUNIO DE 2013.
+
+PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones que se opongan a la presente reforma.
