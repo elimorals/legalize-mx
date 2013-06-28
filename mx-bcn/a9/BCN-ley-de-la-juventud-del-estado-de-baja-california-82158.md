@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-juventud-del-estado-de-baja-california-82158"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-11"
-last_updated: "2011-07-11"
+last_updated: "2013-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 11 de julio de 2011.
 
@@ -59,7 +59,9 @@ El Estado y los municipios en el ámbito de su competencia, dispondrán los recu
 
 Para los efectos de esta Ley se entiende por:
 
-I.- Alteraciones del desarrollo: a todos aquellos factores, eventos, conductas y situaciones que afecten el entorno de los jóvenes, incrementando la posibilidad de sufrir daños que limiten su capacidad física, mental, emocional o profesional, colocándolos en riesgo, desventaja o vulnerabilidad que atentan contra el desarrollo integral;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+I.- Alteraciones del desarrollo: a todos aquellos factores, eventos, conductas y situaciones que afecten el entorno de los jóvenes, incrementando la posibilidad de sufrir daños que limiten su capacidad física, mental, emocional o profesional, colocándolos en riesgo, desventaja o vulnerabilidad que atentan contra el desarrollo integral, o en situación de desocupación por circunstancias que impiden que ni estudien ni trabajen y que obstaculizan su inserción a la sociedad;
 
 II.- Carnet: a la Tarjeta Carnet Joven;
 
@@ -505,7 +507,9 @@ II.- Madres solteras;
 
 III.- Víctimas de cualquier delito;
 
-IV.- En situación de calle;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+IV.- En situación de calle o en desocupación por circunstancias que impiden que ni estudien ni trabajen y que obstaculizan su inserción a la sociedad;
 
 V.- Exclusión social o privación de la libertad;
 
@@ -595,7 +599,9 @@ XII.- Diseñar mecanismos para el acceso de los jóvenes a actividades físicas 
 
 XIII- Promover la creación de espacios culturales dedicados a los jóvenes, donde puedan difundir sus expresiones artísticas y culturales, así como el intercambio cultural a nivel nacional e internacional;
 
-XIV.- Diseñar mecanismos para proteger a los jóvenes en situación de riesgo, desventaja o vulnerabilidad, impulsando su reinserción a la sociedad;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+XIV.- Diseñar mecanismos para proteger a los jóvenes en situación de riesgo, desventaja, vulnerabilidad o en desocupación por circunstancias que impiden que ni estudien ni trabajen, impulsando su reinserción a la sociedad;
 
 XV.- Promover alternativas de turismo juvenil para la recreación, el uso del tiempo libre y un medio de identidad para los jóvenes;
 
@@ -787,7 +793,9 @@ VIII.- Apoyar el fortalecimiento de las organizaciones juveniles constituidas le
 
 IX.- Apoyo a las organizaciones juveniles o de cualquier índole, para la participación y aprobación de proyectos en áreas de interés para los jóvenes;
 
-X.- Garantizar a través de la creación de proyectos específicos el acceso a programas de vivienda, empleo y créditos para los jóvenes;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+X.- Garantizar, a través de la creación de proyectos específicos, el acceso a programas de vivienda, empleo, educación y créditos, con especial énfasis en estrategias dirigidas a jóvenes en desocupación por circunstancias que impiden que ni estudien ni trabajen y que obstaculizan su inserción a la sociedad;
 
 XI.- Actuar en colaboración con el Consejo Nacional para Prevenir la Discriminación para la aplicación de sanciones para quienes discriminen a los jóvenes por cualquier motivo injustificado;
 
@@ -813,9 +821,17 @@ Corresponde a la Secretaría de Desarrollo Social:
 
 I.- Contar con programas para la atención integral de los jóvenes en situación de vulnerabilidad que les permita integrarse a la sociedad y tener oportunidades que les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida;
 
-II.- Otorgar subsidios dependiendo de la capacidad presupuestaria, siempre que sean los jóvenes quienes realicen dicha actividad en forma directa, y se observe la sustentabilidad del proyecto, y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
 
-III.- Las demás que le confieren esta Ley u otros ordenamientos aplicables.
+II.- Otorgar subsidios dependiendo de la capacidad presupuestaria, siempre que sean los jóvenes quienes realicen dicha actividad en forma directa, y se observe la sustentabilidad del proyecto;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+III.- Promover en coordinación con el Instituto, políticas sociales dirigidas a jóvenes en desocupación por circunstancias que impiden que ni estudien ni trabajen y que obstaculizan su inserción a la sociedad; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+IV.- Las demás que le confieren esta Ley u otros ordenamientos aplicables.
 
 ###### ARTÍCULO 76.
 
@@ -853,9 +869,17 @@ VII.- Ampliar el acceso de los jóvenes en igualdad de condiciones a la educaci�
 
 VIII.- Fomentar la Protección al ambiente, incluyendo a los jóvenes en la realización de actividades dirigidas al cuidado y preservación de este;
 
-IX.- Garantizar que los sistemas de educación y formación estén en congruencia con la realidad económica, social y empresarial, sobre la base de las necesidades individualizadas y los avances tecnológicos, y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
 
-X.- Las demás que le confieren esta Ley u otros ordenamientos aplicables.
+IX.- Garantizar que los sistemas de educación y formación estén en congruencia con la realidad económica, social y empresarial, sobre la base de las necesidades individualizadas y los avances tecnológicos;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+X.- Promover, en coordinación con el Instituto, políticas educativas dirigidas a jóvenes en desocupación por circunstancias que impiden que ni estudien ni trabajen y que obstaculizan su inserción a la sociedad; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+XI.- Las demás que le confieren esta Ley u otros ordenamientos aplicables.
 
 ###### ARTÍCULO 78.
 
@@ -867,9 +891,17 @@ II.- Establecer las bases del Primer Empleo de la juventud del Estado;
 
 III.- Crear programas de capacitación técnica que garanticen a los jóvenes mayores oportunidades de acceso al ámbito laboral y a su crecimiento personal;
 
-IV.- Otorgar incentivos para las empresas que contraten jóvenes, y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
 
-V.- Las demás que le confieren esta Ley u otros ordenamientos aplicables.
+IV.- Otorgar incentivos para las empresas que contraten jóvenes;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+V.- Promover, en coordinación con el Instituto, políticas laborales dirigidas a jóvenes en desocupación por circunstancias que impiden que ni estudien ni trabajen y que obstaculizan su inserción a la sociedad; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+VI.- Las demás que le confieren esta Ley u otros ordenamientos aplicables.
 
 ###### ARTÍCULO 79.
 
@@ -919,9 +951,17 @@ XI.- Promover ante organismos públicos, privados, estatales, nacionales e inter
 
 XII.- Fomentar y estimular el desarrollo y fortalecimiento de organización de la sociedad civil que trabajen en beneficio de la juventud;
 
-XIII.- Celebrar acuerdos o convenios de coordinación con la Federación, el Estado, ayuntamientos, organismos sociales o privados, para el mejor cumplimiento de esta ley, y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
 
-XIV.- Las demás que le confieren esta Ley u otros ordenamientos aplicables.
+XIII.- Celebrar acuerdos o convenios de coordinación con la Federación, el Estado, ayuntamientos, organismos sociales o privados, para el mejor cumplimiento de esta ley;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+XIV.- Promover, en coordinación con el Instituto, políticas municipales dirigidas a jóvenes en desocupación por circunstancias que impiden que ni estudien ni trabajen y que obstaculizan su inserción a la sociedad; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+XV.- Las demás que le confieren esta Ley u otros ordenamientos aplicables.
 
 ## TÍTULO QUINTO. DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
@@ -1007,9 +1047,15 @@ XXXIII.- Desarrollar programas para la adecuada orientación vocacional y profes
 
 XXXIV.- Fomentar la atención a los problemas de salud de los jóvenes, principalmente mediante medidas preventivas de orientación y asesoramiento en el campo de la sexualidad, planeación familiar, adicciones y salud mental;
 
-XXXV.- impulsar la participación del sector privado y social, para apoyar, encauzar, motivar y promover a los jóvenes en actividades de educación académica, capacitación laboral, rehabilitación de adicciones, educación sexual, desenvolvimiento de sus aptitudes en las artes, la ciencia y el deporte, y
+XXXV.- impulsar la participación del sector privado y social, para apoyar, encauzar, motivar y promover a los jóvenes en actividades de educación académica, capacitación laboral, rehabilitación de adicciones, educación sexual, desenvolvimiento de sus aptitudes en las artes, la ciencia y el deporte, y (sic)
 
-XXXVI.- Las demás que le otorgue la presente Ley y el Reglamento Interno del Instituto.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+XXXVI.- Promover, coordinadamente con las dependencias y entidades de la Administración Pública Estatal y Municipal, las políticas públicas dirigidas a jóvenes en desocupación por circunstancias que impiden que ni estudien ni trabajen y que obstaculizan su inserción a la sociedad, así como realizar la compilación de información, diagnósticos y estadísticas vinculadas a esta problemática; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+XXXVII.- Las demás que le otorgue la presente Ley y el Reglamento Interno del Instituto.
 
 ### CAPÍTULO TERCERO. ESTRUCTURA ORGÁNICA DEL INSTITUTO
 
@@ -1352,3 +1398,15 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
