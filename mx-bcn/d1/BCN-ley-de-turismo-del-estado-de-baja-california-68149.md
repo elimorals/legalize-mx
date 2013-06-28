@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-68149"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2012-09-28"
+last_updated: "2013-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de abril de 2009.
 
@@ -53,9 +53,9 @@ II.- La planeación de las actividades turísticas;
 
 III.- La promoción, fomento, inversión y desarrollo del turismo sustentable y competitivo;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
 
-IV.- La promoción del Turismo Alternativo así como el Turismo Estatal con sus modalidades o segmentos como el Turismo Social, el Turismo de Salud y el Turismo de Negocios y de Convenciones, estableciendo las prácticas turísticas que propicien el conocimiento, la preservación, la protección y el fortalecimiento del patrimonio natural, histórico y cultural en cada región de nuestro Estado;
+IV.- La promoción del Turismo Alternativo, Turismo Accesible así como el Turismo Estatal con sus modalidades o segmentos como el Turismo Social, el Turismo de Salud y el Turismo de Negocios y de Convenciones, estableciendo las prácticas turísticas que propicien el conocimiento, la preservación, la protección y el fortalecimiento del patrimonio natural, histórico y cultural en cada región de nuestro Estado;
 
 V.- La capacitación a las personas dedicadas a la prestación de los servicios turísticos;
 
@@ -127,11 +127,17 @@ XXIII.- Turismo.- El conjunto de relaciones y fenómenos producidos por la inter
 
 XXIV.- Turismo Sustentable.- Fin del desarrollo de la actividad turística, que equilibra los aspectos del orden económico, social, cultural y ecológico en el presente y futuro.
 
-XXV.- Turista.- La persona que se desplaza, temporalmente, fuera de su lugar de residencia habitual y que utiliza cualquiera de los servicios turísticos a que se refiere esta ley.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2012)</small>
+XXV.- Turismo Accesible.- Las acciones que facilitan el acceso a los servicios turísticos, a través de la adaptación en el entorno y acceso físico a las condiciones y necesidades de las personas con discapacidad, de acuerdo con las normas uniformes para la equiparación de oportunidades para las personas con discapacidad.
 
-XXVI.- Zonas de Desarrollo Turístico Sustentables: Aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán mediante declaratorias específicas que emitirá el Presidente de la República, a solicitud de la Secretaría Federal de Turismo, en términos de la Ley General de Turismo y la reglamentación que se expida sobre la materia.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+XXVI.- Turista.- La persona que se desplaza, temporalmente, fuera de su lugar de residencia habitual y que utiliza cualquiera de los servicios turísticos a que se refiere esta ley.
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+XXVII.- Zonas de Desarrollo Turístico Sustentables.- Aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán mediante declaratorias específicas que emitirá el Presidente de la República, a solicitud de la Secretaría Federal de Turismo, en términos de la Ley General de Turismo y la reglamentación que se expida sobre la materia.
 
 ###### ARTÍCULO 4.
 
@@ -583,11 +589,15 @@ La vigilancia y control que realice la Secretaría sobre las actividades de Turi
 
 En todo lo no dispuesto en el presente Capítulo serán aplicables las disposiciones que las Normas Oficiales Mexicanas establecen sobre la materia.
 
-### CAPÍTULO VII. TURISMO ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2013)</small>
+
+### CAPÍTULO VII. DEL TURISMO ESTATAL Y TURISMO ACCESIBLE
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+#### SECCIÓN PRIMERA. DEL TURISMO ESTATAL
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
-
-#### SECCIÓN PRIMERA. DE LAS ZONAS DE DESARROLLO TURÍSTICO PRIORITARIO
 
 ###### ARTÍCULO 45.
 
@@ -621,11 +631,33 @@ En el logro de los objetivos enunciados en el Artículo anterior, la Secretaría
 
 Para los efectos del Artículo anterior, la Secretaría promoverá la celebración de convenios de colaboración con las dependencias y entidades federales, estatales y municipales, así como con los Organismos Turísticos Locales y los Prestadores de Servicios Turísticos, con el objeto de fomentar el Turismo Estatal.
 
-#### SECCIÓN SEGUNDA. DE LOS CORREDORES TURÍSTICOS
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE JUNIO DE 2013)</small>
+
+#### SECCIÓN SEGUNDA. DEL TURISMO ACCESIBLE
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+
+ARTÍCULO 50 BIS.- La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+
+ARTÍCULO 50 TER.- Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas.
+
+La misma obligación tendrán las autoridades respecto a los sitios culturales con afluencia turística.
+
+La Secretaría, el Estado y los Municipios supervisarán que lo dispuesto en este Capítulo se cumpla.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+
+ARTÍCULO 50 QUARTER.- La Secretaría, considerando la viabilidad técnica, económica y financiera de los Proyectos Turísticos que promuevan organismos o empresas de los sectores social y privado, auxiliará en la gestión de estímulos, para que proporcionen instalaciones y servicios que tengan en cuenta todos los aspectos de accesibilidad para las personas con discapacidad ante las Autoridades Federales, Estatales y Municipales.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+
+ARTÍCULO 50 QUINQUIES.- La Secretaría promoverá con los Ayuntamientos en donde se desarrollan actividades turísticas, la celebración de acuerdos destinados a la adopción de las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, así como todos los servicios orientados a la prestación de una atención integral al turista.
 
 ### CAPÍTULO VIII. DE LAS ZONAS DE DESARROLLO TURÍSTICO PRIORITARIO, DE LOS CORREDORES TURÍSTICOS, DE LAS RUTAS TURÍSTICAS Y DE LOS ANDADORES TURÍSTICOS
 
-#### SECCIÓN TERCERA. DE LAS RUTAS TURÍSTICAS
+#### SECCIÓN PRIMERA. DE LAS ZONAS DE DESARROLLO TURÍSTICO PRIORITARIO
 
 ###### ARTÍCULO 51.
 
@@ -669,7 +701,7 @@ VII.- Aplicar en los municipios correspondientes, los criterios de sustentabilid
 
 La Secretaría, cuando se trate de proyectos de inversión en las Zonas de Desarrollo Turístico Prioritario, emitirá su opinión ante la Secretaría de Asentamientos Humanos y Obras Públicas del Estado y ante las instancias municipales competentes, para que sea considerada en el otorgamiento de los permisos correspondientes, procurando siempre la armonía del desarrollo con el medio físico, urbano, ecológico y panorámico de la zona.
 
-#### SECCIÓN CUARTA. DE LOS ANDADORES TURÍSTICOS
+#### SECCIÓN SEGUNDA. DE LOS CORREDORES TURÍSTICOS
 
 ###### ARTÍCULO 58.
 
@@ -681,13 +713,13 @@ I.- Los Corredores Turísticos Interurbanos o Intermunicipales.- Son aquellos qu
 
 II.- Los Corredores Turísticos Urbanos o Municipales.- Son aquellos espacios dentro de las áreas urbanas de los municipios en donde se encuentran instalados todo tipo de comercios o empresas en general que ofertan bienes y servicios turísticos.
 
-#### SECCIÓN PRIMERA. DE SUS OBLIGACIONES
+#### SECCIÓN TERCERA. DE LAS RUTAS TURÍSTICAS
 
 ###### ARTÍCULO 59.
 
 Las Rutas Turísticas son aquellos espacios dentro de las áreas urbanas o rurales de un municipio en donde están instalados o se instalan empresas, establecimientos o negocios dedicados a la elaboración de productos o servicios especializados de interés para el turista y que se ofertan en toda la trayectoria de las mismas.
 
-#### SECCIÓN SEGUNDA. DE SUS DERECHOS
+#### SECCIÓN CUARTA. DE LOS ANDADORES TURÍSTICOS
 
 ###### ARTÍCULO 60.
 
@@ -743,7 +775,7 @@ g) Las físicas o morales que practiquen una actividad de carácter turístico, 
 
 ### CAPÍTULO X. DE LAS OBLIGACIONES Y DERECHOS DELOS (SIC) TURISTAS
 
-#### SECCIÓN PRIMERA. DE LOS PRESTADORES DE SERVICIOS TURISTICOS
+#### SECCIÓN PRIMERA. DE SUS OBLIGACIONES
 
 ###### ARTÍCULO 62.
 
@@ -761,7 +793,7 @@ V.- Respetar el entorno natural y cultural de los sitios en que realicen el turi
 
 VI.- Observar los lineamientos, políticas y Reglamentos de los Servicios Turísticos brindados por los establecimientos referidos en el Artículo 62 de esta Ley.
 
-#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+#### SECCIÓN SEGUNDA. DE SUS DERECHOS
 
 ###### ARTÍCULO 63.
 
@@ -799,11 +831,13 @@ h) En general, coadyuvar a la observancia y cumplimiento de las leyes, reglament
 
 ### CAPÍTULO XI. DE LOS PRESTADORES DE SERVICIOS TURISTICOS Y DE SUS OBLIGACIONES Y DERECHOS
 
-#### SECCIÓN TERCERA. DE LOS DERECHOS DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+#### SECCIÓN PRIMERA. DE LOS PRESTADORES DE SERVICIOS TURISTICOS
 
 ###### ARTICULO 64.
 
 Los prestadores de servicios turísticos se regirán por lo que las partes convengan en los contratos que celebren con los turistas, observando para ello las disposiciones de la presente Ley, de la Ley Federal de Turismo, los reglamentos de ambas, la Ley Federal de Protección al Consumidor, las normas oficiales mexicanas y las normas técnicas que en uso de su facultad promulgue el Ejecutivo Estatal.
+
+#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 65.
 
@@ -850,6 +884,8 @@ XIX.- Proporcionar la información, para efectos estadísticos, en el momento qu
 XX.- Cumplir con las demás disposiciones derivadas de esta Ley y su Reglamento; y
 
 XXI.- En la construcción de su infraestructura así como en el desarrollo de sus actividades respetarán la capacidad de carga de los ecosistemas, la flora y la fauna silvestre. Asimismo, deberán observar las normas de construcción, los planes de ordenamiento ecológico y los planes de desarrollo urbano. Por último, los prestadores de servicios turísticos, en los proyectos que promuevan, deberán ser congruentes con las aptitudes físicas de las áreas donde se pretenda desarrollar la actividad turística.
+
+#### SECCIÓN TERCERA. DE LOS DERECHOS DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 66.
 
@@ -1246,3 +1282,7 @@ P.O. 28 DE SEPTIEMBRE DE 2012.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Ejecutivo del Estado a partir de la publicación del presente Decreto, contará con un plazo de 45 días naturales, para realizar los cambios a los reglamentos aplicables.
+
+P.O. 28 DE JUNIO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
