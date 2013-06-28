@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-policia-estatal-preventiva-de-baja-california-76978"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-24"
-last_updated: "2010-09-24"
+last_updated: "2013-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,626 +21,788 @@ state: "BCN"
 ---
 # LEY DE LA POLICIA ESTATAL PREVENTIVA DE BAJA CALIFORNIA
 
-LEY DE LA POLICIA ESTATAL PREVENTIVA DE BAJA CALIFORNIA
+CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1972.
 
-Ley publicada en la Sección Cuarta al Periódico Oficial del Estado de Baja California, el viernes 24 de septiembre de 2010.
+Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
-JOSÉ GUADALUPE OSUNA MILLÁN, GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA, ANUNCIO QUE EL CONGRESO DEL ESTADO HA DIRIGIDO AL SUSCRITO PARA SU PUBLICACIÓN, EL DECRETO NÚMERO 422, CUYO TEXTO ES EL SIGUIENTE:
+MANUEL M. DIEGUEZ, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber:
 
-LA H. XIX LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 27, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL, EXPIDE EL SIGUIENTE:
+Que la Cámara de Diputados del Congreso Local, ha tenido a bien decretar la siguiente Constitución:
 
-DECRETO N° 422
+"El Congreso Constituyente del Estado Libre y Soberano de Jalisco, convocado por Decreto del Gobierno Provisional del Estado, de fecha 6 de abril de 1917, de acuerdo con el mandato del primer Jefe del Ejército Constitucionalista y Encargado del Poder Ejecutivo de la Nación, fechado el 6 de marzo del mismo año, cumpliendo con el objeto para el cual fue convocado, ha tenido a bien expedir la siguiente:
 
-ÚNICO.- Se aprueba la LEY DE LA POLICÍA ESTATAL PREVENTIVA DE BAJA CALIFORNIA, para quedar de la siguiente manera:
+Constitución Política del Estado de Jalisco
 
-LEY DE LA POLICÍA ESTATAL PREVENTIVA DE BAJA CALIFORNIA
+## Título Primero
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO PRIMERO. De la Soberanía Interior del Estado y de la forma de Gobierno
 
-###### Artículo 1.
+###### Art. 1º.
 
-La presente Ley es de orden público, interés general y de aplicación en todo el territorio del Estado de Baja California y tiene por objeto regular la organización y funcionamiento de la Policía Estatal Preventiva, en los términos de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado Libre y Soberano de Baja California, la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad Pública del Estado de Baja California y demás relativas.
+El Estado es Libre y Soberano en su régimen interior, pero unido a las demás partes integrantes de los Estados Unidos Mexicanos en la Federación establecida por la ley fundamental.
 
-###### Artículo 2.
+###### Art. 2º.
 
-La Policía Estatal Preventiva. es una institución policial dependiente de la Secretaría de Seguridad Pública del Estado de Baja California y sus objetivos serán los siguientes:
+El Gobierno del Estado es Republicano, Representativo y Popular, teniendo como base de su organización política y administrativa, el Municipio Libre, en los términos que establece la Ley.
 
-I.- Salvaguardar la vida, la integridad, la seguridad y los derechos de las personas, como preservar las libertades, el orden y la paz públicos;
+### CAPITULO SEGUNDO. Del Territorio del Estado
 
-II.- Aplicar y operar la política policial de seguridad pública en materia de prevención y combate de delitos, que diseñe la Secretaría;
+###### Art. 3º.
 
-III.- Prevenir la comisión de los delitos, y
+El Territorio del Estado, es el que le corresponde conforme a la Constitución Federal.
 
-IV.- Investigar la comisión de delitos bajo la conducción y mando del Ministerio Público en los términos de las disposiciones aplicables.
+### CAPITULO TERCERO. De los habitantes del Estado
 
-###### Artículo 3.
+###### Art. 4º.
 
-Serán principios rectores en el ejercicio de las funciones y acciones que en materia de prevención, combate e investigación de los delitos le competen a la Policía Estatal Preventiva, los de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a las garantías individuales y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
+Son derechos de los habitantes del Estado:
 
-###### Artículo 4.
+I. Los que se conceden a los habitantes de la República en el Capítulo 1º del Título 1º de la Constitución General, y los que en su calidad de obreros, empresarios y patrones, les concede la misma ley, en su artículo 123.
 
-Para los efectos de esta Ley, se entenderá por:
+II. Si son mexicanos, los que les concede la misma Constitución.
 
-I.- Academia: La Academia de Seguridad Pública del Estado de Baja California;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1954)</small>
 
-II.- Aspirante: Persona física que tramite su ingreso como Miembro a la Policía Estatal Preventiva de Baja California y hasta antes de obtener el nombramiento respectivo, quien podrá ser considerado a ingresar a dicha institución policial, siempre y cuando cumpla con los requisitos y demás condiciones establecidos en la Ley de Seguridad Pública del Estado de Baja California, la presente Ley, su Reglamento y demás disposiciones aplicables;
+III. Votar en las elecciones populares siempre que el individuo sea ciudadano mexicano en el ejercicio de sus derechos y no sea ministro de algún culto ni pertenezca al estado eclesiástico;
 
-III.- Centro de Control de Confianza: El Centro de Evaluación y Control de Confianza del Estado de Baja California;
+IV. Ser votado en toda elección popular y desempeñar cualquier empleo del Estado, cuando además de los requisitos que fija el párrafo anterior, el individuo tenga las condiciones que la Ley exija para cada caso.
 
-IV.- Comisión: La Comisión de Desarrollo Policial de la Secretaría de Seguridad Pública del Estado de Baja California;
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1954)</small>
 
-V.- Comisario General: Quien ejerce el mando y dirección en la organización jerárquica de la Policía Estatal Preventiva de Baja California;
+Para los efectos de las fracciones III y IV, el hombre y la mujer gozarán de igualdad política.
 
-VI.- Carrera Policial: El servicio de carrera policial de la Policía Estatal Preventiva de Baja California;
+###### Art. 5º.
 
-VII.- Institución Policial: La Policía Estatal Preventiva de Baja California;
+Son obligaciones de los habitantes del Estado:
 
-VIII.- Ley: Ley de la Policía Estatal Preventiva de Baja California;
+I. Si son mexicanos, las que se detallan en el Art. 31 de la Constitución Federal;.
 
-IX.- Ley de Seguridad Pública: Ley de Seguridad Pública del Estado de Baja California;
+II. Si son ciudadanos, las contenidas en los artículos 31 y 36 de la misma Constitución.
 
-X.- Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
+III. Si son extranjeros, contribuir para los gastos públicos de la manera que dispongan las leyes, obedecer y respetar las instituciones, leyes y autoridades del Estado, sujetarse a los fallos y sentencias de los Tribunales, sin poder intentar otros recursos que los que se conceden a los mexicanos.
 
-XI.- Miembro: Elemento de la Policía Estatal Preventiva de Baja California;
+## Título Segundo
 
-XII.- Reglamento: El Reglamento de la presente Ley;
+### CAPITULO UNICO. De la División del Poder Público
 
-XIII.- Secretaría: Secretaría de Seguridad Pública del Estado de Baja California, y
+###### Art. 6º.
 
-XIV.- Secretario: El titular de la Secretaría de Seguridad Pública del Estado de Baja California.
+El Supremo Poder del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial. Nunca podrán reunirse dos o más de estos Poderes en una persona o corporación, ni depositarse el Legislativo en un solo individuo.
 
-###### Artículo 5.
+## Título Tercero
 
-La investigación para la prevención de los delitos, en términos de los artículos 16 y 21 de la Constitución Política de los Estados Unidos Mexicanos, es el conjunto sistematizado de acciones y procedimientos encaminados a la planeación, obtención, procesamiento y aprovechamiento de la información, con el propósito exclusivo de evitar la comisión de delitos, con base en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a las garantías individuales y los derechos humanos reconocidos en la Constitución referida.
+### CAPITULO PRIMERO. Del Poder Legislativo
 
-###### Artículo 6.
+###### Art. 7º.
 
-Para el mejor ejercicio de sus atribuciones, la Institución Policial, por conducto del Secretario, podrá suscribir convenios o instrumentos jurídicos con otras instituciones policiales de los tres órdenes de gobierno y organizaciones no gubernamentales en el marco de la ley, así también, con autoridades o instituciones extranjeras.
+El Poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado.
 
-### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DE LA INSTITUCIÓN POLICIAL
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1948)</small>
 
-###### Artículo 7.
+###### Art. 8º.
 
-La Institución Policial tendrá las atribuciones y obligaciones siguientes:
+El Congreso del Estado se compondrá de Diputados electos cada tres años.
 
-I.- Implementar las políticas, programas y estrategias para la prevención del delito que para tal efecto diseñe la Secretaría;
+Los individuos a quienes el Consejo Electoral expida credenciales, declarando que han obtenido mayoría de votos para Diputados, instalados en Colegio Electoral, calificarán la elección declarando quiénes son Diputados conforme a la Ley. Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral son irrevocables.
 
-II.- Prevenir la comisión de delitos y las faltas administrativas que determinen las leyes estatales y federales;
+La Diputación Permanente es la facultada para instalar el Colegio Electoral.
 
-III.- Implementar programas de inteligencia y prevención en las zonas de mayor incidencia delictiva;
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1972)</small>
 
-IV.- Intervenir en materia de seguridad pública, en coadyuvancia con las autoridades competentes, en la observancia y cumplimiento de las leyes;
+###### Art. 9º.
 
-V.- Salvaguardar la integridad de las personas, así como garantizar, mantener y restablecer el orden y la paz públicos;
+La base para la elección será el número actual de habitantes del Estado, eligiéndose por cada 180,000 habitantes o fracción que exceda de 90,000, un Diputado Propietario y un Suplente, teniendo en cuenta el último censo de la Nación.
 
-VI.- Realizar investigación para la prevención de los delitos en los términos de las disposiciones aplicables;
+El Ejecutivo fijará la circunscripción de los Distritos Electorales y su cabecera.
 
-VII.- Recabar información en lugares públicos, para evitar el fenómeno delictivo, mediante la utilización de medios e instrumentos y cualquier herramienta que resulten necesarias para la generación de inteligencia preventiva. En el ejercicio de esta atribución se deberá respetar las garantías individuales y derechos humanos;
+###### Art. 10.
 
-VIII.- Llevar a cabo operaciones encubiertas para la prevención de delitos. El reglamento de la Ley definirá con precisión los lineamientos mínimos para el ejercicio de esta atribución;
+Para ser Diputado se requiere:
 
-IX.- Realizar análisis técnico táctico o estratégico de la información obtenida para la generación de inteligencia;
+I. Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
 
-X - Realizar bajo la conducción y mando del Ministerio Público las investigaciones de los delitos cometidos, así como las actuaciones que le instruya éste o la autoridad jurisdiccional conforme a las normas aplicables;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1972)</small>
 
-XI.- Informar a la persona al momento de su detención sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos;
+II. Tener 21 años cumplidos el día de la elección.
 
-XII.- Poner, sin demora, a disposición de las autoridades competentes, a personas y bienes en los casos en que por motivo de sus funciones se practique alguna detención o se lleve a cabo algún aseguramiento de bienes, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;
+III. Ser nativo de Jalisco o avecindado legalmente en él cuando menos dos años inmediatamente anteriores al día de la elección. La vecindad no se pierde por ausencia en el desempeño de cargos públicos de elección popular, ni en defensa de la Patria y de sus instituciones.
 
-XIII.- Verificar la información que reciba sobre hechos que puedan ser constitutivos de delito para, en su caso, remitirla al Ministerio Público;
+IV. No estar en ejercicio activo en el Ejército Nacional ni tener mando en la Policía o Gendarmería del Distrito en que se pretenda su elección, cuando menos noventa días antes de ella.
 
-XIV.- Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, en términos de lo dispuesto por la normatividad aplicable;
+V. No ser Secretario de Gobierno o quien haga sus veces ni Magistrado del Supremo Tribunal de Justicia, a menos que se separe de sus funciones noventa días antes de la elección.
 
-XV.- Participar en la investigación ministerial, en la detención de personas y en el aseguramiento de bienes que el Ministerio Público considere se encuentren relacionados con los hechos delictivos, así como practicar las diligencias necesarias que permitan el esclarecimiento de los delitos y la identidad de los probables responsables, en cumplimiento de los mandatos del Ministerio Público;
+VI. No ser Juez, Secretario de Juzgado, Presidente Municipal, Secretario del Ayuntamiento, Empleado de Rentas o Inspector del Timbre, en el Distrito en que se pretenda su elección, a menos que se hubiere separado de su cargo en los términos que previene la fracción anterior.
 
-XVI.- Efectuar las detenciones conforme lo dispuesto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y demás normas aplicables;
+###### Art. 11.
 
-XVII.- Inscribir de inmediato la detención que realice en el Registro Administrativo de Detenciones, en los términos de la Ley de Seguridad Pública, así como remitir sin demora y por cualquier medio, la información al Ministerio Público;
+Los Diputados son inviolables por la manifestación de sus ideas y del ejercicio de sus funciones.
 
-XVIII.- Preservar el lugar de los hechos y la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito, dando aviso de inmediato al Ministerio Público. Las unidades facultadas para el procesamiento del lugar de los hechos, deberán fijar, señalar, levantar, embalar y entregar la evidencia física al Ministerio Público, conforme al procedimiento previamente establecido por éste y en términos de las disposiciones aplicables;
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1961)</small>
 
-XIX.- Solicitar al Ministerio Público que requiera a las autoridades competentes, informes y documentos para fines de la investigación;
+###### Art. 12.
 
-XX.- Garantizar que se asiente constancia de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas. Durante el curso de la investigación ministerial deberán elaborar informes sobre el desarrollo de la misma y rendirlos al Ministerio Público, sin perjuicio de los informes que éste le requiera;
+El Congreso se instalará cada tres años, el día primero de febrero posterior a la elección.
 
-XXI.- Emitir los informes, partes policiales y demás documentos que se generen, con los requisitos de fondo y forma que establezcan las disposiciones aplicables, para tal efecto se podrán apoyar en los conocimientos que resulten necesarios;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
 
-XXII.- Proporcionar atención a víctimas, ofendidos o testigos del delito; para tal efecto deberá:
+###### Art. 13.
 
-a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables;
+El Congreso tendrá cada año dos períodos ordinarios de sesiones; uno durará del 1o. de febrero al último de marzo; y el otro comprenderá del 1o. de septiembre al 31 de diciembre.
 
-b) Procurar que reciban atención médica cuando sea necesaria;
+En el primer periodo se ocupará preferentemente:
 
-c) Adoptar las medidas que se consideren necesarias tendentes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia;
+Del examen y aprobación de las cuentas públicas del año anterior, tanto del Estado como de los Municipios.
 
-d) Preservar los indicios y elementos de prueba que la víctima y ofendido aporten en el momento de la intervención policial y remitirlos sin demora al Ministerio Público encargado del asunto para que éste acuerde lo conducente, y
+En el segundo período se ocupará preferentemente:
 
-e) Asegurar que los Miembros puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
+I. Del examen, discusión y aprobación del Presupuesto de Egresos del Estado correspondiente al año fiscal y decretará los impuestos necesarios para cubrirlo.
 
-XXIII.- Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones;
+II. Del examen, discusión y aprobación de los presupuestos de ingresos de los Municipios.
 
-XXIV.- Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación en caso de flagrancia o por mandato del Ministerio Público, en términos de las disposiciones aplicables. De las entrevistas que se practiquen se dejará constancia y se utilizarán meramente como un registro de la investigación, que para tener valor probatorio, deberán ser ratificadas ante la autoridad ministerial o judicial que corresponda;
+En ambos períodos ordinarios el Congreso se ocupará además, de estudiar, discutir y votar las iniciativas de Ley que se presenten y de resolver los demás asuntos que le corresponden conforme a esta Constitución.
 
-XXV.- Reunir la información que pueda ser útil al Ministerio Público que conozca del asunto, para acreditar el cuerpo del delito y la probable responsabilidad del imputado, conforme a las instrucciones de aquél;
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1932)</small>
 
-XXVI.- Incorporar y consultar en las bases de datos de la Institución Policial y del Sistema Estatal de Información sobre Seguridad Pública, la información que pueda ser útil en la investigación de los delitos y utilizar su contenido para el desempeño de sus atribuciones, en términos de la normatividad aplicable;
+###### Art. 14.
 
-XXVII.- Coordinarse en los términos que señala la Ley General y la Ley de Seguridad Pública, con las autoridades de los tres órdenes de gobierno, para el intercambio de información en materia de seguridad pública, con las limitaciones establecidas en las leyes correspondientes;
+El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones extraordinarias sólo cuando fuere convocado al efecto por el Ejecutivo, en los términos del artículo 35 fracción XVI, o por la Comisión Permanente, en los casos de la fracción IX del artículo 23; debiendo ocuparse en ellas sólo de los asuntos para los cuales se haya hecho la convocatoria.
 
-XXVIII.- Colaborar, cuando sean (sic) formalmente requerida, de conformidad con los ordenamientos constitucionales y legales aplicables, con las autoridades locales y municipales competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro, cuando se vean amenazadas por situaciones que impliquen violencia o riesgo inminente;
+###### Art. 15.
 
-XXIX.- Participar en operativos conjuntos con autoridades federales, locales o municipales, que se lleven a cabo conforme a lo dispuesto en la normatividad aplicable;
+El Congreso no podrá ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros. Para obtener esta concurrencia de los Diputados presentes, deberán reunirse el día designado por la Ley, o la convocatoria y comunicar a los ausentes para que concurran dentro de los treinta días siguientes al llamado. Los que sin alegar causa justificada no se presenten, cesarán en su cargo, previa declaración del Congreso. No se necesita esta declaración para los Diputados que no hayan protestado todavía.
 
-XXX.- Obtener, analizar y procesar información, así como realizar las acciones que, conforme a las disposiciones aplicables, resulten necesarias para la prevención de delitos, sea directamente o mediante los sistemas de coordinación previstos en esta Ley y otras leyes;
+### CAPITULO SEGUNDO. De la iniciativa y formación de las Leyes
 
-XXXI.- Vigilar, supervisar, asegurar y custodiar, a solicitud de la autoridad competente, las instalaciones de los centros dependientes de la Subsecretaría del Sistema Estatal Penitenciario de la Secretaría; así como en el traslado de internos, con apego a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos;
+###### Art. 16.
 
-XXXII.- Estudiar, planificar y ejecutar los métodos y técnicas de combate a la delincuencia;
+La iniciativa de las Leyes corresponde:
 
-XXXIII.- Realizar acciones de vigilancia, identificación, monitoreo y rastreo en la Red Pública de Internet sobre sitios web con el fin de prevenir conductas delictivas;
+I. A los Diputados.
 
-XXXIV.- Desarrollar, mantener y supervisar fuentes de información en la sociedad, que permitan obtener datos sobre actividades relacionadas con fenómenos delictivos;
+II. Al Gobernador.
 
-XXXV.- Integrar en el Registro Administrativo de Detenciones y demás bases de datos de la Institución Policial y del Sistema Estatal de Información sobre Seguridad Pública a que se refiere la Ley de Seguridad Pública, las huellas dactilares y cualquier otro medio de identificación de una persona, solicitando a las autoridades de los tres órdenes de gobierno la información respectiva con que cuenten, así como de organismos no gubernamentales;
+III. Al Supremo Tribunal, en asuntos del Ramo de Justicia.
 
-XXXVI.- Solicitar a la autoridad competente en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos a los concesionarios permisionarios, operadoras telefónicas y todas aquellas comercializadoras de servicios en materia de telecomunicaciones de sistemas de comunicación vía satélite, la información con que cuenten así como georeferenciación de los equipos de comunicación móvil en tiempo real, para el cumplimiento de sus fines de prevención de los delitos;
+IV. A los Ayuntamientos, en asuntos del Ramo Municipal.
 
-XXXVII.- Solicitar a la autoridad competente en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, la autorización para la intervención de comunicaciones privadas para la investigación de los delitos;
+###### Art. 17.
 
-XXXVIII.- Resguardar, proteger y supervisar las acciones necesarias para la vigilancia de las instalaciones, inmuebles, muebles, equipos y demás bienes destinados al funcionamiento y operación de las actividades de la Secretaría, a efecto de garantizar su integridad y operación, y
+Se anunciará al Ejecutivo con 1 o 3 días de anticipación, cuando haya de discutirse un proyecto de Ley, a fin de que pueda enviar al Congreso si lo juzga conveniente, un orador, que, sin voto, tome parte en los debates.
 
-XXXIX. Las demás que le confieran ésta y otras leyes.
+En los mismos términos se mandará anuncio al Supremo Tribunal del Estado, en caso de que el proyecto se refiera a asuntos del Ramo de Justicia.
 
-###### Artículo 8.
+Los Ayuntamientos al mandar su iniciativa designarán su orador, si lo juzgan conveniente, el cual señalará domicilio en la población donde residan los Supremos Poderes del Estado para darle a saber el día en que aquella se discuta.
 
-La Institución Policial ejercerá las atribuciones que establece esta Ley en todo el territorio del Estado de Baja California, con estricto respeto a las que corresponden a las competencias de las demás instituciones policiales a que se refiere la Ley General y Ley de Seguridad Pública.
+###### Art. 18.
 
-### CAPÍTULO TERCERO. DE LA COMISARÍA GENERAL
+Desechada alguna iniciativa, no podrá volver a presentarse en el mismo periodo de sesiones.
 
-###### Artículo 9.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
 
-El Comisario General tendrá el más alto rango en la organización jerárquica de la Institución Policial, sobre la cual ejercerá las atribuciones de mando, dirección y disciplina. Será nombrado y removido libremente por el Secretario.
+###### Art. 19.
 
-###### Artículo 10.
+Las iniciativas adquirirán el carácter de Ley cuando sean aprobadas por el Congreso y promulgadas por el Ejecutivo.
 
-Para ser Comisario General se deberán reunir los siguientes requisitos:
+Si la Ley no fija el día en que deba comenzar a observarse, será obligatoria en cada lugar desde el siguiente al en que se publique.
 
-I.- Ser ciudadano mexicano por nacimiento, que no tenga otra nacionalidad, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1927)</small>
 
-II.- Tener cuando menos treinta años el día de la designación;
+###### Art. 20.
 
-III.- Contar con título de estudios superiores debidamente registrado;
+Si el Ejecutivo juzga conveniente hacer observaciones a un Proyecto de Ley aprobado por el Congreso, podrá negarle su sanción y remitir sus observaciones a este Cuerpo dentro de los ocho días siguientes a aquel en que se le haga saber, para que, tomadas en consideración, se examine de nuevo el negocio.
 
-IV.- Acreditar los procedimientos de evaluación y control de confianza;
+En casos urgentes, a juicio del Congreso, el término de que se trata será de tres días y así se anunciará al Ejecutivo.
 
-V.- Tener reconocida capacidad y probidad, no haber sido sentenciado por delito doloso, ni estar sujeto a proceso penal o averiguación previa;
+Se reputará aprobado por el Ejecutivo todo proyecto que no se devuelva con observaciones a la Cámara dentro de los mencionados términos, a no ser que, corriendo éstos, hubiere el Congreso cerrado o suspendido sus sesiones; en el cual caso, la devolución deberá hacerse el primer día hábil que siga al en que dicho Cuerpo esté reunido.
 
-VI.- Comprobar una experiencia mínima de cinco años en labores vinculadas con la seguridad pública;
+El proyecto de ley al que se hubieren hecho observaciones, será sancionado y publicado si el Congreso vuelve a aprobarlo por dos tercios del número total de sus miembros presentes.
 
-VII.- No estar o haber estado suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público, y
+Todo proyecto de Ley al que no hubiere hecho observaciones el Ejecutivo dentro del término que establece este artículo, debe ser publicado en un plazo de quince días, como máximo, a contar de la fecha en que le haya sido remitido.
 
-VIII.- Las demás que señalen las Leyes y Reglamentos correspondientes.
+Los proyectos de Ley que hubieran sido objetados por el Ejecutivo, conforme a esta Constitución y que hayan sido ratificados por el Congreso, deben ser promulgados en un término que no exceda de ocho días, a contar de la fecha en que le hayan sido remitidos nuevamente al Ejecutivo.
 
-###### Artículo 11.
+###### Art. 21.
 
-Son facultades y obligaciones del Comisario General:
+La facultad que establece el artículo anterior no podrá comprender las resoluciones que dicte el Congreso como Colegio Electoral o como Jurado, ni las en que abra o cierre sus sesiones.
 
-I.- Acatar las instrucciones que al efecto le gire el Secretario;
+###### Art. 22.
 
-II.- Tener el mando directo de la Institución Policial;
+Los proyectos de Ley aprobados por el Congreso, se remitirán al Ejecutivo, firmados por el Presidente y los Secretarios de la Cámara.
 
-III.- Ejecutar las correcciones disciplinarias y de control de la Institución Policial;
+### CAPITULO TERCERO. De las facultades del Congreso
 
-IV.- Proponer al Secretario la adopción de políticas, programas y estrategias en materia policial, que ayuden a la prevención del delito;
+###### Art. 23.
 
-V.- Informar periódicamente al Secretario o cuando sea requerido por este, sobre el desempeño de las atribuciones de la Institución Policial y de los resultados alcanzados;
+Son facultades del Congreso:
 
-VI.- Vigilar, en el área de su competencia, el cumplimiento de las disposiciones legales y administrativas en materia de protección de derechos humanos;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1972)</small>
 
-VII.- Autorizar, previo acuerdo con el Secretario, operaciones encubiertas para desarrollar labores de inteligencia para la prevención de delitos, en los términos de esta Ley y las demás disposiciones aplicables;
+I. Legislar en todas las ramas del régimen interior del Estado, expedir Leyes y ejecutar actos sobre materias que la Constitución General encomienda a las Legislaturas locales.
 
-VIII.- Solicitar al titular del Ministerio Público del Estado, previo acuerdo con el Secretario, la intervención de comunicaciones privadas; así como, a la autoridad competente, información de los concesionarios permisionarios, operadoras telefónicas y todas aquellas comercializadoras de servicios en materia de telecomunicaciones de sistemas de comunicación vía satélite, así como georeferenciación de los equipos de comunicación móvil en tiempo real, para el cumplimiento de sus fines de prevención de los delitos, en los términos de la presente Ley y las demás disposiciones aplicables;
+Cuando se discuta una Ley o se estudie un negocio relativo al Poder Ejecutivo del Estado, el Congreso podrá citar a los titulares de las Dependencias del ramo de que se trate, para que informen.
 
-IX.- Ejercer debidamente, los recursos que se asignen para la operación y funcionamiento de la Institución Policial;
+II. Facultar al Ejecutivo, con las limitaciones que crea necesarias para que por sí o por apoderado especial, represente al Estado en los casos que corresponda;
 
-X.- Coordinarse con la Academia, para la promoción y realización de cursos, seminarios o eventos que redunden en la capacitación permanente de sus Miembros;
+III. Fijar la división territorial política, administrativa y judicial del Estado.
 
-XI.- Promover con instituciones policiales, nacionales y extranjeras, el intercambio de experiencias, estrategias y capacitación;
+IV. Determinar los gastos del Estado y de los Municipios para cada ejercicio fiscal, así como las contribuciones para cubrirlos y examinar las cuentas correspondientes.
 
-XII.- Proponer al Secretario, los anteproyectos de reglamentos, acuerdos y demás normas administrativas para el buen funcionamiento de la Institución Policial;
+V. Crear y suprimir los empleos públicos.
 
-XIII.- Proponer al Secretario, los nombramientos de los demás Comisarios de la Institución Policial, de acuerdo a lo establecido en la Ley de Seguridad Pública, esta Ley y demás normatividad aplicable;
+VI. Dar bases para que el Ejecutivo pueda celebrar empréstitos sobre el crédito del Estado, con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución Federal; aprobar los contratos respectivos y reconocer y mandar pagar las deudas que contraiga el Estado.
 
-XIV.- Proponer al Secretario, a los Miembros en cargos administrativos o de dirección de la estructura orgánica de la Institución Policial y relevarlos libremente de los mismos, respetando su grado policial y derechos inherentes a la carrera policial, y
+VII. Hacer el escrutinio de los votos emitidos en la elección de Gobernador; calificar dicha elección y declarar electo al que haya obtenido mayoría.
 
-XV.- Las demás que las leyes y otras disposiciones aplicables le confieran.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 1939)</small>
 
-### CAPÍTULO CUARTO. DE LA INTEGRACIÓN Y MANDO DE LA INSTITUCIÓN POLICIAL
+VIII. Aprobar o rechazar los nombramientos de Magistrados al Tribunal Superior de Justicia que expida el Ejecutivo; y en su caso designarlos dentro de las ternas que éste le proponga.
 
-#### SECCIÓN I. DE LA ORGANIZACIÓN JERÁRQUICA
+IX. Designar en los términos que previene esta Constitución al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas.
 
-###### Artículo 12.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 1961)</small>
 
-La Institución Policial considerará para su organización jerárquica, al menos las siguientes categorías:
+X. Convocar a elecciones extraordinarias cuando fuere necesario y decidir conforme a sus atribuciones.
 
-I. Comisarios;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 1939)</small>
 
-II. Inspectores;
+XI. Conocer de las renuncias de los Diputados y del Gobernador y de los Magistrados que hayan sido previamente aceptadas por el Ejecutivo.
 
-III. Oficiales, y
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 1939)</small>
 
-IV. Escala básica.
+XII. Otorgar licencias a los Diputados y al Gobernador para separarse de sus cargos y además a éste último para permanecer fuera del territorio del Estado. Conocer de las licencias que por más de dos meses conceda el Ejecutivo a los Magistrados.
 
-###### Artículo 13.
+XIII. Erigirse en Jurado de Acusación, o de acusación y de sentencia, en los casos que señalan los artículos 49, 50 y 51.
 
-Las categorías previstas en el artículo anterior considerarán, al menos, las siguientes jerarquías:
+XIV. Aprobar o reprobar los convenios que el Gobernador celebre con los Estados vecinos respecto a la cuestión de límites, y someter tales convenios a la ratificación del Congreso de la Unión.
 
-I. Comisarios:
+XV. Cambiar provisionalmente la residencia de los Poderes del Estado.
 
-a) Comisario General;
+XVI. Resolver las competencias y derimir (sic) las controversias que se susciten entre el Ejecutivo y el Supremo Tribunal, salvo lo prevenido en los artículos 76, Fracción 8 y 105 de la Constitución Federal.
 
-b) Comisario Jefe, y
+XVII. Conceder amnistía.
 
-c) Comisario.
+XVIII. Nombrar y remover libremente a los empleados dependientes de su Secretaría y de la Contaduría Mayor de Hacienda.
 
-II. Inspectores:
+XIX. Investir al Gobernador de facultades extraordinarias, cuando por circunstancias determinadas, se hiciera necesario y aprobar o reprobar los actos emanados de aquellas.
 
-a) Inspector General;
+XX. Conceder dispensas de Ley por causas justificadas, por motivos de conveniencia o utilidad pública sin perjuicio de tercero.
 
-b) Inspector Jefe, y
+XXI. Otorgar recompensas a los que hayan prestado servicios de importancia a la humanidad o al Estado, siempre que, al concederla, no ocupen altos puestos gubernativos; conceder pensiones a los deudos de los que hayan fallecido siendo merecedores de aquella recompensa.
 
-c) Inspector.
+XXII. Declarar beneméritos del Estado, a sus benefactores y a los que se hayan distinguido por servicios eminentes prestados a la República, diez años después de su fallecimiento.
 
-III. Oficiales:
+XXIII. Formar su Reglamento Interior y dictar las disposiciones necesarias para el buen servicio de sus Oficinas, así como ejercer las demás atribuciones que le confiere la Ley.
 
-a) Subinspector;
+### CAPITULO CUARTO. De la Diputación Permanente
 
-b) Oficial, y
+###### Art. 24.
 
-c) Suboficial.
+Durante el receso del Congreso habrá una Diputación Permanente compuesta de 5 miembros de aquel Cuerpo, como propietarios y tres como suplentes, electos en la forma y término que señala el Reglamento respectivo.
 
-IV. Escala básica:
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1968)</small>
 
-a) Policía Primero;
+###### Art. 25.
 
-b) Policía Segundo;
+Son atribuciones de la Diputación Permanente:
 
-c) Policía Tercero, y
+I. Conceder las licencias y permisos a que se refiere la Fracción XII del Artículo 23;
 
-d) Policía.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1972)</small>
 
-###### Artículo 14.
+II. Resolver sobre las modificaciones a los presupuestos municipales que propongan los Ayuntamientos y sobre sus peticiones para disponer de los depósitos legales en materia de agua y drenaje y plaza y pisos en mercados;
 
-La categoría de Comisarios y sus jerarquías, serán de libre designación y remoción por parte del Secretario, para asegurar la adecuada coordinación con los altos mandos, a partir de principios de confianza y experiencia.
+III. Dictaminar sobre los negocios que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten para dar cuenta al Congreso;
 
-###### Artículo 15.
+IV. Convocar al Congreso a Sesiones Extraordinarias en el caso de acusación por delitos oficiales o de orden común cometidos por funcionarios que gocen de fuero; en el caso de tener que ejercer aquel Cuerpo sus funciones de Colegio Electoral para la designación del Gobernador o Magistrados; y en el de tener que convocar a Elecciones Extraordinarias;
 
-La Institución Policial se organizará operativamente bajo un esquema de jerarquización terciaria, cuya célula básica se compondrá invariablemente por tres elementos, de acuerdo a la normatividad aplicable.
+V. Llamar a los Suplentes de la misma Diputación para suplir las faltas absolutas o temporales de los Propietarios;
 
-La Institución Policial deberá de satisfacer, como mínimo, el mando correspondiente al octavo grado ascendente de la organización jerárquica.
+VI. Recibir los expedientes electorales relativos a la elección de Diputados y Gobernador, para el sólo efecto de entregarlos a la Junta Preparatoria Electoral del Congreso o a éste;
 
-Los titulares de las categorías jerárquicas estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
+VII. Instalar las Juntas Preparatorias del nuevo Congreso;
 
-#### SECCIÓN II. DEL MANDO
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1972)</small>
 
-###### Artículo 16.
+VIII. Nombrar a los empleados de la Secretaría del Congreso y de la Contaduría Mayor de Hacienda, cuyos nombramientos serán considerados en el siguiente periodo de sesiones del Congreso, para su ratificación o rectificación, en los términos del Reglamento respectivo;
 
-Se entenderá por mando a la autoridad ejercida por un superior jerárquico en servicio activo, sobre sus inferiores o iguales en jerarquía, cuando estos se encuentren subordinados a él en razón de su grado, cargo o comisión.
+IX. Nombrar los empleados de la Secretaría del Congreso o de la Contaduría Mayor de Hacienda, cuyos nombramientos serán considerados en el siguiente período de sesiones del Congreso, para su ratificación o rectificación, en los términos del Reglamento respectivo.
 
-###### Artículo 17.
+## Título Cuarto
 
-El mando podrá ser ejercido en las formas siguientes:
+### CAPITULO PRIMERO. Del Poder Ejecutivo
 
-I. Titular.- Que es ejercido por medio de nombramiento oficial expedido por la autoridad correspondiente;
+###### Art. 26.
 
-II. Circunstancial.- En los casos siguientes:
+El Poder Ejecutivo se confiere a un ciudadano que se denomina Gobernador del Estado.
 
-a. Interino.- El designado con ese carácter por la superioridad correspondiente hasta en tanto se nombra titular;
+###### Art. 27.
 
-b. Accidental.- El que se ejerce por ausencia temporal del titular que le impida desempeñarlo, en caso de enfermedad, licencias, vacaciones, comisiones fuera de su adscripción u otros motivos, y
+Para ser Gobernador se requiere:
 
-c. Incidental.- El que se desempeña en casos imprevistos por ausencia momentánea del titular o de quien ejerza el mando.
+I. Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos;
 
-En cualquier caso solo los Miembros en servicio activo podrán ejercer el mando, salvo en aquellas situaciones especiales.
+II. Tener 30 años cumplidos el día de la elección;
 
-#### SECCIÓN III. DE LA ESTRUCTURA FUNCIONAL
+III. Ser nativo del Estado o avecindado en él, cuando menos cinco años inmediatamente anteriores al día de la elección;
 
-###### Artículo 18.
+IV. No estar en servicio activo en el Ejército Nacional, ni en las fuerzas del Estado, cuando menos noventa días anteriores al día de la elección;
 
-La Institución Policial, para el mejor cumplimiento de sus objetivos, establecerá cuando menos, las siguientes funciones:
+V. No ser Secretario de Gobierno o quien haga sus veces, a no ser que se separe del cargo cuando menos noventa días antes de la elección.
 
-I.- Investigación, que será la encargada de la investigación a través de sistemas homologados de recolección, clasificación, registro, análisis y evaluación de información;
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1947)</small>
 
-II.- Prevención, que será la encargada de prevenir la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción; y
+###### Art. 28.
 
-III.- Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos.
+El Gobernador entrará a ejercer su encargo el primer día de marzo posterior a su elección, durará en él seis años y nunca podrá ser reelecto.
 
-###### Artículo 19.
+El Ciudadano que haya desempeñado el Poder Ejecutivo como Gobernador substituto o interino no podrá ser electo para el período inmediato; pudiendo serlo para completar el período en que funcione, siempre que se separe cuando menos con treinta días antes de la elección.
 
-La Institución Policial, para el cumplimiento de lo establecido en el artículo que antecede, contará con las unidades operativas y agrupamientos que se determinen en el Reglamento de la presente Ley.
+En caso de que el substituto funcione por licencia concedida al Gobernador, no quedará impedido para ser electo en el período inmediato, siempre que no estuviere en el desempeño del cargo, noventa días antes de celebrarse la elección.
 
-#### SECCIÓN IV. DE LA ORGANIZACIÓN TERRITORIAL
+La elección del Gobernador será directa y en los términos que disponga la Ley Electoral.
 
-###### Artículo 20.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1939)</small>
 
-Para el adecuado funcionamiento de la Institución Policial, se establecerán en el territorio del Estado, bases operativas, destacamentos, delegaciones o aquellas instalaciones que determine el Reglamento, de acuerdo a las necesidades del servicio y disponibilidad presupuestal.
+###### Art. 29.
 
-###### Artículo 21.
+En las faltas absolutas del Gobernador, se procederá a nueva elección y el que resulte electo, tomará posesión de su cargo luego que se haga la declaratoria correspondiente.
 
-Las instalaciones tendrán carácter estratégico, por lo que dispondrán de los sistemas de vigilancia y seguridad permanente.
+En las faltas temporales que excedan de quince días y en las absolutas, mientras que se verifique la elección y se presenta el nuevamente electo, entrará a ejercer interinamente el Poder Ejecutivo, el ciudadano que nombre el Congreso en escrutinio secreto, por mayoría absoluta de votos y obrando como Colegio Electoral. Entre tanto la Legislatura hace la designación, el despacho quedará a cargo del Secretario de Gobierno.
 
-###### Artículo 22.
+Cuando la falta absoluta del Gobernador ocurriere en el último año del período constitucional, no se convocará a elecciones extraordinarias, sino que la persona que desempeñe el Poder Ejecutivo por designación de la Legislatura, seguirá encargada de él, hasta la conclusión del período.
 
-La Institución Policial en cualquier tiempo podrá hacer las modificaciones que estime convenientes a su organización territorial, de acuerdo a las necesidades del servicio.
+###### Art. 30.
 
-### CAPÍTULO QUINTO. DEL AUXILIO A LA INSTITUCIÓN POLICIAL
+Si al comenzar un periodo constitucional, no se presentare el Gobernador o la elección no estuviere hecha y declarado el 1º de marzo, cesará sin embargo el Gobernador cuyo periodo hubiere concluido, y entonces, así como en las faltas repentinas, se encargará desde luego del Poder Ejecutivo en Calidad de Gobernador Interino, el Magistrado que estuviere desempeñando la Presidencia del Supremo Tribunal de Justicia, mientras se hace la designación de que se habla en el artículo anterior y se presenta el designado.
 
-###### Artículo 23.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1950)</small>
 
-En los casos en que resulte necesario, la Institución Policial podrá auxiliarse con:
+###### Art. 31.
 
-I. El personal técnico especializado de la Secretaría;
+El Gobernador podrá ausentarse del territorio del Estado o separarse de sus funciones hasta por treinta días. Durante los primeros diez de este término, no se le considerará separado de sus funciones, pero a partir del onceavo, dará aviso de su separación o ausencia al Congreso o a la Diputación Permanente, y el Secretario General de Gobierno se hará cargo del despacho, con las atribuciones que establezca la Ley Orgánica del Poder Ejecutivo. Sólo con permiso del Congreso o de la Diputación Permanente, podrá ausentarse del Territorio del Estado o separarse de sus funciones por más de quince días.
 
-II. Las instituciones policiales a que se refiere el artículo 7 de la Ley de Seguridad Pública, y
+###### Art. 32.
 
-III. Los auxiliares de las instituciones policiales, a que se refiere el artículo 8 de la Ley de Seguridad Pública.
+Para el despacho de los negocios del Poder Ejecutivo, habrá un funcionario que se denomine Secretario de Gobierno, o varios que se denominarán Secretarios del Despacho del Ramo que se les encomiende. También podrá haber Departamentos y Direcciones Administrativas encargadas de un solo Ramo, cuyos Jefes acuerden directamente con el Gobernador y comuniquen y autoricen sus acuerdos.
 
-### CAPÍTULO SEXTO. DE LA COORDINACIÓN Y COOPERACIÓN CON EL MINISTERIO PÚBLICO
+###### Art. 33.
 
-###### Artículo 24.
+El Secretario de Gobierno, o quien conforme a la Ley haga sus veces, autorizará con su firma las disposiciones que el Gobernador diere en uso de sus facultades; sin este requisito no serán obedecidas.
 
-En sus funciones de investigación y combate a los delitos, la Institución Policial actuará bajo el mando y conducción del Ministerio Público, con el fin de que sus actuaciones se lleven a cabo en el marco de la legalidad y con las formalidades necesarias para que los resultados de tales actuaciones puedan presentarse como evidencia ante los tribunales.
+###### Art. 34.
 
-###### Artículo 25.
+Las autoridades subalternas del Gobernador, y sus facultades, son las que determina la Ley.
 
-Cuando durante el desarrollo de la investigación ministerial la Institución Policial estime necesaria la realización de diligencias que requieran una tramitación especial o la autorización de la autoridad jurisdiccional, lo comunicará sin demora al Ministerio Público quien resolverá lo conducente.
+### CAPITULO SEGUNDO
 
-###### Artículo 26.
+De las Facultades y Obligaciones del Gobernador.
 
-Si se tratare de delito flagrante, la Institución Policial dictará las medidas y providencias necesarias para el debido cumplimiento de lo que en materia de preservación de indicios dispone el Código de Procedimientos Penales para el Estado de Baja California; en todos los casos, y bajo su más estricta responsabilidad, informará de inmediato de lo acaecido al Ministerio Público y pondrá a su disposición las personas, bienes u objetos relacionados con los hechos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1927)</small>
 
-En estos casos, la Institución Policial actuará de conformidad con los protocolos que al efecto se establezcan conforme a las disposiciones legales aplicables.
+###### Art. 35.
 
-### CAPÍTULO SÉPTIMO. INTERVENCIÓN E INFORMACIÓN DE COMUNICACIONES PRIVADAS
+Son facultades y obligaciones del Gobernador:
 
-###### Artículo 27.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-En concordancia con los artículos 16 y 21 de la Constitución Política de los Estados Unidos Mexicanos y este ordenamiento, el Comisario General, previo acuerdo con el Secretario, podrá solicitar la intervención de comunicaciones al titular del Ministerio Público, cuando se constate la existencia de indicios suficientes que acrediten que se está organizando la comisión de los delitos señalados en el artículo 30 de esta Ley.
+I. Promulgar, ejecutar y hacer que se ejecuten las Leyes haciendo uso en su caso, de la facultad que le concede el artículo 20.
 
-En caso de que durante la investigación se advierta la comisión de un delito, se dará vista de inmediato al Ministerio Público.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1931)</small>
 
-###### Artículo 28.
+II. Presentar cada año al Congreso a más tardar el día 15 de noviembre, los Proyectos de Presupuestos de Ingresos y Egresos del Estado, para el ejercicio fiscal venidero.
 
-La Institución Policial al efectuar la intervención a que se refiere la fracción XXXVII del artículo 7 de esta Ley, deberá regirse por los principios de legalidad, objetividad, eficiencia, profesionalismo, imparcialidad, honradez y respeto a las garantías individuales y los derechos humanos reconocidos en la Constitución.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-###### Artículo 29.
+III. Asistir a la apertura del primer período de sesiones ordinarias del Congreso y la de las extraordinarias a que hubiere convocado, para rendir en el primer caso, un informe general por escrito de la Administración Pública, y en el segundo para justificar su convocatoria.
 
-El Comisario General será responsable de que la intervención se realice en los términos de la autorización judicial.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-La solicitud de autorización deberá contener los preceptos legales que la fundan, el razonamiento por el que se considera procedente, el tipo de comunicaciones, periodo durante el cual se llevarán a cabo las intervenciones, los sujetos y lugares que serán intervenidos.
+IV. Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Tribunal sobre el de Justicia.
 
-###### Artículo 30.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 1932)</small>
 
-La intervención de comunicaciones a que se refiere esta Ley, se solicitará al Ministerio Público en los delitos previstos en los ordenamientos legales que a continuación se enlistan:
+V. Reconocer cuando después de una elección se instale más de un cuerpo legislativo, cuál es el que representa la legalidad y cuando estuviere dividida la misma legislatura en varios grupos, a aquél que tenga quórum legal.
 
-I.- Del Código de Procedimientos Penales para el Estado de Baja California, los delitos calificados como graves;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-II.- De la Ley Contra la Delincuencia Organizada para el Estado de Baja California, en los términos y por las conductas establecidas en el artículo 4.
+VI. Dar cuenta al Congreso cuando se reúna, de los actos efectuados en uso de las facultades extraordinarias que se hayan concedido por el Congreso, para los efectos de la Fracción XIX del artículo 23 de esta Constitución.
 
-###### Artículo 31.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-El Comisario General, al concluir cada intervención de comunicaciones privadas, levantará un acta que contendrá un inventario pormenorizado de la información de audio o video que contengan los sonidos o imágenes captadas, así como un informe sobre sus resultados, a efecto de que sea posible constatar el debido cumplimiento de la autorización otorgada.
+VII. Celebrar convenio sobre límites con los Estados vecinos, con el requisito establecido en la fracción XIV del artículo 23.
 
-###### Artículo 32.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-La reserva de las intervenciones de comunicaciones privadas, autorizadas al Comisario General, será bajo su estricta responsabilidad y, en caso de incumplimiento, será sancionado en términos de la legislación aplicable.
+VIII. Formar los reglamentos para el buen despacho de la Administración Pública.
 
-###### Artículo 33.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 1932)</small>
 
-Sólo podrán dar cumplimiento a las intervenciones autorizadas por la autoridad judicial competente, aquellos Miembros que cumplan los siguientes requisitos:
+IX. Nombrar y remover al Secretario de Gobierno, al Procurador General de Justicia y a los funcionarios y empleados cuyo nombramiento o remoción no corresponda conforme a la Ley a otra Autoridad.
 
-a) Pertenezcan a las áreas de investigación de la Institución Policial,
+X. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 1922)
 
-b) Cuenten con certificación de control de confianza vigente y
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-c) Tengan un grado policial mínimo de subinspector.
+XI. Cuidar de la recaudación e inversión de los caudales del Estado, con arreglo a las leyes.
 
-###### Artículo 34.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-En el caso de la solicitud de información dispuesta en la fracción XXXVI del artículo 7 de esta Ley, se aplicará en lo conducente el procedimiento a que se refiere este Capítulo.
+XII. Cuidar de la conservación del orden público, disponiendo al efecto de la fuerza armada del Estado, y de la del Municipio donde resida habitual o transitoriamente.
 
-### CAPÍTULO OCTAVO. DEL PERSONAL DE LA INSTITUCIÓN POLICIAL
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-###### Artículo 35.
+XIII. Decretar la expropiación por causa de utilidad pública, en la forma que determinan las leyes.
 
-La relación entre la Institución Policial y sus Miembros se regulará por lo dispuesto en la fracción XIII, apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General, la Ley de Seguridad Pública, la presente Ley y las demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-Los Miembros podrán ser separados de su cargo si no cumplen con los requisitos que señala la Ley de Seguridad Pública para permanecer en la Institución Policial o incurran en cualquiera de las hipótesis contenidas en la fracción I del artículo 180 de dicho ordenamiento legal o removidos por incurrir en responsabilidad administrativa grave en el desempeño de sus funciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación o remoción.
+XIV. Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
-El Miembro que llegare a obtener resolución favorable en contra de la separación definitiva por falta de requisitos de permanencia y demás casos previstos en la Ley de Seguridad Pública y esta Ley o remoción por incurrir en responsabilidad administrativa grave en el desempeño de sus funciones o incumplimiento de sus deberes y obligaciones, sólo recibirá el pago de la indemnización y de las condiciones del servicio que de manera proporcional le correspondan; sin que sea procedente el pago de percepción, retribución o remuneración alguna, que hubiere dejado de percibir por motivo de la separación definitiva o remoción del cargo.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-###### Artículo 36.
+XV. Conceder, conforme a la Ley, indulto, reducción o conmutación de pena.
 
-La actuación de los Miembros de la Institución Policial se sujetará invariablemente a los principios rectores establecidos en el artículo 3 de la presente Ley.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
-###### Artículo 37.
+XVI. Convocar al Congreso a sesiones extraordinarias, debiendo hacerlo a la mayor brevedad en los casos graves de responsabilidad de los Funcionarios y empleados públicos que gocen de fuero.
 
-Las condiciones de servicio establecidas en la Ley de Seguridad Pública, a favor de los Miembros, serán determinadas reglamentariamente por el titular del Poder Ejecutivo.
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1966)</small>
 
-###### Artículo 38.
+XVII. Celebrar convenios con los Gobiernos Federal y de los Estados, para que los reos sentenciados por delitos del orden común, puedan cumplir las sanciones privativas de libertad en establecimientos ubicados fuera de la Entidad.
 
-Los deberes y obligaciones de los Miembros, así como el procedimiento para la aplicación de sanciones al régimen disciplinario, se determinarán en la Ley de Seguridad Pública y demás disposiciones aplicables. Las correcciones disciplinarias se establecerán en los términos de esta Ley y su Reglamento.
+## Título Quinto
 
-### CAPÍTULO NOVENO. DE LA CARRERA POLICIAL
+### CAPITULO UNICO. De la Administración Municipal
 
-###### Artículo 39.
+###### Art. 36.
 
-La carrera policial comprende el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el Miembro. Se regirá por las normas siguientes:
+La Administración Municipal, se ejerce por los Ayuntamientos que residirán en las Cabeceras de las Municipalidades.
 
-I. La Institución Policial deberá consultar los antecedentes de los aspirantes en el Registro Nacional de Personal de Seguridad Pública antes de que se autorice su ingreso a la misma;
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1948)</small>
 
-II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro de Control de Confianza, conforme al protocolo aprobado por el Centro Nacional de Acreditación y Control de Confianza;
+###### Art. 37.
 
-III. Ninguna persona podrá ingresar a la Institución Policial si no ha sido debidamente certificada e inscrita en el Registro Nacional de Personal de Seguridad Pública;
+Los Ayuntamientos se compondrán de Munícipes nombrados en elección popular directa, calificada por el Consejo Electoral o por el Tribunal Electoral, en los términos de la Ley de la materia.
 
-IV. Sólo ingresarán y permanecerán en la Institución Policial aquellos aspirantes y Miembros que cursen y aprueben los programas de formación, capacitación, actualización, profesionalización y demás que establezca la Academia;
+Para ser electo Munícipe es requisito indispensable tener domicilio legal en el lugar en que hubiere de funcionar, cuando menos desde dos años antes del día de la elección.
 
-V. La permanencia de los Miembros está condicionada al cumplimiento de los requisitos que determine la Ley de Seguridad Pública y demás disposiciones aplicables;
+Los Munícipes durarán en su encargo tres años y se renovarán en su totalidad al final de cada período.
 
-VI. Los méritos de los Miembros serán evaluados por la instancia colegiada, encargada de determinar las promociones y verificar que se cumplan los requisitos de permanencia, de acuerdo a las disposiciones aplicables;
+Los Ayuntamientos admitirán las renuncias y concederán las licencias que soliciten sus miembros.
 
-VII. El Reglamento establecerá los criterios para la promoción de los Miembros de la Institución Policial, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo;
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 1972)</small>
 
-VIII. El Reglamento de esta Ley, establecerá un régimen de condecoraciones, estímulos y promociones que corresponda a las funciones de los Miembros;
+###### Art. 38.
 
-IX. Los Miembros podrán ser cambiados de adscripción, con base en las necesidades del servicio, sin que esa adscripción implique inamovilidad en la sede a la que fueron destinados;
+Los Municipios administrarán libremente su Hacienda, la cual se formará de las contribuciones que en cantidad suficiente para atender a sus necesidades, les señale la Legislatura del Estado.
 
-X. El cambio de un Miembro de un área operativa a otra de distinta especialidad, solo podrá ser autorizado por el titular de la Institución Policial;
+Los Municipios tienen personalidad jurídica para todos los efectos legales.
 
-XI. Las sanciones que se apliquen a los Miembros, se determinarán en los términos que señala la Ley de Seguridad Pública y los Reglamentos correspondientes. En el procedimiento de aplicación de sanciones se salvaguardará en todo tiempo la garantía de audiencia;
+No habrá ninguna autoridad intermedia entre el Municipio y el Gobierno del Estado. Las demás atribuciones y facultades de los Ayuntamientos, así como el número de los ciudadanos que lo formen, se determinarán en las Leyes respectivas.
 
-XII. Los procedimientos para el reclutamiento, certificación, selección, ingreso, formación, permanencia, antigüedad, evaluación, promoción y reconocimiento, así como la remoción o baja del servicio de los Miembros serán establecidos en las disposiciones reglamentarias que al efecto, se expidan, y
+## Título Sexto
 
-XIII. Las demás que establezca esta Ley, otras leyes y reglamentos.
+### CAPITULO UNICO. Del Poder Judicial
 
-###### Artículo 40.
+###### Art. 39.
 
-La carrera policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que el Miembro llegue a desempeñar en la Institución Policial. En ningún caso los derechos adquiridos en la carrera policial implicarán inamovilidad en cargo alguno.
+El Poder Judicial del Estado, se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces Menores, Jueces de Paz, y Jurados.
 
-En términos de las disposiciones aplicables, el Secretario, a propuesta del Comisario General, podrá designar a Miembros en cargos administrativos o de dirección en la estructura orgánica de la Institución Policial; asimismo, podrá relevarlos libremente, respetando su grado policial y sus derechos inherentes a la carrera policial.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1939)</small>
 
-### CAPÍTULO DÉCIMO. DE LA PLANEACIÓN
+###### Art. 40.
 
-###### Artículo 41.
+El Supremo Tribunal de Justicia funcionará en acuerdo pleno o en Salas, con el número de Magistrados que fije la Ley.
 
-La planeación permite determinar las necesidades cuantitativas y cualitativas del personal que requiere la carrera policial, así como su plan de carrera para el eficiente ejercicio de sus funciones, de acuerdo con el Plan Estatal de Desarrollo y los diversos programas oficiales en materia de seguridad pública en el Estado.
+###### Art. 41.
 
-La planeación tiene como objeto establecer y coordinar los diversos procesos de reclutamiento; selección de aspirantes; formación inicial; ingreso; formación continua y especializada; evaluación para la permanencia; desarrollo y promoción; condecoraciones y estímulos; régimen disciplinario; separación y retiro que determinen las necesidades de la carrera policial, de conformidad a la Ley de Seguridad Pública y demás disposiciones aplicables.
+Para ser Magistrado se requiere:
 
-El plan de carrera policial, deberá comprender la ruta profesional desde el ingreso hasta su separación, en el que se fomentará su sentido de pertenencia a la Institución Policial, conservando la categoría o jerarquía que vaya obteniendo a fin de infundirle certeza y certidumbre.
+I. Ser ciudadano mexicano por nacimiento, nativo del Estado, o domiciliado legalmente en él cuando menos tres años antes del día de la elección;
 
-### CAPÍTULO UNDÉCIMO. DEL INGRESO Y PERMANENCIA
+II. Ser abogado con título oficial, y tener cuando menos cinco años de práctica forense reconocida; y
 
-###### Artículo 42.
+III. Tener treinta años cumplidos el día de la elección; estar en el pleno ejercicio de sus derechos políticos y civiles, y haber observado una conducta pública notoriamente buena.
 
-Los aspirantes que hubieren aprobado la etapa de formación inicial en la Academia, podrán ser considerados por la Secretaría para ingresar a la Institución Policial, siempre y cuando cumplan con los requisitos y demás condiciones establecidas en la Ley de Seguridad Pública, esta Ley, el Reglamento de la Academia y las demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
 
-El ingreso de aspirantes a la Institución Policial, además estará sujeto a las necesidades del servicio y a la disponibilidad presupuestal.
+###### Art. 42.
 
-###### Artículo 43.
+Los nombramientos de los Magistrados al Supremo Tribunal de Justicia serán expedidos por el Gobernador y sometidos a la consideración del Congreso, el que otorgará o negará su aprobación dentro del improrrogable término de cinco días. Si no lo hiciere dentro de ese plazo, se tendrán por aprobados los nombramientos. Cuando el Congreso rechazare alguno, el Gobernador propondrá una terna de candidatos, uno de los cuales deberá ser electo por la Cámara dentro de cinco días. Si en ese tiempo no se hace la elección, el Gobernador expedirá el nombramiento definitivo en favor de cualquiera de los que hubieren figurado en la terna.
 
-En los procesos de selección e ingreso de aspirantes, no podrá existir distinción por razón de género, religión, estado civil, origen étnico o condición social para la pertenencia al servicio.
+No aceptado alguno de los tres por el Congreso, el Ejecutivo nombrará definitivamente a otra persona que no hubiere sido propuesta para la misma vacante.
 
-###### Artículo 44.
+Cuando ocurra alguno de los casos previstos en el párrafo que antecede durante los recesos del Congreso, la Diputación Permanente ejercerá con carácter provisional, las atribuciones que se asignan a aquél. Las determinaciones que tome serán sometidas a la Cámara en el Período inmediato de sesiones.
 
-La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la Ley de Seguridad Pública y demás disposiciones aplicables, para continuar en el servicio activo en la Institución Policial.
+Los Magistrados y los Jueces durarán en el cargo seis años, a partir del primero de abril del año en que se inicie el período constitucional del Ejecutivo.
 
-En los términos de los artículos 117, inciso B, fracción XXII y 133, fracción LIV, de la Ley de Seguridad Pública, así como el Reglamento de la presente Ley, se podrán determinar requisitos de permanencia y obligaciones adicionales.
+Los que fueren designados en el curso del período durarán solamente hasta la conclusión del mismo.
 
-### CAPÍTULO DUODÉCIMO. DE LAS CONDECORACIONES, ESTÍMULOS Y PROMOCIONES
+Los Magistrados y Jueces sólo podrán ser destituidos previo juicio de responsabilidad, cuando observen mala conducta, o cuando pierdan alguna de las cualidades que para esos cargos exige la Ley. Las causas de destitución serán calificadas: de los Magistrados, por el Congreso, y de los Jueces por el Supremo Tribunal de Justicia.
 
-###### Artículo 45.
+Independientemente de lo dispuesto en el párrafo anterior, el Gobernador podrá pedir al Congreso la destitución de cualquier Magistrado o juez por alguna de las causas enunciadas. Si el Congreso declara, por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, sin perjuicio de que se le haga efectiva la responsabilidad en que hubiere incurrido.
 
-Los Miembros tendrán derecho a que se les otorguen las condecoraciones, estímulos y promociones, a que se refiere la Ley de Seguridad Pública.
+El Gobernador aceptará las renuncias de los Magistrados y les concederá licencias por más de dos meses, pero sus actos deberán ser ratificados por el Congreso o por la Comisión Permanente.
 
-###### Artículo 46.
+###### Art. 43.
 
-Los procedimientos para otorgar condecoraciones, estímulos y promociones a los Miembros, se determinarán en el Reglamento de la presente Ley y demás normatividad aplicable.
+Los Jueces de Primera Instancia, Menores y de Paz, serán nombrados por el Supremo Tribunal de Justicia, en los términos que fije la Ley orgánica respectiva.
 
-CAPÍTULO DÉCIMOTERCERO
+###### Art. 44.
 
-DE LA CONCLUSIÓN DEL SERVICIO
+Para se Juez de Primera Instancia se necesita ser abogado con título oficial.
 
-###### Artículo 47.
+###### Art. 45.
 
-La conclusión del servicio de un Miembro es la terminación de su nombramiento o la cesación de sus efectos legales por las siguientes causas:
+La Ley organizará los Tribunales y el Ministerio Público, así como lo relativo a Jurados.
 
-I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las siguientes circunstancias:
+###### Art. 46.
 
-a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que habiendo participado en dichos procesos no hubiese obtenido el grado inmediato superior que le correspondería por causas imputables a él;
+Corresponde exclusivamente al Tribunal de Justicia:
 
-b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables.
+I. Formar su Reglamento Interior.
 
-II. Remoción, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario, o
+II. Nombrar los Jueces.
 
-III. Baja, tratándose de:
+III. Permitir que se proceda criminalmente contra los Jueces.
 
-a) Renuncia;
+IV. Conocer de los procesos que por delitos oficiales, se sigan contra el Gobernador, los Diputados, el Secretario de Gobierno, el Procurador de Justicia y los Munícipes.
 
-b) Muerte, o incapacidad permanente o
+V. Conceder licencias a los Jueces para que se separen de sus cargos y admitir las renuncias de los mismos.
 
-c) Jubilación o retiro.
+VI. Conceder licencia a los Magistrados hasta por dos meses para que se separen del ejercicio de sus funciones y llamar a los suplentes por el orden que crea conveniente.
 
-###### Artículo 48.
+VII. Nombrar y remover en la forma que determinen las leyes, a los demás empleados y subalternos del Poder Judicial.
 
-Al concluir el servicio el Miembro deberá entregar al funcionario designado para tal efecto, toda la información, documentación, equipo reglamentario, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
+VIII. Nombrar de entre los Magistrados suplentes, periódicamente, uno o más Visitadores de Juzgados, con la retribución que asigne el Presupuesto Respectivo.
 
-CAPÍTULO DÉCIMOCUARTO
+## Título Séptimo
 
-DE LAS INSIGNIAS, DIVISAS, UNIFORME Y EQUIPO REGLAMENTARIO
+### CAPITULO PRIMERO. De las Responsabilidades de los Funcionarios y Empleados Públicos
 
-###### Artículo 49.
+###### Art. 47.
 
-Los Miembros durante el servicio deberán portar insignias, divisas, uniforme, armas y demás equipo reglamentario correspondiente; salvo disposición legal o reglamentaria en contrario.
+Todo funcionario y empleado público, es responsable por los delitos del orden común que cometa durante el tiempo de su encargo y por los delitos y faltas oficiales en que incurren en el ejercicio del mismo; pero el Gobernador sólo podrá ser acusado por violación expresa de esta Constitución, ataques a la libertad electoral y delitos graves del orden común.
 
-###### Artículo 50.
+###### Art. 48.
 
-La entrega y portación de las insignias, divisas, uniforme, armas y demás equipo reglamentario correspondiente, se determinará en los términos establecidos en el Reglamento de la Ley.
+Se concede acción popular para pedir que se exija la responsabilidad en que incurran los funcionarios y empleados públicos a excepción de la que provenga de delitos en que se requiere la querella necesaria.
 
-CAPÍTULO DÉCIMOQUINTO
+###### Art. 49.
 
-DE LAS CORRECCIONES DISCIPLINARIAS
+Siempre que se trate de un delito del orden común cometido por los diputados, el Gobernador, los Magistrados, el Secretario de Gobierno, el Jefe del Ministerio Público o los Munícipes, el Congreso, erigido en Gran Jurado, declarará a mayoría absoluta de votos, si ha o no lugar a proceder contra el acusado. En caso negativo, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En el caso afirmativo, el acusado queda por el mismo hecho, separado de su cargo y sujeto a la acción de los tribunales comunes.
 
-###### Artículo 51.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
 
-Las correcciones disciplinarias que se apliquen a los Miembros consistirán en amonestación, arresto y cambio de adscripción, determinados en la Ley de Seguridad Pública y las demás que establezcan las disposiciones aplicables.
+###### Art. 50.
 
-Las correcciones disciplinarias se aplicarán por quien ejerce el mando directo sobre la Institución Policial, por el jefe inmediato del Miembro o por quien determine el Reglamento de la Ley.
+De los delitos y faltas oficiales en que incurran los funcionarios a que se refiere el artículo anterior, exceptuando a los Magistrados, conocerá el Congreso como Jurado de Acusación y el Supremo Tribunal de Justicia, en Acuerdo Pleno, como Jurado de Sentencia, si se exigiere la responsabilidad estando el funcionario en ejercicio o fuera de él, pero no definitivamente.
 
-###### Artículo 52.
+El Jurado de Acusación declarará por mayoría absoluta de votos, si el acusado es o no culpable, oyéndolo previamente en defensa.
 
-El procedimiento para la sustanciación y aplicación de las correcciones disciplinarias se determinará en el Reglamento de la Ley.
+El Jurado de Sentencia, oyendo al acusador, si lo hubiere, al Procurador de Justicia y al reo, por sí o por medio de su defensor, aplicará también por mayoría absoluta de votos, la pena que la ley designe.
 
-CAPÍTULO DÉCIMOSEXTO
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
 
-DEL ESCUDO OFICIAL
+###### Art. 51.
 
-###### Artículo 53.
+Si hubiere de formarse causa por delitos y faltas oficiales a los Magistrados del Supremo Tribunal de Justicia, se iniciará y concluirá ante el Congreso, resolviendo éste, como Jurado de Acusación y de Sentencia, observándose lo dispuesto en el artículo anterior.
 
-El diseño del Escudo Oficial de la Institución Policial estará compuesto en los términos previstos en el reglamento de la presente Ley.
+###### Art. 52.
 
-ARTÍCULOS TRANSITORIOS:
+Contra los Funcionarios Públicos de que habla el artículo 46, Fracción III, sólo podrá procederse por responsabilidades comunes u oficiales, previo el permiso correspondiente; quedando, una vez concedido éste, separados del ejercicio de sus funciones y sometidos a los Jueces Ordinarios.
 
-PRIMERO.- La presente Ley abroga a la Ley de la Policía Estatal Preventiva, publicada en el Periódico Oficial del Estado No. 47, de fecha treinta y uno del mes de Octubre del año dos mil uno, salvo lo establecido en el artículo tercero transitorio.
+###### Art. 53.
 
-SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo previsto en el artículo transitorio siguiente.
+La declaración de haber lugar a formación de causa o el permiso para proceder a que se refiere el artículo 46, Fracción III, de esta Constitución, se requiere en cuanto a los Funcionarios de Elección Popular, desde la fecha en que sean electos, y en los demás casos, desde que entren en ejercicio de su encargo aun por delitos cometidos con anterioridad.
 
-TERCERO.- La estructura jerárquica y administrativa de la Policía Estatal Preventiva de Baja California, seguirá funcionando en la forma y términos previstos en la Ley de la Policía Estatal Preventiva publicada en el Periódico Oficial del Estado No. 47, de fecha treinta y uno del mes de Octubre del año dos mil uno y el Reglamento Interno de la Policía Estatal Preventiva, publicado en el Periódico Oficial del Estado No. 19, de fecha ocho de Mayo del año dos mil seis; hasta en tanto, las categorías y jerarquías de la Policía Estatal Preventiva de Baja California, previstas en esta Ley, sean homologadas al servicio de carrera policial, en los términos del artículo cuarto transitorio de la Ley de Seguridad Pública del Estado de Baja California.
+###### Art. 54.
 
-CUARTO.- Las disposiciones reglamentarias derivadas de la presente Ley, se expedirán a más tardar dentro de ciento ochenta días siguientes a la entrada en vigor del presente ordenamiento legal.
+A excepción de los Funcionarios de elección popular y de los Magistrados, todo empleado público que esté separado con licencia del ejercicio de su encargo, no goza del fuero constitucional que por razón del empleo le pertenecía.
 
-QUINTO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+###### Art. 55.
 
-DADO en el Salón de Sesiones "Lic. Benito Juárez García" del H. Poder Legislativo del Estado de Baja California, en la Ciudad de Mexicali, B.C., a los siete días del mes de septiembre del año dos mil diez.
+La responsabilidad por delitos y faltas oficiales de Funcionarios y Empleados Públicos que gocen del fuero Constitucional, sólo podrá exigirse durante el ejercicio del cargo y un año después.
 
-DIP. JUAN MANUEL GASTÉLUM BUENROSTRO
+###### Art. 56.
 
-P R E S I D E N T E
+En juicios del orden civil no hay fuero ni inmunidad.
 
-DIP. CARLOS ALONSO ANGULO RENTERIA
+###### Art. 57.
 
-S E C R E T A R I O
+Pronunciada una sentencia condenatoria de responsabilidad por delitos y faltas oficiales, no puede concederse al reo la gracia del indulto.
 
-DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCIÓN I DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, IMPRÍMASE Y PUBLÍQUESE.
+### CAPITULO SEGUNDO. Prevenciones Generales
 
-MEXICALI, BAJA CALIFORNIA, A LOS QUINCE DIAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL DIEZ.
+###### Art. 58.
 
-JOSÉ GUADALUPE OSUNA MILLÁN.
+Los Supremos Poderes del Estado deben residir en la Capital del mismo y no podrán transladarse (sic) ni aun provisionalmente, sino por acuerdo de las dos terceras partes del número total de Diputados que integren la Legislatura.
 
-GOBERNADOR DEL ESTADO.
+###### Art. 59.
 
-CUAUHTÉMOC CARDONA BENAVIDES.
+Toda elección popular será directa en los términos de la Ley, exceptuando las que haga el Congreso para suplir al Gobernador en sus faltas temporales o absolutas y para designar a los Magistrados del Supremo Tribunal de Justicia.
 
-SECRETARIO GENERAL DE GOBIERNO.
+###### Art. 60.
+
+Nadie puede ejercer dos o más cargos de elección popular, debiendo optar el ciudadano electo por alguno de ellos.
+
+###### Art. 61.
+
+Todo cargo o empleo público es incompatible con alguno otro de la Federación o del Estado, cuando por ambos se perciba sueldo, salvo los de los ramos de Instrucción y Beneficencia.
+
+Los Diputados en ejercicio durante el período de su encargo, sean propietarios o suplentes, no podrán desempeñar ninguna otra comisión o empleo del Estado o Federal por los cuales se disfrute sueldo o gratificación, sino con licencia previa del Congreso; pero entonces cesarán en sus funciones respectivas mientras dure la nueva ocupación. Se exceptúan los empleos de Instrucción, de Beneficencia, las comisiones de carácter científico y las que se tengan en oficinas que no dependan inmediatamente del Ejecutivo, las cuales se pueden desempeñar sin perder el carácter de Diputado, siempre que así lo acuerde el Congreso al conceder la licencia. La infracción de estas disposiciones será castigada con la pérdida del cargo.
+
+Los magistrados propietarios aun cuando gocen de licencia, y los suplentes en ejercicio por más de dos meses, además del impedimento a que se refiere el párrafo primero de este artículo, no podrán ejercer su profesión de abogado, ni patrocinar negocios judiciales ante los Tribunales. Los Magistrados en funciones pueden aceptar comisiones de carácter científico, literarias y de beneficencia, con permiso del Congreso, quien dirá al concederlo, si cesan en sus funciones mientras dure la nueva comisión. La infracción de estas disposiciones será castigada con la pérdida del cargo.
+
+###### Art. 62.
+
+Los cargos de elección popular directa son preferentes a los de nombramiento y renunciables solo por causa grave que calificará la Corporación a quien toque conocer de las renuncias.
+
+Los demás cargos serán aceptables voluntariamente.
+
+###### Art. 63.
+
+Los funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución o por las leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho período.
+
+###### Art. 64.
+
+Cuando por circunstancias imprevistas no pudiere instalarse el Congreso o el Supremo Tribunal de Justicia, ni el Gobernador tomar posesión de su encargo el día fijado por esta Constitución, lo harán luego que sea posible.
+
+###### Art. 65.
+
+Ninguna autoridad impondrá préstamos forzosos, ni las oficinas harán gasto alguno que no conste en los Presupuestos o que no sea aprobado por el Congreso. La infracción de este artículo hace responsables tanto a las autoridades que la manden, como a los empleados que la obedezcan.
+
+### CAPITULO TERCERO. De las Reformas a la Constitución
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
+
+###### Art. 66.
+
+Esta Constitución sólo podrá reformarse con los requisitos siguientes: iniciada la reforma y aprobada por acuerdo de las dos terceras partes del número total de Diputados, se enviará a los Ayuntamientos del Estado con los debates que hubiere provocado; si del cómputo efectuado por el Congreso resultare que la mayoría de los Ayuntamientos aprueban la reforma, se declarará que forma parte de la Constitución.
+
+Si transcurriere un mes después de que se compruebe que ha sido recibido el proyecto de que se trata, sin que los Ayuntamientos remitieren al Congreso el resultado de la votación, se entenderá que aceptan las reformas.
+
+Las reformas hechas en la Constitución Federal que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y promulgadas sin más trámite.
+
+### CAPITULO CUARTO. De la inviolabilidad de esta Constitución
+
+###### Art. 67.
+
+Esta Constitución conservará su vigor aunque un trastorno público interrumpa su observancia.
+
+Si se estableciere un Gobierno contrario a los principios que ella sanciona, luego que el pueblo recobre su libertad, volverá a ser acatada y con sujeción a la misma y a las leyes que de ella emanen, serán juzgados todos los que la hubieren infringido.
+
+## TRANSITORIOS
+
+Art. 1º Esta Constitución comenzará a regir el día siguiente de su publicación en cada lugar; excepto en lo relativo al número de Diputados que integran la Legislatura, y comenzarán a regir desde la próxima elección de este Cuerpo; en lo relativo al nombramiento de Magistrados, que comenzará a regir hasta que los actuales concluyan su período; y en cuanto a los Alcaldes y Comisarios Judiciales, que continuarán ejerciendo sus funciones conforme a las leyes hasta que termine el período para que fueron electos.
+
+Art. 2º El actual Poder Legislativo, durará hasta el 31 de enero de 1919; el Ejecutivo, hasta el 28 de febrero del mismo año; y el Judicial hasta el 31 de diciembre de 1918.
+
+Art. 3º El actual período de sesiones continuará con el carácter de ordinario hasta que el Congreso tenga a bien clausurarlo.
+
+Dado en el Salón de sesiones del Congreso del Estado, a ocho de julio de mil novecientos diecisiete.
+
+Firmados: Presidente, M. Bouquet Jr., Diputado por el Primer Distrito.- Vice-Presidente, Carlos Galindo, Diputado por el 5o. Distrito.- V.L. Velarde, Diputado por el 4o. Distrito.- Ramón Delgado, Diputado por el 6o. Distrito.- J.W. Torres, Diputado por el 7o. Distrito.- Tomás Morán, Diputado por el 9o.- Distrito. Jesús Camarena, Diputado por el 10o. Distrito.- Ambrosio Ulloa, Diputado por el 11o. Distrito.- Marcos Guzmán, Diputado por el 12o. Distrito.- Fausto Ulloa, Diputado por el 13o. Distrito.- Pedro Alarcón, Diputado por el 15o. Distrito.- Sebastián Allende, Diputado por el 16o. Distrito.- Secretario, J. Guadalupe Rubalcava, Diputado por el 3er. Distrito.- Secretario, Julián Villaseñor Mejía, Diputado por el 14o. Distrito.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 16 DE SEPTIEMBRE DE 1922.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+
+P.O. 26 DE SEPTIEMBRE DE 1924.
+
+###### ARTICULO UNICO.
+
+Esta ley empezará a regir en la elección de la próxima XXIX Legislatura y los períodos que se señala se contarán a partir del día 1o. de febrero de mil novecientos veinticinco.
+
+P.O. 19 DE FEBRERO DE 1927.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+
+P.O. 27 DE SEPTIEMBRE DE 1928.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+
+P.O. 27 DE JUNIO DE 1931.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+
+P.O. 27 DE OCTUBRE DE 1932.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+
+P.O. 21 DE MARZO DE 1935.
+
+PRIMERO.- Los Magistrados del Supremo Tribunal de Justicia en funciones, así como los Jueces de Primera Instancia, cesarán en su cargo el treinta y uno de marzo del corriente año, entrando a funcionar los electos al día siguiente.
+
+SEGUNDO.- Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 25 DE MARZO DE 1939.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto surtirá efectos a partir del siguiente día a aquel en que se publique en el Periódico Oficial.
+
+###### ARTICULO SEGUNDO.
+
+Las primeras elecciones para Munícipes a que se convoque en cada uno de los Municipios con posterioridad a la fecha en que entre en vigor este Decreto, se efectuarán con la advertencia de que los Munícipes que resultaren electos, sólo durarán en su cargo un año, a fin de que concluya su periodo al mismo tiempo que el de los demás Munícipes y pueda en lo sucesivo renovarse el Ayuntamiento en su totalidad cada dos años.
+
+P.O. 18 DE FEBRERO DE 1947.
+
+UNICO.- Esta Ley entrará en vigor el mismo día en que se declare que es parte de la Constitución Política del Estado.
+
+P.O. 6 DE ABRIL DE 1948.
+
+PRIMERO.- Las reformas a que se refiere el presente Decreto surtirán sus efectos en los períodos que se iniciarán el 1º de enero, el primero de febrero y el primero de abril de 1953, respectivamente, para Munícipes, Diputados y Magistrados.
+
+SEGUNDO.- Por esta sola vez los próximos períodos para Diputados y Munícipes serán de cuatro años, y de dos para los Magistrados. Las elecciones y designación correspondientes, se ajustarán a la forma y términos que establecen la Constitución Política y la Ley Electoral del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 1948.
+
+DECRETO NUMERO 5373.
+
+UNICO.- Esta reforma empezará a surtir sus efectos el día en que se declare que es parte de la Constitución Política del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 1948.
+
+> <small>N. DE E. POR LA IMPORTANCIA DEL CONTENIDO DEL ARTICULO UNICO DEL DECRETO, SE TRANSCRIBE INTEGRAMENTE EL MISMO.</small>
+
+DECRETO NUMERO 5375.
+
+###### ARTICULO UNICO.
+
+Se declara que las reformas a los Artículos 4o. fracción III, 8o. y 37o., aprobadas por este H. Congreso en sesión del día 30 de agosto del corriente año, forman parte de la Constitución Política del Estado y por lo tanto entrarán en vigor, de acuerdo con lo estipulado en el Decreto respectivo, al publicarse en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE MARZO DE 1950.
+
+UNICO.- Esta reforma entrará en vigor a partir del día en que se declare que es parte integrante de la Constitución de acuerdo con lo que establece el Artículo 66 de la Constitución Política del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 1954.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+
+P.O. 18 DE ABRIL DE 1961.
+
+UNICO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco", previa declaración de que forma parte de la Constitución Política del Estado en los términos del Artículo 66 de la propia Constitución.
+
+P.O. 15 DE FEBRERO DE 1966.
+
+UNICO.- Esta reforma entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE ABRIL DE 1968.
+
+UNICO.- Esta Ley que forma parte del texto de la Constitución Política del Estado de Jalisco, entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE AGOSTO DE 1971.
+
+UNICO.- Esta Ley entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE ENERO DE 1972.
+
+UNICO.- Esta Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Jalisco.
+
+P.O. 5 DE AGOSTO DE 1972.
+
+UNICO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de que se publique en el Periódico Oficial del Estado, la Declaratoria de que forman parte de la Constitución Política del Estado.
