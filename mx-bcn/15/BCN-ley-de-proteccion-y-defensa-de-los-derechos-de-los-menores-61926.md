@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-y-defensa-de-los-derechos-de-los-menores-6192
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-04"
-last_updated: "2013-01-25"
+last_updated: "2013-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 4 de julio de 2008.
 
@@ -215,7 +215,15 @@ Los albergues temporales, casas hogar y hogares substitutos, deberán cumplir co
 
 Por albergue temporal se entenderá el establecimiento dependiente de la Procuraduría, para la atención temporal del menor en situación de vulnerabilidad.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
+
+Los albergues temporales deberán contar con instalaciones y programas adecuados para recibir y atender a menores remitidos por el Ministerio Público cuando hayan sido sujetos del procedimiento previsto por la Ley de Justicia para Adolescentes y puestos en libertad conforme a dicho ordenamiento.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
+
 Por casa hogar se entenderá el establecimiento de asistencia privada que atiende al menor en situación de vulnerabilidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JUNIO DE 2013)</small>
 
 Por hogar substituto se entenderá el espacio ofrecido por una persona o familia, propuesta por la Procuraduría y autorizada por el Consejo, con fines de adopción.
 
@@ -235,9 +243,11 @@ La Procuraduría es el órgano especializado del Sistema, dotado de autonomía t
 
 La Procuraduría tendrá legitimación procesal para ejercer ante los tribunales competentes, acciones tendientes a la protección del menor y la familia, en aquellos casos previstos por la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 20.
 
-La Procuraduría para proteger eficazmente los derechos del menor y la familia, podrá recibir en todo momento, por conducto de las diversas autoridades judiciales o administrativas competentes, a cualquier menor presuntamente víctima de la comisión de algún delito, infracción o en estado de vulnerabilidad; dichas autoridades, deberán remitir a la Procuraduría, al momento de poner a su disposición al menor, la documentación que se señala en el artículo 38 de la presente Ley.
+La Procuraduría para proteger eficazmente los derechos del menor y la familia, podrá recibir en todo momento, por conducto de las diversas autoridades judiciales o administrativas competentes, a cualquier menor presuntamente víctima de la comisión de algún delito, infracción o en estado de vulnerabilidad, o bien cuando el menor haya estado sujeto a procedimiento conforme a la Ley de Justicia para Adolescentes; dichas autoridades, deberán remitir a la Procuraduría, al momento de poner a su disposición al menor, la documentación que se señala en el artículo 38 de la presente Ley.
 
 ###### ARTÍCULO 21.
 
@@ -601,9 +611,11 @@ VII. Promover el derecho de pensión alimenticia, mediante campañas informativa
 
 VIII. Mantener una base de datos de acreedores alimentarios asistidos y darle seguimiento oportuno a cada uno de los casos atendidos.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
+
 ###### ARTÍCULO 38.
 
-Para que pueda ser autorizado el ingreso de un menor a un albergue temporal, la autoridad que solicite dicho ingreso, deberá de remitir cuando menos el oficio mediante el cual sea puesto a disposición de la Procuraduría; el cual, deberá especificar los efectos de la medida, una breve narración del motivo del ingreso, los generales del menor, incluyendo los nombres de sus familiares, tratándose de menores víctimas de delitos, deberá acompañarse copia de las valoraciones médicas y los estudios practicados por el Ministerio Público.
+Para que pueda ser autorizado el ingreso de un menor a un albergue temporal, la autoridad que solicite dicho ingreso, deberá de remitir cuando menos el oficio mediante el cual sea puesto a disposición de la Procuraduría; el cual, deberá especificar los efectos de la medida, una breve narración del motivo del ingreso, los generales del menor, incluyendo los nombres de sus familiares, tratándose de menores víctimas de delitos, o menores que hayan sido sujetos a proceso conforme a la Ley de Justicia para Adolescentes, deberá acompañarse copia de las valoraciones médicas y los estudios practicados por el Ministerio Público.
 
 ###### ARTÍCULO 39.
 
@@ -813,7 +825,7 @@ CARLOS ARMANDO REYNOSO NUÑO.
 
 PARA SU CONOCIMIENTO EN TÉRMINOS DEL ARTÍCULO 9, DE LA LEY ORGANICA DE LA ADMINISTRACIÓN PUBLICA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 13 DE NOVIEMBRE DE 2009.
 
@@ -838,3 +850,7 @@ P.O. 25 DE ENERO DE 2013.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se concede un plazo de 60 días, a partir de la entrada en vigor del presente Decreto, para que se realicen las adecuaciones reglamentarias y materiales para su cumplimiento.
+
+P.O. 28 DE JUNIO DE 2013.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
