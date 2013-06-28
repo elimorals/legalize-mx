@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-del-estado-de-baja-california-69896"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2013-01-25"
+last_updated: "2013-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 21 de agosto de 2009.
 
@@ -505,11 +505,9 @@ IX. Revalidar equivalencias de estudios de la Profesionalización;
 
 X. Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADA P.O. 19 DE OCTUBRE DE 2012)</small>
-
-XI. Realizar los estudios para detectar las necesidades de capacitación de los Servidores Públicos y proponer los cursos correspondientes de formación, capacitación y profesionalización que se impartan a los aspirantes y miembros de las instituciones policiales, dentro de los cuales se debe comprender la prestación de los primeros auxilios;
+XI. Realizar los estudios para detectar las necesidades de capacitación de los Servidores Públicos y proponer los cursos correspondientes de formación, capacitación y profesionalización que se impartan a los aspirantes y miembros de las instituciones policiales, dentro de los cuales se debe comprender la prestación de los primeros auxilios. Para estar en condiciones de que los miembros de las instituciones policiales puedan llevar a cabo la prestación de los primeros auxilios, se deberá contar con el equipo necesario para tal efecto;
 
 XII. Proponer y, en su caso, publicar las convocatorias para el ingreso a la Academia;
 
@@ -2372,3 +2370,7 @@ P.O. 30 DE NOVIEMBRE DE 2012.
 P.O. 25 DE ENERO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE JUNIO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
