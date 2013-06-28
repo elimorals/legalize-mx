@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-policia-estatal-preventiva-de-baja-california-76978"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-24"
-last_updated: "2010-09-24"
+last_updated: "2013-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE LA POLICIA ESTATAL PREVENTIVA DE BAJA CALIFORNIA
 
-LEY DE LA POLICIA ESTATAL PREVENTIVA DE BAJA CALIFORNIA
+LEY DE LA POLICÍA ESTATAL PREVENTIVA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Cuarta al Periódico Oficial del Estado de Baja California, el viernes 24 de septiembre de 2010.
 
@@ -45,7 +45,7 @@ La presente Ley es de orden público, interés general y de aplicación en todo 
 
 ###### Artículo 2.
 
-La Policía Estatal Preventiva. es una institución policial dependiente de la Secretaría de Seguridad Pública del Estado de Baja California y sus objetivos serán los siguientes:
+La Policía Estatal Preventiva es una institución policial dependiente de la Secretaría de Seguridad Pública del Estado de Baja California y sus objetivos serán los siguientes:
 
 I.- Salvaguardar la vida, la integridad, la seguridad y los derechos de las personas, como preservar las libertades, el orden y la paz públicos;
 
@@ -253,9 +253,27 @@ XII.- Proponer al Secretario, los anteproyectos de reglamentos, acuerdos y demá
 
 XIII.- Proponer al Secretario, los nombramientos de los demás Comisarios de la Institución Policial, de acuerdo a lo establecido en la Ley de Seguridad Pública, esta Ley y demás normatividad aplicable;
 
-XIV.- Proponer al Secretario, a los Miembros en cargos administrativos o de dirección de la estructura orgánica de la Institución Policial y relevarlos libremente de los mismos, respetando su grado policial y derechos inherentes a la carrera policial, y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
 
-XV.- Las demás que las leyes y otras disposiciones aplicables le confieran.
+XIV.- Proponer al Secretario, a los Miembros en cargos administrativos o de dirección de la estructura orgánica de la Institución Policial y relevarlos libremente de los mismos, respetando su grado policial y derechos inherentes a la carrera policial;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+XV.- Verificar que las patrullas de la Institución Policial:
+
+a) Se utilicen correctamente;
+
+b) Se encuentren debidamente balizadas;
+
+c) Cuenten con copia de la tarjeta de circulación y con la póliza de seguro respectiva;
+
+d) Porten las placas de circulación que les correspondan;
+
+e) Cumplan con las demás disposiciones que resulten aplicables; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2013)</small>
+
+XVI.- Las demás que las leyes y otras disposiciones aplicables le confieran.
 
 ### CAPÍTULO CUARTO. DE LA INTEGRACIÓN Y MANDO DE LA INSTITUCIÓN POLICIAL
 
@@ -644,3 +662,9 @@ GOBERNADOR DEL ESTADO.
 CUAUHTÉMOC CARDONA BENAVIDES.
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE JUNIO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
