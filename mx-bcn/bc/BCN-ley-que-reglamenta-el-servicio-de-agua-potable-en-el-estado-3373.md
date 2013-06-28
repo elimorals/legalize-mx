@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado-337
 country: "mx"
 rank: "ley"
 publication_date: "1969-04-30"
-last_updated: "2012-09-21"
+last_updated: "2013-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 30 de abril de 1969.
 
@@ -567,11 +567,11 @@ Realizadas las pruebas se levantará acta en la que se hará una relación de la
 
 Dicha acta será firmada por los que concurran al acto, y si el usuario o sus representantes y peritos no quisieren o no supieren firmar, se hará constar tal circunstancia, sin que ello afecte la validez del acto.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 68.
 
-El monto de los daños causados a un aparato medidor, por alteración o cualquier otra causa, se determinará atendiendo al costo real de reparación o sustitución, mismo que será a cargo del propietario o poseedor del inmueble en que se encontraba instalado, pudiendo ser cobrado a través del procedimiento administrativo de ejecución señalado en el Código Fiscal del Estado.
+El monto de los daños causados a un aparato medidor, por alteración o cualquier otra causa, se determinará atendiendo al costo real de reparación o sustitución, mismo que será a cargo del Organismo encargado del servicio; a excepción en el caso de que se compruebe que el propietario o poseedor del inmueble en que se encontraba instalado haya sido el responsable de los daños causados; pudiendo ser cobrado a través del procedimiento administrativo de ejecución señalado en el Código Fiscal del Estado.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2009)</small>
 
@@ -711,11 +711,11 @@ Con excepción de la notificación de la orden de inspección, y si no se encuen
 
 Una vez realizada la notificación, se procederá a practicar la inspección.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 81.
 
-En caso de que no pudiera practicarse la inspección por negarse las personas que se encuentren en el domicilio, el empleado autorizado levantará razón de tal circunstancia, informando al Organismo encargado del servicio.
+En caso de que no pudiera practicarse la inspección por negarse las personas que se encuentren en el domicilio, el empleado autorizado levantará razón de tal circunstancia, informando al Organismo encargado del servicio a efecto de que proceda legalmente ante la autoridad competente o facultada de dicho ente administrativo, para que funde y motive la causa legal del procedimiento a efecto de llevar a cabo el acto de inspección que en derecho corresponda.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2009)</small>
 
@@ -737,7 +737,7 @@ Las visitas se limitarán exclusivamente al objeto indicado en la orden respecti
 
 ###### ARTICULO 85.
 
-En los casos en que tengan que fracturarse cerraduras para la práctica de visitas, terminadas éstas, volverán a asegurarse las puertas convenientemente.
+(DEROGADO, P.O. 28 DE JUNIO DE 2013)
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2009)</small>
 
@@ -1136,6 +1136,16 @@ Las visitas de inspección así como las inconformidades que al entrar en vigor 
 A la entrada en vigor de la presente reforma, serán derogados los incisos C y E de las secciones I, II, III, IV y V del artículo 11 de la Ley de Ingresos del Estado de Baja California para el Ejercicio Fiscal 2009, publicada el 26 de Diciembre de 2008 en el Periódico Oficial del Estado.
 
 P.O. 21 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE JUNIO DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
