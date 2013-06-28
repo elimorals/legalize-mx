@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2012-11-30"
+last_updated: "2013-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -3017,13 +3017,11 @@ II.- Por la ausencia declarada en forma;
 
 III.- Por sentencia condenatoria que imponga como pena esta suspensión.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 445.
 
-La patria potestad no es renunciable; pero aquellos a quienes corresponda ejercerla, pueden excusarse:
-
-I.- Cuando tengan sesenta años cumplidos;
-
-II.- Cuando por su mal estado habitual de salud, no puedan atender debidamente a su desempeño.
+La patria potestad no es renunciable.
 
 ## TITULO NOVENO. DE LA TUTELA
 
@@ -11473,7 +11471,7 @@ La acción y la excepción de nulidad por falta de forma compete a todos los int
 
 ###### ARTICULO 2104.
 
-La nulidad por causa de error, dolo, violencia, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento, se ha perjudicado por la lesión o es una persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado hecho.
+La nulidad por causa de error, dolo, violencia, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento, se ha perjudicado por la lesión o es una persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
 
 > <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1993)</small>
 
@@ -11633,9 +11631,11 @@ Si una misma cosa fuere vendida por el mismo vendedor a diversas personas, se ob
 
 Si la cosa vendida fuere mueble, prevalecerá la venta primera en fecha; si no fuere posible verificar la prioridad de ésta, prevalecerá la hecha al que se halle en posesión de la cosa.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
+
 ###### ARTICULO 2140.
 
-Si la cosa vendida fuere inmueble, prevalecerá la venta que primero se haya registrado; y si ninguna lo ha sido, se observará lo dispuesto en el artículo anterior.
+Si la cosa vendida fuera inmueble, prevalecerá la venta que primero se haya registrado; y si ninguna lo ha sido, prevalecerá la venta primera en fecha; si no fuere posible verificar la prioridad de ésta, prevalecerá la hecha al que se halle en posesión del inmueble.
 
 ###### ARTICULO 2141.
 
@@ -16106,3 +16106,15 @@ Primero.- Las presentes reformas entrarán en vigor al día siguiente al de su p
 Segundo.- Una vez publicadas las presentes reformas, el Congreso del Estado, deberá homologar las disposiciones relativas a las mismas, en los diversos ordenamientos del Estado, en un plazo que no exceda los treinta días hábiles.
 
 Tercero.- Se derogan todas las disposiciones que se opongan o contradigan a lo contenido en estas Reformas.
+
+P.O. 28 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 467, POR EL QUE SE REFORMA AL ARTÍCULO 445 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE JUNIO DE 2013.
+
+DECRETO NÚMERO 475, POR EL QUE SE REFORMA AL ARTÍCULO 2140 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
