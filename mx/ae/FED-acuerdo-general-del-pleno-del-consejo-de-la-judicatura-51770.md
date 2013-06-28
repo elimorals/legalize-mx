@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2013-04-19"
+last_updated: "2013-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -989,6 +989,8 @@ Los períodos vacacionales de los mencionados servidores públicos podrán ser m
 
 Para el disfrute de vacaciones por parte de los titulares de los tribunales unitarios de circuito y de los juzgados de distrito, deberá respetarse, siempre, el turno de guardia correspondiente.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
+
 ###### Artículo 104.
 
 Para los servidores públicos de órganos jurisdiccionales del Poder Judicial de la Federación serán días de descanso:
@@ -1005,11 +1007,11 @@ V. El primero de mayo;
 
 VI. El cinco de mayo;
 
-VII. El catorce de septiembre;
+VII. El dieciséis de septiembre;
 
-VIII. El dieciséis de septiembre; y
+VIII. El doce de octubre; y
 
-IX. El doce de octubre.
+IX. El veinticinco de diciembre.
 
 ## TITULO DECIMO. De las Licencias
 
@@ -1822,3 +1824,11 @@ D.O.F. 19 DE ABRIL DE 2013.
 PRIMERO. El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 28 DE JUNIO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en las páginas de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar el texto de estas reformas, a los Acuerdos Generales correspondientes.
