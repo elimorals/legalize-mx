@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2013-06-21"
+last_updated: "2013-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -373,11 +373,11 @@ II.- La reparación del daño material y la indemnización de los perjuicios der
 
 III.- La reparación del daño moral sufrido por la víctima o las personas con derecho a la reparación, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
 
 ###### Artículo 34.
 
-Reglas para la fijación de la reparación del daño material.- La reparación será fijada por los jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas recabadas en el proceso, o en el incidente respectivo; pero la capacidad económica del obligado solo se tomará en cuenta para la reparación del daño moral. En caso de lesiones y homicidio, a falta de pruebas específicas sobre el daño efectivamente causado, los jueces tomarán como base la tabulación prevista en la Ley Federal del Trabajo para estos casos y el salario mínimo legal en la región; esta disposición será aplicable aún cuando el ofendido sea menor de edad, esté incapacitado o no realice trabajo remunerado.
+Reglas para la fijación de la reparación del daño material.- La reparación será fijada por los jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas recabadas en el proceso, o en el incidente respectivo; pero la capacidad económica del obligado solo se tomará en cuenta para la reparación del daño moral. En caso de lesiones y homicidio, a falta de pruebas específicas sobre el daño efectivamente causado, los jueces tomarán como base el doble de la tabulación prevista en la Ley Federal del Trabajo para estos casos y el salario mínimo legal en la región; esta disposición será aplicable aun cuando el ofendido sea menor de edad, esté incapacitado o no realice trabajo remunerado.
 
 ###### Artículo 35.
 
@@ -2113,9 +2113,11 @@ III.- De seis a catorce años de prisión y de doscientos hasta quinientos días
 
 Cuando el valor de lo robado no exceda de 40 días de salario mínimo y se trate de un delincuente primario, que haya admitido su responsabilidad durante la averiguación previa o investigación y restituya el objeto materia del delito o su importe, el Ministerio Público suspenderá el ejercicio de la acción penal, siempre que el inculpado no haya empleado violencia sobre las personas y no se trate de las hipótesis previstas en el artículo 208 fracciones I y II de este Código, apercibiéndole formalmente, dejando constancia, de que en caso de cometer un nuevo robo dentro del término de tres años, se ejercitará acción penal por éste y el último delito cometido.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
 
-Artículo 201 BIS.- Tipo y punibilidad. A quien cometa el delito de robo en terreno rústico, además de las penas previstas en el artículo 201, se le impondrán de uno a cinco años de prisión y de cien hasta doscientos días multa, cuando este se realice respecto de semillas, frutos recolectados o pendientes de recolectar, postes o alambres integrantes de una cerca, motor eléctrico o cualquier parte de este, tubería para riego, o cualesquiera otro artículo destinado al aprovechamiento agropecuario, pesquero o acuícola.
+###### Artículo 201 Bis.
+
+Tipo y punibilidad. A quien cometa el delito de robo en terreno rústico, además de las penas previstas en el artículo 201, se le impondrán de uno a cinco años de prisión y de cien hasta doscientos días multa, cuando este se realice respecto de semillas, frutos recolectados o pendientes de recolectar, postes o alambres integrantes de una cerca, motor eléctrico o cualquier parte de este, tubería para riego, maquinaria agrícola o cualesquiera otro equipo, componente o accesorio destinado al aprovechamiento agropecuario, pesquero o acuícola.
 
 En el presente artículo será aplicable la excluyente de pretensión punitiva, prevista en los términos del último párrafo del artículo 201 de este Código.
 
@@ -3813,6 +3815,10 @@ Esta disposición no surtirá efectos en los casos de delitos no graves por culp
 
 En el caso de Homicidio y lesiones calificadas contra algún miembro activo de las instituciones policiales del Estado, se atenderá a los (sic) dispuesto en el artículo 147 del presente Código.
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+
 ###### Artículo 318.
 
 Tipo y punibilidad.- Se impondrá prisión de uno a seis años y de cien a trescientos días multa, al que sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal.
@@ -4282,6 +4288,22 @@ Funcionarios partidistas, precandidatos, candidatos, y organizadores de actos de
 ###### Artículo 356.
 
 Introducción, substitución, destrucción o alteración de documentos electorales.- Se impondrán de uno a cinco años de prisión y multa de diez a cien días a quien introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales o destruya o altere boletas o documentos electorales.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2013)</small>
+
+## TITULO SEPTIMO. DELITOS EN CONTRA DEL LIBRE EJERCICIO DE LA EDUCACION PUBLICA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2013)</small>
+
+###### Artículo 357.
+
+COBRO DE CUOTAS EN PERJUICIO DEL LIBRE EJERCICIO DE LA EDUCACIÓN PÚBLICA.- Se impondrán de seis meses a dos años de prisión y hasta quinientos días de multa, a quien por sí mismo o a través de interpósita persona, y por concepto de la impartición de educación pública, realice el cobro de cuotas consistentes en dinero con carácter de obligatorias, a los alumnos de educación pública preescolar, básica, media y media superior en el Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+
+###### Artículo 358.
+
+DISCRIMINACIÓN EN PERJUICIO DEL LIBRE EJERCICIO DE LA EDUCACIÓN PÚBLICA.- Se impondrán de dos a cinco años de prisión y hasta mil días de multa, a quien condicione por concepto del pago de cuotas voluntarias u obligatorias, el derecho a recibir educación pública gratuita, así como el ingreso de alumnos de educación pública preescolar, básica, media y media superior, a los planteles que para este efecto proporcione el Estado.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -4980,3 +5002,23 @@ P.O. 8 DE MARZO DE 2013.
 P.O. 21 DE JUNIO DE 2013.
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2013.
+
+DECRETO No. 470 POR LO QUE SE APRUEBA LA REFORMA QUE ADICIONA EL TÍTULO SÉPTIMO DENOMINADO "DELITOS EN CONTRA DEL LIBRE EJERCICIO DE LA EDUCACIÓN PÚBLICA", ASÍ COMO LA ADICIÓN DE UN CAPÍTULO ÚNICO Y LOS ARTÍCULOS 357 Y 358, DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE JUNIO DE 2013.
+
+DECRETO No. 477 POR LO QUE SE APRUEBA LA REFORMA AL ARTÍCULO 201 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2013.
+
+DECRETO No. 479 POR LO QUE SE APRUEBA LA REFORMA AL ARTÍCULO 34 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
