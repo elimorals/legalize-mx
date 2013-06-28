@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-crea-la-comision-de-honor-y-justicia-de-los-7101
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-16"
-last_updated: "2013-03-22"
+last_updated: "2013-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO QUE CREA LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PUBLICA, POLICIA, TRANSITO Y PROTECCION CIVIL DEL MUNICIPIO DE APODACA, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA, POLICÍA Y TRÁNSITO DEL MUNICIPIO DE APODACA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 28 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO QUE CREA LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA, POLICÍA, TRANSITO Y PROTECCIÓN CIVIL DEL MUNICIPIO DE APODACA NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013 (ABROGADO).
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el viernes 16 de octubre del 2009.
 
@@ -336,3 +338,19 @@ P.O. 22 DE MARZO DE 2013.
 > <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
 
 SEGUNDO.- Que se giren instrucciones para que se publique en el Periódico Oficial del Estado, para iniciar si vigencia.
+
+P.O. DE 28 DE JUNIO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA, POLICÍA Y TRÁNSITO DEL MUNICIPIO DE APODA CA, NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el “REGLAMENTO QUE CREA LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA, POLICÍA, TRÁNSITO Y PROTECCIÓN CIVIL DEL MUNICIPIO DE APODACA NUEVO LEÓN”; publicado en el Periódico Oficial del Estado de Nuevo León, número 141-ciento cuarenta y uno de fecha 16-diescisèis de Octubre del 2009-dos mil nueve.
+
+###### ARTÍCULO SEGUNDO.
+
+Se aprueba la creación del REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA, POLICÍA Y TRÁNSITO DEL MUNICIPIO DE APODACA, NUEVO LEÓN.
+
+###### ARTÍCULO TERCERO.
+
+Este reglamento entrará en vigor el día siguiente en que sea publicado en el Periódico Oficial del Estado.
