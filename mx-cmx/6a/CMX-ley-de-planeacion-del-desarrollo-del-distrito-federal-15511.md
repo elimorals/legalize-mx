@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-planeacion-del-desarrollo-del-distrito-federal-15511"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-27"
-last_updated: "2008-01-14"
+last_updated: "2013-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15511&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1999-12-31"
 ---
 # LEY DE PLANEACION DEL DESARROLLO DEL DISTRITO FEDERAL
 
-LEY DE PLANEACION DEL DESARROLLO DEL DISTRITO FEDERAL
+LEY DE PLANEACIÓN DEL DESARROLLO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE ENERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE JUNIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 27 de enero de 2000.
 
@@ -76,17 +76,29 @@ II. El debido ejercicio de la autoridad que tiene como fin la generación de bie
 
 III. El fomento del desarrollo social y económico, que tienda a satisfacer las necesidades básicas de la población, elevar su nivel de vida, incrementar el empleo y promover una justa distribución del ingreso y la riqueza;
 
-IV. El aprovechamiento óptimo de los recursos naturales, materiales y humanos del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2013)</small>
 
-V. El cumplimiento de la responsabilidad social del Estado en materia de planeación, a fin de prever los problemas del desarrollo económico, social y territorial del Distrito Federal y corregir los actos que comprometan o debiliten el porvenir de la comunidad;
+IV. El aprovechamiento óptimo de los recursos naturales, materiales y humanos del Distrito Federal, en los términos de la Ley de Mitigación y Adaptación al Cambio Climático y Desarrollo Sustentable del Distrito Federal;
 
-VI. La promoción de la modernización y la descentralización administrativa a través de las cuales se optimicen los recursos humanos y financieros, a fin de mejorar la capacidad de respuesta de la administración pública local; y
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2013)</small>
 
-VII. El impulso de un sistema de planeación del desarrollo de carácter democrático que garantice los derechos económicos y sociales de los individuos y de los grupos organizados de la entidad, y fortalezca la participación activa de la sociedad en las acciones de gobierno y en el cumplimiento de los objetivos del desarrollo.
+V. El cumplimiento de la responsabilidad social del Estado en materia de planeación, a fin de prever los problemas del desarrollo económico, social, desarrollo sustentable, protección civil y territorial del Distrito Federal y corregir los actos que comprometan o debiliten el porvenir de la comunidad:
 
-###### Artículo 3.
+VI. La promoción de la modernización y la descentralización administrativa a través de las cuales se optimicen los recursos humanos y financieros, a fin de mejorar la capacidad de respuesta de la administración pública local; y (sic)
 
-La planeación tendrá como ejes rectores el desarrollo económico, el desarrollo social y el ordenamiento territorial y vinculará la programación y la presupuestación para concretar los objetivos, estrategias, metas y prioridades del desarrollo.
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2013)</small>
+
+VII. El impulso de un sistema de planeación del desarrollo de carácter democrático que garantice los derechos económicos y sociales de los individuos y de los grupos organizados de la entidad, y fortalezca la participación ciudadana en las acciones de gobierno y en el cumplimiento de los objetivos de desarrollo; y
+
+> <small>(ADICIONADA, G.O. 28 DE JUNIO DE 2013)</small>
+
+VIII. El fomento de políticas con perspectiva de género, así como de respeto, promoción y garantía de los derechos humanos, velando siempre por crear medidas y mecanismos para garantizar la salvaguarda de las personas, sus bienes y entorno.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2013)</small>
+
+###### ARTÍCULO 3.
+
+La planeación tendrá como ejes rectores el desarrollo económico; el desarrollo social; la protección civil, el desarrollo sustentable y el ordenamiento territorial; el respeto de los derechos humanos y la perspectiva de género: asimismo se vinculará la programación y la presupuestación para concretar los objetivos, estrategias, metas y prioridades del desarrollo, en términos de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal.
 
 ###### Artículo 4.
 
@@ -114,15 +126,21 @@ X. Organos desconcentrados: los que con este carácter se establezcan conforme a
 
 XI. Organos político-administrativos: los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal;
 
-XII. Programas Delegacionales: los programas de desarrollo de las demarcaciones territoriales del Distrito Federal;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE JUNIO DE 2013)</small>
 
-XIII. Programa General: el Programa General de Desarrollo del Distrito Federal en los términos que señala el artículo 25 de esta Ley;
+XII. Programa Nacional: Programa Nacional de Desarrollo;
 
-XIV. Programa Operativo: el Programa Operativo de la Administración Pública del Distrito Federal;
+XIII. Programas Delegacionales: los programas de desarrollo de las demarcaciones territoriales del Distrito Federal;
 
-XV. Programas: los programas sectoriales, institucionales, especiales y parciales; y
+XIV. Programa General: el Programa General de Desarrollo del Distrito Federal en los términos que señala el artículo 25 de esta Ley;
 
-XVI. Sistema: el Sistema de Planeación del Desarrollo del Distrito Federal;
+XV. Programa Operativo: el Programa Operativo de la Administración Pública del Distrito Federal;
+
+XVI. Programas: los programas sectoriales, institucionales, especiales y parciales; y
+
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2013)</small>
+
+XVII. Sistema: El Sistema de Planeación del Desarrollo del Distrito Federal.
 
 ## TITULO SEGUNDO. DE LAS ATRIBUCIONES DE LAS AUTORIDADES EN MATERIA DE PLANEACIÓN
 
@@ -154,7 +172,9 @@ II. Verificar que las iniciativas de Ley de Ingresos y de Presupuesto de Egresos
 
 III. Formular las observaciones y emitir las recomendaciones que estime pertinentes acerca de los informes trimestrales que rinda el Jefe de Gobierno, respecto al avance en la ejecución del Programa General y en relación con la evaluación y control del mismo;
 
-IV. Verificar que las Iniciativas de leyes o decretos que remita el Jefe de Gobierno tengan relación con los objetivos de la planeación; y
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2013)</small>
+
+IV. Verificar que las Iniciativas de Ley que remita el Jefe de Gobierno tengan relación con los objetivos del Programa General de Desarrollo y se sustenten en criterios de perspectiva de género, desarrollo sustentable, protección civil y participación ciudadana; y
 
 V. Las demás que esta Ley otros ordenamientos le confieran.
 
@@ -172,7 +192,9 @@ III. Aprobar el Programa General, los programas delegacionales y los programas p
 
 IV. Coordinar la ejecución del Programa General y los programas;
 
-V. Elaborar el proyecto de Presupuesto de Egresos y la Iniciativa de Ley de Ingresos con base en los objetivos del Programa General, los programas y los programas delegacionales;
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2013)</small>
+
+V. Elaborar el proyecto de Presupuesto de Egresos y la Iniciativa de Ley de Ingresos con base en los objetivos del Programa General, los programas y los programas delegacionales, mismos que tendrán que cumplir criterios de derechos humanos, desarrollo sustentable, perspectiva de género, protección civil y participación ciudadana;
 
 VI. Informar a la Asamblea sobre el avance de la ejecución del Programa General, los programas y los programas delegaciones al presentar la Cuenta Pública del año a evaluar y en los informes trimestrales sobre la ejecución y cumplimiento de los presupuestos y programas aprobados;
 
@@ -260,9 +282,11 @@ VI. Las demás que esta Ley y otros ordenamientos les confieran.
 
 El Sistema de Planeación del Desarrollo del Distrito Federal estará integrado por las autoridades y órganos responsables del proceso de planeación; la participación social y ciudadana expresada en el Consejo de Planeación, así como por las normas, instrumentos y procedimientos técnicos que se emitan para la ejecución de la planeación.
 
-###### Artículo 12.
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2013)</small>
 
-En el Sistema se promoverá la participación organizada, consciente y responsable de la ciudadanía y grupos sociales que contribuyan a la solución de problemas de interés general y coadyuven con las autoridades en el proceso de planeación del desarrollo, de conformidad con lo que se establece en la presente Ley y en otras disposiciones legales vigentes.
+###### ARTÍCULO 12.
+
+En el Sistema se promoverá la participación organizada, consciente y responsable de la ciudadanía a través de los comités vecinales y Consejos de Pueblos y Barrios, así como de grupos sociales que contribuyan a la solución de problemas de interés general y coadyuven con las autoridades en el proceso de planeación del desarrollo, de conformidad con lo que se establece en la presente Ley y en otras disposiciones legales vigentes.
 
 ###### Artículo 13.
 
@@ -378,9 +402,11 @@ A la Contraloría le corresponderá definir los criterios para el control, segui
 
 ### Capítulo I. Del Programa General y los programas delegacionales
 
-###### Artículo 25.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2013)</small>
 
-El Programa General de Desarrollo del Distrito Federal será el documento rector que contendrá las directrices generales del desarrollo social, del desarrollo económico y del ordenamiento territorial de la entidad, con proyecciones y previsiones para un plazo de 20 años. Su vigencia no excederá del período constitucional que le corresponda al Jefe de Gobierno que lo emita.
+###### ARTÍCULO 25.
+
+El Programa General de Desarrollo del Distrito Federal será el documento rector que contendrá las directrices generales del desarrollo social, del desarrollo económico, del desarrollo sustentable, protección civil y el ordenamiento territorial, del respeto de los derechos humanos y la perspectiva de género de la entidad, así como de políticas en materia de desarrollo metropolitano, con proyecciones y previsiones para un plazo de 20 años. Su vigencia no excederá del periodo Constitucional que le corresponda al Jefe de Gobierno que lo emita.
 
 El Jefe de Gobierno deberá presentar el Programa General a la Asamblea, para su examen y opinión, a más tardar el día 5 de junio del año inmediato siguiente al de su toma de posesión.
 
@@ -596,11 +622,15 @@ El Programa General, los programas y los programas delegacionales, así como las
 
 ### Capítulo Único. De la coordinación
 
-###### Artículo 51.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2013)</small>
 
-El Distrito Federal participará en la ejecución de acciones coordinadas con la federación, estados y municipios en las zonas conurbadas o limítrofes o en las que resulten necesarias para la planeación del desarrollo, a través de convenios o acuerdos de coordinación, que se sujetarán a lo siguiente:
+###### ARTÍCULO 51.
 
-I. La participación del Distrito Federal se ajustará a lo previsto por las leyes que expida la Asamblea, las que expida el Congreso de la Unión tratándose de materias concurrentes, y en general, a lo dispuesto por la legislación local aplicable a la materia de que se trate;
+En el Distrito Federal participará en la ejecución de acciones coordinadas con la Federación, Estados, Municipios de las zonas conurbadas o limítrofes y la Zona Metropolitana del Valle de México o en las que resulten necesarias para la planeación del desarrollo, a través de convenios o acuerdos de coordinación, que se sujetaran a lo siguiente:
+
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2013)</small>
+
+I. La participación del Distrito Federal se ajustará a lo previsto por las Leyes que expida la Asamblea Legislativa de conformidad a la legislación local aplicable a la materia de que se trate, así como las que expida el Congreso de la Unión tratándose de materias concurrentes;
 
 II. Los compromisos que se contraigan por la aportación de recursos materiales, humanos y financieros se limitarán a los montos autorizados en el decreto de presupuesto de egresos del ejercicio fiscal correspondiente;
 
@@ -618,9 +648,11 @@ Los convenios y acuerdos de coordinación se publicarán en la Gaceta Oficial de
 
 ### Capítulo I. De los órganos encargados
 
-###### Artículo 54.
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2013)</small>
 
-La instancia permanente para la participación social en materia de planeación del desarrollo será el Consejo de Planeación, a través del cual los ciudadanos conocerán y analizarán las políticas de desarrollo y presentarán sus propuestas. Esta función se realizará en las demarcaciones territoriales a través de los comités mixtos de planeación.
+###### ARTÍCULO 54.
+
+La instancia permanente para la participación social en materia de planeación del desarrollo será el Consejo de Planeación a través del cual los comités vecinales, consejos de pueblos y barrios y los ciudadanos en general, a través de los Consejos Delegacionales, conocerán y analizarán las políticas de desarrollo y presentaran sus propuestas. Esta función se realizara en las demarcaciones territoriales a través de los comités mixtos de planeación.
 
 ###### Artículo 55.
 
@@ -656,9 +688,11 @@ VIII. Coadyuvar con el Comité de Planeación en la realización de los foros de
 
 De los mecanismos de la participación social y ciudadana.
 
-###### Artículo 58.
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2013)</small>
 
-La participación social y ciudadana se llevará a cabo a través de la consulta pública, del control y evaluación y de la concertación e inducción.
+###### ARTÍCULO 58.
+
+La participación social y ciudadana se llevarán a cabo entre otros a través de las figuras jurídicas que establece la Ley de Participación Ciudadana del Distrito Federal.
 
 ###### Artículo 59.
 
@@ -741,3 +775,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su entrada en vigor y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 28 DE JUNIO DE 2013.
+
+PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal, para su promulgación y publicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
