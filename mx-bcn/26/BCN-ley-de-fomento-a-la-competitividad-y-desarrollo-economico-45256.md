@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2013-02-15"
+last_updated: "2013-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -669,9 +669,37 @@ Para la aplicación de los recursos que integran el FOINFRA, se deberá sujetar 
 
 Para el funcionamiento del FOINFRA, el Comité establecerá las reglas de operación, procurando impactar en los 5 municipios del Estado, así como el mayor rendimiento de los recursos disponibles a través de la mezcla de recursos con otras instancias.
 
-### CAPÍTULO VIII. DE LA MEJORA REGULATORIA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPÍTULO IX. DEL COMITÉ
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2013)</small>
+
+### CAPÍTULO VII BIS. DEL FONDO DE FOMENTO PARA EL DESARROLLO ECONÓMICO DE MUJERES Y JÓVENES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+
+###### Artículo 22 Bis.
+
+El Poder Ejecutivo del Estado en término de las disposiciones que resulten aplicables, creará un Fondo de Fomento para el Desarrollo Económico que tendrá por objeto financiar proyectos de inversión emprendidos por jóvenes y mujeres, principalmente, por madres solteras, mediante el otorgamiento de microcréditos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+
+###### Artículo 22 Ter.
+
+El Fondo de Fomento para el Desarrollo Económico de Mujeres y Jóvenes, contará con el patrimonio que se establezca en su instrumento de creación.
+
+Se buscará que el Fondo de Fomento para el Desarrollo Económico de Mujeres y Jóvenes, sea autosuficiente a partir de la inversión y reinversión de sus recursos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+
+Artículo 22 Quarter (sic).- Los requisitos, montos, el procedimiento para el otorgamiento de los microcréditos y demás aspectos relacionados con la operación del Fondo de Fomento para el Desarrollo Económico de Mujeres y Jóvenes, se establecerán en su instrumento de creación.
+
+### CAPÍTULO VIII. DE LA MEJORA REGULATORIA
 
 ###### Artículo 23.
 
@@ -735,7 +763,7 @@ Las propuestas aprobadas por el Comité, serán remitidas como proyectos a las a
 
 Las Dependencias del Estado y Entidades Paraestatales cuyas atribuciones incidan en la actividad empresarial así como en la atracción y realización de Proyectos de Inversión, instruirán a un servidor público con nivel mínimo de Director o su equivalente, como responsable de analizar los proyectos a que se refiere el artículo anterior. Esto, sin perjuicio de las acciones que dentro de su ámbito competencial deban realizar en materia de mejora regulatoria.
 
-### CAPÍTULO X. DEL FOMENTO A LA COMPETITIVIDAD Y EL DESARROLLO ECONÓMICO EN EL ÁMBITO MUNICIPAL
+### CAPÍTULO IX. DEL COMITÉ
 
 ###### Artículo 31.
 
@@ -859,7 +887,7 @@ XIV. La demás información que se prevea en el Reglamento o que la Dependencia 
 
 La veracidad del contenido de la información que se remita al Comité para su inscripción y publicación en el RETE, corresponde a las Dependencias del Estado y Entidades Paraestatales que correspondan.
 
-### CAPÍTULO XI. DEL RECURSO
+### CAPÍTULO X. DEL FOMENTO A LA COMPETITIVIDAD Y EL DESARROLLO ECONÓMICO EN EL ÁMBITO MUNICIPAL
 
 ###### Artículo 43.
 
@@ -882,6 +910,8 @@ Los afectados por la cancelación de un Estímulo no fiscal u otros actos defini
 Los actos relacionados con los estímulos fiscales, podrán ser combatidos a través de los medios de defensa previstos en las disposiciones fiscales aplicables.
 
 T R A N S I T O R I O S
+
+### CAPÍTULO XI. DEL RECURSO
 
 ###### ARTÍCULO PRIMERO.
 
@@ -929,7 +959,7 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTINEZ AGUIRRE.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE AGOSTO DE 2007.
 
@@ -970,3 +1000,13 @@ TERCERO.- La Secretaría de Desarrollo Económico del Estado, así como la Comis
 P.O. 15 DE FEBRERO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor el día primero de Enero de 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+En un término no mayor al de seis meses contados a partir de la entrada en vigor de las presentes reformas, el Poder Ejecutivo del Estado constituirá el Fondo a que se refiere el artículo 22 Bis de este ordenamiento, de conformidad con la Ley de las Entidades Paraestatales del Estado de Baja California y demás disposiciones que resulten aplicables.
