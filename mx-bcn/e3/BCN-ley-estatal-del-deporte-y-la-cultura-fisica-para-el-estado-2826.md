@@ -4,7 +4,7 @@ identifier: "BCN-ley-estatal-del-deporte-y-la-cultura-fisica-para-el-estado-2826
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-04"
-last_updated: "2001-08-17"
+last_updated: "2013-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY ESTATAL DEL DEPORTE Y LA CULTURA FISICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY ESTATAL DEL DEPORTE Y LA CULTURA FISICA PARA EL ESTADO DE BAJA CALIFORNIA
+LEY ESTATAL DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el 4 de agosto de 1995.
 
@@ -215,7 +215,7 @@ Los miembros del Subcomité podrán incrementarse de manera permanente o tempora
 
 El programa Estatal del Deporte será formulado por el Subcomité Estatal del Deporte, quien lo presentará al ejecutivo a través del Consejo Estatal para su aprobación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 17.
 
@@ -291,19 +291,23 @@ Como instrumento del Sistema Estatal del Deporte, se crea el Registro Estatal de
 
 Será condición para gozar de los estímulos y apoyos que se otorguen a los deportistas su inscripción individual o colectiva en el registro estatal del deporte.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ### CAPITULO VII. DE LOS MUNICIPIOS
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 29.
 
 El Municipio deberá recibir el apoyo de las entidades públicas y privadas para lograr cumplir cabalmente con su cometido y tendrá a su cargo las siguientes atribuciones:
 
-I. Fomentar y regular el deporte popular en el ámbito de su competencia; y
+I.- Fomentar y regular el deporte popular en el ámbito de su competencia; y
 
-II. Administrar las instalaciones deportivas que tenga bajo su cargo para los efectos de la fracción anterior.
+II.- Administrar las instalaciones deportivas que tenga bajo su cargo para los efectos de la fracción anterior.
+
+Para el cumplimiento de dichas atribuciones, los Municipios contarán con organismos responsables de promover, estimular y desarrollar la cultura física y el deporte, cuyos titulares deberán tener título y cédula profesional de nivel licenciatura en cualquiera de las áreas que comprendan el estudio de la cultura física y el deporte.
 
 ###### ARTICULO 30.
 
@@ -367,7 +371,7 @@ Los Consejos Municipales deberán vigilar que los planes y programas municipales
 
 Evaluar permanentemente la práctica del deporte popular en el municipio proponiendo las recomendaciones que considere adecuadas para el mejor cumplimiento de los programas correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 36.
 
@@ -387,7 +391,7 @@ V. Un representante de la iniciativa privada.
 
 VI. Los demás que el Reglamento Municipal determine.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ### CAPITULO IX. DE LOS SUBCOMITES MUNICIPALES DEL DEPORTE POPULAR
 
@@ -431,7 +435,7 @@ II. Ligas; y
 
 III. Asociaciones.
 
-También podrán registrarse como organismos deportivos las agrupaciones de individuos que tengan por objeto el desarrollo de actividades vinculadas con el deporte, y que su fin no impliquen necesariamente la competencia deportiva.
+También podrán registrarse como organismos deportivos las agrupaciones de individuos que tengan por objeto el desarrollo de actividades vinculadas con el deporte, y que su fin no impliquen (sic) necesariamente la competencia deportiva.
 
 ###### ARTICULO 42.
 
@@ -519,7 +523,7 @@ d) Las demás que se adecúen bajo el espíritu de esta Ley.
 
 ### CAPITULO XIII. DE LAS SANCIONES ADMINISTRATIVAS Y RECURSOS DEL DEPORTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 48.
 
@@ -545,7 +549,7 @@ VIII. El deportista como individuo; y
 
 IX. Directivos, jueces, árbitros y organizadores de competencias deportivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 49.
 
@@ -633,10 +637,16 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODOLFO VALDEZ GUTIERREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE AGOSTO DE 2001.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE JUNIO DE 2013.
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor el día primero de diciembre del año 2013.
