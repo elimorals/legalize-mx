@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-administracion-del-8966
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-08"
-last_updated: "2012-08-10"
+last_updated: "2013-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN PUBLICADO EN LA QUINTA SECCIÓN DEL P.O. DE 28 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE AGOSTO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 8 de agosto de 2012.
 
@@ -1724,3 +1724,21 @@ Todo instrumento legal, jurídico o administrativo y norma en sentido formal o m
 Los nombramientos de los titulares de las unidades administrativas que cambian de denominación, pero no substancialmente de funciones, seguirán surtiendo sus efectos legales hasta la nueva emisión de los mismos, lo que no podrá exceder de 60 días.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los 3 días del mes de agosto de 2012.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.- El Secretario de Administración.- C. JOSÉ CABALAN MACARI ÁLVARO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Sin perjuicio de lo dispuesto por el segundo párrafo del artículo Sexto Transitorio del Decreto del H. Congreso del Estado que Reforma, Adiciona y Deroga diversas disposiciones de la Ley Orgánica de la Administración Pública del Estado de Puebla, publicado en el Periódico Oficial del Estado de fecha 31 de diciembre de 2012, las Unidades Administrativas de la Secretaría deberán realizar las modificaciones conducentes en los sellos, declaraciones, avisos, manifiestos y demás documentos oficiales que utilizan para el adecuado desarrollo de sus funciones.
+
+TERCERO.- Los asuntos que se refieran a actos o resoluciones que se hubieren emitido con anterioridad a la entrada en vigor del presente Decreto, se tramitarán, resolverán, defenderán y en general, serán de la competencia de la Unidad Administrativa de la Secretaría de Finanzas y Administración a la que le sean conferidas las facultades que correspondan conforme a este Reglamento.
+
+CUARTO.- Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra de las que el mismo establece, o cuando se cambie su adscripción, el personal, el archivo, el mobiliario y en general, el equipo que aquélla haya utilizado, pasarán a la unidad competente.
+
+QUINTO.- En tanto se expidan o modifiquen los manuales administrativos, el Secretario está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal para los fines de orden administrativo.
+
+SEXTO.- Se abrogan los Reglamentos Interiores de la Secretaría de Finanzas del Gobierno del Estado de Puebla, publicado en el Periódico Oficial del Estado el 13 de mayo de 2011 y el de la Secretaría de Administración publicado en el Periódico Oficial del Estado el 8 de agosto de 2012.
+
+SÉPTIMO.- Se dejan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
