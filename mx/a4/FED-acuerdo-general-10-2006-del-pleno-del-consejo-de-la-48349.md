@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-10-2006-del-pleno-del-consejo-de-la-48349"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-02-03"
-last_updated: "2013-01-18"
+last_updated: "2013-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48349&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-02-01"
 
 ACUERDO GENERAL 10/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DE LOS DÍAS INHÁBILES Y LOS DE DESCANSO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2006.
 
@@ -59,7 +59,7 @@ Por lo anterior, y con fundamento en lo dispuesto en los citados preceptos const
 
 ACUERDO
 
-> <small>(F. DE E., D.O.F. 9 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
 
 PRIMERO.- Para los efectos del cómputo de los plazos procesales en los asuntos de la competencia del Consejo de la Judicatura Federal, órganos auxiliares, así como órganos jurisdiccionales del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, se considerarán como días inhábiles:
 
@@ -79,21 +79,19 @@ g) El primero de mayo;
 
 h) El cinco de mayo;
 
-i) El catorce de septiembre;
+i) El dieciséis de septiembre;
 
-j) El dieciséis de septiembre;
+j) El doce de octubre;
 
-k) El doce de octubre, y (sic)
+k) El veinte de noviembre;
 
-l) El veinte de noviembre;
-
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 2/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2007)</small>
+l) El veinticinco de diciembre; y
 
 m) Los demás que determine el Pleno del Consejo de la Judicatura Federal.
 
-> <small>(F. DE E., D.O.F. 9 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
 
-SEGUNDO.- Para los servidores públicos del Poder Judicial la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación serán días de descanso:
+SEGUNDO.- Para los servidores públicos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, serán días de descanso:
 
 a) Los sábados;
 
@@ -107,13 +105,11 @@ e) El primero de mayo;
 
 f) El cinco de mayo;
 
-g) El catorce de septiembre;
+g) El dieciséis de septiembre;
 
-h) El dieciséis de septiembre, y (sic)
+h) El doce de octubre;
 
-i) El doce de octubre;
-
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 2/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2007)</small>
+i) El veinticinco de diciembre; y
 
 j) Los demás que determine el Pleno del Consejo de la Judicatura Federal.
 
@@ -150,3 +146,11 @@ PRIMERO. El presente acuerdo entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, al Acuerdo General 10/2006, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación de los días inhábiles y los de descanso.
+
+D.O.F. 28 DE JUNIO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en las páginas de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar el texto de estas reformas, a los Acuerdos Generales correspondientes.
