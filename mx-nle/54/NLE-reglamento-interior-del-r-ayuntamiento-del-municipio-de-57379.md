@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-del-municipio-de-57379"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-22"
-last_updated: "2013-01-21"
+last_updated: "2013-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de octubre de 2007.
 
@@ -599,7 +599,9 @@ Una vez nombradas las comisiones permanentes durarán en su encargo un año, a e
 
 Las Comisiones permanentes se nombrarán en la primera Sesión Ordinaria del año de gestión y serán de carácter obligatorio las siguientes:
 
-1.- Gobernación y Reglamentación.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
+
+1.- Gobernación, Reglamentación y Mejora Regulatoria.
 
 2.- Hacienda Municipal.
 
@@ -641,7 +643,9 @@ Así mismo, y en base a las necesidades de la administración pública municipal
 
 Son atribuciones de las Comisiones Permanentes de carácter obligatorio mencionadas en el artículo anterior, las siguientes:
 
-I.- DE GOBERNACIÓN Y REGLAMENTACIÓN:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2013)</small>
+
+I.- GOBERNACIÓN, REGLAMENTACIÓN Y MEJORA REGULATORIA:
 
 A) Vigilar el cumplimiento de los preceptos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas emanen, el presente Reglamento y demás ordenamientos legales y reglamentarios que normen la vida jurídica del municipio.
 
@@ -651,7 +655,17 @@ C) Elaborar proyectos de iniciativas de ley a fin de que el Ayuntamiento acuerde
 
 D) Analizar y dictaminar las iniciativas de nuevos reglamentos o de su reforma, en unión de la comisión correspondiente con el fin primordial de garantizar su redacción acorde a una adecuada técnica legislativa, que cumplan con el marco jurídico correspondiente y por consiguiente no contradigan disposiciones de carácter Federal, Estatal y otros Ordenamientos Jurídicos.
 
-E) Las demás que le confiera el R. Ayuntamiento.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
+
+E) Proponer estrategias y acciones tendientes a mejorar el marco regulatorio municipal de la materia.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+
+F) Opinar sobre programas y/o acciones para mejorar la regulación en actividades o sectores específicos.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+
+G) Las demás que le confiera el R. Ayuntamiento.
 
 II.- DE HACIENDA MUNICIPAL:
 
@@ -1248,3 +1262,7 @@ P.O. 21 DE ENERO DE 2013.
 PRIMERO.- Las presentes reformas al Reglamento Interior del R. Ayuntamiento del Municipio de General Escobedo, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su publicación a través de la Gaceta Municipal.
+
+P.O. 28 DE JUNIO DE 2013.
+
+> <small>[N. DE E. LA “REFORMA POR MODIFICACIÓN Y ADICIÓN AL REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.]</small>
