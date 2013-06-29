@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2013-05-25"
+last_updated: "2013-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -731,11 +731,27 @@ Los Servicios de Salud en el Estado coadyuvarán con las autoridades educativas 
 
 Para los efectos de esta Ley se considera usuaria o usuario de servicios de salud, toda persona que requiera y obtenga los servicios que presten los sectores, público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en este Ordenamiento y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 39.
 
-Las personas usuarias tendrán derecho a obtener prestaciones de salud oportunas, con perspectiva de género, sin discriminación, de calidad, ya recibir atención profesional éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+Las personas usuarias tendrán derecho a obtener prestaciones de salud oportunas con perspectiva de género, sin discriminación, de calidad idónea, y a recibir atención profesional éticamente responsable; cuando se trate de atención a personas usuarias de pueblos originarios o comunidades indígenas, éstas tendrán derecho a obtener la información necesaria en su legua (sic), así como trato respetuoso y digno de los profesionales y auxiliares de la salud.
+
+Las personas usuarias tendrán derecho de elegir de manera libre y voluntaria al médico que los atienda, de entre los médicos de la unidad del primer nivel de atención que les corresponda por domicilio, en función del horario de labores, y de la disponibilidad de espacios del médico elegido, además con base en las reglas generales que determine cada institución. En el caso de las instituciones de seguridad social, sólo los asegurados podrán ejercer este derecho, a favor suyo y de sus beneficiarios.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
+
+ARTICULO 39 BIS. Las personas usuarias tendrán derecho a recibir información suficiente, clara, oportuna, y veraz, así como la orientación que sea necesaria respecto de su salud, y sobre los riesgos y alternativas de los procedimientos, diagnósticos terapéuticos y quirúrgicos que se les indiquen o apliquen.
+
+En general, los usuarios de los servicios públicos de salud, contarán con facilidades para acceder a una segunda opinión.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
+
+ARTICULO 39 TER. Las personas usuarias tiene (sic) derecho a decidir libremente sobre la aplicación de los procedimientos diagnósticos y terapéuticos ofrecidos. En caso de urgencia, o que la persona usuaria se encuentre en estado de discapacidad transitoria o permanente, la autorización para proceder será otorgada por el familiar que lo acompañe, o su representante legal; en caso de no ser posible lo anterior, el prestador de servicios de salud procederá de inmediato para preservar la vida y salud de la persona usuaria, dejando constancia en el expediente clínico.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
+
+ARTICULO 39 QUÁTER. Las quejas que las personas usuarias presenten por la atención médica recibida, deberán ser atendidas y resueltas en forma oportuna y efectiva por los prestadores de servicios de salud, o por las instancias que las instituciones de salud tengan definidas para tal fin cuando la solución corresponda a su ámbito de competencia.
 
 ###### ARTICULO 40.
 
@@ -3872,6 +3888,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 25 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
