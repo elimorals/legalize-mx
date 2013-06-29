@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2013-06-08"
+last_updated: "2013-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -773,7 +773,7 @@ VI. Fomentar el conocimiento de las etnias para propiciar el respeto a su cultur
 
 #### SECCIÓN V. DE LA EDUCACIÓN INDÍGENA
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2013)</small>
 
 ###### ARTÍCULO 39.
 
@@ -833,7 +833,7 @@ La educación secundaria se sujetará al plan y programas, acuerdos y demás dis
 
 ###### ARTÍCULO 45.
 
-Servicio educativo mediante el cual se ofrece educación inicial, preescolar, primaria y secundaria a los niños y niñas indígenas con rasgos, formas de operación propios con un enfoque intercultural y bilingüe que garantice calidad, equidad y pertinencia a sus necesidades educativas y necesidades básicas de aprendizaje. Fomentando la creación de una cultura de la no violencia, así como el respeto a las demás personas y la igualdad entre hombres y mujeres.
+Servicio educativo mediante el cual se ofrece educación inicial, preescolar, primaria y secundaria a los niños y niñas pertenecientes a los diversos pueblos y las comunidades indígenas con base a su autonomía y derechos, mediante un enfoque intercultural y bilingüe que garantice calidad, equidad y pertinencia a sus necesidades educativas y necesidades básicas de aprendizaje. Fomentando la creación de una cultura de la no violencia, así como el respeto a las demás personas y la igualdad entre hombres y mujeres.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -885,11 +885,11 @@ e) Escuelas primarias multigrado y de organización completa; y
 
 f) Escuelas secundarias e institucionales similares y particulares, cualquiera que sea su denominación.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2013)</small>
 
 ###### ARTÍCULO 48.
 
-Dado el patrón de asentamientos dispersos y el nivel socioeconómico de las etnias, la Autoridad Educativa Estatal procurará establecer las modalidades de apoyo que garanticen el acceso, la asistencia y permanencia de la población escolar indígena en las instituciones educativas que funcionen en la Entidad.
+Con base a los Derechos de los Pueblos y las Comunidades Indígenas, la Autoridad Educativa Estatal establecerá los mecanismos y organismos que estime necesarios, a fin de garantizar el acceso, asistencia y permanencia de la población escolar indígena en las instituciones educativas que funcionen en la Entidad.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -3499,19 +3499,19 @@ P.O. 8 DE JUNIO DE 2013.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 29 DE JUNIO DE 2013.
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2016, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con las modalidades que enseguida se precisan.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+A partir de la entrada en vigor del presente ordenamiento, el Poder Ejecutivo del Estado contará con doscientos cuarenta días hábiles para emitir el reglamento correspondiente.
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO TERCERO.
 
-El Ejecutivo del Estado y los Ayuntamientos dispondrán de lo necesario para la difusión, promoción y ejecución de las medidas derivadas del ordenamiento objeto de esta reforma, de manera tal que coadyuven a (sic) eficaz aplicación y conclusión de las mismas.
-
-B.O. 14 DE DICIEMBRE DE 2015.
+A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con cuatrocientos ochenta días hábiles para modificar las reglas de operación de los diversos programas y proyectos a fin de incluir los lineamientos respectivos al respeto del derecho a la autonomía y el consentimiento libre, previo e informado de los pueblos y las comunidades indígenas.
 
 ###### ARTÍCULO PRIMERO.
 
