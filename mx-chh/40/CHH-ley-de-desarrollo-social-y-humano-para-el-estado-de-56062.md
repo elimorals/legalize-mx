@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-social-y-humano-para-el-estado-de-56062"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-13"
-last_updated: "2012-09-26"
+last_updated: "2013-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 13 de junio de 2007.
 
@@ -127,7 +127,9 @@ V. Justicia Distributiva: Garantía de recibir equitativamente los beneficios de
 
 VI. Libertad: Capacidad de las personas de elegir los medios para su desarrollo personal y social.
 
-VII. Autonomía de los pueblos indígenas y sus comunidades: Reconocimiento de la libre determinación, en el marco de la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, a las formas internas de convivencia; organización; aplicación de sistemas normativos propios; elección de sus autoridades y representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su entorno natural; acceso preferente a sus recursos naturales; elección de representantes ante los ayuntamientos y acceso pleno a la jurisdicción del Estado.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+VII. Autonomía de los Pueblos Indígenas: Derecho de los Pueblos Indígenas que habitan en el Estado, quienes a través de sus comunidades, ejercen su autonomía, entendida como la libre determinación para establecer sus formas de organización que les permitan vivir y desarrollarse libremente.
 
 VIII. Participación Social: Derecho de las personas y organizaciones a intervenir e integrarse, individual o colectivamente, en la formulación, ejecución y evaluación de las políticas, programas y proyectos del desarrollo social y humano.
 
@@ -375,9 +377,13 @@ VIII. Vivienda;
 
 IX. Generación y conservación del empleo, actividades productivas y empresas del sector social de la economía;
 
-X. Obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano; y
+X. Obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano; y (sic)
 
 XI. Atención de personas y grupos vulnerables, víctimas de desastres naturales, catástrofes o situaciones de emergencia.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+XII. Fomentar el desarrollo de los Pueblos y las Comunidades Indígenas en el Estado.
 
 ###### Artículo 25.
 
@@ -409,9 +415,15 @@ Para garantizar la eficiencia y eficacia de los programas, proyectos y actividad
 
 Para efectos de lo previsto en la fracción XI, del artículo 24 de este ordenamiento, el Ejecutivo del Estado instrumentará y administrará un Fondo de Contingencia Social. Su monto se establecerá en el presupuesto de egresos, quedando sujeto en cuanto a su distribución y aplicación a las reglas mínimas de operación que acuerde el titular del Poder Ejecutivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2013)</small>
+
 ###### Artículo 31.
 
-El Ejecutivo del Estado y los ayuntamientos deberán elaborar y publicar en el Periódico Oficial, las reglas de operación de los programas en la materia, incluidos en el presupuesto de egresos, así como la metodología, normatividad, calendarización y las asignaciones correspondientes a las diversas regiones y municipios de la entidad, sin perjuicio de transparentar de oficio la información pública establecida en la correspondiente ley.
+El Ejecutivo del Estado y los ayuntamientos deberán elaborar y publicar en el Periódico Oficial, las reglas de operación de los programas en la materia, incluidos en el presupuesto de egresos, así como la metodología, normatividad, calendarización y las asignaciones correspondientes a las diversas regiones y municipios de la Entidad, sin perjuicio de transparentar de oficio la información pública establecida en la correspondiente ley.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
+
+Los programas dirigidos a Pueblos y a Comunidades Indígenas, incluirán a su vez la metodología que permita el ejercicio del Derecho al Consentimiento Libre, Previo e Informado, de conformidad con lo dispuesto por la ley en la materia.
 
 La publicación deberá realizarse dentro de los treinta días naturales posteriores a la entrada en vigor de los presupuestos de egresos respectivos.
 
@@ -815,6 +827,10 @@ Las organizaciones que tengan como objetivo impulsar el desarrollo social y huma
 
 El Ejecutivo del Estado, a través de la Comisión Estatal y los ayuntamientos, en el ámbito de su competencia, establecerán las reglas que deberán regir la participación social para garantizar el derecho de las personas y organizaciones a intervenir individual o colectivamente en la planeación, ejecución y evaluación de la política social.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
+
+Tratándose de los pueblos y las comunidades indígenas, el Ejecutivo del Estado, a través de la Comisión Estatal y los ayuntamientos, en el ámbito de su competencia, establecerán las reglas que deberán regir su participación social, de conformidad a las modalidades previstas en la ley de la materia.
+
 ###### Artículo 75.
 
 Las organizaciones que se encuentren inscritas en el Padrón General podrán recibir y administrar recursos públicos para programas y actividades relacionadas con el desarrollo social y humano, quedando sujetos en cuanto a su vigilancia a las dependencias competentes del Poder Ejecutivo Estatal y del Congreso del Estado.
@@ -997,9 +1013,15 @@ VII. Incumplir con la obligación de mantener a disposición del público en gen
 
 VIII. Proporcionar datos falsos en los informes u omitir información;
 
-IX. Condicionar o discriminar a las personas en la prestación de bienes y servicios por motivos de origen étnico o nacional, género, edad, discapacidad, condición social, económica, salud, religión, opiniones, estado civil, preferencias sexuales o de cualquier índole, salvo que se trate de proyectos encaminados a atender a alguna categoría específica de personas; e
+IX. Condicionar o discriminar a las personas en la prestación de bienes y servicios por motivos de origen étnico o nacional, género, edad, discapacidad, condición social, económica, salud, religión, opiniones, estado civil, preferencias sexuales o de cualquier índole, salvo que se trate de proyectos encaminados a atender a alguna categoría específica de personas; e (sic)
 
-X. Incumplir con cualquier otra obligación que les corresponda en los términos de la presente ley y demás ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+X. Incumplir con el derecho a la autonomía y al consentimiento libre, previo e informado de los Pueblos y las Comunidades Indígenas.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+XI. Incumplir con cualquier otra obligación que les corresponda en los términos de la presente Ley y demás ordenamientos aplicables.
 
 ###### Artículo 102.
 
@@ -1015,9 +1037,13 @@ I. Apercibimiento para que en un plazo no mayor de treinta días naturales conta
 
 II. Multa hasta por el equivalente a trescientos días de salario mínimo general vigente, correspondiente al área geográfica de la capital del estado, en caso de incumplir con el apercibimiento a que se refiere la fracción I del presente artículo o las fracciones VI, VII, VIII y IX del artículo 101;
 
-III. Suspensión hasta por cuatro años en el otorgamiento de recursos públicos, apoyos en especie o servicios, en caso de incumplir por más de una vez con cualquier obligación de las establecidas en el presente ordenamiento, siempre que hubiere dado origen a la aplicación de una multa; y
+III. Suspensión hasta por cuatro años en el otorgamiento de recursos públicos, apoyos en especie o servicios, en caso de incumplir por más de una vez con cualquier obligación de las establecidas en el presente ordenamiento, siempre que hubiere dado origen a la aplicación de una multa; y (sic)
 
 IV. Suspensión hasta por ocho años en el otorgamiento de recursos públicos, apoyos en especie o servicios en el caso de infracción reiterada o causa grave.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+V. Suspensión total de las actividades financiadas con recursos públicos y la reparación, por medios que pueden incluir la restitución o, cuando ello no sea posible, una indemnización justa y equitativa por los daños causados en el caso de lo dispuesto en la fracción X del artículo 101.
 
 ###### Artículo 104.
 
@@ -1096,3 +1122,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
+
+P.O. 29 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con las modalidades que enseguida se precisan.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente ordenamiento, el Poder Ejecutivo del Estado contará con doscientos cuarenta días hábiles para emitir el reglamento correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con cuatrocientos ochenta días hábiles para modificar las reglas de operación de los diversos programas y proyectos a fin de incluir los lineamientos respectivos al respeto del derecho a la autonomía y el consentimiento libre, previo e informado de los pueblos y las comunidades indígenas.
