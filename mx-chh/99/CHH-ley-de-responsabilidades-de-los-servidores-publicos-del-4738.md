@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "2013-01-05"
+last_updated: "2013-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -291,11 +291,13 @@ Cuando la dependencia a quien se requiera la información tenga alguna razón ju
 
 XXV.- Sujetarse a las bases previstas en el artículo 165 bis de la Constitución Política del Estado, al proponer o determinar las remuneraciones que deban percibir los servidores públicos, si ello se encuentra dentro de sus atribuciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2013)</small>
+XXVI.- Respetar la autonomía y los derechos de los pueblos, las comunidades y las personas indígenas, de conformidad con lo establecido por la Ley de la materia.
 
-XXVI.- Las demás que le impongan otras leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+XXVII.- Las demás que le impongan otras leyes y reglamentos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -772,3 +774,17 @@ a) Las retribuciones nominales señaladas en los presupuestos vigentes superiore
 b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 165 bis de la Constitución Política del Estado.
 
 c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
+
+P.O. 29 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con las modalidades que enseguida se precisan.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente ordenamiento, el Poder Ejecutivo del Estado contará con doscientos cuarenta días hábiles para emitir el reglamento correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con cuatrocientos ochenta días hábiles para modificar las reglas de operación de los diversos programas y proyectos a fin de incluir los lineamientos respectivos al respeto del derecho a la autonomía y el consentimiento libre, previo e informado de los pueblos y las comunidades indígenas.
