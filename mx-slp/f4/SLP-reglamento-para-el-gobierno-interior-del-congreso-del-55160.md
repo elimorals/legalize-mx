@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2013-05-07"
+last_updated: "2013-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1377,6 +1377,42 @@ La presentación del orden del día y la elaboración del acta de cada reunión,
 
 En el caso de que un diputado forme parte de dos o más comisiones que trabajen conjuntamente, su asistencia se anotará por separado por cada una de esas comisiones al hacer el cómputo a que se refiere este artículo, consecuentemente, en la votación respectiva su voto se tomará en cuenta tantas veces como comisiones integre.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
+
+ARTICULO 154 BIS. Las comparecencias de los funcionarios públicos ante los diputados son un ejercicio de diálogo, para demandar explicaciones, justificar lo realizado, precisar datos, argumentar posiciones, aclarar equívocos, analizar la situación que guarda la administración pública y rendir cuentas; los legisladores tienen plena libertad de formular, preguntas, dudas, interpelaciones, y requerimientos de información derivadas del informe que rinda el titular del Poder Ejecutivo del Estado, sobre temas concretos y la política gubernamental, o de cualquier otro asunto de interés público y general de la materia que se trate.
+
+Las comparecencias se desarrollarán conforme lo siguiente:
+
+I. La Junta de Coordinación Política acordará qué funcionarios públicos serán citados en fecha y hora que se señale para tal efecto; éstos deben ser notificados, a través de su superior jerárquico, por lo menos con cuarenta y ocho horas de anticipación, expresándose claramente el objetivo de las mismas;
+
+II. Los funcionarios públicos deberán asistir personalmente; podrán ser asistidos por los asesores que considere convenientes, sin que éstos puedan hacer uso de la voz en la comparecencia. Como máximo serán citados dos funcionarios públicos por día;
+
+III. Los funcionarios públicos citados, por una sola ocasión podrán solicitar el diferimiento de la fecha y hora para su presentación, siempre y cuando lo hagan del conocimiento de la Legislatura, por escrito y dentro de las veinte cuatro (sic) horas anteriores a la comparecencia; fundarán y motivarán las causas que se lo impidan;
+
+IV. Las comparecencias serán públicas y podrán participar todos los diputados que lo deseen. En las comparecencias se elaborará el acta y versión audiográfica para constar.
+
+Las comparecencias deben realizarse con respeto y libertad, sin que ningún legislador, incluso los que presidan la comparecencia, pueda censurar, descalificar o restringir la expresión de otros, salvo que se haya agotado el tiempo convenido para cada intervención;
+
+V. El Presidente y el Secretario de la comisión que guarde mayor relación con la rama o materia del funcionario público citado, serán los responsables de moderar la comparecencia;
+
+VI. El Presidente de la comisión dará a conocer la dinámica de la comparecencia a los funcionarios públicos y a los asistentes, para lo cual expresará la razón y motivo de la misma;
+
+VII. El Presidente de la comisión instruirá al Secretario inscriba a los diputados que vayan a formular preguntas, dudas, interpelaciones, o requerimientos de información; registro que determinará el orden en que ejercerán ese derecho;
+
+VIII. El Secretario de la comisión protestará al compareciente para que se conduzca con verdad, advirtiéndole de las penas en que incurren aquéllos que lo hagan con falsedad;
+
+IX. Para dar a conocer al Poder Legislativo la situación que guarda la administración pública y rendir cuentas de los temas relevantes en el ejercicio de su encargo, el compareciente podrá hacer uso de la voz por un tiempo de hasta quince minutos. A solicitud del compareciente, y previa aprobación de la mayoría de los diputados de la comisión que presida, podrá continuar con la palabra por un tiempo igual al establecido, siempre que la situación lo amerite:
+
+X. Los diputados que hagan uso de la voz podrán intervenir por un tiempo máximo de cinco minutos; de exceder el tiempo señalado, el Presidente de la Comisión lo exhortará para que concluya;
+
+XI. El funcionario público compareciente debe dar respuesta sucesivamente a los cuestionamientos formulados por los diputados, por un tiempo máximo de diez minutos por cada pregunta. En caso de que requiera mayor tiempo para responder, podrá solicitar la duplicidad del término señalado;
+
+XII. Una vez que el funcionario público haya dado respuesta a los cuestionamientos iniciales, los diputados podrán hacer uso de su derecho de réplica hasta por tres minutos, a fin de, aclarar conceptos, interrogar, o solicitar información complementaria sobre la materia objeto de la comparecencia. El compareciente para la contrarréplica contará con tiempo de hasta diez minutos;
+
+XIII. Los diputados que así lo deseen podrán intervenir de nueva cuenta, para lo cual solicitarán el uso de la palabra al Secretario de la comisión a efecto ser inscritos, contarán con el tiempo señalado en la fracción X de este artículo, y
+
+XIV. La comparecencia se declara concluida una vez que se considere agotada la materia de la misma, a propuesta del Presidente de la Comisión y si así lo decide la mayoría de los integrantes de la comisión.
+
 #### Sección Octava. De la Tramitación de los Asuntos Turnados
 
 ###### ARTICULO 155.
@@ -2194,3 +2230,9 @@ DECRETO NÚMERO 134, POR EL QUE SE REFORMA LOS ARTÍCULOS, 176 EN SU FRACCIÓN V
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición contraria a este Decreto.
+
+P.O. 29 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
