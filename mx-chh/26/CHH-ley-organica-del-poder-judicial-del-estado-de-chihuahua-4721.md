@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2013-02-09"
+last_updated: "2013-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -835,6 +835,12 @@ En materia de extinción de dominio:
 
 I. Las salas serán unitarias, integradas por un magistrado civil, para conocer de los recursos de apelación y de revisión, en los términos de la Ley de la materia.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
+
+En materia de control constitucional:
+
+I. Una sala colegiada, integrada por tres magistrados para el ejercicio de las atribuciones previstas en el artículo 63 Bis.
+
 ###### ARTICULO 60.
 
 La distribución de las Salas se hará mediante arreglo de los Magistrados y no llegándose a un acuerdo, por designación del Presidente.
@@ -846,6 +852,10 @@ La distribución de las Salas se hará mediante arreglo de los Magistrados y no 
 Cada Sala se integrará por un Magistrado, un Secretario de Acuerdos y los Secretarios Proyectistas y personal subalterno que exige el servicio y autorice el presupuesto.
 
 Las Salas colegiadas en materia penal estarán conformadas por tres Magistrados que integren salas unitarias del mismo ramo, uno de los cuales tendrá el carácter de Presidente de la misma. El Pleno del Supremo Tribunal dictará, en su caso, las disposiciones generales para su conformación y funcionamiento.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
+
+La Sala de Control Constitucional estará conformada por un magistrado especializado en materia constitucional, quien la presidirá y será responsable permanente de su administración; asimismo, por dos magistrados que se elegirán de entre los existentes, uno en materia civil y otro en materia penal, renovados cada año por elección del Pleno. La sala se colegiará cada vez que se requiera; iniciará sus funciones dentro de los tres días siguientes a la recepción de la resolución de inaplicación de una norma jurídica sujeta a revisión y estará en funciones hasta agotar el trámite de los asuntos de su competencia.
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
@@ -887,9 +897,21 @@ X. Encomendar a los Jueces del Estado conforme a su ramo, la práctica de dilige
 
 XI. Proveer en la esfera administrativa todo lo necesario para el buen despacho de la oficina;
 
-XII. Otorgar licencia al personal de la Sala hasta por diez días, comunicando su concesión a la Secretaría General del Tribunal; y
+XII. Otorgar licencia al personal de la Sala hasta por diez días, comunicando su concesión a la Secretaría General del Tribunal; y (sic)
 
-XIII. Ejercer las demás atribuciones que les señalen las leyes.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+XIII. Realizar de oficio un control de la constitucionalidad y de la convencionalidad de las normas jurídicas del fuero común al momento de su aplicación en los asuntos de su competencia, en los términos de la Ley en la materia;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+XIV. Ejercer las demás atribuciones que les señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
+
+ARTICULO 63 BIS.- Corresponde a la Sala de Control Constitucional la revisión de las resoluciones de los jueces de primera instancia y de las salas unitarias del Supremo Tribunal de Justicia, mediante las cuales se determine la inaplicación de las normas jurídicas, por considerarlas contrarias a los contenidos de la Constitución Política del Estado, de la Constitución Política de los Estados Unidos Mexicanos o de los tratados internacionales celebrados y ratificados por el Estado Mexicano, con arreglo a esta última.
+
+Cuando la inaplicación a que se refiere el párrafo anterior la determinen las salas colegiadas del Supremo Tribunal de Justicia, las atribuciones de la Sala de Control Constitucional serán ejercidas directamente por el Pleno.
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
@@ -2097,7 +2119,9 @@ Corresponde a los jueces de primera instancia de acuerdo a su ramo:
 
 I.- Conocer de los asuntos civiles, familiares, penales o de extinción de dominio, que no estén expresamente encomendados a otra autoridad judicial y los que en forma explícita les señalen las leyes;
 
-II.- (DEROGADA, P.O. 9 DE AGOSTO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2013)</small>
+
+II.- Realizar de oficio un control de la constitucionalidad y de la convencionalidad de las normas jurídicas al momento de su aplicación en los asuntos de su competencia, en los términos de la presente Ley;
 
 III.- Calificar las excusas y recusaciones de sus Secretarios, las excusas de sus Notificadores, así como las recusaciones de los Jueces Menores de sus Distritos en los asuntos de su ramo, siguiendo en su caso el turno respectivo;
 
@@ -3500,3 +3524,13 @@ Los encargados de la ejecución de todas las sentencias firmes, dictadas en proc
 ###### ARTÍCULO TERCERO.
 
 Todos los asuntos relacionados con la ejecución de penas y medidas de seguridad, que se encuentren en trámite al inicio de la entrada en vigor del presente Decreto, deberán remitirse sin dilación alguna al Juez de Ejecución de Penas al que corresponda legalmente el conocimiento de los mismos.
+
+P.O. 29 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que respecta a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas y adiciones contenidas en los Artículos Segundo y Tercero del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
