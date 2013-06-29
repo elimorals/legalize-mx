@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2010-12-24"
+last_updated: "2013-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -105,7 +105,7 @@ Los procedimientos para la aplicación de las sanciones a que se refiere esta Le
 
 Cuando la Comisión Estatal de Derechos Humanos detecte actos u omisiones que ameriten ser sancionados en los términos de esta Ley, lo hará del conocimiento de las Autoridades Competentes, para la aplicación de las sanciones correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 6°.
 
@@ -375,7 +375,7 @@ En todo lo no previsto en este Título se observarán supletoriamente en lo apli
 
 Son sujetos de responsabilidad administrativa los servidores públicos a que se refiere el Artículo 2° de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 50.
 
@@ -387,7 +387,9 @@ II. Formular y ejecutar legalmente, en su caso, los planes, programas y presupue
 
 III. Utilizar los recursos que tenga asignados para el desempeño de su empleo, cargo o comisión, las facultades que le sean atribuidas o la información reservada a que tenga acceso por su función, exclusivamente para los fines a que están afectos;
 
-IV. Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserve bajo su cuidado o a la cual tenga acceso, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o inutilización indebida de aquéllas;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+IV. Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserve bajo su cuidado o a la cual tenga acceso, impidiendo o evitando la revelación, el uso, la sustracción, destrucción, ocultamiento o inutilización indebida de aquéllas;
 
 V. Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste;
 
@@ -431,7 +433,7 @@ XXI. Proporcionar en forma oportuna y veraz la información y datos solicitados 
 
 XXII. Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 XXIII. Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza, la contratación de obra pública y servicios relacionados con la misma, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, o sea miembro de la sociedad controladora de la misma, sin la autorización previa y específica de la Contraloría cuando sea procedente, a propuesta razonada, conforme a las disposiciones legales aplicables, del titular de la dependencia u organismo del sector paraestatal de la Administración Pública Estatal o Municipal.
 
@@ -523,17 +525,29 @@ LXII. Cumplir con las obligaciones y abstenerse de cometer las prohibiciones se�
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-LXIII.- Desempeñar su función pública sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas por la Ley. En particular se opondrán a cualquier acto de corrupción;
+LXIII. Desempeñar su función pública sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas por la Ley. En particular se opondrán a cualquier acto de corrupción;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
 
-LXIV.- Abstenerse de otorgar licencias o permisos en materia de desarrollo urbano en contravención a las leyes, normas, sistemas y procedimientos establecidos en las zonas de riesgo determinadas en el Atlas de Riesgo. En los demás casos, se estará a lo que establezcan las disposiciones de esta Ley; y (sic)
+LXIV. Abstenerse de otorgar licencias o permisos en materia de desarrollo urbano en contravención a las leyes, normas, sistemas y procedimientos establecidos en zonas de riesgo. En los demás casos, se estará a lo que establezcan las demás disposiciones de esta Ley;
 
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
 
-LXV.- Abstenerse de colaborar, participar, encubrir o facilitar la distribución, venta o comercialización de bebidas alcohólicas en contravención de las disposiciones establecidas en la Ley Estatal de Prevención y Combate al Abuso del Alcohol; y
+LXV. Abstenerse de colaborar, participar, encubrir o facilitar la distribución, venta o comercialización de bebidas alcohólicas en contravención de las disposiciones establecidas en la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León;
 
-LXVI.- Las demás que le impongan las leyes y disposiciones reglamentarias o administrativas.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+LXVI. Denunciar ante la autoridad competente las conductas relacionadas con actos de corrupción, y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+LXVII. Las demás que le impongan las leyes y disposiciones reglamentarias o administrativas.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
+
+###### Artículo 50 Bis.
+
+Se considerarán como actos de corrupción, los actos u omisiones cometidos por los servidores públicos en el ejercicio de sus atribuciones o funciones que contravengan cualquier obligación de las señaladas en el Artículo 50 de la presente Ley, siempre que obtenga o pretenda obtener un beneficio de valor económico o de cualquier otro tipo, tales como dadivas, favores o ventajas, para sí mismo o para un tercero, o aceptar la promesa de tales beneficios, a cambio de realizar o abstenerse de realizar un acto incumpliendo sus obligaciones.
 
 ### CAPÍTULO II. DE LAS SANCIONES POR RESPONSABILIDAD ADMINISTRATIVA
 
@@ -581,7 +595,7 @@ Las sanciones económicas consistirán en resarcitorias y multas.
 
 Las sanciones resarcitorias tienen como propósito reparar o indemnizar los daños y perjuicios causados a la Hacienda Pública Estatal o Municipal o al patrimonio de sus respectivos organismos del sector paraestatal. La multa es la sanción pecuniaria que se impone por la infracción de cualquiera de las disposiciones de la presente Ley, sin el propósito de resarcir los daños y perjuicios causados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 56.
 
@@ -606,6 +620,10 @@ II. Cuando exista lucro o beneficio personal y no existan daños y perjuicios al
 III. Cuando no exista lucro o beneficio personal pero si existan daños y perjuicios al erario público estatal o municipal o al patrimonio de sus respectivos organismos del sector paraestatal, se impondrá una sanción resarcitoria equivalente al monto de los daños o perjuicios causados. En los casos graves se podrá imponer además, la destitución del cargo o la inhabilitación hasta de diez años; y
 
 IV. Cuando se trate del incumplimiento de las obligaciones a cargo del servidor público que establece el artículo 50 de esta ley, que no implique lucro o beneficio personal ni daño o perjuicio al erario público estatal o municipal o al patrimonio de sus respectivos organismos del sector paraestatal, se impondrá el apercibimiento o la amonestación o una multa de hasta noventa veces la percepción diaria del empleo, cargo o comisión del servidor público. En los casos graves se podrá imponer además, la suspensión del empleo, cargo o comisión hasta de tres meses o la destitución o inhabilitación del cargo hasta de diez años.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
+
+Cuando la revelación de información a que hace referencia la fracción IV del Artículo 50 de esta Ley, tenga relación con datos personales de denunciantes de actos de corrupción o testigos, la falta se considerará grave.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
@@ -689,7 +707,7 @@ En el Poder Legislativo será superior jerárquico, para los efectos de esta Ley
 
 El Auditor General en representación del Congreso del Estado, fincará y determinará responsabilidades a los servidores públicos estatales y municipales, así como a toda persona física o moral imputable, que con dolo o culpa cause daño o perjuicio a la Hacienda Pública Estatal o Municipal o a sus organismos y entidades del sector paraestatal, o no dé cumplimiento a las disposiciones jurídicas vigentes en el Estado, en relación al gasto público, fiscal, obra pública, adquisiciones y demás materias relacionadas con aspectos presupuestales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2004)</small>
 
 ###### Artículo 69.
 
@@ -789,7 +807,7 @@ Los Ayuntamientos y los Presidentes Municipales, en el ámbito de sus respectiva
 
 Los servidores públicos deberán denunciar por escrito a la Contraloría o a las Autoridades Competentes, los hechos que a su juicio impliquen incumplimiento de las obligaciones de los servidores públicos subordinados o superiores inmediatos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 81.
 
@@ -927,7 +945,7 @@ La prescripción se interrumpirá por cada trámite que las autoridades realicen
 
 En todo momento la Contraloría o el superior jerárquico podrán hacer valer la prescripción de oficio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 94.
 
@@ -971,7 +989,7 @@ El procedimiento de responsabilidades para la aplicación de sanciones económic
 
 Las sanciones económicas que se impongan constituirán créditos fiscales a favor del Erario Estatal o Municipal según corresponda y se harán efectivas por la Secretaría de Finanzas y Tesorería General del Estado y Tesorerías Municipales, según el caso, mediante el procedimiento económico-coactivo, y para efectos de su ejecución tendrán la prelación que corresponda, en los términos de los ordenamientos fiscales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 99.
 
@@ -1237,7 +1255,7 @@ III. Tratándose de efectivo, valores o títulos sobre bienes muebles o inmueble
 
 IV. Tratándose de armas de fuego y municiones, se observará lo dispuesto por la Ley Federal de Armas de Fuego y Explosivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 134.
 
@@ -1289,11 +1307,11 @@ IX. Desahogar oportunamente los exhortos y excitativas de las autoridades compet
 
 X. Aquellos objetivos de naturaleza análoga tendientes a propiciar la eficiencia en la Administración Pública Federal, Estatal y Municipal en materia de responsabilidades.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ## TÍTULO OCTAVO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO ÚNICO. DE LAS ACCIONES PREVENTIVAS PARA GARANTIZAR EL ADECUADO EJERCICIO DEL SERVICIO PÚBLICO
 
@@ -1347,7 +1365,7 @@ EL C. SECRETARIO DE LA CONTRALORIA GENERAL DEL ESTADO
 
 OSCAR ADAME GARZA
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
 
 P.O. 18 DE OCTUBRE DE 2000.
 
@@ -1436,3 +1454,9 @@ P.O. 12 DE NOVIEMBRE DE 2010.
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- En lo que respecta a la Ley para Incentivar la Denuncia de Actos de Corrupción de Servidores Públicos del Estado de Nuevo León, la Contraloría y Transparencia Gubernamental del Gobierno del Estado emitirá los lineamientos relativos a los requisitos y procedimientos para el otorgamiento de medidas de protección en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
