@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-periodico-oficial-del-estado-de-chihuahua-70012"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-22"
-last_updated: "2009-08-22"
+last_updated: "2013-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DEL PERIODICO OFICIAL DEL ESTADO DE CHIHUAHUA
 
-LEY DEL PERIODICO OFICIAL DEL ESTADO DE CHIHUAHUA
+LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2009.
 
@@ -77,9 +77,11 @@ VI.- Poderes del Estado.- Los Poderes Legislativo, Ejecutivo y Judicial del Esta
 
 El Periódico Oficial es el órgano de gobierno de carácter permanente e interés público, dependiente de la Secretaría General de Gobierno, cuya función consiste en publicar en el territorio estatal, las leyes, reglamentos, acuerdos, circulares, órdenes y demás actos expedidos por las autoridades facultadas para ello, a fin de que sean publicitados, observados debidamente y produzcan efectos vinculatorios.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2013)</small>
+
 ###### Artículo 4.
 
-El Periódico Oficial se editará en los Talleres Gráficos de Gobierno del Estado, dependientes de la Secretaría de Finanzas y Administración, en la ciudad de Chihuahua, y será distribuido, entre otros, a los Poderes del Estado, organismos autónomos y a todos los municipios de la Entidad, a efecto de que sus habitantes sean enterados de su contenido.
+El Periódico Oficial se editará en los Talleres Gráficos de Gobierno del Estado, dependientes de la Secretaría de Hacienda, en la ciudad de Chihuahua, y será distribuido, entre otros, a los Poderes del Estado, organismos autónomos y a todos los municipios de la Entidad, a efecto de que sus habitantes sean enterados de su contenido.
 
 ###### Artículo 5.
 
@@ -135,9 +137,11 @@ V.- El lugar, fecha y número de publicación;
 
 VI.- Sumario o índice del contenido;
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2013)</small>
+
 ###### Artículo 10.
 
-En el portal de Internet de (sic) Gobierno del Estado, deberá publicarse una versión digital del Periódico Oficial, la que servirá de medio de consulta y carecerá de todo valor legal.
+El Periódico Oficial del Estado se editará de forma impresa y digital; esta última se publicará en el portal de Internet de Gobierno del Estado. Ambas ediciones tendrán el carácter de oficial, idénticas características y contenido.
 
 ###### Artículo 11.
 
@@ -195,9 +199,15 @@ XV.- Contar con una hemeroteca para consulta;
 
 XVI.- Proporcionar los servicios de información, consulta, asesoría y venta del acervo compilado en su hemeroteca;
 
-XVII.- Revisar y publicar la fe de erratas, y
+XVII.- Revisar y publicar la fe de erratas, y (sic)
 
-XVIII.- Las demás que le señalen las disposiciones legales y la Secretaría General de Gobierno.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+XVIII.- Custodiar y conservar la edición electrónica y velar por su accesibilidad, y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+XIX.- Las demás que le señalen las disposiciones legales y la Secretaría General de Gobierno.
 
 El incumplimiento a cualquier disposición de la presente Ley, será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
 
@@ -239,7 +249,7 @@ En los índices mensual y anual se especificarán las erratas de que haya sido o
 
 ###### Artículo 22.
 
-Los particulares podrán solicitar a la Secretaría, copia certificada de los documentos originales publicados en el Periódico Oficial, siendo a cargo de éstos los gastos de su expedición.
+(DEROGADO, P.O. 29 DE JUNIO DE 2013)
 
 ###### Artículo 23.
 
@@ -274,3 +284,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los once días del mes de agosto del año dos mil nueve.
 
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
