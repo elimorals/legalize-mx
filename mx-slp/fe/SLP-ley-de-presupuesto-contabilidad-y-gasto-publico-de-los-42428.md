@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-de-los-42428"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-04"
-last_updated: "2010-12-02"
+last_updated: "2013-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 4 de diciembre de 2004.
 
@@ -121,7 +121,9 @@ I. Objetivos del programa operativo anual, metas parciales y responsables de la 
 
 II. La justificación de los programas más importantes y de los que abarquen más de un ejercicio fiscal;
 
-III. Erogaciones por nómina, prestaciones sociales de los trabajadores y servidores públicos, y estimaciones por servicios personales;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+III. Erogaciones por nómina, prestaciones sociales de los trabajadores y servidores públicos, y estimaciones por servicios personales, debiéndose acompañar los tabuladores desglosados de las remuneraciones que perciban los servidores públicos;
 
 IV. Ingresos y egresos del ejercicio fiscal inmediato anterior;
 
@@ -396,3 +398,9 @@ P.O. 2 DE DICIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
