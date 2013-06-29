@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2013-02-09"
+last_updated: "2013-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1825,17 +1825,21 @@ Los magistrados que concluyan su encargo podrán ser, en su caso, reelectos por 
 
 Los magistrados y jueces en funciones o que disfruten de licencia con goce de sueldo, no podrán desempeñar otro cargo, empleo o comisión que fueren retribuidos, salvo los de docencia y fuera de las horas designadas al despacho de los asuntos del Poder Judicial.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JUNIO DE 2013)</small>
+
 ###### Art. 104.
 
-(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 1997)
+El Supremo Tribunal de Justicia funcionará en pleno, en salas colegiadas o en unitarias, que podrán ser regionales, según lo determine la Ley.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2006)</small>
+Su Presidente rendirá en el mes de enero de cada año, un informe ante el pleno sobre el estado que guarda la administración de justicia.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2013)</small>
 
 ###### Art. 105.
 
-El Supremo Tribunal de Justicia funcionará en pleno, en salas colegiadas o en unitarias, que podrán ser regionales, según lo determine la ley.
+Corresponde a la Sala de Control Constitucional la revisión de las resoluciones de los jueces de primera instancia y de las salas unitarias del Supremo Tribunal de Justicia, mediante las cuales se determine la inaplicación de las normas jurídicas, por considerarlas contrarias a los contenidos de la Constitución Política del Estado, de la Constitución Política de los Estados Unidos Mexicanos o de los tratados internacionales celebrados y ratificados por el Estado Mexicano, con arreglo a esta última.
 
-Su Presidente rendirá en el mes de enero de cada año, un informe ante el pleno sobre el estado que guarda la administración de justicia.
+Cuando la inaplicación a que se refiere el párrafo anterior la determinen las salas colegiadas del Supremo Tribunal de Justicia, las atribuciones de la Sala de Control Constitucional serán ejercidas directamente por el Pleno.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3920,3 +3924,13 @@ P.O. 9 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que respecta a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas y adiciones contenidas en los Artículos Segundo y Tercero del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
