@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2013-01-19"
+last_updated: "2013-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -2069,13 +2069,17 @@ XXXVII. Responder, sobre la ejecución de las órdenes directas que reciba a un 
 
 XXXVIII. Participar en operativos de coordinación con otras corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
 
-XXXIX. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia, y
+XXXIX. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia;
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
 
-XL. Las demás que les asignen esta Ley y otros ordenamientos aplicables.
+XL. Denunciar ante la Contraloría y Transparencia Gubernamental del Gobierno del Estado, la Contraloría Municipal del municipio respectivo o ante el Ministerio Público, según corresponda, las conductas relacionadas con actos de corrupción, y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+XLI. Las demás que les asignen esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 156.
 
@@ -2701,7 +2705,7 @@ En términos de las disposiciones aplicables, los titulares de las Instituciones
 
 ###### Articulo 198 Bis 3.
 
-Dentro del Servicio de Carrera de la Policía sólo se podrá ingresar, permanecer y ascender a la categoría jerarquía inmediata superior y ser separado, en los términos y las condiciones que establece esta Ley, y el Reglamento correspondiente.
+Dentro del Servicio de Carrera de la Policía sólo se podrá ingresar, permanecer y ascender a la categoría o jerarquía inmediata superior y ser separado, en los términos y las condiciones que establece esta Ley, y el Reglamento correspondiente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -3664,3 +3668,9 @@ Cuarto.- El Consejo Consultivo de Desarrollo Policial referido en el artículo 1
 Quinto.- La Comisión de Carrera Policial se integrará dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto.
 
 Séptimo (sic).- Para los primeros seis años, el Consejo Consultivo de Desarrollo Policial se integrará por un representante de cada una de las siguientes instituciones: a) Consejo Cívico de las Instituciones de Nuevo León, A.C.; b) Institución RENACE, A.B.P.; c) ASIS Internacional Capítulo México Norte, A.C.; d) Asociación Mexicana de Profesionales en Prevención de Perdidas, A.C.; e) Universidad Autónoma de Nuevo León; f) Escuela de Graduados en Administración Pública y Política Pública del Instituto Tecnológico y de Estudios Superiores de Nuevo León; y g) las demás que, en su caso, designe el Titular del Ejecutivo en los términos del Artículo 197 Bis de esta Ley.
+
+P.O. 29 DE JUNIO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- En lo que respecta a la Ley para Incentivar la Denuncia de Actos de Corrupción de Servidores Públicos del Estado de Nuevo León, la Contraloría y Transparencia Gubernamental del Gobierno del Estado emitirá los lineamientos relativos a los requisitos y procedimientos para el otorgamiento de medidas de protección en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
