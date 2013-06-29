@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2013-06-22"
+last_updated: "2013-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -497,7 +497,9 @@ h) Se rinda el informe de actividades del Congreso del Estado.
 
 En la segunda quincena del mes de septiembre de cada año de ejercicio constitucional del Gobernador del Estado, el Congreso recibirá el informe por escrito que éste le presente, sobre la situación y perspectivas generales de la Entidad y de la administración pública.
 
-El Informe será analizado por el Congreso del Estado en sesiones temáticas subsecuentes, a las que podrán ser citados los funcionarios competentes del ramo, a fin de que contesten cuestionamientos y disipen dudas de los diputados; hecho lo cual el Congreso y el titular del Ejecutivo acordarán en su caso, la fecha y formato para que éste comparezca ante el Pleno de la Legislatura, a fin de que sus miembros le formulen observaciones y cuestionamientos sobre el mismo.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2013)</small>
+
+El Informe será analizado por el Congreso del Estado en sesiones temáticas subsecuentes, que habrán de llevarse a cabo en la segunda quincena del mes de octubre de cada año, a las que serán citados los funcionarios competentes del ramo, a fin de que respondan cuestionamientos y disipen dudas de los diputados, de conformidad a lo dispuesto en el Reglamento para el Gobierno Interior del Congreso del Estado; hecho lo cual, el Congreso, y el titular del Ejecutivo, acordarán, en su caso, fecha y formato para que éste comparezca ante el Pleno de la Legislatura, a fin de que sus miembros le formulen observaciones y cuestionamientos sobre el mismo. El servidor público que corresponda rendirá protesta de conducirse con verdad, advirtiéndole de las penas en que incurren aquéllos que lo hacen con falsedad.
 
 ###### ARTICULO 42.
 
@@ -1811,9 +1813,13 @@ XI. La estructura orgánica y funciones de cada unidad administrativa;
 
 XII. El directorio de servidores públicos, así como currículum vitae de diputados, Oficial Mayor, directores, coordinadores y asesores del Congreso, y de los grupos parlamentarios;
 
-XIII. Los documentos, convocatorias, eventos y demás información que sea considerada relevante o de utilidad, respecto al funcionamiento del Congreso;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
 
-XIV. La información relativa a la programación de las sesiones del Pleno, de las comisiones y de los comités, incluyendo fecha y hora de las mismas, y
+XIII. Los documentos, convocatorias, versiones videográficas de las comparecencias de los funcionarios públicos estatales, eventos y demás información que sea considerada relevante o de utilidad, respecto al funcionamiento del Congreso;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
+
+XIV. La información relativa a la programación de las sesiones del Pleno, de las comisiones y de los comités y, previo a su realización, el calendario de comparecencias de funcionarios estatales, que incluya fecha y hora de las mismas, y
 
 XV. Las demás que establezca la ley.
 
@@ -2130,3 +2136,9 @@ P.O. 22 DE JUNIO DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 29 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
