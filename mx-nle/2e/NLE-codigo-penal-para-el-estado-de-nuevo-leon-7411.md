@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2013-06-26"
+last_updated: "2013-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -2163,7 +2163,9 @@ SE IMPONDRAN LAS MISMAS SANCIONES PREVISTAS PARA EL DELITO DE QUE SE TRATE A CUA
 
 AL QUE PROVOQUE PUBLICAMENTE A COMETER UN DELITO, O HAGA LA APOLOGIA DE ESTE O ALGUN VICIO, SE LE APLICARA PRISION DE SEIS MESES A TRES AÑOS Y MULTA DE DIEZ A CINCUENTA CUOTAS, SI EL DELITO NO SE EJECUTARE. EN CASO CONTRARIO, SE APLICARA AL PROVOCADOR LA SANCION QUE LE CORRESPONDA COMO PARTICIPE DEL DELITO COMETIDO.
 
-NO SERA RESPONSABLE PENALMENTE QUIEN HAGA LA PROVOCACION PUBLICA O PRIVADA DE LA COMISION DE UNO O MAS DELITOS, SI ACTUA EN UNA AVERIGUACION PREVIA, EN EJERCICIO DE SUS FUNCIONES Y CON LA AUTORIZACION ESCRITA DEL TITULAR DE LA PROCURADURIA GENERAL DE JUSTICIA O DE QUIEN ESTE DESIGNE MEDIANTE ACUERDO POR ESCRITO.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2013)</small>
+
+NO SE CONSIDERARA COMO DELITO LA PROVOCACION PUBLICA O PRIVADA DE LA COMISION DE UNO O MAS DELITOS, SI ACTUA EN UNA AVERIGUACION PREVIA O CARPETA DE INVESTIGACION CON LA AUTORIZACION ESCRITA DEL TITULAR DE LA PROCURADURIA GENERAL DE JUSTICIA O DE QUIEN ESTE DESIGNE MEDIANTE ACUERDO POR ESCRITO.
 
 ## TITULO SEXTO
 
@@ -2430,6 +2432,10 @@ I.- EL SERVIDOR PUBLICO QUE POR SI O POR INTERPOSITA PERSONA SOLICITE O RECIBA I
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
 
 II.- EL QUE DIRECTA O INDIRECTAMENTE DE U OFREZCA DINERO O DADIVAS A LAS PERSONAS ANTES MENCIONADAS, PARA QUE HAGAN U OMITAN UN ACTO JUSTO O INJUSTO RELACIONADO CON SUS FUNCIONES.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
+
+NO SE CONSIDERARA COMO COHECHO, LOS ACTOS DE QUIEN ACTUE EN UNA AVERIGUACION PREVIA, EN EJERCICIO DE SUS FUNCIONES Y CON AUTORIZACION ESCRITA DEL TITULAR DE LA PROCURADURIA GENERAL DE JUSTICIA O DE QUIEN ESTE DESIGNE MEDIANTE ACUERDO POR ESCRITO.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
@@ -6097,10 +6103,16 @@ Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al d
 
 Artículo Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, conforme a la fracción X del Artículo 245 del Código Penal para el Estado de Nuevo, se seguirán tramitando hasta su conclusión acorde a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
-P.O. 26 DE JUNIO DE 2013
+P.O. 26 DE JUNIO DE 2013.
 
 DECRETO No. 72 POR EL QUE SE REFORMAN LOS ARTÍCULOS 16 BIS FRACCIÓN I Y 140 FRACCIÓN I; Y POR ADICIÓN DE UN TÍTULO DÉCIMO QUINTO BIS DENOMINADO "DELITOS CONTRA LA IGUALDAD DE GÉNERO Y LA DIGNIDAD DE LA MUJER", INTEGRADO POR EL CAPÍTULO ÚNICO DENOMINADO "FEMINICIDIO" EL CUAL CONTIENE DEL ARTÍCULO 331 BIS 2 AL 331 BIS 6, TODOS ELLOS DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- La Procuraduría General de Justicia deberá emitir el protocolo de actuación para la investigación del delito de feminicidio, atendiendo a lo señalado en el presente Decreto.
+
+P.O. 29 DE JUNIO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- En lo que respecta a la Ley para incentivar la Denuncia de Actos de Corrupción de Servidores Públicos del Estado de Nuevo León, la Contraloría y Transparencia Gubernamental del Gobierno del Estado emitirá los lineamientos relativos a los requisitos y procedimientos para el otorgamiento de medidas de protección en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
