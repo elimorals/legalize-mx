@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-del-personal-policial-de-la-direccion-general-de-567
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-20"
-last_updated: "2007-07-20"
+last_updated: "2013-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "BCS"
 ---
 # REGLAMENTO DEL PERSONAL POLICIAL DE LA DIRECCION GENERAL DE SEGURIDAD PUBLICA Y TRANSITO MUNICIPAL DE LOS CABOS, BAJA CALIFORNIA SUR
 
-REGLAMENTO DEL PERSONAL POLICIAL DE LA DIRECCION GENERAL DE SEGURIDAD PUBLICA Y TRANSITO MUNICIPAL, PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
+REGLAMENTO DEL PERSONAL POLICIAL DE LA DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL, PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA, POLICÍA PREVENTIVA Y TRÁNSITO MUNICIPAL DE LOS CABOS, BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 30 DE JUNIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 20 de julio de 2007.
 
@@ -867,3 +869,33 @@ El Presidente Municipal contará con un plazo de 90 días, contados a partir de 
 ###### ARTÍCULO SÉPTIMO.
 
 Los procedimientos administrativos y demás medios de impugnación o responsabilidad, serán desahogados y resueltos de conformidad con la legislación que les dio origen.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 30 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Reglamento, entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur. El Servicio de Carrera Policial de la Dirección General se irá estableciendo gradualmente así como los órganos para su operación, a que se refiere este ordenamiento de conformidad con las disposiciones presupuestales y los acuerdos que se celebren con el Estado.
+
+SEGUNDO.- Una vez que entre en vigor el presente Reglamento quedaran abrogados los Reglamentos de Personal Policial así como el Reglamento de Seguridad Pública del Municipio de Los Cabos, Baja California Sur y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- El Municipio podrá celebrar Convenios de Coordinación con el Estado, con objeto de implementar gradualmente el Servicio Profesional de Carrera Policial de la Dirección General, en los términos del presente Reglamento.
+
+CUARTO.- El Municipio realizará todas las acciones de coordinación necesarias, a fin de proceder a elaborar el perfil del puesto por competencia del Servicio de Carrera Policial de la Dirección General.
+
+QUINTO.- El plazo para la implementación del Servicio Profesional de Carrera Policial será de hasta un año, a partir de la publicación del presente Reglamento debido a que se requiere que el personal en activo:
+
+- Cuente con las evaluaciones de control de confianza;
+
+- Que tenga la equivalencia de la formación inicial:
+
+- Que cubran con el perfil en la parte de nivelación académica.
+
+SEXTO.- Mientras se expidan los manuales de organización, procedimientos y servicios al público, el Director General queda facultado para resolver lo relativo a cuestiones operativas contenidas en los mismos, en tanto que estos no se hayan publicado.
+
+SÉPTIMO.- El Órgano de la Comisión del Servicio Profesional de Carrera a que se refiere el presente Reglamento, se integrará en un término no mayor de treinta días siguientes a la publicación del mismo.
+
+OCTAVO.- Una vez publicado el presente Reglamento, todo el personal de nuevo ingreso tendrá que sujetarse a este ordenamiento.
+
+NOVENO.- Los procedimientos para la aplicación de sanciones que se encuentren pendientes de resolución serán resueltos conforme a los términos del Reglamento de la Comisión de Honor y Justicia y demás ordenamientos.
+
+> <small>N. DE E. VÉASE CATÁLOGO DE PUESTOS EN EL B.O. DE 30 DE JUNIO DE 2013, PÁGINAS 51 Y 52.</small>
