@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2013-06-20"
+last_updated: "2013-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JUNIO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 20 DE JUNIO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JULIO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -10726,9 +10724,17 @@ C) Dirección General de Obras y Desarrollo Urbano;
 
 D) Dirección General de Servicios Urbanos;
 
-E) Dirección General de Desarrollo Social; y
+E) Dirección General de Desarrollo Social; y (sic)
 
 F) Dirección General de Desarrollo Delegacional.
+
+> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
+
+G) Dirección General de Participación Ciudadana y Prevención del Delito
+
+> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
+
+H) Dirección General de Protección Civil y Geomática
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -13362,13 +13368,45 @@ La Dirección General de Servicios Urbanos tendrá además de las señaladas en 
 
 I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
 
-II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+II. (DEROGADA, G.O. 1 DE JULIO DE 2013)
 
-III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2013)</small>
 
-IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+III. Dar mantenimiento a los parques que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
 
-V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y (sic)
+
+> <small>(REFORMADA, G.O 1 DE JULIO DE 2013)</small>
+
+V. Rehabilitar las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias que lo requieran en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias; y
+
+> <small>(ADICIONADA, G.O 1 DE JULIO DE 2013)</small>
+
+VI. Ejecutar las obras y equipamiento urbano que no estén asignadas a otras Unidades Administrativas de la Delegación.
+
+> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
+
+###### Artículo 160 Bis.
+
+La Dirección General Administración (sic) tendrá además de las señaladas en el artículo 125, la siguiente atribución:
+
+I. Administrar el acervo documental de la Delegación.
+
+> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
+
+###### Artículo 160 Ter.
+
+La Dirección General de Obras y Desarrollo Urbano tendrá además de las señaladas en el artículo 126, la siguiente atribución:
+
+I. Brindar mantenimiento a las escuelas, mercados, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial.
+
+> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
+
+###### Artículo 160 Quáter.
+
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, la siguiente atribución:
+
+I. Promover, coordinar e implementar programas encaminados a fortalecer el tejido social de los pueblos originarios y de la población indígena radicada en la demarcación territorial.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -13425,6 +13463,62 @@ XXII. Realizar acciones de promoción y coordinación para la instalación, func
 XXIII. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político- Administrativo y del Distrito Federal; y
 
 XXIV. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
+
+###### Artículo 161 Bis.
+
+Corresponde a la Dirección General de Participación Ciudadana y Prevención del Delito:
+
+I. Establecer las bases para promover la participación y organización ciudadana, orientada a conocer y respetar las leyes y normas sociales, que regulan la convivencia y el Estado de Derecho, para prevenir el delito y crear una Cultura de Legalidad.
+
+II. Establecer vínculos con el Instituto Electoral del Distrito Federal (IEDF) y el Instituto Federal Electoral (IFE), en los procesos de participación ciudadana, conforme a lo dispuesto en sus respectivos ordenamientos jurídicos.
+
+III. Diseñar, planear, promover, ejecutar, dar seguimiento y evaluación de los programas y acciones de participación vecinal y ciudadana en la demarcación territorial.
+
+IV. Determinar el diseño y elaboración de diagnósticos que permitan tener un mayor conocimiento de la problemática que aqueja a la ciudadanía en la demarcación territorial.
+
+V. Atender la demanda que en materia de seguridad planteen los diversos sectores de la sociedad.
+
+VI. Proponer al Jefe Delegacional las acciones encaminadas a proteger y prevenir la integridad de quienes habitan y transitan en la demarcación territorial.
+
+VII. Generar y dirigir programas para la difusión y promoción de la prevención integral del delito dirigido a niños, jóvenes y comunidad en general, en coordinación con diferentes niveles de Gobierno e Instituciones Públicas y Privadas.
+
+VIII. Coordinar y establecer una comunicación permanente con los Comités Ciudadanos, dentro de la demarcación territorial, así como con las redes de participación ciudadana de las Coordinaciones Territoriales de Seguridad Pública y Procuración de Justicia.
+
+IX. Proponer al Comité de Seguridad Pública Delegacional acuerdos de colaboración con autoridades locales y federales para fortalecer la política de prevención del delito.
+
+X. Coordinar la formación de servidores públicos adscritos al Órgano Político-Administrativo, personal docente y/o académico de las escuelas en sus distintos niveles, representantes vecinales y ciudadanía en general de la demarcación territorial en materia de prevención del delito y seguridad vecinal.
+
+XI. Las demás que les atribuyan expresamente los ordenamientos jurídicos y administrativos correspondientes, así como los que de manera directa le asigne el titular del Órgano Político-Administrativo y las que se establezcan en los Manuales Administrativos.
+
+> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
+
+###### Artículo 161 Ter.
+
+Corresponde a la Dirección General de Protección Civil y Geomática:
+
+I. Elaborar y ejecutar en coordinación con las autoridades competentes el Programa de Protección Civil del Órgano Político- Administrativo;
+
+II. Recibir, evaluar y en su caso aprobar los programas internos y especiales de protección civil en los inmuebles delegacionales, establecimientos comerciales y mercantiles, inmuebles de uso habitacional y todos aquellos que se encuentren en la demarcación territorial, de conformidad con las disposiciones jurídicas aplicables;
+
+III. Dar debida y oportuna atención a las demandas ciudadanas recibidas en la unidad o en los Centros de Servicios y Atención Ciudadana o por otro medio en materia de protección civil;
+
+IV. Fomentar la cultura de protección civil en la Delegación;
+
+V. Supervisar la debida y correcta aplicación de la legislación en materia de protección civil;
+
+VI. Proponer al Jefe Delegacional las acciones en materia de Protección Civil y prevención de desastres o emergencias;
+
+VII. Coordinar, dirigir y supervisar a los equipos especializados de Protección Civil en el caso de contingencias;
+
+VIII. Coordinar la supervisión de simulacros en los diversos inmuebles de la demarcación territorial;
+
+XIX (SIC). Evaluar y proponer medidas de mitigación en peligros geológicos.
+
+X. Implementar políticas de manejo y planeación al entorno enfocadas en salvaguardar la seguridad de los riesgos geológicos en la demarcación
+
+XI. Las demás que les atribuyan expresamente los ordenamientos jurídicos y administrativos correspondientes, así como los que de manera directa le asigne el titular del Órgano Político-Administrativo y las que se establezcan en los Manuales Administrativos.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -16385,3 +16479,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 CUARTO.- El presente Decreto entrará en vigor el día de su publicación.
+
+G.O. 1 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
