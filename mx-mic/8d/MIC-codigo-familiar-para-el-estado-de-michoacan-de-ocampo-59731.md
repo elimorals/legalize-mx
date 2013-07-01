@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-59731"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2013-01-22"
+last_updated: "2013-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -415,23 +415,21 @@ En el acta de reconocimiento hecha con posterioridad al acta de nacimiento, se h
 
 Si el reconocimiento se hiciere en oficialía distinta a aquella en la que se levantó el acta de nacimiento, el Oficial del Registro Civil, que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la Oficialía, que haya registrado el nacimiento, para que haga la anotación en el acta respectiva.
 
-### Capítulo IV. De las actas de adopción
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2013)</small>
+### Capítulo IV. De las actas de adopción
 
 ###### Artículo 68.
 
-Dictada la resolución judicial definitiva que autorice la adopción, el Juez de Primera Instancia, dentro del término de ocho días hábiles, remitirá copia certificada de las diligencias al Oficial del Registro Civil que corresponda, a fin de que, con la comparecencia del adoptante, se levante el acta correspondiente.
-
-La falta de registro de la adopción no priva a ésta sus efectos legales, pero sujeta al responsable a la sanción señalada en el artículo 55 de este Código.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 69.
 
-En los casos de adopción, se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos, sin perjuicio de lo dispuesto en el artículo siguiente.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 70.
 
-En caso de adopción, a partir del levantamiento del acta, se harán las anotaciones en el acta de nacimiento primigenia, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ### Capítulo V. De las actas de tutela
 
@@ -2241,139 +2239,87 @@ II. A ser alimentado por éste; y,
 
 III. A percibir la porción hereditaria y los alimentos que fije la Ley.
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)</small>
+
 ### Capítulo V. De la adopción
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)</small>
 
 #### Sección Primera. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
-
 ###### Artículo 372.
 
-Puede adoptar el mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos. Deberá mediar no menos de diecisiete ni más de cuarenta y cinco años de edad entre adoptado y adoptante.
-
-Para efectos de lo dispuesto en el presente artículo el adoptante deberá acreditar:
-
-I. Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trata de adoptarse; y,
-
-II. Su aptitud física, psicológica, social y económica.
-
-Para acreditar los anteriores requisitos, el adoptante en una sola exhibición presentará los elementos de prueba emitidos por instituciones del sector público o privado, que serán valoradas por el Consejo Técnico de Adopción, y emita el dictamen correspondiente dentro de un plazo que no exceda de 30 días hábiles, contados a partir del día siguiente en que se presentaron.
-
-En todo momento, el Consejo Técnico de Adopción cuidará que la adopción sea benéfica para la persona que trata de adoptarse.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 373.
 
-Los cónyuges o concubinos podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de ellos cumpla el requisito de la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años de edad cuando menos. Se deberá acreditar, además, los requisitos previstos en las fracciones del artículo anterior.
-
-En igualdad de condiciones, se preferirá al que haya acogido al menor que se pretenda adoptar.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 374.
 
-Salvo el caso del artículo anterior nadie puede ser adoptado por más de una persona.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 375.
 
-El tutor sólo puede adoptar a su pupilo, después que hayan sido debidamente aprobadas las cuentas de la tutela.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 376.
 
-El adoptante tendrá los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos, para con el adoptado.
-
-A su vez el adoptado tendrá con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
-
-El adoptante dará nombre y sus apellidos al adoptado, salvo que, por circunstancias específicas, no se estime conveniente.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 377.
 
-Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
-
-I. El que ejerce la patria potestad sobre el menor que se trata de adoptar;
-
-II. El tutor del que se va a adoptar;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
-
-III. La Procuraduría de la Defensa del Menor y la Familia, con el carácter de representante del menor de edad; cuando éste no tenga padres conocidos, ni tutor; y
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
-
-IV. El Menor de edad si tiene más de doce años;
-
-V. (DEROGADA, P.O. 1 DE MARZO DE 2011)
-
-> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
-
-Además deberá consentir el Consejo Técnico de Adopción.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
-
-En todos los asuntos de adopción serán escuchados los menores atendiendo a su edad y circunstancias personales. En el caso de las personas con discapacidad, será necesario su consentimiento, siempre y cuando fuese posible la expresión indubitable de su voluntad.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
-
-La persona que haya acogido al menor de edad dentro de los seis meses anteriores a la solicitud de su adopción y lo trate como a un hijo, podrá oponerse a la adopción, debiendo exponer los motivos en que se funde su oposición.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 378.
 
-Si el tutor, la Procuraduría de la Defensa del Menor y la Familia o el Consejo Técnico de Adopción no consienten en la adopción, deberán expresar la causa en que se funden, la que el Juez calificará tomando en cuenta el interés superior del menor de edad.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 379.
 
-El procedimiento de la adopción será fijado en el Libro Segundo de este Código.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 380.
 
-Una vez que quede firme la resolución judicial que autorice una adopción, ésta quedará consumada.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 381.
 
-El Juez que apruebe la adopción enviará dentro del término de ocho días hábiles, copia certificada de la sentencia, al Sistema para el Desarrollo Integral de la Familia, Michoacán, para que realice el seguimiento de la adopción, cada seis meses por un período no menor de dos años, a partir de la fecha en que se otorgó la adopción.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
-> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+Artículo 381 BIS. (DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
-Artículo 381 BIS. El Juez que conozca del procedimiento de adopción podrá como medida provisional otorgar a los futuros adoptantes, el acogimiento del menor de edad, hasta en tanto se dicte la sentencia de adopción correspondiente.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)</small>
 
 #### Sección Segunda. De los efectos de la adopción
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
-
 ###### Artículo 382.
 
-La adopción es irrevocable.
-
-La persona adoptada se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos de matrimonio. La persona adoptada tiene en la familia del o los adoptantes los mismos derechos y obligaciones del hijo consanguíneo.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 383.
 
-La adopción extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado con alguno de los progenitores del adoptado no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 384.
 
-El Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los casos siguientes y contando con autorización judicial:
-
-I. Para efectos de impedimento para contraer matrimonio; y,
-
-II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, si fuere menor de edad se requerirá el consentimiento de los adoptantes.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 385.
 
-Para el caso de las personas que tengan vínculo de parentesco consanguíneo con el menor o incapaz que se adopte, los derechos y obligaciones que nazcan de la misma, se limitarán al adoptante y adoptado.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)</small>
 
 #### Sección Tercera. De la adopción internacional
 
 ###### Artículo 386.
 
-La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional, y tiene como objeto incorporar, en una familia, a un menor que no puede encontrar una familia en su propio país de origen. Esta adopción se regirá por los tratados internacionales celebrados y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código.
-
-La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional. Esta adopción se regirá por lo dispuesto en el presente Código.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 387.
 
-En igualdad de circunstancias, se dará preferencia en la adopción a mexicanos sobre extranjeros.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ## Título Noveno. De la patria potestad
 
@@ -6239,53 +6185,25 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 La venta de bienes indivisos pertenecientes a mayores y menores de edad, se hará con sujeción a este capítulo, teniendo en cuenta lo dispuesto por el artículo 579 del Libro Primero.
 
-### Capítulo X. De la adopción
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2011)</small>
+### Capítulo X. De la adopción
 
 ###### Artículo 1077.
 
-El que pretenda adoptar deberá observar lo siguiente:
-
-I. En la promoción inicial se deberá manifestar:
-
-a. (DEROGADO, P.O. 1 DE MARZO DE 2011)
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
-
-b. El nombre, edad y si lo hubiere domicilio de la persona que se pretende adoptar;
-
-c. El nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que lo haya acogido.
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
-
-II. Acompañar certificado médico de buena salud, expedido por institución pública;
-
-III. (DEROGADA, P.O. 1 DE MARZO DE 2011)
-
-IV. Tratándose de extranjeros se deberá acreditar su legal estancia o residencia en el país;
-
-V. El extranjero con residencia en otro país deberá presentar certificado de idoneidad, expedido por la autoridad competente de su país de origen que acredite que el solicitante es considerado apto para adoptar; constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho Estado; autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción; y,
-
-VI. La documentación que presente el solicitante extranjero en idioma distinto al español, deberá acompañarse de la traducción oficial. La documentación correspondiente deberá estar apostillada o legalizada por el Cónsul Mexicano.
-
-> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
-
-Además el Juez deberá solicitar al Consejo Técnico de Adopción el dictamen correspondiente.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### ARTÍCULO 1078.
 
-En todo trámite de adopción, el Juez podrá oír los elementos de juicio que aporte el Consejo Técnico de Adopción, para su resolución, debiendo correrle traslado de la solicitud de adopción.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 1079.
 
-Rendidas las constancias que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo, conforme al Libro Primero, el Juez resolverá dentro de ocho días, lo que proceda sobre la adopción.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ###### Artículo 1080.
 
-Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena y se reúnan los requisitos previstos en el Libro Primero, el Juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público y el Consejo Técnico de Adopción, luego de la cual se resolverá lo conducente, en el término de ocho días.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 1 DE JULIO DE 2013)
 
 ### Capítulo XI. Del reconocimiento de hijos nacidos fuera de matrimonio
 
@@ -6432,3 +6350,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones legales y administrativas que se opongan a la literalidad del presente Decreto Legislativo.
+
+P.O. 1 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado nombrará a los consejeros que le corresponde designar en un plazo no mayor de 30 días naturales y expedirá la reglamentación correspondiente en un plazo no mayor a 90 días hábiles, posteriores a la entrada en vigor de la presente Ley.
+
+El Presidente del Consejo convocará a sesión de instalación el día siguiente a aquel en que concluya el plazo del Gobernador para designar consejeros. Durante aquel término de treinta días naturales se recibirán solicitudes, mismas que serán resueltas una vez instalado el Consejo.
+
+Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor de la presente Ley se seguirán conforme a la normatividad aplicable al momento de su inicio pero se podrá aplicar esta Ley en todo aquello que beneficie el interés superior del menor.
+
+Los menores de edad que actualmente se encuentren acogidos en instituciones públicas o privadas, respecto de los cuales se pueda dar constancia de su condición de expósito o abandonado, serán sujetos de adopción a partir de la entrada en vigor esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Titular del Ejecutivo realizar las adecuaciones presupuestales estrictamente necesarias para el cumplimiento de esta Ley por concepto de prestación de servicios profesionales, a cada uno de los seis especialistas del Consejo, a partir de la fecha de instalación del Consejo y hasta la conclusión del presente ejercicio fiscal. Estos recursos se dispondrán de la asignación presupuestal correspondiente a la Secretaría de Finanzas y Administración señalada en el Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo para el Ejercicio Fiscal 2013 y de la dependencia básica análoga a partir de los siguientes ejercicios fiscales.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan del Libro Primero los capítulos IV «De las Actas de Adopción» contenido en el Título Segundo «Del Registro Civil», V «De la Adopción» contenido en el Título Octavo «De la Paternidad y la filiación», y del Libro Segundo el Capítulo X «De la Adopción» contenido en el Título Décimo Primero «De la Jurisdicción Voluntaria Familiar», todos del Código Familiar para el Estado de Michoacán de Ocampo.
