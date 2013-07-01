@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2012-10-22"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -65,13 +65,21 @@ III.- Establecer el Sistema Estatal de Cultura Física, Deporte y Recreación, p
 
 IV.- Fomentar la educación física, el deporte y la recreación como elementos fundamentales para el desarrollo integral del ser humano;
 
-V.- Determinar criterios para asegurar la congruencia y aplicación entre los programas del deporte, así como la asignación de recursos para dichos fines;
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2013)</small>
 
-VI.- Definir los principios que garanticen a la población en igualdad de condiciones y oportunidades, el acceso, enseñanza, práctica, conocimiento y desarrollo del deporte;
+V.- Promover la práctica cotidiana de actividades físicas, recreativas y deportivas, en igualdad de oportunidades, como medio para prevenir la violencia y la delincuencia en adolescentes y jóvenes;
 
-VII.- Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de las y de los deportistas del Estado; estimulando la práctica del deporte con reconocimientos a nivel Local, Estatal, Nacional e Internacional; y
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2013)</small>
 
-VIII.- Operar e implementar programas integrales que vayan dirigidos a disminuir la drogadicción juvenil y a fortalecer la integración familiar a través del deporte.
+VI.- Contribuir al desarrollo integral y armónico de los adolescentes y jóvenes así como al bienestar general; fomentar los valores de respeto, solidaridad, honor, disciplina, tenacidad y trabajo en equipo; fortalecer la salud y prevenir la violencia y la delincuencia entre los jóvenes adolescentes;
+
+VII.- Determinar criterios para asegurar la congruencia y aplicación entre los programas del deporte, así como la asignación de recursos para dichos fines;
+
+VIII.- Definir los principios que garanticen a la población en igualdad de condiciones y oportunidades, el acceso, enseñanza, práctica, conocimiento y desarrollo del deporte;
+
+IX.- Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de las y de los deportistas del Estado; estimulando la práctica del deporte con reconocimientos a nivel Local, Estatal, Nacional e Internacional; y
+
+X.- Operar e implementar programas integrales que vayan dirigidos a disminuir la drogadicción juvenil y a fortalecer la integración familiar a través del deporte.
 
 Objeto que tienen (sic) el propósito de coadyuvar en la formación y desarrollo integral de las y de los habitantes del Estado de Hidalgo, en las actividades relacionadas con la cultura física, el deporte y la recreación.
 
@@ -1616,3 +1624,7 @@ P.O. 22 DE OCTUBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE JULIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
