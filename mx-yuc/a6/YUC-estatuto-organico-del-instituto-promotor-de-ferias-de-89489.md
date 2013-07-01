@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-promotor-de-ferias-de-89489"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-09-24"
-last_updated: "2012-09-24"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PROMOTOR DE FERIAS DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE JULIO DE 2013.
 
 Estatuto publicado en el No. 32,199 del Diario Oficial del Estado de Yucatán, el lunes 24 de septiembre de 2012.
 
@@ -69,21 +69,23 @@ V. Junta: la Junta de Gobierno del Instituto Promotor de Ferias de Yucatán, y
 
 Forma de organización.
 
+> <small>(REFORMADO, D.O. 1 DE JULIO DE 2013)</small>
+
 ###### Artículo 4.
 
 Para el ejercicio de las atribuciones que le confiere el Decreto y el despacho de los asuntos de su competencia, el Instituto contará con la siguiente estructura orgánica:
 
 I. Junta de Gobierno;
 
-II. Dirección General;
+II. Dirección General:
 
-III. Dirección Administrativa;
+a) Dirección Administrativa;
 
-IV. Dirección de Operaciones;
+b) Dirección de Operaciones;
 
-V. Dirección de Eventos, y
+c) Dirección de Eventos, y
 
-VI. Dirección de Servicios Generales.
+d) Dirección Jurídica.
 
 ###### Artículo 5.
 
@@ -97,29 +99,35 @@ La Junta será la máxima autoridad del Instituto, sus determinaciones serán ob
 
 El funcionamiento de la Junta de Gobierno se regirá por lo dispuesto en el Decreto, y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O. 1 DE JULIO DE 2013)</small>
+
 ###### Artículo 7.
 
-La Junta será presidida por el Gobernador del Estado o por la persona que éste designe, y estará integrada por los siguientes miembros:
+La Junta, para el cumplimiento de sus atribuciones, se integrará de la siguiente manera:
 
-I. El Secretario General de Gobierno, quien suplirá al Presidente en sus ausencias;
+I. El Gobernador del Estado o la persona que este designe, quien será el Presidente;
 
-II. El Secretario de Planeación y Presupuesto del Estado;
+II. El Secretario General de Gobierno;
 
-III. El Secretario de Hacienda del Estado;
+III. El Secretario de Administración y Finanzas del Estado;
 
-IV. El Secretario de Fomento Económico del Estado;
+IV. El Secretario Técnico del Gabinete, Planeación y Evaluación del Estado;
 
-V. El Secretario de Fomento Turístico del Estado, y
+V. El Secretario de Fomento Económico del Estado;
 
-VI. El Secretario de Fomento Agropecuario y Pesquero del Estado.
+VI. El Secretario de Fomento Turístico del Estado, y
+
+VII. El Secretario de Desarrollo Rural del Estado.
 
 ###### Artículo 8.
 
 El Gobernador del Estado podrá invitar a las sesiones de la Junta, a personas cuyos conocimientos o experiencia resulten benéficos para el cumplimiento de los objetivos del Instituto. Los invitados participarán como vocales, con derecho a voz y voto.
 
+> <small>(REFORMADO, D.O. 1 DE JULIO DE 2013)</small>
+
 ###### Artículo 9.
 
-Cada uno de los miembros de la Junta deberá nombrar a un suplente, quien los sustituirá en las sesiones en caso de ausencias.
+Cada miembro propietario deberá nombrar por escrito a un suplente con nivel jerárquico inmediato inferior al de él o, al menos, con rango de Director, al que acreditará ante el Órgano de Gobierno, excepto el Gobernador del Estado, quien será suplido por el Secretario General de Gobierno.
 
 ###### Artículo 10.
 
@@ -235,9 +243,19 @@ XIX. Difundir las normas y lineamientos emitidos por la Junta, en especial los r
 
 XX. Proponer y, en su caso, implementar los programas de desarrollo y capacitación del personal a su cargo;
 
-XXI. Integrar el archivo de las áreas a su cargo, las bases y respaldo de información y los sistemas de seguimiento de proyectos conforme a las normas vigentes establecidas, y
+> <small>(REFORMADA, D.O. 1 DE JULIO DE 2013)</small>
 
-XXII. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables y las que le confiera la Junta de Gobierno o el Director, dentro de sus respectivas competencias.
+XXI. Integrar el archivo de las áreas a su cargo, las bases y respaldo de información y los sistemas de seguimiento de proyectos conforme a las normas vigentes establecidas;
+
+> <small>(ADICIONADA, D.O. 1 DE JULIO DE 2013)</small>
+
+XXII. Proporcionar información, a través del personal a su cargo, referente a la Feria Yucatán y sus instalaciones a las personas que lo soliciten;
+
+> <small>(ADICIONADA, D.O. 1 DE JULIO DE 2013)</small>
+
+XXIII. Vigilar la aplicación de los programas de ahorro de energía y de eficiencia en el uso de los recursos materiales y servicios a su cargo, y
+
+XXIV. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables y las que le confiera la Junta de Gobierno o el Director, dentro de sus respectivas competencias.
 
 ### Capítulo V. Del Director Administrativo
 
@@ -275,9 +293,25 @@ II. Coordinarse con la Secretaria de Educación de Yucatán, en el desarrollo de
 
 III. Establecer los lineamientos normativos de visita, a diversos eventos de instancias educativas públicas y privadas;
 
-IV. Establecer los criterios tarifarios de servicio de transporte en atención al Programa Escolar, y
+> <small>(REFORMADA, D.O. 1 DE JULIO DE 2013)</small>
 
-V. Llevar registro y control de la comercialización del boletaje emitido en la Feria Yucatán.
+IV. Establecer los criterios tarifarios de servicio de transporte en atención al Programa Escolar;
+
+> <small>(REFORMADA, D.O. 1 DE JULIO DE 2013)</small>
+
+V. Llevar registro y control de la comercialización del boletaje emitido en la Feria Yucatán;
+
+> <small>(ADICIONADA, D.O. 1 DE JULIO DE 2013)</small>
+
+VI. Coordinar y supervisar las actividades de mantenimiento y servicios que se requieran en las instalaciones del recinto de la Feria Yucatán;
+
+> <small>(ADICIONADA, D.O. 1 DE JULIO DE 2013)</small>
+
+VII. Supervisar el acceso y salida de vehículos, equipo y mobiliario de expositores y/o proveedores al recinto durante y fuera del periodo ferial, y
+
+> <small>(ADICIONADA, D.O. 1 DE JULIO DE 2013)</small>
+
+VIII. Establecer estrategias y acciones de vigilancia de manera permanente en las instalaciones y perímetros externos del recinto de la Feria Yucatán.
 
 ### Capítulo VII. Del Director de Eventos
 
@@ -297,23 +331,37 @@ V. Coordinar la realización de ruedas de prensa con medios de comunicación, y
 
 VI. Gestionar y coordinar los recursos logísticos requeridos para la operación de eventos artísticos, culturales, recreativos y deportivos.
 
-### Capítulo VIII
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 1 DE JULIO DE 2013)</small>
 
-Del Director de Servicios Generales.
+### Capítulo VIII. Del Director Jurídico
+
+> <small>(REFORMADO, D.O. 1 DE JULIO DE 2013)</small>
 
 ###### Artículo 24.
 
-El Director de Servicios Generales tendrá las siguientes facultades y obligaciones:
+El Director Jurídico tendrá las siguientes facultades y obligaciones:
 
-I. Coordinar y supervisar las actividades de mantenimiento y servicios que se requieran en las instalaciones del recinto de la Feria Yucatán;
+I. Atender, dirigir, coordinar y supervisar los asuntos jurídicos del Instituto;
 
-II. Supervisar el acceso y salida de vehículos, equipo y mobiliario de expositores y/o proveedores al recinto durante y fuera del periodo ferial;
+II. Proporcionar asistencia jurídica al Director General del Instituto para la realización de los actos de su competencia;
 
-III. Establecer estrategias y acciones de vigilancia de manera permanente en las instalaciones y perímetros externos del recinto de la Feria Yucatán;
+III. Brindar apoyo técnico jurídico al Director General y, en su caso, elaborar los proyectos de ley, reglamentos, acuerdos, manuales de organización, de procedimientos, de servicios al público y demás disposiciones normativas relativas al Instituto;
 
-IV. Proporcionar información, a través del personal a su cargo, referente a la Feria Yucatán y sus instalaciones a las personas que lo soliciten, y
+IV. Coordinar sus actuaciones con la Consejería Jurídica, y ajustar sus actividades a las políticas y lineamientos que ésta determine en materia legal;
 
-V. Vigilar la aplicación de los programas de ahorro de energía y de eficiencia en el uso de los recursos materiales y servicios a su cargo.
+V. Elaborar contratos, convenios y demás trámites que el Director General requiera para el correcto funcionamiento del Instituto;
+
+VI. Representar legalmente al Instituto y al Director General, ante los tribunales estatales o federales en los procedimientos, juicios o asuntos litigiosos de cualquier materia o naturaleza en que el Instituto sea parte o tenga interés jurídico;
+
+VII. Contestar las demandas interpuestas contra resoluciones o actos de las direcciones o unidades administrativas del Instituto, así como ejercitar las acciones, excepciones y defensas que correspondan en los juicios que se tramiten ante los tribunales competentes;
+
+VIII. Llevar el registro de los acuerdos, contratos, convenios y demás actos jurídicos de los que tenga conocimiento y de los que deriven derechos y obligaciones a cargo del Instituto;
+
+IX. Asesorar al Director General o a la persona que éste designe, en los diferentes Comités y órganos de consulta en los que participe el Instituto;
+
+X. Auxiliar al Director General respecto del cumplimiento de la normatividad vigente en la ejecución de sus proyectos, programas y procedimientos administrativos, y
+
+XI. Auxiliar a las direcciones del Instituto en los procedimientos de licitación y adjudicación de contratos.
 
 ### Capítulo IX. De las ausencias
 
@@ -344,3 +392,15 @@ Aprobado por la Junta de Gobierno del Instituto Promotor de Ferias de Yucatán e
 ING. HUMBERTO RODRIGUEZ CURAL
 
 DIRECTOR GENERAL DEL INSTITUTO PROMOTOR DE FERIAS DE YUCATÁN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 1 DE JULIO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO PROMOTOR DE FERIAS DE YUCATÁN".]
+
+PRIMERO. Este Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. El Director General del Instituto Promotor de Ferias de Yucatán deberá inscribir en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, las modificaciones aprobadas mediante este Acuerdo al Estatuto Orgánico dentro de los 30 días siguientes a su entrada en vigor.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor rango, emitidas por la Junta de Gobierno del Instituto Promotor de Ferias de Yucatán, que se opongan a este Estatuto.
