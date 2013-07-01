@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2013-04-29"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -75,7 +75,7 @@ Durante su Ejercicio Constitucional, el Congreso del Estado tendrá dos Período
 
 El Congreso del Estado, tendrá dos períodos de receso al año, en los que funcionará la Diputación Permanente.
 
-El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos periodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
+El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos períodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el periodo de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
 
 ## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA Y DEL RECINTO OFICIAL DEL CONGRESO
 
@@ -131,7 +131,9 @@ Los Diputados que se presenten o sean llamados al ejercicio del cargo con poster
 
 Ningún Diputado, podrá asumir su cargo, sin rendir la protesta legal;
 
-III.- Efectuada la protesta, se elegirá a los integrantes de la primera Directiva, que fungirá en el mes de abril del primer año de ejercicio constitucional, la cual, se conformará por un Presidente, un Vicepresidente, dos Secretarios propietarios y dos Secretarios suplentes. Una vez electos, el Presidente de la Directiva de la Junta Preparatoria, les tomará la protesta de ley en términos de lo establecido por el Artículo 7, fracción IV de la presente Ley, hecho lo anterior, los Diputados electos, ocuparán los lugares destinados a la Directiva del Congreso;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2013)</small>
+
+III.- Efectuada la protesta, se elegirá a los integrantes de la primera Directiva, que fungirá a partir del cinco de septiembre y solo durará este mes, del Primer Año de Ejercicio Constitucional, la cual, se conformará por un Presidente, un Vicepresidente, dos Secretarios propietarios y dos Secretarios suplentes. Una vez electos, el Presidente de la Directiva de la Junta Preparatoria, les tomará la Protesta de Ley, en términos de lo establecido por el Artículo 7, fracción IV de la presente Ley, hecho lo anterior, los Diputados electos, ocuparán los lugares destinados a la Directiva del Congreso;
 
 IV.- Instalada la primera Directiva, el Presidente de ésta hará la siguiente declaratoria: "La ...(número ordinal que corresponda) Legislatura del Congreso del Estado Libre y Soberano de Hidalgo, se declara legítimamente constituida hoy (día, mes y año) para el desempeño de sus funciones constitucionales":
 
@@ -1033,7 +1035,9 @@ Para que puedan celebrarse legalmente las Sesiones, será necesario que concurra
 
 En el caso de la Diputación Permanente, se estará a lo establecido en el Artículo 72 de esta Ley.
 
-Para la celebración de las Sesiones de las Comisiones, será necesario que concurran, cuando menos dos de los Diputados que las integran, mismas que serán reguladas en el Reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2013)</small>
+
+Para la celebración de las Sesiones de las Comisiones, será necesario que concurran, cuando menos la mitad más uno del número total de Diputados que las integran, mismas que serán reguladas en el Reglamento de la presente Ley.
 
 ###### ARTÍCULO 105.
 
@@ -1488,6 +1492,10 @@ En caso de empate en las votaciones, se repetirá la votación en la misma Sesi�
 ###### ARTÍCULO 175.
 
 Tratándose de reformas a la Constitución Política del Estado de Hidalgo, se requerirá la aprobación de por los menos las dos terceras partes del total de los Diputados del Congreso.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2013)</small>
+
+ARTÍCULO 175 BIS.- Para el caso de las Minutas de reforma o adición a la Constitución Política de los Estados Unidos Mexicanos, aprobadas por el Congreso de la Unión, se requiere de la aprobación, cuando menos de los dos tercios del número total de los Diputados que integran el Congreso del Estado.
 
 ###### ARTÍCULO 176.
 
@@ -2024,3 +2032,11 @@ P.O. 29 DE ABRIL DE 2013.
 PRIMERO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Por lo que hace a la presentación de la declaración de situación patrimonial de los síndicos y regidores, se estará a lo dispuesto en la Ley de la Auditoría Superior del Estado.
+
+P.O. 1 DE JULIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+Envíese el presente Decreto al Ejecutivo de la Entidad para su Publicación en el Periódico Oficial del Estado.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA EN SUS DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO VIGENTE.
