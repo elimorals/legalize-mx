@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-83211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-07"
-last_updated: "2011-10-28"
+last_updated: "2013-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "GUA"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
-LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
+LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE OCTUBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de octubre de 2011.
 
@@ -93,9 +91,11 @@ Dichos recursos, una vez ingresados a la institución educativa, adquirirán el 
 
 Derechos y obligaciones para la educación básica
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2013)</small>
+
 ###### Artículo 7.
 
-Todo habitante de la entidad tiene derecho a recibir educación y es obligatorio cursar los niveles de preescolar, primaria y secundaria. Es obligación de los padres de familia o de quienes ejerzan la patria potestad o tutela hacer que sus hijas, hijos o pupilos menores de edad, cursen la educación básica en instituciones educativas públicas o particulares.
+Todo habitante de la entidad tiene derecho a recibir educación y es obligatorio cursar los niveles de preescolar, primaria, secundaria y medio superior. Es obligación de los padres de familia o de quienes ejerzan la patria potestad o tutela hacer que sus hijas, hijos o pupilos menores de edad, cursen la educación básica y media superior en instituciones educativas públicas o particulares.
 
 Glosario
 
@@ -665,7 +665,9 @@ Derechos
 
 Los padres de familia, tutores o quienes ejerzan la patria potestad tienen derecho a:
 
-I. Obtener la inscripción para sus hijas, hijos o pupilos menores de edad, en instituciones públicas o particulares, para que realicen los estudios de preescolar, primaria y secundaria de acuerdo a los requisitos establecidos;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2013)</small>
+
+I. Obtener la inscripción para sus hijas, hijos o pupilos menores de edad, en instituciones públicas o particulares, para que realicen los estudios de preescolar, primaria, secundaria y nivel medio superior de acuerdo a los requisitos establecidos;
 
 II. Ser informados y orientados por los educadores acerca de los resultados de las evaluaciones y comportamiento de sus hijas, hijos o pupilos para coadyuvar en el proceso de enseñanza-aprendizaje;
 
@@ -691,7 +693,9 @@ Obligaciones
 
 Los padres de familia, tutores o quienes ejerzan la patria potestad tienen las siguientes obligaciones:
 
-I. Hacer que sus hijas, hijos o pupilos menores de edad reciban la educación preescolar, primaria y secundaria, y procurar que accedan a la educación media superior y superior;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2013)</small>
+
+I. Hacer que sus hijas, hijos o pupilos menores de edad reciban la educación preescolar, primaria, secundaria, media superior y procurar que accedan a la educación superior.
 
 II. Coadyuvar con el personal directivo en el desarrollo de actividades que mejoren la calidad de los servicios educativos que se presten;
 
@@ -1970,3 +1974,13 @@ EL SUBSECRETARIO DE SERVICIOS A LA COMUNIDAD
 Encargado del Despacho de la Secretaría de Gobierno, con fundamento en el artículo 78 del Reglamento Interior de la Secretaría de Gobierno
 
 GERARDO GABRIEL GIL MORALES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JULIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. La obligatoriedad del Estado de garantizar la educación media superior, como deber del mismo de ofrecer un lugar para cursarla a quien teniendo la edad típica hubiera concluido la educación básica, se realizará de manera gradual y creciente a partir del ciclo escolar 2013-2014 y hasta lograr la cobertura total en sus diversas modalidades a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación y en los términos establecidos en los instrumentos del Sistema Nacional y el (sic) Sistemas Estatales de Planeación Democrática del Desarrollo.
+
+Artículo Tercero. Para dar cumplimiento al principio de obligatoriedad se deberá incluir en el presupuesto del estado y de los municipios, los recursos necesarios, así como los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos crecientes para la infraestructura de la educación media superior.
