@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-en-el-instituto-federal-68960
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-06-24"
-last_updated: "2009-06-24"
+last_updated: "2013-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68960&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-10-03"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL EN EL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION PUBLICA
 
-ESTATUTO DEL SERVICIO PROFESIONAL EN EL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION PUBLICA
+ESTATUTO DEL SERVICIO PROFESIONAL EN EL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LAS REFORMAS APROBADAS MODIFICÓ DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DEL ESTATUTO DEL 24 DE JUNIO DEL 2009, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL D.O.F. DE 2 DE JULIO DE 2013.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JULIO DE 2013.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 24 de junio de 2009.
 
@@ -41,481 +43,557 @@ Que en las sesiones del Organo de Gobierno del Instituto, celebradas los días t
 
 ESTATUTO DEL SERVICIO PROFESIONAL EN EL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION PUBLICA
 
-## TITULO PRIMERO. DE LAS ATRIBUCIONES Y DISPOSICIONES GENERALES PARA LA GESTION Y ADMINISTRACION DEL SERVICIO PROFESIONAL
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES Y DEFINICIONES
+## TÍTULO PRIMERO. DE LAS ATRIBUCIONES Y DISPOSICIONES GENERALES PARA LA GESTIÓN Y ADMINISTRACIÓN DEL SERVICIO PROFESIONAL
 
-###### ARTICULO 1.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-Las disposiciones de este Estatuto tienen por objeto regular la gestión y administración del Servicio Profesional del Instituto Federal de Acceso a la Información Pública, así como establecer los derechos y obligaciones de sus miembros.
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES Y DEFINICIONES
 
-###### ARTICULO 2.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-Son sujetos del Servicio Profesional los puestos de Director General, Director de Area, Subdirector de Area y Jefe de Departamento, adscritos a Direcciones Generales, de conformidad con el Catálogo General de Funciones y Puestos del Servicio Profesional, con excepción de los señalados en el artículo 18 del presente ordenamiento.
+###### ARTÍCULO 1.
 
-###### ARTICULO 3.
+Las disposiciones del presente Estatuto tienen por objeto regular la planeación, organización, gestión y administración del Servicio Profesional en el Instituto Federal de Acceso a la Información y Protección de Datos con respecto al ingreso y movilidad, aprendizaje y desarrollo, evaluación del desempeño, otorgamiento de estímulos y licencias, causas de separación y medios de defensa de sus miembros.
 
-Son principios rectores del presente Estatuto la ética, la transparencia, la objetividad, la legalidad, la imparcialidad, la calidad profesional, la equidad y el mérito profesional.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 4.
+###### ARTÍCULO 2.
 
-Las disposiciones del presente Estatuto son de observancia obligatoria para todos los miembros del Servicio Profesional del Instituto Federal de Acceso a la Información Pública.
+Son principios rectores del Servicio Profesional que regula el presente Estatuto la honestidad, la ética, la transparencia, la objetividad, la legalidad, la imparcialidad, la calidad profesional, la equidad, la eficiencia y el mérito profesional.
 
-###### ARTICULO 5.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 3.
 
 Para los efectos del presente Estatuto se entenderá por:
 
-AREA DE ADSCRIPCION: La ubicación del puesto que ocupan los miembros del Servicio Profesional dentro de la estructura orgánica del Instituto Federal de Acceso a la Información Pública, de acuerdo con el Catálogo General de Funciones y Puestos del Servicio Profesional aprobado por el Organo de Gobierno.
+ÁREA DE ADSCRIPCIÓN: La ubicación del puesto que ocupan los miembros del Servicio Profesional dentro de la estructura orgánica del Instituto Federal de Acceso a la Información y Protección de Datos, de acuerdo con el Catálogo aprobado por el Órgano de Gobierno.
 
-CAMBIO DE ADSCRIPCION: El cambio de ubicación de los miembros del Servicio Profesional con el mismo nivel de puesto de una Unidad Administrativa a otra, de conformidad con el Catálogo General de Funciones y Puestos del Servicio Profesional.
+CAMBIO DE ADSCRIPCIÓN: La transferencia de ubicación de los miembros del Servicio Profesional con el mismo nivel de puesto de una Unidad Administrativa a otra, de conformidad con el Catálogo General de Funciones y Puestos del IFAI.
 
-CATALOGO: El Catálogo General de Funciones y Puestos del Servicio Profesional del Instituto Federal de Acceso a la Información Pública.
+CATÁLOGO: El Catálogo General de Funciones y Puestos del IFAI.
 
-COMISION: La Comisión Supervisora de la Gestión del Servicio Profesional del Instituto Federal de Acceso a la Información Pública, integrada por tres Comisionados y los Secretarios Ejecutivo y de Acuerdos.
+CANDIDATO: El participante en los procesos de selección para ocupar plazas vacantes del Servicio Profesional.
 
-COMISIONADOS: Los servidores públicos que de conformidad con los artículos 34 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y 4 del Decreto de Creación del Instituto Federal de Acceso a la Información Pública, conforman el órgano máximo de dirección del Instituto.
+COMISIÓN SUPERVISORA: La Comisión Supervisora de la Gestión del Servicio Profesional en el IFAI, integrada por los cinco Comisionados del Instituto y por el Secretario General, en su carácter de Secretario Técnico.
 
-COMPENSACION GARANTIZADA: La remuneración complementaria del sueldo base tabular que se asigna a los miembros del Servicio Profesional, y que se integra a los sueldos y salarios. Esta remuneración no forma parte de la base de cálculo para determinar las prestaciones básicas, así como las cuotas y aportaciones de seguridad social, salvo aquellas que en forma expresa determinen las disposiciones aplicables. Dicho concepto de pago en ningún caso podrá formar parte integrante de la base de cálculo para efectos de indemnización o liquidación.
+CONCURSO DE OPOSICIÓN: El procedimiento de selección para ocupar puestos vacantes que formen parte del Servicio Profesional.
 
-DIRECCION DE ADMINISTRACION: La Dirección General de Administración, adscrita a la Secretaría Ejecutiva del Instituto Federal de Acceso a la Información Pública.
+DISPONIBILIDAD PRESUPUESTARIA: El límite presupuestario anual conforme al cual el Órgano de Gobierno podrá determinar el alcance de las prestaciones y los incentivos previstos por este Estatuto, así como por los lineamientos que de éste se deriven
 
-DISPONIBILIDAD PRESUPUESTARIA: El límite presupuestario anual conforme al cual el Organo de Gobierno podrá determinar el alcance de las prestaciones y los incentivos previstos por este Estatuto, así como por los lineamientos que de él se deriven.
+ESTATUTO: El Estatuto del Servicio Profesional en el Instituto Federal de Acceso a la Información y Protección de Datos.
 
-ESTATUTO: El Estatuto del Servicio Profesional en el Instituto Federal de Acceso a la Información Pública.
+ESTRUCTURA ORGÁNICA: Las unidades administrativas que integran el IFAI, en función de sus relaciones de jerarquía y especialización, de conformidad con lo establecido en el Reglamento Interior del Instituto.
 
-ESTRUCTURA ORGANICA: Las unidades administrativas que integran el Instituto Federal de Acceso a la Información Pública, en función de sus relaciones de jerarquía y especialización, de conformidad con lo establecido en el Reglamento Interior del Instituto.
+INGRESO: Es el procedimiento a través del cual se selecciona al personal idóneo para ocupar puestos vacantes de la estructura, de conformidad con lo establecido en el presente ordenamiento y los Lineamientos que para tal efecto emita el Órgano de Gobierno.
 
-ESTIMULOS: Los reconocimientos, beneficios o retribuciones, en los términos que autorice el Organo de Gobierno, para incentivar el desempeño individual de los miembros del Servicio Profesional del Instituto Federal de Acceso a la Información Pública; estarán limitados por la disponibilidad presupuestaria anual de éste y previamente contemplados en este Estatuto y en los lineamientos que de él se deriven.
+INSTITUTO: El Instituto Federal de Acceso a la Información y Protección de Datos.
 
-INSTITUTO: El Instituto Federal de Acceso a la Información Pública.
+LICENCIAS: La suspensión temporal de labores de acuerdo a lo dispuesto por la legislación laboral y de seguridad social.
 
-LEY: La Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+LINEAMIENTOS: Las disposiciones normativas que regulan de manera específica la operación del Servicio Profesional en el Instituto, de conformidad con las disposiciones previstas en el presente Estatuto.
 
-LICENCIAS: El retiro temporal de labores con goce o sin goce de sueldo, que los miembros del Servicio Profesional, solicitan al Instituto y que éste les otorga de acuerdo con los principios, normas y procedimientos establecidos en este Estatuto y en los lineamientos correspondientes.
+MIEMBROS DEL SERVICIO PROFESIONAL: El personal del Instituto que haya cumplido con los requisitos establecidos en el artículo 27 del presente Estatuto y forme parte y ocupe plazas del Servicio Profesional, en términos de su artículo 4, párrafo primero.
 
-LINEAMIENTOS: Los procedimientos y normas que, derivados de este Estatuto, regulan de manera específica la operación del Servicio Profesional del Instituto.
+MOVILIDAD: Consiste en el cambio de adscripción o puesto, producto de la generación de una vacante del mismo nivel o del ascenso por concurso de oposición a un puesto de nivel superior.
 
-MANUAL DE PERCEPCIONES: El Manual de Percepciones de los Servidores Públicos de las Dependencias y Entidades de la Administración Pública Federal, emitido por la Secretaría de Hacienda y Crédito Público.
+PERSONAL DE LA RAMA ADMINISTRATIVA DEL INSTITUTO: Los servidores públicos que no forman parte del Servicio Profesional y que realizan funciones sustantivas, administrativas y auxiliares no exclusivas de los miembros del mismo; los puestos de este tipo de personal se encuentran identificados en las fracciones I a VII del artículo 4 de este Estatuto, y su ingreso y selección será normado por el Lineamiento que al efecto apruebe el Órgano de Gobierno.
 
-MIEMBROS DEL SERVICIO: El personal del Instituto que forme parte y ocupe plazas del Servicio Profesional.
+REINGRESO: La reincorporación del personal que haya formado parte del Servicio Profesional, y que se encuentre en funciones como personal de la rama administrativa y no haya interrumpido su relación laboral con el Instituto.
 
-ORGANO DE GOBIERNO: El órgano colegiado integrado por los cinco Comisionados y el Titular del OIC en funciones de Comisario Público, cuyas facultades están establecidas en el artículo 58 de la Ley Federal de Entidades Paraestatales, su Reglamento y en el Reglamento Interior del Instituto.
+SERVICIO PROFESIONAL: El conjunto de principios, normas, programas y procedimientos que se utilizan para garantizar la igualdad de oportunidades en el acceso a la función pública, con base en el mérito y el desempeño y con el fin de impulsar el desarrollo profesional de los servidores públicos en beneficio de la sociedad.
 
-ORGANOS INTERNOS PARA LA GESTION Y ADMINISTRACION DEL SERVICIO PROFESIONAL: El Organo de Gobierno, la Comisión, el Secretario Ejecutivo, el Secretario de Acuerdos y la Dirección de Administración, cuyas atribuciones se señalan en el Capítulo Segundo del presente Estatuto.
+UNIDADES ADMINISTRATIVAS: Las áreas a las que se les confieren atribuciones específicas en el Reglamento Interior y se refieren a las oficinas de los comisionados, la Secretaría de Acceso a la Información, la Secretaría General y la Secretaría de Protección de Datos Personales, las direcciones generales adscritas a éstas, así como la Secretaría Técnica del Pleno.
 
-PEF: El Presupuesto de Egresos de la Federación.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-PERCEPCIONES EXTRAORDINARIAS: Los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que el Instituto otorga de manera excepcional a los miembros del Servicio Profesional, de conformidad con lo previsto en este Estatuto y en los lineamientos que de este instrumento se deriven.
+###### ARTÍCULO 4.
 
-PERCEPCION ORDINARIA: Los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los miembros del Servicio Profesional de manera regular, como contraprestación por el desempeño de sus funciones cotidianas, así como los montos correspondientes a los incrementos de las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal.
+Son sujetos y se rigen por el Servicio Profesional todos los puestos de Director General, Director de Área, Subdirector de Área y Jefe de Departamento, adscritos a las direcciones generales, de conformidad con el Catálogo con excepción de los que a continuación se enuncian:
 
-PERSONAL DEL IFAI: Los servidores públicos que realizan funciones sustantivas, administrativas y auxiliares que no pertenezcan al Servicio Profesional, por la naturaleza de sus funciones y por haberse determinado así en el presente Estatuto.
+I. El personal adscrito a las oficinas de los Comisionados;
 
-PLENO: El órgano máximo de dirección del Instituto integrado por los cinco Comisionados.
+II. El personal adscrito a las oficinas de los Secretarios de Acceso a la Información, de Protección de Datos Personales y General del Instituto;
 
-PONENCIAS: Oficinas de Comisionados, integradas por el Comisionado y el personal bajo su adscripción.
+III. El Secretario Técnico del Pleno y el personal adscrito a su oficina;
 
-PRESTACIONES: Los beneficios adicionales a la percepción ordinaria que reciben los miembros del Servicio Profesional en razón del nivel, grado y grupo al que pertenecen. Tales beneficios estarán determinados por las disposiciones del Estatuto así como por los lineamientos que de él se derivan, y habrán de estar limitados por la disponibilidad presupuestaria y lo que disponga el PEF. En ningún caso las prestaciones podrán ser menores a lo que las leyes laborales mexicanas establecen para los trabajadores al servicio del Estado.
+IV. El Director General de Administración, el Director de Desarrollo Humano y Organizacional, el Subdirector del Servicio Profesional y el Jefe de Departamento de Selección de Personal;
 
-SALARIO: El monto que se integra con los pagos en efectivo por cuota diaria, gratificaciones, percepciones, habitación, primas, comisiones, prestaciones en especie y cualquiera otra cantidad o prestación que se entregue a los miembros del Servicio Profesional por su trabajo.
+V. El Director General de Comunicación Social y Difusión;
 
-SECRETARIO DE ACUERDOS: La persona designada por el Pleno para ocupar la Secretaría de Acuerdos del Instituto.
+VI. El Titular del Órgano Interno de Control y todos los servidores públicos adscritos a dicho órgano, de conformidad con lo señalado en el artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal y en el Reglamento Interior de la Secretaría de la Función Pública y
 
-SECRETARIO EJECUTIVO: La persona designada por el Pleno para ocupar la Secretaría Ejecutiva del Instituto.
+VII. Los enlaces de alto nivel, adscritos a direcciones generales.
 
-SERVICIO: Conjunto de principios, normas, programas y procedimientos que conforman al Servicio Profesional del Instituto, contenidos en este Estatuto, así como en los lineamientos que de él se deriven. El Servicio Profesional tiene por objeto la gestión del ingreso, el desarrollo profesional y la continuidad de los miembros del Servicio Profesional del Instituto que realizan funciones sustantivas y estables, conforme a la clasificación establecida en el Catálogo.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-SUELDO BASE: La remuneración sobre la cual se cubren las cuotas y aportaciones de seguridad social, de acuerdo con el Catálogo.
+###### ARTÍCULO 5.
 
-UNIDADES ADMINISTRATIVAS: Las Ponencias, las Secretarías de Acuerdos y Ejecutiva, las Direcciones Generales que dependen de las Secretarías de Acuerdos y Ejecutiva y la Dirección de Asuntos Internacionales, de conformidad con lo previsto en el Reglamento Interior del Instituto.
+Las disposiciones del presente Estatuto son de observancia obligatoria para todos los miembros del Servicio Profesional en el Instituto.
 
-### CAPITULO SEGUNDO. DE LAS ATRIBUCIONES DE LOS ORGANOS INTERNOS
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 6.
+### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DE LOS ÓRGANOS INTERNOS EN MATERIA DEL SERVICIO PROFESIONAL
 
-El Organo de Gobierno tendrá las siguientes atribuciones:
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-I. Conducir y supervisar la gestión y administración del Servicio, de conformidad con lo que establezca el presente Estatuto, los lineamientos que de él se deriven y la normatividad aplicable;
+###### ARTÍCULO 6.
 
-II. Conocer y aprobar las propuestas que le presente la Comisión, relativas a la actualización del presente Estatuto, así como de los lineamientos que de él se deriven;
+El Órgano de Gobierno tendrá las siguientes atribuciones:
 
-III. Conocer y aprobar, de acuerdo con el presente Estatuto, el Catálogo, así como los demás lineamientos relativos a la gestión y administración del Servicio;
+I. Analizar y, en su caso, aprobar las propuestas que se le presenten relativas a:
 
-IV. Conocer, por conducto del Secretario Ejecutivo, las actividades relativas al funcionamiento y la operación del Servicio;
+a) La aprobación y modificación del presente Estatuto;
 
-V. Autorizar, a propuesta del Secretario Ejecutivo y previa aprobación de la Comisión, el dictamen de resultados anuales de la evaluación del desempeño, del programa de aprendizaje y desarrollo, y del otorgamiento de estímulos;
+b) El presupuesto anual destinado a la operación del Servicio Profesional, así como los montos y las modalidades de los estímulos, observando que dicho presupuesto sea congruente con la programación y planeación del Servicio Profesional para cada uno de sus subsistemas;
 
-VI. Participar, conforme a lo que establezca el presente Estatuto y sus lineamientos, en los procedimientos para el otorgamiento de licencias, a quienes ocupen puestos de Director General;
+c) El Catálogo, así como sus respectivas modificaciones y actualizaciones;
 
-VII. Requerir a la Comisión los informes de los procedimientos de revisión interpuestos, y
+d) El informe anual sobre el estado que guarde el Servicio Profesional que le sea presentado por el Secretario General;
 
-VIII. Las demás que le confiere el presente Estatuto, sus lineamientos y las disposiciones reglamentarias aplicables.
+e) El otorgamiento de licencias a quienes ocupen puestos de Director General;
 
-###### ARTICULO 7.
+f) Las reglas específicas relativas a la operación del servicio profesional consistentes en los lineamientos que se deriven del presente Estatuto;
 
-Para contribuir al cumplimiento de sus atribuciones, el Organo de Gobierno autorizará la creación de la Comisión, la cual deberá estar integrada por tres Comisionados con voz y voto, y por los Secretarios Ejecutivo y de Acuerdos, quienes únicamente tendrán derecho a voz.
+II. Confirmar el dictamen de resultados anuales de la evaluación del desempeño, del programa de aprendizaje y desarrollo y del otorgamiento de estímulos;
 
-Las reglas para la organización y desarrollo de las sesiones de la Comisión se establecerán en las Bases que para tal efecto emita la misma.
+III. Requerir a la Comisión Supervisora los informes de los procedimientos interpuestos y los que haya fallado en definitiva; y
 
-###### ARTICULO 8.
+IV. Las demás que le confiere el presente Estatuto y las disposiciones reglamentarias aplicables.
 
-Los Comisionados que integren la Comisión serán designados por el Organo de Gobierno por un periodo de dos años, pudiendo ser reelectos. En cualquier momento, en forma fundada y motivada, el Organo de Gobierno podrá sustituirlos antes de que termine el periodo para el cual hubiesen sido designados.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 9.
+###### ARTÍCULO 7.
 
-La Comisión tendrá las siguientes atribuciones:
+La Comisión Supervisora a que hace referencia el artículo 3 del presente Estatuto, estará, integrada por los cinco comisionados con voz y voto, y por el Secretario General en calidad de Secretario Técnico, quien tendrá derecho a voz. El quórum legal de la Comisión Supervisora se verificará con la asistencia de tres comisionados como mínimo.
 
-I. Conocer y presentar ante el Organo de Gobierno las propuestas de reforma al presente Estatuto;
+Las reglas para la organización y desarrollo de las sesiones de la Comisión Supervisora se establecerán en las Bases que para tal efecto emita la propia Comisión, a propuesta del Secretario General.
 
-II. Conocer y presentar ante el Organo de Gobierno las propuestas de lineamientos para la gestión y administración del Servicio;
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-III. Conocer y proponer ante el Organo de Gobierno el proyecto del Catálogo así como de sus respectivas modificaciones y reformas;
+###### ARTÍCULO 8.
 
-IV. Estudiar y presentar al Organo de Gobierno el proyecto de los gastos destinados a la operación del Servicio, así como los montos y las modalidades de los incentivos establecidos por este Estatuto y sus lineamientos;
+La Comisión Supervisora tendrá las siguientes atribuciones:
 
-V. Supervisar la adecuada aplicación de las normas del presente Estatuto, los lineamientos que de él se deriven, así como de las disposiciones normativas aplicables;
+I. Conocer y resolver, en su carácter de autoridad los siguientes procedimientos:
 
-VI. Conocer de los procedimientos de revisión que se presenten en contra de los resultados de los concursos de oposición, de los resultados de las acciones de capacitación, de la evaluación del desempeño y del otorgamiento de estímulos, y
+a) De revisión interpuesto por los miembros del Servicio Profesional para inconformarse en contra de los resultados de los concursos de oposición, del aprendizaje y desarrollo, de la evaluación del desempeño, del otorgamiento de estímulos y la negativa al otorgamiento de licencias;
 
-VII. Las demás que le confiere el presente Estatuto, sus lineamientos y demás disposiciones reglamentarias aplicables.
+b) De revisión interpuesto por los candidatos para inconformarse en contra de los resultados de los concursos de oposición en los que participen;
 
-###### ARTICULO 10.
+c) El definido para que los nombramientos de los miembros del Servicio Profesional dejen de surtir efectos;
 
-El Secretario Ejecutivo tendrá las siguientes atribuciones:
+II. Establecer por medio de criterios, en caso de insuficiencia, duda o ambigüedad, la interpretación administrativa para la adecuada aplicación del presente Estatuto, los lineamientos que de éste se deriven, así como otras disposiciones normativas relacionadas con el Servicio Profesional;
 
-I. Participar y contribuir en el desempeño de las atribuciones de la Comisión;
+III. Aprobar los cambios de adscripción de los puestos del Servicio Profesional;
 
-II. Elaborar y hacer del conocimiento de la Comisión las propuestas de reforma al presente Estatuto y a los lineamientos que de éste se deriven, en función de las necesidades y propósitos del Instituto, así como de la disponibilidad presupuestaria;
+IV. Someter a consideración del Órgano de Gobierno las propuestas de modificación del Estatuto; y
 
-III. Elaborar y proponer al Organo de Gobierno, previa opinión de las unidades administrativas y previa aprobación de la Comisión, el proyecto original y los proyectos de actualización del Catálogo, de conformidad con lo que establezca el presente Estatuto y la normatividad aplicable;
+V. Las demás que, de conformidad con este Estatuto, los lineamientos y la disposición presupuestaria, se le concedan expresamente para el correcto funcionamiento de la gestión y administración del Servicio Profesional.
 
-IV. Estudiar y proponer al Organo de Gobierno, previa aprobación de la Comisión, el proyecto de los gastos destinados a la operación del Servicio, así como los montos y las modalidades de los estímulos establecidos por este Estatuto y por los lineamientos que de él se deriven;
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-V. Operar y coordinar la implementación de los procedimientos de ingreso y movilidad, titularidad, aprendizaje y desarrollo, evaluación del desempeño, estímulos, procedimientos de revisión, licencias y separación, en los términos que ordene el presente Estatuto y los lineamientos que de él se deriven;
+###### ARTÍCULO 9.
 
-VI. Instruir al Director de Administración que expida las constancias de nombramientos de incorporación;
+El Secretario General tendrá las siguientes atribuciones:
 
-VII. Coordinar el trabajo de las diferentes unidades administrativas del Instituto para el mejor funcionamiento del Servicio, respetando lo establecido en el presente Estatuto, así como por los lineamientos que de él se deriven;
+I. Elaborar y proponer al Órgano de Gobierno:
 
-VIII. Elaborar, con base en el presente Estatuto y los lineamientos que de éste se deriven, las propuestas para el otorgamiento y seguimiento de las licencias solicitadas;
+a) El proyecto de presupuesto anual destinado a la operación del Servicio Profesional, así como los montos y las modalidades de los estímulos, observando que dicho presupuesto deberá ser congruente con la programación y planeación del Servicio Profesional para cada uno de sus subsistemas;
 
-IX. Participar, conforme a lo que establezca el presente Estatuto y sus lineamientos, en los procedimientos para el otorgamiento de licencias, a quienes ocupen puestos a partir de Jefe de Departamento y hasta Director de Area, adscritas a su Secretaría;
+b) El proyecto de Catálogo, así como sus respectivas modificaciones y actualizaciones;
 
-X. Presentar al Organo de Gobierno la propuesta de modificaciones a la estructura orgánica del Instituto;
+c) El informe anual sobre el estado que guarde el Servicio Profesional; y
 
-XI. Autorizar y registrar las propuestas de cambios de adscripción de los puestos del Servicio adscritos a la Secretaría Ejecutiva y llevar a cabo el registro de las propuestas autorizadas por la Secretaría de Acuerdos, y
+d) Las reglas específicas relativas a la operación del servicio profesional consistentes en los proyectos de lineamientos que se deriven del Estatuto.
 
-XII. Las demás que, de conformidad con este Estatuto, los lineamientos, la disposición presupuestaria y demás normatividad aplicable, se consideren necesarios para el correcto funcionamiento de la gestión y administración del Servicio.
+En el ejercicio de esta atribución, el Secretario General podrá tomar conocimiento de la opinión de los Secretarios de Acceso a la Información y de Protección de Datos Personales.
 
-###### ARTICULO 11.
+II. Elaborar y proponer a la Comisión Supervisora los proyectos de modificación del Estatuto, tomando en consideración la opinión de los Secretarios de Acceso a la Información y de Protección de Datos Personales;
 
-Para el mejor cumplimiento de sus atribuciones, el Secretario Ejecutivo contará con la colaboración de la Dirección de Administración.
+III. Participar y contribuir en el desempeño de las atribuciones de la Comisión Supervisora en calidad de Secretario Técnico;
 
-###### ARTICULO 12.
+IV. Coordinar la implementación de los procedimientos de ingreso y movilidad, aprendizaje y desarrollo, evaluación del desempeño, otorgamiento de estímulos, otorgamiento de licencias, procedimiento de revisión de resultados, así como el procedimiento para la separación de los miembros del Servicio Profesional, en los términos que ordene el presente Estatuto y los lineamientos que de él se deriven;
 
-El Secretario de Acuerdos tendrá las siguientes atribuciones:
+V. Instruir al Director General de Administración que expida las constancias de nombramiento;
 
-I. Participar y contribuir en el desempeño de las atribuciones de la Comisión;
+VI. Coordinar el trabajo de las diferentes unidades administrativas del Instituto para el mejor funcionamiento del Servicio Profesional, en colaboración con los Secretarios de Acceso a la Información y de Protección de Datos Personales, según sea el caso;
 
-II. Proponer a la Comisión modificaciones al Estatuto así como a los lineamientos para la gestión de los procedimientos del Servicio, en función de las necesidades y propósitos del Instituto, así como de la disponibilidad presupuestaria;
+VII. Aprobar el otorgamiento y seguimiento de las licencias solicitadas por los directores de área, subdirectores de área y jefes de departamento, a propuesta de los Secretarios de Acceso a la Información y de Protección de Datos Personales, según sea el caso;
 
-III. Autorizar las propuestas de cambios de adscripción de los puestos del Servicio adscritos a la Secretaría de Acuerdos;
+VIII. Proponer los cambios de adscripción de los miembros del Servicio Profesional a la Comisión Supervisora y llevar el registro correspondiente; y
 
-IV. Participar, conforme a lo que establezca el presente Estatuto y sus lineamientos, en los procedimientos para el otorgamiento de licencias, a quienes ocupen puestos a partir de Jefe de Departamento y hasta Director de Area, adscritas a su Secretaría, y
+IX. Las demás que, de conformidad con este Estatuto, los lineamientos y la disposición presupuestaria, se le concedan expresamente para el correcto funcionamiento de la gestión y administración del Servicio Profesional.
 
-V. Las demás que, en el ámbito de su competencia, sean necesarias para el adecuado funcionamiento del Servicio y para el cumplimiento de las disposiciones de este Estatuto.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-### CAPITULO TERCERO. DE LA ORGANIZACION DEL SERVICIO PROFESIONAL
+###### ARTÍCULO 10.
 
-###### ARTICULO 13.
+Los Secretarios de Acceso a la Información y de Protección de Datos Personales tendrán las siguientes atribuciones:
 
-La Dirección de Administración tendrá las siguientes atribuciones:
+I. Brindar opinión al Secretario General en la formulación de las propuestas de:
 
-I. Planear, organizar, coordinar y desarrollar el Servicio, en los términos previstos en el presente Estatuto;
+a) Modificación del presente Estatuto;
+
+b) El proyecto de presupuesto anual destinado a la operación del Servicio Profesional, así como los montos y las modalidades de los estímulos, observando que dicho presupuesto sea congruente con la programación y planeación del Servicio Profesional para cada uno de sus subsistemas;
+
+c) El proyecto del Catálogo, así como sus respectivas modificaciones y actualizaciones;
+
+d) El informe anual sobre el estado que guarde el Servicio Profesional;
+
+e) Las reglas específicas relativas a la operación del servicio profesional consistentes en los proyectos de lineamientos que se deriven del Estatuto.
+
+II. Apoyar al Secretario General en la implementación de los procedimientos de ingreso y movilidad, aprendizaje y desarrollo, evaluación del desempeño, otorgamiento de estímulos, otorgamiento de licencias, procedimiento de revisión de resultados, así como el procedimiento para la separación de los miembros del Servicio Profesional, dentro de las unidades administrativas bajo su adscripción para el mejor funcionamiento del Servicio Profesional;
+
+III. Formular al Secretario General las propuestas para el otorgamiento y seguimiento de las licencias o readscripción solicitadas por los directores generales, directores de área, subdirectores de área y jefes de departamento que se encuentren bajo su adscripción;
+
+IV. Las demás que, de conformidad con este Estatuto, los lineamientos y la disposición presupuestaria se le concedan expresamente para el correcto funcionamiento de la gestión y administración del Servicio Profesional.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 11.
+
+Para el mejor cumplimiento de sus atribuciones, el Secretario General se auxiliará por el Director General de Administración.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 12.
+
+La Dirección General de Administración tendrá las siguientes atribuciones:
+
+I. Planear, organizar, coordinar y desarrollar el Servicio Profesional, en los términos previstos en el presente Estatuto;
 
 II. Operar las funciones específicas en materia de gestión y administración del Servicio;
 
-III. Elaborar estudios, proyectos de lineamientos y propuestas de reformas a los instrumentos aplicables, y
+III. Elaborar estudios, proyectos de lineamientos y propuestas de modificación a los instrumentos aplicables;
 
-IV. Expedir, previa instrucción del Secretario Ejecutivo, las constancias de nombramientos de incorporación.
+IV. Expedir, previa instrucción del Secretario General, las constancias de nombramiento como miembro titular del Servicio Profesional; y,
 
-###### ARTICULO 14.
+V. Las demás que, de conformidad con este Estatuto, los lineamientos y la disposición presupuestaria, se le concedan expresamente para el correcto funcionamiento de la gestión y administración del Servicio Profesional.
 
-Para la gestión y administración del Servicio, el Instituto definirá y expedirá los Lineamientos necesarios, de conformidad con lo dispuesto en el presente Estatuto, contando de manera enunciativa y no limitativa, con los siguientes instrumentos:
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-I. Catálogo de funciones y puestos;
+### CAPÍTULO TERCERO. DE LA ORGANIZACIÓN DEL SERVICIO PROFESIONAL
 
-II. Tabulador de sueldos, emitido por la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-III. Lineamientos para el ingreso y la movilidad;
+###### ARTÍCULO 13.
 
-IV. Lineamientos para el aprendizaje y desarrollo;
+El Órgano de Gobierno definirá y expedirá los instrumentos jurídicos necesarios para la gestión y administración del Servicio Profesional, entre los que se cuentan, de manera enunciativa más no limitativa, los siguientes:
 
-V. Lineamientos para la evaluación del desempeño;
+I. Catálogo General de Funciones y Puestos;
 
-VI. Lineamientos para el otorgamiento de estímulos y reconocimientos;
+II. Lineamientos para el ingreso y la movilidad;
 
-VII. Lineamientos para presentación de procedimientos de revisión de resultados;
+III. Lineamientos para el aprendizaje y desarrollo;
 
-VIII. Lineamientos para otorgar licencias, y
+IV. Lineamientos para la evaluación del desempeño;
 
-IX. Lineamientos para que los nombramientos dejen de surtir efectos y se termine la relación laboral, sin responsabilidad para el Instituto.
+V. Lineamientos para el otorgamiento de estímulos;
 
-###### ARTICULO 15.
+VI. Lineamientos para presentación de procedimientos de revisión de resultados;
 
-El Instituto contará con los recursos humanos necesarios para el desempeño de sus funciones de conformidad con el artículo 34 de la Ley. Para ello el Instituto se dotará de un Catálogo en el que se precisen las funciones y los perfiles de todos los puestos.
+VII. Lineamientos para otorgar licencias;
 
-###### ARTICULO 16.
+VIII. Lineamientos para la separación de los miembros del Servicio Profesional, y
 
-El Catálogo deberá seguir los siguientes criterios generales:
+IX. Los demás que se estimen necesarios diseñar para la óptima operación y gestión del Servicio Profesional.
 
-I. Organizará las responsabilidades, tareas y actividades establecidas por la Ley, el Reglamento Interior del Instituto, el Estatuto, los Lineamientos y las demás disposiciones normativas aplicables, de conformidad con la estructura orgánica del mismo;
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-II. Determinará las funciones que corresponden a cada una de las áreas del Servicio que componen la estructura orgánica del Instituto;
+###### ARTÍCULO 14.
 
-III. Determinará los puestos responsables de cumplir con las funciones previamente definidas, y
+El Instituto contará con los recursos humanos necesarios para el desempeño de sus funciones, para lo cual se dotará de un Catálogo General de Funciones y Puestos en el que se precisen las funciones, perfiles, clasificación e identificación de todos los puestos.
 
-IV. Establecerá los perfiles de conocimientos y las capacidades exigidas a los miembros del Servicio que ocupen los puestos.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 17.
+###### ARTÍCULO 15.
 
-Para cumplir con los criterios anteriores el Catálogo deberá contener al menos los siguientes elementos:
+El Catálogo determinará:
 
-I. Identificación de los puestos;
+I. Las responsabilidades, tareas y actividades establecidas por la Ley de (sic) Federal de Transparencia y Acceso a la Información Pública Gubernamental, la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, el Reglamento Interior del Instituto y el Estatuto, de conformidad con la estructura orgánica del Instituto;
 
-II. Responsabilidad de cada puesto;
+II. Las funciones que corresponden a cada una de las áreas que conforman la estructura orgánica del Instituto;
 
-III. Clasificación y agrupación de puestos por rama, tipo de actividad, nivel y función, y
+III. Las funciones que corresponden a cada uno de los puestos de la estructura orgánica; y
 
-IV. Cédulas de identificación por cada uno de los puestos, en las que se precisará:
+IV. Los perfiles de conocimientos y las capacidades exigidas a los servidores públicos que ocupen los puestos.
 
-a. Denominación del puesto;
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-b. Nivel jerárquico;
+###### ARTÍCULO 16.
 
-c. Clave presupuestal;
+Para cumplir con los criterios anteriores el Catálogo deberá contener al menos los siguientes elementos para cada uno de los puestos:
 
-d. Area de adscripción;
+I. Identificación;
 
-e. Tipo de puesto;
+II. Responsabilidad;
 
-f. Objetivo;
+III. Clasificación y agrupación por rama, tipo de actividad, nivel y función, y
 
-g. Descripción general de las funciones;
+IV. Cédulas de identificación en las que se precisen:
 
-h. Relaciones de autoridad y comunicación con puestos superiores, similares y subordinados, y
+a) Denominación del puesto;
 
-i. Descripción de requisitos mínimos, entre ellos los conocimientos y las capacidades necesarias, que se deberán acreditar para su ocupación.
+b) Grupo jerárquico;
 
-### CAPITULO CUARTO. DE LOS NOMBRAMIENTOS, LOS DERECHOS Y LAS OBLIGACIONES DE LOS MIEMBROS DEL SERVICIO PROFESIONAL
+c) Clave presupuestal;
 
-###### ARTICULO 18.
+d) Área de adscripción;
 
-No serán puestos del Servicio los siguientes:
+e) Tipo de puesto;
 
-I. Comisionados y el personal adscrito a cada una de las ponencias;
+f) Objetivo;
 
-II. Secretario de Acuerdos y el personal adscrito a su oficina;
+g) Descripción general de las funciones y,
 
-III. Secretario Ejecutivo y el personal adscrito a su oficina, con excepción del Director de Asuntos Internacionales y el personal adscrito a este último;
+h) Cadena de mando.
 
-IV. Director General de Administración y el Director de Desarrollo Humano y Organizacional;
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-V. Titular del Organo Interno de Control, Titular del Area de Auditoría de Control y Evaluación y Titular del Area de Auditoría Interna, Titular del Area de Responsabilidades y Titular del Area de Quejas, de conformidad con lo señalado en el artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal y en el Reglamento Interior de la Secretaría de la Función Pública, además del personal adscrito a éstos, los cuales son ocupados por designación directa, y
+###### ARTÍCULO 17.
 
-VI. Los enlaces de alto nivel, adscritos a direcciones generales.
+Los perfiles de los puestos deben contener al menos los siguientes elementos:
 
-###### ARTICULO 19.
+I. Escolaridad y áreas de conocimiento;
 
-El Secretario Ejecutivo, previa aprobación de la Comisión, presentará al Organo de Gobierno la propuesta de modificaciones a la estructura orgánica del Instituto, que implique supresión o modificación de puestos o unidades administrativas.
+II. Experiencia laboral;
 
-###### ARTICULO 20.
+III. Requerimientos o condiciones específicos para el desempeño del puesto; y
 
-Como consecuencia de las modificaciones a la estructura orgánica del Instituto, los miembros del Servicio podrán ser readscritos a otros puestos del mismo nivel jerárquico.
+IV. Competencias, habilidades o capacidades.
 
-###### ARTICULO 21.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-Los miembros del Servicio serán considerados de confianza y gozarán de las prestaciones señaladas en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de conformidad con la fracción XIV apartado “B” del artículo 123 Constitucional, así como las demás a que se refiere el presente ordenamiento.
+### CAPÍTULO CUARTO. DE LOS NOMBRAMIENTOS, LOS DERECHOS Y LAS OBLIGACIONES DE LOS MIEMBROS DEL SERVICIO PROFESIONAL
 
-###### ARTICULO 22.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-Una vez oficializada el alta correspondiente, previo cumplimiento de los procedimientos aprobados para el ingreso, el Director de Administración deberá expedir una constancia de nombramiento como miembro titular del Servicio donde se detallen las remuneraciones que le serán asignadas, de conformidad con el Manual de Percepciones de la Administración Pública Federal.
+###### ARTÍCULO 18.
 
-## TITULO SEGUNDO. DEL SERVICIO PROFESIONAL EN EL INSTITUTO
+Una vez oficializada el alta correspondiente, previo cumplimiento de los Lineamientos aprobados para el ingreso y la movilidad, el Director General de Administración deberá expedir una constancia de nombramiento como miembro titular del Servicio Profesional, donde se detallen las remuneraciones que le serán asignadas, de conformidad con el Manual de Percepciones.
 
-### CAPITULO PRIMERO. DEL INGRESO Y LA MOVILIDAD
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 23.
+###### ARTÍCULO 19.
 
-Los miembros del Servicio tendrán los siguientes derechos:
+Los miembros del Servicio Profesional tendrán los siguientes derechos:
 
-I. Recibir nombramiento como miembro titular, cuando se trate de los servidores públicos que hayan ingresado al IFAI, previo a la entrada en vigor del presente Estatuto, así como al personal de nuevo ingreso que resulte ganador en algún concurso de incorporación;
+I. Recibir nombramiento como miembro titular, cuando se trate de servidores públicos que hayan ingresado al Instituto, previo a la entrada en vigor del presente Estatuto, así como al personal de nuevo ingreso que resulte ganador en algún concurso de oposición;
 
-II. Recibir las remuneraciones correspondientes al puesto, además de los estímulos y reconocimientos anuales a que se haga acreedor en razón de su desempeño, en los términos previstos para tal efecto en el sistema correspondiente;
+II. Recibir las remuneraciones correspondientes al puesto, además de los estímulos a que se hagan acreedores en razón de su desempeño, en los términos previstos para tal efecto en el presente Estatuto y en los lineamientos correspondientes;
 
 III. Gozar del desarrollo profesional y sus condiciones de continuidad, en los términos señalados por este Estatuto y sus lineamientos;
 
-IV. Concursar por puestos de mayor nivel, siempre que se cumplan los requisitos correspondientes y de conformidad con los lineamientos aplicables;
+IV. Participar en el programa de aprendizaje y desarrollo para acrecentar sus destrezas y habilidades, de acuerdo a la planeación estratégica del Instituto;
 
-V. Conocer el resultado de los concursos en que haya participado para ocupar otro puesto;
+V. Concursar por puestos de mayor nivel, siempre que cumplan los requisitos correspondientes y de conformidad con los lineamientos aplicables;
 
-VI. Ser evaluado anualmente en el desempeño de su cargo, de conformidad con los principios rectores del Servicio, con la periodicidad que determine el órgano competente;
+VI. Conocer el resultado de los concursos de oposición en que hayan participado para ocupar otro puesto;
 
-VII. Recibir estímulos o reconocimientos en razón de su desempeño, en los términos previstos para tal efecto en el presente Estatuto, los lineamientos aplicables y la disponibilidad presupuestaria;
+VII. Ser evaluados anualmente en el desempeño de sus funciones, de conformidad con los principios rectores del Servicio Profesional;
 
 VIII. Conocer los resultados de su evaluación anual del desempeño, las calificaciones obtenidas en el programa de aprendizaje y desarrollo, y los criterios para el otorgamiento o negación de estímulos, en los términos señalados por este ordenamiento y los lineamientos aplicables;
 
-IX. Tener acceso a la información contenida en su expediente personal y contribuir a su actualización;
+IX. Recibir estímulos en razón de un desempeño sobresaliente, en los términos previstos para tal efecto en el presente Estatuto, los lineamientos aplicables y la disponibilidad presupuestaria;
 
-X. Inconformarse ante los órganos o autoridades correspondientes del Instituto, en contra de los actos o resoluciones que considere le causen agravio en su relación laboral, de conformidad con las disposiciones del presente Estatuto y demás disposiciones reglamentarias aplicables;
+X. Inconformarse ante los órganos o autoridades correspondientes del Instituto, en contra de los actos o resoluciones que consideren les causen agravio en su relación laboral, de conformidad con las disposiciones del presente Estatuto y demás disposiciones reglamentarias aplicables;
 
-XI. Obtener licencia en los términos previstos en este Estatuto, siempre y cuando cumpla con los requisitos establecidos para tal efecto;
+XI. Obtener licencia en los términos previstos en este Estatuto, siempre y cuando cumplan con los requisitos establecidos para tal efecto;
 
-XII. Reincorporarse al Servicio, una vez concluido el periodo de licencia o permiso;
+XII. Reincorporarse al Servicio Profesional, una vez concluido el periodo de licencia;
 
-XIII. Los demás que deriven de los preceptos del presente ordenamiento, sus lineamientos y otras disposiciones aplicables.
+XIII. Reingresar al Servicio Profesional en caso de haber desempeñado un puesto de la rama administrativa y no haber interrumpido la relación laboral con el Instituto; y
 
-###### ARTICULO 24.
+XIV. Los demás que deriven del presente ordenamiento, sus lineamientos y otras disposiciones aplicables.
 
-Para los efectos del presente Estatuto los miembros del Servicio tendrán las siguientes obligaciones:
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-I. Aprobar las evaluaciones anuales del desempeño, en los términos que ordene el presente Estatuto y los lineamientos aplicables;
+###### ARTÍCULO 20.
 
-II. Acreditar los cursos derivados del programa de aprendizaje y desarrollo, conforme a las disposiciones del presente Estatuto y sus lineamientos aplicables;
+Para los efectos del presente Estatuto los miembros del Servicio Profesional tendrán las siguientes obligaciones, en los términos que establezcan el propio Estatuto y los lineamientos aplicables:
 
-III. Coadyuvar al cumplimiento de los fines institucionales;
+I. Aprobar las evaluaciones anuales del desempeño;
 
-IV. Observar y hacer cumplir las disposiciones de orden jurídico, técnico y administrativo que emitan los órganos competentes del Instituto;
+II. Acreditar los cursos derivados del programa de aprendizaje y desarrollo;
 
-V. Desempeñar sus labores con profesionalismo y responsabilidad, observando las instrucciones que reciban de sus superiores jerárquicos;
+III. Presentar oportunamente el informe final y sus documentos anexos derivado de las actividades académicas realizadas con motivo del otorgamiento de una licencia sin goce de sueldo;
 
-VI. Entregar la documentación comprobatoria que le sea solicitada por las unidades administrativas correspondientes para efectos de su relación laboral con el Instituto, y actualizarla oportunamente;
+IV. Contribuir al cumplimiento de los fines institucionales;
 
-VII. Dar cabal cumplimiento a las funciones o comisiones de trabajo que se le encomienden, en el lugar, periodo y área de adscripción que establezca la autoridad competente;
+V. Observar y hacer cumplir las disposiciones de orden jurídico, técnico y administrativo que emitan los órganos competentes del Instituto;
 
-VIII. Proveer, al servidor público que se designe para suplirlo en sus ausencias temporales por incapacidad médica o licencia, la información y documentación necesarias;
+VI. Desempeñar sus labores con profesionalismo, responsabilidad y honestidad, al observar las instrucciones que reciban de sus superiores jerárquicos;
 
-IX. Mantener una relación de respeto y rectitud con sus superiores jerárquicos, compañeros, subordinados, así como con los usuarios de los servicios que preste el Instituto;
+VII. Entregar y actualizar oportunamente la documentación comprobatoria que le sea solicitada por la Dirección General de Administración, con respecto a su relación laboral con el Instituto;
 
-X. Abstenerse de incurrir en actos u omisiones que pongan en riesgo la seguridad del personal, bienes y documentación u objetos del Instituto o de las personas;
+VIII. Dar cabal cumplimiento a las funciones o comisiones de trabajo que se le encomienden, en el lugar, periodo y área de adscripción que establezca la autoridad competente;
 
-XI. Participar, a solicitud de las autoridades correspondientes, en programas y proyectos que el Instituto lleve a cabo con otras instituciones, de conformidad con los convenios que para el efecto se celebren;
+IX. Proveer la información y documentación necesarias para el correcto desempeño de sus funciones, al servidor público que se designe para suplirlo en sus ausencias temporales por incapacidad médica o licencia;
 
-XII. Cumplir con las condiciones del desarrollo profesional dispuestas por este Estatuto, y
+X. Mantener una relación de respeto y rectitud con sus superiores jerárquicos, compañeros, subordinados, así como con los usuarios de los servicios que preste el Instituto;
 
-XIII. Las demás que le imponga el Estatuto y los otros ordenamientos aplicables.
+XI. Abstenerse de incurrir en actos u omisiones que pongan en riesgo la seguridad del personal, bienes y documentación u objetos del Instituto o de las personas;
 
-###### ARTICULO 25.
+XII. Participar, a solicitud de las autoridades correspondientes, en programas y proyectos que el Instituto lleve a cabo con otras instituciones, de conformidad con los convenios que para tal efecto se celebren;
 
-Se dejará de pertenecer al Servicio cuando:
+XIII. Cumplir con las condiciones del desarrollo profesional dispuestas por este Estatuto;
 
-I. Sea nombrado en un cargo que no pertenezca al Servicio, de conformidad con lo señalado en el artículo 18 de este Estatuto;
+XIV. Cumplir en todo momento en el ámbito laboral con lo señalado en el Código de Conducta de los Servidores Públicos del IFAI; y
 
-II. No apruebe dos evaluaciones del desempeño;
+XV. Las demás que les impongan el presente Estatuto y los demás ordenamientos aplicables.
 
-III. No acredite las horas de capacitación anuales establecidas en el Estatuto y/o en los lineamientos que de éste se deriven;
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-IV. Incumpla las obligaciones inherentes a su cargo, las establecidas en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos o las establecidas en este Estatuto y en las disposiciones reglamentarias derivadas del mismo, y dicho incumplimiento tenga como sanción la destitución en el cargo que ocupa.
+###### ARTÍCULO 21.
 
-###### ARTICULO 26.
+La antigüedad de los miembros del Servicio Profesional se computará a partir de la fecha en que hayan ingresado al mismo.
 
-Para efectos laborales la antigüedad se computará a partir de la fecha en que hayan ingresado al Instituto.
+La antigüedad de los miembros del Servicio Profesional seguirá acumulándose en el caso que pasen a formar parte del personal de la rama administrativa del Instituto, siempre y cuando no se interrumpa la relación laboral.
 
-###### ARTICULO 27.
+Del mismo modo, se conservará y volverá a computarse la antigüedad de los miembros del Servicio Profesional que hayan interrumpido su relación laboral con el Instituto y reingresen a laborar en las plazas sujetas al Servicio Profesional.
 
-El carácter de miembro del Servicio será incompatible con el ejercicio de cualquier otro cargo, empleo, comisión o actividad que impida o menoscabe el cumplimiento de los objetivos del Servicio.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 28.
+###### ARTÍCULO 22.
 
-El ingreso es el procedimiento a través del cual se selecciona al personal idóneo para ocupar puestos vacantes de la estructura, de conformidad con lo establecido en el presente ordenamiento y los Lineamientos que para tal efecto emita el Organo de Gobierno.
+El carácter de miembro del Servicio Profesional será incompatible con el ejercicio de cualquier otro cargo, empleo, comisión o actividad, con excepción de las actividades de capacitación o académicas que los miembros del Servicio Profesional realicen con la autorización previa, por escrito, del Secretario correspondiente, y de conformidad con los lineamientos que para tal efecto se emitan.
 
-La movilidad se refiere a los cambios de adscripción o puesto, producto de la generación de una vacante del mismo nivel o del ascenso por concurso a un puesto superior.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 29.
+## TÍTULO SEGUNDO. DEL SERVICIO PROFESIONAL EN EL INSTITUTO
 
-El concurso de oposición será la vía para la selección y ocupación de puestos. En casos excepcionales cuando existan vacantes en virtud de licencias autorizadas, el Secretario Ejecutivo autorizará nombramientos temporales con vigencia máxima de un año, sin llevar a cabo un concurso de oposición, en los términos del presente Estatuto y de los lineamientos aplicables.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 30.
+### CAPÍTULO PRIMERO. DEL INGRESO Y LA MOVILIDAD
 
-Para llevar a cabo el concurso de oposición, el Secretario Ejecutivo publicará una convocatoria en la página de Internet del Instituto.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 31.
+###### ARTÍCULO 23.
 
-Los concursos de oposición por convocatoria en la página de Internet del Instituto, tendrán las siguientes etapas:
+El concurso de oposición será la vía para la selección y ocupación de puestos vacantes en el Instituto. En casos excepcionales cuando existan vacantes temporales en virtud de licencias autorizadas sin goce de sueldo, el Secretario General autorizará nombramientos temporales con vigencia máxima de un año, sin llevar a cabo un concurso de oposición, en los términos del presente Estatuto y de los lineamientos aplicables.
 
-I. Evaluación curricular de los aspirantes;
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-II. Exámenes de conocimientos generales para aspirantes que aún no formen parte del Servicio;
+###### ARTÍCULO 24.
 
-III. Exámenes de conocimientos técnico específicos o de puesto y capacidades para los cargos sujetos a concurso, y
+Para llevar a cabo el concurso de oposición, el Secretario General publicará una convocatoria en la página de Internet del Instituto.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 25.
+
+Los concursos de oposición por convocatoria en la página de Internet del Instituto, tendrán por lo menos las siguientes etapas eliminatorias:
+
+I. Evaluación curricular de los candidatos;
+
+II. Exámenes de conocimientos generales para candidatos que aún no formen parte del Servicio;
+
+III. Evaluaciones psicométricas; y
 
 IV. Entrevistas, en las que participarán servidores públicos del Instituto en los términos que establezcan los lineamientos correspondientes.
 
-###### ARTICULO 32.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-El Secretario Ejecutivo tomará en cuenta la opinión que formulen las unidades administrativas del Instituto donde se encuentren adscritos los puestos sujetos a concurso, sobre el contenido, guía de estudios y modalidad de los exámenes; también podrá apoyarse en asesores o empresas externas especializadas para la elaboración y calificación de exámenes, sujetándose al ordenamiento jurídico aplicable.
+###### ARTÍCULO 26.
 
-### CAPITULO SEGUNDO. DEL APRENDIZAJE Y EL DESARROLLO
+El Secretario General tomará en cuenta la opinión que formulen los secretarios de Acceso a la Información y de Protección de Datos Personales, así como los titulares de las unidades administrativas del Instituto donde se encuentre adscrito el puesto vacante sujetos (sic) a concurso, sobre el contenido, guía de estudios y modalidad de los exámenes. También podrá apoyarse en asesores o empresas externas especializadas para llevar a cabo los concursos de oposición señaladas en el artículo 25 del presente Estatuto, sujetándose al ordenamiento jurídico aplicable.
 
-###### ARTICULO 33.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-Para ingresar u ocupar un puesto del Servicio los aspirantes deberán cumplir con los siguientes requisitos:
+###### ARTÍCULO 27.
 
-I. Contar con identificación oficial vigente;
+Para pertenecer al Servicio Profesional del Instituto los candidatos deberán cumplir con los siguientes requisitos:
 
-II. No estar inhabilitado para el servicio público, ni encontrarse con algún otro impedimento legal;
+I. Ser ciudadano mexicano con pleno ejercicio de sus derechos o extranjero cuya calidad migratoria permita la función a desarrollar;
 
-III. Cubrir el perfil del puesto, y
+II. Acreditar su identidad mediante una identificación oficial vigente;
 
-IV. Acreditar las etapas establecidas en la convocatoria correspondiente.
+III. No estar inhabilitado para el servicio público, ni encontrarse con algún otro impedimento legal;
 
-###### ARTICULO 34.
+IV. Cubrir el perfil del puesto; y
 
-No habrá ninguna discriminación, ni limitación, por razón de género, edad, religión, estado civil, origen étnico, preferencia sexual, condición social, física o de salud, siempre y cuando una determinada condición no sea impedimento para el desempeño del puesto.
+V. Acreditar las etapas establecidas del concurso en la convocatoria correspondiente.
 
-###### ARTICULO 35.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-Los concursos de oposición también serán la vía para el ascenso en la jerarquía de los puestos. Para la calificación de los resultados de los concursos, en los lineamientos que al efecto apruebe el Organo de Gobierno se establecerán los puntajes adicionales a los que tendrán derecho los miembros del Servicio en razón del puesto que ocupan, de los resultados de las evaluaciones anuales del desempeño, de su participación en el proceso de aprendizaje y desarrollo, de la antigüedad y de los méritos adicionales que se consideren pertinentes, además de lo señalado en el artículo 154 de la Ley Federal del Trabajo.
+###### ARTÍCULO 28.
 
-###### ARTICULO 36.
+No podrá existir discriminación por razón de género, edad, capacidades diferentes, condiciones de salud, religión, estado civil, origen étnico, preferencia sexual o condición social para la pertenencia al Servicio Profesional.
 
-Los miembros del Servicio podrán cambiar su adscripción a un puesto equivalente dentro del Catálogo, por solicitud propia o por necesidades del Servicio.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 37.
+###### ARTÍCULO 29.
 
-La Comisión propondrá al Organo de Gobierno, para su autorización, los casos de readscripciones de Directores Generales; por su parte, el Secretario Ejecutivo y el Secretario de Acuerdos, aprobarán las readscripciones para el resto de los puestos bajo su adscripción.
+Los concursos de oposición también serán la vía para el ascenso de los miembros del Servicio Profesional en la jerarquía inmediata superior de los puestos. Para la calificación de los resultados de los concursos, en los lineamientos que al efecto apruebe el Órgano de Gobierno, se establecerán los puntajes adicionales a los que tendrán derecho los miembros del Servicio Profesional, en razón de:
 
-### CAPITULO TERCERO. DE LA EVALUACION DEL DESEMPEÑO
+I. El puesto que ocupan;
 
-###### ARTICULO 38.
+II. Los resultados obtenidos en las evaluaciones anuales del desempeño;
 
-En los lineamientos sobre ingreso y movilidad que apruebe el Organo de Gobierno, además de lo que ha sido previsto en los artículos del presente capítulo, deberán establecerse criterios, entre otros, para:
+III. Los resultados obtenidos en el proceso de aprendizaje y desarrollo;
 
-I. La realización de nombramientos temporales;
+IV. La antigüedad y los méritos adicionales que se consideren pertinentes; y
 
-II. La emisión y difusión de la convocatoria en la página de Internet del Instituto;
+V. El contenido del párrafo primero del artículo 154 de la Ley Federal del Trabajo.
 
-III. La consideración de méritos extraordinarios del Personal del Instituto que participe en los procesos para ocupación de puestos vacantes del Servicio;
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-IV. La definición de empates en las etapas del concurso;
+###### ARTÍCULO 30.
+
+Como consecuencia de las modificaciones a la estructura orgánica del Instituto, los miembros del Servicio Profesional podrán ser readscritos a otros puestos del mismo nivel jerárquico y a otras unidades administrativas del propio Servicio Profesional.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 31.
+
+La Comisión Supervisora aprobará las readscripciones de directores generales, directores de área, subdirectores de área y jefes de departamento propuestas por el Secretario General tras consulta con los Secretarios de Acceso a la Información y de Protección de Datos Personales cuando así corresponda.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 32.
+
+En los lineamientos sobre ingreso y movilidad que apruebe el Órgano de Gobierno, además de lo previsto en los artículos del presente capítulo, deberán establecerse criterios y procedimientos, entre otros, para:
+
+I. La autorización de nombramientos temporales;
+
+II. La emisión y difusión de la convocatoria en la página de internet del Instituto;
+
+III. La consideración de méritos extraordinarios de los miembros del Servicio Profesional que participen en los procesos para la ocupación de puestos vacantes del Servicio;
+
+IV. La disolución de empates en las etapas de los concursos de oposición;
 
 V. La integración de las guías de estudio y la elaboración de los exámenes y entrevistas del concurso, así como los criterios de calificación, y
 
 VI. La recepción y dictamen de solicitudes de readscripción.
 
-###### ARTICULO 39.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-El procedimiento de aprendizaje y desarrollo es el conjunto de actividades destinadas a adquirir, desarrollar y actualizar los conocimientos y las capacidades necesarias para el desempeño de sus funciones y para mejorar la calidad de los servicios ofrecidos por el Instituto en su conjunto.
+### CAPÍTULO SEGUNDO. DEL APRENDIZAJE Y EL DESARROLLO
 
-###### ARTICULO 40.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-La calificación mínima aprobatoria es de 60 puntos sobre 100 y deberán cumplir con cincuenta horas al año de capacitación como mínimo en los cursos de capacitación y actualización profesional, determinados en los lineamientos aplicables, conforme a la propuesta presentada por la Comisión.
+###### ARTÍCULO 33.
 
-###### ARTICULO 41.
+El programa de aprendizaje y desarrollo es el conjunto de actividades destinadas a adquirir, desarrollar y actualizar los conocimientos y las capacidades necesarias para el desempeño de las funciones de los miembros del Servicio Profesional y para mejorar la calidad de los servicios ofrecidos por el Instituto. La elaboración de este programa deberá ser congruente con las metas que determine el Instituto en su planeación estratégica y con base en las habilidades y capacidades básicas o transversales, gerenciales y técnicas o especializadas, que están especificadas en los puestos del Catálogo.
 
-La propuesta de los contenidos de los cursos de capacitación y actualización profesional que formen parte del procedimiento de aprendizaje y desarrollo, será integrada por el Secretario Ejecutivo, sobre la base de la disponibilidad presupuestaria. La aprobación final de la misma será responsabilidad de la Comisión y una vez aprobada se hará del conocimiento de los miembros del Servicio.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 42.
+###### ARTÍCULO 34.
+
+Los miembros del Servicio Profesional deberán cumplir con el mínimo de horas al año de capacitación que apruebe anualmente el Órgano de Gobierno a partir de lo establecido en los lineamientos aplicables. La calificación mínima aprobatoria en las actividades de aprendizaje es de setenta puntos en una escala de cero a cien puntos.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 35.
+
+La propuesta de los contenidos de los cursos de capacitación y actualización profesional que formen parte del programa de aprendizaje y desarrollo será aprobada por el Órgano de Gobierno, sobre la base del diagnóstico de necesidades de aprendizaje y la disponibilidad presupuestaria. Los contenidos de los cursos, una vez aprobados, se harán del conocimiento de los miembros del Servicio Profesional.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 36.
 
 En los lineamientos relativos al aprendizaje y desarrollo, además de lo previsto en el presente capítulo, deberán establecerse:
 
@@ -529,299 +607,279 @@ IV. Los mecanismos de notificación y revisión de calificaciones derivadas de l
 
 V. La valoración de actividades académicas externas realizadas.
 
-###### ARTICULO 43.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-La autorización de las acciones de capacitación externa para la actualización o especialización de las capacidades técnicas específicas del puesto que ocupen, estará sujeta a las modalidades, costos y requisitos establecidos en los lineamientos que para tal efecto emita el Organo de Gobierno.
+###### ARTÍCULO 37.
 
-###### ARTICULO 44.
+La autorización de las acciones de capacitación externa distinta a la prevista en el programa de aprendizaje y desarrollo, para la actualización o especialización de las capacidades técnicas específicas del puesto que ocupen los miembros del Servicio Profesional, estará sujeta a las modalidades, costos y requisitos establecidos en los lineamientos que para tal efecto emita el Órgano de Gobierno.
 
-El procedimiento de evaluación del desempeño tiene por objeto medir la calidad del rendimiento, a través de un grupo de indicadores previamente definido al periodo que será evaluado para cada uno de los puestos del Servicio.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 45.
+### CAPÍTULO TERCERO. DE LA EVALUACIÓN DEL DESEMPEÑO
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 38.
+
+El procedimiento de evaluación del desempeño tiene por objeto medir la calidad del rendimiento en las actividades laborales, a través de un grupo de indicadores previamente definido, al periodo que será evaluado para cada uno de los puestos del Servicio Profesional.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 39.
 
 La evaluación del desempeño tendrá los siguientes propósitos:
 
 I. Valorar el cumplimiento de metas y la obtención de resultados;
 
-II. Incentivar el trabajo en equipo;
+II. Estimular el trabajo en equipo;
 
-III. Determinar el otorgamiento de estímulos y reconocimientos anuales;
+III. Fomentar el liderazgo en el ámbito de su responsabilidad;
 
-IV. Aportar información para mejorar el funcionamiento institucional en términos de eficiencia, efectividad y calidad en los servicios ofrecidos por el Instituto;
+IV. Determinar el otorgamiento de estímulos;
 
-V. Detectar necesidades de formación a nivel institucional, por área y por puesto, e
+V. Aportar información para mejorar el funcionamiento institucional en términos de eficiencia, efectividad y calidad en los servicios ofrecidos por el Instituto;
 
-VI. Identificar los desempeños insuficientes, para establecer medidas correctivas.
+VI. Detectar necesidades de formación y desarrollo a nivel institucional, por área y por puesto, e
 
-### CAPITULO CUARTO. DE LOS ESTIMULOS
+VII. Identificar los desempeños insuficientes, para establecer medidas correctivas.
 
-###### ARTICULO 46.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-En el marco del procedimiento de evaluación del desempeño, el diseño de los indicadores deberá basarse en los resultados que se esperan de cada puesto, a partir de los propósitos generales de la estructura orgánica, los planes de trabajo individuales y las aportaciones de los miembros del Servicio al trabajo en equipo. Para la elaboración del procedimiento y de sus indicadores, el Secretario Ejecutivo propondrá al Organo de Gobierno, para su autorización correspondiente, los lineamientos específicos.
+###### ARTÍCULO 40.
 
-###### ARTICULO 47.
+En el marco del procedimiento de evaluación del desempeño, el diseño de los indicadores deberá basarse en los resultados que se esperan de cada puesto, a partir de los propósitos generales de la estructura orgánica, los planes de trabajo individuales y las aportaciones de los miembros del Servicio Profesional al trabajo en equipo. Para la elaboración del procedimiento y sus indicadores, el Órgano de Gobierno autorizará los lineamientos específicos.
 
-Conforme a las modalidades establecidas en los lineamientos correspondientes, los indicadores de desempeño podrán ser revisados y ajustados cuando así lo exijan las necesidades del Instituto y se informe previamente a los miembros del Servicio cuya evaluación resultara afectada. En ese proceso de ajuste y revisión podrán participar las unidades administrativas del Instituto, bajo la coordinación del Secretario Ejecutivo. Las modificaciones y ajustes serán autorizados por el Organo de Gobierno, a propuesta del Secretario Ejecutivo, previa aprobación de la Comisión.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 48.
+###### ARTÍCULO 41.
 
-Los miembros del Servicio tendrán derecho a conocer oportunamente los indicadores y las ponderaciones con las que será evaluado su trabajo, así como los resultados específicos y las razones fundadas y motivadas por las que se les otorga una determinada calificación.
+Conforme a las modalidades establecidas en los lineamientos correspondientes, los indicadores de desempeño podrán ser revisados y ajustados cuando así lo exijan las necesidades del Instituto y se informe previamente a los miembros del Servicio Profesional, cuya evaluación resulte afectada. En ese proceso de ajuste y revisión podrán participar las unidades administrativas del Instituto, bajo la coordinación del Secretario General y con el apoyo de los Secretarios de Acceso a la Información y de Protección de Datos Personales. Las modificaciones y ajustes serán autorizados por el Órgano de Gobierno.
 
-### CAPITULO QUINTO. DEL PROCEDIMIENTO DE REVISION
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 49.
+###### ARTÍCULO 42.
 
-Las evaluaciones anuales del desempeño deberán aprobarse con un mínimo de 60 puntos, en una escala de 0 a 100 puntos. Los miembros del Servicio que no logren obtener la calificación mínima aprobatoria serán sujetos a un procedimiento de seguimiento especial que se aplicará durante el semestre posterior al ejercicio evaluado.
+Los miembros del Servicio Profesional tendrán derecho a conocer oportunamente los indicadores, instrumentos y ponderaciones con las que será evaluado su trabajo, así como los resultados específicos y las razones fundadas y motivadas por las que se les otorga una determinada calificación.
 
-###### ARTICULO 50.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-Los resultados obtenidos en las evaluaciones anuales del desempeño, serán considerados en los puntajes adicionales a los que tienen derecho para participar en los concursos de oposición, en los términos señalados en los lineamientos correspondientes. Asimismo, los miembros del Servicio que hayan obtenido los resultados más altos podrán recibir estímulos y reconocimientos, en función de la disponibilidad presupuestaria del Instituto y conforme a los lineamientos específicos en la materia.
+###### ARTÍCULO 43.
 
-###### ARTICULO 51.
+Las evaluaciones anuales del desempeño deberán aprobarse con un mínimo de setenta puntos, en una escala de cero a cien puntos. Los miembros del Servicio Profesional que no logren obtener la calificación mínima aprobatoria serán sujetos a un programa de seguimiento especial que se aplicará durante el semestre posterior al ejercicio evaluado, el cual será regulado en los lineamientos correspondientes, que para tal efecto emita el Órgano de Gobierno.
 
-Además de considerar lo dispuesto en el presente capítulo, en los lineamientos que en materia de evaluación del desempeño se presenten al Organo de Gobierno para su autorización, se establecerá:
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 44.
+
+Los resultados obtenidos por los miembros del Servicio Profesional en las evaluaciones anuales del desempeño, serán considerados en los puntajes adicionales a los que tienen derecho al participar en los concursos de oposición, en los términos señalados en los lineamientos correspondientes. Asimismo, quienes hayan obtenido los resultados más altos podrán recibir estímulos, en función de la disponibilidad presupuestaria del Instituto y conforme a los lineamientos específicos en la materia.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 45.
+
+Además de considerar lo dispuesto en el presente capítulo, en los Lineamientos que en materia de evaluación del desempeño emita el Órgano de Gobierno, se establecerá:
 
 I. El contenido de los instrumentos utilizados para obtener la información pormenorizada del desempeño;
 
-II. El mecanismo y los plazos para llevar a cabo la evaluación del desempeño, y para procesar y comunicar los resultados;
+II. El mecanismo y los plazos para llevar a cabo la evaluación del desempeño, el procesamiento de la información obtenida y la notificación de los resultados;
 
-III. Los esquemas de participación de las unidades administrativas en la confección de los indicadores;
+III. Los esquemas de participación de las unidades administrativas en la elaboración de los indicadores;
 
-IV. Las formas y tiempos para la retroalimentación, respecto del diseño de indicadores y de los resultados de la evaluación;
+IV. Las formas y tiempos para la retroalimentación, respecto del diseño de indicadores y los resultados de la evaluación, y
 
-V. Los términos de la valoración de los resultados de la evaluación para efectos de seguimiento, concursos de oposición y entrega de estímulos, y
+V. Los términos de la valoración de los resultados de la evaluación para efectos de seguimiento, concursos de oposición y entrega de estímulos.
 
-VI. El procedimiento para la presentación de revisiones a los resultados.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-### CAPITULO SEXTO. DE LA SEPARACION
+### CAPÍTULO CUARTO. DE LOS ESTÍMULOS
 
-###### ARTICULO 52.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-El procedimiento de estímulos tiene el propósito de reconocer y premiar el desempeño profesional sobresaliente, la especialización de los conocimientos y las capacidades, así como las aportaciones institucionales extraordinarias que realicen, sobre la base de la disponibilidad presupuestaria anual del Instituto.
+###### ARTÍCULO 46.
 
-###### ARTICULO 53.
+Los estímulos tienen el propósito de reconocer y premiar el desempeño profesional sobresaliente, la especialización de los conocimientos y las capacidades, así como las aportaciones institucionales extraordinarias que realicen los miembros del Servicio Profesional, sobre la base de la disponibilidad presupuestaria anual del Instituto.
 
-El Organo de Gobierno autorizará, a propuesta del Secretario Ejecutivo y previa aprobación de la Comisión, los lineamientos en los que se establecerá el tipo de estímulos y reconocimientos, así como las modalidades específicas a las que se ceñirá su otorgamiento. Los estímulos en ningún caso se considerarán un ingreso fijo, regular o permanente, ni formarán parte de los salarios que perciben en forma ordinaria.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 54.
+###### ARTÍCULO 47.
 
-A partir de considerar lo dispuesto en el presente capítulo, en los lineamientos que en materia de estímulos autorice el Organo de Gobierno se establecerán:
+El Órgano de Gobierno emitirá los lineamientos en los que se establecerá el tipo de estímulos, así como las modalidades específicas a las que se ceñirá su otorgamiento. Los estímulos en ningún caso se considerarán un ingreso fijo, regular o permanente, ni formarán parte de los salarios que perciban en forma ordinaria.
 
-I. Los tipos de estímulos, entre los que podrán estar: retribuciones económicas, prestaciones extraordinarias, apoyo económico para la publicación de investigaciones en las materias a que se refiera la Ley, pago de becas para la realización de actividades académicas, así como la obtención de medallas y diplomas de reconocimiento;
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 48.
+
+A partir de considerar lo dispuesto en el presente capítulo, en los lineamientos que en materia de estímulos autorice el Órgano de Gobierno se establecerán:
+
+I. Los tipos de estímulos, entre los que podrán figurar: retribuciones económicas, prestaciones extraordinarias, apoyo económico para la publicación de investigaciones en las materias a que se refiera la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, pago de becas para la realización de actividades académicas, así como la obtención de medallas y diplomas de reconocimiento;
 
 II. Los procedimientos y requisitos específicos para acceder a los estímulos;
 
 III. El mecanismo para identificar, con objetividad y transparencia, a los merecedores de estímulos, y
 
-IV. Los plazos y requisitos para presentar la revisión de los resultados en el otorgamiento de estímulos al desempeño.
+IV. Los plazos y requisitos para presentar la revisión de los resultados en el otorgamiento de estímulos.
 
-###### ARTICULO 55.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-Los miembros del Servicio podrán interponer ante la Comisión el procedimiento de revisión en contra de los resultados de los concursos de oposición, de la capacitación y el desarrollo, de la evaluación del desempeño y de otorgamiento de estímulos.
+### CAPÍTULO QUINTO. DE LAS LICENCIAS
 
-Los candidatos externos a ocupar una plaza vacante, también podrán interponer procedimiento de revisión respecto de los resultados de los concursos de oposición.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 56.
+###### ARTÍCULO 49.
 
-El procedimiento de revisión se tramitará en los siguientes términos:
+La solicitud de licencias sin goce de sueldo para los miembros del Servicio Profesional con nivel de Director de Área, Subdirector de Área y Jefe de Departamento, deberá presentarse al Secretario General, con al menos treinta días naturales de anticipación al inicio de las actividades que la motiven y previo conocimiento de su superior jerárquico.
 
-I. Ser promovido por quien considere haber sufrido un agravio personal y directo;
+El Secretario General contará con diez días naturales para integrar el expediente y elaborar el dictamen correspondiente que conceda o niegue la licencia solicitada.
 
-II. Presentarse por escrito dentro del término de cinco días hábiles contados a partir del día siguiente de la fecha de notificación de los resultados, y
+En el caso de la solicitud de licencias sin goce de sueldo para los miembros del Servicio Profesional con nivel de Director General, el Secretario General remitirá su proyecto de dictamen correspondiente al Órgano de Gobierno, instancia que decidirá en definitiva.
 
-III. Contener el acto que se impugna, los agravios en los que se funde, los hechos controvertidos, aportando en su caso las pruebas que estime pertinentes.
+Las licencias sin goce de sueldo tendrán una duración máxima de seis meses, con posibilidad de renovación por una sola vez mediante solicitud por escrito. No se otorgará una nueva licencia sin que medien al menos tres años de labores ininterrumpidas en el Instituto.
 
-### CAPITULO UNICO. REGLAS GENERALES
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 66.
-
-Las remuneraciones de los miembros del Servicio observarán las disposiciones aplicables a la Administración Pública Federal y se sujetarán a las siguientes normas:
-
-I. Se cubrirán los salarios que efectivamente hubieran devengado;
-
-II. El pago por concepto de salario se efectuará, previa autorización del servidor público, mediante depósito en cuenta de la institución bancaria que para tal fin defina el Instituto, conforme al calendario de pagos que al efecto haya autorizado la Dirección de Administración;
-
-III. Para efectos de comprobación, se podrán consultar los comprobantes de pago de nómina en formato electrónico. Derivado de una solicitud expresa, la Dirección de Administración certificará la impresión de los comprobantes de pago correspondientes;
-
-IV. En ningún caso se realizarán pagos parciales o por periodos diferentes a los que establezca la Dirección de Administración;
-
-V. Tendrán derecho a un aguinaldo o gratificación de fin de año que se establecerá de conformidad con la Ley Federal de los Trabajadores al Servicio del Estado, con el Decreto Presidencial que para tal efecto emita el Ejecutivo Federal anualmente, así como con el Presupuesto de Egresos de la Federación;
-
-VI. Las prestaciones referidas en el Manual de Percepciones se otorgarán en razón del grupo jerárquico al que pertenezcan en la estructura organizacional definida por el Catálogo;
-
-VII. Las percepciones extraordinarias señaladas por el Manual de Percepciones, así como las indicadas por los lineamientos derivados de este Estatuto, se otorgarán de manera excepcional, previa aprobación del Organo de Gobierno;
-
-VIII. El Instituto sólo podrá hacer retenciones en los casos siguientes:
-
-a. Por concepto de pagos realizados por error debidamente comprobados;
-
-b. Por descuentos ordenados por el ISSSTE, con motivo de las obligaciones contraídas;
-
-c. Por pago de abono para cubrir préstamos provenientes del fondo de la vivienda destinados a la adquisición, construcción, reparación o mejoras de casa-habitación o pago del pasivo adquirido por estos conceptos u otro tipo de descuentos. Los descuentos deberán haber sido aceptados libremente por los miembros del servicio, y no podrán exceder del 20 por ciento de su salario;
-
-d. Por descuentos ordenados por la autoridad judicial competente para cubrir alimentos que fueran exigidos;
-
-e. Por descuentos de créditos solicitados, en el marco de un convenio de colaboración entre el Instituto y una empresa crediticia;
-
-f. Por descuentos previamente autorizados, con motivo del pago de primas de los seguros considerados en el Manual de Percepciones, así como de otros seguros y servicios que le ofrezca el IFAI.
-
-###### ARTICULO 67.
-
-Las prestaciones estarán sujetas a las siguientes normas y criterios:
-
-I. Gozarán de las prestaciones que otorga el ISSSTE, en los términos señalados por su ley;
-
-II. De conformidad con lo establecido en el Manual de Percepciones, podrán contar con un fondo de separación individualizado voluntario, que se constituirá con sus aportaciones y las del Instituto;
-
-III. De conformidad con lo establecido en el Manual de Percepciones, el Instituto les otorgará un seguro de gastos médicos mayores. El titular tendrá derecho a asegurar a su cónyuge e hijos, de acuerdo con la póliza contratada por el Instituto, cuyas características serán dadas a conocer en tiempo y forma;
-
-IV. En caso de fallecimiento, si contaba con una antigüedad mínima de 6 meses, sus familiares o quienes se hubieren hecho cargo de los gastos de inhumación, recibirán, como pago de marcha, un importe de hasta 4 meses de la percepción ordinaria mensual, que resultará de la suma aritmética de los montos correspondientes al sueldo base y a la compensación garantizada;
-
-V. La Dirección de Administración procurará la celebración de convenios de descuento al consumo con proveedores de bienes y servicios, que apoyen su salario;
-
-VI. Las prestaciones adicionales, no especificadas en el Manual de Percepciones, se otorgarán de acuerdo con los lineamientos autorizados para este efecto por el Organo de Gobierno y estarán limitados por la suficiencia presupuestal del Instituto;
-
-VII. El Instituto podrá contar con un procedimiento de otorgamiento de estímulos, adicionales a los considerados en el Manual de Percepciones, siempre y cuando estén previamente establecidos por los lineamientos derivados de este Estatuto.
-
-###### ARTICULO 68.
-
-La jornada laboral será diurna, discontinua, de 40 horas a la semana y los días de descanso semanal serán los sábados y domingos.
-
-###### ARTICULO 69.
-
-El registro de asistencia estará sujeto a las siguientes normas y criterios:
-
-I. Será obligatorio para todos, y
-
-II. Funcionará a través del Sistema de Control de Asistencia, mediante terminales enlazadas a un servidor central que habrán de estar instaladas en los accesos del inmueble del Instituto.
-
-El control y seguimiento del registro de asistencia se establecerá en los Lineamientos que al efecto emita la Dirección de Administración.
-
-###### ARTICULO 70.
-
-Se eximirá del registro de asistencia, cuando por la naturaleza de las funciones desempeñadas se requiera permanecer fuera de la oficina por un periodo determinado, o ausentarse de manera frecuente de la misma, a propuesta del jefe inmediato y con la conformidad del titular de la Unidad Administrativa.
-
-###### ARTICULO 71.
-
-Se considerará que se incurre en inasistencia cuando no se presente a laborar.
-
-La Dirección de Administración deberá informar a los titulares de las áreas sobre los casos de incidencias del personal del Servicio adscrito a las mismas, al término de cada mes.
-
-###### ARTICULO 72.
-
-Las vacaciones, días de descanso obligatorios y los días en que el Instituto suspende labores estarán sujetos a las siguientes normas y criterios:
-
-I. Se considerarán días de descanso obligatorios los que determinen las leyes aplicables y el Pleno del Instituto;
-
-II. La suspensión de labores en días distintos a los señalados, será facultad exclusiva del Pleno, quien la publicará en el Diario Oficial de la Federación;
-
-III. La Dirección de Administración será la responsable de comunicar internamente los días en que se suspenden labores, de conformidad con el calendario aprobado por el Pleno;
-
-IV. Los servidores públicos que cuenten con más de seis meses consecutivos de servicio, podrán disfrutar de vacaciones en los periodos establecidos en el Acuerdo de suspensión de labores del Instituto, aprobado por el Pleno. En dicho caso no habrá solicitud de por medio;
-
-V. Los titulares de las unidades administrativas establecerán la forma y condiciones en que deberán cubrirse las guardias para la tramitación de los asuntos urgentes. Aquellos servidores que no tengan derecho a disfrutar de vacaciones cubrirán preferentemente las guardias en sus respectivas áreas de adscripción;
-
-VI. Los días de descanso adicionales deberán solicitarse al superior jerárquico y comunicarse a la Dirección de Administración, al menos con tres días de anticipación al inicio de éstos, salvo casos debidamente justificados por el superior jerárquico;
-
-VII. De conformidad con lo establecido en el Manual de Percepciones, se recibirá una prima vacacional por cada uno de los 2 periodos vacacionales a que se tenga derecho;
-
-VIII. El importe de la prima vacacional se pagará en los términos y fechas que al efecto defina la normatividad aplicable;
-
-###### ARTICULO 73.
-
-La solicitud de licencias sin goce de sueldo deberá presentarse al Secretario Ejecutivo y al Secretario de Acuerdos, con al menos treinta días naturales de anticipación al inicio de las actividades que le motiven, previo conocimiento de su superior jerárquico. Sólo en el caso de que se ocupe un puesto de Director General, dicho plazo no deberá ser menor a cuarenta y cinco días naturales.
-
-Las licencias sin goce de sueldo tendrán una duración máxima de seis meses, con posibilidad de renovación por una sola vez mediante solicitud por escrito. No se otorgará una nueva licencia sin que medien al menos tres años de labores ininterrumpidas.
-
-###### ARTICULO 74.
+###### ARTÍCULO 50.
 
 Para solicitar licencia sin goce de sueldo, así como las demás prestaciones señaladas en este Estatuto, se deberán acreditar los siguientes requisitos:
 
-I. Tener por lo menos un año de antigüedad como miembro del Servicio;
+I. Tener por lo menos dos años de antigüedad como miembro del Servicio Profesional;
 
 II. Haber obtenido calificaciones aprobatorias en la evaluación anual del desempeño, en el año inmediato anterior a la solicitud de licencia;
 
-III. Presentar carta de exposición de motivos donde se especifique el plan o programa de actividades académicas o de investigación que realizará y el tiempo que requerirá para cumplirlas y;
+III. Presentar carta de exposición de motivos donde se especifique el plan o programa de actividades académicas o de investigación que realizará y el tiempo que requerirá para cumplirlas, y
 
 IV. Presentar carta de aceptación de la Institución en la que realizará las actividades académicas o de investigación.
 
-###### ARTICULO 75.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-Las mujeres disfrutarán de noventa días naturales de descanso con motivo de parto, a partir de la notificación a la Dirección de Administración y de la incapacidad emitida por el ISSSTE.
+###### ARTÍCULO 51.
 
-###### ARTICULO 76.
+La reincorporación al Instituto del miembro del Servicio Profesional que haya obtenido licencia sin goce de sueldo quedará sujeta al cumplimiento de los objetivos y la conclusión de las actividades para las cuales fue otorgada.
 
-Los hombres disfrutarán de cinco días hábiles de descanso con motivo del parto de su cónyuge, para el cuidado del neonato, a partir del día del nacimiento de éste.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 77.
+### CAPÍTULO SEXTO. DEL PROCEDIMIENTO DE REVISIÓN
 
-Las licencias con goce de sueldo sólo serán procedentes cuando se trate de riesgos de trabajo y estarán sujetas a lo establecido en el Ley del ISSSTE.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 78.
+###### ARTÍCULO 52.
 
-En ningún caso podrá autorizarse la reincorporación al Instituto del miembro del Servicio que haya obtenido licencia sin goce de sueldo antes de haber concluido las actividades para las cuales fue otorgada, salvo en casos de fuerza mayor, cuya procedencia resolverá el Organo de Gobierno, en caso de tratarse de miembros del Servicio con nivel de Director General; o bien, el Secretario Ejecutivo o el de Acuerdos, cuando se trate de niveles de Jefe de Departamento y hasta Director de Area, bajo su adscripción.
+Los miembros del Servicio Profesional podrán interponer ante el Secretario General el procedimiento de revisión en contra de los resultados de los concursos de oposición, del aprendizaje y el desarrollo, de la evaluación del desempeño, del otorgamiento de estímulos o negativa al otorgamiento de licencias, el cual será resuelto por la Comisión Supervisora.
 
-###### ARTICULO 57.
+Los candidatos a ocupar una plaza vacante también podrán interponer procedimiento de revisión respecto de los resultados de los concursos de oposición en los que participen.
 
-La Comisión podrá requerir la información y documentación que estime pertinente para emitir la resolución definitiva en un plazo máximo de 10 días hábiles contados a partir de la fecha de presentación del procedimiento de revisión.
+El procedimiento de revisión será improcedente para impugnar cualquier otro acto no especificado en el primer párrafo del presente artículo.
 
-###### ARTICULO 58.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-El procedimiento de revisión tendrá efectos suspensivos con relación a los resultados de los concursos de oposición o de las evaluaciones del desempeño y el otorgamiento de estímulos.
+###### ARTÍCULO 53.
 
-###### ARTICULO 59.
+El escrito mediante el cual se interponga el procedimiento de revisión deberá:
 
-Las resoluciones que emita la Comisión podrán anular, modificar o confirmar los resultados de los concursos de oposición, de las evaluaciones o del otorgamiento de estímulos, y serán definitivas e inapelables.
+I. Ser promovido por quien considere haber sufrido un agravio personal y directo;
 
-###### ARTICULO 60.
+II. Constar por escrito, con la firma autógrafa del interesado y presentarse dentro del término de cinco días hábiles contados a partir del día siguiente a la fecha de notificación de los resultados;
 
-Para efectos del presente ordenamiento se entenderá por separación la terminación del nombramiento y en consecuencia la terminación de la relación laboral sin responsabilidad para el Instituto.
+III. Contener el acto que se impugna, los agravios en los que se funda, los hechos controvertidos y en su caso aportar las pruebas que el interesado estime pertinentes; y,
 
-###### ARTICULO 61.
+IV. Presentarse ante el Secretario General quien, una vez que integre el expediente con las constancias e informes, enviará dicha documentación a la Comisión Supervisora en los plazos establecidos en los lineamientos correspondientes.
 
-La separación sin responsabilidad para el Instituto, se dará cuando se presente cualquiera de los supuestos siguientes:
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-I. Terminación de la relación de trabajo por acuerdo de ambas partes;
+###### ARTÍCULO 54.
 
-II. Abandono de empleo, en términos de las disposiciones laborales aplicables;
+Una vez que la Comisión Supervisora haya recibido el escrito inicial del procedimiento de revisión y el expediente del caso, podrá requerir a las áreas del Instituto la información y documentación que estime pertinente para elaborar el proyecto de resolución definitiva de acuerdo con los plazos señalados en los lineamientos correspondientes.
 
-III. Sentencia ejecutoria que imponga al trabajador una pena que implique la privación de su libertad;
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-IV. Por resolución de la Secretaría de la Función Pública o del Organo Interno de Control que determine sanción que implique separación permanente del cargo;
+###### ARTÍCULO 55.
 
-V. Por incumplimiento grave o reiterado de cualquiera de las obligaciones que las disposiciones aplicables les asignan;
+El procedimiento de revisión tendrá efectos suspensivos con relación a los resultados de los concursos de oposición, las calificaciones del programa de aprendizaje y desarrollo, las evaluaciones del desempeño, y el otorgamiento de estímulos de los miembros del Servicio Profesional.
 
-VI. Las demás contempladas por este Estatuto y/o lineamientos que de él se deriven.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-El Secretario Ejecutivo dará aviso de esta situación al Organo de Gobierno.
+###### ARTÍCULO 56.
 
-###### ARTICULO 62.
+Las resoluciones que emita la Comisión Supervisora podrán anular, modificar o confirmar los resultados de los concursos de oposición, las calificaciones del programa de aprendizaje y desarrollo, las evaluaciones del desempeño y el otorgamiento de estímulos. Las resoluciones que emita la Comisión Supervisora podrán impugnarse ante la instancia competente en términos de las disposiciones legales aplicables.
 
-El Organo de Gobierno aprobará los Lineamientos que establezcan los procedimientos específicos para la separación de los miembros del Servicio, tomando en cuenta las disposiciones que resulten aplicables en materia laboral.
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-## TITULO TERCERO. DE LAS RELACIONES LABORALES DE LOS MIEMBROS DEL SERVICIO PROFESIONAL
+### CAPÍTULO SÉPTIMO. DE LA SEPARACIÓN DE LOS MIEMBROS DEL SERVICIO PROFESIONAL
 
-###### ARTICULO 63.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-Procederá a dejar sin efectos el nombramiento que se ubique en alguna de las causas previstas en las fracciones I, II, III, IV y V del artículo 61, a partir de que el acto o motivo que lo generó, surta efectos.
+###### ARTÍCULO 57.
 
-Para efectos de la causa establecida en la fracción IV del artículo 61, se requerirá que la resolución administrativa correspondiente determine como sanción la destitución o inhabilitación del servidor público.
+Para efectos del presente ordenamiento se entenderá por separación la terminación del nombramiento del miembro del Servicio Profesional y, en consecuencia, la terminación de la relación laboral sin responsabilidad para el Instituto.
 
-La Dirección de Administración deberá integrar al expediente la documentación que acredite la actualización de cualquiera de las causas señaladas en el artículo 61.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
 
-###### ARTICULO 64.
+###### ARTÍCULO 58.
 
-Cuando se presuma el incumplimiento grave o reiterado del miembro del Servicio respecto de sus obligaciones establecidas en la normatividad aplicable, se desahogará el procedimiento establecido en los Lineamientos que establezcan los procedimientos específicos para la separación de los miembros del Servicio, que expida el Organo de Gobierno.
+La separación de los miembros del Servicio Profesional, sin responsabilidad para el Instituto, se dará cuando se presente cualquiera de los supuestos siguientes:
 
-La determinación de si es o no grave el incumplimiento de las obligaciones quedará a cargo de la Comisión, la cual valorará las constancias, otorgará derecho de audiencia al servidor público y determinará la separación del mismo, cuando corresponda, en términos de lo que establezcan los lineamientos que para tal efecto expida el Organo de Gobierno.
+I. No aprobar dos evaluaciones anuales del desempeño, sin tomar en cuenta la temporalidad entre una y otra;
 
-El incumplimiento grave de las obligaciones deberá fundarse en la inobservancia de las obligaciones contenidas en el Artículo 24 fracciones III, VII, IX y X del presente ordenamiento.
+II. No acreditar las horas de capacitación anuales establecidas en los lineamientos aplicables y conforme a la propuesta aprobada por el Órgano de Gobierno;
 
-Para los efectos de la causa prevista en la fracción V del artículo 62 de este Estatuto, bastará que la misma conducta se realice más de una vez para incurrir en incumplimiento reiterado en el lapso que determinen los Lineamientos respectivos. De cada ocasión en que se incurra en incumplimiento a las obligaciones, se deberá dejar constancia en el expediente previa notificación al servidor público. El superior jerárquico deberá hacer del conocimiento de la Dirección de Administración esta situación, acompañando las constancias respectivas, a efecto de que se inicie el procedimiento correspondiente.
+III. No presentar oportunamente el informe final y sus documentos anexos derivado de las actividades académicas realizadas con motivo del otorgamiento de una licencia sin goce de sueldo;
 
-###### ARTICULO 65.
+IV. Terminación de la relación de trabajo por acuerdo de ambas partes;
+
+V. Abandono de empleo, en términos de las disposiciones laborales aplicables;
+
+VI. Sentencia ejecutoria que imponga al miembro del Servicio Profesional una pena que implique la privación de su libertad;
+
+VII. Por resolución de la Secretaría de la Función Pública o del Órgano Interno de Control que determine sanción que implique separación permanente del cargo; y
+
+VIII. Por renuncia del miembro del Servicio Profesional.
+
+El Secretario General dará aviso al Órgano de Gobierno de la separación de los miembros del Servicio Profesional sin responsabilidad para el Instituto. Esta disposición en ningún caso predispone a la revisión que sobre el particular puedan hacer las autoridades laborales.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 59.
+
+El Órgano de Gobierno aprobará los Lineamientos que establezcan el procedimiento específico para la separación de los miembros del Servicio Profesional, tomando en cuenta las disposiciones que resulten aplicables en materia laboral.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 60.
+
+Procederá dejar sin efectos el nombramiento del miembro del Servicio que se ubique en alguna de las causas previstas en el Artículo 58, a partir de que se verifique cualquier (sic) de sus supuestos.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 61.
+
+Cuando se acredite el probable incumplimiento grave o reiterado del miembro del Servicio Profesional respecto de las obligaciones contenidas en el artículo 20 del presente Estatuto, se aplicarán los Lineamientos que establezcan los procedimientos específicos para la separación de los miembros del Servicio Profesional, que expida el Órgano de Gobierno.
+
+El incumplimiento grave o reiterado de las obligaciones deberá fundarse en la inobservancia de lo establecido en el artículo 20 del presente ordenamiento.
+
+Para considerar que el incumplimiento es reiterado bastará que el miembro del Servicio Profesional reincida en la misma conducta una sola vez en el lapso que determinen los Lineamientos respectivos. Por cada ocasión en que se incumplan las obligaciones, se deberá dejar constancia en el expediente, previa notificación al miembro del Servicio Profesional. El superior jerárquico deberá hacer del conocimiento de la Dirección General de Administración esta situación y proveer las constancias respectivas, a efecto de que se inicie el procedimiento correspondiente.
+
+La determinación de la gravedad del incumplimiento de las obligaciones quedará a cargo de la Comisión Supervisora, la cual valorará las constancias, otorgará derecho de audiencia al servidor público y determinará la separación del mismo, cuando corresponda, en términos de lo que establezcan los lineamientos que para tal efecto expida el Órgano de Gobierno.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 62.
+
+La Dirección General de Administración deberá integrar al expediente de personal la documentación que acredite la actualización de cualquiera de las causas señaladas en el Artículo 58 y solicitará ante la Comisión Supervisora que el nombramiento del miembro del Servicio Profesional deje de surtir efectos, en los términos que señalen los Lineamientos respectivos.
 
 Cuando se incumplan diversas obligaciones, se podrá integrar un solo expediente con las evidencias documentales de cada incumplimiento. En todo caso, la resolución respectiva deberá pronunciarse respecto de cada uno de los incumplimientos que se hubieren señalado.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+## TÍTULO TERCERO. DEL RÉGIMEN LABORAL Y DE SEGURIDAD SOCIAL DE LOS MIEMBROS DEL SERVICIO PROFESIONAL DEL INSTITUTO
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+### CAPÍTULO ÚNICO. REGLAS GENERALES
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 63.
+
+Los miembros del Servicio Profesional del Instituto serán considerados empleados de confianza. El sistema de remuneraciones que les regirá se determinará por el Manual de Percepciones y estará limitado por la disponibilidad presupuestaria y lo que disponga el Presupuesto de Egresos de la Federación.
 
 ## TRANSITORIOS
 
@@ -836,3 +894,19 @@ CUARTO.- El Organo de Gobierno deberá autorizar el procedimiento para llevar a 
 QUINTO.- En tanto se expiden los lineamientos citados en el presente Estatuto, permanecerán vigentes los lineamientos, políticas, bases y demás documentos normativos en materia del personal, siempre y cuando no se opongan a lo determinado por el Estatuto.
 
 Así lo acordó el Organo de Gobierno del Instituto Federal de Acceso a la Información Pública, en las sesiones celebradas los días tres de octubre de dos mil ocho en la que aprobó el Estatuto del Servicio Profesional en el Instituto Federal de Acceso a la Información Pública y, diecinueve de mayo de dos mil nueve en la que acordó su publicación en el Diario Oficial de la Federación, ante.- La Comisionada Presidenta, Jacqueline Peschard Mariscal.- Rúbrica.- Los Comisionados: Alonso Gómez Robledo Verduzco, Juan Pablo Guerrero Amparán y María Marván Laborde.- Rúbricas.- El Secretario Ejecutivo, Angel Trinidad Zaldívar.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE JULIO DE 2013.
+
+PRIMERO.- Las reformas al presente Estatuto entrarán en vigor al siguiente día hábil de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El personal que a la fecha de entrada en vigor de las reformas labore en el Instituto y no se encuentre comprendido en las excepciones a las que aluden las fracciones del artículo 4 del presente Estatuto, queda incorporado al Servicio Profesional con todos sus derechos y obligaciones, siempre y cuando haya cubierto los requisitos señalados en el artículo 27 del presente ordenamiento. El cómputo de su antigüedad en el Servicio Profesional estará comprendido a partir de la fecha en la cual haya iniciado a formar parte del mismo.
+
+TERCERO.- El Secretario General dispondrá de seis meses, contados a partir de la entrada en vigor de las reformas del presente Estatuto, para integrar el proyecto de Catálogo, y presentarlo al Órgano de Gobierno; para ello tomará en cuenta lo dispuesto en el presente ordenamiento y la opinión de los Secretarios de Acceso a la Información y de Protección de Datos Personales, así como la de los titulares de las unidades administrativas del Instituto.
+
+CUARTO.- Los lineamientos referidos en este Estatuto deberán ser emitidos por el Órgano de Gobierno a más tardar nueve meses después de la entrada en vigor del presente instrumento.
+
+QUINTO.- Permanecerán vigentes los actuales lineamientos, políticas, bases y demás documentos normativos en materia de personal, siempre y cuando no se opongan a lo determinado por el Estatuto, hasta que se expidan los nuevos lineamientos y el Catálogo.
+
+SEXTO.- Una vez expedidos los Lineamientos del presente Estatuto, entrarán en operación según lo establezca el acuerdo de Órgano de Gobierno correspondiente.
