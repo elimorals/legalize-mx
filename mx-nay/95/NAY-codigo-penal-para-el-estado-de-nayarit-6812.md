@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2013-03-13"
+last_updated: "2013-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2013.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -109,7 +109,7 @@ La responsabilidad penal no trasciende de la persona y bienes de los delincuente
 
 ###### ARTICULO 10.
 
-Cuando algún miembro o representante de alguna persona Jurídica, o que se ostente como tal, con excepción de las Instituciones Estatales, cometa algún delito con los medios que para tal objeto aquella le proporcione, de modo que resulte ejecutado a su nombre, bajo su amparo o para su beneficio, el Juez podrá decretar en la sentencia respecto de la persona moral y las medidas que la Ley autoriza sin perjuicio de la responsabilidad en que hubieren incurrido las personas físicas.
+Cuando algún miembro o representante de alguna persona Jurídica, o que se ostente como tal, con excepción de las Instituciones Estatales, cometa algún delito con los medios que para tal objeto aquella le proporcione, de modo que resulte ejecutado a su nombre, bajo su amparo o para su beneficio, el Juez podrá decretar en la sentencia respecto de la persona moral, las medidas que la Ley autoriza sin perjuicio de la responsabilidad en que hubieren incurrido las personas físicas.
 
 ### CAPITULO II. TENTATIVA
 
@@ -987,7 +987,7 @@ ARTICULO 90 B.- La sustitución de la sanción privativa de libertad procederá 
 
 ARTICULO 90 C.- El Juez podrá dejar sin efecto la sustitución y ordenar que se ejecute la pena de prisión impuesta, en los siguientes casos:
 
-I.- Cuando el sentenciado no cumpla con las condiciones que le fueron impuestas, para tal efecto, salvo que el Juzgador estime conveniente apercibirlo de que si incurre en una nueva falta, se hará efectiva la sanción sustituida. En estos casos, se fijará garantía para asegurar el cumplimiento de sus obligaciones con motivo del sustitutivo concedido; o
+I.- Cuando el sentenciado no cumpla con las condiciones que le fueron impuestas, para tal efecto, salvo que el juzgador estime conveniente apercibirlo de que si incurre en una nueva falta, se hará efectiva la sanción sustituida. En estos casos, se fijará garantía para asegurar el cumplimiento de sus obligaciones con motivo del sustitutivo concedido; o
 
 II.- Cuando al sentenciado se le condene por delito diverso.
 
@@ -2533,7 +2533,11 @@ ARTICULO 260 BIS.- Se sancionará con prisión de diez a treinta años y multa d
 
 I. La violación de un ascendiente a su descendiente, o de éste a aquél, sin importar el grado u origen del parentesco;
 
-II. La violación del padrastro a la hijastra o hijastro y la ejecutada por éste a su madrastra o padrastro, así como la cometida por el hermanastro a su hermanastra o hermanastro o entre parientes colaterales hasta el cuarto grado;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2013)</small>
+
+II. La violación del padrastro a la hijastra o hijastro y la ejecutada por éste a su madrastra o padrastro, así como la cometida por el hermanastro a su hermanastra o hermanastro o entre parientes colaterales hasta el cuarto grado.
+
+Igualmente la realizada por la concubina o concubinario en contra de los descendientes de su pareja, entre los propios descendientes y la ejecutada por éstos a la concubina o al concubinario siempre y cuando exista cohabitación entre el sujeto activo y el pasivo;
 
 III. La violación cometida por el sujeto activo en ejercicio de sus funciones, valiéndose de su posición jerárquica, derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique subordinación;
 
@@ -3181,7 +3185,7 @@ Salvo el caso de la fracción IX del artículo 325 de este código, al responsab
 
 La riña es la contienda de obra con el ánimo de dañarse recíprocamente.
 
-> <small>(REFORMADO PRIMAR PÁRRAFO, P.O. 23 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 325.
 
@@ -4422,3 +4426,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 13 DE MARZO DE 2013.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 2 DE JULIO DE 2013.
+
+Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
