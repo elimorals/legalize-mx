@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-878-estatal-de-mitigacion-y-adaptacion-ante-los-7748
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-03"
-last_updated: "2010-11-03"
+last_updated: "2013-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 878 ESTATAL DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el miércoles 3 de noviembre de 2010.
 
@@ -83,11 +83,13 @@ XIII. Mitigación: Intervención humana destinada a reducir los efectos del camb
 
 XIV. Protocolo de Kyoto: Tratado internacional ligado a la Convención Marco de las Naciones Unidas sobre el Cambio Climático, que establece mecanismos y medidas para limitar o reducir las emisiones de gases de efecto invernadero;
 
-XV. Secretaría: Secretaría de Desarrollo Social y Medio Ambiente del Estado;
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2013)</small>
+
+XV. Secretaría: Secretaría de Medio Ambiente del Estado;
 
 XVI. Servicios ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano;
 
-XVII. Subsecretaría: Subsecretaría de Medio Ambiente y Cambio Climático del Estado;
+XVII. (DEROGADA, G.O. 2 DE JULIO DE 2013)
 
 XVIII. Sumidero: Cualquier proceso, actividad o mecanismo que absorbe de la atmósfera un gas de efecto invernadero, uno de sus precursores o un aerosol; y
 
@@ -99,7 +101,9 @@ XIX. Vulnerabilidad: Grado en el que un sistema natural o una comunidad humana e
 
 Los habitantes del Estado deberán participar, de manera ordenada y activa, en la mitigación y prevención de la vulnerabilidad ante el cambio climático.
 
-Para el cumplimiento de los objetivos establecidos en esta Ley, el Plan Veracruzano de Desarrollo, los Programas Sectoriales y la Estrategia Estatal, se deberán fijar metas y objetivos específicos de mitigación y adaptación, e indicadores de sustentabilidad de las acciones.
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2013)</small>
+
+Para el cumplimiento de los objetivos establecidos en esta Ley, el Plan Veracruzano de Desarrollo, los Programas Sectoriales, la Estrategia Estatal y las Agendas Sectoriales de Cambio Climático, se deberán fijar metas y objetivos específicos de mitigación y adaptación, e indicadores de sustentabilidad de las acciones.
 
 ###### Artículo 4.
 
@@ -155,17 +159,21 @@ Son autoridades en materia de cambio climático en el Estado, en el ámbito de s
 
 I. El Gobernador del Estado;
 
-II. El titular de la Secretaría de Desarrollo Social y Medio Ambiente;
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2013)</small>
+
+II. El titular de la Secretaría de Medio Ambiente;
 
 III. El titular de la Secretaría de Protección Civil;
 
-IV. El Subsecretario de Medio Ambiente y Cambio Climático; y
+IV. (DEROGADA, G.O. 2 DE JULIO DE 2013)
 
 V. Las demás que con ese carácter señalen otros ordenamientos legales, en materia ecológica o ambiental.
 
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2013)</small>
+
 ###### Artículo 9.
 
-Se crea el Consejo Estatal, que tendrá por objeto la definición de la Estrategia Estatal, para la mitigación y adaptación al cambio climático a través de planes y programas; así como establecer la coordinación entre el Gobierno estatal y los municipios del Estado.
+Se crea el Consejo Estatal, que tendrá por objeto la definición de la Estrategia Estatal para la mitigación y adaptación al cambio climático a través de planes y programas; así como establecer la coordinación entre el Gobierno Estatal y los municipios y entre éstos y los actores de los diferentes sectores de la sociedad, a fin de mitigar las emisiones de gases de efecto invernadero y reducir la vulnerabilidad de la Entidad ante el fenómeno de cambio climático.
 
 ###### Artículo 10.
 
@@ -173,7 +181,11 @@ El Consejo Estatal se integra por:
 
 I. El Gobernador del Estado, quien lo presidirá;
 
-II. El Secretario de Desarrollo Social y Medio Ambiente, quien suplirá en sus ausencias al Gobernador;
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2013)</small>
+
+II. El Secretario de Medio Ambiente, quien fungirá como Secretario Técnico del Consejo y suplirá en sus ausencias al Gobernador.
+
+En el caso de que ejerza funciones de Presidente por ausencia del Gobernador, designará a un servidor público de la dependencia a su cargo para que funja como Secretario Técnico;
 
 III. El Secretario de Protección Civil;
 
@@ -191,17 +203,61 @@ IX. El Secretario de Seguridad Pública;
 
 X. El Secretario de Comunicaciones;
 
-XI. Un representante de la Universidad Veracruzana;
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2013)</small>
 
-XII. Un representante del sector industrial;
+XI. El Secretario de Gobierno;
 
-XIII. Un representante de la Comisión del Agua del Estado;
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2013)</small>
 
-XIV. Un representante del Centro de Estudios del Clima del Estado; y
+XII. El Secretario de Salud;
 
-XV. El Subsecretario de Medio Ambiente y Cambio Climático, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2013)</small>
 
-El Consejo Estatal incorporará, para su funcionamiento y operación, a autoridades municipales, cuando se aborden temas relacionados con el ámbito de su competencia; así como a integrantes de la sociedad civil y a instituciones académicas u organismos no gubernamentales. Igualmente, podrá invitar a participar a autoridades federales y al Presidente de la Comisión Permanente de la materia del Poder Legislativo.
+XIII. El Secretario de Trabajo, Previsión Social y Productividad;
+
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2013)</small>
+
+XIV. El Secretario de Desarrollo Social;
+
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2013)</small>
+
+XV. El Contralor General;
+
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2013)</small>
+
+XVI. El Jefe de la Oficina de Programa de Gobierno;
+
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2013)</small>
+
+XVII. El Coordinador General de Comunicación Social;
+
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2013)</small>
+
+XVIII. Un representante de la Comisión Permanente de Medio Ambiente, Recursos Naturales y Aguas del Congreso del Estado;
+
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2013)</small>
+
+XIX. Un representante de la Universidad Veracruzana;
+
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2013)</small>
+
+XX. Un representante de la Comisión del Agua del Estado;
+
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2013)</small>
+
+XXI. Un representante del Centro de Estudios del Clima del Estado;
+
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2013)</small>
+
+XXII. Uno o dos representantes de la sociedad civil organizada; y
+
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2013)</small>
+
+XXIII. Uno o dos representantes de Ayuntamientos del Estado.
+
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2013)</small>
+
+El Consejo Estatal incorporará, para su funcionamiento y operación, a más autoridades municipales, así como a integrantes de la sociedad civil y a instituciones académicas u organismos no gubernamentales, cuando se aborden temas relacionados con el ámbito de su competencia. Igualmente, podrá invitar a participar a representantes de las delegaciones de las dependencias del Gobierno Federal vinculadas con el tema, a otras autoridades federales y a servidores públicos del Poder Legislativo del Estado.
 
 Los integrantes del Consejo Estatal ejercerán su labor de manera honorífica.
 
@@ -283,9 +339,11 @@ V. Difundir permanentemente la aplicación de los planes o programas de desarrol
 
 VI. Las demás que les señalen esta Ley y otras disposiciones jurídicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JULIO DE 2013)</small>
+
 ###### Artículo 15.
 
-Para la mitigación y adaptación de los efectos del cambio climático, la Secretaría, a través de la Subsecretaría, propondrá la Estrategia Estatal al Consejo Estatal, que estará facultado para:
+Para la mitigación y adaptación de los efectos del cambio climático, la Secretaría propondrá la Estrategia Estatal al Consejo Estatal, que estará facultado para:
 
 I. Promover la orientación del Plan Estatal de Desarrollo con visión integral y sustentable en cumplimiento de la presente Ley;
 
@@ -319,17 +377,21 @@ La Secretaría coordinará las acciones de las dependencias y entidades de la Ad
 
 La Secretaría será responsable de elaborar y publicar un reporte anual sobre los niveles de emisiones de los gases de efecto invernadero en el Estado, así como de las acciones realizadas en el año por el gobierno estatal en materia de adaptación y mitigación del cambio climático.
 
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2013)</small>
+
 ###### Artículo 18.
 
-La Subsecretaría apoyará y asesorará a los municipios que lo soliciten, en la formulación, ejecución y operación de sus programas de atención al cambio climático.
+La Secretaría apoyará y asesorará a los municipios que lo soliciten, en la formulación, ejecución y operación de sus programas de atención al cambio climático.
 
 ###### Artículo 19.
 
-La Subsecretaría será responsable de administrar la información de los programas de monitoreo de la calidad del aire, agua y suelo, proporcionada por los organismos competentes, cuando corresponda.
+(DEROGADO, G.O. 2 DE JULIO DE 2013)
+
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2013)</small>
 
 ###### Artículo 20.
 
-La Subsecretaría será la encargada de crear y presidir comités y subcomités operativos formados por representantes de las dependencias, servicios y demás organismos competentes, para el estudio, consulta, análisis, comunicación y coordinación en materia de cambio climático.
+La Secretaría será la encargada de crear y presidir comités y subcomités operativos formados por representantes de las dependencias, servicios y demás organismos competentes, para el estudio, consulta, análisis, comunicación y coordinación en materia de cambio climático.
 
 ### CAPÍTULO V. De los Instrumentos de la Estrategia Estatal
 
@@ -351,9 +413,11 @@ El Ejecutivo del Estado se coordinará con los municipios, con pleno respeto a l
 
 ### CAPÍTULO VI. De la Obligación de Reportar Emisiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JULIO DE 2013)</small>
+
 ###### Artículo 25.
 
-Las fuentes emisoras ubicadas en el Estado están obligadas a reportar sus emisiones a la Subsecretaría, de acuerdo a las disposiciones de esta Ley y demás ordenamientos que de ella se deriven.
+Las fuentes emisoras ubicadas en el Estado están obligadas a reportar sus emisiones a la Secretaría, de acuerdo a las disposiciones de esta Ley y demás ordenamientos que de ella se deriven.
 
 Cuando se tratare de fuentes emisoras de competencia federal, el reporte se solicitará a través de la autoridad competente.
 
@@ -516,3 +580,11 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 2 DE JULIO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
