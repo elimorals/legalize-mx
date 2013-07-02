@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2012-10-30"
+last_updated: "2013-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2013.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -3579,11 +3579,11 @@ Al escrito a que se refiere el artículo anterior se acompañará:
 
 I.- El acta de nacimiento o pasaporte de cada uno de los contrayentes;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2013)</small>
 
-II.- Un certificado médico por cada pretenso, en el que se asegure que no padece enfermedad crónica o incurable que además sea contagiosa y hereditaria, o bien la constancia a que se refiere el último párrafo del Artículo 700.
+II.- Un certificado médico por cada pretenso, en el que asegure que no padece enfermedad crónica o incurable que además sea contagiosa y/o hereditaria, o bien la constancia a que se refiere el penúltimo párrafo del Artículo 700.
 
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial.
+Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial;
 
 III.- Copia de la dispensa de impedimentos, si los hubo.
 
@@ -3699,19 +3699,21 @@ VIII.- El uso no terapéutico de enervantes, estupefacientes o psicotrópicos o 
 
 IX.- La impotencia por causa física para entrar en el estado matrimonial siempre que sea incurable;
 
-X.- Cualquiera otra enfermedad crónica e incurable que sea además contagiosa o hereditaria;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2013)</small>
+
+X.- Cualquiera otra enfermedad crónica o incurable que sea además contagiosa y/o hereditaria;
 
 XI.- La locura, el idiotismo y la imbecilidad; y
 
 XII.- El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer, o subsistente con ésta.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2013)</small>
 
-De estos impedimentos son dispensables por el Juez Familiar de la residencia del menor, el parentesco de consaguinidad en línea colateral desigual.
+De estos impedimentos son dispensables por el Juez Familiar de la residencia del menor, el parentesco de consanguinidad en línea colateral desigual.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE JULIO DE 2013)</small>
 
-Las fracciones IX y X son dispensables cuando ambos contrayentes acrediten fehacientemente haber obtenido de institución o médico especialista el conocimiento de los alcances, efectos y prevención de la enfermedad motivo del impedimento y manifiesten por escrito su consentimiento para contraer matrimonio.
+En el caso a que se refiere la fracción II del Artículo 682 en relación a la fracción X de este artículo, el certificado médico será dispensable cuando ambos contrayentes acrediten por escrito, su consentimiento, estando informados de la enfermedad de que se trate, y signado por ambos para contraer matrimonio.
 
 ###### Artículo 701.
 
@@ -4055,7 +4057,7 @@ Los consortes pueden hacerse donaciones, pero sólo se confirman con la muerte d
 
 ###### Artículo 768.
 
-Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo por los donantes, sin forma de juicio ni autorización judicial y no son revocables por la superviniencia de hijos; pero se reducirán cuando sean inoficiosas, en los mismos términos que las comunes.
+Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo por los donantes, sin forma de juicio ni autorización judicial y no son revocables por la superviniencia (sic) de hijos; pero se reducirán cuando sean inoficiosas, en los mismos términos que las comunes.
 
 ### CAPITULO QUINTO. De los matrimonios nulos
 
@@ -5725,7 +5727,7 @@ La patria potestad se acaba:
 
 I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II.- Con la emancipación del menor; y (sic)
+II.- Con la emancipación del menor; y
 
 III.- Por la mayor edad de éste;
 
@@ -5755,7 +5757,7 @@ La patria potestad se suspende:
 
 I.- Por incapacidad declarada judicialmente;
 
-II.- Por la ausencia declarada en forma; y (sic)
+II.- Por la ausencia declarada en forma; y
 
 III.- Por sentencia condenatoria que imponga como pena la suspensión;
 
@@ -5805,7 +5807,7 @@ II.- Cuando ha sido condenado ejecutoriamente dos o más veces por delitos comet
 
 III.- Por causarle daños físicos o emocionales, o por explotación, se pueda comprometer su salud, la seguridad o la moralidad de la persona menor de edad, aunque esos hechos sean penalmente punibles en términos de la legislación respectiva en la entidad;
 
-IV.- Cuando abandone o exponga al menor; y (sic)
+IV.- Cuando abandone o exponga al menor; y
 
 V.- En los casos de divorcio;
 
@@ -17233,7 +17235,7 @@ LIC. JOSE IRABIEN MEDINA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE ENERO DE 1982.
 
@@ -17436,3 +17438,9 @@ P.O. 30 DE OCTUBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 2 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
