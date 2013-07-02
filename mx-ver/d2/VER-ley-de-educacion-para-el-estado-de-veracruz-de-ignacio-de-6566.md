@@ -4,7 +4,7 @@ identifier: "VER-ley-de-educacion-para-el-estado-de-veracruz-de-ignacio-de-6566"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-21"
-last_updated: "2010-11-03"
+last_updated: "2013-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE -LEY NUMERO 58-
 
-LEY DE EDUCACION PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE EDUCACIÓN PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 21 de diciembre de 1993.
 
@@ -331,9 +331,9 @@ III. Las propuestas didáctico-metodológicas pertinentes a la naturaleza de los
 
 IV. Los criterios, normas y procedimientos de evaluación y acreditación del aprendizaje;
 
-> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2013)</small>
 
-V. Cursos, foros, programas y talleres de educación ambiental en los centros educativos.
+V. Cursos, foros, programas y talleres de educación ambiental, prevención del delito, seguridad vial y protección civil en los centros educativos.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE AGOSTO DE 2002)</small>
 
@@ -1122,3 +1122,9 @@ Tercero. Dentro de los noventa días siguientes a la fecha de entrada en vigor d
 Cuarto. La incorporación de la acreditación internacional de conocimientos y competencias en los planes y programas de estudio de las instituciones de educación media superior del Estado de Veracruz de Ignacio de la Llave, podrá ser a partir del ciclo escolar 2011-2012.
 
 Quinto. La Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz de Ignacio de la Llave proveerá lo necesario a efecto de que, en el Presupuesto de Egresos para el ejercicio fiscal 2011, se contemplen los recursos necesarios para la implementación y operación de un fondo de acreditación internacional de conocimientos y competencias del Estado.
+
+G.O. 2 DE JULIO DE 2013.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
