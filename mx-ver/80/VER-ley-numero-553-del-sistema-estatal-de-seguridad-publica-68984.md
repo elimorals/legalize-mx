@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-553-del-sistema-estatal-de-seguridad-publica-68984"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-24"
-last_updated: "2013-01-14"
+last_updated: "2013-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 553 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JULIO DE 2013.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de junio de 2009.
 
@@ -83,7 +83,9 @@ XI. Instituciones de Seguridad Pública: a las Instituciones Policiales, de Proc
 
 XII. Instituciones de Procuración de Justicia: a las instituciones del Estado que integran al Ministerio Público, a la Agencia Veracruzana de Investigaciones y a los Servicios Periciales;
 
-XIII. Instituciones Policiales: a los cuerpos de policía, de detención preventiva o de centros de arraigo y, en general, todas las dependencias encargadas de la seguridad pública a nivel estatal, municipal e intermunicipal, que realicen funciones similares;
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2013)</small>
+
+XIII. Instituciones Policiales: A los cuerpos de policía estatal o municipal, de detención preventiva o de centros de arraigo y, en general, a todas las dependencias encargadas de la seguridad pública a nivel estatal, municipal e intermunicipal, que realicen funciones similares;
 
 XIV. Instituciones de Seguridad Penitenciaria: a los cuerpos de vigilancia y custodia de los establecimientos penitenciarios;
 
@@ -259,9 +261,11 @@ El Sistema tendrá relaciones operativas con el Sistema Nacional en la forma dis
 
 El titular del Poder Ejecutivo dispondrá la división del territorio de la Entidad en zonas o regiones para los fines de este ordenamiento, escuchando al Consejo Estatal de Seguridad Pública y considerando los factores que permitan establecer, en su caso, circunscripciones homogéneas, a las que sea posible destinar programas comunes específicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE JULIO DE 2013)</small>
+
 ###### Artículo 15.
 
-El Gobernador del Estado dispondrá de las corporaciones policiales estatales para velar por la conservación del orden, tranquilidad y seguridad del Estado. En términos de lo dispuesto por la Constitución Política Local, las policías municipales acatarán las órdenes que el Gobernador del Estado les transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+El Gobernador del Estado dispondrá de la policía estatal para velar por la conservación del orden, tranquilidad y seguridad del Estado. En términos de lo dispuesto por la Constitución Política Local, las policías municipales acatarán las órdenes que el Gobernador del Estado les transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
 El mando directo de los cuerpos de seguridad pública recaerá en los funcionarios que señalen las normas aplicables en cada caso. Dichos funcionarios serán responsables de la observancia de la presente Ley y de las disposiciones que deriven de ella.
 
@@ -335,7 +339,9 @@ IX. Promover y alentar la cultura de la seguridad pública, al través de progra
 
 X. Coadyuvar con los municipios de la Entidad, en la celebración de convenios que tengan por objeto la creación de cuerpos policiales intermunicipales;
 
-XI. Vigilar que los convenios que celebren los cuerpos policiales estatales, municipales e intermunicipales con el Ministerio Público, se lleven a cabo en términos de lo dispuesto por las Constituciones Políticas de los Estados Unidos Mexicanos y del Estado;
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2013)</small>
+
+XI. Vigilar que los convenios que celebren la policía estatal, las policías municipales e intermunicipales con el Ministerio Público, se lleven a cabo en términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la del Estado;
 
 XII. Proponer al Consejo Nacional acuerdos, programas específicos y convenios, en materia de coordinación de acciones de seguridad pública;
 
@@ -607,9 +613,17 @@ XXV. Abstenerse de consumir en las instalaciones de sus instituciones o en actos
 
 XXVI. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio;
 
-XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Así mismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio; y
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2013)</small>
 
-XXVIII. Los demás que establezcan las disposiciones legales aplicables.
+XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrán hacerse acompañar de dichas personas al realizar actos del servicio;
+
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2013)</small>
+
+XXVIII. Abstenerse de utilizar durante el servicio cualquier equipo de comunicación, ya sea teléfono celular, radio o similar, diferente al entregado por la corporación para el ejercicio de sus atribuciones; y
+
+> <small>(ADICIONADA, G.O. 3 DE JULIO DE 2013)</small>
+
+XXIX. Las demás que establezcan las disposiciones legales aplicables.
 
 ###### Artículo 29.
 
@@ -658,6 +672,16 @@ XX. Pasar las inspecciones de revisión de armamento cada vez que sea requerido;
 XXI. Las demás que establezcan las disposiciones legales aplicables.
 
 El incumplimiento de cualquiera de estas obligaciones, así como las previstas por el Artículo anterior, dará lugar al establecimiento de las medidas correctivas o las sanciones disciplinarias correspondientes.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2013)</small>
+
+###### Artículo 29 Bis.
+
+Los integrantes de las instituciones policiales están obligados a utilizar los uniformes, insignias y escudos que para el efecto determine la institución a la que estén adscritos.
+
+Los uniformes, insignias, unidades, colores y escudos de la Policía Estatal no podrán ser utilizados por ninguna otra corporación policial, incluyendo las municipales.
+
+La Secretaría de Seguridad Pública contará con un Registro Estatal de Uniformes Policiales, cuya base de datos será obtenida de la información que cada Municipio proporcione de forma permanente.
 
 ###### Artículo 30.
 
@@ -787,13 +811,17 @@ Cuando una persona esté bajo custodia o detenida, sólo se podrá emplear la fu
 
 Las armas de fuego podrán, si las circunstancias lo exigen, ser disparadas como señal de advertencia, siempre que su uso no implique riesgo para la vida e integridad de las personas.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2013)</small>
+
 ###### Artículo 44.
 
-Los integrantes de las corporaciones policiales y del Instituto de la Policía Auxiliar y Protección Patrimonial deberán observar las normas técnicas sobre el cuidado de las armas de fuego y abstenerse de realizar cualquier tipo de juego o manipulación indebida.
+Los integrantes de las instituciones policiales y del Instituto de la Policía Auxiliar y Protección Patrimonial deberán observar las normas técnicas sobre el cuidado de las armas de fuego y abstenerse de realizar cualquier tipo de juego o manipulación indebida.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE JULIO DE 2013)</small>
 
 ###### Artículo 45.
 
-Los integrantes de las corporaciones policíacas y del Instituto de la Policía Auxiliar y Protección Patrimonial sólo podrán portar las armas de fuego que les hayan sido asignadas de manera individual y que se encuentren registradas colectivamente conforme a lo estipulado en la Ley Federal de Armas de Fuego y Explosivos, exclusivamente durante el tiempo que se encuentren en funciones.
+Los integrantes de las instituciones policiales y del Instituto de la Policía Auxiliar y Protección Patrimonial sólo podrán portar las armas de fuego que les hayan sido asignadas de manera individual y que se encuentren registradas colectivamente conforme a lo establecido en la Ley Federal de Armas de Fuego y Explosivos, exclusivamente durante el tiempo que se encuentren en funciones.
 
 El incumplimiento a lo dispuesto en el párrafo anterior, dará lugar a que la portación de armas sea considerada ilegal y sancionada en términos de ley.
 
@@ -817,7 +845,9 @@ Para la aplicación de los Programas Rectores de Profesionalización, el Estado 
 
 I. Aplicar los procedimientos homologados del Sistema Nacional;
 
-II. Capacitar en materia de investigación científica y técnica a los servidores públicos;
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2013)</small>
+
+II. Capacitar en materia de investigación científica y técnica a los servidores públicos, a través de cursos, programas, diplomados, licenciaturas, especialidades, maestrías o doctorados;
 
 III. Proponer y desarrollar los programas de investigación académica en materia ministerial, pericial y policial, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
@@ -1727,9 +1757,11 @@ El servicio de llamadas de emergencia y el servicio de denuncia anónima operar�
 
 #### SECCIÓN PRIMERA. Del Registro Administrativo de Detenciones
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2013)</small>
+
 ###### Artículo 113.
 
-Los policías que realicen detenciones, deberán dar aviso administrativo de inmediato, al través del Informe Policial Homologado, a sus superiores jerárquicos, quienes deberán de igual forma reportarlo al Centro Nacional de Información, a fin de que se integre al Registro Administrativo de Detenciones.
+Los miembros de las instituciones policiales que realicen detenciones deberán dar aviso administrativo de inmediato, a través del Informe Policial Homologado, a sus superiores jerárquicos, quienes deberán de igual forma reportarlo al Centro Nacional de Información, a fin de que se integre al Registro Administrativo de Detenciones.
 
 ###### Artículo 114.
 
@@ -2424,3 +2456,9 @@ La instalación del Consejo Ciudadano de Seguridad Pública, del Centro Estatal 
 ###### ARTÍCULO TERCERO.
 
 El Reglamento Interior del Consejo Ciudadano de Seguridad Pública y el del Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, deberán emitirse en un plazo no mayor de noventa días hábiles después de su instalación respectiva, los cuales determinarán su organización, funcionamiento y coordinación.
+
+G.O. 3 DE JULIO DE 2013.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
