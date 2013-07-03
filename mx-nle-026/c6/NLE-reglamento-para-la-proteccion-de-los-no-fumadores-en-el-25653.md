@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-proteccion-de-los-no-fumadores-en-el-25653"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-27"
-last_updated: "2008-04-16"
+last_updated: "2013-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA PROTECCIÓN DE LOS NO FUMADORES, EN EL MUNICIPIO DE GUADALUPE, N.L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 27 de agosto de 1993.
 
@@ -39,11 +39,11 @@ EL LIC. RAMIRO GUERRA GUERRA, PRESIDENTE MUNICIPAL DE CIUDAD GUADALUPE, NUEVO LE
 
 Las disposiciones de éste Reglamento son de orden público e interés general, siendo obligatoria su observancia para los habitantes domiciliarios y transeúntes, teniendo por objeto proteger la salud de las personas no fumadoras de los efectos de la inhalación involuntaria de humo producido por la combustión del tabaco, en cualquiera de sus formas, en lo locales cerrados y establecimientos a que se refieren los artículos 4° y 7°, así como en vehículos de servicio público de transporte colectivo de pasajeros.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 2.
 
-La aplicación y vigilancia del cumplimiento de este reglamento corresponde, al C. Presidente Municipal; al C. Secretario de Bienestar Social y Desarrollo Comunitario, al C. Secretario de Seguridad Ciudadana y Tránsito y los jueces calificadores en sus respectivos ámbitos de competencia.
+La aplicación y vigilancia del cumplimiento de este reglamento corresponde, al C. Presidente Municipal; al C. Secretario de Bienestar Social y Desarrollo Comunitario, al C. Secretario de Seguridad Pública y los jueces calificadores en sus respectivos ámbitos de competencia.
 
 ###### ARTICULO 3.
 
@@ -55,17 +55,21 @@ II.- Las Asociaciones de padres de familia de las escuelas e institutos público
 
 ### CAPITULO II. DE LAS SECCIONES RESERVADAS EN LOS LOCALES CERRADOS Y ESTABLECIMIENTOS
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 4.
 
-En los locales cerrados y establecimientos en los que se expenda al público alimentos para consumo, los propietarios, poseedores o responsables de la negociación de que se trate deberán de limitar de acuerdo a la demanda de los usuarios, secciones reservadas para no fumadores y para quienes fumen durante su estancia en las mismas. En los hospitales y clínicas deberá destinarse una sala de espera con sección reservada para quienes deseen fumar.
+En los locales cerrados y establecimientos en los que se expenda al público alimentos para consumo, los propietarios, poseedores o responsables de la negociación de que se trate deberán de limitar de acuerdo a la demanda de los usuarios, secciones reservadas para no fumadores, y para quienes fumen durante estancia en los mismos. En los hospitales y clínicas deberá destinarse una sala de espera con sección reservada para quienes deseen fumar.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE AGOSTO DE 2007)</small>
+Dichas secciones deberán estar identificadas con señalización en lugares visibles al público asistente y contar con ventilación adecuada.
 
-Asimismo deberán colocar emblemas visibles para el público, que indique las secciones correspondientes y extractores o purificadores para que las personas que no fuman no sean afectadas en su salud.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 5.
 
-Los propietarios, poseedores o responsables de los locales cerrados y establecimientos de que se trate, dispondrán la forma en que ellos mismos o sus empleados vigilarán que fuera de las secciones señaladas a que se refiere el artículo anterior no haya personas fumando. En caso de haberlas, deberán exhortarlas a dejar de fumar o a cambiar a la sección indicada. En caso de negativa, podrán negar su conducta deberán dar aviso a la Dirección General de Policía Municipal, quien levantará constancia que acredite la negativa del infractor.
+Los propietarios, poseedores o responsables de los locales cerrados y establecimientos de que se trate, dispondrán la forma en que ellos mismos o sus empleados vigilarán que fuera de las secciones señaladas a que se refiere el artículo anterior no haya personas fumando. En caso de haberlas, deberán exhortarlas a dejar de fumar o a cambiar a la sección indicada. En caso de negativa, podrán negar su conducta deberán dar aviso a la Dirección de Policía Municipal, quien levantará constancia que acredite la negativa del infractor.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 6.
 
@@ -93,9 +97,11 @@ VI.- En los auditorios, bibliotecas y salones de clase de las escuelas de educac
 
 VII.- En general, a todo lugar cerrado al que tenga acceso el público.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 8.
 
-Los propietarios, poseedores o responsables de los vehículos a que se refiere la fracción III del artículo anterior, deberán fijar en el interior y exterior de los mismos, letreros o emblemas que indiquen la prohibición de fumar, en caso de que algún pasajero se niegue a cumplir con la prohibición, deberán dar aviso a la Dirección General de la Policía Municipal.
+Los propietarios, poseedores o responsables de los vehículos a que se refiere la fracción III del artículo anterior, deberán fijar en el interior y exterior de los mismos, letreros o emblemas que indiquen la prohibición de fumar, en caso de que algún pasajero se niegue a cumplir con la prohibición, deberán dar aviso a la, Dirección de Policía Municipal.
 
 En caso de vehículos o taxis para transporte individual, corresponde al conductor determinar si en el mismo se autoriza o no fumar a los pasajeros. Debiendo colocar un letrero visible en ese sentido.
 
@@ -223,11 +229,11 @@ Las notificaciones se harán en días y horas hábiles.
 
 ### CAPITULO VII. DEL RECURSO DE INCONFORMIDAD
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 24.
 
-El Recurso de Inconformidad tiene por objeto que el Secretario de Bienestar social y Desarrollo Comunitario, revoque o modifique las resoluciones administrativas que se reclaman del Director de Policía y del Director de Tránsito.
+El Recurso de Inconformidad tiene por objeto que el Secretario de Bienestar social y Desarrollo Comunitario, revoque o modifique las resoluciones administrativas que se reclaman del C. Director de Policía y Director de Policía de Tránsito.
 
 ###### ARTICULO 25.
 
@@ -334,3 +340,11 @@ PRIMERO: Estas modificaciones entrarán en vigor al día hábil siguiente de su 
 SEGUNDO: Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes modificaciones.
 
 TERCERO: Se remita el presente a la C. Presidenta Municipal, a fin de que tenga a bien instruir al C. Secretario del R. Ayuntamiento, se sirva enviar los presentes acuerdos al C. Secretario General de Gobierno para su debida publicación en el Periódico Oficial. Así mismo proceda también el C. Secretario del R. Ayuntamiento a su publicación en la Gaceta Municipal.
+
+P.O. 3 DE JULIO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 13 DE JUNIO DE 2013: SE APRUEBA REFORMAR EL TEXTO DEL REGLAMENTO PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL MUNICIPIO DE GUADALUPE, NUEVO LEÓN”.]
+
+PRIMERO: Las presentes reformas al Reglamento para la Protección de Los No Fumadores en el Municipio de Guadalupe, N. L., entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO: Gírese el presente al Presidente Municipal para que instruya al Secretario de Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
