@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-272-que-crea-el-instituto-de-la-policia-auxiliar-459
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-12"
-last_updated: "2007-02-19"
+last_updated: "2013-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45973&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 272 QUE CREA EL INSTITUTO DE LA POLICIA AUXILIAR Y PROTECCION PATRIMONIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY QUE CREA EL INSTITUTO DE LA POLICIA AUXILIAR Y PROTECCION PATRIMONIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY QUE CREA EL INSTITUTO DE LA POLICÍA AUXILIAR Y PROTECCIÓN PATRIMONIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 12 de agosto de 2005.
 
@@ -205,7 +205,7 @@ Los servicios de seguridad que preste el Instituto y los bienes que comercialice
 
 ### CAPÍTULO CUARTO. De su Organización
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 9.
 
@@ -255,7 +255,7 @@ X. El Comisionado del Instituto, quien tendrá el carácter de secretario ejecut
 
 La Junta de Gobierno contará con un Secretario Técnico propuesto por el Comisionado y aprobado por el Presidente. El cargo de miembro de la Junta de Gobierno es honorífico y, sólo por excepción, podrá desempeñarse por medio de un suplente que deberá tener un cargo inferior inmediato al del miembro propietario.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 11.
 
@@ -281,33 +281,13 @@ La dirección y la administración del Instituto de la Policía Auxiliar y Prote
 
 Para ser titular del Instituto de la Policía Auxiliar y Protección Patrimonial, deberá reunir los requisitos que establece el artículo 7 de la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2013)</small>
+
 ###### Artículo 15.
 
-El Instituto de la Policía Auxiliar y Protección Patrimonial, contará además con la siguiente estructura orgánica central, cuyos titulares serán propuestos por el propio Comisionado y aprobados por la Junta de Gobierno para el cumplimiento de sus atribuciones:
+El Instituto de la Policía Auxiliar y Protección Patrimonial, para el despacho de los asuntos que le competan, se auxiliará con gerentes o sus equivalentes, subgerentes, jefes de departamento, oficina, sección y mesa, y demás prestadores de servicios de apoyo técnico o asesoría, cuando así lo señale su reglamento interior y lo permita su presupuesto.
 
-> <small>(F. DE E., G.O. 2 DE OCTUBRE DE 2008)</small>
-
-Gerente de Comercialización de Servicios y Atención a Usuarios;
-
-(REFORMADO, G.O. 19 DE FEBRERO DE 2007) (F. DE E., G.O. 2 DE OCTUBRE DE 2008)
-
-Gerente de Operaciones;
-
-Gerente Jurídico y Consultivo;
-
-Gerente de Supervisión y Control;
-
-Gerente de Desarrollo Humano y Capacitación;
-
-Gerente de Administración;
-
-Gerente de Cobranza y Facturación;
-
-Gerente de Comercialización de Equipo y Tecnología;
-
-Gerente de Informática, y
-
-Contralor Interno.
+Los titulares de los mismos serán nombrados y removidos por el Comisionado, previo acuerdo de la Junta de Gobierno.
 
 ###### Artículo 16.
 
@@ -403,7 +383,7 @@ VIII. (DEROGADA, G.O. 19 DE FEBRERO DE 2007)
 
 IX. Las demás que le confieran otras disposiciones legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 21.
 
@@ -541,10 +521,16 @@ A t e n t a m e n t e
 
 Licenciado Fidel Herrera Beltrán, Gobernador del Estado.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 19 DE FEBRERO DE 2007.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE JULIO DE 2013.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
