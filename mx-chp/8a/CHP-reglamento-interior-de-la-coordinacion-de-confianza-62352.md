@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-coordinacion-de-confianza-62352"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-02"
-last_updated: "2008-07-02"
+last_updated: "2013-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN DE CONFIANZA AGROPECUARIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN DE FOMENTO AGROALIMENTARIO SUSTENTABLE, PUBLICADO EN EL P.O. DE 3 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 2 de julio de 2008.
 
@@ -354,3 +356,21 @@ Artículo Quinto.- En cumplimiento al artículo 8°, de la Ley Orgánica de la A
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los treinta días del mes de abril del año dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Sergio Ernesto Gutiérrez Villanueva, Secretario del Campo.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE JULIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Coordinación de Confianza Agropecuaria, emitida mediante publicación número 822-A-2008, en el Periódico Oficial número 101, de fecha 02 de julio de 2008.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+Artículo Cuarto.- Las actualizaciones al Manual de Organización de la "COFAS", deberán expedirse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Reglamento Interior.
+
+Artículo Quinto.- En tanto se expiden las actualizaciones del Manual de Organización respectivo, el Coordinador queda facultado para resolver las incidencias de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto.- En los casos no previstos en el presente reglamento y, en los que se presente controversia en cuanto a su aplicación y observancia, el Coordinador resolverá lo conducente.
+
+Artículo Séptimo.- En cumplimiento a lo previsto en el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
