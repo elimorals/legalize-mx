@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2013-07-01"
+last_updated: "2013-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JULIO DE 2013.
+> <small>N. DE E. MEDIANTE AVISO DE LA DIRECTORA GENERAL JURÍDICA Y DE ESTUDIOS LEGISLATIVOS PUBLICADO EN LA G.O. DE 3 DE JULIO DE 2013, SE DEJA SIN EFECTOS LA PUBLICACIÓN DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL NÚMERO 1637, DE FECHA PRIMERO DE JULIO DE DOS MIL TRECE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JUNIO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -10724,17 +10726,9 @@ C) Dirección General de Obras y Desarrollo Urbano;
 
 D) Dirección General de Servicios Urbanos;
 
-E) Dirección General de Desarrollo Social; y (sic)
+E) Dirección General de Desarrollo Social; y
 
 F) Dirección General de Desarrollo Delegacional.
-
-> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
-
-G) Dirección General de Participación Ciudadana y Prevención del Delito
-
-> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
-
-H) Dirección General de Protección Civil y Geomática
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -13368,23 +13362,15 @@ La Dirección General de Servicios Urbanos tendrá además de las señaladas en 
 
 I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
 
-II. (DEROGADA, G.O. 1 DE JULIO DE 2013)
+II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
 
-> <small>(REFORMADA, G.O. 1 DE JULIO DE 2013)</small>
+III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
 
-III. Dar mantenimiento a los parques que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
 
-IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y (sic)
+V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
 
-> <small>(REFORMADA, G.O 1 DE JULIO DE 2013)</small>
-
-V. Rehabilitar las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias que lo requieran en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias; y
-
-> <small>(ADICIONADA, G.O 1 DE JULIO DE 2013)</small>
-
-VI. Ejecutar las obras y equipamiento urbano que no estén asignadas a otras Unidades Administrativas de la Delegación.
-
-> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 160 Bis.
 
@@ -13401,14 +13387,6 @@ La Dirección General de Obras y Desarrollo Urbano tendrá además de las señal
 I. Brindar mantenimiento a las escuelas, mercados, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial.
 
 > <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
-
-###### Artículo 160 Quáter.
-
-La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, la siguiente atribución:
-
-I. Promover, coordinar e implementar programas encaminados a fortalecer el tejido social de los pueblos originarios y de la población indígena radicada en la demarcación territorial.
-
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 161.
 
@@ -13464,7 +13442,7 @@ XXIII. Realizar acciones tendientes a la promoción turística de la demarcació
 
 XXIV. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
 
-> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2013)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 161 Bis.
 
@@ -16485,3 +16463,13 @@ G.O. 1 DE JULIO DE 2013.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
+
+G.O. 3 DE JULIO DE 2013.
+
+DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL AVISO.
+
+AVISO POR EL QUE SE DEJA SIN EFECTOS LA PUBLICACIÓN DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL NÚMERO 1637, DE FECHA PRIMERO DE JULIO DE DOS MIL TRECE
+
+Primero.- Por un error en la edición del ejemplar de la Gaceta Oficial del Distrito Federal número 1637 de fecha 1 de julio de 2013, fue insertado el Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Reglamento Interior de la Administración Pública del Distrito Federal.
+
+Segundo.- De conformidad con el Aviso por el que se establecen las Reglas de Publicidad de la Gaceta Oficial del Distrito Federal, queda sin efectos la publicación del Decreto de referencia.
