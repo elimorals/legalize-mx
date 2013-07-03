@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-consejo-de-la-judicatura-del-estado-835
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-31"
-last_updated: "2011-10-31"
+last_updated: "2013-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 3 DE JULIO DE 2013.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 31 de octubre de 2011.
 
@@ -259,13 +259,17 @@ XII. Asistir a las sesiones del Consejo; y
 
 XIII. Las demás que determine la Ley Orgánica, el Pleno del Consejo o el Presidente.
 
+> <small>(REFORMADO, G.G. 3 DE JULIO DE 2013)</small>
+
 ###### Artículo 16.
 
-Para el despacho de los asuntos, la Secretaría General de Acuerdos contará con dos direcciones de área:
+Para el despacho de los asuntos, la Secretaria General de Acuerdos contará con las Direcciones de área siguientes:
 
-I. Dirección de Seguimiento de Acuerdos; y
+I. Dirección de Seguimiento de Acuerdos;
 
-II. Dirección de Archivo General.
+II. Dirección de Archivo Judicial; y
+
+III. Direcciones de las Centrales de Ejecutores y Notificadores, cuyas facultades, organización y funcionamiento estarán precisados en las disposiciones que apruebe el Consejo.
 
 ###### Artículo 17.
 
@@ -888,3 +892,11 @@ EL SECRETARIO GENERAL DE ACUERDOS
 LIC. JOSÉ ANTONIO PINAL MORA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 3 DE JULIO DE 2013.
+
+PRIMERO. Publíquese este acuerdo en el Periódico Oficial del Gobierno del Estado "Gaceta del Gobierno", en el Boletín Judicial y en la página de internet de esta Institución.
+
+SEGUNDO. Este acuerdo entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
