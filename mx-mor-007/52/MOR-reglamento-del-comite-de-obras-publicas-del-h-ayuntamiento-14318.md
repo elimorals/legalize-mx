@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-comite-de-obras-publicas-del-h-ayuntamiento-1431
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-07-29"
-last_updated: "1998-07-29"
+last_updated: "2013-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MOR"
 ---
 # REGLAMENTO DEL COMITE DE OBRAS PUBLICAS DEL H. AYUNTAMIENTO DE CUERNAVACA
 
-REGLAMENTO DEL COMITE DE OBRAS PUBLICAS DEL H. AYUNTAMIENTO DE CUERNAVACA
+REGLAMENTO DEL COMITÉ DE OBRAS PÚBLICAS DEL H. AYUNTAMIENTO DE CUERNAVACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL COMITÉ Y SUBCOMITÉ DE OBRAS PÚBLICAS DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS, PUBLICADO EN P.O. DE 3 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de julio de 1998.
 
@@ -160,3 +162,17 @@ SECRETARIO DEL H. AYUNTAMIENTO.
 C. ING. OSCAR SERGIO HERNÁNDEZ BENITEZ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE JULIO DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se abroga el Reglamento del Comité de Obras Públicas del H. Ayuntamiento de Cuernavaca, publicado en el Periódico Oficial "Tierra y Libertad" número 3929, Tercera Sección, de fecha 29 de julio de 1998.
+
+TERCERO.- En un plazo que no exceda los quince días naturales siguientes a la entrada en vigor del presente ordenamiento, deberán instalarse el Comité y el Subcomité de Obras Públicas del Ayuntamiento de Cuernavaca, así como aprobar su calendario de sesiones.
+
+CUARTO.- Se abrogan las disposiciones de carácter municipal que se opongan a lo establecido en el presente Reglamento.
+
+QUINTO.- Publíquese el presente Reglamento en la Gaceta Municipal y désele la difusión correspondiente.
