@@ -4,7 +4,7 @@ identifier: "CHP-ley-estatal-de-derechos-58004"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2013-02-15"
+last_updated: "2013-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ESTATAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -2689,15 +2689,17 @@ de Contingencia. 20.0
 
 #### Sección Cuarta. Derechos por Servicios que Presta el Centro Único de Capacitación Policiaca de Investigación y Preventiva del Estado de Chiapas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2013)</small>
 
 ###### Artículo 32-A.
 
-Por los servicios que presta el Centro Único de Capacitación Policiaca de Investigación y Preventiva del Estado de Chiapas, se causarán y pagarán por cada uno de los servicios, los siguientes derechos:
+Por los servicios que presta el Instituto de Formación Policial, se causarán y pagarán por cada uno de los servicios, los siguientes derechos:
 
 SERVICIO TARIFA
 
 S.M.D.V.E.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 I. Reclutamiento y selección de personal:
 
@@ -2723,6 +2725,8 @@ d) Reexpedición de Certificado Médico de
 
 No Impedimento Físico. 2.0
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 II. Curso de Capacitación:
 
 a) Curso de Formación Inicial. 16.0
@@ -2747,6 +2751,8 @@ incluye capacitación, hospedaje, alimentación,
 
 material didáctico). 67.0
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 III. Expedición de constancias:
 
 a) Expedición de Constancia de Capacitación. 2.0
@@ -2754,6 +2760,8 @@ a) Expedición de Constancia de Capacitación. 2.0
 b) Expedición de Constancia de Estudios. 1.0
 
 c) Expedición de Credencial de Estudiante. 0.5
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 IV. Reexpedición de Constancias de Capacitación. 5.0
 
@@ -4184,3 +4192,9 @@ P.O. 15 DE FEBRERO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 3 DE JULIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
