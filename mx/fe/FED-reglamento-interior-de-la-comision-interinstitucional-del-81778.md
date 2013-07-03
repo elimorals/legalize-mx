@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-interinstitucional-del-81778
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-22"
-last_updated: "2011-09-15"
+last_updated: "2013-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81778&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,11 @@ issue_date: "2011-06-14"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION INTERINSTITUCIONAL DEL CUADRO BASICO Y CATALOGO DE INSUMOS DEL SECTOR SALUD
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JULIO DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-REGLAMENTO INTERIOR DE LA COMISION INTERINSTITUCIONAL DEL CUADRO BASICO Y CATALOGO DE INSUMOS DEL SECTOR SALUD
+REGLAMENTO INTERIOR DE LA COMISIÓN INTERINSTITUCIONAL DEL CUADRO BÁSICO Y CATÁLOGO DE INSUMOS DEL SECTOR SALUD
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL 15 DE SEPTIEMBRE DE 2011.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 3 DE JULIO DE 2013.</small>
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 22 de junio de 2011.
 
@@ -505,21 +503,13 @@ Serán excluidos del Cuadro Básico y Catálogo aquellos insumos para los que se
 
 El Consejo publicará en el Diario Oficial de la Federación los formatos de cédulas descriptivas que se utilizarán para solicitar la actualización de insumos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JULIO DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 3 DE JULIO DE 2013)</small>
 
 ###### Artículo 36.
 
-Para efectos de la actualización del Cuadro Básico y Catálogo se establecen tres periodos al año:
+Para efectos de la actualización del Cuadro Básico y Catálogo, las solicitudes de actualización y la documentación que las acompaña se recibirán en cualquier día hábil del año en curso. La Secretaría Técnica del Comité correspondiente dispondrá de quince días hábiles para efectuar la revisión y valoración de la solicitud y documentación con el fin de constatar que cumple con los requisitos señalados en este Reglamento.
 
-a. Enero - abril
-
-b. Mayo - agosto
-
-c. Septiembre - diciembre
-
-Las solicitudes de actualización y la documentación que las acompaña se recibirán los primeros cinco días hábiles de cada periodo. La Secretaría Técnica del Comité correspondiente dispondrá de quince días hábiles para efectuar la revisión y valoración de la solicitud y documentación con el fin de constatar que cumple con los requisitos señalados en este Reglamento.
-
-Si en quince días hábiles contados a partir de la fecha de recepción de su solicitud el solicitante no recibe ninguna comunicación, se entenderá que la solicitud fue aceptada y se deberá presentar la documentación para continuar con el proceso de actualización del insumo
+Si en quince días hábiles contados a partir de la fecha de recepción de su solicitud el solicitante no recibe ninguna comunicación, se entenderá que la solicitud fue aceptada y se deberá presentar la documentación para continuar con el proceso de actualización del insumo.
 
 #### Sección II: Sobre los expertos
 
