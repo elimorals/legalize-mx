@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-en-el-estado-de-56449
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-20"
-last_updated: "2010-12-27"
+last_updated: "2013-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSION Y AL EMPLEO EN EL ESTADO DE NUEVO LEON
 
-ULTMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2007.
 
@@ -555,31 +555,19 @@ Todos los integrantes de los Consejos Ciudadanos Asesores de los Agrupamientos E
 
 ###### ARTÍCULO 39.
 
-Sin menoscabo de lo dispuesto por las leyes federales en materia de competencia económica y de las disposiciones relevantes de los acuerdos internacionales firmados por México y en apoyo a las micro, pequeñas y medianas empresas y a las de alto valor agregado, el Ejecutivo del Estado por conducto de la Secretaría, emprenderá las siguientes acciones:
-
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
-
-I. Otorgará preferencia, en Igualdad de condiciones, para la adquisicion de los insumos que requieran en sus actividades, a los provenientes de las micro, pequeñas y medianas empresas locales, y de aquellas que generen empleos de alto valor agregado;
-
-II. Promoverá que los gobiernos municipales de la Entidad se sumen permanentemente a este mismo compromiso;
-
-III. Prestará asesoría e información, conjuntamente con los gobiernos municipales, para apoyar y orientar su establecimiento, así como sistemas simplificados para autorizar su localización, funcionamiento y desarrollo;
-
-IV. Implementará programas de apoyo para promover la competitividad, modernización y capacitación de las micro, pequeñas y medianas empresas y aquellas que generen innovación tecnológica en los sectores industrial, comercial y de servicios, y el acercamiento de las herramientas apropiadas para ser competitivas, promoviendo y apoyando la realización de estudios de factibilidad, mercado, tecnología y capacitación; y
-
-V. Las demás acciones que, en los términos de esta Ley, se determinen necesarias en apoyo a esas empresas y/o sociedades.
+(DEROGADO, P.O. 4 DE JULIO DE 2013)
 
 ###### ARTÍCULO 40.
 
-Para que las micro, pequeñas y medianas empresas eleven su rentabilidad, mejoren el aprovechamiento de sus recursos e incrementen el empleo y su calidad, se promoverán instrumentos y mecanismos de fomento y otros apoyos financieros, mediante la coordinación y concertación con el Gobierno Federal y las instituciones competentes para la reconversión productiva, la capitalización, investigación y desarrollo tecnológico.
+(DEROGADO, P.O. 4 DE JULIO DE 2013)
 
 ###### ARTÍCULO 41.
 
-El Gobierno del Estado, en coordinación con los sectores social, privado y la comunidad académica, fomentará el empleo impulsando de manera permanente la capacitación y los programas de incremento a la productividad, orientándose preferentemente hacia el desarrollo de las actividades económicas definidas en los programas gubernamentales.
+(DEROGADO, P.O. 4 DE JULIO DE 2013)
 
 ###### ARTÍCULO 42.
 
-El Gobierno del Estado, podrá concertar con los gobiernos municipales y las instituciones de educación superior, la integración de una red estatal de incubadoras de nuevas empresas, con el fin de apoyar el desarrollo económico y crecimiento del empleo en el Estado, con enfoque prioritario a las actividades de mayor valor agregado, innovación y contenido tecnológico. La Secretaría tendrá a su cargo la coordinación de esta red de incubadoras en el Estado.
+(DEROGADO, P.O. 4 DE JULIO DE 2013)
 
 ### CAPÍTULO OCTAVO. DEL PROCEDIMIENTO ADMINISTRATIVO Y LAS SANCIONES
 
@@ -724,3 +712,21 @@ P.O. 27 DE DICIEMBRE DE 2010
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- El Ejecutivo del Estado deberá realizar las modificaciones que correspondan al Reglamento de la Ley de Fomento a la Inversión y el Empleo en el Estado de Nuevo León, en un plazo de noventa días naturales contados desde el día de la entrada en vigor del presente Decreto.
+
+P.O. 4 DE JULIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- Se derogan todas las disposiciones contenidas en Leyes, reglamentos, Decretos y Acuerdos, en lo que se opongan a lo establecido en el presente Decreto.
+
+Artículo Tercero.- Dentro de los ciento veinte días naturales posteriores a la entrada en vigor de la Ley referida en el Artículo primero de este Decreto, el Ejecutivo del Estado deberá expedir el Reglamento de la misma.
+
+Artículo Cuarto.- El Consejo para el Desarrollo de la Micro, Pequeña y Mediana Empresa referida en el Artículo primero de este Decreto, deberá integrarse dentro de los sesenta días naturales siguientes a la entrada en vigor de esta Ley.
+
+Artículo Quinto.- Para efectos de la constitución del Fondo al Fomento a la Micro, Pequeña y Mediana Empresa previsto en el Artículo 15 de la Ley referida en el Artículo primero de este Decreto, se integrará inicialmente por un monto no menor a $140,000,000 (ciento cuarenta millones de pesos), constituido mediante aportaciones mensuales iguales, que deberá efectuar la Secretaría de Finanzas y Tesorería General del Estado durante los meses de enero a diciembre de 2014.
+
+Artículo Sexto.- Para efectos de lo dispuesto en la fracción VI del Artículo 7, referida en el Artículo primero de este Decreto, la gradualidad de las asignaciones que con respecto de la totalidad de adquisiciones y arrendamientos de bienes y servicios, así como de obra púbica que realicen las dependencias y entidades de la Administración Pública Estatal a las MIPYMES, deberán sujetarse a los siguientes plazos y porcentajes como mínimo:
+
+I. Se establece un plazo de dos años contados a partir de la entrada en vigor del presente Decreto, a efecto que se destine el 10%, y
+
+II. Concluido el plazo a que se refiere la fracción I del presente artículo, la Secretaría revisará la gradualidad de referencia para los siguientes cuatro años, a fin de que fenecido este término se alcance el porcentaje del 30%.
