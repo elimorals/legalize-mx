@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2012-12-31"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -309,7 +309,7 @@ EMPADRONAMIENTO.- Los sujetos de este impuesto están obligados a empadronarse, 
 
 EXENCIONES.- Están exceptuados del pago de este impuesto:
 
-a) Los ingresos afectos al apago del Impuesto Federal sobre Ingresos Mercantiles.
+a) Los ingresos afectos al pago del Impuesto Federal sobre Ingresos Mercantiles.
 
 b) Los ingresos que conforme a la Constitución Política de los Estados Unidos Mexicanos están expresamente concedidos a la imposición Federal.
 
@@ -497,7 +497,7 @@ II.- Los predios propiedad de la Universidad Autónoma de Nuevo León, así como
 
 III.- Los predios que perteneciendo a particulares, estén destinados a un servicio público gratuito autorizado por el Estado o por el Gobierno Municipal, siempre que por los mismos sus propietarios no perciban renta.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 4 DE JULIO DE 2013)
 
 IV.- Las viviendas cuyo valor catastral no exceda de 6,049 cuotas, siempre que el propietario la habite y no tenga en propiedad o posesión otro bien raíz en el Estado.
 
@@ -515,11 +515,11 @@ VI.- Los predios afectados al patrimonio de familia, en los términos del Códig
 
 VII.- Los inmuebles propiedad de instituciones de beneficencia privada o de asociaciones con objetivos similares, siempre que dichos inmuebles estén destinados directamente a los fines de las mismas y que en los mismos no se realicen actividades lucrativas o de negocio. No se considerará actividad lucrativa o de negocio, los frutos o productos de los bienes inmuebles de las instituciones o asociaciones que se destinen a los fines de las mismas, siempre que sus informes hayan sido aprobados por la Junta de Beneficencia Privada del Estado.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 4 DE JULIO DE 2013)
 
 VIII.- Los predios pertenecientes a entes u organismos creados por el Gobierno del Estado para solucionar el problema de la vivienda y de la tenencia legal de la tierra; o a las personas que lleven a cabo programas concretos con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey" respecto de los predios directamente destinados a esos programas; y, predios cuyo valor catastral no exceda de 6,049 cuotas, adquiridos por las personas que resulten directamente beneficiadas con tales programas, siempre que habiten tal inmueble y no sean propietarios o poseedores de otro inmueble en el Estado y que la propiedad o posesión por la que se solicite, esté inscrita en el Registro Público de la Propiedad y del Comercio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 IX.- Los predios cuyo valor catastral no exceda de 7,354 cuotas y pertenezcan a:
 
@@ -547,9 +547,9 @@ e) Jubilados y pensionados con ingresos propios, cuyo monto diario no exceda de 
 
 f) Personas de 60 años y de más edad, con ingresos propios cuyo monto no exceda de dos cuotas y media o sin ingresos. En este caso únicamente se exigirá para acreditar este supuesto, la credencial de elector y el recibo de ingresos respectivo en su caso.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2013)</small>
 
-Si el valor catastral del predio excede de 7,354 cuotas y no de 14,708 cuotas, se pagará por concepto de impuesto predial anual el doble de tarifa especial.
+Si el valor catastral del predio excede de 7,354 cuotas y no de 14,708 cuotas, se pagará por concepto de impuesto predial anual el doble de la tarifa especial.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -591,7 +591,7 @@ La Tesorería Municipal que corresponda, de acuerdo a los párrafos anteriores, 
 
 #### SECCION SEXTA. DEL PAGO DEL IMPUESTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 ###### ARTICULO 21 Bis 12.
 
@@ -612,6 +612,10 @@ El pago anticipado del Impuesto Predial no impide el cobro de diferencias que de
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 Cuando se hayan establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva se cobrarán o compensarán las diferencias que resulten.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2013)</small>
+
+Por el pago del impuesto, el contribuyente recibirá comprobante de pago en términos de lo dispuesto en el artículo 8 del Código Fiscal del Estado.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -753,7 +757,7 @@ Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las perso
 
 Es base de este impuesto el valor gravable, que será el valor que resulte mayor entre el de operación y el valor catastral del inmueble.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 ###### ARTICULO 28 Bis 1.
 
@@ -811,7 +815,7 @@ XI.- En las adquisiciones de bienes del dominio privado que realicen los Municip
 
 XII.- En las adquisiciones de viviendas cuyo valor gravabable (sic), no exceda de 15 cuotas elevadas al año, siempre que el adquiriente sea una persona física y que no sea propietario o poseedor de otro bien inmueble en el Estado.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 También se cubrirá la tarifa especial en las adquisiciones de vivienda cuyo valor más alto entre el valor de adquisición y el valor catastral, no exceda de 9,398 cuotas, siempre que el adquirente sea jubilado o pensionado y que no sea propietario o poseedor de otro bien inmueble en el Estado.
 
@@ -827,7 +831,7 @@ Cuando uno o más coherederos adquieran porciones mayores a la parte heredada co
 
 XIV.- En las donaciones que se hagan entre ascendientes y descendientes en línea recta, así como en las que se hagan entre el adoptante y el adoptado, entre sus respectivos ascendientes y descendientes en línea recta, y entre éstos y aquéllos. En el caso de que el inmueble forme parte de la sociedad conyugal del ascendiente o del descendiente, la tarifa especial operará respecto de la totalidad de los derechos de la sociedad conyugal relacionados con el inmueble.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 Los predios a los que se les haya aplicado la tarifa especial que señala esta fracción únicamente se les podrá aplicar nuevamente este beneficio, cuando hayan transcurrido 2 años a partir de la fecha de escrituración de la anterior donación.
 
@@ -907,7 +911,7 @@ Si el arrendatario financiero se encuentra en los supuestos previstos en el art�
 
 En la determinación de este impuesto se deberán seguir las reglas siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 I.- Para efectos de este impuesto, se utilizará el salario mínimo general de la zona económica en donde se encuentre ubicado el inmueble, vigente al momento en que se pague el impuesto.
 
@@ -957,7 +961,7 @@ IV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1991)
 
 El enajenante responde solidariamente del impuesto que deba pagar el adquirente, cesando su responsabilidad desde el momento en que compruebe fehacientemente ante la Tesorería Municipal, mediante los elementos de prueba que ésta exija, que ha recibido el pago total del precio pactado en la operación de enajenación, siempre y cuando la operación se haya elevado a escritura pública.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 El plazo para computar la extinción de las facultades de las autoridades fiscales a que se refiere el artículo 67 del Código Fiscal del Estado se iniciará a partir de la fecha en que se presente la declaración del impuesto ante la Tesorería Municipal.
 
@@ -983,7 +987,7 @@ En caso de no cumplir con lo anterior o haber cumplido en forma parcial, con la 
 
 El pago del impuesto deberá hacerse:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 I.- Dentro de los 60 días naturales seguidos a aquél en que:
 
@@ -1017,7 +1021,7 @@ III.- Dentro de los treinta días siguientes al momento de efectuarse la cesión
 
 IV.- En los casos no previstos en las fracciones anteriores, dentro del mes siguiente a aquél en que los contratantes firmen la escritura pública correspondiente, y si no están sujetos a esta formalidad, a partir del momento en que se adquiera el dominio conforme a las leyes.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 La autoridad fiscal municipal por sí no podrá modificar el valor catastral; sin perjuicio de los demás derechos de fiscalización que aquélla conserva.
 
@@ -1059,7 +1063,7 @@ Las autoridades judiciales que dicten resoluciones en las que se transmita el do
 
 Los funcionarios adscritos a la Dirección del Registro Público de la Propiedad y del Comercio, no inscribirán documento público o privado alguno en donde conste la trasmisión del dominio de un inmueble, si no se demuestra el pago de este impuesto y se haya hecho constar en el documento a inscribir, los datos del recibo oficial o declaración de pago del impuesto correspondiente.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 ###### ARTICULO 28 Bis 6.
 
@@ -1143,7 +1147,7 @@ REGLAS:- En la determinación, liquidación y cobro de este impuesto se observar
 
 I.- Los sujetos expedirán el boletaje correspondiente. Cada boleto deberá ser numerado progresivamente y sellado por la Tesorería Municipal, y contener el nombre de la empresa o persona que organice la función, precio de entrada y categoría de la localidad a que de derecho.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 En caso de que los contribuyentes no expidan el boletaje con anterioridad al evento y el organizador del evento utilice medios electrónicos de impresión y/o venta de boletos, se tomará como base para la determinación y liquidación del Impuesto el documento que contiene el reporte electrónico de la venta en las diferentes localidades, el costo de cada una de ellas y el acumulado correspondiente. Los emisores y vendedores de boletaje electrónico serán solidariamente responsables con los organizadores del evento ante el Municipio, de la presentación de toda la documentación necesaria para la determinación y liquidación del impuesto de espectáculos.
 
@@ -1157,7 +1161,7 @@ II.- El impuesto se determinará, al terminar cada función, por los interventor
 
 III.- La Tesorería Municipal podrá exigir que los sujetos garanticen, previamente, a la autoridad municipal, la recaudación y entrega puntual del rendimiento del impuesto a que se refiere este Artículo, mediante efectivo o cheque certificado a nombre de la Tesorería Municipal correspondiente, el cual se depositará una vez vencido el término del pago del impuesto, cuando éste no se haya realizado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 IV.- El impuesto deberá quedar liquidado dentro de los 10-diez días hábiles siguientes a la terminación de la función.
 
@@ -2201,7 +2205,7 @@ En caso de reproducción en fotografías, cintas de video, dispositivos de archi
 
 En todos los casos, con excepción de las solicitudes tramitadas en los términos que establece la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, por búsqueda y localización de documentos, archivos y expedientes y demás información solicitada, generará 1 cuota, en cada caso sin perjuicio del derecho que corresponda por las copias expedidas.
 
-(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)(F. DE E., P.O. 18 DE ENERO DE 1999)
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998) (F. DE E., P.O. 18 DE ENERO DE 1999)
 
 Tratándose de constancias de no infracciones, relativas a control vehícular, .25 cuotas.
 
@@ -2331,7 +2335,7 @@ Por la emisión de la anuencia municipal y en su caso, por revalidación anual d
 
 A) Licencias y autorizaciones de cambio de giro o domicilio:
 
-1.- Estadios de futbol y beisboI, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15,000 personas, 1,500 cuotas, con capacidad de más de 15,000 personas y hasta 25,000 personas, 2,700 cuotas y con capacidad de más de 25,000 personas, 3,500 cuotas;
+1.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15,000 personas, 1,500 cuotas, con capacidad de más de 15,000 personas y hasta 25,000 personas, 2,700 cuotas y con capacidad de más de 25,000 personas, 3,500 cuotas;
 
 2.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 2.390 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 2,825 cuotas;
 
@@ -2683,7 +2687,7 @@ IV.- Por servicios de revisión de documentación en las operaciones de adquisic
 
 Este derecho se cubrirá únicamente en los casos en que no exista cantidad a pagar por concepto de Impuesto Sobre Adquisición de Inmuebles.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 4 DE JULIO DE 2013)
 
 V.- Por servicios de examen médico que preste el municipio, a las personas que lo soliciten, de conformidad con las disposiciones legales aplicables en materia de salud, como sigue:
 
@@ -2699,7 +2703,7 @@ e) Consulta médica o dental general 0.50 cuotas
 
 f) Consulta médica por especialista 0.75 cuotas
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 4 DE JULIO DE 2013)
 
 VI.- Por servicios sanitarios que preste el municipio, a las personas que lo soliciten, de conformidad con las disposiciones legales aplicables en materia de salud, como sigue:
 
@@ -2849,31 +2853,31 @@ El propietario podrá solicitar al Municipio el servicio de recolección, trasla
 
 Por el servicio de limpia y recolección de desechos industriales y comerciales, que preste el Municipio, se cobrará por cada inmueble ubicado en el Municipio, por mes:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 a) Inmuebles que en promedio generen hasta 5 kilogramos diarios de basura 2 cuotas
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 b) Inmuebles que en promedio generen más de 5 Kilogramos y hasta 10 kilogramos diarios de basura 4 cuotas
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 c) Inmuebles que en promedio generen más de 10 kilogramos y hasta 25 kilogramos diarios de basura 6 cuotas
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 d) Inmuebles que en promedio generen más de 25 kilogramos y hasta 50 kilogramos diarios de basura 14 cuotas
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 e) Inmuebles que en promedio generen más de 50 kilogramos y hasta 100 kilogramos diarios de basura 25 cuotas
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 f) Inmuebles que en promedio generen más de 100 kilogramos y hasta 200 kilogramos diarios de basura 48 cuotas
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 g) Inmuebles que en promedio generen más de 200 kilogramos de basura o el equivalente a tres metros cúbicos diarios, se cobrarán 48 cuotas más 0.50 cuotas por cada 5 kilogramos adicionales de basura o fracción que se generen.
 
@@ -2903,13 +2907,13 @@ En el caso de los contribuyentes mencionados en los incisos a) y b), deberán ef
 
 Por ocupación de la vía pública:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 4 DE JULIO DE 2013)
 
 I.- Por ocupar la vía pública con toda clase de instalaciones fijas o semifijas, se pagarán 0.016 cuotas diarias por metro cuadrado completo o fracción. En ningún caso la cantidad a pagar será inferior a lo que corresponda por un metro.
 
 Por otras ocupaciones de la vía pública, se pagarán 0.081 cuotas diarias por metro cuadrado completo o fracción. En ningún caso la cantidad a pagar será inferior a lo que corresponda por un metro.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 4 DE JULIO DE 2013)
 
 II.- Por ocupar la vía pública, los propietarios de sitios de automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán 5 cuotas por unidad trimestralmente.
 
@@ -2925,11 +2929,11 @@ a) Las empresas comerciales 5 cuotas por metro cuadrado.
 
 b) Los particulares 1.5 cuotas por metro cuadrado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 Se exceptúan de lo anterior, los lugares en donde se encuentren instalados parquímetros, en cuyo caso se pagará una cuota adicional por metro cuadrado.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
 Dicha tarifa deberá pagarse de manera proporcional conforme los meses completos del año que hayan transcurrido.
 
@@ -3734,3 +3738,7 @@ P.O. 26 DE DICIEMBRE DE 2011.
 P.O. 31 DE DICIEMBRE DE 2012.
 
 Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2013.
+
+P.O. 4 DE JULIO DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
