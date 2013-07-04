@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ejecucion-de-penas-del-estado-de-jalisco-35280"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-29"
-last_updated: "2012-11-15"
+last_updated: "2013-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 LEY DE EJECUCIÓN DE PENAS DEL ESTADO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 15 DE NOVIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO 24426/LX/13 QUE REFORMA EL ARTICULO PRIMERO QUE EXPIDE LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DEL 1 DE ENERO DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2013 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 29 de noviembre de 2003.
 
@@ -921,7 +921,9 @@ P.O. 16 DE JUNIO DE 2012.
 
 P.O. 15 DE NOVIEMBRE DE 2012.
 
-PRIMERO. El presente decreto entrará en vigor el 1° de julio de 2013, previa su publicación en el periódico oficial El Estado de Jalisco.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2013)</small>
+
+PRIMERO. El presente decreto entrará en vigor el 1° de enero de 2014, previa su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Se abroga la Ley de Ejecución de Penas del Estado de Jalisco.
 
@@ -940,3 +942,9 @@ OCTAVO. El Tribunal de Ejecución de Penas deberá estar instalado dentro de los
 NOVENO. Los reglamentos que se disponen en el presente decreto, deberán elaborarse a más tardar sesenta días después de su entrada en vigor.
 
 DÉCIMO. Los procesos para reconsiderar la ejecución de alguna pena que haya iniciado con las leyes abrogadas por el presente decreto, seguirán su cauce legal siempre y cuando sean en beneficio del sentenciado.
+
+P.O. 4 DE JULIO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Poder Ejecutivo y el Poder Judicial, deberán de coordinarse para llevar a cabo, en la medida de sus posibilidades actuales, las obligaciones que establece la ley.
