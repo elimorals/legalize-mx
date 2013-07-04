@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-administracion-financiera-para-el-estado-de-nuevo-7422"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "2012-11-21"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE ADMINISTRACION FINANCIERA PARA EL ESTADO DE NUEVO LEON
 
-LEY DE ADMINISTRACION FINANCIERA PARA EL ESTADO DE NUEVO LEON
+LEY DE ADMINISTRACIÓN FINANCIERA PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de noviembre de 1994.
 
@@ -79,7 +79,7 @@ Para que surtan efectos las resoluciones, acuerdos, convenios o disposiciones, d
 
 ###### ARTICULO 5o.
 
-La aplicación de esta Ley se efectuará por el Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado, y la Contraloría y Transparencia Gubernamental, en sus respectivos ámbitos de competencia.
+La aplicación de esta ley se efectuará por el Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado, y la Contraloría y Transparencia Gubernamental, en sus respectivos ámbitos de competencia.
 
 ###### ARTICULO 6o.
 
@@ -213,7 +213,7 @@ El Estado impulsará la igualdad entre mujeres y hombres a través de la incorpo
 
 Los titulares de las dependencias y entidades, serán responsables de que se ejecuten con eficiencia, eficacia, efectividad y perspectiva de equidad de género, las acciones previstas en sus respectivos programas y presupuestos.
 
-Será obligatorio para todas las unidades administrativas responsables del gasto, la inclusión de programas orientados a promover la igualdad de género en sus presupuestos anuales, con un impacto diferenciado de género.
+Sera obligatorio para todas las unidades administrativas responsables del gasto, la inclusión de programas orientados a promover la igualdad de género en sus presupuestos anuales, con un impacto diferenciado de género.
 
 La Contraloría y Transparencia Gubernamental, verificará periódicamente los resultados de la ejecución de los programas y presupuestos de las dependencias y de las entidades, en materia de perspectiva de equidad de género.
 
@@ -227,7 +227,7 @@ III.- Fomentar la perspectiva de equidad de género en el diseño y la ejecució
 
 IV.- Establecer o consolidar en los programas bajo su responsabilidad, las metodologías de evaluación y seguimiento que generen información relacionada con indicadores para resultados con perspectiva de equidad de género;
 
-V.- Aplicar la perspectiva de equidad de género en las evaluaciones de los programas, con los criterios que emitan la Secretaría de Finanzas y Tesorería General del Estado y el Instituto Estatal de las Mujeres; e
+V.- Aplicar la perspectiva de equidad de género en las evaluaciones de los programas, con los criterios que emitan la Secretaria de Finanzas y Tesorería General del Estado y el Instituto Estatal de las Mujeres; e
 
 VI.- Incluir en sus programas y campañas de comunicación social contenidos que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género, y de roles y estereotipos que fomenten cualquier forma de discriminación. El Instituto Estatal de las Mujeres coadyuvará con las unidades administrativas responsables del gasto de las dependencias y entidades, en el contenido de estos programas y campañas.
 
@@ -737,7 +737,7 @@ I.- Celebrar, con sujeción a lo establecido en el artículo 106 de esta Ley y p
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
-II.- Efectuar, respecto de bienes muebles del patrimonio estatal, las operaciones relacionadas con los actos a que se refiere la fracción anterior, sujetándose en su caso, a las normas generales que expida la Secretaría de Finanzas y Tesorería General del Estado;
+II.- Efectuar, respecto de bienes inmuebles del patrimonio estatal, las operaciones relacionadas con los actos a que se refiere la fracción anterior, sujetándose en su caso, a las normas generales que expida la Secretaría de Finanzas y Tesorería General del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
@@ -809,7 +809,7 @@ La Secretaría de Finanzas y Tesorería General del Estado, y la Contraloría y 
 
 El registro de la propiedad inmobiliaria del Estado, así como de aquellos inmuebles que por cualquier título o circunstancia tenga en posesión o utilice el Estado, estará a cargo de la Secretaría de Finanzas y Tesorería General del Estado. El sistema de captación, almacenamiento y procesamiento de datos para el desempeño de la función registral, será definido en el reglamento respectivo.
 
-La Contraloría y Transparencia Gubernamental, en el ámbito de su competencia, está facultada para vigilar que las dependencias y entidades de la administración pública estatal y las demás instituciones públicas o privadas, proporcionen a la Secretaría de Finanzas y Tesorería General del Estado, la información a que se refiere el párrafo que antecede.
+La Contraloría y Transparencia Gubernamental, en el ámbito de su competencia, está facultada para vigilar que las dependencias y entidades de la administración pública estatal y las demás instituciones públicas o privadas, proporcionen a la Secretaria de Finanzas y Tesorería General del Estado, la información a que se refiere el párrafo que antecede.
 
 ###### ARTICULO 83.
 
@@ -1135,7 +1135,7 @@ El Ejecutivo del Estado y sus organismos descentralizados, fideicomisos y demás
 
 ###### ARTICULO 118.
 
-Con excepción del caso en que el monto de los bienes no exceda del valor que anualmente establezca el Congreso del Estado, la Secretaría de Finanzas y Tesorería General del Estado o el director general o funcionario equivalente del organismo descentralizado o fideicomiso, según corresponda, en un plazo que no excederá de veinte días hábiles contados a partir de la fecha en que se hubieren dado los supuestos a que se refieren los artículos 114 y 117 de ésta Ley, lo hará del conocimiento de la Contraloría Interna, acompañando la documentación que justifica tal situación.
+Con excepción del caso en que el monto de los bienes no exceda del valor que anualmente establezca el Congreso del Estado, la Secretaria de Finanzas y Tesorería General del Estado o el director general o funcionario equivalente del organismo descentralizado o fideicomiso, según corresponda, en un plazo que no excederá de veinte días hábiles contados a partir de la fecha en que se hubieren dado los supuestos a que se refieren los artículos 114 y 117 de ésta Ley, lo hará del conocimiento de la Contraloría Interna, acompañando la documentación que justifica tal situación.
 
 ###### ARTICULO 119.
 
@@ -1155,11 +1155,13 @@ El derecho que este artículo concede deberá ejercitarse ante la autoridad que 
 
 (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2006)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2013)</small>
+
+###### Artículo 123.
+
+Se establece el Comité de Operaciones Inmobiliarias del Estado como un órgano colegiado e interinstitucional de carácter consultivo, de opinión, y en su caso dictaminador, con el propósito de auxiliar en las operaciones concernientes a la limitación, afectación, gravamen, transmisión de dominio y el otorgamiento del uso y goce de los bienes inmuebles propiedad del Estado a favor de terceros, ya sea que se lleve a cabo mediante la enajenación, concesión, aprovechamiento, permuta, donación, explotación, garantía, arrendamiento, usufructo, comodato, derecho real de superficie o cualquier otro acto jurídico, cuando se comprometa por un término de cinco años el libre uso de los bienes inmuebles estatales.
+
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-###### ARTICULO 123.
-
-Se establece el Comité de Operaciones Inmobiliarias del Estado como un órgano colegiado e interinstitucional de carácter consultivo, de opinión, y en su caso dictaminador, con el propósito de auxiliar en las operaciones concernientes a la limitación, afectación, gravamen, transmisión de dominio y el otorgamiento del uso y goce de los bienes inmuebles propiedad del Estado a favor de terceros, ya sea que se lleve a cabo mediante la enajenación, concesión, aprovechamiento, permuta, donación, explotación, garantía, arrendamiento, usufructo, comodato, derecho real de superficie o cualquier otro acto jurídico.
 
 El Comité se integrará por representantes de las siguientes dependencias:
 
@@ -1185,13 +1187,27 @@ a) La Contraloría y Transparencia Gubernamental; y
 
 b) La Dependencia promovente.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 El representante de la Secretaría de Finanzas y Tesorería General del Estado presidirá las sesiones del Comité y deberá tener nivel jerárquico de Director o superior a éste y tendrá voto de calidad en caso de empate.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 Los demás integrantes del Comité de Operaciones Inmobiliarias del Estado acreditarán su representación mediante escrito del titular de la dependencia de que se trate, en la inteligencia de que éstos deberán tener nivel jerárquico de director o superior y sus respectivos suplentes deberán tener, como mínimo, nivel jerárquico de coordinador o equivalente.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 El Comité sólo sesionará cuando se encuentren presentes la mayoría de sus integrantes entre los cuales deberá estar el representante de la Secretaría de Finanzas y Tesorería General del Estado y sus decisiones se tomarán por mayoría de votos, haciéndose constar en el acta respectiva la votación correspondiente.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 El Ejecutivo del Estado emitirá las normas de carácter general que regularán las funciones, atribuciones, bases y lineamientos del Comité de Operaciones Inmobiliarias del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2013)</small>
+
+###### Artículo 123 Bis.
+
+Sin perjuicio de lo dispuesto en esta Ley respecto del Comité de Operaciones Inmobiliarias del Estado, corresponderá el procedimiento de adquisición y arrendamiento a terceros de bienes inmuebles al Comité de Adquisiciones de la Administración Pública Estatal.
 
 ### CAPITULO X. DEL FINANCIAMIENTO A TRAVES DEL CREDITO PUBLICO
 
@@ -1593,11 +1609,11 @@ P.O. 7 DE JULIO DE 1995.
 
 ###### ARTICULO PRIMERO
 
-- El Reglamento señalado en el Artículo 82 de este Decreto deberá elaborarse y ponerse en práctica en un plazo no mayor de cuatro meses a partir de la publicación del presente Decreto.
+- El Reglamento señalado en el artículo 82 de este Decreto deberá elaborarse y ponerse en práctica en un plazo no mayor de cuatro meses a partir de la publicación del presente Decreto.
 
 ###### ARTICULO SEGUNDO
 
-- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE ENERO DE 1996.
 
@@ -1660,3 +1676,7 @@ Segundo.- Se otorga un plazo de 160 días naturales contados a partir de la entr
 P.O. 21 DE NOVIEMBRE DE 2012.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2013.
+
+Único: El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
