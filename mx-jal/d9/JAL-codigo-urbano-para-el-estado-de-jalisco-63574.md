@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2012-09-08"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -971,9 +971,17 @@ o) Un representante de las asociaciones civiles especializadas en materia de mon
 
 p) La organización mayoritaria de los ejidatarios, comuneros y trabajadores agrícolas en el Estado de Jalisco,
 
-q) La organización mayoritaria de propietarios rurales en el Estado, y
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2013)</small>
 
-r) El Consejo de Peritos en Supervisión Municipal;
+q) La organización mayoritaria de propietarios rurales en el estado;
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2013)</small>
+
+r) El Consejo de Peritos en Supervisión Municipal, y
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2013)</small>
+
+s) El Colegio Mayoritario de Ingenieros Mecánicos y Electricistas del estado de Jalisco;
 
 IV. El Diputado Presidente de la Comisión de Desarrollo Urbano del Congreso del Estado;
 
@@ -4229,7 +4237,7 @@ VI. Notificar a la dependencia técnica la fecha de inicio y terminación de obr
 
 VII. Permitir y facilitar las labores de verificación de la autoridad municipal.
 
-### CAPÍTULO V (SIC). De la defensa de los particulares
+### CAPÍTULO VII. De la defensa de los particulares
 
 ###### Artículo 361.
 
@@ -4547,6 +4555,8 @@ En el caso de los peritos en supervisión municipal, se aplicarán las sanciones
 
 Las resoluciones emitidas con fundamento en esta sección podrán ser impugnadas conforme a lo dispuesto en el presente Título.
 
+> <small>(F. DE E., P.O. 4 DE JULIO DE 2013)</small>
+
 ###### Artículo 392.
 
 Cuando la declaración de nulidad del acto traslativo de dominio se demande por el adquirente o por la Procuraduría de Desarrollo Urbano en su representación, el perjudicado tendrá derecho a reclamar el pago de daños y perjuicios.
@@ -4708,5 +4718,9 @@ DECRETO NÚMERO 24081/LIX/12, POR EL QUE SE REFORMA EL ARTÍCULO 341 DEL CÓDIGO
 P.O. 8 DE SEPTIEMBRE DE 2012.
 
 DECRETO NÚMERO 24082/LIX/12, POR EL QUE SE REFORMAN LOS ARTÍCULOS 4.° Y 10 DEL CÓDIGO URBANO DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 4 DE JULIO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
