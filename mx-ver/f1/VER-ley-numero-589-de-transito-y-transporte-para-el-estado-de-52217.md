@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2011-12-30"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 589 DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -1453,7 +1453,7 @@ g) Escolar, aquel que se otorga para una localidad específica en un municipio d
 
 h) Para personal de empresas, aquel que se otorga con autobús y conductor en una localidad específica de un municipio determinado para el traslado exclusivo de su personal; y
 
-i) Colectivo, aquel que se otorga en una localidad específica de un municipio determinado, sujeto a ruta fija que podrá abarcar dos o más municipios, sujeto a una tarifa y autorizado a que en el trayecto de la ruta realice ascenso y descenso de pasajeros en las paradas señaladas por la autoridad.
+i) (DEROGADO, G.O. 4 DE JULIO DE 2013)
 
 II. De carga, que podrá ser:
 
@@ -1483,7 +1483,9 @@ Los vehículos que se utilicen para prestar el servicio de transporte público r
 
 Los vehículos mencionados en el párrafo anterior deberán ser, por lo menos, del modelo correspondiente al año del otorgamiento de la concesión, en lo subsecuente estarán en circulación mientras el concesionario compruebe que la unidad está en condiciones de prestar el servicio con seguridad y comodidad para los usuarios y aprueben la verificación vehicular correspondiente.
 
-A los vehículos destinados a las modalidades de urbano, suburbano, foráneo y rural mixto no se les permitirá una antigüedad superior a los quince años. En el caso de las unidades de taxi y colectivo, será de cinco años su antigüedad máxima.
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2013)</small>
+
+A los vehículos destinados a las modalidades de urbano, suburbano, foráneo y rural mixto no se les permitirá una antigüedad superior a los quince años. En el caso de las unidades de taxi, será de cinco años su antigüedad máxima.
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -1535,9 +1537,11 @@ En el caso de las concesiones para prestar el servicio de transporte público de
 
 Para el otorgamiento de concesiones para prestar el servicio de transporte público de pasajeros en su modalidad de rural mixto carga-pasaje y previa la formulación del estudio socioeconómico y técnico que realice la Dirección de Transporte, el titular de la concesión cuya vigencia haya expirado, tendrá preferencia a que se le otorgue otra en la modalidad que corresponda, para la misma localidad y municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JULIO DE 2013)</small>
+
 ###### Artículo 126.
 
-A las personas físicas sólo se les otorgará una concesión para prestar el servicio de transporte público de pasajeros en las modalidades de taxi, exclusivo de turismo, recreativo, escolar, colectivo o rural mixto carga-pasaje; y hasta tres concesiones en las modalidades de urbano, suburbano, foráneo, carga en general y carga materialista.
+A las personas físicas sólo se les otorgará una concesión para prestar el servicio de transporte público de pasajeros en las modalidades de taxi, exclusivo de turismo, recreativo, escolar o rural mixto carga-pasaje; y hasta tres concesiones en las modalidades de urbano, suburbano, foráneo, carga en general y carga materialista.
 
 En los términos que establece el artículo 123 de esta Ley, a las personas morales se les otorgarán las concesiones que resulten necesarias para las modalidades de urbano, suburbano, foráneo, exclusivo de turismo, para personal de empresas y carga especializada.
 
@@ -2178,3 +2182,11 @@ Artículo Quinto. La Secretaría de Gobierno, en coordinación con las Secretar�
 Artículo Sexto. A la brevedad posible, la Secretaría de Gobierno y la Secretaría de Seguridad Pública propondrán al titular del Poder Ejecutivo del Estado sus respectivos proyectos de modificación a los Reglamentos Interiores que rigen a cada dependencia.
 
 Artículo Séptimo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE JULIO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+Tercero. Las personas que actualmente prestan el servicio concesionado de transporte público, en la modalidad de colectivo, continuarán haciéndolo con los mismos derechos y obligaciones con que les fue otorgada la concesión por el Gobierno del Estado.
