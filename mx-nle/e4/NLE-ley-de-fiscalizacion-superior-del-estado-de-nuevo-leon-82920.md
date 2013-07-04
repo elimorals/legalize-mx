@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fiscalizacion-superior-del-estado-de-nuevo-leon-82920"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-22"
-last_updated: "2011-09-22"
+last_updated: "2013-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE NUEVO LEON
 
-LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE NUEVO LEON
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2013.
 
 Ley Publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 22 de septiembre de 2011.
 
@@ -63,7 +63,9 @@ VI. Cuota: Cantidad equivalente al salario mínimo general diario vigente en la 
 
 VII. Entes Privados: Las personas físicas o morales de derecho privado que por si mismas o a través de fideicomisos, mandatos, fondos o cualquier otra figura jurídica, hayan recaudado, administrado, manejado, ejercido o sido destinatarias de recursos públicos, o beneficiadas con incentivos fiscales;
 
-VIII. Entes Públicos: Los Poderes del Estado, los Organismos Constitucionalmente Autónomos, los Organismos Públicos Descentralizados y Fideicomisos Públicos de la Administración Pública del Estado, los Municipios, y sus Organismos Descentralizados;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2013)</small>
+
+VIII. Entes Públicos: Los Poderes del Estado, los Organismos Constitucionalmente Autónomos, los Organismos Públicos Descentralizados y Fideicomisos Públicos de la Administración Pública del Estado, los Municipios, y sus Organismos Descentralizados y las Instituciones Públicas de Educación que reciban recursos públicos;
 
 IX. Finiquito: El documento que pone término al trámite de revisión de Cuenta Pública tanto para el Congreso como para la Auditoria Superior del Estado, y que lo concluye aprobado de manera definitiva, mandándolo archivar como asunto concluido;
 
@@ -107,7 +109,9 @@ XXVII. Servidores públicos: Los señalados en el artículo 105 de la Constituci
 
 XXVIII. Superiores Jerárquicos: Los señalados como tales en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León; y
 
-XXIX. Sujetos de Fiscalización: Los Entes Públicos y Privados que define esta Ley.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2013)</small>
+
+XXIX. Sujetos de Fiscalización: Los Entes Públicos y Privados que define esta Ley, y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado, ejercido o sido destinataria de recursos públicos del Estado.
 
 ###### Artículo 3.
 
@@ -161,9 +165,11 @@ La falta de presentación de la Cuenta Pública y de los Informes de Avance de G
 
 Independientemente de las acciones de responsabilidad a que se refiere el párrafo que precede, la Auditoría Superior del Estado requerirá al titular de Ente Público para que dentro de los quince días hábiles contados a partir del día en que surta efectos la notificación del requerimiento, presente la Cuenta Pública o el Informe del Avance de Gestión, bajo el apercibimiento de que en caso de no hacerlo así, procederá a imponerle una multa en los términos del Artículo 6 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2013)</small>
+
 ###### Artículo 8.
 
-La Cuenta Pública que rindan los Poderes del Estado, los Organismos Constitucionalmente Autónomos, los Organismos Descentralizados y Fideicomisos Públicos de la Administración Pública del Estado, deberá atender en su cobertura a lo establecido en su marco legal vigente y conforme a lo que establece el artículo 53 de la Ley General de Contabilidad Gubernamental, deberá contener como mínimo:
+La Cuenta Pública que rindan los Poderes del Estado, los Organismos Constitucionalmente Autónomos, los Organismos Descentralizados y Fideicomisos Públicos de la Administración Pública del Estado y las Instituciones Públicas de Educación que reciban recursos públicos, deberá atender en su cobertura a lo establecido en su marco legal vigente y conforme a lo que establece el artículo 53 de la Ley General de Contabilidad Gubernamental, deberá contener como mínimo:
 
 I. Información contable, con la desagregación siguiente:
 
@@ -1360,3 +1366,11 @@ OTHÓN RUIZ MONTEMAYOR
 EL C. CONTRALOR GENERAL
 
 JORGE MANJARREZ RIVERA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE JULIO DE 2013
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Las Instituciones de Educación que reciban recursos públicos, deberán rendir Cuenta Pública a partir del ejercicio fiscal 2014 respecto al ejercicio fiscal 2013.
