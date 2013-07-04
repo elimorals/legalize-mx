@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-del-estado-901
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-15"
-last_updated: "2012-11-15"
+last_updated: "2013-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 24426/LX/13, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1.° DE ENERO DE 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2013.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 15 de noviembre de 2012.
 
@@ -1813,7 +1815,9 @@ IV. Deberá notificar todo cambio de residencia, actividad laboral, así como to
 
 T R A N S I T O R I O S
 
-PRIMERO. El presente decreto entrará en vigor el 1.° de julio de 2013, previa su publicación en el periódico oficial El Estado de Jalisco.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2013)</small>
+
+PRIMERO. El presente decreto entrará en vigor el 1.° de enero de 2014, previa su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Se abroga la Ley de Ejecución de Penas del Estado de Jalisco.
 
@@ -1868,3 +1872,11 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE JULIO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Poder Ejecutivo y el Poder Judicial, deberán de coordinarse para llevar a cabo, en la medida de sus posibilidades actuales, las obligaciones que establece la ley.
