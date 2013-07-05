@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-de-la-administracion-publica-del-estado-de-12108"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-07"
-last_updated: "2011-12-23"
+last_updated: "2013-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TLA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS QUINTO, SÉPTIMO Y DÉCIMO SEXTO TRANSITORIOS DEL DECRETO NÚMERO 177, PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 5 DE JULIO DE 2013, CUANDO EN OTROS ORDENAMIENTOS JURÍDICOS SE MENCIONE A LA SECRETARÍA DE TURISMO SE ENTENDERÁ QUE SE HACE REFERENCIA A LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO; CUANDO SE REFIERA A LA COORDINACIÓN DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE TLAXCALA Y A LA SECRETARÍA DE TURISMO, SE ENTENDERÁ ASIGNADO A LA SECRETARÍA DE PLANEACIÓN Y FINANZAS Y A LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO, RESPECTIVAMENTE; LAS MENCIONES RESPECTO DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA Y DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO, SE ENTENDERÁN REFERIDAS A LOS ÓRGANOS QUE INTEGRARÁN EL DESPACHO DEL GOBERNADOR DEL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2013.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 7 de abril de 1998.
 
@@ -49,9 +51,9 @@ La presente Ley es de orden público e interés social, tiene por objeto estable
 
 La Administración Pública será Centralizada y Descentralizada.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
-Integran la administración pública centralizada: el Despacho del Gobernador del Estado de Tlaxcala, las unidades y departamentos administrativos que dependan directamente de éste, las Secretarías, las Coordinaciones, la Oficialía Mayor, la Consejería Jurídica, la Procuraduría General de Justicia, así como los organismos públicos desconcentrados, creados por el Ejecutivo mediante Decreto.
+Integran la administración pública centralizada: el Despacho del Gobernador del Estado de Tlaxcala, las unidades y departamentos administrativos que dependan directamente de éste, las Secretarías, las Coordinaciones, la Oficialía Mayor, la Procuraduría General de Justicia, así como los organismos Públicos desconcentrados, creados por el Ejecutivo mediante Decreto.
 
 Constituyen la administración pública descentralizada, los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, creados por el Ejecutivo mediante Decreto.
 
@@ -79,6 +81,10 @@ Las facultades conferidas al Gobernador del Estado de Tlaxcala, no son delegable
 
 Para el ejercicio de la función pública, el Gobernador del Estado de Tlaxcala se auxiliará de los servidores públicos, de mandos medios, personal de apoyo, técnicos y empleados necesarios para el cumplimiento de sus atribuciones y que la Ley de Egresos determine, estableciendo la Oficialía Mayor las bases y mecanismos esenciales de un esquema de profesionalización y ética de los servidores públicos.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
+
+Los servicios jurídicos y de representación legal del Poder Ejecutivo, así como las funciones de control, auditoría, fiscalización, procedimientos relacionados con responsabilidades de los servidores públicos y desarrollo administrativo de la Administración Pública del Estado, se realizarán por las instancias o unidades administrativas que determine el Gobernador en términos de las leyes aplicables, conforme a lo previsto en el artículo 7 de la presente Ley y en los reglamentos y acuerdos administrativos que emita el titular del Ejecutivo en ejercicio de sus atribuciones.
+
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 6°.
@@ -99,29 +105,27 @@ El Gobernador del Estado de Tlaxcala podrá crear y suprimir comités, patronato
 
 Las Dependencias y Entidades de la Administración Pública Estatal conducirán sus actividades en forma programática y con arreglo a las políticas, prioridades, métodos, objetivos y metas de los planes de gobierno que establezca el Gobernador del Estado directamente o a través de las Dependencias competentes. Se establecerán los mecanismos y sistemas de planeación, programación, organización, presupuesto, contabilidad, evaluación, información, auditoría interna y control de gestión correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 9°.
 
-Los titulares de las dependencias y entidades de la Administración Pública, los servidores públicos de mandos medios, y los demás servidores públicos que por la naturaleza e importancia de las funciones que realicen, determine la Secretaría de la Función Pública, cuando sean relevados de su cargo, deberán hacer entrega del despacho, al servidor público que los releve, mediante acta de entrega-recepción con intervención de un representante de la Secretaría de la Función Pública y un representante del órgano de Control Interno correspondiente, dicha acta de entrega-recepción deberá levantarse y firmarse en ese acto, de conformidad con los términos establecidos en las disposiciones legales aplicables.
+Los titulares de las dependencias y entidades de la Administración Pública, los servidores públicos de mandos medios, y los demás servidores públicos que por la naturaleza e importancia de las funciones que realicen, determine la Contraloría del Ejecutivo, cuando sean relevados de su cargo, deberán hacer entrega del despacho, al servidor público que los releve, mediante acta de entrega-recepción con intervención de un representante de la Contraloría del Ejecutivo y un representante del Órgano de Control Interno correspondiente, dicha acta de entrega-recepción deberá levantarse y firmarse en ese acto, de conformidad con los términos establecidos en las disposiciones legales aplicables.
 
 Con el propósito de cumplimentar debidamente las disposiciones contenidas en el párrafo precedente, los servidores públicos deberán mantener actualizados los inventarios y registros relativos al despacho a su cargo.
 
 Los Titulares de las Dependencias que integran la Administración Pública Centralizada y Paraestatal, realizarán la custodia de los documentos esenciales, que son aquellos que a juicio de la misma autoridad contengan información básica. Los documentos no considerados esenciales, podrán trasladarse a archivos efímeros y podrán desecharse de forma periódica.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
-El servidor público saliente entregará el despacho a su cargo, se firmará el acta de entrega recepción en ese acto, ante dos testigos señalados por la Secretaría de la
-
-Función Pública.
+El servidor público saliente entregará el despacho a su cargo, se firmará el acta de entrega recepción en ese acto, ante dos testigos señalados por la Contraloría del Ejecutivo.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
 La verificación del contenido del acta de entrega correspondiente, deberá realizarse por el servidor público entrante o por la persona designada por el superior jerárquico para recibir el despacho, en un término no mayor de treinta días hábiles, contados a partir de la fecha de la entrega-recepción del mismo; para tal efecto y durante el mismo plazo, el servidor público saliente podrá ser requerido para que realice las aclaraciones o proporcione la información adicional que se le solicite.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
-En caso de que el servidor público entrante detecte irregularidades durante la verificación del contenido del acta, deberá hacerlo del conocimiento de la Secretaría de la Función Pública y del Órgano de Control Interno correspondiente, para que sean aclaradas por el servidor público saliente o, en su caso, se proceda en términos de los ordenamientos aplicables.
+En caso de que el servidor público entrante detecte irregularidades durante la verificación del contenido del acta, deberá hacerlo del conocimiento de la Contraloría del Ejecutivo y del Órgano de Control Interno correspondiente, para que sean aclaradas por el servidor público saliente o, en su caso, se proceda en términos de los ordenamientos aplicables.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -135,7 +139,7 @@ Corresponde al Gobernador del Estado de Tlaxcala nombrar y remover libremente a 
 
 ### CAPITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 11.
 
@@ -143,13 +147,13 @@ Para el estudio, planeación y despacho de los asuntos del orden administrativo 
 
 Secretaría de Gobierno
 
-Secretaría de Finanzas
+Secretaría de Planeación y Finanzas
 
-Secretaría de Desarrollo Económico
+Secretaría de Turismo y Desarrollo Económico
 
-Secretaría de Obras Públicas, Desarrollo Urbano y Vivienda
+Secretaría de Obras Públicas Desarrollo Urbano y Vivienda
 
-Secretaria de Educación Pública
+Secretaría de Educación Pública
 
 Secretaría de Salud
 
@@ -157,23 +161,21 @@ Secretaría de Comunicaciones y Transportes
 
 Secretaría de Fomento Agropecuario
 
-Secretaría de Turismo
-
-Secretaría de la Función Pública
-
 Secretaría de Seguridad Pública
 
 Procuraduría General de Justicia
 
-Oficialía Mayor de Gobierno
+Oficialía Mayor de Gobierno.
 
-Consejería Jurídica del Ejecutivo
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+La Contraloría del Ejecutivo y la Consejería Jurídica del Ejecutivo, estarán directamente adscritas al Titular del Poder Ejecutivo y contarán con las atribuciones señaladas en el Reglamento Interior del Despacho del Gobernador y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 12.
 
-Los Secretarios, el Procurador General de Justicia, el Oficial Mayor del Gobierno, el Consejero Jurídico y los Coordinadores, tendrán, igual rango y entre ellos no habrá preeminencia alguna; ejerciendo las funciones de su competencia en los términos de la presente ley, y de sus respectivos reglamentos interiores.
+Los Secretarios, el Procurador General de Justicia, el Oficial Mayor del Gobierno, y los Coordinadores, tendrán igual rango y entre ellos no habrá preeminencia alguna; ejerciendo las funciones de su competencia en los términos de la presente ley, y de sus respectivos reglamentos interiores.
 
 ###### ARTICULO 13.
 
@@ -391,15 +393,21 @@ El Secretario de Gobierno no podrá desempeñar otro puesto o empleo, cargo o co
 
 Las faltas temporales del Secretario de Gobierno que no excedan de quince días, serán cubiertas por el Oficial Mayor de Gobierno, con las facultades legales que le corresponden.
 
-SECRETARIA DE FINANZAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2013)</small>
+
+SECRETARIA DE PLANEACION Y FINANZAS
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 31.
 
-La Secretaría de Finanzas, es la encargada de la Administración de la Hacienda Pública del Estado.
+La Secretaría de Planeación y Finanzas, es la encargada de promover y coordinar la formulación, instrumentación, actualización y evaluación de los programas de desarrollo en congruencia con los Planes Nacional, Estatal y Municipales de Desarrollo, asimismo tendrá a su cargo la administración de la Hacienda Pública del Estado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 32.
 
-Corresponde a la Secretaría de Finanzas, además de las atribuciones que expresamente le confiere la Constitución, el despacho de los siguientes asuntos:
+Corresponde a la Secretaría de Planeación y Finanzas, además de las atribuciones que expresamente le confiere la Constitución, el despacho de los siguientes asuntos:
 
 I.- EN MATERIA DE INGRESOS:
 
@@ -487,67 +495,123 @@ b).- Respecto a los impuestos federales coordinados, recibir y exigir en su caso
 
 c).- Las demás que le señalen las Leyes.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
-d).- Coordinar, conjuntamente con la Secretaría de la Función Pública, la evaluación que permita conocer los resultados de la aplicación de los recursos públicos federales y estatales, así como concertar y validar los indicadores estratégicos y de gestión con las dependencias y entidades de la Administración Pública Estatal, en los términos de las disposiciones aplicables.
+d) Coordinar, conjuntamente con la Contraloría del Ejecutivo, la evaluación que permita conocer los resultados de la aplicación de los recursos públicos federales y estatales, así como concertar y validar los indicadores estratégicos y de gestión con las dependencias y entidades de la Administración Pública Estatal, en los términos de las disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE FEBRERO DE 2001)</small>
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2013)</small>
 
-SECRETARIA DE DESARROLLO ECONOMICO
+VIII. EN MATERIA DE PLANEACIÓN:
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2001)</small>
+a) Coordinar la formulación, instrumentación, actualización y evaluación de los programas de desarrollo;
+
+b) Proponer al Ejecutivo Estatal, y éste al Federal en su caso, los programas de inversión, gasto corriente y financiamiento que se deriven de la planeación estatal y municipal;
+
+c) Proponer las medidas jurídicas, administrativas y financieras que permitan alcanzar los objetivos, metas y prioridades de la planeación;
+
+d) Establecer el sistema de organización, funcionamiento, y difusión en que se realizarán las consultas populares para la elaboración y actualización de los planes y programas de desarrollo estatal;
+
+e) Evaluar el cumplimiento de las políticas, estrategias, objetivos y líneas de acción del Plan Estatal de Desarrollo;
+
+f) Verificar sistemática y periódicamente el avance de las metas de los programas operativos anuales de las dependencias y entidades gubernamentales del Estado;
+
+g) Formular el programa sectorial de desarrollo social y los programas que emanen de él, así como implementar y vigilar el cumplimiento de los planes y políticas para el desarrollo social de la entidad de aquellos sectores que no estén expresamente atribuidos a alguna dependencia o entidad de la Administración Pública Estatal;
+
+h) Coordinar conjuntamente con la Federación y Municipios los programas y apoyos en las zonas de atención prioritaria;
+
+i) Participar, promover y ejecutar la celebración de convenios de coordinación y concertación con los de los tres órdenes de gobierno y con los beneficios de los programas sociales y asistenciales;
+
+j) Generar la interacción de los diversos sectores de la sociedad, para contribuir en la implementación de programas productivos y de financiamiento para el desarrollo social, e
+
+k) Las demás que le confiera el Ejecutivo del Estado y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
+
+###### ARTICULO 32 Bis.
+
+La elaboración y formulación del plan y los programas de dependencias y entidades, así como de los Comités de Planeación del Desarrollo Municipal, se realizarán bajo la coordinación de la Secretaría de Planeación y Finanzas del Estado de Tlaxcala, la que para el mejor desempeño de sus funciones podrá establecer comités específicos de análisis, seguimiento y evaluación, que se integrarán y tendrán las facultades y obligaciones que se establezcan en su Reglamento Interior.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2013)</small>
+
+SECRETARIA DE TURISMO Y DESARROLLO ECONOMICO
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 33.
 
-La Secretaría es la encargada de elaborar y ejecutar las políticas y programas de desarrollo económico que comprenda lo relacionado a la inversión, la producción, la distribución de la industria, su fomento y consolidación.
+La Secretaría de Turismo y Desarrollo Económico es la encargada de conducir en coordinación con las autoridades federales del ramo, las políticas y programas de desarrollo turístico y desarrollo económico que comprenda lo relacionado a la inversión, la producción, la distribución de la industria, su fomento y consolidación en el Estado de Tlaxcala.
 
-REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2001)
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 34.
 
-A la Secretaría de Desarrollo Económico le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Turismo y Desarrollo Económico, le corresponde el despacho de los asuntos siguientes:
 
-I.- Planear y prever las necesidades para el establecimiento de la expansión industrial, procurando un adecuado equilibrio entre la actividad industrial y otras actividades que se realicen en el Estado.
+I. EN MATERIA DE TURISMO:
 
-II.- Impulsar en coordinación con las Entidades del Gobierno Federal, la producción industrial en el Estado.
+a) Elaborar y ejecutar los programas de promoción, fomento y desarrollo del turismo en el Estado;
 
-III.- Apoyar el desenvolvimiento de las empresas establecidas en el Estado.
+b) Promover el desarrollo de la infraestructura turística y estimular la participación de los sectores social y privado en esta actividad; así como proponer al Gobernador del Estado, la declaración de zonas turísticas y elaborar los proyectos de reglamento correspondientes;
 
-IV.- Fomentar, promover, incentivar y estimular el establecimiento de la infraestructura en el Estado, para el desarrollo de la industria.
+c) Organizar espectáculos, congresos, excursiones, audiciones, ferias, representaciones artísticas y todos los eventos culturales, tradicionales y folklóricos para atraer al turismo nacional y extranjero a la entidad, difundiendo la riqueza cultural, artesanal y artística del Estado de Tlaxcala; así como concertar con los prestadores de servicios turísticos la integración de una oferta conjunta y de calidad que permita incrementar la afluencia y la estancia de los visitantes a la entidad;
 
-V.- Promover y en su caso, organizar la investigación, capacitación y mejoramiento de la tecnología industrial.
+d) Promover la conservación adecuada y la protección del medio ambiente, natural y cultural especialmente en las zonas de mayor relevancia turística en el Estado; gestionar la ejecución de obras y la creación de infraestructura básica y turística, con la participación de los tres niveles de gobierno y de los sectores sociales y privados;
 
-VI.- Asesorar, estimular y en su caso auxiliar en los trámites necesarios para el establecimiento de nuevas industrias.
+e) Elaborar, promover y organizar programas de capacitación, investigación y desarrollo para los servicios turísticos;
 
-VII.- Fomentar, estimular e integrar la pequeña y mediana industria.
+f) Elaborar, coordinar y supervisar el desarrollo de programas de planeación y evaluación turística dentro del Estado;
 
-VIII.- Organizar y patrocinar exposiciones, ferias, congresos y eventos para el mayor desarrollo industrial.
+g) Promover la coordinación de los prestadores de servicios turísticos;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2001)</small>
+h) Auxiliar a las autoridades federales en la vigilancia de la aplicación de los precios y tarifas autorizadas y registradas en la prestación de los servicios turísticos, conforme a las disposiciones legales aplicables;
 
-IX.- Analizar, evaluar, proponer y concertar acciones de colaboración entre los sectores público y privado en materia de desarrollo, productividad y competitividad de la planta y cadenas productivas en el Estado.
+i) Estimular la formación de asociaciones, comités, patronatos y otras organizaciones de carácter público, privado, social y mixto de naturaleza turística;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2001)</small>
+j) Regular, orientar y estimular las medidas de protección al turismo y vigilar su cumplimiento, en coordinación con los organismos del Gobierno Federal;
 
-X.- Establecer mecanismos de coordinación de acciones entre las dependencias del sector público y los organismos del sector privado en materia de desarrollo económico.
+k) Promover y facilitar el intercambio y desarrollo turístico nacional e internacional, que tenga como destino turístico el Estado de Tlaxcala, en coordinación con las autoridades competentes;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2001)</small>
+l) Proporcionar al turismo la información, orientación y auxilio que le asiste, de acuerdo con esta Ley y con las disposiciones relativas aplicables;
 
-XI.- El fomento y la promoción eficiente de la inversión y de las ventajas comparativas de la economía estatal atendiendo en lo particular a la ampliación, modernización y mantenimiento de la infraestructura de los sectores industrial, comercial, de servicios y artesanal, en el ámbito de su diversidad regional.
+m) Formular y difundir la información oficial en materia de turismo;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2001)</small>
+n) Llevar estadísticas de los servicios, sitios visitantes y demás relacionados con el turismo en el Estado de Tlaxcala, e (sic)
 
-XII.- Promover y proponer alternativas de planeación económica en el Estado.
+o) Las demás que le confiera el Ejecutivo del Estado.
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2001)</small>
+II. EN MATERIA DE DESARROLLO ECONÓMICO:
 
-XIII.- Participar en la mejora regulatoria y la simplificación administrativa.
+a) Planear y prever las necesidades para el establecimiento de la expansión industrial, procurando un adecuado equilibrio entre la actividad industrial y otras actividades que se realicen en el Estado;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2001)</small>
+b) Impulsar en coordinación con las Entidades del Gobierno Federal, la producción industrial en el Estado;
 
-XIV.- Promover la definición de los estímulos y apoyos necesarios, a fin de facilitar el establecimiento y operación de las empresas, atendiendo tanto a criterios de generación de empleo como de calidad estratégica y prioritaria.
+c) Apoyar el desenvolvimiento de las empresas establecidas en el Estado;
 
-XVI.- Las demás que le señalen las Leyes.
+d) Fomentar y promover, incentivar y estimular el establecimiento de la infraestructura en el Estado, para el desarrollo de la industria;
+
+e) Promover y en su caso, organizar la investigación, capacitación y mejoramiento de la tecnología industrial;
+
+f) Asesorar, estimular y en su caso auxiliar en los trámites necesarios para el establecimiento de nuevas industrias;
+
+g) Fomentar y estimular e integrar la pequeña y mediana industria;
+
+h) Organizar y patrocinar exposiciones, ferias, congresos y eventos para el mayor desarrollo industrial;
+
+i) Analizar, evaluar y proponer y concertar acciones de colaboración entre los sectores público y privado en materia de desarrollo, productividad y competitividad de la planta y cadenas productivas en el Estado;
+
+j) Establecer mecanismos de coordinación de acciones entre las dependencias del sector público y los organismos del sector privado en materia de desarrollo económico;
+
+k) Promocionar las ventajas comparativas de la economía estatal, en materia de ampliación, modernización y mantenimiento de la infraestructura en los sectores industrial, comercial, de servicios, artesanal, en el ámbito de su diversidad regional;
+
+l) Promover y proponer alternativas de planeación económica en el Estado;
+
+m) Participar en la mejora regulatoria y la simplificación administrativa;
+
+n) Promover la definición de los estímulos y apoyos necesarios a fin de facilitar el establecimiento y operación de las empresas, atendiendo tanto a criterios de generación de empleo como de calidad estratégica y prioritaria;
+
+o) Impulsar la modernización empresarial, particularmente a las micros, pequeñas y medianas empresas, a fin de mejorar sus procesos productivos, comerciales y de servicios con el propósito de coadyuvar a la penetración y permanencia de más y mejores productos tlaxcaltecas en el mercado Estatal, Nacional e Internacional, e (sic)
+
+p) Las demás que le señalen las disposiciones legales aplicables.
 
 SECRETARIA DE OBRAS PUBLICAS, DESARROLLO
 
@@ -577,9 +641,9 @@ V.- Aplicar la normatividad vigente en la entidad en materia de construcción, a
 
 VI.- Vigilar el cumplimiento de las disposiciones en materia de fraccionamientos.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
-VII.- Expedir en coordinación con la Secretaría de la Función Pública, las bases y normas a que deben sujetarse los recursos para la ejecución de obras que realice el Gobierno del Estado; señalar las adjudicaciones que procedan, intervenir en la celebración de contratos y vigilar el cumplimiento de éstos.
+VII. Expedir, en coordinación con la Contraloría del Ejecutivo, las bases y normas a que deben sujetarse los recursos para la ejecución de obras que realice el Gobierno del Estado; señalar las adjudicaciones que procedan, intervenir en la celebración de contratos y vigilar el cumplimiento de éstos;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -607,9 +671,9 @@ XV. Proveer y atender las emergencias en el ámbito de su competencia, entendien
 
 XVI.- Vigilar el desarrollo urbano integral de los centros de población.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
-XVII.- Evaluar los resultados de la programación y actualizar los planes con base en los mismos, atendiendo las sugerencias que al respecto formule la Secretaría de la Función Pública.
+XVII. Evaluar los resultados de la programación y actualizar los planes con base en los mismos, atendiendo las sugerencias que al respecto formule la Contraloría del Ejecutivo;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -789,113 +853,23 @@ SECRETARIA DE TURISMO
 
 ###### ARTICULO 43.
 
-La Secretaría de Turismo, será competente para conducir en coordinación con las autoridades federales del ramo, las políticas y programas de desarrollo turístico en el Estado.
+(DEROGADO, P.O. 5 DE JULIO DE 2013)
 
 ###### ARTICULO 44.
 
-Corresponde a la Secretaría de Turismo, el despacho de los siguientes asuntos:
-
-I.- Elaborar y realizar, programas de promoción, fomento y desarrollo del turismo en el Estado.
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-II.- Promover y apoyar el desarrollo de la infraestructura turística y estimular la participación de los sectores social y privado en esta actividad; así como proponer al Gobernador del Estado de Tlaxcala, la declaración de zonas turísticas y elaborar los proyectos de reglamentos correspondientes.
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-III.- Organizar espectáculos, congresos, excursiones, audiciones, ferias, representaciones artísticas y todos los eventos culturales, tradicionales y folklóricos para atraer al turismo nacional y extranjero a la entidad, difundiendo la riqueza cultural, artesanal y artística del pueblo de Tlaxcala; así como concertar con los prestadores de servicios turísticos la integración de una oferta conjunta y de calidad que permita incrementar la afluencia y la estancia de los visitantes a la entidad.
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-IV.- Promover la conservación adecuada y la protección del medio ambiente, natural y cultural especialmente en las zonas de mayor relevancia turística en el Estado; gestionar la ejecución de obras y la creación de infraestructura básica y turística, con la participación de los tres niveles de gobierno y de los sectores sociales y privados.
-
-V.- Elaborar, promover y organizar programas de capacitación, investigación y desarrollo para los servicios turísticos.
-
-VI.- Elaborar, coordinar y supervisar el desarrollo de programas de planeación y evaluación turística dentro del Estado.
-
-VII.- Promover la coordinación de los prestadores de servicios turísticos.
-
-VIII.- Auxiliar a las autoridades federales en la vigilancia de la aplicación de los precios y tarifas autorizadas y registradas y a la prestación de los servicios turísticos, conforme a las disposiciones legales aplicables.
-
-IX.- Estimular la formación de asociaciones, comités, patronatos y otras organizaciones de carácter público, privado, social o mixto de naturaleza turística.
-
-X.- Regular, orientar y estimular las medidas de protección al turismo y vigilar su cumplimiento, en coordinación con los organismos del Gobierno Federal.
-
-XI.- Promover y facilitar el intercambio y desarrollo turístico nacional e internacional, que tenga como destino turístico el Estado de Tlaxcala, en coordinación con las autoridades competentes.
-
-XII.- Proporcionar al turismo la información, orientación y auxilio que le asiste, de acuerdo con esta Ley y con las disposiciones relativas aplicables.
-
-XIII.- Formular y difundir la información oficial en materia de turismo.
-
-XIV.- Llevar estadísticas de los servicios, sitios, visitantes y demás relacionados con el turismo en el Estado de Tlaxcala.
-
-XV.- Las demás que le confiera el Ejecutivo del Estado.
+(DEROGADO, P.O. 5 DE JULIO DE 2013)
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ANTES CONTRALORIA] Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
 SECRETARIA DE LA FUNCION PUBLICA
 
-> <small>(REFORMADO Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
 ###### ARTICULO 45.
 
-La Secretaría de la Función Pública, es la encargada de planear, coordinar y organizar el sistema de control y evaluación gubernamental, inspeccionar el ejercicio del gasto público del Estado y su congruencia con el Presupuesto de Egresos; así como de impulsar la modernización de la Administración Pública Estatal.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+(DEROGADO, P.O. 5 DE JULIO DE 2013)
 
 ###### ARTICULO 46.
 
-Corresponde a Secretaría de la Función Pública, el despacho de los asuntos siguientes:
-
-I. Expedir las normas que regulen el funcionamiento de los instrumentos y procedimientos de control de la Administración Pública del Estado. La Secretaría de la Función Pública discrecionalmente, podrá requerir a las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control;
-
-II. Vigilar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos de control interno de las dependencias y entidades de la Administración Pública del Estado;
-
-III. Establecer las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública del Estado, así como realizar las auditorías que se requieran a las dependencias y entidades en sustitución o en apoyo de sus propios órganos de control interno;
-
-IV. Comprobar el cumplimiento por parte de las dependencias y entidades de la Administración Pública del Estado, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Gobierno del Estado;
-
-V. Inspeccionar y vigilar directamente o a través de los órganos de control que las dependencias y entidades de la Administración Pública del Estado, cumplan, con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y bajas de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública del Estado;
-
-VI. Opinar, previamente a su expedición, sobre los proyectos de normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros que elabore la Secretaría de Finanzas, así como los proyectos de normas en materia de contratación de deuda y manejo de fondos y valores;
-
-VII. Designar a los auditores externos de las entidades, y normar y controlar su actividad;
-
-VIII. Designar y remover a los titulares de las áreas de control interno de las dependencias de la Administración Pública del Estado, quienes dependerán jerárquica y funcionalmente Secretaría de la Función Pública;
-
-IX. Informar trimestralmente al titular del Ejecutivo del Estado, sobre el resultado de la evaluación de las dependencias y entidades de la Administración Pública Estatal que hayan sido objeto de revisiones, e informar a las autoridades competentes, si así fuere requerida, el resultado de tales intervenciones;
-
-X. Coordinar, conjuntamente con la Secretaría de Finanzas, la evaluación que permita conocer los resultados de la aplicación de los recursos públicos federales y estatales, así como concertar y validar los indicadores estratégicos y de gestión con las dependencias y entidades de la Administración Pública Estatal, en los términos de las disposiciones aplicables;
-
-XI. Fomentar los sistemas de información y coordinación adecuados, entre las dependencias que integran el Gobierno del Estado;
-
-XII. Planear, coordinar e implementar las acciones de modernización de la Administración Pública Estatal, estableciendo para tal fin las acciones de coordinación necesarias con las dependencias, entidades y organismos gubernamentales federales, estatales y municipales;
-
-XIII. Recibir y registrar las declaraciones patrimoniales que deban presentar los servidores públicos de la Administración Pública Estatal, y verificar su contenido mediante las investigaciones que fueren necesarias de acuerdo con las disposiciones aplicables;
-
-XIV. Impulsar el cumplimiento de las obligaciones de transparencia y de acceso a la información pública entre las dependencias y entidades de la Administración Pública Estatal, de conformidad con las disposiciones establecidas en la ley estatal vigente en la materia;
-
-XV. Conocer e investigar las conductas de los servidores públicos de la Administración Pública Estatal, que puedan constituir responsabilidades administrativas; aplicar las sanciones que correspondan en términos de ley y en su caso, presentar las denuncias correspondientes ante la autoridad competente, prestándose para tal efecto la colaboración que le fuere requerida;
-
-XVI. En materia de responsabilidades administrativas, establecer y administrar el Registro Estatal de Inhabilitaciones e Imposición de Sanciones Administrativas, así como expedir las Constancias de No Inhabilitado a aquellas personas que pretendan ingresar al servicio público estatal, previa verificación en los registros que correspondan;
-
-XVII. Obtener y procesar toda la información concerniente a los servicios y prestaciones que proporciona el Gobierno del Estado;
-
-XVIII. Planear, coordinar e implementar las acciones de modernidad administrativa con los organismos federales, estatales y municipales;
-
-XIX. Atender y, en su caso, conciliar las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias de la Administración Pública Estatal, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
-
-XX. Coadyuvar con la Oficialía Mayor en la instrumentación del Esquema de Profesionalización y Ética de los Servidores Públicos;
-
-XXI. Establecer, coordinar y operar la política de Mejora Regulatoria de la Administración Pública Estatal;
-
-XXII. Diseñar y ejecutar las estrategias y mecanismos que permitan organizar, capacitar e incorporar a grupos de ciudadanos interesados en participar de manera activa y corresponsable, en la planeación, control, evaluación y transparencia de los programas institucionales a cargo del Ejecutivo del Estado;
-
-XXIII. Proporcionar asesoría y apoyo técnico a los ayuntamientos de la Entidad, a solicitud de éstos y de conformidad con los convenios que se suscriban para tal fin, en materia de control, evaluación y transparencia del gasto público, así como de impulso a la modernización de sus administraciones públicas;
-
-XXIV. Administrar el Archivo General del Estado, y
-
-XXV. Las demás que le encomienden expresamente las Leyes y Reglamentos.
+(DEROGADO, P.O. 5 DE JULIO DE 2013)
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -1063,29 +1037,7 @@ XX. Las demás funciones que le encomienden las leyes.
 
 CONSEJERIA JURIDICA
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
-
-ARTICULO 51 BIS.- A la Consejería Jurídica del Ejecutivo le corresponde el despacho de los siguientes asuntos:
-
-I. Otorgar apoyo técnico jurídico al Gobernador del Estado, en todos aquellos asuntos que éste le encomiende;
-
-II. Conocer, revisar y emitir opinión o dictamen respecto de consultas, contratos, convenios, iniciativas de ley, reglamentos, decretos, acuerdos, resoluciones y en general cualquier acto o documento con efectos jurídicos, cuando el Gobernador del Estado lo encomiende;
-
-III. Revisar los reglamentos, decretos, acuerdos, nombramientos, resoluciones y demás instrumentos de carácter jurídico que expida el Titular del Poder Ejecutivo; a efecto de someterlos a consideración y, en su caso, obtener la firma correspondiente;
-
-IV. Revisar y someter a consideración y, en su caso, firma del Gobernador del Estado, todos los proyectos de iniciativas de leyes y decretos que se presenten al Congreso del Estado de Tlaxcala, y emitir opinión sobre éstos;
-
-V. Prestar asesoría jurídica en asuntos en que intervengan diversas dependencias de la Administración Pública Estatal, cuando el Gobernador del Estado lo acuerde;
-
-VI. Establecer y conducir la coordinación en materia jurídica de las unidades o áreas responsables de los asuntos jurídicos de las dependencias y entidades de la Administración Pública Estatal;
-
-VII. Participar, junto con las demás dependencias y entidades competentes, en la actualización y simplificación del orden jurídico estatal, cuando el titular del Poder Ejecutivo así lo encomiende;
-
-VIII. Representar al Gobernador del Estado en todo tipo de procedimientos administrativos, ministeriales o jurisdiccionales, tanto locales como federales, en la que el Gobierno del Estado sea parte, así como ante las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los medios de control constitucional local. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
-
-IX. Solicitar a las dependencias y entidades de la Administración Pública Estatal la información y apoyo que requiera para el cumplimiento de sus funciones, y
-
-X. Las demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
+ARTICULO 51 BIS.- (DEROGADO, P.O. 5 DE JULIO DE 2013)
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -1133,7 +1085,9 @@ Podrán establecerse fideicomisos por parte del Gobierno del Estado, de conformi
 
 Los fideicomisos públicos a que se refiere el artículo primero párrafo cuarto de esta Ley, son contratos por medio de los cuales, el Gobierno del Estado, a través de sus dependencias y en su carácter de fideicomitente, previa autorización del Congreso del Estado, transmite la titularidad de bienes del dominio público o privado del Estado o afecta fondos públicos en una institución fiduciaria para realizar un fin lícito de interés público, con el propósito de auxiliar al Ejecutivo en sus atribuciones para impulsar las áreas prioritarias del desarrollo, que cuenten con una estructura orgánica análoga a las otras entidades y que tengan comités técnicos, de conformidad a las normas y modalidades que establezca el Gobierno Federal, a través de la Secretaría de Hacienda y Crédito Público y las leyes vigentes.
 
-No tendrán el carácter de fideicomisos públicos, aquellos que se constituyan con la aportación por una sola vez del Gobierno del Estado o que reciban donaciones del mismo y que éste no intervenga en las funciones del comité técnico, salvo en la vigilancia de la correcta aplicación de los recursos y el cumplimiento de los fines del fideicomiso a través de la Secretaría de la Función Pública previa autorización del Honorable Congreso del Estado.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+
+No tendrán el carácter de fideicomisos públicos, aquellos que se constituyan con la aportación por una sola vez del Gobierno del Estado o que reciban donaciones del mismo y que éste no intervenga en las funciones del comité técnico, salvo en la vigilancia de la correcta aplicación de los recursos y el cumplimiento de los fines del fideicomiso a través de la Contraloría del Ejecutivo previa autorización del Honorable Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -1147,9 +1101,13 @@ El Gobernador del Estado, estará facultado para conformar agrupamientos institu
 
 Los Órganos de Gobierno de la Administración Pública Descentralizada deberán ser presididos por el Gobernador del Estado de Tlaxcala en su carácter de Presidente, o por el representante que designe.
 
-Asimismo, para efecto de seguimiento de los acuerdos tomados por los Órganos de Gobierno que integran la Administración Pública Descentralizada y la implantación de sistemas efectivos de control de gestión y fiscalización, las secretarías y entidades deberán establecer los secretariados técnicos y la Secretaría de la Función Pública proponer los comisarios en los términos que lo señalen las leyes.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
-Los servidores públicos que ocupen cargos de secretarios técnicos y vocales, así como lo (sic) comisarios deben ser propuestos por el Secretario Coordinador del Sector y por el Secretario de la Función Pública respectivamente, sometiendo la propuesta a consideración del Gobernador quien podrá designarlos o removerlos de acuerdo a la Ley.
+Asimismo, para efecto de seguimiento de los acuerdos tomados por los Órganos de Gobierno que integran la Administración Pública Descentralizada y la implantación de sistemas efectivos de control de gestión y fiscalización, las secretarías y entidades deberán establecer los secretariados técnicos y la Contraloría del Ejecutivo proponer los comisarios en los términos que lo (sic) señalen las leyes.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+
+Los servidores públicos que ocupen cargos de secretarios técnicos y vocales, así como los comisarios deben ser propuestos por el Secretario Coordinador del Sector y por el Contralor del Ejecutivo respectivamente, sometiendo la propuesta a consideración del Gobernador quien podrá designarlos o removerlos de acuerdo a la Ley.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -1364,3 +1322,75 @@ La Secretaría de Finanzas del Gobierno del Estado, queda facultada para realiza
 ###### ARTÍCULO CUARTO.
 
 La Secretaría de la Función Pública nombrará, previo acuerdo del Gobernador del Estado, a los liquidadores de los organismos descentralizados, empresas de participación estatal mayoritaria o los fideicomisos a que se refiere el artículo 52 de la Ley Orgánica de la Administración Pública del Estado y con base en las reglas que al efecto dicte el Gobernador, de conformidad con lo previsto para este caso en la Ley de las Entidades Paraestatales del Estado de Tlaxcala y no se oponga al contenido de este Decreto.
+
+P.O. 5 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto el Gobernador del Estado, a través de las instancias competentes, reorganizará la estructura de las Dependencias, a través de la creación, fusión o disolución de las unidades administrativas que sea necesario.
+
+###### ARTÍCULO TERCERO.
+
+Las unidades administrativas del Comité de Planeación para el Desarrollo del Estado de Tlaxcala que pasen a la Secretaría de Planeación y Finanzas, con motivo de lo establecido en el presente Decreto, se transferirán incluyendo los recursos humanos que sean necesarios, así como los financieros y materiales que la unidad administrativa haya utilizado para la atención de los asuntos que conoció.
+
+###### ARTÍCULO CUARTO.
+
+Las unidades administrativas de la Secretaría de Turismo que pasen a la Secretaría de Turismo y Desarrollo Económico, con motivo de lo establecido en el presente Decreto, se transferirán incluyendo los recursos humanos que sean necesarios, así como los financieros y materiales que la unidad administrativa haya utilizado para la atención de los asuntos que conoció.
+
+###### ARTÍCULO QUINTO.
+
+Cuando se mencione a la Secretaría de Turismo en otros ordenamientos jurídicos se entenderá que se hace referencia a la Secretaría de Turismo y Desarrollo Económico.
+
+ARTÍCULO SEXTO Los asuntos en trámite, así como los juicios, recursos y procedimientos que con motivo de la entrada en vigor de este Decreto deban pasar de una Dependencia o Entidad a otra, continuarán tramitándose por las unidades administrativas de la Dependencia o instancia que la sustituya.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todo instrumento legal, jurídico o administrativo en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a la Coordinación de Planeación para el Desarrollo del Estado de Tlaxcala y a la Secretaría de Turismo, por virtud del mismo, se entenderá asignado a la Secretaría de Planeación y Finanzas y a la Secretaría de Turismo y Desarrollo Económico, respectivamente.
+
+En cumplimiento a las medidas de racionalidad y austeridad presupuestaria para el ejercicio fiscal que corresponda, se seguirán utilizando hasta que se agoten, los formatos y demás papelería existente en los que consten la denominación de las Dependencias que como consecuencia de esta· reforma desaparecen o cambian su denominación.
+
+###### ARTÍCULO OCTAVO.
+
+Los derechos y obligaciones contractuales contraídos por el Comité de Planeación para el Desarrollo del Estado de Tlaxcala y de la Secretaría de Turismo, serán atribuidos a la Secretaría de Planeación y Finanzas y a la Secretaría Turismo (sic) y Desarrollo Económico, respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+Cuando se mencione a la Secretaría de la Función Pública en otros ordenamientos jurídicos se entenderá que se hace referencia a la Contraloría del Ejecutivo, como órgano adscrito al titular del Poder Ejecutivo, al cual se transfieren las funciones, recursos y programas de la Secretaría que se re adscribe (sic) mediante el presente Decreto; conforme a los reglamentos y acuerdos que emita el Gobernador del Estado.
+
+###### ARTÍCULO DÉCIMO.
+
+Cuando se mencione a la Consejería Jurídica en otros ordenamientos jurídicos se entenderá que se hace referencia a la Consejería Jurídica, como órgano adscrito al titular del Poder Ejecutivo al cual se transfieren las funciones, recursos y programas de la dependencia que se extingue mediante el presente Decreto.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La Secretaría de Planeación y Finanzas del Gobierno del Estado queda facultada para realizar las transferencias o resectorización presupuestarias y la adscripción de los recursos humanos que sean necesarios para la debida observancia de este Decreto, con la intervención que le corresponda a la Oficialía Mayor de Gobierno, así como para realizar las adecuaciones a los ramos, programas de inversión y programas operativos que se requieran para el Presupuesto de Egresos del ejercicio fiscal en curso y subsecuentes, debiendo integrar en la cuenta pública correspondiente el informe sobre el uso que haga de esta facultad.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con lo (sic) que cuenta actualmente la Secretaría de la Función Pública pasarán a formar parte de la Contraloría del Ejecutivo; dicho proceso será supervisado por la Secretaría de Planeación y Finanzas y la Oficialía Mayor del Gobierno, en el ámbito de sus respectivas competencias.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+El Gobernador del Estado de Tlaxcala expedirá los reglamentos y acuerdos administrativos para mejor proveer el presente Decreto dentro de los ciento veinte días siguientes a su entrada en vigor.
+
+En tanto no se realicen las reformas a que se refiere el párrafo anterior, las Dependencias señaladas en este Decreto, seguirán aplicando los reglamentos vigentes en todo aquello que no lo contravenga.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Los procedimientos jurídicos y administrativos a cargo de la Secretaría de la Función Pública y de la Consejería Jurídica, se continuarán desarrollando conforme a las disposiciones legales en vigor, en tanto se emitan las disposiciones reglamentarias correspondientes. Asimismo, serán válidos los actos que los titulares de las dependencias que se extinguen y se adscriban al Despacho del Gobernador conforme a este Decreto, continúen realizando conforme a las disposiciones vigentes, hasta en tanto no se modifiquen sus atribuciones o facultades por un acto reglamentario o jurídico que se oponga a las mismas.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Las obligaciones laborales de cada Dependencia que se extinga o desaparezca, serán asumidas por los respetivos (sic) órganos o unidades administrativas de re adscripción (sic), respetando los derechos de los trabajadores, en términos de las disposiciones legales aplicables.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de la Secretaría de la Función Pública y de la Consejería Jurídica del Ejecutivo, se entenderán referidas a los órganos que integrarán el Despacho del Gobernador del Estado.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Se derogan todas las disposiciones que se opongan al contenido de este Decreto.
