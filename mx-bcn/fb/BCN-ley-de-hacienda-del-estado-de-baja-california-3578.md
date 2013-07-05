@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2013-06-07"
+last_updated: "2013-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2013.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1377,15 +1377,27 @@ Si quien efectúa los pagos está domiciliado fuera del Estado, y no tiene dentr
 
 16.- Este Impuesto se liquidará y pagará de conformidad con la tasa que estipule la Ley de Ingresos del Estado, aplicada al total de los pagos efectuados por el empleador, según los períodos establecidos por el Artículo 151-14, o al total de las percepciones que en el mismo período obtengan de fuera del Estado, quienes presten servicios de carácter personal dentro del mismo.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-De los ingresos totales que se obtengan por concepto de recaudación de este Impuesto se destinará el 5% al fideicomiso empresarial del Estado, el cual tendrá como objetivos:
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
-a).- Apoyar la Seguridad Pública en el Estado.
+De los ingresos totales que se obtengan por concepto de recaudación de este impuesto, se destinará cuando menos el 30% al Fideicomiso Empresarial del Estado, el cual tendrá como obligaciones:
 
-b).- Fomentar la Participación Social en la Educación; y
+Destinar el 10% a los siguientes objetivos:
 
-c).- Fortalecer las Comisiones y Consejos de Desarrollo Económico.
+a) Apoyar la Seguridad Pública en el Estado;
+
+b) Fomentar la Participación Social en la Educación; y
+
+c) Fortalecer las Comisiones y Consejos de Desarrollo Económico.
+
+Destinar el 20% restante a los siguientes objetivos:
+
+a) Fortalecer la política de desarrollo empresarial del Estado de Baja California, consensuada entre los sectores productivo, educativo y gubernamental.
+
+b) Impulsar las vocaciones productivas de la entidad.
+
+c) Mejorar la competitividad del Estado y las condiciones en que se desarrollan las actividades productivas acordes a nuestra realidad fronteriza.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
@@ -3172,3 +3184,9 @@ SEGUNDO.- Túrnese las presentes reformas de Ley al Titular del Poder Ejecutivo 
 P.O. 7 DE JUNIO DE 2013.
 
 ÚNICO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE JULIO DE 2013.
+
+PRIMERO: La presente reforma entrará en vigor el primero de enero de 2014.
+
+SEGUNDO: El Ejecutivo del Estado en el proyecto de Ley de Ingresos para el ejercicio fiscal 2014, deberá incluir las modificaciones pertinentes para la viabilidad de la presente reforma.
