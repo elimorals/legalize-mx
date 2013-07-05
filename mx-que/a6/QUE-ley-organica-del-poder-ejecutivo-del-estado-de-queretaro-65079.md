@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2012-05-18"
+last_updated: "2013-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -279,7 +279,9 @@ XXXII. Organizar los actos cívicos del Poder Ejecutivo del Estado;
 
 XXXIII. Administrar y publicar el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”;
 
-XXXIV. Otorgar, revocar y modificar las concesiones y permisos necesarios para la explotación de vialidades de jurisdicción estatal; para el servicio público de transporte o carga; y para el almacenaje, venta, consumo y porteo de bebidas alcohólicas; así como ejercer, en su caso, los derechos que correspondan;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+
+XXXIV. Otorgar, revocar y modificar las concesiones y permisos necesarios para la explotación de vialidades de jurisdicción estatal; así como para el almacenaje, venta, consumo y porteo de bebidas alcohólicas; y ejercer, en su caso, los derechos que correspondan;
 
 XXXV. Participar en los asuntos de materia agraria, por acuerdo del Gobernador del Estado, en los términos de las leyes respectivas;
 
@@ -297,13 +299,11 @@ XXXVIII. Operar el Sistema Estatal de Protección Civil, de conformidad con la L
 
 XXXIX. Proponer al Consejo Estatal de Protección Civil, políticas, acciones y estrategias de coordinación en materia de protección civil, para todo el territorio del Estado;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
-XL. Fomentar las (sic) participación ciudadana en la formulación de planes y programas de transporte y protección civil, coordinándose, en su caso, con los diferentes órdenes de gobierno;
+XL. Fomentar la participación ciudadana en la formulación de planes y programas de protección civil, coordinándose, en su caso, con los diferentes órdenes de gobierno;
 
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2012)</small>
-
-XLI. Diseñar, proponer y ejecutar las políticas y programas de transporte privado y público, en su caso, con la participación de los municipios, de acuerdo a los convenios y programas en que éstos intervengan; así como expedir las concesiones, permisos y licencias aplicables en la materia; y
+XLI. (DEROGADA, P.O. 5 DE JULIO DE 2013)
 
 XLII. Las demás facultades y obligaciones que le señalen las leyes y reglamentos que resulten aplicables.
 
@@ -1124,3 +1124,37 @@ SE REFORMA LA FRACCIÓN XIII, DEL ARTÍCULO 25 DE LA LEY ORGÁNICA DEL PODER EJE
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 5 DE JULIO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. El Gobernador del Estado nombrará al Director General del Instituto Queretano del Transporte, dentro los (sic) 10 diez días naturales siguientes al de la entrada en vigor de la presente Ley.
+
+Artículo Tercero. En tanto se expide el nombramiento de Director General del Instituto, asumirá dichas funciones, en carácter de encargado de despacho, el Director de Transporte de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Cuarto. Dentro de los quince días naturales posteriores a la entrada en vigor de la presente Ley, el Consejo Directivo del Instituto celebrará su sesión de instalación.
+
+Artículo Quinto. A partir de la entrada en vigor de la presente Ley, todos los programas públicos, recursos humanos, materiales y financieros asignados a la Dirección de Transporte de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, se transfieren al Instituto.
+
+Artículo Sexto. Los trabajadores de la Dirección de Transporte de la Secretaría de Gobierno del Poder Ejecutivo del Estado, que son transferidos al Instituto en términos de la presente Ley, conservan sus derechos laborales.
+
+Artículo Séptimo. El Gobernador del Estado de Querétaro, expedirá los reglamentos necesarios para la ejecución y debida observancia de la presente Ley, en el término de treinta días naturales contados a partir del inicio de vigencia de esta Ley.
+
+En tanto se expiden los reglamentos respectivos, serán aplicables, en lo conducente, los expedidos con anterioridad a la entrada en vigor de esta Ley, en todo lo que no se le opongan a la misma.
+
+Artículo Octavo. El Gobernador del Estado contará con un plazo de treinta días naturales, contados a partir de la instalación del Consejo Directivo del Instituto, para expedir el Programa Estatal de Transporte.
+
+Artículo Noveno. El Instituto implementará y pondrá en operación el Registro de Transporte Público en un plazo de treinta días naturales a partir de la entrada en vigor de la presente Ley.
+
+Para efectos de lo anterior, el Instituto deberá llevar a cabo, en el transcurso de dicho plazo, las acciones, programas y previsiones que resulten necesarias para la instrumentación de dicho registro.
+
+Artículo Décimo. A partir de la entrada en vigor del (sic) presente Ley, todas las referencias en otros ordenamientos legales a la Secretaría de Gobierno del Poder Ejecutivo, en materia de transporte o, a la Dirección de Transporte de dicha Secretaría, se entenderán hechas al Instituto Queretano del Transporte.
+
+Artículo Decimoprimero. Los asuntos iniciados ante a (sic) la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, en materia de transporte y en la Dirección de Transporte de dicha Secretaría, que a la fecha de entrada en vigor de esta Ley se encuentren en trámite, continuarán el mismo y serán resueltos por el Instituto, en cuyo caso deberá aplicarse la legislación de la materia vigente a la fecha de su iniciación.
+
+Artículo Decimosegundo. El Poder Ejecutivo del Estado, con el objeto de cumplir con las obligaciones que se establecen en la presente Ley, deberá proporcionar la suficiencia presupuestaria necesaria y realizar los ajustes al Presupuesto de Egresos para el ejercicio fiscal 2013 y posteriores.
+
+Artículo Decimotercero. Para el cumplimiento de los artículos 6 y 10, el titular del Poder Ejecutivo, emitirá el Programa Estatal de Transporte, con la participación de los Municipios a partir del 1 de octubre del año 2015.
+
+Artículo Decimocuarto. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en esta Ley.
