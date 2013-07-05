@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-30-2005-del-pleno-del-consejo-de-la-46290"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-09-23"
-last_updated: "2005-09-23"
+last_updated: "2013-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46290&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2005-09-07"
 ---
 # ACUERDO GENERAL 30/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS RELACIONES BUROCRATICO-LABORALES EN EL PODER JUDICIAL DE LA FEDERACION
 
-ACUERDO GENERAL 30/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS RELACIONES BUROCRATICO-LABORALES EN EL PODER JUDICIAL DE LA FEDERACION
+ACUERDO GENERAL 30/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS RELACIONES BUROCRÁTICO-LABORALES EN EL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JULIO DE 2013.
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federacion, el viernes 23 de septiembre de 2005.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de septiembre de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
@@ -51,7 +51,9 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-PRIMERO.- En caso de que un trabajador de base incurra en una causal de cese, los titulares de órganos jurisdiccionales y unidades administrativas deberán ceñirse a las reglas que establece la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B del artículo 123 de la Constitución Federal, y a la “Guía de procedimientos para determinar la responsabilidad laboral de los trabajadores de base del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral”, en todo aquello que no contravenga a la ley laboral burocrática.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 30/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE JULIO DE 2013)</small>
+
+PRIMERO.- En caso de que un trabajador de base incurra en una causal de cese, los titulares de órganos jurisdiccionales y unidades administrativas deberán ceñirse a las reglas que establece la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y a los criterios correspondientes, aprobados por el Pleno del Consejo de la Judicatura Federal.
 
 SEGUNDO.- Los titulares de órganos jurisdiccionales y unidades administrativas, regularizarán la situación de los interinatos de su personal de base y la otorgarán a los empleados que reúnan los requisitos del artículo 6 de la Ley Federal de los Trabajadores al Servicio del Estado, de acuerdo con el criterio emitido por la Suprema Corte de Justicia de la Nación y con la finalidad de otorgar certidumbre jurídica a la situación laboral del personal de base de este Poder Judicial de la Federación.
 
@@ -66,3 +68,15 @@ SEGUNDO.- Este acuerdo sólo es aplicable a los procedimientos de cese regidos p
 TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 30/2005, del Pleno del Consejo de la Judicatura Federal, Relativo a las Relaciones Burocrático-Laborales en el Poder Judicial de la Federación, fue aprobado por el Pleno del Consejo, en sesión de siete de septiembre de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a siete de septiembre de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 5 DE JULIO DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+CUARTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar inmediatamente el texto de este Acuerdo al diverso Acuerdo General 30/2005, del Pleno del Consejo de la Judicatura Federal, relativo a las relaciones burocrático-laborales en el Poder Judicial de la Federación.
