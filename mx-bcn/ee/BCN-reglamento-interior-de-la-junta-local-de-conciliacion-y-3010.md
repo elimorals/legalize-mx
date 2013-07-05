@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-junta-local-de-conciliacion-y-3010"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-13"
-last_updated: "1994-05-13"
+last_updated: "2013-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DE MEXICALI, BAJA CALIFORNIA
 
-REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION y ARBITRAJE DE MEXICALI, BAJA CALIFORNIA
+REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO I TRANSITORIO DEL REGLAMENTO INTERIOR, DE SERVICIO PROFESIONAL DE CARRERA Y DE EVALUACIÓN DE DESEMPEÑO DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DE MEXICALI BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 5 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de mayo de 1994.
 
-REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DE MEXICALI, BAJA CALIFORNIA, EXPEDIDO POR EL PLENO CELEBRADO EN SESION EXTRAORDINARIA EL DlA DIECISEIS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y TRES, DE ACUERDO CON LAS FACULTADES CONTENIDAS EN EL ARTICULO 614 FRACCION I, EN RELACION AL 623, AMBOS DE LA LEY FEDERAL DEL TRABAJO.
+REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DE MEXICALI, BAJA CALIFORNIA, EXPEDIDO POR EL PLENO CELEBRADO EN SESION EXTRAORDINARIA EL DIA DIECISEIS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y TRES, DE ACUERDO CON LAS FACULTADES CONTENIDAS EN EL ARTICULO 614 FRACCION I, EN RELACION AL 623, AMBOS DE LA LEY FEDERAL DEL TRABAJO.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -51,7 +53,7 @@ Las Juntas Especiales conocerán indistintamente de todo negocio de índole labo
 
 La Junta Local de Conciliación y Arbitraje, se compone de los siguientes órganos:
 
-l. El Pleno.
+I. El Pleno.
 
 II. El Presidente.
 
@@ -183,7 +185,7 @@ El Pleno se integra con el Presidente de la Junta y la totalidad de los Represen
 
 El Pleno de la Junta, tiene las facultades y obligaciones que le confiere el ordinal 614 de la Ley y que consiste en:
 
-l. Expedir el Reglamento Interior de la Junta;
+I. Expedir el Reglamento Interior de la Junta;
 
 II. Conocer y resolver los conflictos de trabajo cuando afecten a la totalidad de las ramas de la industria y de las actividades representadas en la Junta, relativas a su jurisdicción y competencia;
 
@@ -251,7 +253,7 @@ El Pleno estará asistido por el Secretario General de la Junta, quien dará fe 
 
 Son requisitos para ser Presidente de la Junta Local de Conciliación y Arbitraje, de conformidad con el artículo 612 de la Ley Federal del Trabajo, los siguientes:
 
-l. Ser mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos.
+I. Ser mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos.
 
 II. Tener título legalmente expedido de Licenciado en Derecho.
 
@@ -315,7 +317,7 @@ En caso de ser necesaria, por el crecimiento poblacional, incremento de juicios,
 
 Las relaciones de mando del Presidente de la Junta Local de Conciliación y Arbitraje, quedarán establecidas de la siguiente manera:
 
-l. MANDO: Todo el personal de la Junta.
+I. MANDO: Todo el personal de la Junta.
 
 II. COORDINACION: Pleno, Autoridades Estatales, Federales y Sectores Patronal y Obrero.
 
@@ -329,7 +331,7 @@ De conformidad con lo previsto por el artículo 605 de la "Ley", la “Junta” 
 
 El Secretario General de la Junta, tiene además de las facultades y obligaciones que le asignan la Ley Federal del Trabajo en vigor, sus reglamentos, el Presidente de la Junta y el presente Reglamento, las siguientes:
 
-l. Vigilar el orden y disciplina del personal Jurídico de la Junta así como su puntualidad y asistencia en las comparecencias, audiencias y demás actividades desempeñadas en cumplimiento a las funciones que le fueron asignadas de acuerdo a este Reglamento y a la Ley;
+I. Vigilar el orden y disciplina del personal Jurídico de la Junta así como su puntualidad y asistencia en las comparecencias, audiencias y demás actividades desempeñadas en cumplimiento a las funciones que le fueron asignadas de acuerdo a este Reglamento y a la Ley;
 
 II. Proponer al Presidente las disposiciones de carácter general, que estime convenientes para el buen desempeño de las funciones de la Junta;
 
@@ -445,7 +447,7 @@ XXII Las demás que le asigne la Ley, el presente Reglamento y el Presidente de 
 
 Son requisitos para ser Secretario General de la Junta Local de Conciliación y Arbitraje, de conformidad con lo dispuesto por el artículo 629 de la Ley Federal del Trabajo, las siguientes:
 
-l. Ser Mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
+I. Ser Mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
 
 II. Tener titulo legalmente expedido de Licenciado en Derecho;
 
@@ -459,7 +461,7 @@ V. No haber sido condenado por delito intencional sancionado con pena corporal.
 
 Las relaciones de mando del Secretario General de la Junta Local de Conciliación y Arbitraje, quedarán establecidas de la siguiente manera.
 
-l. SUBORDINACION: Al presidente de la Junta Local de Conciliación y Arbitraje de Mexicali, B.C.
+I. SUBORDINACION: Al presidente de la Junta Local de Conciliación y Arbitraje de Mexicali, B.C.
 
 II. MANDO: Personal de la Junta Local de Conciliación y Arbitraje.
 
@@ -471,7 +473,7 @@ III. COORDINACION: Pleno, Autoridades Estatales, Federales y Sectores Patronal y
 
 El Dictaminador de la Junta Local de Conciliación y Arbitraje, deberá reunir los siguientes requisitos:
 
-l. Ser mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos.
+I. Ser mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos.
 
 II. Tener título legalmente expedido de Licenciado en Derecho.
 
@@ -509,7 +511,7 @@ i).- Formular al C. Gobernador Constitucional del Estado, previa la concentraci�
 
 Las relaciones de mando del Dictaminador de la Junta Local de Conciliación y Arbitraje, quedarán establecidas de la siguiente manera:
 
-l. SUBORDINACION: Directa: de la Presidencia de la Junta Local y de la Secretaría General;
+I. SUBORDINACION: Directa: de la Presidencia de la Junta Local y de la Secretaría General;
 
 II. MANDO: Personal de la Junta Local adscrito a su servicio;
 
@@ -521,7 +523,7 @@ III. COORDINACION: Personal Jurídico de la Junta Local.
 
 Son requisitos para ser Presidente de (sic) Junta Especial de la Local de Conciliación y Arbitraje, de conformidad con lo dispuesto por el artículo 630 de la Ley Federal del Trabajo, los siguientes:
 
-l. Ser mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
+I. Ser mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
 
 II. Tener título legalmente expedido de Licenciado en Derecho;
 
@@ -571,7 +573,7 @@ o).- Las demás que les asigne la Ley, sus Reglamentos, el Presidente de la Junt
 
 Las relaciones de mando del Presidente de (sic) Junta Especial, quedarán establecidas de la siguiente manera:
 
-l. SUBORDINACION: Directa: del Presidente de la Junta Local y del Secretario General; Indirecta: del Tribunal a través del funcionario autorizado.
+I. SUBORDINACION: Directa: del Presidente de la Junta Local y del Secretario General; Indirecta: del Tribunal a través del funcionario autorizado.
 
 II. MANDO: Personal adscrito a la Junta Especial.
 
@@ -583,7 +585,7 @@ III. COORDINACION: Con los Representantes Obrero y Patronal, Dictaminador y dem�
 
 Son requisitos para ser Secretario de Junta Especial de conformidad con lo dispuesto por el artículo 627 de la Ley Federal del Trabajo, los siguientes:
 
-l. Ser mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
+I. Ser mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
 
 II. Tener titulo legalmente expedido de Licenciado en Derecho;
 
@@ -691,7 +693,7 @@ m).- Las demás que les asignen la Ley Federal del Trabajo, el presente Reglamen
 
 Las relaciones de mando del Auxiliar, quedarán establecidas de la siguiente manera:
 
-l. SUBORDINACION: Directa: Al Presidente de la Junta Local. Indirecta: de la Secretaría General.
+I. SUBORDINACION: Directa: Al Presidente de la Junta Local. Indirecta: de la Secretaría General.
 
 II. MANDO: Personal Jurídico y Administrativo subordinado.
 
@@ -703,7 +705,7 @@ III. COORDINACION: Personal Jurídico de la Junta Local.
 
 Son requisitos para ser Actuarios de la Junta Local de Conciliación y Arbitraje, de conformidad con lo dispuesto por el artículo 626 de la Ley Federal del Trabajo, los siguientes:
 
-l. Ser mexicanos mayores de edad y estar en pleno ejercicio de sus derechos;
+I. Ser mexicanos mayores de edad y estar en pleno ejercicio de sus derechos;
 
 II. Haber terminado el tercer año o el sexto semestre de la carrera de Licenciado en Derecho, por lo menos;
 
@@ -739,7 +741,7 @@ j).- Las demás que les asignen la Ley, el presente Reglamento, o sus superiores
 
 Las relaciones de mando del actuario, quedarán establecidas de la siguiente manera:
 
-l. SUBORDINACION: Directa: al Secretario de Acuerdos de la Junta Especial y si se encuentra asignado a Presidencia, el Secretario General de la Junta. Indirecta: al Presidente de la Junta Especial y de la Local en su caso.
+I. SUBORDINACION: Directa: al Secretario de Acuerdos de la Junta Especial y si se encuentra asignado a Presidencia, el Secretario General de la Junta. Indirecta: al Presidente de la Junta Especial y de la Local en su caso.
 
 II. MANDO: Personal Administrativo subordinado.
 
@@ -749,7 +751,7 @@ II. MANDO: Personal Administrativo subordinado.
 
 Son requisitos para ser Jefe del Departamento Administrativo de la Junta Local de Conciliación y Arbitraje, los siguientes:
 
-l. Ser mayor de veinticinco años;
+I. Ser mayor de veinticinco años;
 
 II. Tener grado de Licenciatura en Administración de Empresas, Administración Pública, Contabilidad o Derecho;
 
@@ -823,7 +825,7 @@ La sección de Estadística deberá proporcionar la información que le sea soli
 
 Las relaciones de mando del Jefe del Departamento Administrativo, quedarán establecidas de la siguiente manera:
 
-l. SUBORDINACION: Directa: del Presidente y Secretario General de la Junta. Indirecta: del Ejecutivo del Estado, por conducto de persona autorizada.
+I. SUBORDINACION: Directa: del Presidente y Secretario General de la Junta. Indirecta: del Ejecutivo del Estado, por conducto de persona autorizada.
 
 II. MANDO: Personal adscrito a la Unidad Administrativa y personal jurídico y administrativo de la Junta, en el ámbito de su competencia.
 
@@ -1053,7 +1055,7 @@ El Archivo General de la Junta Local, y el Registro de Asociaciones estará a ca
 
 Esta sección tendrá, además de las funciones contenidas en el presente Reglamento y las que le confiere el Presidente de la Junta Local, las siguientes:
 
-l. LLevar los expedientes personales de todos y cada uno de los servidores públicos de la Junta Local.
+I. LLevar los expedientes personales de todos y cada uno de los servidores públicos de la Junta Local.
 
 II. Archivar y conservar la documentación relativa a la elección de los Representantes Obrero Y Patronales que integran las distintas Juntas Especiales de la Local de Conciliación y Arbitraje, Regionales Permanentes, de Conciliación y las Municipales, así como el Jurado de Responsabilidades.
 
@@ -1087,7 +1089,7 @@ Para el correcto desempeño de sus funciones, esta Sección contará con el mate
 
 El jefe de esta Sección tendrá las siguientes obligaciones:
 
-l. Archivar, de acuerdo al sistema establecido, toda la documentación que le sea enviada de las distintas dependencias de la Junta Local con tal propósito.
+I. Archivar, de acuerdo al sistema establecido, toda la documentación que le sea enviada de las distintas dependencias de la Junta Local con tal propósito.
 
 II. Vigilar estrictamente la conservación, integridad y no alteración de los documentos bajo la custodia de esta sección.
 
@@ -1280,3 +1282,23 @@ JUNTA ESPECIAL UNIVERSITARIA
 LIC. YOLANDA SOSA Y SILVA LIC. JAIME MUÑOZ ESTRADA
 
 C. ROGELIO GUTIERREZ CASTRO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JULIO DE 2013.
+
+###### ARTÍCULO I.
+
+Se Abroga el reglamento Interior de la Junta Local de Conciliación y Arbitraje de Mexicali, Baja California, publicado en el Periódico oficial No. 19, sección I, el 13 de Mayo de 1994, Tomo CI.
+
+###### ARTÍCULO II.
+
+El Presente Reglamento fue aprobado en sesión Ordinaria de Pleno de la Junta Local de Conciliación y Arbitraje de Mexicali, Baja California, verificada el día 22 de Mayo de 2013, Dos mil trece.
+
+###### ARTÍCULO III.
+
+A la entrada en vigor del presente reglamento todos los servidores públicos descritos en el artículo 69 serán considerados servidores públicos de Servicio Profesional de Carrera Laboral.
+
+###### ARTÍCULO IV.
+
+El presente Reglamento Interior entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Baja California.
