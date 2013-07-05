@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-superior-de-los-recursos-publicos-para-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2013-02-22"
+last_updated: "2013-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACIÓN SUPERIOR DE LOS RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2013.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -177,17 +177,25 @@ d. Los informes sobre pasivos contingentes;
 
 e. Las notas a los estados financieros;
 
-f. El estado analítico del activo; y,
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
-g. El estado analítico de deuda que incluya el endeudamiento neto e intereses de la deuda.
+f. El estado analítico del activo;
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+
+g. El estado analítico de la deuda que incluya el endeudamiento neto e intereses de la deuda;
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
 
 h. Los actos, convenios y contratos de los que resulten derechos u obligaciones directas, indirectas o contingentes que pudieran tener efecto sobre el ejercicio de sus presupuestos o de sus patrimonios;
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
-i. El registro de personas físicas o morales beneficiarias por programas sociales, mencionando monto asignado o bien entregado, así como grupo y partida de gasto respectivo.
+i. El registro de personas físicas o morales beneficiarias por programas sociales, mencionando monto asignado o bien entregado, así como grupo y partida de gasto respectivo; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JULIO DE 2013)</small>
+
+j. La relación de los bienes que componen su patrimonio conforme a los formatos electrónicos que apruebe el Consejo Nacional de Armonización Contable (CONAC).
 
 II. Información presupuestaria.
 
@@ -1214,3 +1222,7 @@ P.O. 22 DE FEBRERO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE JULIO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
