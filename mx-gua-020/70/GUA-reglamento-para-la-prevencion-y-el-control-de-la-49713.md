@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-prevencion-y-el-control-de-la-49713"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-28"
-last_updated: "2011-12-02"
+last_updated: "2013-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO PARA LA PREVENCIÓN Y EL CONTROL DE LA CONTAMINACIÓN A LA ATMÓSFERA GENERADA POR VEHÍCULOS AUTOMOTORES, PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2013.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 28 de febrero de 2006.
 
@@ -163,7 +163,9 @@ E.- Calcomanía por días o periodos determinados.
 
 II.- Limitar o suspender la circulación vehicular en zonas o vías de contaminación determinadas, incluyendo vehículos destinados a prestar servicios públicos; y,
 
-III.- Retirar de la circulación los vehículos automotores ostensiblemente contaminantes, o que no respeten las limitaciones o restricciones establecidas en los planes o programas que se formulen conforme al presente Reglamento, así como imponer las sanciones que procedan conforme a las disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+
+III.- Retirar de la circulación los vehículos automotores que emitan humo notoriamente, o que no respeten las limitaciones o restricciones establecidas en los planes o programas que se formulen conforme al presente Reglamento, así como imponer las sanciones que procedan conforme a las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2009)</small>
 
@@ -185,29 +187,41 @@ La aplicación de las sanciones y medidas previstas en este Reglamento correspon
 
 Las infracciones a las disposiciones de los programas de verificación vehicular serán sancionadas por la Dirección General de Tránsito Municipal en los términos señalados en los mismos programas.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 14.
 
-Los propietarios o poseedores de los vehículos automotores que circulen en el Municipio de León, Gto., que infrinjan las disposiciones de este Reglamento o del programa de verificación vehicular respectivo, se harán acreedores a las siguientes sanciones, mismas que se podrán imponer sin seguir el orden establecido:
+Los propietarios o poseedores de los vehículos automotores que circulen en el Municipio de León, Guanajuato, que infrinjan las disposiciones de este Reglamento, del Reglamento de Tránsito Municipal de León, Guanajuato o del programa de verificación vehicular respectivo, se harán acreedores a las siguientes sanciones, mismas que se podrán imponer sin seguir el orden establecido:
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2009)</small>
 
 I.- Al propietario o poseedor del vehículo:
 
-a).- Que contamine ostensiblemente, se le impondrá multa por el equivalente a 15 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
-b).- Que haya realizado la verificación vehicular, en uno o más semestres de conformidad con el Programa de Verificación Vehicular respectivo, se le impondrá multa por el equivalente a 10 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción.
+a).- Que emitan humo notoriamente, se le impondrá multa por el equivalente de 15 a 20 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción;
 
-Si dentro de los cinco días hábiles siguientes al de la imposición de la multa, el infractor acredita ante las cajas de la Tesorería Municipal, haber aprobado la verificación vehicular, con el certificado correspondiente, se le reducirá la sanción, aplicándosele una multa por el equivalente a 5 días de salario mínimo general vigente en el Estado al momento de imponerla. Para lo cual, se creará una cuenta transitoria en la Tesorería Municipal en donde se depositaran estos recursos y serán aplicados .nica y exclusivamente para la adquisición de .árboles que la Dirección General de Medio Ambiente Sustentable establezca.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
-De igual manera, la multa, podrá ser cancelada por las autoridades competentes, si el infractor dentro de los cinco días hábiles siguientes al de su imposición, acredita con los documentos correspondientes, haber aprobado la verificación vehicular, así como haber ingresado al vivero municipal, cinco .árboles de la familia de los cítricos (lima, limón o naranjo) que midan por lo menos un metro de altura;
+b).- Que no haya realizado la verificación vehicular, en uno o más semestres de conformidad con el Programa de Verificación Vehicular respectivo, se le impondrá multa por el equivalente de 15 a 20 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción.
+
+Si dentro de los 10 días hábiles siguientes al de la imposición de la multa, el infractor acredita ante las cajas de la Tesorería Municipal, haber aprobado la verificación vehicular, con el certificado correspondiente, se le reducirá la sanción, aplicándosele una multa por el equivalente a 1 día de salario mínimo general vigente en el Estado al momento de imponerla. Para lo cual, se creará una cuenta transitoria en la Tesorería Municipal en donde se depositaran estos recursos y serán aplicados única y exclusivamente para la adquisición de árboles que la Dirección General de Medio Ambiente Sustentable establezca;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2009)</small>
 
 II.- Multa por el equivalente de 50 a 70 días de salario mínimo general vigente en el Estado al momento de imponer la sanción, a quien infrinja las medidas o acciones a que se refieren los Artículos 9 y 10 de este Reglamento;
 
-III.- Retiro de vehículos automotores, cuando contaminen ostensiblemente o se encuentren circulando en zonas o vías limitadas, y su traslado a los depósitos vehiculares respectivos, a efecto de que el propietario, previo el pago de las multas y derechos correspondientes, solicite su devolución. Cuando se trate de un vehículo del servicio público de transporte de personas, se procurará que los pasajeros lleguen a su destino;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
-IV.- Depósito del vehículo automotor durante el tiempo que permanezca vigente la restricción o limitación, cuando los conductores no las hayan respetado, o en tanto el vehículo continué contaminando ostensiblemente.
+III.- Retiro de vehículos automotores, cuando emitan humo notoriamente o se encuentren circulando en zonas o vías limitadas a la circulación derivado de una declaratoria de contingencia ambiental, y su traslado a los depósitos vehiculares que designe la Dirección General de Tránsito Municipal, a efecto de que el propietario, previo el pago de las multas y derechos correspondientes, solicite su devolución. Cuando se trate de un vehículo del servicio público de transporte de personas, se procurará que los pasajeros lleguen a su destino;
 
-El vehículo que haya sido retirado de la circulación, en los términos del presente ordenamiento deberá permanecer en el depósito vehicular que designe la autoridad municipal. Sin perjuicio de lo anterior, el propietario del vehículo, podrá solicitar, a su costa, el traslado de éste a cualquiera de los talleres o centros de verificación autorizados, para que se practique la medición y las reparaciones que resulten necesarias;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+
+IV.- Depósito del vehículo automotor durante el tiempo que permanezca vigente la restricción o limitación, cuando los conductores no las hayan respetado, o en tanto el vehículo continué emitiendo humo notoriamente.
+
+El vehículo que haya sido retirado de la circulación, en los términos del presente ordenamiento deberá permanecer en el depósito vehicular que designe la autoridad municipal. Sin perjuicio de lo anterior, el propietario del vehículo, podrá solicitar, a su costa, el traslado de éste a cualquiera de los talleres o centros de verificación, para que se practique la medición y las reparaciones que resulten necesarias; y,
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2009)</small>
 
 V.- El propietario o poseedor del vehículo que no haya sido verificado en uno o más semestres, de conformidad con el Programa de Verificación vehicular respectivo, podrá voluntariamente realizar la medición de contaminantes sin cobro de multa; (sic)
 
@@ -276,3 +290,7 @@ P.O. 2 DE DICIEMBRE DE 2011.
 PRIMERO. Las presentes reformas y adiciones entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones normativas que se opongan a las presentes reformas y adiciones.
+
+P.O. 5 DE JULIO DE 2013.
+
+Único. Las presentes reformas y adiciones entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
