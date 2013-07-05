@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-la-contraloria-73862"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-19"
-last_updated: "2010-02-19"
+last_updated: "2013-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA MUNICIPAL DE SANTIAGO, NUEVO LEON
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA MUNICIPAL DE SANTIAGO, NUEVO LEON
+REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORÍA MUNICIPAL DE SANTIAGO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONTRALORÍA MUNICIPAL DE SANTIAGO, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 5 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. 5 DE JULIO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 19 de febrero de 2010.
 
@@ -310,3 +312,11 @@ C. Lic. Everardo González Salazar
 Secretario del R. Ayuntamiento
 
 Dado en el Salón de Sesiones del R. Ayuntamiento de Santiago, Nuevo León, a los 28 días del mes de Enero del 2010-dos mil diez.
+
+P.O. DE 5 DE JULIO DE 2013.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- Queda abrogado el Reglamento Interior de la Secretaria de la Contraloría Municipal de Santiago, Nuevo León, publicado en el Periódico Oficial de fecha 19 de febrero de 2010, así como todas aquellas disposiciones que se opongan al presente reglamento.
+
+Artículo Tercero.- Lo no previsto en este reglamento se sujetará a las disposiciones de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León y del Reglamento Orgánico de la Administración Pública Municipal de Santiago, Nuevo León.
