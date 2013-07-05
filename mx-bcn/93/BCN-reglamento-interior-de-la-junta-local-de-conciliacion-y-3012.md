@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-junta-local-de-conciliacion-y-3012"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-05-20"
-last_updated: "1991-05-20"
+last_updated: "2013-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE TIJUANA, BAJA CALIFORNIA
 
-REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DE TIJUANA BAJA CALIFORNIA
+REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO I TRANSITORIO DEL REGLAMENTO INTERIOR, DE SERVICIO PROFESIONAL DE CARRERA Y DE EVALUACIÓN DE DESEMPEÑO DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DE TIJUANA BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 5 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección I del Periódico Oficial, el lunes 20 de mayo de 1991.
 
@@ -972,3 +974,23 @@ Rúbrica
 LIC. EDUARDO DE LA VEGA, S.
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JULIO DE 2013.
+
+###### ARTICULO I.
+
+Se Abroga el reglamento Interior de la Junta Local de Conciliación y Arbitraje de Tijuana, Baja California, publicado en el Periódico oficial No. 14, sección I, el 20 de Mayo de 1991, Tomo XCVIII.
+
+###### ARTICULO II.
+
+El Presente Reglamento fue aprobado en sesión Ordinaria de Pleno de la Junta Local de Conciliación y Arbitraje de Tijuana, Baja California, verificada el día 15 de Mayo de 2013, Dos mil trece.
+
+###### ARTICULO III.
+
+A la entrada en vigor del presente reglamento todos los servidores públicos descritos en el artículo 69 serán considerados servidores públicos de Servicio Profesional de Carrera Laboral.
+
+###### ARTICULO IV.
+
+El presente Reglamento Interior, entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Baja California.
