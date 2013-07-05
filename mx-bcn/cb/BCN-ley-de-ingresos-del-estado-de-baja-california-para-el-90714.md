@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-90714"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2013
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2013.
 
 Ley publicada en la Sección I Número Especial del Periódico Oficial del Estado de Baja California, el lunes 31 de diciembre del año 2012.
 
@@ -709,9 +709,11 @@ DERECHOS POR LA PRESTACIÓN DE LOS SIGUIENTES SERVICIOS PÚBLICOS.
 
 SERVICIOS DE AGUA.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 11.
 
-Los derechos por consumo de agua se pagarán mensualmente en la Recaudación Auxiliar de Rentas adscrita a cada uno de los Organismos que presten el servicio, en los establecimientos y en las instituciones bancarias de la localidad autorizados para tal efecto, y están obligados al pago de las cuotas por consumo de agua, todas las personas físicas y morales, particulares, dependencias de los Gobiernos Federal, Estatal y Municipal, así como las Entidades Paraestatales, Paramunicipales, Educativas o de Asistencia Pública o Privada, independientemente de que en otras Leyes no sean objeto, sujeto, no causen o estén exentos de dichos derechos, otorgándose únicamente exención del pago correspondiente a personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados, siempre que éstos no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, en los Municipios de Tijuana, Playas de Rosarito, Tecate y Ensenada con exención total del pago de los derechos por consumo de agua, siempre y cuando sus consumos no excedan de 25 m3; se otorgará exención del 50% del crédito fiscal cuando sus consumos mensuales no excedan de 40 m3, quedando exento del pago por los primeros 25 m3; y tratándose del consumo excedente de 40 m3 mensuales pagarán por el consumo total de acuerdo a la tarifa normal de Ley. En tanto que, por condiciones climáticas extremas en el Municipio de Mexicali, cuando los consumos domésticos de dicho sector de la población no excedan de 30 m3 mensuales se les otorgará exención total del pago; se exentará el 50% del crédito fiscal cuando sus consumos mensuales no excedan de 60 m3, quedando exento del pago por los primeros 30 m3; y por el excedente de 60 m3 mensuales pagarán por el consumo total de acuerdo a la tarifa normal de Ley. Ninguna persona podrá gozar de este beneficio en más de un domicilio.
+Los derechos por consumo de agua se pagarán mensualmente en la Recaudación Auxiliar de Rentas adscrita a cada uno de los Organismos que presten el servicio, en los establecimientos y en las instituciones bancarias de la localidad autorizados para tal efecto, y están obligados al pago de las cuotas por consumo de agua, todas las personas físicas y morales, particulares, dependencias de los Gobiernos Federal, Estatal y Municipal, así como las Entidades Paraestatales, Paramunicipales, Educativas o de Asistencia Pública o Privada, independientemente de que en otras Leyes no sean objeto, sujeto, no causen o estén exentos de dichos derechos, otorgándose únicamente exención del pago correspondiente a personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados, siempre que éstos no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, en los Municipios de Tijuana, Playas de Rosarito, Tecate y Ensenada con exención total del pago de los derechos por consumo de agua, siempre y cuando sus consumos no excedan de 25 m3; se otorgará exención del 50% del crédito fiscal cuando sus consumos mensuales no excedan de 40 m3, quedando exento del pago por los primeros 25 m3; y tratándose del consumo excedente de 40 m3 mensuales pagarán únicamente por el consumo excedente de acuerdo a la tarifa normal de Ley. En tanto que, por condiciones climáticas extremas en el Municipio de Mexicali, cuando los consumos domésticos de dicho sector de la población no excedan de 30 m3 mensuales se les otorgará exención total del pago; se exentará el 50% del crédito fiscal cuando sus consumos mensuales no excedan de 60 m3, quedando exento del pago por los primeros 30 m3; y por el excedente de 60 m3 mensuales pagarán únicamente por el consumo excedente de acuerdo a la tarifa normal de Ley. Ninguna persona podrá gozar de este beneficio en más de un domicilio.
 
 Las personas mencionadas en el párrafo anterior, están igualmente obligadas al pago de los derechos de conexión de las redes, tanto de agua como drenaje, salvo las exenciones señaladas en el Título IX de la Ley de Hacienda del Estado de Baja California.
 
@@ -3762,3 +3764,9 @@ GOBERNADOR DEL ESTADO
 FRANCISCO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JULIO DE 2013.
+
+ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
