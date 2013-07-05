@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-de-garcia-nuevo-leon-69641"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-01"
-last_updated: "2009-07-01"
+last_updated: "2013-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ADQUISICIONES DE GARCIA, NUEVO LEON
 
-REGLAMENTO DE ADQUISICIONES DE GARCIA, NUEVO LEON
+REGLAMENTO DE ADQUISICIONES DE GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 5 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de julio de 2009.
 
@@ -712,7 +714,7 @@ a) El listado de conceptos, precios unitarios e importes;
 
 b) Los proyectos, las especificaciones, los programas y los demás documentos correspondientes.
 
-XVIII. La forma de vigilancia y los casos en que podrá solicitarse la suspensión o cancelación y/o rescisión del contrato.
+XVIII.- La forma de vigilancia y los casos en que podrá solicitarse la suspensión o cancelación y/o rescisión del contrato.
 
 XIX.- Los procedimientos mediante los cuales las partes resolverán controversias futuras y previsibles que pudieran versar sobre problemas específicos de carácter técnico y/o administrativo.
 
@@ -778,27 +780,27 @@ Para el ejercicio del presupuesto de egresos municipal, se requiere que el gasto
 
 El recurso de inconformidad se ajustará a las disposiciones de este Reglamento, es procedente en contra de todos los actos de cualquier autoridad municipal contra los cuales el particular se sienta agraviado, en virtud de estimar que el acto que le perjudica no se encuentra debidamente fundado y motivado, siempre y cuando el ordenamiento legal aplicable al caso concreto no provea la procedencia de recurso alguno.
 
-###### Artículo 89.
+###### ARTÍCULO 89.
 
 El recurso se substanciará y decidirá conforme al procedimiento previsto en éste Capítulo, y a falta de disposición expresa, se aplicará en forma supletoria la Ley de Justicia Administrativa para el Estado de Nuevo León.
 
-###### Artículo 90.
+###### ARTÍCULO 90.
 
 El trámite del recurso se presentará ante el titular de la dependencia que hubiere emitido el acto impugnado, e inmediatamente lo remitirá a la Dirección Jurídica de la Secretaría de Ayuntamiento para su debida substanciación, a quien corresponderá también decretar lo conducente respecto de la suspensión de la ejecución de dicho acto. La resolución definitiva del recurso será emitida por el Secretario del Ayuntamiento.
 
-###### Artículo 91.
+###### ARTÍCULO 91.
 
 La presentación del recurso se hará por triplicado ante la dependencia que hubiere dictado el acto impugnado, quien deberá remitirlo a Dirección Jurídica de la Secretaría el Ayuntamiento dentro del término de tres días.
 
 DE LA DEMANDA
 
-###### Artículo 92.
+###### ARTÍCULO 92.
 
 El recurso de inconformidad se interpondrá dentro de los 15-quince días hábiles siguientes, contados a partir de la fecha de notificación del acto que se impugne.
 
 Si el Recurso se interpusiese extemporáneamente, será desechado de plano; si la extemporaneidad se comprobare en el curso del procedimiento, se sobreseerá.
 
-###### Artículo 93.
+###### ARTÍCULO 93.
 
 El escrito en que se interponga el recurso de inconformidad, no se sujetará a formalidad especial alguna, debiendo expresar al menos lo siguiente:
 
@@ -814,7 +816,7 @@ V. Las pruebas que se ofrezcan para justificar los hechos en que se apoye el rec
 
 Al escrito de inconformidad se anexarán: el documento en que conste el acto o los actos impugnados, la constancia de notificación del mismo y las pruebas ofrecidas por el recurrente.
 
-###### Artículo 94.
+###### ARTÍCULO 94.
 
 Al interponerse el recurso de inconformidad, en representación de otra persona física o moral, quien suscriba el recurso justificará su personería con apego a las reglas del derecho común. Si no se acompañare en el escrito en que se interponga el recurso si el documento necesario para acreditar la personalidad del representante o mandatario, se desechará el recurso sin más trámite.
 
@@ -822,23 +824,23 @@ Si el escrito por el cual se interpone el recurso de inconformidad fuere oscuro 
 
 Cumpliendo lo anterior se dará curso al escrito.
 
-###### Artículo 95.
+###### ARTÍCULO 95.
 
 Si el escrito mediante el cual se interpone el recurso, no contiene agravios resultantes del enlace lógico-jurídico entre los hechos motivo de la inconformidad y los fundamentos legales aplicables, se negará lo solicitado sin prevención alguna.
 
 DE LA SUBSTANCIACION DEL JUICIO
 
-###### Artículo 96.
+###### ARTÍCULO 96.
 
 Admitido el recurso y proveyéndose lo conducente a la suspensión del acto impugnado cuando esta hubiera sido solicitada, se notificará a las autoridades que hayan participado en el mismo, así como a los terceros perjudicados para que dentro del término de 5-cinco días hábiles contesten el recurso, ofreciendo y acompañando las pruebas que estimen conveniente.
 
-###### Artículo 97.
+###### ARTÍCULO 97.
 
 Una vez transcurrido el término a las autoridades y a los terceros perjudicados para contestar el recurso, se señalará fecha para la celebración de la audiencia de pruebas y alegatos, la que se fijará para dentro de un término que no exceda de 10-diez días hábiles y una vez desahogada, se dicte la resolución.
 
 DE LAS NOTIFICACIONES
 
-###### Artículo 98.
+###### ARTÍCULO 98.
 
 Siempre que el recurrente señale al efecto domicilio dentro del Municipio de García, Nuevo León, se le notificarán personalmente los siguientes actos:
 
@@ -856,11 +858,11 @@ Si el recurrente no señala domicilio dentro del Municipio de García, Nuevo Le�
 
 Se notificarán por correo certificado, con acuse de recibo, los acuerdos que resuelvan sobre la suspensión del procedimiento administrativo de ejecución.
 
-###### Artículo 99.
+###### ARTÍCULO 99.
 
 Las notificaciones que deban practicarse a terceros, se efectuarán en forma personal. Hecha la primera notificación a los terceros interesados, se observarán respecto de ellos las reglas contenidas en el artículo precedente.
 
-###### Artículo 100.
+###### ARTÍCULO 100.
 
 Las notificaciones se harán en el domicilio que hubiese señalado en su escrito de inconformidad para recibirlas y a falta de señalamiento se realizarán en el que tuviese registrado ante la dependencia que dicto el acto impugnado.
 
@@ -870,7 +872,7 @@ Los términos fijados en los acuerdos o resoluciones que se notifiquen, comenzar
 
 DE LA IMPROCEDENCIA
 
-###### Artículo 101.
+###### ARTÍCULO 101.
 
 Es improcedente el recurso cuando se haga valer contra los actos administrativos:
 
@@ -888,13 +890,13 @@ VI. Que hayan sido revocados por la autoridad administrativa.
 
 DE LAS PRUEBAS
 
-###### Artículo 102.
+###### ARTÍCULO 102.
 
 El que afirma está obligado a probar.
 
 Las autoridades deberán probar los hechos que motiven sus actos o resoluciones, cuando el afectado los niegue lisa o llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
-###### Artículo 103.
+###### ARTÍCULO 103.
 
 En la tramitación del recurso de inconformidad, se admitirán toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones. Las pruebas supervenientes podrán presentarse siempre que no se haya resuelto el recurso.
 
@@ -902,17 +904,17 @@ Harán prueba plena: la confesión expresa del recurrente, las presunciones lega
 
 Las demás pruebas quedarán a la prudente apreciación de la autoridad.
 
-###### Artículo 104.
+###### ARTÍCULO 104.
 
 Todas las pruebas se desahogarán en la audiencia de pruebas y alegatos y las partes que ofrezcan testigos tienen la obligación de presentarlos y de no acudir a la audiencia se tendrá por desierta la prueba testimonial.
 
 DE LA RESOLUCIÓN DEL RECURSO
 
-###### Artículo 105.
+###### ARTÍCULO 105.
 
 Desahogadas las pruebas y presentados los alegatos dentro de la audiencia misma, se dictará la resolución dentro de los quince días siguientes a la fecha de la celebración de la audiencia de pruebas y alegatos.
 
-###### Artículo 106.
+###### ARTÍCULO 106.
 
 La resolución del recurso se fundará en derecho y examinarán, todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar los hechos notorios. Cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de ese sólo agravio.
 
@@ -924,7 +926,7 @@ No se podrán revocar o modificar los actos administrativos en la parte no impug
 
 La resolución expresará con claridad los actos que se modifiquen y, si la modificación es parcial, se indicará con precisión la parte que subsista.
 
-###### Artículo 107.
+###### ARTÍCULO 107.
 
 La resolución que ponga fin al recurso podrá:
 
@@ -940,13 +942,13 @@ V.- Mandar modificar el acto impugnado o dictar uno nuevo que lo sustituya cuand
 
 Si la resolución ordena realizar un determinado acto ó iniciar la reposición de procedimiento, deberá cumplirse en plazo de quince días.
 
-###### Artículo 108.
+###### ARTÍCULO 108.
 
 No habrá condenación en costas en el recurso de inconformidad, correspondiendo al recurrente hacerse cargo de los honorarios y gastos que genere su defensa.
 
 DE LA SUSPENSIÓN DEL ACTO RECLAMADO
 
-###### Artículo 109.
+###### ARTÍCULO 109.
 
 La suspensión del acto administrativo materia del recurso de inconformidad se decretará a petición del recurrente.
 
@@ -962,7 +964,7 @@ IV. Que garantice el recurrente el interés fiscal; así como los daños y perju
 
 Se considera que se siguen perjuicios al interés social o se contravienen disposiciones de orden público en los casos previstos por el artículo 124 fracción II de la Ley de Amparo.
 
-###### Artículo 110.
+###### ARTÍCULO 110.
 
 Los recurrentes podrán garantizar el interés social y los daños indicados en la fracción IV del artículo precedente, en alguna de las formas siguientes:
 
@@ -980,7 +982,7 @@ La garantía deberá comprender además de las contribuciones adecuadas, los acc
 
 En ningún caso las autoridades podrán dispensar el otorgamiento de la garantía.
 
-###### Artículo 111.
+###### ARTÍCULO 111.
 
 En caso de negativa o de violación a la suspensión, los interesados podrán recurrir en queja ante el Secretario de Ayuntamiento, acompañando los documentos en que conste el recurso de inconformidad y el ofrecimiento u otorgamiento de la garantía correspondiente. El Secretario de Ayuntamiento aplicará las reglas indicadas en artículos precedentes para resolver lo que corresponda, teniendo facultades para hacerse de información con diligencias para mejor proveer, de ser necesario.
 
@@ -1011,3 +1013,21 @@ PRESIDENTE MUNICIPAL DE GARCÍA, NUEVO LEÓN
 LIC. BENITO ARÁMBULA AMAYA.
 
 SECRETARIO DE AYUNTAMIENTO DE GARCÍA, NUEVO LEÓN.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JULIO DE 2013.
+
+PRIMERO.- El presente Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de García, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de Adquisiciones de García, Nuevo León, publicado en el Periódico Oficial del Estado en fecha 1 de julio de 2009, y se derogan todas las disposiciones que se opongan a lo previsto en el presente Reglamento.
+
+TERCERO.- Se derogan todas las demás disposiciones inherentes a adquisiciones, arrendamientos y servicios, para el Municipio de García, Nuevo León, que hubieren estado en vigor hasta la fecha de publicación del presente ordenamiento.
+
+CUARTO.- Los procedimientos de contratación iniciados con anterioridad a la entrada en vigor del presente Reglamento, continuarán tramitándose hasta su conclusión conforme a las disposiciones aplicables vigentes a su inicio.
+
+QUINTO.- Los recursos administrativos en trámite a la entrada en vigor del presente Reglamento, se regirán según disposiciones vigentes al momento de emitirse el acto de autoridad reclamado.
+
+SEXTO.- La designación de los representantes ciudadanos que conforman el Comité de Adquisiciones deberá realizarse dentro de los treinta días hábiles siguientes a la publicación del presente Reglamento en el Periódico Oficial del Estado de Nuevo León.
+
+SÉPTIMO.- Envíese al Periódico Oficial del Estado para su publicación.
