@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2013-05-07"
+last_updated: "2013-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -967,7 +967,7 @@ I. Relativos a las condiciones de operación:
 
 a) Las frecuencias serán establecidas por la Secretaría, en función de la programación del servicio para cada ruta o sistema de rutas.
 
-b) La Secretaría establecerá manuales de operación de los sistemas integrales de rutas, cuyos términos y especificaciones de servicío serán obligatorios para los concesionarios.
+b) La Secretaría establecerá manuales de operación de los sistemas integrales de rutas, cuyos términos y especificaciones de servicio serán obligatorios para los concesionarios.
 
 c) Bajo los esquemas que establezca la propia Secretaría, los concesionarios serán corresponsables de la supervisión y mejora del servicio, eliminando desviaciones en la aplicación de horarios, frecuencia de paso y cupo.
 
@@ -1059,9 +1059,9 @@ III. En relación a los esquemas tarifarios, los concesionarios y operadores se 
 
 a) Utilizar los esquemas, aditamentos y equipamiento auxiliar que, previa opinión del Consejo Estatal de Transporte, determine el titular del Ejecutivo.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2013)</small>
 
-b) Aplicar en estricto apego las tarifas que el Congreso del Estado autorice en el marco de esta Ley.
+b) Aplicar en estricto apego las tarifas que el Congreso del Estado remita al ejecutivo del Estado en el marco de esta Ley.
 
 > <small>(REFORMADO, P.O. 3 DE ABRIL DE 2012)</small>
 
@@ -1343,67 +1343,25 @@ Las tarifas y su aplicación responderán siempre a un criterio técnico uniform
 
 En la formulación y aplicación de las tarifas, horarios e itinerarios, se observará siempre igualdad de tratamiento para todos los que se encuentren en las mismas condiciones, procurando satisfacer especialmente las necesidades del usuario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 92.
 
-La determinación de las tarifas será el resultado del estudio que al efecto lleven a cabo el Consejo Estatal de Transporte Público, o los respectivos consejos municipales de transporte público, por sí mismos, o en coordinación con la propia Secretaría; la propuesta de las nuevas tarifas o de sus ajustes, se turnará al Congreso de (sic) Estado para su autorización, hecho lo anterior se remitirá al titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
-
-Los prestadores del servicio deberán exhibir permanentemente la tarifa aprobada y publicada en el Periódico Oficial del Estado, en lugares visibles de sus vehículos, en las terminales y demás infraestructura con acceso a los usuarios.
+Los prestadores del servicio deberán exhibir permanentemente, en lugares visibles de sus vehículos, en las terminales y demás infraestructura con acceso a los usuarios, la tarifa aprobada y publicada en el Periódico Oficial del Estado.
 
 ###### ARTICULO 93.
 
-El estudio técnico señalado en el artículo anterior, deberá realizarse conforme a la metodología establecida en el Reglamento de esta Ley, atendiendo a los componentes de la fórmula siguiente:
+(DEROGADO, P.O. 6 DE JULIO DE 2013)
 
-COSTO+ UTILIDAD
-
-TARIFA=----------------------------------------------
-
-NUMERO DE USUARIOS
-
-Para efectos de la aplicación de la fórmula, los elementos que conforman el costo son:
-
-cf: costo fijo
-
-§ Costos administrativos
-
-§ Salarios
-
-§ Mantenimiento
-
-cv: costo variable
-
-§ Índice nacional de precios al consumidor
-
-§ Combustibles y lubricantes
-
-§ Neumáticos
-
-cc: costo de capital
-
-§ Inflación promedio
-
-§ Valor de vehículos nuevos
-
-§ Tasa promedio de interés
-
-§ Depreciación
-
-El referente para determinar el monto de la rentabilidad será la tasa promedio de rendimiento de los certificados de la Tesorería de la Federación (CETES) a plazo de veintiocho días o el que le sustituya, aplicado al periodo comprendido desde la entrada en vigor del último ajuste de la tarifa, a la fecha de revisión.
-
-El número de pasajeros será determinado en función de la información comprobable que deberán proporcionar los concesionarios.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
-
-El Congreso del Estado tendrá en todo tiempo la facultad de verificar la objetividad de la información proporcionada.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 94.
 
-Para el caso de ajuste a tarifas previamente autorizadas, éste se efectuará en función del incremento que registren los siguientes indicadores económicos: salario mínimo vigente en la Entidad; el Índice Nacional de Precios al Consumidor; el Índice Nacional de Precios al Productor; y el precio del combustible, el ajuste quedará definido por el promedio aritmético de la variación de los indicadores del periodo de que se trate; aplicándose el segundo sábado del segundo mes de cada año.
+Las tarifas previamente autorizadas se incrementarán en la medida y porcentaje que se incremente el Salario Mínimo General del área geográfica en la que se encuentren integrados los municipios del Estado de San Luis Potosí, conforme a la resolución que emita la Comisión Nacional de los Salarios Mínimos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+Cuando del incremento resulten tarifas cuyo importe comprendan fracciones de la unidad monetaria que no sean múltiplos de diez centavos, se ajustará el monto del importe de las tarifas, al múltiplo de diez centavos más próximo.
 
-La condición constituida conforme al párrafo anterior prevalecerá hasta en tanto los concesionarios soliciten a la Secretaría, a través del consejo que corresponda, el ajuste de la tarifa, de acuerdo a la fórmula a la que hace referencia el artículo 93 de esta Ley, o bien el Congreso del Estado así lo considere en función del costo total.
+Las tarifas que resulten del incremento, serán remitidas por el Congreso del Estado al Poder Ejecutivo, para su publicación en el Periódico Oficial del Estado, y comenzarán a aplicarse quince días después de la fecha en que sean vigentes los incrementos al Salario Mínimo General del área geográfica correspondiente.
 
 ###### ARTICULO 95.
 
@@ -1765,7 +1723,7 @@ III. El quórum se integrará, en primera convocatoria, con la presencia de la m
 
 IV. Para el caso de segunda o ulterior convocatoria, el quórum se integrará con los miembros presentes, y los acuerdos se tomarán por la mayoría simple de los presentes a la hora de la votación;
 
-V. Las resoluciones emitidas por el Consejo Municipal de Transporte Público tendrán carácter de recomendaciones, a fin de que el Ejecutivo tome las mejores opciones que atiendan el interés social en la materia. Cada uno de sus miembros tendrá derecho a voz y voto durante las sesiones del mismo. El Presidente del Consejo tendrá voto de calidad en caso de empate en las votaciones;
+V. Las resoluciones emitidas por el Consejo Municipal de Transporte Público tendrán carácter de recomendaciones, a fin de que el Ejecutivo tome las mejores opciones qué atiendan el interés social en la materia. Cada uno de sus miembros tendrá derecho a voz y voto durante las sesiones del mismo. El Presidente del Consejo tendrá voto de calidad en caso de empate en las votaciones;
 
 VI. El secretario técnico levantará el acta correspondiente de cada sesión; asimismo será el relator de los proyectos, solicitudes y, en general, de los asuntos que se desahoguen en el Consejo;
 
@@ -2094,3 +2052,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. El Ejecutivo del Estado tendrá treinta días a partir de la publicación del presente Decreto, para llevar a cabo las reformas al reglamento respectivo.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
