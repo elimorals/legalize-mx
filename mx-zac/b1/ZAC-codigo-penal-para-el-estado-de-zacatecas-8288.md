@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2012-08-04"
+last_updated: "2013-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2013.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -223,9 +223,13 @@ XIV.- Vigilancia de la policía;
 
 XV.- Suspensión total o parcial de las operaciones de una persona jurídica o que se ostente como tal, o disolución de la misma;
 
-XVI.- Trabajo obligatorio a favor de la comunidad, y
+XVI.- Trabajo obligatorio a favor de la comunidad, y (sic)
 
-XVII.- Las demás que fijen las leyes.
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2013)</small>
+
+XVII.- Vigilancia y asistencia familiar, para personas adultas a partir de los 65 años, y
+
+XVIII.- Las demás que fijen las leyes.
 
 Las penas y medidas de seguridad se entienden impuestas en los términos y con las modalidades previstas por este Código y ejecutadas por las autoridades competentes conforme a lo dispuesto por la ley de ejecución correspondiente, ajustándose a la resolución judicial respectiva.
 
@@ -435,6 +439,20 @@ La suspensión total o parcial de las operaciones de la persona jurídica tendr�
 
 La disolución traerá como consecuencia, la publicación de la sentencia y la cancelación de la inscripción del acta constitutiva, en su caso, en el Registro Público respectivo, procediéndose en lo demás conforme a la ley aplicable al caso.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JULIO DE 2013)</small>
+
+### CAPITULO XIII
+
+VIGILANCIA Y ASISTENCIA FAMILIAR.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2013)</small>
+
+50 Bis.- La vigilancia y asistencia familiar para las personas de 65 años o más, consiste en la medida de seguridad alternativa a la sanción de prisión, para que integrantes o miembros de la familia del adulto declarado culpable de delito, provean y actúen bajo su responsabilidad y por sus medios, en la vigilancia, la custodia, la asistencia y el tratamiento, referente a las enfermedades crónicas o incurables que el sentenciado padezca, o la pérdida o involución de sus facultades físicas o mentales.
+
+La aplicación de esta medida se hará conforme a las disposiciones contenidas en el artículo 76 BIS. del presente Código.
+
+## TITULO TERCERO. APLICACION DE SANCIONES
+
 ### CAPITULO I. REGLAS GENERALES
 
 51.- Dentro de los límites fijados por la ley, los jueces y tribunales aplicarán las sanciones establecidas para cada delito teniendo en cuenta las circunstancias exteriores de ejecución, las peculiares del delincuente y las demás señaladas en el artículo siguiente.
@@ -464,8 +482,6 @@ Cuando pronunciada una sentencia irrevocable en que se hubiera impuesto una sanc
 57.- Cuando una ley quite a un hecho u omisión el carácter de delito que otra ley le daba, se pondrá en absoluta libertad a quienes se esté procesando o juzgando, y a los condenados que se hallen cumpliendo o vayan a cumplir sus condenas, y cesarán de derecho todos los efectos que éstas y los procesos debieran producir en lo futuro.
 
 58.- Cuando un mismo hecho aparezca regulado por diversas disposiciones, la especial prevalecerá sobre la general, la de mayor alcance absorberá a la de menor amplitud y la principal excluirá a la secundaria.
-
-## TITULO TERCERO. APLICACION DE SANCIONES
 
 ### CAPITULO II. SANCIONES APLICABLES A LOS DELITOS CULPOSOS Y PRETERINTENCIONALES
 
@@ -561,6 +577,50 @@ II.- Al sentenciado se le condene por otro delito. Si el nuevo delito es culposo
 
 En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta el tiempo durante el cual el reo hubiera cumplido la pena sustitutiva.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JULIO DE 2013)</small>
+
+### CAPITULO VIII. LA VIGILANCIA Y LA ASISTENCIA FAMILIAR ALTERNATIVAS PARA LAS PERSONAS ADULTAS
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2013)</small>
+
+76 Bis.- La vigilancia y asistencia familiar a que se refiere el artículo 50 Bis, se aplicará en los casos de personas que al ser declaradas penalmente responsables cuenten con la edad de 65 años o más, siempre y cuando concurran las siguientes condiciones:
+
+a) Que no se trate de reincidentes;
+
+b) Que durante el procedimiento haya quedado acreditado el padecimiento de una enfermedad crónica o incurable que requiera tratamiento médico permanente, o denote pérdida de capacidades físicas o mentales;
+
+c) Que integrantes o miembros de la familia del sentenciado, así identificados y reconocidos judicialmente, se comprometan expresa y formalmente a la vigilancia y la asistencia de aquél; siempre y cuando el compromiso lo expresen hasta antes de los alegatos de clausura del juicio, o de las conclusiones finales de las partes, previas al fallo, y
+
+d) Que no se trate de las conductas previstas y sancionadas por la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, o de alguno o varios de los siguientes previstos en el Código Penal para el Estado de Zacatecas:
+
+1. Facilitación delictiva, contenido en el artículo 141 Ter.
+
+2. Terrorismo, determinado en los artículos 169 y 170.
+
+3. Corrupción de menores, definido en los artículos 181, 181 Bis y 182.
+
+4. Pornografía infantil, en los casos de las fracciones I y IV del artículo 183.
+
+5. Desaparición forzada de personas, referido en el artículo 195 Ter, con excepción de los casos previstos en los párrafos segundo, tercero y cuarto del artículo 195 Quater.
+
+6. Violación equiparada, conforme las fracciones I y II del artículo 237, y los casos de agravante del delito dispuestos en las cuatro fracciones del artículo 237 Bis.
+
+7. Trata de personas, establecido en el artículo 271 Bis.
+
+8. Homicidio doloso calificado, en los términos de los artículos 293 con relación al 299 y al 301.
+
+9. Parricidio, asentado en el artículo 306.
+
+10. Feminicidio, previsto en el artículo 309 Bis.
+
+Si al momento de la sentencia firme el adulto no ha justificado los requisitos de los incisos a), b) y c), podrá justificarlos ante el Juez de Ejecución, a fin de que de manera inmediata se le conmute la pena de prisión observando en lo conducente lo establecido en el Título Tercero, Capítulo Primero de la Ley del Sistema Penitenciario y de Ejecución de Sanciones del Estado de Zacatecas.
+
+La vigilancia familiar tendrá la misma duración que la sanción de prisión que correspondería o que haya sido impuesta, y en las condiciones que determine el Juez de la Causa o, en su caso, el Juez de Ejecución, sin perjuicio de las modificaciones de tiempo y forma que procedieran conforme lo establecido en el artículo 132 de la Ley del Sistema Penitenciario y de Ejecución de Sanciones del Estado de Zacatecas.
+
+## TITULO CUARTO. CUMPLIMIENTO DE LAS SANCIONES
+
+> <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)</small>
+
 ### CAPITULO I. EJECUCION DE LAS SANCIONES
 
 77.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
@@ -576,10 +636,6 @@ En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta
 80.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
 81.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
-
-> <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)</small>
-
-## TITULO CUARTO. CUMPLIMIENTO DE LAS SANCIONES
 
 > <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)</small>
 
@@ -637,6 +693,8 @@ VII.- Cuando el fiador tenga motivos fundados para no continuar desempeñando el
 
 En caso de muerte o insolvencia del fiador, estará obligado el reo a poner el hecho en conocimiento del juez para el efecto y bajo el apercibimiento que se expresan en el párrafo que antecede.
 
+## TITULO QUINTO. EXTINCION DE LA RESPONSABILIDAD PENAL
+
 ### CAPITULO I. MUERTE DEL DELINCUENTE
 
 87.- La muerte del delincuente extingue la acción penal, así como las sanciones que se hubieren impuesto, a excepción de la reparación del daño y la de decomiso de los instrumentos con que se cometió el delito y de las cosas que sean efecto u objeto del mismo, salvo las excepciones que establezcan las leyes.
@@ -644,8 +702,6 @@ En caso de muerte o insolvencia del fiador, estará obligado el reo a poner el h
 ### CAPITULO II. AMNISTIA
 
 88.- La amnistía extingue la acción penal y las sanciones impuestas, excepto la reparación del daño, en los términos de la ley que se dicte concediéndola, y si no se expresa, se entenderá que la acción penal y las sanciones impuestas se extinguen con todos sus efectos, con relación a todos los responsables del delito.
-
-## TITULO QUINTO. EXTINCION DE LA RESPONSABILIDAD PENAL
 
 ### CAPITULO III. PERDON DEL OFENDIDO O LEGITIMADO PARA OTORGARLO
 
@@ -731,6 +787,10 @@ Lo dispuesto en la parte final del mismo artículo anterior, tampoco comprende e
 
 112.- Los reos de homicidio intencional, o los de lesiones a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción privativa de libertad haya prescrito, no podrán residir en el lugar donde vive el ofendido o sus ascendientes, descendientes, cónyuge o hermanos, sino transcurrido, después de consumada la prescripción, un tiempo igual al que debió durar la sanción.
 
+# LIBRO SEGUNDO. DE LOS DELITOS EN PARTICULAR
+
+## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO Y SU INTEGRIDAD TERRITORIAL
+
 ### CAPITULO I. CONSPIRACION
 
 113.- Hay conspiración siempre que dos o más personas resuelven de común acuerdo cometer alguno de los delitos de que se ocupan los capítulos II y III de este título, acordando los medios de llevar a efecto su determinación. La sanción aplicable será de seis meses a dos años de prisión o confinamiento a juicio del juez, y en uno u otro (sic) casos, multa de cinco a cincuenta cuotas.
@@ -779,10 +839,6 @@ IV.- Voluntariamente sirva a un empleo, cargo subalterno o comisión en lugar oc
 
 123.- Las sanciones a que se refiere este capítulo sólo dejarán de aplicarse en el caso de que, interviniendo el Ejecutivo de la Unión en la forma que prescribe el artículo 122 de la Constitución Política de la República, con motivo de la rebelión, los rebeldes adquieren el carácter de responsables de delitos del orden federal y sean juzgados y sancionados como tales.
 
-# LIBRO SEGUNDO. DE LOS DELITOS EN PARTICULAR
-
-## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO Y SU INTEGRIDAD TERRITORIAL
-
 ### CAPITULO III. SEDICION Y OTROS DESORDENES PUBLICOS
 
 124.- Son responsables de sedición los que reunidos tumultariamente pero sin armas, resistan a la autoridad o la ataquen para impedirle el libre ejercicio de sus funciones con alguno de los objetos a que se refiere el artículo 114.
@@ -804,6 +860,8 @@ No se considerará como delito político aquel que consista en ejecución de act
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 127.- Se impondrán de uno a tres años de prisión y multa de cinco a cincuenta cuotas al que destruya o quite las señales que marcan los límites del Estado, o que de cualquier otro modo haga que se confundan, si por ello se origina un conflicto al propio Estado. Faltando esta circunstancia, las sanciones serán de tres meses a un año de prisión y multa de tres a veinticinco cuotas.
+
+## TITULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD PUBLICA
 
 ### CAPITULO I. EVASION DE PRESOS
 
@@ -844,8 +902,6 @@ II.- A aquél a quien se hubiere prohibido ir a determinado lugar o residir en �
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 138.- El reo suspenso en su profesión u oficio o inhabilitado para ejercerlos, o el que lo está en el manejo de vehículos, motores o maquinaria, que quebrante su condena, pagará una multa de cien a trescientas cuotas o realizará trabajo a favor de la comunidad de cinco a treinta días, a juicio del juzgador.
-
-## TITULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD PUBLICA
 
 ### CAPITULO III. ARMAS PROHIBIDAS
 
@@ -929,6 +985,8 @@ Cuando resulten daños, o se cometa algún otro delito, se aplicarán las reglas
 
 154.- Al que dolosamente ponga en movimiento un carro, camión o vehículo similar y lo abandone o de cualquier otro modo haga imposible el control de su velocidad y pueda causar daño, se le impondrá de uno a seis años de prisión, sin perjuicio de las sanciones correspondientes a los daños que se causen a las personas o a las cosas.
 
+## TITULO TERCERO. ATAQUES A LAS VIAS DE COMUNICACION Y VIOLACION O RETENCION DE CORRESPONDENCIA
+
 ### CAPITULO II. VIOLACION O RETENCION DE CORRESPONDENCIA
 
 155.- Se aplicarán de tres a seis meses de prisión o multa de cinco a quince cuotas:
@@ -963,7 +1021,7 @@ En los casos de las fracciones I y II de este artículo, cuando se trate de cón
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
-## TITULO TERCERO. ATAQUES A LAS VIAS DE COMUNICACION Y VIOLACION O RETENCION DE CORRESPONDENCIA
+## TITULO CUARTO. DELITOS CONTRA LA AUTORIDAD
 
 ### CAPITULO II. OPOSICION A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PUBLICOS
 
@@ -973,13 +1031,17 @@ En los casos de las fracciones I y II de este artículo, cuando se trate de cón
 
 165.- Cuando el delito se cometa por varias personas, de común acuerdo, la sanción prevista en el artículo anterior se aumentará hasta en una mitad más, si sólo se hiciere una simple oposición material sin violencia a las personas. Habiéndola, la sanción será de seis meses a dos años de prisión y multa de diez a cuarenta cuotas, sin perjuicio de observar las reglas del concurso.
 
+###### Artículo 162.
+
+El que debiendo ser examinado en una investigación o en un proceso penal o juicio civil, sin que le aprovechen las excepciones establecidas por este Código o por el Código Adjetivo Penal aplicable, o por el de Procedimientos Civiles, en su caso, se niegue a otorgar la protesta de ley o a declarar, se le aplicará de inmediato, como medio de apremio y previo apercibimiento, una multa de quince a treinta cuotas. Si persistiere en su actitud, se le hará saber que se le sancionará, previo el proceso respectivo, con prisión de seis meses a dos años, o multa de veinte a cuarenta cuotas o trabajo a favor de la comunidad, a juicio del juez haciéndose desde luego la denuncia al Ministerio Público.
+
+163.- Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio, sin haberse logrado aquel objeto.
+
 ### CAPITULO III. VIOLACION DE SELLOS
 
 166.- Al que viole los sellos puestos por orden de la autoridad pública, se le aplicará de tres meses a tres años de prisión.
 
 Igual pena se impondrá a las partes interesadas en un negocio civil que de común acuerdo, violen los sellos puestos por la autoridad pública.
-
-## TITULO CUARTO. DELITOS CONTRA LA AUTORIDAD
 
 ### CAPITULO IV. DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
 
@@ -990,12 +1052,6 @@ Igual pena se impondrá a las partes interesadas en un negocio civil que de com�
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 168.- Los ultrajes hechos a la Legislatura, al Tribunal Superior de Justicia o algún cuerpo colegiado de la administración de justicia o a cualquiera institución pública, se sancionarán con prisión de uno a tres años y multa de cincuenta a cien cuotas.
-
-###### Artículo 162.
-
-El que debiendo ser examinado en una investigación o en un proceso penal o juicio civil, sin que le aprovechen las excepciones establecidas por este Código o por el Código Adjetivo Penal aplicable, o por el de Procedimientos Civiles, en su caso, se niegue a otorgar la protesta de ley o a declarar, se le aplicará de inmediato, como medio de apremio y previo apercibimiento, una multa de quince a treinta cuotas. Si persistiere en su actitud, se le hará saber que se le sancionará, previo el proceso respectivo, con prisión de seis meses a dos años, o multa de veinte a cuarenta cuotas o trabajo a favor de la comunidad, a juicio del juez haciéndose desde luego la denuncia al Ministerio Público.
-
-163.- Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio, sin haberse logrado aquel objeto.
 
 ### CAPITULO V. TERRORISMO
 
@@ -1063,6 +1119,10 @@ Estas disposiciones sólo serán aplicables cuando no existan otras de la compet
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
+## TITULO QUINTO. DELITOS CONTRA LA SALUD PUBLICA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)</small>
+
 ### CAPITULO I
 
 DELITOS CONTRA EL DESARROLLO DE LAS PERSONAS MENORES DE EDAD Y LA PROTECCIÓN INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
@@ -1099,6 +1159,10 @@ No se actualizará el delito tratándose de programas preventivos, educativos o 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE AGOSTO DE 2012)</small>
 
+## TITULO SEXTO. DELITOS CONTRA EL DESARROLLO Y LA DIGNIDAD DE LAS PERSONAS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+
 ### CAPÍTULO I BIS. DISCRIMINACION
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
@@ -1122,10 +1186,6 @@ Asimismo, se incrementará la pena cuando los actos discriminatorios limiten el 
 Este delito se perseguirá por querella.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
-
-## TITULO QUINTO. DELITOS CONTRA LA SALUD PUBLICA
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO II. UTILIZACION DE IMAGENES O VOZ DE PERSONAS MENORES DE EDAD O DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO PARA LA PORNOGRAFIA
 
@@ -1151,7 +1211,7 @@ Las anteriores sanciones se impondrán sin perjuicio de las penas que correspond
 
 I. Si el sujeto activo se valiese de la función pública o privada, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan. En este caso, además, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, o se le suspenderá del ejercicio de la profesión u oficio por un tiempo igual al de la pena de prisión impuesta.
 
-II. Si el sujeto activo del delito tiene parentesco por consaguinidad, afinidad o civil hasta en cuarto grado o habite ocasional o permanentemente en el mismo domicilio con la victima, o tenga una relación análoga al parentesco con el sujeto pasivo; además cuando corresponda, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta.
+II. Si el sujeto activo del delito tiene parentesco por consaguinidad (sic), afinidad o civil hasta en cuarto grado o habite ocasional o permanentemente en el mismo domicilio con la victima, o tenga una relación análoga al parentesco con el sujeto pasivo; además cuando corresponda, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1160,10 +1220,6 @@ II. Si el sujeto activo del delito tiene parentesco por consaguinidad, afinidad 
 185.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2007)
 
 186.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2007)
-
-## TITULO SEXTO. DELITOS CONTRA EL DESARROLLO Y LA DIGNIDAD DE LAS PERSONAS
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPITULO III. LENOCINIO
 
@@ -1192,6 +1248,10 @@ II. Si el sujeto activo del delito tiene parentesco por consaguinidad, afinidad 
 192.- La prisión será de uno a cinco años y multa de cinco a cuarenta cuotas y suspensión de su profesión en su caso, de dos meses a un año, cuando la revelación punible sea hecha por persona que preste servicios profesionales o técnicos o por funcionario o empleado público, o cuando el secreto revelado o publicado sea de carácter industrial.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
+
+## TITULO SEPTIMO. REVELACION DE SECRETOS Y DELITOS INFORMATICOS
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO II. DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMATICOS Y MAGNETICOS
 
@@ -1243,9 +1303,7 @@ VI.- Al que sin habérsele admitido la renuncia de una comisión, empleo o cargo
 
 Lo anterior se entiende sin perjuicio de lo que dispone la Ley de Responsabilidades de los Servidores Públicos.
 
-## TITULO SEPTIMO. REVELACION DE SECRETOS Y DELITOS INFORMATICOS
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+## TITULO OCTAVO. DELITOS COMETIDOS POR SERVIDORES PUBLICOS
 
 ### CAPITULO II. ABUSO DE AUTORIDAD
 
@@ -1289,6 +1347,8 @@ Lo anterior sin perjuicio de que se imponga hasta por seis años la pena de inha
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
 
+## TITULO NOVENO
+
 ### CAPITULO II BIS. DESAPARICION FORZADA DE PERSONAS
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
@@ -1313,8 +1373,6 @@ Artículo 195 Quintus.- Al servidor público que haya sido condenado por el deli
 
 195 Sextus.- La oposición o negativa a la autoridad competente para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la destitución de su cargo, comisión o empleo, sin perjuicio de la aplicación de las penas de los demás delitos en que pudiera incurrir con motivo de su conducta.
 
-## TITULO OCTAVO. DELITOS COMETIDOS POR SERVIDORES PUBLICOS
-
 ### CAPITULO III. COALICION
 
 196.- Cometen el delito de coalición los servidores públicos que se unan o asocien para tomar medidas contrarias a una ley o reglamento, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas.
@@ -1322,8 +1380,6 @@ Artículo 195 Quintus.- Al servidor público que haya sido condenado por el deli
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 A los que comentan el delito de coalición se les impondrá de uno a seis años de prisión y multa de doscientas a trescientas cuotas.
-
-## TITULO NOVENO
 
 ### CAPITULO IV. COHECHO
 
@@ -1521,6 +1577,8 @@ La misma sanción se impondrá a los propietarios, administradores, empleados o 
 
 216.- Los ingenieros, arquitectos, veterinarios, agrónomos, maestros de obras, contratistas y en general todos los que se dediquen al ejercicio de una profesión, arte o actividad técnica, serán igualmente responsables y sancionados en la forma y términos que previene la fracción I del artículo 212, cuando causen daños indebidos en el ejercicio de su profesión, arte o actividad técnica. Estarán asimismo obligados a la reparación del daño en los términos de la fracción II del propio artículo.
 
+## TITULO DECIMO. RESPONSABILIDAD PROFESIONAL
+
 ### CAPITULO I. FALSIFICACION DE TITULOS AL PORTADOR, DOCUMENTOS DE CREDITO, VALES DE PAPEL O CUALQUIER DISPOSITIVO ELECTRONICO EN FORMA PLASTICA
 
 217.- Al que cometa el delito de falsificación de títulos al portador o documentos de crédito, se le impondrán de uno a ocho años de prisión y multa de diez a cincuenta cuotas.
@@ -1559,7 +1617,9 @@ IV.- Al que procurándose los verdaderos sellos, punzones, marcas y demás, haga
 
 V.- Al que a sabiendas hiciere uso de los sellos o de los objetos falsos de que hablan este artículo y el anterior.
 
-## TITULO DECIMO. RESPONSABILIDAD PROFESIONAL
+## TITULO DECIMO PRIMERO. FALSEDAD
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO III. FALSIFICACION DE DOCUMENTOS EN GENERAL
 
@@ -1611,9 +1671,9 @@ V.- Al que haga uso de una certificación verdadera expedida para otro como si h
 
 VI.- A los encargados de un servicio de comunicaciones del Estado o del Municipio que supongan o falsifiquen un despacho.
 
-## TITULO DECIMO PRIMERO. FALSEDAD
+## TITULO DECIMO SEGUNDO. DELITOS CONTRA LA LIBERTAD SEXUAL E INTEGRIDAD DE LAS PERSONAS
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 1995)</small>
 
 ### CAPITULO V. FALSEDAD EN DECLARACIONES JUDICIALES Y EN INFORMES DADOS A UNA AUTORIDAD
 
@@ -1670,10 +1730,6 @@ Las sanciones previstas en este artículo se impondrán con independencia de las
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 227 Ter.- Las penas señaladas en el artículo anterior se incrementarán hasta en una mitad, cuando la usurpación sea cometida por un servidor público aprovechándose de sus funciones, o por quien sin serlo, se valga de su profesión o empleo para ello.
-
-## TITULO DECIMO SEGUNDO. DELITOS CONTRA LA LIBERTAD SEXUAL E INTEGRIDAD DE LAS PERSONAS
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 1995)</small>
 
 ### CAPITULO VII. USURPACION DE FUNCIONES PUBLICAS O DE PROFESION
 
@@ -1799,6 +1855,8 @@ Cuando el sujeto activo de este delito tuviere derechos de tutela, patria potest
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 1995)</small>
 
+## TITULO DECIMO TERCERO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
+
 ### CAPITULO V. REGLAS COMUNES PARA ATENTADOS A LA INTEGRIDAD PERSONAL Y VIOLACION
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 1995)</small>
@@ -1828,8 +1886,6 @@ IV.- A los que sustituyan a un niño por otro, o cometan ocultación de infante;
 V.- Al que usurpe el estado civil de otro con el fin de adquirir derechos que no le corresponden.
 
 239.- El que cometa alguno de los delitos expresados en el artículo anterior, perderá el derecho de heredar que tenga respecto de las personas a quienes por la comisión del delito perjudique en sus derechos de familia.
-
-## TITULO DECIMO TERCERO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
 
 ### CAPITULO II. EXPOSICION DE INFANTES
 
@@ -1863,6 +1919,8 @@ No se admitirá que hubo anuencia, por lo cual el acto cometido tendrá el cará
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
 
+## TITULO DECIMO CUARTO
+
 ### CAPITULO VI. ADULTERIO
 
 247.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
@@ -1892,8 +1950,6 @@ El abandono en perjuicio de menores de edad que no tuvieren otro u otros familia
 254.- Si del abandono resultare algún daño, ya sea muerte, lesiones o cualquier otro, se aplicarán las reglas del concurso.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2001)</small>
-
-## TITULO DECIMO CUARTO
 
 ### CAPITULO VIII. VIOLENCIA FAMILIAR
 
@@ -2027,6 +2083,10 @@ Cuando los ilícitos tipificados en las fracciones anteriores se cometan en perj
 
 267.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 
+## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)</small>
+
 ### CAPITULO V. RAPTO
 
 268.- Al que sustrajere o retuviere a una mujer por medio de la violencia física o moral, o del engaño, para satisfacer algún deseo erótico o para casarse, se le aplicarán de seis meses a seis años de prisión y multa de cinco a treinta cuotas.
@@ -2042,6 +2102,10 @@ Cuando los ilícitos tipificados en las fracciones anteriores se cometan en perj
 Cuando además del delito de rapto se cometa algún otro, se observarán las reglas del concurso.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+
+## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO VI. TRATA DE PERSONAS
 
@@ -2073,21 +2137,13 @@ b) El delito es cometido en contra de una persona mayor de sesenta años de edad
 
 c) El delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho, o
 
-d) El sujeto activo del delito tenga parentesco por consaguinidad, afinidad o civil, habite en el mismo domicilio con la victima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda o custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la victima y el derecho que pudiere tener respecto de los bienes de ésta.
-
-## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)</small>
+d) El sujeto activo del delito tenga parentesco por consaguinidad (sic), afinidad o civil, habite en el mismo domicilio con la victima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda o custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la victima y el derecho que pudiere tener respecto de los bienes de ésta.
 
 ### CAPÍTULO I. DIFAMACION
 
 272.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 
 273.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
-
-## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO II. CALUMNIA
 
@@ -2271,6 +2327,8 @@ I.- Declarar a los reos sujetos a la vigilancia de la policía; y
 
 II.- Prohibirles ir a determinado lugar, municipio o distrito del Estado, o residir en él.
 
+## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
+
 ### CAPITULO IV. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
 
 304.- Se impondrá prisión de tres meses a dos años y multa de cinco a quince cuotas, al que dispare sobre alguna persona un arma de fuego, o la ataque de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor o de cualquiera otra circunstancia semejante, pueda producir como resultado del disparo o del ataque, la muerte. Si con uno u otro se causa algún daño, se aplicarán las sanciones correspondientes a éste.
@@ -2278,8 +2336,6 @@ II.- Prohibirles ir a determinado lugar, municipio o distrito del Estado, o resi
 ### CAPITULO V. INSTIGACION O AYUDA AL SUICIDIO
 
 305.- Al que instigue o ayude a otro al suicidio, se le impondrá sanción de tres a diez años de prisión si el suicidio se consuma. Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la prisión será de cinco a doce años. Si el suicidio no se lleva a efecto, pero su intento produce lesiones, la sanción será de tres meses a tres años. En todos los casos de este artículo se impondrá multa de cinco a quince cuotas.
-
-## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
 
 ### CAPITULO VI. PARRICIDIO
 
@@ -2677,6 +2733,8 @@ Para los efectos de este artículo, se entenderá que existe el lucro excesivo, 
 
 Este delito se sancionará con una pena de dos a seis años de prisión, multa de doscientas a trescientas cuotas y la reparación del daño.
 
+## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
+
 ### CAPITULO VII. DESPOJO DE INMUEBLES Y AGUAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
@@ -2720,8 +2778,6 @@ V.- Montes, bosques, selvas, pastos, mieses o cultivos de cualquier otro género
 349.- Cuando por cualquier medio se cause daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, se aplicarán las sanciones del robo simple y se perseguirá a petición de parte.
 
 Se exceptúa de la presente disposición, el daño causado a la salud pública, la flora, la fauna o los ecosistemas, en cuyo caso se aplicarán las sanciones establecidas en el Título Vigésimo Segundo del Libro Segundo de este Código.
-
-## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
 ### CAPITULO I. DELITOS CONTRA EL COMERCIO Y LA INDUSTRIA
 
@@ -2937,6 +2993,10 @@ III.- Mediante cualquier acción u omisión que no constituya delito diverso, ej
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
+## TITULO VIGESIMO. ENCUBRIMIENTO Y OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA
+
+> <small>(REFORMADO SU NUMERAL [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 4 DE AGOSTO DE 2012)</small>
+
 ### CAPITULO II. RETENCION ILEGITIMA
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
@@ -2981,9 +3041,9 @@ IV. Demore injustificadamente el cumplimiento de la resolución de autoridad com
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)</small>
 
-## TITULO VIGESIMO. ENCUBRIMIENTO Y OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA
+## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
 
-> <small>(REFORMADO SU NUMERAL [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO IV. RETARDO EN LA RESOLUCION DE LA SITUACION ILEGITIMO JURIDICA
 
@@ -3017,9 +3077,9 @@ III. Impida la declaración del imputado o la reciba, sin observar las formalida
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
-## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
+## TITULO VIGESIMO SEGUNDO. DELITOS CONTRA LAS GARANTIAS RECTORAS DEL JUICIO PENAL
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO VI. TORTURA
 
@@ -3044,6 +3104,10 @@ III.- No evitar que se torture a un detenido.
 373.- Al tercero, instigado o autorizado a cometer tortura, se le aplicarán las sanciones privativas de libertad y pecuniarias previstas en el artículo 371.
 
 (ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995) (F. DE E., P.O. 24 DE JUNIO DE 2006)
+
+## TITULO VIGESIMO TERCERO
+
+> <small>(ADICIONADO EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
 ### CAPITULO PRIMERO. DELITOS EN MATERIA ELECTORAL
 
@@ -3072,10 +3136,6 @@ VI.- SON SERVIDORES PUBLICOS.- Los así considerados por la Constitución Polít
 VII.- CANDIDATOS.- Los ciudadanos registrados formalmente como tales ante la autoridad competente por los partidos políticos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
-
-## TITULO VIGESIMO SEGUNDO. DELITOS CONTRA LAS GARANTIAS RECTORAS DEL JUICIO PENAL
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO SEGUNDO. DE LOS DELITOS EN GENERAL
 
@@ -3220,10 +3280,6 @@ XII.- Por cualquier medio participe en la alteración del padrón electoral, lis
 XIII.- Modifique o destruya las publicaciones oficiales sobre resultados de la votación, fijados en el exterior de las casillas o de los locales que ocupen los Consejos Electorales del Instituto Electoral del Estado.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
-
-## TITULO VIGESIMO TERCERO
-
-> <small>(ADICIONADO EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
 ### CAPITULO TERCERO. DE LOS MINISTROS DE CULTOS RELIGIOSOS
 
@@ -3433,6 +3489,10 @@ III.- Propale noticias falsas en torno al desarrollo de la jornada electoral o r
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)</small>
 
+## TITULO VIGESIMO SEGUNDO
+
+> <small>(ADICIONADO CON ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
+
 ### CAPITULO SEPTIMO. DE LOS ENCUESTADORES Y DE LOS RESPONSABLES DE LOS MEDIOS DE COMUNICACION
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
@@ -3490,10 +3550,6 @@ VI.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de
 Si para la comisión de cualquiera de los delitos previstos en este capítulo se utiliza violencia física contra personas, a las penas que correspondan se aumentarán de 1 a 2 años de prisión.
 
 > <small>(ADICIONADO CON CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
-
-## TITULO VIGESIMO SEGUNDO
-
-> <small>(ADICIONADO CON ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO UNICO. DELITOS CONTRA EL MEDIO AMBIENTE Y LA GESTION AMBIENTAL
 
@@ -3710,3 +3766,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
 
 Artículo Tercero.- Los procesos penales por el delito de secuestro en sus diversas modalidades que se encuentren en trámite a la entrada en vigor del presente Decreto y cuyas conductas típicas se hayan realizado antes del 27 de febrero del 2011, se continuarán aplicando los tipos y las penas que para tales delitos contemplan las disposiciones que se derogan.
+
+P.O. 6 DE JULIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan a este Decreto.
