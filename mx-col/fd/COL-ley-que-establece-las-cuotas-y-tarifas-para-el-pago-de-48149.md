@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48149"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2013-04-08"
+last_updated: "2013-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COQUIMATLAN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -283,9 +283,21 @@ Limpieza y sondeo de descargas domiciliarias en forma manual con varillas 10.20 
 
 Expedición de constancias de factibilidad de servicio de Agua potable y alcantarillado. 20.40 S/M
 
-Por viaje de agua en pipa en zona urbana. 13 S/M
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2013)</small>
 
-Por viaje de agua en pipa en zona rural. 10 S/M
+Por viaje de agua en pipa de ocho mil litros en zona urbana. 13 S/M
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2013)</small>
+
+Por medio viaje de agua en pipa (cuatro mil litros) en zona urbana. 6.5 S/M
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2013)</small>
+
+Por viaje de agua en pipa de ocho mil litros en zona rural. 10 S/M
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2013)</small>
+
+Por medio viaje de agua en pipa (cuatro mil litros) en zona rural. 5 S/M
 
 Modificación de contrato por cambio de propietario. 1.390 S/M
 
@@ -357,11 +369,19 @@ T R A N S I T O R I O S :
 
 El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Para el ejercicio fiscal 2009, el beneficio a que se refieren el artículo 23 fracción II de esta Ley, se amplía hasta el 31 de mayo del citado año, además de no generar los recargos correspondientes en dicha prórroga.
+Por concepto de estímulo fiscal, en el ejercicio fiscal 2013, a los contribuyentes que paguen los derechos que resulte de aplicar las cuotas y tarifas por los conceptos de derechos por los servicios de agua potable, alcantarillado y saneamiento, se les condonan los recargos generados y las multas impuestas por falta de pago oportuno por los conceptos mencionados, en el ejercicio 2013 y anteriores, en los periodos y porcentajes que a continuación se establecen:
+
+PERIODO JULIO NOVIEMBRE Y
+
+A OCTUBRE DICIEMBRE
+
+BASE 60% 50%
+
+Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y el Organismo Operador Municipal celebren convenio para pago en parcialidades.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -412,3 +432,9 @@ P.O. 25 DE DICIEMBRE DE 2010.
 P.O. 8 DE ABRIL DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El presente Decreto no les será aplicable a quienes con anterioridad a éste, hayan cubierto los pagos de los derechos por concepto de agua potable, alcantarillado y saneamiento y, en su caso, los recargos y multas generados.
