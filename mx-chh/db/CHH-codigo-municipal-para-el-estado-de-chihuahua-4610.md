@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2013-06-19"
+last_updated: "2013-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1113,6 +1113,10 @@ XII.- Vigilar, que no se alteren el orden y la tranquilidad públicos, se cumpla
 
 XIII.- Imponer las sanciones, que correspondan por infracciones a las leyes, reglamentos y demás disposiciones.
 
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2013)</small>
+
+XIV.- Participar con voz en las sesiones del Cabildo, en aquellos asuntos inherentes a su comunidad.
+
 El Secretario y los Regidores Seccionales tienen, en el ámbito material y territorial de su competencia, las mismas facultades y obligaciones que el Secretario y Regidores Municipales.
 
 ###### ARTICULO 42.
@@ -1553,13 +1557,15 @@ VII.- Las demás previstas en las leyes, reglamentos y manuales de organización
 
 Son atribuciones del Director de Seguridad Pública o Comandante de Policía:
 
-I.- Organizar, preparar y dirigir los cuerpos de policía, rescate y bomberos municipales;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2013)</small>
+
+I.- Organizar, preparar y dirigir los cuerpos de policía municipales. Por lo que se refiere a los cuerpos de rescate y bomberos municipales, cada Ayuntamiento dispondrá lo conducente en el reglamento respectivo.
 
 II.- Mantener la seguridad, tranquilidad, moralidad y orden públicos;
 
 III.- Prevenir la comisión de delitos y proteger a las personas en sus derechos;
 
-IV.- Proporcionar el auxilio necesario, en caso de siniestro, por conducto de los cuerpos de rescate, bomberos y demás elementos de que disponga;
+IV.- (DEROGADA, P.O. 6 DE JULIO DE 2013)
 
 V.- Controlar, vigilar y disciplinar a los investigadores privados y a los agentes de seguridad al servicio de personas, empresas o instituciones ajenas al Municipio, que no dependan directamente del Estado o de la Federación;
 
@@ -2183,11 +2189,11 @@ Los derechos de tránsito, vistas, luces y otros semejantes se regirán por las 
 
 Al otorgamiento, ejecución, terminación y en general al régimen jurídico de las concesiones para el aprovechamiento de los bienes del dominio municipal, les serán aplicables en los (sic) conducente, las disposiciones de este Código, relativas a los contratos de obra y las concesiones de servicio público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 110.
 
-Los bienes inmuebles destinados a oficinas de gobierno, así como las áreas culturales, deportivas y parques públicos municipales, que cuenten con infraestructura y estén en uso, requieren para su enajenación, la previa desafectación del régimen de dominio público decretada por el Congreso del Estado. No podrán desafectarse los bienes de dominio público del Municipio, dentro de los últimos seis meses de la Administración.
+Los bienes inmuebles destinados a oficinas de gobierno, que cuenten con infraestructura y estén en uso, requieren para su enajenación, la previa desafectación del régimen de dominio público decretada por el Congreso del Estado. No podrán desafectarse los bienes de dominio público del Municipio, dentro de los últimos seis meses de la Administración.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2006)</small>
 
@@ -2216,6 +2222,10 @@ No será necesaria la anuencia señalada en el párrafo anterior, cuando la enaj
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2006)</small>
 
 Los bienes municipales a que hacen referencia la Ley del Patrimonio Cultural y la Ley Ecológica, ambas del Estado de Chihuahua, se regularán de conformidad con lo previsto en dichos ordenamientos.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2013)</small>
+
+En todo tiempo no podrán desafectarse ni enajenarse áreas culturales, deportivas y parques públicos municipales, a excepción de los que se encuentren en desuso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
@@ -4353,6 +4363,18 @@ El presente Decreto surtirá vigencia un día después de la entrada en vigor de
 
 P.O. 23 DE FEBRERO DE 2013.
 
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no se expida el Reglamento referido en el cuerpo de este Decreto, se seguirán aplicando las disposiciones vigentes antes de esta reforma.
+
+P.O. 6 DE JULIO DE 2013.
+
+DECRETO No. 1271/2013 II P.O. POR EL QUE SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 41 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -4362,3 +4384,19 @@ P.O. 19 DE JUNIO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2013.
+
+DECRETO No. 1270/2013 II P.O. POR EL QUE SE REFORMA LA FRACCIÓN I Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 68 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2013.
+
+DECRETO No. 1272/2013 II P.O. POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEXTO, AMBOS DEL ARTÍCULO 110 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Estado.
