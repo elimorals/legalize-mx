@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-civil-del-estado-de-san-luis-potosi-11990"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-27"
-last_updated: "2010-11-09"
+last_updated: "2013-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE PROTECCION CIVIL DEL ESTADO DE SAN LUIS POTOSI
+LEY DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 6 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el sábado 27 de junio de 1998.
 
@@ -605,10 +607,26 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. MARTIN CELSO ZAVALA MARTINEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE NOVIEMBRE DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2013.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor de este Decreto se abroga la Ley de Protección Civil del Estado de San Luis Potosí publicada como Decreto Legislativo 153 en el Periódico Oficial del Estado el 27 de junio de 1998.
+
+TERCERO. Los presidentes municipales de la Entidad, tendrán un plazo de noventa días naturales contados a partir del inicio de la vigencia de esta Ley, para constituir sus consejos municipales de protección civil.
+
+CUARTO. Los presidentes municipales del Estado, tendrán un plazo de ciento ochenta días naturales para designar a los coordinadores municipales de protección civil, quienes deberán contar en todos los casos con la certificación de competencia expedida por una institución avalada por la Escuela Nacional de Protección Civil.
+
+QUINTO. El Ejecutivo del Estado deberá hacer los ajustes presupuestales necesarios para cumplir con lo establecido en esta Ley, en un plazo de noventa días naturales contados a partir del inicio de su vigencia.
+
+SEXTO. El Ejecutivo del Estado deberá emitir el Reglamento de esta Ley en un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto.
+
+SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
