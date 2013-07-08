@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-bienestar-y-80218"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-07"
-last_updated: "2011-03-07"
+last_updated: "2013-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE BIENESTAR Y DESARROLLO SOCIAL, DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE BIENESTAR Y DESARROLLO SOCIAL PUBLICADO EN EL P.O. DE 8 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de marzo de 2011.
 
@@ -524,3 +526,15 @@ JEFE DE GABINETE.
 Lic. Isidoro Armendáriz García,
 
 SECRETARIO DE BIENESTAR Y DESARROLLO SOCIAL.
+
+N. DE A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 8 DE JULIO DE 2013.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento, abroga el Reglamento Interior de la Secretaría de Bienestar y Desarrollo Social publicado en el Periódico Oficial Segunda Sección de Fecha siete de marzo del año dos mil once.
+
+###### ARTICULO SEGUNDO.
+
+El presente Reglamento entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
