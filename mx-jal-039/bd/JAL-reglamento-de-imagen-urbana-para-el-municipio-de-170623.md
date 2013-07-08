@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-imagen-urbana-para-el-municipio-de-170623"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-31"
-last_updated: "2009-12-31"
+last_updated: "2013-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 8 DE JULIO DE 2013.
 
 Reglamento publicado en el Suplemento del Ejemplar 15 de la Gaceta Municipal del Ayuntamiento de Guadalajara, el jueves 31 de diciembre de 2009.
 
@@ -397,6 +397,8 @@ Es obligación de los vecinos de barrios, fraccionamientos, unidades habitaciona
 
 ## TÍTULO DÉCIMO. De las Prohibiciones a los Habitantes
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 8 DE JULIO DE 2013)</small>
+
 ###### Artículo 38.
 
 A fin de mantener, preservar y conservar la imagen urbana del municipio, queda prohibido:
@@ -405,9 +407,13 @@ I. Pintar las fachadas de establecimientos con los colores de las marcas o produ
 
 II. Anunciar en cortinas, paredes y fachadas si ya existe otro anuncio; no se permite, grafismos, logotipos o pintura excesiva en los mismos;
 
-III. Fijar o pintar anuncios de cualquier clase o materia en edificios públicos, monumentos, escuelas, templos, equipamiento urbano público y postes; casas particulares, bardas o cercas, en los sitios que estorben la visibilidad del tránsito o las señales colocadas para la regulación del mismo; en los muros y columnas de los portales;
+> <small>(REFORMADA, G.M. 8 DE JULIO DE 2013)</small>
 
-IV. Fijar propaganda con productos adhesivos o calcomanías que dificulten su retiro y que dañen las carteleras;
+III. Fijar o pintar anuncios o propaganda de cualquier clase o materia en edificios públicos, monumentos, escuelas, templos, equipamiento urbano público y postes; casas particulares, bardas o cercas, en los sitios que estorben la visibilidad del tránsito o las señales colocadas para la regulación del mismo; en los muros y columnas de los portales;
+
+> <small>(REFORMADA, G.M. 8 DE JULIO DE 2013)</small>
+
+IV. Fijar o pintar propaganda con productos adhesivos o calcomanías que dificulten su retiro y que dañen las carteleras;
 
 V. Borrar, cambiar de sitio, estropear o alterar los nombres, letras y números de las calles, plazas, jardines, paseos y demás lugares públicos;
 
@@ -460,3 +466,17 @@ PRESIDENTE MUNICIPAL INTERINO DE GUADALAJARA
 LICENCIADO IGNACIO ALFONSO REJÓN CERVANTES
 
 SECRETARIO GENERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.M. 8 DE JULIO DE 2013.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE GUADALAJARA Y AL REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA.”]
+
+Primero. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Segundo. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+Tercero. Se faculta a los ciudadanos Presidente Municipal, Secretario General y Síndico, todos de este Ayuntamiento, a suscribir la documentación necesaria al cumplimiento del presente.
