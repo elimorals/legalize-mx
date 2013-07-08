@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-del-poder-legislativo-del-61579"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-16"
-last_updated: "2013-02-18"
+last_updated: "2013-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2013.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de junio de 2008.
 
@@ -227,9 +227,9 @@ Corresponde a cada Comisión:
 
 I. Elaborar el programa anual de trabajo y demás actividades de la comisión:
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2013)</small>
 
-II. Aprobar la agenda de sesiones ordinarias de la comisión, señalando día, hora y lugar de su celebración, las cuales serán cuando menos dos veces por mes, tanto en periodos ordinarios, como de receso;
+II. Aprobar la agenda de sesiones ordinarias de la comisión, señalando día, hora y lugar de su celebración, las cuales serán cuando menos una vez al mes, tanto en periodos ordinarios, como de receso;
 
 III. Dictaminar, atender o resolver las iniciativas, proyectos y proposiciones turnadas, dentro de los plazos establecidos;
 
@@ -2056,3 +2056,9 @@ P.O. 18 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE JULIO DE 2013.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir de su aprobación.
