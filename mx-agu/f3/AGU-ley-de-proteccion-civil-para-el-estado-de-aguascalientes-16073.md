@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-civil-para-el-estado-de-aguascalientes-16073"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-25"
-last_updated: "2005-08-08"
+last_updated: "2013-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-LEY DE PROTECCION CIVIL PARA EL ESTADO DE AGUASCALIENTES
+LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. 8 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 25 de julio de 1999.
 
@@ -1550,3 +1552,37 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 8 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley de Protección Civil del Estado de Aguascalientes publicada en el Periódico Oficial del Estado de Aguascalientes de fecha 25 de julio de 1999 y sus reformas.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal de Protección Civil y el Comité Estatal de Emergencias, se deberán instalar en un plazo no mayor de sesenta días a partir del día siguiente de la publicación de esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Programa Estatal de Protección Civil deberá aprobarse en un plazo no mayor de noventa días del día siguiente de la publicación de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Se deberán de expedir los Reglamentos a que hace referencia la presente Ley en un término de noventa días a partir del día siguiente al de la publicación de la misma.
+
+###### ARTÍCULO SEXTO.
+
+Los Municipios dispondrán de un plazo de un año a partir de la expedición de esta Ley para integrar sus Sistemas Municipales de Protección Civil, expedir el Programa y Reglamento Municipal correspondientes, instalar y poner en operación el Consejo y Coordinación Municipal de Protección Civil.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se deberán de modificar las reglas de operación del Fondo de Desastres Naturales para el Estado de Aguascalientes en un plazo no mayor 60 días contados a partir del día siguiente de la publicación.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
