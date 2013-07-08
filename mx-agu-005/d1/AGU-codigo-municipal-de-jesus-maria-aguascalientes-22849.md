@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2012-09-10"
+last_updated: "2013-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2013.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -1020,29 +1020,57 @@ d) Jefe de Departamento de Fondos Federales
 
 1) Coordinador de Catastro
 
-VI.- Secretaría de Seguridad Publica, Tránsito y Vialidad
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE ESTA FRACCIÓN, VÉASE PUNTO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 8 DE JULIO DE 2013.</small>
 
-A) Secretario de Seguridad Pública Tránsito y Vialidad
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2013)</small>
+
+VI.- SECRETARÍA DE SEGURIDAD PÚBLICA Y VIALIDAD
+
+A) Secretario de Seguridad Pública y Vialidad
 
 a) Fiscal
 
+b) Policía Tercero JUA
+
+1) Policía UA
+
+c) Jefe de Bomberos
+
+1) Encargado de Bomberos
+
+1.1) Bomberos
+
+d) Subdirector Administrativo
+
+1) Coordinador de Servicios al personal
+
+1.1) Auxiliar Administrativo
+
+1.2) Secretaria
+
+1.3) Jardinero
+
+1.4) Intendente
+
+2) Auxiliar en control vehicular
+
+2.1) Auxiliar de Grúa
+
+3) Trabajadora Social
+
 B) Director
 
-a) Sub Director de Seguridad Pública
+a) Sub Oficial
 
-b) Sub Director de Planeación Estratégica
+1) Policía Primero
 
-1) Jefe de Departamento de Operatividad Táctica
+1.1) Policía Segundo
 
-2) Jefe de Departamento de Informática y Estadística
+1.1.1) Policía Tercero
 
-c) Sub Director de Tránsito y Vialidad
+b) Policía Tercero JUR
 
-d) Sub Director Administrativo
-
-1) Coordinador de Servicios al Personal
-
-2) Coordinador de Control Vehicular e Inmuebles
+1) Policía UR
 
 VII.- Nivel Municipal
 
@@ -14751,3 +14779,9 @@ P.O. 10 DE SEPTIEMBRE DE 2012.
 Primero.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 Segundo.- Por parte de la Presidencia se girará oficio a la Secretaria de Finanzas para efecto de que a la brevedad posible realice la entrega de los archivos relacionados con licencias reglamentadas a la Secretaria del Honorable Ayuntamiento y Dirección General de Gobierno por relacionarse con la presente reforma.
+
+P.O. 8 DE JULIO DE 2013.
+
+PRIMERO.
+
+SEGUNDO.- El presente acuerdo gozará de efectos retroactivos al 1° de enero de 2013, con excepción de lo siguiente: a partir del 1° de julio de 2013, el Fiscal estará adscrito a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno. "
