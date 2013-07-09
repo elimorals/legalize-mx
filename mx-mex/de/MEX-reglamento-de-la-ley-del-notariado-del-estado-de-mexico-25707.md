@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-del-notariado-del-estado-de-mexico-25707"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-01"
-last_updated: "2002-08-01"
+last_updated: "2013-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MEXICO
 
-REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MEXICO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JULIO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE JULIO DE 2013.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 1o. de agosto de 2002.
 
@@ -49,7 +51,9 @@ Son autoridades para la aplicación de este Reglamento:
 
 I. El Gobernador del Estado;
 
-II. La Secretaría General de Gobierno.
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+II. La Consejería Jurídica.
 
 ###### Artículo 3.
 
@@ -61,11 +65,17 @@ II. Colegio, al Colegio de Notarios del Estado de México;
 
 III. Comité, al Comité Administrador del Fondo de Garantía del Notariado del Estado de México;
 
-IV. Ley, a la Ley del Notariado del Estado de México;
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
 
-V. Reglamento, al Reglamento de la Ley del Notariado del Estado de México;
+IV. Consejería, a la Consejería Jurídica.
 
-VI. Secretaría, a la Secretaría General de Gobierno del Estado de México;
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+V. Ley, a la Ley del Notariado del Estado de México.
+
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+VI. Reglamento, al Reglamento de la Ley del Notariado del Estado de México.
 
 VII. Notario Titular, al profesional del derecho a quien el Gobernador del Estado haya otorgado nombramiento para ejercer las funciones propias del notariado;
 
@@ -95,9 +105,11 @@ III. En caso de notarios asociados, los nombres de éstos y las palabras "Notari
 
 Al interior del local, se colocará en lugar visible, el Arancel de los Notarios.
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 6.
 
-Los notarios por ningún motivo podrán establecer oficinas en locales diversos al registrado ante la Secretaría, para atender al público en trámites relacionados con la notaría a su cargo, en caso contrario, se harán acreedores a la sanción administrativa que corresponda en términos de la Ley.
+Los notarios por ningún motivo podrán establecer oficinas en locales diversos al registrado ante la Consejería, para atender al público en trámites relacionados con la notaría a su cargo, en caso contrario, se harán acreedores a la sanción administrativa que corresponda en términos de la Ley.
 
 ###### Artículo 7.
 
@@ -106,6 +118,8 @@ Para el ejercicio de la función notarial, son días hábiles todos los del año
 ### CAPITULO SEGUNDO. DEL INGRESO A LA FUNCION NOTARIAL
 
 #### SECCION PRIMERA. DE LOS ASPIRANTES A LA FUNCION NOTARIAL
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JULIO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 8.
 
@@ -117,7 +131,9 @@ II. La residencia: con la constancia expedida por la autoridad municipal del dom
 
 III. La autorización para el ejercicio profesional del derecho: con copia certificada del título o de la cédula correspondiente, expedidos por las instituciones legalmente facultadas para ello;
 
-IV. La práctica notarial: con los avisos de inicio y terminación que el notario hubiere hecho a la Secretaría y al Colegio, con los informes trimestrales que rinda el practicante y con las visitas de verificación que realice la Secretaría;
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+IV. La práctica notarial: con los avisos de inicio y terminación que el notario hubiere hecho a la Consejería y al Colegio, con los informes trimestrales que rinda el practicante y con las visitas de verificación que realice la Secretaría.
 
 V. La participación en el curso de formación de aspirantes a notario: con la constancia expedida por el Colegio;
 
@@ -125,19 +141,25 @@ VI. La no sujeción a proceso penal por delito intencional, y la inexistencia de
 
 Los demás requisitos establecidos por la Ley, se acreditarán con la manifestación por escrito, bajo protesta de decir verdad, que el interesado cumple con los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 9.
 
-La Secretaría emitirá convocatoria para la celebración del examen para obtener la constancia de aspirante a notario, la que se publicará en el periódico oficial "Gaceta del Gobierno" y en un diario de mayor circulación en la entidad. En la convocatoria se determinarán las bases, el lugar, día y hora en la que se realizará el examen.
+La Consejería emitirá convocatoria para la celebración del examen para obtener la constancia de aspirante a notario, la que se publicará en el periódico oficial "Gaceta del Gobierno" y en un diario de mayor circulación en la entidad. En la convocatoria se determinarán las bases, el lugar, día y hora en la que se realizará el examen.
 
 Sólo tendrán derecho a presentar examen, aquellos que previamente satisfagan los requisitos exigidos por la Ley.
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 10.
 
-Los interesados en obtener constancia de aspirante a notario, deberán presentar ante la Secretaría su solicitud, acompañada de la documentación a que se refiere el artículo 8 de este Reglamento.
+Los interesados en obtener constancia de aspirante a notario, deberán presentar ante la Consejería su solicitud, acompañada de la documentación a que se refiere el artículo 8 de este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 11.
 
-En el lugar, día y hora señalados en la convocatoria, la Secretaría dará a conocer a los interesados, las solicitudes que fueron aceptadas, así como las que fueron rechazadas por no haber cumplido con los requisitos antes señalados. La Secretaría hará del conocimiento del Colegio, el resultado de la calificación de las solicitudes.
+En el lugar, día y hora señalados en la convocatoria, la Consejería dará a conocer a los interesados, las solicitudes que fueron aceptadas, así como las que fueron rechazadas por no haber cumplido con los requisitos antes señalados. La Consejería hará del conocimiento del Colegio, el resultado de la calificación de las solicitudes.
 
 Sólo los interesados cuyas solicitudes hayan sido aceptadas, tendrán derecho a presentar el examen.
 
@@ -145,9 +167,11 @@ Sólo los interesados cuyas solicitudes hayan sido aceptadas, tendrán derecho a
 
 El Gobernador del Estado otorgará la constancia de aspirante a notario, a quienes hayan aprobado el examen.
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 13.
 
-La evaluación a que se refiere el párrafo segundo del artículo 12 de la Ley, se hará por escrito y tendrá en cuenta el desempeño del profesional en la función notarial, el contenido de su expediente personal que obre en la Secretaría y la opinión del Colegio.
+La evaluación a que se refiere el párrafo segundo del artículo 12 de la Ley, se hará por escrito y tendrá en cuenta el desempeño del profesional en la función notarial, el contenido de su expediente personal que obre en la Consejería y la opinión del Colegio.
 
 #### SECCION SEGUNDA. DEL NOMBRAMIENTO DE NOTARIO
 
@@ -155,7 +179,9 @@ La evaluación a que se refiere el párrafo segundo del artículo 12 de la Ley, 
 
 Para obtener el nombramiento de notario, deberán cumplirse los requisitos señalados en la Ley, los que se comprobarán de la forma siguiente:
 
-I. La constancia de aspirante a notario: mediante su exhibición, o en su caso, con la evaluación aprobatoria practicada por la Secretaría y el Colegio;
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+I. La constancia de aspirante a notario: mediante su exhibición, o en su caso, con la evaluación aprobatoria practicada por la Consejería y el Colegio.
 
 II. Los requisitos establecidos en el artículo 11 de la Ley: con los documentos a que se refiere el artículo 8 de este Reglamento, debiendo actualizarse los relativos a la residencia y a la certificación de antecedentes no penales;
 
@@ -169,13 +195,17 @@ Los notarios provisionales, para obtener el nombramiento de notario titular, ser
 
 En la convocatoria a que se refiere el artículo 15 de la Ley, se determinarán las bases, el lugar, día y hora en la que se realizará el examen de oposición.
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 17.
 
-Los interesados en obtener el nombramiento de notario, deberán presentar ante la Secretaría su solicitud y los documentos a que se refieren las fracciones I y II del artículo 14 de este ordenamiento.
+Los interesados en obtener el nombramiento de notario, deberán presentar ante la Consejería su solicitud y los documentos a que se refieren las fracciones I y II del artículo 14 de este ordenamiento.
+
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 18.
 
-En el lugar, día y hora señalados en la convocatoria, la Secretaría dará a conocer a los interesados, las solicitudes que fueron aceptadas, así como las que fueron rechazadas por no haber cumplido con los requisitos antes señalados. La Secretaría hará del conocimiento del Colegio, el resultado de la calificación de las solicitudes.
+En el lugar, día y hora señalados en la convocatoria, la Consejería dará a conocer a los interesados, las solicitudes que fueron aceptadas, así como las que fueron rechazadas por no haber cumplido con los requisitos antes señalados. La Consejería hará del conocimiento del Colegio, el resultado de la calificación de las solicitudes.
 
 ###### Artículo 19.
 
@@ -191,9 +221,11 @@ Cuando en el examen de oposición para obtener el nombramiento de notario, dos o
 
 #### SECCION TERCERA. DEL JURADO CALIFICADOR
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 22.
 
-El jurado calificador de los exámenes para obtener la constancia de aspirante a notario y de oposición para obtener el nombramiento de notario, estará integrado por tres sinodales propietarios, que deberán ser licenciados en derecho, contando con sus respectivos suplentes. Fungirá como presidente del jurado calificador, un representante que designe la Secretaría; como secretario, un representante del Colegio; y como vocal, un notario catedrático titular de las materias vinculadas con el ejercicio de la función notarial.
+El jurado calificador de los exámenes para obtener la constancia de aspirante a notario y de oposición para obtener el nombramiento de notario, estará integrado por tres sinodales propietarios, que deberán ser licenciados en derecho, contando con sus respectivos suplentes. Fungirá como presidente del jurado calificador, un representante que designe la Consejería; como secretario, un representante del Colegio; y como vocal, un notario catedrático titular de las materias vinculadas con el ejercicio de la función notarial.
 
 ###### Artículo 23.
 
@@ -211,7 +243,9 @@ En el examen para obtener la constancia de aspirante a notario, la calificación
 
 El examen para obtener la constancia de aspirante a notario constará de las partes siguientes:
 
-I. Una práctica, que consistirá en la redacción de un instrumento notarial de entre seis temas propuestos, tres por la Secretaría y tres por el Colegio, que contenidos en sobres cerrados, sellados y firmados por el presidente y el secretario del Consejo Directivo del Colegio y por el representante que designe la Secretaría, quedarán en depósito en dicha dependencia un día antes del examen.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE JULIO DE 2013)</small>
+
+I. Una práctica, que consistirá en la redacción de un instrumento notarial de entre seis temas propuestos, tres por la Consejería y tres por el Colegio, que contenidos en sobres cerrados, sellados y firmados por el presidente y el secretario del Consejo Directivo del Colegio y por el representante que designe la Consejería, quedarán en depósito en dicha dependencia un día antes del examen.
 
 El sobre que contenga el tema a desarrollar será elegido al azar por uno de los sustentantes, quien será designado por la mayoría de los otros. Una vez seleccionado el sobre, el secretario del jurado constatará que se encuentra debidamente cerrado y que no presenta signos de alteración, procediendo a abrirlo y dará lectura del tema en voz alta.
 
@@ -225,7 +259,9 @@ II. Una teórica, que será oral, con la presencia únicamente del sustentante y
 
 El examen de oposición para obtener el nombramiento de notario constará de las partes siguientes:
 
-I. Una práctica, que consistirá en la redacción de un instrumento notarial de entre diez temas propuestos, cinco por la Secretaría y cinco por el Colegio, contenidos en sobres cerrados, sellados y firmados por el presidente y el secretario del Consejo Directivo del Colegio y por el representante que designe la Secretaría, quedando en depósito en dicha dependencia un día antes del examen.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE JULIO DE 2013)</small>
+
+I. Una práctica, que consistirá en la redacción de un instrumento notarial de entre diez temas propuestos, cinco por la Consejería y cinco por el Colegio, contenidos en sobres cerrados, sellados y firmados por el presidente y el secretario del Consejo Directivo del Colegio y por el representante que designe la Consejería, quedando en depósito en dicha dependencia un día antes del examen.
 
 El sobre que contenga el tema a desarrollar, será elegido al azar por uno de los sustentantes, quien será designado por la mayoría de los otros. Una vez seleccionado el sobre, el secretario del jurado constatará que se encuentra debidamente cerrado y que no presenta signos de alteración, procediendo a abrirlo y dará lectura del tema en voz alta.
 
@@ -245,7 +281,9 @@ II. Si alguno de los sustentantes no concurre el día y hora señalados para la 
 
 III. Los sustentantes presentarán la parte práctica simultáneamente y la teórica por orden alfabético de su primer apellido;
 
-IV. El representante de la Secretaría resolverá los incidentes que se presenten en la realización de los exámenes;
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+IV. El representante de la Consejería resolverá los incidentes que se presenten en la realización de los exámenes.
 
 V. Al finalizar la parte teórica, sin la presencia del sustentante, cada uno de los integrantes del jurado emitirá por escrito su calificación en escala de cero a cien, la que se sumará y se dividirá entre tres para obtener el resultado de esta prueba.
 
@@ -253,15 +291,19 @@ Para emitir la calificación, el jurado calificador tomará en cuenta además de
 
 VI. Dentro de los cinco días hábiles siguientes a la celebración de la parte práctica, el jurado calificador, procederá a la evaluación de esta prueba, para lo cual abrirá los sobres y tomando en cuenta el fondo y la forma de los instrumentos redactados por los sustentantes y el cálculo de las contribuciones, asignará la puntuación que corresponda en escala de cero a cien, misma que sumada a la obtenida en la parte teórica, se dividirá entre dos, para determinar la puntuación definitiva y el secretario del jurado calificador levantará acta en la que consten los resultados obtenidos por cada uno de los sustentantes, la que deberá ser firmada por todos los integrantes del jurado;
 
-VII. La Secretaría dará a conocer personalmente y por escrito a los sustentantes el resultado de los exámenes, dentro de los cinco días hábiles siguientes a la calificación;
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+VII. La Consejería dará a conocer personalmente y por escrito a los sustentantes el resultado de los exámenes, dentro de los cinco días hábiles siguientes a la calificación.
 
 VIII. Los sustentantes que no obtengan la calificación de pase, quedarán impedidos durante un año calendario para presentarse a otro examen;
 
 IX. Contra el resultado de la evaluación emitida por el jurado calificador no procederá impugnación alguna.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 28.
 
-En los casos en que ninguno de los sustentantes haya obtenido la calificación mínima aprobatoria, la Secretaría declarará desierto el examen.
+En los casos en que ninguno de los sustentantes haya obtenido la calificación mínima aprobatoria, la Consejería declarará desierto el examen.
 
 Lo dispuesto en el párrafo anterior, también será aplicable para el caso de que ningún sustentante se presente al examen convocado.
 
@@ -269,9 +311,11 @@ Lo dispuesto en el párrafo anterior, también será aplicable para el caso de q
 
 #### SECCION PRIMERA. DE LOS DERECHOS Y OBLIGACIONES
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 29.
 
-Para el ejercicio del derecho de reubicación previsto en el artículo 19 fracción V de la Ley, los notarios interesados deberán presentar su solicitud al Gobernador del Estado a través de la Secretaría, dentro de un plazo de diez días hábiles a partir de la fecha en que ésta publique en el periódico oficial Gaceta del Gobierno el acuerdo de una notaría vacante o de nueva creación. La Secretaría solicitará la opinión del Colegio.
+Para el ejercicio del derecho de reubicación previsto en el artículo 19 fracción V de la Ley, los notarios interesados deberán presentar su solicitud al Gobernador del Estado a través de la Consejería, dentro de un plazo de diez días hábiles a partir de la fecha en que ésta publique en el periódico oficial "Gaceta del Gobierno" el acuerdo de una notaría vacante o de nueva creación. La Consejería solicitará la opinión del Colegio.
 
 ###### Artículo 30.
 
@@ -281,9 +325,11 @@ De ser acordada la reubicación, se procederá a la clausura extraordinaria del 
 
 El Gobernador del Estado podrá conceder a los notarios licencia por el tiempo que sea necesario, cuando sean requeridos para el desempeño de una función pública.
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 32.
 
-En el supuesto de que no se celebre convenio en los términos establecidos por el artículo 23 de la Ley, llegado el caso de suplir algún notario, la Secretaría designará al suplente, mediante acuerdo que se publique en el periódico oficial "Gaceta del Gobierno".
+En el supuesto de que no se celebre convenio en los términos establecidos por el artículo 23 de la Ley, llegado el caso de suplir algún notario, la Consejería designará al suplente, mediante acuerdo que se publique en el periódico oficial "Gaceta del Gobierno".
 
 ###### Artículo 33.
 
@@ -303,29 +349,39 @@ Para el caso de notarios asociados, el Colegio los proveerá de los folios, cont
 
 Para efectos del artículo 42 de la ley, los peritos designados por la Procuraduría General de Justicia y los nombrados por el notario, dispondrán de un plazo máximo de quince días hábiles para rendir los dictámenes correspondientes.
 
-En caso de que los dictámenes practicados por los peritos mencionados en el párrafo anterior discordaren en alguno o algunos de los puntos esenciales sobre los que debe versar el dictamen pericial, la Secretaría solicitará a la Facultad de Medicina de la Universidad Autónoma del Estado de México, la designación de un perito para que funja como tercero en discordia, el cual emitirá su dictamen en el término de diez días hábiles posteriores a su designación.
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
+En caso de que los dictámenes practicados por los peritos mencionados en el párrafo anterior discordaren en alguno o algunos de los puntos esenciales sobre los que debe versar el dictamen pericial, la Consejería solicitará a la Facultad de Medicina de la Universidad Autónoma del Estado de México, la designación de un perito para que funja como tercero en discordia, el cual emitirá su dictamen en el término de diez días hábiles posteriores a su designación.
+
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 37.
 
-Tratándose de la terminación del nombramiento de notario, la persona con quien se tenga celebrado el convenio de suplencia, tramitará hasta por un plazo de treinta días hábiles los asuntos pendientes, concluido el término señalado, informará por escrito a la Secretaría, quien procederá conforme a lo dispuesto en el artículo 76 de la Ley.
+Tratándose de la terminación del nombramiento de notario, la persona con quien se tenga celebrado el convenio de suplencia, tramitará hasta por un plazo de treinta días hábiles los asuntos pendientes, concluido el término señalado, informará por escrito a la Consejería, quien procederá conforme a lo dispuesto en el artículo 76 de la Ley.
 
 ## TITULO SEGUNDO. DEL SELLO DE AUTORIZAR Y DEL PROTOCOLO
 
 ### CAPITULO PRIMERO. DEL SELLO DE AUTORIZAR
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 38.
 
-Para los efectos de lo dispuesto en el primer párrafo del artículo 48 de la Ley, el nuevo sello del que se provea el notario deberá llevar un signo que lo distinga del anterior; obtenido el nuevo sello, lo informará de inmediato a la Secretaría, al Archivo y al Colegio, mediante escrito en el que conste la impresión del mismo para su registro.
+Para los efectos de lo dispuesto en el primer párrafo del artículo 48 de la Ley, el nuevo sello del que se provea el notario deberá llevar un signo que lo distinga del anterior; obtenido el nuevo sello, lo informará de inmediato a la Consejería, al Archivo y al Colegio, mediante escrito en el que conste la impresión del mismo para su registro.
+
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 39.
 
-Los notarios utilizarán un sólo sello en sus actuaciones, que será el registrado ante la Secretaría.
+Los notarios utilizarán un sólo sello en sus actuaciones, que será el registrado ante la Consejería.
 
 ### CAPITULO SEGUNDO. DEL PROTOCOLO
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 40.
 
-Transcurrido el plazo a que se refiere el primer párrafo del artículo 51 de la Ley, el Archivo requerirá por escrito a los notarios la entrega del protocolo. Cuando los notarios no cumplan con dicha entrega, el titular del Archivo dará aviso a la Secretaría para que proceda en términos de ley.
+Transcurrido el plazo a que se refiere el primer párrafo del artículo 51 de la Ley, el Archivo requerirá por escrito a los notarios la entrega del protocolo. Cuando los notarios no cumplan con dicha entrega, el titular del Archivo dará aviso a la Consejería para que proceda en términos de ley.
 
 ###### Artículo 41.
 
@@ -335,23 +391,31 @@ Para los efectos de lo señalado en el artículo 52 fracción I de la Ley, aún 
 
 La solicitud que hagan los notarios al Colegio para la impresión y autorización de los folios, se hará en los formatos aprobados por éste.
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 43.
 
-El Colegio tramitará ante la Secretaría la autorización de los folios y llevará un registro de las solicitudes de impresión y autorización por cada notaría.
+El Colegio tramitará ante la Consejería la autorización de los folios y llevará un registro de las solicitudes de impresión y autorización por cada notaría.
+
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 44.
 
-La Secretaría procederá a autorizar los folios cuando cumplan con los requisitos legales y la numeración sea correcta. Cada folio autorizado llevará el escudo del Estado de México y el logotipo del Colegio, los que serán visibles al utilizar luz negra.
+La Consejería procederá a autorizar los folios cuando cumplan con los requisitos legales y la numeración sea correcta. Cada folio autorizado llevará el escudo del Estado de México y el logotipo del Colegio, los que serán visibles al utilizar luz negra.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 45.
 
-Los folios autorizados serán entregados en las oficinas del Colegio en horas hábiles dentro de un plazo que no excederá de cinco días hábiles, contados a partir de la fecha en que se acredite ante la Secretaría el pago de los derechos. Al recibir los folios, el notario firmará el acuse de recibo anotando la fecha, hora de entrega y conformidad de recibirlos completos.
+Los folios autorizados serán entregados en las oficinas del Colegio en horas hábiles dentro de un plazo que no excederá de cinco días hábiles, contados a partir de la fecha en que se acredite ante la Consejería el pago de los derechos. Al recibir los folios, el notario firmará el acuse de recibo anotando la fecha, hora de entrega y conformidad de recibirlos completos.
 
 Para efectos de este artículo, se entienden por horas hábiles las comprendidas entre las nueve y las dieciocho horas.
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 46.
 
-El notario dará aviso por escrito a la Secretaría con copia al Colegio del número de volúmenes que en términos de la Ley usará simultáneamente, podrá utilizarlos de uno en uno, asentando los instrumentos en forma progresiva a partir del primer volumen hasta terminarlo y así sucesivamente, con los volúmenes que optó por usar.
+El notario dará aviso por escrito a la Consejería con copia al Colegio del número de volúmenes que en términos de la Ley usará simultáneamente, podrá utilizarlos de uno en uno, asentando los instrumentos en forma progresiva a partir del primer volumen hasta terminarlo y así sucesivamente, con los volúmenes que optó por usar.
 
 #### SECCION PRIMERA. DEL PROTOCOLO ORDINARIO, DEL ESPECIAL Y DEL ESPECIAL FEDERAL
 
@@ -379,7 +443,9 @@ El libro de cotejos y su respectivo apéndice e índice se regirán por lo sigui
 
 I. El libro de cotejos se formará por el conjunto de ciento cincuenta folios separados, autorizados, numerados y encuadernables, los cuales llevarán el sello del notario en la parte superior izquierda del anverso;
 
-II. Al iniciar cada libro, en una hoja sin numerar, se asentará la autorización de la Secretaría, quien lo comunicará al Archivo para que éste lleve el control correspondiente;
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+II. Al iniciar cada libro, en una hoja sin numerar, se asentará la autorización de la Consejería, quien lo comunicará al Archivo para que éste lleve el control correspondiente.
 
 III. El notario, y en su caso su asociado, asentará en una hoja en blanco del tamaño de los folios, la razón de apertura en la que expresará su nombre, el número de la notaría a su cargo, la mención de ser el libro de cotejos con indicación del número que le corresponde, la fecha, su sello y firma;
 
@@ -411,15 +477,21 @@ En el caso de clausura extraordinaria, se asentará razón con los requisitos qu
 
 La entrega-recepción de la notaría se hará mediante acta en la que conste que en los volúmenes en uso del protocolo ordinario, especial, en su caso del especial federal y libro de cotejos, se asentó la razón de clausura extraordinaria; el inventario del protocolo que exista en la notaría; los expedientes judiciales que obren en poder del notario; los valores depositados y en general, la documentación que obre en la notaría.
 
-El acta que se levante por la clausura extraordinaria y/o de entrega-recepción de una notaría será firmada por los interesados, así como por los representantes de la Secretaría y del Colegio, a quienes se les entregará un tanto de la misma.
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
+El acta que se levante por la clausura extraordinaria y/o de entrega-recepción de una notaría será firmada por los interesados, así como por los representantes de la Consejería y del Colegio, a quienes se les entregará un tanto de la misma.
+
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 55.
 
-En caso de muerte del notario, los bienes, documentos y valores que hayan sido de su propiedad, previo inventario, quedarán bajo resguardo y custodia de su familia. La documentación que corresponda a la notaría será remitida al Archivo por la Secretaría, en un término no mayor al señalado en el artículo 37 de este ordenamiento.
+En caso de muerte del notario, los bienes, documentos y valores que hayan sido de su propiedad, previo inventario, quedarán bajo resguardo y custodia de su familia. La documentación que corresponda a la notaría será remitida al Archivo por la Consejería, en un término no mayor al señalado en el artículo 37 de este ordenamiento.
+
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 56.
 
-Si la Secretaría tiene conocimiento de que existen impuestos y derechos no pagados, dará aviso al Colegio, quien tomará las medidas pertinentes para hacer efectiva la garantía conforme al procedimiento previsto en este ordenamiento.
+Si la Consejería tiene conocimiento de que existen impuestos y derechos no pagados, dará aviso al Colegio, quien tomará las medidas pertinentes para hacer efectiva la garantía conforme al procedimiento previsto en este ordenamiento.
 
 ## TITULO TERCERO. DE LOS DOCUMENTOS NOTARIALES
 
@@ -603,19 +675,27 @@ IV. Concluida la recepción, los documentos se enviarán para su guarda y custod
 
 Cuando el notario no cumpla con la obligación de entregar los protocolos, apéndices e índices, el titular del Archivo, mediante oficio le solicitará su entrega dentro de un plazo que no excederá de treinta días hábiles.
 
-Concluido el plazo anterior, si no se entrega la documentación, el titular del Archivo ordenará la recuperación a costa del notario, y lo hará del conocimiento de la Secretaría para que se apliquen las sanciones correspondientes.
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
+Concluido el plazo anterior, si no se entrega la documentación, el titular del Archivo ordenará la recuperación a costa del notario, y lo hará del conocimiento de la Consejería para que se apliquen las sanciones correspondientes.
+
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 83.
 
-Cuando en una escritura se determine que se omitió el pago de impuestos y derechos, el titular del Archivo requerirá al notario la cantidad correspondiente, así como los recargos que resulten, siempre y cuando los interesados acrediten haber entregado con oportunidad su importe, lo que comunicará a la Secretaría, a efecto de que aplique la sanción a que se haga acreedor el notario. Si el notario falleció, lo hará del conocimiento del Colegio para que en su caso se proceda a hacer efectiva la garantía.
+Cuando en una escritura se determine que se omitió el pago de impuestos y derechos, el titular del Archivo requerirá al notario la cantidad correspondiente, así como los recargos que resulten, siempre y cuando los interesados acrediten haber entregado con oportunidad su importe, lo que comunicará a la Consejería, a efecto de que aplique la sanción a que se haga acreedor el notario. Si el notario falleció, lo hará del conocimiento del Colegio para que en su caso se proceda a hacer efectiva la garantía.
+
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 84.
 
-Los notarios deberán entregar por triplicado, los avisos de testamento en los formatos autorizados por la Secretaría.
+Los notarios deberán entregar por triplicado, los avisos de testamento en los formatos autorizados por la Consejería.
+
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 85.
 
-La Secretaría podrá autorizar la entrega del aviso de testamento, a través de medios electrónicos de comunicación.
+La Consejería podrá autorizar la entrega del aviso de testamento, a través de medios electrónicos de comunicación.
 
 ### CAPITULO SEGUNDO. DEL COLEGIO DE NOTARIOS
 
@@ -629,7 +709,9 @@ II. Coordinar a los notarios para que intervengan en los programas públicos de 
 
 III. Organizar a los notarios para la prestación de servicios contenidos en la legislación electoral;
 
-IV. Opinar ante la Secretaría, en los casos de creación de notarías y reubicación de los notarios;
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+IV. Opinar ante la Consejería, en los casos de creación de notarías y reubicación de los notarios.
 
 V. Realizar cursos de capacitación continua, congresos y conferencias tendientes a la orientación y superación de los notarios y del personal que labore en las notarías;
 
@@ -639,11 +721,15 @@ VII. Evaluar la actuación de los notarios interinos y provisionales, para los e
 
 VIII. Concurrir al acto de toma de protesta de los notarios;
 
-IX. Coordinar con la Secretaría las guardias de sábados, domingos y días festivos, para atender las eventualidades que requieran servicio notarial;
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+IX. Coordinar con la Consejería las guardias de sábados, domingos y días festivos, para atender las eventualidades que requieran servicio notarial.
 
 X. Proveer a los notarios de los folios autorizados;
 
-XI. Intervenir conjuntamente con la Secretaría, en los casos de clausura extraordinaria del protocolo de una notaría;
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+XI. Intervenir conjuntamente con la Consejería, en los casos de clausura extraordinaria del protocolo de una notaría.
 
 XII. Emitir opinión en los procedimientos seguidos por el Ejecutivo, tendientes a imponer sanciones administrativas que impliquen la suspensión o revocación del nombramiento de notario;
 
@@ -659,7 +745,9 @@ XVII. Coordinar a los notarios que se desempeñarán como árbitros o mediadores
 
 XVIII. Impartir a sus colegiados los cursos de formación de árbitros y mediadores;
 
-XIX. Nombrar representante para asistir a las inspecciones especiales que practique la Secretaría y emitir opinión, la que podrá consignarse en el acta de inspección o se formulará a través del Consejo del Colegio;
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+XIX. Nombrar representante para asistir a las inspecciones especiales que practique la Consejería y emitir opinión, la que podrá consignarse en el acta de inspección o se formulará a través del Consejo del Colegio.
 
 XX. Integrar comisiones especiales para el estudio de los asuntos que así lo requieran;
 
@@ -703,13 +791,17 @@ El Colegio llevará expedientes de los notarios que contendrán los documentos r
 
 El Colegio otorgará a sus integrantes reconocimientos por su destacada trayectoria en el ejercicio de la función notarial.
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 94.
 
-El Colegio hará del conocimiento de la Secretaría las quejas que reciba en contra de los notarios, que impliquen contravenciones graves a la Ley o a su Reglamento.
+El Colegio hará del conocimiento de la Consejería las quejas que reciba en contra de los notarios, que impliquen contravenciones graves a la Ley o a su Reglamento.
+
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 95.
 
-El Colegio deberá informar a la Secretaría sobre la actuación de personas no autorizadas para el ejercicio de la función notarial y de notarios de otras entidades federativas que la ejerzan en el territorio del Estado, para efectos de lo dispuesto en los artículos 159 y 160 de la Ley.
+El Colegio deberá informar a la Consejería sobre la actuación de personas no autorizadas para el ejercicio de la función notarial y de notarios de otras entidades federativas que la ejerzan en el territorio del Estado, para efectos de lo dispuesto en los artículos 159 y 160 de la Ley.
 
 ###### Artículo 96.
 
@@ -737,7 +829,9 @@ I. Analizar la actuación de los notarios que se presuma transgreden las obligac
 
 II. Opinar sobre los asuntos que les sean encomendados por el Consejo Directivo del Colegio;
 
-III. Actuar como árbitro en la solución de las quejas o reclamaciones presentadas al Colegio y a la Secretaría por los usuarios del servicio notarial, en contra de los notarios en ejercicio;
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+III. Actuar como árbitro en la solución de las quejas o reclamaciones presentadas al Colegio y a la Consejería por los usuarios del servicio notarial, en contra de los notarios en ejercicio.
 
 IV. Elaborar el Código de Ética Notarial;
 
@@ -759,23 +853,29 @@ Para que puedan celebrarse dichas sesiones, se requerirá la asistencia de la ma
 
 Para la solución de los asuntos que se sometan a consideración de este Comité, se requerirá la mayoría de votos de los miembros presentes.
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 104.
 
-Para el eficaz cumplimiento de las atribuciones que tiene encomendadas el Comité de Preservación de los Valores Éticos y Jurídicos, estará facultado para consultar los archivos y documentos de toda clase que obren en el Colegio y en las notarías, pudiendo solicitar a la Secretaría la información complementaria que considere conveniente.
+Para el eficaz cumplimiento de las atribuciones que tiene encomendadas el Comité de Preservación de los Valores Éticos y Jurídicos, estará facultado para consultar los archivos y documentos de toda clase que obren en el Colegio y en las notarías, pudiendo solicitar a la Consejería la información complementaria que considere conveniente.
 
 ###### Artículo 105.
 
 Para la debida integración de la información que requiera el Comité de Preservación de los Valores Éticos y Jurídicos, a fin de opinar sobre las quejas o reclamaciones que genere la actuación de un notario, podrá citarlo las veces que sea necesario, pudiendo presentar en las mismas toda clase de pruebas para justificar su actuación.
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 106.
 
-El Comité de Preservación de los Valores Éticos y Jurídicos, presentará al Consejo Directivo del Colegio y a la Secretaría las opiniones que formule respecto a la actuación de los notarios, que servirán de base para la opinión que emita al Consejo Directivo del Colegio y para la resolución que dicte la Secretaría.
+El Comité de Preservación de los Valores Éticos y Jurídicos, presentará al Consejo Directivo del Colegio y a la Consejería las opiniones que formule respecto a la actuación de los notarios, que servirán de base para la opinión que emita al Consejo Directivo del Colegio y para la resolución que dicte la Consejería.
 
 ###### Artículo 107.
 
 El Comité de Preservación de los Valores Éticos y Jurídicos, estará facultado para aplicar apercibimientos a los notarios que hayan infringido las disposiciones legales que regulan su ejercicio y para formular recomendaciones tendientes a corregir las faltas u omisiones cometidas.
 
-En el caso de que los notarios no cumplan con las recomendaciones formuladas por dicho Comité, éste solicitará al Consejo Directivo del Colegio lo comunique a la Secretaría, para la aplicación de las sanciones que resulten procedentes.
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
+En el caso de que los notarios no cumplan con las recomendaciones formuladas por dicho Comité, éste solicitará al Consejo Directivo del Colegio lo comunique a la Consejería, para la aplicación de las sanciones que resulten procedentes.
 
 ### CAPITULO TERCERO. DEL FONDO DE GARANTIA DEL NOTARIADO
 
@@ -847,9 +947,11 @@ III. Que hayan obtenido del Comité la constancia de no adeudo por los conceptos
 
 ### CAPITULO PRIMERO. DE LA SUPERVISION NOTARIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 118.
 
-La Secretaría ejercerá el control de la actividad notarial a través de:
+La Consejería ejercerá el control de la actividad notarial a través de:
 
 I. Registros:
 
@@ -917,59 +1019,81 @@ III. Cerciorarse que del instrumento o instrumentos motivo de la visita, se encu
 
 IV. Verificar que el instrumento o instrumentos objeto de la visita, se hayan registrado por el notario, en los casos a que se refiere la fracción VII del artículo 61 de este ordenamiento.
 
-###### Artículo 122.
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
-La Secretaría notificará por escrito al Colegio el día y hora en que habrá de practicar visita especial en alguna notaría, para los efectos de la fracción XII del artículo 136 de la Ley.
+###### Artículo 122
+
+. La Consejería notificará por escrito al Colegio el día y hora en que habrá de practicar visita especial en alguna notaría, para los efectos de la fracción XII del artículo 136 de la Ley.
+
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 123.
 
-Tratándose de visitas especiales, el acta se levantará por triplicado, un ejemplar se entregará al notario o a la persona con quien se entienda la diligencia, otra la conservará la Secretaría y la tercera se entregará al notario que asista por parte del Colegio.
+Tratándose de visitas especiales, el acta se levantará por triplicado, un ejemplar se entregará al notario o a la persona con quien se entienda la diligencia, otra la conservará la Consejería y la tercera se entregará al notario que asista por parte del Colegio.
 
 ###### Artículo 124.
 
 Si el instrumento motivo de la visita especial, se encuentra en el Archivo, ésta se realizará en esa oficina, para cuyo efecto se notificará al notario para que esté presente en ese lugar, conjuntamente con el representante del Colegio.
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 125.
 
-El inspector en un plazo no mayor de veinticuatro horas posteriores a la visita ordinaria o especial, entregará el acta y sus anexos a la Secretaría, la que procederá conforme a sus atribuciones.
+El inspector en un plazo no mayor de veinticuatro horas posteriores a la visita ordinaria o especial, entregará el acta y sus anexos a la Consejería, la que procederá conforme a sus atribuciones.
+
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 126.
 
-Independientemente de los resultados de una visita, la Secretaría tendrá facultades para obtener pruebas y recabar informes de otras dependencias que le permitan determinar la responsabilidad del notario.
+Independientemente de los resultados de una visita, la Consejería tendrá facultades para obtener pruebas y recabar informes de otras dependencias que le permitan determinar la responsabilidad del notario.
 
 ### CAPITULO SEGUNDO. DE LA RESPONSABILIDAD DEL NOTARIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 127.
 
-La Secretaría resolverá las quejas que los interesados presenten en contra de los notarios, de acuerdo al procedimiento siguiente:
+La Consejería resolverá las quejas que los interesados presenten en contra de los notarios, de acuerdo al procedimiento siguiente:
 
 I. Toda queja deberá ser presentada mediante escrito por quien acredite haber intervenido en un acto notarial; contendrá el nombre del quejoso y en su caso de quien promueva en su nombre, domicilio para recibir notificaciones en el Estado, nombre y número del notario contra quien se formule, los planteamientos que se hagan y las disposiciones legales en que se sustente de ser posible, y los documentos que ofrezca como prueba.
 
 Cuando el escrito inicial carezca de algún requisito formal o no se adjunten los documentos respectivos, se requerirá al quejoso para que en un plazo de tres días hábiles, corrija o complete el escrito o exhiba los documentos ofrecidos, apercibiéndole de que en caso de no hacerlo, se tendrá por no presentado el escrito o las pruebas.
 
-La Secretaría determinará la procedencia de la misma admitiéndola o desechándola según sea el caso;
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
-II. Una vez admitida la queja, la Secretaría dentro del término de cinco días hábiles notificará al notario, a efecto de que éste, dentro de igual término informe y aporte las pruebas que a su juicio estime convenientes;
+La Consejería determinará la procedencia de la misma admitiéndola o desechándola según sea el caso.
 
-III. La Secretaría en el término de diez días hábiles a partir de la fecha en que reciba el informe del notario, determinará si el asunto requiere la práctica de inspección especial, la que se realizará en el término de cinco días hábiles como máximo, siguiendo el procedimiento señalado por la Ley y este ordenamiento;
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
 
-IV. La resolución que dicte la Secretaría deberá comprender el nombre del quejoso; la relación de los hechos, fundamentos y motivos que la sustenten; la opinión del Consejo Directivo del Colegio, en su caso; los puntos decisorios y, el nombre, cargo y firma autógrafa de la autoridad competente que la emite.
+II. Una vez admitida la queja, la Consejería dentro del término de cinco días hábiles notificará al notario, a efecto de que éste, dentro de igual término informe y aporte las pruebas que a su juicio estime convenientes.
+
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+III. La Consejería en el término de diez días hábiles a partir de la fecha en que reciba el informe del notario, determinará si el asunto requiere la práctica de inspección especial, la que se realizará en el término de cinco días hábiles como máximo, siguiendo el procedimiento señalado por la Ley y este ordenamiento.
+
+> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+
+IV. La resolución que dicte la Consejería deberá comprender el nombre del quejoso, la relación de los hechos, fundamentos y motivos que la sustenten, la opinión del Consejo Directivo del Colegio, en su caso, los puntos decisorios y, el nombre, cargo y firma autógrafa de la autoridad competente que la emite.
 
 ###### Artículo 128.
 
 Tratándose de la aplicación de las sanciones previstas en la Ley, se otorgará previamente a los notarios la garantía de audiencia conforme a las disposiciones establecidas en el Código de Procedimientos Administrativos del Estado de México.
 
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
+
 ###### Artículo 129.
 
-Cuando se trate de la posible aplicación de sanciones consistentes en suspensión o revocación del nombramiento de notario, la Secretaría dará vista al Colegio con la citación al procedimiento de garantía de audiencia, para que éste, dentro de los cinco días hábiles siguientes a la vista, emita su opinión.
+Cuando se trate de la posible aplicación de sanciones consistentes en suspensión o revocación del nombramiento de notario, la Consejería dará vista al Colegio con la citación al procedimiento de garantía de audiencia, para que éste, dentro de los cinco días hábiles siguientes a la vista, emita su opinión.
+
+> <small>(REFORMADO, G.G. 9 DE JULIO DE 2013)</small>
 
 ###### Artículo 130.
 
-Toda persona que tenga conocimiento de que algún notario establezca oficinas para prestar servicios notariales fuera de su residencia, podrá formular denuncia ante la Secretaría.
+Toda persona que tenga conocimiento de que algún notario establezca oficinas para prestar servicios notariales fuera de su residencia, podrá formular denuncia ante la Consejería.
 
-La Secretaría procederá a verificar los hechos de la denuncia y, en su caso, a aplicar las sanciones correspondientes.
+La Consejería procederá a verificar los hechos de la denuncia y, en su caso, a aplicar las sanciones correspondientes.
 
-La Secretaría no dará curso a las denuncias anónimas.
+La Consejería no dará curso a las denuncias anónimas.
 
 T R A N S I T O R I O S
 
@@ -996,3 +1120,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 9 DE JULIO DE 2013.
+
+PRIMERO. Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las establecidas en el presente Acuerdo.
