@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-del-trabajo-y-24988"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-28"
-last_updated: "2013-02-23"
+last_updated: "2013-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 9 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 28 de mayo de 2002.
 
@@ -717,3 +719,9 @@ SEGUNDO. El cambio de nomenclatura del Servicio Estatal de Empleo a Servicio Nac
 P.O. 23 DE FEBRERO DE 2013.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE JULIO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría del Trabajo y Previsión Social, y se deroga el artículo Tercero Transitorio del acuerdo de dos mil dos mediante el cual se expidió el Reglamento Interior de la Secretaría del Trabajo y Previsión Social del Estado de Jalisco.
