@@ -4,7 +4,7 @@ identifier: "VER-ley-de-educacion-para-el-estado-de-veracruz-de-ignacio-de-6566"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-21"
-last_updated: "2013-07-02"
+last_updated: "2013-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 21 de diciembre de 1993.
 
@@ -109,9 +109,11 @@ VII. Crear conciencia para preservar la integridad de la familia;
 
 VIII. Promover el conocimiento de los ecosistemas existentes en el territorio del Estado y destacar la importancia de su vinculación con los individuos, en un sentido de mutua pertenencia entre éstos y el medio ambiente;
 
-> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2013)</small>
 
-IX. Crear conciencia de la necesidad de mejorar el ambiente, preservar el equilibrio ecológico, hacer un aprovechamiento racional de los recursos naturales y promover la cultura de la reforestación, mediante cursos, foros, programas y talleres de educación ambiental en los planteles educativos;
+IX. Crear conciencia de la necesidad de mejorar el ambiente, preservar el equilibrio ecológico, hacer un aprovechamiento racional de los recursos naturales y promover la cultura de la reforestación, mediante cursos, foros, programas y talleres de educación ambiental en los planteles educativos.
+
+De igual modo, inculcar conceptos y principios fundamentales para la prevención del cambio climático, así como elementos básicos de protección civil, adaptación y mitigación ante los efectos adversos que representan el cambio climático y otros fenómenos naturales.
 
 X. Fortalecer el aprecio por la historia de la entidad y de la región;
 
@@ -1128,3 +1130,9 @@ G.O. 2 DE JULIO DE 2013.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE JULIO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Las autoridades educativas deberán realizar las modificaciones necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, a más tardar seis meses después de la entrada en vigor del mismo. Para tales efectos, requerirán el apoyo del Consejo Estatal para la Mitigación y Adaptación ante los Efectos del Cambio Climático.
