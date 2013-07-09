@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pronosticos-para-la-asistencia-publica-522
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-11-22"
-last_updated: "2009-09-21"
+last_updated: "2013-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52262&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-10-17"
 ---
 # ESTATUTO ORGANICO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ESTATUTO ORGANICO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
+ESTATUTO ORGÁNICO DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE SEPTIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA, PUBLICADO EN EL D.O.F. DE 9 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de noviembre de 2006.
 
@@ -431,7 +433,7 @@ CUARTO.- Se deroga el Reglamento del Consejo Directivo y del Director General pu
 
 México, D.F., a 17 de octubre de 2006.- El Presidente del Consejo Directivo, Alonso Pascual García Tamés.- Rúbrica.- El Secretario del Consejo Directivo, Sergio Eduardo Huacuja Betancourt.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 23 DE JUNIO DE 2008.
 
@@ -442,3 +444,17 @@ SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan a lo
 D.O.F. 21 DE SEPTIEMBRE DE 2009.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE JULIO DE 2013.
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de Pronósticos para la Asistencia Pública publicado en el Diario Oficial de la Federación el 22 de noviembre de 2006 y sus modificaciones.
+
+TERCERO.- El presente Estatuto, deberá inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados.
+
+CUARTO.- La modificación a la estructura orgánica de la Entidad, que deba realizarse en congruencia con el presente Estatuto Orgánico, quedará sujeta a la autorización y registro que otorgue la Secretaría de Hacienda y Crédito Público.
+
+QUINTO.- Los asuntos que al momento de la entrada en vigor del presente Estatuto se encuentren en trámite por parte de una determinada unidad administrativa de la Entidad, y que conforme al mismo deban en lo sucesivo ser atendidos por una unidad administrativa distinta, deberán continuar su desahogo y ser resueltos por aquella o aquellas que inicialmente hayan tenido conocimiento de dichos asuntos hasta su conclusión.
+
+SEXTO.- La Subdirección General de Informática en coordinación con las demás áreas administrativas de la Entidad deberá actualizar la normatividad interna en congruencia con el presente estatuto en un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente.
