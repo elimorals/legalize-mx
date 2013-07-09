@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2013-02-07"
+last_updated: "2013-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JULIO DE 2013.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1885,9 +1885,17 @@ c) Se cometa en lugar cerrado, habitado o destinado para habitación o sus depen
 
 III. De cinco a ocho años de prisión y multa hasta de doscientos días de salario mínimo, cuando;
 
-a) Se sustraiga el mobiliario o equipo de una escuela, impidiendo el desempeño de sus funciones; o
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2013)</small>
 
-b) Adquieran, oculten o comercien los bienes producto del robo a escuelas.
+a) Se sustraiga el mobiliario o equipo de una escuela, impidiendo el desempeño de sus funciones;
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2013)</small>
+
+b) Adquieran, oculten o comercialicen los bienes producto del robo a escuelas; o
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2013)</small>
+
+c) El objeto del robo sean vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitidos por personas morales utilizados para canjear bienes y servicios.
 
 ###### Artículo 206.
 
@@ -2047,9 +2055,21 @@ VIII. Utilice una tarjeta de crédito o débito falsa, extraviada o robada, para
 
 IX. Ordene o admita un servicio en establecimiento comercial y no pague su importe;
 
-X. Valiéndose de la ignorancia o de las condiciones económicas de un trabajador a su servicio, le haga firmar recibos o comprobantes de pago que amparen sumas de dinero superiores a las que efectivamente le entrega; o
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2013)</small>
 
-XI. Por cualquier medio, ingrese a sistemas o programas de informática de naturaleza financiera e indebidamente realice operaciones, transferencias o movimientos de dinero o valores, con el propósito de obtener algún beneficio para sí o de un tercero.
+X. Valiéndose de la ignorancia o de las condiciones económicas de un trabajador a su servicio, le haga firmar recibos o comprobantes de pago que amparen sumas de dinero superiores a las que efectivamente le entrega;
+
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2013)</small>
+
+XI. Por cualquier medio, ingrese a sistemas o programas de informática de naturaleza financiera e indebidamente realice operaciones, transferencias o movimientos de dinero o valores, con el propósito de obtener algún beneficio para sí o de un tercero;
+
+> <small>(ADICIONADA, G.O. 9 DE JULIO DE 2013)</small>
+
+XII. Venda o intercambie por algún otro bien, vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios con conocimiento de que son falsos; o
+
+> <small>(ADICIONADA, G.O. 9 DE JULIO DE 2013)</small>
+
+XIII. Haga efectivos vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios, ante las tiendas o establecimientos que los aceptan, con conocimiento de que son falsos.
 
 ### CAPÍTULO II. INCUMPLIMIENTO DE LA OBLIGACIÓN DE DAR ALIMENTOS Y ABANDONO DE FAMILIARES
 
@@ -2663,9 +2683,17 @@ X. Imite, simule o altere de distinta manera a las anteriores, un documento verd
 
 Se impondrán de tres a nueve años de prisión y multa hasta de quinientos días de salario a quien:
 
-I. Produzca, imprima, enajene o distribuya tarjetas, títulos o documentos falsos utilizados para el pago de bienes y servicios o para disposición en efectivo, o los adquiera, utilice, posea o detente a sabiendas de esa circunstancia; o
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2013)</small>
 
-II. Adquiera, utilice, posea o detente tarjetas, títulos o documentos auténticos para el pago de bienes y servicios, sin consentimiento de quien esté facultado para ello.
+I. Produzca, imprima, enajene o distribuya tarjetas, títulos o documentos falsos utilizados para el pago de bienes y servicios o para disposición en efectivo, o los adquiera, utilice, posea o detente a sabiendas de esa circunstancia;
+
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2013)</small>
+
+II. Adquiera, utilice, posea o detente tarjetas, títulos o documentos auténticos para el pago de bienes y servicios, sin consentimiento de quien esté facultado para ello; o
+
+> <small>(ADICIONADA, G.O. 9 DE JULIO DE 2013)</small>
+
+III. Produzca, imprima, enajene, distribuya, altere o falsifique vales de papel o dispositivos electrónicos en forma de tarjeta plástica emitidos por personas morales utilizados para canjear bienes y servicios.
 
 ###### Artículo 281.
 
@@ -3878,3 +3906,9 @@ Segundo. A partir del inicio de la vigencia de este Decreto, la Secretaría prop
 P.O. 7 DE FEBRERO DE 2013.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 9 DE JULIO DE 2013.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
