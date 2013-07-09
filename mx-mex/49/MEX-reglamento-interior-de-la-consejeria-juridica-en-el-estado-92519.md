@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-consejeria-juridica-en-el-estado-9251
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-18"
-last_updated: "2013-02-18"
+last_updated: "2013-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA EN EL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JULIO 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 18 DE FEBRERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE JULIO DE 2013.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 18 de febrero de 2013.
 
@@ -209,7 +209,7 @@ XIII. Establecer las normas, políticas, criterios, sistemas y procedimientos de
 
 XIV. Someter a la consideración de su superior jerárquico el ingreso, licencia, promoción y remoción de los servidores públicos de mandos superior o medios, según corresponda, que se encuentren bajo su adscripción.
 
-XV. Proponer a su superior jerárquico reformas jurídicas y administrativas para el mejor desempeño·de las funciones a su cargo.
+XV. Proponer a su superior jerárquico reformas jurídicas y administrativas para el mejor desempeño de las funciones a su cargo.
 
 XVI. Representar al Consejero o a su superior jerárquico en los actos que les encargue y desempeñar las comisiones que les encomiende, debiendo informar oportunamente sobre su desarrollo y cumplimiento.
 
@@ -335,6 +335,8 @@ VI. Coordinar la implementación de cursos y talleres en las diferentes dependen
 
 VII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el o la titular de la Consejería.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JULIO 2013 EN LA G.G. DEL ESTADO DE MÉXICO , SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### Artículo 14.
 
 Corresponden a la Unidad de Asuntos Agrarios, las atribuciones siguientes:
@@ -354,6 +356,14 @@ VI. Asesorar a los involucrados en los asuntos agrarios, respecto a la prevenci�
 VII. Atender y ejecutar los programas y acciones que instruya el titular del Poder Ejecutivo y la Consejería, para la solución de los problemas agrarios donde el Gobierno del Estado sea parte.
 
 VIII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el o la titular de la Consejería.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 9 DE JULIO DE 2013)</small>
+
+IX. Representar legalmente al Gobernador, al Secretario General de Gobierno, al Subsecretario General de Gobierno y todos aquellos que le encomiende el o la titular de la Consejería, en los juicios agrarios en los que sean parte.
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA, TEXTO CONTEMPLADO EN LA ACTUAL FRACCIÓN VIII], G.G. 9 DE JULIO DE 2013)</small>
+
+X. Las demás que le señalen otros ordenamientos legales y las que le encomiende el o la titular de la Consejería.
 
 ###### Artículo 15.
 
@@ -496,3 +506,11 @@ SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFRÉN ROJAS DÁVILA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 9 DE JULIO DE 2013.
+
+PRIMERO. Publíquese el presente acuerdo en el periódico oficial "Gaceta del Gobierno" de Estado de México.
+
+SEGUNDO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
