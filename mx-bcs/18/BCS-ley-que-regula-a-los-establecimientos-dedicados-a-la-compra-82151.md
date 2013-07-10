@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-regula-a-los-establecimientos-dedicados-a-la-compra-821
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-06"
-last_updated: "2011-07-06"
+last_updated: "2013-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCS"
 
 LEY QUE REGULA A LOS ESTABLECIMIENTOS DEDICADOS A LA COMPRA-VENTA DE COBRE, ALUMINIO, BRONCE, FIERRO Y DEMÁS METALES DE DESECHO EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2013.
 
 Ley publicada en el Extraordinario al Boletín Oficial del Estado de Baja California Sur, el miércoles 6 de julio de 2011.
 
-MARCOS ALBERTO COVARRUBIAS VILLASEÑOR, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALlFORNlA SUR, A SUS HABITANTES HACE SABER:
+MARCOS ALBERTO COVARRUBIAS VILLASEÑOR, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
 
 QUE EL H. CONGRESO DEL ESTADO, SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
@@ -87,9 +87,11 @@ En caso de no contar con los formatos de registro la Tesorería, éste se llevar
 
 II. Los propietarios y/o encargados de los establecimientos a que se refiere la fracción anterior deberán verificar en todo momento el origen del material que compran, así mismo integrarán un registro de los proveedores, para lo cual utilizarán un formato que para tal efecto le proporcione la Tesorería correspondiente al que deberá anexarse copia de la identificación en el momento de la compra. Sin este requisito no podrá realizarse la compraventa; y
 
-Ill. Los propietarios y/o encargados de los establecimientos deberán abstenerse de comprar tapas de alcantarilla, medidores y otros objetos identificables como propiedad de los organismos operadores de agua y alcantarillado y empresas prestadoras de los servicios públicos, pudiendo adquirirlo solamente con autorización por escrito de los mismos.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
-### CAPITULO III. INSPECClON Y VIGILANCIA
+III. Los propietarios y/o encargados de los establecimientos deberán abstenerse de comprar objetos metálicos o derivados de alguna aleación metálica, tales como tubos, cables conductores de energía eléctrica, tapas de registros de alcantarillas, medidores de agua, tapas de cauces y desagüe de aguas, señalamientos, conectores y otros objetos identificables como propiedad de los organismos operadores de agua y alcantarillado, así como de las dependencias y empresas prestadoras de los servicios públicos, pudiendo adquirirlo solamente con autorización por escrito de los mismos. El incumplimiento de esta obligación será sancionado conforme a lo dispuesto en el artículo 322 BIS del Código Penal para el Estado de Baja California Sur.
+
+### CAPITULO III. INSPECCION Y VIGILANCIA
 
 ###### Artículo 5°.
 
@@ -99,7 +101,7 @@ Los Ayuntamientos tienen la obligación de cooperar con la Procuraduría General
 
 ###### Artículo 6°.
 
-La Tesorería contará con los verificadores necesarios que Ie permitan inspeccionar de manera confiable y continua a las chatarreras.
+La Tesorería contará con los verificadores necesarios que le permitan inspeccionar de manera confiable y continua a las chatarreras.
 
 ###### Artículo 7°.
 
@@ -182,3 +184,15 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 EL SECRETARIO GENERAL DE GOBIERNO
 
 CARLOS MENDOZA DAVIS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
