@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-salud-del-estado-de-95367"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-21"
-last_updated: "2007-11-21"
+last_updated: "2013-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO POR EL QUE SE ABROGA EL REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD, PUBLICADO EN EL P.O. DE 10 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -1624,3 +1626,15 @@ Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento, respecto
 Dado en la residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a veintiséis de octubre del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Javier de Jesús Castellanos Coutiño, Director General.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 10 DE JULIO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA EL REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor jerarquía al presente Decreto, y que se opongan al mismo.
+
+Artículo Tercero.- En cumplimiento a lo previsto en el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
