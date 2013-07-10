@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4654
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-15"
-last_updated: "2013-06-26"
+last_updated: "2013-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 15 de octubre de 2005.
 
@@ -385,7 +385,9 @@ VIII.- Los servicios y programas que ofrecen, los trámites, requisitos y format
 
 IX.- La relativa al presupuesto asignado en lo general y por programas, así como los informes sobre su ejecución.
 
-Esta información deberá contener los datos acerca de las y los destinatarios, usos, montos, asignación, mecanismos de evaluación e informes sobre su ejecución y deberá actualizarse trimestralmente.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+
+Esta información deberá contener los datos acerca de las y los destinatarios, usos, montos, asignación, mecanismos de evaluación e informes sobre su ejecución, debiendo observarse las disposiciones relativas del Título Quinto de la ley General de Contabilidad Gubernamental.
 
 X.- Los ingresos recibidos por cualquier concepto, señalando el nombre de las o los responsables de recibirlos, administrarlos y ejercerlos.
 
@@ -437,7 +439,9 @@ XVII.- Los informes que por disposición legal se generen.
 
 XVIII.- Los mecanismos de participación ciudadana, en su caso.
 
-XIX.- El estado que muestre su situación patrimonial, incluyendo la relación de los bienes inmuebles y de los vehículos adscritos a los mismos.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+XIX.- El estado que muestre su situación patrimonial, incluyendo la relación de los bienes inmuebles y de los vehículos adscritos a los mismos, de conformidad con las disposiciones relativas del Título Quinto de la ley General de Contabilidad Gubernamental.
 
 XX.- Los montos, criterios, convocatorias y a quienes se les entregue, por cualquier motivo, recursos públicos, así como los informes que se generen sobre el uso y destino de estos recursos.
 
@@ -529,9 +533,11 @@ V.- En el caso del Tribunal Estatal Electoral, las sentencias definitivas.
 
 Los partidos y las agrupaciones políticas, tendrán las obligaciones previstas en las fracciones I, II, III, IV y VI del artículo 20 de la presente Ley, así como transparentar y proporcionar la información que se les solicite, relativa al monto y manejo del financiamiento público que reciban, y lo referente a sus documentos básicos.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+
 ###### Artículo 28.
 
-Los entes públicos actualizarán, por lo menos cada tres meses, la información pública de oficio, en los términos que señalen las normas de operación y lineamientos que para tal efecto expida el Instituto.
+Los entes públicos actualizarán trimestralmente la información pública de oficio, en los términos que señalen las leyes aplicables, así como las normas de operación y lineamientos que para tal efecto expida el Instituto.
 
 ### CAPÍTULO II. DE LA INFORMACIÓN RESERVADA
 
@@ -571,7 +577,7 @@ I.- La que pueda causar un perjuicio o daños irreparables a las funciones de la
 
 II.- La que ponga en riesgo la vida, la seguridad o la salud de cualquier persona.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1019,7 +1025,7 @@ a).- El Gobernador del Estado.
 
 b).- El Secretario General de Gobierno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1476,3 +1482,13 @@ Las solicitudes y recursos de revisión en trámite o que se comiencen a tramita
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a la nueva Ley.
+
+P.O. 10 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones legales y administrativas estatales que se encuentren vigentes a la entrada en vigor del presente Decreto y que se opongan a lo dispuesto por la Ley General de Contabilidad Gubernamental, dejarán de aplicarse en la medida en que resulte aplicable esta última y las disposiciones que de ella emanen.
