@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-entidades-paraestatales-del-estado-de-chihuahua-11578"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2012-09-22"
+last_updated: "2013-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de enero de 1998.
 
@@ -479,9 +479,11 @@ Los programas financieros de la entidad paraestatal deberán formularse conforme
 
 El coordinador general o equivalente de la entidad paraestatal someterá el programa financiero para su autorización al órgano de gobierno respectivo con la salvedad a que se refiere la fracción II del artículo 61 de esta ley; una vez aprobado, remitirá a la Secretaría de Hacienda la parte correspondiente a la suscripción de créditos para su autorización por parte del H. Congreso del Estado, en los términos de la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios y demás disposiciones legales aplicables y se registrará en los términos de la ley correspondiente.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+
 ###### Artículo 58.
 
-Las entidades paraestatales, sin perjuicio de lo dispuesto en otras leyes, deberán informar al H. Congreso del Estado, a petición expresa de éste, en lo tocante al ejercicio de sus presupuestos, concertación y cumplimiento de compromisos, registro de operaciones; rendimiento de informes sobre estados financieros e integración de datos para efecto de la cuenta pública, sujetándose, en primer término, a lo dispuesto por esta ley y su reglamento y sólo en lo no previsto a los lineamientos y obligaciones consignadas en las demás leyes y reglamentos aplicables.
+Las entidades paraestatales, sin perjuicio de lo dispuesto en otras leyes, deberán informar al H. Congreso del Estado, a petición expresa de éste, en lo tocante al ejercicio de sus presupuestos, concertación y cumplimiento de compromisos, registro de operaciones; rendimiento de informes sobre estados financieros e integración de datos para efecto de la cuenta pública, sujetándose, en primer término, a lo dispuesto por esta Ley y su reglamento, así como a la Ley General de Contabilidad Gubernamental, y solo en lo no previsto a los lineamientos y obligaciones consignadas en las demás leyes y reglamentos aplicables.
 
 ###### Artículo 59.
 
@@ -868,3 +870,13 @@ Las funciones, facultades, derechos y obligaciones establecidas a cargo del orga
 ###### ARTÍCULO NOVENO.
 
 En todo caso, deberá asegurarse que de ninguna forma resulten afectados los derechos de los trabajadores del organismo, que hayan adquirido con base en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 10 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones legales y administrativas estatales que se encuentren vigentes a la entrada en vigor del presente Decreto y que se opongan a lo dispuesto por la Ley General de Contabilidad Gubernamental, dejarán de aplicarse en la medida en que resulte aplicable esta última y las disposiciones que de ella emanen.
