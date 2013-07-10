@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-atender-combatir-y-erradicar-la-trata-de-7572
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-30"
-last_updated: "2010-07-30"
+last_updated: "2013-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE NUEVO LEON
 
-LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE NUEVO LEON
+LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2010.
 
@@ -39,17 +39,21 @@ LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, se aplicará en el territorio del Estado de Nuevo León y tiene por objeto la prevención, atención, combate y erradicación de la trata de personas, así como la adopción de medidas de protección, atención y asistencia necesarias para garantizar los derechos de las víctimas del delito de trata de personas, previsto y sancionado en el Código Penal para el Estado de Nuevo León.
+La presente Ley es de orden público e interés social, se aplicará en el territorio del Estado de Nuevo León y tiene por objeto la prevención, atención, combate y erradicación de la trata de personas, así como la adopción de medidas de protección, atención y asistencia necesarias para garantizar los derechos de las víctimas del delito de trata de personas, previsto y sancionado en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
 ###### Artículo 2.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, deberán desarrollar políticas públicas, planes, programas y acciones para prevenir la trata de personas, asimismo, realizar con diligencia las investigaciones necesarias para que los responsables de la trata de personas sean sancionados y brindar atención, protección y asistencia a las víctimas de este delito.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+
 ###### Artículo 3.
 
-En todo lo no previsto por esta Ley serán aplicables supletoriamente, en lo que a sus materias corresponda, las disposiciones del Código Penal para el Estado de Nuevo León, del Código de Procedimientos Penales para el Estado de Nuevo León, del Código de Procedimientos Civiles para el Estado de Nuevo León, la Ley de Atención y Apoyo a las Víctimas y a los Ofendidos de Delitos en el Estado de Nuevo León, de la Ley de Extinción de Dominio para el Estado de Nuevo León; y demás leyes.
+En todo lo no previsto por esta Ley serán aplicables supletoriamente, en lo que a sus materias corresponda, las disposiciones del Código Penal para el Estado de Nuevo León, del Código de Procedimientos Penales para el Estado de Nuevo León, del Código Procesal Penal para el Estado de Nuevo León, del Código de Procedimientos Civiles para el Estado de Nuevo León, la Ley de Atención y Apoyo a las Víctimas y a los Ofendidos de Delitos en el Estado de Nuevo León, de la Ley de Extinción de Dominio para el Estado de Nuevo León; y demás leyes.
 
 ###### Artículo 4.
 
@@ -73,7 +77,9 @@ VIII. Perspectiva de Género: Es una visión científica, analítica y política
 
 IX. Políticas Públicas en materia de Trata de Personas: Las que realiza la Administración Pública y están destinadas al conjunto de los habitantes del Estado de Nuevo León, con el propósito de prevenir, atender, sancionar y erradicar la trata de personas;
 
-X. Trata de Personas: Es la captación, el transporte, el traslado, la acogida o la recepción de personas, recurriendo a la amenaza o al uso de la fuerza u otras formas de coacción, al rapto, al fraude, al engaño, al abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra, con fines de explotación. Esa explotación incluirá, como mínimo, la explotación de la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o las prácticas análogas a la esclavitud, la servidumbre o la extracción o remoción de órganos o tejidos humanos;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+X. Trata de Personas: Es la captación, el transporte, el traslado, la acogida o la recepción de personas, recurriendo a la amenaza o al uso de la fuerza u otras formas de coacción, al rapto, al fraude, al engaño, al abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra, con fines de explotación. Esa explotación incluirá, como mínimo, la explotación de la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o las prácticas análogas a la esclavitud, la servidumbre o la extracción o remoción de órganos o tejidos humanos; así como las demás modalidades de este delito que se establecen en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
 
 XI. Víctima: Persona que ha sufrido daño psicológico, físico, sexual o patrimonial como consecuencia de acciones u omisiones realizadas en su contra, tipificadas como delito y sancionadas por la legislación penal; y
 
@@ -336,3 +342,13 @@ ALEJANDRO GARZA Y GARZA
 EL C. SECRETARIO DE SEGURIDAD PÚBLICA DEL ESTADO
 
 LUIS CARLOS TREVIÑO BERCHELMANN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE JULIO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Lo anterior en los términos de los Artículos Transitorios Segundo y Quinto del decreto por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública publicado el 30 de noviembre de 2010 en el Diario Oficial de la Federación y los Artículos Transitorios Décimo y Décimo Primero del Decreto por el que se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos; y abroga la Ley para Prevenir y Sancionar la Trata de Personas; y reforma diversas disposiciones de la Ley Federal contra la Delincuencia Organizada; del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Orgánica del Poder Judicial de la Federación; de la Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública, publicado el 14 de junio de 2012 en el Diario Oficial de la Federación.
