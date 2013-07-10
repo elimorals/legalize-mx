@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-21702
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-20"
-last_updated: "2007-07-31"
+last_updated: "2013-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
+LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de junio de 2001.
 
@@ -61,7 +61,9 @@ La responsabilidad de vigilancia, seguimiento y aplicación de esta Ley, estará
 
 I. El Titular del Poder Ejecutivo del Estado, el Sistema para el Desarrollo Integral de la Familia y demás dependencias y entidades que integran la Administración Pública, así como de organismos desconcentrados y demás entidades paraestatales en el ámbito de sus respectivas competencias y jurisdicción;
 
-II. El Poder Legislativo del Estado, a través de la Comisión Permanente de la Familia y la Asistencia Pública;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
+
+II. El Poder Legislativo del Estado, a través de las Comisiones Permanentes de la Salud, la Familia y la Asistencia Pública y de Atención a Grupos Vulnerables y a Personas con Discapacidad;
 
 III. El Poder Judicial del Estado, en el ámbito que corresponda;
 
@@ -123,11 +125,15 @@ Son principios en la observación y aplicación de esta ley;
 
 II. Participación: En todos los casos de la vida pública y en especial en lo relativo a los aspectos que les atañen directamente deberán ser consultados y tomados en cuenta y se promoverá su presencia o intervención;
 
-III. Equidad: Consistente en el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores de sesenta años, sin distinción por sexo, situación económica, raza, credo, religión o cualquier otra circunstancia;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
+
+III. EQUIDAD.- Las personas adultas mayores recibirán un trato justo y equitativo en las condiciones de acceso y disfrute de los bienes y servicios necesarios para su bienestar, sin distinción por sexo, situación económica, raza, credo, religión o cualquier otra circunstancia;
 
 IV. Corresponsabilidad: Para la consecución del objeto de esta Ley, se promoverá la concurrencia de los sectores público y social y en especial de las familias con una actitud de responsabilidad compartida, y
 
-V. Atención diferenciada: Es aquella que obliga a los órganos locales de Gobierno del Estado de Baja California Sur, a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores de sesenta años.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
+
+V. ATENCIÓN PREFERENTE.- Es aquella que obliga a los órganos locales del Gobierno de Baja California Sur, así como a los sectores social y privado, la implementación de programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores.
 
 ### Capítulo II. De los Derechos
 
@@ -135,7 +141,9 @@ V. Atención diferenciada: Es aquella que obliga a los órganos locales de Gobie
 
 De manera enunciativa esta Ley reconoce a las personas adultas mayores de sesenta años los siguientes derechos:
 
-A) De la integridad y dignidad:
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE JULIO DE 2013)</small>
+
+A) A la Integridad, Dignidad y Preferencia:
 
 I. A la vida, con calidad, siendo obligación de la familia, de los órganos locales de Gobierno del Estado de Baja California Sur y de la sociedad, garantizar a las personas adultas mayores de sesenta años su sobrevivencia así como el acceso a los mecanismos necesarios para ello;
 
@@ -189,13 +197,31 @@ IV. A participar en la vida cultural, deportiva y recreativa de su comunidad;
 
 V. A obtener información gerontología disponible en los ámbitos medico, jurídico, social, cultural, económico y demás relativos, con el objeto de incrementar su cultura, analizar y accionar programas para contribuir a la prevención y auto cuidado hacia la vejez.
 
-E) Del trabajo:
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2013)</small>
 
-A gozar de oportunidades igualitarias de acceso al trabajo o de otras posibilidades de obtener un ingreso propio, así como recibir una capacitación adecuada.
+E) Del Trabajo:
+
+A gozar de igualdad de oportunidades en el acceso al trabajo o de otras opciones que les permitan un ingreso propio y desempeñarse en forma productiva tanto tiempo como lo deseen, así como a recibir protección de las disposiciones establecidas en la Ley Federal del Trabajo y demás ordenamientos laborales.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2013)</small>
 
 F) De la Asistencia Social:
 
-I. A ser sujetos de programas de asistencia social cuando se encuentren en situación de riesgo o desamparo, que garanticen su atención integral.
+I. A ser sujetos de programas de asistencia social en caso de desempleo, discapacidad o pérdida de sus medios de subsistencia;
+
+II. A ser sujetos destinatarios de programas para contar con una vivienda digna y adaptadas (sic) a sus necesidades;
+
+III. A ser sujetos de programas que contemplen su atención integral, si se encuentran en situaciones de riesgo o desamparo.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2013)</small>
+
+G) Del Acceso a los Servicios:
+
+I. A tener una atención preferente en los establecimientos públicos y privados que prestan servicios al público;
+
+II. Los servicios y establecimientos de uso público deberán implementar medidas para facilitar el uso y/o acceso adecuado; y
+
+III. A contar con asientos preferentes en los establecimientos que prestan servicios al público y en los servicios de autotransporte de pasajeros.
 
 ## TÍTULO TERCERO
 
@@ -227,11 +253,11 @@ La Coordinación de Programas de Bienestar Social, a través del Sistema para el
 
 ## TÍTULO CUARTO. De las Facultades y Obligaciones de las autoridades
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE JULIO DE 2007)</small>
 
 ### Capítulo I. Del Titular del Poder ejecutivo del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2007)</small>
 
 ###### Artículo 10.
 
@@ -431,11 +457,13 @@ IV. El Secretario de Salud;
 
 V. El Sistema Integral para el Desarrollo Integral de la Familia en el Estado de Baja California Sur; y (sic)
 
-VI. El Diputado Presidente de la Comisión de la Familia y la Asistencia Pública del Congreso del Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
+
+VI. Las diputadas y diputados que presidan las Comisiones Permanentes de la Salud, la Familia y la Asistencia Pública y de Atención a Grupos Vulnerables y a Personas con Discapacidad;
 
 > <small>(ADICIONADA, B.O. 31 DE JULIO DE 2007)</small>
 
-VII.- Un integrante de la Comisión Estatal de Derechos Humanos.
+VII. Un integrante de la Comisión Estatal de Derechos Humanos.
 
 El Consejo invitará a formar parte del mismo a nueve representantes de organizaciones sociales, privadas o ciudadanos que se hayan destacado por su trabajo y estudio en la materia, quienes podrán coordinar los grupos de trabajo del Consejo.
 
@@ -627,8 +655,12 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 C. LIC. VÍCTOR MANUEL GULUARTE CASTRO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 31 DE JULIO DE 2007.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 2013.
+
+ÚNICO: El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
