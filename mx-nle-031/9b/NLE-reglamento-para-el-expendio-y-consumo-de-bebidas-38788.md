@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-expendio-y-consumo-de-bebidas-38788"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-31"
-last_updated: "2010-12-06"
+last_updated: "2013-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO PARA EL EXPENDIO Y CONSUMO DE BEBIDAS ALCOHOLICAS DEL MUNICIPIO DE JUAREZ, NUEVO LEON
 
-REGLAMENTO PARA EL EXPENDIO Y CONSUMO DE BEBIDAS ALCOHOLICAS DEL MUNICIPIO DE JUAREZ, NUEVO LEON
+REGLAMENTO PARA EL EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL MUNICIPIO DE JUÁREZ, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL MUNICIPIO DE JUÁREZ, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 10 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 31 de marzo de 2004.
 
@@ -881,10 +883,18 @@ C. ERIKA VICTORIA LOBATON TAMEZ
 
 SINDICO SEGUNDO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE DICIEMBRE DE 2010.
 
 PRIMERO.- Las reformas y adiciones a éste Reglamento, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se envie al C. Presidente Municipal para que tenga a bien instruir al titular de la Secretaria del R. Ayuntamiento, se mande publicar en el Periódico Oficial del Estado y en la Gaceta Municipal para los efectos jurídicos conducentes, y se informe a la población sobre el contenido de estas disposiciones.
+
+P.O. 10 DE JULIO DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abroga el Reglamento para el Expendio y Consumo de Bebidas Alcohólicas del Municipio de Juárez, Nuevo León que fuera aprobado mediante Sesión Extraordinaria de fecha 19 de Marzo del año 2004, así como todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas y adiciones.
+
+TERCERO.- Gírense las Instrucciones al Ciudadano Presidente Municipal y al Ciudadano Secretario del R. Ayuntamiento para su publicación en el Periódico Oficial del Estado y se le dé el debido cumplimiento.
