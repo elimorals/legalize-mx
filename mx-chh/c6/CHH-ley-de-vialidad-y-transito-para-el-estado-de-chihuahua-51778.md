@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2013-06-22"
+last_updated: "2013-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -469,6 +469,14 @@ Los vehículos de servicio público de transporte son aquellos que operan sujeto
 
 Son vehículos de paso preferencial o emergencia, aquellos que cumplen funciones de seguridad y asistencia social, por lo que deberán de estar plenamente identificados como tales, además de contar con la autorización que para tal efecto establecen los ordenamientos legales correspondientes.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2013)</small>
+
+Los vehículos destinados al servicio de transporte público colectivo, que transiten por carriles exclusivos, tendrán preferencia de paso en la circulación, salvo que exista señalamiento vial expreso que indique lo contrario, en los términos de la presente Ley y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2013)</small>
+
+Solo en casos de extrema necesidad, los vehículos de emergencia podrán hacer uso de los carriles exclusivos del transporte público colectivo, debiendo encender las luces y sirenas para alertar a los restantes usuarios de la vía pública.
+
 > <small>(REFORMADO, P.O. 12 DE ENERO DE 2013)</small>
 
 ###### Artículo 32.
@@ -803,6 +811,8 @@ Las personas que tengan licencia para conducir expedida por autoridades de otras
 
 ### CAPÍTULO ÚNICO. DE LOS PEATONES, PERSONAS CON DISCAPACIDAD Y DEMÁS USUARIOS DE LAS VIAS PÚBLICAS
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+
 ###### Artículo 57.
 
 La Dirección de Vialidad está facultada para suspender o cancelar las licencias de conducir, mediante el procedimiento y por las causas que se señalen en esta Ley.
@@ -875,7 +885,21 @@ Cancelada la licencia de conducir, el particular no podrá obtener nuevamente es
 
 ###### Artículo 62.
 
-los peatones y las personas con discapacidad están obligados a cumplir las disposiciones contenidas en esta Ley y sus reglamentos, así como acatar las disposiciones, señalamientos e indicaciones de los oficiales de tránsito y los operativos que se implementen para el control y seguridad del tránsito.
+La preferencia en el uso de la vía pública, será de los peatones y personas con alguna discapacidad. En calles y avenidas tendrán prioridad, en los diferentes modos de desplazamiento y conforme a lo que disponga esta Ley y sus reglamentos, las siguientes personas:
+
+I. Peatones y personas con discapacidad;
+
+II. Ciclistas;
+
+III. Usuarios y prestadores del servicio de transporte público colectivo;
+
+IV. Usuarios y prestadores del servicio de transporte público;
+
+V. Usuarios de transporte particular automotor, y
+
+VI. Usuarios y prestadores del servicio de transporte de carga.
+
+Los peatones, las personas con discapacidad, conductores de vehículos y usuarios de los mismos, están obligados a cumplir las disposiciones contenidas en esta Ley y sus reglamentos, así como acatar las disposiciones, señalamientos e indicaciones de los oficiales de tránsito, para el control y seguridad del tránsito.
 
 ###### Artículo 63.
 
@@ -887,9 +911,27 @@ II.- De señalamiento vial visual, auditivo y táctil, de conformidad con lo que
 
 III.- Los demás que establezcan esta Ley y sus reglamentos.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2013)</small>
+
+Los peatones que se trasladen por la vía pública deberán de hacerlo por las banquetas, pasos peatonales, semáforos, puentes y demás espacios públicos destinados para ello, debiendo abstenerse de poner en riesgo su integridad y la de otras personas, al desplazarse por calles y avenidas.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2013)</small>
+
+Toda persona que obstruya el libre tránsito de personas y ponga en riesgo su seguridad, deberá ser sancionada en los términos del reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2013)</small>
+
+Los peatones deberán ser infraccionados en los términos de los reglamentos respectivos y aplicárseles las sanciones contenidas en el artículo 90, fracciones I, II y VII de esta Ley.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+
 ###### Artículo 64.
 
-Cuando dos personas adviertan a un conductor que se ha estacionado en el lugar reservado para las personas con discapacidad, podrán realizar la denuncia que establece el artículo 73 de la Ley para la Atención de las Personas con Discapacidad en el Estado de Chihuahua.
+En aquellos municipios que cuenten con ciclovías, los ciclistas estarán obligados a circular por ellas, cuando se encuentren delimitadas y, en caso contrario, deberán de circular por su extrema derecha, respetando toda señal de tránsito y atendiendo a las indicaciones de la autoridad vial, además de cumplir con las restantes obligaciones que establezca el reglamento.
+
+Los ciclistas que no cumplan con las obligaciones de esta Ley y, en su caso, de los reglamentos que se expidan, serán infraccionados en los términos de los reglamentos respectivos, aplicándoseles las sanciones que correspondan a la naturaleza de su desplazamiento y vehículo, establecidas en el artículo 90 de esta Ley.
+
+Cuando se advierta a un conductor que se ha estacionado en un lugar reservado para personas con discapacidad, zonas prohibidas, sobre cocheras, banquetas o ciclovías, podrán realizar la denuncia que corresponda, solicitando se sancione al propietario del vehículo, siempre y cuando sea verificada la información por la autoridad o se le aporten los medios de prueba que acrediten la infracción.
 
 ###### Artículo 65.
 
@@ -1642,3 +1684,21 @@ Las tarifas a las que se hacen referencia en el presente Decreto, entrarán en v
 ###### ARTÍCULO SEXTO.
 
 Se derogan las demás disposiciones en lo que se opongan al presente Decreto.
+
+P.O. 10 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Tratándose de la antigüedad de las unidades de transporte para la ruta troncal de Ciudad Juárez, a que se refiere el artículo 30 del Artículo Primero del presente Decreto, se ampliará hasta tres años más en aquellas que no hayan sido rodadas para el servicio público colectivo.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que respecta al Artículo Segundo del presente Decreto, no obstante su vigencia, la aplicación de dichas disposiciones deberá ser reglamentada por los ayuntamientos o el titular del Ejecutivo Estatal, en caso de estar convenida la función en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO CUARTO.
+
+Las sanciones a las que hace referencia el presente Decreto, independientemente de su reglamentación correspondiente, iniciarán su vigencia con la entrada en funcionamiento de las rutas troncales del Sistema de Transporte Colectivo Integrado.
