@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2013-07-06"
+last_updated: "2013-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -579,9 +579,9 @@ XI.- Conceder a sus miembros licencia para separarse de su cargo por causa debid
 
 XII.- Aprobar, en su caso, el anteproyecto de Ley de Ingresos, que a su consideración presente el Presidente Municipal y remitirlo al Congreso del Estado, antes del día 30 de noviembre del año del ejercicio;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2013)</small>
 
-XIII.- Aprobar el presupuesto de egresos de acuerdo con los ingresos que hubiere autorizado el Congreso y remitirlo al Ejecutivo del Estado para su publicación en el Periódico Oficial, a más tardar el día 31 de diciembre, siendo aplicable en lo conducente lo dispuesto por el Capítulo Unico del Título Cuarto, de la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado;
+XIII.- Aprobar el Presupuesto de Egresos de acuerdo con los ingresos que hubiere autorizado el Congreso y remitirlo al Ejecutivo del Estado para su publicación en el Periódico Oficial, a más tardar el día 31 de diciembre, siendo aplicable en lo conducente lo dispuesto por el Capitulo Único del Título Cuarto, de la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado, así como la Ley General de Contabilidad Gubernamental.
 
 Los presupuestos, sólo podrán ser ampliados, cuando los ingresos reales sean superiores al ingreso estimado en la ley;
 
@@ -749,9 +749,9 @@ XII.- Representar al Municipio, con todas las facultades de un apoderado general
 
 XIII.- Formular y someter a la aprobación del Ayuntamiento el anteproyecto de ley de ingresos y el proyecto de presupuesto de egresos;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
 
-XIV. Administrar, por conducto de las dependencias competentes, la Hacienda Pública Municipal, estableciendo los procedimientos técnicos, financieros y contables que permitan el adecuado control y examen del ingreso y el gasto público, siendo aplicable en lo conducente lo dispuesto por el Capitulo Único del Titulo Quinto, de la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua, así como la Ley de Proyectos de Inversión Pública a Largo Plazo del Estado de Chihuahua;
+XIV.- Administrar, por conducto de las dependencias competentes, la Hacienda Pública Municipal, estableciendo los procedimientos técnicos, financieros y contables que permitan el adecuado control y examen del ingreso y el gasto público, siendo aplicable en lo conducente lo dispuesto por los Títulos Quinto y Sexto, de la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua, así como la Ley de Proyectos de Inversión Pública a Largo Plazo del Estado de Chihuahua.
 
 XV.- Vigilar la recaudación de los ingresos municipales y que la inversión de dichos fondos se aplique con apego al presupuesto de egresos;
 
@@ -4381,6 +4381,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 19 DE JUNIO DE 2013.
 
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones legales y administrativas estatales que se encuentren vigentes a la entrada en vigor del presente Decreto y que se opongan a lo dispuesto por la Ley General de Contabilidad Gubernamental, dejarán de aplicarse en la medida en que resulte aplicable esta última y las disposiciones que de ella emanen.
+
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -4400,3 +4408,5 @@ DECRETO No. 1272/2013 II P.O. POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADIC
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 2013.
