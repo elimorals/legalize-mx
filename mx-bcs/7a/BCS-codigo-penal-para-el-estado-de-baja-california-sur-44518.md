@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2012-12-20"
+last_updated: "2013-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -2585,9 +2585,13 @@ VI.- Sobre expedientes, libros o documentos existentes en oficinas, bibliotecas 
 
 VII.- En un lugar cerrado;
 
-VIII.- Sobre postes, alambres y otros materiales que sirvan como cercos a las áreas de siembra; y (sic)
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
-IX.- Sobre tubos, conexiones, tapas de registro, señalamientos o cualquier objeto destinado a un servicio público;
+VIII.- Sobre postes, alambres y otros materiales que sirvan como cercos a las áreas de siembra;
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
+
+IX.- En bienes destinados a la prestación de un servicio público, sean objetos metálicos o derivados de alguna aleación metálica, tales como tubos, conexiones, cables conductores de energía eléctrica, tapas de registros, señalamientos, medidores de agua, conectores y demás que se utilicen con el mismo fin; y
 
 > <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2010)</small>
 
@@ -2822,6 +2826,18 @@ II.- Trafique o comercialice vehículos de motor robados;
 III.- Posea, altere o modifique de cualquier manera la documentación, señales o marcas que acrediten la propiedad o la identificación del vehículo robado; y
 
 IV.- Traslade los vehículos robados a una población diversa a la de la comisión del delito.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2013)</small>
+
+ARTÍCULO 322 BIS.- También se considerará como receptación agravada y se aplicará prisión de cinco a diez años y hasta de quinientos días de multa, a quien a sabiendas o sin verificar la legal procedencia:
+
+I.- Comercialice o suministre de cualquier manera con metal o derivados de alguna aleación metálica robados, que provengan de bienes destinados a la prestación de un servicio público;
+
+II.- Detente, posea o custodie metal o derivados de alguna aleación metálica robados o que, por su forma de adquisición, se advierta su origen ilegal, que provengan de bienes destinados a la prestación de un servicio público;
+
+III.- Transporte o traslade el metal o derivados de alguna aleación metálica robados que provengan de bienes destinados a la prestación de un servicio público; de un lugar a otro dentro del estado o a otra entidad federativa; o
+
+IV.- Aporte recursos económicos o proporcione medios de cualquier especie, para la ejecución de las actividades descritas en las fracciones anteriores.
 
 ### CAPÍTULO X. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
@@ -3138,3 +3154,13 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 B.O. 20 DE DICIEMBRE DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
