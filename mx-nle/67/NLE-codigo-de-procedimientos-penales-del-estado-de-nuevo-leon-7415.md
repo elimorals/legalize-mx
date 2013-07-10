@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2013-06-26"
+last_updated: "2013-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEÓN
 
 > <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE FECHA 5 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO DEJA DE SER APLICABLE EN FORMA GRADUAL Y SUCESIVA, EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO, Y QUEDA ABROGADO A PARTIR DEL 1 DE ENERO DE 2016, CON LAS EXCEPCIONES ESTABLECIDAS EN LOS ARTÍCULOS DEL TERCERO AL SEXTO TRANSITORIOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -307,9 +307,9 @@ III.- Estar presente en el desarrollo de todos los actos procesales en los que e
 
 IV.- Recibir asistencia médica de urgencia y psicológica cuando lo requieran, pudiendo optar por el profesional de su elección cuando la disponibilidad de éstos así lo permita;
 
-> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
 
-V.- La garantía de reserva de su identidad y paradero por lo que en consecuencia, no podrá ser divulgado para ser transmitido o publicado en medio masivo de comunicación alguno, cualquier dato, hecho o documento que esta disposición tutela; lo anterior sólo será aplicable en los tipos penales contemplados en cualquiera de los Artículos 165 bis, 176, 318, 325, 357 ó 357 bis del Código Penal para el Estado de Nuevo León. La referida garantía podrá ser renunciable únicamente mediante manifestación y ratificación del interesado ante el Ministerio Público o la autoridad judicial en su caso; y
+V.- La garantía de reserva de su identidad y paradero por lo que en consecuencia, no podrá ser divulgado para ser transmitido o publicado en medio masivo de comunicación alguno, cualquier dato, hecho o documento que ésta disposición tutela; lo anterior sólo será aplicable en los tipos penales contemplados en cualquiera de los artículos 165 bis, 176, 318 o 325 del Código Penal para el Estado de Nuevo León, así como en los delitos de secuestro en cualquiera de sus modalidades previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y de trata de personas en cualquiera de sus modalidades previstas en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos. La referida garantía podrá ser renunciable únicamente mediante manifestación y ratificación del interesado ante el Ministerio Público o la autoridad judicial en su caso; y
 
 VI.- Las demás que señalen las leyes.
 
@@ -323,9 +323,9 @@ En todo caso, el juez, de oficio, mandará citar a la víctima o al ofendido por
 
 La víctima o el ofendido tendrán derecho a solicitar al Juez que dicte las medidas y providencias necesarias que prevea la ley para su seguridad y auxilio, y para que se les restituya en el goce de sus derechos, en los términos previstos en este Código.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
 
-Cuando la víctima o el ofendido sea menor de edad, no estará obligado a carearse con el inculpado cuando se trate de delitos de violación o secuestro. En caso de tratarse de otros delitos o bien cuando la víctima sea mayor de edad y se trate de delitos de violación, equiparable a la violación, privación ilegal de la libertad con carácter de secuestro o equiparable a la privación ilegal de la libertad con carácter de secuestro; podrán, cuando la víctima lo solicite o bien el Juez podrá decretarlo de oficio, disponer de la presencia del inculpado en forma virtual durante el desahogo de la audiencia mediante el sistema de videoconferencia, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
+Cuando la víctima o el ofendido sea menor de edad, no estará obligado a carearse con el inculpado cuando se trate de delitos de violación, secuestro, privación ilegal de la libertad o trata de personas. En caso de tratarse de otros delitos o bien cuando la víctima sea mayor de edad y se trate de delitos de violación, equiparable a la violación, secuestro, privación ilegal de la libertad o de trata de personas podrán, cuando la víctima lo solicite o bien el Juez podrá decretarlo de oficio, disponer de la presencia del inculpado en forma virtual durante el desahogo de la audiencia mediante el sistema de videoconferencia, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
 
 (REFORMADO, P.O. 28 DE JULIO DE 2004) (F. DE E., P.O. 4 DE AGOSTO DE 2004)
 
@@ -921,21 +921,21 @@ Tratándose del Juicio Oral Penal se determinará que el público abandone la sa
 
 Las audiencias se llevarán a cabo, concurran o no las partes, salvo el Ministerio Público y el defensor, que no podrán dejar de asistir a ellas, con excepción de lo establecido en este Código.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
 
-Tratándose de cualquiera de los delitos establecidos en los artículos 165 Bis, 176, 357, 357 Bis, 358 Bis 2, 363 Bis ó 395 del Código Penal para el Estado, tanto las autoridades investigadoras como las judiciales deberán desahogar todas las diligencias con los procesados o sentenciados en las instalaciones del centro de reinserción social en que se encuentre el detenido, a fin de procurar mayor seguridad a la comunidad y evitar riesgos de evasión. La autoridad ejecutora dará las facilidades necesarias para la práctica de las audiencias que requieran la presencia del inculpado.
+Tratándose de cualquiera de los delitos establecidos en los artículos 165 Bis, 176, 355 segundo párrafo o 395 del Código Penal para el Estado, así como de los delitos establecidos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, tanto las autoridades investigadoras como las judiciales deberán desahogar todas las diligencias con los procesados o sentenciados en las instalaciones del centro de reinserción social en que se encuentre el detenido, a fin de procurar mayor seguridad a la comunidad y evitar riesgos de evasión. La autoridad ejecutora dará las facilidades necesarias para la práctica de las audiencias que requieran la presencia del inculpado.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
 
-Por los mismos fines expuestos en el párrafo anterior, tratándose de cualquiera de los delitos establecidos en los artículos 165 Bis, 176, 357, 357 Bis, 358 Bis 2, 363 Bis ó 395 del Código Penal para el Estado, las autoridades investigadoras o judiciales en su caso, podrán disponer de la presencia del inculpado en forma virtual durante el desahogo de cualquier audiencia dentro del proceso, mediante el sistema de videoconferencia, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
+Por los mismos fines expuestos en el párrafo anterior, tratándose de cualquiera de los delitos establecidos en los artículos 165 Bis, 176, 355 segundo párrafo o 395 del Código Penal para el Estado, así como de los delitos establecidos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y en (sic) Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, las autoridades investigadoras o judiciales en su caso, podrán disponer de la presencia del inculpado en forma virtual durante el desahogo de cualquier audiencia dentro del proceso, mediante el sistema de videoconferencia, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 En el supuesto a que se refiere el artículo 34 de este Código, no podrán llevarse a cabo las audiencias en que deba participar el inculpado sin el intérprete o traductor a que dicho precepto se refiere. Exceptuando los casos de competencia del juicio oral, si el inculpado se encuentra privado de su libertad, la audiencia podrá celebrarse a través de videoconferencia, en los términos precisados en los artículos 24 y 25 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
 
-La declaración de la víctima o el ofendido, o del testigo según sea el caso, cuando se trate de delitos sexuales, privación ilegal de la libertad con carácter de secuestro, equiparable a la privación ilegal de la libertad con carácter de secuestro, violencia familiar o trata de personas, se llevará a cabo de una manera que no perciba la presencia del inculpado.
+La declaración de la víctima o el ofendido, o del testigo según sea el caso, cuando se trate de delitos sexuales, privación ilegal de la libertad, secuestro, violencia familiar o trata de personas, se llevará a cabo de una manera que no perciba la presencia del inculpado.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -1735,11 +1735,9 @@ Cualquiera persona que tenga en su poder un documento público o privado que se 
 
 Se reconocen como excepciones para el cumplimiento de la obligación a que se refiere este artículo, las señaladas en la ley.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
 
-###### ARTICULO 179 Bis.
-
-En los casos de privación ilegal de la libertad con carácter de secuestro que prevén los artículos 357, 357 Bis ó 358 Bis 2 del Código Penal del Estado, cuando no se pueda obtener la declaración y la práctica de dictámenes medico, físico y psicológico por parte del pasivo, por cualquier causa, se tomarán en cuenta las declaraciones del o los testigos y todos aquellos indicios que permitan conocer las circunstancias en que se cometió la conducta delictiva para tener por acreditado el cuerpo del delito.
+ARTICULO 179 BIS.- En los casos de privación ilegal de la libertad que se prevé en los artículos 354, 355 y 355 Bis del Código Penal del Estado, así como en los delitos establecidos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, cuando no se pueda obtener la declaración y la práctica de dictámenes medico, físico y psicológico por parte del pasivo, por cualquier causa, se tomarán en cuenta las declaraciones del o los testigos y todos aquellos indicios que permitan conocer las circunstancias en que se cometió la conducta delictiva para tener por acreditado el cuerpo del delito.
 
 ###### ARTICULO 180.
 
@@ -1819,25 +1817,21 @@ ARTICULO 182 BIS 5. Toda persona física o moral en cuyo poder se hallen objetos
 
 ARTICULO 182 BIS 6.- La autoridad podrá ofrecer recompensa en determinada cantidad de dinero a cualquier persona que aporte datos o elementos probatorios que sean efectivos para la resolución de un delito de los tipificados en el Código Penal como graves. Ningún servidor público podrá participar de dicha recompensa.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
 
-Cuando se libre orden de aprehensión por los delitos previstos en los artículos 165 Bis, 176, 318, 325, 331 Bis 2, 357, 357 Bis, 363 Bis, 432, 434 o 439 párrafo primero del Código Penal para el Estado de Nuevo León, la autoridad podrá ofrecer recompensa a quienes auxilien eficazmente para la localización y aprehensión del inculpado.
+Cuando se libre orden de aprehensión por los delitos previstos en los artículos 165 Bis, 176, 318, 325, 331 Bis 2, 354, 355, 355 Bis, 432, 434 o 439 párrafo primero del Código Penal para el Estado de Nuevo León, así como por los delitos establecidos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y en Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la autoridad podrá ofrecer recompensa a quienes auxilien eficazmente para la localización y aprehensión del inculpado.
 
 El reglamento respectivo, establecerá los términos, montos y condiciones de la recompensa de que se trate.
 
 Para tal efecto, la Secretaría de Finanzas y Tesorería General del Estado proveerá los fondos necesarios.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
-
-ARTICULO 182 BIS 7. La persona que preste ayuda eficaz para la investigación y persecución de los delitos previstos por los artículos 165 Bis, 176, 318, 325, 331 Bis 2, 357, 357 Bis, 363 Bis, 395, 432, 434 o 439 párrafo primero del Código Penal para el Estado de Nuevo León, cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la indagatoria indicada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 182 Bis 7.
 
-La persona que preste ayuda eficaz para la investigación y persecución de los delitos previstos por los artículos 165 Bis, 176, 318, 325, 357, 357 Bis, 363 Bis, 395, 432, 434 ó 439 párrafo primero del Código Penal para el Estado de Nuevo León, cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la indagatoria indicada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona.
+La persona que preste ayuda eficaz para la investigación y persecución de los delitos previstos en los artículos 165 Bis, 176, 318, 325, 331 Bis 2, 354, 355, 355 Bis, 395, 432, 434 o 439 párrafo primero del Código Penal para el Estado de Nuevo León, cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la indagatoria indicada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona. En lo relativo a los delitos de secuestro y de trata de personas se estará a lo dispuesto en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, según corresponda.
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 182.
 
@@ -2601,9 +2595,9 @@ Antes de resolver sobre la objeción planteada por una de las partes, el Juez es
 
 El valor probatorio del testimonio se calificará en la sentencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2012)</small>
+(NOTA: EL 3 DE JULIO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS RETROACTIVOS AL 10 DE JULIO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-ARTICULO 275 BIS.- Tratándose de los tipos descritos por los artículos 165 bis, 176, 318, 325, 357, 357 bis, 363 Bis, 432, 434 ó 439 párrafo primero del Código Penal para el Estado de Nuevo León, el Ministerio Público o la autoridad jurisdiccional correspondiente, antes del inicio de la diligencia se cerciorará en privado, a su satisfacción, de la identidad del testigo, se le preguntará a éste su nombre completo y se ordenará se le practique una prueba de ADN (ácido desoxirribonucleico), que será la única prueba con la que se demuestre la identidad del testigo. Con el resultado de dicha prueba, se iniciará la diligencia, se le tomará la protesta de decir verdad o se le exhortará a conducirse con verdad en caso de ser menor de edad, se le preguntará si se halla ligado con el inculpado, el ofendido o la víctima por vínculos de parentesco, amistad o cualquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos. El nombre del testigo lo guardará la autoridad bajo su responsabilidad.
+ARTICULO 275 BIS.- Tratándose de los tipos descritos por los artículos 165 bis, 176, 318, 325, 354, 355, 355 Bis, 432, 434 o 439 párrafo primero del Código Penal para el Estado de Nuevo León, así como de los delitos establecidos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, el Ministerio Público o la autoridad jurisdiccional correspondiente, antes del inicio de la diligencia se cerciorará en privado, a su satisfacción, de la identidad del testigo, se le preguntará a éste su nombre completo y se ordenará se le practique una prueba de ADN (ácido desoxirribonucleico), que será la única prueba con la que se demuestre la identidad del testigo. Con el resultado de dicha prueba, se iniciará la diligencia, se le tomará la protesta de decir verdad o se le exhortará a conducirse con verdad en caso de ser menor de edad, se le preguntará si se halla ligado con el inculpado, el ofendido o la víctima por vínculos de parentesco, amistad o cualquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos. El nombre del testigo lo guardará la autoridad bajo su responsabilidad.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
 
@@ -2617,9 +2611,9 @@ En estas diligencias y durante el proceso, la identidad del testigo se asentará
 
 En caso de que el testigo tenga que comparecer ante el Ministerio Público o la autoridad jurisdiccional en el proceso, si el testigo lo estima pertinente podrá presentarse de tal forma en que no pueda identificarse su apariencia física, su voz, así como otros rasgos particulares que lo hagan inconfundible, y se identificará con su registro de ADN (ácido desoxirribonucleico) que le será proporcionado por el Estado. Dicho registro será suficiente para los efectos de la identificación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2013)</small>
 
-ARTICULO 275 BIS 1.-. El Ministerio Público deberá mantener en reserva la identidad de las víctimas y la de las personas que declaren con el carácter de testigos, cuando hagan imputaciones directas en contra de personas a quienes se atribuya la comisión de delitos tipificados por los artículos 165 bis, 176, 318, 325, 357, 357 Bis, 363 Bis, 432, 434 ó 439 párrafo primero del Código Penal para el Estado de Nuevo León.
+ARTICULO 275 BIS 1.- El Ministerio Público deberá mantener en reserva la identidad de las víctimas y la de las personas que declaren con el carácter de testigos, cuando hagan imputaciones directas en contra de personas a quienes se atribuya la comisión de delitos tipificados en los artículos 165 bis, 176, 318, 325, 354, 355, 355 Bis, 432, 434 o 439 párrafo primero del Código Penal para el Estado de Nuevo León, así como de los delitos establecidos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
 (ADICIONADO, P.O. 13 DE MARZO DE 2007) (F. DE E., P.O. 18 DE ABRIL DE 2007)
 
@@ -5832,3 +5826,11 @@ DECRETO No. 072, POR EL QUE SE REFORMAN POR MODIFICACIÓN LOS ARTÍCULOS 182 BIS
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- La Procuraduría General de Justicia deberá emitir el protocolo de actuación para la investigación del delito de feminicidio, atendiendo a lo señalado en el presente Decreto.
+
+P.O. 10 DE JULIO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Lo anterior en los términos de los Artículos Transitorios Segundo y Quinto del decreto por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública publicado el 30 de noviembre de 2010 en el Diario Oficial de la Federación y los Artículos Transitorios Décimo y Décimo Primero del Decreto por el que se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos; y abroga la Ley para Prevenir y Sancionar la Trata de Personas; y reforma diversas disposiciones de la Ley Federal contra la Delincuencia Organizada; del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Orgánica del Poder Judicial de la Federación; de la Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública, publicado el 14 de junio de 2012 en el Diario Oficial de la Federación.
