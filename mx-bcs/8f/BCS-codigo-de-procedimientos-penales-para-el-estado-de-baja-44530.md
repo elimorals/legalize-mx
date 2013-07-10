@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-penales-para-el-estado-de-baja-44530"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-09-19"
-last_updated: "2013-05-07"
+last_updated: "2013-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO EN FORMA SUCESIVA Y TERRITORIALMENTE POR PARTIDO JUDICIAL DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIOS DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL EXTRAORDINARIO DEL B.O. DE 7 DE MAYO DE 2013, INICIANDO EN EL PARTIDO JUDICIAL DE COMONDÚ EL 1 DE JULIO DE DOS MIL CATORCE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -827,15 +827,35 @@ En vista de lo que exprese el interesado, el funcionario que haya impuesto la co
 
 ### CAPÍTULO I. ARRAIGO
 
+(NOTA: EL 21 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 22 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 113.
 
-El arraigo es una medida limitativa de libertad que sólo puede decretar la autoridad judicial, a solicitud del ministerio público, en los casos de delitos graves en que la averiguación previa no esté concluida y haya temor fundado de que el inculpado pueda evadir la acción de la justicia, antes de que se ejercite acción penal.
+El arraigo es una medida limitativa de libertad de una persona que sólo puede decretar la autoridad judicial, a solicitud del ministerio público en los casos de delitos graves en que la averiguación previa no esté concluida, haya temor fundado de que el inculpado pueda evadir la acción de la justicia antes de que se ejercite acción penal y se acredite la existencia de indicios suficientes para vincularla con esos delitos, siempre que durante la subsistencia de esta medida puedan allegarse mayores elementos probatorios en la investigación y se proteja la vida, la integridad de las personas y bienes jurídicos.
 
-La medida consistirá en prohibir al indiciado que abandone la ciudad sin autorización del juez que la haya decretado, por un término no mayor de treinta días improrrogables, bajo apercibimiento, en caso de incumplimiento, de que el arraigado incurrirá en el delito de desobediencia a un mandato de autoridad judicial, sin perjuicio de que la policía ministerial o, en su caso, la policía preventiva vigilen al arraigado y lo detengan por delito flagrante, en cuanto salga de los límites del Municipio en que opera la medida.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2013)</small>
+
+La medida consistirá en prohibir al indiciado que abandone la ciudad sin la autorización del juez que la haya decretado, por un término no mayor de veinte días improrrogables, bajo apercibimiento en caso de incumplimiento de que el arraigado incurrirá en el delito de desobediencia a un mandato de autoridad judicial, sin perjuicio de que la policía ministerial, o en su caso, la policía preventiva vigilen al arraigado y lo detengan por delito flagrante, en cuanto salga de los límites del municipio en que opera la medida.
 
 En el caso de que el sujeto arraigado no tenga domicilio en la jurisdicción del juzgado, el arraigo será necesariamente domiciliario, cualquiera que sea el delito cometido con tal de que sea de los delitos considerados como grave, pero el afectado podrá designar el lugar donde se cumplirá la medida, aunque se trate de un domicilio ajeno, siempre que lo autorice el titular de la vivienda.
 
-Cuando no sea posible el arraigo domiciliario, el ministerio público designará el lugar en que deba ejecutarse.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2013)</small>
+
+Cuando no sea posible el arraigo domiciliario el ministerio público propondrá el lugar en que deba ejecutarse, el cual deberá ser un lugar en el que se le preserven los derechos humanos, el trato digno, la comunicación con sus familiares y la defensa y la guarda de su integridad física, psicológica y moral.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE JULIO DE 2013)</small>
+
+Los organismos de protección de los derechos humanos a que se refiere el artículo 102 apartado b de la Constitución Política de los Estados Unidos Mexicanos, podrán revisar en todo momento la aplicación de esta medida y el cumplimiento de las condiciones aquí previstas a solicitud de la persona sujeta a ella o a su representante, en los términos que disponga la ley de la materia.
 
 ###### ARTÍCULO 114.
 
@@ -843,9 +863,17 @@ El juez del arraigo, analizará los argumentos y pruebas del ministerio público
 
 Cuando se otorgue la medida, se ordenará a la policía ministerial que haga comparecer ante el juez a la persona que deba arraigarse, a fin de que éste la escuche y revoque o confirme el arraigo, haciéndole los apercibimientos de ley, en caso de que se ratifique la medida.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE JULIO DE 2013)</small>
+
+El juez que otorgue la medida deberá cuidar que se cumplan a cabalidad los requisitos anteriores y se verifiquen las condiciones previstas en el artículo 113 de este mismo ordenamiento, apercibido de incurrir en incumplimiento de un deber legal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 115.
 
-En los casos de homicidio intencional, violación, secuestro, robo agravado y despojo con violencia, o cuando se trate de cualquier ilícito cometido por la delincuencia organizada, el ministerio público podrá ordenar el arraigo cuando se cumplan las condiciones y para los efectos previstos en el artículo 113 de este mismo ordenamiento, informando inmediatamente al juez competente para conocer de la causa, a fin de que confirme o revoque el arraigo ministerial en el término de 24 horas.
+(DEROGADO, B.O. 10 DE JULIO DE 2013)
 
 ###### ARTÍCULO 116.
 
@@ -1091,7 +1119,9 @@ IX.- Abigeato de ganado mayor o de sus crías, en cualquiera de las hipótesis p
 
 X.- Extorsión, previsto y sancionado por el artículo 318 del código penal;
 
-XI.- Receptación agravada, prevista en el artículo 322 del código penal;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
+
+XI.- Receptación agravada, prevista en los artículos 322 y 322 Bis del código penal;
 
 XII.- Daños intencionales, previsto en el artículo 325 del código penal;
 
@@ -3694,3 +3724,27 @@ Noveno.- Durante la vacatio legis de este código, deberán hacerse las adecuaci
 Décimo.- En términos del Transitorio Octavo del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 18 de junio de 2008, el Tribunal Superior de Justicia del Estado de Baja California Sur, la Procuraduría General de Justicia del Estado, la Defensoría Pública y cualquier Dependencia a la que impacte la entrada en vigor de este código, deberán elaborar y ejecutar los programas necesarios para su adecuada y correcta implementación.
 
 Décimo Primero.- El Congreso del Estado libre y Soberano de Baja California Sur, deberá expedir la declaratoria a que se refiere el último párrafo del artículo Transitorio Segundo, de la reforma constitucional publicada en el Diario Oficial de la Federación el 18 de junio de 2008.
+
+B.O. 10 DE JULIO DE 2013.
+
+DECRETO NÚMERO 2087, POR EL QUE SE REFORMAN LOS ARTÍCULOS 113 Y 114 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR Y SE DEROGA EL ARTÍCULO 115 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a los 60 días naturales después de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas disposiciones (sic) vigentes que se opongan al presente decreto en tanto no trastoquen el nuevo sistema de justicia penal derivado de la reforma de la Constitución Política de los Estados Unidos Mexicanos del 18 de junio de 2008.
+
+B.O. 10 DE JULIO DE 2013.
+
+DECRETO NÚMERO 2088, POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 148, DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
