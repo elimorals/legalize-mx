@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-extincion-de-dominio-para-el-estado-de-nuevo-leon-70601"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-25"
-last_updated: "2009-09-25"
+last_updated: "2013-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE NUEVO LEON
 
-LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE NUEVO LEON
+LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 25 de septiembre de 2009.
 
@@ -63,9 +63,13 @@ V. Ministerio Público: Ministerio Público del Estado;
 
 VI. Robo de Vehículo: Delito contemplado en los artículos 365 bis y 374 último párrafo del Código Penal para el Estado de Nuevo León;
 
-VII. Secuestro: Delito contemplado en los artículos 357 y 357 Bis del Código Penal para el Estado de Nuevo León; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
 
-VIII. Trata de personas: Delito contemplado en el artículo 363 bis del Código Penal para el Estado de Nuevo León.
+VII. Secuestro: Delito contemplado en cualquiera de sus modalidades en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+VIII. Trata de personas: Delito contemplado en cualquiera de sus modalidades en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
 ###### Artículo 3.
 
@@ -546,3 +550,13 @@ EL C. OFICIAL MAYOR DE GOBIERNO
 ALFREDO GERARDO GARZA DE LA GARZA
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE A LA PROMULGACIÓN DEL DECRETO NÚM. 417 EXPEDIDO POR EL H. CONGRESO DEL ESTADO, LXXI LEGISLATURA, EN FECHA 21 DE AGOSTO DE 2009, REMITIDO AL PODER EJECUTIVO EL DÍA 31 DE AGOSTO DE 2009.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE JULIO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Lo anterior en los términos de los Artículos Transitorios Segundo y Quinto del decreto por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública publicado el 30 de noviembre de 2010 en el Diario Oficial de la Federación y los Artículos Transitorios Décimo y Décimo Primero del Decreto por el que se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos; y abroga la Ley para Prevenir y Sancionar la Trata de Personas; y reforma diversas disposiciones de la Ley Federal contra la Delincuencia Organizada; del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Orgánica del Poder Judicial de la Federación; de la Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública, publicado el 14 de junio de 2012 en el Diario Oficial de la Federación.
