@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2008-03-31"
+last_updated: "2013-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -51,7 +51,7 @@ I.- Establecer bases de coordinación y cooperación entre las autoridades estat
 
 II.- Establecer las bases para la prevención, atención, sanción y erradicación de la violencia contra las mujeres de cualquier edad en el ámbito público o privado;
 
-lII.- Establecer las bases para diseñar el contenido de las políticas públicas, programas y acciones destinadas a erradicar la violencia de género y coadyuvar en la rehabilitación y reinserción social de los agresores de mujeres;
+III.- Establecer las bases para diseñar el contenido de las políticas públicas, programas y acciones destinadas a erradicar la violencia de género y coadyuvar en la rehabilitación y reinserción social de los agresores de mujeres;
 
 IV.- Garantizar que el sector público y privado apliquen, las medidas tendientes a erradicar la violencia contra las mujeres y les otorguen apoyos extraordinarios para garantizar su acceso a un (sic) vida libre de violencia y discriminación;
 
@@ -87,7 +87,7 @@ V. Pleno desarrollo y progreso de las mujeres.
 
 Para los efectos de la presente ley se entenderá por:
 
-l. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California Sur;
+I. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California Sur;
 
 II. Ley General: Ley General de Acceso de las Mujeres a una vida libre de violencia;
 
@@ -103,7 +103,7 @@ VII. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos en los
 
 VIII. Agresor: La persona física que ejecuta algún acto de violencia contra las mujeres, de los previstos en esta Ley; la persona moral o la institución pública que tolere actos violentos dentro de su ámbito o aplique políticas publicas, laborales o docentes discriminatorias;
 
-IX. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todos las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do para) y demás instrumentos internacionales en la materia;
+IX. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todos las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia;
 
 X. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres, a través de la cual se eliminan las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
@@ -111,13 +111,15 @@ XI. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres 
 
 XII. Autonomía: La facultad de autoderminarse (sic) eficiente y capaz;
 
-XIII. Acciones: Los mecanismos llevados a cabo por autoridades estatales, municipales y organizaciones privadas orientadas a prevenir y erradicar la violencia contra las mujeres;
+XIII. Acciones: Los mecanismos llevados a cabo por autoridades estatales, municipales y organizaciones privadas, orientadas a prevenir y erradicar la violencia contra las mujeres;
 
 XIV. Acciones Afirmativas: Las medidas especiales encaminadas a acelerar la igualdad y erradicar la violencia y la discriminación contra las mujeres;
 
-XV. Normas Oficiales: La norma oficial mexicana 190 y las demás que se expidan relativas a atención a las víctimas de violencia;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
-XVI. Políticas Publicas: Son el conjunto de orientaciones y directrices dictadas en las diversas instancias de gobierno, para asegurar los principios y derechos consagrados en la ley, para abatir las desigualdades entre las mujeres y hombres e impulsar los derechos humanos de las mujeres y su desarrollo pleno, con carácter obligatorio;
+XV. Normas Oficiales: La Norma Oficial Mexicana NOM-046-SSA2-2005 y las demás que se expidan relativas a la atención a las víctimas de violencia;
+
+XVI. Políticas Públicas: Son el conjunto de orientaciones y directrices dictadas en las diversas instancias de gobierno, para asegurar los principios y derechos consagrados en la ley, para abatir las desigualdades entre las mujeres y hombres e impulsar los derechos humanos de las mujeres y su desarrollo pleno, con carácter obligatorio;
 
 XVII. Transversalidad: La integración sistemática de la igualdad de oportunidades entre mujeres y hombres en la organización y la cultura, en todos los programas, políticas y prácticas, y en las maneras de ver y de hacer las cosas. Este enfoque estratégico incluye una serie de medidas de acción positiva, con el fin de fomentar el mismo trato para mujeres y hombres; y
 
@@ -143,7 +145,7 @@ V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la 
 
 VI.- Violencia de pareja.- Conjunto de agresiones psicológicas, físicas, sexuales y económicas que ocasionan algún daño psicológico, físico y lo patrimonial en la mujer, derivada de la asimetría de la pareja;
 
-VII. Violencia de Género.- Es el conjunto de amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, la subordinación, la discriminación y la explotación de las mujeres y que es consubstancial ala opresión de género en todas sus modalidades. La violencia de género contra las mujeres involucra tanto a las personas como a la sociedad, comunidades, relaciones, prácticas e instituciones sociales, y al Estado que la reproduce al no garantizar la igualdad, al perpetuar formas legales, jurídicas, judiciales, políticas androcéntricas y de jerarquía de género, y al no dar garantías de seguridad a las mujeres; y
+VII. Violencia de Género.- Es el conjunto de amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, la subordinación, la discriminación y la explotación de las mujeres y que es consubstancial a la opresión de género en todas sus modalidades. La violencia de género contra las mujeres involucra tanto a las personas como a la sociedad, comunidades, relaciones, prácticas e instituciones sociales, y al Estado que la reproduce al no garantizar la igualdad, al perpetuar formas legales, jurídicas, judiciales, políticas androcéntricas y de jerarquía de género, y al no dar garantías de seguridad a las mujeres; y
 
 VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
@@ -361,35 +363,63 @@ El Sistema Estatal se crea para prevenir, atender, sancionar y erradicar la viol
 
 Así mismo será objetivo del Sistema Estatal la vigilancia de la correcta aplicación de la Ley de Prevención y Atención Integral de la Violencia Familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 26.
 
-El Sistema Estatal se conformará por las personas titulares de las siguientes dependencias:
+El Sistema Estatal estará presidido por quien ejerza la titularidad del Poder Ejecutivo, así como por las personas titulares de las siguientes dependencias:
 
-I. Poder Ejecutivo del Estado;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
-II. La Procuraduría General de Justicia del Estado;
+I.- Procuraduría General de Justicia del Estado
 
-III. La Secretaría de Salud;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
-IV. Secretaría de Educación Pública;
+II.- Secretaría de Salud
 
-V. La Secretaría de Seguridad Pública;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
-> <small>(F. DE E., B.O. 20 DE AGOSTO DE 2008)</small>
+III.- Secretaría de Educación Pública
 
-VI. Secretaría de Promoción y Desarrollo Económico;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
-VII. Sistema Estatal para el Desarrollo de la Familia;
+IV.- Secretaría de Seguridad Pública
 
-VIII. Organismos municipales encargados de la protección de los derechos de las mujeres;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
-IX. El Poder Legislativo, a través de quienes presidan las Comisiones de Equidad de Género y de la Familia y Asistencia Pública del Congreso del Estado;
+V.- Secretaría de Promoción y Desarrollo Económico
 
-X. El Instituto Sudcaliforniano de la Mujer;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
-XI. Dirección de Trabajo y Previsión Social; y
+VI.- Secretaría del Trabajo y Previsión Social
 
-XII. Cinco representantes de la Sociedad Civil organizada que trabajen en materia de violencia contra mujeres.
+VII.- (DEROGADA, B.O. 10 DE JULIO DE 2013)
+
+VIII.- (DEROGADA, B.O. 10 DE JULIO DE 2013)
+
+IX.- (DEROGADA, B.O. 10 DE JULIO DE 2013)
+
+X.- (DEROGADA, B.O. 10 DE JULIO DE 2013)
+
+XI.- (DEROGADA, B.O. 10 DE JULIO DE 2013)
+
+XII.- (DEROGADA, B.O. 10 DE JULIO DE 2013)
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2013)</small>
+
+De igual forma, por quienes ostenten la titularidad de las direcciones del Instituto Sudcaliforniano de la Mujer y del Sistema Estatal para el Desarrollo Integral de la Familia;
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2013)</small>
+
+El Poder Legislativo estará representado por quienes presidan las Comisiones Permanentes de Igualdad de Género y de la Familia, la Salud y la Asistencia Pública.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2013)</small>
+
+La sociedad civil organizada tendrá cinco representantes que trabajen en materia de violencia contra las mujeres.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2013)</small>
+
+Los titulares de los organismos municipales encargados de la protección de los derechos de las mujeres también formarán parte del Sistema Estatal.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES COMPETENTES
 
@@ -451,9 +481,13 @@ III. Brindar por medio de las instituciones del sector salud de manera integral 
 
 IV. Crear programas de capacitación y sensibilización para el personal del sector salud en materia de violencia contra las mujeres y especialmente para la detección de este tipo de actos contra las mismas;
 
-V. Mediante la elaboración de programas de monitoreo continuo garantizar la atención a las mujeres afectadas de violencia y la aplicación de la NOM 190-SSA1-1999: Prestación de servicios de Salud. Criterios para la atención médica de la violencia familiar;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
-VI. Establecer una (sic) programa de coordinación intersectorial para la aplicación de la NOM 190-SSA1-1999; Prestación de servicios de Salud. Criterios para la atención médica de la violencia familiar; en que participen las instituciones públicas y privadas que prestan servicios de salud;
+V. Mediante la elaboración de programas de monitoreo contínuo garantizar la atención a las mujeres afectadas de violencia y la aplicación de la NOM-046-SSA2-2005. Violencia familiar, sexual y contra las mujeres. Criterios para la prevención y atención;
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
+
+VI. Establecer un programa de coordinación intersectorial para la aplicación de la NOM-046-SSA2-2005. Violencia familiar, sexual y contra las mujeres. Criterios para la prevención y atención, en que participen las instituciones públicas y privadas que prestan servicios de salud;
 
 VII. Establecer programas y servicios profesionales eficaces, con horario de veinticuatro horas en las dependencias públicas que atiendan a las receptoras de violencia;
 
@@ -461,7 +495,9 @@ VIII. Brindar servicios psicológicos integrales a las personas agresoras, a fin
 
 IX. Difundir en las instituciones del sector salud, material referente a la prevención, y atención de la violencia contra las mujeres, tanto para el personal aplicativo como para los usuarios de los servicios;
 
-X. Canalizar a las mujeres hacia las instituciones que prestan atención y protección especializada, usando los mecanismos oficiales como formatos de referencia y los anexos I y II de la NOM 190-SSA1-1999;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
+
+X. Canalizar a las mujeres hacia las instituciones que prestan atención y protección especializada, usando los mecanismos oficiales como formatos de referencia y los apéndices informativos I y II de la NOM-046-SSA2-2005;
 
 XI. Asegurar que mejore la calidad de atención, que se preste a las mujeres afectadas incorporando en la atención la perspectiva de género y el empoderamiento;
 
@@ -539,7 +575,7 @@ II. Capacitar en los términos de la presente ley, al personal de las diferentes
 
 III. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
 
-IV. Establecer acciones y medidas que se deberán tomar para la reeducación e reinserción social de las personas;
+IV. Establecer acciones y medidas que se deberán tomar para la reeducación e (sic) reinserción social de las personas;
 
 V. Integrar el banco estatal de datos e información acerca de casos de violencia contra las mujeres;
 
@@ -565,7 +601,7 @@ III. Diseñar e implantar talleres para la capacitación en ramos productivos no
 
 IV. Proponer al Ejecutivo Estatal, la celebración de convenios de cooperación, coordinación y concertación con los municipios e instituciones educativas públicas y privadas para cumplir con los objetivos de esta ley; y
 
-Las demás previstas en esta ley y los ordenamientos legales de la materia.
+V. Las demás previstas en esta ley y los ordenamientos legales de la materia.
 
 #### SECCIÓN OCTAVA. DEL PODER LEGISLATIVO
 
@@ -886,3 +922,9 @@ NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 NABOR GARCÍA AGUIRRE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE JULIO DE 2013.
+
+Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
