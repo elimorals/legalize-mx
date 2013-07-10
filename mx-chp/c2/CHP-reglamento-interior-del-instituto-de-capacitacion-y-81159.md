@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-capacitacion-y-81159"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-06"
-last_updated: "2011-04-06"
+last_updated: "2013-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION Y VINCULACION TECNOLOGICA DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION Y VINCULACION TECNOLOGICA DEL ESTADO DE CHIAPAS
+REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN Y VINCULACIÓN TECNOLÓGICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 6 de abril de 2011.
 
@@ -53,9 +53,11 @@ El Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas,
 
 El Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas, tiene como objetivo principal garantizar la integración y fortalecimiento de las actividades económicas motoras del Estado y fomentar una mejora continua de la competitividad laboral, a través de la oferta de servicios de capacitación, asesoría, vinculación, investigación e información, basados en normas de calidad, que atiendan eficazmente las necesidades tecnológicas del sector productivo.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+
 ###### Artículo 4°.
 
-El Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas, en coordinación con las Dependencias y sus Órganos Desconcentrados, Entidades y Unidades del Poder Ejecutivo, Federal, Estatal y Municipal, impulsarán los objetivos contemplados en el Plan de Desarrollo Chiapas Solidario 2007-2012, en congruencia con el Plan Nacional de Desarrollo.
+El Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas, en coordinación con las Dependencias y sus Órganos Desconcentrados, Entidades y Unidades del Poder Ejecutivo Federal, Estatal y Municipal impulsarán los objetivos contemplados en el Plan Estatal de Desarrollo, Chiapas Sustentable en congruencia con el Plan Nacional de Desarrollo 2012-2018.
 
 ###### Artículo 5°.
 
@@ -77,9 +79,17 @@ VII. Decreto de Creación: Al Decreto por el que se crea el Instituto de Capacit
 
 VIII. Reglamento Interior: Al Reglamento Interior del Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas.
 
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2013)</small>
+
+IX. Centro de Trabajo Acción Móvil: Conjunto de recursos humanos, científicos, técnicos y materiales que por necesidades de la operatividad de "EL ICATECH" se instalan en diferentes municipios del Estado para ofertar cursos de capacitación a la población en general.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2013)</small>
+
+X. Aulas Móviles de Capacitación: Es un programa estratégico, creado a través de Aulas Móviles para impartir cursos de capacitación para el trabajo en diferentes especialidades; mismas que recorren las regiones marginadas que integran los municipios del Estado de Chiapas, adecuándose a las necesidades de cada localidad.
+
 ###### Artículo 6°.
 
-Los titulares de los Órganos Administrativos que integran "EL lCATECH", coordinarán y supervisarán la creación y mantenimiento de los archivos a su cargo, así como la Clasificación de los documentos en los términos de la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas.
+Los titulares de los Órganos Administrativos que integran "EL ICATECH", coordinarán y supervisarán la creación y mantenimiento de los archivos a su cargo, así como la Clasificación de los documentos en los términos de la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas.
 
 ## Título Segundo. De la Organización de "EL ICATECH" y Atribuciones del Director General
 
@@ -89,7 +99,7 @@ Los titulares de los Órganos Administrativos que integran "EL lCATECH", coordin
 
 Para la realización de los estudios, conducción, planeación, ejecución y desempeño de las atribuciones, así como para el despacho de los asuntos de su competencia "EL ICATECH", tendrá los Órganos Administrativos siguientes:
 
-l. Dirección General.
+I. Dirección General.
 
 II. Comisaría.
 
@@ -121,6 +131,14 @@ f) Unidad de Capacitación Villaflores.
 
 g) Unidad de Capacitación Jiquipilas.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2013)</small>
+
+h) Unidad de Capacitación Catazajá.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2013)</small>
+
+i) Unidad de Capacitación Yajalón.
+
 ###### Artículo 8°.
 
 El Director General, para el cumplimiento de sus atribuciones, contará con la estructura administrativa y plantilla de plazas de personal necesaria, de conformidad con el presupuesto de egresos autorizado a "EL ICATECH".
@@ -131,11 +149,13 @@ Para el despacho de los asuntos competencia de "EL ICATECH", los Titulares de lo
 
 ###### Artículo 10.
 
-El desempeño de los servidores públicos de "EL lCATECH", se regirá por los principios de Legalidad, Honradez, Lealtad, Imparcialidad y Eficiencia, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas y demás disposiciones legales aplicables.
+El desempeño de los servidores públicos de "EL ICATECH", se regirá por los principios de Legalidad, Honradez, Lealtad, Imparcialidad y Eficiencia, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
 
 ###### Artículo 11.
 
-"EL ICATECH", a través de su estructura orgánica, conducirá y desarrollará sus atribuciones de forma planeada y programada, con sujeción a los objetivos, estrategias y prioridades que establezca el Plan de Desarrollo Chiapas Solidario 2007-2012, su Decreto de Creación, el presente Reglamento con bases en las políticas, prioridades, restricciones y disposiciones que determine el Ejecutivo del Estado; así como las demás disposiciones aplicables.
+"El ICATECH", a través de su estructura orgánica conducirá y desarrollará atribuciones de forma planeada y programada, con sujeción a los objetivos, estrategias y prioridades que se establezca en el Plan Estatal de Desarrollo, su Decreto de Creación, el presente reglamento con base en las políticas públicas, prioridades, restricciones y disposiciones que determine el Ejecutivo del Estado; así como las demás disposiciones aplicables.
 
 ### Capítulo II. De las Atribuciones del Director General
 
@@ -149,7 +169,9 @@ El Director General, tendrá las atribuciones Delegables siguientes:
 
 I. Representar legalmente a "EL ICATECH", como apoderado legal para pleitos y cobranzas y actos de administración, ante toda clase de autoridades, organismos, instituciones y personas públicas o privadas, nacionales e internacionales, con todas las facultades generales y especiales que de acuerdo con la ley requieran autorización o cláusula especial, conforme a lo previsto en las leyes aplicables de la Entidad y el presente Reglamento.
 
-II. La representación a que se refiere esta fracción, comprende el ejercicio de todo tipo de acciones, y constituye una representación amplísima, la cual podrá ser delegable mediante los poderes especiales o generales que se requieran de acuerdo a las necesidades de "EL ICATECH".
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+II. La representación a que se refiere la fracción anterior, comprende el ejercicio de todo tipo de acciones, y constituye una representación amplísima, la cual podrá ser delegable mediante los poderes especiales o generales que se requieran de acuerdo a las necesidades de "EL ICATECH".
 
 III. Vigilar que las acciones de "EL ICATECH", se realicen de conformidad con las normas, políticas y procedimientos establecidos.
 
@@ -161,7 +183,9 @@ VI. Suscribir y celebrar convenios específicos de conformidad con las actividad
 
 VII. Expedir las identificaciones oficiales del personal adscrito a "EL ICATECH".
 
-VIII. Otorgar vacaciones del personal de "EL ICATECH", que en los términos de Ley resulte procedente, en función de las necesidades del servicio.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+VIII. Otorgar permisos y vacaciones del personal de "EL ICATECH", que en los términos de Ley resulte procedente, en función de las necesidades del servicio.
 
 IX. Participar en las Comisiones, Congresos, Consejos, Instituciones, Entidades, Reuniones, Juntas y Organizaciones Nacionales e Internacionales, en el ámbito de competencia de "EL ICATECH".
 
@@ -179,11 +203,19 @@ XV. Promover los programas y proyectos relacionados con la capacitación y vincu
 
 XVI. Implementar acciones necesarias para el buen funcionamiento de las Unidades de Capacitación, Centros de Trabajo Acción Móvil, mediante el suministro y/o adquisición de maquinaria, equipos, materias primas e insumos.
 
-XVII. Presidir las reuniones del Subcomité de Adquisiciones, Arrendamiento y Servicios de Bienes Muebles de "EL ICATECH", de conformidad con las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+XVII. Presidir las reuniones del Subcomité de Adquisiciones, Arrendamiento y Servicios de Bienes Muebles y demás órganos colegiados que al interior de "EL ICATECH" se conformen, con apego a las disposiciones legales aplicables.
 
 XVIII. Participar en las sesiones de la Junta Directiva, de conformidad con las disposiciones jurídicas aplicables.
 
-XIX. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, la Junta Directiva, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+XIX. Implementar las acciones correspondientes para el procedimiento de baja, donación, permuta, dación en pago, destrucción de bienes muebles propiedad de "EL ICATECH", en caso de desperfecto, deterioro por uso, robo o extravío, con apego a la normatividad legal aplicable.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2013)</small>
+
+XX. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, la Junta Directiva, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 14.
 
@@ -195,9 +227,13 @@ II. Promover las inversiones estratégicas a través de la participación privad
 
 III. Presentar a la Junta Directiva para su aprobación, el proyecto de Reglamento Interior y Manuales Administrativos de "EL ICATECH", así como las modificaciones que éstos requieran.
 
-IV. Presentar al Ejecutivo del Estado las iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás disposiciones jurídicas, en materia de capacitación y vinculación tecnológica, competencia de "EL ICATECH".
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
 
-V. Celebrar o suscribir contratos, convenios y demás actos jurídicos relacionados con los asuntos competencia de "EL ICATECH".
+IV. Presentar al Ejecutivo del Estado las iniciativas de leyes, decretos, reglamentos y acuerdos que en materia de capacitación, tenga competencia "EL ICATECH".
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+V. Celebrar o suscribir contratos, convenios generales, acuerdos y demás actos jurídicos relacionados con los asuntos que tenga competencia "EL ICATECH".
 
 VI. Presentar ante la Dependencia Normativa correspondiente, previa aprobación de la Junta Directiva, el Anteproyecto de Presupuestos de Egresos, Programa Operativo Anual, la Cuenta de la Hacienda Pública y Proyectos de Tecnología de Información.
 
@@ -207,7 +243,9 @@ VIII. Participar en las sesiones de la Junta Directiva, ejecutar los acuerdos e 
 
 IX. Otorgar y revocar poderes generales, aún aquellas en las que requieran cláusula especial.
 
-X. Presentar a la Junta Directiva para su aprobación, los programas y proyectos de apoyos financieros, becas o exenciones de pago de los capacitandos, desempleados, creación de bolsa de trabajo, seguimiento de egresados, capacitación en apoyo a proyectos productivos y operación de Acción Móvil de capacitación.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+X. Presentar a la Junta Directiva para su aprobación, los programas y proyectos de apoyos financieros de "EL ICATECH".
 
 XI. Proponer a la Junta Directiva, la actualización permanente de los programas de formación de instructores de capacitación para contar con personal académico calificado para la impartición de los programas de capacitación.
 
@@ -215,7 +253,17 @@ XII. Presentar a la Junta Directiva, la actualización de los programas de capac
 
 XIII. Otorgar el ingreso, promoción, remoción, cambio de adscripción, comisiones y demás movimientos nominales, del personal adscrito a "EL ICATECH".
 
-XIV. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, la Junta Directiva, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+XIV. Informar a la Junta Directiva, sobre la creación de bolsa de trabajo, seguimiento de egresados y capacitación en apoyo a proyectos productivos.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2013)</small>
+
+XV. Otorgar estímulos económicos a los trabajadores de "EL ICATECH", conforme a lo dispuesto en los Artículos 366 y 367 del Código de la Hacienda Pública para el Estado de Chiapas.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2013)</small>
+
+XVI. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, la Junta Directiva, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ## Título Tercero. De los Órganos Administrativos del Instituto
 
@@ -237,7 +285,9 @@ V. Vigilar el cumplimiento y proponer iniciativas de Leyes, Reglamentos, Decreto
 
 VI. Proponer al Director General, las normas, políticas y procedimientos en la materia que les corresponda, a efecto de eficientar la actuación de "EL ICATECH".
 
-VII. Participar cuando así se le designe, como vocal del Subcomité de Adquisiciones, Arrendamientos y Servicios de Bienes Muebles de "EL ICATECH", en apego a las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+VII. Participar cuando así se le designe, como vocal del Subcomité de Adquisiciones, Arrendamiento y Servicios de Bienes Muebles y demás órganos colegiados que al interior de "EL ICATECH" se conformen, en apego a las disposiciones legales aplicables.
 
 VIII. Proporcionar la documentación, opiniones e informes que en el ámbito de su competencia le sean solicitados por el Director General.
 
@@ -255,9 +305,17 @@ XIV. Proponer la celebración de acuerdos, contratos y convenios de colaboració
 
 XV. Otorgar comisiones, vacaciones y demás incidencias del personal de su adscripción, que en términos de ley resulte procedente en función de las necesidades del servicio.
 
-XVI. Comunicar al personal a su cargo, las remociones o cambios de adscripción a que sean sometidos.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
 
-XVII. Las demás atribuciones que en el ámbito de su competencia les sean encomendadas por el Director General, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+XVI. Comunicar al personal a su cargo las remociones o cambios de adscripción a que sean sometidos por instrucciones de su superior jerárquico.
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+XVII. Ejecutar las acciones correspondientes para el procedimiento de baja, donación, permuta, dación en pago, destrucción de bienes muebles propiedad de "EL ICATECH" en caso de desperfecto, deterioro por el uso y paso del tiempo, robo o extravío, cuando así corresponda, de conformidad con la normatividad legal aplicable.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2013)</small>
+
+XVIII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Director General, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ### Capítulo II. De la Integración de la Unidad Jurídica, Unidad Ejecutiva y Atribuciones de sus Titulares
 
@@ -271,7 +329,7 @@ La representación a que se refiere esta fracción, comprende el desahogo de tod
 
 II. Presentar, contestar demandas denuncias y querellas o en su caso el desistimiento, rendir informes, ofrecer pruebas, formular alegatos y presentar toda clase de recursos, en los juicios de amparo y demás medios de control constitucional Federales y Estatales del Ministerio Público competente, ofrecer pruebas, formular conclusiones en los casos que "EL ICATECH" sea señalado cómo autoridad responsable, tercero perjudicado o tengan algún interés jurídico.
 
-III.·Compilar y difundir las Leyes, Reglamentos, Decretos, Acuerdos y demás normas jurídicas relacionadas con las atribuciones de "EL ICATECH".
+III. Compilar y difundir las Leyes, Reglamentos, Decretos, Acuerdos y demás normas jurídicas relacionadas con las atribuciones de "EL ICATECH".
 
 IV. Aplicar las políticas, normas y procedimientos que en materia jurídica sean competencia de "EL ICATECH".
 
@@ -279,9 +337,13 @@ V. Proporcionar asesoría jurídica al Director General y a los Órganos Adminis
 
 VI. Proponer al Director General, proyectos de iniciativas de Leyes, Reglamentos, Decretos o Acuerdos para mantener actualizado su marco jurídico, asimismo, sistematizar y difundir los criterios de su interpretación y aplicación.
 
-VlI. Emitir opinión, dictaminar y validar la procedencia jurídica de documentos oficiales y demás actos que en relación a sus atribuciones emita o deba suscribir de "EL ICATECH".
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
 
-VIII. Vigilar el cumplimiento de las disposiciones jurídicas en las acciones de los Órganos Administrativos que conforman EL ICATECH".
+VII. Emitir opinión, dictaminar y validar la procedencia jurídica de documentos oficiales de "EL ICATECH"; así como los actos que en relación a sus atribuciones emita o deba suscribir.
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+VIII. Vigilar el cumplimiento de las disposiciones jurídicas en los actos de los Órganos Administrativos que conforman "EL ICATECH".
 
 IX. Expedir y certificar cuando proceda, las copias de documentos o constancias que obren en los archivos de "EL ICATECH".
 
@@ -289,7 +351,9 @@ X. Substanciar los procedimientos administrativos que conforme a la Ley aplicabl
 
 XI. Promover la publicación en el Periódico Oficial o en otros medios de difusión los Decretos, Reglamentos, Lineamientos, Acuerdos y otras disposiciones legales, que sean competencia de "EL ICATECH", previa autorización de la Junta Directiva.
 
-XII. Tramitar la regulación jurídica de los bienes inmuebles de "EL ICATECH" y resguardar los documentos que lo acrediten.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+XII. Tramitar la regularización jurídica de los bienes inmuebles de "EL ICATECH" y resguardar los documentos que lo acrediten.
 
 XIII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Director General, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
@@ -309,7 +373,9 @@ I. Vigilar el adecuado funcionamiento de EL ICATECH", conforme a las políticas 
 
 II. Establecer relaciones de coordinación con los Órganos Administrativos que integran "EL ICATECH", para el adecuado desarrollo de sus actividades.
 
-III. Dar seguimiento a los acuerdos emitidos por la Dirección General a los Órganos Administrativos de "EL ICATECH".
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+III. Dar seguimiento y vigilar el cumplimiento de los acuerdos e instrucciones emitidas por el Director General a los Órganos Administrativos de "EL ICATECH".
 
 IV. Vigilar el cumplimiento de las instrucciones emitidas por el Director General a los Órganos Administrativos de "EL ICATECH".
 
@@ -361,7 +427,7 @@ IX. Generar la Cuenta de la Hacienda Pública de "EL ICATECH", a través del reg
 
 X. Generar oportunamente los pagos a proveedores y prestadores de servicios de "EL ICATECH" previo análisis y cumplimiento de los requisitos necesarios para la documentación comprobatoria.
 
-XI. Vigilar el cumplimiento de la solventación a las observaciones generadas en las auditorías practicadas·a "EL ICATECH".
+XI. Vigilar el cumplimiento de la solventación a las observaciones generadas en las auditorías practicadas a "EL ICATECH".
 
 XII. Vigilar conjuntamente con la Dependencia Normativa, la aplicación de los procesos para la entrega-recepción de los Órganos Administrativos de "EL ICATECH", acorde a la normatividad aplicable.
 
@@ -443,13 +509,15 @@ X. Proponer al Director General, la aplicación de los programas de "Formación 
 
 XI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Director General, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+
 ###### Artículo 25.
 
 La Dirección de Vinculación con el Sector Productivo, estará integrada por los Órganos Administrativos siguientes:
 
-a) Departamento de Gestión Empresarial.
+a) Departamento de Vinculación Empresarial y Gubernamental.
 
-b) Departamento de Gestión Social.
+b) Departamento de Vinculación Social.
 
 ###### Artículo 26.
 
@@ -465,11 +533,25 @@ IV. Proponer y fortalecer la vinculación con los diferentes sectores de la soci
 
 V. Establecer los mecanismos para promover la incorporación de los egresados de "EL ICATECH" en el mercado laboral.
 
-VI. Promover entre los sectores productivo, educativo, público, privado y social, los servicios que ofrece "EL ICATECH".
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
 
-VII. Vigilar que las Unidades de Capacitación ejecuten el Programa "Seguimiento de Egresados" de "EL ICATECH".
+VI. Promover las actividades de Capacitación, organizando exposiciones, concursos, talleres, demostraciones conferencias y demás actividades que fortalezcan a las Unidades de Capacitación y Centros de Trabajo Acción Móvil.
 
-VIII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Director General, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+VII. Promover entre los Sectores Productivos, Educativos, Públicos, Privados y Sociales los servicios que ofrece "EL ICATECH".
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+VIII. Vigilar que las Aulas Móviles ejecuten los Programas Estratégicos de Capacitación en los municipios donde sean solicitados.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2013)</small>
+
+IX. Vincular con las autoridades municipales los Convenios Específicos para la instalación de las Aulas Móviles de Capacitación.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2013)</small>
+
+X. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Director General, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ### Capítulo IV. De la Integración de las Unidades de Capacitación y Atribuciones de sus Titulares
 
@@ -477,47 +559,95 @@ VIII. Las demás atribuciones que en el ámbito de su competencia le sean encome
 
 Las Unidades de Capacitación, contarán con los Órganos Administrativos siguientes:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
+
 a) Unidad de Capacitación Tuxtla Gutiérrez:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
 
 Centro de Trabajo Acción Móvil Berriozábal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JULIO DE 2013)</small>
+
+Centro de Trabajo Acción Móvil Venustiano Carranza.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JULIO DE 2013)</small>
+
+Centro de Trabajo Acción Móvil 20 de Noviembre.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JULIO DE 2013)</small>
+
+Centro de Trabajo Acción Móvil Chiapa de Corzo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
+
 Delegación Administrativa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JULIO DE 2013)</small>
+
+Centro de Trabajo Acción Móvil Soyaló.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JULIO DE 2013)</small>
+
+Centro de Trabajo Acción Móvil Copainalá.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JULIO DE 2013)</small>
+
+Centro de Trabajo Acción Móvil Jitotol.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
 
 Departamento de Vinculación.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
+
 Departamento Académico.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
 
 b) Unidad de Capacitación Comitán:
 
-Centro de Trabajo Acción Móvil Motozintla.
+Centro de Trabajo Acción Móvil Teopisca.
 
 Delegación Administrativa.
 
 Departamento de Vinculación.
 
 Departamento Académico.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
 
 c) Unidad de Capacitación Tapachula:
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JULIO DE 2013)</small>
+
+Centro de Trabajo Acción Móvil Tuzantán
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
+
 Delegación Administrativa.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
 
 Departamento de Vinculación.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
+
 Departamento Académico.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
 
 d) Unidad de Capacitación Reforma:
 
-Centro de Trabajo Acción Móvil Simojovel.
-
-Centro de Trabajo Acción Móvil Jitotol
-
 Delegación Administrativa.
 
 Departamento de Vinculación.
 
 Departamento Académico.
 
-e) Unidad de Capacitación Tonalá:
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
+
+e) Unidad de Capacitación Tonalá.
 
 Centro de Trabajo Acción Móvil Arriaga.
 
@@ -527,7 +657,9 @@ Departamento de Vinculación.
 
 Departamento Académico.
 
-f) Unidad de Capacitación Villaflores:
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
+
+f) Unidad de Capacitación Villaflores.
 
 Delegación Administrativa.
 
@@ -535,7 +667,43 @@ Departamento de Vinculación.
 
 Departamento Académico.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
+
 g) Unidad de Capacitación Jiquipilas:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JULIO DE 2013)</small>
+
+Centro de Trabajo Acción Móvil Cintalapa.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
+
+Delegación Administrativa.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
+
+Departamento de Vinculación.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2013)</small>
+
+Departamento Académico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JULIO DE 2013)</small>
+
+h) Unidad de Capacitación Catazajá:
+
+Centro de Trabajo Acción Móvil Salto de Agua.
+
+Delegación Administrativa.
+
+Departamento de Vinculación.
+
+Departamento Académico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JULIO DE 2013)</small>
+
+i) Unidad de Capacitación Yajalón:
+
+Centro de Trabajo Acción Móvil Ocosingo.
 
 Delegación Administrativa.
 
@@ -557,7 +725,9 @@ IV. Vigilar la correcta operación de las instalaciones y equipo, procurando las
 
 V. Vigilar la aplicación de los sistemas de control de las Unidades de Capacitación y de los Centros de Trabajo Acción Móvil, implementados por la Dirección Administrativa y la Dirección Técnica Académica.
 
-VI. Promover las actividades de capacitación, organizando exposiciones, concursos, talleres, demostraciones, conferencias y demás actividades que fortalezcan la capacitación de las Unidades de Capacitaciones y Centros de Trabajos Acción Móvil.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+VI. Promover las actividades de capacitación, organizando exposiciones, concursos, talleres, demostraciones, conferencias y demás actividades que fortalezcan a las Unidades de Capacitación y Centros de Trabajo Acción Móvil.
 
 VII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Director General, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
@@ -600,3 +770,15 @@ Artículo Sexto.- En cumplimiento al artículo 8°, de la Ley Orgánica de la Ad
 Dado en el Salón de Sesiones de la Junta Directiva del Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas; en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 22 días del mes (sic) septiembre del año dos mil diez.
 
 Integrantes de la Junta Directiva: Presidente: Esther Almazán Torres, Secretaría del Trabajo.- Vocales: Carlos Jair Jiménez Bolaños Cacho, Secretario de Hacienda.- Javier Álvarez Ramos, Secretario de Educación.- Josefa López Ruiz de Laddaga, Titular de la Oficina de Servicios Federales de Apoyo a la Educación en el Estado de Chiapas.- Bernardo Cisneros Buenfil, Director General de Centros de Formación para el Trabajo de la SEP.- Secretario Técnico: Jorge Luis Navarro Lara, Director de Planeación de "EL ICATECH".- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE JULIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- El Instituto deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca el Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas.
+
+Artículo Cuarto.- Conforme a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
