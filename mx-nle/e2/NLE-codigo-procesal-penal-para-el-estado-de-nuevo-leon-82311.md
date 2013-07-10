@@ -4,7 +4,7 @@ identifier: "NLE-codigo-procesal-penal-para-el-estado-de-nuevo-leon-82311"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-07-05"
-last_updated: "2013-06-26"
+last_updated: "2013-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el martes 5 de julio de 2011.
 
@@ -1603,7 +1603,9 @@ XIX. Tener acceso a los registros durante todo el procedimiento y a obtener copi
 
 XX. A que se le repare el daño causado por el delito, pudiendo solicitarlo directamente al Juez, sin perjuicio de que el lo solicite;
 
-XXI. Al resguardo de su identidad y demás datos personales en los siguientes casos: cuando sean menores de edad, cuando se trate de delitos de violación, secuestro o cuando a juicio del juzgador sea necesario para su protección y dignidad;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2013)</small>
+
+XXI. Al resguardo de su identidad y demás datos personales en los siguientes casos: cuando sean menores de edad, cuando se trate de delitos de violación, privación ilegal de la libertad, secuestro, trata de personas o cuando a juicio del juzgador sea necesario para su protección y dignidad;
 
 XXII. Ser notificado del desistimiento de la acción penal y de todas las resoluciones que finalicen el proceso;
 
@@ -1999,9 +2001,15 @@ I. Que la medida sea adecuada porque su imposición cumplirá con el objetivo qu
 
 II. Que el resultado pretendido por la imposición de la medida, no pueda obtenerse con la imposición de una medida menos gravosa.
 
-Con independencia de las reglas mencionadas en las fracciones anteriores, la prisión preventiva se impondrá de oficio, en los siguientes delitos previstos en el Código Penal para el Estado:
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
 
-Rebelión en todas sus modalidades; terrorismo; delincuencia organizada y agrupación delictuosa; contra la seguridad de la comunidad, a que se refiere el Artículo 165 Bis; corrupción de menores o personas privadas de la voluntad y pornografía infantil, en los casos a que hacen referencia en los Artículos 196, fracciones I y II; 197; 201 Bis; 201 Bis 2; lenocinio a que se refiere el Artículo 202 fracción IV; violación y violación equiparada en todas sus modalidades; homicidios dolosos; parricidio; privación ilegal de la libertad en su carácter de secuestro y su figura equiparada prevista en el Artículo 357 Bis; robo cometido por métodos violentos, y trata de personas.
+Con independencia de las reglas mencionadas en las fracciones anteriores, la prisión preventiva se impondrá de oficio, en los siguientes delitos:
+
+(NOTA: EL 3 DE JULIO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2013, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PENÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS RETROACTIVOS AL 10 DE JULIO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+
+REBELIÓN EN TODAS SUS MODALIDADES; TERRORISMO; DELINCUENCIA ORGANIZADA Y AGRUPACIÓN DELICTUOSA; CONTRA LA SEGURIDAD DE LA COMUNIDAD, A QUE SE REFIERE EL ARTÍCULO 165 BIS; corrupción de menores o personas privadas de la voluntad y pornografía infantil, en los casos a que hacen referencia en los Artículos 196, fracciones I y II; 197; 201 Bis; 201 Bis 2; lenocinio a que se refiere el Artículo 202 fracción IV; violación y violación equiparada en todas sus modalidades; homicidios dolosos; PARRICIDIO; PRIVACIÓN ILEGAL DE LA LIBERTAD A QUE SE REFIERE LOS ARTÍCULOS 354, 355 Y 355 BIS; Y ROBO COMETIDO POR MÉTODOS VIOLENTOS, PREVISTOS EN EL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN, ADEMÁS LOS DELITOS ESTABLECIDOS EN LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, Y EN LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, según corresponda.
 
 Tratándose de otros delitos, podrá aplicarse la prisión preventiva u otras medidas cautelares, siempre que resulten procedentes de conformidad con las disposiciones de este Título.
 
@@ -4153,7 +4161,9 @@ Las personas señaladas en este articulo que no estén obligadas a concurrir al 
 
 Testimonios especiales.
 
-Cuando deba recibirse testimonio de menores de edad, víctimas de los delitos de violación o secuestro, sin perjuicio de la fase en que se encuentre el proceso, se podrá designar personal capacitado en psiquiatría, psicología, trabajo social o cualquier otro con conocimientos del ramo, preferentemente con certificación profesional, para la atención y asistencia en las diligencias en que participe la víctima u ofendido menor de edad, actuando, de estimarse pertinente, como intermediario para que no se establezca debate directo entre el menor y el inculpado. El Juez deberá tomar las medidas pertinentes cuando la víctima o el ofendido sean mayores de edad con discapacidad mental y se encuentre en el supuesto anterior.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+
+Cuando deba recibirse testimonio de menores de edad, víctimas de los delitos de violación, privación ilegal de la libertad, secuestro o trata de personas, sin perjuicio de la fase en que se encuentre el proceso, se podrá designar personal capacitado en psiquiatría, psicología, trabajo social o cualquier otro con conocimientos del ramo, preferentemente con certificación profesional, para la atención y asistencia en las diligencias en que participe la víctima u ofendido menor de edad, actuando, de estimarse pertinente, como intermediario para que no se establezca debate directo entre el menor y el inculpado. El Juez deberá tomar las medidas pertinentes cuando la víctima o el ofendido sean mayores de edad con discapacidad mental y se encuentre en el supuesto anterior.
 
 La misma regla podrá aplicarse cuando algún menor de edad deba declarar por cualquier motivo.
 
@@ -5371,7 +5381,9 @@ A partir del 1º de enero de 2015 se adicionarán para su procesamiento los deli
 
 Artículo 150, 151, 152, 153, 154, 158, 160, 161, 163, 164, 165, 265, 266, 267, 268, 271, 364 en relación al 367 fracción III, 369, 381, 383, 384, 385, 386, 387, 387 Bis, 391, 392, 396, 397, 401, 406 Bis, 410 segundo párrafo en relación al 409 fracción IV, 427, 428, 429, 431.
 
-A partir de 1º de enero de 2016, se aplicará a todos los delitos tipificados en el Código Penal para el Estado de Nuevo León y a otros delitos especiales previstos en los ordenamientos legales.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+
+A partir de 1º de enero de 2016, se aplicará a todos los delitos tipificados en el Código Penal para el Estado de Nuevo León; a otros delitos especiales previstos en los ordenamientos legales; al delito de secuestro en cualquiera de sus modalidades establecidas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y al delito de trata de personas en cualquiera de sus modalidades que dispone la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
 Para aquéllos delitos que de acuerdo con las reglas anteriores aún no les fuera aplicable el Código establecido en el presente Decreto, se seguirá aplicando el Código de Procedimientos Penales del Estado de Nuevo León publicado en el Periódico Oficial del Estado en fecha 28 de marzo de 1990 y sus reformas.
 
@@ -5426,3 +5438,11 @@ Segundo.- Los tratamientos derivados del perdón condicionado del Artículo 111 
 P.O. 26 DE JUNIO DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 10 DE JULIO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Lo anterior en los términos de los Artículos Transitorios Segundo y Quinto del decreto por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública publicado el 30 de noviembre de 2010 en el Diario Oficial de la Federación y los Artículos Transitorios Décimo y Décimo Primero del Decreto por el que se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos; y abroga la Ley para Prevenir y Sancionar la Trata de Personas; y reforma diversas disposiciones de la Ley Federal contra la Delincuencia Organizada; del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Orgánica del Poder Judicial de la Federación; de la Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública, publicado el 14 de junio de 2012 en el Diario Oficial de la Federación.
