@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-y-gasto-publico-1194
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-14"
-last_updated: "2013-01-05"
+last_updated: "2013-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 14 de diciembre de 1996.
 
@@ -769,11 +769,15 @@ VIII. Los Indicadores a ser considerados para el desarrollo de las funciones de 
 
 ### CAPITULO PRIMERO. DEL SISTEMA DE CONTABILIDAD GUBERNAMENTAL
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
 
-###### ARTICULO 68.
+###### ARTÍCULO 68.
 
-La Secretaría tendrá a su cargo la contabilidad general del Gobierno del Estado, la cual será centralizada y comprenderá la captación y registro de las operaciones financieras y presupuestales de las entidades y dependencias, a efecto de suministrar información que coadyuve a la toma de decisiones y a la evaluación de las actividades realizadas. Se anexará a la Cuenta Pública Anual, los estados financieros de los Organismos Descentralizados.
+El presente Título tiene por objeto establecer los criterios generales que regirán la contabilidad gubernamental y la emisión de información financiera de las entidades, dependencias, municipios y organismos públicos autónomos, con el fin de lograr su adecuada armonización.
+
+En todo caso, deberán sujetarse a lo dispuesto por la Ley General de Contabilidad Gubernamental y a las demás disposiciones que de ella emanen.
+
+La Secretaría tendrá a su cargo la contabilidad general del Gobierno del Estado, la cual será centralizada y comprenderá la captación y registro de las operaciones financieras y presupuestales de las entidades y dependencias, a efecto de suministrar información que coadyuve a la toma de decisiones y a la evaluación de las actividades realizadas. Los estados financieros de los Organismos Descentralizados, se anexarán a la Cuenta Pública Anual.
 
 ###### ARTICULO 69.
 
@@ -1328,3 +1332,13 @@ a) Las retribuciones nominales señaladas en los presupuestos vigentes superiore
 b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, solo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 165 bis de la Constitución Política del Estado.
 
 c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
+
+P.O. 10 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones legales y administrativas estatales que se encuentren vigentes a la entrada en vigor del presente Decreto y que se opongan a lo dispuesto por la Ley General de Contabilidad Gubernamental, dejarán de aplicarse en la medida en que resulte aplicable esta última y las disposiciones que de ella emanen.
