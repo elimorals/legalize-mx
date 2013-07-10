@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-ejecucion-de-las-sanciones-penales-7487"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-01"
-last_updated: "2012-12-13"
+last_updated: "2013-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de junio de 1994.
 
@@ -343,9 +343,11 @@ Igualmente se seleccionará a los internos, según las condiciones de cada medio
 
 Los condenados podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, con el fin de propiciar su reinserción social y procurar que no vuelvan a delinquir. Esta disposición no aplicará tratándose de los delitos mencionados en el párrafo siguiente.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+(NOTA: EL 3 DE JULIO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2013, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS RETROACTIVOS AL 10 DE JULIO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Desde el ingreso, tratándose de cualquiera de los delitos establecidos en los artículos 165 Bis, 176, 357 ó 357 Bis del Código Penal para el Estado, la autoridad penitenciaria deberá restringir las comunicaciones de los imputados o condenados con terceros, salvo el acceso de su defensor. También podrá imponer medidas de vigilancia especial o medidas especiales de seguridad a quienes se encuentren internos en los establecimientos penitenciarios, como reclusión en módulos especiales, uso de cámaras de circuito cerrado en celdas e instalaciones, uso permanente de uniformes de identificación, aplicación permanente de acciones de revisión interna y externa de celdas e instalaciones, control extremo de rutina de internos, control extremo de vigilancia a visitas, control extremo de acción operativa o cualquier otra medida que debido a las circunstancias la autoridad estime pertinente.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+
+Desde el ingreso, tratándose de cualquiera de los delitos establecidos en los artículos 165 Bis, 176 o 355 segundo párrafo del Código Penal para el Estado, ASÍ COMO DE LOS DELITOS ESTABLECIDOS EN LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, Y EN LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, la autoridad penitenciaria DEBERÁ RESTRINGIR LAS COMUNICACIONES DE LOS IMPUTADOS O CONDENADOS CON TERCEROS, SALVO EL ACCESO DE SU DEFENSOR. TAMBIÉN podrá imponer medidas de vigilancia especial o medidas especiales de seguridad a quienes se encuentren internos en los establecimientos penitenciarios, como reclusión en módulos especiales, uso de cámaras de circuito cerrado en celdas e instalaciones, uso permanente de uniformes de identificación, aplicación permanente de acciones de revisión interna y externa de celdas e instalaciones, control extremo de rutina de internos, control extremo de vigilancia a visitas, control extremo de acción operativa o cualquier otra medida que debido a las circunstancias la autoridad estime pertinente.
 
 ###### ARTICULO 27.
 
@@ -483,11 +485,13 @@ La libertad definitiva que se otorgue conforme a este capítulo, será comunicad
 
 Por cada dos días de trabajo se hará remisión de uno de prisión, siempre que el recluso observe buena conducta, participe regularmente de las actividades educativas, artísticas, culturales, deportivas y de capacitación que se organicen en el establecimiento y revele por otros datos una efectiva reinserción social. Esta última será, en todo caso, el factor determinante para la concesión o negativa de la remisión parcial de la pena o de otros beneficios que contemple la Ley, los cuales no podrán fundarse exclusivamente en los días de trabajo, en la participación en actividades educativas y en el buen comportamiento del condenado.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 44.
 
-El tratamiento preliberacional señalado en las fracciones IV y V del Artículo 27 y la remisión parcial de la pena a que se contrae el Articulo anterior, no se aplicarán a los reincidentes ni habituales y tampoco en los casos de los artículos; 165 bis, 176, 266 primer párrafo, 267, 268, 269, 271, 318, 325, 357, 357 bis, 363 Bis, 395, 432, 434 ó 439 párrafo primero del Código Penal vigente en el Estado, salvo que se trate de quienes colaboren con la autoridad en la investigación y persecución de los delitos tipificados en los artículos 165 bis, 176, 432, 434 ó 439 párrafo primero del Código Penal para el Estado de Nuevo León.
+El tratamiento preliberacional señalado en las fracciones IV y V del Artículo 27 y la remisión parcial de la pena a que se contrae el Artículo anterior, no se aplicarán a los reincidentes ni habituales y tampoco en los casos de los artículos 165 bis, 176, 266 primer párrafo, 267, 268, 269, 271, 318, 325, 395, 432, 434 o 439 párrafo primero del Código Penal vigente en el Estado, salvo que se trate de quienes colaboren con la autoridad en la investigación y persecución de los delitos tipificados en los artículos 165 bis, 176, 432, 434 o 439 párrafo primero del Código Penal para el Estado de Nuevo León.
+
+En lo relativo a los delitos de secuestro y de trata de personas se estará a lo dispuesto en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, según corresponda.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
@@ -982,3 +986,11 @@ Cuarto.- En la ejecución de sentencias dictadas con motivo de juicios en que se
 P.O. 13 DE DICIEMBRE DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 10 DE JULIO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Lo anterior en los términos de los Artículos Transitorios Segundo y Quinto del decreto por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública publicado el 30 de noviembre de 2010 en el Diario Oficial de la Federación y los Artículos Transitorios Décimo y Décimo Primero del Decreto por el que se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos; y abroga la Ley para Prevenir y Sancionar la Trata de Personas; y reforma diversas disposiciones de la Ley Federal contra la Delincuencia Organizada; del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Orgánica del Poder Judicial de la Federación; de la Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública, publicado el 14 de junio de 2012 en el Diario Oficial de la Federación.
