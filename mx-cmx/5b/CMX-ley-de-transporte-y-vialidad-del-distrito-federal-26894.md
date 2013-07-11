@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transporte-y-vialidad-del-distrito-federal-26894"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-26"
-last_updated: "2013-02-21"
+last_updated: "2013-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26894&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-12"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de diciembre del 2002.
 
@@ -182,7 +182,15 @@ Servicio Metropolitano de Transporte: Es el que se presta entre el Distrito Fede
 
 Servicio Particular de Transporte: Es la actividad por virtud de la cual, mediante el registro correspondiente ante la Administración Pública, las personas físicas o morales satisfacen sus necesidades de transporte de pasajeros o de carga, siempre que tengan como fin, el desarrollo de sus actividades personales o el cumplimiento de su objeto social y en tanto no impliquen un fin lucrativo o de carácter comercial.
 
+> <small>(ADICIONADO, G.O. 11 DE JULIO DE 2013)</small>
+
+Servicio Particular de Transporte de Seguridad Privada: Es la actividad por virtud de la cual, las personas físicas o morales contratantes de los servicios de seguridad privada, satisfacen las necesidades de transporte para la realización de estas actividades que (sic) en vehículos de su propiedad, en términos de lo dispuesto en la Ley de Seguridad Privada del Distrito Federal.
+
 Servicio Privado de Transporte: Es la actividad por virtud de la cual, mediante el permiso otorgado por la Secretaría, las personas físicas o morales satisfacen sus necesidades de transporte de pasajeros o de carga, relacionadas directamente ya sea con el cumplimiento de su objeto social o con la realización de actividades comerciales, sean éstas de carácter transitorio o permanente y que no se ofrece al público en general.
+
+> <small>(ADICIONADO, G.O. 11 DE JULIO DE 2013)</small>
+
+Servicio Privado de Transporte de Seguridad Privada: Es la actividad por virtud de la cual, los prestadores de servicios de seguridad privada en términos de lo dispuesto en la Ley de Seguridad Privada del Distrito Federal, satisfacen sus necesidades de transporte relacionadas con el cumplimiento de su objeto social o con sus actividades autorizadas, en vehículos de su propiedad.
 
 Servicio Público de Transporte: Es la actividad a través de la cual, la Secretaría satisface las necesidades de transporte de pasajeros o carga, por si, o a través de concesionarios de transporte público, que se ofrece en forma continua, uniforme, regular, permanente e ininterrumpida a persona indeterminada o al público en general, mediante diversos medios.
 
@@ -476,11 +484,23 @@ a) Escolar;
 
 b) De personal;
 
-c).Turístico; y
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 2013)</small>
 
-d) Especializado en todas sus modalidades.
+c) Turístico;
+
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 2013)</small>
+
+d) Especializado en todas sus modalidades; y
+
+> <small>(ADICIONADO, G.O. 11 DE JULIO DE 2013)</small>
+
+e) Seguridad Privada
 
 IV.- Particular.
+
+> <small>(ADICIONADO, G.O. 11 DE JULIO DE 2013)</small>
+
+a) Seguridad Privada.
 
 ###### Artículo 13.
 
@@ -1278,6 +1298,22 @@ La Secretaría determinará en las disposiciones reglamentarias, los supuestos e
 
 Los reglamentos de la presente Ley establecerán el procedimiento, términos, condiciones, vigencia y causas de extinción de los registros para realizar transporte particular de pasajeros o de carga.
 
+> <small>(ADICIONADO, G.O. 11 DE JULIO DE 2013)</small>
+
+###### Artículo 60 Bis.
+
+El registro de vehículos de transporte de seguridad privada en las modalidades de Servicio Particular de Transporte de Seguridad Privada y Servicio Privado de Transporte de Seguridad Privada, se otorgará a las personas físicas o morales que reúnan los siguientes requisitos:
+
+I. Presentar solicitud por escrito a la Secretaría especificando la modalidad para la cual se requiere el registro;
+
+II. En el caso de personas morales, acreditar su existencia legal y la personalidad jurídica vigente del representante legal o apoderado;
+
+III. Proporcionar todos los datos de identificación, de los vehículos materia de registro;
+
+IV. Acreditar el pago de los derechos correspondientes; y
+
+V. Contar con licencia o permiso de Seguridad Pública para la prestación de servicios de seguridad privada.
+
 ###### Artículo 61.
 
 Con respecto al peso, dimensiones y capacidad a que se deben sujetar los vehículos de transporte de pasajeros, turismo y carga que transiten en el Distrito Federal, éstos se atendrán a lo estipulado en el Reglamento de Capacidades.
@@ -1416,6 +1452,14 @@ Con el propósito de renovar y mejorar el parque vehicular y la infraestructura 
 
 Estará a cargo de la Secretaría el Registro Público de Transporte, el cual tiene encomendada el desempeño de la función registral en todos sus órdenes, de acuerdo con esta Ley y demás disposiciones jurídicas y administrativas aplicables.
 
+> <small>(ADICIONADO, G.O. 11 DE JULIO DE 2013)</small>
+
+El Registro Público de Transporte contará con una sección de Registro de Vehículos de Transporte de Seguridad Privada cuya base de datos contendrá la información correspondiente a los vehículos autorizados para la prestación del Servicio Particular de Transporte de Seguridad Privada y del Servicio Privado de Transporte de Seguridad Privada.
+
+> <small>(ADICIONADO, G.O. 11 DE JULIO DE 2013)</small>
+
+Para la integración de la sección de Registro de Vehículos de Transporte de Seguridad Privada, la Secretaría se coordinará con Seguridad Pública, quien deberá proveerle la información necesaria.
+
 > <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 72.
@@ -1437,6 +1481,10 @@ III.- Registro de licencias y permisos de conducir;
 IV.- Registro de representantes legales, mandatarios y apoderados de personas morales concesionarias y permisionarios del servicio de transporte, privado y mercantil de pasajeros y de carga;
 
 V.- Registro de vehículos matriculados en el Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2013)</small>
+
+V Bis.- Registro de Vehículos de Transporte de Seguridad Privada;
 
 VI.- Registro y seguimiento de infracciones, sanciones y delitos;
 
@@ -2423,3 +2471,9 @@ Primero.- Los artículos PRIMERO y SEGUNDO del presente Decreto entrarán en vig
 Segundo.- El artículo TERCERO entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Remítase el presente decreto al Jefe de Gobierno del Distrito Federal para el efecto de su publicación respecto de los artículos PRIMERO y SEGUNDO, y para su promulgación y publicación respecto del artículo TERCERO, en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 11 DE JULIO DE 2013.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal
