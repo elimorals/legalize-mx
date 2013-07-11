@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-del-notariado-del-estado-de-mexico-25707"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-01"
-last_updated: "2013-07-09"
+last_updated: "2013-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JULIO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE JULIO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DE 11 DE JULIO DE 2013.</small>
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 1o. de agosto de 2002.
 
@@ -119,8 +119,6 @@ Para el ejercicio de la función notarial, son días hábiles todos los del año
 
 #### SECCION PRIMERA. DE LOS ASPIRANTES A LA FUNCION NOTARIAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JULIO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 8.
 
 Los requisitos señalados en la Ley, para obtener la constancia de aspirante a la función notarial, se comprobarán en la forma siguiente:
@@ -131,9 +129,9 @@ II. La residencia: con la constancia expedida por la autoridad municipal del dom
 
 III. La autorización para el ejercicio profesional del derecho: con copia certificada del título o de la cédula correspondiente, expedidos por las instituciones legalmente facultadas para ello;
 
-> <small>(REFORMADA, G.G. 9 DE JULIO DE 2013)</small>
+(REFORMADA, G.G. 9 DE JULIO DE 2013) (F. DE E., G.G. 11 DE JULIO DE 2013)
 
-IV. La práctica notarial: con los avisos de inicio y terminación que el notario hubiere hecho a la Consejería y al Colegio, con los informes trimestrales que rinda el practicante y con las visitas de verificación que realice la Secretaría.
+IV. La práctica notarial: con los avisos de inicio y terminación que el notario hubiere hecho a la Consejería y al Colegio, con los informes trimestrales que rinda el practicante y con las visitas de verificación que realice la Consejería.
 
 V. La participación en el curso de formación de aspirantes a notario: con la constancia expedida por el Colegio;
 
