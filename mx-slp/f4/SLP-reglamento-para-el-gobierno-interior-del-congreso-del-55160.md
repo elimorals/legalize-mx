@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2013-06-29"
+last_updated: "2013-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2013.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1489,9 +1489,21 @@ II. Sólo por las causas enunciadas en la Ley Orgánica y en este Reglamento, lo
 
 III. Durante las sesiones plenarias, solicitar permiso al Presidente del Congreso o, en su caso, al Pleno, para poder salir del recinto legislativo;
 
-IV. Guardar compostura durante las sesiones, y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2013)</small>
 
-V. Cuando se informe al Congreso que un diputado se encuentra enfermo, el Presidente del Congreso designará una comisión de dos diputados, para que lo visiten e informen de su estado de salud.
+IV. Guardar compostura durante las sesiones;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2013)</small>
+
+V. Cuando se informe al Congreso que un diputado se encuentra enfermo, el Presidente del Congreso designará una comisión de dos diputados, para que lo visiten e informen de su estado de salud;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2013)</small>
+
+VI. Asistir, una vez al año, a los cursos de capacitación y formación que instrumente e imparta el Instituto de Investigaciones Legislativas del Congreso del Estado, durante todo el tiempo que dure en el cargo para el cual fue electo, una vez que haya tomado protesta, y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2013)</small>
+
+VII. Las demás que se deriven de esta Ley y otros ordenamientos aplicables.
 
 ###### ARTICULO 166.
 
@@ -1899,7 +1911,7 @@ II. Tomar nota y redactar las actas de las reuniones;
 
 III. Dar cuenta al presidente y a la comisión, de los asuntos de trámite turnados, y desahogar los mismos, así como la correspondencia turnada conforme a sus instrucciones;
 
-IV. Llevar el registro de asuntos turnados a la comisión; el estado que guardan; los que se encuentren pendientes de resolver y los resueltos y los resueltos;
+IV. Llevar el registro de asuntos turnados a la comisión; el estado que guardan; los que se encuentren pendientes de resol-ver y los resueltos y los resueltos;
 
 V. Apoyar a la comisión en la planeación, organización y realización de reuniones de trabajo, mesas de discusión, foros y demás actividades tendientes al cumplimiento de sus funciones;
 
@@ -2232,6 +2244,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se deroga cualquier disposición contraria a este Decreto.
 
 P.O. 29 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
