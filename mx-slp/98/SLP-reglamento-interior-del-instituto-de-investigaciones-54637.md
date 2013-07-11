@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-instituto-de-investigaciones-54637"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-08"
-last_updated: "2010-12-02"
+last_updated: "2013-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSI
+REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2013.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 8 de febrero de 2007.
 
@@ -75,9 +75,17 @@ IX. Elaborar, preparar e impartir cursos de capacitación legislativa;
 
 X. Presentar al Comité un informe mensual de las actividades desarrolladas; y anualmente, un plan de trabajo;
 
-XI. Difundir en el ámbito de su competencia, los resultados del desarrollo de la base de datos de la legislación estatal y de los programas de investigación, a través de publicaciones especializadas, y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2013)</small>
 
-XII. Las demás que el Congreso del Estado le confiera.
+XI. Difundir, en el ámbito de su competencia, los resultados del desarrollo de la base de datos de la legislación estatal y de los programas de investigación, a través de publicaciones especializadas;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2013)</small>
+
+XII. Elaborar, preparar, e impartir cursos por lo menos una vez al año, relacionados con elementos técnicos para elaboración de iniciativas, y conocimientos básicos del proceso legislativo para los diputados, luego de su toma de protesta al cargo, a fin de que cuenten con conocimientos y habilidades necesarias para cumplir con sus funciones parlamentarias bajo criterios de eficacia y legalidad, y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2013)</small>
+
+XIII. Las demás que el Congreso del Estado le confiera.
 
 ###### ARTICULO 4°.
 
@@ -347,10 +355,16 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 2 DE DICIEMBRE DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 11 DE JULIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
