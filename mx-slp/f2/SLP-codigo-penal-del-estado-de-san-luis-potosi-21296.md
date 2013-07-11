@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2013-06-18"
+last_updated: "2013-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EL UNO DE MARZO DEL AÑO DOS MIL CATORCE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2013.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -3163,7 +3163,11 @@ En ningún caso se devolverá a los responsables del delito de cohecho el dinero
 
 Comete el delito de ejercicio indebido de las funciones públicas quien:
 
-I. Ejerce las funciones de un empleo, cargo o comisión sin satisfacer los requisitos legales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2013)</small>
+
+I. Ejerce las funciones de un empleo, cargo o comisión sin haber rendido protesta constitucional, o sin satisfacer los requisitos legales;
 
 II. Ejerce las funciones de un empleo, cargo o comisión después de haber sido notificado de la suspensión, destitución o revocación de su nombramiento o después de haber renunciado, salvo que por disposición legal o reglamentaria deba continuar ejerciendo sus funciones hasta ser relevado;
 
@@ -4616,6 +4620,12 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente De
 P.O. 18 DE JUNIO DE 2013.
 
 DECRETO NÚMERO 163, POR EL QUE. SE REFORMA LOS ARTÍCULOS, 113, 114 BIS, Y 123; Y DEROGA EL PÁRRAFO ULTIMO DEL ARTICULO 123, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
 
