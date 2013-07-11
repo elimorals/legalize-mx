@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-seguridad-privada-para-la-ciudad-de-mexico-antes-ley-425
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-24"
-last_updated: "2013-06-26"
+last_updated: "2013-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42556&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-12-14"
 
 LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 24 de enero de 2005.
 
@@ -262,7 +262,9 @@ IV. Manifestar bajo protesta de decir verdad que el inmueble a que se refiere la
 
 V. La persona física, socios, asociados o integrantes del órgano de administración, gestores, representantes, apoderados y mandatarios legales, no deberán ser miembros activos de los cuerpos de seguridad pública o de las fuerzas armadas;
 
-VI. La persona física, socios, asociados o integrantes del órgano de administración, no haber sido condenados por delito doloso con sanción privativa de la libertad mayor de un año, y
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 2013)</small>
+
+VI. La persona física, socios, asociados o integrantes del órgano de administración no haber sido condenados por delito doloso con sanción privativa de la libertad mayor a un año;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE JUNIO DE 2013)</small>
 
@@ -282,7 +284,13 @@ e) Por revelar asuntos secretos o reservados de los que tenga conocimiento por r
 
 f) Por presentar documentación falsa o apócrifa, y
 
-g) Por obligar a sus subalternos a entregarle dinero u otras dádivas bajo cualquier concepto.
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 2013)</small>
+
+g) Por obligar a sus subalternos a entregarle dinero u otras dádivas bajo cualquier concepto, y
+
+> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2013)</small>
+
+VIII. La persona física, socios, asociados o integrantes del órgano de administración, no deberán ser adictos al consumo de alcohol, sustancias psicotrópicas y estupefacientes ni a otros productos que tengan efectos similares.
 
 ###### Artículo 14.
 
@@ -371,6 +379,14 @@ a) Las directrices generales y específicas así como las limitantes que la Ley 
 b) Uso del equipo que los elementos de apoyo deben emplear en el desempeño del servicio, y
 
 c) En su caso, uso de perros.
+
+> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2013)</small>
+
+VI. La persona física, socios, asociados o integrantes del órgano de administración, no deberán haber sido condenados por delito doloso con sanción privativa de la libertad mayor de un año, y
+
+> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2013)</small>
+
+VII. La persona física, socios, asociados o integrantes del órgano de administración, no deberán ser adictos al consumo de alcohol, sustancias psicotrópicas y estupefacientes ni otros productos que tengan efectos similares.
 
 ### CAPÍTULO IV. Del Aviso de Registro para realizar actividades de seguridad privada
 
@@ -572,11 +588,9 @@ XI. Los equipos y sistemas tecnológicos que se utilicen así como las autorizac
 
 XII. Los demás que sean necesarias a juicio de la Secretaría.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADO, G.O. 24 DE FEBRERO DE 2009)</small>
-
-El registro a que se refieren las fracciones II, III, VII y VIII, comprenderá la filiación, fotografía, huellas digitales, registro fonético, así como los demás datos que determine la Secretaría.
+El registro a que se refieren las fracciones II, III, VII y VIII, comprenderá la filiación, fotografía, huellas digitales, registro fonético; así como los demás datos que determine la Secretaría. Para el registro de los titulares de los permisos, licencias y autorizaciones, accionistas, socios o asociados y del personal, elementos operativos y elementos de apoyo, se deberá acreditar que los mismos no han sido condenados por delito doloso con sanción privativa de la libertad mayor de un año y que no son adictos al consumo de alcohol, sustancias psicotrópicas y estupefacientes ni a otros productos que tengan efectos similares. Para lo cual, la Secretaría podrá solicitar los documentos, constancias o acreditaciones que estime necesarios.
 
 ###### Artículo 25.
 
@@ -640,7 +654,9 @@ Los prestadores de servicios deberán acreditar ante la Secretaría que cuentan 
 
 Los titulares de permisos, autorizaciones y licencias vigentes deberán dar cumplimiento en lo aplicable, a lo siguiente:
 
-I. Llevar un registro de su personal y registrar al mismo ante la Secretaría;
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 2013)</small>
+
+I. Llevar un registro de su personal y registrar al mismo ante la Secretaría. No podrá ser registrado el personal que haya sido condenado por delito doloso con sanción privativa de la libertad mayor de un año o que sea adicto al consumo de alcohol, sustancias psicotrópicas y estupefacientes o a otros productos que tengan efectos similares.
 
 II. Mantener en lugar visible el permiso o la autorización otorgado por la Secretaría;
 
@@ -676,9 +692,11 @@ XIII. Proporcionar con la periodicidad que determine el Reglamento, la capacitac
 
 XIV. A las obligaciones que les impone la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal, su Reglamento y otras disposiciones vigentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE JULIO DE 2013)</small>
+
 ###### Artículo 36.
 
-Los elementos operativos y de apoyo, en el desempeño de sus labores atenderán y ajustarán su conducta conforme al perfil ético que es requisito indispensable para ingresar al servicio de seguridad privada.
+Los elementos operativos y de apoyo, en el desempeño de sus labores, atenderán y ajustarán su conducta conforme al perfil ético que es requisito indispensable para ingresar al servicio de seguridad privada. No podrán ser elementos operativos ni de apoyo, las personas que hayan sido condenados por delito doloso con sanción privativa de la libertad mayor de un año o que sea adicto al consumo de alcohol, sustancias psicotrópicas y estupefacientes o a otros productos que tengan efectos similares.
 
 En la prestación de servicios o realización de actividades de seguridad privada los titulares de permisos, autorizaciones y licencias, tienen las siguientes limitaciones:
 
@@ -1101,3 +1119,9 @@ G.O. 26 DE JUNIO DE 2013.
 Primero: Este decreto entrara en vigor al día siguiente de su publicación.
 
 Segundo: Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 11 DE JULIO DE 2013.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
