@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-informacion-de-la-75118"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-27"
-last_updated: "2010-05-27"
+last_updated: "2013-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE INFORMACION DE LA SECRETARIA DE DESARROLLO METROPOLITANO DEL GOBIERNO DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERNO DEL COMITE DE INFORMACION DE LA SECRETARIA DE DESARROLLO METROPOLITANO DEL GOBIERNO DEL ESTADO DE MEXICO
+REGLAMENTO INTERNO DEL COMITÉ DE INFORMACIÓN DE LA SECRETARÍA DE DESARROLLO METROPOLITANO DEL GOBIERNO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO POR EL QUE SE ABROGA EL REGLAMENTO INTERNO DEL COMITÉ DE INFORMACIÓN DE LA SECRETARÍA DE DESARROLLO METROPOLITANO DEL GOBIERNO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 11 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 27 de mayo de 2010.
 
@@ -220,3 +222,11 @@ Responsable de la Unidad de Información
 Vocal
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 11 DE JULIO DE 2013.
+
+PRIMERO.- Se abroga el Reglamento Interno del Comité de Información de la Secretaría de Desarrollo Metropolitano del Gobierno del Estado de México, publicado en la Gaceta del Gobierno de 27 de mayo de 2010.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
