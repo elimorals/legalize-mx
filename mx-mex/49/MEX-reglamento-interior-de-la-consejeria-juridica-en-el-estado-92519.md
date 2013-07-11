@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-consejeria-juridica-en-el-estado-9251
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-18"
-last_updated: "2013-07-09"
+last_updated: "2013-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA EN EL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JULIO 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE JULIO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 11 DE JULIO DE 2013.</small>
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 18 de febrero de 2013.
 
@@ -335,8 +335,6 @@ VI. Coordinar la implementación de cursos y talleres en las diferentes dependen
 
 VII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el o la titular de la Consejería.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JULIO 2013 EN LA G.G. DEL ESTADO DE MÉXICO , SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 14.
 
 Corresponden a la Unidad de Asuntos Agrarios, las atribuciones siguientes:
@@ -355,15 +353,13 @@ VI. Asesorar a los involucrados en los asuntos agrarios, respecto a la prevenci�
 
 VII. Atender y ejecutar los programas y acciones que instruya el titular del Poder Ejecutivo y la Consejería, para la solución de los problemas agrarios donde el Gobierno del Estado sea parte.
 
-VIII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el o la titular de la Consejería.
+(REFORMADA, G.G. 9 DE JULIO DE 2013) (F. DE. E., G.G. 11 DE JULIO DE 2013)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 9 DE JULIO DE 2013)</small>
+VIII. Representar legalmente al Gobernador, al Secretario General de Gobierno, al Subsecretario General de Gobierno y todos aquellos que le encomiende el o la titular de la Consejería, en los juicios agrarios en los que sean parte.
 
-IX. Representar legalmente al Gobernador, al Secretario General de Gobierno, al Subsecretario General de Gobierno y todos aquellos que le encomiende el o la titular de la Consejería, en los juicios agrarios en los que sean parte.
+(ADICIONADA, G.G. 9 DE JULIO DE 2013) (F. DE. E., G.G. 11 DE JULIO DE 2013)
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA, TEXTO CONTEMPLADO EN LA ACTUAL FRACCIÓN VIII], G.G. 9 DE JULIO DE 2013)</small>
-
-X. Las demás que le señalen otros ordenamientos legales y las que le encomiende el o la titular de la Consejería.
+IX. Las demás que le señalen otros ordenamientos legales y las que le encomiende el o la titular de la Consejería.
 
 ###### Artículo 15.
 
