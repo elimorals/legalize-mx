@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2013-04-06"
+last_updated: "2013-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2013.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1503,7 +1503,11 @@ ART. 358.- Al Presidente de la República, a los Secretarios de Estado, Senadore
 
 ART. 359.- Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral; deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El juez deberá cuidar de que se cumplan estas condiciones impidiendo preguntas que las contraríen. Contra la desestimación de las preguntas o repreguntas no cabe recurso alguno; pero se asentarán literalmente en autos.
 
-ART. 360.- La protesta y examen de los testigos se harán en presencia de las partes que concurran a la diligencia. Interrogará primero el promovente de la prueba y a continuación la parte contraria podrá repreguntar; pero en ningún caso podrá hacer más de cinco repreguntas sobre cada una de las preguntas formuladas por el primero.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2013)</small>
+
+ART. 360.- La protesta y examen de los testigos se harán en presencia de las partes que concurran a la diligencia. Interrogará primero el promovente de la prueba, y a continuación la parte contraria podrá repreguntar; pero en ningún caso podrá hacer más de cinco repreguntas sobre cada una de las preguntas directas, y de su respectiva respuesta.
 
 ART. 361.- No obstante lo dispuesto en el artículo anterior, cuando el testigo sea un funcionario de los que trata el artículo 358 o resida fuera del lugar del negocio, deberá el promovente, al ofrecer la prueba, presentar sus interrogatorios, con las copias respectivas para las demás partes, las cuales serán puestas a su disposición en el mismo auto en que se mande recibir la prueba, para que, dentro de tres días, presenten, en pliego cerrado, si quisieren, su interrogatorio de repreguntas; pero si lo presentaren después no les será admitido, sin perjuicio de que, en todo caso, pueda la parte interesada, presentarse directamente a repreguntar ante el tribunal requerido, el que hará la calificación de las repreguntas, cuidando de asentar, literalmente en autos, las que deseche, como lo mande el artículo 359.
 
@@ -5304,5 +5308,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 6 DE ABRIL DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
