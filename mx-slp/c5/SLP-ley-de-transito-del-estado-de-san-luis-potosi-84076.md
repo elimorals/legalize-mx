@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2013-01-26"
+last_updated: "2013-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2013.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -71,11 +71,15 @@ Los ayuntamientos atenderán las áreas urbanas, suburbanas y rurales de su dema
 
 Todo usuario de las vías públicas está obligado a obedecer las disposiciones contenidas en esta Ley, así como los dispositivos para el control de tránsito y las indicaciones de los elementos y agentes de tránsito.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 5°.
 
-Para la realización de desfiles, eventos deportivos, culturales o religiosos, se deberá contar con el permiso de las autoridades de tránsito del municipio que corresponda, con el objetivo de que tomen las medidas conducentes para evitar congestionamientos y, en consecuencia, regular el tránsito de vehículos en las zonas respectivas.
+Para la realización de desfiles, eventos deportivos, culturales, religiosos, se deberá contar con el permiso de las autoridades de tránsito del municipio que corresponda, con el objetivo de que tomen las medidas conducentes para evitar congestionamientos y, en consecuencia, regular el tránsito de vehículos en las zonas respectivas.
 
-Tratándose de las vías de jurisdicción estatal a que se refiere el artículo 3° de esta Ley, el permiso lo otorgará la Secretaría.
+Los organizadores de cualquier otra forma de manifestarse podrán dar aviso con veinticuatro horas de anticipación al inicio de su manifestación o evento, a las autoridades en materia de tránsito para que éstas instrumenten las medidas pertinentes a fin de garantizar en la medida de lo posible, no haya afectación al tránsito y, coadyuvar a la seguridad de los propios manifestantes.
+
+Tratándose de las vías de jurisdicción estatal a que se refiere el artículo 3° de esta Ley, el permiso o aviso estará a cargo de la Secretaría.
 
 ###### ARTICULO 6°.
 
@@ -127,7 +131,7 @@ XXII. Licencia de conducir: documento que la autoridad estatal competente otorga
 
 XXIII. Número de identificación vehicular NIV: combinación de diecisiete caracteres asignados al vehículo al momento de su fabricación, o su registro en el padrón nacional;
 
-XXIV; Parte: acta y croquis que debe elaborar un perito en hechos de tránsito.
+XXIV. Parte: acta y croquis que debe elaborar un perito en hechos de tránsito.
 
 XXV. Pasajero: la persona, que se encuentra a bordo de un vehículo y no tiene carácter de conductor;
 
@@ -1328,3 +1332,9 @@ P.O. 26 DE ENERO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
