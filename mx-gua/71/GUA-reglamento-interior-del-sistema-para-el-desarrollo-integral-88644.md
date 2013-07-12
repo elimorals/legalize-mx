@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-sistema-para-el-desarrollo-integral-886
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-13"
-last_updated: "2013-06-21"
+last_updated: "2013-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JULIO DE 2013 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 12 DE JULIO DE 2013.</small>
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de julio de 2012.
 
@@ -659,8 +659,6 @@ XII. Las demás que le encomiende el Director de Administración y le asignen ot
 
 ### Capítulo II. Dirección de Desarrollo Institucional
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JULIO DE 2013 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Unidades adscritas a la Dirección de Desarrollo Institucional
 
 ###### Artículo 29.
@@ -669,11 +667,11 @@ El Director de Desarrollo Institucional se auxiliará para el mejor despacho de 
 
 I. Coordinación de Personal;
 
-II. Coordinación de Procesos y Capacitación; y (sic)
+> <small>(F. DE E., P.O. 12 DE JULIO DE 2013)</small>
+
+II. Coordinación de Evaluación y Desarrollo.
 
 III. (DEROGADA, P.O. 21 DE JUNIO DE 2013)
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JULIO DE 2013 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 Atribuciones de la Dirección de Desarrollo Institucional
 
@@ -687,9 +685,11 @@ II. Supervisar la administración de sueldos y salarios, el cálculo de impuesto
 
 III. Establecer un proceso de comunicación constante con las unidades administrativas del Sistema, a efecto de atender y resolver las necesidades del personal;
 
-IV. (DEROGADA, P.O. 21 DE JUNIO DE 2013)
+> <small>(F. DE E., P.O. 12 DE JULIO DE 2013)</small>
 
-V. Dirigir y supervisar el desarrollo y mantenimiento requeridos para operar adecuadamente las diferentes áreas del Sistema.
+IV. Promover e impulsar la mejora continua de los procesos y servicios generados por el Sistema; y
+
+V. (DEROGADA, P.O. 21 DE JUNIO DE 2013) (F. DE E., P.O. 12 DE JULIO DE 2013)
 
 #### Sección Primera. Coordinación de Personal
 
@@ -1187,8 +1187,6 @@ VII. Las demás que le encomiende el Director de Acciones en Favor de la Infanci
 
 ### Capítulo IV. Dirección de Protección Jurídica Familiar
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JULIO DE 2013 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Unidades adscritas a la Dirección de Protección Jurídica Familiar
 
 ###### Artículo 53.
@@ -1201,9 +1199,9 @@ II. Coordinación de Rehabilitación y Asistencia Social para Niños y Adolescen
 
 III. Coordinación de Servicios Asistenciales.
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
+(ADICIONADA, P.O. 21 DE JUNIO DE 2013) (F. DE E., P.O. 12 DE JULIO DE 2013)
 
-V (SIC). Coordinación de Fortalecimiento de Organizaciones de la Sociedad Civil.
+IV. Coordinación de Fortalecimiento de Organizaciones de la Sociedad Civil.
 
 Atribuciones de la Dirección de Protección Jurídica Familiar.
 
