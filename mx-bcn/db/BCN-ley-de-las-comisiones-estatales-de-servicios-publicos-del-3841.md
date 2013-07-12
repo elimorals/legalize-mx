@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-las-comisiones-estatales-de-servicios-publicos-del-3841"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-10"
-last_updated: "2004-12-17"
+last_updated: "2013-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
+LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 10 de febrero de 1979.
 
@@ -57,7 +57,13 @@ IV.- La prestación a los usuarios de los servicios mencionados.
 
 V.- La recaudación de los derechos que conforme a la Ley a Convenios que celebren, les correspondan.
 
-VI.- El desarrollo de actividades que directa o indirectamente conduzcan a lograr los objetivos indicados.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2013)</small>
+
+VI.- La implementación de programas de apoyo a los usuarios para el financiamiento en la adquisición de tecnologías así como aditamentos y dispositivos ahorradores de agua.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2013)</small>
+
+VII.- El desarrollo de actividades que directa o indirectamente conduzcan a lograr los objetivos indicados.
 
 ###### ARTICULO 3o.
 
@@ -279,7 +285,7 @@ C. DR. MIGUEL ANGEL CARDENAS GONZALEZ.
 
 (Firmado)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE SEPTIEMBRE DE 1980.
 
@@ -322,3 +328,7 @@ UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publica
 P.O. 17 DE DICIEMBRE DE 2004.
 
 UNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE JULIO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
