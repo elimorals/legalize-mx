@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-para-la-prestacion-del-servicio-de-guarderia-y-67914
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-24"
-last_updated: "2009-07-16"
+last_updated: "2013-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 REGLAMENTO PARA LA PRESTACION DEL SERVICIO DE GUARDERIA Y ESTANCIA DEL CENTRO DE DESARROLLO INFANTIL (CENDI)
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE JULIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PADRES DE FAMILIA DE LOS CENTROS DE DESARROLLO INFANTIL DEL INSTITUTO, PUBLICADO EN EL D.O. DE 12 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Yucatán, el martes 24 de marzo de 2009.
 
@@ -395,8 +397,34 @@ C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE YUCATÁN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O. 16 DE JULIO DE 2009.
 
 ÚNICO. Este acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 12 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a partir de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Reglamento para la Prestación del Servicio de Guardería y Estancia del Centro de Desarrollo Infantil publicado en el Diario Oficial del Estado de Yucatán el 24 de marzo de 2009.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor rango, reformas, políticas, lineamientos y criterios administrativos que se opongan a lo dispuesto en este Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor de este Reglamento, el servicio de primer año de preescolar se dejará de brindar para el ciclo escolar 2013 - 2014; posteriormente, para el ciclo escolar 2014 - 2015, se dejará de otorgar el servicio de segundo año de preescolar y, para el ciclo escolar 2015 - 2016, se dejará de prestar el servicio del tercer año de preescolar y consecuentemente, se dejará de prestar el servicio de preescolar de manera definitiva.
+
+###### ARTÍCULO QUINTO.
+
+A partir del ciclo escolar 2013 - 2014, se abrirá el grupo maternal 3, al cual ingresarán todos aquéllos infantes mayores de 3 y menores de 4 años de edad.
+
+###### ARTÍCULO SEXTO.
+
+Los casos no previstos en este Reglamento serán resueltos por el H. Consejo Directivo del Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán.
