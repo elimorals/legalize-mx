@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-agencia-estatal-de-proyectos-71047"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-14"
-last_updated: "2012-01-30"
+last_updated: "2013-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA AGENCIA ESTATAL DE PROYECTOS ESTRATÉGICOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL DECRETO QUE CREA LA AGENCIA ESTATAL DE ATRACCIÓN DE INVERSIONES Y PROYECTOS ESTRATÉGICOS, PUBLICADO EN EL P.O. 30 DE ENERO DE 2012, SE REFORMA SU DENOMINACIÓN PARA QUEDAR COMO AGENCIA ESTATAL DE PROYECTOS ESTRATÉGICOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO «AGENCIA ESTATAL DE PROYECTOS ESTRATÉGICOS», PUBLICADO EN EL P.O. DE 12 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el viernes 14 de agosto del 2009.
 
@@ -322,3 +322,25 @@ ELOY VARGAS ARREOLA
 P.O. 30 DE ENERO DE 2012.
 
 Artículo Primero. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE JULIO DE 2013.
+
+Artículo Primero. El presente Decreto entrará en vigor a partir del 15 de julio de 2013.
+
+Artículo Segundo. Se abroga el Decreto Administrativo publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, en fecha 22 de mayo de 2008, por el cual se creó el Organismo Público Descentralizado denominado «Agencia Estatal de Atracción de Inversiones y Proyectos Estratégicos del Estado de Michoacán de Ocampo».
+
+Artículo Tercero. Se abroga el Decreto Administrativo publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, con fecha 30 de enero de 2012, a través del cual se reformaron y adicionaron diversas disposiciones del Decreto que crea la Agencia Estatal de Atracción de Inversiones y Proyectos Estratégicos del Estado de Michoacán de Ocampo, en cuya parte conducente se reformó la denominación de la entidad paraestatal, para quedar como Agencia Estatal de Proyectos Estratégicos.
+
+Artículo Cuarto. Se abroga el Reglamento Interior de la «Agencia Estatal de Proyectos Estratégicos».
+
+Artículo Quinto. El liquidador del Organismo deberá, a más tardar a los quince días hábiles posteriores a su designación, cerrar los estados financieros de la Agencia Estatal de Proyectos Estratégicos.
+
+Artículo Sexto. El presupuesto asignado a la «Agencia Estatal de Proyectos Estratégicos»; en el Decreto que contiene el Presupuesto de Egresos para el Gobierno del Estado de Michoacán de Ocampo, para el Ejercicio Fiscal del año 2013, deberá destinarse a la Secretaría de Desarrollo Económico, con la finalidad de que ésta, concluya todos y cada uno de los asuntos pendientes, en los términos y para los fines establecidos en el artículo 6° de este Decreto, en la inteligencia de que el remanente deberá reintegrarse al patrimonio del Gobierno del Estado de Michoacán de Ocampo.
+
+Artículo Séptimo. Una vez iniciado el proceso de liquidación, la Coordinación de Contraloría, proveerá lo necesario para la realización de una auditoría administrativa-financiera por el periodo comprendido del 15 de febrero al 31 de diciembre de 2012 y del 1° de enero hasta la fecha de entrada en vigor del presente Decreto, con cargo al presupuesto del organismo sujeto al proceso de liquidación.
+
+Artículo Octavo. Las cuentas bancarias y de inversión, que opera la «Agencia Estatal de Proyectos Estratégicos»; deberán estar conciliadas y canceladas y ser aperturadas a favor de la Secretaría de Desarrollo Económico, única y exclusivamente para los fines previstos en el artículo 6° de este Decreto.
+
+Artículo Noveno. Las adecuaciones presupuestales que deban realizarse como consecuencia del proceso de liquidación y extinción definitiva de la «Agencia Estatal de Proyectos Estratégicos»; incluirán las transferencias de recursos humanos y de los activos patrimoniales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, sistemas, maquinaria, archivos y, en general el equipo que haya utilizado para el despacho de los asuntos a su cargo.
+
+Artículo Décimo. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
