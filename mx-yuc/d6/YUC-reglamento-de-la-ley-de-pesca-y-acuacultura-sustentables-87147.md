@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-pesca-y-acuacultura-sustentables-87147"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-05"
-last_updated: "2012-04-05"
+last_updated: "2013-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JULIO DE 2013.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el jueves 5 de abril de 2012.
 
@@ -41,29 +41,33 @@ REGLAMENTO DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 1.
 
-Este Reglamento tiene por objeto establecer las disposiciones derivadas de la Ley de Pesca y Acuacultura Sustentables del Estado de Yucatán. Su aplicación corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría de Fomento Agropecuario y Pesquero, a través de la Dirección de Pesca y Acuacultura, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Estatal.
+Este Reglamento tiene por objeto establecer las disposiciones derivadas de la Ley de Pesca y Acuacultura Sustentables del Estado de Yucatán. Su aplicación corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Rural, a través de la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Estatal.
+
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 2.
 
 Para los efectos de este Reglamento, sin perjuicio de las definiciones contenidas en la Ley de Pesca y Acuacultura Sustentables del Estado de Yucatán, se entenderá por:
 
-I. Consejo: el Consejo Estatal de Pesca y Acuacultura Sustentables del Estado de Yucatán;
+I. Comisión: la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán;
 
-II. CONAPESCA: la Comisión Nacional de Acuacultura y Pesca;
+II. Comisionado: el Titular de la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán;
 
-III. Dirección: la Dirección de Pesca y Acuacultura de la Secretaría de Fomento Agropecuario y Pesquero del Poder Ejecutivo del Gobierno del Estado de Yucatán;
+III. CONAPESCA: la Comisión Nacional de Acuacultura y Pesca;
 
-IV. Director: el Director de Pesca y Acuacultura de la Secretaría de Fomento Agropecuario y Pesquero del Poder Ejecutivo del Gobierno del Estado de Yucatán;
+IV. Consejo: el Consejo de Pesca y Acuacultura Sustentables del Estado de Yucatán;
 
 V. Ley: la Ley de Pesca y Acuacultura Sustentables del Estado de Yucatán;
 
 VI. Reglamento: el Reglamento de la Ley de Pesca y Acuacultura Sustentables del Estado de Yucatán;
 
-VII. Secretaría: la Secretaría de Fomento Agropecuario y Pesquero del Poder Ejecutivo del Gobierno del Estado de Yucatán, y
+VII. Secretaría: la Secretaría de Desarrollo Rural del Gobierno del Estado de Yucatán, y
 
-VIII. Secretario: el Secretario de Fomento Agropecuario y Pesquero del Poder Ejecutivo del Gobierno del Estado de Yucatán.
+VIII. Secretario: el Secretario de Desarrollo Rural del Gobierno del Estado de Yucatán.
 
 ###### Artículo 3.
 
@@ -101,9 +105,11 @@ V. Aprobar la Carta Estatal Pesquera y la Carta Estatal Acuícola, de conformida
 
 VI. Las demás que le encomiende el Titular del Poder Ejecutivo del Estado, y las que establezcan la Ley, este Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 8.
 
-El Director tendrá a su cargo el ejercicio de las siguientes funciones:
+El Comisionado tendrá a su cargo el ejercicio de las siguientes funciones:
 
 I. Diseñar y aplicar, en el ámbito de su competencia, instrumentos económicos que incentiven el cumplimiento de los objetivos de la Política Pesquera y Acuícola del Estado;
 
@@ -113,7 +119,9 @@ III. Elaborar y someter a la aprobación del Secretario, la Carta Estatal Pesque
 
 IV. Establecer bases de coordinación y, en su caso, gestionar la celebración de convenios, acuerdos de coordinación y colaboración, con las dependencias de las administraciones públicas Federal, Estatal y Municipal, e Instituciones de investigación, así como celebrar acuerdos de concertación de acciones con los sectores productivos para la ejecución de programas y proyectos de fomento y desarrollo de las actividades pesqueras y acuícolas;
 
-V. Promover la participación activa de las comunidades y los productores en la administración y manejo de los recursos pesqueros y acuícolas, a través del Consejo Estatal de Pesca y Acuacultura Sustentables del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 12 DE JULIO DE 2013)</small>
+
+V. Promover la participación activa de las comunidades y los productores en la administración y manejo de los recursos pesqueros y acuícolas, a través del Consejo;
 
 VI. Promover la investigación científica y tecnológica en materia pesquera y acuícola;
 
@@ -137,9 +145,11 @@ El Poder Ejecutivo del Estado podrá expedir programas de apoyo pesquero, los cu
 
 Los programas de apoyo pesquero, así como las concesiones y permisos deberán ceñirse a las disposiciones aplicables previstas en la Ley y en este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 11.
 
-La Secretaria elaborará los programas de apoyo pesquero, considerando la biología y ecología de las especies objeto de los mismos.
+La Secretaría elaborará los programas de apoyo pesquero, considerando la biología y ecología de las especies objeto de los mismos.
 
 Estos programas deberán incluir criterios de manejo explícitos, aspectos del ecosistema, conectividad, características socioeconómicas, movilidad de las flotas, y los demás aspectos que sean convenientes para el cumplimiento de los objetivos de los programas de apoyo pesquero.
 
@@ -197,9 +207,11 @@ Los programas referidos en el artículo inmediato anterior, se elaborarán con b
 
 Cuando derivadas de la evaluación del comportamiento y desarrollo de las pesquerías u otra actividad relacionada al sector pesquero, se formulen desde el Consejo recomendaciones y propuestas de medidas para su desarrollo ordenado, éstas deberán someterse a la consideración de la CONAPESCA para que, en su caso, realice las observaciones que estime pertinentes.
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 16.
 
-Los programas mencionados en al Artículo 13 anterior, serán operados directamente por la Secretaría, a través de la Dirección, y contendrán el plan de trabajo calendarizado, la distribución del presupuesto, así como los indicadores de gestión y seguimiento.
+Los programas mencionados en al Artículo 13 anterior, serán operados directamente por la Secretaría, a través de la Comisión, y contendrán el plan de trabajo calendarizado, la distribución del presupuesto, así como los indicadores de gestión y seguimiento.
 
 ###### Artículo 17.
 
@@ -241,19 +253,25 @@ La información y datos de cualquier tipo, que sean presentadas ante el Consejo,
 
 ### Capítulo V. Sistema Estatal de Información Pesquera y Acuícola
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 23.
 
-La Dirección será la encargada de integrar y mantener actualizada la información a que se refiere el Sistema Estatal de Información Pesquera y Acuícola, de acuerdo a lo establecido en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán.
+La Comisión será la encargada de integrar y mantener actualizada la información a que se refiere el Sistema Estatal de Información Pesquera y Acuícola, de acuerdo a lo establecido en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán.
 
 #### Sección Primera. Carta Estatal Pesquera y Carta Estatal Acuícola
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 24.
 
-La Dirección deberá mantener actualizadas la Carta Estatal Pesquera y la Carta Estatal Acuícola.
+La Comisión deberá mantener actualizadas la Carta Estatal Pesquera y la Carta Estatal Acuícola.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 25.
 
-La Secretaría expedirá a los interesados el certificado de registro de la Carta Estatal Acuícola, previa recepción de los documentos que acrediten la siguiente información:
+La Secretaría, a través de la Comisión, expedirá a los interesados el certificado de registro de la Carta Estatal Acuícola, previa recepción de los documentos que acrediten la siguiente información:
 
 I. Nombre de la granja o establecimiento acuícola;
 
@@ -375,19 +393,25 @@ El certificado que se emita deberá contener la fecha y lugar de expedición y e
 
 #### Sección Segunda. Del Registro Estatal de Pesca y Acuacultura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 26.
 
-El Registro Estatal de Pesca y Acuacultura estará a cargo de la Secretaría, será público y tendrá por objeto la inscripción y actualización con carácter obligatorio de las personas, instituciones, bienes y demás información sobre las actividades pesqueras y acuícolas que se desarrollan en Yucatán, en términos de la Ley, este Reglamento y demás disposiciones aplicables.
+El Registro Estatal de Pesca y Acuacultura estará a cargo de la Comisión, será público y tendrá por objeto la inscripción y actualización con carácter obligatorio de las personas, instituciones, bienes y demás información sobre las actividades pesqueras y acuícolas que se desarrollan en Yucatán, en términos de la Ley, este Reglamento y demás disposiciones aplicables.
 
 Asimismo, deberán inscribirse en el Registro a que se refiere este artículo, las personas físicas o morales que cuenten con certificados de sanidad, inocuidad o calidad pesquera y acuícola expedidos por el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria, (SENASICA), en términos de la legislación aplicable.
 
-La Secretaría integrará los datos del Registro Estatal de Pesca y Acuacultura al Sistema Nacional de Información de Pesca y Acuacultura.
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
+La Comisión integrará los datos del Registro Estatal de Pesca y Acuacultura al Sistema Nacional de Información de Pesca y Acuacultura.
 
 ###### Artículo 27.
 
 Para la inscripción en el Registro Estatal de Pesca y Acuacultura, además de sujetarse a lo previsto en la Ley, en este Reglamento y en las demás disposiciones aplicables, los interesados deberán cumplir los siguientes requisitos:
 
-I. Presentar solicitud por escrito en el formato expedido por la Secretaría, el cual contendrá, por lo menos, la siguiente información:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JULIO DE 2013)</small>
+
+I. Presentar solicitud por escrito en el formato expedido por la Comisión, el cual contendrá, por lo menos, la siguiente información:
 
 a) Nombre, denominación o razón social y domicilio del solicitante;
 
@@ -403,7 +427,9 @@ f) En su caso, comprobantes fiscales, escrituras o documentos que acrediten la l
 
 g) Certificado de matrícula y bandera mexicana o pasavante de navegación cuando el certificado de matrícula se encuentre en trámite, salvo que para acreditar la legal disposición de los bienes y equipos se hubiere presentado programa de construcción ó de adquisición;
 
-h) Nombre, Clave del Registro Federal de Contribuyentes (RFC), Clave Única de Registro de Población (CURP), sexo, edad, grado máximo de estudios y actividad que desempeña cada uno de los empleados de planta que laboren bajo su responsabilidad. Esta información deberá actualizarse al menos una vez por año en las fechas y a través de los medios que establezca la Secretaría;
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
+h) Nombre, Clave del Registro Federal de Contribuyentes (RFC), Clave Única de Registro de Población (CURP), sexo, edad, grado máximo de estudios y actividad que desempeña cada uno de los empleados de planta que laboren bajo su responsabilidad. Esta información deberá actualizarse al menos una vez por año en las fechas y a través de los medios que establezca la Comisión;
 
 i) Número de la concesión o del permiso respectivo, periodo de vigencia, pesquería o especies, artes y equipos de pesca, sitios de desembarque, cuotas de captura y zonas de pesca o cultivo, incluidas las coordenadas de referencia geográfica, según corresponda,
 
@@ -431,19 +457,25 @@ f) Certificado de matrícula y bandera mexicana o pasavante de navegación cuand
 
 III. Cubrir el pago de derechos que, en su caso, correspondan, y
 
-IV. Los demás datos, información y documentos requeridos en el formato expedido por la Secretaría.
+> <small>(REFORMADA, D.O. 12 DE JULIO DE 2013)</small>
+
+IV. Los demás datos, información y documentos requeridos en el formato expedido por la Comisión.
 
 ###### Artículo 28.
 
 Cualquier persona podrá consultar gratuitamente los asientos e inscripciones que obren en el Registro Estatal de Pesca y Acuacultura y obtener copias simples y certificadas, previo pago de los derechos que correspondan.
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 29.
 
-La Secretaría asentará en el Registro Estatal de Pesca y Acuacultura, las resoluciones administrativas firmes por las cuales imponga sanciones por infracciones a la Ley, a este Reglamento o a las demás disposiciones aplicables, señalando el nombre del infractor, la disposición infringida, fecha de la infracción, la sanción impuesta, las fechas en que se dictó y quedó firme, así como el expediente y la autoridad sancionadora.
+La Comisión asentará en el Registro Estatal de Pesca y Acuacultura, las resoluciones administrativas firmes por las cuales imponga sanciones por infracciones a la Ley, a este Reglamento o a las demás disposiciones aplicables, señalando el nombre del infractor, la disposición infringida, fecha de la infracción, la sanción impuesta, las fechas en que se dictó y quedó firme, así como el expediente y la autoridad sancionadora.
+
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 30.
 
-El Registro Estatal de Pesca y Acuacultura deberá mantenerse actualizado de forma permanente. Para tal efecto, cualquier modificación de las circunstancias que originaron el registro, deberá hacerse del conocimiento de la Secretaría por el titular del certificado de registro, dentro de los treinta días naturales siguientes al hecho que motive la modificación, mediante aviso en escrito libre al que se anexen en original o copia certificada los documentos que acrediten la modificación respectiva.
+El Registro Estatal de Pesca y Acuacultura deberá mantenerse actualizado de forma permanente. Para tal efecto, cualquier modificación de las circunstancias que originaron el registro, deberá hacerse del conocimiento de la Comisión por el titular del certificado de registro, dentro de los treinta días naturales siguientes al hecho que motive la modificación, mediante aviso en escrito libre al que se anexen en original o copia certificada los documentos que acrediten la modificación respectiva.
 
 ###### Artículo 31.
 
@@ -473,23 +505,29 @@ VI. Solicitud de renuncia del interesado, y
 
 VII. Las demás causas que prevea la Ley, este Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 33.
 
-Para el mejor desempeño de la función registral, la Secretaría podrá solicitar a las autoridades federales, estatales y municipales competentes, la información de la que dispongan en el ámbito de sus atribuciones en relación con las personas, instituciones y bienes relativos a las actividades pesqueras y acuícolas.
+Para el mejor desempeño de la función registral, la Comisión podrá solicitar a las autoridades federales, estatales y municipales competentes, la información de la que dispongan en el ámbito de sus atribuciones en relación con las personas, instituciones y bienes relativos a las actividades pesqueras y acuícolas.
 
 ### Capítulo VI. Empadronamiento y Credencialización
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 34.
 
-La Secretaría, a través de la Dirección, deberá integrar el Padrón de Pescadores Activos del Litoral Yucateco.
+La Secretaría, a través de la Comisión, deberá integrar el Padrón de Pescadores Activos del Litoral Yucateco.
 
-Para efectos de integrar el Padrón a que se refiere este artículo, la Secretaría realizará un censo de los pescadores activos del litoral yucateco, a los cuales entregará una cédula de empadronamiento que acredite dicho censo.
+Para efectos de integrar el Padrón a que se refiere este artículo, la Comisión realizará un censo de los pescadores activos del litoral yucateco, a los cuales entregará una cédula de empadronamiento que acredite dicho censo.
 
-La Secretaría, en su caso y siempre que cuente con recursos autorizados para ello, podrá contratar, mediante los procedimientos establecidos en la ley de la materia, a empresas especializadas para realizar el censo de los pescadores activos del litoral yucateco.
+La Comisión, en su caso y siempre que cuente con recursos autorizados para ello, podrá contratar, mediante los procedimientos establecidos en la ley de la materia, a empresas especializadas para realizar el censo de los pescadores activos del litoral yucateco.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 35.
 
-Los interesados en inscribirse al Padrón de Pescadores Activos del Litoral Yucateco, deberán presentar a la Dirección la siguiente documentación:
+Los interesados en inscribirse al Padrón de Pescadores Activos del Litoral Yucateco, deberán presentar a la Comisión la siguiente documentación:
 
 I. Copia de la cédula de empadronamiento a que se refiere el segundo párrafo del artículo anterior;
 
@@ -499,11 +537,15 @@ III. Copia de la Clave Única de Registro Población;
 
 IV. Copia del Tarjetón Ribereño o de la Tarjeta de Mar, y
 
-V. Los demás documentos que determine la Dirección, con base en las disposiciones aplicables.
+> <small>(REFORMADA, D.O. 12 DE JULIO DE 2013)</small>
+
+V. Los demás documentos que determine la Comisión, con base en las disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 36.
 
-La Secretaría expedirá a los pescadores que se inscriban al Padrón de Pescadores Activos del Litoral Yucateco, la Credencial de Acreditación de Pescador, la cual contendrá los siguientes datos:
+La Comisión expedirá a los pescadores que se inscriban al Padrón de Pescadores Activos del Litoral Yucateco, la Credencial de Acreditación de Pescador, la cual contendrá los siguientes datos:
 
 I. Fotografía;
 
@@ -525,17 +567,23 @@ IX. Número de folio;
 
 X. Vigencia de la credencial, la cual será de 3 años;
 
-XI. Logo de la Secretaria, de la Comisión Regional de Pesca y Acuacultura de Yucatán, y
+> <small>(REFORMADA, D.O. 12 DE JULIO DE 2013)</small>
 
-XII. Las demás que determine el Secretario con base en las disposiciones aplicables.
+XI. Logo de la Secretaría, de la Comisión, de la Comisión Regional de Pesca y Acuacultura de Yucatán, y
+
+> <small>(REFORMADA, D.O. 12 DE JULIO DE 2013)</small>
+
+XII. Las demás que determine el Comisionado con base en las disposiciones aplicables.
 
 Está credencial será la identificación oficial para acreditar a la persona como pescador activo del Litoral Yucateco.
 
 ### Capítulo VII. Emplacamiento de embarcaciones menores
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 37.
 
-Corresponde a la Secretaria realizar el emplacamiento o sustitución de placa de las embarcaciones menores a 10.5 metros de eslora, que identifique a las barcas pesqueras que desarrollan sus actividades en el litoral yucateco.
+Corresponde a la Comisión realizar el emplacamiento o sustitución de placa de las embarcaciones menores a 10.5 metros de eslora, que identifique a las barcas pesqueras que desarrollan sus actividades en el litoral yucateco.
 
 ###### Artículo 38.
 
@@ -551,7 +599,9 @@ IV. Credencial para votar expedida por el Instituto Federal Electoral;
 
 V. Clave Única de Registro de Población (CURP), y
 
-VI. Los demás documentos que determine la Secretaría en términos de la Ley y este Reglamento.
+> <small>(REFORMADA, D.O. 12 DE JULIO DE 2013)</small>
+
+VI. Los demás documentos que determine la Comisión en términos de la Ley y este Reglamento.
 
 ###### Artículo 39.
 
@@ -569,7 +619,9 @@ V. Copia de la credencial para votar expedida por el Instituto Federal Electoral
 
 VI. Copia de la Clave Única de Registro de Población (CURP), y
 
-VII. Los demás documentos que determine la Secretaría, con base en la Ley y este Reglamento.
+> <small>(REFORMADA, D.O. 12 DE JULIO DE 2013)</small>
+
+VII. Los demás documentos que determine la Comisión, con base en la Ley y este Reglamento.
 
 ###### Artículo 40.
 
@@ -589,7 +641,9 @@ VI. Copia de la Clave Única de Registro de Población (CURP), y (sic)
 
 VII. Oficio de alta del nuevo propietario y baja del antiguo, y
 
-VIII. Los demás documentos que determine la Secretaría, con base en la Ley y este Reglamento.
+> <small>(REFORMADA, D.O. 12 DE JULIO DE 2013)</small>
+
+VIII. Los demás documentos que determine la Comisión, con base en la Ley y este Reglamento.
 
 ###### Artículo 41.
 
@@ -607,7 +661,9 @@ V. Copia de la credencial para votar expedida por el Instituto Federal Electoral
 
 VI. Copia de la Clave Única de Registro de Población (CURP), y
 
-VII. Los demás documentos que determine la Secretaría, con base en la Ley y este Reglamento.
+> <small>(REFORMADA, D.O. 12 DE JULIO DE 2013)</small>
+
+VII. Los demás documentos que determine la Comisión, con base en la Ley y este Reglamento.
 
 ###### Artículo 42.
 
@@ -625,31 +681,41 @@ V. Copia de la credencial para votar expedida por el Instituto Federal Electoral
 
 VI. Copia de la Clave Única de Registro de Población (CURP), y
 
-VII. Los demás documentos que determine la Secretaría, con base en la Ley y este Reglamento.
+> <small>(REFORMADA, D.O. 12 DE JULIO DE 2013)</small>
+
+VII. Los demás documentos que determine la Comisión, con base en la Ley y este Reglamento.
 
 ### Capítulo VIII. Vedas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 43.
 
-Con base en la opinión técnica del Instituto Nacional de Pesca, la Secretaría establecerá, mediante Acuerdo que deberá publicar en el Diario Oficial Del Gobierno del Estado de Yucatán, las especies, épocas y zonas de veda para la flora y fauna acuáticas en aguas de jurisdicción estatal, con objeto de proteger las especies durante sus periodos de reproducción, incubación, crecimiento, reclutamiento o cuando se haya alcanzado una cuota de captura o punto de referencia.
+Con base en la opinión técnica del Instituto Nacional de Pesca, la Secretaría establecerá, mediante Acuerdo que deberá publicar en el Diario Oficial del Gobierno del Estado de Yucatán, las especies, épocas y zonas de veda para la flora y fauna acuáticas en aguas de jurisdicción estatal, con objeto de proteger las especies durante sus periodos de reproducción, incubación, crecimiento, reclutamiento o cuando se haya alcanzado una cuota de captura o punto de referencia.
 
 Al establecerse un período de veda, se precisará su carácter temporal o permanente, la denominación común y científica de las especies sujetas a veda, las épocas y zonas de veda, así como las demás condiciones que la Secretaría juzgue necesarias para que la veda cumpla con su objeto, de conformidad con la Ley, este Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 44.
 
-Las especies declaradas en veda no podrán ser objeto de pesca o cosecha, a excepción de los volúmenes que mediante permiso otorgue la Secretaría, de acuerdo con la Ley y este Reglamento, para el abasto de la producción acuícola y para el fomento pesquero con fines científicos o de investigación.
+Las especies declaradas en veda no podrán ser objeto de pesca o cosecha, a excepción de los volúmenes que mediante permiso otorgue la Secretaría, por conducto de la Comisión, de acuerdo con la Ley y este Reglamento, para el abasto de la producción acuícola y para el fomento pesquero con fines científicos o de investigación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 45.
 
-Quienes en las zonas litorales o embalses en donde entre en vigor una veda, mantengan en existencia productos pesqueros provenientes de captura en estado fresco, enhielado o congelado para su conservación, almacenamiento, procesamiento o comercialización al mayoreo, deberán formular un inventario de existencias de la especie o especies sujetas a veda y darán aviso a la autoridad pesquera en un plazo de tres días hábiles contados a partir de la fecha de inicio de la veda, a través del formato que para tal efecto emita la Secretaría.
+Quienes en las zonas litorales o embalses en donde entre en vigor una veda, mantengan en existencia productos pesqueros provenientes de captura en estado fresco, enhielado o congelado para su conservación, almacenamiento, procesamiento o comercialización al mayoreo, deberán formular un inventario de existencias de la especie o especies sujetas a veda y darán aviso a la autoridad pesquera en un plazo de tres días hábiles contados a partir de la fecha de inicio de la veda, a través del formato que para tal efecto emita la Secretaría, por conducto de la Comisión.
 
 La omisión de formular el inventario y dar el aviso en los términos previstos en el párrafo anterior, dará lugar a que se presuma que los productos fueron capturados contraviniendo la veda.
 
 ### Capítulo IX. Legal procedencia de los productos pesqueros y acuícolas
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 46.
 
-Corresponde a la Secretaría colaborar con las autoridades federales en la aplicación de las disposiciones legales que establecen los procedimientos para acreditar la legal procedencia de los productos pesqueros y acuícolas en el Estado de Yucatán.
+Corresponde a la Secretaría, por conducto de la Comisión, colaborar con las autoridades federales en la aplicación de las disposiciones legales que establecen los procedimientos para acreditar la legal procedencia de los productos pesqueros y acuícolas en el Estado de Yucatán.
 
 ###### Artículo 47.
 
@@ -693,9 +759,11 @@ Los propietarios de productos pesqueros y acuícolas objeto de comercio, deberá
 
 ### Capítulo X. Del permiso de pesca deportivo-recreativa
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 50.
 
-Corresponde a la Secretaría expedir los permisos para realizar pesca deportivo-recreativa, en los términos de los lineamientos que para tal efecto expida la Ley General.
+Corresponde a la Comisión expedir los permisos para realizar pesca deportivo-recreativa, en los términos de los lineamientos que para tal efecto expida la Ley General.
 
 ###### Artículo 51.
 
@@ -711,11 +779,15 @@ III. De manera subacuática.
 
 Se requerirá el permiso para la pesca deportivo-recreativa, cuando ésta se realice a bordo de una embarcación o de manera subacuática.
 
-La Secretaría promoverá la celebración de convenios con otras entidades federativas, con la participación que en su caso corresponda a sus municipios, así como con personas físicas o morales tales como organizaciones y prestadores de servicio, para facilitar la obtención y distribución de los permisos de pesca deportivo-recreativa expedidos por la Secretaría.
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
+La Comisión promoverá la celebración de convenios con otras entidades federativas, con la participación que en su caso corresponda a sus municipios, así como con personas físicas o morales tales como organizaciones y prestadores de servicio, para facilitar la obtención y distribución de los permisos de pesca deportivo-recreativa expedidos por la Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 53.
 
-La Secretaría, para fomentar la pesca deportivo-recreativa, celebrará convenios de coordinación con las dependencias y entidades competentes, así como convenios de concertación con los prestadores de servicios, particulares, organizaciones de los sectores privados y sociales interesados en la actividad, que tendrán por objeto:
+La Comisión, para fomentar la pesca deportivo-recreativa, celebrará convenios de coordinación con las dependencias y entidades competentes, así como convenios de concertación con los prestadores de servicios, particulares, organizaciones de los sectores privados y sociales interesados en la actividad, que tendrán por objeto:
 
 I. Promover la construcción de la infraestructura necesaria para esta actividad;
 
@@ -729,73 +801,97 @@ Los límites máximos de captura serán los establecidos en las Normas Oficiales
 
 ### Capítulo XI. Del fomento a la acuacultura
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 55.
 
-La Secretaría asesorará a los productores acuícolas, con el fin de promover el desarrollo de la actividad acuícola en todas sus modalidades y niveles de inversión.
+La Comisión asesorará a los productores acuícolas, con el fin de promover el desarrollo de la actividad acuícola en todas sus modalidades y niveles de inversión.
+
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 56.
 
-La Secretaría ejecutará los programas estatales de acuacultura, y coadyuvará en los programas federales de la materia, en lo referente a la infraestructura y equipamiento.
+La Comisión ejecutará los programas estatales de acuacultura, y coadyuvará en los programas federales de la materia, en lo referente a la infraestructura y equipamiento.
+
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 57.
 
-El titular de la Secretaria podrá dictar las medidas necesarias para el cumplimiento de esta (sic) capitulo.
+El Secretario podrá dictar las medidas necesarias para el cumplimiento de este capítulo.
 
 ### Capítulo XII. De la sanidad e inocuidad
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 58.
 
-La Secretaría, en cualquier tiempo, podrá expedir y aplicar, por causa justificada y sustentada técnicamente, medidas sanitarias para prevenir, controlar y erradicar enfermedades que afecten a la actividad acuícola y pesquera, las cuales tendrán vigencia durante el tiempo que sea necesario para alcanzar los objetivos a que se refiere este artículo.
+La Secretaría, en cualquier tiempo, podrá expedir y aplicar, por conducto de la Comisión, por causa justificada y sustentada técnicamente, medidas sanitarias para prevenir, controlar y erradicar enfermedades que afecten a la actividad acuícola y pesquera, las cuales tendrán vigencia durante el tiempo que sea necesario para alcanzar los objetivos a que se refiere este artículo.
+
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 59.
 
-Para la aplicación de las medidas sanitarias a que se refiere el artículo anterior, la Secretaría considerará los sitios, granjas y establecimientos donde se encuentren especies acuícolas y pesqueras en cultivo y productos respectivamente, así como la internación y movilización de especies acuícolas vivas, productos, subproductos, insumos, equipos, materiales de empaque y destinados a la actividad acuícola y pesquera, para implementar un estricto control sanitario y salvaguardar la calidad de los productos derivados de la acuicultura y la pesca.
+Para la aplicación de las medidas sanitarias a que se refiere el artículo anterior, la Secretaría, por conducto de la Comisión, considerará los sitios, granjas y establecimientos donde se encuentren especies acuícolas y pesqueras en cultivo y productos respectivamente, así como la internación y movilización de especies acuícolas vivas, productos, subproductos, insumos, equipos, materiales de empaque y destinados a la actividad acuícola y pesquera, para implementar un estricto control sanitario y salvaguardar la calidad de los productos derivados de la acuicultura y la pesca.
 
 ###### Artículo 60.
 
 En los casos en que el permisionario o porteador deba anexar el certificado de sanidad acuícola y pesquera, bastara con el que haya expedido la SENASICA y que esté vigente.
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 61.
 
-La Secretaría podrá implementar medidas de sanidad para la prevención, control o erradicación de enfermedades en un área geográfica determinada, mediante acuerdo que publique en el Diario Oficial del Gobierno del Estado, en que se declare dicha área como zona de control, zona de erradicación y, en su caso, de zona libre de aquellas.
+La Secretaría, por conducto de la Comisión, podrá implementar medidas de sanidad para la prevención, control o erradicación de enfermedades en un área geográfica determinada, mediante acuerdo que publique en el Diario Oficial del Gobierno del Estado de Yucatán, en que se declare dicha área como zona de control, zona de erradicación y, en su caso, de zona libre de aquellas.
+
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 62.
 
-Cuando el permisionario o los laboratorios detecten la presencia de una enfermedad de alto riesgo, cuya clasificación se encuentre en el Manual Técnico de Operación expedido por la CONAPESCA-SENASICA, deberán informar la situación a la Secretaría dentro del término de veinticuatro horas, por escrito, vía fax o correo electrónico, para que ésta acuerde las medidas conducentes.
+Cuando el permisionario o los laboratorios detecten la presencia de una enfermedad de alto riesgo, cuya clasificación se encuentre en el Manual Técnico de Operación expedido por la CONAPESCA-SENASICA, deberán informar la situación a la Comisión dentro del término de veinticuatro horas, por escrito, vía fax o correo electrónico, para que ésta acuerde las medidas conducentes.
 
 ###### Artículo 63.
 
 Los permisionarios en los cultivos acuícolas, deberán aplicar alimentos libres de agentes contaminantes y que su composición conlleve a un producto acuícola inocuo para el consumo humano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 64.
 
-La Secretaría podrá otorgar permiso especial previa visita de verificación que haga el personal autorizado a la granja o establecimiento acuícola y pesquero (sic) constate que la resiembra o almacenamiento no representa ningún riesgo de sanidad.
+La Secretaría, por conducto de la Comisión, podrá otorgar permiso especial previa visita de verificación que haga el personal autorizado a la granja o establecimiento acuícola y pesquero que constate que la resiembra o almacenamiento no representa ningún riesgo de sanidad.
 
 El solicitante de un permiso especial, deberá dar aviso por escrito a la Secretaría con quince días de anticipación a su pretensión, en donde señale las causas de la resiembra.
 
 La resiembra se considera la acción de volver a sembrar larvas o alevines de ciertas especies acuícolas y/o pesqueras.
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 65.
 
-Los permisionarios que durante el cultivo detecten la presencia de una enfermedad de alto riesgo en uno o más estanques, sin perjuicio del aviso respectivo que hagan a la Secretaría, deberán suspender la descarga de agua hacia el estanque o estanques correspondientes.
+Los permisionarios que durante el cultivo detecten la presencia de una enfermedad de alto riesgo en uno o más estanques, sin perjuicio del aviso respectivo que hagan a la Comisión, deberán suspender la descarga de agua hacia el estanque o estanques correspondientes.
 
-La Secretaría podrá ordenar la cosecha anticipada en caso de considerarse viable en virtud de la visita de verificación que realice, a través de su personal autorizado.
+La Comisión podrá ordenar la cosecha anticipada en caso de considerarse viable en virtud de la visita de verificación que realice, a través de su personal autorizado.
 
 ### Capítulo XIII. De la inspección acuícola
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 66.
 
-Se entiende por inspección o verificación todas aquellas actividades efectuadas por la Secretaría, a través del personal debidamente autorizado, que tengan por objeto verificar el cumplimiento de las disposiciones legales en materia acuícola en instalaciones, espacios de cultivo, almacenamiento, equipos, vehículos, así como comprobar la documentación que ampare la legal procedencia de las especies acuícolas.
+Se entiende por inspección o verificación todas aquellas actividades efectuadas por la Secretaría, a través del personal debidamente autorizado de la Comisión, que tengan por objeto verificar el cumplimiento de las disposiciones legales en materia acuícola en instalaciones, espacios de cultivo, almacenamiento, equipos, vehículos, así como comprobar la documentación que ampare la legal procedencia de las especies acuícolas.
+
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 67.
 
-La Secretaría, a través de la Dirección, ejercerá la función de inspección a que se refiere el artículo anterior en coordinación con la Dirección General de Inspección y Vigilancia de la CONAPESCA y el Comité de Sanidad Acuícola Estatal.
+La Secretaría, a través de la Comisión, ejercerá la función de inspección a que se refiere el artículo anterior en coordinación con la Dirección General de Inspección y Vigilancia de la CONAPESCA y el Comité de Sanidad Acuícola Estatal.
 
-La Dirección ordenará las visitas de verificación y autorizará al personal verificador a fin de comprobar el cumplimiento de las disposiciones que establecen la Ley, este Reglamento y las demás disposiciones aplicables.
+La Comisión ordenará las visitas de verificación y autorizará al personal verificador a fin de comprobar el cumplimiento de las disposiciones que establecen la Ley, este Reglamento y las demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 68.
 
-La inspección que llevará a cabo el personal autorizado por la Secretaría, se realizará a través de:
+La inspección que llevará a cabo el personal autorizado por la Comisión, se realizará a través de:
 
 I. Requerimiento de informes y documentos;
 
@@ -803,13 +899,17 @@ II. Visitas domiciliarias, e
 
 III. Inspección de vehículos que trasladen productos o especies acuícolas.
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 69.
 
-Quienes sean requeridos por la Secretaría para la exhibición de documentos, tendrán la obligación de presentarlos en un plazo de tres días, contados a partir del día siguiente al de la notificación del requerimiento.
+Quienes sean requeridos por la Comisión para la exhibición de documentos, tendrán la obligación de presentarlos en un plazo de tres días, contados a partir del día siguiente al de la notificación del requerimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 70.
 
-Las visitas domiciliarias se efectuarán en las instalaciones, espacios de cultivo, almacenamientos y conservación de productos acuícolas, previa orden escrita debidamente fundada y motivada, expedida por la Dirección, la cual deberá contener, por lo menos, la siguiente información:
+Las visitas domiciliarias se efectuarán en las instalaciones, espacios de cultivo, almacenamientos y conservación de productos acuícolas, previa orden escrita debidamente fundada y motivada, expedida por la Comisión, la cual deberá contener, por lo menos, la siguiente información:
 
 I. Lugar y fecha de expedición;
 
@@ -823,9 +923,11 @@ V. Los motivos y disposiciones legales en que se funda la visita, y
 
 VI. El nombre de la persona o personas designadas para practicar la visita de inspección.
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 71.
 
-Cuando la Secretaría tenga conocimiento de que una persona física o moral realiza actividades reguladas por la Ley, el presente Reglamento o las demás disposiciones aplicables, sin contar con la concesión o permiso requerido para ello, ordenará la práctica de la visita de inspección del domicilio o establecimiento de que se trate, mediante orden escrita que contenga los datos señalados en el artículo anterior.
+Cuando la Comisión tenga conocimiento de que una persona física o moral realiza actividades reguladas por la Ley, el presente Reglamento o las demás disposiciones aplicables, sin contar con la concesión o permiso requerido para ello, ordenará la práctica de la visita de inspección del domicilio o establecimiento de que se trate, mediante orden escrita que contenga los datos señalados en el artículo anterior.
 
 ###### Artículo 72.
 
@@ -851,7 +953,9 @@ Al término de la inspección, se dará oportunidad a la persona con la que se e
 
 Los hechos u omisiones consignados en las actas harán prueba plena de su existencia, salvo prueba en contrario.
 
-Los hechos u omisiones identificados que ameriten algún tipo de acción o medida inmediata, deberán ser comunicados al servidor público de la Secretaría que hubiere ordenado la visita, a fin de que esta última determine lo conducente.
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
+Los hechos u omisiones identificados que ameriten algún tipo de acción o medida inmediata, deberán ser comunicados al servidor público de la Comisión que hubiere ordenado la visita, a fin de que esta última determine lo conducente.
 
 ###### Artículo 78.
 
@@ -863,13 +967,17 @@ En caso de que no se rinda el informe a que se refiere este artículo, se hará 
 
 El personal autorizado para practicar las visitas, en ejercicio de sus funciones y para el mejor cumplimiento de las comisiones encomendadas, podrá obtener copias de la documentación que obre en poder de las personas visitadas, la que previo cotejo con su original, se podrá certificar por aquéllas y anexar al acta que se levante con motivo de la visita.
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 80.
 
-Cuando el visitado o cualquier persona obstaculizaren o se opusieran a la práctica de la inspección, la Secretaría podrá solicitar a la autoridad competente el auxilio necesario para obtener una eficiente y eficaz ejecución de la orden de inspección o verificación.
+Cuando el visitado o cualquier persona obstaculizaren o se opusieran a la práctica de la inspección, la Comisión podrá solicitar a la autoridad competente el auxilio necesario para obtener una eficiente y eficaz ejecución de la orden de inspección o verificación.
+
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
 
 ###### Artículo 81.
 
-Cuando la Secretaría ordene la verificación de bienes y vehículos de transporte, con objeto de comprobar el cumplimiento de las disposiciones de la Ley y de este Reglamento, se observarán las formalidades previstas para las visitas de verificación y se dictará las medidas sanitarias que correspondan.
+Cuando la Comisión ordene la verificación de bienes y vehículos de transporte, con objeto de comprobar el cumplimiento de las disposiciones de la Ley y de este Reglamento, se observarán las formalidades previstas para las visitas de verificación y se dictará las medidas sanitarias que correspondan.
 
 ### Capítulo XIV. De la calificación de las actas
 
@@ -877,7 +985,9 @@ Cuando la Secretaría ordene la verificación de bienes y vehículos de transpor
 
 Las actas que se levanten como resultado de las visitas de inspección, así como de las actividades de inspección o verificación, serán entregadas a las autoridades que ordenaron su práctica, quienes una vez que las reciban, procederán a su calificación y, en caso de determinar que de las mismas se advierte la comisión de hechos probablemente constitutivos de infracción a la Ley, a este Reglamento o a las demás disposiciones aplicables, procederán de la siguiente manera:
 
-I. Requerirán al probable infractor, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas o acciones necesarias para cumplir con las disposiciones jurídicas aplicables, así como con las concesiones y permisos respectivos, fundando y motivando el requerimiento, señalando el plazo que corresponda para la adopción de dichas medidas o acciones y, en su caso, someter a la aprobación de la Secretaría el plan de regularización requerido y su cronograma de cumplimiento, la que podrá formularle ajustes conforme a las disposiciones aplicables;
+> <small>(REFORMADA, D.O. 12 DE JULIO DE 2013)</small>
+
+I. Requerirán al probable infractor, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas o acciones necesarias para cumplir con las disposiciones jurídicas aplicables, así como con las concesiones y permisos respectivos, fundando y motivando el requerimiento, señalando el plazo que corresponda para la adopción de dichas medidas o acciones y, en su caso, someter a la aprobación de la Comisión el plan de regularización requerido y su cronograma de cumplimiento, la que podrá formularle ajustes conforme a las disposiciones aplicables;
 
 II. Sin perjuicio de lo anterior, emplazarán al probable infractor al procedimiento administrativo de calificación de infracciones en materia de pesca y acuacultura, para que dentro del término improrrogable de quince días hábiles, contados a partir del día siguiente hábil en que surta sus efectos la notificación, exponga por escrito lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes en relación con los hechos u omisiones que se le atribuyen;
 
@@ -887,7 +997,9 @@ IV. Transcurrido el término del emplazamiento, se admitirán y desahogarán, en
 
 V. Con alegatos o sin ellos, transcurrido el término para presentarlos, la autoridad competente de la Secretaría procederá, dentro de los veinte días hábiles siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado personalmente o por correo certificado con acuse de recibo, y
 
-VI. En los casos en que proceda, la Secretaría hará del conocimiento a la Fiscalía General del Estado o autoridad competente, la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos y, en su caso, pondrá a disposición inmediata de aquél a las personas y bienes o productos pesqueros y acuícolas de que se trate.
+> <small>(REFORMADA, D.O. 12 DE JULIO DE 2013)</small>
+
+VI. En los casos en que proceda, la Comisión hará del conocimiento a la Fiscalía General del Estado o autoridad competente, la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos y, en su caso, pondrá a disposición inmediata de aquél a las personas y bienes o productos pesqueros y acuícolas de que se trate.
 
 ### Capítulo XV. Del financiamiento
 
@@ -913,9 +1025,11 @@ VI. Los demás recursos que obtengan por cualquier otro concepto.
 
 ### Capítulo XVI. De las sanciones
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 85.
 
-Para la imposición de las sanciones establecidas en la Ley, la Secretaría deberá considerar todo aquello estipulado en el Título Séptimo de las Infracciones y Sanciones de la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
+Para la imposición de las sanciones establecidas en la Ley, la Comisión deberá considerar todo aquello estipulado en el Título Séptimo de las Infracciones y Sanciones de la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
 ###### Artículo 86.
 
@@ -925,9 +1039,11 @@ Cuando con motivo de la infracción cometida se causen daños al medio ambiente,
 
 Para los efectos de la presente ley se considerará reincidente al infractor que incurra más de una vez en cualquiera de las infracciones establecidas en esta ley dentro de un período de dos años, contados a partir de la fecha de la primera infracción.
 
+> <small>(REFORMADO, D.O. 12 DE JULIO DE 2013)</small>
+
 ###### Artículo 88.
 
-Las sanciones consistentes en multa se harán efectivas por la Secretaría de Hacienda del Estado de Yucatán.
+Las sanciones consistentes en multa se harán efectivas por la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Yucatán.
 
 ###### Artículo 89.
 
@@ -970,3 +1086,11 @@ SECRETARIO DE FOMENTO AGROPECUARIO Y PESQUERO
 C. EDUARDO ADOLFO BATLLORI SAMPEDRO
 
 SECRETARIO DE DESARROLLO URBANO Y MEDIO AMBIENTE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 12 DE JULIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor rango que se opongan a lo establecido en este Decreto.
