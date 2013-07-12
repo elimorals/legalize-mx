@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-05-09"
+last_updated: "2013-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JULIO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -15657,4 +15657,12 @@ TERCERO.- Se derogan las disposiciones jurídicas que se opongan a lo dispuesto 
 
 CUARTO.- El Titular del Poder Ejecutivo del Estado de México, deberá de adecuar el Reglamento de Salud del Estado de México, en un término no mayor a 60 días, contados a partir del día siguiente en que se publica el presente Decreto en el Periódico Oficial "Gaceta del Gobierno", entre tanto se seguirá aplicando el vigente, en lo que no se oponga a este ordenamiento.
 
-QUINTO.- El Titular del Poder Ejecutivo del Estado de México, deberá de adecuar los acuerdos y demás disposiciones en la materia de salud, que contemplen la regulación, control y fomentos sanitarios en el Estado de México, para que los ejerza la "COPRISEM" con independencia del Instituto de Salud del Estado de México, que como organismo descentralizado debe únicamente otorgar la prestación de los servicios de salud en la Entidad, en un término de 60 días contados a partir de la publicación del presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+> <small>(REFORMADO, G.G. 12 DE JULIO DE 2013)</small>
+
+QUINTO.- El Titular del Poder Ejecutivo del Estado de México, deberá de adecuar los acuerdos y demás disposiciones en la materia de salud, que contemplen la regulación, control y fomentos sanitarios en el Estado de México, para que los ejerza la "COPRISEM" con independencia del Instituto de Salud del Estado de México, que como organismo descentralizado debe únicamente otorgar la prestación de los servicios de salud en la Entidad, en un término de 120 días contados a partir del día siguiente en que entre en vigor el presente Decreto, entre tanto se seguirán aplicando los vigentes, de común acuerdo con el Instituto.
+
+G.G. 12 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
