@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2012-10-19"
+last_updated: "2013-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -151,9 +151,9 @@ XXVI.- Reservas: las áreas de un centro de población previstas para ser utiliz
 
 XXVII.- Restauración: el conjunto de operaciones y acciones tendientes a reparar un bien cultural o mantener un sitio o monumento histórico o artístico en estado de servicio, conforme a sus características históricas, constructivas y estéticas;
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2013)</small>
 
-XXVIII. Secretaría: La Secretaría de Medio Ambiente;
+XXVIII.- Secretaría: la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial;
 
 XXIX.- Servicios urbanos: las actividades operativas públicas, prestadas directamente por la autoridad competente o concesionadas, para satisfacer necesidades colectivas en los centros de población;
 
@@ -621,9 +621,13 @@ XIX.- Vigilar el cumplimiento y aplicación de las disposiciones legales en mate
 
 XX.- Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece esta ley y demás disposiciones jurídicas aplicables;
 
-XXI.- Recibir las solicitudes para el fraccionamiento de terrenos, cerciorándose de que reúnan los requisitos que se establecen en esta ley y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2013)</small>
 
-XXII.- Integrar con base en las solicitudes señaladas en la fracción anterior, los expedientes relativos y el proyecto de dictamen que será sometido, en su caso, a la autorización del ayuntamiento en sesión de cabildo, oyendo la opinión del Consejo Municipal de Desarrollo Urbano;
+XXI.- Recibir por conducto de la unidad administrativa correspondiente las solicitudes para el fraccionamiento de terrenos, cerciorándose de que reúnan los requisitos que se establecen en esta ley y demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2013)</small>
+
+XXII.- Integrar por conducto de la unidad administrativa con base en las solicitudes señaladas en la fracción anterior, los expedientes relativos y el proyecto de dictamen que será sometido, en su caso, a la autorización del Presidente Municipal;
 
 XXIII.- Autorizar la ejecución de las obras de urbanización en los fraccionamientos, previo el cumplimiento por parte de los fraccionadores de las obligaciones que les señala esta ley y la autorización correspondiente;
 
@@ -741,6 +745,10 @@ Los Consejos Municipales de Desarrollo Urbano contarán con la integración que 
 
 En todo caso, los ayuntamientos deberán considerar en la integración de los Consejos la participación de representantes de los sectores público, social y privado cuyas actividades incidan en la materia, especificando que el desempeño de los cargos será honorífico.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2013)</small>
+
+No podrán ser integrantes de estos Consejos, los miembros del (sic) los cabildos municipales.
+
 ###### ARTICULO 26.
 
 El Consejo Municipal de Desarrollo Urbano tendrá las siguientes atribuciones:
@@ -755,7 +763,9 @@ IV.- Proponer programas permanentes de información y difusión de los aspectos 
 
 V.- Promover e impulsar la capacitación técnica de los servidores públicos municipales en materia de desarrollo urbano y la adecuada aplicación de sus normas;
 
-VI.- Evaluar los estudios y proyectos específicos tendientes a solucionar los problemas urbanos y formular las propuestas correspondientes, pudiendo recomendar que se efectúen las consultas que a su juicio deban formularse a peritos en las materias objeto de esta ley;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2013)</small>
+
+VI.- Evaluar los estudios y proyectos específicos que se sometan a su consideración, tendientes a solucionar los problemas urbanos y formular las propuestas correspondientes, pudiendo recomendar que se efectúen las consultas que a su juicio deban formularse a peritos en las materias objeto de esta ley;
 
 VII.- Proponer los proyectos de inversión de obra pública municipal y las medidas que se estimen convenientes para el mejor aprovechamiento y aplicación de los recursos destinados al desarrollo urbano y la adecuada prestación de los servicios públicos municipales, así como analizar y opinar sobre los que se sometan a su consideración; y
 
@@ -1411,9 +1421,7 @@ V.- El proyecto de industrias medianas y grandes.
 
 ###### ARTICULO 91.
 
-En caso de que lo señalado en las constancias de uso del suelo estatal y municipales, no sea en el mismo sentido o sean contrarias, el asunto se elevará a la consideración del Consejo Consultivo del Desarrollo Urbano del Estado, para que éste emita su opinión, a efecto de que la autoridad competente resuelva en definitiva.
-
-Serán nulas de pleno derecho, aquellas constancias que no se ajusten a lo dispuesto en el párrafo anterior.
+(DEROGADO, P.O. 12 DE JULIO DE 2013)
 
 ###### ARTICULO 92.
 
@@ -1439,9 +1447,21 @@ Las obras, construcciones, ampliaciones o modificaciones que se hagan sin autori
 
 La autoridad competente requerirá en todo caso, a la persona que contravenga lo dispuesto en el párrafo anterior, para que se ajuste a lo previsto en el mismo; en caso de no hacerlo en el plazo que será previamente fijado, se procederá en los términos de este artículo.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 96.
 
-La Secretaría y los ayuntamientos, supervisarán la ejecución de los proyectos y vigilarán en todo tiempo que las obras públicas, privadas y demás actividades, estén de acuerdo con las normas correspondientes, en los planes, programas y declaratorias de desarrollo urbano y en las constancias de uso del suelo.
+La Secretaría y los ayuntamientos, supervisarán la ejecución de los proyectos e inspeccionarán y vigilarán en todo tiempo que las obras públicas, privadas y demás actividades, estén de acuerdo con las normas correspondientes, en los planes, programas y declaratorias de desarrollo urbano y en las constancias de uso del suelo.
+
+Los Municipios, podrán designar inspectores multidisciplinarios para desempeñar las funciones de supervisión, inspección y vigilancia a que hace referencia el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2013)</small>
+
+ARTICULO 96 BIS.- Los Ayuntamientos para el cumplimiento de las obligaciones consignadas en el artículo anterior, podrán auxiliarse de despachos externos de supervisión e inspección, los cuales tendrán las facultades y atribuciones que le corresponden a un inspector municipal.
+
+Los resultados de las supervisiones realizadas por los despachos externos serán validados por la unidad administrativa y en base a ellos podrá actuar en términos de esta ley y conforme a sus respectivas atribuciones.
+
+Los ayuntamientos, determinarán los requisitos que deberán reunir los despachos externos para su certificación, sin la cual no podrán ser contratados para los efectos de este artículo.
 
 #### SECCION TERCERA. DE LA INFRAESTRUCTURA, EQUIPAMIENTO Y SERVICIOS URBANOS
 
@@ -1597,7 +1617,9 @@ Para efectos de ordenar, regular y planear el desarrollo urbano de los centros d
 
 I.- El área urbana: la actualmente ocupada por la infraestructura, equipamientos, construcciones o instalaciones de un centro de población; o que se determine para la fundación del mismo;
 
-II.- (REFORMADA [N. DE E. DEROGADA], P.O. 2 DE NOVIEMBRE DE 2007)
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2013)</small>
+
+II.- Las áreas que se reserven para el crecimiento de un centro de población.
 
 III.- El área de preservación ecológica: aquella constituida por los elementos naturales que comprenden los condicionantes ecológicos del centro de población.
 
@@ -2495,15 +2517,19 @@ La autorización de los fraccionamientos será facultad exclusiva del ayuntamien
 
 Serán nulas de pleno derecho todas aquellas autorizaciones que no se ajusten a lo dispuesto en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 197.
 
-La solicitud para la autorización de fraccionamientos deberá presentarse por escrito ante el Presidente Municipal, el cual, al través de la unidad administrativa correspondiente y previa opinión del Consejo Municipal de Desarrollo Urbano, expedirá la autorización respectiva.
+La solicitud para la autorización de fraccionamientos y sus anexos, deberá presentarse por escrito ante el Presidente Municipal, a través de la unidad administrativa.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 198.
 
-En los casos en que la opinión del Consejo Municipal de Desarrollo Urbano respectiva relativa (sic) a la autorización de fraccionamiento sea contraria al criterio del ayuntamiento, éste someterá el asunto a la opinión del Consejo Consultivo de Desarrollo Urbano del Estado, para que el ayuntamiento correspondiente en sesión de cabildo resuelva en definitiva.
+Para ingresar la solicitud de autorización de fraccionamientos, será requisito indispensable que el solicitante cuente previamente con la constancia de factibilidad de lotificación emitida por la unidad administrativa.
+
+La unidad administrativa tendrá un plazo de 10 días hábiles para emitir la constancia de factibilidad a que se refiere el párrafo anterior.
 
 ###### ARTICULO 199.
 
@@ -2513,39 +2539,45 @@ La solicitud de autorización a que se refiere el artículo 11, deberá cumplir 
 
 Recibida la solicitud será revisada en el acto para verificar que esté correctamente integrada, conforme a lo dispuesto en esta ley; en caso de que falte algunos de los datos o anexos que se mencionan en el artículo anterior, la documentación será devuelta de inmediato al interesado para que subsane la omisión.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 201.
 
-Una vez que se hayan cubierto los requisitos que establece el artículo 199 de esta ley, se procederá a analizar la solicitud, de acuerdo con las normas técnicas y disposiciones legales vigentes en la materia.
+Una vez que se hayan cubierto los requisitos y opiniones técnicas que establecen los artículos 198, 199 y 204 de esta ley, la unidad administrativa, procederá a analizar la solicitud, de acuerdo con las normas técnicas y disposiciones legales vigentes en la materia.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+En el caso de que a la solicitud le faltare algún requisito o información a juicio de la unidad administrativa, ésta requerirá al solicitante por una sola vez para que dentro de los cinco días hábiles siguientes a partir de que hubiere tenido conocimiento, presente lo solicitado a fin de integrar el expediente, apercibiéndolo que en caso de no dar cumplimiento a lo anterior, se procederá a dar de baja el trámite, y se regresarán todos los documentos que fueron presentados.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 202.
 
-El ayuntamiento integrará con toda la documentación inherente a la solicitud, el expediente del fraccionamiento y enviará un tanto del mismo al Consejo Municipal de Desarrollo Urbano, para su opinión.
+La unidad administrativa, contando con los elementos y opiniones técnicas a que se refiere el artículo anterior, procederá a emitir su dictamen en un plazo máximo de 10 días hábiles.
 
 ###### ARTICULO 203.
 
-La opinión a que se refiere el artículo anterior, deberá ser emitida en un plazo máximo de 15 días hábiles contados a partir de la fecha de recepción del expediente respectivo. De no obtenerse la opinión en el plazo señalado, se entenderá que el Consejo Municipal de Desarrollo Urbano no tiene objeción a que la solicitud sea presentada a la consideración del ayuntamiento en sesión de cabildo.
+(DEROGADO, P.O. 12 DE JULIO DE 2013)
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 204.
 
-A fin de que el ayuntamiento pueda contar con los suficientes elementos que le permitan integrar el proyecto de dictamen sobre la solicitud de fraccionamiento, solicitará, en su caso, la opinión técnica de las autoridades u organismos competentes, en cada uno de los aspectos técnicos que se requieran incluir en el proyecto de dictamen mencionado.
+A fin de que la unidad administrativa pueda contar con los suficientes elementos que le permitan integrar el proyecto de dictamen sobre la solicitud de fraccionamiento, solicitará, en su caso, la opinión técnica de las autoridades u organismos competentes, en cada uno de los aspectos técnicos que se requieran incluir en el proyecto de dictamen mencionado.
 
-Las opiniones técnicas a que se refiere este artículo, deberán ser proporcionadas al ayuntamiento en un plazo máximo de 10 días hábiles, a partir de la fecha de recepción del requerimiento respectivo.
+Las opiniones técnicas a que se refiere este artículo, deberán ser proporcionadas en un plazo máximo de 10 días hábiles, a partir de la fecha de recepción del requerimiento respectivo.
 
-Transcurrido el plazo antes señalado, sin que se hayan obtenido las opiniones técnicas mencionadas, se entenderá que dichas autoridades u organismos no tienen objeción a que la solicitud sea presentada a la consideración del ayuntamiento en sesión de cabildo.
+Transcurrido el plazo antes señalado, sin que se hayan obtenido las opiniones técnicas mencionadas, se entenderá que dichas autoridades u organismos no tienen objeción a que la solicitud y el dictamen correspondiente sean presentados al Presidente Municipal para su resolución.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 205.
 
-El ayuntamiento correspondiente, se apoyará en la unidad administrativa municipal a cargo de la planificación urbana en el municipio, para estudiar el expediente del fraccionamiento con el propósito de emitir su opinión relativa a la procedencia de la solicitud, y las especificaciones y las características del proyecto de urbanización y construcción correspondiente; así como para que integre el dictamen correspondiente.
+El dictamen emitido por la unidad administrativa, establecerá las especificaciones y las características del proyecto de urbanización y construcción que se autorizan.
 
-En caso de que el proyecto de fraccionamiento deba ser modificado de acuerdo con el dictamen que se señala en el párrafo anterior, el interesado deberá corregir los estudios o planos conducentes, a efecto de que sean adecuadamente integrados, en un plazo que no excederá de 10 días hábiles contados a partir del día siguiente a aquel en que surta efectos la notificación correspondiente. En caso de que, transcurrido ese plazo, no cumpla con lo requerido, su solicitud se tendrá por abandonada.
+En caso de que el proyecto de fraccionamiento deba ser modificado de acuerdo con el dictamen que se señala en el párrafo anterior, el solicitante deberá corregir los estudios o planos conducentes, a efecto de que sean adecuadamente integrados, en un plazo que no excederá de 10 días hábiles contados a partir del día siguiente a aquel en que surta efectos la notificación correspondiente. En caso de que transcurrido ese plazo no cumpla con lo requerido, la unidad administrativa procederá a dar de baja el trámite respectivo y se regresarán al solicitante todos los documentos que fueron presentados.
 
 ###### ARTICULO 206.
 
-El Consejo Municipal de Desarrollo Urbano respectivo, habiendo emitido su opinión, deberá remitirla al ayuntamiento por conducto del Presidente Municipal, a efecto de que éste la incorpore al proyecto de resolución que someterá para su consideración en sesión de cabildo.
-
-Contando con la opinión del Consejo Municipal respectivo y de las demás autoridades competentes, el Presidente Municipal integrará el proyecto de resolución sobre la solicitud de fraccionamiento, mismo que someterá al Cabildo en su siguiente sesión.
+(DEROGADO, P.O. 12 DE JULIO DE 2013)
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
 
@@ -2553,21 +2585,21 @@ Contando con la opinión del Consejo Municipal respectivo y de las demás autori
 
 El Presidente Municipal, en representación del Ayuntamiento y con base en el dictamen que someta a su consideración la unidad administrativa municipal, encargada de la planeación urbana, emitirá su resolución aprobando o rechazando la solicitud respectiva con sujeción a esta ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 208.
 
-Toda resolución del ayuntamiento en materia de fraccionamientos, para su validez, deberá ser suscrita por el Presidente Municipal, el Síndico y el Secretario del Ayuntamiento y el Titular de la Unidad Administrativa Municipal a cargo de la planificación urbana.
+El Presidente Municipal deberá de emitir su resolución en un plazo máximo de cinco días hábiles, y para su validez, deberá ser suscrita por el Presidente Municipal, el Síndico, el Secretario del Ayuntamiento y el titular de la unidad administrativa municipal.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 209.
 
-Una vez que el Presidente Municipal, en representación del Ayuntamiento, haya emitido su resolución, se le notificará al interesado al través de la unidad administrativa encargada de la planificación urbana, indicándole en el caso de que le haya sido favorable, las obligaciones que deberá cumplir relativas al pago de los derechos estatales y municipales, al otorgamiento de cesiones, a las características y especificaciones de las obras de urbanización y a la constitución de las garantías para caucionar el cumplimiento de las disposiciones contenidas en la autorización.
+Una vez emitida la resolución, se le notificará al solicitante a través de la unidad administrativa, haciendo de su conocimiento, las obligaciones que deberá cumplir relativas al pago de los derechos estatales y municipales, al otorgamiento de cesiones, a las características y especificaciones de las obras de urbanización y a la constitución de las garantías para caucionar el cumplimiento de las disposiciones contenidas en la autorización.
 
 ###### ARTICULO 210.
 
-El fraccionador deberá entregar al ayuntamiento, dentro de los 30 días naturales siguientes a la fecha en que se le notificó la resolución favorable, el original y tres tantos del proyecto definitivo del fraccionamiento, debidamente ajustado a los lineamientos, características y especificaciones que se deriven de esta ley y de la autorización respectiva.
+(DEROGADO, P.O. 12 DE JULIO DE 2013)
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2575,29 +2607,43 @@ El fraccionador deberá entregar al ayuntamiento, dentro de los 30 días natural
 
 Una vez que ha sido otorgada la licencia de fraccionamiento, se deberá remitir copia de los planos definitivos de lotificación o zonificación y de la memoria descriptiva de los lotes o predios a la Secretaría, al Registro Público, a la autoridad catastral correspondiente y al Instituto Coahuilense del Catastro y la Planeación Territorial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 212.
 
-Los fraccionadores sólo podrán ceder los derechos y obligaciones respecto del fraccionamiento autorizado, previa autorización del ayuntamiento y cumpliendo con los requisitos legales conducentes.
+Los fraccionadores sólo podrán ceder los derechos y obligaciones respecto del fraccionamiento autorizado, previa autorización del Presidente Municipal y cumpliendo con los requisitos legales conducentes.
 
 En caso de que se autorice la cesión de referencia, la persona física o moral cesionaria, se subrogará en todos los derechos y obligaciones que establecen esta ley y la autorización respectiva.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 213.
 
-El ayuntamiento en sesión de cabildo, podrá autorizar la ampliación de la superficie de un fraccionamiento, previo el cumplimiento de los requisitos legales y contando con la opinión del Consejo Municipal de Desarrollo Urbano respectivo.
+El Presidente Municipal podrá autorizar la ampliación de la superficie de un fraccionamiento, previo el cumplimiento de los requisitos legales.
 
 ###### ARTICULO 214.
 
 Cuando la solicitud de fraccionamiento haya sido rechazada por la autoridad competente, ésta lo notificará al interesado, señalando los fundamentos y motivos del rechazo, así como que podrá interponer el recurso de inconformidad que establece la presente ley, en un plazo máximo de 15 días hábiles, contados a partir del día siguiente a la fecha en que surta efectos la notificación correspondiente.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 215.
 
-Los propietarios de los fraccionamientos, cualquiera que sea su tipo, que hayan sido ejecutados sin la previa autorización del ayuntamiento, deberán solicitar la regularización correspondiente ante el mismo, acompañando a la solicitud la documentación que proceda, sin perjuicio de las sanciones a que hubiere lugar.
+Los propietarios de los fraccionamientos, cualquiera que sea su tipo, que hayan sido ejecutados sin la previa autorización de la autoridad competente, deberán solicitar la regularización correspondiente ante la misma, acompañando a la solicitud la documentación que proceda, sin perjuicio de las sanciones a que hubiere lugar.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2013)</small>
+
+ARTICULO 215 BIS.- La unidad administrativa deberá publicar en los medios oficiales de difusión y la página electrónica del municipio, los requisitos, trámites y tiempos estimados para la obtención de la autorización de fraccionamiento, así como las solicitudes, dictámenes y resoluciones relacionadas con las mismas.
+
+Los servidores públicos que incumplan con los plazos establecidos serán sancionados en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
 
 #### SECCION NOVENA. DE LAS OBRAS DE URBANIZACION Y DE EQUIPAMIENTO URBANO
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 216.
 
-Expedida la autorización del fraccionamiento por el ayuntamiento, el fraccionador estará obligado a iniciar en un término de 65 días las obras de urbanización e instalación de los servicios correspondientes y continuarlos con toda regularidad, conforme al programa respectivo.
+Expedida la autorización del fraccionamiento, el fraccionador estará obligado a iniciar en un término de 65 días las obras de urbanización e instalación de los servicios correspondientes y continuarlos con toda regularidad, conforme al programa respectivo.
 
 ###### ARTICULO 217.
 
@@ -2789,11 +2835,13 @@ VI.- Propiciar la integración y adecuada operación del sistema de vialidad y t
 
 VII.- Vigilar que los fraccionamientos cumplan con las características, normas y especificaciones requeridas por esta ley, las autorizaciones correspondientes y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 242.
 
-El ayuntamiento, en sesión de cabildo, autorizará las relotificaciones que se promuevan respecto de los lotes o predios ubicados en el territorio del municipio, conforme a los criterios señalados en esta ley y oyendo la opinión del Consejo Municipal de Desarrollo Urbano.
+El Presidente Municipal, autorizará las relotificaciones que se promuevan respecto de los lotes o predios ubicados en el territorio del municipio, conforme a los criterios señalados en esta ley.
 
-Serán nulas de pleno derecho todas aquellas autorizaciones de relotificación que no hayan sido resueltas por el ayuntamiento en cesión de cabildo, asentadas en el acta respectiva y conforme a lo dispuesto por esta ley, por lo que ningún otro órgano o servidor público municipal tendrá facultades al respecto.
+Serán nulas de pleno derecho todas aquellas autorizaciones de relotificación que no hayan sido resueltas conforme a lo dispuesto por esta ley, por lo que ningún otro órgano o servidor público municipal tendrá facultades al respecto.
 
 ###### ARTICULO 243.
 
@@ -2902,6 +2950,10 @@ Toda obra de construcción, reconstrucción, adaptación, demolición y ampliaci
 ###### ARTICULO 256.
 
 La licencia de construcción es el documento expedido por las autoridades competentes, por medio del cual se autoriza a los propietarios o poseedores de un predio para construir, ampliar, modificar, reparar o demoler una edificación o instalación.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2013)</small>
+
+Tratándose de ampliaciones de construcción de hasta 60 metros cuadrados, se podrá expedir licencias, bajo la responsabilidad del propietario, en un plazo máximo de dos días hábiles, debiendo darse cumplimiento a las disposiciones legales y reglamentarias aplicables.
 
 Este documento será indispensable para el inicio de la construcción de cualquier obra.
 
@@ -3118,6 +3170,10 @@ Las resoluciones que dicten las autoridades competentes con base en lo dispuesto
 ###### ARTICULO 281.
 
 El recurso de inconformidad se interpondrá por el interesado dentro de los 15 días hábiles siguientes a la fecha en que se notifique la resolución impugnada o se le ejecute el acto o resolución correspondiente, debiendo interponerse ante la autoridad o las autoridades que la emitieron.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2013)</small>
+
+En el supuesto del artículo 214, será el cabildo quien conocerá del recurso.
 
 ###### ARTICULO 282.
 
@@ -3346,3 +3402,13 @@ P.O. 19 DE OCTUBRE DE 2012.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 12 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se concede un plazo de 120 días para que los Ayuntamientos adecúen su reglamentación, a efecto de que cumplan con las disposiciones contenidas en esta ley.
