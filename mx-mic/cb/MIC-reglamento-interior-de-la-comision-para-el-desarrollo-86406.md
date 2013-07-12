@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-comision-para-el-desarrollo-86406"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-14"
-last_updated: "2012-02-14"
+last_updated: "2013-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,6 +22,10 @@ state: "MIC"
 # REGLAMENTO INTERIOR DE LA COMISION PARA EL DESARROLLO ECONOMICO Y SOCIAL DE LA TIERRA CALIENTE DEL ESTADO DE MICHOACAN
 
 REGLAMENTO INTERIOR DE LA COMISIÓN PARA EL DESARROLLO ECONÓMICO Y SOCIAL DE LA TIERRA CALIENTE DEL ESTADO DE MICHOACÁN
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN PARA EL DESARROLLO ECONÓMICO Y SOCIAL DE LA TIERRA CALIENTE DEL ESTADO DE MICHOACÁN, PUBLICADO EN LA SÉPTIMA SECCIÓN DEL P.O. DE 12 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Decima Quinta Sección del Periódico Oficial del Estado de Michoacán, el martes 14 de febrero de 2012.
 
@@ -324,3 +328,27 @@ La Secretaria de Finanzas y Administración
 Mirella Guzmán Rosas
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE JULIO DE 2013.
+
+Artículo Primero. El presente Decreto entrará en vigor a partir del 15 quince dejulio (sic) de 2013.
+
+Artículo Segundo. Se abroga el Decreto Administrativo publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 4 de diciembre de 2007, por el cual se creó el Organismo Público Descentralizado denominado Comisión para el Desarrollo Económico y Social de la Tierra Caliente del Estado de Michoacán.
+
+Artículo Tercero. Se abroga el Acuerdo Administrativo publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, con fecha 14 de febrero de 2012, a través del cual se reformaron y adicionaron diversas disposiciones del Decreto por el que se crea la Comisión para el Desarrollo Económico y Social de la Tierra Caliente del Estado de Michoacán.
+
+Artículo Cuarto. Se abroga el Reglamento Interior de la Comisión para el Desarrollo Económico y Social de la Tierra Caliente del Estado de Michoacán.
+
+Artículo Quinto. El liquidador del Organismo, a más tardar a los quince días hábiles posteriores a su designación, deberá cerrar los estados financieros de la Comisión para el Desarrollo Económico y Social de la Tierra Caliente del Estado de Michoacán.
+
+Artículo Sexto. El presupuesto asignado a la Comisión para el Desarrollo Económico y Social de la Tierra Caliente del Estado de Michoacán de Ocampo, en el Decreto que contiene el Presupuesto de Egresos para el Gobierno del Estado de Michoacán de Ocampo, para el Ejercicio Fiscal del año 2013, a la fecha de cierre de Estados Financieros deberá destinarse al organismo denominado Comisión Estatal del Agua y Gestión de Cuencas, con la finalidad de que éste, concluya todos y cada uno de los asuntos pendientes, en los términos y para los fines establecidos en el artículo 6° de este Decreto, en la inteligencia de que el remanente deberá reintegrarse al patrimonio del Gobierno del Estado de Michoacán de Ocampo.
+
+Artículo Séptimo. Una vez iniciado el proceso de liquidación, la Coordinación de Contraloría, proveerá lo necesario para que se realice una auditoría administrativa financiera por el periodo comprendido del 15 de febrero al 31 de diciembre de 2012 y del 1° de enero hasta la fecha de entrada en vigor del presente Decreto, con cargo al presupuesto del organismo sujeto al proceso de liquidación.
+
+Artículo Octavo. Las cuentas bancarias y de inversión, que opera la Comisión para el Desarrollo Económico y Social de la Tierra Caliente del Estado de Michoacán de Ocampo, deberán estar conciliadas y canceladas y ser aperturadas a favor del Organismo Público Descentralizado denominado Comisión Estatal del Agua y Gestión de Cuencas, única y exclusivamente para los fines establecidos en el artículo 6° del presente Decreto.
+
+Artículo Noveno. Las adecuaciones presupuestarias que deban realizarse como consecuencia del proceso de liquidación y extinción definitiva de la Comisión para el Desarrollo Económico y Social de la Tierra Caliente del Estado de Michoacán de Ocampo, incluirán las transferencias de recursos humanos y de los activos patrimoniales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, sistemas, maquinaria, archivos y, en general el equipo que la Comisión para el Desarrollo Económico y Social de la Tierra Caliente del Estado de Michoacán de Ocampo, haya utilizado para el despacho de los asuntos a su cargo.
+
+Artículo Décimo. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
