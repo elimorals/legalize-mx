@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2012-12-22"
+last_updated: "2013-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -811,9 +811,11 @@ VI. A prevención, de los asuntos penales que no sean de su competencia, para cu
 
 VII. Los demás asuntos que les encomienden la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 64.
 
-Corresponde a los jueces menores actuar como instancia conciliatoria, exclusivamente en el ámbito de su competencia, en los conflictos que surjan entre personas pertenecientes a comunidades con población mayoritariamente indígena, tomando en consideración sus sistemas normativos, usos y costumbres, y salvaguardando las garantías individuales que consagra la Constitución Política de los Estados Unidos Mexicanos, en las siguientes materias:
+Corresponde a los jueces menores actuar como instancia conciliatoria, exclusivamente en el ámbito de su competencia, en los conflictos que surjan entre personas pertenecientes a comunidades con población mayoritariamente indígena, tomando en consideración sus sistemas normativos, usos y costumbres, y salvaguardando los derechos humanos y sus garantías que consagra la Constitución Política de los Estados Unidos Mexicanos, en las siguientes materias:
 
 I. Conciliar los conflictos en materia civil y familiar, y
 
@@ -2212,3 +2214,9 @@ P.O. 22 DE DICIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
