@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-representacion-del-gobierno-del-29994
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-19"
-last_updated: "2003-03-19"
+last_updated: "2013-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAB"
 
 > <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA REPRESENTACIÓN DEL GOBIERNO DEL ESTADO EN EL DISTRITO FEDERAL, PUBLICADO EN EL PERIÓDICO OFICIAL EL 13 DE JULIO DE 2013; ORDENAMIENTO QUE ENTRARÁ EN VIGOR A LOS CIENTO VEINTE DÍAS SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
 
-REGLAMENTO INTERIOR DE LA REPRESENTACION DEL PODER EJECUTIVO EN EL DISTRITO FEDERAL
+REGLAMENTO INTERIOR DE LA REPRESENTACIÓN DEL PODER EJECUTIVO EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 19 de marzo de 2003.
 
@@ -201,7 +201,9 @@ V. Las demás que las disposiciones legales les confieran y las que le encomiend
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE ENLACE INSTITUCIONAL
 
-ARTÍCULO·13.- La Dirección de Enlace Institucional tendrá las siguientes atribuciones:
+###### ARTÍCULO 13.
+
+La Dirección de Enlace Institucional tendrá las siguientes atribuciones:
 
 I. Promover y fortalecer la vinculación con las Representaciones de los Estados de la Federación;
 
@@ -233,7 +235,7 @@ VII. Otorgar información del Estado de tipo turístico, cultural, histórico, e
 
 ###### ARTÍCULO 15.
 
-·La Dirección de Desarrollo Social, Cultural y Académica tendrá las siguientes atribuciones:
+La Dirección de Desarrollo Social, Cultural y Académica tendrá las siguientes atribuciones:
 
 I. Establecer contacto con la comunidad tabasqueña radicada en el Distrito Federal y su área metropolitana, para fomentar los vínculos entre los tabasqueños;
 
@@ -328,3 +330,19 @@ SECRETARIO DE GOBIERNO
 ING. ALFONSO DEL RÍO PINTADO
 
 REPRESENTANTE DEL PODER EJECUTIVO DEL ESTADO DE TABASCO EN EL DISTRITO FEDERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JULIO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA REPRESENTACIÓN DEL GOBIERNO DEL ESTADO EN EL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Reglamento entrara en vigor a los ciento veinte días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Representación del Poder Ejecutivo en el Distrito Federal, publicado en el Suplemento "C" del Periódico Oficial del Estado Número 6316 de fecha 19 de marzo de 2003.
+
+TERCERO. Cuando en este Reglamento se dé una denominación nueva o distinta a alguna Unidad establecida en otro ordenamiento con vigencia anterior a éste, la Unidad establecida en el actual atenderá los asuntos a que se refiere el anterior.
+
+CUARTO. Para su mejor funcionamiento la Representación del Estado deberá formular sus respectivos Manuales de Organización y de Procedimientos.
+
+QUINTO. En tanto se expiden los Manuales de Organización y de Procedimientos, el Titular queda facultado para resolver las cuestiones de la aplicación de este reglamento, para fines de orden administrativo.
