@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-prestamos-a-corto-y-mediano-plazo-del-estado-7557
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-14"
-last_updated: "2010-06-14"
+last_updated: "2013-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "VER"
 ---
 # REGLAMENTO DE PRESTAMOS A CORTO Y MEDIANO PLAZO, DEL ESTADO DE VERACRUZ
 
-REGLAMENTO DE PRESTAMOS A CORTO Y MEDIANO PLAZO DEL ESTADO DE VERACRUZ
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PRÉSTAMOS A CORTO Y MEDIANO PLAZO DEL INSTITUTO DE PENSIONES DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 15 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE PRÉSTAMOS A CORTO Y MEDIANO PLAZO DEL ESTADO DE VERACRUZ
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JULIO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 14 de junio de 2010.
 
@@ -499,3 +501,15 @@ Profr. Abel Cuéllar Morales
 Director general
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE JULIO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE PRÉSTAMOS A CORTO Y MEDIANO PLAZO DEL INSTITUTO DE PENSIONES DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Reglamento entrará en vigor a los 10 días hábiles siguientes de su publicación en la Gaceta Oficial, órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se abrogan los acuerdos y reglamentos emitidos con anterioridad, que contravengan lo dispuesto en el presente.
+
+TERCERO. Los Trámites que se encuentren pendientes de resolverse al momento del inicio de la vigencia del presente Reglamento, continuarán su procedimiento conforme al Reglamento abrogado.
