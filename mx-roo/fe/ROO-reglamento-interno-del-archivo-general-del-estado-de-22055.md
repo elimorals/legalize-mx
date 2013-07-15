@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interno-del-archivo-general-del-estado-de-22055"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-30"
-last_updated: "2001-08-30"
+last_updated: "2013-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERNO DEL ARCHIVO GENERAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL ARCHIVO GENERAL DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 15 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 30 de agosto de 2001.
 
@@ -300,3 +302,19 @@ DR. JOSÉ LUIS PECH VÁRGUEZ
 EL OFICIAL MAYOR
 
 DR. PEDRO RAMÓN PEÑA XICUM
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones normativas que contravengan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior publicado mediante Periódico Oficial del Gobierno del Estado el 30 de Agosto de 2001.
