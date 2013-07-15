@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2012-12-19"
+last_updated: "2013-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JULIO DE 2013.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -315,9 +315,11 @@ XXI. Promover acciones tendientes al establecimiento del servicio civil de carre
 
 XXII. Las demás que señalen las disposiciones legales aplicables y el Reglamento.
 
+> <small>(REFORMADO, G.G. 15 DE JULIO DE 2013)</small>
+
 ###### Artículo 14.
 
-Corresponde originalmente al Auditor Superior, el trámite y resolución de los asuntos de su competencia, el cual podrá, para la mejor organización del trabajo, delegar en los servidores públicos subalternos cualquiera de sus atribuciones, excepto las señaladas en las fracciones VI, VII, X, XIV, XVI y XVII del artículo anterior y aquéllas que por disposición de la presente Ley y del Reglamento, deban ser ejercidas exclusivamente por él mismo.
+Corresponde originalmente al Auditor Superior, el trámite y resolución de los asuntos de su competencia, el cual podrá, para la mejor organización del trabajo, delegar en los servidores públicos subalternos cualquiera de sus atribuciones, excepto las señaladas en las fracciones VII, X, XIV, XVI y XVII del artículo anterior y aquéllas que por disposición de la presente Ley y del Reglamento, deban ser ejercidas exclusivamente por él mismo.
 
 ###### Artículo 15.
 
@@ -497,7 +499,11 @@ I. Asesorar y representar en materia jurídica al Organo Superior;
 
 II. Substanciar los procedimientos para el fincamiento de las responsabilidades administrativas resarcitorias en que incurran los servidores públicos, por actos u omisiones de los que resulte un daño o perjuicio estimable en dinero, que afecte al Estado o municipios en sus haciendas públicas o al patrimonio de las entidades fiscalizables, conforme a los ordenamientos legales y reglamentarios aplicables;
 
-III. Cuando de la revisión y fiscalización de las cuentas públicas, de los informes mensuales, trimestrales y de la evaluación de los programas, se detecten hechos presuntamente constitutivos de delito, dará cuenta de los mismos al Auditor Superior a efecto de que realice lo conducente.
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.G. 15 DE JULIO DE 2013)</small>
+
+III. Presentar las denuncias o querellas penales en los casos que procedan conforme a la presente Ley, sustentadas en su caso, en un expediente técnico elaborado por el Órgano, coadyuvando con el Ministerio Público en términos de la legislación penal.
+
+Cuando de la revisión y fiscalización de las cuentas públicas, de los informes mensuales, trimestrales y de la evaluación de los programas, se detecten hechos presuntamente constitutivos de delito, dará cuenta de los mismos al Auditor Superior a efecto de que realice lo conducente.
 
 En el caso de servidores públicos de elección popular, se actuará conforme al Título Séptimo de la Constitución Política del Estado Libre y Soberano de México;
 
@@ -905,15 +911,17 @@ Las resoluciones que se dicten en materia del recurso de revisión no admitirán
 
 En caso de responsabilidad penal el procedimiento se iniciará por denuncia de:
 
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 15 DE JULIO DE 2013)</small>
 
-a) El Auditor Superior, por acuerdo de la Junta de Coordinación Política, en contra de servidores públicos de elección popular que se encuentren en funciones o hayan dejado de fungir como tales, así como de los demás servidores públicos referidos en el artículo 131 de la Constitución Política del Estado Libre y Soberano de México.
+a) El Auditor Superior o el titular de la Unidad de Asuntos Jurídicos, por acuerdo o resolución de la Junta de Coordinación Política; a solicitud del primero, en contra de servidores públicos de elección popular que se encuentren en funciones o hayan dejado de fungir como tales, así como de los demás servidores públicos referidos en el artículo 131 de la Constitución Política del Estado Libre y Soberano de México;
 
-b) El Auditor Superior contra los servidores públicos que no sean de elección popular o que hayan dejado de fungir como tales.
+> <small>(REFORMADO, G.G. 15 DE JULIO DE 2013)</small>
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+b) El Auditor Superior o por acuerdo de éste el titular de la Unidad de Asuntos Jurídicos; en contra de los servidores públicos que no sean de elección popular o que hayan dejado de fungir como tales.
 
-El Auditor Superior estará obligado a guardar el sigilo de las investigaciones, debiendo informar a la Junta de Coordinación Política del Estado que guarden las denuncias.
+> <small>(REFORMADO, G.G. 15 DE JULIO DE 2013)</small>
+
+El Auditor Superior y el Titular de la Unidad de Asuntos Jurídicos estarán obligados a guardar el sigilo de las investigaciones. El Auditor Superior deberá informar a la Junta de Coordinación Política del estado que guarden las denuncias.
 
 ###### Artículo 74.
 
@@ -1108,3 +1116,9 @@ G.G. 19 DE DICIEMBRE DE 2012.
 PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 15 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
