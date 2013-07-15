@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-desarrollo-social-89130
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-24"
-last_updated: "2013-04-02"
+last_updated: "2013-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-08-21"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de agosto de 2012.
 
@@ -57,7 +57,9 @@ II. Oficialía Mayor.
 
 III. Jefaturas de Unidad de:
 
-1. Comunicación Social;
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2013)</small>
+
+1. Oficina de la Secretaría y Comunicación Social;
 
 2. Coordinación de Delegaciones;
 
@@ -99,9 +101,21 @@ V. Direcciones Generales de:
 
 12. Evaluación y Monitoreo de los Programas Sociales;
 
-13. Análisis y Prospectiva, y
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2013)</small>
 
-14. Geoestadística y Padrones de Beneficiarios.
+13. Análisis y Prospectiva;
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2013)</small>
+
+14. Geoestadística y Padrones de Beneficiarios;
+
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2013)</small>
+
+15. Desarrollo Comunitario, y
+
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2013)</small>
+
+16. Participación Social.
 
 B. ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS:
 
@@ -431,9 +445,11 @@ XXIII. Las demás que les señalen otras disposiciones legales y administrativas
 
 ### CAPÍTULO VII. DE LAS UNIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE JULIO DE 2013)</small>
+
 ###### Artículo 13.
 
-La Unidad de Comunicación Social tendrá las siguientes atribuciones:
+La Unidad de la Oficina de la Secretaría y Comunicación Social tendrá las siguientes atribuciones:
 
 I. Planear, dirigir y coordinar la política de comunicación social y de relaciones públicas de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, de conformidad con los lineamientos generales que establezca la Secretaría de Gobernación;
 
@@ -441,9 +457,29 @@ II. Orientar, coordinar, apoyar y normar, previo dictamen del Comité de Mejora 
 
 III. Captar, analizar y procesar la información procedente de los medios de comunicación, referente a los acontecimientos de interés para las actividades de las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como las entidades del Sector;
 
-IV. Establecer, previo dictamen del Comité de Mejora Regulatoria Interna, los lineamientos generales para la producción de los materiales impresos, sonoros, audiovisuales, electrónicos y demás medios de difusión de las unidades administrativas, los órganos administrativos desconcentrados de la Secretaría, así como coordinar su edición, y
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2013)</small>
 
-V. Diseñar, administrar y actualizar la página de Internet de la Secretaría y supervisar las páginas de Internet de las entidades del Sector, de conformidad con la normatividad aplicable, con el apoyo técnico de la Dirección General de Tecnologías de la Información y Comunicaciones.
+IV. Establecer, previo dictamen del Comité de Mejora Regulatoria Interna, los lineamientos generales para la producción de los materiales impresos, sonoros, audiovisuales, electrónicos y demás medios de difusión de las unidades administrativas, los órganos administrativos desconcentrados de la Secretaría, así como coordinar su edición;
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2013)</small>
+
+V. Diseñar, administrar y actualizar la página de Internet de la Secretaría y opinar a las entidades del Sector sobre el diseño y administración de sus páginas de Internet, de conformidad con la normativa aplicable, con el apoyo técnico de la Dirección General de Tecnologías de la Información y Comunicaciones;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2013)</small>
+
+VI. Proponer al Titular de la Secretaría elementos para la toma de decisiones en materia de políticas de desarrollo social, sin perjuicio de las atribuciones que corresponden a las unidades administrativas de la Secretaría, sus órganos administrativos desconcentrados, así como a las entidades del Sector;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2013)</small>
+
+VII. Apoyar al Titular de la Secretaría a determinar los asuntos que deban atenderse de manera coordinada por las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, así como con las entidades del Sector y, en su caso, convocar a sus titulares cuando los referidos asuntos así lo ameriten;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2013)</small>
+
+VIII. Dar seguimiento a los acuerdos del Titular de la Secretaría y solicitar los informes sobre los avances y el cumplimiento que hayan realizado las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, así como, en su caso, las entidades del Sector, respecto de dichos acuerdos, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2013)</small>
+
+IX. Coordinar las entrevistas y conferencias de prensa del Titular de la Secretaría y de los servidores públicos de la Dependencia.
 
 ###### Artículo 14.
 
@@ -535,7 +571,9 @@ XII. Apoyar y asesorar jurídicamente a la Oficialía Mayor en la revisión de l
 
 XIII. Tramitar ante la Secretaría de Gobernación, la acreditación de las firmas autógrafas de las y los servidores públicos facultados para hacer constar la legitimidad de documentos;
 
-XIV. Representar al o a la Titular de la Presidencia de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que correspondan a la Secretaría, en términos del segundo párrafo del artículo 19 de la citada Ley;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2013)</small>
+
+XIV. Representar al Presidente de la República en los juicios de amparo respecto de aquellos asuntos que correspondan a la Secretaría, en términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
 XV. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el o a la Titular de la Secretaría represente al o a la Titular de la Presidencia de la República;
 
@@ -701,13 +739,59 @@ IV. Elaborar los estudios, informes y reportes que le solicite su superior jerá
 
 V. Proponer a las áreas responsables, con base en los resultados del seguimiento, las mejoras a la operación de los programas dentro del ámbito de su competencia.
 
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2013)</small>
+
 ###### Artículo 25.
 
-(DEROGADO, D.O.F. 2 DE ABRIL DE 2013)
+La Dirección General de Desarrollo Comunitario tendrá las siguientes atribuciones:
+
+I. Proponer a su superior jerárquico, normas, guías y lineamientos en materia de formas de asociación orientadas al desarrollo comunitario en áreas marginadas de las zonas rurales y urbanas;
+
+II. Coadyuvar con la Secretaría de Economía para establecer programas de mejoramiento de las economías locales con condiciones de marginación en zonas rurales o urbanas, con la participación comunitaria y en coordinación con los tres órdenes de gobierno;
+
+III. Desarrollar y promover esquemas y alternativas de financiamiento con la intervención de entidades financieras, tanto públicas como privadas, y la participación de organizaciones de la sociedad civil, que doten de recursos financieros a los proyectos comunitarios de las localidades de atención;
+
+IV. Diseñar mecanismos de capacitación para las áreas marginadas de las zonas rurales y urbanas, que promuevan el desarrollo social comunitario integral, considerando los elaborados por los gobiernos de las entidades federativas y municipios, así como los de las dependencias y entidades de la Administración Pública Federal;
+
+V. Promover, en coordinación con otras dependencias y entidades de la Administración Pública Federal, la implementación de acciones preventivas ante el deterioro de los entornos comunitarios y de sus procesos económicos y sociales;
+
+VI. Promover la implementación de proyectos en materia de desarrollo comunitario en las áreas marginadas de las zonas rurales y urbanas a partir de diagnósticos generados en las propias comunidades;
+
+VII. Articular una estrategia común con las dependencias y entidades de la Administración Pública Federal, así como con los gobiernos de las entidades federativas y de los municipios, en la ejecución de los programas de desarrollo comunitario;
+
+VIII. Proponer a su superior jerárquico las disposiciones normativas de los programas de desarrollo comunitario;
+
+IX. Instrumentar la operación de los programas a su cargo, supervisar el ejercicio de los recursos y, en su caso, autorizar propuestas de inversión, cancelar autorizaciones y ejercer los recursos correspondientes, de conformidad con las disposiciones aplicables;
+
+X. Dar a conocer las disposiciones normativas y presupuestarias a los operadores de los programas de desarrollo comunitario;
+
+XI. Capacitar y asesorar a los operadores de los programas de desarrollo comunitario cuando así lo requieran y verificar que las autoridades locales hagan lo propio con las instancias ejecutoras, cuando se refieran a dichos programas, y
+
+XII. Promover la participación de los beneficiarios en los programas de desarrollo comunitario, en la planeación, ejecución y vigilancia de las actividades de los mismos.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2013)</small>
 
 ###### Artículo 26.
 
-(DEROGADO, D.O.F. 2 DE ABRIL DE 2013)
+La Dirección General de Participación Social tendrá las siguientes atribuciones:
+
+I. Analizar los programas sociales de los tres órdenes de gobierno con la finalidad de proponer a su superior jerárquico mecanismos de participación social de la población más desprotegida, en los programas a cargo de la Secretaría, así como promover, ante las instancias correspondientes, mecanismos que permitan homologar los métodos, elementos y características de la participación social a que se refiere esta fracción;
+
+II. Diseñar mecanismos de incorporación y participación social que fomenten la consolidación del tejido social en áreas marginadas de las zonas rurales y urbanas;
+
+III. Impulsar en las áreas marginadas de las zonas rurales y urbanas, mecanismos colectivos que fortalezcan la participación social en el diseño, ejecución y evaluación de las políticas públicas en materia de desarrollo social y programas sociales de la Secretaría;
+
+IV. Articular iniciativas de participación social de la población que habita en áreas marginadas de las zonas rurales y urbanas, dirigidas a satisfacer necesidades de desarrollo social de sus integrantes;
+
+V. Proponer a su superior jerárquico las disposiciones normativas de los programas de participación social;
+
+VI. Instrumentar la operación de los programas de participación social, supervisar el ejercicio de los recursos y, en su caso, autorizar propuestas de inversión, cancelar autorizaciones y ejercer los recursos correspondientes, de conformidad con las disposiciones aplicables;
+
+VII. Dar a conocer las disposiciones normativas y presupuestarias a los operadores de los programas de participación social;
+
+VIII. Capacitar y asesorar a los operadores de los programas de participación social, cuando así lo requieran y verificar que hagan lo propio las autoridades locales con las instancias ejecutoras, cuando se refieran a dichos programas, y
+
+IX. Promover la participación de los beneficiarios en los programas de participación social, en la planeación, ejecución y vigilancia de las actividades de los mismos.
 
 ###### Artículo 27.
 
@@ -807,11 +891,15 @@ X. Difundir y aplicar los criterios y lineamientos para proporcionar los servici
 
 XI. Coordinar y proveer los servicios de logística a solicitud de las unidades administrativas de la Secretaría, en el desarrollo de sus eventos internos y externos;
 
-XII. Coordinar la organización, clasificación y manejo de los documentos y expedientes de las unidades administrativas de la Secretaría, así como apoyar en la materia a los órganos administrativos desconcentrados de la misma;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2013)</small>
 
-XIII. Administrar el programa de aseguramiento integral de los bienes de la Secretaría y, en su caso, de los órganos administrativos desconcentrados de la misma, y
+XII. Coordinar la organización, clasificación y manejo de los documentos y expedientes de las unidades administrativas de la Secretaría, así como apoyar en la materia a los órganos administrativos desconcentrados de la misma, y
 
-XIV. Revisar la procedencia administrativa y comprobatoria fiscal, así como realizar la guardia y custodia de la documentación justificativa de los recursos erogados con cargo al presupuesto concentrado, y emitir las cuentas por liquidar certificadas y pago de compromisos adquiridos.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2013)</small>
+
+XIII. Administrar el programa de aseguramiento integral de los bienes de la Secretaría y, en su caso, de los órganos administrativos desconcentrados de la misma.
+
+XIV. (DEROGADA, D.O.F. 15 DE JULIO DE 2013)
 
 ###### Artículo 30.
 
@@ -1316,3 +1404,11 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente ord
 TERCERO.- Los asuntos pendientes a la entrada en vigor de este Decreto, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento, mismas que pueden seguir utilizando la papelería en la que conste su anterior denominación hasta agotar su existencia, sin que ello afecte la validez de sus actos.
 
 CUARTO.- Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
+
+D.O.F. 15 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Las erogaciones que se efectúen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de Desarrollo Social en el Presupuesto de Egresos de la Federación, por lo que no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal y subsecuentes y cualquier modificación al mismo deberá realizarse mediante movimientos compensados conforme a las disposiciones aplicables.
