@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-organo-superior-de-fiscalizacion-53796"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-26"
-last_updated: "2006-12-26"
+last_updated: "2013-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2013.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el martes 26 de diciembre de 2006.
 
@@ -107,9 +107,11 @@ El Órgano Superior establecerá un Comité de Dirección que actuará como Órg
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL AUDITOR SUPERIOR
 
+> <small>(REFORMADO, G.G. 15 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 5.
 
-Corresponde originalmente al Auditor Superior, el trámite y resolución de los asuntos de su competencia, el cual podrá, para la mejor organización del trabajo, delegar en los servidores públicos subalternos a través del acuerdo respectivo, cualesquiera de sus atribuciones, excepto las señaladas en las fracciones VI, VII, X, XIV, XVI y XVII del artículo 13 de la Ley de Fiscalización y las que, en términos del presente reglamento, le corresponda en forma exclusiva.
+Corresponde originalmente al Auditor Superior, el trámite y resolución de los asuntos de su competencia, el cual podrá, para la mejor organización del trabajo, delegar en los servidores públicos subalternos a través del acuerdo respectivo, cualesquiera de sus atribuciones establecidas en la Ley de Fiscalización Superior del Estado de México, excepto las señaladas en las fracciones VII, XIV, XVI y XVII del artículo 13 de la Ley de Fiscalización Superior del Estado de México y las que, en términos del presente reglamento, le corresponda en forma exclusiva.
 
 ###### ARTÍCULO 6.
 
@@ -143,6 +145,10 @@ XIII. Integrar el Padrón de Auditores Independientes, que cumplan con los requi
 
 XIV. Rendir mensualmente a la Comisión, informe de las actividades sustantivas realizadas por el Órgano Superior, dentro de los treinta días siguientes a que concluya el período de que se trate; y
 
+> <small>(ADICIONADA, G.G. 15 DE JULIO DE 2013)</small>
+
+XV. Presentar denuncias y querellas penales en contra de los servidores públicos que no sean de elección popular o que hayan dejado de fungir como tales, o en su caso, por acuerdo o resolución de la Junta de Coordinación Política, en contra de servidores públicos de elección popular que se encuentren en funciones o hayan dejado de fungir como tales, así como de los demás servidores públicos referidos en el artículo 131 de la Constitución Política del Estado libre y Soberano de México, coadyuvando con el Ministerio Público en términos de la legislación penal;
+
 XV. Las demás que le confiera el presente Reglamento y demás disposiciones legales.
 
 ###### ARTÍCULO 7.
@@ -167,7 +173,7 @@ VIII. Entregar a la Comisión el padrón de los interesados para fungir como aud
 
 IX. Formular y entregar a la Legislatura del Estado, por conducto de la Comisión, el informe del resultado de la revisión de las cuentas públicas en los términos y plazos que establece la Ley de Fiscalización;
 
-X. Presentar denuncias y querellas en los casos de presuntas conductas delictivas de servidores públicos y particulares, cuando tenga conocimiento de hechos que pudieran implicar un daño o perjuicio, en términos de la Ley de Fiscalización;
+X. (DEROGADA, G.G. 15 DE JULIO DE 2013)
 
 XI. Dar cuenta a la Legislatura del Estado, por conducto de la Comisión, durante el segundo periodo ordinario de sesiones, sobre la comprobación del ejercicio del presupuesto aprobado;
 
@@ -229,7 +235,9 @@ V. Sistematizar y unificar los criterios de interpretación de las disposiciones
 
 VI. Someter a la consideración del Auditor Superior los proyectos mediante los cuales se promueva el fincamiento de responsabilidades civiles, penales y administrativas;
 
-VII. Elaborar las denuncias y querellas penales que procedan como consecuencia del cumplimiento de las atribuciones legales conferidas al Órgano Superior, someterlas a la consideración del Auditor Superior y asistirlo en la presentación, seguimiento y coadyuvar con el Ministerio Público en los procesos penales indagatorios y judiciales en los que participe;
+> <small>(REFORMADA, G.G. 15 DE JULIO DE 2013)</small>
+
+VII. Elaborar y presentar denuncias y querellas penales, por acuerdo del Auditor Superior, en contra de los servidores públicos que no sean de elección popular o que hayan dejado de fungir como tales, o en su caso, por acuerdo o resolución de la Junta de Coordinación Política, en contra de servidores públicos de elección popular que se encuentren en funciones o hayan dejado de fungir como tales, así como de los demás servidores públicos referidos en el artículo 131 de la Constitución Política del Estado libre y Soberano de México, coadyuvando con el Ministerio Público en términos de la legislación penal;
 
 VIII. Admitir y substanciar los recursos previstos en la Ley de Fiscalización, hasta ponerlos en estado de resolución;
 
@@ -558,3 +566,11 @@ DIP. EVERARDO PEDRO VARGAS REYES
 DIP. ARMANDO BAUTISTA GOMEZ
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 15 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
