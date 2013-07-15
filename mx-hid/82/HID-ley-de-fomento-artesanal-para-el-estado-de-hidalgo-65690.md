@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-artesanal-para-el-estado-de-hidalgo-65690"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2008-12-31"
+last_updated: "2013-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -83,7 +83,9 @@ II.- Impulsar la organización artesanal, asistencia técnica, promoción y come
 
 III.- Promover mecanismos de comunicación y cooperación entre el sector artesanal y las Dependencias Nacionales y Extranjeras, públicas y privadas, relacionadas con la artesanía;
 
-IV.- Preservar las manifestaciones artesanales propias de nuestro Estado, involucrando al sector artesanal en la actividad turística, educativa y cultural;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2013)</small>
+
+IV.- Rescatar, preservar y fomentar las manifestaciones artesanales propias de nuestro Estado, atendiendo a su calidad, representatividad, tradición, valor cultural y diseño; involucrando al sector artesanal en la actividad turística, educativa y cultural;
 
 V.- Estimular el desarrollo de la artesanía a través de la capacitación y asesoría que otorgue el Gobierno del Estado;
 
@@ -119,21 +121,33 @@ El Registro de Artesanos y Empresas de la Actividad Artesanal constituye un inst
 
 ### CAPÍTULO TERCERO. DE LA POLÍTICA DE FOMENTO ARTESANAL
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2013)</small>
+
 ###### Artículo 9.
 
-La Secretaría promueve y facilita el desarrollo de la actividad artesanal a través de los diversos programas, estableciendo mecanismos para incentivar la inversión privada, la producción artesanal, el acceso al mercado interno y externo, la investigación, capacitación, rescate y difusión artesanal.
+La Secretaría promueve y facilita el desarrollo de la actividad artesanal a través de los diversos programas, estableciendo mecanismos para incentivar la inversión privada, la producción artesanal, el acceso al mercado interno y externo, la organización de eventos, la investigación, capacitación, rescate y difusión, para el mejoramiento y desarrollo de las actividades artesanales.
 
 ###### Artículo 10.
 
 La Secretaría tendrá a su cargo los programas de fomento, promoción, preservación y desarrollo de los artesanos y de la actividad artesanal del Estado, que en coordinación con las Dependencias, Entidades y Ayuntamientos correspondientes, promoverá y aplicarán entre el sector artesanal.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2013)</small>
+
+Propiciará la conservación y crecimiento de los talleres familiares existentes, como una medida para resguardar la tradición y estimular la formación de nuevos artesanos.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2013)</small>
+
+La Secretaría, dentro de sus programas, procurará la formación y conservación de un muestrario de las artesanías de alta calidad, producidas en el Estado, a efecto de que se cuente con una exposición que muestre permanentemente la óptima calidad de los productos del artesano.
+
 ###### Artículo 11.
 
 La Secretaría en coordinación con la Secretaría de Educación Pública promoverá el desarrollo productivo y de gestión de artesanos y de empresas de la actividad artesanal.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2013)</small>
+
 ###### Artículo 12.
 
-La Secretaría en coordinación con la Secretaría de Educación Pública, establecerán centros de capacitación y de trabajo, que se dediquen a promover el conocimiento, ensayo y rescate de técnicas artesanales, cuyos instructores serán los artesanos que obtengan su certificado de competencia de oficio artesanal.
+La Secretaría en coordinación con la Secretaría de Educación Pública, promoverán una educación artesanal, estableciendo centros de capacitación y de trabajo, que se dediquen a promover el conocimiento, ensayo y rescate de técnicas artesanales, cuyos instructores serán los artesanos que obtengan su certificado de competencia de oficio artesanal.
 
 ###### Artículo 13.
 
@@ -163,9 +177,13 @@ III.- Organizar y promover exposiciones y ferias en coordinación con los Munici
 
 IV.- Promover la expansión y diversificación del mercado interno y de exportación, de la artesanía hidalguense;
 
-V.- Desarrollar puntos de venta en lugares turísticos, dedicados a comercializar y distribuir en el ámbito Estatal, Nacional e Internacional las Artesanías; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2013)</small>
 
-VI.- Brindar asesoramiento a los productores artesanales en lo concerniente a la adquisición eficiente de materias primas de calidad para la elaboración de sus productos.
+V.- Desarrollar puntos de venta dedicados a comercializar y distribuir en el ámbito Estatal, Nacional e Internacional las Artesanías; asimismo, en coordinación con las autoridades Municipales, deberán implementar ubicaciones de comercialización de las mismas en los centros de los municipios, los cuales se mantendrán accesibles al público, inclusive los días sábado, domingos y días festivos; y
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2013)</small>
+
+VI.- Brindar asistencia técnica a los productores artesanales en cuanto a diseño, tecnología, herramientas y equipos; adquisición de materias primas; control de calidad; empaque y embalaje; administración y tributación, organización artesanal y todo cuanto se requiere para su adecuado desarrollo.
 
 ###### Artículo 18.
 
@@ -212,6 +230,10 @@ III.- Todo otro ingreso no previsto en los incisos anteriores.
 ###### Artículo 26.
 
 El Fondo de Fomento Artesanal tendrá por objeto financiar la adquisición de materia prima, herramientas y equipo; elaboración y ejecución de proyectos productivos artesanales; programas para la preservación y fomento de la tradición artesanal; créditos para constitución de empresas de la actividad artesanal; y campañas de difusión y publicidad de los productos artesanales hidalguenses.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2013)</small>
+
+La Secretaría brindará la asesoría necesaria para la obtención de financiamientos adecuados, cuando para ello fuere requerido.
 
 ### CAPÍTULO QUINTO. DEL CONSEJO ARTESANAL
 
@@ -288,3 +310,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JULIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el periódico oficial del Estado de Hidalgo.
