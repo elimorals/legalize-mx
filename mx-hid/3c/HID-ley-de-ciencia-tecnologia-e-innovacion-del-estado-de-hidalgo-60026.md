@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-hidalgo-60
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2010-12-13"
+last_updated: "2013-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2013.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -97,7 +97,9 @@ VII.- Instituciones: A las universidades e instituciones educativas, centros de 
 
 VIII.- Investigación: El estudio sistemático dirigido hacia un conocimiento científico más completo o hacia un entendimiento mejor de la materia estudiada en cualquier área del conocimiento. Se suele clasificar en básica o aplicada: en la básica el objetivo es ganar conocimiento o entendimiento de los fenómenos sin aplicaciones específicas en mente; en la aplicada el objetivo es ganar conocimiento o entendimiento necesarios para una necesidad específica;
 
-IX.- Programa: El Programa Estatal de Ciencia, Tecnología e Innovación de Hidalgo;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2013)</small>
+
+IX.- Programa: Programa Especial de Ciencia y Tecnología.
 
 X.- Sistema de Información: El Sistema Estatal de Información sobre investigación científica, desarrollo tecnológico, innovación y posgrado;
 
@@ -221,7 +223,9 @@ La Comisión será competente para:
 
 I.- Establecer y orientar políticas de mediano y largo plazos para el avance científico, el desarrollo tecnológico, la innovación, la transferencia de tecnología y el posgrado que apoyen el desarrollo Estatal;
 
-II.- Aprobar el Programa Estatal de Ciencia, Tecnología e Innovación;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2013)</small>
+
+II.- Aprobar y actualizar el Programa Especial de Ciencia, Tecnología e Innovación;
 
 III.- Definir prioridades y criterios para la asignación del gasto público estatal en ciencia, desarrollo tecnológico, innovación, transferencia de tecnología y postgrado, los cuales incluirán áreas estratégicas y programas específicos y prioritarios a los que se les deberá otorgar especial atención y apoyo presupuestal;
 
@@ -271,7 +275,9 @@ I.- Ejecutar y dar seguimiento a los acuerdos de la Comisión;
 
 II.- Formular y presentar a la Comisión:
 
-a).- El proyecto del programa de ciencia, tecnología e innovación, para su aprobación;
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2013)</small>
+
+a).- El proyecto del programa de ciencia, tecnología e innovación y sus actualizaciones, para su aprobación:
 
 b).- El anteproyecto de presupuesto consolidado de investigación, desarrollo tecnológico, innovación y transferencia de tecnología, que contendrá la propuesta de áreas y programas estratégicos y las prioridades y criterios de Gasto Público Estatal en estas materias;
 
@@ -441,15 +447,23 @@ IV.- Promover la producción de materiales para la difusión de los conocimiento
 
 V.- Las demás que de acuerdo con el Programa se requieran llevar a cabo.
 
-#### SECCIÓN III. DEL PROGRAMA DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2013)</small>
+
+#### SECCIÓN III. DEL PROGRAMA ESPECIAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 22.
 
-El Titular del Poder Ejecutivo del Estado, expedirá el Programa Estatal de Ciencia, Tecnología e Innovación. Su integración, ejecución y evaluación estará a cargo de COCYTEH, apegándose a las disposiciones legales aplicables y a los planes y Programas Nacionales y Estatales, relacionados con la materia.
+El Titular del Poder Ejecutivo del Estado, expedirá el Programa Especial de Ciencia, Tecnología e Innovación. Su integración, actualización, ejecución y evaluación estará a cargo de COCYTEH, apegándose a las disposiciones legales aplicables y a los planes y Programas Nacionales y Estatales, relacionados con la materia.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 23.
 
-El Programa será formulado y evaluado por el COCYTEH, con base en las propuestas que presenten las Dependencias, Entidades, Municipios e instituciones, así como personas físicas y morales, que apoyen o realicen, investigación, desarrollo tecnológico, innovación o transferencia de tecnología.
+El Programa será formulado, actualizado y evaluado por el COCYTEH, con base en las propuestas que presenten las Dependencias, Entidades, Municipios e Instituciones, así como personas físicas y morales, que apoyen o realicen, investigación, desarrollo tecnológico, innovación o transferencia de tecnología.
+
+El programa incluirá una visión de largo plazo y proyección de hasta veinticinco años en los términos de esta Ley y de las demás disposiciones que deriven de la misma. El programa será actualizado sexenalmente en concordancia con el Plan Estatal de Desarrollo que corresponda.
 
 ###### ARTÍCULO 24.
 
@@ -479,7 +493,13 @@ i).- Seguimiento y evaluación.
 
 III.- Los objetivos y áreas estratégicas del conocimiento;
 
-IV.- Las políticas y líneas de acción en materia de investigación, desarrollo tecnológico, innovación, transferencia de tecnología y posgrado, realicen las Dependencias, Entidades, Municipios e Instituciones; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2013)</small>
+
+IV.- Las políticas y líneas de acción en materia de investigación, desarrollo tecnológico, innovación, transferencia de tecnología y posgrado, realicen las Dependencias, Entidades, Municipios e Instituciones;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2013)</small>
+
+IV Bis.- Las áreas prioritarias del conocimiento y la innovación tecnológica, así como los proyectos estratégicos de ciencia, tecnología e innovación por regiones y municipios; y
 
 V.- Las orientaciones generales de los instrumentos de apoyo, a que se refiere esta Ley.
 
@@ -940,3 +960,9 @@ Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afe
 Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los Interesados el cambio de radicación.
 
 Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 15 DE JULIO DE 2013.
+
+PRIMERO.- El Presente Decreto entrará en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a esta Ley.
