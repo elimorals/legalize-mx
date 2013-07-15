@@ -4,7 +4,7 @@ identifier: "HID-reglamento-para-el-uso-y-aprovechamiento-de-tecnologias-de-6711
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-16"
-last_updated: "2009-02-16"
+last_updated: "2013-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO PARA EL USO Y APROVECHAMIENTO DE TECNOLOGIAS DE INFORMACION Y COMUNICACIONES EN EL PODER EJECUTIVO
 
-REGLAMENTO PARA EL USO Y APROVECHAMIENTO DE TECNOLOGIAS DE INFORMACION Y COMUNICACIONES EN EL PODER EJECUTIVO
+REGLAMENTO PARA EL USO Y APROVECHAMIENTO DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES EN EL PODER EJECUTIVO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL USO Y APROVECHAMIENTO DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES EN EL PODER EJECUTIVO, PUBLICADO EN EL P.O. DE 15 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2009.
 
@@ -546,3 +548,15 @@ Dado en la residencia del Poder Ejecutivo del Estado Libre y Soberano de Hidalgo
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JULIO DE 2013.
+
+PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento para el uso y aprovechamiento de Tecnologías de Información y Comunicaciones en el Poder Ejecutivo, publicado en el Periódico Oficial del Estado el 16 de Febrero de 2009.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente reglamento.
+
+CUARTO. Los asuntos relacionados con la gestión de tecnologías de información y comunicaciones no previstas en el presente Reglamento considerados como necesidad especial por una o más Dependencias o Entidades Paraestatales, serán puestos a consideración y resueltos en su caso por la UNIGMER.
