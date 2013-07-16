@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2012-08-25"
+last_updated: "2013-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2013.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -5021,9 +5021,9 @@ ART. 1214.- El testador debe dejar alimentos a las personas que se mencionan en 
 
 I.- A los descendientes menores de 18 años;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
 
-II.- A los descesdientes (sic) que estén imposibilitados de trabajar, cualquiera que sea su edad;
+II.- A los descendientes que estén imposibilitados de trabajar, cualquiera que sea su edad; así como a los que se encuentren estudiando hasta una edad máxima de veinticinco años;
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
 
@@ -5035,7 +5035,9 @@ IV.- A los ascendientes;
 
 V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los cinco años que precedieron a su muerte o con quien tuvo hijos durante ese tiempo, siempre que ambos hayan permanecido libres del matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quienes el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos;
 
-VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan los dieciocho años, si no tienen bienes para subvenir a sus necesidades.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+
+VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados; así como a quienes no cumplan los dieciocho años, o un máximo de veinticinco años de edad en caso de estar estudiando, si no tienen bienes para subvenir sus necesidades.
 
 ART. 1215.- No hay obligación de dar alimentos, sino a falta o por imposibilidad de los parientes más próximos en grado.
 
@@ -10414,5 +10416,11 @@ P.O. 25 DE AGOSTO DE 2012.
 DECRETO 1122 POR LO QUE SE REFORMA LOS ARTÍCULOS, 1491 Y 1515, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
