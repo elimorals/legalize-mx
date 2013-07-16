@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2012-12-28"
+last_updated: "2013-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2013.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -1459,9 +1459,13 @@ II. Conocer de los asuntos que se relacionen con los programas y acciones que co
 
 III. Emitir opinión sobre los proyectos y programas que se relacionen con la infraestructura turística;
 
-IV. Los asuntos relacionados con convenios o concesiones celebrados por el Poder Ejecutivo del Estado, para incrementar o mejorar los servicios turísticos y mejorar los servicios correlativos en la entidad, así como las bases normativas para concesionar la rutas y recorridos turísticos de competencia estatal y el conocimiento sobre promoción de infraestructura turística; y,
+IV. Los asuntos relacionados con convenios o concesiones celebrados por el Poder Ejecutivo del Estado, para incrementar o mejorar los servicios turísticos y mejorar los servicios correlativos en la entidad, así como las bases normativas para concesionar la rutas y recorridos turísticos de competencia estatal y el conocimiento sobre promoción de infraestructura turística; y, (sic)
 
 V. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2013)</small>
+
+VI. Emitir la convocatoria para otorgar la Condecoración al Mérito Turístico del Estado de Michoacán, y hacer la entrega de la misma.
 
 ###### ARTÍCULO 95.
 
@@ -3386,3 +3390,9 @@ SEGUNDO. Por única ocasión, lo que corresponde a los años legislativos Segund
 TERCERO. Para el cuarto año legislativo de la Septuagésima Segunda Legislatura, que comprende del 15 de enero al 14 de septiembre de 2015, el Pleno sólo tendrá un periodo ordinario de sesiones, que comprenderá del 1 de febrero al 15 de julio.
 
 CUARTO. Remítase el presente Decreto al Gobernador del Estado, para su publicación, en el Periódico del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- El Congreso del Estado, dentro de los noventa días naturales siguientes contados a partir de la fecha de entrada en vigor de este Decreto, a propuesta de la Comisión de Turismo, aprobará los lineamientos con base a los cuáles se otorgue la condecoración materia del artículo 49 de la Ley de Turismo del Estado de Michoacán de Ocampo.
