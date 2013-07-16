@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2011-05-24"
+last_updated: "2013-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # CODIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-CODIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACAN DE OCAMPO
+CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2013.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -1331,9 +1331,11 @@ VI. Tratándose de asentamientos humanos establecidos en tierras de régimen eji
 
 VII. Las autorizaciones de regularización que expidan los ayuntamientos, se tipificarán como fraccionamientos habitacionales urbanos de tipo popular y de urbanización progresiva.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 119.
 
-Cuando para proceder a una regularización de un asentamiento humano irregular, sólo falte cubrir el requisito del área de donación y no existan terrenos baldíos en el asentamiento o sea insuficiente, la misma o el faltante, según corresponda, se podrá convenir con el Ayuntamiento.
+Cuando para proceder a una regularización de un asentamiento humano irregular, sólo falte cubrir el requisito de entregar las áreas de donación y no existan terrenos baldíos en el asentamiento o sean insuficientes, las mismas o el faltante, según corresponda, se podrán convenir con el Ayuntamiento, para su pago a valor comercial o la entrega de la superficie correspondiente en ubicación distinta al asentamiento.
 
 ###### ARTÍCULO 120.
 
@@ -3099,9 +3101,15 @@ Las presentes disposiciones son de orden público e interés social y de observa
 
 Para los efectos de este libro se entenderá por:
 
-I. Alineamiento: Línea virtual que limita la propiedad con la vía pública;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+
+I. ALINEAMIENTO OFICIAL: Es la línea virtual sobre el terreno que limita el predio respectivo con la vía pública en uso o con la futura vía pública;
 
 II. Andador: La vialidad destinada únicamente para el uso de peatones y con restricción para la circulación de vehículos, salvo los de emergencia, para dar acceso a los lotes, viviendas, unidades, locales o fosas de los desarrollos habitacionales, comerciales, de cementerio y áreas privativas tratándose de desarrollos en condominio;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
+
+II BIS. ÁREA: La proyección horizontal del polígono del terreno;
 
 III. Área de Donación: La superficie de terreno que el fraccionador transmite a título gratuito al Ayuntamiento, destinada para el equipamiento urbano del predio o zona donde se ubique;
 
@@ -3114,6 +3122,14 @@ VI. Calle Cerrada: La vialidad destinada para el tránsito peatonal y vehicular,
 VII. Cajón de Estacionamiento: El espacio requerido para que se almacene un vehículo dentro de un lote o predio;
 
 VIII. Comercial o de Servicios.- Tipo de uso de suelo destinado a la comercialización o para dar una prestación según su giro;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
+
+VIII BIS. CONDOMINIO: Grupo de departamentos, viviendas, casa, locales, naves de inmuebles, construidos en estructura vertical, horizontal o mixto, y con sus diversos usos; susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquel o a la vía pública y que pertenecieran a distintos propietarios, los que tendrán un derecho singular y exclusivo de propiedad sobre su unidad de propiedad privativa y, además, un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para su adecuado uso y disfrute;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
+
+VIII TER. CONDOMINIO DE CUALQUIER TIPO: Serán los que por su estructura se clasifican en condominio vertical condominio horizontal y condominio mixto;
 
 IX. Condominio Mixto: A la combinación de las modalidades de propiedad privada y de condominio en un solo inmueble;
 
@@ -3139,15 +3155,31 @@ XIX. Desarrollos: A los fraccionamientos habitacionales urbanos y suburbanos, co
 
 XX. Desarrollo en Condominio: Es la modalidad de la propiedad en los desarrollos, habitacional, comercial, industrial, comercial, construido en los términos de la Ley sobre el Régimen de Propiedad en Condominio del Estado de Michoacán de Ocampo;
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XX BIS. DESARROLLO SUSTENTABLE: Proceso de desarrollo que satisface los requerimientos de la generación presente sin comprometer la capacidad de las generaciones futuras para satisfacer sus propias necesidades. (ambiente, aprovechamiento forestal, aprovechamiento sustentable, biodiversidad, equilibrio ecológico, recursos naturales);
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XX TER. DESARROLLO URBANO: Es el conjunto armónico de políticas, estrategias y acciones de planeación que se realicen para ordenar, regular y adecuar los elementos físicos, económicos y sociales para la fundación, conservación, mejoramiento y crecimiento de los centros de población y sus relaciones con el medio ambiente natural;
+
 XXI. Destinos: Los fines públicos a que se dedica o está previsto dedicar áreas o predios de un centro de población, de conformidad con un programa de desarrollo urbano y las resoluciones tomadas con apoyo en él;
 
 XXII. Director Responsable de Obra: Es la persona física que funge como perito responsable en la ejecución de obras de urbanización en cualquier tipo de desarrollos, que responde solidariamente con el fraccionador en la observancia de este Código y demás disposiciones aplicables.
 
-XXIII. Equipamiento Urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario, utilizado para prestar a la población los servicios públicos y urbanos. Considerando su cobertura se clasifican en vecinal, barrial, distrital y regional;
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XXII BIS. ECOTECNIAS: Son técnicas de aprovechamiento sostenible de los recursos naturales y materiales diversos para la vida diaria por instrumentos elaborados por el hombre. Teniendo como característica elemental garantizar una operación limpia, económica y ecológica para generar bienes y servicios necesarios para el desarrollo de la vida diaria;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XXIII. EQUIPAMIENTO URBANO: El conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar en los centros de población, los servicios urbanos; desarrollar las actividades económicas y complementarias a las de habitación y trabajo, o para proporcionar servicios de bienestar social y apoyo a la actividad económica, social, cultural y recreativa; tales como : parques, áreas verdes, servicios educativos, jardines, fuentes, mercados, plazas, explanadas, asistenciales y de salud, transporte, comerciales e instalaciones para protección y confort del individuo. Considerando su cobertura se clasifican en vecinal, barrial, distrital y regional;
 
 XXIV. Fraccionamiento: La división de un terreno en manzanas y lotes, que requiera del trazo de una o más vialidades, así como la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos, conforme a la clasificación de desarrollos previstas en este Código;
 
-XXV. Fusión: La unión en un sólo predio de dos o más inmuebles colindantes;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XXV. FUSIÓN: Se entiende como la unión de dos o más lotes o predios colindantes para formar uno solo;
 
 XXVI. Imagen Urbana: Es el conjunto de elementos naturales y artificiales que conforman el marco visual del centro de población o de una parte de él;
 
@@ -3157,11 +3189,19 @@ XXVIII. Manzana: La superficie de terreno dentro de la cual se encuentra (sic) u
 
 XXIX. Mixto: Tipo de uso del suelo que permite dos o más usos del suelo compatibles entre si o de regimenes de propiedad;
 
-XXX. Lote: Porción de terreno con frente a una vialidad y que forma parte de un Desarrollo o desarrollo en condominio;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XXX. LOTE: Superficie de terreno que resulta de la división de una manzana.
 
 XXXI. Organismo: La entidad de la administración pública del Ayuntamiento, encargada de proporcionar los servicios de agua potable, drenaje sanitario, pluvial y tratamiento de aguas residuales;
 
-XXXII. Predio: Porción de terreno que no forma parte de un Desarrollo o desarrollo en condominio;
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XXXI BIS. PENDIENTE TOPOGRÁFICA DEL TERRENO: Inclinación respecto a la horizontal de la superficie de un terreno. Se expresa en forma porcentual y se calcula como la relación entre la diferencia de elevaciones y la distancia entre dos lugares del terreno;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XXXII. PREDIO: Polígono de terreno susceptible de fraccionar y que no forma parte de un desarrollo o desarrollo en condominio;
 
 XXXIII. Proyecto de Vialidad y Lotificación: La propuesta de distribución y estructura urbana de un Desarrollo o desarrollo en condominio, realizada conforme a los procedimientos y características establecidos en este Código y autorizado por la Dependencia Municipal;
 
@@ -3181,17 +3221,27 @@ XL. Sistema Vial Alternativo: La planificación y desarrollo de andadores y cicl
 
 XLI. Subdivisión: La división o partición de un terreno del área urbana o urbanizada en lotes y que no requiera la extensión o apertura de vías públicas, por ser estas ya existentes o no necesarias y que cada una de las fracciones resultantes tenga frente a vía pública;
 
-XLII. Superficie neta: La superficie total del predio a fraccionar, menos las áreas destinadas a vías públicas y las diversas restricciones o afectaciones del terreno, derivadas de servicios de la federación, estado o municipio;
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XLI BIS. SUPERFICIE: La rasante del terreno;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XLII. SUPERFICIE TOTAL: La superficie del predio a fraccionar;
 
 XLIII. Obras de Urbanización: La instalación de los ductos e infraestructura necesaria para la conducción de agua potable domiciliaria, incluyendo su fuente de abastecimiento, las redes de alcantarillado sanitario o pluvial, la instalación de las líneas e infraestructura necesarias para la conducción de energía eléctrica y alumbrado público, así como la construcción de guarniciones, banquetas y pavimento en arroyos de vialidades, y en su caso, planta de tratamiento de aguas residuales, a realizar en los Desarrollos o desarrollos en condominio;
 
-XLIV. Usos: Los fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XLIV. USOS: Los fines o propósitos particulares y específicos a que podrán dedicarse o emplearse determinadas zonas o predios de los centros de población;
 
 XLV. Vía Pública: El área marcada con tal carácter en la autorización de un desarrollo, destinada al libre tránsito peatonal y vehicular, así como todo espacio que de hecho se utilicen para este fin; y,
 
 XLVI. Zonificación: La determinación de las áreas que integran un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
 ### Capítulo IV. De los Desarrollos en Condominio
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 275.
 
@@ -3215,9 +3265,11 @@ II. Resolver los casos no previstos en el presente ordenamiento; y,
 
 III. Las demás que las leyes y reglamentos de la materia le confieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 277.
 
-La Dependencia Municipal, previo acuerdo del Ayuntamiento, tendrá las atribuciones siguientes:
+La dependencia municipal, previo acuerdo del Ayuntamiento, tendrá las atribuciones siguientes:
 
 I. Expedir las constancias de zonificación urbana;
 
@@ -3243,7 +3295,9 @@ XI. Determinar en coordinación con el fraccionador la ubicación de las áreas 
 
 XII. Fijar el monto de las garantías para la (sic) obras de urbanización que establece este Código;
 
-XIII. Otorgar o negar la autorización definitiva de los Desarrollos o desarrollos en condominio, previa aprobación del Ayuntamiento;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XIII. Otorgar o negar la autorización definitiva de los desarrollos o desarrollos en condominio;
 
 XIV. Otorgar o negar el permiso de venta a los fraccionadores, para iniciar la promoción de lotes, viviendas, locales o unidades, previo cumplimiento de los requisitos legales contenidos en este Código;
 
@@ -3261,7 +3315,9 @@ XX. Ordenar en cualquier momento las inspecciones de los lugares en donde se rea
 
 XXI. Otorgar o negar el permiso de rectificación de autorización de un Desarrollo o desarrollo en condominio;
 
-XXII. Autorizar o negar los Desarrollos y desarrollos en condominio, cuyo número de unidades no sea mayor a 20;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XXII. Autorizar o negar los desarrollos y desarrollos en condominio;
 
 XXIII. Auxiliarse en su caso, de la fuerza pública para cumplir y hacer cumplir sus determinaciones;
 
@@ -3717,35 +3773,97 @@ La construcción de vivienda multifamiliar o edificios habitacionales dentro de 
 
 Las construcciones en los desarrollos en condominio, además de cumplir con lo dispuesto en el párrafo anterior, deberán respetar lo previsto en este Código, en cuanto a las densidades y características de las obras, continuidad de vialidades existentes y las previstas en los programas de desarrollo urbano, así como a la extensión de las áreas libres, de estacionamiento y de uso común.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 297.
 
-Las áreas de donación en los Desarrollos o desarrollos en condominio no podrán ser objeto de enajenación, salvo en los casos previstos en este Código. El cincuenta por ciento deberá destinarse para áreas verdes, parques o plazas públicas, en las cuales el fraccionador tendrá la obligación de equiparlas para tales efectos y el otro cincuenta por ciento, se destinará para la construcción del equipamiento educativo público del nivel básico áreas deportivas o recreativas e instalaciones de comercio: salud y asistencia públicas.
+Las áreas de donación en los conjuntos habitacionales, fraccionamientos habitacionales de cualquier tipo, condominios con uso habitacional de estructura horizontal, vertical o mixto, los de uso comercial, industrial y cementerios no podrán ser objeto de enajenación, salvo en los casos previstos en el presente Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JULIO DE 2013)</small>
+
+Las áreas de donación deberán destinarse a la dotación de equipamiento urbano y áreas verdes. Las destinadas para áreas verdes serán entregadas forestadas por parte del fraccionador y las áreas destinadas para la construcción de equipamiento urbano se ajustarán a lo establecido en los programas de desarrollo urbano correspondientes.
 
 Las características que deberán cumplir las áreas de donación para equipamiento urbano son las siguientes:
 
-I. Ubicarse dentro del Desarrollo o desarrollo en condominio;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
 
-II. Integrar un solo polígono, cuando la superficie no rebase los 5,000.00 metros cuadrados, y en caso de ser mayor, se determinará por la Dependencia Municipal en función del uso que se le pretenda dar por el Ayuntamiento, para lo cual deberá observar:
+I. Ubicarse dentro del conjunto habitacional, fraccionamiento habitacional de cualquier tipo, condominio con uso habitacional de estructura horizontal, vertical o mixto, los de uso comercial, industrial o cementerio;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2013)</small>
+
+II. Integrar un solo polígono, cuando la superficie no rebase los 5,000 metros cuadrados, y en caso de ser mayor, se determinará por la dependencia municipal en función del uso que se le pretenda dar por el Ayuntamiento, para lo cual deberá observar:
 
 a. Las disposiciones de los programas de desarrollo urbano de la zona en que se localice;
 
-b. Las necesidades de equipamiento urbano de la población que habitará en el Desarrollo, desarrollo en condominio o de la zona en donde se ubique;
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
+
+b. Las necesidades de equipamiento urbano de la población que habitará en la zona en donde se ubique;
 
 c. Las determinaciones técnicas del Sistema Normativo de Equipamiento Urbano;
 
-III. Preferentemente al centro geométrico del Desarrollo o desarrollos en condominio;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
 
-IV. Con un mínimo de dos frentes a vialidades públicas;
+III. Preferentemente al centro geométrico del conjunto habitacional, fraccionamiento habitacional de cualquier tipo, condominio con uso habitacional de estructura horizontal, vertical o mixto, los de uso comercial o industrial;
 
-V Las vialidades que las circunden deberán estar totalmente urbanizadas;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
 
-VI. Proporción del predio (ancho/largo) de 1:1 a 1:2;
+IV. Con un mínimo de un frente a vialidades públicas principales;
 
-VII. Pendiente máxima del diez por ciento; y,
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
 
-VIII. La posición en relación a la manzana, deberá ser preferentemente en la cabecera, media manzana o manzana completa, de conformidad a la superficie y el uso que se le pretenda dar por parte del Ayuntamiento.
+V. Las vialidades que las circunden deberán contar con los servicios de infraestructura y urbanización especificados en el presente Código para el tipo y modalidad de desarrollo de que se trate, dentro de los cuales de manera enunciativa mas no limitativa se encuentran los siguientes: red de agua potable, red de alcantarillado sanitario y pluvial, guarniciones, banquetas, pavimento de espesor y calidad durable, electrificación, alumbrado público, nomenclatura, mobiliario urbano y forestación;
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+
+VI. Ser un polígono regular, con proporción del predio (ancho/largo) de 1:l a 1:2, cualquier demérito por su forma o proporción deberá incrementarse en el porcentaje de donación;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+
+VII. Pendiente topográfica del terreno similar a la promedio del desarrollo habitacional susceptible de aprovechamiento;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+
+VIII. La posición en relación a la manzana, deberá ser preferentemente en la cabecera o manzana completa, de conformidad a la superficie y el uso que se le pretenda dar por parte del Ayuntamiento; y,
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
+
+IX. No se permitirán predios afectados por fallas geológicas, derechos federales como líneas de la Comisión Federal de Electricidad, cuerpos de agua, carreteras, poliductos, zonas inundables, entre otros; (sic)
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2013)</small>
+
+Las características que deberán cumplir las áreas de donación para áreas verdes son las siguientes:
+
+I. Ubicarse dentro del conjunto habitacional, fraccionamiento habitacional de cualquier tipo, condominio con uso habitacional de estructura horizontal, vertical o mixto, los de uso comercial o industrial;
+
+II. Preferentemente integrar un solo polígono;
+
+III. Ubicarse preferentemente al centro geométrico del conjunto habitacional, fraccionamiento habitacional de cualquier tipo, condominio con uso habitacional de estructura horizontal, vertical o mixto, los de uso comercial o industrial;
+
+IV. Con un mínimo de un frente a vialidades públicas principales;
+
+V. Las vialidades que las circunden deberán contar con los servicios de infraestructura y urbanización especificados en este código para el tipo y modalidad de desarrollo de que se trate, dentro de los cuales de manera enunciativa mas no limitativa se encuentran los siguientes: red de agua potable, red de alcantarillado sanitario y pluvial, guarniciones, banquetas, pavimento de espesor y calidad durable, electrificación, alumbrado público, nomenclatura, mobiliario urbano y forestación;
+
+VI. Ser un polígono regular, con proporción del predio (ancho/largo) de 1:1 a 1:3, cualquier demérito por su forma o proporción deberá incrementarse en el porcentaje de donación;
+
+VII. La posición en relación a la manzana, deberá ser preferentemente en la cabecera o manzana completa;
+
+VIII. Contar con construcción de banqueta perimetral e interior, con facilidades para personas con discapacidad.
+
+IX. Contar con instalación de alumbrado perimetral e interior;
+
+X. Contar con instalación de toma de agua pará riego, limpieza y jardinería favoreciendo el uso de ecotecnias;
+
+XI. Contar con instalación de bancas, una por cada 250- doscientos cincuenta metros cuadrados de terreno y juegos infantiles; y,
+
+XII. Entregarse forestadas con árboles nativos de la región de al menos 5-cinco centímetros de grosor medidos a I-un metro de altura, los cuales se colocarán de acuerdo a las condiciones que la dependencia municipal correspondiente señale para garantizar su conservación y crecimiento observando factores como el inicio de la temporada de lluvias y la humedad del suelo necesaria para tal fin.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2013)</small>
+
+Para los efectos de la fracción que antecede, los ayuntamientos que no cuenten con una dependencia en la materia deberán coordinar acciones con la dependencia estatal correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2013)</small>
+
+Los espacios jardinados que conforman una sección vial, tanto en andadores, camellones y banquetas, no se pueden considerar como área de donación para área verde, a excepción de aquellos casos en que el diseño de estas áreas cumpla con las características y condiciones anteriormente señaladas.
 
 ###### ARTÍCULO 298.
 
@@ -4177,27 +4295,41 @@ Previo a la autorización de fraccionamientos Industriales por parte del Ayuntam
 
 #### Sección Cuarta. Áreas de Donación
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 329.
 
-Las personas físicas o morales que obtengan de la autoridad la autorización definitiva para el establecimiento de un Desarrollo o desarrollo en condominio de los tipos que se señalan en este Código, tendrán la obligación de donar en los términos del artículo 297 de este Código:
+Para obtener la autorización definitiva de un conjunto habitacional, fraccionamiento habitacional de cualquier tipo, condominio con uso habitacional de estructura horizontal, vertical o mixto, de uso comercial, industrial en un predio o para cementerios, las personas físicas o morales tendrán la obligación de donar en los términos del artículo 297 del presente Código y conforme a lo siguiente:
 
-I. En los fraccionamientos Habitacionales Urbanos. Las superficies que se destinen a vías públicas, el tres por ciento de la superficie total de Desarrollo para el Gobierno del Estado y el diez por ciento de la superficie neta para el Ayuntamiento, para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un tres por ciento del (sic) la superficie total a desarrollar como área verde;
+I. En los fraccionamientos habitacionales urbanos. Las áreas que se destinen a vías públicas, el tres por ciento del área total del desarrollo para el Gobierno del Estado y el cinco por ciento del área total para el Ayuntamiento, para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde a favor del Ayuntamiento;
 
-II. En los conjuntos Habitacionales Urbanos. Las superficies que se destinen a vías públicas y el diecisiete por ciento de la superficie neta del desarrollo, para establecer única y exclusivamente obras o instalaciones para equipamiento urbano;
+II. En los conjuntos habitacionales urbanos de cualquier tipo. Las áreas que se destinen a vías públicas, el cinco por ciento del área total para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento;
 
-II. (sic) Habitacionales suburbanos. Las superficies que se destinen a vías públicas y el diez por ciento de la superficie total del fraccionamiento; para establecer única y exclusivamente obras o instalaciones para equipamiento urbano;
+III. En los fraccionamientos habitacionales suburbanos. Las áreas que se destinen a vías públicas, el cinco por ciento del área total para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento;
 
-III. (sic) Comerciales e industriales: Las superficies destinadas a vías públicas y el cinco por ciento del (sic) la superficie total del terreno a fraccionar; y,
+IV. En los fraccionamientos comerciales e industriales de cualquier tipo. Las áreas destinadas a vías públicas y el tres por ciento del área total para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un tres por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento;
 
-b. En los casos que se constituyan en condominio, se donará el cinco por ciento de la superficie neta; y,
+a. (DEROGADO, P.O. 16 DE JULIO DE 2013)
 
-IV. (sic) Cementerios. Las superficies destinadas a vías públicas y el diez por ciento de la superficie total del terreno a fraccionar o lo que estipule el contrato de concesión correspondiente.
+b. (DEROGADO, P.O. 16 DE JULIO DE 2013)
 
-Las superficies de donación se entregarán debidamente urbanizadas y mediante escritura pública, salvo las superficies destinadas a vías públicas, que costeará el fraccionador, con excepción de los Desarrollos Habitacionales Urbanos tipo popular, cuya sola inscripción de la autorización definitiva del Desarrollo, hará las veces de título de propiedad.
+V. En los cementerios. Las áreas destinadas a vías públicas y el diez por ciento del área total del terreno a fraccionar o lo que estipule el contrato de concesión correspondiente a favor del Ayuntamiento;
+
+VI. En los fraccionamientos habitacionales urbanos tipo popular las áreas que se destinen a vías públicas, el tres por ciento del área total del desarrollo para el Gobierno del Estado, el cinco por ciento del área total para el Ayuntamiento para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde a favor del Ayuntamiento;
+
+VII. En el caso de condominios habitacionales y comerciales de estructura horizontal, vertical o mixta en predios, el promovente deberá donar a favor del Ayuntamiento, el cinco por ciento del área total para el Ayuntamiento para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde a favor del Ayuntamiento; y,
+
+VIII. En el caso de condominios industriales de estructura horizontal, vertical o mixta en predios, el promovente deberá donar a favor del Ayuntamiento, el ocho por ciento del área total del desarrollo.
+
+Quedan exentos de las donaciones señaladas en las fracciones anteriores los casos señalados en el artículo 330 del presente Código.
+
+Las superficies de donación para equipamiento urbano y para áreas verdes, estatales o municipales, se entregarán en los lugares y áreas que de acuerdo al tipo de fraccionamiento o condominio autorizado le sean señalados, debidamente urbanizadas y mediante escritura pública inscrita en el Registro Público de la Propiedad Raíz y del Comercio que costeará el interesado.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 330.
 
-En el caso de nuevos Desarrollos que pretendan ejecutarse dentro de otros del mismo tipo, que hayan sido establecidos con anterioridad y que hubiesen satisfecho la obligación de donar terrenos para equipamiento urbano, de conformidad con las leyes, reglamentos o disposiciones vigentes en la fecha de su iniciación, o de acuerdo con los convenios celebrados con la autoridad competente, no estarán obligados a hacer la donación a que se refiere el artículo precedente. La comprobación de haber satisfecho esa donación, se hará mediante la presentación de copia cotejada del título de propiedad debidamente inscrito ante el Registro Público de la Propiedad Raíz en el Estado.
+En el caso de nuevos condominios habitacionales, comerciales o industriales de estructura horizontal, vertical o mixto en lotes de fraccionamientos que sean compatibles, que hayan sido establecidos con anterioridad, que hubiesen satisfecho la obligación de donar o pagar terrenos para equipamiento urbano o de donar terrenos para áreas verdes y que se ajusten a las determinaciones sobre el uso y la densidad habitacional del suelo que señalen los programas (sic) desarrollo urbano vigentes para cada caso, no estarán obligados a hacer las donaciones a que se refiere el artículo precedente. La comprobación de haber satisfecho lo anterior será determinado por la autoridad por medios fehacientes y verificables.
 
 ### Capitulo X. De las Relotificaciones, Fusiones y Subdivisiones de Áreas y Predios
 
@@ -4299,9 +4431,11 @@ De las autorizaciones que se otorguen, la Dependencia Municipal remitirá una co
 
 El Ayuntamiento, cuando el caso así lo requiera, al otorgar autorizaciones para el establecimiento de Desarrollos, fijará con base en los ordenamientos aplicables, las zonas de restricción, que por ser usual en ciertas colonias y poblaciones o por reglamentación, los fraccionadores deban dejar hacia las vías públicas o colindancias.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 342.
 
-Si el área de donación de cualquier tipo de Desarrollo fuere menor a una superficie de 500 metros cuadrados, podrá determinarse el valor comercial de la misma, a efecto de que el propietario lo entere a la Tesorería Municipal correspondiente. Recurso que podrá ser destinado para creación de un fideicomiso para la adquisición de reserva territorial municipal.
+Si el área de donación Estatal o Municipal destinada para equipamiento urbano, de cualquier tipo de Desarrollo, con excepción de las destinadas para áreas verdes, fuere menor a una superficie de mil metros cuadrados, podrá determinarse el valor comercial de la misma, a efecto de que el propietario lo pague a la Secretaria de Finanzas o a la Tesorería Municipal correspondiente. Este recurso deberá ser destinado para la creación de un fideicomiso para la adquisición de reserva territorial Estatal o Municipal según corresponda. En la integración y operatividad del fideicomiso se deberá garantizar la participación ciudadana.
 
 ###### ARTÍCULO 343.
 
@@ -4549,29 +4683,45 @@ IV. Las previsiones y medidas de salubridad, seguridad y protección civil.
 
 ###### ARTÍCULO 361.
 
-La realización de los desarrollos en condominio a que se refiere este Capítulo se sujetará a lo dispuesto en la legislación civil del Estado de Michoacán y la Ley sobre el Régimen de Propiedad en Condominio, debiendo cumplir asimismo con lo dispuesto en el presente Código y demás disposiciones legales de la materia, y podrán clasificarse en los tipos siguientes:
+La realización de los desarrollos en condominio a que se refiere este Capítulo se sujetará a lo dispuesto en la legislación civil del Estado de Michoacán y la Ley Sobre el Régimen de Propiedad en Condominio del Estado de Michoacán, debiendo cumplir asimismo con lo dispuesto en el presente Código y demás disposiciones legales de la materia.
 
-I. Habitacional;
+I. (DEROGADA, P.O. 16 DE JULIO DE 2013)
 
-II. Comercial;
+II. (DEROGADA, P.O. 16 DE JULIO DE 2013)
 
-III. Industrial; y,
+III. (DEROGADA, P.O. 16 DE JULIO DE 2013)
 
-IV. Mixto de usos compatibles.
+IV. (DEROGADA, P.O. 16 DE JULIO DE 2013)
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 362.
 
-Las normas básicas para los desarrollos en condominio, serán las siguientes:
+Los condominios de acuerdo con sus características de estructura y de uso, podrán ser:
 
-I. Tratándose de condominios verticales habitacionales, el promovente deberá donar a favor del Ayuntamiento una superficie de terreno debidamente urbanizada, equivalente a 10 metros cuadrados por cada departamento o vivienda;
+I. Atendiendo a su estructura:
 
-II. Tratándose de condominios horizontales habitacionales, el promovente deberá donar a favor del Ayuntamiento el once por ciento del área total del terreno;
+a) Condominio vertical: Se establece en aquel inmueble edificado en varios niveles en un terreno común, con unidades de propiedad privada;
 
-III. Tratándose de condominios horizontales o verticales tipo comerciales o industriales, el promovente deberá donar a favor del Ayuntamiento, el cinco por ciento de la superficie total del predio;
+b) Condominio horizontal: Se constituye en inmuebles con construcción horizontal donde el condominio tiene derecho de uso exclusivo de parte de un terreno y es propietario de la edificación establecida en el mismo, pudiendo compartir o no su estructura y medianería, siendo titular de un derecho de copropiedad para el uso y disfrute de las áreas del terreno, construcciones e instalaciones destinadas al usó común; y,
 
-IV. Tratándose de condominios mixtos habitacionales, comerciales e industriales, el promovente deberá donar al Ayuntamiento en la proporción que corresponda a cada uso del suelo el porcentaje de superficie, conforme a lo dispuesto en las fracciones anteriores; y,
+c) Condominio mixto: Es aquel formado por condominios verticales y horizontales.
 
-V. En los Conjuntos habitacionales tipo interés social bajo el régimen de propiedad en condominio, se permitirá el frente del lote mínimo de 4.50 metros.
+II. Atendiendo a su uso:
+
+a) Habitacional: son aquellos inmuebles en los que la unidad de propiedad privativa es destinada a la vivienda;
+
+b) Comercio o de servicios: son aquellos inmuebles en los que la unidad de propiedad privativa es destinada a la actividad propia del comercio o servicio permitido;
+
+c) Industrial: son aquellos en donde la unidad de propiedad privativa es destinada a actividades permitidas propias del ramo;
+
+d) Oficinas: son aquellos en donde la unidad de propiedad privativa es destinada a actividades permitidas para tal efecto;
+
+e) Bodegas;
+
+f) Consultorios; y,
+
+g) Mixtos: son aquellos en donde la unidad de propiedad privativa, es destinada a dos o más usos de los señalados en los incisos anteriores, siempre y cuando no afecte a ninguno de ellos.
 
 ###### ARTÍCULO 363.
 
@@ -4598,6 +4748,10 @@ Los desarrollos en condominio cualquiera que sea su uso del suelo y tipo, confor
 ###### ARTÍCULO 368.
 
 En los desarrollos habitacionales en condominio, sólo se podrán edificar el número de departamentos o viviendas que permita la densidad de población establecida en el programa de desarrollo urbano respectivo.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2013)</small>
+
+En los conjuntos habitacionales tipo interés social bajo el régimen de propiedad en condominio, se permitirá el frente de vivienda mínimo de 4.50 metros.
 
 ###### ARTÍCULO 369.
 
@@ -5041,23 +5195,29 @@ Cuando en una subdivisión de un predio rústico, las fracciones resultantes ten
 
 ###### ARTÍCULO 427.
 
-No se autorizarán subdivisiones de predios cuando el predio hubiera sido objeto de subdivisión anterior, en un periodo de dos años.
+(DEROGADO, P.O. 16 DE JULIO DE 2013)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 428.
 
-Los propietarios de predios objeto de subdivisión, estarán exentos de ceder áreas de donación en los casos siguientes:
+Los propietarios de predios objeto de subdivisión, estarán exentos de transferir áreas de donación en los casos siguientes:
 
 I. La división de un terreno con superficie hasta de 1,000 metros cuadrados;
 
-II. Las relotificaciones en Desarrollos o desarrollos en condominio establecidos que hayan hecho ya las donaciones respectivas, debiendo acreditarlo el interesado mediante copia certificada de la escritura pública que demuestre el hecho;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+
+II. Las relotificaciones en fraccionamientos habitacionales de cualquier tipo y/o modalidad establecidos que hayan hecho ya las donaciones respectivas, debiendo acreditarlo el interesado mediante copia certificada de la escritura pública debidamente inscrita en el Registro Público de la Propiedad y del Comercio, que demuestre el hecho, o en su caso copia cotejada del comprobante de pago a la Secretaria de Finanzas o la Tesorería Municipal correspondiente;
 
 III. Las divisiones de terrenos rústicos, cuando todas y cada una de las porciones resultantes queden con una superficie superior a una hectárea; y,
 
 IV. Las parcelaciones que se realicen por causa de herencia, donación, compra-venta o permuta entre parientes en línea recta dentro del primero y segundo grados o cónyuges o herederos y legatarios.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 429.
 
-Las subdivisiones de predios mayores a 1,000 metros cuadrados, estarán sujetas a una donación obligatoria a favor del Ayuntamiento correspondiente del tres por ciento de la superficie que integre el área a subdividir.
+Las subdivisiones de predios mayores a 1,000 metros cuadrados, estarán sujetas a una donación obligatoria a favor del Ayuntamiento correspondiente del tres por ciento única y exclusivamente de la fracción o fracciones a separar y aprovechar respecto al predio de origen.
 
 ###### ARTÍCULO 430.
 
@@ -5337,10 +5497,16 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE MAYO DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE JULIO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Los procedimientos que se encuentren en trámite a la fecha de la entrada en vigor del presente Decreto, seguirán desarrollándose observando las normas contenidas en el Código de Desarrollo Urbano del Estado de Michoacán vigente al momento de iniciar su procedimiento respectivo, hasta su conclusión.
