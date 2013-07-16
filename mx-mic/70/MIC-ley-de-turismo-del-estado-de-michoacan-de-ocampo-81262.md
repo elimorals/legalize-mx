@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-turismo-del-estado-de-michoacan-de-ocampo-81262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-03"
-last_updated: "2011-05-03"
+last_updated: "2013-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE TURISMO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE TURISMO DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2013.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Michoacán, el martes 3 de mayo de 2011.
 
@@ -149,7 +149,7 @@ I. Formular, conducir y evaluar la política turística en el Estado;
 
 II. Celebrar convenios en materia turística conforme a lo previsto en la presente Ley;
 
-IlI. La planeación, programación, fomento y desarrollo de la actividad turística para el Estado;
+III. La planeación, programación, fomento y desarrollo de la actividad turística para el Estado;
 
 IV. Formular, ejecutar y evaluar el Programa Estatal de Turismo, bajo las directrices previstas en el Plan Nacional de Desarrollo y el Programa Sectorial de Turismo y el Plan Estatal de Desarrollo;
 
@@ -159,7 +159,7 @@ VI. Concertar con los sectores privado y social, las acciones tendientes a deton
 
 VII. Formular, evaluar, ejecutar y regular los planes regionales y programas especiales, con la participación de los municipios en los que se desarrollen;
 
-VIlI. Formular, evaluar y ejecutar los programas de ordenamiento turístico del territorio, con la participación que corresponda a los municipios respectivos;
+VIII. Formular, evaluar y ejecutar los programas de ordenamiento turístico del territorio, con la participación que corresponda a los municipios respectivos;
 
 IX. Regulación y vigilancia de las Zonas de Desarrollo Turístico Sustentable en los municipios del Estado, conforme a los convenios que al efecto se suscriban;
 
@@ -225,7 +225,7 @@ XII. Participar en los programas de prevención y atención de emergencias y des
 
 XIII. Coadyuvar al establecimiento y administración de módulos de información y orientación al turista;
 
-XlV. Recibir y canalizar las quejas de los turistas, para su atención ante la autoridad competente;
+XIV. Recibir y canalizar las quejas de los turistas, para su atención ante la autoridad competente;
 
 XV. Atender los demás asuntos que en materia de planeación, programación, fomento y desarrollo de la actividad turística les conceda esta Ley u otros ordenamientos legales en concordancia con ella y que no estén otorgados expresamente al Ejecutivo Federal, Estados o el Distrito Federal;
 
@@ -483,9 +483,11 @@ La Secretaría fomentará la inversión pública o privada, para incrementar la 
 
 La Secretaría apoyará las actividades y eventos que otros organismos del sector público o privado realicen para el fomento de la actividad turística y la promoción del patrimonio turístico en el Estado, el país y el extranjero, siempre que estén en concordancia con los planes y programas turísticos existentes y con las disposiciones de esta Ley.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 49.
 
-El Congreso del Estado, a través de su Comisión de Turismo, otorgará cada tres años, una condecoración a los prestadores de servicios que se destaquen por su interés, creatividad, inversión, atención y promoción de la actividad turística en el Estado.
+El Congreso del Estado, a través de su Comisión de Turismo, otorgará cada año, una condecoración a los prestadores de servicios que se destaquen por su interés, creatividad, inversión, atención y promoción de la actividad turística en el Estado.
 
 ###### ARTÍCULO 50.
 
@@ -691,9 +693,17 @@ XII. El titular de la Cámara Nacional de la Industria de Restaurantes y Aliment
 
 XIII. El titular de la Asociación de Hoteles y Moteles del Estado de Michoacán;
 
-XIV. El titular de la Asociación de Guías de Turistas en el Estado; y,
+XIV. El titular de la Asociación de Guías de Turistas en el Estado; y, (sic)
 
 XV. El titular de la Asociación Michoacana de Balnearios y Parques Acuáticos.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XVI. Un representante de la Cámara Nacional de Comercio, Servicios y Turismo, a propuesta de las cámaras en los municipios adheridas a esa organización, existentes en el Estado;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
+
+XVII. Un representante de la Cámara Nacional de la Industria de la Transformación, a propuesta de las cámaras en los municipios adheridas a esa organización, existentes en el Estado.
 
 Por decisión del Consejo podrán ser invitadas las universidades, instituciones y demás entidades públicas, privadas, sociales, asociaciones, y personas relacionadas con el turismo, quienes tendrán derecho a voz, pero sin voto.
 
@@ -763,7 +773,7 @@ IV. En general promover la programación, capacitación, fomento y desarrollo de
 
 ## TÍTULO VII. DE LA PROFESIONALIZACIÓN TURÍSTICA
 
-### CAPÍTULO ÚNICO. DE.LA CAPACITACIÓN, INVESTIGACIÓN Y CULTURA TURÍSTICA
+### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN, INVESTIGACIÓN Y CULTURA TURÍSTICA
 
 ###### ARTÍCULO 77.
 
@@ -1105,7 +1115,7 @@ I. Hora, día, mes y año en que se practicó la visita;
 
 II. Número de registro o folio;
 
-IlI. Objeto de la visita;
+III. Objeto de la visita;
 
 IV. Número y fecha de la orden de verificación, así como de la identificación del verificador;
 
@@ -1205,8 +1215,16 @@ El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, Morelia, Michoacán de Ocampo, a los 14 catorce días del mes de abril de 2011, dos mil once.
 
-ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. JESÚS ÁVALOS PLATA.- PRIMER SECRETARlO.- DIP. CLAUDIO MÉNDEZ FERNÁNDEZ.- SEGUNDO SECRETARIO.- DIP. JUAN CARLOS CAMPOS PONCE.- TERCER SECRETARIO.- DIP. JUAN MANUEL MACEDO NEGRETE. (Firmados).
+ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. JESÚS ÁVALOS PLATA.- PRIMER SECRETARIO.- DIP. CLAUDIO MÉNDEZ FERNÁNDEZ.- SEGUNDO SECRETARIO.- DIP. JUAN CARLOS CAMPOS PONCE.- TERCER SECRETARIO.- DIP. JUAN MANUEL MACEDO NEGRETE. (Firmados).
 
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 15 quince días del mes de Abril del año 2011 dos mil once.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- El Congreso del Estado, dentro de los noventa días naturales siguientes contados a partir de la fecha de entrada en vigor de este Decreto, a propuesta de la Comisión de Turismo, aprobará los lineamientos con base a los cuáles se otorgue la condecoración materia del artículo 49 de la Ley de Turismo del Estado de Michoacán de Ocampo.
