@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2013-05-09"
+last_updated: "2013-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -155,7 +157,9 @@ IX. Realizar acciones y operativos conjuntos entre las Instituciones de Segurida
 
 X. Participar en la protección y vigilancia de las instalaciones estratégicas del Estado y del país en los términos de esta Ley y demás disposiciones aplicables;
 
-XI. Determinar la participación de la comunidad y de instituciones académicas en coadyuvancia con los procesos de evaluación de las políticas de prevención del delito, así como de las Instituciones de Seguridad Pública, a través de mecanismos eficaces;
+> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
+
+XI. Determinar y coordinar la participación de la ciudadanía, comunidad, organizaciones sociales, instituciones de seguridad pública y de instituciones académicas en la elaboración, monitoreo y modificación de las políticas públicas integrales de prevención social de la violencia y la delincuencia, así como del delito, a través de mecanismos eficaces;
 
 XII. Implementar mecanismos de evaluación en la aplicación de los fondos de ayuda federal para la seguridad pública;
 
@@ -239,9 +243,15 @@ XI. Fortalecer los sistemas de seguridad social de los servidores públicos de l
 
 XII. Presidir el Consejo de Seguridad Pública del Estado;
 
-XIII. Suscribir convenios de coordinación y colaboración con la Federación, el Distrito Federal y los estados, así como supervisar la ejecución de los acuerdos y políticas adoptados en el marco del Sistema Nacional; y
+> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
 
-XIV. Las demás que le confieran la Constitución Federal, la Constitución Estatal, la Ley General, esta Ley y los demás ordenamientos jurídicos aplicables.
+XIII. Suscribir convenios de coordinación y colaboración con la Federación, el Distrito Federal y los estados, así como supervisar la ejecución de los acuerdos y políticas adoptados en el marco del Sistema Nacional;
+
+> <small>(ADICIONADA, G.G. 17 DE JULIO DE 2013)</small>
+
+XIV. Acordar la integración de las comisiones que considere necesarias en materia de seguridad y prevención social de la violencia y la delincuencia, en las que participarán los funcionarios de las dependencias de los sectores central y descentralizado de la administración pública estatal que determine, adicionalmente podrá invitar a cualquier miembro del Consejo Estatal para que participe en los trabajos de las referidas comisiones; y
+
+XV. Las demás que le confieran la Constitución Federal, la Constitución Estatal, la Ley General, esta Ley y los demás ordenamientos jurídicos aplicables.
 
 ### CAPÍTULO TERCERO. DEL SECRETARIO DE SEGURIDAD CIUDADANA
 
@@ -397,7 +407,9 @@ Son atribuciones de los ayuntamientos en materia de seguridad pública:
 
 I. Expedir las disposiciones administrativas correspondientes a la Seguridad Pública preventiva en el ámbito de su competencia;
 
-II. Aprobar el Programa Municipal de Seguridad Pública Preventiva en congruencia con el respectivo Programa Estatal;
+> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
+
+II. Aprobar el Programa Municipal de Seguridad Pública Preventiva en congruencia con el respectivo Programa Estatal; así como el programa municipal de prevención social de la violencia y la delincuencia, con participación ciudadana;
 
 III. Aprobar convenios de coordinación en materia de seguridad pública con otros Municipios de la entidad y de coordinación y de asunción de funciones con el Estado, previa la observancia de las formalidades que establezcan los ordenamientos aplicables;
 
@@ -527,9 +539,15 @@ III. De Personal de Instituciones de Seguridad Pública;
 
 IV. De Registro de Armamento y Equipo;
 
-V. De Registro Administrativo de Detenciones; y
+> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
 
-VI. Las demás bases de datos que se generen.
+V. De Registro Administrativo de Detenciones;
+
+> <small>(ADICIONADA, G.G. 17 DE JULIO DE 2013)</small>
+
+VI. De prevención social de la violencia y la delincuencia; y
+
+VII. Las demás bases de datos que se generen.
 
 La información sobre administración de justicia podrá ser integrada al Sistema Estatal, a través de convenios con el Poder Judicial del Estado de México y en su caso, con el Poder Judicial de la Federación y los Poderes Judiciales de las entidades federativas.
 
@@ -947,6 +965,8 @@ El personal de las unidades administrativas del Secretariado Ejecutivo, incluso 
 
 #### SECCIÓN SEGUNDA. DEL CENTRO DE PREVENCIÓN DEL DELITO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 63.
 
 El Centro de Información y Estadística tendrá las atribuciones siguientes:
@@ -1143,13 +1163,19 @@ La inobservancia a lo anterior se sancionará de conformidad con las disposicion
 
 ###### Artículo 82.
 
-El Centro de Prevención del Delito es un órgano dependiente del Secretariado Ejecutivo; su organización y funcionamiento se determinará en su reglamento interior y en las demás disposiciones aplicables.
+El Centro es un órgano dependiente del Secretariado Ejecutivo; su organización y funcionamiento se determinará en su reglamento interior y en las demás disposiciones aplicables.
 
 Para su mejor desempeño deberá auxiliarse de la opinión técnica de dependencias, asociaciones, organismos y personas especializadas en temas vinculados con la prevención social del delito, a través del órgano técnico que para tal efecto se designe.
 
+> <small>(ADICIONADO, G.G. 17 DE JULIO DE 2013)</small>
+
+El Estado y los municipios incorporarán en sus programas de prevención social de la violencia y la delincuencia, los subprogramas necesarios para fomentar la cultura de la prevención social de la violencia y la delincuencia y el desarrollo de los valores sociales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 83.
 
-Son atribuciones del Centro de Prevención del Delito, las siguientes:
+Son atribuciones del Centro, las siguientes:
 
 I. Formular y ejecutar programas y campañas de prevención de conductas ilícitas, particularmente fomentar las de prevención primaria con los sectores educativo y de salud, así como evaluar sus resultados;
 
@@ -1297,7 +1323,9 @@ I. La política pública integral sobre seguridad pública;
 
 II. Las metas y objetivos específicos de dicha política;
 
-III. Las acciones que, en forma planeada y coordinada, deberán realizar las Instituciones de Seguridad Pública, para la prevención del delito;
+> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
+
+III. Las políticas públicas y acciones que, en forma planeada y coordinada, deberán realizar las Instituciones de Seguridad Pública, para la prevención del delito;
 
 IV. El diagnóstico de la situación que presenta la seguridad pública en el Estado de México;
 
@@ -2626,3 +2654,21 @@ TERCERO.- El Ejecutivo del Estado proveerá lo necesario para dar cumplimiento a
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 QUINTO.- El Consejo Estatal de Seguridad Pública, en un plazo no mayor a tres meses contados a partir de la publicación del presente Decreto, ordenará la publicación de la convocatoria para integrar el Consejo Ciudadano de Seguridad Pública en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 17 DE JULIO DE 2013.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Estado y los municipios, proveerán lo financieramente necesario para el cumplimiento de este decreto.
+
+CUARTO.- Las dependencias y organismos auxiliares deberán adecuar sus ordenamientos internos a fin de cumplir adecuadamente con el objeto de la Ley.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+SEXTO.- El Reglamento de la Ley que se expide deberá emitirse en un término de noventa días naturales contados a partir del inicio de la vigencia del presente decreto.
+
+SÉPTIMO.- La evaluación a que se refiere el artículo 26 de la Ley contenida en este decreto, respecto del año 2013, se incluirá en la que se presente respecto del 2014.
