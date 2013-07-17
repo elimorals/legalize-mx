@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-del-notariado-del-estado-de-yucatan-82787"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-07"
-last_updated: "2011-09-30"
+last_updated: "2013-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE YUCATAN
 
-REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE YUCATAN
+REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 30 DE SEPTIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE JULIO DE 2013.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 7 de septiembre de 2011.
 
@@ -53,13 +51,19 @@ I. El Poder Ejecutivo del Gobierno del Estado de Yucatán, y
 
 II. El Consejo de Notarios del Estado de Yucatán.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 3.
 
-Para efectos del artículo tercero de la Ley del Notariado del Estado de Yucatán, adicionalmente a las definiciones contenidas en el mismo, se entiende por:
+Para efectos de este Reglamento, además de las definiciones contenidas en el artículo 3 de la Ley del Notariado del Estado de Yucatán, se entenderá por:
 
 I. Archivo: El Archivo Notarial del Estado de Yucatán;
 
-II. Comité: El Comité Administrador del Fondo de Garantía del Notariado del Estado de Yucatán;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+II. (DEROGADA, D.O. 17 DE JULIO DE 2013)
 
 III. Consejería: La Consejería Jurídica del Poder Ejecutivo del Gobierno del Estado de Yucatán;
 
@@ -93,9 +97,11 @@ El arancel a que se refiere el segundo párrafo del artículo 8 de la Ley se exp
 
 La prestación de servicios notariales en jornada electoral, fuera de la residencia del Notario a que se refiere el último párrafo del artículo 8 de la Ley, será procedente, siempre y cuando no se afecte el ejercicio del derecho de voto del Notario o la prestación de sus servicios requeridos por los ciudadanos o institutos políticos o electorales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 8.
 
-Para los efectos de la parte final del artículo 11 de la Ley, cuando la ley respectiva los haga responsables solidarios con los contribuyentes, los fedatarios públicos autorizarán el acta notarial o la escritura pública cuando se le hayan (sic) cubierto previamente el importe de las contribuciones o los impuestos correspondientes por parte de los obligados conforme a la ley respectiva, o se haya garantizado a satisfacción el interés fiscal.
+(DEROGADO, D.O. 17 DE JULIO DE 2013)
 
 ###### Artículo 9.
 
@@ -249,6 +255,76 @@ Los aspirantes a notario deberán asistir a los cursos de actualización que imp
 
 En caso de que el aspirante a notario no reúna el puntaje mínimo establecido por el Consejo en su convocatoria anual respecto de los cursos impartidos en los doce meses anteriores a la convocatoria a examen, no será elegible para presentar los exámenes de oposición, hasta en tanto no alcance dicho puntaje mínimo. El Consejo deberá expedir las constancias relativas a solicitud de parte interesada.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE JULIO DE 2013)</small>
+
+###### Artículo 32 Bis.
+
+En términos de lo dispuesto en el cuarto párrafo del artículo 39 de la Ley, los Notarios Públicos requerirán autorización expresa del Poder Ejecutivo del Estado cuando pretendan permutar sus adscripciones o residencias.
+
+La resolución sobre la procedencia de la permuta será emitida por el Poder Ejecutivo del Estado, por conducto de la Dirección General de Servicios Legales y Vinculación Institucional de la Consejería Jurídica.
+
+La autorización de la permuta de las notarías, se realizará previa opinión favorable del Consejo. En este supuesto, el titular del Poder Ejecutivo expedirá las patentes respectivas, mismas que se deberán publicar en un término no mayor a tres días hábiles en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE JULIO DE 2013)</small>
+
+###### Artículo 32 Ter.
+
+Los interesados en permutar sus notarías, deberán presentar solicitud por escrito en la Dirección General de Servicios Legales y Vinculación Institucional de la Consejería Jurídica, adjuntando a la misma los documentos siguientes:
+
+I. El convenio de permuta;
+
+II. Escrito en el que relacionen el inventario de todos los libros de protocolo que conforme a la Ley se encuentren utilizando los Notarios Públicos; los testamentos que estuviesen en guarda, con la expresión del estado de sus cubiertas y sellos; los títulos; expedientes; los apéndices; índices; libros de registro de cotejos y de Certificaciones de Firmas; documentos privados, y en general, la documentación que en el ejercicio de sus funciones obren en su notaría;
+
+III. Copia certificada de la patente de los Notarios Públicos solicitantes, y
+
+IV. Escrito bajo protesta de decir verdad, en el que manifiesten encontrarse al corriente en el cumplimiento de sus obligaciones notariales y no sujetos a procedimiento judicial penal o administrativo relacionados con su desempeño notarial, así como no haber realizado otra permuta.
+
+Se tendrá por no solicitada la permuta, si durante el trámite de autorización cesan en sus funciones alguno o ambos permutantes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE JULIO DE 2013)</small>
+
+###### Artículo 32 Quater
+
+El procedimiento para determinar la autorización de la permuta se sujetará a lo siguiente:
+
+I. La Consejería Jurídica, recibida la solicitud, podrá hacer observaciones a la misma o a sus anexos dentro de los cinco días posteriores a su presentación, concediendo un término a los permutantes de tres días hábiles, a partir de la notificación, para que las subsanen. Si transcurrido el plazo no se subsanan las observaciones, se tendrá por no interpuesta y será desechada la solicitud de permuta, lo cual se notificará de manera personal a los interesados, quienes podrán solicitarla nuevamente seis meses después de la notificación respectiva;
+
+II. La Consejería Jurídica, si no hiciere observaciones, girará oficio al Consejo, adjuntando al mismo, la solicitud de permuta y sus anexos, y solicitándole designe a los interventores que considere necesarios para que en coadyuvancia con el Archivo se encarguen del cierre y entrega de los protocolos;
+
+III. El Archivo y el interventor o los interventores designados, deberán verificar el inventario presentado por los permutantes. En caso de no coincidir con la existencia que obre en la notaría de que se trate, el Archivo otorgará a los solicitantes un plazo de cuarenta y ocho horas para subsanar las observaciones;
+
+IV. El Archivo y el interventor o los interventores designados, al cerrar los libros del protocolo, procederán a poner razón en cada libro respecto a la causa que motive el acto y agregará todas las circunstancias que estime convenientes, suscribiendo dicha razón con su firma;
+
+V. Tratándose del protocolo abierto, lo señalado en la fracción anterior se asentará en hoja adicional, en la que además se precisará el número de folios sin utilizar que tenga el Notario Público y se agregará a estos;
+
+VI. Concluida la actuación del interventor o los interventores designados, el Consejo emitirá su opinión respecto a la permuta solicitada;
+
+VII. Derivado de la opinión del Consejo, la Consejería Jurídica resolverá dentro de los cinco días hábiles siguientes sobre la procedencia de la permuta solicitada, y
+
+VIII. En caso de autorizarse la permuta, lo notificará a los Notarios Públicos interesados, condicionando la expedición de las nuevas patentes, a la renuncia expresa de la patente de la notaría que permutaron y a la entrega de sus sellos a la autoridad competente para su invalidación, dentro de los 3 días hábiles siguientes a la notificación respectiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE JULIO DE 2013)</small>
+
+###### Artículo 32 Quinquies.
+
+Los Notarios Públicos permutantes deberán:
+
+I. Iniciar funciones en su nueva notaría en un plazo de cuarenta y cinco días hábiles siguientes al de su protesta;
+
+II. Dar aviso al público del domicilio en que funcionará cada oficina, mediante publicación por una sola vez en el Diario Oficial del Gobierno del Estado de Yucatán;
+
+III. Adquirir el sello que lo identifique y los libros o folios que integrarán su protocolo, y
+
+IV. Registrar su sello y firma ante las autoridades a que se refiere el último párrafo del artículo 44 de este Reglamento.
+
 ### CAPÍTULO III. Del ejercicio de la función notarial
 
 ###### Artículo 33.
@@ -291,9 +367,13 @@ I. Nombre del Notario, con la mención correspondiente si alguien actúa como su
 
 II. Número de la Notaría.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 41.
 
-Los Notarios Públicos deberán colocar en un lugar visible al público de sus oficinas, el documento en el que conste la patente o nombramiento correspondiente, para el ejercicio de la fe pública, así como el arancel de notarios correspondiente.
+Los Notarios Públicos deberán colocar en un lugar visible de sus oficinas, para conocimiento del público, el documento en el que conste la patente o nombramiento correspondiente para el ejercicio de la fe pública.
 
 ###### Artículo 42.
 
@@ -303,19 +383,61 @@ En términos del artículo 53 de la Ley, el Ejecutivo del Estado expedirá a cad
 
 En caso de destrucción, daño o extravío, el Ejecutivo del Estado repondrá la credencial, dentro de los treinta días inmediatos siguientes a la fecha de presentación de la solicitud correspondiente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 44.
 
-El sello de autorizar de los notarios públicos, además de las características establecidas en el artículo 54 fracción I de la Ley, podrá contar con el grado académico del notario, así como con micrograbados, troquelado, realzado o cualquier otro material que permita su impresión, la cual deberá realizarse siempre con tintas indelebles, y siempre y en todo caso, cada hoja de los testimonios o copias certificadas que se expidan, será impresa con el sello de autorizar, independientemente de que también pueda llevar un sello de relieve, o cualquier otra medida de seguridad existente.
+El sello de autorizar de cada Notario Público, además de las características establecidas en la fracción I del artículo 54 de la Ley, deberá contar con el grado académico del Notario Público.
 
-Los Fedatarios Públicos deberán registrar su sello y firma, ante el Ejecutivo del Estado por conducto de la Consejería, el Consejo de Notarios y Archivo Notarial.
+El Consejo, a solicitud y costa del Notario Público interesado, obtendrá y entregará a éste, el sello de autorizar, el cual será de tinta indeleble y se le incorporarán las medidas de seguridad que dicho Consejo considere convenientes. El Notario Público podrá solicitar hasta cuatro sellos adicionales, atendiendo al volumen de documentos que autorice.
+
+Los Notarios Públicos imprimirán el sello de autorizar en los documentos que la Ley y este Reglamento señalen, independientemente de que también puedan utilizar un sello de relieve.
+
+Los Notarios Públicos deberán registrar su sello y firma ante el Ejecutivo del Estado por conducto de la Consejería, el Consejo y Archivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE JULIO DE 2013)</small>
+
+###### Artículo 44 Bis.
+
+El registro a que se refiere el artículo que antecede estará a cargo del Ejecutivo del Estado por conducto de la Consejería, el Consejo y el Archivo, quienes deberán coordinarse entre sí para mantener actualizada y unificada la información materia del registro de que se trata.
+
+Para la integración del registro, los Notarios Públicos titulares y suplentes, previo a entrar en funciones, deberán presentar ante las autoridades respectivas, la solicitud de registro en el formato que para tal efecto expidan dichas autoridades en común, adjuntando a la misma la identificación y patente del Notario Público respectivo.
+
+El formato de solicitud a que se refiere el párrafo que antecede, debe contener cuando menos los siguientes apartados:
+
+I. Nombre completo del Notario Público;
+
+II. Domicilio en el que se encuentra ubicada la notaría;
+
+III. Número de notaría y lugar de adscripción, y
+
+IV. Un espacio donde el Notario público solicitante imprimirá su sello de autorizar y firma.
+
+Una vez recibida y validada dicha solicitud, las autoridades correspondientes procederán al registro del sello y firma del Notario Público, resguardando en sus archivos los documentos que le fueron presentados para tal efecto, así como también digitalizándolos para su resguardo en medios electrónicos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE JULIO DE 2013)</small>
+
+###### Artículo 44 Ter.
+
+Cuando se actualice alguna de las causales de terminación de la función notarial a que se refiere la Ley, el Notario Público que cese en sus funciones, deberá informarlo a las instituciones a que se refiere el artículo anterior, para la cancelación del registro respectivo.
 
 ###### Artículo 45.
 
 Para los efectos del artículo 56 de la Ley, en el ejercicio de la fe pública a que se refiere la Ley y este Reglamento, son hábiles todos los días y horas del año. Las notarías podrán estar cerradas al público los sábados, los domingos y los días señalados como inhábiles en el calendario oficial del Estado y en aquellos considerados como tales por la costumbre popular.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 46.
 
-Para los efectos del artículo 58 de la Ley, el sello de autorizar se imprimirá cada vez que el Fedatario Público autorice una escritura o acta, así como en cada hoja de los testimonios o certificaciones que expida. Los Notarios Públicos además imprimirán el sello de autorizar en cada hoja del libro de registro de cotejos, en las notas y en las constancias de apertura y cierre de los libros del protocolo y de registro de cotejos.
+Para los efectos del artículo 58 de la Ley, el sello de autorizar se imprimirá cada vez que el Fedatario Público firme un acta notarial o escritura pública, así como en cada hoja de los testimonios o certificaciones que expida. Los Notarios Públicos además imprimirán el sello de autorizar en cada hoja del Libro de Registro de Cotejos y de Certificaciones de Firmas, en las notas y en las constancias de apertura y cierre de los libros del protocolo y de registro de cotejos y de certificaciones de firmas.
 
 ###### Artículo 47.
 
@@ -329,25 +451,27 @@ II. Avisos, cédulas de requerimientos y notificaciones en el ámbito de su comp
 
 El Ejecutivo del Estado difundirá a través del Diario Oficial del Gobierno del Estado el cambio de residencia o de domicilio de los notarios públicos, dentro de los cinco días naturales inmediatos siguientes a la fecha en que hayan recibido la comunicación correspondiente.
 
-#### Sección Segunda. Del Fondo de Garantía
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 17 DE JULIO DE 2013)</small>
+
+#### Sección Segunda. Del Seguro de Responsabilidad Civil Profesional
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 49.
 
-Todos los notarios públicos, están obligados a realizar aportaciones, para constituir el fondo permanente de garantía a que se refiere el artículo 55 de la Ley del Notariado, con cargo al cual se cubrirán las indemnizaciones a los ciudadanos como consecuencia de la responsabilidad en que cualquiera de aquellos incurran en el ejercicio de sus funciones.
+Los Notarios Públicos, para garantizar las responsabilidades en que pudieren incurrir en el ejercicio de sus funciones, de conformidad con el artículo 55 de la Ley, deberán contratar un seguro de responsabilidad civil profesional, u otorgar cualquier otro medio de garantía previsto en el Código Civil del Estado de Yucatán, a favor del Gobierno del Estado, por un importe de veinticinco mil salarios mínimos generales vigentes en el área geográfica a la que corresponde el Estado.
 
-Para lo anterior el Consejo, fijará una cuota para todos los Notarios; el criterio para fijar el monto de la cuota, su periodicidad y demás circunstancias relativas a la misma, estará contenido en el reglamento interior del Consejo; será responsabilidad del Consejo vigilar que el fondo sea viable para su fin.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las aportaciones al Fondo de Garantía únicamente podrán ser recuperadas por los fedatarios públicos o su sucesión, cuando al finalizar el ejercicio de sus funciones, el Notario Público no haya sido objeto de proceso alguno en el que se le haya impuesto la obligación de indemnizar.
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 50.
 
-El Fondo de Garantía será administrado por un Comité designado de entre los miembros del Consejo de Notarios en funciones, cuyo titular será el Presidente del propio Consejo, según las reglas de operación de aquel, contenidas en el Reglamento Interior del Consejo de Notarios, el cual deberá contener las bases financieras y contables necesarias para cumplir el objetivo del Fondo de Garantía, debiendo auxiliarse por especialistas en materia contable y administrativa, para el desempeño de su administración.
-
-El Comité determinará las reglas de inversión de los recursos del fondo, atendiendo las reglas de operación del mismo, pero en todo caso, el importe total del fondo de garantía será manejado en una sola cuenta.
-
-Si de la responsabilidad en que pudiera incurrir algún Notario Público, resultara la obligación de indemnizar, el monto de la misma será cubierto del total del fondo; sin perjuicio de lo anterior el Consejo, podrá ejercitar la acción que corresponda, para lograr que el Notario Público cuya responsabilidad se cubriere con el fondo de garantía, reintegre a éste las cantidades erogadas con motivo de su responsabilidad, para reponer la cantidad aportada por él al fondo de garantía y el excedente que se hubiera cubierto respecto de ésta.
-
-Todo lo relativo a la constitución y administración del fondo de garantía se regirá por lo dispuesto en este Reglamento y en las disposiciones relativas del reglamento interior del Consejo de Notarios.
+Los Notarios Públicos en ejercicio de sus funciones, deberán entregar al Consejo en el mes de enero de cada año, una copia de la póliza pagada correspondiente al seguro mencionado en el artículo inmediato anterior, o bien, del documento en el que acredite haber otorgado la garantía correspondiente.
 
 ### CAPÍTULO V. De las ausencias y licencias de los Notarios Públicos
 
@@ -367,9 +491,13 @@ Las vacantes de las notarías públicas cuyos titulares se separen con licencia 
 
 En el caso previsto en el artículo anterior, previo a entrar en funciones, el aspirante a notario deberá protestar el desempeño de su encargo, otorgar la garantía correspondiente y registrar su sello y firma ante las autoridades a que se refiere la Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 55.
 
-Adicionalmente, antes de entrar en ejercicio de sus funciones, el aspirante a notario, deberá proveerse de su propio sello de autorizar, el cual contendrá los requisitos establecidos en el artículo 54 fracción I de la Ley y los establecidos en este Reglamento, con el número de notaria que corresponda, y contendrá la expresión "notario público suplente". Deberá cumplirse con las disposiciones que para el registro y uso del sello de autorizar se señalan en la Ley y en este Reglamento.
+El aspirante a Notario Público, antes de entrar en ejercicio de sus funciones, deberá solicitar al Consejo de Notarios su propio sello de autorizar, el cual contendrá los requisitos establecidos en el artículo 54, fracción I, de la Ley y los establecidos en este Reglamento, con el número de notaría que corresponda, y contendrá la expresión "Notario Público Suplente". Asimismo, deberá cumplir con las disposiciones que para el registro y uso del sello de autorizar se señalan en la Ley y en este Reglamento.
 
 ###### Artículo 56.
 
@@ -383,21 +511,33 @@ Para el caso de que se cumpla alguna de las causales de suspensión, terminació
 
 Para que pueda obtenerse la patente de Notario Suplente de una Notaría, el Aspirante a Notario Público deberá cumplir los requisitos establecidos en la Ley para el desempeño de la función notarial, y en caso de haberse llenado tales requisitos, el titular del Poder Ejecutivo le extenderá la patente para desempeñar el cargo de Suplente del Notario Titular que lo proponga, misma que se inscribirá en el libro de registro que lleve el Consejo y se difundirá a través del Diario Oficial del Gobierno del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 59.
 
-Antes de entrar en funciones el Notario Suplente deberá cumplir los requisitos señalados en los artículos 40, 44 y 54 de este Reglamento, así como todos los que sean procedentes y que la Ley o el Reglamento le impongan a los Notarios Públicos titulares. En todo caso deberá hacer mención del carácter de suplente de su función.
+El Notario Suplente, antes de entrar en funciones, deberá cumplir los requisitos señalados en los artículos 40, 44 y 54 de este Reglamento, así como todos los que sean procedentes y que la Ley o el Reglamento le impongan a los Notarios Públicos titulares. En todo caso, durante el desempeño de sus funciones, deberá hacer uso del sello de autorizar a que se refiere el artículo 55 de este Reglamento.
 
 ###### Artículo 60.
 
 El Notario Suplente al actuar, lo hará bajo su responsabilidad y tendrá las mismas facultades que el Notario Público al que sustituye, pero en todos los actos hará constar el carácter con el que actúa; por lo tanto los instrumentos que expida, tendrán la misma eficacia jurídica y valor probatorio que los autorizados por el Notario Público sustituido.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 61.
 
-El Notario Suplente, podrá realizar todos los actos tendientes a cumplir los requisitos para la autorización de los instrumentos pasados ante la fe del Notario Público sustituido, para autorizar los mismos una vez llenados los requisitos legales así como para expedir los testimonios, de las actas o escrituras públicas que hubiere autorizado previamente el Notario Titular. Una vez concluida la suplencia, el notario titular podrá a su vez realizar los actos a que este numeral se refiere, respecto de los instrumentos otorgados durante la suplencia.
+El Notario Suplente podrá realizar todos los actos tendientes a cumplir los requisitos para la autorización de los instrumentos pasados ante la fe del Notario Público sustituido, para autorizar los mismos una vez llenados los requisitos legales, así como para expedir los testimonios de las actas o escrituras públicas que hubiere autorizado previamente el Notario Titular. Una vez concluida la suplencia, el Notario Público titular podrá a su vez realizar los actos a que este numeral se refiere, respecto de los instrumentos otorgados durante la suplencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 62.
 
-A partir del inicio de sus funciones como Notario Suplente, este responde del cargo por todos los actos ejercidos con motivo de su patente, y hasta el momento en que el Notario Público sustituido reciba de conformidad la Notaría que le corresponde con motivo de sus funciones. Para tal efecto, deberá otorgar la garantía que le establezca el Poder Ejecutivo, al otorgarle la patente respectiva.
+A partir del inicio de sus funciones como Notario Suplente, este responde del cargo por todos los actos ejercidos con motivo de su patente, y hasta el momento en que el Notario Público sustituido reciba de conformidad la Notaría que le corresponde con motivo de sus funciones. Para tal efecto, deberá garantizar las responsabilidades en que pudiere incurrir en el ejercicio de sus funciones, con cualquiera de las formas a que se refiere el artículo 49 de este Reglamento.
 
 ###### Artículo 63.
 
@@ -409,23 +549,39 @@ En los casos en que un Notario Público haya de ser sustituido por un fedatario 
 
 ### CAPÍTULO VI. De la suspensión y terminación de la función notarial
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 65.
 
-Cuando de conformidad con el artículo 67 de la Ley, se dicte resolución que imponga la suspensión temporal a algún Fedatario Público, el titular del Archivo Notarial se hará cargo de la Notaría o Escribanía intervenida por todo el tiempo que dure la suspensión, y única y exclusivamente para terminar los asuntos que estuvieren inconclusos.
+Cuando de conformidad con el artículo 67 de la Ley, se dicte resolución que imponga la suspensión temporal a algún Fedatario Público, el titular del Archivo se hará cargo de la Notaría o Escribanía por todo el tiempo que dure la suspensión de su titular, única y exclusivamente para terminar los asuntos que estuvieren inconclusos.
 
-Lo mismo ocurrirá en el caso de que se revoque la patente o el nombramiento a algún Fedatario Público, y en lo conducente a cada caso, concluirá los trámites pendientes del ejercicio del Fedatario Público y cerrará e inutilizará las hojas y los folios sobrantes que obren en los libros del Protocolo asentando la razón del cierre, así como cumplirá con todas las obligaciones que para éste supuesto le impongan la Ley, este Reglamento y demás disposiciones legales aplicables.
+Lo mismo ocurrirá en el caso de que se revoque la patente o el nombramiento a algún Fedatario Público, y en lo conducente a cada caso, concluirá los trámites pendientes del ejercicio del Fedatario Público y cerrará e inutilizará las hojas sobrantes que obren en los libros del Protocolo, asentando la razón del cierre, y cumplirá con todas las obligaciones que para este supuesto le impongan la Ley, este Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 66.
 
 La entrega recepción de una Notaría se hará en la forma prevista por la Ley y mediante acta que contenga:
 
-I. Constancia de que en los volúmenes en uso del protocolo se asentó la razón de clausura;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. El inventario de los volúmenes del protocolo que existan en la Notaría; con expresión del estado que conserven sus cubiertas y sellos;
+> <small>(REFORMADA, D.O. 17 DE JULIO DE 2013)</small>
+
+I. Constancia de que en los libros en uso del protocolo se asentó la razón de clausura;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 17 DE JULIO DE 2013)</small>
+
+II. El inventario de los libros del protocolo que existan en la Notaría, con expresión del estado que conserven sus cubiertas y sellos;
 
 III. Los expedientes que obren en poder del Notario, y
 
-IV. Los apéndices, índices, libros de cotejos y en general, la documentación que obre en la Notaría.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 17 DE JULIO DE 2013)</small>
+
+IV. Los apéndices, índices, libros de registro de cotejos y de certificaciones de firmas, y en general, la documentación relacionada con cada escritura que obre en la Notaría.
 
 ###### Artículo 67.
 
@@ -439,11 +595,23 @@ En caso de muerte del Notario, el albacea de su sucesión, con intervención del
 
 El protocolo de los Notarios Públicos está constituido por los siguientes elementos:
 
-I. Las hojas sueltas denominadas Folios, en las cuales se asientan las actas o escrituras públicas, cuya numeración será cardinal, consecutiva y deben tener las características que la Ley y este Reglamento señala;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Los libros formados con los Folios a que se refiere la fracción anterior, los cuales deberán ser sólidamente encuadernadas en la forma y términos que señala este Reglamento. Estos libros llevarán una numeración ordinal y progresiva desde la fecha en que el Notario Público inicie sus funciones, hasta la fecha en la que cese de ejercerlas definitivamente;
+> <small>(REFORMADA, D.O. 17 DE JULIO DE 2013)</small>
 
-III. El apéndice, que se forma con la glosa de todos los documentos y demás elementos relativos a cada una de las actas, los que se deberán ordenar en uno o más tomos, y
+I. Las hojas sueltas en las cuales se asientan las actas o escrituras públicas, cuya numeración será cardinal, consecutiva y deberán contener las características que la Ley y este Reglamento señalen;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 17 DE JULIO DE 2013)</small>
+
+II. Los libros formados con las hojas sueltas a que se refiere la fracción anterior, los cuales deberán ser sólidamente encuadernados en la forma y términos que señala este Reglamento. Los tomos, que podrán formarse de hasta cinco libros, llevarán una numeración cardinal y progresiva desde la fecha en que el Notario Público inicie sus funciones, hasta la fecha en la que cese de ejercerlas definitivamente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 17 DE JULIO DE 2013)</small>
+
+III. El apéndice, que se forma con la glosa de todos los documentos y demás elementos relativos a cada una de las actas notariales o escrituras públicas, los que se deberán ordenar conforme a cada tomo, y
 
 IV. El índice.
 
@@ -451,81 +619,135 @@ IV. El índice.
 
 Los Notarios Públicos, además de lo establecido en la Ley, deberán llevar y conservar sus archivos del protocolo por medios electrónicos, ópticos o de cualquier otra tecnología.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 70.
 
-En términos del artículo 78 de la Ley, los folios tendrán 35.5 centímetros de largo por 21.7 centímetros de ancho en su parte utilizable. Al escribirse en ellos las escrituras y actas notariales se dejará en blanco una tercera parte a la izquierda, separada por medio de una línea de tinta roja, para poner en dicha parte las razones y anotaciones que legalmente deban asentarse ahí.
+En términos del artículo 78 de la Ley, las hojas sueltas serán tamaño oficio. Las notas que correspondan a cada acta notarial o escritura pública, se pondrán en hojas por separado destinadas para tal efecto, mismas que se agregarán al apéndice.
 
-Cuando se agote esta parte se pondrá razón de que las anotaciones se continúan en hoja por separado especialmente destinada al efecto, hoja que se agregará al apéndice.
+Además, se dejará siempre en blanco una faja de al menos un centímetro de ancho por el lado del doblez del libro y otra de al menos un centímetro al lado contrario que servirá para la encuadernación y para proteger lo escrito.
 
-Además, se dejará siempre en blanco una faja de un centímetro de ancho por el lado del doblez del libro y otro igual a la orilla que servirá para la encuadernación y para proteger lo escrito. Al reverso de la hoja se dejarán los mismos espacios en forma inversa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 71.
 
-Los folios serán fabricados con la mejor calidad posible para su durabilidad sin deterioro, y contendrán los elementos de seguridad que de acuerdo a la tecnología y a las normas de impresión determine el Consejo de Notarios.
+Las hojas del protocolo deberán ser de la mejor calidad posible para su durabilidad y evitar su deterioro, y contendrán los elementos de seguridad que de acuerdo a la tecnología y a las normas de impresión determine el Consejo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 72.
 
-Para los efectos de los artículos 80 y 81 de la Ley, los Notarios, previo pago de los costos correspondientes, que serán establecidos anualmente por el Consejo de Notarios previa autorización del Poder Ejecutivo, deberán solicitar los Folios que requieran para el ejercicio de su función, mediante escrito dirigido al Consejo de Notarios.
+Para los efectos de los artículos 80 y 81 de la Ley, los Notarios Públicos deberán solicitar las hojas sueltas de protocolo que requieran para el ejercicio de su función, mediante correo electrónico o escrito dirigido al Consejo y previo pago de los costos respectivos que serán establecidos anualmente por el propio Consejo. Lo anterior sin perjuicio de que el Consejo pueda variar los costos que hubiese fijado en el año respectivo atendiendo a circunstancias especiales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 73.
 
-Cuando un Notario solicite folios al Consejo de Notarios, éste tendrá un plazo máximo de quince días hábiles para entregar los folios solicitados.
+Cuando un Notario Público solicite hojas de protocolo al Consejo, éste tendrá un plazo máximo de quince días hábiles para entregarlas.
 
-Si transcurrido el plazo antes señalado, el Consejo de Notarios, no entregare los folios, sin causa justificada, el Notario solicitante podrá ejercer las acciones legales que procedan, cuando ésta situación le ocasionare daños y perjuicios.
+Si transcurrido el plazo antes señalado, el Consejo no entregare las hojas sin causa justificada, el Notario Público solicitante podrá ejercer las acciones legales que procedan.
 
-La entrega de los folios se realizará en el domicilio que ocupen las oficinas del Consejo de Notarios.
+La entrega de las hojas de protocolo se realizará en el domicilio que ocupen las oficinas del Consejo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 74.
 
-Para efectos del artículo anterior, se entenderá por causa justificada:
+Para efectos del artículo anterior, se entenderá por causa justificada, la falta de elaboración de las hojas por parte del proveedor o la entrega de éstas fuera de tiempo al Consejo, por fuerza mayor o caso fortuito. Una vez que cese la causa, el Consejo será responsable de su entrega en los términos del artículo anterior.
 
-I. La falta de suministro de energía eléctrica, que impidiera o retrasara la impresión o cualquier etapa del proceso de producción de los folios;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. La presencia de fenómenos naturales cuyos efectos impidieran el funcionamiento del Consejo de Notarios, la producción o entrega de los folios, y
-
-III. Las que sean imputables a la imprenta que produzca los folios.
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 75.
 
-Los Notarios Públicos iniciarán sus tomos antes de la primera acta, asentando una leyenda donde consten sus nombres y apellidos, el número de la Notaría, el lugar, domicilio de la Notaría, la numeración correlativa de la foliatura de las hojas, la fecha de apertura y su sello y firma. Lo mismo harán al cerrarlos por utilizar o inutilizar todas las hojas del protocolo que deban integrar un libro. Las hojas en la que se asienten las constancias a que se refiere este artículo no irán foliadas, se encuadernarán antes del primer folio y después del último de cada libro. Cuando el Notario Público lleve su protocolo en tomos con dos o más Libros, pondrá dichas constancias en cada uno de ellos.
+Cada Notario Público iniciará sus libros antes de la primera acta notarial o escritura pública, asentando una leyenda en la que consten sus nombres y apellidos; el número, lugar y domicilio de la Notaría; la numeración correlativa de la foliatura de las hojas, y la fecha de apertura. Dicha leyenda será sellada y firmada por el Notario Público. Lo mismo hará al cerrarlos por utilizar o inutilizar todas las hojas de protocolo que deban integrar un libro.
+
+Las hojas en las que se asienten las constancias a que se refiere este artículo no irán foliadas y se encuadernarán junto con las hojas foliadas que integran el libro respectivo. Cuando el Notario Público lleve su protocolo en tomos con dos o más Libros, pondrá dichas constancias en cada uno de ellos.
 
 ###### Artículo 76.
 
 El último día de cada año los notarios públicos deberán asentar en su protocolo una constancia del cierre de año, que señale el número total de actas autorizadas, el número de actas pendientes de autorizar y el número de actas que no pasaron o que fueron inutilizadas, todo ello en el año de calendario que termina.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 77.
 
-En términos del artículo 83 de la Ley, las actas o escrituras se numerarán sucesivamente sin interrupción alguna hasta la conclusión de las funciones notariales. Tratándose de licencias en los términos de los artículos 63 y 64 de la Ley, el notario suplente continuará con la numeración correspondiente.
+En términos del artículo 83 de la Ley, las actas notariales o escrituras públicas se numerarán expresando la numeración con letras. La primera que se extienda en el año, llevará el número uno, la inmediata siguiente el número dos y así se continuará sucesivamente con las siguientes hasta la conclusión del año. Tratándose de licencias en los términos de los artículos 63 y 64 de la Ley, el notario suplente continuará con la numeración correspondiente.
 
 ###### Artículo 78.
 
 Cuando un notario suplente conforme a los artículos 63 y 64 de la Ley, o interino empiece a actuar, con posterioridad a la iniciación de un libro, el que lo sustituya asentará a continuación de la clausura extraordinaria o bien, después del último instrumento extendido, con su sello y firma, una razón en ese sentido con su nombre y apellidos. Igual requisito se observará cuando termine de actuar.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 79.
 
-Antes de usar un folio, se pondrá el sello del notario en su anverso, al lado izquierdo y en la parte superior.
+Antes de usar una hoja de protocolo, se pondrá el sello del Notario Público en su anverso, junto al ángulo superior derecho.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 80.
 
-Todo instrumento se iniciará al principio del anverso del folio, utilizándose, a elección del notario, los procedimientos más eficientes de impresión, siempre que ésta resulte indeleble, legible y nítida, debiendo utilizar los folios por ambas caras.
+Todo instrumento se iniciará al principio del anverso de la hoja de protocolo, utilizando, a elección del Notario Público, los procedimientos más eficientes de impresión, siempre que ésta resulte indeleble, legible y nítida, debiendo utilizar las hojas de protocolo por ambas caras.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 81.
 
-Los instrumentos, incluyendo los que contengan la razón de "NO PASO", se ordenarán y protegerán por el notario provisionalmente en carpetas seguras. Cuando el notario tenga su protocolo en varios volúmenes, al llegar al último folio de cualquiera de los volúmenes en uso, dejará de usar el juego completo y se inutilizarán los folios en blanco. El notario encuadernará los folios que integren los volúmenes de su protocolo, disponiendo de un máximo de treinta días para ello, a partir de la fecha de clausura ordinaria.
+Los instrumentos, incluyendo los que contengan la razón de "NO PASÓ", se ordenarán y protegerán por el Notario Público provisionalmente en carpetas seguras.
+
+El Notario Público encuadernará las hojas que integren los libros de su protocolo, disponiendo para ello de un máximo de treinta días hábiles, a partir de la fecha de terminación de cada uno.
+
+Cuando el Notario Público esté por concluir las hojas de un libro y las restantes sean insuficientes para levantar una escritura pública o acta notarial completa, podrá realizar lo siguiente:
+
+I. Cancelar las hojas de dicho libro y levantar la escritura pública o acta respectiva en el libro siguiente, o
+
+II. Iniciar el levantamiento en las hojas restantes y concluirlo en las hojas del libro siguiente, con la anotación respectiva en las hojas correspondientes de cada libro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 82.
 
-Cuando un folio o solamente el anverso o su reverso resulten inutilizados, la impresión del texto del instrumento se continuará correctamente en el folio o en el anverso o reverso siguiente utilizable, según el caso. El folio inutilizado total o parcialmente deberá conservarse en el sitio que le corresponda, y el notario asentará al final del texto de la escritura la mención de haber sido inutilizado el folio o el anverso o reverso correspondientes, y se cruzará todo el espacio en caracteres grandes con la leyenda "ESTA PÁGINA NO VALE" y la firma del notario.
+Cuando una hoja de protocolo o solamente el anverso o su reverso resulten inutilizados, la impresión del texto del instrumento se continuará correctamente en la hoja de protocolo o en el anverso o reverso siguiente utilizable, según el caso. La hoja de protocolo inutilizada total o parcialmente deberá conservarse en el sitio que le corresponda, y el notario asentará al final del texto de la escritura la mención de haber sido inutilizada la hoja de protocolo o el anverso o reverso correspondientes, y se cruzará todo el espacio en caracteres grandes con la leyenda "ESTA PÁGINA NO VALE" y la firma del notario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 83.
 
-El protocolo sólo se mostrará a quien acredite el notario, tener el interés legítimo para solicitarlo. Las escrituras y actas en particular, sólo podrán mostrarse a quienes hayan intervenido en ellas o justifiquen representar sus derechos o a los herederos o legatarios, tratándose de disposiciones testamentarias después de la muerte del testador.
+El protocolo sólo se mostrará a quien acredite al Notario Público tener interés legítimo para solicitarlo. Las actas notariales o escrituras públicas en particular, sólo podrán mostrarse a quienes hayan intervenido en ellas o justifiquen representar sus derechos, o a los herederos o legatarios, tratándose de disposiciones testamentarias después de la muerte del testador.
 
 Si para la redacción de un instrumento algún notario necesita dar fe de otro autorizado por distinto notario, podrá verificarlo en el protocolo respectivo de la notaría donde se encuentre o en el Archivo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 84.
 
-Los folios donde consten las escrituras y actas y los libros, sus apéndices e índices deberán permanecer siempre en la notaría, excepto cuando el notario recabe firmas fuera de ella y en los casos previstos en la Ley.
+Las hojas de protocolo donde consten las actas notariales o escrituras públicas, así como los libros, sus apéndices e índices deberán permanecer siempre en la Notaría, excepto cuando el Notario Público recabe firmas fuera de ella y en los casos previstos en la Ley.
 
 Si alguna autoridad competente ordena la inspección del (sic) algún instrumento, ésta se efectuará en la notaría o en el Archivo si en éste último se encontrare, ante la presencia del notario o del Director del Archivo, según el caso.
 
@@ -533,7 +755,11 @@ Si alguna autoridad competente ordena la inspección del (sic) algún instrument
 
 Cada libro del protocolo tendrá su apéndice, que se formará con los documentos relacionados con las escrituras y actas asentadas en aquél.
 
-Los documentos del apéndice correspondientes a un libro del protocolo, se integrarán por legajos ordenados en uno o más volúmenes, en cuyas carátulas se pondrá el número del instrumento y volumen a que se refiera, indicando los documentos que se agregan y marcándose en cada uno la letra en el orden del alfabeto que les señale y distinga de los otros que forman el legajo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
+Los documentos del apéndice correspondientes a un libro del protocolo, se integrarán por legajos ordenados en uno o más volúmenes, en cuyas carátulas se pondrá el número del instrumento y libro a que se refiera, indicando los documentos que se agregan y marcándose cada uno con el número arábigo y progresivo que le corresponda a partir del número uno.
 
 El notario agregará al apéndice copia certificada de las resoluciones que por mandato judicial se protocolicen y se considerará como un solo documento, devolviéndose el original a quien corresponda.
 
@@ -541,9 +767,13 @@ El notario agregará al apéndice copia certificada de las resoluciones que por 
 
 Los documentos del apéndice no podrán desglosarse y se entregarán debidamente encuadernados al Archivo cuando se remita el libro de protocolo al que correspondan.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 87.
 
-Dentro de los treinta días inmediatos siguientes a la fecha en que se utilicen o inutilicen todas los Folios que integren un libro, se procederá a su encuadernación bajo la más estricta vigilancia del Notario Público. Los libros no deberán exceder de doscientas (sic) folios o sea, cuatrocientas páginas cada uno, más las hojas de apertura y cierre ordinario a que se refiere este Reglamento y la del cierre de año cuando corresponda.
+Dentro de los treinta días hábiles inmediatos siguientes a la fecha en que se utilicen o inutilicen todas las hojas de protocolo que integren un libro, se procederá a su encuadernación bajo la más estricta vigilancia del Notario Público. Los libros no deberán exceder de doscientas hojas de protocolo, esto es, cuatrocientos folios cada uno, más las hojas de apertura y cierre ordinario a que se refiere este Reglamento y la del cierre de año cuando corresponda.
 
 ###### Artículo 88.
 
@@ -559,9 +789,13 @@ El apéndice se empastará en el número que sea necesario, debiendo identificar
 
 Por cada Libro del protocolo, se entregarán doscientas hojas sueltas, es decir, cuatrocientas páginas foliadas, con el número que le corresponda y siempre será correlativo. Cada Notario Público decidirá cuántos Libros para un mismo tomo requerirá para actuar y así se lo hará saber al Consejo de Notarios.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 90.
 
-Podrán llevarse a la vez, hasta cinco libros de un mismo tomo, sin alterar la numeración cardinal que deban llevar las actas notariales, de manera que el acta que en un libro se extienda, llevará precisamente el número que siga en orden al de la inmediata anterior en tiempo. Cuando se llevaren dos o más libros, se distinguirán designándolos Libro Primero, Libro Segundo, Libro Tercero, Libro Cuarto y Libro Quinto; agotado un libro, la numeración correlativa continuara en el otro y así sucesivamente hasta agotar el tomo.
+Podrán llevarse a la vez, hasta cinco libros de un mismo tomo, sin alterar la numeración cardinal que deban llevar las actas notariales, de manera que el acta que en un libro se extienda, llevará precisamente el número que siga en orden al de la inmediata anterior en tiempo. Cuando se llevaren dos o más libros, se distinguirán designándolos Libro Primero, Libro Segundo, Libro Tercero, Libro Cuarto y Libro Quinto, según corresponda. Agotado un libro, la numeración correlativa continuara en el otro y así sucesivamente hasta agotar los libros del tomo respectivo.
 
 ###### Artículo 91.
 
@@ -587,11 +821,19 @@ Los protocolos pertenecen al Estado, pero el Notario Público los conservará y 
 
 Los protocolos únicamente podrán salir de la oficina del Notario Público a cargo, bajo su más estricta responsabilidad. En caso de pérdida, extravío o robo de las hojas y libros del protocolo de un Notario Público, este deberá dar aviso de inmediato a las autoridades competentes, y hacerlo del conocimiento del Ministerio Público, levantando en ambos casos acta circunstanciada, de tal manera que la autoridad administrativa proceda a tomar las medidas pertinentes, y la autoridad inicie la indagatoria que proceda.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 97.
 
-La pérdida o destrucción total o parcial de algún folio o libro del protocolo deberá ser comunicada por el Notario al Consejo de Notarios, comunicando dentro de las veinticuatro horas siguientes a las autoridades competentes la inexistencia de los folios o libros, y a la vez autorizará su reposición y la restitución de los instrumentos en ellos contenidos en papel ordinario.
+La pérdida, el robo o destrucción total o parcial de alguna hoja o libro del protocolo deberá ser comunicada por el Notario Público al Consejo, dentro de las veinticuatro horas siguientes. El Consejo de Notarios autorizará su reposición y la restitución de los instrumentos en ellos contenidos en papel ordinario.
 
-En caso de pérdida o robo, el Notario presentará denuncia ante el Ministerio Público, dentro de las veinticuatro horas siguientes a que conozca del hecho.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
+En caso de pérdida, robo o delito, el Notario presentará denuncia ante el Ministerio Público, dentro de las veinticuatro horas siguientes a que conozca del hecho.
 
 La restitución se hará con base en la copia certificada mencionada o con el testimonio, haciendo constar al pie de los que expida, de donde fueron tomados y la causa de su expedición.
 
@@ -657,17 +899,29 @@ Las protocolizaciones ante Notario Público, en las que se haga constar única y
 
 El Notario Público dará fe, si los interesados se lo pidieren, de los hechos que presencie, relacionados con la escritura, haciéndolo constar en la misma.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 109.
 
-Los Notarios Públicos, al extender las actas pasadas ante su fe, cumplirán con lo siguiente:
+Los Notarios Públicos, al extender las actas notariales o escrituras públicas pasadas ante su fe, cumplirán con lo siguiente:
 
 I. Las actas que se extiendan en el protocolo, se escribirán manuscritas, a máquina con tinta firme e indeleble o por algún sistema de impresión indeleble y se asentarán una a continuación de otra, sin dejar entre ellas ningún espacio en blanco, salvo cuando se trate de la reproducción de documentos, la que podrá hacerse ya sea transcribiendo a renglón cerrado o reproduciendo su imagen por cualquier medio firme e indeleble, incluyendo fotografías, planos y en general cualquier gráfico, los cuales se podrán imprimir en sus colores originales. Los espacios en blanco o vacíos entre líneas o gráficas, que por razones ortográficas o de impresión quedaren en el cuerpo de un acta, se inutilizarán por medio de líneas horizontales o por cualquier otro sistema que demuestre su inutilización. Las líneas de textos por página se escribirán a igual distancia una de las otras, y
 
-II. En los Folios que componen el protocolo, no deberán dejarse entre un acta y la siguiente, más espacio que el estrictamente necesario, para las firmas de las personas que intervengan y del Notario Público y su sello, así como de las notas que se requieran. Sin embargo, cuando el Fedatario Público utilice algún procedimiento de impresión o reproducción, podrá comenzar sus escrituras al principio de página, debiendo cancelar el espacio en blanco que quede de la anterior, de manera que para todos los efectos legales se le considere inutilizable.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 17 DE JULIO DE 2013)</small>
+
+II. En las hojas que componen el protocolo, no deberá dejarse entre un acta notarial o escritura pública y la siguiente, más espacio que el estrictamente necesario para las firmas de las personas que intervengan y del Notario Público y su sello, así como de las notas que se requieran. Sin embargo, cuando el Notario Público utilice algún procedimiento de impresión o reproducción, podrá comenzar sus escrituras al principio de página, debiendo cancelar el espacio en blanco que quede de la anterior, de manera que para todos los efectos legales se le considere inutilizable.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 110.
 
-En toda acta, los Notarios Públicos observarán los requisitos siguientes:
+En toda acta notarial o escritura pública, los Notarios Públicos observaran los requisitos siguientes:
 
 I. Será redactada en idioma español y se escribirá sin abreviaturas, raspaduras ni enmendaduras;
 
@@ -679,7 +933,11 @@ IV. Las transcripciones se harán literalmente; en forma total o parcial en lo c
 
 V. Se consignarán el nombre del Notario Público, el número de la Notaría, el lugar y la fecha en que se extienda el acta y asimismo, en los casos que la ley lo exija el Notario Público hará constar la hora. En caso de actuar un Notario Suplente hará constar lo anterior y el nombre del Notario titular suplido;
 
-VI. Se expresarán el nombre, la nacionalidad, el lugar y la fecha de nacimiento, el estado civil, acreditar el régimen que en caso de matrimonio rige sus bienes, mediante el acta respectiva; la profesión, el oficio o la ocupación, el domicilio de cada uno de los comparecientes, de los intérpretes y de los que firmen por quienes no sepan hacerlo o estén impedidos para ello, cuando conforme a la ley fuere necesaria la intervención de ellos y el documento en el cual cada uno de ellos se identificó, agregándose copia certificada de los mismos al apéndice. Al expresarse el domicilio, se harán constar, hasta donde sea posible, el número de la casa, la calle, la colonia, el fraccionamiento y cualquier otro dato que permita localizar la residencia de la persona de que se trata;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 17 DE JULIO DE 2013)</small>
+
+VI. Se expresará el nombre, la nacionalidad, el lugar y la fecha de nacimiento, el estado civil, la profesión, oficio u ocupación, el domicilio de cada uno de los comparecientes y el documento con el cual cada uno de ellos se identificó, agregándose copias certificadas de los mismos al apéndice. Al expresarse el domicilio, se hará constar, hasta donde sea posible, el número de la casa, la calle, la colonia, el fraccionamiento y cualquier otro dato que permita localizar a la persona de que se trate;
 
 VII. Se consignará con toda claridad y precisión el acto o contrato que sea objeto del acta, que estará redactado y comprendido en cláusulas separadas, si así lo requiere el acto o contrato de que se trate, y numeradas correlativamente;
 
@@ -695,6 +953,12 @@ XII. Los Notarios Públicos, en los casos de protestos, interpelaciones, requeri
 
 XIII. Si los comparecientes quisieran hacer alguna adición o variación antes de que firme el Notario Público, se asentará sin dejar espacios en blanco, será suscrita por todos los comparecientes y el Notario Público pondrá su firma y su sello al pie de la adición o variación convenida.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE JULIO DE 2013)</small>
+
+El Notario Público estará obligado a acreditar el régimen del matrimonio de los comparecientes cuando el acto jurídico a formalizarse pueda afectar los gananciales de una sociedad conyugal.
+
 ###### Artículo 111.
 
 En los casos de protestos, interpelaciones, requerimientos, notificaciones, fe de hechos y demás diligencias notariales de la misma índole, el acta relativa podrá ser levantada por el Notario Público en el lugar de hechos o en las oficinas de la Notaría a su cargo, siempre y cuando que con esta dilación no perjudique los derechos de los interesados o se violen disposiciones legales de orden público.
@@ -703,27 +967,49 @@ En los casos de protestos, interpelaciones, requerimientos, notificaciones, fe d
 
 El solicitante de cualquier diligencia de las previstas en el artículo anterior, deberá permanecer en el lugar juntamente con el notario público, quien hará constar los hechos que acontezcan en el sitio en que se lleva a cabo algún suceso o acto jurídico.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 113.
 
-Los Notarios Públicos, anotarán al margen, al iniciar un acta y sin formar parte de ella, su número en guarismos y se hará mención de los nombres de los otorgantes y de la clase de actos o contratos que contenga, sin que sea necesario firmar ni sella (sic) dicha anotación.
+(DEROGADO, D.O. 17 DE JULIO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 114.
 
-Después de haber cumplido los requisitos previos que correspondan a cada acto o contrato de que se trate, el Notario Público extenderá al margen o calce del acta razón de su autorización, con mención de la fecha y el lugar debiendo firmar y sella (sic) dicha anotación. Los Notarios Públicos autorizarán las escrituras con la fecha del último documento que deba agregarse al apéndice.
+Después de haber cumplido los requisitos previos que correspondan a cada acto o contrato de que se trate, el Notario Público extenderá razón de su autorización en nota complementaria que agregará al apéndice, con mención de la fecha y el lugar, debiendo firmar y sellar dicha anotación. Los Notarios Públicos autorizarán las escrituras con la fecha del último documento que deba agregarse al apéndice.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 115.
 
-El Notario Público formará un legajo con todos los documentos que integren el apéndice del acta, por orden cronológico de fechas de la más antigua a la más reciente.
+El Notario Público formará un legajo con todos los documentos que integren el apéndice del acta, por orden cronológico de fechas de la más antigua a la más reciente. El Notario Público también podrá ordenar el legajo, según la naturaleza de los documentos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 116.
 
-El Notario Público que autorice una escritura que esté relacionada con otra u otras anteriores extendidas en su protocolo, cuidará que se haga en éstas la anotación marginal correspondiente. Asimismo, cuando esté relacionada con otra escritura extendida en el protocolo de otro notario del Estado, deberá dar aviso a éste dentro del término de treinta días para los mismos efectos.
+Cuando se revoque un poder o mandato ante el mismo Notario Público ante quien se otorgó, éste hará la anotación respectiva en nota complementaria del apéndice de la escritura del poder o mandato revocado.
 
-El Notario no estará obligado a realizar la notificación a que se refiere el artículo 100 de la Ley, si el notario o autoridad ante quien se otorgó el poder revocado radica fuera del Estado de Yucatán.
+En los casos que el Notario Público deba notificar al Notario Público ante quien se otorgó el poder o mandato revocado, en términos del primer párrafo del artículo 100 de la Ley, dicha notificación se realizará de manera personal o por correo electrónico a la dirección que previamente hubiese registrado el Notario Público ante el Consejo.
+
+El Notario Público no estará obligado a realizar la notificación a que se refiere el artículo 100 de la Ley, si el notario o autoridad ante quien se otorgó el poder revocado radica fuera del Estado de Yucatán.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 117.
 
-El Notario Público no podrá revocar, rescindir o modificar el contenido de un acta mediante simple razón al margen, sino que deberá extender, una nueva acta firmada por todos los que en ella intervinieron, haciendo la observación correspondiente, así como la anotación al margen de dicha acta y la anotación al margen del acta modificada o revocada relacionándolas entre sí.
+El Notario Público no podrá revocar, rescindir o modificar el contenido de un acta notarial o escritura pública mediante simple nota complementaria del apéndice, sino que deberá extender una nueva acta notarial o escritura pública firmada por todos los que en ella intervinieron, haciendo la observación correspondiente, así como la anotación complementaria del apéndice de dicha acta notarial o escritura pública y la anotación complementaria del apéndice del acta notarial o escritura pública modificada o revocada, relacionándolas entre sí.
+
+No obstante lo anterior, cuando en un acta notarial o escritura pública existan contradicciones, inconsistencias de forma, datos erróneos o incompletos, errores ortográficos o nombres escritos con alguna inexactitud que no modifiquen, invaliden o nulifiquen el acto formalizado, el Notario Público, de oficio o a petición de la autoridad, bajo su más estricta responsabilidad, podrá subsanar la inconsistencia a través de un escrito aclaratorio debidamente firmado y sellado por él, que formará parte del apéndice del acta notarial o escritura pública. Los testimonios que se expidan deberán contener las correcciones insertas exclusivamente en su texto.
 
 ###### Artículo 118.
 
@@ -741,9 +1027,15 @@ Siempre que se otorgue un testamento público, el Notario Público dará aviso q
 
 El Archivo Notarial destinará un libro o registro para el asiento de las inscripciones a las que se refiere el artículo anterior, con los datos que se mencionan, independientemente de los sistemas digitales que comprende el Registro Nacional de Testamentos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 122.
 
-Los actos que no sean contratos, como protestos, interpelaciones, fe de hechos, protocolizaciones y los demás que las leyes permitan autorizar al Notario Público, se extenderán en el protocolo con su número correspondiente, guardando los requisitos y la forma que las leyes respectivas prevengan y llenándose en lo conducente y aplicable las disposiciones de la Ley, sin que en los casos de protesto sea necesario el conocimiento de la persona con quien se entienda. Cuando se trate de notificaciones, el Notario Público cumplirá las obligaciones que el Código de Procedimientos Civiles del Estado dispone para los actuarios de las instancias jurisdiccionales, y las que establece este Reglamento, sin que los actos deban constar en el protocolo de conformidad con el artículo 110 fracción III de la Ley.
+Los actos que no sean contratos, como protestos, interpelaciones, fe de hechos, protocolizaciones y los demás que las leyes permitan realizar ante Notario Público, se extenderán en el protocolo con su número correspondiente, guardando los requisitos y la forma que las leyes respectivas prevengan y llenándose en lo conducente y aplicable las disposiciones de la Ley, sin que en los casos de protesto sea necesario el conocimiento de la persona con quien se entienda.
+
+Cuando se trate de notificaciones, éstas se harán mediante instructivo que contenga la relación sucinta del objeto de la notificación, siempre que al momento de la diligencia no se encuentre a la persona que deba ser notificada, pero cerciorándose previamente de que dicha persona tiene su domicilio en el predio señalado como tal y haciéndose constar en el acta de la notificación el nombre de la persona que reciba el instructivo. Además deberán cumplirse en lo conducente y aplicable las demás obligaciones que establece este Reglamento, sin que los actos tengan que constar en el protocolo de conformidad con el artículo 110, fracción III, de la Ley.
 
 ###### Artículo 123.
 
@@ -757,9 +1049,13 @@ Cuando una persona represente a otra en un acto o contrato, se le exigirá la co
 
 Cuando una persona se presente en nombre y representación de otra sin justificar su personalidad y las facultades de que se halla investida, si los otros comparecientes reconocieren su personalidad, se extenderá el acta respectiva y en la misma se expresará el plazo convenido por las partes que no excederá de treinta días, para que se exhiba al Notario Público el título justificativo de su personalidad y de sus facultades o la ratificación expresa de la persona representada, hecha constar ante el mismo o ante otro Notario Público.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 126.
 
-Cuando dicho título a que se refiere el artículo anterior, se exhiba al Notario Público dentro del plazo convenido, lo hará constar en una nota marginal con expresión de la fecha en la que fue exhibido y una relación sucinta del documento, que quedará agregado al apéndice. La persona que exhiba dicho título podrá solicitar que se le devuelva, previa expedición de copia certificada del mismo o de sus partes conducentes, que quedará agregada al apéndice. El Notario Público hará constar esta circunstancia en la nota marginal o al calce del acta o escritura.
+Cuando el título a que se refiere el artículo anterior se exhiba al Notario Público dentro del plazo convenido, lo hará constar en una nota complementaria del apéndice con expresión de la fecha en la que fue exhibido y una descripción sucinta del documento, que quedará agregado al apéndice. La persona que exhiba dicho título podrá solicitar que se le devuelva, previa expedición de copia certificada del mismo o de sus partes conducentes, que quedará agregada al apéndice. El Notario Público hará constar esta circunstancia en nota complementaria del apéndice del acta notarial o escritura pública.
 
 ###### Artículo 127.
 
@@ -769,9 +1065,13 @@ Cuando alguna de las partes no pudiere firmar, designará a una persona para que
 
 Para los efectos del artículo 101 de la Ley, en las actas que tengan por objeto bienes raíces, los Fedatarios Públicos describirán las cualidades actuales de los mismos, considerando la literalidad del asiento registral otorgado por el Registro Público de la Propiedad y las demás características que les atribuyan en los respectivos títulos de propiedad e inscripciones vigentes ante las autoridades registrales, debiendo en todo caso, cerciorarse de que los datos que se consignen en el acta se ajusten a las circunstancias reales de los predios y se hará mención expresa de los gravámenes que éstos reporten.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 129.
 
-Los Notarios Públicos admitirán las minutas de contrato que le presenten los interesados, dando fe de que las suscribieron en su presencia o de que ratificaron las firmas que contengan. Podrán también, a petición de los interesados, redactar dichas minutas.
+Los Notarios Públicos admitirán las minutas de contrato que le presenten los interesados, dando fe de que las suscribieron en su presencia o de que ratificaron las firmas que contengan. Podrán también, a petición de los interesados, redactar dichas minutas. La ratificación de las firmas que contenga el documento que les sea presentado, se hará constar en el Libro de Registro de Cotejos y de Certificaciones de Firmas.
 
 ###### Artículo 130.
 
@@ -795,7 +1095,11 @@ En tanto no se declare judicialmente la falsedad o nulidad de una escritura, act
 
 Para los efectos del artículo 104 de la Ley, la expedición de testimonios se regirá por lo siguiente:
 
-I. Las hojas que integran un testimonio irán numeradas progresivamente y llevarán al margen derecho la rúbrica y el sello del Notario;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 17 DE JULIO DE 2013)</small>
+
+I. Las hojas que contienen la transcripción del acta notarial o escritura pública de que se trate, irán numeradas, progresivamente y llevarán al margen derecho la rúbrica y el sello del Notario Público. Las demás hojas únicamente contendrán su sello;
 
 II. Al final de cada testimonio se hará constar:
 
@@ -803,27 +1107,47 @@ a) Si es el primero, segundo o ulterior número ordinal;
 
 b) El nombre de la persona física o moral que haya solicitado su expedición, y
 
-c) El número de páginas del testimonio con mención de las que integren el apéndice;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
+c) El número de hojas del testimonio con mención de las que integren el apéndice;
 
 III. Se salvarán las testaduras y entrerrenglonaduras de la manera prescrita para las escrituras;
 
-IV. El Notario deberá expedir el testimonio con su firma y sello y tramitará la inscripción del primero de ellos en el Registro que corresponda cuando el acto sea registrable y hubiere sido expensado para ello por sus clientes, en términos del artículo 107 y 108 de la Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Las hojas del testimonio tendrán las dimensiones de la hojas tamaño oficio, pero siempre en su parte utilizable llevarán a cada lado un margen de una octava parte de la hoja;
+> <small>(REFORMADA, D.O. 17 DE JULIO DE 2013)</small>
+
+IV. El Notario deberá expedir el testimonio con su firma y sello y tramitará su inscripción en el Registro que corresponda cuando el acta notarial o escritura pública sea registrable y hubiere sido expensado para ello;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 17 DE JULIO DE 2013)</small>
+
+V. Las hojas del testimonio tendrán las dimensiones de la hojas tamaño oficio, y contendrán, además de los requisitos que establece la Ley y este Reglamento, las medidas de seguridad que determine el Consejo, que contactará a los proveedores que surtan las hojas con las medidas de seguridad que para tal efecto haya determinado, y supervisará que las mismas cumplan con los requisitos mencionados.
 
 VI. Podrán expedirse primero o ulterior testimonio, a cada parte o al autor del acto consignado en el instrumento de que se trate, o bien, a sus sucesores o causahabientes, cuando así proceda, y
 
 VII. Podrán expedirse y autorizarse testimonios, copias certificadas o certificaciones, utilizando cualquier medio de reproducción o impresión indeleble.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 135.
 
-Se expresará también al margen o al calce del acta, la fecha en que se expidan los testimonios, el número ordinal que les corresponda, el número de hojas que contengan y la persona para quien se expidan.
+Se expresará también en nota complementaria del apéndice del acta notarial o escritura pública, la fecha en que se expidan los testimonios, el número ordinal que les corresponda, el número de hojas que contengan y la persona para quien se expidan.
 
-De igual modo se anotará al margen o al calce del acta, un extracto que el Notario Público haga de las constancias de inscripciones puestas por el Registro Público de la Propiedad del Estado y por cualquier otro registro.
+De igual modo se anotará en nota complementaria del apéndice del acta notarial o escritura pública, un extracto que el Notario Público haga de las constancias de inscripciones puestas por el Registro Público de la Propiedad del Estado y por cualquier otro registro, o en su caso, agregará copia certificada de la hoja expedida por dicho Registro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 136.
 
-Las constancias marginales a que se refiere el artículo que antecede llevarán la firma y el sello del Notario Público y se incluirán en los testimonios que se expidan.
+Las constancias en nota complementaria del apéndice a que se refiere el artículo que antecede llevarán la firma y el sello del Notario Público y su contenido se incluirá en los testimonios que se expidan.
 
 ###### Artículo 137.
 
@@ -841,31 +1165,49 @@ Para los efectos del artículo 108 de la Ley, los notarios tampoco estarán obli
 
 En términos del artículo 109 de la Ley, el Notario podrá expedir certificaciones de actos o hechos que consten en su protocolo. En la certificación hará constar el número y la fecha de la escritura o del acta respectiva, requisito sin cuya satisfacción, la certificación carecerá de validez. Una vez autorizada la escritura, en las certificaciones que expida deberán mencionarse los documentos que se encuentren agregados al apéndice, sin que necesariamente éstos deban incluirse en la certificación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 141.
 
-Cuando se expida un testimonio, se pondrá al margen del instrumento o en nota complementaria en su caso, una anotación que contendrá la fecha de expedición, el número de fojas que conste el testimonio, el número ordinal que corresponda, así como, para quien se expide y a qué título.
+Cuando se expida un testimonio, se pondrá en nota complementaria del apéndice una anotación que contendrá la fecha de expedición, el número de hojas de que conste el testimonio, el número ordinal que corresponda, así como para quien se expide.
 
 ### CAPÍTULO X. De los actos notariales fuera de protocolo
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 142.
 
-Para los efectos del artículo 110 fracción I de la Ley, el notario podrá autorizar actos fuera de su protocolo en el que consten certificaciones, autenticaciones de firmas o ratificaciones, sin que el notario sea responsable de la validez o licitud de lo certificado o ratificado.
+Para los efectos del artículo 110, fracción I, de la Ley, el Notario Público podrá realizar actos fuera de su protocolo en el que consten certificaciones, autenticaciones de firmas o ratificaciones, sin que sea responsable de la validez o licitud de lo certificado o ratificado, debiendo en todo caso hacer constar en el Libro de Registro de Cotejos y de Certificaciones de Firmas en la forma establecida en este Reglamento, las certificaciones, autenticaciones de firmas o ratificaciones de las mismas que realice.
 
-> <small>(F. DE E., D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 143.
 
-De todo acto fuera del protocolo, con excepción de los que se refiere la fracción II del artículo 110 de la Ley, que lleve a cabo el notario, se levantará constancia que el notario autorizará con su firma y sello.
+Todo acto fuera del protocolo que lleve a cabo el Notario Público, se hará mediante constancia que autentificará con su firma y sello.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 144.
 
-Para los efectos del artículo 110 fracción II de la Ley los cotejos de reproducciones de documentos provenientes de medios electrónicos se llevará a cabo cotejando el documento impreso con el medio electrónico del cual proceda, y se anotará en el libro de registro de cotejos en los términos establecidos en el capítulo X de este Reglamento.
+Para los efectos del artículo 110, fracción II, de la Ley, los cotejos de reproducciones de documentos provenientes de medios electrónicos se llevará a cabo cotejando el documento impreso con el medio electrónico del cual proceda, y se anotará en el Libro de Registro de Cotejos y de Certificaciones de Firmas en los términos establecidos en el capítulo X de este Reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 145.
 
-En las actas relativas a las notificaciones a que se refiere la fracción III del artículo 110 de la Ley, además de cumplir los requisitos señalados en el Código de Procedimientos Civiles del Estado de Yucatán para la práctica de notificaciones judiciales, se observarán las reglas siguientes:
+En las actas relativas a las notificaciones a que se refiere la fracción III del artículo 110 de la Ley, además de cumplir los requisitos señalados en el artículo 122 de este Reglamento, se observarán las reglas siguientes:
 
 I. En el acta se hará constar el nombre y demás generales de la persona a cuya solicitud se practica la diligencia respectiva; pero no será necesario asentar esos datos con respecto a la persona o a las personas con quienes se entienden las diligencias, describiendo sucintamente los hechos o circunstancias alrededor del cual se llevan a cabo actos jurídico (sic) o constancias que sean de necesidad que el notario deba dar fe su (sic) existencia o de su condición de tal manera en la que el documento registre en forma circunstanciada y cronológica la sucesión de eventos y la comparecencia de quien la solicite, en vista de que ningún acta de esta naturaleza puede ser redactada sino es a solicitud de parte interesada, quien deberá cumplir con todas las demás disposiciones de identificación y seguridad jurídica;
 
@@ -873,7 +1215,11 @@ II. Si las personas con quienes se entienda la diligencia no quieren oírla (sic
 
 III. El intérprete, de ser necesario, será elegido por los notificados en caso de requerirse o por cualquiera de las partes en su omisión, y
 
-IV. El Notario autorizará el acta siempre y cuando haya firmado el solicitante de la diligencia y aun cuando no sea firmada por alguna de las partes interesadas. En los casos de protesto no será necesario que el Notario recabe la firma del protestado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 17 DE JULIO DE 2013)</small>
+
+IV. El Notario Público suscribirá el acta siempre y cuando haya firmado el solicitante de la diligencia en la misma acta o en documento por separado, y aún cuando no sea firmada por alguna de las partes interesadas. En los casos de protesto no será necesario que el Notario Público recabe la firma del protestado.
 
 ###### Artículo 146.
 
@@ -887,37 +1233,57 @@ Para los efectos de la fracción VI del artículo 110 de la Ley, la identificaci
 
 La fuerza pública prestará a los Notarios el auxilio que requieran para llevar a cabo las diligencias que aquéllos deban practicar conforme a la ley, cuando se les opusiera resistencia o se use o pueda usarse violencia en contra de los mismos. Bastará para ello que el notario verbalmente o por escrito solicite a los cuerpos de seguridad pública municipales o estatales dicha colaboración para el ejercicio de sus funciones notariales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 149.
 
-En los casos de ratificación de firmas o de huellas digitales, éstas figurarán en el acta, debiendo las partes identificarse en los términos de la Ley y este Reglamento.
+En los casos de ratificación de firmas o de huellas digitales, éstas figurarán en la constancia que al efecto se levante, debiendo las partes identificarse en los términos de la Ley y este Reglamento, y el Notario Público hacer constar la ratificación en el Libro de Registro de Cotejos y de Certificación de Firmas.
 
-#### Sección Segunda. Del Libro de Registro de Cotejos
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 17 DE JULIO DE 2013)</small>
+
+#### Sección Segunda. Del Libro de Registro de Cotejos y de Certificaciones de Firmas
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 150.
 
-Para los efectos del artículo 110 penúltimo párrafo de la Ley, el libro de registro de cotejos es el conjunto de los folios encuadernados en el que el notario relaciona los datos de los documentos que le presenten para tal efecto, considerándose como documento original para el cotejo no sólo el documento público o privado que así lo sea, sino también su copia certificada por notario o por autoridad legítimamente autorizada para expedirla y las impresiones hechas vía electrónica o con cualquier otra tecnología. Los documentos que el notario expida para integrar al apéndice y testimonio de las actas y escrituras, no serán objeto de anotación en el libro de registro de cotejos.
+Para los efectos del artículo 110, penúltimo y último párrafo de la Ley, el Libro de Registro de Cotejos y de Certificaciones de Firmas es el conjunto de las hojas encuadernadas en el que el notario relaciona los datos de los documentos que le presenten para tal efecto, considerándose como documento original para el cotejo no sólo el documento público o privado que así lo sea, sino también su copia certificada por notario o por autoridad legítimamente autorizada para expedirla y las impresiones hechas vía electrónica o con cualquier otra tecnología. Los documentos que el notario expida para integrar al apéndice y testimonio de las actas notariales o escrituras públicas no serán objeto de anotación en el Libro de Registro de Cotejos y de Certificaciones de Firmas.
 
-Cada libro, constará de doscientos folios y se regirá por lo siguiente:
+Cada libro constará de doscientas hojas y se regirá por lo siguiente:
 
-I. El notario hará el cotejo de la copia escrita, fotográfica, fotostática o de cualquier otra clase teniendo a la vista el documento original, sea físico o electrónico sin más formalidades que la anotación en un libro que se denominará Libro de Registro de Cotejos. Si el original se encuentra escrito total o parcialmente en idioma distinto al español no se requerirá traducción a esta lengua. El registro de los cotejos se hará mediante numeración progresiva e ininterrumpida por cada Notaría. En caso de suplencia en términos de los artículos 63 y 64 de la Ley, el notario suplente continuará con la numeración progresiva;
+I. El Notario Público hará el cotejo de la copia escrita, fotográfica, fotostática o de cualquier otra clase teniendo a la vista el documento original, sea físico o electrónico sin más formalidades que la anotación en un libro que se denominará Libro de Registro de Cotejos y de Certificaciones de Firmas. Si el original se encuentra escrito total o parcialmente en idioma distinto al español no se requerirá traducción a esta lengua. El registro de los cotejos se hará mediante numeración progresiva e ininterrumpida por cada Notaría. En caso de suplencia en términos de los artículos 63 y 64 de la Ley, el Notario Público suplente continuará con la numeración progresiva;
 
-II. En la primera hoja de cada libro de registro de cotejos, el Notario asentará una leyenda de apertura en la que indicará su nombre, el número de la notaría a su cargo, la mención de ser libro de registro de cotejos, con indicación del número que le corresponda dentro de los de su clase, la fecha, su sello y firma. Al terminar cada hoja de este libro asentará su firma y su sello. Inmediatamente después del último asiento que tenga cabida en el libro, el Notario asentará una leyenda de cierre misma que firmará y sellará, en la que indicará la fecha en que éste se efectúe, el número de asientos realizados, con mención del número del primero y del último contenidos en el libro;
+II. En la primera hoja de cada Libro de Registro de Cotejos y de Certificaciones de Firmas, el Notario Público asentará una leyenda de apertura en la que indicará su nombre, el número de la notaría a su cargo, la mención de ser Libro de Registro de Cotejos y de Certificaciones de Firmas, con indicación del número que le corresponda dentro de los de su clase, la fecha, su sello y firma. Al terminar cada hoja de este libro asentará su firma y su sello. Inmediatamente después del último asiento que tenga cabida en el libro, el Notario Público asentará una leyenda de cierre misma que firmará y sellará, en la que indicará la fecha en que éste se efectúe, el número de asientos realizados, con mención del número del primero y del último contenidos en el libro;
 
-III. Cada registro de cotejo deberá contener el número progresivo que le corresponda, la fecha en que se efectúe, el nombre del solicitante y de quien lo pida en su nombre, en su caso; el número de copias cotejadas de cada documento, el número de fojas de cada documento cotejado y un espacio para las observaciones que el notario juzgue oportuno anotar. Los números podrán anotarse en guarismos, No podrá dejarse espacio en blanco entre registros. Entre cada registro dentro de una misma página se imprimirá una línea de tinta indeleble que abarque todo lo ancho de aquella a fin de distinguir uno del otro; y,
+III. Cada registro de cotejo y de certificación de firmas deberá contener, según el caso de que se trate: el número progresivo que le corresponda, la fecha en que se efectúe, el nombre del solicitante o de quien lo pida en su nombre, en su caso; el número de copias cotejadas de cada documento, el número de hojas de cada documento cotejado y un espacio para las observaciones que el Notario Público juzgue oportuno anotar. Los números podrán anotarse en guarismos. No podrá dejarse espacio en blanco entre registros. Entre cada registro dentro de una misma página se imprimirá una línea de tinta indeleble que abarque todo lo ancho de aquella a fin de distinguir uno del otro, y
 
-IV. El Notario Público certificará con su sello y firma la o las copias cotejadas, haciendo constar en ellas que son fiel reproducción de su original que tuvo a la vista, el número de fojas de que consta, así como el número y fecha de registro que les corresponda.
+IV. El Notario Público certificará con su sello y firma la o las copias cotejadas, haciendo constar en ellas que son fiel reproducción de su original que tuvo a la vista, el número de hojas de que consta, así como el número y fecha de registro que les corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 151.
 
-Los notarios públicos guardarán en su archivo, durante su ejercicio, los libros de registro de cotejos que utilicen en los términos del artículo anterior.
+Los Notarios Públicos guardarán en su archivo, durante su ejercicio, los libros de registro de cotejos y de certificaciones de firmas que utilicen en los términos del artículo anterior.
 
 ### CAPÍTULO XI
 
 De la Jurisdicción Voluntaria; de los actos de los Notarios Públicos como auxiliares de la administración de justicia y de los trámites de sucesión ante Notario Público
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 152.
 
-Para los efectos del artículo 113 fracción II de la Ley, en el momento en que surja controversia alguna, el notario interrumpirá la tramitación de la sucesión y enviará las constancias conducentes al juez de lo familiar del departamento judicial que corresponda, para la continuación de la tramitación.
+Para los efectos del artículo 113, fracción II, de la Ley, en el momento en que surja controversia alguna, el Notario Público interrumpirá la tramitación de la sucesión y enviará las constancias conducentes al juez de lo familiar del departamento judicial que corresponda, para la continuación de la tramitación.
 
 ###### Artículo 153.
 
@@ -1005,7 +1371,9 @@ V. Realizar cursos de actualización, congresos y conferencias tendientes a la s
 
 VI. Emitir los dictámenes a que se refiere el artículo 145 de la Ley y este Reglamento;
 
-VII. Crear y administrar el Fondo de Garantía en términos de lo dispuesto en la Ley y este Reglamento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VII. (DEROGADA, D.O. 17 DE JULIO DE 2013)
 
 VIII. Fomentar las relaciones con otras instituciones similares tanto del país como del extranjero;
 
@@ -1029,9 +1397,13 @@ En términos del artículo 119 de la Ley, el Ejecutivo del Estado expedirá a ca
 
 Dicha identificación será suscrita por el Director del Archivo Notarial.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 170.
 
-Los interesados en obtener el nombramiento de escribano público, deberán solicitar al titular del Poder Ejecutivo del Estado, por conducto del Archivo Notarial, el examen de aptitud a que se refiere el artículo 120 de la Ley, y acreditar ante el Archivo Notarial, el cumplimiento de los requisitos establecidos en las fracciones I, II, III, IV y VII del artículo 16 de la Ley.
+Los interesados en obtener el nombramiento de escribano público, deberán solicitar al titular del Poder Ejecutivo del Estado, por conducto del Archivo Notarial, el examen de aptitud a que se refiere el artículo 120 de la Ley, y acreditar ante el Archivo Notarial, el cumplimiento de los requisitos establecidos en las fracciones I, II, III, IV y VIII del artículo 16 de la Ley.
 
 ###### Artículo 171.
 
@@ -1066,6 +1438,14 @@ Los Escribanos Públicos que se separen más de quince días hasta seis meses re
 ###### Artículo 175.
 
 El Escribano Público que acepte ocupar o sea electo podrá desempeñar un cargo o empleo público remunerado, deberá solicitar y obtener del Poder Ejecutivo del Estado, la Licencia para separarse de su función por todo el tiempo que dure su cargo. En este caso la Escribanía a su cargo, deberá permanecer cerrada, y el Director del Archivo Notarial únicamente procederá a realizar los trámites que hubieren quedado pendientes de los asuntos a cargo del Escribano Público con licencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 17 DE JULIO DE 2013)</small>
+
+###### Artículo 175 Bis.
+
+Cuando termine la licencia concedida al escribano público, deberá informarlo al Poder Ejecutivo, así como de la reanudación de actividades en la escribanía pública a su cargo.
 
 ###### Artículo 176.
 
@@ -1103,9 +1483,13 @@ Todos los documentos autorizados por los Escribanos Públicos serán numerados c
 
 Los escribanos públicos para el cumplimiento de su función deberán proveerse a su costa para el otorgamiento de las escritura (sic) públicas pasadas ante su fe pública, de hojas que permitan la conservación y reproducción del documento que contengan.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 183.
 
-Para los efectos del artículo 126 de la Ley, el apéndice que deben enviar los escribanos públicos al Archivo Notarial deberá estar conformado por los documentos originales y copias certificadas del propio escribano, así como del documento impreso a que se refiere el artículo 182 de este Reglamento. Para estos efectos el escribano público expedirá los testimonios de las escrituras públicas contenidas en los referidos folios que le solicitaren los interesados.
+Para los efectos del artículo 126 de la Ley, el apéndice que deben enviar los Escribanos Públicos al Archivo Notarial deberá estar conformado por los documentos originales y copias certificadas que otorguen, así como del documento impreso a que se refiere el artículo 182 de este Reglamento. Para estos efectos el Escribano Público expedirá un ejemplar de la escritura pública para los interesados.
 
 ### CAPÍTULO XV. De las visitas a las Notarías y Escribanías Públicas
 
@@ -1121,13 +1505,21 @@ II. Especiales.
 
 Las visitas ordinarias a las Notarias y Escribanías se realizarán anualmente y durante éstas el visitador se cerciorará de que:
 
-I. Las notas marginales o escritas al calce de las actas estén asentadas y firmadas en los términos y plazos señalados por la Ley y este Reglamento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 17 DE JULIO DE 2013)</small>
+
+I. Las notas escritas en hoja complementaria del apéndice de las actas notariales o escrituras públicas estén asentadas y firmadas en los términos y plazos señalados por la Ley y este Reglamento;
 
 II. Las actas estén firmadas por todos los comparecientes y por el Fedatario Público en los términos de la Ley;
 
 III. No existan espacios en blanco entre un acta y la siguiente, distintos a los necesarios en términos de la Ley y este Reglamento;
 
-IV. Se cumplió con lo dispuesto en el artículo 76 de este Reglamento, asentándose en cada uno de los volúmenes del tomo respectivo al final de cada año, el número total de actas autorizadas durante el año anterior, el de las pendientes de autorizar y el de las que no pasaron;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 17 DE JULIO DE 2013)</small>
+
+IV. Se cumplió con lo dispuesto en el artículo 76 de este Reglamento, asentándose en cada uno de los libros del tomo respectivo al final de cada año, el número total de actas autorizadas durante el año anterior, el de las pendientes de autorizar y el de las que no pasaron;
 
 V. Estén debidamente integrados los legajos de los apéndices de cada acta, con los documentos correspondientes, en los términos, formas y plazos que señalan este Reglamento y las demás leyes aplicables especialmente las de carácter fiscal;
 
@@ -1141,7 +1533,11 @@ IX. En general el Fedatario Público, se ajustó en el ejercicio de la fe públi
 
 La anterior enumeración es enunciativa y no limitativa, respecto de los aspectos que se podrán revisar en una visita.
 
-El visitador no podrá calificar el contenido de las actas en cuanto a sus aspectos jurídico y gramatical.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
+El visitador no podrá calificar el contenido de las actas notariales o escrituras públicas en cuanto a sus aspectos jurídico y gramatical.
 
 ###### Artículo 186.
 
@@ -1169,9 +1565,13 @@ Tratándose de visitas especiales deberá notificarse al Fedatario Público cuan
 
 El resultado de las visitas tanto ordinarias como especiales, se consignará en un acta que se levantará por triplicado y que será firmada por el visitador y por el visitado; se entregará un ejemplar del acta al Notarios (sic) visitado otro ejemplar se guardará en el Archivo Notarial y el otro se enviará al Consejo de Notarios, si el Notario visitado no firma el acta lo hará constar así en la misma el visitador, asentando las razones de la negativa y las aclaraciones y fundamento que el Notario quiera exponer. El Notario visitado tendrá derecho a nombrar a dos testigos de asistencia que firmen el acta a que se refiere este artículo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 192.
 
-El Director del Archivo Notarial pondrá una constancia alusiva al margen de la última acta revisada. Si durante el periodo comprendido entre una visita y otra no se hubiera autorizado ningún acta se hará constar esta circunstancia en el protocolo.
+El Director del Archivo Notarial pondrá una constancia alusiva en nota complementaria del apéndice de la última acta revisada. Si durante el periodo comprendido entre una visita y otra no se hubiera autorizado ningún acta se hará constar esta circunstancia en el protocolo.
 
 ###### Artículo 193.
 
@@ -1253,7 +1653,7 @@ SEGUNDO. Se abroga el Decreto 385 expedido por el Ejecutivo del Estado, publicad
 
 TERCERO. En un plazo no mayor de sesenta días el Ejecutivo del Estado expedirá las credenciales de identificación a los fedatarios públicos del Estado, en términos de la Ley y este Reglamento.
 
-SE EXPIDE ESTE DECRETO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE MÉRIDA, CAPITAL DEL ESTADO DE YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS VElNTISÉIS DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL ONCE.
+SE EXPIDE ESTE DECRETO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE MÉRIDA, CAPITAL DEL ESTADO DE YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS VEINTISÉIS DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL ONCE.
 
 (RÚBRICA)
 
@@ -1272,3 +1672,23 @@ SECRETARIO GENERAL DE GOBIERNO.
 C. SERGIO BOGAR CUEVAS GONZÁLEZ.
 
 CONSEJERO JURÍDICO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 17 DE JULIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor a los 30 días naturales siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. Los Notarios Públicos deberán empezar a utilizar el sello de autorizar con los requisitos a que se refiere el artículo 44 de este Reglamento, a partir del 1 de enero del año 2014.
+
+TERCERO. Los Notarios Públicos en funciones a la entrada en vigor de este Decreto, deberán cumplir con el requisito de registrar su sello y firma, cumpliendo con los requisitos del artículo 44 Bis del Reglamento, dentro de los 60 días naturales siguientes a la entrada en vigor del propio Decreto.
+
+CUARTO. El seguro de responsabilidad civil profesional o la garantía prevista en el artículo 49 de este Reglamento, deberá entregarse al Consejo por lo que respecta al año 2013, a más tardar dentro de los 60 días naturales siguientes a la entrada en vigor de este Decreto. Para los años siguientes se observará lo dispuesto en el artículo 50 del propio Reglamento.
+
+QUINTO. El Consejo deberá emitir la circular en la que se determine las medidas de seguridad a que se refiere la fracción V del artículo 134 de este Reglamento, dentro de los 60 días naturales siguientes a la publicación del este Decreto en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEXTO. Los Notarios públicos deberán llevar a cabo la implementación de las medidas de seguridad a que se refiere la fracción V del artículo 134 de este Reglamento, a partir del 1 de enero del año 2014.
+
+SÉPTIMO. En virtud de la reforma al artículo 49 de este Reglamento y la entrada en vigor del seguro de responsabilidad civil profesional, el Consejo de Notarios Públicos expedirá las reglas a que deberán sujetarse los notarios para la recuperación de las aportaciones que hubiesen realizado al fondo permanente de garantías.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan a este Decreto.
