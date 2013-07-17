@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2013-05-07"
+last_updated: "2013-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1239,138 +1239,6 @@ XVIII. Los propietarios o poseedores de inmuebles en que se coloquen, instalen, 
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-XIX. Los propietarios o poseedores de muebles o estructuras en que se coloquen, instalen, armen o construyan anuncios publicitarios, así como las personas físicas o jurídico colectivas cuyo objeto o giro sea la publicidad de bienes servicios, respecto del Impuesto sobre Anuncios Publicitarios.
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XX. Los notarios públicos, respecto de los impuestos Predial y sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles, cuando autoricen definitivamente escrituras, sin que previamente verifiquen el pago de los mismos.
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XXI. Los propietarios de negociaciones que permitan en su local la instalación de cualquier tipo de máquinas o aparatos de recreación y azar accionadas con monedas, fichas o cualquier otro mecanismo respecto del impuesto que se cause por este concepto.
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XXII. Los depositarios de embargos por los bienes que les fueron dejados en custodia.
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XXIII. Los propietarios de inmuebles que permitan en los mismos la instalación y explotación de cualquier tipo de estacionamiento público.
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XXIV. Los propietarios de inmuebles que permitan en los mismos la instalación y explotación de diversiones, juegos mecánicos, espectáculos públicos, tianguis comerciales y otros similares.
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XXV. Los propietarios o poseedores de inmuebles, en los cuales se explote el servicio de hospedaje, en cualquiera de sus modalidades, respecto del impuesto que se cause por este concepto.
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XXVI. Los albaceas, por los créditos fiscales que deje de pagar el contribuyente, hasta por el total de la masa hereditaria.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-XXVII. Las personas físicas o jurídico colectivas que contraten la prestación de servicios, cuando las prestadoras no cumplan con su obligación en el entero del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal dentro del plazo establecido en este Código.
-
-La responsabilidad solidaria a que se refiere esta fracción, será hasta por el monto de las contraprestaciones efectuadas por dichos servicios sin incluir el Impuesto al Valor Agregado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-XXVIII. Los servidores públicos que autoricen la inscripción de vehículos, permisos provisionales para circulación, matrículas, cambios o bajas de placas o efectúen el refrendo de los mismos, sin haberse cerciorado que no eximan adeudos por estos conceptos, por el Impuesto sobre Tenencia o Uso de Vehículos previsto en este Código o del Impuesto sobre Tenencia o Uso de Vehículos previsto en la legislación federal, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite que se encuentra liberado de la obligación que corresponda.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-En los supuestos de las fracciones IV, VI Y XII, a que se refiere este artículo, el plazo para su determinación se extinguirá en cinco años contados a partir de que el contribuyente no sea localizado y/o no cuente con bienes para asegurar la recuperación del crédito fiscal, o que teniéndolos no sean suficientes.
-
-La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas.
-
-###### Artículo 41.
-
-Son responsables solidarios del pago de créditos fiscales:
-
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-I. Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar y determinar contribuciones, hasta por el monto de las mismas.
-
-II. Quien manifieste por escrito su voluntad de asumir responsabilidad solidaria.
-
-III. Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquéllas que se causaron durante su gestión.
-
-IV. La persona o personas, cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las sociedades mercantiles, por las contribuciones causadas o no retenidas por dichas sociedades durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada por los bienes de la sociedad que dirigen, cuando dicha sociedad se encuentre en cualquiera de los siguientes supuestos:
-
-A). No solicite su inscripción al padrón de contribuyentes.
-
-B). Cambien de domicilio, de nombre o razón social, sin presentar el aviso correspondiente, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio de una visita y antes de que se haya notificado la resolución que se dicte respecto de la misma, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya pagado o declarado sin efectos.
-
-C). No lleve contabilidad, la oculte o la destruya.
-
-V. Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad exceda del cincuenta por ciento del valor de la propia negociación.
-
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
-
-VI. Los representantes legales y mandatarios, por los créditos fiscales que dejen de pagar sus representados o mandantes, en relación con las operaciones en que aquéllos intervengan, hasta por el monto total de dichos créditos.
-
-VII. Quienes ejerzan la patria potestad o la tutela, por las contribuciones a cargo de su representado.
-
-VIII. Los legatarios o los donatarios a título particular respecto de los créditos fiscales que se hubieran causado en relación con los bienes legados o donados, hasta por el monto de éstos.
-
-IX. Los adquirentes de bienes inmuebles, cuando los enajenantes no hayan pagado las contribuciones o lo hayan hecho en cantidad menor a lo señalado en este Código, sin que la responsabilidad exceda del valor del inmueble.
-
-X. Los causahabientes o, en su caso, quienes ostenten la propiedad o posesión de un predio cuando quien lo fraccione o subdivida no sea el titular de los derechos sobre el mismo.
-
-XI. Los terceros que para garantizar el interés fiscal constituyan depósito, prenda o hipoteca o permitan el embargo de bienes, hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto de interés garantizado.
-
-XII. Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenía tal calidad, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la misma, cuando dicha sociedad se encuentre en cualquiera de los supuestos a que se refieren los incisos A), B) y C) de la fracción IV de este artículo, sin que la responsabilidad exceda de la participación que tenían en el capital social de la sociedad durante el período o la fecha de que se trate, siempre que hubieren tenido algún cargo de dirección o administración en la sociedad.
-
-XIII. Las sociedades nacionales de crédito, instituciones de crédito y cualquier otra persona autorizada por la ley para llevar a cabo operaciones fiduciarias, respecto de los créditos fiscales causados por las operaciones derivadas de la actividad objeto del fideicomiso, hasta por el valor de los bienes fideicomitidos.
-
-XIV. Los copropietarios o los participantes en derechos mancomunados, respecto de los créditos fiscales derivados del bien o derecho en común y hasta por el valor de éste. Por el excedente de los créditos fiscales cada uno quedará obligado en la proporción que le corresponda en el bien o derecho mancomunado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-XV. Tratándose del Impuesto sobre la Adquisición de Vehículos Automotores Usados, los consignatarios y/o comisionistas, en su caso, así como los adquirientes y enajenantes, que intervengan en la venta o adquisición de vehículos automotores, que no acrediten el pago de las contribuciones ante la autoridad fiscal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
-
-Los consignatarios, comisionistas y enajenantes, sólo quedarán exceptuados de la responsabilidad de pago si avisan a la autoridad fiscal la venta de vehículos automotores usados dentro de un término de treinta días siguientes al evento, conforme al procedimiento y en el formato de aviso que señale la autoridad fiscal en los términos de este Código.
-
-La excepción de responsabilidad es respecto de las obligaciones fiscales futuras, a partir de la presentación del aviso respectivo.
-
-En el caso de extemporaneidad en la presentación del aviso, la responsabilidad cesará a partir de la fecha de su presentación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-XVI. Por lo que hace al Impuesto sobre Tenencia o Uso de Vehículos, los propietarios, tenedores, usuarios, adquirientes, enajenantes, así como los consignatarios y/o comisionistas, en su caso, por los adeudos que estos reportaren en el momento de la adquisición o venta.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-XVII. Los propietarios, tenedores, usuarios, adquirientes, enajenantes, así como los consignatarios y/o comisionistas, en su caso, por los derechos de control vehicular.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XVIII. Los propietarios o poseedores de inmuebles en que se coloquen, instalen, armen o construyan anuncios publicitarios respecto del Impuesto sobre Anuncios Publicitarios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
 XIX. Los propietarios o poseedores de muebles o estructuras en que se coloquen, instalen, armen o construyan anuncios publicitarios, así como las personas físicas o jurídico colectivas cuyo objeto o giro sea la publicidad de bienes o servicios, respecto del Impuesto sobre Anuncios Publicitarios.
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
@@ -1995,6 +1863,24 @@ En caso de que los saldos finales de las cuentas y subcuentas mencionadas en el 
 
 VII. Comparación analítica entre los conceptos o parámetros considerados para la determinación y pago de la contribución revisada en el ejercicio fiscal dictaminado y los considerados en el ejercicio fiscal inmediato anterior.
 
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 47 Bis.
+
+Las personas físicas y jurídicas colectivas obligadas al pago del Impuesto Predial, deberán dictaminar la determinación de la base declarada de dicho impuesto en el año inmediato anterior en la manifestación del valor catastral de sus inmuebles ubicados en el territorio del Estado, de conformidad con este Código y las demás disposiciones que se emitan para tal efecto, cuando en dicho año se ubiquen en cualquiera de los siguientes supuestos:
+
+I. Sean propietarias o poseedoras de inmuebles ubicados en el territorio del Estado, cuyo valor catastral determinado conforme lo establece el Título Quinto de este Código, aplicando las tablas de valores unitarios de suelo y construcciones vigentes en ese año, sea igual o superior a $20,000,000.00 (veinte millones de pesos 00/100 M.N.), en cuyo caso el dictamen comprenderá exclusivamente a los inmuebles que tengan un valor catastral igual o superior a dicha cantidad.
+
+II. Sean propietarias o poseedoras de inmuebles ubicados en el territorio del Estado, cuyo valor catastral determinado conforme lo establece el Título Quinto de este Código, aplicando las tablas de valores unitarios de suelo y construcciones vigentes en ese año, sea igual o superior a $5,000,000.00 (cinco millones de pesos 00/100 M.N.), únicamente cuando la suma del valor catastral de dichos inmuebles sea igual o superior a $20,000,000.00 (veinte millones de pesos 00/100 M.N.), en cuyo caso el dictamen comprenderá exclusivamente a los inmuebles que tengan un valor catastral igual o superior a $5,000,000.00 (cinco millones de pesos 00/100 M.N.).
+
+El dictamen de la determinación de la base del Impuesto Predial, tendrá vigencia para el año que se dictamina, así como para los dos siguientes siempre que el Impuesto Predial de los inmuebles objeto de dictaminación se pague oportunamente en términos de este Código, no se realicen mejoras, ampliaciones o construcciones que aumenten el valor catastral de los mismos y no se modifique la información aplicable a los inmuebles objeto de dictaminación conforme a las tablas de valores unitarios de suelo y construcciones que estén vigentes para dichos años, prevaleciendo la obligación de presentar el aviso de dictamen correspondiente en cada año.
+
+La dictaminación de la determinación de la base del Impuesto Predial consistirá en verificar por medio de un especialista en valuación inmobiliaria registrado por el IGECEM, la correcta determinación del valor catastral que se haya declarado respecto de los inmuebles objeto de dictaminación, conforme a las tablas de valores unitarios de suelo y construcciones publicadas en el Periódico Oficial "Gaceta del Gobierno" del Estado de México vigentes en el año que se dictamine.
+
+Las personas físicas y jurídicas colectivas que no estén obligadas a dictaminar la determinación de la base del Impuesto Predial en los términos de éste artículo, podrán optar por dictaminarse presentando oportunamente ante la autoridad fiscal competente el aviso de dictamen a que se refiere el primer párrafo del artículo 47 Bis- I de este Código, en cuyo caso les serán aplicables las disposiciones fiscales atribuibles a los contribuyentes obligados. No se dará efecto legal alguno al ejercicio de la opción de dictaminarse cuando se realice fuera del plazo establecido en dicha disposición, ni cuando la opción se ejerza después de iniciado o notificado al contribuyente el ejercicio de las facultades de comprobación de la autoridad fiscal por el impuesto y año a dictaminar.
+
+Para los efectos de este artículo, cuando un contribuyente deba dictaminar o ejerza la opción de hacerlo respecto de la determinación de la base del Impuesto Predial por más de un inmueble en el mismo año, se presentará un dictamen en el que se detallará la información de todos los inmuebles objeto de dictaminación en ese año, en cuyo caso el contribuyente designará a un dictaminador en particular, pudiendo presentarse diferentes dictámenes respecto de los inmuebles objeto de dictaminación.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
@@ -2054,24 +1940,6 @@ IX. Que se verificó el correcto registro y valuación de todas las obligaciones
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 X. Que se corroboró la integración a la base para la determinación del impuesto revisado, del monto total de las remuneraciones al trabajo personal sin deducción o disminución alguna, así como de las erogaciones provenientes de pasivos u obligaciones pendientes de pago relacionados con la base de dicho impuesto, de acuerdo al alcance establecido y la naturaleza de los procedimientos de auditoría generalmente aceptados aplicables a las circunstancias.
-
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-###### Artículo 47 Bis.
-
-Las personas físicas y jurídicas colectivas obligadas al pago del Impuesto Predial, deberán dictaminar la determinación de la base declarada de dicho impuesto en el año inmediato anterior en la manifestación del valor catastral de sus inmuebles ubicados en el territorio del Estado, de conformidad con este Código y las demás disposiciones que se emitan para tal efecto, cuando en dicho año se ubiquen en cualquiera de los siguientes supuestos:
-
-I. Sean propietarias o poseedoras de inmuebles ubicados en el territorio del Estado, cuyo valor catastral determinado conforme lo establece el Título Quinto de este Código, aplicando las tablas de valores unitarios de suelo y construcciones vigentes en ese año, sea igual o superior a $20,000,000.00 (veinte millones de pesos 00/100 M.N.), en cuyo caso el dictamen comprenderá exclusivamente a los inmuebles que tengan un valor catastral igual o superior a dicha cantidad.
-
-II. Sean propietarias o poseedoras de inmuebles ubicados en el territorio del Estado, cuyo valor catastral determinado conforme lo establece el Título Quinto de este Código, aplicando las tablas de valores unitarios de suelo y construcciones vigentes en ese año, sea igual o superior a $5,000,000.00 (cinco millones de pesos 00/100 M.N.), únicamente cuando la suma del valor catastral de dichos inmuebles sea igual o superior a $20,000,000.00 (veinte millones de pesos 00/100 M.N.), en cuyo caso el dictamen comprenderá exclusivamente a los inmuebles que tengan un valor catastral igual o superior a $5,000,000.00 (cinco millones de pesos 00/100 M.N.).
-
-El dictamen de la determinación de la base del Impuesto Predial, tendrá vigencia para el año que se dictamina, así como para los dos siguientes siempre que el Impuesto Predial de los inmuebles objeto de dictaminación se pague oportunamente en términos de este Código, no se realicen mejoras, ampliaciones o construcciones que aumenten el valor catastral de los mismos y no se modifique la información aplicable a los inmuebles objeto de dictaminación conforme a las tablas de valores unitarios de suelo y construcciones que estén vigentes para dichos años, prevaleciendo la obligación de presentar el aviso de dictamen correspondiente en cada año.
-
-La dictaminación de la determinación de la base del Impuesto Predial consistirá en verificar por medio de un especialista en valuación inmobiliaria registrado por el IGECEM, la correcta determinación del valor catastral que se haya declarado respecto de los inmuebles objeto de dictaminación, conforme a las tablas de valores unitarios de suelo y construcciones publicadas en el Periódico Oficial "Gaceta del Gobierno" del Estado de México vigentes en el año que se dictamine.
-
-Las personas físicas y jurídicas colectivas que no estén obligadas a dictaminar la determinación de la base del Impuesto Predial en los términos de éste artículo, podrán optar por dictaminarse presentando oportunamente ante la autoridad fiscal competente el aviso de dictamen a que se refiere el primer párrafo del artículo 47 Bis- I de este Código, en cuyo caso les serán aplicables las disposiciones fiscales atribuibles a los contribuyentes obligados. No se dará efecto legal alguno al ejercicio de la opción de dictaminarse cuando se realice fuera del plazo establecido en dicha disposición, ni cuando la opción se ejerza después de iniciado o notificado al contribuyente el ejercicio de las facultades de comprobación de la autoridad fiscal por el impuesto y año a dictaminar.
-
-Para los efectos de este artículo, cuando un contribuyente deba dictaminar o ejerza la opción de hacerlo respecto de la determinación de la base del Impuesto Predial por más de un inmueble en el mismo año, se presentará un dictamen en el que se detallará la información de todos los inmuebles objeto de dictaminación en ese año, en cuyo caso el contribuyente designará a un dictaminador en particular, pudiendo presentarse diferentes dictámenes respecto de los inmuebles objeto de dictaminación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -9833,11 +9701,11 @@ II. El Secretario de Finanzas;
 
 III. El Director General del Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
 
-IV. El ayuntamiento y el servidor público que éste designe como titular del área de catastro municipal.
+IV. El ayuntamiento y el servidor público que éste designe como titular del área de catastro municipal, quien deberá estar debidamente certificado o certificarse en un plazo máximo de tres meses contados a partir de su designación, ante la Comisión Certificadora de Competencia Laboral de los Servidores Públicos del Estado de México en al menos una de las ocho unidades de competencia laboral que integran a las normas institucionales vigentes en materia de catastro.
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -16228,3 +16096,11 @@ El Gobierno del Estado de México vigilará, de ser el caso, que los contratos d
 ###### ARTÍCULO TERCERO.
 
 Este Decreto entrará en vigor a los 60 días de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 17 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La reforma a la fracción IV del artículo 169 del Código Financiero del Estado de México y Municipios, entrará en vigor el día 1 de enero de 2014.
