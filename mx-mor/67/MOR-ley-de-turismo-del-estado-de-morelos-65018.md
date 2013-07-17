@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2013-01-23"
+last_updated: "2013-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -77,6 +77,10 @@ Zona Turística: Área destinada, desarrollada o proyectada principalmente para 
 
 Patrimonio Turístico: Es el conjunto de bienes e instalaciones que generan el interés del mercado turístico por sus características y valores naturales, históricos y culturales, tangibles e intangibles, estéticos o simbólicos, que se deben de incorporar en el mismo al disponer de la infraestructura necesaria para el adecuado desarrollo de la actividad turística y por lo mismo, requieren ser preservados, conservados y protegidos para el disfrute de la sociedad, determinado como tal por la Secretaría.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+Turismo Gastronómico: La opción turística decisiva y enfocada a todo tipo de gente dispuesta a experimentar la cultura culinaria que nuestro Estado de Morelos ofrece.
+
 ###### Artículo 3.
 
 Esta Ley tiene por objeto establecer las bases para:
@@ -127,11 +131,17 @@ XVIII. Salvaguardar la igualdad de género en la instrumentación y aplicación 
 
 XIX. Determinar las normas para la integración y operación del Registro Estatal de Turismo;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
 
-XX. Fomentar y desarrollar acciones para diversificar la actividad turística, todas las modalidades turísticas se considerarán como un factor de desarrollo local integrado, apoyando el aprovechamiento de las actividades propias de las comunidades; y
+XX.- Promover y fomentar, de manera permanente, las actividades encaminadas a fortalecer el turismo gastronómico de los pueblos en todo el estado de Morelos;
 
-XXI. En general, la realización de toda clase de actividades que tiendan a favorecer y acrecentar las corrientes turísticas nacionales e internacionales, hacia el estado.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
+
+XXI. Fomentar y desarrollar acciones para diversificar la actividad turística, todas las modalidades turísticas se considerarán como un factor de desarrollo local integrado, apoyando el aprovechamiento propio de las comunidades; y
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
+
+XXII. En general, la realización de toda clase de actividades que tiendan a fortalecer y acrecentar las corrientes turísticas nacionales e internacionales, hacia el Estado.
 
 ###### Artículo 4.
 
@@ -818,3 +828,13 @@ ARTÍCULO (sic) Segundo.- Aprobado el presente decreto remítase copia a la Secr
 Artículo Tercero.- Remítase al Titular del Poder Ejecutivo del Estado, para su promulgación y su publicación.
 
 Artículo Cuarto.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
+
+P.O. 17 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
