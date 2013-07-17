@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2012-08-24"
+last_updated: "2013-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 24 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 17 DE JULIO DE 2013.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -1075,7 +1075,9 @@ Para impartir la educación básica los particulares deberán obtener previament
 
 Tratándose de estudios distintos a los mencionados en el artículo anterior, los particulares podrán obtener el reconocimiento de validez oficial de estudios, siempre que cumplan con los requisitos previstos en la normatividad aplicable.
 
-La autorización y el reconocimiento serán específicos para cada plan de estudios.
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2013)</small>
+
+La autorización y el reconocimiento serán específicos e intransferibles para cada plan de estudios.
 
 ###### Artículo 117.
 
@@ -1422,6 +1424,12 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- El Ejecutivo Estatal y los Ayuntamientos expedirán las disposiciones reglamentarias del presente Decreto en un plazo no mayor a tres meses, contados a partir de su publicación. Los establecimientos que estén funcionando de manera regular, pero que se encuentren en los supuestos contemplados en este Decreto, tendrán como límite para situarse en lugar permitido hasta un año a partir de la fecha de entrada en vigor de éste.
 
 CUARTO.- La autoridad municipal notificará a los poseedores, propietarios o titulares de las licencias de funcionamiento de los establecimientos, del plazo concedido en el artículo transitorio anterior.
+
+G.G. 17 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 #### SECCIÓN SEGUNDA. DE LA FORMACIÓN, ACTUALIZACIÓN, CAPACITACIÓN Y SUPERACIÓN PROFESIONAL DE LOS MAESTROS
 
