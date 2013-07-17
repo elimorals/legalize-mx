@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ingresos-del-estado-de-quintana-roo-para-el-91118"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-10"
-last_updated: "2012-12-10"
+last_updated: "2013-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2013
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 10 de diciembre de 2012.
 
@@ -419,15 +419,23 @@ Transferencias a fideicomisos, 0
 
 mandatos y análogos
 
-Ingresos derivados de financiamientos 2,500,000,000
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
 
-Endeudamiento interno 2,500,000,000
+Ingresos derivados de financiamientos 7,484,000,000
 
-Empréstitos 2,500,000,000
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
+
+Endeudamiento interno 7,484,000,000
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
+
+Empréstitos 7,484,000,000
 
 Endeudamiento externo 0
 
-GRAN TOTAL DE INGRESOS 22,390,728,894
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
+
+GRAN TOTAL DE INGRESOS 27,374,728,894
 
 ###### ARTÍCULO 2°.
 
@@ -444,6 +452,12 @@ La Secretaría de Hacienda del Gobierno del Estado podrá administrar en forma t
 ###### ARTÍCULO 5°.
 
 los sujetos obligados al pago de contribuciones estatales salvo por autorización expresa del titular del Poder Ejecutivo o del Secretario de Hacienda, estarán exentos de su cumplimiento total o parcial en términos del acuerdo o documento oficial que al respecto se emita.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+###### ARTÍCULO 6°.
+
+El monto de los empréstitos deberá ser aplicado en los términos que establece el respectivo decreto de autorización.
 
 T R A N S I T O R I O S:
 
@@ -556,3 +570,15 @@ ARQ. LUIS ALBERTO GONZÁLEZ FLORES.
 EL SECRETARIO DE HACIENDA DEL ESTADO DE QUINTANA ROO.
 
 C. JOSÉ MAURICIO GONGORA ESCALANTE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
