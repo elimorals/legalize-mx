@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-21358"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-30"
-last_updated: "2007-08-27"
+last_updated: "2013-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE SINALOA
 
-LEY DE EDUCACION PARA EL ESTADO DE SINALOA
+LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 30 de abril de 2001.
 
@@ -207,13 +207,17 @@ XIX. Impulsar el desarrollo de la enseñanza y la investigación científica y t
 
 XX. Promover la investigación e innovación educativa;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
 
-XXI. Estimular la producción de obras y materiales didácticos por medio de la emisión gratuita de los contenidos, el otorgamiento de subvenciones o recompensas, o mediante distinciones honoríficas; y
+XXI. Estimular la producción de obras y material didáctico por medio de la emisión gratuita de los contenidos, el otorgamiento de subvenciones o recompensas, o mediante distinciones honoríficas;
 
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
 
-XXII. Establecer una efectiva y estrecha coordinación con la Secretaría de Salud y demás autoridades competentes, con el fin de promover programas y acciones que fomenten en los maestros, padres de familia, encargados de cooperativas escolares y especialmente en los educandos el seguimiento de una alimentación sana y la práctica de actividad física, dirigidas a lograr estilos de vida saludables. Asimismo, establecer estrategias y medidas que tiendan a desmotivas el consumo de alimentos con bajo o nulo valor nutricional, así como prohibir la venta de estos productos en los aspectos de las instituciones de nivel básico.
+XXII. Establecer una efectiva y estrecha coordinación con la Secretaría de Salud y demás autoridades competentes, con el fin de promover programas y acciones que fomenten en los maestros, padres de familia, encargados de cooperativas escolares y especialmente en los educandos el seguimiento de una alimentación sana y la práctica de actividad física, dirigidas a lograr estilos de vida saludables. Asimismo, establecer estrategias y medidas que tiendan a desmotivar el consumo de alimentos con bajo o nulo valor nutricional, así como prohibir la venta de estos productos en los espacios de las instituciones de nivel básico; y
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
+
+XXIII. Diseñar e implementar programas de prevención, detección y atención de casos de violencia y acoso escolar en cualquiera de sus manifestaciones.
 
 ###### ARTÍCULO 15.
 
@@ -717,11 +721,37 @@ El gobierno del estado promoverá, en los tiempos reglamentarios que obliga a lo
 
 Además, en apoyo de la educación extraescolar, promoverá la edición de libros y revistas, la celebración de ferias regionales, y, en general, estimulará todo tipo de actividades que enriquezcan la cultura y eleven los niveles de información de la población del Estado.
 
-### CAPÍTULO I. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE JULIO DE 2013)</small>
+
+### CAPÍTULO XVI. DE LA VIOLENCIA Y EL ACOSO ESCOLAR
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+ARTÍCULO 82 BIS.- El objetivo de este capítulo será la protección contra la violencia y el acoso escolar entre los estudiantes de las escuelas públicas y privadas.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+ARTÍCULO 82 BIS A.- La violencia y el acoso escolar serán considerados como indisciplinas, sobre las cuales la Secretaría de Educación Pública y Cultura habrá de dictar las medidas necesarias para su prevención y erradicación, sin menoscabo de la aplicación de otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+ARTÍCULO 82 BIS B.- Para efectos de este capítulo, se entiende por violencia o acoso escolar, el hostigamiento e intimidación entre estudiantes.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+ARTÍCULO 82 BIS C.- La violencia y el acoso escolar se pueden presentar de manera física, verbal, psicológica, de exclusión social, sexual y cibernético.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+ARTÍCULO 82 BIS D.- Los maestros y directores tienen la obligación de remitir ante el nivel educativo que corresponda de la Secretaría de Educación Pública y Cultura, los casos de violencia y acoso escolar que se presenten en un centro educativo.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+ARTÍCULO 82 BIS E.- Cuando la causa del problema requiera la colaboración de los involucrados, alumnos, maestros, directores y padres de familia y éstos no asuman el rol que les corresponde, se turnará el caso a la supervisión, jefatura de sector o área del nivel de la Secretaría de Educación Pública y Cultura, según corresponda, o en su caso a las instancias competentes.
 
 ## TÍTULO CUARTO. DEL PROCESO EDUCATIVO
 
-### CAPÍTULO II. DE LA EVALUACIÓN EDUCATIVA
+### CAPÍTULO I. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
 
 ###### ARTÍCULO 83.
 
@@ -747,7 +777,7 @@ Los planes de estudio y programas oficiales, para cada uno de los tipos y nivele
 
 Los planes de estudio, programas, métodos de enseñanza e instrumentos de evaluación se adecuarán de conformidad con los requerimientos estipulados en el artículo 9º de esta Ley, y tenderán, además, que cualquiera que sea el nivel educativo en que el alumno suspenda sus estudios, pueda incorporarse y ser útil a la sociedad.
 
-### CAPÍTULO III. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACIÓN DE LOS CONOCIMIENTOS
+### CAPÍTULO II. DE LA EVALUACIÓN EDUCATIVA
 
 ###### ARTÍCULO 87.
 
@@ -777,7 +807,7 @@ Las instituciones educativas establecidas por los gobiernos estatal y municipale
 
 Las autoridades educativas darán a conocer a los maestros, alumnos, padres de familia, Consejos de Participación Social y a la sociedad en general, los resultados de las evaluaciones que realicen, así como las estadísticas que permitan medir el desarrollo y los avances de la educación en toda la entidad.
 
-### CAPÍTULO I. DE LOS PADRES DE FAMILIA
+### CAPÍTULO III. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACIÓN DE LOS CONOCIMIENTOS
 
 ###### ARTÍCULO 91.
 
@@ -803,7 +833,7 @@ El Estado podrá establecer un sistema de acreditación dirigido a quienes demue
 
 ## TÍTULO QUINTO. DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
 
-### CAPÍTULO II. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
+### CAPÍTULO I. DE LOS PADRES DE FAMILIA
 
 ###### ARTÍCULO 96.
 
@@ -853,7 +883,7 @@ Las asociaciones de padres de familia se abstendrán de intervenir en los aspect
 
 La organización y funcionamiento de las asociaciones de padres de familia, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares, se sujetarán a las disposiciones que la autoridad educativa federal señale, de conformidad con la Ley General de Educación.
 
-### CAPÍTULO I. DE LAS COMISIONES ESTATALES EDUCATIVAS
+### CAPÍTULO II. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
 
 ###### ARTÍCULO 101.
 
@@ -951,7 +981,7 @@ Los consejos de participación social a que se refiere este capítulo se abstend
 
 ## TÍTULO SEXTO. DE LA COORDINACIÓN INTERINSTITUCIONAL
 
-### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO I. DE LAS COMISIONES ESTATALES EDUCATIVAS
 
 ###### ARTÍCULO 107.
 
@@ -983,7 +1013,7 @@ II. Recomendar propuestas de solución, en su ámbito de competencia, en relaci�
 
 ## TÍTULO SÉPTIMO. DE LAS SANCIONES Y RECURSOS ADMINISTRATIVOS
 
-### CAPÍTULO II. DEL RECURSO ADMINISTRATIVO DE REVISIÓN
+### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTÍCULO 109.
 
@@ -1068,6 +1098,8 @@ La negativa o revocación del acuerdo otorgado a particulares para impartir educ
 La revocación de la autorización o el retiro del reconocimiento de validez oficial impedirá la continuación del servicio educativo. Los estudios realizados durante la vigencia del acuerdo mantendrán su validez oficial.
 
 En los dos casos anteriores, la autoridad educativa estatal adoptará las medidas necesarias para evitar perjuicios a los educandos.
+
+### CAPÍTULO II. DEL RECURSO ADMINISTRATIVO DE REVISIÓN
 
 ###### ARTÍCULO 114.
 
@@ -1195,7 +1227,7 @@ El Secretario de Educación Pública y Cultura.
 
 J. Antonio Malacón Díaz.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE OCTUBRE DE 2006.
 
@@ -1212,3 +1244,13 @@ P.O. 27 DE AGOSTO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del plazo de 120 días posteriores a la publicación del presente Decreto, el Poder Ejecutivo del Estado deberá realizar las modificaciones reglamentarias y las reasignaciones presupuestarias necesarias para la debida observancia del presente Decreto.
