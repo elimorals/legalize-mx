@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-07-12"
+last_updated: "2013-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -6819,7 +6819,7 @@ VII. Las demás previstas en la Norma Técnica respectiva y demás disposiciones
 
 #### SECCIÓN SEGUNDA. De la declaración de abandono y el procedimiento de enajenación
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2013)</small>
 
 ###### Articulo 7.
 
@@ -6927,7 +6927,7 @@ Los vehículos a que se refiere este Capítulo, no serán considerados como bien
 
 ###### Artículo 7.
 
-74.- Los vehículos asegurados y que fueron remitidos a los depósitos vehiculares que causen abandono por más de un año, aplican a favor del Estado.
+74.- Los vehículos asegurados y que fueron remitidos a los depósitos vehiculares que causen abandono por seis meses, aplican a favor del Estado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -6937,9 +6937,17 @@ Los vehículos a que se refiere este Capítulo, no serán considerados como bien
 
 75.- Se iniciará el procedimiento de declaración de abandono de los vehículos depositados, para su destrucción, cuando se presente alguno de los supuestos siguientes:
 
-I. Que haya transcurrido más de un año, de la fecha en que se hubiere depositado el vehículo, a excepción de aquellos que se encuentren en proceso judicial o administrativo pendiente de resolver, o que dictada la resolución o sentencia, ésta, no haya quedado firme, en cuyo caso el plazo referido, se computará a partir del momento en que cause ejecutoria dicha resolución;
+> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
 
-II. Que la autoridad competente haya ordenado la liberación y entrega del vehículo, por parte de la autoridad competente y haya transcurrido más de un año.
+I. Cuando hayan transcurrido seis meses, de la fecha en que se hubiere depositado el vehículo, a excepción de aquellos que se encuentren en proceso judicial o administrativo pendiente de resolver, o que dictada la resolución o sentencia, ésta, no haya quedado firme, en cuyo caso el plazo referido, se computará a partir del momento en que cause ejecutoria dicha resolución.
+
+> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
+
+II. Que la autoridad competente haya ordenado la liberación y entrega del vehículo, por parte de la autoridad competente y hayan transcurrido seis meses.
+
+> <small>(ADICIONADO, G.G. 17 DE JULIO DE 2013)</small>
+
+La Secretaría al expedir las tarifas para los servicios que presten los corralones, podrá establecer programas de condonación a quienes paguen dentro del plazo de quince días hábiles, una vez ordenada la liberación por la autoridad competente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7371,11 +7379,13 @@ En caso de reincidencia, el conductor, deberá inscribirse en alguno de los prog
 
 El Oficial Calificador, será la autoridad encargada para determinar la temporalidad del arresto, de acuerdo a la concentración de alcohol que reporten los elementos medico-científicos y cuando viajen menores de doce años;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
 
-> <small>(ADICIONADA, G.G. 25 DE FEBRERO DE 2013)</small>
+III. Con multa de 50 a 100 días de salario mínimo vigente y el pago de los derechos correspondientes al arrastre, a quien infrinja lo dispuesto en el artículo 8.19 Quáter.
 
-III. En materia de estacionamientos, la multa se calculará multiplicando el número de rango o cajones por la tarifa al usuario.
+> <small>(ADICIONADA, G.G. 17 DE JULIO DE 2013)</small>
+
+IV. En materia de estacionamientos, la multa se calculará multiplicando el número de rango o cajones por la tarifa al usuario.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -7444,6 +7454,16 @@ V. Informar de inmediato a la Secretaría de Transporte del Estado de México, d
 VI. Remitir al depósito más cercano el vehículo para su resguardo.
 
 Para el caso de que el conductor vaya acompañado de algún familiar o persona sobria y disponga de la debida licencia de conducir, se le entregará a ella el vehículo, dejando constancia de ello.
+
+> <small>(ADICIONADO, G.G. 17 DE JULIO DE 2013)</small>
+
+###### Artículo 8.
+
+19 Quáter.- Se prohíbe el abandono de vehículos en la infraestructura vial.
+
+Corresponde a la Secretaría de Seguridad Ciudadana el retiro de los vehículos que evidentemente o notoriamente se encuentren abandonados en la infraestructura vial, debiendo de remitirlos al depósito vehicular más cercano. Entendiéndose por esto, a los vehículos que por sus características o condiciones físicas en las que se encuentren, han permanecido en ese lugar
+
+Los vehículos que hayan sido remitidos al depósito vehicular con reporte de abandono y actualizados los supuestos correspondientes a que hace referencia el Libro Séptimo del Código Administrativo del Estado de México, serán sujetos del procedimiento de "la declaratoria de abandono y el procedimiento de enajenación".
 
 ###### Artículo 8.
 
@@ -10095,7 +10115,11 @@ XVI. Nombrar y remover al personal del IGECEM;
 
 XVII. Fungir o designar al secretario técnico de los comités sectoriales, regionales y municipales;
 
-XVIII. Las demás que le confieran otros ordenamientos.
+> <small>(ADICIONADA, G.G. 17 DE JULIO DE 2013)</small>
+
+XVIII. Emitir el documento que acredite la inscripción en el Registro Estatal de Especialistas en Valuación Inmobiliaria y en Levantamiento Topográfico Catastral;
+
+XIX. Las demás que le confieran otros ordenamientos.
 
 Para el cumplimiento de estas atribuciones el Director General del IGECEM contará con las unidades administrativas necesarias en las materias de administración, planeación, informática, geografía, estadística, catastro y servicios de información.
 
@@ -10505,7 +10529,11 @@ XVII. Regir, autorizar y supervisar la ejecución de las actividades de su compe
 
 XVIII. Difundir y prestar el servicio público de información;
 
-XIX. Las demás que conforme a este Libro le correspondan y las que fueren necesarias para ejercer las mencionadas anteriormente.
+> <small>(ADICIONADA, G.G. 17 DE JULIO DE 2013)</small>
+
+XIX. Integrar, organizar, vigilar y actualizar el Registro Estatal de Especialistas en Valuación Inmobiliaria y en Levantamiento Topográfico Catastral;
+
+XX. Las demás que conforme a este Libro le correspondan y las que fueren necesarias para ejercer las mencionadas anteriormente.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -15607,7 +15635,7 @@ CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan
 
 G.G. 3 DE MAYO DE 2013.
 
-DECRETO No. 80 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO TRANSITORIO DÉCIMO DEL DECRETO NÚMERO 394, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO", DE FECHA 16 DE DICIEMBRE DE 2011, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y REFORMADO MEDIANTE DECRETO NUMERO 10, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO", DE FECHA 26 DE OCTUBRE DE 2012.
+DECRETO No. 80 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO TRANSITORIO DÉCIMO DEL DECRETO NÚMERO 394, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO”, DE FECHA 16 DE DICIEMBRE DE 2011, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y REFORMADO MEDIANTE DECRETO NUMERO 10, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO”, DE FECHA 26 DE OCTUBRE DE 2012.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
@@ -15666,3 +15694,23 @@ G.G. 12 DE JULIO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 17 DE JULIO DE 2013.
+
+DECRETO No. 103 POR EL QUE SE REFORMAN LOS ARTÍCULOS 7.74, 7.75 EN SUS FRACCIONES I Y II Y 8.18 EN SU FRACCIÓN III Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7.75, LA FRACCIÓN IV AL ARTÍCULO 8.18 Y EL ARTÍCULO 8.19 QUÁTER DEL CÓDIGO ADMINISTRATIVO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Titular del Ejecutivo del Estado, proveerá en la esfera administrativa, la exacta observancia del presente Decreto, adecuando al efecto las disposiciones reglamentarias correspondientes.
+
+G.G. 17 DE JULIO DE 2013.
+
+DECRETO No. 104 POR EL QUE SE ADICIONAN LA FRACCIÓN XVIII RECORRIÉNDOSE LA ACTUAL XVIII PARA SER XIX AL ARTÍCULO 14.8 Y LA FRACCIÓN XIX RECORRIÉNDOSE LA ACTUAL XIX PARA SER XX AL ARTÍCULO 14.45 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La reforma a la fracción IV del artículo 169 del Código Financiero del Estado de México y Municipios, entrará en vigor el día 1 de enero de 2014.
