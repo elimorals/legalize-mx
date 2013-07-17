@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-penales-para-el-estado-libre-y-80238"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-02-21"
-last_updated: "2013-05-22"
+last_updated: "2013-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 21 de febrero de 2011.
 
@@ -3947,6 +3947,10 @@ Registro de establecimientos públicos.
 
 ARTÍCULO 303 QUINQUIES.- Para el registro de oficinas públicas, locales públicos, establecimientos militares, templos o sitios religiosos, establecimientos de reunión o de recreo, talleres, lugares de depósito de chatarra vehicular o autopartes, así como de locales de venta de vehículos, mientras estén abiertos al público y no estén destinados para habitación o se traten de áreas privadas o de acceso restringido, podrá prescindirse de la orden judicial, con el consentimiento expreso y libre de las personas a cuyo cargo estuvieren los locales. Si ello fuere perjudicial para el resultado procurado con el acto, se requerirá el consentimiento al superior jerárquico en el servicio o al titular del derecho de exclusión. De no ser otorgado el consentimiento o no ser posible recabarlo, el Ministerio Público solicitará la orden de cateo correspondiente.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+Cuando existan indicios de que las prendas a disposición de las casas de empeño son provenientes de la comisión de delitos, el Ministerio Público podrá ordenar su verificación y en su caso, el registro de los inmuebles del establecimiento.
+
 Quien haya prestado el consentimiento será invitado a presenciar el acto.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
@@ -4046,6 +4050,10 @@ Al aseguramiento se le aplicarán las disposiciones señaladas para la inspecci�
 Podrá disponerse la obtención de copias o reproducciones de los objetos asegurados, cuando éstos puedan desaparecer o alterarse, sean de difícil custodia o cuando convenga así para la investigación.
 
 Para el aseguramiento de bienes inmuebles se deberá hacer la inscripción respectiva en el Registro Público de la Propiedad correspondiente, siguiendo el procedimiento señalado para el embargo.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+Cuando existan indicios de que las prendas a disposición de las casas de empeño son provenientes de la comisión de delitos, el Ministerio Público podrá ordenar su aseguramiento y sólo en caso de no entorpecer la investigación podrán quedar en calidad de depósito en la casa de empeño.
 
 Objetos no asegurables.
 
@@ -7038,3 +7046,9 @@ P.O. 22 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
