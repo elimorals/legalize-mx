@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-becas-de-la-universidad-politecnica-del-61742"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-25"
-last_updated: "2009-06-17"
+last_updated: "2013-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE BECAS DE LA UNIVERSIDAD POLITECNICA DEL ESTADO DE MORELOS
 
-REGLAMENTO DE BECAS DE LA UNIVERSIDAD POLITECNICA DEL ESTADO DE MORELOS
+REGLAMENTO DE BECAS DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE BECAS DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 17 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de junio de 2008.
 
@@ -602,3 +604,9 @@ RÚBRICAS.
 P.O. 17 DE JUNIO DE 2009.
 
 ÚNICO. Las modificaciones al presente Reglamento entrará (sic) en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 17 DE JULIO DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDO.- Se abroga el Reglamento de Becas publicado en el Periódico Oficial "Tierra y Libertad" número 4622 con fecha 25 de junio de 2008, asi como sus modificaciones publicadas en el Periódico Oficial "Tierra y Libertad" número 4717 de fecha 17 de junio de 2009.
