@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2013-04-15"
+last_updated: "2013-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -433,9 +433,13 @@ VII. No haber sido inhabilitado ni destituido por resolución firme como servido
 
 VIII. Acreditar la prestación del Servicio Militar Nacional, en el caso de personas del sexo masculino;
 
-IX. Contar con el registro y certificación que emita el Centro Estatal; y,
+IX. Contar con el registro y certificación que emita el Centro Estatal; y, (sic)
 
-X. Los demás que exijan esta Ley y su Reglamento, u otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
+
+X. Aprobar los cursos de capacitación en materia de derechos humanos; y,
+
+XI. Los demás que exijan esta Ley y su Reglamento, u otras disposiciones aplicables.
 
 ###### Artículo 29.
 
@@ -463,7 +467,9 @@ b. Tratándose de aspirantes a las áreas de prevención, enseñanza media super
 
 c. En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
 
-V. Aprobar el concurso de ingreso y los cursos de formación;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
+
+V. Aprobar el concurso de ingreso, los cursos de formación y la capacitación en derechos humanos;
 
 VI. Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
 
@@ -497,7 +503,9 @@ b. Tratándose de integrantes de las áreas de prevención, enseñanza media sup
 
 c. En caso de integrantes de las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
 
-V. Aprobar los cursos de formación, capacitación y profesionalización;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
+
+V. Aprobar los cursos de formación, capacitación y profesionalización. La capacitación en derechos humanos, deberá ser actualizada anualmente;
 
 VI. Aprobar los procesos y exámenes de evaluación y control de confianza;
 
@@ -3053,23 +3061,27 @@ El Instituto Estatal de Ciencias Penales y Seguridad Pública tendrá obligadame
 
 I. Formar profesionales en seguridad pública, aptos para la aplicación de conocimientos y el razonamiento crítico en la toma de decisiones, con un sentido de innovación en la incorporación de los avances científicos y tecnológicos;
 
-II. Inculcar en los alumnos los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Federal; haciendo especial énfasis en los procedimientos y estrategias para combatir la corrupción;
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
 
-III. Desarrollar estudios y diseñar proyectos en las áreas de su competencia, que se traduzcan en aportaciones concretas que contribuyan al mejoramiento de la seguridad pública;
+II. Desarrollar programas de capacitación en materia de derechos humanos;
 
-IV. Desarrollar programas de vinculación con los sectores público, social, académico y privado para la ejecución de acciones en materia de profesionalización en seguridad pública, de acuerdo con lo establecido en esta Ley y de las demás, que por la naturaleza de los actos, resulten aplicables;
+III. Inculcar en los alumnos los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Federal; haciendo especial énfasis en los procedimientos y estrategias para combatir la corrupción;
 
-V. Fomentar actividades académicas, de manera independiente o en coordinación con otras instituciones públicas o privadas, sobre aspectos relacionados con el objeto y fines de esta Ley;
+IV. Desarrollar estudios y diseñar proyectos en las áreas de su competencia, que se traduzcan en aportaciones concretas que contribuyan al mejoramiento de la seguridad pública;
 
-VI. Fomentar y estimular la creación, difusión e investigación de técnicas policiales en sus diferentes acepciones;
+V. Desarrollar programas de vinculación con los sectores público, social, académico y privado para la ejecución de acciones en materia de profesionalización en seguridad pública, de acuerdo con lo establecido en esta Ley y de las demás, que por la naturaleza de los actos, resulten aplicables;
 
-VII. Formular planes de estudio, programas, textos, métodos y sistemas de enseñanza en las áreas educativas y niveles que imparta;
+VI. Fomentar actividades académicas, de manera independiente o en coordinación con otras instituciones públicas o privadas, sobre aspectos relacionados con el objeto y fines de esta Ley;
 
-VIII. Planear e impulsar la enseñanza policial en todas sus manifestaciones técnico-científica, inculcando el espíritu de servicio y respeto permanente al orden legal vigente, a la sociedad y sus valores, así como al estricto sentido de disciplina, responsabilidad, honestidad, rectitud y lealtad institucional;
+VII. Fomentar y estimular la creación, difusión e investigación de técnicas policiales en sus diferentes acepciones;
 
-IX. Expedir constancias, diplomas, reconocimientos, certificados y títulos de los estudios que se cursen en el Instituto; y,
+VIII. Formular planes de estudio, programas, textos, métodos y sistemas de enseñanza en las áreas educativas y niveles que imparta;
 
-X. Las demás que sean necesarias para la realización de sus atribuciones.
+IX. Planear e impulsar la enseñanza policial en todas sus manifestaciones técnico-científica, inculcando el espíritu de servicio y respeto permanente al orden legal vigente, a la sociedad y sus valores, así como al estricto sentido de disciplina, responsabilidad, honestidad, rectitud y lealtad institucional;
+
+X. Expedir constancias, diplomas, reconocimientos, certificados y títulos de los estudios que se cursen en el Instituto; y,
+
+XI. Las demás que sean necesarias para la realización de sus atribuciones.
 
 ###### Artículo 241.
 
@@ -3358,3 +3370,7 @@ P.O. 15 DE ABRIL DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+P.O. 17 DE JULIO DE 2013.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
