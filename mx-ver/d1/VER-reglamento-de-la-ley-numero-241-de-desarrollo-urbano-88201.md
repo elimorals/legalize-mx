@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-numero-241-de-desarrollo-urbano-88201"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-07"
-last_updated: "2012-11-05"
+last_updated: "2013-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ REGLAMENTO DE LA LEY NÚMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL 
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 5 DE OCTUBRE DE 2012.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 17 DE JULIO DE 2013.</small>
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 7 de mayo de 2012.
 
@@ -1763,13 +1763,13 @@ La subdivisión reiterada de un mismo predio para generar desarrollos habitacion
 
 También se eximirá del referido dictamen preferentemente a solicitudes de licencias de uso de suelo realizadas ante las dependencias de los órganos de gobierno Federal, Estatal, Municipal por parte de organizaciones públicas y sociales debidamente constituidas, para ocupar predios en cualquier lugar del Estado, o cuando se quiera conocer la vocación de un predio ubicado fuera del área de aplicación de los Programas de Desarrollo Urbano y Ordenamiento Territorial en vigor.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JULIO DE 2012 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 150.
 
 Procede la elaboración del Dictamen de Factibilidad Regional Sustentable en los siguientes casos:
 
-I. En desarrollos comerciales, portuarios, turísticos, recreativos, deportivos e industriales, y en general, cualquier otro que contenga uso distinto al habitacional, siempre que la superficie del predio sea mayor de 1,000 metros cuadrados. En superficies menores, aunque el uso persista, la licencia de uso de suelo se podrá emitir por la autoridad competente sin necesidad de contar con el dictamen correspondiente.
+> <small>(F. DE E., P.O. 17 DE JULIO DE 2013)</small>
+
+I. En desarrollos comerciales, portuarios, turísticos, recreativos, deportivos e industriales, y en general, cualquier otro que contenga uso distinto al habitacional, siempre que la superficie del predio sea mayor de 2,000 metros cuadrados. En superficies menores, aunque el uso persista, la licencia de uso de suelo se podrá emitir por la autoridad competente sin necesidad de contar con el dictamen correspondiente.
 
 II. Todas las instalaciones que por su naturaleza representen riesgo a la población, ya sea por el almacenamiento, transferencia, expendio o destrucción de sustancias peligrosas, en forma independiente de la superficie del predio en que se lleve a cabo la actividad.
 
