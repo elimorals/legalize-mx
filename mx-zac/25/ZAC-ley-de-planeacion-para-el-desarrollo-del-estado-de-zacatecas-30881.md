@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-planeacion-para-el-desarrollo-del-estado-de-zacatecas-30
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-07"
-last_updated: "2003-05-07"
+last_updated: "2013-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE ZACATECAS
 
-LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE ZACATECAS
+LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 7 de mayo de 2003.
 
@@ -57,9 +57,11 @@ III. Las bases para que el Ejecutivo del Estado coordine sus actividades de plan
 
 IV. Las bases para promover y garantizar la participación democrática de los particulares y las organizaciones representativas puedan participar activa y responsablemente en la formulación, ejecución y evaluación de los planes y programas de desarrollo a que se refiere esta ley;
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 2.
 
-La planeación se llevará a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado sobre el desarrollo integral que beneficie a sus habitantes y que permita la consolidación democrática como sistema de vida, sustentado en el constante mejoramiento económico, social y cultural, contenidos en la Constitución Política del Estado.
+La planeación se llevará acabo como un medio para el eficaz desempeño de la responsabilidad del Estado sobre el desarrollo integral y sustentable de la entidad, que beneficie a sus habitantes y que permita la consolidación democrática como sistema de vida, sustentada en el constante mejoramiento económico, social, cultural, de protección al ambiente y aprovechamiento racional de los recursos naturales, contenidos en la Constitución Política del Estado.
 
 ###### Artículo 3.
 
@@ -105,9 +107,11 @@ Las acciones que en materia de planeación se lleven a cabo para la consulta o e
 
 ### CAPÍTULO SEGUNDO. DE LA PLANEACIÓN Y SUS VERTIENTES
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 8.
 
-Para los efectos de la presente Ley, se entiende por planeación del desarrollo, el conjunto de acciones tendientes a promover, coordinar, concertar y orientar la actividad económica y social al aprovechamiento de los recursos y potencialidades de la Entidad en beneficio de su población.
+Para los efectos de la presente ley, se entiende por planeación del desarrollo, la organización racional y sistemática del conjunto de acciones tendientes a promover; coordinar, concertar y orientar la actividad económica, social, política, cultural, de protección al ambiente y aprovechamiento racional de los recursos naturales, para transformar la realidad de la entidad en beneficio de su población.
 
 ###### Artículo 9.
 
@@ -201,7 +205,9 @@ I. Coordinar las acciones de la planeación del desarrollo a nivel estatal;
 
 II. Dar seguimiento a las acciones derivadas de las políticas y directrices del Titular del Poder Ejecutivo en materia de planeación;
 
-III. Aprobar el PED, así como los programas regionales y sectoriales con la participación de los diversos sectores de la sociedad y las dependencias y entidades de la administración pública;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
+
+III. Elaborar el PED, así como los programas regionales y sectoriales con la participación de los diversos sectores de la sociedad y las dependencias y entidades de la administración pública;
 
 IV. Llevar el seguimiento y evaluación del PED y sus programas;
 
@@ -231,7 +237,9 @@ I. Asamblea General, en la que estarán presentes representantes de todos los ó
 
 a) Dictar las políticas y directrices en materia de planeación;
 
-b) Aprobar el PED, sus modificaciones y adecuaciones;
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
+
+b). Elaborar el PED, sus modificaciones y adecuaciones;
 
 c) Evaluar el alcance obtenido por los programas operativos anuales, regionales, sectoriales y especiales;
 
@@ -429,9 +437,11 @@ VII. Los COPLADER; y
 
 VIII. Los COPLADEMUN.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 34.
 
-Al Gobernador del Estado corresponde el ejercicio de las siguientes atribuciones:
+Al Gobernador del Estado corresponde el ejercicio de las atribuciones siguientes:
 
 I. Conducir el SIPLADEZ, auxiliándose para tal efecto de las dependencias y entidades de la administración pública estatal y de los órganos que constituyen el Sistema de Planeación, en los términos de la presente ley;
 
@@ -439,23 +449,63 @@ II. Presidir por sí, o a través de un representante que designe para tal efect
 
 III. Conducir las acciones derivadas del SIPLADEZ y ordenar a las dependencias y entidades de la administración pública estatal el estricto cumplimiento de los programas y prioridades que se definan a través de los mecanismos establecidos por el propio sistema y la consulta popular;
 
-IV. Celebrar convenios de coordinación con la Federación y los municipios; así mismo de concertación con la sociedad para impulsar el desarrollo;
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
 
-V. Vigilar que el gasto público se oriente a atender las obras y servicios de mayor beneficio colectivo y hacia los sectores más desprotegidos de la sociedad; y
+IV. Remitir a la Legislatura del Estado, el Plan Estatal de Desarrollo para su análisis y aprobación;
 
-VI. Realizar visitas de trabajo a los municipios con el objetivo de impulsar programas que propicien su desarrollo integral.
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
+
+V. Remitir a la Legislatura del Estado, a más tardar el 15 de febrero de cada año, el informe de las acciones y resultados de la ejecución del Plan Estatal de Desarrollo así como los programas que se deriven del mismo, para su análisis y aprobación;
+
+Asimismo el contenido de la Cuenta Pública de cada ejercicio fiscal anual, deberá relacionarse, en lo conducente, con la información que se señala en el párrafo anterior;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
+
+VI. Informar a la Legislatura, al momento de presentar las iniciativas de Ley de Ingresos y Presupuesto de Egresos, los objetivos y prioridades fijados en el Programa Operativo Anual y los programas regionales, sectoriales y especiales, derivados del Plan Estatal de Desarrollo que se implementarán en el siguiente ejercicio fiscal;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
+
+VII. Informar a la Legislatura la integración de los Consejos Ciudadanos Sectoriales y Sub-comités sectoriales así como los Consejos por cada Programa Operativo Anual, dentro de los treinta días siguientes a su constitución;
+
+VIII. Celebrar convenios de coordinación con la Federación y los municipios; así mismo de concertación con la sociedad para impulsar el desarrollo;
+
+IX. Vigilar que el gasto público se oriente a atender las obras y servicios de mayor beneficio colectivo y hacia los sectores más desprotegidos de la sociedad; y
+
+X. Realizar visitas de trabajo a los municipios con el objetivo de impulsar programas que propicien su desarrollo integral.
 
 ###### Artículo 35.
 
 La Legislatura del Estado tendrá las siguientes atribuciones:
 
-I. Expedir las normas que regulen el proceso de planeación del desarrollo y la participación de los sectores social y privado en la formulación, ejecución y seguimiento de los planes y programas;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
 
-II. Participar en el COPLADEZ a través de la Comisión Legislativa que designe el propio Poder Legislativo, en base a lo que su propia Ley Orgánica defina en lo que corresponde a la materia de planeación para el desarrollo en el Estado.
+I. Expedir las normas que regulen el proceso de planeación del desarrollo en el Estado y la participación de los sectores social y privado en la formulación, ejecución y seguimiento de los planes y programas;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
+
+II. Analizar y aprobar el Plan Estatal de Desarrollo que presente el Titular del Poder Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
+
+III. Analizar y aprobar, el informe de las acciones y resultados de la ejecución del Plan Estatal de Desarrollo y los programas que se deriven del mismo, en los términos establecidos en la Ley de Fiscalización Superior para el Estado de Zacatecas.
+
+Asimismo el contenido de la Cuenta Pública anual, deberá relacionarse, en lo conducente, con el informe que se señala en el párrafo anterior, a fin de analizar y resolver si los objetivos de la Planeación Estatal fue prioritaria en el ejercicio del gasto público;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
+
+IV. Analizar y resolver si la Ley de Ingresos y Presupuesto de Egresos se presentan con sujeción a los objetivos y prioridades de la Planeación Estatal del Desarrollo;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
+
+V. Vigilar que el Poder Ejecutivo integre los Consejos Ciudadanos Sectoriales y Sub-comités Sectoriales así como los Consejos por cada Programa Operativo Anual, durante el mes de enero de cada año, y
+
+VI. Participar en el COPLADEZ a través de la Comisión Legislativa que designe el propio Poder Legislativo, en base a lo que su propia Ley Orgánica defina en lo que corresponde a la materia de planeación para el desarrollo en el Estado.
+
+> <small>(REFORMADO PRIMERO PÁRRAFO, P.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 36.
 
-Corresponde a la SEPLADER:
+Corresponde a la SEDESOL:
 
 I. Normar y coordinar el proceso de planeación para el desarrollo del Estado;
 
@@ -465,7 +515,9 @@ III. Coordinar, apoyar y asesorar la instrumentación de actividades de los COPL
 
 IV. Apoyar y asesorar a los sistemas municipales de planeación, cuando así lo soliciten;
 
-V. Elaborar el PED y los programas regionales, así como coordinar la elaboración de los programas sectoriales, institucionales y especiales considerando el PND;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
+
+V. Diseñar el PED y los programas regionales, así como coordinar la elaboración de los programas sectoriales, institucionales y especiales considerados en el PND;
 
 VI. Establecer los lineamientos, validar e integrar los programas operativos anuales de las dependencias y entidades del Poder Ejecutivo, los regionales, sectoriales y especiales;
 
@@ -513,15 +565,25 @@ b) Programas Operativos Anuales; y
 
 c) Programas Especiales.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
+
 ###### Artículo 40.
 
-El PED será el documento rector del proceso de planeación, ejecución y evaluación de las acciones gubernamentales y contendrá políticas y directrices para orientar este proceso a nivel estatal, regional y municipal. Los ayuntamientos formularán sus planes y programas en congruencia con el PED.
+El PED será el instrumento rector del proceso de planeación, ejecución y evaluación de las acciones gubernamentales y normará el ejercicio de la administración del Poder Ejecutivo; en el mismo se establecerán las prioridades, directrices, objetivos, metas, estrategias, lineamientos y políticas para impulsar el desarrollo integral y sustentable en el Estado y sus municipios.
+
+Asimismo establecerá las previsiones sobre los recursos que serán asignados a tales fines y determinará los mecanismos y responsables para su ejecución.
+
+Los Ayuntamientos formularán y aprobarán sus planes y programas en congruencia con el PED.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 41.
 
-El PED es el instrumento que normará el ejercicio de la administración del Poder Ejecutivo, deberá aprobarse por la Asamblea General del COPLADEZ en un término no mayor de cuatro meses contados a partir de la toma de posesión del Gobernador del Estado en turno. Su vigencia estará limitada al periodo constitucional que le corresponda, aún cuando su contenido podrá considerar una visión de largo plazo.
+El PED será presentado a la Legislatura del Estado, a más tardar en un término no mayor de dos meses a partir de la toma de posesión del Gobernador o Gobernadora del Estado en turno, mismo que deberá ser aprobado dentro de los 30 días siguientes a su presentación.
 
-Para su vigencia deberá ser publicado en el Periódico Oficial, Organo del Gobierno del Estado.
+Su vigencia no excederá del período constitucional que le corresponda, aunque podrá contener consideraciones y proyecciones de más largo plazo.
+
+El PED deberá ser publicado, para el inicio de su vigencia, en el Periódico Oficial, Órgano de Gobierno del Estado, durante el mes de enero.
 
 ###### Artículo 42.
 
@@ -529,7 +591,9 @@ El PED considerará por lo menos las siguientes fases:
 
 I. Diagnóstico Integral: Mediante el cual se establezca un escenario de la estructura social y económica del Estado, identificando sus debilidades, fortalezas, oportunidades de desarrollo, así como los aspectos cualitativos y cuantitativos que identifican el nivel de desarrollo de la Entidad;
 
-II. Principios rectores, objetivos y líneas estratégicas de carácter regional; y
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
+
+II. Principios rectores, objetivos, metas, estrategias, lineamiento y políticas para impulsar el desarrollo estatal, regional y metropolitano; y
 
 III. Mecanismos para el control, seguimiento y evaluación en su ejecución y los medios que permitan conocer periódicamente los resultados obtenidos para impulsar las modificaciones y adecuaciones para su cabal consecución.
 
@@ -706,3 +770,11 @@ DR. RICARDO MONREAL AVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. TOMAS TORRES MERCADO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS.</small>
+
+P.O. 17 DE JULIO DE 2013.
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que contravengan al presente decreto.
