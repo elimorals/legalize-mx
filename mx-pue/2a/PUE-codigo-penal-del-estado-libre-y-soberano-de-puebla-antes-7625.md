@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2013-05-22"
+last_updated: "2013-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2735,7 +2735,7 @@ A los ingenieros, arquitectos, agrónomos, veterinarios, maestros de obras y, en
 
 #### SECCIÓN CUARTA.- FALSEDAD EN DECLARACIONES E INFORMES DADOS A UNA AUTORIDAD
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 245.
 
@@ -2897,9 +2897,13 @@ II.- La falsificación sirva como medio para el comercio de vehículos robados o
 
 ###### Artículo 254.
 
-Quien al declarar ante cualquier autoridad en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad en relación con los hechos que motivan la intervención de ésta, será sancionado de seis meses a cinco años de prisión y multa de diez mil quinientos días de salario.
+Serán sancionados con seis meses a cinco años de prisión y multa de cien a mil quinientos días de salario:
 
-La misma pena se impondrá al que siendo autoridad, rinda informes en los que afirme una falsedad o niegue u oculte la verdad, en todo o en parte.
+I. Quien al declarar ante cualquier autoridad en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad en relación con los hechos que motivan la intervención de ésta;
+
+II. Quien siendo autoridad, rinda informes en los que afirme una falsedad o niegue u oculte la verdad, en todo o en parte; y
+
+III. Quien siendo directivo o representante legal de casas de empeño, omita rendir el reporte mensual de los actos o hechos que estén relacionados con las operaciones que realizan, al que están obligados en términos de la Ley Federal de Protección al Consumidor, o que al rendirlo afirme hechos falsos u oculte la verdad, en todo o en parte.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -5832,3 +5836,9 @@ P.O. 22 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JULIO DE 2013
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
