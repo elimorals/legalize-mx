@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-republicano-ayuntamiento-de-15080"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-20"
-last_updated: "2012-11-23"
+last_updated: "2013-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de agosto de 1999.
 
@@ -1011,7 +1011,9 @@ g).- Elaborar, revisar y reformar en conjunto con la Comisión de Régimen Inter
 
 h).- Los que le sean encomendadas por el Ayuntamiento o por el Presidente Municipal.
 
-XVI.- DESARROLLO ECONÓMICO.- Corresponde a la Comisión de Desarrollo Económico, el conocimiento y despacho de los siguientes asuntos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2013)</small>
+
+XVI.- DESARROLLO ECONÓMICO, MEJORA REGULATORIA Y COMPETITIVIDAD.- Corresponde a la Comisión de Desarrollo Económico, Mejora Regulatoria y Competitividad, el conocimiento y despacho de los siguientes asuntos:
 
 a).- Fomentar el desarrollo de las políticas económicas que tengan como finalidad la generación de empleos, el mejoramiento del nivel de ingresos de la comunidad y el fomento a la industria.
 
@@ -1031,7 +1033,45 @@ h).- Elaborar un control estadístico de los centros comerciales, restaurantes, 
 
 i).- Promover la fraternidad y la buena vecindad con otros Municipios del Estado de la Nación y a nivel Internacional.
 
-j).- Los que le sean encomendadas por el Ayuntamiento o por el Presidente Municipal.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE JULIO DE 2013)</small>
+
+j).- Promover y apoyar la realización del Programa Municipal de Mejora Regulatoria.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+k).- Vigilar que las diversas instancias municipales cumplan con el Programa de Mejora Regulatoria.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+l).- Promover e impulsar medidas de mejora regulatoria, desregulación, simplificación administrativa, desconcentración, descentralización, transparencia y cualesquier otra política pública de mejora administrativa municipal.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+m).- Formular anteproyectos, iniciativas o reformas al Reglamento de Mejora Regulatoria del Municipio.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+n).- Vigilar que los actos y procedimientos administrativos relacionados con trámites y servicios municipales sean expeditos, claros y transparentes.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+o).- Analizar las normas jurídicas y actos administrativos federales y estatales que tengan aplicación en el Municipio para su implementación.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+p).- Promover y sugerir adecuaciones a los trámites, servicios y actos administrativos para el logro de la Mejora Regulatoria.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+q).- Vigilar el manifiesto de impacto regulatorio a fin de garantizar el costo-beneficio de las medidas regulatorias para que las decisiones gubernamentales sean transparentes, racionales y eficaces.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+r).- Supervisar las resoluciones de las quejas presentadas por la ciudadanía en materia de trámites y servicios administrativos municipales.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+s).- Los que le sean encomendados por el Ayuntamiento o por el Presidente Municipal.
 
 XVII.- PATRIMONIO.- Corresponde a la Comisión de Patrimonio, el conocimiento y despacho de los siguientes asuntos:
 
@@ -1408,3 +1448,9 @@ PRIMERO.- Las reformas por modificación y adición al articulado del Reglamento
 SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por modificación y adición al Reglamento Interior del Republicano Ayuntamiento de Guadalupe, N.L.
 
 TERCERO.- Instrúyase al C. Secretario del Ayuntamiento para que remita a su publicación el presente Acuerdo en el Periódico Oficial del Estado, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 17 DE JULIO DE 2013.
+
+PRIMERO: La presente reforma al Reglamento Interior del Republicano Ayuntamiento de Guadalupe, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO: Gírese el presente al Presidente Municipal, para que instruya al Secretario de Ayuntamiento para que remita el acuerdo para su publicación en el Periódico Oficial del Estado de Nuevo León, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
