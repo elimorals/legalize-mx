@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2013-05-22"
+last_updated: "2013-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO DE FORMA GRADUAL POR LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, INICIANDO POR LA REGIÓN JUDICIAL QUE SE ESTABLEZCA EN LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO A PARTIR DEL 15 DE ENERO DE 2013 Y CONCLUYENDO EL 17 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -823,6 +823,10 @@ Tratándose de los indicios, huellas o vestigios del hecho delictuoso, el Minist
 
 En caso de no efectuar lo dispuesto en el artículo 65 Quater, el Ministerio Publico lo asentará en la averiguación previa y, en su caso, dará vista a las autoridades que resulten competentes para efectos de las responsabilidades a las que haya lugar.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+
+Cuando existan indicios de que las prendas a disposición de las casas de empeño son provenientes de la comisión de delitos, el Ministerio Público podrá ordenar respecto de ellas su verificación, peritajes y aseguramiento y sólo en caso de que ello no entorpezca la investigación podrán quedar en calidad de depósito en la casa de empeño.
+
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 65 Sexies.
@@ -1067,9 +1071,9 @@ T.- Falsificación de acciones, obligaciones y otros documentos de crédito púb
 
 U.- Falsificación de sellos, marcas y punzones, previsto en el artículo 248;
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
 
-V.- Falsificación de documentos en general, previsto en el artículo 253 Bis, y falsedad en declaraciones judiciales e informes dados a una autoridad, previsto en el artículo 254 fracción III cuando se encuentre en el supuesto previsto en el párrafo tercero;
+V.- Falsificación de documentos, previsto en el artículo 253 Bis primer párrafo y falsedad en declaraciones e informes dados a una autoridad, previsto en el artículo 255, fracción II cuando se encuentre en el supuesto previsto en el párrafo tercero;
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -4202,3 +4206,13 @@ P.O. 22 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
