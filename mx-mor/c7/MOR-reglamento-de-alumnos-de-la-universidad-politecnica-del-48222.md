@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-alumnos-de-la-universidad-politecnica-del-48222"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-18"
-last_updated: "2008-06-25"
+last_updated: "2013-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE ALUMNOS DE LA UNIVERSIDAD POLITECNICA DEL ESTADO DE MORELOS
 
-REGLAMENTO DE ALUMNOS DE LA UNIVERSIDAD POLITECNICA DEL ESTADO DE MORELOS
+REGLAMENTO DE ALUMNOS DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE ESTUDIOS DE PROFESIONAL ASOCIADO Y LICENCIATURA DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 17 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 18 de enero de 2006.
 
@@ -652,3 +654,9 @@ RÚBRICAS.
 P.O. 25 DE JUNIO DE 2008.
 
 ÚNICO. Las modificaciones al presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 17 DE JULIO DE 2013.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento de alumnos publicado en el Periódico Oficial "Tierra y Libertad" número 4435 de fecha 18 de enero de 2006, así como sus modificaciones publicadas en el Periódico Oficial "Tierra y Libertad" número 4622 de fecha 25 de junio de 2008.
