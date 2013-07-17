@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-ministerio-publico-del-estado-de-sinaloa-13078
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-11-16"
-last_updated: "2011-08-29"
+last_updated: "2013-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
 
-LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
+LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 16 de noviembre de 1998.
 
@@ -147,11 +147,15 @@ Velar por el respeto a los derechos humanos comprende:
 
 I. Promover entre los servidores públicos la cultura de respeto a los derechos humanos;
 
-II. Atender las visitas, quejas, propuestas de conciliación y recomendaciones de las Comisiones Nacional y Estatal de Derechos Humanos;
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
 
-III. Establecer coordinación con los organismos de derechos humanos referidos, para procurar el respeto a tales derechos; y
+II. Capacitar en materia de derechos humanos a los empleados y servidores públicos que intervienen en la procuración de justicia.
 
-IV. Recibir y dar la atención debida a las quejas que directamente formule la población en materia de derechos humanos.
+III. Atender las visitas, quejas, propuestas de conciliación y recomendaciones de las Comisiones Nacional y Estatal de Derechos Humanos;
+
+IV. Establecer coordinación con los organismos de derechos humanos referidos, para procurar el respeto a tales derechos; y
+
+V. Recibir y dar la atención debida a las quejas que directamente formule la población en materia de derechos humanos.
 
 > <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
 
@@ -479,7 +483,9 @@ II. Ejercer las facultades que corresponden a la institución del Ministerio Pú
 
 III. Vigilar la legalidad en el Estado;
 
-IV. Velar por el respeto a los derechos humanos en la procuración de justicia;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
+
+IV. Garantizar la capacitación y el respeto a los derechos humanos en la procuración de justicia.
 
 V. Nombrar y remover libremente al personal de la Procuraduría General de Justicia, con excepción de los Subprocuradores General y Regionales de Justicia en cuyos casos requerirá la aprobación expresa del titular del Poder Ejecutivo del Estado;
 
@@ -1804,3 +1810,7 @@ PRIMERO. El presente decreto entrará en vigor el día de su publicación, salvo
 SEGUNDO. En materia de narcomenudeo, las autoridades competentes de la entidad conocerán de dicho delito a partir del día 21 de agosto de 2012, en cumplimiento al transitorio primero, párrafo tercero, del Decreto Federal publicado en el Diario Oficial de la Federación de fecha 20 de agosto de 2009.
 
 TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán realizar las acciones necesarias para su debida observancia e instrumentación.
+
+P.O. 17 DE JULIO DE 2013
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
