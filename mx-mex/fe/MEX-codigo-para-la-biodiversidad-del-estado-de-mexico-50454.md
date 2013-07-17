@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2012-08-31"
+last_updated: "2013-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2013.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -925,7 +925,7 @@ I. La Secretaría publicará por una vez, el aviso del inicio del proceso de ela
 
 II. La Secretaría elaborará los proyectos de programas o sus modificaciones y en coordinación con las dependencias involucradas, definirán los elementos de articulación de dichos programas;
 
-III. Una vez que haya sido integrado el proyecto, la Secretaría publicará, por una vez, el aviso de que se inicia la consulta pública, en la Gaceta del Gobierno y en un diario de circulación estatal de acuerdo con las siguientes bases:
+III Una vez que haya sido integrado el proyecto, la Secretaría publicará, por una vez, el aviso de que se inicia la consulta pública, en la Gaceta del Gobierno y en un diario de circulación estatal de acuerdo con las siguientes bases:
 
 a). En las publicaciones se indicará los plazos y mecanismos para garantizar la participación ciudadana, así como los lugares y las fechas de las audiencias públicas que se llevarán a cabo en ese periodo;
 
@@ -1805,7 +1805,7 @@ IV. Implementar las medidas necesarias para el mejoramiento de la vialidad y tra
 
 V. Promover el mejoramiento de los sistemas de transporte y solicitará toda clase de medidas en sus vialidades para disminuir las emisiones contaminantes.
 
-###### Articulo 2.
+###### Artículo 2.
 
 147. Los propietarios de los vehículos automotores de uso privado o de servicio público deberán:
 
@@ -5369,9 +5369,17 @@ V. Las demás que señalen el presente Código, su Reglamento y otros ordenamien
 
 I. Multa de cincuenta a doscientos días de salario mínimo vigente en el Estado contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior del presente Libro;
 
-II. Multa de doscientos a mil días de salario mínimo vigente en el Estado de México; y
+> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
 
-III. Arresto administrativo hasta por treinta y seis horas o multa de mil a dos mil quinientos días de salario mínimo vigente en el Estado.
+II. Multa de doscientos a mil días de salario mínimo vigente en el Estado de México;
+
+> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
+
+III. Multa de dos mil a veinte mil días de salario mínimo general vigente en el área geográfica que corresponda, a quien contravenga lo previsto en el artículo 4.50 del presente Libro; y
+
+> <small>(ADICIONADA, G.G. 17 DE JULIO DE 2013)</small>
+
+IV. Arresto administrativo hasta por treinta y seis horas o multa de mil a dos mil quinientos días de salario mínimo vigente en el Estado.
 
 ###### Artículo 4.
 
@@ -7514,3 +7522,9 @@ CUARTO.- El Titular del Ejecutivo del Estado y los Ayuntamientos, proveerán en 
 QUINTO.- Dentro del plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, las autoridades en materia de tránsito, deberán contar con las terminales electrónicas establecidas en el presente Decreto.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 17 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
