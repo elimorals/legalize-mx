@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2013-05-03"
+last_updated: "2013-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -377,9 +377,15 @@ XX. Establecer, integrar, supervisar, utilizar y mantener actualizados los instr
 
 XXI. Organizar, dirigir y administrar la recepción y transferencia de los reportes sobre emergencias, infracciones y delitos;
 
-XXII. Coordinar planes y operativos para la defensa y protección del medio ambiente, a fin de preservar y salvaguardar los recursos naturales de la entidad; y
+> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
 
-XXIII. Las demás que le señalen otros ordenamientos jurídicos.
+XXII. Coordinar planes y operativos para la defensa y protección del medio ambiente, a fin de preservar y salvaguardar los recursos naturales de la entidad;
+
+> <small>(ADICIONADA, G.G. 17 DE JULIO DE 2013)</small>
+
+XXIII. Retirar los vehículos abandonados en la infraestructura vial y remitirlos al depósito vehicular más cercano; y
+
+XXIV. Las demás que le señalen otros ordenamientos jurídicos.
 
 > <small>(ADICIONADO, G.G. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -2342,3 +2348,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- La reforma al artículo 24 en su fracción XXXVII, de la Ley Orgánica de la Administración Pública del Estado de México entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 17 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Titular del Ejecutivo del Estado, proveerá en la esfera administrativa, la exacta observancia del presente Decreto, adecuando al efecto las disposiciones reglamentarias correspondientes.
