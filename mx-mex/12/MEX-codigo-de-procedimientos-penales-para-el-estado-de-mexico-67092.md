@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2013-02-28"
+last_updated: "2013-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 28 DE FEBRERO DE 2013, NÚMERO 41, SECCIÓN OCTAVA, PÁGINA 3.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2013.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -239,7 +237,7 @@ Desde el inicio del proceso y a lo largo de su desarrollo, las autoridades admin
 
 Legalidad de la prueba
 
-###### Articulo 21.
+###### Artículo 21.
 
 Los elementos de prueba sólo tendrán valor si han sido obtenidos y producidos por medios lícitos e incorporados al proceso del modo que autoriza este código.
 
@@ -269,7 +267,7 @@ Tampoco se podrá retrotraer el proceso a etapas anteriores, sobre la base de la
 
 Justicia restaurativa
 
-###### Articulo 25.
+###### Artículo 25.
 
 Se entenderá por justicia restaurativa todo proceso en el que la víctima u ofendido y el imputado o sentenciado, participan conjuntamente en forma activa en la solución de cuestiones derivadas del hecho delictuoso en busca de un resultado resarcitorio, con o sin la participación de un facilitador.
 
@@ -4201,9 +4199,9 @@ El ministerio público manifestará su deseo de aplicar el procedimiento abrevia
 
 En caso de dictarse sentencia de condena, se aplicarán las penas mínimas previstas por la ley para el delito cometido, reducidas en un tercio, sin perjuicio de cualquier otro beneficio que proceda en términos del código penal.
 
-(REFORMADO, G.G. 22 DE FEBRERO DE 2013) (F. DE E., G.G. 28 DE FEBRERO DE 2013)
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2013)</small>
 
-Tratándose de los delitos de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, el homicidio culposo de dos o más personas, violación, robo que ocasione la muerte, robo de vehículo automotor con violencia, robo cometido a interior de casa habitación con violencia y delitos contra el correcto funcionamiento de las instituciones de seguridad pública y órganos jurisdiccionales, y de la seguridad de los servidores públicos y particulares, solamente se aplicarán las penas mínimas previstas por la ley para el delito cometido, con exclusión de cualquier otro beneficio.
+Tratándose de los delitos de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, el homicidio culposo de dos o más personas, violación, robo que ocasione la muerte, robo de vehículo automotor con violencia, robo cometido a interior de casa habitación con violencia, delitos contra el correcto funcionamiento de las instituciones de seguridad y órganos jurisdiccionales, y de la seguridad de los servidores públicos y particulares, así como el realizado contra el ambiente, contemplado en el párrafo segundo del artículo 229, solamente se aplicarán las penas mínimas previstas por la ley para el delito cometido, con exclusión de cualquier otro beneficio.
 
 Verificación del juez
 
@@ -4283,7 +4281,7 @@ Trámite
 
 Si de los dictámenes rendidos por los peritos especialistas, resulta que el imputado se encuentra en alguna de las causas de inimputabilidad, el juez procederá en los siguientes términos:
 
-I. Cerrara el procedimiento ordinario y continuará con el especial, quedando al recto criterio y a la prudencia del juzgador, la forma de investigar el hecho delictuoso atribuido, la intervención que en ella hubiere tenido el imputado, y la de estimar la personalidad de éste, sin necesidad de que el procedimiento que se emplee sea similar al ordinario; y
+I. Cerrará el procedimiento ordinario y continuará con el especial, quedando al recto criterio y a la prudencia del juzgador, la forma de investigar el hecho delictuoso atribuido, la intervención que en ella hubiere tenido el imputado, y la de estimar la personalidad de éste, sin necesidad de que el procedimiento que se emplee sea similar al ordinario; y
 
 II. Declarará al imputado en estado de interdicción exclusivamente para efectos de este procedimiento, y le designará tutor definitivo.
 
@@ -5368,3 +5366,9 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. La Procuraduría General de Justicia del Estado de México emitirá los Protocolos en materia de técnicas de investigación en un plazo no mayor a seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+G.G. 17 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
