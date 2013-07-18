@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-consejo-estatal-de-concertacion-45161"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-12"
-last_updated: "2007-01-25"
+last_updated: "2013-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONCERTACION PARA LA OBRA PUBLICA, SONORA
 
-REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONCERTACION PARA LA OBRA PUBLICA
+REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONCERTACIÓN PARA LA OBRA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE ENERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE JULIO DE 2013.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 12 de mayo de 2005.
 
@@ -67,17 +67,15 @@ II.- ÓRGANOS CIUDADANOS DE APOYO:
 
 - Comités de participación social.
 
-> <small>(REFORMADA, B.O. 25 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
 
 III.- UNIDADES ADMINISTRATIVAS:
 
-- Dirección General de Concertación y Apoyo Técnico.
+- Dirección General de Concertación y Apoyo Técnico;
 
-- Dirección General de Organización Social.
+- Dirección General de Organización Social; y
 
-- Dirección General de Administración y Finanzas, y
-
-- Secretaría de Gestión.
+- Dirección General de Administración y Finanzas.
 
 SE ANEXA ORGANIGRAMA ESTRUCTURAL.
 
@@ -99,15 +97,21 @@ INTEGRACIÓN Y ATRIBUCIONES.
 
 El máximo órgano de gobierno del Consejo Estatal de Concertación para la Obra Pública es su Consejo Directivo, el cual se integra por:
 
-I.- Un Presidente, que será el Gobernador del Estado;
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
 
-II.- Un Vicepresidente, representante de la sociedad civil, que será el Presidente de la Junta Estatal de Participación Social;
+I.- Un Presidente, que será el Secretario de Infraestructura y Desarrollo Urbano;
+
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
+
+II.- Un Vicepresidente, que será el Subsecretario de Participación Ciudadana y Enlace Institucional de la Secretaría de Desarrollo Social, quien además fungirá como Presidente de la Junta Estatal de Participación Social;
 
 III.- Un representante de la sociedad civil, designado por el Presidente del Consejo Directivo;
 
 IV.- Un Tesorero, que será un representante de la sociedad civil; y
 
-V.- Diez vocales, que serán tres representantes de la sociedad civil; tres presidentes municipales; los titulares de las Secretarías de Hacienda, de Infraestructura y Desarrollo Urbano, de Economía y de Desarrollo Social.
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
+
+V.- Once Vocales, que serán: tres representantes de la sociedad civil, tres Presidentes Municipales y los Titulares de las Secretarías de Gobierno, de Hacienda, de Desarrollo Social, de Economía y de Educación y Cultura.
 
 Los integrantes del Consejo Directivo se desempeñarán en forma honorífica.
 
@@ -135,11 +139,15 @@ IV.- Definir los mecanismos para que se verifique, periódicamente, la relación
 
 V.- Aprobar anualmente el programa financiero del organismo, verificando que el mismo se haya elaborado conforme a los lineamientos establecidos por la Secretaría de Hacienda;
 
-VI.- Aprobar anualmente los presupuestos de ingresos y egresos del organismo, así como sus modificaciones, debiendo contener el citado presupuesto de egresos, como mínimo, la descripción detallada de objetivos y metas y el señalamiento de unidades responsables de su ejecución;
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
+
+VI.- Aprobar anualmente los presupuestos de ingresos y egresos del organismo y la asignación presupuestal para la Junta Estatal de Participación Social, así como las directrices para su ejercicio y sus modificaciones, debiendo contener los citados presupuestos de egresos y la asignación presupuestal, como mínimo, la descripción detallada de los objetivos y metas, y el señalamiento de las unidades responsables de ejecución;
 
 VII.- Definir el establecimiento y desarrollo de procedimientos y emitir instrucciones específicas de observancia obligatoria, respecto a la programación presupuestación del gasto público del organismo;
 
-VIII.- Autorizar los calendarios financieros anuales y de metas que se elaboren para el ejercicio del gasto público estatal del organismo;
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
+
+VIII.- Autorizar los calendarios financieros anuales y de metas que se elaboren para el ejercicio del gasto público estatal del organismo y de la Junta Estatal de Participación Social;
 
 IX.- Decidir, en función de los objetivos y metas planteados para el ejercicio presupuestal correspondiente, sobre el uso de los recursos que habiendo sido recibidos por concepto de aportaciones, transferencias o subsidios no hayan sido totalmente utilizados al 31 de diciembre de cada año;
 
@@ -303,9 +311,17 @@ I.- Presentar al Consejo Directivo del organismo, las propuestas que formule la 
 
 II.- Ejecutar las políticas y estrategias que determine el Consejo Directivo para el fortalecimiento de los mecanismos de participación ciudadana en los procesos de concertación de obra pública;
 
-III.- Suscribir las actas del Consejo Directivo del organismo; y
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
 
-IV.- Las demás que le confieran el Consejo Directivo, el presente Reglamento y demás disposiciones legales.
+III.- Llevar a cabo los actos necesarios para la administración del presupuesto que le sea asignado a la Junta Estatal de Participación Social conforme a las disposiciones aplicables y directrices específicas que para tal efecto se emitan por el Consejo Directivo del Organismo;
+
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
+
+IV.- Suscribir las actas del Consejo Directivo del Organismo, y
+
+> <small>(ADICIONADA, B.O. 18 DE JULIO DE 2013)</small>
+
+V.- Las demás que le confieran el Consejo Directivo, el presente Reglamento y demás disposiciones legales.
 
 > <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
 
@@ -389,9 +405,11 @@ DE LOS ÓRGANOS CIUDADANOS DE APOYO.
 
 DE LA JUNTA ESTATAL DE PARTICIPACIÓN SOCIAL.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 25.
 
-La Junta Estatal de Participación Social es el órgano ciudadano de apoyo a las tareas del Consejo Estatal de Concertación para la Obra Pública, se integrará por ciudadanos representativos de las distintas regiones del estado mediante invitación que formule el Presidente del Consejo Directivo del propio organismo. Sus integrantes se desempeñarán en forma honorífica y tendrán las siguientes funciones:
+La Junta Estatal de Participación Social es el órgano ciudadano de apoyo a las tareas del Consejo Estatal de Concertación para la Obra Pública, se integrará en su mayoría por ciudadanos representativos de las distintas regiones del Estado, mediante invitación que formule el Presidente del Consejo Directivo del propio organismo. Sus integrantes de (sic) desempeñarán en forma honorífica y tendrán las siguientes funciones:
 
 I.- Coordinar la integración y funcionamiento de las juntas de participación social para el desarrollo municipal en cada uno de los municipios del estado;
 
@@ -403,15 +421,25 @@ IV.- Coordinar los mecanismos de participación social en las obras y programas 
 
 V.- Presentar al Consejo Directivo o al Coordinador General del organismo, las propuestas de solución a las situaciones que se presenten con motivo de la priorización de las propuestas de obra pública por concertación, que realicen las juntas de participación social en cada uno de los municipios del Estado, previa concertación con los ayuntamientos respectivos;
 
-VI.- Informar al Consejo Directivo de este organismo, sobre el funcionamiento de las juntas de participación social para el desarrollo municipal, y
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
 
-VII.- Las demás que le confieran este reglamento, el Presidente del Consejo Directivo o el Coordinador General del organismo.
+VI.- Informar al Consejo Directivo de este Organismo, sobre el funcionamiento de las Juntas de Participación Social para el Desarrollo Municipal;
+
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
+
+VII.- Administrar el presupuesto correspondiente a la Junta Estatal de Participación Social, de conformidad con las directrices fijadas por el Consejo Directivo, y
+
+> <small>(ADICIONADA, B.O. 18 DE JULIO DE 2013)</small>
+
+VIII.- Las demás que le confieran este Reglamento, el Presidente del Consejo Directivo o el Coordinador General del Organismo.
 
 ###### ARTÍCULO 26.
 
 La Junta Estatal de Participación Social se integrará por:
 
-I.- Un Presidente;
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
+
+I.- Un Presidente, que será el Subsecretario de Participación Ciudadana y Enlace Institucional de la Secretaría de Desarrollo Social;
 
 II.- Un Secretario;
 
@@ -419,11 +447,15 @@ III.- Hasta nueve vocales, y
 
 IV.- Un Secretario Técnico.
 
-El Presidente del Consejo Directivo del Consejo Estatal de Concertación para la Obra Pública designará a los integrantes de la junta.
+> <small>(REFORMADO, B.O. 18 DE JULIO DE 2013)</small>
+
+El Presidente del Consejo Directivo del Consejo Estatal de Concertación para la Obra Pública, designará al Secretario, a los Vocales y al Secretario Técnico de la Junta Estatal de Participación Social.
+
+> <small>(REFORMADO, B.O. 18 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 27.
 
-Los integrantes de la Junta Estatal de Participación Social durarán en su cargo un período de tres años, pudiendo ser reelectos para un período igual, por acuerdo del Presidente del Consejo Directivo del Consejo Estatal de Concertación para la Obra Pública.
+Los integrantes de la Junta Estatal de Participación Social, con excepción de su Presidente, durarán en su cargo un período de tres años, pudiendo ser reelectos para un período igual, por acuerdo del Presidente del Consejo Directivo del Consejo Estatal de Concertación para la Obra Pública.
 
 ###### ARTÍCULO 28.
 
@@ -437,9 +469,17 @@ I.- Elaborar el programa de trabajo de este órgano ciudadano y someterlo a la c
 
 II.- Someter al análisis y discusión del Consejo Directivo del Consejo Estatal de Concertación para la Obra Pública, las situaciones que se presenten en el proceso de priorización de la obra pública por concertación que realicen las juntas de participación social para el desarrollo municipal.
 
-III.- Coordinar los procesos de vinculación de las juntas de participación social para el desarrollo municipal con los programas de obra pública y acciones para el desarrollo social que ejecuten las dependencias y organismos del gobierno de los municipios, y
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
 
-IV.- Ejecutar las acciones que le delegue el Consejo Directivo o el Presidente del Consejo Estatal de Concertación para la Obra Pública.
+III.- Coordinar los procesos de vinculación de las juntas de participación social para el desarrollo municipal con los programas de obra pública y acciones para el desarrollo social que ejecuten las dependencias y organismos del gobierno de los municipios;
+
+> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
+
+IV.- Administrar el presupuesto correspondiente a la Junta Estatal de Participación Social, de conformidad con las directrices fijadas por el Consejo Directivo, y
+
+> <small>(ADICIONADA, B.O. 18 DE JULIO DE 2013)</small>
+
+V.- Ejecutar las acciones que le delegue el Consejo Directivo o el Presidente del Consejo Estatal de Concertación para la Obra Pública.
 
 ###### ARTÍCULO 30.
 
@@ -839,27 +879,9 @@ XXIII.- Participar en el ámbito de su competencia, en la solventación de aquel
 
 XXIV.- Las demás que le señale el Consejo Directivo, el Coordinador General o le confieran este reglamento y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
-
 ###### ARTÍCULO 53.
 
-Corresponde a la Secretaría de Gestión del Consejo Estatal de Concertación para la Obra Pública, como unidad de apoyo del Coordinador General, las siguientes atribuciones:
-
-I.- Diseñar, establecer y coordinar los procedimientos de control de gestión interna y externa de las diferentes unidades administrativas del Consejo Estatal de Concertación para la Obra Pública;
-
-II.- Diseñar, integrar, organizar y establecer el sistema de archivo general del Consejo Estatal de Concertación para la Obra Pública;
-
-III.- Proponer los proyectos de manual de organización, de procedimientos y de servicios al público y someterlos a aprobación del Coordinador General, los cuales deberá mantener permanentemente actualizados;
-
-IV.- Apoyar las labores operativas del Consejo Directivo, coadyuvando en la preparación de informes y demás documentación que resulte necesaria para el desahogo de sus sesiones, en la elaboración de los proyectos de actas y en la ejecución de los acuerdos correspondientes;
-
-V.- Auxiliar al Coordinador General en la atención y seguimiento de las relaciones interinstitucionales del Consejo Estatal de Concertación para la Obra Pública;
-
-VI.- Apoyar las acciones y labores operativas de la Junta Estatal de Participación Social y de las juntas de participación social para el desarrollo municipal, con las previsiones presupuestales correspondientes, mismas que someterá a la aprobación del Coordinador General, para que se consideren en el proyecto de presupuesto de egresos del propio organismo para cada ejercicio social.
-
-Los apoyos operativos destinados a las juntas de participación social para el desarrollo municipal, se ejercerán por conducto del Secretario Técnico de cada uno de estos órganos ciudadanos y, se sujetarán a los controles presupuestales del Consejo Estatal de Concertación para la Obra Pública; y
-
-VII.- Las demás que le señale el Consejo Directivo, el Coordinador General, este Reglamento y demás disposiciones legales aplicables.
+(DEROGADO, B.O. 18 DE JULIO DE 2013)
 
 ### CAPÍTULO VII.
 
@@ -943,7 +965,9 @@ EL CONSEJO DIRECTIVO: PRESIDENTE.- GOBERNADOR DEL ESTADO.- ING. EDUARDO BOURS CA
 
 Consejo Estatal de Concertación para la Obra Pública
 
-Organigrama Estructural
+> <small>(REFORMADO, B.O. 18 DE JULIO DE 2013)</small>
+
+Organigrama estructural
 
 Consejo
 
@@ -953,20 +977,20 @@ Coordinador
 
 General
 
-Secretaría
+Dirección General Dirección General Dirección General
 
-Técnica
+de Concertación y de Organización de Administración
 
-Dirección General Dirección General
+Apoyo Técnico Social y Finanzas
 
-de Concertación y de Administración
-
-Apoyo Técnico y Finanzas
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 B.O. 25 DE ENERO DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 18 DE JULIO DE 2013.
+
+ÚNICO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
