@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2013-04-30"
+last_updated: "2013-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,23 @@ state: "MEX"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-LEY DE INGRESOS DEL MUNICIPIO DE SAN PEDRO JUCHATENGO, DISTRITO DE JUQUILA, OAXACA PARA EL EJERCICIO FISCAL 2022
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2013.
 
-ÚLTIMA REFOPRMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
+Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO Y REFORMA SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+El Ciudadano LICENCIADO IGNACIO PICHARDO PAGAZA, Gobernador del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-(NOTA: EL 18 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 37/2022 Y SU ACUMULADA 40/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+
+DECRETO NUMERO 164
+
+LA H. "LI" LEGISLATURA DEL ESTADO DE MEXICO
+
+D E C R E T A :
+
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
 ## TITULO I. Del Municipio
 
@@ -539,15 +547,21 @@ Los ayuntamientos provisionales, las juntas y consejos municipales, se instalar�
 
 ###### Artículo 26.
 
-Es base de este derecho el importe que cubran a la empresa que suministre la energía eléctrica por el servicio.
+El ayuntamiento funcionará y residirá en la cabecera municipal, y solamente con aprobación del Congreso del Estado, podrá ubicar su residencia en forma permanente o temporal en otro lugar comprendido dentro de los límites territoriales de su municipio. En los casos de cambio temporal de residencia y funcionamiento del ayuntamiento, la Diputación Permanente, en receso de la Legislatura, podrá acordar lo que corresponda.
 
-(NOTA: EL 18 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 37/2022 Y SU ACUMULADA 40/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2012)</small>
+
+Los ayuntamientos podrán celebrar sesión preferentemente una vez al año fuera de la cabecera municipal en localidades del interior del municipio, para lo cual existirá acuerdo de cabildo.
 
 ### CAPITULO SEGUNDO. Funcionamiento de los Ayuntamientos
 
 ###### Artículo 27.
 
-Este impuesto se causará y pagará aplicando las tasas vigentes del 8% para tarifas 01, 1ª, 1B, 1C, 02, 03, y 07 y 04% para las tarifas OM, HM, HS, y HT.
+Los ayuntamientos como órganos deliberantes, deberán resolver colegiadamente los asuntos de su competencia.
+
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+Para lo cual los Ayuntamientos deberán expedir o reformar, en su caso, en la tercera sesión que celebren, el Reglamento de Cabildo, debiendo publicarse en la Gaceta Municipal.
 
 ###### Artículo 28.
 
@@ -781,7 +795,9 @@ XXXVI. Editar, publicar y circular la Gaceta Municipal órgano oficial, cuando m
 
 XXXVII. Organizar y promover la instrucción cívica que mantenga a los ciudadanos en conocimiento del ejercicio de sus derechos;
 
-XXXVIII. Nombrar al cronista municipal para el registro escrito del acontecer histórico local, que preserve y fomente la identidad de los pobladores con su municipio y con el Estado y que supervise el archivo de los documentos históricos municipales;
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2013)</small>
+
+XXXVIII. Expedir convocatoria para designar Cronista Municipal.
 
 XXXIX. Promover en la esfera de su competencia lo necesario para el mejor desempeño de sus funciones;
 
@@ -887,25 +903,7 @@ VI. El destino que se dará a los fondos que se obtengan de la enajenación.
 
 ###### Artículo 36.
 
-El pago de los derechos a que se refiere esta sección, debe hacerse previo a la expedición de las certificaciones y constancias y se pagará conforme a las siguientes cuotas:
-
-Concepto Cuota en pesos.
-
-(NOTA: EL 18 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 37/2022 Y SU ACUMULADA 40/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-I. COPIAS DE DOCUMENTOS EXISTENTES EN LOS ARCHIVOS DE LAS OFICINAS MUNICIPALES. 50.00
-
-(NOTA: EL 18 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 37/2022 Y SU ACUMULADA 40/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-II. BÚSQUEDA DE DOCUMENTOS EXISTENTES EN LOS ARCHIVOS DE LAS OFICINAS MUNICIPALES. 150. 00
-
-III. Expedición de certificados de residencia, origen, dependencia económica, de situación fiscal actual o pasada, de contribuyentes inscritos en la Tesorería, de morada conyugal 50.00
-
-IV. Expedición de actas de posesión 600.00
-
-V. Re expedición de actas de posesión 300.00
-
-VI. Demás certificaciones que las disposiciones legales reglamentarias definan a cargo del Ayuntamiento. 50.00
+Las enajenaciones de bienes inmuebles propiedad de los municipios y sus organismos auxiliares, una vez realizada la desincorporación, se efectuaran a través de subasta pública, en los términos de lo dispuesto en el Libro Décimo Tercero del Código Administrativo del Estado de México y su Reglamento.
 
 ###### Artículo 37.
 
@@ -1419,37 +1417,49 @@ g). De obras públicas y desarrollo urbano;
 
 h). De fomento agropecuario y forestal;
 
-i). De parques, jardines y panteones;
+> <small>(REFORMADO, G.G. 18 DE JULIO DE 2013)</small>
 
-j). De cultura, educación pública, deporte y recreación;
+i). De parques y jardines;
 
-k). De turismo;
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
 
-l). De preservación y restauración del medio ambiente;
+j). De panteones;
 
-m). De empleo;
+k) De cultura, educación pública, deporte y recreación;
 
-n). De salud pública;
+l). De turismo;
 
-ñ). De población;
+m). De preservación y restauración del medio ambiente;
+
+n). De empleo;
+
+ñ). De salud pública;
+
+o). De población;
+
+> <small>N. DE E. MEDIANTE REFORMA EN LA G.G. DE 18 DE JULIO DE 2013, SE ADICIONA EL INCISO J) A LA FRACCIÓN I, RECORRIÉNDOSE Y ADECUÁNDOSE EN SU ORDEN LOS SUBSECUENTES INCISOS, POR LO QUE EL ANTERIOR INCISO Ñ) BIS PASÓ A FORMAR EL ACTUAL INCISO P).</small>
 
 > <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
 
-ñ). Bis. De Participación Ciudadana;
+p). De Participación Ciudadana;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 2 DE FEBRERO DE 2010)</small>
 
-o). De asuntos indígenas, en aquellos municipios con presencia de población indígena;
+q). De asuntos indígenas, en aquellos municipios con presencia de población indígena;
 
-p). De revisión y actualización de la reglamentación municipal;
+r). De revisión y actualización de la reglamentación municipal;
 
 > <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
-q). De apoyo y atención al migrante;
+s). De apoyo y atención al migrante;
 
-> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2013)</small>
 
-r). Las demás que determine el ayuntamiento, de acuerdo con las necesidades del municipio.
+t) De asuntos metropolitanos, en aquellos municipios que formen parte de alguna zona metropolitana;
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2013)</small>
+
+u) Las demás que determine el ayuntamiento, de acuerdo a las necesidades del municipio.
 
 II. Serán comisiones transitorias, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -2517,7 +2527,7 @@ Artículo 147 N.- El Defensor Municipal de Derechos Humanos presentará por escr
 
 Artículo 147 O.- Corresponderá a la Comisión de Derechos Humanos del Estado de México expedir las disposiciones que reglamenten la organización y funcionamiento de las Defensorías Municipales de Derechos Humanos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE JULIO DE 2013)</small>
 
 ###### Artículo 142.
 
@@ -2561,9 +2571,57 @@ El Servicio Profesional de Carrera para Bomberos y Protección Civil comprende e
 
 Los municipios en uso de su autonomía hacendaria, podrán convenir con instituciones públicas o privadas, un sistema de ahorro para la obtención de vivienda, a favor de los Bomberos, Protección Civil y de los cuerpos de seguridad pública.
 
-### CAPITULO PRIMERO. De las Oficialías Mediadora-Conciliadoras y de las Oficialías Calificadoras Municipales
+### CAPITULO DECIMO PRIMERO. Del Cronista Municipal
 
-> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Artículo 147 P.- En cada municipio, el ayuntamiento respectivo, mediante acuerdo de cabildo, expedirá, dentro de los primeros 120 días de la administración municipal, la convocatoria abierta a toda la población para designar al Cronista Municipal.
+
+El ayuntamiento garantizará que se publique y difunda en los lugares de mayor afluencia del municipio, durante un periodo no menor a 15 y no mayor a 20 días naturales. Además, se deberá publicar en un periódico de mayor circulación en el territorio municipal.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Artículo 147 Q.- Para ser Cronista Municipal se requiere:
+
+l. Haber nacido en el municipio o tener en él una residencia no menor de 10 años;
+
+II. Conocer y estar familiarizado con la historia, costumbres, tradiciones, desarrollo cultural y demás elementos que le dan identidad al municipio;
+
+III. Tener reconocida honorabilidad, buena reputación y evidente solvencia moral;
+
+IV. Ser mayor de 30 años.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Artículo 147 R.- El ayuntamiento en cabildo, previo análisis de las propuestas, designará con base en criterios de objetividad, veracidad e imparcialidad, a quien tenga las mayores virtudes y conocimientos para ocupar el cargo del Cronista Municipal.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Artículo 147 S.- El Cronista Municipal tendrá, entre otras funciones, las siguientes:
+
+I. Dar a conocer a la población, a través de la narración escrita, fotográfica o audiovisual los sucesos históricos y de mayor relevancia que hayan acontecido en el municipio;
+
+II. Promover, investigar y divulgar, periódicamente, el patrimonio histórico y cultural del municipio;
+
+III. Promover el rescate, organización y conservación de los archivos históricos del municipio para el conocimiento de la población;
+
+IV. Conocer y divulgar el patrimonio cultural intangible del municipio; y
+
+V. Las demás que tiendan a fortalecer la identidad y el desarrollo municipales.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Artículo 147 T.- El ayuntamiento, una vez designado el Cronista Municipal, convocará a los sectores público, social y privado para constituir el Consejo Municipal de la Crónica, que será un órgano permanente de consulta y de propuestas para el mejor desempeño del Cronista Municipal.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Artículo 147 U.- El Consejo de la Crónica estará integrado hasta por siete ciudadanos honorables y distinguidos, y será presidido por el presidente municipal. Los cargos de este consejo serán honoríficos.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Artículo 147 V.- De conformidad con la disposición presupuestal de cada Ayuntamiento, el cabildo acordará, a propuesta del Presidente Municipal, el rango y nivel salarial del Cronista Municipal, considerando la asignación de recursos materiales y humanos necesarios para su buen funcionamiento.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 145.
 
@@ -2615,9 +2673,17 @@ VII. Las que el ayuntamiento le asigne.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE AGOSTO DE 2009)</small>
 
+### CAPITULO PRIMERO. De las Oficialías Mediadora-Conciliadoras y de las Oficialías Calificadoras Municipales
+
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
 ### CAPITULO SEGUNDO. De los Recursos Administrativos
 
 > <small>(REFORMADO POR EL ARTÍCULO QUINTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
+
+## TITULO V. De la Función Mediadora-Conciliadora y de la Calificadora de los Ayuntamientos
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 ### CAPITULO SEGUNDO BIS. De la Acción Popular
 
@@ -2652,14 +2718,6 @@ g). Listado de nombres de los accionantes el cual no deberá ser menor a diez pe
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 Artículo 154 D.- En la acción popular procede el recurso de revisión ante la Sala Superior, en los términos y contra los actos previstos en los artículos 285, 286, 287 y 288 del Código de Procedimientos Administrativos del Estado de México.
-
-## TITULO V. De la Función Mediadora-Conciliadora y de la Calificadora de los Ayuntamientos
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
-
-### CAPITULO PRIMERO. Del Bando y los Reglamentos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 148.
 
@@ -2875,7 +2933,9 @@ Para el debido cumplimiento de las atribuciones que en este capítulo se previen
 
 Las faltas temporales de los oficiales calificadores serán cubiertas por el secretario de la propia oficialía o por el servidor público que el Presidente Municipal designe, quienes estarán habilitados para actuar en nombre del titular, siempre y cuando cumplan los requisitos de Ley.
 
-### CAPITULO SEGUNDO. De las Sanciones
+### CAPITULO PRIMERO. Del Bando y los Reglamentos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 154.
 
@@ -2883,7 +2943,7 @@ Contra los actos y resoluciones administrativos que dicten o ejecuten las autori
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos Municipales
+### CAPITULO SEGUNDO. De las Sanciones
 
 ###### Artículo 155.
 
@@ -2906,6 +2966,8 @@ Contra los actos y resoluciones administrativos que dicten o ejecuten las autori
 (DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ## TITULO VI. De la Reglamentación Municipal
+
+### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos Municipales
 
 ###### Artículo 160.
 
@@ -3784,6 +3846,32 @@ TERCERO.- Los Municipios en donde exista o programe la instalación de un H. Cue
 CUARTO.- Los Programas de Profesionalización y de Reconocimientos y Estímulos para Bomberos que al efecto se aprueben por el respectivo Cabildo, serán publicados a más tardar en noventa días naturales a la entrada en vigor del presente Decreto.
 
 G.G. 25 DE ABRIL DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 30 DE ABRIL DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.G. 18 DE JULIO DE 2013.
+
+DECRETO NÚMERO 112 POR EL QUE SE REFORMA EL ARTÍCULO 31 EN SU FRACCIÓN XXXVIII Y DE ADICIONA UN CAPÍTULO DÉCIMO PRIMERO, INTEGRADO POR LOS ARTÍCULOS 147 P, 147 Q, 147 R, 147 S, 147 T, 147 U Y 147 V, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los ayuntamientos electos para el periodo 2012-2015 emitirán la convocatoria a que se refiere este decreto, a más tardar el día 1 de marzo de 2014 y expedirán el Reglamento de la Crónica Municipal, dentro de los siguientes sesenta días.
+
+G.G. 18 DE JULIO DE 2013.
+
+DECRETO NÚMERO 116 POR EL QUE SE REFORMA EL ARTÍCULO 69 FRACCIÓN I, INCISO I) Y SE ADICIONA EL INCISO J) RECORRIÉNDOSE LOS SUBSECUENTES INCISOS, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
