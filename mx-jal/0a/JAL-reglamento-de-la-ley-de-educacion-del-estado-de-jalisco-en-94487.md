@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-educacion-del-estado-de-jalisco-en-9448
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-04"
-last_updated: "2013-06-04"
+last_updated: "2013-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO EN MATERIA DEL CONSEJO ESTATAL TÉCNICO DE LA EDUCACIÓN DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2013.
 
 Reglamento publicado en la Sección II del Periódico Oficial del estado de Jalisco, el martes 4 de junio de 2013.
 
@@ -189,9 +189,17 @@ II. Administración del Sistema Educativo;
 
 III. Problemas técnico-pedagógicos del Sistema Educativo;
 
-IV. Política educativa; y
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2013)</small>
 
-V. Participación social en asuntos educativos.
+IV. Política educativa;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2013)</small>
+
+V. Participación social en asuntos educativos; e
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2013)</small>
+
+VI. Innovación Tecnológica del Sistema Educativo.
 
 ###### Artículo 10.
 
@@ -232,3 +240,9 @@ FRANCISCO DE JESÚS AYÓN LÓPEZ
 Secretario de Educación
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE JULIO DE 2013.
+
+ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
