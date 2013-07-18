@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2013-07-17"
+last_updated: "2013-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1347,7 +1347,7 @@ DELITOS CONTRA LA ADMINISTRACION PUBLICA
 
 ###### Artículo 117.
 
-Comete el delito de desobediencia el que sin causa legitima, rehusare prestar un servicio de interés público a que la ley lo obligue.
+Comete el delito de desobediencia el que sin causa legítima rehusare prestar un servicio de interés público a que la ley lo obligue.
 
 También comete este delito, quien desobedezca una medida cautelar, providencia precautoria o medida de protección dictada por el Ministerio Público o por una autoridad judicial o cualquier mandato legítimo de una autoridad competente.
 
@@ -2547,6 +2547,10 @@ Si los delitos de que hablan los artículos anteriores fueran cometidos al ampar
 
 ### CAPITULO I
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE JULIO DE 2013)</small>
+
 ###### Artículo 211.
 
 Se impondrán de uno a tres años de prisión o de veinticinco a cien días de trabajo en favor de la comunidad y multa de cincuenta a doscientos días al que, por razón de origen étnico o nacional, género, edad, discapacidades, condición social, trabajo o profesión, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil, embarazo o alguna otra que atente contra la dignidad humana y tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos fundamentales en condiciones de equidad e igualdad de oportunidades y de trato a las personas:
@@ -2781,7 +2785,7 @@ DELITOS CONTRA EL AMBIENTE
 
 ###### Artículo 228.
 
-Al que intencionalmente y en contravención a las disposiciones legales en materia de protección al ambiente o normas técnicas ambientales:
+Al que en contravención a las disposiciones legales en materia de protección al ambiente o normas técnicas ambientales:
 
 I. El que derribe o trasplante un árbol en la vía pública o afecte negativamente áreas verdes o jardineras públicas, dolosamente, sin autorización correspondiente;
 
@@ -2795,9 +2799,29 @@ V. Despida o descargue en la atmósfera gases, humos, polvos, líquidos que ocas
 
 VI. Genere emisiones de ruido, vibraciones, energía lumínica o térmica en zonas de jurisdicción estatal o municipal que ocasionen o puedan ocasionar daños a la salud pública, flora, fauna o los ecosistemas;
 
-VII. Debiendo obtener la autorización de impacto y riesgo ambiental, realice obras o actividades, sin contar con la misma o no implemente las medidas preventivas y correctivas que indique la autoridad correspondiente para la mitigación de impactos ambientales y de seguridad de las personas, sus bienes y el ambiente, ocasionando daños a la salud pública, la flora, la fauna o los ecosistemas; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Rebase el doble de los parámetros y límites permisibles en las normas oficiales mexicanas o en las normas técnicas estatales vigentes.
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2013)</small>
+
+VII. Debiendo obtener la autorización de impacto y riesgo ambiental, realice obras o actividades, sin contar con la misma o no implemente las medidas preventivas y correctivas que indique la autoridad correspondiente para la mitigación de impactos ambientales y de seguridad de las personas, sus bienes y el ambiente, ocasionando daños a la salud pública, la flora, la fauna o los ecosistemas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2013)</small>
+
+VIII. Rebase el doble de los parámetros y límites permisibles en las normas oficiales mexicanas o en las normas técnicas estatales vigentes;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2013)</small>
+
+IX. Sin contar con la autorización de impacto y riesgo ambiental, preste el servicio de guarda, custodia, reparación o depósito de vehículos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2013)</small>
+
+X. Sin contar con la autorización de impacto y riesgo ambiental, guarde, comercie, deposite o almacene vehículos de desecho o autopartes usadas.
 
 A los responsables de este delito se les impondrá prisión de dos a ocho años y de treinta a ciento cincuenta días multa.
 
@@ -2858,6 +2882,12 @@ A los prestadores de servicios ambientales autorizados que proporcionen document
 ###### Artículo 234.
 
 Será necesario que la secretaría del ramo formule la denuncia correspondiente para proceder penalmente por los delitos previstos en este capítulo, a excepción de lo señalado en el artículo 229 de este código, en cuyo caso la denuncia la podrá formular cualquier ciudadano.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Se perseguirán de oficio las conductas establecidas en el artículo 228, fracciones IX y X del presente Código.
 
 ### CAPITULO I. PRIVACION DE LIBERTAD
 
@@ -3151,7 +3181,7 @@ Para efectos de este artículo se entenderá por explotación el obtener provech
 
 > <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
 
-Se aplicarán las mismas penas a que se refiere el artículo 268 bis-1, a quien solicite o contrate la publicación o anuncio en medios de comunicación impresos o electrónicos, que ofrezcan servicios que tengan por objeto alguna de las formas de explotación a que se refiere este artículo.
+Se aplicarán las mismas penas a que se refiere el artículo 268 bis-I, a quien solicite o contrate la publicación o anuncio en medios de comunicación impresos o electrónicos, que ofrezcan servicios que tengan por objeto alguna de las formas de explotación a que se refiere este artículo.
 
 > <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
 
@@ -4936,6 +4966,12 @@ DECRETO NÚMERO 110, POR EL QUE SE ADICIONA EL CAPÍTULO XX DENOMINADO "IMPARTIC
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los treinta días naturales, siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ###### ARTÍCULO PRIMERO.
 
