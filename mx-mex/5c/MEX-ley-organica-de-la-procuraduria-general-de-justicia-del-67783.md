@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-67783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-03-20"
-last_updated: "2013-02-25"
+last_updated: "2013-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2013.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 20 de marzo de 2009.
 
@@ -258,6 +258,14 @@ El Ministerio Público tendrá las atribuciones a que se refiere el aparrado A d
 De no iniciar la investigación, los hechos denunciados se registrarán corno constancias de hechos o noticias criminales.
 
 Si por el contrario, de los datos aportado por el denunciante o querellante, así como de los datos recabados por el agente del Ministerio Público, se desprenda la probable comisión de un delito, el Ministerio Público elevará el acta circunstanciada a carpeta de investigación;
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+El Ministerio Público iniciará la noticia criminal en todos los casos en que tenga conocimiento de la desaparición o extravío de alguna persona y la elevará a carpeta de investigación cuando se identifiquen elementos que presuman la comisión de un hecho delictuoso. En ambos supuestos, se deberán realizar, de inmediato, todas las diligencias de la investigación que sean necesarias para su localización.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Asimismo, deberá actualizar la base de datos con la información de los reportes de personas desaparecidas o extraviadas; solicitará informes y enviará alertas a dependencias, entidades federales y entidades federativas, para su búsqueda y localización.
 
 III. Investigar los delitos de su competencia con todas las facultades que éste y otros ordenamientos jurídicos le otorguen. Para ello se auxiliará de la Policía Ministerial y de los Servicios Periciales y, en su caso, de los demás órganos y autoridades que prevea la ley;
 
@@ -951,17 +959,11 @@ Previa valoración los servicios instituidos en beneficio de las víctimas podr�
 
 IX. Trabajar de manera coordinada con la Comisión de Derechos Humanos del Estado de México, en el desarrollo de programas para la atención a las víctimas del delito, así como impulsar las acciones necesarias para promover y proteger sus derechos fundamentales entre las autoridades y la población del Estado de México;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2012)</small>
+X. (DEROGADA, G.G. 18 DE JULIO DE 2013)
 
-X. Dirigir y actualizar la base de datos con la información de los reportes de personas extraviadas o ausentes iniciados, coordinando esta información con la información de programas que en la materia emitan otras dependencias;
+XI. (DEROGADA, G.G. 18 DE JULIO DE 2013)
 
-> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2012)</small>
-
-XI. Elaborar y ejecutar acciones encaminadas a la ejecución del Programa para la búsqueda y localización de personas extraviadas o ausentes, que permitan su pronta localización;
-
-> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2012)</small>
-
-XII. Solicitar informes y enviar alertas a dependencias, entidades federales y entidades federativas, así como coadyuvar con éstas en la búsqueda y localización de personas extraviadas o ausentes cuando se requiera; y
+XII. (DEROGADA, G.G. 18 DE JULIO DE 2013)
 
 > <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2012)</small>
 
@@ -1182,3 +1184,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- La Procuraduría General de Justicia del Estado de México emitirá los Protocolos en materia de técnicas de investigación en un plazo no mayor a seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+G.G. 18 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El titular del Ejecutivo Estatal, en un término no mayor a cinco días, realizará las adecuaciones al Reglamento Interior del Instituto de Atención a las Víctimas del Delito, para dar cumplimiento al presente Decreto.
+
+CUARTO.- Hasta en tanto sea creada la Unidad Administrativa que opere las acciones relacionadas con la búsqueda y localización de personas desaparecidas o extraviadas, el Instituto de Atención a las Víctimas del Delito del Estado de México seguirá operando el Programa ODISEA.
