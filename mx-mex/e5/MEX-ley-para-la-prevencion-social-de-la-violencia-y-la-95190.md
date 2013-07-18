@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-prevencion-social-de-la-violencia-y-la-95190"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2013-07-17"
+last_updated: "2013-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY PARA LA PREVENCION SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACION CIUDADANA DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DE 18 DE JULIO DE 2013.</small>
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 17 de julio de 2013.
 
@@ -583,8 +583,6 @@ V. Alto índice de expulsión de delincuencia y violencias.
 
 El incumplimiento de las obligaciones que se derivan de la presente Ley, será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, Código Penal del Estado de México, Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y demás ordenamientos jurídicos aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 T R A N S I T O R I O S
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
@@ -599,7 +597,9 @@ QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan
 
 SEXTO.- El Reglamento de la Ley que se expide deberá emitirse en un término de noventa días naturales contados a partir del inicio de la vigencia del presente decreto.
 
-SÉPTIMO.- La evaluación a que se refiere el artículo 26 de la Ley contenida en este decreto, respecto del año 2013, se incluirá en la que se presente respecto del 2014.
+> <small>(F. DE E., G.G. 18 DE JULIO DE 2013)</small>
+
+SÉPTIMO.- La evaluación a que se refiere el artículo 29 de la Ley contenida en este decreto, respecto del año 2013, se incluirá en la que se presente respecto del 2014.
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
