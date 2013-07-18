@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2013-07-17"
+last_updated: "2013-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2013.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -1171,9 +1171,25 @@ XV. Centrales de abasto y mercados;
 
 XVI. Panteones y crematorios;
 
-XVII. Estaciones de servicio o gasolineras y estaciones de servicio de gas carburante, bodegas de almacenamiento de cilindros y contenedores de gas y actividades donde se manejen y almacenen sustancias riesgosas, cuando no sean competencia del Gobierno Federal; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVIII. Las demás que se establezcan en el reglamento de este Libro que puedan causar impactos ambientales significativos de carácter adverso y que, por razón de la obra o actividad de que se trate no sean de jurisdicción federal.
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2013)</small>
+
+XVII. Estaciones de servicio o gasolineras y estaciones de servicio de gas carburante, bodegas de almacenamiento de cilindros y contenedores de gas y actividades donde manejen y almacenen sustancias riesgosas, cuando no sean competencia del Gobierno Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2013)</small>
+
+XVIII. La prestación del servicio de guarda, custodia, reparación o depósito de vehículos; con excepción de los estacionamientos públicos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2013)</small>
+
+XIX. Comercio, guarda, almacenamiento o depósito de vehículos de desecho o autopartes usadas;
+
+XX. Las demás que se establezcan en el reglamento de este Libro que puedan causar impactos ambientales significativos de carácter adverso y que, por razón de la obra o actividad de que se trate no sean de jurisdicción federal.
 
 La Secretaría podrá eximir de la evaluación del impacto o riesgo ambiental a aquellos proyectos que, si bien se encuentren previstos en este artículo, no produzcan impactos ambientales significativos de carácter adverso o no causen desequilibrios a la biodiversidad y sus recursos asociados, debido a su ubicación, dimensiones o características, de acuerdo a la reglamentación de este Libro.
 
@@ -1385,7 +1401,7 @@ Las autoridades municipales no podrán someter a ninguna categoría especial de 
 
 ###### Artículo 2.
 
-90. Las áreas naturales protegidas estatales constituyen en su conjunto el Sistema Estatal de Areas Naturales Protegidas.
+90. Las áreas naturales protegidas estatales constituyen en su conjunto el Sistema Estatal de reas Naturales Protegidas.
 
 ###### Artículo 2.
 
@@ -1805,7 +1821,7 @@ IV. Implementar las medidas necesarias para el mejoramiento de la vialidad y tra
 
 V. Promover el mejoramiento de los sistemas de transporte y solicitará toda clase de medidas en sus vialidades para disminuir las emisiones contaminantes.
 
-###### Artículo 2.
+###### Articulo 2.
 
 147. Los propietarios de los vehículos automotores de uso privado o de servicio público deberán:
 
@@ -7528,3 +7544,11 @@ G.G. 17 DE JULIO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los treinta días naturales, siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las personas físicas o jurídico colectivas que ya cuenten con concesión o autorización respectiva para prestar el servicio de guarda, custodia, reparación o depósito de vehículos, o para el comercio, guarda, almacenamiento o depósito de vehículos de desecho o autopartes usadas, en un plazo no mayor a sesenta días naturales, contados a partir de la entrada en vigor de la presente reforma, deberán contar con la autorización de impacto y riesgo ambiental que corresponda a su actividad.
