@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-07-17"
+last_updated: "2013-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -4147,7 +4147,9 @@ II. Participar en la elaboración o modificación del respectivo plan regional d
 
 III. Aprobar los proyectos ejecutivos, las memorias de cálculo y las especificaciones técnicas de las obras de infraestructura hidráulica y de urbanización, que establezcan los acuerdos de autorización de conjuntos urbanos, subdivisiones y condominios, con excepción de los proyectos que sean de competencia de las autoridades estatales o federales;
 
-IV. Supervisar la ejecución de las obras de urbanización e infraestructura hidráulica que establezcan los acuerdos de autorización de conjuntos urbanos, subdivisiones y condominios, que sean de su ámbito de competencia;
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2013)</small>
+
+IV. Supervisar la ejecución de las obras de urbanización e infraestructura hidráulica que establezcan los acuerdos de autorización de conjuntos urbanos, subdivisiones y condominios, que sean de su ámbito de competencia, verificando que estos cumplan las condiciones para la adecuada prestación de servicios públicos;
 
 V. Recibir, conservar y operar las áreas de donación establecidas a favor del municipio, así como, las obras de urbanización, infraestructura y equipamiento urbano de los conjuntos urbanos, subdivisiones y condominios conforme a este Libro y su reglamentación;
 
@@ -15635,11 +15637,11 @@ CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan
 
 G.G. 3 DE MAYO DE 2013.
 
-DECRETO No. 80 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO TRANSITORIO DÉCIMO DEL DECRETO NÚMERO 394, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO”, DE FECHA 16 DE DICIEMBRE DE 2011, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y REFORMADO MEDIANTE DECRETO NUMERO 10, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO”, DE FECHA 26 DE OCTUBRE DE 2012.
+DECRETO No. 80 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO TRANSITORIO DÉCIMO DEL DECRETO NÚMERO 394, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO", DE FECHA 16 DE DICIEMBRE DE 2011, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y REFORMADO MEDIANTE DECRETO NUMERO 10, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO", DE FECHA 26 DE OCTUBRE DE 2012.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
@@ -15707,10 +15709,16 @@ TERCERO.- El Titular del Ejecutivo del Estado, proveerá en la esfera administra
 
 G.G. 17 DE JULIO DE 2013.
 
-DECRETO No. 104 POR EL QUE SE ADICIONAN LA FRACCIÓN XVIII RECORRIÉNDOSE LA ACTUAL XVIII PARA SER XIX AL ARTÍCULO 14.8 Y LA FRACCIÓN XIX RECORRIÉNDOSE LA ACTUAL XIX PARA SER XX AL ARTÍCULO 14.45 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+DECRETO No. 104 POR EL QUE SE ADICIONAN LA FRACCIÓN XVIII RECORRIÉNDOSE LA ACTUAL XVIII PARA SER XIX AL ARTICULO 14.8 Y LA FRACCIÓN XIX RECORRIÉNDOSE LA ACTUAL XIX PARA SER XX AL ARTICULO 14.45 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- La reforma a la fracción IV del artículo 169 del Código Financiero del Estado de México y Municipios, entrará en vigor el día 1 de enero de 2014.
+
+G.G. 18 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
