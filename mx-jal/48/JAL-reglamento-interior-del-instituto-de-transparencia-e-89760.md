@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-de-transparencia-e-89760"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-16"
-last_updated: "2013-06-27"
+last_updated: "2013-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA E INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE JUNIO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 25 DE JUNIO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2013.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 16 de octubre de 2012.
 
@@ -231,9 +229,11 @@ El proyecto de acta deberá someterse a su aprobación en la siguiente sesión d
 
 El Presidente del Consejo cuenta con las atribuciones previstas en el artículo 16 de la Ley, tendrá a su cargo la representación legal del Instituto, que comprende el poder para actos de administración, además de tener la facultad de proponer al personal que compete designar al Consejo.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2013)</small>
+
 ###### Artículo 28.
 
-Los Consejeros tienen la obligación de llevar a cabo todas las funciones que establece la Ley al Consejo, y de manera individual tendrán todas aquellas atribuciones que se establezcan a las Comisiones que acuerde el propio Consejo.
+Los Consejeros tienen la obligación de llevar a cabo todas las funciones que establece la Ley al Consejo, llevar el control de la Comunicación Social del Instituto, y de manera individual tendrán todas aquellas atribuciones que se establezcan a las Comisiones que acuerde el propio Consejo.
 
 ###### Artículo 29.
 
@@ -287,7 +287,7 @@ II. Suplir las ausencias del Secretario de Acuerdos de la ponencia y/o Secretari
 
 III. Las demás que señalen las disposiciones legales aplicables.
 
-4. Corresponde a los Actuarios del lnstituto de Transparencia e Información Publica del Estado de Jalisco y sus municipios:
+4. Corresponde a los Actuarios del Instituto de Transparencia e Información Publica del Estado de Jalisco y sus municipios:
 
 I. Notificar en el tiempo y forma prescritos por la ley, las resoluciones recaídas en los expedientes que para tal efecto les sean turnados;
 
@@ -365,7 +365,7 @@ XX. Llevar el control, actualización y mejoras de la base de datos de los sujet
 
 XXI. Implementar y dar seguimiento a los planes y proyectos del área a su cargo, que sean aprobados en el presupuesto de egresos, para el ejercicio correspondiente;
 
-XXII. Llevar el control de la comunicación social del Instituto;
+XXII. (DEROGADA, P.O. 18 DE JULIO DE 2013)
 
 XXIII. Promover la cultura de la transparencia en el ámbito de su competencia;
 
@@ -389,9 +389,11 @@ Para el caso de generarse la ausencia definitiva, asumirán el cargo, con el car
 
 ### CAPÍTULO IV. De la Contraloría
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2013)</small>
+
 ###### Artículo 33.
 
-La Contraloría es el órgano responsable de ejecutar la revisión y/o auditoría de la administración del Instituto y de instaurar el trámite del derecho disciplinario a los servidores públicos, y dependerá directamente del Presidente del Instituto, respondiendo ante el Consejo en el cumplimiento de sus atribuciones.
+La Contraloría es el órgano responsable de ejecutar la revisión y/o auditoría de la administración del Instituto y de restaurar el trámite del derecho disciplinario a los servidores públicos, y dependerá directamente del Consejo del Instituto.
 
 ###### Artículo 34.
 
@@ -415,11 +417,17 @@ II. Proponer anteproyectos de normas que regulen el funcionamiento de los instru
 
 III. Practicar auditorías al Secretario Ejecutivo, a las Direcciones Administrativas y Unidades Desconcentradas del Instituto, siempre que manejen fondos, bienes y valores, cuando menos, una vez al año, contando con las más amplias facultades legales para tal efecto;
 
-IV. Conocer, investigar y comprobar, en la vía administrativa, las irregularidades en que incurran los servidores públicos del Instituto, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público, prestándole para tal efecto la colaboración que le fuere requerida;
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2013)</small>
 
-V. Efectuar labores de visitaduría interna;
+IV. Participar de la implementación, operación y evaluación del Servicio Civil de Carrera.
 
-VI. Las demás que le encomiende el Consejo y/o el Presidente del Instituto, así como las demás disposiciones legales aplicables.
+V. Conocer, investigar y comprobar, en la vía administrativa, las irregularidades en que incurran los servidores públicos del Instituto, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público, prestándole para tal efecto la colaboración que le fuere requerida;
+
+VI. Efectuar labores de visitaduría interna;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2013)</small>
+
+VII. Las demás que le encomiende el Consejo del Instituto, así como las demás disposiciones legales aplicables.
 
 ### CAPÍTULO V. De las Direcciones Administrativas
 
@@ -1097,11 +1105,11 @@ Abogado José Miguel Ángel de la Torre Laguna
 
 Secretario Ejecutivo del Instituto de Transparencia e Información Pública del Estado de Jalisco.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE FEBRERO DE 2013.
 
-EL ACUERDO DE REFORMA No. ASC. 136.12.2012 CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+EL ACUERDO DE REFORMA No. ASC. 136.12.2012 CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 25 DE JUNIO DE 2013.
 
@@ -1114,3 +1122,27 @@ El presente Acuerdo entrará en vigor el día siguiente de su publicación en el
 La Dirección de Planeación y de Gestión Administrativa en atención en uso de sus facultades realizará las adecuaciones técnicas, documentales y materiales necesarias para la reestructuración y mejoramiento del Instituto de Transparencia e Información Pública del Estado de Jalisco, dentro de los 50 días naturales siguientes a su entrada en vigor,
 
 Sin más, se aprueba por unanimidad de votos por el Pleno del Consejo del Instituto de Transparencia e Información Pública del Estado de Jalisco, la presente iniciativa, para los efectos conducentes en la Sesión Ordinaria de fecha 22 de Mayo del año 2013 dos mil trece.
+
+P.O. 18 DE JULIO DE 2013.
+
+ACUERDO POR EL QUE SE REFORMA EL ARTÍCULO 28; Y SE DEROGA EL INCISO (SIC) XXII DEL ARTÍCULO 31; AMBOS DEL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA E INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo de reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Jalisco.
+
+###### ARTICULO SEGUNDO.
+
+Se ordena transferir la adscripción de la Coordinación de Comunicación Social, así como la plaza de Técnico en Comunicación Social, de la Secretaria Ejecutiva hacia el Consejo del Instituto del cual pasará a ser dependiente orgánicamente.
+
+P.O. 18 DE JULIO DE 2013.
+
+ACUERDO POR EL QUE SE REFORMA EL ARTÍCULO 33 Y SE AGREGA UNA FRACCIÓN AL ARTÍCULO 35 DEL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA E INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo de Reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Jalisco.
+
+###### ARTICULO SEGUNDO.
+
+Se ordena transferir la adscripción de la Contraloría, así como la plaza de encargado de auditoría de la Presidencia del Instituto, al Consejo del Instituto, del cual pasará a ser dependiente orgánicamente.
