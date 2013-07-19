@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-instituto-queretano-de-las-mujeres-89335"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2012-08-30"
+last_updated: "2013-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL INSTITUTO QUERETANO DE LAS MUJERES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Querétaro, el jueves 30 de agosto de 2012.
 
@@ -53,7 +53,9 @@ Son sujetos de los derechos que esta Ley garantiza, las mujeres y los hombres qu
 
 Para los efectos del presente ordenamiento, se entenderá por:
 
-Acciones afirmativas, las medidas específicas de carácter temporal, racionablemente justificadas, que se ponen en marcha para proporcionar ventajas concretas a las mujeres.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2013)</small>
+
+Acciones afirmativas, las medidas especiales de carácter temporal, encaminadas a impulsar la equidad para lograr erradicar la violencia y la discriminación contra las mujeres.
 
 Conciliación de vida laboral y familiar, el conjunto de políticas públicas y acciones afirmativas para lograr que las mujeres no enfrenten la disyuntiva entre vida laboral y vida familiar, a través de la flexibilización de la estructura social y el impulso de programas para desarrollar el trabajo desde sus hogares y trabajos por proyectos.
 
@@ -71,25 +73,33 @@ Reglamento Interno, el Reglamento Interno del Instituto Queretano de las Mujeres
 
 Transversalidad, el proceso mediante el cual se instrumentan las políticas, programas y acciones de índole legislativo, ejecutivo, administrativo y reglamentario, desarrollados por las dependencias y entidades de la administración pública, con el propósito común de integrar el principio de equidad de género e igualdad entre mujeres y hombres, basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2013)</small>
+
 ###### Artículo 4.
 
-Para la aplicación de esta Ley serán observados los siguientes principios:
+La presente Ley tendrá como ejes rectores:
 
 I. Equidad de género;
 
-II. Libertad para el ejercicio pleno de los derechos de las personas;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2013)</small>
+
+II. Derechos Humanos de las Mujeres;
 
 III. Desarrollo integral de las mujeres;
 
 IV. Transversalidad;
 
-V. Transparencia en el diseño, promoción y ejecución de los programas del Instituto;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2013)</small>
+
+V. Transparencia;
 
 VI. Igualdad;
 
 VII. No discriminación;
 
-VIII. Subsidiariedad;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2013)</small>
+
+VIII. Rendición de Cuentas;
 
 IX. Solidaridad; y
 
@@ -105,15 +115,21 @@ Se crea el Instituto Queretano de las Mujeres como organismo público descentral
 
 El Instituto Queretano de las Mujeres tendrá su domicilio legal en el Municipio de Querétaro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2013)</small>
+
 ###### Artículo 6.
 
-El objeto general del Instituto Queretano de las Mujeres es promover, fomentar e instrumentar acciones que posibiliten la no discriminación, la igualdad de oportunidades entre mujeres y hombres y el ejercicio pleno de sus derechos, así como motivar la participación social en los ámbitos político, cultural, económico y social para alcanzar el desarrollo integral de la sociedad, bajo los criterios de:
+El objeto general del Instituto Queretano de las Mujeres es coordinar, proponer, impulsar, gestionar y ejecutar acciones afirmativas que posibiliten las condiciones para eliminar la discriminación, propiciar la equidad e igualdad de oportunidades entre hombres y mujeres y el ejercicio pleno de sus derechos, así como motivar la participación social en los ámbitos político, cultural, económico y social para alcanzar el desarrollo integral de la sociedad, bajo los criterios de:
 
 I. Transversalidad en las políticas públicas con perspectiva de género en las distintas dependencias y entidades de la administración pública estatal, a partir de la ejecución de programas y acciones coordinadas o conjuntas;
 
 II. Fortalecimiento de vínculos con los poderes Ejecutivo, Legislativo y Judicial, así como con los diferentes organismos constitucionales autónomos; y
 
 III. Coordinación permanente entre las entidades y dependencias de la administración pública estatal, así como entre autoridades federales y municipales, y entre los sectores social y privado, en relación con las mujeres.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2013)</small>
+
+Artículo 6 bis. La actuación del Instituto Queretano de las Mujeres se sustentará en el documento rector de la política estatal denominado Programa Estatal de las Mujeres, que contendrá las políticas generales, las líneas estratégicas y las acciones concretas para la institucionalización de la transversalidad, tendientes a impulsar la perspectiva de género y el desarrollo humano integral de las mujeres en los ámbitos económico, cultural, social y político.
 
 ### Capítulo Segundo. De las atribuciones del Instituto
 
@@ -153,11 +169,15 @@ XV. Promover la elaboración de metodologías, indicadores y estudios de género
 
 XVI. Integrar, administrar y actualizar permanentemente una biblioteca pública que contenga material con perspectiva de género, así como difundir su existencia y promover su consulta;
 
-XVII. Proporcionar, en el ámbito de su competencia, los servicios de asesoría jurídica, orientación y capacitación integral a las mujeres en el Estado;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2013)</small>
+
+XVII. Brindar atención psicológica y orientación legal a mujeres que manifiesten ser receptoras de violencia de género;
 
 XVIII. Establecer vinculación permanente con las autoridades de procuración, administración e impartición de justicia y seguridad pública en el Estado, para proponer medidas de prevención contra cualquier forma de discriminación contra las mujeres;
 
-XIX. Operar y coordinar el Refugio de Mujeres Maltratadas, así como otorgar a las refugiadas los servicios de representación legal, atención jurídica, psicológica y de salud;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2013)</small>
+
+XIX. Operar y coordinar el Refugio para Mujeres Víctimas de Violencia y brindar tanto a las víctimas como a sus hijas o hijos menores de edad, los apoyos gratuitos de hospedaje, alimentación, vestido, calzado, asesoría legal, atención psicológica y acceso a servicios médicos y hospitalarios, prestados por instituciones e instancias de salud públicas;
 
 XX. Promover que las menores continúen con sus estudios y que las mujeres obtengan capacitación, profesionalización y acceso a fuentes de empleo;
 
@@ -169,9 +189,27 @@ XXIII. Proponer a la persona titular del Poder Ejecutivo del Estado de Querétar
 
 XXIV. Establecer vinculación permanente con la Comisión Estatal de Derechos Humanos del Estado de Querétaro, en materia de discriminación hacia las mujeres;
 
-XXV. Formar parte de la representación del Poder Ejecutivo del Estado, en eventos y actividades relacionadas con la equidad de género; y
+XXV. Formar parte de la representación del Poder Ejecutivo del Estado, en eventos y actividades relacionadas con la equidad de género; y (sic)
 
-XXVI. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interno del Instituto.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2013)</small>
+
+XXVI. Promover, realizar y participar en cursos, talleres, foros, encuentros y eventos en general relacionados con la mujer de la entidad;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2013)</small>
+
+XXVII. Desarrollar, implementar y operar estrategias de sensibilización y capacitación en género a la comunidad, que promuevan la prevención y erradicación de la violencia contra las mujeres así como el reconocimiento, respeto y ejercicio de sus derechos humanos;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2013)</small>
+
+XXVIII. Elaborar, proponer, impulsar y ejecutar políticas, programas, instrumentos, mecanismos, metodologías y acciones tendientes a la detección, atención, y protección de las mujeres receptoras de la violencia en el Estado;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2013)</small>
+
+XXIX. Canalizar a las instancias que correspondan, los casos de violencia que detecte o que le reporten y actuar como coadyuvante en la defensa de los intereses de la mujer ante dichas instancias conforme al marco legal aplicable; y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2013)</small>
+
+XXX. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interno del Instituto.
 
 ### Capítulo Tercero. De la estructura orgánica y funcionamiento del Instituto
 
@@ -185,7 +223,9 @@ II. Una Dirección General; y
 
 III. Un Órgano Interno de Control.
 
-La Dirección General contará con una Dirección Técnica, una Dirección del Refugio de Mujeres Maltratadas y la demás estructura administrativa que se establezca en el Reglamento Interno, a fin de cumplir con el objeto y atribuciones que se le otorgan al Instituto en el presente ordenamiento.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2013)</small>
+
+La Dirección General contará con una Dirección Técnica, una Dirección del Refugio para Mujeres Víctimas de Violencia y la demás estructura administrativa que se establezca en el Reglamento Interno, a fin de cumplir con el objeto y atribuciones que se le otorgan al Instituto en el presente ordenamiento.
 
 ###### Artículo 9.
 
@@ -253,7 +293,9 @@ IX. Proponer, con sujeción a las disposiciones legales, las normas necesarias p
 
 X. Crear Comités de Apoyo y determinar sus bases de funcionamiento;
 
-XI. Designar y remover, a propuesta de la Directora General, a los servidores públicos de los dos niveles administrativos inferiores al de aquélla, así como concederles licencias;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2013)</small>
+
+XI. Designar y remover, a propuesta de la Directora General, a los servidores públicos de los dos niveles administrativos inferiores al de aquélla;
 
 XII. Proponer el Reglamento Interno del Instituto y el proyecto de estructura orgánica, previa opinión de las dependencias competentes; así como el Manual de Organización General y los correspondientes de Procedimientos y Servicios al Público del Instituto y enviarlos a la persona titular del Poder Ejecutivo del Estado para su aprobación y publicación;
 
@@ -271,9 +313,11 @@ La Junta de Gobierno sesionará válidamente con la asistencia de la mitad más 
 
 Para lo no establecido en esta Ley, la Junta de Gobierno funcionará y ejercerá sus atribuciones de conformidad con lo que establezca el reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2013)</small>
+
 ###### Artículo 12.
 
-La Dirección General del Instituto estará a cargo de una mujer, que será designada y removida por la persona titular del Poder Ejecutivo del Estado, a partir de una terna que deberá presentar la Junta de Gobierno. Durará en su cargo tres años y podrá ser ratificada para un segundo periodo, mismo que no excederá del correspondiente al ejercicio constitucional del Gobernador del Estado.
+La Dirección General del Instituto estará a cargo de una mujer, que será designada y removida por la persona titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 13.
 
@@ -297,7 +341,9 @@ La Directora General del Instituto tendrá las siguientes facultades:
 
 I. Administrar y representar legalmente al Instituto;
 
-II. Formular y presentar para su aprobación a la Junta de Gobierno, las políticas públicas transversales y acciones afirmativas relacionadas con el objeto y atribuciones del Instituto, incluido el anteproyecto del Programa Estatal de Igualdad Sustantiva entre Mujeres y Hombres;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2013)</small>
+
+II. Formular y presentar para su aprobación a la Junta de Gobierno, las políticas públicas transversales y acciones afirmativas relacionadas con el objeto y atribuciones del Instituto, incluido el anteproyecto del Programa Estatal de las Mujeres;
 
 III. Proponer para la consideración y, en su caso, aprobación de la Junta de Gobierno, el anteproyecto de Reglamento Interno, los manuales administrativos y demás normatividad interna que requiera su correcta operación;
 
@@ -311,7 +357,9 @@ VII. Dirigir las actividades del Instituto, así como definir las medidas necesa
 
 VIII. Proponer a la Junta de Gobierno el nombramiento y remoción de los servidores públicos del Instituto que ocupen cargos hasta de dos jerarquías administrativas inferiores a la suya, así como la estructura básica del Instituto, en todo aquello que no contravenga lo dispuesto en esta Ley o su Reglamento Interno;
 
-IX. Nombrar y remover a los servidores públicos del Instituto, excepto en los casos en que dichos nombramientos sean una facultad expresa de la Junta de Gobierno o la Secretaría de la Contraloría del Estado, conforme a lo dispuesto por esta Ley y la Ley de la Administración Pública Paraestatal del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2013)</small>
+
+IX. Nombrar y remover a los servidores públicos del Instituto, sin perjuicio de las atribuciones que en esta materia tiene la Junta de Gobierno, así como decidir lo relativo a las licencias a (sic) solicitadas por el personal a su cargo;
 
 X. Someter a la aprobación de la Junta de Gobierno, los informes periódicos y estados financieros del Instituto, con la intervención que corresponda al Órgano Interno de Control y publicarlos cuando aquélla lo autorice;
 
@@ -464,3 +512,11 @@ Lic. Jorge López Portillo Tostado
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE JULIO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
