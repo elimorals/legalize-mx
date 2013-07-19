@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2012-06-22"
+last_updated: "2013-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -101,9 +101,11 @@ El Estado y sus municipios están obligados a prestar servicios educativos, para
 
 Es obligación de los padres y tutores lograr que sus hijas, hijos y pupilos cursen, en igualdad de oportunidades, los niveles de la educación básica y media superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2013)</small>
+
 ###### Artículo 7.
 
-La educación que impartan el Estado, los municipios y los particulares, promoverá el conocimiento de la geografía, la cultura, las características sociales y económicas, los valores arqueológicos, históricos, artísticos, tradiciones, lenguas y creencias de los grupos indígenas, y el papel de éstos en la configuración y el desarrollo de la historia e identidad de los queretanos y de la nación mexicana.
+La educación que impartan el Estado, los municipios y los particulares, promoverá el conocimiento de la cultura, geografía, la cultura política-democrática y cultura cívica, las características sociales y económicas, los valores arqueológicos, históricos, artísticos, tradiciones, lenguas y creencias de los grupos indígenas, y el papel de éstos en la configuración y el desarrollo de la historia e identidad de los queretanos y de la nación mexicana.
 
 > <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
 
@@ -749,9 +751,11 @@ La educación que no requiera autorización o no sea susceptible de reconocimien
 
 ### Capítulo Primero. De los padres de familia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2013)</small>
+
 ###### Artículo 58.
 
-Son derechos de quienes ejercen patria potestad o tutela, los siguientes:
+Son derechos y obligaciones de quienes ejercen patria potestad o tutela, los siguientes:
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
@@ -767,9 +771,27 @@ V. Participar con su asociación de padres de familia en la toma de decisiones, 
 
 VI. Recibir información de su asociación de padres de familia, bajo los lineamientos establecidos en la presente Ley;
 
-VII. Obtener el reglamento respectivo de las asociaciones de padres de familia, al inicio de cada ciclo escolar; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2013)</small>
 
-VIII. Los demás establecidos en las leyes y reglamentos respectivos.
+VII. Obtener el reglamento respectivo de las asociaciones de padres de familia, al inicio de cada ciclo escolar;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2013)</small>
+
+VIII. Conocer las calificaciones y resultados de las evaluaciones parciales o finales de sus hijos o pupilos;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2013)</small>
+
+IX. Obtener la información de los resultados de la evaluación al Sistema Educativo Estatal realizada por las autoridades educativas;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2013)</small>
+
+X. Participar en los programas, cursos y talleres que determine la Secretaría de Educación, los cuales serán tendientes a fomentar la vinculación con los educandos en temas de sexualidad, nutrición, valores, seguridad y demás que se requieran, acorde a la realidad social que se va presentando;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2013)</small>
+
+XI. Hacer del conocimiento de la autoridad educativa del plantel, las irregularidades cometidas por el personal administrativo o académico, que ocasionen perjuicios, daños o cambios emocionales en los educandos; y
+
+XII. Los demás establecidos en las leyes y reglamentos respectivos.
 
 ###### Artículo 59.
 
@@ -805,9 +827,17 @@ IV. Acordar, en su caso, de manera conjunta con los padres de familia, el monto 
 
 V. Reunir y administrar debidamente los fondos obtenidos con aportaciones o actividades de sus miembros para los fines de la educación, mismos que serán considerados como patrimonio particular de los padres de familia, hasta en tanto no sean entregados oficialmente a la autoridad educativa, mediante numerario, bienes o servicios, que no serán considerados como contraprestación del servicio, por lo que en ningún caso se podrá condicionar alguno de los derechos del educando;
 
-VI. Informar a quienes ejerzan patria potestad o tutela, sobre el estado financiero en que se encuentra la asociación, en los términos que señala la presente Ley; y
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2013)</small>
 
-VII. Sujetarse a lo que prevengan los reglamentos respectivos.
+VI. Propiciar el mejoramiento social y cultural de sus miembros;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2013)</small>
+
+VII. Elaborar y registrar el plan anual de trabajo de las asociaciones de padres de familia, en el que se establezca la forma en que se llevará a cabo la captación de recursos por concepto de aportaciones voluntarias, así como el desglose del uso y destino de los mismos, que podrá variar atendiendo a las necesidades de cada centro escolar;
+
+VIII. Informar a quienes ejerzan patria potestad o tutela, sobre el estado financiero en que se encuentra la asociación, en los términos que señala la presente Ley; y
+
+IX. Sujetarse a lo que prevengan los reglamentos respectivos.
 
 ###### Artículo 61.
 
@@ -1152,3 +1182,9 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. La obligatoriedad de la educación media superior se implementará a partir del ciclo 2012-2013, creciendo de manera gradual, hasta universalizar la obligatoriedad en todo el Estado para el ciclo 2021-2022; acorde a lo dispuesto en el Decreto por el que se declara reformado el párrafo primero, el inciso c) de la fracción II y la fracción V del artículo 3°, y la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 19 DE JULIO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
