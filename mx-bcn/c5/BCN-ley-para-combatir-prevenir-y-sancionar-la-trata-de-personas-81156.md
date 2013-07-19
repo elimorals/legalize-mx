@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-combatir-prevenir-y-sancionar-la-trata-de-personas-811
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-01"
-last_updated: "2011-04-01"
+last_updated: "2013-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO DEL DECRETO NO. 489 Y TRANSITORIO PRIMERO DE LA LEY PARA PREVENIR, ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE BAJA CALIFORNIA, PUBLICADOS EN EL P.O. 19 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013 (ABROGADO).
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 1 de abril de 2011.
 
@@ -692,3 +694,25 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE JULIO DE 2013.
+
+> <small>N. DE E. SE TRANSCRIBE EL ARTÍCULO DEL DECRETO No. 489 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+SEGUNDO.- Se abroga la Ley para Combatir, Prevenir y Sancionar la Trata de Personas en el Estado de Baja California, publicada en el Periódico Oficial No. 18, Tomo CXVIII, Sección 1, de fecha 01 de abril de 2011.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL DECRETO No. 489 POR EL QUE SE APRUEBA LA LEY PARA PREVENIR, ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE BAJA CALIFORNIA.</small>
+
+PRIMERO. El presente Decreto entrará en vigor a los noventa días siguientes a su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. El Ejecutivo del Estado dentro del término de 90 días, deberá elaborar y publicar el reglamento correspondiente.
+
+TERCERO. El Ejecutivo del Estado y los municipios deberán incluir a partir del ejercicio fiscal 2014 y en los subsecuentes, dentro de sus presupuestos anuales, recursos suficientes para la implementación de programas y acciones para prevenir, atender, combatir y erradicar dichos delitos.
+
+CUARTO. Treinta días posteriores a la entrada en vigor del presente Decreto, la Procuraduría General de Justicia del Estado de Baja California, deberá realizar las acciones necesarias para la creación de la Fiscalía Especializada a que se refiere la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, de conformidad con el presupuesto que para tal efecto le sea asignado; atentos a lo dispuesto en el artículo transitorio anterior.
+
+QUINTO. Todos los asuntos que se encuentren en etapa de averiguación previa, proceso, hayan sido sentenciados o se encuentren en la ejecución de sentencia por delitos relacionados con el presente Decreto, seguirán rigiéndose por las normas vigentes anteriores a la entrada en vigor del presente decreto.
+
+SEXTO. La constitución de la Comisión Interinstitucional deberá realizarse en un plazo máximo de 90 días naturales a partir de la entrada en vigor de la ley; así como la designación del Secretario Técnico de ésta.
