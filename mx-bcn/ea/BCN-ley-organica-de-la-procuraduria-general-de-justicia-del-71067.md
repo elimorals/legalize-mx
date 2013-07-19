@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-71067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-11-13"
-last_updated: "2013-03-08"
+last_updated: "2013-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -587,9 +587,21 @@ En la substanciación de estos procedimientos hasta dejarlos en estado de resolu
 
 Las solicitudes de reincorporación al servicio de carrera se analizarán por el Procurador, y en su caso, se evaluará si el servidor público debe aprobar de nueva cuenta los cursos para ingresar al servicio de carrera, siempre y cuando el motivo de la baja haya sido por causas distintas al incumplimiento a los requisitos de permanencia o al seguimiento de un proceso de responsabilidad administrativa o penal, local o federal.
 
-### CAPÍTULO VI. RESPONSABILIDADES Y SANCIONES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPÍTULO VII. DE LAS EXCUSAS Y RECUSACIONES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE JULIO DE 2013)</small>
+
+### CAPÍTULO V BIS. FISCALÍA ESPECIALIZADA EN DELITOS DE TRATA DE PERSONAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2013)</small>
+
+ARTÍCULO 38 BIS.- Le corresponde a la Fiscalía Especializada en delitos de trata de personas o al Agente de Ministerio Público designado por el Procurador General de Justicia, en los términos de la presente Ley, el ejercicio de la acción penal.
+
+Dicha Fiscalía Especializada o el Agente de Ministerio Público tendrán las facultades que le otorgan esta Ley y la Ley para Prevenir, Erradicar la Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos en el Estado de Baja California.
+
+### CAPÍTULO VI. RESPONSABILIDADES Y SANCIONES
 
 ###### ARTÍCULO 39.
 
@@ -723,6 +735,8 @@ Cuando la autoridad jurisdiccional resolviere que la separación, remoción, baj
 
 La indemnización consistirá en la cantidad equivalente a tres meses de la remuneración que gozaba hasta antes de su separación, remoción, baja, cese o cualquier otra forma de terminación del servicio.
 
+### CAPÍTULO VII. DE LAS EXCUSAS Y RECUSACIONES
+
 ###### ARTÍCULO 47.
 
 Los servidores públicos de la Procuraduría podrán excusarse y ser recusados en los negocios que intervengan, cuando incurran en ellos una o más de las causas que motivan las excusas de los magistrados y jueces. La excusa y la recusación deberán ser calificadas en definitiva por el Procurador y su trámite se definirá en el Reglamento.
@@ -810,3 +824,7 @@ SEGUNDO.- Los dictámenes, certificaciones y constancias periciales y demás act
 P.O. 8 DE MARZO DE 2013.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor a los noventa días siguientes a su publicación en el Periódico Oficial del Estado de Baja California.
