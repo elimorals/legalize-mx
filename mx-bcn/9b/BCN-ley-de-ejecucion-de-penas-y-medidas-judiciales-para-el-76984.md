@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-penas-y-medidas-judiciales-para-el-76984"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2013-06-14"
+last_updated: "2013-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -983,11 +983,11 @@ III.- Si el Imputado estuvo sujeto de forma simultánea a dos o más procesos po
 
 #### SECCIÓN SEGUNDA. SEMILIBERTAD
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 131.
 
-El Juez de Garantías o el Tribunal de Juicio Oral, según corresponda, podrá condenar a la pena de semilibertad, misma que consiste en la alternancia de períodos de privación de la libertad y trabajo en favor de la comunidad. Se aplicará, según las circunstancias del caso, del siguiente modo: Externación durante la jornada de trabajo, con reclusión de fin de semana; salida de fin de semana, con reclusión durante el resto de ésta; o salida diurna, con reclusión nocturna.
-
-El cumplimiento al internamiento en semilibertad se regulará conforme al reglamento correspondiente.
+La semilibertad comprende la alternancia de períodos de privación de la libertad, de trabajo en favor de la comunidad y tratamiento en libertad en términos de lo dispuesto por el Código Penal del Estado.
 
 ### CAPÍTULO IV. PENAS NO PRIVATIVAS DE LIBERTAD
 
@@ -1025,11 +1025,17 @@ En el caso de suspensión o privación de funciones, empleos o profesiones, la a
 
 Cuando se haya decretado la inhabilitación, se notificará a la Secretaría General de Gobierno para que notifique a todas las Dependencias del Estado y a los Municipios, dicha resolución.
 
-#### SECCIÓN PRIMERA. VIGILANCIA DE LA AUTORIDAD
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE JULIO DE 2013)</small>
+
+#### SECCIÓN TERCERA. TRATAMIENTO EN LIBERTAD
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2013)</small>
+
+ARTÍCULO 137 BIS.- El tratamiento en libertad consiste en la aplicación, según el caso, de medidas laborales, educativas o médicas, orientadas a la reinserción social del sentenciado, en términos de lo dispuesto por el Código Penal del Estado.
 
 ### CAPÍTULO V. MEDIDAS DE SEGURIDAD
 
-#### SECCIÓN SEGUNDA. TRATAMIENTO DE INIMPUTABLES
+#### SECCIÓN PRIMERA. VIGILANCIA DE LA AUTORIDAD
 
 ###### ARTÍCULO 138.
 
@@ -1037,19 +1043,19 @@ La vigilancia de la autoridad consiste en la observación y orientación de la c
 
 La procedencia de la vigilancia de la autoridad se sujetara a las reglas previstas en el Código Penal para el Estado de Baja California, esta Ley y disposiciones reglamentarias que de ella derive, y demás normatividad aplicable.
 
-#### SECCIÓN TERCERA. TRATAMIENTO DE DESHABITUACIÓN O DESINTOXICACIÓN
+#### SECCIÓN SEGUNDA. TRATAMIENTO DE INIMPUTABLES
 
 ###### ARTÍCULO 139.
 
 La ejecución del tratamiento de inimputables en internamiento o en libertad, como de los imputables disminuidos, así como su modificación o conclusión provisional o definitiva, quedará sujeta a los términos dispuestos en el Código Penal para el Estado de Baja California, esta Ley y disposiciones reglamentarias correspondientes.
 
-#### SECCIÓN CUARTA. PROHIBICIÓN DE IR A CIRCUNSCRIPCIÓN DETERMINADA O DE RESIDIR EN ELLA
+#### SECCIÓN TERCERA. TRATAMIENTO DE DESHABITUACIÓN O DESINTOXICACIÓN
 
 ###### ARTÍCULO 140.
 
 La ejecución del tratamiento de deshabituación o desintoxicación, quedará sujetó a los términos dispuestos en el Código Penal para el Estado de Baja California, esta Ley y disposiciones reglamentarias correspondientes.
 
-#### SECCIÓN PRIMERA. DE LA MODIFICACIÓN DE LAS CONDICIONES DE APLICACIÓN
+#### SECCIÓN CUARTA. PROHIBICIÓN DE IR A CIRCUNSCRIPCIÓN DETERMINADA O DE RESIDIR EN ELLA
 
 ###### ARTÍCULO 141.
 
@@ -1075,13 +1081,13 @@ Si se revoca por la comisión de nuevo delito y el Sentenciado se encuentra en p
 
 ### CAPÍTULO VII. DE LOS BENEFICIOS DE LIBERTAD ANTICIPADA
 
-#### SECCIÓN SEGUNDA. DE LA CONMUTACIÓN
+#### SECCIÓN PRIMERA. DE LA MODIFICACIÓN DE LAS CONDICIONES DE APLICACIÓN
 
 ###### ARTÍCULO 145.
 
 Cuando el Sentenciado no pueda cumplir alguna de las modalidades de la pena o medidas de seguridad impuesta, por ser incompatible con su edad, sexo, estado de salud u otras circunstancias análogas, previa recomendación del Consejo Técnico, a solicitud de la Dirección de Ejecución, el Juez de Ejecución podrá modificarla.
 
-#### SECCIÓN TERCERA. DE LA LIBERTAD PREPARATORIA
+#### SECCIÓN SEGUNDA. DE LA CONMUTACIÓN
 
 ###### ARTÍCULO 146.
 
@@ -1097,7 +1103,7 @@ IV.- Mujeres con hijos menores de edad.
 
 Queda exceptuado el otorgamiento del presente beneficio, a los Sentenciados por los delitos de homicidio doloso, secuestro, violación.
 
-#### SECCIÓN CUARTA. DE LA REMISIÓN PARCIAL DE LA PENA
+#### SECCIÓN TERCERA. DE LA LIBERTAD PREPARATORIA
 
 ###### ARTÍCULO 147.
 
@@ -1171,7 +1177,7 @@ Los liberados que disfruten del beneficio a que refiere esta sección, estarán 
 
 Cuando se resuelva no otorgar el beneficio, el sentenciado podrá solicitarlo nuevamente pasados ciento ochenta días naturales de la negativa.
 
-#### SECCIÓN QUINTA. DE LA PRELIBERACIÓN
+#### SECCIÓN CUARTA. DE LA REMISIÓN PARCIAL DE LA PENA
 
 ###### ARTÍCULO 153.
 
@@ -1183,7 +1189,7 @@ Sólo contarán para la remisión parcial de la pena, las jornadas efectivamente
 
 El cómputo de los términos para el otorgamiento del beneficio de remisión parcial de la pena se realizará tomando en cuenta la pena privativa de libertad impuesta, sin perjuicio de que se haya dictado una nueva sentencia condenatoria.
 
-#### SECCIÓN SEXTA. DEL PROCEDIMIENTO PARA LA CONCESIÓN DE BENEFICIOS DE LIBERTAD ANTICIPADA
+#### SECCIÓN QUINTA. DE LA PRELIBERACIÓN
 
 ###### ARTÍCULO 155.
 
@@ -1210,6 +1216,8 @@ II.- Cuando no realice las actividades o abandone el trabajo que justificaba el 
 III.- Cuando incurra en conductas contrarias a las impuestas.
 
 IV.- Cuando use drogas u otras substancias de efectos similares.
+
+#### SECCIÓN SEXTA. DEL PROCEDIMIENTO PARA LA CONCESIÓN DE BENEFICIOS DE LIBERTAD ANTICIPADA
 
 ###### ARTÍCULO 159.
 
@@ -1414,3 +1422,7 @@ P.O. 14 DE JUNIO DE 2013.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- La Secretaría de Seguridad Pública del Estado de Baja California, contará con noventa días posteriores a la entrada en vigor de la presente reforma de adición, para hacer las adecuaciones reglamentarias y de instalaciones en los Centros de Reinserción Social del Estado en los términos que la misma ordena.
+
+P.O. 19 DE JULIO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
