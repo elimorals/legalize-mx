@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2013-01-25"
+last_updated: "2013-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -425,9 +425,11 @@ Las sesiones del Tribunal serán fijadas en el calendario anual que se apruebe a
 
 Se podrá sesionar fuera de calendario, para tratar y resolver únicamente aquellos asuntos de carácter urgente o extraordinario, previa convocatoria del Presidente por iniciativa propia o de los Magistrados.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 32.
 
-En las sesiones secretas en las que deban tomarse acuerdos reservados, desempeñará las funciones de Secretario el Magistrado que elija el Pleno.
+En las sesiones privadas en las que deban tomarse acuerdos reservados, desempeñará las funciones de Secretario el Magistrado que elija el Pleno.
 
 ### CAPITULO III. DE LAS VISITAS A LOS CENTROS DE READAPTACION
 
@@ -558,6 +560,10 @@ XII.- Convocar a sesión extraordinaria del Pleno a solicitud de Consejo de la J
 ###### ARTICULO 45.
 
 Las Salas del Tribunal Superior de Justicia del Estado podrán ser Colegiadas o Unitarias; las primeras integradas por lo menos con tres Magistrados y las segundas integradas por un Magistrado, designadas por número ordinario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2013)</small>
+
+Las sesiones de las salas del Tribunal serán públicas por regla general y por excepción privadas solo en los casos que así lo determine la ley.
 
 ###### ARTICULO 46.
 
@@ -4006,3 +4012,7 @@ SEGUNDO.- Los dictámenes, certificaciones y constancias periciales y demás act
 ARTÍCULO TRANSITORIO DEL DECRETO
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE JULIO DE 2013.
+
+ÚNICO.-Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial de Estado de Baja California.
