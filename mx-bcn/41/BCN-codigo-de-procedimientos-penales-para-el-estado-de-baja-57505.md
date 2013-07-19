@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2012-12-07"
+last_updated: "2013-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 7 DE DICIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 221 PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -1573,9 +1571,9 @@ V.- Contra el libre desarrollo de la personalidad, previstos en los artículos 2
 
 VI.- El delito de Peculado previsto en el artículo 299 fracción III del Código Penal.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII.-Trata de personas prevista en los artículos 10 y 11 de la Ley para Combatir, Prevenir y Sancionar la Trata de Personas en el Estado de Baja California.
+VII.- (DEROGADA, P.O. 19 DE JULIO DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4984,3 +4982,7 @@ P.O. 19 DE OCTUBRE DE 2012.
 P.O. 16 DE NOVIEMBRE DE 2012.
 
 ÚNICO.- La presente reforma entrará en vigor en el Municipio de Mexicali al día siguiente de su publicación en el Periódico Oficial del Estado, mientras que en el resto de los Municipios, será en términos de lo dispuesto por las fracciones I y II del artículo primero transitorio del Código de Procedimientos Penales para el Estado publicado el 19 de octubre de 2007 en el Periódico Oficial del Estado.
+
+P. O. 19 DE JULIO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a los noventa días de su publicación en el Periódico Oficial de (sic) Estado de Baja California.
