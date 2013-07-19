@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-de-vialidad-para-el-estado-libre-y-95370"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-17"
-last_updated: "2013-07-17"
+last_updated: "2013-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 17 de julio de 2013.
 
@@ -273,7 +273,7 @@ f) Prohibición de paso a ciertos vehículos;
 
 g) Restricción de estacionamientos;
 
-h) Restricción de peatones; y (sic)
+h) Restricción de peatones; y
 
 i) Restricción o limitaciones diversas.
 
@@ -759,9 +759,17 @@ a) Colocarse invariablemente en las partes anterior y posterior de los automóvi
 
 b) Encontrarse libres de sustancias o materiales que dificulten o impidan su visibilidad, no estar remachadas, soldadas al vehículo o llevar distintivos u objetos;
 
-c) Coincidir con el engomado y la tarjeta de circulación; y
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2013)</small>
 
-d) Tener la dimensión y características que especifique la Norma Oficial Mexicana respectiva.
+c) Coincidir con el engomado y la tarjeta de circulación;
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2013)</small>
+
+d) Tener la dimensión y características que especifique la Norma Oficial Mexicana respectiva; y
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2013)</small>
+
+e) Ubicarse sin alteraciones.
 
 II. Engomado, colocado en el medallón del vehículo, sin que sea necesario en vehículos de demostración;
 
@@ -1191,13 +1199,21 @@ I. Retención de la licencia de conducir, tarjeta de circulación o placas de ve
 
 II. El retiro de la circulación mediante el aseguramiento de vehículos, el cual será procedente en los siguientes casos:
 
-a) Conducir en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca efecto similar;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2013)</small>
 
-b) No contar con placas, engomado y tarjeta de circulación o permiso correspondiente, hasta que se subsane la omisión;
+a) Conducir en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca efecto similar.
 
-e) Estacionarse en lugar prohibido, y
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2013)</small>
 
-d) No contar con ninguno de los documentos señalados en la fracción I del presente artículo para garantizar el pago de la sanción.
+b) Conducir con placas cubiertas, alteradas, superpuestas o que no coincidan con el engomado, así como sin placas, engomado, tarjeta de circulación o permiso correspondiente, hasta que se subsane la omisión.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2013)</small>
+
+c) Estacionarse en lugar prohibido.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2013)</small>
+
+d) No contar con los documentos señalados en la fracción I del presente artículo.
 
 Para el retiro de vehículos de la circulación se hará uso de la grúa si fuere necesario.
 
@@ -1231,7 +1247,9 @@ II. Multa, misma que será cuantificada en salarios mínimos.
 
 La imposición de la sanción señalada para cada falta de manera específica y con las equivalencias ordenadas, se hará en términos del siguiente tabulador:
 
-> <small>N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL P.O. DEL 17 DE JULIO DE 2013, PAGINAS DE LA 29 A LA 39.</small>
+> <small>[N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL P.O. DEL 17 DE JULIO DE 2013, PAGINAS DE LA 29 A LA 39.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. DE 19 DE JULIO DE 2013, PÁGINA 4.]</small>
 
 ###### ARTÍCULO 66.
 
@@ -1424,3 +1442,13 @@ PRIMERO. 1(sic) presente Reglamento deberá publicarse en el Periódico Oficial 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Reglamento.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los treinta y uno del mes de mayo de dos mil trece.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS. Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.- El Secretario de Seguridad pública.- C. FACUNDO ROSAS ROSAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE JULIO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
