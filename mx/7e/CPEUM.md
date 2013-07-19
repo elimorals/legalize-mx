@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2013-06-11"
+last_updated: "2013-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JULIO DE 2013.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -694,13 +694,17 @@ III. Toda persona que se considere afectada podrá interponer los recursos respe
 
 Ningún juicio criminal deberá tener más de tres instancias. Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en el juicio se le absuelva o se le condene. Queda prohibida la práctica de absolver de la instancia.
 
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE JULIO DE 2013)</small>
 
 ###### Art. 24.
 
-Todo hombre es libre para profesar la creencia religiosa que más le agrade y para practicar las ceremonias, devociones o actos del culto respectivo, siempre que no constituyan un delito o falta penados por la ley.
+Toda persona tiene derecho a la libertad de convicciones éticas, de conciencia y de religión, y a tener o adoptar, en su caso, la de su agrado. Esta libertad incluye el derecho de participar, individual o colectivamente, tanto en público como en privado, en las ceremonias, devociones o actos del culto respectivo, siempre que no constituyan un delito o falta penados por la ley. Nadie podrá utilizar los actos públicos de expresión de esta libertad con fines políticos, de proselitismo o de propaganda política.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
 
 El Congreso no puede dictar leyes que establezcan o prohiban religión alguna.
+
+(REFORMADO, D.O.F. 28 DE ENERO DE 1992) (REPUBLICADO, D.O.F. 19 DE JULIO DE 2013)
 
 Los actos religiosos de culto público se celebrarán ordinariamente en los templos. Los que extraordinariamente se celebren fuera de éstos se sujetarán a la ley reglamentaria.
 
@@ -6425,3 +6429,7 @@ b) Un programa de trabajo para reorganizar el espectro radioeléctrico a estacio
 El Instituto Federal de Telecomunicaciones deberá realizar las acciones necesarias para contribuir con los objetivos y metas fijados en el Plan Nacional de Desarrollo y demás instrumentos programáticos, relacionados con los sectores de radiodifusión y telecomunicaciones.
 
 DÉCIMO OCTAVO. Los derechos laborales de los trabajadores que presten sus servicios en las empresas y organismos dedicados a las actividades que comprende el presente Decreto se respetarán en todo momento de conformidad con la ley.
+
+D.O.F. 19 DE JULIO DE 2013.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
