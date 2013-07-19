@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2013-03-29"
+last_updated: "2013-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -109,6 +109,10 @@ La educación que se imparta en el Estado, promoverá el conocimiento de su geog
 
 El Sistema Educativo Estatal estará orientado a exaltar los valores universales cívicos y democráticos del hombre; a fomentar el trabajo productivo para una convivencia social armónica y promover el desarrollo de la ciencia, la tecnología y la innovación. Se reconoce la autonomía de la universidad pública en los términos que la ley establezca. Se promoverá y se atenderá la educación superior necesaria para el desarrollo del Estado, destinando el subsidio suficiente y oportuno para el cumplimiento eficaz de sus fines.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2013)</small>
+
+La cultura de los queretanos constituye un bien irrenunciable y un derecho fundamental. Las leyes protegerán el patrimonio y las manifestaciones culturales; las autoridades, con la participación responsable de la sociedad, promoverán el rescate, la preservación, el fortalecimiento, la protección, la restauración y la difusión del patrimonio cultural que define al pueblo queretano, mismo que es inalienable e imprescriptible.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 5.
@@ -117,11 +121,13 @@ Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bie
 
 La protección, la conservación, la restauración y la sustentabilidad de los recursos naturales serán tareas prioritarias del Estado.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P. O. 19 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 6.
 
-La cultura de los queretanos constituye un bien irrenunciable y un derecho fundamental. Las leyes protegerán el patrimonio y las manifestaciones culturales; las autoridades, con la participación responsable de la sociedad, promoverán el rescate, la preservación, el fortalecimiento, la protección, la restauración y la difusión del patrimonio cultural que define al pueblo queretano, mismo que es inalienable e imprescriptible.
+Toda persona tiene derecho a acceder de forma libre y universal a Internet y a las tecnologías de la información y la comunicación.
+
+El Estado está obligado a implementar las políticas necesarias para hacer efectivo este derecho, en los términos establecidos por la Ley.
 
 > <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
 
@@ -1402,3 +1408,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Atendiendo al criterio de gradualidad a que se refiere el segundo párrafo del Artículo Transitorio Segundo del Decreto de fecha 18 de junio de 2008, que reformó la Constitución Política de los Estados Unidos Mexicanos, la legislación secundaria adoptará la modalidad regional en que entrará en vigor el nuevo sistema de justicia penal y su gradualidad en los distritos judiciales en que se divide el Estado de Querétaro.
+
+P.O. 19 DE JULIO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero El Congreso del Estado de Querétaro deberá expedir la Ley reglamentaria del artículo 6 de la Constitución Política del Estado de Querétaro, en un plazo de noventa días contado a partir de la fecha de publicación de la presente Ley.
