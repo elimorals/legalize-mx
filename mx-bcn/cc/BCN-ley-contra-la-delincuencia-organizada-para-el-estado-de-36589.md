@@ -4,7 +4,7 @@ identifier: "BCN-ley-contra-la-delincuencia-organizada-para-el-estado-de-36589"
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-02"
-last_updated: "2011-12-30"
+last_updated: "2013-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY CONTRA LA DELINCUENCIA ORGANIZADA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 2 de enero de 2004.
 
@@ -109,9 +109,9 @@ XII. Pornografía de personas menores de dieciocho años de edad o personas que 
 
 XIII. Turismo Sexual con personas menores de dieciocho años de edad o personas que no tienen la capacidad de comprender el significado del hecho o persona (sic) que no tienen capacidad de resistirlo; previsto en el artículo 262 Ter del Código Penal;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIV. Trata de personas y trata de personas menores de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o persona (sic) que no tienen capacidad de resistirlo; tipificado en los artículos 10 y 11 de la Ley para Combatir y Prevenir y Sancionar la Trata de Personas en el Estado de Baja California.
+XIV.- (DEROGADA, P.O. 19 DE JULIO DE 2013)
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2007)</small>
 
@@ -354,3 +354,7 @@ P.O. 10 DE SEPTIEMBRE DE 2010.
 P.O. 30 DE DICIEMBRE DE 2011.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial de Estado de Baja California.
+
+P.O. 19 DE JULIO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a los noventa días de su publicación en el Periódico Oficial de Estado de Baja California.
