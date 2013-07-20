@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-turismo-para-el-estado-de-baja-california-sur-80080"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-20"
-last_updated: "2012-11-16"
+last_updated: "2013-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2013.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California, el lunes 20 de diciembre de 2010.
 
@@ -177,9 +177,11 @@ V.- Formular, ejecutar y evaluar el Programa Estatal de Turismo, con la particip
 
 ### CAPÍTULO II. De la Secretaría
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2013)</small>
+
 ###### Artículo 7.
 
-Para efecto de dar cumplimiento a la presente Ley, corresponde a la Secretaría:
+Para efecto de dar cumplimiento a la presente Ley, corresponde a la Secretaría, además de las facultades previstas en el artículo 9 de la Ley General de Turismo, las siguientes:
 
 I.- Conducir la política de información y difusión en materia turística;
 
@@ -217,9 +219,11 @@ XVII.- Presentar al Ejecutivo Estatal los proyectos de declaración de Zona de D
 
 ### CAPÍTULO III. De los Municipios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2013)</small>
+
 ###### Artículo 8.
 
-Para los efectos de esta Ley los Municipios de Baja California Sur, tendrán las siguientes atribuciones:
+Para los efectos de esta Ley los Municipios de Baja California Sur, además de contar con las facultades previstas en el artículo 10 de la Ley General de Turismo, tendrán las siguientes:
 
 I.- Diseñar, aplicar y evaluar la política turística municipal;
 
@@ -796,6 +800,12 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 Los Ayuntamientos del Estado de Baja California Sur, cuentan con un término de hasta 60 días naturales, a partir de la entrada en vigor del presente Decreto, para expedir en sus respectivas jurisdicciones el Reglamento del Comité Municipal de Zonas de Prioridad Turística, para cumplir con los objetivos previstos en el presente Decreto.
 
 B.O. 16 DE NOVIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE JULIO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
