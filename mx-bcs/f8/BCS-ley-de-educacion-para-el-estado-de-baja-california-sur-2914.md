@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-educacion-para-el-estado-de-baja-california-sur-2914"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-10"
-last_updated: "2012-11-30"
+last_updated: "2013-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 10 de junio de 1994.
 
@@ -328,6 +328,10 @@ LA AUTORIDAD EDUCATIVA LOCAL PODRA CELEBRAR CON LOS PATRONES, CONVENIOS PARA EL 
 ###### ARTICULO 19.
 
 LOS BENEFICIADOS DIRECTAMENTE POR LOS SERVICIOS EDUCATIVOS DEBERAN PRESTAR SERVICIO SOCIAL. EN LOS CASOS Y TERMINOS QUE SEÑALEN LAS DISPOSICIONES REGLAMENTARIAS CORRESPONDIENTES. EN ESTAS SE PREVEERA LA PRESTACION DEL SERVICIO SOCIAL COMO REQUISITO PREVIO PARA OBTENER TITULO O GRADO ACADEMICO.
+
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 2013)</small>
+
+LOS ORGANOS, INSTITUCIONES, EMPRESAS O CUALQUIER ESTABLECIMIENTO EN EL QUE SE PRESENTEN SERVICIOS SOCIALES, TENDRAN QUE EXPEDIR A FAVOR DE LOS PRESTADORES DEL SERVICIO UNA CONSTANCIA DE LOS CONOCIMIENTOS, DESTREZAS, PRACTICAS, CAPACIDADES Y EXPERIENCIA ADQUIRIDOS DURANTE LA PRESTACION DEL MISMO.
 
 #### SECCION 3. DEL FINANCIAMIENTO A LA EDUCACION
 
@@ -976,3 +980,9 @@ SEGUNDO: Los ayuntamientos del Estado, modificaran sus bandos y reglamentos en u
 TERCERO: La Secretaria de Salud, la Secretaria de Educación y el Sistema Estatal para el Desarrollo Integral de la Familia en un plazo de 60 días después de publicado el presente Decreto, dictaran las medidas reglamentarias conducentes a fin de hacer efectivas las disposiciones establecidas en el presente decreto.
 
 CUARTO: Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+B.O. 20 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
