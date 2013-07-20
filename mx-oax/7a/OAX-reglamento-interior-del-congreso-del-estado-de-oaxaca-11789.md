@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2011-01-29"
+last_updated: "2013-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -325,9 +325,9 @@ XV. Ecología;
 
 XVI. Educación Pública;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
 
-XVII. Equidad y Género;
+XVII. Igualdad de Género;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
@@ -539,9 +539,9 @@ XV. La Comisión de Ecología, conocerá de los asuntos relacionados con la prot
 
 XVI. La Comisión de Educación Pública, tendrá a su cargo el estudio de las leyes y reglamentos que conciernen a la educación y opinará sobre los proyectos y programas de educación popular del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
 
-XVII. La Comisión de Equidad y Género, opinará en los estudios relativos a iniciativas y reformas de los Códigos y Leyes del Estado, en los que se traten temas relativos a la mujer, la familia, personas con discapacidad y los menores, y vigilara su aplicación, así como la de las políticas públicas, los programas gubernamentales y las necesidades reales de la sociedad oaxaqueña sobre estos temas Esta Comisión se integrara preferentemente por las Diputadas que integren el Congreso;
+XVII. La Comisión de Igualdad de Género, estudiará y vigilará lo relativo a iniciativas y reformas a los Códigos y Leyes del Estado, en los que se traten temas relativos a la mujer, a las niñas, niños y adolescentes, a las familias, personas con discapacidad, adultos mayores y demás grupos susceptibles de ser vulnerados o discriminados; conocerá de las políticas públicas, los programas gubernamentales y las necesidades reales de la sociedad oaxaqueña sobre estos temas; además podrá fomentar acciones para la igualdad, no discriminación y el empoderamiento, que asegurare el pleno desarrollo y adelanto de la mujer.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
@@ -1626,3 +1626,9 @@ TERCERO.- Para efectos de la definición de los Secretarios A y B, se considerar
 CUARTO.- Para efectos de la aplicación de los recursos económicos y administrativos, se integraran los manuales administrativos necesarios dentro de los tres meses posteriores a esta reforma.
 
 QUINTO.- En la sesión solemne de fecha 1º de diciembre de 2010, fungirá la Mesa Directiva en su totalidad.
+
+P.O. 20 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día de su aprobación.
+
+SEGUNDO.- Todos los asuntos turnados para estudio y dictamen a la actual Comisión Permanente de Equidad y Género, se entenderán remitidos a la Comisión Permanente de Igualdad de Género.
