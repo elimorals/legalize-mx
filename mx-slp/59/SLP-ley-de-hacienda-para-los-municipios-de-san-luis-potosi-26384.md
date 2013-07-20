@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2013-05-25"
+last_updated: "2013-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2013.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -219,9 +219,11 @@ Los ayuntamientos podrán plantear en su Iniciativa de Ley de Ingresos, la reduc
 
 Las modificaciones que se hagan a los valores catastrales base del impuesto, surtirán efectos a partir del ejercicio fiscal inmediato posterior a aquél en que se efectúen y publiquen en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 22.
 
-Los predios que nunca hayan sido manifestados ni estén registrados en los padrones respectivos, deberán pagar el impuesto correspondiente a los cinco años anteriores a la fecha en que fuere descubierta la omisión.
+Los predios que nunca hayan sido manifestados, ni estén registrados en los padrones respectivos, deberán pagar el impuesto correspondiente a los cinco años anteriores a la fecha en que fuere descubierta la omisión; excepto los inmuebles que se titulen mediante programas de regularización llevados a cabo por instituciones, municipales, estatales, o federales, en cuyo caso se cubrirá el importe de dos años y seis meses del impuesto predial que corresponda.
 
 Respecto a las construcciones que se hubieren omitido manifestar, si no se pudiere fijar con precisión la fecha de éstas, el causante deberá pagar el impuesto correspondiente a cinco años anteriores a la fecha en que fuere descubierta la omisión, salvo que el interesado pruebe que la construcción data de fecha posterior.
 
@@ -958,3 +960,9 @@ P.O. 25 DE MAYO DE 2013.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 20 DE JULIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
