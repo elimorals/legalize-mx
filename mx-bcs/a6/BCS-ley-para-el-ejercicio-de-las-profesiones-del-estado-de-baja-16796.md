@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-el-ejercicio-de-las-profesiones-del-estado-de-baja-167
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-10"
-last_updated: "2004-01-31"
+last_updated: "2013-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 ENERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 10 de julio de 2000.
 
@@ -111,9 +111,11 @@ No se reputará como prestación de servicios profesionales con derecho a pago d
 
 II. Asociarse libremente en los términos del artículo 9º de la Constitución Política de los Estados Unidos Mexicanos, en cualquiera de las agrupaciones profesionistas legalmente registradas por la Dirección;
 
-III. Obtener la constancia por la prestación del servicio social profesional;
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2013)</small>
 
-IV. Participar en los cursos de actualización profesional que impartan las instituciones de educación superior o las agrupaciones de profesionistas; y
+III. Obtener la constancia por la prestación del servicio social profesional; en dicha constancia se deberá acreditar la experiencia adquirida por el profesionista:
+
+IV. Participar en los cursos de actualización profesional que impartan las instituciones de educación superior o las agrupaciones de profesionistas; y (sic)
 
 V. Obtener la cédula o registro profesional que le acredite como profesionista en el ejercicio de una rama o especialidad en su caso;
 
@@ -756,3 +758,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTICULO TERCERO.
 
 El Ejecutivo del Estado, deberá instalar el Consejo Consultivo a que se refiere el Artículo 52 de la Ley para el Ejercicio de las Profesiones del Estado de Baja California Sur, así como a través de la Secretaría de Educación Pública, emitir el reglamento a que se refiere el Artículo 41 de la misma ley, en un plazo no mayor de noventa días.
+
+B.O. 20 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
