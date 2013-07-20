@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2012-11-30"
+last_updated: "2013-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -1715,6 +1715,32 @@ La Secretaría de Educación Pública del Estado, deberá incluir en los program
 
 La Secretaría de Salud y el Consejo Estatal de Trasplantes, solicitarán a los medios de comunicación masiva, espacios gratuitos para la difusión de campañas orientadas a promover una cultura de la donación de órganos e informar sobre los requisitos que establece la Ley General de Salud.
 
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 2013)</small>
+
+ARTÍCULO 186 BIS.- El Consejo Estatal de Trasplantes, para el cumplimiento de sus objetivos, tendrá las siguientes atribuciones:
+
+I. Vigilar el cumplimiento de las normas oficiales mexicanas en materia de órganos, tejidos y células, así como la donación y trasplante de estos respecto de los establecimientos en los que se realicen estos actos;
+
+II. Elaborar y actualizar el Registro Estatal de Trasplantes, con base a la información que emitan los hospitales autorizados;
+
+III. Diseñar y poner a consideración de la Secretaría de Salud del Estado el Programa Estatal de Trasplantes;
+
+IV. Promover una campaña permanente de donación de órganos, tanto en radio, televisión, Internet, prensa escrita, universidades, centros de trabajo, así como en lugares públicos;
+
+V. Vigilar que los profesionales de la salud que intervengan en la extracción de órganos, tejidos y células se ajusten a las disposiciones legales aplicables en la materia;
+
+VI. Promover permanentemente cursos en materia de donación de órganos a los profesionales de la salud, con valor curricular;
+
+VII. Rendir un informe anual al titular del Ejecutivo Estatal o al secretario del ramo correspondiente, respecto a los avances de los programas establecidos y evaluación de las metas alcanzadas;
+
+VIII. Coadyuvar con las autoridades competentes en la prevención y combate de la disposición ilegal de órganos y tejidos humanos;
+
+IX. Celebrar convenios y acuerdos de colaboración y cooperación con instituciones, organismos, fundaciones y asociaciones públicas o privadas dedicadas a la promoción, difusión, asignación, donación y trasplante de órganos y tejidos;
+
+X. Promover entre los automovilistas la inclusión en las licencias y permisos para conducir la leyenda "Donador altruista de órganos y tejidos"; y
+
+XI. Celebrar convenios de colaboración con las direcciones de tránsito y vialidad de los municipios, para que se fomente entre los automovilistas la cultura de la donación de órganos y tejidos.
+
 ### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 187.
@@ -3146,3 +3172,13 @@ SEGUNDO: Los ayuntamientos del Estado, modificaran sus bandos y reglamentos en u
 TERCERO: La Secretaria de Salud, la Secretaria de Educación y el Sistema Estatal para el Desarrollo Integral de la Familia en un plazo de 60 días después de publicado el presente Decreto, dictaran las medidas reglamentarias conducentes a fin de hacer efectivas las disposiciones establecidas en el presente decreto.
 
 CUARTO: Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+B.O. 20 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
