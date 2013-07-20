@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2013-04-30"
+last_updated: "2013-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2013.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -383,13 +383,17 @@ II.- Por ausencia con motivo de la realización de estudios profesionales, cient
 
 27.- Adquieren la calidad de ciudadanos, los mexicanos que habiendo cumplido 18 años, tengan un modo honesto de vivir y hayan residido en el Estado durante 3 años efectivos.
 
-28.- Son prerrogativas del ciudadano sudcaliforniano:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2013)</small>
+
+28.- Son derechos de las ciudadanas y ciudadanos sudcalifornianos:
 
 > <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
 
 I.- Votar en las elecciones populares en los términos que señale la Ley;
 
-II.- Poder ser votado para todo cargo de elección popular, teniendo las calidades que establezca la ley;
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2013)</small>
+
+II.- Poder ser votado para todo cargo de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
 
 > <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
 
@@ -409,7 +413,9 @@ VI.- Participar en las consultas ciudadanas plebiscitarias y de referéndum; y
 
 VII.- Las demás que le confieran esta Constitución y las Leyes que de ella emanan.
 
-29.- Son deberes del ciudadano sudcaliforniano:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2013)</small>
+
+29.- Son deberes de las ciudadanas y ciudadanos sudcalifornianos:
 
 I.- Inscribirse en el catastro de la municipalidad, manifestando sus propiedades, industria, profesión u ocupación;
 
@@ -417,7 +423,9 @@ II.- Inscribirse en los padrones electorales, en los términos que determinen la
 
 III.- Alistarse en la Guardia Nacional;
 
-IV.- Votar en las elecciones;
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2013)</small>
+
+IV.- Votar en las elecciones, consultas ciudadanas plebiscitarias y de referéndum;
 
 V.- Ejercer los cargos de elección popular para los que fuere electo; y
 
@@ -457,27 +465,9 @@ Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en e
 
 36.- La Soberanía del Estado reside esencial y originariamente en el pueblo sudcaliforniano, quien la ejerce por medio de los poderes constituidos en los términos de esta Ley fundamental. La renovación de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-> <small>(REFORMADA, B.O. 24 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2013)</small>
 
-I.- Los partidos políticos son entidades de interés público y tienen el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular. La Ley determinará las normas y requisitos para su registro legal y formas específicas de su intervención en los procesos electorales. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
-
-Los partidos políticos nacionales y estatales tienen como fin promover la participación del pueblo sudcaliforniano en la vida democrática, contribuir en la integración de la representación del Estado, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público en las esferas estatal y municipal, de acuerdo a los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos, por tanto quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
-
-La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, las reglas para las precampañas y las campañas electorales, así como los límites a las erogaciones para tales efectos.
-
-Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta constitución y la ley.
-
-> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
-
-Para que una organización política pueda constituirse como partido político estatal, es necesario que además de los requisitos que la ley señale cuente con más del 0.5% del padrón electoral municipal vigente a la última elección como afiliados, cuando menos en tres de los Municipios que componen el Estado, siempre que el número total de sus miembros en la entidad no sea menor del 2.5% del total del padrón electoral.
-
-> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
-
-Un partido político estatal perderá a su registro por no haber obtenido cuando menos el 2.5% de la votación total estatal en algunas de las elecciones para Gobernador del Estado o Diputados de Mayoría Relativa al Congreso del Estado ya sea que haya participado solo o coaligado de acuerdo a lo establecido en la ley de la materia, además de las otras causas de pérdida del registro que la ley señale.
-
-> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
-
-La negativa del registro como candidato o la cancelación del mismo, serán una de las sanciones que se aplicarán a los precandidatos que rebasen los topes de precampañas que establezca el Instituto Estatal Electoral. En el caso de las campañas electorales cuando se sobrepasen los topes de gastos establecidos será una de las causales de nulidad de la elección del candidato que corresponda.
+l.- Los partidos políticos son entidades de interés público, la Ley determinará las normas y requisitos para su registro legal y formas específicas de su intervención en los procesos electorales. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
 
 > <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
 
@@ -553,9 +543,13 @@ V.- Para garantizar los principios de constitucionalidad y legalidad de los acto
 
 En materia electoral la interposición de los medios de impugnación constitucionales o legales no producirá efectos suspensivos sobre la resolución del acto impugnado.
 
-> <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2013)</small>
 
-VI.- La Ley correspondiente tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
+VI.- La ley correspondiente tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que por ellos deban imponerse; y
+
+> <small>(ADICIONADA, B.O. 20 DE JULIO DE 2013)</small>
+
+VII.- La ley de la materia señalará las reglas a las que se sujetarán las candidaturas independientes a cargos de elección popular.
 
 37.- El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo, teniendo como base de su división territorial, de su organización política y administrativa, el Municipio Libre.
 
@@ -743,9 +737,17 @@ III.- Los Ayuntamientos
 
 IV.- El Tribunal Superior de Justicia
 
-> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2013)</small>
 
-V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.1% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas, así como por conducto del Diputado de su distrito.
+V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.1 % del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas.
+
+Asimismo se podrá hacer la propuesta a través del diputado de su distrito.
+
+> <small>(ADICIONADA, B.O. 20 DE JULIO DE 2013)</small>
+
+VI. Al inicio de cada periodo ordinario de sesiones, el Gobernador del Estado tiene derecho de presentar dos iniciativas para trámite preferente, o bien señalar con tal carácter hasta dos que se hubieren presentado en periodos anteriores y se encuentren pendientes de dictamen. Lo anterior en los términos que prescriba la legislación de la materia.
+
+El Congreso del Estado deberá discutir y votar las iniciativas de trámite preferente en un plazo no mayor a treinta días naturales. No podrán tener el carácter de preferente las iniciativas de adición o reforma a esta Constitución.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3150,3 +3152,11 @@ UNICO.- El presente decreto entrara en vigor al siguiente día de su publicació
 B.O. 30 DE ABRIL DE 2013.
 
 UNICO.- El presente decreto entrara en vigor a los 180 días de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE JULIO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Congreso del Estado de Baja California Sur, deberá realizar las adecuaciones necesarias, motivo de la presente reforma constitucional a la Ley Electoral, Ley de Participación Ciudadana, Ley Reglamentaria del Poder Legislativo, Ley del Sistema de Medios de Impugnación en Materia Electoral, todas para el Estado de Baja California Sur, así como la demás legislación que tuviera relación con esta materia y que fuera de la competencia del Estado, a más tardar el día 15 de abril del dos mil catorce.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
