@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transito-terrestre-del-estado-y-municipios-de-baja-44507
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2006-12-31"
+last_updated: "2013-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DE TRANSITO TERRESTRE DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-LEY DE TRANSITO TERRESTRE DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
+LEY DE TRÁNSITO TERRESTRE DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -405,9 +405,13 @@ Las motocicletas requerirán solamente placas.
 
 Para conducir vehículos de motor en el Estado, las personas deberán portar la licencia o el permiso respectivo, que se otorgará, previo curso de educación vial y examen correspondiente.
 
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 33.
 
-Los Ayuntamientos del Estado a través de la sus direcciones de transito o dependencia encargada, llevará en todo tiempo un registro actualizado de las licencias que expida, el cual contendrá como mínimo el número de la misma, nombre del titular, fotografía, grupo sanguíneo, domicilio y Municipio al que corresponda, así como el periodo de vigencia.
+Los ayuntamientos del Estado a través de la (sic) sus direcciones de tránsito o dependencia encargada, llevará en todo tiempo un registro actualizado de las licencias que expida, el cual contendrá como mínimo el número de la misma, nombre del titular, fotografía, grupo sanguíneo, domicilio y municipio al que corresponda, el periodo de vigencia.
+
+Si se trata de una persona mayor de 18 años, en los formatos que se requieren para solicitar la licencia de conducir, se incluirá la información referente al deseo del solicitante de ser donador de órganos y tejidos en caso de fallecimiento. De ser afirmativa esta voluntad el documento incluirá la leyenda: “donador altruista de órganos y tejidos”; si el formato es llenado por un menor de edad, tal referencia se dejará sin efecto.
 
 ###### ARTÍCULO 34.
 
@@ -421,7 +425,9 @@ III. El nombre del Municipio que la expida;
 
 IV. El escudo nacional, del estado y del municipio que la expida;
 
-V. La fotografía del conductor, su nombre, domicilio y tipo sanguíneo;
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2013)</small>
+
+V. La fotografía del conductor, su nombre, domicilio, tipo sanguíneo y la leyenda que indique la voluntad del titular de ser donador de órganos y tejidos de conformidad a lo establecido en el artículo anterior.
 
 VI. El número de folio o control de barras.
 
@@ -897,7 +903,7 @@ EL SUBSECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. VÍCTOR DANIEL MADRIGAL BARBOSA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 10 DE JULIO DE 2005.
 
@@ -920,3 +926,13 @@ Las placas para la circulación vehicular que fueron dotadas con anterioridad a 
 B.O. 31 DE DICIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
