@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2013-06-29"
+last_updated: "2013-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -110,6 +110,10 @@ XIV. Sistema de Competencias Educativas: Conjunto de procesos o elementos para l
 ###### ARTÍCULO 3.
 
 En el Estado de Chihuahua, toda persona tiene derecho a recibir educación sin discriminación alguna, por motivos de raza, género, lengua, ideología, necesidades educativas especiales asociadas o no a discapacidad, estado de gravidez o cualquiera otra condición personal, social o económica, por lo tanto las mismas oportunidades de acceso al Sistema Educativo con sólo satisfacer los requisitos que establezcan las disposiciones que de esta Ley se deriven.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2013)</small>
+
+Los jóvenes tendrán derecho a recibir una orientación vocacional gratuita y profesional, que será impartida en las instituciones educativas que operan dentro del territorio del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1705,9 +1709,9 @@ V. Vigilar que sus hijas, hijos o pupilos cumplan con las tareas y actividades e
 
 VI. Proporcionar a sus hijas, hijos o pupilos los útiles y materiales escolares necesarios para el mejor desempeño de sus actividades;
 
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
 
-VII. Colaborar con el personal docente que atienda a sus hijas, hijos o pupilos, en el tratamiento de los problemas de conducta o de aprendizaje; así como en el mejoramiento de los establecimientos educativos;
+VII. Colaborar con el personal docente que atienda a sus hijas, hijos o pupilos, en el tratamiento de los problemas de conducta o de aprendizaje a través de los programas diseñados especialmente para tal efecto; así como en el mejoramiento de los establecimientos educativos;
 
 > <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
@@ -1763,7 +1767,7 @@ Los Consejos de Participación Social en la Entidad son órganos de consulta, or
 
 ###### ARTÍCULO 136.
 
-El Consejo Estatal de Participación Socia l estará constituido por padres y madres de familia y representantes de sus asociaciones, docentes e integrantes de su organización sindical, instituciones formadoras de profesionales de la educación, autoridades educativas estatales y municipales, así como por miembros de los diferentes sectores sociales y productivos del Estado especialmente interesados en la educación, teniendo las siguientes atribuciones:
+El Consejo Estatal de Participación Social estará constituido por padres y madres de familia y representantes de sus asociaciones, docentes e integrantes de su organización sindical, instituciones formadoras de profesionales de la educación, autoridades educativas estatales y municipales, así como por miembros de los diferentes sectores sociales y productivos del Estado especialmente interesados en la educación, teniendo las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2756,3 +2760,19 @@ A partir de la entrada en vigor del presente ordenamiento, el Poder Ejecutivo de
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con cuatrocientos ochenta días hábiles para modificar las reglas de operación de los diversos programas y proyectos a fin de incluir los lineamientos respectivos al respeto del derecho a la autonomía y el consentimiento libre, previo e informado de los pueblos y las comunidades indígenas.
+
+P.O. 20 DE JULIO DE 2013.
+
+DECRETO No. 1274/2013 II P.O, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3 DE LA LEY ESTATAL DE EDUCACIÓN.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 2013.
+
+DECRETO No. 1295/2013 II P.O. POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTICULO 131, DE LA LEY ESTATAL DE EDUCACIÓN.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
