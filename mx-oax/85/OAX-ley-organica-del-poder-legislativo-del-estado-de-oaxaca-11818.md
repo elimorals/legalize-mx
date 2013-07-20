@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2012-08-18"
+last_updated: "2013-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -471,7 +471,9 @@ XV. Ecología;
 
 XVI. Educación Pública;
 
-XVII. Equidad y Género;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
+
+XVII. Igualdad de Género;
 
 XVIII. Estudios Constitucionales;
 
@@ -916,3 +918,9 @@ TERCERO.- Se faculta al Director del Centro de Estudios Económicos y Finanzas P
 P.O. 18 DE AGOSTO DE 2012.
 
 ÚNICO.- El presente Decreto entrara en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día de su aprobación.
+
+SEGUNDO.- Todos los asuntos turnados para estudio y dictamen a la actual Comisión Permanente de Equidad y Género, se entenderán remitidos a la Comisión Permanente de Igualdad de Género.
