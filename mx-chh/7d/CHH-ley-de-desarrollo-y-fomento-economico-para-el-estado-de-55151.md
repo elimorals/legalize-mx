@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-y-fomento-economico-para-el-estado-de-55151"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-14"
-last_updated: "2008-01-12"
+last_updated: "2013-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE DESARROLLO Y FOMENTO ECONOMICO PARA EL ESTADO DE CHIHUAHUA
 
-LEY DE DESARROLLO Y FOMENTO ECONOMICO PARA EL ESTADO DE CHIHUAHUA
+LEY DE DESARROLLO Y FOMENTO ECONÓMICO PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2007.
 
@@ -61,7 +61,9 @@ III.- Propiciar la participación conjunta de los sectores público, privado, ac
 
 IV.- Planear y desarrollar las bases de infraestructura económica en la Entidad que favorezcan nuevas actividades productivas de mayor valor agregado;
 
-V.- Impulsar la creación de nuevas fuentes de empleo y la conservación de las existentes, promoviendo su distribución equitativa en las distintas regiones de la Entidad;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
+
+V.- Impulsar la creación de nuevas fuentes de empleo y autoempleo individual y de grupo, así como la conservación de las existentes, promoviendo su distribución equitativa en las distintas regiones de la Entidad;
 
 VI.- Promover la inversión productiva, así como de los sectores: Industrial, agropecuario, comercial, turístico, de servicios y las actividades económicas regionales, mediante el otorgamiento de apoyos y estímulos específicos para la instalación, crecimiento, desarrollo y modernización de los sectores económicos de la Entidad;
 
@@ -71,11 +73,19 @@ VIII.- Apoyar la creación y desarrollo de centros de investigación científica
 
 IX.- Promover la exportación de bienes y servicios de las unidades económicas de la Entidad;
 
-X.- Fomentar los apoyos a micro, pequeños y medianos empresarios y a proyectos emprendedores con créditos, de manera directa y/o a través de programas de coordinación con instituciones financieras;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
 
-XI.- Impulsar la actividad empresarial dirigida a dar mayor valor agregado a los productos y servicios que se generen en el Estado; y
+X.- Fomentar los apoyos a todo tipo de empresas con créditos, de manera directa y/o a través de programas de coordinación con instituciones financieras;
 
-XII.- Proponer al Poder Ejecutivo del Estado, las reformas que impulsen la mejora regulatoria.
+XI.- Impulsar la actividad empresarial dirigida a dar mayor valor agregado a los productos y servicios que se generen en el Estado; y (sic)
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
+
+XII.- Promover el otorgamiento de apoyos fiscales, financieros de mercado y de asistencia técnica para las MIPyMES;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
+
+XIII.- Impulsar la coordinación con autoridades federales y municipales para simplificar trámites administrativos para la creación de MIPyMES.
 
 ###### Artículo 2°.
 
@@ -109,6 +119,22 @@ XI.- Unidad Económica: Toda persona física o moral que desarrolle actividades 
 
 XII.- Unidad Técnica: Equipo de trabajo nombrado por el Consejo Directivo para operar y dar cumplimiento a los programas y acuerdos del CODECH.
 
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
+
+XIII.- MIPyMES: Micro, pequeña y mediana empresa.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
+
+XIV.- Sociedad Cooperativa: es una forma de organización social integrada por personas físicas con base en intereses comunes y en los principios de solidaridad, esfuerzo propio y ayuda mutua, con el propósito de satisfacer necesidades individuales y colectivas, a través de la realización de actividades económicas de producción, distribución y consumo de bienes y servicios.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
+
+XV.- Incubadora de empresas: Entidad que fomenta la creación, constitución y consolidación de empresas; pueden proveer espacios físicos, capacitación y/o consultoría.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
+
+XVI.- Secretaría: Secretaría de Economía.
+
 ### CAPÍTULO II. LAS AUTORIDADES Y SUS FACULTADES
 
 ###### Artículo 4°.
@@ -127,7 +153,9 @@ V.- Presidir en forma honoraria el Consejo para el Desarrollo Económico del Est
 
 VI.- Proponer la creación de fideicomisos, mecanismos de fomento e instrumentos de financiamiento necesarios para el cumplimiento de los objetivos de esta Ley.
 
-VII.- Fomentar la creación y desarrollo de ciudades, parques y corredores industriales, centrales de abasto para distribución y consumo de productos agropecuarios, así como de centros turísticos, comerciales y de servicios.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
+
+VII.- Fomentar la creación y desarrollo de sociedades cooperativas, ciudades, parques y corredores industriales, centrales de abasto para distribución y consumo de productos agropecuarios, así como de centros turísticos, comerciales y de servicios.
 
 VIII.- Impulsar la cultura de la mejora regulatoria.
 
@@ -145,9 +173,11 @@ III.- Promover la celebración de convenios entre los sectores público, privado
 
 ### CAPÍTULO III. CONSEJO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE CHIHUAHUA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2013)</small>
+
 ###### Artículo 6°.
 
-Se crea el Consejo para el Desarrollo Económico del Estado de Chihuahua, como un programa dependiente en forma alternada administrativa y presupuestalmente, de las Secretarías de Desarrollo Industrial o de Desarrollo Comercial y Turístico, según le corresponda la titularidad de la Coordinación del Consejo Directivo del Organismo. Su naturaleza es de carácter consultivo y es deber del Poder Ejecutivo acudir a él en materia de desarrollo económico en el Estado y estará integrado en pleno por:
+Se crea el Consejo para el Desarrollo Económico del Estado de Chihuahua, como un programa dependiente administrativa y presupuestalmente, de la Secretaría de Economía. Su naturaleza es de carácter consultivo y es deber del Poder Ejecutivo acudir a él en materia de desarrollo económico en el Estado y estará integrado en pleno por:
 
 a) El Titular del Poder Ejecutivo del Estado, quien será Presidente Honorífico del Consejo.
 
@@ -155,37 +185,61 @@ b) Desarrollo Económico del Estado de Chihuahua, Asociación Civil.
 
 c) Desarrollo Económico de Ciudad Juárez, Asociación Civil.
 
-d) La Secretaría de Desarrollo Industrial.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
 
-e) La Secretaría de Desarrollo Comercial y Turístico.
+d) La Secretaría de Economía.
 
-f) La Secretaría de Planeación y Evaluación.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+
+e) La Secretaría de Hacienda.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+
+f) La Secretaría de Educación, Cultura y Deporte.
 
 g) La Secretaría de Desarrollo Rural.
 
-h) La Secretaría de Educación y Cultura.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
 
-i) La Secretaría de Comunicaciones y Obras Públicas.
+h) La Secretaría de Comunicaciones y Obras Públicas.
 
-j) La Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
 
-k) Los Consejos de Desarrollo Económico Regional.
+i) La Secretaría de Desarrollo Social.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
 
-l) Los Diputados Presidentes de las Comisiones Legislativas de Desarrollo Industrial y de Desarrollo Comercial del H. Congreso del Estado.
+j) Los Consejos de Desarrollo Económico Regional.
 
-m) Los Presidentes Municipales.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
 
-n) Los representantes de los Sindicatos de trabajadores a que se refiere el artículo 123, apartado A de la Ley Federal del Trabajo.
+k) El Diputado Presidente de la Comisión de Economía del H. Congreso del Estado, así como de otro Presidente de Comisión designado por la Junta de Coordinación Parlamentaria.
 
-o) Los Delegados de las Secretarías Federales inherentes al Desarrollo Económico en el Estado.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
 
-p) Los Directivos de las Instituciones de Educación Superior y Media Superior en el Estado.
+l) Los Presidentes Municipales.
 
-q) Todos los Centros de Investigación.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
 
-r) Todas las Cámaras, Asociaciones Empresariales y Profesionales.
+m) Los representantes de los Sindicatos de trabajadores a que se refiere el artículo 123, apartado A de la Ley Federal del Trabajo.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+
+n) Los Delegados de las Secretarías Federales inherentes al Desarrollo Económico en el Estado.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+
+o) Los Directivos de las Instituciones de Educación Superior y Media Superior en el Estado.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+
+p) Todos los Centros de Investigación.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+
+q) Todas las Cámaras, Asociaciones Empresariales, Asociaciones de Cooperativas y Profesionales.
+
+r) (DEROGADO, P.O. 20 DE JULIO DE 2013)
 
 Los titulares de las autoridades, sindicatos e instituciones educativas, mencionados del inciso m) al r), concurrirán previa invitación particular que les formule el Presidente Honorífico del Consejo.
 
@@ -199,7 +253,7 @@ II. Vicepresidente.
 
 III. Coordinador.
 
-IV. Subcoordinador.
+IV. (DEROGADA, P.O. 20 DE JULIO DE 2013)
 
 V. Delegado.
 
@@ -209,21 +263,29 @@ VII. Secretario Ejecutivo.
 
 VIII. Cinco Vocales, que serán los titulares de las Secretarías de:
 
-a) Finanzas.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
 
-b) Planeación y Evaluación.
+a) Hacienda.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+
+b) Educación, Cultura y Deporte.
 
 c) Desarrollo Rural.
 
-d). Educación y Cultura.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+
+d) Desarrollo Social.
 
 e) Comunicaciones y Obras Públicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2013)</small>
+
 ###### Artículo 8°.
 
-Los cargos de Presidente, Vicepresidente del Consejo Directivo, Coordinador y Subcoordinador, serán ocupados alternándose y respectivamente por los Presidentes de Desarrollo Económico de Ciudad Juárez, Asociación Civil; Desarrollo Económico del Estado de Chihuahua, Asociación Civil; los Secretarios de Desarrollo Industrial y de Desarrollo Comercial y Turístico.
+Los cargos de Presidente, Vicepresidente del Consejo Directivo y Coordinador, serán ocupados alternándose y respectivamente por los Presidentes de Desarrollo Económico de Ciudad Juárez, Asociación Civil; y Desarrollo Económico del Estado de Chihuahua, Asociación Civil.
 
-Los integrantes del Consejo para el Desarrollo Económico del Estado de Chihuahua, formaron parte del pleno, por igual tiempo al que permanezcan en su encargo.
+Los integrantes del Consejo para el Desarrollo Económico del Estado de Chihuahua, formarán parte del pleno, por igual tiempo al que permanezcan en su encargo.
 
 Los titulares del Consejo Directivo, desempeñarán sus cargos durante un año calendario y de manera honorífica, con excepción del Secretario Técnico quien será nombrado por el tiempo y con los emolumentos que le fije el Consejo Directivo.
 
@@ -257,13 +319,19 @@ XII. Orientar en materia de fomento económico a dependencias y organismos estat
 
 XIII. Integrar los Comités Técnicos y los Comités que considere necesarios para su mejor funcionamiento.
 
-XIV. Proponer al Poder Ejecutivo del Estado mecanismos de financiamiento y apoyo a la micro, pequeña y mediana empresa.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
+
+XIV. Proponer al Poder Ejecutivo del Estado mecanismos de financiamiento y apoyo a la micro, pequeña y mediana empresa, cualquiera que sea su estructura administrativa.
 
 XV. Crear la Unidad Técnica.
 
 XVI. Proponer una terna al Poder Ejecutivo del Estado, para que éste designe a quien fungirá como Secretario Técnico, así como los emolumentos que percibirá.
 
 XVII. Proponer la celebración de acuerdos de coordinación con los distintos órganos del gobierno federal, estatal, municipal e interinstitucional.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
+
+XVIII. Llevar a cabo las acciones necesarias tendientes a impulsar el cooperativismo.
 
 ###### Artículo 10.
 
@@ -303,9 +371,11 @@ VII. Nombrar a quien lo suplirá ante el Consejo Directivo para los casos de aus
 
 VIII. Convocar y firmar el orden del día junto con el Coordinador, a sesiones ordinarias y extraordinarias; de igual forma firmar las actas de sesión además del Secretario Ejecutivo de Consejo Directivo, para su validez.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2013)</small>
+
 ###### Artículo 15.
 
-El Vicepresidente, el Coordinador y el Subcoordinador, tienen las siguientes facultades y deberes:
+El Vicepresidente y el Coordinador, tienen las siguientes facultades y deberes:
 
 I. Supervisar el cumplimiento de los acuerdos del CODECH.
 
@@ -363,9 +433,11 @@ VI. Elaborar y notificar a los integrantes del Consejo, la convocatoria y orden 
 
 VII. Levantar el acta de sesiones ordinarias y extraordinarias, sometiendo su lectura a la asamblea para su aprobación.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+
 ###### Artículo 19.
 
-El presupuesto asignado para la operación del CODECH, deberá ajustarse al programa anual de actividades aprobado por el Consejo Directivo, y se integrará por los ingresos que le transfiera el Estado, la iniciativa privada y los obtenidos a través de los convenios con los municipios, federación y/u organismos internacionales. Dicho presupuesto será administrado a través del Fideicomiso Estatal para el Fomento de las Actividades Productivas en el Estado de Chihuahua.
+El presupuesto asignado para la operación del CODECH, deberá ajustarse al programa anual de actividades aprobado por el Consejo Directivo, y se integrará por los ingresos que le transfiera el Estado, la iniciativa privada y los obtenidos a través de los convenios con los municipios, federación y/u organismos internacionales. Dicho presupuesto será administrado a través del Fideicomiso Estatal para el Fomento de las Actividades Productivas en el Estado de Chihuahua. El presupuesto que se destina para apoyar a la micro, pequeña y mediana empresa no podrá ser inferior al autorizado en el ejercicio fiscal anterior.
 
 ### CAPÍTULO IV. DESARROLLO ECONÓMICO REGIONAL
 
@@ -381,7 +453,7 @@ Las políticas de desarrollo regional se orientarán a sistemas de producción, 
 
 ###### Artículo 22.
 
-Para facilitar el estudio, la definición y ejecución de proyectos y programas regionales, el Consejo podrá dividir el .Estado en regiones económicas, determinadas por sus características.
+Para facilitar el estudio, la definición y ejecución de proyectos y programas regionales, el Consejo podrá dividir el Estado en regiones económicas, determinadas por sus características.
 
 #### SECCIÓN II. CONSEJOS DE DESARROLLO ECONÓMICO REGIONAL
 
@@ -389,9 +461,13 @@ Para facilitar el estudio, la definición y ejecución de proyectos y programas 
 
 En cada región se promoverá la creación y funcionamiento de Consejos de Desarrollo Económico Regionales, facultados para realizar estudios, análisis y crear propuestas alternativas que tiendan al fomento y desarrollo económico de las regiones en que se formen.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+
 ###### Artículo 24.
 
-Los Consejos de Desarrollo Económico Regionales, se constituirán como asociación civil. Pueden formar parte de él como asociados, personas físicas y morales de los sectores público, privado, académico y social. Serán órganos de asesoría y de consulta obligatoria para los diferentes órdenes de gobierno en sus actividades de fomento al desarrollo económico; así mismo, estarán facultados para proponer iniciativas y proyectos al CODECH.
+Los Consejos de Desarrollo Económico Regionales, se constituirán como asociación civil. Son órganos de asesoría y de consulta obligatoria para los diferentes órdenes de gobierno en sus actividades de fomento al desarrollo económico; así mismo, estarán facultados para proponer iniciativas y proyectos al CODECH. Serán integrantes los regidores que el Cabildo designe para tal efecto.
+
+Pueden formar parte de él como asociados, personas físicas y morales de los sectores público, privado, académico y social.
 
 ###### Artículo 25.
 
@@ -451,15 +527,19 @@ El titular del Poder Ejecutivo del Estado, en el ámbito de sus facultades, podr
 
 El Consejo para el Desarrollo Económico del Estado de Chihuahua, promoverá los programas de financiamiento de los gobiernos federal y estatal, así como las instituciones financieras que apoyen los sistemas de producción, comercialización y servicios.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+
 ###### Artículo 34.
 
-Los apoyos otorgados a unidades económicas provenientes de diversos fondos, serán coordinados por las Secretarías de Desarrollo Comercial y Turístico, Desarrollo Industrial y Desarrollo Rural.
+Los apoyos otorgados a unidades económicas provenientes de diversos fondos, serán coordinados por las Secretarías de Economía y Desarrollo Rural.
 
 ### CAPÍTULO VII (SIC). MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+
 ###### Artículo 35.
 
-Es prioritaria la participación coordinada de los sectores público, privado, académico y social, en la promoción, creación y apoyo a la micro, pequeña y mediana empresa.
+La Secretaría de Economía deberá coordinar la creación de un programa de apoyo y estímulo a la micro, pequeña y mediana empresa, el cual deberá contener las políticas con visión de largo plazo, para elevar la productividad y competitividad nacional e internacional de las MIPyMES.
 
 ###### Artículo 36.
 
@@ -467,21 +547,43 @@ El Programa de Apoyo y Estímulo a la Micro, Pequeña y Mediana Empresa tendrá,
 
 I. Impulsar el crecimiento de las actividades económicas, mediante la mejora continua de los sistemas de producción, centros de distribución y comercialización nacional y de exportación.
 
-II. Elevar los niveles tecnológicos y de competitividad;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
+
+II. Elevar los niveles tecnológicos y de competitividad y promover los esquemas para la modernización, innovación y desarrollo tecnológico de las MIPyMES.
 
 III. Fomentar la eficiencia de los procesos de simplificación administrativa y desconcentración de las unidades de atención del Estado;
 
 IV. Alentar su crecimiento sustentable, para impulsar el desarrollo regional.
 
-V. Fomentar las actividades que agreguen valor y mejoren la calidad de los productos, servicios y unidades económicas.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
+
+V. Fomentar las actividades que agreguen valor y mejoren la calidad de los productos, servicios y unidades económicas, promoviendo la creación de una cultura empresarial y de procedimientos, prácticas y normas que contribuyan al avance de la calidad en los procesos de producción, distribución, mercadeo y servicio al cliente de las MIPyMES.
 
 VI. Promover la creación de empleos con mayor remuneración.
 
 VII. En los términos de la ley de la materia, en igualdad de condiciones y tratándose de compras, adquisiciones, arrendamientos y servicios, requeridos para el sector público, se preferirá a proveedores y prestadores de bienes y servicios de la micro, pequeña y mediana empresa.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+
 ###### Artículo 37.
 
-El titular del Poder Ejecutivo del Estado, a través de sus dependencias competentes, promoverá convenios de coordinación con las Dependencias y Entidades de la Administración Pública Federal relacionadas con la materia, a través de la Ventanilla Única de Gestión; el Sistema de Apertura Rápida de Unidades Económicas y los Centros de Desarrollo Empresarial, con el objeto de simplificar los trámites de registro e inscripción para las unidades económicas y micro, pequeñas y medianas unidades económicas.
+El titular del Poder Ejecutivo del Estado, a través de sus dependencias competentes, promoverá convenios de coordinación con las Dependencias y Entidades de la Administración Pública Federal relacionadas con la materia, a través de la Ventanilla Única de Gestión; el Sistema de Apertura Rápida de Unidades Económicas y los Centros de Desarrollo Empresarial, con el objeto de simplificar los trámites de registro e inscripción para las unidades económicas y micro, pequeñas y medianas unidades económicas. Así como los que considere necesarios para establecer procedimientos de coordinación en materia de apoyo a la micro, pequeña y mediana empresa entre los tres órdenes de gobierno, instituciones educativas y sector privado, para:
+
+I. Propiciar la planeación del desarrollo integral de cada municipio o Región del Estado.
+
+II. El fomento a la constitución de incubadoras de empresas, y a la creatividad de los emprendedores.
+
+III. La formación y certificación de especialistas que presten servicios de consultoría y capacitación a las MIPyMES.
+
+IV. La investigación enfocada a las necesidades específicas de las MIPyMES.
+
+V. La modernización, innovación, desarrollo y fortalecimiento tecnológico de las MIPyMES.
+
+VI. La atracción de inversiones, tanto de capital extranjero como nacional.
+
+VII. El acceso a la información especializada con el objeto de fortalecer las oportunidades de negocios de MIPyMES.
+
+VIII. Fomentar la participación y organización de foros y eventos de innovación y desarrollo tecnológico.
 
 ###### Artículo 38.
 
@@ -497,11 +599,33 @@ IV. Impulsar la especialización en procesos, productos y servicios;
 
 V. Promover la generación de valor agregado en los productos, servicios y unidades económicas.
 
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
+
+VI. Promover el acceso al financiamiento para las MIPyMES, la capitalización de las empresas, incremento de la producción, constitución de nuevas empresas y consolidación de las existentes.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
+
+VII. Propiciar las condiciones para la creación y consolidación de las cadenas productivas.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
+
+VIII. Definir esquemas para la modernización, innovación y desarrollo tecnológico de las MIPyMES.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
+
+IX. Impulsar que la creación y desarrollo de las MIPyMES, sea en el marco de la normativa ecológica y que estas contribuyan al desarrollo sustentable y equilibrado de largo plazo.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
+
+X. Propiciar la cooperación y asociación de las MIPyMES, a través de sus organizaciones empresariales en el ámbito nacional, estatal, regional y municipal, así como de sectores productivos y cadenas productivas.
+
 ### CAPÍTULO VIII. CENTRO DE INFORMACIÓN ECONÓMICA Y SOCIAL DEL ESTADO
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
 
 ###### Artículo 39.
 
-Se crea el Centro de Información Económica y Social del Gobierno del Estado de Chihuahua, como un programa dependiente de la Secretaría de Desarrollo Industrial. Su objeto será elaborar, administrar y actualizar el Sistema y el Servicio Estatal de Información, a través del Comité Técnico Regional de Estadística y de Información Geográfica, quien está facultada para recibir, procesar y sistematizar la información estratégica y realizar el análisis de valor agregado; así como determinar e integrar indicadores económicos que se requiera para la toma de decisiones.
+Se crea el Centro de Información Económica y Social del Gobierno del Estado de Chihuahua, como un programa dependiente de la Secretaría de Economía. Su objeto será elaborar, administrar y actualizar el Sistema y el Servicio Estatal de Información, a través del Comité Técnico Regional de Estadística y de Información Geográfica, quien está facultada para recibir, procesar y sistematizar la información estratégica y realizar el análisis de valor agregado; así como determinar e integrar indicadores económicos que se requiera para la toma de decisiones.
 
 ###### Artículo 40.
 
@@ -519,7 +643,31 @@ V. Difundir indicadores económicos globales y regionales, sectoriales y de infr
 
 VI. Establecer la coordinación necesaria con instancias nacionales e internacionales del sector público, privado, social y académico, para intercambiar la información general en materia económica del Estado de Chihuahua.
 
-VII. Realizar las demás actividades que las Secretarías de Desarrollo Rural, de Desarrollo Industrial y de Desarrollo Comercial y Turístico consideren necesarias para proporcionar a los agentes económicos la información que coadyuve en la toma de decisiones para fomentar el desarrollo económico del Estado.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
+
+VII. Realizar las demás actividades que las Secretarías de Desarrollo Rural y de Economía consideren necesarias para proporcionar a los agentes económicos la información que coadyuve en la toma de decisiones para fomentar el desarrollo económico del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2013)</small>
+
+### CAPÍTULO IX. SOCIEDADES COOPERATIVAS
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2013)</small>
+
+###### Artículo 41.
+
+Las Sociedades Cooperativas están orientadas a mejorar la calidad de vida de los ciudadanos, cuyo objetivo es producir bienes y servicios que satisfagan necesidades básicas y esenciales, mediante la participación de la comunidad.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2013)</small>
+
+###### Artículo 42.
+
+La Secretaría fomentará la creación de Sociedades Cooperativas dedicadas a la prestación de bienes, servicios o manufactura de productos, y facilitará el acceso a la capacitación técnica y a la tecnología, a los créditos, a la apertura de mercados y al mejoramiento de procesos productivos.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2013)</small>
+
+###### Artículo 43.
+
+El Estado apoyará a las Sociedades Cooperativas para que sean sujetos de crédito y accedan al financiamiento.
 
 ## TRANSITORIOS
 
@@ -561,9 +709,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE ENERO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
