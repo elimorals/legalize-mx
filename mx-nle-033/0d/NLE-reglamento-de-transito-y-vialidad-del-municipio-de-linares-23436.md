@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-linares-2343
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-08"
-last_updated: "2011-07-06"
+last_updated: "2013-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE LINARES, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 8 de febrero de 2002.
 
@@ -1535,6 +1535,16 @@ VI.- MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que c
 
 (VEASE ARCHIVO ANEXO)
 
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2013)</small>
+
+VII.- Los Grados de ebriedad, serán determinados con el uso obligatorio de Alcoholímetro, en estricto apego a las disposiciones contenidas en el Artículo 2 de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo vigente en el Estado de Nuevo León el cual establece:
+
+a).- Por Aliento Alcohólico Menos de .80 gramos de alcohol por litro de sangre.
+
+b).- Por Ebriedad Incompleta de .80 gramos y menos de 1.5 gramos de alcohol por litro de sangre.
+
+c).- Por Ebriedad Completa de 1.5 o más gramos de alcohol por litro de sangre.
+
 ###### ARTÍCULO 106.
 
 Si la infracción es pagada antes de cinco días, se descontará el veinticinco por ciento del valor de la infracción, con excepción de las violaciones siguientes:
@@ -1630,3 +1640,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 6 DE JULIO DE 2011.
 
 ÚNICO.- LAS PRESENTES ADICIONES Y MODIFICACIONES ENTRARÁN EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+P.O. 22 DE JULIO DE 2013.
+
+PRIMERO.- La presente Adición y Modificación al Reglamento de Tránsito y Vialidad del Municipio de Linares Nuevo León, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
