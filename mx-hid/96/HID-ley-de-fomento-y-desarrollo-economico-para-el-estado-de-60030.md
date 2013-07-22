@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-y-desarrollo-economico-para-el-estado-de-60030"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2012-10-22"
+last_updated: "2013-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2013.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -81,9 +81,17 @@ XII.- Diseñar e impulsar una política pública deliberada, que estimule las ex
 
 XIII.- Impulsar el asociacionismo productivo; los agrupamientos empresariales; la articulación productiva; las empresas integradoras; así como el desarrollo de proveedores y de distribuidores, con el propósito de mejorar la competitividad de las Unidades Económicas;
 
-XIV.- Fomentar la modernización y competitividad del comercio y el abasto en la Entidad, favoreciendo el encadenamiento productivo, la eficiencia en la cadena de comercialización y esquemas de integración de las micro, pequeñas y medianas empresas; e
+> <small>(REFORMADA, P. O. 22 DE JULIO DE 2013)</small>
 
-XV.- Integrar un sistema de información económica y de registro estadístico empresarial, que soporte y favorezca la toma de decisiones, la promoción de inversiones, la apertura de nuevas Unidades Económicas, y la eficiencia para el otorgamiento de apoyos y estímulos, entre otros propósitos.
+XIV.- Fomentar la modernización y competitividad del comercio y el abasto en la Entidad, favoreciendo el encadenamiento productivo, la eficiencia en la cadena de comercialización y esquemas de integración de las micro, pequeñas y medianas empresas;
+
+> <small>(REFORMADA, P. O. 22 DE JULIO DE 2013)</small>
+
+XV.- Integrar un sistema de información económica y de registro estadístico empresarial, que soporte y favorezca la toma de decisiones, la promoción de inversiones, la apertura de nuevas Unidades Económicas, y la eficiencia para el otorgamiento de apoyos y estímulos, entre otros propósitos; e
+
+> <small>(ADICIONADA, P. O. 22 DE JULIO DE 2013)</small>
+
+XVI.- Impulsar las industrias creativas, a efecto de propiciar la inserción de las y los jóvenes al mercado laboral, lo que les permitirá obtener un ingreso económico para satisfacer sus necesidades, mediante el comercio y los derechos de propiedad intelectual.
 
 ### CAPÍTULO II. DE LAS DEFINICIONES
 
@@ -114,6 +122,10 @@ X.- FOMENTO ECONÓMICO: Realización de acciones orientadas al desarrollo econó
 XI.- FONDO: El Fondo para el Desarrollo Económico y la Competitividad del Estado de Hidalgo;
 
 XII.- INCENTIVOS: Acto relativo a la exención de impuestos y derechos, estímulos fiscales, subsidios o servicios de apoyo y gestoría, emitidos por la autoridad competente de los Gobiernos Estatal y Municipales destinados a fomentar las actividades económicas;
+
+> <small>(ADICIONADA, P. O. 22 DE JULIO DE 2013)</small>
+
+XII Bis.- INDUSTRIAS CREATIVAS.- Son aquellas que usan el capital intelectual como su insumo principal, además de englobar actividades de artesanía tradicional, festividades culturales, libros, pintura, música y artes escénicas, uso intensivo en tecnología, como el cine, televisión, radio, animación digital y videojuegos, así como otras actividades orientadas a los servicios, como es el caso de la arquitectura y la publicidad.
 
 XIII.- INVERSIONISTA: Persona física o moral que realiza una inversión directa;
 
@@ -405,6 +417,10 @@ Con el objeto de fortalecer el mercado interno, en igualdad de condiciones y par
 
 La Secretaría, en el ámbito de su competencia y en coordinación con los Gobiernos Federal y Municipales, los sectores social, privado y la comunidad académica, fomentará el empleo impulsando de manera permanente la capacitación y los programas de incremento a la productividad, orientándose preferentemente hacía el desarrollo de las actividades económicas definidas en los Programas Sectoriales, Estatales y Nacionales.
 
+> <small>(ADICIONADO, P. O. 22 DE JULIO DE 2013)</small>
+
+De igual forma, impulsará la creación de centros de capacitación y orientación especializados en las industrias creativas que propicien la inserción de los jóvenes al mercado laboral en colaboración con el sector académico y privado.
+
 ###### Artículo 32.
 
 La promoción de la capacitación productiva, para y (sic) en el trabajo, tendrá por objeto crear las condiciones que favorezcan la participación eficiente de los recursos humanos en las actividades económicas, con el fin de mejorar su competitividad y elevar su empleabilidad y sus ingresos.
@@ -521,9 +537,17 @@ V.- La vinculación de las actividades del sector agropecuario a otras actividad
 
 VI.- La creación de esquemas de cooperación empresarial para la identificación y promoción de oportunidades de inversión;
 
-VII.- La articulación de las actividades económicas con el sector turismo para ampliar, diversificar y mejorar la captación de divisas; y
+> <small>(REFORMADA, P. O. 22 DE JULIO DE 2013)</small>
 
-VIII.- La organización de centros de acopio para mejorar el abasto y distribución de productos alimenticios, que ordene y propicie la creación de espacios destinados a estas actividades.
+VII.- La articulación de las actividades económicas con el sector turismo para ampliar, diversificar y mejorar la captación de divisas;
+
+> <small>(REFORMADA, P. O. 22 DE JULIO DE 2013)</small>
+
+VIII.- La organización de centros de acopio para mejorar el abasto y distribución de productos alimenticios, que ordene y propicie la creación de espacios destinados a estas actividades; y
+
+> <small>(ADICIONADA, P. O. 22 DE JULIO DE 2013)</small>
+
+IX.- Las industrias creativas para insertar a los jóvenes al mercado laboral.
 
 ## TÍTULO QUINTO. DE LOS APOYOS Y ESTÍMULOS
 
@@ -561,9 +585,11 @@ Lo anterior conforme a la Legislación aplicable y se expresará en los Acuerdos
 
 Los apoyos financieros tienen por objeto respaldar e impulsar las actividades productivas y de servicios, así como los proyectos que se determinen como prioritarios, con los esquemas que la Comisión Rectora y el Consejo Consultivo determinen. La Secretaría podrá promover además, otros apoyos mediante la coordinación y concertación con Instituciones Financieras Nacionales y Extranjeras.
 
+> <small>(REFORMADO, P. O. 22 DE JULIO DE 2013)</small>
+
 ###### Artículo 47.
 
-Los apoyos de promoción económica tienen por objeto orientar y asesorar a las Unidades Económicas en materia de programas de apoyo para el desarrollo empresarial y laboral, financiamiento, proyectos productivos, incentivos y estímulos a la inversión y a la actividad empresarial de oferta y demanda de bienes y servicios, en mercados Nacionales e Internacionales; así como fomentar la cultura exportadora; promover misiones y ferias comerciales; empresas integradoras y en general apoyar las acciones necesarias para la solución de los problemas que enfrenten los exportadores.
+Los apoyos de promoción económica tienen por objeto orientar y asesorar a las Unidades Económicas en materia de programas de apoyo para el desarrollo empresarial y laboral, financiamiento, proyectos productivos, incentivos y estímulos a la inversión y a la actividad empresarial de oferta y demanda de bienes y servicios, en mercados Nacionales e Internacionales; así como fomentar la cultura exportadora; promover misiones y ferias comerciales; empresas integradoras, industrias creativas y en general apoyar las acciones necesarias para la solución de los problemas que enfrenten los exportadores.
 
 ###### Artículo 48.
 
@@ -573,9 +599,11 @@ Los apoyos para la infraestructura productiva, tienen por objeto promover el cre
 
 Los apoyos de consultoría y capacitación tienen por objeto mejorar los conocimientos y habilidades de los recursos humanos, en congruencia con los requerimientos de la Economía Estatal, a través de instituciones públicas y privadas aptas para tal fin.
 
+> <small>(REFORMADO, P. O. 22 DE JULIO DE 2013)</small>
+
 ###### Artículo 50.
 
-La Secretaría podrá instituir premios y reconocimientos, como de innovación tecnológica, exportación, de mérito laboral, de calidad, a emprendedores y otros que se estimen convenientes, de conformidad con las bases y lineamientos que se expidan, con base en la determinación que para tal efecto haya hecho la Comisión Rectora.
+La Secretaría podrá instituir premios y reconocimientos, como de innovación tecnológica, exportación, de mérito laboral, de calidad, de industrias creativas, a emprendedores y otros que se estimen convenientes, de conformidad con las bases y lineamientos que se expidan, con base en la determinación que para tal efecto haya hecho la Comisión Rectora.
 
 ###### Artículo 51.
 
@@ -762,3 +790,9 @@ P.O. 22 DE OCTUBRE DE 2012.
 ###### Artículo ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P. O. 22 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a esta Ley.
