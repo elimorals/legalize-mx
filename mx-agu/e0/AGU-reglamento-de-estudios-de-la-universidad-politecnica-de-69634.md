@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-estudios-de-la-universidad-politecnica-de-69634"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-17"
-last_updated: "2009-08-17"
+last_updated: "2013-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,862 +21,502 @@ state: "AGU"
 ---
 # REGLAMENTO DE ESTUDIOS DE LA UNIVERSIDAD POLITECNICA DE AGUASCALIENTES
 
-ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
+REGLAMENTO DE ESTUDIOS DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE AGOSTO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE ESTUDIOS DE PROFESIONAL ASOCIADO Y LICENCIATURA DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES, PUBLICADO EN LA PRIMERA SECCIÓN DEL P.O. DE 22 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de agosto de 2009.
 
-ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO.
+Esta H. Junta Directiva, con fundamento en lo dispuesto por el Articulo 14 Fracción XIV de la Ley de la Universidad Politécnica de Aguascalientes, y
 
-CONSIDERANDO
+CONSIDERANDO.
 
-PRIMERO.- En términos de lo dispuesto por los artículos 94, párrafo segundo; 100, párrafos primero y octavo de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina de los tribunales de Circuito y juzgados de Distrito, con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones;
+Es por lo cual, esta Junta Directiva acuerda:
 
-SEGUNDO.- El artículo 17 de la Constitución Federal establece que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes;
+A C U E R D O :
 
-TERCERO.- El artículo 94, párrafo sexto de la Constitución Política de los Estados Unidos Mexicanos y los artículos 81, fracciones IV, VI, XX y XXIV; y 144 de la Ley Orgánica del Poder Judicial de la Federación, establecen que son atribuciones del Consejo de la Judicatura Federal, determinar, el número y los límites territoriales de los Circuitos en que se divida el territorio de la República Mexicana, así como el número, delimitación territorial y, en su caso, especialización por materia, de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito en cada uno de los mencionados Circuitos. Asimismo, que cada uno de los circuitos comprenderá los distritos judiciales cuyo número y límites territoriales determine el Consejo de la Judicatura Federal, y que en cada distrito deberá establecerse cuando menos un juzgado;
+ÚNICO.- Se emite el Reglamento de Estudios de la Universidad Politécnica de Aguascalientes, para quedar como sigue:
 
-CUARTO.- Para regular los temas antes señalados se encuentra vigente el Acuerdo General 23/2001, publicado en el Diario Oficial de la Federación el veinticinco de abril de dos mil uno, relativo a la determinación del número y límites territoriales de los circuitos en que se divide el territorio de la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito, el cual sustituyó al Acuerdo General 16/1998, de veinte de mayo de mil novecientos noventa y ocho;
+REGLAMENTO DE ESTUDIOS DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES
 
-QUINTO.- Con motivo de la creación de órganos jurisdiccionales y su especialización, así como la creación de nuevos Circuitos y su delimitación territorial por parte del Pleno del Consejo de la Judicatura Federal, el referido Acuerdo General 23/2001 ha sido reformado en múltiples ocasiones durante un lapso de más de cuatro años, además de que desde la vigencia del mismo, se han creado nuevos municipios que es necesario incorporar a ese tipo de normatividad; por lo que se hace evidente la necesidad de emitir uno nuevo que lo sustituya y actualice.
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-En consecuencia, con fundamento en las disposiciones constitucionales y legales citadas, el Pleno del Consejo de la Judicatura Federal expide el siguiente
+###### ARTÍCULO 1°.
 
-ACUERDO
+Los estudios superiores a nivel licenciatura que imparta la Universidad Politécnica de Aguascalientes se sujetarán a lo dispuesto en el presente Reglamento, y demás normatividad aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+###### ARTÍCULO 2°.
 
-PRIMERO.- El territorio de la República se divide en treinta y dos circuitos, cuya circunscripción territorial es la siguiente:
+Los estudios superiores a nivel licenciatura tendrán como finalidad:
 
-I.- PRIMER CIRCUITO: Distrito Federal.
+I. Preparar profesionales con una sólida formación técnica y en valores, conscientes del contexto nacional en lo económico, político y social;
 
-II.- SEGUNDO CIRCUITO: Estado de México.
+II. Desarrollar habilidades para aprender a lo largo de la vida; y
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+III.- Lograr una formación integral que contribuya a conformar una sociedad más justa.
 
-III.- TERCER CIRCUITO: Estado de Jalisco.
+###### ARTÍCULO 3°.
 
-IV.- CUARTO CIRCUITO: Estado de Nuevo León.
+El diseño curricular y la actualización de los programas educativos que se impartan en la Universidad se harán con base en competencias, entendidas como los conocimientos, habilidades, destrezas y actitudes necesarias para el desempeño efectivo de los egresados en el mercado de trabajo.
 
-V.- QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
+## TÍTULO SEGUNDO. DEL INGRESO
 
-VI.- SEXTO CIRCUITO: Estado de Puebla.
+###### ARTÍCULO 4°.
 
-VII.- SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
+Para ingresar a los estudios superiores a nivel licenciatura se requiere:
 
-VIII.- OCTAVO CIRCUITO: Estado de Coahuila y los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
+I. Haber aprobado en su totalidad el plan de estudios del nivel medio superior;
 
-IX.- NOVENO CIRCUITO: Estado de San Luis Potosí.
+II. Cubrir los requisitos señalados en la convocatoria y, en su caso, instructivos que al efecto emita la Universidad;
 
-X.- DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza del Estado de Veracruz.
+III. Presentar la solicitud correspondiente;
 
-XI.- DECIMOPRIMER CIRCUITO: Estado de Michoacán.
+IV. Ser aceptado mediante la evaluación de selección que al efecto tenga establecida la Universidad; y
 
-XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
+V. Cubrir las cuotas establecidas por la Universidad.
 
-XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
+###### ARTÍCULO 5°.
 
-XIV.- DECIMOCUARTO CIRCUITO: Estados de Yucatán y Campeche.
+Los aspirantes extranjeros, además de los requisitos señalados en el Artículo 4°, deberán acreditar su legal estancia en el país conforme a la legislación aplicable.
 
-XV.- DECIMOQUINTO CIRCUITO: Estado de Baja California y municipio de San Luis Río Colorado del Estado de Sonora.
+###### ARTÍCULO 6°.
 
-XVI.- DECIMOSEXTO CIRCUITO: Estado de Guanajuato.
+El Consejo de Calidad, para cada periodo de inscripción, establecerá los números mínimo y máximo de alumnos que podrán ser inscritos en cada programa educativo, sujetándose a la disponibilidad presupuestal y a la capacidad instalada de la Universidad.
 
-XVII.- DECIMOSEPTIMO CIRCUITO: Estado de Chihuahua.
+## TÍTULO TERCERO. DE LA CALIDAD DE ALUMNO
 
-XVIII.- DECIMOCTAVO CIRCUITO: Estado de Morelos.
+###### ARTÍCULO 7º.
 
-XIX.- DECIMONOVENO CIRCUITO: Estado de Tamaulipas.
+Adquiere la calidad de alumno quien haya cumplido con los requisitos de ingreso y realice oportunamente los trámites de inscripción.
 
-XX.- VIGESIMO CIRCUITO: Estado de Chiapas.
+###### ARTÍCULO 8°.
 
-XXI.- VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
+La calidad de alumno termina por las siguientes causas:
 
-XXII.- VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
+I. Por conclusión del plan de estudios; y
 
-XXIII.- VIGESIMO TERCER CIRCUITO: Estados de Zacatecas y Aguascalientes.
+II. Por renuncia expresa a la Universidad.
 
-XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
+###### ARTÍCULO 9°.
 
-XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
+La calidad de alumno se pierde por las siguientes causas:
 
-XXVI.- VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
+I. Por no haberse reinscrito durante tres cuatrimestres seguidos, sin que medie suspensión temporal de la calidad de alumno;
 
-XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
+II. Por vencimiento del plazo máximo para cursar el plan de estudios;
 
-XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
+III. Por resolución definitiva dictada por el órgano colegiado competente mediante la cual se imponga como sanción; y
 
-XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
+IV Por no haber acreditado una misma asignatura habiéndola cursado en dos oportunidades.
 
-> <small>(ADICIONADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+## TÍTULO CUARTO. DE LAS INSCRIPCIONES Y REINSCRIPCIONES
 
-XXXII (SIC).- TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
+### CAPÍTULO I. De las Inscripciones
 
-SEGUNDO.- Cada uno de los Circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
+###### ARTÍCULO 10.
 
-I.- PRIMER CIRCUITO:
+La inscripción es el proceso administrativo mediante el cual un aspirante es registrado a un programa educativo de licenciatura.
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 59/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE SEPTIEMBRE DE 2006)</small>
+###### ARTÍCULO 11.
 
-1.- Cincuenta y seis tribunales colegiados especializados: diez en materia penal, diecisiete en materia administrativa, catorce en materia civil y quince en materia de trabajo, todos con residencia en el Distrito Federal.
+Las inscripciones se realizarán en los periodos establecidos en el Calendario Escolar aprobado por la Junta Directiva, salvo que medie causa justificada plenamente comprobada a juicio del Director de Programa Educativo.
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 60/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE SEPTIEMBRE DE 2006)</small>
+En ningún caso podrá efectuarse una inscripción después de la primera semana de clases.
 
-2.- Nueve tribunales unitarios especializados: seis en materia penal y tres en materias civil y administrativa, todos con residencia en el Distrito Federal.
+###### ARTÍCULO 12.
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL DEL 70/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
+Son requisitos para la inscripción a un programa educativo:
 
-3.- Sesenta y siete juzgados de distrito en el Distrito Federal, especializados: dieciocho en materia de procesos penales federales, catorce de amparo en materia penal, dieciséis en materia administrativa, trece en materia civil, y seis en materia de trabajo, todos con sede en el Distrito Federal.
+I. Cumplir con lo establecido en el Artículo 4º de este Reglamento;
 
-II.- SEGUNDO CIRCUITO:
+II. Presentar certificado original de estudios de educación media superior; y
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 27/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JULIO DE 2009)</small>
+III. En el caso de extranjeros, presentar la documentación escolar legalizada que acredite sus estudios correspondientes.
 
-1.- Trece tribunales colegiados especializados: cuatro en materia penal, cuatro en materia civil y uno en materia de trabajo, con residencia en Toluca y cuatro tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez.
+###### ARTÍCULO 13.
 
-2.- Cinco tribunales unitarios: cuatro con sede en Toluca y uno con residencia en Nezahualcóyotl.
+El aspirante que a la fecha de la inscripción no cuente con el certificado original de los estudios de educación media superior, deberá presentar una constancia que avale que su certificado está en trámite y tendrá un plazo máximo de 180 días naturales para su exhibición. Concluido éste, sin que se haya presentado el certificado correspondiente, la inscripción será cancelada, sin que proceda la devolución de las cuotas pagadas y dejando sin efecto los actos derivados de la misma.
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL DEL 72/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
+### CAPÍTULO II. De las Reinscripciones
 
-3.- Veintidós juzgados de Distrito en el Estado de México: seis especializados en materia de procesos penales federales y cinco especializados en materia de amparo y juicios civiles federales, todos con residencia en Toluca; ocho juzgados de Distrito mixtos con sede en Naucalpan de Juárez y tres con sede en Nezahualcóyotl.
+###### ARTÍCULO 14.
 
-III.- TERCER CIRCUITO:
+la reinscripción es el proceso administrativo mediante el cual un alumno inscrito en un programa educativo de la Universidad es registrado para continuar los estudios en cada cuatrimestre.
 
-1.- Trece tribunales colegiados especializados: dos en materia penal, cuatro en materia administrativa, cinco en materia civil y dos en materia de trabajo, todos con residencia en Guadalajara.
+###### ARTÍCULO 15.
 
-2.- Cuatro tribunales unitarios con residencia en Guadalajara.
+Son requisitos para la reinscripción:
 
-3.- Diecinueve juzgados de Distrito especializados en el Estado de Jalisco: nueve en materia penal, con sede en Puente Grande, Municipio de Juanacatlán; cinco en materia administrativa y de trabajo y cinco en materia civil, todos con residencia en Guadalajara.
+I. Estar al corriente en el pago de las cuotas y sin adeudo de carácter administrativo;
 
-4.- (DEROGADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)
+II. No tener suspensión temporal de la calidad de alumno como consecuencia de una sanción; y
 
-IV.- CUARTO CIRCUITO:
+III. Tener vigente la calidad de alumno.
 
-1.- Once tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y tres en materia de trabajo, todos con residencia en Monterrey.
+### CAPÍTULO III. De la Anulación y Cancelación de las Inscripciones y Reinscripciones
 
-2.- Dos tribunales unitarios con residencia en Monterrey.
+###### ARTÍCULO 16.
 
-3.- Doce juzgados de Distrito especializados en el Estado de Nuevo León: cinco en materia penal, tres en materia administrativa y cuatro en materias civil y de trabajo, todos con residencia en Monterrey.
+La comprobación de la falsedad de la documentación presentada, parcial o total, para efectos de inscripción, dará lugar a la cancelación de ésta, y quedarán sin efecto los actos derivados de la misma. Lo anterior sin perjuicio de las responsabilidades en las que se incurra, reservándose la Universidad el derecho de ejercer las acciones legales correspondientes.
 
-V.- QUINTO CIRCUITO:
+###### ARTÍCULO 17.
 
-1.- Cinco tribunales colegiados especializados: tres en materias penal y administrativa; y dos en materia civil y de trabajo, todos con residencia en Hermosillo.
+La inscripción a un programa educativo o reinscripciones posteriores, podrán ser anuladas cuando así lo determine el Consejo de Calidad, mediante resolución emitida con fundamento en lo dispuesto en el presente Reglamento o en otras disposiciones reglamentarias de la Universidad Politécnica.
 
-2.- Cinco tribunales unitarios con sede en Hermosillo.
+## TÍTULO QUINTO. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
 
-3.- Diez juzgados de Distrito en el Estado de Sonora: cuatro con sede en Hermosillo, tres con residencia en Nogales, dos con sede en Ciudad Obregón y uno con residencia en Agua Prieta.
+###### ARTÍCULO 18.
 
-VI.- SEXTO CIRCUITO:
+Los estudios correspondientes a un programa educativo al nivel de licenciatura deben realizarse conforme a los planes y programas vigentes, aprobados por la Junta Directiva de la Universidad Politécnica.
 
-1.- Nueve tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y uno en materia de trabajo, todos con residencia en Puebla.
+###### ARTÍCULO 19.
 
-2.- Un tribunal unitario con sede en Puebla.
+Para efectos del Artículo 3º de este Reglamento, la Universidad Politécnica establecerá, mediante los procesos de diseño y actualización de los planes y programas de estudio, las competencias que un egresado deberá desarrollar.
 
-3.- Diez juzgados de Distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre.
+###### ARTÍCULO 20.
 
-VII.- SEPTIMO CIRCUITO:
+En la elaboración de los planes y programas de estudio, la Universidad Politécnica se apegará a la metodología de diseño curricular que al efecto establezca la Secretaria de Educación Pública.
 
-1.- Siete tribunales colegiados especializados: dos en materia penal y dos en materias administrativa y de trabajo, con residencia en Boca del Río; y tres en materia civil con sede en Xalapa.
+###### ARTÍCULO 21.
 
-2.- Dos tribunales unitarios con residencia en Boca del Río.
+El número de créditos correspondiente a una licenciatura será, al menos de 375 créditos, sobre la base de cuatrimestres. Para tal efecto, la definición de crédito será la que establece el Acuerdo 279 de la Secretaría de Educación Pública.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 68/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE NOVIEMBRE DE 2006)</small>
+###### ARTÍCULO 22.
 
-3.- Trece juzgados de Distrito en el Estado de Veracruz: tres con sede en Xalapa, cuatro con residencia en Boca del Río, dos con sede en Tuxpan, dos con residencia en Poza Rica y dos con sede en Córdoba.
+Un cuatrimestre es el período que se establece para el desarrollo de los programas de las asignaturas y tendrá una duración de quince semanas.
 
-VIII.- OCTAVO CIRCUITO:
+###### ARTÍCULO 23.
 
-1.- Cinco tribunales colegiados: tres con residencia en Torreón y dos con sede en Saltillo.
+Un ciclo de formación es el periodo integrado por varios cuatrimestres durante el cual el alumno adquiere las competencias establecidas en el plan de estudios.
 
-2.- Dos tribunales unitarios con sede en Torreón.
+Cada programa educativo constará de cuando menos diez cuatrimestres, divididos en tres ciclos de formación.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 61/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
+## TÍTULO SEXTO. DE LOS PLAZOS PARA CURSAR LOS ESTUDIOS
 
-3.- Ocho juzgados de distrito en el Estado de Coahuila: dos con residencia en Saltillo, uno con sede en Piedras Negras, uno con residencia en Monclava y cuatro en La Laguna, con sede en Torreón.
+###### ARTÍCULO 24.
 
-IX.- NOVENO CIRCUITO:
+Los alumnos deberán cubrir la totalidad del plan de estudios en un plazo que no excederá del 50% adicional al tiempo previsto, contado a partir de su inscripción.
 
-1.- Tres tribunales colegiados con residencia en San Luis Potosí.
+###### ARTÍCULO 25.
 
-2.- Un tribunal unitario con sede en San Luis Potosí.
+Quien no concluya los estudios en el plazo máximo establecido en el artículo anterior, perderá la calidad de alumno.
 
-3.- Cinco juzgados de Distrito en el Estado de San Luis Potosí: cuatro con residencia en la ciudad del mismo nombre y uno con sede en Ciudad Valles.
+Podrá adquirir nuevamente la calidad de alumno cuando así lo determine el Consejo de Calidad.
 
-X.- DECIMO CIRCUITO:
+###### ARTÍCULO 26.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 17/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE MAYO DE 2009)</small>
+Para adquirir nuevamente la calidad de alumno, el interesado deberá cumplir con los siguientes requisitos:
 
-1.- Tres tribunales colegiados especializados: uno en materias civil y de trabajo, uno en materias penal y de trabajo y uno en materias administrativa y de trabajo, todos con residencia en Villahermosa.
+I. Haber cubierto cuando menos el 80% de los créditos correspondientes al plan de estudios, autorizándose como máximo dos cuatrimestres adicionales para concluir los estudios correspondientes; y
 
-2.- Dos tribunales unitarios con sede en Villahermosa.
+II. Presentar solicitud por escrito, debidamente justificada, al Consejo de Calidad dentro de los diez días siguientes a la fecha en que se dio el aviso de pérdida de la calidad de alumno.
 
-3.- Cuatro juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa.
+## TÍTULO SÉPTIMO. DEL ESTABLECIMIENTO DE EQUIVALENCIAS, REVALIDACIÓN Y ACREDITACIÓN DE ESTUDIOS
 
-4.- Tres juzgados de Distrito en el Estado de Veracruz, con sede en Coatzacoalcos.
+###### ARTÍCULO 27.
 
-XI.- DECIMOPRIMER CIRCUITO:
+Para efectos del presente Reglamento se entenderá por revalidación de estudios el procedimiento mediante el cual se otorga validez oficial a estudios realizados en instituciones que no forman parte del Sistema Educativo Nacional.
 
-1.- Cuatro tribunales colegiados con residencia en Morelia.
+Se entenderá por establecimiento de equivalencias el procedimiento mediante el cual se otorga validez oficial a estudios realizados en instituciones diferentes de la Universidad Politécnica, que forman parte del Sistema Educativo Nacional.
 
-2.- Dos tribunales unitarios con sede en Morelia.
+La acreditación es el reconocimiento, a través de los instrumentos de evaluación establecidos, de capacidades adquiridas respecto de una asignatura del plan de estudios.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 67/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE NOVIEMBRE DE 2006)</small>
+###### ARTÍCULO 28.
 
-3.- Nueve juzgados de Distrito en el Estado de Michoacán: seis con residencia en Morelia y tres con sede en Uruapan.
+Para acreditar capacidades adquiridas correspondientes a una asignatura, el estudiante hará la solicitud ante la dirección del programa académico respectivo y se apegará al procedimiento emitido para el efecto.
 
-XII.- DECIMOSEGUNDO CIRCUITO:
+###### ARTÍCULO 29.
 
-1.- Cuatro tribunales colegiados con residencia en Mazatlán.
+Se establecerá equivalencia o se revalidarán estudios, para efecto de colocación del alumno en los programas educativos, de conformidad con lo siguiente:
 
-2.- Dos tribunales unitarios con sede en Mazatlán.
+I. Cuando hayan sido cursadas asignaturas afines en los planes de estudio, se podrán acreditar estas últimas mediante la aprobación de las evaluaciones de competencias fijadas en los propios planes de estudio;
 
-3.- Diez juzgados de Distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y tres con residencia en Mazatlán.
+II. La determinación de que una asignatura es afín o no a otra que se imparta en algún programa educativo de la Universidad Politécnica corresponde a dicha institución. El dictamen académico respectivo es inatacable; y
 
-XIII.- DECIMOTERCER CIRCUITO:
+III. Corresponde a la Universidad Politécnica establecer la afinidad de las asignaturas cursadas en otras Instituciones respecto de las que en ella se imparten.
 
-1.- Tres tribunales colegiados con residencia en Oaxaca.
+###### ARTÍCULO 30.
 
-2.- Dos tribunales unitarios con sede en Oaxaca.
+La solicitud para establecimiento de equivalencias o para revalidación de estudios, sólo la pueden efectuar aquellos que tengan la calidad de alumnos de la Universidad Politécnica; el trámite correspondiente lo realizará el alumno al iniciar el primer cuatrimestre del programa educativo al cual fue aceptado.
 
-3.- Ocho juzgados de Distrito en el Estado de Oaxaca: seis con residencia en Oaxaca y dos con sede en Salina Cruz.
+###### ARTÍCULO 31.
 
-XIV.- DECIMOCUARTO CIRCUITO:
+Sólo podrán ser sujetas a revalidación o equivalencias en asignaturas hasta por un máximo de 40% de los créditos que conforman el plan de estudios correspondiente.
 
-1.- Tres tribunales colegiados especializados: dos en materias administrativa y civil; y uno en materias penal y de trabajo, todos con residencia en Mérida.
+###### ARTÍCULO 32.
 
-2.- Un tribunal unitario con sede en Mérida.
+Sólo podrán ser sujetas de acreditación las asignaturas incluidas en los dictámenes de equivalencia o revalidación de estudios, cuyo resultado de la evaluación de competencias sea de básico umbral (BU) como mínimo.
 
-3.- Cuatro juzgados de Distrito en el Estado de Yucatán, con residencia en Mérida.
+## TÍTULO OCTAVO. DE LOS CAMBIOS DE PROGRAMA EDUCATIVO Y DE UNIVERSIDAD POLITÉCNICA
 
-4.- Dos juzgados de Distrito en el Estado de Campeche, con sede en la ciudad del mismo nombre.
+###### ARTÍCULO 33.
 
-XV.- DECIMOQUINTO CIRCUITO:
+Los alumnos podrán realizar los siguientes cambios:
 
-1.- Cuatro tribunales colegiados con residencia en Mexicali.
+I. De programa educativo dentro de la misma División de la Universidad;
 
-2.- Siete tribunales unitarios: tres con sede en Mexicali y cuatro con residencia en Tijuana.
+II. De programa educativo en otra División de la misma Universidad;
 
-3.- Dieciséis juzgados de Distrito en el Estado de Baja California: seis con sede en Mexicali, ocho con residencia en Tijuana y dos con sede en Ensenada.
+III. De Universidad Politécnica de entre las que conforman el Subsistema de Universidades Politécnicas; y
 
-XVI.- DECIMOSEXTO CIRCUITO:
+IV. De programa educativo y de Universidad Politécnica.
 
-1.- Cinco tribunales colegiados especializados: dos en materias administrativa y de trabajo; dos en materia civil y uno en materia penal, todos con residencia en Guanajuato.
+###### ARTÍCULO 34.
 
-2.- Dos tribunales unitarios con sede en Guanajuato.
+Los cambios de programa educativo dentro de la misma División de la Universidad Politécnica se otorgarán cuando el cupo del mismo lo permita y sólo por una ocasión. Para programas educativos de diferente División le serán reconocidas al alumno las asignaturas de columna vertebral y transversales similares entre ambos programas educativos, debiendo cursar las asignaturas específicas faltantes para el programa solicitado.
 
-3.- Siete juzgados de Distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, tres con sede en León y dos con residencia en Celaya.
+###### ARTÍCULO 35.
 
-XVII.- DECIMOSEPTIMO CIRCUITO:
+El cambio de una Universidad Politécnica a otra, sin cambio de programa educativo, se sujetará a las disposiciones aplicables para cada una de ellas. Dicho cambio será considerado como una transferencia interna de alumno, manteniendo su condición académica.
 
-1.- Cinco tribunales colegiados: cuatro especializados, dos en materias penal y administrativa; y dos en materias civil y de trabajo, todos con residencia en la ciudad de Chihuahua; así como un mixto, con sede en Juárez.
+###### ARTÍCULO 36.
 
-2.- Cuatro tribunales unitarios: dos con residencia en Chihuahua y dos con sede en Juárez.
+Para realizar cualquiera de los cambios enunciados en el Artículo 33 será necesario además, cumplir con los siguientes requisitos:
 
-3.- Diez juzgados de Distrito en el Estado de Chihuahua: cinco con residencia en la ciudad del mismo nombre y cinco con sede en Juárez.
+I. Tener la calidad de alumno, con pleno goce de sus derechos, al momento de la solicitud y no haber sido sancionado con suspensión temporal o expulsión;
 
-XVIII.- DECIMOCTAVO CIRCUITO:
+II. Realizar los trámites de equivalencia de estudios, de ser el caso;
 
-1.- Dos tribunales colegiados con residencia en Cuernavaca.
+III. Realizar los trámites conforme al procedimiento administrativo establecido, tanto en la Universidad de origen como de la Universidad receptora; y
 
-2.- Un tribunal unitario con sede en Cuernavaca.
+IV. Efectuar el pago de derechos correspondiente.
 
-3.- Cinco juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca.
+## TÍTULO NOVENO. DEL PROCESO DE EVALUACIÓN
 
-XIX.- DECIMONOVENO CIRCUITO:
+### CAPÍTULO I. De los Criterios de Evaluación
 
-1.- Seis tribunales colegiados: cuatro especializados, dos en materias administrativa y civil; y dos en materias penal y de trabajo, todos con residencia en Ciudad Victoria; así como dos mixtos, con sede en Reynosa, Tamaulipas.
+###### ARTÍCULO 37.
 
-2.- Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
+En la Universidad Politécnica el proceso de evaluación del aprendizaje se llevará a cabo en tres etapas distintas: diagnóstica, formativa y sumativa. Tendrá por objeto recopilar evidencias de conocimiento, actitud, desempeño y producto que demuestren el grado de aprendizaje del alumno.
 
-3.- Once juzgados de Distrito en el Estado de Tamaulipas: tres con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Matamoros, dos con residencia en Reynosa y dos con sede en Tampico.
+Las evaluaciones serán las adecuadas para las capacidades incluidas en cada asignatura. Los resultados de aprendizaje e instrumentos de evaluación para cada asignatura deberán darse a. conocer al alumno al inicio de cada cuatrimestre.
 
-XX.- VIGESIMO CIRCUITO:
+###### ARTÍCULO 38.
 
-1.- Tres tribunales colegiados con residencia en Tuxtla Gutiérrez.
+En el diseño de las asignaturas se establecerán estrategias que permitan a los alumnos adquirir y desarrollar las competencias consideradas en los planes y programas de estudio.
 
-2.- Dos tribunales unitarios con sede en Tuxtla Gutiérrez.
+###### ARTÍCULO 39.
 
-3.- Ocho juzgados de Distrito en el Estado de Chiapas: dos especializados en materia de procesos penales federales, con residencia en Cintalapa de Figueroa; seis juzgados de Distrito mixtos: cuatro con sede en Tuxtla Gutiérrez y dos con residencia en Tapachula.
+Las evaluaciones serán diferentes para cada asignatura con base en la recopilación de evidencias de conocimiento, actitudes, desempeño y producto.
 
-XXI.- VIGESIMO PRIMER CIRCUITO:
+###### ARTÍCULO 40.
 
-1.- Cuatro tribunales colegiados especializados: dos en materias civil y de trabajo, con residencia en Chilpancingo; y dos tribunales colegiados en materias penal y administrativa, con sede en Acapulco.
+El Programa de Estudios, el Manual de Asignatura y el Plan de Asignatura establecerán los criterios de evaluación teniendo en cuenta los resultados de aprendizaje esperados y, en su caso, las competencias a desarrollar.
 
-2.- Dos tribunales unitarios: uno con sede en Chilpancingo y el otro con residencia en Acapulco.
+###### ARTÍCULO 41.
 
-3.- Ocho juzgados de Distrito en el Estado de Guerrero: dos con residencia en Chilpancingo, cinco con sede en Acapulco y uno con residencia en Iguala.
+Las actividades de aprendizaje realizadas en las horas no presenciales consideradas para cada asignatura, estarán contempladas dentro de la evaluación por competencias.
 
-XXII.- VIGESIMO SEGUNDO CIRCUITO:
+### CAPÍTULO II. De la Escala de Calificaciones
 
-1.- Tres tribunales colegiados con residencia en Querétaro.
+###### ARTÍCULO 42.
 
-2.- Un tribunal unitario con sede en Querétaro.
+El resultado final de las evaluaciones se expresará mediante la escala de evaluaciones: básico umbral (BU), básico avanzado (BA), independiente (I) y competente (C). La calificación minima para acreditar una asignatura es de BU.
 
-3.- Cuatro juzgados de Distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
+Para cada asignatura, la escala representa los niveles de desempeño mínimo (BU), intermedios (BA e I) y máximo (C), que deben mostrar los alumnos para su acreditación. Los criterios de desempeño son propios de cada asignatura.
 
-XXIII.- VIGESIMO TERCER CIRCUITO:
+Cuando el alumno no demuestre haber adquirido las competencias asociadas a una asignatura determinada, así se expresará en los documentos correspondientes, anotándose NC, que significa no competente.
 
-1.- Tres tribunales colegiados: uno con residencia en Zacatecas y dos con sede en Aguascalientes.
+###### ARTÍCULO 43.
 
-2.- Un tribunal unitario con sede en Zacatecas.
+Para efectos de registro de calificaciones, la administración escolar consignará el resultado de las evaluaciones fínales en forma numérica, para lo cual se utilizará la siguiente escala: NC (O), BU (7), BA (8), I (9) y C (10).
 
-3.- Dos juzgados de Distrito en el Estado de Zacatecas, uno con residencia en la ciudad del mismo nombre y uno con sede en Guadalupe.
+###### ARTÍCULO 44.
 
-4.- Tres juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
+las calificaciones obtenidas en el cuatrimestre para cada una de las asignaturas que lo componen son irrenunciables.
 
-XXIV.- VIGESIMO CUARTO CIRCUITO:
+###### ARTÍCULO 45.
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 30/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+Para acreditar una asignatura el alumno tendrá dos oportunidades de cursarla.
 
-1.- Dos tribunales colegiados con residencia en Tepic.
+###### ARTÍCULO 46.
 
-2.- Un tribunal unitario con sede en Tepic.
+Las calificaciones fínales serán publicadas en la última semana de cada cuatrimestre, por los medios que la Universidad Politécnica estime convenientes.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOQUINTO DEL ACUERDO GENERAL 34/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+###### ARTÍCULO 47.
 
-3.- Seis juzgados de Distrito en el Estado de Nayarit: dos especializados en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales, dos de Amparo en Materia Penal y dos especializados en Procesos Penales Federales, todos con residencia en Tepic.
+En caso de aclaración, el alumno deberá solicitarla por escrito ante el Director del Programa Educativo correspondiente, en un plazo máximo de dos días hábiles después de su publicación. Pasado este plazo la calificación quedará firme.
 
-XXV.- VIGESIMO QUINTO CIRCUITO:
+## TÍTULO DÉCIMO. DE LAS ESTANCIAS, ESTADÍAS Y DEL SERVICIO SOCIAL
 
-1.- Un tribunal colegiado con residencia en Durango.
+### CAPÍTULO I. Disposiciones Generales
 
-2.- Un tribunal unitario con sede en Durango.
+###### ARTÍCULO 48.
 
-3.- Tres juzgados de Distrito en el Estado de Durango, con residencia en la ciudad del mismo nombre.
+Por cada programa educativo se considerarán dos estancias y una estadía, acordes con el perfil profesional determinado en los planes y programas de estudio, y tendrán por objeto propiciar la aplicación de las competencias adquiridas por los alumnos a lo largo de su formación.
 
-XXVI.- VIGESIMO SEXTO CIRCUITO:
+###### ARTÍCULO 49.
 
-1.- Un tribunal colegiado con residencia en La Paz.
+Para facilitar a los alumnos la realización de las estancias y estadías, la Universidad Politécnica a través de su Consejo de Calidad, aprobará un Plan General de Estancias y Estadías, en el que se señalarán, entre otros:
 
-2.- Un tribunal unitario con sede en La Paz.
+I. Proyectos pertinentes a realizar; y
 
-3.- Dos juzgados de Distrito en el Estado de Baja California Sur, con residencia en La Paz.
+II. Datos de la organización u organizaciones para su desarrollo con quienes se tengan celebrados convenios de colaboración.
 
-XXVII.- VIGESIMO SEPTIMO CIRCUITO:
+Para la elaboración del plan general, se acatará lo dispuesto en los Criterios y Lineamientos emitidos por la Secretaría de Educación Pública.
 
-1.- Un tribunal colegiado con residencia en Cancún.
+###### ARTÍCULO 50.
 
-2.- Un tribunal unitario con sede en Cancún.
+Para el logro de los objetivos y metas que corresponden a las estancias y estadías, la Universidad Politécnica, por conducto de su Área de Vinculación, gestionará la celebración de acuerdos o convenios de colaboración con organizaciones del sector productivo, de servicios y de investigación, ya sean públicas o privadas, que se adecuen al perfil profesional de los programas educativos que imparte.
 
-3.- Cuatro juzgados de Distrito en el Estado de Quintana Roo, uno con residencia en Chetumal y tres con sede en Cancún.
+Los acuerdos o convenios que se celebren deberán garantizar el cumplimiento de los objetivos y metas propuestas a desarrollar durante las estancias o la estadía, según sea el caso.
 
-XXVIII.- VIGESIMO OCTAVO CIRCUITO:
+### CAPÍTULO II. De las Estancias
 
-1.- Un tribunal colegiado con residencia en Tlaxcala.
+###### ARTÍCULO 51.
 
-2.- Un tribunal unitario con sede en Tlaxcala.
+Se entenderá por Estancia el proceso formativo no escolarizado que se lleva a cabo al finalizar cada uno de los dos primeros ciclos de formación.
 
-3.- Dos juzgados de Distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre.
+Tendrá una duración no menor a sesenta horas.
 
-XXIX.- VIGESIMO NOVENO CIRCUITO:
+Deberá realizarse en organizaciones del sector productivo, de servicios y de investigación, ya sean públicas o privadas, adecuadas al perfil profesional del programa educativo.
 
-1.- Dos tribunales colegiados con residencia en Pachuca.
+###### ARTÍCULO 52.
 
-2.- Un tribunal unitario con sede en Pachuca.
+Para la realización de las estancias será requisito:
 
-3.- Tres juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca.
+I. Haber aprobado todas las asignaturas del primer ciclo de formación, en el caso de la primera estancia;
 
-> <small>(ADICIONADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+II. Para la segunda estancia, haber aprobado la primera estancia y todas las asignaturas del segundo ciclo de formación; y
 
-XXXII (SIC).- TRIGESIMO SEGUNDO CIRCUITO:
+III. Cumplir con el procedimiento que al efecto tenga establecido la Universidad Politécnica.
 
-1.- Un tribunal colegiado con residencia en Colima.
+### CAPÍTULO III. De la Estadía
 
-2.- Un tribunal unitario con sede en Colima.
+###### ARTÍCULO 53.
 
-3.- Dos juzgados de Distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre.
+Se entenderá por Estadía el proceso formativo no escolarizado, se llevará a cabo en el último cuatrimestre, y tendrá una duración no menor a seiscientas horas, debiendo realizarse en organizaciones del sector productivo o de servicios o de investigación, ya sean públicas o privadas, adecuada al perfil profesional del programa educativo.
 
-TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de Circuito es la que enseguida se indica:
+###### ARTÍCULO 54.
 
-I.- PRIMER CIRCUITO: Distrito Federal.
+El objetivo de la estadía será la puesta en práctica, en un ambiente real de trabajo, de las competencias adquiridas, por lo que el proyecto a realizar debe elaborarse con esta consideración, de manera concertada entre la Universidad y la organización receptora.
 
-II.- SEGUNDO CIRCUITO: Respecto de los tribunales colegiados en materia penal, en materia administrativa, en materia civil y en materia de trabajo, es el Estado de México.
+###### ARTÍCULO 55.
 
-Por lo que toca a los tribunales unitarios con residencia en Toluca, su jurisdicción territorial será el Estado de México, con la excepción señalada en el párrafo siguiente.
+La evaluación de la estadía se llevará a cabo conjuntamente entre el profesor responsable y su contra parte en la empresa, a partir de los criterios de los desempeños definidos previamente. Como parte de la evidencia de este proceso, el alumno entregará un reporte del proyecto que incluya los antecedentes, objetivos, desarrollo, resultados o productos y conclusiones, así como las fuentes consultadas para su realización.
 
-En cuanto al tribunal unitario con residencia en Nezahualcóyotl, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en la referida ciudad.
+### CAPÍTULO IV. De la Organización de las Estancias y la Estadía
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+###### ARTÍCULO 56.
 
-III.- TERCER CIRCUITO: Estado de Jalisco.
+La Universidad Politécnica ejercerá las funciones de planeación, programación, coordinación, supervisión y evaluación de las estancias y estadías, por conducto de los órganos académicos y operativos siguientes:
 
-IV.- CUARTO CIRCUITO: Estado de Nuevo León.
+a) El Área de Vinculación;
 
-V.- QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
+b) Las direcciones de Programa Académico; y
 
-VI.- SEXTO CIRCUITO: Estado de Puebla.
+c) Los profesores responsables.
 
-VII.- SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
+###### ARTÍCULO 57.
 
-VIII.- OCTAVO CIRCUITO: Respecto de los tribunales colegiados con residencia en Torreón, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en La Laguna, con sede en Torreón, Coahuila.
+El Área de Vinculación, los directores de Programa Académico y profesores responsables instrumentarán conjuntamente los programas de estancias y estadías, atendiendo a los planes y programas de estudio y a los lineamientos previstos en este Reglamento.
 
-En cuanto a los tribunales colegiados con residencia en Saltillo, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Coahuila, con sedes en Saltillo, Piedras Negras y Monclova.
+###### ARTÍCULO 58.
 
-IX.- NOVENO CIRCUITO: Estado de San Luis Potosí.
+Es responsabilidad del Área de Vinculación, directores de Programas Académicos y profesores responsables procurar espacios suficientes y adecuados para la realización de las estancias y estadías.
 
-X.- DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza del Estado de Veracruz.
+### CAPÍTULO V. Del Servicio Social
 
-XI.- DECIMOPRIMER CIRCUITO: Estado de Michoacán.
+###### ARTÍCULO 59.
 
-XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
+Los alumnos deberán cumplir con su servicio social de acuerdo a lo dispuesto por el Reglamento emitido para tales efectos.
 
-XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
+## TÍTULO DÉCIMO PRIMERO. DE LAS ASESORÍAS Y TUTORÍAS
 
-XIV.- DECIMOCUARTO CIRCUITO: Estados de Campeche y Yucatán.
+###### ARTÍCULO 60.
 
-XV.- DECIMOQUINTO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Baja California y el municipio de San Luis Río Colorado del Estado de Sonora.
+En apego al modelo educativo, la Universidad Politécnica establecerá sistemas enfocados a las asesorías y tutorías de alumnos; su regulación se determinará en las Políticas de Asesoría y Tutoría establecidas en los procedimientos respectivos.
 
-En relación con los tribunales unitarios con residencia en Mexicali será igual a la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en dicha ciudad.
+###### ARTÍCULO 61.
 
-En cuanto a los tribunales unitarios con residencia en Tijuana será la misma que la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en la citada ciudad y en Ensenada.
+Se entiende por tutoría al acompañamiento y verificación de la trayectoria escolar del alumno, por un profesor que le será asignado durante toda su trayectoria en la Universidad Politécnica.
 
-XVI.- DECIMOSEXTO CIRCUITO: Estado de Guanajuato.
+###### ARTÍCULO 62.
 
-XVII.- DECIMOSEPTIMO CIRCUITO: Respecto de los tribunales colegiados con sede en Chihuahua, será igual a la establecida para los juzgados de Distrito en la referida ciudad.
+Asesoría es la actividad académica que tiene por objeto disponer lo necesario para fortalecer las competencias de los alumnos.
 
-En cuanto al tribunal colegiado con residencia en Juárez, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en esa sede.
+## TÍTULO DÉCIMO SEGUNDO. DE LAS CONSTANCIAS INSTITUCIONALES DE COMPETENCIAS Y DEL TÍTULO PROFESIONAL
 
-En relación con los tribunales unitarios con residencia en Chihuahua, será igual a la establecida para los juzgados de Distrito en el Estado de Chihuahua, con residencia en dicha ciudad.
+### CAPÍTULO I. De las Constancias de Competencias
 
-Por lo que hace a los tribunales unitarios con residencia en Juárez, será la misma que la establecida para los juzgados de Distrito en el Estado de Chihuahua, con sede en la citada ciudad.
+###### ARTÍCULO 63.
 
-XVIII.- DECIMOCTAVO CIRCUITO: Estado de Morelos.
+La Constancia de Competencias es el documento que expide la Universidad Politécnica al término de cada uno de los dos primeros ciclos de formación y en ellas se anotarán las competencias específicas obtenidas.
 
-XIX.- DECIMONOVENO CIRCUITO: La jurisdicción territorial de los tribunales colegiados con sede en Ciudad Victoria, será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en la citada ciudad y en la de Tampico.
+###### ARTÍCULO 64.
 
-En cuanto a los tribunales colegiados con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en Matamoros, Nuevo Laredo y Reynosa.
+Para la expedición de la Constancia de Competencias, el alumno deberá cubrir los siguientes requisitos:
 
-La jurisdicción territorial del tribunal unitario con sede en Ciudad Victoria será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en la ciudad indicada y en Tampico.
+I. Haber acreditado la totalidad de las asignaturas del ciclo de formación y la estancia correspondiente;
 
-Por cuanto hace al tribunal unitario con sede en Matamoros, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en la citada ciudad.
+II. Estar al corriente en el pago de las cuotas y sin adeudo de carácter administrativo; y
 
-En relación con el tribunal unitario con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en la ciudad aludida.
+III. Cubrir el pago de derechos conforme a las cuotas establecidas en la Universidad.
 
-En lo referente al tribunal unitario con residencia en Nuevo Laredo, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en dicha ciudad.
+### CAPÍTULO II. Del Título Profesional
 
-XX.- VIGESIMO CIRCUITO: Estado de Chiapas.
+###### ARTÍCULO 65.
 
-XXI.- VIGESIMO PRIMER CIRCUITO: Respecto de los tribunales colegiados es el Estado de Guerrero.
+La Universidad Politécnica otorgará el título profesional a quienes hayan acreditado en su totalidad el plan de estudios vigente y cumplido con los demás requisitos establecidos en las disposiciones aplicables.
 
-En cuanto al tribunal unitario con residencia en Chilpancingo, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Guerrero, con sede en dicha ciudad y en Iguala.
+## TÍTULO DÉCIMO TERCERO. DE LOS TRÁMITES ESCOLARES
 
-En relación al tribunal unitario con residencia en Acapulco, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Guerrero, con residencia en la citada ciudad.
+###### ARTÍCULO 66.
 
-XXII.- VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
+Los trámites escolares podrán ser efectuados por persona distinta del interesado, salvo que se trate de actos personalísimos.
 
-XXIII.- VIGESIMO TERCER CIRCUITO: Respecto del tribunal colegiado con residencia en Zacatecas, su jurisdicción territorial será la entidad del mismo nombre.
+Cuando el trámite escolar se realice por persona distinta del interesado, deberá presentar carta poder debidamente requisitada.
 
-En cuanto a los tribunales colegiados con sede en Aguascalientes, su jurisdicción territorial será el Estado del mismo nombre.
+T R A N S I T O R I O S :
 
-La jurisdicción territorial del tribunal unitario comprenderá los Estados de Aguascalientes y Zacatecas.
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y será aplicable a los alumnos que ingresen a la Universidad en el siguiente Ciclo Escolar, y a los actuales, en lo que les beneficie.
 
-XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a este Reglamento.
 
-XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
+TERCERO.- La Universidad adecuará sus sistemas y programas al presente Reglamento en un plazo de dos cuatrimestres a partir de la entrada en vigor del presente.
 
-XXVI.- VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
+Dado en la ciudad de Aguascalientes, Ags., a los 22 días del mes de octubre de 2008.
 
-XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
+LA JUNTA DIRECTIVA
 
-XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
+Ing. Oscar Ponce Hernández
 
-XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
+PRESIDENTE
 
-> <small>(ADICIONADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+INTEGRANTE POR EL ESTADO.
 
-XXXII (SIC).- TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
+Mtra. Claudia Gil Ruvalcaba,
 
-CUARTO.- La jurisdicción territorial de los juzgados de Distrito es la siguiente:
+INTEGRANTE POR EL ESTADO.
 
-I.- PRIMER CIRCUITO:
+Lic. Maricela Cruz Chávez,
 
-Los juzgados de Distrito con residencia en el Distrito Federal ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquél.
+SUPLENTE DEL LIC. FRANCISCO JAVIER CHÁVEZ RANGEL
 
-II.- SEGUNDO CIRCUITO:
+INTEGRANTE POR LA FEDERACIÓN.
 
-Los juzgados de Distrito en materia de procesos penales federales en el Estado de México y los juzgados de Distrito en materias de amparo y de juicios civiles federales en el Estado de México, con residencia en Toluca, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Xalatlaco, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
+Dra. Sofía Elizabeth Acosta Ortiz,
 
-Los juzgados de Distrito en el Estado de México, con residencia en Naucalpan de Juárez, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes municipios: Aculco, Apaxco, Atizapán de Zaragoza, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Ecatepec, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Jaltenco, Jilotepec, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nicolás Romero, Polotitlán, Santa María Tonatitla, Soyaniquilpan de Juárez, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón y Zumpango.
+INTEGRANTE POR EL SECTOR SOCIAL.
 
-Los juzgados de Distrito en el Estado de México, con residencia en Nezahualcóyotl, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes municipios: Acolman, Amecameca, Atenco, Atlautla, Axapusco, Ayapango, Cocotitlán, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Nopaltepec, Otumba, Ozumba, Papalotla, San Martín de las Pirámides, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco y Valle de Chalco Solidaridad.
+Lic. Gustavo Reynoso Talamantes,
 
-III.- TERCER CIRCUITO:
+INTEGRANTE POR EL SECTOR SOCIAL.
 
-Los juzgados de Distrito en el Estado de Jalisco, con residencia en Guadalajara y Puente Grande, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+Ing. Carlos González de Cossio Rosenzweig,
 
-> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+INTEGRANTE POR EL SECTOR SOCIAL.
 
-IV.- CUARTO CIRCUITO:
+Ing. Jorge Enrique Berni Medina,
 
-Los juzgados de Distrito en el Estado de Nuevo León, con residencia en Monterrey, ejercerán jurisdicción territorial en el distrito judicial que conforma el territorio de la propia entidad federativa.
+INTEGRANTE POR EL SECTOR SOCIAL.
 
-V.- QUINTO CIRCUITO:
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-Los juzgados de Distrito en el Estado de Sonora, con residencia en Hermosillo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de Aconchi, Arivechi, Bacadehuachi, Bacanora, Banámichi, Baviácora, Carbó, Divisaderos, Empalme, Granados, Guaymas, Hermosillo, Huásabas, Huépac, La Colorada, Mazatán, Moctezuma, Nácori Chico, Onavas, Opodepe, Pitiquito, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Ures, Villa Pesqueira y Yécora.
+P.O. 22 DE JULIO DE 2013.
 
-Los juzgados de Distrito en el Estado de Sonora, con residencia en Nogales, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de Altar, Atil, Benjamín Hill, Caborca, Cucurpe, General Plutarco Elías Calles, Imuris, Magdalena, Nogales, Oquitoa, Puerto Peñasco, Santa Ana, Santa Cruz, Sáric, Trincheras y Tubutama.
+PRIMERO.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-Los juzgados de Distrito en el Estado de Sonora, con residencia en Ciudad Obregón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Alamos, Bácum, Benito Juárez, Cajeme, Etchojoa, Huatabampo, Navojoa, Quiriego, Rosario y San Ignacio Río Muerto.
-
-El juzgado de Distrito en el Estado de Sonora, con residencia en Agua Prieta, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de Agua Prieta, Arizpe, Bacerac, Bacoachi, Bavispe, Cananea, Cumpas, Fronteras, Huachinera, Naco, Nacozari de García y Villa Hidalgo.
-
-VI.- SEXTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-VII.- SEPTIMO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Veracruz, con residencia en Xalapa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acajete, Acatlán, Actopan, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Apazapan, Atzalan, Ayahualulco, Banderilla, Calcahualco, Chiconquiaco, Coacoatzintla, Coatepec, Colipa, Comapa, Cosautlán de Carvajal, Coscomatepec, Emiliano Zapata, Huatusco, Ixhuacán de los Reyes, Ixhuatlán del Café, Jalacingo, Jalcomulco, Jilotepec, Juchique de Ferrer, Landero y Coss, Las Minas, Las Vigas de Ramírez, Martínez de la Torre, Miahuatlán, Misantla, Naolinco, Nautla, Perote, Rafael Lucio, San Rafael, Sochiapa, Tatatila, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tlacolulan, Tlacotepec de Mejía, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Totutla, Vega de Alatorre, Villa Aldama, Xalapa, Xico, Yecuatla y Zentla.
-
-Los juzgados de Distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acula, Alvarado, Amatitlán, Angel R. Cabada, Boca del Río, Carlos A. Carrillo, Catemaco, Cosamaloapan, Cotaxtla, Chacaltianguis, Hueyapan de Ocampo, Ignacio de la Llave, Isla, Ixmatlahuacán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, Lerdo de Tejada, Manlio Fabio Altamirano, Medellín, Otatitlán, Paso de Ovejas, Playa Vicente, Puente Nacional, Saltabarranca, San Andrés Tuxtla, Santiago Sochiapan, Santiago Tuxtla, Soledad de Doblado, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tres Valles, Tuxtilla, Ursulo Galván y Veracruz.
-
-El Juzgado de Distrito en el Estado de Veracruz, con sede en Córdoba, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acultzingo, Amatlán de los Reyes, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Camarón de Tejeda, Camerino Z. Mendoza, Carrillo Puerto, Coetzala, Córdoba, Cuichapa, Cuitláhuac, Chocamán, Fortín, Huiloapan de Cuauhtémoc, Ixhuatlancillo, Ixtaczoquitlán, La Perla, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Paso del Macho, Rafael Delgado, Río Blanco, San Andrés Tenejapan, Soledad Atzompa, Tehuipango, Tequila, Texhuacán, Tezonapa, Tlaquilpa, Tlilapan, Tomatlán, Xoxocotla, Yanga y Zongolica.
-
-Los juzgados de Distrito en el Estado de Veracruz, con residencia en Tuxpan, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cerro Azul, Citlaltépetl, Chalma, Chiconamel, Chicontepec, Chinampa de Gorostiza, Chontla, El Higo, Huayacocotla, Llamatlán, Ixcatepec, Ixhuatlán de Madero, Naranjos Amatlán, Ozuluama, Pánuco, Platón Sánchez, Pueblo Viejo, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Temapache, Tempoal, Tepetzintla, Texcatepec, Tlachichilco, Tuxpan, Zacualpan y Zontecomatlán.
-
-Los juzgados de Distrito en el Estado de Veracruz, con sede en Poza Rica, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Castillo de Teayo, Cazones de Herrera, Coahuitlán, Coatzintla, Coyutla, Coxquihui, Chumatlán, Espinal, Filomeno Mata, Gutiérrez Zamora, Mecatlán, Papantla, Poza Rica de Hidalgo, Tecolutla, Tihuatlán y Zozocolco de Hidalgo.
-
-VIII.- OCTAVO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Coahuila, con residencia en Saltillo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo.
-
-El juzgado de Distrito en el Estado de Coahuila, con residencia en Piedras Negras, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acuña, Allende, Guerrero, Hidalgo, Jiménez, Juárez, Morelos, Múzquiz, Nava, Piedras Negras, Progreso, Sabinas, San Juan de Sabinas, Villa Unión y Zaragoza.
-
-El juzgado de Distrito en el Estado de Coahuila, con residencia en Monclova, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Candela, Castaños, Cuatrociénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento, San Buenaventura y Sierra Mojada.
-
-Los juzgados de Distrito en La Laguna, con residencia en Torreón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del Estado de Coahuila, General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
-
-IX.- NOVENO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahualulco, Armadillo de los Infante, Catorce, Cedral, Cerritos, Cerro de San Pedro, Charcas, Ciudad Fernández, Guadalcázar, Matehuala, Mexquitic de Carmona, Moctezuma, Rioverde, Salinas, San Luis Potosí, San Nicolás Tolentino, Santa María del Río, Santo Domingo, Soledad de Graciano Sánchez, Tierranueva, Vanegas, Venado, Villa de Arista, Villa de Arriaga, Villa de Guadalupe, Villa de la Paz, Villa de Ramos, Villa de Reyes, Villa Hidalgo, Villa Juárez y Zaragoza.
-
-El juzgado de Distrito en el Estado de San Luis Potosí, con sede en Ciudad Valles, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Alaquines, Aquismón, Axtla de Terrazas, Cárdenas, Ciudad del Maíz, Ciudad Valles, Coxcatlán, Ebano, El Naranjo, Huehuetlán, Lagunillas, Matlapa, Rayón, San Antonio, San Ciro de Acosta, San Martín Chalchicuautla, San Vicente Tancuayalab, Santa Catarina, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz de Santos, Tanlajás, Tanquián de Escobedo y Xilitla.
-
-X.- DECIMO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-Los juzgados de Distrito en el Estado de Veracruz, con residencia en Coatzacoalcos, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA EL ORDENAMENTO.</small>
-
-> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL 29/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JULIO DE 2009)</small>
-
-XI.- DECIMOPRIMER CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Michoacán, con residencia en Morelia, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acuitzio, Alvaro Obregón, Angamacutiro, Angangueo, Aporo, Ario, Carácuaro, Coeneo, Contepec, Copándaro, Cuitzeo, Charo, Chucándiro, Churintzio, Churumuco, Epitacio Huerta, Erongarícuaro, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Jiménez, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Madero, Maravatío, Morelia, Morelos, Nocupétaro, Nuevo Urecho, Numarán, Ocampo, Panindícuaro, Pátzcuaro, Penjamillo, Puruándiro, Queréndaro, Quiroga, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tarímbaro, Tiquicheo de Nicolás Romero, Tlalpujahua, Tlazazalca, Turicato, Tuxpan, Tuzantla, Tzintzuntzan, Tzitzio, Yurécuaro, Zacapu, Zamora, Zináparo, Zinapécuaro y Zitácuaro.
-
-Los juzgados de Distrito en el Estado de Michoacán, con residencia en Uruapan, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aguililla, Apatzingán, Aquila, Arteaga, Briseñas, Buenavista, Coahuayana, Coalcomán de Vázquez Pallares, Cojumatlán de Régules, Cotija, Charapan, Chavinda, Cherán, Chilchota, Chinicuila, Ecuandureo, Gabriel Zamora, Ixtlán, Jacona, Jiquilpan, Lázaro Cárdenas, Los Reyes, Marcos Castellanos, Múgica, Nahuatzen, Nuevo Parangaricutiro, Pajacuarán, Paracho, Parácuaro, Peribán, Purépero, Sahuayo, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tepalcatepec, Tingambato, Tinguindín, Tocumbo, Tumbiscatío, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa y Ziracuaretiro.
-
-XII.- DECIMOSEGUNDO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Culiacán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Culiacán y Navolato.
-
-Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Los Mochis, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahome, Angostura, Badiraguato, Choix, El Fuerte, Guasave, Mocorito, Salvador Alvarado y Sinaloa.
-
-Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Concordia, Cosalá, Elota, Escuinapa, Mazatlán, Rosario y San Ignacio.
-
-XIII.- DECIMOTERCER CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Oaxaca, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa, excepto en el distrito judicial en el que ejercen jurisdicción territorial los juzgados de Distrito con residencia en Salina Cruz.
-
-Los juzgados de Distrito en el Estado de Oaxaca, con residencia en Salina Cruz, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Asunción Ixtaltepec, Ciudad Ixtepec, Chauites, El Barrio de la Soledad, El Espinal, Guevea de Humboldt, Juchitán de Zaragoza, Magdalena Tequisistlán, Magdalena Tlacotepec, Matías Romero, Reforma de Pineda, Salina Cruz, San Blás Atempa, San Dionisio del Mar, San Francisco del Mar, San Francisco Ixhuatán, San Juan Guichicovi, San Mateo del Mar, San Miguel Chimalapa, San Miguel del Puerto, San Miguel Tenango, San Pedro Comitancillo, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Mixtepec (Distrito 22), San Pedro Pochutla, San Pedro Tapanatepec, Santa María Colotepec, Santa María Chimalapa, Santa María Guienagati, Santa María Huatulco, Santa María Jalapa del Marqués, Santa María Mixtequilla, Santa María Petapa, Santa María Tonameca, Santa María Totolapilla, Santa María Xadani, Santiago Astata, Santiago Lachiguiri, Santiago Laollaga, Santiago Niltepec, Santo Domingo Chihuitán, Santo Domingo Ingenio, Santo Domingo Petapa, Santo Domingo Tehuantepec, Santo Domingo Zanatepec y Unión Hidalgo.
-
-XIV.- DECIMOCUARTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Yucatán, con residencia en Mérida, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-Los juzgados de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XV.- DECIMOQUINTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Baja California, con residencia en Mexicali, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio de Mexicali del Estado de Baja California y por el municipio de San Luis Río Colorado del Estado de Sonora.
-
-Los juzgados de Distrito en el Estado de Baja California, con residencia en Tijuana, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Playas de Rosarito, Tecate y Tijuana.
-
-Los juzgados de Distrito en el Estado de Baja California, con residencia en Ensenada, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio del mismo nombre.
-
-XVI.- DECIMOSEXTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Allende, Atarjea, Cuerámaro, Doctor Mora, Dolores Hidalgo, Guanajuato, Huanímaro, Irapuato, Pueblo Nuevo, Romita, San Diego de la Unión, San José Iturbide, San Luis de la Paz, Santa Catarina, Tierra Blanca, Victoria y Xichú.
-
-Los juzgados de Distrito en el Estado de Guanajuato, con sede en León, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Manuel Doblado, León, Ocampo, Pénjamo, Purísima del Rincón, San Felipe, San Francisco del Rincón y Silao.
-
-Los juzgados de Distrito en el Estado de Guanajuato, con residencia en Celaya, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortázar, Jaral del Progreso, Jerécuaro, Moroleón, Salamanca, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarímoro, Uriangato, Valle de Santiago, Villagrán y Yuriria.
-
-XVII.- DECIMOSEPTIMO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Allende, Aquiles Serdán, Bachiniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza.
-
-Los juzgados de Distrito en el Estado de Chihuahua, con sede en Juárez, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahumada, Ascensión, Buenaventura, Casas Grandes, Galeana, Guadalupe, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes y Práxedis G. Guerrero.
-
-XVIII.- DECIMOCTAVO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XIX.- DECIMONOVENO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Antiguo Morelos, Bustamante, Casas, El Mante, Gómez Farías, Güemez, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Miquihuana, Nuevo Morelos, Ocampo, Padilla, Palmillas, San Carlos, San Nicolás, Soto la Marina, Tula, Victoria, Villagrán y Xicoténcatl.
-
-Los juzgados de Distrito en el Estado de Tamaulipas, con sede en Nuevo Laredo, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio de Nuevo Laredo.
-
-Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Matamoros, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Burgos, Cruillas, Matamoros, Méndez, San Fernando y Valle Hermoso.
-
-Los juzgados de Distrito en el Estado de Tamaulipas, con sede en Reynosa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Camargo, Guerrero, Gustavo Díaz Ordaz, Mier, Miguel Alemán, Reynosa y Río Bravo.
-
-Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Altamira, Ciudad Madero, González y Tampico.
-
-XX.- VIGESIMO CIRCUITO:
-
-Los juzgados de Distrito de procesos penales federales en el Estado de Chiapas, con sede en Cintalapa de Figueroa y los juzgados de Distrito en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acala, Aldama, Altamirano, Amatán, Amatenango del Valle, Angel Albino Corzo, Benemérito de las Américas, Berriozábal, Bochil, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larrainzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Maravilla Tenajapa, Marqués de Comillas, Mitontic, Montecristo de Guerrero, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago El Pinar, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.
-
-Los juzgados de Distrito en el Estado de Chiapas, con residencia en Tapachula, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acacoyahua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Bella Vista, Cacahoatán, El Porvenir, Escuintla, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, La Grandeza, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Siltepec, Suchiate, Tapachula, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez y Villa Comaltitlán.
-
-XXI.- VIGESIMO PRIMER CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Guerrero, con residencia en Chilpancingo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acatepec, Ahuacotzingo, Alcozauca de Guerrero, Alpoyeca, Atlamajalcingo del Monte, Atlixtac, Cochoapa el Grande, Copanatoyac, Cualac, Chilapa de Alvarez, Chilpancingo, Eduardo Neri, General Heliodoro Castillo, Huamuxtitlán, Iliatenco, José Joaquín de Herrera, Leonardo Bravo, Malinaltepec, Metlatónoc, Mochitlán, Olinalá, Quechultenango, Tixtla de Guerrero, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac, Xochihuehuetlán, Zapotitlán Tablas y Zitlala.
-
-Los juzgados de Distrito en el Estado de Guerrero, con sede en Acapulco, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Juchitán, Benito Juárez, Coahuayutla de José María Izazaga, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, La Unión de Isidoro Montes de Oca, Marquelia, Ometepec, Petatlán, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca y Xochistlahuaca.
-
-El juzgado de Distrito en el Estado de Guerrero, con residencia en Iguala, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Ajuchitlán del Progreso, Apaxtla, Arcelia, Atenango del Río, Buenavista de Cuéllar, Cocula, Copalillo, Coyuca de Catalán, Cuetzala del Progreso, Cutzamala de Pinzón, General Canuto A. Neri, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Mártir de Cuilapan, Pedro Ascencio Alquisiras, Pilcaya, Pungarabato, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tlalchapa, Tlapehuala y Zirándaro.
-
-XXII.- VIGESIMO SEGUNDO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XXIII.- VIGESIMO TERCER CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Zacatecas, uno con residencia en la ciudad del mismo nombre y otro con sede en Guadalupe, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-Los juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XXIV.- VIGESIMO CUARTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Nayarit, con residencia en Tepic, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XXV.- VIGESIMO QUINTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Durango, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Canatlán, Canelas, Coneto de Comonfort, Cuencamé, Durango, El Oro, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Mezquital, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan del Río, Santa Clara, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Topia y Vicente Guerrero.
-
-XXVI.- VIGESIMO SEXTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Baja California Sur, con residencia en La Paz, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XXVII.- VIGESIMO SEPTIMO CIRCUITO:
-
-El juzgado de Distrito en el Estado de Quintana Roo, con residencia en Chetumal, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco.
-
-Los juzgados de Distrito en el Estado de Quintana Roo, con residencia en Cancún, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas y Solidaridad.
-
-XXVIII.- VIGESIMO OCTAVO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XXIX.- VIGESIMO NOVENO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-> <small>(ADICIONADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
-
-XXXII (SIC).- TRIGESIMO SEGUNDO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-> <small>(ADICIONADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
-
-XXXIII.- Los Jueces de Distrito en Materia de Procesos Penales Federales del Primero y Segundo Circuito, los Penales del Tercer Circuito y los Mixtos, así como los de Procesos Penales Federales que en lo futuro se lleguen a crear en aquellos lugares donde exista un centro federal de readaptación social de máxima seguridad, ejercerán jurisdicción en toda la República para conocer de aquellos asuntos que se encuentren en la hipótesis del artículo 10, párrafo tercero, del Código Federal de Procedimientos Penales.
-
-> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 20/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2009)</small>
-
-QUINTO.- Se contará con:
-
-1. El Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, el cual se integrará por cinco juzgados de Distrito Auxiliares y dos tribunales colegiados Auxiliares.
-
-2. El Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, el cual se integrará por nueve juzgados de Distrito Auxiliares y cuatro tribunales colegiados Auxiliares.
-
-3. El Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, el cual se integrará por tres juzgados de Distrito Auxiliares, cinco tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
-
-4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, el cual se integrará por cinco juzgados de Distrito Auxiliares y dos tribunales colegiados Auxiliares.
-
-5. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, el cual se integrará por siete juzgados de Distrito Auxiliares, dos tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
-
-6. El Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, el cual se integrará por un juzgado de Distrito Auxiliar, un tribunal unitario Auxiliar y un tribunal colegiado Auxiliar.
-
-7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, el cual se integrará por tres juzgados de Distrito Auxiliares, un tribunal unitario Auxiliar y un tribunal colegiado Auxiliar.
-
-Dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.
-
-SEXTO.- Los asuntos que como consecuencia de la entrada en vigor de este acuerdo queden comprendidos por su procedencia dentro de la jurisdicción territorial de un tribunal de Circuito o juzgado de Distrito diferente del que se encuentre conociendo de los mismos, continuarán en estos últimos hasta su conclusión.
-
-## TRANSITORIOS
-
-PRIMERO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO.- Queda sin efecto el Acuerdo General 23/2001, publicado en el Diario Oficial de la Federación, el veinticinco de abril de dos mil uno. Asimismo, quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este acuerdo.
-
-CUARTO.- Los acuerdos generales que dicte el Consejo de la Judicatura Federal con posterioridad al inicio de la vigencia del presente acuerdo y que se refieran a la determinación del número, límites territoriales de los circuitos y distritos judiciales, así como respecto al número, límites territoriales y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito, se integrarán a este acuerdo general para efectos de su actualización.
-
-QUINTO.- Las modificaciones en la conformación municipal que realicen los Estados de la República en el ámbito de sus respectivas competencias y que cambien la distribución contenida en el presente acuerdo general, serán analizadas por el Consejo de la Judicatura Federal y en su caso, las variaciones relativas a que haya lugar se efectuarán en acuerdos generales que se integren a este acuerdo.
-
-EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, fue aprobado por el Pleno del propio Consejo, en sesión de veintitrés de agosto de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a veintitrés de agosto de dos mil seis.- Conste.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
-
-D.O.F. 13 DE SEPTIEMBRE DE 2006.
-
-PRIMERO.- Este acuerdo entrará en vigor el diecisiete de septiembre de dos mil seis.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 18 DE SEPTIEMBRE DE 2006.
-
-ACUERDO GENERAL 59/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
-
-PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 18 DE SEPTIEMBRE DE 2006.
-
-ACUERDO GENERAL 60/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
-
-PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 3 DE NOVIEMBRE DE 2006.
-
-ACUERDO GENERAL 68/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de Veracruz, con sede en Córdoba, con motivo del inicio de funciones del nuevo órgano jurisdiccional.
-
-D.O.F. 3 DE NOVIEMBRE DE 2006.
-
-ACUERDO GENERAL 69/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en materia de trabajo en el Distrito Federal, con motivo del inicio de funciones del nuevo órgano jurisdiccional.
-
-D.O.F. 6 DE NOVIEMBRE DE 2006.
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos atenderán la situación laboral del personal adscrito al Juzgado Séptimo de Distrito en el Estado de Michoacán, con residencia en Morelia, en los términos establecidos en el Dictamen por el que se autorizó su traslado a Morelia, Michoacán.
-
-CUARTO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de Michoacán, con sede en Morelia, con motivo del traslado del Juzgado Séptimo de Distrito en el Estado de Michoacán, con residencia en Uruapan a Morelia.
-
-D.O.F. 17 DE NOVIEMBRE DE 2006.
-
-ACUERDO 70/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito de amparo en materia penal en el Distrito Federal, con motivo del inicio de funciones del nuevo órgano jurisdiccional.
-
-D.O.F. 17 DE NOVIEMBRE DE 2006.
-
-ACUERDO 71/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 17 DE NOVIEMBRE DE 2006.
-
-ACUERDO 72/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
-
-PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO.- Se faculta a la Comisión de Creación de Nuevos Órganos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de México, con sede en Naucalpan de Juárez, con motivo del inicio de funciones del Juzgado Decimoprimero de Distrito en el Estado de México, con residencia en Naucalpan de Juárez.
-
-D.O.F. 28 DE MAYO DE 2009.
-
-PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, la reforma realizada al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
-
-D.O.F. 12 DE JUNIO DE 2009.
-
-ACUERDO GENERAL 19/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO XXIV, NUMERO 3.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO. La Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales del Consejo de la Judicatura Federal, proveerá lo conducente para que el traslado de expedientes ordenado en el punto cuarto del presente acuerdo se verifique con la seguridad requerida para ello, para lo cual podrá coordinarse con las autoridades federales y locales en materia de seguridad pública, informando lo anterior a la Comisión de Creación de Nuevos Organos.
-
-CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
-
-D.O.F. 12 DE JUNIO DE 2009.
-
-ACUERDO GENERAL 20/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO QUINTO.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Los Juzgados Primero y Segundo de Distrito Auxiliares, con residencia en el Distrito Federal, creados por los Acuerdos Generales 18/2007 y 34/2007 del Pleno del Consejo de la Judicatura Federal, respectivamente, ahora denominados Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, seguirán funcionando conforme a las reglas establecidas en los acuerdos mencionados y demás disposiciones emitidas al respecto, y una vez que terminen de tramitar y resolver los asuntos de los que actualmente conocen, darán aviso a la Comisión de Creación de Nuevos Organos.
-
-TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 13 DE JULIO DE 2009.
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 15 DE JULIO DE 2009.
-
-PRIMERO. El presente acuerdo entrará en vigor el uno de agosto de dos mil nueve.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
-
-D.O.F. 4 DE AGOSTO DE 2009.
-
-ACUERDO GENERAL 30/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
-
-D.O.F. 4 DE AGOSTO DE 2009.
-
-ACUERDO 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
-
-D.O.F. 4 DE AGOSTO DE 2009.
-
-ACUERDO GENERAL 34/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
-
-TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+SEGUNDO.- Se abroga el Reglamento de Estudios de la Universidad, publicado en el Periódico Oficial del Estado el 17 de agosto de 2009, y se derogan las demás disposiciones de la legislación universitaria que se opongan a las del presente reglamento.
