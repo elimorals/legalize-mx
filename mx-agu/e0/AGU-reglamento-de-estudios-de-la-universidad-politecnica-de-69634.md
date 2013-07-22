@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-estudios-de-la-universidad-politecnica-de-69634"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-17"
-last_updated: "2009-08-17"
+last_updated: "2013-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO DE ESTUDIOS DE LA UNIVERSIDAD POLITECNICA DE AGUASCALIENTES
 
-REGLAMENTO DE ESTUDIOS DE LA UNIVERSIDAD POLITECNICA DE AGUASCALIENTES
+REGLAMENTO DE ESTUDIOS DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE ESTUDIOS DE PROFESIONAL ASOCIADO Y LICENCIATURA DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES, PUBLICADO EN LA PRIMERA SECCIÓN DEL P.O. DE 22 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de agosto de 2009.
 
@@ -510,3 +512,11 @@ INTEGRANTE POR EL SECTOR SOCIAL.
 Ing. Jorge Enrique Berni Medina,
 
 INTEGRANTE POR EL SECTOR SOCIAL.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JULIO DE 2013.
+
+PRIMERO.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de Estudios de la Universidad, publicado en el Periódico Oficial del Estado el 17 de agosto de 2009, y se derogan las demás disposiciones de la legislación universitaria que se opongan a las del presente reglamento.
