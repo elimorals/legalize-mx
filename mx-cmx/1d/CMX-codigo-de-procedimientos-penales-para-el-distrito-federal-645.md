@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2013-06-18"
+last_updated: "2013-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1931-08-26"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JUNIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 22 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO SERÁ ABROGADO EN FORMA GRADUAL Y PROGRESIVA A PARTIR DEL 1 DE ENERO DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE JULIO DE 2013.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -6201,3 +6203,29 @@ PRIMERO.- El presente Decreto entrará en vigor a los noventa días naturales de
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
 
 TERCERO.- La Procuraduría General de Justicia del Distrito Federal deberá publicar el acuerdo por el que expiden los Lineamientos de la Cadena de Custodia a que se refiere el artículo 96 del presente Código, a más tardar dentro de los 45 días naturales a la publicación del presente Decreto y entrarán en vigor conjuntamente con este Decreto. Para estos efectos, la Procuraduría General de Justicia del Distrito Federal podrá hacer propios los ordenamientos respectivos relativos a la cadena de custodia emitidos por la Conferencia Nacional de Procuración de Justicia.
+
+G.O. 22 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal; el presente Decreto entrará en vigor el primero de enero del año dos mil quince, en la forma siguiente:
+
+I. A partir del primero de enero de dos mil quince sólo se aplicará para los delitos culposos y aquellos que se persigan por querella de parte ofendida;
+
+II. A partir del dieciséis de julio de dos mil quince se aplicará para los delitos no graves; y,
+
+III. A partir del quince de junio de dos mil dieciséis se aplicará para todos los demás delitos vigentes en el Distrito Federal.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, se abroga el Código de Procedimientos Penales para el Distrito Federal publicado en el Diario Oficial de la Federación el veintinueve de agosto de mil novecientos treinta y uno; asimismo, se deroga cualquier disposición que se oponga o contradiga lo preceptuado en este nuevo Código de Procedimientos Penales para el Distrito Federal, con excepción de lo previsto en los artículos PRIMERO y CUARTO transitorios, hipótesis en las que se seguirá aplicando en los casos que se indican.
+
+TERCERO.- La Asamblea Legislativa del Distrito Federal, a más tardar dentro de los seis meses siguientes a la fecha de publicación del presente Decreto, emitirá una declaratoria en la que señale expresamente que el Sistema Procesal Penal Acusatorio ha sido incorporado al Sistema de Justicia en el Distrito Federal, obligación establecida en el último párrafo del artículo segundo transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos" en materia de seguridad y justicia, publicado en el Diario Oficial de la Federación el dieciocho de junio de dos mil ocho.
+
+CUARTO.- Los procedimientos penales iniciados con anterioridad a la entrada en vigor del nuevo Código Procesal o que se estén substanciando conforme al Código de Procedimientos Penales para el Distrito Federal publicado en el Diario Oficial de la Federación el veintinueve de agosto de mil novecientos treinta y uno, se tramitarán hasta su conclusión y, en el caso de la ejecución de sanciones se hará de acuerdo a las disposiciones vigentes al momento en que se cometieron los hechos.
+
+QUINTO.- No procederá la acumulación de procesos por hechos que la ley señale como delito, cuando el procedimiento ya esté iniciado o se esté tramitando un juicio conforme al Código de Procedimientos Penales para el Distrito Federal publicado en el Diario Oficial de la Federación el veintinueve de agosto de mil novecientos treinta y uno, y con posterioridad se denuncien hechos que deban investigarse bajo la vigencia del nuevo Código Procesal Penal para el Distrito Federal.
+
+SEXTO.- Durante la vacatio legis del nuevo Código de Procedimientos Penales, establecida en el artículo PRIMERO transitorio, los operadores del sistema procesal penal acusatorio deberán, en el ámbito de sus respectivas competencias, realizar las modificaciones normativas, técnicas y operativas necesarias para la implementación y funcionamiento del nuevo Sistema Procesal Penal Acusatorio; así como para la implementación y operación de los Juzgados y Salas penales, y del órgano administrativo de gestión judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+SÉPTIMO.- El presupuesto de egresos del Distrito Federal para el ejercicio fiscal dos mil catorce, elaborado por la Secretaría de Finanzas con base en los recursos solicitados por los operadores del nuevo Sistema en sus respectivos proyectos de Presupuesto de Egresos, deberá contemplar las previsiones de gasto y las partidas presupuestales respectivas para la ejecución de los programas y acciones que sean necesarios a fin de implementar e incorporar, de acuerdo a lo establecido en el artículo transitorio PRIMERO de este Decreto, el Sistema Procesal Penal Acusatorio en el Distrito Federal.
+
+Asimismo, en el presupuesto de egresos de los años subsecuentes deberán efectuarse los ejercicios presupuestales que sean necesarios según los requerimientos de este ordenamiento hasta la finalización de la implementación y completa operación del Sistema Procesal Penal Acusatorio.
+
+OCTAVO.- El Pleno del Consejo de la Judicatura del Distrito Federal, la Consejería Jurídica y de Servicios Legales, la Procuraduría General de Justicia del Distrito Federal, la Secretaría de Seguridad Pública del Distrito Federal y cualquier dependencia a la que le sean aplicables las disposiciones contenidas en el nuevo Código de Procedimientos Penales deberán elaborar los planes y programas necesarios para su adecuada, oportuna y correcta implementación, según los tiempos establecidos en el artículo PRIMERO transitorio del presente Decreto; así como, contemplar en los proyectos de presupuesto respectivos, las partidas que se requieran para la ejecución y operación de los programas que se generen, las obras de infraestructura, la contratación de personal, la capacitación, la implementación de un sistema informático que permita la interconexión entre los operadores para un registro eficiente y fehaciente de la información, y todos los demás requerimientos que sean necesarios para cumplir con los objetivos a partir de la entrada en vigor del presente Código.
