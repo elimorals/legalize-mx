@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-dan-a-conocer-los-cupos-para-importar-637
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-21"
-last_updated: "2008-10-21"
+last_updated: "2013-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63796&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,102 +19,102 @@ issue_date: "2008-10-13"
 ---
 # ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR CEBADA Y MALTA
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR CEBADA Y MALTA
+ACUERDO QUE MODIFICA AL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR CEBADA Y MALTA
 
-TEXTO ORIGINAL.
-
-Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 21 de octubre de 2008.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 22 de julio de 2013.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-GERARDO RUIZ MATEOS, Secretario de Economía, con fundamento en los artículos 34, fracciones I, II y XXXI de la Ley Orgánica de la Administración Pública Federal; 5o., fracción V, 6o., 13, 23 y 24, segundo párrafo de la Ley de Comercio Exterior; 14, 16, 26, 31 y 32 de su Reglamento; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+Con fundamento en los artículos 34 fracciones I y XXXI de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o., fracción V, 6o., 13, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 14, 16, 32 y 33 del Reglamento de la Ley de Comercio Exterior; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, del Decreto por el que se establecen diversos Programas de Promoción Sectorial y de los diversos por los que se establece el esquema de importación a la Franja Fronteriza Norte y Región Fronteriza, publicado el 30 de junio de 2007 en el Diario Oficial de la Federación, establece el arancel-cupo exento aplicable a la importación de cebada en grano, excepto para siembra, fracción arancelaria 1003.00.02 y 1003.00.99, y malta tostada y sin tostar fracciones 1107.10.01 y 1107.20.01, siempre y cuando el importador cuente con certificado de cupo expedido por la Secretaría de Economía;
+Que el artículo 5 del Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, del Decreto por el que se establecen diversos Programas de Promoción Sectorial y de los diversos por los que se establece el esquema de importación a la Franja Fronteriza Norte y Región Fronteriza, publicado el 30 de junio de 2007 en el Diario Oficial de la Federación, establece el arancel-cupo exento aplicable a la importación de cebada y malta clasificadas en las fracciones arancelarias 1003.00.02, 1003.00.99, 1107.10.01 y 1107.20.01, siempre y cuando el importador cuente con certificado de cupo expedido por la Secretaría de Economía.
 
-Que para mejorar la competitividad de las cadenas productivas que utilizan cebada y malta en sus procesos industriales, es necesario complementar la producción nacional de dichos insumos con importaciones que permitan a las industrias interesadas tener acceso a los mismos en condiciones similares a las que se tienen en el exterior;
+Que el 21 de octubre de 2008 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos para importar cebada y malta.
 
-Que los precios de granos y oleaginosas a nivel internacional se han incrementado con motivo del crecimiento de las economías asiáticas, fundamentalmente las de China e India, en las cuales ha aumentado el consumo alimentario de dichas materias primas;
+Que en atención a los avances de la tecnología y la industria, al incremento del intercambio de mercancías novedosas, a los cambios en los patrones de consumo y a la dinámica comercial internacional, los países miembros de la Organización Mundial de Aduanas, entre los que se encuentra México, acordaron la expedición de la “Quinta Enmienda a la Nomenclatura del Sistema Armonizado de Designación y Codificación de Mercancías”, por lo que en consecuencia, mediante Decreto del Ejecutivo Federal publicado el 29 de junio de 2012 en el Diario Oficial de la Federación, se modificó la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, modificándose diversas fracciones arancelarias, entre ellas, las fracciones 1003.00.02 y la 1003.00.99.
 
-Que el alza en el precio del petróleo a nivel internacional encarece los costos de producción de los alimentos, así como su comercialización (fletes), y fomenta incluso el cambio de usos de los mismos, tales como la fabricación de biocombustibles;
+Que para mejorar la competitividad de las cadenas productivas que utilizan cebada y malta en sus procesos industriales, es necesario complementar la producción nacional de dichos insumos con importaciones que permitan a las industrias interesadas tener acceso a los mismos en condiciones similares a las que se tienen en el exterior, sin alterar de manera significativa los costos de producción de la industria nacional.
 
-Que es imprescindible atenuar el impacto de los precios de las materias primas (granos y oleaginosas) y cuidar que éstos no afecten de manera significativa los costos de producción de las industrias nacionales;
+Que la creciente demanda de granos para el consumo humano e industrial especialmente de economías como China e India, en paralelo con la baja en la producción mundial de granos por los efectos de fenómenos climáticos adversos, son factores que presionan el alza de los precios internacionales de granos, como es el caso de la cebada.
 
-Que el procedimiento de asignación del cupo de importación de avena, excepto para siembra, es un instrumento de la política sectorial para promover la competitividad de la cadena productiva, y
+Que México es un importante productor y exportador de cerveza en el mundo, con presencia en los mercados de los Estados Unidos de América, Europa y Japón, principalmente, además de mantener un consumo per cápita de 50 litros anuales y un mercado potencial de consumidores con perspectivas de crecimiento continuo.
 
-Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
+Que resulta necesario modificar el mecanismo de asignación del cupo de importación de cebada y malta con el fin de promover una mayor participación de las empresas que utilizan cebada y malta como insumo en sus procesos productivos.
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR CEBADA Y MALTA
+Que el mecanismo de asignación del cupo de importación de cebada y malta es un instrumento de la política sectorial para promover la competitividad de la cadena productiva.
 
-###### ARTICULO PRIMERO.
+Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente.
 
-Los cupos para importar de enero a diciembre de cada año, cebada en grano, con cáscara, excepto lo comprendido en la fracción arancelaria 1003.00.01, y las demás cebadas y malta tostada y sin tostar, fracciones arancelarias 1003.00.02, 1003.00.99, 1107.10.01 y 1107.20.01, con el arancel-cupo (exento) establecido en el Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, del Decreto por el que se establecen diversos Programas de Promoción Sectorial y de los diversos por los que se establece el esquema de importación a la Franja Fronteriza Norte y Región Fronteriza, publicado el 30 de junio de 2007 en el Diario Oficial de la Federación, son los que se determinan a continuación:
+ACUERDO QUE MODIFICA AL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR CEBADA Y MALTA
 
-(VEASE ARCHIVO ANEXO)
+Único.- Se reforman los Puntos Primero, Segundo, Tercero, Cuarto, Quinto y Sexto; se adiciona el Punto Séptimo y se derogan los Anexos que contienen las hojas de requisitos del Acuerdo por el que se dan a conocer los cupos para importar cebada y malta, publicado en el Diario Oficial de la Federación el 21 de octubre de 2008, para quedar como sigue:
 
-###### ARTICULO SEGUNDO.
+“Primero.- Los cupos para importar de enero a diciembre de cada año, cebada y malta clasificadas en las fracciones arancelarias 1003.90.01, 1003.90.99, 1107.10.01 y 1107.20.01, con el arancel-cupo (exento) establecido en el Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, del Decreto por el que se establecen diversos Programas de Promoción Sectorial y de los diversos por los que se establece el esquema de importación a la Franja Fronteriza Norte y Región Fronteriza, publicado el 30 de junio de 2007 en el Diario Oficial de la Federación, son los que se determinan a continuación:
 
-Se aplicará a los cupos de importación a que se refiere el presente instrumento el procedimiento de asignación directa.
+Producto Fracción arancelaria Cupo (toneladas)
 
-###### ARTICULO TERCERO.
+1003.90.01
 
-Podrán solicitar asignación de estos cupos las personas físicas y morales establecidas en los Estados Unidos Mexicanos que utilicen como insumo en sus procesos productivos la cebada y/o malta. La Secretaría de Economía asignará, conforme a los siguientes criterios:
+Cebada 9,000
 
-1. Productores tradicionales: Lo que resulte menor entre la cantidad solicitada y el consumo anual auditado presentado por el solicitante.
+1003.90.99
 
-2. Productores nuevos: Lo que resulte menor entre la cantidad solicitada y tres meses de la capacidad instalada reportada por el solicitante.
+1107.10.01
 
-###### ARTICULO CUARTO.
+Malta 9,000
 
-Los interesados podrán presentar en la ventanilla de atención al público de la representación federal de la SE que le corresponda, las solicitudes de asignación y expedición de manera simultánea. Para ello deberá utilizar los formatos SE-03-011-1 "Solicitud de asignación de cupo" y SE-03-013-5 "Solicitud de certificados de cupo (obtenido por asignación directa)", sin requisitar en este último el inciso 11) "Número de oficio de asignación de cupo".
+1107.20.01
 
-La Dirección General de Comercio Exterior de la Secretaría emitirá, en su caso, el oficio de asignación y la representación federal de la Secretaría que corresponda expedirá el certificado de cupo, ambos dentro de los siete días hábiles siguientes a la fecha de presentación de dichas solicitudes debidamente requisitadas. Las hojas de requisitos se establecen como anexos al presente Acuerdo.
+Segundo.- El cupo de importación referido en el presente instrumento se asignará anualmente bajo el mecanismo de licitación pública conforme al contenido de la Convocatoria y las Bases de participación que para este efecto se publiquen conforme a lo siguiente:
 
-En caso de que la resolución de la solicitud de asignación del cupo sea negativa, se entenderá que la solicitud de expedición de certificado de cupo también lo es.
+La asignación del cupo, se realizará mediante dos procedimientos de licitación, conforme a lo siguiente:
 
-Las asignaciones y los certificados de cupo a que se refiere este Acuerdo, tendrán vigencia hasta el 31 de diciembre de cada año y será improrrogable.
+a) En la primera licitación se asignará un monto equivalente al 50% del cupo entre las personas físicas y morales que utilicen cebada y/o malta como insumos en sus procesos productivos, y
 
-El certificado de cupo es nominativo e intransferible.
+b) En la segunda licitación se asignará un monto equivalente al 50% del cupo y, en su caso, el remanente de la asignación a que se refiere el inciso anterior, entre personas físicas y morales establecidas legalmente en territorio nacional.
 
-###### ARTICULO QUINTO.
+La convocatoria correspondiente se publicará en el Diario Oficial de la Federación por lo menos 20 días antes de que inicie el periodo de registro y establecerá la fecha en que se pondrán a disposición de los interesados las bases conforme a las cuales se regirá la licitación pública.
 
-Para la interpretación de los criterios que se mencionan en este Acuerdo, la Dirección General de Comercio Exterior podrá solicitar la opinión a la Dirección General de Industrias Básicas, ambas de la Secretaría de Economía.
+Tercero.- Las personas físicas y morales señaladas en el inciso a) del punto Segundo del presente Acuerdo, deberán acreditar que en su proceso productivo utilizan cebada y/o malta, con alguno de los siguientes documentos o datos:
 
-###### ARTICULO SEXTO.
+i. Dictamen elaborado por Contador Público registrado ante el Servicio de Administración Tributaria en el que certifique que el interesado ha fabricado en el año inmediato anterior, productos que utilizan cebada y/o malta como insumo.
 
-Los formatos citados en el presente Acuerdo estarán a disposición de los interesados en las Representaciones Federales de la Secretaría de Economía que corresponda y en la página de Internet de la Comisión Federal de Mejora Regulatoria (www.cofemer.gob.mx), en las siguientes direcciones electrónicas:
+ii. Acta de fe de hechos expedida por Fedatario Público en la que se certifique el objeto social de la empresa y que en su proceso productivo utiliza cebada y/o malta como insumo.
 
-I. Para el formato SE-03-011-1 "Solicitud de asignación de cupo":
+iii. Escrito libre bajo protesta de decir verdad, firmado por el presidente, director general o titular de la Cámara o Asociación del ramo o sector en el que opera la persona moral, mediante el cual se acredite su calidad de productor. Dicho escrito deberá certificar el tipo de producto que elabora y que utiliza en su proceso productivo cebada y/o malta como insumo, o
 
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=SE-03-033-A
+iv. Número de programa de la Industria Manufacturera, Maquiladora y de Servicios de Exportación (IMMEX) o autorización del Programa de Promoción Sectorial (PROSEC) vigente a nombre del solicitante.
 
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=SE-03-033-B
+Los interesados en participar en las licitaciones públicas deberán presentar su oferta en el formato SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupos para importar o exportar”.
 
-II. Para el formato SE-03-013-5 "Solicitud de Certificados de cupo (Obtenido por asignación Directa)":
+Cuarto.- Una vez realizada la adjudicación, el beneficiario deberá solicitar la expedición del certificado de cupo en el formato SE-03-013-6 "Solicitud de certificado de cupo (obtenido por licitación pública)", a través de la Ventanilla Digital Mexicana de Comercio Exterior en la dirección electrónica www.ventanillaunica.gob.mx, adjuntando copia digitalizada del comprobante del pago correspondiente a la adjudicación. La Secretaría de Economía emitirá el certificado de cupo dentro de los dos días hábiles siguientes a la presentación de la solicitud.
 
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=SE-03-042-A
+Quinto.- Los certificados de cupo que se expidan conforme a este Acuerdo serán nominativos, improrrogables, transferibles y su vigencia será al 31 de diciembre de cada año.
 
-## TRANSITORIO
+Sexto.- Para la aplicación del presente Acuerdo, la Dirección General de Comercio Exterior podrá solicitar la opinión de la Dirección General de Industrias Ligeras de la Secretaría de Economía.
 
-UNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Séptimo.- Los formatos citados en el presente Acuerdo estarán a disposición de los interesados en las representaciones federales de la Secretaría de Economía y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
 
-México, D.F., a 13 de octubre de 2008.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
+Formato SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupos para importar o exportar”.
 
-SECRETARIA DE ECONOMIA
+http://207.248.177.30/tramites/FichaTramite.aspx?val=22161
 
-DIRECCION GENERAL DE COMERCIO EXTERIOR
+Formato SE-03-013-6 “Solicitud de certificados de cupo (obtenido por licitación pública)”.
 
-REQUISITOS PARA LA ASIGNACION DE LOS CUPOS PARA IMPORTAR CEBADA EXCEPTO PARA SIEMBRA Y MALTA
+http://207.248.177.30/tramites/FichaTramite.aspx?val=24495
 
-FRACCIONES ARANCELARIAS: 1003.00.02, 1003.00.99, 1107.10.01 Y 1107.20.01
+Los formatos antes citados corresponden a los siguientes trámites inscritos en el Registro Federal de Trámites y Servicios (RFTS):
 
-PRODUCTORES TRADICIONALES
+I. “Asignación de cupo de importación y exportación a través de licitación pública”, para personas físicas o morales con homoclave en el RFTS SE-03-034.
 
-ASIGNACION DIRECTA
+II. “Expedición de certificado de cupo obtenido por licitación pública”, para personas físicas o morales con homoclave en el RFTS SE-03-043.”
 
-ORIGINARIA DE TODOS LOS PAISES
+## TRANSITORIOS
 
-1/2
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-(VEASE ARCHIVO ANEXO)
+SEGUNDO.- El monto del cupo para cebada y malta señalado en la tabla del Punto Primero del presente Acuerdo se determinará para el año 2013 considerando el monto asignado previamente con base en el Acuerdo que se modifica. En virtud de lo anterior, durante 2013 únicamente se asignarán 6 mil toneladas para cada producto especificado en la tabla indicada en el referido Punto Primero del presente Acuerdo.
+
+México, D.F., a 12 de julio de 2013.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.
