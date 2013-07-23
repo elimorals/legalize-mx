@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4090
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-27"
-last_updated: "2004-08-27"
+last_updated: "2013-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE TIERRA BLANCA GUANAJUATO
 
-REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE TIERRA BLANCA GUANAJUATO
+REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE TIERRA BLANCA GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ÚNICO DEL REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE TIERRA BLANCA GUANAJUATO, PUBLICADO EN EL P.O. DE 23 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de agosto de 2004.
 
@@ -448,3 +450,9 @@ PRESIDENTE MUNICIPAL
 T. S. U. NOE HERNÁNDEZ MARTÍNEZ
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE JULIO DE 2013.
+
+UNICO.- El presente Reglamento entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado y se deroga cualquier disposición contenida en el Reglamento anterior de la Unidad de Acceso a la Información Pública para el Municipio de Tierra Blanca Guanajuato. Aprobado el Día 13 trece de Agosto del Año 2004 dos mil cuatro y publicado en el periódico oficial del Gobierno del estado de Guanajuato, Gto. El 27 veintisiete de Agosto del 2004 Dos mil Cuatro.
