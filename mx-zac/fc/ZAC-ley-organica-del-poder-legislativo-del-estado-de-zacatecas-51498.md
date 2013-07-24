@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2012-05-19"
+last_updated: "2013-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -117,7 +117,9 @@ III. Citar por escrito, a los diputados electos para el día siete de septiembre
 
 IV. Convocar al Pleno de los diputados a la sesión solemne de transmisión del Poder Legislativo, que se llevará a efecto a las diez de la mañana el siete de septiembre del año de la elección;
 
-V. Hacer entrega por escrito a través de su Presidente, a la primera Mesa Directiva de la Legislatura entrante, los expedientes en trámite de la Legislatura y de cada una de las comisiones, archivos, así como la totalidad de los documentos electorales a que se refieren las fracciones I, II, y III de este artículo;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2013)</small>
+
+V. Hacer entrega por escrito a través de su Presidente, a la primera Mesa Directiva de la Legislatura entrante, el archivo legislativo, los expedientes en trámite de la Legislatura y de cada una de las comisiones diversos al proceso legislativo, archivos, así como la totalidad de los documentos electorales a que se refieren las fracciones I, II y III de este artículo;
 
 VI. Entregar, a través del Presidente, en la sesión de instalación de la nueva Legislatura, la documentación debidamente auditada relativa al patrimonio del Poder Legislativo del Estado, al Presidente de la primera Mesa Directiva, sujetándose a las reglas que para el proceso de entrega-recepción establece esta Ley; y
 
@@ -773,7 +775,21 @@ El dictamen debe emitirse en un plazo no mayor de cuarenta días naturales conta
 
 Los asuntos serán dictaminados invariablemente conforme al orden cronológico en que fueron turnados, excepto los calificados por el Pleno como de urgente resolución.
 
-En caso de que no se formulara dictamen en los plazos dispuestos, la Comisión de Régimen Interno y Concertación Política deberá someter al Pleno el envío del asunto a diversa comisión para su estudio y dictamen.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
+
+En caso de que no se formulara dictamen en los plazos dispuestos salvo los asuntos de carácter financiero, presupuestal, de rendición de cuentas, responsabilidades y seguridad pública, la Comisión de Régimen Interno y Concertación Política deberá someter al Pleno el envío del asunto a diversa comisión para su estudio y dictamen sólo en aquellos casos que estime pertinente y a solicitud de los coordinadores parlamentarios.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2013)</small>
+
+Una vez transcurridos dichos términos la Comisión o Comisiones Dictaminadoras emitirán un dictamen definitivo dando a conocer al Pleno aquellos asuntos que por su naturaleza sean inactivos legislativamente o jurídicamente no sea posible dictaminar, solicitando su archivo definitivo por el Pleno, de obtener la aprobación por el mismo no podrán volverse a presentar durante el siguiente período ordinario posterior.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2013)</small>
+
+Las iniciativas presentadas en el último período ordinario de sesiones del tercer año de ejercicio constitucional, que no hayan sido dictaminadas en dicho período, se remitirán al archivo legislativo para los efectos, en su caso, del párrafo siguiente.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2013)</small>
+
+Sin perjuicio de lo señalado en los párrafos cuarto y quinto que anteceden, el archivo legislativo estará integrado por las iniciativas y proyectos de dictámenes emitidos por la Legislatura correspondiente. De acuerdo al procedimiento establecido en la presente Ley, la Comisión instaladora entregará el archivo legislativo a la Legislatura entrante, misma que determinará, por conducto de las comisiones legislativas competentes, cuáles iniciativas o proyectos de dictámenes podrán ser dictaminados o aprobados, según corresponda.
 
 ###### ARTÍCULO 56.
 
@@ -2720,3 +2736,9 @@ P.O. 30 DE NOVIEMBRE DE 2011.
 P.O. 19 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 24 DE JULIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que contravengan el presente Decreto.
