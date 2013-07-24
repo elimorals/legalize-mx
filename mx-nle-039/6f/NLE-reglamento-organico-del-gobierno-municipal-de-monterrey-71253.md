@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-del-gobierno-municipal-de-monterrey-71253"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2012-12-24"
+last_updated: "2013-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -271,9 +271,7 @@ VI. Secretaría de Administración;
 
 VII. Secretaría de Servicios Públicos;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2011)</small>
-
-VIII. Secretaría de Vialidad y Tránsito;
+VIII. (DEROGADA, P.O. 24 DE JULIO DE 2013)
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2011)</small>
 
@@ -283,9 +281,9 @@ IX. Secretaría de la Contraloría;
 
 X. Secretaría de Desarrollo Económico;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2013)</small>
 
-XI. Secretaría de la Policía Municipal;
+XI. Secretaría de Seguridad Pública y Vialidad;
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2011)</small>
 
@@ -585,11 +583,17 @@ A la Secretaría de Desarrollo Urbano y Ecología, encargada de regular el orden
 
 I.- De Planeación y Administración:
 
-A) Ejercer las atribuciones que en materia de Ordenamiento, Planificación y Administración Urbana, Control Urbano, Zonificación, Equilibrio Ecológico y Protección al Ambiente consignan a favor de los Municipios la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León y demás ordenamientos legales;
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
 
-B) Elaborar, aprobar, ejecutar, evaluar y modificar planes, programas y declaratorias de desarrollo urbano y del equilibrio ecológico y protección al ambiente dentro de su jurisdicción y competencia;
+A) Ejercer las atribuciones que en materia de Administración Urbana, Control Urbano, Equilibrio Ecológico y Protección al Ambiente consignan a favor de los Municipios la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de Nuevo León y demás ordenamientos legales;
 
-C) Participar en la elaboración, revisión y ejecución de los Planes y Programas Municipales de Desarrollo Urbano, de Equilibrio Ecológico y Protección Ambiental, tomando en consideración los criterios urbanísticos, ecológicos, de vivienda, recreación, vialidad y transporte; fijar las normas correspondientes para su cumplimiento; aplicar las medidas de seguridad que se requieran e imponer las sanciones que procedan en caso de infracción; participar con la representación municipal en las diferentes tareas, relativas en los aspectos señalados, en el caso de la planeación y ordenación conjunta y coordinada de la zona de conurbación conocida como Área Metropolitana de Monterrey;
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
+
+B) Ejecutar, evaluar planes, programas y declaratorias de desarrollo urbano y del equilibrio ecológico y protección al ambiente dentro de su jurisdicción y competencia;
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
+
+C) Participar en la elaboración, revisión y ejecución de los Planes y Programas Municipales de Desarrollo Urbano, de Equilibrio Ecológico y Protección Ambiental, tomando en consideración los criterios urbanísticos, ecológicos, de vivienda, recreación, vialidad y transporte; aplicar las medidas de seguridad que se requieran e imponer las sanciones que procedan en caso de infracción; participar con la representación municipal en las diferentes tareas, relativas en los aspectos señalados, en el caso de la planeación y ordenación conjunta y coordinada de la zona de conurbación conocida como Área Metropolitana de Monterrey;
 
 D) Aprobar, modificar o rechazar, conforme a los Planes de Desarrollo Urbano autorizados, los proyectos de construcciones, edificaciones, uso de suelo, cambios de uso de suelo y de edificaciones, cambios de lineamientos y de densidades, obras de urbanización, régimen de propiedad en condominio, así como de: subdivisiones, fusiones, parcelaciones, relotificaciones y fraccionamientos, estructuras para publicidad exterior y anuncios, otorgando, en caso procedente, la licencia municipal respectiva;
 
@@ -599,29 +603,15 @@ F) Llevar el registro de los profesionistas autorizados para elaborar planos de 
 
 II.- De Desarrollo Urbano:
 
-A) Levantar y mantener actualizada la cartografía municipal y el inventario de los recursos naturales;
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
 
-B) Formular y administrar la zonificación y planes de Desarrollo Urbano Municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas;
+A) Mantener actualizada la base de datos y cartografía municipal y el inventario de los recursos naturales;
 
-C) Formular y administrar la zonificación en los planes o programas de Desarrollo Urbano Municipales, en la que determina:
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
 
-a) Los aprovechamientos predominantes en las distintas zonas del centro de población;
+B) Aplicar y administrar la zonificación y planes de Desarrollo Urbano Municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas;
 
-b) Los usos y destinos permitidos, prohibidos o condicionados;
-
-c) Las disposiciones aplicables a los usos y destinos condicionados;
-
-d) La compatibilidad entre los usos y destinos permitidos;
-
-e) Las densidades de población y construcción;
-
-f) Las medidas para la protección de los derechos de vía y zonas de restricción de inmuebles de propiedad pública;
-
-g) Las zonas de desarrollo controlado y de salvaguarda, especialmente en áreas e instalaciones en las que se realizan actividades riesgosas y se manejan materiales y residuos peligrosos;
-
-h) Las zonas de conservación, mejoramiento y crecimiento de los centros de población;
-
-i) Las reservas para la expansión de los centros de población.
+C) (DEROGADO, P.O. 24 DE JULIO DE 2013)
 
 D) Aprobar las declaratorias de reservas, destinos y usos que se deriven del Plan Director y de los planes parciales y sectoriales; Someterlas al Ejecutivo del Estado para su publicación;
 
@@ -633,7 +623,9 @@ G) Vigilar en el ámbito de su competencia y jurisdicción la observancia de los
 
 H) Realizar inspecciones, suspensiones y clausuras a las obras públicas y privadas, así como imponer sanciones a sus responsables, cuando incurran en violación a disposiciones legales o reglamentarias. Aplicar en asuntos de su competencia las sanciones, medidas y procedimientos previstos en la legislación vigente;
 
-I) Identificar, declarar y conservar zonas, edificaciones o elementos con valor histórico o cultural;
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
+
+I) Participar en los procesos de identificación, declaratoria y conservación de zonas, edificaciones o elementos con valor histórico o cultural;
 
 J) Recepción y revisión de fraccionamientos por parte del Municipio en coordinación con otras dependencias municipales;
 
@@ -665,7 +657,9 @@ Las medidas de seguridad serán aplicadas en caso de riesgo, serán de inmediata
 
 III. De Operación
 
-A) Participar en forma conjunta con el Estado, en el diseño, planeación y proyección en forma integral de los sistemas de transporte y vialidad en el territorio municipal, buscando mayor racionalidad, eficiencia y comodidad en los desplazamientos de bienes y personas;
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
+
+A) Participar en forma conjunta con el Estado, Instituto Municipal de Planeación Urbana y Convivencia de Monterrey, Nuevo León y demás organismos especializados en el diseño, planeación y proyección en forma integral de los sistemas de transporte y vialidad en el territorio municipal, buscando mayor racionalidad, eficiencia y comodidad en los desplazamientos de bienes y personas;
 
 B) Supervisar el proceso de ejecución de las obras de urbanización establecidas en la autorización de los fraccionamientos, ocurriendo a su recepción;
 
@@ -679,7 +673,9 @@ F) Establecer normas técnicas de construcción y de seguridad para las edificac
 
 G) Realizar inspecciones, suspensiones y clausuras a las obras públicas y privadas, así como imponer sanciones a sus responsables cuando incurran en violación a disposiciones legales o reglamentarias, conforme a la asesoría jurídica que proporcione la Secretaría del Ayuntamiento;
 
-H) Elaborar, analizar, proponer, proyectar, planear, diseñar y promover los proyectos de obras viales, obras pluviales y demás proyectos de obras públicas dentro de su jurisdicción y competencia.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
+
+H) Participar en el análisis, proyecto, planeación, diseño y promoción de los proyectos de obras viales, obras pluviales y demás proyectos de obras públicas dentro de su jurisdicción y competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
 
@@ -719,7 +715,9 @@ P) Aplicar las disposiciones jurídicas relativas a la prevención y control de 
 
 Q) Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen a la vía pública, en los sistemas de drenaje pluvial de los centros de población, así como de las aguas nacionales que tenga asignadas, con la participación que conforme a la legislación federal y local que en la materia, correspondan;
 
-R) Formular los programas de ordenamiento ecológico local del territorio a que se refiere según su competencia;
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
+
+R) Participar en la formulación de los programas de ordenamiento ecológico local del territorio a que se refiere según su competencia;
 
 S) Participar en los cuerpos de atención de emergencias y contingencias ambientales conforme a las políticas y programas de Protección Civil Municipal que al efecto se establezcan;
 
@@ -757,9 +755,9 @@ I) Revocar los acuerdos de licencias, permisos y autorizaciones que se expidan e
 
 Las demás que las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
 
-Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Urbano y Ecología se auxiliará con las Direcciones de: Control Urbano, de Proyectos y Planeación Urbana, de Fraccionamientos y Regularizaciones, de Ecología, así como de las Coordinaciones y Jefaturas de Departamento.
+Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Urbano y Ecología se auxiliará con las Direcciones de: Control Urbano, Técnica de Desarrollo Urbano, de Fraccionamientos y Regularizaciones, de Ecología, así como de las Coordinaciones y Jefaturas de Departamento.
 
 ### CAPÍTULO VII. SECRETARÍA DE OBRAS PÚBLICAS
 
@@ -781,7 +779,7 @@ E) Atender las observaciones derivadas de las auditorias de los diversos órgano
 
 Los demás que en la materia de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-Para el despacho de los asuntos de su competencia, la Secretaría de Obras Públicas se auxiliará con las siguientes Direcciones: Dirección de Promoción y Gestión Social, Dirección de Planeación y Contratación, Dirección de Proyectos y Dirección de Construcción y Control de Obra,· así como de las Coordinaciones y Jefaturas de Departamentos necesarias para el correcto desempeño de las atribuciones de la Secretaría.
+Para el despacho de los asuntos de su competencia, la Secretaría de Obras Públicas se auxiliará con las siguientes Direcciones: Dirección de Promoción y Gestión Social, Dirección de Planeación y Contratación, Dirección de Proyectos y Dirección de Construcción y Control de Obra, así como de las Coordinaciones y Jefaturas de Departamentos necesarias para el correcto desempeño de las atribuciones de la Secretaría.
 
 ### CAPÍTULO VIII. SECRETARÍA DE DESARROLLO HUMANO Y SOCIAL
 
@@ -845,9 +843,37 @@ C) Auxiliar a las autoridades educativas, con apoyo de los habitantes, en la det
 
 D) Establecer programas de reconocimiento cívico a los estudiantes que se destaquen por su alto desempeño educativo, así como también a los maestros que se distingan por su profesionalismo en la impartición de la educación;
 
-E) Establecer y administrar edificios públicos para el estudio y superación educativa, la promoción de la capacitación en las tecnologías de computación e información, y la facilitación del acceso de la población a la red mundial del conocimiento (Internet); y
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
 
-F) Ejercer las atribuciones que las normas jurídicas, en materia de educación, le competan al Gobierno Municipal.
+E) Establecer y administrar edificios públicos para el estudio y superación educativa, la promoción de la capacitación en las tecnologías de computación e información, y la facilitación del acceso de la población a la red mundial del conocimiento (Internet);
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
+
+F) Ejercer las atribuciones que las normas jurídicas, en materia de educación, le competan al Gobierno Municipal;
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2013)</small>
+
+G) Establecer programas que reduzcan los factores que contribuyan a la deserción escolar;
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2013)</small>
+
+H) Administrar, innovar, organizar, planear, gestionar, dirigir, supervisar y evaluar los trabajos y servicios de las bibliotecas públicas municipales de Monterrey conforme al Reglamento respectivo;
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2013)</small>
+
+I) Fomentar programas que reduzcan la violencia en los planteles escolares ubicados en el Municipio, sea verbal, psicológica, emocional o cibernética;
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2013)</small>
+
+J) Coordinar y auxiliar ante las autoridades educativas correspondientes, a las Dependencias del Gobierno Municipal en los programas y acciones que requieran ser implementados en escuelas ubicadas dentro del Municipio;
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2013)</small>
+
+K) Fomentar la práctica de valores cívicos y comunitarios; y
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2013)</small>
+
+L) Fomentar y promover la organización y participación de la Sociedad Civil en los Programas Educativos dentro del Municipio.
 
 III.- En materia de Cultura y Expresiones Artísticas:
 
@@ -869,15 +895,19 @@ H) Llevar a cabo concursos, exposiciones, festivales o cualquier otra actividad 
 
 I) Dirigir, conservar y administrar los espacios públicos de promoción a la cultura, las expresiones artísticas y el patrimonio histórico;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
 
 J) Auxiliar al Ayuntamiento y al Presidente Municipal en las atribuciones que le otorga la Ley de Protección al Patrimonio Cultural del Estado;
 
 K) Fomentar el aprendizaje entre los estudiantes del funcionamiento del Gobierno Municipal, así como promover el acervo histórico del Municipio a través de visitas guiadas a los edificios públicos;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
 
-L) Auxiliar a la Secretaría del Ayuntamiento en el manejo y organización de los archivos del Ayuntamiento e Histórico.
+L) Auxiliar a la Secretaría del Ayuntamiento en el manejo y organización de los archivos del Ayuntamiento e Histórico; y
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2013)</small>
+
+M) Autorizar el uso del Museo Metropolitano de Monterrey, el cual únicamente podrá utilizarse para actividades culturales, académicas, homenajes a mérito, actos oficiales organizados por dependencias gubernativas o sociedades culturales o científicas, bajo los lineamientos que expida la propia Secretaria.
 
 IV.- En materia de Cultura Física y Deportiva:
 
@@ -907,9 +937,13 @@ L) Procurar y promover espacios físicos destinados a la práctica del deporte e
 
 M) Celebrar convenios con organismos e instituciones públicas, privadas y sociales, con el objeto de patrocinar las actividades deportivas que se celebren en su localidad.
 
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
 
-N) Autorizar el uso del Museo Metropolitano de Monterrey; el cual únicamente podrá utilizarse para actividades culturales, académicas, homenajes a mérito, actos oficiales organizados por dependencias gubernativas o sociedades culturales o científicas, bajo los lineamientos que expida la propia Secretaría;
+N) Establecer acciones que estimulen e impulsen entre los habitantes el desarrollo de actividades deportivas, pudiendo establecer estímulos económicos con recursos propios o de instituciones afines;
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2013)</small>
+
+O) Establecer medidas y acciones que permitan la práctica del deporte con seguridad en las instalaciones municipales.
 
 V.- En materia de Salud Pública:
 
@@ -1183,67 +1217,7 @@ Para el despacho de los asuntos de su competencia, el Secretario de Servicios P�
 
 ###### ARTÍCULO 23.
 
-A la Secretaría de Vialidad y Tránsito le corresponde instrumentar el adecuado y permanente flujo vehicular, la seguridad vial y el respeto de los reglamentos que regulan el tránsito de automóviles, camiones y demás vehículos en el Municipio con el fin de mantener el orden público, correspondiéndole el despacho de los siguientes asuntos:
-
-I.- De Orden Vial:
-
-A) Vigilar el tránsito vehicular en el Municipio;
-
-B) Planear, dirigir y controlar la revisión de automóviles y vehículos automotores;
-
-C) Instrumentar con señalamientos el tránsito de vehículos y peatones en el Municipio;
-
-D) Diseñar, operar y administrar el sistema de semáforos, para agilizar el tránsito vehicular y la seguridad peatonal, excluyendo a los que formen parte del Sistema Integral de Tránsito Metropolitano.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
-
-II. Desarrollo Social:
-
-A) Inducir la educación vial entre la población, particularmente entre los niños y los jóvenes escolares;
-
-B) Promover la intervención de la población del Municipio, a fin de realizar propuestas para facilitar el tránsito vehicular;
-
-C) Alentar la participación ciudadana que permita la adecuada capacitación de los conductores de vehículos;
-
-D) Difundir mediante campañas, seminarios y juntas las políticas y normas que atañen a la seguridad vial;
-
-E) Fomentar en la población el respeto al peatón y a las normas de tránsito;
-
-F) Promover la acción de la comunidad encaminada a denunciar las conductas irregulares que llegare a presentar el personal de la Secretaría.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-G) Llevar a cabo la mediación y solución de los conflictos entre vecinos, siempre y cuando el conflicto, diferencia o disputa, sea de carácter vial entre las partes y no contravenga ninguna disposición legal establecida, ni afecte a los derechos de terceros.
-
-III.- De Modernización:
-
-A) Participar en la innovación y avances tecnológicos que permitan un mejor ejercicio de sus funciones;
-
-B) Llevar y mantener actualizado el padrón de las licencias de manejo que sean otorgadas por la Autoridad Municipal en los términos de la legislación vigente aplicable.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
-
-IV. De Orden Legal
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-A) Auxiliar al Ministerio Público en la investigación y persecución de los delitos inherentes o relacionados con el tránsito de vehículos y la detención de los infractores;
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-B) Imponer sanciones a las personas que infrinjan el Reglamento de Vialidad y Tránsito;
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-C) Auxiliar con información, a solicitud de las autoridades federales, estatales y de otros municipios, en localización y persecución de los delincuentes.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes o le asigne el Presidente Municipal.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-Para el despacho de los asuntos de su competencia, el Secretario de Vialidad y Tránsito se auxiliará con las Direcciones: Administrativa, de Ingeniería Vial, Operativa, de Accidentes, y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
+(DEROGADO, P.O. 24 DE JULIO DE 2013)
 
 ### CAPÍTULO XII. SECRETARÍA DE LA CONTRALORÍA
 
@@ -1421,103 +1395,145 @@ Y los demás; que en las materias de su competencia, le atribuyan al Municipio l
 
 Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Económico de Monterrey, se auxiliará con las Direcciones de: Empleo y Desarrollo Empresarial, de Fomento a la Inversión, de Relaciones Institucionales y de Turismo; y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el desarrollo de la Secretaría.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JULIO DE 2013)</small>
 
-### CAPÍTULO XIV. SECRETARÍA DE LA POLICÍA MUNICIPAL
+### CAPÍTULO XIV. SECRETARÍA DE SEGURIDAD PÚBLICA Y VIALIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 26.
 
-A la Secretaría de Policía Municipal de Monterrey le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Seguridad Pública y Vialidad de Monterrey le corresponde el despacho de los siguientes asuntos:
 
-I.- De Administración, Gobierno y Operatividad:
+I. De Administración
 
-A) Coordinarse con la Dirección de Seguridad Pública del Estado en todos los aspectos operativos que se requieran;
+A) Planear, dirigir, organizar, controlar, supervisar y evaluar el funcionamiento de la Secretaría;
 
-B) Informar cuando sea requerido, al Gobernador del Estado, en su carácter de mando supremo de la fuerza pública en el Municipio, los asuntos relativos a la corporación;
+B) Coordinarse con las instancias federales, estatales y municipales en las materias de seguridad pública y de vialidad, en todos los aspectos operativos que se requieran;
 
-C) Acordar con el Presidente Municipal e informarle de los asuntos que le corresponden, así como desempeñar las comisiones y funciones que le confieran;
+C) Informar los asuntos relativos a la corporación cuando sea requerido por el Gobernador del Estado, en su carácter de mando supremo de la fuerza pública en el Municipio;
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+D) Acordar con el Presidente Municipal e informarle de los asuntos que le corresponden, así como desempeñar las comisiones y funciones que le confieran;
 
-D) Formular anteproyectos de programas y presupuestos de los asuntos de su competencia, sometiéndolos a la consideración del Presidente Municipal para su incorporación a los proyectos que se sometan a la aprobación del Ayuntamiento;
+E) Formular anteproyectos de programas y presupuestos de los asuntos de su competencia, sometiéndolos a la consideración del Presidente Municipal para su incorporación a los proyectos que se sometan a la aprobación del Ayuntamiento;
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+F) Elaborar y proponer al Presidente Municipal el Manual de Organización de la Secretaría;
 
-E) Elaborar y proponer al Presidente Municipal el Manual de Organización de la Policía Municipal de Monterrey;
+G) Designar a un responsable del control, suministro y adecuado manejo de la información;
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
+H) Integrar y administrar la información del personal;
 
-F) Realizar acciones de investigación a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información.
+I) Ingresar, consultar e investigar en las diferentes bases de datos de personal de seguridad pública, los expedientes de los aspirantes a ingresar a la Secretaría, así como a aquéllos a integrar los cuerpos auxiliares de seguridad, y coadyuvar con otras Secretarías en la revisión de antecedentes del personal a contratar;
 
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2012)</small>
+J) Contratar y emplear en la Secretaría a personas que cuenten con el registro y el certificado emitido por el Centro de Evaluación y Control de Confianza; y
 
-G) Llevar a cabo la mediación y solución de conflictos entre vecinos, siempre y cuando el conflicto, diferencia o disputa entre las partes no contravenga ninguna disposición legal establecida, ni afecte a los derechos de terceros.
+K) Establecer las disposiciones, normas operativas, administrativas y disciplinarias, que determinen la actuación de los elementos de la Secretaría.
 
-II.- De Seguridad y Prevención:
+II. De Seguridad Pública
 
-A) Diseñar y definir políticas, programas y acciones a efectuar respecto a la prevención de los delitos en el Municipio;
+A) Participar con las instancias de coordinación de los Sistemas Estatal y Nacional de Seguridad Pública, de acuerdo con la Ley de la materia y demás normas que regulen la integración, organización y funcionamiento de dichos Sistemas;
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+B) Realizar investigaciones, en el ámbito de su competencia, a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información;
 
-B) Supervisar, mantener y restablecer el orden, la seguridad, la tranquilidad y la paz públicos dentro del ámbito territorial del Municipio de Monterrey;
+C) Garantizar, mantener y restablecer el orden, la tranquilidad y la paz en los lugares públicos;
 
-C) Prevenir y auxiliar a las personas en la protección de sus propiedades o posesiones y derechos;
+D) Realizar acciones de vigilancia en su circunscripción para prevenir y evitar la comisión de delitos, fallas administrativas y demás actos contrarios a la seguridad de las personas y a su patrimonio;
 
-D) Auxiliar, dentro del marco legal correspondiente, al Ministerio Público, autoridades administrativas y judiciales, en el ámbito de su competencia y en los asuntos oficiales que le soliciten;
+E) Realizar las detenciones de los indiciados en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos, así como ejercer las demás facultades que le confiere la legislación en materia penal.
 
-E) Coordinarse con otras corporaciones policiales en el otorgamiento de protección a la ciudadanía y en los operativos que lleguen a realizarse;
+F) Poner a disposición de las autoridades competentes a los menores infractores cuando sus conductas puedan entrañar la comisión de un delito o de una falta administrativa, conforme a las disposiciones legales aplicables;
 
-F) Respetar y hacer respetar las disposiciones legales aplicables en el Municipio en materia de seguridad pública municipal;
+G) Vigilar, dentro del ámbito territorial del Municipio de Monterrey, el cumplimiento estricto de las leyes y reglamentos del Municipio de Monterrey;
 
-G) Aprehender a los delincuentes en los casos de flagrante delito y en los de notoria urgencia, cuando se trate de los que se persiguen de oficio y que por razones de la hora, del lugar, o la distancia no haya autoridad judicial que expida la orden de aprehensión y exista temor fundado de que el presunto responsable se sustraerá a la acción de la justicia, y ponerlos inmediatamente a disposición de las autoridades competentes;
+H) Colaborar en las labores preventivas y de auxilio en los casos de desastres naturales o los causados por la actividad humana;
 
-H) Contribuir a la seguridad pública de la sociedad realizando tareas de prevención de ilícitos y labores de protección civil o auxilio de la población cuando se requiere;
+I) Garantizar la seguridad personal del Comisario y de su familia, así como del titular del Área Operativa, durante el tiempo que permanezcan en su encargo; seguridad que se hará extensiva hasta por dos años siguientes a la conclusión del encargo, excepto en el caso de que sea nombrado para un cargo en que disponga de protección equiparable a la otorgada por el Municipio; y
 
-I) Poner a disposición de las autoridades competentes a los menores infractores cuando sus conductas puedan entrañar la comisión de un delito o de una falta administrativa, conforme a las disposiciones legales aplicables;
+J) Vigilar los edificios, monumentos, jardines, instalaciones y demás bienes que constituyan el patrimonio Municipal de Monterrey; así como reforzar el control y resguardo de la seguridad en las instalaciones del Palacio Municipal.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+III. De Vialidad y Tránsito
 
-J) Velar por el cumplimiento de las disposiciones establecidas en los reglamentos y ordenamientos municipales, así como en las disposiciones y acuerdos emanados del Ayuntamiento o del Presidente Municipal en su caso;
+A) Desarrollar acciones para la seguridad peatonal en las vías públicas y fomentar en la población el respeto al peatón y a las normas de tránsito;
 
-K) Coadyuvar con las instituciones federales, estatales y municipales para combatir la delincuencia, aplicando las leyes, reglamentos, decretos y convenios a fin de garantizar el orden jurídico y fomentar la participación ciudadana en materia de seguridad pública;
+B) Vigilar el tráfico vehicular;
 
-L) Cooperar con las autoridades administrativas y judiciales en la conservación del estado de derecho coadyuvando en la administración de justicia, conforme a las leyes y reglamentos respectivos;
+C) Planear, dirigir y controlar la revisión de conductores y vehículos;
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+D) Identificar y analizar puntos conflictivos en cuanto a Ingeniería Vial dentro del Municipio;
 
-M) Planear, dirigir, organizar, controlar, supervisar y evaluar el funcionamiento de la Policía Municipal de Monterrey;
+E) Realizar propuestas para mejorar los puntos conflictivos referentes a la vialidad del Municipio;
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+F) Coordinar proyectos viales con autoridades federales, estatales y municipales;
 
-N) Convocar a la integración y funcionamiento del Consejo de Honor y Justicia de la Policía Municipal de Monterrey;
+G) Supervisar la ejecución de proyectos de obras públicas y servicios públicos en adecuaciones viales e instalación de señalamiento horizontal y vertical;
 
-O) Promover programas, acciones y políticas a efectos de optimizar el servicio de seguridad pública en la Ciudad de Monterrey;
+H) Realizar estudios de Ingeniería Vial para justificar la instalación de dispositivos para el control de tránsito vehicular; y (sic)
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+I) Revisar y autorizar cambios de sentido de circulación de las calles;
 
-P) Establecer las disposiciones, normas operativas, administrativas y disciplinarias, que determinen la actuación de los elementos de la Policía Municipal de Monterrey;
+J) Instrumentar con señalamientos el tránsito de vehículos y peatones en el Municipio;
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
+K) Diseñar, operar y administrar el sistema de semáforos, para agilizar el tránsito vehicular y la seguridad peatonal, excluyendo a los que formen parte del Sistema Integral de Tránsito Metropolitano;
 
-Q) Realizar las acciones de inspección, vigilancia y vialidad en su circunscripción, a fin de prevenir la comisión de delitos e infracciones administrativas.
+L) Promover la intervención de la población del Municipio, a fin de realizar propuestas para facilitar el tránsito vehicular, así como la capacitación de los conductores de vehículos;
 
-III.- De Participación de comités o consejos:
+M) Difundir mediante campañas, seminarios y juntas las políticas y normas que atañen a la seguridad vial;
 
-A) Promover la organización y funcionamiento de consejos o comités consultivos municipales de seguridad pública o protección ciudadana.
+N) Expedir los permisos y autorizaciones correspondientes, así como llevar y mantener actualizado su registro;
 
-Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
+O) Imponer sanciones a las personas que infrinjan el Reglamento de Vialidad y Tránsito y llevar el registro de las mismas; y
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
+P) Llevar y mantener actualizado el padrón de las licencias de manejo que sean otorgadas por la Autoridad Municipal en los términos de la legislación vigente aplicable.
 
-Para el despacho de los asuntos de su competencia, el Comisario de la Policía Municipal de Monterrey se auxiliará con las Direcciones: Operativa, Administrativa, de Prevención y Reclusorios, de Tecnología y Proyectos, y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
+IV. De Prevención Social de la Violencia y de la Participación Ciudadana
+
+A) Desarrollar programas y cursos en materia de prevención social de la violencia y el delito en el territorio del Municipio de Monterrey, además de coordinar con organizaciones no gubernamentales y dependencias de gobierno el desarrollo de planes estratégicos para el combate a las conductas de riesgo;
+
+B) Implementar políticas públicas para la educación vial de la población;
+
+C) Promover la organización y funcionamiento de consejos o comités consultivos municipales de seguridad pública, protección ciudadana, prevención del delito, vialidad y tránsito;
+
+D) Organizar, mantener y sistematizar un servicio de atención ciudadana e informar sobre detenciones y acciones de la Secretaría, llevando un registro de las atenciones e información brindada, así como mantener información sobre trámites en la Secretaría; y
+
+E) Difundir a la comunidad los teléfonos de atención y emergencia;
+
+V. De Orden Legal
+
+A) Cooperar en la investigación de los delitos, así como proteger los derechos humanos y velar por la libertad y el respeto de las garantías individuales que la Constitución Política de los Estados Unidos Mexicanos otorga, haciendo para ello uso de su autoridad y de los elementos que estén bajo sus órdenes;
+
+B) Auxiliar dentro del marco jurídico establecido a las autoridades Judiciales y Administrativas, en cumplimiento de sus atribuciones y cuando sea solicitada su colaboración en asuntos oficiales o en operativos que se realicen en coordinación con las anteriores autoridades;
+
+C) Promover la acción de la comunidad para informar las conductas irregulares del personal de la Secretaría;
+
+D) Contar con instalaciones adecuadas para proporcionar un servicio de reclusión de detenidos a disposición de las autoridades competentes; teniendo áreas especiales para menores infractores;
+
+E) Llevar a cabo la conciliación y solución de conflictos de carácter vial que no contravengan ninguna disposición legal establecida, ni afecte los derechos de terceros; y
+
+F) Convocar a la integración y funcionamiento de la Comisión de Honor y Justicia de la Secretaría de Seguridad Pública y Vialidad.
+
+VI. De Tecnología y Modernización
+
+A) Aplicar, desarrollar y mantener sistemas de tecnologías de la información y la comunicación;
+
+B) Integrar y administrar la información de las bases de datos criminalísticas;
+
+C) Proponer y administrar los procesos de innovación, mejora continua y de tecnología;
+
+D) Generar estadística geo-delictiva; y
+
+E) Establecer y operar el Centro de Comando, Control, Comunicaciones y Cómputo
+
+Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes o le asigne el Presidente Municipal.
+
+Para el despacho de los asuntos de su competencia, el Comisario de la Secretaría de Seguridad Pública y Vialidad de Monterrey se auxiliará con las Direcciones: de Policía; de Reclusorios y Prevención Social del Delito; Administrativa; de Tecnología, Análisis y Proyectos; de Tránsito; y de Ingeniería Vial; con la Coordinación General de Inspección; con el Centro de Comando, Control, Comunicaciones y Cómputo; y con la Rectoría de la Academia y Centro de Capacitación Continua; y además de Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
 
 ### CAPÍTULO XV. SECRETARIA DE PLANEACIÓN Y COMUNICACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 27.
 
-La Secretaría de Planeación y Comunicación Municipal es la encargada de auxiliar directamente al Presidente Municipal, y tendrá como atribuciones y responsabilidades las que a continuación se establecen:
+La Secretaría de Planeación y Comunicación Municipal es la encargada de auxiliar directamente al Presidente Municipal y tendrá como atribuciones y responsabilidades las que a continuación se establecen:
 
 I.- De Orden General:
 
@@ -1729,7 +1745,9 @@ XXII.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2012)
 
 Para el despacho de los asuntos de su competencia, el Director General del DIF se auxiliará con las Coordinaciones y Jefaturas de Departamento necesarias para el despacho de los asuntos de la Dirección General del Desarrollo Integral de la Familia.
 
-### CAPÍTULO XVII. DE LOS ORGANISMOS MUNICIPALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JULIO DE 2013)</small>
+
+### CAPÍTULO XVII. ORGANISMOS DESCENTRALIZADOS
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
 
@@ -1749,7 +1767,7 @@ Toda Comisión tendrá un número definido de miembros, sus decisiones deberán 
 
 El Presidente Municipal podrá de igual forma proponer al Ayuntamiento en términos de la Ley Orgánica Municipal vigente la creación de comités y consejos ciudadanos para que coadyuven al cumplimiento de los planes y programas del Gobierno Municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 32.
 
@@ -1757,15 +1775,15 @@ El Ayuntamiento, con objeto de llevar a cabo una oportuna toma de decisiones y u
 
 Los organismos descentralizados, cualquiera que sea la forma o estructura que adopten, serán los que se constituyan total o mayoritariamente con fondos del Municipio.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+Tales dependencias se regirán por las disposiciones consignadas en este reglamento, las que emita el Ayuntamiento y demás preceptos, contratados o normativas que les resulten aplicables.
 
-Tales dependencias se regirán por las disposiciones consignadas en este reglamento y demás preceptos, contratados o normativas que les resulten aplicables.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 33.
 
 El Presidente Municipal propondrá al Ayuntamiento la creación, fusión o liquidación de los organismos descentralizados.
+
+El Ayuntamiento podrá acordar la desaparición de organismos descentralizados, a propuesta del Presidente Municipal, cuando los fines para los cuales fueron creados se hayan cumplido, existan nuevas o mejores alternativas para atender los asuntos de su competencia o se considere inviable su continuación.
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
 
@@ -1775,9 +1793,9 @@ Los organismos descentralizados gozarán de personalidad jurídica y patrimonio 
 
 El Ayuntamiento designará un Comisario para cada uno de los organismos descentralizados y establecerá las formas para contar con una adecuada información sobre el funcionamiento de dichos organismos.
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 29 DE MARZO DE 2010)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 24 DE JULIO DE 2013)</small>
 
-### CAPÍTULO XVII (SIC). DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+### CAPÍTULO XVIII. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
 ###### ARTÍCULO 35.
 
@@ -1819,7 +1837,7 @@ SEGUNDO: Envíese para su publicación en el Periódico Oficial del Estado de Nu
 
 TERCERO. Gírense las instrucciones al Secretario del R. Ayuntamiento para el exacto cumplimiento del presente acuerdo.
 
-ATENTAMENTE Monterrey, Nuevo León, a 17 de noviembre 2009 COMISIÓN DE GOBERNACIÓN Y REGLAMENTACIÓN REGIDORA CLAUDlA GABRIELA CABALLERO CHÁVEZ, PRESIDENTE.- REGIDOR LUIS SERVANDO FARÍAS GONZÁLEZ, SECRETARIO.- SINDICO SEGUNDO JUAN JOSÉ BUJAIDAR MONSIVÁIS, VOCAL.- REGIDOR WILBUR JARÍM VILLARREAL BARBARIN, VOCAL.- REGlDORA ISlS AYDEE.- CABRERA ÁLVAREZ, VOCAL.- (RÚBRICAS)"
+ATENTAMENTE Monterrey, Nuevo León, a 17 de noviembre 2009 COMISIÓN DE GOBERNACIÓN Y REGLAMENTACIÓN REGIDORA CLAUDIA GABRIELA CABALLERO CHÁVEZ, PRESIDENTE.- REGIDOR LUIS SERVANDO FARÍAS GONZÁLEZ, SECRETARIO.- SINDICO SEGUNDO JUAN JOSÉ BUJAIDAR MONSIVÁIS, VOCAL.- REGIDOR WILBUR JARÍM VILLARREAL BARBARIN, VOCAL.- REGIDORA ISIS AYDEE.- CABRERA ÁLVAREZ, VOCAL.- (RÚBRICAS)"
 
 Dado en la Sala de Sesiones del R. Ayuntamiento, a los 24-veinticuatro días del mes de Noviembre de 2009-dos mil nueve.- Doy Fe.
 
@@ -1864,6 +1882,16 @@ P.O. 24 DE DICIEMBRE DE 2012.
 ###### ARTÍCULO PRIMERO.
 
 Las presentes reformas por adición y modificación al Reglamento Orgánico del Gobierno Municipal de Monterrey entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
+
+P.O. 24 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas por modificación, adición y derogación al Reglamento Orgánico del Gobierno Municipal de Monterrey entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
 
 ###### ARTÍCULO SEGUNDO.
 
