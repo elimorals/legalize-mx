@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-universidad-tecnologica-de-46756"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-19"
-last_updated: "2005-10-19"
+last_updated: "2013-07-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE XICOTEPEC DE JUAREZ
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE XICOTEPEC DE JUAREZ
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ, PUBLICADO EN EL P.O. DE 24 DE JULIO DE 2013, EL PRESENTE REGLAMENTO QUEDA SIN EFECTO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2013 (SIN EFECTO).
 
 Reglamento publicado en la Quinta Sección del Periódico del Estado de Puebla, el miércoles 19 de octubre de 2005.
 
@@ -326,3 +328,13 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 Los decretos, acuerdos, circulares y demás disposiciones pronunciados antes y durante la autorización de este Reglamento, tendrán plena validez siempre y cuando no contravengan al mismo.
 
 Dado en las instalaciones de la Universidad Tecnológica de Xicotepec de Juárez, a los veintiún días del mes de septiembre de dos mil cinco.- Consejo Directivo: Presidente Suplente.- LICENCIADO MARCO ANTONIO GARCÍA LÓPEZ.- Rúbrica.- Vocal, Suplente del Secretario de Desarrollo Económico del Gobierno del Estado.- LICENCIADO EN ADMINISTRACIÓN DE EMPRESAS JAVIER GÓMEZ BUTRÓN.- Rúbrica.- Vocal, Suplente del Secretario de Finanzas y Administración del Gobierno del Estado.- LICENCIADO RODOLFO FLORES ROJAS.- Rúbrica.- Director Académico de la Coordinación General de Universidades Tecnológicas y Vocal.- INGENIERO HÉCTOR RETANA PIÑA.- Rúbrica.- Vocal Suplente del Titular de la Oficina de Servicios Federales de Apoyo a la Educación en el Estado de Puebla.- INGENIERO FERNANDO VELÁZQUEZ VALDÉS.- Rúbrica.- Vocal, Suplente del Presidente Municipal Constitucional de Xicotepec de Juárez.- LICENCIADO ANDRÉS E. RAMOS FOSADO.- Rúbrica.- Representante del Sector Productivo y Vocal.- CIUDADANO TAURINO MELÉNDEZ ZAVALETA.- Rúbrica.- Representante del Sector Productivo y Vocal.- CIUDADANO GABRIEL ALVARADO ARANDA.- Rúbrica.- Representante del Sector Social y Vocal.- CIUDADANA ROSA MARÍA ESQUITIN LASTIRI.- Rúbrica.- Rector de la Universidad.- MAESTRO EN CIENCIAS GERARDO MARCELINO LARA OROZCO.- Rúbrica.- Secretario de Acuerdos.- LICENCIADO JOSÉ C. ROBERTO BAEZ MORENO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE JULIO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ”.]
+
+PRIMERO.- El presente Reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor el día hábil siguiente de su publicación.
+
+SEGUNDO.- Se deja sin efecto el Reglamento Interior de la Universidad Tecnológica de Xicotepec de Juárez, publicado en el Periódico Oficial del Estado el diecinueve de octubre de dos mil cinco.
