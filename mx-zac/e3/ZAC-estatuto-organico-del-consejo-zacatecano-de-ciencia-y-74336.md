@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-consejo-zacatecano-de-ciencia-y-74336"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-03-27"
-last_updated: "2010-03-27"
+last_updated: "2013-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO ZACATECANO DE CIENCIA Y TECNOLOGIA GOBIERNO DEL ESTADO DE ZACATECAS
 
-ESTATUTO ORGANICO DEL CONSEJO ZACATECANO DE CIENCIA Y TECNOLOGIA GOBIERNO DEL ESTADO DE ZACATECAS
+ESTATUTO ORGÁNICO DEL CONSEJO ZACATECANO DE CIENCIA Y TECNOLOGÍA GOBIERNO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL CONSEJO ZACATECANO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, PUBLICADO EN EL SUPLEMENTO 2 DEL P.O. DE 24 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 27 de marzo de 2010.
 
@@ -630,3 +632,17 @@ Director del Instituto Tecnológico Regional con sede en la capital del Estado
 Ing. Martín Ortega Ramírez
 
 Representante de la Federación de Colegios y Asociaciones de Profesionistas del Estado
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE JULIO DE 2013.
+
+Primero.- El presente Estatuto Orgánico, entrará en vigor el día siguiente de su publicación el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Estatuto Orgánico del Consejo Zacatecano de Ciencia y Tecnología Gobierno del Estado de Zacatecas, publicado en el Suplemento 2 al Número 25 del Periódico Oficial, Órgano del Gobierno del Estado correspondiente al día 27 de marzo de 2010.
+
+Tercero.- Se derogan las disposiciones administrativas que contravengan este Estatuto.
+
+Cuarto.- Los asuntos que se encuentren en trámite a cargo de Subdirecciones o Departamentos que se modifiquen o cambien de adscripción, los continuará y resolverá la Subdirección, Departamento o Unidad Administrativa que el presente Estatuto establezca.
+
+Quinto.- Dentro del término de treinta días naturales contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberá expedirse el Manual de Organización y 180 días naturales el Manual de Procedimientos.
