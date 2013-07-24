@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2013-06-29"
+last_updated: "2013-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -2647,7 +2647,9 @@ ARTICULO 185 e.- El expediente será turnado por el Presidente del Congreso o de
 
 Antes de proceder a votar, los diputados se podrán enlistar para la discusión del dictamen, en los términos de la Ley Orgánica del Poder Legislativo. El sentido del voto de cada diputado será a favor o en contra del resolutivo del dictamen, mismo que se limitará a expresar si es de reelegirse o destituirse al magistrado en cuestión.
 
-Los magistrados podrán ser reelectos o no, si así se justifica por el Congreso, con la votación de las dos terceras partes de los diputados presentes, mediante escrutinio secreto. Si la mayoría calificada vota en contra del dictamen, se entenderá que el Pleno ha invertido el sentido de la resolución de aquél.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2013)</small>
+
+Los magistrados podrán ser reelectos o no, si así se justifica por el Congreso, con la votación de las dos terceras partes de los diputados presentes, mediante escrutinio secreto.
 
 > <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
@@ -3534,3 +3536,9 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 Por lo que respecta a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas y adiciones contenidas en los Artículos Segundo y Tercero del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
+
+P.O. 24 DE JULIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
