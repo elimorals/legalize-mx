@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2013-07-04"
+last_updated: "2013-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -2845,6 +2845,10 @@ Dichos peritos deberán ser avalados por el Consejo Estatal de Peritos en superv
 
 Los desarrollos industriales, comerciales, turísticos, campestres, granjas y similares, que se localicen fuera de los límites de un centro de población, requerirán la elaboración de su plan parcial de desarrollo urbano en los supuestos previstos en éste Código.
 
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2013)</small>
+
+De igual forma, se requiere la elaboración de un Plan Parcial de Desarrollo Urbano cuando se trate de un nuevo centro penitenciario, de readaptación o de ejecución de penas privativas o restrictivas de la libertad. En este caso, en el plan respectivo se incluirán disposiciones que garanticen la existencia de zonas de amortiguamiento con una distancia perimetral mínima de mil metros de los centros de población; la existencia de vías de acceso y comunicaciones generales. En la zona de amortiguamiento no podrá realizarse la construcción de inmuebles, salvo los que sean propiedad del Estado destinados a la seguridad pública y al sistema penitenciario.
+
 ###### Artículo 235.
 
 En el caso de los predios que resulten afectados por las áreas de restricción o protección, el ayuntamiento deberá tramitar ante las dependencias competentes en la materia, la delimitación de las zonas de restricción y protección necesarias para garantizar su funcionamiento y especificarlas en el Plan Parcial de Desarrollo Urbano.
@@ -4722,5 +4726,9 @@ DECRETO NÚMERO 24082/LIX/12, POR EL QUE SE REFORMAN LOS ARTÍCULOS 4.° Y 10 DE
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 4 DE JULIO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE JULIO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
