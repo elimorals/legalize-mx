@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-a-la-informacion-publica-para-el-estado-y-los-397
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2012-01-06"
+last_updated: "2013-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE JULIO DE 2013.
 
 Ley publicada en el Suplemento Número 30 del Diario Oficial del Estado de Yucatán, el lunes 31 de mayo de 2004.
 
@@ -305,9 +305,9 @@ XXII.- El cuadro general de clasificación archivística y el catálogo de dispo
 
 La información a que se refiere este artículo, deberá publicarse dentro de los siguientes 90 días naturales, contados a partir de la fecha en que se generó o modificó.
 
-> <small>(REFORMADO, D.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O. 25 DE JULIO DE 2013)</small>
 
-Los sujetos obligados que cuenten con página de Internet, publicarán por esta vía la información de referencia, debiendo permanecer ésta en portales oficiales de internet cuando menos por un período de un año contado a partir de su publicación; aquellos que no tengan la infraestructura necesaria para tal efecto, entregarán la información al Instituto, para que a través de su página de Internet, pueda ser consultada.
+Los sujetos obligados que cuenten con página de Internet, publicarán por esta vía la información de referencia, debiendo permanecer ésta en el portal oficial de internet correspondiente cuando menos por un período de un año contado a partir de su publicación; con excepción de las fracciones I, II, III, IV, V, VI, VII, XI, XIII Y XIV, que por su naturaleza deben permanecer en dicho portal debidamente actualizadas; aquéllos sujetos obligados que no tengan la infraestructura necesaria para tal efecto, entregarán la información al Instituto para que a través de su página de Internet, pueda ser consultada.
 
 > <small>(ADICIONADO, D.O. 6 DE ENERO DE 2012)</small>
 
@@ -459,6 +459,10 @@ II.- Que establezca la obligación legal de mantenerla en reserva, por tratarse 
 
 III.- Que esté sujeta a trámite, procedimiento administrativo o legislativo, y que por el estado que guarda requiera mantenerse en reserva hasta la finalización del mismo;
 
+> <small>(ADICIONADO, D.O. 25 DE JULIO DE 2013)</small>
+
+En cuanto al procedimiento legislativo, las iniciativas y demás documentos que no hayan sido distribuidos o entregados a los diputados que formen parte de la Comisión o comisiones a las que en su caso, el Pleno del H. Congreso del Estado los hubiera turnado.
+
 IV.- Que derive de investigaciones que necesariamente deban ser llevadas hasta su conclusión con el sigilo que exige la Ley y los reglamentos de los organismos;
 
 V.- Que sea depositada en secreto de los juzgados y la contenida en los procedimientos tramitados en las distintas instancias judiciales, cualquiera que sea el estado que guarden;
@@ -475,15 +479,15 @@ En todos los casos se tratará de una suspensión del derecho a la información,
 
 No podrá invocarse el carácter de reservado cuando se trate de la investigación de violaciones graves a los derechos humanos.
 
-> <small>(REFORMADO, D.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O. 25 DE JULIO DE 2013)</small>
 
 ###### Artículo 14.
 
-La información clasificada como reservada según el artículo anterior, permanecerá con tal carácter hasta por un período máximo de siete años, esta podrá ser desclasificada cuando se extingan las causas que dieron origen a su clasificación o cuando haya transcurrido el período de reserva, protegiendo la información confidencial que en ella se contenga.
+La información clasificada como reservada según el artículo anterior, permanecerá con tal carácter hasta por un período máximo de seis años, esta podrá ser desclasificada cuando se extingan las causas que dieron origen a su clasificación o cuando haya transcurrido el período de reserva, protegiendo la información confidencial que en ella se contenga.
 
-El Instituto, a solicitud de los .sujetos obligados, podrá acordar la ampliación del período de reserva hasta por siete años más, siempre y cuando se justifique que subsisten las causas que dieron origen a su clasificación.
+El Instituto, a solicitud de los sujetos obligados, podrá acordar la ampliación del período de reserva hasta por seis años más, siempre y cuando se justifique que subsisten las causas que dieron origen a su clasificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 15.
 
@@ -507,11 +511,11 @@ III.- El daño que puede producirse con la liberación de la información es may
 
 O bien, la reserva podrá hacerse en el momento mismo en que se dé contestación a una solicitud de acceso que se refiera a una información reservada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE JULIO DE 2013)</small>
 
 ###### Artículo 16.
 
-Los sujetos obligados, por conducto de la Unidad de Acceso a la Información Pública elaborarán semestralmente y por rubros temáticos, un índice de la información o de los expedientes clasificados como reservados, este deberá publicarse en su página de internet, y contendrá la referencia de quien generó o posee la información, la fecha de su clasificación y el plazo de reserva.
+Los sujetos obligados deberán elaborar por conducto de su Unidad de Acceso a la Información Pública, semestralmente y por temas, un índice de la información clasificada como reservada. Este índice deberá precisar el nombre de la dependencia o entidad administrativa que posee la información, la fecha de clasificación, los fundamentos legales, el plazo de reserva, la denominación del documento, o en su caso, de las partes del documento que se reservan. Bajo ninguna circunstancia este índice deberá ser considerado como información reservada y será obligatoria su difusión a través de las páginas de internet de los sujetos obligados.
 
 > <small>(ADICIONADO, D.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -735,7 +739,9 @@ Para ser Consejero o Secretario Ejecutivo del Instituto se requiere:
 
 I.- Ser ciudadano yucateco en pleno goce y ejercicio de sus derechos políticos y civiles;
 
-II.- Haber residido en el Estado durante los últimos 4 años, de manera ininterrumpida;
+> <small>(REFORMADA, D.O. 25 DE JULIO DE 2013)</small>
+
+II.- Haber residido en el Estado durante los últimos 5 años, de manera ininterrumpida;
 
 III.- Contar con título profesional al día de su elección, con antigüedad mínima de 5 años, expedido por autoridad o institución legalmente facultada para ello. Así como contar con cédula profesional;
 
@@ -749,9 +755,9 @@ VI.- No ser militar en servicio activo;
 
 VII.- Tener cuando menos treinta años cumplidos el día de su designación;
 
-> <small>(REFORMADA, D.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O. 25 DE JULIO DE 2013)</small>
 
-VIII.- No ser fedatario público, salvo que pida licencia para dejar de desempeñar dicho encargo;
+VIII.- No ser fedatario público;
 
 > <small>(ADICIONADA, D.O. 6 DE ENERO DE 2012)</small>
 
@@ -769,9 +775,13 @@ XI.- No ser Titular de alguno de los Sujetos Obligados a que se refiere esta Ley
 
 El Consejo General tendrá las siguientes atribuciones:
 
-I.- Conocer y resolver el recurso de revisión que se interponga contra la resolución del Secretario Ejecutivo, en relación al recurso de inconformidad;
+> <small>(REFORMADA, D.O. 25 DE JULIO DE 2013)</small>
 
-II.- Expedir su reglamento interior que contenga los lineamientos generales para la actuación del Instituto y remitirlo para su publicación en el Diario Oficial del Gobierno del Estado de Yucatán;
+I.- Conocer y resolver el recurso de inconformidad que se interponga contra los actos y resoluciones dictados por las Unidades de Acceso a la Información Pública de los sujetos obligados;
+
+> <small>(REFORMADA, D.O. 25 DE JULIO DE 2013)</small>
+
+II.- Expedir su reglamento interior que contenga los lineamientos generales para la actuación del Instituto a propuesta del Consejero Presidente y remitirlo para su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 III.- Aprobar anualmente el anteproyecto del Presupuesto de Egresos del Instituto;
 
@@ -801,13 +811,17 @@ XI.- Emitir lineamientos en materia de transparencia, acceso a la información, 
 
 XII.- Vigilar el cumplimiento de la Ley;
 
-> <small>(ADICIONADA, D.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O. 25 DE JULIO DE 2013)</small>
 
-XIII.- Difundir entre los sujetos obligados las resoluciones que sean de interés general y orienten el cumplimiento de la Ley, y
+XIII.- Difundir entre los sujetos obligados las resoluciones que sean de interés general y orienten el cumplimiento de la Ley;
 
-> <small>(ADICIONADA, D.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O. 25 DE JULIO DE 2013)</small>
 
-XIV.- Las demás establecidas en esta Ley y normatividad aplicable.
+XIV.- Emitir los criterios jurídicos de las resoluciones de los recursos de inconformidad resueltos, los cuales deberán ser publicados en el Diario Oficial del Gobierno del Estado cada 3 meses, y
+
+> <small>(ADICIONADA, D.O. 25 DE JULIO DE 2013)</small>
+
+XV.- Las demás establecidas en esta Ley y normatividad aplicable.
 
 > <small>(ADICIONADO, D.O. 6 DE ENERO DE 2012)</small>
 
@@ -829,9 +843,11 @@ VI.- Las demás que le confiera esta Ley y la normatividad aplicable.
 
 El Secretario Ejecutivo del Instituto tendrá las siguientes atribuciones:
 
-I.- Conocer y resolver el recurso de inconformidad que se interponga contra los actos y resoluciones dictados por las Unidades de Acceso a la Información Pública, de los sujetos obligados, dando a conocer sus resoluciones al Consejo General cuando sea procedente;
+I. (DEROGADA, D.O. 25 DE JULIO DE 2013)
 
-II.- Asistir a las sesiones del Consejo General con voz y sin voto, salvo en los casos en que el Consejo resuelva el recurso de revisión;
+> <small>(REFORMADA, D.O. 25 DE JULIO DE 2013)</small>
+
+II.- Asistir a las sesiones del Consejo General con voz y sin voto;
 
 III.- Someter para su aprobación y evaluación al Consejo General los planes y programas del Instituto;
 
@@ -841,9 +857,7 @@ IV.- Elaborar y proponer al Consejo General para su aprobación, el anteproyecto
 
 V.- Suscribir, cuando así le haya sido delegada la representación del Instituto, convenios y contratos en los términos de la Ley de la Materia;
 
-> <small>(REFORMADA, D.O. 6 DE ENERO DE 2012)</small>
-
-VI.- Emitir los criterios jurídicos de las resoluciones de los recursos de inconformidad resueltos, los cuales deberán ser publicados en el Diario Oficial del Gobierno del Estado cada 3 meses.
+VI. (DEROGADA, D.O. 25 DE JULIO DE 2013)
 
 > <small>(REFORMADA, D.O. 6 DE ENERO DE 2012)</small>
 
@@ -857,9 +871,7 @@ IX.- Gestionar fondos para el mejor cumplimiento de las atribuciones del Institu
 
 X.- (DEROGADA, D.O. 6 DE ENERO DE 2012)
 
-> <small>(ADICIONADA, D.O. 18 DE AGOSTO DE 2008)</small>
-
-XI.- Realizar los trámites y substanciación del recurso de inconformidad cuando se lo encomiende el Consejo, dando cuenta de ello para su resolución, y
+XI. (DEROGADA, D.O. 25 DE JULIO DE 2013)
 
 > <small>(REFORMADA, D.O. 6 DE ENERO DE 2012)</small>
 
@@ -987,7 +999,9 @@ Este requerimiento interrumpirá el plazo establecido en el artículo 42 de esta
 
 Los sujetos obligados sólo darán acceso a la información que se encuentre en su poder, previa la entrega de la solicitud respectiva y del pago, en su caso, del derecho correspondiente.
 
-Cuando la información solicitada no esté en poder del sujeto obligado ante cuya Unidad de Acceso a la Información Pública se presente la solicitud, ésta deberá orientar al particular sobre la Unidad de Acceso que la tenga.
+> <small>(REFORMADO, D.O. 25 DE JULIO DE 2013)</small>
+
+Cuando la información solicitada no esté en poder del sujeto obligado ante cuya Unidad de Acceso a la Información Pública se presente la solicitud, ésta en su caso, deberá orientar al particular sobre la Unidad de Acceso que la tenga.
 
 > <small>(ADICIONADO, D.O. 6 DE ENERO DE 2012)</small>
 
@@ -1017,15 +1031,17 @@ Tratándose de documentos que por su naturaleza no sean normalmente sustituibles
 
 En aquellos documentos que contengan información, tanto pública como reservada o confidencial, las Unidades de Acceso a la Información Pública podrán proporcionar la de carácter público, eliminando las partes o secciones clasificadas como reservadas o confidenciales. En tales casos, deberán señalarse las partes o secciones que fueron eliminadas.
 
-> <small>(REFORMADO, D.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE JULIO DE 2013)</small>
 
 ###### Artículo 42.
 
-Las Unidades de Acceso a la Información Pública deberán dar respuesta a las solicitudes de acceso a la información presentadas, dentro del término de doce días hábiles siguientes a aquel en que reciban la solicitud, mediante resolución debidamente fundada y motivada, que precise la modalidad en que será entregada la información, la posibilidad de ser impugnada a través del recurso de inconformidad, y en su caso, el costo por los derechos derivados de la reproducción y envío de la misma.
+Las Unidades de Acceso a la Información Pública deberán dar respuesta a las solicitudes de acceso a la información presentadas, dentro del término de diez días hábiles siguientes a aquel en que reciban la solicitud, mediante resolución debidamente fundada y motivada, que precise la modalidad en que será entregada la información, la posibilidad de ser impugnada a través del recurso de inconformidad, y en su caso, el costo por los derechos derivados de la reproducción y envío de la misma.
 
 La información solicitada deberá entregarse dentro de los tres días hábiles siguientes contados a partir de que la Unidad de Acceso haya emitido la resolución correspondiente y notificado al solicitante, siempre que éste compruebe haber cubierto el pago de los derechos correspondientes.
 
-Los solicitantes, a partir de la notificación, tendrán un plazo de quince días naturales para pagar los derechos señalados en el párrafo anterior y comprobar su pago a dicha Unidad de Acceso; después de transcurrido este plazo, y sin que el particular haya comprobado su pago, el sujeto obligado queda eximido de responsabilidad, quedando salvaguardado el derecho de la persona de volver a presentar la solicitud.
+> <small>(REFORMADO, D.O. 25 DE JULIO DE 2013)</small>
+
+Los solicitantes, a partir de la notificación, tendrán un plazo de veinte días naturales para pagar los derechos señalados en el párrafo anterior y comprobar su pago a dicha Unidad de Acceso; después de transcurrido este plazo, y sin que el particular haya comprobado su pago, el sujeto obligado queda eximido de responsabilidad, quedando salvaguardado el derecho de la persona de volver a presentar la solicitud.
 
 Cuando existan razones suficientes que impidan entregar la información en este plazo, se informará al solicitante y el plazo se ampliará por única ocasión hasta quince días más. Sólo en casos excepcionales, debidamente justificados, y previa notificación al solicitante, el plazo antes mencionado será de hasta ciento veinte días naturales.
 
@@ -1061,11 +1077,13 @@ Artículo 44 bis.- Las Unidades de Acceso a la Información, no estarán obligad
 
 ### CAPÍTULO PRIMERO. DEL RECURSO DE INCONFORMIDAD
 
-> <small>(REFORMADO, D.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE JULIO DE 2013)</small>
 
 ###### Artículo 45.
 
-Contra las resoluciones de las Unidades de Acceso a la Información Pública, el solicitante de la información podrá interponer, por sí mismo o a través de su legítimo representante, el recurso de inconformidad; éste deberá interponerse por escrito ante el Secretario Ejecutivo, o por vía electrónica a través del sistema que proporcione el órgano garante o ante el Titular de la Unidad de Acceso a la Información Pública del sujeto obligado correspondiente, de acuerdo con el artículo 32 de esta ley.
+Contra las resoluciones de las Unidades de Acceso a la Información Pública, el solicitante de la información podrá interponer, por sí mismo o a través de su legítimo representante, el recurso de inconformidad; éste deberá interponerse por escrito ante el Consejo General del Instituto, o por vía electrónica a través del sistema que proporcione el órgano garante o ante el Titular de la Unidad de Acceso a la Información Pública del sujeto obligado correspondiente, de acuerdo con el artículo 32 de esta Ley.
+
+> <small>(REFORMADO, D.O. 6 DE ENERO DE 2012)</small>
 
 Procede el recurso de inconformidad contra los siguientes actos de las Unidades de Acceso a la Información Pública:
 
@@ -1083,11 +1101,19 @@ VI.- La entrega de la información en modalidad diversa a la requerida, o en un 
 
 VII.- La ampliación de plazo, o
 
-VII (SIC).- Tratamiento inadecuado de los datos personales.
+> <small>(REFORMADA, D.O. 25 DE JULIO DE 2013)</small>
+
+VIII.- Tratamiento inadecuado de los datos personales.
+
+> <small>(REFORMADO, D.O. 6 DE ENERO DE 2012)</small>
 
 El recurso de inconformidad deberá interponerse dentro de los quince días hábiles siguientes al en que surta efectos la notificación de la resolución o del acontecimiento del acto reclamado.
 
+> <small>(REFORMADO, D.O. 6 DE ENERO DE 2012)</small>
+
 En el caso de la fracción IV descrita en el presente artículo, el recurso de inconformidad podrá presentarse en cualquier tiempo, siempre y cuando la Unidad de Acceso a la Información Pública no haya emitido la resolución expresa correspondiente.
+
+> <small>(REFORMADO, D.O. 6 DE ENERO DE 2012)</small>
 
 En la sustanciación de los recursos de inconformidad deberá aplicarse la suplencia de la queja a favor del solicitante de la información que motivó el recurso.
 
@@ -1109,21 +1135,27 @@ V.- El acto que se recurre.
 
 El Instituto subsanará las deficiencias de los recursos interpuestos por los particulares.
 
-> <small>(REFORMADO, D.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O. 25 DE JULIO DE 2013)</small>
 
 ###### Artículo 47.
 
-Las partes serán notificadas conforme a los capítulos aplicables del Código de Procedimientos Civiles de Yucatán, en todo lo que no se oponga a lo establecido en esta Ley.
+Las partes serán notificadas de la siguiente manera: los particulares en el domicilio que designen para tal efecto y en el domicilio de las Unidades de Acceso a la Información Pública en el caso de los Sujetos Obligados.
 
-> <small>(REFORMADO, D.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE JULIO DE 2013)</small>
 
 ###### Artículo 48.
 
-El Secretario Ejecutivo del Instituto, una vez recibido el escrito de interposición del recurso de inconformidad, dentro de los tres días hábiles siguientes acordará sobre su admisión, prevención o desechamiento, y en su caso correrá traslado a la Unidad de Acceso a la Información Pública a efecto de que dentro de los cinco días hábiles siguientes al emplazamiento rinda un informe justificado, remitiendo las constancias relativas. Si el sujeto obligado residiere en lugar distinto a la ciudad de Mérida el término será de siete días hábiles.
+El Consejo General del Instituto, una vez recibido el escrito de interposición del recurso de inconformidad, dentro de los tres días hábiles siguientes acordará sobre su admisión, prevención o desechamiento, y en su caso correrá traslado a la Unidad de Acceso a la Información Pública correspondiente a efecto de que dentro de los cinco días hábiles siguientes al emplazamiento rinda un informe justificado, remitiendo las constancias relativas. Si el sujeto obligado residiere en lugar distinto a la ciudad de Mérida el término será de siete días hábiles.
 
-Si al rendir su informe, la Unidad de Acceso a la Información Pública niega la existencia del acto que se recurre, el Secretario Ejecutivo dará vista a la parte recurrente para que dentro del término de tres días hábiles, acredite la existencia de ese acto a través de prueba documental; en caso de que el recurrente tenga su domicilio fuera de la ciudad de Mérida, este término será de cinco días hábiles. Si la existencia no se demuestra se sobreseerá el recurso.
+> <small>(REFORMADO, D.O. 25 DE JULIO DE 2013)</small>
 
-Rendido el informe o transcurridos los plazos a que se refieren los párrafos anteriores de este artículo, el Secretario Ejecutivo resolverá dentro de los diez días hábiles siguientes confirmando, revocando o modificando el acto recurrido.
+Si al rendir su informe, la Unidad de Acceso a la Información Pública correspondiente niega la existencia del acto que se recurre, el Consejo General dará vista a la parte recurrente para que dentro del término de tres días hábiles, acredite la existencia de ese acto a través de prueba documental; en caso de que el recurrente tenga su domicilio fuera de la ciudad de Mérida, este término será de cinco días hábiles. Si la existencia no se demuestra se sobreseerá el recurso.
+
+> <small>(REFORMADO, D.O. 25 DE JULIO DE 2013)</small>
+
+Rendido el informe o transcurridos los plazos a que se refieren los párrafos anteriores de este artículo, el Consejo General resolverá dentro de los diez días hábiles siguientes confirmando, revocando o modificando el acto recurrido.
+
+> <small>(REFORMADO, D.O. 18 DE AGOSTO DE 2008)</small>
 
 Las resoluciones establecerán los plazos para su cumplimiento y los procedimientos para asegurar su ejecución, debiendo ser notificadas a las partes interesadas de manera inmediata.
 
@@ -1167,59 +1199,47 @@ III. Cuando el sujeto obligado haya satisfecho la pretensión del recurrente;
 
 IV. Cuando el recurrente fallezca durante la tramitación del recurso, siempre y cuando su derecho sea intransferible, o
 
-V. Cuando se actualice la hipótesis prevista en el cuarto párrafo del artículo 49 H de la Ley.
+> <small>(REFORMADA, D.O. 25 DE JULIO DE 2013)</small>
 
-> <small>(ADICIONADO, D.O. 6 DE ENERO DE 2012)</small>
+V.- Cuando se actualice la hipótesis prevista en el segundo párrafo del artículo 48 de esta Ley.
 
-Artículo 49 D.- Cuando el escrito de inconformidad sea oscuro, ininteligible o no cumpla con los requisitos previstos en el artículo 46 de la Ley, el Secretario ejecutivo del Instituto deberá requerir al recurrente para que en el término de cinco días hábiles, subsane las omisiones o realice las aclaraciones que correspondan, bajo el apercibimiento que de no hacerlo, se tendrá por no interpuesto.
+> <small>(REFORMADO, D.O. 25 DE JULIO DE 2013)</small>
 
-> <small>(ADICIONADO, D.O. 6 DE ENERO DE 2012)</small>
+Artículo 49 D.- Cuando el escrito de inconformidad sea oscuro, ininteligible o no cumpla con los requisitos previstos en el artículo 46 de la Ley, el Consejo General del Instituto deberá requerir al recurrente para que en el término de cinco días hábiles, subsane las omisiones o realice las aclaraciones que correspondan, bajo el apercibimiento que de no hacerlo, se tendrá por no interpuesto.
 
-Artículo 49 E.- Una vez rendido el Informe Justificado, el Secretario Ejecutivo podrá citar a las partes a una audiencia de conciliación, únicamente cuando la información solicitada se refiera a los supuestos previstos en el artículo 9 de la Ley, notificándoles cuando menos con tres días hábiles de anticipación.
+> <small>(REFORMADO, D.O. 25 DE JULIO DE 2013)</small>
+
+Artículo 49 E.- Una vez rendido el informe justificado, el Consejo General podrá citar a las partes a una audiencia de conciliación, únicamente cuando la información solicitada se refiera a los supuestos previstos en el artículo 9 de la Ley, notificándoles cuando menos con tres días hábiles de anticipación.
 
 > <small>(ADICIONADO, D.O. 6 DE ENERO DE 2012)</small>
 
 Artículo 49 F.- Una vez notificada la resolución que haya resultado favorable al particular o suscrito el acuerdo de conciliación, las Unidades de Acceso a la Información Pública deberán informar al Instituto de su cumplimiento, en un plazo de diez días hábiles siguientes.
 
-Fenecido el plazo descrito en el párrafo inmediato anterior, sin que la Unidad de Acceso a la Información Pública diere cumplimiento a la resolución o acuerdo de conciliación, el Secretario Ejecutivo lo hará del conocimiento del Consejo General, para que éste requiera, de oficio o a instancia de cualquiera de las partes, al superior inmediato de la autoridad responsable para que obligue a ésta a cumplir la determinación dentro de veinticuatro horas; y si la autoridad responsable no tuviere superior, el requerimiento se hará directamente a ella. Cuando el superior inmediato de la autoridad responsable no atendiera el requerimiento, y tuviere a su vez, superior jerárquico, también se requerirá a este último.
+> <small>(REFORMADO, D.O. 25 DE JULIO DE 2013)</small>
+
+Fenecido el plazo descrito en el párrafo anterior, sin que la Unidad de Acceso a la Información Pública diere cumplimiento a la resolución o acuerdo de conciliación, el Consejo General requerirá de oficio o a instancia de cualquiera de las partes, al superior inmediato de la autoridad responsable para que obligue a ésta a cumplir la determinación dentro de veinticuatro horas; y si la autoridad responsable no tuviere superior, el requerimiento se hará directamente a ella. Cuando el superior inmediato de la autoridad responsable no atendiera el requerimiento, y tuviere a su vez, superior jerárquico, también se requerirá a este último.
 
 Cuando no se obedeciere la resolución, a pesar de los requerimientos a que se refiere el párrafo anterior; el Consejo General, siempre y cuando la autoridad responsable o el superior jerárquico no hayan informado y acreditado que los motivos por los cuales no han cumplimentado la resolución, materia del presente procedimiento, o se refieren a una imposibilidad material o jurídica que impida su acatamiento, deberá para asegurar el cumplimiento a la resolución, efectuar los requerimientos que correspondan hasta lograr el total cumplimiento empleando los medios de apremio previstos en el artículo 56 de esta Ley.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 25 DE JULIO DE 2013)</small>
 
 ### CAPÍTULO SEGUNDO. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 50.
 
-Contra las resoluciones del Secretario Ejecutivo del Instituto, los sujetos obligados podrán interponer el recurso de revisión ante el propio Secretario y resolverá el Consejo General.
+(DEROGADO, D.O. 25 DE JULIO DE 2013)
 
 ###### Artículo 51.
 
-El recurso de revisión se interpondrá por escrito, con expresión de agravios, ante el Secretario Ejecutivo del Instituto, dentro del término de diez días hábiles siguientes a la notificación respectiva. El Secretario Ejecutivo, ordenará que se asiente certificación de la fecha en que se notificó la resolución recurrida y mandará de inmediato el expediente al Consejo General, quien acordará sobre su admisión.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 18 DE AGOSTO DE 2008)</small>
+(DEROGADO, D.O. 25 DE JULIO DE 2013)
 
 ###### Artículo 52.
 
-Interpuesto el recurso, el Consejo General correrá traslado a las partes las que deberán, dentro de los cinco días hábiles siguientes al emplazamiento, expresar lo que a su derecho convenga.
-
-El Secretario Ejecutivo, rendirá dentro de los siete días hábiles siguientes, a la presentación del recurso, un informe al que podrá acompañar las constancias correspondientes.
-
-Si el escrito mediante el cual se interponga el recurso de revisión no contiene la expresión de agravios, se declarará desierto.
-
-Admitido el recurso, el Consejo General designará ponente a uno de sus miembros. Las designaciones serán aleatorias y cada integrante del Consejo deberá elaborar el mismo número de proyectos.
-
-> <small>(REFORMADO, D.O. 18 DE AGOSTO DE 2008)</small>
-
-El Consejero ponente contará con un plazo de diez días hábiles para formular el proyecto de resolución, mismo que se someterá al Consejo quien resolverá en un plazo de quince días hábiles, contados a partir de la recepción del proyecto.
-
-> <small>(REFORMADO, D.O. 18 DE AGOSTO DE 2008)</small>
-
-Las resoluciones del Consejo no admiten recurso o juicio alguno; por lo tanto son definitivas, inapelables, públicas y vinculatorias para las partes.
-
-> <small>(REFORMADO, D.O. 6 DE ENERO DE 2012)</small>
+(DEROGADO, D.O. 25 DE JULIO DE 2013)
 
 ###### Artículo 53.
 
-En la sustanciación del recurso de revisión, en lo no previsto por esta Ley, será aplicable de manera supletoria el Código de Procedimientos Civiles ambos del Estado de Yucatán.
+(DEROGADO, D.O. 25 DE JULIO DE 2013)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 6 DE ENERO DE 2012)</small>
 
@@ -1309,9 +1329,9 @@ El incumplimiento de las resoluciones del Instituto agotado los medios de apremi
 
 ### CAPÍTULO III. DE LAS INFRACCIONES
 
-> <small>(ADICIONADO, D.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O. 25 DE JULIO DE 2013)</small>
 
-Artículo 57 A.- El Consejo General podrá imponer sanciones al sujeto obligado que haya incurrido en las infracciones previstas en este Capítulo.
+Artículo 57 A.- El Consejo General podrá imponer sanciones al sujeto obligado que haya incurrido en las infracciones previstas en este capítulo, previo apercibimiento para que en un plazo de tres días hábiles siguientes al mismo subsane las omisiones correspondientes.
 
 > <small>(ADICIONADO, D.O. 6 DE ENERO DE 2012)</small>
 
@@ -1474,3 +1494,21 @@ Este Decreto entrará en vigor al día siguiente al de su publicación en el Dia
 ###### ARTÍCULO SEGUNDO.
 
 Los sujetos obligados establecidos en el artículo 3 de esta Ley, para efectos del establecimiento del módulo administrativo para el cobro de derechos por la entrega de los medios materiales para la entrega de información pública, deberán suscribir un convenio con la Secretaría de Hacienda del Estado, para instrumentar lo necesario, en un plazo no mayor a 180 días siguientes a la entrada en vigor de este Decreto.
+
+D.O. 25 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, se derogan todas aquéllas disposiciones legales y reglamentarias que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto Estatal de Acceso a la Información Pública, deberá adecuar las disposiciones reglamentarias con motivo del presente Decreto, a más tardar a los 90 días de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos de inconformidad que se encuentren en trámite hasta la entrada en vigor del presente Decreto, seguirán substanciándose conforme a la legislación vigente al momento de su inicio.
