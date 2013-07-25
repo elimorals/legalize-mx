@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2013-01-26"
+last_updated: "2013-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -5005,17 +5005,17 @@ III. La existencia de la familia a cuyo favor se va a constituir el Patrimonio y
 
 IV. Que son de su propiedad o de su cónyuge, con el consentimiento de éste, los bienes destinados a su patrimonio, y que tratándose de inmuebles no reportan gravámenes fuera de las servidumbres legales;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2013)</small>
 
-V. Que el valor de los bienes que van a constituir el patrimonio no excedan del equivalente de 40,000 veces el salario mínimo diario general vigente, en la zona económica de que se trate en la época en que dicho patrimonio se constituya. La cantidad que resulte incluirá el valor de los bienes muebles e inmuebles a que se refiere el artículo 777; y
+V. Que el valor de los bienes que van a constituir el patrimonio no exceda del equivalente de 40,000 veces el salario mínimo diario general vigente en la zona económica de que se trate en la época en que dicho patrimonio se constituya. La cantidad que resulte incluirá el valor de los bienes muebles e inmuebles a que se refiere el artículo 777. Tratándose de bienes inmuebles, se podrá acreditar la cuantía de los mismos tomando como base el valor catastral, lo cual se acreditará con el recibo de pago de impuesto predial del año correspondiente, o mediante avalúo de perito autorizado, y
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 VI. Tratándose de instrumentos de trabajo, que ellos son esenciales para la manutención de los integrantes de la familia.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2013)</small>
 
-El Juez dará trámite a la solicitud de constitución de patrimonio Familiar y deberá emitir la resolución que lo declare constituido dentro de los treinta días siguientes al que el interesado acredite los requisitos establecidos en este artículo.
+El Juez dará trámite a la solicitud de constitución de patrimonio familiar y deberá emitir la resolución que lo declare constituido dentro de los quince días siguientes al día en que el interesado acredite los requisitos establecidos en este artículo.
 
 ###### Art. 785.
 
@@ -18172,5 +18172,9 @@ P.O. 16 DE OCTUBRE DE 2012.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 26 DE ENERO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE JULIO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
