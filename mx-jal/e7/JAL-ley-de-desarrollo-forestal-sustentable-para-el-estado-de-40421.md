@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-40421"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-20"
-last_updated: "2007-10-20"
+last_updated: "2013-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 20 de julio de 2004.
 
@@ -221,9 +221,17 @@ III. Participar y coadyuvar en las acciones de prevención y combate de incendio
 
 IV. Desarrollar y apoyar viveros y programas de producción de plantas;
 
-V. Hacer del conocimiento a las autoridades competentes, y en su caso denunciar, las infracciones, faltas administrativas o delitos que se cometan en materia forestal; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2013)</small>
 
-VI. Regular y vigilar la disposición final de los residuos provenientes de la extracción de materias primas forestales.
+V. Hacer del conocimiento a las autoridades competentes y, en su caso, denunciar las infracciones, faltas administrativas o delitos que se cometan en materia forestal;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2013)</small>
+
+VI. Regular y vigilar la disposición final de los residuos provenientes de la extracción de materias primas forestales, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JULIO DE 2013)</small>
+
+VII. Conformar brigadas para la prevención y combate de incendios forestales, cuando cuenten con superficie forestal.
 
 ### CAPÍTULO II. De la Coordinación entre el Gobierno del Estado y los Gobiernos Municipales
 
@@ -731,7 +739,7 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE DICIEMBRE DE 2006.
 
@@ -764,5 +772,9 @@ P.O. 22 DE FEBRERO DE 2007.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 P.O. 20 DE OCTUBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE JULIO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
