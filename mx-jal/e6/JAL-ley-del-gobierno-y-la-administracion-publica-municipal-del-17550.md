@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2012-10-18"
+last_updated: "2013-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -825,11 +825,17 @@ X. Contribuir a la generación de empleos dentro del Municipio;
 
 XI. Promover el registro y difusión del acontecer histórico y las tradiciones del municipio, a través de las dependencias, órganos o entidades correspondientes, en los términos de la reglamentación respectiva;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE FEBRERO DE 2011)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE FEBRERO DE 2011) (REPUBLICADA, P.O. 25 DE JULIO DE 2013)
 
 XII. Solicitar al Congreso del Estado, conjuntamente con otros municipios, la declaración de área o región metropolitana, así como individualmente su inclusión o exclusión de las mismas, en los términos de la ley de la materia;
 
-XIII. Las demás que les establezcan las constituciones federal y estatal y demás leyes, tanto federales y locales, y reglamentos.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE JULIO DE 2013)</small>
+
+XIII. Instrumentar, en coordinación con el Gobierno del Estado, políticas públicas en materia de equilibrio ecológico y protección al medio ambiente, en los términos de las disposiciones legales de la materia, y
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2013)</small>
+
+XIV. Las demás que les establezcan las constituciones federal, estatal y demás leyes, tanto federales como locales y reglamentos.
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -1805,13 +1811,17 @@ IX. Seguridad pública, policía preventiva municipal y tránsito;
 
 X. Centros deportivos municipales;
 
-XI. Centros culturales municipales; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2013)</small>
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+XI. Centros culturales municipales;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2013)</small>
 
-XII. LOS DEMÁS QUE EL CONGRESO DEL ESTADO DETERMINE EN ATENCIÓN A LAS CONDICIONES TERRITORIALES Y SOCIOECONÓMICAS DE LOS MUNICIPIOS, ASÍ COMO A SU CAPACIDAD ADMINISTRATIVA Y FINANCIERA.
+XII. Protección civil y bomberos, y
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2013)</small>
+
+XIII. Los demás que el Congreso del Estado determine en atención a las condiciones territoriales y socioeconómicas de los municipios, así como a su capacidad administrativa y financiera.
 
 Los Municipios deben expedir los ordenamientos municipales que regulen la prestación de estos servicios.
 
@@ -2864,3 +2874,15 @@ En consecuencia, la nueva obligación, reformada en la fracción XXXI del artíc
 QUINTO. Para el cumplimiento de lo dispuesto en el artículo 91 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, los titulares de las entidades públicas, contarán con un plazo de ciento ochenta días naturales, contados a partir del día siguiente de la entrada en vigor del presente decreto, para instituir, elaborar y operar el registro de sanciones administrativas de conformidad con la ley.
 
 La información que debe contener su registro, deberá ser de las sanciones impuestas en su administración o periodo constitucional, y de la administración o período constitucional inmediato anterior. La negativa u omisión será causa de responsabilidad administrativa.
+
+P.O. 25 DE JULIO DE 2013.
+
+DECRETO No. 24431/LX/13 POR EL QUE SE REFORMAN LAS FRACCIONES XI Y XII, Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 94 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PUBLICA MUNICIPAL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE JULIO DE 2013.
+
+DECRETO No. 24433/LX/13 POR EL QUE SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 38 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PUBLICA MUNICIPAL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
