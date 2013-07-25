@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-seguridad-publica-82582
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-20"
-last_updated: "2012-09-20"
+last_updated: "2013-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN EL B.O. DE 25 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de julio de 2011.
 
@@ -660,3 +662,41 @@ B.O. 20 DE SEPTIEMBRE DE 2012.
 PRIMERO.- La Secretaría de Finanzas y Oficialía Mayor de Gobierno, deberán hacer los trámites presupuestales y administrativos necesarios para el cumplimiento del presente Decreto.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 25 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría General de Gobierno publicado en el Boletín Oficial del Gobierno del Estado número 26, de fecha 15 de abril del año 2011; así como todas y cada una de las reformas y adiciones hasta la fecha del presente reglamento y las demás disposiciones administrativas que se opongan al presente Reglamento Interno.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado número 45, de fecha 20 de julio de 2011; así como sus reformas y adiciones publicadas en el Boletín Oficial del Gobierno del Estado número 45, de fecha 20 de septiembre del 2012.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga el Reglamento Interior de la Secretaría de la Consejería Jurídica del Gobierno del Estado, publicado en el Boletín Oficial del Gobierno del Estado número 8, de fecha 1 de febrero del 2012.
+
+###### ARTÍCULO QUINTO.
+
+Con la expedición del presente Reglamento Interior, se da debido cumplimiento al plazo establecido en el Artículo Segundo Transitorio del Decreto 2086, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 25 BIS, de fecha 10 de junio de 2013.
+
+###### ARTÍCULO SEXTO.
+
+Los derechos de los trabajadores que, en virtud de lo dispuesto en el presente Reglamento, pasen a formar parte de la Secretaría General de Gobierno, permanecerán vigentes y se regirán por las disposiciones legales y administrativas que les dieron origen.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las facultades de las Unidades Administrativas que no se contemplan en el presente Reglamento, se establecerán en los Manuales de Organización respectivos.
+
+###### ARTÍCULO OCTAVO.
+
+La Secretaría de Finanzas y Oficialía Mayor de Gobierno, deberán realizar los trámites financieros, presupuestales y administrativos necesarios para el cumplimiento del presente Reglamento Interior.
+
+###### ARTÍCULO NOVENO.
+
+En tanto se expidan los Manuales mencionados en este Reglamento, el Secretario General de Gobierno queda facultado para resolver las cuestiones que conforme a dichos instrumentos se deban regular.
