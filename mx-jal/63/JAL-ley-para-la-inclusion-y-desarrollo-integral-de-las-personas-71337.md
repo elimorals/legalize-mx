@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2012-01-19"
+last_updated: "2013-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY PARA LA INCLUSION Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO -- ANTES LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD --
 
-LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD
+LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2013.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -63,7 +63,9 @@ VII. Crear y establecer las bases para el funcionamiento del Consejo Estatal par
 
 Para los efectos de esta ley se entiende por:
 
-I. Persona con Discapacidad: Todo ser humano que tiene ausencia o disminución congénita o adquirida de alguna aptitud o capacidad física, mental, intelectual o sensorial, de manera parcial o total, que le impida o dificulte su pleno desarrollo o integración efectiva al medio que lo rodea, de manera temporal o permanente;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2013)</small>
+
+I. Persona con discapacidad: todo ser humano que tiene ausencia o disminución congénita, genética o adquirida de alguna aptitud o capacidad física, mental, intelectual o sensorial, de manera parcial o total, que le impida o dificulte su pleno desarrollo o integración efectiva al medio que lo rodea, de manera temporal o permanente;
 
 II. Organizaciones: Agrupaciones civiles, legalmente constituidas para el cuidado, atención, salvaguarda y desarrollo de las personas con discapacidad;
 
@@ -175,9 +177,21 @@ V. Tener igualdad de oportunidades laborales para ejercer una profesión, oficio
 
 VI. Tener consideraciones preferenciales y facilidades para el uso de transporte, estacionamientos y espectáculos y tener libre acceso y desplazamiento en vía pública y servicios, públicos y privados;
 
-VII. Participar en los programas de cultura, deporte y recreación; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2013)</small>
 
-VIII. Recibir la información, capacitación y asesoría para él y su familia que les permita participar de manera activa en los procesos de habilitación y rehabilitación e incorporación en los programas sociales para alcanzar una vida con calidad.
+VII. Participar en los programas de cultura, deporte y recreación;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2013)</small>
+
+VIII. Recibir la información, capacitación y asesoría para él y su familia que les permita participar de manera activa en los procesos de habilitación, rehabilitación e incorporación en los programas sociales para alcanzar una vida con calidad;
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2013)</small>
+
+IX. Recibir alimentos por parte de las personas que están obligadas en los términos de la legislación aplicable, y
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2013)</small>
+
+X. Contar con asesoría, asistencia y representación jurídicas gratuitas por parte del Estado, a través de las dependencias correspondientes, en cualquier procedimiento legal en materia penal, civil, familiar, laboral y las demás que establezca la ley.
 
 ###### Artículo 8.
 
@@ -898,5 +912,17 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE ENERO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE JULIO DE 2013.
+
+DECRETO NÚMERO 24428/LX/13, POR EL QUE SE REFORMA EL ARTÍCULO 2.° DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE JULIO DE 2013.
+
+DECRETO NÚMERO 24429/LX/13, POR EL QUE SE REFORMA EL ARTÍCULO 7.° DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
