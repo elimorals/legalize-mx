@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-publica-del-estado-de-yucatan-14428"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-15"
-last_updated: "2004-05-31"
+last_updated: "2013-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE SEGURIDAD PUBLICA DEL ESTADO DE YUCATAN
 
-LEY DE SEGURIDAD PUBLICA DEL ESTADO DE YUCATAN
+LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DEL ESTADO: 31 DE MAYO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DEL ESTADO: 25 DE JULIO DE 2013.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 15 de mayo de 1999.
 
@@ -721,6 +721,20 @@ II. Residir en el Municipio durante el año inmediato anterior; y
 
 III. No haber sido condenado por la comisión de delitos intencionales.
 
+> <small>(ADICIONADO, D.O. 25 DE JULIO DE 2013)</small>
+
+###### Artículo 76 Bis.
+
+Los ciudadanos que integren el Comité Ciudadano de Seguridad Pública, tendrán las atribuciones siguientes:
+
+I.- Mantenerse en constante coordinación con la Policía Vecinal, así como con los demás cuerpos policiacos;
+
+II.- Organizar en su comunidad simulacros y capacitación en materia de seguridad pública y prevención del delito;
+
+III.- Fungir como enlace entre su comunidad y las autoridades en materia de seguridad pública, y
+
+IV.- Coadyuvar con la autoridad competente en las acciones de prevención del delito.
+
 ###### ARTÍCULO 77.
 
 El registro, la operación y la supervisión de las actividades de los Comités Ciudadanos se ajustará a lo que establezca el reglamento de esta Ley.
@@ -761,9 +775,39 @@ IV. Canalizar las demandas de la sociedad civil en materia de seguridad pública
 
 V. Proponer ante las autoridades competentes el otorgamiento de reconocimientos o estímulos a las personas que se destaquen por sus servicios prestados a favor de la comunidad en materia de seguridad pública.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 25 DE JULIO DE 2013)</small>
+
+### CAPÍTULO IV. DE LA POLICÍA VECINAL
+
+> <small>(ADICIONADO, D.O. 25 DE JULIO DE 2013)</small>
+
+###### Artículo 81 Bis.
+
+La Policía Vecinal es el área operativa dependiente de la Secretaría de Seguridad Pública del Estado de Yucatán, encargada de mantener un diálogo permanente y coordinado con las demás autoridades en materia de seguridad pública, los Comités Ciudadanos de Seguridad Pública, y los Comisarios de Manzana, para el cumplimiento de sus atribuciones, en términos de esta Ley.
+
+> <small>(ADICIONADO, D.O. 25 DE JULIO DE 2013)</small>
+
+###### Artículo 81 Ter.
+
+La Policía Vecinal, tendrá las atribuciones siguientes:
+
+I.- Apoyar en acciones de conciliación y pacificación en una comunidad o área geográfica determinada;
+
+II.- Promover la capacitación y asesoría de los Comités Ciudadanos de Seguridad Pública y de los Comisarios de Manzana, manteniendo una coordinación constante y permanente con éstos;
+
+III.- Impulsar acciones de integración ciudadana, que permitan detectar actos de vandalismo o inseguridad, así como ayudar en casos de emergencia o de primeros auxilios, y
+
+IV.- Mantener una relación constante con los Comités Ciudadanos de Seguridad Pública y los Comisarios de Manzana con la finalidad de orientarlos en asuntos relacionados con la vigilancia y la prevención de delitos en la comunidad.
+
+> <small>(ADICIONADO, D.O. 25 DE JULIO DE 2013)</small>
+
+###### Artículo 81 Quáter.
+
+Los elementos que laboren en la Policía Vecinal deberán recibir la capacitación adecuada y necesaria respecto a la comunicación, solidaridad social y trabajo en equipo con la comunidad.
 
 ## TÍTULO SÉPTIMO. DE LOS RECURSOS
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 82.
 
@@ -816,3 +860,13 @@ TERCERO.- Se concede a los prestadores de servicios de seguridad privada que aú
 CUARTO.- Los derechos que se pagarán por concepto de autorización y registro y por revalidación del permiso para prestar los servicios de seguridad a que se refiere a presente ley, será la cantidad equivalente a veinte veces el salario mínimo general diario vigente en el Estado, hasta en tanto se precisen en la Ley de Hacienda del Estado de Yucatán.
 
 QUINTO.- A partir del inicio de la vigencia de este Decreto y hasta el treinta y uno de diciembre del presente año, los ingresos que se perciban por concepto de la aplicación de la presente Ley, se considerarán parte integrante de la Ley de Ingresos del Estado de Yucatán para el Ejercicio Fiscal 2004.
+
+D.O. 25 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado de Yucatán, dentro de un plazo de 180 días naturales contados a partir de la publicación de este Decreto, deberá emitir las adecuaciones reglamentarias respecto del funcionamiento y organización de la Policía Vecinal.
