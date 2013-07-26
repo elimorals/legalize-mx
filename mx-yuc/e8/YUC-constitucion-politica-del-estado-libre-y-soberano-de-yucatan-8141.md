@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2012-08-31"
+last_updated: "2013-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JULIO DE 2013.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -37,15 +37,19 @@ DECRETO NUM. 3
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE JULIO DE 2013)</small>
 
-## TITULO PRELIMINAR. De los habitantes del Estado
+## TITULO PRELIMINAR. De los derechos humanos y sus garantías
 
-> <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE JULIO DE 2013)</small>
 
 ###### Artículo 1.
 
-Todos los habitantes del Estado de Yucatán, gozarán de las garantias que otorga la Constitución Política de los Estados Unidos Mexicanos, las derivadas de los Acuerdos o Tratados Internacionales, en los que el Estado Mexicano sea parte, y las establecidas en ésta Constitución.
+Todas las personas en el Estado de Yucatán gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte y en esta Constitución, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Federal establece.
+
+> <small>(ADICIONADO, D.O. 26 DE JULIO DE 2013)</small>
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Federal, los Tratados Internacionales de la materia y esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
 
 > <small>(ADICIONADO, D.O. 7 DE AGOSTO DE 2009)</small>
 
@@ -63,29 +67,45 @@ La Ley establecerá que en la salvaguarda de los derechos de la infancia se resp
 
 El Estado a través de un organismo especializado, con la participación de la sociedad civil, establecerá mecanismos para vigilar la atención de las necesidades de niños, niñas y adolescentes y en conjunto producirán información periódica sobre el cumplimiento progresivo de los derechos de la infancia en el Estado, dando a conocer los rubros que presentan rezago.
 
-> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE JULIO DE 2013)</small>
 
 ###### Artículo 2.
 
-El Estado de Yucatán por medio de sus Poderes Públicos y Organismos Autónomos, garantizará a toda persona que se encuentre en su territorio el respeto de sus derechos y prerrogativas referidos en el artículo anterior.
+Todas las autoridades y organismos autónomos del Estado de Yucatán, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la Ley.
 
-> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 26 DE JULIO DE 2013)</small>
 
-Queda prohibida toda discriminación por raza, origen étnico, nacionalidad, género, edad, discapacidad, condición física, social, económica o lingüística, preferencias, filiación, instrucción, religión, ideología política, o cualquier otra que menoscabe la dignidad humana, los derechos y libertades de las personas. Las niñas, niños y adolescentes no podrán ser objeto de medidas que con la pretensión de ser correctivas, se fundamenten en causas discriminatorias o que sean consecuencia de las actividades, las opiniones expresadas o las creencias de sus padres, o sus tutores o de sus demás familiares.
+Queda prohibida toda discriminación por motivo de raza, origen étnico, nacionalidad, género e identidad de género, edad, discapacidades, condiciones de salud, social, económica o lingüística, preferencias sexuales, identidad sexual, filiación, instrucción, religión, ideología política, o cualquier otro que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas. Las niñas, niños y adolescentes no podrán ser objeto de medidas que con la pretensión de ser correctivas, se fundamenten en causas discriminatorias o que sean consecuencia de las actividades, las opiniones expresadas o las creencias de sus padres, o sus tutores o de sus demás familiares.
+
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
 El Estado tiene una composición pluricultural sustentada originalmente en el pueblo maya, el cual desciende de la población que habitaba la península yucateca, al iniciarse la colonización; que conserva sus propios conocimientos, manifestaciones e idioma, así como, sus instituciones sociales, económicas y culturales o parte de ellas.
 
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
+
 La conciencia de la identidad maya de Yucatán es el criterio fundamental para determinar que a una persona le son aplicables las disposiciones sobre el pueblo maya yucateco y sus comunidades.
+
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
 Los derechos sociales del pueblo maya, se ejercerán de manera directa, a través de sus representantes, o de las autoridades establecidas.
 
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
+
 Los Poderes Públicos del Estado, establecerán en coordinación con la (sic) autoridades federales, las políticas públicas para proteger a los migrantes, tanto en el territorio nacional como en el extranjero, en los términos de la Constitución Política de los Estados Unidos Mexicanos, los Tratados internacionales, las Convenciones diplomáticas, los acuerdos federales y esta Constitución; mediante acciones que velen por el respeto de sus derechos humanos, y la promoción y difusión de la cultura maya.
+
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
 El Estado establecerá las políticas públicas para hacer efectivo el acceso del pueblo maya a los medios de comunicación masiva, conforme a las leyes correspondientes.
 
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
+
 Los servicios de salud que se proporcionen a las comunidades mayas, se planearán en coordinación con éstas, teniendo en cuenta su propio idioma y cultura. El Estado apoyara la preservación, protección y evolución contemporánea de la medicina maya; de igual modo, el manejo sustentable del entorno y de sus recursos naturales utilizables, las técnicas tradicionales, su uso y desarrollo endógeno.
 
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
+
 Las leyes establecerán los mecanismos que garanticen la efectiva participación del pueblo maya, en los distintos ámbitos y niveles de gobierno; en la toma de decisiones públicas que se vean afectados, en la elaboración del Plan Estatal de Desarrollo y los planes de desarrollo municipales, y cuando se prevean medidas legislativas relacionadas con éste.
+
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
 Se establecerá un organismo que definirá, ejecutará y evaluará las políticas públicas que garanticen la vigencia de los derechos del pueblo maya, y de las comunidades indígenas de otras entidades federativas, que se encuentren transitoria o permanentemente en territorio estatal, en los términos de las disposiciones legales aplicables.
 
@@ -231,33 +251,13 @@ VII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
 La calidad de ciudadano yucateco se pierde por la pérdida de la ciudadanía mexicana.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
 ###### Artículo 10.
 
-Los derechos y prerrogativas del ciudadano yucateco, se suspenden:
-
-I.- por no tener domicilio, oficio o modo honesto de vivir;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-II.- por la comisión de delito que amerite pena privativa de la libertad, a partir de la audiencia en la que se dicte la medida cautelar de prisión preventiva, hasta el momento en que se levante la medida o bien se emita la sentencia absolutoria, en el proceso respectivo, y en caso de una sentencia condenatoria hasta la extinción de la pena o prescripción de la sanción privativa de la libertad;
-
-III.- por rehusarse a desempeñar sin justa causa los cargos de elección popular;
-
-IV.- por sentencia que inhabilite para el ejercicio de esos derechos; y
-
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
-
-V.- no cumplir con las obligaciones de votar en los procedimientos de elección y consulta popular.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+(DEROGADO, D.O. 26 DE JULIO DE 2013)
 
 ###### Artículo 11.
 
-La Ley fijará la forma y los términos en que se suspenden los derechos del ciudadano yucateco y la manera de hacer la rehabilitación.
+(DEROGADO, D.O. 26 DE JULIO DE 2013)
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -771,15 +771,15 @@ VIII.- Establecer las bases conforme a las cuales el Poder Ejecutivo y los munic
 
 > <small>(ADICIONADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
 
-Vlll Bis.- Autorizar al Poder Ejecutivo y a los ayuntamientos a contratar deuda pública y afectar como garantía, fuente de pago o de cualquier otra forma, los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes;
+VIII Bis.- Autorizar al Poder Ejecutivo y a los ayuntamientos a contratar deuda pública y afectar como garantía, fuente de pago o de cualquier otra forma, los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes;
 
 > <small>(ADICIONADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
 
-Vlll Ter.- Aprobar los proyectos para la prestación de servicios conforme a la ley de la materia y las asignaciones presupuestarias correspondientes a los ejercicios fiscales que se requieran. Asimismo, aprobar las asignaciones directas a dichos proyectos, conforme a las excepciones previstas por la legislación aplicable;
+VIII Ter.- Aprobar los proyectos para la prestación de servicios conforme a la ley de la materia y las asignaciones presupuestarias correspondientes a los ejercicios fiscales que se requieran. Asimismo, aprobar las asignaciones directas a dichos proyectos, conforme a las excepciones previstas por la legislación aplicable;
 
 > <small>(ADICIONADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
 
-Vlll Quáter.- Aprobar la afectación de ingresos del Estado y de los municipios, respecto al cumplimiento de todo tipo de obligaciones que deriven de la contratación de financiamiento o de proyectos para prestación de servicios. Igualmente, corresponderá al H. Congreso del Estado, a solicitud del Titular del Poder Ejecutivo, la aprobación de la desafectación de esos ingresos en términos de la legislación aplicable;
+VIII Quáter.- Aprobar la afectación de ingresos del Estado y de los municipios, respecto al cumplimiento de todo tipo de obligaciones que deriven de la contratación de financiamiento o de proyectos para prestación de servicios. Igualmente, corresponderá al H. Congreso del Estado, a solicitud del Titular del Poder Ejecutivo, la aprobación de la desafectación de esos ingresos en términos de la legislación aplicable;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -909,9 +909,21 @@ XXIX Bis.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
 XXX.- Nombrar a la Diputación Permanente que ha de funcionar en el receso del Congreso, antes de la clausura de cada período de sesiones ordinarias;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADA, D.O. 26 DE JULIO DE 2013)</small>
 
-XXXI.- Designar por el voto de sus dos terceras partes, al Presidente de la Comisión de Derechos Humanos y a los demás integrantes del Consejo Consultivo;
+XXXI.- Designar por el voto de sus dos terceras partes, al Presidente de la Comisión de Derechos Humanos y a los demás integrantes del Consejo Consultivo. Esta elección se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley;
+
+> <small>(ADICIONADA, D.O. 26 DE JULIO DE 2013)</small>
+
+XXXI Bis.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de derechos humanos;
+
+> <small>(ADICIONADA, D.O. 26 DE JULIO DE 2013)</small>
+
+XXXI Ter.- Requerir, a solicitud de la Comisión de Derechos Humanos del Estado de Yucatán, la comparecencia de las autoridades o servidores públicos cuando se hayan negado a aceptar o cumplir alguna recomendación emitida por dicho organismo autónomo, a efecto de que expliquen el motivo de su negativa;
+
+> <small>(ADICIONADA, D.O. 26 DE JULIO DE 2013)</small>
+
+XXXI Quáter.- Analizar el Informe Anual presentado por la Comisión de Derechos Humanos del Estado de Yucatán y hacer público el resultado del mismo;
 
 XXXII.- (DEROGADA, D.O. 12 DE DICIEMBRE DE 1997)
 
@@ -973,7 +985,7 @@ Sus integrantes no podrán ser electos para el período constitucional inmediato
 
 (NOTA: EL 22 DE MARZO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2010, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XLI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1453,6 +1465,10 @@ XIX.- conceder licencia a los servidores públicos y empleados de la Administrac
 
 XX.- pedir la protección de los Poderes de la Unión en caso de sublevación o trastorno interior; y (sic)
 
+> <small>(ADICIONADA, D.O. 26 DE JULIO DE 2013)</small>
+
+XX Bis.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de derechos humanos;
+
 > <small>(REFORMADA, D.O. 20 DE AGOSTO DE 1964)</small>
 
 XXI.- conceder primas y subsidios a los que establezcan en el Estado, industrias y cultivos nuevos, necesarios o ampliados;
@@ -1527,7 +1543,7 @@ VI.- remitir deudas, mandando hacer cortes de cuenta respecto de los deudores de
 
 VII.- permitir o tolerar que se establezcan en el Estado casas de juegos ilícitos o espectáculos inmorales.
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 28 DE ENERO DE 1970)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE ENERO DE 1970)</small>
 
 ### CAPITULO V. Del Ministerio Público
 
@@ -1777,7 +1793,7 @@ VI.- Formular el proyecto anual de Presupuesto de Egresos del Tribunal Superior 
 
 VII.- Presentar la cuenta pública, con la documentación respectiva y en los términos establecidos en la Ley de la materia, y
 
-VlII.- Las demás que le confieran esta Constitución y otras leyes.
+VIII.- Las demás que le confieran esta Constitución y otras leyes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -1869,9 +1885,7 @@ El Tribunal de Justicia Electoral y Administrativa propondrá su presupuesto al 
 
 ### CAPÍTULO I. De la Protección de los Derechos Humanos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 26 DE JULIO DE 2013)</small>
 
 ###### Artículo 72.
 
@@ -1977,11 +1991,13 @@ El internamiento se utilizará como medida extrema, en el menor tiempo posible, 
 
 Se establece un Organismo Público Autónomo denominado Comisión de Derechos Humanos del Estado de Yucatán, con personalidad jurídica y patrimonio propio, encargada de la protección, defensa, estudio, promoción y divulgación de los derechos humanos.
 
-La Ley preservará el carácter público, no vinculatorio, apartidista, transparente y expedito de sus recomendaciones; además su funcionamiento, facultades y procedimientos.
+La Ley garantizará el carácter público, apartidista, transparente, expedito e independiente de la Comisión de Derechos Humanos del Estado de Yucatán, cuyo presupuesto no podrá ser disminuido respecto al del año inmediato anterior y se fijará anualmente.
 
-Se integrará por un Presidente, un Consejo Consultivo y el personal necesario; el Presidente durará cuatro años en su ejercicio, pudiendo ser ratificado para un período más y sólo podrá ser removido durante su encargo, en los términos del Título Décimo de esta Constitución. Este presentará anualmente ante el Congreso, un informe sobre la situación de los derechos humanos, en los términos de Ley.
+La Comisión de Derechos Humanos del Estado de Yucatán se integrará por un Presidente, un Consejo Consultivo y el personal necesario. El Presidente durará cinco años en su ejercicio y podrá ser ratificado para un período más; únicamente podrá ser removido durante su encargo, en los términos del Título Décimo de esta Constitución; y deberá presentar anualmente ante el Pleno del Congreso, un informe sobre la situación de los derechos humanos, en los términos de Ley.
 
-La Comisión de Derechos Humanos estará facultada para conocer los actos u omisiones violatorios, de cualquier servidor público estatal o municipal, con competencia no jurisdiccional; tratándose del Poder Judicial, únicamente conocerá los de naturaleza administrativa. No tendrá facultades en asuntos electorales y de tipo laboral.
+La Comisión de Derechos Humanos del Estado de Yucatán estará facultada para conocer de quejas en contra de actos u omisiones que constituyan violaciones a los derechos humanos provenientes de cualquier servidor público estatal o municipal y formular recomendaciones públicas, no vinculatorias, así como presentar denuncias y quejas ante las autoridades respectivas. Tratándose del Poder Judicial, únicamente conocerá los actos u omisiones de naturaleza administrativa. No tendrá facultades en asuntos electorales y jurisdiccionales.
+
+Todo servidor público del Estado de Yucatán está obligado a responder las recomendaciones que le presente la Comisión de Derechos Humanos del Estado de Yucatán. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado de Yucatán o, en sus recesos, la Diputación Permanente, podrá requerir, a solicitud de la Comisión de Derechos Humanos del Estado de Yucatán, a las autoridades o servidores públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -2337,17 +2353,23 @@ La Seguridad Pública en Yucatán es una función a cargo del Estado y de los Mu
 
 Las Instituciones de Seguridad Pública, estatal y municipales, serán de carácter civil, disciplinado y profesional y deberán coordinarse entre sí y con la Federación para cumplir los objetivos de la función a su cargo. El Sistema Estatal de Seguridad Pública tendrá por objeto planear, normar y coordinar las actividades que se realizan en el Estado en materia de Seguridad Pública y estará conformado en los términos que señale la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES SEGUNDO PÁRRAFO], D.O. 17 DE MAYO DE 2010)</small>
+El Estado, por medio de sus Poderes Públicos, garantizará el respeto al derecho humano de toda persona de gozar de un ambiente ecológicamente equilibrado y la protección de los ecosistemas que conforman el patrimonio natural de Yucatán, basado en los siguientes criterios:
 
-El Estado, por medio de sus Poderes Públicos, garantizará el respeto al derecho de todo individuo de gozar de un ambiente ecológicamente equilibrado y la protección de los ecosistemas que conforman el patrimonio natural de Yucatán, basado en los siguientes criterios:
+> <small>(REFORMADA, D.O. 26 DE JULIO DE 2013)</small>
 
-I.- Los habitantes del Estado tienen derecho a vivir en un ambiente saludable que les permita una vida digna, y a hacer uso racional de los recursos naturales con que cuenta la Entidad, para alcanzar el desarrollo sostenido, en los términos que señale la ley de la materia;
+I.- Las personas en el Estado tienen derecho a vivir en un ambiente saludable que les permita una vida digna, y a hacer uso racional de los recursos naturales con que cuenta la Entidad, para alcanzar el desarrollo sostenido, en los términos que señale la Ley de la materia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(ADICIONADA, D.O. 17 DE MAYO DE 2010)</small>
 
 II.- A ninguna persona se le puede obligar a llevar a cabo actividades que ocasionen o puedan ocasionar deterioro al ambiente, en los términos que señale la Ley de la materia; y
 
-III.- Los habitantes del Estado tienen derecho a conocer y tener acceso a la información actualizada acerca del estado del ambiente y de los recursos naturales de la Entidad, así como a participar en las actividades destinadas a su conservación y mejoramiento.
+> <small>(REFORMADA, D.O. 26 DE JULIO DE 2013)</small>
+
+III.- Las personas en el Estado tienen derecho a conocer y tener acceso a la información actualizada acerca del estado del ambiente y de los recursos naturales de la Entidad, así como a participar en las actividades destinadas a su conservación y mejoramiento.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -2361,11 +2383,13 @@ II.- imponer a la actividad individual las limitaciones que sea menester para ev
 
 III.- reintegrar la actividad individual, cuando ésta se encuentre menoscabada por el egoísmo, u otra manifestación análoga, de elementos inadaptados a la estructura social;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, D.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+IV.- Prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la Ley;
 
-IV.- garantizar la protección de los derechos humanos y la observancia del principio de presunción de inocencia, por el cual toda persona acusada de algún delito será inocente hasta que se demuestre su culpabilidad mediante un juicio;
+> <small>(ADICIONADA, D.O. 26 DE JULIO DE 2013)</small>
+
+IV Bis.- Garantizar el cumplimiento del principio de presunción de inocencia, por el cual toda persona acusada de algún delito será inocente hasta que se demuestre su culpabilidad mediante un juicio;
 
 (REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
@@ -2385,11 +2409,9 @@ La ley establecerá el procedimiento que deberá seguirse ante los tribunales pe
 
 VI Bis.- proporcionar y promover mecanismos alternativos para la solución de controversias a través de vías colaborativas y pacíficas, en las que se privilegie el dialogo entre los particulares, creando las instancias y emitiendo las disposiciones que correspondan para la consecución de ese fin;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, D.O. 26 DE JULIO DE 2013)</small>
 
-> <small>(ADICIONADA, D.O. 17 DE MAYO DE 2010)</small>
-
-VI Ter.- organizar el sistema penitenciario sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción social del sentenciado a la sociedad y procurar que no vuelva a delinquir, al observar los beneficios que para él prevea la ley;
+VI Ter.- Organizar el sistema penitenciario sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción social del sentenciado a la sociedad y procurar que no vuelva a delinquir, al observar los beneficios que para él prevea la Ley;
 
 (REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
@@ -2441,11 +2463,13 @@ La propiedad es una institución social que el Estado adopta como medio para la 
 
 El Estado dictará leyes que organicen el patrimonio familiar.
 
-> <small>(REFORMADO, D.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE JULIO DE 2013)</small>
 
 ###### Artículo 90.
 
-Los habitantes del Estado tienen derecho a la educación y la cultura, entendiéndolas como una prerrogativa social.
+Toda persona en el Estado tiene los derechos humanos a la educación y la cultura.
+
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 2007)</small>
 
 Apartado A.- De la Educación.
 
@@ -2490,6 +2514,8 @@ e) Fijarán los términos de ingreso, promoción y permanencia de su personal ac
 f) Administrarán su patrimonio, y
 
 g) Las relaciones laborales, tanto del personal académico como del administrativo, se regirán por el apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en los términos de la Ley Federal del Trabajo, conforme a las características propias de un trabajo especial.
+
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 2007)</small>
 
 Apartado B.- De la Cultura
 
@@ -3829,7 +3855,7 @@ IV.- Tesorería del Congreso: Dirección General de Administración y Finanzas.
 
 ###### ARTÍCULO CUARTO.
 
-La LlX Legislatura concluirá el 31 de agosto de 2012, según lo dispuesto en el artículo noveno transitorio del Decreto número 677 por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán.
+La LIX Legislatura concluirá el 31 de agosto de 2012, según lo dispuesto en el artículo noveno transitorio del Decreto número 677 por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 ###### ARTÍCULO QUINTO.
 
@@ -3863,13 +3889,13 @@ Séptimo Período Ordinario de Sesiones Del 16 de mayo al 15 de julio de
 
 2012
 
-Durante los recesos de la LlX Legislatura, funcionará una Diputación Permanente.
+Durante los recesos de la LIX Legislatura, funcionará una Diputación Permanente.
 
 Los períodos ordinarios de sesiones a partir de la LX Legislatura, deberán ajustarse al calendario establecido en el artículo 27 de la Constitución Política del Estado de Yucatán.
 
 ###### ARTÍCULO SEXTO.
 
-La Junta de Gobierno y Coordinación Política de la LlX Legislatura se integrará de la forma siguiente:
+La Junta de Gobierno y Coordinación Política de la LIX Legislatura se integrará de la forma siguiente:
 
 PRESIDENTE: DIP. MAURICIO SAHUÍ RIVERO.
 
@@ -3883,11 +3909,11 @@ El Presidente deberá convocar a la instalación de la Junta de Gobierno y Coord
 
 ###### ARTÍCULO SÉPTIMO.
 
-La Junta de Gobierno y Coordinación Política de la LlX Legislatura, deberá proponer al Pleno del H. Congreso del Estado, en un plazo no mayor a 15 días hábiles a partir de la entrada en vigor de esta Ley, la integración de las Comisiones Permanentes que establece esta Ley.
+La Junta de Gobierno y Coordinación Política de la LIX Legislatura, deberá proponer al Pleno del H. Congreso del Estado, en un plazo no mayor a 15 días hábiles a partir de la entrada en vigor de esta Ley, la integración de las Comisiones Permanentes que establece esta Ley.
 
 Las comisiones permanentes que estén funcionando a la entrada en vigor de esta Ley, continuarán ejerciendo sus atribuciones hasta que sean integradas por el Pleno las que establece esta Ley.
 
-Las comisiones especiales creadas en la LlX Legislatura, durarán todo el ejercicio constitucional de ésta.
+Las comisiones especiales creadas en la LIX Legislatura, durarán todo el ejercicio constitucional de ésta.
 
 ###### ARTÍCULO OCTAVO.
 
@@ -3956,3 +3982,21 @@ D.O. 31 DE AGOSTO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 26 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El H. Congreso del Estado de Yucatán, deberá realizar las reformas correspondientes a la Ley de la Comisión de Derechos Humanos del Estado de Yucatán para armonizarla al contenido del artículo 102 Apartado B de la Constitución Política de los Estados Unidos Mexicanos y 74 de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Presidente de la Comisión de Derechos Humanos del Estado de Yucatán, que al entrar en vigor este Decreto se encuentre en funciones cumpliendo su segundo período, por única vez durará en el cargo hasta el día seis de julio del año 2015.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este Decreto.
