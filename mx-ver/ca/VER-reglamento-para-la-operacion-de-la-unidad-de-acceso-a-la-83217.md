@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-la-operacion-de-la-unidad-de-acceso-a-la-83217"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-01"
-last_updated: "2011-09-01"
+last_updated: "2013-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # REGLAMENTO PARA LA OPERACION DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA Y EL COMITE DE INFORMACION DE ACCESO RESTRINGIDO DE LA COMISION MUNICIPAL DE AGUA POTABLE Y SANEAMIENTO DE XAPALA, VERACRUZ
 
-REGLAMENTO PARA LA OPERACION DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA Y EL COMITE DE INFORMACION DE ACCESO RESTRINGIDO DE LA COMISION MUNICIPAL DE AGUA POTABLE Y SANEAMIENTO DE XALAPA, VERACRUZ
+REGLAMENTO PARA LA OPERACIÓN DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PUBLICA Y EL COMITÉ DE INFORMACIÓN DE ACCESO RESTRINGIDO DE LA COMISIÓN MUNICIPAL DE AGUA POTABLE Y SANEAMIENTO DE XALAPA, VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE JULIO DE 2013.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 1 de septiembre de 2011.
 
@@ -87,9 +87,11 @@ XVIII. Lineamientos: Los expedidos por el Instituto Veracruzano de Acceso a la I
 
 La Unidad de Acceso a la Información Pública, es la encargada de garantizar el derecho que tiene toda persona de accesar a la información pública que se encuentre en poder de la Comisión, sin más limitación que la establecida en la ley, reglamento y en los lineamientos.
 
+> <small>(REFORMADO, G.O. 26 DE JULIO DE 2013)</small>
+
 ###### Artículo 4.
 
-La Unidad de Acceso a la Información Pública deberá contar con el espacio físico y medios informáticos suficientes para la prestación del servicio, así como con personal capacitado para la atención del público.
+La Unidad de Acceso a la Información Pública, deberá contar con el espacio físico adecuado y con personal capacitado para atender al público; contar con equipo de cómputo o módulo con acceso a Internet suficiente para que los particulares puedan consultar o incluso imprimir, previo pago de los costos de reproducción, la información que se encuentre publicada en el sitio correspondiente de la Comisión. Para el cumplimiento de esta disposición, la Comisión deberá prever en su proyecto de presupuesto las partidas que resulten necesarias; (sic)
 
 ###### Artículo 5.
 
@@ -97,13 +99,15 @@ La Unidad de Acceso a la Información Pública se encontrará ubicada en las ins
 
 ### CAPÍTULO IV. De la Integración, Facultades y Funcionamiento de la Unidad de Acceso a la Información Pública
 
+> <small>(REFORMADO, G.O. 26 DE JULIO DE 2013)</small>
+
 ###### Artículo 6.
 
-La Unidad de Acceso a la Información Pública, estará incorporada en la Coordinación Jurídica, la cual depende directamente del Director General, y estará integrada de la siguiente forma:
+La Unidad de Acceso dependerá directamente del Director General, por lo que así se reflejará en el organigrama de la Comisión, y estará integrada de la siguiente forma:
 
-I. Titular de la Unidad de Acceso a la Información Pública de la Comisión;
+I. El Titular;
 
-II. Personal de apoyo de la Unidad de Acceso a la Información Pública adscritos a la Comisión.
+II. Los servidores públicos que resulten necesarios; (sic)
 
 ###### Artículo 7.
 
@@ -111,23 +115,33 @@ El Director General de la Comisión, será quien designe o remueva al Titular de
 
 ###### Artículo 8.
 
-El Titular de la Unidad de Acceso deberá reunir los siguientes requisitos:
+El titular de la Unidad de Acceso deberá reunir los siguientes requisitos:
 
-I. Ser mexicano por nacimiento, en ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, G.O. 26 DE JULIO DE 2013)</small>
 
-II. Contar con nivel de licenciatura en Derecho;
+I. Contar con nivel mínimo de licenciatura;
 
-III. No haber sido condenado ejecutoriamente por delito grave;
+> <small>(REFORMADA, G.O. 26 DE JULIO DE 2013)</small>
 
-IV. Tener cuando menos treinta años cumplidos al día de su designación;
+II. Ser ciudadano mexicano;
 
-V. Gozar de reconocido prestigio personal y profesional;
+> <small>(REFORMADA, G.O. 26 DE JULIO DE 2013)</small>
 
-VI. Tener al menos tres años de experiencia profesional;
+III. Tener cuando menos veinticinco años cumplidos al día de su designación;
 
-VII. Contar con experiencia en atención al público; y
+> <small>(REFORMADA, G.O. 26 DE JULIO DE 2013)</small>
 
-VIII. Tener conocimientos en el manejo de archivos y expedientes.
+IV. No haber sido condenado por delito doloso;
+
+> <small>(REFORMADA, G.O. 26 DE JULIO DE 2013)</small>
+
+V. Tener al menos tres años de experiencia profesional.
+
+VI. (DEROGADA, G.O. 26 DE JULIO DE 2013)
+
+VII. (DEROGADA, G.O. 26 DE JULIO DE 2013)
+
+VIII. (DEROGADA, G.O. 26 DE JULIO DE 2013)
 
 ###### Artículo 9.
 
@@ -630,3 +644,9 @@ T R A N S I T O R I O S (SIC)
 Artículo primero. El presente reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado. Lo anterior previa aprobación del Órgano de Gobierno de la Comisión Municipal de Agua Potable y Saneamiento de Xalapa, Veracruz, Organismo Operador.
 
 Aprobado por ACUERDO 045/OG/2011 emitido en la Cuarta Sesión Ordinaria del Órgano de Gobierno de la Comisión Municipal de Agua Potable y Saneamiento de Xalapa, Veracruz, de fecha 14 de abril de 2011.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 26 DE JULIO DE 2013.
+
+Único. El presente Acuerdo entrará en vigor el día de su aprobación por el Órgano de Gobierno de la Comisión Municipal de Agua Potable y Saneamiento de Xalapa, Veracruz.
