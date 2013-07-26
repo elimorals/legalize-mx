@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-comite-estatal-para-la-prevencion-y-468
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-14"
-last_updated: "2005-11-14"
+last_updated: "2013-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO INTERIOR DEL COMITE ESTATAL PARA LA PREVENCION Y CONTROL DEL SINDROME DE INMUNODEFICIENCIA ADQUIRIDA Y OTRAS INFECCIONES DE TRANSMISION SEXUAL DEL ESTADO DE YUCATAN
 
-REGLAMENTO INTERIOR DEL COMITE ESTATAL PARA LA PREVENCION Y CONTROL DEL SINDROME DE INMUNODEFICIENCIA ADQUIRIDA Y OTRAS INFECCIONES DE TRANSMISION SEXUAL DEL ESTADO DE YUCATAN
+REGLAMENTO INTERIOR DEL COMITÉ ESTATAL PARA LA PREVENCIÓN Y CONTROL DEL SÍNDROME DE INMUNODEFICIENCIA ADQUIRIDA Y OTRAS INFECCIONES DE TRANSMISIÓN SEXUAL DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PREVENCIÓN Y CONTROL DEL VIRUS DE INMUNODEFICIENCIA HUMANA, SÍNDROME DE INMUNODEFICIENCIA ADQUIRIDA Y OTRAS INFECCIONES DE TRANSMISIÓN SEXUAL DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 26 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el lunes 14 de noviembre de 2005.
 
@@ -218,3 +220,31 @@ PRESIDENTE DE "EL COMITÉ"
 DR. JORGE LUIS SOSA MUÑOZ
 
 VICEPRESIDENTE DE "EL COMITÉ"
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 26 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto Número 545 del Poder Ejecutivo por el que se crea el Comité Estatal para la Prevención y Control del Síndrome de Inmunodeficiencia Adquirida y otras Infecciones de Transmisión Sexual, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el día 20 de agosto del año 2004.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior del Comité Estatal para la Prevención y Control del Síndrome de Inmunodeficiencia Adquirida y otras Infecciones de Transmisión Sexual, publicado en el Diario Oficial del Gobierno del Estado el día 14 de noviembre del año 2004.
+
+###### ARTÍCULO CUARTO.
+
+El Comité para la Prevención y Control del Síndrome de Inmunodeficiencia Adquirida y otras Infecciones de Transmisión Sexual del Estado de Yucatán, deberá instalarse dentro de los 90 días naturales siguientes contados a partir de la entrada en vigor de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Comité para la Prevención y Control del Síndrome de Inmunodeficiencia Adquirida y otras Infecciones de Transmisión Sexual del Estado de Yucatán, deberá aprobar su Reglamento Interior dentro de los 90 días naturales siguientes contados a partir de su instalación.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones de igual o menor rango en lo que se opongan a las disposiciones de esta Ley.
