@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-39505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-21"
-last_updated: "2008-01-18"
+last_updated: "2013-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 21 de abril de 2004.
 
@@ -57,6 +57,8 @@ Es deber de todo ciudadano, dentro de sus posibilidades y sin menoscabo de sus d
 
 Se concede acción popular, a fin de que cualquier persona denuncie ante las autoridades municipales, las conductas que infrinjan este Reglamento, o cualquier otro de carácter municipal.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 6.
 
 Son autoridades facultadas para la aplicación del presente Reglamento las siguientes:
@@ -65,25 +67,27 @@ I. El C. Presidente Municipal;
 
 II. El Secretario del R. Ayuntamiento;
 
-III. Secretario de Finanzas y Tesorero Municipal;
+III. El Secretario de Administración y Finanzas;
 
-IV. Secretario de Seguridad Pública;
+IV. El Secretario de Seguridad Pública y Vialidad;
 
-V. Director o Coordinador de Jueces Calificadores;
+V. El Coordinador de Jueces Calificadores;
 
-VI. Director de Policía;
+VI. El Director de Policía;
 
-VII. Director de Tránsito;
+VII. El Director de Tránsito;
 
-VIII. Juez Calificador en turno;
+VIII. El Juez Calificador en turno;
 
-IX. Elementos de la Policía Municipal debidamente autorizados; X. (SIC) Alcaide, Comisario y/o responsable del área de celdas municipales; y
+IX. Elementos de la Policía Municipal debidamente autorizados; Alcaide, Comisario y/o responsable del área de celdas municipales; y
 
-X (SIC). Todos aquellos Servidores Públicos a quienes se les otorgue facultades para la aplicación del presente Reglamento.
+X. Todos aquellos Servidores Públicos a quienes se les otorgue facultades para la aplicación del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 7.
 
-Será facultad exclusiva de la Secretaría de Finanzas y Tesorería Municipal el cobro de las multas impuestas por infracción al presente Reglamento; así como proveer y disponer del recurso material y humano para llevar a cabo esta función.
+Será facultad exclusiva de la Secretaría de Administración y Finanzas Municipal el cobro de las multas impuestas por infracción al presente Reglamento; así como proveer y disponer del recurso material y humano para llevar a cabo esta función.
 
 ###### ARTÍCULO 8.
 
@@ -181,13 +185,19 @@ VIII. Realizar manifestaciones o cualquier otro acto público en contravención 
 
 IX. Efectuar bailes en domicilio particular para el público en general con fines lucrativos sin previo permiso de la Autoridad competente;
 
-X. Causar ruidos o sonidos que molesten, perjudique o afecte la tranquilidad de uno o más vecinos;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2013)</small>
+
+X. Causar ruidos o sonidos que molesten, perjudique o afecte la tranquilidad de uno o más vecinos, tales como los producidos por estéreos, radios, radio grabadoras, instrumentos musicales o aparatos de sonido que excedan el nivel de 68dB (decibeles) de las 6:00 a las 22:00 horas y de 65dB (decibeles) de las 22:00 a las 6:00 horas del día siguiente.
 
 XI. Efectuar bailes en salones, clubes y centros sociales sin el permiso correspondiente;
 
-XII. Permitir, tolerar o promover cualquier tipo de juego de azar en los cuales se crucen apuestas sin el permiso de la Autoridad correspondiente; y
+XII. Permitir, tolerar o promover cualquier tipo de juego de azar en los cuales se crucen apuestas sin el permiso de la Autoridad correspondiente; y (sic)
 
 XIII. Impedir, dificultar o entorpecer la correcta prestación de los servicios públicos municipales.
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2013)</small>
+
+I (SIC). Negarse a pagar algún servicio inmediato solicitado y recibido en lugares públicos.
 
 ###### ARTÍCULO 14.
 
@@ -261,9 +271,17 @@ XIV. Tratar con excesiva crueldad, abusar de el fin para el que se adquieren, o 
 
 XV. Exhibir o consultar públicamente, material pornográfico o intervenir en actos de su comercialización o difusión en la vía pública. Los negocios autorizados para manejar este tipo de mercancía, deberán contar con un área reservada a la que no tengan acceso los menores de edad;
 
-XVI. Maltratar los padres o tutores a sus hijos o pupilos, excepto que se trate de medidas correctivas hechas en los términos de ley; y
+XVI. Maltratar los padres o tutores a sus hijos o pupilos, excepto que se trate de medidas correctivas hechas en los términos de ley; y (sic)
 
 XVII. Desobedecer o tratar de burlar a la Autoridad que le llame la atención en relación con cualquier aspecto relacionado con el orden y la tranquilidad de la población en general.
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2013)</small>
+
+I (SIC). Deambular o internarse en estado de ebriedad o bajo los efectos de alguna droga o tóxico, en vía o lugares públicos, poniendo en riesgo y peligro la integridad misma y/o la de terceros.
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2013)</small>
+
+II. Insultar, ofender o realizar conductas que atenten contra la moral y las buenas costumbres de la población, por parte de personas que realizan actividades de índole económica en cruceros, calles o avenidas de esta ciudad, en los que de manera frecuente ofrecen productos o servicios.
 
 ###### ARTÍCULO 16.
 
@@ -307,7 +325,9 @@ Son Infracciones Contra la Salud:
 
 I. Arrojar a lugares públicos o terrenos baldíos, animales muertos, escombros, basuras, substancias fétidas o tóxicas;
 
-II. Realizar necesidades Fisiológicas en lugares públicos, o privados sin la autorización del propietario;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2013)</small>
+
+II. Realizar necesidades Fisiológicas tales como orinar y/o defecar en lugares públicos o privados sin la autorización del propietario;
 
 III. Contaminar u obstruir las corrientes de agua de los manantiales, tanques almacenadores, fuentes públicas, acueductos, tuberías, y drenajes pluviales;
 
@@ -371,9 +391,13 @@ El Juez Calificador por la infracción o infracciones al presente reglamento ten
 
 I. Amonestación;
 
-II. Multa; o
+II. Multa; o (sic)
 
 III. Arresto hasta por 36-treinta y seis horas.
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2013)</small>
+
+I (SIC). Trabajo Comunitario.
 
 > <small>(ADICIONADO, P.O. 18 DE ENERO DE 2008)</small>
 
@@ -381,9 +405,339 @@ III. Arresto hasta por 36-treinta y seis horas.
 
 La infracción descrita en el Artículo 19 fracción V de este Reglamento, se sancionará con arresto administrativo de hasta 36 horas o el equivalente de 20 a 200 cuotas. Esta sanción sólo se aplicará si el infractor hiciere caso omiso al apercibimiento verbal o por escrito que en el momento de los hechos se le hiciere por el servidor público en turno.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 26.
 
-Si la sanción a aplicar fuese una multa, ésta podrá ser de entre 1-una y hasta 100-cien cuotas. Se entiende como cuota, el equivalente a un día de salario mínimo general vigente de la zona económica a la que corresponda el Municipio.
+Si la sanción a aplicar fuese una multa, ésta podrá ser de entre 1-una y hasta 200-doscientas cuotas. Se entiende como cuota, el equivalente a un día de salario mínimo general vigente de la zona económica a la que corresponda el Municipio. Si la sanción consistiera en la conmutación por Trabajo Comunitario, este podrá ser entre 8-ocho y 100-cien horas de servicio a favor de la comunidad.
+
+INFRACCIONES AL ORDEN PÚBLICO
+
+NUM. INFRACCIÓN
+
+ARTÍCULO FRACCIÓN SANCIÓN EN CUOTAS
+
+1 Romper, alterar o mutilar las boletas de infracciones o cualquier tipo de notificación que sea realizada por parte de la Autoridad Municipal.
+
+13 I 1 a 10
+
+2 Causar o provocar escándalo en lugares públicos.
+
+13 II 1 a 10
+
+3 Pronunciar en lugares públicos, expresiones injuriosas, despectivas o que ataquen a la moral que alteren el orden público.
+
+13 III 1 a 10
+
+4 Molestar o alterar el orden en la vía pública o lugares públicos.
+
+13 IV 1 a 10
+
+5 Ingerir bebidas alcohólicas en la vía pública o lugares públicos no permitidos.
+
+13 V 1 a 10
+
+6 Consumir o intoxicarse con drogas o tóxicos.
+
+13 VI 11 a 20
+
+7 Participar en riñas o provocarlas, en la vía pública, lugares públicos, en espectáculos o reuniones públicas.
+
+13 VII 11 a 20
+
+8 Realizar manifestaciones o cualquier otro acto público en contravención a lo preceptuado en el artículo 9° de la Constitución Política del Estado.
+
+13 VIII 11 a 20
+
+9 Efectuar bailes en domicilio particular para el público en general con fines lucrativos sin previo permiso de la Autoridad competente.
+
+13 IX 11 a 20
+
+10 Causar ruidos o sonidos que molesten, perjudique o afecte la tranquilidad de uno o más vecinos, tales como los producidos por estéreos, radios, radio grabadoras, instrumentos musicales o aparatos de sonido que excedan el nivel de 68dB (decibeles) de las 6:00 a las 22:00 horas y de 65dB (decibeles) de las 22:00 a las 6:00 horas del día siguiente.
+
+13 X 11 a 20
+
+11 Efectuar bailes en salones, clubes y centros sociales sin el permiso correspondiente.
+
+13 XI 1 a 10
+
+12 Permitir, tolerar o promover cualquier tipo de juego de azar en los cuales se crucen apuestas sin el permiso de la Autoridad correspondiente.
+
+13 XII 21 a 30
+
+13 Impedir, dificultar o entorpecer la correcta prestación de los servicios públicos municipales.
+
+13 XIII 11 a 20
+
+14 Negarse a pagar algún servicio inmediato solicitado y recibido en lugares públicos.
+
+13 XIV 1 a 10
+
+INFRACCIONES A LA SEGURIDAD DE LA POBLACIÓN
+
+1 Oponerse o resistirse a un mandato legítimo de cualquier Autoridad, ya sea Federal, Estatal o Municipal.
+
+14 I 1 a 10
+
+2 Utilizar la vía pública o lugares no autorizados para efectuar juegos de cualquier clase.
+
+14 II 1 a 10
+
+3 Hacer uso de banquetas, calles, plazas o cualquier otro lugar público para la exhibición o venta de mercancías o para el desempeño de trabajos particulares, sin la autorización o el permiso correspondiente.
+
+14 III 1 a 10
+
+4 Arrojar a la vía pública o lotes baldíos, objetos que puedan causar daño o molestias a los vecinos, transeúntes o vehículos.
+
+14 IV 21 a 30
+
+5 Dañar en cualquier forma bienes muebles o inmuebles pertenecientes a terceros.
+
+14 V 21 a 30
+
+6 Disparar armas de fuego en las vías o lugares públicos.
+
+14 VI 91 a 100
+
+7 Detonar cohetes, hacer fogatas, utilizar combustibles o materiales flamables, sin la autorización correspondiente.
+
+14 VII 11 a 20
+
+8 Participar en grupos que causen molestias a las personas o sus bienes, en lugares públicos o en la proximidad de sus domicilios, o en éstos.
+
+14 VIII 1 a 10
+
+9 Conducir vehículos, en estado de ebriedad o bajo los efectos de drogas o tóxicos (para la aplicación de la sanción correspondiente a este supuesto, se observará lo establecido en el Reglamento de Tránsito y Vialidad en vigor).
+
+14 IX
+
+10 Provocar falsas alarmas en reuniones públicas o privadas.
+
+14 X 21 a 30
+
+11 Solicitar con falsas alarmas, los servicios de la Policía, ambulancias, bomberos o de establecimientos médicos o asistenciales públicos o privados.
+
+14 XI 21 a 30
+
+12 Dañar o mover las señales públicas del lugar donde hubiesen sido colocadas por la Autoridad.
+
+14 XII 11 a 20
+
+13 Provocar incendios, derrumbes y demás actividades análogas en sitios públicos o privados.
+
+14 XIII 21 a 30
+
+14 Portar o utilizar objetos o substancias que entrañen peligro de causar daño a las personas, sin permiso de la Autoridad competente. Excepto instrumentos para el desempeño del trabajo, deporte u oficio del portador, o de uso decorativo.
+
+14 XIV 1 a 10
+
+15 Azuzar perros y otros animales con la intención de causar daños o molestias a las personas o sus bienes.
+
+14 XV 1 a 10
+
+16 Cuando por negligencia o descuido de los propietarios o poseedores de perros u otros animales se causen los daños señalados en la fracción anterior.
+
+14 XVI 21 a 30
+
+INFRACCIONES A LA MORAL Y BUENAS COSTUMBRES
+
+1 Dirigirse o asediar a las personas en forma impertinente o mediante frases o ademanes soeces.
+
+15 I 1 a 10
+
+2 El presentar y/o participar en espectáculos en la vía pública cuyo contenido atente contra la moral o las buenas costumbres.
+
+15 II 11 a 20
+
+3 Incitar a menores a cometer faltas en contra de la moral y de las buenas costumbres.
+
+15 III 21 a 30
+
+4 Inducir a menores de edad a cometer faltas en contra de las leyes o reglamentos.
+
+15 IV 21 a 30
+
+5 Desempeñar en estado de embriaguez o bajo los efectos de alguna droga, actividades en las que exista trato directo al público.
+
+15 V 11 a 20
+
+6 Permitir en lugares donde se consuman, expendan y/o vendan bebidas alcohólicas, tales como cantinas y/o depósitos la estancia o permanencia de menores de edad.
+
+15 VI 21 a 30
+
+7 Sostener relaciones sexuales o actos de exhibicionismo en la vía o lugares públicos.
+
+15 VII 11 a 20
+
+8 Ejercer la mendicidad.
+
+15 VIII 1 a 10
+
+9 Ejercer la prostitución en la vía o lugares públicos.
+
+15 IX 11 a 20
+
+10 Faltarle al respeto a los ancianos, niños y mujeres en la vía pública o lugares públicos.
+
+15 X 1 a 10
+
+11 Colocar o exhibir cartulinas o pósters que ofendan al pudor o la moral pública.
+
+15 XI 11 a 20
+
+12 Dormir en la vía o lugares públicos.
+
+15 XII 1 a 10
+
+13 Pernoctar en estado de ebriedad o bajo el influjo de tóxicos, en interiores de vehículos en la vía o sitios públicos.
+
+15 XIII 1 a 10
+
+14 Tratar con excesiva crueldad, abusar de el fin para el que se adquieren, o aprovechar la indefensión de los animales.
+
+15 XIV 21 a 30
+
+15 Exhibir o consultar públicamente, material pornográfico o intervenir en actos de su comercialización o difusión en la vía pública. Los negocios autorizados para manejar este tipo de mercancía, deberán contar con un área reservada a la que no tengan acceso los menores de edad.
+
+15 XV 11 a 20
+
+16 Maltratar los padres o tutores a sus hijos o pupilos, excepto que se trate de medidas correctivas hechas en los términos de ley.
+
+15 XVI 21 a 30
+
+17 Desobedecer o tratar de burlar a la Autoridad que le llame la atención en relación con cualquier aspecto relacionado con el orden y la tranquilidad de la población en general.
+
+15 XVII 1 a 10
+
+18 Deambular o internarse en estado de ebriedad o bajo los efectos de alguna droga o tóxico, en vía o lugares públicos, poniendo en riesgo y peligro la integridad misma y/o la de terceros.
+
+15 XVIII 1 a 10
+
+19 Insultar, ofender o realizar conductas que atenten contra la moral y las buenas costumbres de la población, por parte de personas que realizan actividades de índole económica en cruceros, calles o avenidas de está ciudad, en los que de manera frecuente ofrecen productos o servicios.
+
+15 XIX 1 a 10
+
+INFRACCIONES AL DERECHO DE PROPIEDAD
+
+1 Colocar anuncios de diversiones públicas, propaganda comercial, religiosa o política en edificios públicos, o colocar ésta incumpliendo con las especificaciones emitidas por la Autoridad, o sin el permiso correspondiente en los lugares autorizados.
+
+16 I 1 a 10
+
+2 Dañar, pintar, o manchar los monumentos, estatuas, postes, arbotantes, bardas, calles, parques, jardines, plazas o lugares públicos.
+
+16 II 21 a 30
+
+3 Destruir o apagar las luminarias del alumbrado público.
+
+16 III 21 a 30
+
+4 No remitir a la Autoridad Municipal, los objetos o bienes mostrencos o abandonados.
+
+16 IV 1 a 10
+
+5 Dañar, destruir o apoderarse de señales de tránsito o cualquier otra señal oficial en la vía pública.
+
+16 V 21 a 30
+
+6 Causar daño a las casetas telefónicas públicas, maltratar los buzones o cualquier aparato de uso común colocado en la vía pública.
+
+16 VI 21 a 30
+
+7 Borrar, destruir o pegar cualquier leyenda sobre los nombres y letras con las que estén marcadas las calles del Municipio; rótulos con que se signan las calles, callejones, plazas, y casas destinadas al uso público; así como las indicaciones relativas al tránsito de la población.
+
+16 VII 11 a 30
+
+8 Tirar o desperdiciar el agua.
+
+16 VIII 1 a 10
+
+9 Introducirse a lugares públicos o privados cercados, sin el permiso de la persona autorizada para darlo.
+
+16 IX 11 a 20
+
+10 Reservar, rentar o invadir espacios en la vía pública destinados para el estacionamiento de vehículos, a excepción de los que cuenten con el permiso municipal respectivo.
+
+16 X 1 a 10
+
+INFRACCIONES AL EJERCICIO DEL COMERCIO Y DEL TRABAJO
+
+1 Trabajar en forma habitual como billetero, fijador de propaganda, limpia botas, fotógrafo, vendedor ambulante, filarmónico, cantante ambulante, sin la autorización ni licencia municipal, cuando fuere exigida por la Autoridad o bien, sin sujetarse a las condiciones requeridas para la prestación del servicio.
+
+17 I 1 a 10
+
+2 Colocar sillas para aseo de calzado fuera de los lugares autorizados.
+
+17 II 1 a 10
+
+3 Ejercer actos de comercio sin la autorización de la Autoridad en cementerios, iglesias, monumentos, edificios públicos, o lugares que por la tradición y las costumbres impongan respeto.
+
+17 III 1 a 10
+
+4 Desempeñar cualquier actividad cuando para ello se requiera del permiso o licencia de la Autoridad Municipal y no se cuente con ello; o bien, cuando no se sujete a las condiciones requeridas para la prestación de un servicio.
+
+17 IV 1 a 10
+
+INFRACCIONES CONTRA LA SALUD
+
+1 Arrojar a lugares públicos o terrenos baldíos, animales muertos, escombros, basuras, substancias fétidas o tóxicas.
+
+18 I 11 a 20
+
+2 Realizar necesidades Fisiológicas tales como orinar y/o defecar en lugares públicos o privados sin la autorización del propietario.
+
+18 II 1 a 10
+
+3 Contaminar u obstruir las corrientes de agua de los manantiales, tanques almacenadores, fuentes públicas, acueductos, tuberías, y drenajes pluviales.
+
+18 III 21 a 30
+
+4 Expender comestibles o bebidas en estado insalubre.
+
+18 IV 21 a 30
+
+5 No contar los propietarios, encargados u organizadores con personal médico o de primeros auxilios en espectáculos públicos, de carreras de vehículos, toros, fútbol, etc., en donde puedan producirse accidentes.
+
+18 V 91 a 100
+
+6 Fumar en lugares prohibidos.
+
+18 VI 1 a 10
+
+7 Vender o proporcionar bebidas alcohólicas o tóxicos a menores de edad, en cualquiera de sus modalidades.
+
+18 VII 41 a 50
+
+8 Arrojar en los sistemas de desagüe, animales muertos, escombros, desperdicios, basura, desechos orgánicos, substancias fétidas, flamables, corrosivas, explosivas o similares, sin la autorización correspondiente de la Autoridad Municipal.
+
+18 VIII 21 a 30
+
+9 Realizar fogatas en la vía o lugares públicos que constituyan algún riesgo.
+
+18 IX 21 a 30
+
+INFRACCIONES CONTRA LA ECOLOGÍA
+
+1 La destrucción y maltrato de los árboles, flores y cualquier ornamento que se encuentre en las plazas, parques y cualquier otro tipo de lugares públicos y de propiedad privada.
+
+19 I 21 a 30
+
+2 Permitir por acción u omisión, los dueños de los animales, que éstos beban de las fuentes públicas, así como, que pasten en los jardines y áreas verdes o cualquier otro lugar público, o permitir que los animales de su propiedad causen daños a las áreas verdes y a los lugares públicos en general.
+
+19 II 1 a 10
+
+3 Disponer de flores, frutas, plantas, árboles, o cualquier otro tipo de objetos que pertenezcan al Patrimonio Municipal, sin el permiso de quien tenga la facultad de otorgarlo.
+
+19 III 1 a 10
+
+4 Incinerar desperdicios de hule, llantas, plásticos y similares, así como basura en general cuyo humo cause molestias o trastorno a la ecología.
+
+19 IV 21 a 30
+
+5 Todas aquéllas que estén contempladas en cualquier disposición legal aplicable.
+
+19 V 1 a 10
+
+Todas las sanciones que han sido tabuladas, podrán ser susceptibles de ser aumentadas hasta las 200-doscientas cuotas, a consideración del Juez Calificador, atendiendo a la naturaleza de la infracción cometida, las causas que la produjeron, la capacidad económica, la condición social, educación y reincidencia cometida por el infractor; así también serán susceptibles de la conmutación por Trabajo Comunitario a consideración del Juez Calificador, atendiendo a las circunstancias mencionadas. En el supuesto de que el infractor sea reincidente no procederá la conmutación de la sanción por Trabajo Comunitario.
 
 ###### ARTÍCULO 27.
 
@@ -401,13 +755,17 @@ Los infractores a que se hace referencia en los párrafos anteriores, tendrán l
 
 Si el infractor no paga la multa impuesta, ésta se conmutará por arresto, que en ningún caso excederá de 36-treinta y seis horas.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 29.
 
-Si el infractor paga la multa que le haya sido impuesta, de inmediato será puesto en libertad. Si está compurgando arresto por no haber pagado la multa y posteriormente el infractor la paga, dicha suma le será reducida proporcionalmente a las horas que haya pasado en arresto.
+Si el infractor paga la multa que le haya sido impuesta, de inmediato será puesto en libertad. Si está compurgando arresto por no haber pagado la multa y posteriormente el infractor la paga, dicha suma le será reducida proporcionalmente a las horas que haya pasado en arresto. Si se optara y fuera susceptible la conmutación de la sanción por Trabajo Comunitario se realizara garantizando el pago de la sanción impuesta por el Juez Calificador a través de la Secretaría de Administración y Finanzas municipal, en el entendido que una vez que se acredite el cumplimiento de la sanción determinada en horas de servicio a favor de la comunidad, conmutativa de multa con los mecanismos establecidos en coordinación con la Secretaria de Servicios Públicos municipal, podrá solicitar su devolución, ante la dependencia que por medio de la cuál garantizó el pago.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 30.
 
-Si el Juez Calificador observare la comisión de un ilícito penal, turnará el caso al Agente del Ministerio Público Investigador correspondiente, o al Consejo Tutelar para Menores, poniendo a su disposición a la persona arrestada.
+Si el Juez Calificador observare la comisión de un ilícito penal, turnará el caso al Agente del Ministerio Público Investigador correspondiente, poniendo a su disposición a la persona detenida.
 
 ###### ARTÍCULO 31.
 
@@ -481,7 +839,9 @@ Si las infracciones a que se refiere este ordenamiento y demás normas de carác
 
 Todos los menores de edad que cometan una infracción al presente Reglamento deberán ser puestos a disposición del Juez Calificador en turno, el cual conocerá y resolverá, aplicando la sanción correspondiente conforme al presente Reglamento; debiendo entregar al menor infractor a los padres, tutores o representantes legales, previo el cumplimiento de la sanción impuesta.
 
-En aquellos casos en que los hechos u omisiones sean tipificadas (sic) como delitos previstos por el Código Penal el Juez Calificador deberá remitir al menor infractor al Delegado del Consejo Estatal para Menores y en su ausencia directamente al Consejo.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
+
+En aquellos casos en que los hechos u omisiones sean tipificadas (sic) como delitos previstos por el Código Penal el Juez Calificador deberá remitir al menor infractor a la Autoridad Investigadora Competente.
 
 ### CAPITULO QUINTO. DEL RECURSO DE INCONFORMIDAD
 
@@ -555,10 +915,16 @@ C. TOMÁS GUILLERMO CANDIA VALDIVIEZO
 
 SECRETARIO DEL AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE ENERO DE 2008.
 
 Primero.- Las presentes Reformas y Adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Envíese para su publicación en el Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno.
+
+P.O. 26 DE JULIO DE 2013.
+
+PRIMERO.- Las presentes modificaciones y adiciones de este Reglamento entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Una vez en vigencia las presentes modificaciones y adiciones al presente reglamento, publíquese en la Gaceta Municipal para su difusión y para cumplimiento del Reglamento de la misma, y en el portal electrónico de internet del Municipio de conformidad con lo establecido en el artículo 9 de la ley de Acceso a la Información Pública del Estado de Nuevo León.
