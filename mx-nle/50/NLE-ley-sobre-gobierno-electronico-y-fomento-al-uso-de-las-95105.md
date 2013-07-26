@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-gobierno-electronico-y-fomento-al-uso-de-las-95105"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-04"
-last_updated: "2013-07-04"
+last_updated: "2013-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "NLE"
 ---
 # LEY SOBRE GOBIERNO ELECTRONICO Y FOMENTO AL USO DE LAS TECNOLOGIAS DE LA INFORMACION DEL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JULIO DE 2013 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY SOBRE GOBIERNO ELECTRÓNICO Y FOMENTO AL USO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS CIENTO VEINTE DÍAS NATURALES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE JULIO DE 2013.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 4 de julio de 2013.
 
@@ -743,7 +743,9 @@ Por lo tanto envíese al Ejecutivo del Estado para su promulgación y publicaci�
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, al primer día del mes de junio de 2013.
 
-PRESIDENTE: DIP. LUIS DAVID ORTIZ SALINAS; DIP. SECRETARIO: JUAN MANUEL CAVAZOS BALDERAS; DIP. SECRETARIA: REBECA CLOUTHIER CARRILLO.- Rúbricas.-
+> <small>(F. DE E., P.O. 26 DE JULIO DE 2013)</small>
+
+PRESIDENTE POR MINISTERIO DE LEY: DIP ERNESTO JOSÉ QUINTANILLA VILLARREAL; DIP. SECRETARIO: JUAN MANUEL CAVAZOS BALDERAS; DIP. SECRETARIA: REBECA CLOUTHIER CARRILLO.- Rúbricas.-
 
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su capital, al día 04 del mes de junio del año 2013.
 
