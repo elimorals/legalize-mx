@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-finanzas-y-84060"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-26"
-last_updated: "2012-07-21"
+last_updated: "2013-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 26 de noviembre de 2011.
 
@@ -213,9 +213,17 @@ XXVIII.- Autorizar las políticas para el desarrollo permanente del gobierno ele
 
 XXIX.- Suscribir los documentos relativos al ejercicio de sus atribuciones así como los que por delegación o suplencia le correspondan;
 
-XXX.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le correspondan; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
 
-XXXI.- Las demás que con ese carácter le confiera el Gobernador o le faculten las disposiciones legales y administrativas y que no estén de manera expresa señaladas en este artículo.
+XXX.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le correspondan;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+
+XXXI.- Aplicar los beneficios que en materia fiscal y administrativa se establezcan de forma general en las disposiciones legales correspondientes; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2013)</small>
+
+XXXII.- Las demás que con ese carácter le confiera el Gobernador o le faculten las disposiciones legales y administrativas y que no estén de manera expresa señaladas en este artículo.
 
 ### CAPÍTULO TERCERO. DE LAS UNIDADES DE APOYO DEL SECRETARIO
 
@@ -641,6 +649,10 @@ XII.- Revisar las declaraciones y recibos de pago de contribuciones y aprovecham
 
 XIII.- Recibir, verificar y procesar la información de la recaudación depositada por las Receptorías de Rentas, instituciones de crédito y demás establecimientos autorizados; a efecto de cuantificarla, conciliarla, y detectar en su caso, las posibles diferencias;
 
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2013)</small>
+
+XIII BIS.- Ejercer en cualquier momento y de manera directa cualquiera de las facultades encomendadas a las Receptorías de Rentas en este Reglamento así como en otras disposiciones legales;
+
 XIV.- Autorizar las solicitudes de pago de créditos fiscales de manera diferida o en parcialidades, con garantía del interés fiscal;
 
 XV.- Autorizar las solicitudes de reconocimiento de créditos estatales o federales coordinados en contra del Estado y revocar dichas autorizaciones en términos de las leyes estatales y federales aplicables, para efectos de su compensación;
@@ -877,9 +889,29 @@ c).- Cuando se haga uso del pago en parcialidades sin tener derecho a ello, o si
 
 d).- Por los cheques recibidos para el pago de contribuciones que sean presentados en tiempo y no sean pagados por las instituciones bancarias.
 
-X.- Ordenar y llevar a cabo el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales y sus accesorios a cargo de los contribuyentes, responsables solidarios y demás obligados, incluyendo el embargo de cuentas bancarias y de inversiones, derivados de la aplicación de las leyes fiscales del Estado y de los convenios de coordinación y de colaboración administrativa, celebrados entre el Gobierno del Estado de Colima y los gobiernos federal y municipales, así como las garantías constituidas para asegurar el interés fiscal, para garantizar los créditos fiscales y otras obligaciones distintas a las fiscales; enajenar fuera de remate bienes embargados, expedir el documento que ampare la enajenación de los bienes rematados; proceder a la ampliación del embargo en otros bienes del contribuyente cuando la autoridad estime que los bienes embargados son insuficientes para cubrir los créditos fiscales o cuando la garantía del interés fiscal resulte insuficiente; y, declarar el abandono a favor del fisco, de los bienes y cantidades de dinero no reclamados por los contribuyentes o por los responsables solidarios;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
 
-XI.- Solicitar a las instituciones bancarias, así como a las instituciones y organizaciones auxiliares del crédito, que ejecuten el embargo o aseguramiento de cuentas bancarias y de inversiones a nombre de los contribuyentes o de los responsables solidarios y solicitar su levantamiento cuando así proceda;
+X.- Ordenar y llevar a cabo el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales y sus accesorios a cargo de los contribuyentes, responsables solidarios y demás obligados, en términos de las leyes fiscales del Estado, así como de las leyes fiscales federales y municipales, de conformidad con los convenios de coordinación y de colaboración administrativa, celebrados entre el Gobierno del Estado de Colima y los gobiernos federal y municipal, incluyendo el embargo o aseguramiento de depósitos en cuentas bancarias, de inversiones o cualquier otro depósito, en moneda nacional o extranjera, que se realice en cualquier tipo de cuenta que tengan a su nombre los contribuyentes, responsables solidarios y demás obligados en las entidades financieras, así como su inmovilización, conservación y la transferencia de los recursos financieros correspondientes;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2013)</small>
+
+X BIS.- Hacer efectivas las garantías constituidas para asegurar el interés fiscal, inclusive las fianzas otorgadas para garantizar los créditos fiscales respecto de los cuales ejerza el procedimiento administrativo de ejecución y otras obligaciones distintas a las fiscales;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2013)</small>
+
+X BIS 1.- Enajenar dentro o fuera de remate bienes y negociaciones embargados, así como expedir el documento que ampare la enajenación de los mismos;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2013)</small>
+
+X BIS 2.- Ordenar y realizar la ampliación del embargo en otros bienes de los contribuyentes, responsables solidarios y demás obligados, cuando la autoridad estime que los bienes embargados son insuficientes para cubrir los créditos fiscales o cuando la garantía del interés fiscal resulte insuficiente;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2013)</small>
+
+X BIS 3.- Declarar el abandono a favor del fisco, de los bienes y cantidades de dinero no reclamados por los contribuyentes, responsables solidarios y demás obligados, en los términos de las leyes fiscales respectivas;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+
+XI.- Solicitar a las instituciones bancarias, así como a las instituciones y organizaciones auxiliares del crédito, que ejecuten el embargo o aseguramiento de depósitos en cuentas bancarias, de inversión o cualquier otro depósito en moneda nacional o extranjera, que se realice en cualquier tipo de cuenta que tengan a su nombre los contribuyentes, responsables solidarios y demás obligados en las entidades financieras, en términos de las disposiciones legales correspondientes, así como solicitar su inmovilización, conservación, transferencia de los recursos financieros correspondientes y su levantamiento cuando así proceda;
 
 XII.- Fijar los honorarios del depositario interventor de negociaciones o administrador de bienes raíces;
 
@@ -899,7 +931,9 @@ XIX.- Nombrar y remover a los depositarios de bienes o negociaciones embargados,
 
 XX.- Notificar toda clase de actos administrativos y resoluciones de carácter fiscal emitidos por las autoridades fiscales de la Secretaría en el ejercicio de las facultades otorgadas por las leyes fiscales del Estado y las que se deriven de la aplicación de los convenios de coordinación o de colaboración, respectivos;
 
-XXI.- Solicitar a los contribuyentes, responsables solidarios o terceros con ellos relacionados, la documentación, datos e informes que sean necesarios para el ejercicio de sus atribuciones, así como recabar de los servidores públicos y de fedatarios públicos los informes y datos que requieran en el ejercicio de sus facultades;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+
+XXI.- Requerir a los contribuyentes, responsables solidarios, terceros con ellos relacionados, así como a las instituciones y organizaciones auxiliares del crédito, la documentación, datos e informes que sean necesarios para el ejercicio de sus atribuciones, así como recabar de los servidores públicos y de fedatarios públicos la documentación, datos e informes que requieran en el ejercicio de sus facultades;
 
 XXII.- Ejercer la vigilancia que demande el cumplimiento de las leyes fiscales, reglamentos, instructivos, circulares y demás disposiciones aplicables;
 
@@ -943,9 +977,17 @@ XLI.- Vigilar que el personal adscrito a las Receptorías de Rentas cumpla con l
 
 XLII.- Levantar Actas Administrativas con la intervención de la Dirección General Jurídica, relativas a los asuntos de su competencia;
 
-XLIII.- Comunicar a la Dirección de Recaudación los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales, o responsabilidad de los servidores públicos, a efecto de que, siguiendo los cauces institucionales, se hagan del conocimiento de la Dirección General Jurídica; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
 
-XLIV.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, acuerdos, circulares o las que expresa y legalmente le señalen el Director General de Ingresos y el Director de Recaudación.
+XLIII.- Comunicar a la Dirección de Recaudación los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales, o responsabilidad de los servidores públicos, a efecto de que, siguiendo los cauces institucionales, se hagan del conocimiento de la Dirección General Jurídica;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+
+XLIV.- Proporcionar a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público, información relativa a los créditos fiscales firmes de los contribuyentes, en el ámbito de su competencia; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2013)</small>
+
+XLV.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, acuerdos, circulares o las que expresa y legalmente le señalen el Director General de Ingresos y el Director de Recaudación.
 
 ###### Artículo 25.
 
@@ -1924,6 +1966,12 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE JULIO DE 2012.
+
+###### ARTICULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE JULIO DE 2013
 
 ###### ARTICULO ÚNICO.
 
