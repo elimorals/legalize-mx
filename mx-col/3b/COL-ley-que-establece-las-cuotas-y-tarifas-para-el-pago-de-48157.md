@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48157"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2009-05-09"
+last_updated: "2013-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE MINATITLAN
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS, PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE MINATITLAN
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS, PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE MINATITLÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -93,7 +93,7 @@ Por el servicio comercial de agua potable se pagarán mensualmente las siguiente
 
 I.- CUOTA FIJA:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 a) Los comercios que a continuación se mencionan
 
@@ -103,7 +103,7 @@ pagarán la cuota de 0.809 SM
 
 Abarrotes con ventas de bebidas alcohólicas; agencia de viajes; almacenes de ropa; boutiques; bufetes, Consultorios, despachos y oficinas; carpinterías en pequeño; cerrajerías; venta de dulces; editoriales y/o venta de libros; venta de periódicos y revistas; estacionamientos; estanquillos; farmacias; ferreterías en pequeño; florerías; foto estudios; funerarias; fabricación y/o venta de huaraches; imprentas, Jugueterías; licorerías; material para construcción (ventas); mini súper; misceláneas; panaderías (Industria y expendio); papelerías; pastelerías; peluquerías; pintura y laminado de vehículos; expendio de pintura; refaccionarías, relojerías; reparación de aparatos electrodomésticos; reparación de llantas; sastrerías; servicio de transporte y flete (sin lavado); fábrica y venta de sombreros; tapicerías; taquerías; talleres; venta de telas; templos; tiendas de regalos; tiendas naturistas; tiendas de semillas y cereales; tlapalerías; alquiler de videocasetes; videojuegos; vidrierías; y zapaterías.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 b) Los comercios que a continuación se mencionan
 
@@ -113,7 +113,7 @@ pagarán la cuota de 1.050 SM
 
 Academias y escuelas; alquiler de loza, muebles y manteles; Agencia de autos; bares; salones de belleza; billares, bodegas de frutas y verduras; Bodega de almacenamiento; Carnicerías, carpinterías en mayor escala, cenadurías, clubes sociales, sin billar ni restaurante; estacionamiento con caseta de cobro; fábrica de dulces; ferreterías con oficinas; fonda y cocina económicas, lavado de muebles, neverías, peleterías, salas de velación, servicios auxiliares de diagnóstico, servicio de taxis, talleres de artesanías o herrería, tenerías o curtidoras, tiendas de autoservicio; y vulcanizadoras y/o vitalizadoras de llantas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 c) Los comercios que a continuación se mencionan se
 
@@ -315,7 +315,7 @@ I.- 4 por ciento de descuento a los usuarios de cuota fija que paguen el servici
 
 II.- Los usuarios que acrediten ser mexicanos y tener la calidad de Pensionados, Jubilados y Discapacitados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, para lo cual deberán exhibir a el Organismo previamente los siguientes documentos:
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2006)</small>
 
 III.- 50 por ciento de descuentos a los usuarios mayores de 60 años que se hará valido únicamente a la casa donde viven y que comprueben que el contrato de agua esté a su nombre.
 
@@ -381,11 +381,19 @@ TRANSITORIOS:
 
 El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Para el ejercicio fiscal 2009, el beneficio a que se refiere el artículo 17 de esta Ley, se amplía hasta el 31 de mayo del citado año, además de no generar los recargos correspondientes en dicha prórroga.
+Por concepto de estímulo fiscal, en el ejercicio fiscal 2013, a los contribuyentes que paguen los derechos que resulte de aplicar las cuotas y tarifas por los conceptos de derechos por los servicios de agua potable, alcantarillado y saneamiento, se les condonan los recargos generados y las multas impuestas por falta de pago oportuno por los conceptos mencionados, en el ejercicio 2013 y anteriores, en los periodos y porcentajes que a continuación se establecen:
+
+PERIODO JULIO NOVIEMBRE Y
+
+A OCTUBRE DICIEMBRE
+
+BASE 60% 50%
+
+Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y el Organismo Operador Municipal celebren convenio para pago en parcialidades.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -399,7 +407,7 @@ Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mi
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE ABRIL DE 2006.
 
@@ -426,6 +434,12 @@ P.O. 7 DE MARZO DE 2009.
 P.O. 9 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El presente Decreto no les será aplicable a quienes con anterioridad a éste, hayan cubierto los pagos de los derechos por concepto de agua potable, alcantarillado y saneamiento y, en su caso, los recargos y multas generados.
 
 ###### ARTICULO UNICO.
 
