@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2013-06-12"
+last_updated: "2013-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE PROCEDIMIENTOS PENALES DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 27 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, UNA VEZ QUE ENTRE EN VIGOR, EN LAS MODALIDADES Y FECHAS DISPUESTAS EN LOS ARTÍCULOS PRIMERO, SEGUNDO Y TERCERO DE DICHA LEY.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -3060,3 +3062,33 @@ P.O. 12 DE JUNIO DE 2013.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 27 DE JULIO DE 2013.
+
+Artículo Primero. La presente Ley iniciará su vigencia previa publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", en las modalidades y fechas dispuestas en los siguientes artículos.
+
+Artículo Segundo. La implementación del sistema de justicia penal acusatorio en el Estado de Querétaro será gradual y regional; por lo tanto, la vigencia y aplicación de este Ordenamiento será progresiva, conforme a las siguientes fechas:
+
+a) El 31 de marzo de 2014: en los Distritos Judiciales de San Juan del Río, que comprende los Municipios de San Juan del Río, Tequisquiapan y Pedro Escobedo; y Amealco de Bonfil, integrado por los Municipios de Amealco de Bonfil y Huimilpan.
+
+b) El 29 de septiembre de 2014: en los Distritos Judiciales de Cadereyta de Montes, que comprende los Municipios de Cadereyta de Montes, Ezequiel Montes y San Joaquín; Tolimán, que abarca los Municipios de Tolimán, Colón y Peñamiller; y Jalpan de Serra, que está integrado por los Municipios de Jalpan de Serra, Pinal de Amoles, Landa de Matamoros y Arroyo Seco.
+
+c) El 30 de marzo de 2015: en el Distrito Judicial de Querétaro, que comprende los Municipios de Querétaro, El Marqués y Corregidora.
+
+Artículo Tercero. Las disposiciones de esta Ley, se aplicarán a hechos que ocurran a partir de las cero horas de las fechas señaladas en el artículo anterior, en los territorios de los distritos judiciales que en el mismo se precisan.
+
+Artículo Cuarto. Durante la vacatio legis, deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, Ministerio Público, policía, defensoría pública, así como todos aquellos ordenamientos y disposiciones que resulten necesarias para la operación e instrumentación armonizada del nuevo sistema de justicia penal acusatorio.
+
+Artículo Quinto. El Código de Procedimientos Penales para el Estado de Querétaro actualmente en vigor, quedará abrogado a la entrada en vigor del presente Ordenamiento, pero seguirá rigiendo en lo conducente conforme a la gradualidad establecida, para aplicarse en los procedimientos iniciados durante su vigencia y hasta entre tanto queden concluidos.
+
+Artículo Sexto. Quedan derogados, en los términos señalados en los presentes artículos transitorios, las disposiciones legales de igual o menor jerarquía de la Entidad, que se opongan a las del presente Ordenamiento.
+
+Artículo Séptimo. Los procedimientos penales iniciados con anterioridad a la entrada en vigor del presente Ordenamiento, se continuarán tramitando hasta su terminación conforme a las disposiciones procesales vigentes al momento de la comisión de los hechos.
+
+Artículo Octavo. No procederá la acumulación de procesos sobre hechos previstos en la ley como delitos, cuando alguno de ellos esté sometido al presente ordenamiento y otro al del Código de Procedimientos Penales abrogado.
+
+Artículo Noveno. Las diligencias o actos procedimentales que se realicen en algún lugar del Estado de Querétaro, en que conforme a la gradualidad establecida en el Artículo Segundo Transitorio, aún no opere el sistema de justicia penal acusatorio, deberán desahogarse conforme a las disposiciones de la presente Ley, si derivan de un procedimiento donde ya se aplique éste.
+
+Artículo Décimo. Cuando un asunto se inicie en una región y se hubiesen realizado diligencias o actos procedimentales en ésta, se seguirá conforme al ordenamiento que se aplicó, independientemente que por razón de competencia corresponda a otra región cuyo sistema procesal penal sea diferente.
+
+Artículo Decimoprimero. En los casos en que el asunto provenga de otra entidad federativa, se substanciará conforme a las reglas del presente Ordenamiento o del Código de Procedimientos Penales para el Estado de Querétaro que se abroga, según el sistema en que se haya tramitado en la entidad de origen.
