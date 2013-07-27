@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2013-06-22"
+last_updated: "2013-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1555,9 +1555,17 @@ d).- (DEROGADO, P.O. 5 DE ENERO DE 1999)
 
 e).- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2000)
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
 
-Por los conceptos consignados en los incisos a), b) y c) a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, únicamente para el caso de vehículos de uso particular.
+f).- Automovilistas y motociclistas 12
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+
+g).- Choferes clase 1 y motociclistas 11
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+
+Por los conceptos consignados en los incisos a), b), c), f) y g) a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, únicamente para el caso de vehículos de uso particular.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -5386,3 +5394,13 @@ El presente Decreto entrará en vigor el día de su aprobación y deberá public
 P.O. 22 DE JUNIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La Dirección General de Transporte y de la Seguridad Vial tendrá un término de 120 días hábiles a partir de la publicación del presente Decreto para la prestación de los servicios que se adicionan en las fracciones IV y V, del artículo 32, de la Ley del Transporte y de la Seguridad Vial del Estado de Colima.
+
+TERCERO.- En plano respeto a su esfera de competencia, los diez Ayuntamientos de la entidad, contarán con un término de 6 meses para que en uso de sus atribuciones adecúen sus reglamentos municipales de tránsito y vialidad en términos del presente Decreto a partir de su vigencia.
+
+CUARTO.- Para efectos del cumplimiento del presente Decreto, con respecto a la reforma del primer párrafo del artículo 102 de la Ley del Transporte y de la Seguridad Vial del Estado de Colima, sólo las concesiones del servicio de transporte público que se otorguen a partir de la vigencia de este Decreto, serán por una temporalidad inicial de diez años contados a partir de su otorgamiento, cumpliendo con la renovación de la misma cada cinco años.
