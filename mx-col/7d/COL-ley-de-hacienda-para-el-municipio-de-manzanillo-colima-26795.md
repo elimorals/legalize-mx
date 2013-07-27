@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2013-05-04"
+last_updated: "2013-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -3281,11 +3281,17 @@ IV. Autobuses foráneos, por empresa y cajón, para un vehículo anualmente 7.08
 
 V. Por el uso de la vía pública de puestos fijos, semifijos o ambulantes que se instalen en la misma, diariamente por metro lineal de frente:
 
-a) Venta de productos de canasta básica 0.11
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
 
-b) Venta de productos no básicos 0.13
+a) Venta de productos de canastas básica 0.05
 
-c) Venta de productos suntuarios 0.15
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+
+b) Venta de productos no básicos 0.06
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+
+c) Venta de productos suntuarios 0.07
 
 Por los conceptos a que se refiere esta fracción, las personas mayores de 60 años y los tianguistas, pagarán el 50 por ciento de la tarifa aplicable.
 
@@ -3295,7 +3301,9 @@ VI. Las personas físicas o morales que instalen o tengan instalados aparatos de
 
 VII. Por el uso y estacionamiento particular o comercial en la vía pública, por metro lineal, mensualmente 1.50
 
-VIII. Por el uso de la vía pública para negocios establecidos, por metro lineal, mensualmente 1.00 a 2.00
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+
+VIII. Por el uso de la vía pública para negocios establecidos, por metro lineal, mensualmente 0.50 a 1.00
 
 IX. Por el uso de la vía pública (materiales para construcción, escombro cascajo, grava, arena y piedra), por metro lineal, diariamente 0.50 a 2.00
 
@@ -4250,3 +4258,7 @@ P.O. 27 DE ABRIL DE 2013.
 P.O. 4 DE MAYO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE JULIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
