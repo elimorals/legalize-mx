@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-de-pensiones-del-estado-de-jalisco-71070"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-19"
-last_updated: "2009-11-19"
+last_updated: "2013-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 19 de noviembre de 2009.
 
@@ -143,11 +143,9 @@ Quien haga el pago de aportaciones o retenciones deberá obtener del Instituto l
 
 También podrán determinarse otros medios de pago y documentación del mismo, conforme a las bases que de forma general establezca el Consejo Directivo.
 
-La falta de pago de aportaciones, retenciones, actualizaciones o recargos dará lugar a:
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
 
-I. La ejecución forzosa mediante retención en aportaciones, participaciones y cualesquiera otros recursos líquidos, en el caso de organismos públicos descentralizados y gobiernos municipales, que se efectuará a petición del Instituto y se aplicará por la Secretaría de Finanzas del Gobierno del Estado; y
-
-II. La demanda ante el Tribunal de lo Administrativo, en el caso de las dependencias centralizadas y Poderes Legislativo y Judicial del Estado de Jalisco; para que mediante sentencia ejecutoria se ordene el pago forzoso de los créditos a favor del Instituto.
+La falta de pago de aportaciones, retenciones, actualizaciones o recargos dará lugar a la ejecución forzosa mediante retención en aportaciones, participaciones y cualesquiera otros recursos líquidos, que se efectuará a petición del Instituto y se aplicará por la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado.
 
 ###### Artículo 11.
 
@@ -1687,21 +1685,23 @@ El incumplimiento de las obligaciones administrativas derivadas de esta Ley y su
 
 ### Capítulo II. De los delitos
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+
 ###### Artículo 167.
 
-Quienes obtengan del Instituto, mediante el engaño o el aprovechamiento del error, para sí o para otro, en efectivo o en especie, una o más prestaciones a las que no tengan derecho, serán denunciados conforme a lo dispuesto por el Código Penal del Estado, equiparándose su conducta al fraude genérico.
+Los delitos en materia de seguridad social de los servidores públicos son los establecidos en el Código Penal para el Estado Libre y Soberano de Jalisco.
 
 ###### Artículo 168.
 
-Los funcionarios de las entidades públicas patronales que participen con los afiliados, pensionados y beneficiarios, con la finalidad de obtener del Instituto, mediante el engaño o el aprovechamiento del error, para sí o para otro, en efectivo o en especie, una o más prestaciones a las que no tengan derecho, serán denunciados conforme a lo dispuesto por el Código Penal del Estado, equiparándose su conducta al fraude genérico.
+(DEROGADO, P.O. 27 DE JULIO DE 2013)
 
 ###### Artículo 169.
 
-Quienes proporcionen o presenten documentos falsos ante la Institución con la finalidad de obtener, en efectivo o en especie, una o más prestaciones que en Derecho no les correspondan, serán denunciados conforme a lo dispuesto por el Código Penal del Estado, equiparándose su conducta al delito de falsificación.
+(DEROGADO, P.O. 27 DE JULIO DE 2013)
 
 ###### Artículo 170.
 
-Quienes no se conduzcan con verdad, mintiendo de manera intencional sobre su antigüedad de servicio o de cotización ante el Instituto, y ante cualquier otra autoridad administrativa o judicial, serán denunciados conforme a lo dispuesto por el Código Penal del Estado, equiparándose su conducta al delito de falsedad en declaraciones e informes dados a una autoridad.
+(DEROGADO, P.O. 27 DE JULIO DE 2013)
 
 ## Título Séptimo. Del Sistema Estatal de Ahorro para el Retiro
 
@@ -1818,3 +1818,11 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE JULIO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los delitos cometidos antes de la entrada en vigor del presente decreto, en los términos de los artículos 167, 168, 169 y 170 de la Ley del Instituto de Pensiones del Estado de Jalisco, se perseguirán, juzgarán y resolverán conforme a lo dispuesto por dichos artículos hasta antes del inicio de la vigencia de este decreto.
