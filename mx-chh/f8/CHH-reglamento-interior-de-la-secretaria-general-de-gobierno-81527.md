@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-general-de-gobierno-81527"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-25"
-last_updated: "2012-02-04"
+last_updated: "2013-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 25 de mayo de 2011.
 
@@ -83,9 +83,17 @@ c) Departamento de Asuntos Religiosos.
 
 B) Dirección de Transporte:
 
-a) Departamento de Transporte; y
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
 
-b) Departamento de Transporte en Ciudad Juárez.
+a) Departamento de Transporte;
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+
+b) Departamento de Transporte en Ciudad Juárez, y
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+
+c) Departamento de Transporte Integrado.
 
 IV. Direcciones y Departamentos dependientes de la Dirección General de Desarrollo Municipal:
 
@@ -523,7 +531,9 @@ X. Proponer al Director el nombramiento y la remoción de los inspectores de tra
 
 XI. Las demás funciones que le señalen las disposiciones legales y reglamentarias y las que le asigne el Director de Transporte.
 
-Lo anterior, respetando el ámbito de competencia que se establece en el artículo siguiente.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+
+Lo anterior, respetando el ámbito de competencia que se establece en los artículos 20 y 20 Bis siguientes.
 
 ###### ARTÍCULO 20.
 
@@ -532,6 +542,74 @@ Compete al Departamento de Transporte en Ciudad Juárez:
 I. Ejercer las atribuciones conferidas en el numeral anterior, dentro del ámbito del Distrito Bravos, que abarca los Municipios de Juárez, Ahumada, Guadalupe y Praxedis G. Guerrero; y
 
 II. Las demás funciones que le señalen las disposiciones legales y reglamentarias y las que le asigne el Director de Transporte.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+
+ARTÍCULO 20 BIS.- Corresponde al Departamento de Transporte Integrado ejercer las siguientes atribuciones, en el ámbito de competencia de la Ciudad de Chihuahua:
+
+I. Vigilar y coordinar la aplicación de las disposiciones establecidas en la Ley de Transporte y sus Vías de Comunicación, por lo que respecta a la modalidad de transporte colectivo de pasajeros.
+
+II. Tramitar las solicitudes de concesiones que prevén los ordenamientos legales y las disposiciones administrativas en la esfera de sus facultades, y opinar respecto de su autorización, prórroga o revocación.
+
+III. Planear y regular la prestación del servicio de transporte integrado, estableciendo las reglas de operación y normas de calidad a que deberá sujetarse la empresa operadora, y vigilar su cumplimiento.
+
+IV. Consultar y analizar la base de datos del sistema de recaudo y control, para fines estadísticos y de toma de decisiones, en alcance a lo dispuesto por la Ley de Transporte y sus Vías de Comunicación y demás disposiciones legales y reglamentarias aplicables.
+
+V. Operar los sistemas de programación y supervisión de rutas y de video-vigilancia, a través del Centro de Mando y Control.
+
+VI. Efectuar estudios y proyectos para la creación, ampliación, modificación o supresión de rutas, itinerarios y frecuencias de paso, a fin de que la cobertura y calidad del servicio respondan a la demanda de los usuarios, y presentar al Director de Transporte las propuestas.
+
+VII. Inspeccionar la operación y prestación del servicio, así como determinar y aplicar las infracciones y sanciones que correspondan conforme a la Ley de Transporte y sus Vías de Comunicación y demás disposiciones relativas.
+
+VIII. Verificar que la empresa operadora otorgue a los usuarios el seguro del viajero, para proteger su integridad física durante los recorridos por las rutas autorizadas.
+
+IX. Atender las quejas y sugerencias de los usuarios respecto de la calidad, oportunidad y pertinencia del servicio, hacerlas del conocimiento de la empresa operadora y darles seguimiento.
+
+X. Proponer al Director de Transporte las tarifas del servicio, para su análisis y revisión por parte del Consejo Consultivo, con base en los procedimientos y criterios técnicos establecidos.
+
+XI. Instrumentar indicadores y estadísticas en materia de transporte público integrado, que permitan apoyar la toma de decisiones para un mejor servicio.
+
+XII. Formular proyectos para la habilitación de nuevos corredores y rutas del sistema integrado de transporte, con el apoyo y participación de la Secretaría de Comunicaciones y Obras Públicas, la de Desarrollo Urbano y Ecología y del Gobierno Municipal.
+
+XIII. Cuidar que se preserven en buen estado la tecnología y los dispositivos que permiten la conectividad y funcionamiento de los sistemas automatizados de recaudo y control, internet, video-vigilancia, monitoreo de autobuses, sincronización de semáforos y de acceso de usuarios a estaciones, entre otros.
+
+XIV. Inspeccionar que las estaciones intermodales operen como terminales de trasbordo, donde se realicen transferencias de las rutas alimentadoras a la troncal y viceversa, con el fin de optimizar la prestación del servicio y sustentar la rentabilidad del sistema de transporte.
+
+XV. Proponer gestiones ante la instancia municipal para la instalación de alumbrado público, pavimentación de calles e introducción de servicios básicos, en las vías públicas alternas a las rutas del transporte, a fin de garantizar seguridad vial a los conductores y peatones y permitir el tránsito rápido de autobuses.
+
+XVI. Plantear la celebración de convenios con las autoridades estatales y municipales, para la vigilancia de las rutas de transporte a través de patrullajes específicos, con el fin de proteger la integridad de las personas y resguardar la infraestructura y el equipo de estaciones y terminales.
+
+XVII. Promover, por los conductos establecidos, que la autoridad municipal acondicione paraderos, banquetas, accesos y alumbrado público en las rutas alimentadoras, para que el usuario pueda realizar un abordaje seguro.
+
+XVIII. Vigilar que los autobuses de las rutas alimentadoras cuenten con un sistema automatizado de monitoreo y localización, para tener el control de su ruta, frecuencias de paso y velocidad.
+
+XIX. Impulsar que se realicen adecuaciones en la infraestructura urbana, orientadas a que las personas con discapacidad puedan abordar en igualdad de condiciones el servicio de transporte.
+
+XX. Vigilar que se mantengan en condiciones óptimas de funcionalidad las terminales y estaciones, incluyendo las que estén a cargo de otras instancias de gobierno o de particulares, garantizando que se respete en todo momento la imagen institucional del sistema integrado de transporte.
+
+XXI. Otorgar permisos para colocar publicidad en las instalaciones del servicio de transporte, con apego a la norma aplicable.
+
+XXII. Procesar estadísticas que permitan determinar indicadores para evaluar la gestión de la empresa prestadora del servicio de transporte, en sus aspectos operativos y administrativos.
+
+XXIII. Definir estrategias para prevenir y controlar las emisiones contaminantes provenientes del servicio de transporte, en colaboración con la Secretaría de Desarrollo Urbano y Ecología del Gobierno del Estado y la autoridad municipal.
+
+XXIV. Proponer la celebración de convenios cuyo objetivo sea la participación, colaboración o coordinación con dependencias y entidades federales, estatales o municipales, fideicomisos públicos o privados y los sectores social y privado, en el marco de la implementación y operación del sistema de transporte colectivo, tendientes a mejorar la prestación del servicio.
+
+XXV. Coadyuvar en la administración y el cuidado de los bienes y toda clase de activos que estén afectos al sistema de transporte integrado, de conformidad con lo que determinen las leyes y reglamentos de la materia, así como los convenios de coordinación que al efecto se celebren.
+
+XXVI. Garantizar que los adultos mayores, personas con discapacidad, pensionados y jubilados, estudiantes y personas de los pueblos indígenas del Estado, gocen de la tarifa preferencial que la Ley establece.
+
+XXVII. Solicitar, por conducto de la instancia correspondiente, la entrega en uso o destino de los predios y vías públicas reservados a estaciones de abordaje y carriles confinados, el espacio que ocupa la infraestructura subterránea y, en general, las áreas públicas que estén vinculadas directamente al sistema de transporte integrado, en los términos de los convenios respectivos.
+
+XXVIII. Realizar periódicamente la inspección técnica de las vías de comunicación y de la flota del sistema de transporte, debiendo la empresa operadora proporcionar a los inspectores los informes y datos que sean necesarios para su cometido.
+
+XXIX. Supervisar que las estaciones y terminales cuenten con la seguridad necesaria para garantizar la integridad física de los usuarios y el resguardo del equipo tecnológico, y que se proporcione la limpieza y el mantenimiento requeridos para conservarlas en óptimas condiciones de uso.
+
+XXX. Atender a los representantes de los sindicatos relacionados con el transporte colectivo integrado, en asuntos inherentes a la prestación del servicio.
+
+XXXI. Proponer al Director de Transporte el nombramiento y la remoción de los inspectores de transporte.
+
+XXXII. Las demás funciones que le señalen las disposiciones legales y reglamentarias y le asigne el Director de Transporte.
 
 ## TÍTULO QUINTO. DE LA DIRECCIÓN GENERAL DE DESARROLLO MUNICIPAL
 
@@ -1264,3 +1342,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rú
 P.O. 4 DE FEBRERO DE 2012
 
 ÚNICO: El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 2013.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas y reglamentarias en lo que se opongan al presente Acuerdo, y las cuestiones no previstas en el mismo serán resueltas por el Secretario General de Gobierno.
