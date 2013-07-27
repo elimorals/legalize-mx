@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2012-11-20"
+last_updated: "2013-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -75,11 +75,11 @@ II.- Laica, por lo tanto se mantendrá por completo ajena a cualquier doctrina r
 
 III.- La educación que impartan el Estado y sus organismos descentralizados es un servicio público.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 5o.
 
-La educación preescolar, primaria y secundaria podrá cursarse tanto en las escuelas oficiales como en las particulares que para tal efecto existan y donde se cumplan los requisitos básicos establecidos en la legislación y demás disposiciones generales.
+La educación preescolar, primaria, secundaria y media superior podrá cursarse tanto en las escuelas oficiales como en las particulares que para tal efecto existan y donde se cumplan los requisitos básicos establecidos en la legislación y demás disposiciones generales.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -147,17 +147,21 @@ XVII.- Impulsar la educación para la paz y la convivencia ciudadana a través d
 
 XVIII.- Fomentar el desarrollo de habilidades para afrontar los casos de emergencia que se desprendan de los fenómenos destructivos de origen natural o aquellos generados por la actividad humana;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JULIO DE 2013)</small>
 
 XIX.- Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adicciones que afecten la salud física y mental del individuo y que dañen las estructuras sociales;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
 
-XX.- Fomentar la cultura de transparencia y acceso a la información pública, con la finalidad de propiciar el ejercicio de un derecho fundamental y consolidar el avance democrático en el estado de Jalisco, y
+XX.- Fomentar la cultura de transparencia y acceso a la información pública, con la finalidad de propiciar el ejercicio de un derecho fundamental y consolidar el avance democrático en el estado de Jalisco;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
 
-XXI.- Divulgar el desarrollo económico, cultural y social de las diversas regiones del estado, en particular en aquellas regiones donde el grado de migración social es alto o muy alto, fomentando la concientización del estudiante como parte de una sociedad jalisciense en constante crecimiento, buscando generar un sentido de pertenencia y confianza en el estado.
+XXI.- Divulgar el desarrollo económico, cultural y social de las diversas regiones del estado, en particular en aquellas regiones donde el grado de migración social es alto o muy alto, fomentando la concientización del estudiante como parte de una sociedad jalisciense en constante crecimiento, buscando generar un sentido de pertenencia y confianza en el estado, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2013)</small>
+
+XXII.- Promover el conocimiento, así como la adecuada, responsable y segura utilización de las nuevas tecnologías de la información, ponderando y difundiendo, en conjunto con los padres de familia, los alcances del derecho a la protección de los datos personales.
 
 ###### ARTICULO 8o.
 
@@ -1349,9 +1353,9 @@ VI.- Opinar acerca de las contraprestaciones que fijen las escuelas particulares
 
 Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2000)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
 
-(sic) Hacer que sus hijos o pupilos menores de edad reciban educación primaria, secundaria y educación media superior;
+I. Hacer que sus hijos o pupilos menores de edad reciban educación preescolar, primaria, secundaria y media superior;
 
 II.- Apoyar el proceso educativo de sus hijos o pupilos;
 
@@ -2334,3 +2338,13 @@ CUARTO. El presente decreto aplicará para los maestros que ingresen a partir de
 P.O. 20 DE NOVIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE JULIO DE 2013.
+
+DECRETO NÚMERO 24432/LX/13, QUE REFORMA LOS ARTÍCULOS 5 Y 126 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE JULIO DE 2013.
+
+DECRETO NÚMERO 24449/LX/13, QUE REFORMA EL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
