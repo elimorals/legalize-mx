@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2012-09-15"
+last_updated: "2013-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -177,7 +177,7 @@ En todo caso, el nombre de los Diputados que no concurran a las sesiones, se har
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
 
-Los Diputados participarán con voz y voto en las sesiones del Congreso, con excepción de aquellas en que sea declarada su ausencia o se incorporen después del pase de lista, en cuyo caso participaran únicamente con voz pero no con voto.
+Los Diputados participarán con voz y voto en las sesiones del Congreso, con excepción de aquellas en que sea declarada su ausencia o se incorporen después del pase de lista, en cuyo caso participarán únicamente con voz pero no con voto.
 
 ### CAPITULO III. DE LA SUSPENSION Y PERDIDA DEL CARACTER DE DIPUTADO
 
@@ -567,7 +567,9 @@ XV.- Niñez, Juventud, Adultos Mayores y Discapacidad;
 
 XVI.- Comunicaciones y Transportes;
 
-XVII.- Equidad y Género y Jefas de Familia;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+
+XVII.- Equidad de Género;
 
 XVIII.- Desarrollo Municipal y Zonas Metropolitanas;
 
@@ -889,9 +891,17 @@ IX.- Asimismo deberá conocer de todos los mecanismos jurídicos de desarrollo d
 
 X.- Desde el ámbito legislativo, promoverá estudios y análisis del marco jurídico estatal en materia social, con el propósito de valorar, justa, imparcial y técnicamente, el impacto de los programas institucionales que se lleven a cabo por las dependencias del sector publico de los tres órdenes de gobierno, relacionados a la atención y combate a la pobreza, el desempleo, la inseguridad, entre otros problemas sociales, así como la eficacia del ejercicio de sus derechos constitucionales fundamentales, como los derechos relacionados con la salud, la educación, vivienda, así como del mejoramiento de los centros de población, su entorno urbano-vecinal, que impactan notablemente en el desarrollo o el rezago de las comunidades;
 
-XI.- Conocerá también de los asuntos relacionados con la aplicación justa de la Ley de Desarrollo Social, local y nacional, así como de la aplicación justa y equitativa, de los programas instituciones (sic) que las dependencias de la administración pública del sector, de los tres niveles de gobierno, lleven a cabo; y
+XI.- Conocerá también de los asuntos relacionados con la aplicación justa de la Ley de Desarrollo Social, local y nacional, así como de la aplicación justa y equitativa, de los programas instituciones (sic) que las dependencias de la administración pública del sector, de los tres niveles de gobierno, lleven a cabo; y (sic)
 
-XII.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2013)</small>
+
+XII.- Garantizar que las jefas de familia estén amparadas bajo la cobertura de algún sistema de seguridad social, trabajando a favor de las mujeres colimenses;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2013)</small>
+
+XIII.- Legislar sobre ordenamientos jurídicos que tengan por objeto establecer lineamientos y mecanismos institucionales orientados hacia el mejoramiento de las condiciones de vida de las madres solteras a fin de que puedan ofrecer a sus hijos una plena integración al desarrollo educativo, social, cultural y económico; y
+
+XIV.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -943,23 +953,19 @@ II.- Participar, en representación del Poder Legislativo en el Consejo Consulti
 
 III.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
 
 ###### Artículo 64.
 
-Corresponde a la Comisión de Equidad y Género y Jefas de Familia, conocer de los siguientes asuntos:
+Corresponde a la Comisión de Equidad de Género, conocer de los siguientes asuntos:
 
 I.- Los programas encaminados a crear una conciencia ciudadana de igualdad entre el hombre y la mujer, formulando las propuestas que considere convenientes;
 
 II.- Conocer lo relacionado con programas y acciones de los tres órdenes de gobierno encaminados a la atención y superación de las mujeres; formulando las propuestas que considere convenientes;
 
-III.- Apoyar programas y acciones tendientes a atender la violencia intrafamiliar y la desigualdad entre géneros, propiciando que a la mujer se le dé el apto trato y respeto que merecen;
+III.- Apoyar programas y acciones tendientes a atender la violencia intrafamiliar y la desigualdad entre géneros, propiciando que a la mujer se le dé el apto trato y respeto que merecen; y
 
-IV.- Garantizar que las jefas de familia estén amparadas bajo la cobertura de algún sistema de seguridad social, trabajando a favor de las mujeres colimenses;
-
-V.- Legislar sobre ordenamientos jurídicos que tengan por objeto establecer lineamientos y mecanismos institucionales orientados hacia el mejoramiento de las condiciones de vida de las madres solteras a fin de que puedan ofrecer a sus hijos una plena integración al desarrollo educativo, social, cultural y económico; y
-
-VI.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+IV.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1767,7 +1773,7 @@ b).- Si el asunto o documento constare de un solo artículo, se pondrá a la dis
 
 No habiendo discusión el Presidente lo declarará así y ordenará a la Secretaría proceda a recoger la votación correspondiente,
 
-V.- Tomada en consideración una proposición suspensiva, se pondrá de inmediato a discusión, pudiendo hablar dos Diputados en pro y dos en contra. Concluida la discusión se someterá a votación y con el resultado obtenido se procederá en consecuencia. No podrá admitirse mas de una proposición suspensiva en torno a un mismo asunto; y
+V.- Tomada en consideración una proposición suspensiva, se pondrá de inmediato a discusión, pudiendo hablar dos Diputados en pro y dos en contra. Concluida la discusión se someterá a votación y con el resultado obtenido se procederá en consecuencia. No podrá admitirse más de una proposición suspensiva en torno a un mismo asunto; y
 
 VI.- Cuando un Diputado creyere que se ha infringido algún artículo de este Reglamento o cuando se viertan injurias contra alguna persona o corporación, podrá hacer una moción para que se restablezca el orden, indicando en su intervención la forma en que a su juicio deba procederse. No podrán discutirse dos o más mociones a un mismo tiempo y respecto a éstas se observará el trámite de las proposiciones.
 
@@ -1921,7 +1927,7 @@ Cuando no se especifique el sentido de la mayoría, se entenderá como mayoría 
 
 La votación nominal es aquella en que los Diputados expresan en voz alta su decisión a favor o en contra de un asunto, anteponiendo sus apellidos y, en caso necesario, su nombre, la que se tomará aplicando el procedimiento siguiente:
 
-Una vez que un asunto sea puesto a votación por el Presidente, y la votación sea nominal, uno de los Secretarios dirá: "por instrucciones de la Presidencia se pregunta a la Asamblea si es de aprobarse el ......................... POR LA AFIRMATIVA" y el otro Secretario a su vez dirá: "POR LA NEGATIVA". Después, cada Diputado, iniciando por la derecha del Presidente, levantará el brazo derecho, dirá en voz alta sus apellidos y nombre, en caso de ser necesario para distinguirlo de otro, y procederá a manifestar "A FAVOR" o "EN CONTRA", o cualquier otra manifestación que implique la afirmación o negación, cuando se trate de votar un asunto y en su caso, expresará el nombre de la persona a quien elija cuando se trate de verificar un nombramiento. El Secretario de la derecha anotará los votos a favor y el segundo, los en contra, llevando cada uno de ellos el escrutinio de los votos emitidos. Una vez concluida la votación, el Secretario de la derecha preguntará por dos veces si falta algún Diputado por votar y, en caso negativo, dirá: "SE PROCEDE A RECOGER LA VOTACION DE LA DIRECTIVA", votando entonces los Secretarios y el Presidente. A continuación, se hará el cómputo de votos emitidos a favor y en contra y el resultado lo comunicarán al Presidente, para que éste, conforme al resultado, formule en voz alta la declaración correspondiente.
+Una vez que un asunto sea puesto a votación por el Presidente, y la votación sea nominal, uno de los Secretarios dirá: "por instrucciones de la Presidencia se pregunta a la Asamblea si es de aprobarse el ......................... POR LA AFIRMATIVA" y el otro Secretario a su vez dirá: "POR LA NEGATIVA". Después, cada Diputado, iniciando por la derecha del Presidente, levantará el brazo derecho, dirá en voz alta sus apellidos y nombre, en caso de ser necesario para distinguirlo de otro, y procederá a manifestar "A FAVOR" o "EN CONTRA", o cualquier otra manifestación que implique la afirmación o negación, cuando se trate de votar un asunto y en su caso, expresará el nombre de la persona a quien elija cuando se trate de verificar un nombramiento. El Secretario de la derecha anotará los votos a favor y el segundo, los en contra, llevando cada uno de ellos el escrutinio de los votos emitidos. Una vez concluida la votación, el Secretario de la derecha preguntará por dos veces si falta algún Diputado por votar y, en caso negativo, dirá: "SE PROCEDE A RECOGER LA VOTACIÓN DE LA DIRECTIVA", votando entonces los Secretarios y el Presidente. A continuación, se hará el cómputo de votos emitidos a favor y en contra y el resultado lo comunicarán al Presidente, para que éste, conforme al resultado, formule en voz alta la declaración correspondiente.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1993,7 +1999,7 @@ Ningún Diputado podrá ausentarse del Recinto Legislativo cuando se esté efect
 
 ###### Artículo 171.
 
-Ningún Diputado podrá votar por si mismo, ni emitir su voto en cuestiones en que tenga interés personal o familiar en los términos del artículo 70 de este Reglamento.
+Ningún Diputado podrá votar por sí mismo, ni emitir su voto en cuestiones en que tenga interés personal o familiar en los términos del artículo 70 de este Reglamento.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2069,7 +2075,7 @@ Aprobado un proyecto de ley, decreto o acuerdo, no podrá tratarse de su derogac
 
 Las leyes y decretos se expedirán con la siguiente fórmula:
 
-"EL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO DECRETA" (aquí la ley o decreto). "EL GOBERNADOR DEL ESTADO DISPONDRA SE PUBLIQUE, CIRCULE Y OBSERVE". "DADO EN EL RECINTO OFICIAL DEL PODER LEGISLATIVO", fecha y firma del Presidente y de los Secretarios.
+"EL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO DECRETA" (aquí la ley o decreto). "EL GOBERNADOR DEL ESTADO DISPONDRÁ SE PUBLIQUE, CIRCULE Y OBSERVE". "DADO EN EL RECINTO OFICIAL DEL PODER LEGISLATIVO", fecha y firma del Presidente y de los Secretarios.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2692,3 +2698,7 @@ P.O. 22 DE OCTUBRE DE 2011.
 P.O. 15 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día 01 de octubre del año 2012, previa publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE JULIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
