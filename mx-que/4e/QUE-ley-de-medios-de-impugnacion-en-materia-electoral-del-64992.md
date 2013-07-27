@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-medios-de-impugnacion-en-materia-electoral-del-64992"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-20"
-last_updated: "2008-12-20"
+last_updated: "2013-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE QUERETARO
 
-LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE QUERETARO
+LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2008.
 
@@ -59,9 +59,11 @@ El objeto de la presente Ley es regular el trámite, sustanciación y resolució
 
 Esta Ley regula lo previsto por el artículo 116, fracción IV, inciso l) de la Constitución Política de los Estados Unidos Mexicanos y los correlativos de la Constitución Política del Estado de Querétaro, para garantizar el adecuado ejercicio de los derechos político-electorales de los ciudadanos; de los derechos de las instituciones políticas y de las personas que intervengan en los procedimientos, respecto de las determinaciones emitidas por las autoridades y órganos electorales.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+
 ###### Artículo 4.
 
-Las autoridades, los servidores públicos, los organismos electorales, las instituciones políticas, velarán por su estricta aplicación y cumplimiento.
+Las autoridades, los servidores públicos, los organismos electorales, las instituciones políticas y los candidatos independientes, velarán por su estricta aplicación y cumplimiento.
 
 ###### Artículo 5.
 
@@ -325,7 +327,9 @@ III. Los terceros interesados, que pueden ser: partidos políticos, coaliciones,
 
 La interposición de los medios de impugnación corresponde a:
 
-I. Los partidos políticos o coaliciones, a través de sus representantes legítimos, entendiéndose por éstos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2013)</small>
+
+I. Los candidatos independientes, partidos políticos o coaliciones, a través de sus representantes legítimos, entendiéndose por éstos:
 
 a) Las personas acreditadas como tal ante el Consejo o Consejos, por sus dirigencias o equivalentes, de conformidad con las disposiciones internas. Quienes ostenten este carácter sólo podrán actuar ante el órgano electoral donde estén acreditados. En el caso de coaliciones, la representación se acreditará en términos del convenio respectivo;
 
@@ -553,9 +557,11 @@ III. Las demás, al día siguiente a aquel en que se hayan realizado.
 
 No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación, los autos, acuerdos y resoluciones que, en los términos de las leyes aplicables o por acuerdo del órgano competente, deban hacerse públicos a través del Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” o mediante la fijación de cédulas en los estrados de los órganos electorales o de la Sala.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+
 ###### Artículo 58.
 
-El partido político, cuyo representante esté presente en la sesión del órgano electoral que haya actuado o resuelto, se tendrá por notificado del acto o resolución de que se trate.
+El partido político, coalición o candidato independiente, cuyo representante esté presente en la sesión del órgano electoral que haya actuado o resuelto, se tendrá por notificado del acto o resolución de que se trate.
 
 ### Capítulo Primero. De la procedencia
 
@@ -771,7 +777,7 @@ El magistrado ponente podrá requerir a los órganos responsables o a las autori
 
 ###### Artículo 85.
 
-En los estrados de la Sala y en el portar en internet del Tribunal Superior de Justicia del Estado, deberá ser publicada la lista de asuntos a tratar para cada sesión, por lo menos con veinticuatro horas de anticipación a la realización de la misma.
+En los estrados de la Sala y en el portar (sic) en internet del Tribunal Superior de Justicia del Estado, deberá ser publicada la lista de asuntos a tratar para cada sesión, por lo menos con veinticuatro horas de anticipación a la realización de la misma.
 
 ###### Artículo 86.
 
@@ -803,9 +809,11 @@ Recibido el planteamiento de contradicción de criterios, el Presidente de la Sa
 
 Los criterios de la Sala dejarán de ser obligatorios cuando existan razones jurídicas que lo motiven y la modificación sea aprobada por mayoría de los magistrados. El criterio así modificado, podrá ser obligatorio si se da el supuesto previsto en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+
 ###### Artículo 90.
 
-Durante el mes de febrero en que se celebré el proceso electoral ordinario, la Sala editará la compilación de criterios vigentes; asimismo, publicará los criterios obligatorios que establezca en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” y en el portal de internet del Tribunal Superior de Justicia del Estado de Querétaro.
+Durante el mes de noviembre del año anterior al de la elección, la Sala editará la compilación de criterios vigentes; asimismo, publicará los criterios obligatorios que establezca en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en el portal de internet del Tribunal Superior de Justicia del Estado de Querétaro
 
 ## Título Tercero. Del Recurso de Inconformidad
 
@@ -939,9 +947,11 @@ Para la resolución de los recursos de inconformidad, las sesiones de la Sala se
 
 Las nulidades podrán afectar la votación emitida en casilla y, en consecuencia, los resultados de los cómputos de la elección impugnada o la elección en un municipio, distrito electoral o en el Estado.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+
 ###### Artículo 110.
 
-Las causas de nulidad se harán valer el (sic) partido político o coalición interesados, en la sesión de cómputo que corresponda y de ellas conocerá el órgano electoral que lo realice, quien deberá resolver de plano en la misma sesión.
+Las causas de nulidad se harán valer por el candidato independiente, partido político o coalición interesados, en la sesión de cómputo que corresponda y de ellas conocerá el órgano electoral que lo realice, quien deberá resolver de plano en la misma sesión.
 
 ###### Artículo 111.
 
@@ -985,7 +995,9 @@ VIII. Haber impedido el acceso a los representantes de los partidos políticos o
 
 IX. Haber mediado dolo o error en el cómputo de los votos y el Consejo Electoral respectivo se niegue a efectuar los cómputos parciales o totales de las elecciones que corresponda.
 
-Los partidos políticos y coaliciones no podrán invocar en su favor, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+
+Los candidatos independientes, partidos políticos y coaliciones no podrán invocar en su favor, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
 
 ### Capítulo Cuarto. Del recuento jurisdiccional
 
@@ -1001,9 +1013,11 @@ II. Que no se instalen por lo menos el veinte por ciento de las casillas que cor
 
 Para efectos de resolver sobre los recursos de apelación vinculados a las nulidades, el actor podrá solicitar a la Sala la realización de recuentos parciales o totales de las votaciones recibidas en casillas.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2013)</small>
+
 ###### Artículo 116.
 
-Para proceder a la realización de recuentos jurisdiccionales, se requiere la petición del partido político o coalición, en el recurso de apelación.
+Para proceder a la realización de recuentos jurisdiccionales, se requiere la petición del candidato independiente, partido político o coalición, en el recurso de apelación.
 
 ###### Artículo 117.
 
@@ -1039,7 +1053,9 @@ VII. Se extraerán del paquete electoral los sobres que contengan los votos corr
 
 VIII. A la conclusión del escrutinio y cómputo de la casilla correspondiente, se depositará de nueva cuenta en el interior de la bodega electoral, para su resguardo, el paquete electoral;
 
-IX. Concluido el recuento, se procederá a la clausura de la bodega electoral y se levantará un acta circunstanciada de todo lo actuado durante el desarrollo del recuento, la que deberá ser firmada por los funcionarios judiciales, los integrantes de los consejos y, en su caso, los representantes de los partidos políticos y coaliciones presentes y que así lo deseen; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+
+IX. Concluido el recuento, se procederá a la clausura de la bodega electoral y se levantará un acta circunstanciada de todo lo actuado durante el desarrollo del recuento, la que deberá ser firmada por los funcionarios judiciales, los integrantes de los consejos y, en su caso, los representantes de los candidatos independientes, partidos políticos y coaliciones presentes y que así lo deseen; y
 
 X. Los funcionarios judiciales entregarán, de manera inmediata a la conclusión, el acta circunstanciada al magistrado ponente para los efectos conducentes.
 
@@ -1092,3 +1108,13 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE JULIO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido de la presente Ley.
+
+Artículo Tercero. El Consejo General del Instituto Electoral de Querétaro tendrá un plazo de seis meses, contados a partir de la entrada en vigor de la presente Ley, para expedir las reformas necesarias al Reglamento de Fiscalización y demás disposiciones administrativas en materia de candidatos independientes.
