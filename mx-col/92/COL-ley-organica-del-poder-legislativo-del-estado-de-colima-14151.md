@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2012-09-15"
+last_updated: "2013-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -793,7 +793,9 @@ XV.- Niñez, Juventud, Adultos Mayores y Discapacidad;
 
 XVI.- Comunicaciones y Transportes;
 
-XVII.- Equidad y Género y Jefas de Familia;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+
+XVII.- Equidad de Género;
 
 XVIII.- Desarrollo Municipal y Zonas Metropolitanas;
 
@@ -898,6 +900,14 @@ Los grupos parlamentarios, con las excepciones previstas en esta Ley, gozarán d
 ###### ARTICULO 66.
 
 Los grupos parlamentarios estarán integrados por un mínimo de dos Diputados; serán acreditados en la sesión siguiente a la de la instalación de la Legislatura y estarán obligados a presentar una acta en la que conste la decisión de los Diputados de constituirse en grupo parlamentario, especificando la denominación del mismo, lista de sus integrantes, nombre y firma de los Diputados, así como el nombre del Diputado que por mayoría de votos, haya sido designado como Coordinador.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+
+Durante el mes de noviembre del año de instalación de la Legislatura, los grupos parlamentarios, así como los diputados únicos que no integren grupo parlamentario, presentarán respectivamente la agenda legislativa que promoverán durante todo el periodo de ejercicio constitucional, la cual contendrá los compromisos y acciones generales que impulsarán con el propósito de cumplir con las responsabilidades y deberes que tienen como representantes populares.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+
+Asimismo, los grupos parlamentarios, así como los diputados únicos que no integren grupo parlamentario tendrán la facultad de modificar su agenda legislativa en cualquier momento para efecto de actualizarla o enriquecerla.
 
 ###### ARTICULO 67.
 
@@ -1432,3 +1442,15 @@ P.O. 26 DE MAYO DE 2012.
 P.O. 15 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día 01 de octubre del año 2012, previa publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE JULIO DE 2013.
+
+DECRETO No. 131, POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 56 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE JULIO DE 2013.
+
+DECRETO No. 132, POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 66 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial " (sic )El Estado de Colima.
