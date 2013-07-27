@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2013-05-28"
+last_updated: "2013-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE MAYO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1197,7 +1195,7 @@ Se impondrán de tres meses a seis años de prisión a los civiles o militares n
 
 I. Abolir o reformar la Constitución Política del Estado o las Instituciones que de ella emanen;
 
-II. Impedir la integración de nuevas Instituciones o el libre ejercicio de las ya existentes;
+II. Impedir la integración de nuevas instituciones o el libre ejercicio de las ya existentes;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2213,7 +2211,7 @@ Si se produjere daño en la salud por falta de intervención, se les impondrán 
 
 ###### Art. 159.
 
-Se impondrán de tres meses a dos años de prisión al médico, o a quien haga sus veces que reciba para atender de cualquier manera a un lesionado por un aparente hecho delictuoso y no dé aviso inmediato al Ministerio Público.
+Se impondrán de tres meses a dos años de prisión al médico, o a quien haga sus veces que reciba para atender de cualquier manera a un lesionado por un aparente hecho delictuoso y no de aviso inmediato al Ministerio Público.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -2421,7 +2419,7 @@ Se impondrán de un mes a tres años de prisión y multa de cien a trescientos d
 
 I. Al que, sin ser servidor público, se atribuya ese carácter e intente ejercer alguna de las funciones correspondientes;
 
-II. Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad y organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del Artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, incurra en cualquiera de los casos siguientes:
+II. Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad y organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del Art. 5.° de la Constitución Política de los Estados Unidos Mexicanos, incurra en cualquiera de los casos siguientes:
 
 a) Se atribuya el carácter de profesionista;
 
@@ -3599,6 +3597,10 @@ II. Si la información aconteciere durante el proceso, el beneficio será de sei
 
 En todos los casos previstos en este capítulo será aplicable, en lo conducente, lo dispuesto en el Art. 238 de este Código.
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+
 ###### Art. 245.
 
 Comete el delito de abuso de confianza, el que, con perjuicio de alguien, disponga para sí o para otro, de una cosa ajena mueble de la cual se le haya transmitido la tenencia y no el dominio.
@@ -4097,6 +4099,10 @@ Los responsables de los delitos contenidos en el presente capítulo por haber ac
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
+## TITULO VIGESIMO TERCERO. DE LOS DELITOS EN MATERIA DE SEGURIDAD SOCIAL DE LOS SERVIDORES PUBLICOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2013)</small>
+
 ###### Art. 279.
 
 Para proceder penalmente por los delitos previstos en este capítulo, se requerirá querella de la Secretaría de Finanzas del Estado, salvo en los casos previstos en los artículos 282, 283 y 284 del presente Código.
@@ -4340,6 +4346,54 @@ V. Destruya de forma irrecuperable información pública, sin la autorización c
 VI. Modifique de forma irrecuperable información pública, de manera dolosa y sin la autorización correspondiente.
 
 Para efectos de la fracción I se considera que una resolución es incumplida, cuando el sujeto obligado persista en su incumplimiento una vez agotados los medios de apremio impuestos por el Instituto de Transparencia e Información Pública del Estado, en los términos que establece la ley estatal en materia de información pública.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2013)</small>
+
+###### Art. 299.
+
+Los delitos previstos en este título solo proceden por querella del Instituto de Pensiones del Estado. En el caso del delito señalado en el artículo 301, también procede por querella del servidor público afectado por no enterar sus retenciones.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+
+###### Art. 300.
+
+Cuando el daño, perjuicio o beneficio indebido por los delitos previstos en este título sea cuantificable, el Instituto de Pensiones del Estado lo hará en la querella.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+
+###### Art. 301.
+
+Se impondrán de tres a diez años de prisión a los funcionarios públicos de las entidades públicas patronales que no enteren las retenciones realizadas a los servidores públicos de sus entidades, dentro de los plazos que señala la Ley del Instituto de Pensiones del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+
+###### Art. 302.
+
+Se impondrán de tres a diez años de prisión a los funcionarios públicos de las entidades públicas patronales que no enteren las aportaciones que les correspondan, dentro de los plazos que señala la Ley del Instituto de Pensiones del Estado de Jalisco, salvo que exista convenio con el Instituto de Pensiones del Estado que les otorgue alguna prórroga o establezca un mecanismo de pago alterno.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+
+###### Art. 303.
+
+A quienes obtengan del Instituto de Pensiones del Estado, mediante el engaño o el aprovechamiento del error, para sí o para otro, en efectivo o en especie, una o más prestaciones a las que no tengan derecho, así como a los servidores públicos de las entidades públicas patronales que participen con los afiliados, pensionados y beneficiarios en la obtención de dichas prestaciones, se les impondrán las siguientes penas:
+
+I. De uno a tres años de prisión y multa por el importe de cincuenta a quinientos días de salario mínimo, cuando el valor de lo defraudado no exceda del importe de quinientos días del salario mínimo vigente en Guadalajara;
+
+II. De dos a diez años de prisión y multa por el importe de doscientos a tres mil días de salario mínimo, cuando el valor de lo defraudado exceda de quinientos días de salario, pero no exceda tres mil días de salario mínimo, vigente en Guadalajara, y
+
+III. De cuatro a quince años de prisión y multa por el importe de mil a diez mil días de salario, cuando el valor de lo defraudado exceda de tres mil días de salario mínimo, vigente en Guadalajara.
+
+Cuando se restituya la cosa o se repare el daño hasta antes de formular conclusiones en el proceso, sin importar el valor de lo defraudado, se aplicarán las sanciones de la fracción I.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+
+###### Art. 304.
+
+Se impondrán de dos a seis años de prisión a quien:
+
+I. Proporcione o presente documentos falsos ante el Instituto de Pensiones del Estado, con la finalidad de obtener, en efectivo o en especie, una o más prestaciones que en derecho no le correspondan, sin importar si obtiene el beneficio pretendido, o
+
+II. Mienta intencionalmente sobre su antigüedad de servicio o de cotización ante el Instituto de Pensiones del Estado o ante cualquier otra autoridad administrativa o judicial, con la finalidad de obtener un beneficio con ello.
 
 ## TRANSITORIOS
 
@@ -4651,7 +4705,7 @@ Segundo.- Previa la entrada en vigor el Titular del Poder Ejecutivo implementar�
 
 > <small>(F. DE E., P.O. 6 DE ABRIL DE 2006)</small>
 
-Tercero.- Previa la entrada en vigor del presente decreto, se autoriza a las Secretarías de Finanzas y Administración, en coordinación con la Vialidad y Transporte, para realizar las adecuaciones presupuéstales y las adquisiciones necesarias de los instrumentos de medición y capacitación al personal en el manejo de estos, para el debido cumplimiento del presente decreto.
+Tercero.- Previa la entrada en vigor del presente decreto, se autoriza a las Secretarías de Finanzas y Administración, en coordinación con la de Vialidad y Transporte, para realizar las adecuaciones presupuéstales y las adquisiciones necesarias de los instrumentos de medición y capacitación al personal en el manejo de estos, para el debido cumplimiento del presente decreto.
 
 P.O. 15 DE AGOSTO DE 2006.
 
@@ -4996,3 +5050,9 @@ TERCERO. La reforma a la fracción I del artículo 342 del Código de Procedimie
 P.O. 26 DE ENERO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE JULIO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los delitos cometidos antes de la entrada en vigor del presente decreto, en los términos de los artículos 167, 168, 169 y 170 de la Ley del Instituto de Pensiones del Estado de Jalisco, se perseguirán, juzgarán y resolverán conforme a lo dispuesto por dichos artículos hasta antes del inicio de la vigencia de este decreto.
