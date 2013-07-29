@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-80508"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-28"
-last_updated: "2011-03-28"
+last_updated: "2013-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE HIDALGO
 
-LEY DE EDUCACION PARA EL ESTADO DE HIDALGO
+LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2013.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 28 de marzo de 2011.
 
@@ -407,9 +407,19 @@ XIX.- Obtener el acceso, permanencia y egreso oportuno de la escuela, así como 
 
 XX.- Recibir capacitación para desarrollar una cultura de la salud que propicie comportamientos y entornos saludables;
 
-XXI.- Recibir un trato respetuoso por parte de las autoridades educativas mediatas e inmediatas y demás trabajadores de la institución; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2013)</small>
 
-XXII.- Solicitar que las Autoridades Federales, Locales, Municipales y escolares garanticen y fortalezcan los hábitos alimentarios adecuados que contribuyan a la prevención del sobrepeso y la obesidad para favorecer su salud y en consecuencia los procesos de enseñanza y aprendizaje.
+XXI.- Recibir un trato respetuoso por parte de las autoridades educativas mediatas e inmediatas y demás trabajadores de la institución;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2013)</small>
+
+XXII.- Solicitar que las autoridades federales, locales, municipales y escolares garanticen y fortalezcan los hábitos alimentarios adecuados que contribuyan a la prevención del sobrepeso y la obesidad para favorecer su salud y en consecuencia los procesos de enseñanza y aprendizaje; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2013)</small>
+
+XXIII.- Contar con agua potable en las escuelas públicas de educación básica de la Entidad, que sea suficiente, segura, gratuita, de calidad y apta para el consumo personal.
+
+Para tales efectos, las autoridades educativas de manera coordinada con las instancias competentes, habilitarán bebederos para proveer agua potable a las escuelas públicas de educación básica de la Entidad, conforme a las normas técnicas para su construcción e instalación correspondiente.
 
 ###### ARTÍCULO 28.
 
@@ -1185,11 +1195,19 @@ La autoridad educativa local podrá reconocer y certificar los conocimientos par
 
 La autoridad educativa local, podrá instrumentar en coordinación con instituciones educativas reconocidas en la Entidad, programas mixtos, abiertos y a distancia, para profesionalizar a quienes sin haber cursado una carrera en el sistema escolarizado ejercen en la práctica.
 
-### CAPÍTULO ÚNICO. DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE JULIO DE 2013)</small>
+
+### CAPÍTULO X. DEL REGISTRO ESTATAL DE OFERTA EDUCATIVA DEL NIVEL SUPERIOR
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2013)</small>
+
+ARTÍCULO 130 BIS.- La autoridad educativa local deberá formular un Registro Estatal de Oferta Educativa del Nivel .Superior, el cuál será público y tendrá por objetivo dar a conocer a la población en general la oferta educativa de nivel superior de las instituciones educativas del Estado, tanto públicas como privadas debidamente reguladas.
+
+A efecto de lo anterior, la autoridad educativa local deberá difundir la oferta educativa actualizada de las respectivas Instituciones en los medios de comunicación más importantes de la Entidad y en la página web de la Secretaría, a más tardar la última semana de los meses de febrero y agosto de cada año.
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO ÚNICO. DE LAS INFRACCIONES, SANCIONES, PROCEDIMIENTO Y RECURSO ADMINISTRATIVO
+### CAPÍTULO ÚNICO. DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
 
 #### SECCIÓN PRIMERA. DE LOS PADRES DE FAMILIA
 
@@ -1443,6 +1461,8 @@ La autoridad educativa local a través del sistema de comunicación social, difu
 
 ## TÍTULO CUARTO
 
+### CAPÍTULO ÚNICO. DE LAS INFRACCIONES, SANCIONES, PROCEDIMIENTO Y RECURSO ADMINISTRATIVO
+
 #### SECCIÓN PRIMERA. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTÍCULO 150.
@@ -1640,3 +1660,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JULIO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Educación Pública, deberá generar los mecanismos operativos y técnicos a efecto de coordinarse con las instancias públicas, para dar cumplimiento al presente Decreto en materia de suministro de agua potable, en concordancia con el presupuesto que para tal efecto se asigne.
+
+TERCERO. La Secretaría de Educación Pública del Estado, deberá formular las adecuaciones correspondientes a su Reglamento Interior acordes al presente Decreto, dentro de los treinta días naturales siguientes de la publicación del mismo.
+
+CUARTO.- Se derogan todas aquellas disposiciones que se opongan a esta Ley.
