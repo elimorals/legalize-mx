@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2012-06-27"
+last_updated: "2013-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2013.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -90,6 +90,10 @@ II. Atractivo turístico: El sitio que, por su interés o relevancia histórica,
 III. Certificación Laboral Veracruz Turístico: El conjunto de normas estatales que establecen estándares de calidad mundial para los servicios turísticos en el Estado;
 
 IV. Comisión: La Comisión Ejecutiva para el Fomento del Turismo de Veracruz;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2013)</small>
+
+IV. Bis. Comunidad turística: Relaciones y manifestaciones generadas entre los diversos actores sociales, en sus tres elementos: gobierno, prestadores de servicios turísticos, así como la comunidad anfitriona, que convergen, aportan y se ven afectados por la actividad turística, con el propósito de organizarse para fomentar y perfeccionar dicha actividad, en busca de ofrecer un servicio turístico integral;
 
 V. Consejo: El Consejo Consultivo de Turismo Estatal;
 
@@ -484,6 +488,12 @@ VI. Todas aquellas actividades que propicien el desarrollo turístico sustentabl
 ###### Artículo 22.
 
 El fomento de la actividad turística en el Estado será considerado como una estrategia prioritaria para el desarrollo económico y social de la Entidad. Para tal efecto, el Plan Veracruzano de Desarrollo y los programas sectoriales de las dependencias que el Ejecutivo del Estado disponga incluirán estrategias y acciones puntuales para el impulso de la actividad desde un enfoque sustentable.
+
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 22 Bis.
+
+Para la proyección de los lineamientos y estrategias para la formulación de políticas públicas en materia turística, así como en la planeación de los programas sectoriales de las dependencias del Ejecutivo del Estado y los municipios, se deberá considerar la creación y consulta de las comunidades turísticas en el Estado, con la finalidad de elaborar estrategias viables y sustentables en la materia.
 
 ###### Artículo 23.
 
@@ -1270,6 +1280,12 @@ Rúbrica.
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 27 DE JUNIO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE JULIO DE 2013.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
