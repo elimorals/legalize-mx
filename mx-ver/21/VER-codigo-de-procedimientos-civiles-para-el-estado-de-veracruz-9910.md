@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2012-06-28"
+last_updated: "2013-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2013.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -1503,29 +1503,33 @@ ARTICULO 206
 
 Las fianzas a que se refiere este Capítulo, se otorgarán ante el juez de los autos.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE JULIO DE 2013)</small>
 
-### CAPITULO VI. Del procedimiento de mediación o conciliación
+### CAPÍTULO VI. Del Procedimiento de los Medios Alternativos
 
-> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2013)</small>
 
 ARTICULO 206 BIS
 
-Toda persona física o moral legalmente representada en los términos del presente Código, que tenga o enfrente un conflicto puede optar, por sí o por invitación de la autoridad, antes o durante el juicio, por iniciar el procedimiento de mediación o conciliación, en los términos de lo dispuesto por la Ley de Medios Alternativos para la Solución de Conflictos para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave y su reglamento.
+Toda persona física o moral legalmente representada, que sea parte en un conflicto, puede optar, por sí o por invitación de la autoridad, antes o durante el juicio, por iniciar el procedimiento de medios alternativos o justicia alternativa, en términos de lo dispuesto por la Ley de Medios Alternativos para la Solución de Conflictos del Estado de Veracruz de Ignacio de la Llave.
 
-> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2013)</small>
 
 ARTICULO 206 TER
 
-El procedimiento de mediación o conciliación no interrumpe la prescripción, caducidad, ni cualquier otro término judicial o plazo fijado en este Código, ni implica la suspensión del procedimiento que, en su caso, se hubiere iniciado.
+Los procedimientos de medios alternativos o justicia alternativa interrumpen la prescripción y suspenden el trámite de los procesos judiciales.
 
-> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2013)</small>
 
 ARTICULO 206 QUATER
 
-Ante el incumplimiento del convenio que en su caso se hubiere celebrado en el Centro Estatal de Medios Alternativos para la Solución de Conflictos, en la Unidad Regional, en el organismo privado autorizado para mediar o conciliar o en cualquiera de los juzgados municipales autorizados en materia de mediación o conciliación por el Consejo de la Judicatura, se procederá a su ejecución ante el juez competente.
+Los convenios que dirimen total o parcialmente los conflictos sometidos a los medios alternativos y que sean elevados al carácter de cosa juzgada por el Centro Estatal de Justicia Alternativa de Veracruz serán ejecutados ante el juez competente.
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
 
 Es juez competente el designado por las partes en el convenio y, en su defecto, el que esté conociendo del juicio, y en su caso, se estará a lo previsto en las reglas para la fijación de la competencia establecidas en este Código y, habiendo varios, el del número más bajo.
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
 
 Regirán las disposiciones relativas a la ejecución de convenios judiciales contenidas en este Código.
 
@@ -1577,9 +1581,9 @@ ARTICULO 210
 
 Presentada la demanda con los documentos y copias prevenidas, se correrá traslado de ella a la persona o personas contra quienes se proponga, y se les emplazará para que contesten dentro de nueve días.
 
-> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2013)</small>
 
-En los casos en que se reclamen alimentos, el juez podrá en el auto en que dé entrada a la demanda, a petición de parte y atendiendo a las circunstancias, fijar una pensión alimenticia provisional y decretar su aseguramiento, cuando los acreedores justifiquen con las correspondientes copias certificadas de las actas del estado civil, el vínculo matrimonial o su parentesco con el deudor alimentista, sin perjuicio de lo que se resuelva en la sentencia definitiva.
+En los casos en que se reclamen alimentos, el juez podrá en el auto en que dé entrada a la demanda, a petición de parte y atendiendo a las circunstancias, fijar una pensión alimenticia provisional y decretar su aseguramiento, cuando los acreedores justifiquen, con las correspondientes copias certificadas de las actas del estado civil, el vínculo matrimonial o su parentesco con el deudor alimentista, o tratándose de concubinato, con algún medio de prueba que acredite tal hecho, sin perjuicio de lo que se resuelva en la sentencia definitiva.
 
 > <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
@@ -1649,11 +1653,17 @@ ARTICULO 218
 
 Cuando sin justa causa, después de hacerse el emplazamiento, el emplazado dejare de contestar la demanda o alguna de sus partes, se presumirán confesados los hechos que no hayan sido contestados. El silencio y las evasivas en la contestación respecto a uno o más hechos de la demanda, establecen igual presunción. En materia familiar, la falta de contestación no produce confesión ficta, sino que se entienden contestados los hechos en sentido negativo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2013)</small>
+
+ARTICULO 218 BIS
+
+Vencido el plazo previsto en el artículo 217 de este Código, de oficio o a petición de parte, el juez remitirá el conflicto al Centro Estatal de Justicia Alternativa de Veracruz, con el fin de que las partes lleguen a un arreglo; de no producirse éste, se procederá conforme a lo establecido en el numeral siguiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2013)</small>
 
 ARTICULO 219
 
-Dentro de los ocho días siguientes al de la contestación a la demanda o una vez concluido el término para producirla, a petición de parte o de oficio, convocará el juez a una audiencia, en la que las partes dialogarán por el término máximo de quince minutos a fin de que puedan llegar a un arreglo. En caso de que lleguen a un acuerdo, celebrarán un convenio y si estuviera ajustado a derecho y no lesionare derechos de las partes o de tercero, el juez lo aprobará elevándolo a la categoría de cosa juzgada. En los negocios radicados en los juzgados de lo familiar, los trabajadores sociales procurarán avenir a las partes, proponiéndoles alternativas de solución y de llegarse a un convenio, se procederá en la forma antes señalada; a falta de trabajadores sociales y en los demás juzgados civiles y mixtos, el Secretario de trámite o en su defecto, el de acuerdos propondrá a las partes alternativas de solución. Si no hubiese convenio, se proseguirá con la audiencia, en la que las partes en debate verbal fijarán con claridad los puntos cuestionados y en el que se observarán las siguientes reglas:
+Dentro de los ocho días siguientes a la conclusión del procedimiento de medios alternativos o justicia alternativa, a petición de parte o de oficio, convocará el juez a una audiencia, en la que las partes verbalmente fijarán con claridad los puntos cuestionados y en la que se observarán las siguientes reglas:
 
 I.- El demandado y el actor, en sus casos, deberán confesar, negar o explicar los hechos aducidos en la demanda y en la contestación;
 
@@ -2463,9 +2473,17 @@ IV.- La sentencia de segunda instancia;
 
 V.- Las que resuelvan una queja;
 
-VI.- Las que dirimen o resuelven una competencia, y
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2013)</small>
 
-VII.- Las demás que se declaren irrevocables por prevención expresa de la ley, así como aquellas de las que se dispone que no haya más recurso que el de responsabilidad.
+VI.- Las que dirimen o resuelven una competencia;
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2013)</small>
+
+VII.- Los convenios que dirimen total o parcialmente los conflictos sometidos a los medios alternativos y que, sancionados por el Centro Estatal de Justicia Alternativa de Veracruz, tienen el valor de cosa juzgada; y
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2013)</small>
+
+VIII.- Las sentencias que se declaren irrevocables por prevención expresa de la ley, así como aquellas de las que se disponga que no haya más recurso que el de responsabilidad.
 
 ARTICULO 339
 
@@ -2479,7 +2497,7 @@ Para que las sentencias a que se refiere el artículo anterior produzca los efec
 
 ### CAPITULO UNICO. De la suspensión del procedimiento
 
-> <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 339
 
@@ -2487,11 +2505,13 @@ ARTICULO 339-A
 
 El procedimiento se suspenderá:
 
-I.- Cuando el Tribunal que conozca del Juicio no esté en posibilidad de funcionar, por causa de fuerza mayor.
+I. Cuando el Tribunal que conozca del Juicio no esté en posibilidad de funcionar, por causa de fuerza mayor;
 
-II.- Cuando una de las partes falleciere; le sobrevenga un estado de incapacidad mental y mientras se le nombre tutor, o en el caso de ausencia.
+II. Cuando una de las partes falleciere; le sobrevenga un estado de incapacidad mental y mientras se le nombre tutor, o en el caso de ausencia;
 
-III.- Cuando lo determine la Ley.
+III. Cuando por decisión del juez, o de común acuerdo, las partes decidan iniciar un procedimiento de medios alternativos o justicia alternativa, suspensión que prevalecerá hasta la conclusión del mismo; y
+
+IV. Cuando lo determine la ley.
 
 > <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -6150,3 +6170,19 @@ G.O. 28 DE JUNIO DE 2012.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE JULIO DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO VI DEL TÍTULO QUINTO Y LOS ARTÍCULOS 206 BIS, 206 TER, 206 QUATER PÁRRAFO PRIMERO, 219 PÁRRAFO PRIMERO, 338 FRACCIONES VI Y VII Y 339 –A; Y SE ADICIONAN EL ARTÍCULO 218 BIS Y UNA FRACCIÓN VIII AL ARTÍCULO 338, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE JULIO DE 2013.
+
+DECRETO NÚMERO 849, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 210 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
