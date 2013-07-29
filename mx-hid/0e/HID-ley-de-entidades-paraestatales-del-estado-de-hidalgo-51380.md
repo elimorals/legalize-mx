@@ -4,7 +4,7 @@ identifier: "HID-ley-de-entidades-paraestatales-del-estado-de-hidalgo-51380"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2006-08-07"
+last_updated: "2013-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51380&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 29 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -540,3 +542,17 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Entidades Paraestatales publicada en el Periódico Oficial del Estado de Hidalgo, el siete agosto del dos mil seis.
+
+TERCERO.- A partir de la entrada en vigor de la presente Ley, las Entidades Paraestatales del Estado de Hidalgo, tendrán un plazo de seis meses para realizar todos los actos necesarios, con la finalidad ajustarse a los términos que establece esta ley.
+
+CUARTO.- El Ejecutivo Estatal expedirá el Reglamento de la Ley de Entidades Paraestatales, dentro de un plazo de ciento ochenta días siguientes a su entrada en vigor.
+
+QUINTO.- Los Órganos de Administración y de Vigilancia de los Organismos Descentralizados seguirán funcionando de acuerdo con sus Leyes o Decretos de creación, y los Fideicomisos Públicos conforme a sus actos constitutivos.
