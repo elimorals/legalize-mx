@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2013-04-29"
+last_updated: "2013-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2013.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -123,7 +123,7 @@ Para dirimir las controversias que se generen entre la Administración Pública 
 
 ###### ARTÍCULO 10.
 
-El territorio del Estado, se integra con los 84 Municipios siguientes: 1.- Acatlán, 2.- Acaxochitlán, 3.- Actopan, 4.- Agua Blanca de Iturbide, 5.- Ajacuba, 6.- Alfajayucan; 7.- Almoloya, 8.- Apan, 9.- Atitalaquia, 10.- Atlapexco, 11.- Atotonilco El Grande, 12.- Atotonilco de Tula, 13.- Calnali, 14.- Cardonal, 15; Cuautepec de Hinojosa, 16.- Chapantongo, 17.- Chapulhuacán, 18.- Chilcuautla, 19.- El Arenal, 20.- Eloxochitlán, 21.- Emiliano Zapata, 22.- Epazoyucan, 23.- Francisco I. Madero, 24.- Huasca de Ocampo, 25.- Huautla, 26.- Huazalingo, 27.- Huehuetla, 28.- Huejutla de Reyes, 29.- Huichapan, 30.- lxmiquilpan, 31.- Jacala de Ledezma, 32.- Jaltocán, 33.- Juárez Hidalgo, 34.- La Misión, 35.- Lolotla, 36.- Metepec, 37.- Metztitlán, 38.- Mineral del Chico, 39.- Mineral del Monte, 40.- Mineral de la Reforma, 41.- Mixquiahuala de Juárez, 42.- Molango de Escamilla, 43.- Nicolás Flores, 44.- Nopala de Villagrán, 45.- Omitlán de Juárez, 46.- Pacula, 47.- Pachuca de Soto, 48.- Pisaflores, 49.- Progreso de Obregón, 50.- San Agustín Metzquititlán 51.- San Agustín Tlaxiaca, 52.- San Bartolo Tutotepec, 53.- San Felipe Orizatlán, 54.- San Salvador, 55.- Santiago de Anaya, 56.- Santiago Tulantepec de Lugo Guerrero, 57.- Singuilucan, 58.- Tasquillo, 59.- Tecozautla, 60.- Tenango de Doria, 61.- Tepeapulco, 62.- Tepehuacán de Guerrero, 63.- Tepeji del Río de Ocampo, 64.- Tepetitlán, 65.- Tetepango, 66.- Tezontepec de Aldama, 67.- Tianguistengo, 68.- Tizayuca, 69.- Tlahuelilpan, 70.- Tlahuiltepa, 71.- Tlanalapa, 72.- Tlanchinol, 73.- Tlaxcoapan, 74.- Tolcayuca, 75.- Tula de Allende, 76.- Tulancingo de Bravo, 77.- Villa de Tezontepec, 78.- Xochiatipan, 79.- Xochicoatlán, 80.- Yahualica, 81.- Zacualtipán de Ángeles, 82.- Zapotlán de Juárez, 83.- Zempoala, 84.- Zimapán.
+El territorio del Estado, se integra con los 84 Municipios siguientes: 1.- Acatlán, 2.- Acaxochitlán, 3.- Actopan, 4.- Agua Blanca de Iturbide, 5.- Ajacuba, 6.- Alfajayucan; 7.- Almoloya, 8.- Apan, 9.- Atitalaquia, 10.- Atlapexco, 11.- Atotonilco El Grande, 12.- Atotonilco de Tula, 13.- Calnali, 14.- Cardonal, 15; Cuautepec de Hinojosa, 16.- Chapantongo, 17.- Chapulhuacán, 18.- Chilcuautla, 19.- El Arenal, 20.- Eloxochitlán, 21.- Emiliano Zapata, 22.- Epazoyucan, 23.- Francisco I. Madero, 24.- Huasca de Ocampo, 25.- Huautla, 26.- Huazalingo, 27.- Huehuetla, 28.- Huejutla de Reyes, 29.- Huichapan, 30.- Ixmiquilpan, 31.- Jacala de Ledezma, 32.- Jaltocán, 33.- Juárez Hidalgo, 34.- La Misión, 35.- Lolotla, 36.- Metepec, 37.- Metztitlán, 38.- Mineral del Chico, 39.- Mineral del Monte, 40.- Mineral de la Reforma, 41.- Mixquiahuala de Juárez, 42.- Molango de Escamilla, 43.- Nicolás Flores, 44.- Nopala de Villagrán, 45.- Omitlán de Juárez, 46.- Pacula, 47.- Pachuca de Soto, 48.- Pisaflores, 49.- Progreso de Obregón, 50.- San Agustín Metzquititlán 51.- San Agustín Tlaxiaca, 52.- San Bartolo Tutotepec, 53.- San Felipe Orizatlán, 54.- San Salvador, 55.- Santiago de Anaya, 56.- Santiago Tulantepec de Lugo Guerrero, 57.- Singuilucan, 58.- Tasquillo, 59.- Tecozautla, 60.- Tenango de Doria, 61.- Tepeapulco, 62.- Tepehuacán de Guerrero, 63.- Tepeji del Río de Ocampo, 64.- Tepetitlán, 65.- Tetepango, 66.- Tezontepec de Aldama, 67.- Tianguistengo, 68.- Tizayuca, 69.- Tlahuelilpan, 70.- Tlahuiltepa, 71.- Tlanalapa, 72.- Tlanchinol, 73.- Tlaxcoapan, 74.- Tolcayuca, 75.- Tula de Allende, 76.- Tulancingo de Bravo, 77.- Villa de Tezontepec, 78.- Xochiatipan, 79.- Xochicoatlán, 80.- Yahualica, 81.- Zacualtipán de Ángeles, 82.- Zapotlán de Juárez, 83.- Zempoala, 84.- Zimapán.
 
 La sede del Ayuntamiento residirá en la Cabecera Municipal, podrá ser reubicada temporalmente cuando las circunstancias así lo justifiquen, con la aprobación de la mayoría de sus integrantes y en caso de que sea definitiva, se requerirá la autorización del Congreso del Estado.
 
@@ -755,9 +755,11 @@ El Presidente Municipal ajustará su actuación a lo dispuesto en la Constituci�
 
 El Presidente Municipal, asumirá la representación jurídica del Ayuntamiento en los litigios en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, o no la asuma por cualquier causa, quien, de ser necesario, podrá nombrar apoderados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2013)</small>
+
 ###### ARTÍCULO 60.
 
-Los Presidentes Municipales asumirán las siguientes:
+Los presidentes municipales asumirán las siguientes:
 
 I.- Facultades y Obligaciones:
 
@@ -871,9 +873,15 @@ q).- Expedir constancias de vecindad;
 
 r).- Conceder permisos para manifestaciones públicas, de conformidad con el Bando de Policía y Gobierno; y (sic)
 
-s).- Promover los programas y acciones necesarias para la preservación, conservación, mitigación del daño y restauración del medio ambiente; y
+s).- Promover los programas y acciones necesarias para la preservación, conservación, mitigación del daño y restauración del medio ambiente; y (sic)
 
-t).- Las demás que le señalen el ordenamiento jurídico aplicable.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2013)</small>
+
+t).- Promover las acciones y ejecutar los programas sociales necesarios para la recuperación de espacios públicos, a fin de fortalecer la seguridad jurídica, mantenimiento, sostenibilidad, control y la aprobación social de éstos;
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2013)</small>
+
+u).- Las demás que le señalen el ordenamiento jurídico aplicable.
 
 ###### ARTÍCULO 61.
 
@@ -2588,3 +2596,7 @@ P.O. 29 DE ABRIL DE 2013.
 PRIMERO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Por lo que hace a la presentación de la declaración de situación patrimonial de los síndicos y regidores, se estará a lo dispuesto en la Ley de la Auditoría Superior del Estado.
+
+P.O. 29 DE JULIO DE 2013.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
