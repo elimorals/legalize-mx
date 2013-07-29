@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-titulo-quinto-del-codigo-financiero-del-66475"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-01"
-last_updated: "2013-01-21"
+last_updated: "2013-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL TÍTULO QUINTO DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DENOMINADO "DEL CATASTRO"
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE JULIO DE 2013.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 1o. de enero de 2009.
 
@@ -7117,6 +7117,206 @@ V. Colegio de Notarios Públicos de la entidad.
 
 En caso de que los especialistas en valuación inmobiliaria registrados, cometan alguna irregularidad distinta a las estrictamente técnicas para la determinación de los avalúos, se deberá hacer del conocimiento de las autoridades competentes.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 29 DE JULIO DE 2013)</small>
+
+### CAPÍTULO SÉPTIMO. DE LOS ESPECIALISTAS EN LEVANTAMIENTO TOPOGRÁFICO CATASTRAL
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 29 DE JULIO DE 2013)</small>
+
+#### SECCIÓN PRIMERA. DEL REGISTRO
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 86.
+
+En términos de lo dispuesto por los artículos 172 del Código, 35 y 37 de este Reglamento, cuando se requiera la práctica del levantamiento topográfico catastral de inmuebles, éste deberá practicarse por el IGECEM o por el catastro municipal, a través del personal técnico debidamente certificado y con registro vigente expedido por el propio Instituto.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 87.
+
+En cumplimiento de lo dispuesto por el artículo 201 del Código, el IGECEM deberá integrar, organizar, vigilar y actualizar un registro de especialistas certificados en materia de levantamiento topográfico catastral, quienes estarán habilitados para practicar este servicio en el territorio del Estado, sujetándose a lo dispuesto en el presente Capítulo.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 88.
+
+La vigencia del registro otorgado por el IGECEM a los especialistas certificados en levantamiento topográfico catastral será de dos años, a partir de la fecha de emisión del comprobante de pago por concepto de la expedición o renovación del registro.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 89.
+
+Los candidatos a obtener el registro ante el IGECEM, deberán ser ciudadanos mexicanos por nacimiento o naturalización, en pleno ejercicio de sus derechos y presentar los siguientes documentos:
+
+l. Solicitud por escrito dirigida al Director General del IGECEM.
+
+II. Documento que acredite la certificación del solicitante para la práctica del levantamiento topográfico catastral, expedido por la autoridad competente.
+
+III. Constancia de residencia efectiva en el Estado de México, cuando menos durante los seis últimos meses.
+
+IV. Currículum Vitae.
+
+V. Tres fotografías recientes a color, tamaño infantil.
+
+VI. Copia del comprobante de pago por concepto de la expedición del registro.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 90.
+
+Para obtener la renovación del registro ante el IGECEM, deberán cumplir con la entrega de la siguiente documentación:
+
+I. Solicitud por escrito dirigida al Director General del IGECEM.
+
+II. El último documento que lo acredite como miembro del registro de especialistas en materia de levantamiento topográfico catastral.
+
+III. Tres fotografías recientes a color, tamaño infantil.
+
+IV. Copia del comprobante de pago por concepto de renovación del registro.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 91.
+
+El especialista en levantamiento topográfico catastral deberá ejercer el registro otorgado de forma personal e intransferible, sin delegar facultades en terceras personas.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 92.
+
+Para la renovación del registro, el especialista en levantamiento topográfico catastral deberá presentar al IGECEM la solicitud correspondiente, dentro de los 30 días naturales previos a la terminación de la vigencia de su registro.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 93.
+
+Cuando se requiera la expedición o renovación del registro, el interesado deberá cubrir el importe correspondiente en las oficinas o instituciones bancarias autorizadas por el IGECEM de acuerdo con la Tarifa de Productos y Servicios vigente.
+
+Esta determinación no aplica para el personal adscrito al IGECEM.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 94.
+
+El IGECEM publicará en su página electrónica el padrón de especialistas en materia de levantamiento topográfico catastral con registro vigente y en su caso, informará a las instancias enunciadas en el artículo 104 de este Reglamento, el nombre de los especialistas que, en tal caso se encuentren sancionados y el periodo de la sanción.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 29 DE JULIO DE 2013)</small>
+
+#### SECCIÓN SEGUNDA. DE SUS OBLIGACIONES
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 95.
+
+Es obligación del especialista en levantamiento topográfico catastral registrado que realice este procedimiento en el territorio del Estado de México, presentar como parte de su acreditación ante las partes involucradas, el registro correspondiente emitido por el IGECEM.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 96.
+
+El especialista en levantamiento topográfico catastral registrado, deberá ejercer su actividad con eficiencia y estricto apego a los lineamientos, normas y procedimientos vigentes. El IGECEM podrá llevar a cabo revisiones periódicas a efecto de verificar su cumplimiento.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 97.
+
+El costo por el servicio de levantamiento topográfico catastral será determinado mediante la aplicación de la tarifa de productos y servicios del IGECEM vigente. En los casos que el levantamiento lo practiquen servidores públicos municipales, el costo del servicio se sujetará a la tarifa que establece el artículo 166 del Código.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 98.
+
+El especialista en levantamiento topográfico catastral registrado podrá consultar en cualquier tiempo, la información cartográfica de apoyo u otros elementos estrictamente técnicos que requiera para el desempeño de sus funciones, disponible en el IGECEM o en el catastro municipal, debiendo acreditar el interés jurídico del propietario o poseedor del inmueble materia del levantamiento.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 99.
+
+Los especialistas en levantamiento topográfico catastral registrados están obligados a proporcionar al IGECEM, copia fiel en formato digital de los levantamientos topográficos catastrales que practiquen, dentro de los primeros diez días hábiles del mes siguiente al de la fecha de su ejecución. Asimismo, el IGECEM enviará a los ayuntamientos, copia fiel en formato digital de los levantamientos topográficos catastrales que practiquen los especialistas en levantamiento topográfico catastral adscritos al IGECEM, con esta información se podrán actualizar tanto el registro gráfico como el alfanumérico del padrón catastral.
+
+Cuando el catastro municipal detecte alguna inconsistencia en la información contenida en el plano resultado del levantamiento topográfico, que sea considerada como grave, lo informará al IGECEM dentro de los quince días siguientes contados a partir de la fecha de recepción, a efecto de que se determine lo conducente.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 100.
+
+Se expedirá copia de los documentos resultantes del servicio de levantamiento topográfico catastral, a quien lo solicite, previa acreditación de su interés jurídico o legítimo, en términos de las disposiciones normativas y legales aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 29 DE JULIO DE 2013)</small>
+
+#### SECCIÓN TERCERA. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 101.
+
+Son infracciones a cargo de los especialistas en levantamiento topográfico catastral registrados, que con ese carácter practique este servicio en el territorio del Estado de México:
+
+I. Actuar con negligencia, dolo o mala fe en el uso y manejo de las solicitudes para obtener levantamientos topográficos catastrales.
+
+II. Entorpecer los procedimientos para la emisión de levantamientos topográficos catastrales en el territorio del Estado de México.
+
+III. Impedir el acceso a la información que deba recabar o verificar el personal del IGECEM.
+
+IV. Negar u omitir la entrega al IGECEM de la copia del levantamiento topográfico catastral, datos, informes o documentos relativos a esta materia, dentro del plazo establecido en este Reglamento.
+
+V. Emitir levantamientos topográficos catastrales sin ajustarse a los lineamientos, normas y procedimientos vigentes.
+
+VI. Emitir un levantamiento topográfico catastral con alteraciones, omisiones o deficiencias.
+
+VII. Divulgar información confidencial o reservada contraviniendo los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de México.
+
+VIII. Utilizar las formas membretadas en papel seguridad del Instituto o de los ayuntamientos, para imprimir estudios o información diferentes a los levantamientos topográficos catastrales.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 102.
+
+Las sanciones aplicables a los especialistas en levantamiento topográfico catastral registrados que en la práctica de este servicio incurran en cualquiera de las infracciones, irregularidades, alteraciones u omisiones indicadas en el artículo anterior, serán las siguientes:
+
+I. Apercibimiento por escrito, por las conductas indicadas en las fracciones I, II y IV del artículo 101 de este Reglamento.
+
+II. Suspensión durante un periodo de treinta días naturales, por la conducta indicada en la fracción III del artículo 101 de este Reglamento.
+
+III. Suspensión durante un periodo de noventa días naturales, por la conducta prevista en las fracciones V y VI del artículo 101 de este Reglamento.
+
+IV. Suspensión durante un periodo de ciento ochenta días naturales, por la conducta contemplada en la fracción VII del artículo 101 de este Reglamento.
+
+V. Cancelación del registro, por la conducta señalada en la fracción VIII del artículo 101 de este Reglamento.
+
+El especialista en levantamiento topográfico catastral a quien se le cancele su registro o se suspenda temporalmente, no podrá prestar este servicio en la entidad a partir de la fecha de cancelación del registro y durante el periodo de suspensión, según sea el caso, sin que esta circunstancia amplíe o modifique la vigencia de su registro.
+
+Cuando algún especialista en levantamiento topográfico catastral registrado haya sido sancionado en términos de lo dispuesto en la fracción I de este artículo, hasta por dos ocasiones durante el periodo de un año, le será aplicable la sanción prevista en la fracción II del mismo precepto.
+
+En el caso de los servidores públicos de los municipios o adscritos al IGECEM, que sean especialistas en levantamiento topográfico catastral registrados, además de las sanciones previstas en este artículo, estarán sujetos a las disposiciones establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 103.
+
+Contra las resoluciones mediante las que se imponga alguna de las sanciones a que alude el artículo anterior, proceden los medios de defensa previstos en el Código de Procedimientos Administrativos del Estado de México.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 104.
+
+La relación de aquellos especialistas en levantamiento topográfico catastral registrados que hayan sido objeto de cualquiera de las sanciones que establece el artículo 102 de este Reglamento, se hará del conocimiento de las siguientes instancias:
+
+l. Dependencias y organismos de la administración pública estatal, en su caso.
+
+II. Ayuntamientos.
+
+III. Instituto de la Función Registral del Estado de México.
+
+IV. Colegio de Notarios Públicos del Estado de México.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+###### Artículo 105.
+
+En caso que los especialistas registrados en esta materia, cometan alguna irregularidad distinta a los aspectos estrictamente técnicos en la determinación del levantamiento topográfico catastral, se deberá hacer del conocimiento de las autoridades competentes.
+
 T R A N S I T O R I O S
 
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
@@ -7141,7 +7341,7 @@ DR. VÍCTOR HUMBERTO BENÍTEZ TREVIÑO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS DEL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS DEL PRESENTE REGLAMENTO.</small>
 
 G.G. 5 DE ENERO DE 2011.
 
@@ -7160,3 +7360,9 @@ G.G. 21 DE ENERO DE 2013.
 PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Acuerdo, entrará en vigor al día siguiente a su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 29 DE JULIO DE 2013.
+
+PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente acuerdo, entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
