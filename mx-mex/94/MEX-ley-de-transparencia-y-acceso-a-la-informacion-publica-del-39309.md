@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3930
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-30"
-last_updated: "2012-08-31"
+last_updated: "2013-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 29 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 30 de abril de 2004.
 
@@ -859,6 +859,10 @@ Los Comisionados y el Comisionado Presidente desempeñarán su cargo por un peri
 
 En todo caso, deberá observarse el mismo procedimiento que se siguió para la primera designación.
 
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+Si cumplido el plazo a que se refiere este artículo, no se hubieren aprobado las designaciones de quienes habrán de desempeñar el cargo de Comisionados para el periodo siguiente, seguirán en vigor los nombramientos anteriores hasta en tanto la Legislatura apruebe la designación de los nuevos. En ningún caso se entenderá esto como ratificación del encargo.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 64.
@@ -1246,3 +1250,9 @@ SEXTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el
 SÉPTIMO.- El Presupuesto de Egresos del Estado, para el Ejercicio Fiscal de 2013, deberá considerar partidas suficientes para el adecuado funcionamiento en las materias de esta Ley, del Instituto (sic) Transparencia, Acceso a la Información y Protección de Datos Personales.
 
 Sin perjuicio de lo anterior, la Secretaría de Finanzas, en un plazo máximo de treinta días naturales, contado a partir de la entrada en vigor de la presente Ley, proveerá con sujeción a las previsiones que para tal efecto estén contenidas en el Presupuesto de Egresos del Estado, los recursos adicionales necesarios al Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales de (sic) Estado de México y Municipios, para dar inicio a la implementación de las nuevas atribuciones contenidas en esta Ley.
+
+G.G. 29 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
