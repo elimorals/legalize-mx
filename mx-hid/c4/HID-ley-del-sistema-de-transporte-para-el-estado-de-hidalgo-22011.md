@@ -4,7 +4,7 @@ identifier: "HID-ley-del-sistema-de-transporte-para-el-estado-de-hidalgo-22011"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-06"
-last_updated: "2010-10-04"
+last_updated: "2013-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 29 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 6 de agosto de 2001.
 
@@ -2026,3 +2028,39 @@ TERCERO.- Los asuntos que por motivo de esta reforma deban pasar de una Dependen
 CUARTO.- El Gobernador del Estado emitirá las reformas a los nuevos reglamentos interiores de las dependencias cuyas atribuciones se han modificado, dentro de un plazo no mayor de ciento veinte días naturales posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado.
 
 QUINTO.- En tanto se modifiquen los nuevos ordenamientos que regulan los aspectos sustantivos y adjetivos de este Decreto, seguirán aplicándose, en todo lo que no se oponga a este Decreto, las disposiciones legales que regulaban los actos previstos en la Ley que se modifica. Lo anterior también se aplica en lo referente a los reglamentos interiores de las dependencias y al Estatuto Orgánico del Instituto Estatal del Transporte.
+
+P.O. 29 DE JULIO DE 2013.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a esta Ley.
+
+TERCERO. Se abroga la Ley del Sistema de Transporte para el Estado de Hidalgo, publicada en el Periódico Oficial del Estado el 6 de Agosto del 2001; en consecuencia se desincorpora el Instituto Estatal de Transporte, facultándose al Gobernador del Estado a expedir el Decreto de creación del Organismo del Transporte Convencional que con el cúmulo de facultades y obligaciones en la materia sustituirá al Instituto Estatal de Transporte que será objeto de extinción.
+
+Con las formalidades del caso, en términos de la normatividad correspondiente, todos los archivos, documentos y correspondencia que obran en poder del Instituto Estatal de Transporte serán transferidos al Organismo del Transporte Convencional; de la misma forma, todos los trámites que a la publicación de la presente Ley se encuentren en proceso ante dicho Instituto quedan suspendidos y deberán tramitarse ante el nuevo Organismo del Transporte Convencional, quedando a cargo del mismo la resolución de ellos, con apego a este Ordenamiento, inclusive las controversias de carácter administrativo, judicial o extrajudicial en que estuviere involucrado o tuviere interés el citado Instituto Estatal de Transporte el cual, a la publicación de esta Ley, es sustituido en todas sus funciones por el Organismo del Transporte Convencional.
+
+En términos de la Ley de Hacienda y de la Ley de Ingresos del Estado, se faculta al Organismo del Transporte Convencional para este (sic) efectúe y aplique, en los casos correspondientes, el cobro de las tarifas señaladas en dichas leyes y que por disposición de las mismas están a cargo del Instituto Estatal de Transporte; esto, hasta en tanto ese nuevo Organismo Público Descentralizado emita el acuerdo tarifario correspondiente.
+
+CUARTO. El Servicio Público de Transporte Masivo de Pasajeros, así como los demás aspectos señalados en esta Ley como materia de su competencia, serán responsabilidad del Organismo del Transporte Masivo que determine crear el Titular del Poder Ejecutivo del Estado.
+
+De igual manera, se faculta al Organismo del Transporte Masivo para emitir el Acuerdo Tarifario correspondiente y para efectuar los cobros respectivos por los servicios que preste.
+
+QUINTO. Se faculta al Organismo del Transporte Convencional para que conjuntamente con la Dependencia lleve a cabo el tiraje, certificación, expedición y reexpedición de las resoluciones, Títulos y autorizaciones, lo cual deberá concluirse dentro de los doce meses siguientes a la publicación de la presente Ley; así como para que en lo subsecuente acuerde, norme, implemente, ejecute y opere la reorganización y regularizaciones del servicio del transporte colectivo e individual y de los Servicios Auxiliares y Conexos que, en términos de esta Ley sean de su competencia, mediante los instrumentos respectivos. El Organismo del Transporte Convencional atenderá y ejecutará todo tipo de actos jurídicos, actuando en todo lo concerniente a ello, inclusive en mesas de trabajo y diálogo con transportistas, concesionarios y permisionarios, así como interviniendo en toda clase de controversias de tipo legal y extrajudicial relativas a esto.
+
+SEXTO. A efecto de dar cumplimiento a lo establecido en el transitorio anterior, se concede un período de tolerancia de doce meses, contados a partir de la publicación de esta Ley, para la renovación del parque vehicular de los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario competencia del Organismo del Transporte Convencional; al efecto, los concesionarios, permisionarios y titulares de autorizaciones que no estén en posibilidad de realizarlo de inmediato, podrán acogerse al beneficio señalado, para lo cual deberán suscribir carta compromiso ante el Organismo del Transporte Convencional, en la que se señalará el plazo en que realzarán (sic) la sustitución vehicular.
+
+SÉPTIMO. El Organismo del Transporte Convencional y la Dependencia, quedan facultados para substanciar el procedimiento que deberán seguir las personas que actualmente cuenten con permiso, autorización provisional, censo del programa de reordenamiento o registro en las bitácoras a cargo del Instituto Estatal de Transporte, para tramitar la concesión o permiso respectivo de acuerdo a las modalidades de esta Ley, lo cual deberá concluirse dentro de los doce meses siguientes a la publicación de este mismo ordenamiento.
+
+OCTAVO. En un plazo de ciento ochenta días hábiles contados a partir de la publicación de esta Ley, el Organismo del Transporte Convencional reexpedirá los Tarjetones de Conductor de Vehículos de los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario, mientras tanto, los operadores ampararán su calidad con los tarjetones con que ya cuentan, siempre que estos se encuentren vigentes.
+
+NOVENO. El personal que por la expedición de esta Ley pase a formar parte del Poder Ejecutivo del Estado en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con el Instituto Estatal de Transporte; lo mismo sucederá, de ser el caso, con el personal que pase a formar parte del Organismo del Transporte Masivo o del Organismo del Transporte Convencional que se creen para asumir lo relativo al Servicio Público de Transporte Masivo de Pasajeros o de los Servicios Colectivo e Individual y de los Servicios Auxiliares y Conexos a ambos.
+
+DÉCIMO. Toda concesión, permiso o autorización que a la entrada en vigor de la presente Ley no haya sido matriculada, las que no se encuentren operando y las que no estén debidamente registradas ante el Instituto Estatal de Transporte se declaran nulas de pleno derecho; de la misma forma, se declaran nulas de pleno derecho las órdenes de pago que se hubieren emitido por ese Instituto con anterioridad a la emisión del presente Decreto y que a la publicación del mismo no hayan sido cubiertas ante la Secretaría de Finanzas en el plazo correspondiente, al igual, son nulos de pleno derecho todos los trámites que hayan sido abandonados, en términos de la Ley que se abroga.
+
+DÉCIMO PRIMERO. Se faculta a la Dependencia para acordar, normar, implementar, ejecutar, regular y operar en cualquier tiempo a través del Organismo del Transporte Convencional y del Organismo del Transporte Masivo, según el caso de que se trate, la reorganización y regularizaciones que sean necesarias para el correcto funcionamiento, el mejoramiento o la modernización de los servicios materia de esta Ley.
+
+DÉCIMO SEGUNDO. El Gobernador del Estado expedirá los Reglamentos de la presente Ley, dentro de los doce meses posteriores a la promulgación de la presente Ley y se publicarán en el Periódico Oficial del Estado.
+
+Se reglamentará lo correspondiente a la autorización de colocación de los servicios publicitarios, los de promoción visual y la propaganda política, de conformidad a lo establecido en la Legislación Electoral, en lo que corresponde a Terminales, Centros de Transferencia Modal, Estaciones, Bases, Sitios, Paraderos, Paradores y a vehículos del Servicio de Transporte Masivo, Colectivo o Individual, así como la seguridad y contaminación visual que pudiese generar.
+
+DÉCIMO TERCERO. El Consejo de Transporte se instalará dentro de los 180 días siguientes a la publicación de esta Ley; en su primera sesión, determinará el programa de trabajo a realizar.
