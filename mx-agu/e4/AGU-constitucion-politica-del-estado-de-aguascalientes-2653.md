@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2013-05-06"
+last_updated: "2013-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -551,7 +551,9 @@ XXIII.- Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna L
 
 XXIV.- Investir al Gobernador de facultades extraordinarias en caso de calamidad pública.
 
-XXV.- Premiar a las personas que hayan prestado eminentes servicios públicos al Estado; o a los hijos de éste que los haya prestado a la Patria o a la humanidad y recompensar a los buenos servidores de la Administración Pública.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2013)</small>
+
+XXV.- Premiar a las personas que hayan prestado eminentes servicios públicos al Estado; o a los hijos de éste que los hayan prestado a la Patria o a la humanidad y recompensar a los buenos servidores de la Administración Pública, sin perjuicio de lo que dispone la parte final de la Fracción XIII del Artículo 46 de esta Constitución.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -927,7 +929,9 @@ XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de su
 
 XII.- Solicitar de la Diputación Permanente que convoque al Congreso a sesiones extraordinarias cuando fuere necesario.
 
-XIII.- Expedir títulos profesionales respecto de estudios realizados en instituciones dependientes del Estado.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2013)</small>
+
+XIII.- Expedir títulos profesionales respecto de estudios realizados en instituciones dependientes del Estado, así como otorgar el premio Aguascalientes conforme al decreto que el propio ejecutivo emita.
 
 XIV.- Conceder, conforme a la Ley, indulto, reducción y conmutación de penas.
 
@@ -2624,3 +2628,13 @@ En el momento en que se publique la legislación secundaria a que se refiere el 
 ###### ARTÍCULO TERCERO.
 
 El Congreso del Estado deberá aprobar y destinar los recursos necesarios para la implementación de la reforma del sistema de justicia penal acusatorio, a través de las erogaciones que deberán señalarse en forma expresa en el presupuesto general de egresos del Estado del ejercicio presupuestal inmediato siguiente a la publicación del presente Decreto y en los subsecuentes presupuestos de egresos. Estas erogaciones se aplicarán al diseño de las reformas legales, los cambios organizacionales, la construcción y operación de la infraestructura, la capacitación y difusión que sean necesarias.
+
+P.O. 29 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días siguientes a la entrada en vigencia del presente Decreto, el Ejecutivo del Estado emitirá el Decreto por el que se regule el otorgamiento del Premio Aguascalientes.
