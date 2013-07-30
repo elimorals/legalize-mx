@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2013-05-14"
+last_updated: "2013-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -71,17 +71,19 @@ El Estado de Quintana Roo adopta la forma de gobierno republicano, representativ
 
 Quintana Roo es un Estado democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el permanente mejoramiento integral de su población. El Estado, por tanto, persigue la democracia en sus dimensiones, social, económica, política y cultural.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 7o.
 
-La Constitución Política de los Estados Unidos Mexicanos y esta Constitución son la Ley Suprema del Estado. Los ordenamientos que de ellas emanen forman la estructura jurídica de Quintana Roo.
-
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1997)</small>
-
-Todos los habitantes del Estado de Quintana Roo tienen derecho, en la forma y términos establecidos por esta Constitución y la ley, a resolver sus controversias de carácter jurídico, mediante la conciliación, la que podrá tener lugar antes de iniciarse un juicio o durante su tramitación. Cuando los interesados así lo determinen, habrá lugar a la conciliación en la fase de ejecución.
+Son Ley Suprema en el Estado de Quintana Roo, las disposiciones que establezcan la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano sea parte y esta Constitución. Los ordenamientos que de ellas emanen forman la estructura jurídica de Quintana Roo.
 
 ###### ARTICULO 8o.
 
 Es función del Estado proveer el desenvolvimiento de todas las facultades de sus habitantes y promover en todo a que disfruten sin excepción de igualdad de opotunidades (sic).
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2013)</small>
+
+Respecto de los habitantes de las Islas de Quintana Roo, los Poderes Ejecutivo, Legislativo y Judicial, con la finalidad de promover la mencionada igualdad de oportunidades, considerarán en el ejercicio de sus funciones, las condiciones especiales de desventaja geográfica que tienen los territorios Insulares y, de esta manera, en su caso tomar las medidas específicas a favor de dichas regiones con miras a integrarlas equitativamente al desarrollo del resto del Estado de Quintana Roo.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
 
@@ -103,15 +105,23 @@ Al Estado corresponde impulsar el desarrollo económico en equilibrio con el med
 
 Esta Constitución no perderá su fuerza y vigencia, aún cuando por cualquier causa se interrumpa su observancia. En caso de que por trastornos públicos se establezca un gobierno contrario a sus principios o a los de la Constitución Federal, tan luego como el pueblo recobre su libertad, se restablecerá su observancia.
 
-## TITULO SEGUNDO. De las Garantías Individuales y Sociales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JULIO DE 2013)</small>
 
-### CAPITULO I. De las Garantías Individuales
+## TITULO SEGUNDO. De los derechos humanos y sus garantías
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 12.
 
-El Estado de Quintana Roo asegura para sus habitantes el goce irrestricto de las garantías individuales y sociales consignadas en la Constitución Política de los Estados Unidos Mexicanos.
+La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás, son fundamento del orden político y la paz social.
 
-Igual protección asume respecto de los derechos fundamentales que, en ejercicio de su soberanía, consagra esta Constitución.
+En el Estado de Quintana Roo, todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano sea parte y esta Constitución, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que esos mismos ordenamientos establezcan.
+
+Todas las autoridades estatales, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado de Quintana Roo, deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2009)</small>
 
@@ -527,6 +537,8 @@ Quedan prohibidas la pena de muerte, las de mutilación y de infamia, la marca, 
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
+> <small>(DEROGADO, P.O. 30 DE JULIO DE 2013)</small>
+
 ### CAPITULO II. De las Garantías Sociales
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2013)</small>
@@ -553,19 +565,25 @@ La educación es un derecho fundamental del ser humano y de la sociedad. Todo in
 
 El Estado garantizará el ejercicio del derecho a la educación para todos y la universalización de la educación básica.
 
-La educación básica obligatoria está conformada por la educación preescolar, primaria y secundaria.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
+La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias.
 
 La educación cumple un eminente valor social de interés general. Su orientación descansa en el desenvolvimiento integral de la persona como miembro de una colectividad, y propicia el acceso generalizado a la instrucción pública.
 
 El Estado de Quintana Roo, participará en la función educacional, con arreglo a la distribución dispuesta en la legislación federal de la materia, entre la Federación, Estados y Municipios, para su adecuada unificación y coordinación y para la determinación de las aportaciones económicas que deban corresponder a este servicio público.
 
-La educación en el Estado de Quintana Roo, será laica, científica, democrática, y nacionalista. Procurará el constante mejoramiento cultural, social, político y económico del pueblo. Se sustentará en los valores de la solidaridad humana, nacional e internacional. Luchará contra los privilegios, la exclusión y las rupturas del tejido social. Combatirá la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
+La educación en el Estado de Quintana Roo, será laica, científica, democrática y nacionalista. Procurará el constante mejoramiento cultural, social, político y económico del pueblo. Se sustentará en los valores de la Cultura de la Legalidad, el respeto a los Derechos Humanos y la conciencia de la solidaridad nacional e internacional. Luchará contra los privilegios, la exclusión y las rupturas del tejido social. Combatirá la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios.
 
 Asimismo, atenderá a la comprensión de la problemática estatal y contribuirá al aprovechamiento y conservación de los recursos del Estado, y a la defensa de la independencia política, científica, tecnológica y económica de la nación, para garantizar la continuidad y acrecentamiento de nuestra cultura.
 
 El Estado, además de lo señalado con antelación, deberá:
 
-a).- Promover y atender todos los tipos y modalidades educativos incluyendo la educación inicial, la educación media superior y la educación superior necesarios para el desarrollo del Estado y la Nación;
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
+a).- Promover y atender todos los tipos, niveles y modalidades educativas incluyendo la educación inicial, la educación superior y demás necesarios para el desarrollo del Estado y la Nación;
 
 b).- Acentuar la formación y capacitación para el trabajo orientada hacia la productividad; y
 
@@ -1297,13 +1315,23 @@ XLIV.- Recibir la protesta de Ley y aprobar o rechazar el nombramiento del Procu
 
 XLV.- Designar, mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
 
-(REFORMA, P.O. 6 DE MARZO DE 2000)
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2013)</small>
 
-XLVI.- Expedir leyes encaminadas a combatir el alcoholismo.
+XLVI.- Solicitar, a petición de la Comisión de Derechos Humanos del Estado de Quintana Roo, la comparecencia de las autoridades o servidores públicos responsables cuando éstos se hayan negado a aceptar o cumplir una Recomendación del mencionado órgano de protección de Derechos Humanos.
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2000)</small>
+La solicitud de comparecencia a que se refiere el párrafo anterior deberá ingresar a la Legislatura por conducto de su Comisión Ordinaria de Derechos Humanos;
 
-XLVII.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2013)</small>
+
+XLVII. Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
+
+XLVIII. Expedir leyes encaminadas a combatir el alcoholismo;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
+
+XLIX. Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
 
 #### SECCION QUINTA. De la Diputación Permanente
 
@@ -1599,9 +1627,13 @@ XVI.- Contratar empréstito (sic) y garantizar obligaciones con aprobación de l
 
 XVII. Nombrar, con la aprobación de la Legislatura del Estado o de la Diputación Permanente, en su caso, al Procurador General de Justicia.
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2013)</small>
 
-XVIII.- Las demás que le confiera esta Constitución y sus leyes.
+XVIII.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
+
+XIX.- Las demás que le confiera esta Constitución y sus Leyes.
 
 ###### ARTICULO 91.
 
@@ -1645,33 +1677,33 @@ XIII.- Las demás que señalen esta Constitución y sus leyes.
 
 Para el despacho de los negocios del orden administrativo, habrá el número de Secretarios que se determina en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo y los demás servidores públicos que determine la propia Ley, así como los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos y demás órganos creados o que se creen en la forma que establezcan las leyes.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 93.
 
-Toda Ley o decreto será refrendada por el Secretario de Gobierno y por el funcionario del ramo relativo.
+Todos los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado deberán estar firmados por el Secretario al que el asunto corresponda, y sin este requisito no serán obedecidos.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso del Estado, sólo se requerirá el refrendo del titular de la Secretaría de Gobierno.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
 
 ###### ARTICULO 94.
 
-La Legislatura Estatal, mediante la Ley o Decreto que al efecto expida, establecerá un Organismo de Protección de los Derechos Humanos, en el marco que otorga el orden jurídico vigente, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier Autoridad o Servidor Público, del Estado o de los Ayuntamientos que violen estos derechos.
+La Legislatura Estatal, mediante la ley o decreto que al efecto expida, establecerá un Organismo de Protección de los Derechos Humanos, en el marco que otorga el orden jurídico vigente, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público, del Estado o de los ayuntamientos que violen estos derechos.
 
-Este Organismo formulará recomendaciones públicas autónomas no vinculatorias y denuncias y quejas ante las Autoridades respectivas, y no será competente tratándose de asuntos electos (sic), laborales o jurisdiccionales.
+El Organismo que establezca la legislatura se denominará Comisión de Derechos Humanos del Estado de Quintana Roo; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1999)</small>
+La Comisión de Derechos Humanos del Estado de Quintana Roo, tendrá un Consejo Consultivo integrado por integrado por (sic) siete Consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Legislatura, la duración del encargo y los requisitos para acceder a éste.
 
-El Organismo que establezca la Legislatura se denominará Comisión de Derechos Humanos del Estado de Quintana Roo; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
+El Presidente de la Comisión de Derechos Humanos del Estado de Quintana Roo, quien lo será también del Consejo Consultivo, será designado en los mismos términos del párrafo anterior. Durará en su encargo cuatro años, pudiendo ser reelegido exclusivamente para un segundo período de igual duración y solo podrá ser removido de sus funciones en los términos del Título Octavo de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1999)</small>
+El Titular del citado Organismo presentará anualmente a la Legislatura en funciones, un informe de actividades. Al efecto comparecerá ante la Comisión correspondiente en los términos que disponga la ley de la materia.
 
-La Comisión de Derechos Humanos del Estado de Quintana Roo tendrá un Consejo Consultivo integrado por siete Consejeros que serán designados por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente, mediante el mismo sistema de votación. La ley de la materia determinará los procedimientos a seguir para la presentación de las propuestas por la propia Legislatura.
+La Comisión de Derechos Humanos del Estado de Quintana Roo, formulará recomendaciones públicas autónomas no vinculatorias y denuncias y quejas ante las autoridades respectivas, y no será competente tratándose de asuntos electorales o jurisdiccionales.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1999)</small>
+Todo servidor público estará obligado a responder las recomendaciones presentadas por este Organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa.
 
-El Presidente de la Comisión de Derechos Humanos del Estado de Quintana Roo, quien lo será también del Consejo Consultivo, será designado en los mismos términos del párrafo anterior. Durará en su encargo cuatro años, pudiendo ser designado exclusivamente para un segundo período y sólo podrá ser removido de sus funciones en los términos del Título Octavo de esta Constitución.
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1999)</small>
-
-El Titular del citado Organismo presentará anualmente a la Legislatura en funciones un informe de actividades. Al efecto comparecerá ante la Comisión correspondiente en los términos que disponga la ley de la materia.
+La Comisión de Derechos Humanos del Estado de Quintana Roo, dará vista a la Legislatura del Estado por conducto de su Comisión Ordinaria de Derechos Humanos, cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos involucrados. La Legislatura, su juicio, podrá citarles a comparecer con el objeto de que expliquen las razones de su conducta o justifiquen su omisión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 1995)</small>
 
@@ -1695,23 +1727,25 @@ III.- Tener modo honesto de vivir.
 
 Tratándose de lo dispuesto en la fracción I del presente artículo, podrá ser dispensable únicamente para el cargo de Secretario de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
 ### CAPITULO IV. Del Poder Judicial
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 96.
 
+El Ministerio Público estará a cargo de un Procurador General de Justicia y del número de agentes que la ley determine.
+
 Para ser Procurador General de Justicia, se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento y nativo de la entidad o con residencia efectiva no menor de 5 años.
+l.- Ser ciudadano mexicano por nacimiento y nativo de la Entidad o con residencia efectiva no menor de 5 años;
 
-II.- Ser licenciado en derecho con título debidamente registrado.
+II.- Ser licenciado en derecho con título debidamente registrado;
 
 III.- Estar en pleno ejercicio de sus derechos políticos, y
 
 IV.- Tener modo honesto de vivir.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 1995)</small>
 
 El Procurador General de Justicia podrá ser removido libremente por el Gobernador del Estado.
 
@@ -1779,11 +1813,15 @@ La Ley, conforme a las bases de esta Constitución, establecerá las condiciones
 
 Los Magistrados del Tribunal Superior de Justicia durarán en su encargo un período de seis años, podrán ser reelectos por una sola vez, para un período de igual duración, y solo podrán ser separados en los términos que señala el Título Octavo de esta Constitución o en su caso, como consecuencia del retiro forzoso.
 
-Los Jueces durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueren ratificados o promovidos, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca esta Constitución y la ley.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
+Las y los Jueces durarán seis años en el ejercicio de su encargo, al término de los cuales, podrán ser ratificados por períodos de igual duración, ante el Consejo de la Judicatura del Poder Judicial del Estado; podrán ser removidos en los casos y conforme al procedimiento que establezca la ley.
 
 Los Magistrados, Jueces y Consejeros de la Judicatura del Estado, percibirán una remuneración digna, decorosa e irrenunciable, que no podrá ser disminuida durante el tiempo de su encargo.
 
-Los Magistrados del Tribunal Superior de Justicia rendirán protesta ante la Legislatura del Estado o la Diputación Permanente, en su caso; los Jueces ante el Pleno del Tribunal Superior de Justicia y los demás servidores del Poder Judicial ante el Consejo de la Judicatura.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
+Las y los Magistrados del Tribunal Superior de Justicia rendirán protesta ante la Legislatura del Estado o la Diputación Permanente, en su caso; las y los jueces y demás servidores del Poder Judicial ante el Consejo de la Judicatura.
 
 Ningún servidor público del Poder Judicial del Estado podrá tener, servir o desempeñar al mismo tiempo otro empleo, cargo o comisión diverso, con excepción de la docencia y los cargos honoríficos en instituciones públicas o privadas, asociaciones o sociedades científicas, literarias, culturales, educativas, deportivas, de investigación científica o de beneficencia, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 
@@ -2587,7 +2625,9 @@ EST P.V. X Y
 
 42 43 S 65°25'58"E 833.981 467675.680 2257242.454 42
 
-43 1 Sobre la línea de costa del Mar Caribe hacia el sur hasta llegar al vértice 1. Se respeta el polígono del Xel-Ha perteneciente al Municipio de Cozumel descrito en el Artículo 128 fracción IV párrafo cuarto de la Constitución Política del Estado Libre y Soberano de Quintana Roo. 468434.164 2256895.718 43
+43 1
+
+Sobre la línea de costa del Mar Caribe hacia el sur hasta llegar al vértice 1. Se respeta el polígono del Xel-Ha perteneciente al Municipio de Cozumel descrito en el Artículo 128 fracción IV párrafo cuarto de la Constitución Política del Estado Libre y Soberano de Quintana Roo. 468434.164 2256895.718 43
 
 Se excluyen de su jurisdicción, las áreas descritas en la fracción IV párrafo cuarto de este artículo.
 
@@ -3345,9 +3385,9 @@ Para los efectos de las responsabilidades a que alude este Título, se reputará
 
 La Legislatura del Estado expedirá una Ley de Responsabilidades de los Servidores Públicos, así como las demás disposiciones que sancionen conductas que entrañen responsabilidad de los servidores públicos conforme a las siguientes prevenciones:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2013)</small>
 
-I. Se impondrá mediante Juicio Político; al Gobernador del Estado, a los Diputados de la Legislatura, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Electoral de Quintana Roo, Consejeros de la Judicatura del Poder Judicial, Magistrados de los Tribunales Unitarios, Jueces de Fuero Común, al Titular del Órgano de Fiscalización Superior, a los Consejeros Electorales del Consejo General, así como el Secretario General del Instituto Electoral de Quintana Roo, Secretarios y Subsecretarios del Despacho, Procurador General de Justicia del Estado, Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+I. Se impondrá mediante juicio político: a la o el Gobernador del Estado, a las y los Diputados de la Legislatura, las y los Magistrados del Tribunal Superior de Justicia, las y los Magistrados del Tribunal Electoral de Quintana Roo, las y los Consejeros de la Judicatura del Poder Judicial, las y los Magistrados de los Tribunales Unitarios, a la o al Titular del Órgano de Fiscalización Superior, a las o los Consejeros Electorales del Consejo General, así como a la o el Secretario General del Instituto Electoral de Quintana Roo, las y los Secretarios y Subsecretarios del Despacho, a la o el Procurador General de Justicia del Estado, las y los Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
 Cualquier ciudadano bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
 
@@ -4322,3 +4362,39 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el
 SEGUNDO.- Los Magistrados Numerarios, que a la entrada en vigor de este Decreto hayan cumplido más de doce años en el ejercicio del cargo, o bien más de sesenta y cinco años de edad, serán separados del mismo y gozarán del haber de retiro que establece el artículo 100 de esta Constitución.
 
 TERCERO.- Los poderes Ejecutivo y Judicial llevarán a cabo todas las previsiones presupuestales necesarias para aplicar el derecho al haber de retiro a cada magistrado numerario que le corresponda de conformidad a lo que establece esta Constitución.
+
+P.O. 30 DE JULIO DE 2013.
+
+DECRETO NÚMERO 296, POR EL QUE SE REFORMAN LOS PÁRRAFOS CUARTO Y SEXTO DEL ARTÍCULO 100 Y LA FRACCIÓN I DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 160, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 30 DE JULIO DE 2013.
+
+DECRETO NÚMERO 297, POR EL QUE SE REFORMAN EL PÁRRAFO TERCERO, PÁRRAFO SEXTO Y PÁRRAFO OCTAVO EN SU INCISO A) DEL ARTÍCULO 32 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- La obligatoriedad del Estado de garantizar la educación media superior, se realizará de manera gradual y creciente a partir del ciclo escolar 2013-2014 y hasta lograr la cobertura total en sus diversas modalidades a más tardar en el ciclo escolar 2021-2022.
+
+TERCERO-. Para dar cumplimiento al principio de obligatoriedad, en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo para el Ejercicio Fiscal 2014 se incluirán los recursos necesarios que aseguren a largo plazo los recursos económicos crecientes para infraestructura de la educación media superior.
+
+P.O. 30 DE JULIO DE 2013.
+
+DECRETO NÚMERO 298, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL TÍTULO SEGUNDO, DEROGANDO SUS ACTUALES CAPÍTULOS PRIMERO Y SEGUNDO, QUEDANDO EN SU LUGAR UN CAPÍTULO ÚNICO AL TÍTULO SEGUNDO DENOMINADO "DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS" Y LOS ARTÍCULOS 7, 12, 75, 90, 94 Y 96 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE JULIO DE 2013.
+
+DECRETO NÚMERO 299, POR EL QUE SE REFORMA EL ARTÍCULO 93 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE JULIO DE 2013.
+
+DECRETO NÚMERO 300, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 8° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
