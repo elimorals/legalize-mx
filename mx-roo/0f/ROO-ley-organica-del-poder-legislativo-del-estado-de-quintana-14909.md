@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2013-04-09"
+last_updated: "2013-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -267,9 +267,25 @@ XLIII.- Recibir la protesta de Ley y aprobar o rechazar el nombramiento del Proc
 
 XLIV.- Designar, mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley.
 
-XLV.- Expedir leyes encaminadas a combatir el alcoholismo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLVI.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
+
+XLV.- Solicitar la comparecencia de las autoridades o servidores públicos responsables cuando éstos se hayan negado a aceptar o cumplir una Recomendación de la Comisión de Derechos Humanos del Estado de Quintana Roo, a efecto de que expresen las razones de su conducta o bien justifiquen los hechos u omisiones en que hubiere incurrido. La solicitud de comparecencia deberá realizarla el Organismo de Derechos Humanos por conducto de la Comisión Ordinaria de Derechos Humanos de la Legislatura del Congreso del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
+
+XLVI.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de Derechos Humanos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2013)</small>
+
+XLVII.- Expedir leyes encaminadas a combatir el alcoholismo; y,
+
+XLVIII.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -759,7 +775,7 @@ La integración de la Diputación Permanente, así como su Mesa Directiva, se co
 
 ###### ARTICULO 56.
 
-Las sesiones de la Diputación Permanente tendrán lugar una vez por semana en los días y a las horas que el Presidente de la misma indique formalmente. Si hubiere necesidad de celebrar algunas otras sesiones fuera de los días estipulados, se llevarán a cabo previa convocatoria por parte del P111111111111111111111111111111111111111residente.
+Las sesiones de la Diputación Permanente tendrán lugar una vez por semana en los días y a las horas que el Presidente de la misma indique formalmente. Si hubiere necesidad de celebrar algunas otras sesiones fuera de los días estipulados, se llevarán a cabo previa convocatoria por parte del Presidente.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -2004,3 +2020,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
 
 TERCERO. El Tribunal Electoral, el Instituto Electoral, el Instituto de Transparencia y Acceso a la Información Pública, y los Ayuntamientos, todos del Estado de Quintana Roo contarán con 60 días naturales a partir de la entrada en vigor del presente Decreto, para efectuar las adecuaciones correspondientes a su normatividad interna.
+
+P.O. 30 DE JULIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor, previa su publicación en el Periódico Oficial del Estado de Quintana Roo, cuando inicie su vigencia el Decreto por el que se reforma la denominación del Título Segundo, derogando sus actuales capítulos Primero y Segundo, quedando en su lugar un Capítulo Único al Título Segundo denominado "De los Derechos Humanos y sus Garantías"; y los Artículos 7, 12, 75, 90, 94 y 96 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
