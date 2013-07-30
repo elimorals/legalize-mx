@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-5643
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2007-07-04"
+last_updated: "2013-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -149,9 +149,13 @@ I. Implementar la política municipal en materia de igualdad entre mujeres y hom
 
 II. Coadyuvar con el Gobierno Federal y con el Gobierno Estatal correspondiente, en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
 
-III. Diseñar, formular y aplicar campañas de concientización que promuevan los valores y contenidos de la presente ley, y
+III. Diseñar, formular y aplicar campañas de concientización que promuevan los valores y contenidos de la presente ley, y (sic)
 
 IV. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales.
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
+
+V. Tomar las medidas necesarias en sus presupuestos de egresos para la ejecución de programas con perspectiva de género, en términos de la legislación aplicable.
 
 ## TÍTULO III
 
@@ -458,3 +462,13 @@ C. Oscar Román Rosas González, Diputado Presidente.- C. Jorge Isaac Brown Fili
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veintidós días del mes de junio del año dos mil siete.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. en D. RICARDO MEDINA FARFÁN.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JULIO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En la medida de sus posibilidades presupuestales, las autoridades competentes tomarán las previsiones necesarias para la observancia de los efectos de este decreto.
+
+TERCERO.- Se derogan todas (sic) disposiciones legales y reglamentarias que se opongan a lo que este decreto dispone
