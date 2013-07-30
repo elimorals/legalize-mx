@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-528-de-fomento-economico-para-el-estado-de-66454"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-30"
-last_updated: "2011-05-11"
+last_updated: "2013-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 528 DE FOMENTO ECONOMICO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 528 DE FOMENTO ECONOMICO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 528 DE FOMENTO ECONÓMICO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2013.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de enero de 2009.
 
@@ -551,6 +551,16 @@ IV. Vinculación con el sector educativo y tecnológico para formar recursos hum
 
 V. Celebración de acuerdos y convenios con entidades del sector público, privado y social, que generen recursos para su fomento.
 
+> <small>(ADICIONADO, G.O. 30 DE JULIO DE 2013)</small>
+
+###### Artículo 35 Bis.
+
+Por su importancia en la generación de empleo y en la derrama económica, el sector de las micro, pequeñas y medianas empresas se considera prioritario para el desarrollo económico de la Entidad. La Secretaría articulará un programa permanente de apoyo y fortalecimiento a este sector, que contemplará: Capacitación, consultoría, financiamiento y comercialización, e implementará con carácter de permanente y obligatorio para el Estado y los Municipios un sistema de apertura rápida de empresas.
+
+Las micro, pequeñas y medianas empresas veracruzanas accederán a financiamientos públicos recuperables mediante tasas preferenciales, previa acreditación de capacitación pública. En todos los casos, la Secretaría fortalecerá el funcionamiento de los beneficios con programas de consultoría.
+
+La Secretaría vinculará a las micro, pequeñas y medianas empresas veracruzanas con las grandes empresas de la Entidad y el país, a través de programas de desarrollo de proveedores que promuevan la integración y desarrollo de cadenas productivas.
+
 ## TÍTULO DÉCIMO QUINTO. DEL DESARROLLO ECONÓMICO REGIONAL
 
 ###### Artículo 36.
@@ -647,8 +657,12 @@ Licenciado Fidel Herrera Beltrán
 
 Gobernador del Estado.-Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE MAYO DE 2011.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 30 DE JULIO DE 2013.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
