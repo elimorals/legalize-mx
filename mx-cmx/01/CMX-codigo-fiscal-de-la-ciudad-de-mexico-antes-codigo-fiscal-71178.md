@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2012-12-31"
+last_updated: "2013-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CÓDIGO FISCAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JULIO DE 2013.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -6812,17 +6812,17 @@ Los recursos adicionales a los asignados en la Ley de Ingresos que se obtengan d
 
 Por la expedición en copia certificada, simple o fotostática o reproducción de información pública, derivada del ejercicio del derecho de acceso a la información pública, se deberán pagar las cuotas que para cada caso se indican a continuación:
 
-(REFORMADA, G.O. 23 DE JULIO DE 2012) (REFORMADA EN SU CUOTA, G.O. 31 DE DICIEMBRE DE 2012)
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2013)</small>
 
-l. De copia certificada, por una sola cara $5.00
+I. De copia certificada, por una sola cara $2.00
 
-(REFORMADA, G.O. 23 DE JULIO DE 2012) (REFORMADA EN SU CUOTA, G.O. 31 DE DICIEMBRE DE 2012)
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2013)</small>
 
-II. De versión pública, por una sola cara $2.00
+II. De versión pública, por una sola cara $1.00
 
-(REFORMADA, G.O. 23 DE JULIO DE 2012) (REFORMADA EN SU CUOTA, G.O. 31 DE DICIEMBRE DE 2012)
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2013)</small>
 
-III. De copia simple o fotostática, por una sola cara $2.00
+III. De copia simple o fotostática, por una sola cara $1.00
 
 > <small>(REFORMADA EN SU CUOTA, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -9456,7 +9456,9 @@ V. En caso de promover a nombre de otra persona, acompañar el documento con el 
 
 VI. El número de cuenta, en tratándose de promociones y documentos relacionados con el impuesto predial y derechos por el suministro de agua, y
 
-VII. Anexar, en original o copia certificada la documentación en que se sustente la promoción respectiva.
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2013)</small>
+
+VII. Anexar, en original o copia certificada la documentación en que se sustente la promoción respectiva, a excepción de los supuestos previstos en el artículo 455 del presente Código.
 
 Cuando no se cumplan los requisitos a que se refieren las fracciones I a la VII y respecto a la forma oficial a que se refiere este artículo, las autoridades requerirán al promovente a fin de que en un plazo de 10 días cumpla con el requisito omitido, salvo que el requisito que se omitió haya sido el número telefónico o el correo electrónico. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada, si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario. Cuando la omisión consista en no señalar el domicilio para oír y recibir notificaciones dentro del Distrito Federal, la notificación del requerimiento se efectuará por estrados, de conformidad con lo que dispone el artículo 434, fracción IV, de este Código.
 
@@ -9904,15 +9906,21 @@ II. Expresar los hechos constitutivos de los probables daños y perjuicios a la 
 
 III. Indicar el monto histórico total de los probables daños y perjuicios a que se refiere la fracción anterior; así como el monto que se le imputa a cada uno de los servidores públicos o particulares probables responsables, señalando la fecha en que se cometieron las irregularidades a que se refiere la fracción anterior;
 
-IV. Acompañar en original o copia certificada las constancias que acrediten los probables daños y perjuicios a la Hacienda Pública del Distrito Federal, y
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2013)</small>
 
-V. Precisar los nombres y domicilios de los servidores públicos y particulares, probables responsables de los hechos a que se refiere la fracción II que antecede. En el caso del domicilio del o los probables responsables, se deberán integrar las constancias con las que se acrediten que éste no es mayor a tres meses.
+IV. Acompañar en original o copia certificada las constancias que acrediten los probables daños y perjuicios a la Hacienda Pública del Distrito Federal; cuando, el promovente no tenga a su disposición dicha documentación, deberá presentar el documento original sellado que acredite haber solicitado, al ente auditado o al archivo correspondiente su expedición, a efecto que la Procuraduría Fiscal las requiera, apercibido con la imposición de una multa que no será inferior a 200 salarios mínimos vigentes en el Distrito Federal, en el caso, que la documentación requerida, conforme a la ley deba ser conservada por el ente auditado o por el particular relacionado con los hechos, se le requerirá, con el apercibimiento, que en caso de ser omiso, salvo prueba en contrario se presumirán como ciertas las irregularidades que sustenta el fincamiento de responsabilidad resarcitoria; y
+
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2013)</small>
+
+V. Precisar los nombres y domicilios de los servidores públicos y particulares, probables responsables de los hechos a que se refiere la fracción II que antecede; en el caso del domicilio del o los probables responsables, se deberán integrar las constancias con las que se acrediten que este no es mayor a tres meses.
+
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
+
+En el supuesto que el promovente no tenga a su disposición los domicilios actualizados requeridos en el párrafo que antecede, acreditará haberlos requerido a las instancias correspondientes, para que la Procuraduría Fiscal solicite le sean remitidos, con los apercibimientos que estime conducentes.
+
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
 
 Cuando no se cumpla con alguno de los requisitos, la Procuraduría Fiscal, requerirá al solicitante, para que en un plazo de cinco días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la solicitud se tendrá por no presentada.
-
-Quien solicite o promueva el inicio de un procedimiento resarcitorio deberá aportar los elementos probatorios para acreditar los hechos que causan el daño o perjuicio a la Hacienda Publica del Distrito Federal o al patrimonio de las entidades u órganos autónomos, o la presunta responsabilidad de las personas a las que se les imputa tales hechos; en caso contrario, dicha solicitud será desechada.
-
-En caso de que los elementos de prueba aportados sean falsos o se compruebe el uso indebido de información confidencial o reservada; el solicitante deberá cubrir el monto histórico a que se refiere la fracción III, de este artículo, independientemente de las sanciones establecidas en otros ordenamientos jurídicos.
 
 ###### ARTICULO 456.
 
@@ -13429,3 +13437,19 @@ b) Primer bimestre anterior al reporte: 55%
 c) Segundo bimestre anterior al reporte: 35%
 
 Si de la visita realizada por la autoridad no se desprende la existencia de fuga alguna, no habrá derecho a la condonación prevista. La Procuraduría Fiscal será la encargada de la emisión de los lineamientos pertinentes.
+
+G.O. 30 DE JULIO DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 249 DEL CÓDIGO FISCAL DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente después de su publicación.
+
+SEGUNDO.- Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 30 DE JULIO DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 430 Y 455 DEL CÓDIGO FISCAL DEL DISTRITO FEDERAL.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
