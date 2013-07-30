@@ -4,7 +4,7 @@ identifier: "VER-ley-de-responsabilidad-juvenil-para-el-estado-de-veracruz-51773
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-11"
-last_updated: "2010-10-07"
+last_updated: "2013-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "VER"
 
 LEY DE RESPONSABILIDAD JUVENIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 11 de septiembre de 2006.
 
 LEY NÚMERO 587
 
-LEY DE RESPONSABILIDAD JUVENIL PARA El ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE RESPONSABILIDAD JUVENIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ## TÍTULO I. De los principios, derechos y garantías de los adolescentes
 
@@ -311,7 +311,7 @@ Se entenderá por acuerdo reparatorio, el pacto entre la víctima u ofendido y e
 
 ###### Artículo 43.
 
-Con excepción de los delitos previstos en el artículo 137. 1. I.a., b., c. y d.; 137.1. III., 137.1.V.; 137.1.VII.; 137.1.IX.; 137.1.X.; 137.1.XI.; 137.1.XII., de esta Ley, procederá el acuerdo reparatorio entre la víctima u ofendido y el adolescente hasta antes de dictarse el auto de apertura a juicio.
+Con excepción de los delitos previstos en el artículo 137.1. I.a., b., c. y d.; 137.1. III., 137.1.V.; 137.1.VII.; 137.1.IX.; 137.1.X.; 137.1.XI.; 137.1.XII., de esta Ley, procederá el acuerdo reparatorio entre la víctima u ofendido y el adolescente hasta antes de dictarse el auto de apertura a juicio.
 
 ###### Artículo 44.
 
@@ -329,7 +329,9 @@ III. La participación del adolescente no se utilizará como prueba de admisión
 
 IV. El incumplimiento de un acuerdo no deberá utilizarse como fundamento para la resolución definitiva.
 
-V. Los procedimientos deberán ser conducidos por facilitadores debidamente capacitados y certificados por el Consejo de la Judicatura del Poder Judicial.
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2013)</small>
+
+V. Los procedimientos deberán ser conducidos por facilitadores debidamente capacitados y certificados por el Centro Estatal de Justicia Alternativa de Veracruz.
 
 VI. Durante su desarrollo, el adolescente estará asistido por su defensor, y tratándose de la víctima del delito si fuese menor de edad o incapaz, el compromiso habrá de ser asumido con sus padres, tutores o representantes.
 
@@ -637,15 +639,17 @@ V. La prohibición de concurrir a determinadas reuniones o de visitar ciertos lu
 
 VI. La prohibición de convivir o comunicarse con personas determinadas, siempre que no se afecte el derecho de defensa;
 
-Vll. La separación inmediata del domicilio cuando se trate de agresiones o delitos sexuales contra miembros de la familia o contra quienes convivan en el mismo domicilio;
+VII. La separación inmediata del domicilio cuando se trate de agresiones o delitos sexuales contra miembros de la familia o contra quienes convivan en el mismo domicilio;
 
 VIII. La detención provisional, en su domicilio, centro médico o centro especializado si la conducta de que se trate admite el internamiento de conformidad con esta Ley y el adolescente es mayor de catorce años de edad.
 
 2. En cualquier caso, el Juez podrá prescindir de toda medida cautelar cuando la promesa del adolescente de someterse al proceso sea suficiente para descartar los motivos que autorizarían el dictado de aquélla conforme a las causas de procedencia.
 
+> <small>(REFORMADO, 30 DE JULIO DE 2013)</small>
+
 ###### Artículo 82.
 
-Con excepción de la detención provisional, las medidas cautelares serán ordenadas hasta por dos meses de duración y a la fecha de su vencimiento podrán ser prorrogadas por el Juez, por única vez, hasta por un mes adicional. Deberá mantenerse debidamente informado al Juez respecto del cumplimiento de éstas. La violación o la falta de cumplimiento de la medida ordenada dará lugar a que el Juez aplique otra más severa.
+Las medidas cautelares serán ordenadas hasta por cuarenta días de duración y a la fecha de su vencimiento podrán ser prorrogadas por el Juez, por única vez, hasta por cuarenta días. Deberá mantenerse debidamente informado al Juez respecto del cumplimiento de éstas. La violación o la falta de cumplimiento de la medida ordenada dará lugar a que el Juez aplique otra más severa.
 
 ###### Artículo 83.
 
@@ -653,9 +657,11 @@ Con excepción de la detención provisional, las medidas cautelares serán orden
 
 2. La detención provisional tendrá lugar en su domicilio, en centro médico o en centros especializados para adolescentes. En este último caso los adolescentes deberán estar separados de aquellos a los que se les haya impuesto una medida sancionadora de privación de libertad mediante sentencia definitiva. Además, deberá observarse la separación por razón de grupo etario y género.
 
+> <small>(REFORMADO, 30 DE JULIO DE 2013)</small>
+
 ###### Artículo 84.
 
-La detención provisional tendrá una duración máxima de cuarenta y cinco días prorrogables hasta por quince días más. Podrá ser sustituida por otra medida menos grave en cualquier momento, a solicitud de parte. Cuando el Ministerio Público estime que debe prorrogarse, así deberá solicitarlo, exponiendo sus motivaciones al Juez, quien valorará las actuaciones y circunstancias particulares del caso para establecer el plazo de la prórroga.
+La detención provisional podrá ser sustituida por otra medida menos grave en cualquier momento, a solicitud de parte. Cuando el Ministerio Público estime que debe prorrogarse, así deberá solicitarlo, exponiendo sus motivaciones al Juez, quien valorará las actuaciones y circunstancias particulares del caso para establecer el plazo de la prórroga.
 
 ###### Artículo 85.
 
@@ -1101,7 +1107,9 @@ I. Domiciliaria: consiste en la prohibición impuesta al adolescente de salir de
 
 II. Obligación de concurrir a centro especializado en su tiempo libre: consistente en concurrir a centro especializado en su tiempo libre durante días de asueto y fines de semana en que no tenga la obligación de asistir a la escuela ni al centro de trabajo.
 
-2. La libertad vigilada no podrá ordenarse por un plazo inferior a tres meses ni superior a tres años.
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
+
+2. La libertad vigilada no podrá ordenarse por un plazo inferior a tres meses ni superior a tres años, y para su mayor eficacia la autoridad podrá valerse de cualquier medio o dispositivo tecnológico debidamente aprobado, siempre y cuando sea en beneficio del adolescente.
 
 ###### Artículo 131.
 
@@ -1159,83 +1167,75 @@ En los casos en que el adolescente incumpla reiterada e injustificadamente, en l
 
 La privación de libertad es una medida de carácter excepcional, que deberá aplicarse cuando no sea posible aplicar ninguna otra y al grupo erario comprendido en la fracción II del artículo 3 de esta Ley, y por los delitos señalados en el artículo 137 de este ordenamiento.
 
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
+
 ###### Artículo 137.
 
-1. La privación de libertad en centro especializado para adolescentes comprendidos en la fracción II del artículo 3 de esta Ley no podrá ser menor de cuatro años ni exceder los siete años en caso de que fueran encontrados responsables, únicamente en los casos de los delitos siguientes del Código Penal:
+l. La privación de libertad en centro especializado para adolescentes comprendidos en la fracción II del artículo 3 de esta Ley, no podrá ser menor de cuatro años ni exceder los diez años, cuando el adolescente tenga una edad de catorce a menos de dieciséis años al momento de realizar el hecho, y de quince años como máximo cuando tenga una edad de dieciséis a menos de dieciocho años, en caso de que fueran encontrados responsables, únicamente de los delitos graves siguientes del Código Penal para el Estado:
 
-I. Homicidio. Referido en los artículos:
+I. Delitos de homicidio doloso:
 
-a. 129;
+a) Homicidio, previsto en el artículo 128 con relación a los artículos 129, 130, 131, 132 y 133; y
 
-b. 130;
+b) Feminicidio, previsto en el artículo 367 Bis.
 
-c. 131;
+II. Delitos de violación: los previstos en los artículos 184,184 Bis y 185.
 
-d. 132, y
+III. Delitos de secuestro:
 
-e. 147, párrafo primero
+a) Privación de la libertad física, previsto en el artículo 161, párrafo segundo; y
 
-II. Lesiones. Que refieren los artículos:
+b) Secuestro, previsto en los artículos 163 y 163 Bis.
 
-a. 137 fracción V;
+IV. Delitos cometidos por medios violentos:
 
-b. 137 fracción VI;
+a) Lesiones dolosas, previstos en los artículos 137, fracciones III a VI, y 138;
 
-c. 138.
+b) Asalto, previsto en el artículo 171;
 
-III. Secuestro. Artículo 163.
+c) Robo con violencia, previsto en la fracción II, inciso b), del artículo 205, y en la parte final del artículo 207;
 
-IV. Asalto. Artículo 171
+d) Abigeato, previsto en los artículos 210, 211 y 212; y
 
-V. Violación. Que refieren los artículos:
+e) Estragos, previsto en el artículo 265.
 
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+V. Delitos contra la seguridad del Estado:
 
-a.184;
+a) Conspiración, previsto en los artículos 299, párrafos segundo y tercero, y 300;
 
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+b) Rebelión, previstos en los artículos 301 y 306;
 
-b. 184 Bis, y
+c) Terrorismo, previsto en los artículos 311, párrafo primero, y 312;
 
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+d) Sabotaje, previsto en el artículo 314; y
 
-c.185
+e) Espionaje contra las instituciones de seguridad pública, previsto en el artículo 371.
 
-VI. Robo. Artículo 205 fracción II inciso b, en el supuesto de violencia física o moral contra las personas.
+VI. Delitos contra el libre desarrollo de la personalidad:
 
-VII. Tráfico de menores. Artículo 243
+a) Inducción o ayuda al suicidio, previsto en el párrafo segundo del artículo 148;
 
-VIII. Estragos. Artículo 265
+b) Aborto, en la modalidad prevista en el artículo 151;
 
-IX. Corrupción de Menores. Artículo 285 (en el supuesto de obligar).
+c) Exposición de menores e incapaces, en lo previsto por el párrafo segundo del artículo 157;
 
-> <small>(REFORMADA, G.O. 7 DE OCTUBRE DE 2010)</small>
+d) Esterilidad forzada, previsto en el artículo 160 bis;
 
-X. Pornografía. Que refiere el artículo 290, en lo previsto por las fracciones II, III, IV y VI.
+e) Pederastia, previsto en los artículos 182 y 183;
 
-XI. Lenocinio y trata de personas. Que refieren los artículos:
+f) Tráfico de menores, previsto en el artículo 243;
 
-a. 292 fracción V última parte;
+g) Corrupción de menores o incapaces, previsto en la fracción II del artículo 285;
 
-b. 293, y
+h) Pornografía, previsto en las fracciones I, II, III y IV del artículo 290; y
 
-c. 294
+i) Lenocinio, previsto en las fracciones IV y V del artículo 292.
 
-XII.- Terrorismo. Que refieren los artículos:
+Para los mismos efectos a que se refiere este artículo, se clasifican como graves los delitos de trata de personas y de tortura, previstos en las leyes especiales de la materia, así como los delitos de extorsión, previsto en el artículo 220 del Código Penal para el Estado, y de operaciones con recurso de procedencia ilícita, previsto en el artículo 230 de ese mismo ordenamiento.
 
-a. 311 párrafo primero;
+La tentativa punible de los ilícitos penales mencionados en este artículo también se califica como delito grave.
 
-b.312, y
-
-c.313.
-
-XIII. Sabotaje, a que se refiere el artículo 314.
-
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
-
-2. En caso de tentativa punible de los delitos incluidos en el párrafo 1 de este artículo, con excepción de los previstos en las fracciones II y VI, también podrá aplicarse privación de la libertad.
-
-3. Al ejecutar una medida de privación de libertad en centro especializado, se deberá computar el período de detención provisional al que hubiere sido sometido el adolescente.
+2. Al ejecutar una medida de privación de libertad en centro especializado, se deberá computar el periodo de detención provisional al que hubiere sido sometido el adolescente.
 
 ###### Artículo 138.
 
@@ -1351,9 +1351,11 @@ La Dirección General de Ejecución de Medidas Sancionadoras, deberá evaluar el
 
 La Dirección General de Ejecución de Medidas Sancionadoras deberá procurar el mayor contacto posible con los familiares del adolescente sancionado. Para ello, bimestralmente, como mínimo, deberá informar al defensor y al familiar más cercano sobre el desarrollo o cualquier dificultad en la implementación del Programa Individual de Ejecución.
 
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
+
 ###### Artículo 149.
 
-Los centros especializados en donde se ejecute la medida de privación de libertad deberán contar con personal capacitado, así como áreas y condiciones adecuadas para su cumplimiento. Así mismo, deberán ubicarse en los lugares más cercanos posibles a la comunidad donde resida el adolescente.
+Los centros especializados en donde se ejecute la medida de privación de libertad deberán contar con personal capacitado en las ramas de trabajo social, medicina, psicología, psiquiatría, pedagogía y educación física, y con áreas y condiciones adecuadas para su cumplimiento. Asimismo, deberán ubicarse en los lugares más cercanos posibles a la comunidad donde resida el adolescente.
 
 #### SECCIÓN III. Ejecución y cumplimiento de las medidas sancionadoras privativas de libertad
 
@@ -1363,7 +1365,9 @@ Los centros especializados en donde se ejecute la medida de privación de libert
 
 2. Los centros deberán prever secciones diferentes para albergar a los hombres y a las mujeres. En los centros no se podrá admitir a adolescentes sin orden previa de autoridad judicial competente. Igualmente, se separarán los adolescentes que se encuentren sujetos a medida de detención provisional de aquellos cuya sentencia se encuentre firme.
 
-3. Cuando se trate de adultos jóvenes o los adolescentes cumplan la mayoría de edad durante la ejecución de la medida sancionadora, deberán ser totalmente separados físicamente de los adolescentes.
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
+
+3. Cuando se trate de adultos jóvenes o los adolescentes cumplan la mayoría de edad durante la ejecución de la medida sancionadora deberán ser totalmente separados físicamente de los adolescentes. De no ser posible esa separación, serán trasladados al Centro de Prevención y Readaptación Social que corresponda, a efecto de que en un área especial de dicho Centro continúen con el tratamiento respectivo, bajo la supervisión y seguimiento de las autoridades competentes.
 
 ###### Artículo 151.
 
@@ -1827,7 +1831,7 @@ Gobernador del Estado
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 9 DE MARZO DE 2007.
 
@@ -1840,3 +1844,17 @@ G.O. 7 DE OCTUBRE DE 2010.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+G.O. 30 DE JULIO DE 2013.
+
+DECRETO NÚMERO 854, POR EL QUE SE REFORMAN LOS ARTÍCULOS 82, 84, 130 PÁRRAFO 2, 137, 149 Y 150 PÁRRAFO 3, DE LA LEY DE RESPONSABILIDAD JUVENIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE JULIO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
