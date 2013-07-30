@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-el-otorgamiento-del-estimulo-al-desempeno-67888
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-27"
-last_updated: "2011-02-14"
+last_updated: "2013-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO PARA EL OTORGAMIENTO DEL ESTIMULO AL DESEMPEÑO DOCENTE PARA EL PERSONAL ACADEMICO DE LA ESCUELA NORMAL RURAL "LAZARO CARDENAS DEL RIO" DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
-REGLAMENTO PARA EL OTORGAMIENTO DEL ESTIMULO AL DESEMPEÑO DOCENTE PARA EL PERSONAL ACADEMICO DE LA ESCUELA NORMAL RURAL "LAZARO CARDENAS DEL RIO" DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
+REGLAMENTO PARA EL OTORGAMIENTO DEL ESTIMULO AL DESEMPEÑO DOCENTE PARA EL PERSONAL ACADÉMICO DE LA ESCUELA NORMAL RURAL "LÁZARO CÁRDENAS DEL RIO" DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE JULIO DE 2013.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 27 de marzo de 2009.
 
@@ -199,7 +199,9 @@ I. Antes de ocupar el puesto directivo, hayan realizado actividades docentes fre
 
 II. Tengan nombramiento en plaza docente de base de tiempo completo, en las categorías señaladas en el artículo 17 del presente Reglamento;
 
-III. Cuenten, como mínimo, con 20 años de servicios y con 3 años consecutivos en el puesto directivo; y
+> <small>(REFORMADA, G.G. 30 DE JULIO DE 2013)</small>
+
+III. Cuenten, como mínimo, con 20 años de servicios y con 2 años consecutivos en el puesto directivo; y
 
 IV. Sólo se tomarán en cuenta como mínimo, aquéllos que hayan desempeñado cargos a partir de director de plantel o su equivalente de manera ascendente.
 
@@ -273,29 +275,37 @@ SEIEM podrá investigar en cuaiquier (sic) momento, la veracidad de las declarac
 
 Los aspirantes a recibir el Estímulo al Desempeño Docente serán evaluados con base en el presente Reglamento y en el instructivo que para operar el Programa, expida la Comisión de Evaluación del Estímulo al Desempeño Docente de SEIEM.
 
+> <small>(REFORMADO, G.G. 30 DE JULIO DE 2013)</small>
+
 ###### Artículo 26.
 
-Los criterios básicos a evaluar para la asignación del Estímulo, serán en orden de importancia: la calidad en el desempeño escolar, la profesionalización en la docencia y la permanencia en las actividades de docencia.
+Los criterios básicos a evaluar para la asignación del Estímulo, serán en orden de importancia: la calidad en el desempeño de la docencia, la dedicación a la docencia y la permanencia en las actividades de docencia.
+
+> <small>(REFORMADO, G.G. 30 DE JULIO DE 2013)</small>
 
 ###### Artículo 27.
 
 La puntuación máxima total de los criterios básicos de evaluación, señalados en el artículo anterior, serán en una escala de 1 a 1000 puntos, distribuidos de la siguiente manera:
 
-Criterios de evaluación Puntaje Porcentaje
+Criterios de evaluación Puntaje Porcentaje Puntaje Porcentaje
 
-I. Calidad en el desempeño escolar. 700 70%
+I.- La calidad en el desempeño de la docencia 700 (70%)
 
-II. Profesionalización en la docencia. 200 20%
+II. - La dedicación a la docencia 200 (20%)
 
-III. Permanencia en las actividades de docencia. 100 10%
+III.- La permanencia en las actividades de docencia 100 (10%)
+
+> <small>(REFORMADO, G.G. 30 DE JULIO DE 2013)</small>
 
 ###### Artículo 28.
 
-Los aspirantes a recibir el Estímulo serán evaluados con base a la calidad en el desempeño escolar, durante el período de abril del año anterior a marzo del año en curso, conforme a los instrumentos de evaluación que para tal efecto se aprueben.
+Los aspirantes a recibir el Estímulo serán evaluados con base a la calidad en el desempeño de la docencia, durante el periodo de abril del año anterior a marzo del año en curso, conforme a los instrumentos de evaluación que para tal efecto se aprueben.
+
+> <small>(REFORMADO, G.G. 30 DE JULIO DE 2013)</small>
 
 ###### Artículo 29.
 
-Para poder participar en el Programa, es indispensable que el docente alcance, como mínimo, 181 puntos en el criterio de calidad en el desempeño escolar, de tal forma que ese puntaje será el que determine si el docente puede participar o no en el Programa; sin que haya la posibilidad de ser incluido en él, con tan sólo los puntajes que obtenga en los otros dos criterios: el de la profesionalización y el de la permanencia.
+Para poder participar en el Programa, es indispensable que el docente alcance, como mínimo 181 puntos en el criterio de la calidad en el desempeño de la docencia, de tal forma que ese puntaje será el que determine si el docente puede participar o no en el Programa; sin que haya la posibilidad de ser incluido en él, con tan sólo los puntajes que obtenga en los otros dos criterios: el de la dedicación a la docencia y el de la permanencia en las actividades de docencia.
 
 ###### Artículo 30.
 
@@ -347,9 +357,11 @@ El pago del Estímulo se efectuará a más tardar en el mes junio de cada año, 
 
 El Director General de Servicios Educativos Integrados al Estado de México, a más tardar durante el mes de marzo de cada año, emitirá la convocatoria para llevar a cabo el proceso de evaluación para el otorgamiento del Estímulo al Desempeño Docente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE JULIO DE 2013)</small>
+
 ###### Artículo 34.
 
-La Convocatoria deberá contener, por lo menos, lo siguiente:
+La Convocatoria deberá apegarse al presente reglamento y contener, por lo menos, lo siguiente:
 
 I. Los objetivos del Estímulo;
 
@@ -379,7 +391,9 @@ II. La convocatoria;
 
 III. El instructivo de evaluación;
 
-IV. El inventario de actividades; y
+> <small>(REFORMADA, G.G. 30 DE JULIO DE 2013)</small>
+
+IV. El inventario de actividades a evaluar;
 
 V. El formato de registro de actividades.
 
@@ -445,17 +459,23 @@ El docente que haya recibido el Estímulo podrá renunciar a él, en cualquier m
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LOS ÓRGANOS DICTAMINADORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE JULIO DE 2013)</small>
+
 ###### Artículo 43.
 
-Para efecto de llevar a cabo el registro de los aspirantes a obtener el Estímulo, en la Escuela Normal Rural "Lázaro Cárdenas del Río", se integrará una Comisión Interna de Evaluación encargada de recibir, verificar y validar la documentación presentada por los aspirantes, la cual será integrada de la siguiente manera:
+Para efecto de llevar a cabo el registro de los aspirantes a obtener el Estímulo, en la Escuela Normal Rural "Lázaro Cárdenas del Río", se integrará una Comisión Interna de Evaluación encargada de recibir, verificar, validar y evaluar en primera instancia, la documentación presentada por los aspirantes, la cual será integrada de la siguiente manera:
 
 I. Un presidente, quien será el Director de la Institución;
 
-II. Un secretario, quien será designado por el Director de la Institución; y
+> <small>(REFORMADA, G.G. 30 DE JULIO DE 2013)</small>
+
+II. Un secretario, que será el subdirector académico de la Institución; y
 
 III. Tres Vocales, aquellos docentes designados por sus propios compañeros.
 
-Los representantes del personal docente deberán tener una antigüedad mínima de dos años, ser de reconocido prestigio profesional y no estar desempeñando funciones sindicales o de confianza en el Organismo.
+> <small>(REFORMADO, G.G. 30 DE JULIO DE 2013)</small>
+
+Los representantes del personal docente deberán tener una antigüedad mínima de dos años y ser de reconocido prestigio profesional.
 
 ###### Artículo 44.
 
@@ -519,15 +539,17 @@ I. Un Presidente, quien será el Director de Educación Superior o el representa
 
 II. Un Secretario, quien será el Jefe del Departamento de Formación Profesional;
 
-III. Los Vocales serán, el Director y Subdirector Académico, de la Normal Rural "Lázaro Cárdenas del Río";
+> <small>(REFORMADA, G.G. 30 DE JULIO DE 2013)</small>
+
+III. Los Vocales serán, el Director y Subdirector Académico de la Escuela Normal Rural "Lázaro Cárdenas del Río", así como un docente de la plantilla de la propia Escuela, quien será designado por mayoría de votos de sus compañeros, y un representante de la Unidad de Asuntos Jurídicos del Organismo;
 
 IV. Un representante del Órgano de Control Interno; y
 
-V. Un representante de la Unidad de Asuntos Jurídicos.
+V. (DEROGADA, G.G. 30 DE JULIO DE 2013)
 
-> <small>(REFORMADO, G.G. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, G.G. 30 DE JULIO DE 2013)</small>
 
-El Presidente, el Secretario y los Vocales tendrán derecho a voz y voto, los demás integrantes de la Comisión sólo participarán con voz. En caso de empate, el Presidente tendrá voto de calidad.
+El Presidente, el Secretario y los Vocales tendrán derecho a voz y voto, el representante del Órgano de Control Interno, sólo participara con voz. En caso de empate, el Presidente tendrá voto de calidad.
 
 > <small>(REFORMADO, G.G. 14 DE FEBRERO DE 2011)</small>
 
@@ -673,9 +695,17 @@ DIRECTOR GENERAL Y SECRETARIO DEL H. CONSEJO DIRECTIVO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 14 DE FEBRERO DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+TERCERO.- Quedan sin efecto las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 30 DE JULIO DE 2013.
 
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial Gaceta del Gobierno.
 
