@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "2012-05-30"
+last_updated: "2013-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -71,9 +71,13 @@ Las Leyes respectivas y los tratados celebrados y aprobados de conformidad con l
 
 En la interpretación de las normas de trabajo deberá entenderse que (sic) estas tienden a procurar el logro de la justicia social, considerando que el trabajo es un derecho y un deber social, y no un artículo de comercio. Por tanto debe exigirse que sean respetadas las libertades y dignidad de quien lo ofrece, en tanto quien lo recibe está obligado a guardar las condiciones que aseguren la vida, la salud y un nivel económico decoroso para el trabajador y su familia. No podrán establecerse distinciones entre los trabajadores por motivo de raza, sexo, edad, credo religioso, doctrina política o condición social.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 8.
 
-Quedan excluídos del régimen de esta Ley: los empleados de confianza y aquellos que presten sus servicios mediante contrato civil o estén sujetos a pago de honorarios.
+Quedan excluidos del régimen de esta ley, los empleados que presten sus servicios mediante contrato civil o estén sujetos a pago de honorarios.
+
+Los trabajadores que sean considerados de confianza gozarán cuando menos de las medidas de protección al salario y de los beneficios de seguridad social.
 
 ### CAPITULO II. DE LOS TRABAJADORES
 
@@ -509,9 +513,17 @@ VIII.- Proporcionar a los trabajadores, que no estén incorporados a un régimen
 
 IX.- Conceder licencias con o sin goce de sueldo a los trabajadores para el desempeño de cargos sindicales, congresos, seminarios, y demás, dentro o fuera del país, y sin goce cuando sean promovidos a cargos de elección popular. Las licencias que se concedan en los términos de esta fracción, se computarán como tiempo efectivo de servicio para efectos escalafonarios;
 
-X.- Hacer las deducciones en los salarios de los trabajadores que solicite el sindicato, siempre que se ajusten a los términos de esta Ley y a los ordenamientos internos que los rijan; y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2013)</small>
 
-XI.- Contribuir al fomento de las actividades deportivas y culturales entre sus trabajadores.
+X.- Hacer las deducciones en los salarios de los trabajadores que solicite el sindicato, siempre que se ajusten a los términos de esta Ley y a los ordenamientos internos que los rijan;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2013)</small>
+
+XI.- Contribuir al fomento de las actividades deportivas y culturales entre sus trabajadores, y
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
+
+XII.- Emitir los lineamientos que contengan los procedimientos administrativos en materia laboral.
 
 ###### ARTICULO 50.
 
@@ -1514,3 +1526,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+P.O. 30 DE JULIO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los Poderes Legislativo, Ejecutivo y Judicial, Ayuntamientos y Organismos Descentralizados, en un término no mayor de ciento ochenta días hábiles deberán contar con los lineamientos que contengan los procedimientos administrativos en materia laboral.
