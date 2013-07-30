@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-89420"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-17"
-last_updated: "2013-05-31"
+last_updated: "2013-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ CÓDIGO NÚMERO 574 DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE EL ARTICULO PRIMERO TRANSITORIO DEL CÓDIGO PUBLICADO EN EL NÚMERO EXTRAORDINARIO DE LA G.O. DE 17 DE SEPTIEMBRE DE 2012, EL CUAL SEÑALA QUE ENTRARÁ EN VIGOR EN FORMA GRADUAL, INICIANDO EN LOS DISTRITOS JUDICIALES DÉCIMOPRIMERO Y DÉCIMOCUARTO EL DÍA ONCE DE MAYO DEL AÑO DOS MIL TRECE Y EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO SERÁ DE CONFORMIDAD CON EL PRIMERO TRANSITORIO INDICADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MARZO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 31 DE MAYO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JULIO DE 2013.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el día lunes 17 de septiembre de 2012.
 
@@ -5803,11 +5801,13 @@ El Ministerio Público o, en su caso, el juez, desde su primera intervención, i
 
 El juez, a petición de las partes, podrá suspender el proceso penal hasta por treinta días para que éstas puedan concretar el acuerdo. En caso de que la concertación se interrumpa, cualquiera de las partes puede solicitar la continuación del proceso.
 
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
+
 ###### Artículo 517.
 
 Auxilio de especialistas
 
-El Ministerio Público o el juez, para facilitar el acuerdo de las partes y a solicitud de las mismas, propondrá la intervención de un especialista en mecanismos alternativos de solución de controversias certificado en términos de la legislación correspondiente, para que participe en la resolución del acuerdo reparatorio.
+El Ministerio Público o el juez, para facilitar el acuerdo de las partes, de oficio o a solicitud de las mismas, las remitirá al Centro Estatal de Justicia Alternativa de Veracruz en términos de la legislación correspondiente, para que participe en la resolución del acuerdo reparatorio.
 
 ###### Artículo 518.
 
@@ -6522,3 +6522,9 @@ G.O. 21 DE MARZO DE 2013.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones permanentes o transitorias que contravengan el presente Decreto.
+
+G.O. 30 DE JULIO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
