@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2013-03-08"
+last_updated: "2013-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
@@ -61,7 +61,7 @@ El Gobernador del Estado y las dependencias contempladas en el Artículo 19 de e
 
 ###### ARTICULO 5.
 
-El Gobernador del Estado podrá crear o suprimir mediante acuerdo, las unidades administrativas necesarias para promover, coordinar o asesorar programas o funciones prioritarias o estratégicas que requiera el desarrollo, la seguridad y la protección de la población en e! Estado.
+El Gobernador del Estado podrá crear o suprimir mediante acuerdo, las unidades administrativas necesarias para promover, coordinar o asesorar programas o funciones prioritarias o estratégicas que requiera el desarrollo, la seguridad y la protección de la población en el Estado.
 
 La creación de dichas unidades, en caso de requerir mayor presupuesto del autorizado anualmente para el Poder Ejecutivo, requerirá de la aprobación de la Legislatura del Estado.
 
@@ -91,9 +91,13 @@ El Gobernador del Estado podrá convocar a los Titulares y demás funcionarios c
 
 El Gobernador del Estado podrá constituir comisiones para el despacho de los asuntos en los cuales por su naturaleza, deban intervenir varias dependencias del Ejecutivo. Las entidades de la Administración Pública Paraestatal podrán integrarse a estas comisiones, cuando se traten asuntos relacionados con su objeto. Estas comisiones podrán ser transitorias o permanentes y serán integradas por los titulares o representantes de las dependencias interesadas. Serán presididas por el titular o representante de la dependencia que el propio Gobernador determine.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
 ###### ARTICULO 11.
 
-Los decretos, reglamentos y acuerdos de carácter general expedidos por el Gobernador del Estado, para que sean obligatorios, deberán estar refrendados por el Secretario de Gobierno y por el encargado del ramo al que el asunto corresponda; lo mismo se observará respecto a las leyes y decretos expedidos por la Legislatura del Estado.
+Los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado, deberán para su validez ir firmados por el Secretario al que el asunto corresponda; cuando se refieran a asuntos de la competencia de dos o más Secretarías deberán ser firmados por todos los titulares de las mismas.
+
+Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso del Estado, sólo se requerirá el refrendo del Titular de la Secretaría de Gobierno.
 
 ###### ARTICULO 12.
 
@@ -1824,3 +1828,7 @@ Se derogan y quedan sin efecto todas las disposiciones legales que se opongan al
 P.O. 8 DE MARZO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE JULIO DE 2013.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
