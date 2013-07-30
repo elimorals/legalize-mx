@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-desarrollo-integral-para-las-personas-13872
 country: "mx"
 rank: "ley"
 publication_date: "1999-02-15"
-last_updated: "2010-06-30"
+last_updated: "2013-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE PROTECCION Y DESARROLLO INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO
 
-LEY DE PROTECCION Y DESARROLLO INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO
+LEY DE PROTECCIÓN Y DESARROLLO INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 30 DE JUNIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 30 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 30 DE JULIO DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -1064,3 +1066,15 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Dec
 ARTÍCULO TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE JULIO DE 2013.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Protección y Desarrollo Integral para las Personas con Discapacidad del Estado de Quintana Roo, publicada en el Periódico Oficial, el 15 de febrero del año 1999.
+
+TERCERO. El Consejo Consultivo para Personas con Discapacidad deberá instalarse en un plazo que no exceda de ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente ley.
+
+CUARTO. El Consejo Consultivo para Personas con Discapacidad emitirá su Reglamento Interno en un plazo que no exceda de noventa días hábiles contados a partir de su instalación.
+
+QUINTO. El Ejecutivo del Estado y los Ayuntamientos tendrán un plazo de ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley, para adecuar su normatividad en el ámbito de su competencia.
