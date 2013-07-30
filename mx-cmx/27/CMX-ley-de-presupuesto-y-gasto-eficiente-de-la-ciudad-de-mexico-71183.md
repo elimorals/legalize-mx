@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-presupuesto-y-gasto-eficiente-de-la-ciudad-de-mexico-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 31 de diciembre de 2009.
 
@@ -616,9 +616,9 @@ La Ley de Ingresos y el Presupuesto de Egresos serán los que apruebe la Asamble
 
 Las iniciativas de Ley de Ingresos y Presupuesto de Egresos serán presentadas por el Jefe de Gobierno a la Asamblea para su análisis y aprobación, a más tardar el 30 de noviembre de cada año o hasta el 20 de diciembre del año en que en dicho mes, inicie el periodo constitucional correspondiente.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
 
-La Asamblea deberá aprobar dichas iniciativas a más tardar el 20 de diciembre cuando dichos proyectos sean presentados el 30 de noviembre y a más tardar, el 31 de diciembre cuando se presenten el 20 de diciembre. La Ley de Ingresos deberá ser aprobada previo al Decreto de Presupuesto de Egresos.
+La Asamblea Legislativa deberá aprobar dichas iniciativas a más tardar el 20 de diciembre cuando dichos proyectos sean presentados el 30 de noviembre y a más tardar, el 27 de diciembre cuando se presenten el 20 de diciembre.
 
 Cuando por alguna situación extraordinaria, al iniciar el ejercicio fiscal del año siguiente no exista una Ley de Ingresos y/o Decreto aprobado, con el propósito de no interrumpir la prestación de los servicios públicos, en tanto no se aprueben, la Secretaría procederá a actualizar, conforme a las disposiciones del artículo 18 del Código, del ejercicio fiscal del año anterior, en cuanto al gasto mínimo de operación y la ejecución de obras en proceso.
 
@@ -2021,3 +2021,9 @@ G.O. 31 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrara en vigor a partir del 1° de enero de 2013.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+G.O. 30 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
