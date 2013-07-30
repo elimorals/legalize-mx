@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2013-06-14"
+last_updated: "2013-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -106,7 +106,9 @@ I.- Legislar en el ámbito local, en las materias que le señalan la Constituci�
 
 II.- Presentar iniciativas de leyes o decretos en materias relativas al Distrito Federal ante el Congreso de la Unión;
 
-III.- Examinar, discutir y aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Distrito Federal, aprobando primero las contribuciones necesarias para cubrir el presupuesto;
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2013)</small>
+
+III.- Examinar, discutir y aprobar anualmente a más tardar el día veinte de diciembre de cada año la Ley de Ingresos, el Presupuesto de Egresos y, en su caso, las reformas, modificaciones, adiciones y derogaciones al Código Fiscal y a la Ley de Presupuesto y Gasto Eficiente, todos del Distrito Federal, excepto cuando en dicho mes inicie su encargo el Jefe de Gobierno, en cuyo caso la fecha límite será el día veintisiete del mismo mes. En ambos supuestos, se remitirá al día siguiente de su aprobación al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal a más tardar el 31 de diciembre.
 
 IV.- Formular observaciones al Programa General de Desarrollo del Distrito Federal que le remita el Jefe de Gobierno del Distrito Federal para su examen y opinión;
 
@@ -1967,3 +1969,9 @@ PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno para efectos de su pr
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 30 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
