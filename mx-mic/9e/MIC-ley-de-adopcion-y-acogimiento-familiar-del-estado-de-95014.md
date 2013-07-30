@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-adopcion-y-acogimiento-familiar-del-estado-de-95014"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-01"
-last_updated: "2013-07-01"
+last_updated: "2013-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE ADOPCION Y ACOGIMIENTO FAMILIAR DEL ESTADO DE MICHOACAN DE OCAMPO (ANTES: LEY DE ADOPCION DEL ESTADO DE MICHOACAN DE OCAMPO)
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JULIO DE 2013 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE JULIO DE 2013.</small>
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el lunes 1 de julio de 2013.
 
@@ -367,8 +367,6 @@ Durante ese término el DIF tendrá la responsabilidad de investigar el origen d
 
 Una vez transcurrido dicho término sin obtener información respecto del origen del menor de edad o no habiendo logrado su reintegración al seno familiar, la Procuraduría levantará la certificación respectiva y el menor de edad será sujeto de adopción.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JULIO DE 2013 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 34.
 
 El DIF, a través de su titular, desempeñará el cargo de tutor de forma directa e institucional de los menores no sujetos a patria potestad o tutela.
@@ -377,7 +375,9 @@ Sin necesidad de discernimiento del cargo, los directores de las instituciones p
 
 Cuando los establecimientos a que se refiere el párrafo anterior hayan acogido al expósito o abandonado por acuerdo del DIF, la tutela será ejercida por este último, quien representará los intereses del menor.
 
-Las instituciones públicas y privadas tienen la obligación de informar al DIF sobre los menores bajo su tutela y el DIF la obligación de integrar un Banco de Datos de los Menores de Edad Acogidos. El término de noventa días naturales señalado en el presente capítulo para que el DIF investigue el origen del menor de edad y realice las acciones conducentes para reintegrarlo al núcleo de su familia de origen o extensa, correrá a partir de la fecha en que las instituciones informen al DIF del acogimiento. Las instituciones tienen la obligación de colaborar con el DIF para el cumplimento de sus atribuciones.
+> <small>(F. DE E., P.O. 30 DE JULIO DE 2013)</small>
+
+Las instituciones públicas y privadas tienen la obligación de informar al DIF sobre los menores bajo su tutela y el DIF la obligación de integrar un Banco de Datos de los Menores de Edad Acogidos. El término de ciento veinte días naturales señalado en el presente Capítulo para que el DIF investigue el origen del menor de edad y realice las acciones conducentes para reintegrarlo al núcleo de su familia de origen o extensa, correrá a partir de la fecha en que las instituciones informen al DIF del acogimiento. Las instituciones tienen la obligación de colaborar con el DIF para el cumplimiento de sus atribuciones.
 
 ### CAPÍTULO VIII. ADOPCIONES INTERNACIONALES
 
