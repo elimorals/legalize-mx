@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-44412"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-14"
-last_updated: "2013-04-09"
+last_updated: "2013-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 14 de marzo de 2005
 
@@ -67,13 +67,21 @@ Los Ayuntamientos de cada Municipio podrán promover y prestar servicios educati
 
 La educación es un derecho fundamental del ser humano y de la sociedad. Toda persona tendrá derecho a recibir educación, sin límites de edad, sexo, religión o raza; con las mismas oportunidades de acceso, permanencia y conclusión en el Sistema Educativo Estatal, con el único requisito de satisfacer las disposiciones generales aplicables.
 
-El Estado garantizará el ejercicio del derecho a la educación para todos y la universalización de la educación básica obligatoria, que comprende: la educación preescolar, primaria y secundaria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
+El Estado garantizará el ejercicio del derecho a la educación para todos y la universalización de la educación básica, que comprende: la educación preescolar, primaria y secundaria, siendo ésta y la media superior obligatorias.
 
 ###### Articulo 4.
 
 La Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo, la Ley General de Educación y la presente Ley, son la base que determina la política educativa del Estado.
 
-Además de impartir la educación preescolar, la primaria, la secundaria y la normal, el Estado promoverá y atenderá todos los tipos y modalidades educativos, incluida la educación superior, la educación inicial, la educación especial y la educación indígena, de conformidad con lo establecido en el Artículo 13 de la Ley General de Educación
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
+Además de impartir la educación preescolar, la primaria, la secundaria, la media superior y la normal, el Estado promoverá y atenderá todos los tipos y modalidades educativos, incluida la educación superior, la educación inicial, la educación especial y la educación indígena, de conformidad con lo establecido en el Artículo 13 de la Ley General de Educación.
 
 Todos los servicios educativos que el Estado imparta serán gratuitos, de conformidad con lo establecido en los Artículos 3º y 32 de la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, respectivamente.
 
@@ -110,6 +118,12 @@ VII. Fomentar el sentido de pertenencia con las comunidades del Estado para refo
 VIII. Preparar a las personas e instituciones, hacia el aprovechamiento de las oportunidades que genera la globalización.
 
 IX. Establecer y consolidar compromisos encausados a disminuir los rezagos sociales en el Estado, por medio del aprovechamiento de los recursos locales y la participación social en proyectos transformadores y productivos, a partir de los servicios educativos de las comunidades.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
+
+X.- Favorecer una educación que proporcione a la sociedad una concepción de universalidad con el objetivo de reforzar en el educando los valores de la cultura de la legalidad a través del conocimiento y la observancia de la ley, la participación, la no discriminación, la tolerancia, la pluralidad, y el respeto a los derechos humanos alentando la construcción de relaciones democráticas sustentadas en la dignidad de la persona, la integridad de la familia y la convicción por el Interés general de la sociedad.
 
 ###### Artículo 8.
 
@@ -212,6 +226,12 @@ La autoridad educativa fomentará permanentemente, la asignatura de matemáticas
 ###### Artículo 17.
 
 La Autoridad Educativa Estatal promoverá en las escuelas de todos los tipos, niveles y modalidades de la educación, un Programa Integral de Enseñanza de la Ciencia y Fomento del Conocimiento Científico, que despierte el interés de los educandos y la sociedad en general. Para ello, establecerá convenios con instituciones científicas y de investigación y desarrollo tecnológico del país y el extranjero, que comprendan cursos de capacitación a maestros y promotores de la ciencia, a través del Sistema Estatal de Capacitación para la Educación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2013)</small>
+
+Asimismo, la autoridad educativa estatal promoverá en las escuelas de todos los tipos, niveles y modalidades de educación, un programa integral de fomento a la Cultura de la Legalidad y los Derechos Humanos, que promueva los valores cívicos y sea el eje a partir del cual se impulse la construcción de ciudadanía. Para ello, establecerá convenios con instituciones de investigación académica, públicas y privadas para la actualización del magisterio en materia de Cultura de la Legalidad y Derechos Humanos para su debida implementación en el sistema educativo de nuestro Estado.
 
 ###### ARTÍCULO 18.
 
@@ -465,7 +485,11 @@ Los procesos de aprendizaje enfatizarán el ejercicio de los derechos y deberes 
 
 La educación primaria se articula con la educación secundaria.
 
-IV. La educación secundaria constituye el tercer nivel de la educación básica y es la culminación de la educación obligatoria; incluye a las escuelas secundarias generales, secundarias técnicas, telesecundarias y demás modalidades.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2013)</small>
+
+IV.- La educación secundaria constituye el tercer nivel de la educación básica; incluye a las escuelas secundarias generales, secundarias técnicas, telesecundarias y demás modalidades.
 
 Tiene como propósito ampliar, profundizar y fortalecer los conocimientos y la cultura alcanzada en la escuela primaria, y alentar el proceso de maduración de la personalidad integral del educando, así como orientar sus intereses y aptitudes vocacionales y favorecer su desarrollo académico.
 
@@ -555,11 +579,15 @@ La formación para el trabajo se encaminará al desarrollo de conocimientos, hab
 
 El titular del organismo estatal responsable de la capacitación para el trabajo tendrá la obligación de coordinar y autorizar, en vinculación con los sectores social y privado de la entidad, todos los programas y cursos de capacitación para el trabajo, supervisar su desarrollo y acreditar los dominios alcanzados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
 ### CAPÍTULO I. DE LA ESTRUCTURA
 
 ###### Artículo 37.
 
-La educación media comprende el bachillerato, los demás niveles equivalentes a éste y la educación profesional posterior a la secundaria; es un tipo y un ciclo educativo que constituye la etapa culminante de la preparación cultural del mexicano. Tiende a fortalecer la cultura general, complementada por una formación propedéutica hacia la educación superior y de preincorporación al trabajo o bivalente. Pondrá énfasis en orientar al educando hacia la educación permanente y el auto didactismo, así como el trabajo productivo.
+La educación media superior comprende el bachillerato, los demás niveles equivalentes a éste y la educación profesional posterior a la secundaria y es la culminación de la educación obligatoria; es un tipo y un ciclo educativo que constituye la etapa culminante de la preparación cultural del mexicano. Tiende a fortalecer la cultura general, complementada por una formación propedéutica hacia la educación superior y de preincorporación al trabajo o bivalente. Pondrá énfasis en orientar al educando hacia la educación permanente y el auto didactismo, así como el trabajo productivo.
 
 ###### Artículo 38.
 
@@ -733,7 +761,11 @@ Los derechos y obligaciones de los padres de familia, tutores o de quienes ejerz
 
 I. Derechos:
 
-a) Obtener inscripción en escuelas públicas para que sus hijos menores de edad, cursen la educación básica;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
+a. Obtener inscripción en escuelas públicas para que sus hijos menores de edad, cursen la educación básica y media superior;
 
 b) Presentar a las autoridades de la escuela, en la que estén inscritos sus hijos, cualquier problema relacionado con la educación de éstos, a fin de que éstas se aboquen a su solución;
 
@@ -747,7 +779,11 @@ f) Opinar, en los casos de la educación que ofrezcan los particulares, en relac
 
 II. Obligaciones:
 
-a) Inscribir oportunamente a sus hijos o pupilos y cuidar que permanezcan y avancen en los estudios regulares, cuando menos durante la educación básica y, siempre que sea posible, en la educación media y superior;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+
+a. Inscribir oportunamente a sus hijos o pupilos y cuida que permanezcan y avancen en los estudios regulares, cuando menos durante la educación básica y media superior y, siempre que sea posible, en la educación superior;
 
 b) Cuidar que sus hijos o pupilos menores de edad concluyan la educación básica, completa;
 
@@ -1123,7 +1159,11 @@ II. Proveer lo necesario para que el Estado cumpla con el derecho a la educació
 
 III. Establecer las alternativas de equidad, enunciadas en el capítulo respectivo de esta ley, con el propósito de llevar los beneficios de la educación a todos los estratos sociales de la población;
 
-IV. Coordinar y administrar la impartición de los servicios educativos públicos gratuitos y de calidad, para garantizar el acceso de todos a la educación básica y promover una oferta educativa igualitaria en todo el Sistema Educativo Estatal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2013)</small>
+
+IV. Coordinar y administrar la impartición de los servicios educativos públicos gratuitos y de calidad, para garantizar el acceso de todos a la educación básica y media superior; así como promover una oferta educativa igualitaria en todo el Sistema Educativo Estatal;
 
 V. Proponer al Ejecutivo Estatal los proyectos de reglamentos, decretos y emitir acuerdos, circulares y órdenes sobre los asuntos de su competencia;
 
@@ -1288,3 +1328,9 @@ PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publica
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
 
 TERCERO.- Para el cumplimiento de lo dispuesto en la fracción XLV del artículo 24 de la Ley de Educación del Estado de Quintana Roo, el Organismo Público Descentralizado denominado "Servidos Educativos de Quintana Roo", deberá utilizar los recursos etiquetados en el Artículo Quinto Transitorio del Presupuesto de Egresos del Gobierno del Estado, para el Ejercido Fiscal 2013, relativo a la instalación de servicios de internet en escuelas públicas.
+
+P.O. 30 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor, previa su publicación en el Periódico Oficial del Estado de Quintana Roo, cuando inicie su vigencia el Decreto por el que se reforma el párrafo tercero, párrafo sexto y párrafo octavo en su inciso a) del Artículo 32 de la Constitución Política del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
