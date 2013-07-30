@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2013-01-24"
+last_updated: "2013-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚM. 65 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -59,7 +59,7 @@ La presente ley es de orden público y de observancia general y tiene por objeto
 
 El Poder Judicial del Estado se deposita en:
 
-l. El Tribunal Superior de Justicia;
+I. El Tribunal Superior de Justicia;
 
 > <small>(ADICIONADA, G.O. 17 DE JULIO DE 2009)</small>
 
@@ -83,7 +83,9 @@ X. Los Juzgados Municipales;
 
 XI. Los Juzgados de Comunidad; y
 
-XII. El Centro Estatal de Medios Alternativos para la Solución de Conflictos y sus Unidades Regionales.
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2013)</small>
+
+XII. El Centro Estatal de Justicia Alternativa de Veracruz.
 
 El Poder Judicial contará además con un órgano denominado Consejo de la Judicatura del Poder Judicial del Estado.
 
@@ -711,13 +713,13 @@ XXVI. Proponer al Pleno del Tribunal y al Consejo de la Judicatura las medidas i
 
 XXVII. Recibir los anteproyectos de presupuesto que le remitan las Salas del Tribunal Superior de Justicia para someterlos, a más tardar el día quince de octubre de cada año, a la consideración del Pleno;
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2013)</small>
 
-XXVIII. Enviar al Ejecutivo, a más tardar el quince de noviembre de cada año, los anteproyectos de presupuesto de los tribunales que integran el Poder Judicial, así como el del Consejo de la Judicatura, el que incluirá el de juzgados y órganos;
+XXVIII. Enviar al Ejecutivo, a más tardar el quince de noviembre de cada año, los anteproyectos de presupuesto de los Tribunales que integran el Poder Judicial y del Centro Estatal de Justicia Alternativa de Veracruz, así como el del Consejo de la Judicatura, el que incluirá el de juzgados y órganos;
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2013)</small>
 
-XXIX. Enviar al Congreso del Estado, a más tardar el último día del mes de mayo, la cuenta pública documentada y consolidada de los tribunales y del Consejo de la Judicatura; y
+XXIX. Enviar al Congreso del Estado, a más tardar el último día del mes de mayo, la cuenta pública documentada y consolidada de los tribunales, del Centro Estatal de Justicia Alternativa de Veracruz y del Consejo de la Judicatura; y
 
 > <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -1689,7 +1691,7 @@ Cada juzgado contará con un Secretario de Acuerdos y los servidores judiciales 
 
 En los Juzgados de Adolescentes, corresponde:
 
-l. A los Jueces de Garantía:
+I. A los Jueces de Garantía:
 
 a) Resolver sobre la legalidad de la detención en los casos de consignación con detenido;
 
@@ -1751,27 +1753,27 @@ III. Gozar de buena reputación, y no haber sido condenado por delito que amerit
 
 IV. Tener conocimientos sobre la materia, lo que se acreditará con la constancia expedida por el Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE JULIO DE 2013)</small>
 
-### CAPÍTULO VI. Del Centro Estatal de Medios Alternativos para la Solución de Conflictos
+### CAPÍTULO VI. Del Centro Estatal de Justicia Alternativa de Veracruz
 
-> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
 
 ###### Artículo 91 Bis.
 
-El Centro Estatal de Medios Alternativos para la Solución de Conflictos tendrá a su cargo la Mediación o Conciliación como formas de solución de conflictos entre las partes; tendrá su sede en la Capital del Estado y contará con Unidades Regionales de acuerdo a lo que determine el Consejo de la Judicatura.
+El Centro Estatal de Justicia Alternativa de Veracruz es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, adscrito al Poder Judicial, que en el desempeño de sus atribuciones goza de autonomía de gestión, técnica y administrativa; tiene a su cargo la aplicación de la mediación y la conciliación para la solución de conflictos legales y la obtención de acuerdos reparatorios en materia de justicia restaurativa. Tendrá su sede en la Capital del Estado y contará con las unidades regionales que determine su Consejo Directivo.
 
-> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
 
 ###### Artículo 91 Ter.
 
-La organización y funcionamiento del Centro Estatal de Medios Alternativos para la Solución de Conflictos, así como los requisitos que deberá cubrir el personal respectivo, se establecerán en la Ley correspondiente.
+La organización y funcionamiento del Centro Estatal de Justicia Alternativa de Veracruz los establece la Ley de Medios Alternativos para la Solución de Conflictos del Estado de Veracruz de Ignacio de la Llave.
 
-> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
 
 ###### Artículo 91 Quáter.
 
-El Centro Estatal de Medios Alternativos para la Solución de Conflictos y sus unidades regionales ejercerán en su caso, la facultad facilitadora en el proceso instituido por responsabilidad juvenil en los términos que prevé la Ley de la materia, previa certificación del Instituto de Formación, Capacitación, Especialización y Actualización.
+El Centro Estatal de Justicia Alternativa de Veracruz ejercitará, en su caso, la facultad facilitadora en el proceso instituido por responsabilidad juvenil en los términos que prevé la Ley de la materia.
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO VI], G.O. 2 DE JULIO DE 2007)
 
@@ -1829,9 +1831,11 @@ El Consejo de la Judicatura resolverá sobre los casos de renuncia, licencia, au
 
 ### CAPÍTULO I. De su Organización y Funcionamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE JULIO DE 2013)</small>
+
 ###### Artículo 100.
 
-El Consejo de la Judicatura es el órgano encargado de conducir, con excepción del Tribunal Superior de Justicia, la administración, vigilancia y disciplina del Poder Judicial, y estará integrado por los seis miembros siguientes:
+El Consejo de la Judicatura es el órgano encargado de conducir, con excepción del Tribunal Superior de Justicia y del Centro Estatal de Justicia Alternativa de Veracruz, la administración, vigilancia y disciplina del Poder Judicial, y estará integrado por los seis miembros siguientes:
 
 I. El Presidente del Tribunal Superior de Justicia, quien lo presidirá;
 
@@ -1869,7 +1873,9 @@ El Congreso del Estado o, en sus recesos, la Diputación Permanente, resolverán
 
 El Consejo de la Judicatura tendrá competencia para:
 
-I. Conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia;
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2013)</small>
+
+I. Conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia y del Centro Estatal de Justicia Alternativa de Veracruz;
 
 > <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -1915,13 +1921,13 @@ XI. Convenir con instituciones de educación superior, a efecto de que la carrer
 
 XII. Investigar y determinar la responsabilidad y sanciones de los servidores públicos del Poder Judicial que, con motivo de irregularidades, denuncien los particulares o le hagan de su conocimiento los Magistrados y Jueces, informándoles de los acuerdos que al respecto tome;
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2013)</small>
 
-XIII. Controlar, evaluar, inspeccionar y vigilar los ingresos, gastos, recursos y obligaciones de los órganos y servidores públicos del Poder Judicial, con excepción del Tribunal Superior de Justicia, durante el ejercicio presupuestal correspondiente;
+XIII. Controlar, evaluar, inspeccionar y vigilar los ingresos, gastos, recursos y obligaciones de los órganos y servidores públicos del Poder Judicial, con excepción del Tribunal Superior de Justicia y del Centro Estatal de Justicia Alternativa de Veracruz, durante el ejercicio presupuestal correspondiente;
 
-> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2013)</small>
 
-XIV. Expedir los reglamentos interiores en materia administrativa, de Contraloría Interna, defensoría de oficio, carrera judicial, escalafón, visitaduría judicial y régimen disciplinario del Poder Judicial del Estado, así como emitir lineamientos generales e implementar programas relativos a estas materias;
+XIV. Expedir los reglamentos interiores en materia administrativa, de Contraloría Interna, carrera judicial, escalafón, visitaduría judicial y régimen disciplinario del Poder Judicial del Estado, así como emitir lineamientos generales e implementar programas relativos a estas materias;
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -1949,9 +1955,7 @@ XIX. Calificar los impedimentos de los Consejeros;
 
 XX. Desarrollar, por conducto del Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial del Estado, tareas de formación, actualización, investigación, capacitación, especialización e impartición de educación superior a los miembros del Poder Judicial, así como de los interesados en ingresar a la carrera judicial. El Consejo establecerá, en el Reglamento correspondiente, los mecanismos de aprobación de los planes y programas de estudios, además de los requisitos de ingreso y promoción;
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
-
-XXI. Administrar el sistema aleatorio para la distribución de los asuntos que se radiquen en los Tribunales del Poder Judicial, en los términos previstos por esta ley;
+XXI. (DEROGADA, G.O. 30 DE JULIO DE 2013)
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -2057,15 +2061,13 @@ La Contraloría General del Poder Judicial, como órgano auxiliar del Consejo de
 
 ###### Artículo 112.
 
-La Defensoría de Oficio tiene competencia para gestionar, ante los órganos jurisdiccionales del Estado, la eficaz y rápida administración de justicia en materia penal, en favor de las personas que carezcan de capacidad económica indispensable para cubrir los gastos requeridos a ese fin.
+(DEROGADO, G.O. 30 DE JULIO DE 2013)
 
-El Reglamento determinará conforme a lo dispuesto por esta ley y las leyes del Estado la organización y funcionamiento de la defensoría de oficio.
-
-> <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
 
 ###### Artículo 113.
 
-Los Consejeros de la Judicatura tendrán a su cargo la función de Visitadores de las Salas Regionales de los Tribunales, de los Juzgados y del Centro Estatal de Medios Alternativos para la Solución de Conflictos. El Consejo de la Judicatura determinará el tiempo y lugar de las visitas.
+Los Consejeros de la Judicatura tendrán a su cargo la función de Visitadores de las Salas Regionales de los Tribunales y de los Juzgados. El Consejo de la Judicatura determinará el tiempo y lugar de las visitas.
 
 > <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
 
@@ -2719,7 +2721,7 @@ Tercero. Los asuntos que se encuentren en trámite al momento de la entrada en v
 
 G.O. 15 DE AGOSTO DE 2007.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
 
 G.O. 11 DE JUNIO DE 2008.
 
@@ -2826,3 +2828,9 @@ G.O. 24 DE ENERO DE 2013.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 Artículo segundo. El Pleno del Tribunal Superior de Justicia, al hacer la distribución por concepto de gasto en el presupuesto de egresos del año dos mil trece, reservará una cantidad suficiente para el establecimiento del sistema de pensiones complementarias.
+
+G.O. 30 DE JULIO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
