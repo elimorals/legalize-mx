@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-82375"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-30"
-last_updated: "2011-07-02"
+last_updated: "2013-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "SLP"
 ---
 # LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSI
 
-LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSI
+LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 2 DE JULIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de junio de 2011.
 
@@ -1167,7 +1165,9 @@ Los consejeros ciudadanos se elegirán de la siguiente forma:
 
 I. El Pleno del Congreso del Estado nombrará una comisión especial integrada hasta por siete diputados; la que integrará una lista de candidatos propietarios y suplentes hasta por el triple del número a elegir, de entre las propuestas presentadas por los partidos políticos y por los ciudadanos potosinos, previa convocatoria que para el efecto se expida. De la lista presentada, el Congreso, en Pleno, procurará en todo caso que se encuentren representadas las diferentes zonas del Estado.
 
-La convocatoria que al efecto se expida con una anticipación no menor al plazo de noventa días anteriores a la elección de consejeros, establecerá cuando menos los requisitos a cumplir por los candidatos a integrar el Consejo; se deberán incluir, mediante lineamientos generales, los parámetros, condiciones o requisitos que deberán reunir los documentos con los que se pretendan acreditar los requisitos exigidos para el cargo de consejero ciudadano, así como precisar si existe un plazo perentorio mediante el cual sea posible subsanar posibles omisiones o defectos en dicha documentación, ya sea mediante el requerimiento que haga la comisión especial, o mediante alcance posterior que haga el interesado; así como también los mecanismos que resulten adecuados para seleccionar a quienes demuestren mejor aptitud e idoneidad para el desempeño del consejero ciudadano electoral, con apego a los lineamientos atinentes;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+La convocatoria que al efecto se expida con una anticipación no menor al plazo de setenta días anteriores a la elección de consejeros, establecerá cuando menos los requisitos a cumplir por los candidatos a integrar el Consejo; se deberán incluir, mediante lineamientos generales, los parámetros, condiciones o requisitos que deberán reunir los documentos con los que se pretendan acreditar los requisitos exigidos para el cargo de consejero ciudadano, así como precisar si existe un plazo perentorio mediante el cual sea posible subsanar posibles omisiones o defectos en dicha documentación, ya sea mediante el requerimiento que haga la comisión especial, o mediante alcance posterior que haga el interesado; así como también los mecanismos que resulten adecuados para seleccionar a quienes demuestren mejor aptitud e idoneidad para el desempeño del consejero ciudadano electoral, con apego a los lineamientos atinentes;
 
 II. De la lista presentada por la comisión especial, el Congreso, en Pleno, elegirá a cada uno de los consejeros ciudadanos propietarios y suplentes, por el voto secreto de por lo menos las dos terceras partes de sus miembros presentes;
 
@@ -1185,7 +1185,9 @@ El Presidente del Consejo será electo por el voto de cuando menos las dos terce
 
 Los consejeros ciudadanos, propietarios y suplentes, durarán en su encargo seis años improrrogables, y serán electos en forma escalonada cada dos años, de tres en tres.
 
-Los consejeros ciudadanos serán electos a más tardar el 31 de octubre del año que corresponda, e iniciarán a ejercer sus funciones el uno de diciembre de la misma anualidad.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+Los consejeros ciudadanos serán electos en el mes de diciembre dentro del periodo ordinario de la Legislatura del año que corresponda, e iniciarán a ejercer sus funciones a los treinta días naturales posteriores a su elección.
 
 ###### ARTICULO 92.
 
@@ -1657,9 +1659,9 @@ En la elección del Contralor Interno del Consejo, el Congreso del Estado se suj
 
 l. Nombrará una comisión especial de siete diputados, encargada de sustanciar el procedimiento en los términos del presente artículo;
 
-II. La comisión especial emitirá una convocatoria pública, en la que se establecerán las bases a que se sujetará la elección del Contralor Interno, y los requisitos que deberán cubrir las personas que aspiren a ejercer ese encargo; misma que deberá ser publicada en el Periódico Oficial del Estado, y en cuando menos uno de los diaños locales de mayor circulación en la Entidad;
+II. La comisión especial emitirá una convocatoria pública, en la que se establecerán las bases a que se sujetará la elección del Contralor Interno, y los requisitos que deberán cubrir las personas que aspiren a ejercer ese encargo; misma que deberá ser publicada en el Periódico Oficial del Estado, y en cuando menos uno de los diarios locales de mayor circulación en la Entidad;
 
-III. La comisión integrará una lista no menor de tres candidatos, que presentará a la consideración del Pleno el Congreso del Estado;
+III. La comisión integrará una lista no menor de tres candidatos, que presentará a la consideración del Pleno del Congreso del Estado;
 
 IV. De la lista presentada por la comisión especial, el Congreso, en Pleno, elegirá, por el voto secreto de por lo menos las dos terceras partes de sus miembros presentes, a quien deberá fungir como Contralor Interno del Consejo, y
 
@@ -2175,7 +2177,7 @@ V. Las demás que les impongan esta Ley, y las disposiciones relativas.
 
 ## TITULO SEXTO. DEL PADRON Y LISTADO NOMINAL DE ELECTORES
 
-### Capitulo Unico
+### Capítulo Único
 
 ###### ARTICULO 150.
 
@@ -2805,7 +2807,7 @@ I. Gastos de propaganda:
 
 a) Comprenden los realizados en bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados, propaganda utilitaria y otros similares;
 
-Il. Gastos operativos de la campaña:
+II. Gastos operativos de la campaña:
 
 a) Comprenden los sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y personal, viáticos y otros similares;
 
@@ -3271,7 +3273,7 @@ VI. En la elección de diputados, la totalidad de los paquetes electorales sólo
 
 VII. A continuación se abrirán los paquetes con muestras de alteración y se realizarán, según sea el caso, las operaciones señaladas en las fracciones anteriores, haciéndose constar lo procedente en el acta respectiva.
 
-a) Acto seguido se abrirán los paquetes en que se contengan los expedientes de las casillas, para extraer el de la elección de diputados y se procederá en los términos del la fracción III de este artículo.
+a) Acto seguido se abrirán los paquetes en que se contengan los expedientes de las casillas, para extraer el de la elección de diputados y se procederá en los términos de la fracción III de este artículo.
 
 b) Conforme a lo establecido en el párrafo inmediato anterior, para realizar el recuento total de votos respecto de una elección determinada, la comisión distrital electoral dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral, para tales efectos, el presidente, o secretario técnico de la comisión distrital dará aviso inmediato a los secretarios de, actas; y ejecutivo del Consejo; ordenará la creación de grupos de trabajo integrados por los consejeros distritales electorales, los representantes de los partidos y los vocales, que los presidirán. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente, y podrán hacer las observaciones que consideren, las cuales se asentarán en el acta respectiva;
 
@@ -3315,7 +3317,7 @@ III. La asignación de diputados por el principio de representación proporciona
 
 IV. El máximo de diputados por ambos principios que puede alcanzar un partido, será el que disponga la Constitución Política del Estado;
 
-V. En ningún caso, un partido político podrá exceder de ocho puntos porcentuales su representación por ambos principios, entendiendo por ésto, el diferencial entre el porcentaje de su votación efectiva, y su porcentaje de participación respecto al número de diputados que integran el Congreso del Estado, después de la asignación;
+V. En ningún caso, un partido político podrá exceder de ocho puntos porcentuales su representación por ambos principios, entendiendo por esto, el diferencial entre el porcentaje de su votación efectiva, y su porcentaje de participación respecto al número de diputados que integran el Congreso del Estado, después de la asignación;
 
 VI. Se asignará un diputado de representación proporcional a cada uno de los partidos políticos que hayan obtenido por lo menos el tres por ciento de la votación total válida emitida;
 
@@ -3331,9 +3333,9 @@ a) Se determinarán los diputados que se les asignarían a cada partido polític
 
 b) Los que se distribuirán por resto mayor, si después de aplicarse el cociente natural quedaren diputaciones por repartir, siguiendo el orden decreciente de los votos no utilizados por cada uno de los partidos políticos en la asignación de curules.
 
-c) Se determinará, si es el caso, aplicar a algún partido político el o los límites establecidos en las fracciones IV y V de este artículo. Si así fuere, le serán deducidos el número de diputados de representación proporcional hasta ajustarse a los límites establecidos, asignándose las diputaciones excedentes a los demás partidos políticos con derecho y que no se ubiquen en esos supuestos, conforme a la proporción de votos no utilizados por los partidos en las diversas asignaciones, atendiendo al entero y resto mayor establecidos en los incisos a) y b) de esta misma fracción.
+c) Se determinará, si es el caso, aplicar a algún partido político el o los límites establecidos en las fracciones IV y V de este articulo. Si así fuere, le serán deducidos el número de diputados de representación proporcional hasta ajustarse a los límites establecidos, asignándose las diputaciones excedentes a los demás partidos políticos con derecho y que no se ubiquen en esos supuestos, conforme a la proporción de votos no utilizados por los partidos en las diversas asignaciones, atendiendo al entero y resto mayor establecidos en los incisos a) y b) de esta misma fracción.
 
-d) Si fuese el caso, se eliminará del cociente al partido político que haya obtenido el porcentaje constitucional máximo permitido de puestos dentro de la Legislatura, dejando al resto de los partidos con derecho, para lo cual se tendrá que obtener un nuevo cociente en los términos del presente Capítulo.
+d) Si fuese el caso, se eliminará del cociente al partido político que haya obtenido el porcentaje constitucional máximo permitido de puestos dentro de la Legislatura, dejando al resto de los partidos con derecho, para lo cual se tendrá que obtener un nuevo cociente en los términos del presente Capitulo.
 
 ###### ARTICULO 257.
 
@@ -4132,3 +4134,11 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE JULIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
