@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2013-01-21"
+last_updated: "2013-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -187,9 +187,9 @@ IX. Secretaría de Desarrollo Agropecuario, Rural y Pesca;
 
 X. Secretaría de Salud
 
-> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
 
-XI. Secretaría de Turismo, Cultura y Cinematografía;
+XI. Secretaría de Turismo y Cultura
 
 > <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2008)</small>
 
@@ -747,9 +747,9 @@ XII. Coordinar con las universidades e instituciones de educación superior, el 
 
 XIII. Coordinar, organizar, dirigir y fomentar con los ayuntamientos e instituciones públicas o particulares el establecimiento de bibliotecas y hemerotecas, así como promover la creación de instituciones de divulgación científica y educativa;
 
-> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
 
-XIV. Promover, en coordinación con la Secretaría de Turismo, Cultura y Cinematografía, la edición y distribución de obras científicas, pedagógicas, históricas y literarias, para la difusión del conocimiento y el desarrollo cultural; asimismo, elevar el nivel educativo de la población del Estado;
+XIV. Promover en coordinación con la Secretaría de Turismo y Cultura, la edición y distribución de obras científicas, pedagógicas, históricas y literarias, para la difusión del conocimiento y el desarrollo cultural; asimismo, elevar el nivel educativo de la población del Estado;
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -773,9 +773,9 @@ XXII. Fomentar en los educandos el amor y el respeto a los símbolos patrios, y 
 
 XXIII. Promover, en coordinación con las autoridades competentes, los valores familiares y sociales que tiendan a la solidaridad humana, la preservación de la naturaleza y los centros urbanos y el respeto a la ley;
 
-> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
 
-XXIV. Patrocinar, en coordinación con la Secretaría de Turismo, Cultura y Cinematografía, la realización de congresos, asambleas, reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, artístico y educativo;
+XXIV. Patrocinar, en coordinación con la Secretaría de Turismo y Cultura, la realización de congresos, asambleas, reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, artístico y educativo;
 
 XXV. Planear, organizar y supervisar el desarrollo de programas de educación tecnológica, con el fin de crear, conservar y transmitir la cultura y la ciencia, con respeto a la libertad de cátedra y de investigación, de libre examen y de discusión de las ideas, y procurar su vinculación con el sector productivo;
 
@@ -1591,21 +1591,21 @@ XV. Establecer las normas para orientar los servicios de asistencia social en ma
 
 XVI. Instrumentar, coordinar y operar el Registro Estatal de Personas Morales Prestadoras de Servicios Médicos, Guarderías y Velatorios.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 31 DE JULIO DE 2013)</small>
 
-De la Secretaría de Turismo, Cultura y Cinematografía
+De la Secretaría de Turismo y Cultura
 
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2013)</small>
 
 ###### Artículo 32 Bis.
 
-La Secretaría de Turismo, Cultura y Cinematografía es la dependencia responsable de coordinar y ejecutar las políticas públicas y los programas de desarrollo y promoción del sector turístico de la Entidad; promover e impulsar la difusión de la cultura y de las manifestaciones artísticas; la conservación y el incremento del patrimonio cultural, histórico y artístico de Veracruz; así como normar y conducir las políticas y programas en los procesos de sistematización, seguimiento y compilación de la información pública gubernamental.
+La Secretaría de Turismo y Cultura es la dependencia responsable de coordinar y ejecutar las políticas públicas y los programas de desarrollo y promoción del sector turístico de la Entidad; promover e impulsar la difusión de la cultura y de las manifestaciones artísticas; la conservación y el incremento del patrimonio cultural, histórico y artístico de Veracruz; así como normar y conducir las políticas y programas en los procesos de sistematización, seguimiento y compilación de la información pública gubernamental.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2013)</small>
 
 ###### Artículo 32 Ter.
 
-Son atribuciones del Secretario de Turismo, Cultura y Cinematografía, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+Son atribuciones del Secretario de Turismo y Cultura, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
 
 > <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -2520,3 +2520,11 @@ G.O. 21 DE ENERO DE 2013.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 591 QUE REFORMA LA FRACCIÓN XXXV DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 31 DE JULIO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 862 QUE REFORMA LOS ARTÍCULOS 9 FRACCIÓN XI, 22 FRACCIONES XIV Y XXIV, 32 BIS, 32 TER Y SU TÍTULO RESPECTIVO, DE LA LEY NÚMERO 58 ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ; Y LOS ARTÍCULOS 1, 4 FRACCIONES XXVIII y XXIX, 8 FRACCIÓN II Y 14 FRACCIÓN II DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
