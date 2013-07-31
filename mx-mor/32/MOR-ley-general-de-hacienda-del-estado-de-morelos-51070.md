@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2012-12-26"
+last_updated: "2013-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -2243,37 +2243,61 @@ I. Por un policía en 12 horas de servicio diurno;
 
 a) Riesgo medio
 
-1. Tarifa diaria $300.00
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
 
-2. Tarifa quincenal $4,500.00
+1. Tarifa diaria 5.5 SMV
 
-3. Tarifa mensual $9,000.00
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+2. Tarifa quincenal 80.5 SMV
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+3. Tarifa mensual 181.5 SMV
 
 b) Riesgo alto
 
-1. Tarifa diaria $393.00
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
 
-2. Tarifa quincenal $5,906.25
+1. Tarifa diaria 7 SMV
 
-3. Tarifa mensual $11,812.50
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+2. Tarifa quincenal 106 SMV
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+3. Tarifa mensual 211.5 SMV
 
 II. Por un policía en 24 horas de servicio:
 
 a) Riesgo medio
 
-1. Tarifa diaria $551.25
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
 
-2. Tarifa quincenal $8,268.75
+1. Tarifa diaria 10 SMV
 
-3. Tarifa mensual $16,537.50
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
 
-b) Riesgo alto $833.33
+2. Tarifa quincenal 148 SMV
 
-1. Tarifa diaria $12,500.00
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
 
-2. Tarifa quincenal $25,000.00
+3. Tarifa mensual 296.5 SMV
 
-3. Tarifa mensual
+b) Riesgo alto
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+1. Tarifa diaria 15 SMV
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+2. Tarifa quincenal 224 SMV
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+3. Tarifa mensual 448 SMV
 
 Para la clasificación del riesgo se estará a lo siguiente:
 
@@ -2283,35 +2307,59 @@ Riesgo alto: los servicios prestados en los lugares en los que se resguarden val
 
 III. Por la prestación del Servicio Nocturno por 12 horas por un policía:
 
-1. Tarifa diaria $337.50
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
 
-2. Tarifa quincenal $5,062.50
+1. Trifa (sic) diaria 6 SMV
 
-3. Tarifa mensual $10,125.00
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+2. Tarifa quincenal 90.5 SMV
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+3. Tarifa mensual 181.5 SMV
 
 IV. Por la prestación del Servicio Extraordinario por 12 horas por un policía:
 
-1. Tarifa diaria $491.25
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
 
-2. Tarifa quincenal $7,368.75
+1. Trifa (sic) diaria 9 SMV
 
-3. Tarifa mensual $14,737.50
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
 
-V. Por la prestación del Servicio Extraordinario por 24 horas por un policía:
+2. Tarifa quincenal 132 SMV
 
-1. Tarifa diaria $982.50
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
 
-2. Tarifa quincenal $14,737.50
+3. Tarifa mensual 264 SMV
 
-3. Tarifa mensual $29,475.00
+V. Por la prestación del Servicio Extraordinario por 24 horas por un policía, y
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+1. Tarifa diaria 17.5 SMV
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+2. Tarifa quincenal 264 SMV
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+3. Tarifa mensual 528 SMV
 
 VI. Por la prestación del Servicio de Escolta, por cada elemento:
 
-1. Tarifa diaria $750.00
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
 
-2. Tarifa quincenal $11,250.00
+1. Trifa (sic) diaria 13.5 SMV
 
-3. Tarifa mensual $22,500.00
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+2. Tarifa quincenal 201.5 SMV
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
+3. Tarifa mensual 403 SMV
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS EN MATERIA DE CARRETERAS DE CUOTA DEL ESTADO
 
@@ -3540,3 +3588,17 @@ SEXTO.- Túrnese la presente resolución al Titular del Poder Ejecutivo del Esta
 SÉPTIMO.- El inicio de vigencia de las disposiciones contenidas en fracciones VI y VII del artículo 84 BIS-1 de la Ley General de Hacienda del Estado de Morelos, se dará a partir de la Declaratoria que expida la Secretaría de Hacienda del Estado, por la cual se concluya el proceso de captura, grabación y colocación de la constancia de inscripción al Registro Público Vehicular en las unidades que se encuentran registradas en el padrón vehicular estatal.
 
 OCTAVO.- A partir del inicio de vigencia del presente Decreto, la Secretaría de Seguridad Pública del Gobierno del Estado, tendrá un plazo de 30 días naturales para publicar y difundir entre los Municipios de la Entidad, las Reglas de Operación y rendición de cuentas, aplicables al Fondo a que se refiere el artículo 15 Bis de la Ley de Coordinación Hacendaria del Estado de Morelos.
+
+P.O. 31 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad', órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir del primer día del mes siguiente a la fecha de la publicación del presente decreto, deberá realizarse el ajuste a las tarifas establecidas en el artículo 94 de la Ley General de Hacienda del Estado de Morelos, para los servicios de la Policía Industrial Bancaria y Auxiliar, lo cual se verá reflejado en los contratos correspondientes.
