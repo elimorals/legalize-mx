@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-80508"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-28"
-last_updated: "2013-07-29"
+last_updated: "2013-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 28 de marzo de 2011.
 
@@ -273,7 +273,9 @@ X.- Distribuir en forma oportuna, completa, amplia y eficiente los libros de tex
 
 XI.- Conceder becas económicas o de exención, así como estímulos, a los estudiantes que así lo requieran, de acuerdo con su situación socioeconómica y desempeño académico, en términos de los reglamentos aplicables y la disponibilidad presupuestal;
 
-XII.- Promover a través de convenios, la incorporación de los estudiantes de instituciones públicas, a los servicios básicos de salud, para quienes no disfrutan de ellos;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
+
+XII.- Promover a través de Convenios, la incorporación de los estudiantes del Estado, a los servicios básicos de salud, para quienes no disfrutan de ellos;
 
 XIII.- Promover la vinculación de las instituciones educativas con el sector productivo de la Entidad;
 
@@ -766,6 +768,12 @@ IV.- La autoridad educativa local ofrecerá atención gratuita a los educandos c
 V.- Es derecho y obligación de los padres de familia o tutores de personas con necesidades educativas especiales, recibir la debida orientación y participación que promuevan el desarrollo integral de sus hijas, hijos o pupilos, así como la toma de decisiones que favorezcan su educación. Además, tendrán la facultad de organizarse y participar con las instituciones en la integración de las personas con necesidades educativas especiales; y
 
 VI.- La autoridad educativa local, en coordinación con las instituciones formadoras de docentes de la entidad, promoverá, con base en la infraestructura disponible, el ofrecimiento de las licenciaturas y postgrados correspondientes para la formación de docentes que la educación especial requiera para atender sus necesidades.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2013)</small>
+
+ARTÍCULO 68 BIS.- La autoridad educativa garantizará la participación escolar de las personas con discapacidad mediante el empleo de estrategias que valoren la diversidad, respeten las diferencias individuales de los estudiantes y promuevan las actividades físicas, motoras y cognitivas.
+
+Así mismo, promoverá la educación física inclusiva mediante la cual dará oportunidad de fomentar y fortalecer los valores sociales, educativos y culturales, y de manera más específica el desarrollo de competencias físicas, motoras y espaciales (sic) que permitan mejorar la salud, seguridad y autonomía personal, entre otras de las niñas, niños y jóvenes con discapacidad.
 
 #### SECCIÓN SEGUNDA. DE LA EDUCACIÓN INDÍGENA
 
@@ -1672,3 +1680,9 @@ SEGUNDO. La Secretaría de Educación Pública, deberá generar los mecanismos o
 TERCERO. La Secretaría de Educación Pública del Estado, deberá formular las adecuaciones correspondientes a su Reglamento Interior acordes al presente Decreto, dentro de los treinta días naturales siguientes de la publicación del mismo.
 
 CUARTO.- Se derogan todas aquellas disposiciones que se opongan a esta Ley.
+
+P.O. 31 DE JULIO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a esta Ley.
