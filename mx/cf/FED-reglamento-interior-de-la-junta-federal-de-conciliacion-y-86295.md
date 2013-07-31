@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-junta-federal-de-conciliacion-y-86295
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-24"
-last_updated: "2012-03-21"
+last_updated: "2013-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86295&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2012-02-09"
 
 REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE PUBLICADO EN EL D.O.F. DE 31 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 21 DE MARZO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de febrero de 2012.
 
@@ -1166,3 +1166,15 @@ El presente Reglamento Interior fue aprobado por el Pleno de la Junta Federal de
 El Secretario General de Conflictos Individuales de la Junta Federal de Conciliación y Arbitraje, Manuel Contreras Arrevillaga, actuando como Secretario del Pleno de la misma, por designación hecha por el Presidente de la Junta Federal de Conciliación y Arbitraje, conforme a lo dispuesto por los artículos 11 y 12, fracción II del Reglamento Interior de la Junta Federal de Conciliación y Arbitraje, CERTIFICA: que el presente Reglamento Interior constante de 41 fojas de un solo lado, fue aprobado por el Pleno en Sesión Ordinaria celebrada el día 9 de febrero de 2012, presidida por el Lic. Eduardo Andrade Salaverría, Presidente de la Junta Federal de Conciliación y Arbitraje.- A los nueve días del mes de febrero de dos mil doce. Conste.- Rúbrica.
 
 El Secretario General de Asuntos Individuales de la Junta Federal de Conciliación y Arbitraje, Manuel Contreras Arrevillaga, quien actuó como Secretario del Pleno de la misma, por designación hecha por el Presidente de la Junta Federal de Conciliación y Arbitraje, en la Sesión Ordinaria celebrada el día 9 de febrero de 2012, HACE CONSTAR: las aclaraciones al Reglamento Interior de la Junta Federal de Conciliación y Arbitraje, aprobado por el Pleno en Sesión Ordinaria del día 9 de febrero de 2012, presidida por el Lic. Eduardo Andrade Salaverría, Presidente de la Junta Federal de Conciliación y Arbitraje.- A los seis días del mes de marzo de dos mil doce.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 31 DE JULIO DE 2013.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje, publicado en el Diario Oficial de la Federación el 24 de febrero de 2012; y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Las áreas de la Junta con denominación nueva o distinta a la que aparece en el Reglamento que se abroga o con competencia en asuntos que correspondían a otras, se harán cargo de los mismos a partir de la entrada en vigor del presente Reglamento.
+
+CUARTO. Los derechos laborales del personal jurídico y administrativo serán respetados conforme a la Ley.
