@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-gobierno-50199"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-27"
-last_updated: "2009-11-30"
+last_updated: "2013-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 27 de marzo de 2006.
 
@@ -901,7 +903,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 4 DE DICIEMBRE DE 2006.
 
@@ -910,3 +912,17 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicac
 P.O. 30 DE NOVIEMBRE DE 2009.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Gobierno, del 24 de marzo del dos mil seis, publicado en el Periódico Oficial del Estado de Hidalgo, el 27 de marzo del mismo año.
+
+###### ARTÍCULO TERCERO.
+
+Cuando el presente Reglamento confiera facultades a unidades administrativas con funciones equivalentes, que se encuentren señaladas en otras disposiciones con distinta denominación, se entenderá que corresponden a las unidades previstas en este Reglamento.
