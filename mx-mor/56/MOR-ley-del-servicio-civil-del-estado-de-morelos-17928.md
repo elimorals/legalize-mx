@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2013-07-17"
+last_updated: "2013-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -113,9 +113,15 @@ LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
 La presente Ley es de observancia general y obligatoria para el Gobierno Estatal y los Municipios del Estado de Morelos y tiene por objeto determinar los derechos y obligaciones de los trabajadores a su servicio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+
 ###### Artículo 2.
 
-El trabajador al servicio del Estado es la persona física que presta un servicio en forma permanente o transitoria, en virtud de nombramiento expedido a su favor por alguno de los Poderes del Estado, por un Municipio, o por una Entidad Paraestatal o Paramunicipal. Tienen ese mismo carácter quienes laboran sujetos a lista de raya o figuran en las nóminas de las anteriores instituciones.
+El trabajador al servicio del Estado, es la persona física que presta un servicio subordinado en forma permanente o transitoria, en virtud de nombramiento expedido a su favor por alguno de los Poderes del Estado, por un Municipio, o por una Entidad Paraestatal o Paramunicipal. Tienen ese mismo carácter quienes laboran sujetos a lista de raya o figuran en las nóminas de las anteriores instituciones.
+
+Dado que por la naturaleza de su función, al ser depositarios de un poder, u ostentar la representación de un organismo y por carecer de la condición de subordinación, quedan excluidos de la definición prevista en el párrafo que antecede, el Gobernador, los Magistrados Numerarios, Supernumerarios e integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los Magistrados integrantes del Tribunal Contencioso Administrativo y del Tribunal Unitario de Justicia para Adolescentes, así como los Magistrados integrantes del Tribunal Estatal Electoral; los Diputados locales, los Presidentes Municipales, Síndicos y Regidores integrantes de los 33 Cabildos de la Entidad, los Titulares de las Dependencias que integran la Administración Pública Paraestatal y Paramunicipal.
 
 ###### Artículo 3.
 
@@ -488,6 +494,12 @@ El salario descrito en el párrafo anterior no podrá modificarse atendiendo a c
 ###### Artículo 42.
 
 Los trabajadores al servicio del Gobierno del Estado o de los Municipios, tendrán derecho a un aguinaldo anual de 90 días de salario. El aguinaldo estará comprendido en el presupuesto anual de egresos y se pagará en dos partes iguales, la primera a más tardar el 15 de diciembre y la segunda a más tardar el 15 de enero del año siguiente. Aquéllos que hubieren laborado una parte del año, tendrán derecho a recibir la parte proporcional de acuerdo con el tiempo laborado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2013)</small>
+
+Dado que por la naturaleza de su función, al ser depositarios de un poder u ostentar la representación de un organismo y por carecer de la condición de subordinación, quedan excluidos para gozar de esta prerrogativa de Ley, el Gobernador, los Magistrados Numerarios, Supernumerarios e integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los Magistrados integrantes del Tribunal Contencioso Administrativo y del Tribunal Unitario de Justicia para Adolescentes, así como los Magistrados integrantes del Tribunal Estatal Electoral; los Diputados locales, los Presidentes Municipales, Síndicos y Regidores integrantes de los 33 Cabildos de la Entidad, los Titulares de las Dependencias que integran la Administración Pública Paraestatal y Paramunicipal.
 
 ## TÍTULO QUINTO. DE LOS DERECHOS Y DE LAS OBLIGACIONES
 
@@ -1624,5 +1636,13 @@ P.O. 17 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- El Ejecutivo del Estado tiene treinta días naturales a partir de la publicación de la presente reforma, para hacer las adecuaciones al Reglamento correspondiente conforme a este Decreto.
+
+TERCERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 31 DE JULIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del primero de enero de dos mil catorce, previo a su publicación en el Periódico Oficial "Tierra y Liberta (sic)", Órgano de Difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- La presente reforma no será aplicable a los Magistrados Numerarios, Supernumerarios e integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los Magistrados integrantes del Tribunal Contencioso Administrativo, así como a los Magistrados integrantes del Tribunal Estatal Electoral, que integran actualmente el Poder Judicial del Estado de Morelos, sino a los futuros sucesores de los mismos.
 
 TERCERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
