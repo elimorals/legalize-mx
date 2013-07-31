@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-22383"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2006-09-11"
+last_updated: "2013-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-LEY PARA LA PROTECCION DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
+LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 15 de octubre de 2001.
 
@@ -507,9 +507,17 @@ VIII. Implementar, en coordinación con las instancias competentes, las medidas 
 
 IX. Presidir el Consejo Impulsor de los Derechos de la Niñez y la Adolescencia;
 
-X. Crear los mecanismos o instancias correspondientes para el cumplimiento de esta Ley; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
 
-XI. Las demás que le confieran otros ordenamientos jurídicos.
+X. Coordinar acciones y promover medidas para prevenir la utilización de programas o archivos de datos que contengan actos de exhibicionismo corporal, lascivos o sexuales, reales o simulados, supuestos del delito de pornografía infantil previsto en el artículo 274 Bis del Código Penal para el Estado de Sinaloa.
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
+
+XI. Crear los mecanismos o instancias correspondientes para el cumplimiento de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2013)</small>
+
+XII. Las demás que le confieran otros ordenamientos jurídicos.
 
 ### CAPÍTULO SEGUNDO. De la Secretaría de Planeación y Desarrollo
 
@@ -1037,7 +1045,7 @@ El Secretario de Salud
 
 Víctor Manuel Díaz Simental.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE AGOSTO DE 2002.
 
@@ -1082,3 +1090,7 @@ c) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución defin
 d) Si existieran adolescentes menores de catorce años privados de su libertad, se ordenará su inmediata libertad; sin perjuicio de que, en el caso de los mayores de doce años, el Juez Especializado pueda sustituirla por una de las medidas de orientación y protección previstas en la Ley de Justicia para Adolescentes del Estado de Sinaloa, escuchando al adolescente, sus padres, tutores o representantes legales y el Ministerio Público.
 
 e) Si existieran menores de doce años privados de su libertad, se ordenará su inmediata libertad; si sus derechos estuvieren amenazados o en riesgo, el Juez Especializado podrá ordenar la intervención de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en los términos de lo previsto en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa.
+
+P.O. 31 DE JULIO DE 2013.
+
+Artículo Único. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
