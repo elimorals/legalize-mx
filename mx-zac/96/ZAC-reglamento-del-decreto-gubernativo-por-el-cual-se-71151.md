@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-del-decreto-gubernativo-por-el-cual-se-71151"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-21"
-last_updated: "2010-08-28"
+last_updated: "2013-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO DEL DECRETO GUBERNATIVO POR EL CUAL SE ESTABLECEN LAS BASES PARA LA ENTREGA - RECEPCION DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS 2004-2010
 
-REGLAMENTO DEL DECRETO GUBERNATIVO POR EL CUAL SE ESTABLECEN LAS BASES PARA LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS 2004-2010
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ENTREGA-RECEPCIÓN DEL ESTADO Y MUNICIPIOS DE ZACATECAS, PUBLICADA EN EL P.O. DE 31 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2010.
+REGLAMENTO DEL DECRETO GUBERNATIVO POR EL CUAL SE ESTABLECEN LAS BASES PARA LA ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS 2004-2010
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 21 de noviembre de 2009.
 
@@ -576,3 +578,25 @@ P.O. 28 DE AGOSTO DE 2010.
 Primero.- El presente Decreto Gubernativo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones administrativas que contravengan este instrumento.
+
+P.O. 31 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan el Decreto Gubernativo por el cual se establecen las Bases para la Entrega-Recepción de la Administración Pública del Estado 2004-2010 y su Reglamento; las Bases para la Entrega-Recepción de las Administraciones Municipales 2007-2010/2010-2013; y todas aquellas disposiciones legales, administrativas y reglamentarias que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de sesenta días hábiles, contados a partir del día siguiente del inicio de vigencia de esta Ley, la Secretaría de la Función Pública, los órganos de control interno de las dependencias u organismo (sic) y la Auditoría Superior del Estado, en el ámbito de sus competencias, expedirán el manual técnico de entrega-recepción, los manuales de procedimientos y de inconformidad, formatos y otras disposiciones administrativas. Aquellas disposiciones que a la entrada en vigor de la presente Ley resulten aplicables, continuarán vigentes hasta en tanto se actualice la reglamentación relativa al proceso de entrega-recepción.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos del artículo 54 de esta Ley los ayuntamientos salientes en el ejercicio constitucional que concluye en el mes de septiembre de 2013, que a la fecha de entrada en vigor de la presente Ley, no hubieran designado la comisión de entrega mediante Acuerdo de Cabildo o que habiéndola designado no cumplan los requisitos a que se refiere el mencionado artículo, contarán con un plazo de quince días naturales siguientes a la publicación de esta Ley, para integrar su comisión de entrega, la cual deberán notificar a la Auditoría Superior del Estado dentro de los diez días naturales siguientes a su designación.
+
+###### ARTÍCULO QUINTO.
+
+Los ayuntamientos para el ejercicio constitucional que concluye en 2013, podrán hacer el corte de la información y documentación hasta el 13 de septiembre de 2013 y no al 31 de julio de 2013, en atención a la implementación de la Armonización Contable.
