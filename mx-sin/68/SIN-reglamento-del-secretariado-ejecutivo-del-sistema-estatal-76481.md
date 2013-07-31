@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-del-secretariado-ejecutivo-del-sistema-estatal-76481
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-09-03"
-last_updated: "2010-09-03"
+last_updated: "2013-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2010.
 
@@ -1113,473 +1113,167 @@ VII. Sugerir al titular del Centro Estatal, la adquisición de nuevas tecnologí
 
 VIII. Todas aquellas que le atribuyan otras disposiciones aplicables.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)</small>
+
 Apartado Quinto
 
 Del Instituto
 
 ###### Artículo 47.
 
-El Instituto es una entidad administrativa creada por ley, cuya función es establecer las bases para el reclutamiento, selección, ingreso, formación, capacitación, actualización, desarrollo, profesionalización y especialización del personal de las instituciones de seguridad pública.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 48.
 
-El Instituto tendrá la responsabilidad de operar el Sistema de Formación y Profesionalización previsto en la Ley, de aplicar los Programas Rectores de Profesionalización del personal de Seguridad Pública, de la Procuración de Justicia y Sistema Penitenciario, bajo la conducción de su Titular, al que se le denominará Director General.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 49.
 
-El Instituto como parte de los objetivos específicos señalados en la Ley y en su Ley Orgánica, impulsará la impartición educativa en los niveles de enseñanza básica, media, media superior, superior, de especialización y posgrado, así como programas de investigación académica y cursos de formación, de homologación, diplomados y seminarios a fin de proveer a la formación y profesionalización de aspirantes y servidores públicos policiales, técnicos, profesionales e investigadores comprometidos con el mejoramiento de la seguridad pública.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 50.
 
-El Instituto tendrá su domicilio en la población donde residan los Poderes Estatales, asimismo previa justificación y autorización de su Consejo Académico, podrá crear extensiones en cualquier parte del Estado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 51.
 
-El Instituto planeará sus actividades y conducirá las mismas en forma programada, con base en las prioridades, restricciones y políticas de desarrollo que, para el logro de los objetivos y metas del Plan Estatal de Desarrollo y de los programas respectivos, establezcan el Secretario Ejecutivo y su Director General, en el ámbito de sus atribuciones.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 52.
 
-El Secretario Ejecutivo a través del Director General, tendrá la administración y operación de los recursos humanos, financieros, materiales y documentales del Instituto, asimismo, por su conducto dará seguimiento y cumplimiento a los objetivos específicos, programas, planes, asignaturas y demás acciones que se implementen como parte del Sistema de Formación y Profesionalización señalado en la Ley, como en la Ley Orgánica de dicho Instituto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 53.
 
-El Director General del Instituto previo acuerdo con el Secretario Ejecutivo, formulará, expedirá, y publicará de manera conjunta con los titulares de las instituciones policiales del Estado y Municipios así como de Procuración de Justicia, las convocatorias donde se establezcan las bases para el reclutamiento, selección, ingreso, formación, capacitación, actualización, desarrollo, profesionalización y especialización del servicio policial del personal de Seguridad Pública del Estado y Municipios.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 54.
 
-Las personas que ingresen a estudiar al Instituto para formarse como servidor público policial se les denominará cadete o aspirante, las que cursen una licenciatura y/o posgrado se le denominará alumno y a los integrantes de las instituciones policiales se les denominará elementos activos.
-
-Para ella, los cadetes a aspirantes deberán cantar con el perfil de ingreso a la Formación Inicial Policial además de cumplir con los requisitos básicos señalados en el artículo 244 de la Ley.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 55.
 
-Las personas que egresen del Instituto deberán comprometerse por escrito a prestar sus servicios como agente de policía preventivo en cualquiera de las modalidades previstas para la Ley, cuando menos durante un año, por el primer curso, y un año por cada curso de actualización subsecuente, con los derechos y obligaciones que se establezca para el personal de cada una de las instituciones de seguridad pública en la cual presten dichos servicios, con excepción de los que realicen cursos sobre procuración de justicia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 56.
 
-Al frente de la Dirección General del Instituto, habrá un Titular al que se le denominará Director General, quien además de ejercer las facultades y obligaciones señaladas en el artículo 7 de la Ley Orgánica del Instituto y las facultades genéricas de los directores generales, tendrá las siguientes atribuciones:
-
-I. Coordinar la operatividad del Sistema de Formación y Profesionalización del personal de Seguridad Pública;
-
-II. Presentar al Secretario Ejecutivo, un programa anual de actividades del Instituto, fundado y motivado en la Ley, en el Plan Estatal de Desarrollo y demás ordenamientos aplicables;
-
-III. Coordinar la homologación del Desarrollo Policial ante las autoridades competentes de las órdenes de gobierno estatal y municipal;
-
-IV. Acordar los asuntos de su competencia con los titulares de las unidades administrativas y demás servidores públicos del Instituto;
-
-V. Definir las políticas de instrumentación de los sistemas de control que fueren necesarios, tomando las acciones correspondientes para corregir las deficiencias que se detectaren y presentar al Secretario Ejecutivo, los informes periódicos sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programa de mejoramiento;
-
-VI. Coordinar sus actividades con las dependencias y entidades de los tres órdenes de gobierno, así como con los organismos privados y sociales que requiera el Instituto para su buen funcionamiento;
-
-VII. Presentar al Secretario Ejecutivo, un informe bimestral sobre los avances y logros obtenidos en las actividades y programas realizados, así como de la marcha general del Instituto;
-
-VIII. Rendir un informe anual de actividades, incluyendo el ejercicio de los presupuestos de ingresos y egresos, así como de los estados financieros correspondientes, con el cual, se pueda cotejar las metas propuestas y los compromisos asumidos por la Dirección General del Instituto, con relación a las metas alcanzadas;
-
-IX. Poner a consideración del Secretario Ejecutivo, el proyecto de calendario escolar anual;
-
-X. Proponer al Secretario Ejecutivo, los proyectos de iniciativas, reformas o adiciones a la legislación o reglamentación que regule al Instituto;
-
-XI. Verificar la aplicación de contenidos de los planes y programas para la formación de los servidores públicos referidos en la Ley, así como del Programa Rector de Profesionalización aprobado por el Consejo Nacional;
-
-XII. Desarrollar e implementar en colaboración con las Instituciones de Seguridad Pública, los mecanismos de coordinación que permitan fortalecer y eficientar las carreras ministerial, policial y pericial;
-
-XIII. Acreditar y validar ante las autoridades e instancias competentes, los programas que desarrollen en su caso, los Municipios en materia de actualización y capacitación para los policías preventivos municipales;
-
-XIV. Integrar y mantener actualizado el Registro Estatal de Docentes, así como gestionar su inscripción, acreditación y certificación en su caso, ante el Registro Nacional correspondiente;
-
-XV. Verificar que los aspirantes a formación inicial, hayan aprobado las evaluaciones que determine el Centro Estatal de Evaluación y Control de Confianza;
-
-XVI. Instruir la aplicación de evaluaciones con la que se acrediten las habilidades, destrezas, aptitudes, conocimientos generales y específicos para el desempeño de la función policial de los aspirantes y en su caso del personal activo de las instituciones de Seguridad Pública;
-
-XVII. Seleccionar de entre los aspirantes a formar parte de las Instituciones de Seguridad Pública a quienes acrediten los conocimientos y aptitudes requeridos para la realización de la función policial;
-
-XVIII. Formar y preparar a las personas que aspiren a ingresar a las Instituciones de Seguridad Pública así como a sus elementos en activo, con la finalidad de alcanzar su desarrollo profesional, técnico, científico, físico y cultural;
-
-XIX. Actualizar y perfeccionar los conocimientos, destrezas y habilidades de los elementos en activo, conforme a las especialidades y capacidades requeridas de acuerdo a la Ley;
-
-XX. Impartir conocimientos a los elementos en activo de las instituciones de Seguridad Pública, sobre la organización, administración, dirección y supervisión de los servicios policiales;
-
-XXI. Proponer la oferta educativa a las instituciones de seguridad pública, así como impartir los cursos al personal activo que deba ser objeto de actualización y homologación conforme a las evaluaciones previstas por la Ley;
-
-XXII. Promover los programas de educación abierta en coordinación con las instituciones educativas y de seguridad pública, para efecto de mejorar el nivel educativo de los elementos activos;
-
-XXIII. Proponer al Ejecutivo del Estado, por conducto del Secretario Ejecutivo, el proyecto del presupuesto anual de ingresos y egresos del Instituto;
-
-XXIV. Dirigir y supervisar el control del presupuesto del Instituto así como la administración de los bienes muebles, inmuebles y de consumo del mismo a través del Director Administrativo;
-
-XXV. Informar sobre los (sic) tarifas, cobros o cuotas de inscripción y colegiatura que acuerde el Secretario Ejecutivo;
-
-XXVI. Instruir la elaboración, adición a reforma en su caso, de los anteproyectos de los reglamentos, estatutos, proyectos, lineamientos, manuales de organización y de procedimientos del Instituto, con apego a los lineamientos establecidos en la materia por la Secretaría de la Contraloría y Desarrollo Administrativo de Gobierno del Estado;
-
-XXVII. Formular las denuncias y querellas en que el Instituto sea el ofendido, previa coordinación con la Dirección de Asuntos Jurídicos del Secretariado Ejecutivo;
-
-XXVIII. Intervenir en los términos de la legislación aplicable, en los juicios y asuntos en que se tenga interés jurídico;
-
-XXIX. Nombrar y remover al personal docente y administrativo, previo acuerdo con el Secretario Ejecutivo;
-
-XXX. Mantener una comunicación permanente con los titulares de las Instituciones de Seguridad Pública, para formalizar convenios de carácter académico, relacionados con las actividades, planes, programas y cursos implementados por el Instituto; y,
-
-XXXI. Las demás que le atribuyan las leyes, reglamentos, decretos, acuerdos y disposiciones aplicables al Instituto o que expresamente le encomiende el Secretario Ejecutivo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 57.
 
-Para el despacho de los asuntos de su competencia, el Director General del Instituto contará con las unidades y áreas administrativas siguientes:
-
-I. Dirección de Control Interno y Asuntas Jurídicos;
-
-II. Dirección Académica;
-
-III. Dirección de Servicios Generales;
-
-IV. Dirección Administrativa;
-
-V. Comandancia del Cuerpo de Cadetes;
-
-VI. Departamento de Enlace Informático;
-
-VII. Departamento de Comunicación y Vinculación Social; y,
-
-VIII. Departamento de Editorial y Diseño.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 58.
 
-Los titulares de las unidades administrativas adscritas a la Dirección General del Instituto, tendrán a su cargo la conducción técnica y administrativa de las mismas y serán responsables ante el Director General de su correcto funcionamiento.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
+
+> <small>(DEROGADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)</small>
 
 ### Capítulo Primero. De las unidades administrativas adscritas a la Dirección General del Instituto
 
 ###### Artículo 59.
 
-El Director General del instituto estará auxiliado de manera directa por la unidad y áreas administrativas siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
-I. Dirección de Control Interno y Asuntos Jurídicos;
-
-II. Departamento de Enlace Informático;
-
-III. Departamento de Comunicación y Vinculación Social; y,
-
-IV. Departamento de Editorial y Diseño.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)</small>
 
 #### Sección Única. De la Dirección de Control Interno y Asuntos Jurídicos
 
 ###### Artículo 60.
 
-Al frente de la Dirección de Control Interno y Asuntos Jurídicos, habrá un Titular al que se le denominará Director de Control Interno y Asuntos Jurídicos, quien además de las facultades genéricas de los directores, tendrán las atribuciones siguientes:
-
-I. Planear, organizar y coordinar el sistema de control, evaluación y auditoría que deban de observar las unidades administrativas adscritas al Instituto;
-
-II. Practicar con apoyo de las dependencias e instancias competentes, las auditorías integrales y mecanismos de control interno a las unidades administrativas del Instituto;
-
-III. Supervisar y evaluar desde el punto de vista financiero, el ejercicio del presupuesto aprobado al instituto;
-
-IV. Proporcionar en caso de ser requerida, la información necesaria al Órgano de Control Interno del Secretariado Ejecutivo;
-
-V. Vigilar las transferencias y adecuaciones presupuestales;
-
-VI. Vigilar que el uso de los recursos patrimoniales del instituto sea el adecuado y se apliquen exclusivamente para la consecución de su objeto con probidad, transparencia, eficiencia y eficacia;
-
-VII. Supervisar y evaluar el ejercicio presupuestal, relacionado con los ingresos generados por las unidades y áreas administrativas del Instituto, así como verificar que éstos se apliquen conforme a la normatividad correspondiente;
-
-VIII. Intervenir en las licitaciones que se realicen para las adquisiciones y servicios, así como en la venta de bienes sin utilidad y desechos del Instituto, dejando constancia mediante acta administrativa;
-
-IX. Intervenir en la entrega y recepción del patrimonio del Instituto;
-
-X. Intervenir previa instrucción del Director General, en la defensa de los intereses del Instituto así como en los juicios que hubiera iniciado la institución o que se interpongan en su contra;
-
-XI. Desarrollar y coordinar con las unidades y áreas administrativas del Instituto, las actividades de planeación, evaluación y control de los programas que son de su competencia;
-
-XII. Coordinar la elaboración y seguimiento del Plan de Desarrollo Institucional y de los Programas Operativos Anuales;
-
-XIII. Integrar en coordinación con la Dirección de Servicios Administrativos y las unidades administrativas del Instituto, los anteproyectos de presupuesto global y de los programas de inversión y obra pública;
-
-XIV. Procurar el cumplimiento del orden jurídico del instituto;
-
-XV. Proponer al Consejo Académico y Director General, la formulación y revisión de los anteproyectos de reglamentos y demás instrumentos jurídicos que requiera el Instituto;
-
-XVI. Asistir al Director General, en la celebración de convenios, contratos y actos multilaterales, en los que participe el Instituto;
-
-XVII. Asesorar a las unidades y áreas administrativas, órganos y demás instancias del Instituto, en materia de consulta e interpretación de la legislación nacional y local; y,
-
-XVIII. Las demás que le señalen las leyes, reglamentos y demás disposiciones aplicables o que expresamente le encomiende el Director General.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 61.
 
-El Director de Control Interno y Asuntos Jurídicos, se auxiliará de las siguientes áreas administrativas:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
-I. Departamento de Enlace Jurídico y Control Interno; y,
-
-II. Departamento de Planeación Estratégica; (sic)
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)</small>
 
 ### Capítulo Segundo. De las Unidades Administrativas adscritas al instituto
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)</small>
 
 #### Sección I. De la Dirección Académica
 
 ###### Artículo 62.
 
-Al frente de la Dirección Académica habrá un Titular al que se le denominará Director Académico, quien además de las facultades genéricas de los directores, tendrá las atribuciones siguientes:
-
-I. Diseñar y someter a la consideración del Director General, los programas académicos del Instituto en materia de docencia, investigación y extensión;
-
-II. Coordinar y evaluar las actividades de las áreas administrativas bajo su adscripción, de acuerdo a las instrucciones del Director General;
-
-III. Integrar y someter a la consideración del Director General, la planta docente de acuerdo a las necesidades y programas educativos que desarrolle el Instituto;
-
-IV. Someter a la consideración del Director General, la integración de las academias de profesores así como los titulares de las mismas;
-
-V. Promover, coordinar y desarrollar el estudio, investigación e intercambio de información en materia de seguridad pública;
-
-VI. Impulsar y coordinar una planta permanente de investigación científica en las áreas de seguridad pública;
-
-VII. Integrar y someter a la consideración del Director General, los requisitos y procedimientos para la revalidación y reconocimiento de estudios realizados en otras instituciones educativas;
-
-VIII. Promover programas y proyectos tendientes a mejorar el desempeño del personal académico;
-
-IX. Atender la vinculación y extensión académico del Instituto con organismos académicos diversos, ya sean públicos o privados;
-
-X. Integrar la información relativa al desempeño académico de los alumnos y del personal docente del Instituto;
-
-XI. Formular los proyectos de programas y de presupuesto que le correspondan, así como verificar que las áreas administrativas bajo su adscripción, ejecuten de manera correcta y oportuna los que le fueren aprobados;
-
-XII. Formular y dar seguimiento a los programas y proyectos de certificación de las competencias laborales de los egresados de (sic) Instituto;
-
-XIII. Coordinar acciones con las demás unidades y áreas administrativas del Instituto, con el propósito de lograr los objetivos académicos, previamente autorizados por el Director General; y,
-
-XIV. Las demás que le señalen las leyes, reglamentos y demás disposiciones aplicables o que expresamente le encomiende el Director General.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 63.
 
-Para el despacho de los asuntos de su competencia, el Director Académico se auxiliará de las siguientes áreas administrativas:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
-I. Departamento de Programas Académicos;
-
-II. Departamento de Seguimiento y Evaluación Académica; y,
-
-III. Departamento de Formación, Actualización y Profesionalización.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)</small>
 
 #### Sección II. De la Dirección de Servicios Generales
 
 ###### Artículo 64.
 
-Al frente de la Dirección de Servicios Generales, habrá un Titular al que se le denominará Director de Servicios Generales, quien además de las facultades genéricas de los directores, tendrá las atribuciones siguientes:
-
-I. Dirigir las actividades inherentes a normar el control escolar del Instituto;
-
-II. Coordinar los procesos de reclutamiento y selección de aspirantes a ingresar a los distintos programas académicos, licenciatura y posgrado; así como a los programas de formación inicial, actualización, capacitación y especialización de las instituciones y corporaciones de seguridad pública y procuración de justicia. Lo anterior, con base a las disposiciones establecidas en la Ley, las políticas establecidas por el Instituto y la Secretaría de Educación Pública y Cultura;
-
-III. Tramitar el registro de los cadetes y/o alumnos que han cumplido con los lineamientos en el proceso de admisión, inscripción, reinscripción, bajas y titulación;
-
-IV. Requerir y verificar la autenticidad de la documentación académica de los aspirantes y alumnos;
-
-V. Registrar las revalidaciones y equivalencia de estudios de los cadetes y/o alumnos con base en los documentos emitidos por la Dirección Académica;
-
-VI. Registrar las calificaciones correspondientes en la base de datos de control escolar;
-
-VII. Elaborar a los interesados las constancias, kárdex, certificados y diplomas con base a la información y documentos existentes en el archivo del registro escolar de acuerdo normatividad vigente;
-
-VIII. Refrendar constancias, diplomas académicos, reconocimientos, certificados y títulos de estudios expedidos por el Director General;
-
-IX. Tramitar a los egresados del Instituto, la expedición de cédulas profesionales ante la Dirección General de Profesiones de la Secretaría de Educación Pública;
-
-X. Asegurar la integridad de los documentos, archivos y bases de datos de la Dirección de Servicios Escolares;
-
-XI. Promover, coordinar y gestionar becas para los cadetes y estudiantes;
-
-XII. Aplicar la normatividad relativa a los procesos de reclutamiento y selección de aspirantes a ingresar a los distintos programas académicos, de licenciatura y posgrado, así como de los programas de formación inicial, actualización, capacitación y especialización de las instituciones de seguridad pública;
-
-XIII. Establecer un control de los servicios médicos y odontológicos prestados a los cadetes, estudiantes y personal del instituto;
-
-XIV. Aplicar las entrevistas psicológicas y asesorías a los aspirantes, alumnos y elementos activos de las Instituciones de Seguridad Pública;
-
-XV. Dar seguimiento a las actividades y ubicación de los egresados del instituto;
-
-XVI. Informar de manera periódica al Director General sobre el desempeño escolar de cadetes, alumnos y elementos activos;
-
-XVII. Sistematizar la estadística escolar y elaborar diagnósticos como producto de la evaluación psicológica aplicada;
-
-XVIII. Establecer medidas que permitan dar un seguimiento eficiente a la convivencia, disciplina, problemas y necesidades de cadetes y alumnos, así como dar seguimiento a su entorno socioeconómico; y,
-
-XIX. Las demás que le señalen las leyes, reglamentos y demás disposiciones aplicables a que expresamente le encomiende el Director General.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 65.
 
-Para el despacho de los asuntos de su competencia, el Director de Servicios Generales se auxiliará de las siguientes áreas administrativas:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
-I. Departamento de Control Escolar y Servicio Social;
-
-II. Departamento de Trabajo Social;
-
-III. Departamento de Psicología; y,
-
-IV. Departamento de Reclutamiento y Selección.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)</small>
 
 #### Sección III. De la Dirección Administrativa
 
 ###### Artículo 66.
 
-Al frente de la Dirección Administrativa habrá un Titular al que se le denominará Director Administrativo, quien además de las facultades genéricas de los directores, tendrán las atribuciones siguientes:
-
-I. Aplicar y difundir las políticas y procedimientos para la administración de los recursos humanos, materiales, financieros y de servicios, que establezca la normatividad en la materia, así como las directrices definidas por el Director General del Instituto;
-
-II. Coordinar la integración, control y ejecución del presupuesto anual de ingresos y egresos del Instituto, con base en la normatividad establecida;
-
-III. Formular y gestionar el presupuesto del Instituto e informar del avance del gasto mensual a las dependencias correspondientes;
-
-IV. Coadyuvar en el desarrollo de las acciones de optimización y eficiencia administrativa a través de la integración y actualización de los programas institucionales y financieros a cargo del Instituto;
-
-V. Establecer y evaluar los programas y lineamientos en materia de adquisiciones de recursos materiales y servicios generales, almacenamiento y enajenación de bienes de conformidad con la normatividad vigente;
-
-VI. Elaborar, controlar y mantener permanentemente actualizado el inventario de los recursos materiales del Instituto;
-
-VII. Planear y dar seguimiento a las gestiones sobre aportaciones federales, estatales y demás que generen ingresos para el Instituto;
-
-VIII. Administrar y contralar los recursos humanos, financieros y materiales en coordinación con las demás unidades y áreas administrativas del Instituto;
-
-IX. Aplicar las políticas y programas sobre selección, contratación, evaluación, remuneración y capacitación del personal del Instituto, en base a los lineamientos que se den en materia de administración y desarrollo de recursos humanos;
-
-X. Llevar el control de las órdenes de pago de las cuotas, tarifas, cuotas de recuperación u otros conceptos aplicables a los cadetes, elementos activos de las instituciones de Seguridad Pública y demás alumnos del Instituto, por los servicios que presta dicha institución;
-
-XI. Tramitar licencias, permisos, nómina, vacaciones, viáticos y demás trámites de carácter administrativo del personal que labora para el Instituto;
-
-XII. Proveer uniformes y equipo que garantice la seguridad del personal y el adecuado desempeño de las labores propias del Instituto; además de coordinar y vigilar las estrategias y procedimientos orientados a la prevención de riesgos y accidentes de trabajo;
-
-XIII. Administrar la operación de los almacenes de mobiliario, equipo y material de consumo;
-
-XIV. Proponer los lineamientos generales para la regulación de los ingresos propios;
-
-XV. Intervenir de manera conjunta con los servidores públicos competentes del Secretariado Ejecutivo y en su caso, con Gobierno del Estado, en las licitaciones y procedimientos para la contratación de obras y servicios, en la venta de bienes y desechos sin utilidad para el Instituto, esto, con sujeción en la normatividad vigente.
-
-XVI. Integrar y controlar el ejercicio presupuestal del gasto corriente de cada uno de los programas y subprogramas;
-
-XVII. Apoyar al Director General en las gestiones que efectué para obtener apoyos financieros para el Instituto;
-
-XVIII. Apoyar a las distintas áreas administrativas del Instituto, en materia de planeación, evaluación y control de los programas que son de su competencia;
-
-XIX. Dar seguimiento a los convenios y compromisos contraídos dentro del marco de su competencia;
-
-XX. Emitir opinión sobre la adquisición y mantenimiento de equipo y sistemas de cómputo para el Instituto, así como respecto de la ampliación y modernización de su red informática;
-
-XXI. Realizar los servicios de mantenimiento preventivo y correctivo a los equipos de cómputo, de acuerdo a la frecuencia y a las normas técnicas establecidas; y,
-
-XXII. Las demás que le señalen las leyes, reglamentos y demás disposiciones aplicables o que expresamente le encomiende el Director General del Instituto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 67.
 
-Para el despacho de los asuntos de su competencia, el Director Administrativo se auxiliará de las siguientes áreas administrativas:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
-I. Departamento de Recursos Humanos y Financieros; y,
-
-II. Departamento de Recursos Materiales y Servicios Generales.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)</small>
 
 #### Sección IV. De la Comandancia del Cuerpo de Cadetes
 
 ###### Artículo 68.
 
-Al frente de la Comandancia del Cuerpo de Cadetes, habrá un Titular al que se le denominará Comandante de Cadetes, quien además de las facultades genéricas señaladas en el artículo 14 del presente Reglamento, tendrán las atribuciones siguientes:
-
-I. Planear, organizar, dirigir y controlar las labores a desarrollar en la ejecución del Reglamento Disciplinario del Instituto;
-
-II. Aplicar el reglamento de normas disciplinarias a los cadetes, alumnos y elementos activos que se encuentren cursando programas a estudios superiores en el instituto;
-
-III. Desarrollar, coordinar y dar a conocer programas de atención a los cadetes, alumnos y elementos activos que se encuentren cursando en el Instituto, en aspectos de disciplina, instrucción y formación policial, servicios sociales y médicos;
-
-IV. Planear, organizar, dirigir y controlar las labores a desarrollar por quienes estén realizando cursos o estudios en el Instituto en el aspecto formativo institucional y de servicio;
-
-V. Elaborar el rol de guardias con los cadetes que se encuentren cursando en el Instituto, conforme a las directrices señaladas por el Director General del instituto;
-
-VI. Atender las visitas que efectúen al Instituto, los miembros de organismos e instituciones públicas a privadas con los que se tenga relación oficial, de conformidad con las indicaciones giradas por el Director General;
-
-VII. Organizar y dirigir los operativos relacionados con el desarrollo de eventos cívicos y servicios sociales a la comunidad;
-
-VIII. Fungir como responsable del aspecto ceremonial de todos los actos internos y externos en los que participe el Instituto;
-
-IX. Mantener la seguridad de las instalaciones y bienes del Instituto;
-
-X. Rendir al Director General del Instituto, el parte de novedades sobre el comportamiento y disciplina de los cadetes y alumnos; y,
-
-XI. las demás que le señalen las leyes, reglamentos y demás disposiciones aplicables a que expresamente le encomiende el Director General del Instituto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 69.
 
-Para el despacho de los asuntos de su competencia, el Comandante de Cadetes se auxiliará de las siguientes áreas administrativas:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
-I. Departamento de Supervisión Disciplinaria; y,
-
-II. Departamento de Instrucción Policial.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)</small>
 
 ### Capítulo Tercero. De los Órganos Consultivo y Apoyo del Instituto
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)</small>
 
 #### Sección I. Del Consejo Académico
 
 ###### Artículo 70.
 
-El Consejo Académico es el órgano consultivo docente encargado de asesorar, analizar, deliberar, promover y aprobar sistemas, mecanismos, programas, proyectos y acciones que contribuyan al desarrollo del modelo académico institucional y al Plan de Desarrollo del Instituto, para lo cual tendrá las siguientes atribuciones:
-
-I. Aprobar previa análisis y dictamen respectivo, la propuesta que efectué el Director General sobre la creación, modificación a supresión de los planes y programas de estudio y los mecanismos de evaluación que se formulen para todos los niveles de enseñanza e investigación técnica, científica y humanística a cargo del Instituto;
-
-II. Analizar a propuesta del Director General, el calendario escolar;
-
-III. Determinar las Unidades, Divisiones y Departamentos Académicos que proponga el Director General;
-
-IV. Aprobar a propuesta del Director General, los programas de créditos-becas educativos para cadetes, estudiantes y docentes;
-
-V. Aprobar en su caso, las extensiones del Instituto que se requieran en el Estado;
-
-VI. Analizar las propuestas que se realicen sobre anteproyectos de iniciativas, reformas a adiciones a reglamentos y demás disposiciones que deban regir la organización y funcionamiento académico y administrativo del Instituto;
-
-VII. Resolver los asuntos que no se encuentren expresamente encomendados a otros órganos y que por su trascendencia y generalidad incidan en la existencia o afecten el funcionamiento del Instituto; y,
-
-VIII. Las demás que le señalen otras disposiciones reglamentarias del Instituto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 71.
 
-El Consejo Académico estará integrado por:
-
-I. El Director General del Instituto, quien será su Presidente;
-
-II. Un representante del Secretariado Ejecutivo;
-
-III. Los Directores Académico y de Servicios Generales del Instituto, el Comandante de Cadetes y el Director de Control Interno y Asuntos Jurídicos, quien fungirá como Secretario Técnico; y,
-
-IV. Un representante del Personal Docente, uno de los alumnos de formación, uno de media a media superior, uno por Licenciaturas y uno de Posgrado.
-
-Todos los integrantes antes señalados tendrán voz y voto en los asuntos que se traten al seno del Consejo Académico y sus acuerdos, sean válidos con la aprobación de la mayoría simple de los consejeros presentes.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 72.
 
-Para ser miembro del Consejo Académico, se requerirá ser mexicano por nacimiento, poseer título a nivel de licenciatura y ser mayor de veinticinco años de edad. Los dos últimos requisitos no sean exigibles si se trata de alumnos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 73.
 
-Los representantes del personal académico y de los alumnos ante el Consejo Académico durarán en su cargo dos años y no podrán ser reelectos para el periodo inmediato. En el caso de cadetes de Formación inicial, su periodo será de un año.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ###### Artículo 74.
 
-Para el adecuado ejercicio de sus atribuciones el Consejo Académico deberá sesionar periódicamente, en forma ordinaria o extraordinaria. Podrá integrar comisiones de carácter transitorio o permanente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
-Las sesiones ordinarias deberán verificarse cuando menos una vez cada trimestre lectivo, pudiendo convocarse a sesión extraordinaria cuando así lo considere necesario.
-
-El Consejo Académico sesionará en pleno cuando sea convocado por el Director General en su calidad de Presidente, no requerirá de quórum especial y los asuntos de su competencia se decidirán por mayoría de sus integrantes que se encuentren presentes.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)</small>
 
 #### Sección II. Del Consejo de Honor y Justicia
 
 ###### Artículo 75.
 
-Para la aplicación de las sanciones que amerite algún cadete, alumno o elemento activo, se constituirá el Consejo de Honor y Justicia del instituto, el cual estará integrado por las siguientes autoridades:
-
-I. El Director General del Instituto, quien lo presidirá;
-
-II. El Director Académico;
-
-III. El Director de Servicios Generales;
-
-IV. El Comandante de Cadetes;
-
-V. El Director de Control Interno y Asuntos Jurídicos, quien fungirá como Secretario Técnico; y,
-
-VI. El Jefe de Grupo de donde dependa el elemento sancionado.
-
-Los integrantes antes señalados tendrán voz y voto en cada una de las deliberaciones que se presenten al seno de las sesiones de dicho Consejo.
-
-Para la determinación de las sanciones a los cadetes y alumnos, se atenderá lo dispuesto en el reglamento de normas disciplinarias del Instituto que para tal efecto expida el Ejecutivo del Estado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA, P.O. 31 DE JULIO DE 2013)
 
 ## Título Sexto. De la suplencia de los servidores públicos del Secretariado Ejecutivo
 
@@ -1630,3 +1324,21 @@ Lic. Pedro Rafael Estrella Robles.
 El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública
 
 Lic. Hermann Leuffer Mendoza
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE JULIO DE 2013.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. Se deroga el Apartado Quinto del Título Quinto del Reglamento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, publicado en el Periódico Oficial "El Estado de Sinaloa", número 106, el día Viernes 03 de Septiembre de 2010, así como todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido en el presente Reglamento.
+
+Artículo Tercero. La Junta de Gobierno procederá a la creación y actualización de la normativa necesaria, así como de la abrogación, en su caso, de los reglamentos vigentes, dentro del plazo de un año contado a partir de la fecha de entrada en vigor del presente Reglamento.
+
+Artículo Cuarto. De conformidad con lo dispuesto en el artículo tercero transitorio de la Ley Orgánica de la Administración Pública del Estado de Sinaloa, la Secretaría de Administración y Finanzas de Gobierno del Estado y en su caso el Secretariado Ejecutivo, deberán de llevar a cabo el proceso de entrega recepción al Instituto en su carácter de Organismo Público Descentralizado, en un plazo de 60 días a partir de la publicación del presente reglamento, los asuntos a su cargo, así como los recursos humanos, materiales, financieros, tecnológicos y archivos con los que cuenten y que están adscritos o aplicados a las áreas o unidades específicas del mismo y que correspondan al Instituto, hasta antes de entrar en vigor el presente Reglamento.
+
+Artículo Quinto. El Instituto en su carácter de patrón sustituto, reconocerá y respetará los derechos laborales del personal administrativo que le sea transferido, el cual se regirá por las disposiciones establecidas en su caso por la Ley de los Trabajadores al Servicio del Estado de Sinaloa, en la Ley de Pensiones del Estado de Sinaloa, en la Ley de Seguridad y de manera supletoria en la Ley Federal del Trabajo y demás normativa que rijan las relaciones laborales de los trabajadores con el Gobierno del Estado de Sinaloa.
+
+Artículo Sexto.- De conformidad con el artículo cuarto transitorio de la Ley Orgánica de la Administración Pública del Estado de Sinaloa, los asuntos que con motivo de este Reglamento deban pasar de una dependencia al Instituto, permanecerán en el último trámite que hubieren alcanzado hasta que las áreas o unidades administrativas responsables de la tramitación de los mismos, se incorporen a dicho Instituto, a excepción de los trámites urgentes, o sujetos a plazos improrrogables que continuarán ante la misma área o unidad administrativa en que estuvieren radicados.
+
+Artículo Séptimo. Los policías activos a la fecha de la iniciación de la vigencia del presente Reglamento y que no tengan estudios policiales obligatorios aquí establecidos, deberán de cursarlos en el Instituto para permanecer en servicio.
