@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-organo-de-fiscalizacion-superior-80325"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-07"
-last_updated: "2011-03-07"
+last_updated: "2013-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE PUEBLA
 
-REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE PUEBLA
+REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO SERÁ ABROGADO A PARTIR DEL DÍA DIECISIETE DE SEPTIEMBRE DE DOS MIL TRECE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 7 de marzo de 2011.
 
@@ -960,3 +962,25 @@ QUINTO.- Por lo que hace a los Auditores Especiales que se encuentren en funcion
 SEXTO.- Los Servidores Públicos que a la entrada en vigor del presente Reglamento se encuentren en funciones de un empleo, cargo o comisión, conforme a un nombramiento expedido con anterioridad, continuarán ejerciéndolo hasta en tanto el Auditor General emita los nombramientos que conforme a este ordenamiento correspondan.
 
 Dado en la sede oficial del Órgano de Fiscalización Superior del Estado de Puebla, en la Heroica Puebla de Zaragoza, a los veinticinco días del mes de febrero del año dos mil once.- El Auditor General del Órgano de Fiscalización Superior del Estado de Puebla.- CONTADOR PÚBLICO CERTIFICADO VÍCTOR MANUEL HERNÁNDEZ QUINTANA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE JULIO DE 2013.
+
+PRIMERO.- El presente Acuerdo por el que se expide el Reglamento Interior de la Auditoría Superior del Estado de Puebla, deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día diecisiete de septiembre de dos mil trece.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Órgano de Fiscalización Superior del Estado de Puebla, emitido mediante Acuerdo publicado en el Periódico Oficial del Estado con fecha siete de marzo de dos mil once.
+
+TERCERO.- Se ratifica el contenido de los acuerdos, contratos, convenios, circulares, guías, manuales, lineamientos, bases, así como demás normatividad y disposiciones administrativas que a la entrada en vigor del presente Acuerdo, hubieren emitido o suscrito las autoridades competentes del Órgano de Fiscalización Superior del Estado de Puebla y de la Auditoría Superior del Estado de Puebla, hasta en tanto se sustituyan, concluyan su vigencia o se dejen sin efectos.
+
+CUARTO.- Los asuntos que hubiesen iniciado su trámite con anterioridad a la entrada en vigor del presente Acuerdo, serán competencia de la unidad administrativa de la Auditoría Superior del Estado de Puebla, a la que le sean conferidas las facultades que correspondan conforme a este Reglamento.
+
+QUINTO.- Las menciones que en las leyes, reglamentos y demás disposiciones jurídicas o administrativas, se hagan del Reglamento Interior del Órgano de Fiscalización Superior del Estado de Puebla, se entenderán referidas al Reglamento Interior de la Auditoría Superior del Estado de Puebla.
+
+SEXTO.- Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Acuerdo se refiera a unidades administrativas que desaparecen o modifican su denominación, se entenderá atribuida a las unidades administrativas a que se refiere el Reglamento Interior de la Auditoría Superior del Estado de Puebla y a las que atribuya la competencia específica que en cada caso se relacione.
+
+SÉPTIMO.- Los titulares de las unidades administrativas de la Auditoría Superior del Estado de Puebla, que a la entrada en vigor del presente Acuerdo se encuentren en funciones, continuarán ejerciendo su cargo, hasta en tanto el Auditor Superior del Estado de Puebla emita los nombramientos que conforme a este ordenamiento correspondan y sus actuaciones tendrán plena validez.
+
+OCTAVO.- Las unidades administrativas de la Auditoría Superior del Estado de Puebla, en tanto realizan las modificaciones conducentes a los sellos, formatos, papelería y demás documentación oficial que utilizan para el desarrollo de sus funciones, continuarán utilizando aquélla con que cuenten a la entrada en vigor del presente Acuerdo.
+
+NOVENO.- Se dejan sin efecto las disposiciones que se opongan al presente Acuerdo.
