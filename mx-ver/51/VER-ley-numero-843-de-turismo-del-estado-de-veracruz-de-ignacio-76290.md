@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2013-07-29"
+last_updated: "2013-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2013.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -41,9 +41,11 @@ Ley número 843 de Turismo del Estado de Veracruz de Ignacio de la Llave.
 
 ### CAPÍTULO I. Ámbito de aplicación
 
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2013)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y observancia general en el Estado de Veracruz de Ignacio de la Llave en materia de turismo, y su aplicación corresponde al titular del Ejecutivo, por conducto de la Secretaría de Turismo, Cultura y Cinematografía, y a los Ayuntamientos.
+La presente Ley es de orden público, interés social y observancia general en el Estado de Veracruz de Ignacio de la Llave en materia de turismo, y su aplicación corresponde al titular del Ejecutivo, por conducto de la Secretaría de Turismo y Cultura, y a los Ayuntamientos.
 
 ###### Artículo 2.
 
@@ -141,9 +143,13 @@ XXVI. Registro Nacional de Turismo: El catálogo público de prestadores de serv
 
 XXVII. Ruta turística: El circuito temático o geográfico basado en el patrimonio natural o cultural de una zona, que es promocionado como un producto turístico;
 
-XXVIII. Reglamento Interior: El Reglamento Interior de la Secretaría de Turismo, Cultura y Cinematografía;
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
 
-XXIX. Secretaría: La Secretaría de Turismo, Cultura y Cinematografía del Estado de Veracruz de Ignacio de la Llave;
+XXVIII. Reglamento Interior: El Reglamento Interior de la Secretaría de Turismo y Cultura;
+
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
+
+XXIX. Secretaría: La Secretaría de Turismo y Cultura del Estado de Veracruz de Ignacio de la Llave;
 
 XXX. Secretaría Federal: La Secretaría de Turismo del Gobierno Federal;
 
@@ -323,7 +329,9 @@ La Comisión se integrará de la manera siguiente:
 
 I. El Gobernador del Estado, quien la presidirá;
 
-II. El Secretario de Turismo, Cultura y Cinematografía, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
+
+II. El Secretario de Turismo y Cultura, quien fungirá como Secretario Técnico;
 
 III. El Secretario de Finanzas y Planeación;
 
@@ -395,7 +403,9 @@ El Consejo estará integrado de la manera siguiente:
 
 I. El Gobernador del Estado, quien lo presidirá;
 
-II. El Secretario de Turismo, Cultura y Cinematografía;
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
+
+II. El Secretario de Turismo y Cultura;
 
 III. Quien presida la Comisión Permanente de Turismo del Congreso del Estado;
 
@@ -1290,3 +1300,9 @@ G.O. 29 DE JULIO DE 2013.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 31 DE JULIO DE 2013.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
