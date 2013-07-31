@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg58-2013-del-consejo-general-del-instituto-federal-931
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-03-19"
-last_updated: "2013-03-19"
+last_updated: "2013-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93162&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-20"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE ESTABLECE LA INTEGRACIÓN PROVISIONAL DE SUS COMISIONES PERMANENTES Y DEL ÓRGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 19 de marzo de 2013.
 
@@ -149,13 +149,13 @@ Primero.- Se establece la integración provisional de las Comisiones Permanentes
 
 Comisiones Permanentes:
 
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2013)</small>
+
 A) Comisión de Capacitación Electoral y Educación Cívica
 
-Dra. María Macarita Elizondo Gasperín Presidente
+Dra. María Macarita Elizondo Gasperín. Presidente
 
-Mtro. Marco Antonio Baños Martínez Integrante
-
-Mtro. Alfredo Figueroa Fernandez Integrante
+Mtro. Alfredo Figueroa Fernández. Integrante
 
 Representantes del Poder Legislativo
 
@@ -189,11 +189,15 @@ Movimiento Ciudadano
 
 Partido Nueva Alianza
 
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2013)</small>
+
 B) Comisión de Organización Electoral
 
-Dr. María Marván Laborde Presidenta
+Dr. María Marván Laborde. Presidenta
 
-Dr. Francisco Javier Guerrero Aguirre Integrante
+Dr. Francisco Javier Guerrero Aguirre. Integrante
+
+Mtro. Marco Antonio Baños Martínez. Integrante
 
 Representantes del Poder Legislativo
 
@@ -428,3 +432,11 @@ Tercero.- Se ordena al Secretario del Consejo realizar las gestiones necesarias 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 20 de febrero de dos mil trece, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctor Lorenzo Córdova Vianello, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Francisco Javier Guerrero Aguirre, Doctora María Marván Laborde, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 31 DE JULIO DE 2013.
+
+Primero.- Este Acuerdo surtirá efectos a partir de su aprobación por el Consejo General del Instituto Federal Electoral.
+
+Segundo.- Se ordena al Secretario del Consejo realizar las gestiones necesarias a efecto de publicar el presente Acuerdo en el Diario Oficial de la Federación.
