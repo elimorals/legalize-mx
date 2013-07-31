@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-ecologia-para-el-municipio-de-pesqueria-nuevo-417
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-05-28"
-last_updated: "1993-05-28"
+last_updated: "2013-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ECOLOGIA PARA EL MUNICIPIO DE PESQUERIA, NUEVO LEON
 
-REGLAMENTO DE ECOLOGIA PARA EL MUNICIPIO DE PESQUERIA, NUEVO LEON
+REGLAMENTO DE ECOLOGÍA PARA EL MUNICIPIO DE PESQUERÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y EL DESARROLLO SUSTENTABLE DEL MUNICIPIO DE PESQUERÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 28 de mayo de 1993.
 
@@ -528,3 +530,15 @@ C. Rogelio González Guajardo
 C. SECRETARIO DEL AYUNTAMIENTO
 
 Lic. Jesús M. Lizárraga Lozano
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE JULIO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento publicado en el Periódico Oficial en fecha 28 de mayo de 1993.
