@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-21358"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-30"
-last_updated: "2013-07-17"
+last_updated: "2013-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 30 de abril de 2001.
 
@@ -129,11 +129,17 @@ XII. Fomentará la integración e interacción de los diferentes grupos que form
 
 XIII. Procurará que los maestros y educandos, con el apoyo de los padres de familia, participen, práctica y activamente, en el desarrollo económico, social y cultural de sus comunidades; y (sic)
 
-> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
 
-XIV. Fomentará además los valores de respeto, libertad, solidaridad, tolerancia, equidad y la no discriminación con el propósito de que los estudiantes se desenvuelvan en forma responsable y honesta, permitiéndoles enfrentar retos y adversidades con una visión del futuro de sí mismos y de la sociedad; y
+XIV. Fomentará además los valores de respeto, libertad, solidaridad, tolerancia, equidad y la no discriminación con el propósito de que los estudiantes se desenvuelvan en forma responsable y honesta, permitiéndoles enfrentar retos y adversidades con una visión del futuro de sí mismos y de la sociedad;
 
-XV. Fomentará actitudes positivas hacia el trabajo productivo, el amor a la familia, el ahorro y el bienestar general.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
+
+XV. Fomentará actitudes positivas hacia el trabajo productivo, el amor a la familia, el ahorro y el bienestar general; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2013)</small>
+
+XVI. Promoverá acciones de sensibilización y divulgación de información sobre el uso responsable y seguro de Internet y las redes sociales digitales.
 
 ###### ARTÍCULO 10.
 
@@ -1254,3 +1260,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Dentro del plazo de 120 días posteriores a la publicación del presente Decreto, el Poder Ejecutivo del Estado deberá realizar las modificaciones reglamentarias y las reasignaciones presupuestarias necesarias para la debida observancia del presente Decreto.
+
+P.O. 31 DE JULIO DE 2013.
+
+Artículo Único. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
