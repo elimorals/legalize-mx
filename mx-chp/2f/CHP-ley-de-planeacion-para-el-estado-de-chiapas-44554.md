@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-planeacion-para-el-estado-de-chiapas-44554"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-17"
-last_updated: "2013-05-20"
+last_updated: "2013-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 17 de Marzo de 2005.
 
@@ -71,9 +71,9 @@ I.- Congreso.- Al Congreso del Estado.
 
 II.- Ejecutivo.- Al Titular del Poder Ejecutivo del Estado.
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
 
-III.- Secretaría.- A la Secretaría de Hacienda.
+III. Secretaría: A la Secretaría de Planeación, Gestión Pública y Programa de Gobierno.
 
 IV.- Sistema.- El Sistema Estatal de Planeación Democrática.
 
@@ -99,7 +99,7 @@ XI.- Programa. Al instrumento que establece el orden de acción lógico de proye
 
 > <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-XII.- Proyecto. Al conjunto de obras o acciones que se encuentran interrelacionadas y coordinadas entre sí, a efecto de alcanzar objetivos. específicos dentro de un lapso de tiempo determinado, con un presupuesto establecido. Un conjunto de proyectos conformará un subprograma o programa.
+XII.- Proyecto. Al conjunto de obras o acciones que se encuentran interrelacionadas y coordinadas entre sí, a efecto de alcanzar objetivos específicos dentro de un lapso de tiempo determinado, con un presupuesto establecido. Un conjunto de proyectos conformará un subprograma o programa.
 
 > <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -615,7 +615,7 @@ XIII. Promover y vigilar el debido cumplimiento de la presente ley.
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
 
-XIV. Vigilar que las actividades y funciones de las. dependencias y entidades de la Administración Pública Estatal, se apeguen y cumplan con los objetivos y estrategias establecidos en el Plan Estatal.
+XIV. Vigilar que las actividades y funciones de las dependencias y entidades de la Administración Pública Estatal, se apeguen y cumplan con los objetivos y estrategias establecidos en el Plan Estatal.
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -824,3 +824,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente a su
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- Por única ocasión, los Ayuntamientos del Estado de Chiapas, que iniciaron su administración el pasado 01 de octubre de 2012, como excepción a lo establecido en el artículo 29 de la Ley de Planeación para el Estado de Chiapas, tendrán un plazo de 30 días, posteriores a la fecha en que sea presentado por el Titular del Ejecutivo del Estado, el Plan Estatal de Desarrollo 2012- 2018, para alinear sus políticas públicas con lo establecido en el citado Plan Estatal y en concordancia con los Objetivos de Desarrollo del Milenio de la ONU, y remitir sus respectivos Planes Municipales de Desarrollo, a este Honorable Congreso del Estado para ser examinados y en su caso aprobados.
+
+P.O. 31 DE JULIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Las Dependencias facultadas en la materia, realizarán las adecuaciones correspondientes a la normatividad reglamentaria, en un término no mayor a treinta días contados a partir de la publicación del presente Decreto.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
