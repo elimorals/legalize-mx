@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2013-07-13"
+last_updated: "2013-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -107,9 +107,35 @@ I. El Supremo Tribunal de Justicia;
 
 II. El Tribunal Electoral;
 
-III. Los Jueces de Primera Instancia; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Los Jueces Menores.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+III. Los Juzgados de Primera Instancia:
+
+a) Juzgados Civiles.
+
+b) Juzgados Familiares.
+
+c) Juzgados de Oralidad Mercantil.
+
+d) Juzgados de Justicia para Menores.
+
+e) Juzgados Penales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+f) Juzgados de Control.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+g) Tribunales de Juicio Oral.
+
+h) Juzgados de Ejecución de Sentencia, y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+IV. Los Juzgados Menores.
 
 Los jueces auxiliares apoyarán al Poder judicial cuando así lo requiera y cumplirán las funciones que determina la presente Ley.
 
@@ -349,7 +375,9 @@ VIII. Las demás que les confiera la presente Ley, y las que le sean propias por
 
 Cada Sala, de acuerdo con su competencia, conocerá:
 
-I. De los recursos de apelación que se interpongan en contra de las resoluciones de los jueces de Primera Instancia, y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+l. De los recursos de apelación que se interpongan en contra de las resoluciones de los jueces de Primera Instancia, y de los Jueces Menores, y
 
 II. De los demás asuntos que expresamente les encomiende la ley.
 
@@ -563,7 +591,11 @@ XII. Dictar los acuerdos de trámite, y
 
 XIII. Las demás que señalen las disposiciones aplicables, y las que le encomienden los magistrados en el Pleno.
 
-### CAPITULO VI. De los Juzgados de Primera Instancia
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2013)</small>
+
+### CAPITULO VI. De los Juzgados y Tribunales de Primera Instancia
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
@@ -605,11 +637,13 @@ Las regiones judiciales serán determinadas por el Consejo de la Judicatura y co
 
 Los tribunales o juzgados tendrán jurisdicción en el territorio del Distrito o Región Judicial al que pertenezcan, conforme lo determine el Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 50.
 
-En cada Distrito o Región Judicial habrá el número de Juzgados que determine el Consejo de la Judicatura, los que tendrán competencia para conocer de los asuntos civiles, penales, de lo familiar, de justicia para menores, de ejecución de penas y medidas de seguridad y demás materias en que ejerzan su jurisdicción y se distinguirán por su denominación o número ordinal que les corresponda.
+En cada Distrito o Región Judicial habrá el número de Tribunales y Juzgados que determine el Consejo de la Judicatura, los que tendrán competencia para conocer de los asuntos civiles, mercantiles, penales, de lo familiar, de justicia para menores, de ejecución de penas y medidas de seguridad y demás materias en que ejerzan su jurisdicción, y se distinguirán por su denominación o número ordinal que les corresponda.
+
+Las Regiones Judiciales podrán comprender el ámbito territorial de más de un Distrito Judicial.
 
 ###### ARTICULO 51.
 
@@ -633,9 +667,11 @@ VIII. Asesorar a los jueces menores y jueces auxiliares, y
 
 IX. Las demás que les encomienden las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 52.
 
-Los jueces del Ramo Civil conocerán, tramitarán y resolverán todos los negocios del orden civil, con exclusión de aquellos cuyo conocimiento corresponda específicamente a los jueces de lo familiar y, en su caso, a los jueces menores, así como de aquellos en que la ley expresamente los faculte.
+Los jueces del Ramo Civil conocerán, tramitarán y resolverán todos los negocios del orden civil, con exclusión de aquéllos cuyo conocimiento corresponda específicamente a los jueces de lo familiar y, en su caso, a los jueces menores; así como de los juicios mercantiles cuya competencia y atribuciones que en esta materia les confiere el Código de Comercio y demás leyes relativas en los asuntos que conozcan en jurisdicción concurrente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -703,6 +739,10 @@ VII. Resolver los incidentes que se presenten durante la fase de ejecución, y
 
 VIII. Las demás que se le atribuyen en la Ley de Justicia para Menores del Estado de San Luis Potosí.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 53 QUÁTER. Los jueces de oralidad mercantil conocerán, tramitarán y resolverán los juicios, hasta por el monto que señala el Código de Comercio.
+
 ###### ARTICULO 54.
 
 Los jueces del Ramo Penal conocerán, tramitarán y resolverán los asuntos por delitos comunes que sean de su competencia conforme a la legislación penal del Estado y demás leyes aplicables, así como de asuntos de otro fuero a prevención, cuando así lo dispongan las leyes relativas.
@@ -755,6 +795,114 @@ XXI. Conocer y resolver las peticiones o quejas que los internos formulen en rel
 
 XXII. Las demás que otros ordenamientos le confieran.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 54 TER. Los jueces que operen el sistema penal acusatorio y oral podrán ejercer como:
+
+l. Jueces de Control, y
+
+II. Jueces del tribunal de juicio oral.
+
+Los jueces a que se refiere este artículo, tendrán fe pública en ejercicio de sus funciones.
+
+Los Jueces de Control integrarán los tribunales del juicio oral en asuntos en donde no hayan intervenido previamente.
+
+Los Jueces de Control y del tribunal de juicio oral, durante el desarrollo de las audiencias deberán portar toga, la cual contará con las características que determine el Pleno del Supremo Tribunal de Justicia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 54 QUÁTER. Los Jueces de Control tendrán las siguientes atribuciones:
+
+I. Resolver sobre la aplicación, modificación, sustitución o cancelación de las medidas cautelares de carácter real o personal que les sean solicitados por quien esté legitimado para ello;
+
+II. Presidir la audiencia de vinculación a proceso, la de apertura del juicio oral, y emitir las decisiones que en ellas corresponda; así como celebrar cualquier otra audiencia que legalmente les sea solicitada y asumir las decisiones atinentes al caso;
+
+III. Conocer del control de la detención;
+
+IV. Procurar la solución del conflicto a través de medios alternos, conforme a lo dispuesto en la ley;
+
+V. Validar las resoluciones emitidas en justicia restaurativa conforme al sistema normativo de pueblos o comunidades indígenas;
+
+VI. Instruir, sustanciar, y decidir el procedimiento abreviado;
+
+VII. Vigilar que se respeten los derechos humanos del imputado, y de la víctima u ofendido;
+
+VIII. Ordenar la aprehensión, cuando preceda denuncia, acusación, o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido este hecho y que exista la probabilidad de que el imputado lo cometió o participó en su comisión. Así como la citación, o la comparecencia del imputado en los casos que la ley señale;
+
+IX. Resolver en audiencia pública lo conducente a la impugnación que la víctima o el ofendido realicen ante las determinaciones del Ministerio Público y, en su caso, del Procurador General de Justicia, al resolver acerca de la abstención de investigar, archivo temporal, no ejercicio de la acción penal o, en su caso, criterios de oportunidad;
+
+X. Conceder las técnicas de la investigación que requieren autorización judicial, y
+
+XI. Las demás que le asignen las leyes o reglamentos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 54 QUINQUE. El Tribunal de Juicio Oral estará conformado por tres jueces, y tendrá las siguientes atribuciones:
+
+I. Integrar el tribunal del juicio oral, asumiendo las funciones que les otorgue la ley;
+
+II. Desahogar la audiencia del juicio oral desde el momento en que se declare legalmente instalado el tribunal, hasta la lectura integral de sentencia;
+
+III. Intervenir en las deliberaciones para determinar si se considera o no probada la culpabilidad del inculpado y, en su caso, la determinación de la sanción aplicable;
+
+IV. Emitir su voto respecto al sentido de la sentencia, la naturaleza y magnitud de la punición;
+
+V. Estar presentes en la audiencia en la que sean leídos los puntos resolutivos de la sentencia, y dicha resolución sea explicada por el presidente del tribunal del juicio oral;
+
+VI. Ejercer el poder de disciplina, cuidar que se mantenga el buen orden, exigir que se guarde respeto y consideraciones debidas a ellos y a los demás intervinientes de la audiencia, corrigiendo en el acto las faltas que se cometieren;
+
+VII. Fijar las sanciones penales con base en las disposiciones que la ley señale, y
+
+VIII. Las demás que le asignen las leyes o reglamentos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 54 SEXTIES. Son atribuciones del presidente del tribunal de juicio oral:
+
+I. Radicar el asunto y decretar la fecha para la celebración de la audiencia del debate dentro del plazo legal, e informar la integración del tribunal;
+
+II. Ordenar la citación oportuna de las partes e intervinientes a la audiencia de debate;
+
+III. Verificar la presencia de los demás jueces, de las partes, de los testigos, peritos o intérpretes que deban participar en el debate y de la existencia de las cosas y documentos que deban exhibirse en éste;
+
+IV. Declarar abierta la audiencia de debate advirtiendo al inculpado y al público, sobre la importancia del significado de lo que en ella va a ocurrir;
+
+V. Presidir el debate en todo su desarrollo y, en su caso, decretar los recesos que correspondan;
+
+VI. Decretar los aplazamientos diarios de la audiencia del juicio oral, indicando la hora en que continuará el debate;
+
+VII. Emitir de manera verbal, fundada y motivada las decisiones indispensables para el correcto desahogo de la audiencia de debate;
+
+VIII. Dirigir el debate y ordenar las lecturas pertinentes, hacer las advertencias que correspondan, exigir las ratificaciones solemnes, y moderar la discusión en audiencia de debate;
+
+IX. Ordenar la suspensión de la audiencia de debate cuando las circunstancias así lo justifiquen;
+
+X. Presidir la deliberación;
+
+XI. Aplicar los medios de apremio autorizados por la ley;
+
+XII. Explicar la sentencia en la audiencia respectiva;
+
+XIII. Instruir los recursos que se promuevan en contra de la sentencia pronunciada en la audiencia del juicio oral, y
+
+XIV. Las demás que le asignen las leyes o reglamentos.
+
+Los Jueces de Control, y del Tribunal de Juicio Oral, además de las atribuciones ya establecidas en los artículos anteriores, tendrán las señaladas para los jueces del Ramo Penal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 54 SEPTIES. Los jueces de control, y del tribunal de juicio oral, ejercerán competencia territorial en cada uno de los distritos o regiones judiciales del Estado.
+
 ###### ARTICULO 55.
 
 Los juzgados mixtos de Primera Instancia serán competentes para conocer, tramitar y resolver los asuntos a que se refieren los artículos 52, 53 y 54 de esta Ley.
@@ -765,9 +913,15 @@ Los juzgados mixtos de Primera Instancia serán competentes para conocer, tramit
 
 En los diversos distritos o regiones judiciales en donde haya varios juzgados de Primera Instancia o de ejecución de sentencias, el turno de los asuntos se hará en la forma que determine el Consejo de la Judicatura.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+Tratándose de los Juzgados de Control y de Juicio Oral Penal y Mercantil se estará a lo dispuesto en esta Ley.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 57.
 
-En cada juzgado habrá un Juez, así como el número de secretarios, actuarios y empleados que determine el Consejo de la Judicatura, de acuerdo al presupuesto.
+En cada juzgado habrá un Juez, así como el número de secretarios, actuarios y empleados que se requieran y determine el Consejo de la Judicatura.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
@@ -864,6 +1018,22 @@ V. Las demás que determine la ley.
 ###### ARTICULO 70.
 
 Las faltas absolutas o temporales de los jueces auxiliares, se cubrirán por los suplentes respectivos en el orden de su nombramiento. Las dudas que sobre este punto se susciten serán resueltas por el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 70 BIS. La administración de los juzgados que operen sistemas que lo requieran, estarán a cargo de un Administrador Judicial del Sistema de Gestión, cuya función esencial será, planificar, organizar, implementar, controlar y dirigir un equipo multidisciplinario de gestión que permita desarrollar con efectividad en todo el territorio del Estado, el sistema de justicia de que se trate; el cual tendrá las siguientes atribuciones:
+
+I. Ejecutar las acciones necesarias para la implementación del sistema de gestión en apoyo al servicio de impartición de justicia, bajo los lineamientos autorizados por el Consejo de la Judicatura;
+
+II. Dirigir los trabajos y supervisar el desempeño del personal de apoyo;
+
+III. Vigilar la correcta y eficiente aplicación de los recursos asignados al sistema de gestión, y
+
+IV. Las demás que le asignen las leyes o reglamentos.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 70 TER. Para cumplir sus funciones, el Administrador Judicial del Sistema de Gestión contará con el personal de apoyo que el Consejo de la Judicatura le asigne, atendiendo a las necesidades del servicio.
 
 ### CAPITULO IX. De los Secretarios, Subsecretarios, Actuarios y Empleados Judiciales
 
@@ -1211,9 +1381,19 @@ XLII. Establecer el reglamento necesario para el ingreso, estímulos, reconocimi
 
 XLIII. Dictar los acuerdos generales para regular el turno de los asuntos de la competencia de los juzgados de Primera Instancia o de los juzgados menores, cuando en un mismo lugar haya varios de ellos;
 
-XLIV. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados, y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-XLV. Las demás que le confiera la ley.
+XLIV. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+XLV. Determinar, por necesidades de la función jurisdiccional, los distritos o regiones geográficas en que deban ejercer sus funciones, y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+XLVI. Las demás que le confiera la ley.
 
 ###### ARTICULO 95.
 
@@ -1249,9 +1429,11 @@ X. Las demás que determinen las leyes y los correspondientes reglamentos y acue
 
 ### CAPITULO V. De los Organos Auxiliares
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 97.
 
-Para su adecuado funcionamiento, el Consejo de la Judicatura contará con los siguientes órganos auxiliares: el Instituto de Estudios Judiciales; la Visitaduría Judicial; la Contraloría del Poder Judicial del Estado; la Dirección Jurídica; y la Unidad de Estadística y Seguimiento.
+Para su adecuado funcionamiento, el Consejo de la Judicatura contará con los siguientes órganos auxiliares: el Instituto de Estudios Judiciales; la Visitaduría Judicial; la Contraloría del Poder Judicial del Estado; la Dirección Jurídica, la Unidad de Estadística y Seguimiento; y el Centro Estatal de Mediación y Conciliación.
 
 ###### ARTICULO 98.
 
@@ -1591,11 +1773,21 @@ El Poder Judicial contará con una Gaceta que publicará por lo menos en forma t
 
 El personal de la Gaceta Judicial será designado por el Consejo de la Judicatura, a propuesta del Presidente del mismo, y dependerá de la Coordinación de Compilación y Sistematización de Tesis.
 
-### CAPITULO I. Del Ingreso y Promoción
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO X. Del Centro Estatal de Mediación y Conciliación
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 146 BIS. El Centro Estatal de Mediación y Conciliación es un órgano del Poder Judicial del Estado, encargado de la administración, vigilancia, desarrollo, capacitación y promoción de los procedimientos de mediación y conciliación, así como de la certificación, autorización de la creación y vigilancia de los Centros Públicos y Privados en el Estado, conforme a la Ley de Mediación y a su reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 148 TER. Al Centro Estatal de Mediación y Conciliación corresponde la aplicación de la mediación y la conciliación, como formas de solución de controversias en sede judicial, y contará con el personal de apoyo que determine el Consejo de la Judicatura.
 
 ## TITULO QUINTO. DE LA CARRERA JUDICIAL
 
-### CAPITULO II. De la Adscripción y Ratificación
+### CAPITULO I. Del Ingreso y Promoción
 
 ###### ARTICULO 147.
 
@@ -1691,7 +1883,7 @@ El Presidente del jurado tendrá voto de calidad en caso de empate.
 
 Los servidores judiciales que hayan obtenido el cargo por oposición, sólo podrán ser removidos por las responsabilidades administrativas y mediante el procedimiento que establece la presente Ley.
 
-### CAPITULO III. De las Sustituciones y Ausencias
+### CAPITULO II. De la Adscripción y Ratificación
 
 ###### ARTICULO 154.
 
@@ -1745,7 +1937,7 @@ IV. No haber sido sancionado por falta grave con motivo de una queja de carácte
 
 V. Los demás que estime pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de la ratificación.
 
-### CAPITULO IV. De los Estímulos y Recompensas
+### CAPITULO III. De las Sustituciones y Ausencias
 
 ###### ARTICULO 158.
 
@@ -1775,7 +1967,7 @@ Los consejeros, jueces y demás personal del Poder Judicial tendrán anualmente 
 
 Los periodos vacacionales de los magistrados serán determinados por el Pleno del Supremo Tribunal de Justicia.
 
-### CAPITULO UNICO
+### CAPITULO IV. De los Estímulos y Recompensas
 
 ###### ARTICULO 163.
 
@@ -1787,7 +1979,7 @@ Para tal efecto, implementará un sistema de indicadores de desempeño y evaluar
 
 ## TITULO SEXTO. DE LA JURISPRUDENCIA LOCAL
 
-### CAPITULO I. De los Sujetos
+### CAPITULO UNICO
 
 ###### ARTICULO 164.
 
@@ -1853,7 +2045,7 @@ Tratándose de la materia electoral, el Tribunal Electoral fijará jurisprudenci
 
 ## TITULO SEPTIMO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
-### CAPITULO II. De las Faltas Administrativas
+### CAPITULO I. De los Sujetos
 
 ###### ARTICULO 175.
 
@@ -1863,7 +2055,7 @@ Son sujetos de responsabilidad administrativa los magistrados, los consejeros, l
 
 La responsabilidad de los delitos o faltas administrativas de los magistrados, consejeros, jueces y demás personal del Poder Judicial, se sujetará a las disposiciones que establezca la Constitución Política y las leyes del Estado.
 
-### CAPITULO III. De las Sanciones Administrativas
+### CAPITULO II. De las Faltas Administrativas
 
 ###### ARTICULO 177.
 
@@ -1917,7 +2109,7 @@ IV. Hacer notificaciones, citaciones o emplazamientos a las partes, por cédula 
 
 V. Practicar embargos, aseguramiento o retención de bienes, o lanzamiento de personas o corporación que no sea la designada en el auto respectivo, o cuando en el momento de la diligencia o antes de retirarse el personal del juzgado, se le demuestre que esos bienes son ajenos; para comprobar tal hecho, en todo caso, deberán agregar a los autos la documentación que se les presente, a efecto de dar cuenta a quien hubiere ordenado la diligencia.
 
-### CAPITULO IV. Del Procedimiento Administrativo
+### CAPITULO III. De las Sanciones Administrativas
 
 ###### ARTICULO 181.
 
@@ -1943,7 +2135,7 @@ c) De tres a diez años, si los daños o perjuicios causados exceden el límite 
 
 Las sanciones administrativas se impondrán tomando en cuenta lo que al efecto prevé, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
-### CAPITULO UNICO
+### CAPITULO IV. Del Procedimiento Administrativo
 
 ###### ARTICULO 183.
 
@@ -2036,6 +2228,8 @@ III. Procurar que los bienes muebles o inmuebles adquiridos con recursos del Fon
 El Secretariado Ejecutivo de Administración someterá a la aprobación del Consejo de la Judicatura, los informes financieros que trimestralmente deben rendirse al Congreso del Estado, y enviará una copia del mismo a la Contraloría del Poder Judicial para su conocimiento.
 
 ## TITULO OCTAVO. DE LA REVISION ADMINISTRATIVA
+
+### CAPITULO UNICO
 
 ###### ARTICULO 195.
 
@@ -2220,3 +2414,11 @@ P.O. 13 DE JULIO DE 2013.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 1 DE AGOSTO DE 2013.
+
+PRIMERO. La parte atinente de este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; excepto lo que· precisa el artículo subsecuente.
+
+SEGUNDO. La Reforma a los artículos, 4° en su fracción III los incisos f) y g), 94 en su fracción XLV; la denominación del capítulo VI del Título Segundo; y la adición de los artículos, 54 Ter a 54 Septies, entrarán en vigor el uno de marzo del dos mil catorce.
+
+TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
