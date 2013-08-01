@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deporte-para-el-estado-de-san-luis-potosi-antes-ley-1220
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2013-06-11"
+last_updated: "2013-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,141 +21,29 @@ state: "SLP"
 ---
 # LEY DE DEPORTE PARA EL ESTADO DE SAN LUIS POTOSI -ANTES LEY ESTATAL DEL DEPORTE DEL ESTADO DE SAN LUIS POTOSI-
 
-LEY DE INGRESOS PARA LOS MUNICIPIOS DEL ESTADO DE MICHOACAN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2010
+LEY DE DEPORTE PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2013.
 
-Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de diciembre de 2009.
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 26 de agosto de 1996.
 
-LEONEL GODOY RANGEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+HORACIO SANCHEZ UNZUETA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, A SUS HABITANTES SABED:
 
-El H. Congreso del Estado, se ha servido dirigirme el siguiente:
+QUE LA QUINCUAGESIMA CUARTA LEGISLATURA DEL ESTADO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-DECRETO
+DECRETO 648
 
-EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
+LA QUINCUAGESIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI DECRETA LO SIGUIENTE:
 
-NÚMERO 145
+...
 
-###### ARTÍCULO ÚNICO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JULIO DE 2012)</small>
 
-Se expide la Ley de Ingresos para los Municipios del Estado de Michoacán de Ocampo, para el Ejercicio Fiscal del Año 2010, para quedar como sigue:
+LEY DE DEPORTE PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-LEY DE INGRESOS PARA LOS MUNICIPIOS DEL ESTADO DE MICHOACÁN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2010
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-## TÍTULO PRIMERO. DE LOS INGRESOS DE LOS MUNICIPIOS
-
-### CAPÍTULO ÚNICO
-
-###### ARTÍCULO 1°.
-
-Las Haciendas Públicas de los Municipios del Estado de Michoacán, así como sus organismos descentralizados, conforme a lo establecido en la Ley de Hacienda Municipal del Estado de Michoacán, percibirán durante el Ejercicio Fiscal del Año 2010, los ingresos que se obtengan por concepto de:
-
-I. IMPUESTOS:
-
-A) Del impuesto predial:
-
-a) Urbano;
-
-b) Rústico;
-
-c) Ejidal; y,
-
-d) Comunal.
-
-B) Del impuesto sobre adquisición de inmuebles;
-
-C) Del impuesto sobre espectáculos públicos;
-
-D) Del impuesto sobre lotes baldíos, sin bardear o falta de banquetas; y,
-
-E) Del impuesto sobre rifas, loterías, concursos o sorteos.
-
-II. DERECHOS:
-
-A) Por ocupación de la vía pública y servicios de mercados;
-
-B) Por expedición, revalidación y canje de permisos o licencias para funcionamiento de establecimientos;
-
-C) Por expedición y revalidación de licencias o permisos para la colocación de anuncios publicitarios;
-
-D) Por licencias de construcción, remodelación, reparación o restauración de fincas;
-
-E) Por servicios de alumbrado público;
-
-F) Por abastecimiento de agua potable, alcantarillado y saneamiento;
-
-G) Por expedición de certificados, títulos, copias de documentos y legalización de firmas;
-
-H) Por servicios de panteones;
-
-I) Por servicios de rastro;
-
-J) Por servicios urbanísticos; y,
-
-K) Por servicios de tránsito.
-
-III. CONTRIBUCIONES ESPECIALES:
-
-A) De aumento de valor y mejoría específica de la propiedad; y,
-
-B) De aportación de mejoras.
-
-IV. PRODUCTOS:
-
-A) Por enajenación de bienes muebles e inmuebles propiedad del Municipio;
-
-B) Por arrendamiento de bienes muebles e inmuebles propiedad del Municipio;
-
-C) Por rendimientos del Capital;
-
-D) Por explotación de cualquier naturaleza de los bienes y recursos propiedad del Municipio;
-
-E) Por venta de formas valoradas; y,
-
-F) Por otros productos.
-
-V. PARTICIPACIONES EN INGRESOS FEDERALES Y ESTATALES.
-
-VI. APROVECHAMIENTOS:
-
-A) Honorarios y gastos de ejecución;
-
-B) Recargos;
-
-C) Multas;
-
-D) Reintegros por responsabilidades;
-
-E) Donativos a favor del Municipio;
-
-F) Indemnizaciones por daños a bienes municipales;
-
-G) Recuperación de costos por adjudicación de contratos de obra pública y adquisición de bienes; y,
-
-H) Otros no especificados.
-
-VII. FONDOS DE APORTACIONES FEDERALES Y TRANSFERENCIAS POR CONVENIO:
-
-A) Fondos de aportaciones federales; y,
-
-B) Transferencias federales y estatales por convenio.
-
-VIII. INGRESOS EXTRAORDINARIOS:
-
-A) Empréstitos.
-
-IX. DISPOSICIONES GENERALES.
-
-Cuando las cuotas o tarifas de esta Ley, tengan como referencia, Grupo 1, Grupo 2 y Grupo 3, se entenderá que se refiere a los municipios clasificados de la siguiente manera:
-
-Grupo 1: Jacona y Pátzcuaro.
-
-Grupo 2: Aquila, Arteaga, Coalcomán de Vázquez Pallares, Huetamo, Los Reyes, Puruándiro, Tacámbaro y Turicato.
-
-Grupo 3: Acuitzio, Álvaro Obregón, Angamacutiro, Angangueo, Ario, Carácuaro, Charapan, Charo, Cherán, Chinicuila, Chucándiro, Churintzio, Churumuco, Coahuayana, Coeneo, Cojumatlán de Régules, Contepec, Copándaro, Ecuandureo, Epitacio Huerta, Erongarícuaro, Gabriel Zamora, Huaniqueo, Huiramba, Indaparapeo, Irimbo, Ixtlán, Jiménez, Lagunillas, Madero, Marcos Castellanos, Múgica, Nahuatzen, Nocupétaro, Nuevo Parangaricutiro, Nuevo Urecho, Numarán, Ocampo, Pajacuarán, Panindícuaro, Parácuaro, Penjamillo, Purépero, Queréndaro, Salvador Escalante, San Lucas, Senguio, Tancítaro, Tanhuato, Taretan, Tepalcatepec, Tingambato, Tiquicheo de Nicolás Romero, Tlazazalca, Tocumbo, Tumbiscatío, Tzintzuntzan, Tzitzio, Villamar, Vista Hermosa, Zináparo y Ziracuaretiro.
-
-Las disposiciones de la presente Ley, no son aplicables en los Municipios de Aguililla, Apatzingán, Áporo, Briseñas, Buenavista, Chavinda, Chilchota, Cotija, Cuitzeo, Hidalgo, Huandacareo, Jiquilpan, José Sixto Verduzco, Juárez, Jungapeo, Lázaro Cárdenas, La Huacana, La Piedad, Maravatío, Morelia, Morelos, Paracho, Peribán, Quiroga, Sahuayo, Santa Ana Maya, Susupuato, Tangamandapio, Tangancícuaro, Tingüindín, Tarímbaro, Tlalpujahua, Tuxpan, Tuzantla, Uruapan, Venustiano Carranza, Yurécuaro, Zacapu, Zamora, Zinapécuaro y Zitácuaro, en razón de que el Congreso del Estado aprobó leyes específicas para éstos, a iniciativa de los ayuntamientos respectivos.
+### CAPITULO UNICO
 
 ###### ARTICULO 1o.
 
@@ -163,1395 +51,327 @@ Las disposiciones de esta ley son de orden público e interés social y tienen p
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
-###### ARTÍCULO 2º.
+###### ARTICULO 2o.
 
-El Impuesto Predial que se cause conforme a lo establecido en el Título Segundo, Capítulo I, de la Ley de Hacienda Municipal del Estado de Michoacán, en relación con predios urbanos, se determinará, liquidará y pagará, tomando como base el valor catastral registrado más reciente que se haya determinado, en los términos de lo dispuesto por los artículos 6° y 7° de dicha Ley, y aplicando las siguientes tasas:
+El Ejecutivo del Estado, a través del Instituto Potosino del Deporte, constituirá el Sistema Estatal del Deporte, consistente en el conjunto de acciones, estrategias, recursos, métodos y procedimientos destinados a impulsar, fomentar y desarrollar la actividad física en el Estado.
 
-CONCEPTO TASA
+###### ARTICULO 3o.
 
-I. A los registrados hasta 1980. 2.50% anual
+Las dependencias y entidades de la administración pública estatal y municipal deberán participar en el Sistema Estatal del Deporte. Las dependencias y entidades de carácter federal podrán participar en este Sistema.
 
-II. A los registrados durante los años
+###### ARTICULO 4o.
 
-de 1981, 1982 y 1983. 1.00% anual
+El Sistema Estatal del Deporte a cargo del Instituto a que se refieren los artículos 2o. y 3o. de esta ley, será el marco donde se realicen las siguientes funciones:
 
-III. A los registrados durante los años
+I.- Determinar las bases de cooperación interinstitucional a través de convenios y acuerdos con los diversos sectores sociales, que permitan formular, establecer y coordinar las políticas que fomenten el desarrollo del deporte estatal;
 
-de 1984 y 1985. 0.375% anual
+II.- Establecer los procedimientos necesarios de coordinación en materia deportiva entre el Ejecutivo Estatal, los gobiernos municipales, las dependencias federales y los sectores diversos de la sociedad en general;
 
-IV. A los registrados a partir de 1986. 0.250% anual
+III. Propiciar la participación de los organismos deportivos, de deportistas destacados, de especialistas en la materia y de la sociedad en general para la formulación y determinación de las políticas a que se refiere la fracción I del presente artículo;
 
-V. A los registrados de construcciones
+IV.- Promover la conjunción y concertación de esfuerzos entre todos los organismos y dependencias gubernamentales, estatales y municipales para el desarrollo del deporte estatal;
 
-en sitios ejidales y comunales. 0.125% anual
+V.- Formular el Programa Estatal del Deporte y realizar las acciones que se deriven del mismo; y
 
-Independientemente del valor catastral, la cuota anual de este impuesto, tratándose de predios urbanos, en ningún caso será inferior al equivalente a tres días de salario mínimo general vigente en el Estado de Michoacán, al día 1º primero de enero de 2010.
+VI.- Planear mediante diagnósticos las necesidades deportivas del Estado en todos los ámbitos y niveles; y determinar la programación y presupuestación de acciones orientadas a satisfacerlas.
 
-###### ARTÍCULO 3º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2012)</small>
 
-El Impuesto Predial que se cause conforme a lo establecido en el Título Segundo, Capítulo I, de la Ley de Hacienda Municipal del Estado de Michoacán, en relación con los predios rústicos, se determinará, liquidará y pagará, tomando como base el valor catastral registrado más reciente que se haya determinado, en los términos de lo dispuesto por los artículos 6° y 7° de dicha Ley, aplicando las siguientes tasas:
+###### ARTICULO 5o.
 
-CONCEPTO TASA
+El Ejecutivo del Estado, a través del Instituto Potosino del Deporte ejercerá sus atribuciones, con las siguientes facultades:
 
-I. A los registrados hasta 1980. 3.75% anual
+I.- Coordinar sus acciones, acuerdos y programas a través del Sistema Estatal del Deporte;
 
-II. A los registrados durante los
+II.- Ejercer funciones como instrumento único para la ejecución de las políticas en materia deportiva estatal;
 
-años de 1981, 1982 y 1983. 1.00% anual
+III.- Representar al deporte estatal ante organismos regionales, nacionales e internacionales;
 
-III. A los registrados durante los
+IV.- Establecer los mecanismos necesarios a fin de llevar a efecto el registro y seguimiento del Sistema Estatal del Deporte, en coordinación permanente con el organismo a cargo de dichas funciones en el ámbito federal;
 
-años de 1984 y 1985. 0.75% anual
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2012)</small>
 
-IV. A los registrados a partir de 1986. 0.25% anual
+V.- Corresponde al Instituto Potosino del Deporte programar cursos de formación, capacitación y actualización para entrenadores e instructores deportivos y profesores de educación física, y
 
-Para el efecto de lo dispuesto en los artículos 32 y 33 de la Ley de Hacienda Municipal del Estado de Michoacán, se aplicarán a los valores fiscales la siguiente tasa:
+VI.- Las demás que le otorguen otras disposiciones legales y que sean necesarias para el desarrollo y mejoramiento constante del deporte estatal.
 
-I. Predios ejidales y comunales 0.25% anual
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
-Independientemente del valor catastral, la cuota anual de este impuesto, tratándose de predios rústicos, en ningún caso será inferior al equivalente a dos días de salario mínimo general vigente en el Estado de Michoacán, al día 1º primero de enero de 2010.
+###### ARTICULO 6o.
 
-###### ARTÍCULO 4º.
+Para el cumplimiento de las atribuciones que al Ejecutivo Estatal, a través del Instituto Potosino del Deporte, le otorga esta Ley, se expedirá el reglamento correspondiente.
 
-El impuesto sobre adquisición de inmuebles, se causará, liquidará y pagará conforme a lo establecido en el Capítulo II del Título Segundo de la Ley de Hacienda Municipal del Estado de Michoacán.
+###### ARTICULO 7o.
 
-###### ARTÍCULO 5º.
+Es obligatorio estimular en el Sistema Educativo Estatal, la impartición de las actividades deportivas en los niveles de educación básica, media superior y superior, así como en las instituciones de educación especial.
 
-El impuesto sobre espectáculos públicos, se causará, liquidará y pagará aplicando a los ingresos brutos que se obtengan en el evento de que se trate, las siguientes tasas:
+## TITULO SEGUNDO. DEL PROGRAMA ESTATAL DEL DEPORTE
 
-CONCEPTO TASA
+### CAPITULO UNICO
 
-I. Sobre los percibidos por concepto de
+###### ARTICULO 8o.
 
-derechos de admisión, de mesa, consumo
+Con el fin de coadyuvar en las tareas y actividades deportivas en forma ordenada y debidamente planificada, se crea el Programa Estatal del Deporte en donde se establecerán los objetivos, metas, estrategias y acciones.
 
-mínimo o cualquier otra denominación
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
-que se le dé, cuyo pago condicione el
+###### ARTICULO 9o.
 
-acceso de los asistentes a bailes públicos,
+El Programa Estatal es el instrumento rector y orientador de las políticas y actividades del Sistema Estatal del Deporte. El Poder Ejecutivo del Estado, a través del Instituto Potosino del Deporte, elaborará el Programa Estatal del Deporte, así como los programas operativos anuales.
 
-espectáculos con variedad, torneos de
+###### ARTICULO 10.
 
-gallos y carreras de caballos. 12.50%
+Dentro del Programa Estatal del Deporte deberán considerarse:
 
-II. Sobre los percibidos por la venta de
+I.- Deporte popular;
 
-boletos de entrada a:
+II.- Deporte estudiantil;
 
-A) Funciones de box, lucha libre y
+III.- Deporte asociado;
 
-audiciones musicales. 10.00%
+IV. Deporte institucional;
 
-B) Corridas de toros y jaripeos. 7.50%
+V.- Deporte para personas con discapacidad;
 
-C) Funciones de teatro, circo, conciertos
+VI.- Deporte de alto rendimiento; y
 
-culturales, eventos deportivos de cualquier
+VII. Deporte para las personas senectas.
 
-tipo y otros espectáculos no especificados. 5.00%
+Deporte Popular: Es el conjunto de actividades físicas que practican los grandes núcleos de población y que se rigen por las reglas generales.
 
-###### ARTÍCULO 6º.
+Deporte Estudiantil: Agrupa deportistas que se particularizan por pertenecer a una entidad educativa.
 
-El impuesto sobre lotes baldíos, sin bardear o falta de banquetas, se causará, liquidará y pagará anualmente por cada metro lineal o fracción del frente de los inmuebles, conforme a la siguiente:
+Deporte Asociado: Es el que está formado por asociaciones de ligas que se integran con el objetivo de realizar competencias entre sí o bien, para seleccionar individualidades que integren una selección y generalmente se rigen por estatutos y reglamentos propios.
 
-I. Para los municipios referidos en el Grupo 1, del último párrafo del artículo 1° de esta Ley:
+Deporte Institucional: Es aquél que apoyado económicamente y organizado bajo las normas de carácter general que dictan los órganos e instituciones de gobierno estatal y municipal, practican sus funcionarios y trabajadores.
 
-CONCEPTO TARIFA
+Deporte para personas con discapacidad: Es el deporte sostenido y fomentado por instituciones particulares, cuyo objetivo es mantener el espíritu en alto de aquellas personas que por alguna circunstancia están disminuidas en sus facultades físicas.
 
-A) Dentro del primer cuadro de la ciudad,
+Deporte de alto rendimiento: Es el que se lleva a cabo en competencias de alto nivel o campeonatos nacionales e internacionales.
 
-zonas residenciales y comerciales de sus
+Deporte para personas senectas: Es aquel que se practica por personas que ya rebasaron los sesenta años de edad y que propiamente no es de competencia sino que tienen como objetivo conservar la salud.
 
-municipios. $ 93.00
+###### ARTICULO 11.
 
-B) Las no comprendidas dentro
+Los centros educativos públicos y privados e instituciones de asistencia social y de promoción deportiva, impulsarán libremente sus actividades deportivas, observando lo dispuesto en esta ley y en el Programa Estatal del Deporte.
 
-del inciso anterior. $ 42.00
+###### ARTICULO 12.
 
-II. Para los municipios referidos en el Grupo 2, el último párrafo del artículo 1° de esta Ley:
+En el Programa Estatal del Deporte deberán considerarse las siguientes acciones:
 
-A) Dentro del primer cuadro de la
+I.- Planear, programar y ejecutar a través de sus instituciones, las prácticas deportivas y recreativas de acuerdo al sistema del deporte amateur;
 
-ciudad, zonas residenciales y
+II.- Promover la capacitación de entrenadores deportistas en todos sus niveles para mejorar la práctica y desarrollo del deporte;
 
-comerciales de sus municipios. $ 37.00
+III.- Conjugar los esfuerzos de participación entre los sectores público, social y privado;
 
-B) Las no comprendidas dentro
+IV.- Gestionar apoyos económicos y de equipo para las selecciones competitivas y deportivas en sus etapas de carácter municipal, estatal, regional, prenacional y nacional;
 
-del inciso anterior. $ 16.00
+V.- Coadyuvar con las asociaciones deportivas para que integren debidamente su estructura;
 
-III. Para los municipios referidos en el Grupo 3, del último párrafo del artículo
+VI.- Otorgar especial atención al desarrollo del deporte en el sector popular y en las áreas marginadas; y
 
-1° de esta Ley. $ 12.50
+VII. Coadyuvar en el desarrollo de la infraestructura deportiva para personas con discapacidad, impulsando los organismos existentes para tal actividad.
 
-No causarán este impuesto los lotes baldíos que no hayan sido enajenados por primera vez en fraccionamientos de nueva creación, dentro de los dos primeros años. Así como los lotes baldíos en donde los predios carezcan únicamente de banqueta por falta de pavimento, adoquinado, empedrado o similares en los linderos a la vía pública; en donde no se haya realizado la pavimentación de la calle de la ubicación del inmueble.
+## TITULO TERCERO. DE LA PARTICIPACION EN EL SISTEMA ESTATAL DEL DEPORTE
 
-El pago de este impuesto es anual y se dividirá en seis partes que se pagarán bimestralmente a partir del siguiente bimestre de su registro en el padrón de contribuyentes de impuesto sobre lotes baldíos sin bardear o falta de banquetas.
+### CAPITULO I
 
-Para los efectos de la aplicación de este impuesto, los ayuntamientos definirán el primer cuadro y las zonas, en planos que estarán a la vista de los contribuyentes.
+De la Participación de los Municipios.
 
-###### ARTÍCULO 7º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2012)</small>
 
-El Impuesto sobre Rifas, Loterías, Concursos o Sorteos, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo VII de la Ley de Hacienda Municipal del Estado de Michoacán de Ocampo, de acuerdo con las tasas siguientes:
+###### ARTICULO 13.
 
-CONCEPTO TASA
+Con el fin de impulsar, fomentar y desarrollar el deporte, la educación física y la recreación conforme a los objetivos y estrategias de los Planes Nacional y Estatal de Desarrollo, el Ejecutivo, a través del Instituto Potosino del Deporte, promoverá la integración y coordinación de los municipios del Estado de San Luis Potosí al Sistema Estatal del Deporte, para la consecución de los siguientes fines:
 
-I. Sobre el importe o su equivalente
+I.- Planear, programar, presupuestar, establecer y coordinar las actividades deportivas en el ámbito municipal incluyendo las zonas urbanas y rurales, dentro del marco del Sistema Estatal del Deporte;
 
-de los premios obtenidos en rifas,
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2012)</small>
 
-loterías, concursos o sorteos. 6%
+II.- Fomentar programas municipales de carácter deportivo dentro del Sistema Estatal del Deporte, de acuerdo al Programa Estatal elaborado por el Instituto Potosino del Deporte, y
 
-II. Sobre los ingresos obtenidos por los
+III.- Otorgar estímulos, premios o apoyos económicos a dependencias, organizaciones deportivas, instituciones, entrenadores, investigadores y deportistas que se destaquen en la promoción, organización y práctica de disciplinas deportivas que estén incorporadas al Sistema Estatal del Deporte.
 
-organizadores, por la enajenación de
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
-billetes o demás comprobantes que
+Los municipios del Estado podrán asociarse entre sí o con municipios de otras Entidades Federativas en materia de deporte, previo acuerdo de sus Cabildos y la autorización del Congreso del Estado, en los casos en que corresponda conforme a la ley.
 
-permitan participar de rifas, loterías,
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
-concursos o sorteos. 8%
+###### ARTICULO 14.
 
-## TÍTULO SEGUNDO. DE LOS IMPUESTOS
+La incorporación de los municipios al Sistema Estatal del Deporte, se hará mediante la celebración de convenios de coordinación, a través del Instituto Potosino del Deporte.
 
-### CAPÍTULO I. IMPUESTO PREDIAL
+###### ARTICULO 15.
 
-###### ARTÍCULO 8º.
+El Ejecutivo del Estado y los ayuntamientos promoverán la creación de patronatos, que coadyuven al desarrollo y ejecución de los programas deportivos.
 
-Los derechos por el uso u ocupación de la vía pública, se causarán y pagarán de acuerdo con la siguiente:
+### CAPITULO II
 
-CONCEPTO TARIFA
+De la participación de los Sectores Social y Privado en el Sistema Estatal del Deporte.
 
-GRUPOS
+###### ARTICULO 16.
 
-1 2 3
+El Ejecutivo Estatal y los ayuntamientos promoverán la participación de los sectores social y privado, así como la de los organismos que ingresen al Sistema Estatal del Deporte, a través de convenios de coordinación.
 
-I. Por el uso de espacios para estacionamiento de vehículos de servicio público, mensualmente cada vehículo:
+###### ARTICULO 17.
 
-A) De alquiler, para
+Los sectores social y privado se constituyen por personas físicas o morales, que con recursos propios promuevan y fomenten la práctica, organización y desarrollo de actividades deportivas en apoyo a los programas estatales y nacionales del deporte.
 
-transporte de
+###### ARTICULO 18.
 
-de personas (taxis). $105.00 $75.00 $70.00
+Los convenios de coordinación deberán de establecer:
 
-B) De servicio urbano
+I.- La forma en que se desarrollarán las actividades deportivas que se realicen dentro del Sistema Estatal del Deporte;
 
-o foráneo para transporte
+II.- Los estímulos y apoyos que se destinen para el desarrollo y fomento del deporte; y
 
-de pasajeros y de carga
+III.- Las aportaciones económicas que convengan las partes, para la promoción del deporte.
 
-en general. $115.00 $104.00 $75.00
+###### ARTICULO 19.
 
-II. Por ocupación temporal
+Las instituciones educativas públicas y privadas promoverán el deporte en sus planteles, impulsando a estudiantes y trabajadores a representarlos en competencias municipales, estatales, regionales, nacionales e internacionales.
 
-por puestos fijos o semifijos,
+###### ARTICULO 20.
 
-por metro cuadrado o
+Se instituye como obligatorio el servicio social a los egresados de las instituciones de nivel superior de educación física en el Estado, consistente en prestar sus servicios profesionales por el tiempo establecido por cada institución educativa, en el desarrollo de los programas deportivos municipales del Estado de San Luis Potosí.
 
-fracción, diariamente. $ 4.50 $4.00 $3.50
+### CAPITULO III
 
-III. Por ocupación temporal
+De la participación de los Organismos Deportivos.
 
-de puestos fijos o semifijos
+###### ARTICULO 21.
 
-ubicados o que se ubiquen
+Son organismos deportivos, para los efectos de esta ley, toda agrupación de personas físicas o morales, que cuenten o no con personalidad jurídica y patrimonio propios, cuyo propósito sea la práctica del deporte.
 
-fuera del primer cuadro de
+###### ARTICULO 22.
 
-la ciudad, así como de
+Las agrupaciones de personas físicas y entidades sociales, podrán formar libremente organismos deportivos sin más requisito que registrarse ante la autoridad competente a fin de ser integrados al Sistema Estatal y a través de éste, al Sistema Nacional del Deporte para poder obtener los estímulos y apoyos necesarios.
 
-zonas residenciales y
+###### ARTICULO 23.
 
-comerciales, por metro
+Se reconoce como organismos deportivos de competencia en el Estado:
 
-cuadrado o fracción,
+a).- Clubes deportivos;
 
-diariamente. $2.50 $2.00 $2.00
+b).- Ligas deportivas; y
 
-IV. Por mesas para
+c).- Asociaciones deportivas.
 
-servicio de restaurantes,
+###### ARTICULO 24.
 
-neverías y cafeterías,
+Los clubes deportivos son organismos constituidos con el fin de promover el deporte debiendo integrarse a la asociación que corresponda, afiliándose en forma directa o a través de una liga deportiva.
 
-instalados en los portales
+###### ARTICULO 25.
 
-u otros sitios, por metro
+Las ligas deportivas son organizaciones que, en cada especialidad, afilian clubes o equipos con la finalidad de realizar competencias en forma programada y permanente.
 
-cuadrado, diariamente. $5.50 $4.50 $3.50
+###### ARTICULO 26.
 
-V. Por escaparates o
+Las asociaciones deportivas son las organizaciones con carácter estatal o municipal que puedan agrupar a ligas y clubes en cada disciplina.
 
-vitrinas, por cada una,
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
-mensualmente. $151.00 $105.00 $52.00
+###### ARTICULO 27.
 
-VI. La actividad comercial fuera de establecimientos, causará por metro cuadrado o fracción diariamente:
+Las ligas y clubes deportivos, a través de sus asociaciones respectivas, deben registrar ante el Instituto Potosino del Deporte el programa de sus actividades, para su inclusión y seguimiento en el Programa Estatal del Deporte, y en los programas operativos anuales.
 
-A) Casetas telefónicas. $ 8.50
+###### ARTICULO 28.
 
-Para los efectos del cobro de este derecho, los ayuntamientos definirán el primer cuadro y las zonas, en planos que estarán a la vista de los contribuyentes.
+La participación de clubes, ligas y asociaciones deportivas tendrán carácter obligatorio en los torneos, cuando se convoque a formar las selecciones municipales, como etapa previa para los torneos selectivos a la representación estatal.
 
-El pago de las contribuciones a que se refiere este artículo, no convalida el derecho al uso de la vía pública, quedando este último, sujeto a las disposiciones reglamentarias que emita el Ayuntamiento en cada Municipio.
+###### ARTICULO 29.
 
-###### ARTÍCULO 9º.
+Los clubes, ligas y asociaciones deportivas que no cumplan con los preceptos de esta ley, serán sancionados conforme a la misma.
 
-Los derechos por servicios de mercados, se causarán y pagarán diariamente, por metro cuadrado o fracción, de acuerdo con la siguiente:
+###### ARTICULO 30.
 
-CONCEPTO TARIFA
+La actividad deportiva de orden profesional no queda comprendida dentro del Sistema Estatal del Deporte.
 
-GRUPO 1 GRUPO 2 GRUPO 3
+## TITULO CUARTO. DERECHOS Y OBLIGACIONES DEL DEPORTISTA
 
-I. Por puestos fijos o semifijos
+### CAPITULO I
 
-en el interior de los mercados. $4.00 $3.00 $2.50
+De los Derechos.
 
-II. Por puestos fijos o semifijos
+###### ARTICULO 31.
 
-en el exterior de los mercados. $4.50 $4.00 $3.00
+Son derechos del deportista:
 
-Para los efectos de la aplicación de las cuotas a que se refiere este artículo y el anterior, se atenderá a lo que disponga el Reglamento Municipal de la materia respectiva.
+I.- Practicar los deportes de su elección;
 
-Para los efectos de la aplicación de las cuotas a que se refiere este artículo y el anterior, se atenderá a la clasificación de municipios señalados en el artículo 1° primero de esta Ley.
+II.- Asociarse para la práctica del deporte y en su caso para la defensa de sus derechos;
 
-###### ARTÍCULO 10.
+III.- Utilizar las instalaciones deportivas de acuerdo con su área de factibilidad de uso y de conformidad con su nivel y disciplina;
 
-Los derechos por la expedición, revalidación o refrendo y canje de permisos o licencias, para establecimientos que expendan bebidas alcohólicas al público en general, se causarán y pagarán en el equivalente a los días de salario mínimo general vigente en el Estado de Michoacán, que se señalan en la siguiente:
+IV.- Recibir asistencia y entrenamiento deportivo, así como los servicios médicos adecuados en competencias oficiales;
 
-TARIFA
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2013)</small>
 
-I. Por expedición y revalidación anual de licencias o permisos conforme al Reglamento Municipal correspondiente:
+V.- Participar en competencias, juegos o eventos deportivos reglamentarios u oficiales, emanados del Sistema Estatal del Deporte;
 
-CONCEPTO SALARIOS MÍNIMOS
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2013)</small>
 
-POR POR
+VI.- Desempeñar cargos de directivos siempre y cuando hayan sido electos en asamblea de clubes, ligas comités municipales, asociaciones o federaciones deportivas; y
 
-EXPEDICIÓN REVALIDACIÓN
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2013)</small>
 
-GRUPO GRUPO
+VII.- Tener igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen en el Estado y municipios de San Luis Potosí, sin distinción de, origen étnico, género, edad, discapacidad, condición social, económica y cultural, religión, opiniones, preferencias sexuales o estado civil.
 
-1 2 3 1 2 3
+### CAPITULO II
 
-A) Para expendio de cerveza
+De las Obligaciones.
 
-y bebidas de bajo contenido
+###### ARTICULO 32.
 
-alcohólico, en envase cerrado,
+Son obligaciones del deportista:
 
-por depósitos, tiendas de
+I.- Ser un buen ejemplo para la niñez, la juventud y la sociedad;
 
-abarrotes, misceláneas,
+II.- Cumplir cabalmente con los estatutos de sus organismos y reglamentos de su deporte o especialidad;
 
-tendejones y establecimientos
+III.- Asistir a competencias de distintos niveles cuando sea requerido;
 
-similares. 30 20 10 6 4 2
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2012)</small>
 
-B) Para expendio de cerveza y
+IV.- Los deportistas inscritos en el registro del Sistema Estatal del Deporte, deberán comunicar por escrito al Instituto Potosino del Deporte, cuando formen parte de organizaciones o clubes deportivos profesionales;
 
-bebidas de bajo y alto contenido
+V.- Representar dignamente a su Municipio, Estado y País en el evento a que se le haya convocado;
 
-alcohólico, en envase cerrado,
+VI.- Asistir a reuniones, premiaciones y estímulos cuando se le convoque;
 
-misceláneas, tendejones, mini
+VII.- Cuidar y vigilar que las instalaciones en que practique su deporte se conserven dignamente;
 
-súper y establecimientos
+VIII.- Fomentar el deporte entre sus compañeros; y
 
-similares. 75 55 40 15 11 8
+IX.- Las demás que sean señaladas por la presente Ley y su reglamento.
 
-C) Para expendio de cerveza
+## TITULO QUINTO. DEL REGISTRO DEL SISTEMA ESTATAL DEL DEPORTE
 
-y bebidas de bajo y alto
+### CAPITULO UNICO
 
-contenido alcohólico, en
+###### ARTICULO 33.
 
-envase cerrado, por vinaterías,
+Se crea el Registro Estatal del Deporte cuya finalidad es la de inscribir y llevar un registro actualizado de organizaciones deportivas, deportistas, jueces, árbitros, técnicos, entrenadores e instalaciones para la práctica del deporte y eventos deportivos.
 
-supermercados y
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
-establecimientos similares. 200 150 100 40 30 20
+###### ARTICULO 34.
 
-D) Para expendio de cerveza y
+Los requisitos a cubrir para la inscripción en el Registro Estatal del Deporte, así como los lineamientos para su integración y funcionamiento, serán determinados por el Instituto Potosino del Deporte en el Estado, de conformidad con la normatividad nacional.
 
-bebidas de bajo y alto contenido
+###### ARTICULO 35.
 
-alcohólico, en envase cerrado,
-
-por tiendas de autoservicio y
-
-establecimientos similares. 800 600 400 160 120 80
-
-E) Para expendio de cerveza en
-
-envase abierto, con alimentos
-
-por restaurantes, fondas,
-
-cervecerías y establecimientos
-
-similares. 100 75 50 20 15 10
-
-F) Para expendio de cerveza y
-
-bebidas de bajo y alto contenido
-
-alcohólico, con alimentos, por:
-
-1. Fondas y establecimientos
-
-similares. 60 50 40 40 30 20
-
-2. Restaurant bar. 300 250 200 60 50 40
-
-G) Para expendio de cerveza y bebidas de bajo y alto contenido alcohólico, sin alimentos, por:
-
-1. Cantinas. 400 300 250 90 70 60
-
-2. Centros botaneros y bares. 600 500 400 130 110 90
-
-3. Discotecas. 800 700 600 170 150 130
-
-4. Centros nocturnos
-
-y palenques. 1000 850 700 210 180 150
-
-II. Tratándose de autorización de licencias para el expendio de bebidas alcohólicas en lugares en que se celebren espectáculos públicos masivos, las cuotas de derechos en el equivalente a días de salario mínimo general vigente en el Estado de Michoacán, por la expedición eventual de las licencias, serán, según el espectáculo de que se trate, como sigue:
-
-CONCEPTO SALARIOS MÍNIMOS
-
-EVENTO GRUPOS
-
-1 2 3
-
-A) Bailes públicos. 200 100 50
-
-B) Jaripeos. 100 50 25
-
-C) Corridas de toros. 80 40 20
-
-D) Espectáculos con variedad. 200 100 50
-
-III. El pago de la revalidación o refrendo de licencias o permisos a que se refiere la fracción I anterior, se efectuará dentro del primer trimestre del año.
-
-IV. Por el canje o modificación del tipo de licencias o permisos, se causarán y pagarán las diferencias en los derechos que se establecen en la fracción anterior según la modificación de que se trate.
-
-V. Cuando se solicite la autorización de cesión de derechos respecto de las licencias expedidas, cuyo cobro se establece en este artículo, para establecimientos que expendan bebidas alcohólicas al público en general, de manera permanente, se cobrará la misma cuota que se cobraría si se tratara de una expedición original, en la fecha en que se autorice la cesión de derechos.
-
-VI. Para los efectos de la aplicación de la tarifa a que se refiere este artículo, se atenderá a la clasificación de municipios señalados en el artículo 1° de esta Ley.
-
-Para los efectos de este artículo, se consideran bebidas alcohólicas, los líquidos potables que a la temperatura de 15° grados centígrados, tengan una graduación alcohólica mayor de 2° grados Gay Lussac, clasificándose en:
-
-A) De bajo contenido alcohólico, las que tengan un contenido alcohólico entre 3° grados Gay Lussac, hasta 8° grados Gay Lussac; y,
-
-B) De alto contenido alcohólico, las que tengan un contenido alcohólico de más de 8° grados Gay Lussac, hasta 55° grados Gay Lussac.
-
-Para los efectos de aplicación de lo dispuesto en este artículo, se entenderá que se expenden bebidas alcohólicas al público en general, cuando se trate de operaciones efectuadas por personas físicas o morales dedicadas a actividades comerciales y de prestación de servicios, con excepción de mayoristas, medio mayoristas, distribuidores o envasadores.
-
-###### ARTÍCULO 11.
-
-Los derechos por la expedición de licencias o permisos y revalidación anual de las mismas, por la colocación de anuncios publicitarios, cualquiera que sea el lugar en que se fijen o instalen, el procedimiento para su colocación y los materiales, estructuras y soportes que se utilicen en su construcción, se causarán y pagarán conforme a las cuotas por metro cuadrado que en el equivalente a días de salario mínimo general vigente en el Estado, se establecen para los municipios, como se señala a continuación:
-
-I. Por anuncios de cualquier tipo:
-
-CONCEPTO SALARIOS MÍNIMOS
-
-POR POR
-
-EXPEDICIÓN REVALIDACIÓN
-
-A) En los municipios señalados
-
-en el Grupo 1 del último párrafo
-
-del artículo 1° de esta Ley. 12 3
-
-B) En los municipios señalados
-
-en el Grupo 2 del último párrafo
-
-del artículo 1° de esta Ley. 8 2
-
-C) En los municipios señalados
-
-en el Grupo 3 del último párrafo
-
-del artículo 1° de esta Ley. 5 1
-
-II. Por anuncios llamados espectaculares en cualquier población del Estado, se aplicarán dos tantos de las cuotas señaladas en el inciso A) de la fracción anterior, según se trate de expedición de licencias o revalidación anual.
-
-III. Para estructuras con sistemas de difusión de mecanismo electrónico, en cualquier población del Estado, se aplicarán tres tantos de las cuotas señaladas en el inciso A) de la fracción I de este artículo, según se trate de expedición de licencias o revalidación anual.
-
-Para los efectos de lo dispuesto en las fracciones I, II y III anteriores, se estará a lo siguiente:
-
-A) Independientemente de lo que establezca el Reglamento Municipal respectivo, la expedición de licencias para la colocación de anuncios a que se refiere la fracción I de este artículo, invariablemente se emitirá el dictamen técnico en el que se especifiquen las medidas de seguridad que deban satisfacerse para evitar daños a las personas o a los bienes que se encuentren en el área inmediata al lugar de su colocación, con base en la inspección previa del lugar y de la estructura a utilizar, por parte de la autoridad municipal competente.
-
-B) La renovación anual de las licencias a que se refiere la fracción I de este artículo, se realizará previo dictamen de verificación de las medidas de seguridad señaladas en el párrafo anterior.
-
-C) En ningún caso se otorgará licencia o permiso para la colocación de los anuncios que por su ubicación, dimensiones o materiales empleados en su estructura o para su instalación, puedan representar un riesgo para la seguridad o la integridad física de las personas o la seguridad de los bienes de terceros.
-
-D) Adicionalmente al dictamen relativo a la estructura de construcción antes señalado, se requerirá invariablemente el dictamen de impacto ambiental, por parte de la autoridad competente, en el que se especifique que la colocación del anuncio de que se trate no afecta la imagen urbana.
-
-E) El pago de la revalidación o refrendo de licencias o permisos a que se refiere este artículo, se efectuará dentro del primer trimestre del año, por lo tanto su pago extemporáneo causará recargos conforme a la tasa que establece este ordenamiento.
-
-IV. Tratándose de permisos para la colocación de anuncios por períodos definidos, inferiores a un año, los derechos que se causen, se pagarán conforme a las cuotas establecidas para los casos de revalidación anual, señaladas en la fracción I de este artículo, según la población de que se trate.
-
-V. Los derechos a que se refiere este artículo, tratándose de anuncios denominativos que se ubiquen en las fachadas de inmuebles para la debida identificación de establecimientos en los cuales se produzcan o enajenen bienes o se presten servicios; así como los ubicados dentro de los establecimientos de contribuyentes, para promocionar única y exclusivamente su negocio, se causarán y pagarán:
-
-TARIFA
-
-A) Expedición de licencia. $ 0.00
-
-B) Revalidación anual. $ 0.00
-
-VI. No causarán los derechos a que se refiere este artículo, tratándose de anuncios de partidos políticos, instituciones gubernamentales, de asistencia o beneficencia pública, privada o religiosa.
-
-###### ARTÍCULO 12.
-
-Los derechos por el otorgamiento de licencias de construcción, remodelación, reparación o restauración de fincas, se causarán y pagarán, por metro cuadrado de construcción, de acuerdo a la siguiente:
-
-TARIFA
-
-I. Por concepto de edificación de vivienda en fraccionamientos, conjuntos habitacionales o colonias de:
-
-A) Interés social:
-
-1. Hasta 60 m² de construcción total. $ 4.00
-
-2. De 61 m² hasta 90 m² de construcción total. $ 5.20
-
-3. De 91 m² de construcción total en adelante. $ 8.50
-
-B) Tipo popular:
-
-1. Hasta 90 m² de construcción total. $ 4.00
-
-2. De 91 m² a 149 m² de construcción total. $ 5.20
-
-3. De 150 m² a 199 m² de construcción total. $ 8.50
-
-4. De 200 m² de construcción en adelante. $ 10.50
-
-C) Tipo medio:
-
-1. Hasta160 m² de construcción total. $ 11.50
-
-2. De 161 m² a 249 m² de construcción total. $ 18.90
-
-3. De 250 m² de construcción total en adelante. $ 26.50
-
-D) Tipo residencial y campestre:
-
-1. Hasta 250 m² de construcción total. $ 25.50
-
-2. De 251 m² de construcción total en adelante. $ 26.50
-
-E) Rústico tipo granja:
-
-1. Hasta 160 m² de construcción total. $ 8.50
-
-2. De 161 m² a 249 m² de construcción total. $ 10.50
-
-3. De 250 m² de construcción total en adelante. $ 13.35
-
-F) Delimitación de predios con bardas, mallas metálicas o similares:
-
-1. Popular o de interés social. $ 4.10
-
-2. Tipo medio. $ 5.20
-
-3. Residencial. $ 8.50
-
-4. Industrial. $ 1.75
-
-II. Por la licencia de construcción para clínicas u hospitales, laboratorios y todo tipo de servicios médicos, dependiendo del tipo de fraccionamiento en que se ubique, por metro cuadrado de construcción, se pagará conforme a la siguiente:
-
-A) Interés social. $ 4.65
-
-B) Popular. $ 9.55
-
-C) Tipo medio. $ 4.85
-
-D) Residencial. $ 22.25
-
-III. Por la licencia de construcción para centros educativos, dependiendo del tipo de fraccionamiento en que se ubique, por metro cuadrado de construcción, se pagará conforme a la siguiente:
-
-A) Interés social. $ 2.90
-
-B) Popular. $ 5.30
-
-C) Tipo medio. $ 8.15
-
-D) Residencial. $ 11.65
-
-IV. Por la licencia de construcción para centros recreativos y/o espectáculos, dependiendo del tipo de fraccionamiento en que se ubique, por metro cuadrado de construcción, se pagará conforme a la siguiente:
-
-A) Interés social o popular. $ 10.55
-
-B) Tipo medio. $ 15.90
-
-C) Residencial. $ 24.35
-
-V. Por la licencia de construcción para instituciones de beneficencia y asistencia social sin fines de lucro, por metro cuadrado de construcción, se pagará conforme a la siguiente:
-
-A) Centros sociales comunitarios. $ 1.90
-
-B) Centros de meditación y religiosos. $ 2.45
-
-C) Cooperativas comunitarias. $ 6.00
-
-D) Centros de preparación dogmática. $ 12.20
-
-VI. Por licencias para construcción
-
-de mercados, por metro cuadrado
-
-de construcción, se pagará. $ 6.35
-
-VII. Por licencias de construcción para comercios, tiendas de autoservicio y bodegas por metro cuadrado se pagará:
-
-A) Hasta 100 m². $ 10.60
-
-B) De 101 m² en adelante. $ 29.70
-
-VIII. Por licencias de construcción para
-
-negocios y oficinas destinados para la
-
-prestación de servicios personales y
-
-profesionales independientes, por
-
-metro cuadrado se pagará. $ 29.70
-
-IX. Por licencias de construcción para estacionamientos para vehículos:
-
-A) Abiertos por metro cuadrado. $ 1.15
-
-B) A base de estructuras cubiertas
-
-por metro cuadrado. $ 10.40
-
-X. Por la licencia de construcción de agroindustria, por metro cuadrado de construcción, se pagará conforme a la siguiente:
-
-A) Mediana y grande. $ 1.30
-
-B) Pequeña. $ 2.45
-
-C) Microempresa. $ 3.00
-
-XI. Por la licencia de construcción de industria, por metro cuadrado de construcción, se pagará conforme a la siguiente:
-
-A) Mediana y grande. $ 3.00
-
-B) Pequeña. $ 3.60
-
-C) Microempresa. $ 4.90
-
-D) Otros. $ 4.90
-
-XII. Por licencias de construcción de hoteles,
-
-moteles, posadas o similares, se pagará
-
-por metro cuadrado. $ 18.00
-
-XIII. Licencias de obra y colocación de estructura para instalación de anuncios espectaculares y otros no especificados, se cobrará el 1% de la inversión a ejecutarse;
-
-XIV. Licencias para construcción, suministro e instalación de estructuras y sistemas de telecomunicaciones se cobrará el 1% de la inversión a ejecutarse;
-
-XV. Por la expedición de licencia para demoliciones, remodelaciones, restauraciones, obras de ornato y mejoras, se cobrará el 1% de la inversión a ejecutarse; y, en ningún caso los derechos que se causen serán inferiores al equivalente a cinco días de salario mínimo;
-
-XVI. Por el servicio de expedición de constancias, se cobrará conforme a la siguiente:
-
-A) Alineamiento oficial. $ 162.00
-
-B) Número oficial. $ 104.00
-
-C) Terminaciones de obra. $ 155.00
-
-XVII. Por licencia de construcción,
-
-reparación y modificación de cementerios,
-
-se pagará por metro cuadrado. $ 14.85
-
-XVIII. La revalidación de licencias de construcción de inmuebles con una vigencia mayor de dos años a partir de su expedición original, causará derechos a razón del 30% de la tarifa vigente, respecto de la obra no ejecutada.
-
-## TÍTULO TERCERO. DE LOS DERECHOS
-
-### CAPÍTULO II. IMPUESTO SOBRE ADQUISICIÓN DE INMUEBLES
-
-###### ARTÍCULO 13.
-
-El servicio de alumbrado público que se preste por el Municipio, causará derecho de conformidad con lo establecido en la Ley de Hacienda Municipal del Estado de Michoacán, con las tarifas mensuales siguientes:
-
-I. Para las personas físicas o morales propietarias, poseedoras, usufructuarias o usuarias de predios destinados a uso doméstico:
-
-TARIFA MENSUAL
-
-A.1. Popular: Aquellas personas que
-
-compren la energía eléctrica en tarifa
-
-doméstica en nivel bajo,
-
-fuera de verano. $ 7.50
-
-A.2. Medio: Aquellas personas que
-
-compren la energía eléctrica durante
-
-un año móvil, en promedio, en
-
-tarifa doméstica en nivel moderado,
-
-fuera de verano. $ 45.00
-
-A.3. Residencial: Aquellas personas
-
-que compren la energía eléctrica durante
-
-un año móvil, en tarifa doméstica en nivel
-
-alto, fuera de verano. $ 95.00
-
-II. Para las personas físicas o morales propietarias, poseedoras, usufructuarias o usuarias de predios destinados a uso general:
-
-B.1. Que compren la energía eléctrica de menudeo o baja tensión:
-
-B.1.1. Nivel Bajo: Aquellas personas que
-
-compren la energía eléctrica en tarifas de
-
-uso general en baja tensión. $ 15.00
-
-B.1.2. Nivel moderado: Aquellas personas
-
-que compren la energía eléctrica en tarifas
-
-de uso general en baja tensión. $ 75.00
-
-B.1.3. Nivel alta: Aquellas personas que
-
-compren la energía eléctrica en tarifas
-
-de uso general en baja tensión. $ 145.00
-
-B.2. Que compren la energía eléctrica de medio mayoreo o media tensión:
-
-B.2.1. Media tensión u ordinarias: Aquellas personas
-
-que compren la energía eléctrica en
-
-tarifas de uso general $ 701.00
-
-B.2.2. Media tensión horarias: Aquellas
-
-personas que compren la energía
-
-eléctrica en tarifas de uso general. $ 1,402.00
-
-B.3. Alta tensión, nivel subtransmisión:
-
-Aquellas personas que compren la
-
-energía eléctrica de mayoreo. $ 14,022.00
-
-Por lo que respecta a los propietarios o poseedores de predios, rústicos o urbanos que no se encuentren registrados ante la Comisión Federal de Electricidad, pagarán anualmente una cuota equivalente a 2 días de salario mínimo general vigente en el Estado de Michoacán, a través de recibo que para tal efecto expida la Tesorería Municipal.
-
-III. Por la expedición del dictamen de evaluación y cuantificación para la reubicación o modificación de las instalaciones pertenecientes al alumbrado público municipal, se pagará a razón de cuatro salarios mínimos.
-
-En todo caso, el solicitante deberá cubrir el costo de los materiales y mano de obra que sean determinados en el dictamen; el servicio de reubicación o modificación se llevará a cabo dentro de los treinta días hábiles posteriores a la fecha de pago antes referido.
-
-Cuando se causen daños al sistema de alumbrado público municipal, se evaluará el costo y se elaborará el presupuesto para que se realice el pago en las oficinas de la Tesorería.
-
-IV. Por concepto de revisión y/o aprobación de proyectos de construcción de alumbrado público, en fraccionamientos construidos por particulares, el pago será de doce salarios mínimos.
-
-###### ARTÍCULO 14.
-
-Los derechos por el abastecimiento de agua potable y por los servicios de alcantarillado y saneamiento, se causarán, liquidarán y pagarán conforme a las cuotas y tarifas que aprueben los ayuntamientos a propuesta de los organismos operadores respectivos, y se publiquen en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, en los términos de lo dispuesto por la Ley del Agua y Gestión de Cuencas del Estado de Michoacán.
-
-###### ARTÍCULO 15.
-
-Por expedición de certificados o copias de documentos, se causarán y pagarán derechos conforme a la siguiente:
-
-CONCEPTO TARIFA
-
-I. Certificados o copias certificadas, por cada página. $ 24.50
-
-II. Para estudiantes con fines educativos,
-
-por cada página. $ 0.00
-
-III. Expedición de certificados de vecindad, para
-
-fines de naturalización, situación migratoria,
-
-recuperación y opción de nacionalidad u otros
-
-fines análogos, por cada página. $ 26.00
-
-IV. Los duplicados o demás copias simples,
-
-causarán por cada página. $ 5.50
-
-V. Para actas de supervivencia
-
-levantadas a domicilio. $ 0.00
-
-VI. Constancia de no adeudo de contribuciones. $ 73.00
-
-VII. Registro de patentes. $ 128.00
-
-VIII. Refrendo anual de patentes. $ 51.00
-
-IX. Constancia de compraventa de ganado. $ 51.00
-
-### CAPÍTULO III. DEL IMPUESTO SOBRE ESPECTÁCULOS PÚBLICOS
-
-###### ARTÍCULO 16.
-
-Los derechos por el servicio de legalización de firmas que hagan los presidentes municipales a petición de parte, se causará y pagará la cantidad de: $ 19.00
-
-El derecho a que se refiere este artículo, tratándose de actas y certificaciones que deban expedirse en materia de educación, a solicitud de autoridades judiciales o administrativas, se causará y pagará a razón de: $ 0.00
-
-###### ARTÍCULO 17.
-
-Los documentos solicitados conforme a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo, se pagarán conforme a lo siguiente:
-
-I. Impresiones y copias en hoja
-
-tamaño carta u oficio. $ 2.00
-
-II. Información digitalizada que se entregue
-
-en dispositivo magnético, por hoja digitalizada. $ 0.50
-
-III. Dispositivo CD o DVD. $ 11.00
-
-Cuando el solicitante proporcione cualquier dispositivo magnético, sólo pagará el costo de los derechos de la información digitalizada.
-
-###### ARTÍCULO 18.
-
-Los derechos por servicios prestados en panteones municipales, se causarán y pagarán conforme a la siguiente:
-
-CONCEPTO TARIFA
-
-I. Por permisos para traslado de cadáver
-
-a otro Estado o Municipio distinto a aquél
-
-en que ocurrió el fallecimiento, después
-
-de que se hayan cubierto los requisito
-
-exigidos por las autoridades sanitarias. $ 26.00
-
-II. Por inhumación de un cadáver o restos,
-
-por cinco años de temporalidad. $ 58.00
-
-III. Los derechos de perpetuidad en las cabeceras municipales referidas en los Grupos 1 y 2 del artículo 1° de esta Ley, adicionalmente a la cuota correspondiente a la inhumación del cadáver o depósito de restos, se causarán y pagarán como sigue:
-
-A) Concesión de perpetuidad:
-
-1. Sección A. $ 753.00
-
-2. Sección B. $ 383.00
-
-3. Sección C. $ 193.00
-
-B) Refrendo anual:
-
-1. Sección A. $ 381.00
-
-2. Sección B. $ 193.00
-
-3. Sección C. $ 97.00
-
-IV. Los derechos de perpetuidad en las cabeceras municipales del Estado, referidas en el Grupo 3, del artículo 1° de esta Ley, adicionalmente a la cuota correspondiente a la inhumación del cadáver o depósito de restos, se causarán y pagarán como sigue:
-
-A) Concesión de perpetuidad:
-
-1. Sección A. $ 381.00
-
-2. Sección B. $ 193.00
-
-3. Sección C. $ 97.00
-
-B) Refrendo anual:
-
-1. Sección A. $ 193.00
-
-2. Sección B. $ 97.00
-
-3. Sección C. $ 54.00
-
-En los panteones en donde existan lotes con gavetas, los derechos de perpetuidad se causarán por cada cadáver que se inhume.
-
-V. Por exhumación de un cadáver o restos,
-
-una vez que se hayan cumplido los requisitos
-
-sanitarios que correspondan, se pagará la
-
-cantidad en pesos de: $ 128.00
-
-VI. Por el servicio de cremación que se preste en los panteones municipales se pagará la cantidad en pesos de:
-
-A) Por cadáver. $ 2,315.00
-
-B) Por restos. $ 532.00
-
-###### ARTÍCULO 19.
-
-Los derechos por el otorgamiento de licencias para construcción de monumentos en panteones, se causarán y pagarán de acuerdo con la siguiente:
-
-CONCEPTO TARIFA
-
-I. Barandal o jardinera. $ 49.00
-
-II. Placa para gaveta. $ 49.00
-
-III. Lápida mediana. $ 111.00
-
-IV. Monumento hasta 1 m de altura. $ 341.00
-
-V. Monumento hasta 1.5 m de altura. $ 417.00
-
-VI. Monumento mayor de 1.5 m de altura. $ 605.00
-
-VII. Construcción de una gaveta. $ 138.00
-
-###### ARTÍCULO 20.
-
-El sacrificio de ganado en los rastros municipales o concesionados, causará y pagará derechos conforme a la siguiente:
-
-TARIFA
-
-I. En los rastros donde se preste el servicio manual, por cada cabeza de ganado:
-
-A) Vacuno. $ 32.00
-
-B) Porcino. $ 17.00
-
-C) Lanar o caprino. $ 9.50
-
-II. En los rastros donde se preste el servicio mecanizado, por cabeza de ganado:
-
-A) Vacuno. $ 73.00
-
-B) Porcino. $ 30.00
-
-C) Lanar o caprino. $ 16.00
-
-III. El sacrificio de aves, causará el derecho siguiente:
-
-A) En los rastros municipales, por cada ave. $ 1.70
-
-B) En los rastros concesionados o
-
-autorizados, por cada ave. $ 1.70
-
-### CAPÍTULO IV. IMPUESTO SOBRE LOTES BALDÍOS, SIN BARDEAR O FALTA DE BANQUETAS
-
-###### ARTÍCULO 21.
-
-En los rastros municipales en que se presten servicios de transporte sanitario, refrigeración y uso de báscula, se causarán y pagarán derechos conforme a la siguiente:
-
-TARIFA
-
-I. Transporte sanitario:
-
-A) Vacuno, en canal por unidad. $ 32.00
-
-B) Porcino, ovino y caprino, por unidad. $ 17.00
-
-C) Aves, cada una. $ 0.80
-
-II. Refrigeración:
-
-A) Vacuno, en canal por día. $ 17.00
-
-B) Porcino, ovino y caprino, en canal, por día. $ 15.00
-
-C) Aves, cada una, por día. $ 0.80
-
-III. Uso de básculas:
-
-A) Vacuno, porcino, ovino y caprino,
-
-en canal, por unidad. $ 4.70
-
-### CAPÍTULO X. POR SERVICIOS URBANÍSTICOS
-
-###### ARTÍCULO 22.
-
-Los derechos que se causen por los servicios que proporcionen las oficinas urbanísticas, se cubrirán de conformidad con la siguiente:
-
-TARIFA
-
-I. Por la autorización definitiva de fraccionamientos y lotificaciones, atendiendo a su tipo y superficie:
-
-A) Fraccionamientos habitacionales
-
-tipo residencial hasta 2 hectáreas. $ 914.00
-
-Por cada hectárea que exceda. $ 139.00
-
-B) Fraccionamientos habitacionales
-
-tipo medio hasta 2 hectáreas. $ 453.00
-
-Por cada hectárea que exceda. $ 70.00
-
-C) Fraccionamientos habitacionales
-
-tipo popular hasta 2 hectáreas. $ 228.00
-
-Por cada hectárea que exceda $ 34.00
-
-D) Fraccionamientos habitacionales
-
-tipo interés social, hasta 2 hectáreas. $ 113.50
-
-Por cada hectárea que exceda. $ 18.00
-
-E) Fraccionamientos habitacionales
-
-tipo campestre hasta 2 hectáreas. $ 1,146.00
-
-Por cada hectárea que exceda. $ 229.00
-
-F) Fraccionamientos habitacionales
-
-rústico tipo granja hasta 4 hectáreas. $ 1,195.50
-
-Por cada hectárea que exceda. $ 238.50
-
-G) Fraccionamiento tipo
-
-industrial, hasta 2 hectáreas. $ 1,195.00
-
-Por cada hectárea que exceda. $ 238.50
-
-H) Fraccionamiento para
-
-cementerios hasta 2 hectáreas. $ 1,195.50
-
-Por cada hectárea en exceso. $ 238.50
-
-I) Fraccionamientos comerciales hasta 2 hectáreas. $ 1,195.50
-
-Por cada hectárea en exceso. $ 238.50
-
-J) Relotificación de manzanas completas de los
-
-desarrollos o desarrollos en condominio ya
-
-autorizados, se cobrará por metro cuadrado
-
-de la superficie total a relotificar. $ 2.45
-
-II. Por concepto de inspección y vigilancia de obras de urbanización de fraccionamientos, condominios y conjuntos habitacionales:
-
-A) Habitacional tipo residencial hasta 2 hectáreas. $ 21,080.00
-
-Por cada hectárea que exceda. $ 4,210.00
-
-B) Habitacional tipo medio hasta 2 hectáreas. $ 6,940.00
-
-Por cada hectárea que exceda. $ 2,126.00
-
-C) Habitacional tipo popular hasta 2 hectáreas. $ 4,242.00
-
-Por cada hectárea que exceda. $ 1,054.00
-
-D) Habitacional de interés social hasta 2 hectáreas. $ 4,242.00
-
-Por cada hectárea que exceda. $ 1,054.00
-
-E) Habitacional tipo campestre hasta 2 hectáreas. $ 30,947.00
-
-Por cada hectárea que exceda. $ 8,439.00
-
-F) Habitacional rústico tipo granja hasta 4 hectáreas. $ 30,947.00
-
-Por cada hectárea que exceda. $ 8,439.00
-
-G) Tipo industrial hasta 2 hectáreas. $ 30,947.00
-
-Por cada hectárea que exceda. $ 8,439.00
-
-H) Cementerios hasta 2 hectáreas. $ 30,947.00
-
-Por cada hectárea que exceda. $ 8,439.00
-
-I) Comerciales hasta 2 hectáreas. $ 30,947.00
-
-Por cada hectárea que exceda. $ 8,439.00
-
-III. Por rectificación a la autorización de
-
-fraccionamientos y conjuntos habitacionales. $ 4,219.00
-
-IV. Por concepto de licencia de urbanización en fraccionamientos, conjuntos habitacionales o colonias, se cobrará por metro cuadrado de urbanización del terreno total a desarrollar:
-
-A) Interés social o popular. $ 2.90
-
-B) Tipo medio. $ 2.95
-
-C) Tipo residencial y campestre. $ 3.50
-
-D) Rústico tipo granja. $ 2.90
-
-V. Por la renovación de la licencia de obras de urbanización inmediata de fraccionamientos según lo previsto en el artículo 383 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, se cobrará la parte correspondiente a las obras no ejecutadas.
-
-VI. Por autorización definitiva de urbanización de conjuntos habitacionales y condominios:
-
-A) Condominio y conjuntos habitacionales residencial:
-
-1. Por superficie de terreno por m². $ 3.20
-
-2. Por superficie de área de vialidades
-
-públicas o privadas por m². $ 4.25
-
-B) Condominios y conjuntos habitacionales tipo medio:
-
-1. Por superficie de terreno por m². $ 3.20
-
-2. Por superficie de área de vialidades
-
-públicas o privadas por m². $ 4.25
-
-C) Condominios y conjuntos habitacionales tipo popular:
-
-1. Por superficie de terreno por m². $ 3.20
-
-2. Por superficie de área de vialidades
-
-públicas o privadas por m². $ 3.20
-
-D) Condominios y conjuntos habitacionales tipo interés social:
-
-1. Por superficie de terreno por m². $ 1.75
-
-2. Por superficie de área de vialidades
-
-públicas o privadas por m². $ 1.75
-
-E) Condominio de comercio, oficina, servicios o equipamiento:
-
-1. Por superficie de terreno por m². $ 3.70
-
-2. Por superficie de área de vialidades
-
-públicas o privadas por m². $ 6.35
-
-F) Por rectificaciones de autorizaciones de edificaciones con régimen de propiedad en condominio:
-
-1. Menores de 10 unidades condominales. $ 1,216.00
-
-2. De 10 a 20 unidades condominales. $ 4,216.00
-
-3. De más de 21 unidades condominales. $ 4,216.00
-
-VII. Por autorizaciones de subdivisiones y fusiones de áreas o predios, se cobrará:
-
-A) Por la superficie a subdividir o fusionar
-
-de áreas o predios urbanos por m². $ 2.35
-
-B) Por la superficie a subdividir o fusionar
-
-de áreas o predios rústicos por hectárea. $ 127.00
-
-C) Por rectificación de autorización de subdivisiones y fusiones se cobrará igual al pago de los derechos que haya originado el acto que se rectifica.
-
-VIII. Por la municipalización de desarrollos y, en su caso, desarrollos en condominio, se cobrará:
-
-A) Tipo popular o interés social. $ 5,195.00
-
-B) Tipo medio. $ 6,234.00
-
-C) Tipo residencial. $ 7,273.00
-
-D) Rústico tipo granja, campestre,
-
-industriales, comerciales o de servicio. $ 5,195.00
-
-IX. Por licencias de uso de suelo:
-
-A) Superficie destinada a uso habitacional:
-
-1. Hasta 160 m². $ 2,262.00
-
-2. De 161 m² hasta 500 m². $ 3,199.00
-
-3. De 501 m² hasta 1 hectárea. $ 4,349.00
-
-4. Para superficie que exceda 1 hectárea. $ 5,754.00
-
-5. Por cada hectárea o fracción adicional. $ 243.00
-
-B) Superficie destinada a uso comercial, oficinas, servicios personales independientes y profesionales:
-
-1. De 30 m² hasta 50 m². $ 974.00
-
-2. De 51 m² hasta 100 m². $ 2,814.00
-
-3. De 101 m² hasta 500 m². $ 4,266.00
-
-4. Para superficie que exceda 500 m². $ 6,380.00
-
-C) Superficie destinada a uso industrial:
-
-1. Hasta 500 m². $ 2,558.00
-
-2. De 501 m² hasta 1000 m². $ 3,849.00
-
-3. Para superficie que exceda 1000 m². $ 5,103.00
-
-D) Para fraccionamientos de todo tipo a excepción de los habitacionales:
-
-1. Hasta 2 hectáreas. $ 6,092.00
-
-2. Por cada hectárea adicional. $ 244.00
-
-E) Para establecimientos comerciales ya edificados; no válido para construcción, ampliación o remodelación:
-
-1. Hasta 100 m². $ 632.00
-
-2. De 101 m² hasta 500 m². $ 1,602.00
-
-3. Para superficie que exceda 500 m². $ 3,225.00
-
-F) Por licencias de uso del suelo mixto:
-
-1. De 30 m² hasta 50 m². $ 974.00
-
-2. De 51 m² hasta 100 m². $ 2,814.00
-
-3. De 101 m² hasta 500 m². $ 4,266.00
-
-4. Para superficie que exceda 500 m². $ 6,380.00
-
-G) Para la instalación de antenas y/o
-
-sistemas de telecomunicaciones. $ 6,525.00
-
-X. Autorización de cambio de uso del suelo o destino:
-
-A) De cualquier uso o destino del suelo que cambie al uso habitacional:
-
-1. Hasta 120 m². $ 2,181.00
-
-2. De 121 m² en adelante. $ 4,412.00
-
-B) De cualquier uso o destino del suelo que cambie a comercial:
-
-1. De 0 a 50 m². $ 605.00
-
-2. De 51 m² a 120 m². $ 2,180.00
-
-3. De 121 m² en adelante. $ 5,453.00
-
-C) De cualquier uso o destino del suelo que cambie a industrial:
-
-1. Hasta 500 m². $ 3,273.00
-
-2. De 501 m² en adelante. $ 6,534.00
-
-D) Por la revisión de proyectos y emisión del
-
-reporte técnico para determinar la procedencia
-
-en su caso los derechos de transferencia de
-
-potencialidad de desarrollo urbano, se pagará
-
-la cantidad de: $ 750.00
-
-E) El monto de los derechos a cobrar en lo relativo al sistema de transferencia de potencialidad de desarrollo urbano, será el que resulte de aplicar la tasa del 10% al valor comercial del total de metros cuadrados que rebasen del coeficiente previamente autorizado.
-
-XI. Constancia de zonificación urbana. $ 1,000.00
-
-XII. Certificación y reposición de copias
-
-heliográficas por cada decímetro cuadrado. $ 1.60
-
-XIII. Por dictamen técnico para la
-
-autorización de publicidad en desarrollos
-
-y desarrollos en condominio. $ 1,902.00
-
-### CAPÍTULO XI. POR SERVICIOS DE TRÁNSITO
-
-###### ARTÍCULO 23.
-
-Los derechos que se causen por la prestación de los servicios de tránsito municipal, se pagarán conforme a lo siguiente:
-
-I. Almacenaje:
-
-Por guarda de vehículos en los depósitos de la autoridad de tránsito municipal correspondiente, por día se pagará la cantidad en pesos de:
-
-A) Remolques, pipas, autobuses
-
-o vehículos de tamaño semejante. $ 20.00
-
-B) Camiones, camionetas y automóviles. $ 16.00
-
-C) Motocicletas. $ 13.00
-
-II. Los servicios de grúa que presten las autoridades de tránsito municipal, se cobrarán conforme a lo siguiente:
-
-A) Hasta en un radio de 10 Kms. de la cabecera municipal que corresponda, se aplicarán las siguientes cuotas:
-
-1. Automóviles, camionetas y remolques. $ 394.00
-
-2. Autobuses y camiones. $ 539.00
-
-B) Fuera del radio a que se refiere el inciso anterior, por cada Km. adicional:
-
-1. Automóviles, camionetas y remolques. $ 11.00
-
-2. Autobuses y camiones. $ 20.00
-
-Los derechos por la prestación de los servicios a que se refiere este artículo, se pagarán a través de las tesorerías municipales de aquellos municipios en los cuales las autoridades municipales respectivas hayan asumido la función de tránsito. En caso contrario, se aplicará lo dispuesto por el artículo 10 de la Ley de Ingresos del Estado para el presente Ejercicio Fiscal.
-
-###### ARTÍCULO 24.
-
-Las contribuciones especiales de aumento de valor y mejoría específica de la propiedad, que se establezcan a cargo de las personas que se beneficien de manera especial con alguna obra o servicio público, se causarán, liquidarán y pagarán conforme a lo establecido en el Título Cuarto, Capítulo I de la Ley de Hacienda Municipal del Estado de Michoacán.
-
-### CAPÍTULO II. DE APORTACIÓN DE MEJORAS
-
-###### ARTÍCULO 25.
-
-Las contribuciones especiales de aportación de mejoras, se causarán y pagarán conforme a lo establecido por el Título Cuarto, Capítulo II de la Ley de Hacienda Municipal del Estado de Michoacán.
-
-###### ARTÍCULO 26.
-
-Los productos de la venta de bienes muebles e inmuebles del Municipio, se cubrirán de acuerdo con lo que establece el Título Quinto, Capítulo I de la Ley de Hacienda Municipal del Estado de Michoacán.
-
-### CAPÍTULO II. ARRENDAMIENTO DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
-
-###### ARTÍCULO 27.
-
-Los ingresos que se perciban por concepto de arrendamiento de bienes muebles e inmuebles municipales, propios o del dominio público, se regularán por lo que estipule el contrato respectivo y serán fijados en cada caso por los ayuntamientos, con base a la superficie ocupada, al lugar de su ubicación y a su estado de conservación, tratándose de inmuebles; y a su estado de conservación, tratándose de muebles.
-
-###### ARTÍCULO 28.
-
-El arrendamiento de corrales y zahúrdas en los rastros, se causarán por cada cabeza de ganado y se pagará de acuerdo con la siguiente:
-
-CONCEPTO TARIFA
-
-I. Ganado vacuno, diariamente. $ 8.00
-
-II. Ganado porcino, ovino y caprino, diariamente. $ 4.50
-
-###### ARTÍCULO 29.
-
-Quedan comprendidos en este Título, los ingresos que se obtengan por:
-
-I. Rendimientos o intereses de Capital;
-
-II. Explotación de cualquier naturaleza de los bienes y recursos propiedad del Municipio; y,
-
-III. Venta de formas valoradas.
-
-Por cada una se cobrará. $ 3.50
-
-IV. Otros productos.
-
-###### ARTÍCULO 30.
-
-Las participaciones en ingresos federales y estatales que perciban los municipios, serán las que establezcan la Ley de Coordinación Fiscal, la Ley de Coordinación Fiscal del Estado de Michoacán de Ocampo y la Ley de Hacienda del Estado de Michoacán de Ocampo.
-
-## TÍTULO CUARTO. CONTRIBUCIONES ESPECIALES
-
-### CAPÍTULO I. DE AUMENTO DE VALOR Y MEJORÍA ESPECÍFICA DE LA PROPIEDAD
-
-### CAPÍTULO V. IMPUESTO SOBRE RIFAS, LOTERÍAS, CONCURSOS O SORTEOS
-
-###### ARTÍCULO 31.
-
-Los ingresos que perciba el Municipio y que no queden comprendidos dentro de la clasificación de Impuestos, Derechos, Contribuciones Especiales, Productos y Participaciones, se considerarán como aprovechamientos. Serán también aprovechamientos, los ingresos por concepto de:
-
-I. Honorarios y Gastos de Ejecución;
-
-II. Recargos:
-
-A) Por falta de pago oportuno, 1.5% mensual;
-
-B) Por prórroga o pago en parcialidades de 24 meses, el 0.75% mensual; y,
-
-C) Por prórroga o pago en parcialidades de más de 24 meses, el 1 % mensual.
-
-III. Multas;
-
-IV. Reintegros por responsabilidades;
-
-V. Donativos a favor del Municipio;
-
-VI. Indemnizaciones por daños a bienes municipales;
-
-VII. Recuperación de los costos por la realización de los procedimientos de adjudicación de contratos para la adquisición de bienes o servicios o ejecución de obras públicas, ya sea por licitación pública, por invitación restringida o por adjudicación directa, de conformidad con las leyes y demás disposiciones aplicables en cada materia, como sigue:
-
-A) Conforme al monto que determine la dependencia o entidad competente del Municipio que corresponda, que resulte suficiente para recuperar el costo de la elaboración de las bases de licitación y de la publicación de la convocatoria respectiva o envío de las cartas de invitación, para la adquisición de bienes o servicios; y,
-
-B) Conforme al monto que determine la dependencia o entidad del Municipio de que se trate, que resulte suficiente para recuperar el costo de la elaboración de las bases de licitación y de la publicación de la convocatoria respectiva o envío de las cartas de invitación, para la ejecución de obra pública.
-
-Independientemente de la dependencia o entidad del Municipio de que se trate, que realice la adjudicación de contratos a que se refieren los incisos anteriores, el importe que se cobre a los proveedores de bienes y servicios y contratistas de obra, deberá enterarse en la caja de la Tesorería Municipal o del organismo descentralizado municipal respectivo; y,
-
-VIII. Otros no especificados.
-
-### CAPÍTULO I. POR OCUPACIÓN DE LA VÍA PÚBLICA Y SERVICIOS DE MERCADOS
-
-###### ARTÍCULO 32.
-
-Los ingresos de los municipios, provenientes de los fondos de aportaciones federales y otras transferencias, se percibirán por conducto del Gobierno del Estado, conforme a lo dispuesto por la Ley de Coordinación Fiscal, la Ley de Coordinación Fiscal del Estado de Michoacán de Ocampo; en su caso el Presupuesto de Egresos de la Federación, lo que se establezca en convenios y demás disposiciones aplicables, por los siguientes conceptos:
-
-I. Fondo de aportaciones para la infraestructura social municipal;
-
-II. Fondo de aportaciones para el fortalecimiento de los municipios y de las demarcaciones territoriales del Distrito Federal; y,
-
-III. Transferencias federales y estatales por convenio.
-
-## TÍTULO QUINTO. DE LOS PRODUCTOS
-
-### CAPÍTULO I. ENAJENACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
-
-### CAPÍTULO II. POR EXPEDICIÓN, REVALIDACIÓN Y CANJE DE PERMISOS O LICENCIAS PARA FUNCIONAMIENTO DE ESTABLECIMIENTOS
-
-###### ARTÍCULO 33.
-
-Son ingresos extraordinarios de los municipios, los establecidos en el artículo 193 de la Ley de Hacienda Municipal del Estado de Michoacán, derivados de los empréstitos que se contraten por los municipios y sus organismos, con entidades y personas de nacionalidad mexicana, así como con la Federación y en su caso, con el Gobierno del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO 34.
-
-Las autoridades fiscales municipales que no apliquen las tasas y cuotas señaladas en la presente Ley, serán responsables para con el fisco por las diferencias que hubieren dejado de cobrar o cobren en exceso, las que se harán efectivas en contra de sus fiadores.
-
-Asimismo, serán responsables de las cantidades dejadas de recaudar, salvo en los casos en que se demuestre que tienen en trámite las diligencias ejecutivas de cobro.
-
-###### ARTÍCULO 35.
-
-Las liquidaciones de contribuciones, productos y aprovechamientos, que contengan fracciones de la unidad monetaria nacional, que se determinen de uno hasta cuarenta y nueve centavos, se ajustarán a la unidad inmediata inferior. Las que contengan cantidades de cincuenta y uno, a noventa y nueve centavos, se ajustarán a la unidad inmediata superior.
-
-Asimismo, para las liquidaciones antes señaladas cuyo cobro regula esta Ley, mediante cuotas establecidas en días de salario mínimo, se ajustarán de la misma manera.
-
-T R A N S I T O R I O S
+Los deportistas registrados en cada uno de los municipios deberán estar afiliados al Sistema Estatal del Deporte, con el propósito de que reciban los beneficios de éste. Los clubes, ligas y asociaciones deportivas serán corresponsables de que sus afiliados cumplan con este requisito.
 
 ###### ARTICULO 36.
 
 Para obtener los estímulos, apoyos, gestiones o prerrogativas actuales o futuras que estén reguladas en el marco del Sistema Estatal del Deporte, será requisito indispensable estar inscrito en el Registro Estatal del Deporte.
 
-## TÍTULO SEXTO. DE LAS PARTICIPACIONES EN INGRESOS FEDERALES Y ESTATALES
+## TITULO SEXTO. DE LAS INSTALACIONES DEPORTIVAS
 
-### CAPÍTULO ÚNICO
-
-### CAPÍTULO III. POR EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS O PERMISOS PARA LA COLOCACIÓN DE ANUNCIOS PUBLICITARIOS
+### CAPITULO UNICO
 
 ###### ARTICULO 37.
 
@@ -1591,11 +411,13 @@ En la construcción de instalaciones deportivas, deberá tomarse en cuenta las n
 
 En las instalaciones existentes y las que se construyan, se acondicionarán espacios para el desarrollo del deporte adaptado o de personas con discapacidad.
 
-## TÍTULO SÉPTIMO. DE LOS APROVECHAMIENTOS
+## TITULO SEPTIMO. DEL FOMENTO Y ESTIMULO AL DEPORTE
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
-### CAPÍTULO IV. POR LICENCIAS DE CONSTRUCCIÓN, REMODELACIÓN, REPARACIÓN O RESTAURACIÓN DE FINCAS
+### CAPITULO I. Lineamientos Generales
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 45.
 
@@ -1619,7 +441,9 @@ Podrán recibir reconocimientos, estímulos en dinero o especie, las persona fí
 
 Los apoyos al deporte podrán ser:
 
-I.- En dinero o en especie;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+I.- En dinero o en especie, a través de las becas deportivas;
 
 II.- Becas académicas o económicas;
 
@@ -1665,13 +489,47 @@ Los potosinos que por sus merecimientos ingresen al Salón de Honor del Deporte,
 
 El Instituto Potosino del Deporte establecerá los requisitos que deberán reunir las propuestas, para que los deportistas distinguidos ingresen al Salón de Honor del Deporte Potosino.
 
-### CAPÍTULO V. POR SERVICIOS DE ALUMBRADO PÚBLICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2013)</small>
 
-## TÍTULO OCTAVO. FONDOS DE APORTACIONES FEDERALES Y TRANSFERENCIAS POR CONVENIO
+### CAPITULO II. De las Becas Deportivas
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
-### CAPÍTULO VI. POR ABASTECIMIENTO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
+ARTICULO 55 BIS.- Para efectos del presente Ordenamiento se considera beca deportiva, a la prestación económica mensual que otorga el Estado, y/o las instituciones educativas de carácter público o privado al deportista de la Entidad, por un ciclo anual, derivado del análisis de continuidad con que se ha destacado en su especialidad.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 55 TER.- Las becas deportivas se otorgarán únicamente a deportistas oriundos del Estado, o que tengan su residencia, o realicen sus estudios en el mismo, y que no participen en el deporte profesional; como reconocimiento a su dedicación, desempeño y logros deportivos, con la finalidad de promover la continuidad de la práctica del deporte, así como el crecimiento de talentos deportivos y de alto rendimiento.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 55 QUÁTER.- Para establecer el monto de las becas deportivas se tomará en consideración los lineamientos establecidos por el Instituto Potosino del Deporte.
+
+A los deportistas con alguna discapacidad se buscará darles un trato sin distingo, y siempre equipararlos al de los beneficios recibidos por los deportistas convencionales.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 55 QUINQUE.- Las becas deportivas que concede el Gobierno del Estado ya sea en especie o en recurso económico, a través del Instituto Potosino del Deporte, son complementarias a las que otorguen los ayuntamientos, las asociaciones deportivas estatales, las federaciones deportivas nacionales, así como los patrocinadores de la iniciativa privada y de la administración pública a los deportistas de la Entidad.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 55 SEXTIES.- La beca deportiva será suspendida cuando el beneficiario:
+
+I. No cumpla o no reúna los requisitos establecidos por el Instituto Potosino del Deporte;
+
+II. Entregue documentación falsa;
+
+III. Sin causa justificada abandone el centro de desarrollo, o institución educativa con la que inició el ciclo de becario;
+
+IV. No firme la nómina de beca correspondiente, y
+
+V. Deje de asistir a sus entrenamientos, sin aviso, ni autorización previa del entrenador, o sin justificante médico que detalle el diagnóstico que origine la inasistencia.
+
+## TITULO OCTAVO. DEL SERVICIO MEDICO EN EL DEPORTE
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 56.
 
@@ -1683,11 +541,11 @@ En las competencias autorizadas por el Instituto Potosino del Deporte, ya sea de
 
 El Instituto Potosino del Deporte promoverá los mecanismos de concertación con las instituciones públicas y privadas que integran el Sector Salud, a efecto de que los deportistas a que se refiere el artículo anterior, tengan acceso a los servicios médicos.
 
-## TÍTULO NOVENO. DE LOS INGRESOS EXTRAORDINARIOS
+## TITULO NOVENO. DE LAS SANCIONES ADMINISTRATIVAS Y DE LOS RECURSOS EN EL DEPORTE
 
-### CAPÍTULO ÚNICO
+### CAPITULO I
 
-### CAPÍTULO VII. POR EXPEDICIÓN DE CERTIFICADOS, TÍTULOS, COPIAS DE DOCUMENTOS Y LEGALIZACIÓN DE FIRMAS
+De las Sanciones Administrativas.
 
 ###### ARTICULO 58.
 
@@ -1719,7 +577,9 @@ La sanción se impondrá escuchando previamente al afectado con la misma, para l
 
 Celebrada la audiencia en un lapso que no deberá exceder de diez días hábiles, contados a partir del siguiente al de la misma, la instancia que conozca del asunto emitirá su resolución, la cual notificará personalmente de inmediato al implicado.
 
-### CAPÍTULO VIII. POR SERVICIOS DE PANTEONES
+### CAPITULO II
+
+De los Recursos.
 
 ###### ARTICULO 61.
 
@@ -1755,11 +615,9 @@ Este acuerdo se notificará personalmente a las partes, debiendo verificarse la 
 
 Una vez celebrada la audiencia, la Comisión Estatal de Apelación y Arbitraje del Deporte, dentro de los cinco días hábiles siguientes resolverá en definitiva el caso, confirmando, modificando o revocando la resolución recurrida. La resolución que recaiga se notificará personalmente a las partes y no admitirá diverso recurso ordinario alguno.
 
-## TÍTULO DÉCIMO. DISPOSICIONES GENERALES
+## TITULO DECIMO. DE LA COMISION ESTATAL DE APELACION Y ARBITRAJE DEL DEPORTE
 
-### CAPÍTULO ÚNICO
-
-### CAPÍTULO IX. POR SERVICIOS DE RASTRO
+### CAPITULO UNICO
 
 ###### ARTICULO 66.
 
@@ -1771,29 +629,19 @@ El Ejecutivo del Estado designará a los miembros de esta comisión, quienes ten
 
 ## TRANSITORIOS
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-La presente Ley, entrará en vigor el día 1º primero de enero de 2010, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO SEGUNDO.
+(F. DE E., P.O. 2 DE SEPTIEMBRE DE 1996).
 
-Cuando algún gravamen no se encuentre previsto en la presente Ley, y así lo establezca algún Acuerdo, Ley o Reglamento Municipal, éste podrá determinarse conforme a lo señalado por estos últimos ordenamientos.
+###### ARTICULO SEGUNDO.
 
-Asimismo, cuando en un Acuerdo, Ley o Reglamento se establezca alguno de los ingresos previstos en esta Ley, y además señalen otros ingresos no considerados en esta última; se podrán aplicar en la fracción que corresponda, con las cuotas relativas a los servicios con los que guarden mayor semejanza.
+Se abroga la Ley Estatal del Deporte del Estado de San Luis Potosí, publicada mediante el decreto 618, en el Periódico Oficial del Estado, de fecha 16 de abril de 1993.
 
-###### ARTÍCULO TERCERO.
+###### ARTICULO TERCERO.
 
-Dése cuenta del presente Decreto a los Ayuntamientos del Estado de Michoacán de Ocampo.
-
-El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
-
-DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 17 diecisiete de diciembre de 2009 dos mil nueve.
-
-ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN.- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. EDUARDO SÁNCHEZ MARTÍNEZ.- PRIMER SECRETARIO.- DIP. FRANCISCO CAMPOS RUIZ.- SEGUNDO SECRETARIO.- DIP. JOSÉ EDUARDO VILLASEÑOR MEZA.- TERCER SECRETARIO.- DIP. JUAN MANUEL MACEDO NEGRETE. (Firmados).
-
-En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 24 veinticuatro días del mes de diciembre del año 2009 dos mil nueve.
-
-SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+Se abroga la Ley que crea el Patronato del Estadio Olímpico Plan de San Luís publicada mediante decreto 54 en el Periódico Oficial del Estado, de fecha 28 de diciembre de 1958.
 
 ###### ARTICULO CUARTO.
 
@@ -1825,7 +673,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. FERNANDO SILVA NIETO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE MARZO DE 2001.
 
@@ -1838,3 +686,15 @@ P.O. 14 DE JULIO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o inferior jerarquía jurídica que se opongan al presente Decreto.
+
+P.O. 11 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
