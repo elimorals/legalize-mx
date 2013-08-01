@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2012-09-13"
+last_updated: "2013-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -459,7 +459,7 @@ XIV. La vigilancia del cumplimiento de las normas oficiales mexicanas expedidas 
 
 XV. Solicitar a la SEMARNAT exija la instalación de equipos de control de emisiones, en los casos de actividades que se realicen en la Entidad y sean de competencia federal;
 
-XVI. Establecer y operar sistemas de verificación de emisiones de contaminantes a la atmósfera para los vehículos automotores que circulen por el territorio del respectivo municipio, con la participación que corresponda en los términos de la presente Ley, al Gobierno del Estado;
+XVI. (DEROGADA, P.O. 1 DE AGOSTO DE 2013)
 
 XVII. Aplicar las medidas de tránsito y vialidad necesarias para reducir los niveles de emisión de contaminantes a la atmósfera de los vehículos automotores, incluso limitar su circulación cuando los niveles de emisión de contaminantes excedan los máximos permisibles, establecidos en la normatividad ambiental;
 
@@ -1491,7 +1491,11 @@ En materia de prevención y control de la contaminación atmosférica producida 
 
 I. Vigilar el establecimiento y operación de sistemas y programas de verificación de emisiones de vehículos automotores en circulación;
 
-II. Autorizar el establecimiento de los centros de verificación vehicular del Estado, conforme a las Normas Oficiales Mexicanas y las leyes aplicables en la materia;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+II. Establecer y operar los centros de verificación vehicular en el Estado, conforme a las Normas Oficiales Mexicanas y leyes aplicables en la materia.
+
+La SEGAM, posterior a los procedimientos señalados en este Ordenamiento, en su caso, se encargará concesionar (sic) y vigilar los centros de verificación vehicular;
 
 III. Expedir anualmente el Programa Estatal de Verificación Vehicular, y
 
@@ -2942,3 +2946,9 @@ P.O. 13 DE SEPTIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
