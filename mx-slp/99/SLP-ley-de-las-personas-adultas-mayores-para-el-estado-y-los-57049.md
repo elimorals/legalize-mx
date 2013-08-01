@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2011-05-07"
+last_updated: "2013-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSI
+LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2013.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -36,8 +36,6 @@ Que la Quincuagésima Octava Legislatura del Estado se ha servido dirigirme el s
 DECRETO 202
 
 LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
-
-.
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSI
 
@@ -57,19 +55,33 @@ Tiene por objeto establecer las políticas públicas para la atención gerontol�
 
 Los principios que deberán observar las políticas públicas que se diseñen en las materias que regula la presente Ley, son:
 
-I. Independencia;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-II. Autonomía y autorrealización;
+I. Independencia: gozar de libertad en cuanto a la toma de decisiones sobre sus actividades, recursos, salud, de tal forma que les permita continuar con una vida de autodeterminación;
 
-III. Dignidad;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-IV. Participación;
+II. Autonomía y autorrealización: todas las acciones que se realicen en beneficio de las personas adultas mayores orientadas a fortalecer su independencia, su capacidad de decisión, y su desarrollo personal y comunitario;
 
-V. Equidad;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-VI. Corresponsabilidad, y
+III. Dignidad: valor intrínseco y supremo de las personas adultas mayores por el solo hecho de ser seres humanos;
 
-VII. Atención preferente.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+IV. Participación: inserción de las personas adultas mayores en todos los órdenes de la vida pública. Las personas adultas mayores podrán colaborar en la formulación y la aplicación de las políticas públicas que afecten directamente su bienestar;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+V. Equidad e igualdad: es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier otra circunstancia;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+VI. Corresponsabilidad: concurrencia y responsabilidad compartida de los sectores público y social, en especial de la comunidad y las familias para el cumplimiento del objeto de esta Ley, y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+VII. Atención preferente: es aquélla que obliga a las instituciones estatales y municipales de gobierno, así como sectores sociales y privados, a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores.
 
 ###### ARTICULO 3°.
 
@@ -211,39 +223,85 @@ XXVII. Atención preferente: es aquélla que obliga a las instituciones pública
 
 De manera enunciativa más no limitativa, son derechos que esta Ley reconoce y protege a favor de las personas adultas mayores, los siguientes:
 
-I. A la educación;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-II. A la salud;
+I. A la educación:
 
-III. A la alimentación;
+a) Recibir de manera preferente el derecho a la educación como lo marca el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
-IV. A la vivienda;
+b) Las instituciones educativas, públicas y privadas, deberán incluir en sus planes y programas los conocimientos relacionados con las personas adultas mayores;
 
-V. A la igualdad de oportunidades en el acceso al trabajo, u opciones como el autoempleo;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+II. A la salud:
+
+a) Tener acceso preferente a los servicios de salud, de conformidad con el párrafo tercero del artículo 4° Constitucional, con el objeto de que gocen cabalmente del derecho a su sexualidad, bienestar físico, mental y psicoemocional.
+
+b) Recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+III. A la alimentación:
+
+a) Recibir los satisfactores necesarios, considerando alimentos, bienes, servicios y condiciones humanas o materiales para su atención integral;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+IV. A la vivienda:
+
+a) Acceso a una vivienda digna y adaptada a sus necesidades;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+V. Al trabajo:
+
+a) A gozar de igualdad de oportunidades en el acceso al trabajo, o de otras opciones que le permitan un ingreso propio, y desempeñarse en forma productiva tanto tiempo como lo deseen, así como a recibir protección de los ordenamientos de carácter laboral;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
 VI. A la seguridad social;
 
-VII. A la protección contra toda forma de explotación;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-VIII. A la protección por parte de la comunidad, la familia y la sociedad, así como por parte del estado;
+VII. A la protección por parte de la comunidad, la familia y la sociedad, así como por parte del estado contra toda forma de explotación y discriminación;
 
-IX. A los bienes, servicios culturales, turísticos y deportivos;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-X. A la recreación;
+VIII. A los bienes, a los servicios culturales, turísticos y deportivos;
 
-XI. A la obtención de descuentos en contribuciones, servicios, derechos e impuestos, y demás ingresos que establezca la ley en la materia;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-XII. A ser protegidos por los programas de asistencia social para tener acceso a una casa hogar, albergue, estancia permanente u otras alternativas de atención integral, siempre que se trate de personas sujetas de asistencia social, en los términos contemplados en la ley de la materia;
+IX. A la recreación;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-XIII. Al libre desplazamiento en espacios de uso público, y en espacios privado de uso público;
+X. A la obtención de descuentos en contribuciones, servicios, derechos e impuestos, y demás ingresos que establezca la ley en la materia;
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-XIV. A la atención preferente en espacios de uso público, y en espacios privados de uso público, y
+XI. A ser protegidos por los programas de asistencia social para tener acceso a una casa hogar, albergue, estancia permanente u otras alternativas de atención integral, siempre que se trate de personas sujetas de asistencia social, en los términos contemplados en la ley de la materia;
 
-XV. Los demás que establezca la ley.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+XII. Al libre desplazamiento en espacios de uso público, y en espacios privados de uso público;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+XIII. A la atención preferente en espacios de uso público, y en espacios privados de uso público;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+XIV. A recibir asesoría jurídica en materia familiar;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+XV. A la emisión de una cartilla médica para el control de la salud;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+XVI. De asociarse y conformar organizaciones de personas adultas mayores, y
+
+XVII. Los demás que establezca la ley.
 
 ###### ARTICULO 7°.
 
@@ -315,13 +373,25 @@ VII. Las demás que establezca el Reglamento de esta Ley.
 
 Los ayuntamientos del Estado, las secretarías, organismos públicos descentralizados, desconcentrados y organismos autónomos competentes, trabajarán coordinadamente mediante convenios que al efecto celebren con el INAPAM, para crear, planear, establecer y dar seguimiento a las políticas públicas necesarias para las personas adultas mayores.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTÍCULO 11 BIS. La familia de la persona adulta mayor deberá cumplir su función social; por tanto, de manera constante y permanente deberá velar por cada una de las personas adultas mayores que formen parte de ella, teniendo las siguientes obligaciones para con ellos;
+
+I. Satisfacer sus necesidades y cuidarlos en su condición de personas adultas mayores, de enfermedad, o del estado de interdicción en el que se encuentren;
+
+II. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y de apoyo, y
+
+III. Evitar actos de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo la persona, bienes y derechos del adulto mayor.
+
 ### CAPITULO II. Consejo Interinstitucional Gerontológico
 
 ###### ARTICULO 12.
 
 El Estado cuenta con un Consejo Interinstitucional Gerontológico, conformado por diversas instituciones de la administración pública. Este Consejo tiene como objetivo aglutinar y dar seguimiento a las acciones que las diversas dependencias del Poder Ejecutivo del Estado, realicen en materia geronto-geriátrica, así como plantear y analizar la problemática que exista en cada uno de los municipios del Estado, con la finalidad de proponer políticas públicas dirigidas a las personas adultas mayores. Se integra de la siguiente forma:
 
-I. Titular del Poder Ejecutivo del Estado, Presidente;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+I. Presidente: titular del Poder Ejecutivo del Estado;
 
 II. Secretaria Técnica; cuya designación es determinada por los miembros del Consejo;
 
@@ -345,17 +415,37 @@ h) Presidencia de la Comisión de Derechos Humanos, Equidad y Género del Congre
 
 i) Las presidencias de las comisiones de grupos vulnerables de los ayuntamientos, que representen a cada una de las cuatro regiones del Estado.
 
-j) Titular de la Comisión de Derechos Humanos del Estado.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+j) titular de la Comisión Estatal de Derechos Humanos.
 
 k) Titular del Instituto de las Mujeres del Estado.
 
 l) Titular del Consejo Estatal de Población.
 
-m) Tres personas adultas mayores, a propuesta del Delegado del INAPAM, y designados por el Presidente del Consejo.
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
-n) Dos representantes de organismos no gubernamentales dedicados a la atención de las personas adultas mayores, que serán designadas entre ellos mismos.
+m) Rector de la Universidad Autónoma de San Luis Potosí.
 
-Las vocalías a que se refiere los incisos m) y n) de esta fracción, durarán en su encargo tres años, contados a partir de la fecha de su designación; y podrán ser reelectas para un solo periodo.
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+n) titular de la Secretaría de Cultura.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+o) titular de la Secretaría del Trabajo.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+p) titular del Instituto Potosino del Deporte.
+
+q) Tres personas adultas mayores, a propuesta del Delegado del INAPAM, y designados por el Presidente del Consejo.
+
+r) Dos representantes de organismos no gubernamentales dedicados a la atención de las personas adultas mayores, que serán designadas entre ellos mismos.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+Las vocalías a que se refiere (sic) los incisos q) y r) de esta fracción, durarán en su encargo tres años, contados a partir de la fecha de su designación; y podrán ser reelectas para un solo periodo.
 
 ###### ARTICULO 13.
 
@@ -383,9 +473,13 @@ VI. Hacer del conocimiento de las autoridades competentes, las anomalías que se
 
 VII. Designar al titular de la Secretaría Técnica del Consejo;
 
-VIII. Elaborar su reglamento interno, y
+VIII. Elaborar su reglamento interno, y (sic)
 
-IX. Las demás que establezca el Reglamento de esta Ley.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+IX. Realizar estudios e investigaciones referentes al envejecimiento de la población, que sirvan de herramienta de trabajo a las instituciones del sector público y privado, para el desarrollo de políticas públicas en beneficio de los adultos mayores del Estado, y
+
+XI. (SIC) Las demás que establezca el Reglamento de esta Ley.
 
 ###### ARTICULO 15.
 
@@ -505,6 +599,10 @@ III. Supervisión y evaluación de las estancias de día y permanentes, y
 
 IV. Las demás que establezca el Reglamento de esta Ley.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTÍCULO 23 BIS. Corresponde al DIF Estatal integrar padrón de las estancias temporales y permanentes, ya sean públicas o privadas, que brinden atención a las personas adultas mayores en la Entidad.
+
 ### CAPITULO III. Salud
 
 ###### ARTICULO 24.
@@ -545,7 +643,9 @@ g) Establecer programas permanentes de sensibilización del personal médico y a
 
 h) Establecer campañas del autocuidado en las personas adultas mayores.
 
-i) Realizar visitas de inspección a las estancias de día y estancias permanentes.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+i) Realizar visitas de inspección a las estancias de día, y estancias permanentes, para que los servicios que proporcionen se otorguen sin que se ejerza violencia de ningún tipo que pueda deteriorar la salud física y emocional de las personas adultas mayores, así como vigilar que su prestación sea acorde con lo establecido en esta Ley.
 
 j) Todas aquellas que determine la ley de la materia.
 
@@ -599,9 +699,15 @@ IX. Fomentar programas dirigidos al ahorro para el retiro;
 
 X. Realizar en coordinación con la Secretaría de Educación del Gobierno del Estado, en materia laboral, el diseño de programas de capacitación para el trabajo dirigido a este grupo social;
 
-XI. Crear en coordinación con los ayuntamientos del Estado, microempresas y proyectos productivos, y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-XII. Las demás que establezca el Reglamento de esta Ley.
+XI. Crear, en coordinación con los ayuntamientos del Estado, microempresas y proyectos productivos;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+XII. Vigilar minuciosamente que el empleo y desempeño laboral de las personas adultas mayores, se dé en condiciones de igualdad, equidad de género, no discriminación, y libre de violencia, y
+
+XIII. Las demás que establezca el Reglamento de esta Ley.
 
 ### CAPITULO VI. Integración al Deporte
 
@@ -619,7 +725,11 @@ IV. Brindar asesoría e información a las organizaciones públicas o privadas, 
 
 V. Promover la creación y asignación de becas que apoyen, motiven y estimulen a este sector y sus organizaciones, a la incorporación de estas actividades, y
 
-VI. Las demás que establezca el Reglamento de esta Ley.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+VI. Vigilar que el fomento de las actividades físicas, las asesorías, becas y demás prestaciones que otorgue el Instituto a las personas adultas mayores, se den en condiciones de igualdad, equidad de género, no discriminación, y libre de violencia, y
+
+VII. Las demás que establezca el Reglamento de esta Ley.
 
 ### CAPITULO VII. Acceso a los Bienes y Servicios Culturales
 
@@ -647,9 +757,11 @@ V. Las demás que establezca el Reglamento de esta Ley.
 
 La Secretaría de Turismo, en coordinación con el INAPAM, promoverá y aplicará la política pública estatal en materia de acceso a bienes y servicios turísticos y recreativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 31.
 
-A la Secretaría de Turismo en materia de personas adultas mayores, corresponde realizar las siguientes acciones:
+A la Secretaría de Turismo corresponde en materia de personas adultas mayores, realizar las siguientes acciones:
 
 I. Llevar a cabo actividades de recreación y turísticas diseñadas para ellas;
 
@@ -657,9 +769,13 @@ II. Promover y fomentar la actividad turística en forma individual y grupal, a 
 
 III. Difundir permanentemente, a través de los medios de comunicación, las actividades que se realicen a su favor;
 
-IV. Brindar la información específica sobre las facilidades de accesibilidad que ofrecen los prestadores de servicios turísticos, y
+IV. Brindar la información específica sobre las facilidades de accesibilidad que ofrecen los prestadores de servicios turísticos, y (sic)
 
-V. Las demás que establezca el Reglamento de esta Ley.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+V. Impulsar la participación de las personas adultas mayores en actividades de atención al turismo, particularmente, las que se refieren al rescate y transmisión de la cultura y la historia, y
+
+VII. (SIC) Las demás que establezca el Reglamento de esta Ley.
 
 ### CAPITULO IX. Desarrollo Social y Regional
 
@@ -1030,6 +1146,12 @@ SEGUNDO. Las instituciones públicas y privadas que proporcionen servicios públ
 TERCERO. Se deroga cualquier disposición que se oponga a este Decreto.
 
 P.O. 7 DE MAYO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
