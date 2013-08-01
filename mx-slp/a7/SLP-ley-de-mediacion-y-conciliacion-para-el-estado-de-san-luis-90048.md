@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mediacion-y-conciliacion-para-el-estado-de-san-luis-9004
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-16"
-last_updated: "2012-10-16"
+last_updated: "2013-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de octubre de 2012.
 
@@ -1189,9 +1189,11 @@ T R A N S I T O R I O S
 
 Esta Ley entrará en vigor a los ciento ochenta días siguientes a su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO SEGUNDO.
 
-La vigencia en cuanto a la aplicación y ejecución del procedimiento de los mecanismos alternativos por parte del Centro Estatal, iniciará después de noventa días, contados a partir de la entrada en vigor del presente; por lo que hace al funcionamiento de los Centros Privados, y Centros públicos, iniciará después de ciento ochenta días de iniciada la vigencia de este decreto.
+La vigencia en cuanto a la aplicación y ejecución del procedimiento de los mecanismos alternativos por parte del Centro Estatal, iniciará después de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto; por lo que hace al funcionamiento de los Centros Privados, y Centros Públicos, iniciará después de ciento ochenta días de iniciada la vigencia de este Decreto.
 
 ###### ARTICULO TERCERO.
 
@@ -1201,9 +1203,11 @@ El Poder Judicial del Estado de San Luis Potosí deberá elaborar las disposicio
 
 En el mismo término inicial del párrafo precedente el Poder Judicial del Estado de San Luis Potosí deberá proveer los recursos financieros y humanos necesarios para el funcionamiento del Centro Estatal.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO QUINTO.
 
-El Centro Estatal deberá estar instalado y conformado en un término no mayor a treinta días posteriores a la entrada en vigor del presente Decreto.
+El Centro Estatal deberá estar instalado y conformado en un término no mayor a ciento cincuenta días posteriores a la entrada en vigor del presente Decreto.
 
 ###### ARTICULO SEXTO.
 
@@ -1250,3 +1254,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE AGOSTO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
