@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2012-07-18"
+last_updated: "2013-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -146,6 +146,10 @@ La Comisión Nacional contará con un órgano oficial de difusión denominado Ga
 (Competencia)
 
 En términos de lo dispuesto en los artículos 3o. y 6o. de la Ley, la Comisión Nacional tendrá competencia en todo el territorio nacional para conocer de quejas relacionadas con presuntas violaciones a los derechos humanos cuando éstas fueren atribuibles a autoridades y servidores públicos de carácter federal, con excepción de los del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 1 DE AGOSTO DE 2013)</small>
+
+La Comisión Nacional elaborará anualmente, a través de la Tercera Visitaduría General, un diagnóstico sobre la situación de respeto de los derechos humanos en el sistema de reinserción social del país, el cual deberá contener, como mínimo, los datos estadísticos sobre el número, las causas y efectos de los homicidios, así como de las riñas, motines, desórdenes, abusos y quejas documentadas que sucedan en las prisiones, centros de detención y retención federales y locales. Este diagnóstico se hará del conocimiento de la sociedad y de las dependencias federales y locales competentes en la materia.
 
 ###### Artículo 10.
 
@@ -727,17 +731,17 @@ Los lineamientos generales de actuación y las normas de carácter interno de la
 
 El presidente de la Comisión Nacional someterá a consideración de los miembros del Consejo Consultivo las propuestas de acuerdos, mismas que serán analizadas y aprobadas en la sesión correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 42.
 
 (Informe Anual y Ejercicio Presupuestal)
 
-En la última sesión de cada año el presidente de la Comisión Nacional presentará al Consejo Consultivo el texto del proyecto de informe anual de actividades y convocará a una sesión extraordinaria para su análisis y opinión. Una vez aprobado el contenido de dicho informe se presentará ante los Poderes de la Unión y se hará del conocimiento de la opinión pública.
+En la última sesión de cada año, el presidente de la Comisión Nacional presentará al Consejo Consultivo el texto del proyecto de informe anual de actividades y convocará a una sesión extraordinaria para su análisis y opinión. Una vez escuchadas las opiniones sobre el contenido de dicho informe se presentará ante los Poderes de la Unión y se hará del conocimiento de la opinión pública.
 
-> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2006)</small>
+El proyecto de presupuesto de la Comisión Nacional para el ejercicio del año siguiente, también será presentado ante el Consejo Consultivo una vez que se tenga integrado, para que éste emita su opinión.
 
-El informe sobre el ejercicio programático-presupuestal se presentará en la tercera sesión de cada año, siempre y cuando hubiese concluido la cuenta pública. El presidente de la Comisión Nacional, solicitará a los miembros del Consejo Consultivo la autorización para que el Oficial Mayor se incorpore a la sesión, rinda la explicación relativa al presupuesto ejercido y realice la presentación del presupuesto autorizado para el ejercicio fiscal en curso.
+De igual manera, el informe sobre el ejercicio programático-presupuestal se presentará en la tercera sesión de cada año, siempre y cuando hubiese concluido la cuenta pública. El presidente de la Comisión Nacional, solicitará a los miembros del Consejo Consultivo que el Oficial Mayor se incorpore a la sesión, rinda la explicación relativa al presupuesto ejercido y realice la presentación del presupuesto autorizado para el ejercicio fiscal en curso.
 
 ###### Artículo 43.
 
@@ -1085,11 +1089,13 @@ La calificación de la excusa y el trámite que deba correr el expediente de que
 
 Los términos y los plazos que se señalan en la Ley y en este Reglamento se entenderán como días naturales, salvo que expresamente se señale que deban ser considerados como hábiles.
 
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 76.
 
 (Principios que rigen los procedimientos)
 
-Los procedimientos que se sigan ante la Comisión Nacional deberán ser breves y sencillos. Para ello se evitarán los formalismos, excepto los ordenados en la Ley y en el presente Reglamento; se procurará, en lo posible, la comunicación inmediata con los quejosos y con las autoridades, sea de manera personal, por teléfono, telégrafo, telefax, correo electrónico o por cualquier otro medio, a efecto de allegarse de los elementos suficientes para determinar su competencia y proceder al trámite del escrito o petición respectiva. Durante la tramitación del expediente de queja, se buscará realizar a la brevedad posible la investigación a que haya lugar, evitando actuaciones innecesarias.
+Los procedimientos que se sigan ante la Comisión Nacional deberán ser breves y sencillos, y en éstos se ejercerá la suplencia en la deficiencia de la queja. Para ello se evitarán los formalismos, excepto los ordenados en la Ley y en el presente Reglamento; se procurará, en lo posible, la comunicación inmediata con los quejosos y con las autoridades, sea de manera personal, por teléfono, telégrafo, telefax, correo electrónico o por cualquier otro medio, a efecto de allegarse de los elementos suficientes para determinar su competencia y proceder al trámite de la queja, el escrito o la petición respectiva. Durante la tramitación del expediente de queja, se buscará realizar, a la brevedad posible, la investigación a que haya lugar, evitando actuaciones innecesarias.
 
 ###### Artículo 77.
 
@@ -1127,29 +1133,47 @@ El número de folio se marcará en la esquina superior derecha de la hoja. Para 
 
 Las evidencias en soporte electrónico, magnético, electromagnético o de cualquier otra índole se acompañarán al expediente en sobre cerrado que deberá ser foliado en los términos antes previstos, salvo que por seguridad deban mantenerse separados del expediente. En ese supuesto, el visitador adjunto deberá levantar el acta circunstanciada correspondiente y adjuntarla al expediente.
 
-### CAPITULO II. DE LA PRESENTACION DEL ESCRITO DE QUEJA
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE AGOSTO DE 2013)</small>
 
-###### Artículo 80.
+### CAPÍTULO II. De la presentación de la queja y del escrito de queja
 
-(Requisitos de admisibilidad del escrito de queja)
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2013)</small>
 
-Todo escrito de queja que se dirija a la Comisión Nacional deberá presentarse con firma o huella digital del interesado o de la persona que para tales efectos lo auxilie o represente. Este escrito deberá contener, como datos mínimos de identificación, el nombre, apellidos, domicilio y, en su caso, número telefónico o correo electrónico de la persona que presuntamente ha sido o está siendo afectada en sus derechos humanos, así como de la persona que presente el escrito de queja, una relación sucinta de los hechos y los datos que permitan identificar a la autoridad o servidor público presuntamente responsable.
+###### ARTÍCULO 80.
 
-En casos urgentes podrá admitirse una queja que se reciba por cualquier medio de comunicación electrónica, telefónica, o presentarse de manera verbal ante cualquier servidor público de la Comisión Nacional. En esos supuestos se requerirá contar con los datos mínimos de identificación a que alude el párrafo anterior y se elaborará acta circunstanciada de la queja por parte del servidor público de la Comisión Nacional que la reciba, haciéndosele saber al quejoso que deberá ratificar el escrito de queja, salvo en el caso de que la queja la hubiese presentado de manera verbal.
+(Requisitos de admisibilidad de la queja)
 
-###### Artículo 81.
+Toda queja que se dirija a la Comisión Nacional podrá presentarse en lengua distinta al español, cuando el quejoso no hable o entienda correctamente el idioma español o pertenezca a un pueblo o comunidad indígena.
 
-(Escrito de queja anónimo)
+Al recibirse la queja se solicitará la firma o huella digital del interesado o de la persona que para tales efectos lo auxilie o represente.
 
-Se considerará anónimo el escrito de queja que carezca del nombre del quejoso, no esté firmado o no contenga huella digital de éste o de quien lo auxilie o represente. En estos casos, y siempre que se cuente con los datos de identificación del quejoso, se le hará saber esta situación para que ratifique el escrito de queja dentro de los tres días siguientes a su presentación, contados a partir del momento en que el quejoso reciba la comunicación de la Comisión Nacional de que debe subsanar la omisión. De preferencia, la comunicación al quejoso se hará vía telefónica, en cuyo caso se redactará el acta circunstanciada por parte del servidor público de la Comisión Nacional que haya hecho ese requerimiento.
+La queja podrá formularse de manera oral, por escrito o por lenguaje de señas mexicanas.
 
-De no contar con número telefónico, el requerimiento para ratificar el escrito de queja se hará por cualquier otro medio de comunicación, como correo certificado, telefax, telegrama o correo electrónico. En cualquier supuesto, el plazo de los tres días se contará a partir del correspondiente acuse de recepción o del momento en que se tenga la certeza de que el quejoso recibió el requerimiento para ratificar el escrito de queja.
+También, podrá presentarse por cualquier medio de comunicación eléctrica, electrónica o telefónica y a través de mecanismos accesibles para aquellas personas que presenten alguna discapacidad.
 
-###### Artículo 82.
+La queja deberá contener, como datos mínimos de identificación, el nombre, apellidos, domicilio y, en su caso, número telefónico o correo electrónico de la persona que presuntamente ha sido o está siendo afectada en sus derechos humanos, así como de la persona que presente la queja, una relación sucinta de los hechos y los datos que permitan identificar a la autoridad o servidor público presuntamente responsable.
 
-(Falta de ratificación del escrito de queja)
+Cuando la queja no sea presentada de forma escrita, se elaborará acta circunstanciada con el contenido de la misma.
 
-De no ratificarse el escrito de queja en el plazo señalado en el artículo anterior, éste se tendrá por no presentado y se enviará al archivo de control. Todo escrito de queja que carezca de domicilio, número telefónico o cualquier dato suficiente para la localización del quejoso también será enviado inmediatamente a dicho archivo.
+En casos urgentes podrá admitirse una queja que se reciba por cualquier medio de comunicación electrónica, telefónica, o presentarse de manera verbal ante cualquier servidor público de la Comisión Nacional. En esos supuestos se requerirá contar con los datos mínimos de identificación a que alude el presente artículo y se elaborará acta circunstanciada de la queja por parte del servidor público de la Comisión Nacional que la reciba, haciéndosele saber al quejoso que deberá ratificar el escrito de queja, salvo en el caso de que la queja la hubiese presentado de manera verbal.
+
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 81.
+
+(Queja anónima)
+
+Se considerará anónima la queja que carezca del nombre del quejoso, y para los casos de que la queja se formule por escrito, cuando no esté firmada o no contenga huella digital de éste o de quien lo auxilie o represente. En estos casos, y siempre que se cuente con los datos de identificación del quejoso, se le hará saber esta situación para que ratifique la queja dentro de los tres días siguientes a su presentación, contados a partir del momento en que el quejoso reciba la comunicación de la Comisión Nacional de que debe subsanar la omisión. De preferencia, la comunicación al quejoso se hará vía telefónica, en cuyo caso se redactará el acta circunstanciada por parte del servidor público de la Comisión Nacional que haya hecho ese requerimiento.
+
+De no contar con número telefónico, el requerimiento para ratificar la queja se hará por cualquier otro medio de comunicación, como correo certificado, telefax, telegrama o correo electrónico. En cualquier supuesto, el plazo de los tres días se contará a partir del correspondiente acuse de recepción o del momento en que se tenga la certeza de que el quejoso recibió el requerimiento para ratificar la queja.
+
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 82.
+
+(Falta de ratificación de la queja)
+
+De no ratificarse la queja en el plazo señalado en el artículo anterior, ésta se tendrá por no presentada y se enviará al archivo de control. Toda queja que carezca de domicilio, número telefónico o cualquier dato suficiente para la localización del quejoso también será enviada inmediatamente a dicho archivo.
 
 ###### Artículo 83.
 
@@ -1987,25 +2011,29 @@ Para la imposición y ejecución de las sanciones administrativas a que hace ref
 
 I. La amonestación pública o la amonestación privada serán impuestas por el Titular del Organo Interno de Control o el Titular del Area de Responsabilidades, Inconformidades y Normatividad de dicho órgano y ejecutadas por el Jefe Inmediato del servidor público sancionado;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2013)</small>
 
-II. La suspensión o la destitución del puesto, serán impuestas por el Titular del Organo Interno de Control y ejecutadas por el Titular del Organo o Unidad Administrativa de esta Comisión Nacional, a la que esté adscrito el servidor público sancionado;
+II. La suspensión o destitución del puesto, será impuesta por el titular del Órgano Interno de Control o el titular del Área de Responsabilidades, Inconformidades y Normatividad, y ejecutada por el titular del órgano o unidad administrativa a la que esté adscrito el servidor público sancionado;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2013)</small>
 
-III. La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, será impuesta por el Titular del Organo Interno de Control y ejecutada por el Titular del Organo o Unidad Administrativa de esta Comisión Nacional, a la que esté adscrito el servidor público sancionado, y
+III. La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, será impuesta por el titular del Órgano Interno de Control o el titular del Área de Responsabilidades, Inconformidades y Normatividad, y ejecutada por el titular del órgano o unidad administrativa, a la que esté adscrito el servidor público sancionado, y
 
-> <small>(REFORMADA, D.O.F. 6 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2013)</small>
 
-IV. Las sanciones económicas serán impuestas por el titular del Organo Interno de Control y ejecutadas en los términos previstos por el artículo 16 fracción IV y párrafo penúltimo de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+IV. Las sanciones económicas serán impuestas por el titular del Órgano Interno de Control o el titular del Área de Responsabilidades, Inconformidades y Normatividad, y ejecutadas en los términos previstos en los artículos 16 fracción IV párrafo penúltimo y 30 párrafo tercero de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
-> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2008)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 1 DE AGOSTO DE 2013)</small>
 
-El incumplimiento a lo dispuesto en este artículo por parte del Titular del Organo Interno de Control o del Jefe Inmediato, será causa de responsabilidad administrativa en los términos de la ley de la materia.
+Para la ejecución de las sanciones administrativas, el titular del Órgano Interno de Control o el titular del Área de Responsabilidades, Inconformidades y Normatividad, deberá notificar la resolución al jefe inmediato del servidor público sancionado o al titular del órgano o unidad administrativa, según sea el caso, así como a las direcciones generales de Asuntos Jurídicos y de Recursos Humanos, respectivamente.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE JULIO DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 1 DE AGOSTO DE 2013)</small>
 
-En el acto de ejecución de las sanciones administrativas, deberá estar presente el Titular del Organo Interno de Control o el titular del Area de Responsabilidades, Inconformidades y Normatividad de dicho órgano, el jefe inmediato del servidor público sancionado, un representante de la Dirección General de Asuntos Jurídicos y uno del Area de Recursos Humanos de la Oficialía Mayor, para los efectos de la misma en virtud de sus respectivas atribuciones.
+A su vez, el jefe inmediato del servidor público sancionado o el titular del órgano o unidad administrativa, ejecutará dicha sanción.
+
+> <small>(ADICIONADO, D.O.F. 1 DE AGOSTO DE 2013)</small>
+
+El jefe inmediato del servidor público sancionado o el titular del órgano o unidad administrativa, deberá informar al Órgano Interno de Control de la ejecución de la resolución, en un término no mayor de 3 días hábiles, mediante comunicación escrita.
 
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2012)</small>
 
@@ -2122,3 +2150,13 @@ PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión 
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 TERCERO. La parte conducente del Manual de Organización General de la Comisión Nacional, que refleje las modificaciones realizadas al Reglamento Interno, será expedida dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicada en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE AGOSTO DE 2013.
+
+PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos y en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. En los artículos del presente Reglamento Interior en los que se haga referencia al escrito de queja, deberá entenderse que se refiere a la queja presentada en cualquiera de las modalidades previstas en el artículo 80.
+
+CUARTO. La parte conducente del Manual de Organización General de la Comisión Nacional de los Derechos Humanos que refleje las modificaciones realizadas al Reglamento Interno, será expedida dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicada en el Diario Oficial de la Federación.
