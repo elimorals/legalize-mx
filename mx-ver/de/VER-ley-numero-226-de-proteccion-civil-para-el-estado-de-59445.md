@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-226-de-proteccion-civil-para-el-estado-de-59445"
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-01"
-last_updated: "2010-11-03"
+last_updated: "2013-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 226 DE PROTECCION CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 226 DE PROTECCION CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 226 DE PROTECCIÓN CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY NÚMERO 856 DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN EL NÚMERO EXTRAORDINARIO DE LA G.O. DEL 1 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE AGOSTO DE 2013 (ABROGADA).
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el viernes 1 de febrero de 2008.
 
@@ -87,7 +89,7 @@ XII. Coordinación Regional. El órgano que tiene como finalidad obtener de las 
 
 XIII. Declaratoria de desastre. El acto mediante el cual la Secretaría de Gobernación reconoce que uno o varios fenómenos perturbadores han causado daños severos cuya atención rebasa las capacidades operativa y financiera de la Entidad;
 
-XlV. Declaratoria de emergencia. El acto mediante el cual la Secretaría de Gobernación reconoce que uno o varios municipios se encuentran ante la inminencia o presencia de una situación anormal generada por un fenómeno perturbador de origen natural que puede causar un daño a la sociedad y propiciar un riesgo excesivo para la seguridad e integridad de la población;
+XIV. Declaratoria de emergencia. El acto mediante el cual la Secretaría de Gobernación reconoce que uno o varios municipios se encuentran ante la inminencia o presencia de una situación anormal generada por un fenómeno perturbador de origen natural que puede causar un daño a la sociedad y propiciar un riesgo excesivo para la seguridad e integridad de la población;
 
 XV. Desastre. El evento súbito e imprevisto, nocivo, concentrado en tiempo y espacio en el que la sociedad o parte de ella sufre un severo daño o pérdida de sus miembros, infraestructura o entorno, de tal manera que la estructura social se desajusta y se impide el cumplimiento de las actividades esenciales de la sociedad, afectando el funcionamiento de los sistemas de subsistencia y que rebasa su capacidad de respuesta;
 
@@ -247,7 +249,7 @@ XII. Integrar de entre sus miembros los comités o comisiones que sean necesario
 
 XIII. Establecer las políticas para la creación y funcionamiento de los comités científicos asesores;
 
-XlV. Evaluar anualmente el cumplimiento de los objetivos del Plan Estatal;
+XIV. Evaluar anualmente el cumplimiento de los objetivos del Plan Estatal;
 
 XV. Aprobar y evaluar el Programa Estatal;
 
@@ -307,7 +309,7 @@ I. Presidir las sesiones del Consejo Estatal, por instrucciones del Presidente;
 
 II. Elaborar y someter a consideración del Presidente, el calendario de sesiones ordinarias del Consejo Estatal;
 
-IlI. Someter a consideración del Presidente el orden del día de las sesiones ordinarias;
+III. Someter a consideración del Presidente el orden del día de las sesiones ordinarias;
 
 IV. Verificar la existencia del quórum legal para sesionar;
 
@@ -353,7 +355,7 @@ El Consejo Estatal tomará las decisiones por mayoría de votos de los miembros 
 
 El Consejo Estatal, con la participación concertada de los sectores privado y social formará las siguientes Comisiones que servirán como órganos de consulta y opinión, en materia de:
 
-l. Ciencia y tecnología;
+I. Ciencia y tecnología;
 
 II. Fenómenos perturbadores;
 
@@ -477,7 +479,7 @@ XII. Proponer la adquisición de equipo especializado de transporte, comunicaci�
 
 XIII. Proponer la emisión de Normas Oficiales Mexicanas en materia de protección civil;
 
-XlV. Elaborar y mantener actualizado un registro de personas físicas o morales que por sus actividades incrementen el nivel de riesgo, remitiéndolo al equipo técnico científico de la Secretaría, para su estudio, análisis y seguimiento; y
+XIV. Elaborar y mantener actualizado un registro de personas físicas o morales que por sus actividades incrementen el nivel de riesgo, remitiéndolo al equipo técnico científico de la Secretaría, para su estudio, análisis y seguimiento; y
 
 XV. Las demás que la Ley le señale o le asigne el Presidente Municipal o el Consejo Municipal.
 
@@ -489,7 +491,7 @@ En cada Municipio del Estado se integrará un Consejo Municipal, que será un ó
 
 Los Consejos Municipales estarán integrados por:
 
-l. El Presidente Municipal, quién lo presidirá;
+I. El Presidente Municipal, quién lo presidirá;
 
 II. El Edil encargado del Ramo, quien fungirá como Secretario Ejecutivo;
 
@@ -519,7 +521,7 @@ d) Los representantes de las organizaciones civiles especializadas y medios de c
 
 Cada titular designará un suplente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 34.
 
@@ -555,7 +557,7 @@ XII. Proponer políticas en materia de protección civil;
 
 XIII. Impulsar reconocimientos a las personas que se hubieren destacado en promover la prevención, mitigación y auxilio;
 
-XlV. Solicitar, según sea el caso, el apoyo del Gobierno Estatal; y
+XIV. Solicitar, según sea el caso, el apoyo del Gobierno Estatal; y
 
 XV. Las demás que le señalen esta Ley y los reglamentos respectivos.
 
@@ -583,7 +585,7 @@ El Consejo Municipal tomará sus decisiones por mayoría de votos de los miembro
 
 Corresponde al Presidente del Consejo Municipal:
 
-l. Convocar y presidir las sesiones;
+I. Convocar y presidir las sesiones;
 
 II. Dirigir el Sistema Municipal;
 
@@ -657,7 +659,7 @@ La Secretaría de Protección Civil tendrá a su cargo la organización, coordin
 
 Para cumplir con sus obligaciones, la Secretaría de Protección Civil tendrá las siguientes atribuciones:
 
-l. Integrar, coordinar y supervisar el Sistema Estatal de Protección Civil para garantizar, mediante la adecuada planeación, la prevención, auxilio y recuperación de la población y de su entorno ante situaciones de emergencia o desastre, incorporando la participación activa de la ciudadanía, tanto en lo individual como en lo colectivo;
+I. Integrar, coordinar y supervisar el Sistema Estatal de Protección Civil para garantizar, mediante la adecuada planeación, la prevención, auxilio y recuperación de la población y de su entorno ante situaciones de emergencia o desastre, incorporando la participación activa de la ciudadanía, tanto en lo individual como en lo colectivo;
 
 II. Proponer políticas y estrategias para el desarrollo de programas estatales, regionales, municipales, internos de protección civil;
 
@@ -709,7 +711,7 @@ XXIII. Las demás que la ley le señale o le asignen el Gobernador del Estado y 
 
 Se consideran instrumentos operativos de la protección civil, los siguientes:
 
-l. Los Atlas de Riesgos del Estado y de los Municipios;
+I. Los Atlas de Riesgos del Estado y de los Municipios;
 
 II. Los procedimientos operativos de contingencia ante fenómenos destructivos, o de riesgo de diverso origen, en términos de los Programas Nacional y Estatal de Protección Civil;
 
@@ -779,7 +781,7 @@ Los programas de protección civil a cargo del Ejecutivo Estatal y de los gobier
 
 La Planeación de la Protección Civil se fundamenta en los siguientes instrumentos:
 
-l. El Plan Nacional de Desarrollo;
+I. El Plan Nacional de Desarrollo;
 
 II. El Programa Nacional de Protección Civil;
 
@@ -867,7 +869,7 @@ La Secretaría promoverá mecanismos para motivar la participación corresponsab
 
 Dentro de las acciones que promueva estarán las siguientes:
 
-l. Apoyar el desarrollo de foros municipales y regionales en donde las organizaciones civiles, obreras, empresariales, de las comunidades, de instituciones educativas, de instituciones privadas y de otros representantes de la sociedad, podrán manifestar su opinión y propuesta;
+I. Apoyar el desarrollo de foros municipales y regionales en donde las organizaciones civiles, obreras, empresariales, de las comunidades, de instituciones educativas, de instituciones privadas y de otros representantes de la sociedad, podrán manifestar su opinión y propuesta;
 
 II. Impulsar reconocimientos a las personas que se hayan destacado en la sociedad por acciones de protección civil;
 
@@ -897,11 +899,11 @@ Las organizaciones civiles coadyuvarán en las tareas de prevención, auxilio y 
 
 Las organizaciones civiles, de acuerdo con su especialidad, se clasifican en:
 
-l. De administración;
+I. De administración;
 
 II. De apoyo logístico;
 
-lII. De comunicaciones y transportes;
+III. De comunicaciones y transportes;
 
 IV. Ambientalistas;
 
@@ -1043,7 +1045,7 @@ Los programas especiales se establecerán para atender de manera particular un e
 
 Los Programas Internos deberán contener:
 
-l. Los objetivos del programa;
+I. Los objetivos del programa;
 
 II. Las estrategias para su cumplimiento;
 
@@ -1221,7 +1223,7 @@ I. Amonestación y apercibimiento;
 
 Il. Clausura temporal o definitiva, parcial o total;
 
-IlI. Aseguramiento; y
+III. Aseguramiento; y
 
 IV. Multa.
 
@@ -1259,10 +1261,20 @@ Gobernador del Estado
 
 Rúbrica.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 3 DE NOVIEMBRE DE 2010.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 1 DE AGOSTO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. El Reglamento de la presente Ley deberá emitirse en un plazo no mayor a 180 días, contado a partir de la entrada en vigor de la misma.
+
+Artículo Tercero. Se abroga la Ley de Protección Civil para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial, Órgano del Gobierno del Estado, el viernes 1° de febrero de 2008, y se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+Artículo Cuarto. Los trámites y servicios que se encuentren pendientes de revisión o resolución en la Secretaría, después de la entrada en vigor de la presente, se atenderán hasta su conclusión conforme a las disposiciones de la Ley a que se refiere el Transitorio anterior.
