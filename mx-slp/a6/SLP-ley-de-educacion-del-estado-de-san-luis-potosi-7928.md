@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2013-06-22"
+last_updated: "2013-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -925,7 +925,9 @@ III.- Coadyuvar en la construcción y mantenimiento de espacios deportivos y de 
 
 IV.- Impulsar la participación en actividades y competencias deportivas y recreativas, nacionales e internacionales; y
 
-V.- Otorgar becas para alumnos y maestros destacados en el área deportiva.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+V.- Otorgar estímulos para alumnos y maestros matriculados en instituciones educativas de los niveles, básico, medio, o medio superior, destacados en el área deportiva, denominadas becas deportivas, mismas que corresponderán a un veinte por ciento del total de las otorgadas; para su asignación se atenderá a lo dispuesto por la Ley Estatal del Deporte.
 
 ### Capítulo IV.
 
@@ -1850,6 +1852,12 @@ DECRETO No. 162, POR EL QUE SE REFORMA EL ARTÍCULO 18, DE LA LEY DE EDUCACIÓN 
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 ## TRANSITORIOS
 
