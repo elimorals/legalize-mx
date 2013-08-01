@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deporte-para-el-estado-de-san-luis-potosi-antes-ley-1220
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2013-06-11"
+last_updated: "2013-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEPORTE PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 26 de agosto de 1996.
 
@@ -413,7 +413,9 @@ En las instalaciones existentes y las que se construyan, se acondicionarán espa
 
 ## TITULO SEPTIMO. DEL FOMENTO Y ESTIMULO AL DEPORTE
 
-### CAPITULO UNICO
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+### CAPITULO I. Lineamientos Generales
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
@@ -439,7 +441,9 @@ Podrán recibir reconocimientos, estímulos en dinero o especie, las persona fí
 
 Los apoyos al deporte podrán ser:
 
-I.- En dinero o en especie;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
+I.- En dinero o en especie, a través de las becas deportivas;
 
 II.- Becas académicas o económicas;
 
@@ -485,15 +489,47 @@ Los potosinos que por sus merecimientos ingresen al Salón de Honor del Deporte,
 
 El Instituto Potosino del Deporte establecerá los requisitos que deberán reunir las propuestas, para que los deportistas distinguidos ingresen al Salón de Honor del Deporte Potosino.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
+### CAPITULO II. De las Becas Deportivas
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 55 BIS.- Para efectos del presente Ordenamiento se considera beca deportiva, a la prestación económica mensual que otorga el Estado, y/o las instituciones educativas de carácter público o privado al deportista de la Entidad, por un ciclo anual, derivado del análisis de continuidad con que se ha destacado en su especialidad.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 55 TER.- Las becas deportivas se otorgarán únicamente a deportistas oriundos del Estado, o que tengan su residencia, o realicen sus estudios en el mismo, y que no participen en el deporte profesional; como reconocimiento a su dedicación, desempeño y logros deportivos, con la finalidad de promover la continuidad de la práctica del deporte, así como el crecimiento de talentos deportivos y de alto rendimiento.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 55 QUÁTER.- Para establecer el monto de las becas deportivas se tomará en consideración los lineamientos establecidos por el Instituto Potosino del Deporte.
+
+A los deportistas con alguna discapacidad se buscará darles un trato sin distingo, y siempre equipararlos al de los beneficios recibidos por los deportistas convencionales.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 55 QUINQUE.- Las becas deportivas que concede el Gobierno del Estado ya sea en especie o en recurso económico, a través del Instituto Potosino del Deporte, son complementarias a las que otorguen los ayuntamientos, las asociaciones deportivas estatales, las federaciones deportivas nacionales, así como los patrocinadores de la iniciativa privada y de la administración pública a los deportistas de la Entidad.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+
+ARTICULO 55 SEXTIES.- La beca deportiva será suspendida cuando el beneficiario:
+
+I. No cumpla o no reúna los requisitos establecidos por el Instituto Potosino del Deporte;
+
+II. Entregue documentación falsa;
+
+III. Sin causa justificada abandone el centro de desarrollo, o institución educativa con la que inició el ciclo de becario;
+
+IV. No firme la nómina de beca correspondiente, y
+
+V. Deje de asistir a sus entrenamientos, sin aviso, ni autorización previa del entrenador, o sin justificante médico que detalle el diagnóstico que origine la inasistencia.
 
 ## TITULO OCTAVO. DEL SERVICIO MEDICO EN EL DEPORTE
 
-### CAPITULO I
+### CAPITULO UNICO
 
-De las Sanciones Administrativas.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 56.
 
@@ -507,9 +543,9 @@ El Instituto Potosino del Deporte promoverá los mecanismos de concertación con
 
 ## TITULO NOVENO. DE LAS SANCIONES ADMINISTRATIVAS Y DE LOS RECURSOS EN EL DEPORTE
 
-### CAPITULO II
+### CAPITULO I
 
-De los Recursos.
+De las Sanciones Administrativas.
 
 ###### ARTICULO 58.
 
@@ -541,7 +577,9 @@ La sanción se impondrá escuchando previamente al afectado con la misma, para l
 
 Celebrada la audiencia en un lapso que no deberá exceder de diez días hábiles, contados a partir del siguiente al de la misma, la instancia que conozca del asunto emitirá su resolución, la cual notificará personalmente de inmediato al implicado.
 
-### CAPITULO UNICO
+### CAPITULO II
+
+De los Recursos.
 
 ###### ARTICULO 61.
 
@@ -578,6 +616,8 @@ Este acuerdo se notificará personalmente a las partes, debiendo verificarse la 
 Una vez celebrada la audiencia, la Comisión Estatal de Apelación y Arbitraje del Deporte, dentro de los cinco días hábiles siguientes resolverá en definitiva el caso, confirmando, modificando o revocando la resolución recurrida. La resolución que recaiga se notificará personalmente a las partes y no admitirá diverso recurso ordinario alguno.
 
 ## TITULO DECIMO. DE LA COMISION ESTATAL DE APELACION Y ARBITRAJE DEL DEPORTE
+
+### CAPITULO UNICO
 
 ###### ARTICULO 66.
 
@@ -633,7 +673,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. FERNANDO SILVA NIETO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE MARZO DE 2001.
 
@@ -648,6 +688,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones de igual o inferior jerarquía jurídica que se opongan al presente Decreto.
 
 P.O. 11 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
