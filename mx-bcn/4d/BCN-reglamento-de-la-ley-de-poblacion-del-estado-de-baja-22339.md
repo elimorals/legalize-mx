@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-poblacion-del-estado-de-baja-22339"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-28"
-last_updated: "2003-04-04"
+last_updated: "2013-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE LA LEY DE POBLACION DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO DE LA LEY DE POBLACION DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO DE LA LEY DE POBLACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE POBLACIÓN DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 2 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 28 de septiembre de 2001.
 
@@ -328,3 +330,9 @@ C.P. MARIO ALBERTO PLATAS CASTAÑOS
 P.O. 4 DE ABRIL DE 2003.
 
 ÚNlCO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley de Población del Estado de Baja California publicado en el Periódico Oficial del Estado el 28 de septiembre de 2001.
