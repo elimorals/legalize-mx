@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2013-04-12"
+last_updated: "2013-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -741,9 +741,11 @@ Las autoridades educativas locales a través del Consejo Nacional de Participaci
 
 Los planes y programas de estudio a que se refiere este artículo deberán ser publicados en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 65.
 
-La autoridad educativa del estado pondrá a consideración y, en su caso, autorización de la autoridad educativa federal, contenidos regionales que permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, la cultura y otros aspectos propios del Estado de Coahuila.
+La autoridad educativa del estado pondrá a consideración y, en su caso, autorización de la autoridad federal, contenidos que permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, la cultura, el medio ambiente y los recursos naturales, igualdad de género, derechos humanos, así como otros aspectos propios del Estado de Coahuila.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
 
@@ -1268,3 +1270,7 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- El Consejo Consultivo de la Comisión deberá de realizar las adecuaciones al Reglamento Interior de la Comisión en un término de sesenta días después de la entrada en vigor del presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 2 DE AGOSTO DE 2013.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
