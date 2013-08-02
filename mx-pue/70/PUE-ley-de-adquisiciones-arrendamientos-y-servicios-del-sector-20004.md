@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-2000
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-09"
-last_updated: "2012-03-30"
+last_updated: "2013-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 9 de febrero de 2001.
 
@@ -295,13 +295,13 @@ En los supuestos que de manera excepcional prevé esta Sección, las dependencia
 
 La Secretaría, los Comités Municipales, la SEDECAP, los Ayuntamientos y las Contralorías Municipales, en el ámbito de su competencia, podrán contratar asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de adquisiciones, arrendamientos y servicios, la verificación de precios, la ejecución de pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley. Dicha contratación podrá realizarse mediante alguno de los procedimientos de excepción a la licitación pública, bajo la responsabilidad del contratante.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 19.
 
-Cuando por la urgencia, en caso de desastres naturales o por la especialización de bienes o servicios distintos de los previstos en el artículo anterior, sea necesaria su pronta contratación, bajo su responsabilidad, el Presidente Municipal o el titular de la dependencia o entidad de que se trate, podrán adjudicar y contratar directamente, atendiendo conforme a la presente Ley, y la relativa a responsabilidades de los servidores públicos, las disposiciones de austeridad, racionalidad, disciplina presupuestal, eficiencia y eficacia que se establezcan en los respectivos presupuestos. La facultad a que se refiere este artículo no podrá ser delegada a ningún funcionario de la dependencia, entidad o Ayuntamiento de que se trate.
+Cuando por la urgencia, en caso de desastres naturales o por la especialización de bienes o servicios distintos de los previstos en el artículo anterior, sea necesaria su pronta contratación, bajo su responsabilidad, el Presidente Municipal o el Titular de la Dependencia o Entidad de que se trate, podrán adjudicar y contratar directamente, atendiendo conforme a la presente Ley, y la relativa a responsabilidades de los servidores públicos, las disposiciones de austeridad, racionalidad, disciplina presupuestal, eficiencia y eficacia que se establezcan en los respectivos presupuestos. La facultad a que se refiere este artículo no podrá ser delegada a ningún funcionario de la Dependencia, Entidad o Ayuntamiento de que se trate, salvo al Titular del área administrativa o sus equivalentes.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
-
-Para los casos de excepción a que se refiere este artículo, el Titular de la Dependencia o Entidad de la Administración Pública Estatal de que se trate, deberá enviar notificación debidamente justificada a la SEDECAP o la Contraloría Municipal, según sea el caso.
+Para los casos de excepción a que se refiere este artículo, el funcionario de la Dependencia o Entidad de la Administración Pública Estatal de que se trate y que haya adjudicado y contratado directamente, deberá enviar notificación debidamente justificada a la SEDECAP o la Contraloría Municipal según sea el caso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -367,9 +367,11 @@ Sin perjuicio de lo dispuesto en los tres artículos anteriores, la Secretaría,
 
 En estos casos, se invitará a personas cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse y que no tengan ninguna limitante legal para que se les otorgue la adjudicación.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 22.
 
-La selección de cualquier procedimiento de excepción a la licitación pública que realicen las adjudicantes deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez, que aseguren las mejores condiciones para el Estado o los Municipios, según corresponda. El acreditamiento de los criterios mencionados y la justificación de las razones para el ejercicio de la opción cuando se trate de los supuestos que prevén los artículos 18, 19, 20 y 21 de esta Ley, deberán constar en un dictamen por escrito y firmado por el titular del área responsable de la adjudicación, en el que se expresarán el o los supuestos que motivan el ejercicio de dicha opción, se hará constar el análisis de la o las propuestas, en su caso, y se señalarán las demás razones para la adjudicación del contrato.
+La selección de cualquier procedimiento de excepción a la licitación pública que realicen las adjudicantes deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez, que aseguren las mejores condiciones para el Estado o los Municipios, según corresponda. El acreditamiento de los criterios mencionados y la justificación de las razones para el ejercicio de la opción cuando se trate de los supuestos que prevén los artículos 18, 19, 20 y 21 de esta Ley, deberán constar en un dictamen por escrito y firmado por el Titular de la Unidad Administrativa de la Dependencia o Entidad solicitante responsable de la adjudicación, en el que se expresarán el o los supuestos que motivan el ejercicio de dicha opción, se hará constar el análisis de la o las propuestas, en su caso, y se señalarán las demás razones para la adjudicación del contrato.
 
 SECCIÓN TRES: COMPRAS INTERGUBERNAMENTALES
 
@@ -547,11 +549,11 @@ ARTÍCULO 40 TER.- (DEROGADO, P.O. 16 DE MARZO DE 2005)
 
 ### CAPÍTULO II. DE LOS COMITÉS MUNICIPALES
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2013)</small>
 
 ###### ARTÍCULO 42.
 
-Para garantizar la eficacia y la transparencia en la adjudicación y contratación por parte de la Administración Pública Municipal, en cada Municipio funcionará una entidad que podrá tener la naturaleza de organismo descentralizado u órgano desconcentrado del Ayuntamiento, a elección de éste; se denominará "Comité Municipal de Adjudicaciones", y tendrá por objeto la adjudicación de contratos de bienes, arrendamientos y servicios para el Ayuntamiento, las autoridades municipales, sus dependencias y entidades.
+Para garantizar la eficiencia, eficacia, economía, transparencia y honradez en la adjudicación y contratación por parte de la Administración Pública Municipal, en cada Municipio funcionará una entidad que podrá tener la naturaleza de organismo descentralizado u órgano desconcentrado del Ayuntamiento, a elección de éste; se denominará "Comité Municipal de Adjudicaciones", y tendrá por objeto la adjudicación de contratos de bienes, arrendamientos y servicios para el Ayuntamiento, las autoridades municipales, sus Dependencias y Entidades.
 
 En los casos en que, por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifique su instalación, el Ayuntamiento podrá autorizar la excepción correspondiente, en cuyo caso las atribuciones que esta Ley confiere a los Comités Municipales serán ejercidas por las instancias que para tal efecto se determinen, sin perjuicio de que se pueda celebrar convenio con la Secretaría para efectos de que ésta colabore con el Gobierno Municipal en las licitaciones y adjudicaciones que sean competencia de éste.
 
@@ -673,6 +675,10 @@ Las especificaciones técnicas para la selección y adquisición o arrendamiento
 
 Las dependencias y entidades o los Ayuntamientos, en su caso, previamente al arrendamiento de bienes muebles, deberán realizar los estudios de factibilidad, considerando la posible adquisición mediante arrendamiento con opción a compra. De estipularse esta condición en el contrato, la misma deberá ejercerse invariablemente.
 
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2013)</small>
+
+ARTÍCULO 49 BIS.- Para determinar la conveniencia de la adquisición de bienes muebles usados o reconstruidos, la Secretaría o el Comité Municipal respectivo deberán realizar un estudio de costo beneficio, con el que se demuestre la conveniencia de su adquisición comparativamente con bienes nuevos; el citado estudio deberá efectuarse mediante avalúo conforme a las disposiciones aplicables, expedido dentro de los seis meses previos, cuando el bien tenga un valor superior a cien mil veces el salario mínimo general vigente para el Estado de Puebla, el cual deberá integrarse al expediente de la contratación respectiva.
+
 ###### ARTÍCULO 50.
 
 Las dependencias, entidades o los Ayuntamientos, en su caso, no podrán financiar a proveedores la adquisición o arrendamiento de bienes o la prestación de servicios, cuando éstos vayan a ser objeto de contratación por parte de las propias dependencias o entidades, salvo que, de manera excepcional y por tratarse de proyectos de infraestructura, se obtenga la autorización previa y específica de la Secretaría y de la SEDECAP, en el ámbito estatal, o de la Tesorería y la Contraloría Municipal, en este ámbito. No se considerará como operación de financiamiento, el otorgamiento de anticipos, los cuales, en todo caso, no podrán exceder el cincuenta por ciento del monto total y deberán garantizarse en los términos del artículo 126 de esta Ley.
@@ -707,13 +713,13 @@ I. Los objetivos, prioridades, estrategias y políticas de los planes de desarro
 
 II. Los objetivos, metas y previsiones de recursos establecidos en los presupuestos de egresos del Estado o de los Municipios respectivos.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2013)</small>
 
 ###### ARTÍCULO 54.
 
-Las dependencias o entidades que requieran contratar servicios de consultoría, asesoría, estudios e investigaciones, previamente verificarán si en sus archivos o en su caso, en los de la coordinadora del sector correspondiente, existen trabajos sobre la materia de que se trate, de no existir éstos, así lo harán constar al momento de solicitar la contratación referida.
+Las Dependencias o Entidades que requieran contratar servicios de consultoría, asesoría, estudios e investigaciones, previamente, deberán verificar si en sus archivos, o en su caso, en los de la coordinadora del sector correspondiente, existen trabajos sobre la materia de que se trate, de no existir éstos, así lo harán constar al momento de solicitar la contratación referida.
 
-En el supuesto de que se advierta su existencia y se compruebe que los mismos satisfacen los requerimientos de la Entidad o Dependencia, no procederá la contratación, con excepción de aquellos trabajos que sean necesarios para su adecuación, actualización o complemento. La erogación para la contratación de servicios de consultorías, asesorías, estudios e investigaciones, se sujetará a lo dispuesto en el Presupuesto de Egresos respectivo.
+En el supuesto de que se advierta su existencia y se compruebe que los mismos satisfacen los requerimientos de la Entidad o Dependencia, no procederá la contratación, con excepción de aquellos trabajos que sean necesarios para su adecuación, actualización o complementación. La erogación para la contratación de servicios de consultorías, asesorías, estudios e investigaciones, se sujetará a lo dispuesto en el Presupuesto de Egresos respectivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -765,9 +771,11 @@ En los contratos de adquisiciones, arrendamientos y servicios, cuya vigencia reb
 
 En los contratos para la instrumentación de proyectos para prestación de servicios a largo plazo, las dependencias o entidades deberán observar lo establecido en la Ley Estatal de Presupuesto, Contabilidad y Gasto Público y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 60.
 
-La presupuestación y el gasto para las adquisiciones, arrendamientos y servicios se sujetarán, en su caso, a las disposiciones específicas del presupuesto de egresos respectivo, así como a lo previsto en la Ley Estatal de Presupuesto, Contabilidad y Gasto Público, y demás disposiciones aplicables en el ámbito estatal o municipal, según corresponda.
+La presupuestación y el gasto para las adquisiciones, arrendamientos y servicios se sujetarán, en su caso, a las disposiciones específicas establecidas en el Presupuesto de Egresos correspondiente, así como a lo previsto en la Ley Estatal de Presupuesto, Contabilidad y Gasto Público, y demás disposiciones aplicables en el ámbito estatal o municipal, según corresponda.
 
 ### CAPÍTULO III. DE LOS ALMACENES
 
@@ -1116,6 +1124,10 @@ En las licitaciones nacionales, el plazo para la presentación y apertura de pro
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
 Cuando no puedan observarse los plazos indicados en este artículo porque existan razones justificadas a juicio del convocante, la Secretaría o el Comité Municipal, según corresponda, podrá reducir los plazos a no menos de cinco días naturales, contados a partir de la fecha de publicación de la convocatoria.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2013)</small>
+
+La determinación de estos plazos y sus cambios, deberán ser acordes con la planeación, programación y presupuestación previamente establecida.
 
 ###### ARTÍCULO 83.
 
@@ -2155,9 +2167,15 @@ VII. En todo caso, el procedimiento de conciliación deberá agotarse en un plaz
 
 VIII. De toda diligencia deberá levantarse acta circunstanciada en la que consten los resultados de las actuaciones y cuando éstos fueren definitivamente conciliatorios, deberá suscribirse además el convenio respectivo.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 148.
 
-En el supuesto de que las partes lleguen a una conciliación, el convenio respectivo obligará a las mismas y su cumplimiento podrá ser demandado por la vía judicial correspondiente. En caso contrario, quedarán a salvo sus derechos, para que los hagan valer ante los tribunales del Estado.
+En el supuesto de que las partes lleguen a un acuerdo durante la conciliación, el convenio respectivo obligará a las mismas, y su cumplimiento podrá ser demandado por la vía judicial correspondiente.
+
+La Secretaría de la Contraloría dará seguimiento a los acuerdos de voluntades, para lo cual las Dependencias y Entidades deberán remitir un informe sobre el avance de cumplimiento de los mismos.
+
+En caso contrario, quedarán a salvo sus derechos, para que los hagan valer ante los Tribunales del Estado.
 
 ## TRANSITORIOS
 
@@ -2298,5 +2316,11 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 30 DE MARZO DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
