@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2013-05-24"
+last_updated: "2013-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -223,79 +223,115 @@ II. Asentamiento humano: La radicación de un conglomerado demográfico con el c
 
 III. Area Urbana: La extensión de terreno que ha sido sujeta a acciones de urbanización y edificación.
 
-IV. Centros de población: Las áreas urbanas ocupadas por las instalaciones necesarias para su vida normal; las que se reserven para su expansión futura; las constituidas por los elementos naturales que cumplen una función de preservación de sus condiciones ecológicas y, las que se dediquen a la fundación del mismo, conforme a las leyes aplicables;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-V. Conservación: La acción tendiente a mantener el equilibrio ecológico y el patrimonio histórico-cultural de la entidad, que requieren de su preservación;
+IV. Área Verde.- Toda superficie cubierta de vegetación, natural o inducida ubicada dentro de los asentamientos humanos en el Estado;
 
-VI. Conurbación: El fenómeno que se presenta cuando dos o más centros de población por su crecimiento y relaciones socioeconómicas, formen o tiendan a formar una unidad urbana;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-VII. Crecimiento: La expansión de los límites de las áreas ocupadas con edificios, instalaciones y redes que integran la infraestructura y el equipamiento urbano de los centros de población;
+V. Centros de población: Las áreas urbanas ocupadas por las instalaciones necesarias para su vida normal; las que se reserven para su expansión futura; las constituidas por los elementos naturales que cumplen una función de preservación de sus condiciones ecológicas y, las que se dediquen a la fundación del mismo, conforme a las leyes aplicables;
 
-VIII. Desarrollo urbano: El conjunto armónico de acciones que se realicen en beneficio de la población para lograr mayor equidad en las relaciones sociales, mejores niveles de ingreso y evitar el deterioro ambiental; involucra la ordenación, regulación, adecuación y mejora tanto de los aspectos físicos como económicos y sociales de un centro de población, así como sus relaciones con el medio ambiente natural y sus recursos;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-IX. Destinos: Los fines públicos a que se prevea dedicar determinadas zonas, áreas y predios de un centro de población;
+VI. Conservación: La acción tendiente a mantener el equilibrio ecológico y el patrimonio histórico-cultural de la entidad, que requieren de su preservación;
 
-X. Equipamiento urbano: El conjunto de espacios y edificaciones de uso predominantemente público donde se proporciona un servicio a la población, que contribuye a su bienestar y a su desarrollo económico, social y cultural. Este conjunto incluye elementos que se clasifican en los subsistemas siguientes: educación, salud, asistencia pública, comercio y abasto, recreación, deporte, comunicación y transporte, diversión, cultura, espectáculos, administración y seguridad pública;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-XI. Fundación: El establecimiento de un centro de población previsto en el Plan Estatal de Desarrollo Urbano, decretado por la Legislatura Local;
+VII. Conurbación: El fenómeno que se presenta cuando dos o más centros de población por su crecimiento y relaciones socioeconómicas, formen o tiendan a formar una unidad urbana;
 
-XII. Infraestructura: Todos los sistemas de comunicación y transporte de personas, de organización y distribución de bienes tales como: estructura vial, distribución de aguas, combustible, drenaje, alcantarillado, electricidad y telefonía;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-XIII. Mejoramiento: La acción tendiente a reordenar y renovar las zonas deterioradas o de incipiente desarrollo el territorio estatal o de un centro de población;
+VIII. Crecimiento: La expansión de los límites de las áreas ocupadas con edificios, instalaciones y redes que integran la infraestructura y el equipamiento urbano de los centros de población;
 
-XIV. Obras de edificación: Las acciones de adecuación física y espacial temporal o permanente hecha con el propósito de facilitar las actividades humanas que condicionan los usos y destinos del suelo;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-XV. Ordenamiento territorial de los asentamientos humanos: El proceso de distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio nacional;
+IX. Desarrollo urbano: El conjunto armónico de acciones que se realicen en beneficio de la población para lograr mayor equidad en las relaciones sociales, mejores niveles de ingreso y evitar el deterioro ambiental; involucra la ordenación, regulación, adecuación y mejora tanto de los aspectos físicos como económicos y sociales de un centro de población, así como sus relaciones con el medio ambiente natural y sus recursos;
 
-XVI. Ordenación de los centros de población: El conjunto de dispositivos que tienden a lograr el desarrollo físico integral de los mismos, mediante la armónica relación y jerarquización de sus elementos;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-XVII. Planeación y programación de los centros de población: Esfuerzo conjunto planeado y ordenado de acciones físicas, sociales y económicas, organizadas con anticipación y distribuidas en el tiempo para poder lograr un óptimo desarrollo urbano;
+X. Destinos: Los fines públicos a que se prevea dedicar determinadas zonas, áreas y predios de un centro de población;
 
-XVIII. Provisiones: Las áreas que serán utilizadas para la fundación de un centro de población;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-XIX. Reservas territoriales: Las áreas de un centro de población que serán utilizadas para su futuro crecimiento y se integren al sistema de suelo para el desarrollo urbano y la vivienda;
+XI. Equipamiento urbano: El conjunto de espacios y edificaciones de uso predominantemente público donde se proporciona un servicio a la población, que contribuye a su bienestar y a su desarrollo económico, social y cultural. Este conjunto incluye elementos que se clasifican en los subsistemas siguientes: educación, salud, asistencia pública, comercio y abasto, recreación, deporte, comunicación y transporte, diversión, cultura, espectáculos, administración y seguridad pública;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-XX. Secretaría: La Secretaría de Infraestructura y Desarrollo Urbano del Estado;
+XII. Fundación: El establecimiento de un centro de población previsto en el Plan Estatal de Desarrollo Urbano, decretado por la Legislatura Local;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-XXI. Servicios urbanos: Las actividades operativas públicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades colectivas en los centros de población;
+XIII. Infraestructura: Todos los sistemas de comunicación y transporte de personas, de organización y distribución de bienes tales como: estructura vial, distribución de aguas, combustible, drenaje, alcantarillado, electricidad y telefonía;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-XXII. Suelo urbanizado: Todo aquel terreno que ha recibido la acción de urbanización y que es susceptible de ser incorporado o reincorporado al municipio;
+XIV. Mejoramiento: La acción tendiente a reordenar y renovar las zonas deterioradas o de incipiente desarrollo el (sic) territorio estatal o de un centro de población;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-XXIII. Zonificación: La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo;
+XV. Obras de edificación: Las acciones de adecuación física y espacial temporal o permanente hecha con el propósito de facilitar las actividades humanas que condicionan los usos y destinos del suelo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-XXIV. Usos: Los fines particulares a que podrán destinarse determinadas zonas, áreas y predios de un centro de población;
+XVI. Ordenamiento territorial de los asentamientos humanos: El proceso de distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio nacional;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-XXV. Zona Metropolitana: Es el espacio territorial de influencia dominante de un centro de población; pudiendo constituirse en cualquiera de los siguientes casos:
+XVII. Ordenación de los centros de población: El conjunto de dispositivos que tienden a lograr el desarrollo físico integral de los mismos, mediante la armónica relación y jerarquización de sus elementos;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+
+XVIII. Planeación y programación de los centros de población: Esfuerzo conjunto planeado y ordenado de acciones físicas, sociales y económicas, organizadas con anticipación y distribuidas en el tiempo para poder lograr un óptimo desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+
+XIX. Provisiones: Las áreas que serán utilizadas para la fundación de un centro de población;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+
+XX. Reservas territoriales: Las áreas de un centro de población que serán utilizadas para su futuro crecimiento y se integren al sistema de suelo para el desarrollo urbano y la vivienda;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+
+XXI. Secretaría: La Secretaría de Infraestructura y Desarrollo Urbano del Estado;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+
+XXII. Servicios urbanos: Las actividades operativas públicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades colectivas en los centros de población;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+
+XXIII. Suelo urbanizado: Todo aquel terreno que ha recibido la acción de urbanización y que es susceptible de ser incorporado o reincorporado al municipio;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+
+XXIV. Zonificación: La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+
+XXV. Usos: Los fines particulares a que podrán destinarse determinadas zonas, áreas y predios de un centro de población;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+
+XXVI. Zona Metropolitana: es el espacio territorial de influencia dominante de un centro de población; pudiendo constituirse en cualquiera de los siguientes casos:
 
 Cuando uno o más municipios, demarcaciones territoriales o asentamientos humanos en los que se localiza una ciudad de 50 mil o más habitantes, cuya área urbana, funciones y actividades rebasan el límite del centro de población, municipio o demarcación que originalmente la contenía, incorporando como parte de sí misma o de su área de influencia directa a poblados o municipios vecinos, predominantemente urbanos, con los que mantiene un alto grado de integración socioeconómica; o
 
-En aquéllos poblados o municipios, demarcaciones territoriales o asentamientos humanos que cuenten con una cuidad de un millón o más de habitantes, o
+En aquéllos poblados o municipios, demarcaciones territoriales o asentamientos humanos que cuenten con una ciudad de un millón o más de habitantes, o
 
-En aquéllos poblados, municipios, demarcaciones territoriales o asentamientos humanos que cuenten con ciudades de 250 mil o más habitantes y que comparten procesos de conurbación con ciudades de Estados Unidos de América;
+En aquéllos poblados, municipios, demarcaciones territoriales o asentamientos humanos que cuenten con ciudades de 250 mil o más habitantes y que comparten procesos de conurbación con ciudades de Estados Unidos de América.
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-XXVI. Zona Conurbada o Metropolitana Interestatal: Aquella zona conurbada o metropolitana cuyos límites colinden con otra entidad federativa. Para su planeación y desarrollo se estará, además de lo dispuesto en la presente la Ley, a lo dispuesto en la Ley General de Asentamientos Humanos.
+XXVII. Zona Conurbada o Metropolitana Interestatal: aquella zona conurbada o metropolitana cuyos límites colinden con otra entidad federativa. Para su planeación y desarrollo se estará, además de lo dispuesto en la presente la (sic) Ley, a lo dispuesto en la Ley General de Asentamientos Humanos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-XXVII. Polígonos: Es la unidad urbanística constituida por una superficie de terreno, delimitada para fines de valoración catastral, ordenación urbana, planificación industrial, comercial, residencial.
+XXVIII. Polígonos: Es la unidad urbanística constituida por una superficie de terreno, delimitada para fines de valoración catastral, ordenación urbana, planificación industrial, comercial, residencial.
 
-> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 2013)</small>
 
-XXVIII.- Vivienda Digna: Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos y construcción, habitabilidad, salubridad, cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
+XXIX. Vivienda Digna: Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos y construcción, habitabilidad, salubridad, cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
 
 Para efectos de lo dispuesto en esta fracción, la vivienda deberá contar con espacios habitables y de higiene suficiente, adecuada iluminación y ventilación, servicios públicos básicos de agua potable, drenaje, alcantarillado, energía eléctrica y acceso a vías de comunicación así como condiciones de seguridad estructural y la adecuación al clima con criterios de sustentabilidad y eficiencia energética.
 
@@ -1425,7 +1461,9 @@ Con base en los Programas Municipales de Desarrollo Urbano de Centros de Poblaci
 
 Se consideran espacios susceptibles de ser dedicados a la conservación:
 
-I. Los que posean características naturales, como la existencia de bosques, praderas, mantos acuíferos, especies endémicas de flora y fauna en vías de extinción, así como respetar las reservas ecológicas, parques nacionales, monumentos naturales, parques urbanos y zonas sujetas a conservación ecológica y otros elementos que condicionen el equilibrio ecológico;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+
+I. Los que posean características naturales, como la existencia de bosques, praderas, mantos acuíferos, especies endémicas de flora y fauna en vías de extinción, así como respetar las reservas ecológicas, parques nacionales, monumentos naturales, parques urbanos, áreas verdes y zonas sujetas a conservación ecológica y otros elementos que condicionen el equilibrio ecológico;
 
 II. Los dedicados en forma habitual y adecuada a las actividades agropecuarias;
 
@@ -1508,6 +1546,10 @@ La reglamentación del uso y conservación de los parques urbanos corresponderá
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2013)</small>
 
 En la reglamentación a que se refiere el párrafo anterior, se buscará prever aquellas disposiciones que tengan por objeto impulsar la implementación de la conexión gratuita a internet en los parques urbanos.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2013)</small>
+
+Los Municipios garantizarán su mantenimiento y protección evitando en todo momento cualquier acción que signifique la disminución de su superficie.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
@@ -2708,3 +2750,7 @@ DECRETO NÚMERO 452, POR EL QUE SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL
 P.O. 24 DE MAYO DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE AGOSTO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
