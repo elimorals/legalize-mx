@@ -4,7 +4,7 @@ identifier: "COA-ley-de-procedimiento-administrativo-para-el-estado-de-56888"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-17"
-last_updated: "2007-08-17"
+last_updated: "2013-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 17 de agosto de 2007.
 
@@ -389,23 +389,31 @@ Los interesados podrán solicitar que les sea expedida, a su costa, copia certif
 
 ### CAPÍTULO SEXTO. DE LAS NOTIFICACIONES
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 43.
 
-Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos y las resoluciones administrativas definitivas podrán realizarse:
+Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos, las resoluciones administrativas definitivas podrán realizarse:
 
-I. Personalmente con quien deba entenderse la diligencia, en el domicilio del interesado;
+I. Personalmente con quien deba entenderse la diligencia, en el domicilio del interesado o en el señalado para tal efecto. Sin perjuicio de que la notificación de estos actos pueda efectuarse en las oficinas de las Autoridades Administrativas competentes, si las personas a quienes deba notificarse se presentan en las mismas. En este último caso, se asentará la razón correspondiente;
 
-II. Mediante oficio entregado por mensajero o correo certificado, con acuse de recibo. También podrá realizarse mediante telefax, medios de comunicación electrónica o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse fehacientemente la recepción de los mismos, o
+II. Mediante oficio entregado por mensajero o correo certificado, con acuse de recibo. También podrá realizarse mediante telefax, medios de comunicación electrónica o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente.
 
 III. Por edicto, cuando se desconozca el domicilio del interesado o en su caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal.
 
-Tratándose de actos distintos a los señalados anteriormente, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o, previa solicitud por escrito del interesado, a través de telefax, medios de comunicación electrónica u otro medio similar, siempre que pueda comprobarse fehacientemente la recepción de los mismos.
+Tratándose de actos distintos a los señalados anteriormente, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o, previa solicitud por escrito del interesado, a través de telefax, medios de comunicación electrónica u otro medio similar, previa solicitud por escrito del interesado o en las oficinas de las Autoridades (sic)
+
+Administrativas, si se presentan las personas que han de recibirlas.
 
 Salvo cuando exista impedimento jurídico para hacerlo, la resolución administrativa definitiva podrá notificarse al interesado por medio de correo certificado o mensajería, en ambos casos con acuse de recibo, siempre y cuando los solicitantes hayan adjuntado al promover el trámite el comprobante de pago del servicio respectivo.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 44.
 
-Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado ante los órganos administrativos en el procedimiento administrativo de que se trate. En todo caso, el notificador deberá cerciorarse del domicilio del interesado y deberá entregar copia del acto que se notifique y señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
+Las notificaciones personales se harán en el domicilio del interesado o en su caso en aquel que haya señalado el interesado en el lugar donde se encuentren las Autoridades Administrativas o bien, personalmente en el recinto oficial de éstas, cuando comparezcan voluntariamente a recibirlas.
+
+En los dos primeros casos, el notificador deberá cerciorarse que se trata del domicilio del interesado o del designado para esos efectos y deberá entregar el original del acto que se notifique y copia de la constancia de notificación respectiva, así como señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
 
 Las notificaciones personales, se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato.
 
@@ -414,6 +422,12 @@ Si la persona a quien haya de notificarse no atendiere el citatorio, la notifica
 De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
 
 Cuando las leyes respectivas así lo determinen o se desconozca el domicilio de los titulares de los derechos afectados, tendrá efectos de notificación personal la segunda publicación del acto respectivo en el Periódico Oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación en el lugar donde se deba de efectuar dicha notificación.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2013)</small>
+
+###### Artículo 44. Bis.
+
+Los particulares deberán señalar domicilio en la ciudad en la que se encuentre la autoridad administrativa correspondiente, misma que deberá así requerirlo al interesado, para que en él se hagan las notificaciones personales indicadas en esta ley así como notificar a la autoridad el cambio del mismo. En caso de no cumplir con esta obligación, las notificaciones que deban ser personales se harán por cualquier medio señalado en el artículo 43 fracción II de la presente Ley.
 
 ###### Artículo 45.
 
@@ -936,3 +950,11 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE AGOSTO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
