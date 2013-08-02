@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2013-05-24"
+last_updated: "2013-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -179,9 +179,13 @@ VI. El establecimiento de sitios de confinamiento y disposición final de residu
 
 VII. Los fondos ambientales.
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-VIII. La conservación del hábitat natural en que se desarrolla la vida silvestre.
+VIII. La conservación del hábitat natural en que se desarrolla la vida silvestre, y
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2013)</small>
+
+IX. El establecimiento y conservación de parques urbanos y áreas verdes estatales y municipales localizadas en los centros de población.
 
 ###### ARTÍCULO 4.
 
@@ -2792,3 +2796,7 @@ P.O. 24 DE MAYO DE 2013.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El titular del Poder Ejecutivo y los Ayuntamientos del Estado en el ámbito de su competencia, deberán expedir en un plazo no mayor a 60 días el Reglamento de Operación de los Fondos Ambientales establecidos en los artículos 3, 13, 38, 39 y 104 de la Ley de Protección al Ambiente para el Estado de Baja California.
+
+P.O. 2 DE AGOSTO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
