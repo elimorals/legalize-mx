@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2013-06-26"
+last_updated: "2013-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2013.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -2005,11 +2005,21 @@ En todo el Estado se dará entero crédito y valor a los actos ejecutados por la
 
 (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2000)
 
-(REFORMADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 147.
 
-El matrimonio es un contrato civil entre un solo hombre y una sola mujer que se unen para perpetuar la especie y ayudarse en la vida.
+Las relaciones conyugales se establecen por medio de un contrato civil celebrado entre dos personas, con la finalidad de formar una familia, establecer un hogar común, con voluntad de permanencia, para procurarse y ayudarse mutuamente en su vida.
+
+En el Estado existen dos tipos de relaciones conyugales:
+
+I.- Matrimonio: Es aquel que se celebra entre un solo hombre y una sola mujer; y
+
+II.- Enlace Conyugal: Es aquel que se celebra entre dos personas del mismo sexo.
+
+A quienes celebren una relación conyugal se les denominará indistintamente, cónyuges, consortes, esposos o casados.
+
+La ley reglamentará las relaciones conyugales.
 
 ###### Artículo 148.
 
@@ -3022,6 +3032,10 @@ P.O. 5 DE ENERO DE 2013.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 26 DE JUNIO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE AGOSTO DE 2013.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
