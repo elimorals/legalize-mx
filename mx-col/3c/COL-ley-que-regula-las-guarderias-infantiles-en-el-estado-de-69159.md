@@ -4,7 +4,7 @@ identifier: "COL-ley-que-regula-las-guarderias-infantiles-en-el-estado-de-69159"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-20"
-last_updated: "2009-06-20"
+last_updated: "2013-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY QUE REGULA LAS GUARDERIAS INFANTILES EN EL ESTADO DE COLIMA
 
-LEY QUE REGULA LAS GUARDERIAS INFANTILES EN EL ESTADO DE COLIMA
+LEY QUE REGULA LAS GUARDERÍAS INFANTILES EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 3 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2013 (ABROGADA).
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 20 de junio de 2009.
 
@@ -764,3 +766,25 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 15 del mes de junio del año dos mil nueve.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO, LICDA. YOLANDA VERDUZCO GUZMÁN. Rúbrica. EL ENCARGADO DEL DESPACHO DE LA SECRETARIA DE DESARROLLO SOCIAL, C.P. LUIS MARIO LEÓN LÓPEZ. Rúbrica. EL SECRETARIO DE EDUCACIÓN Y DIRECTOR GENERAL DE LA COORDINACIÓN DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA, PROFR. MARGARITO ESPINOSA MIJARES. Rúbrica. EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL Y PRESIDENTE EJECUTIVO DE LOS SERVICIOS DE SALUD DEL ESTADO, DR. JOSÉ SALAZAR AVIÑA. Rúbrica. EL DIRECTOR GENERAL DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, C. JULIO IGNACIO MARTÍNEZ DE LA ROSA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE AGOSTO DE 2013.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima". Por lo tanto a partir del inicio de su vigencia todos los Centros de Atención Infantil que operan en el Estado se ajustarán a sus disposiciones.
+
+SEGUNDO.- El Titular del Poder Ejecutivo Estatal y los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias y con apego a las disposiciones contenidas en el presente ordenamiento, expedirán las normas reglamentarias dentro de los 180 días siguientes a la entrada en vigor de la misma y tomarán las medidas administrativas necesarias a efecto de dar cumplimiento a esta Ley.
+
+TERCERO.- Se abroga la Ley que regula las Guarderías Infantiles en el Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima" el 20 de junio de 2009.
+
+CUARTO.- El Instituto de Educación Inicial del Estado de Colima, creado mediante decreto publicado en el Periódico oficial "EL ESTADO DE COLIMA" del día 25 de Julio del año 2009, para su funcionamiento se ajustará a lo dispuesto en la presente Ley, lo que se oponga a la misma quedará sin efecto.
+
+QUINTO.- La Coordinación deberá instalarse en un plazo que no excederá de 60 días a partir de la entrada en vigor de esta Ley.
+
+SEXTO.- Los prestadores de servicios para la atención, cuidado y desarrollo integral infantil que se encuentren operando con anterioridad a la entrada en vigor a esta Ley, contarán con un plazo de un año a partir de la entrada en vigor del presente decreto para adecuar los Centros de Atención Infantil y su normatividad interna con base en lo dispuesto en la presente Ley.
+
+SÉPTIMO.- La Coordinación, por conducto de la Secretaría de Educación del Estado y la Coordinación de Servicios educativos del Estado, verificarán que el personal de los Centros de Atención Infantil cuente con la formación profesional para prestar el servicio.
+
+OCTAVO.- Las Autoridades Municipales modificarán sus reglamentos para la aplicación de la presente Ley, previendo incluso la clausura del Centro de atención Infantil, de no cumplir con los requisitos de uso de suelo y medidas de Protección Civil que pongan en peligro la salud o vida de las niñas y los niños de conformidad con las disposiciones jurídicas aplicables." (sic)
+
+NOVENO.- La Coordinación a que se refiere esta Ley, tendrá 180 días contados a partir de su instalación para elaborar la Política Estatal en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil y la elaboración de un diagnóstico sobre el estado que guardan los Centros de Atención a nivel Estatal.
