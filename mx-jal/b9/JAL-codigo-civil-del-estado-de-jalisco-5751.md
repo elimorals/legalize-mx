@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2013-07-27"
+last_updated: "2013-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -3669,35 +3669,39 @@ Es interés superior el que los menores de edad se desarrollen en un ambiente fa
 
 I. Con sus padres biológicos o adoptivos;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2013)</small>
 
-II. Cuando no convivan ambos padres, con la madre si es que exista la disposición y la posibilidad afectiva de su custodia y además, no tiene una conducta nociva a la salud física o psíquica del menor;
+II. Cuando no convivan ambos padres biológicos o adoptantes, cualquiera de los dos ejercerá sobré él la custodia, siempre y cuando tengan la disposición y la posibilidad efectiva de su custodia, además de no tener una conducta nociva a la salud física o psíquica del menor; en caso de que exista igualdad de circunstancias, ambos convendrán quién de ellos ejercerá la custodia; en caso de que no lo hicieren, el Juez, oyendo a los padres, y si considera conveniente a los familiares o personas con las que estén ligados y al Consejo de Familia, resolverá;
 
-III. En caso contrario a lo previsto en la fracción anterior, corresponderá la custodia al padre, siempre que reúna los mismos requisitos de disposición y posibilidad afectiva de custodia, así como buena conducta;
+III. (DEROGADA, P.O. 3 DE AGOSTO DE 2013)
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2013)</small>
 
-IV. Cuando ninguno de los padres tenga la custodia del menor; ésta podrá ser confiada a los ascendentes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de afecto, nacido y sancionado por actos religiosos o respetados por la costumbre; siempre y cuando el medio sea idóneo para el menor;
+IV. Cuando ninguno de los dos padres biológicos o adoptivos tenga la custodia del menor de edad, ésta podrá ser confiada, por el Juez, a los ascendientes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de amistad profunda o el afecto nacido y sancionado por los actos religiosos o respetados por la costumbre, siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2013)</small>
 
-V. Establecimientos públicos previamente constituidos para esos fines; organismos descentralizados que otorguen esas prestaciones y en las instituciones de particulares especialmente instituidos para ello;
+V. En convivencia dentro de familias sustitutas, que a través de la custodia personal autorizada por el Juez y supervisada por el Consejo de Familia, sea estatal, municipal o intermunicipal; siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres, y
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2013)</small>
 
-VI. En convivencia con persona (sic) a quienes se les autorice la custodia personal.
+VI. En instituciones públicas o privadas que alberguen menores a través de custodia institucional; deberá el juez cerciorarse que el medio es idóneo para el menor.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
 
-En cualquiera de los supuestos previstos en las fracciones que anteceden, los padres tienen el deber y el derecho de visitar y convivir con sus hijos, para que no se pierdan los vínculos afectivos que nacen de toda relación paterno-filial, y en caso de menores sujetos a la tutela o custodia de alguna institución, estas deberán de vigilar dicha convivencia.
+En cualquiera de los supuestos previstos en las fracciones que anteceden, los progenitores o adoptantes tienen el deber y el derecho de visitar y convivir con sus hijos para que no se pierdan los vínculos afectivos que nacen de toda relación paterna filial Y en caso de menores sujetos a la tutela o custodia de alguna institución, éstas deberán vigilar dicha convivencia.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2013)</small>
 
-Los huérfanos y los niños privados de la asistencia de sus padres o tutores deben gozar de una protección especial por parte de la sociedad y del Estado.
+En los casos de las fracciones V y VI, la convivencia será autorizada por el Juez y supervisada por el Consejo de Familia.
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
 
-En todos los casos el Consejo de familia estatal, municipal o intermunicipal, deberá cerciorarse de que las personas que vayan a ejercer la custodia del menor sean idóneas y cumplan con todos los requisitos de ley.
+En todos los casos el Consejo de Familia, estatal, municipal o intermunicipal, deberá cerciorarse de que las personas que vayan a ejercer la custodia del menor sean idóneas y que cumplan con los requisitos de ley.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
+
+Los huérfanos y los niños privados de la asistencia de sus padres o tutores deben gozar de una protección especial por parte del Estado.
 
 ### CAPITULO III. De los modos de acabarse y suspenderse la patria potestad
 
@@ -18180,5 +18184,9 @@ P.O. 25 DE JULIO DE 2013.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 27 DE JULIO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE AGOSTO DE 2013
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
