@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-organo-garante-de-transparencia-86530"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-18"
-last_updated: "2012-02-18"
+last_updated: "2013-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL ÓRGANO GARANTE DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 3 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de febrero de 2012.
 
@@ -915,3 +917,15 @@ Comisionado Presidente.-Rúbrica
 DR. RAÚL ÁVILA ORTIZ
 
 Comisionado.-Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE AGOSTO DE 2013.
+
+PRIMERO: El presente Reglamento entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se deroga El reglamento interior del Órgano Garante de Transparencia, Acceso a la Información Publica y Protección de Datos Personales del Estado de Oaxaca· publicado en el Periódico Oficial del Gobierno del Estado el dieciocho de febrero del año dos mil doce.
+
+TERCERO: Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente reglamento.
+
+CUARTO: La Comisión contará con un periodo de ciento ochenta días a partir de la entrada en vigor del presente Reglamento, para realizar las adecuaciones administrativas y emitir los manuales de procedimientos y organización que permitan la mejor aplicación de este ordenamiento.
