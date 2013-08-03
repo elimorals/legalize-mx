@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-las-ninas-los-ninos-y-adolescentes-34462
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-25"
-last_updated: "2012-08-18"
+last_updated: "2013-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2003.
 
@@ -207,31 +207,49 @@ Las niñas, niños y adolescentes no podrán ser separados de sus padres sino me
 
 En cualquiera de los casos, se escuchará la opinión del menor, la cual será valorada acorde a su edad.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 12.
 
-Es interés superior el que los menores de edad se desarrollen en un ambiente familiar sano, de conformidad a lo señalado en el Código Civil y, cuando el Juez de la causa considere que es lo más conveniente al menor, debe privilegiarse el siguiente orden de preferencias:
+Es interés superior el que los menores de edad se desarrollen en un ambiente familiar sano, de conformidad con lo señalado en el Código Civil, y cuando el Juez de la causa considere que es lo más conveniente al menor, debe considerarse el siguiente orden de preferencias:
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 I. Con sus padres biológicos o adoptivos;
 
-II. Cuando no convivan ambos progenitores o adoptantes, con la madre biológica o adoptiva si es que existe la disposición y la posibilidad afectiva de su custodia y además no tiene una conducta nociva a la salud física o psíquica del menor de edad;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2013)</small>
 
-III. En caso contrario a lo previsto en la fracción anterior corresponderá la custodia al padre biológico o adoptivo siempre que reúna los mismos requisitos de disposición y posibilidad afectiva de custodia, así como buena conducta;
+II. Cuando no convivan ambos padres biológicos o adoptantes, cualquiera de los dos ejercerá sobré él la custodia, siempre y cuando tengan la disposición y la posibilidad efectiva de su custodia, además de no tener una conducta nociva a la salud física o psíquica del menor; en caso de que exista igualdad de circunstancias, ambos convendrán quién de ellos ejercerá la custodia; en caso de que no lo hicieren, el Juez, oyendo a los padres, y si considera conveniente a los familiares o personas con las que estén ligados y al Consejo de Familia, resolverá;
+
+III. (DEROGADA, P.O. 3 DE AGOSTO DE 2013)
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 IV. Cuando ninguno de los dos padres biológicos o adoptivos tenga la custodia del menor de edad, ésta podrá ser confiada a los ascendientes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de amistad profunda o al afecto nacido y sancionado por los actos religiosos o respetados por la costumbre, siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres;
 
-V. En convivencia dentro de familias sustitutas, que a través de la custodia personal supervisará el consejo de familia, sea estatal, municipal o intermunicipal;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2013)</small>
 
-VI. En Instituciones públicas o privadas que alberguen menores a través de custodia institucional, y
+V. En convivencia dentro de familias sustitutas, que a través de la custodia personal supervisará el Consejo de Familia, sea estatal, municipal o intermunicipal; siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres, y
 
-VII. Los huérfanos y los niños privados de la asistencia de sus padres o tutores, deben gozar de una protección especial por parte del Estado.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2013)</small>
 
-En los supuestos previstos en las fracciones de la I a la IV, los progenitores o adoptantes tienen el deber y el derecho de visitar y convivir con sus hijos para que no se pierdan los vínculos afectivos que nacen de toda relación paterno filial.
+VI. En instituciones públicas o privadas que alberguen menores a través de custodia institucional; deberá el juez de la causa cerciorarse que el medio es idóneo para el menor.
 
-En los casos de las fracciones V y VI, será el Consejo de Familia quien autorice y en su en caso supervise esta convivencia.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
 
-En todos los casos el consejo de familia estatal, municipal o intermunicipal, deberá cerciorarse de que las personas que vayan a ejercer la custodia del menor sean idóneas y que cumplan con los requisitos de ley.
+En los supuestos previstos en las fracciones de la I a la IV, los progenitores o adoptantes tienen el deber y el derecho de visitar y convivir con sus hijos para que no se pierdan los vínculos afectivos que nacen de toda relación paterno filial. Y en caso de menores sujetos a la tutela o custodia de alguna institución, estas deberán vigilar dicha convivencia.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
+
+En los casos de las fracciones V y VI, la convivencia será autorizada por el Juez y supervisada por el Consejo de Familia.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
+
+En todos los casos el Consejo de Familia, estatal, municipal o intermunicipal, deberá cerciorarse de que las personas que vayan a ejercer la custodia del menor sean idóneas y que cumplan con los requisitos de ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE AGOSTO DE 2013)</small>
+
+Los huérfanos y los niños privados de la asistencia de sus padres o tutores deben gozar de una protección especial por parte del Estado.
 
 ###### Artículo 13.
 
@@ -860,3 +878,7 @@ P.O. 18 DE AGOSTO DE 2012.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Para la implementación de los programas, mecanismos y protocolos de seguridad para la búsqueda inmediata de menores que se indican en la fracción VIII del artículo 40 de esta reforma, se observará en materia de secuestro a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 3 DE AGOSTO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
