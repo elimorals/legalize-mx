@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2013-07-20"
+last_updated: "2013-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -803,7 +803,9 @@ Las zonas con población distante, dispersa y en condiciones de marginación, de
 
 La educación secundaria se impartirá a quienes hayan acreditado la educación primaria.
 
-En los centros educativos matutinos y vespertinos se registrará a las y los alumnos que acrediten tener menos de quince años al momento de la inscripción; para los de quince años o más, la educación secundaria se impartirá fundamentalmente en turno nocturno.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
+
+En los centros educativos matutinos y vespertinos se registrará a las y los alumnos que acrediten tener menos de quince años al momento de la inscripción, lo anterior será con independencia del grado de secundaria al que los alumnos soliciten registrarse; para los de quince años o más, la educación secundaria se impartirá preferentemente el turno nocturno.
 
 La secundaria abierta se sujetará a lo dispuesto por la reglamentación correspondiente.
 
@@ -917,9 +919,17 @@ La Autoridad Educativa Estatal y los Ayuntamientos otorgarán becas a las y los 
 
 La educación especial está destinada a atender y apoyar a personas que, derivado o no de una discapacidad, transitoria o definitiva, requieran para su desempeño escolar, de adecuaciones curriculares. Su cobertura será garantizada a través de la atención a las y los educandos y deberá ser acorde a sus condiciones y necesidades, con equidad social y perspectiva de género, tomando en cuenta los siguientes criterios:
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 3 DE AGOSTO DE 2013)</small>
 
-I. La educación que se imparta procurará, como primera opción, su integración a cualquier plantel de educación básica; para quienes no logren la incorporación, esta educación perseguirá la satisfacción de necesidades básicas de aprendizaje y el desarrollo de actividades prelaborales y para la vida, promoviendo su propio desenvolvimiento en el entorno social y laboral. Los alumnos y alumnas con aptitudes sobresalientes y/o talentos específicos, serán atendidos en instituciones educativas de nivel medio superior y superior con las que se lleven a cabo convenios de colaboración en los términos de gratuidad establecidos por la norma constitucional, o bien, en las creadas para dicho fin;
+I. La educación que se imparta procurará, como primera opción, su integración a cualquier plantel de educación básica; para quienes no logren la incorporación, esta educación perseguirá la satisfacción de necesidades básicas de aprendizaje y el desarrollo de actividades prelaborales y para la vida, promoviendo su propio desenvolvimiento en el entorno social y laboral.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2013)</small>
+
+Para la identificación y atención educativa de los alumnos con aptitudes sobresalientes y/o talentos específicos, la autoridad educativa del Estado, con base en sus facultades y disponibilidad presupuestal, se sujetará en el ámbito de su competencia a los lineamientos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en educación básica, educación normal, media superior y superior, que establezca la autoridad educativa federal.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2013)</small>
+
+Las instituciones educativas de nivel medio superior y superior podrán establecer convenios de colaboración en los términos de gratuidad establecidos por la norma constitucional, a fin de homologar criterios para la atención, evaluación, acreditación y certificación dirigidos a alumnos y alumnas con aptitudes sobresalientes y/o talentos específicos;
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -3533,15 +3543,25 @@ DECRETO No. 1295/2013 II P.O. POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTICUL
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 3 DE AGOSTO DE 2013.
+
+DECRETO NO. 1258/2013 II P.O. POR EL QUE SE REFORMA Y SE ADICIONAN DOS PÁRRAFOS A LA FRACCIÓN I DEL ARTÍCULO 51, DE LA LEY ESTATAL DE EDUCACIÓN.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE AGOSTO DE 2013.
+
+DECRETO NO. 1290/2013 II P.O. POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 41, DE LA LEY ESTATAL DE EDUCACIÓN.
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2018, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-B.O. 26 DE DICIEMBRE DE 2017.
+La autoridad educativa deberá adecuar toda la reglamentación correspondiente a la presente reforma.
 
 ###### ARTÍCULO PRIMERO.
 
