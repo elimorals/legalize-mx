@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-adquisiciones-arrendamientos-servicios-y-obra-855
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-27"
-last_updated: "2012-01-27"
+last_updated: "2013-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y OBRA PÚBLICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE AGOSTO DE 2013.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de enero de 2012.
 
@@ -111,7 +111,9 @@ Excepciones
 
 Lo dispuesto en el presente Reglamento no será aplicable en los casos siguientes:
 
-I. Respecto de los contratos o convenios de colaboración que el Tribunal celebre con dependencias de Gobierno, tanto Federales, Estatales o Municipales;
+> <small>(REFORMADA, D.O. 6 DE AGOSTO DE 2013)</small>
+
+l. Respecto de los contratos o convenios de colaboración que el Tribunal celebre con dependencias o entidades públicas, tanto Federales, Estatales o Municipales;
 
 II. En la contratación de servicios subordinados y profesionales bajo el régimen de honorarios que se rigen por la ley laboral y civil respectivamente, así como la contratación de servicios de auditoría externa u otros en los que se requiera confidencialidad, y
 
@@ -149,11 +151,15 @@ Integración del Comité
 
 El Comité de Adquisiciones se integrará de los miembros siguientes:
 
-I. Presidente: El Presidente del Tribunal, quien en sus ausencias será suplido por el Magistrado que designe el Pleno;
+> <small>(REFORMADA, D.O. 6 DE AGOSTO DE 2013)</small>
+
+I. Presidente: El Presidente del Tribunal, quien en sus ausencias será suplido por el Magistrado que quede en funciones de Presidente del Tribunal por designación del Pleno, o bien, por el Magistrado que designe el propio Comité de entre sus integrantes;
 
 II. Secretario Ejecutivo: El titular de la Secretaría General de Acuerdos del Tribunal, y
 
-III. Vocales: Los Magistrados Presidentes de cada Sala del Tribunal, en el caso de las Salas Colegiadas, y los Magistrados de las Salas Unitarias. Los vocales serán suplidos en sus ausencias por otros Magistrados de la propia Sala.
+> <small>(REFORMADA, D.O. 6 DE AGOSTO DE 2013)</small>
+
+III. Vocales: Los Magistrados Presidentes de cada Sala del Tribunal, en el caso de las Salas Colegiadas, y los Magistrados de las Salas Unitarias. Los vocales serán suplidos en sus ausencias por otros Magistrados de la propia Sala. En el caso de ausencia de los Magistrados Unitarios, esta será suplida por algún servidor público adscrito a dichas Salas que designe el titular.
 
 Únicamente el Presidente y los Vocales del Comité de Adquisiciones tendrán derecho a voz y voto.
 
@@ -251,7 +257,9 @@ II. Para la validez de las sesiones se requerirá de la presencia de cuatro de l
 
 III. Para la validez de las decisiones del Comité de Adquisiciones, se requiere el voto aprobatorio de la mayoría de los integrantes asistentes a la sesión. En caso de empate, el Presidente tendrá voto de calidad;
 
-IV. El Comité de Adquisiciones evaluará los expedientes eligiendo aquella cotización que ofrezca mejores condiciones de precio, calidad, garantía, plazo de entrega y financiamiento;
+> <small>(REFORMADA, D.O. 6 DE AGOSTO DE 2013)</small>
+
+IV. El Comité de Adquisiciones evaluará los expedientes eligiendo aquella cotización que ofrezca mejores condiciones de acuerdo a los criterios de selección previstos en el artículo 39 de este Reglamento;
 
 V. El Secretario Ejecutivo levantará un acta de cada sesión, la cual firmarán los asistentes, y
 
@@ -313,7 +321,9 @@ III. Aquellas en que cualquier miembro del Comité de Adquisiciones, tenga inter
 
 IV. Aquellos proveedores que, por causas imputables a ellos mismos, el Tribunal les hubiere rescindido administrativamente más de un contrato cualquiera que sea la causa o motivo;
 
-V. Las que se encuentren inhabilitadas por resolución de la Secretaría de la Contraloría General del Estado de Yucatán o la Secretaría de la Función Pública del Poder Ejecutivo Federal;
+> <small>(REFORMADA, D.O. 6 DE AGOSTO DE 2013)</small>
+
+V. Las que se encuentren inhabilitadas por resolución de los órganos de control interno del Poder Judicial, de la Secretaría de la Contraloría General del Estado de Yucatán o por el órgano o instancia con funciones equivalentes en el orden federal;
 
 VI. Las que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores o que alguna resolución judicial las haya condenado por delito o incumplimiento de contrato;
 
@@ -373,17 +383,23 @@ Se entenderá que se fraccionan las compras o adquisiciones, cuando se realicen 
 
 Excepciones
 
+> <small>(REFORMADO, D.O. 6 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 23.
 
-Se podrán contratar adquisiciones, arrendamientos y servicios mediante adjudicación directa, aún cuando el valor máximo exceda del límite establecido en el acuerdo general a que alude el artículo 20, en los siguientes supuestos:
+Se podrán contratar adquisiciones, arrendamientos y servicios mediante adjudicación directa, aun cuando el valor máximo exceda del límite establecido en el acuerdo general a que alude el artículo 20, en los siguientes supuestos:
 
-I. Cuando el contrato sólo pueda celebrarse con un determinado proveedor por tratarse de bienes o servicios con características técnicas o marcas específicas, obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
+l. Cuando el contrato sólo pueda celebrarse con un determinado proveedor por tratarse de bienes o servicios con características técnicas o marcas específicas, obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
 
 II. Cuando se trate de adquisiciones y arrendamientos de bienes y contratación de servicios, que a consideración del Comité de Adquisiciones, de no efectuarse de manera inmediata pongan en peligro la implementación u operación de los fines, programas, planes o funcionamiento del Tribunal;
 
-III. Cuando las adquisiciones, arrendamientos y contratación de servicios requieran de un desarrollo creativo o un servicio especializado, y
+III. Cuando las adquisiciones, arrendamientos y contratación de servicios requieran de un desarrollo creativo o un servicio especializado;
 
-IV. En caso de que una adjudicación por invitación restringida o licitación pública, sea declarada desierta por segunda ocasión.
+IV. En caso de que un procedimiento de licitación pública, sea declarado desierto, siempre que se mantengan los requisitos establecidos en la convocatoria cuyo incumplimiento haya sido considerado como causa de desechamiento;
+
+V.- En caso de que un procedimiento por invitación restringida sea declarado desierto por segunda ocasión, y
+
+VI. Cuando se trate de adquisiciones de bienes perecederos, granos, productos alimenticios básicos o semiprocesados.
 
 Procedimiento
 
@@ -423,9 +439,11 @@ Una vez cumplido el plazo para la presentación de las propuestas, el Comité de
 
 Publicación de la convocatoria
 
+> <small>(REFORMADO, D.O. 6 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 28.
 
-Para llevar a cabo adquisiciones, arrendamientos y contratación de servicios mediante licitación pública, y previo dictamen sobre la procedencia de tal proceso de adjudicación, el Comité de Adquisiciones expedirá una convocatoria, la cual deberá ser publicada en el Diario Oficial del Gobierno del Estado y en la página de Internet del Poder Judicial del Estado, con quince días hábiles de anticipación a la fecha límite para la recepción de solicitudes, estableciendo en ella el día de la reunión de aclaraciones. Dicha publicación también podrá hacerse en, al menos, un periódico local de mayor circulación.
+Para llevar a cabo adquisiciones, arrendamientos y contratación de servicios mediante licitación pública y previo dictamen sobre la procedencia de tal proceso de adjudicación, el Comité de Adquisiciones expedirá una convocatoria, la cual deberá ser publicada en el Diario Oficial del Gobierno del Estado y en la página de Internet del Poder Judicial del Estado, con diez días hábiles de anticipación a la fecha límite para la recepción de solicitudes, estableciendo en ella el día de la reunión de aclaraciones. Dicha publicación también podrá hacerse en, al menos, un periódico local de mayor circulación.
 
 Requisitos de la convocatoria
 
@@ -535,11 +553,17 @@ I. La seriedad de las propuestas, mediante cheque cruzado por el 10% del monto d
 
 II. La correcta aplicación de los anticipos que, en su caso, reciban, a través de una póliza de fianza por el 100% del monto del anticipo, y
 
-III. El cumplimiento del contrato y la calidad de los bienes y servicios solicitados, a través de una póliza de fianza por el 10 % del monto total contratado.
+> <small>(REFORMADA, D.O. 6 DE AGOSTO DE 2013)</small>
 
-El documento que ampare la garantía de cumplimiento del contrato y la de calidad de los bienes o servicios adquiridos se deberá expedir en un plazo no mayor de diez días hábiles posteriores a la fecha de la adjudicación. No se entregará cantidad alguna por concepto de anticipo en tanto no se entregue a la Unidad de Administración la garantía mencionada.
+III. El cumplimiento del contrato, a través de una póliza de fianza por el 10 % del monto total contratado.
 
-Los términos de la presentación de las garantías y los casos en que éstas se harán efectivas, serán establecidos en las bases de la licitación correspondiente. Las garantías en todos los casos se constituirán a favor del Tribunal.
+> <small>(REFORMADO, D.O. 6 DE AGOSTO DE 2013)</small>
+
+El documento que ampare la garantía de cumplimiento de contrato se deberá expedir en un plazo no mayor de diez días hábiles posteriores a la fecha de la adjudicación. No se entregará cantidad alguna por concepto de anticipo en tanto no se entregue a la Unidad de Administración la garantía mencionada.
+
+> <small>(REFORMADO, D.O. 6 DE AGOSTO DE 2013)</small>
+
+Los términos de la presentación de las garantías y los casos en que éstas se harán efectivas, serán establecidos en las bases de la licitación correspondiente. Las garantías en todos los casos se constituirán a favor del Poder Judicial del Estado-Tribunal Superior de Justicia del Estado.
 
 La Unidad de Administración conservará en custodia las garantías otorgadas para la seriedad de las propuestas hasta diez días después de la fecha del fallo, fecha en la que serán devueltas a los licitantes, salvo a aquél a quien se hubiere adjudicado el contrato, la que se retendrá hasta el momento en que el proveedor constituya la garantía de cumplimiento del contrato correspondiente.
 
@@ -615,13 +639,17 @@ Fallo
 
 El fallo de la licitación emitido por el Comité de Adquisiciones y firmado por el Presidente, se dará a conocer el día programado, en junta pública, a la que libremente pueden asistir los proveedores que hubieren comprado las bases. El fallo deberá estar fundado y motivado y podrá ser publicado en la página de internet del Tribunal.
 
-Adjudicación desierta
+> <small>(REFORMADO EN SU RUBRO, D.O. 6 DE AGOSTO DE 2013)</small>
+
+Licitación desierta
 
 ###### ARTÍCULO 41.
 
 El Comité de Adquisiciones procederá a declarar desierta una licitación pública, cuando no se reciba propuesta alguna, o la totalidad de las propuestas sean desechadas o descalificadas, haciéndose constar esta circunstancia en el acta correspondiente.
 
-En el supuesto del párrafo anterior, cuando por segunda ocasión se lleve a cabo el procedimiento correspondiente, se haya concluido éste y nuevamente se declare desierto, se seleccionará por adjudicación directa al proveedor que cumpla con los requisitos establecidos y garantice las mejores condiciones, a juicio del Comité de Adquisiciones.
+> <small>(REFORMADO, D.O. 6 DE AGOSTO DE 2013)</small>
+
+Cuando el procedimiento de licitación se haya concluido y se declare desierto, se seleccionará por adjudicación directa, conforme al procedimiento previsto en el artículo 24 de este Reglamento, al proveedor que cumpla con los requisitos establecidos y garantice las mejores condiciones, a juicio del Comité de Adquisiciones.
 
 Requisitos para suscribir el contrato
 
@@ -643,29 +671,49 @@ Requisito para adjudicación
 
 Será requisito indispensable para la adjudicación del proveedor, que éste se encuentre previamente inscrito en el Padrón de Proveedores del Tribunal. Dicha inscripción será gratuita.
 
+> <small>(ADICIONADO, D.O. 6 DE AGOSTO DE 2013)</small>
+
+La Unidad de Administración llevará el Padrón de Proveedores del Tribunal, por conducto del Departamento de Servicios Generales y Mantenimiento, y clasificará a las personas inscritas de acuerdo con su actividad.
+
 Requisitos de inscripción en el Padrón de Proveedores
+
+> <small>(REFORMADO, D.O. 6 DE AGOSTO DE 2013)</small>
 
 ###### ARTÍCULO 45.
 
-Para poder ser inscrito en el Padrón de Proveedores del Tribunal, los interesados deberán satisfacer los siguientes requisitos:
+Para obtener la inscripción en el Padrón de Proveedores del Tribunal, los interesados deberán satisfacer los siguientes requisitos:
 
-I. Presentar solicitud en el formato que apruebe la Unidad de Administración del Tribunal;
+l. Las personas físicas:
 
-II. Las personas físicas deberán acompañar, copia certificada de su acta de nacimiento, de su credencial de elector con fotografía, de su Clave Única de Registro Poblacional y de su Registro Federal de Contribuyentes;
+a) Presentar solicitud en el formato que apruebe la Unidad de Administración del Tribunal;
 
-III. Las personas morales deberán acompañar copia certificada de su acta constitutiva y de las modificaciones que pudiera tener, debidamente inscrita en el Registro Público de la Propiedad y del Comercio, de la personalidad de su representante legal, de la identificación de dicho representante, el Registro Federal de Contribuyentes de la persona moral.
+b) Acompañar copias certificadas de acta de nacimiento y credencial de elector con fotografía y copias simples de su Clave Única de Registro Poblacional y de su Cédula de Identificación Fiscal;
 
-IV. Que en el objeto social de la sociedad, conste la actividad o rama de servicios con la que pretenda servir al Tribunal;
+c) Hacer constar por escrito la actividad o rama de servicios con la que pretenda dar servicio al Tribunal; su dirección fiscal detallada y el nombre y teléfono de la persona que fungirá como contacto de la persona física con el Tribunal;
 
-V. Presentar dirección detallada en donde se encuentra ubicada la administración central de la empresa, y en su caso, de cada una de las sucursales con que cuente;
+d) Presentar copia simple del comprobante fiscal autorizado que expide para comprobar sus operaciones mercantiles, el cual debe cumplir con los requisitos que establezcan las disposiciones legales y normativas aplicables a la materia;
 
-VI. Presentar copia de su factura autorizada, relacionando los datos del impresor de las mismas y el folio y vigencia correspondiente a las facturas que esté usando en el momento de la solicitud;
+e) Presentar copia simple de su declaración anual de impuestos y su respectivo acuse de recibo, de las que se desprenda que se encuentra al corriente en el cumplimiento de sus obligaciones fiscales, y
 
-VII. Presentar relación con el nombre y teléfono de la persona que fungirá como contacto de la empresa con el Tribunal;
+f) Proporcionar la documentación complementaria que sea solicitada por el Comité de Adquisiciones.
 
-VIII. Presentar copia de su última declaración anual de impuestos, y
+II. Las personas morales:
 
-IX. Proporcionar la documentación complementaria que sea solicitada por el Comité de Adquisiciones.
+a) Presentar solicitud en el formato que apruebe la Unidad de Administración del Tribunal;
+
+b) Acompañar copias certificadas de su acta constitutiva y de las modificaciones que pudiera tener, debidamente inscritas en el Registro Público de la Propiedad y del Comercio; de la personalidad de su representante legal; de la identificación de dicho representante, así como copia simple de la Cédula de Identificación Fiscal de la persona moral;
+
+c) Hacer constar por escrito la actividad o rama de servicios con la que pretenda dar servicio al Tribunal, la cual deberá encuadrarse dentro de su objeto social; la dirección fiscal detallada en donde se encuentra ubicada la administración central de la empresa, y en su caso, de cada una de sus sucursales; así como el nombre y teléfono de la persona que fungirá como contacto de la persona moral con el Tribunal;
+
+d) Presentar copia simple del comprobante fiscal autorizado que expide para comprobar sus operaciones mercantiles, el cual debe cumplir con los requisitos que establezcan las disposiciones legales y normativas aplicables a la materia;
+
+e) Presentar copia simple de su declaración anual de impuestos y su respectivo acuse de recibo, de las que se desprenda que se encuentra al corriente en el cumplimiento de sus obligaciones fiscales, y
+
+f) Proporcionar la documentación complementaria que sea solicitada por el Comité de Adquisiciones.
+
+Los requisitos señalados en los incisos e) de las fracciones I y II de este artículo no serán exigidos cuando se acredite que por la fecha del alta en el Registro Federal de Contribuyentes no se ha generado tal obligación, en cuyo caso se deberá presentar la última declaración presentada y su respectivo acuse de recibo, en su caso.
+
+Las personas físicas y morales podrán exhibir las copias certificadas a que se refiere este artículo adjuntando copias simples de las mismas, para que, previo cotejo del Secretario Ejecutivo, les sean devueltas las certificaciones de referencia.
 
 Procedencia de inscripción
 
@@ -673,11 +721,15 @@ Procedencia de inscripción
 
 El Comité de Adquisiciones, dentro de un término que no exceda de quince días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción correspondiente. En caso de negativa, se deberá notificar explicando las causas de la misma.
 
-Vigencia del Padrón de Proveedores
+> <small>(REFORMADO, D.O. 6 DE AGOSTO DE 2013)</small>
+
+Vigencia del registro en el Padrón de Proveedores
 
 ###### ARTÍCULO 47.
 
-El registro en el Padrón de Proveedores tendrá vigencia desde su fecha de expedición y hasta que concluya el año fiscal en que éste se efectúe. Los proveedores que deseen continuar inscritos, deberán solicitar su renovación durante el mes de diciembre del año en que tiene vigencia su registro, mediante la presentación de escrito, bajo protesta de decir verdad, en el que manifieste que prevalecen las mismas condiciones conforme a las que se registró.
+El registro en el Padrón de Proveedores tendrá vigencia de tres años fiscales. Los proveedores que deseen continuar inscritos, deberán solicitar su renovación durante el mes de diciembre del último año en que tiene vigencia su registro, mediante la presentación de escrito, bajo protesta de decir verdad, en el que manifieste que prevalecen las mismas condiciones conforme a las que se registró; sin perjuicio de comunicar en cualquier tiempo los cambios que afecten el giro o su actividad.
+
+El Pleno del Tribunal, el Comité de Adquisiciones o la Unidad de Administración, en cualquier tiempo, podrán solicitar al proveedor inscrito en el Padrón la información o documentación que consideren necesaria.
 
 Suspensión del registro en el Padrón de Proveedores
 
@@ -733,9 +785,17 @@ III. La garantía de cumplimiento del contrato deberá constituirse por el monto
 
 IV. En las bases de licitación y en el contrato, atendiendo a la naturaleza y características de los bienes y servicios, deberá establecerse la cantidad o presupuesto mínimo y máximo que podrá requerirse en cada orden de surtimiento con cargo al contrato o pedido formalizado. Asimismo, se deberá establecer el plazo para la entrega de los bienes o servicios solicitados por cada orden de surtimiento, contado a partir de la recepción de la referida orden, considerando las particularidades de los bienes o servicios para su producción;
 
-V. Una vez formalizado el contrato, de existir necesidad de cantidades distintas a las pactadas para cada orden de surtimiento, las mismas podrán suministrarse siempre y cuando el proveedor lo acepte, y se formalice en los términos de lo dispuesto en la bases, y
+> <small>(REFORMADA, D.O. 6 DE AGOSTO DE 2013)</small>
 
-VI. Las penalizaciones por atraso en la entrega de los bienes o de la prestación de servicios, serán determinadas en función de los bienes o servicios que se hayan entregado o prestado con atraso y se aplicarán sobre los montos que deban pagarse por cada orden de surtimiento emitida por la Unidad de Administración; exclusivamente sobre el valor de lo entregado con atraso y no por la totalidad del contrato.
+V. Una vez formalizado el contrato, de existir necesidad de cantidades distintas a las pactadas para cada orden de surtimiento, las mismas podrán suministrarse siempre y cuando el proveedor lo acepte, y se formalice en los términos de lo dispuesto en las bases;
+
+> <small>(REFORMADA, D.O. 6 DE AGOSTO DE 2013)</small>
+
+VI. Las penalizaciones por atraso en la entrega de los bienes o de la prestación de servicios, serán determinadas en función de los bienes o servicios que se hayan entregado o prestado con atraso y se aplicarán sobre los montos que deban pagarse por cada orden de surtimiento emitida por la Unidad de Administración; exclusivamente sobre el valor de lo entregado con atraso y no por la totalidad del contrato, y
+
+> <small>(ADICIONADA, D.O. 6 DE AGOSTO DE 2013)</small>
+
+VII. Los proveedores quedarán obligados ante el Tribunal a responder de los defectos y vicios ocultos de los bienes y de la calidad de los servicios, así como de cualquier otra responsabilidad en que hubieren incurrido, en los términos, plazo y condiciones establecidos en el propio contrato; lo anterior, con independencia de las penas convencionales que se mencionan en la fracción anterior.
 
 Modificación de los contratos
 
@@ -880,3 +940,19 @@ MAGISTRADO JOSÉ RUBÉN RUÍZ RAMÍREZ
 ( RÚBRICA )
 
 MAGISTRADA LETICIA DEL SOCORRO COBÁ MAGAÑA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 6 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas físicas o morales inscritas en el Padrón de Proveedores del Tribunal Superior de Justicia durante el año 2012 prorrogarán su registro hasta el 31 de diciembre de 2014.
+
+###### ARTÍCULO TERCERO.
+
+Las personas físicas o morales inscritas en el Padrón de Proveedores del Tribunal Superior de Justicia a partir del primero de enero de 2013 y hasta la fecha de entrada en vigor de este Acuerdo General prorrogarán su registro hasta el 31 de diciembre de 2015.
