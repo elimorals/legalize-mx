@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-atencion-integral-del-cancer-de-mama-del-78429"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-21"
-last_updated: "2011-01-21"
+last_updated: "2013-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78429&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,9 @@ issue_date: "2011-01-20"
 ---
 # LEY PARA LA ATENCION INTEGRAL DEL CANCER DE MAMA DEL DISTRITO FEDERAL
 
-LEY PARA LA ATENCION INTEGRAL DEL CANCER DE MAMA DEL DISTRITO FEDERAL
+LEY PARA LA ATENCIÓN INTEGRAL DEL CÁNCER DE MAMA DEL DISTRITO FEDERAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE LEY, VEASE ARTICULO TRANSITORIO PRIMERO, PUBLICADA EN LA G.O. EL 21 DE ENERO DE 2011.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 21 de enero de 2011.
 
@@ -152,9 +150,11 @@ Como instancia rectora en la institucionalización de la perspectiva de género,
 
 ### Capítulo Primero. Disposiciones Generales
 
-###### Artículo 10°.
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2013)</small>
 
-Las mujeres que residan en el Distrito Federal tienen derecho a la atención integral del cáncer de mama. Las autoridades del Gobierno del Distrito Federal tienen la obligación de garantizar el ejercicio de este derecho y su acceso de manera gratuita, eficiente, oportuna y de calidad, conforme a los lineamientos establecidos en la presente Ley.
+###### Artículo 10.
+
+Las mujeres y hombres que residan en el Distrito Federal tienen derecho a la atención integral del cáncer de mama. Las autoridades del Gobierno del Distrito Federal tienen la obligación de garantizar el ejercicio de este derecho y su acceso de manera gratuita, eficiente, oportuna y de calidad, conforme a los lineamientos establecidos en la presente Ley.
 
 La Secretaría de Salud garantizará el acceso a los servicios y acciones contempladas en el Programa de Atención Integral del Cáncer de Mama del Distrito Federal a las personas transgénero y transexual que así lo requieran.
 
@@ -214,9 +214,11 @@ Las autoridades respectivas enfocarán la política de prevención para promover
 
 ### Capítulo Tercero. De la Consejería
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 16.
 
-La consejería es un elemento de la atención integral y se dirige especialmente a las mujeres con síntomas clínicos o detección de cáncer de mama con resultados de sospecha, alta sospecha o confirmación y debe acompañar a la paciente durante el proceso de diagnóstico y tratamiento. Tiene como propósito orientar la toma de decisiones informada, fortalecer el apego al diagnóstico y tratamiento y mejorar la calidad de vida.
+La consejería es un elemento de la atención integral y se dirige a las mujeres y hombres con síntomas clínicos o detección de cáncer de mama con resultados de sospecha, alta sospecha o confirmación y debe acompañar a la y al paciente durante el proceso de diagnóstico y tratamiento. Tiene como propósito orientar la toma de decisiones informada, fortalecer el apego al diagnóstico y tratamiento y mejorar la calidad de vida.
 
 En esta etapa se debe proporcionar información y orientación a las personas beneficiarias del Programa de Atención Integral del Cáncer de Mama y en su caso a sus familiares, a fin de aclarar las dudas que pudieran tener en cuanto a aspectos relacionados con la anatomía y fisiología de la glándula mamaria, factores de riesgo, conductas favorables, procedimientos diagnósticos, opciones de tratamiento, así como las ventajas, riesgos, complicaciones y rehabilitación.
 
@@ -238,11 +240,13 @@ Las actividades de detección de cáncer de mama consisten en autoexploración, 
 
 La Secretaría de Salud del Distrito Federal deberá establecer los lineamientos que deberán cumplir las instalaciones o unidades médicas para la prestación de los servicios a los que se refiere el presente Capítulo, a efecto de contar con la autorización necesaria para su funcionamiento en apego a estándares de calidad establecidos en los ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 20.
 
-La autoexploración tiene como objetivo sensibilizar a la mujer sobre el cáncer de mama, tener un mayor conocimiento de su propio cuerpo e identificar cambios anormales para la demanda de atención médica apropiada.
+La autoexploración tiene como objetivo sensibilizar a la mujer y al hombre sobre el cáncer de mama, tener un mayor conocimiento de su propio cuerpo e identificar cambios anormales para la demanda de atención médica apropiada.
 
-Las autoridades dispondrán de medidas para que pueda enseñarse la técnica de autoexploración a todas las mujeres que acudan a las unidades de salud del Distrito Federal, incluyendo la información sobre los síntomas y signos del cáncer de mama y las recomendaciones sobre cuándo deben solicitar atención médica, en términos de lo establecido en los lineamientos de operación del Programa de Atención Integral del Cáncer de Mama del Distrito Federal y en la Norma Oficial Mexicana en materia de cáncer de mama.
+Las autoridades dispondrán de medidas para que pueda enseñarse la técnica de autoexploración a todas las mujeres y hombres que acudan a las unidades de salud del Distrito Federal, incluyendo la información sobre los síntomas y signos del cáncer de mama y las recomendaciones sobre cuándo deben solicitar atención médica, en términos de lo establecido en los lineamientos de operación del Programa de Atención Integral del Cáncer de Mama del Distrito Federal y en la Norma Oficial Mexicana NOM-041-SSA2-2001, Para la prevención, diagnóstico, tratamiento, control y vigilancia epidemiológica del Cáncer de mama.
 
 ###### Artículo 21.
 
@@ -250,9 +254,11 @@ El examen clínico de las mamas debe ser realizado por médico o enfermera capac
 
 Dicha información será incorporada al sistema de información que integre la Secretaría de Salud en los términos a los que se refiere el artículo 33 de la presente Ley.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 22.
 
-Las mujeres que residan en el Distrito Federal tienen derecho a la práctica de mastografías con base a los criterios que se establezcan en los lineamientos de operación del Programa de Atención Integral del Cáncer de Mama del Distrito Federal y en la Norma Oficial Mexicana en materia de cáncer de mama.
+Las mujeres y hombres que residan en el Distrito Federal tienen derecho a la práctica de mastografías con base a los criterios que se establezcan en los lineamientos de operación del Programa de Atención Integral del Cáncer de Mama del Distrito Federal y en la Norma Oficial Mexicana en materia de cáncer de mama.
 
 La Secretaría de Salud del Distrito Federal, en los lineamientos de operación del Programa de Atención Integral del Cáncer de Mama del Distrito Federal que para tal efecto emita, establecerá los requisitos para acceder a este derecho.
 
@@ -268,11 +274,13 @@ Los datos que se obtenga de dichas jornadas serán incorporados al sistema de in
 
 Las mujeres que no acudan a las jornadas de mastografías a las que se refiere el presente artículo, podrán acudir a las unidades médicas que señale la Secretaría de Salud del Distrito Federal para la práctica de la mastografía.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 24.
 
-Las mujeres que no cumplan con los requisitos para la práctica de mastografías señalados en el artículo 22 de la presente Ley, no se les realizará la mastografía; en este supuesto, se le brindará información suficiente y orientación necesaria para que pueda acudir en la jornada o plazos que le correspondan, indicándole además de los riesgos potenciales que le producirían si se le practica la mastografía.
+Las mujeres y hombres que no cumplan con los requisitos para la práctica de mastografías señalados en el artículo 22 de la presente Ley, no se les realizará la mastografía; en este supuesto, se le brindará información suficiente y Orientación necesaria para que pueda acudir en la jornada o plazos que le corresponda, indicándole además de los riesgos potenciales que le producirían si, se le practica la mastografía.
 
-La Secretaría de Salud emitirán (sic) los lineamientos de operación para que el personal de salud verifique el cumplimiento de estas disposiciones.
+La Secretaría de Salud emitirá los lineamientos de operación para que el personal de salud verifique el cumplimiento de estas disposiciones.
 
 ###### Artículo 25.
 
@@ -284,9 +292,11 @@ En todos los casos, la entrega de resultados a los que se refiere el presente ar
 
 ### Capítulo Quinto. Del Diagnóstico
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 26.
 
-Las mujeres cuyas mastografías indiquen resultados con sospecha, alta sospecha o confirmación de cáncer de mama tienen derecho a recibir evaluación diagnóstica y seguimiento oportunos y adecuados por parte del personal de salud y en la (sic) unidades médicas que señale la Secretaría de Salud del Distrito Federal.
+Las mujeres y hombres cuyas mastografías indiquen resultados con sospecha, alta sospecha o confirmación de cáncer de mama tienen derecho a recibir evaluación diagnóstica y seguimiento oportunos y adecuados por parte del personal de salud y en la unidades médicas que señale la Secretaría de Salud del Distrito Federal.
 
 ###### Artículo 27.
 
@@ -328,17 +338,21 @@ La Secretaría de Salud del Distrito Federal, para dar cumplimiento a esta dispo
 
 Con la finalidad de llevar un control y vigilancia epidemiológica del cáncer de mama en el Distrito Federal que permita determinar la magnitud del problema, así como adoptar las medidas para su debida atención, la Secretaría de Salud integrará una base de datos y un sistema de información con las características contempladas en el presente Capítulo, así como en los lineamientos de operación del Programa de Atención Integral del Cáncer de Mama del Distrito Federal y en la Norma Oficial Mexicana en materia de cáncer de mama y las autoridades sanitarias correspondientes.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 33.
 
-La Secretaría de Salud incorporará la información obtenida en cada jornada de mastografías que se realice en las 16 demarcaciones territoriales, en una base de datos; asimismo, se integrará la información de las mujeres a las que se practique examen clínico para la detección de cáncer de mama, a efecto de que se les brinde el servicio dentro del Programa de Atención Integral del Cáncer de Mama.
+La Secretaría de Salud incorporará la información obtenida en cada jornada de mastografías que se realice en las 16 demarcaciones territoriales, en una base de datos; asimismo, se integrará la información de las mujeres y hombres a las que se practique examen clínico para la detección de cáncer de mama, a efecto de que se les brinde el servicio dentro del Programa de Atención Integral del Cáncer de Mama.
 
-Las Jefaturas Delegacionales enviarán trimestralmente a la Secretaría de Salud la información obtenida en dichas jornadas, así como lo (sic) expedientes clínicos que se generen.
+Las Jefaturas Delegacionales enviarán trimestralmente a la Secretaría de Salud la información obtenida en dichas jornadas, así como los expedientes clínicos que se generen.
 
 Los lineamientos de operación del Programa de Atención Integral del Cáncer de Mama del Distrito Federal establecerán la metodología de coordinación entre la Secretaría de Salud y las Jefaturas Delegacionales de las 16 demarcaciones territoriales donde se realicen acciones de prevención o diagnóstico de cáncer de mama, para que participen en la integración de la información a la que se refiere el presente artículo.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 34.
 
-La Secretaría de Salud integrará un sistema de información que contenga los datos necesarios que permitan brindar un seguimiento oportuno a las mujeres que se les haya practicado examen clínico o mastografía y presenten un diagnóstico sospechoso, altamente sospechoso o confirmado de cáncer de mama.
+La Secretaría de Salud integrará un sistema de información que contenga los datos necesarios que permitan brindar un seguimiento oportuno a las mujeres y hombres que se les hayan practicado examen clínico o mastografía y presenten un diagnóstico sospechoso, altamente sospechoso o confirmado de cáncer de mama.
 
 ###### Artículo 35.
 
@@ -487,3 +501,13 @@ SEXTO.- La Secretaría de Salud del Distrito Federal presentará y publicará un
 Recinto de la Asamblea Legislativa del Distrito Federal, a los diecinueve días del mes de octubre del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. RAFAEL CALDERÓN JIMÉNEZ, PRESIDENTE.- DIP. JORGE PALACIOS ARROYO, SECRETARIO.- DIP. VÍCTOR HUGO ROMO GUERRA, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinte días del mes de enero del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LOPEZ CARDENAS.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTI BATRES GUADARRAMA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 7 DE AGOSTO DE 2013.
+
+Artículo Primero.- decreto (sic) entrará en vigor al día siguiente de su publicación en la Gaceta Oficial El presente (sic) del Distrito Federal.
+
+Artículo Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
