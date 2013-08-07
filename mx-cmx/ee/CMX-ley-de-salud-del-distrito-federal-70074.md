@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2013-06-12"
+last_updated: "2013-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -927,6 +927,22 @@ Corresponde al Gobierno, a través de una Dirección Ejecutiva adscrita a la Sec
 ###### Artículo 55.
 
 Los servicios de atención médica que se ofrezcan en la materia incluirán, entre otros, servicios permanentes de prevención, información y consejería, acceso de la población abierta a condones, pruebas de detección, dotación oportuna de medicamentos y antirretrovirales, cuidado médico contra las enfermedades oportunistas, campañas permanentes e intensivas de prevención, fomento y apoyo a la investigación científica, entre otros.
+
+(ADICIONADO, G.O. 7 DE AGOSTO DE 2013
+
+###### Artículo 55 Bis.
+
+La Secretaria, en coordinación con los laboratorios médicos públicos y privados en el Distrito Federal, en los que se otorgue el servicio de detección y/o diagnóstico de VIH-SIDA, deberán cumplir con los criterios establecidos de voluntariedad, confidencialidad y consentimiento informado, y adicionalmente deberán observar lo siguiente:
+
+I. Los resultados de la prueba deberán proporcionarse de manera personal y confidencial.
+
+II. Deberán proporcionar información basada en evidencia sobre prevención y tratamiento de la infección por VIH, de la disponibilidad de tratamientos en los establecimientos autorizados y de los beneficios de atenderse oportunamente, así como sobre la promoción de los derechos humanos en la materia. Dicha información deberá ser proporcionada por los medios electrónicos que el usuario proporcione para tal efecto, en un periodo que comprenderá de la fecha en que solicite la prueba y hasta tres días posteriores a la entrega del resultado
+
+III. La Secretaría deberá entregar a los laboratorios médicos públicos y privados en el Distrito Federal, la información que se deberá proporcionar a los usuarios conforme a la fracción anterior.
+
+IV. Los laboratorios médicos públicos y privados en el Distrito Federal deberán cumplir con los procedimientos de notificación conforme a la normativa aplicable.
+
+V. La información recabada con la finalidad del presente artículo no podrá ser utilizada para fines mercantiles o para el envío del resultado de la prueba sin la autorización correspondiente y en cumplimiento de la Ley de Protección de Datos personales para el Distrito Federal.
 
 ###### Artículo 56.
 
@@ -2881,3 +2897,11 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO.- El presente decreto entrará en vigor a los noventa días hábiles contados a partir de su publicación en la Gaceta Oficial de! (sic) Distrito Federal.
 
 TERCERO.- El Jefe de Gobierno del Distrito Federal, contará con un plazo de 120 días hábiles para publicar las adecuaciones a las disposiciones reglamentarias en concordancia con el presente Decreto.
+
+G.O. 7 DE AGOSTO DE 2013.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, dentro de los 3 días posteriores a la notificación de la presente y para mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- La Secretaría de Salud del Distrito Federal presentará en un término máximo de noventa días, contados a partir de la publicación del presente Decreto, la información a que se refiere la fracción III, del artículo 55 Bis y publicar en el reglamento correspondiente la vigencia de la información.
