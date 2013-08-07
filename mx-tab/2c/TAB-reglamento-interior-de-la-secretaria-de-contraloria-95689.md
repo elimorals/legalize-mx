@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-contraloria-95689"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-30"
-last_updated: "2013-07-30"
+last_updated: "2013-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE CONTRALORIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE AGOSTO DE 2013, EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE AGOSTO DE 2013.</small>
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tabasco, el martes 30 de julio de 2013.
 
@@ -1118,6 +1118,30 @@ IX. Las demás que las disposiciones legales le confieran expresamente, y que de
 ###### Artículo 31.
 
 Durante las ausencias del Secretario, el despacho y resolución de los asuntos correspondientes a la Secretaría, estarán a cargo de los Subsecretarios de Auditoría de la Gestión Pública; de Normatividad y Evaluación; de Control y Auditoría a la Obra Pública; del Director General de Responsabilidades Administrativas y del Titular de la Unidad de Asuntos Jurídicos y de Acceso a la Información, en el orden mencionado.
+
+> <small>(F. DE E., P.O. 7 DE AGOSTO DE 2013)</small>
+
+En las ausencias de los Titulares de las Subsecretarías, de las Direcciones Generales y demás Unidades Administrativas, serán suplidos para el despacho de los asuntos de su correspondiente competencia, en su caso, por el servidor público adscrito en el área de su responsabilidad que ellos mismos designen, por escrito.
+
+> <small>(F. DE E., P.O. 7 DE AGOSTO DE 2013)</small>
+
+###### Artículo 32.
+
+Los Subsecretarios, Directores Generales, Directores, Contralores, Comisarios, Contralor Interno de la Secretaría, Subdirectores y Jefes de Departamento, estarán impedidos para conocer de los asuntos que se tramiten en la Secretaría, en los casos que las disposiciones legales lo prohíban. Por tanto, tendrán la obligación de excusarse del conocimiento y de no hacerlo procederá la recusación en su contra.
+
+> <small>(F. DE E., P.O. 7 DE AGOSTO DE 2013)</small>
+
+## TRANSITORIOS
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Contraloría, publicado en el Periódico Oficial del Gobierno del Estado número 6277 de fecha 2 de noviembre de 2002.
+
+TERCERO.- Para su mejor funcionamiento, la Secretaría deberá formular sus respectivos Manuales de Organización y de Procedimientos con base en su competencia.
+
+CUARTO.- En tanto se expiden los manuales correspondientes al Secretario queda facultado para resolver cualquier asunto con la aplicación de este ordenamiento legal para fines del orden administrativo.
+
+QUINTO.- Se derogan todas las disposiciones jurídicas administrativas que se opongan al presente Reglamento Interior.
 
 DADO EN EL RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS TREINTA DÍAS DEL MES DE JULIO DEL AÑO DOS MIL TRECE.
 
