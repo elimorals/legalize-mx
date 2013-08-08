@@ -4,7 +4,7 @@ identifier: "JAL-codigo-electoral-del-estado-de-jalisco-antes-codigo-62461"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-05"
-last_updated: "2011-07-19"
+last_updated: "2013-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE JALISCO -- ANTES CODIGO ELECTORAL Y DE PARTICIPACION SOCIAL DEL ESTADO DE JALISCO -- ANTES CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO --
 
-CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
+CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2013.
 
 Código publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 5 de agosto de 2008.
 
@@ -1135,71 +1135,27 @@ Artículo 70
 
 ### Capítulo Quinto. De las Obligaciones de los Partidos Políticos en Materia de Transparencia
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2013)</small>
+
 Artículo 71
 
-1. Toda persona tiene derecho a acceder a la información de los partidos políticos de conformidad con las reglas previstas en este Código y las del reglamento que al efecto expida el Instituto, sin menoscabo de los procedimientos, autoridades y mecanismos que establecen la Ley de Transparencia y Acceso a la Información Pública y las demás normas previstas en otros ordenamientos jurídicos.
+1. Toda persona tiene derecho a acceder a la información de los partidos políticos de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios.
 
-2. Las personas, además de los mecanismos que establece la Ley de Transparencia y Acceso a la Información Pública, podrán acceder a la información de los partidos a través del Instituto, mediante la presentación de solicitudes específicas.
+###### Artículo 72.
 
-3. El reglamento establecerá los formatos, procedimientos y plazos para desahogar las solicitudes que se presenten sobre la información de los partidos políticos.
+(DEROGADO, P.O. 8 DE AGOSTO DE 2013)
 
-4. Cuando la información solicitada tenga el carácter de pública y no obre en poder del Instituto, debiendo estarlo, éste notificará al partido requerido para que la proporcione en forma directa al solicitante, conforme términos, plazos y condiciones que establece la Ley de Transparencia y Acceso a la Información Pública. El partido de que se trate informará al Instituto del cumplimiento de esta obligación.
+###### Artículo 73.
 
-5. Cuando la información solicitada se encuentre disponible en la página electrónica del Instituto, o en la del partido de que se trate, se le notificará al solicitante para que la obtenga en forma directa, salvo que el interesado la requiera en forma impresa o en medio digital.
+(DEROGADO, P.O. 8 DE AGOSTO DE 2013)
 
-6. Los partidos políticos están obligados a publicar en su página electrónica, por lo menos, la información especificada en el presente capítulo.
+###### Artículo 74.
 
-Artículo 72
+(DEROGADO, P.O. 8 DE AGOSTO DE 2013)
 
-1. La información que los partidos políticos proporcionen al Instituto o que éste genere respecto a los mismos, que sea considerada pública conforme a este Código, estará a disposición de toda persona a través de la página electrónica del Instituto.
+###### Artículo 75.
 
-2. Sin menoscabo de lo que establece la Ley de Transparencia y Acceso a la Información Pública, adicionalmente se considera información pública de los partidos políticos:
-
-I. Sus documentos básicos;
-
-II. Las facultades de sus órganos de dirección;
-
-III. Los reglamentos, acuerdos y demás disposiciones de carácter general, aprobados por sus órganos de dirección, que regulen su vida interna, las obligaciones y derechos de sus afiliados, la elección de sus dirigentes y la postulación de sus candidatos a cargos de elección popular;
-
-IV. El directorio de sus órganos estatales, Municipales, y en su caso, regionales, y Distritales, así como el padrón de sus afiliados;
-
-V. El tabulador de remuneraciones que perciben los integrantes de los órganos a que se refiere el (sic) fracción anterior, y de los demás funcionarios partidistas;
-
-VI. Las plataformas electorales y programas de gobierno que registren ante el Instituto;
-
-VII. Los convenios de frentes, coaliciones o fusión que celebren, o de participación electoral que realicen con agrupaciones políticas nacionales;
-
-VIII. Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatos a cargos de elección popular;
-
-IX. Los montos de financiamiento público otorgados mensualmente, en cualquier modalidad, a sus órganos estatales, Distritales o Municipales, durante los últimos cinco años y hasta el mes más reciente, así como los descuentos correspondientes a sanciones;
-
-X. Los informes, anuales o parciales, de ingresos y gastos, tanto ordinarios como de precampaña y campaña; el estado de situación patrimonial; el inventario de los bienes inmuebles de los que sean propietarios, así como los anexos que formen parte integrante de los documentos anteriores; la relación de donantes y los montos aportados por cada uno. Todo lo anterior, una vez concluidos los procedimientos de fiscalización establecidos por este Código. Los partidos podrán hacer pública la información a que se refiere esta fracción antes de que concluyan los procedimientos referidos, sin que ello tenga efectos en los mismos.
-
-XI. Las resoluciones que emitan sus órganos disciplinarios de cualquier nivel, una vez que hayan causado estado;
-
-XII. Los nombres de sus representantes ante los órganos del Instituto;
-
-XIII. El listado de las fundaciones, centros o institutos de investigación o capacitación, o cualquier otro, que reciban apoyo económico permanente del partido político;
-
-XIV. El dictamen y resolución que el Consejo General del Instituto haya aprobado respecto de los informes a que se refiere el fracción (sic) X de este párrafo; y
-
-XV. La demás que señale este Código, o las leyes aplicables.
-
-Artículo 73
-
-1. Los partidos políticos deberán mantener actualizada la información pública establecida en este capítulo, y la demás que este Código considere de la misma naturaleza, proporcionándola al Instituto con la periodicidad y en los formatos y medios electrónicos que aquél determine en acuerdos de carácter general.
-
-Artículo 74
-
-1. No será pública la información relativa a los procesos deliberativos de los órganos internos de los partidos; la correspondiente a sus estrategias políticas y de campañas electorales; la contenida en todo tipo de encuestas por ellos ordenadas, así como la referida a las actividades de naturaleza privada, personal o familiar, de sus afiliados, dirigentes, precandidatos y candidatos a cargos de elección popular.
-
-2. Será considerada confidencial la información que contenga los datos personales de los afiliados, dirigentes, precandidatos y candidatos a cargos de elección popular, salvo los contenidos en los directorios establecidos en este capítulo y en las listas de precandidatos o candidatos a cargos de elección popular, que solamente contendrán el nombre completo y otros datos personales que autorice el interesado.
-
-3. Se considerará reservada la información relativa a los juicios en curso, de cualquier naturaleza, en que los partidos políticos sean parte, hasta que se encuentren en estado de cosa juzgada.
-
-Artículo 75
-
-1. El incumplimiento de las obligaciones establecidas en este Capítulo será sancionado en los términos que dispone el presente Código.
+(DEROGADO, P.O. 8 DE AGOSTO DE 2013)
 
 ### Capítulo Sexto. De los Asuntos Internos de los Partidos Políticos
 
@@ -7517,7 +7473,7 @@ III. Nombre de la persona con quien se entienda la diligencia; y
 
 IV. Firma del actuario o notificador.
 
-2. Si no se encuentra presente el interesado, la diligencia se entenderá con quien se encuentre en el domicilio.
+2.- Si no se encuentra presente el interesado, la diligencia se entenderá con quien se encuentre en el domicilio.
 
 Artículo 552
 
@@ -8628,3 +8584,17 @@ P.O. 19 DE JULIO DE 2011.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. De conformidad con el artículo 33 de la Constitución Política del Estado de Jalisco, el Congreso del Estado anuncia al Titular del Poder Ejecutivo del Estado, que el término para que, en su caso, pueda hacer observaciones al presente decreto, será de tres días.
+
+P.O. 8 DE AGOSTO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga la Ley de Información Pública del Estado de Jalisco y sus Municipios.
+
+TERCERO. La presidencia rotativa del Consejo de conformidad con el artículo 39 de la presente ley, entrará en vigor un año después de que sea electo el Presidente del Consejo para el periodo 2017-2021.
+
+CUARTO. El Secretario Ejecutivo del Instituto, en su calidad de Secretario Técnico del Consejo Consultivo, deberá convocar a las instituciones integrantes del mismo dentro de un plazo de treinta días hábiles siguientes a la entrada en vigor del presente Decreto, para la instalación del Consejo Consultivo dentro del plazo señalado.
+
+QUINTO. Los procedimientos iniciados en los términos de la ley que se abroga continuarán tramitándose hasta su conclusión con la misma.
+
+SEXTO. Los procedimientos penales iniciados a la luz del artículo 298 fracciones II, III y IV, previo a la entrada en vigor del presente decreto, deberán sujetarse a lo previsto por el artículo 45 del Código Penal para el Estado Libre y Soberano del Estado de Jalisco.
