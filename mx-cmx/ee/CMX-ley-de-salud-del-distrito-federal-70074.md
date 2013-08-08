@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2013-08-07"
+last_updated: "2013-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -1304,7 +1304,11 @@ IX. Celebrar convenios con la Subsecretaría de Sistema Penitenciario adscrita a
 
 X. Realizar actividades de información, difusión, orientación y capacitación respecto a las consecuencias del uso, abuso o dependencia a las sustancias psicoactivas, a toda la población del Distrito Federal, en coadyuvancia con instituciones académicas, así como con representantes de los sectores público, social y privado, y
 
-XI. Las demás que le establezcan las disposiciones legales aplicables.
+> <small>(ADICIONADA, G.O. 8 DE AGOSTO DE 2013)</small>
+
+XI. Celebrar convenios de orientación y educación con instituciones educativas, tanto públicas como privadas, para que se implementen acciones encaminadas a la prevención, abatimiento y tratamiento del abuso en el consumo de bebidas alcohólicas, principalmente con las instituciones de nivel medio y medio superior, y
+
+XII. Las demás que le establezcan las disposiciones legales aplicables.
 
 > <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2012)</small>
 
@@ -2905,3 +2909,9 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, dentro de los 3
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- La Secretaría de Salud del Distrito Federal presentará en un término máximo de noventa días, contados a partir de la publicación del presente Decreto, la información a que se refiere la fracción III, del artículo 55 Bis y publicar en el reglamento correspondiente la vigencia de la información.
+
+G.O. 8 DE AGOSTO DE 2013.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
