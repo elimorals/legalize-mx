@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2013-07-27"
+last_updated: "2013-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -627,7 +627,7 @@ I. Cuando conduzca el probable responsable, con exceso de velocidad en más de t
 
 II. Cuando se cometa en hospitales, o zonas de concurrencia de personas tales como escuelas en horarios de entrada o salida, centros comerciales o lugares de culto público siempre que, existan señalamientos de esta circunstancia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2010)</small>
 
@@ -4335,11 +4335,11 @@ c) Las revisiones oficiosas de las resoluciones de los procedimientos de protecc
 
 d) Los procedimientos de revisión de clasificación de información pública de los sujetos obligados;
 
-II. Difunda pública y dolosamente información pública clasificada como reservada;
+II. (DEROGADA, P.O. 8 DE AGOSTO DE 2013)
 
-III. Difunda pública y dolosamente información pública clasificada como confidencial, sin la autorización correspondiente,
+III. (DEROGADA, P.O. 8 DE AGOSTO DE 2013)
 
-IV. Entregue a un tercero, información pública clasificada como reservada, o confidencial sin la autorización correspondiente;
+IV. (DEROGADA, P.O. 8 DE AGOSTO DE 2013)
 
 V. Destruya de forma irrecuperable información pública, sin la autorización correspondiente; o
 
@@ -5056,3 +5056,17 @@ P.O. 27 DE JULIO DE 2013.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Los delitos cometidos antes de la entrada en vigor del presente decreto, en los términos de los artículos 167, 168, 169 y 170 de la Ley del Instituto de Pensiones del Estado de Jalisco, se perseguirán, juzgarán y resolverán conforme a lo dispuesto por dichos artículos hasta antes del inicio de la vigencia de este decreto.
+
+P.O. 8 DE AGOSTO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga la Ley de Información Pública del Estado de Jalisco y sus Municipios.
+
+TERCERO. La presidencia rotativa del Consejo de conformidad con el artículo 39 de la presente ley, entrará en vigor un año después de que sea electo el Presidente del Consejo para el periodo 2017-2021.
+
+CUARTO. El Secretario Ejecutivo del Instituto, en su calidad de Secretario Técnico del Consejo Consultivo, deberá convocar a las instituciones integrantes del mismo dentro de un plazo de treinta días hábiles siguientes a la entrada en vigor del presente Decreto, para la instalación del Consejo Consultivo dentro del plazo señalado.
+
+QUINTO. Los procedimientos iniciados en los términos de la ley que se abroga continuarán tramitándose hasta su conclusión con la misma.
+
+SEXTO. Los procedimientos penales iniciados a la luz del artículo 298 fracciones II, III y IV, previo a la entrada en vigor del presente decreto, deberán sujetarse a lo previsto por el artículo 45 del Código Penal para el Estado Libre y Soberano del Estado de Jalisco.
