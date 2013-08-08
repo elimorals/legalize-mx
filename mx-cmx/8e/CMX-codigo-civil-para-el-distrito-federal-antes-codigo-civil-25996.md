@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2013-06-19"
+last_updated: "2013-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE AGOSTO DE 2013.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2277,7 +2277,9 @@ El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas l
 
 En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 267 y éste no contravenga ninguna disposición legal, o presentaren un convenio emanado del procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, en uno u otro caso el juez lo aprobará de plano, decretando el divorcio mediante sentencia. En caso contrario, el juez decretará el divorcio dejando expedito el derecho de los cónyuges para que lo hagan valer por la vía incidental, exclusivamente por lo que concierne al convenio.
 
-El juez decretará en la referida sentencia que, previo al inicio de la vía incidental, las partes acudan obligatoriamente al procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, e intenten, a través de dicho procedimiento, llegar a un acuerdo respecto del convenio señalado.
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2013)</small>
+
+El juez exhortará en la referida sentencia que, previo al inicio de la vía incidental, las partes acudan al procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, e intenten, a través de dicho procedimiento, llegar a un acuerdo respecto del convenio señalado.
 
 En caso de que las partes, una vez recibida la pre-mediación, no hubieren aceptado el procedimiento, o habiéndolo iniciado no fuera posible llegar a un acuerdo, podrán hacer valer sus derechos por la vía incidental. En el caso de que las partes logren la construcción de un acuerdo por medio del procedimiento de mediación, lo harán del conocimiento del juez.
 
@@ -14422,3 +14424,17 @@ QUINTO. Los mediadores privados con certificación y registro vigente ante el Tr
 SEXTO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
 
 SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente Decreto.
