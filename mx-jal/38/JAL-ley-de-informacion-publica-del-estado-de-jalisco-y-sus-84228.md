@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-informacion-publica-del-estado-de-jalisco-y-sus-84228"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-22"
-last_updated: "2011-12-22"
+last_updated: "2013-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección XXXIV del Periódico Oficial del Estado de Jalisco, el jueves 22 de diciembre de 2011.
 
@@ -2504,3 +2506,19 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE AGOSTO DE 2013
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga la Ley de Información Pública del Estado de Jalisco y sus Municipios.
+
+TERCERO. La presidencia rotativa del Consejo de conformidad con el artículo 39 de la presente ley, entrará en vigor un año después de que sea electo el Presidente del Consejo para el periodo 2017-2021.
+
+CUARTO. El Secretario Ejecutivo del Instituto, en su calidad de Secretario Técnico del Consejo Consultivo, deberá convocar a las instituciones integrantes del mismo dentro de un plazo de treinta días hábiles siguientes a la entrada en vigor del presente Decreto, para la instalación del Consejo Consultivo dentro del plazo señalado.
+
+QUINTO. Los procedimientos iniciados en los términos de la ley que se abroga continuarán tramitándose hasta su conclusión con la misma.
+
+SEXTO. Los procedimientos penales iniciados a la luz del artículo 298 fracciones II, III y IV, previo a la entrada en vigor del presente decreto, deberán sujetarse a lo previsto por el artículo 45 del Código Penal para el Estado Libre y Soberano del Estado de Jalisco.
