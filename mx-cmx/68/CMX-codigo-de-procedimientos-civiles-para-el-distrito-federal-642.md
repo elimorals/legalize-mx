@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2013-06-19"
+last_updated: "2013-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE AGOSTO DE 2013.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -550,9 +550,9 @@ Para el caso que no se hubiese logrado un avenimiento en la audiencia previa, el
 
 Asimismo, los titulares de los órganos jurisdiccionales deberán informar a los particulares sobre las características y ventajas de la mediación, para alcanzar una solución económica, rápida y satisfactoria de sus controversias.
 
-> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2013)</small>
 
-Si en constancia de autos el Juez advirtiere que el asunto es susceptible de solucionarse a través de la mediación, el juez ordenará a las partes que acudan obligatoriamente al procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, e intenten, a través de dicho procedimiento, llegar a un acuerdo que ponga fin a la controversia, decretando además la suspensión del juicio hasta por el término de dos meses con los efectos previstos por la propia Ley de Justicia Alternativa.
+Si en constancia de autos el Juez advirtiere que el asunto es susceptible de solucionarse a través de la mediación, el juez exhortará a las partes a que acudan al procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, e intenten, a través de dicho procedimiento, llegar a un acuerdo que ponga fin a la controversia. El juez podrá decretar la suspensión del juicio hasta por el término de dos meses con los efectos previstos por la propia Ley de Justicia Alternativa, a partir de que las partes le informen que han iniciado el procedimiento de mediación correspondiente.
 
 > <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
 
@@ -1632,7 +1632,7 @@ ARTICULO 137 BIS
 
 Operará de pleno derecho la caducidad de la primera instancia cualquiera que sea el estado del juicio desde el primer auto que se dicte en el mismo hasta antes de que concluya la audiencia de pruebas, alegatos y sentencia, si transcurridos ciento veinte días hábiles contados a partir de la notificación de la última determinación judicial no hubiere promoción que tienda a impulsar el procedimiento de cualquiera de las partes.
 
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], G.O. 8 DE AGOSTO DE 2013)</small>
 
 Los efectos y formas de su declaración se sujetarán a las siguientes normas:
 
@@ -1674,21 +1674,17 @@ VIII.- No tiene lugar la declaración de caducidad; a).- En los juicios universa
 
 IX.- El término de la caducidad sólo se interrumpirá por promociones de las partes o por actos de las mismas realizados ante autoridad judicial diversa siempre que tengan relación inmediata y directa con la instancia;
 
-(REFOMADA, D.O.F. 19 DE JUNIO DE 2013)
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2013)</small>
 
 X.- La suspensión del procedimiento produce la interrupción del término de la caducidad. La suspensión del proceso tiene lugar: a).- Cuando por fuerza mayor el juez o las partes no puedan actuar; b).- En los casos en que es necesario esperar la resolución de una cuestión previa o conexa por el mismo juez o por otras autoridades; c).- Cuando se pruebe ante el juez en incidente que se consumó la caducidad por maquinaciones dolosas de una de las partes en perjuicio de la otra; d).- Cuando el Juez tenga conocimiento de que las partes están participando en un procedimiento de mediación de los referidos por la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, y e).- En los demás casos previstos por la ley.
 
-> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 8 DE AGOSTO DE 2013)</small>
 
-XI.- Contra la declaración de caducidad se da sólo el recurso de revocación en los juicios que no admiten apelación. Se substanciará con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencia. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición. Tanto en la apelación de la declaración como en la reposición la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciban, se alegue y se pronuncie resolución. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo, con igual substanciación.
+XI.- Contra la declaración de caducidad se da sólo el recurso de revocación en los juicios que no admiten apelación. Se substanciará con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencia. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición. Tanto en la apelación de la declaración como en la reposición la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciban, se alegue y se pronuncie resolución. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo, con igual substanciación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+En los juicios que admiten la alzada cabe la apelación en ambos efectos. La declaratoria de caducidad en segunda instancia o la negativa a ésta, admitirá la reposición. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo de tramitación inmediata, y
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-En los juicios que admiten la alzada cabe la apelación en ambos efectos. La declaratoria de caducidad en segunda instancia o la negativa a ésta, admitirá la reposición. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo de tramitación inmediata;
-
-> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 1964)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 8 DE AGOSTO DE 2013)</small>
 
 XII.- Las costas serán a cargo del actor; pero serán compensables con las que corran a cargo del demandado en los casos previstos por la ley y además en aquellos en que opusiere reconvención, compensación, nulidad y en general las excepciones que tienden a variar la situación jurídica que privaba entre las partes antes de la presentación de la demanda.
 
@@ -4080,9 +4076,13 @@ ARTICULO 425 (DEROGADO, D.O.F. 14 DE MARZO DE 1973)
 
 Hay cosa juzgada cuando la sentencia causa ejecutoria o cuando las partes celebran un convenio emanado del procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal.
 
-Causan ejecutoria por ministerio de ley, sin que se requiera auto o resolución judicial que así lo declare:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE AGOSTO DE 2013)</small>
 
-I. Las sentencias pronunciadas en juicios cuyo monto sea hasta de doscientos doce mil cuatrocientos sesenta pesos. Dichas cantidades se actualizarán en los términos del artículo 62. Se exceptúan los interdictos, los asuntos de competencia de los jueces de lo familiar y los del arrendamiento inmobiliario;
+Causan ejecutoria por ministerio de ley:
+
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
+
+I. Las sentencias pronunciadas en juicios cuyo monto sea inferior a la cantidad que el artículo 691 establece para que un juicio sea apelable. Dichas cantidades se actualizarán en los términos del artículo 62. Se exceptúan los interdictos, los asuntos de competencia de los jueces de lo familiar y las relativas a la materia de arrendamiento inmobiliario.
 
 II. Las sentencias de segunda instancia;
 
@@ -8566,9 +8566,9 @@ El juez de lo familiar estará facultado para intervenir de oficio en los asunto
 
 En todos los asuntos del orden familiar los Jueces y Tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de derecho.
 
-> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2013)</small>
 
-En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento. El juez tomando en cuenta las circunstancias del caso concreto ordenará, en aquellos casos que estime viables de conformidad con las disposiciones legales en materia de justicia alternativa, que las partes acudan obligatoriamente al procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal.
+En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento. El juez tomando en cuenta las circunstancias del caso concreto exhortará, en aquellos casos que estime viables de conformidad con las disposiciones legales en materia de justicia alternativa, a las partes a que acudan al procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal.
 
 > <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -10593,3 +10593,17 @@ QUINTO. Los mediadores privados con certificación y registro vigente ante el Tr
 SEXTO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
 
 SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente Decreto.
