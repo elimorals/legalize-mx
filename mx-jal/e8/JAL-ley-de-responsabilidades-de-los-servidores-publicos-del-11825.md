@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2012-11-20"
+last_updated: "2013-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -1361,7 +1361,7 @@ En caso de incumplimiento de la obligación contenida en la fracción III del ar
 
 Los formatos en los cuales se debe presentar la declaración patrimonial, deberán ser proporcionados oportunamente a los servidores públicos obligados a rendirla por los órganos a cargo de los cuales esté el control, registro y verificación de situación patrimonial, y en su caso proporcionarán los medios de identificación electrónica a solicitud expresa del servidor público interesado en presentar su declaración vía Internet.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 100.
 
@@ -1379,17 +1379,19 @@ II. En la anual:
 
 a) Los ingresos obtenidos y egresos realizados del primero de enero al treinta y uno de diciembre del año inmediato anterior al que se deba presentar la declaración, y
 
-b) Las modificaciones a sus inventarios iniciales de bienes muebles o inmuebles, así como al estado que guardan las cuentas bancarias, valores y sus gravámenes con saldos al treinta y uno de diciembre del año inmediato anterior al que se deba presentar la declaración, y
+b) Las modificaciones a sus inventarios iniciales de bienes muebles o inmuebles, así como el estado que guardan las cuentas bancarias, valores y sus gravámenes con saldos al treinta y uno de diciembre del año inmediato anterior al que se deba presentar la declaración, y
 
 III. En la final o por conclusión del encargo:
 
 a) Los inventarios de bienes muebles o inmuebles que se tengan al día, mes y año en que concluyó el encargo;
 
-b) Los ingresos obtenidos y egresos efectuados por todo el periodo de tiempo que no se hubieren declarado, y
+b) Los ingresos obtenidos y egresos efectuados por todo el periodo de tiempo que no se hubiesen declarado, y
 
-e) El estado que guarden las cuentas bancarias, valores, así como los gravámenes o adeudos, (sic)
+c) El estado que guarden las cuentas bancarias, valores, así como los gravámenes o adeudos.
 
-Los formatos bajo los cuales se deba rendir la información a que se refiere este capítulo, establecerán la forma y detalle en que se deben realizar.
+Los formatos bajo los cuales se deba rendir la información a que se refiere este Capítulo, establecerán la forma y detalle en que se deben realizar.
+
+La publicitación de la información relativa a la declaración patrimonial por parte de los entes responsables a los que se refiere el artículo 93 de la presente ley, se hará siempre y cuando se cuente con la autorización previa y específica del servidor público de que se trate.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
@@ -1612,3 +1614,17 @@ La información que deba contener su registro, deberá ser de las sanciones impu
 P.O. 20 DE NOVIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE AGOSTO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga la Ley de Información Pública del Estado de Jalisco y sus Municipios.
+
+TERCERO. La presidencia rotativa del Consejo de conformidad con el artículo 39 de la presente ley, entrará en vigor un año después de que sea electo el Presidente del Consejo para el periodo 2017-2021.
+
+CUARTO. El Secretario Ejecutivo del Instituto, en su calidad de Secretario Técnico del Consejo Consultivo, deberá convocar a las instituciones integrantes del mismo dentro de un plazo de treinta días hábiles siguientes a la entrada en vigor del presente Decreto, para la instalación del Consejo Consultivo dentro del plazo señalado.
+
+QUINTO. Los procedimientos iniciados en los términos de la ley que se abroga continuarán tramitándose hasta su conclusión con la misma.
+
+SEXTO. Los procedimientos penales iniciados a la luz del artículo 298 fracciones II, III y IV, previo a la entrada en vigor del presente decreto, deberán sujetarse a lo previsto por el artículo 45 del Código Penal para el Estado Libre y Soberano del Estado de Jalisco.
