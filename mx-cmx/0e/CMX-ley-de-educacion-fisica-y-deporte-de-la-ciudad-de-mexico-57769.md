@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-fisica-y-deporte-de-la-ciudad-de-mexico-57769"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-04"
-last_updated: "2012-11-02"
+last_updated: "2013-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-12"
 
 LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de enero de 2008.
 
@@ -82,17 +82,23 @@ X. Cultura física: Sistema de categorías desprendidas del (sic) la actividad m
 
 XI. Liga: Organismo deportivo que tiene como finalidad agrupar, coordinar y estimular la formación de equipos para la práctica de una disciplina, independientemente de la denominación que adopte.
 
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 3.
 
-La función social del deporte es la de fortalecer la interacción e integración de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas y contribuir a fomentar la solidaridad como valor social.
+La función social del deporte y la educación física es la de fortalecer la interacción e integración de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas que contribuyan a fomentar la solidaridad como valor social; además de promover y estimular la actividad y recreación física como medios importantes para la preservación de la salud y la prevención de enfermedades.
+
+Los titulares de las oficinas de dependencias de la Administración Pública local, tendrán la obligación de fomentar la práctica de actividades físicas o deportivas entre sus trabajadores; se promoverán, de acuerdo a las características de cada área y oficina, programas de activación física en donde se dediquen al menos 20 minutos de la jornada laboral para estas actividades.
 
 ###### Artículo 4.
 
 La Función Educativa del Deporte debe implicar además de la enseñanza de técnicas y el desarrollo de las cualidades físicas de los alumnos, la transmisión de hábitos, valores y actitudes.
 
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 5.
 
-Son sujetos de la presente Ley los deportistas, educadores físicos, entrenadores deportivos, los organismos deportivos de los sectores público, social y privado en el Distrito Federal y demás personas que por su naturaleza, condición o funciones sean susceptibles de integrarse al Sistema de Cultura Física y Deporte en esta Ciudad.
+Son sujetos de la presente Ley los deportistas, educadores físicos, entrenadores deportivos, técnicos, los organismos deportivos de los sectores público, social y privado, equipos, clubes, asociaciones y ligas deportivas, jueces, árbitros y demás personas que por su naturaleza, condición o funciones sean susceptibles de integrarse al Sistema de Cultura Física y Deporte en esta Ciudad.
 
 ###### Artículo 6.
 
@@ -216,9 +222,17 @@ VI.- Participar en el desarrollo de la cultura del deporte, conforme a lo dispue
 
 VII.- Mantener en óptimas condiciones de uso y mantenimiento las instalaciones deportivas; equipándolas con todos y cada uno de los elementos materiales necesarios para la práctica de cada especialidad, contando con infraestructura de punta y avances tecnológicos;
 
-VIII.- Proporcionar la vigilancia y resguardo de las instalaciones; así como la seguridad para los deportistas que entrenen o compitan en ellas; y
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
 
-IX.- Las contenidas en el texto de esta Ley y demás disposiciones aplicables.
+VIII.- Proporcionar la vigilancia y resguardo de las instalaciones; así como la seguridad para los deportistas que entrenen o compitan en ellas;
+
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
+
+IX.- Promover medidas necesarias para erradicar la violencia en todos los espacios deportivos y de recreación, además de fomentar los principios encaminados a la prevención de las adicciones y farmacodependencia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 8 DE AGOSTO DE 2013)</small>
+
+X.- Las contenidas en el texto de esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 18.
 
@@ -247,6 +261,20 @@ DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL.
 El Instituto del Deporte del Distrito Federal es un órgano descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica, patrimonio propio, autonomía técnica y de gestión para el cumplimiento de sus objetivos y atribuciones, teniendo a su cargo el cumplimiento de la presente Ley.
 
 El Instituto del Deporte del Distrito Federal tiene su domicilio en el Distrito Federal, contando con una Junta de Gobierno y un Órgano de Control Interno.
+
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2013)</small>
+
+###### Artículo 22 Bis.
+
+El Titular del Instituto del Deporte, será nombrado y removido libremente por el Jefe de Gobierno, debiendo cumplir con los siguientes requisitos:
+
+I. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Ser mayor de 25 años al día de su designación;
+
+III. Tener reconocimiento y experiencia en materia deportiva; y
+
+IV. Gozar de probada honorabilidad.
 
 ###### Artículo 23.
 
@@ -286,7 +314,9 @@ XVI.- Promover entre la sociedad, alternativas de financiamiento que permitan in
 
 XVII.- Otorgar reconocimientos y estímulos a deportistas, incluidos los deportistas con discapacidad, en las entidades u organismos públicos sociales y privados de los Órganos Político-Administrativos de las Demarcaciones Territoriales del Distrito Federal que se hayan distinguido en el deporte o en la difusión, promoción, fomento o investigación en materia deportiva;
 
-XVIII.- Efectuar verificaciones anuales a las instalaciones deportivas del Distrito Federal, a efecto de que se encuentren en óptimas condiciones de uso y mantenimiento; así como equipadas con todos y cada uno de los elementos materiales necesarios para la práctica de cada especialidad; y en su caso podrán vetar el uso de cualquier instalación que no cumpla con los requisitos de seguridad;
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
+
+XVIII.- Efectuar verificaciones anuales a las instalaciones deportivas del Distrito Federal, a efecto de que se encuentren en óptimas condiciones de uso y mantenimiento; así como equipadas con todos y cada uno de los elementos materiales necesarios para la práctica de cada especialidad; y en su caso podrán vetar el uso de cualquier instalación que no cumpla con los requisitos de seguridad; Dicha verificación se reportará en un informe anual que detallará las condiciones de la infraestructura deportiva y que estará públicamente disponible en el portal de Internet del Instituto.
 
 XIX.- Deberá coordinar a los promotores deportivos quienes promoverán la participación activa, sistemática y planeada de los habitantes del Distrito Federal a la práctica, apoyo, estímulo y fomento del deporte, la actividad física y la recreación;
 
@@ -448,9 +478,11 @@ El Premio al Mérito Deportivo que se entregará anualmente por el Jefe de Gobie
 
 DE LA PARTICIPACIÓN DE LAS DELEGACIONES EN EL SISTEMA DE CULTURA FÍSICA Y DEPORTE DEL DISTRITO FEDERAL.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 31.
 
-Los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal tendrán las facultades siguientes:
+Los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal tendrán facultades las (sic) siguientes:
 
 I.- Promover y organizar en sus respectivas circunscripciones actividades y prácticas físico-deportivas;
 
@@ -474,15 +506,25 @@ IX.- Fijar las bases a que se sujetará la participación de deportistas del Ór
 
 X.- Destinar, conforme lo establezcan sus presupuestos de egresos, recursos para la construcción, mejoramiento, mantenimiento, equipamiento y rehabilitación de instalaciones deportivas;
 
-XI.- Vigilarán que la entrada a las instalaciones y la expedición de credenciales de los deportivos que correspondan a su competencia sean totalmente gratuitos; bajo la supervisión y vigilancia de la contraloría correspondiente;
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
 
-XII.- Ofrecer servicios en materia de medicina del deporte y prevenir el uso de sustancias y métodos que pongan en riesgo la salud de los deportistas; y
+XI.- Vigilarán que la entrada a las instalaciones y la expedición de credenciales de los deportivos que correspondan a su competencia sean totalmente gratuitos; bajo la supervisión y vigilancia de la contraloría correspondiente.
 
-XIII.- Los demás que le atribuyan otras disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
+
+XII.- Promover la realización de programas y campañas de difusión con perspectiva de género sobre la no violencia en el deporte, la erradicación de actos racistas, intolerantes y violentos y de una cultura de sana convivencia y esparcimiento al interior de las instalaciones y espacios deportivos de su jurisdicción.
+
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
+
+XIII.- Ofrecer servicios en materia de medicina del deporte y prevenir el uso de sustancias y métodos que pongan en riesgo la salud de los deportistas; y
+
+XIV.- Los demás que le atribuyan otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 32.
 
-Los Comités Deportivos de los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal tendrán las siguientes atribuciones:
+Los Comités Deportivos de los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal tendrán siguientes (sic) atribuciones:
 
 I.- Ejecutar los planes y programas en materia deportiva y recreativa que apruebe el Instituto del Deporte;
 
@@ -496,9 +538,17 @@ V.- Proponer al Instituto del Deporte a quienes se hayan distinguido en el depor
 
 VI.- Promover la realización de convenios de coordinación o colaboración en materia deportiva;
 
-VII.- Realizar competencias semestrales las cuales tendrán como finalidad, difundir la importancia y trascendencia del deporte para todos los habitantes; y
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
 
-VIII.- Las demás que le otorgue esta Ley u otros ordenamientos.
+VII.- Realizar competencias semestrales las cuales tendrán como finalidad, difundir la importancia y trascendencia del deporte para todos los habitantes;
+
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
+
+VIII.- Promover, en coordinación con el Instituto y la dependencia local de salud, programas de difusión e información con perspectiva de género entre equipos, clubes, ligas, uniones y asociaciones deportivas para erradicar la violencia deportiva así como para prevenir la atención de las adicciones relacionadas con el tabaquismo, alcoholismo y fármacodependencia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 8 DE AGOSTO DE 2013)</small>
+
+IX.- Las demás que le otorgue esta Ley u otros ordenamientos.
 
 ### CAPÍTULO SÉPTIMO
 
@@ -610,6 +660,14 @@ El Instituto del Deporte podrá suscribir convenios con las universidades e inst
 
 Así como con el fin de hacer compatibles los estudios con los entrenamientos y la asistencia a competiciones del colectivo de deportistas de alto rendimiento, para la puesta en marcha de tutorías académicas que presten apoyo a quienes tengan dificultades para mantener el ritmo normal de asistencia.
 
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2013)</small>
+
+###### Artículo 49 Bis.
+
+El Instituto del Deporte promoverá ante las diversas instancias del Gobierno, el rescate y acondicionamiento de parques, plazas y demás espacios públicos en donde sea factible la instalación de equipos y accesorios especiales destinados a la práctica de la cultura física.
+
+Para ello, el Instituto promoverá entre la administración pública local y los sectores social y privado, convenios de colaboración que permitan la adecuación, equipamiento y uso de dichos espacios públicos con la finalidad de propiciar su rescate e incentivar el desarrollo de la cultura física de la comunidad.
+
 ### CAPÍTULO NOVENO
 
 DEL FONDO DE APOYO PARA DEPORTISTAS DE ALTO RENDIMIENTO.
@@ -706,9 +764,11 @@ DE LAS INSTALACIONES DEPORTIVAS, RESPONSABILIDADES Y CLAUSURA.
 
 Para los efectos de esta ley se entiende por instalación deportiva, los deportivos, complejos deportivos o unidades deportivas independientemente de la denominación que adopten y en general todo inmueble construido o adecuado para la práctica de actividades físicas e intelectuales, que realicen las personas con propósitos competitivos o de esparcimiento.
 
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 63.
 
-Se declara de utilidad social, la construcción, conservación y mantenimiento de las instalaciones deportivas, con el objeto de atender adecuadamente las demandas que requiera la práctica del deporte.
+Se declara de utilidad social e interés público la construcción, remodelación, ampliación, conservación y mantenimiento de las instalaciones deportivas, con el objeto de atender adecuadamente las demandas que requiera la practica del deporte, la Asamblea Legislativa promoverá la asignación de recursos suficientes para la construcción y rehabilitación de instalaciones deportivas adscritas a los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales.
 
 ###### Artículo 64.
 
@@ -891,3 +951,9 @@ G.O. 2 DE NOVIEMBRE DE 2012.
 PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
+
+G.O. 8 DE AGOSTO DE 2013.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
