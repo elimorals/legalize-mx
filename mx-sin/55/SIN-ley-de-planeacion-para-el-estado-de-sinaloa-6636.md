@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-planeacion-para-el-estado-de-sinaloa-6636"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-02"
-last_updated: "1987-11-02"
+last_updated: "2013-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 2 de noviembre de 1987.
 
@@ -80,6 +80,10 @@ Es responsabilidad del Poder Ejecutivo Estatal, conducir la planeación del desa
 ###### ARTICULO 5.
 
 El Gobernador del Estado remitirá al H. Congreso para su análisis y opinión, el Plan Estatal de Desarrollo y las modificaciones subsecuentes si las hubiere; con el mismo fin, los Presidentes Municipales enviarán los Planes Municipales de Desarrollo que formulen los H. Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2013)</small>
+
+El Gobernador del Estado podrá actualizar el Plan Estatal de Desarrollo, con el fin de adecuarlo a las nuevas condiciones económicas y sociales que se presenten en la entidad, a los resultados alcanzados durante su ejecución, a consecuencia de la modificación del Plan Nacional de Desarrollo o bien en cualquier tiempo, de manera justificada.
 
 En el ejercicio de sus atribuciones constitucionales y legales, el Poder Legislativo formulará las observaciones que estime convenientes durante la ejecución, revisión y adecuaciones de los Planes.
 
@@ -154,6 +158,10 @@ Las Organizaciones representativas de los obreros, campesinos y grupos populares
 El Plan Estatal de Desarrollo determina los objetivos generales, estrategias y prioridades del Desarrollo Integral del Estado; establece los lineamientos de la Política de carácter global, sectorial y municipal, y rige el contenido de los programas que se generen en el Sistema Estatal de Planeación Democrática.
 
 El Plan Estatal de Desarrollo se elaborará, aprobará y publicará en el Periódico Oficial del Estado dentro de un plazo de seis meses, contados a partir de la fecha de toma de posesión del Gobernador Constitucional de la Entidad.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2013)</small>
+
+Las modificaciones al Plan Estatal de Desarrollo, también deberán ser publicadas en el Periódico Oficial "El Estado de Sinaloa", dentro de los dos meses siguientes a su aprobación.
 
 ###### ARTICULO 21.
 
@@ -308,3 +316,11 @@ LIC. FRANCISCO LABASTIDA OCHOA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. DIEGO VALADES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE AGOSTO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El prese (sic) decreto entrara en vigor al día siguiente de su publicación (sic) Periódico Oficial "El Estado de Sinaloa".
