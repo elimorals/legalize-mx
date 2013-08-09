@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2013-07-30"
+last_updated: "2013-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -940,15 +940,21 @@ Se considerará carga de trabajo cuando una Comisión haya emitido cuando menos 
 
 Lo anterior, será sin detrimento de lo que disponen los artículos 65 y 66 del presente ordenamiento.
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE AGOSTO DE 2013)</small>
 
 ###### ARTÍCULO 62.
 
-Las Comisiones Ordinarias serán en número que corresponda correlacionadamente con las atribuciones establecidas en esta Ley y con la estructura funcional de las dependencias de la Administración Pública del Distrito Federal, las siguientes:
+Las Comisiones Ordinarias serán en número que corresponda correlacionalmente con las atribuciones establecidas en esta ley y con la estructura funcional de las dependencias de la Administración Pública del Distrito Federal, las siguientes:
+
+> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
 
 I.- Abasto y Distribución de Alimentos;
 
+> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+
 II.- Administración Pública Local;
+
+> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
 
 III.- Administración y Procuración de Justicia;
 
@@ -956,13 +962,23 @@ III.- Administración y Procuración de Justicia;
 
 IV.- Asuntos Indígenas, Pueblos y Barrios Originarios y Atención a Migrantes;
 
+> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+
 V.- Asuntos Laborales y Previsión Social;
+
+> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
 
 VI.- Asuntos Político - electorales;
 
+> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+
 VII.- Atención a Grupos Vulnerables;
 
+> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+
 VIII.- Ciencia y Tecnología;
+
+> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
 
 IX.- Cultura;
 
@@ -990,9 +1006,9 @@ XIV.- Desarrollo Social;
 
 XV.- Educación;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2013)</small>
 
-XVI.- Equidad y género;
+XVI.- Para la Igualdad de Género;
 
 > <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
@@ -1975,3 +1991,11 @@ G.O. 30 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE AGOSTO DE 2013.
+
+Primero.- Los ARTÍCULOS PRIMERO y SEGUNDO entrarán en vigor al día siguiente de su aprobación por el Pleno de esta Asamblea Legislativa del Distrito Federal.
+
+Segundo.- Los ARTÍCULOS TERCERO y CUARTO entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Remítase al Jefe de Gobierno del Distrito Federal para el efecto de su publicación respecto de los ARTÍCULOS PRIMERO y SEGUNDO, y para su promulgación y publicación respecto de los ARTÍCULOS TERCERO y CUARTO, en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
