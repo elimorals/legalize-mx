@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2013-06-21"
+last_updated: "2013-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2013.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -540,6 +540,16 @@ Para la aplicación de la tarifa a que se refiere este precepto, donde la base g
 Lo que se recaude por los conceptos a que se refiere esta fracción, serán destinados única y exclusivamente para la realización de inversiones públicas en el medio rural del municipio correspondiente, para lo cual se llevará una cuenta especial de contabilidad que verifique el escrupuloso manejo de estos fondos, dándose la participación que corresponda a los Comités de Planeación Municipal. Por inversión pública debe entenderse, la destinada a obras públicas y la adquisición de bienes para la prestación de los servicios públicos de la comunidad; no pudiendo destinarse a rubros tales como combustibles, lubricantes, salarios de personal administrativo u operativo del Ayuntamiento, bonos, gratificaciones o compensaciones.
 
 III.- En los demás casos de predios rurales, se aplicará la tarifa contenida en la fracción I de este artículo.
+
+> <small>(ADICIONADA, P. O. 9 DE AGOSTO DE 2013)</small>
+
+IV.- Tratándose de predios en los que se encuentren ubicados campos de golf, se pagará en los siguientes términos:
+
+a) Cuando el campo de golf tenga un área menor de 80 hectáreas y 18 hoyos, se deberá pagar a valor terreno la cantidad de $130.00 por metro cuadrado como zona especial, aplicando la tasa 2.5 al millar; y
+
+b) Cuando el campo sea mayor de 80 hectáreas pero no cuente con más de 18 hoyos, se aplicará un factor de demérito a la superficie restante de acuerdo al Instructivo de Valuación del Instituto Catastral del Estado de Sinaloa.
+
+En el caso de los desarrolladores que tengan dos o más campos de golf no se aplicará este demérito.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -3408,3 +3418,9 @@ P.O. 21 DE JUNIO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
+
+P. O. 9 DE AGOSTO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
