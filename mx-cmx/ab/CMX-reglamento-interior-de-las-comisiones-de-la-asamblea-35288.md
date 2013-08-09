@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-las-comisiones-de-la-asamblea-35288"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2013-02-21"
+last_updated: "2013-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35288&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-18"
 
 REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -80,13 +80,11 @@ DE LA NATURALEZA, INTEGRACIÓN, COMPETENCIA Y ATRIBUCIONES DE LAS COMISIONES.
 
 De la naturaleza de las comisiones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.O. 9 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 4.
 
-Son comisiones de Análisis y Dictamen Legislativo que se constituyen con el carácter de definitivo y funcionar para toda la Legislatura de la Asamblea las de: Las Comisiones de Abasto y Distribución de Alimentos; Administración Pública Local; Administración y Procuración de Justicia; Asuntos Indígenas, Pueblos y Barrios Originarios y Atención a Migrantes; Asuntos Laborales y Previsión Social; Asuntos Político Electorales; Atención a Grupos Vulnerables; Ciencia y Tecnología; Cultura; Derechos Humanos; Desarrollo e Infraestructura Urbana; Desarrollo Metropolitano; Desarrollo Rural; Desarrollo Social; Educación; Equidad y Género; Fomento Económico; Gestión Integral del Agua, Hacienda; Juventud y Deporte; Normatividad Legislativa, Estudios y Prácticas Parlamentarias; Participación Ciudadana; Población y Desarrollo; Preservación del Medio Ambiente y Protección Ecológica; Presupuesto y Cuenta Pública; Protección Civil; Registral y Notarial; Salud y Asistencia Social; Seguridad Pública; Movilidad, Transporte y Vialidad; Transparencia de la Gestión; Turismo; Uso y Aprovechamiento de Bienes y Servicios Públicos; y Vivienda.
+Son comisiones de Análisis y Dictamen Legislativo que se construyen con el carácter de definitivo y funcionar para toda la Legislatura de la Asamblea las Comisiones de: Abasto y Distribución de Alimento; Administración Pública Local; Administración y Procuración de Justicia; Asuntos Indígenas, Pueblo y Barrios Originarios y Atención a Migrantes; asuntos Laborales y Previsión Social; Asuntos Políticos Electorales; Atención a Grupos Vulnerables; Ciencia y Tecnología; Cultura; Derecho (sic) Humanos; Desarrollo e Infraestructura Urbana: Desarrollo Metropolitano; Desarrollo Rural; Desarrollo Social; Educación; Para la Igualdad de Género; Fomento Económico; Gestión Integral del Agua; Hacienda; Juventud y Deporte; Normatividad Legislativa, Estudios y Prácticas Parlamentarias; Notariado; Participación Ciudadana: Población y Desarrollo; Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático; Presupuesto y Cuenta Pública; Protección Civil; Salud y Asistencia Social; Seguridad Pública; Movilidad, Transporte y Vialidad; Transparencia de la Gestión; Turismo; Uso y Aprovechamiento de Bienes y Servicios Públicos; y Vivienda.
 
 ### CAPÍTULO SEGUNDO
 
@@ -769,3 +767,11 @@ Primero.- Los artículos PRIMERO y SEGUNDO del presente Decreto entrarán en vig
 Segundo.- El artículo TERCERO entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Remítase el presente decreto al Jefe de Gobierno del Distrito Federal para el efecto de su publicación respecto de los artículos PRIMERO y SEGUNDO, y para su promulgación y publicación respecto del artículo TERCERO, en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 9 DE AGOSTO DE 2013.
+
+Primero.- Los ARTÍCULOS PRIMERO y SEGUNDO entrarán en vigor al día siguiente de su aprobación por el Pleno de esta Asamblea Legislativa del Distrito Federal.
+
+Segundo.- Los ARTÍCULOS TERCERO y CUARTO entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Remítase al Jefe de Gobierno del Distrito Federal para el efecto de su publicación respecto de los ARTÍCULOS PRIMERO y SEGUNDO, y para su promulgación y publicación respecto de los ARTÍCULOS TERCERO y CUARTO, en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
