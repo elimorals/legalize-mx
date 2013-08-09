@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-9182
 country: "mx"
 rank: "codigo"
 publication_date: "2013-01-25"
-last_updated: "2013-07-03"
+last_updated: "2013-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SIN"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR DE MANERA GRADUAL Y SUCESIVA EN LAS REGIONES QUE COMPRENDEN LOS DISTRITOS JUDICIALES DEL ESTADO DE SINALOA</small>
-
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR DE MANERA GRADUAL Y SUCESIVA EN LAS REGIONES QUE COMPRENDEN LOS DISTRITOS JUDICIALES DEL ESTADO DE SINALOA</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 25 de enero de 2013.
 
@@ -1983,13 +1983,11 @@ III. Por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocurr
 
 La violación a este ordenamiento será sancionada conforme a las disposiciones penales aplicables y la persona detenida será puesta en inmediata libertad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 212.
 
-Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; feminicidio previsto en el artículo 134 Bis; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; lesiones previstas en el artículo 137 Bis; homicidio calificado previsto en los artículos 139 y 139 Bis; homicidio por culpa grave previsto en el artículo 144, párrafo primero; homicidio agravado por razón de parentesco o relación familiar previstos en los artículos 152 y 153; secuestro previsto en los artículos 167, 167 Bis, 168, 168 Bis, 168 Bis A, 168 Bis B, 168 Bis C, 168 Bis D, y 168 Bis E; rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179, 180 y 181; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; despojo previsto en el artículo 226; extorsión previsto en el artículo 231; sustracción de menores o incapaces previsto en el primer párrafo del artículo 242; tráfico de menores previsto en el primer párrafo del artículo 243; asociación delictuosa previsto en el segundo párrafo del artículo 253; ataques a los medios de transporte previsto en el artículo 262; corrupción de menores e incapaces previsto en el artículo 273; pornografía infantil y prostitución de menores, previstos en los artículos 274 Bis, 274 Bis A, 274 Bis B, 274 Bis C; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; delito contra las actividades de las instituciones de seguridad pública y del Estado previsto en el artículo 293 Bis; tortura previsto en el artículo 328; evasión de presos previsto en el artículo 336 en su comisión dolosa; y los delitos electorales previstos en los artículos 356 fracción VIII; 357 fracción III, 359 y 362.
+Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; feminicidio previsto en el artículo 134 Bis; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; lesiones previstas en el artículo 137 Bis; homicidio calificado previsto en los artículos 139 y 139 Bis; homicidio por culpa grave previsto en el artículo 144, párrafo primero; homicidio agravado por razón de parentesco o relación familiar previstos en los artículos 152 y 153; secuestro previsto en los artículos 167, 167 Bis, 168, 168 Bis, 168 Bis A, 168 Bis B, 168 Bis C, 168 Bis D, y 168 Bis E; rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; desaparición forzada de personas previsto en los artículos 172 Bis, 172 Bis A, 172 Bis B, 172 Bis E y 172 Bis F; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179, 180 y 181; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; despojo previsto en el artículo 226; extorsión previsto en el artículo 231; sustracción de menores o incapaces previsto en el primer párrafo del artículo 242; tráfico de menores previsto en el primer párrafo del artículo 243; asociación delictuosa previsto en el segundo párrafo del artículo 253; ataques a los medios de transporte previsto en el artículo 262; corrupción de menores e incapaces previsto en el artículo 273; pornografía infantil y prostitución de menores, previstos en los artículos 274 Bis, 274 Bis A, 274 Bis B, 274 Bis C; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; delito contra las actividades de las instituciones de seguridad pública y del Estado previsto en el artículo 293 Bis; tortura previsto en el artículo 328; evasión de presos previsto en el artículo 336 en su comisión dolosa; y los delitos electorales previstos en los artículos 356 fracción VIII; 357 fracción III, 359 y 362.
 
 También se consideran como graves los delitos de trata de persona previstos en los artículos 5, 6, 7 y 8 de la Ley Estatal para Combatir, Prevenir y Sancionar la Trata de Personas del Estado de Sinaloa.
 
@@ -2551,11 +2549,9 @@ III. Secuestro, los previstos en los artículos 167, 167 Bis, 168, 168 Bis, 168 
 
 IV. Trata de personas, los previstos en los artículos 5, 6, 7 y 8 de la Ley Estatal para Combatir, Prevenir y Sancionar la Trata de Personas del Estado de Sinaloa;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2013)</small>
-
-V. Delitos cometidos por medios violentos, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; asalto previsto en los artículos 174 y 175; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; despojo previsto en el artículo 226; extorsión previsto en el artículo 231; ataques a los medios de transporte previsto en el artículo 262; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; delito contra las actividades de las instituciones de seguridad pública y del Estado previsto en el artículo 293 Bis;
+V. Delitos cometidos por medios violentos, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; desaparición forzada de personas previsto en los artículos 172 Bis, 172 Bis A, 172 Bis B, 172 Bis E y 172 Bis F; asalto previsto en los artículos 174 y 175; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; despojo previsto en el artículo 226; extorsión previsto en el artículo 231; ataques a los medios de transporte previsto en el artículo 262; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; delito contra las actividades de las instituciones de seguridad pública y del Estado previsto en el artículo 293 Bis;
 
 VI. Delitos contra el libre desarrollo de la personalidad, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: sustracción de menores o incapaces previsto en el primer párrafo del artículo 242; tráfico de menores previsto en el primer párrafo del artículo 243; corrupción de menores e incapaces previsto en el artículo 273; pornografía infantil y prostitución de menores, previstos en los artículos 274 Bis, 274 Bis A, 274 Bis B, 274 Bis C, y
 
@@ -5426,6 +5422,12 @@ P. M. D. L.
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 3 DE JULIO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Las reformas previstas en el artículo tercero del presente Decreto entrarán en vigor conforme al artículo primero transitorio del Decreto Número 738 publicado en el Periódico Oficial "El Estado de Sinaloa", el 25 de enero de 2013 que contiene el Código de Procedimientos Penales para el Estado de Sinaloa.
+
+P.O. 9 DE AGOSTO DE 2013
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
