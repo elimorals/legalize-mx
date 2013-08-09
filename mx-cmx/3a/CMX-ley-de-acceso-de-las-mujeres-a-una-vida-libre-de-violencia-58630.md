@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2012-07-25"
+last_updated: "2013-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -271,6 +271,16 @@ La prevención comprende medidas generales y especiales, entre las que deberán 
 ###### Artículo 14.
 
 Las medidas de prevención general son aquellas que desde los distintos ámbitos de acción de las dependencias están destinadas a toda la colectividad y tienen como propósito evitar la comisión de conductas delictivas y otros actos de violencia contra las mujeres, así como propiciar su empoderamiento.
+
+> <small>(ADICIONADO, G.O. 9 DE AGOSTO DE 2013)</small>
+
+###### Artículo 14 Bis.
+
+Serán consideradas como medidas especiales de prevención aquellas que permitan a las mujeres embarazadas, con discapacidad, de la tercera edad o afectadas por cualquiera otra condición de vulnerabilidad, el establecimiento de acciones concretas y obligatorias para que gocen de las siguientes facilidades:
+
+I. Contar con una atención preferente, ágil, pronta y expedita cuando se encuentren realizando algún trámite, solicitando algún servicio o participando de algún procedimiento ante cualquier Autoridad Local;
+
+II. Ser atendidas con prontitud y diligencia por los particulares que brinden algún servicio público.
 
 ###### Artículo 15.
 
@@ -1095,3 +1105,13 @@ El presente decreto entrará en vigor al siguiente día de su publicación.
 ###### ARTÍCULO TERCERO.
 
 Las autoridades del presente Decreto, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentarán las acciones establecidas para dar cumplimiento a la misma.
+
+G.O. 9 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
