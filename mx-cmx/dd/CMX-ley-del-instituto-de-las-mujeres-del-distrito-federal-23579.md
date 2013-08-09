@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-las-mujeres-del-distrito-federal-23579"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2007-12-26"
+last_updated: "2013-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23579&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-14"
 
 LEY DEL INSTITUTO DE LAS MUJERES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -420,7 +420,7 @@ La Directora General durará en su cargo tres años. Podrá ser ratificada para 
 
 #### SECCIÓN III. DEL CONSEJO CONSULTIVO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 20.
 
@@ -444,7 +444,9 @@ Al término de su encargo, el Consejo Consultivo presentará un informe anual a 
 
 El Consejo Consultivo Ciudadano estará integrado obligadamente por mujeres y hombres que representen la pluralidad y diversidad social con reconocida trayectoria en la defensa de los derechos de las mujeres y acciones a favor de la equidad entre los géneros, que cuenten con conocimiento, experiencia y sensibilidad con la realidad y necesidades de las mujeres.
 
-Podrán participar como invitadas ó invitados a las reuniones del Consejo Consultivo Ciudadano, con derecho a voz, las y los integrantes de la Comisión de Equidad y Género de la Asamblea Legislativa del Distrito Federal, así como una diputada o diputado de cada uno de los grupos parlamentarios o coaliciones que no estén representadas en dicha Comisión.
+> <small>(REFORMADO, G.O. 9 DE AGOSTO DE 2013)</small>
+
+Podrán participar como invitadas ó invitados a las reuniones del Consejo Consultivo Ciudadano, con derecho a voz, las y los integrantes de la Comisión para la Igualdad de Género de la Asamblea Legislativa del Distrito Federal, así como una diputada o diputado de cada uno de los grupos parlamentarios o coaliciones que no estén representadas en dicha Comisión.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -452,7 +454,9 @@ Podrán participar como invitadas ó invitados a las reuniones del Consejo Consu
 
 Las y los integrantes del Consejo Consultivo Ciudadano serán electos por la Asamblea Legislativa del Distrito Federal, a través del siguiente procedimiento:
 
-I. La Comisión de Equidad y Género de la Asamblea Legislativa, expedirá con cuarenta y cinco días naturales previos al término de la gestión del Consejo Consultivo Ciudadano, la convocatoria respectiva para renovarlo y proponer a mujeres y hombres que por su destacada trayectoria en la defensa de los derechos de las mujeres y
+> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2013)</small>
+
+I. La Comisión para la Igualdad de Género de la Asamblea Legislativa, expedirá con cuarenta y cinco días naturales previos al término de la gestión del Consejo Consultivo Ciudadano, la convocatoria respectiva para renovarlo y proponer a mujeres y hombres que por su destacada trayectoria en la defensa de los derechos de las mujeres y (sic)
 
 II. Acciones a favor de la equidad entre los géneros, que con conocimiento, experiencia y sensibilidad con la realidad y necesidades de las mujeres, puedan ser aspirantes a conformar dicho Consejo;
 
@@ -472,13 +476,17 @@ d) Presentar documento en el que se expongan las causas, razones y méritos que 
 
 e) Presentar documento de aceptación del o la aspirante en caso de ser seleccionado para formar parte del Consejo.
 
-V. Una vez transcurrido el plazo establecido en la fracción II del presente artículo, la Comisión de Equidad y Género contará con un término de quince días naturales, para seleccionar a quienes integrarán el nuevo Consejo Consultivo Ciudadano;
+> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2013)</small>
+
+V. Una vez transcurrido el plazo establecido en la fracción II del presente artículo, la Comisión para la Igualdad de Género contará con un término de quince días naturales, para seleccionar a quienes integrarán el nuevo Consejo Consultivo Ciudadano;
 
 VI. Dicha selección deberá ser sometida ante el Pleno de la Asamblea Legislativa, a fin de que por mayoría simple de la misma sea aprobada;
 
 VII. En caso de que la convocatoria se declare desierta, se prorrogaran los cargos de las y los integrantes del Consejo hasta en tanto se emita una nueva convocatoria y se cumpla el procedimiento establecido en el presente artículo, en un plazo no mayor a treinta días naturales.
 
-En caso de renuncia o remoción de alguna o algún consejero, la Comisión de Equidad y Género establecerá en los términos de la fracción VI del presente artículo la nueva convocatoria para ocupar el cargo vacante.
+> <small>(REFORMADO, G.O. 9 DE AGOSTO DE 2013)</small>
+
+En caso de renuncia o remoción de alguna o algún consejero, la Comisión para la Igualdad de Género establecerá en los términos de la fracción VI del presente artículo la nueva convocatoria para ocupar el cargo vacante.
 
 ###### Artículo 23.
 
@@ -612,7 +620,7 @@ La objetividad del Instituto orienta la función local de cumplir con su objeto 
 
 La organización del Servicio Público de Carrera, será regulada por las normas establecidas en conformidad con el artículo 2 de la Ley del Servicio Público de Carrera de la Administración Pública del Distrito Federal.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 15 DE MAYO DE 2007)</small>
 
 ## TÍTULO SÉPTIMO. DEL RECONOCIMIENTO AL SECTOR SOCIAL Y PRIVADO
 
@@ -668,7 +676,7 @@ Recinto Legislativo, a 20 de diciembre de 2001.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de febrero del dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR. - FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTIZ PINCHETTI.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, RAQUEL SOSA ELÍZAGA.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 15 DE MAYO DE 2007.
 
@@ -685,3 +693,11 @@ SEGUNDO.- Una vez electo el Consejo Ciudadano y refrendada su integración por e
 TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal para su publicación.
 
 CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 9 DE AGOSTO DE 2013.
+
+Primero.- Los ARTÍCULOS PRIMERO y SEGUNDO entrarán en vigor al día siguiente de su aprobación por el Pleno de esta Asamblea Legislativa del Distrito Federal.
+
+Segundo.- Los ARTÍCULOS TERCERO y CUARTO entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Remítase al Jefe de Gobierno del Distrito Federal para el efecto de su publicación respecto de los ARTÍCULOS PRIMERO y SEGUNDO, y para su promulgación y publicación respecto de los ARTÍCULOS TERCERO y CUARTO, en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
