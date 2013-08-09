@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-servicios-de-salud-del-instituto-de-seguridad-949
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-24"
-last_updated: "2013-06-24"
+last_updated: "2013-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE SERVICIOS DE SALUD DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE AGOSTO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE SERVICIOS DE SALUD DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. DEL 9 DE AGOSTO DE 2013 NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO.</small>
 
 Reglamento publicado en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el lunes 24 de junio de 2013.
 
