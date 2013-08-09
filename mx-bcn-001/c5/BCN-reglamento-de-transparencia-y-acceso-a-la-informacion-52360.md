@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-52360"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-17"
-last_updated: "2006-11-17"
+last_updated: "2013-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 9 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 17 de noviembre de 2006.
 
@@ -1044,3 +1046,23 @@ PRESIDENTE MUNICIPAL
 LIC. JULIO CESAR ARENAS RUIZ
 
 SECRETARIO FEDATARIO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE AGOSTO DE 2013.
+
+PRIMERO.- Este Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga del (sic) REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, Publicado en el Periódico Oficial. No. 48, de fecha 17 de noviembre de 2006, Tomo CXIII.
+
+TERCERO.- Aquellas disposiciones reglamentarias del Municipio de Ensenada que hagan referencia al Reglamento de Transparencia se entenderá como que hacen referencia al presente ordenamiento.
+
+CUARTO.- Los asuntos que se encuentren en trámite en términos del Reglamento abrogado, serán substanciados conforme al procedimiento previsto en la LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA, Publicada en el Periódico Oficial No. 42, de fecha 01 de octubre de 2010, Tomo CXVII, Sección II.
+
+QUINTO.- El Ayuntamiento deberá implementar los medios electrónicos para substanciar los procedimientos que regula este ordenamiento.
+
+SEXTO.- La Unidad Municipal Concentradora de Transparencia y Acceso a la Información Pública, deberá establecer su espacio exclusivo en las oficinas del Ayuntamiento para realizar las notificaciones por estrados que regula este ordenamiento.
+
+SÉPTIMO.- Los Sujetos Obligados deberán designar a la persona o personas de su adscripción que integrarán la Unidad Receptora en un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente reglamento.
+
+OCTAVO.- Lo no previsto en este Reglamento se estará a lo dispuesto por lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California o en su defecto por lo estipulado por el Comité Técnico.
