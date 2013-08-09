@@ -4,7 +4,7 @@ identifier: "FED-condiciones-generales-de-trabajo-para-magistrados-de-85877"
 country: "mx"
 rank: "otro"
 publication_date: "2009-09-09"
-last_updated: "2009-09-09"
+last_updated: "2013-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-09"
 
 CONDICIONES GENERALES DE TRABAJO PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA: 9 DE AGOSTO DE 2013.
 
 Condiciones publicadas en el Semanario Judicial de la Federación y su Gaceta, Tomo XXX, Noviembre de 2009, páginas de la 965 a la 982.
 
@@ -331,9 +331,13 @@ Con la finalidad de proporcionar seguridad económica y preservar el ingreso de 
 
 El Consejo aportará por cuenta y a nombre de los Magistrados de Circuito y Jueces de Distrito un monto neto igual al que aporten éstos, que podrá ser del 2%, 4%, 5% o 10% del sueldo básico.
 
+> <small>(REFORMADO, S.J.F. Y G. 9 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 48.
 
-Por cada cinco años de servicios prestados en el Gobierno Federal, debidamente acreditados, los Magistrados de Circuito y Jueces de Distrito tendrán como complemento del sueldo tabular, derecho al pago de una prima quinquenal hasta llegar a veinticinco años, conforme a lo que determine el Pleno del Consejo.
+Por cada cinco años de servicios prestados en el Gobierno Federal, debidamente acreditados, los Magistrados de Circuito y Jueces de Distrito tendrán derecho al pago de una prima quinquenal hasta llegar a los veinticinco años.
+
+El pago de la prima quinquenal aumenta a 12.5% de conformidad con los acuerdos, lineamientos y con las presentes Condiciones Generales emitidas por el Pleno del Consejo.
 
 ###### Artículo 49.
 
@@ -355,9 +359,11 @@ Con la finalidad de contribuir a la protección de la salud de los Magistrados d
 
 En caso de fallecimiento de un Magistrado de Circuito o Juez de Distrito, el Consejo otorgará un apoyo de gastos funerarios y la prestación denominada pagos de defunción, de conformidad con los lineamientos que al efecto emita el Pleno del Consejo.
 
+> <small>(REFORMADO, S.J.F.YG. 9 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 54.
 
-Se otorgará a los Magistrados de Circuito y Jueces de Distrito que se encuentren en situación de retiro: licencia con goce de sueldo de un mes de sueldo tabular con motivo de su jubilación; pensión de retiro por edad y tiempo de servicios o cesantía en edad avanzada; y, seguro de retiro, de cesantía en edad avanzada o de vejez, todo ello, como reconocimiento a las labores prestadas.
+Se otorgará a los Magistrados de Circuito y Jueces de Distrito que se encuentren en situación de retiro una licencia con goce de sueldo de un mes y medio de sueldo tabular como motivo de su jubilación; pensión de retiro por edad y tiempo de servicios o cesantía en edad avanzada; y, seguro de retiro, de cesantía en edad avanzada o de vejez, todo ello, como reconocimiento a las labores prestadas.
 
 ###### Artículo 55.
 
@@ -544,3 +550,19 @@ EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CO
 CERTIFICA:
 
 Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las Condiciones Generales de Trabajo para Magistrados de Circuito y Jueces de Distrito, fue aprobado por el Pleno del propio consejo, en sesión ordinaria de nueve de septiembre de dos mil nueve, por mayoría de cinco votos de los señores consejeros: presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, María Teresa Herrera Tello, César Alejandro Jáuregui Robles y Jorge Moreno Collado, en contra del voto emitido por el consejero Juan Carlos Cruz Razo.-México, Distrito Federal, a veintisiete de octubre de dos mil nueve.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F. Y G. 9 DE AGOSTO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Por lo que se refiere a la aplicación del incremento al 12.5% del pago de la prima quinquenal prevista en el artículo 48 del presente Acuerdo General, el mismo entrará en vigor a partir de julio de 2013 y se aplicará al segundo grupo quinquenal.
+
+El porcentaje incrementado se aplicará a todos los pagos quinquenales durante la vigencia de las presentes condiciones y a partir de la fecha prevista en el párrafo que antecede.
+
+TERCERO. Se instruye a la Dirección General de Programación y Presupuesto tome las medidas necesarias para dotar de suficiencia presupuestal a las partidas correspondientes de los conceptos de prima quinquenal y de licencia prejubilatoria.
+
+CUARTO. Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto por el artículo 28, fracción V, del Acuerdo General 84/2008, del Pleno del Consejo de la Judicatura Federal, que establece las atribuciones de los órganos en materia de transparencia, así como los procedimientos de acceso a la información pública y protección de datos personales, en el Portal de Transparencia del Consejo de la Judicatura Federal.
+
+QUINTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las Condiciones Generales de Trabajo para Magistrados de Circuito y Jueces de Distrito.
