@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-establece-el-derecho-a-la-pension-para-el-bienestar-345
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-18"
-last_updated: "2008-10-22"
+last_updated: "2013-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34578&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,19 +20,13 @@ issue_date: "2003-11-13"
 ---
 # LEY QUE ESTABLECE EL DERECHO A LA PENSION PARA EL BIENESTAR DE LAS PERSONAS MAYORES, RESIDENTES EN LA CIUDAD DE MEXICO -- ANTES LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN LA CIUDAD DE MEXICO -- ANTES LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN EL DISTRITO FEDERAL --
 
-LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN EL DISTRITO FEDERAL
+LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 18 de noviembre de 2003.
 
 (Al margen superior izquierdo dos escudos que dicen: GOBIERNO DEL DISTRITO FEDERAL.- México.- La Ciudad de la Esperanza.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA SU DENOMINACION, G.O. 22 DE OCTUBRE DE 2008)</small>
-
-LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN EL DISTRITO FEDERAL.
 
 ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
 
@@ -54,7 +48,7 @@ D E C R E T A :
 
 LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN EL DISTRITO FEDERAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 22 DE OCTUBRE DE 2008)</small>
 
@@ -62,7 +56,7 @@ LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES 
 
 Los adultos mayores de sesenta y ocho años, residentes en el Distrito Federal tienen derecho a recibir una pensión diaria no menor a la mitad del salario mínimo vigente en el Distrito Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 22 DE OCTUBRE DE 2008)</small>
 
@@ -86,6 +80,18 @@ La verificación de la residencia, la elaboración y actualización permanente d
 
 Los servidores públicos, responsables de la ejecución de esta Ley, que no cumplan con la obligación de actuar con apego a los principios de igualdad e imparcialidad, incurrirán en falta grave y serán sancionados conforme a los ordenamientos legales aplicables.
 
+> <small>(ADICIONADO, G.O. 9 DE AGOSTO DE 2013)</small>
+
+###### Artículo 6.
+
+El Instituto para la Atención de los Adultos Mayores en el Distrito Federal deberá mantener actualizado su padrón de beneficiarios para consulta directa y en la sección de transparencia en su página electrónica.
+
+> <small>(ADICIONADO, G.O. 9 DE AGOSTO DE 2013)</small>
+
+###### Artículo 7.
+
+El titular del Registro Civil del Distrito Federal informará al Instituto para la Atención de los Adultos Mayores en el Distrito Federal, dentro del plazo de diez días hábiles del mes calendario siguiente, la relación mensual de las actas de defunción de personas de 68 años de edad y mayores expedidas por dicho registro o alguno de los juzgados dependientes de éste.
+
 ## TRANSITORIOS
 
 ÚNICO.- La presente Ley, entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
@@ -96,7 +102,7 @@ POR LA MESA DIRECTIVA: DIP. OBDULIO ÁVILA MAYO, PRESIDENTE.- SECRETARIA, DIP. M
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b) de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los trece días del mes de noviembre del dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE SALUD, ASA EBBA CHRISTINA LAURELL.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 16 DE FEBRERO DE 2007.
 
@@ -115,3 +121,9 @@ SEGUNDO.- El presente decreto entrará en vigor el 1 de septiembre de 2009.
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
 
 CUARTO.- En un periodo no mayor de 60 días contado a partir de la entrada en vigor de las presentes reformas, el Jefe de Gobierno del Distrito Federal deberá publicar las reformas y adecuaciones necesarias al Reglamento de la Ley.
+
+G.O. 9 DE AGOSTO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor a partir del día hábil siguiente al de su publicación.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
