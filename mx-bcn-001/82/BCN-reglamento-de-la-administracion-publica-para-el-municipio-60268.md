@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2011-07-29"
+last_updated: "2013-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -589,9 +589,11 @@ X.- Las demás que expresamente le encomienden las leyes, reglamentos o le instr
 
 ### CAPITULO TERCERO. DE LA COORDINACIÓN GENERAL DE GABINETE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 41.
 
-La Coordinación General de Gabinete tendrá a su cargo la Dirección de Informática, y las áreas de Innovación Gubernamental y Vinculación Empresarial, y le corresponde el despacho de los siguientes asuntos:
+La Coordinación General de Gabinete tendrá a su cargo la Dirección de Informática, y las áreas de Innovación Gubernamental y Vinculación Empresarial y la Unidad Municipal Concentradora de Transparencia y Acceso a la Información Pública del Municipio de Ensenada, y le corresponde el despacho de los siguientes asuntos:
 
 I.- Dar seguimiento ejecutivo a los proyectos, planes, objetivos, estrategias, programas, metas y acciones de las diferentes paramunicipales, secretarías, coordinaciones, y direcciones de la Administración Pública Municipal, derivadas de los planes, decisiones y compromisos del Ayuntamiento o del Presidente Municipal;
 
@@ -621,6 +623,10 @@ XIII.- Recibir para su evaluación, del área de Innovación Gubernamental, las 
 
 XIV.- Las demás que determine (sic) las Leyes, reglamentos o le instruya el Presidente Municipal.
 
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2013)</small>
+
+XV.- Aplicar las disposiciones relativas a la administración de documentos públicos de Transparencia y acceso a la información, operando el archivo de trámite la Unidad Municipal Concentradora de Transparencia.
+
 #### SECCION PRIMERA. DE LA DIRECCIÓN DE INFORMÁTICA
 
 ###### ARTÍCULO 42.
@@ -643,7 +649,9 @@ VII.- Realizar estudios tecnológicos, cuyos resultados puedan ser utilizados pa
 
 VIII.- Determinar y proponer estándares que deben cumplir los sistemas y los equipos para mantener un mejor rendimiento de los mismos;
 
-IX. Cumplir con las disposiciones del Reglamento de Transparencia y Acceso a la Información del Municipio, publicando, en tiempo y forma, en los medios electrónicos dependientes del Gobierno Municipal la información que para el efecto pongan a su disposición las diferentes dependencias y entidades.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2013)</small>
+
+IX. Elaborar y mantener las plataformas adecuadas que permitan a los sujetos obligados a cumplir con las disposiciones del Reglamento de Transparencia y Acceso a la Información del Municipio, publicando, en tiempo y forma, en los medios electrónicos dependientes del Gobierno Municipal la información de oficio.
 
 X.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Coordinador General de Gabinete.
 
@@ -684,6 +692,24 @@ V.- Propiciar las relaciones empresariales entre el Ayuntamiento y otras ciudade
 VI.- Coordinarse con las Instituciones Educativas del nivel medio superior y superior, Sector Empresarial y Gubernamental para fomentar la cultura emprendedora.
 
 VII.- Las demás que expresamente le encomienden las leyes, reglamentos o le instruya el Coordinador General de Gabinete.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2013)</small>
+
+ARTÍCULO 44 BIS.- A la Unidad Municipal Concentradora de Transparencia y Acceso a la Información Publica le corresponde:
+
+I.- Ser el órgano operativo encargado de la difusión de la información de oficio.
+
+II.- Supervisar a los sujetos obligados en la difusión de la información de oficio.
+
+III.- Recibir y dar trámite a las solicitudes de acceso a la información y protección de datos personales.
+
+IV.- Servir como vínculo entre los particulares solicitantes y la Administración Pública.
+
+V.- Informar al comité de todo aquello acontecido en el ejercicio de sus funciones que pueda servir de base para emitir criterios generales basados en casos particulares.
+
+VI.- Monitorear la Información publicada por las entidades, para verificar el cumplimiento de las actualizaciones que señala el Reglamento.
+
+VI.- Las demás que le señales (sic) las Leyes y Reglamentos vigentes.
 
 ### CAPITULO TERCERO (SIC). DE LA SECRETARIA GENERAL DEL AYUNTAMIENTO
 
@@ -2212,3 +2238,7 @@ ACUERDO POR EL QUE SE REFORMA DE ADICIÓN DEL CAPÍTULO DÉCIMO DENOMINADO "DE L
 PRIMERO.- Siendo aprobada la presente reforma, incorpórese en el libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada, Baja California.
 
 SEGUNDO.- La Secretaría de Turismo gozará de autonomía en el ejercicio presupuestal de conformidad al Presupuesto de Egresos del Municipio que corresponda en cada ejercicio fiscal.
+
+P.O. 9 DE AGOSTO DE 2013.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
