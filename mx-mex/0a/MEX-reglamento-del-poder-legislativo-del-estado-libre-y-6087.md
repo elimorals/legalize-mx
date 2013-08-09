@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2012-04-24"
+last_updated: "2013-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -757,11 +757,11 @@ VI.- Así lo acuerde la Asamblea.
 
 La Legislatura cursará invitación al Presidente de los Estados Unidos Mexicanos, a las sesiones solemnes en las que el Gobernador del Estado rinda protesta o presente el informe sobre el estado que guarde la administración pública.
 
-> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 46.
 
-En Sesión de la Legislatura, que deberá celebrarse en cualquier día de los comprendidos del 14 al 22 de septiembre del año que corresponda, a la recepción del informe presentado por el Gobernador del Estado, la Asamblea analizará el contenido del mismo.
+En sesión de la Legislatura, que deberá celebrarse en un plazo no menor a diez ni mayor a veinte días posteriores a la recepción del informe presentado por el Gobernador del Estado, la Asamblea analizará el contenido del mismo.
 
 ###### Artículo 47.
 
@@ -1393,7 +1393,7 @@ IV.- Reanudación de la sesión;
 
 V.- Himno Nacional;
 
-VI.- Declaratoria solemne de apertura del período ordinario;
+VI.- (DEROGADA, G.G. 9 DE AGOSTO DE 2013)
 
 > <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
 
@@ -2360,3 +2360,9 @@ G.G. 24 DE ABRIL DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 9 DE AGOSTO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de que inicie la vigencia de la reforma correspondiente del artículo 77 fracción XVIII de la Constitución Política del Estado Libre y Soberano de México.
