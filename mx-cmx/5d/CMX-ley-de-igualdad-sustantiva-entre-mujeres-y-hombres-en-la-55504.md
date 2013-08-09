@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-igualdad-sustantiva-entre-mujeres-y-hombres-en-la-55504"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-15"
-last_updated: "2013-05-21"
+last_updated: "2013-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55504&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,9 @@ issue_date: "2007-05-02"
 ---
 # LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MEXICO -- ANTES LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN EL DISTRITO FEDERAL --
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MAYO DE 2013 EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MAYO DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 21 DE MAYO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.O. DE 10 DE MAYO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 15 de mayo de 2007.
 
@@ -244,7 +240,9 @@ IV. La Secretaría de Salud;
 
 V. La Procuraduría General de Justicia del Distrito Federal;
 
-VI. La Comisión de Equidad y Género de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2013)</small>
+
+VI. La Comisión Para la Igualdad de Género de la Asamblea Legislativa del Distrito Federal;
 
 VII. El Tribunal Superior de Justicia del Distrito Federal.
 
@@ -589,3 +587,11 @@ DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 21 DE LA LEY DE IGUALDAD SUSTANTIVA E
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para mayor difusión.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 9 DE AGOSTO DE 2013.
+
+Primero.- Los ARTÍCULOS PRIMERO y SEGUNDO entrarán en vigor al día siguiente de su aprobación por el Pleno de esta Asamblea Legislativa del Distrito Federal.
+
+Segundo.- Los ARTÍCULOS TERCERO y CUARTO entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Remítase al Jefe de Gobierno del Distrito Federal para el efecto de su publicación respecto de los ARTÍCULOS PRIMERO y SEGUNDO, y para su promulgación y publicación respecto de los ARTÍCULOS TERCERO y CUARTO, en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
