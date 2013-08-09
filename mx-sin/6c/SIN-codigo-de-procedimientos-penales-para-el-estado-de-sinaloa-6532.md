@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "2013-07-12"
+last_updated: "2013-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO EN FORMA GRADUAL Y SUCESIVA DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y CUARTO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2013.</small>
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO EN FORMA GRADUAL Y SUCESIVA DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y CUARTO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2013.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 12 DE JULIO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 873 PUBLICADO EN EL P.O. DE 3 DE JULIO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2013.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -983,9 +981,9 @@ C).- Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda o
 
 La violación de esta disposición, hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2013)</small>
 
-Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; feminicidio previsto en el artículo 134 Bis; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; lesiones previstas en el artículo 137 Bis; homicidio calificado previsto en los artículos 139 y 139 Bis; homicidio por culpa grave previsto en el artículo 144, párrafo primero; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en los artículos 167, 167 Bis, 168, 168 Bis, 168 Bis A, 168 Bis B, 168 Bis C, 168 Bis D, y 168 Bis E; rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179, 180 y 181; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; despojo previsto en el artículo 226; extorsión previsto en el artículo 231; sustracción de menores o incapaces previsto en el primer párrafo del artículo 242; tráfico de menores previsto en el primer párrafo del artículo 243; asociación delictuosa previsto en el segundo párrafo del artículo 253; ataques a los medios de transporte previsto en el artículo 262; corrupción de menores e incapaces previsto en el artículo 273; pornografía infantil y prostitución de menores, previstos en los artículos 274 Bis, 274 Bis A, 274 Bis B, 274 Bis C; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; delitos contra las actividades de las instituciones de seguridad pública y del Estado previstos en el artículo 293 Bis; tortura previsto en el artículo 328; evasión de presos previsto en el artículo 336 en su comisión dolosa; y los delitos electorales previstos en los artículos 356 fracción VIII; 357 fracción III, 359 y 362.
+Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; feminicidio previsto en el artículo 134 Bis; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; lesiones previstas en el artículo 137 Bis; homicidio calificado previsto en los artículos 139 y 139 Bis; homicidio por culpa grave previsto en el artículo 144, párrafo primero; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en los artículos 167, 167 Bis, 168, 168 Bis, 168 Bis A, 168 Bis B, 168 Bis C, 168 Bis D, y 168 Bis E; rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; desaparición forzada de personas previsto en los artículos 172 Bis, 172 Bis A, 172 Bis B, 172 Bis E y 172 Bis F; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179, 180 y 181; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; despojo previsto en el artículo 226; extorsión previsto en el artículo 231; sustracción de menores o incapaces previsto en el primer párrafo del artículo 242; tráfico de menores previsto en el primer párrafo del artículo 243; asociación delictuosa previsto en el segundo párrafo del artículo 253; ataques a los medios de transporte previsto en el artículo 262; corrupción de menores e incapaces previsto en el artículo 273; pornografía infantil y prostitución de menores, previstos en los artículos 274 Bis, 274 Bis A, 274 Bis B, 274 Bis C; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; delitos contra las actividades de las instituciones de seguridad pública previstos en el artículo 293 Bis; tortura previsto en el artículo 328; evasión de presos previsto en el artículo 336 en su comisión dolosa; y los delitos electorales previstos en los artículos 356 fracción VIII; 357 fracción III, 359 y 362.
 
 Igualmente para todos los efectos de ley, serán considerados como graves los delitos señalados con anterioridad cometidos dolosamente en grado de tentativa.
 
@@ -2239,7 +2237,7 @@ Los testigos deben ser examinados separadamente. Sólo las partes podrán asisti
 
 I.- Cuando sea ciego;
 
-II.- Cuando sea sordo o mundo; (sic) y
+II.- Cuando sea sordo o mundo (sic); y
 
 III.- Cuando ignore el idioma castellano.
 
@@ -2355,7 +2353,7 @@ I.- Si persiste en su declaración anterior;
 
 II.- Si conocía con anterioridad a la persona a quien atribuye el hecho, si la conoció en el momento de la ejecución del que se averigua; y
 
-III.- Si después de la ejecución del hecho la ha visto, en qué lugar, porqué (sic) causas y motivo.
+III.- Si después de la ejecución del hecho la ha visto, en qué lugar, porqué causas y motivo.
 
 ###### ARTICULO 300.
 
@@ -4284,6 +4282,12 @@ DÉCIMO PRIMERO. El Congreso del Estado deberá expedir la declaratoria a que se
 DÉCIMO SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 3 DE JULIO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Las reformas previstas en el artículo tercero del presente Decreto entrarán en vigor conforme al artículo primero transitorio del Decreto Número 738 publicado en el Periódico Oficial "El Estado de Sinaloa", el 25 de enero de 2013 que contiene el Código de Procedimientos Penales para el Estado de Sinaloa.
+
+P.O. 9 DE AGOSTO DE 2013.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
