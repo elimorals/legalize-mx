@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6507
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2008-12-31"
+last_updated: "2013-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN, PUBLICADA EN EL P.O. DE 9 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Michoacán, el miércoles 31 de diciembre de 2008.
 
@@ -848,3 +850,13 @@ DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de O
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 24 veinticuatro días del mes de Diciembre del año 2008 dos mil ocho.
 
 SUFRAGIO EFECTIVO NO REELECCIÓN.- EL GOBERNADOR CONSTlTUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE AGOSTO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Michoacán de Ocampo, expedida mediante Decreto número 70 publicada el 31 de diciembre del 2008.
+
+TERCERO. Los Poderes Ejecutivo y Judicial del Estado, establecerán los mecanismos, protocolos y procedimientos institucionales para garantizar a las mujeres la debida tramitación y aplicación de las órdenes de protección, así como la conformación del subsistema respectivo, de conformidad con esta Ley en un plazo no mayor a ciento ochenta días naturales.
