@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-instituto-catastral-del-estado-de-71145"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-21"
-last_updated: "2010-08-30"
+last_updated: "2013-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO INTERNO DEL INSTITUTO CATASTRAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL INSTITUTO CATASTRAL DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 10 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 21 de noviembre de 2009.
 
@@ -662,3 +664,9 @@ LIC. JORGE MARTINEZ GRACIDA ORDUÑA.
 P.O. 30 DE AGOSTO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Reglamento abroga el anterior Reglamento de fecha dieciséis de octubre del 2009, publicada en el periódico oficial número 47 con fecha 21 de noviembre del 2009.
