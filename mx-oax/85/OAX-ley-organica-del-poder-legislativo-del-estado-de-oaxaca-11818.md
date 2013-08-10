@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2013-07-20"
+last_updated: "2013-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -71,15 +71,11 @@ Esta Ley, sus reformas y adiciones, y los Reglamentos que de ella se deriven, no
 
 El Congreso del Estado, tendrá su residencia oficial en la Ciudad de Oaxaca de Juárez, celebrará sus sesiones en el edificio sede del Poder Legislativo y no podrá trasladarse a otro lugar, sin que así lo acuerden las tres cuartas partes de los Diputados presentes.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2004)</small>
-
-###### ARTICULO 7°.
-
-El Congreso del Estado, tendrá cada año dos períodos ordinarios de sesiones; el primero comenzará el quince de noviembre y terminará el treinta y uno de marzo; y el segundo dará principio el primero de junio y concluirá el quince de agosto.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 7º.
 
-El Congreso del Estado, tendrá cada año dos períodos ordinarios de sesiones; el primero comenzará el 15 de noviembre y terminará el 30 de abril, y el segundo dará principio el primero de junio y concluirá el 30 de septiembre. El Congreso se reunirá además, en períodos extraordinarios siempre que sea convocado por la Diputación Permanente o por el Ejecutivo del Estado, en los términos que establece la Constitución Política del Estado.
+El Congreso del Estado, tendrá cada año dos periodos ordinarios de sesiones; el primero comenzará el quince de noviembre y terminará el treinta de abril; y el segundo dará principio el primero de junio y concluirá el treinta de septiembre.
 
 ###### ARTICULO 8º.
 
@@ -924,3 +920,9 @@ P.O. 20 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día de su aprobación.
 
 SEGUNDO.- Todos los asuntos turnados para estudio y dictamen a la actual Comisión Permanente de Equidad y Género, se entenderán remitidos a la Comisión Permanente de Igualdad de Género.
+
+P.O. 10 DE AGOSTO DE 2013.
+
+PRIMERO.- Este Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Ordénese su publicación en el Periódico Oficial del Estado de Oaxaca.
