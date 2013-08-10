@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-responsabilidades-de-los-servidores-publicos-405
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-08"
-last_updated: "2012-01-28"
+last_updated: "2013-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 8 de diciembre de 1984.
 
@@ -111,7 +111,9 @@ I.- El ataque a las instituciones democráticas.
 
 II.- El ataque a la forma de Gobierno Republicano, Representativo y Federal.
 
-III.- Las violaciones graves y sistemáticas a las garantías individuales o sociales.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+
+III. Las violaciones graves y sistemáticas a los derechos humanos o sociales.
 
 IV.- El ataque a la libertad de sufragio.
 
@@ -735,7 +737,7 @@ Palacio de Gobierno, Colima, Colima, a 27 de noviembre de 1984.
 
 La Gobernadora Const. del Estado, LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secretario General de Gobierno, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE JULIO DE 2007.
 
@@ -744,3 +746,7 @@ P.O. 21 DE JULIO DE 2007.
 P.O. 28 DE ENERO DE 2012.
 
 ÚNICO.-·El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE AGOSTO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
