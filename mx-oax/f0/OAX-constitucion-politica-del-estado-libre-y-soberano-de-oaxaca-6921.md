@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2013-02-09"
+last_updated: "2013-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2013.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1121,11 +1121,11 @@ Los diputados electos que cuenten con su constancia de mayoría y validez expedi
 
 Para tal efecto, deberán presentar dentro de los días siete a nueve de noviembre del año de la elección, ante el Oficial Mayor del Congreso del Estado, la constancia o resolución de referencia para su registro, toma de razón y entrega de la credencial de acceso a la sesión de instalación y toma de protesta, que tendrá verificativo el día trece de noviembre del año de la elección, en cuya fecha se hará la elección de los integrantes de la Mesa Directiva en los términos de la Ley Orgánica del Poder Legislativo y su Reglamento, empezando a fungir a partir del día quince de Noviembre.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 42.
 
-La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el primer período de sesiones dará principio el día quince de noviembre y concluirá el treinta y uno de marzo, y el segundo período, dará principio el primero de junio y concluirá el quince de agosto.
+La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el primer período de sesiones dará principio el día quince de noviembre y concluirá el treinta de abril, y el segundo período, dará principio el primero de junio y concluirá el treinta de septiembre.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
@@ -2453,7 +2453,7 @@ IV. Conocer de las peticiones formuladas por el Gobernador del Estado, por trein
 
 V. Substanciar el juicio para la protección de los derechos humanos, por incumplimiento de las recomendaciones hechas a la autoridad por la Defensoría de los Derechos Humanos del Pueblo de Oaxaca;
 
-VI. Solventar recursos relativos a los requisitos de la revocación del mandato señalados en el artículo 25 de esta Constitución.
+VI. Solventar recursos relativos a los requisitos de la revocación del mandato señalados en el artículo 25 de la Constitución.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2971,7 +2971,7 @@ Las declaraciones y resoluciones del Ayuntamiento son inatacables.
 
 ###### ARTICULO 126.
 
-En el Estado de Oaxaca, todo individuo tiene derecho a recibir educación. El Estado y los Municipios impartirán educación preescolar, primaria y secundaria. La educación preescolar, primaria y secundaria es obligatoria.
+En el Estado de Oaxaca todo individuo tiene derecho a recibir educación. El Estado y los Municipios impartirán educación preescolar, primaria y secundaria. La educación preescolar, primaria y secundaria es obligatoria.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -3707,7 +3707,7 @@ P.O. 20 DE MARZO DE 2004.
 
 DECRETO NO. 420 QUE REFORMA EL ART. 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE OAXACA
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno de Oaxaca.
 
 P.O. 20 DE MARZO DE 2004.
 
@@ -3998,3 +3998,9 @@ P.O. 9 DE FEBRERO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- En cuarenta y cinco días el Congreso modificará su Ley Orgánica para establecer un mecanismo profesional y técnico con el cual se apoyará para aprobar los proyectos de inversión en infraestructura pública o de prestación de servicios públicos en el Estado.
+
+P.O. 10 DE AGOSTO DE 2013.
+
+PRIMERO.- Este Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Ordénese su publicación en el Periódico Oficial del Estado de Oaxaca.
