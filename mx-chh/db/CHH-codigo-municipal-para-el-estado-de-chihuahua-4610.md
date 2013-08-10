@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2013-07-10"
+last_updated: "2013-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -199,9 +199,9 @@ XXV.- GRAN MORELOS, con cabecera en el pueblo denominado San Nicolás de Carreta
 
 XXVI.- GUADALUPE, con cabecera en el pueblo del mismo nombre y las (sic) sección municipal de Vado de Cedillos;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
 
-XXVII.- GUADALUPE Y CALVO.- Con cabecera en el pueblo del mismo nombre y las secciones municipales de Baborigame, Calabacillas, Dolores, Mesa de San Rafael, San Julián, San Juan Nepomuceno, San Simón, Tohayana, Atascaderos y Turuachi;
+XXVII.- GUADALUPE Y CALVO, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Baborigame, Calabacillas, Dolores, Mesa de San Rafael, San Julián, San Juan Nepomuceno, San Simón, Tohayana, Atascaderos, Turuachi, Barbechitos y Rancho de Enmedio.
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
 
@@ -4389,6 +4389,8 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 Las disposiciones legales y administrativas estatales que se encuentren vigentes a la entrada en vigor del presente Decreto y que se opongan a lo dispuesto por la Ley General de Contabilidad Gubernamental, dejarán de aplicarse en la medida en que resulte aplicable esta última y las disposiciones que de ella emanen.
 
+P.O. 10 DE AGOSTO DE 2013.
+
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -4404,6 +4406,18 @@ El presente Decreto entrará en vigor al día siguiente de su publicación el Pe
 P.O. 6 DE JULIO DE 2013.
 
 DECRETO No. 1272/2013 II P.O. POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEXTO, AMBOS DEL ARTÍCULO 110 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la elección de las Juntas Municipales en las Secciones Municipales de Barbechitos y Rancho de Enmedio, respectivamente, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente, debiéndose llevar a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Presidente Municipal de Guadalupe y Calvo contará con un plazo máximo de noventa días para brindar a las nuevas secciones municipales, la infraestructura necesaria y los recursos, en la medida de sus posibilidades económicas, para que aquellas puedan iniciar sus trabajos.
 
 ###### ARTÍCULO ÚNICO.
 
