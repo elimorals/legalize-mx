@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2012-09-22"
+last_updated: "2013-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRÁNSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 10 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -3446,3 +3448,45 @@ P.O. 22 DE SEPTIEMBRE DE 2012.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. El titular del Poder Ejecutivo del Estado, treinta días posteriores a la entrada en vigor del presente decreto, deberá realizar las adecuaciones necesarias al Reglamento de la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco.
+
+P.O. 10 DE AGOSTO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco.
+
+TERCERO. Las solicitudes, recursos y demás trámites que, hasta antes de la entrada en vigor del presente decreto, hayan sido iniciados ante la Secretaría o ante la Secretaría de Vialidad y Transporte en términos del artículo sexto transitorio del decreto 24395/LX/13, se seguirán sustanciando y resolverán de conformidad con la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco abrogada.
+
+CUARTO. El Ejecutivo del Estado, en el término de noventa días naturales, emitirá las disposiciones reglamentarias necesarias para el debido cumplimiento del presente decreto.
+
+QUINTO. Con base en los estudios que el Instituto realice, la Secretaría procederá a reorganizar la red de rutas para la prestación del servicio público de transporte de pasajeros colectivo y masivo, conforme al Programa General de Trasporte que al efecto establezca el Ejecutivo.
+
+SEXTO. Las personas que actualmente cuentan con concesiones, permisos o subrogaciones del servicio público de transporte en cualquiera de las modalidades, conservarán sus derechos que se encuentren vigentes y hayan sido adquiridos legalmente conforme a la Ley de los Servicios de Vialidad, Tránsito y Transporte que se abroga mediante este decreto, pudiendo permanecer prestando el servicio que tienen autorizado, sujetándose a la normatividad establecida en ésta, a la reestructuración del servicio de transporte público que al efecto expida el Ejecutivo del Estado, a esta ley y sus Reglamentos correspondientes.
+
+SÉPTIMO. Se delega en forma temporal al Secretario de Movilidad del Estado, la autorización, sanción y resolución de trámites con los diversos permisos y concesiones de servicio de transporte público, con el fin primordial de regularizar la cobertura y distribución del servicio de acuerdo con el reglamento que para este efecto se expida, hasta la culminación de los procesos que los resuelvan.
+
+OCTAVO. El proceso de transición y restructuración establecido, en ningún caso podrá generar más derechos que los que correspondan a quienes sean concesionarios del servicio público de transporte en la fecha de entrada en vigor de este decreto.
+
+NOVENO. Para efectos de las disposiciones transitorias aquí contenidas será aplicable sólo a quienes en la fecha de entrada en vigor del presente decreto sean:
+
+I. Concesionarios del servicio público de transporte de pasajeros colectivo;
+
+II. Permisionarios del servicio de taxi en todas sus modalidades;
+
+III. Subrogatarios del servicio público de transporte de pasajeros colectivo a cargo de un organismo público descentralizado, o
+
+IV. Permisionarios del servicio público de transporte de pasajeros colectivo que hayan venido prestando el servicio por un año o más.
+
+Para las personas referidas deberán solicitar y obtener su inscripción en el Registro Estatal que abrirá y mantendrá la Secretaría.
+
+DÉCIMO. El registro estatal deberá abrir un nuevo libro para realizar todas las inscripciones relativas a las concesiones para el servicio público de transporte que se otorguen de conformidad con la ley.
+
+DÉCIMO PRIMERO. Los actuales choferes del servicio de taxi o radio taxi deberán renovar su licencia de conducir, una vez que haya expirado su vigencia, apegándose a lo establecido en esta ley.
+
+DÉCIMO SEGUNDO. Las solicitudes, recursos y demás trámites que, hasta antes de la entrada en vigor del presente decreto, hayan sido iniciados ante el Organismo Coordinador de la Operación Integral del Servicio de Transporte Público del Estado y Centro Estatal de Investigación de la Vialidad y el Transporte se seguirán sustanciando y resolverán de conformidad con la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco abrogada.
+
+DÉCIMO TERCERO. En contra de las resoluciones y de los acuerdos administrativos que se tomen al amparo de cualquiera de los artículos transitorios del presente decreto, no procederá la suspensión en términos de la de la (sic) presente ley.
+
+DÉCIMO CUARTO. Para que pueda aplicar la tarifa indexada deberá existir y estar en marcha el pago sin dinero en efectivo, prepago o pago electrónico, sólo en los municipios cuya población sea superior a los cincuenta mil habitantes.
+
+DÉCIMO QUINTO. Se derogan todas las disposiciones que se opongan al presente decreto.
