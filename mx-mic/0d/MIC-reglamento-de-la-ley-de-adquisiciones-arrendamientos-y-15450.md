@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-15450"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-11"
-last_updated: "1999-11-11"
+last_updated: "2013-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACAN DE OCAMPO
+REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de noviembre de 1999.
 
@@ -91,6 +91,10 @@ Para los efectos de lo dispuesto en el artículo 17 de la Ley, la planeación y 
 
 Respecto a los bienes de consumo, arrendamientos y servicios, la planeación y programación se realizará conforme al monto de las asignaciones presupuestales correspondientes y a su calendario de ministración.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
+Es obligación del Comité dar cuenta a la Coordinación de Contraloría cuando alguna dependencia recurra a los procedimientos dispuestos en las fracciones II y III del artículo 5° de este Reglamento, debido a la falta de planeación para la contratación de adquisiciones, arrendamientos y prestación de servicios conforme al artículo 18 de la Ley.
+
 ### Capítulo III. De los Procedimientos y los Contratos
 
 ###### ARTICULO 5º.
@@ -103,11 +107,17 @@ II. Por invitación restringida a cuando menos tres proveedores; y,
 
 III. Por adjudicación directa.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
+Las dependencias y entidades deberán preferir el procedimiento de licitación pública para la contratación de adquisiciones, arrendamientos y servicios, evitando en lo posible emplear los procedimientos señalados en las fracciones II y III de este artículo, salvo en aquellos casos de excepción debidamente fundados y motivados conforme a lo dispuesto en el siguiente artículo.
+
 ###### ARTICULO 6º.
 
 Para los efectos de lo dispuesto por la fracción I del artículo 6º de la Ley, el Comité expedirá anualmente, el acuerdo mediante el cual se establezcan los montos y limites que deberán observar las dependencias y entidades y, en su caso los ayuntamientos, para la adquisición de bienes y servicios según el procedimiento que se utilice conforme al artículo anterior.
 
-Asimismo, emitirá los acuerdos expresos mediante los cuales se autorice a las dependencias y entidades, la realización de adquisiciones sin llevar a cabo la licitación pública, cuando se den los supuestos de excepción a que se refieren los artículos 30 de la Ley y el 31 de este Reglamento.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
+Asimismo, emitirá los acuerdos expresos mediante los cuales se autorice a las dependencias y entidades, la realización de adquisiciones sin llevar a cabo la licitación pública, únicamente cuando se acrediten y soporten plenamente los supuestos de excepción a que se refieren los artículos 30 de la Ley y el 31 de este Reglamento.
 
 ###### ARTICULO 7º.
 
@@ -133,9 +143,11 @@ V. El lugar, plazo de entrega y condiciones de pago; y,
 
 VI. En el caso de arrendamiento, la indicación de si éste es con opción a compra.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 9º.
 
-Las bases para las licitaciones públicas se pondrán a disposición de los interesados a partir de la fecha de publicación de la convocatoria y hasta siete días naturales previos al acto de presentación y apertura de proposiciones, y contendrán, como mínimo, lo siguiente:
+Las bases para las licitaciones públicas serán elaboradas por el Comité, con base en el requerimiento de las dependencias y entidades, en el que se haga la descripción general y se señalen las especificaciones, cantidad y unidad de medida de los bienes o servicios que sean objeto de la licitación. Se pondrán a disposición de los interesados a partir de la fecha de publicación de la convocatoria y hasta cuarenta y ocho horas previas al acto de presentación y apertura de proposiciones, y contendrán, como mínimo, lo siguiente:
 
 l. Nombre, denominación o razón social de la dependencia o entidad que las emita, así como de la Dirección;
 
@@ -247,27 +259,31 @@ VII. Las que por sí o a través de empresas que formen parte del mismo grupo em
 
 VIII. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la Ley y este Reglamento.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
+En los procesos para adjudicación de contratos a que se refiere este Reglamento, deberá darse prioridad a empresas especializadas en la producción o distribución de los bienes, arrendamientos o servicios de que se trate, evitando en lo posible la asignación de contratos a empresas comercializadoras. Asimismo, conforme al artículo 22 de la Ley, deberá darse preferencia en igualdad de circunstancias a las personas físicas o morales que tengan su domicilio fiscal en el Estado.
+
 ###### ARTICULO 18.
 
 Las dependencias y entidades no podrán financiar a proveedores la adquisición o arrendamiento de bienes o la prestación de servicios.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 19.
 
-El acto de presentación y apertura de proposiciones ante el Comité, en el que podrán participar los licitantes que hayan cubierto el costo de las bases de la licitación, se llevará a cabo en dos etapas, conforme a lo siguiente:
+El acto de presentación y apertura de proposiciones ante el Comité, en el que podrán participar los licitantes que hayan cubierto el costo de las bases de la licitación, se llevará a cabo conforme a lo siguiente:
 
-I. En la primera etapa, los licitantes entregarán sus proposiciones en sobres cerrados; se procederá a la apertura de la propuesta técnica y se desecharán las que hubieren omitido algunos de los requisitos exigidos en las bases, las que serán devueltas por la Dirección transcurridos quince días naturales contados a partir de la fecha en que se dé a conocer el fallo de la licitación;
+I. Los licitantes entregarán sus proposiciones en sobres cerrados; se procederá a la apertura de la propuesta técnica y se desecharán las que hubieren omitido algunos de los requisitos exigidos en las bases. Posteriormente, se procederá a realizar la valoración de las propuestas técnicas y se emitirá el dictamen correspondiente. En caso de que no sea posible emitir el dictamen en el mismo acto, se indicará que éste será emitido al momento del fallo de la licitación, debiendo proceder en seguida conforme a la fracción siguiente;
 
-II. Los participantes rubricarán todas las propuestas técnicas presentadas. En caso de que la apertura de las proposiciones económicas no se realice en la misma fecha, los sobres que las contengan serán firmados por los licitantes y el Director General del Comité de Adquisiciones, así como por los servidores públicos de la dependencia o entidad presentes, y quedarán en custodia de la Dirección, quien informará la fecha y hora en que se llevará a cabo la segunda etapa. En su caso, durante este periodo, el Comité y la dependencia o entidad de que se trate, harán el análisis detallado de las propuestas técnicas aceptadas;
+II. Inmediatamente después de lo anterior, se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieren sido desechadas, y se dará lectura en voz alta al importe de las propuestas que contengan los documentos y cubran los requisitos exigidos. Los participantes rubricarán todas las propuestas presentadas;
 
-III. En la segunda etapa, se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieren sido desechadas en la primera etapa o en el análisis detallado de las mismas, y se dará lectura en voz alta al importe de las propuestas que contengan los documentos y cubran los requisitos exigidos;
+III. En caso de que el fallo de la licitación no se realice en la misma fecha, el Director General del Comité de Adquisiciones señalará fecha y hora en que se dará a conocer el fallo de la licitación, el que deberá quedar comprendido dentro de los quince días naturales contados a partir de la fecha entrega (sic) y apertura de las proposiciones, y podrá diferirse por una sola vez, siempre que el nuevo plazo fijado no exceda de siete días naturales contados a partir del plazo establecido originalmente. En su caso, durante este periodo, el Comité y la dependencia o entidad de que se trate, harán el análisis detallado de las propuestas aceptadas;
 
-IV. En caso de que el fallo de la licitación no se realice en la misma fecha, dos proveedores, por lo menos, y los servidores públicos de la dependencia o entidad adquirente, presentes, firmarán las proposiciones económicas aceptadas. El Director General del Comité de Adquisiciones señalará fecha y hora en que se dará a conocer el fallo de la licitación, el que deberá quedar comprendido dentro de los quince días naturales contados a partir de la fecha de inicio de la primera etapa, y podrá diferirse por una sola vez, siempre que el nuevo plazo fijado no exceda de siete días naturales contados a partir del plazo establecido originalmente;
+IV. El Comité emitirá el fallo de adjudicación, que se dará a conocer en junta pública, a la que libremente podrán asistir los licitantes que hubieran participado en la presentación y apertura de proposiciones. En sustitución de esta junta, el Comité podrá acordar que el Director General del Comité de Adquisiciones comunique por escrito el fallo de la licitación a cada uno de los licitantes;
 
-V. El Comité emitirá el fallo de adjudicación, que se dará a conocer en junta pública, a la que libremente podrán asistir los licitantes que hubieran participado en las etapas de presentación y apertura de proposiciones. En sustitución de esta junta, el Comité podrá acordar que el Director General del Comité de Adquisiciones comunique por escrito el fallo de la licitación a cada uno de los licitantes;
+V. En el mismo acto en que se dé a conocer el fallo o adjunta a la comunicación referida en la fracción anterior, el Director General del Comité de Adquisiciones proporcionará por escrito a los licitantes, la información acerca de las razones por las cuales su propuesta, en su caso, no fue elegida; asimismo, se levantará el acta del fallo de la licitación, que firmarán los participantes, a quienes se entregará copia de la misma. El fallo de la licitación, de ser el caso, se hará constar en el acta a que se refiere la fracción siguiente; y,
 
-VI. En el mismo acto en que se dé a conocer el fallo o adjunta a la comunicación referida en la fracción anterior, el Director General del Comité de Adquisiciones proporcionará por escrito a los licitantes, la información acerca de las razones por las cuales su propuesta, en su caso, no fue elegida; asimismo, se levantará el acta del fallo de la licitación, que firmarán los participantes, a quienes se entregará copia de la misma. El fallo de la licitación, de ser el caso, se hará constar en el acta a que se refiere la fracción siguiente; y,
-
-VII. El Director General del Comité de Adquisiciones levantará acta de las dos etapas del acto de presentación y apertura de proposiciones, en la que se hará constar las propuestas aceptadas, sus importes, así como las que hubieren sido desechadas y las causas que lo motivaron; el acta será firmada por los participantes y se les entregará copia de la misma.
+VI. El Director General del Comité de Adquisiciones levantará acta del acto de presentación y apertura de proposiciones, en la que se hará constar las propuestas aceptadas, sus importes, así como las que hubieren sido desechadas y las causas que lo motivaron; el acta será firmada por los participantes y se les entregará copia de la misma.
 
 ###### ARTICULO 20.
 
@@ -371,11 +387,15 @@ Para los efectos del párrafo anterior, las dependencias, entidades y en su caso
 
 ### Capítulo IV. De las Excepciones a la Licitación Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 30.
 
-Las dependencias, entidades y la Dirección, podrán contratar adquisiciones, arrendamientos y servicios, a través del procedimiento de invitación restringida a cuando menos tres proveedores, a que se refiere la fracción II del artículo 5º de este Reglamento, cuando el importe de cada operación no exceda de los montos máximos que al efecto determine anualmente el Comité, en los términos del artículo 6º de este mismo ordenamiento, siempre que las operaciones no se fraccionen para quedar comprendidas en este supuesto de excepción a la licitación pública.
+Las dependencias, entidades y la Dirección, podrán contratar adquisiciones, arrendamientos y servicios, a través del procedimiento de invitación restringida a cuando menos tres proveedores, a que se refiere la fracción II del artículo 5° de este Reglamento, cuando el importe de cada operación no exceda de los montos máximos que al efecto determine anualmente el Comité, en los términos del artículo 6° de este mismo ordenamiento, siempre que las operaciones no se fraccionen para quedar comprendidas en este supuesto de excepción a la licitación pública. Será obligación del Comité dar cuenta a la Coordinación de Contraloría de aquellos casos en que las dependencias o entidades pretendan fraccionar alguna operación para omitir el proceso de licitación.
 
-Para los efectos de lo señalado en el párrafo anterior, excepto en lo relativo a la publicación de la convocatoria, las dependencias, entidades y el Comité, se sujetarán a las disposiciones relativas al procedimiento de adquisición mediante licitación pública, contenidas en este Reglamento.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
+Para los efectos de lo señalado en el párrafo anterior, excepto en lo relativo a la publicación de la convocatoria, las dependencias, entidades y el Comité, se sujetarán a las disposiciones relativas al procedimiento de adquisición mediante licitación pública, contenidas en este Reglamento. Las dependencias y entidades, así como el Comité, deberán difundir en medios electrónicos la invitación simplificada para aquellos casos en que se emplee el procedimiento por invitación restringida, en lo que deberán participar al menos tres y hasta un número indeterminado de proveedores.
 
 En todo caso, se convocará a los proveedores que cuenten con capacidad de respuesta inmedianta, (sic) así como con los recursos técnicos, financieros y demás que sean necesarios.
 
@@ -385,7 +405,9 @@ Las dependencias y entidades podrán constituir Subcomités de Adquisiciones, y 
 
 I. El contrato sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de derechos de autor u otros derechos exclusivos;
 
-II. Se realicen dos licitaciones públicas sin que en ambas se hubiesen recibido propociciones (sic) solventes;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2013)</small>
+
+II. Se realicen dos licitaciones públicas sin que en ambas se hubiesen recibido proposiciones solventes;
 
 III. Se trate de servicios de consultoría cuya difusión pudiera afectar el interés público o comprometer información de naturaleza confidencial para el Gobierno del Estado;
 
@@ -396,6 +418,14 @@ V. Se trate de servicios de mantenimiento, conservación, restauración y repara
 VI. Se trate de adquisiciones provenientes de personas físicas o morales que, sin ser proveedores habituales y en razón de encontrarse en estado de liquidación o disolución, o bien, bajo intervención judicial, ofrezcan bienes en condiciones excepcionalmente favorables; y,
 
 VII. Se trate de adquisiciones que por cuyo monto puedan adquirirse por adjudicación directa, según el acuerdo que se expida, conforme al artículo 6º de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
+En los procesos de adjudicación directa sustentados en la fracción segunda de este artículo, no se podrá adjudicar los contratos a las personas físicas o morales que hayan participado en los procesos de licitación respecto de esos mismos bienes o servicios y cuyas propuestas hayan resultado insolventes, con excepción de aquellos casos en que las propuestas hayan sido desechadas únicamente por la omisión de requisitos de forma.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
+Cuando las dependencias y entidades contraten adquisiciones, arrendamientos y servicios, a través del procedimiento de adjudicación directa, deberán difundir en medios electrónicos el acuerdo de autorización a que hace referencia el artículo 6° párrafo segundo de este Reglamento, en que se funde y motive ese procedimiento.
 
 ###### ARTICULO 32.
 
@@ -447,9 +477,13 @@ Tratándose de adquisiciones y contrataciones de servicios para la ejecución de
 
 Las dependencias y entidades conservarán en forma ordenada y sistemática, la documentación que justifique y compruebe la realización de los actos celebrados conforme a la Ley y este Reglamento, por cuatro años, contados a partir de la fecha en que se hubieren recibido los bienes o prestado el servicio.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 40.
 
-La Coordinación, en el ejercicio de sus facultades, podrá verificar, en cualquier tiempo, que las adquisiciones, los arrenadamientos (sic) y los servicios, se realicen conforme a lo establecido en la Ley y este Reglamento, pudiendo realizar las visitas e inspecciones que estime pertinentes y solicitar de los servidores públicos y de los proveedores que participen en ellas, todos los datos e informes relacionados con los actos de que se trate.
+La Coordinación, en el ejercicio de sus facultades, podrá verificar, en cualquier tiempo, que las adquisiciones, los arrendamientos y los servicios, se realicen conforme a lo establecido en la Ley y este Reglamento, pudiendo realizar las visitas e inspecciones que estime pertinentes y solicitar de los servidores públicos y de los proveedores que participen en ellas, todos los datos e informes relacionados con los actos de que se trate.
+
+Toda persona que tenga conocimiento de un hecho violatorio a la normatividad en materia de adquisiciones, arrendamientos y servicios previstos en la Ley y este Reglamento, podrá presentar denuncia ante la Coordinación de Contraloría, aportando los medios de prueba que resulten pertinentes.
 
 ###### ARTICULO 41.
 
@@ -478,3 +512,13 @@ Se derogan aquellas disposiciones en lo que se opongan el presente Reglamento.
 Morelia, Michoacán, 20 de Octubre de 1999.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- LIC. VICTOR MANUEL TINOCO RUBI.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ANTONIO GARCIA TORRES.-SECRETARIO DE GOBIERNO.-C.P. GABRIEL PEREZ GIL HINOJOSA.- TESORERO GENERAL DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.-OFICIAL MAYOR.-C.P. OSCAR AHUMADA MENDOZA.-ENCARGADO DEL DESPACHO DE LA COORDINACION DE CONTROL Y DESARROLLO ADMINISTRATIVO. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE AGOSTO DE 2013.
+
+Artículo primero. El Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo segundo. Se derogan todas las disposiciones legales y administrativas en lo que se opongan al Decreto.
+
+Artículo tercero. Los procedimientos para la contratación de adquisiciones, arrendamientos y servicios que se encuentren en proceso al momento de publicación del presente decreto continuarán substanciándose conforme a la norma vigente al momento de la publicación de la convocatoria respectiva.
