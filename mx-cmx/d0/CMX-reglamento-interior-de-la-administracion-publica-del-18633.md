@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2013-07-03"
+last_updated: "2013-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-> <small>N. DE E. MEDIANTE AVISO DE LA DIRECTORA GENERAL JURÍDICA Y DE ESTUDIOS LEGISLATIVOS PUBLICADO EN LA G.O. DE 3 DE JULIO DE 2013, SE DEJA SIN EFECTOS LA PUBLICACIÓN DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL NÚMERO 1637, DE FECHA PRIMERO DE JULIO DE DOS MIL TRECE.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -278,9 +276,11 @@ A) La Subsecretaría de Proyectos Estratégicos.
 
 7. (DEROGADO, G.O. 16 DE JULIO DE 2009)
 
-> <small>(REFORMADO, G.O. 16 DE JULIO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-Asimismo, se le adscriben los Órganos Desconcentrados denominados Proyecto Metro y Planta de Asfalto, ambos del Distrito Federal.
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2013)</small>
+
+Asimismo, se le adscribe el Órgano Desconcentrado denominado Planta de Asfalto del Distrito Federal.
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -3968,7 +3968,9 @@ I. Proyectar, construir y supervisar las obras que de conformidad con el program
 
 II. Planear la construcción de escuelas, edificios públicos y obras especiales por su nivel de complejidad en el Distrito Federal, en coordinación con las autoridades competentes;
 
-III. (DEROGADA, G.O. 15 DE FEBRERO DE 2013)
+> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2013)</small>
+
+III. Planear, proyectar, construir y supervisar las obras de ampliación de la Red del Transporte Colectivo Metro y su equipamiento.
 
 > <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
 
@@ -4024,9 +4026,33 @@ XVIII. Colaborar con las dependencias, unidades administrativas, órganos polít
 
 XIX. Planear, programar, presupuestar, ejecutar y supervisar la construcción de las obras de infraestructura de movilidad y transporte en el Distrito Federal y su equipamiento.
 
-> <small>(ADICIONADA, G.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2013)</small>
 
-XX. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+XX. Efectuar en coordinación con el Sistema de Transporte Colectivo Metro, los estudios e investigaciones, el proyecto ejecutivo, la construcción y equipamiento de las obras con motivo de la ampliación de la Red.
+
+> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2013)</small>
+
+XXI. Elaborar los proyectos ejecutivos y de detalle para la construcción de las obras de ampliación del Sistema de Transporte Colectivo Metro.
+
+> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2013)</small>
+
+XXII. Construir y supervisar las obras e instalaciones fijas de las ampliaciones de la Red del Sistema de Transporte Colectivo Metro, incluyendo sus obras inducidas y complementarias; verificando que se hagan de acuerdo al proyecto, programa y presupuesto autorizados.
+
+> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2013)</small>
+
+XXIII. Adquirir, transportar, suministrar e instalar los equipos y material de instalación fija que requieran las ampliaciones de la Red del Sistema de Transporte Colectivo Metro.
+
+> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2013)</small>
+
+XXIV. Entregar las ampliaciones de la Red del Metro al Organismo Sistema de Transporte Colectivo, así como sus obras inducidas y complementarias a las dependencias, órganos desconcentrados, delegaciones y entidades operadoras.
+
+> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2013)</small>
+
+XXV. Efectuar las pruebas requeridas para poner en servicio las ampliaciones de la Red del Sistema de Transporte Colectivo Metro, garantizando la seguridad integral del servicio; y
+
+> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2013)</small>
+
+XXVI. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
 > <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -15482,7 +15508,7 @@ ADSCRITOS A LA SECRETARIA DE DESARROLLO SOCIAL.
 
 #### SECCION VI. ADSCRITO A LA SECRETARIA DE OBRAS Y SERVICIOS
 
-(ADICIONADO, G.O. 24 DE ABRIL DE 2009) (REUBICADO, G.O. 16 DE JULIO DE 2009)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 #### SECCION VII. ADSCRITO A LA SECRETARIA DE DESARROLLO SOCIAL
 
@@ -15490,63 +15516,19 @@ ADSCRITOS A LA SECRETARIA DE DESARROLLO SOCIAL.
 
 ###### Artículo 205.
 
-El Órgano Desconcentrado Proyecto Metro tendrá como objeto la construcción, equipamiento y ampliación de la red del Sistema de Transporte Colectivo y tendrá las siguientes atribuciones:
+(DEROGADO, G.O. 12 DE AGOSTO DE 2013)
 
-I. Planear, programar, presupuestar y ejecutar los proyectos estratégicos a su cargo.
-
-II. Efectuar, en coordinación con el Sistema de Transporte Colectivo Metro, los estudios e investigaciones que se requieran con motivo de la ampliación de la red.
-
-III. Coordinar con el Sistema de Transporte Colectivo Metro, el proyecto ejecutivo, la construcción y equipamiento de las obras de ampliación de la red.
-
-IV. Elaborar los proyectos ejecutivos y de detalle para la construcción de las obras de ampliación del Sistema de Transporte Colectivo Metro, así como sus obras inducidas y complementarias.
-
-V. Llevar a cabo la adjudicación de las obras públicas y adquisiciones que se requieran para la construcción y equipamiento de instalaciones fijas para la ampliación de la red.
-
-VI. Celebrar los contratos y convenios de obras y adquisiciones que se requieran para la construcción y equipamiento de las instalaciones fijas para las ampliaciones de la red del Sistema de Transporte Colectivo “Metro”.
-
-VII. Construir y supervisar las obras e instalaciones fijas de las ampliaciones de la Red del Sistema de Transporte Colectivo Metro, incluyendo sus obras inducidas y complementarias; verificando que se hagan de acuerdo al proyecto, programa y presupuesto autorizados.
-
-VIII. Coordinar con las dependencias, unidades administrativas, delegaciones, órganos desconcentrados y entidades de la administración pública correspondiente, lo relativo a las obras de ampliación de red.
-
-VIII. Adquirir, transportar, suministrar e instalar los equipos y material de instalación fija que requieran las ampliaciones de la Red del Sistema de Transporte Colectivo “Metro”;
-
-X. Entregar las ampliaciones de la Red del Metro al organismo Sistema de Transporte Colectivo, así como sus obras inducidas y complementarias a las dependencias, órganos desconcentrados, delegaciones y entidades operadoras.
-
-XI. Efectuar las pruebas requeridas para poner en servicio las ampliaciones de la Red del Sistema de Transporte Colectivo “Metro”, garantizando la seguridad integral del servicio; y
-
-XII. Las demás que le atribuyan expresamente la normativa vigente.
-
-> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 206.
 
-Para el despacho de los asuntos que competan al Órgano Desconcentrado Proyecto Metro del Distrito Federal, se le adscriben:
+(DEROGADO, G.O. 12 DE AGOSTO DE 2013)
 
-1. Dirección Ejecutiva de Operación;
-
-1.1. Dirección de Construcción de Obras Civiles;
-
-1.2. Dirección de Construcción de Instalaciones Electromecánicas;
-
-1.3. Dirección de Obras Inducidas;
-
-2. Dirección de Administración de Contratos;
-
-3. Dirección de Diseño de Obras Civiles;
-
-4. Dirección de Diseño de Instalaciones Electromecánicas;
-
-5. Dirección Jurídica; y
-
-6. Las demás que requiera para el cumplimiento de su objeto, en atención a la suficiencia presupuestal y a la estructura autorizada por la Contraloría General del Distrito Federal.
-
-Las atribuciones que corresponden a cada unidad administrativa y unidades administrativas de apoyo técnico operativo, se establecerán en el Manual Administrativo correspondiente.
-
-(REFORMADO, G.O. 9 DE JUNIO DE 2009) (REUBICADO, G.O. 16 DE JULIO DE 2009)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 207.
 
-El órgano desconcentrado Proyecto Metro del Distrito Federal tendrá autonomía de gestión técnica, administrativa y financiera para el ejercicio de sus atribuciones.
+(DEROGADO, G.O. 12 DE AGOSTO DE 2013)
 
 > <small>(ADICIONADO, G.O. 16 DE JULIO DE 2009)</small>
 
@@ -16473,3 +16455,23 @@ AVISO POR EL QUE SE DEJA SIN EFECTOS LA PUBLICACIÓN DEL DECRETO POR EL QUE SE R
 Primero.- Por un error en la edición del ejemplar de la Gaceta Oficial del Distrito Federal número 1637 de fecha 1 de julio de 2013, fue insertado el Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Reglamento Interior de la Administración Pública del Distrito Federal.
 
 Segundo.- De conformidad con el Aviso por el que se establecen las Reglas de Publicidad de la Gaceta Oficial del Distrito Federal, queda sin efectos la publicación del Decreto de referencia.
+
+G.O. 12 DE AGOSTO DE 2013.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Las reformas y adiciones al artículo 57 del Reglamento Interior de la Administración Pública del Distrito Federal contenidas en este decreto, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- La reforma al artículo 7º y la derogación a los artículos 205, 206 y 207 del Reglamento Interior de la Administración Pública del Distrito Federal contenidas en este decreto entrarán en vigor hasta que el Órgano Desconcentrado Proyecto Metro concluya con los compromisos y obligaciones derivados de las obras que haya realizado hasta el día de la publicación del presente instrumento; asimismo su estructura continuará con las funciones que venía desempeñando hasta finalizar con los compromisos y obligaciones adquiridos.
+
+CUARTO.- La Contraloría General del Gobierno del Distrito Federal, vigilará el proceso de conclusión de las obligaciones del Órgano Desconcentrado Proyecto Metro.
+
+QUINTO.- La Secretaría de Obras y Servicios emitirá opinión técnica respecto de la conclusión de los compromisos adquiridos por el Órgano Desconcentrado Proyecto Metro, previa solicitud de la Contraloría General.
+
+SEXTO.- La Contraloría General del Gobierno del Distrito Federal y la Secretaría de Obras y Servicios publicarán en la Gaceta Oficial del Distrito Federal, el aviso de conclusión de los compromisos adquiridos por el Órgano Desconcentrado Proyecto Metro, para efectos de la entrada en vigor de la derogación de los artículos 205, 206 y 207 del presente Decreto.
+
+SÉPTIMO.- Cuando se cumpla el supuesto previsto en el TRANSITORIO SEXTO de este decreto, los recursos humanos, materiales, técnicos y financieros del Órgano Desconcentrado Proyecto Metro, se transferirán a la Secretaría de Obras y Servicios y a la Dirección General de Obras Públicas, en los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables.
+
+OCTAVO.- Cuando con motivo de la aplicación de este Decreto, los trabajadores del Órgano Desconcentrado Proyecto Metro pasen a formar parte de la Secretaría de Obras y Servicios y de la Dirección General de Obras Públicas, sus derechos laborales serán respetados conforme a la Ley de la materia.
+
+NOVENO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
