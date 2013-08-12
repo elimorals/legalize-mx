@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-88903"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-08-14"
-last_updated: "2012-08-14"
+last_updated: "2013-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88903&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-04-30"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 12 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 14 de agosto de 2012.
 
@@ -826,3 +828,19 @@ Conforme al Acuerdo 1577, tomado en la sesión ordinaria número 102 de la H. As
 Atentamente
 
 Dado en la Ciudad de México, Distrito Federal, a los treinta días del mes de abril de dos mil doce, en cumplimiento al acuerdo número mil quinientos setenta y siete, tomado en la centésima segunda sesión ordinaria de la H. Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.- El Secretario Técnico de Organos Colegiados, Santiago Bolaños Guerra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico abroga el aprobado mediante el Acuerdo número 1577, tomado en la sesión ordinaria número 102 de la H. Asamblea General, celebrada el 27 de abril de 2012, publicado en el Diario Oficial de la Federación los días 14 de agosto y 23 de noviembre 2012 (sic).
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto a las atribuciones conferidas a la antes Secretaría General y de Asuntos Jurídicos, éstas se llevarán a cabo por la actual Secretaría General o por la Subdirección General Jurídica según corresponda, atendiendo a las facultades que les han sido conferidas, tanto en el presente Estatuto como en el resto de las disposiciones legales que le fueran aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Este Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
