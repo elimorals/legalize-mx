@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-a-la-informacion-publica-y-de-proteccion-de-43948
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-25"
-last_updated: "2011-12-26"
+last_updated: "2013-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE ACCESO A LA INFORMACION PUBLICA Y DE PROTECCION DE DATOS PERSONALES DEL ESTADO DE SONORA -ANTES LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SONORA-
 
-LEY DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA
+LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE AGOSTO DE 2013.
 
 Ley publicada en la Segunda Sección del Boletín Oficial del Estado de Sonora, el viernes 25 de febrero de 2005.
 
@@ -37,25 +37,39 @@ N U M E R O 156
 
 EL H. CONGRESO DEL ESTADO DE SONORA, EN NOMBRE DEL PUEBLO, TIENE A BIEN DECRETAR LA SIGUIENTE:
 
-LEY DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA
+> <small>(REFORMADA SU DENOMINACIÓN B.O. 12 DE AGOSTO DE 2013)</small>
+
+LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE SONORA
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene como finalidad garantizar el acceso de toda persona a la información pública que obre en poder de los sujetos obligados enlistados en el siguiente artículo.
+La presente Ley es de orden público e interés social y tiene como finalidad garantizar el acceso de toda persona a la información pública y la protección de los datos personales que obre en poder de los sujetos obligados enlistados en el artículo 2 de esta Ley.
+
+El derecho fundamental a la información comprende difundir, investigar y recabar información pública.
+
+Toda la información generada, administrada o en posesión de los sujetos obligados, al igual que los documentos en los que se encuentre, se consideran un bien de dominio público, accesible para cualquier persona en los términos y condiciones que establece esta ley y demás normatividad aplicable.
 
 ###### Artículo 2.
 
 Están obligados al cumplimiento de esta Ley y, en especial, a proporcionar la información que la misma refiere:
 
-I. El Poder Ejecutivo y sus dependencias, así como las entidades y órganos de la administración pública estatal centralizada y descentralizada;
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
 
-II. El Poder Judicial y sus órganos y dependencias;
+I. El Poder Ejecutivo y sus dependencias, entidades y órganos de la administración pública estatal centralizada y descentralizada, así como las unidades de apoyo directamente adscritas al Ejecutivo;
 
-III. El Poder Legislativo y sus órganos y dependencias;
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+II. El Poder Judicial, sus órganos jurisdiccionales, administrativos, auxiliares y dependencias, así como el resto de los entes públicos, cualquiera que sea su denominación o estructura;
+
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+III. El Poder Legislativo, el Instituto Superior de Auditoría y Fiscalización y sus órganos y dependencias;
 
 IV. Los Ayuntamientos y sus dependencias, así como las entidades y órganos de la administración pública municipal centralizada y descentralizada;
 
@@ -65,9 +79,7 @@ VI. Las instituciones y entidades declaradas de interés público por la ley;
 
 VII. Los partidos políticos, las asociaciones políticas y los organismos semejantes reconocidos por la ley; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA] B.O. 12 DE AGOSTO DE 2013)</small>
 
 VIII. Las personas privadas, físicas o morales, que por cualquier motivo y de cualquier modo, reciban recursos públicos para su ejercicio con ese carácter.
 
@@ -81,7 +93,19 @@ Para los efectos de esta Ley se entiende por:
 
 I. Datos personales: La información numérica, alfabética, gráfica, fotográfica, acústica, o de cualquier otro tipo, concerniente a una persona física, identificada o identificable, relativa a su origen étnico o racial; la que se refiera a sus características físicas, morales o emocionales, a su vida afectiva y familiar, información genética, número de seguridad social, la huella digital, domicilio, correos electrónicos personales, teléfonos particulares, claves informáticas, cibernéticas y códigos personales, así como a su patrimonio, incluyendo la contenida en las declaraciones de situación patrimonial; la incluida en declaraciones fiscales o derivada de las facultades de comprobación de la autoridad fiscal, con las excepciones que señalen las leyes; la concerniente a su ideología u opiniones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, preferencias sexuales, circunstancias y detalles de los delitos que afecten el entorno íntimo de las víctimas y, en general, toda aquella información que afecte o pueda afectar la intimidad de las personas físicas.
 
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+I Bis. Derecho de Acceso a la Información Pública: La prerrogativa que tiene toda persona para acceder a la información generada, administrada o en poder de los sujetos obligados, en los términos de la presente Ley.
+
 II. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, lineamientos, directrices, circulares, contratos, convenios, instructivos, notas, memoranda, estadísticas, planos, mapas, y cualquier otro medio o registro impreso, escrito, óptico, sonoro, electrónico, magnético, holográfico, químico, físico o biológico o de cualquier otra clase que se encuentre en poder de los sujetos obligados y que contenga información de cualquier tipo, sin importar su naturaleza, material, formato, fuente o fecha;
+
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+II Bis. Expediente: Serie ordenada y relacionada de actuaciones y/o gestiones, compuestas por documentos que pertenecen a un mismo asunto o procedimiento tramitado por o ante los sujetos obligados.
+
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+II Bis A. Indicadores de gestión: Los instrumentos o parámetros de medición que permiten evaluar el desempeño, la eficiencia, eficacia, economía y los procedimientos de los sujetos obligados en relación con sus atribuciones, objetivos, actividades, metas y estrategias.
 
 III. Sujetos obligados oficiales: En singular o en plural, las dependencias, entidades, órganos e instituciones y sus servidores públicos referidos en las fracciones I a VI del artículo 2 de la presente Ley;
 
@@ -89,27 +113,41 @@ IV. Sujetos obligados no oficiales: En singular o en plural los órganos, instit
 
 V. Sujetos obligados: Los sujetos obligados oficiales y no oficiales a que se refiere este artículo;
 
-VI. Unidad de Enlace: Las unidades administrativas de cada uno de los sujetos obligados oficiales, responsables de atender las solicitudes de acceso a la información pública;
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
 
-VII. Servidor público: Toda persona física que trabaje, preste servicios, colabore o de cualquier forma desempeñe funciones para, con o en cualquiera de los sujetos obligados oficiales;
+VI. Unidad de Enlace: Las unidades administrativas de cada uno de los sujetos obligados oficiales, responsables de recibir las solicitudes de acceso a la información pública, tramitarlas ante los titulares de las unidades administrativas para su atención y, en su momento, entregar la información correspondiente.
+
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+VII. Servidor público: Los que establece el artículo 2 de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios.
 
 VIII. Instituto: El Instituto de Transparencia Informativa;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] , B.O. 12 DE AGOSTO DE 2013)</small>
 
-IX. (DEROGADA, B.O. 26 DE DICIEMBRE DE 2011)
+IX. Máxima Publicidad: Consiste en que los sujetos obligados señalados en el artículo 2 de esta Ley, expongan la información que poseen al escrutinio público y, en caso de duda razonable respecto a la forma de interpretar y aplicar la norma, se optará por la publicidad de la información.
 
-X. Información pública: La contenida en los documentos que los sujetos obligados generen, administren, obtengan, adquieran, transformen, posean o conserven por cualquier título;
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
 
-XI. Información restringida: La que se encuentre en alguno de los supuestos de excepción que establece la presente Ley;
+X. Información pública: La contenida en los documentos que los sujetos obligados generen, administren, obtengan, adquieran, transformen, posean o conserven por cualquier título que no tenga el carácter de confidencial.
+
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+XI. Información restringida: La que se encuentre en alguno de los supuestos de excepción que establece la presente Ley con el carácter de confidencial o reservada.
+
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+XI Bis. Información confidencial: La información prevista en el artículo 27 de esta ley.
+
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+XI Bis A. Información reservada: La información pública que se encuentra temporalmente restringida al acceso público por encontrarse en los supuestos previstos en el artículo 21 de esta ley.
 
 XII. Ley: La Ley de Acceso a la Información Pública del Estado de Sonora.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
 
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
-
-XIII. Máxima Publicidad: Consiste en que los sujetos obligados señalados en el artículo 2 de esta Ley, expongan la información que poseen al escrutinio público y, en caso de duda razonable respecto a la forma de interpretar y aplicar la norma, se optará por la publicidad de la información.
+XIII. Protección de Datos Personales: La garantía que tutela la privacidad de datos personales en poder de los entes públicos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -122,6 +160,14 @@ XIV. Sistema de datos personales: El conjunto ordenado de datos personales que e
 > <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
 XV. Tratamiento de Datos Personales: cualquier operación o conjunto de operaciones, efectuadas mediante procedimientos automatizados o físicos, y aplicadas a datos personales, como la obtención, registro, organización, conservación, elaboración o modificación, extracción, consulta, utilización, comunicación por transmisión, difusión o cualquier otra forma que facilite el acceso a los mismos, cotejo o interconexión, así como su bloqueo, suspensión o destrucción.
+
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+XVI. Prueba de Daño: Carga de los sujetos obligados señalados en el artículo 3 de esta Ley, de demostrar que la divulgación de información lesiona el interés jurídicamente protegido por la Ley, y que el daño que puede producirse con la publicidad de la información es mayor que el interés de conocerla.
+
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+XVII. Versión pública: Un documento en el que se elimina la información clasificada como reservada o confidencial para permitir su acceso.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -139,6 +185,10 @@ La presente Ley tiene por objeto:
 
 I. Transparentar la gestión pública mediante la difusión de la información generada, administrada o en posesión de los sujetos obligados;
 
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+I Bis. Transparentar el ejercicio de la función pública, mejorar los niveles de participación ciudadana y garantizar una oportuna y adecuada rendición de cuentas que contribuya a la consolidación de la democracia y la plena vigencia del estado de Derecho, a través de un flujo de información oportuno, verificable, inteligible, relevante e integral;
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
@@ -147,31 +197,41 @@ II. Proveer lo necesario para facilitar a cualquier persona el acceso a la infor
 
 III. Asegurar la protección de los datos personales recibidos, generados, administrados o en posesión de los sujetos obligados;
 
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+III Bis. Favorecer la rendición de cuentas, de manera que se pueda valorar el desempeño de los sujetos obligados;
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
-IV. Hacer prevalecer, como regla general, la máxima publicidad de los documentos que registren las actuaciones de los sujetos obligados; y
+IV. Hacer prevalecer, como regla general, la máxima publicidad de los documentos que registren las actuaciones de los sujetos obligados; y (sic)
 
 V. La organización, clasificación y manejo de la información recibida, generada, administrada o en posesión de los sujetos obligados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+VI. Mejorar la organización, clasificación y manejo de la información recibida, generada, administrada o en posesión de los sujetos obligados; y
+
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+VII. Promover y fomentar una cultura de transparencia y acceso a la información pública.
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 6.
 
-Los sujetos obligados deberán proporcionar al Instituto la información que éste determine en relación con el cumplimiento de la atribución de proporcionar a los particulares información pública.
+Los sujetos obligados deberán proporcionar al Instituto la información que éste determine en relación con el cumplimiento de la atribución de proporcionar a los particulares información pública, en términos de la presente Ley.
 
 ### CAPITULO SEGUNDO. DEL INSTITUTO DE TRANSPARENCIA INFORMATIVA DEL ESTADO DE SONORA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 7.
 
-El Instituto de Transparencia Informativa del Estado de Sonora, es un órgano autónomo con personalidad jurídica y patrimonio propio, especializado e imparcial en materia de transparencia, acceso a la información pública y protección de datos personales, dotado de autonomía presupuestal, operativa, de gestión y de decisión, que tendrá a su cargo, además de lo previsto en esta Ley, atribuciones de definir, según las directrices de este ordenamiento, lineamientos generales obligatorios para los sujetos obligados con respecto a la clasificación y difusión de la información pública, las formas de atención a las solicitudes de acceso a la misma y su entrega a los particulares, así como su archivo y, de modo especial, la creación, promoción y consolidación de una cultura cívica generalizada en relación con el derecho de acceso a la información pública, el uso responsable de ésta y la capacitación de los servidores públicos en el cumplimiento de la obligación concomitante.
+El Instituto es un órgano autónomo, en los términos expresados por el artículo 2 de la Constitución Política del Estado, tendrá a su cargo las atribuciones de definir, según las directrices de esta Ley, lineamientos generales obligatorios para los sujetos obligados con respecto a la clasificación y difusión de la información pública, las formas de atención a las solicitudes de acceso a la misma y su entrega a los particulares, así como su archivo, la creación, promoción y consolidación de una cultura cívica generalizada en relación con el derecho de acceso a la información pública, el uso responsable de ésta y la capacitación de los servidores públicos en el cumplimiento de la obligación concomitante y será el encargado de dirigir y vigilar el cumplimiento de la presente Ley y las normas que de ella deriven, así como de velar porque los principios de máxima publicidad, certeza, legalidad, independencia, imparcialidad y objetividad imperen en todas sus decisiones.
+
+En el marco de sus atribuciones, el Instituto se regirá por los principios de austeridad, racionalidad y transparencia en el ejercicio de su presupuesto.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -195,29 +255,221 @@ Los vocales durarán en su encargo 6 años y podrán ser reelectos hasta por un 
 
 En la integración del Instituto de Transparencia Informativa del Estado de Sonora será obligatorio conformarlo por ambos géneros.
 
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 11.
 
-Para los efectos del artículo anterior el Congreso lanzará una convocatoria pública, pudiendo inscribirse en el correspondiente proceso de selección quienes sean mexicanos, mayores de 35 años, con modo honesto de vivir, no hayan tenido ni tengan cargo directivo en partido político, sin antecedentes penales ni historial de adicción a drogas enervantes, con estudios universitarios a nivel de licenciatura o superior sobre comunicación, derecho, ciencias políticas, educación u otras materias afines y que, en entrevista pública ante la Comisión plural que al efecto designe el Pleno del Congreso, puedan demostrar un conocimiento superior al común sobre instituciones democráticas de gobierno, transparencia y rendición de cuentas gubernamental, derechos ciudadanos, razones de reserva y confidencialidad informativa y, en general, que tengan una cultura cívica amplia y razonada.
+Para los efectos del artículo anterior, el Congreso lanzará una convocatoria pública, pudiendo inscribirse en el correspondiente proceso de selección:
+
+I.- Ser ciudadano mexicano, con modo honesto de vivir y no haber sido condenado por la comisión de delito doloso ni historial de adicción a drogas enervantes;
+
+II.- Contar con estudios universitarios a nivel de licenciatura o superior sobre comunicación, derecho, ciencias políticas, educación u otras materias afines;
+
+III.- No haber sido Secretario, Procurador General de Justicia, Senador, Diputado Federal o Local, dirigente de un partido o asociación política o Gobernador, durante el año previo al día de su nombramiento.
+
+III.- Haberse desempeñado destacadamente en actividades profesionales, de servicio público o académicas, relacionadas con la materia de esta Ley y una vez inscrito en el proceso de selección, en entrevista pública ante la Comisión plural que al efecto designe el Pleno del Congreso, puedan demostrar un conocimiento superior al común sobre instituciones democráticas de gobierno, transparencia y rendición de cuentas gubernamental, derechos ciudadanos, razones de reserva y confidencialidad informativa y, en general, que tengan una cultura cívica amplia y razonada.
+
+Cualquier interesado podrá impugnar, con apoyo en pruebas suficientes, el incumplimiento de requisitos por parte de los aspirantes al cargo de vocal, debiendo la Comisión Plural valorar los elementos aportados y preservar la garantía de audiencia del señalado.
+
+Este cargo es incompatible con cualquier otro empleo o actividad, salvo la docencia y la investigación académica, siempre y cuando no se atiendan de tiempo completo.
 
 ###### Artículo 12.
 
 Los cargos de vocal del Instituto se perderán anticipadamente cuando quienes los ejerzan realicen, de modo separado o conjunto, actos u omisiones públicos o privados que, a juicio de dos terceras partes de los miembros del Congreso presentes en la sesión respectiva, lesionen o causen detrimento grave a la imagen u operación del Instituto o al ejercicio libre, imparcial, honesto y transparente de las funciones respectivas. Para este efecto, el Congreso cuidará que, previamente a la decisión, se respete la garantía de audiencia de el o los involucrados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 13.
 
-(DEROGADO, B.O. 26 DE DICIEMBRE DE 2011)
+El patrimonio del Instituto estará constituido por:
 
-### CAPITULO PRIMERO. DE LA INFORMACIÓN BÁSICA QUE DEBE SER DIFUNDIDA DE OFICIO POR LOS SUJETOS OBLIGADOS
+I.- Los ingresos que perciba conforme al Presupuesto de Egresos del gobierno del Estado;
+
+II.- Bienes muebles e inmuebles y demás recursos que los gobiernos federal y del Estado le aporten para la realización de su objeto;
+
+III.- Los subsidios y aportaciones permanentes, periódicas o eventuales, que reciba de los gobiernos federal y del Estado y, en general, los que obtenga de instituciones públicas, privadas o de particulares nacionales o internacionales;
+
+IV.- Las donaciones, herencias y legados que se hicieren a su favor; y
+
+V.- Todos los demás ingresos y bienes que le correspondan o adquiera por cualquier otro medio legal.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+###### Artículo 13 Bis.
+
+El Instituto administrará su patrimonio conforme a la presente Ley y su reglamento interior tomando en consideración lo siguiente:
+
+I.- El ejercicio del presupuesto deberá ajustarse a los principios de austeridad, honestidad, legalidad, racionalidad, transparencia y optimización de recursos; y
+
+II.- De manera supletoria podrán aplicarse en la materia, los ordenamientos jurídicos del Estado, en tanto no se opongan a la autonomía, naturaleza y funciones propias del Instituto.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 13 Bis A.- El Pleno del Instituto deberá sesionar válidamente con la presencia de la mayoría simple de sus miembros y los acuerdos requerirán de, al menos, dos votos a favor para ser aprobados.
+
+La convocatoria a dichas sesiones podrá formularse por el Presidente o por la mayoría de los vocales que integran el Instituto.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 13 Bis B.- El Reglamento Interior del Instituto señalará los supuestos en los que los vocales deberán excusarse por algún impedimento para conocer de un caso concreto. Adicionalmente, los vocales harán pública una "Declaratoria de Conflicto de Intereses", en la cual deberán enunciar los intereses personales y familiares que pudiesen entrar en incompatibilidad con sus funciones al resolver un recurso de revisión.
+
+Las partes en un recurso podrán recusar con causa a un vocal.
+
+Corresponderá al Pleno calificar la procedencia de la recusación.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 13 Bis C.- El Pleno del Instituto tendrá las siguientes atribuciones:
+
+I.- Opinar sobre la catalogación, resguardo y almacenamiento de todo tipo de datos, registros y archivos de los entes públicos;
+
+II.- Proponer los medios para la creación de un acervo documental en materia de acceso a la información;
+
+III.- Organizar seminarios, cursos, talleres y demás actividades que promuevan el conocimiento de la presente Ley y las prerrogativas de las personas, derivadas del Derecho de Acceso a la Información Pública;
+
+IV.- Elaborar y publicar estudios e investigaciones para difundir el conocimiento de la presente Ley;
+
+V.- Emitir su reglamento interno, manuales y demás normas que faciliten su organización y funcionamiento;
+
+VI.- Establecer un sistema interno de rendición de cuentas claras, transparentes y oportunas, así como garantizar el acceso a la información pública dentro del Instituto en los términos de la Ley;
+
+VII.- Otorgar asesoría para la sistematización de la información por parte de los Entes Públicos;
+
+VIII.- Evaluar mediante una metodología rigurosa los informes anuales de los entes públicos respecto del Ejercicio del Derecho de Acceso a la Información Pública y publicar los resultados;
+
+IX.- Elaborar su Programa Operativo Anual;
+
+X.- Nombrar a los servidores públicos que formen parte del Instituto;
+
+XI.- Diseñar y aprobar los formatos de solicitudes de acceso a la información pública;
+
+XII.- Elaborar un compendio sobre los procedimientos de acceso a la información;
+
+XIII.- Elaborar su proyecto de presupuesto anual y enviarlo a las autoridades hacendarias respectivas al igual que al Congreso del Estado para su análisis;
+
+XIV.- Establecer y revisar los criterios de custodia de la información reservada y confidencial;
+
+XV.- Vigilar el cumplimiento de esta Ley, su reglamento y demás disposiciones aplicables;
+
+XVI.- Promover la capacitación y actualización de los Entes Públicos responsables de la aplicación de esta Ley;
+
+XVII.- Promover la elaboración de guías que expliquen los procedimientos y trámites materia de esta Ley;
+
+XVIII.- Promover que en los programas y planes de estudio, libros y materiales que se utilicen en las instituciones educativas, de todos los niveles y modalidades del Estado, se incluyan contenidos y referencias a los derechos tutelados en esta Ley;
+
+XIX.- Promover que las instituciones de educación superior públicas y privadas incluyan asignaturas que ponderen los derechos tutelados en esta Ley, dentro de sus actividades académicas curriculares y extracurriculares;
+
+XX.- Orientar y auxiliar a las personas para ejercer los derechos de acceso a la información;
+
+XXI.- Impulsar, conjuntamente con instituciones de educación superior, la integración de centros de investigación, difusión y docencia sobre la transparencia, el derecho de acceso a la información pública que promuevan el conocimiento sobre estos temas y coadyuven con el Instituto en sus tareas sustantivas;
+
+XXII.- Celebrar sesiones públicas;
+
+XXIII.- Presentar propuestas del reglamento de esta Ley y sus modificaciones;
+
+XXIV.- Establecer la estructura administrativa del Instituto y su jerarquización, así como los mecanismos para la selección y contratación del personal, en los términos de su reglamento;
+
+XXV.- Examinar, discutir y, en su caso, aprobar o modificar los programas que someta a su consideración el Presidente;
+
+XXVI.- Conocer y, en su caso, aprobar los informes de gestión de los diversos órganos del Instituto;
+
+XXVII.- Aprobar el informe anual que presentará el Vocal Presidente al Congreso del Estado;
+
+XXVIII.- Dirimir cualquier tipo de conflicto competencial entre los órganos del Instituto, resolviendo en definitiva;
+
+XXIX.- Aprobar la celebración de convenios;
+
+XXX.- Establecer las normas, procedimientos y criterios para la administración de los recursos financieros y materiales del Instituto;
+
+XXXI.- Enviar para su publicación en el Boletín Oficial, los reglamentos, acuerdos y demás disposiciones que requieran difusión;
+
+XXXII.- Dictar todas aquellas medidas para el mejor funcionamiento del Instituto;
+
+XXXIII.- Mantener una efectiva colaboración y coordinación con los Entes públicos, a fin de lograr el cumplimiento de esta Ley;
+
+XXXIV.- Conocer por denuncia, los hechos que sean o pudieran ser constitutivos de infracciones a la presente Ley y demás disposiciones de la materia y, en su caso, denunciar a la autoridad competente los hechos; y
+
+XXXV.- Las demás que se deriven de la presente Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 13 Bis D.- El Vocal Presidente tendrá las siguientes facultades y obligaciones:
+
+I.- Representar legalmente al Instituto con facultades de apoderado para actos de administración, pleitos y cobranzas;
+
+II.- Otorgar, sustituir y revocar poderes generales y especiales para actos de administración, pleitos y cobranzas, de conformidad con las disposiciones jurídicas aplicables y previa autorización del Pleno;
+
+III.- Vigilar el correcto desempeño de las actividades del Instituto;
+
+IV.- Convocar a sesiones al Pleno y conducir las mismas, en los términos del reglamento respectivo;
+
+V.- Cumplir y hacer cumplir los acuerdos adoptados por el Pleno;
+
+VI.- Rendir los informes ante las autoridades competentes, en representación del Instituto;
+
+VII.- Ejercer, en caso de empate, el voto de calidad;
+
+VIII.- Presentar por escrito, al Congreso del Estado, el informe anual aprobado por el Pleno, a más tardar el quince de marzo de cada año;
+
+IX.- Ejercer por sí o por medio de los órganos designados en el reglamento, el presupuesto de egresos del Instituto, bajo la supervisión del Pleno; y
+
+X.- Las demás que le confiera esta Ley y su reglamento.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 13 Bis E.- El Instituto presentará, anualmente, ante el Congreso del Estado, a más tardar el quince de marzo de cada año, un informe sobre las actividades y los resultados logrados durante el ejercicio inmediato anterior respecto al acceso a la información pública, en el cual incluirá por lo menos:
+
+I.- El número de solicitudes de acceso a la información presentadas ante cada Ente Público, así como su resultado;
+
+II.- El tiempo de respuesta a la solicitud;
+
+III.- El estado que guardan los recursos presentados y las dificultades observadas en el cumplimiento de esta Ley;
+
+IV.- El uso de los recursos públicos;
+
+V.- Las acciones desarrolladas;
+
+VI.- Los indicadores de gestión; y
+
+VII.- El impacto de su actuación.
+
+Para efectos de que el Instituto cumpla con la obligación señalada en este artículo, los sujetos obligados deberán presentar al Instituto, un informe correspondiente al año anterior que refiera la información señalada en las fracciones I, II y III y VI, a más tardar, antes de que finalice el último día hábil del mes de enero de cada año. La omisión en la presentación de dicho informe será motivo de responsabilidad.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 13 Bis F.- El Instituto contará con un Secretario Técnico que será designado por el voto mayoritario de los vocales del Instituto. Regirá su actuación conforme a las normas relativas a la organización y funcionamiento que estarán previstas en el reglamento que para tal efecto se expida.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 13 Bis G.- El Instituto contará con una Contraloría, encargada de fiscalizar y vigilar el manejo y aplicación de los recursos del órgano, la cual instruirá los procedimientos, y en su caso, aplicará las sanciones que procedan, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN B.O. 12 DE AGOSTO DE 2013)</small>
+
+### CAPITULO TERCERO. DE LA PROMOCIÓN DE LA CULTURA DE LA TRANSPARENCIA
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 13 Bis H.- Corresponderá al Instituto, en colaboración con los sujetos obligados, la difusión del derecho de acceso a la información, la protección de los datos personales y la cultura de la transparencia, para lo cual podrán celebrar convenios de colaboración entre ellos, para la realización de cursos, seminarios, talleres o cualquier otro método didáctico para capacitar y actualizar permanentemente a los servidores públicos.
+
+Así mismo, los sujetos obligados podrán celebrar convenios con las instituciones de educación superior en el Estado, para efecto de impulsar la investigación, difusión y docencia sobre el derecho de acceso a la información pública, la protección de los datos personales y la cultura de la transparencia.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 13 Bis I.- El Instituto promoverá que, en los planes y programas educativos de educación básica y para la formación de maestros que se impartan en el Estado, se incluyan contenidos que reconozcan la importancia del ejercicio del derecho de acceso a la información pública. Igualmente, promoverá que en las instituciones públicas y privadas de educación superior, se incluya en la currícula el tema, ponderando la importancia del ejercicio de este derecho en la vida democrática de la Entidad.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 13 Bis J.- El Instituto promoverá la cultura de la transparencia y el derecho de acceso a la información pública y su impacto en el desarrollo de la democracia, para el público en general, mediante la realización de cursos, talleres y cualquier otro método pedagógico.
 
 ## TITULO SEGUNDO. DE LA INFORMACIÓN PÚBLICA
 
-### CAPITULO SEGUNDO. DE LA INFORMACIÓN DE ACCESO RESTRINGIDO
+### CAPITULO PRIMERO. DE LA INFORMACIÓN BÁSICA QUE DEBE SER DIFUNDIDA DE OFICIO POR LOS SUJETOS OBLIGADOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 14.
 
-Sin perjuicio de la información que conforme a este ordenamiento debe ser de acceso restringido, los sujetos obligados oficiales, en cuanto corresponda a sus atribuciones, deberán mantener actualizada y poner a disposición del público, ya sea en forma impresa, en sus respectivos sitios en Internet, por cualquier otro medio remoto o local de comunicación electrónica o, a falta de éstos, por cualquier medio de fácil acceso para el público, la información siguiente:
+Sin perjuicio de la información que conforme a este ordenamiento debe ser de acceso restringido, los sujetos obligados oficiales, en cuanto corresponda a sus atribuciones, deberán mantener actualizada y poner a disposición del público, en sus respectivos sitios en Internet, la información siguiente:
 
 I. El marco normativo legal y reglamentario, estatal, federal y municipal, que les sea aplicable;
 
@@ -227,53 +479,113 @@ II. Su estructura orgánica y manuales de procedimientos;
 
 > <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
-III.- Las atribuciones de cada unidad administrativa, incluyendo los indicadores de gestión;
+III. Las atribuciones de cada unidad administrativa, incluyendo los indicadores de gestión;
 
-IV. El directorio de servidores públicos, desde su titular hasta el nivel de jefe de departamento o sus equivalentes;
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
 
-V. La remuneración mensual integral por puesto, incluyendo el sistema de estímulos y compensaciones;
+IV. El directorio de servidores públicos, desde su titular hasta el nivel de jefe de departamento o sus equivalentes, con nombre, fotografía, domicilio oficial, número telefónico oficial y, en su caso, correo electrónico oficial.
 
-VI. Los servicios a su cargo y los trámites, requisitos y formatos correspondientes;
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+En el caso de la fotografía se presumirá el consentimiento del servidor público, salvo que éste indique por los medios conducentes su oposición. La fotografía de los servidores públicos que realizan funciones directamente relacionadas con la seguridad pública, la seguridad de funcionarios públicos, la procuración e impartición de justicia no deberán ser publicadas, salvo que éstos manifiesten expresamente su voluntad para ese efecto;
+
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+IV Bis. El perfil de los puestos de los servidores públicos y el currículum de quienes ocupan esos puestos;
+
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+V. La remuneración mensual integral por puesto, mensual bruta y neta de todos los servidores públicos por sueldos o por honorarios, incluyendo todas las percepciones, prestaciones, estímulos y compensaciones, en un formato que permita vincular a cada servidor público con su remuneración;
+
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+VI. Los servicios a su cargo y los trámites, tiempos de respuesta, requisitos, formatos correspondientes y, en su caso, el monto de los derechos para acceder a los mismos, debiendo incluir además información sobre la población a la cual están destinados los programas;
 
 VII. La descripción de las reglas de procedimiento para obtener información;
 
 VIII. Las metas y objetivos de las unidades administrativas, de conformidad con sus programas operativos;
 
-IX. El presupuesto asignado y los avances en su ejecución.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE AGOSTO DE 2013)</small>
 
-En el caso del Poder Ejecutivo, dicha información será proporcionada respecto a cada dependencia y entidad por la Secretaría de Hacienda, la que además informará sobre la situación económica, las finanzas públicas y la deuda pública del Estado.
+IX. El presupuesto de ingresos y de egresos autorizado por la instancia correspondiente del ejercicio fiscal vigente y un apartado con el histórico con un mínimo de diez años de antigüedad; así como los avances en la ejecución del vigente. Para el cumplimiento de los avances de ejecución deberá publicarse en los sitios de internet correspondientes, los estados financieros trimestrales.
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+En el caso del Poder Ejecutivo, dicha información será proporcionada respecto a cada dependencia, entidad y unidad de apoyo por la Secretaría de Hacienda, la que además informará sobre la situación económica, las finanzas públicas y la deuda pública del Estado.
 
 En el caso de los Ayuntamientos, la referida información será proporcionada respecto a cada dependencia y entidad por el Tesorero Municipal, que además informará sobre la situación económica, las finanzas públicas y la deuda pública del Ayuntamiento;
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Los sujetos obligados proporcionarán las bases de datos de la información financiera en formatos que permitan su manejo y manipulación para fines de análisis y valoraciones por parte de la población.
 
 X. Los resultados de las auditorias al ejercicio presupuestal de cada dependencia o entidad que realicen, según corresponda, la Contraloría General del Estado, las Contralorías Internas, el Órgano Interno de Control y Evaluación Gubernamental de cada Municipio, el Órgano Fiscalizador del Congreso y los auditores externos, con inclusión de todas las aclaraciones que contengan;
 
 XI. El diseño, ejecución, montos asignados y criterios de acceso a programas de subsidio y el padrón de beneficiarios;
 
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+XI Bis.- Los montos, criterios, convocatorias y listado de personas a quienes, por cualquier motivo, se les entregue o permita usar recursos públicos. Asimismo, cuando la normatividad interna lo establezca, los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos;
+
 XII. Los balances generales y su estado financiero;
 
-XIII. Los informes presentados por los partidos políticos conforme al Código Estatal Electoral ante el Consejo Estatal Electoral quien deberá hacerlos públicos en los términos de este artículo tan pronto como sean recibidos.
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
 
-El resultado de las auditorias y verificaciones que ordene el mismo Consejo sobre el manejo y distribución de los recursos públicos de los partidos políticos y las demás organizaciones de esta naturaleza con registro oficial deberá hacerse público al concluir el procedimiento de fiscalización respectivo.
+XIII. Los convenios institucionales celebrados por el sujeto obligado, especificando el tipo de convenio, con quién se celebra, objetivo, fecha de celebración y vigencia, así como copia digitalizada del convenio para su descarga;
 
 XIV. El listado, estado procesal y sentido de la resolución de los juicios de amparo, de las controversias constitucionales y las acciones de inconstitucionalidad presentadas ante el Poder Judicial de la Federación en los que sean parte;
 
-XV. Las cuentas públicas estatales y municipales, según corresponda;
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
 
-XVI. Las iniciativas de leyes y reglamentos que se presenten ante el Congreso del Estado o ante los Ayuntamientos, según corresponda;
+XV. Las cuentas públicas que deba presentar cada sujeto obligado, según corresponda;
 
-XVII. Las opiniones, consideraciones, datos y fundamentos legales referidos en los expedientes administrativos relativos al otorgamiento de permisos, concesiones o licencias que les corresponda autorizar, incluyéndose el nombre o razón social del titular, el concepto de la concesión, autorización o permiso y su vigencia;
+XVI. (DEROGADA, B.O. 12 DE AGOSTO DE 2013)
 
-XVIII. Las contrataciones que hayan celebrado detallando por cada contrato:
+> <small>(REFORMADA B.O. 12 DE AGOSTO DE 2013)</small>
 
-a. Las obras públicas, los bienes adquiridos o arrendados y los servicios contratados, especificándose el tema u objetivo en el caso de estudios o investigaciones;
+XVII. Las opiniones, consideraciones, datos y fundamentos legales referidos en los expedientes administrativos relativos al otorgamiento de permisos, concesiones o licencias que les corresponda autorizar, incluyéndose el nombre o razón social del titular, el concepto de la concesión, autorización, licencia o permiso, su vigencia, objeto, el tipo, así como si el procedimiento involucra el aprovechamiento de bienes, servicios y/o recursos públicos;
 
-b. El monto del contrato y sus ampliaciones y forma de pago;
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
 
-c. El nombre o denominación y el domicilio del proveedor, contratista o persona física o moral con quien se haya celebrado el contrato;
+XVII Bis. La calendarización de las reuniones públicas de los diversos consejos, comités, órganos colegiados, gabinetes, ayuntamientos, sesiones plenarias, comisiones y sesiones de trabajo a que se convoquen.
 
-d. Los plazos de cumplimiento del contrato; y
+Se deberán difundir las correspondientes minutas o actas de dichas reuniones y sesiones;
 
-e. Los mecanismos de participación ciudadana, en su caso;
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+XVIII. Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación de cualquier naturaleza, incluido el expediente respectivo, el documento en el que consta el fallo y el o los contratos celebrados. En el caso que contengan información reservada o confidencial, sobre ellos se difundirá una versión pública que deberá contener:
+
+a) De licitaciones públicas o procedimientos de invitación restringida:
+
+1.- La convocatoria o invitación emitida;
+
+2.- Los nombres de los participantes o invitados;
+
+3.- El nombre del ganador y las razones que lo justifican;
+
+4.- La unidad administrativa solicitante y la responsable de su ejecución;
+
+5.- La fecha del contrato, objeto, monto y plazo de entrega o de ejecución de los servicios u obra licitada;
+
+6.- Los mecanismos de vigilancia y supervisión, incluyendo, en su caso, los estudios de impacto urbano y ambiental, según corresponda; y
+
+7.- En su caso, los convenios modificatorios que recaigan a la contratación, precisando en qué consisten y su fecha de firma.
+
+b) De las adjudicaciones directas:
+
+1.- Los motivos y fundamentos legales aplicados;
+
+2.- En su caso, las cotizaciones consideradas;
+
+3.- El nombre de la persona adjudicada;
+
+4.- La unidad administrativa solicitante y la responsable de su ejecución;
+
+5.- La fecha del contrato, su monto y plazo de entrega o de ejecución de los servicios u obra; y
+
+6.- En su caso, los convenios modificatorios que recaigan a la contratación.
+
+Esta difusión deberá incluir el padrón de proveedores y contratistas así como los informes de avance sobre las obras o servicios contratados.
 
 XIX. Los informes que, por disposición legal, generen las dependencias y entidades estatales y municipales;
 
@@ -281,7 +593,17 @@ XX. Los mecanismos de participación ciudadana que, en su caso, hayan implementa
 
 XXI. El listado de proveedores;
 
-XXII. Los dictámenes de comisiones y las actas de sesiones del Poder Legislativo y de los ayuntamientos;
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+XXII. La relación de fideicomisos, mandatos o contratos análogos a los que aporten recursos presupuestarios, el monto de los mismos, sus documentos básicos de creación, así como sus informes financieros;
+
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+XXII Bis.- El padrón inmobiliario y vehicular;
+
+> <small>(ADICIONADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+XXII Bis A.- Los catálogos documentales de sus archivos administrativos; y
 
 XXIII. Cualquier otra información que sea de utilidad o se considere relevante, además de la que responda a las solicitudes realizadas con más frecuencia por el público.
 
@@ -289,7 +611,9 @@ La información a que se refiere este artículo deberá publicarse de tal forma 
 
 Para el cumplimiento de lo dispuesto en el presente artículo los sujetos obligados oficiales deberán proporcionar apoyo y orientación a los usuarios que lo requieran y proveer todo tipo de asistencia respecto de los trámites y servicios que presten.
 
-Los sujetos obligados oficiales procurarán que la información a su cargo quede presentada de forma tal que los usuarios puedan consultarla por medios electrónicos automáticos, así como en la Internet, de conformidad con los lineamientos que al respecto expida el Instituto.
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Los sujetos obligados oficiales procurarán que la información a su cargo quede presentada de forma tal que los usuarios puedan consultarla en la Internet, en formatos abiertos y de conformidad con los lineamientos que al respecto expida el Instituto.
 
 Los sujetos obligados no oficiales, excepto las personas de derecho privado, cumplirán las disposiciones de este artículo en lo que resulten aplicables conforme a su naturaleza jurídica según los lineamientos que al efecto se emitan por el Instituto.
 
@@ -299,9 +623,11 @@ El Poder Judicial del Estado deberá hacer públicas las sentencias que hayan ca
 
 En los términos referidos en el párrafo anterior se harán públicas las resoluciones que pongan fin a los procedimientos de responsabilidad de los servidores públicos.
 
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 16.
 
-Los sujetos obligados deberán actualizar periódicamente la información a que se refiere el presente Capítulo. Para tal efecto, el Instituto expedirá las normas de operación y lineamientos pertinentes.
+Los sujetos obligados deberán actualizar periódicamente la información a que se refiere el presente Capítulo, de conformidad con la normatividad aplicable y en los términos que establezca el Instituto en los lineamientos pertinentes. En caso de no existir una norma específica, la actualización deberá realizarse al menos cada tres meses.
 
 ###### Artículo 17.
 
@@ -309,27 +635,323 @@ Además de la información referida en la fracción XVIII del artículo 14, los 
 
 También deberá difundirse, para que sea de libre acceso a cualquier persona, la información relativa a la contratación y designación de servidores públicos, sus gastos de representación, costos de viajes, emolumentos o pagos en concepto de viáticos y otros semejantes, sea cual fuere el nivel de dichos funcionarios e incluyendo a todas las personas que desempeñen funciones públicas aún cuando no tengan nombramiento o un cargo determinado.
 
-### CAPITULO TERCERO. DE LA TRANSPARENCIA DE FIDEICOMISOS, MANDATOS O CONTRATOS ANÁLOGOS
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+###### Artículo 17 Bis.
 
-Artículo 35 BIS.- Las dependencias y entidades del Gobierno del Estado o los Ayuntamientos no podrán reservar, con base en el secreto bancario o fiduciario, la información relativa a operaciones fiduciarias y bancarias que se lleven a cabo con recursos públicos estatales o municipales, sin perjuicio de que dicha información pueda ubicarse en algún otro supuesto de clasificación previsto en la presente Ley.
+Además de la información referida en el artículo 14, el Poder Ejecutivo, por conducto de las dependencias, entidades y unidades de apoyo, en cuanto corresponda a sus atribuciones, deberán mantener actualizada y poner a disposición del público, en sus respectivos sitios en Internet, la información siguiente:
 
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+I.- Estadísticas e índices delictivos, así como los indicadores de la procuración de justicia;
 
-Artículo 35 BIS A.- Para efectos del presente Capítulo, por operaciones fiduciarias se entenderán aquellas que se realicen en virtud de fideicomisos públicos considerados entidades paraestatales o paramunicipales, así como fideicomisos, mandatos o contratos análogos que involucren recursos públicos estatales o municipales.
+II.- En materia de averiguaciones previas: estadísticas sobre el número de averiguaciones previas que fueron desestimadas, en cuántas se ejerció acción penal, en cuántas se decretó el no ejercicio y cuántas se archivaron, además de las órdenes de aprehensión, presentación y cateo;
 
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+III.- Las cantidades recibidas por concepto de multas y el destino al que se aplicaron;
 
-Artículo 35 BIS B.- La información generada por los fideicomisos públicos, mandatos o contratos análogos a que se refiere el presente capítulo, será de acceso público en los términos de esta Ley. Los sujetos obligados deberán publicar en su página de internet, la relación de los fideicomisos, mandatos o contratos análogos a los que aporten recursos presupuestarios y el monto de los mismos. La reserva fiduciaria sólo obliga y protege a la institución fiduciaria, más no al resto de las partes cuando se solicite la información a través del fideicomitente, de los fideicomisarios o del Comité Técnico, quienes estarán obligados a informar en los términos de esta Ley.
+IV.- Los reglamentos de las leyes expedidos en ejercicio de sus atribuciones;
 
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+V.- El listado de expropiaciones, que contenga al menos, fecha de expropiación, domicilio y utilidad pública;
 
-Artículo 35 BIS C.- Tratándose de fideicomisos no considerados entidades paraestatales o paramunicipales que involucren recursos públicos estatales o municipales, y/o recursos privados, el acceso a la información deberá otorgase únicamente por lo que se refiere a la aplicación de recursos públicos estatales o municipales, según corresponda.
+VI.- Los programas de exenciones o condonaciones de impuestos locales, o regímenes especiales en materia tributaria local, los requisitos establecidos para la obtención de los mismos;
 
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+VII.- El listado de patentes de notarios otorgadas, en términos de la Ley respectiva;
 
-Artículo 35 BIS D.- En el caso de fideicomisos privados que involucren recursos públicos estatales y/o municipales, la dependencia o entidad que erogue las aportaciones estatales o municipales, según corresponda, deberá otorgar acceso a la información relativa únicamente por lo que se refiere a la aplicación de los recursos públicos respectivos.
+VIII.- Los convenios de coordinación con la Federación, Estados y Municipios y de concertación con los sectores social y privado;
+
+IX.- El Plan Estatal de Desarrollo, vinculado con los programas operativos anuales y los respectivos indicadores de gestión que permitan conocer las metas, por unidad responsable, así como los avances físico y financiero, para cada una de las metas. Sobre los indicadores de gestión se deberá difundir, además, el método de evaluación con una justificación de los resultados obtenidos y el monto de los recursos públicos asignados para su cumplimiento; y
+
+X.- La información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones y políticas públicas.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 17 Bis A.- Además de la información referida en el artículo 14, el Congreso del Estado deberá mantener actualizada en los respectivos sitios de Internet, de acuerdo con sus funciones, según corresponda, la información respecto de los temas, documentos y políticas que a continuación se detallan:
+
+I.- Nombres, fotografía y currícula de los Diputados en funciones, así como las comisiones a los que pertenecen;
+
+II.- Agenda legislativa;
+
+III.- Gaceta Parlamentaria;
+
+IV.- Las iniciativas de ley o decretos, puntos de acuerdo, la fecha en que se recibió, las Comisiones a las que se turnaron, y los dictámenes que, en su caso, recaigan sobre las mismas;
+
+V.- Las leyes, decretos y acuerdos aprobados;
+
+VI.- Convocatorias, actas, versiones estenográficas, listas de asistencia y acuerdos de cada una de las sesiones de las comisiones;
+
+VII.- Metas y objetivos de las dependencias, direcciones generales y unidades administrativas, así como un informe semestral de su cumplimiento;
+
+VIII.- Informe de los viajes oficiales, nacionales y al extranjero, de los Diputados o del personal de las dependencias, direcciones generales y unidades administrativas, señalando el motivo de los mismos;
+
+IX.- Los recursos económicos que de conformidad con la Ley Orgánica del Poder Legislativo del Estado de Sonora, se asigna a los Grupos Parlamentarios o las Representaciones Parlamentarias, y los informes que éstos presenten sobre su uso y destino final, así como los recursos asignados a la Presidencia de la Mesa Directiva, las dependencias y direcciones generales;
+
+X.- Los dictámenes de cuenta pública así como los estados financieros y demás información que los órganos de fiscalización superior utilizan para emitir dichos dictámenes; y
+
+XI.- Los demás informes que deban presentarse conforme a su Ley Orgánica.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 17 Bis B.- Además de lo señalado en el artículo 14, el Supremo Tribunal de Justicia del Estado, así como el Consejo del Poder Judicial, deberán mantener actualizada en los respectivos sitios de Internet, de acuerdo con sus funciones, según corresponda, la información respecto de los temas, documentos y políticas que a continuación se detallan:
+
+I.- El Supremo Tribunal de Justicia:
+
+a) Lista de asistencia y orden del día de las Sesiones del Pleno;
+
+b) Acta, minuta y/o Versión Estenográfica de las Sesiones del Pleno;
+
+c) Votación de los acuerdos sometidos a consideración del Pleno;
+
+d) Acuerdos y Resoluciones del Pleno;
+
+e) Programación de visitas a las instituciones del sistema penitenciario del Estado, así como el seguimiento y resultado de las entrevistas practicadas con los individuos sujetos a proceso;
+
+f) Estadística Judicial;
+
+g) Versión pública de las sentencias relevantes, así como ejecutorias sobresalientes pronunciadas por el Pleno y las Salas, con los respectivos votos particulares si los hubiere;
+
+h) Carrera judicial, convocatorias, registro de aspirantes y resultados de las evaluaciones;
+
+i) Inventario de vehículos de su propiedad, asignación y uso de cada uno de ellos;
+
+j) Monto y manejo de los recursos económicos de los Fideicomisos existentes;
+
+k) Monto y periodicidad de los apoyos económicos y en especie otorgados a sus trabajadores en todos sus niveles y tipos de contratación;
+
+l) Programa anual de obras, programa anual de adquisiciones y programa anual de enajenación de bienes; y
+
+m) El boletín judicial, así como cualquier otro medio en el que se contengan las listas de acuerdos, laudos, resoluciones, sentencias relevantes y la jurisprudencia.
+
+II.- Consejo del Poder Judicial:
+
+a) Calendario de Sesiones Ordinarias del Consejo;
+
+b) Acuerdos y/o resoluciones del Consejo;
+
+c) Acuerdos y minutas de las Sesiones Ordinarias y Extraordinarias del Consejo;
+
+d) Seguimiento de los acuerdos o resoluciones del Consejo;
+
+e) Datos estadísticos anuales de sus actuaciones;
+
+f) Procedimiento de ratificación de Jueces;
+
+g) Aplicación y destino de los recursos financieros;
+
+h) Viajes oficiales nacionales y al extranjero de los jueces, magistrados consejeros o del personal de las unidades administrativas;
+
+i) Inventario de los bienes inmuebles propiedad del Consejo, así como el uso y destino de cada uno de ellos; y
+
+j) Resoluciones del órgano de control interno.
+
+III.- Las listas de Acuerdos que en el ejercicio de sus funciones emitan los órganos jurisdiccionales;
+
+IV.- La cuenta pública del Poder Judicial; y
+
+V.- En el caso del Tribunal de lo Contencioso Administrativo y de la Junta Local de Conciliación y Arbitraje, se deberán publicar la información prevista en las disposiciones de este artículo, en lo que le resulte aplicable.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 17 Bis C.- Además de lo señalado en el artículo 14, los organismos electorales deberán mantener actualizada en los respectivos sitios de Internet, de acuerdo con sus funciones, según corresponda, la información respecto de los temas, documentos y políticas que a continuación se detallan:
+
+I.- Respecto al Consejo Estatal Electoral:
+
+a).- Los informes que presenten los partidos, asociaciones y las agrupaciones políticas;
+
+b).- Los expedientes sobre los recursos y quejas resueltas por violaciones al Código Electoral;
+
+c).- Actas y acuerdos del Consejo;
+
+d).- Los programas institucionales en materia de capacitación, educación cívica y fortalecimientos de los partidos políticos y demás asociaciones políticas;
+
+e).- La división del territorio que comprende el Estado en Distritos Electorales Uninominales y en demarcaciones territoriales;
+
+f).- Listados de partidos políticos registrados y acreditados ante la autoridad electoral;
+
+g).- El registro de candidatos a cargos de elección popular;
+
+h).- Monto de financiamiento público y privado, y su distribución de acuerdo a sus programas, otorgado a los partidos, así como el monto autorizado de financiamiento privado para campañas electorales;
+
+i).- Topes de gastos para cada una de las campañas electorales;
+
+j).- El acuerdo o resolución que recaiga respecto a los Informes entregados a la autoridad electoral sobre el origen, monto y destino de los recursos por parte de los partidos políticos;
+
+k).- Los cómputos totales de las elecciones y procesos de participación ciudadana llevados a cabo en el Estado;
+
+l).- Los informes presentados por los partidos políticos conforme al Código Electoral para el Estado de Sonora, debiendo hacerlos públicos, en los términos de este artículo tan pronto como sean recibidos.
+
+m).- El resultado de las auditorías y verificaciones que ordene el mismo Consejo sobre el manejo y distribución de los recursos públicos de los partidos políticos con registro oficial deberá hacerse público al concluir el procedimiento de fiscalización respectivo;
+
+n) Inventario de vehículos de su propiedad, asignación y uso de cada uno de ellos;
+
+ñ) Programa anual de obras, programa anual de adquisiciones y programa anual de enajenación de bienes; y
+
+o).- Las demás que establezca la normatividad vigente.
+
+II.- En el caso del Tribunal Electoral:
+
+a) Las sentencias que hayan causado ejecutoria, cuidando en todo momento no difundir información de acceso restringido;
+
+b) Listas de acuerdos, resoluciones, votos particulares y demás datos relevantes;
+
+c) Lista de asistencia y orden del día de las Sesiones del Pleno;
+
+d) Acta, minuta y/o Versión Estenográfica de las Sesiones del Pleno;
+
+e) Votación de los resolutivos sometidos a consideración del Pleno;
+
+f) Estadística Judicial;
+
+g) Inventario de vehículos de su propiedad, asignación y uso de cada uno de ellos;
+
+h) Programa anual de obras, programa anual de adquisiciones y programa anual de enajenación de bienes; y
+
+i) Las demás que establezca la normatividad vigente.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 17 Bis D.- Además de lo señalado en el artículo 14, los Ayuntamientos deberán mantener actualizada en los respectivos sitios de Internet, de acuerdo con sus funciones, según corresponda, la información respecto de los temas, documentos y políticas que a continuación se detallan:
+
+I.- El Plan Municipal de Desarrollo, así como los planes y programas operativos anuales que se deriven de éste;
+
+II.- Las estadísticas e indicadores de gestión en materia de seguridad pública, tránsito y gobierno municipal;
+
+III.- Las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
+
+IV.- Los empréstitos, deudas contraídas, así como la enajenación de bienes inmuebles y vehículos;
+
+V.- Los ingresos por concepto de participaciones y aportaciones federales y estatales; así como por la recaudación que se integre a la hacienda pública municipal;
+
+VI.- Los indicadores de gestión de los servicios públicos que presten los Ayuntamientos;
+
+VII.- Las actas de las sesiones del Ayuntamiento, detallando la asistencia, votaciones y resoluciones que durante tales sesiones se hubieren emitido;
+
+VIII.- El calendario de actividades culturales, deportivas o recreativas a realizar;
+
+IX.- Los programas de exenciones o condonaciones de impuestos municipales o regímenes especiales en materia tributaria local, así como los requisitos establecidos para la obtención de los mismos;
+
+X.- La información que muestre el estado que guarda su situación patrimonial; y
+
+XI.- Los proyectos de reglamentos, bandos municipales u otras disposiciones administrativas de carácter general que se sometan a consideración del Ayuntamiento, así como el estado que guardan.
+
+En los municipios con población indígena, el Ayuntamiento deberá hacer lo conducente para hacer asequible la información a que se refiere este artículo y el artículo 14 de esta Ley.
+
+Los ayuntamientos de los municipios con menos de veinte mil habitantes podrán solicitar al Instituto mediante convenio, que divulgue en el sitio de internet correspondiente, la información pública de oficio y la información adicional que se señala en este capítulo.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 17 Bis E.- Además de lo señalado en el artículo 14, la Comisión Estatal de Derechos Humanos deberá mantener actualizada en los respectivos sitios de Internet, de acuerdo con sus funciones, según corresponda, la información respecto de los temas, documentos y políticas que a continuación se detallan:
+
+I.- Las recomendaciones enviadas, su destinatario y el estado que guarda su atención, cuidando en todo momento no difundir información de acceso restringido;
+
+II.- Los recursos de queja e impugnación concluidos, así como el concepto por el cual llegaron a ese estado; y
+
+III.- Estadísticas sobre las denuncias presentadas que permitan identificar el género de la víctima, su ubicación geográfica, edad y el tipo de delito, cuidando en todo momento no revelar información de acceso restringido.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 17 Bis F.- Además de lo señalado en el artículo 14, las instituciones públicas de educación superior, deberán mantener actualizada en los respectivos sitios de Internet, de acuerdo con sus funciones, según corresponda, la información respecto de los temas, documentos y políticas que a continuación se detallan:
+
+I.- Los planes y programas de estudio según el sistema que ofrecen, ya sea escolarizado o abierto, con las áreas de conocimiento, el perfil profesional de quien cursa el plan de estudios, la duración del programa con las asignaturas por semestre, su valor en créditos y una descripción sintética para cada una de ellas;
+
+II.- Toda la información relacionada con sus procedimientos y requisitos de admisión;
+
+III.- Los indicadores de gestión y los resultados de las evaluaciones al desempeño de la planta académica y administrativa;
+
+IV.- Una lista de los profesores con licencia o en año sabático;
+
+V.- Los estados de su situación financiera, señalando su activo en propiedades y equipo, inversiones patrimoniales y fideicomisos, efectivo y los demás que apliquen para conocer el estado de su patrimonio;
+
+VI.- El monto anual de sus ingresos y su fuente; y
+
+VII.- La remuneración de los profesores, incluyendo los estímulos al desempeño, nivel y monto.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 17 Bis G.- Además de lo señalado en el artículo 14, el Instituto de Transparencia Informativa deberá mantener actualizada en los respectivos sitios de Internet, de acuerdo con sus funciones, según corresponda, la información respecto de los temas, documentos y políticas que a continuación se detallan:
+
+I.- El resultado de los recursos de revisión interpuestos y las versiones públicas de las resoluciones emitidas;
+
+II.- Los estudios que apoyan la resolución de los recursos de revisión;
+
+III.- La relación de juicios de amparos que existan en contra de sus resoluciones;
+
+IV.- Estadísticas sobre las solicitudes de información. En ellas, se deberá identificar: el sujeto obligado que la recibió, el perfil del solicitante, el tipo de respuesta, y la temática de las solicitudes;
+
+V.- Las actas de las sesiones del pleno;
+
+VI.- Los resultados, criterios y metodología de la evaluación del cumplimiento de la ley a los sujetos obligados;
+
+VII.- Los convenios y acuerdos celebrados con otros sujetos obligados;
+
+VIII.- Informes sobre las acciones de promoción de la cultura de transparencia; y
+
+IX.- Las demás que se consideren relevantes y de interés para el público.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 17 Bis H.- Además de lo que le corresponde cumplir por su naturaleza, según lo establecido en el artículo 14 de esta Ley, los partidos políticos deberán mantener actualizada en los respectivos sitios de Internet, la información que a continuación se detalla:
+
+I.- Sus documentos básicos;
+
+II.- Las facultades de sus órganos de dirección;
+
+III.- Los reglamentos y acuerdos aprobados por sus órganos de dirección, que regulen su vida interna, las obligaciones y derechos de sus afiliados, la elección de sus dirigentes y la postulación de sus candidatos a cargos de elección popular;
+
+IV.- El directorio de sus funcionarios;
+
+V.- Las plataformas electorales que registren ante el Consejo Estatal Electoral;
+
+VI.- Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatos a cargos de elección popular;
+
+VIII.- Los nombres de sus representantes ante el Consejo Estatal Electoral;
+
+IX.- El listado de las fundaciones, centros o institutos de investigación o capacitación, o cualquier otro, que reciban apoyo económico permanente del partido político;
+
+XI.- La demás que señale esta Ley, o las leyes aplicables.
+
+No será pública la información relativa a los procesos deliberativos de los órganos internos de los partidos políticos; la correspondiente a sus estrategias políticas y de campañas electorales; la contenida de todo tipo de encuestas por ello ordenadas, así como la referida a las actividades de naturaleza privada, personal o familiar de sus afiliados, dirigentes, precandidatos y candidatos a cargos de elección popular.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 17 Bis I.- Las dependencias y entidades del Gobierno del Estado o los Ayuntamientos no podrán reservar, con base en el secreto bancario o fiduciario, la información relativa a operaciones fiduciarias y bancarias que se lleven a cabo con recursos públicos estatales o municipales, sin perjuicio de que dicha información pueda ubicarse en algún otro supuesto de clasificación previsto en la presente Ley.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 17 Bis J.- Además de lo señalado en el artículo 14, los fideicomisos públicos que se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, deberán mantener actualizada, de forma impresa para consulta directa y en los respectivos sitios de Internet, de acuerdo con sus funciones, según corresponda, la información respecto de los temas, documentos y políticas que a continuación se detallan:
+
+I. Nombre del servidor público y de la persona física o moral que represente al Fideicomitente, al Fiduciario y al Fideicomisario;
+
+II. Sector de la Administración Pública a la cual pertenecen;
+
+III. El monto total, el uso y destino de los subsidios, donaciones, transferencias, aportaciones o subvenciones que reciban;
+
+IV. Monto total de remanentes de un ejercicio fiscal a otro;
+
+V. Las modificaciones que en su caso sufran los contratos o decretos de creación del fideicomiso o del fondo público; y
+
+VI. Causas y motivos por los que se inicia el proceso de extinción del fideicomiso o fondo público, especificando de manera detallada los recursos financieros destinados para tal efecto.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 17 Bis K.- En cada uno de los rubros de información pública señalados en los artículos de este Capítulo se deberá indicar el área responsable de generar la información.
+
+La información a que se refiere este Capítulo deberá publicarse de tal forma que facilite su uso y comprensión y permita asegurar su calidad, veracidad, oportunidad y confiabilidad, de conformidad con los lineamientos que al efecto expida el Instituto.
+
+Para el cumplimiento de lo dispuesto en el presente capítulo los sujetos obligados oficiales deberán proporcionar apoyo y orientación a los usuarios que lo requieran y proveer todo tipo de asistencia respecto de los trámites y servicios que presten.
+
+Los sujetos obligados no oficiales, excepto las personas de derecho privado, cumplirán las disposiciones de este capítulo en lo que resulten aplicables conforme a su naturaleza jurídica según los lineamientos que al efecto se emitan por el Instituto.
+
+Cualquier persona podrá denunciar ante el Instituto, en términos del artículo 13 Bis C, fracción I, de la presente Ley, violaciones a las disposiciones contenidas en este capítulo. En este caso, el Instituto inmediatamente dará vista de la denuncia al sujeto obligado, para que éste, dentro de los siguientes cinco días hábiles, haga valer lo que estime pertinente. Transcurrido dicho plazo, el Instituto resolverá, en un plazo no mayor a diez días hábiles, donde podrá ordenar al sujeto obligado, a que tome las medidas que resulten necesarias para garantizar la publicidad de la información, en los términos de la presente Ley y sus lineamientos.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 17 Bis L.- Los sujetos obligados deberán tener en la página de inicio de su sitio de internet, en forma clara y visible, una indicación precisa que señale el sitio donde se encuentra la información a que se refiere este capítulo. Asimismo, la información pública básica deberá presentarse con un lenguaje claro, accesible y que facilite su comprensión.
+
+El sitio de internet de los sujetos obligados deberá contar con buscadores temáticos.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 17 Bis M.- En los sitios de internet de los sujetos obligados a los que se refiere este Capítulo, se deberá indicar la unidad administrativa responsable de publicar la información, así como la unidad o unidades administrativas responsables de generar o proporcionar la información de cada uno de los rubros aplicables a los sujetos obligados.
+
+### CAPITULO SEGUNDO. DE LA INFORMACIÓN DE ACCESO RESTRINGIDO
 
 #### SECCIÓN I. DISPOSICIONES COMUNES
 
@@ -337,11 +959,21 @@ Artículo 35 BIS D.- En el caso de fideicomisos privados que involucren recursos
 
 La información de acceso restringido, en sus modalidades de reservada y confidencial, no podrá ser divulgada, salvo las excepciones señaladas en este Capítulo.
 
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 19.
 
-Los sujetos obligados oficiales, por conducto del servidor público titular del área administrativa correspondiente, serán responsables de clasificar la información a su cargo de conformidad con los criterios establecidos en esta Ley y los lineamientos que al efecto expida el Instituto.
+Los sujetos obligados oficiales, por conducto del servidor público titular del área administrativa correspondiente, quien deberá tener nivel de director general o su equivalente, serán responsables de clasificar la información a su cargo de conformidad con los criterios establecidos en esta Ley y los lineamientos que al efecto expida el Instituto.
+
+La clasificación de la información confidencial no requiere acuerdo expreso.
+
+No podrá ser clasificada como información de acceso restringido aquella que no se encuentre dentro de las hipótesis que expresamente señala la presente Ley.
 
 Los sujetos obligados deberán adoptar las medidas necesarias para asegurar la custodia y conservación de la información de acceso restringido.
+
+En caso de que existan datos que contengan parcialmente información cuyo acceso se encuentre restringido en los términos de esta Ley, deberá proporcionarse el resto que no tenga tal carácter, emitiendo versiones públicas de dichos documentos.
+
+La restricción al acceso a la información concluye de pleno derecho por el sólo transcurso del tiempo sin necesidad de resolución o acto administrativo alguno y los sujetos obligados elaborarán un listado de información que habrá de desclasificarse al momento que se cumpla el tiempo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -351,43 +983,67 @@ Los sujetos obligados deberán adoptar las medidas necesarias para asegurar la c
 
 El Instituto y la Comisión Estatal de Derechos Humanos tendrán acceso irrestricto a la información a que se refiere el presente Capítulo, el primero cuando deba decidir sobre su clasificación, desclasificación o, en su caso, la procedencia de acceso a la misma, y la segunda cuando la información se relacione con investigaciones o procedimientos que dicho organismo desahogue en ejercicio de sus atribuciones.
 
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+###### Artículo 20 Bis.
+
+No será pública la información relativa a los procesos deliberativos de los órganos internos de los partidos; la correspondiente a sus estrategias políticas y de campañas electorales; la contenida en todo tipo de encuestas por ellos ordenadas, así como la referida a las actividades de naturaleza privada, personal o familiar, de sus afiliados, dirigentes, precandidatos y candidatos a cargos de elección popular.
+
+Será considerada confidencial la información que contenga los datos personales de los afiliados, dirigentes, precandidatos y candidatos a cargos de elección popular, salvo los contenidos en los directorios establecidos en este capítulo y en las listas de precandidatos o candidatos a cargos de elección popular, que solamente contendrán el nombre completo y otros datos personales que autorice el interesado;
+
+Se considerará reservada la información relativa a los juicios en curso, de cualquier naturaleza, en que los partidos políticos sean parte, hasta que se encuentren en estado de cosa juzgada.
+
 #### SECCION II. DE LA INFORMACIÓN RESERVADA
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 20 Bis A.- El acceso a la información pública podrá reservarse temporalmente por causas de interés público, conforme a las modalidades establecidas en la presente Ley y mediante acuerdo expreso, fundado y motivado, en el que, a partir de elementos objetivos o verificables, pueda identificarse una alta probabilidad de dañar el interés público protegido conforme a los supuestos que se establecen en el artículo siguiente.
+
+Cuando un sujeto obligado en ejercicio de sus atribuciones transmita a otro sujeto, información previamente clasificada como reservada, deberán incluir, en el oficio de remisión, una leyenda donde se refiera que la información es de esa naturaleza y que su divulgación es motivo de responsabilidad en términos de Ley.
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 21.
 
-Se considerará información reservada por los sujetos obligados oficiales aquella cuyo conocimiento público:
+Es pública toda la información que obra en los archivos de los sujetos obligados, con excepción de aquella que de manera expresa y específica se prevé como información reservada en los siguientes casos:
 
-I. Pueda comprometer la seguridad nacional, del Estado o de los municipios;
+I.- Cuando su divulgación ponga en riesgo la seguridad nacional, la seguridad pública del Estado o los municipios;
 
-II. Pueda impedir u obstaculizar el éxito de las negociaciones que lleven a cabo el Estado o los municipios con otras instituciones nacionales o extranjeras con respecto a asuntos de su competencia, incluida aquella información que otras entidades federativas u organismos nacionales o internacionales entreguen con carácter de reservada al Estado o municipios;
+II.- Cuando su divulgación ponga en riesgo la vida, la seguridad o la salud de cualquier persona o el desarrollo de investigaciones reservadas;
 
-III. Pueda comprometer el resultado de negociaciones que se realicen entre los diferentes órdenes de gobierno;
+III.- Cuando su divulgación impida las actividades de verificación sobre el cumplimiento de las leyes, prevención o persecución de los delitos, la impartición de justicia y la recaudación de las contribuciones;
 
-IV. Pueda dañar la estabilidad financiera o económica del Estado o de los municipios;
+IV.- Cuando la ley expresamente la considere como reservada;
 
-V. Ponga en riesgo la vida, la seguridad, la salud o el patrimonio de cualquier persona;
+V.- Cuando se trate de expedientes judiciales o de los procedimientos administrativos seguidos en forma de juicio, mientras la sentencia o resolución definitiva no haya causado ejecutoria. Una vez que dicha resolución cause estado los expedientes serán públicos, salvo la información reservada o confidencial que pudiera contener;
 
-VI. Cause perjuicio o afecte las actividades de verificación del cumplimiento de las leyes, así como la impartición de justicia, la prevención o persecución de los delitos y, de modo especial, las averiguaciones previas en trámite;
+VI.- Cuando se trate de procedimientos de responsabilidad de los servidores públicos, quejas y denuncias tramitadas ante los órganos de control, en tanto no se haya dictado la resolución administrativa definitiva;
 
-VII. Pueda causar daños o perjuicios al interés general del Estado o de los municipios tratándose de estudios y proyectos sobre el desarrollo estatal o municipal;
+VII.- La que contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, en tanto pueda influenciar un proceso de toma de decisiones que afecte el interés público y hasta que no sea adoptada la decisión definitiva. En todos los casos, se deberá documentar la decisión definitiva;
 
-VIII. Lesione o pueda perjudicar los derechos derivados de propiedad intelectual, patentes o marcas en poder de los sujetos obligados;
+VIII.- La contenida en informes, consultas y toda clase de escritos relacionados con la definición de estrategias y medidas a tomar por los sujetos obligados en materia de controversias legales;
 
-IX. Pueda afectar las estrategias y medidas a tomar por los sujetos obligados en materia de controversias legales;
+IX.- La que pueda generar una ventaja personal indebida en perjuicio de un tercero o de los sujetos obligados;
 
-X. Pueda generar una ventaja personal indebida en perjuicio de un tercero o de los propios sujetos obligados.
+X.- La relacionada con la seguridad de las instalaciones estratégicas de los sujetos obligados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XI.- La información que con su difusión menoscabe el patrimonio de los sujetos obligados;
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+XII.- La información que con su difusión dañe la estabilidad financiera o económica de los sujetos obligados;
+
+XIII.- Cuando se relacione con la propiedad intelectual, patentes o marcas en poder de los sujetos obligados, u otra considerada como tal por alguna otra disposición legal; o
+
+XIV.- La información que organismos internacionales, estados o municipios entreguen con el carácter de reserva a los sujetos obligados.
 
 No podrá invocarse el secreto bancario cuando el titular de las cuentas sea un sujeto obligado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
-
 No podrá invocarse el carácter de reservado cuando se trate de la investigación de violaciones graves de derechos fundamentales o delitos de lesa humanidad.
+
+Previa solicitud, el sujeto obligado deberá preparar versiones públicas de los supuestos previstos en el presente artículo.
+
+En ningún caso, los sujetos obligados podrán emitir acuerdos generales que clasifiquen documentos o información como reservada.
+
+Los acuerdos que clasifiquen información con carácter de reservada, deberán contener el nombre y firma del responsable de la clasificación, la fuente de la información, fundamentación y motivación de la clasificación, explicar por qué el daño que pudiera causar su divulgación, las partes de los documentos que se reservan, el plazo de reserva y la designación de la autoridad responsable de su conservación, guarda y custodia.
 
 ###### Artículo 22.
 
@@ -403,29 +1059,35 @@ Para clasificar alguna información como reservada se requerirá acuerdo expreso
 
 El acuerdo que, en su caso, clasifique información con carácter de reservada deberá indicar la fuente de la información, el daño que pudiera causar su divulgación, las partes de los documentos que se reservan, el plazo de reserva y la designación de la autoridad responsable de su conservación, guarda y custodia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 25.
 
-La información reservada según el presente Capítulo podrá permanecer con tal carácter hasta por un período de diez años, pero deberá ser desclasificada antes del vencimiento de dicho plazo cuando se extingan las causas que dieron origen a su clasificación, o cuando así se determine por el Instituto mediante resolución fundada y motivada.
+La información reservada según el presente Capítulo podrá permanecer con tal carácter hasta por un período de diez años, contados a partir de su clasificación, pero deberá ser desclasificada antes del vencimiento de dicho plazo cuando se extingan las causas que dieron origen a su clasificación, o cuando así se determine por el Instituto mediante resolución fundada y motivada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Si fuere indispensable información reservada para la defensa de los derechos del solicitante en procedimiento judicial de cualquier naturaleza, acreditada que fuere esta circunstancia el sujeto obligado o, en su caso, el Instituto permitirá el acceso a dicha información. El documento resultante será admitido como prueba en cualquier etapa del proceso donde sea requerido, con la condición de que haya sido anunciado en el período probatorio y no se encuentre dictada sentencia ejecutoriada.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+Excepcionalmente, los sujetos obligados podrán ampliar el período de reserva hasta por un plazo adicional de siete años, siempre y cuando subsistan las causas que dieron origen a su clasificación o aparezcan otras de igual o mayor gravedad.
 
-Si fuere indispensable información reservada para la defensa de los derechos del solicitante en procedimiento judicial de cualquier naturaleza, acreditada que fuere esta circunstancia el sujeto obligado o, en su caso, el Instituto permitirán el acceso a dicha información. El documento resultante será admitido como prueba en cualquier etapa del proceso donde sea requerido, con la condición de que haya sido anunciado en el período probatorio y no se encuentre dictada sentencia ejecutoriada.
+Se exceptúa de los plazos establecidos en este artículo, la información a que hace referencia las fracciones X y XIII del artículo 21, cuyo plazo estará condicionado a lo establecido en las leyes especiales que las regulen.
 
-En caso de que exista un documento que contenga información cuyo acceso se encuentre reservado en forma parcial en los términos de esta Ley, deberá proporcionarse el resto de la información que no esté exceptuada.
-
-La restricción al acceso de la información concluye de pleno derecho por el sólo transcurso del tiempo, sin necesidad de resolución o acto administrativo alguno.
-
-Excepcionalmente, los sujetos obligados podrán ampliar el período de reserva hasta por un plazo adicional de diez años, siempre y cuando subsistan las causas que dieron origen a su clasificación o aparezcan otras de igual o mayor gravedad.
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 26.
 
-Los sujetos obligados elaborarán semestralmente y por rubros temáticos un índice de los expedientes clasificados como reservados. Dicho índice deberá indicar la unidad administrativa que generó o recibió la información, la fecha de la clasificación, su fundamento, el plazo de reserva y, en su caso, las partes de los documentos que se reservan. El citado índice será utilizado para el control interno de los sujetos obligados quienes deberán remitir una copia del mismo al Instituto.
+Los sujetos obligados elaborarán semestralmente un índice de los expedientes clasificados como reservados, de conformidad con los lineamientos que expida el Instituto. Dicho índice deberá indicar la unidad administrativa que generó o recibió la información, la fecha de la clasificación, su fundamento, el plazo de reserva y, en su caso, las partes de los documentos que se reservan. El citado índice será utilizado para el control interno de los sujetos obligados quienes deberán remitir una copia del mismo al Instituto.
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+###### Artículo 26 Bis.
+
+La información deberá ser clasificada por el sujeto obligado antes de dar respuesta a una solicitud de acceso a la información.
+
+El Instituto podrá establecer lineamientos para la clasificación y desclasificación de la información. En ningún caso, los sujetos obligados podrán clasificar documentos como de acceso restringido antes de que se genere la información.
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Artículo 26 Bis A.- La respuesta a la solicitud de información que se encuentre clasificada como reservada, deberá indicar la fuente de la información, que la misma encuadra legítimamente en alguna de las hipótesis de excepción previstas en la presente Ley, que su divulgación lesiona el interés que protege, que el daño que puede producirse con la publicidad de la información es mayor que el interés público de conocerla y estar fundada y motivada, además de precisar las partes de los documentos que se reservan, el plazo de reserva y la designación de la autoridad responsable de su conservación, guarda y custodia.
 
 #### SECCION III. DE LA INFORMACIÓN CONFIDENCIAL
 
@@ -447,13 +1109,15 @@ III. La que sea definida así por disposición expresa de una Ley.
 
 Se considerará información confidencial por los sujetos obligados no oficiales aquella que expresamente se clasifique de esta manera por la autoridad previamente o en el acto de entregarla al propio sujeto obligado no oficial, sin perjuicio de que la autoridad pueda formular también esta clasificación con posterioridad, debiendo respetarla el sujeto obligado no oficial a partir de que reciba la notificación correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+Sin perjuicio de lo considerado en el párrafo anterior, será considerada confidencial la información de los partidos políticos que contenga los datos personales de los afiliados, dirigentes, precandidatos y candidatos a cargos de elección popular, salvo los contenidos en los directorios que deberán publicarse de manera oficiosa y en las listas de precandidatos o candidatos a cargos de elección popular, que solamente contendrán el nombre completo y otros datos personales que autorice el interesado.
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 29.
 
-Los gobernados podrán entregar a los sujetos obligados oficiales documentos con reserva expresa de confidencialidad referida a particularidades determinadas del propio informante o de terceros, de lugares o de cosas, cuando dicha reserva limite sus efectos al entorno privado de las personas, para lo cual deberán señalar los documentos o secciones de ellos que contengan tal información confidencial. En estos casos dicha información se conservará confidencial y los documentos correspondientes sólo podrán divulgarse con exclusión de la misma, salvo que medie consentimiento expreso del particular titular de dicha información.
+Cuando los particulares entreguen a los sujetos obligados información confidencial derivada de un trámite o procedimiento del cual puedan obtener un beneficio, deberán señalar los documentos o secciones de ellos que contengan tal información. En el caso de que exista una solicitud de acceso que incluya información confidencial, los sujetos obligados podrán comunicarla siempre y cuando medie el consentimiento expreso del particular titular de dicha información confidencial.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -669,21 +1333,67 @@ En caso de que el interesado o su representante legal no acudan a recoger la inf
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 14 DE AGOSTO DE 2007)</small>
 
-### CAPITULO PRIMERO. DEL PROCEDIMIENTO PARA EL EJERCICIO DEL DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA
+### CAPITULO TERCERO. DE LA TRANSPARENCIA DE FIDEICOMISOS, MANDATOS O CONTRATOS ANÁLOGOS
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Artículo 35 BIS.- Las dependencias y entidades del Gobierno del Estado o los Ayuntamientos no podrán reservar, con base en el secreto bancario o fiduciario, la información relativa a operaciones fiduciarias y bancarias que se lleven a cabo con recursos públicos estatales o municipales, sin perjuicio de que dicha información pueda ubicarse en algún otro supuesto de clasificación previsto en la presente Ley.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Artículo 35 BIS A.- Para efectos del presente Capítulo, por operaciones fiduciarias se entenderán aquellas que se realicen en virtud de fideicomisos públicos considerados entidades paraestatales o paramunicipales, así como fideicomisos, mandatos o contratos análogos que involucren recursos públicos estatales o municipales.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Artículo 35 BIS B.- La información generada por los fideicomisos públicos, mandatos o contratos análogos a que se refiere el presente capítulo, será de acceso público en los términos de esta Ley. Los sujetos obligados deberán publicar en su página de internet, la relación de los fideicomisos, mandatos o contratos análogos a los que aporten recursos presupuestarios y el monto de los mismos. La reserva fiduciaria sólo obliga y protege a la institución fiduciaria, más no al resto de las partes cuando se solicite la información a través del fideicomitente, de los fideicomisarios o del Comité Técnico, quienes estarán obligados a informar en los términos de esta Ley.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Artículo 35 BIS C.- Tratándose de fideicomisos no considerados entidades paraestatales o paramunicipales que involucren recursos públicos estatales o municipales, y/o recursos privados, el acceso a la información deberá otorgase únicamente por lo que se refiere a la aplicación de recursos públicos estatales o municipales, según corresponda.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Artículo 35 BIS D.- En el caso de fideicomisos privados que involucren recursos públicos estatales y/o municipales, la dependencia o entidad que erogue las aportaciones estatales o municipales, según corresponda, deberá otorgar acceso a la información relativa únicamente por lo que se refiere a la aplicación de los recursos públicos respectivos.
 
 ## TÍTULO TERCERO. DEL ACCESO A LA INFORMACIÓN PÚBLICA
 
-### CAPITULO SEGUNDO. DEL RECURSO DE REVISIÓN
+### CAPITULO PRIMERO. DEL PROCEDIMIENTO PARA EL EJERCICIO DEL DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 36.
 
-Cada uno de los sujetos obligados oficiales deberán crear y mantener en operación ininterrumpida una unidad de enlace para atender con eficiencia y prontitud las solicitudes de acceso a la información.
+Cada uno de los sujetos obligados oficiales deberán crear y mantener en operación ininterrumpida una unidad de enlace para atender con eficiencia y prontitud las solicitudes de acceso a la información, especializadas por materia. En todo caso, el titular de la unidad de enlace deberá tener como mínimo un cargo de Director General o su equivalente dentro de la organización de la unidad administrativa de que se trate.
+
+Sin perjuicio de lo señalado en el párrafo anterior, los sujetos obligados oficiales podrán acordar en implementar una unidad de enlace común para atender con eficiencia y prontitud las solicitudes de acceso a la información, en cuyo caso el acuerdo correspondiente deberá constar por escrito y ser difundido dentro de la información pública básica de quienes lo suscriban.
+
+Las unidades de enlace podrán establecer unidades receptoras en los lugares que consideren convenientes.
 
 Los sujetos obligados no oficiales atenderán las solicitudes de acceso a la información por conducto de sus representantes legales.
 
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 37.
 
-Toda persona tiene derecho a solicitar, ante la unidad de enlace de los sujetos obligados oficiales o ante el representante legal de los sujetos obligados no oficiales, sin necesidad de acreditar identidad, legitimación o interés algunos, la información de acceso público que se encuentre en poder o sea del conocimiento de dichos sujetos.
+Toda persona tiene derecho a solicitar, ante la unidad de enlace de los sujetos obligados oficiales o ante el representante legal de los sujetos obligados no oficiales, sin necesidad de acreditar derechos subjetivos, identidad, legitimación o interés legítimo o razones que motiven su solicitud, la información de acceso público que se encuentre en poder o sea del conocimiento de dichos sujetos, salvo en el caso del derecho a la protección de datos personales y las disposiciones contenidas en la presente Ley.
+
+Todos los procedimientos relativos al acceso a la información deberán regirse por los siguientes principios:
+
+I.- Máxima publicidad;
+
+II.- Simplicidad y rapidez;
+
+III.- Gratuidad del procedimiento;
+
+IV.- Costo razonable de la reproducción de los documentos solicitados;
+
+V.- Libertad de información;
+
+VI.- Buena fe del solicitante;
+
+VII.- Suplencia de la deficiencia de la solicitud; y
+
+VIII.- Orientación y asesoría a los particulares.
 
 ###### Artículo 38.
 
@@ -700,6 +1410,16 @@ IV. El lugar o medio señalado para recibir la información solicitada o las not
 Se consideran medios para acceder a la información pública: el oral cuando así lo consienta expresamente el interesado, y el escrito o electrónico en los demás casos. No se considerará como solicitud de acceso de información pública la que derive de una entrevista realizada a un servidor público que no sea el titular de la unidad de enlace o, en su caso, representante legal de un sujeto obligado no oficial.
 
 Si la solicitud se presenta ante una unidad de enlace que no sea competente para entregar la información, o que no la tenga por no ser de su ámbito, la oficina receptora deberá definir dentro de 48 horas quien es la autoridad competente o que disponga de la información, remitiéndole de inmediato la solicitud a su unidad de enlace para que sea atendida en los términos de esta Ley y comunicando tal situación al solicitante.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+###### Artículo 38 Bis.
+
+La recepción y atención de las solicitudes de acceso a la información deberá realizarse por las unidades de enlace en un horario comprendido entre las 8 y las 15 horas de los días hábiles. En el caso de las solicitudes de acceso a la información presentadas por vía electrónica fuera del horario y de los días antes señalados, éstas se tendrán por presentadas a la primera hora hábil del día hábil siguiente.
+
+Para efectos de la presente Ley, se considerarán días hábiles de lunes a viernes, salvo aquellos días que la Ley del Servicio Civil y, en su caso, la Ley Federal del Trabajo, considere como inhábiles, así como la segunda quincena del mes de julio y la segunda quincena del mes de diciembre de cada año, según corresponda con los periodos vacacionales de los Gobiernos Estatal y municipales.
+
+Los plazos a que se refiere la presente Ley, comenzarán a contar a partir de día hábil siguiente a aquel en que se reciba la solicitud o recurso correspondiente. En todo caso, para efecto del cómputo de los plazos previstos en la presente ley, se entenderá que los días hábiles concluyen a las 15 horas del día hábil que corresponda.
 
 ###### Artículo 39.
 
@@ -749,7 +1469,31 @@ No se entregará ni se permitirá manipular o mutilar los documentos originales 
 
 Los sujetos obligados oficiales deberán auxiliar y otorgar todas las facilidades conducentes a las personas que soliciten el servicio de consulta directa de información pública.
 
-### CAPITULO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+###### Artículo 47 Bis.
+
+Son atribuciones de las unidades de enlace:
+
+I.- Capturar, ordenar, analizar y procesar las solicitudes de información presentadas ante el sujeto obligado;
+
+II.- Recabar, publicar y actualizar la información pública de oficio;
+
+III.- Implementar procedimientos internos que contribuyan a la mayor eficiencia en la atención de las solicitudes de acceso a la información;
+
+IV.- Recibir y tramitar las solicitudes de información así como darles seguimiento hasta la entrega de la misma, haciendo entre tanto el correspondiente resguardo;
+
+V.- Llevar el registro y actualizarlo trimestralmente, de las solicitudes de acceso a la información, así como sus trámites, costos y resultados;
+
+VI.- Asesorar y orientar a quienes lo requieran, en la elaboración de las solicitudes de información, así como en los trámites para el efectivo ejercicio de su derecho de acceso a la misma;
+
+VII.- Efectuar las notificaciones correspondientes a los solicitantes;
+
+VIII.- Habilitar a los servidores públicos de los sujetos obligados que sean necesarios, para recibir y dar trámite a las solicitudes de acceso a la información; y
+
+X (SIC).- Establecer los procedimientos para asegurarse que, en el caso de información confidencial, éstos se entreguen sólo a su titular o representante.
+
+### CAPITULO SEGUNDO. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 48.
 
@@ -763,13 +1507,19 @@ Los particulares podrán interponer recurso de revisión contra los actos u omis
 
 El escrito de interposición del recurso de revisión se presentará, en forma electrónica o por escrito, ante el Instituto o ante la unidad de enlace respectiva. En este último caso, la unidad de enlace remitirá al Instituto el escrito de referencia dentro de un plazo de doce horas, contado a partir del momento de la recepción correspondiente.
 
-El escrito de interposición del recurso de revisión deberá especificar:
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+El recurso de revisión deberá especificar:
 
 I.- Estar dirigido al Instituto;
 
-II.- El nombre del recurrente y del tercero interesado y su domicilio si los hay, así como el lugar o medio que se elija para recibir notificaciones;
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
 
-III.- El domicilio o medio electrónico para oír y recibir notificaciones y en su caso, a quien en su nombre autorice para oírlas y recibirlas; en caso de no haberlo señalado, aún las de carácter personal se harán por estrados;
+II.- El nombre del solicitante, así como el lugar o medio que se elija para recibir notificaciones, ya sea en estrados o vía electrónica;
+
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
+
+III.- El medio para oír y recibir notificaciones;
 
 IV.- El acto u omisión que se recurre;
 
@@ -779,15 +1529,17 @@ VI.- La fecha de notificación o conocimiento del acto reclamado;
 
 VII.- Mencionar los hechos en que se funde la impugnación, los agravios que le cause el acto o resolución impugnada;
 
-VIIl.- En su caso, si se requieren, enumeración de las pruebas conducentes; y
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 2013)</small>
 
-VII (SIC).- La firma del recurrente al final del escrito o, en su caso, la huella dactilar derecha en los mismos espacios. En caso de interposición del recurso por medio electrónico, el recurrente deberá señalar los datos de identificación correspondientes de su firma electrónica, en términos de la Ley Sobre el Uso de la Firma Electrónica Avanzada para el Estado de Sonora.
+VIII.- En su caso, si se requieren o es posible para el recurrente, enumeración de las pruebas conducentes; y
+
+IX.- (DEROGADA, B.O. 12 DE AGOSTO DE 2013)
 
 Si el promovente omite alguno de los requisitos de referencia, el Instituto lo requerirá dentro de un plazo de dos días hábiles a partir de la recepción del escrito respectivo para que se subsane la omisión, gozando el recurrente de un término de cinco días hábiles para dicho efecto, bajo el entendido de que la falta de respuesta al requerimiento ocasionará que el recurso se tenga por no interpuesto.
 
 ###### Artículo 50.
 
-Al escrito de interposición del recurso deberán acompañarse los documentos que acrediten representación cuando el recurrente actúe por conducto de otro.
+(DEROGADO, B.O. 12 DE AGOSTO DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -839,6 +1591,8 @@ Il. El Instituto haya conocido y resuelto previamente el asunto; o
 
 III. El asunto esté siendo conocido por el mismo Instituto en otro proceso pendiente de resolver.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], B.O. 12 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 55.
 
 El recurso será sobreseído cuando:
@@ -881,13 +1635,25 @@ Las resoluciones del Instituto serán públicas una vez que hubieren causado est
 
 La información reservada o confidencial que, en su caso, sea indispensable para resolver un recurso, deberá ser mantenida con ese carácter y no estará disponible en el expediente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
-
 ###### Artículo 57.
 
-En cualquier momento pero sin suspensión del procedimiento, el Instituto podrá celebrar audiencias con las partes para el efecto de explorar y en su caso obtener una composición extrajudicial del recurso.
+(DEROGADO, B.O. 12 DE AGOSTO DE 2013)
+
+> <small>(ADICIONADO B.O. 12 DE AGOSTO DE 2013)</small>
+
+###### Artículo 57 Bis.
+
+Las resoluciones deberán contener lo siguiente:
+
+I.- Lugar, fecha en que se pronuncia, el nombre del recurrente, sujeto obligado y extracto breve de los hechos cuestionados;
+
+II.- Los preceptos que la fundamenten y las consideraciones que la sustenten;
+
+III.- Los alcances y efectos de la resolución, fijando con precisión, en su caso, los órganos obligados a cumplirla;
+
+IV.- La indicación de la existencia de una probable responsabilidad y la solicitud de inicio de la investigación en materia de responsabilidad de servidores públicos; y
+
+V.- Los puntos resolutivos, que podrán confirmar, modificar o revocar la resolución del sujeto obligado.
 
 ###### Artículo 58.
 
@@ -900,6 +1666,10 @@ Contra la resolución de la revisión no procederá otro recurso ordinario o med
 ###### Artículo 59.
 
 El sujeto obligado dispondrá de un plazo de cinco días hábiles para cumplir la resolución que dicte el Instituto. En casos especiales a juicio del Instituto, previa solicitud del sujeto obligado y justificándose ésta, mediante acuerdo fundado y motivado podrá ampliarse por una sola vez este plazo hasta por otro igual, de modo tal que el particular nunca deba esperar más de diez días hábiles para la entrega de la información correspondiente.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+Cuando la información solicitada corresponda a las atribuciones o funciones que los ordenamientos jurídicos aplicables otorgan a los sujetos obligados y estos hayan declarado la inexistencia de la información, el Instituto podrá ordenar al sujeto obligado que genere la información, cuando esto resulte posible. Asimismo, notificará al órgano interno de control del sujeto obligado para que inicie los procedimientos de responsabilidad que correspondan.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -927,7 +1697,9 @@ En el caso de la fracción III, las policías estatales y municipales actuarán 
 
 En el caso de la fracción IV, el superior jerárquico del sujeto obligado será personalmente responsable de la retención de sueldos correspondiente, y si ésta no se ejecuta de inmediato dicho superior quedará automáticamente sujeto a la misma sanción. En todo caso, los sueldos que dejen de percibirse por esta causal serán entregados al Instituto.
 
-En el caso de la fracción V, cuando el o los funcionarios responsables deban su cargo a un proceso de elección popular, o hayan sido designados directamente por el Poder Legislativo, la sanción la decidirá y ejecutará el Congreso del Estado a moción que sobre dicho particular presente el Instituto. En el mismo caso, cuando se trate de servidores públicos designados de cualquier otra forma, la sanción la decidirá directamente el propio Tribunal y la ejecutará el superior jerárquico inmediato del sujeto obligado sancionado. En todos los casos será invariablemente cuidada y respetada la garantía de audiencia del o los servidores públicos involucrados.
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+En el caso de la fracción V, cuando el o los funcionarios responsables deban su cargo a un proceso de elección popular, o hayan sido designados directamente por el Poder Legislativo, la sanción la decidirá y ejecutará el Congreso del Estado a moción que sobre dicho particular presente el Instituto. En el mismo caso, cuando se trate de servidores públicos designados de cualquier otra forma, la sanción la decidirá directamente el propio Instituto y la ejecutará el superior jerárquico inmediato del servidor público sancionado. En todos los casos será invariablemente cuidada y respetada la garantía de audiencia del o los servidores públicos involucrados.
 
 En cualquier caso referente a la hipótesis de la fracción V, una vez resuelto el cese del servidor público involucrado, nadie estará obligado a obedecerlo como autoridad y el que lo hiciere a sabiendas será considerado copartícipe en la comisión del delito de usurpación de funciones que se cometiere.
 
@@ -937,89 +1709,161 @@ Cualquier acción u omisión que se realice o deje de realizarse para eludir de 
 
 ## TITULO CUARTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
-### CAPITULO UNICO. DEL SISTEMA DE ARCHIVOS
+### CAPITULO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 61.
 
 Los servidores públicos serán responsables por el incumplimiento de las obligaciones establecidas en esta Ley, así como por incurrir en alguno de los siguientes supuestos:
 
-I. Usar, sustraer, destruir, ocultar, inutilizar, divulgar o alterar, total o parcialmente y de manera indebida, información pública que se encuentre bajo su custodia o a la cual tengan acceso o conocimiento con motivo de su empleo, cargo o comisión;
+I.- La omisión de la publicación o actualización de la información, de conformidad con lo que establece esta Ley;
 
-II. Actuar con negligencia, dolo o mala fe en la sustanciación de las solicitudes de acceso a la información o en la difusión de la información a que están obligados conforme a esta Ley;
+II.- La omisión o la atención a las solicitudes de acceso a la información en contravención a las disposiciones de la Ley;
 
-III. Denegar intencionalmente información no clasificada como reservada o no considerada confidencial conforme a esta Ley;
+III.- La omisión en el suministro de la información pública solicitada o en la respuesta a los solicitantes, de conformidad con lo que establece esta Ley;
 
-IV. Clasificar como reservada, no por error de criterio sino con dolo o mala fe, información que no cumpla con las características señaladas en esta Ley para dicho particular;
+IV.- La falsificación o el daño, sustracción, extravío, alteración, negación, ocultamiento o destrucción dolosa de datos, archivos, registros y demás información que posean los sujetos obligados;
 
-V. Entregar o divulgar información que deba ser considerada como reservada o confidencial conforme a lo dispuesto por esta Ley;
+V.- La omisión de los informes que en términos de esta Ley, se deban presentar ante el Instituto;
 
-VI. Entregar intencionalmente de manera incompleta información requerida por un solicitante; y
+VI.- No proporcionar la información cuya entrega haya sido ordenada por el Instituto;
 
-VII. No proporcionar la información cuya entrega haya sido ordenada por el superior jerárquico o por resolución judicial.
+VII.- Declarar la inexistencia de información cuando ésta exista total o parcialmente en los archivos del sujeto obligado;
 
-La responsabilidad a que se refiere este artículo o cualquier otra derivada del incumplimiento de las obligaciones establecidas en esta Ley, será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+VIII.- Denegar intencionalmente información no clasificada como reservada o confidencial conforme a esta Ley; así como clasificarla con dolo o mala fe;
 
-La infracción prevista en la fracción VII y la reincidencia en las conductas previstas en las fracciones I a VI de este artículo, serán consideradas como graves para efectos de su sanción administrativa.
+IX.- El titular de la unidad administrativa que suministre a la unidad de enlace para su entrega, información clasificada como reservada o confidencial conforme a lo dispuesto por esta Ley;
+
+X.- Crear, modificar, destruir o transmitir información confidencial en contravención a los principios establecidos en esta Ley;
+
+XI.- Intimidar o inhibir a los solicitantes de información a consecuencia del ejercicio del derecho de acceso a la información pública;
+
+XII.- Omisión de desclasificar la información como reservada cuando los motivos que dieron origen ya no subsistan; y
+
+XIII.- No cumplir con las resoluciones emitidas por el Instituto.
+
+Las infracciones previstas en las fracciones IV, VI y XI de este artículo, serán consideradas como graves para efectos de su sanción administrativa.
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 62.
 
-Las responsabilidades administrativas que se generen por el incumplimiento de las obligaciones a que se refiere el artículo anterior son independientes de las del orden civil o penal que procedan.
+Las infracciones a que se refiere este artículo o cualquiera otra derivada del incumplimiento de las obligaciones establecidas en esta Ley, será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, siendo independientes de las del orden civil o penal que procedan, así como los procedimientos para el resarcimiento del daño ocasionado por el sujeto obligado.
 
 ## TITULO QUINTO. DEL SISTEMA DE ARCHIVOS
 
+### CAPITULO UNICO. DEL SISTEMA DE ARCHIVOS
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 63.
 
-Los sujetos obligados oficiales deberán tener en operación archivos que permitan localizar con prontitud y seguridad la información pública correspondiente a su función.
+Los sujetos obligados deberán mantener en operación archivos que permitan localizar con prontitud y seguridad la información pública correspondiente a su función y para ello deberán preservar los documentos y expedientes en archivos administrativos organizados y actualizados, ateniéndose a las reglas generales de este Título y a los procedimientos establecidos en los Lineamientos que para tales efectos expedirá el Instituto; asegurando su adecuado funcionamiento y protección.
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 64.
 
-La información pública deberá estar disponible en los archivos respectivos en las siguientes condiciones:
+En la administración de los documentos públicos los sujetos obligados deberán observar los principios de integridad, disponibilidad, eficiencia, localización expedita, integridad y conservación.
 
-I. Cuando se trate de información correspondiente al año que esté en curso impresa en papel, digitalizada o en cualquier medio electrónico; y
-
-II. Digitalizada para consulta electrónica comprendiendo los últimos cuarenta años a partir del año inmediato anterior al que se encuentre en curso; organizándola de acuerdo con los principios archivísticos de procedencia y orden original que establezca el Instituto.
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 65.
 
-El Instituto expedirá los lineamientos administrativos que los sujetos obligados oficiales deberán implementar para la generación de datos, registros y archivos, así como para la conservación de los mismos, cuidando de modo especial que:
+Todo sujeto obligado oficial deberá contar con un archivo de trámite y con archivo de concentración; el archivo de trámite se encarga de la administración de documentos de uso cotidiano necesario para el ejercicio de sus atribuciones. Todo sujeto obligado oficial deberá contar con un archivo de concentración y para ello deberá destinar un espacio físico para el funcionamiento de dicho archivo, en el cual se tendrá un responsable que será el encargado de administrar los documentos de uso esporádico y que permanecerán en él, hasta determinarse mediante la valoración documental el destino final.
 
-I. Dichos lineamientos promuevan la clasificación, identificación, archivo y preservación de la información de acuerdo con su naturaleza;
-
-II. Los mecanismos que se empleen para la conservación y mantenimiento de la información obedezcan a estándares mínimos en materia de archivonomía;
-
-III. Los sujetos obligados oficiales provean a la capacitación de los servidores públicos encargados en técnicas de archivonomía; y
-
-IV. La información se organice de manera que facilite la consulta directa de los particulares.
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 66.
 
-Los poderes Legislativo, Ejecutivo y Judicial, así como los ayuntamientos, podrán establecer o mantener archivos centrales para almacenar información a partir del vencimiento del plazo de un año previsto por la fracción I del artículo 64, con la condición de que la operación de dichos archivos centrales no devenga en menoscabo o detrimento del derecho de los particulares para acceder a la información pública. El Instituto cuidará de modo especial esta condición.
+Los sujetos obligados contarán con responsables del archivo de trámite y concentración, quienes elaboraran los instrumentos de control y consulta que permitan la correcta y adecuada organización, descripción, localización y conservación de los documentos públicos, los cuales cuando menos deben incluir:
+
+I.- El Cuadro General de Clasificación Archivística;
+
+II.- El Catálogo de Disposición Documental;
+
+III.- Los Inventarios denominados General, de Transferencia y de Baja; y
+
+IV.- La guía general de archivo.
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 67.
 
-Los documentos archivados no podrán ser destruidos antes de cuarenta años de su fecha, salvo que el Instituto decida reducir este plazo por razones especiales, exceptuándose los documentos que sean considerados históricos, los cuales no podrán destruirse en ningún tiempo y bajo ninguna circunstancia.
+La información pública deberá estar disponible en los archivos respectivos en las siguientes condiciones:
+
+I.- Cuando se trate de información correspondiente al año que esté en curso impresa en papel, digitalizada o en cualquier medio electrónico; y
+
+II.- Digitalizada para consulta electrónica comprendiendo los últimos treinta añosa (sic) partir del año inmediato anterior al que se encuentre en curso; organizándola de acuerdo con los principios archivísticos de procedencia y orden original que establezca el Instituto.
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 68.
 
-Siempre que proceda la destrucción de documentos gubernamentales, como acto previo deberá publicarse un aviso en un periódico de circulación estatal informando sobre dicho particular, para el efecto de que cualquier persona pueda obtener del sujeto obligado oficial información precisa sobre:
+Los lineamientos que expida el Instituto en materia de archivo, deberán contemplar que:
 
-I. El área o áreas que generaron el archivo y la última que lo tuvo a su cargo;
+I.- Dichos lineamientos promuevan la homologación en la clasificación, identificación, archivo y preservación de la información de acuerdo con su naturaleza;
 
-II. El período que comprende la información del archivo;
+II.- Los mecanismos que se empleen para la conservación y mantenimiento de la información obedezcan a estándares mínimos en materia de archivonomía;
 
-III. La naturaleza de la información que contenga el archivo;
+III.- Los sujetos obligados oficiales provean a la capacitación de los servidores públicos encargados en técnicas de archivonomía;
 
-IV. El plazo y el procedimiento de que podrá disponerse para solicitar su consulta, que nunca será menor de tres meses; y
+IV.- La información se organice de manera que facilite la consulta directa de los particulares; y
 
-V. Si se conservará respaldo electrónico del archivo para efectos de su consulta.
+V.- Sean acordes a las normas archivísticas nacionales e internacionales.
 
-Cualquier persona podrá solicitar al Instituto que no se destruyan parte o todos los documentos de que se trate, exponiendo las razones que justifiquen su petición, debiendo resolverse sobre el particular en un plazo de diez días hábiles. Siempre que la resolución sea negativa, el particular interesado tendrá derecho a que los documentos del caso se le entreguen en donación.
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 69.
 
-El Instituto expedirá los lineamientos administrativos para el resguardo y almacenamiento de los archivos de los sujetos obligados oficiales.
+Los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos, podrán establecer o mantener archivos centrales para almacenar información a partir del vencimiento del plazo de un año previsto por la fracción I del artículo 67, con la condición de que la operación de dichos archivos centrales no devenga en menoscabo o detrimento del derecho de los particulares para acceder a la información pública. El Instituto cuidará de modo especial esta condición.
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 70.
+
+Los documentos archivados no podrán ser destruidos antes de treinta años de su fecha, salvo que el Instituto decida reducir este plazo por razones especiales, exceptuándose los documentos que sean considerados históricos, los cuales no podrán destruirse en ningún tiempo y bajo ninguna circunstancia. Se consideran razones especiales para la reducción de tiempo de conservación y la consecuente autorización de destrucción por parte del Instituto la pérdida de vigencia documental o aquellas referentes a siniestros, en términos de la Ley de Protección Civil para el Estado de Sonora.
+
+En todo caso, para la destrucción de los documentos, los sujetos obligados deberán realizar, previamente, la actividad de identificar los valores documentales denominados valor administrativo, valor fiscal y valor legal.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+###### Artículo 71.
+
+El procedimiento de destrucción de documentación pública inicia con la solicitud del sujeto obligado oficial interesado, debiendo ser el titular quien expresara por escrito los motivos y fundamento legal para solicitar la reducción del tiempo de conservación y señalar las condiciones especiales que prevalecen a fin de que una vez declarada la reducción de la temporalidad de conservación se declare la procedencia de la destrucción. En dicha solicitud el sujeto obligado oficial deberá acompañar una relación analítica de la información que contienen los documentos que se pretende destruir, la cual deberá especificar:
+
+I.- El área o áreas que generaron la información;
+
+II.- El período que comprende la información;
+
+III.- La naturaleza y temática de la información;
+
+IV.- El plazo, el procedimiento y lugar en que podrá ser consultada la información, que nunca será menor de un mes;
+
+V.- Si se conservará o no respaldo electrónico de la información; y
+
+VI.- Si los documentos que se pretenden destruir contienen información clasificada como reservada o confidencial.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+###### Artículo 72.
+
+El procedimiento de destrucción de documentación pública, se sustanciará de la siguiente manera:
+
+I.- La solicitud a que se refiere el artículo anterior, deberá presentarse por escrito ante el Instituto, acompañando copia para el titular del Instituto Superior de Auditoria y Fiscalización, al titular del órgano de control en cada caso y al titular del Archivo General correspondiente, para que dentro de un plazo no mayor a quince días hábiles posteriores a la fecha de notificación correspondiente, manifiesten por escrito si tienen interés en la conservación de la información sometida al procedimiento de destrucción de documentación pública; de no manifestar lo conducentes (sic) dentro del plazo antes señalado, se entenderá su conformidad con el referido procedimiento;
+
+II.- El Instituto recibirá la solicitud y le asignará un número de expediente, debiendo radicarse dicho procedimiento dentro de los siguientes tres días hábiles y en ese mismo acto se notificará de la misma a las autoridades señaladas en la fracción anterior de este artículo y se ordenará la práctica de una verificación física de los documentos que se pretende destruir, fijándose día y hora hábil con la finalidad de que personal del Instituto constate las condiciones especiales que refiera la solicitud de inicio y elaboren el acta de verificación correspondiente;
+
+III.- Una vez concluido el plazo señalado en la fracción I del presente artículo y con el resultado de la verificación, el Instituto deberá resolver si la solicitud cumple con los requisitos establecidos en el artículo anterior y en caso afirmativo ordenará al solicitante la publicación del aviso correspondiente en un periódico de circulación estatal, para el efecto de que cualquier persona pueda obtener del solicitante la información precisa sobre lo señalado en las fracciones I a V del artículo anterior;
+
+IV.- Dentro del plazo a que se refiere el (sic) la fracción IV del artículo anterior, cualquier persona podrá solicitar al Instituto que no se destruyan parte o todos los documentos de que se trate, exponiendo las razones que justifiquen su petición, lo cual deberá ser resuelto por el Instituto en un plazo de diez días hábiles; y
+
+V.- Concluido el plazo señalado en la fracción III de este Artículo y con las salvedades previstas en la fracción anterior, el Instituto resolverá en definitiva sobre la solicitud de destrucción de documentación pública y notificará de manera personal al solicitante sobre la misma.
+
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 2013)</small>
+
+###### Artículo 73.
 
 Cuando alguna unidad administrativa de algún sujeto obligado llegare a desaparecer, los archivos y registros correspondientes deberán ser resguardados por la unidad encargada de su administración, previo inventario que se levante con la participación de un representante del Instituto, uno de la unidad administrativa respectiva, uno de la unidad encargada de su administración y uno del órgano interno de control que corresponda.
 
@@ -1096,3 +1940,21 @@ B.O. 26 DE DICIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a los noventa días naturales siguientes al día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 12 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto contará con un plazo de seis meses, a partir de que entre en vigor el presente Decreto, para emitir su Reglamento Interior, los lineamientos y demás disposiciones que en el presente Decreto se le mandata.
+
+###### ARTÍCULO TERCERO.
+
+Los sujetos obligados a que se hacen mención en los artículos los artículos 14, 17 Bis, 17 Bis A, 17 Bis B, 17 Bis C, 17 Bis D, 17 Bis E, 17 Bis F, 17 Bis G, 17 Bis H y 17 Bis J, a más tardar el primero de enero de 2014, deberán publicar la información a que se refieren dichos dispositivos, en sus respectivos sitios de internet.
+
+###### ARTÍCULO CUARTO.
+
+Las necesidades presupuestales que se generen en el Instituto de Transparencia Informativa con motivo de las modificaciones aprobadas mediante el presente Decreto, habrán de solventarse en su presupuesto de egresos del ejercicio fiscal del año 2014.
