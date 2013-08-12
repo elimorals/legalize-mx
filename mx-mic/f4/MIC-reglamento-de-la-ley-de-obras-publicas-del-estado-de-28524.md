@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-obras-publicas-del-estado-de-28524"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-09-27"
-last_updated: "2002-12-03"
+last_updated: "2013-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # REGLAMENTO DE LA LEY DE OBRAS PUBLICAS DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS
 
-REGLAMENTO DE LA LEY DE OBRAS PUBLICAS DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS
+REGLAMENTO DE LA LEY DE OBRAS PÚBLICAS DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 27 de septiembre de 1999.
 
@@ -235,9 +235,13 @@ Los contratos de este tipo no podrán ser modificados en monto o plazo, ni estar
 
 Las Dependencias, Entidades, Ayuntamientos o Entidades Paramunicipales, podrán incorporar las modalidades de contratación que tiendan a garantizar al Estado, las mejores condiciones en la ejecución de la obra siempre que con ello se desvirtúe el tipo de contrato con que se haya licitado.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 19.
 
-Las Dependencias, Entidades, Ayuntamientos o Entidades Paramunicipales, deberán publicar las convocatorias para la ejecución de obras públicas y de servicios relacionados con las mismas, en los términos del artículo 27 de la Ley, y para su mayor difusión adicionalmente deberán hacerlo a través de medios electrónicos, conforme a los lineamientos que al efecto expida la Coordinación.
+Las Dependencias, Entidades, Ayuntamientos o Entidades Paramunicipales, deberán publicar las convocatorias para la ejecución de obras públicas y de servicios relacionados con las mismas, en los términos del artículo 27 de la Ley, y para su mayor difusión, adicionalmente deberán hacerlo a través de medios electrónicos, conforme a los lineamientos que al efecto expida la Coordinación.
+
+Las Dependencias, Entidades, Ayuntamientos o Entidades Paramunicipales deberán hacer entrega al órgano de control que corresponda respectivamente, para su resguardo en medio físico y magnético, del presupuesto base de la obra, en la misma fecha en que se realice la publicación de la convocatoria.
 
 ###### ARTICULO 20.
 
@@ -349,35 +353,35 @@ El cargo por utilidad será fijado por el contratista mediante un porcentaje sob
 
 IV. Los programas de montos mensuales de ejecución de los trabajos, utilización de maquinaria y equipo de construcción, adquisición de materiales y equipos de instalación permanente, así como utilización de personal técnico, administrativo y obrero, encargado directamente de la ejecución de los trabajos y del técnico, administrativo, de servicios encargado de la dirección, supervisión, administración de los trabajos, en la forma y términos solicitados.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 30.
 
 El acto de presentación y apertura de proposiciones será presidido por el servidor público que designe la convocante, quien será la única autoridad facultada para aceptar o desechar cualquier proposición de las que se hubieren presentado en términos de Ley y se llevará a cabo en dos etapas conforme a lo siguiente:
 
 En la primera etapa:
 
-I. Se iniciará en el lugar, fecha y hora señalados, los concursantes o sus representantes legales al ser nombrados, entregarán su proposición y demás documentación requerida en sobres cerrados en forma inviolable. En el caso de que la propuesta sea presentada conjuntamente por varias empresas en términos del artículo 29 de la Ley el representante común para estos efectos entregará la proposición;
+I. Se iniciará en el lugar, fecha y hora señalados, los concursantes o sus representantes legales al ser nombrados, entregarán su proposición y demás documentación requerida en sobres cerrados en forma inviolable. En el caso de que la propuesta sea presentada conjuntamente por varias empresas en términos del artículo 29 de la Ley, el representante común para estos efectos entregará la proposición;
 
-II. Se procederá a la apertura de los sobres que correspondan únicamente a la propuesta técnica y se desecharán aquellas que no contengan todos los documentos o que hayan omitido algún requisito, las que serán devueltas por la Dependencia, Entidad, Ayuntamiento o Entidad Paramunicipal convocante, transcurridos quince días naturales contados a partir de la fecha en que se dé a conocer el fallo de la licitación;
+II. Se procederá a la apertura de los sobres que correspondan únicamente a la propuesta técnica y se desecharán aquellas que no contengan todos los documentos o que hayan omitido algún requisito, las que serán devueltas por la Dependencia, Entidad, Ayuntamiento o Entidad Paramunicipal convocante en el acto;
 
-III. Los concursantes y los servidores públicos rubricarán los sobres cerrados de las propuestas económicas y quedarán en custodia de la propia convocante, quien entregará a todos los consursantes (sic) el acuse de recibo de la proposición que comprenderá la propuesta técnica; y,
-
-IV. Se levantará el acta correspondiente en la que se harán constar las propuestas técnicas aceptadas, así como las que hubieren sido desechadas y las causas que lo motivaron, el acta será firmada por los participantes y se les entregará a cada uno copia de la misma. Se informará a los presentes el lugar, fecha y hora en que se dará a conocer el resultado del análisis de las propuestas técnicas; durante este período la Dependencia, Entidad, Ayuntamiento o Entidad Paramunicipal, hará el análisis detallado del aspecto técnico de las proposiciones.
+III. La convocante entregará a todos los concursantes el acuse de recibo de la propuesta técnica.
 
 En la segunda etapa:
 
-Se procederá sólo a la apertura de las propuestas económicas de los concursantes cuyas propuestas técnicas no hubieren sido desechadas en la primera etapa o en el análisis detallado de las mismas, de acuerdo a lo siguiente:
+Acto seguido, se procederá a la apertura de las propuestas económicas de los concursantes cuyas propuestas técnicas no hubieren sido desechadas en la primera etapa, de acuerdo a lo siguiente:
 
-I. Una vez dado a conocer el resultado técnico, en la misma fecha y lugar se iniciará la segunda etapa;
+I. El servidor público que presida el acto abrirá el sobre y leerá en voz alta, cuando menos, el importe total de cada una de las proposiciones admitidas.
 
-II. El servidor público que presida el acto abrirá el sobre y leerá en voz alta, cuando menos, el importe total de cada una de las proposiciones admitidas.
+No se dará lectura a la postura económica de aquellas proposiciones que no tengan todos los documentos o hayan omitido algún requisito, las que serán desechadas;
 
-No se adrá (sic) lectura a la postura económica de aquellas proposiciones que no tengan todos los documentos o hayan omitido algún requisito, las que serán desechadas;
+II. Los participantes en el acto, rubricarán el catálogo de conceptos en que se consignen los precios y el importe, total de los trabajos motivo del concurso;
 
-III. Los participantes en el acto, rubricarán el catálogo de conceptos en que se consignen los precios y el importe total de los trabajos motivo del concurso;
+III. Se entregará a todos los concursantes un recibo por la garantía otorgada, la cual quedará en custodia de la convocante hasta la fecha en que se dé a conocer el fallo, mismas que serán devueltas a los concursantes, excepto aquélla que corresponda a quien se le haya adjudicado el contrato, la que se retendrá hasta el momento en que el contratista constituya la garantía de cumplimiento del contrato correspondiente;
 
-IV. Se entregará a todos los concursantes un recibo por la garantía otorgada, la cual quedará en custodia de la convocante hasta la fecha en que se dé a conocer el fallo, mismas que serán devueltas a los concursantes, excepto aquélla que corresponda a quien se le haya adjudicado el contrato, la que se retendrá hasta el momento en que el contratista constituya la garantía de cumplimiento del contrato correspondiente;
+IV. El órgano de control que corresponda, una vez realizada la recepción y apertura de las propuestas técnicas y económicas, dará a conocer el presupuesto base de la obra y procederá a su difusión en medios electrónicos;
 
-V. Se levantará el acta en la que se hará constar las proposiciones recibidas, sus importes, así como las que hubieren sido desechadas y las causas que lo motivaron, el acta será firmada por todos los participantes y se entregará a cada uno copia de la misma. Se señalará el lugar, fecha y hora en que se dará a conocer el fallo, esta fecha deberá quedar comprendida dentro del plazo establecido por el artículo 33 de la Ley; la omisión de firma por parte de los concursantes no invalidará el contenido y efectos del acta; y,
+V. Se levantará el acta en la que se hará constar las proposiciones recibidas, sus importes, las que hubieren sido desechadas y las causas que lo motivaron, así como el presupuesto base de la obra, el acta será firmada por todos los participantes y se entregará a cada uno copia de la misma. Se señalará el lugar, fecha y hora en que se dará a conocer el fallo, esta fecha deberá quedar comprendida dentro del plazo establecido por el artículo 33 de la Ley; durante este período la Dependencia, Entidad, Ayuntamiento o Entidad Paramunicipal, hará el análisis detallado de las propuestas. La omisión de firma por parte de los concursantes no invalidará el contenido y efectos del acta; y,
 
 VI. Si no recibe proposición alguna o todas las presentadas fueren desechadas, se declarará desierto el concurso, situación que quedará asentada en el acta.
 
@@ -665,7 +669,7 @@ III. De las construcciones e instalaciones provisionales destinadas a servicios 
 
 El presupuesto a que se refiere este artículo no podrán incluirse cargos por imprevistos, erogaciones adicionales o de índole similar.
 
-Se entenderá por costo unitario, el correspondiente a la suma de cargos por concepto de materiales, mano de obra y utiIización de maquinaria, así como equipo de construcción sea propio o rentado.
+Se entenderá por costo unitario, el correspondiente a la suma de cargos por concepto de materiales, mano de obra y utilización de maquinaria, así como equipo de construcción sea propio o rentado.
 
 ### Capítulo VI. De las Inconformidades y del Recurso Administrativo de Revocación
 
@@ -681,6 +685,12 @@ III. Otorgada la garantía se suspenderá la aplicación de la resolución impug
 
 La tramitación de las demás inconformidades, por los afectados, así como la interposición del recurso administrativo de revocación, se efectuará en los supuestos y en cumplimiento de las formalidades del procedimiento que para tal efecto se establece en la Ley.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 60.
+
+Toda persona que tenga conocimiento de un hecho violatorio a la normatividad en materia de obras públicas y servicios relacionados con las mismas, prevista en la Ley y este Reglamento, podrá presentar denuncia ante el órgano de control que corresponda, aportando los medios de prueba que resulten pertinentes.
+
 ## Artículos Transitorios
 
 PRIMERO: El presente Reglamento de la Ley de Obras Públicas del Estado de Michoacán de Ocampo y de sus Municipioa (sic), iniciará su vigencia a los quince días siguientes al día de su publicación en el Periódico Oficial del Estado.
@@ -689,12 +699,20 @@ SEGUNDO: Se derogan todas las disposiciones que se opongan al contenido del pres
 
 Morelia, Michoacán, a 26 de Agosto de 1999.
 
-SUFRAGIO EFECTIVO. NO REELECCION.- LIC. VICTOR MANUEL TINOCO RUBI.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ANTONIO GARCIA TORRES.- SECRETARIO DE GOBIERNO.- ING. FRANCISCO OCTAVIO APARlClO MENDOZA.- SECRETARIO DE COMUNICACIONES Y OBRAS PUBLICAS.- C.P. OSCAR MENDOZA AHUMADA.- COORDINADOR DE CONTROL Y DESARROLLO ADMlNlSTRATlVO.- (Firmados).
+SUFRAGIO EFECTIVO. NO REELECCION.- LIC. VICTOR MANUEL TINOCO RUBI.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ANTONIO GARCIA TORRES.- SECRETARIO DE GOBIERNO.- ING. FRANCISCO OCTAVIO APARICIO MENDOZA.- SECRETARIO DE COMUNICACIONES Y OBRAS PUBLICAS.- C.P. OSCAR MENDOZA AHUMADA.- COORDINADOR DE CONTROL Y DESARROLLO ADMINISTRATlVO.- (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 3 DE DICIEMBRE DE 2002.
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones administrativas en lo que se opongan al presente Decreto.
+
+P.O. 12 DE AGOSTO DE 2013.
+
+Artículo primero. El Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo segundo. Se derogan todas las disposiciones legales y administrativas en lo que se opongan al Decreto.
+
+Artículo tercero. Los procedimientos para la ejecución de obras públicas y de servicios relacionados con las mismas que se encuentren en proceso al momento de publicación del presente decreto, continuarán substanciándose conforme a la norma vigente al momento de la publicación de la convocatoria respectiva.
