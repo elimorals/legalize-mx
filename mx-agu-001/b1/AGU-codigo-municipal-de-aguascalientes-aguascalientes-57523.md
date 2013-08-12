@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2013-03-04"
+last_updated: "2013-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1454,6 +1454,22 @@ Departamento de Producción y Sanidad
 Departamento de Operación y Servicios
 
 Departamento de Parques Públicos
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
+Instituto de Convivencia y Desarrollo Línea Verde del Municipio de Aguascalientes. Órgano Desconcentrado.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
+Departamento de Administración y Planeación.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
+Departamento de Programas Sociales.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2013)</small>
+
+Departamento de Mantenimiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -21840,3 +21856,29 @@ TERCERO.- Se concederá un plazo de seis meses a partir de la fecha de su public
 CUARTO.- Para el cumplimiento de lo dispuesto por el artículo transitorio anterior, la autoridad municipal tomará en consideración las condiciones socioeconómicas, los usos, costumbres y legislación aplicable al momento en que se otorgaron las licencias y/o permisos de los establecimientos mercantiles y/o lugares, para exigir el cumplimiento de las presentes disposiciones o eximirles de su obligatoriedad.
 
 QUINTO.- Las autoridades municipales señaladas en el presente Dictamen, deberán de implementar las acciones tendientes para el debido cumplimiento de las reformas y adiciones al Libro Séptimo y Noveno del Código Municipal de Aguascalientes.
+
+P.O. 12 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Presidente Municipal otorgará el nombramiento de Director del Instituto de Convivencia y Desarrollo Línea Verde del Municipio de Aguascalientes con la entrada en vigor del presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+El inventario de bienes que forman las instalaciones del Sistema al momento de la entrada en vigor del presente Reglamento, será elaborado por la Secretaría de Servicios Públicos y entregado en resguardo al Instituto con la asistencia de la Contraloría Municipal.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Servicios Públicos autorizará y asignará el presupuesto del Instituto para el periodo restante del ejercicio fiscal 2013.
+
+###### ARTÍCULO QUINTO.
+
+El H. Ayuntamiento aprobará el acuerdo que establezca las bases para la constitución del Fideicomiso del Instituto de Convivencia y Desarrollo Línea Verde del Municipio de Aguascalientes, de conformidad con el presente Reglamento y las condiciones que hayan sido establecidas por Petróleos Mexicanos Refinación.
+
+###### ARTÍCULO SEXTO.
+
+Todas las disposiciones que se opongan al presente Reglamento, se entenderán derogadas para los efectos legales conducentes.
