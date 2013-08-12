@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-las-comisiones-consultivas-regionales-del-69204"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-16"
-last_updated: "2009-07-16"
+last_updated: "2013-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69204&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-06-11"
 
 REGLAMENTO DE LAS COMISIONES CONSULTIVAS REGIONALES DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LAS COMISIONES CONSULTIVAS REGIONALES DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 12 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 16 de julio de 2009.
 
@@ -328,3 +330,15 @@ TERCERO.- El presente Reglamento será publicado de acuerdo a las instrucciones 
 Atentamente
 
 México, D.F., a 11 de junio de 2009.- El Secretario General y de Asuntos Jurídicos, Jorge Pulido Vázquez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento abroga el aprobado mediante el Acuerdo número 1445, tomado en la sesión ordinaria número 96 de la H. Asamblea General, celebrada el 28 de abril de 2009, publicado en el Diario Oficial de la Federación el 16 de julio de 2009.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
