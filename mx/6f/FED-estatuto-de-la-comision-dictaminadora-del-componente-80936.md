@@ -4,7 +4,7 @@ identifier: "FED-estatuto-de-la-comision-dictaminadora-del-componente-80936"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-04-25"
-last_updated: "2011-04-25"
+last_updated: "2013-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80936&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-04-08"
 ---
 # ESTATUTO DE LA COMISION DICTAMINADORA DEL COMPONENTE ATENCION A DESASTRES NATURALES EN EL SECTOR AGROPECUARIO Y PESQUERO DEL PROGRAMA DE PREVENCION Y MANEJO DE RIESGOS (CADENA)
 
-ESTATUTO DE LA COMISION DICTAMINADORA DEL COMPONENTE ATENCION A DESASTRES NATURALES EN EL SECTOR AGROPECUARIO Y PESQUERO DEL PROGRAMA DE PREVENCION Y MANEJO DE RIESGOS (CADENA)
+ESTATUTO DE LA COMISIÓN DICTAMINADORA DEL COMPONENTE ATENCIÓN A DESASTRES NATURALES EN EL SECTOR AGROPECUARIO Y PESQUERO DEL PROGRAMA DE PREVENCIÓN Y MANEJO DE RIESGOS (CADENA)
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO DE LA COMISIÓN DICTAMINADORA DEL COMPONENTE ATENCIÓN A DESASTRES NATURALES EN EL SECTOR AGROPECUARIO Y PESQUERO DEL PROGRAMA DE PREVENCIÓN Y MANEJO DE RIESGOS, PUBLICADO EN EL D.O.F. DE 12 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 25 de abril de 2011.
 
@@ -182,3 +184,11 @@ Cualquier asunto no previsto en el presente Estatuto será analizado y resuelto 
 UNICO.- El presente Estatuto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 México, Distrito Federal, a 8 de abril de 2011.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Francisco Javier Mayorga Castañeda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Estatuto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Al entrar en vigor el presente Estatuto, queda abrogado el Estatuto de la Comisión Dictaminadora del Componente de Atención a Desastres Naturales del Sector Agropecuario y Pesquero del Programa de Prevención y Manejo de Riesgos (CADENA), publicado en el Diario Oficial de la Federación el 25 de abril de 2011.
