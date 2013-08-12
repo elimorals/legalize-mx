@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-las-delegaciones-regionales-del-instituto-del-925
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-26"
-last_updated: "2013-02-26"
+last_updated: "2013-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92516&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-12-12"
 
 REGLAMENTO DE LAS DELEGACIONES REGIONALES DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LAS DELEGACIONES REGIONALES DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 12 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de febrero de 2013.
 
@@ -172,3 +174,15 @@ Este Reglamento entrará en vigor a partir del día siguiente a su aprobación p
 Atentamente
 
 Dado en la Ciudad de México, Distrito Federal, a los doce días del mes de diciembre de dos mil doce, en cumplimiento al acuerdo número mil quinientos noventa y nueve, tomado en la centésima tercera sesión ordinaria de la H. Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.- El Secretario Técnico de Organos Colegiados, Santiago Bolaños Guerra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento abroga el aprobado mediante el Acuerdo número 1599, tomado en la sesión ordinaria número 103 de la H. Asamblea General, celebrada el 11 de diciembre de 2012, publicado en el Diario Oficial de la Federación el 26 de febrero de 2013.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
