@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-852-organica-de-la-procuraduria-general-de-40303"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-12"
-last_updated: "2011-08-29"
+last_updated: "2013-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 852 ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 852 ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 852 ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 12 de julio de 2004.
 
@@ -199,9 +199,9 @@ V. Formular quejas ante el Consejo de la Judicatura del Poder Judicial del Estad
 
 VI. Informar a las autoridades competentes acerca de los hechos que, no siendo constitutivos de delito, afecten a la administración pública del Estado;
 
-> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
-VII. Informar a los interesados acerca de los procedimientos legales en los trámites de las quejas que hubiesen formulado contra servidores públicos, por hechos no constitutivos de delito pero sí susceptibles de ser sancionados mediante el procedimiento administrativo correspondiente;
+VII. Informar a los interesados acerca de los procedimientos legales en los trámites de las quejas que hubiesen formulado contra servidores públicos, por hechos no constitutivos de delito pero sí susceptibles de ser sancionados mediante el procedimiento administrativo para el fincamiento de responsabilidades a los servidores públicos, previsto en el Código de Procedimientos Administrativos para el estado;
 
 > <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -415,7 +415,13 @@ XII. Expedir acuerdos y circulares de observancia general;
 
 XIII. Nombrar, cambiar de adscripción, otorgar licencia o cesar en sus funciones, libremente, al personal de confianza;
 
-XIV. Aplicar al personal de la Institución las sanciones que procedan;
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
+
+XIV. Aplicar al personal de la Institución las sanciones que procedan, previo procedimiento administrativo para el fincamiento de responsabilidades, previsto en el Código de Procedimientos Administrativos para el estado;
+
+> <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 2013)</small>
+
+XIV Bis. Sustanciar y resolver el recurso de revocación previsto en el Código de Procedimiento (sic) Administrativos para el estado;
 
 XV. Crear y otorgar premios, estímulos y recompensas, para el personal de la dependencia;
 
@@ -832,3 +838,7 @@ G.O. 29 DE AGOSTO DE 2011.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE AGOSTO DE 2013.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
