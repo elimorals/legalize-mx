@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-sistema-estatal-de-asistencia-social-del-estado-de-9027
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "2006-09-12"
+last_updated: "2013-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 27 de diciembre de 1986.
 
@@ -47,9 +47,11 @@ LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 1°.
 
-Las disposiciones de esta Ley son de orden público e interés social y tiene por objeto crear y establecer las bases y procedimientos de un Sistema Estatal de Asistencia Social que promueva la prestación de los Servicios de Asistencia Social que establece la Ley de Salud del Estado de Tabasco y coordine el acceso a los mismos, garantizando la concurrencia y colaboración del Gobierno Federal, Gobierno Estatal y Municipal, así como la participación de los Sectores Social y Privado, según la distribución de competencias que establecen la Ley General de Salud y la Ley sobre el Sistema Nacional de Asistencia Social.
+Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto crear y establecer las bases y procedimientos de un Sistema Estatal de Asistencia Social que promueva la prestación de los servicios de asistencia social que establecen la Ley de Salud del Estado de Tabasco y otras leyes, y coordine el acceso a los mismos, garantizando la concurrencia y colaboración del Gobierno Federal, el Gobierno Estatal y el Municipal, así como la participación de los sectores social y privado, según la distribución de competencias que establecen la Ley General de Salud y la Ley sobre el Sistema Nacional de Asistencia Social.
 
 ###### ARTICULO 2°.
 
@@ -59,15 +61,15 @@ El Gobierno del Estado proporcionará en forma prioritaria servicios de asistenc
 
 Para los efectos de esta Ley, se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física o mental, hasta lograr su incorporación o una vida plena y productiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 4°.
 
-En los términos del artículo anterior son beneficiarios a la recepción de lo (sic) servicios de asistencia social preferentemente los siguientes:
+En los términos del artículo anterior, son beneficiarios de los servicios de asistencia social, preferentemente los siguientes:
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
-I.- Personas menores de edad en estado de abandono o desamparo, desnutrición o sujetos a maltrato;
+I.- Menores en estado de abandono, desnutrición o sujetos a maltrato o abuso, y menores migrantes no acompañados;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -75,9 +77,13 @@ II.- Personas menores de doce años de edad y adolescentes sujetos del Sistema I
 
 III.- Alcohólicos, farmacodependientes e individuos en Condiciones de vagancia;
 
-IV.- Mujeres indigentes en períodos de gestación o lactancia;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
-V.- Ancianos en desamparo, incapacidad, marginación o sujetos a mal trato;
+IV.- Mujeres indigentes en periodo de gestación o lactancia; madres adolescentes, en situación de maltrato o abandono, en situación de explotación incluyendo la sexual; así como personas que estén involucradas en situaciones de violencia familiar, ya sean sujetos activos o pasivos;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
+V.- Adultos mayores en desamparo, incapacidad, marginación o sujetos a maltrato.
 
 VI.- Inválidos, minusválidos o incapaces por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuromúsculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias;
 
@@ -87,19 +93,31 @@ VIII.- Personas que por su extrema ignorancia requieran de servicios asistencial
 
 IX.- Víctimas de la comisión de delitos en estado de abandono;
 
-X.- Familiares que dependen económicamente de quienes se encuentren detenidos por causas penales y que queden en estado de abandono;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
-XI.- Habitantes del medio rural o urbano marginados que carezcan de lo indispensable para su subsistencia, e;
+X.- Familiares que dependan económicamente de las personas que seencuentren (sic) privadas de su libertad, de desaparecidos, de enfermos terminales, de alcohólicos o de fármaco dependientes;
 
-XII.- Indigentes en general.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
+XI.- Habitantes del medio rural o urbano marginados que carezcan de lo indispensable para su subsistencia;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
+XII.- Indigentes en general; y
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
+XIII.- Migrantes y desplazados en situación vulnerable.
 
 ###### ARTICULO 5°.
 
 Los servicios de asistencia social que se realicen a través de las dependencias y entidades de la Administración Pública Federal de acuerdo con sus atribuciones, tendrán la participación que se convenga con el Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 6°.
 
-De acuerdo con lo dispuesto en la Ley Estatal de Salud, corresponde al Gobierno de los Ayuntamientos del Estado, como autoridad local en materia de salubridad general, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, dentro de su jurisdicción territorial y con base a las normas técnicas que al efecto establezca la Secretaría de Salud.
+De acuerdo con lo dispuesto en la Ley de Salud del Estado de Tabasco, corresponde al Gobierno de los Ayuntamientos del Estado, como autoridad local en materia de salubridad general, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, dentro de su jurisdicción territorial y con base a las normas técnicas que al efecto establezca la Secretaría de Salud.
 
 ###### ARTICULO 7°.
 
@@ -123,9 +141,11 @@ II.- Definir criterio para la prestación de los servicios a usuarios, por regi�
 
 III.- Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de los grupos sociales necesitados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 11.
 
-La Secretaría de Salud Pública del Estado, en su carácter de Autoridad Sanitaria Estatal, directamente o a través del organismo a que se refiere el artículo 134 de la Ley Estatal de Salud, tendrá respecto de la asistencia social, como materia de Salubridad General, las siguientes atribuciones:
+La Secretaría de Salud del Estado, en su carácter de autoridad sanitaria estatal, directamente o a través del Organismo Descentralizado Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco (DIF Tabasco), tendrá respecto de la asistencia social, como materia de salubridad general, las siguientes atribuciones:
 
 I.- Supervisar la aplicación de las normas técnicas que rijan la prestación de los servicios de salud en materia de asistencia social, así como la difusión y adecuación de las mismas entre los integrantes del Sistema Estatal de Salud;
 
@@ -149,11 +169,15 @@ X.- Realizar investigaciones sobre las causas y efectos de los problemas priorit
 
 XI.- Las demás que le otorgan las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 12.
 
-Para los efectos de esta Ley; se entiende como Servicios Básicos en Materia de Asistencia Social los Siguientes:
+Para los efectos de esta Ley, se entienden como servicios básicos en materia de asistencia social, los siguientes:
 
-I.- Los señalados en el artículo 130 de la Ley Estatal de Salud;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
+I.- Los señalados en la fracción IX del artículo 28 y en el artículo 216 de la Ley de Salud del Estado de Tabasco;
 
 II.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socio-económicas;
 
@@ -177,63 +201,109 @@ X.- Los análogos y conexos a los anteriores que tiendan a modificar y mejorar l
 
 La operación de los Servicios Básicos de Salud de Atención Local en materia de Asistencia Social, se sujetará a la normatividad técnica que emitan la Secretaría de Salud, y el Sistema Nacional para el Desarrollo Integral de la Familia.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 14.
 
-Cuando en esta Ley se haga mención al Organismo, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco. Igualmente, al mencionarse a la Secretaría de Salud, se refiere a la Dependencia del Gobierno Federal encargada del despacho en materia de salud; y por Secretaría de Salud Pública a la Dependencia correspondiente en la Instancia Estatal.
+Cuando en esta Ley se haga mención al Organismo, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco. Igualmente, al mencionarse a la Secretaría de Salud, se refiere a la dependencia del Gobierno Federal encargada del despacho en materia de salud; y por Secretaría de Salud del Estado a la dependencia correspondiente en la instancia Estatal.
 
 ### CAPITULO SEGUNDO. EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 15.
 
-El órgano a que se refiere al artículo 132 de la Ley Estatal de Salud se denomina Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, el cual será el órgano rector de la asistencia social, de naturaleza desconcentrada y tendrá como objetivos la promoción de la asistencia social, la prestación de servicios en ese campo, la promoción de la interrelación sistemática de acciones que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley y las disposiciones legales aplicables.
+El organismo a que se refiere el artículo 217 de la Ley de Salud del Estado de Tabasco se denomina Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco (DIF Tabasco), el cual será el organismo rector de la asistencia social, constituido como organismo público descentralizado del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios. Este vigilará el cumplimiento de la presente Ley, y promoverá la interrelación sistemática de acciones que en el campo de la asistencia social lleven a cabo las instituciones públicas y privadas.
+
+Los objetivos del Sistema, son promover la asistencia social y proporcionar servicios asistenciales encaminados al desarrollo integral de la familia, entendida como la unidad básica de la sociedad que provee a sus miembros de los elementos que requieren en las diversas etapas de su desarrollo; apoyar en su formación y subsistencia a individuos con carencias familiares esenciales no superables en forma autónoma; gestionar la política de asistencia social a individuos y grupos vulnerables; y prestar auxilio a familias e individuos en las emergencias derivadas por desastres naturales.
+
+El Sistema para el Desarrollo Integral de la Familia operará los establecimientos públicos de asistencia social en los términos de esta Ley, su Reglamento, las Normas Oficiales Mexicanas y las demás disposiciones legales que le resulten aplicables.
+
+Asimismo supervisará mediante los procedimientos que establece la Ley, que los establecimientos privados cuyo objeto primordial sea la prestación de servicios de asistencia social, operen conforme a lo establecido en el párrafo que antecede.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 16.
 
-El Organismo, para el logro de sus objetivos, realizará las siguientes funciones:
+El Organismo tendrá las siguientes atribuciones:
 
-I.- Promover y prestar servicios de Asistencia Social;
+I. Vigilar el estricto cumplimiento de la presente Ley;
 
-II.- Apoyar el desarrollo de la Familia y de la Comunidad;
+II. Elaborar un Programa Estatal de Asistencia Social, conforme a las disposiciones de la Ley de Planeación, los lineamientos del Plan Estatal de Desarrollo, y demás instrumentos de planeación de la administración pública del estado;
 
-III.- Realizar acciones de apoyo educativo, para la integración social y de capacitación para el trabajo a los beneficiarios de la asistencia social;
+III. Con fundamento en lo establecido en la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Tabasco, y atendiendo al interés superior de la infancia, el Organismo tendrá como responsabilidad coadyuvar en el cumplimiento de esa Ley, así como en la Ley Para la Prevención y Tratamiento de la Violencia Familiar del Estado de Tabasco; la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia; la Ley para la Protección de las Personas Adultas Mayores; la Ley sobre los Derechos de las Personas con Discapacidad; y demás leyes estatales y federales concernientes con individuos o grupos vulnerables, y los tratados internacionales en materia de derechos humanos con impacto en la asistencia social en cuanto a su implementación en el ámbito local;
 
-IV.- Promover e impulsar el sano crecimiento físico y mental y social de la niñez;
+Para el caso de los Refugios para Mujeres Violentadas, el organismo como responsable de la operatividad de los mismos, procurará que durante la estancia temporal de las mujeres, niños y adultos mayores, se les otorgue como mínimo:
 
-V.- Coordinar las acciones de la asistencia Social Pública y Privada en el Estado, así como promover programas de asistencia social y procurar el uso más racional y eficiente de los recursos que para ello se destinen;
+a).- Tratamiento psicológico y psicoterapéutico integral, que deberá incluir terapias de superación personal y,
 
-VI.- Fomentar, apoyar y evaluar las actividades de asistencia social privada cuyo objeto sea la prestación de Servicio de Asistencia Social para registrarlo en el sistema de información de la asistencia social estatal;
+b).- Capacitación y adiestramiento, para aprender y desempeñar un oficio.
 
-VII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono, de ancianos desamparados y de minusválidos sin recursos;
+Asimismo, por cuanto hace a los Centros de Atención para Agresores, el organismo vigilará que el tratamiento que se les otorgue a los agresores, sea integral, de modo tal que la finalidad de este tratamiento, debe ser encaminado a que no vuelvan a violentar al núcleo familiar.
 
-VIII.- Llevar a cabo acciones en materia de prevención de invalidez, minusvalidez o incapacidad y de rehabilitación de inválidos, en centro no hospitalarios, con sujeción a las disposiciones aplicables en materia de salud;
+En ambos casos, el organismo se apoyará en las Secretarías o entidades competentes del estado.
 
-IX.- Realizar estudios e investigaciones sobre asistencia social, con la participación, en su caso, de las autoridades asistenciales del Gobierno del Estado y de los Municipios;
+IV. Prestar servicios de representación y asistencia jurídica y de orientación social a niñas y niños, jóvenes, adultos mayores, personas con alguna discapacidad, madres adolescentes y solteras, mujeres víctimas de violencia familiar, indigentes, indígenas, migrantes o desplazados y todas aquellas personas que por distintas circunstancias no puedan ejercer plenamente sus derechos;
 
-X.- Elaborar y proponer los reglamentos que se requieren en la materia, observando su estricto cumplimiento;
+V. Poner a disposición del Ministerio Público, los elementos a su alcance para la protección de los derechos familiares;
 
-XI.- Realizar y promover la capacitación de Recursos Humanos para la asistencia social;
+VI. Apoyar en la vigilancia de la aplicación de las Normas Oficiales Mexicanas en la materia;
 
-XII.- Operar el Sistema Estatal de Información Básica en Materia de Asistencia Social en el Estado;
+VII. Administrar el Patrimonio de la Beneficencia Pública, e impulsar los programas de asistencia social que contribuyan al uso eficiente de los bienes que lo componen;
 
-XIII.- Prestar Servicios de Asistencia Jurídica y de orientación social a menores, ancianos y minusválidos, inválidos o incapaces, sin recursos;
+VIII. Realizar inspecciones de la situación de los menores de las mujeres recluidas en los Centros de Reinserción Social del Estado para proteger sus derechos y facilitar la vida familiar;
 
-XIV.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos de la Ley respectiva;
+IX. Supervisar y evaluar la actividad y los servicios de asistencia social que presten las instituciones de asistencia social pública y privada, conforme a lo que establecen la Ley de Asistencia Social, la Ley General de Salud y la Ley de Salud del Estado de Tabasco, las Normas Oficiales Mexicanas en materia de asistencia social y la presente Ley;
 
-XV.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+X. Elaborar y actualizar el Directorio Estatal de las Instituciones Públicas y Privadas de Asistencia Social;
 
-XVI.- Realizar estudios e investigaciones en materia de invalidez, minusvalidez e incapacidad;
+XI. Organizar el Servicio Estatal de Información sobre la Asistencia Social;
 
-XVII.- Participar en programas de rehabilitación y educación especial;
+XII. Organizar, promover y operar el Centro de Información y Documentación sobre Asistencia Social; dicho centro deberá de contar con un padrón de beneficiarios que permita el seguimiento y detalle de los apoyos otorgados a las personas por parte del DIF Tabasco, evitando con ello duplicidad de subsidios en programas estatales. El citado padrón deberá acatar las disposiciones en materia de información pública, previstas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
 
-XVIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para eliminar las barreras físicas que impidan el desplazamiento autónomo de los inválidos, minusválidos e incapaces; y
+XIII. Difundir la información sobre el acceso al financiamiento nacional, internacional y estatal para actividades de asistencia social;
 
-XIX.- Las demás que establezcan las disposiciones aplicables en la materia.
+XIV. Realizar y apoyar estudios e investigaciones en materia de asistencia social;
+
+XV. Promover la formación, capacitación y profesionalización del personal encargado de la prestación de los servicios de asistencia social;
+
+XVI. Operar establecimientos de asistencia social en beneficio de los individuos y grupos en situación vulnerable protegidos por esta Ley y demás leyes del estado, así como convenir con personas físicas o morales la prestación de dichos servicios;
+
+XVII. Diseñar modelos de atención para la prestación de los servicios asistenciales;
+
+XVIII. Operar en el marco de sus atribuciones programas de rehabilitación y educación especial;
+
+XIX. Prestar apoyo, así como colaboración técnica y administrativa en materia de asistencia social a los Municipios;
+
+XX. Promover la integración de fondos mixtos para la asistencia social, así como fomentar, apoyar y evaluar las actividades de asistencia social privadas;
+
+XXI. Asignar, de acuerdo a su disponibilidad, recursos económicos temporales y otorgar apoyos técnicos a instituciones privadas y sociales de asistencia social, previa autorización de la Junta de Gobierno;
+
+XXII. Coadyuvar con la Secretaría de Relaciones Exteriores en la ejecución y difusión de programas en materia de asistencia social del Estado mexicano provenientes de organismos internacionales y multilaterales; y de manera especial promover y en su caso contribuir en la gestión de programas para el estado de Tabasco del Fondo de las Naciones Unida (sic) para la Infancia (UNICEF);
+
+XXIII. Coordinar los esfuerzos públicos y privados para la integración social de los sujetos de la asistencia, y la elaboración y seguimiento de los programas respectivos;
+
+XXIV. Promover la creación y el desarrollo de instituciones públicas y privadas de asistencia social;
+
+XXV. Establecer prioridades en materia de asistencia social;
+
+XXVI. Emitir dictamen ante el juez competente a través del Consejo Técnico de Adopciones del DIF, en los procedimientos de adopción de menores que se encuentren albergados en instituciones públicas y privadas, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política local; el Código Civil y el Código de Procedimientos Civiles, ambos para el Estado de Tabasco; y fungir como autoridad en materia de adopciones internacionales en los términos de la Convención sobre la Protección de Menores y la Cooperación en materia de adopción internacional de La Haya y de las disposiciones constitucionales y legales citadas y demás ordenamientos aplicables;
+
+XXVII. Proveer la protección y asistencia necesaria a los niños migrantes no acompañados;
+
+XXVIII. Proveer la atención necesaria a los menores de conformidad con la Convención Interamericana sobre Restitución Internacional de Menores;
+
+XXIX. Asumir el ejercicio de las funciones que, en materia de asistencia social, transfieran al gobierno del estado la Federación, las entidades federativas vecinas, o los municipios del estado por vía de convenio;
+
+XXX. Acreditar la elegibilidad de las personas que soliciten algún servicio público de asistencia social, o para recibir apoyo económico o en especie del Sistema;
+
+XXXI. Promover campañas en los medios masivos de comunicación sobre los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad en términos del artículo 1 de la Constitución Política de los Estados Unidos Mexicanos, y 2 de la Constitución Política del Estado Libre y Soberano de Tabasco; y
+
+XXXII. Todas las demás que esta Ley u otras estatales y federales señalen en materia de protección a la familia y asistencia social, o que deriven de tratados internacionales en materia de derechos humanos.
 
 ###### ARTICULO 17.
 
-En casos de desastre, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros de naturaleza similar por los que se causen daños a la población, el Organismo, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven acabo otras Dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, promoverá la atención y coordinación de las acciones de los distintos Sectores Sociales que actúen en beneficio de aquéllos, en el ámbito de su competencia.
+En casos de desastre, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros de naturaleza similar por los que se causen daños a la población, el Organismo, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otras Dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, promoverá la atención y coordinación de las acciones de los distintos Sectores Sociales que actúen en beneficio de aquéllos, en el ámbito de su competencia.
 
 ###### ARTICULO 18.
 
@@ -243,15 +313,19 @@ El Organismo, a través de la Secretaría de Salud Pública, promoverá el estab
 
 El Organismo observará una vinculación sistemática entre los Servicios de Rehabilitación y asistencia social que preste y los que proporcionen otros establecimientos del Sector Salud y de los Sectores Social y Privado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 19.
 
-El Patrimonio del Organismo se integrará con:
+El patrimonio del Organismo se integrará con:
 
 I.- Los derechos y bienes muebles e inmuebles que son de su dominio;
 
 II.- Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que las Dependencias y Entidades del Gobierno Federal y Estatal le otorguen;
 
-III.- Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
+III.- Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales. Asimismo, todos aquellos bienes que carezcan de herederos conocidos y que deban ser adjudicados a la beneficencia pública, lo serán al DIF Tabasco.
 
 IV.- Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;
 
@@ -259,135 +333,179 @@ V.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen con
 
 VI.- En general, los demás bienes, derechos e ingresos que obtenga por cualquier título.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 20.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, el Organismo contará con las siguientes autoridades superiores:
+Para el estudio, planeación y despacho de los asuntos que le competen, el Organismo contará con los siguientes órganos superiores:
 
-I.- Patronato;
+I. Junta de Gobierno, y
 
-II.- Junta de Gobierno; y
+II. Coordinación General.
 
-III.- Dirección General.
+La vigilancia de la operación del Organismo quedará a cargo de un Comisario.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 21.
 
-El Patronato es la máxima autoridad del Organismo y sus miembros serán designados por el Ejecutivo del Estado, integrándose por un Presidente; un Secretario Ejecutivo que será el Director General del Sistema; un Tesorero que será el Secretario de Finanzas del Gobierno del Estado; y 11 Vocales que serán 5 Servidores Públicos del Gobierno del Estado, un representante de los Sectores Obrero, Campesino y Popular, y tres representantes del Sector Privado.
+La Junta de Gobierno es la máxima autoridad del Organismo. Será presidida por el Gobernador del Estado, o por quien éste designe, y estará integrada por los titulares de las Secretarías de Salud; de Gobierno; de Desarrollo Social; de Educación; de Desarrollo Agropecuario, Forestal y Pesquero; de Administración; Planeación y Finanzas; de la Procuraduría General de Justicia; de la Secretaría Técnica de la Gubernatura del Estado; y del Instituto Estatal de las Mujeres.
 
-Los miembros del Patronato no recibirán remuneración alguna por su participación.
+Los miembros de la Junta de Gobierno serán suplidos por los representantes que al efecto designen cada uno de los miembros propietarios de la misma.
+
+La Junta de Gobierno designará un Secretario Técnico.
+
+El Presidente del Sistema Estatal para el Desarrollo Integral de la Familia, será designado por el Gobernador del Estado y ejercerá el cargo de manera honorífica, sin retribución de emolumento o compensación.
+
+La Junta de Gobierno sesionará por lo menos tres veces al año.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 22.
 
-El Patronato tendrá las siguientes facultades:
+La Junta de Gobierno tendrá las siguientes facultades:
 
-I.- Aprobar los planes de labores y los informes de actividades;
+I. Representar al Organismo con las facultades que establezcan las leyes para actos de dominio y de administración y para pleitos y cobranzas;
 
-II.- Conocer los informes, dictámenes y recomendaciones del Comisario;
+II. Elaborar y aprobar el Programa Estatal de Asistencia Social, de conformidad con el Plan Estatal de Desarrollo, tomando en consideración las propuestas y observaciones de las dependencias del Poder Ejecutivo del Estado con incidencia en la materia, de los Ayuntamientos y sus respectivos comités DIF, del Presidente del Tribunal Superior de Justicia del Poder Judicial, y del titular de la Comisión Estatal de los Derechos Humanos;
 
-III.- Conocer y aprobar los convenios de coordinación que hayan de celebrarse con Dependencias y Entidades Públicas;
+III. Establecer las bases para la coordinación de las acciones de las instituciones públicas y privadas que desarrollen tareas de asistencia social;
 
-IV.- Apoyar las actividades del Organismo y sugerir las que sean necesarias para su mejor desempeño;
+IV. Aprobar el proyecto de presupuesto anual, informes de actividades y estados financieros trimestrales y anuales que le presente el Coordinador General;
 
-V.- Coadyuvar en la obtención de recursos que permitan el incremento del patrimonio del Organismo y el cumplimiento cabal de sus objetivos; y
+V. Conocer los informes, dictámenes y recomendaciones del Comisario y del Auditor Externo;
 
-VI.- Las demás que sean necesarias para el ejercicio de sus facultades y que se determinarán por acuerdo de la Presidencia del Patronato.
+VI. Aprobar el Reglamento Interior, y los Manuales de Procedimientos y de Servicios al Público;
+
+VII. Ratificar la designación y remoción a propuesta del Coordinador General del Organismo, de los servidores públicos de nivel inmediato inferior;
+
+VIII. Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que le correspondan al Organismo;
+
+IX. Proponer, estudiar y aprobar los proyectos de inversión;
+
+X. Gestionar sin perjuicio de la facultad de otros entes públicos, donativos y donaciones ante las entidades paraestatales Petróleos Mexicanos, Comisión Federal de Electricidad, u otras entidades, órganos o dependencias del orden federal, para su aplicación por el DIF Tabasco en el marco del Programa Estatal de Asistencia Social;
+
+XI. Conocer y aprobar los acuerdos de Coordinación que el Presidente de la Junta de Gobierno, en representación del Organismo, haya de celebrar con dependencias y entidades públicas federales, del Distrito Federal, de otros estados de la República, y con los municipios de Tabasco, o de otras entidades federativas;
+
+XII. Conocer y aprobar los convenios de colaboración en materia de asistencia social con instituciones públicas o privadas nacionales e internacionales que en representación del Organismo celebre el Presidente de la Junta de Gobierno;
+
+XIII. Determinar la integración de Comités Técnicos y grupos de trabajo temporales;
+
+XIV. Aprobar los programas que en materia de asistencia social pública formule el Organismo;
+
+XV. Ordenar la elaboración de programas de pedagogía de valores para su difusión en los medios de comunicación social con el propósito de promover la integración familiar y el respeto a los derechos humanos de los niños, de las mujeres, de los ancianos, de las personas con capacidades diferentes, de los migrantes y demás grupos vulnerables, así como ordenar las campañas de comunicación social que sean necesarias para dar a conocer entre la población los programas de asistencia social del Organismo; y
+
+XVI. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 23.
 
-El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el reglamento respectivo.
+El Coordinador General será ciudadano mexicano, mayor de treinta años de edad y con experiencia en materias administrativa y de asistencia social.
+
+El Gobernador del Estado designará y removerá libremente al Coordinador General.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 24.
 
-Son facultades de la Presidencia del Patronato:
+El Coordinador General tendrá las siguientes facultades y obligaciones:
 
-I.- Dictar los acuerdos necesarios para el cumplimiento de los objetivos del Organismo en congruencia con las Leyes aplicables en el Estado;
+I. Administrar y representar legalmente al Organismo; así como otorgar, sustituir y revocar poderes generales y especiales para actos de administración, pleitos y cobranzas, de conformidad con las disposiciones jurídicas aplicables;
 
-II.- Vigilar que los acuerdos dictados por el Patronato sean cumplidos, de conformidad con los objetivos del Organismo y en congruencia con las Leyes aplicables;
+II. Ejecutar los acuerdos y disposiciones que la Junta de Gobierno ordene por conducto de su Presidente;
 
-III.- Solicitar al Comisario, los análisis financieros y la vigilancia del correcto ejercicio del presupuesto;
+III. Presentar a la Junta de Gobierno los informes y estados financieros trimestrales, acompañados de los comentarios que al efecto formulen el Comisario y el Auditor Externo;
 
-IV.- Designar los asesores necesarios para el mejor desarrollo de las actividades del Organismo; y
+IV. Formular de conformidad con las directrices de la Junta de Gobierno los proyectos de programas de corto, mediano y largo plazo, los presupuestos y las políticas institucionales;
 
-V.- Dirigir el Voluntariado del Estado de Tabasco.
+V. Establecer los procedimientos generales para elaborar los informes de actividades y estados financieros trimestrales y anuales del Organismo, presentándolos para su aprobación a la Junta de Gobierno; y supervisar que durante el ejercicio del presupuesto cada unidad administrativa contribuya a la elaboración de los informes que deba presentar el Organismo;
+
+VI. Proponer a la Junta de Gobierno la designación y remoción de los servidores públicos de nivel inmediato inferior del Organismo;
+
+VII. Autorizar y expedir los nombramientos de personal con el consentimiento previo de la Junta de Gobierno, y manejar las relaciones laborales de acuerdo con las disposiciones legales;
+
+VIII. Planear, dirigir y controlar el funcionamiento del Organismo con sujeción a las instrucciones de la Junta de Gobierno;
+
+IX. Refrendar los acuerdos de Coordinación que el Presidente de la Junta de Gobierno, en representación del Organismo, haya de celebrar con dependencias y entidades públicas federales, del Distrito Federal, de otros estados de la República, y con los municipios de Tabasco o de otras entidades federativas;
+
+X. Refrendar los convenios de colaboración en materia de asistencia social que el Presidente de la Junta de Gobierno celebre en representación del Organismo, con instituciones públicas o privadas nacionales e internacionales;
+
+XI. Celebrar con apego estricto a la Constitución y leyes del estado los convenios, acuerdos, contratos administrativos y ejecutar los actos administrativos y jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
+
+XII. Actuar en representación del Organismo con facultades generales para actos de administración, de dominio, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes.
+
+Para enajenar o gravar bienes muebles o inmuebles propiedad del Organismo, el Coordinador General deberá contar con la autorización previa de la Junta de Gobierno y cumplir con las disposiciones aplicables a los bienes del sector público;
+
+XIII. Elaborar anualmente el informe de actividades del DIF Tabasco y someterlo a la aprobación de la Junta de Gobierno, para su integración en el informe anual de gobierno del titular del Poder Ejecutivo del estado; y
+
+XIV. Las demás que sean necesarias para el ejercicio de las facultades establecidas en éste u otros ordenamientos jurídicos.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 25.
 
-La Junta de Gobierno estará integrada por lo menos por cinco Servidores Públicos designados y removidos libremente por el C. Gobernador del Estado y su Titular lo será el Secretario de Salud Pública en el Estado.
+El Comisario será designado por la Junta de Gobierno, a propuesta de la Secretaría de Contraloría. Deberá ser ciudadano mexicano y con experiencia en la materia no menor de cinco años.
 
-El Titular de la Junta de Gobierno representará a ésta ante el Patronato.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 26.
 
-La Junta de Gobierno tendrá las siguientes facultades:
+El Comisario tendrá las siguientes facultades:
 
-I.- Conocer de los planes de labores, presupuestos, informes de actividades y estados financieros anuales;
+I. Vigilar que la administración de los recursos y el funcionamiento del Organismo se haga de acuerdo con lo que dispongan esta Ley y los programas y presupuestos aprobados;
 
-II.- Aprobar el Reglamento Interior, la organización del Organismo y los Manuales de Procedimientos y de Servicios al Público;
+II. Practicar las auditorías de los estados financieros y las de carácter administrativo que se requieran;
 
-III.- Designar y remover, a propuesta del Director General del Organismo, a los Servidores Públicos que presten sus servicios en el mismo;
+III. Recomendar a la Junta de Gobierno y al Coordinador General las medidas preventivas y correctivas que sean convenientes para el mejoramiento del Organismo;
 
-IV.- Conocer los informes, dictámenes y recomendaciones del Comisario;
+IV. Asistir a las sesiones de la Junta de Gobierno; y
 
-V.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
+V. Las demás que otras leyes le atribuyan y las que sean necesarias para el ejercicio de las anteriores.
 
-VI.- Estudiar y aprobar los proyectos de inversión;
-
-VII.- Conocer los Convenios de Coordinación que hayan de celebrarse con Dependencias y Entidades Públicas y Privadas;
-
-VIII.- Determinar la integración de Comités Técnicos y Grupos de Trabajo Temporales;
-
-IX.- Aprobar los programas de mediano plazo a que quedarán sujetos los servicios de salud en materia de asistencia social que preste el Organismo, con base a los programas sectoriales y prioridades presupuestales a que esté sujeto; y
-
-X.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 27.
 
-La Junta de Gobierno podrá integrar los Comités Técnicos necesarios para el estudio y propuesta de mecanismos que aseguren la coordinación interinstitucional en la atención de las tareas asistenciales y para elevar las propuestas que estimen necesarias a la Junta. Estos Comités estarán formados por los representantes que al efecto designen las Dependencias y entidades competentes.
+El Organismo contará además con un Consejo Ciudadano Consultivo cuyos miembros no percibirán retribución, emolumento o compensación alguna, y se seleccionarán de entre los sectores público y privado, de acuerdo con el Reglamento que la Junta de Gobierno emita.
+
+El Consejo presentará opiniones y recomendaciones sobre las políticas y programas estatales del Organismo, apoyará sus actividades y contribuirá a la obtención de recursos que permitan el incremento de su patrimonio. La Junta de Gobierno será representada ante el Consejo Ciudadano Consultivo por su Presidente.
 
 ###### ARTICULO 28.
 
 La Junta de Gobierno celebrará cuando menos dos sesiones ordinarias anuales y las extraordinarias que se requieran, de conformidad con el reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 29.
 
-El Director General del Organismo será ciudadano mexicano por nacimiento, mayor de 30 años y con experiencia en materia administrativa y asistencia social y será designado y removido libremente por el Gobernador del Estado.
+El Organismo contará con un Consejo Técnico de Adopciones para procurar y proteger el interés superior de los menores sujetos a adopción que se encuentren albergados en instituciones públicas o privadas autorizadas.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 30.
 
-El Director General tendrá las siguientes facultades:
+El Consejo Técnico de Adopciones del DIF se integra de la siguiente manera:
 
-I.- Ejecutar los acuerdos y disposiciones del Patronato y de la Junta de Gobierno;
+I. El Presidente de la Junta de Gobierno;
 
-II.- Presentar a la Presidencia del Patronato las propuestas, proyectos e informes que le requieran para su eficaz desempeño;
+II. El Coordinador General;
 
-III.- Presentar, para su conocimiento y aprobación, al Patronato los planes de trabajo e informes de actividades, así como aquellos que de manera especial le sean solicitados por el mismo;
+III. El Procurador de la Defensa del Menor y la Familia;
 
-IV.- Presentar a la Junta de Gobierno los presupuestos, informes y estados financieros bimestrales, acompañados por los comentarios que estime pertinentes a los reportes, informes y recomendaciones que al efecto formule el Comisario;
+IV. Los titulares de los establecimientos del DIF encargados de albergar a los menores;
 
-V.- Proponer a la Junta de Gobierno, previo acuerdo de la Presidencia del Patronato, la designación y remoción del personal del Organismo; efectuar los nombramientos del personal y llevar las relaciones laborales de acuerdo con las disposiciones legales y vigentes en el Estado;
+V. Cuatro Consejeros designados por el Presidente de la Junta de Gobierno, de los cuales uno debe ser profesional en psicología, uno profesional en medicina humana, uno profesional en trabajo social y uno profesional en derecho;
 
-VI.- Planear, dirigir y controlar el funcionamiento del Organismo, con sujeción a las instrucciones del Patronato;
+VI. El titular de la Procuraduría General de Justicia, o quien éste designe por escrito en su representación; y
 
-VII.- Rendir los informes administrativos y contables anuales y los que le solicite la Presidencia del Patronato;
+VII. El titular de la Comisión Estatal de Derechos Humanos, o quien éste designe por escrito en su representación.
 
-VIII.- Actuar como apoderado del Organismo, con facultades generales de representación, incluyendo las de pleitos y cobranzas de conformidad con todas las Leyes aplicables, pudiendo ejercer actos de dominio en los casos especiales que el Patronato señale;
-
-IX.- Celebrar con aprobación del Patronato, los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo; y
-
-X.- Las demás que sean necesarias para el cumplimiento de sus funciones y que se señalen por acuerdo del Patronato o de su Presidencia o que éstos deleguen.
+Para el mejor desempeño de sus funciones, el Consejo Técnico de Adopciones podrá solicitar la opinión de personas expertas en la materia del sector público o privado.
 
 ###### ARTICULO 31.
 
-El Organismo contará con un Comisario y fungirá como tal el Contralor General del Estado. Tendrá las siguientes facultades:
-
-I.- Vigilar que la administración de los recursos y el funcionamiento del Organismo se realice de acuerdo a la Ley, los planes y presupuestos aprobados dando conocimiento de ello al Patronato a través de su Presidencia;
-
-II.- Practicar, a solicitud del Patronato o su Presidencia, la auditoría de los estados financieros, y las de carácter administrativo que se requieran;
-
-III.- Recomendar al Patronato, a través de su Presidencia y al Director General, las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento del Organismo;
-
-IV.- Asistir a las sesiones del Patronato y de la Junta de Gobierno, con voz pero sin voto, y
-
-V.- Las demás que otras Leyes le atribuyen y las que sean necesarias para el ejercicio de las anteriores.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2013)
 
 ###### ARTICULO 32.
 
@@ -469,9 +587,11 @@ Los trabajadores del Organismo Estatal estarán incorporados al régimen de la L
 
 ### CAPITULO TERCERO. DE LA COORDINACION, CONCERTACION E INDUCCION
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 47.
 
-Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de salud en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más vulnerables, el Gobierno del Estado, con la participación del Organismo, celebrará convenios o acuerdos dentro del marco del Convenio Unico de Desarrollo para la coordinación de acciones a nivel Estatal o Municipal, con las Entidades y Dependencias de la Administración Pública Federal, en los términos del Sistema Estatal de Planeación y de la Ley Estatal de Salud.
+Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de salud en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más vulnerables, el Gobierno del Estado, con la participación del Organismo, celebrará convenios o acuerdos dentro del marco del Convenio Único de Desarrollo para la coordinación de acciones a nivel estatal o municipal, con las entidades y dependencias de la Administración Pública Federal, en los términos del Sistema Estatal de Planeación y de la Ley de Salud del Estado de Tabasco.
 
 ###### ARTICULO 48.
 
@@ -487,13 +607,17 @@ IV.- Coordinar y proponer programas para el establecimiento y apoyo de la Benefi
 
 V.- Fortalecer el patrimonio de los Sistemas Municipales para el Desarrollo Integral de la Familia.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 49.
 
-La Secretaría de Salud Pública a través del Organismo, promoverá ante los Gobiernos Municipales, el establecimiento de mecanismos idóneos que permitan una interrelación sistemática a fin de conocer las demandas de servicios básicos de salud en materia de asistencia social, para los grupos sociales vulnerables y coordinar su oportuna atención.
+La Secretaría de Salud del Estado, a través del Organismo, promoverá ante los Gobiernos Municipales, el establecimiento de mecanismos idóneos que permitan una interrelación sistemática a fin de conocer las demandas de servicios básicos de salud en materia de asistencia social, para los grupos sociales vulnerables y coordinar su oportuna atención.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 50.
 
-La Secretaría de Salud Pública a través del Organismo, celebrará convenios o contratos para la concertación de acciones de asistencia social con los Sectores Social y Privado con objeto de coordinar su participación en la realización de programas de asistencia social que coadyuven a la realización de los objetivos a que se refiere esta Ley.
+La Secretaría de Salud del Estado, a través del Organismo, celebrará convenios o contratos para la concertación de acciones de asistencia social con los sectores social y privado con objeto de coordinar su participación en la realización de programas de asistencia social que coadyuven a la realización de los objetivos a que se refiere esta Ley.
 
 ###### ARTICULO 51.
 
@@ -521,11 +645,15 @@ A propuesta del Organismo el Gobierno del Estado dictaminará el otorgamiento de
 
 El Gobierno del Estado, a través del Organismo mediante la inducción, promoverá la organización y participación activa de la Comunidad en la atención de aquellos casos de salud, que por sus características requieran de acciones de asistencia social basadas en el apoyo y solidaridad social, así como el concurso coordinado de las Dependencias y Entidades Públicas, específicamente en el caso de Comunidades afectadas de marginación.
 
-La Secretaría de Salud Pública y el Organismo pondrán especial atención en la promoción de acciones de la Comunidad en beneficio de menores en estado de abandono, minusválidos, inválidos e incapaces física o mentalmente.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
+
+La Secretaría de Salud del Estado y el Organismo pondrán especial atención en la promoción de acciones de la comunidad en beneficio de menores en estado de abandono, y personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 55.
 
-La Secretaría de Salud Pública directamente o a través del Organismo, promoverá la organización y participación de la Comunidad para que, en base al apoyo y la solidaridad social, coadyuve en la prestación de servicios asistenciales para el desarrollo integral de la familia.
+La Secretaría de Salud del Estado directamente o a través del Organismo, promoverá la organización y participación de la comunidad para que, en base al apoyo y la solidaridad social, coadyuve en la prestación de servicios asistenciales para el desarrollo integral de la familia.
 
 ###### ARTICULO 56.
 
@@ -565,7 +693,7 @@ Lic. José Ma. Peralta López
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE JUNIO DE 1999.
 
@@ -590,3 +718,21 @@ El presente Decreto que establece el Sistema Integral de Justicia para Adolescen
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
+
+P.O. 13 DE AGOSTO DE 2013.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- En un plazo no mayor a sesenta días naturales a partir de la publicación de este Decreto se expedirá el Reglamento Interior del Organismo Descentralizado Sistema para el Desarrollo Integral de la Familia, así como los respectivos Manuales de Organización y Procedimientos.
+
+TERCERO.- En un plazo no mayor a sesenta días naturales a partir de la publicación de este Decreto, se integrarán la Junta de Gobierno, el Consejo Ciudadano Consultivo del Sistema para el Desarrollo Integral de la Familia y el Consejo Técnico de Adopciones.
+
+CUARTO.- Los recursos humanos, financieros y materiales que actualmente se encuentran asignados al Sistema para el Desarrollo Integral de la Familia como órgano administrativo desconcentrado de la Secretaría de Salud, y los del Centro de Rehabilitación y Educación Especial de la Secretaría de Salud, pasarán a formar parte del nuevo organismo descentralizado, en un plazo que no exceda de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Los derechos de los trabajadores adscritos al Sistema para el Desarrollo Integral de la Familia como órgano administrativo desconcentrado de la Secretaría de Salud, serán respetados conforme a las leyes en el nuevo organismo descentralizado.
+
+QUINTO.- Los asuntos que al momento de la entrada en vigor del presente Decreto se encuentren en trámite en el Sistema para el Desarrollo Integral de la Familia como órgano administrativo desconcentrado serán atendidos hasta su conclusión por el mismo en su calidad de organismo descentralizado, en términos de las disposiciones jurídicas aplicables.
+
+SEXTO.- EI presupuesto del organismo descentralizado Sistema para el Desarrollo Integral de la Familia para 2013, será el que actualmente tiene asignado como órgano desconcentrado.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
