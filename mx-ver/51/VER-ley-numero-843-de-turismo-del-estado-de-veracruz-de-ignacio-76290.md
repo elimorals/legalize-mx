@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2013-07-31"
+last_updated: "2013-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2013.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -99,9 +99,9 @@ IV. Bis. Comunidad turística: Relaciones y manifestaciones generadas entre los 
 
 V. Consejo: El Consejo Consultivo de Turismo Estatal;
 
-VI. Consejo Municipal: Los Consejos Consultivos Municipales de Turismo en el Estado;
+VI. (DEROGADA, G.O. 13 DE AGOSTO DE 2013)
 
-VII. Consejo Regional: Cada uno de los diez Consejos Consultivos Regionales de Turismo en el Estado;
+VII. (DEROGADA, G.O. 13 DE AGOSTO DE 2013)
 
 VIII. Destino turístico: El lugar que ofrece atractivos turísticos, instalaciones y servicios para atender los requerimientos de sus visitantes, y que un turista o grupo de turistas escoge para visitar o que los proveedores deciden promocionar;
 
@@ -261,9 +261,17 @@ XXXVIII. Colaborar con la Secretaría Federal en el ejercicio de sus facultades 
 
 XXXIX. Coadyuvar con los Ayuntamientos en la elaboración de su Programa de Desarrollo Turístico Municipal;
 
-XL. Administrar el Fondo; y
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
-XLI. Las demás previstas en éste y otros ordenamientos.
+XL. Administrar el Fondo;
+
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
+
+XLI. Impulsar la profesionalización del sector turístico, favoreciendo la vinculación entre el sector público, privado y social; y
+
+> <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 2013)</small>
+
+XLII. Las demás previstas en este y otros ordenamientos.
 
 ### CAPÍTULO II. De las atribuciones de los ayuntamientos
 
@@ -319,47 +327,45 @@ XXII. Las demás previstas en éste y otros ordenamientos.
 
 ### CAPÍTULO I. De la Comisión Ejecutiva para el Fomento del Turismo de Veracruz
 
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 7.
 
-La Comisión será de carácter intersecretarial y tendrá por objeto conocer, atender y resolver los asuntos de naturaleza turística relacionados con la competencia de dos o más dependencias o entidades de la administración pública estatal, así como fungir como órgano de consulta en los asuntos que la Secretaría considere oportuno.
+La Comisión será de carácter intersecretarial, y tendrá por objeto impulsar la transversalidad presupuestal y programática de las acciones gubernamentales, coordinando con las distintas dependencias que en forma directa o indirecta están vinculadas al turismo, hacia los objetivos de fortalecer los principales destinos turísticos con que cuenta el Estado.
+
+N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DE LA G.O. 13 DE AGOSTO DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE XI FRACCIONES.
+
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 8.
 
-La Comisión se integrará de la manera siguiente:
+La Comisión estará encabezada por el Gobernador del Estado, quien fungirá como Presidente, y el encargado de coordinar y dar seguimiento a los acuerdos establecidos será el Secretario de Turismo, Cultura y Cinematografía, en su carácter de Secretario Técnico. Los titulares de las Dependencias Estatales que participarán son:
 
-I. El Gobernador del Estado, quien la presidirá;
+I. Secretaría de Finanzas y Planeación;
 
-> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
+II. Secretaría de Medio Ambiente;
 
-II. El Secretario de Turismo y Cultura, quien fungirá como Secretario Técnico;
+III. Secretaría de Desarrollo Social;
 
-III. El Secretario de Finanzas y Planeación;
+IV. Secretaría de Comunicaciones;
 
-IV. El Secretario de Comunicaciones;
+V. Secretaría de Seguridad Pública; y
 
-V. El Secretario de Desarrollo Social y Medio Ambiente;
+VI. Secretaría de Desarrollo Económico y Portuario.
 
-VI. El Secretario de Educación;
+A las Sesiones de la Comisión podrán ser invitados a participar funcionarios de la administración pública estatal y federal, cuando la situación así lo requiera.
 
-VII. El Secretario de Salud;
-
-VIII. El Secretario de Seguridad Pública;
-
-IX. El Secretario de Trabajo, Previsión Social y Productividad;
-
-X. El Secretario de Protección Civil; y
-
-XI. El Rector de la Universidad Veracruzana.
-
-A la Comisión podrán ser invitados a participar funcionarios de la administración pública estatal y federal, cuando la situación así lo requiera.
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 9.
 
-La Comisión sesionará en forma ordinaria cada cuatro meses y extraordinariamente cuando así lo determine su presidente.
+La Comisión sesionará en forma ordinaria tres veces al año y extraordinariamente cuando así lo determine su Presidente.
+
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 10.
 
-Los integrantes de la Comisión podrán nombrar suplentes, quienes participarán en las sesiones de trabajo de dicha Comisión en ausencia de los titulares.
+Los integrantes de la Comisión deberán nombrar enlaces operativos, quienes darán seguimiento a los acuerdos y participarán en las sesiones de trabajo en ausencia de los titulares.
 
 ### CAPÍTULO II. Del Consejo Consultivo de Turismo Estatal
 
@@ -371,31 +377,31 @@ El Consejo será un órgano colegiado de consulta, asesoría y apoyo técnico, q
 
 La finalidad del Consejo será el logro de la participación y el consenso de todos los miembros pertenecientes al sector, en las políticas públicas y programas de gobierno en materia turística.
 
+N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DE LA G.O. 13 DE AGOSTO DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE XI FRACCIONES.
+
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 13.
 
-El Consejo tendrá las funciones siguientes:
+El Consejo Consultivo de Turismo Estatal tendrá las siguientes funciones:
 
-I. Concertar entre los miembros representativos del sector las políticas, planes, programas y proyectos turísticos;
+I. Agrupar a los organismos de la actividad empresarial turística estatal;
 
-II. Coadyuvar en la creación e implementación y evaluación del Programa;
+II. Cooperar con los gobiernos estatales y municipales, en el estudio de las Leyes, Reglamentos y Disposiciones Generales que afecten directa o indirectamente al turismo;
 
-III. Participar en las revisiones y evaluaciones periódicas que se realicen sobre el Plan Estatal de Turismo;
+III. Integrar Comités especializados por cada segmento turístico que se practique en el Estado para el cumplimiento de sus objetivos y funciones;
 
-IV. Servir como órgano de consulta, asesoría y apoyo técnico a la Secretaría;
+IV. Colaborar con la Secretaría para la creación y fomento de la marca turística estatal;
 
-V. Colaborar con la Secretaría para la creación y manejo de la imagen turística del Estado;
+V. Proponer las necesidades de capacitación prioritarias en sus regiones e impulsar la competitividad turística de Veracruz;
 
-VI. Proponer la candidatura de aquellos empresarios que destaquen por el impulso al turismo de excelencia al Premio Veracruz a la Calidad Turística;
+VI. Proponer acciones o estrategias para ser incluidas en el Programa Estatal de Turismo;
 
-VII. Colaborar con la Secretaría para la creación del Inventario de Riquezas Turísticas del Estado;
+VII. Proponer la candidatura de aquellos empresarios que destaquen por el impulso al turismo de excelencia, al Premio Veracruz a la Calidad Turística;
 
-VIII. Colaborar para la creación del Calendario de Actividades Recreativas y Turísticas del Estado, que deberá realizar la Secretaría;
+VIII. Promover la inscripción de los prestadores de servicios turísticos en el Registro Nacional de Turismo; y
 
-IX. Promover la inscripción de los prestadores de servicios turísticos en el Registro Nacional de Turismo;
-
-X. Integrar comités especializados por cada segmento turístico que se practique en el Estado, para el mejor cumplimiento de sus objetivos y funciones; y
-
-XI. Todas aquellas que, en el ámbito de su competencia, propicien el desarrollo turístico sustentable del Estado.
+IX. Todas aquellas que, en el ámbito de su competencia, propicien el desarrollo turístico sustentable del Estado.
 
 ###### Artículo 14.
 
@@ -409,9 +415,17 @@ II. El Secretario de Turismo y Cultura;
 
 III. Quien presida la Comisión Permanente de Turismo del Congreso del Estado;
 
-IV. Un presidente municipal de los municipios con vocación turística, en representación de los Ayuntamientos; y
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
-V. Un representante por cada uno de los principales organismos empresariales registrados en el Estado.
+IV. Un presidente municipal de los municipios con vocación turística, en representación de los ayuntamientos;
+
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
+
+V. Un representante por cada uno de los principales organismos empresariales registrados en el Estado; y
+
+> <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 2013)</small>
+
+VI. Un representante del Fideicomiso Público del Impuesto por la Prestación de Servicios de Hospedaje.
 
 El Reglamento de esta Ley establecerá el mecanismo de designación de los integrantes previstos en los fracciones IV y V de este artículo. Para el caso de los señalados en la última fracción, se observarán los criterios de pluralidad, renovación periódica y representatividad de sus integrantes.
 
@@ -423,81 +437,45 @@ La forma de articulación del Consejo será la siguiente:
 
 I. El Consejo, como órgano supremo del sector, fungirá como enlace directo con la Secretaría, para efectos de planeación, dirección, ejecución y evaluación de la actividad turística;
 
-II. Un Consejo Consultivo por cada región turística del Estado, que estará integrado por los representantes de los Consejos Consultivos Municipales de dicha demarcación; y
+II. (DEROGADA, G.O. 13 DE AGOSTO DE 2013)
 
-III. Un Consejo Consultivo por cada municipio con vocación turística.
+III. (DEROGADA, G.O. 13 DE AGOSTO DE 2013)
 
 ###### Artículo 16.
 
-La Secretaría realizará una invitación a las cámaras de comercio, sindicatos, representantes del orden de gobierno municipal, además de los representantes de los sectores social, empresarial y académico, para formar parte de los Comités Especializados que se constituyan por cada segmento de la actividad turística.
-
-Dichos organismos de consulta tendrán las funciones siguientes:
-
-I. Definir sus prioridades y establecer su programa de actividades, mismo que será sustento del programa de trabajo del Consejo;
-
-II. Analizar y hacer propuestas sobre los asuntos relacionados a los segmentos turísticos correspondientes a cada órgano;
-
-III. Dar cumplimiento a las tareas encomendadas por el Consejo, de acuerdo con el programa de trabajo;
-
-IV. Presentar por escrito al Consejo los avances de su trabajo en cada sesión plenaria, así como un informe anual sobre los resultados de su encargo; y
-
-V. Redactar una minuta en la que se asiente el tema de la reunión, los acuerdos tomados y los trabajos realizados. Dicha minuta será entregada al presidente del Consejo.
+(DEROGADO, G.O. 13 DE AGOSTO DE 2013)
 
 ###### Artículo 17.
 
-Cada uno de los Consejos expedirá su Reglamento, el cual establecerá la permanencia y revocación de sus miembros, la frecuencia de sus sesiones, los procedimientos para la toma y ejecución de sus decisiones y la forma de su organización interna.
+(DEROGADO, G.O. 13 DE AGOSTO DE 2013)
 
 ### CAPÍTULO III. De los consejos consultivos regionales y municipales
 
 ###### Artículo 18.
 
-Los Consejos Regionales en el Estado serán diez y estarán integrados por representantes de los Consejos Municipales de la región turística de que se trate, siempre con participación del sector público y privado.
+(DEROGADO, G.O. 13 DE AGOSTO DE 2013)
 
 ###### Artículo 19.
 
-Los Consejos Regionales tendrán las atribuciones siguientes:
-
-I. Concertar entre los miembros representativos del sector las políticas, planes, programas y proyectos turísticos regionales;
-
-II. Servir como órgano de consulta, asesoría y apoyo técnico al Consejo;
-
-III. Proponer la candidatura al Premio Veracruz a la Calidad Turística de aquellas personas que en el ámbito regional destaquen por el impulso al turismo de excelencia;
-
-IV. Colaborar para la creación del Inventario de Riquezas Turísticas del Estado, mediante la sugerencia de lugares que deban ser incluidos;
-
-V. Informar al Consejo sobre las actividades relacionadas con el turismo que se celebren en cada región, para su inclusión en el Calendario de Actividades Recreativas, Tradicionales y Turísticas de Veracruz;
-
-VI. Promover la inscripción de los prestadores de servicios turísticos de cada región en el Registro; y
-
-VII. Todas aquellas actividades que propicien el desarrollo turístico de sus regiones.
+(DEROGADO, G.O. 13 DE AGOSTO DE 2013)
 
 ###### Artículo 20.
 
-El Consejo Municipal será encabezado por el presidente municipal y se integrará, por lo menos, con cinco miembros, representantes de los sectores público y social y de cámaras y organismos empresariales con incidencia en la actividad turística de cada municipio, con derecho a voz y voto.
+(DEROGADO, G.O. 13 DE AGOSTO DE 2013)
 
 ###### Artículo 21.
 
-Los Consejos Municipales tendrán, dentro de sus respectivos ámbitos de competencia, las atribuciones siguientes:
-
-I. Concertar entre los miembros representativos del sector las políticas, planes, programas y proyectos turísticos;
-
-II. Servir como órgano de consulta, asesoría y apoyo técnico al Consejo Regional;
-
-III. Colaborar para la creación del Inventario de Riquezas Turísticas del Estado, mediante la sugerencia de lugares de sus municipios que deban ser incluidos;
-
-IV. Informar al Consejo Regional sobre las actividades turísticas celebradas en sus municipios, para su inclusión en el Calendario de Actividades Recreativas, Tradicionales y Turísticas de Veracruz;
-
-V. Promover la inscripción de los prestadores de servicios turísticos de cada municipio en el Registro Nacional de Turismo; y
-
-VI. Todas aquellas actividades que propicien el desarrollo turístico sustentable de sus municipios.
+(DEROGADO, G.O. 13 DE AGOSTO DE 2013)
 
 ## TÍTULO CUARTO. De los lineamientos para las políticas públicas en materia turística
 
 ### CAPÍTULO I. De la importancia estratégica de la actividad turística
 
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 22.
 
-El fomento de la actividad turística en el Estado será considerado como una estrategia prioritaria para el desarrollo económico y social de la Entidad. Para tal efecto, el Plan Veracruzano de Desarrollo y los programas sectoriales de las dependencias que el Ejecutivo del Estado disponga incluirán estrategias y acciones puntuales para el impulso de la actividad desde un enfoque sustentable.
+El fomento de la actividad turística en el Estado será considerado como una estrategia prioritaria para el desarrollo económico y social de la Entidad, de conformidad con lo establecido en la Constitución Política del Estado de Veracruz de Ignacio de la Llave. Para tal efecto, el Plan Veracruzano de Desarrollo y los programas sectoriales de las dependencias que el Ejecutivo del Estado disponga incluirán estrategias y acciones puntuales para el impulso de la actividad desde un enfoque sustentable.
 
 > <small>(ADICIONADO, G.O. 29 DE JULIO DE 2013)</small>
 
@@ -511,11 +489,13 @@ La Secretaría de Educación deberá incluir en los programas educativos del niv
 
 ### CAPÍTULO II. De la incorporación de la actividad turística a las cadenas productivas
 
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA PUBLICADA EN LA G.O. DE 13 DE AGOSTO DE 2013, SE OBSERVA QUE EL PRESENTE ARTÍCULO, EN SU TEXTO ORIGINAL CONSTABA DE 2 PÁRRAFOS.</small>
+
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 24.
 
-El Estado, a través de la Secretaría, y los Ayuntamientos estimularán y promoverán entre la iniciativa privada y el sector social la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar las economías del Estado y de los municipios y con ello buscar el desarrollo regional sustentable.
-
-Los instrumentos para promover el desarrollo regional sustentable serán estudios socioeconómicos, ambientales y de mercado turístico, que tomarán en cuenta la información disponible en el Atlas Turístico de México, el Registro Nacional de Turismo y estudios sobre la demanda turística.
+El Estado, a través de la Secretaría, y los ayuntamientos estimularán y promoverán entre el sector privado y el sector social la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar las economías del Estado y de los municipios y con ello buscar el desarrollo regional sustentable. Los instrumentos para promover el desarrollo regional sustentable serán estudios socioeconómicos, ambientales y de mercado turístico, que tomarán en cuenta la información disponible en el Atlas Turístico de México, el Registro Nacional de Turismo y estudios sobre la demanda turística.
 
 ### CAPÍTULO III. Del turismo social
 
@@ -659,6 +639,10 @@ Los municipios que no aprobaren la evaluación de la Secretaría podrán solicit
 
 ### CAPÍTULO I. De las regiones turísticas
 
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA PUBLICADA EN LA G.O. DE 13 DE AGOSTO DE 2013, SE OBSERVA QUE EL PRESENTE ARTÍCULO, EN SU TEXTO ORIGINAL CONSTABA DE 10 FRACCIONES.</small>
+
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 45.
 
 La Secretaría propondrá al titular del Poder Ejecutivo del Estado el Programa de Ordenamiento para su aprobación, en su caso.
@@ -713,27 +697,37 @@ El resultado de la evaluación será remitido a la Secretaría y al titular del 
 
 ###### Artículo 54.
 
-Para la mejor atención a las necesidades y al desarrollo turístico, el Estado se dividirá en diez regiones turísticas, denominadas de la manera siguiente:
+Para la mejor atención a las necesidades y al desarrollo turístico, el Estado se dividirá en 7 regiones turísticas, denominadas de la manera siguiente:
 
-I. Región Turística de la Huasteca Alta, que incluirá a los municipios de Chalma, Chiconamel, Chinampa de Gorostiza, El Higo, Naranjos Amatlán, Ozuluama, Pánuco, Platón Sánchez, Pueblo Viejo, Tamalín, Tamiahua, Tampico Alto, Tantima, Tantoyuca y Tempoal;
+I. Región Turística Huasteca;
 
-II. Región Turística de la Huasteca Baja, que incluirá a los municipios de Álamo Temapache, Benito Juárez, Castillo de Teayo, Cerro Azul, Chicontepec, Chontla, Citlaltépetl, Huayacocotla, Ilamatlán, Ixcatepec, Ixhuatlán de Madero, Tancoco, Tepetzintla, Texcatepec, Tlachichilco, Tuxpan, Zacualpan y Zontecomatlán;
+II. Región Turística Totonaca;
 
-III. Región Turística Totonaca, que incluirá a los municipios de Cazones de Herrera, Chumatlán, Coahuitlán, Coatzintla, Coxquihui, Coyutla, Espinal, Filomeno Mata, Gutiérrez Zamora, Mecatlán, Papantla, Poza Rica de Hidalgo, Tecolutla, Tihuatlán y Zozocolco de Hidalgo;
+III. Región Turística Cultura y Aventura;
 
-IV. Región Turística del Nautla, que incluirá a los municipios de Atzalan, Colipa, Juchique de Ferrer, Martínez de la Torre, Misantla, Nautla, San Rafael, Tenochtitlán, Tlapacoyan, Vega de Alatorre y Yecuatla;
+IV. Región Turística Primeros Pasos de Cortés;
 
-V. Región Turística de la Capital "Cultura y Aventura", que incluirá a los municipios de Acajete, Acatlán, Actopan, Alto Lucero de Gutiérrez Barrios, Altotonga, Apazapan, Ayahualulco, Banderilla, Chiconquiaco, Coacoatzintla, Coatepec, Cosautlán de Carvajal, Emiliano Zapata, Ixhuacán de los Reyes, Jalacingo, Jalcomulco, Jilotepec, Landero y Coss, Las Minas, Las Vigas de Ramírez, Miahuatlán, Naolinco, Perote, Rafael Lucio, Tatatila, Teocelo, Tepetlán, Tlacolulan, Tlalnelhuayocan, Tonayán, Villa Aldama, Xalapa y Xico;
+V. Región Turística Altas Montañas;
 
-VI. Región Turística de las Montañas "Altas Montañas", que incluirá a los municipios de Acultzingo, Alpatláhuac, Amatlán de los Reyes, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Calcahualco, Camarón de Tejeda, Camerino Z. Mendoza, Carrillo Puerto, Chocamán, Coetzala, Comapa, Córdoba, Coscomatepec, Cuichapa, Cuitláhuac, Fortín, Huatusco, Huiloapan de Cuauhtémoc, Ixhuatlán del Café, Ixhuatlancillo, Ixtaczoquitlán, La Perla, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Paso del Macho, Rafael Delgado, Río Blanco, San Andrés Tenejapan, Sochiapa, Soledad Atzompa, Tehuipango, Tenampa, Tepatlaxco, Tequila, Texhuacan, Tezonapa, Tlacotepec de Mejía, Tlaltetela, Tlaquilpan, Tlilapan, Tomatlán, Totutla, Xoxocotla, Yanga, Zentla y Zongolica;
+VI. Región Turística Los Tuxtlas; y
 
-VII. Región Turística Sotavento "Primeros Pasos de Cortés", que incluirá a los municipios de Boca del Río, Cotaxtla, Jamapa, La Antigua, Manlio Fabio Altamirano, Medellín, Paso de Ovejas, Puente Nacional, Soledad de Doblado, Tlalixcoyan, Úrsulo Galván y Veracruz;
+VII. Región Turística Olmeca.
 
-VIII. Región Turística Papaloapan, que incluirá a los municipios de Acula, Alvarado, Amatitlán, Ángel R. Cabada, Carlos A. Carrillo, Chacaltianguis, Cosamaloapan, Ignacio de la Llave, Isla, Ixmatlahuacan, José Azueta, Juan Rodríguez Clara, Lerdo de Tejada, Otatitlán, Playa Vicente, Saltabarranca, Santiago Sochiapan, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tres Valles y Tuxtilla;
+> <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
-IX. Región Turística de Los Tuxtlas, que incluirá a los municipios de Catemaco, Hueyapan de Ocampo, San Andrés Tuxtla y Santiago Tuxtla; y
+###### Artículo 54 Bis.
 
-X. Región Turística Olmeca, que incluirá a los municipios de Acayucan, Agua Dulce, Chinameca, Coatzacoalcos, Cosoleacaque, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
+Se impulsará el posicionamiento de los principales segmentos turísticos en el Estado, mismos que serán normados en el reglamento de la presente Ley, respecto de:
+
+I. Sol y Playa;
+
+II. Cultural;
+
+III. De naturaleza y Aventura;
+
+IV. De Reuniones; y
+
+V. Náutico y deportivo.
 
 ### CAPÍTULO III. De las zonas de desarrollo turístico sustentable
 
@@ -775,6 +769,8 @@ IV. Destinar recursos presupuestales para el fomento de la actividad y desarroll
 
 ### CAPÍTULO I. De la promoción turística
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 58.
 
 Las Zonas de Desarrollo Turístico Sustentable, de conformidad con lo dispuesto por la Ley General, serán declaradas por el Ejecutivo Federal.
@@ -801,7 +797,11 @@ En el Reglamento de la presente Ley se establecerán los lineamientos de coordin
 
 ###### Artículo 63.
 
-Con las sugerencias de la Comisión, del Consejo y de los Consejos Municipales, la Secretaría realizará, por sí o con la colaboración de otras instituciones públicas o privadas, la promoción de la oferta turística, apoyándose para ello en el Fideicomiso Público del Impuesto por la Prestación de Servicios de Hospedaje y en los presupuestos que para tal efecto se determinen.
+Con las sugerencias del Consejo, la Secretaría promoverá el desarrollo de la marca turística Veracruz y que podrá ser aplicado en los municipios para una mejor promoción de sus potencialidades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE AGOSTO DE 2013)</small>
+
+Asimismo, generará la política marco de promoción de la oferta turística, la cual podrá aplicar, por sí o con la colaboración de otras instituciones públicas o privadas, apoyándose para ello en el Fideicomiso Público del Impuesto por la Prestación de Servicios de Hospedaje y en los presupuestos que para tal efecto se determinen.
 
 ###### Artículo 64.
 
@@ -841,7 +841,9 @@ Para la implantación de programas de fomento y desarrollo turístico y cultural
 
 El Fondo tendrá los objetivos siguientes:
 
-I. Fomentar apoyos y promover el desarrollo de infraestructura de servicios turísticos y empresas culturales en las regiones del Estado;
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
+
+I. Fomentar apoyos y promover el desarrollo de infraestructura detonadora de servicios y competitividad turística.
 
 II. Coadyuvar en la defensa de la oferta de empresas turísticas y del empleo en los sectores turístico y cultural;
 
@@ -1001,7 +1003,9 @@ En la prestación de los servicios turísticos no se permitirá la discriminaci�
 
 Los prestadores de servicios turísticos tendrán los derechos siguientes:
 
-I. Participar en el Consejo y en los Consejos Regionales y Municipales, de conformidad con las reglas de organización de los mismos;
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
+
+I. Participar en el Consejo de conformidad con lo establecido en el reglamento de la presente Ley.
 
 II. Aparecer en el Registro Nacional de Turismo;
 
@@ -1079,6 +1083,8 @@ XXV. Las demás que establezcan los ordenamientos federales y estatales.
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 98.
 
 Los visitantes tendrán, en los términos previstos en esta Ley, los siguientes derechos, con independencia de los que les asisten como consumidores:
@@ -1117,9 +1123,15 @@ IV. Pagar el precio de los servicios turísticos utilizados.
 
 ###### Artículo 100.
 
-La Secretaría, con el fin de evaluar los alcances de las políticas públicas de fomento de la actividad, medir la evolución del sector y contar con mayores herramientas para la toma de decisiones, integrará información sobre diversas variables socioeconómicas de la actividad turística en el Estado, tales como la generación de empleos, perfil y grado de satisfacción del turista, la afluencia de visitantes, la derrama económica, el número de establecimientos, el inventario de habitaciones y las inversiones públicas y privadas en el rubro turístico, entre otras.
+La Secretaría, con el fin de evaluar los alcances de las políticas públicas de fomento de la actividad, medir la evolución del sector y contar con mayores herramientas para la toma de decisiones, integrará información sobre diversas variables socioeconómicas de la actividad turística en el Estado, tales como la generación de empleos, perfil y grado de satisfacción del turista, la afluencia de visitantes, derrama económica, el número de establecimientos, el inventario de habitaciones y las inversiones públicas y privadas en el rubro turístico, entre otras.
 
-Para ello, contará con el auxilio de los sectores público, privado y social, empresas, instituciones académicas y autoridades competentes.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE AGOSTO DE 2013)</small>
+
+Asimismo y con la finalidad de fortalecer este sistema, se incluirán variables que permitan medir el comportamiento de los mercados turísticos internacionales, nacionales y regionales así como las tendencias que permitan articular una adecuada planeación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE AGOSTO DE 2013)</small>
+
+Para ello, se contará con el auxilio de los sectores público, privado y social, empresas, instituciones académicas y autoridades competentes.
 
 ###### Artículo 101.
 
@@ -1306,3 +1318,9 @@ G.O. 31 DE JULIO DE 2013.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 13 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
