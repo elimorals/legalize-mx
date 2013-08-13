@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-553-del-sistema-estatal-de-seguridad-publica-68984"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-24"
-last_updated: "2013-07-03"
+last_updated: "2013-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 553 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2013.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de junio de 2009.
 
@@ -1101,13 +1101,13 @@ Las relaciones jurídicas entre las Instituciones Policiales y sus integrantes s
 
 Todos los servidores públicos de las instituciones policiales que realizan funciones administrativas y no policiales, no pertenecen a la Carrera Policial y se consideran trabajadores de confianza. Los efectos de su nombramiento se podrán dar por terminado en cualquier momento, de conformidad con las disposiciones aplicables.
 
-> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 66.
 
-Los integrantes de las Instituciones Policiales podrán ser separados de su cargo si no cumplen con los requisitos que las leyes vigentes, en el momento de la separación, señalen para permanecer en las Instituciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación y, en su caso, sólo procederá la indemnización que en derecho corresponda.
+Los integrantes de las Instituciones Policiales podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación y, en su caso, sólo procederá la indemnización que en derecho corresponda.
 
-Tal circunstancia será asentada en el Registro correspondiente.
+Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado o el Municipio estará obligado a pagar la indemnización, la cual comprenderá el importe de veinte días de salario por cada uno de los años de servicios prestados, tres meses de salario y los salarios vencidos desde la fecha de la separación hasta que se cumplimente en definitiva la sentencia, así como las demás prestaciones a que tenga derecho al momento de la separación.
 
 ###### Artículo 67.
 
@@ -1997,7 +1997,7 @@ III. Regular, programar, orientar, organizar y en su caso modificar la prestaci�
 
 IV. Autorizar la prestación de los servicios de seguridad privada y su renovación en los términos previstos en esta ley y en las demás disposiciones legales y administrativas aplicables;
 
-V. Celebrar convenios con autoridades federales, estatales y municipales, con el objeto de establecer lineamientos, acuerdos y sistemas de apoyo mutuo para el mejor proveer del interés público relacionado con la prestación de servicios e seguridad privada;
+V. Celebrar convenios con autoridades federales, estatales y municipales, con el objeto de establecer lineamientos, acuerdos y sistemas de apoyo mutuo para el mejor proveer del interés público relacionado con la prestación de servicios de seguridad privada;
 
 VI. Mantener actualizado el registro de prestadores de servicios de seguridad privada, que deberá incluir en forma enunciativa los rubros de personal, vehículos, infraestructura, la modalidad en que se presta, autorizaciones, licencias, constancias de registros, sanciones impuestas; así también los cambios de socios, accionistas, gestores, representantes, apoderados, mandatarios legales y demás registros que sean necesarios a criterio de la Secretaría, al través de la Secretaría Ejecutiva;
 
@@ -2462,3 +2462,7 @@ G.O. 3 DE JULIO DE 2013.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE AGOSTO DE 2013.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
