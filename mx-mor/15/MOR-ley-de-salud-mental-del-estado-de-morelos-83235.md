@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-mental-del-estado-de-morelos-83235"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-12"
-last_updated: "2011-11-23"
+last_updated: "2013-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MOR"
 ---
 # LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-LEY DE SALUD MENTAL DEL ESTADO DE MORELOS.
+LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 23 DE NOVIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 
@@ -113,7 +111,7 @@ II.- Respetar los principios de autonomía individual, independencia, igualdad, 
 
 III.- Recibir apoyo por parte del Gobierno del Estado de Morelos, para el desarrollo de actividades que promuevan la integración social, laboral y el desarrollo de sus integrantes;
 
-IV.- Recibir capacitación y orientación por parte de las instituciones públicas, sociales y privadas;.
+IV.- Recibir capacitación y orientación por parte de las instituciones públicas, sociales y privadas;
 
 V.- Participar en actividades culturales, educativas, recreativas, deportivas y de esparcimiento, que contribuyan al desarrollo integral de las personas con alguna enfermedad mental;
 
@@ -757,9 +755,11 @@ La Secretaría de la Contraloría es competente para conocer las acciones u omis
 
 La Secretaría de Salud, conocerá de las contravenciones a las disposiciones señaladas en la presente Ley, sólo para el caso de los establecimientos.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 70.
 
-Se podrá interponer el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo del Estado, contra los actos que cometa la Secretaría en el ejercicio de sus funciones, y que consideren que ha vulnerado las disposiciones de esta Ley o de sus derechos que consagran las disposiciones legales.
+El interesado podrá interponer el medio de impugnación a que se refiere la Ley de Procedimiento Administrativo del Estado, contra los actos que cometa la Secretaría en el ejercicio de sus funciones, y que considere que vulneran las disposiciones de esta Ley o sus derechos que le consagran las disposiciones legales.
 
 ## TRANSITORIOS
 
@@ -804,3 +804,19 @@ SECRETARIO DE GOBIERNO
 Dr. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
