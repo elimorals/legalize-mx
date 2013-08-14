@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2013-07-29"
+last_updated: "2013-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE AGOSTO DE 2013.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -103,9 +103,13 @@ Admitida la demanda y contestada la misma, no podrán modificarse ni alterarse, 
 
 El desistimiento de la acción, la extingue; el de la demanda, posterior al emplazamiento, requerirá del consentimiento expreso del demandado y produce el efecto de volver las cosas al estado anterior a la misma. El desistimiento de la instancia, posterior al emplazamiento o el de la acción, obligan al pago de gastos y costas y de los daños y perjuicios causados, salvo convenio en contrario.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2013)</small>
 
-Se tendrá por abandonado un juicio y por perdido el derecho de las partes, si éstas no promueven durante ciento ochenta días naturales en la Primera Instancia o noventa días naturales en la Segunda, salvo los casos de fuerza mayor. El abandono en la Segunda Instancia, sólo da lugar a la pérdida del recurso y a la devolución de los autos.
+Se tendrá por abandonado el juicio o procedimiento y por perdido el derecho de las partes o interesados en jurisdicción voluntaria, si éstos no promueven durante ciento ochenta días en la primera instancia o noventa días en la segunda, salvo en los casos de fuerza mayor. El abandono en la segunda instancia sólo da lugar a la pérdida del recurso y a la devolución de los autos.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2013)</small>
+
+Tratándose de asuntos en jurisdicción voluntaria en los que se afecten derechos de menores o incapaces, será necesario escuchar el parecer del Agente del Ministerio Público adscrito.
 
 > <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
@@ -6186,3 +6190,9 @@ DECRETO NÚMERO 849, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 210
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Tratándose de los procedimientos de jurisdicción voluntaria actualmente en trámite, el término para la caducidad comenzará a correr a partir del inicio de la vigencia del presente Decreto.
