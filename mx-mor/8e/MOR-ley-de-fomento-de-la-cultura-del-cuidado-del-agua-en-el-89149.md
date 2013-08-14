@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-de-la-cultura-del-cuidado-del-agua-en-el-89149"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-22"
-last_updated: "2012-08-22"
+last_updated: "2013-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO DE LA CULTURA DEL CUIDADO DEL AGUA EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 22 de agosto de 2012.
 
@@ -69,7 +69,9 @@ VI.- TITULAR DEL EJECUTIVO: El Gobernador Constitucional del Estado de Morelos.
 
 VII.- GOBIERNO DEL ESTADO: El Gobierno del Estado Libre y Soberano de Morelos.
 
-VIII.- CEAMA: La Comisión Estatal del Agua y Medio Ambiente del Estado de Morelos.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VIII.- CEA: La Comisión Estatal del Agua del Estado de Morelos.
 
 IX.- RECOMENDACIÓN: Documento emitido por el Titular del Ejecutivo a través de la instancia que para tal efecto se instale, en el cual se establecerán los criterios y acciones a llevar a cabo, a fin de fomentar el uso racional y cuidado del agua en el estado.
 
@@ -79,9 +81,11 @@ X.- USO RACIONAL DEL AGUA: Son las acciones, estrategias y hábitos encaminados 
 
 ATRIBUCIONES EN MATERIA DE CUIDADO Y USO RACIONAL DEL AGUA.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 3.
 
-El Titular del Ejecutivo, a través de la CEAMA, ejercerá las siguientes atribuciones.
+El Titular del Ejecutivo, a través de la CEA, ejercerá las siguientes atribuciones.
 
 I.- Diseñar, difundir y ejecutar el Programa Estatal de Fomento al Cuidado y Uso Racional del Agua;
 
@@ -149,7 +153,9 @@ El consejo a que se refiere el artículo anterior, estará integrado por:
 
 I.- El Titular del Ejecutivo, como Presidente;
 
-II.- El Titular de la CEAMA, como Vicepresidente;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+II.- El Titular de la CEA, como Vicepresidente;
 
 III.- Un Secretario Técnico;
 
@@ -189,7 +195,9 @@ VI.- Emitir opiniones que le sean solicitadas y que tengan que ver con la materi
 
 VII.- Elaborar, publicar y difundir, material informativo sobre el cuidado y uso racional del agua; y (sic)
 
-VIII.- Solicitar el apoyo y asesoría técnica de la CEAMA, para diseñar, impulsar y difundir los programas y proyectos que se implementen en materia de cuidado y uso racional del agua.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VIII.- Solicitar el apoyo y asesoría técnica de la CEA, para diseñar, impulsar y difundir los programas y proyectos que se implementen en materia de cuidado y uso racional del agua.
 
 IX.- Expedir su Reglamento Interno;
 
@@ -312,3 +320,13 @@ SECRETARIO DE GOBIERNO.
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE AGOSTO DE 2013.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente.
