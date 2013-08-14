@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2013-04-03"
+last_updated: "2013-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -111,7 +111,9 @@ b) Cuando exista la probabilidad de violencia física y verbal en contra de los 
 
 c) Cuando la asamblea determine que no existen las condiciones de seguridad para sesionar en el salón de plenos.
 
-II. Cuanto a solicitud del Ejecutivo del Estado o de algún ayuntamiento, tratándose de la conmemoración de actos cívicos, políticos o históricos, la asamblea lo apruebe mediante acuerdo legislativo; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+II. Cuanto (sic) a solicitud del Ejecutivo del Estado o de algún Ayuntamiento, o de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, tratándose de la conmemoración de actos cívicos, políticos o históricos, la asamblea lo apruebe mediante acuerdo legislativo; y
 
 III. En casos fortuitos o de fuerza mayor, el Presidente de la Mesa Directiva notificará el cambio de sede a los integrantes de la Asamblea, a la brevedad que las circunstancias lo permitan, haciendo alusión a las causas que den origen.
 
@@ -2062,3 +2064,13 @@ P.O. 3 DE ABRIL DE 2013.
 ###### ARTÍCULO ÚNICO
 
 La vigencia de este Decreto iniciará al momento de su aprobación, y remítase al Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 14 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
