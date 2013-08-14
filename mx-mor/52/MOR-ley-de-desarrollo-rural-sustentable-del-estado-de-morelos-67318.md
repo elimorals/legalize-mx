@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2011-09-01"
+last_updated: "2013-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -903,6 +903,10 @@ Las Instituciones de enseñanza e investigación deberán incorporar a sus progr
 
 La Secretaría, el Comité Intersecretarial y el Consejo Estatal, formularán un Programa Especial de Sustentabilidad que garantice el manejo adecuado de los recursos naturales y la conservación de las tierras y aguas; bajo la coordinación y responsabilidad de las dependencias y entidades competentes.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+En la entidad queda restringido la extracción, uso, manejo, producción y/o almacenaje de sustancias o mezclas de las mismas, con características de corrosividad y/o explosividad y/o toxicidad y/o inflamabilidad y/o biológico infecciosas, de conformidad con las normas oficiales mexicanas y demás normatividad aplicable, en procesos productivos o de servicios o de investigación que pongan en riesgo las tierras, agua y la calidad de vida de los habitantes del Estado.
+
 ###### Artículo 72.
 
 Los gobiernos Federal, Estatal y Municipales, cuando así lo convengan con los productores, fomentarán el uso más pertinente de la tierra, con base a sus características y potencial productivo, así como las técnicas más adecuadas para la conservación y mejoramiento de las tierras, las cuencas y de las microcuencas.
@@ -1484,3 +1488,15 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para los ef
 El Subcomité Técnico especializado deberá ser integrado dentro de los 30 días naturales a la publicación del presente documento.
 
 ARTÍCULO CUATRO.- El Subcomité Técnico especializado contara con 30 días naturales después de su integración para la expedición de su reglamento o lineamientos que los rija para su operación.
+
+P.O. 14 DE AGOSTO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertar (sic)", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Segundo.- El Gobierno del Estado, tendrá un plazo de hasta 45 días para adecuar sus reglamentos internos conforme a la presente reforma.
+
+Tercero.- Se le otorgan 90 días al Titular del Poder Ejecutivo del Estado, para el efecto de que actualice el Reglamento de la Ley de Ordenamiento Territorial y Desarrollo Sustentable del Estado de Morelos.
+
+Cuarto.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Quinto.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
