@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2013-05-08"
+last_updated: "2013-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -39,7 +39,7 @@ CONSIDERANDO
 
 1.- Que tal y como lo consagra nuestra Carta Magna en su Artículo 3°. todo individuo tiene derecho a recibir educación, por lo que el Estado está obligado a impartir educación preescolar, primaria y secundaria; a promover y atender todos los tipos y modalidades educativos incluyendo la educación superior; a apoyar la investigación científica y tecnológica, y a alentar el fortalecimiento y difusión de nuestra cultura. La educación que imparta el Estado será invariablemente gratuita y laica, el criterio con que se debe orientar este servicio público en nuestro país se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, además será democrática y nacionalista.
 
-2.- Que el texto de esta garantía constitucional es el resultado de la voluntad popular y de sus ajustes sociales, por lo que al inicio de la presente década y reconociendo la importancia de la función que cumple la educación dentro del proceso de cambio social, así como su indiscutible carácter de factor de unidad nacional, y la necesidad de la participación de los particulares en la prestación del Servicio Público Educativo, el Gobierno de la República propuso al Constituyente Permanente la reforma del Artículo 3° Constitucional.
+2.- Que el texto de esta garantía constitucional es el resultado de la voluntad popular y de sus ajustes sociales, por lo que al inicio de la presente década y reconociendo la importancia de la función que cumple la educación dentro del proceso de cambio social, así como su indiscutible carácter de factor de unidad nacional, y la necesidad de la participación de los particulares en la prestación del Servicio Público Educativo, el Gobierno de la República propuso al Constituyente Permanente la reforma del Artículo 3°. Constitucional.
 
 Que publicada la reforma constitucional el 21 de enero de 1992, los gobernadores de los 31 Estados de la República suscribieron con la Secretaría de Educación Pública y el Sindicato Nacional de Trabajadores de la Educación, el 18 de mayo del mismo año, el Acuerdo Nacional para la Modernización de la Educación Básica, a fin de elevar la calidad de la educación pública y promover el mejoramiento de la calidad de la educación que con apego a las disposiciones vigentes, imparten los particulares.
 
@@ -69,7 +69,7 @@ Los Capítulos Octavo y Noveno se refieren a la Educación Media Superior y Supe
 
 En el Décimo Capítulo, se determinan las reglas generales que rigen la educación para los adultos y en el Capítulo Décimo Primero se hace referencia a la Educación Informal, destacando la importancia de los medios de comunicación y la necesidad de utilizar en el cumplimiento de la tarea educativa los medios que proporciona el avance tecnológico.
 
-En el Título Tercero, se resalta la importancia de la planeación y evaluación educativa para el desarrollo del Estado, sin lugar a dudas uno de los grandes avances en materia educativa, aquí se propone la creación de una Comisión que de manera permanente evalúe el Sistema Educativo en el Estado por que a juicio de este Congreso se debe de tener en todo momento la certeza de cual es el alcance real de la educación que se imparta en nuestra Entidad pues al contar con datos estadísticos y técnicos se podrá mejorar los contenidos y los programas educativos.
+En el Título Tercero, se resalta la importancia de la planeación y evaluación educativa para el desarrollo del Estado, sin lugar a dudas uno de los grandes avances en materia educativa, aquí se propone la creación de una Comisión que de manera permanente evalúe el Sistema Educativo en el Estado por que a juicio de este Congreso se debe de tener en todo momento la certeza de cual es el alcance real de la educación que se imparta en nuestra Entidad pues al contar con datos estadísticos y técnicos se podrá (sic) mejorar los contenidos y los programas educativos.
 
 El Título Cuarto está dedicado a la participación social en la educación y contiene las normas que especifican los derechos y obligaciones de los padres de familia y de quienes, en su caso, ejercen la patria potestad sobre los educandos y las relativas a la integración y funcionamiento de los Consejos de Participación Social que deben operar, tanto a nivel estatal como municipal y en el marco de cada una de las instituciones educativas, con el objeto de propiciar la mayor atención de la comunidad en el correcto funcionamiento de la escuela, sus instalaciones, su mobiliario, el material didáctico de que disponen los maestros y el cumplimiento de los planes y programas de estudio.
 
@@ -113,21 +113,23 @@ El Gobierno del Estado y los Municipales, destinarán presupuestos necesarios y 
 
 Asimismo podrán convenir con la Federación, formas de financiamiento conjunto para la ampliación y mejoramiento de los servicios educativos que se prestan en el Estado.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 5.
 
-Los Gobiernos Estatal y Municipal, en el ámbito de sus respectivas competencias y atribuciones y las instituciones en que el propio Estado descentralice funciones educativas, están obligados a prestar servicios educativos para que todos los habitantes del Estado puedan cursar la educación preescolar, la primaria y la secundaria; asimismo, están facultados para prestar servicios de educación normal y los de formación, actualización, capacitación y superación profesional para los maestros.
+Los Gobiernos Estatal y Municipal, en el ámbito de sus respectivas competencias y atribuciones y las instituciones en que el propio Estado descentralice funciones educativas, están obligados a prestar servicios educativos para que todos los habitantes del Estado puedan cursar la educación preescolar, la primaria, la secundaria y media superior; asimismo, están facultados para prestar servicios de educación normal y los de formación, actualización, capacitación y superación profesional para los maestros.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 6.
 
-Todos los habitantes del Estado deben cursar la educación preescolar, primaria y secundaria. Es obligación de los padres y tutores, lograr que sus hijos y pupilos, cursen tal instrucción.
+Todos los habitantes del Estado deben cursar la educación preescolar, primaria, secundaria y media superior. Es obligación de los padres y tutores, lograr que sus hijos cursen la instrucción.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 7.
 
-La educación básica que imparta el Gobierno del Estado, los Municipios y sus organismos descentralizados, será gratuita, laica y obligatoria.
+La educación básica y media superior que imparta el Gobierno del Estado, los Municipios y sus organismos descentralizados, será gratuita, laica y obligatoria.
 
 ###### ARTICULO 8.
 
@@ -1500,3 +1502,13 @@ Se sancionará conforme a la legislación vigente a toda autoridad escolar que i
 ###### Artículo 3.
 
 Se derogan todas las leyes, normas o lineamientos que se contrapongan a la presente.
+
+P.O. 14 DE AGOSTO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+Segundo.- La obligatoriedad del Estado de garantizar la educación media superior, se ajustará a los términos previstos en el artículo segundo transitorio del decreto por el que se declara reformado el párrafo primero; el inciso c) de la fracción II y la fracción V del artículo 3°, y la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación, con fecha nueve de febrero de dos mil doce.
+
+Tercero.- Para dar cumplimiento al principio de obligatoriedad de la educación media superior, el Congreso del Estado de Morelos, realizará las asignaciones presupuestales correspondientes a cada ejercicio fiscal, a efecto de garantizar la plena consecución de la presente reforma.
+
+Cuarto.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47 de la Constitución Política del Estado de Morelos.
