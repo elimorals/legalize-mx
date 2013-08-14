@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-para-el-desarrollo-de-8442
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-21"
-last_updated: "2011-12-21"
+last_updated: "2013-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA PARA EL DESARROLLO DE LA FRONTERA SUR Y ENLACE PARA LA COOPERACIÓN INTERNACIONAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 21 de diciembre de 2011.
 
@@ -193,7 +193,13 @@ XXV. Emitir documentos administrativos para el suministro y control de los recur
 
 XXVI. Establecer vínculos con instituciones académicas y de investigación para la realización de análisis e investigaciones sobre el fenómeno migratorio en el Estado, a nivel internacional, así como aquellos que permitan el intercambio artístico, cultural y la cooperación técnica y científica a nivel internacional.
 
-XXVII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XXVII. Promover, en coordinación con el gobierno Federal y Municipal, Instituciones Públicas y Sectores Social y Privado, acciones que fomenten el apoyo y respeto a los derechos humanos del migrante chiapaneco a través del Módulo de Atención al Migrante Chiapaneco, entre otros.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XXVIII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Ejecutivo del Estado; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 14.
 
@@ -607,7 +613,13 @@ XII. Proponer al Secretario, la investigación y estudios de proyectos para fome
 
 XIII. Intervenir como enlace con instituciones académicas y de investigación para la realización de análisis e investigaciones sobre el fenómeno migratorio en el Estado.
 
-XIV. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Secretario, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XIV. Impulsar, en coordinación con el gobierno Federal y Municipal, Instituciones Públicas y Sectores Social y Privado, acciones que fomenten el apoyo y respeto a los derechos humanos del migrante chiapaneco a través del Módulo de Atención al Migrante Chiapaneco, entre otros.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XV. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Secretario; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 28.
 
@@ -743,6 +755,10 @@ b) Departamento de Atención a Comunidades de Origen.
 
 c) Departamento de Protección y Asistencia a Emigrantes.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+d) Módulo de Atención al Migrante Chiapaneco.
+
 ###### Artículo 34.
 
 El Titular de la Dirección de Chiapanecos en el Exterior, tendrá las atribuciones siguientes:
@@ -765,7 +781,37 @@ VIII. Participar con Instituciones Federales y Estatales de manera coordinada pa
 
 IX. Coordinar del (sic) sistema de protección, vinculación y repatriación de chiapanecos en el exterior, con programas asistenciales y de desarrollo, conjuntamente con las Dependencias y Entidades de los tres órdenes de gobierno.
 
-X. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subsecretario de Atención a Migrantes, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+X. Proponer al Subsecretario de su adscripción, las acciones, proyectos y programas a realizar, para la atención del migrante chiapaneco.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XI. Proporcionar los medios y estrategias para la asistencia y orientación al migrante chiapaneco que se encuentra temporal o permanentemente, fuera del Estado o del país.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XII. Intervenir como vínculo con autoridades de los tres niveles de gobierno, sociedad civil organizada y comunidad de chiapanecos en el exterior, para obtener el abastecimiento de las necesidades materiales elementales de manera temporal.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XIII. Solicitar a Instituciones Públicas del Estado, el apoyo para promover ante estas Instancias acciones necesarias para proporcionar servicios de salud, educación, trabajo, identidad, entre otros con eficiencia y calidad en la atención al migrante chiapaneco.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XIV. Promover ante las instancias correspondientes medios para asegurar el respeto a los derechos humanos del migrante chiapaneco fuera del Estado y del País.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XV. Proporcionar el apoyo necesario para el retorno a Chiapas, cuando así lo requieran los migrantes que se albergan en el Módulo de Atención al Migrante Chiapaneco y otros puntos fronterizos, en coordinación con los tres órdenes de gobierno y sociedad civil organizada.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XVI. Implementar acciones para analizar y evaluar el impacto de los proyectos y programas realizados en atención al migrante chiapaneco, para determinar su modificación o consolidación como estrategias de desarrollo.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XVII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Subsecretario de su adscripción; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 35.
 
@@ -953,9 +999,11 @@ Los Subsecretarios y Titulares de las Unidades, serán suplidos en sus ausencias
 
 Los Titulares de las Direcciones, serán suplidos en sus ausencias temporales, por el servidor público que designe el Subsecretario de su adscripción, previo acuerdo y aprobación del Secretario.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 49.
 
-Los Titulares de los Departamentos, y Jefes de Unidad, serán suplidos en sus ausencias temporales, por los servidores públicos que designen los Titulares de las Direcciones y Unidades, según correspondan, previo acuerdo con el Subsecretario de su adscripción y aprobación del Secretario, según corresponda.
+Los Titulares de las Áreas, Departamentos y del Módulo de Atención al Migrante Chiapaneco, serán suplidos en sus ausencias temporales, por el servidor público que designen los Titulares de las Unidades o Direcciones, según correspondan, previo acuerdo con el Subsecretario de su adscripción y aprobación del Secretario.
 
 T r a n s i t o r i o s
 
@@ -976,3 +1024,21 @@ Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 8°, de la 
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los treinta y un días del mes de octubre del año dos mil once.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Andrea Hernández Fitzner, Secretaria para el Desarrollode (sic) la Frontera Sur y Enlace para la Cooperación Internacional.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE AGOSTO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Para las cuestiones no previstas en este Decreto, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Secretario, resolverá lo conducente.
+
+Artículo Cuarto.- El Manual de Organización de la Secretaría, deberá actualizarse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Decreto.
+
+Artículo Quinto.- En tanto se actualizan los Manuales Administrativos, el Secretario resolverá las incidencias de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto.- La Secretaría deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
