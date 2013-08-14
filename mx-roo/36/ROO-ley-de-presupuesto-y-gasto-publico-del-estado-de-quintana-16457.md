@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-presupuesto-y-gasto-publico-del-estado-de-quintana-16457
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-16"
-last_updated: "2012-07-20"
+last_updated: "2013-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "ROO"
 ---
 # LEY DE PRESUPUESTO Y GASTO PUBLICO DEL ESTADO DE QUINTANA ROO -- ANTES LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE QUINTANA ROO --
 
-LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE QUINTANA ROO
+LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 20 DE JULIO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 125 PUBLICADO EN EL P.O. DE 20 DE JUNIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial el 16 de diciembre de 1993.
 
@@ -77,7 +75,7 @@ V.- Las Empresas de Participación Estatal Mayoritarias.
 
 VI.- Los Fideicomisos en que el Fideicomitente sea el Gobierno del Estado, o algunas de las entidades mencionadas en las fracciones IV y V.
 
-A los Poderes, Dependencias, Organismos, Empresas y Fideicomisos comprendidos en las fracciones antes mencionadas se les de nominará genéricamente en esta ley "Entidades" salvo mención expresa.
+A los Poderes, Dependencias, Organismos, Empresas y Fideicomisos comprendidos en las fracciones antes mencionadas se les denominará genéricamente en esta ley "Entidades" salvo mención expresa.
 
 ###### ARTICULO 7.
 
@@ -146,6 +144,10 @@ El Presupuesto de Egresos del Estado de Quintana Roo comprenderá también en ca
 ###### ARTICULO 21.
 
 Para la formulación del proyecto de Presupuesto de Egresos del Estado, las entidades que deban quedar comprendidas en el mismo, elaborarán sus anteproyectos de presupuesto con base en los programas respectivos.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Asimismo, en los proyectos de presupuesto de egresos, se deberán incluir los tabuladores de remuneraciones que percibirán los servidores públicos del Estado.
 
 ###### ARTICULO 22.
 
@@ -484,3 +486,9 @@ PROFRA. SARA ESTHER MUZA SIMON.
 P.O. 20 DE JUNIO DE 2012.
 
 ÚNICO. Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 14 DE AGOSTO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor una vez inicie la vigencia de las disposiciones contempladas en el decreto mediante el cual reforma la fracción IV del artículo 21, el párrafo décimo primero de la fracción II del artículo 49, la fracción VI del articulo 103, el primer párrafo del artículo 111, el artículo 118, la fracción V del artículo 153 y el artículo 165; y se adicionan los párrafos segundo y tercero a la fracción XXX del artículo 75 y un párrafo tercero al artículo 94, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+SEGUNDO. Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
