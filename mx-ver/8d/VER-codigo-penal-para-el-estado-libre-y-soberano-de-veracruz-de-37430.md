@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2013-07-09"
+last_updated: "2013-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE AGOSTO DE 2013.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -273,17 +273,21 @@ No hay concurso cuando las conductas constituyen un delito continuado.
 
 ### CAPÍTULO VII. REINCIDENCIA Y HABITUALIDAD
 
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 33.
 
-Hay reincidencia siempre que el condenado por sentencia ejecutoria, dictada por cualquier tribunal de la República Mexicana o del extranjero, cometa otro delito en la entidad.
+Hay reincidencia siempre que el condenado por sentencia ejecutoria, dictada por cualquier tribunal de la República Mexicana o del extranjero, cometa otro delito en la entidad, si no ha transcurrido, desde el cumplimiento de la condena, un término igual al de la prescripción de la pena.
 
 ###### Artículo 34.
 
 La condena impuesta en el extranjero o en otra entidad federativa se tendrá en cuenta si proviniere de algún delito que tenga tal carácter en el Estado.
 
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 35.
 
-Se considerará delincuente habitual quien haya sido condenado, cuando menos, por tres delitos dolosos del mismo género.
+Se considerará delincuente habitual o multirreincidente a quien haya sido condenado, cuando menos, por tres delitos dolosos del mismo género.
 
 ###### Artículo 36.
 
@@ -737,11 +741,15 @@ El responsable de tentativa será sancionado, salvo disposición en contrario, c
 
 ### CAPÍTULO IV. REINCIDENCIA
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 87.
 
-Al reincidente se le aplicará la sanción que corresponda por el último delito cometido, la que podrá aumentarse hasta el máximo de setenta años de privación de libertad, según la peligrosidad del delincuente o la mayor o menor gravedad de la culpa en que se haya incurrido. En el caso, el sentenciado no podrá gozar de los beneficios o de los sustitutivos penales que este código prevé.
+Al reincidente se le aplicará la sanción que corresponda por el último delito cometido, la que podrá aumentarse hasta en una tercera parte, según la peligrosidad del delincuente o la mayor o menor gravedad de la culpa en que haya incurrido.
+
+Al delincuente habitual o multirreincidente se le aplicará la pena del último delito cometido, la que podrá aumentarse hasta el máximo de setenta años de privación de libertad, según su peligrosidad.
+
+En los casos previstos en este artículo, el sentenciado no podrá gozar de los beneficios o de los sustitutivos penales que este código prevé.
 
 ### CAPÍTULO V. CONCURSO DE DELITOS Y DELITO CONTINUADO
 
@@ -3847,7 +3855,7 @@ Segundo. Se derogan los artículos 243 Bis, 250 y 293 del Código Penal para el 
 
 G.O. 29 DE AGOSTO DE 2011.
 
-DECRETO NUMERO 291 POR EL QUE SE REFORMA EL ARTICULO 339 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO NÚMERO 291 POR EL QUE SE REFORMA EL ARTÍCULO 339 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
@@ -3912,3 +3920,9 @@ G.O. 9 DE JULIO DE 2013.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE AGOSTO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
