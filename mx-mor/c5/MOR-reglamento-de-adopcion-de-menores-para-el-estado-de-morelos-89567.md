@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-adopcion-de-menores-para-el-estado-de-morelos-895
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-26"
-last_updated: "2012-09-26"
+last_updated: "2013-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE ADOPCIÓN DE MENORES PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 26 de septiembre de 2012.
 
@@ -171,11 +171,13 @@ XIV. Presentar constancia que acredite haber aprobado satisfactoriamente el Tall
 
 XV. Aceptación expresa de que el Sistema realice el seguimiento para verificar el sano desarrollo del adoptado, por el tiempo establecido en el presente Reglamento;
 
-XVI. Original de constancia de libertad de gravamen, expedida por el Instituto del Registro Público de la Propiedad y del Comercio del Estado de Morelos, respecto de los bienes inmuebles de los solicitantes o, en su caso Certificado Agrario, Constancia de Bienes Comunales o Ejidales, por lo menos, a nombre de un solicitante, y de ser arrendatarios o comodatarios deben presentar la documentación que lo acredite;
+XVI. (DEROGADA, P.O. 14 DE AGOSTO DE 2013)
 
-XVII. Carta compromiso en la que los solicitantes de adopción se comprometan a coadyuvar para actualizar su documentación así como en todo lo relacionado a la tramitación del procedimiento administrativo, judicial y post-adoptivo, y
+XVII. (DEROGADA, P.O. 14 DE AGOSTO DE 2013)
 
-XVIII. Tanto en las adopciones nacionales como extranjeras, así como en las internas y externas, obtener el Certificado de Idoneidad emitido por la Procuraduría, previa aprobación del Consejo Técnico de Adopciones, cuando de acuerdo con los resultados de las valoraciones practicadas por las áreas psicológica, de trabajo social, médica y jurídica, los solicitantes resulten ser personas dignas de confianza, de buenas costumbres, disfruten de buena salud y cuenten con los medios suficientes para proveer la subsistencia, cuidado y educación personal de quien pretendan adoptar. No será necesario recabar este documento en el caso de adopciones de uno de los hijos del cónyuge.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XVIII. Tanto en las adopciones nacionales como extranjeras, que sean internas deberán obtener el Certificado de Idoneidad emitido por la Procuraduría, previa aprobación del Consejo Técnico de Adopciones, cuando de acuerdo con los resultados de las valoraciones practicadas por las áreas psicológica, de trabajo social, médica y jurídica, los solicitantes resulten ser personas dignas de confianza, de buenas costumbres, disfruten de buena salud y cuenten con los medios suficientes para proveer la subsistencia, cuidado y educación personal de quien pretendan adoptar. No será necesario recabar este documento en el caso de adopciones de uno de los hijos del cónyuge.
 
 El Sistema se reserva el derecho de solicitar algún otro documento que sea necesario para acreditar la idoneidad de los solicitantes, así como en los casos en que éstos no cuenten con alguna documentación se podrá solicitar que presenten su equivalente u otro instrumento idóneo para el mismo fin.
 
@@ -231,33 +233,19 @@ Las valoraciones psicológicas se realizarán a los solicitantes de adopción e 
 
 Las valoraciones deben realizarse mediante entrevistas psicológicas de, por lo menos, 10 sesiones y en la primera entrevista se atenderá de manera conjunta a la pareja solicitante de adopción.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Cuando se trate de niñas o niños, menores de cinco años, éstos se someterán a una valoración de desarrollo realizada por un profesionista o especialista en comunicación humana del Sistema, donde se determinará cuál es el nivel de lenguaje, de motricidad, de sensopercepción, entre otros aspectos, que corresponda a su edad cronológica.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Ante la imposibilidad de someterlos a una valoración psicológica, se expedirá una valoración de desarrollo realizada por el profesionista o especialista en comunicación humana que asigne el Sistema.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 11.
 
-Para emitir los dictámenes psicológicos se presentarán por escrito, en un término no mayor de 90 días a partir de la recepción de la solicitud, y para ello también será necesario aplicar una batería de pruebas proyectivas y objetivas de manera uniforme, que sean medibles y fáciles para verificar las conductas psicológicas de los solicitantes, a fin de detectar aquellos posibles riesgos qué puedan afectar el sano desarrollo de las niñas, niños, adolescentes o incapacitados sujetos de adopción.
-
-Las pruebas que se apliquen deberán dar a conocer si el solicitante cuenta o no con:
-
-I. Rasgos de personalidad depresiva, ansiosa, psicópata o maníaca, así como cualquier otra patología identificada en las pruebas que tenga posibilidades de desarrollarse;
-
-II. Inestabilidad emocional del o los solicitantes;
-
-III. Inestabilidad o poca solidez de pareja, en su caso;
-
-IV. Tendencia a un comportamiento violento;
-
-V. Deficiente cuidado de sí mismo o la incapacidad para atender y cuidar de otros;
-
-VI. Desórdenes alimenticios, de conformidad con la Ley para la Prevención y Tratamiento de Trastornos Alimenticios en el Estado de Morelos;
-
-VII. Comportamiento autodestructivo;
-
-VIII. Problemas de identidad y rol;
-
-IX. Escasa adaptación al medio, y, en su caso, contar con pocas redes de apoyo social y familiar;
-
-X. Motivación o razones para adoptar que no favorezcan al sujeto de adopción, como intentar suplir a un hijo muerto, sentirse fracasado en la labor de crianza, la no aceptación del hecho de no poder procrear o desear un hijo sin tener que pasar por el embarazo y parto, y
-
-XI. Demás datos adicionales que considere relevantes para verificar las condiciones de vida y personalidad de los solicitantes de adopción.
+Para emitir los dictámenes psicológicos se presentarán por escrito, en un término no mayor de 60 días, a partir de la recepción de la solicitud, y para ello también será necesario aplicar una batería de pruebas proyectivas y objetivas de manera uniforme, que sean medibles y fáciles para verificar el estado emocional de los solicitantes así como rasgos de personalidad que pudieran influir negativamente en el sano desarrollo de las niñas, niños, adolescentes o incapacitados, sujetos de adopción.
 
 ###### Artículo 12.
 
@@ -285,6 +273,8 @@ El área valoradora está obligada a notificar a los solicitantes el impedimento
 
 CONSEJO TÉCNICO DE ADOPCIONES.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 15.
 
 El Consejo Técnico de Adopciones estará integrado por consejeros y se estructurará de la siguiente manera:
@@ -293,23 +283,25 @@ I. Un Presidente, que será la persona titular de la Dirección General del Sist
 
 II. Un Secretario Técnico, que será la persona titular de la Procuraduría;
 
-III. Ocho Vocales, que serán:
+III. Nueve Vocales, que serán:
 
-a) El titular de la casa asistencial de la cual proceda la niña, niño, adolescente o incapacitado;
+a) La persona titular de la casa asistencial de la cual proceda la niña, niño, adolescente o incapacitado;
 
-b) El titular de las áreas de Trabajo Social y de Psicología del Sistema;
+b) La persona titular del área de trabajo social del departamento de adopciones del Sistema;
 
-c) El titular del área médica de la casa asistencial de la cual proceda la niña, niño, adolescente o incapacitado;
+c) La persona titular del área de psicología del departamento de adopciones del Sistema
 
-d) La persona titular del área que se encargue de las adopciones en el Sistema;
+d) La persona titular del área médica de la casa asistencial de la cual proceda la niña, niño, adolescente o incapacitado;
 
-e) La persona titular de la Subdirección de Albergues de la Procuraduría;
+e) La persona titular del área que se encargue de las adopciones en el Sistema;
 
-f) Un representante del Poder Judicial en el Estado;
+f) La persona titular de la Subdirección de Albergues de la Procuraduría;
 
-g) Un representante de la Procuraduría General de Justicia en el Estado, y
+g) Un representante del Poder Judicial en el Estado;
 
-h) Un representante de la Secretaría de la Contraloría, que será el Comisario Público, quién participará con voz, pero sin voto.
+h) Un representante de la Procuraduría General de Justicia en el Estado, y
+
+i) Un representante de la Secretaría de la Contraloría, que será el Comisario Público, quién participará con voz, pero sin voto.
 
 ###### Artículo 16.
 
@@ -387,7 +379,9 @@ V. Guardar estricta y absoluta confidencialidad de la información y documentos 
 
 VI. Verificar que las adopciones estén debidamente requisitadas conforme al presente Reglamento, a los Códigos Familiar y Procesal Familiar ambos para el Estado Libre y Soberano de Morelos y demás disposiciones jurídicas locales, estatales, federales e internacionales aplicables;
 
-VII. Analizar y evaluar los resultados de las valoraciones practicadas por las áreas psicológica, de trabajo social, médica y jurídica de la Procuraduría; para que, en caso de ser procedente, se les expida la constancia que acredite que pasaron a lista de espera, así como el Certificado de Idoneidad;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VII. Expedir los resultados de las valoraciones practicadas por las áreas de psicología, de trabajo social, médica y jurídica de la Procuraduría; para que, en caso de ser procedente, se les expida la constancia que acredite que pasaron a lista de espera, así como el Certificado de Idoneidad;
 
 VIII. Analizar la viabilidad y autorizar los casos de las niñas, niños, adolescentes e incapacitados, cuya situación jurídica con su familia de origen se encuentre resuelta y puedan ser susceptibles de adopción;
 
@@ -591,11 +585,13 @@ XII. Realizar los peritajes e investigaciones necesarios para lograr los fines d
 
 CAPACITACIÓN A PAREJAS SOLICITANTES DE ADOPCIÓN.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 30.
 
-Las parejas solicitantes de adopción deberán acudir a los Talleres para Padres Adoptivos en proceso, que serán impartidos por profesionistas en materia de psicología del área de adopciones del Sistema o institución similar de su residencia habitual, vinculada con el proceso de adopción, a fin de capacitarse e integrarse a una paternidad adoptiva, con el objeto de que cuenten con los conocimientos y métodos necesarios para adaptarse a las circunstancias cambiantes de adoptar, de tal forma que para ser candidatos de adopción deberán asistir, por lo menos, a 8 de 10 sesiones del taller para padres adoptivos.
+Las parejas solicitantes de adopción interna de niña, niño, adolescente o incapacitado, que ha ingresado a cualquier Casa Asistencial del Sistema del Estado de Morelos, deberán acudir a los Talleres para Padres Adoptivos en proceso, que serán impartidos por profesionistas en materia de psicología del área de adopciones del Sistema o institución similar de su residencia habitual, vinculada con el proceso de adopción, a fin de capacitarse e integrarse a una paternidad adoptiva, con el objeto de que cuenten con los conocimientos y métodos necesarios para adaptarse a las circunstancias cambiantes de adoptar; de tal forma que para ser candidatos de adopción deberán asistir, por lo menos, a 8 de 10 sesiones del taller para padres adoptivos.
 
-El área de psicología del Sistema brindará apoyo psicoterapéutico y de auto ayuda a padres con hijos adoptivos, formando grupos de padres adoptivos que en conjunto con los profesionales se reúnan de forma mensual, para buscar alternativas de apoyo y atender las dificultades potenciales cambiantes de la adopción.
+Los padres que han concluido con el proceso de adopción podrán solicitar el apoyo del Sistema psicoterapéutico y asesoría para enfrentar situaciones que puedan vulnerar la relación con el adoptado.
 
 ### CAPÍTULO VI
 
@@ -725,9 +721,11 @@ No obstante el artículo anterior las convivencias de las niñas, niños, adoles
 
 #### SECCIÓN PRIMERA. ADOPCIONES NACIONALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 46.
 
-Una vez que el adoptado se ha incorporado al seno de una familia adoptiva, la Procuraduría realizará el seguimiento por conducto de las áreas de Psicología y Trabajo Social, durante un período de dos años, con visitas domiciliarias cada tres meses, en las cuales:
+Una vez que el adoptado se ha incorporado al seno de una familia adoptiva, la Procuraduría, realizará el seguimiento por conducto de las áreas de Psicología y Trabajo Social, durante un período de dos años, con visitas domiciliarias cada seis meses, en las cuales:
 
 I. El área de psicología supervisará la dinámica familiar, apoyando y asesorando a los padres en un espacio de respeto y confianza que favorezca la sana integración del hijo en la familia, considerando ante todo el interés Superior del Niño, y
 
@@ -964,3 +962,15 @@ LA PROCURADORA DE LA DEFENSA DEL MENOR Y LA FAMILIA.
 MTRA. SARA OLIVIA PARRA TÉLLEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE AGOSTO DE 2013.
+
+PRIMERA. El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+TERCERA. En un plazo no mayor a treinta días hábiles, deberá instalarse el Consejo Técnico de Adopciones del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos.
+
+CUARTA. Las personas que sean parte en los procedimientos iniciados ante la Procuraduría de la Defensa del Menor y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, podrán verse beneficiados, de ser el caso, con la aplicación retroactiva de las disposiciones del presente Decreto.
