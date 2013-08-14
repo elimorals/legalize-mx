@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-consejo-estatal-para-la-cultura-y-las-artes-800
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-14"
-last_updated: "2011-02-14"
+last_updated: "2013-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Puebla, el lunes 14 de febrero de 2011.
 
@@ -147,7 +147,7 @@ XXXVIII.- Las demás que le atribuyan esta Ley, la Ley de Cultura del Estado de 
 
 El Consejo Estatal apoyará el funcionamiento del Consejo Ciudadano.
 
-### CAPÍTULO Il. DE LA ESTRUCTURA Y ADMINISTRACIÓN
+### CAPÍTULO II. DE LA ESTRUCTURA Y ADMINISTRACIÓN
 
 ###### ARTÍCULO 4.
 
@@ -165,19 +165,45 @@ El Órgano de Gobierno del Consejo Estatal estará integrado por los miembros si
 
 I.- Un Presidente, que será el Gobernador de Estado;
 
-II.- Un Vicepresidente, que será el Secretario de Educación Pública;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
 
-III.- Cinco Vocales, que serán el Secretario General de Gobierno, el Secretario de Turismo, el Secretario de Finanzas, el Secretario de Administración y el Secretario de Competitividad, Trabajo y Desarrollo Económico; y
+II.- El Secretario General de Gobierno;
 
-IV.- Un Comisario nombrado por la Secretaría de la Contraloría.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
 
-Los cargos del Órgano de Gobierno serán honoríficos. Los miembros a que se refieren las fracciones I a III tendrán voz y voto. El Comisario sólo contará con voz.
+III.- El Secretario de Educación Pública;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+IV.- El Secretario de Turismo;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+V.- El Secretario de Finanzas y Administración;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VI.- El Secretario de Competitividad, Trabajo y Desarrollo Económico; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VII.- Un Comisario nombrado por la Secretaría de la Contraloría.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Los cargos del Órgano de Gobierno serán honoríficos. Los miembros a que se refieren las fracciones I a VI tendrán voz y voto. El Comisario sólo contará con voz.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+De los funcionarios señalados en las fracciones II, III, IV, V y VI, el Presidente designará al que fungirá como Vicepresidente del Órgano de Gobierno, desempeñando el resto el cargo de vocales.
 
 El Presidente del Órgano de Gobierno del Consejo Estatal podrá invitar a las sesiones de dicho órgano a representantes de instituciones públicas, federales, estatales o municipales que guarden relación con el objeto del propio Consejo, y quienes tendrán únicamente derecho a voz.
 
-Por cada miembro propietario habrá un suplente. El Presidente del Consejo Estatal será suplido en sus ausencias por el Vicepresidente. Los demás miembros serán suplidos conforme a lo establecido en el Reglamento Interior de sus dependencias.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
 
-El Secretario Ejecutivo, el Secretario Técnico del Consejo Estatal, así como el titular de Fomento Cultural Poblano asistirán a las sesiones y tendrán únicamente derecho a voz.
+Por cada miembro propietario habrá un suplente. El Presidente del Órgano de Gobierno del Consejo Estatal será suplido en sus ausencias por el Vicepresidente. Los demás miembros serán suplidos conforme a lo establecido en el Reglamento Interior de sus dependencias.
+
+El Secretario Ejecutivo, el Secretario Técnico del Consejo Estatal, así como el Titular de Fomento Cultural Poblano asistirán a las sesiones y tendrán únicamente derecho a voz.
 
 ###### ARTÍCULO 6.
 
@@ -221,13 +247,25 @@ II.- Fijar las políticas para la elaboración y desarrollo de los programas y p
 
 III.- Fijar las políticas de supervisión y seguimiento de las actividades a cargo del Secretario Ejecutivo y ordenar su ejecución;
 
-IV.- Nombrar y remover libremente al titular de Fomento Cultural Poblano;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
 
-V.- Proponer al Órgano de Gobierno el nombramiento del Secretario Técnico del Consejo Estatal;
+IV.- Nombrar y remover libremente al Vicepresidente del Consejo Ciudadano para la Cultura;
 
-VI.- Proponer al Órgano de Gobierno el nombramiento del Coordinador de Comités Técnicos Especializados del Consejo Estatal; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
 
-VII.- Ratificar el nombramiento de los servidores públicos de primer nivel que le sean propuestos por el Secretario Ejecutivo para formar parte de sus áreas sustantivas y operativas.
+V.- Nombrar y remover libremente al Titular de Fomento Cultural Poblano;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VI.- Proponer al Órgano de Gobierno el nombramiento del Secretario Técnico del Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VII.- Proponer al Órgano de Gobierno el nombramiento del Coordinador de Comités Técnicos Especializados del Consejo Estatal; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VIII.- Ratificar el nombramiento de los servidores públicos de primer nivel que le sean propuestos por el Secretario Ejecutivo para formar parte de sus áreas sustantivas y operativas.
 
 El Vicepresidente del Órgano de Gobierno del Consejo Estatal tendrá las siguientes facultades:
 
@@ -353,7 +391,7 @@ VI.- Los que conforme a las disposiciones legales aplicables perciba por los ser
 
 VII.- Las aportaciones, subsidios y apoyos por parte de organizaciones públicas y privadas de carácter e internacional;
 
-VIII.- Las utilidades, intereses, dividendos, rendimientos de sus bienes. derechos y demás ingresos que adquiera por cualquier título legal;
+VIII.- Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y demás ingresos que adquiera por cualquier título legal;
 
 IX.- Los demás bienes o ingresos que adquiera o perciba por cualquier título legal o servicio prestado; y
 
@@ -391,7 +429,9 @@ El Consejo Ciudadano estará integrado bajo el siguiente orden:
 
 I.- Un Presidente, que será el Gobernador del Estado;
 
-II.- Un Vicepresidente, que será el Secretario de Educación Pública;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+II.- Un Vicepresidente, que será designado por el Presidente del Órgano de Gobierno del Consejo Estatal, de entre los demás funcionarios que conforman dicho Órgano;
 
 III.- Un Secretario Técnico, que será designado por el Gobernador del Estado;
 
@@ -419,7 +459,7 @@ XIV.- Cinco representantes de los medios de comunicación, a invitación del Pre
 
 XV.- Cinco representantes del sector empresarial del Estado de Puebla, los cuales tengan participación activa y directa en el desarrollo de programas culturales, a invitación del Presidente del Consejo Ciudadano;
 
-XVl.- Los integrantes de la Comisión competente del Poder Legislativo;
+XVI.- Los integrantes de la Comisión competente del Poder Legislativo;
 
 XVII.- Podrán ser convocadas a las sesiones del Consejo, con carácter de invitados especiales, las autoridades que en el ámbito de su competencia se vinculen al análisis y aprobación de proyectos específicos, en cuyo caso tendrán derecho a voz; y
 
@@ -548,3 +588,11 @@ En tanto se expide el Reglamento Interior y en caso de duda, el Órgano de Gobie
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los catorce días del mes de febrero de dos mil once.- Diputado Presidente.- RAFAEL VON RAESFELD PORRAS.- Rúbrica.- Diputado Vicepresidente.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- ERIC COTOÑETO CARMONA.- Rúbrica- Diputado Secretario.- ZEFERINO MARTÍNEZ RODRÍGUEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los catorce días del mes de febrero de dos mil once.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
