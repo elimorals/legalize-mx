@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-servicio-de-carrera-de-procuracion-de-87498"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-25"
-last_updated: "2012-04-25"
+last_updated: "2013-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DEL SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de abril de 2012.
 
@@ -65,7 +65,9 @@ VIII. Policía: El agente de la Policía Ministerial;
 
 IX. Autoridad capacitadora: El área del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública encargado de practicar las evaluaciones de control de confianza y la capacitación en términos de la Ley del Sistema de Seguridad Pública del Estado de Morelos;
 
-X. Consejo: El Consejo de Profesionalización de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+X. Consejo: El Consejo de Carrera de Procuración de Justicia;
 
 XI. Dirección General: La Dirección General de Planeación y Evaluación de la Procuraduría;
 
@@ -77,13 +79,17 @@ XIV. Reglamento: El Reglamento de la Ley Orgánica de la Procuraduría General d
 
 XV. Secretaría Técnica: La Secretaría Técnica del Consejo;
 
-XVI. Unidades Administrativas: Las Subprocuradurías, Coordinaciones Generales, Direcciones Generales y Direcciones de Área a las cuales esté adscrito el miembro del Servicio de Carrera, y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XVI. Unidades Administrativas: Las Subprocuradurías, Coordinaciones Generales, Direcciones Generales, Direcciones y Coordinaciones de Área a las cuales esté adscrito el miembro del Servicio de Carrera, y
 
 XVII. Programa de Profesionalización: Al Programa de Profesionalización del Servicio de Carrera de Procuración de Justicia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 3.
 
-El Servicio de Carrera es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los procedimientos para la convocatoria, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja de ministerios públicos, policías ministeriales y peritos, conforme a los siguientes principios:
+El Servicio de Carrera es el Sistema de carácter obligatorio y permanente, conforme al cual se establecen los procedimientos para el reclutamiento, convocatoria, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento, así como la separación o baja de Agentes del Ministerio Público, Policías Ministeriales y Peritos, conforme a los siguientes principios:
 
 I. Legalidad: Obliga a la estricta observancia de la Ley y de las normas jurídicas aplicables a cada una de las etapas del Servicio de Carrera;
 
@@ -259,7 +265,35 @@ Los miembros del Servicio de Carrera deberán notificar a la Dirección General 
 
 Los superiores jerárquicos de los miembros del Servicio de Carrera, la unidad administrativa de manejo de personal y la Visitaduría, deberán dar aviso a la Dirección General, dentro de los 30 días siguientes a que se genere el suceso, de cualquier asunto o incidencia relacionada con los miembros del Servicio de Carrera, para efectos de realizar los registros correspondientes en la base de datos. La omisión del aviso a que se refiere esta disposición, será causa de responsabilidad administrativa.
 
-#### SECCIÓN I. DE LA CONVOCATORIA
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE AGOSTO DE 2013)</small>
+
+#### SECCIÓN ÚNICA. DE LA PLANEACIÓN DEL SISTEMA DE CARRERA
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### Artículo 10 Bis.
+
+Todos los responsables de la aplicación de las etapas que comprende el Servicio de Carrera, colaborarán y se coordinarán con la Secretaría Técnica del Consejo, a fin de proporcionarle toda la información necesaria para el cumplimiento de sus funciones y mantener actualizados los expedientes de cada uno de los miembros del Servicio de Carrera.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### Artículo 10 Ter.
+
+En las diversas etapas del Servicio de Carrera, los responsables de la aplicación de este Reglamento deberán:
+
+I. Registrar y procesar la información necesaria para la formulación de perfiles y competencias;
+
+II. Señalar las necesidades cuantitativas y cualitativas del Servicio de Carrera, referentes a capacitación, rotación, separación o remoción, con el fin de que la estructura del Servicio tenga el número de elementos adecuados para su óptimo funcionamiento;
+
+III. Elaborar estudios prospectivos de los escenarios del Servicio de Carrera para determinar sus necesidades de formación en el corto y mediano plazos, con el fin de permitir a sus integrantes cubrir el perfil del grado por competencia de las diferentes categorías o niveles;
+
+IV. Analizar el desempeño y los resultados del miembro del Servicio de Carrera en las unidades de adscripción, emitiendo las conclusiones conducentes;
+
+V. Revisar y considerar los resultados de las evaluaciones del Servicio de Carrera;
+
+VI. Realizar los demás estudios, programas, acciones y trabajos que sean necesarios para el desarrollo del Servicio de Carrera, y
+
+VII. Ejercer las demás funciones que comprende este procedimiento y disposiciones legales y administrativas correspondientes.
 
 ### CAPÍTULO II. DEL PROGRAMA DE PROFESIONALIZACIÓN DEL SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
 
@@ -327,17 +361,47 @@ El desempeño de los miembros del Servicio de Carrera en las actividades derivad
 
 Los miembros del Servicio de Carrera están obligados a participar en las actividades de profesionalización, cubriendo un mínimo de 60 horas clase anuales. El incumplimiento de esta obligación imputable al miembro del Servicio de Carrera será causa de baja, previo el procedimiento legal que corresponda, en términos de lo dispuesto por la Ley, la Ley Orgánica y el presente Reglamento.
 
-### CAPÍTULO III. DE LA CONVOCATORIA, SELECCIÓN, FORMACIÓN INICIAL E INGRESO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE AGOSTO DE 2013)</small>
 
-#### SECCIÓN II. DE LA SELECCIÓN
+### CAPÍTULO III. DEL RECLUTAMIENTO, CONVOCATORIA, SELECCIÓN, FORMACIÓN INICIAL E INGRESO
 
-#### SECCIÓN III. DE LA FORMACIÓN INICIAL
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE AGOSTO DE 2013)</small>
+
+#### SECCIÓN I. DEL RECLUTAMIENTO
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### Artículo 16 Bis.
+
+El reclutamiento tiene como objeto atraer a un número suficiente de aspirantes idóneos para que, una vez que cumplan los requisitos legales, participen en el proceso de selección para ocupar el primer nivel perteneciente a la primera categoría que comprende el Servicio de Carrera de Agente del Ministerio Público, de la Policía Ministerial y Perito y Profesional Técnico.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### Artículo 16 Ter.
+
+La etapa de reclutamiento sólo es aplicable a los aspirantes a ingresar a los niveles y categorías que comprende el inciso c) de la fracción V del artículo 6; el inciso d) de la fracción IV del artículo 7; inciso b) de la fracción IV del apartado A e inciso b) de la fracción III del apartado B del artículo 8; todos del presente Reglamento. Las demás categorías y niveles estarán sujetos al procedimiento de desarrollo y promoción.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Artículo 16 Quarter (sic).- Para ser sujeto de reclutamiento, los aspirantes a ingresar al Servicio de Carrera, deberán cumplir con los requisitos del perfil por competencia, en las condiciones y los términos de la convocatoria que al efecto emita el Consejo.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### Artículo 16 Quinquies.
+
+El reclutamiento dependerá de las necesidades institucionales para cada ejercicio fiscal de acuerdo al presupuesto autorizado.
+
+#### SECCIÓN II. DE LA CONVOCATORIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 17.
 
-El proceso de selección para el ingreso a la Procuraduría y al Servicio de Carrera, iniciará con la publicación de la convocatoria por tres veces consecutivas, con diferencia de 8 días entre una y otra publicación, en al menos un periódico de circulación estatal y en el portal de Internet de la Procuraduría. La convocatoria deberá expedirse con una anticipación de treinta días naturales a la fecha de inicio del plazo para la presentación de la documentación necesaria. La convocatoria contendrá como mínimo los siguientes aspectos:
+El proceso de selección para el ingreso a la Procuraduría y al Servicio de Carrera iniciará con la publicación de la convocatoria, que se realizará por una sola ocasión en un periódico de circulación estatal o en el portal de Internet de la Procuraduría. La convocatoria deberá expedirse con una anticipación de quince días naturales a la fecha de inicio del plazo para la presentación de la documentación necesaria. La convocatoria contendrá como mínimo los siguientes aspectos:
 
-I. Los requisitos que deben de cubrir los aspirantes;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+I. Los requisitos que deben cubrir los aspirantes;
 
 II. La documentación que deberán presentar los aspirantes;
 
@@ -353,11 +417,7 @@ VII. El calendario de actividades a realizar, desde la presentación de document
 
 VIII. La mención de que será requisito el que los aspirantes manifiesten su conformidad por escrito, de someterse a la evaluación de control de confianza y demás que establezcan las disposiciones jurídicas aplicables.
 
-#### SECCIÓN IV. DEL INGRESO
-
-APARTADO A
-
-DEL PROCEDIMIENTO DE INGRESO
+#### SECCIÓN III. DE LA SELECCIÓN
 
 ###### Artículo 18.
 
@@ -419,7 +479,7 @@ Una vez entregada la documentación solicitada en la convocatoria, la Dirección
 
 En la misma publicación se señalará lugar y fecha en que los aspirantes deberán presentarse para ser notificados de la realización de los exámenes o evaluaciones siguientes:
 
-I. Examen de ingreso: los aspirantes a agentes del Ministerio Público, lo realizarán de conocimientos técnico-jurídicos, y los aspirantes a policías y peritos, harán los de conocimientos profesionales, técnicos o generales, según corresponda;
+I. (DEROGADA, P.O. 14 DE AGOSTO DE 2013)
 
 II. Los aspirantes a policías, deberán presentar el examen de aptitud física;
 
@@ -427,13 +487,17 @@ III. Todos los aspirantes deberán presentar examen de control de confianza, y
 
 IV. Los demás que establezcan las disposiciones legales aplicables o determine el Consejo.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 25.
 
-Los contenidos y reactivos del examen de ingreso serán determinados por el Consejo. Las evaluaciones se aplicarán por la Dirección General, órganos u organismos competentes, según lo determine el Consejo o las normas jurídicas aplicables.
+Las evaluaciones se aplicarán por la Dirección General, órganos u organismos competentes, según lo determine el Consejo o las normas jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 26.
 
-Los aspirantes deberán aprobar el examen de ingreso, aptitud física, en caso de los policías ministeriales y ser aptos en las evaluaciones de control de confianza que aplique el Centro de Control de Confianza para obtener su certificado inicial. En caso de no obtener el certificado de control de confianza, o no aprobar alguno de los demás exámenes mencionados, el aspirante no podrá continuar con el proceso de selección.
+Los aspirantes deberán aprobar las evaluaciones de control de confianza que aplique el Centro de Control de Confianza para obtener su certificado inicial. En caso de no obtener el certificado de control de confianza o de no aprobar alguno de los exámenes mencionados, el aspirante no podrá continuar con el proceso de selección.
 
 ###### Artículo 27.
 
@@ -447,7 +511,7 @@ La Procuraduría podrá otorgar becas a los aspirantes que fueren admitidos para
 
 Las calidades de aspirante y de candidato no establecen relación laboral o vínculo administrativo con la Procuraduría, sino que representan, únicamente, la posibilidad de participar en el proceso de selección e ingreso al puesto vacante que se concursa.
 
-#### SECCIÓN I. DE LOS REQUISITOS DE PERMANENCIA
+#### SECCIÓN IV. DE LA FORMACIÓN INICIAL
 
 ###### Artículo 30.
 
@@ -471,23 +535,27 @@ Los candidatos a policía ministerial se sujetarán a las disposiciones aplicabl
 
 La acreditación de la formación inicial se realizará conforme a los mecanismos de evaluación que establezca la instancia académica que imparta los cursos, y dichos mecanismos deberán ser previamente aprobados por el Consejo.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 34.
 
 La instancia académica certificada que imparta los cursos de formación inicial, deberá remitir a la Dirección General, los resultados de la misma y la documentación oficial que avale dichos resultados. La Dirección General notificará personalmente a los candidatos los resultados de la evaluación y les informará el procedimiento para entrar al concurso de oposición.
 
-Los candidatos que no acrediten la evaluación de formación inicial, podrán realizar una segunda evaluación, conforme a los plazos y tiempos que indique la instancia académica certificada que realizó la primera evaluación. En caso de aprobar la segunda evaluación, los candidatos podrán reintegrarse al proceso de ingreso, conforme a los tiempos, plazos y requisitos que establezca la Dirección General.
+El resultado de la segunda evaluación será definitivo. En caso de no ser aprobatorio, el candidato quedará fuera del proceso para ingresar a la Procuraduría, y se enviará su expediente al archivo, mismo que se conservará hasta la siguiente convocatoria, para posteriormente ser destruido
 
-El resultado de la segunda evaluación será definitivo. En caso de no ser aprobatorio, el candidato quedará fuera del proceso para ingresar a la Procuraduría, y se enviará su expediente al archivo, mismo que se conservará hasta la siguiente convocatoria, para posteriormente ser destruido.
+#### SECCIÓN V. DEL INGRESO
 
-#### SECCIÓN II. DE LAS EVALUACIONES PARA LA PERMANENCIA
+APARTADO A
+
+DEL PROCEDIMIENTO DE INGRESO
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 35.
 
-Los candidatos que acrediten la formación inicial, para concursar por las plazas materia de la convocatoria, deberán presentar concurso de oposición y entrevista.
+Los candidatos que acrediten la formación inicial, para concursar por las plazas materia de la convocatoria, deberán presentar concurso de oposición.
 
-La Dirección General citará, personalmente y por escrito, a los candidatos que hayan acreditado la formación inicial, al concurso de oposición y entrevista.
-
-La entrevista consistirá en una evaluación apreciativa de carácter personal, por parte del titular de la unidad administrativa de la plaza que se concursa. Dicha entrevista deberá realizarse, por lo menos, ocho días antes de la celebración del examen de oposición. La entrevista tiene por objeto que el titular de la plaza que se concursa tenga oportunidad de conocer con anticipación al sustentante para apreciar sus características personales y de vocación al servicio público. Las apreciaciones de la entrevista servirán para que el titular de la unidad administrativa de la plaza que se concursa, preparare sus preguntas al examen de oposición, así como realizar un reporte de dicha entrevista al Consejo, para la decisión final respecto del ingreso.
+La Dirección General citará, personalmente y por escrito, a los candidatos que hayan acreditado la formación inicial al concurso de oposición.
 
 El concurso de oposición consistirá en un examen oral y público ante un sínodo, con una serie de preguntas, más las interpelaciones que correspondan, sobre aspectos relacionados con las funciones de la rama y categoría para la que se concursa, de acuerdo con las disposiciones aplicables.
 
@@ -519,13 +587,17 @@ III. Suficiente de 7.00 a 7.99, y
 
 IV. No aprobatorio de 0 a 6.99.
 
-La Dirección General integrará los expedientes de los candidatos que hayan acreditado el concurso de oposición, junto con el resultado de la entrevista y el del examen de formación inicial y los someterá a consideración del Consejo. Corresponderá al Consejo decidir en definitiva el ingreso de los sustentantes, conforme hayan obtenido los mejores resultados, sin sobrepasar el número de plazas disponibles.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+La Dirección General integrará los expedientes de los candidatos que hayan acreditado el concurso de oposición, y los someterá a consideración del Consejo. Corresponderá al Consejo decidir en definitiva el ingreso de los sustentantes, conforme hayan obtenido los mejores resultados, sin sobrepasar el número de plazas disponibles.
 
 ###### Artículo 38.
 
 Si la cantidad de concursantes que aprueben el concurso de oposición fuere menor al número de vacantes de categorías o niveles disponibles, las que queden sin cubrir no serán ocupadas, sino hasta el siguiente proceso de ingreso.
 
-En el caso de que dos o más concursantes obtengan la misma calificación en el examen de oposición y sólo uno pudiese ingresar, el orden de prelación se conferirá, en primer lugar, al que tenga mejor calificación en los estudios de formación inicial; si persistiera la igualdad, se tomará en consideración el reporte de la entrevista realizada al sustentante; si aún persistiere la igualdad, el Consejo resolverá tomando en consideración su perfil, formación académica y experiencia laboral y permanencia en la institución, si fuere el caso.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+En el caso de que dos o más concursantes obtengan la misma calificación en el examen de oposición y sólo uno pudiese ingresar, el orden de prelación se conferirá, en primer lugar, al que tenga mejor calificación en los estudios de formación inicial; si persistiera la igualdad, el Consejo resolverá tomando en consideración su perfil, formación académica y experiencia laboral y permanencia en la Institución, si fuere el caso.
 
 Si durante el periodo de tiempo comprendido entre la aprobación del examen de oposición y el día en que se expida la relación de concursantes aceptados para el ingreso, alguno de éstos decidiera no ingresar o surgiera una causa superveniente que vulnere algún requisito de ingreso a juicio del Consejo, será admitido aquel concursante que haya quedado fuera de las vacantes disponibles y que hubiere obtenido la siguiente mejor calificación.
 
@@ -595,7 +667,7 @@ Los miembros del Servicio de Carrera están sujetos a los cambios de adscripció
 
 ### CAPÍTULO IV. DE LA PERMANENCIA
 
-#### SECCIÓN I. DE LOS ESTÍMULOS
+#### SECCIÓN I. DE LOS REQUISITOS DE PERMANENCIA
 
 ###### Artículo 49.
 
@@ -611,7 +683,7 @@ IV. Mantener actualizado el certificado de control de confianza, y
 
 V. Cumplir con las disposiciones establecidas en el Programa de Profesionalización y los subprogramas de formación continua y especializada.
 
-#### SECCIÓN II. DE LOS RECONOCIMIENTOS
+#### SECCIÓN II. DE LAS EVALUACIONES PARA LA PERMANENCIA
 
 ###### Artículo 50.
 
@@ -879,7 +951,7 @@ Quienes así hayan sido convocados y no concursen sin causa justificada a juicio
 
 ### CAPÍTULO VIII. DE LOS ESTÍMULOS Y RECONOCIMIENTOS
 
-#### SECCIÓN III. DE LA CANCELACIÓN DE ESTÍMULOS Y RECONOCIMIENTOS
+#### SECCIÓN I. DE LOS ESTÍMULOS
 
 ###### Artículo 75.
 
@@ -925,7 +997,7 @@ IV. Si se determina procedente el mérito profesional o extraordinario se acorda
 
 El Consejo definirá los criterios que deberán seguirse para determinar los méritos profesionales y los extraordinarios.
 
-#### SECCIÓN I. DE LA INTEGRACIÓN DEL CONSEJO
+#### SECCIÓN II. DE LOS RECONOCIMIENTOS
 
 ###### Artículo 80.
 
@@ -953,7 +1025,7 @@ V. El Consejo, con base en las propuestas y el expediente de los candidatos, aco
 
 VI. Si se determina procedente, se acordará el tipo de reconocimiento a otorgar y se le notificará al miembro del Servicio de Carrera y a la Dirección General.
 
-#### SECCIÓN II. DE LAS SESIONES DEL CONSEJO
+#### SECCIÓN III. DE LA CANCELACIÓN DE ESTÍMULOS Y RECONOCIMIENTOS
 
 ###### Artículo 82.
 
@@ -985,7 +1057,11 @@ La separación o baja del miembro del Servicio de Carrera a que se refiere el p�
 
 Si se dictare sentencia absolutoria al miembro del Servicio de Carrera en el proceso penal seguido en su contra y ésta causare ejecutoria, la Visitaduría levantará la suspensión, notificará de ello al interesado, así como a la Dirección General, y a la de Control Administrativo, para los efectos administrativos procedentes.
 
-### CAPÍTULO X. DEL CONSEJO DE PROFESIONALIZACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO X. DEL CONSEJO DEL SISTEMA DE CARRERA
+
+#### SECCIÓN I. DE LA INTEGRACIÓN DEL CONSEJO
 
 ###### Artículo 86.
 
@@ -1011,7 +1087,9 @@ IX. Un agente de la Policía Ministerial, de reconocido prestigio, buena reputac
 
 X. Un perito de reconocido prestigio, buena reputación y desempeño excelente y cuya designación estará a cargo del Procurador, de la terna propuesta por el Consejo.
 
-Los integrantes a que se refieren las fracciones VIII, IX y X deberán formar parte del Servicio de Carrera, y durarán un año en su respectivo encargo en el Comité.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Los integrantes a que se refieren las fracciones VIII, IX y X deberán formar parte del Servicio de Carrera, y durarán un año en su respectivo cargo en el Consejo.
 
 ###### Artículo 87.
 
@@ -1103,6 +1181,8 @@ Los integrantes del Consejo podrán nombrar a sus suplentes, por escrito. El car
 
 Los representantes en el Consejo de las ramas ministerial, policial y pericial, no tendrán derecho a representación, por lo que deberán asistir a las sesiones personalmente.
 
+#### SECCIÓN II. DE LAS SESIONES DEL CONSEJO
+
 ###### Artículo 91.
 
 Las sesiones del Consejo serán ordinarias de manera mensual, o extraordinarias. Las primeras se fijarán en calendario que se apruebe en la primera sesión del año y, las segundas, atenderán a la naturaleza urgente y de imperiosa necesidad del asunto a tratar, a solicitud de cualquiera de sus integrantes, previo acuerdo de su Presidente.
@@ -1139,13 +1219,55 @@ A las sesiones podrán ser invitadas personalidades con reconocimiento académic
 
 La Dirección General llevará un registro de la versión estenográfica de las sesiones.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO XI. DE LA PARTICIPACIÓN CIUDADANA EN EL SERVICIO DE CARRERA
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### Artículo 99.
+
+De conformidad con los artículos 131 de la Ley General del Sistema Nacional de Seguridad Pública, 34, 117 y 119 de la Ley del Sistema de Seguridad Pública de Estado de Morelos, el Consejo estipulará mecanismos y procedimientos para la participación de la sociedad, respecto a la evaluación del desempeño de los miembros del Sistema de Carrera.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### Artículo 100.
+
+EL Consejo promoverá la participación de la ciudadanía para conocer y opinar sobre políticas de procuración de justicia, sugerir medidas específicas y acciones concretas para mejorar esta función, realizar labores de seguimiento proponer reconocimientos por méritos o estímulos para los miembros del Sistema de Carrera, y realizar denuncias, quejas o inconformidades sobre irregularidades cometidas por aquellos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO XII. DE LA DESIGNACIÓN ESPECIAL
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### Artículo 101.
+
+El Procurador está facultado para llevar a cabo la designación especial y temporal de Agentes del Ministerio Público, de la Policía Ministerial y de Peritos, Profesionales o Técnicos; con el estricto propósito de atender las contingencias o requerimientos del servicio. Los que no pertenecerán al Servicio de Carrera.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### Artículo 102.
+
+Los nombramientos por designación especial no podrán exceder de tres años y concluirán una vez que se haya realizado el objetivo específico que les dio origen, sin perjuicio de que puedan darse por terminados sus efectos en cualquier momento por el Procurador.
+
+Los Agentes del Ministerio Público, de la Policía Ministerial o los Peritos, de designación especial, para ingresar deberán de cumplir los requisitos establecidos en los artículos 28, 29 y 30 de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos, con excepción de los concursos correspondientes.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### Artículo 103.
+
+Los Agentes del Ministerio Público, de la Policía Ministerial o los Peritos de designación especial, podrán participar en las convocatorias para concursar e ingresar, en su caso, al Servicio de Carrera.
+
+El Consejo otorgará preferencia a los aspirantes a que se refiere el párrafo anterior, en los casos previstos por el segundo párrafo del artículo 38 de este Reglamento.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor a los treinta días hábiles siguientes a su publicación en el Periódico Oficial "Tierra y Libertad".
 
-SEGUNDO.- La Procuraduría General de Justicia del Estado de Morelos expedirá en un plazo de tres meses el Programa de Implementación del Servicio de Carrera de Procuración de Justicia, el cual tendrá carácter temporal, que incluirá las disposiciones referentes a los procedimientos de ingreso, permanencia y ascenso al Servicio de Carrera de Procuración de Justicia, así como demás normas necesarias para que al cabo de un año a partir de la publicación de dicho Programa, el Servicio de Carrera de Procuración de Justicia, se encuentre implementado y funcionando.
+SEGUNDO.- (DEROGADO, P.O. 14 DE AGOSTO DE 2013)
 
-TERCERO.- El Consejo deberá de ser convocado a su primera sesión en un plazo de 60 días contados a partir de la publicación del Programa de Implementación del Servicio de Carrera. En dicha sesión deberá establecerse el calendario para la aprobación y ejecución del Programa de Profesionalización del Servicio de Carrera de Procuración de Justicia, así como los demás lineamientos a que hace referencia el presente Reglamento.
+TERCERO.- (DEROGADO, P.O. 14 DE AGOSTO DE 2013)
 
 CUARTO.- En la sesión de instalación del Consejo, los representantes señalados en las fracciones II, III, IV, V, VI y VII del artículo 86 acordarán una terna con los candidatos a ocupar la representación a que se refieren las fracciones VIII, IX y X del mismo artículo, de entre los cuales, el Procurador procederá a la respectiva designación.
 
@@ -1168,3 +1290,17 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 LIC. PEDRO LUIS BENÍTEZ VÉLEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE AGOSTO DE 2013.
+
+PRIMERA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que contravengan lo establecido en el presente Decreto.
+
+TERCERA. La Procuraduría General de Justicia del Estado de Morelos expedirá a más tardar en el mes de mayo del año dos mil catorce, el Programa de Profesionalización del Servicio de Carrera de Procuración de Justicia, el cual tendrá carácter temporal, que incluirá las disposiciones referentes a las etapas que comprende el Sistema de Carrera, así como demás normas necesarias, para que a partir de la publicación de dicho programa, el servicio de carrera de procuración de justicia se encuentre implementado y funcionando progresivamente.
+
+CUARTA.- El Consejo deberá de ser convocado a su primera sesión en un plazo de sesenta días hábiles, contados a partir de la publicación de este Decreto. En dicha sesión deberá establecerse el calendario para la aprobación y ejecución del Programa de Profesionalización del Servicio de Carrera de Procuración de Justicia, así como los demás lineamientos a que hace referencia el presente Reglamento.
