@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2013-04-10"
+last_updated: "2013-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -841,6 +841,10 @@ Los servicios que se presten en la materia constituyen un medio para el ejercici
 
 En el ámbito de los servicios de salud reproductiva, quienes practiquen una esterilización o un método de planificación familiar, sin la voluntad del paciente, o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de las responsabilidades penales en que incurran.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Para disminuir el riesgo reproductivo, la Secretaría de Salud deberá informar a la mujer y al hombre, mediante campañas periódicas, los riesgos que puede haber en los embarazos antes de los veinte años, o en edad avanzada.
+
 ###### Artículo 75.
 
 La atención a la salud reproductiva comprende las siguientes acciones:
@@ -1019,9 +1023,11 @@ III.- Los convenios que al efecto se suscriban entre el Gobierno del Estado y la
 
 IV.- Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 90.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas y las demás que establezcan otras disposiciones legales aplicables, se requiere que los Títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, optometría, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas y las demás que establezcan otras disposiciones legales aplicables, se requiere que los Títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 Para el ejercicio de las actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
 
@@ -1240,6 +1246,12 @@ III.- Orientar y capacitar a la población, preferentemente, en materia de nutri
 ###### Artículo 111.
 
 Las autoridades sanitarias estatales en coordinación con las autoridades municipales y federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### Artículo 111 Bis.
+
+Las autoridades de salud del Estado, en sus respectivos ámbitos de competencia, vigilarán el cumplimiento de las normas oficiales mexicanas tendientes a la protección de la salud, en materia de prevención, tratamiento y control de la diabetes mellitus.
 
 ### CAPÍTULO V. SALUD OCUPACIONAL
 
@@ -3490,3 +3502,51 @@ P.O. 10 DE ABRIL DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 14 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 719, POR EL QUE SE ADICIONA UN ARTÍCULO 111 BIS EN EL CAPÍTULO II DEL TÍTULO SÉPTIMO DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 14 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 721, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 90 DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 14 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 724, POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO EN EL ARTÍCULO 74 DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
