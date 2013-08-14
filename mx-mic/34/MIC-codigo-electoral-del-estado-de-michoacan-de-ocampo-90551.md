@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-90551"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-11-30"
-last_updated: "2012-12-27"
+last_updated: "2013-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
 
 Código publicado en la Sección Séptima del Periódico Oficial del Estado de Michoacán, el viernes 30 de noviembre de 2012.
 
@@ -123,7 +123,9 @@ II. No ser ni haber sido miembro de dirigencias nacionales, estatales o municipa
 
 III. No ser, ni haber sido candidato a puesto de elección popular en los últimos tres años anteriores a la elección;
 
-IV. No ser representante de partido político ante cualquiera de los órganos electorales; y,
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+IV. No ser representante de partido político o de candidato independiente ante cualquiera de los órganos electorales; y,
 
 V. Asistir a los cursos de capacitación, preparación o información que impartan el Instituto Electoral de Michoacán o las propias organizaciones a las que pertenezcan los observadores electorales, éstos deberán ser previamente autorizados y realizados bajo los lineamientos y contenidos que dicten las autoridades competentes del Instituto, las cuales deberán supervisar dichos cursos.
 
@@ -155,9 +157,11 @@ El incumplimiento por los observadores de las normas establecidas para la realiz
 
 El derecho de réplica consiste en la implementación de medios de defensa jurídica en contra de la información falsa, injuriosa o denigrante que pueda publicar o difundir los medios de comunicación, ya sean escritos o electrónicos, sobre la difusión de un contenido periodístico determinado. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 12.
 
-Es derecho de los partidos políticos, a través de sus dirigentes o representantes partidistas, así como de sus candidatos el ejercicio del derecho de réplica en materia electoral.
+Es derecho de los partidos políticos o candidatos independientes, a través de sus dirigentes o representantes, así como de los propios candidatos el ejercicio del derecho de réplica en materia electoral.
 
 ###### ARTÍCULO 13.
 
@@ -265,9 +269,11 @@ La convocatoria expedida para la celebración de elecciones extraordinarias, no 
 
 Los ciudadanos que resulten electos entrarán a ejercer su cargo a más tardar cuarenta y cinco días después de la elección.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 25.
 
-Cuando se declare empate entre los partidos políticos que hayan obtenido la más alta votación y una vez resueltos los medios de impugnación correspondientes, se convocará a elecciones extraordinarias.
+Cuando se declare empate entre los candidatos que hayan obtenido la más alta votación y una vez resueltos los medios de impugnación correspondientes, se convocará a elecciones extraordinarias.
 
 # LIBRO SEGUNDO. DE LOS PARTIDOS POLÍTICOS
 
@@ -691,7 +697,9 @@ El Instituto Electoral de Michoacán hará del conocimiento inmediato al Institu
 
 Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio, televisión y medios impresos dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Las infracciones a lo establecido en este párrafo serán sancionadas en los términos dispuestos en este Código.
 
-Sólo los partidos políticos podrán contratar espacios en medios impresos para difundir propaganda electoral.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Sólo los partidos políticos y candidatos independientes podrán contratar espacios en medios impresos para difundir propaganda electoral.
 
 ###### ARTÍCULO 61.
 
@@ -965,7 +973,9 @@ Con motivo de las campañas para Gobernador del Estado, podrán realizarse debat
 
 Los debates tendrán como objetivo dar a conocer los perfiles de los candidatos y sus propuestas de gobierno.
 
-El Consejo General, escuchando la opinión y propuestas de los partidos políticos, dictará los lineamientos conforme a los cuales deberán desarrollarse los debates, debiendo regular al menos lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+El Consejo General, escuchando la opinión y propuestas de los partidos políticos y representantes de los candidatos independientes, dictará los lineamientos conforme a los cuales deberán desarrollarse los debates, debiendo regular al menos lo siguiente:
 
 I. Día y hora de celebración;
 
@@ -1521,7 +1531,9 @@ I. Para la asignación se utilizarán los conceptos siguientes:
 
 a) Votación Estatal Emitida. Es la suma de todos los votos depositados en las casillas instaladas en los veinticuatro distritos electorales para recibir la votación de diputados por el principio de representación proporcional;
 
-b) Votación Estatal Válida. Es la que resulta de restar a la votación estatal emitida, los votos nulos, de candidatos no registrados y la de los partidos que no tienen derecho a participar de la asignación en los términos de la fracción I del artículo anterior;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+b) Votación Estatal Válida. Es la que resulta de restar a la votación estatal emitida, los votos nulos, los de candidatos no registrados e independientes y la de los partidos que no tienen derecho a participar de la asignación en los términos de la fracción I del artículo anterior;
 
 c) Votación Estatal Efectiva. Es la que resulta de restar a la votación estatal válida, los votos que correspondan al partido que esté en cualquiera de los supuestos de las fracciones II y III del artículo anterior;
 
@@ -1559,7 +1571,9 @@ Cada sección electoral contará con un mínimo de cincuenta electores y un máx
 
 Los documentos, datos e informes que los ciudadanos proporcionen al Registro de Electores, son confidenciales. Sólo se darán a conocer cuando sea necesario aportarlos en juicios, recursos o procedimientos en que los órganos del Instituto Electoral de Michoacán fuesen parte; o bien para cumplir con las obligaciones previstas por éste Código, en la Ley General de Población o por mandato de juez competente.
 
-Los miembros de los Consejos General, distritales y municipales electorales, y los partidos políticos tendrán acceso a la información que conforma el padrón electoral, exclusivamente para el cumplimiento de sus funciones y no podrán darle o destinarla a finalidad u objeto distinto al de la revisión del padrón electoral y las listas nominales.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Los miembros de los Consejos General, distritales y municipales electorales, los partidos políticos y los candidatos independientes tendrán acceso a la información que conforma el padrón electoral, exclusivamente para el cumplimiento de sus funciones y no podrán darle o destinarla a finalidad u objeto distinto al de la revisión del padrón electoral y las listas nominales.
 
 ###### ARTÍCULO 108.
 
@@ -1603,7 +1617,9 @@ Ciento cincuenta días antes de la elección de que se trate, se suspenderá la 
 
 Cien días antes de cada elección se suspenderá la entrega de credenciales para votar, reanudándose diez días después de la jomada electoral.
 
-Los formatos de credencial que no hubiesen sido recogidos por los interesados, se relacionarán y serán resguardados en un lugar que garantice su seguridad hasta pasada la elección. Los partidos políticos acreditados ante el Consejo General podrán verificar el acto de custodia de los formatos.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Los formatos de credencial que no hubiesen sido recogidos por los interesados, se relacionarán y serán resguardados en un lugar que garantice su seguridad hasta pasada la elección. Los partidos políticos y representantes de candidatos independientes acreditados ante el Consejo General podrán verificar el acto de custodia de los formatos.
 
 ###### ARTÍCULO 114.
 
@@ -1621,7 +1637,9 @@ Para que los electores puedan revisarlo ochenta y cuatro días antes de cada ele
 
 La exhibición se hará en cada cabecera municipal, fijando el padrón con marca de lista nominal ordenado alfabéticamente y por sección.
 
-Se hará entrega a los partidos políticos de una copia, para que en el mismo término puedan formular sus observaciones, las cuales invariablemente se referirán a hechos y casos concretos e individualizados. El Registro resolverá sobre las observaciones en un plazo no mayor de quince días.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Se hará entrega a los partidos políticos y representantes de candidatos independientes de una copia, para que en el mismo término puedan formular sus observaciones, las cuales invariablemente se referirán a hechos y casos concretos e individualizados. El Registro resolverá sobre las observaciones en un plazo no mayor de quince días.
 
 Las oficinas del Registro responsables de la inscripción, tendrán a disposición de la ciudadanía los formatos para la rectificación de la lista nominal por indebida inclusión o exclusión.
 
@@ -1671,9 +1689,11 @@ El Registro de Electores, colocará las listas de personas excluidas del Padrón
 
 Los órganos competentes del Instituto Electoral de Michoacán proveerán lo necesario para la obtención, análisis y aplicación de la información cartográfica y estadística que se requiera para el desarrollo de las funciones del Registro de Electores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 126.
 
-Los partidos políticos tendrán acceso a los sistemas electrónicos del Padrón Electoral.
+Los partidos políticos y representantes de los candidatos independientes tendrán acceso a los sistemas electrónicos del Padrón Electoral.
 
 Cuando por virtud de un convenio, los trabajos del padrón electoral sean llevados a cabo por el Registro Federal de Electores, el cumplimiento de lo dispuesto por el párrafo anterior quedará supeditado al convenio referido.
 
@@ -1721,7 +1741,9 @@ Cuando concurran circunstancias graves y extraordinarias que técnica y material
 
 El proceso electoral, para elecciones ordinarias de Gobernador, diputados y ayuntamientos, se inicia ciento ochenta días antes de la elección, y concluye con la última declaración de validez, una vez resueltos en definitiva los medios de impugnación que se presenten o cuando se tenga constancia de que no se presentó ninguno, según sea el caso.
 
-El proceso electoral es el conjunto de actos ordenados por la Constitución y este Código, realizados por las autoridades, los partidos políticos y los ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los poderes Legislativo y Ejecutivo, así como de los ayuntamientos.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+El proceso electoral es el conjunto de actos ordenados por la Constitución y este Código, realizados por las autoridades, los partidos políticos, los candidatos independientes y los ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los poderes Legislativo y Ejecutivo, así como de los ayuntamientos.
 
 Todo proceso electoral tiene las etapas siguientes:
 
@@ -1783,25 +1805,33 @@ VI. Promover el voto y coadyuvar en la promoción y difusión de la cultura pol�
 
 Las resoluciones de los órganos electorales se tomarán por mayoría de votos, salvo las excepciones señaladas en este Código. En caso de empate se someterá a nueva votación, de persistir, el presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 140.
 
-En los consejos distritales y municipales electorales, los partidos políticos ejercerán los derechos que este Código les otorga, por conducto de sus representantes.
+En los consejos General, distritales y municipales electorales, así como ante las Mesas Directivas de Casilla, los partidos políticos y los candidatos independientes ejercerán los derechos que este Código les otorga, por conducto de sus representantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
 
 ###### ARTÍCULO 141.
 
-Los representantes de los partidos políticos se acreditarán con el nombramiento que les expida su partido, a través del órgano que autoricen sus estatutos. Los representantes de los partidos ante el Consejo General se podrán acreditar en cualquier momento; los representantes ante los consejos distritales y municipales se acreditarán desde cinco días antes de que se instale el órgano respectivo y hasta diez días después de dicha instalación; los representantes generales y los representantes ante las mesas directivas de casillas lo harán en los términos de lo dispuesto en este Código.
+Los representantes de los partidos políticos se acreditarán con el nombramiento que les expida su partido, a través del órgano que autoricen sus estatutos; de la misma manera los candidatos independientes lo harán mediante el formato que al efecto les proporcione el Consejo General. Los representantes ante el Consejo General se podrán acreditar en cualquier momento; los representantes ante los consejos distritales y municipales se acreditarán desde cinco días antes de que se instale el órgano respectivo y hasta diez días después de dicha instalación; los representantes generales y los representantes ante las mesas directivas de casillas lo harán en los términos de lo dispuesto en este Código.
 
 Los registros de los representantes ante los consejos distritales y municipales y, en su caso, las sustituciones de los mismos, deberán presentarse ante el Consejo General
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 142.
 
-Vencidos los plazos señalados en este Código, los partidos que no hayan acreditado a sus representantes, quedarán excluidos de los órganos electorales durante el proceso electoral de que se trate.
+Vencidos los plazos señalados en este Código, los partidos y los candidatos independientes que no hayan acreditado a sus representantes, quedarán excluidos de los órganos electorales durante el proceso electoral de que se trate.
 
-Los partidos podrán sustituir en todo tiempo a sus representantes ante los órganos electorales, salvo en el caso de los representantes generales y los representantes ante las mesas directivas de casillas y de escrutinio y cómputo, en que las sustituciones podrán hacerse a más tardar trece días antes de la elección. Sólo podrán sustituirse representantes generales y ante mesas directivas de casilla después de la fecha señalada, por fallecimiento o incapacidad debidamente acreditados.
+Los partidos y los candidatos independientes podrán sustituir en todo tiempo a sus representantes ante los órganos electorales, salvo en el caso de los representantes generales y los representantes ante las mesas directivas de casillas y de escrutinio y cómputo, en que las sustituciones podrán hacerse a más tardar trece días antes de la elección. Sólo podrán sustituirse representantes generales y ante mesas directivas de casilla después de la fecha señalada, por fallecimiento o incapacidad debidamente acreditados.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
 
 ###### ARTÍCULO 143.
 
-Cuando sin causa justificada, ni el representante propietario ni el suplente de un partido político asista a tres sesiones consecutivas del órgano electoral respectivo, el Presidente apercibirá al propietario y notificará a su partido de las ausencias acumuladas. Si a la sesión siguiente sin justificación tampoco asisten ni acreditan otro representante, el partido dejará de formar parte del órgano de que se trate durante ese proceso electoral.
+Cuando sin causa justificada, ni el representante propietario ni el suplente deje de asistir a tres sesiones consecutivas del órgano electoral respectivo, el Presidente apercibirá al propietario y notificará a su partido o candidato independiente de las ausencias acumuladas. Si a la sesión siguiente sin justificación alguna tampoco asiste ni se acredita otro representante, dejará de formar parte del órgano de que se trate durante ese proceso electoral.
 
 ###### ARTÍCULO 144.
 
@@ -2033,11 +2063,15 @@ IX. Proponer al Consejo General, con el apoyo de la Vocalía de Administración,
 
 X. Proponer al Consejo General el proyecto de presupuesto anual del Instituto Electoral de Michoacán, remitiéndolo una vez aprobado, al titular del Poder Ejecutivo para su inclusión en la iniciativa de Presupuesto de Egresos del Estado;
 
-XI. Proponer al Consejo General un sistema para la difusión oportuna de resultados preliminares de las elecciones; al que tendrán acceso en forma permanente los consejeros y representantes de los partidos políticos acreditados ante los mismos;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XI. Proponer al Consejo General un sistema para la difusión oportuna de resultados preliminares de las elecciones; al que tendrán acceso en forma permanente los consejeros, representantes de los partidos políticos y de los candidatos independientes acreditados ante los mismos;
 
 XII. Proveer lo necesario para la recepción y custodia de los paquetes de casilla que, en su caso, le sean remitidos, autorizando su destrucción ciento veinte días después de la jornada electoral;
 
-XIII. Recibir de los partidos políticos las solicitudes de registro de candidatos a Gobernador del Estado, diputados y ayuntamientos y someterlas al Consejo General para su registro;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XIII. Recibir de los partidos políticos y de los aspirantes a candidatos independientes las solicitudes de registro de candidatos a Gobernador del Estado, diputados y ayuntamientos y someterlas al Consejo General para su registro;
 
 XIV. Presidir la Junta Estatal Ejecutiva e informar al Consejo General de los trabajos de la misma;
 
@@ -2147,7 +2181,9 @@ VI. Estudiar y preparar las propuestas relativas al desarrollo del Instituto y s
 
 VII. Conocer de faltas administrativas que se cometan por los empleados del Instituto Electoral de Michoacán y aplicar la sanción correspondiente, en caso de procedencia;
 
-VIII. Elaborar las pautas que serán propuestas al Instituto Federal Electoral para la asignación de los tiempos de radio y televisión que correspondan a los partidos políticos durante los procesos electorales, así como las del propio Instituto; y,
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VIII. Elaborar las pautas que serán propuestas al Instituto Federal Electoral para la asignación de los tiempos de radio y televisión que correspondan a los partidos políticos y candidatos independientes durante los procesos electorales, así como las del propio Instituto; y,
 
 IX. Los demás que señale este Código, el Consejo General, el Presidente y otras disposiciones legales.
 
@@ -2223,7 +2259,9 @@ V. Establecer con las autoridades federales, estatales y municipales la coordina
 
 VI. Elaborar, cuando corresponda, la lista de votantes en el extranjero, dando de baja temporalmente de la lista nominal de electores a quienes se inscriban en aquélla;
 
-VII. Proporcionar a los órganos distritales y municipales electorales y a los partidos políticos, a través del presidente, el seccionamiento y la lista nominal de electores;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VII. Proporcionar a los órganos distritales y municipales electorales, a los partidos políticos y a los representantes de los candidatos independientes, a través del presidente, el seccionamiento y la lista nominal de electores;
 
 VIII. Mantener actualizada y clasificada por distrito, municipio y sección la cartografía electoral de la Entidad;
 
@@ -2247,7 +2285,9 @@ IV. Atender las necesidades administrativas de los órganos del Instituto;
 
 V. Acordar con el Presidente los asuntos de su competencia;
 
-VI. Tramitar y ministrar las prerrogativas a los partidos políticos; y,
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VI. Tramitar y ministrar las prerrogativas a los partidos políticos y candidatos independientes; y,
 
 VII. Las demás que le confiera este Código, el Consejo General, el Presidente y otras disposiciones legales.
 
@@ -2335,7 +2375,9 @@ VII. Aprobar el nombramiento del personal para el cumplimiento de sus funciones 
 
 VIII. Capacitar a los ciudadanos propuestos como funcionarios de casilla;
 
-IX. Conocer del registro de los nombramientos que realicen los consejos municipales electorales, de los representantes de los partidos políticos ante las mesas directivas de casilla y representantes generales;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+IX. Conocer del registro de los nombramientos que realicen los consejos municipales electorales, de los representantes de los partidos políticos y de los candidatos independientes, ante las mesas directivas de casilla y representantes generales;
 
 X. Recibir del Presidente del Consejo General las listas nominales de electores, boletas y formatos para los comicios de diputados y Gobernador, en su caso;
 
@@ -2371,11 +2413,15 @@ II. Un Secretario;
 
 III. Cuatro consejeros electorales; y,
 
-IV. Un representante por partido político.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+IV. Un representante por partido político y candidato independiente.
 
 Para ser designados, los consejeros electorales municipales deberán reunir similares requisitos que para los consejeros electorales distritales.
 
-Por cada Consejero Electoral se designará un suplente. Por cada representante de partido político se acreditará un suplente.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Por cada Consejero Electoral se designará un suplente. Por cada representante de partido político y de candidato independiente se acreditará un suplente.
 
 El Presidente y los consejeros electorales tendrán derecho a voz y voto.
 
@@ -2407,7 +2453,9 @@ IX. Capacitar a los ciudadanos que fungirán como funcionarios de casilla;
 
 X. Vigilar que las mesas directivas de casilla se instalen;
 
-XI. Registrar los nombramientos de los representantes de los partidos políticos ante las mesas directivas de casilla y generales, informando al Consejo Distrital de los registros procedentes;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XI. Registrar los nombramientos de los representantes de los partidos políticos y candidatos independientes ante las mesas directivas de casilla y generales, informando al Consejo Distrital de los registros procedentes;
 
 XII. Recibir del Consejo General y distrital las listas nominales de electores, boletas y formatos para los comicios de Gobernador, diputados y ayuntamientos;
 
@@ -2431,9 +2479,11 @@ A más tardar ciento treinta y cinco días antes de la jornada electoral, los co
 
 Para que los consejos municipales puedan sesionar, será necesaria la presencia del Presidente y de la mayoría de los integrantes con derecho a voto; de no tenerse esa mayoría en primera convocatoria, se citará de inmediato a una sesión a realizarse dentro de las veinticuatro horas siguientes, llamándose a los consejeros suplentes de quienes no hayan asistido, la cual se podrá celebrar con la asistencia del Presidente y de los consejeros que concurran. Este acto se consignará en el acta respectiva.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 174.
 
-Los consejos distritales y municipales electorales, dentro de las veinticuatro horas siguientes a su instalación, remitirán copia del acta respectiva a la Presidencia del Consejo General. En idéntica forma deberán de actuar respecto de las subsecuentes sesiones. De las actas anteriores se entregará, por conducto de sus representantes, copia certificada a los partidos que la soliciten.
+Los consejos distritales y municipales electorales, dentro de las veinticuatro horas siguientes a su instalación, remitirán copia del acta respectiva a la Secretaría General. En idéntica forma deberán de actuar respecto de las subsecuentes sesiones. De las actas anteriores se entregará, por conducto de sus representantes, copia certificada a los partidos y candidatos que la soliciten.
 
 ###### ARTÍCULO 175.
 
@@ -2537,7 +2587,9 @@ VI. Mantener el orden en la casilla y asegurar el desarrollo de la jornada elect
 
 VII. Asegurar el libre ejercicio del sufragio, impedir que se viole el secreto del voto, que se afecte la autenticidad del escrutinio y cómputo; y que se ejerza violencia sobre los electores, representantes de los partidos o los miembros de la Mesa Directiva de Casilla;
 
-VIII. Solicitar y disponer del auxilio de la fuerza pública para asegurar el orden en la casilla y el ejercicio de los derechos de ciudadanos y representantes de partidos;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VIII. Solicitar y disponer del auxilio de la fuerza pública para asegurar el orden en la casilla y el ejercicio de los derechos de ciudadanos y representantes;
 
 IX. Suspender la votación en caso de alteración del orden, reanudándola tan pronto se restablezca éste, hechos que de inmediato asentará en el acta correspondiente, comunicando de inmediato cuando se haga necesario al Consejo Electoral respectivo;
 
@@ -2557,7 +2609,9 @@ El Secretario de la Mesa Directiva de Casilla tiene atribuciones siguientes:
 
 I. Levantar las actas y documentos electorales que deban elaborarse en la casilla;
 
-II. Contar antes del inicio de la votación y ante funcionarios y representantes de partidos políticos que se encuentren presentes, las boletas electorales recibidas y anotar la cantidad en el acta respectiva;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+II. Contar antes del inicio de la votación, ante funcionarios y representantes que se encuentren presentes, las boletas electorales recibidas y anotar la cantidad en el acta respectiva;
 
 III. Recibir los escritos de incidentes y protesta, en los términos que señala este Código;
 
@@ -2595,7 +2649,9 @@ VI. Si aplicadas las medidas anteriores no fuesen suficientes los ciudadanos par
 
 El Consejo General acordará los criterios para la aplicación del procedimiento señalado en este artículo.
 
-Los partidos políticos podrán supervisar el procedimiento para la integración de las mesas directivas de casilla que se establece en este artículo.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Los representantes de los partidos políticos y de los candidatos independientes, podrán supervisar el procedimiento para la integración de las mesas directivas de casilla que se establece en este artículo.
 
 ###### ARTÍCULO 184.
 
@@ -2645,7 +2701,9 @@ Treinta y cinco días antes de la jornada electoral, los consejos municipales el
 
 La publicación se fijará en las oficinas de los consejos electorales correspondientes, en los edificios y lugares públicos más concurridos.
 
-De estos actos, el Secretario del Consejo Electoral entregará copia a los representantes de los partidos políticos haciéndolo constar en un acta.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+De estos actos, el Secretario del Consejo Electoral entregará copia a los representantes haciéndolo constar en un acta.
 
 ###### ARTÍCULO 188.
 
@@ -2661,11 +2719,15 @@ Quince días antes de la jornada electoral, los consejos municipales harán la s
 
 ### CAPÍTULO TERCERO. DE LOS REPRESENTANTES ANTE LAS MESAS DIRECTIVAS DE CASILLA Y REPRESENTANTES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 191.
 
-Los partidos políticos tendrán derecho a designar en su propia documentación representantes ante las mesas directivas de casilla y representantes generales ante los consejos municipales, a partir de que éstos aprueben el número de casillas que se instalarán y hasta quince días antes de la elección, siempre que el partido político haya registrado candidatos.
+Los partidos políticos y los candidatos independientes tendrán derecho a designar en su propia documentación representantes ante las mesas directivas de casilla y representantes generales ante los consejos municipales, a partir de que éstos aprueben el número de casillas que se instalarán y hasta quince días antes de la elección, siempre que el partido político haya registrado candidatos.
 
-En ningún caso los partidos políticos podrán presentar como representantes ante los órganos a que se refiere el párrafo anterior, a los ciudadanos que hubieran sido designados por el órgano electoral correspondiente, como funcionarios de Mesa Directiva de Casilla que aparezcan en la primera y segunda publicación a que se refiere este Código.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+En ningún caso, los partidos políticos y los candidatos independientes podrán presentar como representantes ante los órganos a que se refiere el párrafo anterior, a los ciudadanos que hubieran sido designados por el órgano electoral correspondiente, como funcionarios de Mesa Directiva de Casilla que aparezcan en la primera y segunda publicación a que se refiere este Código.
 
 Ningún registro procederá cuando se presente fuera de los plazos establecidos.
 
@@ -2673,15 +2735,21 @@ Podrán nombrarse un representante propietario y un suplente ante cada Mesa Dire
 
 El formato de la documentación en que se haga el registro deberá ser aprobado por el Consejo General del Instituto.
 
-Los nombramientos deberán indicar la denominación del partido político, nombre y apellidos del representante, su domicilio, clave de su credencial para votar, el tipo de nombramiento, indicación del carácter de propietario o suplente, en su caso, la casilla y el municipio en que actuará; así como las firmas del representante del partido que solicita el registro y del acreditado hasta antes de presentarlo a la Mesa Directiva de Casilla.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
 
-De cada nombramiento se entregará original y copia al representante del partido político correspondiente.
+Los nombramientos deberán indicar la denominación del partido político o candidato independiente, nombre y apellidos del representante, su domicilio, clave de su credencial para votar, el tipo de nombramiento, indicación del carácter de propietario o suplente, en su caso, la casilla y el municipio en que actuará; así como las firmas del representante del partido o candidato independiente que solicita el registro y del acreditado hasta antes de presentarlo a la Mesa Directiva de Casilla.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+De cada nombramiento se entregará original y copia al representante correspondiente.
 
 Los representantes se acreditarán ante la Mesa Directiva de Casilla con su nombramiento debidamente registrado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 192.
 
-Los representantes de los partidos políticos ante las mesas directivas de casilla tendrán los siguientes derechos:
+Los representantes ante las mesas directivas de casilla tendrán los siguientes derechos:
 
 I. Participar en la instalación de la casilla y contribuir al buen desarrollo desde ese momento hasta su clausura. Tendrán el derecho de observar y vigilar el desarrollo de la elección;
 
@@ -2693,35 +2761,51 @@ IV. Presentar al término del escrutinio y del cómputo escritos de protesta;
 
 V. Acompañar al Presidente o al Secretario de la Mesa Directiva de Casilla, al Consejo correspondiente, para hacer entrega de la documentación y el expediente electoral;
 
-VI. Portar durante la jornada electoral un distintivo de hasta 2.5 por 2.5 centímetros con el emblema del partido al que representen; y,
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VI. Portar durante la jornada electoral un distintivo de hasta 2.5 por 2.5 centímetros con el emblema del partido o candidato independiente al que representen; y,
 
 VII. Los demás que establezca este Código.
 
 Los representantes vigilarán el cumplimiento de las disposiciones de este Código y deberán firmar todas las actas que se levanten, pudiéndolo hacer bajo protesta con mención de la causa que la motiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 193.
 
-La actuación de los representantes generales de los partidos estará sujeta a las normas siguientes:
+La actuación de los representantes generales de los partidos políticos y candidatos independientes estará sujeta a las normas siguientes:
 
 I. Ejercerán su cargo exclusivamente ante las mesas directivas de casilla instaladas en el distrito electoral para el que fueron acreditados;
 
-II. Deberán actuar individualmente, y en ningún caso podrá hacerse presente al mismo tiempo en las casillas más de un representante general, de un mismo partido político;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
 
-III. No sustituirán en sus funciones a los representantes de los partidos políticos ante las mesas directivas de casilla, sin embargo, podrán coadyuvar en sus funciones y en el ejercicio de los derechos de éstos ante las propias mesas directivas de casilla;
+II. Deberán actuar individualmente, y en ningún caso podrá hacerse presente al mismo tiempo en las casillas más de un representante general, de un mismo partido político o candidato independiente;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+III. No sustituirán en sus funciones a los representantes ante las mesas directivas de casilla, sin embargo, podrán coadyuvar en sus funciones y en el ejercicio de los derechos de éstos ante las propias mesas directivas de casilla;
 
 IV. En ningún caso ejercerán o asumirán las funciones de los integrantes de las mesas de casilla;
 
 V. No obstaculizarán el desarrollo normal de la votación en las casillas en las que se presenten;
 
-VI. En todo tiempo podrán presentar escritos de incidentes que se susciten durante el desarrollo de la jornada electoral, pero solo podrán presentar escritos de protesta al término del escrutinio y cómputo cuando el representante de su partido ante la mesa directiva de casilla no estuviere presente;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
 
-VII. Sólo podrán solicitar y obtener de las mesas directivas de casilla del distrito para el que fueron nombrados, copias de las actas que se levanten, cuando no hubiere estado presente el representante de su partido acreditado ante la Mesa Directiva de Casilla; y,
+VI. En todo tiempo podrán presentar escritos de incidentes que se susciten durante el desarrollo de la jornada electoral, pero sólo podrán presentar escritos de protesta al término del escrutinio y cómputo cuando el representante ante la mesa directiva de casilla no estuviere presente;
 
-VIII. Podrán comprobar la presencia de los representantes de su partido en las mesas directivas de casilla y recibir de ellos los informes relativos a su desempeño.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VII. Sólo podrán solicitar y obtener de las mesas directivas de casilla del distrito para el que fueron nombrados, copias de las actas que se levanten, cuando no hubiere estado presente el representante de su partido político o candidato independiente acreditado ante la Mesa Directiva de Casilla; y,
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VIII. Podrán comprobar la presencia de los representantes de su partido político o candidato independiente en las mesas directivas de casilla y recibir de ellos los informes relativos a su desempeño.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
 
 ###### ARTÍCULO 194.
 
-Los representantes de partido ante mesas directivas de casilla y generales, no sustituirán en sus atribuciones a los funcionarios de la misma.
+Los representantes ante mesas directivas de casilla y generales, no sustituirán en sus atribuciones a los funcionarios de la misma.
 
 # LIBRO QUINTO. DE LA ELECCIÓN
 
@@ -2729,9 +2813,11 @@ Los representantes de partido ante mesas directivas de casilla y generales, no s
 
 ### CAPÍTULO ÚNICO. DEL REGISTRO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 195.
 
-Corresponde exclusivamente a los partidos políticos el derecho de solicitar el registro de candidatos a cargos de elección popular.
+Corresponde a los partidos políticos y a los ciudadanos el derecho de solicitar el registro de candidaturas a cargos de elección popular.
 
 La solicitud de registro de un candidato, formula, planilla o lista de candidatos presentada por un partido político o coalición, deberá contener lo siguiente:
 
@@ -2815,11 +2901,15 @@ a) Nombre de la Entidad Federativa;
 
 b) Cargo para el que se eligen;
 
-c) El distintivo con el color o combinación de colores y emblema de cada partido político o coalición;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+c) El distintivo con el color o combinación de colores y emblema de cada partido político, coalición o candidato independiente;
 
 d) Nombre y apellidos de los candidatos;
 
-e) Un solo espacio para cada partido político o coalición;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+e) Un solo espacio para cada partido político, coalición o candidato independiente;
 
 f) Un espacio para asentar los nombres de los candidatos no registrados;
 
@@ -2827,7 +2917,9 @@ g) Las firmas impresas del Presidente y Secretario del Consejo General; y,
 
 h) Talón desprendible con folio;
 
-II. Para la elección de diputados de mayoría relativa y representación proporcional, la boleta contendrá los elementos generales anotados en la fracción anterior y precisará además, el distrito de que se trate y llevará impreso un sólo emblema por partido político o coalición para comprender la formula de candidatos y la lista de representación proporcional; al reverso llevarán impresas las listas plurinominales de los candidatos, propietarios y suplentes, que registren los partidos políticos;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+II. Para la elección de diputados de mayoría relativa, la boleta contendrá los elementos generales anotados en la fracción anterior y precisará además, el distrito de que se trate y llevará impreso un sólo emblema por partido político, coalición o candidato independiente para comprender la fórmula de candidatos; al reverso llevarán impresas las listas plurinominales de los candidatos, propietarios y suplentes, que registren los partidos políticos;
 
 III. Para la elección de ayuntamientos, se estará a lo dispuesto en los incisos b) c) f) g) y h) de la fracción I de este artículo, debiendo las boletas contener lo siguiente:
 
@@ -2837,7 +2929,9 @@ b) Nombre y apellido de los candidatos, propietario y suplente, que integren las
 
 c) Un solo espacio para cada planilla de candidatos a integrar los ayuntamientos, propietarios y suplentes; y,
 
-d) Los distintivos con el color o combinación de colores que tengan registrados los partidos políticos, mismos que aparecerán en las boletas en el orden que les corresponda, de acuerdo con la antigüedad de su registro.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+d) Los distintivos con el color o combinación de colores que tengan registrados los partidos políticos, coaliciones o candidatos independientes mismos que aparecerán en las boletas en el orden que les corresponda, de acuerdo con la antigüedad de su registro.
 
 ###### ARTÍCULO 199.
 
@@ -2857,9 +2951,13 @@ III. A continuación, los miembros presentes del Consejo Distrital o Municipal, 
 
 IV. El mismo día o a más tardar el siguiente, el Presidente del Consejo, el Secretario y los consejeros electorales procederán a contar las boletas para precisar la cantidad recibida, sellarlas al reverso y agruparlas en razón del número de electores que corresponda a cada una de las casillas a instalar, incluyendo las casillas especiales, según el número que acuerde el Consejo General para ellas. El Secretario registrará los datos de esta distribución; y,
 
-V. Estas operaciones se realizarán con la presencia de los representantes de los partidos políticos que decidan asistir.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
 
-Los representantes de los partidos bajo su más estricta responsabilidad, sí lo desearen, podrán firmar las boletas, levantándose un acta en la que consten el número de boletas que se les dio a firmar, el número de las firmadas y, en su caso, el número de boletas faltantes después de haber realizado el procedimiento de firma En este último caso se dará la noticia de inmediato a la autoridad competente.
+V. Estas operaciones se realizarán con la presencia de los representantes que decidan asistir.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Los representantes bajo su más estricta responsabilidad, sí lo desearen, podrán firmar las boletas, levantándose un acta en la que consten el número de boletas que se les dio a firmar, el número de las firmadas y, en su caso, el número de boletas faltantes después de haber realizado el procedimiento de firma. En este último caso se dará la noticia de inmediato a la autoridad competente.
 
 La falta de firma de los representantes en las boletas no impedirá su oportuna distribución.
 
@@ -2869,7 +2967,9 @@ Habiéndose realizado las operaciones a que se refiere la fracción IV del prese
 
 De lo anterior se levantará acta circunstanciada, debiéndose especificar el número y folio de las boletas inutilizadas.
 
-El paquete que contenga las boletas sobrantes inutilizadas será entregado por el secretario del comité distrital o municipal correspondiente al Consejo General, quien podrá ser acompañado por los representantes de partido que deseen hacerlo.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+El paquete que contenga las boletas sobrantes inutilizadas será entregado por el secretario del comité distrital o municipal correspondiente al Consejo General, quien podrá ser acompañado por los representantes que deseen hacerlo.
 
 El Consejo General dispondrá se provea a las mesas directivas de casilla de un porcentaje de planillas braille.
 
@@ -2883,9 +2983,13 @@ Los consejos municipales por conducto del personal autorizado entregará a cada 
 
 I. Lista nominal de los electores que podrán votar en la casilla;
 
-II. Relación de los representantes de los partidos ante la Mesa Directiva de Casilla y los de carácter general;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
 
-III. Las boletas electorales para cada elección en número igual al de los electores que figuren en la lista nominal, más el número que autorice el Consejo General para que los representantes de los partidos políticos puedan votar y las que en su caso, determine expresamente el mismo Consejo para las casillas especiales;
+II. Relación de los representantes ante la Mesa Directiva de Casilla y los de carácter general;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+III. Las boletas electorales para cada elección en número igual al de los electores que figuren en la lista nominal, más el número que autorice el Consejo General para que los representantes puedan votar y las que en su caso, determine expresamente el mismo Consejo para las casillas especiales;
 
 IV. Las urnas necesarias para recibir la votación, mismas que deberán fabricarse con materiales transparentes;
 
@@ -2913,9 +3017,11 @@ El capacitador-asistente electoral que el Instituto designe podrá estar present
 
 La Mesa Directiva de Casilla funcionará con el Presidente, el Secretario y un Escrutador, respetando el orden en el que fueron designados. Una vez integrada la Mesa Directiva de Casilla los demás ciudadanos que hubieren sido designados como funcionarios se retirarán.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 205.
 
-A las ocho horas del día de la elección, los integrantes de la Mesa Directiva de Casilla, procederán a la instalación de la casilla en presencia de los representantes de los partidos políticos que concurran.
+A las ocho horas del día de la elección, los integrantes de la Mesa Directiva de Casilla, procederán a la instalación de la casilla en presencia de los representantes que concurran.
 
 Acto continuo se iniciará el levantamiento del acta de la jornada Electoral, llenándose y firmándose el apartado correspondiente a la instalación de la casilla.
 
@@ -2935,7 +3041,9 @@ b) El nombre de las personas que actúan como funcionarios de casilla;
 
 c) El número de boletas recibidas para cada elección;
 
-d) Que las urnas se armaron o abrieron en presencia de los funcionarios, representantes y electores para comprobar que estaban vacías y que se colocaron en una mesa o lugar adecuado a la vista de los representantes de los partidos políticos;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+d) Que las urnas se armaron o abrieron en presencia de los funcionarios, representantes y electores para comprobar que estaban vacías y que se colocaron en una mesa o lugar adecuado a la vista de los representantes;
 
 e) Una relación de los incidentes suscitados, si los hubiere; y,
 
@@ -2943,9 +3051,11 @@ f) En su caso, la causa por la que se cambió de ubicación la casilla.
 
 En ningún caso se podrán instalar casillas antes de las 08:00 horas.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 207.
 
-A solicitud de cualquiera de los representantes de los partidos políticos, las boletas electorales podrán ser rubricadas o selladas por uno de ellos designado por sorteo de entre los que estén de acuerdo, quien podrá hacerlo por partes para no obstaculizar el desarrollo de la votación. La falta de rúbrica o sello en las boletas no será motivo para anular los sufragios recibidos.
+A solicitud de cualquiera de los representantes, las boletas electorales podrán ser rubricadas o selladas por uno de ellos designado por sorteo de entre los que estén de acuerdo, quien podrá hacerlo por partes para no obstaculizar el desarrollo de la votación. La falta de rúbrica o sello en las boletas no será motivo para anular los sufragios recibidos.
 
 ###### ARTÍCULO 208.
 
@@ -2955,17 +3065,21 @@ I. Si no estuvieren presentes alguno o algunos de los funcionarios designados co
 
 II. En caso de que faltasen funcionarios, el que asuma las funciones de presidente designará a los faltantes de entre los electores que se encuentren formados para votar, siempre y cuando estén inscritos en la lista nominal de la casilla o alguna de sus contiguas;
 
-III. Si no se presentara ninguno de los funcionarios designados, y estando presentes los representantes de por lo menos dos partidos políticos, designarán por mayoría a los funcionarios de la Mesa Directiva de casillas de entre los electores que se encuentren formados para votar, siempre y cuando estén inscritos en el listado nominal de la casilla o alguna de sus contiguas, debiendo notificar al Consejo Electoral correspondiente, asentando esta circunstancia en el acta respectiva; bajo este supuesto la casilla no se podrá instalar después de las once horas; y,
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+III. Si no se presentara ninguno de los funcionarios designados, y estando presentes los representantes de por lo menos dos partidos políticos o candidatos independientes, designarán por mayoría a los funcionarios de la Mesa Directiva de casillas de entre los electores que se encuentren formados para votar, siempre y cuando estén inscritos en el listado nominal de la casilla o alguna de sus contiguas, debiendo notificar al Consejo Electoral correspondiente, asentando esta circunstancia en el acta respectiva; bajo este supuesto la casilla no se podrá instalar después de las once horas; y,
 
 IV. Si no fuera posible instalar la casilla conforme a los supuestos anteriores, los electores que se encuentren presentes, con la intervención de fedatario público o del capacitador-asistente electoral, o en su caso otro funcionario del Instituto Electoral de Michoacán, designado por el Consejo Electoral correspondiente, procederán a su instalación, levantando el acta correspondiente donde se harán constar los hechos relativos y los nombres y firmas de los ciudadanos que integran la Mesa Directiva de Casilla y se notificará al Consejo Municipal correspondiente. Bajo este supuesto la casilla no se podrá instalar después de las 12:00 horas.
 
 En todo caso, integrada la Mesa Directiva de Casilla conforme a los anteriores supuestos, iniciará sus actividades, recibirá válidamente la votación y cumplirá todas las funciones que la Ley le señala.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 209.
 
-En ningún caso podrán recaer en los representantes de los partidos políticos o en los capacitadores-asistentes electorales, los nombramientos de funcionarios de la Mesa Directiva de casilla.
+En ningún caso podrán recaer en los representantes o en los capacitadores-asistentes electorales, los nombramientos de funcionarios de la Mesa Directiva de casilla.
 
-Los funcionarios y representantes de los partidos políticos que actuaron en la casilla, deberán, sin excepción, firmar las actas.
+Los funcionarios y representantes que actuaron en la casilla, deberán, sin excepción, firmar las actas.
 
 ###### ARTÍCULO 210.
 
@@ -2979,17 +3093,21 @@ III. Se advierta al momento de la instalación de la casilla, que ésta se prete
 
 IV. Las condiciones del local no permitan asegurar la libertad o el secreto del voto o el fácil acceso de los electores, o bien no ofrezcan condiciones que garanticen la realización de las operaciones electorales o para resguardar de las inclemencias del tiempo a los funcionarios de la mesa, a los votantes y a la documentación, siendo en este caso necesario que los funcionarios y representantes presentes acuerden reubicar la casilla.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 211.
 
-En los casos de cambio de ubicación de la casilla por causa justificada, y con la conformidad expresa de los representantes de los partidos políticos ante la Mesa Directiva de Casilla o representantes generales, en su caso, se deberá cumplir con el requisito de que, el nuevo sitio estará comprendido en la misma sección y el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del lugar original, levantando el acta respectiva, haciendo constar en ella la causa justificada para la instalación en un sitio distinto, la cual deberá ser firmada de conformidad por los integrantes de la Mesa y representantes de los partidos políticos.
+En los casos de cambio de ubicación de la casilla por causa justificada, y con la conformidad expresa de los representantes ante la Mesa Directiva de Casilla o representantes generales, en su caso, se deberá cumplir con el requisito de que, el nuevo sitio estará comprendido en la misma sección y el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del lugar original, levantando el acta respectiva, haciendo constar en ella la causa justificada para la instalación en un sitio distinto, la cual deberá ser firmada de conformidad por los integrantes de la Mesa y representantes.
 
 ###### ARTÍCULO 212.
 
 Instalada la casilla, sus miembros no deberán retirarse hasta la integración del paquete electoral, salvo caso fortuito o de fuerza mayor.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 213.
 
-Mientras se reciba la votación en la casilla, permanecerán en ella únicamente sus integrantes, los representantes de los partidos y los ciudadanos pendientes de votar.
+Mientras se reciba la votación en la casilla, permanecerán en ella únicamente sus integrantes, los representantes y los ciudadanos pendientes de votar.
 
 ###### ARTÍCULO 214.
 
@@ -3005,7 +3123,9 @@ II. El Presidente de la Mesa se cerciorará de la identidad del votante y el Sec
 
 III. Cumplidos los requisitos para acreditar la calidad de elector, el Presidente de la casina le entregará las boletas correspondientes, según la elección de que se trate;
 
-IV. El elector de manera secreta marcará el círculo que contenga el partido político por el que sufraga en la boleta respectiva o bien marcará y escribirá en el correspondiente espacio en blanco, el nombre del candidato, fórmula de candidatos, planilla o candidatos no registrados por los que vote, e introducirá personalmente la boleta en la urna respectiva; y,
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+IV. El elector de manera secreta, marcará el círculo que contenga el distintivo con el color o combinación de colores y emblema de partido político, coalición o candidato independiente por el que sufraga en la boleta respectiva o bien marcará y escribirá en el correspondiente espacio en blanco, el nombre del candidato, fórmula de candidatos, planilla o candidatos no registrados por los que vote, e introducirá personalmente la boleta en la urna respectiva; y,
 
 V. El Secretario de la casilla anotará la palabra Votó en la lista nominal, procediendo a:
 
@@ -3015,9 +3135,11 @@ b) Impregnar con líquido indeleble el dedo pulgar derecho del elector; y,
 
 c) Devolver al elector su credencial para votar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 216.
 
-Los representantes de los partidos ante las mesas directivas, podrán ejercer su derecho de voto en la casilla en que estén acreditados, en los siguientes términos:
+Los representantes ante las mesas directivas, podrán ejercer su derecho de voto en la casilla en que estén acreditados, en los siguientes términos:
 
 I. En la elección de Gobernador, diputados por ambos principios y ayuntamientos, si la casilla correspondiente se ubica en el municipio y distrito al que corresponda su credencial para votar;
 
@@ -3025,7 +3147,9 @@ II. Sólo en la elección de Gobernador y de diputados por ambos principios, cua
 
 III. Sólo en la elección de Gobernador y de diputados de representación proporcional, cuando la casilla se encuentre fuera del municipio y distrito al que pertenece la credencial para votar; caso en el cual, se deberá asentar la abreviatura RP o la leyenda: representación proporcional; en la boleta que se entregue para sufragar para diputados.
 
-En lo conducente se seguirá el procedimiento señalado en este artículo anotando el nombre completo y la clave de la credencial para votar de los representantes de los partidos al final de la lista nominal de electores.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+En lo conducente se seguirá el procedimiento señalado en este artículo anotando el nombre completo y la clave de la credencial para votar de los representantes al final del listado nominal de electores.
 
 ###### ARTÍCULO 217.
 
@@ -3077,6 +3201,8 @@ Junto con el informe a que se refiere el artículo anterior, deberán registrars
 
 Durante los ocho días previos a la elección y hasta las diecinueve horas del día de la jornada electoral, queda prohibido publicar o difundir por cualquier medio los resultados de encuestas o sondeos de opinión, encuestas de salida, conteos rápidos y cualquier otro resultado que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 224.
 
 Ninguna autoridad puede durante la jornada electoral aprehender a los integrantes de las mesas de casilla, a los representantes de los partidos políticos o a un elector, sino hasta después de que haya votado, salvo los casos de flagrante delito o de orden expresa del Presidente de la Mesa Directiva de Casilla.
@@ -3119,9 +3245,11 @@ A los infractores que no acaten sus órdenes, los mandará detener por medio de 
 
 El Presidente de la Mesa Directiva suspenderá la votación en caso de que alguna persona trate de intervenir con violencia, con el objeto de alterar el orden de la casilla. Cuando lo considere conveniente, dispondrá que se reanude la votación dejando constancia de los hechos en el acta de la jomada electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 230.
 
-El secretario de la casilla deberá recibir los documentos que contengan impugnaciones, así como los que sirvan para hacer valer la protesta con las pruebas documentales que presenten los representantes de los partidos, sin que pueda mediar discusión sobre su admisión. Estos escritos se presentarán por triplicado, distribuyéndose de la siguiente manera:
+El Secretario de la casilla deberá recibir los documentos que contengan impugnaciones, así como los que sirvan para hacer valer la protesta con las pruebas documentales que presenten los representantes, sin que pueda mediar discusión sobre su admisión. Estos escritos se presentarán por triplicado, distribuyéndose de la siguiente manera:
 
 I. Un tanto se integrará al paquete electoral;
 
@@ -3147,9 +3275,9 @@ Cerrada la votación, se llenará la parte correspondiente del acta de la jornad
 
 El escrutinio y cómputo, es el procedimiento que determina:
 
-I. El número de electores que votó en la casilla;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
 
-II. El número de votos emitidos en favor de cada uno de los partidos políticos, coaliciones, candidatos comunes, así como los de los candidatos no registrados, los que se asentarán en el acta correspondiente por separado;
+I. El número de votos emitidos en favor de cada uno de los partidos políticos, coaliciones, candidatos comunes o independientes, así como los de los candidatos no registrados, los que se asentarán en el acta correspondiente por separado;
 
 III. El número de votos nulos; y,
 
@@ -3167,7 +3295,9 @@ III. Se comprobará si el número de votos corresponde con el número de elector
 
 IV. El Presidente de la Mesa mostrará a todos los presentes que la urna quedó vacía;
 
-V. El escrutador separará las boletas en que se haya cruzado un solo emblema de partido político o coalición de aquellas en que se haya marcado más de un emblema;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+V. El escrutador separará las boletas en que se haya cruzado un solo emblema de aquellas en que se haya marcado más de un emblema;
 
 VI. Cuando en la boleta se hayan marcado dos o más emblemas de partidos políticos, el Escrutador identificará si postulan al mismo candidato o candidatos y las separará como votos válidos;
 
@@ -3179,13 +3309,19 @@ IX. Respecto de las boletas que hayan sido marcadas por el elector en el emblema
 
 X. El Escrutador leerá en voz alta de las boletas marcadas con dos o más emblemas de partidos políticos el nombre del candidato a favor de quien se haya emitido el voto y el Secretario anotará los votos que el escrutador vaya leyendo y contará cada uno como un solo voto;
 
-XI. El Escrutador tomará cada una de las boletas cruzadas para un solo partido político o coalición y en voz alta leerá el nombre del partido o coalición; el Secretario anotará los votos que el Escrutador vaya leyendo y contará cada uno como un solo voto;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XI. El Escrutador tomará cada una de las boletas cruzadas para un solo partido político, coalición o candidato independiente y en voz alta leerá el nombre del partido, coalición o candidato independiente; el Secretario anotará los votos que el Escrutador vaya leyendo y contará cada uno como un solo voto;
 
 XII. Se contarán los votos emitidos a favor de los candidatos no registrados;
 
-XIII. Se levantará el acta de escrutinio y cómputo, la que firmarán los miembros de la Mesa Directiva de casilla y los representantes de los partidos políticos; y,
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
 
-XIV. El Presidente de la Mesa Directiva declarará los resultados de la votación y los fijará en el exterior de la casilla, los que serán firmados por éste y los representantes de los partidos que así deseen hacerlo.
+XIII. Se levantará el acta de escrutinio y cómputo, la que firmarán los miembros de la Mesa Directiva de casilla y los representantes; y,
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XIV. El Presidente de la Mesa Directiva declarará los resultados de la votación y los fijará en el exterior de la casilla, los que serán firmados por éste y los representantes que así deseen hacerlo.
 
 ###### ARTÍCULO 235.
 
@@ -3195,9 +3331,13 @@ Si se encontrasen boletas de una elección en la urna correspondiente a otra, se
 
 Un voto será nulo:
 
-I. Cuando la boleta haya sido depositada sin cruzar ningún emblema de partido político o coalición, ni expresar candidato o fórmula de candidatos no registrados;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
 
-II. Cuando en la boleta aparezcan marcados dos o más emblemas de partidos políticos que no postulen un candidato en común; y,
+I. Cuando la boleta haya sido depositada en blanco sin cruzar ningún emblema, ni expresar candidato o fórmula de candidatos no registrados;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+II. Cuando en la boleta aparezcan marcados dos o más emblemas de partidos políticos o candidato independiente que no postulen un candidato en común; y,
 
 III. Cuando no se pueda determinar cuál emblema ha sido marcado por el elector.
 
@@ -3213,7 +3353,9 @@ I. El número de votos emitidos a favor de cada partido político, coalición, c
 
 II. El número de boletas recibidas para la elección correspondiente;
 
-III. El número de ciudadanos que votaron conforme a la lista nominal, incluyendo a los representantes de los partidos políticos ante la Mesa Directiva que votaron en la casilla sin estar en el listado nominal de electores;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+III. El número de ciudadanos que votaron conforme a la lista nominal, incluyendo a los representantes ante la Mesa Directiva que votaron en la casilla sin estar en el listado nominal de electores;
 
 IV. El número total de boletas sobrantes que fueron inutilizadas;
 
@@ -3221,7 +3363,9 @@ V. El número de votos nulos;
 
 VI. Una relación de incidentes, si los hubiere; y,
 
-VII. La relación de escritos de protesta presentados por los representantes de los partidos políticos al término del escrutinio y cómputo.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+VII. La relación de escritos de protesta presentados por los representantes al término del escrutinio y cómputo.
 
 En ningún caso se sumarán a los votos nulos las boletas sobrantes que fueron inutilizadas.
 
@@ -3243,7 +3387,9 @@ IV. La lista nominal, se incluirá en el paquete de la elección de diputados; y
 
 V. Los escritos de protesta presentados y cualquier otro documento relacionado con la elección.
 
-Los paquetes de casilla deberán quedar cerrados y sobre su envoltura firmarán los miembros de la Mesa Directiva y los representantes de los partidos políticos, si desean hacerlo, se levantará constancia de la integración y remisión del mencionado paquete.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Los paquetes de casilla deberán quedar cerrados y sobre su envoltura firmarán los miembros de la Mesa Directiva y los representantes, si desean hacerlo, se levantará constancia de la integración y remisión del mencionado paquete.
 
 ###### ARTÍCULO 240.
 
@@ -3287,7 +3433,9 @@ I. Se recibirán en el orden en que sean entregados por las personas facultadas 
 
 II. El Presidente del Consejo respectivo dispondrá su depósito, en orden numérico de las casillas, colocando por separado los de las especiales, en un lugar dentro del local del Consejo que reúna las condiciones de seguridad, desde el momento de su recepción hasta el día en que se practique el cómputo distrital o municipal; y,
 
-III. El Presidente del Consejo Distrital o Municipal, bajo su responsabilidad los salvaguardará y al efecto dispondrá que sean selladas las puertas de acceso del lugar a que fueron depositadas, en presencia de los representantes de los partidos políticos.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+III. El Presidente del Consejo Distrital o Municipal, bajo su responsabilidad los salvaguardará y al efecto dispondrá que sean selladas las puertas de acceso del lugar a que fueron depositadas, en presencia de los representantes.
 
 De la recepción de los paquetes que contengan los expedientes de casilla, se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala este Código.
 
@@ -3295,13 +3443,17 @@ De la recepción de los paquetes que contengan los expedientes de casilla, se le
 
 Los Consejos respectivos harán las sumas de las actas de escrutinio y cómputo de las casillas conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes que contengan los expedientes electorales, conforme a las siguientes reglas:
 
-I. El Consejo respectivo autorizará al personal necesario para la recepción continua y simultanea de los paquetes electorales. Los partidos políticos podrán acreditar a sus representantes suplentes para que estén presentes durante dicha recepción;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+I. El Consejo respectivo autorizará al personal necesario para la recepción continua y simultánea de los paquetes electorales. Los partidos políticos o candidatos independientes podrán acreditar a sus representantes suplentes para que estén presentes durante dicha recepción;
 
 II. Los funcionarios electorales designados recibirán las actas de escrutinio y cómputo y de inmediato darán lectura en voz alta del resultado de las votaciones que aparezcan en ellas, procediendo a realizar la suma correspondiente para informar inmediatamente al Consejo General;
 
 III. El Secretario o el funcionario autorizado para ello, anotará esos resultados en el lugar que les corresponda en la forma destinada para ello, conforme al orden numérico de las casillas; y,
 
-IV. Los representantes de los partidos políticos acreditados ante el Consejo, contarán con los formatos adecuados para anotar en ellos los resultados de la votación en las casillas.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+IV. Los representantes acreditados ante el Consejo, contarán con los formatos adecuados para anotar en ellos los resultados de la votación en las casillas.
 
 Para el mejor conocimiento de los ciudadanos, el Presidente deberá fijar en el exterior del local del Consejo respectivo, los resultados preliminares de las elecciones.
 
@@ -3311,7 +3463,9 @@ El Consejo General podrá aprobar un mecanismo ágil para la recopilación, rece
 
 El acuerdo correspondiente deberá, por lo menos contener:
 
-I. La observación y vigilancia de representantes de partidos políticos en todas sus fases;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+I. La observación y vigilancia de representantes en todas sus fases;
 
 II. Las funciones y atribuciones del personal técnico operador del sistema;
 
@@ -3351,7 +3505,9 @@ I. Examinará los paquetes electorales, separando los que tengan signos de alter
 
 II. Se abrirán los paquetes que aparezcan sin alteración de acuerdo al orden numérico de las casillas; se cotejarán los resultados consignados en las actas de escrutinio y cómputo contenidas en el expediente de casilla con los que aparecen en las que obren en poder del Presidente del Consejo; si ambos resultados coinciden se asentarán en las formas establecidas para ello.
 
-Para el caso de que no obrare el acta de escrutinio y cómputo correspondiente en poder del Presidente del Consejo, los resultados se cotejarán con la primera copia del acta de escrutinio y cómputo destinada al Programa de Resultados Electorales Preliminares y de no existir ésta, con la copia autógrafa que obre en poder de los representantes de al menos dos partidos políticos, siempre y cuando no tengan signos de alteración.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Para el caso de que no obrare el acta de escrutinio y cómputo correspondiente en poder del Presidente del Consejo, los resultados se cotejarán con la primera copia del acta de escrutinio y cómputo destinada al Programa de Resultados Electorales Preliminares y de no existir ésta, con la copia autógrafa que obre en poder de los representantes de al menos dos partidos políticos o candidatos independientes, siempre y cuando no tengan signos de alteración.
 
 III. Si los resultados de las actas no coinciden, o no existe el acta de escrutinio y cómputo en el expediente de la casilla, ni obrare en poder del Presidente del Consejo, ni fuera posible realizar el cotejo con las copias de las actas a que se refiere el párrafo anterior, se procederá a realizar nuevamente el escrutinio y cómputo de la casilla, levantándose el acta correspondiente. Los resultados se anotarán en la forma establecida para ello dejándose constancia en el acta circunstanciada correspondiente; de igual manera se hará constar en dicha acta las objeciones que hubiese manifestado cualquiera de los representantes ante el Consejo, quedando a salvo sus derechos para impugnar ante el Tribunal Electoral del Estado el cómputo de que se trate. En ningún caso se podrá interrumpir u obstaculizar la realización de los cómputos;
 
@@ -3373,11 +3529,17 @@ VIII. Se hará constar en el acta circunstanciada de la sesión los resultados d
 
 Durante la apertura de paquetes electorales conforme a lo señalado en las fracciones anteriores, el Presidente o el Secretario del Consejo correspondiente extraerá: los escritos de protesta, si los hubiere; la lista nominal correspondiente; la relación de ciudadanos que votaron y no aparecen en la lista nominal, así como las hojas de incidentes y la demás documentación que determine el Consejo General en acuerdo previo a la jornada electoral. De la documentación así obtenida, se dará cuenta al Consejo General, debiendo ordenarse conforme a la numeración de las casillas. Las carpetas con dicha documentación quedarán bajo resguardo del presidente del Consejo Municipal o Distrital y, en su caso, del Secretario General del Instituto, para atender los requerimientos que llegare a presentar el Tribunal Electoral u otros órganos del Instituto.
 
-IX. Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido que postuló al segundo de los candidatos antes señalados, el Consejo Distrital deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el distrito;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
 
-X. Si al término del cómputo la diferencia entre el candidato ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido que postuló al segundo de los candidatos antes señalados, el Consejo Distrital deberá realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento;
+IX. Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del segundo del partido o candidatos antes señalados, el Consejo Distrital deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el distrito;
 
-XI. Conforme a lo establecido en el párrafo anterior, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Distrital o Municipal dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, el presidente del Consejo Distrital o Municipal dará aviso inmediato al secretario general del Consejo General; ordenará la creación de grupos de trabajo integrados por los consejeros electorales, los representantes de los partidos y los vocales, que los presidirán. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+X. Si al término del cómputo la diferencia entre el candidato ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido o candidatos antes señalados, el Consejo Distrital deberá realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+XI. Conforme a lo establecido en el párrafo anterior, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Distrital o Municipal dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, el presidente del Consejo Distrital o Municipal dará aviso inmediato al secretario general del Consejo General; ordenará la creación de grupos de trabajo integrados por los consejeros electorales, los representantes de los partidos o candidatos independientes y los vocales, que los presidirán. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos o candidatos independientes tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente;
 
 XII. Si durante el recuento de votos se encuentran en el paquete votos de una elección distinta, se contabilizarán para la elección de que se trate;
 
@@ -3423,7 +3585,9 @@ a) Examinará los paquetes electorales separando los que tengan signos de altera
 
 b) Se abrirán los paquetes que aparezcan sin alteración de acuerdo al orden numérico de las casillas; se cotejarán los resultados consignados en las actas de escrutinio y cómputo contenidas en el expediente de casilla con las que obren en poder del Presidente del Consejo; si ambos resultados coinciden se asentarán en las formas establecidas para ello;
 
-c) Para el caso de que no obrare el acta de escrutinio y cómputo correspondiente en poder del Presidente del Consejo, los resultados se cotejarán con la primera copia del acta de escrutinio y cómputo destinada al Programa de Resultados Electorales Preliminares y de no existir ésta, con la copia autógrafa que obre en poder de los representantes de al menos dos partidos políticos, siempre y cuando no tengan signos de alteración;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+c) Para el caso de que no obrare el acta de escrutinio y cómputo correspondiente en poder del Presidente del Consejo, los resultados se cotejarán con la primera copia del acta de escrutinio y cómputo destinada al Programa de Resultados Electorales Preliminares y de no existir ésta, con la copia autógrafa que obre en poder de los representantes de al menos dos partidos políticos o candidatos independientes, siempre y cuando no tengan signos de alteración;
 
 d) Si los resultados de las actas no coinciden, o no existe el acta de escrutinio y cómputo en el expediente de la casilla, ni obrare en poder del Presidente del Consejo, ni fuera posible realizar el cotejo con las copias de las actas a que se refiere el párrafo anterior, se procederá a realizar nuevamente el escrutinio y cómputo de la casilla, levantándose el acta correspondiente. Los resultados se anotarán en la forma establecida para ello dejándose constancia en el acta circunstanciada correspondiente; de igual manera, se hará constar en dicha acta las objeciones que hubiese manifestado cualquiera de los representantes ante el Consejo, quedando a salvo sus derechos para impugnar ante el Tribunal Electoral del Estado el cómputo de que se trate. En ningún caso se podrá interrumpir u obstaculizar la realización de los cómputos;
 
@@ -3437,9 +3601,13 @@ e) Se procederá a realizar nuevamente el escrutinio y cómputo en los términos
 
 f) A continuación se abrirán los paquetes con muestras de alteración y se realizarán según sea el caso, las operaciones señaladas en las fracciones anteriores, haciéndose constar lo procedente en el acta respectiva;
 
-g) Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido que postuló al segundo de los candidatos antes señalados, el Consejo Municipal deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el municipio;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
 
-h) Si al término del cómputo la diferencia entre el candidato ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido que postuló al segundo de los candidatos antes señalados, el Consejo Municipal deberá realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento;
+g) Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido o candidatos antes señalados, el Consejo Municipal deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo de la sumatoria de resultados por partido o candidato independiente consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el municipio;
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+h) Si al término del cómputo la diferencia entre el candidato ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido o candidatos antes señalados, el Consejo Municipal deberá realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento;
 
 i) La suma de los resultados, después de realizar las operaciones indicadas en los incisos anteriores, constituirán el cómputo municipal electoral que se asentará en el acta correspondiente;
 
@@ -3557,9 +3725,11 @@ VI. Se hará constar en el acta circunstanciada de la sesión el resultado del c
 
 Para realizar el recuento total de votos a que se refiere este Código, el Consejo correspondiente dispondrá lo necesario para que sea realizado, en su caso, sin obstaculizar el escrutinio y cómputo de las demás elecciones.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 262.
 
-Para tales efectos; los presidentes de los Consejos correspondientes ordenarán de inmediato la creación de grupos de trabajo integrados por los consejeros electorales, los representantes de los partidos y los funcionarios electorales, que los presidirán. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente.
+Para tales efectos, los presidentes de los Consejos correspondientes ordenarán de inmediato la creación de grupos de trabajo integrados por los consejeros electorales, los representantes y los funcionarios electorales, que los presidirán. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos o candidatos independientes tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente.
 
 ###### ARTÍCULO 263.
 
@@ -3901,9 +4071,11 @@ V. La utilización de programas sociales y de sus recursos, con la finalidad de 
 
 VI. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 295.
 
-Constituyen infracciones al presente Código de los notarios públicos, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y de atender las solicitudes que les hagan los funcionarios de casilla, los ciudadanos y los representantes de partidos políticos, para dar fe de hechos o certificar documentos concernientes a la elección.
+Constituyen infracciones al presente Código de los notarios públicos, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y de atender las solicitudes que les hagan los funcionarios de casilla, los ciudadanos y los representantes de partidos políticos o candidatos independientes, para dar fe de hechos o certificar documentos concernientes a la elección.
 
 ###### ARTÍCULO 296.
 
@@ -4225,7 +4397,9 @@ Si el infractor no cumple con la obligación de cubrir las multas en el plazo qu
 
 Durante los procesos electorales, la Secretaría General instruirá el procedimiento especial establecido por el presente capítulo, cuando se denuncie la comisión de conductas que:
 
-I. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en este Código;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+I. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos o candidatos independientes en este Código;
 
 II. Violen el principio de equidad o imparcialidad en la contienda o la propaganda gubernamental personalizada, por parte de los servidores públicos;
 
@@ -4321,7 +4495,9 @@ Son procedentes para resguardar, el pleno ejercicio del sufragio de manera libre
 
 I. Cuando con motivo de alguna acción, omisión o programa implementado por cualquiera de los poderes del Estado, ayuntamientos, organismos autónomos o similares, o alguno de sus servidores públicos, se pueda comprometer o presuntamente se pueda violar alguno de los principios rectores del proceso electoral, siempre y cuando no exista otra medida al alcance, se podrán decretar medidas cautelares;
 
-II. En casos en que los poderes públicos o sus servidores en todos sus niveles intervengan en la elección disponiendo de recursos públicos o programas sociales en favor de un precandidato, candidato, partido político o coalición electoral; y,
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2013)</small>
+
+II. En casos en que los poderes públicos o sus servidores en todos sus niveles intervengan en la elección disponiendo de recursos públicos o programas sociales en favor de un aspirante a candidato independiente registrado, precandidato, candidato, partido político o coalición electoral; y,
 
 III. Hacer prevalecer los principios rectores del proceso electoral, así como los de imparcialidad y equidad por parte de los poderes públicos y sus servidores en el ejercicio y aplicación de recursos públicos.
 
@@ -4589,7 +4765,9 @@ III. Resguardar los sobres recibidos y salvaguardar el secreto del voto.
 
 Son votos emitidos en el extranjero, los que se reciban por el Instituto hasta veinticuatro horas antes del inicio de la jornada electoral.
 
-Respecto de los sobres recibidos después del plazo señalado, se elaborará una relación de sus remitentes, se levantará un acta en presencia de los representantes de partidos políticos y, sin abrirlos, se procederá a su destrucción.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+Respecto de los sobres recibidos después del plazo señalado, se elaborará una relación de sus remitentes, se levantará un acta en presencia de los representantes y, sin abrirlos, se procederá a su destrucción.
 
 El día de la jomada electoral, el Secretario General rendirá al Consejo General del Instituto informe previo respecto del número de sobres remitidos por michoacanos en el extranjero, clasificados por país de residencia de los electores, así como de los sobres recibidos fuera del plazo referido.
 
@@ -4619,7 +4797,9 @@ VII. Concluido lo anterior, se levantará el acta de escrutinio y cómputo.
 
 Las actas de escrutinio y cómputo de cada mesa serán conjuntadas y sumados sus resultados, lo que constituirá el cómputo de la votación estatal recibida del extranjero.
 
-El Consejo General, el miércoles siguiente al día de la elección, realizará la suma de los resultados consignados en las actas de escrutinio y cómputo de las mesas, para obtener el cómputo de la votación estatal recibida del extranjero, lo cual se hará constar en acta que será firmada por sus integrantes y por los representantes de los partidos políticos.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+El Consejo General, el miércoles siguiente al día de la elección, realizará la suma de los resultados consignados en las actas de escrutinio y cómputo de las mesas, para obtener el cómputo de la votación estatal recibida del extranjero, lo cual se hará constar en acta que será firmada por sus integrantes y por los representantes.
 
 ### CAPÍTULO CUARTO. DISPOSICIONES GENERALES
 
@@ -4629,9 +4809,11 @@ Quedan prohibidas en el extranjero, en cualquier tiempo, las actividades, actos 
 
 La violación a lo establecido en el párrafo anterior podrá ser denunciada ante el Instituto, por los representantes de los partidos políticos ante el Consejo General, mediante queja presentada por escrito, debidamente fundada y motivada, y aportando los medios de prueba.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 365.
 
-Durante el proceso electoral, en ningún caso y por ninguna circunstancia, los partidos políticos utilizarán recursos provenientes de financiamiento público o privado, en cualquiera de sus modalidades, para financiar actividades ordinarias o de proselitismo en el extranjero.
+Durante el proceso electoral, en ningún caso y por ninguna circunstancia, los partidos políticos o candidatos independientes utilizarán recursos provenientes de financiamiento público o privado, en cualquiera de sus modalidades, para financiar actividades ordinarias o de proselitismo en el extranjero.
 
 ###### ARTÍCULO 366.
 
@@ -4647,6 +4829,452 @@ El Consejo General establecerá las medidas para salvaguardar la confidencialida
 
 Son aplicables, en todo lo que no contravenga a las normas del presente Libro, las demás disposiciones conducentes de este Código, la Ley de Justicia Electoral y de Participación Ciudadana del Estado de Michoacán de Ocampo y las demás leyes aplicables.
 
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2013)</small>
+
+# LIBRO DÉCIMO. DE LAS CANDIDATURAS INDEPENDIENTES
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2013)</small>
+
+## TÍTULO ÚNICO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 369.
+
+En apego a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, los Instrumentos Internacionales ratificados por el Estado Mexicano y la Constitución del Estado, el sistema jurídico electoral del Estado de Michoacán reconoce el derecho fundamental de las personas a ser votado en la modalidad de independiente, con todas sus vertientes, desde la posibilidad de ser aspirante hasta la de permanecer en el cargo, en términos de las bases siguientes:
+
+I. Este derecho fundamental tiene el alcance y límites previstos para los candidatos y partidos políticos en el bloque de constitucionalidad, especialmente, en relación a la libertad de expresión y cualquier modalidad de propaganda, en materia política;
+
+II. Para ejercer ese derecho, dado que es de configuración secundaria, las personas deben tener las calidades y cumplir con las condiciones establecidas, en particular, en las normas de este Título del Código y el reglamento de la materia del Consejo General del Instituto Electoral del Estado;
+
+III. En cuanto al acceso a los medios de comunicación social también regulan el tema, las disposiciones establecidas en los convenios celebrados entre la autoridad electoral local y las autoridades federales, para colaborar en la organización de los procesos electorales de la entidad, la reglamentación aprobada por éstas y el Código Federal de Instituciones y Procedimientos Electorales.
+
+La autoridad electoral local dará difusión en su página oficial de internet y se publicarán en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo los convenios y la reglamentación mencionados en el párrafo precedente.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 370.
+
+Los ciudadanos que resulten seleccionados conforme al procedimiento previsto en el presente Título tienen derecho a ser registrados como candidatos independientes dentro de un proceso electoral local para ocupar los siguientes cargos de elección popular:
+
+I. Gobernador;
+
+II. Integrantes de los Ayuntamientos de mayoría relativa; y,
+
+III. Diputados de mayoría relativa.
+
+Los candidatos independientes registrados en las modalidades a que se refiere este artículo, en ningún caso, serán asignados a ocupar los cargos de diputados o regidores por el principio de representación proporcional.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 371.
+
+Los ciudadanos que aspiren a ser registrados como candidatos independientes además de cumplir los requisitos establecidos en este Código, deberán atender las disposiciones constitucionales, legales y reglamentarias establecidas al efecto, así como los criterios o acuerdos que emitan las autoridades electorales competentes.
+
+No podrán ser candidatos independientes:
+
+I. Los que hayan desempeñado, durante el año inmediato anterior al inicio del proceso electoral cargo de dirigencia nacional, estatal o municipal en algún partido político;
+
+II. Los servidores públicos, que desempeñen un cargo de elección popular, a menos que renuncien al partido por el que accedieron al cargo, un año antes de que inicie el proceso electoral.
+
+En las candidaturas independientes, en el caso de las planillas a Ayuntamientos no excederán del 60% para un mismo género; en el caso de la fórmula de diputados por el principio de mayoría relativa ésta deberá ser del mismo género.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 372.
+
+El financiamiento que manejen los candidatos independientes, será estrictamente obtenido y erogado dentro de los plazos previstos en este Título, según la modalidad de elección de que se trate.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 373.
+
+De aprobarse el registro de candidatos independientes, el Instituto dará aviso del acuerdo de su registro de inmediato a la instancia respectiva del Instituto Federal Electoral para los efectos procedentes, a fin de tramitar su acceso a los tiempos de radio y televisión.
+
+El Consejo General pondrá a consideración del Comité de Radio y Televisión del Instituto Federal Electoral una propuesta de distribución, tomando en consideración el número de candidatos registrados para cada cargo de elección popular, debiendo preveer (sic) la asignación de propuestas de pautado de los respectivos candidatos en base a zonas regionales de cobertura del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO SEGUNDO. DEL PROCESO DE SELECCIÓN
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 374.
+
+El proceso de selección de candidaturas independientes inicia con la convocatoria que emita el Consejo General y concluye con la declaratoria de candidatos independientes que serán registrados.
+
+Dicho proceso comprende las siguientes etapas:
+
+I. Registro de aspirantes;
+
+II. Obtención del respaldo ciudadano;
+
+III. Declaratoria de quienes tendrán derecho a ser registrados como candidatos independientes.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 375.
+
+Dentro de los quince días posteriores al inicio formal del proceso electoral, el Consejo General aprobará los Lineamientos y la Convocatoria para que los interesados que lo deseen y cumplan los requisitos correspondientes, participen en el proceso de registro para contender como aspirantes a candidatos independientes a un cargo de elección popular.
+
+La Convocatoria deberá publicarse de inmediato después de su aprobación en al menos tres medios de comunicación impresos de mayor circulación en la entidad y en la página de Internet del Instituto, y contendrá al menos los siguientes elementos:
+
+I. Fecha, nombre y datos generales del órgano que la expide;
+
+II. Los cargos para los que se convoca;
+
+III. Los requisitos para que los ciudadanos emitan su respaldo a favor de los aspirantes;
+
+IV. El calendario que establezca fechas, horarios y domicilios en los cuales se deberán presentar las solicitudes de aspirantes y la comparecencia de los ciudadanos que acudan personalmente a manifestarle su apoyo;
+
+V. La forma de llevar a cabo el cómputo de dichos respaldos; y,
+
+VI. Los términos para la rendición de cuentas del gasto de tope de campaña y la procedencia legal de su origen y destino.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 376.
+
+Los interesados en obtener su registro como aspirantes a candidatos independientes deberán presentar la solicitud respectiva ante el órgano electoral que determine la Convocatoria dentro de los 10 días siguientes a su publicación.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 377.
+
+La solicitud deberá presentarse de manera individual en el caso de la elección de Gobernador, por fórmula en el caso de Diputados y por planilla en el de Ayuntamientos, y contendrá como mínimo la siguiente información:
+
+I. Apellido paterno, materno y nombre completo;
+
+II. Lugar y fecha de nacimiento;
+
+III. Domicilio, tiempo de residencia y vecindad;
+
+IV. Clave de elector de credencial para votar;
+
+V. Tratándose del registro de fórmulas, deberá especificarse el propietario y suplente;
+
+VI. La designación de un representante, así como del responsable del registro, administración y gasto de los recursos a utilizar en la obtención del respaldo ciudadano;
+
+VII. La identificación de los colores y, en su caso, emblema que pretendan utilizar en la propaganda para obtener del respaldo ciudadano, los cuales no podrán ser iguales o semejantes a los utilizados por los partidos políticos con registro o acreditación vigente. Si dos o más aspirantes coinciden en estos elementos, prevalecerá el que haya sido presentado en primer término, solicitando al resto que modifiquen su propuesta.
+
+No se podrán utilizar los colores que el Consejo General apruebe para la impresión de las boletas electorales;
+
+VIII. La designación de domicilio y personas autorizadas para oír y recibir notificaciones; mismo que se ubicará en la capital del Estado o cabecera municipal o distrital, según la elección que se trate;
+
+IX. Presentar autorización firmada para que el Instituto, investigue origen y destino de los recursos de la cuenta bancaria concentradora.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 378.
+
+Para efectos del artículo anterior, el Instituto facilitará los formatos de solicitud de registro respectivos, que deberán acompañarse, por cada uno de los solicitantes, con la siguiente documentación:
+
+I. Copia certificada del acta de nacimiento;
+
+II. Copia simple de la credencial para votar y certificación de que se encuentra inscrito en la lista nominal de electores del Estado;
+
+III. Original de la constancia de residencia y vecindad;
+
+IV. El programa de trabajo que promoverán en caso de ser registrados como candidatos independientes;
+
+V. Manifestación escrita, bajo protesta de decir verdad, que cumple con los requisitos constitucionales y legales para el cargo de elección popular de que se trate.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 379.
+
+Recibidas las solicitudes de registro de aspirantes a candidaturas independientes por el órgano electoral que corresponda, el Instituto verificará el cumplimiento de los requisitos constitucionales y legales, así como, los lineamientos que para tal efecto se hayan emitido.
+
+Si de la verificación realizada se advierte la omisión de uno o varios requisitos, el Instituto, a través de la Secretaría General, notificará personalmente al interesado o al representante designado, dentro de las siguientes 48 horas para que, en un plazo igual, subsane él o los requisitos omitidos. En caso de no cumplir con dicha prevención en tiempo y forma, el Consejo General desechará de plano la solicitud respectiva.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 380.
+
+El Consejo General deberá emitir los acuerdos definitivos relacionados con el registro de aspirantes a candidaturas independientes a más tardar dentro de los cinco días posteriores a que haya fenecido el plazo señalado en el artículo anterior.
+
+Dichos acuerdos se notificarán inmediatamente a todos los interesados mediante su publicación en los estrados del Consejo General y de los órganos desconcentrados, así como en la página de internet del Instituto.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 381.
+
+La etapa de obtención del respaldo ciudadano iniciará al día siguiente de la aprobación de los registros de los aspirantes y durará:
+
+I. Para Gobernador, hasta 30 días;
+
+II. Para integrantes de los Ayuntamientos de mayoría relativa, hasta 20 días; y,
+
+III. Para Diputados de mayoría relativa, hasta 20 días.
+
+Durante estos plazos los aspirantes registrados podrán llevar a cabo acciones para obtener el respaldo de la ciudadanía mediante manifestaciones personales, cumpliendo los requisitos que establece este Código para obtener la declaratoria que le dará derecho a registrarse como candidato independiente y contender en la elección constitucional. Tales actos deberán estar financiados, de forma libre y voluntaria, por las personas físicas o morales mexicanas con residencia en el país, distintas a los partidos políticos y a las comprendidas en el artículo 68 y demás relativos de este Código.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 382.
+
+Las manifestaciones de respaldo para cada uno de los aspirantes, según el tipo de cargo al que se aspire, se recibirán en los Consejos Municipales y Distritales, exclusivamente dentro de la etapa de obtención del respaldo de que se trate.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 383.
+
+Son derechos de los aspirantes registrados:
+
+I. Participar en la etapa de obtención del respaldo ciudadano;
+
+II. Obtener financiamiento privado para el desarrollo de sus actividades en los términos precisados en este Código;
+
+III. Presentarse ante los ciudadanos como aspirantes a candidatos independientes y solicitar su respaldo informando sobre el procedimiento para ello;
+
+IV. Realizar actos y propaganda en los términos permitidos a los precandidatos de partidos políticos y coaliciones, conforme a lo dispuesto en los artículos 46, 47, 48, 49 y 50 de este Código.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 384.
+
+Son obligaciones de los aspirantes registrados:
+
+I. Respetar lo dispuesto en la Constitución Política del Estado y en el presente Código;
+
+II. Abstenerse de solicitar el voto del electorado dentro del período del proceso de selección de candidato;
+
+III. Abstenerse de utilizar en su propaganda cualquier alusión a la vida privada, ofensas, difamación o calumnia que denigre a otros aspirantes, precandidatos, partidos políticos, instituciones públicas o privadas, y terceros, incitar al desorden o utilizar símbolos, signos o motivos discriminatorios;
+
+IV. Insertar en su propaganda de manera visible la leyenda «aspirante a candidato independiente»;
+
+V. Abstenerse de hacer uso de bienes públicos, tales como: teléfonos, fotocopiadoras, faxes y herramientas de internet, para la obtención de financiamiento o en apoyo a la realización de cualquier acto de obtención de respaldo ciudadano, así como de actos de propaganda;
+
+VI. Abstenerse de recibir apoyo de organizaciones gremiales, de partidos políticos y cualquier otro respaldo corporativo, así como, de recursos económicos en términos del artículo 68 de este Código;
+
+VII. Abstener de realizar actos de presión o coacción para obtener el respaldo ciudadano;
+
+VIII. Retirar la propaganda utilizada, dentro de los tres días posteriores a la finalización de la etapa de obtención del respaldo ciudadano;
+
+IX. Las demás que establezca este Código.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 385.
+
+Los ciudadanos que decidan manifestar su respaldo a un determinado aspirante a candidato independiente deberán comparecer personalmente en los inmuebles destinados para ello, ante los funcionarios electorales que se designen y los representantes que, en su caso, acrediten los aspirantes a candidato independiente, con copia y original de su credencial para votar vigente, mediante el llenado del formato que al efecto apruebe el Consejo General del Instituto, mismo que deberá contener la firma o huella del manifestante.
+
+Los partidos políticos o coaliciones podrán acreditar representantes a fin de presenciar la recepción de los respaldos ciudadanos.
+
+Los inmuebles que se destinarán para la recepción de la manifestación del respaldo ciudadano serán:
+
+I. Para aspirantes a candidato independiente para la elección de Gobernador, serán las sedes de los Consejos Distritales, que correspondan al domicilio de los ciudadanos que decidan manifestar su apoyo;
+
+II. Para aspirantes a candidato independiente a Diputados serán las sedes de los Consejos Municipales que integran el Distrito Electoral por el que pretendan competir, o en su caso en el Consejo Distrital correspondiente, exclusivamente por ciudadanos con domicilio en ese ámbito territorial;
+
+III. Para aspirantes a los Ayuntamientos será en la sede del Consejo Municipal o Distrital que corresponda a la demarcación por la que pretenda competir, y exclusivamente por ciudadanos con domicilio en el ámbito territorial al que aspira.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 386.
+
+Las autoridades electorales verificarán por medios idóneos, no se presenten los siguientes casos:
+
+I. Ningún ciudadano emita más de una manifestación de apoyo para el mismo cargo de elección popular;
+
+II. Manifiesten su apoyo quienes hayan sido dados de baja del padrón electoral por haber sido suspendidos en sus derechos político-electorales, o por no pertenecer al ámbito estatal, distrital o municipal por el que el aspirante pretenda competir.
+
+Cuando el formato carezca de los datos requisitados la manifestación será nula.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 387.
+
+Al concluir el plazo para que los ciudadanos manifiesten su respaldo a favor de alguno de los aspirantes a candidatos independientes, iniciará la etapa de declaratoria de quienes tendrán derecho a registrarse como candidatos independientes, según el tipo de elección de que se trate, la cual será emitida por el Consejo General del Instituto.
+
+La declaratoria de candidatos independientes que tendrán derecho a ser registrados como tales, se llevará a cabo conforme a las siguientes reglas:
+
+I. El Instituto, a través de la Secretaría General verificará la cantidad de manifestaciones de respaldo ciudadano válidas obtenidas por cada uno de los aspirantes a ser registrados candidatos independientes a los distintos cargos de elección popular;
+
+II. De todos los aspirantes registrados a un mismo cargo de elección popular, solamente tendrá derecho a registrarse como candidato independiente aquel que de manera individual, por fórmula o planilla, según sea el caso, obtenga el mayor número de manifestaciones de apoyo válidas; en la demarcación correspondiente siempre y cuando sea mayor al porcentaje que para cada cargo se requiere;
+
+III. Si ninguno de los aspirantes registrados obtiene el mínimo de porcentaje (sic) respaldo ciudadano exigido para cada cargo, en base al listado nominal al corte del día 31 de diciembre del año previo al de la elección, el Consejo General declarará desierto el proceso de selección de candidato independiente en la elección de que se trate;
+
+IV. Los porcentajes que se exigirán para cada cargo serán:
+
+a. En el caso de aspirante al cargo de Gobernador, del dos por ciento de la lista nominal, que deberá estar distribuido en ese mismo o mayor porcentaje en la totalidad de los distritos electorales de los que se compone el Estado.
+
+b. En el caso de aspirante al cargo de Diputado, del dos por ciento de la lista nominal, que deberá estar distribuido en ese mismo o mayor porcentaje; en al menos tres cuartas partes de los municipios que componen el Distrito cuando así proceda.
+
+c. En el caso de las planillas de aspirantes a Ayuntamientos, deberán obtener de respaldo ciudadano:
+
+1. El 10% de la lista nominal respectiva cuando no exceda de diez mil electores.
+
+2. El 7% cuando ésta comprenda de diez mil uno hasta treinta mil.
+
+3. El 5% cuando la lista nominal comprenda de treinta mil uno hasta cien mil.
+
+4. El 2% por ciento cuando la lista nominal sea mayor a cien mil uno.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 388.
+
+El Consejo General deberá emitir la declaratoria a que se refiere el artículo anterior, cinco días después de que concluya el plazo para que los ciudadanos acudan ante los órganos electorales a manifestar su respaldo ciudadano a favor de los aspirantes a candidatos independientes, según el tipo de elección de que se trate.
+
+Dicho acuerdo se notificará inmediatamente, a través de su publicación en los estrados y en la página de internet del Instituto.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 389.
+
+Los aspirantes a candidatos independientes que tengan derecho a registrarse como tales, tendrán la obligación de presentar dentro de los cinco días posteriores a que se publicó la declaratoria a que se refiere el artículo anterior, un informe detallado en el que acrediten el origen lícito de los recursos que hayan utilizado en la obtención de respaldo ciudadano, incluyendo la identificación y monto aportado por cada persona. Dicho informe deberá dar cuenta del destino de los recursos erogados para tales propósitos, conforme lo dispongan los Reglamentos aplicables para tal efecto.
+
+El Consejo General tendrá hasta cinco días antes de que inicie el periodo de registro de candidatos (sic) efecto de que emita un dictamen en el cual se manifieste respecto de los informes presentados, en que verificará la licitud de los recursos, así como, que los gastos erogados se encuentran dentro de los topes y montos máximos de aportación permitidos, el que se publicará inmediatamente a efecto de notificar a todos los interesados.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO TERCERO. DEL REGISTRO
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 390.
+
+Para obtener su registro, los ciudadanos que hayan sido seleccionados como candidatos independientes en términos del capítulo anterior, de manera individual en el caso de Gobernador, mediante fórmulas o planillas en el caso de diputados o integrantes de ayuntamientos de mayoría relativa, respectivamente, deberán presentar su solicitud dentro de los plazos a que se refiere el artículo 196 de este Código.
+
+Los candidatos independientes que obtengan su registro no podrán ser sustituidos en ninguna de las etapas del proceso electoral.
+
+Los candidatos independientes, no podrán coaligarse o conformar candidaturas en común con partidos políticos.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 391.
+
+Los ciudadanos que hayan obtenido el derecho a registrarse como candidatos independientes, al momento de solicitar el mismo, deberán cumplir con los siguientes requisitos:
+
+I. Ratificar el programa de trabajo previamente registrado ante el Instituto;
+
+II. Exhibir el dictamen emitido por el Consejo General del Instituto en que haya quedado confirmada la licitud del origen y destino de los recursos recabados para el desarrollo de las actividades de obtención del respaldo ciudadano;
+
+III. El nombramiento de un representante ante el respectivo Consejo; y un responsable de la administración de los recursos financieros y de la presentación de los informes de campaña a que se refiere este Código;
+
+IV. Señalar los colores y, en su caso, emblema que pretendan utilizar en su propaganda electoral, los cuales no podrán ser iguales o semejantes a los utilizados por los partidos políticos ya existentes.
+
+No se podrán utilizar los colores que el Consejo General apruebe para la impresión de las boletas electorales.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 392.
+
+Recibida la solicitud de registro de la candidatura por el órgano electoral que corresponda, la remitirá al Consejo General para su trámite, verificación y aprobación en su caso en los plazos y términos establecidos en el artículo 196 de este Código.
+
+El Consejo General deberá resolver la procedencia o improcedencia del registro de la candidatura independiente respectiva, en las fechas de sesión prevista para los candidatos de los partidos políticos, según la modalidad de elección de que se trate.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 393.
+
+El registro como candidato independiente será negado en los siguientes supuestos:
+
+I. Cuando el dictamen de fiscalización no permita determinar la licitud de los recursos erogados en la etapa de obtención de respaldo ciudadano, o cuando a partir del mismo se concluya que el tope de gastos para tal efecto, o el límite de aportaciones individuales fue rebasado;
+
+II. Cuando la solicitud de registro se haya presentado fuera de los plazos previstos en el artículo 196 de este Código;
+
+III. Cuando no se haya satisfecho cualquiera de los requisitos para la procedencia del registro a que se refiere el artículo 391 y los demás que establezca este Código, ni siquiera con posterioridad al requerimiento que en su caso haya formulado el Instituto, o cuando el desahogo a este último se haya presentado de manera extemporánea.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO CUARTO. DE LAS PRERROGATIVAS, DERECHOS Y OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 394.
+
+Son prerrogativas, derechos y obligaciones de los candidatos independientes registrados, los que les otorgue este Código y los ordenamientos electorales, en lo conducente, a los candidatos de los partidos políticos y coaliciones, así como:
+
+I. Tener acceso a los tiempos de radio y televisión, de manera conjunta con todos los candidatos independientes registrados como si se tratara de un partido político de nuevo registro, pero en forma proporcional al tipo de elección de que se trate, únicamente en la etapa de las campañas electorales;
+
+II. Obtener financiamiento en los términos que dispone este Código, siempre y cuando otorguen fianza por el 50% del tope de gasto de campaña que corresponda.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO QUINTO. DEL FINANCIAMIENTO Y PROCEDIMIENTOS DE FISCALIZACIÓN
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 395.
+
+Los aspirantes a candidatos independientes y los candidatos independientes, deberán aperturar y registrar ante la autoridad electoral una cuenta bancaria concentradora, a través de la cual, depositarán todas las donaciones de financiamiento privado en efectivo.
+
+La cuenta concentradora se deberá usar tanto en el proceso de selección de candidato independiente como en la campaña electoral.
+
+La autoridad electoral deberá investigar la procedencia lícita de las donaciones.
+
+Las relaciones de los donantes deberán publicarse en la página de internet del Instituto Electoral de Michoacán y en sus estrados.
+
+Todos los gastos realizados tanto en el período de obtención de respaldo ciudadano como en el de campaña electoral de candidato independiente, deberán efectuarse a través de la cuenta bancaria concentradora.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 396.
+
+Para la etapa del período de obtención del respaldo ciudadano, los aspirantes a candidatos independientes debidamente registrados, deberán aplicar financiamiento privado, el cuál no podrá ser superior en su totalidad al 10% del tope de gastos de la campaña del proceso electoral inmediato anterior, de acuerdo al tipo de elección que corresponda.
+
+Las aportaciones que se realicen de manera individual serán proporcionales a los topes dispuestos en el artículo 398 de este Código.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 397.
+
+Para el desarrollo de las campañas electorales, los candidatos independientes podrán obtener recursos, de la forma siguiente:
+
+I. Aportaciones de simpatizantes;
+
+II. Aportaciones del propio candidato independiente.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 398.
+
+Los recursos utilizados por los candidatos independientes para sus campañas que provengan de las aportaciones de simpatizantes, se sujetará a las reglas siguientes:
+
+I. El candidato independiente podrá recibir aportaciones de simpatizantes tanto en dinero como especie, en los términos establecidos en el Reglamento de Fiscalización;
+
+II. La suma de las donaciones en dinero o en especie que realice cada persona física o moral autorizada para ello, tendrá un límite máximo, en los términos siguientes:
+
+a. Para el caso de planillas de Ayuntamiento de candidatos independientes, las aportaciones que realice cada persona física o moral facultada para ello, tendrán un límite equivalente al 2% del tope de gasto de campaña para la elección de Ayuntamiento aprobado en la elección inmediata anterior;
+
+b. Para el caso de fórmulas de candidatos independientes para Diputados por el principio de mayoría relativa, las aportaciones que realice cada persona física o moral facultada para ello, tendrán un límite equivalente al 1.5% del tope de gasto de campaña para la elección de Diputado aprobado en la elección inmediata anterior;
+
+c. Para el caso de candidatos independientes para el cargo de Gobernador, las aportaciones que realice cada persona física o moral facultada para ello, tendrán un límite equivalente al 0.20% del tope de gasto de campaña para la elección de Gobernador aprobado en la elección inmediata anterior.
+
+En el Reglamento de Fiscalización se determinarán los mecanismos en base a los que, se podrán recibir las donaciones en especie para las campañas de candidatos independientes.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 399.
+
+Las personas que hayan logrado el registro de candidato independiente tendrán derecho a recibir financiamiento público para la obtención del voto durante la campaña electoral.
+
+Se determinará una partida económica estatal igual a la del partido político que reciba el menor financiamiento para la obtención del voto, respecto del proceso electoral inmediato anterior, con el objetivo de que se distribuya equitativa y proporcionalmente entre los candidatos independientes debidamente registrados.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 400.
+
+Los procedimientos de control y vigilancia para la fiscalización de los gastos de campaña de candidatura independiente y de los aspirantes a candidatos independientes, se observarán los aplicables a los partidos políticos en los mismos plazos.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 401.
+
+Los candidatos independientes que no utilicen la totalidad del financiamiento público que les sea otorgado para gastos de campaña deberán reintegrar el remanente al Instituto, dentro del plazo de diez días posteriores a la fecha de la jornada electoral. El trámite a seguir para tales efectos será notificado a los candidatos independientes o sus representantes mediante oficio, en la misma fecha en que dicho financiamiento sea puesto a su disposición.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO 402.
+
+Los candidatos independientes que incumplan con la normatividad electoral que les resulte aplicable, podrán ser sancionados en términos de lo previsto en este Código.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -4658,10 +5286,6 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Los trámites y procedimientos que a la entrada en vigor del presente Decreto, esté desarrollando o substanciando la Comisión de Administración, Prerrogativas y Fiscalización del Instituto Electoral de Michoacán, continuarán substanciándose hasta la conclusión de los mismos con la normatividad que estaba vigente al momento de su inicio.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
-
-###### ARTÍCULO SEGUNDO.
-
-...
 
 ###### ARTÍCULO TERCERO.
 
@@ -4686,3 +5310,7 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LI
 P.O. 27 DE DICIEMBRE DE 2012.
 
 PRIMERO (SIC). El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE AGOSTO DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
