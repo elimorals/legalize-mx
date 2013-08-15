@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-universidad-juarez-del-estado-de-durango-508
 country: "mx"
 rank: "ley_organica"
 publication_date: "1962-06-07"
-last_updated: "2010-10-07"
+last_updated: "2013-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD JUAREZ DEL ESTADO DE DURANGO
 
-LEY ORGANICA DE LA UNIVERSIDAD JUAREZ DEL ESTADO DE DURANGO
+LEY ORGÁNICA DE LA UNIVERSIDAD JUÁREZ DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD JUÁREZ DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 15 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 7 de junio de 1962.
 
@@ -611,7 +613,7 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los trei
 
 El Gobernador Constitucional del Estado, FRANCISCO GONZALEZ DE LA VEGA.- El Secretario General de Gobierno, LIC. RAFAEL HERNANDEZ PIEDRA.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 3 DE OCTUBRE DE 1974.
 
@@ -694,3 +696,17 @@ SÉPTIMO. Las acreditaciones de los nuevos integrantes de la Junta Directiva y d
 OCTAVO. Si alguno de los miembros de la Junta Directiva o Consejo Universitario resulta propuesto como parte integrante de las ternas, deberá excusarse de participar en las fases de discusión y votación del procedimiento de elección de Rector.
 
 En el caso de los integrantes de la Junta Directiva o Consejo Universitario que se excusen, serán suplidos en las fases de discusión y votación del procedimiento de elección de Rector, por quien determine el Rector Interino o cualquiera de los funcionarios establecidos en el artículo cuarto transitorio en el orden de prelación establecido.
+
+P.O. 15 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Universidad Juárez del Estado de Durango expedida por el Congreso del Estado según Decreto No. 361 de fecha 30 de abril de 1962.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+CUARTO.- Dentro del plazo no mayor a un año a partir de la promulgación del presente Decreto, la Universidad expedirá los reglamentos correspondientes. Entre tanto se expidan los reglamentos establecidos en el presente Decreto, continuarán en vigor los que actualmente rigen, en tanto no se opongan al presente decreto.
+
+La Comisión Electoral se integrará y funcionará hasta en tanto se expida la reglamentación correspondiente.
+
+QUINTO.- La Junta Directiva resolverá las situaciones no previstas, derivadas de la aplicación del presente Decreto.
