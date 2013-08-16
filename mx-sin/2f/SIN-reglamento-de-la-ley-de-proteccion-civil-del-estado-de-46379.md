@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-la-ley-de-proteccion-civil-del-estado-de-46379"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-16"
-last_updated: "2005-09-16"
+last_updated: "2013-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO DE LA LEY DE PROTECCION CIVIL DEL ESTADO DE SINALOA
 
-REGLAMENTO DE LA LEY DE PROTECCION CIVIL DEL ESTADO DE SINALOA
+REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 16 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 16 de septiembre de 2005.
 
@@ -858,3 +860,23 @@ El Secretario de Seguridad Pública
 Dr. Ernesto Cabreros Murillo
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE AL REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE SINALOA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento abroga el Reglamento de la Ley de Protección Civil del Estado de Sinaloa, publicado en el Diario Oficial "El Estado de Sinaloa" No. 111 del día 16 de Septiembre de 2005.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones reglamentarias y administrativas que se opongan a lo establecido en el presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Las demás disposiciones en materia de protección civil que se contengan en los ordenamientos municipales, serán complementarios de este Reglamento, en lo que no se opongan al mismo.
