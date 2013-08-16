@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2013-02-06"
+last_updated: "2013-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -367,9 +367,11 @@ Este derecho lo tienen el padre o la madre, aunque hayan contraído ulteriores n
 
 Si el juez, se niega a suplir el consentimiento para que se celebre un matrimonio, los interesados ocurrirán al Tribunal Superior respectivo, en los términos que disponga el Código de Procedimientos Familiares.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 45.
 
-Las personas que hayan otorgado su consentimiento para que los menores de edad Celebren matrimonio, sólo podrán revocarlo cuando haya justa causa para ello.
+Las personas que hayan otorgado su consentimiento para que los menores de edad celebren matrimonio, sólo podrán revocarlo cuando haya justa causa para ello.
 
 ###### Artículo 46.
 
@@ -411,7 +413,7 @@ Si fuere necesario que las capitulaciones matrimoniales consten en escritura pú
 
 V. Copia certificada del acta de defunción del cónyuge fallecido, o de sentencia ejecutoriada de divorcio, de nulidad de matrimonio, de disolución del concubinato, si alguno de los pretendientes estuvo casado o tuvo otra relación de concubinato;
 
-VI. Certificado de ingravidez en los casos a que se refiere la fracción II de este artículo;
+VI. (DEROGADA, P.O. 16 DE AGOSTO DE 2013)
 
 VII. La manifestación, por escrito y bajo protesta de decir verdad, en el caso de que alguno de los contrayentes haya concluido el proceso para la concordancia sexo-genérica, misma que tendrá el carácter de reservada y,
 
@@ -505,7 +507,9 @@ Son impedimentos para celebrar el matrimonio:
 
 I. La falta de edad requerida por la ley, cuando no haya sido dispensada;
 
-II. La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor, o del juez en sus respectivos casos;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+
+II. La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor, del Juez o de su superior en sus respectivos casos;
 
 III. El parentesco de consanguinidad legítima o natural sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a hermanos de padre y madre; en defecto de éstos, en los que fueran solo de madre o solo de padre. En la línea colateral desigual, el impedimento se extiende hasta los parientes que estén dentro del cuarto grado;
 
@@ -561,7 +565,7 @@ El mandato para contraer matrimonio será válido, siempre y cuando no hayan tra
 
 ###### Artículo 65.
 
-Los mexicanos que se casen en el extranjero, se presentarán ante el Registro Civil para la inscripción de su acta de matrimonio dentro de los primeros tres meses de su radicación en el Estado
+Los mexicanos que se casen en el extranjero, se presentarán ante el Registro Civil para la inscripción de su acta de matrimonio dentro de los primeros tres meses de su radicación en el Estado.
 
 Los efectos jurídicos de los matrimonios celebrados en el extranjero por mexicanos y que lleguen a la República Mexicana, se regirán por lo dispuesto en los convenios internacionales y por lo señalado en los artículos 13, 14, 15 y 161 del Código Civil Federal.
 
@@ -603,11 +607,15 @@ Cuando ambos cónyuges trabajen y cooperen al sostenimiento de la familia, enton
 
 Los derechos y obligaciones que esta ley otorga e impone a la pareja conyugal, serán siempre iguales para cada uno de sus miembros, independientemente de su aportación económica al sostenimiento de la familia, por lo que de común acuerdo determinarán todo lo relativo al domicilio, trabajo de los cónyuges, atención y cuidado del hogar, educación y establecimiento de los hijos, así como a la administración y disposición de los bienes comunes y de sus descendientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 72.
 
-El marido y la mujer mayores de edad, tienen capacidad para administrar y disponer de sus bienes propios, ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin necesidad de autorización del otro cónyuge, salvo en lo relativo a los actos de administración y dominio de los bienes comunes. En estos casos no operará la caducidad.
+El hombre y la mujer mayores de edad, tienen capacidad para administrar y disponer de sus bienes propios, ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin necesidad de autorización del otro cónyuge.
 
-Cuando la casa que sirva de habitación a la familia sea bien propio de uno de ellos, no podrá ser enajenada ni gravada sin autorización de ambos, hasta que el obligado asegure a sus miembros un lugar en donde habitar. Para ello, previo trámite de jurisdicción voluntaria promovida, deberá inscribirse tal circunstancia en la oficina de catastro y registro público del estado de Sinaloa que corresponda.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
+Cuando el inmueble que sirva de casa-habitación a la familia sea bien propio de uno de los cónyuges, solamente podrá ser enajenado o gravado con autorización de ambos o aprobación judicial.
 
 Cada uno podrá dedicarse a la profesión u oficio que posean, cuando no afecten la dirección y el cuidado del hogar. La formación, educación y el cuidado de la salud de los hijos, es prioridad sobre el anterior derecho.
 
@@ -1143,9 +1151,11 @@ Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomar�
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 165.
 
-El concubinato es la unión de un hombre y una mujer quienes, libres de matrimonio, hacen vida en común de manera notoria, permanente, han procreado hijos o han vivido públicamente como marido y mujer durante dos años continuos o más.
+El concubinato es la unión de un hombre y una mujer quienes, sin impedimentos legales para contraer matrimonio, hacen vida en común de manera notoria, permanente, han procreado hijos o han vivido públicamente como marido y mujer durante dos años continuos o más.
 
 El concubinato genera entre los concubinos derechos alimentarios y sucesorios, con independencia de los demás reconocidos en este Código o en otras leyes.
 
@@ -1271,9 +1281,11 @@ Los jueces de lo familiar están obligados a suplir la deficiencia de las partes
 
 Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 184.
 
-Procede el divorcio administrativo cuando habiendo transcurrido un año o más de la celebración del matrimonio, ambos cónyuges convengan en divorciarse, sean mayores de edad, hayan liquidado la sociedad conyugal de bienes, si están casados bajo ese régimen patrimonial, la cónyuge no esté embarazada, no tengan hijos en común, o teniéndolos, sean mayores de edad, y éstos no requieran alimentos o alguno de los cónyuges. El juez, previa identificación de los cónyuges, levantará un acta en que hará constar la solicitud de divorcio y citará a éstos para que la ratifiquen a los quince días. Si los cónyuges lo hacen, el juez los declarará divorciados y hará la anotación correspondiente en la del matrimonio anterior.
+Procede el divorcio administrativo cuando habiendo transcurrido un año o más de la celebración del matrimonio, ambos cónyuges convengan en divorciarse, sean mayores de edad, hayan liquidado la sociedad conyugal de bienes, si están casados bajo ese régimen patrimonial, la cónyuge no esté embarazada, no tengan hijos en común, o teniéndolos, sean mayores de edad, y estos no requieran alimentos o alguno de los cónyuges. El oficial del registro civil, previa identificación de los cónyuges, levantará un acta en que hará constar la solicitud de divorcio y citará a estos para que la ratifiquen a los quince días. Si los cónyuges lo hacen, el oficial del registro civil los declarará divorciados y hará la anotación correspondiente en la del matrimonio anterior.
 
 Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, el divorcio así obtenido no producirá efectos, independientemente de las sanciones previstas en las leyes.
 
@@ -1333,7 +1345,9 @@ III.- Las medidas necesarias para garantizar la convivencia de los hijos con sus
 
 IV.- Tomando en consideración, en su caso, los datos recabados en términos del artículo 187 de este Código, el juez fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los excónyuges tendrán obligación de contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos;
 
-V.- Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar en términos de la Ley para Prevenir y Atender la Violencia Intrafamiliar del Estado de Sinaloa y Ley de Acceso de las Mujeres a una vida libre de violencia para el Estado de Sinaloa. Medidas que podrán ser suspendidas o modificadas en los términos previstos por el artículo 94 del Código de Procedimientos Civiles para el Estado de Sinaloa;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+
+V.- Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar en términos de la Ley para Prevenir y Atender la Violencia Intrafamiliar del Estado de Sinaloa y Ley de Acceso de las Mujeres a una vida libre de violencia para el Estado de Sinaloa. Medidas que podrán ser suspendidas o modificadas en los términos previstos por el Código de Procedimientos Familiares para el Estado de Sinaloa;
 
 VI.- Para el caso de los mayores incapaces, sujetos a la tutela de alguno de los excónguyes (sic), en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección;
 
@@ -1433,7 +1447,7 @@ En la línea transversal o colateral, los grados se cuentan por el número de ge
 
 ## TÍTULO SEXTO. DE LOS ALIMENTOS
 
-### Capítulo I. Disposiciones Generales
+### Capítulo l. Disposiciones Generales
 
 ###### Artículo 205.
 
@@ -1491,9 +1505,11 @@ Los alimentos no son objeto de compensación alguna, por lo que en caso de que e
 
 ### Capítulo III. De los Derechos Preferentes de los Alimentos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 216.
 
-Tratándose de alimentos, los cónyuges, concubinas y los hijos menores de edad o mayores incapaces, tendrán derecho preferente sobre los ingresos y los bienes de quien tenga a su cargo el sostenimiento económico de la familia, sin que se afecte la conservación de la fuente de ingresos.
+Tratándose de alimentos, los cónyuges, concubinos y los hijos menores de edad o mayores incapaces, gozan la presunción de la necesidad en materia de alimentos. Estos tendrán derecho preferente sobre los ingresos y los bienes de quien tenga a su cargo el sostenimiento económico de la familia, sin que se afecte la conservación de la fuente de ingresos.
 
 Se entiende que un ser humano tiene discapacidad, cuando padece temporal o permanentemente una disminución en sus facultades físicas, intelectuales o sensoriales que le impiden realizar una actividad normal, por lo que la satisfacción alimentaria debe darse con plena referencia a su ámbito personal, familiar, educativo y social, para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo.
 
@@ -1633,9 +1649,11 @@ Independientemente de las responsabilidades derivadas de la obligación alimenta
 
 Estos gastos efectuados por las instituciones públicas, tendrán el carácter de créditos fiscales que podrán hacerse efectivos por la Secretaría de Administración y Finanzas del Estado, a través del procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 235.
 
-Las personas que sean víctimas de este tipo de violencia, podrán acogerse en el Programa para la Protección de la Familia y Prevención de la Violencia Familiar que apruebe el Ejecutivo Estatal, a través del Sistema para el Desarrollo Integral de la Familia en el Estado de Sinaloa, que para estos propósitos sea presentado por el Consejo Local de Tutelas, para la protección de la familia y la prevención de la violencia familiar.
+Las personas que sean víctimas de este tipo de violencia, podrán acogerse en el Programa para la Protección de la Familia y Prevención de la Violencia Familiar que apruebe el Ejecutivo Estatal, a través del Sistema para el Desarrollo Integral de la Familia en el Estado de Sinaloa, que para estos propósitos sea presentado por el Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar.
 
 ### Capítulo III. Del Tratamiento Institucional
 
@@ -1811,9 +1829,13 @@ El reconocimiento no es revocable. Si se hizo por medio de testamento, la revoca
 
 El menor de edad sólo puede reconocer a un hijo con el consentimiento de los que ejerzan la patria potestad, del tutor o del juez.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 264.
 
-El reconocimiento es anulable si se prueba que el que lo hizo sufrió error, engaño o violencia, pero aún así deberán realizarse de oficio las pruebas biológicas previstas por este código. Si el que reclama la nulidad del reconocimiento es un menor de edad, podrá intentar la acción hasta cuatro años después de alcanzar la mayoría de edad.
+El reconocimiento hecho por persona menor de edad, es anulable, si se prueba que sufrió error, engaño o violencia, pero aun así deberán realizarse de oficio las pruebas biológicas previstas por este código.
+
+Tal acción la deberá intentar hasta cuatro años después de haber alcanzado la mayoría de edad el reconociente.
 
 Puede reconocerse al hijo que no ha nacido, con tal de que esté concebido y al que ha muerto, siempre que haya dejado descendencia.
 
@@ -1863,9 +1885,11 @@ En el caso a que se refiere el artículo anterior, no se podrá separar a la per
 
 No gozará de estas prerrogativas quienes tengan la custodia provisional del menor de edad.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 276.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán ante el oficial del registro civil cuál de los dos ejercerá la custodia, fijando los derechos y obligaciones del otro progenitor. En caso de que no hicieren la designación, el juez de la competencia familiar, oyendo a los padres yal Ministerio Público, en su caso, resolverá lo más conveniente a los intereses del menor de edad, pero ambos padres conservarán la patria potestad.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá la custodia, fijando los derechos y obligaciones del otro progenitor. En caso de que no hicieren la designación, el juez de la competencia familiar, oyendo a los padres y al Ministerio Público, en su caso, resolverá lo más conveniente a los intereses del menor de edad, pero ambos padres conservarán la patria potestad.
 
 ###### Artículo 277.
 
@@ -2223,9 +2247,11 @@ II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuan
 
 También pueden adoptar las personas que tengan vínculo de parentesco consanguíneo con el menor o incapaz.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 333.
 
-Si durante ese plazo se cumplen cabalmente las obligaciones de protección, afecto, cuidado de la salud y educación del adoptado, según informes del Ministerio Público o de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en su caso, el Juez de Primera Instancia decretará la adopción, aunque el menor haya alcanzado la mayoría de edad.
+Cuando se han cumplido cabalmente las obligaciones de protección, afecto, cuidado de la salud y educación del adoptado, según informes del Ministerio Público o de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en su caso, el Juez de Primera Instancia decretará la adopción, aunque el menor haya alcanzado la mayoría de edad.
 
 ###### Artículo 334.
 
@@ -2297,7 +2323,9 @@ También exhibirá la autorización otorgada por las autoridades del país de lo
 
 Los adoptantes quedan en la obligación de informar una vez durante el primer año y, posteriormente, cuantas veces se le requiera, sobre las condiciones en que se desarrolla el nuevo vínculo paterno filial, la salud y el trato que recibe el menor, al juez de la adopción o al consulado mexicano en su país.
 
-Las adopciones internacionales serán tramitadas personalmente por los pretensos adoptantes. En igualdad de circunstancias, se dará preferencia en la adopción a mexicanos sobre extranjeros.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
+Las adopciones internacionales serán tramitadas personalmente por los pretensos adoptantes.
 
 Una vez ejecutoriada la sentencia, se entregará copia debidamente autenticada al Sistema Estatal para el Desarrollo Integral de la Familia, para que gestione ante la Secretaría de Relaciones Exteriores, la certificación y validación de la adopción efectuada.
 
@@ -2383,9 +2411,11 @@ En caso de irracional disenso, resolverá el juez.
 
 Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 362.
 
-Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será nombrado por mutuo acuerdo, por escrito con ratificación ante Notario Público; pero el designado consultará en todos los negocios a su cónyuge y requerirá su consentimiento expreso para los actos de dominio de la administración.
+Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será nombrado por mutuo acuerdo, por escrito que se ratificará ante Juez o Notario Público; pero el designado consultará en todos los negocios a su cónyuge y requerirá su consentimiento expreso para los actos de dominio de la administración.
 
 ###### Artículo 363.
 
@@ -2579,7 +2609,9 @@ IV. Documento que acredite el derecho de custodia; y,
 
 V. Certificación expedida por autoridad competente en donde el menor de edad tenga su residencia habitual, tomando en cuenta si la sustracción es nacional o internacional.
 
-Las autoridades judiciales y administrativas competentes en la restitución de menores, actuarán con eficacia y adoptarán las medidas necesarias para conseguir la pronta restitución, lo que incluye la custodia provisional si fuere procedente.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
+Las autoridades judiciales y administrativas competentes en la restitución de menores, actuarán con eficacia y adoptarán las medidas necesarias para conseguir la pronta restitución, lo que incluye la custodia provisional si fuere procedente. Dicha solicitud deberá ser resuelta en un plazo de cuarenta y cinco días.
 
 Cuando exista oposición o resistencia, se hará a través de los medios de apremio que la Ley previene.
 
@@ -2715,7 +2747,7 @@ El juez que no cumpla las prescripciones relativas a la tutela, además de las p
 
 El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 350 de este Código, tiene derecho, aunque fuere menor de edad, de nombrar tutor en su testamento a aquéllos sobre quienes la ejerza, con inclusión del póstumo.
 
-El nombramiento de tutor testamentario hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados.
+El nombramiento de tutor testamentario hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad los ascendientes de ulteriores grados.
 
 Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
@@ -2805,9 +2837,11 @@ Se considera expósito al menor de edad que es colocado en una situación de des
 
 Los responsables de las casas de asistencia, ya sean públicas o privadas, al recibir expósitos o abandonados, darán vista al Ministerio Público, desempeñando la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos de la institución. En este caso, no es necesario el discernimiento del cargo.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 419.
 
-Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de la violencia familiar a que se refiere el artículo 232 de este Código, tendrán la custodia de éstas en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
+Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de la violencia familiar a que se refiere el artículo 232 de este Código, tendrán la custodia de estos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
 
 ### Capítulo VII
 
@@ -2877,7 +2911,7 @@ III. Los que hayan sido removidos de otra tutela por haberse conducido mal, ya r
 
 IV. Los que por sentencia que cause ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
 
-V.- El que haya sido condenado por robo, abuso de confianza, fraude o por cualquier otro delito infamante;
+V. El que haya sido condenado por robo, abuso de confianza, fraude o por cualquier otro delito infamante;
 
 VI. Los que no tengan oficio o modo lícito de vivir;
 
@@ -3871,9 +3905,11 @@ III. Por el pariente de cualquier grado; que ministre alimentos a sus ascendient
 
 IV. Por el tutor, cuando administre bienes pertenecientes a los menores de edad o incapaces.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 586.
 
-Para constituir el patrimonio de familia, se hará por escrito al juez competente ante Notario Público del domicilio señalado con toda precisión, los bienes inmuebles objeto del patrimonio, para su inscripción en el Registro Público de la Propiedad.
+Para constituir el patrimonio de familia, se hará por escrito al juez competente o ante Notario Público del domicilio señalado con toda precisión, los bienes inmuebles objeto del patrimonio, para su inscripción en el Registro Público de la Propiedad.
 
 ###### Artículo 587.
 
@@ -3953,7 +3989,9 @@ IV. Cuando por causa de utilidad pública se expropien los bienes que lo forman;
 
 V. Cuando tratándose del patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 591, se declare judicialmente nula o rescindida la venta de esos bienes.
 
-Aun cuando fallezca el autor del patrimonio de la familia, éste no podrá liquidarse, hasta en tanto subsistan los menores incapacitados, cónyuge sobreviviente o concubina en su caso, y no tengan.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
+Aun cuando fallezca el autor del patrimonio de la familia, éste no podrá liquidarse, hasta en tanto subsistan los menores incapacitados, cónyuge sobreviviente o concubina en su caso, y no tengan bienes suficientes.
 
 ###### Artículo 595.
 
@@ -4181,11 +4219,15 @@ VII. Los parientes o concubinos del autor de la herencia que, hallándose éste 
 
 VIII. El que usare violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento;
 
-IX. El que conforme al Código Penal vigente, fuere culpable de delitos contra el estado familiar del infante, siempre que se trate de la herencia que debió corresponder a éste o a las personas a quienes se haya perjudicado o intentare perjudicar con esos actos;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
 
-X. El cónyuge que mediante juicio ha sido declarado adúltero o infiel, si se trata de suceder al cónyuge que no dio motivo; y,
+IX. El que conforme al Código Penal vigente, fuere culpable de delitos contra el estado familiar del infante, siempre que se trate de la herencia que debió corresponder a éste o a las personas a quienes se haya perjudicado o intentare perjudicar con esos actos; y,
 
-XI. El coautor del cónyuge adúltero o infiel, ya sea que se trate de la sucesión de éste o la del cónyuge que no dio motivo.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+
+X. El cónyuge del autor de la sucesión, que teniendo el deber de darle alimentos, no la hubiera satisfecho.
+
+XI. (DEROGADA, P.O. 16 DE AGOSTO DE 2013)
 
 ###### Artículo 638.
 
@@ -4411,7 +4453,9 @@ III. A su cónyuge, si está imposibilitado para trabajar y carece de bienes suf
 
 IV. A los ascendientes;
 
-V. A la persona con quien el testador vivió como si fuera su cónyuge durante los dos años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato y que el superviviente esté incapacitado para laborar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias. Si fueren varias las personas con quienes el testador vivió como si fuera su cónyuge, el juez decidirá la preferencia al derecho a alimentos; y,
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+
+V. A la persona con quien el testador vivió como si fuera su cónyuge durante los dos años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido sin impedimentos legales para contraer matrimonio durante el concubinato y que el superviviente esté incapacitado para laborar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias o se una en concubinato. Si fueren varias las personas con quienes el testador vivió como si fuera su cónyuge, el juez decidirá la preferencia al derecho a alimentos; y,
 
 VI. A los hermanos y demás parientes colaterales dentro del cuarto grado si están incapacitados, mientras que no cumplan dieciocho años, si no tienen para subvenir a sus necesidades.
 
@@ -5507,6 +5551,8 @@ Si el intestado no fuere absoluto, se deducirá del total de la herencia la part
 
 ### Capítulo IV. De la Sucesión de los Concubinos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 922.
 
 El cónyuge que sobrevive, concurriendo con descendientes tendrá el derecho de un hijo, si carece de bienes o los que tiene al morir el autor de la sucesión, no igualan a la porción que a cada hijo deban corresponder.
@@ -5535,7 +5581,7 @@ A falta de hijos y de ascendientes el cónyuge o concubino sucede en todos los b
 
 ###### Artículo 928.
 
-La concubina y el concubino tienen derecho a heredarse recíprocamente, siempre que hayan vivido juntos, como si fueran cónyuges, durante los dos años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común, siempre que ambos hayan permanecido libres de matrimonio durante ese lapso, conforme a las reglas siguientes:
+La concubina y el concubino tienen derecho a heredarse recíprocamente, siempre que hayan vivido juntos, como si fueran cónyuges, durante los dos años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común, siempre que ambos hayan permanecido sin impedimentos legales para contraer matrimonio durante ese lapso, conforme a las reglas siguientes:
 
 I. Si el superviviente concurre con hijos que el autor de la sucesión hubiere procreado con persona distinta o con ella, se observará lo dispuesto en los artículos 922 y 923 de este Código;
 
@@ -5547,9 +5593,11 @@ IV. Si el autor de la herencia no deja descendientes, ascendientes, cónyuge o p
 
 En los casos a que se refieren las fracciones I y IV, debe observarse lo dispuesto en los artículos 922 y 923 de este Código, si el superviviente tiene bienes.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 929.
 
-Quien haya vivido con el autor de la herencia públicamente como cónyuge, sin estar casado con él y si la vida en común duró más de dos años, o por lo menos procrearon un hijo durante dicha convivencia, y si durante esa situación falleció el autor de la herencia, heredará como el cónyuge.
+Quien haya vivido con el autor de la herencia públicamente como cónyuge, sin impedimentos legales para casarse y si la vida en común duró más de dos años, o por lo menos procrearon un hijo durante dicha convivencia, y si durante esa situación falleció el autor de la herencia, heredará como el cónyuge.
 
 ### Capítulo VI. La Sucesión de los Parientes Colaterales
 
@@ -6355,9 +6403,11 @@ En el Estado, la prestación del servicio del Registro Civil, así como la direc
 
 Las Oficialías del Registro Civil estarán a cargo de servidores públicos denominados Oficiales del Registro Civil.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 1097.
 
-Los Oficiales del Registro Civil podrán autorizar los actos del estado familiar y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, concubinato, divorcio y defunción de los mexicanos y extranjeros en la entidad, al realizarse el hecho o acto de que se trate, así como inscribir las ejecutorias que declaren el registro de hijos acogidos, la ausencia, la presunción de muerte, la tutela, que se ha perdido o limitado la capacidad legal para administrar bienes y las sentencias que ordenen el levantamiento de una nueva acta por cualquiera de los supuestos previstos en este Código, previa la anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables; las cuales se asentarán en documentos especiales que se denominarán, “Formas del Registro Civil”.
+Los oficiales del registro civil podrán autorizar los actos del estado familiar y extender las actas relativas a nacimiento, reconocimiento de hijos, matrimonio, concubinato, divorcio y defunción de los mexicanos y extranjeros en la entidad, al realizarse el hecho o acto de que se trate, así como inscribir las ejecutorias que declaren el registro de hijos acogidos, la ausencia, la presunción de muerte, la tutela, que se ha perdido o limitado la capacidad legal para administrar bienes y las sentencias que ordenen el levantamiento de una nueva acta por cualquiera de los supuestos previstos en este Código, previa la anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables; las cuales se asentarán en documentos especiales que se denominarán, “Formas del Registro Civil”.
 
 ### Capítulo III. De los Efectos de los Actos y Actas del Registro Civil
 
@@ -6449,9 +6499,11 @@ La certificación podrá autentificarse por firma autógrafa o electrónica del 
 
 Por firma electrónica se entenderá la forma que se utilice como forma de autentificar por medios electrónicos la autorización del servidor público competente, y con la cual el firmante aprueba la información contenida en el acta, según el sistema que implemente la Dirección, la que deberá utilizar mecanismos confiables para evitar la falsificación de documentos.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 1112.
 
-Los actos y actas del estado familiar con relación a titulares del registro civil relativas a su pareja matrimonial, concubinal y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo oficial registrador, pero se asentarán en las formas correspondientes y se autorizarán por el secretario general de gobierno.
+Los actos y actas del estado familiar con relación a titulares del registro civil relativas a su pareja matrimonial, concubinal y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo oficial registrador, pero se asentarán en las formas correspondientes y se autorizarán por el oficial del registro civil más cercano a su jurisdicción.
 
 ### Capítulo I. De las Actas de Nacimiento
 
@@ -6479,9 +6531,11 @@ El oficial del registro civil, está obligado a hacer las anotaciones de las eje
 
 Los oficiales del registro civil, que celebren algún acto del estado familiar de persona o personas que hayan nacido fuera del Estado, remitirán un ejemplar de la inscripción correspondiente, al oficial del registro civil del lugar de nacimiento de quienes realizaron el acto, para que hagan su anotación en el libro de nacimiento.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 1119.
 
-En los casos de la celebración del matrimonio, deberá de exigir a los solicitantes, el certificado de orientación prematrimonial señalado en la fracción III del artículo 49 de este Código, expedido por el propio oficial del registro civil, la Procuraduría de la Defensa del Menor, la Mujer y la Familia.
+En los casos de la celebración del matrimonio, deberá de exigir a los solicitantes, el certificado de orientación Prematrimonial señalado en la fracción III del artículo 49 de este Código, expedido por el propio oficial del registro civil o la Procuraduría de la Defensa del Menor, la Mujer y la Familia.
 
 ###### Artículo 1120.
 
@@ -6585,7 +6639,9 @@ Cuando se trate de parto múltiple, se levantará un acta por cada uno de los re
 
 El oficial del registro civil, estará obligado a hacer las anotaciones en el acta de nacimiento de las personas, de todos los actos del estado familiar que realice, incluso hasta la muerte.
 
-### Capítulo III. De las Actas de Adopción
+### Capítulo III. De las Actas en la Adopción
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 1139.
 
@@ -6615,11 +6671,13 @@ Si después de haber sido registrado el nacimiento de un hijo, se hiciere su rec
 
 Si el reconocimiento se hiciere en oficina distinta de aquélla en la que se levantó el acta de nacimiento, el oficial del registro civil que autorice el acta de reconocimiento, remitirá copia de ésta al oficial de la oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ### Capítulo IV. De las Actas de Tutela
 
 ###### Artículo 1146.
 
-Dictada la resolución judicial definitiva que autorice la adopción, el juez, dentro del plazo de ocho días, remitirá copia certificada de las diligencias al oficial del registro civil que corresponda, a fin de que levante el acta de adopción o de nacimiento. La falta del registro de la adopción no quita a ésta sus efectos legales.
+Dictada la resolución judicial definitiva que autorice la adopción, el juez, dentro del plazo de ocho días, remitirá copia certificada de las diligencias al oficial del registro civil que corresponda, a fin de que levante el acta de nacimiento. La falta del registro de la adopción no quita a ésta sus efectos legales.
 
 Los adoptantes podrán inscribir el nacimiento, en la oficina del registro civil de su preferencia.
 
@@ -6729,6 +6787,8 @@ El oficial del registro civil anotará las respectivas actas de nacimiento de lo
 
 ### Capítulo VII. De las Actas de Divorcio
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 1166.
 
 Las personas que pretendan convivir en concubinato, podrán presentar un escrito ante el oficial del registro civil, que deberá contener:
@@ -6775,7 +6835,7 @@ Los oficiales del registro civil sólo podrán negarse a autorizar un concubinat
 
 ###### Artículo 1170.
 
-La sentencia ejecutoria o tramitación especial ante Notario Público que decrete un divorcio, se remitirá en copia certificada al oficial del registro civil ante quien se celebró el matrimonio, para que la anote en el acta de matrimonio y levante gratuitamente el acta respectiva.
+La sentencia ejecutoria que decrete un divorcio, se remitirá en copia certificada al oficial del registro civil ante quien se celebró el matrimonio, para que la anote en el acta de matrimonio y levante el acta respectiva.
 
 ###### Artículo 1171.
 
@@ -6982,6 +7042,12 @@ Lic. Mario López Valdez
 El secretario General de Gobierno
 
 C. Gerardo O. Vargas Landeros
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE AGOSTO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa.
 
 ## ARTÍCULOS TRANSITORIOS
 
