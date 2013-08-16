@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-de-justicia-administrativa-901
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-16"
-last_updated: "2012-11-16"
+last_updated: "2013-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de noviembre de 2012.
 
@@ -43,7 +43,11 @@ El Tribunal de Justicia Administrativa para el Estado de Nuevo León, se rige po
 
 Para los efectos del presente Reglamento, se entenderá por:
 
-I. Ley: La Ley de Justicia Administrativa para el Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+
+I. Ley: La Ley de Justicia Administrativa para el Estado y Municipios de
+
+Nuevo León;
 
 II. Tribunal: El Tribunal de Justicia Administrativa del Estado de Nuevo León;
 
@@ -67,9 +71,11 @@ Los servidores públicos del Tribunal ajustarán su actividad jurisdiccional y a
 
 Las disposiciones de este Reglamento son de observancia obligatoria para los servidores públicos del Tribunal. Corresponde a la Sala Superior y al Presidente cuidar su debido cumplimiento, en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 5.
 
-El horario de recepción de promociones en el Tribunal, así como para la práctica de diligencias de notificación será el previsto en la Ley. No obstante lo anterior, se podrán recepcionar promociones en el último día de los plazos correspondientes, fuera de dicho horario, previa autorización del Secretario General de Acuerdos, siempre y cuando se encuentre presente, en el Tribunal por (sic) personal calificado para la recepción de promociones, en caso contrario, las partes podrán presentar dicha promoción a través del Sistema que se implemente, previo acuerdo de la Sala Superior.
+El horario de recepción de promociones en la Oficialía de Partes del Tribunal, así como para la práctica de diligencias de notificación será el previsto en la Ley y en el presente reglamento.
 
 ###### Artículo 6.
 
@@ -763,6 +769,38 @@ La Comisión, en cada caso concreto, deberá rendir su opinión al Presidente de
 
 Vista la opinión de la Comisión a que se refiere el artículo anterior, el Presidente del Tribunal propondrá a la Sala Superior la aplicación de las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, con audiencia del denunciado y sujetándose al procedimiento previsto en la Ley invocada.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO X. DE LOS MEDIOS ELECTRÓNICOS EN EL TRIBUNAL
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
+###### Artículo 50.
+
+A fin de cumplir con lo establecido en el artículo 43 fracción I, de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, se establece un sistema electrónico de recepción de oficialía de partes, para las promociones cuyo término vence el mismo día que se haga uso de dicho sistema y que se presenten después de las 15:00.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
+###### Artículo 51.
+
+Para el funcionamiento del sistema electrónico de recepción de oficialía de partes, deberán seguirse las siguientes reglas.
+
+I. Los promoventes deberán ingresar a la página oficial de internet del Tribunal de Justicia Administrativa del Estado, a fin de imprimir el acuse de recibido provisional y las etiquetas con código de barras necesarias, mismas que deberán ser adheridas al (sic) los sobres respectivos que contengan la o las promociones correspondientes y sus anexos.
+
+II. Se deberá depositar la promoción en sobre cerrado, debidamente identificado con la etiqueta referida en el párrafo anterior.
+
+III. A fin de presentar los documentos aludidos en la fracción anterior, los promoventes deberán acudir al recinto oficial del Tribunal de Justicia Administrativa del Estado y depositar el sobre o sobres que contenga el documento a presentar en el buzón que para tal efecto se establezca, dentro del horario de 15:01:01 a 23:59:59 del día del vencimiento del término.
+
+IV. Al día hábil siguiente del depósito, el promovente, por sí o a través de su autorizado, deberá presentar al personal encargado de la Oficialía de Partes, el boleto de acuse de recibido provisional que se obtuvo del (sic) página de internet antes referida, quien en presencia del interesado abrirá el sobre respectivo, sacará la promoción, la sellará con la fecha del día de su depósito y le dará el tramite que corresponda, entregando al interesado el acuse de recibido oficial definitivo correspondiente.
+
+V. En caso de no presentarse el promovente o autorizado a canjear el boleto y confirmar el depósito de las promociones, el personal encargado de la Oficialía de Partes identificará los sobres depositados en el buzón del Sistema Electrónico de Recepción de Oficialía de Partes y procederá estampar el sello en el que se precisará la fecha y hora del depósito del sobre y la siguiente leyenda "Promoción presentada a través del Sistema Electrónico de Recepción de Oficialía de Partes, no confirmada" (sic). Hecho lo anterior, se turnará el sobre cerrado a la Sala respectiva, para que el Secretario de Estudio y Cuenta correspondiente, abra el sobre y realice una certificación en el que hará constar la descripción de los documentos exhibidos, los anexos que en su caso se acompañen, las fojas que contienen cada uno de ellos, y en general los datos que estime pertinentes para la mejor identificación de los documentos presentados. Hecho lo anterior se dará la cuenta de dicha promoción al Magistrado, para la elaboración del acuerdo que corresponda.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
+###### Artículo 52.
+
+Se publicará en los días hábiles, un instrumento de comunicación, con fines informativos denominado "Boletín" en el que se publicarán todos los acuerdos y resoluciones del día, dictados por las diversas Salas integrantes del Tribunal de Justicia Administrativa del Estado. Este boletín estará a disposición de los interesados en forma electrónica, en la página oficial del Tribunal y no tendrá efecto legal alguno.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -790,3 +828,11 @@ MAGISTRADO DE LA SALA SUPERIOR
 LIC. MARIO CÉSAR HERNÁNDEZ MONRREAL
 
 SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE AGOSTO DE 2013.
+
+Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Publíquese a la brevedad posible el presente Acuerdo en el Periódico Oficial del Estado.
