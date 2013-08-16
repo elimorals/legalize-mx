@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-21358"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-30"
-last_updated: "2013-07-31"
+last_updated: "2013-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 30 de abril de 2001.
 
@@ -217,13 +217,17 @@ XX. Promover la investigación e innovación educativa;
 
 XXI. Estimular la producción de obras y material didáctico por medio de la emisión gratuita de los contenidos, el otorgamiento de subvenciones o recompensas, o mediante distinciones honoríficas;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
 
-XXII. Establecer una efectiva y estrecha coordinación con la Secretaría de Salud y demás autoridades competentes, con el fin de promover programas y acciones que fomenten en los maestros, padres de familia, encargados de cooperativas escolares y especialmente en los educandos el seguimiento de una alimentación sana y la práctica de actividad física, dirigidas a lograr estilos de vida saludables. Asimismo, establecer estrategias y medidas que tiendan a desmotivar el consumo de alimentos con bajo o nulo valor nutricional, así como prohibir la venta de estos productos en los espacios de las instituciones de nivel básico; y
+XXII. Establecer una efectiva y estrecha coordinación con la Secretaría de Salud y demás autoridades competentes, con el fin de promover programas y acciones que fomenten en los maestros, padres de familia, encargados de cooperativas escolares y especialmente en los educandos el seguimiento de una alimentación sana y la práctica de actividad física, dirigidas a lograr estilos de vida saludables. Asimismo, establecer estrategias y medidas que tiendan a desmotivar el consumo de alimentos con bajo o nulo valor nutricional, así como prohibir la venta de estos productos en los espacios de las instituciones de nivel básico;
 
-> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
 
-XXIII. Diseñar e implementar programas de prevención, detección y atención de casos de violencia y acoso escolar en cualquiera de sus manifestaciones.
+XXIII. Diseñar e implementar programas de prevención, detección y atención de casos de violencia y acoso escolar en cualquiera de sus manifestaciones; y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2013)</small>
+
+XXIV. Elaborar e implementar programas especiales tendientes a prevenir de forma permanente el ausentismo y la deserción escolar en todos los tipos, niveles y modalidades de educación que se imparta en el Estado, con la participación de las autoridades del Sistema Educativo Estatal, de los Consejos de Participación Social y demás autoridades competentes en la materia.
 
 ###### ARTÍCULO 15.
 
@@ -1264,3 +1268,13 @@ Dentro del plazo de 120 días posteriores a la publicación del presente Decreto
 P.O. 31 DE JULIO DE 2013.
 
 Artículo Único. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 16 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del plazo de 120 días posteriores a la publicación del presente Decreto, el Poder Ejecutivo del Estado deberá realizar las modificaciones reglamentarias y las reasignaciones presupuestarias necesarias para la debida observancia del presente Decreto.
