@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3681
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-19"
-last_updated: "2012-12-31"
+last_updated: "2013-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 19 de diciembre de 2003.
 
@@ -645,11 +645,13 @@ I.- El 10.50% para cubrir las prestaciones de servicios médicos;
 
 II.- El 13.00% para el fondo de pensiones y jubilaciones;
 
-III.- El 0.50% para cubrir las prestaciones relativas a préstamos a corto, mediano y largo plazo; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+III.- El 0.50% para cubrir las prestaciones relativas a préstamos a corto plazo; y
 
-IV.- El 2.00% para el financiamiento de vivienda.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+
+IV.- El 2.00% para el otorgamiento de préstamos a mediano plazo y para el financiamiento de vivienda mediante préstamos a largo plazo.
 
 Los porcentajes señalados en las fracciones anteriores incluyen gastos específicos de administración.
 
@@ -1463,19 +1465,25 @@ La recuperación de los créditos otorgados y sus intereses, se cargarán al fon
 
 #### SECCIÓN TERCERA. CRÉDITOS A MEDIANO PLAZO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 ###### ARTÍCULO 140.
 
-Los créditos a mediano plazo se otorgarán de conformidad con la disponibilidad financiera del Instituto, a quienes hayan cotizado al mismo por más de cuatro años, en ningún caso excederá la cantidad correspondiente a 12 meses de su sueldo base para los trabajadores activos.
+Los créditos a mediano plazo se otorgarán de conformidad con la disponibilidad financiera del Instituto a quienes hayan cotizado al mismo por más de cuatro años, en ningún caso excederá la cantidad correspondiente a 12 meses de la totalidad de las percepciones netas para los trabajadores o pensionados.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 Para los pensionados el monto máximo será el equivalente a 6 meses de su pensión y no deberán exceder los 70 años de edad al momento de solicitarlo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 Los intereses y el fondo de garantía derivados de los préstamos deberán destinarse exclusivamente para el otorgamiento de préstamos que esta Ley prevé.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 ###### ARTÍCULO 141.
 
-Los créditos a mediano plazo deberán liquidarse en un plazo no mayor de 30 meses.
+Los créditos a mediano plazo deberán liquidarse en plazos de 30 y hasta 60 meses, para lo cual se sujetarán a lo establecido en la normativa interna del Instituto.
 
 ###### ARTÍCULO 142.
 
@@ -1876,6 +1884,16 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 31 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 16 DE AGOSTO DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
