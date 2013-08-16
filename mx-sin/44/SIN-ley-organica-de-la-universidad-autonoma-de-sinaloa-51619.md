@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-universidad-autonoma-de-sinaloa-51619"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-08-07"
-last_updated: "2010-02-10"
+last_updated: "2013-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE SINALOA
 
-LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE SINALOA
+LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 7 de agosto de 2006.
 
@@ -283,13 +283,15 @@ IV. Por no informar oportunamente a sus representados de los acuerdos del Consej
 
 Son atribuciones del H. Consejo Universitario:
 
-l. Formular, aprobar y modificar el Estatuto General de la Universidad y expedir las ternas y disposiciones reglamentarias de aplicación general para la mejor organización y funcionamiento de la Universidad;
+l. Formular, aprobar y modificar el Estatuto General de la Universidad y expedir las normas y disposiciones reglamentarias de aplicación general para la mejor organización y funcionamiento de la Universidad;
 
 II. Aprobar a propuesta del Rector la creación, modificación o supresión de las entidades que conforman la organización académica y administrativa de la Universidad;
 
 III. Definir, aprobar y modificar las políticas generales de desarrollo institucional;
 
-IV. Nombrar al Rector de la Universidad de la terna presentada por la Comisión Permanente de Postulación y resolver en los casos de renuncia o remoción;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+
+IV. Nombrar al Rector de la Universidad de la terna presentada por la Comisión Permanente de Postulación y resolver en los casos de reelección, renuncia o remoción;
 
 V. Ratificar a los Vicerrectores y Directores Regionales de Bachillerato nombrados por el Rector;
 
@@ -323,9 +325,19 @@ XVII. Las demás que le otorguen la presente Ley y otras normas y disposiciones 
 
 El Rector es la máxima autoridad ejecutiva de la Universidad, presidente del H. Consejo Universitario y representante legal de la misma.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 32.
 
-El Rector durará en su cargo cuatro años y no podrá ser reelecto para un período inmediato. Deberá tomar posesión a más tardar el día ocho de junio del año que corresponda.
+El Rector durará en su cargo cuatro años y podrá ser reelecto una vez. Deberá tomar posesión a más tardar el día ocho de junio del año que corresponda.
+
+En caso de reelección, el H. Consejo Universitario en sesión convocada previamente para tal efecto, en el año que corresponda, podrá determinar que al término de la gestión de cuatro años, el Rector en funciones ocupe el cargo por otro periodo adicional de igual duración, improrrogable; con base en la valoración de los aspectos siguientes:
+
+I. La importancia y trascendencia de los logros obtenidos durante su cargo; y
+
+II. La necesidad de dar seguimiento, para su concreción y consolidación de los programas y proyectos en curso.
+
+Tratándose de la reelección no será aplicable el periodo exigido en las fracciones IX y X del artículo 33, ni lo dispuesto en el artículo 36 de la presente Ley Orgánica.
 
 ###### ARTÍCULO 33.
 
@@ -347,9 +359,13 @@ VII. Desempeñar durante el último semestre, anterior a la elección, servicios
 
 VIII. Contar con el finiquito del desempeño correcto de todos y cada uno de los servicios prestados a la Institución, en caso de haberse desempeñado como funcionario o autoridad universitaria;
 
-IX. No ser ministro de ningún culto religioso ni funcionario público, al menos dieciocho meses antes al momento de su elección;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
 
-X. No haber sido durante los dieciocho meses anteriores a la elección, dirigente sindical o de partido político, ni funcionario de la administración universitaria; y
+IX. No ser ministro de ningún culto religioso, ni funcionario público, en los cuatro meses anteriores a la elección;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+
+X. No haber sido dirigente sindical o de partido político, ni funcionario de la administración universitaria en los cuatro meses anteriores a la elección; y
 
 XI. Documentar fehacientemente los requisitos anteriormente estipulados.
 
@@ -837,10 +853,16 @@ El Secretario General de Gobierno
 
 Lic. Rafael Oceguera Ramos.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE FEBRERO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 16 DE AGOSTO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El H. Consejo Universitario deberá realizar las modificaciones correspondientes a la legislación universitaria, en un plazo que no excederá de un mes, contado a partir del inicio de la vigencia del presente Decreto.
