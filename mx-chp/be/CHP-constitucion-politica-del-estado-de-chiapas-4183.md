@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2012-11-13"
+last_updated: "2013-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2013.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -737,7 +737,9 @@ XLII. Autorizar al Titular del Poder Ejecutivo así como a los municipios del Es
 
 XLIII. Aprobar la creación de Delegaciones Municipales en Centros Urbanos a solicitud del H. Ayuntamiento respectivo conforme a la Legislación aplicable.
 
-XLIV. Citar a comparecer a los funcionarios del Gobierno del Estado y los Municipios a solicitud del Consejo Estatal de los Derechos Humanos para exponer la inobservancia de recomendaciones en materia de Derechos Humanos.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+
+XLIV. Citar a comparecer a los funcionarios del Gobierno del Estado y los Municipios a solicitud de la Comisión Estatal de los Derechos Humanos para exponer las razones de no aceptación o incumplimiento de recomendaciones en materia de Derechos Humanos.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -813,7 +815,13 @@ X. Recibir, en su caso, la protesta de Gobernador interino o provisional.
 
 XI. Revisar y aprobar los avances financieros de la Cuenta Pública que envíe el Ejecutivo del Estado; y las demás que le asigne la presente Constitución.
 
-XII. Las demás previstas en esta Constitución.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+
+XII.- Recibir el informe anual que le rinda el Presidente de la Comisión Estatal de los Derechos Humanos.
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2013)</small>
+
+XIII. Las demás previstas en esta Constitución.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -831,13 +839,17 @@ II. A los Diputados.
 
 III. Al Titular del Poder Judicial del Estado, en lo relativo a su orden jurídico interno; así como de aquellas materias que en razón de su actividad jurisdiccional tenga conocimiento.
 
-IV. Al Presidente del Consejo Estatal de los Derechos Humanos, en materia de su ramo.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+
+IV. Al Presidente de la Comisión Estatal de los Derechos Humanos, en materia de su ramo.
 
 V. A los Ayuntamientos, en asuntos municipales.
 
 VI. A los ciudadanos del Estado, en los términos que disponga la Ley, la cual establecerá los requisitos, alcances, términos y procedimientos para su ejercicio.
 
-Las iniciativas presentadas por el Gobernador, por el Titular del Poder Judicial del Estado, por el Presidente del Consejo Estatal de los Derechos Humanos y por los Ayuntamientos pasarán desde luego a la Comisión; las que presenten los Diputados se sujetarán a los trámites que determine el Reglamento Interno del Congreso del Estado.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
+Las iniciativas presentadas por el Gobernador, por el Titular del Poder Judicial del Estado, por el Presidente de la Comisión Estatal de los Derechos Humanos y por los Ayuntamientos pasarán desde luego a la Comisión; las que presenten los Diputados se sujetarán a los trámites que determine el Reglamento Interno del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -1071,7 +1083,9 @@ Las ausencias de los titulares de las Dependencias y Entidades serán suplidas e
 
 En las quince regiones socioeconómicas del Estado, la Secretaría General de Gobierno contará con un Subsecretario de Gobierno, que tendrá a su cargo la coordinación de las acciones que corresponden realizar a las Dependencias de la Administración Pública Estatal con presencia en la región. El Subsecretario de Gobierno deberá reunir como requisitos ser chiapaneco por nacimiento, mayor de veinticinco años y deberá contar con una residencia mínima de cinco años en el Estado de Chiapas, al momento de su designación.
 
-La designación del Subsecretario de Gobierno correspondiente, se hará mediante terna que presente el Secretario General de Gobierno para su aprobación al Congreso del Estado o en sus recesos ante la Comisión Permanente; y será removido libremente por el propio Secretario General de Gobierno.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
+La designación del Subsecretario de Gobierno correspondiente, la realizará directamente el Secretario General de Gobierno, y será removido libremente por el mismo.
 
 Las quince regiones socioeconómicas son las siguientes:
 
@@ -1115,9 +1129,9 @@ Región XV. Meseta Comiteca Tojolabal: Conformada por los municipios de Comitán
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO III. DEL CONSEJO ESTATAL DE LOS DERECHOS HUMANOS
+### CAPÍTULO III. DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 47.
 
@@ -1135,7 +1149,7 @@ El Secretario General de Gobierno y los demás titulares de las Dependencias del
 
 Los titulares de las Dependencias y de las Entidades deberán comparecer ante el Congreso del Estado o ante sus Comisiones, cuando sean requeridos para dar cuenta del estado que guardan sus respectivos ramos o cuando se discuta una iniciativa de Ley que les competa.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 49.
 
@@ -1203,7 +1217,7 @@ La Fiscalía Electoral tendrá jurisdicción en todo el Estado para el desarroll
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
-## TÍTULO SÉPTIMO. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO Y DEL CONSEJO ESTATAL DE DERECHOS HUMANOS
+## TÍTULO SÉPTIMO. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO Y DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -1263,19 +1277,33 @@ El Procurador General de Justicia del Estado, contará con una Contraloría Gene
 
 La Contraloría General de la Procuraduría General de Justicia del Estado tendrá por objeto la fiscalización de los recursos financieros de los órganos que lo integran, así como la substanciación y aplicación de sanciones administrativas de los servidores públicos del mismo, con excepción del Procurador General de Justicia del Estado, el Subprocurador General de Justicia y el Fiscal Electoral, cuyas faltas serán denunciadas ante el Gobernador del Estado, para la substanciación del procedimiento correspondiente ante el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 55.
 
-La promoción y protección de los derechos humanos, estará a cargo de un organismo público, autónomo, con personalidad jurídica y patrimonio propio, al que se denominará Consejo Estatal de los Derechos Humanos, que conocerá de quejas promovidas por presuntas víctimas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del ámbito estatal y/o municipal, con excepción de los del Poder Judicial del Estado, que se presuma vulneren los derechos humanos previstos en esta constitución y la ley, así como combatir toda forma de discriminación y exclusión, consecuencia de un acto de autoridad a cualquier persona o grupo social.
+El Congreso del Estado, establecerá un organismo de protección de los derechos humanos que ampara el orden jurídico mexicano que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público de carácter local o municipal, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Tendrá por objeto la defensa, promoción del respeto, estudio y divulgación de los derechos humanos establecidos en el orden jurídico mexicano y en instrumentos internacionales ratificados por el estado mexicano, fomentar su respeto y observancia, el fortalecimiento de la cultura de la legalidad y el respeto a la cultura, costumbres y tradiciones de las comunidades indígenas de la Entidad; así como también el respeto y promoción de los derechos de las mujeres, y la defensa y promoción a los derechos humanos de los migrantes y sus familias en el Estado de Chiapas, y combatir toda forma de discriminación y exclusión, consecuencia de un acto de autoridad a cualquier persona o grupo social.
 
-Tendrá por objeto la defensa, promoción del respeto, estudio y divulgación de los derechos humanos establecidos en el orden jurídico mexicano y en instrumentos internacionales ratificados por el estado mexicano, fomentar su respeto y observancia, el fortalecimiento de la cultura de la legalidad y el respeto a la cultura, costumbres y tradiciones de las comunidades indígenas de la Entidad; así como también el respeto y promoción de los derechos de las mujeres, y la defensa y promoción a los derechos humanos de los migrantes y sus familias en el Estado de Chiapas.
+El organismo a que se refiere el párrafo anterior, formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presente este organismo.
 
-El Consejo Estatal de los Derechos Humanos, deberá impulsar los mecanismos necesarios para promover una cultura de paz, pudiendo intervenir, a petición de parte en procesos de negociación para resolver conflictos sociales a través de un procedimiento voluntario de gestión o resolución positiva de tensiones de diversa naturaleza, en el que las partes solicitan y acepten la intervención del consejo como mediador profesional, imparcial y neutral, con la finalidad de favorecer vías de comunicación y búsqueda de acuerdos consensuados.
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado o en sus recesos la Comisión Permanente, podrán llamar, a solicitud de este organismo, a las autoridades o servidores públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
 
-El Consejo Estatal de los Derechos Humanos, formulará recomendaciones públicas, no vinculatorias y denuncias y quejas ante las autoridades respectivas. No será competente tratándose de asuntos electorales y jurisdiccionales.
+Este organismo no será competente tratándose de asuntos electorales y jurisdiccionales.
 
-El Consejo Estatal de los Derechos Humanos estará facultado para:
+El organismo que establezca el Congreso del Estado, se denominará Comisión Estatal de los Derechos Humanos; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
+
+Asimismo, contará con Visitadurías Generales especializadas en Atención de Asuntos de la Mujer; Atención de Asuntos Indígenas y Atención de Asuntos de Migrantes.
+
+La Comisión Estatal de los Derechos Humanos tendrá un Consejo Consultivo integrado por diez consejeros que serán elegidos por el voto de las dos terceras partes de los miembros presentes de (sic) Congreso del Estado o, en sus recesos, por la Comisión Permanente, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
+
+El Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Décimo Segundo de esta Constitución.
+
+La elección del titular de la presidencia de la Comisión Estatal de los Derechos Humanos, así como de los integrantes del Consejo Consultivo, se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la ley.
+
+El Presidente de la Comisión Estatal de los Derechos Humanos presentará anualmente a los Poderes del Estado un informe de actividades. Al efecto comparecerá ante el Congreso en los términos que disponga la ley.
+
+La Comisión Estatal de los Derechos Humanos, deberá impulsar los mecanismos necesarios para promover una cultura de paz, pudiendo intervenir, a petición de parte en procesos de negociación para resolver conflictos sociales a través de un procedimiento voluntario de gestión o resolución positiva de tensiones de diversa naturaleza, en el que las partes solicitan y acepten la intervención del consejo como mediador profesional, imparcial y neutral, con la finalidad de favorecer vías de comunicación y búsqueda de acuerdos consensuados.
+
+La Comisión Estatal de los Derechos Humanos estará facultada para:
 
 I. Conocer e investigar, a petición de parte o de oficio, presuntas violaciones de derechos humanos en asuntos individuales ó colectivos cuando se presuma la existencia de violación a los derechos humanos de las personas.
 
@@ -1305,43 +1333,11 @@ XIII. Recomendar la reparación del daño para víctimas de violaciones de derec
 
 XIV. Formular denuncias y quejas ante las autoridades competentes, cuando tenga conocimiento de hechos en los que se advierta la probable comisión de delitos; violación a los derechos de los trabajadores u omisiones de servidores públicos que redunden en responsabilidades administrativas o penales.
 
-XV. Promover la profesionalización de los trabajadores del Consejo Estatal de los Derechos Humanos.
+XV. Promover la profesionalización de sus trabajadores.
 
-El Congreso del Estado asignará anualmente al Consejo Estatal de los Derechos Humanos, el presupuesto necesario para cumplir con sus atribuciones, tomando en consideración las previsiones generales del presupuesto de egresos; el cual no podrá ser menor al aprobado en el ejercicio inmediato anterior.
+El Congreso del Estado asignará anualmente a la Comisión Estatal de los Derechos Humanos, el presupuesto necesario para cumplir con sus atribuciones, tomando en consideración las previsiones generales del presupuesto de egresos; el cual no podrá ser menor al aprobado en el ejercicio inmediato anterior.
 
-El Consejo Estatal de los Derechos Humanos estará conformado por cinco Consejeros, quienes durarán en el ejercicio de su cargo cuatro años, con posibilidad de reelección por un periodo más. Para el auxilio y coordinación de las acciones internas que realice el Consejo, contará con un Secretario Ejecutivo, que será electo y designado conforme a la ley de la materia. Los Consejeros y el Secretario Ejecutivo sólo podrán ser removidos de sus funciones en los términos del Título Décimo Segundo de esta Constitución. De entre los integrantes del Consejo, uno de ellos ocupará el cargo de Presidente. El proceso de designación de los Consejeros del Consejo Estatal de los Derechos Humanos, estará previsto en la legislación respectiva, atendiendo lo siguiente:
-
-a) Un Consejero, será electo y designado mediante el voto de las dos terceras partes de los miembros presentes en el Congreso del Estado, o en sus recesos por la Comisión Permanente con la misma votación calificada, conforme a la convocatoria que éste emita para tal efecto.
-
-b) Un segundo Consejero, será electo y designado mediante consulta popular, a través de los procedimientos de participación ciudadana que establezca la ley y que serán llevados a cabo por el Instituto de Elecciones y Participación Ciudadana, quien deberá emitir la convocatoria respectiva.
-
-c) Un tercer Consejero será designado por los rectores de las Universidades públicas del Estado de Chiapas.
-
-d) Un cuarto Consejero será designado por los Organismos No Gubernamentales de Derechos Humanos con sede en el Estado de Chiapas y que hayan realizado gestiones, por lo menos, durante cinco años ante la Comisión Interamericana de Derechos Humanos y/o ante el Alto Comisionado de las Naciones Unidas para los Refugiados.
-
-e) Un quinto Consejero, representante de los pueblos indígenas que señala el artículo 7 de esta Constitución, será electo y designado mediante consulta pública, transparente e informada, por medio del Instituto de Elecciones y Participación Ciudadana.
-
-El Consejo Estatal de los Derechos Humanos a que se refiere este Capítulo, contará con cuatro Comisiones, que serán las siguientes:
-
-I. Comisión de Asuntos Generales de los Derechos Humanos.
-
-II. Comisión de Atención a los Derechos Humanos de Migrantes.
-
-III. Comisión de Atención a los Derechos Humanos de Equidad de Género.
-
-IV. Comisión de Atención a los Derechos Humanos de los Pueblos Indígenas.
-
-Cada uno de los Consejeros, a excepción del Presidente del Consejo Estatal de los Derechos Humanos, presidirá una de las comisiones señaladas en el párrafo que antecede.
-
-El cargo de Presidente del Consejo Estatal de los Derechos Humanos, será ejercido en los términos que señale la ley de la materia, conforme al voto mayoritario de los integrantes del propio organismo. Durará en el cargo dos años, el cual únicamente podrá ser ampliado hasta por un periodo continúo.
-
-El Presidente del Consejo Estatal de los Derechos Humanos comparecerá y rendirá anualmente ante el Congreso del Estado, un informe de actividades, en los términos que establezca la Ley. Asimismo, presentará al Poder Legislativo del Estado de Chiapas, a través del Órgano de Fiscalización Superior del Congreso del Estado, un informe anual del ejercicio del presupuesto asignado al Consejo, en los términos que establezca la ley respectiva.
-
-En caso que un servidor público haga caso omiso a las recomendaciones emitidas por el Consejo Estatal de los Derechos Humanos, será citado a comparecer ante la Comisión de Derechos Humanos del Congreso del Estado, para exponer las causas que motivaron la inobservancia, conforme lo determine la ley respectiva.
-
-Cuando se emita recomendación por parte de los Organismos Internacionales de los Derechos Humanos o por la Comisión Nacional de los Derechos Humanos, la autoridad estatal y/o municipal responsable que acepte la recomendación o que sea responsable según resolución de la Corte Interamericana de Derechos Humanos, o de otros instrumentos jurídicamente vinculantes, deberá encargarse de adoptar medidas que culminen con la reparación total del daño, en el caso de que sea sugerido como medida de cumplimiento, previendo los recursos presupuestales necesarios para ello.
-
-El Consejo Estatal de los Derechos Humanos velará por el cabal cumplimiento de las determinaciones formuladas por los Organismos Internacionales de los Derechos Humanos, así como la Comisión Nacional de los Derechos Humanos, en especial aquellas en las que se determine la reparación del daño.
+La Comisión Estatal de los Derechos Humanos velará por el cabal cumplimiento de las determinaciones formuladas por los Organismos Internacionales de los Derechos Humanos, así como la Comisión Nacional de los Derechos Humanos, en especial aquellas en las que se determine la reparación del daño.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -1631,7 +1627,9 @@ c) El Procurador General de Justicia del Estado, en contra de leyes expedidas po
 
 d) El equivalente al 33% de los ayuntamientos de la entidad.
 
-e) El Presidente del Consejo Estatal de los Derechos Humanos, en el ámbito de su competencia.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
+e) El Presidente de la Comisión Estatal de los Derechos Humanos, en el ámbito de su competencia.
 
 Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas por el pleno del Tribunal Constitucional, y surtirán efectos a partir de su publicación en el Periódico Oficial sin efecto retroactivo, excepto cuando se trate de asuntos del orden penal en beneficio del inculpado.
 
@@ -1961,27 +1959,39 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refiere este artículo.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 81.
 
-Podrán ser sujetos de juicio político: El Gobernador del Estado; los Diputados Locales; los Magistrados del Poder Judicial y Consejeros de la Judicatura; los Secretarios de Despacho; el Procurador General de Justicia del Estado; el Subprocurador General de Justicia y el Fiscal Electoral; el Presidente y los Contralores de la Comisión de Fiscalización Electoral; los Consejeros Electorales del Instituto de Elecciones y Participación Ciudadana; los Coordinadores Generales; los Presidentes Municipales; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos; los Consejeros y el Secretario Ejecutivo del Consejo Estatal de los Derechos Humanos; y el Auditor Superior del Estado.
-
-Cuando los servidores públicos mencionados, así como los Presidentes Municipales incurran en violaciones graves a la Constitución del Estado y a las leyes que de ella emanen, así como en el manejo indebido de fondos y recursos estatales o municipales, se observará el procedimiento establecido en este precepto.
-
-Para la aplicación de las sanciones a que se refiere este artículo, el Congreso del Estado erigido en Jurado de Acusación, procederá a la acusación respectiva ante el Tribunal Constitucional del Tribunal Superior de Justicia del Estado, previa declaración de la mayoría absoluta del número de los miembros presentes en sesión del mismo, después de haber substanciado el procedimiento respectivo y con la audiencia del inculpado.
-
-En conocimiento de la acusación, y erigido el Tribunal de Sentencia, el Tribunal Constitucional del Tribunal Superior de Justicia del Estado aplicará la sanción correspondiente mediante resolución emitida cuando menos por mayoría de votos de magistrados presentes en la respectiva sesión del Pleno, una vez practicadas las diligencias correspondientes y con audiencia del acusado, de su defensor y de una Comisión del Jurado de acusación integrada por dos diputados.
-
-Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+Podrán ser sujetos de juicio político: El Gobernador del Estado; los Diputados Locales; los Magistrados del Poder Judicial y Consejeros de la Judicatura; los Secretarios de Despacho; el Procurador General de Justicia del Estado; el Subprocurador General de Justicia y el Fiscal Electoral; el Presidente y los Contralores de la Comisión de Fiscalización Electoral; los Consejeros Electorales del Instituto de Elecciones y Participación Ciudadana; los Coordinadores Generales; los Presidentes Municipales; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos; El Presidente de la Comisión Estatal de los Derechos Humanos; y el Auditor Superior del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
+Cuando los servidores públicos mencionados, así como los Presidentes Municipales incurran en violaciones graves a la Constitución del Estado y a las leyes que de ella emanen, así como en el manejo indebido de fondos y recursos estatales o municipales, se observará el procedimiento establecido en este precepto.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+
+Para la aplicación de las sanciones a que se refiere este artículo, el Congreso del Estado erigido en Jurado de Acusación, procederá a la acusación respectiva ante el Tribunal Constitucional del Tribunal Superior de Justicia del Estado, previa declaración de la mayoría absoluta del número de los miembros presentes en sesión del mismo, después de haber substanciado el procedimiento respectivo y con la audiencia del inculpado.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+
+En conocimiento de la acusación, y erigido el Tribunal de Sentencia, el Tribunal Constitucional del Tribunal Superior de Justicia del Estado aplicará la sanción correspondiente mediante resolución emitida cuando menos por mayoría de votos de magistrados presentes en la respectiva sesión del Pleno, una vez practicadas las diligencias correspondientes y con audiencia del acusado, de su defensor y de una Comisión del Jurado de acusación integrada por dos diputados.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+
+Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 82.
 
-Cuando se trate de actos u omisiones sancionados por la Ley Penal cometidos por el Gobernador del Estado; por los Diputados Locales; los Magistrados del Poder Judicial y Consejeros de la Judicatura; por los Secretarios y Subsecretarios de Despacho; por el Procurador General de Justicia del Estado, por el por el (sic) Subprocurador General de Justicia y el Fiscal Electoral; el Presidente y los Contralores de la Comisión de Fiscalización Electoral; los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana; los Coordinadores Generales; los Presidentes, Síndicos y Regidores Municipales; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos; los Consejeros y el Secretario Ejecutivo del Consejo Estatal de los Derechos Humanos; y el Auditor Superior del Estado; el Congreso del Estado o en su caso la Comisión Permanente erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Cuando se trate de actos u omisiones sancionados por la Ley Penal cometidos por el Gobernador del Estado; por los Diputados Locales; los Magistrados del Poder Judicial y Consejeros de la Judicatura; por los Secretarios y Subsecretarios de Despacho; por el Procurador General de Justicia del Estado, por el Subprocurador General de Justicia y el Fiscal Electoral; el Presidente y los Contralores de la Comisión de Fiscalización Electoral; los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana; los Coordinadores Generales; los Presidentes, Síndicos y Regidores Municipales; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos; El Presidente de la Comisión Estatal de los Derechos Humanos; y el Auditor Superior del Estado; el Congreso del Estado o en su caso la Comisión Permanente erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los magistrados del Poder Judicial y consejeros de la Judicatura, incurran en delitos federales, recibida que sea la declaratoria de procedencia a que se contrae el artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, el Congreso del Estado erigido en jurado, por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los demás servidores públicos, determinará la procedencia o no de dicha declaración, en caso afirmativo quedará el inculpado separado de su cargo, en tanto esté sujeto a la acción de los Tribunales del orden Federal. Si la sentencia fuese condenatoria la separación de su cargo será definitiva. En caso negativo la solicitud de declaratoria de procedencia se desechará de plano, sin perjuicio de que la imputación por la comisión de delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 Las sanciones penales se aplicarán de acuerdo a lo dispuesto en la legislación penal y, tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de reparar los daños y resarcir los perjuicios causados por su conducta ilícita.
 
@@ -2025,11 +2035,13 @@ Todos los servidores públicos y demás personas empleadas del Estado y de los M
 
 Todos los servidores públicos del Estado percibirán una compensación por sus servicios, que será determinada por la Ley y pagada por el erario estatal. Esta compensación no será renunciable.
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 87.
 
-El Gobernador, los Magistrados, el Procurador General de Justicia del Estado, los Fiscales de Distrito, el Fiscal Electoral, los Fiscales Especializados y Especiales, los Agentes del Ministerio Público, el Presidente y los Contralores de la Comisión de Fiscalización Electoral, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios de Despacho, los Secretarios y Actuarios del Poder Judicial del Estado, los Servidores Públicos y Delegados del Registro Público de la Propiedad, así como los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana, no podrán fungir como árbitros, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición no comprende a servidores públicos y empleados, de los enumerados, que no estén en ejercicio de sus funciones por hallarse disfrutando de licencia.
+El Gobernador, los Magistrados, el Procurador General de Justicia del Estado, los Fiscales de Distrito, el Fiscal Electoral, los Fiscales Especializados y Especiales, los Agentes del Ministerio Público, el Presidente y los Contralores de la Comisión de Fiscalización Electoral, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios de Despacho, los Secretarios y Actuarios del Poder Judicial del Estado, los Servidores Públicos y Delegados del Registro Público de la Propiedad, así como los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana, y el Presidente de la Comisión Estatal de los Derechos Humanos; no podrán fungir como árbitros, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición no comprende a servidores públicos y empleados, de los enumerados, que no estén en ejercicio de sus funciones por hallarse disfrutando de licencia.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 Cuando en un Distrito Judicial no exista Notario Público, los Jueces Civiles o Mixtos de primera instancia, podrán actuar como tales por receptoría.
 
@@ -2757,7 +2769,7 @@ El Poder Ejecutivo del Estado y los Ayuntamientos, en caso de una resolución vi
 
 El Estado reconoce, protege y tutela, el derecho a la vida que todo ser humano tiene. Desde el momento de la concepción, entra bajo la protección de la Ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural, salvo las excepciones que establezca la legislación penal.
 
-Las autoridades estatales y municipales, en los términos y condiciones que establezcan la Constitución General del la República, la particular del Estado, las leyes que de ellas emanan, los Tratados y Convenios Internacionales ratificados y vigentes en México, garantizarán:
+Las autoridades estatales y municipales, en los términos y condiciones que establezcan la Constitución General del (sic) la República, la particular del Estado, las leyes que de ellas emanan, los Tratados y Convenios Internacionales ratificados y vigentes en México, garantizarán:
 
 I. El derecho a la identidad a toda persona nacida en Chiapas, para que cuenten con nombre y nacionalidad mexicana.
 
@@ -3007,7 +3019,7 @@ Esta Constitución se publicará en el Periódico Oficial, y con la mayor solemn
 
 ###### ARTICULO TERCERO.
 
-Para los efectos del Artículo 36 reformado, la Legislatura del Estado, designará a la persona que ocupará el cargo de Gobernador con el carácter de interino del día primero al día ocho de diciembre de 1982, fecha esta ultima en que deberá tomar posesión el Gobernador Constitucional Electo.
+Para los efectos del Artículo 36 reformado, la Legislatura del Estado, designará a la persona que ocupará el cargo de Gobernador con el carácter de interino del día primero al día ocho de diciembre de 1982, fecha esta última en que deberá tomar posesión el Gobernador Constitucional Electo.
 
 ###### ARTICULO CUARTO.
 
@@ -3932,3 +3944,29 @@ P.O. 13 DE NOVIEMBRE DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE AGOSTO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Los recursos humanos, materiales y financieros, que a la entrada en vigor del presente Decreto, se encuentren asignados al Consejo Estatal de Derechos Humanos, seguirán formando parte de la Comisión Estatal de los Derechos Humanos, preservándose los derechos adquiridos de los trabajadores del Consejo.
+
+Artículo Cuarto.- Los actuales funcionarios del Consejo Estatal de los Derechos Humanos, permanecerán en sus cargos hasta que se haga la designación correspondiente, conforme a lo dispuesto por la Ley.
+
+Artículo Quinto.- Los actuales consejeros del Consejo Estatal de Derechos Humanos, concluirán sus funciones a la entrada en vigor del presente Decreto.
+
+El Secretario Ejecutivo del Consejo Estatal de los Derechos Humanos, continuará en funciones y seguirá formando parte de la Comisión Estatal de los Derechos Humanos, hasta la conclusión del período para el cual fue nombrado, con las mismas percepciones salariales y prestaciones sociales.
+
+Artículo Sexto.- Para el nombramiento de los consejeros que integrarán el consejo consultivo de la Comisión Estatal de los Derechos Humanos, conforme a las reformas previstas en el presente Decreto, el período de los consejeros, vencerá para cada dos de ellos, el último día de diciembre de los años 2014, 2015, 2016 y 2017, respectivamente, y para los últimos dos restantes vencerá el último día de diciembre del año 2018. Al aprobar los nombramientos, el Congreso del Estado, o la Comisión Permanente deberá señalar cuál de los períodos corresponderá a cada consejero.
+
+Una vez aprobado et nombramiento de, por lo menos, seis consejeros, se realizará una sesión de apertura e instalación.
+
+Artículo Séptimo.- En tanto se nombra al titular de la Comisión Estatal de los Derechos Humanos y a los miembros del Consejo Consultivo, en términos de los transitorios anteriores, el presidente del Consejo Estatal de los Derechos Humanos, ejercerá las funciones de éste y atenderá los asuntos administrativos de la Comisión Estatal de los Derechos Humanos.
+
+El presidente del Consejo Estatal de los Derechos Humanos concluirá su encargo una vez que haya dado cuenta de los asuntos atendidos conforme a los párrafos anteriores, y realice la entrega recepción al nombrado Presidente de la Comisión Estatal de los Derechos Humanos, cuando este último haya tomado la protesta respectiva.
+
+Artículo Octavo.- Los compromisos y procedimientos que a la entrada en vigor del presente Decreto, hubiere contraído el Consejo Estatal de los Derechos Humanos, seguirán siendo asumidos inmediatamente y se entenderán conferidos a la Comisión Estatal de los Derechos Humanos, conforme a las disposiciones vigentes a la entrada en vigor el presente Decreto.
+
+Artículo Noveno.- En tanto se expidan las disposiciones legales, reglamentarias y acuerdos generales, seguirán siendo aplicadas las que se encuentran vigentes a la entrada en vigor del presente Decreto, salvo en los casos en que se opongan al mismo.
