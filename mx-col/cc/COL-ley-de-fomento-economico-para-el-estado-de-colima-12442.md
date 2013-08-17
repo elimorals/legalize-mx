@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-economico-para-el-estado-de-colima-12442"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-29"
-last_updated: "2005-04-30"
+last_updated: "2013-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE COLIMA
 
-LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE COLIMA
+LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de agosto de 1998.
 
@@ -139,39 +139,41 @@ XXIV.- Las demás que sean necesarias para el cumplimiento del objeto y fines pr
 
 ### CAPITULO II. DE LAS EMPRESAS SUJETAS A FOMENTO
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 6o.
 
-Tendrán derecho a los incentivos y apoyos previstos por esta Ley, las empresas establecidas o por establecerse en el Estado de Colima, cuyas inversiones o reinversiones reúnan los siguientes requisitos:
+Tendrán derecho a los incentivos y apoyos previstos por esta Ley, las empresas establecidas o por establecerse en el Estado de Colima, que se encuentren en alguno de los siguientes supuestos:
 
 I.- Que se ubiquen fuera de las zonas urbanas y en las áreas geográficas no restringidas por los planes parciales de desarrollo urbano y por el Programa de Ordenamiento Ecológico del Territorio Estatal o en zonas que se consideren prioritarias, conforme a los estudios de vocaciones regionales y otras que muestren la viabilidad de crecimiento de ciertas regiones de la entidad, en el caso de empresas industriales;
 
-II.- Que generen empleos directos o las apliquen en activos fijos en las áreas o zonas geográficas donde se establezcan conforme a los rangos, cantidades y plazos que se determinen en el reglamento de esta Ley.
+II.- Que generen empleos directos o sus inversiones se apliquen en activos fijos en las áreas o zonas geográficas donde las empresas se establezcan, conforme a los rangos, cantidades y plazos que se determinen en el reglamento de esta Ley;
 
-Además de los anteriores criterios podrán ser objeto de los incentivos y apoyos, las empresas que estén identificadas con alguno de los siguientes atributos:
+III.- Que realicen exportaciones de productos procesados;
 
-a) Con la exportación de productos procesados;
+IV.- Que pertenezcan a sectores o ramas productivas que sean prioritarias, de acuerdo con lo establecido en el Plan Estatal de Desarrollo y que sean identificadas con posibilidades de participar exitosamente en los mercados de exportación de acuerdo a los criterios que establezca la Secretaría;
 
-b) Con los sectores o ramas productivas que sean prioritarias, de acuerdo con lo establecido en el Plan Estatal de Desarrollo y que sean identificadas con posibilidades de participar exitosamente en los mercados de exportación de acuerdo a los criterios que establezca la Secretaría;
+V.- Que pertenezcan a sectores o ramas productivas que se consideren prioritarias, que sean identificadas como estratégicas o necesitadas de apoyos especiales;
 
-c) Sectores o ramas productivas que se consideren prioritarias, que sean identificadas como estratégicas o necesitadas de apoyos especiales;
+VI.- Que se trate de micros, pequeñas y medianas empresas que se constituyan en un esquema de asociación formal para mejorar su productividad y competitividad;
 
-d) Con las micros, pequeñas y medianas empresas que se constituyan en un esquema de asociación formal para mejorar su productividad y competitividad;
+VII.- Que tengan a su servicio, preferentemente, personas con discapacidad;
 
-e) Las empresas que tengan a su servicio, preferentemente, personas con discapacidad;
+VIII.- Que sean creadas por jóvenes emprendedores o que sean propiedad de jóvenes empresarios, en los términos de la legislación aplicable; o
 
-f) Empresas que realicen cualquiera de las siguientes actividades:
+IX.- Que realicen cualquiera de las siguientes actividades:
 
-1.- Realicen infraestructura en parques industriales, regiones con vocación turística y habitacionales;
+a) De infraestructura en parques industriales, regiones con vocación turística y habitacionales;
 
-2.- Que contribuyan a la conservación del medio ambiente y realicen inversiones para evitar los problemas de la contaminación ambiental en materia de reciclaje, tratamiento y confinamiento de residuos domésticos e industriales;
+b) De conservación del medio ambiente y realicen inversiones para evitar los problemas de la contaminación ambiental en materia de reciclaje, tratamiento y confinamiento de residuos domésticos e industriales;
 
-3.- Participen e inviertan en programas de crecimiento, consolidación y diversificación de proveedores;
+c) En programas de crecimiento, consolidación y diversificación de proveedores;
 
-4.- Instrumenten programas permanentes de investigación y de avance científico ó tecnológico;
+d) De instrumentación de programas permanentes de investigación y de avance científico o tecnológico;
 
-5.- Promuevan una cultura de la calidad mediante acciones de normalización, certificación y verificación; y
+e) De promoción de una cultura de la calidad mediante acciones de normalización, certificación y verificación; y
 
-6.- Impulsen, diversifiquen e incrementen programas de inversión en la capacitación y adiestramiento de recursos humanos.
+f) De impulso, diversificación e incremento de programas de inversión en la capacitación y adiestramiento de recursos humanos
 
 ### CAPITULO III. DE LOS INCENTIVOS Y APOYOS A LAS EMPRESAS
 
@@ -251,7 +253,9 @@ Los incentivos y apoyos que se concedan de conformidad a lo dispuesto en el art�
 
 I.- Se autorizarán en la Ley de Ingresos y el Presupuesto de Egresos del Estado, cuando sea el caso y los promueva el Ejecutivo.
 
-En la iniciativa de Presupuesto de Egresos para cada ejercicio fiscal, durante el periodo de vigencia del impuesto sobre nóminas, el Ejecutivo del Estado incluirá en las partidas de promoción económica, un monto equivalente al 1% del monto total del Presupuesto de Egresos. Dichos recursos serán administrados y ejercidos a través del fideicomiso público que para el efecto sea constituido, para el financiamiento y programas de capacitación, de la micro, pequeña y mediana empresa, así como en la inversión en obra estratégica para el desarrollo económico del estado, pudiéndose agregar otros programas que para los mismos fines sean definidos por el mismo fideicomiso.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2013)</small>
+
+En la iniciativa de Presupuesto de Egresos para cada ejercicio fiscal, durante el periodo de vigencia del impuesto sobre nóminas, el Ejecutivo del Estado incluirá en las partidas de promoción económica, un monto equivalente al 1% del total que resulte de sumar las cantidades correspondientes a los rubros de Impuestos, Derechos, Productos, Aprovechamientos, Participaciones Federales y Aportaciones Federales, de la iniciativa de Ley de Ingresos para el ejercicio de que se trate. Dichos recursos serán administrados y ejercidos a través del fideicomiso público que para el efecto sea constituido, para el financiamiento y programas de capacitación, de la micro, pequeña y mediana empresa, así como en la inversión en obra estratégica para el desarrollo económico del Estado, pudiéndose agregar otros programas que para los mismos fines sean definidos por el mismo fideicomiso.
 
 II.- Se autorizarán en las leyes generales de ingresos y los Presupuestos de Egresos de los Municipios, cuando sea el caso y se otorguen por los Ayuntamientos.
 
@@ -341,7 +345,7 @@ III.- Protección y mejoramiento del medio ambiente; y
 
 IV.- Exportación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE ABRIL DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE ABRIL DE 2005)</small>
 
 ### CAPITULO IV BIS. DEL CERTIFICADO DE EMPRESA COLIMENSE
 
@@ -719,12 +723,16 @@ Dado en Palacio de Gobierno, a los 28 días del mes de agosto de mil novecientos
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. HECTOR MICHEL CAMARENA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE DICIEMBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el 1º. de enero de 2005, previa su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 30 DE ABRIL DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 17 DE AGOSTO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
