@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-fomento-economico-71203
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-21"
-last_updated: "2009-11-21"
+last_updated: "2013-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO ECONOMICO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO ECONOMICO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FOMENTO ECONÓMICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FOMENTO ECONÓMICO, PUBLICADO EN EL P.O. DE 17 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 21 de noviembre de 2009.
 
 MARIO ANGUIANO MORENO, Gobernador Constitucional del Estado Libre y Soberano de Colima, en ejercicio de la facultad que al Ejecutivo a mi cargo le confiere el artículo 58, fracción III, de la Constitución Política del Estado Libre y Soberano de Colima y con fundamento en lo dispuesto por los artículos 3, 12, y 24 BIS 2 de la Ley Orgánica de la Administración Pública del Estado; y
 
-C O N S I D E R A N D O S :.
+C O N S I D E R A N D O S :...
 
 Por lo anteriormente expuesto se expide el siguiente:
 
@@ -682,3 +684,13 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en la residencia del Poder Ejecutivo Estatal, en la Ciudad de Colima, a los diecinueve días del mes de noviembre del año dos mil nueve.
 
 ATENTAMENTE. SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, DR. J. JESÚS OROZCO ALFARO. Rúbrica. EL SECRETARIO DE FOMENTO ECONÓMICO, C. RAFAEL GUTIÉRREZ VILLALOBOS. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Fomento Económico del Gobierno del Estado de Colima expedido el 19 de noviembre del 2009 y publicado en el Periódico Oficial "El Estado de Colima" el 21 de noviembre del 2009.
+
+TERCERO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a lo señalado en el presente Reglamento.
