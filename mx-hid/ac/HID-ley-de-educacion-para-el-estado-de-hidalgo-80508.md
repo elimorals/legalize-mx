@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-80508"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-28"
-last_updated: "2013-07-31"
+last_updated: "2013-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 28 de marzo de 2011.
 
@@ -169,7 +169,9 @@ I.- Será democrático, considerando a la democracia no solamente como una estru
 
 II.- Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, la defensa de nuestra independencia política, el aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
 
-III.- Contribuirá a la mejor convivencia humana, aportando elementos para robustecer en el educando el aprecio a la dignidad de la persona, la integridad de los diversos tipos de familia, la convicción del interés general de la sociedad, sustentando los ideales de fraternidad e igualdad de derechos de todos los seres humanos, evitando los privilegios de raza, religión, grupo, sexo o de individuos; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+III.- Contribuirá a la mejor convivencia humana, aportando elementos para robustecer en el educando el aprecio a la dignidad de la persona, la integridad de los diversos tipos de familia, la convicción del interés general de la sociedad y la cultura de la paz sustentando los ideales de fraternidad e igualdad y respeto de los derechos de todos los seres humanos, evitando los privilegios de raza, religión, grupo, sexo o de individuos; y
 
 IV.- Contribuirá a evitar toda práctica, conducta, expresión y actitud que conduzca a la discriminación o subordinación de género.
 
@@ -285,11 +287,33 @@ XV.- Promover la mejora continua de los procesos académicos y administrativos d
 
 XVI.- Canalizar a la instancia correspondiente, a través de los educadores, los casos de educandos con problemas de salud física o mental;
 
-XVII.- Vigilar que los alimentos y bebidas comercializados al interior de las escuelas de nivel básico contengan aportes nutrimentales y que no constituyan un factor de riesgo que generen, entre otras anomalías, sobrepeso u obesidad;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XVIII.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y
+XVII.- Elaborar un Plan de Convivencia, Paz Escolar y Prevención de la Violencia;
 
-XIX,- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables en la materia.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XVIII.- Establecer lineamientos para la atención médica y tratamiento psicológico a las víctimas y a los agresores;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XIX.- Determinar, sin prejuicio del desarrollo escolar de los alumnos, el tipo de faltas y sanciones que ameriten los actos de violencia;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XX.- Promover e impulsar programas de prevención, detección y atención de casos de violencia y abuso escolar en cualquiera de sus manifestaciones;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XXI.- Vigilar que los alimentos y bebidas comercializados al interior de las escuelas de nivel básico contengan aportes nutrimentales y que no constituyan un factor de riesgo que generen, entre otras anomalías, sobrepeso u obesidad;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XXII.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XXIII.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables en la materia.
 
 ###### ARTÍCULO 16.
 
@@ -409,19 +433,33 @@ XIX.- Obtener el acceso, permanencia y egreso oportuno de la escuela, así como 
 
 XX.- Recibir capacitación para desarrollar una cultura de la salud que propicie comportamientos y entornos saludables;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XXI.- Recibir un trato respetuoso por parte de las autoridades educativas mediatas e inmediatas y demás trabajadores de la institución;
+XXI.- Estudiar en ambientes de tolerancia y respeto mutuo, en donde bajo ninguna circunstancia se atente contra su integridad física o moral o sea objeto de maltrato verbal o psicológico por parte de sus compañeros y maestros;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XXII.- Solicitar que las autoridades federales, locales, municipales y escolares garanticen y fortalezcan los hábitos alimentarios adecuados que contribuyan a la prevención del sobrepeso y la obesidad para favorecer su salud y en consecuencia los procesos de enseñanza y aprendizaje; y
+XXII.- Acceder a tratamiento psicológico cuando sea objeto de agresiones, en cualquiera de sus manifestaciones, dentro de los centros escolares;
 
-> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE AGOSTO DE 2013)</small>
 
-XXIII.- Contar con agua potable en las escuelas públicas de educación básica de la Entidad, que sea suficiente, segura, gratuita, de calidad y apta para el consumo personal.
+XXIII.- Obtener educación, sobre los efectos de la violencia y su incidencia en la personalidad, en el aprovechamiento escolar y en las relaciones interpersonales, así como los problemas relacionados que produce en la vida adulta;
 
-Para tales efectos, las autoridades educativas de manera coordinada con las instancias competentes, habilitarán bebederos para proveer agua potable a las escuelas públicas de educación básica de la Entidad, conforme a las normas técnicas para su construcción e instalación correspondiente.
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XXIV.- Acceder a programas de prevención y control de la violencia, orientación y manejo de conflictos;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XXV.- Recibir menciones honoríficas por su participación en la promoción de valores solidarios y de convivencia sana en relación con sus padres;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XXVI.- Recibir un trato respetuoso por parte de las autoridades educativas mediatas e inmediatas y demás trabajadores de la Institución; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XXVII.- Solicitar que las autoridades federales, locales, municipales y escolares garanticen y fortalezcan los hábitos alimentarios adecuados que contribuyan a la prevención del sobrepeso y la obesidad para favorecer su salud y en consecuencia los procesos de enseñanza y aprendizaje.
 
 ###### ARTÍCULO 28.
 
@@ -433,9 +471,17 @@ II.- Asumir consciente y responsablemente, de acuerdo al nivel educativo en el q
 
 III.- Valorar la importancia del reglamento escolar como parte fundamental de su formación integral y autónoma;
 
-IV.- Reconocer, apreciar y practicar los preceptos del Artículo 3° Constitucional; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-V.- Respetar a las autoridades educativas mediatas e inmediatas, a los demás trabajadores de la institución y a sus compañeros.
+IV.- Reconocer, apreciar y practicar los preceptos del Artículo 3° Constitucional;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+V.- Respetar las normas de disciplina y convivencia escolar, así como a las autoridades educativas mediatas e inmediatas, a los demás trabajadores de la institución y a sus compañeros; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+VI.- Participar en todas las actividades escolares y extraescolares que fomenten la solidaridad, el respeto y la cooperación escolar, teniendo como finalidad alcanzar una convivencia armónica.
 
 ### CAPÍTULO III. DEL FINANCIAMIENTO A LA EDUCACIÓN
 
@@ -609,9 +655,17 @@ XII.- Las demás acciones que tiendan a mejorar el funcionamiento institucional.
 
 Corresponde a la autoridad educativa estatal coordinarse con las Autoridades escolares, Municipales y de la comunidad, dentro de su ámbito de competencia para:
 
-I.- Salvaguardar la integridad física de los estudiantes y trabajadores de la educación en las escuelas; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-II.- Participar en la vigilancia y adoptar medidas pertinentes para que en los planteles educativos no se distribuyan o consuman drogas psicotrópicas o enervantes, debiendo denunciar ante quien corresponda, cualquier hecho en ese sentido, a efecto de que sea seguido el procedimiento legal correspondiente.
+I.- Salvaguardar la integridad física de los estudiantes y trabajadores de la educación en las escuelas;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+II.- Participar en la vigilancia y adoptar medidas pertinentes para que en los planteles educativos no se distribuyan o consuman drogas psicotrópicas o enervantes, debiendo denunciar ante quien corresponda, cualquier hecho en ese sentido, a efecto de que sea seguido el procedimiento legal correspondiente; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+III.- Detectar y denunciar ante a la autoridad competente los casos de violencia, de abuso en cualquiera de su manifestaciones, o de la comisión de algún delito en agravio de los educandos.
 
 ## TÍTULO SEGUNDO
 
@@ -941,7 +995,9 @@ V.- Fomentar en el estudiante la capacidad para socializar y entender la intercu
 
 VI.- Lograr que los estudiantes construyan conocimientos académicos y de formación humana;
 
-VII.- Lograr una orientación vocacional adecuada;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+VII.- Desarrollar procesos de orientación vocacional, en distintas plataformas, a fin de permitir que las y los estudiantes cuenten con herramientas para la elección adecuada de su perfil profesional y ocupacional;
 
 VIII.- Desarrollar habilidades de investigación, comunicación y pensamiento, que enriquezcan la capacidad para tomar decisiones;
 
@@ -1347,15 +1403,37 @@ VI.- Promover, apoyar y difundir las acciones necesarias para la protección civ
 
 VII.- Alentar el interés familiar y comunitario por el desempeño del educando;
 
-VIII.- Impulsar entre los educandos y la comunidad, la difusión de temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad, equidad de género y derechos humanos de las y los educandos;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-IX.- Contribuir a reducir las condiciones sociales adversas que influyan en el desempeño escolar de las y los educandos;
+VIII.- Proponer recomendaciones y acciones para prevenir las agresiones en los centros escolares;
 
-X.- Apoyar los trabajos específicos para el mejoramiento de las instalaciones escolares;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XI.- Respaldar las labores cotidianas de la escuela; y
+IX.- Vigilar la aplicación, cumplimiento y desarrollo de los programas destinados a la prevención, detección y atención contra la violencia y abuso escolar;
 
-XII.- En general, realizar actividades en beneficio de la propia escuela.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+X.- Informar a las autoridades educativas el incumplimiento de las acciones y programas destinados a combatir la violencia en las instituciones educativas de la entidad;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XI.- Impulsar entre los educandos y la comunidad, la difusión de temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad, equidad de género y derechos humanos de las y los educandos;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XII.- Contribuir a reducir las condiciones sociales adversas que influyan en el desempeño escolar de las y los educandos;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XIII.- Apoyar los trabajos específicos para el mejoramiento de las instalaciones escolares;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XIV.- Respaldar las labores cotidianas de la escuela; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XV.- En general, realizar actividades en beneficio de la propia escuela.
 
 En las escuelas particulares de educación básica deberán integrarse y operar Consejos análogos, que cumplan con la normatividad correspondiente.
 
@@ -1684,5 +1762,11 @@ CUARTO.- Se derogan todas aquellas disposiciones que se opongan a esta Ley.
 P.O. 31 DE JULIO DE 2013.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a esta Ley.
+
+P.O. 19 DE AGOSTO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a esta Ley.
