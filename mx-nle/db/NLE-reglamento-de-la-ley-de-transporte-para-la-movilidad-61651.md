@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-de-transporte-para-la-movilidad-61651"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-29"
-last_updated: "2011-07-08"
+last_updated: "2013-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE LA LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-REGLAMENTO DE LA LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEON
+REGLAMENTO DE LA LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de noviembre de 2006.
 
@@ -49,9 +49,11 @@ Para los efectos del presente instrumento, las referencias a la “Ley”, al �
 
 La explotación y uso de las comunicaciones viales, así como los servicios de transporte de pasajeros y de carga, se sujetarán a las disposiciones de la Ley, este Reglamento y las normas que expida la Agencia.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 4.
 
-Las atribuciones que la Ley otorga a la Agencia serán ejercidas por su titular y/o por los servidores públicos de la misma, atendiendo lo dispuesto en su Reglamento Interno.
+Las atribuciones que la Ley otorga a la Agencia serán ejercidas por su titular y/o por los servidores públicos de la misma, atendiendo lo dispuesto en su Reglamento Interior. La interpretación administrativa de las disposiciones legales en materia de trasporte, corresponde al Titular del Ejecutivo del Estado de manera directa, o a través del Titular de la Agencia.
 
 ## TÍTULO SEGUNDO. DE LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIO PÚBLICO DE TRANSPORTE
 
@@ -577,9 +579,11 @@ PROCEDIMIENTO DE OTORGAMIENTO DE CONCESIONES PARA LAS MODALIDADES DE SERVICIO UR
 
 #### Sección I. Procedimiento para la adjudicación de concesiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 47.
 
-Para iniciar un procedimiento de adjudicación de concesiones, la Agencia emitirá una declaratoria previa de demanda de servicio en la zona geográfica de que se trate, cuando esta detecte una demanda no satisfecha o superior a la oferta de servicios, de acuerdo al procedimiento establecido en el artículo 65 fracciones I, II y III de la Ley.
+Para iniciar un procedimiento de adjudicación de concesiones, para las modalidades de servicio urbano, suburbano, regional y sobre rieles del SITRA y en todas las modalidades del SITME, incluyendo la infraestructura especializada y su equipamiento, la Agencia emitirá una declaratoria previa de demanda de servicio en la zona geográfica de que se trate, cuando ésta detecte una demanda no satisfecha o superior a la oferta de servicios, de acuerdo al procedimiento establecido en el artículo 65 fracciones I, II y III de la Ley.
 
 Posteriormente a la declaratoria de la apertura del inicio del procedimiento de otorgamiento de concesiones, o la convocatoria misma, los trámites de nuevas concesiones podrán presentarse los solicitantes de concesiones con su documentación y la Agencia agotará el procedimiento respectivo.
 
@@ -751,7 +755,9 @@ VII. En el mismo acto la autoridad procederá a informar en voz alta las propues
 
 VIII. Los participantes y los servidores públicos e invitados rubricarán todas las propuestas presentadas y la autoridad quedará en custodia de éstas, informando a la vez la fecha, lugar y hora en que se llevará a cabo el acto del fallo. Durante este período, la autoridad hará el análisis detallado de las propuestas admitidas; y
 
-IX. El interesado que retire su propuesta una vez iniciado el acto de apertura perderá la garantía de seriedad de la propuesta.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+IX. El interesado que retire su propuesta una vez iniciado el acto de apertura perderá la garantía de seriedad de la propuesta, sin perjuicio de lo dispuesto en el artículo 64 de este Reglamento.
 
 ###### Artículo 62.
 
@@ -793,13 +799,25 @@ IV. Copia del estado financiero del año en curso, dictaminado por Contador Púb
 
 V. Carta de aceptación del contenido de las Bases, y
 
-VI. Garantía de seriedad de la propuesta en los términos de lo previsto por la fracción IV del Artículo 66 de la Ley, que será devuelta a los participantes, una vez dado el fallo, con excepción del concursante ganador, misma que se tomará en cuenta para aplicarse a la garantía de cumplimiento.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+VI. Garantía de seriedad de la propuesta en los términos de lo previsto por la fracción IV del Artículo 66 de la Ley, que será devuelta a los participantes, una vez dado el fallo, con excepción del concursante ganador y del que obtenga el segundo lugar, misma que podrá ser tomada en cuenta para aplicarse a la garantía de cumplimiento a solicitud del licitante que suscriba el Título de Concesión.
 
 Será opcional para los licitantes el presentar dentro de su “Propuesta”, ofertas para coadyuvar en el mantenimiento de vías por donde circulará el servicio por el que concursa, así como las ofertas que mejoren la calidad de las características especificadas en las bases, referidas a seguridad, confort, imagen, presentación y otros elementos que contribuyan a la satisfacción del usuario, mismas que serán consideradas para decidir en caso de empate entre los participantes.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 64.
 
-La garantía de seriedad de la propuesta se hará efectiva a favor del Estado, si el concursante:
+La garantía de seriedad de la propuesta del licitante ganador y la de quien hubiese obtenido el segundo lugar, deberá permanecer vigente hasta en tanto el primero suscriba el Título de Concesión, realice el cierre financiero para llevar a cabo el proyecto de que se trate y presente la garantía de cumplimiento. Una vez hecho lo anterior, le será devuelta la garantía de seriedad al licitante en segundo lugar, salvo que se determine la asignación directa del Título de Concesión a éste, en los términos del presente artículo, en cuyo caso deberá mantener vigente su garantía de seriedad hasta en tanto la sustituya o complemente con la garantía de cumplimiento.
+
+El cierre financiero deberá efectuarse por el Concesionario dentro de los sesenta días naturales posteriores a la suscripción del Título de Concesión, periodo que podrá ser prorrogado hasta por otros treinta días naturales a solicitud del Concesionario, y siempre que a juicio de la Agencia el otorgamiento del plazo adicional fuera indispensable, esto será sin perjuicio de los demás plazos otorgados para el cumplimiento de las obligaciones a cargo del Concesionario, consignadas en el Título de Concesión respectivo. Una vez obtenidos los resultados del cierre financiero y de resultar favorable, el Concesionario dentro de los cinco días hábiles posteriores al mismo deberá presentar su garantía de cumplimiento.
+
+En caso de que el licitante ganador no pudiera dar cumplimiento a los términos del Título de Concesión, en virtud de los resultados de su cierre financiero o incumpliera alguna disposición de aquél que fuera causal de revocación de dicho instrumento, siempre que ésta ocurriese dentro del mismo periodo en que se lleve a cabo el citado cierre, se revocará el Título de Concesión haciéndose efectiva la garantía de seriedad respectiva, y podrá ser asignada de manera directa al licitante que hubiese obtenido el segundo lugar, o bien, se procederá de conformidad con las disposiciones que para tal efecto se establecen en la Ley y este Reglamento.
+
+De asignarse el Título de Concesión al licitante que hubiese obtenido el segundo lugar, en los términos del párrafo anterior, y en caso de que éste tampoco pudiera dar cumplimiento a los términos del mismo, se hará efectiva la garantía de seriedad, y se procederá a iniciar un nuevo procedimiento de licitación pública, o podrá realizarse la asignación directa de tratarse de segunda o posterior convocatoria, en los términos de lo dispuesto por el artículo 67 de la Ley.
+
+Con independencia de lo anterior, la garantía de seriedad de la propuesta se hará efectiva a favor del Estado, si el concursante:
 
 I. Que resulte vencedor, se desiste en forma expresa de continuar con el procedimiento para obtener la concesión;
 
@@ -873,17 +891,23 @@ La Agencia dará a conocer el fallo del proceso, en la fecha y lugar señalado e
 
 A este acto serán invitados todos los participantes cuyas propuestas hayan sido admitidas, declarando cual concursante o concursantes fueron seleccionados para recibir las concesiones correspondientes. Para constancia de fallo se levantará Acta, la cual firmarán los funcionarios de las dependencias que establece la fracción VIII del Artículo 66 de la Ley y los asistentes que quisieran hacerlo, a quienes se les entregará copia de la misma.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 74.
 
-Una vez definido y notificado el fallo a él o a los interesados; en un término no mayor de 10-diez días hábiles el ganador deberá entregar a la Secretaría de Finanzas y Tesorería General del Estado, garantía de cumplimiento que podrá consistir en fianza expedida por compañía afianzadora autorizada por la Comisión Nacional de Seguros y Fianzas, en contrato de garantía inmobiliaria o en billete de deposito, por un monto mínimo equivalente a 750 cuotas a un máximo equivalente a 1,000 cuotas de salario mínimo por cada vehículo autorizado a criterio de la Agencia. En caso de que se trate de un concepto diferente al servicio de transporte público, mencionados en la fracción III del artículo 33 de la Ley, se establecerá como garantía de cumplimiento un mínimo del 10% del costo total de inversión.
+Salvo lo establecido en el párrafo siguiente, para el otorgamiento de las Concesiones mediante el procedimiento de Licitación que señala la Ley y este Reglamento, una vez definido y notificado el fallo a él o a los interesados; en un término no mayor de 10- diez días hábiles el ganador deberá entregar a la Secretaría de Finanzas y Tesorería General del Estado, garantía de cumplimiento que podrá consistir en fianza expedida por compañía afianzadora autorizada por la Comisión Nacional de Seguros y Fianzas, en contrato de garantía inmobiliaria o en billete de depósito, por un monto mínimo equivalente a 750 cuotas a un máximo equivalente a 1,000 cuotas de salario mínimo por cada vehículo autorizado a criterio de la Agencia. La garantía de cumplimiento deberá mantenerse durante todo el período de la vigencia de la concesión, por lo que vencida esta total o parcialmente, deberá ser renovada por la cantidad que fue inicialmente otorgada.
 
-Durante todo el período de la vigencia de la concesión deberá mantenerse la garantía de cumplimiento, por lo que vencida esta total o parcialmente, deberá ser renovada por la cantidad que fue inicialmente otorgada.
+En el caso de que el procedimiento de licitación se refiera al SITRA, exclusivamente en la modalidad relativa al transporte sobre rieles, o bien, a cualquier modalidad del SITME, incluyendo los diversos componentes de infraestructura especializada y su equipamiento, susceptibles de ser concesionados por el Titular del Ejecutivo del Estado en los términos de los artículos 69 y 75 de la Ley; se establecerá como garantía de cumplimiento un mínimo del 10% del costo total de inversión, la cual deberá sustituir a la garantía de seriedad o complementarse con ésta, y se sujetará a lo dispuesto en el artículo 64 de este Reglamento. Una vez entregada la garantía de cumplimiento, deberá mantenerse vigente durante todo el periodo de la concesión, por lo que vencida esta total o parcialmente, deberá ser renovada, pudiéndose ajustar anualmente por el monto que resulte de los conceptos pendientes de cumplir a que se refiera el objeto del Título de Concesión respectivo.
+
+Las sanciones y/o penalizaciones que de acuerdo a la Ley, al Reglamento y al Título de Concesión, pudiera hacerse acreedor el concesionario, podrán ser descontadas de la garantía de cumplimiento si así se establece en el Título de Concesión de que se trate, por lo que la misma podrá ser ejecutada parcialmente, en razón de la penalización o sanción que le sea impuesta al concesionario, debiéndose restituir la fianza inmediatamente en la fracción de ésta que se haya visto mermada por su ejecución parcial, de tal manera que la fianza garantice en todo tiempo, el monto a que se hace referencia en este artículo.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 75.
 
-Una vez recibida la garantía de cumplimiento, la Agencia o el Titular del Ejecutivo del Estado en el caso previsto en el artículo 69 de la Ley, emitirán la resolución correspondiente en un plazo no mayor de 10-diez días hábiles siguientes, misma que será notificada al vencedor en los términos del Código de Procedimientos Civiles vigente en la entidad, procediéndose a su publicación en el Periódico Oficial del Estado, y a costa del interesado en uno de los diarios de mayor circulación en Nuevo León.
+La Agencia o el Titular del Ejecutivo del Estado en los casos previstos en los artículos 69 y 75 de la Ley, incluyendo la infraestructura especializada y su equipamiento, emitirán el Título de Concesión respectivo en un plazo no mayor de 10-diez días hábiles siguientes a la recepción de los documentos solicitados para su expedición, de acuerdo al requerimiento formal de los mismos o al fallo emitido en el proceso de licitación del que se derive la expedición del Título de Concesión, mismo que será notificado al concesionario en los términos del Código de Procedimientos Civiles vigente en la entidad, procediéndose a su publicación en el Periódico Oficial del Estado y en la página de internet de la Agencia, así como un extracto del mismo a costa del interesado en uno de los diarios de mayor circulación en Nuevo León.
 
-La publicación en el Periódico Oficial del Estado de la resolución a que se refiere el párrafo anterior, surtirá efectos de notificación a los demás interesados en el concurso.
+La publicación en el Periódico Oficial del Estado del Título de Concesión a que se refiere el párrafo anterior, surtirá efectos de notificación a los demás interesados en el concurso.
 
 ###### Artículo 76.
 
@@ -1731,7 +1755,7 @@ ROGELIO CERDA PÉREZ
 
 HOJA DE FIRMAS QUE CORRESPONDE AL REGLAMENTO DE LA LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE JUNIO DE 2008.
 
@@ -1740,3 +1764,9 @@ P.O. 4 DE JUNIO DE 2008.
 P.O. 8 DE JULIO DE 2011.
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE AGOSTO DE 2013.
+
+PRIMERO: Las reformas al presente Reglamento entran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Los procedimientos de licitación para la adjudicación de concesiones que se encuentren en trámite al momento de la entrada en vigor de este Reglamento, concluirán con las disposiciones vigentes del presente Reglamento.
