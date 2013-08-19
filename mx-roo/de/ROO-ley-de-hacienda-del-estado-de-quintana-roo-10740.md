@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2012-12-10"
+last_updated: "2013-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 401, PUBLICADO EN EL P.O. 17 DE DICIEMBRE DE 2010, EN TANTO EL ESTADO DE QUINTANA ROO, PERMANEZCA ADHERIDO AL SISTEMA NACIONAL DE COORDINACIÓN FISCAL, SUSCRITO MEDIANTE CONVENIO Y ANEXOS RESPECTIVOS CON LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO, QUEDAN EN SUSPENSO LOS IMPUESTOS Y DERECHOS QUE SE MENCIONAN EN EL MENCIONADO TRANSITORIO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -659,6 +659,20 @@ Son también objeto de este impuesto las erogaciones hechas de manera ocasional 
 
 Las disposiciones mencionadas en el párrafo anterior se sujetarán a lo establecido en los artículos 292, 293, 294, 304, 305 y 306 de la Ley Federal del Trabajo.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 39-A.
+
+En caso de que los sujetos de este impuesto realicen pagos a trabajadores por concepto de construcciones, edificaciones de obra, acabados, modificaciones y/o remodelaciones, e incumplan con la obligación puntual del pago, deberán proporcionar a la autoridad recaudadora que corresponda al domicilio donde se realizaron las obras, la base para determinar la cantidad a pagar y los accesorios legales generados. Si después de requerido el contribuyente por la autoridad fiscal competente, no aporta dentro del término de 6 días los datos y/o documentos necesarios para la determinación del impuesto, o cuando no sea posible establecer la base, se calculará considerando el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad fiscal.
+
+Para asegurar el cumplimiento de esta obligación se deberá garantizar el pago del impuesto mediante póliza de fianza de institución debidamente autorizada, depósito en efectivo o cheque cruzado, considerando el tiempo de duración de la obra y el número promedio de empleados que estime el contribuyente.
+
+Los propietarios que realicen la edificación de una sola vivienda de interés social para su habitación personal, cuyo monto global no exceda de 6,450 salarios mínimo (sic) diarios vigentes en el Estado, no causará este impuesto, tampoco lo causarán los propietarios que realicen modificaciones y/o remodelaciones a una vivienda de interés social, cuando la obra no exceda de un monto de 805 salarios mínimos diarios vigentes en el Estado. El documento con el que se acreditarán los supuestos antes referidos, lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
+
+Para determinar la base sobre la cual se aplicará la tasa en el caso de la construcción, habrá que obtener el importe como resultado de multiplicar el número de metros cuadrados de construcción por el costo de mano de obra por metro cuadrado.
+
+Para los efectos de este impuesto, la prestación del servicio personal debe realizarse en territorio del Estado, con independencia de la forma y lugar de pago.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 40.
@@ -681,23 +695,25 @@ Cuando en la contratación de trabajadores para una persona física, moral o uni
 
 Será base de este impuesto, el total de las erogaciones efectuadas en términos del artículo 39, calculados por ejercicios fiscales, salvo lo señalado por el artículo 43-D de ésta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 42.
 
-El presente impuesto se causará y pagará aplicando la tasa del 2% sobre la base gravable señalada en el artículo anterior.
+El presente impuesto se causará y pagará aplicando la tasa del 3% sobre la base gravable señalada en el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 43.
 
-Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aún cuando estos sujetos tengan su domicilio fuera del Estado, así como los intermediarios laborales cualquiera que sea su denominación deberán efectuar pagos provisionales mensuales a cuenta del impuesto anual a más tardar el día 17 del mes siguiente a aquel en que se causó, utilizando las formas autorizadas por la Secretaría, a través de los medios electrónicos dispuestos por ésta, mediante reglas de carácter general.
+Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aun cuando estos sujetos tengan su domicilio fuera del Estado, así como los intermediarios laborales cualquiera que sea su denominación deberán efectuar pagos provisionales mensuales a cuenta del impuesto anual a más tardar el día 17 del mes siguiente (sic) aquél en el que se causó utilizando las formas autorizadas por la Secretaria, a través de los medios electrónicos dispuestos por ésta, mediante reglas de carácter general, debiéndose efectuar en las instituciones bancarias autorizadas, con base a las disposiciones que al efecto emita la Secretaría.
 
-La obligación de presentar declaraciones de pagos provisionales subsistirá aún cuando no hubiese cantidad a cubrir.
+Quedan incluidas las personas físicas, morales y unidades económicas que sin estar domiciliadas en el Estado, tengan personal subordinado en el territorio de éste, en sucursales, bodegas, agencias, unidades económicas, dependencias, y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
+
+Serán considerados patrones, las empresas que presten servicios a otras, para ejecutarlos con elementos propios, y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, en los términos de los artículos 12, 13, 14 y 15 de la Ley Federal del Trabajo. Cualquiera que sea la forma de pago de las remuneraciones que efectúen estas personas con motivo de la prestación de servicios de personas físicas a personas físicas o morales, serán sujetas del pago de este impuesto.
+
+Para el legal funcionamiento de estas personas, deberán aperturar una cuenta en institución bancaria debidamente autorizada, domiciliada en la circunscripción territorial donde se preste el servicio, y hacerlo del conocimiento de la autoridad recaudadora de rentas.
+
+El incumplimiento a esta disposición, hará responsable directo a quien reciba el servicio.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -791,9 +807,9 @@ III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 IV.- Las sucursales, bodegas, agencias y otras dependencias de la matriz que se establezcan fuera del domicilio fiscal de ésta, deberán empadronarse solo para efectos de control.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-V.- Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa y que efectúen pagos por remuneraciones al trabajo personal subordinado prestado dentro del territorio del Estado, deberán registrar como domicilio fiscal estatal el lugar donde se preste el trabajo personal subordinado, además deberán hacer sus pagos en la Oficina Recaudadora de Rentas que corresponda a su jurisdicción.
+V.- Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa y que efectúen pagos por remuneraciones al trabajo personal subordinado prestado dentro del territorio del Estado, deberán registrar como domicilio fiscal estatal el lugar donde se preste el trabajo personal subordinado, además deberán hacer sus pagos en las instituciones bancarias autorizadas, con base a las disposiciones que al efecto dicte la Secretaría;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -6841,7 +6857,7 @@ VI.- Por día de estancia en el corralón 0.46 veces el S.M.G. vigente en el Est
 
 VII.- Permiso para circular con cristales polarizados por 1 año, según su tipo:
 
-a).- De un humo para· servicio público 4.03 veces el S.M.G. vigente en el Estado.
+a).- De un humo para• servicio público 4.03 veces el S.M.G. vigente en el Estado.
 
 b).- De un humo para servicio particular 6.01 veces el S.M.G. vigente en el Estado.
 
@@ -10984,3 +11000,9 @@ SEGUNDO.- Tratándose de empresas dedicadas a la construcción, que deseen efect
 TERCERO.- Se dejan sin efecto todas las disposiciones legales de que se opongan al presente decreto.
 
 CUARTO.- El presente decreto entrará en vigor a partir del 1° de enero de 2013, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 19 DE AGOSTO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto.
