@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-consejo-estatal-de-los-derechos-humanos-del-estado-7834
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-17"
-last_updated: "2012-03-07"
+last_updated: "2013-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DEL CONSEJO ESTATAL DE LOS DERECHOS HUMANOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, PUBLICADA EN EL PERIÓDICO OFICIAL DE 19 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 17 de noviembre de 2010.
 
@@ -541,7 +543,7 @@ Los Consejeros serán cinco personas que gocen de reconocido prestigio en la soc
 
 Los Consejeros deberán reunir para su designación los siguientes requisitos:
 
-l. Ser ciudadano chiapaneco por nacimiento, en pleno goce de sus derechos civiles y políticos.
+I. Ser ciudadano chiapaneco por nacimiento, en pleno goce de sus derechos civiles y políticos.
 
 II. No tener menos de 25 años de edad, al día de su designación.
 
@@ -685,7 +687,7 @@ Durará en el cargo dos años y únicamente podrá ser ampliado hasta por un per
 
 El Presidente, tendrá las facultades, atribuciones y obligaciones siguientes:
 
-l. Actuar como representante legal del Consejo, pudiendo otorgar poderes para pleitos y cobranzas, actos de administración y actos de dominio, previa autorización expresa del Consejo General.
+I. Actuar como representante legal del Consejo, pudiendo otorgar poderes para pleitos y cobranzas, actos de administración y actos de dominio, previa autorización expresa del Consejo General.
 
 II. Formular y proponer al Consejo General, los lineamientos, políticas y programas generales a los que habrán de sujetarse las actividades administrativas y sustantivas del Consejo.
 
@@ -1063,7 +1065,7 @@ En todos los casos, para el inicio de una investigación de oficio, aún cuando 
 
 El Consejo podrá iniciar de oficio procedimientos de investigación por presuntas violaciones a los derechos humanos en los casos siguientes:
 
-l. Cuando se trate de actos violatorios de derechos humanos presentados en los medios de comunicación.
+I. Cuando se trate de actos violatorios de derechos humanos presentados en los medios de comunicación.
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2011)</small>
 
@@ -1496,3 +1498,15 @@ P.O. 7 DE MARZO DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor a los dos días posteriores a su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2013.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley del Consejo Estatal de los Derechos Humanos, publicada en el Periódico Oficial número 267, mediante Decreto número 437 de fecha 17 de noviembre del año 2010. Así como las demás disposiciones que se deriven de esta, que se hayan emitido con anterioridad a esta Ley o que se opongan a la misma.
+
+Artículo Tercero.- Los recursos humanos, materiales y presupuestales con que actualmente cuenta el Consejo Estatal de Derechos Humanos, pasarán a formar parte de la Comisión Estatal de Derechos Humanos.
+
+Artículo Cuarto.- Los actuales funcionarios del Consejo Estatal de los Derechos Humanos permanecerán en sus cargos hasta que se haga la designación correspondiente, conforme a lo dispuesto por esta Ley.
+
+Artículo Quinto.- El Reglamento Interior de la Comisión Estatal de Derechos Humanos será expedido por su Consejo Consultivo dentro de los tres meses siguientes a la Entrada en vigor de esta Ley, y deberá ser publicado en el Periódico Oficial.
