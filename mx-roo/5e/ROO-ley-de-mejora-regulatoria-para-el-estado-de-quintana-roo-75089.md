@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-mejora-regulatoria-para-el-estado-de-quintana-roo-75089"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-18"
-last_updated: "2010-05-18"
+last_updated: "2013-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Ley publicada en el Extraordinario al Periódico Oficial del Estado de Quintana Roo, el martes 18 de mayo de 2010.
 
@@ -35,15 +35,19 @@ LA HONORABLE XII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINT
 
 D E C R E T A:
 
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 306, PUBLICADO EN EL P.O. 19 DE AGOSTO DE 2013, TODAS LAS MENCIONES A LA COMISIÓN ESTATAL DE MEJORA REGULATORIA EN LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE QUINTANA ROO O EN OTRAS DISPOSICIONES NORMATIVAS, A PARTIR DE LA VIGENCIA DEL PRESENTE DECRETO SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE LA GESTIÓN PÚBLICA.</small>
+
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE QUINTANA ROO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 1°.
 
-La presente ley es de interés público y social y de observancia general para las Dependencias, Entidades de la Administración Pública Estatal y Órganos Administrativos Desconcentrados, así como los municipios; y tiene por objeto la mejora continua, integral y permanente de la regulación que contribuya al desarrollo social y económico del Estado, así como establecer los términos en que la CEMER ejercerá la supervisión de lo dispuesto en la presente ley.
+La presente ley es de interés público y social y de observancia general para las Dependencias, Entidades de la Administración Pública Estatal y Órganos Administrativos Desconcentrados, así como los municipios; y tiene por objeto la mejora continua, integral y permanente de la regulación que contribuya al desarrollo social y económico del Estado.
 
 Las disposiciones de esta ley se aplican a los actos, procedimientos y resoluciones de los sujetos obligados respecto a sus actos de autoridad y a los servicios que presten de manera exclusiva.
 
@@ -51,9 +55,11 @@ Las disposiciones de esta ley se aplican a los actos, procedimientos y resolucio
 
 Se excluyen del ámbito de aplicación de esta ley, el Ministerio Público en uso de sus facultades constitucionales, así como las materias de carácter laboral, agraria y responsabilidad de los servidores públicos.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 3°.
 
-La interpretación administrativa y aplicación de la presente ley, corresponde en el ámbito de su competencia, a la CEMER.
+La interpretación administrativa y aplicación de la presente ley, corresponde a la Secretaría de la Gestión Pública.
 
 ###### Artículo 4°.
 
@@ -77,15 +83,17 @@ VI. Dependencias: Las señaladas en el artículo 19 de la Ley Orgánica de la Ad
 
 VII. Entidades: Las señaladas en el artículo 2 de la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo;
 
-VIII. Secretaría: La Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-IX. Junta: La Junta Directiva de la Comisión Estatal de Mejora Regulatoria;
+VIII. Secretaría: La Secretaría de la Gestión Pública;
+
+IX. (DEROGADA, P.O. 19 DE AGOSTO DE 2013)
 
 X. Consejo: El Consejo Estatal para la Mejora Regulatoria;
 
-XI. CEMER: La Comisión Estatal de Mejora Regulatoria;
+XI. (DEROGADA, P.O. 19 DE AGOSTO DE 2013)
 
-XII. Director General: El Titular de la Comisión Estatal de Mejora Regulatoria;
+XII. (DEROGADA, P.O. 19 DE AGOSTO DE 2013)
 
 XIII. Ley: Ley de Mejora Regulatoria para el Estado de Quintana Roo;
 
@@ -97,21 +105,29 @@ XVI. RETYS: El Registro Estatal de Trámites y Servicios;
 
 XVII. CITA: Centro Integral de Tramitación y Asesoramiento;
 
-XVIII. Homoclave: Número de asignación generado a cada trámite o servicio;
+XVIII. Homoclave: Número de asignación generado a cada trámite o servicio; (sic)
 
 ###### Artículo 6°.
 
 Los titulares de las Dependencias y Entidades de la administración pública estatal y municipal designarán a un servidor público con nivel inmediato inferior y con capacidad de decisión, siendo el responsable de la mejora regulatoria al interior de la dependencia o entidad, quien tendrá las siguientes obligaciones:
 
-I. Elaborar con la asesoría de la CEMER el Estudio de Impacto Regulatorio con base en la normatividad y procedimientos correspondientes;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+I. Elaborar con la asesoría de la Secretaría el Estudio de Impacto Regulatorio con base en la normatividad y procedimientos correspondientes;
 
 II. Coordinar e implementar el Proceso de Mejora Regulatoria al interior de la dependencia o entidad, así como supervisar el cumplimiento de los acuerdos;
 
-III. Presentar con una frecuencia de cada cuatro meses a la CEMER, un informe del avance programático de Mejora Regulatoria implementada en el EIR, así como los reportes que se requieran;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-IV. Nombrar al servidor público que fungirá como enlace técnico entre su dependencia, o entidad y la CEMER;
+III. Presentar con una frecuencia de cada cuatro meses a la Secretaría, un informe del avance programático de Mejora Regulatoria implementada en el EIR, así como los reportes que se requieran;
 
-V. Suscribir y enviar a la Comisión Estatal de Mejora Regulatoria, en los términos de esta ley, los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares, formatos, lineamientos, criterios, metodologías, instructivos, directivas, reglas, manuales, actos administrativos de carácter general y cualesquiera de naturaleza análoga a los actos enumerados anteriormente de conformidad con lo señalado en el artículo 5; así como la información a inscribirse en el Registro Estatal de Trámites y Servicios; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+IV. Nombrar al servidor público que fungirá como enlace técnico entre su dependencia, o entidad y la Secretaría;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+V. Suscribir y enviar a la Secretaría, en los términos de esta ley, los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares, formatos, lineamientos, criterios, metodologías, instructivos, directivas, reglas, manuales, actos administrativos de carácter general y cualesquiera de naturaleza análoga a los actos enumerados anteriormente de conformidad con lo señalado en el artículo 5; así como la información a inscribirse en el Registro Estatal de Trámites y Servicios, y
 
 VI. Presidir el COMERI.
 
@@ -163,13 +179,17 @@ II. Los trámites y servicios más costosos para los particulares, derivado del 
 
 III. Afectación significativa a una o varias actividades económicas. Trámites o servicios que tienen un efecto significativo en una o varias áreas de la actividad económica.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 13º.
 
-La CEMER hará públicos los programas y reportes a que refiere este capítulo, así como las opiniones que emita al respecto.
+La Secretaría hará públicos los programas y reportes a que refiere este capítulo, así como las opiniones que emita al respecto.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 14º.
 
-El EIR se deberá someter a consideración de la CEMER, en los términos que el reglamento de la Ley establezca para tal efecto.
+El EIR se deberá someter a consideración de la Secretaría, en los términos que el reglamento de la Ley establezca para tal efecto.
 
 #### SECCIÓN SEGUNDA. DE LA MANIFESTACIÓN DE IMPACTO REGULATORIO
 
@@ -203,9 +223,9 @@ VIII. El método para asegurar el cumplimiento de la regulación; y
 
 IX. Deberá acompañarse de la opinión emitida al anteproyecto de regulación por parte de:
 
-A) La Secretaría de Planeación y Desarrollo Regional;
+A) (DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
-B) La Secretaría de la Contraloría;
+B) (DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 C) La Secretaría de Hacienda;
 
@@ -215,59 +235,85 @@ E) La Consejería Jurídica del Poder Ejecutivo;
 
 F) Para el caso de las Entidades de la Administración Pública del Estado, la opinión de la Dependencia a la que se encuentre sectorizada y funja como cabeza de sector.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 18º.
 
-El anteproyecto de regulación, así como la MIR se deberán remitir a la CEMER treinta días hábiles antes de la fecha que se pretenda emitir el acto o someterlo a consideración del Ejecutivo.
+El anteproyecto de regulación, así como la MIR se deberán remitir a la Secretaría treinta días hábiles antes de la fecha que se pretenda emitir el acto o someterlo a consideración del Ejecutivo.
 
 Se exceptúan del plazo anterior, las siguientes regulaciones:
 
-I. Cuando se trate de regulaciones que por su naturaleza deban actualizarse periódicamente, el anteproyecto y la MIR se podrán remitir a la CEMER hasta el mismo día que se someta el anteproyecto a disposición del Titular del Ejecutivo Estatal, los primeros dos años, luego deberá pasar por la vía de MIR ordinario o por exención de no costos según sea el caso;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-II. Cuando se trate de regulaciones que pretendan controlar o prevenir situaciones de emergencia, la MIR se deberá remitir a la CEMER dentro de los siguientes veinte días hábiles de emitida la regulación.
+I. Cuando se trate de regulaciones que por su naturaleza deban actualizarse periódicamente, el anteproyecto y la MIR se podrán remitir a la Secretaría hasta el mismo día que se someta el anteproyecto a disposición del Titular del Ejecutivo Estatal, los primeros dos años, luego deberá pasar por la vía de MIR ordinario o por exención de no costos según sea el caso, y
 
-La Dependencia o Entidad de que se trate, deberá justificar mediante un formato dirigido a la CEMER y preestablecido por la misma de conformidad con lo señalado en el Reglamento, que el anteproyecto que pretende emitir se encuentra en cualquiera de los dos supuestos señalados en las fracciones anteriores.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+II. Cuando se trate de regulaciones que pretendan controlar o prevenir situaciones de emergencia, la MIR se deberá remitir a la Secretaría dentro de los siguientes veinte días hábiles de emitida la regulación.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+La Dependencia o Entidad de que se trate, deberá justificar mediante un formato dirigido a la Secretaría y preestablecido por la misma de conformidad con lo señalado en el Reglamento, que el anteproyecto que pretende emitir se encuentra en cualquiera de los dos supuestos señalados en las fracciones anteriores.
 
 ###### Artículo 19º.
 
 Se podrá eximir de la obligación de elaborar la MIR, cuando el anteproyecto no implique costos de cumplimiento para los particulares. Se entenderá que un anteproyecto no implica costos de cumplimiento para los particulares, cuando el mismo genere para éstos en términos netos, costos menores que los que subsistirían de no entrar en vigor la disposición propuesta.
 
-Cuando una Dependencia o Entidad estime estar en este caso, lo consultará con la CEMER, acompañando una copia del anteproyecto, la cual resolverá en definitiva sobre el particular en un plazo no mayor a cinco días hábiles de recibido el anteproyecto.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+Cuando una Dependencia o Entidad estime estar en este caso, lo consultará con la Secretaría, acompañando una copia del anteproyecto, la cual resolverá en definitiva sobre el particular en un plazo no mayor a cinco días hábiles de recibido el anteproyecto.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 20°.
 
-Si la MIR cumple con todos los requisitos y el anteproyecto se encuentra plenamente justificado, la CEMER emitirá un dictamen final favorable en un plazo no mayor a 30 días hábiles de recibido el anteproyecto y la MIR.
+Si la MIR cumple con todos los requisitos y el anteproyecto se encuentra plenamente justificado, la Secretaría emitirá un dictamen final favorable en un plazo no mayor a 30 días hábiles de recibido el anteproyecto y la MIR.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 21º.
 
-Cuando la CEMER reciba una MIR que no cumpla con los requisitos mínimos señalados en el artículo 17 de la presente Ley o un anteproyecto incompleto, se emitirá un dictamen preliminar para requerir a la Dependencia o Entidad correspondiente, dentro de los veinte días hábiles siguientes de recibido el anteproyecto y la MIR, que realice las ampliaciones y correcciones necesarias a alguno o ambos documentos.
+Cuando la Secretaría reciba una MIR que no cumpla con los requisitos mínimos señalados en el artículo 17 de la presente Ley o un anteproyecto incompleto, se emitirá un dictamen preliminar para requerir a la Dependencia o Entidad correspondiente, dentro de los veinte días hábiles siguientes de recibido el anteproyecto y la MIR, que realice las ampliaciones y correcciones necesarias a alguno o ambos documentos.
 
 Quedando el tiempo que marca la presente ley interrumpido en tanto no haya respuesta al respecto por parte de la Dependencia o Entidad promovente.
 
-En caso de que la Dependencia o Entidad promovente acepte las recomendaciones y correcciones, se remitirá el anteproyecto corregido y la CEMER emitirá un dictamen final favorable en un plazo no mayor de diez días hábiles de recibida la ampliación o corrección correspondiente.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+En caso de que la Dependencia o Entidad promovente acepte las recomendaciones y correcciones, se remitirá el anteproyecto corregido y la Secretaría emitirá un dictamen final favorable en un plazo no mayor de diez días hábiles de recibida la ampliación o corrección correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 22º.
 
-En caso de que la CEMER considere que la MIR continúa sin cumplir los requisitos y que el anteproyecto pudiera causar un efecto negativo, ya sea sobre un sector específico o un impacto general, podrá solicitar a la Dependencia o Entidad que con cargo a su presupuesto, designe a un perito experto en la materia que deberá cumplir con los lineamientos que para tal efecto expida la CEMER. El experto deberá dictaminar el anteproyecto y la MIR dentro de los siguientes quince días hábiles a la aceptación de su encargo.
+En caso de que la Secretaría considere que la MIR continúa sin cumplir los requisitos y que el anteproyecto pudiera causar un efecto negativo, ya sea sobre un sector específico o un impacto general, podrá solicitar a la Dependencia o Entidad que con cargo a su presupuesto, designe a un perito experto en la materia que deberá cumplir con los lineamientos que para tal efecto expida la Secretaría. El experto deberá dictaminar el anteproyecto y la MIR dentro de los siguientes quince días hábiles a la aceptación de su encargo.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 23º.
 
-La CEMER dentro de los diez días hábiles siguientes a la recepción del dictamen del perito, emitirá un dictamen preliminar del anteproyecto y de la MIR que considerará las opiniones que reciba la CEMER de los sectores interesados y de los grupos de trabajo instalados para tal efecto en el Consejo.
+La Secretaría dentro de los diez días hábiles siguientes a la recepción del dictamen del perito, emitirá un dictamen preliminar del anteproyecto y de la MIR que considerará las opiniones que reciba la Secretaría de los sectores interesados y de los grupos de trabajo instalados para tal efecto en el Consejo.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 24º.
 
-Si la Dependencia o Entidad no se ajusta al dictamen preliminar, deberá comunicar por escrito las razones respectivas a la CEMER, antes de emitir o someter el anteproyecto a consideración del Titular del Ejecutivo Estatal, a fin de que la CEMER realice un dictamen final al respecto dentro de los cinco días hábiles siguientes. La CEMER remitirá copia del expediente incluyendo las opiniones recabadas a la Consejería Jurídica del Titular del Ejecutivo Estatal para que ésta decida en definitiva.
+Si la Dependencia o Entidad no se ajusta al dictamen preliminar, deberá comunicar por escrito las razones respectivas a la Secretaría, antes de emitir o someter el anteproyecto a consideración del Titular del Ejecutivo Estatal, a fin de que la Secretaría realice un dictamen final al respecto dentro de los cinco días hábiles siguientes.
 
 Para dicha decisión deberá considerar la MIR, el dictamen y la postura de la Dependencia o Entidad promovente.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 25º.
 
-Para la publicación de las regulaciones que expidan las Dependencias y Entidades en el Periódico Oficial del Estado de Quintana Roo, se deberá acreditar el dictamen favorable de la CEMER o el documento probatorio de que no se dictaminó en los tiempos que marca la presente ley.
+Para la publicación de las regulaciones que expidan las Dependencias y Entidades en el Periódico Oficial del Estado de Quintana Roo, se deberá acreditar el dictamen favorable de la Secretaría o el documento probatorio de que no se dictaminó en los tiempos que marca la presente ley.
 
-En caso contrario deberá publicarse el dictamen emitido por la CEMER como un anexo de la normatividad.
+En caso contrario deberá publicarse el dictamen emitido por la Secretaría como un anexo de la normatividad.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 26º.
 
-En el caso de que la CEMER no cumpliera con los tiempos establecidos en la presente ley para dictaminar, deberá entregar el documento comprobatorio de esta situación previa solicitud de la Dependencia o Entidad promovente.
+En el caso de que la Secretaría no cumpliera con los tiempos establecidos en la presente ley para dictaminar, deberá entregar el documento comprobatorio de esta situación previa solicitud de la Dependencia o Entidad promovente.
 
 ###### Artículo 27º.
 
@@ -291,9 +337,11 @@ Se entenderá que un trámite o servicio tiene modalidades, cuando un mismo trá
 
 Por servicio se entenderá, cualquier solicitud o entrega de información que los particulares, sean personas físicas o morales, realicen ante una Dependencia o Entidad, con el objeto de obtener un beneficio o una prestación, así como solicitar información o realizar una consulta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 32º.
 
-La CEMER emitirá la homoclave correspondiente para inscribir los trámites y servicios de Dependencias y Entidades en el inventario de trámites y servicios del estado, los cuales deberán contener la siguiente información:
+La Secretaría emitirá la homoclave correspondiente para inscribir los trámites y servicios de Dependencias y Entidades en el inventario de trámites y servicios del estado, los cuales deberán contener la siguiente información:
 
 I. Nombre del trámite o del servicio;
 
@@ -329,13 +377,17 @@ XVI. Los criterios de resolución del trámite o del servicio, en su caso; y
 
 XVII. La demás información que se prevea en el Reglamento de esta Ley o que la Dependencia o Entidad considere que pueda ser de utilidad para los interesados.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 33º.
 
-La CEMER deberá asignar la homoclave correspondiente o negarla en un plazo no mayor a cinco días hábiles siguientes a la recepción de la información.
+La Secretaría deberá asignar la homoclave correspondiente o negarla en un plazo no mayor a cinco días hábiles siguientes a la recepción de la información.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 34º.
 
-Las Dependencias y Entidades deberán remitir a la CEMER, en un plazo no mayor de veinte días hábiles siguientes a que haya entrado en vigor la disposición que fundamente la modificación, los cambios o modificaciones a la información inscrita en el registro para conocimiento o asignación de una nueva homoclave.
+Las Dependencias y Entidades deberán remitir a la Secretaría, en un plazo no mayor de veinte días hábiles siguientes a que haya entrado en vigor la disposición que fundamente la modificación, los cambios o modificaciones a la información inscrita en el registro para conocimiento o asignación de una nueva homoclave.
 
 ###### Artículo 35º.
 
@@ -357,7 +409,9 @@ IV. Excepto cuando en un procedimiento se tenga que dar vista a terceros, los in
 
 Los titulares de las Dependencias y Entidades podrán establecer, mediante acuerdos generales publicados en el Periódico Oficial del Estado, plazos de respuestas menores dentro de los máximos previstos en leyes o reglamentos y no exigir la presentación de datos y documentos previstos en las disposiciones mencionadas, cuando sea posible obtener por otra vía la información correspondiente.
 
-También se podrá determinar, por medio de reglas de carácter general publicadas en el Periódico Oficial del Estado de Quintana Roo, qué datos, documentos, trámites o servicios que presenten los particulares se pueden realizar por medios electrónicos. En estos casos se emplearán medios de identificación electrónica, que para tal fin autorice la CEMER en sustitución de la firma autógrafa.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+También se podrá determinar, por medio de reglas de carácter general publicadas en el Periódico Oficial del Estado de Quintana Roo, qué datos, documentos, trámites o servicios que presenten los particulares se pueden realizar por medios electrónicos. En estos casos se emplearán medios de identificación electrónica, que para tal fin autorice la Secretaría en sustitución de la firma autógrafa.
 
 ###### Artículo 38º.
 
@@ -367,9 +421,7 @@ I. Prevenir a los interesados, por escrito y por una sola vez, para que subsanen
 
 II. Salvo que en una disposición de carácter general se disponga otro plazo, la prevención de información faltante deberá hacerse dentro del primer tercio del plazo de respuesta. De no requerirse resolución alguna, el plazo se establecerá dentro de los diez días hábiles siguientes a la presentación del escrito correspondiente. En caso de que la resolución del trámite o del servicio sea inmediata, la prevención se deberá realizar de manera inmediata a la presentación del escrito respectivo;
 
-III. De no realizarse la prevención mencionada en la fracción anterior dentro del plazo aplicable, no se podrá desechar el trámite o el servicio argumentando que está incompleto.
-
-En el momento que la autoridad notifique la prevención dentro de los plazos, se suspenderá el plazo de respuesta del trámite o servicio y se reanudará a partir del día siguiente hábil inmediato en que el interesado conteste la prevención.
+III. De no realizarse la prevención mencionada en la fracción anterior dentro del plazo aplicable, no se podrá desechar el trámite o el servicio argumentando que está incompleto. En el momento que la autoridad notifique la prevención dentro de los plazos, se suspenderá el plazo de respuesta del trámite o servicio y se reanudará a partir del día siguiente hábil inmediato en que el interesado conteste la prevención.
 
 ###### Artículo 39º.
 
@@ -387,27 +439,33 @@ II. Los que apliquen las Dependencias o Entidades dentro de los primeros treinta
 
 III. Los nuevos o modificaciones a los ya existentes cuya no aplicación pueda causar un grave perjuicio al interés público.
 
-En los casos de las fracciones I y III se deberá notificar a la CEMER simultáneamente a la aplicación del trámite o servicio correspondiente.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
-En el caso de la fracción II la Dependencia o Entidad deberá enviar a la CEMER la información sobre el trámite o servicio dentro de los siguientes 30 días hábiles a la entrada en vigor de la nueva disposición.
+En los casos de las fracciones I y III se deberá notificar a la Secretaría simultáneamente a la aplicación del trámite o servicio correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+En el caso de la fracción II la Dependencia o Entidad deberá enviar a la Secretaría la información sobre el trámite o servicio dentro de los siguientes 30 días hábiles a la entrada en vigor de la nueva disposición.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 41º.
 
-La legalidad y el contenido de la información que se inscriba en el RETYS será de estricta responsabilidad de la Dependencia o Entidad que proporcione la información al solicitar ante la CEMER la homoclave correspondiente.
+La legalidad y el contenido de la información que se inscriba en el RETYS será de estricta responsabilidad de la Dependencia o Entidad que proporcione la información al solicitar ante la Secretaría la homoclave correspondiente.
 
 ###### Artículo 42º.
 
-Los procedimientos administrativos que sean considerados para recibirse o presentarse a través de medios de comunicación electrónica en las etapas que las propias Dependencias y entidades así lo determinen, se determinarán mediante reglas de carácter general publicadas en el Periódico Oficial del Estado de Quintana Roo.
-
-En este caso se emplearán en sustitución de la firma autógrafa, medios de identificación electrónica. El uso de dichos medios de comunicación electrónica será optativo para cualquier interesado, incluidos los particulares que se encuentren inscritos en el RUPA.
+Los procedimientos administrativos que sean considerados para recibirse o presentarse a través de medios de comunicación electrónica en las etapas que las propias Dependencias y entidades así lo determinen, se determinarán mediante reglas de carácter general publicadas en el Periódico Oficial del Estado de Quintana Roo. En este caso se emplearán en sustitución de la firma autógrafa, medios de identificación electrónica. El uso de dichos medios de comunicación electrónica será optativo para cualquier interesado, incluidos los particulares que se encuentren inscritos en el RUPA.
 
 ###### Artículo 43º.
 
 Los documentos presentados por medios de comunicación electrónica producirán los mismos efectos que las leyes otorgan a los documentos firmados de manera autógrafa y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables otorgan a estos.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 44º.
 
-La certificación de los medios de identificación electrónica del promovente, así como la verificación de la fecha y hora de recepción de las promociones o solicitudes y de la autenticidad de las manifestaciones vertidas en las mismas, deberán hacerse por las dependencias y Entidades, así como los municipios que lo implementen bajo su responsabilidad, y de conformidad con las disposiciones generales que al efecto emita la Secretaría de la Contraloría o su similar a nivel municipal.
+La certificación de los medios de identificación electrónica del promovente, así como la verificación de la fecha y hora de recepción de las promociones o solicitudes y de la autenticidad de las manifestaciones vertidas en las mismas, deberán hacerse por las dependencias y Entidades, así como los municipios que lo implementen bajo su responsabilidad, y de conformidad con las disposiciones generales que al efecto emita la Secretaría de la Gestión Pública o su similar a nivel municipal.
 
 #### SECCIÓN CUARTA. DEL REGISTRO ÚNICO DE PERSONAS ACREDITADAS
 
@@ -417,9 +475,11 @@ El RUPA es un sistema que permite la operación e interconexión informática de
 
 La inscripción en el RUPA no es obligatoria para realizar trámites o solicitar servicios ante las dependencias o entidades de la administración pública estatal, por lo que en ningún caso podrá exigirse ésta.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 46º.
 
-La CEMER implementará el RUPA para lo cual elaborará la normatividad correspondiente que le permita la operatividad del mismo.
+La Secretaría implementará el RUPA para lo cual elaborará la normatividad correspondiente que le permita la operatividad del mismo.
 
 ###### Artículo 47º.
 
@@ -429,9 +489,11 @@ Se integrara una base de datos y se emitirá una clave de identificación person
 
 Los titulares de una clave de identificación serán responsables del contenido y actualización de la documentación e información que conforme su expediente.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 49º.
 
-En caso de que los Poderes Legislativo y Judicial, las instancias consideradas autónomas en el Estado y/o los municipios decidan adherirse al RUPA, lo podrán realizar por medio de la firma de convenios de coordinación con la CEMER para tal efecto.
+En caso de que los Poderes Legislativo y Judicial, las instancias consideradas autónomas en el Estado y/o los municipios decidan adherirse al RUPA, lo podrán realizar por medio de la firma de convenios de coordinación con la Secretaría para tal efecto.
 
 #### SECCIÓN QUINTA. DE LOS CENTROS INTEGRALES DE TRAMITACIÓN Y ASESORAMIENTO
 
@@ -439,13 +501,17 @@ En caso de que los Poderes Legislativo y Judicial, las instancias consideradas a
 
 Los CITA son una instancia de enlace entre las Dependencias y Entidades con los empresarios o sus representantes para todo lo relacionado con la gestoría de trámites y aquellas autorizaciones necesarias para establecer una empresa; y ofrecerán la información y asesoría especializada para facilitar la inversión productiva y generación de empleos; constituyéndose en una vía rápida para la apertura de empresas con atención integral.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 51º.
 
-La CEMER promoverá la firma de convenios de coordinación con las Dependencias y Entidades Federales, Estatales y Municipales para facilitar el apoyo a las empresas.
+La Secretaría promoverá la firma de convenios de coordinación con las Dependencias y Entidades Federales, Estatales y Municipales para facilitar el apoyo a las empresas.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 52º.
 
-Los responsables del CITA deberán formular sus programas anuales de trabajo dentro del último bimestre del año inmediato anterior que someterán a consideración de la CEMER y a su respectiva Unidad de Mejora Regulatoria Municipal y Consejo Municipal de Mejora Regulatoria, ante quienes presentarán informes de avance de cumplimiento en las metas establecidas.
+Los responsables del CITA deberán formular sus programas anuales de trabajo dentro del último bimestre del año inmediato anterior que someterán a consideración de la Secretaría y a su respectiva Unidad de Mejora Regulatoria Municipal y Consejo Municipal de Mejora Regulatoria, ante quienes presentarán informes de avance de cumplimiento en las metas establecidas.
 
 ### CAPÍTULO III. DE LA COMISIÓN ESTATAL DE MEJORA REGULATORIA
 
@@ -453,309 +519,107 @@ Los responsables del CITA deberán formular sus programas anuales de trabajo den
 
 ###### Artículo 53º.
 
-Se crea la Comisión Estatal de Mejora Regulatoria, como Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Desarrollo Económico, con domicilio en la ciudad de Chetumal, Quintana Roo, sin perjuicio de que pueda establecer otros domicilios dentro de la circunscripción territorial del Estado; teniendo por objeto crear y mantener un marco regulatorio transparente y eficiente, mediante la simplificación de los procedimientos jurídicos y la eliminación de los obstáculos innecesarios para la operación eficiente de los diversos sectores y actividades en el estado de Quintana Roo.
-
-Los trabajadores adscritos a la CEMER estarán bajo el régimen del Artículo 123 apartado B de la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 54º.
 
-Son atribuciones de la CEMER:
-
-I. Coordinar, regular, supervisar, vigilar y ejecutar el proceso de Mejora Regulatoria en el Estado;
-
-II. Dar seguimiento a los EIR en coordinación con las Dependencias y Entidades;
-
-III. Emitir opiniones sobre normatividad vigente en el Estado previa solicitud;
-
-IV. Revisar el marco regulatorio estatal, diagnosticar su aplicación y elaborar para su propuesta al Titular del Ejecutivo Estatal, proyectos de disposiciones legislativas y administrativas y programas para mejorar la regulación en actividades o sectores económicos específicos;
-
-V. Dictaminar los anteproyectos a que se refiere el artículo 4 y sus respectivas MIR;
-
-VI. Compilar, administrar y mantener actualizado el RETYS;
-
-VII. Promover y apoyar la operación de los módulos municipales del CITA;
-
-VIII. Administrar y difundir el RUPA;
-
-IX. Llevar los programas de mejora regulatoria que se deriven de las facultades de la CEMER;
-
-X. Opinar sobre los Estudios de Impacto Regulatorio de las Dependencias y Entidades;
-
-XI. Promover, organizar y participar en foros, seminarios y demás actividades orientadas a impulsar la mejora regulatoria en el Estado;
-
-XII. Elaborar un informe anual sobre el Estado que guarda la mejora regulatoria debiendo hacerlo del conocimiento del Titular del Poder Ejecutivo, de la Junta y del Consejo; así como de los Titulares de los Municipios;
-
-XIII. Proponer las estrategias generales en materia de mejora regulatoria a los Poderes Judicial y Legislativo; asimismo, proporcionarles capacitación, asesoría técnica y de ser necesario celebrar convenios para tales efectos;
-
-XIV. Opinar respecto de los EIR y MIR de los Municipios a través del Consejo Municipal de Mejora Regulatoria;
-
-XV. Brindar asesoría técnica en materia de mejora regulatoria a las Dependencias y Entidades, así como a los municipios que lo soliciten;
-
-XVI. Brindar asesoría técnica en materia de mejora regulatoria y opinar sobre nuevos proyectos de regulaciones que las organizaciones empresariales estatales sometan a su consideración por escrito;
-
-XVII. Celebrar acuerdos interinstitucionales en materia de mejora regulatoria, así como convenios y demás actos jurídicos necesarios para cumplir sus objetivos;
-
-XVIII. Preparar el informe anual y el EIR de la CEMER en conjunto con el Consejo; y
-
-XIX. Las demás que establezca esta Ley y demás disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 55º.
 
-La CEMER para el cumplimiento de las atribuciones que le señala esta Ley, podrá solicitar la opinión de la Secretaría de Gobierno y la Consejería Jurídica del Ejecutivo del Estado.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 #### SECCIÓN SEGUNDA. DEL PATRIMONIO
 
 ###### Artículo 56º.
 
-El patrimonio de la CEMER se integra por:
-
-I. Los recursos que le sean asignados por el Gobierno del Estado en el presupuesto de egresos;
-
-II. Los bienes muebles e inmuebles y demás activos que por cualquier concepto legal adquiera o reciba para la consecución de sus fines;
-
-III. Los beneficios, aportaciones, recursos, partidas y subsidios que el Gobierno Federal, Estatal y/o Municipal le otorguen; y
-
-IV. Los beneficios que obtenga de su propio patrimonio y las utilidades que logre en el desarrollo de su actividad.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 57º.
 
-Los bienes muebles e inmuebles pertenecientes a la CEMER serán de carácter imprescriptible e inembargable y solo podrán ser objeto de enajenación o acción reivindicatoria o de posesión definitiva o interina, mediante acuerdo de la Junta y siempre que medie causa justificada.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 #### SECCIÓN TERCERA. DE LOS ÓRGANOS DE GOBIERNO
 
 ###### Artículo 58º.
 
-Para la dirección, administración y cumplimiento de su objeto y fines, la CEMER contará con los siguientes Órganos de Gobierno y Administración:
-
-I. Una H. Junta Directiva; y
-
-II. Un Director General.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 59º.
 
-La CEMER contará con una Junta, siendo el órgano máximo de decisión de la CEMER con carácter honorífico, integrándose de la siguiente manera:
-
-I. Un Presidente, El Titular del Ejecutivo del Estado de Quintana Roo, quien tendrá derecho a voz y voto;
-
-II. Un Vicepresidente, El Titular de la Secretaría de Desarrollo Económico del Estado de Quintana Roo, quien suplirá las ausencias del Gobernador del Estado de Quintana Roo, quien tendrá derecho a voz y voto;
-
-III. Un Secretario Técnico, que será el Director General de la CEMER quien tendrá derecho a voz en cualquier momento pero no a voto y tendrá las facultades que la presente Ley y su reglamento determinen y así como las que la Junta le otorgue;
-
-IV. Un Comisario, que será el Titular de la Secretaría de la Contraloría, quien tendrá derecho a voz en cualquier momento pero no a voto;
-
-V. Los siguientes vocales representantes del Gobierno del Estado, quienes tendrán derecho a voz y voto:
-
-A) El Titular de la Secretaría de Hacienda; y
-
-B) El Titular de la Secretaría de Gobierno;
-
-A propuesta del Consejo, podrán participar tres vocales empresariales, con voz pero sin voto. La Junta Directiva, a propuesta de su Presidente, podrá admitir más vocales representativos cuando se estime necesario.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 60º.
 
-La Junta sesionará ordinariamente cuando menos cuatro veces al año de acuerdo a la periodicidad que se señale en el calendario de sesiones aprobado, según se establece en la fracción VIII del artículo 68 de esta Ley; asimismo podrá sesionar de manera extraordinaria en cualquier momento, previa convocatoria expedida por el Secretario Técnico realizada cuando menos con 24 horas de anticipación, en la que se incluirá el orden del día.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 61º.
 
-La Junta sesionará válidamente con la asistencia de cuando menos la mitad mas uno de sus integrantes titulares, siempre y cuando exista mayoría de Gobierno del Estado y entre ellos se encuentre el Presidente o su suplente, sus decisiones se tomarán por mayoría simple de votos y en caso de empate el Presidente tendrá Voto de calidad.
-
-La declaratoria de quórum legal bastante y suficiente, será decretada por el Presidente o quien ostente su suplencia, previa lista de asistencia que se sirva pasar el Secretario Técnico y ante ello la notificación de la existencia de dicho quórum, la cual se hará constar en el acta respectiva.
-
-La declaración anterior, tendrá el objeto de poder instalar la sesión y hacer válidos los acuerdos tomados al interior de la Junta, debiendo acatar las mismas el Director General de la CEMER.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 62º.
 
-En caso de no contar con el Quórum legal requerido para sesionar, se hará una segunda convocatoria con expresión de esta circunstancia, la cual tendrá verificativo a más tardar dentro de los dos días hábiles siguientes, la cual quedará válidamente instalada con los miembros presentes, siempre y cuando exista una mayoría de miembros por parte del Gobierno del Estado.
-
-Los acuerdos que se adopten se tomarán por voto de la mayoría simple de los miembros asistentes, mismos que serán válidos para todos los efectos legales que correspondan.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 63º.
 
-El Presidente de la Junta Directiva será suplido cuantas veces sea necesario por el Vicepresidente de la misma, por lo cual deberá entrar en funciones el suplente del Vicepresidente.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 64º.
 
-Por cada integrante de la Junta, con excepción del Presidente, habrá un suplente designado por el titular quien deberá acreditarse de manera fehaciente a través de designación escrita, y tendrá las mismas facultades del titular en su ausencia.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 65º.
 
-La Junta además de las establecidas en la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, tendrá las siguientes facultades:
-
-I. Emitir las normas generales y criterios que orienten las actividades de la Junta;
-
-II. Aprobar la estructura orgánica de la CEMER, así como las modificaciones que estime convenientes conforme a derecho;
-
-III. Validar el Reglamentos (sic) de esta Ley, el reglamento interior y los manuales administrativos, así como las propuestas de modificación que se presenten;
-
-IV. Aprobar el presupuesto anual de ingresos y egresos que presente el Secretario Técnico;
-
-V. Aprobar los planes y programas de la CEMER que presente el Secretario Técnico;
-
-VI. Vigilar que los recursos económicos se apliquen conforme a los planes y programas previamente aprobados para la CEMER;
-
-VII. Establecer las políticas y lineamientos generales para que el Director General de la CEMER celebre contratos, convenios y demás actos jurídicos;
-
-VIII. Aceptar donaciones, legados y herencias que se otorguen a la CEMER;
-
-IX. Conocer y aprobar el informe anual y el Estudio de Impacto Regulatorio que presente el Secretario Técnico;
-
-X. Aprobar el nombramiento o remoción del Director General de la CEMER propuesto por el Titular del Ejecutivo del Estado;
-
-XI. Establecer el procedimiento de evaluación acerca de la eficiencia y eficacia de las atribuciones de la CEMER;
-
-XII. Aprobar al final de cada ejercicio el calendario de sesiones del siguiente ejercicio fiscal;
-
-XIII. Aprobar la coordinación con las demás Dependencias y Entidades e Instituciones Privadas que tengan objetivos afines;
-
-XIV. Resolver los asuntos que sometan a su consideración los integrantes de la Junta;
-
-XV. Presentar propuestas para el mejor funcionamiento de la CEMER; y
-
-XVI. Resolver en definitiva sobre las discrepancias planteadas por el Director General.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 66º.
 
-Corresponde al Presidente de la Junta:
-
-I. Instruir las políticas, procedimientos y estrategias necesarias para el funcionamiento eficiente de (sic) CEMER;
-
-II. Convocar oficialmente a las sesiones a los integrantes de la Junta, de manera directa o a través del Secretario Técnico, según lo determine;
-
-III. Presidir las sesiones de la Junta declarándolas instaladas y clausuradas, así como participar en sus debates;
-
-IV. Vigilar a través del Secretario Técnico el cumplimiento de la periodicidad establecida para las sesiones;
-
-V. Declarar agotados los debates, someter a votación los asuntos tratados en las sesiones y declarar el resultado de los mismos;
-
-VI. Emitir el voto de calidad, en caso de empate en las votaciones;
-
-VII. Firmar las actas de la Junta en las que participe; y
-
-VIII. Las demás que le confieran esta ley, su reglamento, otras disposiciones y los acuerdos que emita la Junta.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 67º.
 
-Corresponde al Vicepresidente de la Junta:
-
-I. Presidir las sesiones ordinarias y extraordinarias de la Junta Directiva en suplencia del Presidente.
-
-II. Resolver los asuntos urgentes que someta a su consideración el Director General de la CEMER;
-
-III. Vigilar a través del Secretario Técnico el cumplimiento de la periodicidad establecida para las sesiones;
-
-IV. Firmar las actas de la Junta en las que participe; y
-
-V. Las demás que le confiera esta ley, su reglamento, el reglamento interior y la Junta.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 68º.
 
-Corresponde al Secretario Técnico de la Junta:
-
-I. Convocar a sesiones ordinarias y extraordinarias de la Junta, en la que se incluya el orden del día y la información correspondiente que les permita el conocimiento a sus asuntos a tratar;
-
-II. Confirmar la asistencia de los convocados a las sesiones;
-
-III. Llevar el registro y control de los integrantes de la Junta Directiva a las sesiones de dicho órgano de gobierno, verificando la debida representación y la existencia del quórum legal para sesionar;
-
-IV. Ejecutar los acuerdos de la Junta sin que de ninguna forma pueda cambiarlos;
-
-V. Brindar el apoyo logístico a la Junta para que realice sus actividades;
-
-VI. Formular las actas de las sesiones y entregar la propuesta de la misma al órgano de gobierno y al Comisario para su revisión y en su caso aprobación y firma;
-
-VII. Resguardar bajo su responsabilidad los archivos que contengan las actas, reglamentos, circulares y disposiciones expedidas por la Junta;
-
-VIII. Someter a la aprobación de los miembros de la Junta Directiva en la última sesión del año, la calendarización de las sesiones del próximo ejercicio; y
-
-IX. Las demás que le confiera esta ley, su reglamento o la Junta.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 69º.
 
-Corresponde a los Vocales de la Junta:
-
-I. Proponer a la Junta las acciones necesarias para lograr los objetivos de la CEMER;
-
-II. Cumplir con las comisiones asignadas por la Junta;
-
-III. Promover ante la Junta programas y proyectos para cumplir con los objetivos de la CEMER; y
-
-IV. Las demás que le confiera esta ley, su reglamento, y la Junta.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 70º.
 
-El comisario de la Junta actuará de conformidad a lo establecido en la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 #### SECCIÓN QUINTA (SIC). DE LA DIRECCIÓN GENERAL
 
 ###### Artículo 71º.
 
-La Dirección General es el órgano ejecutor de las propuestas, políticas, acuerdos, planes y programas aprobados por la Junta y su titularidad corresponde a una persona denominada Director General, cuyo nombramiento y remoción será conocido por la Junta a propuesta del Titular del Ejecutivo Estatal.
-
-El Titular de la Dirección General durará en su encargo cuatro años con posibilidad de ratificación por razones ampliamente justificadas ante el Titular del Ejecutivo del Estado por un período igual y durante el mismo no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
-
-Para la remoción del Titular de la Dirección General se estará a lo dispuesto por el Título Octavo de la Constitución Política del Estado de Quintana Roo, respecto a las causas de responsabilidad de los servidores públicos.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 72º.
 
-Para ser Titular de la Dirección General de la Comisión Estatal de Mejora Regulatoria se deberán satisfacer los requisitos previstos en el artículo 95 de la Constitución Política del Estado de Quintana Roo, en el artículo 20 de la ley Orgánica de la Administración del Estado de Quintana Roo, en el artículo 28 de la Ley de Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, así como tener experiencia reconocida en algunas de las materias afines al objeto de la CEMER, con una trayectoria profesional destacada en el sector empresarial, el sector público o el sector académico.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 73º.
 
-El titular de la Dirección General contará con una estructura técnica y administrativa que le permita atender y cumplir adecuadamente los objetivos de la CEMER.
-
-Dicha estructura será aprobada por la Junta Directiva estableciéndose las bases de organización, así como la competencia y facultades que correspondan a las distintas áreas que la integren.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 74º.
 
-El Titular de la Dirección General de la CEMER además de las señaladas en los artículos 29 y 64 de la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, tendrá las siguientes atribuciones:
-
-I. Representar legalmente a la CEMER y administrar sus bienes sin más limitaciones que las señaladas en las Leyes o por disposición expresa de la Junta Directiva;
-
-II. Fungir como Secretario Técnico de la Junta Directiva y del Consejo Estatal para la Mejora Regulatoria.
-
-III. Celebrar los contratos, convenios y toda clase de documentos jurídicos relacionados con el objeto de la CEMER, con estricto apego a lo señalado en los lineamientos señalados y establecidos para tales efectos en la normatividad vigente;
-
-IV. Organizar y dirigir técnica y administrativamente a la CEMER, así como proponer la adscripción de las unidades administrativas de la misma;
-
-V. Nombrar y remover discrecionalmente a los servidores públicos asignados a la CEMER, conforme a los ordenamientos legales aplicables; salvo lo dispuesto en la fracción XII del artículo 63 y fracción VII del artículo 64, de la Ley de Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, respecto de los servidores públicos de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a las de aquél;
-
-VI. Ejecutar los planes, programas, proyectos y demás acuerdos y resoluciones aprobadas por la Junta Directiva;
-
-VII. Elaborar y someter a la aprobación de la Junta Directiva, el Reglamento de esta Ley y demás manuales de operación y todas las disposiciones relacionadas con la organización y funcionamiento de la CEMER;
-
-VIII. Elaborar en cada ejercicio fiscal el presupuesto anual de ingresos y egresos y presentarlo a la Junta para aprobación;
-
-IX. Tramitar el presupuesto aprobado de la CEMER, mediante la administración y ejercicio de dicho presupuesto, así como administrar los recursos humanos, técnicos, financieros y materiales asignados a la misma;
-
-X. Delegar, en su caso, con las restricciones de Ley, el ejercicio de las facultades a que se refiere este artículo a otros servidores públicos de la CEMER, conforme a las disposiciones reglamentarias;
-
-XI. Elaborar en coordinación con el Consejo el programa bianual de mejora regulatoria para el Estado que se presenta ante la Junta;
-
-XII. Presentar ante la Junta y el Consejo el informe anual y asuntos que deban someterse a la consideración de éstos;
-
-XIII. Asistir a las sesiones de la CEMER, de la Junta, del Consejo y a aquéllas que se requieran para cumplir con sus atribuciones;
-
-XIV. Propiciar la mejora regulatoria ante los Municipios, Dependencias y Entidades del Estado;
-
-XV. Opinar sobre los EIR de mejora regulatoria de las Dependencias y Entidades;
-
-XVI. Brindar asesoría técnica en materia de mejora regulatoria a las Dependencias y Entidades, así como a los municipios que lo soliciten y celebrar convenios para tal efecto;
-
-XVII. Emitir los lineamientos en materia de difusión del programa de mejora regulatoria y autorizar la participación de los servidores públicos de la misma en eventos o ponencias relacionados con el tema;
-
-XVIII. Someter a consideración de las autoridades competentes las propuestas de anteproyectos de leyes, decretos, reglamentos y demás actos administrativos de carácter general que crean o actualicen la regulación del Estado, acompañando el Estudio;
-
-XIX. Implementar los programas de mejora regulatoria, el RETYS, el EIR, los bancos de información y demás programas de la materia; y
-
-XX. Las demás que le otorguen la presente Ley, su Reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ### CAPÍTULO IV. DEL CONSEJO ESTATAL PARA LA MEJORA REGULATORIA
 
 #### SECCIÓN PRIMERA. DE LOS INTEGRANTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 75º.
 
-Se integrará un Consejo Estatal para la Mejora Regulatoria como un organismo público de participación ciudadana, que dará apoyo técnico y consultivo a la CEMER y que fungirá como enlace entre los sectores público, social y privado en asuntos de mejora regulatoria del Estado.
+Se integrará un Consejo Estatal para la Mejora Regulatoria como un organismo público de participación ciudadana, que dará apoyo técnico y consultivo a la Secretaría y que fungirá como enlace entre los sectores público, social y privado en asuntos de mejora regulatoria del Estado.
 
 El consejo se regirá por los lineamientos que se expidan para su organización y funcionamiento.
 
@@ -767,23 +631,33 @@ I. El C. Gobernador del Estado de Quintana Roo, quien fungirá como Presidente H
 
 II. El Titular de la Secretaría de Desarrollo Económico, quien fungirá como Presidente Ejecutivo;
 
-III. El Director General de la CEMER, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-IV. El Titular de la Secretaría de la Contraloría Estatal, quien fungirá como Asesor Técnico;
+III. Un Secretario Técnico que será designado por el Titular de la Secretaría;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+IV. El Titular de la Secretaría, quien fungirá como Asesor Técnico;
 
 V. El Titular de la Delegación de la Secretaría de Economía, quien fungirá como Asesor Técnico;
 
 VI. Por los siguientes vocales:
 
-A) El Titular de la Secretaría de Hacienda;
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+A) El Titular de la Secretaria de Planeación y Finanzas;
 
 B) El Titular de la Secretaría de Turismo;
 
 C) El Titular de la Secretaría de Salud;
 
-D) El Titular de la Secretaría de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
-D (SIC)) Un representante del H. Congreso del Estado;
+D) El Titular de la Secretaría de Desarrollo Urbano y Vivienda;
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+E) Un representante del H. Congreso del Estado;
 
 F) Hasta nueve representantes del Sector Empresarial;
 
@@ -799,7 +673,9 @@ El Secretario Técnico, a petición de al menos cinco integrantes del Consejo, p
 
 Los cargos de los integrantes del Consejo serán honoríficos, por lo que no percibirán ingreso, remuneración, emolumento, compensación o retribución alguna y tienen las siguientes funciones:
 
-I. Conocer el informe anual que presente el Director General de la CEMER, los planes y el EIR de mejora regulatoria para el Estado y las actividades anuales de la CEMER;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+I. Conocer el informe anual que presente la Secretaría por conducto de la unidad administrativa correspondiente, los planes y el EIR de mejora regulatoria para el Estado;
 
 II. Opinar sobre los EIR de mejora regulatoria de las Dependencias y Entidades y actividades que el Director General someta a su consideración;
 
@@ -815,15 +691,19 @@ El Consejo sesionará ordinariamente cada semestre y en cualquier momento extrao
 
 #### SECCIÓN SEGUNDA. DE LOS GRUPOS DE TRABAJO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 79º.
 
-El objeto de los grupos de trabajo es recabar, analizar y transmitir las opiniones, comentarios y sugerencias de los sectores público, social y privado, en relación con los anteproyectos de iniciativas de leyes, decretos y actos a que se refiere el artículo 4 de la ley, así como en relación con los EIR correspondientes que la CEMER haga públicos.
+El objeto de los grupos de trabajo es recabar, analizar y transmitir las opiniones, comentarios y sugerencias de los sectores público, social y privado, en relación con los anteproyectos de iniciativas de leyes, decretos y actos a que se refiere el artículo 4 de la ley, así como en relación con los EIR correspondientes que la Secretaría haga públicos.
 
 El Consejo en grupos de trabajo sesionará en los términos que al respecto establezca el Reglamento de esta ley.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 80º.
 
-En el caso que un grupo de trabajo emanado del Consejo no presentare a la CEMER en tiempo y forma las opiniones vertidas a un anteproyecto no podrá solicitar que éstas conformen el dictamen final.
+En el caso que un grupo de trabajo emanado del Consejo no presentare a la Secretaría en tiempo y forma las opiniones vertidas a un anteproyecto no podrá solicitar que éstas conformen el dictamen final.
 
 ### CAPÍTULO V. DE LOS MUNICIPIOS
 
@@ -881,13 +761,17 @@ El Consejo se regirá por los lineamientos que cada municipio expida para su org
 
 Es causa de responsabilidad, el incumplimiento de esta ley y su Reglamento, y serán aplicables las sanciones contempladas en este capítulo, en la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo y de los Municipios y en otras disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 86º.
 
-El Director General de la CEMER presentará a la Secretaría de la Contraloría o a la Contraloría Municipal correspondiente, las quejas que se reciban en contra de servidores públicos, por incumplimiento a lo previsto en esta ley, en los términos acordados previamente en el seno de la Junta Directiva, para efecto de que esta dependencia actué conforme a derecho y en su caso aplique las sanciones correspondientes.
+La Secretaría de la Gestión Pública o a la Contraloría Municipal correspondiente, atenderán las quejas que se reciban en contra de servidores públicos, por incumplimiento a lo previsto en esta ley, para efecto de que se apliquen las sanciones correspondientes.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 87º.
 
-El Director General de la CEMER podrá solicitar que sean fincadas sanciones administrativas a servidores públicos que obstruyan la mejora regulatoria y el establecimiento y operación de empresas. El procedimiento para presentar los casos de obstrucción empresarial se hará conforme al Reglamento de esta ley.
+Podrán imponerse sanciones administrativas a servidores públicos que obstruyan la mejora regulatoria y el establecimiento y operación de empresas. El procedimiento para presentar los casos de obstrucción empresarial se hará conforme al Reglamento de esta Ley.
 
 ###### Artículo 88º.
 
@@ -911,7 +795,9 @@ VIII. Manejo indebido de la firma electrónica que pueda generar el otorgar o ne
 
 IX. Negligencia o negativa en la aplicación de un trámite por desconocimiento de la normatividad aplicable; y
 
-X. Aquellas que incidan en perjuicio del establecimiento y operación de empresas conforme lo determine la Junta Directiva.
+X. (DEROGADA, P.O. 19 DE AGOSTO DE 2013)
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 89º.
 
@@ -931,9 +817,11 @@ VI. Inhabilitación para desempeñar empleo, cargo o comisión en el servicio p�
 
 La aplicación de las anteriores sanciones se efectuará sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los servidores públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 90°.
 
-La Junta Directiva, a través del Director General, podrá solicitar a la autoridad competente, aplique la sanción correspondiente a los titulares de las unidades administrativas que en un mismo empleo, cargo o comisión:
+Serán sancionados los titulares de las unidades administrativas que en un mismo empleo, cargo o comisión:
 
 I. Incumpla por dos veces el otorgar respuesta al interesado en el plazo determinado por la legislación, reglamento o decreto aplicable;
 
@@ -943,7 +831,7 @@ III. Exija de manera dolosa, trámites, datos o documentos adicionales a los pre
 
 ###### Artículo 91º.
 
-A los servidores públicos adscritos a la CEMER que en el cumplimiento de sus funciones incurran en responsabilidad, en términos de lo dispuesto en esta ley, se les aplicarán las sanciones previstas en la misma y en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -982,3 +870,73 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. EDUARDO OVANDO MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Los recursos humanos, materiales y financieros, así como los expedientes, valores y demás, asignados o pertenecientes al Comité de Planeación para el Desarrollo del Estado de Quintana Roo, serán transferidos a la Secretaría de Planeación y finanzas, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Tercero. La Secretaria de Planeación y finanzas contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la integración del Comité así como la elaboración y expedición de sus Reglas de Operación.
+
+Cuarto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad del Consejo Estatal de Población, serán transferidos a la Secretaría de Gobierno, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Quinto. La Secretaría de Gobierno, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Junta Directiva del Consejo y la elaboración y expedición de sus Reglas de Operación.
+
+Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad de la Comisión de Energía del Estado de Quintana Roo, serán transferidos a la Secretaría de Desarrollo Económico, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Séptimo. La Secretaría de Desarrollo Económico contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Comisión y la elaboración y expedición de sus Reglas de Operación.
+
+Octavo. Al entrar en vigor el presente decreto, la unidad administrativa de la Secretaría de Desarrollo Económico denominada Fondo para el Desarrollo Económico de Quintana Roo, sustituye al órgano desconcentrado con la misma denominación, por lo que todos los recursos humanos, financieros y materiales del mismo pasarán a la citada Dependencia.
+
+Noveno. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad del Instituto Forestal del Estado de Quintana Roo, serán transferidos a la Secretaría de Ecología y Medio Ambiente, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Todas las menciones al Instituto Forestal de Quintana Roo en la Ley Forestal del Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Ecología y Medio Ambiente.
+
+Décimo. Los asuntos que se encuentren en trámite en el Instituto Forestal del Estado de Quintana Roo a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+Décimo Primero. La Secretaría de Ecología y Medio Ambiente contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Segundo. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos, derechos y obligaciones contraídos y, en general todos los bienes y valores de la Comisión Estatal de Mejora Regulatoria y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de la Gestión Pública.
+
+Todas las menciones a la Comisión Estatal de Mejora Regulatoria en la Ley de Mejora Regulatoria para el Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de la Gestión Pública.
+
+Décimo Tercero. Los asuntos que se encuentren en trámite en la Comisión Estatal de Mejora Regulatoria a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+Décimo Cuarto. Los derechos laborales del personal de la Comisión Estatal de Mejora Regulatoria se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de la Gestión Pública.
+
+Décimo Quinto. La Secretaría de la Gestión Pública contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad de la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, se transfieren a la Secretaría de Desarrollo Social e Indígena.
+
+La Secretaría de Desarrollo Social e Indígena se subroga en los derechos y obligaciones contraídos por la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo.
+
+Cualquier referencia a la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, en otras disposiciones normativas, se entenderá hecha a la Secretaría de Desarrollo Social e Indígena.
+
+Décimo Séptimo. El Titular del Poder Ejecutivo, en un término que no exceda de sesenta días naturales, deberá conformar la estructura orgánica de la Secretaría de Desarrollo Social e Indígena, de conformidad a las disposiciones del presente Decreto.
+
+Décimo Octavo. El titular del Poder Ejecutivo deberá disponer que el contenido del artículo Séptimo del presente Decreto se traduzca en lengua maya y ordenará su difusión en las comunidades indígenas del Estado.
+
+Décimo Noveno. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos y, en general todos los bienes y valores del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de Desarrollo Urbano y Vivienda, quien tendrá la administración y disposición plena de dichos bienes y recursos.
+
+Todas las menciones al Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo. Se reconoce plena validez a los documentos, actos y contratos legalmente expedidos o realizados con base en laLey (sic) del Instituto de Fomento (sic) la Vivienda y Regularización del Estado de Quintana Roo que se abroga.
+
+De igual manera las operaciones crediticias que se hubieren efectuado con anterioridad a la entrada en vigor de este Decreto, seguirán rigiéndose por los términos del contrato respectivo y las disposiciones legales aplicables.
+
+Vigésimo Primero. Los asuntos que se encuentren en trámite en el Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado a la entrada en vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+En tanto no se modifiquen las disposiciones reglamentarias aplicables al Instituto de Fomento a la Vivienda y Regularización de la Propiedad, en lo que no se opongan a este Decreto, seguirán aplicándose los ordenamientos reglamentarios y administrativos vigentes a la fecha de entrada en vigor del presente Decreto.
+
+Vigésimo Segundo. Los derechos laborales del personal del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo Tercero. El Titular del Poder Ejecutivo, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la modificación de la estructura orgánica.
+
+Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, el Gobierno del Estado y los organismos descentralizados deberán coordinarse y tomar las providencias necesarias para la debida incorporación de un representante de la Oficialía Mayor y de un representante de la Secretaría de Planeación y Finanzas en sus órganos de gobierno.
+
+Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
+
+Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
