@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-agencia-para-la-racionalizacion-y-413
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-25"
-last_updated: "2008-08-25"
+last_updated: "2013-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41380&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA AGENCIA PARA LA RACIONALIZACIÓN Y MODERNIZACIÓN DEL SISTEMA DE TRANSPORTE PÚBLICO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el martes 12 de octubre de 2004.
 
@@ -133,9 +133,21 @@ XIII. Expedir, previo acuerdo con el Titular del Ejecutivo, las normas generales
 
 XIV. Asistir en su carácter de Secretario Técnico a las sesiones de la Junta, con derecho a voz y no a voto;
 
-XV. Someter a la consideración de la Junta los asuntos en los que se requiera la intervención de este órgano por disposición de la Ley o cuando por su importancia o trascendencia así lo amerite, y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XVI. Las demás que con carácter indelegable le confieran las leyes, reglamentos y otras disposiciones jurídicas aplicables.
+XV. Someter a la consideración de la Junta los asuntos en los que se requiera la intervención de este órgano por disposición de la Ley o cuando por su importancia o trascendencia así lo amerite;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XVI. Interpretar administrativamente las disposiciones legales en materia de transporte;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XVII. Resolver los recursos administrativos que le competen, y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XVIII. Las demás que con carácter indelegable le confieran las leyes, reglamentos y otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO IV. ATRIBUCIONES COMUNES DE LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -488,3 +500,7 @@ P.O. 25 DE AGOSTO DE 2008.
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León se deberá coordinar con la Secretaría de Finanzas y Tesorería General del Estado y con la Oficialía Mayor de Gobierno a efecto de llevar a cabo los trámites correspondientes a la transferencia de los recursos financieros, materiales y humanos de las extintas Dirección de Planeación y Normatividad y de la Coordinación de Ingeniería CETYV-SINTRAM a la nueva Dirección de Ingeniería, Planeación y Vialidad.
+
+P.O. 19 DE AGOSTO DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
