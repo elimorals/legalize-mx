@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2012-12-10"
+last_updated: "2013-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -89,9 +89,19 @@ XII.- Determinar las normas para la integración y operación del Registro Estat
 
 XIII.- Establecer las bases para garantizar la seguridad, orientación y asistencia a los turistas nacionales y extranjeros;
 
-XIV.- Desarrollar acciones para diversificar la actividad turística hidalguense; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XIV.- Desarrollar acciones para diversificar la actividad turística hidalguense;
 
 XV.- Garantizar y proteger los derechos de los usuarios turísticos.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XVI.- Promover, impulsar y desarrollar el turismo sustentable en Pueblos y Comunidades indígenas del Estado; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XVII. Impulsar los proyectos de fomento turístico que propicien la creación y conservación del empleo, evitando para ello toda práctica monopólica.
 
 ###### Artículo 4.
 
@@ -147,7 +157,13 @@ XXII.- Turismo Alternativo: Aquellos turistas que tienen como fin realizar activ
 
 a).- Turismo Natural o Ecoturismo: Basado en la observación, comprensión, interacción y apreciación de la naturaleza y de las manifestaciones culturales tradicionales e históricas de las comunidades del Estado, teniendo conciencia del respeto y de la conservación de todos estos atractivos;
 
-b).- Turismo Rural y Comunitario: Implica la participación en actividades propias de las comunidades a las cuales se visita, con fines culturales, educativos y recreativos; y
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+b).- Turismo Rural y Comunitario: Implica la participación en actividades propias de las comunidades a las cuales se visita con fines culturales, educativos y recreativos; y que le permitan al turista conocer los valores culturales, forma de vida, manejo ambiental, usos y costumbres y aspectos de su historia de los pueblos y comunidades indígenas en el Estado, promoviendo con ello la generación de ingresos adicionales a la economía rural y la preservación de los ecosistemas en los que habitan, subdiviéndose (sic) en:
+
+1. Etnoturismo: Se basa en la observación y conocimiento de los grupos étnicos del Estado, a través de sus actividades de conocimiento de la gastronomía, artesanías, vivienda (casas que habitan los lugareños), vestimenta o indumentaria, construcciones, herramientas, lenguajes, leyendas, ferias y festividades y danzas.
+
+2. Ecoturismo: Actividad turística consistente en viajar o visitar áreas naturales, con el fin de disfrutar y estudiar los atractivos naturales de dichas áreas. Comprende cualquier manifestación cultural que pueda encontrarse, a través de un proceso que promueve la conservación, tiene bajo impacto ambiental y cultural y propicia un involucramiento activo y socioecómicamente benéfico de las poblaciones locales. Dentro de sus actividades se encuentran la observación y el estudio de flora y fauna, su reproducción, y sus principales comportamientos en forma general.
 
 c).- Turismo de Aventura: Aquel que incluye el desarrollo de diferentes actividades deportivo-recreativas integrando el cuidado del medio ambiente y respeto de los atractivos turísticos;
 
@@ -187,6 +203,10 @@ VII.- Centros de enseñanza de idiomas, cuyos servicios estén orientados a turi
 
 VIII.- Los demás considerados como tales por la Ley General.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+Artículo 6 BIS. Constituyen los atractivos turísticos aquellos bienes tangibles e intangibles que posee el Estado y que constituyen la principal atracción al turista, teniendo entre otros los siguientes: zonas arqueológicas, ciudades coloniales, reservas ecológicas, áreas naturales, monumentos históricos, museos, parques temáticos, jardines botánicos, zoológicos, teatros, ríos, lagos, grutas, cavernas, ferias, festividades y tradiciones étnicas o regionales, artesanías, gastronomía, danzas típicas o regionales, así como aquellos que determine en el ámbito de sus atribuciones la Secretaría de Turismo y Cultura del Estado de Hidalgo.
+
 ### CAPÍTULO II. ATRIBUCIONES DE LA SECRETARÍA
 
 ###### Artículo 7.
@@ -205,7 +225,9 @@ V.- Formular, ejecutar y evaluar el Programa, de acuerdo a las directrices previ
 
 VI.- Establecer la Comisión Ejecutiva;
 
-VII.- Concertar con los sectores privado y social, las acciones tendientes a desarrollar y fomentar la actividad turística;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+VII.- Concertar con los sectores privado y social, las acciones tendientes a desarrollar y fomentar la actividad turística; así como programas de generación de empleo en beneficio de los grupos obreros, campesinos, infantiles, juveniles, burocráticos, magisteriales, de estudiantes, de trabajadores no asalariados y otros similares.
 
 VIII.- Diseñar y operar el Modulo de Evaluación del Desempeño del Sector Turístico;
 
@@ -249,9 +271,25 @@ XXVII.- Diseñar y publicar la Guía del Inversionista Turístico del Estado de 
 
 XXVIII.- Promover e impulsar estrategias institucionales para el desarrollo del turismo de convenciones y visitantes, así como de segmentos como el turismo de salud, de naturaleza, cinegético, de aventura, religioso, el turismo social, entre otros, que generen una afluencia de turistas al Estado;
 
-XXIX.- Vigilar en lo general el cumplimiento de esta Ley, de la Ley General y demás disposiciones reglamentarias que de ellas se deriven; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XXX.- Las demás necesarias para el logro de los fines establecidos en la presente Ley, en la Ley General y las previstas en otros ordenamientos.
+XXIX.- Promover e impulsar estrategias para desarrollar el Turismo sustentable en los Pueblos y Comunidades indígenas del Estado, protegiendo los recursos naturales y el patrimonio natural y cultural de los territorios que habitan;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XXX.- Establecer acuerdos con los pueblos y comunidades indígenas para intensificar su participación en la formulación de políticas, estrategias y programas relativos a la gestión y conservación de los espacios, recursos naturales y manifestaciones culturales asentadas en su territorio y que representan potencial turístico;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XXXI.- Proporcionar una mayor competitividad de los productos artesanales elaborados por las comunidades indígenas en las zonas turísticas del Estado, promoviendo el desarrollo local y regional;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XXXII.- Vigilar en lo general el cumplimiento de esta Ley, de la Ley General y demás disposiciones reglamentarias que de ella se deriven; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XXXIII.- Las demás necesarias para el logro de los fines establecidos en la presente Ley, en la Ley General y las previstas en otros ordenamientos.
 
 ### CAPÍTULO III. DE LA CONCURRENCIA EN MATERIA TURÍSTICA
 
@@ -303,7 +341,9 @@ VI. 2. La difusión de la importancia de respetar y conservar los atractivos tur
 
 VI. 3. El trabajo conjunto y coordinado con los centros de enseñanza de los diferentes niveles en los programas que fortalezcan la certificación de la planta laboral;
 
-VII.- Colaborar con la Secretaría de Trabajo y Previsión Social del Estado de Hidalgo, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de los prestadores de servicios turísticos, incorporando a las personas con alguna discapacidad;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+VII.- Colaborar con la Secretaría de Trabajo y Previsión Social del Estado de Hidalgo, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de los prestadores de servicios turísticos, incorporando a las personas con alguna discapacidad y personas de la tercera edad;
 
 VIII.- Promover y fomentar, en coordinación con el Consejo Estatal para la Cultura y las Artes de Hidalgo, así como con el Instituto Nacional de Bellas Artes y Literatura, y el Instituto Nacional de Antropología e Historia, el patrimonio histórico, artístico, arqueológico y cultural del Estado, de acuerdo con el marco jurídico vigente;
 
@@ -365,11 +405,21 @@ La planeación de la actividad turística del Estado buscará lograr una visión
 
 I.- Proteger el medio ambiente, así como preservar y manejar adecuadamente los recursos naturales;
 
-II.- Buscar alcanzar un aprovechamiento integral, eficiente y racional de los recursos con potencial turístico, de las riquezas naturales, culturales, arquitectónicas, históricas y gastronómicas del Estado;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-III.- Desarrollar acciones que fomenten el uso, conservación y mantenimiento de los recursos naturales, culturales e históricos del Estado que puedan constituir un atractivo turístico; y
+II.- Buscar alcanzar (sic) un aprovechamiento integral, eficiente y racional de los recursos con potencial turístico, de las riquezas naturales, culturales, arquitectónicas, históricas y gastronómicas del Estado con la participación de las comunidades;
 
-IV.- Incluir acciones de coordinación con todos los niveles de gobierno para el alcance de sus objetivos y metas.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+III.- Desarrollar acciones que fomenten el uso, conservación y mantenimiento de los recursos naturales, culturales e históricos del Estado que puedan constituir un atractivo turístico;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+IV.- Incluir acciones de coordinación con todos los órdenes de gobierno para el alcance de sus objetivos y metas; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+V.- Desarrollar acciones en coordinación con los Pueblos y Comunidades indígenas que fomenten el turismo sustentable en sus territorios garantizando la preservación, difusión y desarrollo de sus costumbres y tradiciones.
 
 ###### Artículo 12.
 
@@ -398,6 +448,10 @@ En cumplimiento de lo establecido en la Ley General de Turismo, la Secretaría p
 ###### Artículo 17.
 
 La Secretaría podrá impulsar y proponer al Ejecutivo Estatal, en su caso, la creación de Zonas de Desarrollo Turístico Estatal Prioritario, cuando por sus condiciones particulares sean propicias para el desarrollo del turismo, previo estudio de viabilidad, evaluación de impacto y crecimiento económico, así como su delimitación geográfica.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+Se considerará la riqueza cultural, patrimonial y natural que poseen los Pueblos y Comunidades indígenas del Estado para reconocerlas como Zonas de Desarrollo Turístico Estatal Sustentable y plantear políticas públicas que potencialicen su desarrollo.
 
 ###### Artículo 18.
 
@@ -449,9 +503,13 @@ La Secretaría en el ejercicio de sus atribuciones, fomentará los programas y a
 
 La Secretaría promoverá el desarrollo del turismo alternativo en sus modalidades de turismo rural, de aventura y ecoturismo dentro de la Entidad.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 29.
 
-La Secretaría, a través de convenios de coordinación, buscará la implementación de acciones para fomentar y promover la identidad de las comunidades originarias del Estado y la riqueza histórica facilitando el desarrollo del turismo cultural dentro del Estado.
+La Secretaría, a través de convenios de coordinación y en consulta con los pueblos y comunidades indígenas, buscará la implementación de acciones para fomentar y promover la identidad de las comunidades indígenas del Estado, la riqueza histórica, cultural y patrimonial, facilitando el desarrollo del turismo cultural dentro del Estado.
+
+La artesanía, las industrias rurales y comunitarias y las actividades tradicionales y relacionadas con la economía de subsistencia de los pueblos interesados, como la caza, la pesca, la caza con tramas y la recolección deberán reconocerse como factores importantes del mantenimiento de su cultura y de su autosuficiencia y desarrollo económicos. Con la participación de las comunidades, y siempre que haya lugar, la Secretaría deberá velar porque se fortalezcan y fomenten dichas actividades.
 
 ###### Artículo 30.
 
@@ -464,6 +522,8 @@ En el marco del Sistema Estatal de Financiamiento, la Secretaría, en coordinaci
 ### CAPÍTULO XI. DEL TURISMO SOCIAL
 
 ### CAPÍTULO XII. DEL TURISMO ACCESIBLE
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 32.
 
@@ -483,7 +543,7 @@ La Secretaría impulsará la celebración de convenios entre los prestadores de 
 
 ###### Artículo 35.
 
-La Secretaría promoverá las acciones necesarias entre las dependencias competentes y los Prestadores de Servicios Turísticos, para instrumentar los cambios y adaptaciones necesarias en la infraestructura y equipamiento turístico, para facilitar el acceso y disfrute a aquellas personas con alguna discapacidad.
+La Secretaría promoverá las acciones necesarias entre las dependencias competentes y los Prestadores de Servicios Turísticos, para instrumentar los cambios y adaptaciones necesarias en la infraestructura y equipamiento turístico, para facilitar el acceso y disfrute a aquellas personas con alguna discapacidad y de la tercera edad.
 
 ###### Artículo 36.
 
@@ -541,7 +601,9 @@ La Secretaría propondrá la imagen conceptual del Estado en materia turística 
 
 Corresponde a la Secretaría desarrollar las acciones de promoción del Estado, de acuerdo a lo señalado en el Plan Anual de Mercadotecnia, para lo cual deberá:
 
-I.- Promover, en coordinación con las Dependencias y Entidades competentes, así como con los sectores involucrados, las tradiciones, costumbres e identidad que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación y promoción;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+I.- Promover, en coordinación con las Dependencias y entidades competentes, así como con los sectores involucrados, las tradiciones, costumbres, e identidad, así como el patrimonio natural y cultural de los pueblos y comunidades indígenas que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación y promoción;
 
 II.- Desarrollar e implementar la marca Hidalgo, para reforzar su imagen como una entidad atractiva, segura y con una oferta turística diversa;
 
@@ -607,13 +669,23 @@ II.- Programas para certificar a los prestadores de servicios turísticos, con o
 
 III.- La actualización y modernización de las empresas turísticas, a través de programas de asesoría y asistencia técnica para acceder a financiamientos institucionales;
 
-IV.- Programas para mejorar la calidad de los servicios turísticos, a través de distintivos, certificados y reconocimientos propios y característicos del Estado; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-V.- La coordinación de acciones entre los diferentes niveles de gobierno para promover, fomentar y respaldar el desarrollo de la oferta turística del Estado que haya cumplido con requisitos de calidad.
+IV. Programas para mejorar la calidad de los servicios turísticos, a través de distintivos, certificados y reconocimientos propios y característicos del Estado;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+V. La coordinación de acciones entre los diferentes niveles de gobierno para promover, fomentar y respaldar el desarrollo de la oferta turística del Estado que haya cumplido con requisitos de calidad; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+VI. Programas de profesionalización para los pueblos y comunidades indígenas que respondan a sus necesidades y enfocado, al desarrollo de actividades de turismo sustentable dentro de sus comunidades, garantizando en todo momento el respeto y preservación de su identidad.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 56.
 
-La Secretaría promoverá la coordinación entre las dependencias estatales para la creación, aplicación y evaluación de programas de profesionalización y certificación de competencias laborales del personal que labora en el sector turístico, estas acciones deberán incluir capacitación para la atención que requieran personas con alguna discapacidad.
+La Secretaría promoverá la coordinación entre las dependencias estatales para la creación, aplicación y evaluación de programas de profesionalización y certificación de competencias laborales del personal que labora en el sector turístico, estas acciones deberán incluir capacitación para la atención que requieran personas con alguna discapacidad y personas de la tercera edad.
 
 ###### Artículo 57.
 
@@ -801,9 +873,17 @@ I.- Observar las normas usuales de convivencia en los establecimientos turístic
 
 II.- Respetar el entorno natural y patrimonio cultural de los sitios en los que realice una actividad turística;
 
-III.- Acatar las prescripciones particulares de establecimientos mercantiles y empresas, cuyos servicios turísticos disfruten o contraten y, particularmente las normas y reglamentos mercantiles de uso o de régimen interior; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-IV.- Pagar el precio de los servicios utilizados, en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado.
+III.- Acatar las prescripciones particulares de establecimientos mercantiles y empresas, cuyos servicios turísticos disfruten o contraten y particularmente las normas y reglamentos mercantiles de uso o de régimen interior;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+IV.- Pagar el precio de los servicios utilizados, en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+V.- Cuidar y conservar el entorno ecológico.
 
 ###### Artículo 80.
 
@@ -874,3 +954,13 @@ AÑO DOS MIL DOCE.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a (sic) día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado de Hidalgo dispondrá, que el presente Decreto, se traduzca a las lenguas que hablan los diferentes pueblos y comunidades indígenas existentes en el territorio Estatal, así como, la difusión entre las diferentes dependencias educativas y de Gobierno en sus respectivos órdenes.
