@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-desarrollo-74920"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-30"
-last_updated: "2010-04-30"
+last_updated: "2013-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO, RURAL E INDIGENA DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO INTERNO DE LA SECRETARIA DE DESARROLLO AGROPECUARIO, RURAL E INDIGENA
+REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, RURAL E INDÍGENA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de abril de 2010.
 
@@ -31,6 +31,8 @@ LICENCIADO FÉLIX ARTURO GONZÁLEZ CANTO, GOBERNADOR DEL ESTADO DE QUINTANA ROO,
 C O N S I D E R A N D O.
 
 Por lo expuesto y fundado, el Ejecutivo a mi cargo ha considerado conveniente restablecer de manera concreta e integral los alcances, responsabilidades, estructura orgánica y demás facultades de la Secretaría de Desarrollo Agropecuario, Rural e Indígena, mediante la expedición y publicación del siguiente:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL NOVENO TRANSITORIO DEL DECRETO 306, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2013, TODAS LAS MENCIONES AL INSTITUTO FORESTAL DE QUINTAN ROO EN LA LEY FORESTAL DEL ESTADO DE QUINTANA ROO O EN OTRAS DISPOSICIONES NORMATIVAS, A PARTIR DE LA VIGENCIA DEL CITADO DECRETO SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE.</small>
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO RURAL E INDÍGENA DEL ESTADO DE QUINTANA ROO.
 
@@ -212,11 +214,9 @@ En el ejercicio de sus facultades y para el despacho de los asuntos propios de s
 
 ###### Artículo 9.
 
-Al frente de cada Subsecretaria habrá un Subsecretario, quién será responsable técnica y administrativamente del funcionamiento de las unidades que integren a la Subsecretaria a su cargo, y se auxiliará por los Directores, Jefes de Departamento, así como del personal técnico y administrativo contemplado dentro del Presupuesto de Egresos autorizado y que resulten necesarios para el adecuado cumplimiento de sus facultades.} (sic)
+Al frente de cada Subsecretaria habrá un Subsecretario, quién será responsable técnica y administrativamente del funcionamiento de las unidades que integren a la Subsecretaria a su cargo, y se auxiliará por los Directores, Jefes de Departamento, así como del personal técnico y administrativo contemplado dentro del Presupuesto de Egresos autorizado y que resulten necesarios para el adecuado cumplimiento de sus facultades. (sic)
 
-Para el ejercicio de sus facultades, cada Subsecretario contará con el Manual de
-
-Organización y Procedimientos, los cuales contendrán las funciones que a cada uno le competa.
+Para el ejercicio de sus facultades, cada Subsecretario contará con el Manual de Organización y Procedimientos, los cuales contendrán las funciones que a cada uno le competa.
 
 ###### Artículo 10.
 
@@ -544,7 +544,7 @@ X. Informar periódicamente al Secretario, sobre las operaciones presupuestales 
 
 XI. Someter a consideración del Secretario los contratos que afecten el presupuesto de la Secretaría, debiendo suscribir por delegación de su superior jerárquico y conforme a la ley aplicable, los que sean materia de adquisiciones, arrendamientos y prestación de servicios, así como los demás documentos que impliquen actos de administración interna que deban hacerse de su conocimiento;
 
-XII. Autorizar la adquisición de bienes y la contratación de servicios que soliciten las demás unidades administrativas, de acuerdo a los lineamientos generales establecidosy conforme a la disponibilidad presupuestal;
+XII. Autorizar la adquisición de bienes y la contratación de servicios que soliciten las demás unidades administrativas, de acuerdo a los lineamientos generales establecidos y conforme a la disponibilidad presupuestal;
 
 XIII. Instrumentar y mantener actualizados los inventarios de bienes muebles e inmuebles y de los recursos materiales a cargo de la Secretaría, así como recabar los resguardos correspondientes;
 
@@ -740,7 +740,7 @@ VII. Apoyar y coordinar los estudios para aprovechar racionalmente los recursos 
 
 VIII. Apoyar el fortalecimiento de la producción de cultivos no tradicionales;
 
-IX. Fomentar y apoyar las actividades hortícola y frutícolas para su desarrollo;
+IX. Fomentar y apoyar las actividades hortícola y frutícolas (sic) para su desarrollo;
 
 X. Fortalecer los convenios con las diferentes dependencias para implementar nuevos programas de desarrollo agrícola;
 
@@ -1332,7 +1332,7 @@ IX. Aplicar los criterios específicos de en materia de clasificación y conserv
 
 X. Elaborar un programa para facilitar la obtención de Información Pública, que deberá ser actualizada periódicamente;
 
-XI. Difundir entre los servidores públicos de la Secretaría los beneficios del manejo público de la lnformación, así como sus responsabilidades en el buen uso y conservación de esta;
+XI. Difundir entre los servidores públicos de la Secretaría los beneficios del manejo público de la Información, así como sus responsabilidades en el buen uso y conservación de esta;
 
 XII. Solicitar a todas y cada una de las Unidades Administrativas la respuesta de clasificación de la información en pública, reservada o confidencial, en los términos de la ley de transparencia y Acceso a la Información Pública del Estado de Quintana Roo y su reglamento;
 
@@ -1419,3 +1419,73 @@ SECRETARIO DE GOBIERNO
 PROF. GERMAN AURELIO PARRA LÓPEZ
 
 SECRETARÍA DE DESARROLLO AGROPECUARIO, RURAL E INDÍGENA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Los recursos humanos, materiales y financieros, así como los expedientes, valores y demás, asignados o pertenecientes al Comité de Planeación para el Desarrollo del Estado de Quintana Roo, serán transferidos a la Secretaría de Planeación y finanzas, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Tercero. La Secretaría de Planeación y finanzas contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la integración del Comité así como la elaboración y expedición de sus Reglas de Operación.
+
+Cuarto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad del Consejo Estatal de Población, serán transferidos a la Secretaría de Gobierno, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Quinto. La Secretaría de Gobierno, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Junta Directiva del Consejo y la elaboración y expedición de sus Reglas de Operación.
+
+Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad de la Comisión de Energía del Estado de Quintana Roo, serán transferidos a la Secretaría de Desarrollo Económico, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Séptimo. La Secretaría de Desarrollo Económico contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Comisión y la elaboración y expedición de sus Reglas de Operación.
+
+Octavo. Al entrar en vigor el presente decreto, la unidad administrativa de la Secretaría de Desarrollo Económico denominada Fondo para el Desarrollo Económico de Quintana Roo, sustituye al órgano desconcentrado con la misma denominación, por lo que todos los recursos humanos, financieros y materiales del mismo pasarán a la citada Dependencia.
+
+Noveno. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad del Instituto Forestal del Estado de Quintana Roo, serán transferidos a la Secretaría de Ecología y Medio Ambiente, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Todas las menciones al Instituto Forestal de Quintana Roo en la Ley Forestal del Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Ecología y Medio Ambiente.
+
+Décimo. Los asuntos que se encuentren en trámite en el Instituto Forestal del Estado de Quintana Roo a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+Décimo Primero. La Secretaría de Ecología y Medio Ambiente contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Segundo. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos, derechos y obligaciones contraídos y, en general todos los bienes y valores de la Comisión Estatal de Mejora Regulatoria y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de la Gestión Pública.
+
+Todas las menciones a la Comisión Estatal de Mejora Regulatoria en la Ley de Mejora Regulatoria para el Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de la Gestión Pública.
+
+Décimo Tercero. Los asuntos que se encuentren en trámite en la Comisión Estatal de Mejora Regulatoria a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+Décimo Cuarto. Los derechos laborales del personal de la Comisión Estatal de Mejora Regulatoria se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de la Gestión Pública.
+
+Décimo Quinto. La Secretaría de la Gestión Pública contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad de la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, se transfieren a la Secretaría de Desarrollo Social e Indígena.
+
+La Secretaría de Desarrollo Social e Indígena se subroga en los derechos y obligaciones contraídos por la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo.
+
+Cualquier referencia a la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, en otras disposiciones normativas, se entenderá hecha a la Secretaría de Desarrollo Social e Indígena.
+
+Décimo Séptimo. El Titular del Poder Ejecutivo, en un término que no exceda de sesenta días naturales, deberá conformar la estructura orgánica de la Secretaría de Desarrollo Social e Indígena, de conformidad a las disposiciones del presente Decreto.
+
+Décimo Octavo. El Titular del Poder Ejecutivo deberá disponer que el contenido del artículo Séptimo del presente Decreto se traduzca en lengua maya y ordenará su difusión en las comunidades indígenas del Estado.
+
+Décimo Noveno. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos y, en general todos los bienes y valores del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de Desarrollo Urbano y Vivienda, quien tendrá la administración y disposición plena de dichos bienes y recursos.
+
+Todas las menciones al Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo. Se reconoce plena validez a los documentos, actos y contratos legalmente expedidos o realizados con base en laLey (sic) del Instituto de Fomento (sic) la Vivienda y Regularización del Estado de Quintana Roo que se abroga.
+
+De igual manera las operaciones crediticias que se hubieren efectuado con anterioridad a la entrada en vigor de este Decreto, seguirán rigiéndose por los términos del contrato respectivo y las disposiciones legales aplicables.
+
+Vigésimo Primero. Los asuntos que se encuentren en trámite en el Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado a la entrada en vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+En tanto no se modifiquen las disposiciones reglamentarias aplicables al Instituto de Fomento a la Vivienda y Regularización de la Propiedad, en lo que no se opongan a este Decreto, seguirán aplicándose los ordenamientos reglamentarios y administrativos vigentes a la fecha de entrada en vigor del presente Decreto.
+
+Vigésimo Segundo. Los derechos laborales del personal del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo Tercero. El Titular del Poder Ejecutivo, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la modificación de la estructura orgánica.
+
+Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, el Gobierno del Estado y los organismos descentralizados deberán coordinarse y tomar las providencias necesarias para la debida incorporación de un representante de la Oficialía Mayor y de un representante de la Secretaría de Planeación y Finanzas en sus órganos de gobierno.
+
+Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
+
+Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
