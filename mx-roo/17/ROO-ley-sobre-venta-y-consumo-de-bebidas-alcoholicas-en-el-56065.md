@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2011-12-16"
+last_updated: "2013-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
@@ -34,6 +34,8 @@ QUE CONTIENE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO D
 LA HONORABLE XI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
 
 DECRETA
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO 306, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2013, TODAS LAS MENCIONES A LA COMISIÓN ESTATAL DE MEJORA REGULATORIA EN LA LEY DE MEJORA REGULATORIA PARA EL ESTADO QUINTANA ROO O EN OTRAS DISPOSICIONES NORMATIVAS, A PARTIR DE LA VIGENCIA DEL PRESENTE DECRETO SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE LA GESTIÓN PÚBLICA.</small>
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
@@ -165,7 +167,7 @@ En todos los casos se deberá dar aviso a través de los medios de comunicación
 
 La Licencia de Bebidas Alcohólicas en lo general será personal e inembargable. Podrá ser transferible a un tercero cuando el titular de la Licencia solicite por escrito este acto al Ejecutivo, y sea autorizado a través de la Secretaría mediante un documento de carácter oficial que será emitido cuando se hayan satisfecho los requisitos que se establecen en el Artículo 12, y a lo señalado en la fracción III del Artículo 9 de la presente Ley, así como lo que estipule el Reglamento de la misma, y toda vez que no exista adeudo o trámite pendiente relativo a las obligaciones emanadas de la Licencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 12.
 
@@ -253,7 +255,7 @@ De manera particular, en el caso de que el titular de una Licencia de Bebidas Al
 
 De igual forma, en el caso de pérdida o extravío del documento original de la Licencia de Bebidas Alcohólicas, el titular deberá reportarlo por escrito a la Secretaría, y solicitar al Ejecutivo su reposición de acuerdo a lo señalado en el Reglamento de esta Ley, así como cubrir el pago de derechos establecidos para este caso en la Ley de Hacienda del Estado de Quintana Roo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 17.
 
@@ -391,7 +393,7 @@ El Consejo Estatal Consultivo, podrá rendir opinión sobre la inclusión de aqu
 
 ### CAPÍTULO IV. DE LAS RESTRICCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 26.
 
@@ -405,7 +407,7 @@ III.- Cuando el solicitante haya tenido una Licencia de Bebidas Alcohólicas, y 
 
 IV.- Cuando el solicitante pretenda domiciliar la Licencia de Bebidas Alcohólicas, para los establecimientos previstos en las fracciones V, VI, VIII y XV del artículo 25 de esta Ley, en un inmueble que se encuentre ubicado dentro de un rango de 200 metros radiales de otro del mismo tipo o de los demás señalados en esta fracción, excepto en las zonas turísticas. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 V.- Cuando el solicitante pretenda domiciliar la licencia bebidas alcohólicas, para los giros previstos en las fracciones III, IV, V, VI, VII, VIII, IX y X del artículo 17 de esta Ley, en un inmueble ubicado a menos de 200 metros radiales de planteles educativos, parques públicos, templos religiosos, hospitales, centros deportivos, edificios públicos o de asistencia social y áreas de equipamiento. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados.
 
@@ -427,7 +429,7 @@ No aplicará lo señalado en las fracciones IV, V y VI del Artículo 26 de la pr
 
 ### CAPÍTULO V. DE LAS OBLIGACIONES DEL TITULAR DE LA LICENCIA DE BEBIDAS ALCOHÓLICAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 29.
 
@@ -453,7 +455,7 @@ VI.- No permitir el consumo dentro de los límites del establecimiento en los ca
 
 ### CAPÍTULO VI. DE LA INSPECCIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 30.
 
@@ -489,7 +491,7 @@ Si del resultado de las inspecciones realizadas se desprende la comisión de hec
 
 #### SECCIÓN PRIMERA. DE LAS INFRACCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 32.
 
@@ -893,7 +895,7 @@ EL SECRETARIO ESTATAL DE HACIENDA
 
 LIC. FREDY EFRÉN MARRUFO MARTÍN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE DICIEMBRE DE 2007.
 
@@ -916,3 +918,71 @@ P.O. 16 DE DICIEMBRE DE 2011.
 PRIMERO.- Se dejan sin efecto todas las disposiciones legales de (sic) que se opongan al presente Decreto.
 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del 1o. de Enero de 2012, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 19 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Los recursos humanos, materiales y financieros, así como los expedientes, valores y demás, asignados o pertenecientes al Comité de Planeación para el Desarrollo del Estado de Quintana Roo, serán transferidos a la Secretaría de Planeación y finanzas, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Tercero. La Secretaría de Planeación y finanzas contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la integración del Comité así como la elaboración y expedición de sus Reglas de Operación.
+
+Cuarto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad del Consejo Estatal de Población, serán transferidos a la Secretaría de Gobierno, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Quinto. La Secretaría de Gobierno, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Junta Directiva del Consejo y la elaboración y expedición de sus Reglas de Operación.
+
+Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad de la Comisión de Energía del Estado de Quintana Roo, serán transferidos a la Secretaría de Desarrollo Económico, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Séptimo. La Secretaría de Desarrollo Económico contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Comisión y la elaboración y expedición de sus Reglas de Operación.
+
+Octavo. Al entrar en vigor el presente decreto, la unidad administrativa de la Secretaría de Desarrollo Económico denominada Fondo para el Desarrollo Económico de Quintana Roo, sustituye al órgano desconcentrado con la misma denominación, por lo que todos los recursos humanos, financieros y materiales del mismo pasarán a la citada Dependencia.
+
+Noveno. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad del Instituto Forestal del Estado de Quintana Roo, serán transferidos a la Secretaría de Ecología y Medio Ambiente, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Todas las menciones al Instituto Forestal de Quintana Roo en la Ley Forestal del Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Ecología y Medio Ambiente.
+
+Décimo. Los asuntos que se encuentren en trámite en el Instituto Forestal del Estado de Quintana Roo a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+Décimo Primero. La Secretaría de Ecología y Medio Ambiente contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Segundo. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos, derechos y obligaciones contraídos y, en general todos los bienes y valores de la Comisión Estatal de Mejora Regulatoria y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de la Gestión Pública.
+
+Todas las menciones a la Comisión Estatal de Mejora Regulatoria en la Ley de Mejora Regulatoria para el Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de la Gestión Pública.
+
+Décimo Tercero. Los asuntos que se encuentren en trámite en la Comisión Estatal de Mejora Regulatoria a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+Décimo Cuarto. Los derechos laborales del personal de la Comisión Estatal de Mejora Regulatoria se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de la Gestión Pública.
+
+Décimo Quinto. La Secretaría de la Gestión Pública contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad de la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, se transfieren a la Secretaría de Desarrollo Social e Indígena.
+
+La Secretaría de Desarrollo Social e Indígena se subroga en los derechos y obligaciones contraídos por la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo.
+
+Cualquier referencia a la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, en otras disposiciones normativas, se entenderá hecha a la Secretaría de Desarrollo Social e Indígena.
+
+Décimo Séptimo. El Titular del Poder Ejecutivo, en un término que no exceda de sesenta días naturales, deberá conformar la estructura orgánica de la Secretaría de Desarrollo Social e Indígena, de conformidad a las disposiciones del presente Decreto.
+
+Décimo Octavo. El Titular del Poder Ejecutivo deberá disponer que el contenido del artículo Séptimo del presente Decreto se traduzca en lengua maya y ordenará su difusión en las comunidades indígenas del Estado.
+
+Décimo Noveno. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos y, en general todos los bienes y valores del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de Desarrollo Urbano y Vivienda, quien tendrá la administración y disposición plena de dichos bienes y recursos.
+
+Todas las menciones al Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo. Se reconoce plena validez a los documentos, actos y contratos legalmente expedidos o realizados con base en laLey (sic) del Instituto de Fomento (sic) la Vivienda y Regularización del Estado de Quintana Roo que se abroga.
+
+De igual manera las operaciones crediticias que se hubieren efectuado con anterioridad a la entrada en vigor de este Decreto, seguirán rigiéndose por los términos del contrato respectivo y las disposiciones legales aplicables.
+
+Vigésimo Primero. Los asuntos que se encuentren en trámite en el Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado a la entrada en vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+En tanto no se modifiquen las disposiciones reglamentarias aplicables al Instituto de Fomento a la Vivienda y Regularización de la Propiedad, en lo que no se opongan a este Decreto, seguirán aplicándose los ordenamientos reglamentarios y administrativos vigentes a la fecha de entrada en vigor del presente Decreto.
+
+Vigésimo Segundo. Los derechos laborales del personal del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo Tercero. El Titular del Poder Ejecutivo, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la modificación de la estructura orgánica.
+
+Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, el Gobierno del Estado y los organismos descentralizados deberán coordinarse y tomar las providencias necesarias para la debida incorporación de un representante de la Oficialía Mayor y de un representante de la Secretaría de Planeación y Finanzas en sus órganos de gobierno.
+
+Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
+
+Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
