@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2013-07-30"
+last_updated: "2013-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 19 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
@@ -1832,3 +1834,27 @@ P.O. 8 DE MARZO DE 2013.
 P.O. 30 DE JULIO DE 2013.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 19 DE AGOSTO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado el 8 de Septiembre de 2000; así como sus reformas y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO. Cuando en otras disposiciones legales se dé una denominación distinta a alguna dependencia, cuyas facultades estén establecidas por la presente Ley, dichas atribuciones se entenderán concedidas a la dependencia que determina esta Ley.
+
+CUARTO. El Titular del Poder Ejecutivo deberá expedir los Reglamento (sic) Interiores de las Secretarías previstas en la presente ley, dentro del plazo de sesenta días naturales a su entrada en vigor. En tanto, seguirán vigentes los Reglamentos Interiores actuales, en lo que no se opongan a este Decreto.
+
+QUINTO. Los servidores públicos cuyas funciones sustantivas, directamente relacionadas con las funciones de las Dependencias y Entidades que en razón del presente Decreto desaparecen, deberán ser transferidos a la Dependencia que asume las de aquellas.
+
+La Secretaría de Planeación y finanzas, la Oficialía Mayor, y la Secretaría de la Gestión Pública serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimiento al presente Decreto, así como de la elaboración de la información necesaria para la integración de la Cuenta Pública en el ámbito de su competencia.
+
+La Secretaría de Planeación y finanzas, la Oficialía Mayor, y la Secretaría de la Gestión Pública, podrán dictar los lineamientos y disposiciones de carácter general que estimen necesarios para la transferencia de los recursos humanos, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
+
+SEXTO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las dependencias que, respectivamente, adquieren tales funciones.
+
+SÉPTIMO. Los programas aprobados en el Presupuesto de Egresos del Estado para el ejercicio fiscal 2013 continuarán siendo ejecutados hasta el final de dicho ejercicio por las dependencias que hayan mantenido o a las que les hayan sido transferidas las atribuciones y unidades administrativas relacionadas con dichos programas.
+
+OCTAVO. Se faculta al Titular del Poder Ejecutivo del Estado, a efectuar los ajustes, transferencias y adecuaciones presupuestarias que sean necesarias para dar cumplimiento al presente Decreto.
