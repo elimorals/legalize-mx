@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-consejo-estatal-de-poblacion-de-quintana-roo-27080"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2002-12-30"
+last_updated: "2013-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DEL CONSEJO ESTATAL DE POBLACION DE QUINTANA ROO
 
-LEY DEL CONSEJO ESTATAL DE POBLACION DE QUINTANA ROO
+LEY DEL CONSEJO ESTATAL DE POBLACIÓN DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 30 de noviembre de 2002.
 
@@ -45,13 +45,17 @@ LEY DEL CONSEJO ESTATAL DE POBLACION DE QUINTANA ROO
 
 Esta Ley es de interés social y observancia general en el Estado, su objetivo es garantizar la aplicación de políticas de población a través de una adecuada planeación demográfica.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 2.
 
-Corresponde al Ejecutivo del Estado, diseñar, establecer, promover, coordinar, ejecutar, supervisar, y evaluar la política poblacional.
+Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Gobierno, diseñar, establecer, promover, coordinar, ejecutar, supervisar, y evaluar la política poblacional.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 3.
 
-Se crea el Consejo Estatal de Población de Quintana Roo, como un organismo público descentralizado del Poder Ejecutivo del Gobierno del Estado, con personalidad jurídica y patrimonio propio, teniendo a su cargo la instrumentación de las políticas de población que el propio determine, a través de la planeación demográfica, con el objeto de incluir a la población dentro de los programas generales de desarrollo económico y social.
+Para efecto de la presente Ley, se crea el Consejo Estatal de Población de Quintana Roo, como un organismo público de carácter técnico y consultivo, el cual tendrá a su cargo la instrumentación de las políticas de población que determine a través de la planeación demográfica, con el objeto de incluir a la población dentro de los programas generales de desarrollo económico y social.
 
 ###### Artículo 4.
 
@@ -63,6 +67,10 @@ II. PROGRAMA: Programa Estatal de Población.
 
 III. PROGRAMA MUNICIPAL: Programa Municipal de Población.
 
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+IV. SECRETARÍA: Secretaría de Gobierno
+
 ## TÍTULO SEGUNDO
 
 ### CAPÍTULO ÚNICO. POLÍTICA DE POBLACIÓN Y DESARROLLO
@@ -71,9 +79,11 @@ III. PROGRAMA MUNICIPAL: Programa Municipal de Población.
 
 La Política Estatal de Población y Desarrollo consistirá en una serie de acciones orientadas a mejorar la calidad de vida de los habitantes, buscando el equilibrio en cuanto a su volumen, estructura, dinámica y distribución geográfica en relación con el desarrollo, en plena concordancia con lo dispuesto en el artículo 7º de esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 6.
 
-La Política Estatal de Población será responsabilidad del Poder Ejecutivo del Estado. Su instrumentación estará a cargo del Consejo y su implementación a cargo de las dependencias y entidades que correspondan.
+La Política Estatal de Población será responsabilidad del Poder Ejecutivo del Estado. Su instrumentación estará a cargo de la Secretaría con apoyo del Consejo y su implementación a cargo de las dependencias y entidades que correspondan.
 
 ###### Artículo 7.
 
@@ -89,9 +99,11 @@ IV. La preservación del equilibrio ecológico y el respeto al medio ambiente; y
 
 V. La conservación de los valores culturales de los habitantes del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 8.
 
-Para la formulación de la Política Estatal de Población, el Poder Ejecutivo del Estado considerará los siguientes:
+Para la formulación de la Política Estatal de Población, el Poder Ejecutivo del Estado por conducto de la Secretaría y con el apoyo del Consejo, considerará los siguientes:
 
 I. La información demográfica actualizada que exista a nivel Nacional, Regional, Estatal y Municipal;
 
@@ -113,17 +125,21 @@ Para los fines de la Política Estatal de Población, el Poder Ejecutivo del Gob
 
 El Poder Ejecutivo del Estado y los Municipios, por conducto del Consejo, formularán el programa correspondiente.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 11.
 
-El Poder Ejecutivo del Estado puede suscribir convenios de coordinación y colaboración con la Federación, otros Estados y los Municipios, a fin de apoyar la Política Estatal de Población; con este mismo propósito, celebrará convenios de concertación con los sectores social y privado, a fin de que participen en la realización de acciones vinculadas con los aspectos del desarrollo que en cada caso se definan.
+El Poder Ejecutivo del Estado por conducto de la Secretaría, podrá suscribir convenios de coordinación y colaboración con la Federación, otros Estados y los Municipios, a fin de apoyar la Política Estatal de Población; con este mismo propósito, celebrará convenios de concertación con los sectores social y privado, a fin de que participen en la realización de acciones vinculadas con los aspectos del desarrollo que en cada caso se definan.
 
 ## TÍTULO TERCERO
 
 ### CAPÍTULO ÚNICO. PLANEACIÓN DEMOGRÁFICA
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 12.
 
-Con el propósito de planear adecuadamente las políticas y acciones en materia de población, el Poder Ejecutivo del Estado dispondrá la publicación del Programa formulado por el Consejo, el que deberá integrarse atendiendo los lineamientos del Programa Nacional de Población y del Plan Estratégico de Desarrollo Integral del Estado de Quintana Roo 2000-2025.
+Con el propósito de planear adecuadamente las políticas y acciones en materia de población, el Poder Ejecutivo del Estado dispondrá la publicación del Programa formulado por la Secretaría con el apoyo del Consejo, el que deberá integrarse atendiendo los lineamientos del Programa Nacional de Población y del Plan Estratégico de Desarrollo Integral del Estado de Quintana Roo 2000-2025.
 
 ###### Artículo 13.
 
@@ -189,15 +205,21 @@ El Programa será obligatorio para las Dependencias y Entidades de la Administra
 
 ## TÍTULO QUINTO. DEL CONSEJO
 
-### CAPÍTULO I. OBJETIVO, ATRIBUCIONES, PATRIMONIO E INTEGRACIÓN DEL CONSEJO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO I. OBJETIVO, ATRIBUCIONES E INTEGRACIÓN DEL CONSEJO
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 20.
 
-El Consejo tendrá como objetivo general el diseño de la política de población y fomentará una nueva cultura demográfica, acorde a las circunstancias actuales y que privilegie el bienestar y calidad de vida de los quintanarroenses, a través de acciones informativas, de comunicación y educación que coadyuven al fortalecimiento del núcleo familiar y los valores fundamentales del ser humano.
+El Consejo como órgano consultivo de apoyo de la Secretaría, tendrá como objetivo general el diseño de la política de población y fomentará una nueva cultura demográfica, acorde a las circunstancias actuales y que privilegie el bienestar y calidad de vida de los quintanarroenses, a través de acciones informativas, de comunicación y educación que coadyuven al fortalecimiento del núcleo familiar y los valores fundamentales del ser humano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 21.
 
-El consejo tendrá las siguientes atribuciones:
+El Consejo tendrá las siguientes atribuciones:
 
 I. Mantener la coordinación permanente con el Consejo Nacional de Población (CONAPO), en términos de los convenios de coordinación que se celebren con el Poder Ejecutivo Estatal;
 
@@ -211,31 +233,27 @@ V. Promover la participación de las distintas instancias de la Administración 
 
 VI. Como órgano rector de la planeación demográfica en el Estado, el Consejo coordinará y supervisará la realización de estudios en población, investigación documental y de campo, actualizando de manera permanente la información sociodemográfica;
 
-VII. El Consejo celebrará los convenios o acuerdos pertinentes con las dependencias de gobierno estatal y municipal y con las Instituciones privadas y sociales, para concertar acciones conjuntas en materia de población;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-VIII. Coordinar con el nivel superior de educación de la entidad la realización de estudios en población, a fin de mantener actualizada la información sociodemográfica, elemento básico de las acciones del Programa y para la planeación estratégica del Estado; y
+VII. Proponer a la Secretaría la celebración de convenios o acuerdos pertinentes con las dependencias de gobierno estatal y municipal y con las Instituciones privadas y sociales, para concertar acciones conjuntas en materia de población;
 
-IX. Formular y aprobar su Reglamento Interior;
+VIII. Coordinar con el nivel superior de educación de la entidad la realización de estudios en población, a fin de mantener actualizada la información sociodemográfica, elemento básico de las acciones del Programa y para la planeación estratégica del Estado; y (sic)
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+IX. Formular y aprobar las Reglas de Operación del Consejo para el desarrollo de sus reuniones;
 
 X. Las demás relacionadas con sus objetivos y las que le encomiende el Poder Ejecutivo del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 22.
 
-El Consejo, con base en sus evaluaciones propondrá las prioridades y objetivos de los programas sociales que incidan en la población, y que sirvan como insumo para la planeación estratégica, jerarquizando los recursos e inversiones que para ellos se requieran.
+El Consejo, con base en sus evaluaciones, propondrá a la Secretaría las prioridades y objetivos de los programas sociales que incidan en la población, y que sirvan como insumo para la planeación estratégica, jerarquizando los recursos e inversiones que para ellos se requieran.
 
 ###### Artículo 23.
 
-El patrimonio del Consejo quedará integrado por:
-
-I. Los bienes muebles e inmuebles de su propiedad;
-
-II. Los recursos que se le asignen en el Presupuesto de Egresos del Gobierno del Estado;
-
-III. Los fondos que reciba del Gobierno Federal, del Gobierno del Estado y de los Gobiernos Municipales
-
-IV. Las aportaciones, donaciones, herencias, legados y demás análogos que reciba de los sectores social y privado.
-
-V. Los bienes, derechos y demás ingresos que adquiera por cualquier medio legal.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 24.
 
@@ -253,9 +271,11 @@ III. Los Consejos Municipales de Población.
 
 ### CAPÍTULO II. DE LA JUNTA DIRECTIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 26.
 
-La Junta Directiva será la máxima autoridad del Consejo, la integrará un Presidente, que será el titular del Poder Ejecutivo del Estado; y los vocales, que serán los Titulares de la Secretaría de Gobierno; la Secretaría de Planeación y Desarrollo Regional; la Secretaría de Educación y Cultura; la Secretaría Estatal de Salud; la Secretaría de Hacienda; la Secretaría Estatal de Turismo; la Secretaría de Desarrollo Urbano y Medio Ambiente; la Secretaría de Desarrollo Económico; la Secretaría de Desarrollo Agropecuario, Rural e Indígena; la Secretaría Técnica de Gabinete; el Sistema Estatal para el Desarrollo Integral de la Familia; los Presidentes Municipales de los ocho Municipios del Estado. Cada vocal podrá designar un suplente, a quien delegará sus funciones y atribuciones en materia de población.
+La Junta Directiva será la máxima autoridad del Consejo, la integrará un Presidente, que será el Titular del Poder Ejecutivo del Estado; y los vocales, que serán los Titulares de la Secretaría de Gobierno; la Secretaría de Educación y Cultura; la Secretaría de Salud del Estado; la Secretaría de Planeación y finanzas; la Secretaría de Turismo; la Secretaría de Desarrollo Urbano y Vivienda; la Secretaría de Desarrollo Económico; la Secretaría de Desarrollo Agropecuario y Rural; la Secretaría Técnica de Gabinete; el Sistema Estatal para el Desarrollo Integral de la Familia; y los Presidentes Municipales del Estado. Cada vocal podrá designar un suplente, a quien delegará sus funciones y atribuciones en materia de población.
 
 La Junta Directiva podrá ampliarse con los Titulares de Dependencias y Entidades de la Administración Pública, propuestos por el Presidente del Consejo, así como con los representantes que propongan los sectores social y privado de la entidad, y sean aprobados por la mayoría de los miembros.
 
@@ -273,19 +293,29 @@ Corresponde a la Junta Directiva del Consejo:
 
 I. Aprobar el Programa, a fin de promover la incorporación de la población en los planes de desarrollo socioeconómico del Estado a través de sus áreas específicas;
 
-II. Aprobar el Presupuesto del Consejo, vigilar su ejercicio y rendir un informe anual del mismo;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-III. Vigilar la ejecución y el cumplimiento de las acciones previstas en el Programa y cuidar su congruencia y complementariedad con el Programa Nacional de Población, y con el Plan Estratégico de Desarrollo Integral del Estado de Quintana Roo 2000-2025;
+II. Vigilar la ejecución y el cumplimiento de las acciones previstas en el Programa y cuidar su congruencia y complementariedad con el Programa Nacional de Población, y con el Plan Estratégico de Desarrollo Integral del Estado de Quintana Roo 2000-2025;
 
-IV. Fungir como mecanismo de coordinación de las dependencias de los tres niveles de gobierno, para el cumplimiento de las políticas de población;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-V. Garantizar que la información de estudios en población, investigación documental y de campo generadas por el Consejo, sirva como base para instrumentar acciones específicas en la integración de las políticas de población, en la planeación del desarrollo socioeconómico y cultural de la entidad; y
+III. Fungir como mecanismo de coordinación de las dependencias de los tres niveles de gobierno, para el cumplimiento de las políticas de población que implemente la Secretaría;
 
-VI. Conocer los informes de avances del Programa y solicitar en la fecha que lo considere pertinente, informes parciales sobre las acciones del Consejo y su administración.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+IV. Garantizar que la información de estudios en población, investigación documental y de campo generadas por el Consejo, sirva a la Secretaría como base para instrumentar acciones específicas en la integración de las políticas de población, en la planeación del desarrollo socioeconómico y cultural de la entidad, y
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+V. Conocer los informes de avances del Programa y solicitar en la fecha que lo considere pertinente, informes parciales sobre las acciones del Consejo.
+
+VI. (DEROGADA, P.O. 19 DE AGOSTO DE 2013)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 30.
 
-El Presidente del Consejo tendrá las siguientes facultades:
+El Presidente del Consejo, sin perjuicio de las facultades que le señalen las Reglas de Operación del Consejo, tendrá las siguientes facultades:
 
 I. Presidir las sesiones ordinarias o extraordinarias de la Junta Directiva y asumir la representación de la misma;
 
@@ -293,9 +323,11 @@ II. Promover la participación de las dependencias de gobierno y organismos del 
 
 III. Constatar los avances y resultados del Programa;
 
-IV. Designar y remover libremente al Secretario Técnico del Consejo; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-V. Ejecutar las demás que correspondan a su cargo.
+IV. Ejecutar las demás que correspondan a su cargo.
+
+V. (DEROGADA, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 31.
 
@@ -313,15 +345,19 @@ V. Cumplir con las comisiones que le encomiende el Presidente del Consejo en mat
 
 VI. Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 32.
 
-Las dependencias y entidades de la Administración Pública que integran la Junta Directiva del Consejo Estatal de Población de Quintana Roo, deberán utilizar la información, las proposiciones y resultados realizados por el Consejo Estatal de Población para la realización de sus respectivos programas y acciones de trabajo.
+Las dependencias y entidades de la Administración Pública que integran la Junta Directiva del Consejo, deberán utilizar la información, las proposiciones y resultados realizados para la ejecución de sus respectivos programas y acciones de trabajo.
 
-Las dependencias y entidades de la Administración Pública Estatal deberán facilitar toda información relacionada con la materia poblacional al Consejo, con la finalidad de que éste, realice la Política de Población del Estado.
+Las dependencias y entidades de la Administración Pública Estatal deberán facilitar toda información relacionada con la materia poblacional al Consejo, con la finalidad de que éste por conducto de la Secretaría, impulse la Política de Población del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 33.
 
-Con el propósito de que en el proceso de la Planeación Demográfica Estatal participen los diferentes sectores e instituciones del Estado, el Consejo podrá invitar a sus sesiones de trabajo a representantes de los sectores privado y social, así como a las demás instituciones académicas y de investigación superior, que tengan a su cargo programas en materia de población de cobertura nacional, regional, estatal o municipal, con el fin de:
+Con el propósito de que en el proceso de la Planeación Demográfica Estatal participen los diferentes sectores e instituciones del Estado, el Consejo por conducto de la Secretaría, podrá invitar a sus sesiones de trabajo a representantes de los sectores privado y social, así como a las demás instituciones académicas y de investigación superior, que tengan a su cargo programas en materia de población de cobertura nacional, regional, estatal o municipal, con el fin de:
 
 I. Concertar acuerdos para realizar proyectos de investigación en materia de población;
 
@@ -333,49 +369,79 @@ IV. Instrumentar las campañas de difusión del Consejo, utilizando oportunament
 
 ### CAPÍTULO III. DE LA SECRETARÍA TÉCNICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 34.
 
-Para el desarrollo y buen desempeño del Consejo, habrá un Secretario Técnico, que será el representante legal del Consejo; a él corresponde coordinar el desarrollo de las actividades administrativas y técnicas, dictar los acuerdos tendientes a dicho fin, celebrar con la suma de facultades de un mandato general todos los actos jurídicos de administración y de dominio necesarios para el funcionamiento del Consejo; le corresponde igualmente al Secretario Técnico, la representación del Consejo como mandatario general para pleitos y cobranzas con todas las facultades generales y las especiales que requieran cláusula especial conforme a la Ley; podrá mediante aprobación del Consejo, sustituir y delegar en uno o más apoderados, para que ejerza individual o conjuntamente, los mandatos generales para pleitos y cobranzas y para actos de administración y revocar los poderes que otorgue; desistirse de acciones y demandas y, en general, ejercer todos los actos de representación y mandato que para la eficacia del cargo sean necesarios. Además tendrá las facultades siguientes:
+Para el desarrollo y buen desempeño del Consejo, habrá un Secretario Técnico, designado por el Secretario de Gobierno al que le corresponde coordinar el desarrollo de las sesiones y actividades del Consejo y dar seguimiento a la ejecución de los acuerdos que se adopten en materia de política de población, quien sin perjuicio de las facultades que le señalen las Reglas de Operación del Consejo, tendrá las siguientes:
 
-I. Cumplir y hacer cumplir, las disposiciones y acuerdos de la Junta Directiva;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+I. Cumplir y hacer cumplir, las disposiciones y acuerdos de la Junta Directiva e informar al Secretario de Gobierno;
 
 II. Presentar ante la Junta Directiva el Programa;
 
 III. Resolver bajo su inmediata y directa responsabilidad, los asuntos urgentes de la competencia de la Junta Directiva, a reserva de dar cuenta de la misma en la sesión inmediata siguiente;
 
-IV. Formular el calendario oficial del Consejo y autorizar en casos extraordinarios, la suspensión de labores, previo acuerdo con el Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-V. Conceder licencias y permisos al personal en los términos de las leyes correspondientes;
+IV. Formular el calendario oficial del Consejo previo acuerdo con el Secretario de Gobierno;
 
-VI. Vigilar las labores del personal del Consejo, exigiendo su debido cumplimiento y determinar las correcciones disciplinarias correspondientes;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-VII. Coordinar las acciones que en materia de población realicen las Dependencias y Entidades de la Administración Pública Estatal, así como los sectores social y privado;
+V. Coordinar las acciones que en materia de población realicen las Dependencias y Entidades de la Administración Pública Estatal, así como los sectores social y privado;
 
-VIII. Establecer mecanismos de coordinación con el Consejo Nacional de Población, a fin de coadyuvar en el cumplimiento de los objetivos del Programa Nacional de Población, así como para el establecimiento de canales de coordinación con los organismos e instancias nacionales en la materia;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-IX. Convocar a los Miembros del Consejo a sesiones ordinarias y extraordinarias y a los representantes de los sectores privado y social cuando así se considere conveniente;
+VI. Establecer mecanismos de coordinación con el Consejo Nacional de Población, a fin de coadyuvar en el cumplimiento de los objetivos del Programa Nacional de Población, así como para el establecimiento de canales de coordinación con los organismos e instancias nacionales en la materia;
 
-X. Participar en las reuniones ordinarias y extraordinarias de la Junta Directiva, con voz pero, sin voto;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XI. Proponer a la Junta Directiva las medidas que considere más adecuadas para el logro de los objetivos del Consejo;
+VII. Convocar previo acuerdo con el Secretario de Gobierno a los Miembros del Consejo a sesiones ordinarias y extraordinarias y a los representantes de los sectores privado y social cuando así se considere conveniente;
 
-XII. Someter a la consideración de la Junta Directiva el presupuesto correspondiente a cada ejercicio anual;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XIII. Formular, ejecutar y controlar el presupuesto del Consejo, en los términos de esta Ley y demás disposiciones legales aplicables;
+VIII. Participar en las reuniones ordinarias y extraordinarias de la Junta Directiva, con voz pero, sin voto;
 
-XIV. Rendir anualmente, en la fecha y con las formalidades que la Junta Directiva le señale, el informe general de las actividades, así como las cuentas de su administración;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XV. Rendir los informes y cuentas parciales que el Presidente del Consejo y la Junta Directiva le soliciten;
+IX. Proponer al Secretario de Gobierno y a la Junta Directiva las medidas que considere más adecuadas para el logro de los objetivos del Consejo;
 
-XVI. Suscribir los convenios de coordinación o de otra naturaleza para el cumplimiento de los objetivos del Consejo;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XVII. Proponer y promover la concertación de acciones conjuntas entre los sectores público, privado y social, a fin de coadyuvar al mejoramiento de las condiciones de bienestar de los habitantes del Estado y en especial de aquellos grupos vulnerables que en el campo o la ciudad se encuentren marginados de los beneficios del desarrollo;
+X. Rendir anualmente, en la fecha y con las formalidades que la Junta Directiva le señale, el informe general de las actividades;
 
-XVIII. Promover la coordinación y la participación activa de la sociedad en la identificación y la solución de los problemas demográficos;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XIX. Impulsar y llevar a cabo las actividades relacionadas con la política de población para estimular la participación de los agentes activos de la población, en la planeación, ejecución y evaluación de las acciones de Gobierno en la materia, como condición indispensable para garantizar la acción rectora en el área; y
+XI. Rendir los informes y cuentas parciales que el Presidente del Consejo y la Junta Directiva le soliciten;
 
-XX. En general, desempeñar las demás funciones que este ordenamiento señala, las que el reglamento de esta Ley indique, las del reglamento interior del Consejo o aquéllas que por disposiciones o acuerdos de la Junta Directiva o del Presidente del Consejo, le determinen. Para apoyar su función se integrará con las unidades administrativas y técnicas que la estructura requiera.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XII. Proponer al Secretario de Gobierno la suscripción de convenios de coordinación o de otra naturaleza para el cumplimiento de los objetivos del Consejo;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XIII. Proponer al Secretario de Gobierno y promover la concertación de acciones conjuntas entre los sectores público, privado y social, a fin de coadyuvar al mejoramiento de las condiciones de bienestar de los habitantes del Estado y en especial de aquellos grupos vulnerables que en el campo o la ciudad se encuentren marginados de los beneficios del desarrollo;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XIV. Promover la coordinación y la participación activa de la sociedad en la identificación y la solución de los problemas demográficos;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XV. Impulsar y llevar a cabo las actividades relacionadas con la política de población para estimular la participación de los agentes activos de la población, en la planeación, ejecución y evaluación de las acciones de Gobierno en la materia, como condición indispensable para garantizar la acción rectora en el área, y
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XVI. En general, desempeñar las demás funciones que este ordenamiento señala, aquéllas que por disposiciones o acuerdos de la Junta Directiva o del Presidente del Consejo le determinen.
+
+XVII.- (DEROGADA, P.O. 19 DE AGOSTO DE 2013)
+
+XVIII.- (DEROGADA, P.O. 19 DE AGOSTO DE 2013)
+
+XIX.- (DEROGADA, P.O. 19 DE AGOSTO DE 2013)
+
+XX.- (DEROGADA, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 35.
 
@@ -415,15 +481,15 @@ Los Presidentes Municipales, en su carácter de Presidentes de los Consejos de P
 
 ###### Artículo 40.
 
-El Consejo contará con el personal técnico y administrativo que requiera para sus funciones de acuerdo con el presupuesto que se le asigne.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 41.
 
-Las relaciones laborales de los empleados del Consejo, se regirán por la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo y el Reglamento de Condiciones Generales de Trabajo del Gobierno del Estado de Quintana Roo.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 42.
 
-El personal del Consejo, queda incorporado para efectos del disfrute de prestaciones y de seguridad social, al Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ## TÍTULO SÉPTIMO
 
@@ -470,3 +536,73 @@ VÍCTOR M. ALCÉRRECA SÁNCHEZ.
 EL SECRETARIO TÉCNICO DEL CONSEJO ESTATAL DE POBLACIÓN DEL ESTADO DE QUINTANA ROO
 
 LIC. RODOLFO ROMERO EUÁN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Los recursos humanos, materiales y financieros, así como los expedientes, valores y demás, asignados o pertenecientes al Comité de Planeación para el Desarrollo del Estado de Quintana Roo, serán transferidos a la Secretaría de Planeación y finanzas, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Tercero. La Secretaria de Planeación y finanzas contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la integración del Comité así como la elaboración y expedición de sus Reglas de Operación.
+
+Cuarto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad del Consejo Estatal de Población, serán transferidos a la Secretaría de Gobierno, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Quinto. La Secretaría de Gobierno, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Junta Directiva del Consejo y la elaboración y expedición de sus Reglas de Operación.
+
+Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad de la Comisión de Energía del Estado de Quintana Roo, serán transferidos a la Secretaría de Desarrollo Económico, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Séptimo. La Secretaría de Desarrollo Económico contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Comisión y la elaboración y expedición de sus Reglas de Operación.
+
+Octavo. Al entrar en vigor el presente decreto, la unidad administrativa de la Secretaría de Desarrollo Económico denominada Fondo para el Desarrollo Económico de Quintana Roo, sustituye al órgano desconcentrado con la misma denominación, por lo que todos los recursos humanos, financieros y materiales del mismo pasarán a la citada Dependencia.
+
+Noveno. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad del Instituto Forestal del Estado de Quintana Roo, serán transferidos a la Secretaría de Ecología y Medio Ambiente, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Todas las menciones al Instituto Forestal de Quintana Roo en la Ley Forestal del Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Ecología y Medio Ambiente.
+
+Décimo. Los asuntos que se encuentren en trámite en el Instituto Forestal del Estado de Quintana Roo a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+Décimo Primero. La Secretaría de Ecología y Medio Ambiente contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Segundo. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos, derechos y obligaciones contraídos y, en general todos los bienes y valores de la Comisión Estatal de Mejora Regulatoria y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de la Gestión Pública.
+
+Todas las menciones a la Comisión Estatal de Mejora Regulatoria en la Ley de Mejora Regulatoria para el Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de la Gestión Pública.
+
+Décimo Tercero. Los asuntos que se encuentren en trámite en la Comisión Estatal de Mejora Regulatoria a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presento el asunto.
+
+Décimo Cuarto. Los derechos laborales del personal de la Comisión Estatal de Mejora Regulatoria se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de la Gestión Pública.
+
+Décimo Quinto. La Secretaría de la Gestión Pública contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad de la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, se transfieren a la Secretaría de Desarrollo Social e Indígena.
+
+La Secretaría de Desarrollo Social e Indígena se subroga en los derechos y obligaciones contraídos por la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo.
+
+Cualquier referencia a la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, en otras disposiciones normativas, se entenderá hecha a la Secretaría de Desarrollo Social e Indígena.
+
+Décimo Séptimo. El Titular del Poder Ejecutivo, en un término que no exceda de sesenta días naturales, deberá conformar la estructura orgánica de la Secretaría de Desarrollo Social e Indígena, de conformidad a las disposiciones del presente Decreto.
+
+Décimo Octavo. El Titular del Poder Ejecutivo deberá disponer que el contenido del artículo Séptimo del presente Decreto se traduzca en lengua maya y ordenará su difusión en las comunidades indígenas del Estado.
+
+Décimo Noveno. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos y, en general todos los bienes y valores del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de Desarrollo Urbano y Vivienda, quien tendrá la administración y disposición plena de dichos bienes y recursos.
+
+Todas las menciones al Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo. Se reconoce plena validez a los documentos, actos y contratos legalmente expedidos o realizados con base en laLey (sic) del Instituto de Fomento (sic) la Vivienda y Regularización del Estado de Quintana Roo que se abroga.
+
+De igual manera las operaciones crediticias que se hubieren efectuado con anterioridad a la entrada en vigor de este Decreto, seguirán rigiéndose por los términos del contrato respectivo y las disposiciones legales aplicables.
+
+Vigésimo Primero. Los asuntos que se encuentren en trámite en el Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado a la entrada en vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+En tanto no se modifiquen las disposiciones reglamentarias aplicables al Instituto de Fomento a la Vivienda y Regularización de la Propiedad, en lo que no se opongan a este Decreto, seguirán aplicándose los ordenamientos reglamentarios y administrativos vigentes a la fecha de entrada en vigor del presente Decreto.
+
+Vigésimo Segundo. Los derechos laborales del personal del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo Tercero. El Titular del Poder Ejecutivo, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la modificación de la estructura orgánica.
+
+Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, el Gobierno del Estado y los organismos descentralizados deberán coordinarse y tomar las providencias necesarias para la debida incorporación de un representante de la Oficialía Mayor y de un representante de la Secretaría de Planeación y Finanzas en sus órganos de gobierno.
+
+Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
+
+Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
