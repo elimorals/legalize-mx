@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-planeacion-para-el-desarrollo-del-estado-de-quintana-552
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-30"
-last_updated: "2007-03-30"
+last_updated: "2013-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
+LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL NOVENO, DÉCIMO SEGUNDO, DÉCIMO SEXTO Y DÉCIMO NOVENO TRANSITORIOS DEL DECRETO NÚMERO 306 DE REFORMAS PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2013, TODAS LAS MENCIONES O REFERENCIAS QUE SE HAGAN AL INSTITUTO FORESTAL DE QUINTANA ROO; A LA COMISIÓN ESTATAL DE MEJORA REGULATORIA; A LA COMISIÓN PARA EL DESARROLLO DE LA ETNIA MAYA Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUINTANA ROO, Y AL INSTITUTO DE FOMENTO A LA VIVIENDA Y REGULARIZACIÓN DE LA PROPIEDAD DEL ESTADO, SE ENTENDERÁN HECHAS A LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE; A LA SECRETARÍA DE LA GESTIÓN PÚBLICA; A LA SECRETARÍA DE DESARROLLO SOCIAL E INDÍGENA, Y A LA SECRETARÍA DE DESARROLLO URBANO Y VIVIENDA RESPECTIVAMENTE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de marzo de 2007.
 
@@ -93,15 +95,19 @@ XI. Programas. Los Programas Regionales, Sectoriales, Institucionales, Especiale
 
 XII. Registro Estatal. El Registro de Planes y Programas de Desarrollo del Estado de Quintana Roo;
 
-XIII. Secretaría. La Secretaría de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XIII. Secretaría: La Secretaría de Planeación y finanzas;
 
 XIV. Sistema de Información. El Sistema de Información para la Planeación del Desarrollo del Estado de Quintana Roo; y
 
 XV. Sistema Estatal. El Sistema de Planeación Democrática del Estado de Quintana Roo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 4.
 
-En el ámbito estatal y para efectos administrativos, en los casos de duda sobre la interpretación de las disposiciones de esta Ley y su Reglamento, se estará a lo que resuelva el Poder Ejecutivo por conducto de la Secretaría, con la participación en su caso, del Director General del COPLADE. En el ámbito Municipal se estará a lo que resuelva el Ayuntamiento del que se trate, con la participación, en su caso, del titular de su respectivo COPLADEMUN.
+En el ámbito Estatal y para efectos administrativos, en los casos de duda sobre la interpretación de las disposiciones de esta Ley y su Reglamento, se estará a lo que resuelva el Poder Ejecutivo por conducto de la Secretaría. En el ámbito municipal se estará a lo que resuelva el Ayuntamiento del que se trate, con la participación, en su caso, del Titular de su respectivo COPLADEMUN.
 
 En todo lo no previsto expresamente por esta ley y su reglamento, se aplicará supletoriamente la Ley de Planeación.
 
@@ -403,7 +409,9 @@ II. Definir las políticas y directrices de la planeación para el desarrollo de
 
 III. Aprobar y ordenar la publicación y divulgación del Plan Estatal en los términos previstos en la presente Ley y presentarlo al Congreso para los efectos que señala el artículo 11 de la presente ley;
 
-IV. Aplicar las medidas disciplinarias en el ámbito de su competencia, a quien viole la presente Ley o no cumpla con los planes y programas señalados en la misma, a través de la Secretaría de la Contraloría; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+IV. Aplicar las medidas disciplinarias en el ámbito de su competencia, a quien viole la presente Ley o no cumpla con los planes y programas señalados en la misma, a través de la Secretaría de la Gestión Pública, y
 
 V. Las demás que le confieran esta Ley, otras leyes y ordenamientos aplicables en la materia.
 
@@ -461,21 +469,25 @@ Apartado Primero
 
 Del COPLADE, su naturaleza, integración y atribuciones
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 29.
 
-El COPLADE es el organismo descentralizado con personalidad jurídica y patrimonio propio sectorizado a la Secretaría y sus atribuciones estarán en el Decreto de Creación respectivo.
+El COPLADE es un organismo de carácter técnico y consultivo, dependiente de la Secretaría, cuyo objeto consiste en participar, coordinar, promover y coadyuvar en la formulación, instrumentación, control, seguimiento y evaluación de la planeación en el Estado de Quintana Roo.
 
-Asimismo, para el óptimo desempeño de sus funciones, el COPLADE se apoyará por Subcomités Regionales, Sectoriales, Institucionales y Especiales, de los cuales, su integración, organización y funcionamiento se regularán en el Decreto de Creación respectivo.
+Para el desempeño de sus funciones, el COPLADE se apoyará en Subcomités Regionales, Sectoriales, Institucionales y Especiales, cuya integración, organización y funcionamiento se regularán en las Reglas de Operación que al efecto se emitan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 30.
 
-La Comisión Permanente del COPLADE estará integrado por:
+El COPLADE estará integrado por:
 
 l. El Titular del Poder Ejecutivo, quien lo presidirá;
 
 II. El Titular de la Secretaría;
 
-III. El Titular de la Secretaría de Hacienda;
+III. (DEROGADA, P.O. 19 DE AGOSTO DE 2013)
 
 IV. Los Titulares de las Dependencias y Entidades de la Administración Pública Estatal; y
 
@@ -494,6 +506,14 @@ IX. Los Titulares de las Comisiones donde participen los sectores público, soci
 X. Los particulares, organismos, instituciones y representantes del sector social y privado, en términos de lo dispuesto en el artículo 24 fracción IV de esta Ley; y
 
 XI. Los demás que considere el Titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+Contará con un Director Operativo que será el responsable de llevar a cabo todos los compromisos y obligaciones derivados de la coordinación de las actividades de la planeación estatal de desarrollo.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+Para los efectos referidos en el párrafo que antecede, su Director Operativo tendrá las facultades que se determine en las Reglas de Operación, como instrumento normativo de las actividades de dicho organismo.
 
 ###### Artículo 31.
 
@@ -543,7 +563,9 @@ VI. Las demás que le confieran esta Ley, otras leyes y ordenamientos aplicables
 
 Las atribuciones de la Secretaría dentro del COPLADE, se ejercerán a través de su titular y serán las siguientes:
 
-l. Coadyuvar en la formulación e integración del Plan Estatal y de los programas que de éste se deriven y presentarlos al Titular del Poder Ejecutivo para su aprobación;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+I. Participar en la formulación e integración del Plan Estatal y de los Programas que de éste se deriven y presentarlos al Titular del Poder Ejecutivo para su aprobación;
 
 II. Verificar el cumplimiento de los objetivos y prioridades del Plan Estatal y de los programas que de él se deriven;
 
@@ -551,7 +573,9 @@ III. Establecer los lineamientos para la formulación del Plan Estatal y de los 
 
 IV. Realizar el análisis e integración de la información para la evaluación del Plan Estatal y sus programas;
 
-V. Evaluar el impacto de las inversiones en el desarrollo social y económico en el Estado, en su relación con los objetivos del Plan Estatal y de los programas;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+V. Proyectar y calcular los ingresos del Estado, considerando las necesidades de recursos y utilización del crédito público para la ejecución del Plan Estatal y de los Programas así como evaluar el impacto de las inversiones en el desarrollo social y económico en el Estado, en su relación con los objetivos del Plan Estatal y de los Programas;
 
 VI. Elaborar y actualizar, con base en las propuestas de las dependencias estatales, los indicadores para la planeación que sirva de base para la evaluación del Plan Estatal y los programas;
 
@@ -563,25 +587,17 @@ IX. Vigilar el cumplimiento de las disposiciones normativas en materia de planea
 
 X. Promover y signar convenios de coordinación con los Gobiernos Federal y Municipal, así como convenios de concertación con los particulares, organismos, instituciones y representantes del sector social y privado, a fin de procurar el cumplimiento de los objetivos y metas de desarrollo estatal; y
 
-XI. Las demás que le confieran esta Ley, otras leyes y ordenamientos aplicables en la materia.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XI. Considerar los efectos de la política financiera, fiscal y crediticia, así como de los precios y tarifas de los bienes y servicios públicos proporcionados por la Administración Pública Estatal, para el logro de los objetivos y prioridades del Plan Estatal y los Programas, y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XII. Las demás que le confieran esta Ley, otras leyes y ordenamientos aplicables en la materia.
 
 ###### Artículo 34.
 
-Las atribuciones de la Secretaría de Hacienda dentro del COPLADE, se ejercerán a través de su titular y serán las siguientes:
-
-l. Participar en la formulación del Plan Estatal respecto de la definición de las políticas financieras, fiscales y crediticias del Estado y su congruencia con las políticas establecidas por la Federación;
-
-II. Proyectar y calcular los ingresos del Estado, considerando las necesidades de recursos y utilización del crédito público para la ejecución del Plan Estatal y de los programas;
-
-III. Revisar que las operaciones en que se haga uso del crédito público, se apeguen al cumplimiento de los objetivos y prioridades del Plan Estatal y de los programas;
-
-IV. Considerar los efectos de la política financiera, fiscal y crediticia, así como de los precios y tarifas de los bienes y servicios públicos proporcionados por la Administración Pública Estatal, para el logro de los objetivos y prioridades del Plan Estatal y los programas;
-
-V. Estimar y dar a conocer a la Secretaría el monto global y la calendarización provisional del presupuesto de cada ejercicio fiscal, a fin de posibilitar sus atribuciones que en materia de programación realice a través del COPLADE;
-
-VI. Proporcionar la información al COPLADE sobre el ejercicio de los presupuestos asignados a las Dependencias y Entidades de la Administración Pública Estatal, a efecto de que esté en posibilidades de llevar a cabo la evaluación de los resultados de la ejecución del Plan Estatal y de los programas; y
-
-VII. Las demás que le confieran esta Ley, otras leyes y ordenamientos aplicables en la materia.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
 ###### Artículo 35.
 
@@ -955,9 +971,11 @@ Para la ejecución de los Planes Estatal y Municipales y sus respectivos program
 
 Estos programas operativos anuales, deberán ser congruentes entre sí y tomar en cuenta las medidas para coadyuvar al cumplimiento de los objetivos y prioridades de los planes estatal y municipales y los programas establecidos en esta Ley, regirán las actividades de las autoridades y órganos responsables de la planeación y servirán de base para la integración de los anteproyectos de presupuesto anuales, que las propias autoridades deberán elaborar conforme a la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 62.
 
-La definición de los lineamientos para la formulación de los Programas Operativos Anuales, así como su revisión, serán responsabilidad de la Secretaría de Hacienda cuando se trate de Programas Estatales y, en caso del Municipio, ésta responsabilidad será del Tesorero.
+La definición de los lineamientos para la formulación de los Programas Operativos Anuales, así como su revisión, serán responsabilidad de la Secretaría cuando se trate de Programas Estatales y, en caso del Municipio, ésta responsabilidad será del Tesorero.
 
 ###### Artículo 63.
 
@@ -1077,17 +1095,21 @@ Para los Órganos Autónomos, el plazo para la formulación de sus respectivos p
 
 La Instrumentación, es el conjunto de actividades encaminadas a la formulación y ejecución de los programas operativos en el plazo de un año, en los que los lineamientos, estrategias, líneas de acción y objetivos de corto, mediano y largo plazo establecidos en los Planes Estatal y Municipales y sus programas respectivos, se expresan en términos de objetivos específicos; precisando los mecanismos y acciones que habrán de ponerse en práctica en cada ejercicio, los indicadores estratégicos de evaluación, los recursos que con tal propósito se asignarán a la realización de cada acción prevista; así como la determinación de responsables y tiempos de ejecución.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 82.
 
-Las Dependencias y Entidades de la Administración Pública Estatal que elaboren los programas operativos anuales, deberán turnarlos a la Secretaría para validar su compatibilidad con el Plan Estatal y sus programas respectivos, una vez validada la compatibilidad de referencia, esta última lo remitirá al Titular del Poder Ejecutivo para su aprobación, quien una vez hecho lo anterior, los presentará ante la Secretaría de Hacienda para que ésta los integre al proyecto de Presupuesto Anual que deberá presentarse ante el Congreso, en términos de la legislación aplicable a la materia.
+Las Dependencias y Entidades de la Administración Pública Estatal que elaboren los programas operativos anuales, deberán turnarlos a la Secretaría para validar su compatibilidad con el Plan Estatal y sus programas respectivos, una vez validada la compatibilidad de referencia, los integrará al proyecto de Presupuesto Anual que deberá presentarse ante el Congreso, en términos de la legislación aplicable a la materia.
 
 ###### Artículo 83.
 
 Las Dependencias y Entidades de la Administración Pública Municipal que elaboren los programas operativos anuales, deberán turnarlos al Presidente Municipal para validar su compatibilidad con el Plan Municipal y sus programas respectivos, una vez validada la compatibilidad de referencia, este último lo remitirá al Ayuntamiento para su aprobación e integración al proyecto de presupuesto anual correspondiente, en términos de la legislación aplicable a la materia.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 84.
 
-En el caso de los Órganos Autónomos, una vez elaborados sus programas operativos anuales por sus Unidades Administrativas de Planeación, deberán turnarlos a sus respectivos Órganos de Control Interno para su validación, los cuales una vez hecho lo anterior, los regresarán a sus autoridades representantes, para que los presenten ante la Secretaría de Hacienda y ésta los integre al proyecto de Presupuesto Anual que deberá presentarse ante el Congreso, en términos de la legislación aplicable a la materia.
+En el caso de los Órganos Autónomos, una vez elaborados sus programas operativos anuales por sus Unidades Administrativas de Planeación, deberán turnarlos a sus respectivos Órganos de Control Interno para su validación, los cuales una vez hecho lo anterior, los regresarán a sus autoridades representantes, para que los presenten ante la Secretaríay (sic) ésta los integre al proyecto de Presupuesto Anual que deberá presentarse ante el Congreso, en términos de la legislación aplicable a la materia.
 
 ###### Artículo 85.
 
@@ -1536,3 +1558,73 @@ ROSARIO ORTIZ YELADAQUI
 SECRETARIO DE SEPLADER.
 
 LIC. JOSÉ ALBERTO ALONZO OVANDO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Los recursos humanos, materiales y financieros, así como los expedientes, valores y demás, asignados o pertenecientes al Comité de Planeación para el Desarrollo del Estado de Quintana Roo, serán transferidos a la Secretaría de Planeación y finanzas, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Tercero. La Secretaria de Planeación y finanzas contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la integración del Comité así como la elaboración y expedición de sus Reglas de Operación.
+
+Cuarto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad del Consejo Estatal de Población, serán transferidos a la Secretaría de Gobierno, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Quinto. La Secretaría de Gobierno, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Junta Directiva del Consejo y la elaboración y expedición de sus Reglas de Operación.
+
+Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad de la Comisión de Energía del Estado de Quintana Roo, serán transferidos a la Secretaría de Desarrollo Económico, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Séptimo. La Secretaría de Desarrollo Económico contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Comisión y la elaboración y expedición de sus Reglas de Operación.
+
+Octavo. Al entrar en vigor el presente decreto, la unidad administrativa de la Secretaría de Desarrollo Económico denominada Fondo para el Desarrollo Económico de Quintana Roo, sustituye al órgano desconcentrado con la misma denominación, por lo que todos los recursos humanos, financieros y materiales del mismo pasarán a la citada Dependencia.
+
+Noveno. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad del Instituto Forestal del Estado de Quintana Roo, serán transferidos a la Secretaría de Ecología y Medio Ambiente, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Todas las menciones al Instituto Forestal de Quintana Roo en la Ley Forestal del Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Ecología y Medio Ambiente.
+
+Décimo. Los asuntos que se encuentren en trámite en el Instituto Forestal del Estado de Quintana Roo a la entrada vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+Décimo Primero. La Secretaría de Ecología y Medio Ambiente contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Segundo. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos, derechos y obligaciones contraídos y, en general todos los bienes y valores de la Comisión Estatal de Mejora Regulatoria y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de la Gestión Pública.
+
+Todas las menciones a la Comisión Estatal de Mejora Regulatoria en la Ley de Mejora Regulatoria para el Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de la Gestión Pública.
+
+Décimo Tercero. Los asuntos que se encuentren en trámite en la Comisión Estatal de Mejora Regulatoria a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presento el asunto.
+
+Décimo Cuarto. Los derechos laborales del personal de la Comisión Estatal de Mejora Regulatoria se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de la Gestión Pública.
+
+Décimo Quinto. La Secretaría de la Gestión Pública contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad de la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, se transfieren a la Secretaría de Desarrollo Social e Indígena.
+
+La Secretaría de Desarrollo Social e Indígena se subroga en los derechos y obligaciones contraídos por la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo.
+
+Cualquier referencia a la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, en otras disposiciones normativas, se entenderá hecha a la Secretaría de Desarrollo Social e Indígena.
+
+Décimo Séptimo. El Titular del Poder Ejecutivo, en un término que no exceda de sesenta días naturales, deberá conformar la estructura orgánica de la Secretaría de Desarrollo Social e Indígena, de conformidad a las disposiciones del presente Decreto.
+
+Décimo Octavo. El Titular del Poder Ejecutivo deberá disponer que el contenido del artículo Séptimo del presente Decreto se traduzca en lengua maya y ordenará su difusión en las comunidades indígenas del Estado.
+
+Décimo Noveno. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos y, en general todos los bienes y valores del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de Desarrollo Urbano y Vivienda, quien tendrá la administración y disposición plena de dichos bienes y recursos.
+
+Todas las menciones al Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo. Se reconoce plena validez a los documentos, actos y contratos legalmente expedidos o realizados con base en laLey (sic) del Instituto de Fomento la Vivienda y Regularización del Estado de Quintana Roo que se abroga.
+
+De igual manera las operaciones crediticias que se hubieren efectuado con anterioridad a la entrada en vigor de este Decreto, seguirán rigiéndose por los términos del contrato respectivo y las disposiciones legales aplicables.
+
+Vigésimo Primero. Los asuntos que se encuentren en trámite en el Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado a la entrada en vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+En tanto no se modifiquen las disposiciones reglamentarias aplicables al Instituto de Fomento a la Vivienda y Regularización de la Propiedad, en lo que no se opongan a este Decreto, seguirán aplicándose los ordenamientos reglamentarios y administrativos vigentes a la fecha de entrada en vigor del presente Decreto.
+
+Vigésimo Segundo. Los derechos laborales del personal del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo Tercero. El Titular del Poder Ejecutivo, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la modificación de la estructura orgánica.
+
+Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, el Gobierno del Estado y los organismos descentralizados deberán coordinarse y tomar las providencias necesarias para la debida incorporación de un representante de la Oficialía Mayor y de un representante de la Secretaría de Planeación y Finanzas en sus órganos de gobierno.
+
+Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
+
+Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
