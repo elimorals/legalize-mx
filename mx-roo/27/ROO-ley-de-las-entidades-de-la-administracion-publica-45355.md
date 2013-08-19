@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-las-entidades-de-la-administracion-publica-45355"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-22"
-last_updated: "2003-01-22"
+last_updated: "2013-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO
 
-LEY DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO
+LEY DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Ley publicada en el Número 4 Extraordinario Bis del Periódico Oficial del Estado de Quintana Roo, el 22 de enero de 2003.
 
@@ -45,7 +45,9 @@ LEY DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QU
 
 La presente Ley, reglamentaria en lo conducente del Artículo 92 de la Constitución Política del Estado de Quintana Roo, tiene por objeto regular la organización, funcionamiento y control de las entidades paraestatales de la Administración Pública del Estado de Quintana Roo.
 
-Las relaciones del Ejecutivo del Estado o de sus dependencias, con las entidades paraestatales, en cuanto unidades auxiliares de la Administración Pública Estatal, se sujetarán, en primer término, a la ley o decreto que los crea y en lo no previsto por éstos, se estará a la presente Ley o sus disposiciones reglamentarias y, sólo en lo no previsto por estas últimas, a otras disposiciones según la materia que corresponda.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+Las relaciones del Ejecutivo del Estado o de sus dependencias, con las entidades paraestatales, en cuanto unidades auxiliares de la Administración Pública Estatal, se sujetarán, en primer término, a la ley o decreto que los crea y en lo no previsto por éstos, se estará a la presente Ley o sus disposiciones reglamentarias y, sólo en lo no previsto por estas últimas, a otras disposiciones según la materia que corresponda. Lodispuesto (sic) en este párrafo se aplicará sin perjuicio de lo prevenido en los párrafos primero y segundo del artículo 13 y en la fracción V y el último párrafo del artículo 22 de esta Ley.
 
 ###### Artículo 2.
 
@@ -81,7 +83,9 @@ Las empresas de participación estatal minoritaria serán aquellas que no cumpla
 
 Los fideicomisos públicos son los que el Gobierno del Estado o alguna de las demás entidades paraestatales constituyen con el propósito de auxiliar al Ejecutivo del Estado para impulsar las áreas prioritarias del desarrollo contempladas en el Plan Nacional de Desarrollo y en el Plan Estatal de Desarrollo.
 
-En los fideicomisos constituidos por el Estado, la Secretaría de Hacienda fungirá como fideicomitente único de la Administración Pública Centralizada.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+En los fideicomisos constituidos por el Estado, la Secretaría de Planeación y Finanzas fungirá como fideicomitente único de la Administración Centralizada.
 
 ###### Artículo 8.
 
@@ -99,6 +103,10 @@ Las entidades paraestatales se seguirán rigiendo por sus leyes o decretos espec
 
 Aquellas entidades que además de órganos de gobierno, dirección general y órgano de vigilancia cuenten con patronatos, comisiones ejecutivas o sus equivalentes, se seguirán rigiendo en cuanto a estos órganos especiales de acuerdo a sus leyes u ordenamientos relativos.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+Lo dispuesto en este artículo será aplicable, sin perjuicio de lo dispuesto en los párrafos primero y segundo del artículo 13 y en la fracción V y el último párrafo del artículo 22 de esta Ley.
+
 ###### Artículo 11.
 
 El Gobernador del Estado agrupará a las entidades paraestatales en sectores definidos considerando el objeto de cada una de ellas en relación con la esfera de competencia que las leyes atribuyen a las dependencias del Ejecutivo.
@@ -109,9 +117,11 @@ La intervención que conforme a las leyes corresponde al Ejecutivo en la operaci
 
 Los representantes del Ejecutivo del Estado en las entidades paraestatales tienen la obligación de velar por los intereses de éste, y conocer la operación de la entidad en que colaboran y participar en los órganos de gobierno, conforme a lo dispuesto en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 13.
 
-La Secretaría de Planeación y Desarrollo Regional, las Secretarías de Hacienda o de la Contraloría, u otras dependencias o entidades de la Administración Pública Estatal, podrán participar con miembros en los órganos de gobierno de las entidades paraestatales, incluyendo los comités técnicos de los fideicomisos públicos.
+Las dependencias o entidades de la Administración Pública Estatal o paraestatal podrán participar como miembros en los órganos de gobierno de las entidades paraestatales, incluyendo los comités técnicos de los fideicomisos públicos; un representante de la Oficialía Mayor y un representante de la Secretaría de Planeación y finanzas deberán participar como miembros de tales órganos de gobierno sin excepción alguna por disposición de esta Ley, aún y cuando no se prevenga en la Ley, decreto o estatuto que cree la entidad paraestatal.
 
 La participación a que se refiere el párrafo anterior, se dará sólo si así lo dispone de manera particular la presente Ley, o bien la ley, decreto o estatuto que cree la entidad paraestatal de que se trate.
 
@@ -127,13 +137,17 @@ Los organismos descentralizados, empresas de participación estatal mayoritaria 
 
 Los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos gozarán de autonomía de gestión para el cabal cumplimiento de su objeto y de los objetivos y metas señalados en sus programas. Al efecto, contarán con una administración ágil y eficiente y se sujetarán a los sistemas de control establecidos en la presente Ley y, en lo que no se oponga a ésta, a los demás que se relacionen con la Administración Pública del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 16.
 
-La Secretaría de Hacienda publicará anualmente en el Periódico Oficial, la relación de las entidades paraestatales que formen parte del Poder Ejecutivo del Estado. Dicha publicación deberá hacerse en los primeros quince días del mes de enero.
+La Secretaría de Planeación y Finanzas publicará anualmente en el Periódico Oficial, la relación de las entidades paraestatales que formen parte del Poder Ejecutivo del Estado. Dicha publicación deberá hacerse en los primeros quince días del mes de enero.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 17.
 
-Con el objeto de perfeccionar el orden administrativo y la certeza jurídica se crea el Registro Público de Entidades Paraestatales del Estado de Quintana Roo, que llevará la Secretaría de Hacienda.
+Con el objeto de perfeccionar el orden administrativo y la certeza jurídica se crea el Registro Público de Entidades Paraestatales del Estado de Quintana Roo, que llevará (sic) Secretaría de Planeación y Finanzas.
 
 Los directores generales o quienes realicen funciones similares en las entidades paraestatales, que no soliciten la inscripción en el Registro Público de Entidades Paraestatales dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de las leyes de la materia.
 
@@ -183,7 +197,9 @@ III. El objeto del organismo.
 
 IV. Las aportaciones y fuentes de recursos para integrar su patrimonio, así como aquellas que se determinen para su incremento.
 
-V. La manera de integrar el órgano de gobierno y de designar al director general.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+V. La manera de integrar el órgano de gobierno y de designar al director general, en todo caso deberá señalarse como integrantes de dicho órgano un representante de la Oficialía Mayor y un representante de la Secretaría de Planeación y Finanzas;
 
 VI. Las facultades y obligaciones del órgano de gobierno, señalando cuales de dichas facultades son indelegables.
 
@@ -199,9 +215,15 @@ El estatuto orgánico deberá inscribirse en el Registro Público de Organismos 
 
 En la extinción de los organismos descentralizados deberán observarse las mismas formalidades establecidas para su creación, debiendo la ley o decreto respectivo fijar la forma y términos de su extinción y liquidación.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+Cuando no se disponga la integración de un representante de la Oficialía Mayor y de un representante de la Secretaría de Planeación y Finanzas en los órganos de Gobierno, estos se integrarán por disposición de Ley en términos de lo dispuesto en el primer párrafo del artículo 13 del presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 23.
 
-Cuando algún organismo descentralizado deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Hacienda y la Secretaría de Planeación y Desarrollo Regional, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, propondrán al Ejecutivo del Estado la disolución, liquidación o extinción de aquél. Asimismo, podrá proponer su fusión cuando su actividad combinada redunde en un incremento de eficiencia y productividad. El mismo criterio se seguirá en caso de comprobarse la conveniencia de transferir un organismo descentralizado al ámbito de competencia municipal o privado.
+Cuando algún organismo descentralizado deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Planeación y Finanzas, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, propondrán al Ejecutivo del Estado la disolución, liquidación o extinción de aquél. Asimismo, podrá proponer su fusión cuando su actividad combinada redunde en un incremento de eficiencia y productividad. El mismo criterio se seguirá en caso de comprobarse la conveniencia de transferir un organismo descentralizado al ámbito de competencia municipal o privado.
 
 ###### Artículo 24.
 
@@ -273,9 +295,11 @@ Para acreditar la personalidad y facultades de los miembros del órgano de gobie
 
 ### CAPITULO III. REGISTRO PÚBLICO DE ORGANISMOS DESCENTRALIZADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 31.
 
-Los organismos descentralizados deberán inscribirse en el Registro Público respectivo que llevará la Secretaría de Hacienda.
+Los organismos descentralizados deberán inscribirse en el Registro Público respectivo que llevará la Secretaría de Planeación y Finanzas.
 
 Los directores generales o quienes realicen funciones similares en los organismos descentralizados, que no solicitaren las (sic) inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
@@ -291,7 +315,9 @@ III. Los nombramientos y sustituciones del director general y en su caso, de los
 
 IV. Los poderes generales y sus revocaciones o modificaciones.
 
-V. El acuerdo de la Secretaría de Hacienda, de la dependencia coordinadora del sector, en su caso, que señale las bases de la fusión, extinción o liquidación de conformidad con las leyes o decreto que ordenen las mismas, y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+V. El acuerdo de la Secretaría de Planeación y Finanzas, de la dependencia coordinadora del sector, en su caso, que señale las bases de la fusión, extinción o liquidación de conformidad con las leyes o decreto que ordenen las mismas, y
 
 VI. Los demás documentos o actos que determine el reglamento de este ordenamiento.
 
@@ -369,7 +395,9 @@ Para la designación, competencia, facultades, operación y responsabilidades de
 
 La fusión o disolución de las empresas de participación estatal mayoritaria se efectuará conforme a los lineamientos o disposiciones establecidas en los estatutos de la empresa y legislación correspondiente.
 
-La dependencia coordinadora del sector al que corresponda la empresa, en lo que no se ponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Secretaría de Hacienda, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales y, los derechos laborales de los servidores públicos de la empresa.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+La dependencia coordinadora del sector al que corresponda la empresa, en lo que no se ponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Secretaría de Planeación y Finanzas, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales y, los derechos laborales de los servidores públicos de la empresa.
 
 ### CAPITULO V. DE LOS FIDEICOMISOS PÚBLICOS
 
@@ -381,9 +409,11 @@ Los comités técnicos y los directores generales de los fideicomisos públicos 
 
 La extinción de los fideicomisos se formalizará mediante la firma del convenio correspondiente y su publicación en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 48.
 
-A través de la Secretaría de Hacienda, quien será el fideicomitente único de la Administración Pública Estatal Centralizada, cuidarán que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso, al comité técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior.
+A través de la Secretaría de Planeación y Finanzas, quien será el fideicomitente único de la Administración Pública Estatal Centralizada, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso, al comité técnico, el cual deberá existir obligatoriamente en los fideicomisos a que se refiere el artículo anterior.
 
 ###### Artículo 49.
 
@@ -415,7 +445,9 @@ IV. Los rasgos más destacados de su organización para la producción o distrib
 
 Los planes operativos de las entidades paraestatales, guardarán congruencia con el Plan Estatal de Desarrollo y los programas sectoriales.
 
-Aquellas que financieramente operen exclusiva o mayoritariamente con fondos públicos, se sujetarán además a la Ley de Planeación, a la Ley de Deuda Pública, a la Ley de Presupuesto, Contabilidad y Gasto Público y, a las asignaciones de gasto y financiamiento autorizadas. Estas entidades formularán sus programas de desarrollo a corto, mediano y largo plazos, los que serán definidos por la Secretaría de Hacienda en cuanto a la duración de dichos plazos.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+Aquellas que financieramente operen exclusiva o mayoritariamente con fondos públicos, se sujetarán además a la Ley de Planeación, a la Ley de Deuda Pública, a la Ley de Presupuesto, Contabilidad y Gasto Público y, a las asignaciones de gasto y financiamiento autorizadas. Estas entidades formularán sus programas de desarrollo a corto, mediano y largo plazos, los que serán definidos por la Secretaría de Planeación y Finanzas en cuanto a la duración de dichos plazos.
 
 ###### Artículo 53.
 
@@ -425,27 +457,37 @@ El programa institucional constituye la asunción de compromisos en términos de
 
 Los presupuestos de las entidades que cuenten con programas institucionales, deberán contener la descripción detallada de objetivos y metas, unidades responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 55.
 
-En la formulación de sus presupuestos, las entidades paraestatales con excepción de las empresas de participación estatal minoritaria, se sujetarán a los lineamientos generales que en materia de gasto establezca la Secretaría de Hacienda, así como a los lineamientos específicos que defina la coordinadora de sector. En el caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
+En la formulación de sus presupuestos, las entidades paraestatales con excepción de las empresas de participación estatal minoritaria, se sujetarán a los lineamientos generales que en materia de gasto establezca la Secretaría de Planeación y Finanzas, así como a los lineamientos específicos que defina la coordinadora de sector. En el caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 56.
 
-Para la celebración de cualquier clase de convenio o contrato que comprometa los recursos de la entidad paraestatal o del Estado por parte de la entidad, con excepción de las empresas de participación estatal minoritaria, deberá contarse con la autorización expresa de la Secretaría de Hacienda.
+Para celebración de cualquier clase de convenio o contrato que comprometa los recursos de la entidad paraestatal o del Estado por parte de la entidad, con excepción de las empresas de participación estatal minoritaria, deberá contarse con la autorización expresa de la Secretaría de Planeación y Finanzas.
 
 Para el caso de empresa de participación estatal minoritaria, sólo se requerirá de la autorización a que alude el párrafo anterior cuando la operación implique la disminución de la participación del Estado en la constitución de la sociedad de que se trate o, la aplicación de recursos de origen federal, estatal o municipal.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 57.
 
-La entidad paraestatal manejará y erogará sus recursos propios por medio de sus órganos. Por lo que toca a la percepción de subsidios y transferencias, con excepción de las empresas de participación estatal minoritaria, se recibirá de la Secretaría de Hacienda en los términos que se fijen en el presupuesto de egresos anual, debiendo manejarlos y administrarlos por sus propios órganos, sujetándose a los controles e informes respectivos de conformidad con la legislación aplicable.
+La entidad paraestatal manejará y erogará sus recursos propios por medio de sus órganos. Por lo que toca a la percepción de subsidios y transferencias, con excepción de las empresas de participación estatal minoritaria, se recibirá de la Secretaría de Planeación y Finanzas en los términos que se fijen en el presupuesto de egresos anual, debiendo manejarlos y administrarlos por sus propios órganos, sujetándose a los controles e informes respectivos de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 58.
 
-Los programas financieros de las entidades paraestatales, con excepción de las empresas de participación estatal minoritaria, deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Hacienda y deberán expresar los fondos propios, aportaciones de capital, contratación de créditos, así como el apoyo financiero que pueda obtenerse de los proveedores de insumos y servicios de los suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales debe ejecutarse el mismo en cuanto a montos, costos, plazos de los proveedores y avales que en su caso, condicionen el apoyo financiero que pueda obtenerse de los proveedores de insumos y servicios y de los suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales debe ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso, condicionen el apoyo.
+Los programas financieros de las entidades paraestatales, con excepción de las empresas de participación estatal minoritaria, deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Planeación y Finanzas y deberán expresar los fondos propios, aportaciones de capital, contratación de créditos, así como el apoyo financiero que pueda obtenerse de los proveedores de insumos y servicios de los suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales debe ejecutarse el mismo en cuanto a montos, costos, plazos de los proveedores y avales que en su caso, condicionen el apoyo financiero que pueda obtenerse de los proveedores de insumos y servicios y de los suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales debe ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso, condicionen el apoyo.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 59.
 
-El director de la entidad paraestatal someterá, en su caso, el programa financiero para su autorización al órgano colegiado de gobierno y una vez aprobado por éste se remitirá a la Secretaría de Hacienda para su inclusión en el proyecto de Presupuesto de Egresos que cada año se envía a la Legislatura del Estado.
+El director de la entidad paraestatal someterá, en su caso, el programa financiero para su autorización al órgano colegiado de gobierno y una vez aprobado por éste se remitirá a la Secretaría de Planeación y Finanzas para su inclusión en el proyecto de Presupuesto de Egresos que cada año se envía a la Legislatura del Estado.
 
 ###### Artículo 60.
 
@@ -485,19 +527,25 @@ VIII. Aprobar la estructura básica de la organización de la entidad paraestata
 
 IX. Expedir el reglamento interior tratándose de organismos descentralizados.
 
-X. Proponer al Ejecutivo por conducto de la Secretaría de Hacienda, los convenios de fusión con otras entidades.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+X. Proponer al Ejecutivo por conducto de la Secretaría de Planeación y Finanzas, los convenios de fusión con otras entidades;
 
 XI. Autorizar la creación de comités de apoyo.
 
 XII. Nombrar y remover a propuesta del director general, en todo aquello que no contravenga a la Ley, reglamento, decreto o acuerdo de creación, a los servidores públicos de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél y, aprobar la fijación de suelos y prestaciones, así como el concederles licencias.
 
-XIII. Aprobar la constitución de reservas y aplicación de las utilidades en espera del destino que determine el Ejecutivo a través de la Secretaría de Hacienda.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XIII. Aprobar la constitución de reservas y aplicación de las utilidades en espera del destino que determine el Ejecutivo a través de la Secretaría de Planeación y Finanzas;
 
 XIV. Analizar y aprobar en su caso, los informes periódicos que rinda el director general con la intervención que corresponda a los comisarios.
 
 XV. Acordar con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios que se hagan y verificar que los mismos se apliquen conforme a los fines señalados por la coordinadora del sector correspondiente; y
 
-XVI. Aprobar la cancelación de adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando de ello a la Secretaría de Hacienda por conducto de la coordinadora del sector.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XVI. Aprobar la cancelación de adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando de ello a la Secretaría de Planeación y Finanzas por conducto de la coordinadora del sector.
 
 ###### Artículo 64.
 
@@ -531,9 +579,11 @@ XIII. Las que señalen las otras leyes, decretos, reglamentos, acuerdos y demás
 
 ### CAPITULO VII. DEL CONTROL Y EVALUACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 65.
 
-El órgano de vigilancia de los organismos descentralizados, salvo para el caso de empresas de participación estatal minoritaria, estará integrado por un comisario público propietario, el cual tendrá un suplente, designados por la Secretaría de la Contraloría.
+El órgano de vigilancia de los organismos descentralizados, salvo para el caso de empresas de participación estatal minoritaria, estará integrado por un comisario público propietario, el cual tendrá un suplente, designados por la Secretaría de la Gestión Pública.
 
 Los comisarios públicos evaluarán el desempeño general del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que les asigne específicamente conforme a la ley. Para el cumplimiento de lo anterior, el órgano de gobierno y el director general deberán proporcionar la información que soliciten los comisarios públicos.
 
@@ -547,9 +597,11 @@ II. Los directores generales definirán las políticas de instrumentación de lo
 
 III. Los demás servidores públicos del organismo responderán dentro del ámbito de sus competencias correspondientes, sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 67.
 
-La Secretaría de la Contraloría ejercerá la función de órgano de control de los organismos descentralizados, de las empresas de participación estatal mayoritaria y de los fideicomisos públicos, de acuerdo a las siguientes bases:
+La Secretaría de la Gestión Pública ejercerá la función de órgano de control de los organismos descentralizados, de las empresas de participación estatal mayoritaria y de los fideicomisos públicos, de acuerdo a las siguientes bases:
 
 I. Trabajará coordinadamente con el órgano de gobierno o director general del organismo.
 
@@ -561,21 +613,27 @@ III. Examinará y evaluará los sistemas, mecanismos y procedimientos de control
 
 La coordinadora de sector, a través de su titular o representante, mediante su participación en los órganos colegiados de gobierno, en su caso, o consejos de administración de las paraestatales, podrá recomendar las medidas adicionales que estime pertinentes sobre las acciones tomadas en materia de control.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 69.
 
-La Secretaría de la Contraloría podrá realizar visitas y auditorias a las entidades paraestatales en que ejerza funciones de órgano de control, y supervisará el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración de los organismos públicos descentralizados, empresas de participación estatal mayoritaria y fideicomisos, y proveerá lo necesario para corregir las diferencias y omisiones en que se hubiera incurrido.
+La Secretaría de la Gestión Pública podrá realizar visitas y auditorias a las entidades paraestatales en que ejerza funciones de órgano de control, y supervisará el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración de los organismos públicos descentralizados, empresas de participación estatal mayoritaria y fideicomisos, y proveerá lo necesario para corregir las diferencias y omisiones en que se hubiera incurrido.
 
 ###### Artículo 70.
 
 En aquellos casos en que el órgano colegiado de gobierno, consejo de administración o el director general no dieren cumplimiento a las obligaciones legales que les atribuye este ordenamiento, el Ejecutivo del Estado por conducto de las dependencias competentes, así como de la coordinadora de sector que corresponda, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley u otras leyes. Lo anterior, sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 71.
 
-En aquellas empresas en las que participa el Estado con la suscripción de menos del 50% del capital, se vigilarán las inversiones correspondientes al Estado, a través del comisario que se designe por la Secretaría de la Contraloría y, el ejercicio de los derechos respectivos se hará por conducto de los servidores públicos que el Ejecutivo designe para ocupar la titularidad de las acciones o partes sociales.
+En aquellas empresas en las que participa el Estado con la suscripción de menos del 50% del capital, se vigilarán las inversiones correspondientes al Estado, a través del comisario que se designe por la Secretaría de la Gestión Pública y, el ejercicio de los derechos respectivos se hará por conducto de los servidores públicos que el Ejecutivo designe para ocupar la titularidad de las acciones o partes sociales.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 72.
 
-Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, estarán obligados a presentar a la Secretaría de Hacienda, informes anuales sobre el manejo de recursos.
+Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, estarán obligados a presentar a la Secretaría de Planeación y finanzas, informes anuales sobre el manejo de recursos.
 
 ## TRANSITORIOS
 
@@ -610,3 +668,73 @@ LIC. JOAQUÍN ERNESTO HENDRICKS DÍAZ.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. EFRAÍN VILLANUEVA ARCOS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Los recursos humanos, materiales y financieros, así como los expedientes, valores y demás, asignados o pertenecientes al Comité de Planeación para el Desarrollo del Estado de Quintana Roo, serán transferidos a la Secretaría de Planeación y finanzas, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Tercero. La Secretaria de Planeación y finanzas contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la integración del Comité así como la elaboración y expedición de sus Reglas de Operación.
+
+Cuarto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad del Consejo Estatal de Población, serán transferidos a la Secretaría de Gobierno, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Quinto. La Secretaría de Gobierno, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Junta Directiva del Consejo y la elaboración y expedición de sus Reglas de Operación.
+
+Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad de la Comisión de Energía del Estado de Quintana Roo, serán transferidos a la Secretaría de Desarrollo Económico, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Séptimo. La Secretaría de Desarrollo Económico contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Comisión y la elaboración y expedición de sus Reglas de Operación.
+
+Octavo. Al entrar en vigor el presente decreto, la unidad administrativa de la Secretaría de Desarrollo Económico denominada Fondo para el Desarrollo Económico de Quintana Roo, sustituye al órgano desconcentrado con la misma denominación, por lo que todos los recursos humanos, financieros y materiales del mismo pasarán a la citada Dependencia.
+
+Noveno. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad del Instituto Forestal del Estado de Quintana Roo, serán transferidos a la Secretaría de Ecología y Medio Ambiente, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Todas las menciones al Instituto Forestal de Quintana Roo en la Ley Forestal del Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Ecología y Medio Ambiente.
+
+Décimo. Los asuntos que se encuentren en trámite en el Instituto Forestal del Estado de Quintana Roo a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+Décimo Primero. La Secretaría de Ecología y Medio Ambiente contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Segundo. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos, derechos y obligaciones contraídos y, en general todos los bienes y valores de la Comisión Estatal de Mejora Regulatoria y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de la Gestión Pública.
+
+Todas las menciones a la Comisión Estatal de Mejora Regulatoria en la Ley de Mejora Regulatoria para el Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de la Gestión Pública.
+
+Décimo Tercero. Los asuntos que se encuentren en trámite en la Comisión Estatal de Mejora Regulatoria a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+Décimo Cuarto. Los derechos laborales del personal de la Comisión Estatal de Mejora Regulatoria se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de la Gestión Pública.
+
+Décimo Quinto. La Secretaría de la Gestión Pública contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad de la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, se transfieren a la Secretaría de Desarrollo Social e Indígena.
+
+La Secretaría de Desarrollo Social e Indígena se subroga en los derechos y obligaciones contraídos por la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo.
+
+Cualquier referencia a la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, en otras disposiciones normativas, se entenderá hecha a la Secretaría de Desarrollo Social e Indígena.
+
+Décimo Séptimo. El Titular del Poder Ejecutivo, en un término que no exceda de sesenta días naturales, deberá conformar la estructura orgánica de la Secretaría de Desarrollo Social e Indígena, de conformidad a las disposiciones del presente Decreto.
+
+Décimo Octavo. El Titular del Poder Ejecutivo deberá disponer que el contenido del artículo Séptimo del presente Decreto se traduzca en lengua maya y ordenará su difusión en las comunidades indígenas del Estado.
+
+Décimo Noveno. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos y, en general todos los bienes y valores del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de Desarrollo Urbano y Vivienda, quien tendrá la administración y disposición plena de dichos bienes y recursos.
+
+Todas las menciones al Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo. Se reconoce plena validez a los documentos, actos y contratos legalmente expedidos o realizados con base en laLey (sic) del Instituto de Fomento (sic) la Vivienda y Regularización del Estado de Quintana Roo que se abroga.
+
+De igual manera las operaciones crediticias que se hubieren efectuado con anterioridad a la entrada en vigor de este Decreto, seguirán rigiéndose por los términos del contrato respectivo y las disposiciones legales aplicables.
+
+Vigésimo Primero. Los asuntos que se encuentren en trámite en el Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado a la entrada en vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+En tanto no se modifiquen las disposiciones reglamentarias aplicables al Instituto de Fomento a la Vivienda y Regularización de la Propiedad, en lo que no se opongan a este Decreto, seguirán aplicándose los ordenamientos reglamentarios y administrativos vigentes a la fecha de entrada en vigor del presente Decreto.
+
+Vigésimo Segundo. Los derechos laborales del personal del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo Tercero. El Titular del Poder Ejecutivo, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la modificación de la estructura orgánica.
+
+Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, el Gobierno del Estado y los organismos descentralizados deberán coordinarse y tomar las providencias necesarias para la debida incorporación de un representante de la Oficialía Mayor y de un representante de la Secretaría de Planeación y Finanzas en sus órganos de gobierno.
+
+Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
+
+Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
