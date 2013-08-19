@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-del-71252"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2013-01-30"
+last_updated: "2013-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -1087,7 +1087,29 @@ XXIV. Formular el anteproyecto del presupuesto anual de la Secretaría, conforme
 
 XXV. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Administrativas su cargo y del ejercicio de las mismas.
 
-XXVI. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+XXVI. Crear el Consejo Municipal de Desarrollo Económico y Mejora Regulatoria, como órgano de la sociedad civil de naturaleza consultiva, de carácter honorífico, integrado mediante invitación del Presidente Municipal a ciudadanos de los sectores como organismos o cámaras empresariales, representantes de organismos no gubernamentales, o de la sociedad civil con amplio reconocimiento y representantes de Educación Superior, todos ellos en el Municipio, para lo cual tendrá las siguientes atribuciones:
+
+1. Gestionar ante las autoridades estatales, paraestatales y municipales el empleo, autoempleo y capacitación para el trabajo,
+
+2. Impulsar proyectos generadores de empleo,
+
+3. Elaborar propuestas para brindar accesibilidad a la instalación de nuevas empresas en el municipio,
+
+4. Apoyar a emprendedores con micro y macro exposiciones,
+
+5. Apoyar a los programas de inversión en las zonas de mayor marginidad del municipio,
+
+6. Gestionar con el sector privado la instalación de un corredor industrial,
+
+7. Participar en la promoción, coordinación, seguimiento y evaluación de acciones de mejora regulatoria municipal.
+
+8. Las demás que le confieran este reglamento y otros ordenamientos legales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2013)</small>
+
+XXVII. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
@@ -1563,7 +1585,7 @@ III. Coordinar la participación de las instancias estatales y federales en prog
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-IV. Investigar, analizar, adecuar y proponer planes y programas de carácter federal y estatal aplicables en el municipio, en matera de políticas de seguridad patrimonial y tenencia de la tierra.
+IV. Investigar, analizar, adecuar y proponer planes y programas de carácter federal y estatal aplicables en el municipio, en materia de políticas de seguridad patrimonial y tenencia de la tierra.
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
@@ -1936,3 +1958,9 @@ PRIMERO. Las presentes reformas al Reglamento Orgánico de la Administración P�
 SEGUNDO. Se instruye al Secretario del Ayuntamiento y a la Secretaría de Contraloría y Defesa Ciudadana, a fin de que lleven a cabo la modificación en la estructura orgánica de la administración municipal Periodo Constitucional 2012-2015, en la cual se inserte la figura de Presidenta Honoraria del Sistema Municipal de Desarrollo Integral de la Familia y efectúe la publicación respectiva en el Periódico Oficial del Estado.
 
 TERCERO. En virtud de las presentes reformas al Reglamento Orgánico de la Administración Pública Municipal de Guadalupe, Nuevo León se instruya al Secretario del Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 19 DE AGOSTO DE 2013.
+
+Primero.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Gírese el presente al Presidente Municipal para que instruya al Secretario del Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado de Nuevo León, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio
