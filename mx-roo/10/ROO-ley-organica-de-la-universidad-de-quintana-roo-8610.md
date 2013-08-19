@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-universidad-de-quintana-roo-8610"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-09-14"
-last_updated: "1998-07-10"
+last_updated: "2013-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD DE QUINTANA ROO
 
-LEY ORGANICA DE LA UNIVERSIDAD DE QUINTANA ROO
+LEY ORGÁNICA DE LA UNIVERSIDAD DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 14 de septiembre de 1994.
 
@@ -53,13 +53,13 @@ EI domicilio y sede oficial de la Universidad de Quintana Roo es el que tiene ac
 
 FINES, FACULTADES, PRINCIPIOS E INTEGRACION.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 1998)</small>
 
 ###### Artículo 3º.
 
 Se le encomienda a la Universidad de Quintana Roo los siguientes fines:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 1998)</small>
 
 I.- Impartir educación superior en los niveles técnicos, de licenciatura, estudios de posgrado, cursos de actualización y especialización mediante las diferentes modalidades de enseñanza para formar los profesionistas, profesores e investigadores que requiere el Estado de Quintana Roo, la región y el país, en su armónico desarrollo socioeconómico y cultural.
 
@@ -163,15 +163,21 @@ VIII.- El Patronato.
 
 JUNTA DIRECTIVA.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 8º.
 
-La Junta Directiva estará integrada por nueve personas.
+La Junta Directiva estará integrada por once personas.
 
 El cargo de miembro de la Junta Directiva será honorífico, sin retribución económica alguna y no podrá volver a desempeñarse como tal. Los miembros de la Junta Directiva no podrán ser designados en otros cargos de autoridad o de dirección dentro de la Universidad, sino hasta haber transcurrido, como mínimo, dos años de su separación de la misma.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 9º.
 
-De los miembros de la Junto Directiva, cinco serán designados por el Gobernador del Estado; los otros cuatro, serán designados por el Consejo Universitario de entre los integrantes del personal académico definitivo de tiempo completo de la Universidad. Cada año será reemplazado el integrante más antiguo de la Junta Directiva; las vacantes que se presenten por renuncia, muerte, incapacidad o límite de edad, serán cubiertas por el órgano quien designó al anterior.
+De los miembros de la Junta Directiva, siete serán designados por el Gobernador del Estado; los otros cuatro, serán designados por el Consejo Universitario de entre los integrantes del personal académico definitivo de tiempo completo de la Universidad. Cada año será reemplazado el integrante más antiguo de la Junta Directiva; las vacantes que se presenten por renuncia, muerte, incapacidad o límite de edad, serán cubiertas por el órgano quien designó el anterior.
+
+Dentro de los miembros designados por el Gobernador del Estado en todo caso estará un representante de la Oficialía Mayor y uno de la Secretaría de Planeación y Finanzas.
 
 ###### Artículo 10º.
 
@@ -257,9 +263,7 @@ IX.- El Secretario General de la Universidad, quien fungirá como Secretario del
 
 X.- Los demás Secretarios de la Universidad, quienes tendrán derecho a voz, pero no a voto;
 
-Los representantes del personal académico durarán dos años en el cargo; los
-
-representantes de los alumnos durarán un año en el mismo; en ambos casos, no podrán ser reelectos para el periodo inmediato.
+Los representantes del personal académico durarán dos años en el cargo; los representantes de los alumnos durarán un año en el mismo; en ambos casos, no podrán ser reelectos para el periodo inmediato.
 
 Por cada representante propietario, será elegido un suplente.
 
@@ -293,7 +297,7 @@ V.- No ser funcionario o empleado municipal, estatal o federal tanto al momento 
 
 El cargo de Consejero Universitario es honorífico, personal e intransferible.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 1998)</small>
 
 ###### Artículo 19.
 
@@ -605,9 +609,11 @@ PATRONATO.
 
 Para contribuir a los fines de la Universidad habrá un Patronato, como órgano colegiado de la propia institución, cuya finalidad será, fundamentalmente, la de vigilar la aplicación y utilización del patrimonio de la Universidad; así como realizar todas aquellas actividades tendientes a su incremento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 43.
 
-El Patronato estará integrado por un mínimo de 9 y un máximo de 12 personas; contará con un Presidente, dos Vicepresidentes, un Secretario y las demás fungirán como vocales, quienes serán designados de entre sus miembros.
+El Patronato estará integrado por un mínimo de 9 y un máximo de 12 personas; contará con un Presidente, dos Vicepresidentes, un Secretario y las demás fungirán como vocales, quienes serán designados de entre sus miembros. Serán miembros integrantes del Patronato por disposición legal un representante de la Oficialia Mayor y un representante de la Secretaría de Planeación y finanzas.
 
 Los miembros del Patronato durarán en su cargo cuatro años y no podrán ser reelectos.
 
@@ -781,7 +787,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 C. PROFR. RAUL OMAR SANTANA BASTARRACHEA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE JULIO DE 1998.
 
@@ -792,3 +798,71 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones legales y reglamentarias que contravengan lo dispuesto en las presentes reformas.
+
+P.O. 19 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Los recursos humanos, materiales y financieros, así como los expedientes, valores y demás, asignados o pertenecientes al Comité de Planeación para el Desarrollo del Estado de Quintana Roo, serán transferidos a la Secretaría de Planeación y finanzas, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Tercero. La Secretaria de Planeación y finanzas contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la integración del Comité así como la elaboración y expedición de sus Reglas de Operación.
+
+Cuarto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad del Consejo Estatal de Población, serán transferidos a la Secretaría de Gobierno, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Quinto. La Secretaría de Gobierno, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Junta Directiva del Consejo y la elaboración y expedición de sus Reglas de Operación.
+
+Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad de la Comisión de Energía del Estado de Quintana Roo, serán transferidos a la Secretaría de Desarrollo Económico, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Séptimo. La Secretaría de Desarrollo Económico contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Comisión y la elaboración y expedición de sus Reglas de Operación.
+
+Octavo. Al entrar en vigor el presente decreto, la unidad administrativa de la Secretaría de Desarrollo Económico denominada Fondo para el Desarrollo Económico de Quintana Roo, sustituye al órgano desconcentrado con la misma denominación, por lo que todos los recursos humanos, financieros y materiales del mismo pasarán a la citada Dependencia.
+
+Noveno. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad del Instituto Forestal del Estado de Quintana Roo, serán transferidos a la Secretaría de Ecología y Medio Ambiente, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Todas las menciones al Instituto Forestal de Quintana Roo en la Ley Forestal del Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Ecología y Medio Ambiente.
+
+Décimo. Los asuntos que se encuentren en trámite en el Instituto Forestal del Estado de Quintana Roo a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+Décimo Primero. La Secretaría de Ecología y Medio Ambiente contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Segundo. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos, derechos y obligaciones contraídos y, en general todos los bienes y valores de la Comisión Estatal de Mejora Regulatoria y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de la Gestión Pública.
+
+Todas las menciones a la Comisión Estatal de Mejora Regulatoria en la Ley de Mejora Regulatoria para el Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de la Gestión Pública.
+
+Décimo Tercero. Los asuntos que se encuentren en trámite en la Comisión Estatal de Mejora Regulatoria a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+Décimo Cuarto. Los derechos laborales del personal de la Comisión Estatal de Mejora Regulatoria se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de la Gestión Pública.
+
+Décimo Quinto. La Secretaría de la Gestión Pública contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad de la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, se transfieren a la Secretaría de Desarrollo Social e Indígena.
+
+La Secretaría de Desarrollo Social e Indígena se subroga en los derechos y obligaciones contraídos por la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo.
+
+Cualquier referencia a la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, en otras disposiciones normativas, se entenderá hecha a la Secretaría de Desarrollo Social e Indígena.
+
+Décimo Séptimo. El Titular del Poder Ejecutivo, en un término que no exceda de sesenta días naturales, deberá conformar la estructura orgánica de la Secretaría de Desarrollo Social e Indígena, de conformidad a las disposiciones del presente Decreto.
+
+Décimo Octavo. El titular del Poder Ejecutivo deberá disponer que el contenido del artículo Séptimo del presente Decreto se traduzca en lengua maya y ordenará su difusión en las comunidades indígenas del Estado.
+
+Décimo Noveno. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos y, en general todos los bienes y valores del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de Desarrollo Urbano y Vivienda, quien tendrá la administración y disposición plena de dichos bienes y recursos.
+
+Todas las menciones al Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo. Se reconoce plena validez a los documentos, actos y contratos legalmente expedidos o realizados con base en laLey (sic) del Instituto de Fomento (sic) la Vivienda y Regularización del Estado de Quintana Roo que se abroga.
+
+De igual manera las operaciones crediticias que se hubieren efectuado con anterioridad a la entrada en vigor de este Decreto, seguirán rigiéndose por los términos del contrato respectivo y las disposiciones legales aplicables.
+
+Vigésimo Primero. Los asuntos que se encuentren en trámite en el Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado a la entrada en vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+En tanto no se modifiquen las disposiciones reglamentarias aplicables al Instituto de Fomento a la Vivienda y Regularización de la Propiedad, en lo que no se opongan a este Decreto, seguirán aplicándose los ordenamientos reglamentarios y administrativos vigentes a la fecha de entrada en vigor del presente Decreto.
+
+Vigésimo Segundo. Los derechos laborales del personal del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo Tercero. El Titular del Poder Ejecutivo, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la modificación de la estructura orgánica.
+
+Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, el Gobierno del Estado y los organismos descentralizados deberán coordinarse y tomar las providencias necesarias para la debida incorporación de un representante de la Oficialía Mayor y de un representante de la Secretaría de Planeación y Finanzas en sus órganos de gobierno.
+
+Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
+
+Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
