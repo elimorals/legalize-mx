@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-economico-y-competitividad-para-el-estado-584
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2013-05-15"
+last_updated: "2013-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Ley publicada en el Número 83 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -457,9 +457,11 @@ VI.- Opinar sobre la pertinencia de los planes de estudio de las carreras y prog
 
 VII.- Canalizar hacia las instituciones las necesidades y recomendaciones que hace el sector productivo sobre la pertinencia de los conocimientos y habilidades con que egresa el recurso humano con el fin de implementar nuevas carreras y especialidades, así como programas emergentes de capacitación y adiestramiento.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 29.
 
-Para efecto del cumplimiento de las tareas anteriores la Secretaría y la Secretaría de Educación, establecerán los mecanismos de coordinación que garanticen la consecución de los objetivos antes citados.
+Para efecto del cumplimiento de las tareas anteriores la Secretaría y la Secretaría de Educación y Cultura, establecerán los mecanismos de coordinación que garanticen la consecución de los objetivos antes citados.
 
 ### CAPÍTULO VII. DE LA SUSTENTABILIDAD
 
@@ -549,17 +551,23 @@ IV.- Promover el desarrollo tecnológico para la generación de energía con fue
 
 V.- Fomentar la generación y consumo de fuentes de energía que contribuyan a evitar el calentamiento global del planeta.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 38.
 
-Se crea la Comisión de Energía del Estado de Quintana Roo (CENER), como un órgano administrativo descentralizado de la Secretaría de Desarrollo Económico, que goce con personalidad jurídica; autonomía técnica y operativa; y patrimonio propio en los términos de esta Ley.
+La Secretaría contará con un órgano técnico consultivo denominado Comisión de Energía del Estado de Quintana Roo, que tendrá por objeto fungir como órgano de consulta de las dependencias y entidades de la Administración Pública Estatal, así como cuando así lo soliciten, de los municipios y de los particulares, en materia de uso eficiente de la energía y de aprovechamiento de energías renovables en el Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 39.
 
-La Comisión de Energía tiene por objeto fungir como órgano técnico de consulta de las dependencias y entidades de la Administración Pública Estatal, así como cuando así lo soliciten, de los municipios y de los particulares, en materia de uso eficiente de la energía y de aprovechamiento de energías renovables en el Estado de Quintana Roo, y será el órgano responsable ejecutivo de implementar las tareas y programas a que da lugar el Artículo 37 de la presente Ley.
+La Comisión de Energía será el órgano responsable ejecutivo de implementar las tareas y programas a que da lugar el Artículo 37 de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 40.
 
-La Comisión de Energía tiene las siguientes facultades:
+La Comisión de Energía, como órgano de apoyo de la Secretaría, contará con las siguientes facultades:
 
 I.- Expedir disposiciones administrativas en materia de ahorro y uso eficiente y racional de energía en la Administración Pública Estatal, de conformidad con las disposiciones legales aplicables;
 
@@ -581,53 +589,109 @@ IX.- Dar difusión a los programas y servicios públicos y privados orientados a
 
 X.- Participar en coordinación con las dependencias que tengan facultades para expedirlas, en la elaboración de Normas Oficiales Mexicanas y Normas Mexicanas de eficiencia energética y aprovechamiento de energías renovables.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO No. 113 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2012, SE REFORMÓ ESTE ARTÍCULO; SIN EMBARGO, EN EL DECRETO No. 306, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2013, SE REFORMA EL PRIMER PÁRRAFO Y LOS INCISOS A), B), E) Y G) DE LA FRACCIÓN III. POR LO ANTERIOR SE TRANSCRIBE COMO APARECE EN EL PERIÓDICO OFICIAL.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 41.
 
-Para la dirección y cumplimiento de sus objetivos, la Comisión de Energía contará con un órgano de gobierno, mismo que será el Órgano Superior de la Comisión y estará integrado de la siguiente forma:
+La Comisión de Energía estará integrada de la siguiente forma:
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
 
 I.- El C. Gobernador del Estado quien fungirá como Presidente;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
 
 II.- El Secretario de Desarrollo Económico quien será el Vicepresidente Ejecutivo;
 
 III.- El Titular de la Comisión de Energía quien será el Secretario Técnico;
 
-Un representante designado por cada uno de los titulares de las Secretarías de:
+a) Planeación y Finanzas; (sic)
+
+b) Desarrollo Urbano y Vivienda; (sic)
+
+c)…(sic)
+
+d)…(sic)
+
+e) Desarrollo Agropecuario y Rural;(sic)
+
+f)…(sic)
+
+g) Gestión Pública;(sic)
+
+h)…(sic)
+
+i)…(sic)
+
+j)…(sic)
+
+k)…(sic)
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
 
 IV.- Planeación y Desarrollo Regional;
 
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+
 V.- Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
 
 VI.- Ecología y Medio Ambiente;
 
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+
 VII.- Infraestructura y Transportes;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
 
 VIII.- Desarrollo Agropecuario, Rural e Indígena;
 
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+
 IX.- Turismo;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
 
 X.- Contraloría;
 
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+
 XI.- El Consejo Quintanarroense de Ciencia y Tecnología;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
 
 XII.- Un representante de los empresarios de la Región Centro-Sur del Estado;
 
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+
 XIII.- Un representante de los empresarios de la Región Norte del Estado; y
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
 
 XIV.- Por invitación un representante de la Comisión Federal de Electricidad.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
+
 Por cada uno de los miembros propietarios se deberá nombrar un suplente.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
 
 El Vicepresidente Ejecutivo suplirá las ausencias del Presidente; el suplente del Vicepresidente Ejecutivo, asumirá las funciones de éste cuando aquél haga las veces de Presidente.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 42.
 
-El carácter de miembro de la Comisión de Energía, es honorífico, por lo tanto, sus integrantes no tendrán derecho a percibir por ese concepto, remuneración alguna. Su actuación se regirá por los lineamientos establecidos en el Reglamento Interno de la Comisión de Energía.
+El carácter de miembro de la Comisión de Energía, es honorífico, por lo tanto, sus integrantes no tendrán derecho a percibir por ese concepto, remuneración alguna. Su actuación se regirá por los lineamientos que al efecto se expidan.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 43.
 
-La administración y Operación de la Comisión de Energía estarán bajo la responsabilidad de un Director General, mismo que será designado por el Gobernador del Estado a propuesta del Secretario de Desarrollo Económico.
+La Comisión de Energía contará con un Director Operativo que será el responsable de dar continuidad y seguimiento a los acuerdos tomados por la misma, y será designado por el Gobernador del Estado a propuesta del Secretario de Desarrollo Económico.
 
 ## TÍTULO III. DEL FOMENTO AL DESARROLLO ECONÓMICO
 
@@ -677,27 +741,39 @@ XIX.- Llevar a cabo ferias, foros y exposiciones para promover los productos, se
 
 ### CAPÍTULO II. DEL FINANCIAMIENTO AL DESARROLLO EMPRESARIAL
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 45.
 
-En apoyo a las micro, pequeñas y medianas empresas, se crea la unidad administrativa denominada Fondo para el Desarrollo Económico de Quintana Roo (FODEQROO), para la coordinación y fomento de los apoyos económicos, crédito y garantía, como un órgano desconcentrado del Poder Ejecutivo, adscrito a la Secretaría de Desarrollo Económico cuyo domicilio estará en la Ciudad de Chetumal, Capital del Estado de Quintana Roo.
+En apoyo a las micro, pequeñas y medianas empresas, se crea la unidad administrativa denominada Fondo para el Desarrollo Económico de Quintana Roo (FODEQROO), para la coordinación y fomento de los apoyos económicos, crédito y garantía, misma que formará parte de la estructura de la Secretaría.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 46.
 
-El FODEQROO tendrá por objeto y fines la coordinación administrativa, la gestión, la vinculación y el coadyuvar recursos para el fortalecimiento de los fondos, fideicomisos y otras fuentes financieras que fortalezcan a la entidad en materia de crédito y garantía, en beneficio de las Micro, Pequeñas y Medianas Empresas establecidas en el Estado, cuyas actividades incidan en: la competitividad empresarial, la generación de empleos, la articulación de cadenas productivas apegados a los sectores motrices del Plan Estatal de Desarrollo vigente, así como en el desarrollo de proveedores del sector empresarial.
+El FODEQROO tendrá por objeto la coordinación administrativa, la gestión y la vinculación para el fortalecimiento de los fondos, fideicomisos y otras fuentes financieras que fortalezcan a la entidad en materia de crédito y garantía, en beneficio de las Micro, Pequeñas y Medianas Empresas establecidas en el Estado, cuyas actividades incidan en: la competitividad empresarial, la generación de empleos, la articulación de cadenas productivas apegados a los sectores motrices del Plan Estatal de Desarrollo vigente, así como en el desarrollo de proveedores del sector empresarial.
 
 ###### Artículo 47.
 
-Para la operación del FODEQROO se transferirán los recursos humanos, financieros y materiales adscritos a la Dirección de Gestión Financiera de la Secretaría.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 48.
 
-Son atribuciones del Fondo para el Desarrollo Económico de Quintana Roo, las siguientes:
+Le corresponderá al Fondo para el Desarrollo Económico de Quintana Roo:
 
-I.- Ampliar la infraestructura y opciones existentes en la entidad en materia de crédito y garantía, que permitan el acceso a estos servicios a la totalidad de la población en las mejores condiciones de seguridad, transparencia, costo y calidad;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-II.- Promover el fortalecimiento y modernización de la infraestructura de servicios bancarios existentes y la creación de nuevas instituciones que promuevan servicios de ahorro y crédito empresarial y popular.
+I.- Proponer las herramientas que permitan ampliar la infraestructura y opciones existentes en la entidad en materia de crédito y garantía, que permitan el acceso a estos servicios a la totalidad de la población en las mejores condiciones de seguridad, transparencia, costo y calidad;
 
-III.- Coordinar, apoyar y dar seguimiento a las actividades de todas las entidades de financiamiento para el desarrollo empresarial, rural y demás sectores económicos que tengan participación estatal, asegurando su adecuado funcionamiento.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+II.- Proponer y gestionar los mecanismos tendientes al fortalecimiento y modernización de la infraestructura de servicios bancarios existentes y la creación de nuevas instituciones que promuevan servicios de ahorro y crédito empresarial y popular.
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+III.- Coordinar y dar seguimiento a las actividades de todas las entidades de financiamiento para el desarrollo empresarial, rural y demás sectores económicos que tengan participación estatal, asegurando su adecuado funcionamiento.
 
 IV.- Propiciar una vinculación efectiva entre oferentes y demandantes de servicios financieros, creando condiciones adecuadas de acceso a estos servicios;
 
@@ -705,49 +781,45 @@ V.- Fomentar la capacitación y actualización permanente de los recursos humano
 
 VI.- Incrementar la capacidad de gestión en materia de financiamiento de los emprendedores y empresarios a través de talleres y cursos de capacitación que propicien eficazmente una sana cultura financiera en el Estado;
 
-VII.- Poner a disposición de los empresarios quintanarroenses esquemas de financiamiento atractivos y congruentes a su capacidad y necesidades, brindándoles seguridad y certidumbre;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-VIII.- Atraer recursos adicionales de crédito y capital de riesgo en forma competitiva para apoyar de manera efectiva a proyectos viables que surjan entre emprendedores radicados en Quintana Roo;
+VII.- Gestionar esquemas de financiamiento para los empresarios quintanarroenses, congruentes a su capacidad y necesidades, y que les brinde seguridad y certidumbre;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+VIII.- Gestionar recursos adicionales de crédito y capital de riesgo en forma competitiva para apoyar de manera efectiva a proyectos viables que surjan entre emprendedores radicados en Quintana Roo;
 
 IX.- Colaborar con las autoridades financieras en materia de promoción de prácticas sanas bancarias y de intermediación financiera, especialmente en lo relativo a esquemas de regulación y supervisión a las organizaciones auxiliares del crédito y cajas de ahorro y crédito popular;
 
-X.- Establecer alianzas estratégicas con instituciones financieras, del país y del extranjero, que permitan generar e integrar un sistema estatal de financiamiento para el desarrollo, que ofrezca oportunidades de ahorro, crédito y garantía para los empresarios quintanarroenses;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+X. Promover el establecimiento de alianzas estratégicas con instituciones financieras del país y del extranjero, que permitan generar e integrar un sistema estatal de financiamiento para el desarrollo, que ofrezca oportunidades de ahorro, crédito y garantía para los empresarios quintanarroenses;
 
 XI.- Orientar, asesorar y apoyar a los emprendedores y empresarios en la obtención de las mejores opciones de financiamiento ante las instituciones de crédito de la entidad; y
 
 XII.- Buscar permanentemente nuevas alternativas y esquemas de financiamiento para la población empresarial, que coadyuven a su sano desenvolvimiento y competitividad, así como a reducir los costos de transacción involucrados en el proceso.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 49.
 
-Al frente del Fondo para el Desarrollo Económico de Quintana Roo, habrá un Coordinador General, quien será designado por el Gobernador del Estado a propuesta del Secretario de Desarrollo Económico.
+Al frente del Fondo para el Desarrollo Económico de Quintana Roo, habrá un Titular que será designado por el Gobernador del Estado a propuesta del Secretario de Desarrollo Económico.
 
 ###### Artículo 50.
 
-El Coordinador General del Fondo para el Desarrollo Económico de Quintana Roo, para el despacho de los asuntos que son de su competencia, se auxiliará de las unidades administrativas que determine su Reglamento Interior.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2013)
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 51.
 
-Son facultades y obligaciones del Coordinador General del Fondo para el Desarrollo Económico de Quintana Roo las siguientes:
+Las facultades y obligaciones del Titular del Fondo para el Desarrollo Económico de Quintana Roo serán las que se establezcan en el Reglamento Interior de la Secretaría.
 
-I.- Ejecutar los acuerdos tomados por el Comité Técnico;
-
-II.- Ser el representante legal del Fondo, con las más amplias facultades de administración, pleitos y cobranzas, para suscribir títulos y operaciones de crédito, inclusive, para ejercer aquellas que requieren cláusula especial, pudiendo conferir poderes especiales;
-
-III.- Proponer al titular de la Secretaría para su designación al personal administrativo que requiera el funcionamiento del Fondo;
-
-IV.- Formular y proponer al Comité Técnico el proyecto de Reglamento Interior del Fondo;
-
-V.- Conducir y ejercer la administración general del Fondo, así como de las representaciones en el país y en el extranjero;
-
-VI.- Presentar oportunamente al Comité Técnico, para su análisis y aprobación, en su caso, los planes y programas de trabajo, así como los presupuestos de ingresos y egresos del Sistema y ejercerlos conforme a las disposiciones contenidas en este decreto, así como en otras disposiciones legales aplicables y en las instrucciones que al afecto reciba del Comité;
-
-VII.- Preparar los informes que al Comité Técnico deba presentar, a solicitud del mismo; y
-
-VIII.- Las demás que le sean conferidas en este decreto, el Reglamento Interior del Fondo, otras disposiciones jurídicas, o por el Comité Técnico.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 52.
 
-El FODEQROO, contará con un instrumento operador de los recursos, mismo que deberá ser un fideicomiso y se denominará Fideicomiso del Fondo para el Desarrollo Económico de Quintana Roo, bajo las siglas de FIFODEQROO, el cual tendrá el siguiente objeto:
+Para la operación de los recursos del FODEQROO, la Secretaría de Desarrollo Económico contará con un fideicomiso que se denominará Fideicomiso del Fondo para el Desarrollo Económico de Quintana Roo, bajo las siglas de FIFODEQROO, el cual tendrá el siguiente objeto:
 
 I.- Operar y administrar los recursos propios del patrimonio del fideicomiso;
 
@@ -771,9 +843,11 @@ II.- Un Vicepresidente que será el Secretario de Desarrollo Económico;
 
 III.- Así como de 9 Vocales que estarán representados por:
 
-1. Un representante de la Secretaría de Planeación y Desarrollo Regional;
+1. (DEROGADO, P.O. 19 DE AGOSTO DE 2013)
 
-2. Un representante de la Secretaría de Hacienda del Estado;
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+2. Un representante de la Secretaría de Planeación y Finanzas del Estado;
 
 3. Un representante de la Secretaría (sic)Turismo del Estado;
 
@@ -789,13 +863,17 @@ III.- Así como de 9 Vocales que estarán representados por:
 
 9. Un representante de los Fideicomisos en Relación a la Agricultura (FIRA);
 
-IV.- Un Comisario que será el Secretario de la Contraloría.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+IV.- Un Comisario que será el Secretario de la Gestión Pública.
 
 Los titulares del Comité Técnico designarán y acreditarán a sus respectivos suplentes, con excepción del Presidente que, en su ausencia, será suplido por el Vicepresidente, mismo que en suplencia del Presidente acreditará de manera oportuna a su respectivo suplente.
 
 Los integrantes del Comité Técnico tendrán derecho a voz y voto, con excepción del Comisario, quien tendrá únicamente voz.
 
-El Coordinador General del Fondo fungirá como Secretario Técnico del Comité quien tendrá únicamente voz.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+El Titular del FODEQROO fungirá como Secretario Técnico del Comité quien tendrá únicamente voz.
 
 El carácter de miembro del Comité Técnico es honorífico, por lo tanto, sus integrantes no tendrán derecho a percibir remuneración alguna.
 
@@ -803,11 +881,15 @@ El carácter de miembro del Comité Técnico es honorífico, por lo tanto, sus i
 
 Son atribuciones del Comité Técnico:
 
-I.- Ejercer el Gobierno y Administración del Fondo para el Desarrollo Económico de Quintana Roo y sus dependencias;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+I.- Ejercer la administración del Fondo para el Desarrollo Económico de Quintana Roo;
 
 II.- Definir las políticas que deberá seguir el Fondo para el Desarrollo Económico de Quintana Roo;
 
-III.- Expedir el Reglamento Interior del Fondo; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+III.- Expedir las Reglas de Operación del Fondo, y
 
 IV.- Las demás que le sean conferidas en el presente y otros ordenamientos jurídicos aplicables.
 
@@ -1221,17 +1303,27 @@ II.- Un Vicepresidente Ejecutivo quien será el Secretario de Desarrollo Económ
 
 III.- Un Secretario Técnico que será el Subsecretario de Desarrollo Económico;
 
-IV.- El Titular de la Secretaría Estatal de Planeación y Desarrollo Regional;
+IV.- (DEROGADA, P.O. 19 DE AGOSTO DE 2013)
 
-V.- El Titular de la Secretaría Estatal de Hacienda;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-VI.- El Titular de la Secretaría Estatal de Desarrollo Rural e Indígena;
+V.- El Titular de la Secretaría de Planeación y Finanzas;
 
-VII.- El Titular de la Secretaría Estatal de Turismo;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-VIII.- El Titular de la Secretaría de Educación;
+VI.- El Titular de la Secretaría de Desarrollo Agropecuario y Rural;
 
-IX.- El Titular de la Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+VII.- El Titular de la Secretaría de Turismo;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+VIII.- El Titular de la Secretaría de Educación y Cultura;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+
+IX.- El Titular de la Secretaría de la Gestión Pública;
 
 X.- El Titular de la Secretaría del Trabajo y Previsión Social del Estado de Quintana Roo;
 
@@ -1522,3 +1614,71 @@ SEGUNDO.- La Secretaría, dentro del término de noventa días contados a partir
 TERCERO.- La Secretaría, en un término no mayor a noventa días contados a partir de la entrada en vigor del presente Decreto, realizará las adecuaciones normativas y complementarias al Reglamento de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo, para la aplicabilidad integral del presente Decreto.
 
 CUARTO.- Las empresas que pertenezcan al Padrón de Proveedores del Gobierno del Estado, contarán con un plazo de noventa días contados a partir de la vigencia del presente decreto para obtener, si así lo consideran el Registro de Empresa Quintanarroense ante la Secretaría.
+
+P.O. 19 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Los recursos humanos, materiales y financieros, así como los expedientes, valores y demás, asignados o pertenecientes al Comité de Planeación para el Desarrollo del Estado de Quintana Roo, serán transferidos a la Secretaría de Planeación y finanzas, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Tercero. La Secretaria de Planeación y finanzas contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la integración del Comité así como la elaboración y expedición de sus Reglas de Operación.
+
+Cuarto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad del Consejo Estatal de Población, serán transferidos a la Secretaría de Gobierno, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Quinto. La Secretaría de Gobierno, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Junta Directiva del Consejo y la elaboración y expedición de sus Reglas de Operación.
+
+Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o propiedad de la Comisión de Energía del Estado de Quintana Roo, serán transferidos a la Secretaría de Desarrollo Económico, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Séptimo. La Secretaría de Desarrollo Económico contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la integración de la Comisión y la elaboración y expedición de sus Reglas de Operación.
+
+Octavo. Al entrar en vigor el presente decreto, la unidad administrativa de la Secretaría de Desarrollo Económico denominada Fondo para el Desarrollo Económico de Quintana Roo, sustituye al órgano desconcentrado con la misma denominación, por lo que todos los recursos humanos, financieros y materiales del mismo pasarán a la citada Dependencia.
+
+Noveno. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad del Instituto Forestal del Estado de Quintana Roo, serán transferidos a la Secretaría de Ecología y Medio Ambiente, subrogándose ésta en todos los derechos y obligaciones contraídos por el Organismo Descentralizado que en razón del presente Decreto desaparece.
+
+Todas las menciones al Instituto Forestal de Quintana Roo en la Ley Forestal del Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Ecología y Medio Ambiente.
+
+Décimo. Los asuntos que se encuentren en trámite en el Instituto Forestal del Estado de Quintana Roo a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+Décimo Primero. La Secretaría de Ecología y Medio Ambiente contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Segundo. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos, derechos y obligaciones contraídos y, en general todos los bienes y valores de la Comisión Estatal de Mejora Regulatoria y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de la Gestión Pública.
+
+Todas las menciones a la Comisión Estatal de Mejora Regulatoria en la Ley de Mejora Regulatoria para el Estado de Quintana Roo o en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de la Gestión Pública.
+
+Décimo Tercero. Los asuntos que se encuentren en trámite en la Comisión Estatal de Mejora Regulatoria a la entrada (sic) vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+Décimo Cuarto. Los derechos laborales del personal de la Comisión Estatal de Mejora Regulatoria se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de la Gestión Pública.
+
+Décimo Quinto. La Secretaría de la Gestión Pública contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto, para la modificación de su estructura orgánica.
+
+Décimo Sexto. Los recursos humanos, materiales y financieros, así como los expedientes y valores asignados o en propiedad de la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, se transfieren a la Secretaría de Desarrollo Social e Indígena.
+
+La Secretaría de Desarrollo Social e Indígena se subroga en los derechos y obligaciones contraídos por la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo.
+
+Cualquier referencia a la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, en otras disposiciones normativas, se entenderá hecha a la Secretaría de Desarrollo Social e Indígena.
+
+Décimo Séptimo. El Titular del Poder Ejecutivo, en un término que no exceda de sesenta días naturales, deberá conformar la estructura orgánica de la Secretaría de Desarrollo Social e Indígena, de conformidad a las disposiciones del presente Decreto.
+
+Décimo Octavo. El titular del Poder Ejecutivo deberá disponer que el contenido del artículo Séptimo del presente Decreto se traduzca en lengua maya y ordenará su difusión en las comunidades indígenas del Estado.
+
+Décimo Noveno. El patrimonio, los recursos financieros, materiales y humanos, los expedientes, los archivos y, en general todos los bienes y valores del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado y de sus unidades administrativas existentes antes de la entrada en vigor de este Decreto, pasarán a formar parte del patrimonio del Gobierno del Estado y de la estructura de la Secretaría de Desarrollo Urbano y Vivienda, quien tendrá la administración y disposición plena de dichos bienes y recursos.
+
+Todas las menciones al Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado en otras disposiciones normativas, a partir de la vigencia del presente Decreto se entenderán referidas a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo. Se reconoce plena validez a los documentos, actos y contratos legalmente expedidos o realizados con base en laLey (sic) del Instituto de Fomento (sic) la Vivienda y Regularización del Estado de Quintana Roo que se abroga.
+
+De igual manera las operaciones crediticias que se hubieren efectuado con anterioridad a la entrada en vigor de este Decreto, seguirán rigiéndose por los términos del contrato respectivo y las disposiciones legales aplicables.
+
+Vigésimo Primero. Los asuntos que se encuentren en trámite en el Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado a la entrada en vigor de este Decreto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+En tanto no se modifiquen las disposiciones reglamentarias aplicables al Instituto de Fomento a la Vivienda y Regularización de la Propiedad, en lo que no se opongan a este Decreto, seguirán aplicándose los ordenamientos reglamentarios y administrativos vigentes a la fecha de entrada en vigor del presente Decreto.
+
+Vigésimo Segundo. Los derechos laborales del personal del Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado se respetarán conforme a la Ley, en la transferencia institucional que se realice a la Secretaría de Desarrollo Urbano y Vivienda.
+
+Vigésimo Tercero. El Titular del Poder Ejecutivo, contará con el término de sesenta días naturales contados a partir de la vigencia del presente Decreto para la modificación de la estructura orgánica.
+
+Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, el Gobierno del Estado y los organismos descentralizados deberán coordinarse y tomar las providencias necesarias para la debida incorporación de un representante de la Oficialía Mayor y de un representante de la Secretaría de Planeación y Finanzas en sus órganos de gobierno.
+
+Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
+
+Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
