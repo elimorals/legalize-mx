@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2013-07-01"
+last_updated: "2013-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -535,9 +535,45 @@ Los Ayuntamientos, mediante la celebración de Convenios de Coordinación podrá
 
 Los Municipios participantes en el Sistema Estatal de Cultura Física, Deporte y Recreación, promoverán la participación de las y de los vecinos, con el fin de que se inscriban a su respectivo Consejo Directivo del Sistema Municipal de Cultura Física, Deporte y Recreación, involucrándolos en los términos de esta Ley, en el diseño, ejecución y evaluación de los programas Municipales del deporte.
 
-#### SECCIÓN I
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE AGOSTO DE 2013)</small>
 
-DEL SECTOR PÚBLICO.
+#### SECCIÓN III. DEL FOMENTO DEL USO DE LA BICICLETA
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+###### Artículo 44 Bis.
+
+El Estado y los Municipios fomentarán y promoverán entre la población hidalguense el uso de la bicicleta en las vías públicas de la entidad, como medio de transporte alternativo, saludable y no contaminante.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+###### Artículo 44 Ter.
+
+Las autoridades de ambos órdenes de gobierno, en el ámbito de su competencia, adecuarán o expedirán las disposiciones reglamentarias o administrativas, y realizarán las acciones necesarias con el objeto de:
+
+I. Garantizar a la población el derecho a la movilidad mediante el uso de la bicicleta como medio de transporte no motorizado;
+
+II. Establecer las reglas para la circulación de bicicletas en las vías públicas;
+
+III. Fomentar una cultura de respeto y paso preferencial a los ciclistas en las vías públicas;
+
+IV. Establecer los derechos y obligaciones de los ciclistas;
+
+V. Implementar los programas educativos para el uso de la bicicleta;
+
+VI. Considerar la posibilidad de que en la nueva vialidad se incluyan carriles preferentes para la circulación de bicicletas, de acuerdo a sus posibilidades financieras;
+
+VII. Implementar en los municipios del Estado, de acuerdo a sus posibilidades financieras, la infraestructura destinada exclusivamente para la circulación de bicicletas;
+
+VIII. Establecer las rutas seguras para el arribo en bicicleta a los centros escolares, de trabajo y recreativos;
+
+IX. Instalar los señalamientos necesarios en las vías públicas para el uso de bicicletas e indicar en el pavimento el área de espera para los ciclistas junto a los cruces peatonales;
+
+X. Promover incentivos para que las instituciones públicas y las empresas del sector privado, arrienden o presten bicicletas y habiliten bici estacionamientos en sus instalaciones;
+
+XI. Difundir entre la población la infraestructura ciclística en el Estado, principalmente a través del uso de tecnologías; y
+
+XII. Celebrar convenios con las empresas privadas a efecto de otorgar a la población facilidades para la adquisición de bicicletas a menor costo.
 
 ### CAPÍTULO III
 
@@ -635,9 +671,9 @@ El Ejecutivo Estatal a través del Instituto Hidalguense del Deporte, promoverá
 
 Los convenios a que se refiere el Artículo anterior, deberán prever las actividades específicas que se realizarán para la promoción de la cultura física y el deporte.
 
-#### SECCIÓN II
+#### SECCIÓN I
 
-DEL SECTOR SOCIAL Y DEL SECTOR PRIVADO.
+DEL SECTOR PÚBLICO.
 
 ###### Artículo 56.
 
@@ -647,9 +683,9 @@ I.- Promover y organizar en sus respectivas circunscripciones, actividades y pr�
 
 II.- Constituir comités del deporte que estarán conformados por los participantes del Sistema Estatal de Cultura Física, Deporte y Recreación, creando para tal efecto una sede Municipal, a fin de que las autoridades deportivas estén más cerca de los deportistas.
 
-#### SECCIÓN I
+#### SECCIÓN II
 
-DE LOS DERECHOS.
+DEL SECTOR SOCIAL Y DEL SECTOR PRIVADO.
 
 ###### Artículo 57.
 
@@ -837,9 +873,9 @@ III.- Mejorar la calidad de la práctica deportiva.
 
 Son obligaciones de las y de los deportistas, colaborar en la construcción, equipamiento, mejoramiento y conservación de las instalaciones deportivas.
 
-#### SECCIÓN II
+#### SECCIÓN I
 
-DE LAS OBLIGACIONES.
+DE LOS DERECHOS.
 
 ###### Artículo 83.
 
@@ -873,9 +909,9 @@ XII.- Recibir estímulos y reconocimientos; y
 
 XIII.- Las demás que establezcan en su favor las Leyes, Decretos y Reglamentos aplicables.
 
-#### SECCIÓN III
+#### SECCIÓN II
 
-DEL JUEGO LIMPIO.
+DE LAS OBLIGACIONES.
 
 ###### Artículo 84.
 
@@ -911,9 +947,9 @@ II.- Participar con la Autoridad Deportiva en las actividades que tengan por obj
 
 III.- Fomentar el deporte entre sus compañeros.
 
-#### SECCIÓN I
+#### SECCIÓN III
 
-DEL RECURSO DE IMPUGNACIÓN.
+DEL JUEGO LIMPIO.
 
 ###### Artículo 86.
 
@@ -1507,9 +1543,9 @@ Los organismos deportivos como: Comités regionales, asociaciones, ligas, clubes
 
 DE LA COMISIÓN ESTATAL DE APELACIÓN Y ARBITRAJE DEPORTIVO.
 
-#### SECCIÓN II
+#### SECCIÓN I
 
-DEL RECURSO DE RECONSIDERACIÓN.
+DEL RECURSO DE IMPUGNACIÓN.
 
 ###### Artículo 178.
 
@@ -1522,6 +1558,10 @@ Las resoluciones emitidas por las autoridades deportivas en las que impongan san
 ###### Artículo 180.
 
 El recurso de apelación deberá presentarse por escrito, dentro de los tres días siguientes a aquel al que se haya notificado la resolución recaída al recurso de reconsideración.
+
+#### SECCIÓN II
+
+DEL RECURSO DE RECONSIDERACIÓN.
 
 ###### Artículo 181.
 
@@ -1611,7 +1651,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE MAYO DE 2010.
 
@@ -1628,3 +1668,9 @@ El presente Decreto entrará en vigor al día siguiente al de su Publicación en
 P.O. 1 DE JULIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a esta Ley.
