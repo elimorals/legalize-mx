@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2013-07-20"
+last_updated: "2013-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2013.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -166,6 +166,14 @@ Las leyes aplicables definirán las bases y modalidades para el acceso a los ser
 Todos los habitantes del Estado tienen derecho a participar en la vida cultural, artística, científica y tecnológica de la comunidad y en los beneficios que de ello resulten.
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde a las autoridades Estatales y Municipales su estimulo, fomento, desarrollo, fortalecimiento, protección y garantía conforme a las leyes de la materia.
+
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2013)</small>
+
+Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
+
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2013)</small>
+
+Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, el Estado y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
@@ -3160,3 +3168,9 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- El Congreso del Estado de Baja California Sur, deberá realizar las adecuaciones necesarias, motivo de la presente reforma constitucional a la Ley Electoral, Ley de Participación Ciudadana, Ley Reglamentaria del Poder Legislativo, Ley del Sistema de Medios de Impugnación en Materia Electoral, todas para el Estado de Baja California Sur, así como la demás legislación que tuviera relación con esta materia y que fuera de la competencia del Estado, a más tardar el día 15 de abril del dos mil catorce.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 20 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- La XIII Legislatura del Congreso del Estado en coordinación con los Municipios, revisarán la legislación de la materia y realizarán los ajustes necesarios en un lapso de 120 días máximo, contados a partir de la entrada en vigor la (sic) presente reforma constitucional.
