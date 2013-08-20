@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2013-07-17"
+last_updated: "2013-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE AGOSTO DE 2013.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -1123,9 +1123,17 @@ I. Que el imputado no haya sido condenado por delito doloso;
 
 II. Que no tenga o haya tenido otro proceso suspendido a prueba dentro de los cinco años anteriores al día de la audiencia que resuelva sobre la solicitud;
 
-III. Pague la reparación del daño, la garantice a satisfacción de la víctima u ofendido o se apruebe el plan de reparación; y
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
 
-IV. Que no exista oposición fundada del ministerio público o de la víctima u ofendido.
+III. Pague la reparación del daño, la garantice a satisfacción de la víctima u ofendido o se apruebe el plan de reparación;
+
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+IV. Que no exista oposición fundada del ministerio público o de la víctima u ofendido; y
+
+> <small>(ADICIONADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+V. Que no se trate de los delitos de extorsión o de robo con violencia, ya sean consumados o en grado de tentativa.
 
 Solicitud
 
@@ -4821,7 +4829,9 @@ Por cada dos días de trabajo del interno se hará remisión de uno de prisión,
 
 A los internos que por falta de ocupación laboral asistan regularmente a la escuela le serán tomadas en cuenta dichas actividades para el efecto de la remisión parcial de la pena y cualquier otra medida tendente a su reinserción social.
 
-La remisión parcial de la pena no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+
+La remisión parcial de la pena no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación o robo que ocasione la muerte.
 
 Programación de casos
 
@@ -4863,7 +4873,9 @@ IV. Traslado a institución abierta; y
 
 V. El régimen de prelibertad.
 
-El régimen de prelibertad no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+
+El régimen de prelibertad no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación o robo que ocasione la muerte.
 
 Momento para el otorgamiento
 
@@ -4913,7 +4925,9 @@ Beneficio de libertad condicionada
 
 El beneficio de libertad condicionada al sistema de localización y rastreo, es un medio de ejecutar la sanción penal hasta en tanto se alcance algún beneficio de prelibertad, remisión parcial de la pena o libertad condicional.
 
-Este beneficio no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que cause la muerte.
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+
+Este beneficio no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación o robo que cause la muerte.
 
 Para la concesión de este beneficio el juez fijará las condiciones para su otorgamiento y se apoyará en el dictamen que emita el Consejo Interno Interdisciplinario correspondiente.
 
@@ -4973,9 +4987,11 @@ La designación se hará conciliando las circunstancias de que al interno no pue
 
 Improcedencia de la libertad condicional
 
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 469.
 
-La libertad condicional no se concederá en los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
+La libertad condicional no se concederá en los delitos de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
 
 Pérdida del derecho a la libertad condicional
 
@@ -5372,3 +5388,9 @@ G.G. 17 DE JULIO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE AGOSTO DE 2013.
+
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
