@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-penales-para-el-estado-de-baja-44530"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-09-19"
-last_updated: "2013-07-10"
+last_updated: "2013-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO EN FORMA SUCESIVA Y TERRITORIALMENTE POR PARTIDO JUDICIAL DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIOS DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL EXTRAORDINARIO DEL B.O. DE 7 DE MAYO DE 2013, INICIANDO EN EL PARTIDO JUDICIAL DE COMONDÚ EL 1 DE JULIO DE DOS MIL CATORCE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -1355,15 +1355,25 @@ El ofendido o su legitimo representante, podrán solicitar al ministerio públic
 
 ### CAPÍTULO XII. ORDENES DE PROTECCIÓN PREVENTIVAS Y DE EMERGENCIA
 
-> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2013)</small>
 
-ARTÍCULO 178 A.-Las órdenes de protección de emergencia son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares, deberán ordenarse por el Juez a petición del Ministerio Público o de la parte ofendida en su caso o dentro de las 24 horas siguientes al conocimiento de los hechos que las generen, tendrán una temporalidad de 72 horas y podrán ser:
+###### ARTÍCULO 178-A.
+
+Las ordenes de protección de emergencia son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares, deberán ordenarse por el juez a petición del ministerio publico o de la parte ofendida en su caso, dentro de las 8 horas siguientes al conocimiento de los hechos que las generen, tendrán una temporalidad de 72 horas y podrán ser:
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2008)</small>
 
 I.- Desocupación por la persona agresora del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble;
 
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2008)</small>
+
 II.- Prohibición al presunto responsable de acercarse a menos de 300 metros al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes o cualquier otro que frecuente la víctima;
 
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2008)</small>
+
 III.- Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad; y
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2008)</small>
 
 IV.- Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
 
@@ -2715,7 +2725,7 @@ Iniciado el procedimiento judicial, no podrá suspenderse sino en los casos sigu
 
 I.- Cuando el inculpado se haya sustraído a la acción de la justicia;
 
-II.- Cuando no se pueda hacer saber al procesado el nombre de su acusador y naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye para que pueda contestar al cargo, por encontrarse en estado de inconciencia;
+II.- Cuando no se pueda hacer saber al procesado el nombre de su acusador y naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye para que pueda contestar al cargo, por encontrarse en estado de inconciencia (sic);
 
 III.- Cuando en cualquier etapa del procedimiento judicial el procesado manifieste, conforme a dictámenes periciales, enajenación mental, desarrollo intelectual retardado, trastorno mental transitorio o cualquier otro estado mental que requiera tratamiento. En estos casos, se continuará el procedimiento por la vía especial procedente;
 
@@ -3748,3 +3758,7 @@ El presente Decreto entrara en vigor al día siguiente al de su publicación en 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 20 DE AGOSTO DE 2013.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
