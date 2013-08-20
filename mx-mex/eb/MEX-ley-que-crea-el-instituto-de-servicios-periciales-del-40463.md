@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-instituto-de-servicios-periciales-del-40463"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-10"
-last_updated: "2011-10-26"
+last_updated: "2013-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY QUE CREA EL INSTITUTO DE SERVICIOS PERICIALES DEL ESTADO DE MEXICO
 
-LEY QUE CREA EL INSTITUTO DE SERVICIOS PERICIALES DEL ESTADO DE MEXICO
+LEY QUE CREA EL INSTITUTO DE SERVICIOS PERICIALES DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 26 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE AGOSTO DE 2013.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el martes 10 de agosto de 2004.
 
@@ -307,7 +307,9 @@ III. Comprobar la actualización de sus conocimientos a través, de respaldos ac
 
 IV. Tratándose de peritos traductores de idiomas y lenguas indígenas, deberán contar con certificado expedido por una institución oficial que haga constar que el interesado cuenta con capacidad como intérprete y no sólo tener conocimiento del idioma de que se trate, salvo acuerdo que emita el Director General cuando a su juicio no existan personas suficientes que reúnan este requisito;
 
-V. Tener una antigüedad de cuando menos cinco años en la practica de la materia sobre la que va a dictaminar;
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+V. Tener experiencia mínima de un año en la práctica de la materia sobre la que va a dictaminar;
 
 VI. No haber sido condenado por sentencia que haya causado ejecutoria, como responsable de un delito doloso, o por delito culposo calificado como grave por la ley, ni estar sujeto a proceso penal;
 
@@ -847,7 +849,7 @@ Las certificaciones de antecedentes penales y las de antecedentes administrativo
 
 ###### Artículo 77.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 361, G.G. 26 DE OCTUBRE DE 2011)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 361, G.G. 26 DE OCTUBRE DE 2011)
 
 ###### Artículo 78.
 
@@ -893,7 +895,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 26 DE OCTUBRE DE 2011.
 
@@ -912,3 +914,9 @@ QUINTO.- El Instituto de Prevención del Delito del Estado de México, dependien
 SEXTO.- El Instituto de Formación profesional y capacitación dependiente de la Procuraduría General de Justicia del Estado de México, seguirá operando con las atribuciones establecidas, hasta que entre en operación la instancia estatal de profesionalización de las instituciones de seguridad ciudadana.
 
 SÉPTIMO.- Los procedimientos de separación y remoción que se encuentren en curso o trámite a la fecha de entrada en vigor de este Decreto, se concluirán de conformidad con las disposiciones vigentes al momento de su inicio.
+
+G.G. 20 DE AGOSTO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
