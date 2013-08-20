@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-publicidad-exterior-del-distrito-82431"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-15"
-last_updated: "2012-04-30"
+last_updated: "2013-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82431&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-08-10"
 
 REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 15 de agosto de 2011.
 
@@ -94,11 +94,15 @@ Los anuncios podrán instalarse con o sin iluminación, pero tratándose del pri
 
 La iluminación de las pantallas electrónicas hacia los automovilistas y peatones, no podrá exceder de 50 luxes. Los titulares de permisos y licencias deberán incorporar el uso de leds para la iluminación de anuncios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 5.
 
-Los titulares de permisos, licencias y autorizaciones temporales, deberán colocar en cada uno de sus anuncios una placa que deberá contener el nombre o denominación del titular y el número del permiso, licencia o autorización temporal correspondiente. La placa deberá ubicarse en la parte inferior del anuncio, con las dimensiones que hagan posible su lectura desde el pie del anuncio de que se trate.
+Los titulares de permisos, licencias y autorizaciones temporales, deberán colocar en cada uno de sus anuncios una placa que deberá contener el nombre o denominación del titular, el número del permiso, licencia o autorización temporal correspondiente, vigencia y ubicación del anuncio. La placa deberá ubicarse en la parte inferior del anuncio, con las dimensiones que hagan posible su lectura desde el pie del anuncio de que se trate.
 
-Tratándose de anuncios en tapiales, en su modalidad de lona, malla, manta u otro material flexible, el nombre o denominación del titular y el número de la autorización temporal correspondiente, deberán indicarse a lo largo del margen inferior del material instalado.
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2013)</small>
+
+Tratándose de anuncios adosados a muros ciegos o en tapiales, en su modalidad de lona, malla, manta u otro material flexible, el nombre o denominación del titular, el número de la licencia o autorización temporal correspondiente, vigencia y ubicación del anuncio deberán indicarse a lo largo del margen inferior del material instalado.
 
 Los titulares de licencias de anuncios denominativos, así como los de autorizaciones temporales de información cívica o cultural, no estarán sujetos a la obligación prevista en el presente artículo.
 
@@ -394,9 +398,11 @@ II. Retirar el anuncio cuando se extinga la licencia correspondiente, y
 
 III. Retirar el anuncio cuando deje de funcionar el establecimiento mercantil, o deje de ocuparse la edificación, según sea el caso.
 
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 29.
 
-Cuando la Secretaría y las Delegaciones, en el ámbito de sus respectivas competencias, reciban una solicitud de licencia de anuncio denominativo instalado con anterioridad a la solicitud, deberán solicitar al interesado una fotografía actualizada del anuncio y corroborar con una visita al inmueble el estado del anuncio. Si de la visita se advierte que el anuncio presenta mal aspecto, deterioro, suciedad o abandono, la Secretaría y las Delegaciones desecharán la solicitud.
+Cuando la Secretaría y las Delegaciones, en el ámbito de sus respectivas competencias, reciban una solicitud de licencia de anuncio denominativo instalado con anterioridad a la entrada en vigor de la Ley, deberán solicitar al interesado la acreditación de este hecho, una fotografía actualizada del anuncio y corroborar con una visita al inmueble el estado del anuncio. Si de la visita se advierte que el anuncio presenta características notoriamente incompatibles con las disposiciones de la Ley y este Reglamento, mal aspecto, deterioro, suciedad o abandono, la Secretaría y las Delegaciones exhortarán al interesado para que ajuste el anuncio conforme a lo previsto en la Ley y el presente Reglamento; si el interesado no desea realizar dicho ajuste, desecharán la solicitud correspondiente, sin perjuicio de los beneficios que goce el anuncio por derechos adquiridos.
 
 ###### Artículo 30.
 
@@ -548,9 +554,11 @@ Los corredores publicitarios son las vías primarias determinadas por la Ley, y 
 
 Lo anterior no será impedimento para que en las vías primarias consideradas corredores publicitarios, puedan aprobarse nodos publicitarios en inmuebles del dominio público del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 40.
 
-En los inmuebles de propiedad privada sólo podrán instalarse anuncios autosoportados unipolares.
+En los inmuebles de propiedad privada sólo podrán instalarse anuncios autosoportados unipolares y adosados a muros ciegos en corredores publicitarios, estos últimos de conformidad con el programa que para tal efecto implemente la Secretaría.
 
 ###### Artículo 41.
 
@@ -574,9 +582,13 @@ II. Nodos publicitarios que contengan anuncios adosados en túneles, puentes y b
 
 III. Anuncios en vallas, siempre que se ubiquen en estacionamientos públicos o lotes baldíos;
 
-IV. Anuncios en tapiales, siempre que se ubiquen en obras en proceso de construcción o remodelación, y
+IV. Anuncios en tapiales, siempre que se ubiquen en obras en proceso de construcción o remodelación, y (sic)
 
 V. Anuncios en mobiliario urbano, siempre que se trate de paraderos de autobuses, puestos de periódicos, revistas, flores o lotería o enseres destinados para la recepción de autos.
+
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2013)</small>
+
+VI. Anuncios adosados a muros ciegos, de conformidad con el programa que para tal efecto implemente la Secretaría.
 
 ###### Artículo 43.
 
@@ -589,6 +601,14 @@ II. Podrá instalarse información cultural, en los términos que disponga la Le
 ###### Artículo 44.
 
 Los anuncios autosoportados unipolares permitidos en los corredores publicitarios, podrán contener carteleras, pantallas electrónicas o anuncios de proyección óptica, de neón o virtuales.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2013)</small>
+
+Las vallas y/o tapiales publicitarios ubicados en corredores publicitarios, vías primarias o secundarias, podrán contener pantallas electrónicas o anuncios de proyección óptica, de neón o virtuales.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2013)</small>
+
+A fin de preservar la seguridad de los peatones, usuarios de transporte público, operadores y automovilistas, queda prohibida la exhibición de videos o animaciones con duración mayor a cuatro segundos en anuncios autosoportados unipolares, o aquellos contenidos en vallas, tapiales o mobiliario urbano.
 
 Tratándose de los anuncios autosoportados unipolares, la forma y el material de la columna de soporte serán determinados por los titulares de la licencia y aprobados por la Secretaría.
 
@@ -618,9 +638,13 @@ La Secretaría determinará la distribución de los espacios para anuncios en lo
 
 I. Los anuncios autosoportados unipolares deberán instalarse a tresbolillo a lo largo del corredor;
 
-II. La cartelera de los anuncios autosoportados unipolares en inmuebles de propiedad privada, no deberá invadir físicamente o en plano virtual, la vía pública o los predios colindantes;
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
 
-III. La distancia mínima entre un anuncio autosoportado unipolar respecto de otro del mismo tipo ubicados en predios de una misma acera, deberá ser de al menos quinientos metros contados a partir de un diámetro de cien metros;
+II. La cartelera de los anuncios autosoportados unipolares y los adosados a muros ciegos en inmuebles de propiedad privada, no deberá invadir físicamente o en plano virtual, la vía pública o los predios colindantes;
+
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
+
+III. La distancia mínima entre un anuncio autosoportado unipolar respecto de otro del mismo tipo ubicados en predios de una misma acera, deberá ser de al menos doscientos cincuenta metros contados a partir de un diámetro de cien metros;
 
 IV. Los anuncios autosoportados unipolares podrán instalarse en cualquier predio de propiedad privada que se ubique dentro de un diámetro de cien metros;
 
@@ -636,9 +660,13 @@ I. En inmuebles de propiedad privada ubicados en corredores sin segundo piso, se
 
 a). Instalar anuncios autosoportados unipolares cuya columna de soporte tenga una altura máxima de 8 metros contados a partir del nivel de banqueta a la parte inferior de la cartelera, la cual, a su vez, podrá tener unas dimensiones máximas de 2.20 metros de altura y 4 metros de longitud, y
 
-b) Instalar anuncios autosoportados unipolares cuya columna de soporte tenga una altura máxima de 24 metros contados a partir del nivel de banqueta a la parte inferior de la cartelera, la cual, a su vez, podrá tener una altura máxima de 7.20 metros y una longitud máxima de 12.90 metros, siempre que a juicio de la Secretaría de Protección Civil el anuncio no represente un riesgo para la integridad física o patrimonial de las personas, y
+b) Instalar anuncios autosoportados unipolares cuya columna de soporte tenga una altura máxima de 24 metros contados a partir del nivel de banqueta a la parte inferior de la cartelera, la cual, a su vez, podrá tener una altura máxima de 7.20 metros y una longitud máxima de 12.90 metros, siempre que a juicio de la Secretaría de Protección Civil el anuncio no represente un riesgo para la integridad física o patrimonial de las personas, y (sic)
 
 II. En inmuebles de propiedad privada ubicados en corredores con segundo piso, se podrán instalar anuncios autosoportados unipolares cuya columna de soporte tenga la altura necesaria para que el límite inferior de la cartelera sea de cinco metros contados a partir de la superficie de rodamiento del segundo piso, siempre que a juicio de la Secretaría de Protección Civil el anuncio no represente un riesgo para la integridad física o patrimonial de las personas.
+
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2013)</small>
+
+III. En inmuebles de propiedad privada ubicados en corredores publicitarios, se podrán instalar anuncios adosados a muros ciegos, los cuales no deberán rebasar el 65 % del muro en el que se instalen, de conformidad con el programa que para tal efecto implemente la Secretaría.
 
 ###### Artículo 48.
 
@@ -652,29 +680,53 @@ En la instalación de los anuncios en vallas, se observarán las siguientes regl
 
 I. Las vallas deberán instalarse en el perímetro de un estacionamiento público o un lote baldío;
 
-II. Las vallas deberán instalarse al nivel de planta baja, sobre la vía pública, con su propia estructura, a una distancia de entre 10 y 30 centímetros de la barda perimetral, o en su caso, del alineamiento del estacionamiento público o del lote baldío, según sea el caso;
+II. Las vallas deberán instalarse al nivel de planta baja, sobre la vía pública, con su propia estructura, a una distancia de entre 10 y 30 centímetros de la barda perimetral, o en su caso, del alineamiento del estacionamiento público o del lote baldío, según sea el caso.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2013)</small>
+
+La altura máxima de la base para vallas electrónicas será de 120 centímetros sobre el nivel de la banqueta, para los demás casos, el límite será de 60 centímetros;
 
 III. Las vallas sólo podrán instalarse previa expedición de la licencia correspondiente y anuencia escrita del propietario del estacionamiento público o lote baldío correspondiente, y no antes;
 
 IV. Cada valla tendrá una altura máxima de 3 metros y una longitud máxima de 5 metros;
 
-V. Las vallas deberán instalarse con un intervalo de por lo menos un metro de separación entre cada una de ellas, en el cual el titular de la licencia respectiva deberá sembrar elementos vegetales y darles mantenimiento;
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
+
+V. Los anuncios deberán instalarse con un intervalo de por lo menos un metro de separación entre cada uno, un anuncio podrá integrarse hasta por un máximo de dos vallas de medidas reglamentarias;
 
 VI. Cada valla deberá contar con su propio sistema de iluminación;
 
-VII. La valla podrá contener cartelera, pantalla electrónica, y en general, cualquier otra tecnología avanzada, pero en ningún caso anuncios volumétricos;
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
 
-VIII. Las vallas instaladas en un mismo predio, deberán tener una altura uniforme;
+VII. La valla podrá contener cartelera, pantalla electrónica, y en general, cualquier otra tecnología avanzada, para los casos anteriores, a partir de las 18:00 horas y hasta las 07:00 horas, la luminosidad de las pantallas no podrá exceder de 325 nits, además, deberán contar con sensor y sistema automático de ajuste de intensidad, que reduzca la misma al nivel permitido.
+
+En ningún caso la valla podrá contener anuncios volumétricos;
+
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
+
+VIII. Las vallas instaladas en un mismo predio, deberán tener una altura uniforme, salvo que las condiciones del predio no lo permitan y tal circunstancia sea aprobada en el dictamen técnico que para tal efecto emita la Autoridad del Espacio Público;
 
 IX. En ningún caso las vallas podrán fijarse a la fachada o barda, ni instalarse en dos líneas paralelas;
 
-X. Las vallas sólo podrán instalarse durante el tiempo que corresponda a la vigencia de la licencia correspondiente, y
+X. Las vallas sólo podrán instalarse durante el tiempo que corresponda a la vigencia de la licencia correspondiente, y (sic)
 
-XI. En ningún caso podrán instalarse vallas en predios con edificaciones abandonadas, inconclusas, deterioradas o ruinosas, sea que se encuentren o no habitadas ni en elementos del patrimonio cultural urbano.
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
+
+XI. Al momento de la expedición de licencias o autorizaciones temporales, en materia de vallas y tapiales, los licenciatarios o beneficiarios correspondientes podrán suscribir acuerdos de cooperación con la Autoridad del Espacio Público del Distrito Federal, a fin de coordinar esfuerzos para recuperar áreas verdes o espacios en beneficio de la imagen urbana de la Ciudad; la voluntad de obligarse, deberá constar fehacientemente en el instrumento jurídico correspondiente.
+
+Dicho instrumento contemplará las obligaciones que correrán a cargo del particular, las condiciones de aplicación de los recursos humanos, financieros y/o materiales que aportará el particular por cuenta propia, regulará la responsabilidad civil, laboral, penal, de propiedad intelectual, así como la derivada de incumplimiento de las obligaciones o por la existencia de vicios ocultos.
+
+La propuesta de proyecto de recuperación de espacios públicos y/o áreas verdes así como la manifestación de voluntad relativa a suscribir el instrumento jurídico enunciado, podrá ser presentada como parte del expediente técnico de anuncio en valla o tapial, que se acompañe a la solicitud para el otorgamiento de una licencia o autorización temporal, en términos de lo dispuesto por los artículos 86 Bis y 91 Bis del presente Reglamento.
+
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2013)</small>
+
+XII. En el territorio del Distrito Federal, queda prohibida la exhibición de anuncios de propaganda comercial e institucional con estructuras instaladas en vehículos de propiedad pública o privada y cuyo único fin sea difundir anuncios de propaganda.
+
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 50.
 
-Cuando se contravenga cualquiera de las reglas previstas en el artículo inmediato anterior, se considerará que las vallas correspondientes fueron instaladas sin contar con licencia alguna, y el Instituto estará en plenitud de facultad para verificar y sancionar de conformidad con la Ley.
+Cuando se contravenga cualquiera de las reglas previstas en el artículo inmediato anterior, el Instituto estará en plenitud de facultad para verificar si las vallas cuentan con la licencia respectiva y si su instalación cumple con lo autorizado en la misma y, en su caso, para sancionar de conformidad con la Ley.
 
 ###### Artículo 51.
 
@@ -706,9 +758,13 @@ La información cultural podrá difundirse en cualquiera de las siguientes modal
 
 I. Sobre la fachada del edificio donde se lleve a cabo el evento cultural de que se trate, podrán instalarse pendones cuya altura no podrá ser mayor al 70% de la altura del edificio y su ancho no mayor a 1.50 metros, siempre que no cubran los vanos, y
 
-II. En postes con soportes diseñados para instalar gallardetes, podrán instalarse éstos siempre que su altura no sea mayor de 3 metros, que su ancho no sea mayor de 0.60 metros, y que del nivel de la banqueta a la parte inferior del gallardete medie una altura de por lo menos 3 metros.
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
 
-Los gallardetes sólo podrán instalarse en torno al edificio donde se lleve a cabo el evento cultural a difundir, en postes ubicados en las vías públicas a lo largo de una distancia aproximada de una cuadra.
+II. En postes con soportes diseñados para instalar gallardetes, podrán instalarse éstos siempre que su altura no sea mayor de 2 metros, que su ancho no sea mayor de 0.80 metros, y que del nivel de la banqueta a la parte inferior del gallardete medie una altura de por lo menos 3 metros.
+
+Los gallardetes sólo podrán instalarse en torno al edificio donde se lleve a cabo el evento cultural a difundir, en postes ubicados en las vías públicas dentro de un radio de veinte kilómetros.
+
+La autorización temporal contendrá los términos y condiciones para la recolección de los elementos de difusión colocados, dicha operación correrá por cuenta del solicitante.
 
 ###### Artículo 54.
 
@@ -734,9 +790,11 @@ III. Los anuncios en mobiliario urbano.
 
 La propaganda institucional sólo podrá difundirse en los anuncios a los que se refiere el presente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 57.
 
-En ningún caso la información cultural y cívica, ni la propaganda institucional, podrán instalarse:
+En ningún caso la información cívica, ni la propaganda institucional podrá instalarse:
 
 I. En bardas, presas, canales, puentes vehiculares y peatonales, pasos a desnivel, bajo-puentes, camellones con o sin vegetación, muros de contención, taludes, antenas de telecomunicación y sus soportes, ni en semáforos;
 
@@ -744,9 +802,11 @@ II. En cerros, rocas, bordes de ríos, lomas, laderas, lagos, ni en cualquier ot
 
 III. En árboles, ya sea individualmente considerados o en conjunto, parques, jardines, bosques, zonas arboladas, áreas verdes, zonas de conservación ecológica, áreas de valor ambiental, áreas naturales protegidas.
 
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 58.
 
-Cuando se contravenga cualquiera de las reglas previstas en el presente capítulo, se considerará que los anuncios fueron instalados sin contar con autorización temporal alguna, y el Instituto estará en plenitud de facultad para verificar y sancionar de conformidad con la Ley.
+Cuando se contravenga cualquiera de las reglas previstas en el presente capítulo, el Instituto estará en plenitud de facultad para verificar si el anuncio de información cultural y cívica, así como de la propaganda institucional y electoral, cuenta con la autorización temporal respectiva y si su instalación cumple con lo autorizado en la misma y, en su caso, para sancionar de conformidad con la Ley.
 
 ###### Artículo 59.
 
@@ -890,9 +950,13 @@ c). Denominativos en inmuebles ubicados en Áreas de Conservación Patrimonial y
 
 d). Denominativos en inmuebles ubicados en Suelo de Conservación;
 
-e). En vallas en el perímetro de inmuebles ubicados en vías primarias, y
+e). En vallas en el perímetro de inmuebles ubicados en vías primarias, y (sic)
 
 g). En mobiliario urbano, y
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2013)</small>
+
+h). Adosados a muros ciegos en corredor publicitario, de conformidad con el programa que para tal efecto implemente la Secretaría;
 
 III. Las autorizaciones temporales para anuncios:
 
@@ -1014,9 +1078,11 @@ La vigencia de los Permisos Administrativos Temporales Revocables será de cinco
 
 ### Capítulo tercero. Del otorgamiento de licencias
 
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 82.
 
-Para la instalación de un anuncio de propaganda comercial en un corredor publicitario, de un denominativo en inmueble, de un anuncio en valla o de un anuncio en mueble urbano, será necesario obtener una licencia.
+Para la instalación de un anuncio de propaganda comercial en un corredor publicitario, de un denominativo en inmueble, de un anuncio en valla, de un anuncio adosado a muro ciego o de un anuncio en mueble urbano, será necesario obtener una licencia.
 
 ###### Artículo 83.
 
@@ -1030,29 +1096,45 @@ II. Por mueble urbano, tratándose de los anuncios en mobiliario urbano;
 
 > <small>(ADICIONADA, G.O. 2 DE MARZO DE 2012)</small>
 
-III. Por Permiso Administrativo Temporal Revocable expedido por la Oficialía Mayor, tratándose de mobiliario urbano que forme parte de proyectos de infraestructura de transporte masivo o colectivo avalados por la Administración Pública del Distrito Federal, y
+III. Por Permiso Administrativo Temporal Revocable expedido por la Oficialía Mayor, tratándose de mobiliario urbano que forme parte de proyectos de infraestructura de transporte masivo o colectivo avalados por la Administración Pública del Distrito Federal, y (sic)
 
-IV. Por inmueble, tratándose de los anuncios en vallas.
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
+
+IV. Por inmueble, tratándose de anuncios adosados a muros ciegos en corredor publicitario con la identificación precisa del muro del que se trate, de conformidad con el programa que para tal efecto implemente la Secretaría; y
+
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2013)</small>
+
+V. Por inmueble, tratándose de los anuncios en vallas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 84.
 
-El expediente técnico del anuncio, que se acompañe a la solicitud para el otorgamiento de una licencia de anuncio de propaganda comercial en un corredor publicitario, deberá integrarse por la siguiente información y documentos:
+El expediente técnico del anuncio, que se acompañe a la solicitud para el otorgamiento de una licencia de anuncio de propaganda comercial o adosado a muro ciego en un corredor publicitario, deberá integrarse por la siguiente información y documentos:
 
 > <small>(REFORMADA, G.O. 2 DE MARZO DE 2012)</small>
 
 I. Croquis de ubicación del predio donde se pretenda instalar el anuncio, en el que se indiquen las calles y datos de orientación necesarios, y en el que se indique también la ubicación precisa del anuncio dentro del predio;
 
-II. Tipo de anuncio: autosoportado, adosado u otro (en cuyo caso el solicitante deberá especificarlo);
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
 
-III. Dimensiones de la pantalla o cartelera;
+II. Tipo de anuncio: autosoportado, adosado, adosado a muro ciego u otro (en cuyo caso el solicitante deberá especificarlo);
+
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
+
+III. Dimensiones de la pantalla, cartelera o superficie de exhibición del muro ciego;
 
 IV. Altura del soporte, desde el nivel de banqueta al nivel inferior de la cartelera o de la pantalla, en su caso;
 
 V. Tipo, material y dimensiones del soporte, en su caso;
 
-VI. Cálculos estructurales y memoria estructural;
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
 
-VII. Planos acotados y a escala:
+VI. Cálculos estructurales y memoria estructural, en su caso;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2013)</small>
+
+VII. Planos acotados y a escala, según sea el caso:
 
 > <small>(REFORMADO, G.O. 2 DE MARZO DE 2012)</small>
 
@@ -1072,7 +1154,9 @@ e). (DEROGADO, G.O. 2 DE MARZO DE 2012)
 
 VIII. Perspectiva o render del entorno, en la que se considere también el anuncio de que se trate.
 
-IX. Opinión técnica de la Secretaría de Protección Civil de que el anuncio no representa un riesgo para la integridad física o patrimonial de las personas;
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
+
+IX. Opinión técnica de la Secretaría de Protección Civil de que el anuncio no representa un riesgo para la integridad física o patrimonial de las personas, salvo que se trate de anuncios pintados directamente en el muro ciego;
 
 X. Dictamen favorable de la Dirección del Patrimonio Cultural Urbano, adscrita a la Secretaría, cuando el inmueble en el que se pretenda instalar el anuncio se encuentre en Área de Conservación Patrimonial o en un elemento del patrimonio cultural urbano;
 
@@ -1080,7 +1164,9 @@ XI. Autorización de impacto ambiental emitida por la Secretaría del Medio Ambi
 
 XII. Copia simple de los recibos de pago del impuesto predial y del derecho de suministro de agua, respectivamente, del inmueble de que se trate, correspondientes al bimestre inmediato anterior a la fecha de la solicitud;
 
-XIII. En su caso, copia del contrato de arrendamiento entre el poseedor o propietario del inmueble y el publicista, y
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
+
+XIII. En su caso, copia del contrato de arrendamiento entre el propietario, administrador o poseedor del inmueble y el publicista, y
 
 XIV. Los demás que disponga la Ley y el presente Reglamento.
 
@@ -1148,7 +1234,9 @@ El expediente técnico de la valla, que se acompañe a la solicitud para el otor
 
 I. Croquis de ubicación del predio donde se pretenda instalar el anuncio, en el que se indiquen las calles y datos de orientación necesarios y en el que se indique también la ubicación precisa y la cantidad de las vallas a instalar;
 
-II. Condición del predio: Baldío, estacionamiento público u otro, en cuyo caso el solicitante deberá especificarlo;
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
+
+II. Condición del predio: Baldío o estacionamiento público;
 
 III. (DEROGADA, G.O. 2 DE MARZO DE 2012)
 
@@ -1166,15 +1254,31 @@ VIII. Dictamen favorable de la Dirección del Patrimonio Cultural Urbano, adscri
 
 IX. Póliza de seguro de responsabilidad civil por daños a terceros;
 
-X. Proyecto de incremento de capacidad del predio para alojar vehículos, aprobado por la Autoridad del Espacio Público del Distrito Federal, cuando se pretenda instalar las vallas en un estacionamiento público;
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
+
+X. Proyecto de incremento de eficiencia para alojar vehículos, sujeto a la aprobación de la Autoridad del Espacio Público del Distrito Federal, cuando se pretenda instalar las vallas en un estacionamiento público;
 
 XI. Escrito en el que conste la anuencia del propietario del estacionamiento público o lote baldío correspondiente para la instalación de los anuncios en vallas, o en su caso, copia del contrato de arrendamiento entre el poseedor o propietario del inmueble y el publicista, y
 
-XII. Los demás que disponga la Ley y el presente Reglamento.
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
 
-> <small>(DEROGADO PENÚLTIMO PÁRRAFO, G.O. 2 DE MARZO DE 2012)</small>
+XII. Los demás requisitos que disponga la Ley y el presente Reglamento, específicamente en lo referente a anuncios en vallas.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2013)</small>
+
+Cuando la Secretaría y las Delegaciones, en el ámbito de sus respectivas competencias, reciban una solicitud de licencia de anuncio en valla instalado con anterioridad a la entrada en vigor de la Ley, deberán solicitar al interesado la acreditación de este hecho, una fotografía actualizada del anuncio y corroborar con una visita al inmueble el estado del anuncio. Si de la visita se advierte que el anuncio presenta características notoriamente incompatibles con las disposiciones de la Ley y este Reglamento, mal aspecto, deterioro, suciedad o abandono, la Secretaría y las Delegaciones exhortarán al interesado para que ajuste el anuncio conforme a lo previsto en la Ley y el presente Reglamento; si el interesado no desea realizar dicho ajuste, desecharán la solicitud correspondiente, sin perjuicio de los beneficios que goce el anuncio por derechos adquiridos.
 
 Los documentos previstos en el presente artículo deberán entregarse tanto en versión digital como impresa, y contener la firma del solicitante.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2013)</small>
+
+###### Artículo 86 Bis.
+
+Aunado a lo dispuesto por el artículo anterior, el expediente técnico de la valla, que se acompañe a la solicitud para el otorgamiento de una licencia de anuncios en vallas en el perímetro de un inmueble, podrá integrarse por la siguiente información y documentos:
+
+I. Proyecto de propuesta de recuperación y mantenimiento de áreas verdes y/o espacios públicos en términos de la fracción XI del artículo 49 del presente Reglamento;
+
+II. Manifestación de voluntad para la futura suscripción del instrumento jurídico.
 
 ###### Artículo 87.
 
@@ -1285,6 +1389,16 @@ XIII. Los demás que disponga la Ley y el presente Reglamento.
 Los planos previstos en el presente artículo, incluirán materiales estructurales, acabados, color y texturas. A su vez, los pies de plano correspondientes contendrán croquis de ubicación del anuncio, escala gráfica, fecha, nombre del plano y su número, nombre y firma del solicitante.
 
 Los documentos previstos en el presente artículo deberán entregarse tanto en versión digital como impresa, y contener la firma del solicitante.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2013)</small>
+
+###### Artículo 91 Bis.
+
+El expediente técnico del anuncio en tapial, que se acompañe a la solicitud para el otorgamiento de una autorización temporal para anuncios en tapiales, podrá integrarse por la siguiente información y documentos:
+
+I. Proyecto de propuesta de recuperación y mantenimiento de áreas verdes y/o espacios públicos en términos de la fracción XI del artículo 49 del presente Reglamento;
+
+II. Manifestación de voluntad para la futura suscripción del instrumento jurídico.
 
 ###### Artículo 92.
 
@@ -1449,3 +1563,9 @@ Segundo. Las propuestas de reubicación de anuncios presentadas con anterioridad
 G.O. 30 DE ABRIL DE 2012.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 20 DE AGOSTO DE 2013.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
