@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2013-07-10"
+last_updated: "2013-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -2305,7 +2305,7 @@ Además de las sanciones que señalen los artículos anteriores, los jueces podr
 
 Se reducirá hasta la mitad del mínimo y máximo de la pena de prisión prevista para el homicidio y las lesiones, a quien realice estos delitos en las circunstancias siguientes:
 
-I.- Al que en un estado de emoción violenta, por la sorpresa de encontrar a su cónyuge en el acto adulterino o en uno próximo a su consumación, prive de la vida o lesione a uno o ambos, salvo que el activo haya contribuido o aceptado la corrupción de su cónyuge; y
+I.- (DEROGADA, B.O. 20 DE AGOSTO DE 2013)
 
 II.- Al ascendiente que prive de la vida o lesione al corruptor del descendiente que esté bajo su patria potestad, si lo hiciere en el momento de hallarlo en el acto carnal o en uno próximo a su realización, sin que hubiese procurado o permitido la corrupción de su descendiente y obre por una reacción violenta.
 
@@ -3164,3 +3164,7 @@ El presente Decreto entrara en vigor al día siguiente al de su publicación en 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 20 DE AGOSTO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Boletín Oficial del Gobierno del Estado.
