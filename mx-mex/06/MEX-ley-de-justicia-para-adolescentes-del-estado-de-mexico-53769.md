@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-justicia-para-adolescentes-del-estado-de-mexico-53769"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-25"
-last_updated: "2007-09-26"
+last_updated: "2013-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MEXICO
 
-LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MEXICO
+LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 25 de enero de 2007.
 
@@ -77,11 +77,13 @@ III. Establecer las atribuciones y facultades de las autoridades, instituciones 
 
 IV. Establecer los procedimientos y mecanismos para determinar la responsabilidad de los adolescentes por la comisión de una conducta antisocial; y
 
-V. Regular la ejecución de las medidas aplicables a los adolescentes que resulten responsables por la comisión de una conducta antisocial.3
+V. Regular la ejecución de las medidas aplicables a los adolescentes que resulten responsables por la comisión de una conducta antisocial.
+
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 4.
 
-Los principios rectores del Sistema de justicia para adolescentes en el Estado de México, son: El Interés Superior del Adolescente el cual tiene prevalencia ante cualquier otro interés que vaya en su perjuicio, dicho interés consiste en su protección integral así como su reintegración a la sociedad y a la familia, el reconocimiento expreso de todos sus derechos y garantías, que le otorga la Constitución General de la República a todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos a los adolescentes, la mínima intervención de las autoridades, la especialización de las autoridades, la celeridad y la flexibilidad procesal, la proporcionalidad y la racionalidad en la determinación de las medidas que amerite cada caso, se observará la garantía del debido proceso legal, los principios generales del derecho y los del Sistema Nacional de Justicia para Adolescentes.
+Los principios rectores del Sistema de justicia para adolescentes en el Estado de México, son: El Interés Superior del Adolescente el cual tiene prevalencia ante cualquier otro interés que vaya en su perjuicio, dicho interés consiste en su protección integral, su reintegración a la sociedad y a la familia, el pleno desarrollo de su persona y capacidades, reconocimiento expreso de todos sus derechos y garantías, que le otorga la Constitución General de la República a todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos a los adolescentes, la mínima intervención de las autoridades, la especialización de las autoridades, la celeridad y la flexibilidad procesal, la proporcionalidad y la racionalidad en la determinación de las medidas que amerite cada caso basándose en el examen de la gravedad del hecho y en las circunstancias personales como la condición social, la situación familiar, el daño causado por el hecho u otros factores en que intervengan circunstancias individuales, se observará la garantía del debido proceso legal, los principios generales del derecho y los del Sistema Nacional de Justicia para Adolescentes.
 
 ###### Artículo 5.
 
@@ -99,7 +101,7 @@ V. Conducta Antisocial Grave: Cuando el Adolescente cometa alguna de las conduct
 
 > <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-a) Homicidio; establecido en el articulo 241 del Código Penal del Estado de México y el culposo establecido en el articulo 61 segundo párrafo, fracciones I, II y V.
+a) Homicidio; establecido en el articulo 241 del Código Penal del Estado de México y el culposo establecido en el artículo 61 segundo párrafo, fracciones I, II y V.
 
 b) Secuestro; establecido en el artículo 259 del Código Penal del Estado de México, en todas sus modalidades, excepto los 2 últimos párrafos.
 
@@ -189,7 +191,9 @@ Tanto la responsabilidad de los adolescentes, como lo relativo a la determinaci�
 
 I. Los adolescentes que tengan 12 años de edad cumplidos y menos de 14, que sean presuntos responsables en la comisión de alguna conducta antisocial, podrán ser sujetos a procedimiento con externamiento y solo se les podrán imponer las medidas de tratamiento con externamiento, con arreglo a la presente ley;
 
-II. Los adolescentes que se encuentren entre los 14 años cumplidos y menos de 18 años de edad, en caso de ser encontrados responsables de una conducta antisocial, y de no ser posible la imposición de una medida de tratamiento en externamiento, por la gravedad de la conducta, se le aplicará una medida de tratamiento en internamiento, como última alternativa, la cual no podrá exceder de cinco años;
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+II. Los adolescentes que tengan entre los 14 años cumplidos y menos de 18 años de edad, en caso de ser encontrados responsables de una conducta antisocial, y de no ser posible la imposición de una medida de tratamiento en externamiento, por la gravedad de la conducta, se les aplicará una medida de tratamiento en internamiento, como última alternativa, la cual no podrá exceder de diez años;
 
 III. Cuando en las resoluciones definitivas los jueces de adolescentes determinen una medida de tratamiento en internamiento, se aplicarán éstas de conformidad a lo establecido por el Libro Segundo de esta ley.
 
@@ -281,9 +285,11 @@ II. Cuando sea sorprendido en flagrancia o flagrancia equiparada en la comisión
 
 III. Cuando existan elementos de prueba suficientes que sustenten que la libertad del adolescente represente, por los antecedentes de su conducta de reincidencia, por las circunstancias y características de la conducta antisocial considerada como grave en esta ley o cuando se prevea un riesgo para el ofendido y para la sociedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 24.
 
-La medida de tratamiento en internamiento durante el procedimiento tendrá el carácter de excepcional y será aplicada como medida de último recurso, por el tiempo más breve posible.
+La medida de tratamiento en internamiento durante el procedimiento tendrá el carácter de excepcional y será aplicada como medida de último recurso, por el tiempo más breve posible, teniendo en cuenta las necesidades propias del adolescente a partir de su estado de desarrollo.
 
 En ningún caso la medida de tratamiento en internamiento durante el procedimiento excederá de 90 días hábiles atendiendo a conductas antisociales graves, procurando que la substanciación del procedimiento sea lo menos gravosa posible. Para tal efecto, se deberá notificar al adolescente este derecho en cualquier etapa del procedimiento.
 
@@ -305,9 +311,15 @@ Al adolescente que se le atribuya una conducta antisocial tiene el derecho a rec
 
 En las etapas del procedimiento, ningún adolescente, podrá ser sometido a torturas ni a otros tratos o penas crueles, inhumanas, degradantes, inusitadas o trascendentes, ni a cualquier otra forma de práctica que atente contra su dignidad y desarrollo integral, tales como la incomunicación o régimen de aislamiento.
 
+> <small>(ADICIONADO, G.G. 20 DE AGOSTO DE 2013)</small>
+
+Ningún adolescente podrá ser sustraído, total o parcialmente, de la supervisión de sus padres o tutores, a no ser que las circunstancias del caso lo hagan necesario, atendiendo al interés superior del adolescente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 28.
 
-A los adolescentes a quienes se les atribuya una conducta antisocial y estén sujetos a un procedimiento para determinar su probable responsabilidad, se les garantizará el derecho a que se respete su vida privada y la de su familia. Sus datos personales y los del procedimiento en el que se ve implicado serán confidenciales, quedando prohibida su divulgación conforme lo dispone la Ley de la materia.
+A los adolescentes a quienes se les atribuya una conducta antisocial y estén sujetos a un procedimiento para determinar su probable participación, se les garantizará, durante todo el proceso judicial, el derecho a que se respete su vida privada y la de su familia. Sus datos personales y los del procedimiento en el que se ve implicado serán confidenciales, quedando prohibida su divulgación conforme lo dispone la Ley de la materia.
 
 Las autoridades que divulguen la identidad de un adolescente sujeto a un procedimiento para determinar su responsabilidad, en cualquiera de sus etapas, o los datos del procedimiento en el que se vea implicado, mediante comunicación electrónica, impresa, personal o cualquier otro medio, se hará acreedor al pago de una indemnización equivalente a mil días de salario mínimo general vigente correspondiente al área geográfica de donde se cometa la falta, a favor del adolescente afectado con total independencia de las sanciones administrativas que resulten procedentes en contra de las autoridades de conformidad con lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de México y la Ley de Responsabilidades de los Servidores públicos del Estado y Municipios.
 
@@ -316,6 +328,10 @@ Las autoridades encargadas de aplicar el Sistema de Justicia para adolescentes, 
 ###### Artículo 29.
 
 Los adolescentes tendrán el derecho a ser asistidos por un defensor en todo momento. Para el caso de no contar con un defensor particular, se les asignará la asistencia de un Defensor de Oficio. Las actuaciones practicadas sin asistencia de un defensor serán nulas.
+
+> <small>(ADICIONADO, G.G. 20 DE AGOSTO DE 2013)</small>
+
+Asimismo, los padres o tutores tendrán derecho de coadyuvar con la defensa y quienes imparten justicia podrán requerir su presencia en defensa de las personas adolescentes. Dicha coadyuvancia podrá ser denegada por la autoridad competente cuando existan motivos fundados para presumir que la exclusión es necesaria en defensa del adolescente.
 
 ###### Artículo 30.
 
@@ -585,9 +601,15 @@ El Poder Judicial del Estado de México, a través del Consejo de la Judicatura,
 
 Los juzgados de adolescentes tendrán jurisdicción en el territorio del distrito judicial al que pertenezcan, conforme lo determine el Poder Judicial.
 
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 68.
 
-Los jueces de adolescentes son autoridades que conocerán y resolverán la situación jurídica de los adolescentes a quienes se les atribuya la realización de una conducta antisocial.
+Los jueces de adolescentes son autoridades que conocerán y resolverán la situación jurídica de los adolescentes a quienes se les atribuya la realización de una conducta antisocial y se regirán bajo los siguientes principios:
+
+a). La medida de tratamiento que se aplique será siempre proporcional, tanto a la gravedad de la conducta, como a las circunstancias y necesidades del adolescente;
+
+b). En el examen de los casos se considerará primordial el bienestar del adolescente.
 
 ###### Artículo 69.
 
@@ -725,9 +747,11 @@ Su respuesta se hará constar, y si es en sentido afirmativo, se procederá a re
 
 A los servidores públicos de que habla este artículo, que omitan formular la protesta en los términos referidos, se les impondrán por el superior jerárquico las correcciones disciplinarias a que se refiere el artículo 34 del Código de Procedimientos Penales para el Estado de México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 75.
 
-El procedimiento para determinar la responsabilidad de un adolescente en la conducta antisocial que presuntamente se le atribuya, será justo, flexible, ágil, predominantemente oral, privado, confidencial y sumario.
+En el procedimiento instruido a adolescentes deberá aplicarse el debido proceso legal, garantizando a plenitud todos los derechos procesales previstos en la ley. Además será justo, flexible, ágil, predominantemente oral, privado, confidencial y sumario.
 
 De todas las actuaciones por escrito se obtendrá un duplicado del original, el que debidamente autorizado y con la firma o dactilograma de los comparecientes, se conservará en el archivo de las autoridades de justicia penal de adolescentes como duplicado del expediente.
 
@@ -829,7 +853,7 @@ Antes de cerrarse la audiencia, el Juez de Adolescentes o el secretario, pregunt
 
 ###### Artículo 93.
 
-La persona ofendida por la acción u omisión del adolescente podrá participar, por sí o mediante su representante, a través del Ministerio Público de Adolescentes en el procedimiento, pudiendo estar presente en la audiencia de vista oral. Iguales derechos tendrá el o la cónyuge, concubina o concubinario, los parientes dentro del cuarto grado por consaguinidad o segundo por afinidad y el adoptante o adoptado del ofendido, cuando se haya provocado la muerte de éste.
+La persona ofendida por la acción u omisión del adolescente podrá participar, por sí o mediante su representante, a través del Ministerio Público de Adolescentes en el procedimiento, pudiendo estar presente en la audiencia de vista oral. Iguales derechos tendrá el o la cónyuge, concubina o concubinario, los parientes dentro del cuarto grado por consaguinidad (sic) o segundo por afinidad y el adoptante o adoptado del ofendido, cuando se haya provocado la muerte de éste.
 
 ###### Artículo 94.
 
@@ -1224,6 +1248,10 @@ En los casos, en que, habiéndose disminuido la materia de la acusación o el gr
 ###### Artículo 142.
 
 Para una correcta individualización de las medidas de tratamiento, los Jueces de Adolescentes, deberán razonar pormenorizadamente las circunstancias objetivas y subjetivas de su conducta y en cuanto a la medida de tratamiento la resolución deberá contener como mínimo lo que establece los artículos 190 y 192 de esta ley.
+
+> <small>(ADICIONADO, G.G. 20 DE AGOSTO DE 2013)</small>
+
+Antes de que se dicte la resolución definitiva, debe efectuarse una investigación completa sobre el medio social y las condiciones en que se desarrolla el adolescente.
 
 ###### Artículo 143.
 
@@ -1851,7 +1879,9 @@ Las medidas referidas en esta fracción, tendrán una duración mínima de seis 
 
 VI. El internamiento en los albergues temporales para adolescentes: Es la introducción y permanencia del adolescente en las Instituciones establecidas para proporcionar tratamiento al interior de las mismas, cuando haya resultado responsable en la comisión de una conducta antisocial considerada grave.
 
-En este último caso, la medida tendrá una duración mínima de un año y máxima de cinco años;
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+
+En este último caso, la medida tendrá una duración mínima de dos años y máxima de diez años;
 
 VII. La sujeción a horarios determinados para actividades de vida diaria: Consistirá en el mandato por el cual el Juez de Adolescentes asignará al adolescente un horario para el desarrollo de sus actividades fuera del domicilio donde habite.
 
@@ -2255,9 +2285,11 @@ Las autoridades de justicia penal para adolescentes, al adoptar las disposicione
 
 Las medidas deberán ser aplicadas en forma individual, progresiva e integral, estableciendo lineamientos generales y terapéuticos; fomentando la efectividad de éstas medidas e incentivando durante la implantación de las mismas, el fortalecimiento y la consolidación de su personalidad al proceso de reintegración a la sociedad y a la familia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 287.
 
-Las medidas en internamiento no podrán exceder de cinco años.
+Las medidas en internamiento no podrán exceder de diez años.
 
 El cumplimiento de las medidas en internamiento se dividirá en dos periodos: el primero se llevará a cabo en los establecimientos de internamiento; y el segundo se llevará a cabo en externamiento asistido por parte de las Instituciones de Tratamiento en Externamiento, debiendo cumplir con las condiciones que le sean impuestas.
 
@@ -2375,7 +2407,7 @@ DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 26 DE SEPTIEMBRE DE 2007.
 
@@ -2386,3 +2418,9 @@ Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 20 DE AGOSTO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
