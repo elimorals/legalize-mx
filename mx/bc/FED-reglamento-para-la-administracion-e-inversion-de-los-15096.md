@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-administracion-e-inversion-de-los-15096"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-13"
-last_updated: "2004-07-21"
+last_updated: "2013-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15096&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1999-10-12"
 ---
 # REGLAMENTO PARA LA ADMINISTRACION E INVERSION DE LOS RECURSOS FINANCIEROS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
 
-REGLAMENTO PARA LA ADMINISTRACION E INVERSION DE LOS RECURSOS FINANCIEROS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
+REGLAMENTO PARA LA ADMINISTRACIÓN E INVERSIÓN DE LOS RECURSOS FINANCIEROS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO Y TERCERO DEL REGLAMENTO DE LA LEY DEL SEGURO SOCIAL PARA LA CONSTITUCIÓN, INVERSIÓN Y USO PARA LA OPERACIÓN, DE LAS RESERVAS FINANCIERAS Y ACTUARIALES Y LA RESERVA GENERAL FINANCIERA Y ACTUARIAL, ASÍ COMO PARA LA DETERMINACIÓN DE LOS COSTOS FINANCIEROS QUE DEBERÁN REINTEGRARSE A LA RESERVA DE OPERACIÓN PARA CONTINGENCIAS Y FINANCIAMIENTO, PUBLICADO EN EL D.O.F. DE 20 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL ACUERDO QUE REGULE LA ADMINISTRACIÓN DE LOS RECURSOS Y EXCEDENTES ESTABLECIDOS EN EL ARTÍCULO 253 DE LA LEY DEL SEGURO SOCIAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de octubre de 1999.
 
@@ -413,8 +415,24 @@ SEGUNDO. Las modificaciones a las estructuras del Instituto Mexicano del Seguro 
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de octubre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Mariano Palacios Alcocer.- Rúbrica.- El Secretario de Contraloría y Desarrollo Administrativo, Arsenio Farell Cubillas.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 21 DE JULIO DE 2004.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Consejo Técnico del Instituto Mexicano del Seguro Social, dentro de los noventa días siguientes a la fecha de entrada en vigor de este ordenamiento, emitirá el Acuerdo que regule la administración de los recursos y excedentes establecidos en el artículo 253 de la Ley del Seguro Social que constituyen el patrimonio del Instituto, y de las Reservas Operativas y la Reserva de Operación para Contingencias y Financiamiento, establecidas respectivamente en los artículos 281 y 283 de la Ley; las disposiciones para que la Reserva de Operación para Contingencias y Financiamiento se utilice para apoyar el flujo de efectivo, así como la forma en que se invertirá el excedente diario de efectivo.
+
+TERCERO.- El Reglamento para la Administración e Inversión de los Recursos Financieros del Instituto Mexicano del Seguro Social, quedará abrogado a partir de le fecha de entrada en vigor del Acuerdo a que se refiere el artículo inmediato anterior.
+
+CUARTO.- El Consejo Técnico expedirá el Manual a que se refiere el último párrafo del artículo 9 de este Reglamento, dentro de los treinta días posteriores a la entrada en vigor del presente ordenamiento.
+
+En tanto se expide el referido Manual, se continuará aplicando lo dispuesto en los artículos 3 al 9 del Reglamento para la Administración e Inversión de los Recursos Financieros del Instituto Mexicano del Seguro Social.
+
+QUINTO.- El Consejo Técnico deberá emitir las políticas y directrices a que se refiere el artículo 8 de este Reglamento, dentro de los noventa días posteriores a la entrada en vigor del mismo.
+
+SEXTO.- Para dar cumplimiento a lo establecido en el párrafo segundo del artículo 3 de este Reglamento, y en atención a lo dispuesto en los artículos 70 y 146 de la Ley del Seguro Social, el Instituto deberá convenir con la Secretaría de Hacienda y Crédito Público el tratamiento financiero de los seguros de Invalidez y Vida y Riesgos de Trabajo sujetos al régimen de la Ley del Seguro Social vigente hasta el 30 de junio de 1997.
