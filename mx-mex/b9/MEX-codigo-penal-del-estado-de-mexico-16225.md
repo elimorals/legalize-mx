@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2013-07-18"
+last_updated: "2013-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO PENAL DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE AGOSTO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE AGOSTO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -841,11 +843,11 @@ En caso de concurso se impondrá la pena correspondiente al delito que merezca l
 
 ### CAPITULO VI. CASOS DE REINCIDENCIA Y HABITUALIDAD
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2013) (F. DE E., G.G. 28 DE FEBRERO DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 69.
 
-La reincidencia y habitualidad referida en los artículos 19 y 20 será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios o de los sustitutivos penales que la ley prevé. No se otorgarán beneficios, sustitutivos, ni la suspensión de la pena de prisión cuando se trate de delito de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que cause la muerte.
+La reincidencia y habitualidad referida en los artículos 19 y 20 será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios o de los sustitutivos penales que la Ley prevé. No se otorgarán beneficios, sustitutivos, ni la suspensión de la pena de prisión cuando se trate de delitos de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que cause la muerte.
 
 > <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
 
@@ -1797,13 +1799,25 @@ Al servidor público a quien se le haya hecho ofrecimiento o promesa de dinero o
 
 Si el delito fuera cometido por servidores públicos de la administración y procuración de justicia, así como de la policía pública o privada, se aumentará la pena hasta en una mitad más de la que le corresponda.
 
-> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 152.
 
-Al que a sabiendas acepte, reciba, detente o adquiera mediante cualquier forma o título, bienes que procedan de la comisión del delito de robo, se le impondrán de tres a ocho años de prisión y multa igual a cinco veces el valor de los bienes, sin exceder de un mil días multa. Los adquirentes, detentadores o comercializadores no serán sancionados cuando acrediten fehacientemente buena fe en la adquisición o tenencia de los bienes.
+Comete el delito de encubrimiento por receptación, el que sin haber participado en la comisión de un hecho delictivo:
 
-A quien comercialice mediante cualquier forma o título con los bienes que procedan de la comisión del delito de robo, se impondrá una pena de cinco a diez años de prisión y multa igual a cinco veces el valor de los bienes.
+I. Acepte, reciba, adquiera, posea, venda, enajene, comercialice, trafique, pignore, traslade, use u oculte el o los objetos, productos o instrumentos del delito, con conocimiento de esta circunstancia. Al responsable de este delito se le impondrán dos terceras partes de la pena del delito encubierto y multa igual a cinco veces el valor de los bienes, sin exceder de un mil días multa.
+
+En el caso que se trate de un vehículo automotor, se impondrá la pena de dos a ocho años de prisión y multa igual a cinco veces el valor del bien.
+
+II. Acepte, reciba, adquiera, posea, pignore, traslade, use u oculte mediante cualquier forma o título, objetos, productos o instrumentos del delito, sin haber adoptado las precauciones indispensables para cerciorarse de su procedencia lícita o para asegurarse de que la persona de quien los recibió tenía derecho para disponer de ellos.
+
+Al responsable de este delito se le impondrán las penas correspondientes al delito culposo. Cuando se trate de un vehículo automotor, se le impondrán de uno a tres años de prisión y multa igual a tres veces el valor de los bienes.
+
+Se entiende por adoptar las precauciones indispensables, contar con la documentación que acredite la propiedad o posesión del bien, como la factura, contrato de arrendamiento, endoso, entre otros.
+
+Para el caso de vehículos automotores se entiende por adoptar las precauciones indispensables, cuando en la documentación probatoria de trasmisión de la propiedad se establezca la fecha de adquisición y el precio de su trasmisión, el nombre, el domicilio y el número de identificación oficial del vendedor, así como la constancia o certificación obtenida electrónicamente, de que el vehículo no aparece en la base de datos de autos robados del Registro Público Vehicular al momento de la compra-venta.
+
+Lo anterior, sin perjuicio de que durante la investigación se acredite que la documentación es apócrifa o que los medios de identificación del vehículo hayan sido alterados.
 
 ###### Artículo 153.
 
@@ -3053,13 +3067,17 @@ I. Al responsable de homicidio simple, se le impondrán de diez a quince años d
 
 Cuando el homicidio se cometa contra una persona en ejercicio de la actividad periodística, se le impondrán de doce a veinte años de prisión y de trescientos a quinientos cincuenta días multa.
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
 
-II. Al responsable de homicidio calificado, se le impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa; y
+II. Al responsable de homicidio calificado, se le impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
 
-III. Al responsable de homicidio cometido en contra de su cónyuge, concubina, concubinario, ascendientes, descendientes consanguíneos en línea recta o hermanos, teniendo conocimiento el inculpado del parentesco, se le impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa.
+III. Al responsable de homicidio cometido en contra de su cónyuge, concubina, concubinario, ascendientes, descendientes consanguíneos en línea recta o hermanos, teniendo conocimiento el inculpado del parentesco, se le impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa; y
+
+> <small>(ADICIONADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+IV. Al responsable del homicidio de dos o más personas, en el mismo o en distintos hechos, se le impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa.
 
 > <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
 
@@ -3101,7 +3119,7 @@ Si en este delito tuviere participación un médico cirujano, comadrona o parter
 
 ### CAPITULO VI. EXTORSION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 244.
 
@@ -3115,9 +3133,21 @@ I. Premeditación: cuando se cometen después de haber reflexionado sobre su eje
 
 II. Ventaja: cuando el inculpado no corra riesgo alguno de ser muerto o lesionado por el ofendido;
 
-III. Alevosía: cuando se sorprende intencionalmente a alguien de improviso o empleando asechanza; y
+III. Alevosía: cuando se sorprende intencionalmente a alguien de improviso o empleando asechanza; y (sic)
 
 IV. Traición: cuando se emplea la perfidia, violando la fe o la seguridad que expresamente se había prometido a la víctima, o la tácita que ésta debía esperar en razón del parentesco, gratitud, amistad o cualquier otra que inspire confianza.
+
+> <small>(ADICIONADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+V. Tratándose del delito de homicidio, también se considerará calificado cuando:
+
+a) Exista retribución, entendiéndose por ésta cuando el sujeto activo lo cometa por pago o prestación prometida o dada.
+
+b) En el momento de la privación de la vida, o posteriormente a ello, se realice la decapitación, mutilación, quemaduras o desmembramiento de la víctima.
+
+c) En el momento de la privación de la vida, o posteriormente a ello, se deje o utilice uno o más mensajes intimidatorios dirigidos a la población, autoridades o cualquier persona. O se deje uno o más mensajes que atenten contra la dignidad humana, por la exhibición de la causa de la muerte.
+
+d) Se cometa en contra de una mujer o de un menor de edad.
 
 > <small>(ADICIONADO, G.G. 28 DE OCTUBRE DE 2010)</small>
 
@@ -3275,7 +3305,7 @@ Al conductor de un vehículo cualquiera o jinete que deje en estado de abandono,
 
 ### CAPITULO IV. VIOLACION
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 256.
 
@@ -3433,17 +3463,23 @@ Las penas señaladas en el artículo anterior se incrementarán hasta en una mit
 
 Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, con la finalidad de obtener un lucro o beneficio para sí o para otro o causar un daño, se le impondrán de tres a nueve años de prisión y de cien a quinientos días multa.
 
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2013)</small>
-
 Cuando este delito se cometa utilizando cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe a través de hilos, medios de transmisión inalámbrica de ondas o señales electromagnéticas, medios ópticos, o cualquier medio físico, se le impondrán de cinco a diez años de prisión y de cien a quinientos días multa.
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+Se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa, cuando concurra cualquiera de las siguientes circunstancias:
 
-Si en la comisión de este delito participa algún miembro de una corporación policíaca o servidor público, se impondrá además, la destitución e inhabilitación de dos a catorce años para desempeñar cualquier empleo, cargo o comisión pública.
+I. Se ostente como miembro de alguna asociación o grupo delictuoso;
 
-> <small>(ADICIONADO, G.G. 21 DE FEBRERO DE 2013)</small>
+II. Intervengan dos o más personas armadas, o con objetos peligrosos para su comisión;
 
-Se impondrá además, una pena de dos a cinco años de prisión, cuando el sujeto activo del delito se haya ostentado como miembro de una asociación o grupo delictuoso.
+III. Se cometa con violencia;
+
+IV. El sujeto pasivo del delito sea menor de edad, mujer, persona con discapacidad o persona mayor de sesenta años;
+
+V. El sujeto activo del delito sea o haya sido, miembro de una institución de seguridad pública o privada, militar, organismos auxiliares de la función de seguridad pública, servidor público, o se ostente como tal; así mismo cuando porte vestimentas o instrumentos de identificación, utilizados por integrantes de instituciones de seguridad pública;
+
+VI. Para su comisión, el sujeto activo se aproveche de tener alguna relación de confianza, laboral, de parentesco o de negocios con la víctima o con sus familiares; o
+
+VII. Con motivo de la amenaza de muerte al pasivo o un tercero, intimidación y/o violencia cometidas por el activo del delito, entreguen ya sea la víctima o un tercero, alguna cantidad de dinero, para evitar cualquier daño, en su persona, familia o bienes.
 
 ### CAPITULO IV. FRAUDE
 
@@ -3549,15 +3585,21 @@ No se procederá contra el inculpado del estupro, si no es por querella de la mu
 
 ###### Artículo 273.
 
-Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, se le impondrán de cinco a quince años de prisión, y de doscientos a dos mil días multa.
+Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, se le impondrán de diez a veinte años de prisión, y de doscientos a dos mil días multa.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 Comete también el delito de violación y se sancionará como tal, el que introduzca por vía vaginal o anal cualquier parte del cuerpo, objeto o instrumento diferente al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 Se equipara a la violación la cópula o introducción por vía vaginal o anal cualquier parte del cuerpo, objeto o instrumento diferente al miembro viril, con persona privada de razón, de sentido o cuando por cualquier enfermedad o cualquier otra causa no pudiere resistir o cuando la víctima fuera menor de quince años. En estos casos, se aplicará la pena establecida en el párrafo primero de este artículo.
 
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 Cuando el ofendido sea menor de quince años y mayor de trece, haya dado su consentimiento para la cópula y no concurra modificativa, exista una relación afectiva con el inculpado y la diferencia de edad no sea mayor a cinco años entre ellos, se extinguirá la acción penal o la pena en su caso.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 Para los efectos de este artículo, se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo, exista eyaculación o no.
 
@@ -3569,9 +3611,9 @@ Artículo 273 BIS.- (DEROGADO, G.G. 29 DE AGOSTO DE 2007)
 
 Son circunstancias que modifican el delito de violación:
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
 
-I. Cuando en la comisión del delito de violación participen dos o más personas se impondrán de cuarenta a setenta años de prisión y de seiscientos a cuatro mil días multa;
+I. Cuando en la comisión del delito de violación participen dos o más personas se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de seiscientos a cuatro mil días multa;
 
 > <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
@@ -3669,15 +3711,25 @@ III. Se encuentre un bien perdido y no lo devuelva a su dueño, sabiendo quién 
 
 El delito de robo se sancionará en los siguientes términos:
 
-I. Cuando el valor de lo robado no exceda de treinta veces el salario mínimo, se impondrán de seis meses a dos años de prisión o de cien a doscientos días multa;
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
 
-II. Cuando el valor de lo robado exceda de treinta pero no de noventa veces el salario mínimo, se impondrán de uno a tres años de prisión o de ciento cincuenta a trescientos días multa;
+I. Cuando el valor de lo robado no exceda de treinta veces el salario mínimo, se impondrán de seis meses a dos años de prisión y de cincuenta a cien días multa;
 
-III. Cuando el valor de lo robado exceda de noventa pero no de cuatrocientas veces el salario mínimo, se impondrán de dos a cuatro años de prisión y de cincuenta a cien días multa;
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
 
-IV. Cuando el valor de lo robado exceda de cuatrocientos pero no de dos mil veces el salario mínimo, se impondrán de cuatro a ocho años de prisión y de cien a doscientos días multa;
+II. Cuando el valor de lo robado exceda de treinta pero no de noventa veces el salario mínimo, se impondrán de uno a tres años de prisión y de cien a ciento cincuenta días multa;
 
-V. Cuando el valor de lo robado exceda de dos mil veces el salario mínimo, se impondrán de seis a doce años de prisión y de ciento cincuenta a trescientos días multa; y
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+III. Cuando el valor de lo robado exceda de noventa pero no de cuatrocientas veces el salario mínimo, se impondrán de dos a cuatro años de prisión y de ciento cincuenta a doscientos días multa;
+
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+IV. Cuando el valor de lo robado exceda de cuatrocientos pero no de dos mil veces el salario mínimo, se impondrán de cuatro a ocho años de prisión y de doscientos a doscientos cincuenta días multa;
+
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+V. Cuando el valor de lo robado exceda de dos mil veces el salario mínimo, se impondrán de seis a doce años de prisión y de doscientos cincuenta a trescientos días multa; y
 
 VI. Si por alguna circunstancia la cuantía del robo no fuere estimable en dinero o si por su naturaleza no se hubiere fijado su valor, se impondrán de uno a cinco años de prisión y de cincuenta a ciento veinticinco días multa.
 
@@ -3707,9 +3759,9 @@ Se comprende dentro de la denominación de casa habitación, el aposento, cualqu
 
 III. Cuando se cometa en el interior de casa habitación y se utilice en su ejecución la violencia, se impondrán de diez a quince años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
 
-IV. Cuando por motivo del delito de robo se causare la muerte, se impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa;
+IV. Cuando por motivo del delito de robo se causare la muerte, se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa;
 
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
 
@@ -3789,13 +3841,11 @@ En estos casos, se impondrán de cinco a veinte años de prisión y de uno a tre
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más y se le inhabilitará de dos a veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
 
-> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
 
-Los propietarios de vehículos automotores que hayan realizado un contrato de compra-venta, podrán acudir a las Agencias Especializadas de Robo de vehículos, a realizar el trámite de verificación correspondiente.
+Quienes compren o vendan un vehículo automotor, deberán obtener la constancia o certificación electrónica de que el vehículo no aparece en la base de datos de autos robados del Registro Público Vehicular al momento de la compra-venta.
 
-> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
-
-La Procuraduría de Justicia del Estado de México a través de las Agencias Especializadas de Robo de Vehículos, deberá verificar que el trámite sea gratuito y que de la revisión se entregue impreso, con fecha y sello de la dependencia reporte de verificación de procedencia.
+> <small>(DEROGADO QUINTO PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 293.
 
@@ -3807,7 +3857,7 @@ II. Cuando el valor de lo robado no exceda de veinte veces el salario mínimo vi
 
 III. Cuando se cometa por un ascendiente en contra de su descendiente o viceversa, por un cónyuge contra el otro, por el concubinario contra la concubina o viceversa o por el adoptante contra el adoptado o viceversa; y
 
-IV. Si se prueba la buena fe de su tenencia o propiedad del vehículo del que se trate. La buena fe se demostrará cuando en la documentación probatoria de propiedad se establezca la fecha de adquisición y el precio de su transmisión, el nombre, el domicilio y número de identificación del vendedor con los datos de su credencial de elector o pasaporte.
+IV. (DEROGADA, G.G. 20 DE AGOSTO DE 2013)
 
 ###### Artículo 294.
 
@@ -4555,7 +4605,7 @@ Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de N
 
 Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
 
-Hasta, el treinta de septiembre de dos mil once en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
 
 CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
 
@@ -4972,6 +5022,34 @@ G.G. 18 DE JULIO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor a los treinta días naturales, siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 124 POR LO QUE SE REFORMAN LOS ARTÍCULOS 69 EN SU PÁRRAFO PRIMERO Y 289 EN SUS FRACCIONES I, II, III, IV Y V DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 125 POR LO QUE SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 242; EL ARTÍCULO 266; EL PÁRRAFO PRIMERO DEL ARTÍCULO 273; LA FRACCIÓN I DEL ARTÍCULO 274 Y LA FRACCIÓN IV DEL ARTÍCULO 290. SE ADICIONAN LA FRACCIÓN IV AL ARTÍCULO 242 Y UNA FRACCIÓN V AL ARTÍCULO 245, TODOS DEL CÓDIGO PENAL DE ESTADO DE MÉXICO.
+
+Primero.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 126 POR LO QUE SE REFORMAN EL ARTÍCULO 152, EL PÁRRAFO CUARTO DEL ARTÍCULO 292 Y SE DEROGAN EL PÁRRAFO QUINTO DEL ARTÍCULO 292 Y LA FRACCIÓN IV DEL ARTÍCULO 293 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- A las conductas realizadas con anterioridad al presente Decreto se aplicarán las disposiciones que en su momento estaban en vigor.
+
+CUARTO.- El Ejecutivo del Estado, a través del Centro de Prevención del Delito, dará la más amplia difusión posible a lo contenido en el presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
