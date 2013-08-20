@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-planeacion-y-41100"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-09"
-last_updated: "2004-07-09"
+last_updated: "2013-08-20"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y DESARROLLO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD, PUBLICADO EN EL P.O. 20 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO SE DEJA SIN EFECTOS AL DÍA SIGUIENTE DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 9 de julio de 2004.
 
@@ -878,3 +880,15 @@ LIC. JAVIER GUERRERO GARCIA
 LA SECRETARIA DE LA CONTRALORÍA Y MODERNIZACIÓN ADMINISTRATIVA
 
 C.P. y M.I. MARÍA INÉS GARZA ORTA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS QUE TIENEN RELACIÓN CON EL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE AGOSTO DE 2013.
+
+PRIMERO. El presente reglamento Interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se deja sin efectos el reglamento Interior de la Secretaría de Planeación y Desarrollo, sus reformas y adiciones, publicado en la Primera Sección del Periódico Oficial del Gobierno del Estado No. 55 de fecha 9 de julio de 2004 y se derogan todas las disposiciones que se opongan al presente reglamento.
+
+TERCERO. El personal que se encontraba adscrito a alguna unidad administrativa que en aplicación del presente reglamento sea suprimida y que actualmente labore en la Secretaría, deberá integrarse a las unidades administrativas o entidades vigentes de la misma conforme lo disponga el Titular de la Secretaría a través de la Coordinación Administrativa, y en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral.
+
+CUARTO.- Los manuales de organización precisarán lo no previsto en el presente reglamento en lo que se refiere a la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas de la Secretaría.
