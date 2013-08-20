@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-salud-del-estado-de-946
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-10"
-last_updated: "2013-06-10"
+last_updated: "2013-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO , SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD PARA EL ESTADO DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 20 DE AGOSTO DE 2013.</small>
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 10 de junio de 2013.
 
@@ -49,8 +49,6 @@ La Secretaría de Salud tiene a su cargo el despacho de los asuntos que le encom
 
 Cuando el presente Reglamento se refiera a la Secretaría, se entenderá a la Secretaría de Salud y Secretario, al Secretario de Salud.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO , SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 3.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, la Secretaría se auxiliará de la Subsecretaría de Salud, las unidades administrativas y los órganos desconcentrados siguientes:
@@ -61,7 +59,9 @@ II. Unidad de Estudios y Proyectos Especiales.
 
 III. Unidad de Seguimiento y Evaluación.
 
-IV. Coordinación de Hospitales Regionales de Alta Especialidad.
+> <small>(F. DE E., G.G. 20 DE AGOSTO DE 2013)</small>
+
+IV. Coordinación de Hospitales de Alta Especialidad.
 
 V. Oficina Ejecutiva de Vinculación Interinstitucional.
 
