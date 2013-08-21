@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-pasaportes-y-del-documento-de-identidad-y-82354"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-05"
-last_updated: "2011-08-05"
+last_updated: "2013-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82354&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-07-29"
 
 REGLAMENTO DE PASAPORTES Y DEL DOCUMENTO DE IDENTIDAD Y VIAJE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 5 de agosto de 2011.
 
@@ -81,7 +81,13 @@ II. Que no se cuente con el consentimiento a que se refiere el artículo 19 del 
 
 No se podrán tener dos pasaportes ordinarios vigentes. Las personas que tengan pasaporte oficial o diplomático, también podrán tener pasaporte ordinario.
 
-Las personas que tengan pasaporte oficial no podrán obtener un pasaporte diplomático. Asimismo, quien tenga pasaporte diplomático no podrá obtener un pasaporte oficial.
+> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+Las personas que tengan derecho a tramitar un pasaporte oficial o diplomático, deberán optar por solicitar solamente uno de estos.
+
+> <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+Las personas que opten por cambiar su pasaporte oficial por uno diplomático, o viceversa, deberán entregarlo para su cancelación e inutilización respectiva.
 
 ###### ARTÍCULO 6.
 
@@ -89,7 +95,9 @@ El pasaporte o documento de identidad y viaje mutilado o alterado carecerá de v
 
 Todo pasaporte o documento de identidad y viaje que presente alteraciones, enmiendas, que esté falto de hojas o cubierta o que contenga escritos o anotaciones u otros defectos que dificulten la completa identificación de su titular, perderá su validez, independientemente de las acciones legales procedentes.
 
-Los pasaportes o documentos de identidad y viaje que presenten las características indicadas en el párrafo anterior serán retenidos por la Secretaría o por la oficina consular, según sea el caso.
+> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+Los pasaportes o documentos de identidad y viaje que presenten alteraciones o enmiendas cuyo objeto haya sido modificar la información contenida en él, serán retenidos por la Secretaría o por la oficina consular, según sea el caso.
 
 ###### ARTÍCULO 7.
 
@@ -299,7 +307,9 @@ Tanto en territorio nacional como en el extranjero, si uno o ambos padres son ex
 
 El documento en el que se manifieste el consentimiento deberá hacerse válido dentro de los noventa días naturales posteriores a la manifestación de la voluntad, si éste fue otorgado ante cualquier delegación o subdelegación, u oficina consular.
 
-En caso de que el consentimiento haya sido otorgado ante Notario Público, el testimonio o copia certificada del mismo deberá hacerse válido dentro de los treinta días naturales posteriores a la autorización de la escritura pública.
+> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+En el caso de que el consentimiento haya sido otorgado ante Notario Público, el testimonio o copia certificada del mismo, emitido conforme a la normativa aplicable, deberá hacerse válido dentro de los treinta días naturales posteriores a la autorización de la escritura pública.
 
 En los casos en que una de las personas que ejercen la patria potestad o tutela sobre una persona menor de edad no pueda manifestar su consentimiento para la expedición del pasaporte en los términos señalados, la ausencia de éste sólo podrá suplirse con autorización judicial.
 
@@ -369,13 +379,15 @@ Los Titulares de las oficinas consulares podrán expedir pasaportes por razones 
 
 El pasaporte ordinario podrá renovarse en los siguientes casos:
 
-I. Al concluir su vigencia;
+> <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+I. En cualquier momento desde su expedición y al concluir su vigencia;
 
 II. Al agotarse las hojas de visados;
 
 III. Cuando los rasgos físicos de una persona cambien, de tal forma que no correspondan con los de la fotografía del pasaporte;
 
-IV. Dentro del año anterior a su vencimiento;
+IV. (DEROGADA, D.O.F. 21 DE AGOSTO DE 2013)
 
 V. En caso de robo, pérdida o destrucción;
 
@@ -394,6 +406,10 @@ El documento que se presente para acreditar la filiación de la persona menor de
 Con excepción de lo dispuesto en la fracción V del artículo anterior, el solicitante deberá entregar el pasaporte que se pretenda renovar a la Secretaría o a la oficina consular. Dicho pasaporte deberá ser cancelado, inutilizado y devuelto al interesado.
 
 El pasaporte que se presente para su renovación servirá para acreditar plenamente la nacionalidad e identidad del interesado, excepto en los casos en que exista variación de alguno o algunos de los datos personales.
+
+> <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+Sin perjuicio de lo anterior, en aquellos casos en que la documentación o información presentada tenga inconsistencias o irregularidades, la Secretaría verificará su autenticidad ante la autoridad emisora y podrá requerir al solicitante información y documentación adicional que demuestre fehacientemente su nacionalidad e identidad.
 
 ###### ARTÍCULO 31.
 
@@ -435,7 +451,9 @@ La solicitud para la expedición del pasaporte oficial deberá formularse:
 
 I. Por el Secretario General de la Cámara correspondiente, en el caso de Senadores y Diputados del Congreso de la Unión y por el Consejo de la Judicatura Federal, en el caso de los integrantes del Poder Judicial de la Federación, y
 
-II. Por el Titular de la Oficina de la Presidencia de la República; por el Oficial Mayor de la dependencia o su equivalente en la entidad correspondiente, en el caso de los servidores públicos a que se refieren las fracciones III, IV, V y VI del artículo anterior.
+> <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+II. Por el Coordinador General de Administración de la Presidencia de la República; por el Subjefe Administrativo del Estado Mayor Presidencial; por el Oficial Mayor de la dependencia o su equivalente en la entidad correspondiente, en el caso de los servidores públicos a que se refieren las fracciones III, IV, V y VI del artículo anterior.
 
 En los casos de las fracciones III, IV, V y VI del artículo anterior, la solicitud deberá señalar la justificación y naturaleza de la comisión, duración de la misma y el país o países que visitará.
 
@@ -481,7 +499,9 @@ VI. Secretarios de Estado y Consejero Jurídico del Ejecutivo Federal;
 
 VII. Procurador General de la República;
 
-VIII. Jefe de la Oficina de la Presidencia, Secretario Particular y Coordinador de Asesores del Presidente de los Estados Unidos Mexicanos, Coordinador de Comunicación Social de la Presidencia de la República y Jefe del Estado Mayor Presidencial;
+> <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+VIII. Jefe de la Oficina de la Presidencia, Secretario Particular y Coordinador de Asesores del Presidente de los Estados Unidos Mexicanos, Coordinador de Comunicación Social de la Presidencia de la República, Secretario Técnico del Consejo de Seguridad Nacional, y Jefe del Estado Mayor Presidencial;
 
 IX. Subsecretarios, Oficial Mayor, Consultor Jurídico, Jefes de Unidad, Directores Generales y Directores Generales Adjuntos de la Secretaría;
 
@@ -493,23 +513,47 @@ XII. Embajadores de México eméritos y eminentes;
 
 XIII. Embajadores de carrera jubilados;
 
-XIV. Cónyuge, concubina, concubinario, hijos menores de edad e hijos del cónyuge, estos últimos siempre y cuando sean menores de edad, de las personas mencionadas en las fracciones I a XIII. El parentesco, nacionalidad e identidad deberán probarse, y
+> <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
 
-XV. Hijos e hijos del cónyuge, de 18 años y hasta 25 años, si son solteros y estudiantes de tiempo completo, previa comprobación de que están realizando estudios de nivel medio o superior de cualquier rama del conocimiento en planteles oficiales o reconocidos, así como a los hijos incapacitados independientemente de su edad y a otros familiares dependientes económicos, hasta el primer grado en línea recta, ascendente o descendente, que vivan con ellos en su lugar de adscripción, siempre que no sean residentes permanentes del Estado receptor, de los servidores públicos mencionados en la fracción XI, XII y XIII del presente artículo. El parentesco, nacionalidad e identidad deberán probarse.
+XIII Bis. Los legisladores que realicen funciones de diplomacia parlamentaria, conforme a las disposiciones que rigen al Poder Legislativo, así como a los vicepresidentes de las mesas directivas e integrantes de las comisiones de Relaciones Exteriores de cada una de las Cámaras del Congreso de la Unión;
+
+> <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+XIV. Cónyuge, concubina, concubinario, hijos menores de edad e hijos del cónyuge, estos últimos siempre y cuando sean menores de edad, de las personas mencionadas en las fracciones I a XIII. El parentesco, nacionalidad e identidad deberán probarse;
+
+> <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+XV. Hijos e hijos del cónyuge, de 18 años y hasta 25 años, si son solteros y estudiantes de tiempo completo, previa comprobación de que están realizando estudios de nivel medio o superior de cualquier rama del conocimiento en planteles oficiales o reconocidos, así como a los hijos incapacitados independientemente de su edad y a otros familiares dependientes económicos, hasta el primer grado en línea recta, ascendente o descendente, que vivan con ellos en su lugar de adscripción, siempre que no sean residentes permanentes del Estado receptor, de los servidores públicos mencionados en las fracciones XI, XII y XIII del presente artículo. El parentesco, nacionalidad e identidad deberán probarse, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+XVI. A las que determine el Secretario de Relaciones Exteriores.
 
 #### SECCIÓN SEGUNDA. DE LOS REQUISITOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 38.
 
-La persona a favor de quien se solicite la expedición de un pasaporte diplomático deberá cumplir con los requisitos previstos en los artículos 14 y, en su caso, 15 y 18 a 27 del presente Reglamento. El cargo de las personas mencionadas en el artículo anterior, con excepción de la fracción II, deberá acreditarse ante la Secretaría, con el nombramiento correspondiente.
+La persona a favor de quien se solicite la expedición de un pasaporte diplomático deberá cumplir con los requisitos previstos en los artículos 14 y, en su caso, 15 y 18 a 27 del presente Reglamento. El cargo de las personas mencionadas en el artículo anterior, con excepción de las fracciones II y XVI, deberá acreditarse ante la Secretaría, con el nombramiento correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+Para la expedición del pasaporte diplomático a las personas a que se refiere la fracción XIII Bis del artículo 37 de este Reglamento, la solicitud deberá ser formulada por el Presidente de la Cámara respectiva, en la que deberá especificarse el tipo de función de diplomacia parlamentaria que realizará el legislador, en términos de las disposiciones que rigen al Poder Legislativo, o bien, acreditar que forma parte de la Comisión de Relaciones Exteriores o es vicepresidente de alguna de las Cámaras del Congreso de la Unión.
+
+> <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+En los casos previstos en la fracción XVI del artículo 37, previa instrucción del Secretario de Relaciones Exteriores, el Oficial Mayor de la Secretaría emitirá el oficio correspondiente para la expedición del pasaporte diplomático.
 
 Concluida la comisión o cuando servidor público deje su encargo, el pasaporte diplomático quedará invalidado, debiéndose entregar a la Secretaría en un plazo de treinta días naturales contados a partir del día siguiente en que concluya su encargo. Dicho pasaporte deberá ser cancelado, inutilizado y devuelto al interesado.
 
 Para el caso de los miembros del Servicio Exterior Mexicano, el pasaporte podrá ser entregado hasta en un plazo de seis meses, considerando el tiempo de traslado a territorio nacional o a su nueva adscripción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 39.
 
-El pasaporte diplomático se otorga para la representación del Estado mexicano en una comisión o encargo oficial en el exterior, por lo que el titular del mismo, será responsable de su uso y del que le den sus familiares y dependientes económicos.
+El pasaporte diplomático se otorga para la representación del Estado mexicano, comisión o encargo en el exterior, por lo que el titular del mismo, será responsable de su uso y del que le den sus familiares y dependientes económicos.
 
 Las personas a que se refieren las fracciones I a XIII del artículo 37 del presente Reglamento, estarán obligadas a informar a la Secretaría de los cambios en sus relaciones personales que hubieran motivado la expedición de pasaporte diplomático a sus dependientes. Para ello dispondrán de un plazo de treinta días naturales, contados a partir del día siguiente a que se produzcan los citados cambios.
 
@@ -520,6 +564,10 @@ Las personas a que se refieren las fracciones I a XIII del artículo 37 del pres
 La vigencia del pasaporte diplomático será la siguiente:
 
 I. En los casos de los servidores públicos mencionados en las fracciones I, III a la X y a sus familiares y dependientes económicos mencionados en la fracción XIV del artículo 37 del presente Reglamento, tendrá una vigencia equivalente a la duración de su encargo, la cual no será mayor a 6 años;
+
+> <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+I Bis. En los casos de las personas mencionadas en las fracciones XIII Bis y XVI del artículo 37 del presente Reglamento, tendrá una vigencia máxima de 1 año;
 
 II. En los casos de las personas mencionadas en las fracciones II, XII y XIII y a sus familiares y dependientes económicos mencionados en la fracción XIV del artículo 37 del presente Reglamento, será de hasta 6 años, y
 
@@ -620,3 +668,11 @@ SEXTO.- La Secretaría mediante disposiciones administrativas fijará las formal
 SÉPTIMO.- Para los efectos del artículo 30 del presente Reglamento, en el trámite de renovación de pasaporte ordinario mexicano expedido antes del año de 1995 en territorio nacional, así como los expedidos antes de 2006, por las oficinas consulares, el titular del documento, adicionalmente tendrá que acreditar su nacionalidad e identidad con alguno de los documentos previstos por las fracciones V y VI del artículo 14 del presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de julio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- La Secretaria de Relaciones Exteriores, Patricia Espinosa Cantellano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 21 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que, en su caso, sean necesarias para cumplir con la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado de la Secretaría de Relaciones Exteriores, por lo que no requerirá de recursos adicionales para tales efectos y no incrementará su presupuesto regularizable para el presente ejercicio fiscal ni los subsecuentes.
