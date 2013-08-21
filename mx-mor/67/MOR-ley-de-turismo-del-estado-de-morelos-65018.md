@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2013-07-17"
+last_updated: "2013-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -457,7 +457,9 @@ La Secretaría informará y evaluará ante el Consejo Estatal de Turismo, de man
 
 ## TÍTULO TERCERO. DE LOS CONCEPTOS NECESARIOS Y PRIORITARIOS EN EL DESARROLLO DEL SECTOR TURÍSTICO
 
-### CAPÍTULO I. DEL TURISMO SUSTENTABLE
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO III (SIC). DEL TURISMO SUSTENTABLE Y DE NATURALEZA
 
 ###### Artículo 28.
 
@@ -498,6 +500,48 @@ La Secretaría, dependencias públicas que se relacionen al sector turismo, así
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
 
 Asimismo, participarán en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable en los Municipios del Estado conforme a los convenios que al efecto se suscriban.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
+###### Artículo 30 Bis.
+
+El turismo de naturaleza es aquel que tiene como fin realizar actividades recreativas en contacto directo con la naturaleza y las expresiones culturales que le envuelven con una actitud y compromiso de conocer, respetar, disfrutar y participar en la conservación de los recursos naturales y culturales.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
+###### Artículo 30 Ter.
+
+El turismo de naturaleza tiene las siguientes categorías:
+
+l. El ecoturismo, tienen (sic) como fin el realizar actividades recreativas de apreciación y conocimiento mediante la observación y la realización de actividades de la naturaleza a través del contacto con la misma.
+
+II. El turismo aventura, incluye actividades deportivas y recreativas, impuestas por la naturaleza, dichas actividades son agrupadas de acuerdo al espacio natural en que se desarrollan, puede ser agua, tierra, aire.
+
+III. El turismo rural, tiene como fin realizar actividades de convivencia e interacción con una comunidad rural, los ejidos y los pueblos indígenas en todas aquellas expresiones sociales, culturales y productivas, que permitan conocer los valores tradicionales, forma de vida, manejo ambiental, usos costumbres cotidianas de la misma.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
+###### Artículo 30 Quater.
+
+Los prestadores de servicios turísticos, personas físicas y morales que brinden servicios de turismo de naturaleza, deberán sujetarse a los ordenamientos de equilibrio ecológico territorial estatal o federal que corresponda, a efecto de que su realización sea acorde con la aptitud natural de la región y las condiciones naturales de la misma.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
+###### Artículo 30 Quinquies.
+
+Los proyectos de turismo de naturaleza se tendrá que observar que la actividad cumpla con los siguientes criterios:
+
+I. Con la protección y preservación de la vida silvestre, sus especies y ecosistemas;
+
+II. La compatibilidad de la biodiversidad con el desarrollo de la actividad turística;
+
+III. La conservación de la imagen del entorno;
+
+IV. El respeto de la libertad personal y colectiva, así como de la entidad sociocultural, en especial con las comunidades y los pueblos indígenas, para que permitan el acceso y disfrute del patrimonio turístico y natural a los visitantes;
+
+V. Capacidad por parte de las comunidades y pueblos indígenas de ofrecer servicios turísticos,
+
+VI. Protección a la arquitectura de los inmuebles donde se vayan a prestar los servicios turísticos, conservando los elementos del ambiente natural, promoviendo la utilización de materiales y tecnologías adaptables para la zona que proporcionen armonía y estética que hagan posible la autosuficiencia y sustentabilidad.
 
 ### CAPÍTULO II. DEL DESARROLLO Y FOMENTO DE LA ACTIVIDAD TURÍSTICA
 
@@ -838,3 +882,21 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 21 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Aprobado el presente decreto el Titular del Poder Ejecutivo del Estado de Morelos deberá realizar dentro de los 90 días siguientes las adecuaciones a su respectivo reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
