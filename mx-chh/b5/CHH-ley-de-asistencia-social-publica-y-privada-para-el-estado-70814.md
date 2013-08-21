@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asistencia-social-publica-y-privada-para-el-estado-70814
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-28"
-last_updated: "2012-09-26"
+last_updated: "2013-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de octubre de 2009.
 
@@ -567,11 +567,19 @@ El organismo para la asistencia social pública del Estado contará con una Proc
 
 La Procuraduría de Asistencia Jurídica y Social, para el cumplimiento de su objeto, contará con:
 
-I. Una subprocuraduría especializada en atención a personas menores de edad;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
-II. Una subprocuraduría especializada en atención a personas adultas mayores, en situación de discapacidad y, en general, a otros sujetos preferentes de asistencia social, y
+I. Una subprocuraduría especializada en atención a personas menores de edad.
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+
+II. Una subprocuraduría especializada en atención a personas adultas mayores, en situación de discapacidad y, en general, a otros sujetos preferentes de asistencia social.
 
 III. Una subprocuraduría auxiliar por cada distrito judicial.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
+Además, contará con un Consejo Técnico Estatal de Adopciones, como órgano de apoyo en esta materia, el cual coadyuvará en la verificación, la procedencia, improcedencia, revaloración o baja de las solicitudes.
 
 ###### Artículo 43.
 
@@ -595,9 +603,13 @@ VIII. Auxiliar a la autoridad judicial cuando ésta determine que la convivencia
 
 IX. Gestionar ante el Registro Civil la elaboración de las actas de nacimiento de las personas menores de edad expósitas o abandonadas, en los casos que corresponda;
 
-X. Expedir las constancias de idoneidad para los trámites de adopción;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
-XI. Tramitar ante los tribunales la adopción de personas en los casos que corresponda, investigando la solvencia moral y económica de los adoptantes y vigilar el proceso de integración de los adoptados;
+X. Expedir las constancias de idoneidad para los trámites de adopción, cuando el Consejo Técnico Estatal de Adopciones haya determinado la viabilidad de los solicitantes;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+
+XI. Tramitar ante los tribunales la adopción de personas en los casos que así lo determine el Consejo Técnico Estatal de Adopciones, investigando la solvencia moral y económica de los adoptantes, así como vigilar el proceso de integración de los adoptados;
 
 XII. Impulsar la integración de los Consejos Locales de Tutela, así como coordinar y dar seguimiento a su funcionamiento, prestándoles la asesoría y capacitación que requieran para ello;
 
@@ -1330,3 +1342,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
+
+P.O. 21 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Procuraduría de Asistencia Jurídica y Social del DIF Estatal determinará el perfil profesional de las personas que como equipo interdisciplinario habrán de conformar el Consejo Técnico Estatal de Adopciones.
