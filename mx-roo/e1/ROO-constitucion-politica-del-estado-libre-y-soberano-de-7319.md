@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2013-07-30"
+last_updated: "2013-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -277,7 +277,9 @@ II. La información que se refiere a la vida privada y los datos personales ser�
 
 III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
-IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante un órgano con autonomía operativa, de gestión y de decisión, con personalidad jurídica y patrimonio propio; especializado e imparcial, que además estará obligado a realizar tareas de investigación, promoción y difusión acerca de temas relacionados con el derecho a la información, así como el ejercicio de las atribuciones que determine la ley; dicho órgano deberá contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información pública del propio órgano y de los procedimientos de revisión.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+
+IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante un órgano con autonomía operativa, de gestión y de decisión, con personalidad jurídica y patrimonio propio; especializado e imparcial, que además estará obligado a realizar tareas de investigación, promoción y difusión acerca de temas relacionados con el derecho a la información, así como el ejercicio de las atribuciones que determine la ley; dicho órgano deberá contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información pública del propio órgano y de los procedimientos de revisión. El presupuesto de egresos de dicho órgano deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución;
 
 V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
 
@@ -805,9 +807,9 @@ La Ley establecerá los requisitos que deban reunir para la designación de los 
 
 Los funcionarios señalados en el párrafo que antecede, no podrán, durante su ejercicio, desempeñar ningún otro empleo, cargo o comisión oficial y sólo podrán recibir percepciones derivadas de actividades profesionales, regalías, derechos de autor o publicaciones siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; también podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
-La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, propietarios, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los Contralores Internos será la misma que se señale para los Consejeros y Magistrados Electorales, propietarios, según corresponda.
+La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, propietarios, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los Contralores Internos será la misma que se señale para los Consejeros y Magistrados Electorales, propietarios, según corresponda. En todo caso, el presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos del Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución;
 
 El Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo, presentarán sus respectivos presupuestos de egresos ante la instancia correspondiente para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda.
 
@@ -1271,6 +1273,14 @@ Para la revisión de la cuenta pública, la legislatura se apoyará en el Órgan
 
 XXX.- Aprobar las leyes de ingresos municipal y estatal y el presupuesto de egresos del Estado, determinando en cada caso, las partidas correspondientes para cubrirlas. Asimismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Estado.
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
+La Legislatura del Estado, al aprobar el Presupuesto de Egresos del Estado, no podrá dejar de señalar los tabuladores desglosados de las remuneraciones que perciban los servidores públicos estatales; en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el Presupuesto anterior o en la ley que estableció el empleo.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
+En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 165 de esta Constitución y las disposiciones de las leyes que en la materia expida la Legislatura.
+
 XXXI.- Crear y suprimer (sic) empleos públicos y fijar sus emolumentos.
 
 XXXII.- Facultar al Ejecutivo a tomar medidas de emergencia en caso de calamidad y desastre.
@@ -1691,7 +1701,11 @@ Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por
 
 La Legislatura Estatal, mediante la ley o decreto que al efecto expida, establecerá un Organismo de Protección de los Derechos Humanos, en el marco que otorga el orden jurídico vigente, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público, del Estado o de los ayuntamientos que violen estos derechos.
 
-El Organismo que establezca la legislatura se denominará Comisión de Derechos Humanos del Estado de Quintana Roo; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
+El Organismo que establezca la legislatura se denominará Comisión de Derechos Humanos del Estado de Quintana Roo; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios. (sic)
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
+El Organismo que establezca la Legislatura se denominará Comisión de Derechos Humanos del Estado de Quintana Roo; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios. En todo caso, el presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de la Comisión de Derechos Humanos del Estado de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución;
 
 La Comisión de Derechos Humanos del Estado de Quintana Roo, tendrá un Consejo Consultivo integrado por integrado por (sic) siete Consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Legislatura, la duración del encargo y los requisitos para acceder a éste.
 
@@ -1913,9 +1927,9 @@ IV. Resolver sobre las contradicciones entre las tesis sostenidas en las resoluc
 
 V. Conocer de las recusaciones con causa y de las excusas de los Magistrados;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
-VI. Aprobar anualmente el anteproyecto del Presupuesto de Egresos del Poder Judicial, que le presente el Consejo de la Judicatura;
+VI. Aprobar anualmente el anteproyecto del Presupuesto de Egresos del Poder Judicial, que le presente el Consejo de la Judicatura, que deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
 
@@ -2067,17 +2081,21 @@ Los integrantes del Consejo de Judicatura, con excepción de su Presidente, rend
 
 El Consejo de la Judicatura del Estado propondrá al Pleno del Tribunal Superior de Justicia la división territorial del Estado en distritos y circuitos judiciales, con base en la agrupación de sus municipios.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 111.
 
-El Poder Judicial del Estado administrará con autonomía su presupuesto; el Consejo de la Judicatura elaborará el anteproyecto y lo someterá a la aprobación del Pleno del Tribunal Superior de Justicia.
+El Poder Judicial del Estado administrará con autonomía su presupuesto; el Consejo de la Judicatura elaborará el anteproyecto y lo someterá a la aprobación del Pleno del Tribunal Superior de Justicia. En todo caso, el presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2003)</small>
 
 El Presidente del Tribunal Superior de Justicia lo remitirá para su inclusión en el Proyecto de Presupuesto del Estado.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
 La Cuenta Pública del Poder Judicial del Estado será revisada por la Legislatura del Estado, en los términos de esta Constitución y las leyes aplicables y comprenderá los recursos del Poder Judicial considerados en el Fondo para el Mejoramiento en la Administración e Impartición de Justicia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2003)</small>
 
 La ley establecerá las bases para el manejo de dicho Fondo.
 
@@ -2135,11 +2153,11 @@ La administración de la hacienda pública estará a cargo del Ejecutivo por con
 
 La ley determinará la organización y funcionamiento de las oficinas de hacienda en el Estado.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 118.
 
-Anualmente, a más tardar el 15 de noviembre, el Ejecutivo presentará a la Legislatura el proyecto de Presupuesto de Egresos.
+Anualmente, a más tardar el 15 de noviembre, el Ejecutivo presentará a la Legislatura el proyecto de Presupuesto de Egresos, que deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos estatales, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 ###### ARTICULO 119.
 
@@ -3271,9 +3289,9 @@ d) Los que adquieran por subsidios, legados, donaciones o cualquier causa lícit
 
 IV. Las leyes no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
-V. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles. Asimismo podrán autorizar en dicho Presupuesto las erogaciones plurianuales para aquellos proyectos de prestación de servicios que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Municipio;
+V.- Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles, debiendo incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales y sujetándose a lo dispuesto en el artículo 165 de esta Constitución. Asimismo, podrán autorizar en dicho Presupuesto las erogaciones plurianuales para aquellos proyectos de prestación de servicios que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Municipio;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3447,13 +3465,31 @@ La presente Constitución puede ser adicionada o reformada. Para que las adicion
 
 ## TITULO DECIMO. Prevenciones Generales
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ## TITULO NOVENO. (REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
 ###### ARTICULO 165.
 
-El Gobernador del Estado, los Secretarios del Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior, los Diputados de la Legislatura y los demás servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en el Presupuesto de Egresos del Estado o en los presupuestos de las Entidades descentralizadas y paraestatales, según corresponda.
+Los servidores públicos del Estado y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I.- Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II.- Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente.
+
+III.- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente.
+
+IV.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+V.- Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+
+VI.- Las Legislatura del Estado expedirá (sic) las leyes para hacer efectivo el contenido del presente artículo y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
+
+VII.- Los salarios serán fijados en los presupuestos respectivos sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, en este artículo y en la ley.
+
+Los poderes Legislativo, Ejecutivo y Judicial del Estado de Quintana Roo, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del presupuesto de egresos, prevé el artículo 75 fracción XXX de esta Constitución y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -4398,3 +4434,11 @@ P.O. 30 DE JULIO DE 2013.
 DECRETO NÚMERO 300, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 8° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 21 DE AGOSTO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los Magistrados y Jueces del Poder Judicial del Estado de Quintana Roo, que actualmente estén en funciones, se sujetarán a lo dispuesto en el artículo tercero transitorio del Decreto por el que se reforman y adicionan los artículos 75, 115, 116, 122, 123 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 24 de agosto de 2009.
+
+TERCERO. Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
