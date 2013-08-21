@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2012-08-22"
+last_updated: "2013-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -107,9 +107,13 @@ VII. La preservación y protección de la biodiversidad conforme a los acuerdos 
 
 VIII. La preservación, restauración y mejoramiento del ambiente del territorio de la entidad;
 
-IX. La prevención y el control de la contaminación del aire, agua y suelo dentro del ámbito de competencia estatal, estableciendo los mecanismos de participación del Estado; y
+IX. La prevención y el control de la contaminación del aire, agua y suelo dentro del ámbito de competencia estatal, estableciendo los mecanismos de participación del Estado; y (sic)
 
-X. Fijar las medidas de control y de seguridad que garanticen el cumplimiento y la aplicación de ésta Ley y de las disposiciones que de ella se deriven, así como en la imposición de las sanciones administrativas que correspondan.
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+
+X. Fomentar la incorporación y/o actualización, en los distintos niveles educativos, de programas de contenido ecológico y de educación ambiental, de investigación científica y tecnológica, que incluyan el tema del cambio climático para la prevención y difusión de sus efectos, y
+
+XI. Fijar las medidas de control y de seguridad que garanticen el cumplimiento y la aplicación de ésta Ley y de las disposiciones que de ella se deriven, así como en la imposición de las sanciones administrativas que correspondan.
 
 ### CAPÍTULO III. Acciones de Orden Público
 
@@ -147,113 +151,117 @@ VII. Biodiversidad: La variabilidad de organismos vivos incluidos en los ecosist
 
 VIII. Biotecnología: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos;
 
-IX. Conservación: Mantener los ecosistemas en forma tal que se mantenga su equilibrio ecológico, llevando a cabo acciones de preservación o bien de aprovechamiento sustentable;
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
-X. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos en cantidades, concentraciones o niveles capaces de interferir en el bienestar y la salud de las personas, atentar contra la flora y la fauna o causar desequilibrio ecológico;
+IX. Cambio Climático: Cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera global y que se suma a la variabilidad natural del clima observada durante períodos comparables;
 
-XI. Contaminante: Toda materia o energía, en cualesquiera de sus estados químicos o físicos y formas, que al incorporarse o actuar en la atmósfera, el agua, el suelo, la flora, la fauna o cualquier elemento natural, altere o modifique su composición y condición original;
+X. Conservación: Mantener los ecosistemas en forma tal que se mantenga su equilibrio ecológico, llevando a cabo acciones de preservación o bien de aprovechamiento sustentable;
 
-XII. Contaminación visual: Alteración de las cualidades de la imagen de un paisaje natural o urbano causada por cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio;
+XI. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos en cantidades, concentraciones o niveles capaces de interferir en el bienestar y la salud de las personas, atentar contra la flora y la fauna o causar desequilibrio ecológico;
 
-XIII. Contingencia ambiental: Situación de riesgo derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
+XII. Contaminante: Toda materia o energía, en cualesquiera de sus estados químicos o físicos y formas, que al incorporarse o actuar en la atmósfera, el agua, el suelo, la flora, la fauna o cualquier elemento natural, altere o modifique su composición y condición original;
 
-XIV. Control: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
+XIII. Contaminación visual: Alteración de las cualidades de la imagen de un paisaje natural o urbano causada por cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio;
 
-XV. Criterios ecológicos: Los lineamientos contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental;
+XIV. Contingencia ambiental: Situación de riesgo derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+XV. Control: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
 
-XVI. Cultura ecológica: Conjunto de conocimientos hábitos y actitudes que mueven a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones o adquiridos por medio de la educación ambiental impartida en las instituciones educativas del Estado;
-
-XVII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y busca la justicia social, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
-
-XVIII. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
-
-XIX. Disposición final: Acción de depositar permanentemente los residuos sólidos no susceptibles a reciclarse, en sitios y condiciones adecuadas para evitar daños al ambiente;
-
-XX. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de estos con el medio físico en un espacio y tiempo determinado en función del equilibrio en el intercambio de materia y de energía;
+XVI. Criterios ecológicos: Los lineamientos contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
-XXI. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida.
+XVII. Cultura ecológica: Conjunto de conocimientos hábitos y actitudes que mueven a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones o adquiridos por medio de la educación ambiental impartida en las instituciones educativas del Estado;
 
-XXII. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente a nivel de intercambio de energía y de materia que hace posible la existencia y desarrollo de los seres vivos;
+XVIII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y busca la justicia social, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
 
-XXIII. Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados, sin la inducción del hombre;
+XIX. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
-XXIV. Emergencia ecológica: Situación derivada de actividades humanas o fenómenos naturales, que al afectar severamente los elementos naturales pone en peligro uno o varios ecosistemas;
+XX. Disposición final: Acción de depositar permanentemente los residuos sólidos no susceptibles a reciclarse, en sitios y condiciones adecuadas para evitar daños al ambiente;
 
-XXV. Emisión: Descarga directa o indirecta a la atmósfera de toda sustancia, en cualquiera de sus estados físicos, o de energía;
+XXI. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de estos con el medio físico en un espacio y tiempo determinado en función del equilibrio en el intercambio de materia y de energía;
 
-XXVI. Estudio de riesgo: Documento mediante el cual se da a conocer, a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representen para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventiva y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución y operación normal de la obra o actividad de que se trate.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
-XXVII. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes;
+XXII. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida.
 
-XXVIII. Flora silvestre: Las especies vegetales, así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en el territorio estatal;
+XXIII. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente a nivel de intercambio de energía y de materia que hace posible la existencia y desarrollo de los seres vivos;
 
-XXIX. Fuente Fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera.
+XXIV. Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados, sin la inducción del hombre;
 
-XXX. Fuente Móvil: Todo vehículo ya sea aviones, helicópteros, ferrocarriles, tranvías, tractocamiones, autobuses integrales, camiones, microbuses, automóviles, motocicletas, embarcaciones, equipos y maquinarias no fijos con motores de combustión y similares, que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera;
+XXV. Emergencia ecológica: Situación derivada de actividades humanas o fenómenos naturales, que al afectar severamente los elementos naturales pone en peligro uno o varios ecosistemas;
 
-XXXI. Impacto ambiental: Modificación al ambiente ocasionada por la acción del hombre o de la naturaleza;
+XXVI. Emisión: Descarga directa o indirecta a la atmósfera de toda sustancia, en cualquiera de sus estados físicos, o de energía;
 
-XXXII. Ley Estatal: La Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos;
+XXVII. Estudio de riesgo: Documento mediante el cual se da a conocer, a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representen para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventiva y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución y operación normal de la obra o actividad de que se trate.
 
-XXXIII. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente que rige a toda la República Mexicana;
+XXVIII. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes;
 
-XXXIV. Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial; especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente, así como la forma de evitarlo o atenuarlo en caso de impacto negativo;
+XXIX. Flora silvestre: Las especies vegetales, así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en el territorio estatal;
 
-XXXV. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
+XXX. Fuente Fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera.
 
-XXXVI. Material peligroso: Elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+XXXI. Fuente Móvil: Todo vehículo ya sea aviones, helicópteros, ferrocarriles, tranvías, tractocamiones, autobuses integrales, camiones, microbuses, automóviles, motocicletas, embarcaciones, equipos y maquinarias no fijos con motores de combustión y similares, que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera;
 
-XXXVII. Medidas de prevención y mitigación: Conjunto de disposiciones y acciones anticipadas que tienen por objeto evitar o reducir los impactos ambientales que pudieran ocurrir en cualquier etapa de desarrollo de una obra o actividad;
+XXXII. Impacto ambiental: Modificación al ambiente ocasionada por la acción del hombre o de la naturaleza;
 
-XXXVIII. Normas estatales: Conjunto de reglas científicas o tecnológicas emitidas por el procedimiento señalado en la presente Ley de acuerdo a los requerimientos particulares del Estado de Morelos;
+XXXIII. Ley Estatal: La Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos;
 
-XXXIX. Normas Oficiales Mexicanas: Conjunto de reglas científicas o tecnológicas emitidas por el procedimiento señalado en el Diario Oficial de la Federación, que establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente y demás que uniforman principios, criterios, políticas y estrategias en la materia;
+XXXIV. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente que rige a toda la República Mexicana;
 
-XL. Ordenamiento ecológico: Instrumento de planeación ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+XXXV. Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial; especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente, así como la forma de evitarlo o atenuarlo en caso de impacto negativo;
 
-XLI. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar a las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
+XXXVI. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
 
-XLII. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+XXXVII. Material peligroso: Elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
 
-XLIII. Protección: El conjunto de políticas y medidas para mejorar el ambiente y evitar su deterioro;
+XXXVIII. Medidas de prevención y mitigación: Conjunto de disposiciones y acciones anticipadas que tienen por objeto evitar o reducir los impactos ambientales que pudieran ocurrir en cualquier etapa de desarrollo de una obra o actividad;
 
-XLIV. Reciclaje: Proceso de utilización de los residuos que hayan sido tratados y que se aplicarán a un nuevo proceso de transformación;
+XXXIX. Normas estatales: Conjunto de reglas científicas o tecnológicas emitidas por el procedimiento señalado en la presente Ley de acuerdo a los requerimientos particulares del Estado de Morelos;
 
-XLV. Recolección: Acción de transferir los residuos al equipo destinado a conducirlos a las instalaciones de almacenamiento, tratamiento o reciclaje, o a los sitios para su disposición final;
+XL. Normas Oficiales Mexicanas: Conjunto de reglas científicas o tecnológicas emitidas por el procedimiento señalado en el Diario Oficial de la Federación, que establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente y demás que uniforman principios, criterios, políticas y estrategias en la materia;
 
-XLVI. Recursos biológicos: Los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
+XLI. Ordenamiento ecológico: Instrumento de planeación ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
-XLVII. Recursos genéticos: Material genético de valor real o potencial;
+XLII. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar a las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
 
-XLVIII. Recurso natural: Elemento natural susceptible de ser aprovechado en beneficio del hombre;
+XLIII. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-XLIX. Región ecológica: Unidad de territorio que comparte características ecológicas comunes;
+XLIV. Protección: El conjunto de políticas y medidas para mejorar el ambiente y evitar su deterioro;
 
-L. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+XLV. Reciclaje: Proceso de utilización de los residuos que hayan sido tratados y que se aplicarán a un nuevo proceso de transformación;
 
-LI. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, representen un peligro para la salud humana, el equilibrio ecológico o el ambiente;
+XLVI. Recolección: Acción de transferir los residuos al equipo destinado a conducirlos a las instalaciones de almacenamiento, tratamiento o reciclaje, o a los sitios para su disposición final;
 
-LII. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+XLVII. Recursos biológicos: Los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
+
+XLVIII. Recursos genéticos: Material genético de valor real o potencial;
+
+XLIX. Recurso natural: Elemento natural susceptible de ser aprovechado en beneficio del hombre;
+
+L. Región ecológica: Unidad de territorio que comparte características ecológicas comunes;
+
+LI. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+
+LII. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, representen un peligro para la salud humana, el equilibrio ecológico o el ambiente;
+
+LIII. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-LIII. La Comisión.- La Comisión Estatal de Agua y Medio Ambiente.
+LIV. La Comisión.- La Comisión Estatal de Agua y Medio Ambiente.
 
 En lo subsiguiente todas las disposiciones que refieran en la presente Ley a la "Secretaría" deberán decir la "Comisión"
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-LIV. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales.
+LV. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales.
 
-LV. Tratamiento de Agua Residual: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+LVI. Tratamiento de Agua Residual: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
 
-LVI. Verificación: Medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores o de la industria; y
+LVII. Verificación: Medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores o de la industria; y
 
-LVII. Vocación Natural: Características que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
+LVIII. Vocación Natural: Características que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
 ## TÍTULO SEGUNDO. DISTRIBUCIÓN DE COMPETENCIAS, CONCURRENCIA Y COORDINACIÓN
 
@@ -285,35 +293,43 @@ VII. La prevención y control de la contaminación del paisaje;
 
 VIII. La regulación del aprovechamiento sustentable, la prevención y control de la contaminación de las aguas de jurisdicción estatal; así como de las aguas nacionales que el Estado de Morelos o sus municipios tengan asignadas o concesionadas;
 
-IX. La coordinación con los municipios para la prevención y control de contaminación por la prestación de servicios públicos y de las aguas residuales que se descarguen en la redes de alcantarillado de los centros de población, sin perjuicio de las facultades de la Federación en materia de tratamiento, descargas, infiltración y reuso de aguas residuales, conforme a las leyes aplicables;
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
-X. Promover la celebración de acuerdos de coordinación y asesoría con los gobiernos municipales para la implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos municipales, y la identificación de alternativas de reutilización y disposición final de residuos sólidos municipales, incluyendo la elaboración de inventarios de los mismos y sus fuentes generadoras, y de los centros de comercialización;
+IX. Diseñar e implementar políticas públicas que coadyuven a disminuir los efectos del cambio climático; y;
 
-XI. La protección al ambiente, prevención y el control de la contaminación generada por el aprovechamiento de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras;
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
-XII. La evaluación del impacto ambiental que pudiesen ocasionar las obras o actividades de conformidad a lo que se establece en el artículo 38 de ésta Ley será evaluado por las autoridades del Estado de Morelos, con la participación de los municipios respectivos y del Comité Técnico de Impacto Ambiental, ésta se deberá efectuar dentro de los procedimientos de autorización de uso del suelo, construcciones, fraccionamientos u otros que establezcan las leyes estatales y las disposiciones en esta materia. Dichos ordenamientos proveerán lo necesario a fin de hacer compatibles la política ambiental con la de desarrollo urbano;
+X. Expedir los criterios y normas técnicas estatales para la preservación, conservación, remediación y restauración de la calidad ambiental, incluyendo lo relativo a los efectos del cambio climático, observando los estándares establecidos por la autoridad federal para asegurar la calidad del ambiente;
 
-XIII. La prevención y control de emergencias ecológicas y contingencias ambientales, en forma aislada o participativa con la Federación, cuando la magnitud o gravedad de los desequilibrios ecológicos o daños al ambiente así lo requieran;
+XI. La coordinación con los municipios para la prevención y control de contaminación por la prestación de servicios públicos y de las aguas residuales que se descarguen en la redes de alcantarillado de los centros de población, sin perjuicio de las facultades de la Federación en materia de tratamiento, descargas, infiltración y reuso de aguas residuales, conforme a las leyes aplicables;
 
-XIV. La formulación, expedición y ejecución de los programas de ordenamiento ecológico del territorio, a que se refiere el artículo 19 de ésta Ley, con la participación de los municipios respectivos y en congruencia a los programas de desarrollo urbano y demás instrumentos regulados en ésta Ley y en las disposiciones estatales aplicables. Así mismo, el Gobierno Estatal deberá promover la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación y demás personas interesadas, de acuerdo con lo establecido en ésta Ley, así como en las demás disposiciones que resulten aplicables para la formulación del ordenamiento ecológico estatal.
+XII. Promover la celebración de acuerdos de coordinación y asesoría con los gobiernos municipales para la implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos municipales, y la identificación de alternativas de reutilización y disposición final de residuos sólidos municipales, incluyendo la elaboración de inventarios de los mismos y sus fuentes generadoras, y de los centros de comercialización;
 
-XV. El establecimiento, regulación, administración y vigilancia de las áreas naturales protegidas estatales previstas en el artículo 92 de ésta Ley, con la participación de los gobiernos municipales;
+XIII. La protección al ambiente, prevención y el control de la contaminación generada por el aprovechamiento de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras;
 
-XVI. La atención de los asuntos que afecten el equilibrio ecológico o el ambiente de dos o más municipios;
+XIV. La evaluación del impacto ambiental que pudiesen ocasionar las obras o actividades de conformidad a lo que se establece en el artículo 38 de ésta Ley será evaluado por las autoridades del Estado de Morelos, con la participación de los municipios respectivos y del Comité Técnico de Impacto Ambiental, ésta se deberá efectuar dentro de los procedimientos de autorización de uso del suelo, construcciones, fraccionamientos u otros que establezcan las leyes estatales y las disposiciones en esta materia. Dichos ordenamientos proveerán lo necesario a fin de hacer compatibles la política ambiental con la de desarrollo urbano;
 
-XVII. La expedición de los reglamentos y la vigilancia del cumplimiento de las Normas Oficiales Mexicanas y en caso de ser necesario expedir normas estatales;
+XV. La prevención y control de emergencias ecológicas y contingencias ambientales, en forma aislada o participativa con la Federación, cuando la magnitud o gravedad de los desequilibrios ecológicos o daños al ambiente así lo requieran;
 
-XVIII. La conducción de la política estatal de información y difusión en materia ambiental, con la participación de los gobiernos municipales;
+XVI. La formulación, expedición y ejecución de los programas de ordenamiento ecológico del territorio, a que se refiere el artículo 19 de ésta Ley, con la participación de los municipios respectivos y en congruencia a los programas de desarrollo urbano y demás instrumentos regulados en ésta Ley y en las disposiciones estatales aplicables. Así mismo, el Gobierno Estatal deberá promover la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación y demás personas interesadas, de acuerdo con lo establecido en ésta Ley, así como en las demás disposiciones que resulten aplicables para la formulación del ordenamiento ecológico estatal.
 
-XIX. La promoción de la participación de la sociedad en materia ambiental, de conformidad con las disposiciones del artículo 53 de ésta Ley;
+XVII. El establecimiento, regulación, administración y vigilancia de las áreas naturales protegidas estatales previstas en el artículo 92 de ésta Ley, con la participación de los gobiernos municipales;
 
-XX. La formulación, ejecución y evaluación del Programa Estatal de Protección al Ambiente;
+XVIII. La atención de los asuntos que afecten el equilibrio ecológico o el ambiente de dos o más municipios;
 
-XXI. La emisión de recomendaciones a las autoridades competentes en materia ambiental con el propósito de promover el cumplimiento de la legislación ambiental;
+XIX. La expedición de los reglamentos y la vigilancia del cumplimiento de las Normas Oficiales Mexicanas y en caso de ser necesario expedir normas estatales;
 
-XXII. La atención coordinada con la Federación de los asuntos que afecten el equilibrio ecológico con otra o más Entidades Federativas, cuando así lo consideren conveniente las Entidades Federativas respectivas; y
+XX. La conducción de la política estatal de información y difusión en materia ambiental, con la participación de los gobiernos municipales;
 
-XXIII. La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda ésta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
+XXI. La promoción de la participación de la sociedad en materia ambiental, de conformidad con las disposiciones del artículo 53 de ésta Ley;
+
+XXII. La formulación, ejecución y evaluación del Programa Estatal de Protección al Ambiente;
+
+XXIII. La emisión de recomendaciones a las autoridades competentes en materia ambiental con el propósito de promover el cumplimiento de la legislación ambiental;
+
+XXIV. La atención coordinada con la Federación de los asuntos que afecten el equilibrio ecológico con otra o más Entidades Federativas, cuando así lo consideren conveniente las Entidades Federativas respectivas; y
+
+XXV. La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda ésta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
 
 ###### ARTÍCULO 7°.
 
@@ -679,9 +695,11 @@ Los fines de la educación ambiental son relacionar los problemas ambientales co
 
 Las autoridades educativas estatales y federales con la colaboración de la Secretaría y en consulta con diversos sectores de la comunidad, procederán a revisar y hacer propuestas en los planes de estudio de los niveles escolares de preescolar, primaria y secundaria a fin de incorporar, en la forma más amplia posible, los objetivos previstos en el párrafo anterior, incluyendo aquellas actividades que en lo particular disponga la Ley de Residuos Sólidos para el Estado de Morelos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 33.
 
-El Gobierno Estatal y los Municipios fomentarán investigaciones científicas y promoverán programas para el conocimiento de los recursos naturales con que cuenta la entidad, para propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas, buscando el rescate y reconocimiento de los conocimientos tradicionales, así como, para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+EI Gobierno Estatal y los Municipios, fomentarán investigaciones científicas y promoverán programas para el conocimiento de los recursos naturales con que cuenta la entidad, para propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas, buscando el rescate y reconocimiento de los conocimientos tradicionales, para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar, abatir la contaminación, así como también la prevención y difusión de los efectos del cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
 Además se apoyará la vinculación de estas instituciones y centros con los grupos organizados de los sectores social y privado a fin de que la investigación generada sea aplicada a necesidades concretas.
 
@@ -2069,7 +2087,7 @@ Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en est
 
 ###### ARTÍCULO 176.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría o por los Ayuntamientos, cuando así proceda, con una o más de las siguientes sanciones:
+Las violaciones a los preceptos de ésta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría o por los Ayuntamientos, cuando así proceda, con una o más de las siguientes sanciones:
 
 I. Multa, por el equivalente de tres a veinte mil días de salario mínimo general vigente en el Estado al momento de imponer la sanción;
 
@@ -2630,3 +2648,11 @@ P.O. 22 DE AGOSTO DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial ''Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 SEGUNDO.- Aprobado que sea el presente dictamen en términos del Artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase al Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+P.O. 21 DE AGOSTO DE 2013.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
