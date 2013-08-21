@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2013-07-17"
+last_updated: "2013-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -4957,6 +4957,12 @@ II.- El que directa o indirectamente, por sí o por interpósita persona, dé u 
 
 El delito de cohecho se sancionará con prisión de seis meses a nueve años; multa de diez a cien días de salario y destitución e inhabilitación, en su caso, de seis meses a nueve años para desempeñar un empleo, cargo o comisión públicos.
 
+#### SECCIÓN ÚNICA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 428.
 
 Comete el delito de peculado:
@@ -5447,6 +5453,62 @@ Una vez expedida la autorización a que se refiere el párrafo anterior, el Mini
 
 En las actividades que desarrollen el o los policías que ejecuten la orden, se considerará que actúan en cumplimiento de un deber jurídico, en los términos del artículo 26 fracción VI de este Código, siempre que su actuación se apegue a los lineamientos, términos, modalidades, limitaciones y condiciones a que se refiere el párrafo anterior.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO VIGÉSIMO CUARTO. DELITOS EN CONTRA DE LOS ANIMALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE AGOSTO DE 2013)</small>
+
+###### Artículo 470.
+
+Al que mediante acción u omisión, realice actos de maltrato o crueldad en contra de cualquier animal con la intención de ocasionarle dolor, sufrimiento o afectar su bienestar, de manera ilícita o sin causa justificada, provocándole lesiones que no pongan en peligro la vida, se le impondrán de seis meses a dos años de prisión y multa de cincuenta a cien días de salario.
+
+Si las lesiones ponen en peligro la vida del animal, las penas se incrementará (sic) en una mitad.
+
+Si los actos de maltrato o crueldad provocan la muerte del animal, se impondrán de dos a cuatro años de prisión y multa de doscientos a cuatrocientos días de salario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
+###### Artículo 471.
+
+Para efectos de esta Sección, se entenderá como animal, toda especie doméstica o silvestre, que no constituya fauna nociva, en términos de lo dispuesto en el artículo 3 de la Ley de Protección a los Animales para el Estado de Puebla.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
+###### Artículo 472.
+
+Las sanciones previstas en el artículo 470 se incrementarán en una mitad en los supuestos siguientes:
+
+I. Si se prolonga innecesariamente la agonía o el sufrimiento del animal;
+
+II. Si se utilizan métodos de extrema crueldad; o
+
+III. Si además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo los capta en imágenes, fotografía o videograba para hacerlos públicos por cualquier medio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
+###### Artículo 473.
+
+Se impondrá de uno a cuatro años de prisión y multa de doscientos a cuatrocientos días de salario a la persona que organice, promueva, difunda o realice una o varias peleas de perros, con o sin apuestas, o las permita en su propiedad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
+###### Artículo 474.
+
+Se exceptúan de las disposiciones anteriores, los espectáculos de tauromaquia, charrería y peleas de gallos; así como los relacionados con fiestas tradicionales y usos y costumbres.
+
 T R A N S I T O R I O S:
 
 ###### ARTICULO 1º.
@@ -5842,3 +5904,9 @@ P.O. 17 DE JULIO DE 2013
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
