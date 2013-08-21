@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2012-11-21"
+last_updated: "2013-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE NOVIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -481,11 +479,11 @@ En toda convocatoria se deberá prevenir que no podrán participar todas aquella
 
 Las Dependencias, Secretaría y Ayuntamientos publicarán las convocatorias simultáneamente, en medios electrónicos de difusión, incluyendo Internet, siendo su obtención gratuita.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2012) (F. DE E., P.O. 13 DE JUNIO DE 2012)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
 
-###### ARTÍCULO 29.
+###### Artículo 29.
 
-Previamente a la adquisición de las bases, las Dependencias, Secretaría o Ayuntamientos deberán revisar, a fin de verificar que los interesados cumplan los requisitos de la convocatoria y, por tanto, se encuentren en aptitud de adquirir las bases que les permitan formular sus propuestas, los siguientes requisitos:
+Previamente a la adquisición de las bases, los organismos y dependencias de la administración pública, secretaría o ayuntamientos deberán revisar, a fin de verificar que los interesados cumplan los requisitos de la convocatoria y por tanto, se encuentren en aptitud de adquirir las bases que les permitan formular sus propuestas, los siguientes requisitos.
 
 I. Comprobación del capital contable solicitado;
 
@@ -1306,3 +1304,13 @@ P.O. 14 DE NOVIEMBRE DE 2012.
 PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día 1 de enero del año 2013, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 21 DE AGOSTO DE 2013.
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+Segundo.- Se le otorga 90 días para que el ejecutivo del Estado actualice el Reglamento de la Obra Pública y Servicios relacionada con la misma del Estado de Morelos, en relación a las modificaciones realizadas.
+
+Tercer (sic).- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Cuarto.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto. Lo que hago de su conocimiento para los efectos legales y administrativos.
