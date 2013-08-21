@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-instituto-de-servicios-registrales-y-9383
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-04-03"
-last_updated: "2013-04-03"
+last_updated: "2013-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SERVICIOS REGISTRALES Y CATASTRALES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 3 de abril de 2013.
 
@@ -187,7 +187,9 @@ IV. Dirección de Sistemas y Tecnología;
 
 V. Dirección Jurídica;
 
-VI. Dirección de Catastro;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+
+VI. Coordinación de Catastro;
 
 VII. Dirección de Modernización e Innovación;
 
@@ -391,9 +393,11 @@ X. Las demás que le asigne el Director General.
 
 Para tal efecto la persona titular de la Dirección Jurídica se auxiliará de los Registradores que sean autorizados en el Presupuesto de Egresos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 21.
 
-Corresponde a la persona titular de la Dirección de Catastro las siguientes atribuciones:
+Corresponde a la persona titular de la Coordinación de Catastro las siguientes atribuciones:
 
 I. Integrar y mantener actualizada la cartografía de los bienes inmuebles del Estado de Morelos, con la descripción de las medidas, colindancias, datos limítrofes y superficies del territorio Estatal y de los Municipios;
 
@@ -409,9 +413,15 @@ VI. Practicar avalúos requeridos por la Comisión de Avalúos de Bienes Estatal
 
 VII. Vincular las bases de datos del Registro Público de la Propiedad y la del Catastro a fin de que ambas puedan visualizarse a través de sistemas informáticos y mantener su actualización;
 
-VIII. Integrar al portal visualizador, toda la información estratégica que generen las demás Dependencias de los gobiernos municipales, estatal y federal, y
+VIII. Integrar al portal visualizador, toda la información estratégica que generen las demás Dependencias de los gobiernos municipales, estatal y federal, y (sic)
 
-IX. Las demás que determinen las disposiciones legales vigentes o le delegue el Director General.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+
+IX. Coordinar un proceso de integración, mantenimiento y actualización de la información de manera metódica, simultánea y armoniosa; así como los procedimientos técnico-administrativos en materia catastral de manera directa con los Municipios a efecto de hacer más eficiente y optimizar la actividad catastral en el Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE AGOSTO DE 2013)</small>
+
+X. Las demás que determinen las disposiciones legales vigentes o le delegue el Director General.
 
 ###### Artículo 22.
 
@@ -714,3 +724,11 @@ EL DIRECTOR GENERAL DEL INSTITUTO DE SERVICIOS REGISTRALES Y CATASTRALES DEL EST
 LIC. ALFREDO GARCÍA REYNOSO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE AGOSTO DE 2013.
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se oponga al presente Decreto.
