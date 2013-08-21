@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-talleres-graficos-51873"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-06"
-last_updated: "2006-07-06"
+last_updated: "2013-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE TALLERES GRAFICOS
 
-REGLAMENTO INTERIOR DE TALLERES GRAFICOS
+REGLAMENTO INTERIOR DE TALLERES GRÁFICOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO POR EL QUE SE ABROGA EL REGLAMENTO INTERIOR DE TALLERES GRÁFICOS DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 21 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. DE 21 DE AGOSTO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el jueves 6 de julio de 2006.
 
@@ -230,3 +232,13 @@ Tercero.- Se derogan todas las disposiciones que tengan similar o menor jerarqu�
 Dado en Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 26 días del mes de mayo de dos mil seis.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE AGOSTO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor jerarquía al presente Decreto, y que se opongan al mismo.
+
+Artículo Tercero.- En cumplimiento a lo previsto en el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
