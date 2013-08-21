@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-y-desarrollo-de-los-derechos-y-cultura-de-84873"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-18"
-last_updated: "2012-02-29"
+last_updated: "2013-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO Y DESARROLLO DE LOS DERECHOS Y CULTURA DE LAS COMUNIDADES Y PUEBLOS INDÍGENAS DEL ESTADO DE MORELOS.
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE FEBRERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 18 de enero de 2012.
 
@@ -709,9 +707,13 @@ Las instituciones de salud estatal, registrarán y dotarán de elementos necesar
 
 ### Capítulo Cuarto. Lengua
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 91.
 
-Corresponde al Estado, a través de las dependencias y entidades, en sus respectivas competencias lo siguiente:
+Corresponde al Estado, por conducto del Instituto Estatal de Lenguas Indígenas que será un órgano desconcentrado de la Administración Pública, la protección y preservación del náhuatl y las demás que para nuestra Entidad contemple el Catálogo de las Lenguas Indígenas Nacionales emitido por el Instituto Nacional de Lenguas Indígenas, para cuyo efecto le corresponderán las atribuciones siguientes:
 
 I. Proporcionar la formación y acreditación profesional de intérpretes en las lenguas indígenas que se hablan en el Estado;
 
@@ -1034,3 +1036,15 @@ SECRETARIO DE GOBIERNO
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE AGOSTO DE 2013.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia el día primero de enero del año 2014, para cuyo efecto el titular del Ejecutivo Estatal, previamente emitirá el Decreto de Creación del Instituto Estatal de Lenguas Indígenas, como órgano desconcentrado de la Administración Pública, en términos de lo dispuesto por el artículo 5 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+TERCERO.- Para el inicio de operaciones del Instituto Estatal de Lenguas Indígenas el Poder Ejecutivo, incluirá las previsiones presupuestales que se requieran en el proyecto de Presupuesto de Egresos del Gobierno del Estado, para el ejercicio del año 2014.
+
+CUARTO.- Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
