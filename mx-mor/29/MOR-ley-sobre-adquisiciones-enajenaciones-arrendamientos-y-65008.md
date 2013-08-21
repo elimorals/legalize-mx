@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-adquisiciones-enajenaciones-arrendamientos-y-65008"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2012-11-14"
+last_updated: "2013-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de diciembre de 2008.
 
@@ -183,7 +183,9 @@ La persona Titular del Poder Ejecutivo, dictará las disposiciones administrativ
 
 Asimismo, la Oficialía, Contraloría y Finanzas y Planeación propondrán al Comité para su aprobación, los precios conforme a los cuales se llevarán a cabo las adquisiciones de mercancías, materias primas, prestación de servicios y demás bienes muebles que se requieran.
 
-Las disposiciones administrativas que se dicten promoverán la participación de la micro, pequeña y mediana empresa estatal, procurando adjudicarle por lo menos un 20% del valor total de los Contratos. Adicionalmente podrán implementar el uso de medios electrónicos y todo tipo de tecnologías informáticas para el logro de tales objetivos, observando para el caso, la normatividad que resulte aplicable.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
+Las disposiciones administrativas que se dicten promoverán la participación de la micro, pequeña y mediana empresa estatal adjudicándole por lo menos un 20% del valor total de los contratos, se preferirá en igualdad de condiciones, el empleo de recursos humanos del estado, y la utilización de los bienes y servicios de origen local y propios de la región, adicionalmente podrán implementar el uso de medios electrónicos y todo tipo de tecnologías informáticas para el logro de tales objetivo, observando para el caso la normatividad que resulte aplicable.
 
 ###### Artículo 14.
 
@@ -1333,8 +1335,16 @@ Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 14 DE NOVIEMBRE DE 2012-
+P.O. 14 DE NOVIEMBRE DE 2012.
 
 PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día 1 de enero del año 2013, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 21 DE AGOSTO DE 2013.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
