@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-erradicar-la-obligatoriedad-de-las-cuotas-84193"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2011-12-14"
+last_updated: "2013-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA ERRADICAR LA OBLIGATORIEDAD DE LAS CUOTAS ESCOLARES EN LAS ESCUELAS PÚBLICAS DEL SISTEMA DE EDUCACIÓN BÁSICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -35,7 +35,7 @@ Que el Congreso del Estado se ha servido enviarme para su promulgación lo sigui
 
 LA QUINCUAGÉSIMA PRIMERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-I. ANTECEDENTES: .
+I. ANTECEDENTES:...
 
 ###### ARTÍCULO ÚNICO.
 
@@ -73,11 +73,13 @@ VII. Autoridades Educativas Estatales y Municipales. Secretario de Educación, S
 
 VIII. Autoridades Sancionadoras. Las establecidas en el artículo 6º de la Ley Estatal de Responsabilidades de los Servidores Públicos para el Estado de Morelos.
 
-IX. Secretaría de Finanzas. Secretaría de Finanzas y Planeación del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+
+IX. Secretaría de Hacienda. Secretaría de Hacienda del Gobierno del Estado.
 
 X. Secretaría de Educación. Secretaría de Educación del Gobierno del Estado.
 
-XI. Congreso. El H. Congreso del Estado de Morelos
+XI. Congreso. El H. Congreso del Estado de Morelos.
 
 ###### ARTÍCULO 4.
 
@@ -99,17 +101,17 @@ Los recursos están encaminados a atender las necesidades que determine el comit
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO DE APLICACIÓN
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 8.
 
-El IEBEM deberá proporcionar copia certificada a la Secretaría de Finanzas y Planeación del padrón vigente, que contenga los datos referentes de las Escuelas Públicas del nivel básico, indicando nivel educativo, ubicación y número de alumnos por escuela; datos que deberán estar organizados por cuanto al número de escuelas por Municipio, a fin de realizar los cálculos necesarios para la debida distribución del presupuesto. Las escuelas deberán programar, a través del comité escolar, sus necesidades de mantenimiento y de material didáctico, detallando los conceptos que se autorizan de conformidad con lo establecido en el artículo 13 de la presente Ley a más tardar en 5 días hábiles contados a partir del día de la recepción del recurso.
+El IEBEM, deberá proporcionar copia certificada a la Secretaría de Hacienda del padrón vigente, que contenga los datos referentes de las Escuelas Públicas del nivel básico, indicando nivel educativo, ubicación y número de alumnos por escuela; datos que deberán estar organizados por cuanto al número de escuelas por Municipio, a fin de realizar los cálculos necesarios para la debida distribución del presupuesto. Las escuelas deberán programar, a través del comité escolar, sus necesidades de mantenimiento y de material didáctico, detallando los conceptos que se autorizan de conformidad con lo establecido en el artículo 13 de la presente Ley, a más tardar en 5 días hábiles contados a partir del día de la recepción del recurso.
 
-Las escuelas deberán aperturar, a través del Comité Escolar, una cuenta bancaria que no cobre comisión alguna, con firmas mancomunadas del Director y el Tesorero de la Asociación de Padres de Familia, para la radicación y manejo de los recursos que recibirán.
-
-Para la apertura de la cuenta bancaria a que se refiere el párrafo anterior, no será requisito indispensable, que las actas de constitución de las Asociaciones de Padres de Familia al interior de cada escuela contengan el sello o aval alguno de la Asociación Estatal de Padres de Familia del Estado de Morelos.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### ARTÍCULO 9.
 
-Los recursos, serán aprobados por el Congreso del Estado de Morelos, cada año y son adicionales y complementarios a cualquier otro programa Federal, Estatal o Municipal vigente, destinado a la operación de los planteles escolares de educación básica. Éste será entregado a través de la Secretaría de Finanzas y Planeación al IEBEM y ejecutados por los Comités Escolares de cada una de las escuelas.
+Los recursos, serán aprobados por el Congreso del Estado de Morelos, cada año y son adicionales y complementarios a cualquier otro programa Federal, Estatal o Municipal vigente, destinado a la operación de los planteles escolares de educación básica. Éste será entregado a través de la Secretaría de Hacienda al IEBEM y ejecutados por los Comités Escolares de cada una de las escuelas.
 
 ###### ARTÍCULO 10.
 
@@ -117,15 +119,11 @@ Los recursos deberán ejercerse durante cada año fiscal, cumpliendo con el prin
 
 Los recursos económicos destinados a las escuelas públicas que cubran los requisitos a que se refiere el artículo 26, deberán ser utilizados exclusivamente para alcanzar los objetivos establecidos en la presente Ley; y el uso de éstos se sujetará a las disposiciones normativas y legales aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 11.
 
-La Secretaría de Finanzas y Planeación determinará, con base en el padrón de escuelas públicas de educación básica que reciba del Instituto de la Educación Básica del Estado de Morelos, el monto de los recursos que se le entregarán para que éste a su vez, realice la distribución del recurso a las escuelas de educación básica del Estado de Morelos. El monto por cada escuela se calculará con base en el padrón que proporcione el IEBEM de acuerdo con la siguiente fórmula:
-
-El equivalente a 3 salarios mínimos vigentes X total de alumnos por escuela = Monto a recibir por Escuela
-
-El monto calculado a que se refiere la fórmula anterior corresponde a la cantidad que resulte de la suma de tres salarios mínimos conforme al salario mínimo vigente autorizado por la Comisión Nacional de Salario Mínimos, correspondiente al Estado de Morelos.
-
-El IEBEM recibirá el monto correspondiente de las escuelas y hará la entrega directa del recurso correspondiente al Comité Escolar de cada escuela, lo cual deberá ser, preferentemente, mediante transferencia bancaria u otro medio que garantice la entrega y recepción de los recursos, de manera eficiente, segura, oportuna y transparente, atendiendo a los casos de excepción que se puedan presentar. Garantizando siempre que el recurso llegará a todas las escuelas de educación pública del nivel básico en el Estado de Morelos.
+La Secretaría de Hacienda determinará, con base en el padrón de escuelas públicas de educación básica que reciba del Instituto de la Educación Básica del Estado de Morelos, el monto de los recursos que se le entregarán para que éste a su vez, realice la distribución del recurso a las escuelas de educación básica del Estado de Morelos.
 
 ###### ARTÍCULO 12.
 
@@ -141,11 +139,13 @@ En ningún caso se usará para cualquier otro fin.
 
 TABLA 1
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 14 DE DICIEMBRE DE 2011, PAGINA 31.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 14 DE DICIEMBRE DE 2011, PÁGINA 31.</small>
 
 TABLA 2
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 14 DE DICIEMBRE DE 2011, PAGINA 31.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 14 DE DICIEMBRE DE 2011, PÁGINA 31.</small>
+
+> <small>N. DE E. VÉASE REFORMAS DE LA TABLA, P.O. DE 21 DE AGOSTO DE 2013, PÁGINA 31.</small>
 
 ###### ARTÍCULO 14.
 
@@ -290,3 +290,13 @@ SECRETARIO DE GOBIERNO
 Dr. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, órgano de difusión oficial del Estado de Morelos.
+
+SEGUNDO.-Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
+
+TERCERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47 de la Constitución Política del Estado de Morelos.
