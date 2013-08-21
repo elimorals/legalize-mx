@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2013-06-25"
+last_updated: "2013-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -519,7 +519,9 @@ VI. Noreste, que comprende el Estado de Nuevo León y los municipios de Nuevo La
 
 VII. Occidente, que comprende los Estados de Colima, Jalisco y Nayarit;
 
-VIII. Centro I, que comprende los Estados de Zacatecas y Aguascalientes;
+> <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+VIII. Centro I, que comprende el Estado de Aguascalientes;
 
 IX. Centro II, que comprende los Estados de San Luis Potosí y Querétaro;
 
@@ -551,17 +553,21 @@ XXI. Pacífico-Centro, que comprende el Estado de Michoacán.
 
 XXII. Norte-Centro III, que comprende el Estado de Durango, con excepción de los Municipios de Lerdo y Gómez Palacio, del propio Estado.
 
+> <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+XXIII. Norte-Centro IV, que comprende el Estado de Zacatecas... (sic)
+
 ###### Artículo 22.
 
 En las regiones señaladas en el artículo anterior, la sede, denominación y el número de Salas Regionales, serán las siguientes:
 
-I. Región del Noroeste I: Dos Salas que se denominarán, “Primera Sala Regional del Noroeste I” y “Segunda Sala Regional del Noroeste I”, con sede en la Ciudad de Tijuana, Estado de Baja California;
+I. Región del Noroeste I: Dos Salas que se denominarán, "Primera Sala Regional del Noroeste I" y "Segunda Sala Regional del Noroeste I", con sede en la Ciudad de Tijuana, Estado de Baja California;
 
-II. Región del Noroeste II: Una Sala que se denominará “Sala Regional del Noroeste II”, con sede en Ciudad Obregón, Estado de Sonora;
+II. Región del Noroeste II: Una Sala que se denominará "Sala Regional del Noroeste II", con sede en Ciudad Obregón, Estado de Sonora;
 
-III. Región del Noroeste III: Una Sala que se denominará “Sala Regional del Noroeste III”, con sede en la Ciudad de Culiacán, Estado de Sinaloa;
+III. Región del Noroeste III: Una Sala que se denominará "Sala Regional del Noroeste III", con sede en la Ciudad de Culiacán, Estado de Sinaloa;
 
-IV. Región del Norte-Centro I: Una Sala que se denominará “Sala Regional del Norte-Centro I”, con sede en la Ciudad de Chihuahua, Estado de Chihuahua;
+IV. Región del Norte-Centro I: Una Sala que se denominará "Sala Regional del Norte-Centro I", con sede en la Ciudad de Chihuahua, Estado de Chihuahua;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -573,17 +579,17 @@ V. Región del Norte-Centro II: Dos Salas que se denominarán, "Primera Sala Reg
 
 > <small>(REFORMADA, D.O.F. 18 DE SEPTIEMBRE DE 2012)</small>
 
-VI. Región del Noreste: Tres Salas que se denominarán, “Primera Sala Regional del Noreste”, “Segunda Sala Regional del Noreste”, y “Tercera Sala Regional del Noreste”, todas con sede en la Ciudad de Monterrey, Estado de Nuevo León;
+VI. Región del Noreste: Tres Salas que se denominarán, "Primera Sala Regional del Noreste", "Segunda Sala Regional del Noreste", y "Tercera Sala Regional del Noreste", todas con sede en la Ciudad de Monterrey, Estado de Nuevo León;
 
-VII. Región de Occidente: Tres Salas que se denominarán, “Primera Sala Regional de Occidente”, “Segunda Sala Regional de Occidente” y “Tercera Sala Regional de Occidente”, todas con sede en la Ciudad de Guadalajara, Estado de Jalisco;
+VII. Región de Occidente: Tres Salas que se denominarán, "Primera Sala Regional de Occidente", "Segunda Sala Regional de Occidente" y "Tercera Sala Regional de Occidente", todas con sede en la Ciudad de Guadalajara, Estado de Jalisco;
 
-VIII. Región del Centro I: Una Sala que se denominará “Sala Regional del Centro I”, con sede en la Ciudad de Aguascalientes, Estado de Aguascalientes;
+VIII. Región del Centro I: Una Sala que se denominará "Sala Regional del Centro I", con sede en la Ciudad de Aguascalientes, Estado de Aguascalientes;
 
-IX. Región del Centro II: Una Sala que se denominará “Sala Regional del Centro II”, con sede en la Ciudad de Querétaro, Estado de Querétaro;
+IX. Región del Centro II: Una Sala que se denominará "Sala Regional del Centro II", con sede en la Ciudad de Querétaro, Estado de Querétaro;
 
-X. Región del Centro III: Una Sala que se denominará “Sala Regional del Centro III”, con sede en la Ciudad de Celaya, Estado de Guanajuato;
+X. Región del Centro III: Una Sala que se denominará "Sala Regional del Centro III", con sede en la Ciudad de Celaya, Estado de Guanajuato;
 
-XI. Región Hidalgo-México: Tres Salas que se denominarán, “Primera Sala Regional Hidalgo-México”, “Segunda Sala Regional Hidalgo-México” y “Tercera Sala Regional Hidalgo-México”, con sede en Tlalnepantla, Estado de México;
+XI. Región Hidalgo-México: Tres Salas que se denominarán, "Primera Sala Regional Hidalgo-México", "Segunda Sala Regional Hidalgo-México" y "Tercera Sala Regional Hidalgo-México", con sede en Tlalnepantla, Estado de México;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -593,31 +599,35 @@ XII. Región de Oriente: Una Sala que se denominará, "Sala Regional de Oriente"
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2013)</small>
 
-XIII. Región del Golfo: Una Sala que se denominará “Sala Regional del Golfo”, con sede en la Ciudad de Jalapa, Estado de Veracruz;
+XIII. Región del Golfo: Una Sala que se denominará "Sala Regional del Golfo", con sede en la Ciudad de Jalapa, Estado de Veracruz;
 
-XIV. Región del Pacífico: Una Sala que se denominará “Sala Regional del Pacífico”, con sede en la Ciudad de Acapulco, Estado de Guerrero;
+XIV. Región del Pacífico: Una Sala que se denominará "Sala Regional del Pacífico", con sede en la Ciudad de Acapulco, Estado de Guerrero;
 
-XV. Región del Sureste: Una Sala que se denominará “Sala Regional del Sureste”, con sede en la Ciudad de Oaxaca, Estado de Oaxaca;
+XV. Región del Sureste: Una Sala que se denominará "Sala Regional del Sureste", con sede en la Ciudad de Oaxaca, Estado de Oaxaca;
 
-XVI. Región Peninsular: Una Sala que se denominará “Sala Regional Peninsular”, con sede en la Ciudad de Mérida, Estado de Yucatán;
+XVI. Región Peninsular: Una Sala que se denominará "Sala Regional Peninsular", con sede en la Ciudad de Mérida, Estado de Yucatán;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-XVII. Región Metropolitana: Once Salas que se denominarán, “Primera Sala Regional Metropolitana”, “Segunda Sala Regional Metropolitana”, “Tercera Sala Regional Metropolitana”, “Cuarta Sala Regional Metropolitana”, “Quinta Sala Regional Metropolitana”, “Sexta Sala Regional Metropolitana”, “Séptima Sala Regional Metropolitana”, “Octava Sala Regional Metropolitana”, “Novena Sala Regional Metropolitana”, “Décima Sala Regional Metropolitana” y “Décimo Primera Sala Regional Metropolitana”, todas con sede en la Ciudad de México, Distrito Federal;
+XVII. Región Metropolitana: Once Salas que se denominarán, "Primera Sala Regional Metropolitana", "Segunda Sala Regional Metropolitana", "Tercera Sala Regional Metropolitana", "Cuarta Sala Regional Metropolitana", "Quinta Sala Regional Metropolitana", "Sexta Sala Regional Metropolitana", "Séptima Sala Regional Metropolitana", "Octava Sala Regional Metropolitana", "Novena Sala Regional Metropolitana", "Décima Sala Regional Metropolitana" y "Décimo Primera Sala Regional Metropolitana", todas con sede en la Ciudad de México, Distrito Federal;
 
-XVIII. Región del Golfo-Norte: Una Sala que se denominará “Sala Regional del Golfo-Norte”, con sede en Ciudad Victoria, Estado de Tamaulipas;
+XVIII. Región del Golfo-Norte: Una Sala que se denominará "Sala Regional del Golfo-Norte", con sede en Ciudad Victoria, Estado de Tamaulipas;
 
-XIX. Región Chiapas-Tabasco: Una Sala que se denominará “Sala Regional Chiapas-Tabasco”, con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas;
+XIX. Región Chiapas-Tabasco: Una Sala que se denominará "Sala Regional Chiapas-Tabasco", con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas;
 
-XX. Región del Caribe: Una Sala que se denominará “Sala Regional del Caribe”, con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, y (sic)
+XX. Región del Caribe: Una Sala que se denominará "Sala Regional del Caribe", con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, y (sic)
 
-XXI. Región del Pacífico-Centro: Una Sala que se denominará “Sala Regional del Pacífico-Centro”, con sede en la ciudad de Morelia, Estado de Michoacán.
+XXI. Región del Pacífico-Centro: Una Sala que se denominará "Sala Regional del Pacífico-Centro", con sede en la ciudad de Morelia, Estado de Michoacán.
 
 > <small>(ADICIONADA, D.O.F. 8 DE ENERO DE 2013)</small>
 
 XXII. Región del Norte-Centro III: una Sala que se denominará "Sala Regional del Norte-Centro III", con sede en la ciudad de Victoria de Durango, Estado de Durango.
+
+> <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+XXIII. Región del Norte-Centro IV: una Sala que se denominará "Sala Regional del Norte-Centro IV", con sede en la ciudad de Zacatecas, Estado de Zacatecas.
 
 > <small>(REFORMADO, D.O.F. 28 DE OCTUBRE DE 2011)</small>
 
@@ -696,6 +706,10 @@ V. Quinta Sala Auxiliar, con sede en la ciudad de Jalapa, Estado de Veracruz.
 > <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2013)</small>
 
 VI. Sexta Sala Auxiliar, con sede en la ciudad de Morelia, Estado de Michoacán, que será la Sala Regional del Pacífico-Centro, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21, fracción XXI, y 22, fracción XXI, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
+
+> <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
+
+VII. Séptima Sala Auxiliar, con sede en la ciudad de Zacatecas, Estado de Zacatecas, que será la Sala Regional del Norte-Centro IV, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21 fracción XXIII, y 22 fracción XXIII, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2012)</small>
 
@@ -2778,3 +2792,23 @@ QUINTO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que res
 SEXTO.- Quedan sin efecto las disposiciones emitidas por la Junta de Gobierno y Administración, por el Pleno Jurisdiccional o por la propia Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa que se opongan a los términos del presente Acuerdo.
 
 SÉPTIMO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En el periodo comprendido del 6 al 30 de septiembre de 2013, se llevará a cabo el procedimiento para la capacitación del personal correspondiente.
+
+TERCERO.- La Sala Regional del Norte-Centro IV que se crea iniciará sus operaciones el 1 de octubre de 2013.
+
+CUARTO.- En términos de lo señalado en el artículo 41 fracciones I y IV, de la Ley Orgánica del Tribunal, la Junta de Gobierno y Administración deberá dictar los demás acuerdos que sean necesarios para la operación de la Sala Regional del Norte-Centro IV, para establecer las reglas de atención de los juicios y redistribuir los expedientes que se encuentren radicados en la Sala Regional del Centro I, y que conforme al artículo 34 de la misma Ley Orgánica, sean competencia de la Sala Regional recién creada.
+
+QUINTO.- La Junta Gobierno (sic) y Administración llevará a cabo los estudios necesarios para proponer al Pleno Jurisdiccional, las Salas que deban ser auxiliadas por la Séptima Sala Auxiliar.
+
+El Pleno de la Sala Superior, en su integración formal de once Magistrados, determinará las Salas Regionales que serán apoyadas por la Sala Regional del Norte-Centro IV, en su calidad de Sala Auxiliar, con sede en la Ciudad de Zacatecas, Estado de Zacatecas.
+
+SEXTO.- Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, para que a partir de la aprobación del presente Acuerdo, se realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, para implementar lo dispuesto en el presente Acuerdo.
+
+SÉPTIMO.- Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en el presente ordenamiento.
+
+OCTAVO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
