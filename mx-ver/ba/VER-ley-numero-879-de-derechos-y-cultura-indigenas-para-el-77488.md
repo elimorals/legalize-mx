@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-879-de-derechos-y-cultura-indigenas-para-el-77488"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-03"
-last_updated: "2011-05-02"
+last_updated: "2013-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 879 DE DERECHOS Y CULTURA INDIGENAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 879 DE DERECHOS Y CULTURAS INDIGENAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 879 DE DERECHOS Y CULTURAS INDÍGENAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE AGOSTO DE 2013.
 
 Ley publicada en el Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 3 de noviembre de 2010.
 
@@ -71,15 +71,23 @@ III. Reconocer la existencia y la validez de los sistemas normativos de los pueb
 
 La aplicación de esta Ley corresponde al Estado, a los Ayuntamientos y a las Autoridades Indígenas en el ámbito de sus respectivas competencias, con el objeto de asegurar el respeto y ejercicio de los derechos individuales y colectivos de los pueblos y comunidades de indígenas del Estado de Veracruz de Ignacio de la Llave.
 
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2013)</small>
+
+###### Artículo 3 Bis.
+
+Los Poderes del Estado y los municipios deberán incorporar en el desarrollo de sus funciones y diseño de políticas públicas, el enfoque intercultural, así como considerar una evaluación de su pertinencia cultural.
+
 ###### Artículo 4.
 
 Para garantizar el desarrollo económico y humano de los pueblos y comunidades de indígenas y la ejecución del Programa Estatal Anual a que se refiere la fracción VI del artículo 21 de esta Ley, en los presupuestos y programas operativos anuales del Estado y de los Ayuntamientos, deberán preverse y establecer los recursos necesarios para el cumplimiento de sus objetivos.
 
 Para el diseño de las políticas públicas a que se refiere el párrafo anterior, el Estado y los Ayuntamientos con la coadyuvancia de los Consejos Consultivos Estatal y en su caso, de los Regionales para el Desarrollo Integral de los Pueblos y Comunidades de Indígenas, asegurarán la participación de éstos, a través de sus asambleas comunitarias.
 
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 5.
 
-El Estado reconoce a los pueblos y comunidades de indígenas como sujetos de Derecho Público, personalidad jurídica propia, para contraer derechos y obligaciones con el Gobierno Estatal y con el Gobierno del Municipio en el que estén asentados. Asimismo, les otorga autonomía en los términos de la fracción III del artículo 7 de la presente Ley.
+El Estado reconoce a los pueblos y comunidades de indígenas como sujetos de interés público, personalidad jurídica propia, para contraer derechos y obligaciones con el Gobierno Estatal y con el Gobierno del Municipio en el que estén asentados. Asimismo, les otorga autonomía en los términos de la fracción III del artículo 7 de la presente Ley.
 
 ###### Artículo 6.
 
@@ -685,9 +693,9 @@ Los Jueces, Procuradores y demás Autoridades Administrativas que conozcan del a
 
 El Estado, por conducto de las autoridades creadas para la defensa del indígena, en coordinación con el Ministerio Público y las autoridades que por razón de sus funciones deban intervenir, vigilarán la eficaz protección de los derechos de los indígenas.
 
-> <small>(REFORMADO, G.O. 2 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2013)</small>
 
-En todas las etapas procesales, y al dictar resolución, deberán considerar la condición, prácticas, sistemas normativos y la costumbre del o de los miembros de los pueblos y comunidades indígenas. El Tribunal Superior de Justicia del Estado contará con una Sala de Asuntos Indígenas, integrada por un Magistrado y por el personal que señale la ley.
+En todas las etapas procesales, y al dictar resolución, deberán considerar la condición, prácticas, sistemas normativos y la costumbre del o de los miembros de los pueblos y comunidades de indígenas. La Sala Constitucional del Tribunal Superior de Justicia del Estado será competente para resolver los conflictos relativos a asuntos indígenas.
 
 ###### Artículo 82.
 
@@ -817,6 +825,50 @@ VII. Las demás que prevenga la Ley.
 
 En los casos de desacato o resistencia a la ejecución de las resoluciones pronunciadas por las Autoridades Indígenas o Jueces de Comunidad, éstos comunicarán esa circunstancia al Juez Municipal o Menor de la Jurisdicción, a fin de que solicite la intervención de las Autoridades Administrativas competentes para la eficaz ejecución del fallo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 22 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO III. Disposiciones Complementarias
+
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2013)</small>
+
+###### Artículo 100.
+
+Tratándose de peticiones o quejas por presuntas violaciones a los derechos humanos, en los que se vean involucrados personas indígenas, pueblos o comunidades de éstos, la Comisión Estatal de Derechos Humanos deberá:
+
+I. Actuar de oficio;
+
+Il. Considerar y respetar en sus recomendaciones, los sistemas normativos, lengua y formas de organización social, siempre que no contravengan los derechos humanos previstos en la Constitución Federal, la del Estado y en los tratados y convenciones internacionales suscritos por el Estado Mexicano;
+
+III. Promover el estudio, investigación, análisis y difusión de los sistemas normativos, formas de organización social, política y cultural de los pueblos indígenas del Estado;
+
+IV. Investigar, en el caso en que se presuman malos tratos o tortura, la presunta violación de derechos humanos a internos de los centros de reinserción social existentes en la Entidad, con el auxilio en todo momento de un médico nombrado por la Comisión y de un intérprete traductor, preferentemente certificado de la lengua que hable dicha persona, levantando el acta circunstanciada correspondiente;
+
+V. Notificar las recomendaciones y los acuerdos que dicte de manera personal a los quejosos y explicarlas en la lengua indígena que corresponda, así como informarles la manera en que pueden inconformarse respecto de dichas resoluciones;
+
+VI. Recibir en forma escrita, oral o por cualquier otro medio, las peticiones o quejas relacionadas con presuntas violaciones a los derechos humanos, para lo cual la Comisión deberá contar con intérprete-traductor, preferentemente certificado, a fin de que aquéllas contengan exactamente los hechos conforme a la comprensión de los quejosos; y
+
+VII. Explicar a las autoridades tradicionales o representantes del pueblo o comunidad y a las personas indígenas afectadas, con el auxilio de un intérprete traductor, preferentemente certificado en la lengua del lugar, la manera en que se está realizando la investigación y todo aquello que sea necesario para demostrar la presunta violación de los derechos humanos, solicitándole su ayuda y otorgando los apoyos necesarios.
+
+Tratándose de personas que se autoadscriban a un pueblo o comunidad indígena, recibirán el servicio sin perjuicio de que, en caso de duda, se pruebe su pertenencia, cuidando de que todas las diligencias, sin excepción, se realicen con asistencia de un intérprete-traductor, preferentemente certificado, de la lengua indígena que habla la parte actora, explicándole los trámites y sus resultados.
+
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2013)</small>
+
+###### Artículo 101.
+
+En materia indígena, los municipios deberán:
+
+I. Promover la prestación de los servicios públicos, tomando en consideración la cosmovisión y cultura de los pueblos indígenas, para lo que deberán realizar consultas previas, libres e informadas, a través de sus autoridades o representantes, conforme a sus tradiciones y métodos;
+
+II. Promover, respetar y vigilar la observancia de los derechos de diversidad cultural, identidad y lengua; libre determinación y autonomía; de consulta y participación, al propio desarrollo; la jurisdicción indígena, la personalidad jurídica y cualquier otro derecho reconocido y garantizado por las leyes mexicanas y los instrumentos internacionales de derechos humanos, a los indígenas, sus pueblos y comunidades;
+
+III. Incluir en su Plan de Desarrollo Municipal, políticas públicas encaminadas al desarrollo sustentable de las regiones indígenas, considerando la participación de sus habitantes, mediante procedimientos culturalmente adecuados, así como realizar estudios de factibilidad cultural;
+
+IV. Fomentar la educación bilingüe e intercultural y la creación de bibliotecas públicas, así como desarrollar programas de alfabetización y promoción de la lectura;
+
+V. Incluir la Comisión de Asuntos Indígenas, cuando en su territorio se asienten pueblos y comunidades de indígenas; y
+
+VI. Establecer asignaciones presupuestales específicas que permitan el cumplimiento de lo establecido en las disposiciones de la materia.
+
 T R A N S I T O R I O S
 
 Artículo primero. La presente Ley entrará en vigor el día de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
@@ -825,9 +877,7 @@ Artículo segundo. El Gobierno del Estado contará con un plazo de 365 días a p
 
 Artículo tercero. La presente Ley se difundirá por escrito y de manera oral en las lenguas de los pueblos y comunidades de indígenas asentados en el territorio del Estado, a través del Consejo Consultivo Estatal y con el apoyo de las Instituciones Estatales y Municipales cuyas funciones se vinculen con las comunidades de indígenas.
 
-> <small>(REFORMADO, G.O. 2 DE MAYO DE 2011)</small>
-
-Artículo cuarto. El Congreso del Estado, dentro de los trescientos sesenta días siguientes al inicio de la vigencia de esta Ley, deberá expedir el decreto de reformas y adiciones a las disposiciones de la Ley Orgánica del Poder Judicial del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a efecto de establecer las atribuciones, organización y funcionamiento de la Sala de Asuntos Indígenas del Tribunal Superior de Justicia, y proveer lo conducente para el nombramiento del Magistrado que la integre.
+Artículo cuarto. (DEROGADO, G.O. 22 DE AGOSTO DE 2013).
 
 Artículo quinto. El Congreso del Estado presentará en un término máximo de 360 días las iniciativas para armonizar las leyes que correspondan con las disposiciones de esta Ley.
 
@@ -861,10 +911,16 @@ Rúbrica.
 
 folio 1842
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 2 DE MAYO DE 2011.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 22 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
