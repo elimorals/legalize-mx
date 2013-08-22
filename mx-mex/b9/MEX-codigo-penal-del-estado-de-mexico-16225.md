@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2013-08-20"
+last_updated: "2013-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO PENAL DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE AGOSTO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE AGOSTO DE 2013.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 22 DE AGOSTO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO 126 PUBLICADO EN LA G.G. DE 20 DE AGOSTO DE 2013.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -4605,7 +4605,7 @@ Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de N
 
 Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
 
-Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+Hasta, el treinta de septiembre de dos mil once en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
 
 CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
 
