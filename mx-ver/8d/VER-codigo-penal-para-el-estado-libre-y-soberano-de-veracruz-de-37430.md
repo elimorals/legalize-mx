@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2013-08-14"
+last_updated: "2013-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE AGOSTO DE 2013.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1221,7 +1221,7 @@ Si la persona a quien se induzca o ayude al suicidio fuere menor de edad o incap
 
 ### CAPÍTULO VI. VIOLENCIA FAMILIAR
 
-> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 149.
 
@@ -1269,7 +1269,9 @@ IV. A juicio de dos médicos, exista razón suficiente de que el producto padece
 
 ###### Artículo 154 Bis.
 
-A quien ejerza cualquier tipo de violencia física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, comparta éste o no, en contra de su cónyuge, concubina o concubinario, pariente hasta el cuarto grado en ambas líneas o incapaz sobre el que sea tutor o curador, se le impondrán, independientemente de las sanciones que correspondan por cualquier otro delito, de dos a seis años de prisión, multa de hasta cuatrocientos días de salario, caución de no ofender y, en su caso, pérdida de los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio, patria potestad o tutela.
+A quien ejerza cualquier tipo de violencia física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, comparta éste o no, en contra de su cónyuge, concubina o concubinario, pariente hasta el cuarto grado en ambas líneas o incapaz sobre el que sea tutor o curador, se le impondrán, independientemente de las sanciones que correspondan por cualquier otro delito, de cuatro a seis años de prisión, multa de hasta seiscientos días de salario, caución de no ofender y, en su caso, pérdida de los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio, patria potestad o tutela.
+
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 En caso de que la víctima fuere mujer, se sujetará al activo a las medidas reeducativas que establece la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz de Ignacio de la Llave, las que, en ningún caso, excederán del tiempo impuesto en la pena de prisión.
 
@@ -3911,7 +3913,7 @@ Primero. El presente Decreto entrará en vigor el día primero de enero de dos m
 
 Segundo. A partir del inicio de la vigencia de este Decreto, la Secretaría proporcionará a las sociedades de información crediticia autorizadas, conforme a la ley de la materia, los datos de adeudos de ejercicios fiscales anteriores que a esa fecha no hayan sido cubiertos dentro de los plazos legalmente establecidos y hayan quedado firmes.
 
-P.O. 7 DE FEBRERO DE 2013.
+G.O. 7 DE FEBRERO DE 2013.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
@@ -3926,3 +3928,9 @@ G.O. 14 DE AGOSTO DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 22 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
