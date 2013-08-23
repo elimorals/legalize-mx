@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2012-12-31"
+last_updated: "2013-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -159,7 +159,7 @@ Lo anterior sin perjuicio de que los Secretarios, en auxilio del despacho de sus
 
 Las Dependencias y Entidades de la Administración Pública Estatal, deberán conducir sus actividades en forma programada y con base en las políticas, prioridades y restricciones que para el logro de los objetivos y metas de los planes de gobierno, establezca el Gobernador del Estado, directamente o a través de las Dependencias correspondientes, cuyos Titulares integrarán con base en la información que les proporcionen sus subordinados, un informe que remitirán al Titular del Poder Ejecutivo del Estado, en los términos y conforme a las especificaciones que señale la Secretaría de Finanzas y Administración.
 
-Asimismo, con base en lo señalado en el párrafo anterior y las disposiciones aplicables, darán cuenta al Congreso Local, del estado que guarden sus respectivas Dependencias y Entidades a la apertura del primer período de sesiones y deberán informar además cuando el Congreso del Estado lo solicite, en los casos en que se discuta una iniciativa o se estudie un asunto concerniente a sus actividades.
+Asimismo, con base en lo señalado en el párrafo anterior y las disposiciones aplicables, darán cuenta al Congreso Local, del estado que guarden sus respectivas Dependencias y Entidades a la apertura del primer periodo de sesiones y deberán informar además cuando el Congreso del Estado lo solicite, en los casos en que se discuta una iniciativa o se estudie un asunto concerniente a sus actividades.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2012)</small>
 
@@ -1031,9 +1031,9 @@ XLVII.- Fomentar el adiestramiento, así como el desarrollo de los programas de 
 
 XLVIII.- Coordinar la elaboración, análisis y difusión de estadísticas y demás datos relativos al desarrollo económico del Estado y las posibilidades de inversión;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
 
-XLIX.- Organizar e impulsar la producción artesanal en el Estado, promover su difusión y fomentar su comercialización en los centros de consumo nacional e internacional, por sí o a través de la Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
+XLIX.- Organizar e impulsar la producción artesanal en el Estado, promover su difusión y fomentar su comercialización en los centros de consumo nacional, por sí o a través de la Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial, y en el ámbito internacional de manera coordinada con la instancia competente;
 
 L.- Promover y apoyar los programas de investigación y desarrollo tecnológico industrial y fomentar su divulgación y aplicación que beneficien a la productividad y a la ecología estatal;
 
@@ -1047,7 +1047,9 @@ LIV.- Investigar las causas que originan el ambulantaje en las diferentes locali
 
 LV.- Coordinar la elaboración y promoción de programas y acciones orientados a fomentar las exportaciones de productos de la Entidad;
 
-LVI.- Promover, a nivel nacional e internacional, la inversión de capitales en el desarrollo de proyectos productivos en la Entidad, mediante la realización de misiones, comisiones y reuniones de trabajo con empresarios e inversionistas;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+LVI.- Promover la inversión de capitales en el desarrollo de proyectos productivos en la Entidad, mediante la realización de misiones, comisiones y reuniones de trabajo con empresarios e inversionistas en el ámbito nacional, y de manera coordinada con la instancia competente, en el ámbito internacional;
 
 LVII.- Proponer ante la Secretaría de Economía o su equivalente en el Gobierno Federal, la inversión extranjera que pudiera concurrir en proyectos de desarrollo o en el establecimiento de servicios en el Estado;
 
@@ -1055,7 +1057,9 @@ LVIII.- Analizar y difundir las repercusiones y los efectos causados en los dife
 
 LIX.- Participar en ferias, exposiciones, congresos, misiones comerciales y cualquier otro tipo de evento a nivel nacional e internacional, que contribuyan a fomentar el desarrollo económico del Estado;
 
-LX.- Promover a nivel nacional e internacional, la realización de ferias, exposiciones, congresos, misiones comerciales y cualquier otro evento similar que contribuya a fomentar el desarrollo económico de la Entidad;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+LX.- Promover la realización de ferias, exposiciones, congresos, misiones comerciales y cualquier otro evento similar que contribuya a fomentar el desarrollo económico de la Entidad en el ámbito nacional, y de manera coordinada con la instancia competente, en el ámbito internacional;
 
 LXI.- Participar en el desarrollo y administración de los conjuntos, zonas, parques y corredores industriales del Estado;
 
@@ -1135,7 +1139,9 @@ XXIII.- Autorizar los reglamentos internos de los establecimientos turísticos d
 
 XXIV.- Registrar los reglamentos internos de establecimientos de hospedaje, así como las especificaciones y características de los paquetes manejados por agencias de viajes;
 
-XXV.- Celebrar, previa autorización del Titular del Ejecutivo del Estado, convenios y acuerdos con la Federación, los Estados y Municipios de la Entidad, así como con organismos de carácter privado nacionales e internacionales, para promover el desarrollo turístico;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+XXV.- Celebrar, previa autorización del Titular del Ejecutivo del Estado, convenios y acuerdos para promover el desarrollo turístico con la Federación, Estados, Municipios de la Entidad, organismos nacionales de carácter privado, y de manera coordinada con la instancia competente, con instituciones públicas y privadas de carácter internacional;
 
 XXVI.- Conocer y resolver en el ámbito de su competencia, de los recursos administrativos que interpongan en contra de los actos emanados de la Secretaría;
 
@@ -1677,13 +1683,17 @@ XXIX.- Coordinar, fomentar y dirigir la enseñanza y práctica del deporte en el
 
 XXX.- Organizar y desarrollar la educación cultural y artística en el medio escolar, con las finalidades de enriquecer la formación integral de los niños y jóvenes, así como del magisterio en el Estado;
 
-XXXI.- Celebrar, ejecutar y vigilar convenios de coordinación en materia de educación, deporte y juventud, con las Dependencias, organismos e instituciones públicas o privadas en el ámbito nacional e internacional, que tengan objetivos similares;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+XXXI.- Celebrar, ejecutar y vigilar convenios de coordinación en materia de educación, deporte y juventud, con las Dependencias, organismos e instituciones públicas o privadas en el ámbito nacional, y en el ámbito internacional, en coordinación con la instancia competente;
 
 XXXII.- Ejecutar y vigilar el cumplimiento de los convenios que en materia de educación, deporte y juventud, celebre el Estado con los Gobiernos Federal, Municipales y con otras Entidades Federativas;
 
 XXXIII.- Representar al Titular del Ejecutivo del Estado ante cualquier organismo, instancia, entidad o institución pública o privada, de carácter educativo, científico, deportivo o tecnológico en el ámbito nacional e internacional;
 
-XXXIV.- Coordinar, organizar, desarrollar y facilitar el enlace en materia educativa, deporte y juventud, con los Gobiernos Municipales, Estatales y Federal, así como con las entidades internacionales;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+XXXIV.- Coordinar, organizar, desarrollar y facilitar el enlace en materia educativa, deporte y juventud, con los Gobiernos Municipales, Estatales y Federal en el ámbito nacional, y en coordinación con la instancia competente, en el ámbito internacional;
 
 XXXV.- Coordinar, vincular y organizar en el ámbito de su competencia, a las entidades paraestatales del sector, y emitir las políticas para su funcionamiento;
 
@@ -2250,3 +2260,9 @@ NOVENO.- El Ejecutivo del Estado realizará las modificaciones a los Reglamentos
 En tanto no se realicen las reformas a que se refiere el párrafo anterior, las Dependencias señaladas en este Decreto, seguirán aplicando los Reglamentos vigentes en todo aquello que no la contravengan.
 
 DÉCIMO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 23 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
