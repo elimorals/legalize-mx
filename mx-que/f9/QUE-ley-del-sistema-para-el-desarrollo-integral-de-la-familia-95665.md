@@ -1,0 +1,562 @@
+---
+title: "LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERETARO"
+identifier: "QUE-ley-del-sistema-para-el-desarrollo-integral-de-la-familia-95665"
+country: "mx"
+rank: "ley"
+publication_date: "2013-08-23"
+last_updated: "2013-08-23"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95665&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-que"
+scjn_id: "95665"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "42"
+reform_count: "5"
+scjn_last_update: "2021-10-08"
+issue_date: "2013-07-25"
+state: "QUE"
+---
+# LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERETARO
+
+LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 23 de agosto de 2013.
+
+LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
+
+LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+
+CONSIDERANDO...
+
+Que en atención a lo anteriormente expuesto, la Quincuagésima Séptima Legislatura del Estado de Querétaro, expide la siguiente:
+
+LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO
+
+### Capítulo I. De la naturaleza y atribuciones
+
+###### Artículo 1.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro, es un organismo público descentralizado, de interés social, con personalidad jurídica y patrimonio propio, con domicilio legal en la ciudad de Santiago de Querétaro, Querétaro.
+
+###### Artículo 2.
+
+Son atribuciones del Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro:
+
+I. Promover el bienestar social y prestar, tanto en forma directa como coordinada con los Sistemas para el Desarrollo Integral de la Familia de cada uno de los municipios del Estado, servicios de asistencia social, con apoyo en las normas que dicte la Secretaría de Salud, el Sistema Nacional para el Desarrollo Integral de la Familia y el Poder Ejecutivo del Estado de Querétaro;
+
+II. Apoyar el desarrollo de la familia, la comunidad y de los sujetos que de acuerdo con la Ley del Sistema de Asistencia Social del Estado de Querétaro, necesitan de los servicios que la misma establece;
+
+III. Impulsar el sano crecimiento físico, mental y social de la niñez;
+
+IV. Coordinar y apoyar las actividades de los Sistemas para el Desarrollo Integral de la Familia de cada uno de los municipios del Estado, de conformidad con los convenios que celebre cada municipio con el Sistema Estatal;
+
+V. Promover el fortalecimiento de los valores, a efecto de elevar la calidad de vida de la población en el Estado de Querétaro;
+
+VI. Operar, administrar y fomentar la creación de establecimientos de asistencia social en beneficio de niños, niñas, adolescentes, mujeres, adultos mayores y personas con discapacidad, en situación de abandono, desamparo o sin recursos;
+
+VII. Realizar estudios e investigaciones sobre los problemas de la familia, de los menores, de los adultos mayores y de las personas con discapacidad;
+
+VIII. Apoyar, en la medida de la capacidad presupuestaria, las actividades que lleven a cabo las instituciones de asistencia privada cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
+
+IX. Prestar gratuitamente servicios de asistencia jurídica y de orientación social a los menores de edad, adultos mayores y personas con discapacidad sin recursos y en estado de abandono;
+
+X. Coadyuvar con el Ministerio Público en la protección de los menores, adultos mayores y personas con discapacidad;
+
+XI. Procurar permanentemente la adecuación y cumplimiento de sus objetivos y programas, así como los de los Sistemas para el Desarrollo Integral de la Familia de cada uno de los municipios del Estado, con el Sistema Nacional para el Desarrollo Integral de la Familia;
+
+XII. Actuar ante los tribunales del Estado, en todo juicio en que se vean afectados los derechos de menores de edad, adultos mayores y personas con discapacidad;
+
+XIII. Implementar los medios de información, orientación y concientización, dirigidos a quienes deseen realizar trámites de adopción en el Estado de Querétaro, sobre la importancia social y jurídica de incorporar a su familia a un menor de edad;
+
+XIV. Prestar servicio social a favor de las mujeres que radiquen en el Estado, a efecto de brindar un espacio de reflexión y esparcimiento con herramientas que les permita mejorar su calidad de vida;
+
+XV. Administrar los recursos y bienes que integran su patrimonio, pudiendo celebrar para tal efecto, convenios, acuerdos o contratos, con la finalidad de eficientar su manejo y procurar su ampliación;
+
+XVI. Celebrar convenios o contratos para la concertación de acciones de asistencia social con los sectores público, social y privado;
+
+XVII. Proponer al titular del Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno, la emisión o modificación de reglamentos y demás ordenamientos legales que tengan relación con las atribuciones del Sistema; y
+
+XVIII. Las demás que le otorguen la presente Ley y otras disposiciones aplicables.
+
+###### Artículo 3.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro, contará con la colaboración y apoyo de un Consejo Técnico de Adopciones.
+
+Las atribuciones e integración de dicho Consejo Técnico, se sujetará a lo dispuesto por el Código Civil del Estado de Querétaro, el reglamento interior respectivo y demás disposiciones aplicables en la materia.
+
+###### Artículo 4.
+
+Para los efectos de esta Ley, se entiende por:
+
+I. Ley, la presente Ley;
+
+II. Sistema, al Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro;
+
+III. Unidad Administrativa, cada una de las Direcciones y Coordinaciones del Sistema;
+
+IV. Junta, la Junta Directiva del Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro;
+
+V. Patronato, el Patronato del Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro;
+
+VI. SMDIF, los Sistemas para el Desarrollo Integral de la Familia de cada uno de los municipios del Estado; y
+
+VII. Procuraduría, la Procuraduría de la Defensa del Menor y la Familia del Estado de Querétaro.
+
+### Capítulo II. Del patrimonio
+
+###### Artículo 5.
+
+Son patrimonio del Sistema:
+
+I. Los bienes que tenga actualmente y aquellos que adquiera en el futuro;
+
+II. Los ingresos que obtenga por los servicios que preste y por el producto que resulte del aprovechamiento de los bienes con que cuente;
+
+III. Los subsidios, subvenciones, aportaciones, concesiones, permisos, licencias, autorizaciones y demás bienes que la Federación, el Estado o Municipios le destinen;
+
+IV. Los bienes que en calidad de liberalidad le otorguen los particulares; y
+
+V. Los demás bienes que obtenga por cualquier título legal.
+
+### Capítulo III. De la estructura
+
+###### Artículo 6.
+
+El Sistema, para el cumplimiento de sus atribuciones, contará con la siguiente estructura:
+
+I. La Junta Directiva;
+
+II. El Patronato;
+
+III. La Dirección General;
+
+IV. La Procuraduría de la Defensa del Menor y la Familia; y
+
+V. El Órgano Interno de Control.
+
+De igual forma, contará con aquellas áreas y el personal necesario para su eficaz funcionamiento.
+
+El Reglamento Interior del Sistema, determinará las funciones, atribuciones y obligaciones específicas que corresponden a las diversas unidades administrativas que lo integren, para su correcto desempeño.
+
+### Capítulo IV. De la Junta Directiva
+
+###### Artículo 7.
+
+La Junta Directiva estará integrada por:
+
+I. Un Presidente, que será el Gobernador Constitucional del Estado o la persona que éste determine;
+
+II. Un Secretario Técnico, que será el Director General del Sistema;
+
+III. Un coordinador de Sector vinculado al tema de la asistencia social, conforme a lo establecido en la Ley de la Administración Pública Paraestatal del Estado de Querétaro;
+
+IV. Un representante designado por la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro;
+
+V. Un representante designado por la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro; y
+
+VI. Dos Vocales que serán representantes del sector público y privado, respectivamente, nombrados por el Presidente.
+
+De igual manera, podrán asistir a las sesiones de la Junta previa invitación del Presidente, los representantes de los sectores público, social y privado, involucrados con los asuntos a tratar, quienes participarán con voz pero sin voto.
+
+###### Artículo 8.
+
+Son atribuciones de la Junta:
+
+I. Aprobar los planes y programas de actividades que desarrolla el Sistema;
+
+II. Aprobar el anteproyecto de Reglamento Interior, la organización general del Sistema y los manuales de procedimientos;
+
+III. Designar y remover, a propuesta del Director General del Sistema, a los servidores públicos que vayan a prestar sus servicios en el Sistema, cuyo nombramiento no esté previsto;
+
+IV. Conocer los informes, dictámenes y recomendaciones de los auditores externos y del Órgano Interno de Control;
+
+V. Aprobar la aceptación de herencias, legados, donaciones, usufructos, subsidios, concesiones, compensaciones y demás bienes y derechos;
+
+VI. Conocer y aprobar los proyectos de inversión;
+
+VII. Conocer y, en su caso, aprobar la celebración de convenios que sean necesarios para cumplir con los fines del Sistema, de acuerdo con las leyes aplicables; y
+
+VIII. Las demás que sean necesarias para el ejercicio de las atribuciones anteriores.
+
+###### Artículo 9.
+
+La Junta celebrará sesiones ordinarias trimestrales y las extraordinarias que se requieran.
+
+Para sesionar válidamente, será necesaria la asistencia del Presidente y de por lo menos la mitad más uno de sus miembros, siempre que la mayoría de los asistentes sean representantes del Estado. Sus acuerdos se tomarán por mayoría de votos de los miembros asistentes. En caso de empate, el Presidente tendrá voto de calidad.
+
+### Capítulo V. Del Patronato
+
+###### Artículo 10.
+
+El Patronato es el órgano de apoyo del Sistema, que lo auxiliará para acrecentar su patrimonio.
+
+###### Artículo 11.
+
+El Patronato está integrado por:
+
+I. Un Presidente que representa al Patronato, quién será nombrado y removido por el titular del Poder Ejecutivo del Estado;
+
+II. Un Secretario, que será el Director General del Sistema;
+
+III. Un Tesorero, que será el Secretario de Planeación y Finanzas del Poder Ejecutivo del Estado; y
+
+IV. Dos Vocales que podrán ser representantes de los sectores público o privado, quienes serán designados por el titular del Poder Ejecutivo del Estado, a propuesta del Presidente del Patronato.
+
+###### Artículo 12.
+
+Son atribuciones del Patronato:
+
+I. Contribuir con el Sistema en la obtención de recursos que permitan el incremento de su patrimonio y el cumplimiento de sus objetivos;
+
+II. Emitir opinión y recomendaciones sobre programación de labores, presupuestos, informes y desempeño del Sistema;
+
+III. Apoyar las actividades del organismo y formular sugerencias tendientes a su mejor desempeño;
+
+IV. Delegar poder general o especial;
+
+V. Acordar y convenir con la Junta, las acciones necesarias para apoyar al Sistema en las funciones de asistencia y bienestar social que el Poder Ejecutivo del Estado o el Sistema Nacional le encomienden, dentro del marco del programa anual respectivo; y
+
+VI. Las demás que le señale la Ley.
+
+###### Artículo 13.
+
+El Patronato sesionará ordinariamente una vez por año y en forma extraordinaria cuantas veces sea necesario. Para sesionar válidamente se requerirá la asistencia de por lo menos tres de sus miembros, entre los que siempre deberá estar el Presidente; sus decisiones se tomarán por mayoría de votos de los miembros asistentes y en caso de empate el Presidente tendrá voto de calidad.
+
+###### Artículo 14.
+
+Los bienes e ingresos del Patronato no estarán sujetos a pago de contribuciones estatales o municipales; no se gravarán los actos y contratos en que se intervenga, si las contribuciones quedan a su cargo por disposición de Ley.
+
+###### Artículo 15.
+
+Los bienes que adquiera el Patronato serán propiedad del Sistema y serán administrados conforme a la realización de sus fines.
+
+###### Artículo 16.
+
+Los integrantes del Patronato en ningún caso podrán percibir retribución, honorarios, emolumentos, gratificaciones, prestaciones o remuneración en especie o dinero.
+
+Lo dispuesto en el párrafo anterior, será aplicable a los integrantes de los Patronatos de cualquier organismo público que tenga como función brindar asistencia social y realizar actividades encaminadas al desarrollo integral de la familia.
+
+### Capítulo VI. De la Dirección General
+
+###### Artículo 17.
+
+La Dirección General del Sistema estará a cargo del Director General, que es la persona investida de la máxima autoridad en la gestión del organismo; será designado y removido de su cargo libremente por el Gobernador Constitucional del Estado.
+
+###### Artículo 18.
+
+Para ser Director General deberán cumplirse los requisitos que al efecto establece la Ley de la Administración Pública Paraestatal del Estado de Querétaro.
+
+###### Artículo 19.
+
+Son facultades y obligaciones del Director General:
+
+I. Someter a consideración de la Junta, el anteproyecto de Reglamento Interior del Sistema y los ordenamientos que sean necesarios para su adecuado funcionamiento;
+
+II. Ejecutar los acuerdos y disposiciones de la Junta;
+
+III. Presentar para que la Junta apruebe, en su caso, los planes de actividades de labores, presupuestos, informes de actividades y estados financieros trimestrales y anuales del Sistema;
+
+IV. Someter a consideración de la Junta, los proyectos necesarios para que el Sistema tenga un eficaz desempeño;
+
+V. Tener a disposición de la Junta, el total del archivo del Sistema y rendirle los informes que le solicite;
+
+VI. Presentar a la Junta, la designación de los servidores públicos que ocupen cargos en las dos jerarquías administrativas inferiores a la suya;
+
+VII. Expedir los nombramientos del personal señalado en la fracción que antecede;
+
+VIII. Diseñar los procedimientos tendientes a la organización de recursos y agilización de trámites administrativos internos;
+
+IX. Administrar el funcionamiento del Sistema con sujeción a la presente Ley y a sus Reglamentos, orientado por las instrucciones de la Junta;
+
+X. Informar y, en su caso, someter a aprobación de la Junta, los convenios y contratos, así como los actos jurídicos que sean indispensables para el cumplimiento del objeto del Sistema;
+
+XI. Dirigir los servicios que ha de prestar el Sistema y actuar como representante legal y administrativo de éste, con la suma de facultades de administración, así como de pleitos y cobranzas y de dominio, además de ejercer las más amplias facultades que requieran cláusula especial conforme a la Ley, para llevar a cabo el adecuado funcionamiento del Sistema;
+
+XII. Sustituir y revocar poderes generales y especiales;
+
+XIII. Requerir y hacer efectivo el cobro de fianzas en los contratos que celebre el Sistema, de conformidad con lo establecido en la ley de la materia; y
+
+XIV. Las demás que tenga conforme a las disposiciones legales aplicables.
+
+### Capítulo VII. De la Procuraduría de la Defensa del Menor y la Familia
+
+###### Artículo 20.
+
+La Procuraduría es el área encargada de proteger los derechos de las personas en situación vulnerable afectadas por conflictos de carácter familiar, así como representar y defender a los menores de edad e incapaces ante las autoridades competentes y prevenir, atender y erradicar la violencia familiar en el Estado.
+
+###### Artículo 21.
+
+La Procuraduría se integra por:
+
+I. Un Procurador, que será el titular de la Procuraduría;
+
+II. Un Sub-Procurador;
+
+III. Un Coordinador de Asistencia Jurídica a Población Vulnerable;
+
+IV. Un Coordinador de Asistencia Jurídica a Casas Hogar;
+
+V. Un Coordinador de Adopciones;
+
+VI. Un Coordinador de Prevención de la Violencia Familiar;
+
+VII. Un Coordinador del Programa de Prevención del Maltrato al Niño; y
+
+VIII. El personal que señale el Reglamento Interior del Sistema.
+
+Las funciones de los servidores públicos mencionados en el presente artículo se establecerán en el Reglamento Interior del Sistema.
+
+Los servidores públicos mencionados en las fracciones I a la VII, son considerados personal de confianza.
+
+###### Artículo 22.
+
+Es competencia de la Procuraduría:
+
+I. Proporcionar orientación y asesoría jurídica en materia de derecho familiar a personas en situación vulnerable;
+
+II. Actuar con interés legítimo ante las autoridades y tribunales competentes, cuando considere afectados los derechos de menores de edad o incapaces declarados judicialmente, cuando sean víctimas de violencia, respetando siempre las atribuciones y funciones que las leyes encomiendan a otras autoridades;
+
+III. Representar legalmente a los menores de edad puestos a disposición de la Procuraduría en materia de derecho familiar, sin que sea necesario el otorgamiento de poder de parte de quien ejerza la patria potestad, la tutela o custodia;
+
+IV. Promover todo proceso administrativo y judicial tendiente a lograr la adopción plena de menores de edad puestos a su disposición, con situación jurídica resuelta y la adopción entre particulares;
+
+V. Actuar como tercero coadyuvante ante el Ministerio Público y autoridades jurisdiccionales, en asuntos de menores de edad puestos a su disposición;
+
+VI. Atender y prevenir la violencia familiar mediante acciones y programas en coordinación con las instancias competentes, de acuerdo a sus posibilidades y recursos, conforme a las atribuciones que le confiere la ley de la materia;
+
+VII. Coadyuvar en las actividades de las Procuradurías de la Defensa del Menor y la Familia de los SMDIF, para consolidar la atención integral de los menores de edad y familias en situación de vulnerabilidad, con base en los convenios que en su caso celebren las autoridades municipales competentes con el Sistema;
+
+VIII. Solicitar a las autoridades en materia de salud y educativas, que los menores de edad albergados o puestos a disposición de la Procuraduría, reciban atención médica y educación para lograr su integración social, así como llevar a cabo el seguimiento para verificar las condiciones en las que se encuentran los menores que han sido reintegrados con sus familiares;
+
+IX. Procurar el sano desarrollo de los menores de edad que se encuentren bajo la tutela o custodia provisional y definitiva de la Procuraduría, en coordinación con otras instituciones públicas y privadas en sus respectivas competencias, en busca y protección del interés superior del menor;
+
+X. Actuar en defensa del interés jurídico de los menores de edad y personas con declaración judicial de incapacidad, ante las autoridades judiciales y administrativas; en casos de notoria urgencia o cuando exista conflicto de intereses con quienes ejercen la patria potestad o tutela;
+
+XI. Velar por que los menores de edad que se encuentren puestos a disposición de la Procuraduría, obtengan provisional o definitivamente un hogar seguro hasta que cumplan la mayoría de edad o sean dados en adopción;
+
+XII. Girar citatorios, oficios y realizar las gestiones necesarias para cumplir sus funciones, así como para constatar el abandono de menores de edad o localizar a los familiares de los menores en situación de desamparo;
+
+XIII. Autorizar, suspender o negar, de manera provisional, las convivencias o reintegración de los menores de edad puestos a su disposición, una vez que se obtengan los elementos de valoración médicos, de trabajo social y psicológico, para garantizar su sano desarrollo.
+
+Dichas medidas quedarán sin efecto, una vez que la autoridad judicial haya dictado medidas provisionales o definitivas al respecto;
+
+XIV. Intervenir y decidir sobre todas las cuestiones relativas a los menores de edad albergados, respecto de sus necesidades médicas, educativas y psicológicas en base al interés superior del menor y su sano desarrollo;
+
+XV. Determinar provisionalmente el lugar donde deberán permanecer los menores de edad en situación vulnerable o puestos a su disposición, dejando a salvo los derechos de los interesados;
+
+XVI. Procurar la conciliación de los interesados en los asuntos de su competencia, exhortándolos a resolver sus diferencias mediante convenio, el cual será vinculatorio y exigible para las partes siempre y cuando sea ratificado ante la autoridad judicial competente.
+
+Este procedimiento no es requisito previo para el ejercicio de cualquier acción judicial. La conciliación no se promoverá cuando exista riesgo grave para la integridad física o psicológica de los involucrados, particularmente en los casos de violencia familiar;
+
+XVII. Emplear, para hacer cumplir sus determinaciones, cualquiera de las sanciones y medios de apremio que establece la Ley de Procedimientos Administrativos del Estado de Querétaro;
+
+XVIII. Gestionar, en su caso, ante el Oficial del Registro Civil o en Coordinación con la Dirección del Registro Civil del Estado de Querétaro, la obtención del acta de nacimiento de menores de edad abandonados o expósitos o aquellos que no cuenten con acta, conforme a los lineamientos del Código Civil del Estado de Querétaro y disposiciones administrativas vigentes;
+
+XIX. Emitir, recibir y remitir los dictámenes de psicología y trabajo social que determinen las condiciones de ingreso, permanencia y estado en que se encuentra el menor de edad albergado o puesto a disposición respecto a su condición física, emocional y social;
+
+XX. Realizar la búsqueda, por medio de las investigaciones institucionales, de las personas que ejerzan la patria potestad sobre los menores de edad albergados o puestos a su disposición, con la finalidad de expedir la constancia de inexistencia de domicilio en el Estado.
+
+Para efectos de lo establecido en el Código de Procedimientos Civiles del Estado de Querétaro, en materia del juicio de pérdida de patria potestad, tendrá la facultad de requerir los informes al Instituto Federal Electoral, al Instituto Mexicano del Seguro Social y a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado, con el objeto de determinar el domicilio de quien ejerza la patria potestad de un menor de edad puesto a su disposición o acogido por una institución de asistencia pública o privada, así como solicitar al titular de la Procuraduría General de Justicia del Estado la colaboración de la dependencia a su cargo para que, a través de la Dirección de Investigación del Delito, se realice la investigación que pueda determinar el domicilio de las citadas personas y la investigación de la filiación tratándose de menores de edad expósitos;
+
+XXI. Ejercer la representación legítima del Consejo Técnico de Adopciones, en los términos establecidos por el Código Civil del Estado de Querétaro, el Reglamento Interior del Sistema y demás disposiciones aplicables;
+
+XXII. Actuar como tutor y curador en los procedimientos o juicios de orden familiar en que sea nombrado con ese carácter por el Juez del conocimiento, extinguiéndose dicho cargo al concluir el proceso;
+
+XXIII. Emitir, a solicitud de autoridad competente o petición ciudadana, dictámenes, informes y opiniones con el fin de salvaguardar la integridad y seguridad de las víctimas de violencia familiar para la protección de sus derechos; y
+
+XXIV. Las demás que le asignen esta Ley y demás ordenamientos legales aplicables.
+
+###### Artículo 23.
+
+El Procurador y el Subprocurador de la Defensa del Menor y la Familia, serán nombrados y removidos conforme a las facultades y obligaciones del Director General, de acuerdo a la presente Ley.
+
+###### Artículo 24.
+
+Para ser Procurador de la Defensa del Menor y la Familia se requiere:
+
+I. Ser mexicano por nacimiento;
+
+II. Contar con título de Licenciado en Derecho debidamente registrado y como mínimo con tres años de ejercicio profesional y tener experiencia en el área de derecho familiar;
+
+III. Ser mayor de treinta años de edad; y
+
+IV. No haber sido condenado por delito doloso que amerite pena privativa de la libertad.
+
+###### Artículo 25.
+
+El Procurador de la Defensa del Menor y la Familia, tendrá las siguientes facultades:
+
+I. Ejercer las funciones que deriven de la competencia de la Procuraduría, mismas que podrá delegar a sus subordinados y a su vez podrá otorgar mandato judicial a los servidores públicos que determine, en los términos de las leyes aplicables, con el objeto de eficientar el trámite de los asuntos de su competencia;
+
+II. Coordinar las actividades de la Procuraduría;
+
+III. Expedir y autorizar copias certificadas de los documentos y constancias que emita la Procuraduría en ejercicio de sus funciones, previo requerimiento judicial o a solicitud de las partes que acrediten el interés jurídico; y
+
+IV. Las demás que se desprendan de esta Ley y las que le señalen el Director General o la Junta.
+
+###### Artículo 26.
+
+Para ser Sub-Procurador de la Defensa del Menor y la Familia se requiere:
+
+I. Ser mexicano por nacimiento;
+
+II. Contar con título de Licenciado en Derecho debidamente registrado y como mínimo con tres años de ejercicio profesional y tener experiencia en el área de derecho familiar;
+
+III. Ser mayor de veinticinco años de edad; y
+
+IV. No haber sido condenado por delito doloso que amerite pena privativa de la libertad.
+
+###### Artículo 27.
+
+El Sub-Procurador de la Defensa del Menor y la Familia, tendrá las siguientes facultades:
+
+I. Auxiliar al Procurador de la Defensa del Menor y la Familia en el ejercicio de sus funciones, así como intervenir en los procedimientos judiciales y administrativos que le sean encomendados;
+
+II. Supervisar el cumplimiento de las determinaciones de la Procuraduría;
+
+III. Coadyuvar con las funciones de los demás integrantes de la Procuraduría;
+
+IV. Informar, en forma cuatrimestral, al Procurador de la Defensa del Menor y la Familia de los trabajos realizados;
+
+V. Suplir al Procurador de la Defensa del Menor y la Familia en sus ausencias temporales; y
+
+VI. Las demás que resulten de ésta y otras leyes o le señale el Procurador de la Defensa del Menor y la Familia.
+
+###### Artículo 28.
+
+Las autoridades judiciales y administrativas darán a la Procuraduría la intervención que le corresponda, en asuntos de su competencia.
+
+###### Artículo 29.
+
+En los casos en que se considere necesario, la Procuraduría dará vista al Ministerio Público y solicitará que se dicten las medidas precautorias pertinentes para salvaguardar el interés superior del menor.
+
+### Capítulo VIII. Del Órgano Interno de Control
+
+###### Artículo 30.
+
+El Órgano Interno de Control tiene por objeto planear, organizar, proponer y coordinar los sistemas de prevención, vigilancia, control y evaluación de las actividades del Sistema, de conformidad con las disposiciones legales aplicables y con los lineamientos operativos de la Dirección General. El Órgano Interno de Control estará integrado por un comisario propietario y un comisario suplente, ambos designados y removidos por la Secretaría de la Contraloría del Poder Ejecutivo, y dependerán del Director General del Sistema.
+
+###### Artículo 31.
+
+Son atribuciones del Órgano Interno de Control:
+
+I. Inspeccionar a todas las unidades administrativas del Sistema, asegurando su adecuado funcionamiento, planeación, control, fiscalización y evaluación;
+
+II. Recibir quejas y denuncias sobre actuación irregular o indebida de los servidores públicos del Sistema;
+
+III. Instruir el procedimiento administrativo de responsabilidad y, de acuerdo a su competencia, aplicar las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro; y
+
+IV. Las demás que le confiera la presente Ley y demás disposiciones aplicables.
+
+###### Artículo 32.
+
+El Órgano Interno de Control, para el eficaz cumplimiento de su objetivo, tendrá las siguientes obligaciones:
+
+I. Verificar que el Sistema ajuste sus actos a las normas y disposiciones en materia de registro y contabilidad, contratación de personal, servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, baja de bienes, demás activos y recursos materiales que integren su patrimonio, sin perjuicio de lo que dispongan otros ordenamientos a favor de otras autoridades;
+
+II. Comprobar el cumplimiento de las disposiciones en materia de planeación, programación, presupuestación, ingreso, financiamiento, inversión, deuda, patrimonio, valores, control y evaluación del Sistema;
+
+III. Revisar y comprobar el correcto ejercicio del gasto público y su congruencia con el presupuesto de egresos, así como la correcta aplicación de la Ley de Ingresos;
+
+IV. Vigilar el uso correcto de los recursos patrimoniales del Sistema y de los que la Federación y el Estado le transfieran para su ejercicio y administración;
+
+V. Emitir recomendaciones con base en las leyes y reglamentos para el mejor aprovechamiento de los recursos humanos y financieros;
+
+VI. Verificar que se cumpla con la normatividad establecida y con las especificaciones de construcción de obra que se realicen en el Sistema, ya sea por parte de éste o por contratista externo;
+
+VII. Realizar auditorías técnico financieras a la obra pública con el objeto de determinar si los recursos fueron ejercidos conforme a lo programado;
+
+VIII. Propiciar transparencia, honestidad y eficiencia en el manejo de los recursos humanos, materiales y financieros del Sistema;
+
+IX. Impulsar una gestión ágil y transparente mediante la instrumentación de sistemas y procedimientos de control;
+
+X. Dar respuesta oportuna a las quejas o denuncias de la ciudadanía;
+
+XI. Informar al Director General de los resultados de revisiones administrativas, auditorías, exámenes y evaluaciones realizadas al Sistema, así como de las observaciones o recomendaciones derivadas de las mismas y de su seguimiento y corrección;
+
+XII. Vigilar el Programa-Presupuesto y el Programa Operativo Anual del Sistema, informando del resultado a la Dirección General del Sistema y a la Dirección de Auditoría de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro;
+
+XIII. Evaluar mensualmente los estados financieros del Sistema para constatar el adecuado manejo de los recursos;
+
+XIV. Observar que se cumplan las disposiciones de austeridad, racionalidad, disciplina presupuestal, simplificación y desregulación, vigilando que el manejo y aplicación de los recursos se apegue a la normatividad en cada caso y respondan a los lineamientos, prioridades y objetivos establecidos por el titular del Poder Ejecutivo;
+
+XV. Realizar auditorías de conformidad con el Programa Anual de Control y Auditoría para verificar el debido ejercicio de los recursos, el cumplimiento de metas, objetivos y el apego al marco legal aplicable;
+
+XVI. Intervenir en el acto de entrega-recepción administrativa de servidores públicos del Sistema;
+
+XVII. Elaborar bimestralmente un informe sobre las actividades realizadas, mismo que deberá rendir a la Dirección de Auditoría de la Secretaría de la Contraloría del Poder Ejecutivo y a la Dirección General del Sistema;
+
+XVIII. Vigilar que el Sistema no contrate servidores públicos inhabilitados y, en caso contrario, proceder conforme a la normatividad aplicable;
+
+XIX. Atender los requerimientos que le sean formulados por la Secretaría de la Contraloría del Poder Ejecutivo;
+
+XX. Investigar los actos ilícitos u omisiones en el cumplimiento de las funciones y obligaciones de los servidores públicos del Sistema, conocer de los procedimientos administrativos que al efecto se instauren, imponer, cuando sea procedente, las sanciones correspondientes, de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y, en su caso, ejecutarlas; y
+
+XXI. Las demás que expresamente le confieran las leyes y reglamentos aplicables o le sean asignadas por la Dirección General.
+
+### Capítulo IX. De la suplencia de los servidores públicos
+
+###### Artículo 33.
+
+Las ausencias temporales del Director General hasta por quince días hábiles serán suplidas por el servidor público que éste designe y en las mayores de quince días hábiles será por quien designe el C. Gobernador Constitucional del Estado de Querétaro.
+
+###### Artículo 34.
+
+Los Directores, durante sus ausencias hasta por quince días hábiles, serán suplidos por el servidor público que ellos designen; si exceden de quince días hábiles, serán suplidos por quien designe el Director General.
+
+## TRANSITORIOS
+
+Artículo Primero. La presente Ley entrará en vigor 180 días naturales siguientes a su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley que crea el Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro, publicada en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" el 26 de Diciembre de 1985, así como sus posteriores adiciones y reformas.
+
+Artículo Tercero. No obstante la abrogación de la Ley que se describe en el artículo anterior, el organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro, creado mediante la misma, subsiste con su patrimonio, obligaciones y derechos. Por lo que ve a su estructura y atribuciones se atenderá a las previsiones del presente ordenamiento.
+
+Artículo Cuarto. El titular del Poder Ejecutivo del Estado de Querétaro emitirá las normas reglamentarias previstas en esta Ley y que resulten necesarias para su aplicación, en un plazo no mayor de 150 días naturales contados a partir de la entrada en vigor de este ordenamiento legal, ordenando su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Hasta en tanto se expidan los reglamentos respectivos, serán aplicables, en lo conducente, los reglamentos expedidos durante la vigencia de la ley que se abroga, en todo lo que no se opongan a lo dispuesto en la presente Ley.
+
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
+
+DADO EN EL SALÓN DE SESIONES "CONSTITUYENTES 1916-1917" RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, A LOS VEINTICINCO DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL TRECE.
+
+A T E N T A M E N T E
+
+QUINCUAGÉSIMA SÉPTIMA LEGISLATURA
+
+DEL ESTADO DE QUERÉTARO
+
+MESA DIRECTIVA
+
+DIP. JORGE ARTURO LOMELÍ NORIEGA
+
+PRESIDENTE
+
+Rúbrica
+
+DIP. EUNICE ARIAS ARIAS
+
+PRIMERA SECRETARIA
+
+Rúbrica
+
+Lic. José Eduardo Calzada Rovirosa, Gobernador Constitucional del Estado de Querétaro, en ejercicio de lo dispuesto por el artículo 22 fracción I de la Constitución Política del Estado de Querétaro; expido y promulgo la presente LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO.
+
+Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado, en la Ciudad de Santiago de Querétaro, Qro., el día veinticinco de julio del año dos mil trece, para su debida publicación y observancia.
+
+Lic. José Eduardo Calzada Rovirosa
+
+Gobernador Constitucional del Estado de Querétaro
+
+Rúbrica
+
+Lic. Jorge López Portillo Tostado
+
+Secretario de Gobierno del Poder Ejecutivo del Estado de Querétaro
+
+Rúbrica
