@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-civil-del-estado-de-baja-california-21684"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-16"
-last_updated: "2012-06-22"
+last_updated: "2013-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 16 de enero de 1998.
 
@@ -43,9 +43,11 @@ LEY DE PROTECCION CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
 Las disposiciones de esta Ley son de orden público, interés social, y de observancia general en el Estado de Baja California; tienen por objeto establecer las bases de integración, coordinación y funcionamiento de los Sistemas Estatal y Municipal de Protección Civil; la prevención, mitigación, auxilio y salvaguarda de las personas, sus bienes y entorno; el restablecimiento y funcionamiento de los servicios públicos indispensables y sistemas estratégicos en casos de emergencia y desastre, provocados por factores geológicos, hidrometereológicos, químicos, sanitarios y socio-organizativos.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 2.
 
-La aplicación y vigilancia de la presente Ley corresponde al Ejecutivo del Estado por conducto de la Dirección de Protección Civil y a los Municipios, a través de los órganos administrativos encargados de la materia de Protección Civil que determinen sus respectivos Reglamentos Interiores.
+La aplicación y vigilancia de la presente Ley corresponde al Ejecutivo del Estado por conducto de la Coordinación de Protección Civil del Estado de Baja California y a los Municipios, a través de las Coordinaciones de Protección Civil encargadas de la materia de Protección Civil que determinen sus respectivos Reglamentos interiores.
 
 ###### ARTICULO 3.
 
@@ -63,9 +65,13 @@ V.- Consejo Estatal, el Consejo Estatal de Protección Civil;
 
 VI.- Consejos Municipales, los Consejos Municipales de Protección Civil;
 
-VII.- Dirección, la Dirección de Protección Civil;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
 
-VIII.- Organos Municipales, a los órganos administrativos encargados de la materia de Protección Civil que determinen los Reglamentos Interiores de cada Ayuntamiento.
+VII.- Coordinación Estatal, la Coordinación de Protección Civil del Estado de Baja California.
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+VIII.- Coordinaciones Municipales, a las Coordinaciones de Protección Civil encargadas de la materia de Protección Civil que determinen los Reglamentos Interiores de cada Ayuntamiento.
 
 ###### ARTICULO 4.
 
@@ -77,7 +83,9 @@ II.- El Consejo Estatal de Protección Civil;
 
 III.- El Secretario General de Gobierno;
 
-IV.- El titular de la Dirección de Protección Civil;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+IV.- El titular de la Coordinación Estatal;
 
 V.- El Presidente Municipal de cada Ayuntamiento;
 
@@ -85,7 +93,9 @@ VI.- Los Ayuntamientos;
 
 VII.- Los Consejos Municipales de Protección Civil, y
 
-VIII.- Los órganos administrativos encargados de Protección Civil que determinen los Reglamentos Interiores de cada Ayuntamiento.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+VIII.- Las Coordinaciones Municipales que determinen los Reglamentos Interiores de cada Ayuntamiento.
 
 ### CAPITULO SEGUNDO. DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
@@ -99,13 +109,17 @@ El Sistema Estatal, estará integrado por:
 
 I.- El Consejo Estatal de Protección Civil;
 
-II.- La Dirección de Protección Civil;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+II.- La Coordinación Estatal;
 
 III.- Las Instituciones Públicas y Organizaciones Privadas, Civiles y Académicas cuyo objeto se vincule a la materia de Protección Civil;
 
 IV.- Las dependencias, unidades administrativas, descentralizadas, entidades paraestatales federales, estatales y municipales;
 
-V.- Los órganos administrativos encargados de Protección Civil que determinen los Reglamentos Interiores de cada Ayuntamiento;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+V.- Las Coordinaciones Municipales encargadas de la materia de la Protección Civil que determinen los Reglamentos Interiores de cada Ayuntamiento;
 
 VI.- Grupos Voluntarios, y
 
@@ -135,19 +149,25 @@ I.- El Gobernador Constitucional del Estado, quien lo presidirá;
 
 II.- El Secretario General de Gobierno, como Secretario Ejecutivo;
 
-III.- El Director de Protección Civil del Estado, como Secretario Técnico;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+III.- El titular de la Coordinación Estatal de Protección Civil, como Secretario Técnico;
 
 IV.- El Presidente del Congreso del Estado, con carácter de vocal;
 
 V.- El Secretario de Planeación y Presupuesto, con carácter de vocal;
 
-VI.- El Secretario de Asentamientos Humanos y Obras Públicas, con carácter de vocal;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+VI.- El Secretario de Infraestructura y Desarrollo Urbano del Estado, con carácter de vocal;
 
 VII.- Los Presidentes Municipales de los Ayuntamientos del Estado, con carácter de vocales;
 
 VIII.- Las Delegaciones Estatales de las Dependencias y Entidades de la Administración Pública Federal, que atiendan ramos de actividad relacionados con la ejecución de los programas de prevención, auxilio y apoyo en materia de Protección Civil, en los términos que establezcan los convenios de colaboración o de coordinación que al respecto se celebren, con carácter de vocales;
 
-IX.- El Director General de Ecología del Estado, con carácter de vocal, y
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+IX.- El Secretario de Protección al Ambiente del Estado, con carácter de vocal, y
 
 X.- El Secretario de Educación y Bienestar Social, con carácter de vocal.
 
@@ -163,13 +183,17 @@ El Consejo Estatal tendrá las siguientes atribuciones:
 
 I.- Orientar las políticas y acciones de Protección Civil;
 
-II.- Aprobar y evaluar el programa anual de Protección Civil, que formule la Dirección;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+II.- Aprobar y evaluar el programa anual de Protección Civil que formule la Coordinación Estatal;
 
 III.- Promover la investigación científica en materia de Protección Civil, a través de las instituciones de educación superior;
 
 IV.- Sesionar permanentemente cuando ocurra un desastre, formulando un diagnóstico y evaluación de la situación de emergencia y, decidir las acciones a tomar, así como determinar los recursos necesarios para la respuesta;
 
-V.- Integrar comisiones por especializaciones, para el asesoramiento del Director de Protección Civil;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+V.- Integrar comisiones por especializaciones para el asesoramiento del titular de la Coordinación Estatal;
 
 VI.- Establecer mecanismos de coordinación del Sistema Estatal con los sistemas estatales de Protección Civil de las entidades federativas vecinas, el Sistema Nacional y los sistemas municipales del Estado;
 
@@ -195,15 +219,21 @@ El Consejo Estatal se reunirá en sesiones ordinarias y extraordinarias, en comi
 
 La facultad de declarar la situación de emergencia, en todo o en parte del territorio del Estado, corresponde al Ejecutivo Estatal.
 
-### CAPITULO CUARTO. DE LA DIRECCION DE PROTECCION CIVIL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 2013)</small>
+
+### CAPITULO CUARTO. DE LA COORDINACION DE PROTECCION CIVIL
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 12.
 
-Para la aplicación de lo dispuesto por la presente Ley, el Ejecutivo del Estado contará con una Dirección de Protección Civil, la que tendrá funciones de autoridad en todo lo relativo a la prevención y mitigación ante las amenazas de riesgo geológico, hidrometeorológico, químico, sanitario y socio-organizativo.
+Para la aplicación de lo dispuesto por la presente Ley, el Ejecutivo del Estado contará con una Coordinación Estatal de Protección Civil, la cual dependerá de la Secretaría General de Gobierno, tendrá nivel de Dirección General y gozará de autonomía de operación y gestión, teniendo funciones de autoridad en todo lo relativo a la prevención y mitigación ante las amenazas de riesgo geológico, hidrometeorológico, químico, sanitario y socio-organizativo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 13.
 
-La Dirección de Protección Civil, tendrá las siguientes atribuciones:
+La Coordinación de Protección Civil del Estado, tendrá las siguientes atribuciones:
 
 I.- Coordinar las dependencias y entidades de los tres órdenes de Gobierno en el Estado, que tengan actividades que se relacionen con la Protección Civil;
 
@@ -223,17 +253,23 @@ VIII.- Promover la actualización de leyes y reglamentos estatales y municipales
 
 IX.- Procurar con dependencias y entidades de los tres órdenes de Gobierno, mayor infraestructura, equipamiento y servicios en las zonas urbanas y rurales para evitar daños en centros de población inamovibles;
 
-X.- Coordinar de manera permanente los programas, subprogramas, planes de contingencia y capacitación en materia de Protección Civil que elaboren los Organos Municipales de los Ayuntamientos del Estado;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+X.- Coordinar de manera permanente los programas, subprogramas, planes de contingencia y capacitación en materia de Protección Civil que elaboren las Coordinaciones Municipales de los Ayuntamientos del Estado;
 
 XI.- Establecer vínculos de coordinación y capacitación con agencias gubernamentales y privadas de otros países;
 
-XII.- Promover ante autoridades de los tres órdenes de Gobierno, así como del sector privado y social, la adquisición del equipo requerido por los Organos Municipales para el combate de fugas, derrames, explosión e incendio de materiales peligrosos;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+XII.- Promover ante autoridades de los tres órdenes de Gobierno, así como del sector privado y social, la adquisición del equipo requerido por las Coordinaciones Municipales para el combate de fugas, derrames explosión e incendio de materiales peligrosos;
 
 XIII.- Coordinarse de manera especial con el Sector Salud, tanto oficial como privado, para una respuesta eficaz en caso de desastre;
 
 XIV.- Formular el programa y subprogramas anuales de Protección Civil, para su aprobación ante el Consejo Estatal;
 
-XV.- Formular y presentar a la Secretaría de Planeación y Presupuesto el presupuesto anual de egresos de la Dirección;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+XV.- Formular y presentar a la Secretaría de Planeación y Finanzas el presupuesto anual de egresos de la Coordinación Estatal;
 
 XVI.- Tramitar los acuerdos emitidos por el Consejo Estatal;
 
@@ -251,13 +287,17 @@ XIX.- Determinar y registrar, en el Atlas correspondiente, las zonas que no son 
 
 XX.- Las demás que establezca esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 14.
 
-El titular de la Dirección será nombrado por el Gobernador del Estado.
+El titular de la Coordinación Estatal será nombrado por el Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 15.
 
-La Dirección, contará con el personal necesario que determine el presupuesto.
+La Coordinación Estatal, contara con el personal necesario que determine el presupuesto.
 
 ### CAPITULO QUINTO. DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
 
@@ -283,7 +323,9 @@ El Sistema Municipal estará integrado por:
 
 I.- El Consejo Municipal;
 
-II.- Los Organos Municipales;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+II.- Las Coordinaciones Municipales;
 
 III.- Los representantes de los sectores público, social y privado, grupos voluntarios, instituciones educativas y, expertos en diferentes áreas, y
 
@@ -313,7 +355,9 @@ I.- El Presidente Municipal, quien lo presidirá;
 
 II.- El Secretario del Ayuntamiento, quien será el Secretario Ejecutivo;
 
-III.- El titular del Organo Municipal, quien será el Secretario Técnico;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+III.- El titular de la Coordinación Municipal correspondiente, quien será el Secretario Técnico;
 
 IV.- Los titulares y representantes de las dependencias y entidades de la Administración Pública Municipal cuya área de competencia corresponda a los objetivos del Sistema Municipal, con carácter de vocales, y
 
@@ -327,15 +371,21 @@ I.- Fungir como órgano consultivo de planeación, de coordinación y concertaci
 
 II.- Aprobar el programa municipal de Protección Civil y los programas especiales que de él se deriven, y evaluar su cumplimiento por lo menos anualmente;
 
-III.- Supervisar, dar seguimiento y evaluar el funcionamiento de las acciones que en materia de Protección Civil realice el Organo Municipal correspondiente;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+III.- Supervisar, dar seguimiento y evaluar el funcionamiento de las acciones que en materia de Protección Civil realice la Coordinación Municipal correspondiente;
 
 IV.- Promover y fomentar entre las instituciones académicas y científicas el estudio e investigación en materia de Protección Civil;
 
-V.- Evaluar las situaciones de riesgo, en base al análisis que presente el Organo Municipal correspondiente y preparar las acciones a tomar en caso de emergencia;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+V.- Evaluar las situaciones de riesgo, con base al análisis que presente la Coordinación Municipal correspondiente y preparar las acciones a tomar en caso de emergencia;
 
 VI.- Sesionar permanentemente cuando ocurra un desastre y apoyar la instalación del Centro Municipal de Operaciones;
 
-VII.- Requerir la ayuda a la Dirección, en caso de que sea superada la capacidad de respuesta del Organo Municipal respectivo;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+VII.- Requerir la ayuda a la Coordinación Estatal, en caso de que sea superada la capacidad de respuesta de la Coordinación Municipal respectiva;
 
 VIII.- Fomentar la participación activa de todos los sectores de la población, en la integración y ejecución de los programas preventivos;
 
@@ -355,19 +405,27 @@ XIV.- Las demás que señalen las leyes y reglamentos.
 
 El Consejo Municipal se reunirá en sesiones ordinarias y extraordinarias, en comités o en Pleno, a convocatoria del Presidente, en los plazos y formas que establezca el reglamento. Cuando se ausente el Presidente, serán dirigidas por el Secretario Ejecutivo.
 
-### CAPITULO SEPTIMO. DE LOS ORGANOS MUNICIPALES ENCARGADOS DE LA MATERIA DE PROTECCION CIVIL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 2013)</small>
+
+### CAPITULO SEPTIMO. DE LAS COORDINACIONES MUNICIPALES ENCARGADAS DE LA MATERIA DE PROTECCION CIVIL
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 25.
 
-El Organo Municipal encargado de la materia de Protección Civil de cada Municipio, será responsable de elaborar, instrumentar, dirigir y operar la ejecución de los programas en la materia, coordinando sus acciones con las dependencias, instituciones y organismos de los sectores público, social, privado y académico, grupos voluntarios y con la población en general.
+La Coordinación Municipal encargada de la materia de Protección Civil de cada Municipio dependerá de la Secretaría del Ayuntamiento de que se trate, tendrá un nivel no menor al de Dirección General y gozará de autonomía de operación y gestión, siendo responsable dentro de su ámbito competencial de elaborar, instrumentar, dirigir y operar la ejecución de los programas en la materia, coordinando sus acciones con las dependencias, instituciones y organismos de los sectores público, social, privado y académico, grupos voluntarios y con la población en general.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 26.
 
-Los Organos Municipales, se integrarán con las unidades administrativas que establezca el reglamento municipal respectivo.
+Las Coordinaciones Municipales, se integrarán con las unidades administrativas que establezca el reglamento municipal respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 27.
 
-Las atribuciones de los Organos Municipales serán las siguientes:
+Las atribuciones de las Coordinaciones Municipales serán las siguientes:
 
 I.- Identificar y diagnosticar los riesgos a los que está expuesto el territorio del Municipio de que se trate, y elaborar el Atlas Municipal de Riesgos;
 
@@ -391,7 +449,9 @@ X.- Formular, en caso de emergencia, el análisis y evaluación primaria de la m
 
 XI.- Participar en el Centro Municipal de Operaciones;
 
-XII.- Establecer los mecanismos de comunicación tanto en situación normal, como en caso de emergencia, con la Dirección y con el Centro de Comunicaciones de la Dirección General de Protección Civil de la Secretaría de Gobernación;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+XII.- Establecer los mecanismos de comunicación tanto en situación normal, como en caso de emergencia, con la Coordinación Estatal y con el Centro de Comunicaciones de la Coordinación Nacional de Protección Civil de la Secretaría de Gobernación;
 
 XIII.- Promover la realización de cursos, ejercicios y simulacros que permitan mejorar la capacidad de respuesta de los participantes en el Sistema Municipal;
 
@@ -403,9 +463,11 @@ XVI.- Elaborar y presentar para su aprobación al Ayuntamiento, el Plan Municipa
 
 XVII.- Las demás que establezcan las leyes, reglamentos y el Consejo Municipal.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 28.
 
-Los Organos Municipales operarán coordinadamente con la Dirección y en su caso, con la Dirección General de Protección Civil de la Secretaría de Gobernación.
+Las Coordinaciones Municipales operarán coordinadamente con la Coordinación Estatal y en su caso, con la Coordinación Nacional de Protección Civil de la Secretaría de Gobernación.
 
 ### CAPITULO OCTAVO. DEL CENTRO MUNICIPAL DE OPERACIONES
 
@@ -413,9 +475,11 @@ Los Organos Municipales operarán coordinadamente con la Dirección y en su caso
 
 Corresponde al Presidente Municipal, coordinar y dirigir técnica y operativamente la atención de emergencias, para lo cual contará con el apoyo del Centro Municipal de Operaciones.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 30.
 
-El Centro Municipal de Operaciones se instalará en el domicilio del Organo Municipal que corresponda, donde se llevarán a cabo acciones de dirección y coordinación.
+El Centro Municipal de Operaciones se instalará en el domicilio de la Coordinación Municipal que corresponda, donde se llevarán a cabo acciones de dirección y coordinación.
 
 ###### ARTICULO 31.
 
@@ -569,9 +633,11 @@ El Consejo Estatal y los Consejos Municipales, promoverán la participación de 
 
 La organización de los grupos voluntarios podrá integrarse por municipios y podrán celebrar convenios de concertación a fin de prevenir y controlar situaciones de emergencia.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 50.
 
-Los grupos voluntarios de servicios prehospitalarios, rescatistas, radiocomunicación y demás organismos sociales afines, deberán registrarse ante el Organo Municipal del Municipio que corresponda, y obtener un certificado de autorización para su funcionamiento, debiendo cubrir al efecto, los requisitos establecidos en el Reglamento de la presente Ley.
+Los grupos voluntarios de servicios pre hospitalarios, rescatistas, radiocomunicación y demás organismos sociales afines, deberán registrarse ante la Coordinación Municipal que corresponda, y obtener un certificado de autorización para su funcionamiento, debiendo cubrir al efecto, los requisitos establecidos en el Reglamento de la presente Ley.
 
 ###### ARTICULO 51.
 
@@ -581,11 +647,15 @@ El representante de cada grupo voluntario deberá integrarse al Centro Municipal
 
 Corresponde a los Grupos Voluntarios constituidos conforme a esta Ley y su Reglamento:
 
-I.- Coordinarse con el Organo Municipal de cada Ayuntamiento, para las tareas de prevención, auxilio y recuperación en casos de desastre;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+I.- Coordinarse con la Coordinación Municipal de cada Ayuntamiento, para las tareas de prevención, auxilio y recuperación en casos de desastre;
 
 II.- Cooperar en la preparación y difusión de planes y programas de Protección Civil;
 
-III.- Comunicar al Organo Municipal correspondiente, en su caso, la presencia de cualquier situación de probable o inminente riesgo, con el objeto de que se verifique la información y en su caso, se tomen las medidas que correspondan;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+III.- Comunicar a la Coordinación Municipal correspondiente, en su caso, la presencia de cualquier situación de probable o inminente riesgo, con el objeto de que se verifique la información y en su caso, se tomen las medidas que correspondan;
 
 IV.- Participar en los programas de capacitación a la población, para que pueda autoprotegerse en caso de desastre, y
 
@@ -617,9 +687,11 @@ La denuncia para estos efectos constituye el instrumento jurídico que tiene la 
 
 Para la procedencia de la denuncia, es indispensable el señalamiento de los datos necesarios que permitan localizar el lugar de los hechos motivo de la denuncia, así como el nombre y domicilio del denunciante, para que se efectúen con oportunidad por parte de las autoridades, las diligencias necesarias para la comprobación de los hechos o actos motivo de la denuncia y estar en posibilidades de llevar a cabo la evaluación correspondiente y actuar en consecuencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 58.
 
-Si la denuncia se presentó ante la Dirección, dentro de los siguientes cinco días hábiles la turnará al Organo Municipal que corresponda, en función del domicilio señalado, para que en el término de los siguientes quince días hábiles se practique la verificación, el resultado de la misma y, en su caso, las medidas impuestas.
+Si la denuncia se presentó ante la Coordinación Estatal, dentro de los siguientes cinco días hábiles la turnará a la Coordinación Municipal que corresponda, en función del domicilio señalado, para que en el término de los siguientes quince días hábiles se practique la verificación, el resultado de la misma y, en su caso, las medidas impuestas.
 
 Lo anterior se hará sin perjuicio de que la autoridad tome las medidas urgentes necesarias para evitar que se ponga en riesgo la seguridad de la población, sus bienes y entorno.
 
@@ -649,13 +721,17 @@ CAPITULO DECIMOCUARTO
 
 DE LA PREVENCION
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 62.
 
-Los propietarios o poseedores de inmuebles que por su propia naturaleza o por el uso a que están destinados, reciban una afluencia masiva de personas, tienen obligación de contar permanentemente con un programa interno de Protección Civil, el cual deberá ser autorizado y supervisado por el Organo Municipal del Ayuntamiento en que se encuentre su domicilio de funcionamiento.
+Los propietarios o poseedores de inmuebles que por su propia naturaleza o por el uso a que están destinados, reciban una afluencia masiva de personas, tienen obligación de contar permanentemente con un programa interno de Protección Civil, el cual deberá ser autorizado y supervisado por la Coordinación Municipal del Ayuntamiento en que se encuentre su domicilio de funcionamiento.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 63.
 
-Los propietarios o poseedores, de establecimientos en los que haya afluencia de público y los organizadores o responsables de eventos, deberán contar con opinión favorable de las medidas de seguridad de sus instalaciones de parte del Organo Municipal del Ayuntamiento en el que se encuentre su domicilio de funcionamiento.
+Los propietarios o poseedores, de establecimientos en los que haya afluencia de público y los organizadores o responsables de eventos, deberán contar con opinión favorable de las medidas de seguridad de sus instalaciones de parte de la Coordinación Municipal del Ayuntamiento en el que se encuentre su domicilio de funcionamiento.
 
 ###### ARTICULO 64.
 
@@ -669,9 +745,11 @@ I.- Póliza de seguros de cobertura amplia de responsabilidad civil y daños a t
 
 II.- Fuente de energía alterna.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 66.
 
-En caso de que las empresas señaladas en el Artículo anterior usen materiales o residuos peligrosos, deberán informar anualmente al Organo Municipal de su localidad, lo siguiente:
+En caso de que las empresas señaladas en el artículo anterior usen materiales o residuos peligrosos, deberán informar anualmente a la Coordinación Municipal de su localidad, lo siguiente:
 
 I.- Nombre comercial del producto;
 
@@ -695,7 +773,9 @@ I.- Vehículos que exclusivamente transporten materiales peligrosos y sean acond
 
 II.- Espacio exclusivo destinado a almacén de materiales peligrosos, y
 
-III.- Planes de contingencias, presentándolo al Organo Municipal que corresponda para su evaluación y autorización.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+
+III.- Planes de contingencias, presentándolo a la Coordinación Municipal que corresponda para su evaluación y autorización.
 
 ###### ARTICULO 68.
 
@@ -715,15 +795,17 @@ Las Direcciones de Seguridad Pública y Tránsito vigilarán el estricto cumplim
 
 Toda actividad mercantil que use gas natural o Licuado de Petróleo como carburante, deberá contar con un dictamen de sus instalaciones practicado por una Unidad Verificadora del Ayuntamiento que corresponda, en la especialidad respectiva.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 71.
 
-La Dirección coordinará sus actividades con las dependencias de los tres órdenes de Gobierno cuyas actividades tengan relación con Protección Civil, a fin de proteger a las personas, sus bienes y entorno de los riesgos que pudieran presentarse ante una contingencia grave, provocada por causas naturales o producidas por el hombre.
+La Coordinación Estatal coordinará sus actividades con las dependencias de los tres órdenes de Gobierno cuyas actividades tengan relación con Protección Civil, a fin de proteger a las personas, sus bienes y entorno de los riesgos que pudieran presentarse ante una contingencia grave, provocada por causas naturales o producidas por el hombre.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 72.
 
-El Organo Municipal deberá formar parte de comisiones, grupos de trabajo y mesas de estudio en el Ayuntamiento que corresponda, para presentar sus opiniones sobre:
+La Coordinación Municipal deberá formar parte de comisiones, grupos de trabajo y mesas de estudio en el Ayuntamiento que corresponda, para presentar sus opiniones sobre:
 
 I.- Asentamiento humanos irregulares, en zonas de riesgo geológico, hidrometerológico, químico, sanitario o socio-organizativos a que están expuestos sus ocupantes de presentarse una contingencia grave, para prever su desalojo atendiendo a la población afectada en refugios temporales cerrados o abiertos a cargo de la autoridad competente.
 
@@ -735,21 +817,27 @@ III.- El uso de suelo en condiciones de riesgo geológico, hidrometeorológico, 
 
 IV.- La obligación de señalar en los reglamentos municipales sobre edificaciones, el grado de seguridad ante sismos, acatando el resultado del estudio histórico de la zona.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 73.
 
-Las autoridades estatales y municipales a cargo de los planes de desarrollo urbano, tomarán en cuenta la opinión de los Organos Municipales al realizar planes parciales en terrenos donde se localice una falla geológica.
+Las autoridades estatales y municipales a cargo de los planes de desarrollo urbano, tomarán en cuenta la opinión de las Coordinaciones Municipales al realizar planes parciales en terrenos donde se localice una falla geológica.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 74.
 
-Los Organos Municipales, informarán a las autoridades competentes del Ayuntamiento, de construcciones semi-destruidas que representen un riesgo de colapso.
+Las Coordinaciones Municipales, informarán a las autoridades competentes del Ayuntamiento, de construcciones semi-destruidas que representen un riesgo de colapso.
 
 CAPITULO DECIMOQUINTO
 
 MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 75.
 
-Cuando una situación de riesgo inminente implique la posibilidad de una emergencia, siniestro o desastre, la Dirección y el Organo Municipal de los Ayuntamientos, podrán adoptar las siguientes medidas de seguridad, con el fin de salvaguardar a las personas, sus bienes y entorno:
+Cuando una situación de riesgo inminente implique la posibilidad de una emergencia, siniestro o desastre, la Coordinación Estatal y las Coordinaciones Municipales, podrán adoptar las siguientes medidas de seguridad, con el fin de salvaguardar a las personas, sus bienes y entorno:
 
 I.- El aislamiento temporal, parcial o total del área afectada;
 
@@ -765,9 +853,11 @@ Asimismo, podrán promover la ejecución ante la autoridad competente y en los t
 
 Las medidas que se tomen tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 76.
 
-Para determinarse las medidas necesarias a tomar ante la presencia de una emergencia o desastre, el personal de la Dirección y del Organo Municipal que corresponda, realizarán las inspecciones necesarias. Al efecto, tanto las autoridades como los particulares deberán permitir el libre acceso a las instalaciones o lugar motivo de la emergencia o desastre. En caso de oposición, se podrá requerir el auxilio de la fuerza pública.
+Para determinarse las medidas necesarias a tomar ante la presencia de una emergencia o desastre, el personal de la Coordinación Estatal y la Coordinación Municipal que corresponda, realizarán las inspecciones necesarias. Al efecto, tanto las autoridades como los particulares deberán permitir el libre acceso a las instalaciones o lugar motivo de la emergencia o desastre. En caso de oposición, se podrá requerir el auxilio de la fuerza pública.
 
 CAPITULO DECIMOSEXTO
 
@@ -781,19 +871,21 @@ CAPITULO DECIMOSEPTIMO
 
 DEL REGISTRO DE LAS ORGANIZACIONES CIVILES Y EMPRESAS CAPACITADORAS E INSTRUCTORES INDEPENDIENTES EN MATERIA DE PROTECCION CIVIL
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 78.
 
-Las organizaciones civiles y empresas capacitadoras e instructores independientes, así como las empresas de consultoría y estudio de riesgo-vulnerabilidad, que por sus características se vinculen en materia de protección civil, deberán obtener su registro ante la Dirección, mediante la presentación de una solicitud en la que se declare la capacidad que poseen en materia de Protección Civil y en su caso, los medios técnicos mediante los cuales llevaron a cabo los cursos de capacitación y los estudios de riesgo-vulnerabilidad, acompañándose de los documentos que acrediten tales supuestos, así como los que acrediten su personalidad jurídica.
+Las organizaciones civiles y empresas capacitadoras e instructores independientes, así como las empresas de consultoría y estudio de riesgo-vulnerabilidad, que por sus características se vinculen en materia de protección civil, deberán obtener su registro ante la Coordinación Estatal, mediante la presentación de una solicitud en la que se declare la capacidad que poseen en materia de Protección Civil y en su caso, los medios técnicos mediante los cuales llevaron a cabo los cursos de capacitación y los estudios de riesgo-vulnerabilidad, acompañándose de los documentos que acrediten tales supuestos, así como los que acrediten su personalidad jurídica.
 
 ###### ARTICULO 79.
 
 El registro será obligatorio y permitirá a las empresas capacitadoras e instructores independientes, así como las empresas de consultoría y estudio de riesgo-vulnerabilidad que cuenten con él, emitir la carta de corresponsabilidad que se requiera para la aprobación de los programas internos o especiales de Protección Civil, que dichas empresas elaboren.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 80.
 
-De los registros que extienda la Dirección, deberá remitir copia al Organo Municipal del Municipio en que se ubique el domicilio de funcionamiento del solicitante.
+De los registros que extienda la Coordinación Estatal, deberá remitir copia a la Coordinación Municipal del Municipio en que se ubique el domicilio de funcionamiento del solicitante.
 
 Asimismo, de requerirlo, solicitará informes de la actividad y capacidad del solicitante y atenderá la constancia que sobre el particular se expida.
 
@@ -801,9 +893,11 @@ CAPITULO DECIMOCTAVO
 
 DE LA INSPECCION, CONTROL Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 81.
 
-Los Organos Municipales, en el ámbito de sus competencias, inspeccionarán, controlarán y vigilarán la debida observancia y cumplimiento de las disposiciones de esta Ley y su reglamento, realizando por conducto del personal debidamente autorizado, visitas de inspección para verificar que se cumplan adecuadamente las condiciones necesarias en materia de Protección Civil.
+Las Coordinaciones Municipales, en el ámbito de sus competencias, inspeccionarán, controlarán y vigilarán la debida observancia y cumplimiento de las disposiciones de esta Ley y su reglamento, realizando por conducto del personal debidamente autorizado, visitas de inspección para verificar que se cumplan adecuadamente las condiciones necesarias en materia de Protección Civil.
 
 ###### ARTICULO 82.
 
@@ -813,9 +907,11 @@ Las autoridades federales, estatales y municipales auxiliarán a los inspectores
 
 Los inspectores en el ejercicio de sus funciones tendrán libre acceso a las dependencias del Gobierno Federal, Estatal y Municipal, organismos descentralizados, órganos desconcentrados y paraestatales, así como a las industrias, comercios y servicios, para comprobar si se cuenta con los programas y sistemas de protección, prevención, auxilio y apoyo frente a la eventualidad de desastres provocados por los diferentes tipos de agentes, para lo cual deberán proporcionarles la información necesaria para el cumplimiento de las mismas.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 84.
 
-Para el ejercicio de las funciones de los inspectores a que se refiere el Artículo 81 de esta Ley, se dictará orden escrita por el Titular del Organo Municipal correspondiente, debidamente fundada y motivada en la cual se expresará el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
+Para el ejercicio de las funciones de los inspectores a que se refiere el artículo 81 de esta Ley, se dictará orden escrita por el Titular de la Coordinación Municipal correspondiente, debidamente fundada y motivada en la cual se expresará el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
 
 ###### ARTICULO 85.
 
@@ -831,21 +927,29 @@ El documento respectivo deberá ser firmado por quienes intervinieron y estuvier
 
 El personal autorizado entregará al interesado copia del acta levantada, emplazándole para que dentro de los tres días siguientes comparezca ante la autoridad ordenadora y, en su caso, ofrezca las pruebas que estime convenientes en relación con los hechos u omisiones que se deriven de la inspección.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 87.
 
-En el caso de obstaculización u oposición a la práctica de la diligencia, los Organos Municipales podrán solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, sin perjuicio de aplicar las sanciones a que haya lugar.
+En el caso de obstaculización u oposición a la práctica de la diligencia, las Coordinaciones Municipales podrán solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, sin perjuicio de aplicar las sanciones a que haya lugar.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 88.
 
-Si del acta de inspección se desprende la necesidad de llevar a cabo medidas correctivas de urgente aplicación, los Organos Municipales requerirán a quien resulte obligado para que las ejecute, fijándole un plazo para tal efecto. Si éste no las realiza, lo hará la autoridad a costa del obligado, sin perjuicio de la responsabilidad penal en que incurra.
+Si del acta de inspección se desprende la necesidad de llevar a cabo medidas correctivas de urgente aplicación, las Coordinaciones Municipales requerirán a quien resulte obligado para que las ejecute, fijándole un plazo para tal efecto. Si éste no las realiza, lo hará la autoridad a costa del obligado, sin perjuicio de la responsabilidad penal en que incurra.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 89.
 
-Si en la resolución emitida, los Organos Municipales hubieran ordenado la ejecución de medidas tendientes a corregir las deficiencias o irregularidades que se desprendan de la infracción, y si las circunstancias lo permiten, se concederá al obligado un plazo prudente para ello. El responsable deberá informar por escrito a la autoridad competente sobre el cumplimiento de la resolución, dentro de los cinco días siguientes al plazo que se le hubiere fijado.
+Si en la resolución emitida, las Coordinaciones Municipales hubieran ordenado la ejecución de medidas tendientes a corregir las deficiencias o irregularidades que se desprendan de la infracción, y si las circunstancias lo permiten, se concederá al obligado un plazo prudente para ello. El responsable deberá informar por escrito a la autoridad competente sobre el cumplimiento de la resolución, dentro de los cinco días siguientes al plazo que se le hubiere fijado.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 90.
 
-En caso de segunda o posterior inspección practicada con el objeto de verificar el cumplimiento de un requerimiento anterior o de una resolución, si del acta correspondiente se desprende que no se han ejecutado las medidas ordenadas, el Organo Municipal correspondiente impondrá la sanción que corresponda, de conformidad con el capítulo de sanciones de esta Ley.
+En caso de segunda o posterior inspección practicada con el objeto de verificar el cumplimiento de un requerimiento anterior o de una resolución, si del acta correspondiente se desprende que no se han ejecutado las medidas ordenadas, la Coordinación Municipal correspondiente impondrá la sanción que corresponda, de conformidad con el capítulo de sanciones de esta Ley.
 
 ###### ARTICULO 91.
 
@@ -855,11 +959,13 @@ CAPITULO DECIMONOVENO
 
 DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 92.
 
-Los Organos Municipales, en el ámbito de sus respectivas competencias, impondrán las sanciones a que se refiere el presente Capítulo, las que se liquidarán por el infractor en las oficinas de la Tesorería Municipal que corresponda, en un plazo no mayor de quince días, contados a partir de la fecha en que se haya hecho la notificación respectiva.
+Las Coordinaciones Municipales, en el ámbito de sus respectivas competencias, impondrán las sanciones a que se refiere el presente Capítulo, las que se liquidarán por el infractor en las oficinas de la Tesorería Municipal que corresponda, en un plazo no mayor de quince días, contados a partir de la fecha en que se haya hecho la notificación respectiva.
 
-La Dirección podrá imponer sanciones ante la resistencia de autoridades o particulares, a permitir la práctica de las inspecciones previstas en el Artículo 76 de esta Ley, así como por el incumplimiento a las medidas de seguridad que decrete.
+La Coordinación Estatal podrá imponer sanciones ante la resistencia de autoridades o particulares, a permitir la práctica de las inspecciones previstas en el artículo 76 de esta Ley, así como por el incumplimiento a las medidas de seguridad que decrete.
 
 ###### ARTICULO 93.
 
@@ -899,29 +1005,35 @@ IV.- La reincidencia.
 
 En los casos en que se defina la clausura temporal o definitiva, total o parcial de una obra, instalación o establecimiento, se podrá solicitar a la autoridad competente la suspensión o cancelación de cualquier permiso o licencia que se hubiere otorgado.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 97.
 
-Cuando se imponga como sanción la suspensión de una obra, instalación o servicio, se ordenará al infractor que realice los actos o subsane las omisiones que motivaron la misma, fijando un plazo prudente para ello a juicio de la Dirección u Organo Municipal, en la inteligencia de que la suspensión continuará hasta en tanto no se cumpla con lo ordenado.
+Cuando se imponga como sanción la suspensión de una obra, instalación o servicio, se ordenará al infractor que realice los actos o subsane las omisiones que motivaron la misma, fijando un plazo prudente para ello a juicio de la Coordinación Estatal o de las Coordinaciones Municipales, según corresponda, en la inteligencia de que la suspensión continuará hasta en tanto no se cumpla con lo ordenado.
 
 ###### ARTICULO 98.
 
 Tratándose de clausura temporal o definitiva, el personal encargado de ejecutarla, deberá levantar acta circunstanciada observando las formalidades establecidas para las inspecciones.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 99.
 
-En el caso de que el Organo Municipal correspondiente, además de la sanción determine la necesidad de demolición, retiro, construcción o modificación de obras e instalaciones, ordenará al infractor su realización. Si éste no cumple en el plazo que para ello se le haya fijado, el Organo Municipal que corresponda lo comunicará a la autoridad municipal correspondiente, para que proceda a su realización con cargo al infractor.
+En el caso de que la Coordinación Municipal correspondiente, además de la sanción determine la necesidad de demolición, retiro, construcción o modificación de obras e instalaciones, ordenará al infractor su realización. Si éste no cumple en el plazo que para ello se le haya fijado, la Coordinación Municipal que corresponda lo comunicará a la autoridad municipal respectiva, para que proceda a su realización con cargo al infractor.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 100.
 
-Independientemente de las sanciones administrativas que se impongan al infractor, los Organos Municipales, en su caso, harán del conocimiento del Ministerio Público los hechos que pudieran constituir conductas delictivas.
+Independientemente de las sanciones administrativas que se impongan al infractor, las Coordinaciones Municipales, en su caso, harán del conocimiento del Ministerio Público los hechos que pudieran constituir conductas delictivas.
 
 ### CAPITULO VIGESIMO. DEL RECURSO DE REVISION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 101.
 
-Contra las sanciones que impongan la Dirección o los Organos Municipales, procede el recurso de revisión.
+Contra las sanciones que impongan la Coordinación Estatal o las Coordinaciones Municipales procede el recurso de revisión.
 
 Será optativo agotar este recurso, o bien, intentar directamente el juicio ante el Tribunal de lo Contencioso Administrativo.
 
@@ -929,7 +1041,9 @@ Será optativo agotar este recurso, o bien, intentar directamente el juicio ante
 
 El recurso administrativo de revisión tiene por objeto que el superior jerárquico examine si en el acto o actos recurridos se aplicó correctamente la Ley, si se violaron las formalidades del procedimiento o si se alteraron los hechos que lo motivaron, a fin de confirmarlo, modificarlo o revocarlo, según proceda.
 
-El superior jerárquico de la Dirección es el Ejecutivo del Estado, y en el caso de los Organos Municipales, el Presidente Municipal correspondiente.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
+El superior jerárquico de la Coordinación Estatal es el Ejecutivo del Estado, y en el caso de las Coordinaciones Municipales, es el Presidente Municipal correspondiente.
 
 ###### ARTICULO 103.
 
@@ -1056,3 +1170,13 @@ SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decret
 TERCERO.- El Ejecutivo del Estado en un término no mayor a 60 días contados a partir de la entrada en vigor del presente Decreto, deberá modificar el Reglamento de la Ley de Protección Civil del Estado de Baja California.
 
 CUARTO.- Hasta en tanto se modifique el Reglamento, la Dirección Estatal de Protección Civil, podrá emitir las disposiciones de carácter general que consideren necesarias para la aplicación del presente Decreto.
+
+P.O. 23 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo estatal deberá realizar las adecuaciones reglamentarias correspondientes, en un plazo no mayor de noventa días contados a partir de la entrada en vigor de la presente reforma, a efecto de ajustar la denominación de la unidad de protección civil del Estado.
+
+TERCERO.- Los Ayuntamientos deberán adecuar su normatividad interna, a efecto de ajustar la denominación de sus unidades municipales de protección civil y precisar la dependencia jerárquica de las mismas, en los términos que la Ley General de Protección Civil y la Ley de Protección Civil del Estado prevén.
+
+CUARTO.- Hasta en tanto no se realicen las modificaciones a la legislación y a la normatividad interna del Estado y sus Municipios, los ordenamientos que hagan alusión a la Dirección Estatal de Protección Civil, Dirección o Director de Protección Civil del Estado, así como a los órganos municipales de protección civil o a cualquier otra denominación similar, se entenderá que se refieren, respectivamente y según sea el caso, a la Coordinación de Protección Civil del Estado y a las Coordinaciones Municipales de Protección Civil previstas en el presente Decreto.
