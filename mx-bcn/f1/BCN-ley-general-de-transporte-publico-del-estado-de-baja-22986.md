@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-transporte-publico-del-estado-de-baja-22986"
 country: "mx"
 rank: "ley_general"
 publication_date: "2001-11-09"
-last_updated: "2012-08-31"
+last_updated: "2013-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE TRANSPORTE PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -377,6 +377,12 @@ IV.- Los demás que establezca el Reglamento.
 
 Los concesionarios y permisionarios del servicio público de transporte de pasajeros o carga, en sus diversas modalidades, así como de arrastre y depósito de vehículos detenidos a disposición de autoridad competente, deberán sujetarse para su explotación, a las disposiciones, términos y condiciones que establece esta ley y el reglamento.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
+ARTICULO 30 BIS.- Los concesionarios del servicio público de arrastre y depósito de vehículos detenidos a disposición de autoridad competente, deberán observar lo dispuesto en los artículos 250 de los Códigos de Procedimientos Penales para el Estado de Baja California, publicados en fecha 20 de agosto de 1989 y 19 de octubre de 2007.
+
+Los concesionarios que incumplan con lo dispuesto en el párrafo anterior, serán sancionados de acuerdo con lo previsto en la presente Ley.
+
 ###### ARTICULO 31.
 
 La duración de las concesiones será de cinco y hasta treinta años y la de los permisos será de seis años y podrán ser prorrogados por períodos iguales y sucesivos, conforme lo establezca la reglamentación Municipal correspondiente, siempre que se hubieren cumplido y respetado en todos sus términos, las condiciones establecidas en el permiso o concesión.
@@ -590,3 +596,7 @@ P.O. 31 DE AGOSTO DE 2012.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los Municipios de la Entidad, deberán adecuar en un plazo no mayor de 90 días los Reglamentos de Transporte Público correspondientes.
+
+P.O. 23 DE AGOSTO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
