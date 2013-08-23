@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2013-05-17"
+last_updated: "2013-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -3023,9 +3023,9 @@ XV.- La consignación en pago;
 
 XVI.- Las acciones relativas a servidumbres legales o que consten en títulos públicos y;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
 
-XVII.- Los asuntos relativos a la pérdida de la patria potestad, cuando en estos sea parte la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia de Baja California, por las causas a que se refieren las fracciones III, IV, V, VI del artículo 441 del Código Civil para el Estado de Baja California, y la persona menor de dieciocho años de edad de que se trate, se encuentre bajo la tutela del Sistema para el Desarrollo Integral de la Familia;
+XVII.- Los asuntos relativos a la pérdida de la patria potestad, cuando en estos sea parte la Procuraduría para la Defensa de los Menores y la Familia del Estado, por las causas a que se refieren las fracciones III y IV del artículo 441, así como la relativa a la fracción V del artículo 440, todas del Código Civil para el Estado de Baja California, y la persona menor de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho de que se trate, se encuentre bajo la tutela del Sistema para el Desarrollo Integral de la Familia; y
 
 XVIII.- En general, las cuestiones que por su naturaleza requieran celeridad o lo determine la ley.
 
@@ -3079,6 +3079,10 @@ Cuando en el interdicto de obra nueva la protección eficaz se realice con sólo
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
+### CAPITULO II. Del juicio ejecutivo
+
+(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+
 ART. 435.- Las reglas del juicio ordinario y en especial las del Capítulo VI del Título Sexto, se aplicarán al juicio sumario en lo que no se opongan a lo dispuesto en el presente Capítulo.
 
 No puede concederse término extraordinario de prueba en los negocios a que se refiere el artículo 424. Tampoco proceden términos de gracia en ellos, a no ser en los juicios ejecutivos e hipotecarios que tengan por objeto pago de dinero.
@@ -3086,10 +3090,6 @@ No puede concederse término extraordinario de prueba en los negocios a que se r
 No son admisibles la reconvención o la compensación sino cuando las acciones en que se funden estuvieren también sujetas a juicio sumario.
 
 Las resoluciones sobre alimentos que fueren apeladas se ejecutarán sin fianza, y las que recaigan en los casos de la fracción VIII del artículo 424 son inapelables.
-
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
-### CAPITULO II. Del juicio ejecutivo
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6964,3 +6964,7 @@ P.O. 17 DE MAYO DE 2013.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los procesos que se hayan iniciado con anterioridad a la vigencia de la presente reforma, seguirán desarrollándose ante los órganos jurisdiccionales competentes conforme a las normas jurídicas vigentes al momento de su inicio.
+
+P.O. 23 DE AGOSTO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
