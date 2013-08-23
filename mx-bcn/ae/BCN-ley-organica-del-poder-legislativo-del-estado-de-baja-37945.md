@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2013-02-15"
+last_updated: "2013-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -1703,6 +1703,10 @@ V.- Así lo acuerde el Pleno del Congreso.
 
 En lo referente a las formalidades de las sesiones solemnes se estará a lo que establece el Reglamento.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2013)</small>
+
+Sin perjuicio de lo anterior, en las sesiones solemnes, se entonará el Himno Nacional.
+
 ###### ARTICULO 108.
 
 (DEROGADO, G.P. 14 DE OCTUBRE DE 2010)
@@ -2496,3 +2500,7 @@ DECRETO No. 259, POR EL QUE SE APRUEBA LA INICIATIVA QUE ADICIONA UN NUMERAL 15 
 P.O. 15 DE FEBRERO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado, se publicará en la Gaceta del Poder Legislativo, enviándose al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
