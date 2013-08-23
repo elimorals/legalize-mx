@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ingresos-para-el-municipio-de-guanajuato-guanajuato-9119
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-26"
-last_updated: "2013-03-22"
+last_updated: "2013-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE INGRESOS PARA EL MUNICIPIO DE GUANAJUATO, GUANAJUATO, PARA EL EJERCICIO FISCAL DEL 2013
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 26 de diciembre de 2012.
 
@@ -1925,17 +1925,9 @@ T R A N S I T O R I O S
 
 Artículo Primero. La presente Ley entrará en vigor a partir del 1 de enero del año 2013, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+Artículo Segundo. (DEROGADO, P.O. 23 DE AGOSTO DE 2013)
 
-Artículo Segundo. El artículo correspondiente a la Sección Segunda, relativa al servicio de alumbrado público, del Capítulo Quinto denominado De las Contribuciones Especiales, estará en vigor del 1 de enero al 31 de agosto de 2013.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
-
-Artículo Tercero. La tarifa aplicable por la prestación del servicio de alumbrado público, que estará vigente a partir del 1 de septiembre de 2013, se determinará por el Municipio conforme a las disposiciones previstas en la Ley de Hacienda para los Municipios del Estado de Guanajuato, y su liquidación atenderá, además, a los convenios que se suscriban con la empresa suministradora de energía eléctrica.
-
-Dicha tarifa deberá ser aprobada por el Ayuntamiento y publicada en el Periódico Oficial del Gobierno del Estado, de conformidad con lo dispuesto por el artículo 61 de la Constitución Política para el Estado de Guanajuato.
-
-Para la liquidación de la tarifa a que se refiere este artículo, se establece un beneficio a favor de los sujetos de la contribución, que consiste en que el monto a pagar no será mayor al 8% de las cantidades que deban liquidarse en forma particular por el consumo de energía eléctrica.
+Artículo Tercero. (DEROGADO, P.O. 23 DE AGOSTO DE 2013)
 
 Artículo Cuarto. El Ayuntamiento, con la opinión de los organismos públicos competentes a que se refiere el artículo 424 del Código Territorial para el Estado y los Municipios de Guanajuato, faciliten el trámite administrativo y el pago de derechos que se originen en la gestión del mismo para que puedan acceder a la dotación de los servicios de suministro de agua potable y drenaje, en los fraccionamientos habitacionales que se realicen bajo el procedimiento constructivo de urbanización progresiva para que tengan como incentivo fiscal el pago del 25% del total que corresponda al pago normal respecto a estos derechos.
 
@@ -1958,3 +1950,11 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 P.O. 22 DE MARZO DE 2013.
 
 Artículo Único. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE AGOSTO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Para el caso de los municipios que no realicen directamente el cobro de los derechos por la prestación del servicio de alumbrado público, los ayuntamientos respectivos a más tardar el 1 de noviembre de 2013 gestionarán la firma de los convenios correspondientes con la Comisión Federal de Electricidad.
+
+Artículo Tercero. Para efectos del artículo anterior, el Ejecutivo del Estado, a través de la Secretaría de Finanzas, Inversión y Administración gestionará el finiquito o término del convenio suscrito con la Comisión Federal de Electricidad, del 24 de julio de 1991.
