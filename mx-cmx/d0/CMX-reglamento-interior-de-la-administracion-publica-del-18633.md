@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2013-08-12"
+last_updated: "2013-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -88,23 +88,17 @@ IV. Nombrar y remover libremente a los Directores Ejecutivos, Directores de Áre
 
 ### Capítulo II. De la adscripción de las Unidades Administrativas, Órganos Político-Administrativos y Desconcentrados, a la Jefatura de Gobierno y a sus Dependencias
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 6º.
 
-La Jefatura de Gobierno para el estudio, planeación y despacho de los asuntos que le competen contará con Unidades de Asesoría, de Apoyo Técnico, Jurídico, de Coordinación y de Planeación del Desarrollo, asimismo cuenta con el Jefe de la Oficina del (sic) Jefatura de Gobierno, que para el despacho de los asuntos de su competencia, se le adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico-Operativo y los Órganos Desconcentrados siguientes:
-
-> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
+La Jefatura de Gobierno para el estudio, planeación y despacho de los asuntos que le competen contará con Unidades de Asesoría, de Apoyo Técnico, Jurídico, de Coordinación y de Planeación del Desarrollo, se le adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico-Operativo y los Órganos Desconcentrados siguientes:
 
 I. Secretaría Particular del Jefe de Gobierno;
 
-II. (DEROGADA, G.O. 31 DE AGOSTO DE 2010)
+II. Jefatura de la Oficina de la Jefatura de Gobierno;
 
-> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
-
-III. Las que le sean adscritas conforme a las disposiciones jurídicas y administrativas aplicables.
-
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2013)</small>
+III. Las demás que le sean adscritas conforme a las disposiciones jurídicas y administrativas aplicables.
 
 Asimismo, se le adscriben los órganos desconcentrados denominados Junta de Asistencia Privada, Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México y Agencia de Gestión Urbana de la Ciudad de México.
 
@@ -974,7 +968,7 @@ XVII. Las demás que le señalen las disposiciones jurídicas y administrativas 
 
 Corresponde al Jefe de la Oficina de la Jefatura de Gobierno:
 
-I. Apoyar al Jefe de Gobierno en la dirección y coordinación de las unidades de asesoría, de apoyo técnico, jurídico, de coordinación y de planeación del desarrollo, adscritas a la Jefatura de Gobierno;
+I. (DEROGADA, G.O. 23 DE AGOSTO DE 2013)
 
 II. Proporcionar al Jefe de Gobierno los apoyos necesarios para la planeación, organización, dirección, control y evaluación de los asuntos que le competen;
 
@@ -990,7 +984,9 @@ VII. Dirigir y evaluar las tareas de Comunicación Social, Imagen Institucional 
 
 VIII. Apoyar al Jefe de Gobierno en la coordinación y supervisión de los Gabinetes de la Administración Pública del Distrito Federal, estableciendo las directrices para el seguimiento de programas, proyectos y demás responsabilidades a cargo de las dependencias y entidades de la Administración Pública del Distrito Federal;
 
-IX. Las demás que le sean conferidas por el Jefe de Gobierno, así como las que correspondan a las unidades que le sean adscritas.
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2013)</small>
+
+IX. Las demás que le sean conferidas por el Jefe de Gobierno.
 
 ### Capítulo II. De las atribuciones del titular de la Oficialía Mayor
 
@@ -16475,3 +16471,11 @@ SÉPTIMO.- Cuando se cumpla el supuesto previsto en el TRANSITORIO SEXTO de este
 OCTAVO.- Cuando con motivo de la aplicación de este Decreto, los trabajadores del Órgano Desconcentrado Proyecto Metro pasen a formar parte de la Secretaría de Obras y Servicios y de la Dirección General de Obras Públicas, sus derechos laborales serán respetados conforme a la Ley de la materia.
 
 NOVENO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+G.O. 23 DE AGOSTO DE 2013.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
+
+TERCERO.- Los recursos humanos, materiales, técnicos y financieros de las Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo y Órganos Desconcentrados que por virtud del presente decreto se readscriben, serán transferidas en los términos y condiciones que establezcan las disposiciones administrativas aplicables.
