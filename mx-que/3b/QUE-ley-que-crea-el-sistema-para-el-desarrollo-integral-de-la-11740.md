@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-el-sistema-para-el-desarrollo-integral-de-la-11740
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "2011-03-31"
+last_updated: "2013-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY QUE CREA EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERETARO
 
-LEY QUE CREA EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERETARO
+LEY QUE CREA EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 23 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 180 DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1985.
 
@@ -67,19 +69,19 @@ XI.- Procurar permanentemente la adecuación y cumplimiento de los objetivos y p
 
 XII.- Actuar con interés jurídico ante los tribunales del Estado, en todo juicio en que, a criterio discrecional del propio sistema, se vean afectados los derechos de menores, ancianos y minusválidos, respetando las Leyes aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 XIII.- Implementar los medios de información, orientación y concientización necesarios, sobre la importancia social y jurídica de incorporar a su familia a un menor de edad, como requisito indispensable para quienes deseen realizar trámites de adopción en el Estado de Querétaro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
 XIV.- Las demás que le asignen la presente y otras leyes aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -277,61 +279,61 @@ La Procuraduría de la Defensa del Menor y la Familia se integra por:
 
 I.- Un Procurador, que será el titular de la Procuraduría;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 II.- Una Sub-Procuraduría;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 III.- Una Coordinación de Asistencia Jurídica a Población Vulnerable;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 IV.- Una Coordinación de Asistencia Jurídica a Casas Hogar;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 V.- Una Coordinación del Programa de Prevención del Maltrato Infantil;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 VI.- Una Coordinación de Hogares de Protección Infantil;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 VII.- Una Coordinación de Adopciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
 VIII.- Una Coordinación de Prevención de la Violencia Familiar; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
 IX.- El personal que señale el Reglamento Interno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Los servidores públicos titulares de las Coordinaciones mencionados en el presente artículo, son considerados personal de confianza y sus funciones se establecerán en el Reglamento Interno por la Procuraduría de la Defensa del Menor y la Familia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -421,25 +423,25 @@ Este procedimiento no es requisito previo para el ejercicio de cualquier acción
 
 XVII.- Emplear, para hacer cumplir sus determinaciones, cualesquiera de las sanciones y/o medios de apremio que establece la Ley de Procedimientos Administrativos para el Estado y Municipios;
 
-XVIIl.- Gestionar, en su caso, ante el Oficial del Registro Civil o en Coordinación con la Dirección del Registro Civil del Estado de Querétaro, la obtención del acta de nacimiento de menores abandonados o expósitos o aquellos que no cuenten con acta, conforme a los lineamientos del Código Civil del Estado de Querétaro y disposiciones administrativas vigentes;
+XVIII.- Gestionar, en su caso, ante el Oficial del Registro Civil o en Coordinación con la Dirección del Registro Civil del Estado de Querétaro, la obtención del acta de nacimiento de menores abandonados o expósitos o aquellos que no cuenten con acta, conforme a los lineamientos del Código Civil del Estado de Querétaro y disposiciones administrativas vigentes;
 
 XIX.- Emitir dictamen que determine las condiciones de ingreso y estado en que se encuentra el menor albergado o puesto a su disposición respecto a su condición física, emocional y social;
 
 XX.- Realizar la búsqueda exhaustiva por medio de las investigaciones institucionales, de las personas que ejerzan Patria Potestad sobre los menores albergados o puestos a su disposición, con la finalidad de expedir la constancia de inexistencia de domicilio en el Estado; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Para efectos de lo establecido en el Código de Procedimientos Civiles del Estado de Querétaro, en materia del juicio de pérdida de patria potestad, tendrá la facultad de requerir los informes al Instituto Federal Electoral, al Instituto Mexicano del Seguro Social y a la Secretaría de Planeación y Finanzas de (sic) Gobierno del Estado, con el objeto de determinar el domicilio de quien ejerza la patria potestad de un menor puesto a su disposición o acogido por una institución de asistencia pública o privada, así como solicitar al titular de la Procuraduría General de Justicia del Estado, la colaboración de la dependencia a su cargo para que, a través de la Dirección de Investigación del Delito, se realice la investigación que pueda determinar el domicilio de las citadas personas y la investigación de la filiación, tratándose de menores expósitos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
 XXI.- Ejercer la representación legítima del Consejo Técnico de Adopciones, en los términos establecidos por el Código Civil del Estado de Querétaro, el respectivo reglamento del Consejo y demás disposiciones aplicables; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -525,7 +527,7 @@ IV.- Asistir a las sesiones del Patronato y Junta Directiva; y
 
 V.- Las demás que le asigne la Ley.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO], P.O. 10 DE MARZO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADO], P.O. 10 DE MARZO DE 2008)</small>
 
 ### CAPITULO IX. DE LAS RELACIONES LABORALES
 
@@ -575,7 +577,7 @@ EL C. SECRETARIO DE GOBIERNO
 
 LIC. JOSE MARIA HERNANDEZ SOLIS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE JUNIO DE 1993
 
@@ -634,3 +636,13 @@ Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple
 Artículo Cuarto. El Poder Ejecutivo del Estado de Querétaro, proporcionará los recursos necesarios para asegurar la efectiva aplicación de esta Ley y la operatividad de las autoridades involucradas.
 
 Artículo Quinto. Se derogan todas las disposiciones de igualo menor jerarquía que se opongan a la presente Ley.
+
+P.O. 23 DE AGOSTO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor 180 días naturales siguientes a su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley que crea el Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro, publicada en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" el 26 de Diciembre de 1985, así como sus posteriores adiciones y reformas.
+
+Artículo Tercero. No obstante la abrogación de la Ley que se describe en el artículo anterior, el organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro, creado mediante la misma, subsiste con su patrimonio, obligaciones y derechos. Por lo que ve a su estructura y atribuciones se atenderá a las previsiones del presente ordenamiento.
+
+Artículo Cuarto. El titular del Poder Ejecutivo del Estado de Querétaro emitirá las normas reglamentarias previstas en esta Ley y que resulten necesarias para su aplicación, en un plazo no mayor de 150 días naturales contados a partir de la entrada en vigor de este ordenamiento legal, ordenando su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
