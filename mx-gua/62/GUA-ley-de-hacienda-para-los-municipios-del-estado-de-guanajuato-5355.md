@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "2013-06-07"
+last_updated: "2013-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -2585,11 +2585,9 @@ Artículo Único.- El presente decreto entrará en vigor el cuarto día siguient
 
 P.O. 21 DE DICIEMBRE DE 2012.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
-
-Artículo Primero. El presente Decreto entrará en vigencia el 1 de septiembre de 2013, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2014, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. El Poder Ejecutivo del Estado establecerá conjuntamente con los municipios de la Entidad, convenios con la Comisión Federal de Electricidad para el cobro del servicio de alumbrado público, que garantice la equidad y trato igual a los mismos, así como para establecer un programa de reducción de costos por la prestación del servicio.
 
@@ -2602,3 +2600,11 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 23 DE AGOSTO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Para el caso de los municipios que no realicen directamente el cobro de los derechos por la prestación del servicio de alumbrado público, los ayuntamientos respectivos a más tardar el 1 de noviembre de 2013 gestionarán la firma de los convenios correspondientes con la Comisión Federal de Electricidad.
+
+Artículo Tercero. Para efectos del artículo anterior, el Ejecutivo del Estado, a través de la Secretaría de Finanzas, Inversión y Administración gestionará el finiquito o término del convenio suscrito con la Comisión Federal de Electricidad, del 24 de julio de 1991.
