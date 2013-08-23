@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2012-10-26"
+last_updated: "2013-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -139,13 +139,25 @@ IV.- Determinar la existencia de responsabilidad administrativa, imponiendo y ap
 
 V.- En caso de presumirse la comisión de ilícitos sancionados por el Código Penal del Estado o de la Federación, presentar las denuncias o querellas ante las autoridades competentes;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
 
-VI.- Dictar las medidas preventivas correspondiente (sic); y
+VI.- Dictar las medidas preventivas correspondientes;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
 
-VII.- Todas aquellas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
+VII.- Si con motivo de la Auditoría Interna se llegaren a encontrar irregularidades graves o en su caso, se haya presentado denuncia penal por las citadas irregularidades, informar de ello al Congreso del Estado y al Órgano de Fiscalización Superior en un plazo de cinco días hábiles contados a partir del momento en que se detecte la irregularidad o se presente la denuncia penal correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE AGOSTO DE 2013)</small>
+
+VIII.- Recibir del Órgano de Fiscalización Superior, las observaciones resultantes de la revisión de las cuentas públicas y proceder de conformidad a lo establecido por la Ley de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE AGOSTO DE 2013)</small>
+
+IX.- Recibir del Congreso del Estado los Dictámenes derivados de las cuentas públicas correspondientes, para su debido cumplimiento, según lo establecido en los Artículos 63 y 64 de la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE AGOSTO DE 2013)</small>
+
+X.- Todas aquéllas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
@@ -636,3 +648,7 @@ P.O. 26 DE OCTUBRE DE 2012.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Ayuntamientos de Ensenada, Mexicali y Tijuana tendrán un plazo de 180 días a partir de la entrada en vigor del presente decreto para expedir las disposiciones reglamentarias derivadas de esta reforma.
+
+P.O. 23 DE AGOSTO DE 2013.
+
+ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
