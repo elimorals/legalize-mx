@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2013-02-15"
+last_updated: "2013-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -177,7 +177,9 @@ Cuando exista duda respecto de la competencia de las Dependencias para la atenci
 
 Para el estudio, planeación y despacho de los negocios en los diversos ramos de la Administración Pública del Estado, habrá un Secretario General de Gobierno.
 
-Además de la Secretaría General de Gobierno, actuarán en su caso, directamente en el desempeño de las funciones encomendadas al Titular del Poder Ejecutivo, las siguientes Dependencias:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2013)</small>
+
+Además de la Secretaría General de Gobierno, actuarán en su cargo (sic) directamente en el desempeño de las funciones encomendadas al Titular del Poder Ejecutivo, las siguientes dependencias:
 
 I.- Oficialía Mayor de Gobierno;
 
@@ -235,11 +237,7 @@ XVIII.- Dirección de Control y Evaluación Gubernamental, y (sic)
 
 XIX.- Secretaría de Pesca y Acuacultura.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2012)</small>
-
-XX.- La Secretaría de Protección Civil.
+XX.- (DEROGADA, P.O. 23 DE AGOSTO DE 2013)
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
@@ -335,9 +333,9 @@ XVIII.- Dirigir y orientar la prevención de la delincuencia y de toda conducta 
 
 XIX.- Vigilar la marcha general de la administración pública, para asegurar el cumplimiento de las instrucciones y criterios generales que hubieren sido dictados por el titular del Ejecutivo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE AGOSTO DE 2013)</small>
 
-XX.- (DEROGADA, P.O. 1 DE JUNIO DE 2012)
+XX.- Establecer el sistema estatal de protección civil; coordinar las acciones y programas del Ejecutivo, relativos a la prevención de desastres; así como, ordenar la participación civil en eventos de emergencia, a fin de controlar y disminuir los daños materiales y humanos;
 
 > <small>(REFORMADA, P.O. 3 DE ENERO DE 2003)</small>
 
@@ -1449,25 +1447,7 @@ XVII.- Impulsar la investigación acuícola y pesquera, la transferencia de tecn
 
 XVIII.- Las demás que no estén otorgadas expresamente a la Federación y a los Municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2012)</small>
-
-ARTICULO 40 BIS.- La Secretaría de Protección Civil, le corresponde la atención y trámite de los siguientes asuntos:
-
-I.- Cumplir y hacer cumplir la Ley estatal de protección civil en el estado, particularmente ejerciendo las atribuciones contenidas en el artículo 13;
-
-II.- Participar en la planeación estatal en la materia de protección civil;
-
-III.- Coordinar las acciones contenidas en los programas referentes a la protección civil;
-
-IV.- Representar al ejecutivo de Estado en el sistema nacional de Emergencias;
-
-V.- Elaborar los anteproyectos de presupuesto de egresos del área;
-
-VI.- Brindar asesoría a los ayuntamientos para la formulación de los programas de protección civil y su reglamentación respectiva; y
-
-VII.- Las demás que se determinen expresamente de la Ley de la materia y sus reglamentos respectivos.
+ARTICULO 40 BIS.- (DEROGADO, P.O. 23 DE AGOSTO DE 2013)
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -2066,3 +2046,9 @@ P.O. 15 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El personal, los bienes, recursos presupuestales e información que la Secretaría de Protección Civil haya utilizado o estén asignados para la atención de los asuntos de su competencia, se destinarán a las atribuciones y funciones de la Coordinación Estatal de Protección Civil que se crea con este Decreto.
