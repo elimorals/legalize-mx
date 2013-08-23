@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-derechos-y-cultura-indigena-del-estado-de-baja-57503"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-26"
-last_updated: "2013-05-24"
+last_updated: "2013-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE DERECHOS Y CULTURA INDIGENA DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE DERECHOS Y CULTURA INDIGENA DEL ESTADO DE BAJA CALIFORNIA
+LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 26 de octubre de 2007.
 
@@ -58,6 +58,10 @@ Esta Ley reconoce los derechos colectivos, a los siguientes pueblos indígenas: 
 Las comunidades indígenas pertenecientes a cualquier otro pueblo, procedentes de otro estado de la república y que residan temporal o permanentemente dentro del territorio del Estado de Baja California, podrán acogerse a esta ley.
 
 La conciencia de su identidad indígena será criterio fundamental para determinar a quienes se aplican las disposiciones que sobre pueblos indígenas se establezcan en esta y otras Leyes de la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2013)</small>
+
+Con el objeto de promover el reconocimiento, preservación y defensa de los derechos y cultura de los pueblos indígenas en nuestro Estado, el 9 de agosto de cada año, se habrá de celebrar en la Entidad el Día de los Pueblos Indígenas de Baja California, con diversas actividades a cargo de las dependencias de la administración pública estatal y municipal.
 
 ###### Artículo 3.
 
@@ -205,7 +209,7 @@ VII. Apoyar las actividades productivas, mediante la orientación para el foment
 
 VIII. Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio nacional como en el extranjero; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
 
-## TÍTULO CUARTO (SIC). TIERRAS, TERRITORIOS Y RECURSOS NATURALES
+## TÍTULO CUARTO (SIC). TIERRAS, TERRITORIOS Y RECURSOS NATURALEZ
 
 ### CAPÍTULO I. PROTECCIÓN DE LOS RECURSOS NATURALES
 
@@ -338,3 +342,7 @@ P.O. 24 DE MAYO DE 2013
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 23 DE AGOSTO DE 2013
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
