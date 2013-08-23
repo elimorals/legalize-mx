@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "2013-04-12"
+last_updated: "2013-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -289,13 +289,15 @@ II.- 1% para cubrir íntegramente el Seguro de Accidentes de Trabajo y Enfermeda
 
 III.- 10% para cubrir las prestaciones señaladas en las Fracciones II a XI y XIII a XIV del Artículo 4o. de esta Ley.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 22.
 
-Las Autoridades Públicas y Organismos Incorporados efectuarán el pago de las cuotas y aportaciones a que se refieren los artículos 16 y 21 de esta Ley, a más tardar diez días naturales posteriores a la fecha de pago de los salarios, por conducto de sus respectivas tesorerías o departamentos correspondientes. Cuando no se enteren las cuotas y aportaciones dentro del plazo fijado, se aplicarán recargos conforme a la tasa que prevea la Ley de Ingresos del Estado en el ejercicio fiscal vigente a la fecha del pago; en caso de liquidaciones parciales, los pagos se aplicarán a los créditos más antiguos y antes de éstos a los recargos moratorios. También enterarán dentro del plazo antes señalado, el importe de los descuentos que el Instituto orden (sic) se hagan a los trabajadores por otros adeudos con motivo de la aplicación de esta Ley.
+Las Autoridades Públicas y Organismos Incorporados efectuarán el pago de las cuotas y aportaciones a que se refieren los artículos 16 y 21 de esta Ley, a más tardar diez días naturales posteriores a la fecha de pago de los salarios, por conducto de sus respectivas tesorerías o departamentos correspondientes. Cuando no se enteren las cuotas y aportaciones dentro del plazo fijado, se aplicarán recargos conforme a la tasa que prevea la Ley de Ingresos del Estado en el ejercicio fiscal vigente a la fecha del pago; en caso de liquidaciones parciales, los pagos se aplicarán a los créditos más antiguos y antes de éstos a los recargos moratorios. El cobro de dichas cuotas y aportaciones podrá hacerse exigible a través del procedimiento administrativo de ejecución que establece el Código Fiscal del Estado de Baja California. También enterarán dentro del plazo antes señalado, el importe de los descuentos que el Instituto ordene se hagan a los trabajadores por otros adeudos con motivo de la aplicación de esta Ley.
 
 En ningún caso se condonarán totalmente los recargos; sólo la Junta Directiva podrá acordar la condonación parcial.
+
+En caso de incumplimiento serán sujetos a las sanciones establecidas en el Capítulo Decimoquinto de esta Ley.
 
 ### CAPITULO TERCERO
 
@@ -1375,11 +1377,11 @@ Los servidores públicos que incumplan con las obligaciones que les impone esta 
 
 Los servidores públicos encargados de cubrir salarios y no efectúen los descuentos que procedan en los términos de esta Ley, serán sancionados con una multa equivalente al 20% de las cantidades no descontadas, independientemente de la responsabilidad civil, penal o administrativa en que incurran, sin perjuicio de regularizar la situación en los términos del Artículo 20.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 136.
 
-Las sanciones pecunarias (sic) previstas en los artículos anteriores, se impondrán con sujeción al procedimiento referido en el Título Tercero de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+Las sanciones pecuniarias previstas en los artículos anteriores, podrán hacerse exigibles a través del Procedimiento Administrativo de Ejecución que prevé el Código Fiscal del Estado de Baja California, ello con independencia de la responsabilidad administrativa en que pueda incurrir el servidor público y que se encuentra establecida en el Título Tercero de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, además de aquellas implicaciones de carácter civil y penal.
 
 ###### ARTICULO 137.
 
@@ -1590,3 +1592,7 @@ P.O. 12 DE ABRIL DE 2013.
 PRIMERO.- El presente decreto entrará en vigor el primero de noviembre del año dos mil trece.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de la publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 23 DE AGOSTO DE 2013.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
