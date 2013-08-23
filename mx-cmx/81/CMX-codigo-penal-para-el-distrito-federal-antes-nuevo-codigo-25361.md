@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2013-01-30"
+last_updated: "2013-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE AGOSTO DE 2013.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2270,6 +2270,8 @@ Los delitos previstos en este Capítulo, se perseguirán por querella.
 
 ### CAPÍTULO X. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 212.
 
 (DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
@@ -2732,27 +2734,25 @@ En ningún caso podrá imponerse pena privativa de libertad que exceda del máxi
 
 ###### ARTÍCULO 246.
 
-Los delitos previstos en este título se perseguirán por querella, cuando sean cometidos por un ascendiente, descendiente, cónyuge, parientes por consaguinidad (sic) hasta el segundo grado, adoptante o adoptado, concubina o concubinario, pareja permanente o parientes por afinidad hasta el segundo grado.
+Los delitos previstos en este título se investigarán por querella, cuando sean cometidos por un ascendiente, descendiente, cónyuge, parientes por consanguinidad hasta el segundo grado, adoptante o adoptado, concubina o concubinario, pareja permanente o parientes hasta el segundo grado.
 
 Igualmente se requerirá querella para la persecución de terceros que hubiesen participado en la comisión del delito, con los sujetos a que se refiere este párrafo.
 
-Se perseguirán por querella los delitos previstos en los artículos:
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+Se investigarán por querella los delitos previstos en los artículos:
 
-a) 220, cuando el monto de lo robado no exceda de cincuenta veces el salario mínimo, salvo que concurra alguna de las agravantes a que se refieren las fracciones VIII y IX del artículo 223 o las previstas en el artículo 224, o cualquiera de las calificativas a que se refiere el artículo 225.
+a) 220, sin importar el monto de lo robado, salvo que concurra alguna de las agravantes a que se refieren las fracciones VIII y IX del artículo 223 o las previstas en las fracciones I y VIII del artículo 224, o cualquiera de las calificativas a que se refiere el artículo 225;
 
-b) 222, 227, 228, 229, 230, 231, 232, 234 y 235.
+b) 221 fracción II, 222, 227, 228, 229, 230, 231, 232, 233 bis, 234 y 235;
 
-c) 237, salvo que el delito se cometa en alguna de las hipótesis a que se refiere el artículo 238; y
+c) 237, salvo cuando se cometa con violencia o se cometa en alguna de las hipótesis a que se refiere el artículo 238, y
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+d) 239, 240, 241 y 242;
 
-d) 239, 240 y 242;
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
-
-Se perseguirán de oficio los delitos a que se refieren los artículos 227, 228, 229, 230, 231, 232, 233, 234, 235 y 241, cuando el monto del lucro o valor del objeto exceda de cinco mil veces el salario, o cuando se cometan en perjuicio de dos o más ofendidos.
+Se investigarán de oficio los delitos a que se refieren los artículos 227, 228, 229, 230, 231, 232, 233, 234, 235 y 241 cuando se cometan en perjuicio de dos o más víctimas.
 
 > <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
 
@@ -4825,3 +4825,13 @@ G.O. 30 DE ENERO DE 2013.
 PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
+
+G.O. 23 DE AGOSTO DE 2013.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Los asuntos cuya demanda haya sido presentada con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
