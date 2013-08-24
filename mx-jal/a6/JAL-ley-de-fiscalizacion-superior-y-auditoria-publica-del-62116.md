@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-auditoria-publica-del-62116"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-05"
-last_updated: "2012-05-24"
+last_updated: "2013-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE FISCALIZACION SUPERIOR Y AUDITORIA PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
+LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORIA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO LEGISLATIVO PUBLICADO EN EL P.O. 24 DE AGOSTO DE 2013, DEJA SIN EFECTO LA FE DE ERRATAS RELATIVA AL DECRETO 22221/LVIII/08, PUBLICADA EN EL P.O. DE 24 DE MAYO DE 2012.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 24 DE MAYO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 5 de julio de 2008.
 
@@ -135,7 +135,7 @@ Este informe deberá remitirse al Congreso del Estado a más tardar el último d
 
 ###### Artículo 5°.
 
-El Poder Legislativo se coordinará con las entidades fiscalizables en el diseño del sistema de evaluación del desempeño, el cual podrán operar de manera electrónica, con el fin de que todos los entes y sujetos fiscalizados registren anualmente el grado de cumplimiento de sus metas y objetivos, de conformidad con el artículo 6°. de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Planeación para el Estado de Jalisco y sus Municipios.
+El Poder Legislativo se coordinará con las entidades fiscalizables en el diseño del sistema de evaluación del desempeño, el cual podrán operar de manera electrónica, con el fin de que todos los entes y sujetos fiscalizados registren anualmente el grado de cumplimiento de sus metas y objetivos, de conformidad con el artículo 6.° de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Planeación para el Estado de Jalisco y sus Municipios.
 
 El Congreso del Estado a través de sus comisiones legislativas, de conformidad con la Ley de Planeación para el Estado de Jalisco y sus Municipios, podrá analizar los planes y programas que les presente el titular del Poder Ejecutivo para emitir sus observaciones, las cuales, previa valoración, podrán ser aprobadas por la Asamblea, para que sean remitidas al Poder Ejecutivo.
 
@@ -1229,9 +1229,7 @@ Las cuentas públicas y estados financieros que sean objeto de observaciones de 
 
 La comisión podrá regresar a la Auditoría Superior, las cuentas públicas o estados financieros con observaciones, para que en un término de noventa días naturales, analice su inclusión en el informe final devuelto.
 
-> <small>(F. DE E. 24 DE MAYO DE 2012)</small>
-
-En caso de que el Congreso del Estado rechace un dictamen de cuenta pública o estados financieros, el Presidente de la mesa directiva deberá ordenar expedir el finiquito correspondiente a los sujetos fiscalizables, siempre y cuando dicho dictamen no proponga la constitución de un crédito fiscal.
+En caso de que el Congreso del Estado rechace un dictamen de cuenta pública o estados financieros, el Presidente de la mesa directiva deberá ordenar expedir el finiquito correspondiente a los sujetos fiscalizables, siempre y cuando dicho dictamen proponga la constitución de un crédito fiscal.
 
 ###### Artículo 88.
 
@@ -1550,3 +1548,7 @@ P.O. 31 DE DICIEMBRE DE 2009.
 P.O. 20 DE NOVIEMBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 24 DE AGOSTO DE 2013.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
