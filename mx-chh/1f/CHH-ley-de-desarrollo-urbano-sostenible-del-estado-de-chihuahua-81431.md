@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-sostenible-del-estado-de-chihuahua-814
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-14"
-last_updated: "2012-05-19"
+last_updated: "2013-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de mayo de 2011.
 
@@ -331,7 +331,9 @@ XCVII. Vivienda Popular.- Aquella cuyo valor, al término de su edificación, no
 
 XCVIII. Vivienda de Interés Social.- Aquella cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por quince el salario mínimo general elevado al año;
 
-XCIX. Vivienda Económica.- Es la vivienda con una superficie de construcción variable entre 46 y 55 metros cuadrados;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
+
+XCIX. Vivienda Económica Horizontal.- Es la vivienda nueva que cumple con la normatividad municipal y con los lineamientos, criterios y parámetros de sustentabilidad establecidos por el Comité Técnico de Evaluación de la Comisión Nacional de Vivienda (CONAVI), y su valor no excede de 128 S.M.G.V.M. (Salario Mínimo General Vigente Mensual para el área geográfica "A").
 
 C. Zona de Atención Prioritaria (ZAP).- Áreas geográficas urbanas o rurales que requieren atención especial debido a que presentan déficit alto en uno o más índices de desarrollo sostenible;
 
@@ -1597,7 +1599,9 @@ Mientras no se realice la entrega-recepción, el fraccionador está obligado a l
 
 Los fraccionamientos habitacionales urbanos, serán aquellos que se encuentren dentro del Límite de Centro de Población y en predios con potencial urbano. Se destinarán exclusivamente a la construcción de vivienda y usos compatibles siendo éstos unifamiliares, multifamiliares, de uso mixto o en régimen en condominio.
 
-El lote mínimo se determinará en el Programa de Desarrollo Urbano Sostenible de Centro de Población en función del potencial urbano, de las alturas y características dispuestas para cada colonia, sector o centro de población. Cuando no se cuente con Programa de Desarrollo Urbano Sostenible de Centro de Población, se aplicará lo siguiente:
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+
+El lote mínimo y su frente se determinarán en el Programa de Desarrollo Urbano Sostenible de Centro de Población en función del potencial urbano, de las alturas y características dispuestas para cada colonia, sector o centro de población. Cuando no se cuente con Programa de Desarrollo Urbano Sostenible de Centro de Población, se aplicará lo siguiente:
 
 I. De tipo residencial.- Destinados para la construcción de vivienda unifamiliar, dúplex y edificios en régimen de propiedad en condominio, cuyos lotes tengan una superficie no menor a 300 metros cuadrados;
 
@@ -1813,6 +1817,8 @@ En este caso, el fraccionador quedará obligado a urbanizarlas a su costa.
 
 #### SECCIÓN VI. DE LA PAVIMENTACIÓN
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 101.
 
 Las áreas de dotación son aquellas superficies de terreno que se requieren para fines públicos, y se componen del suelo que entrega el fraccionador, promovente o promotor al Municipio, de forma gratuita y sin gravamen, que se destina a infraestructura, equipamiento y áreas verdes de alcance vecinal, sectorial, urbano o regional.
@@ -1839,41 +1845,35 @@ a) La transmisión directa de terrenos por los fraccionadores, promotores o prom
 
 b) La adquisición de predios baldíos, infrautilizados o subaprovechados, mediante los recursos generados por la aplicación de los instrumentos definidos en el Título Séptimo de esta Ley.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 104.
 
-El porcentaje, superficie mínima y ubicación de las áreas de dotación, cuyo destino sea el equipamiento y áreas verdes, serán definidos en el Programa de Desarrollo Urbano Sostenible de Centro de Población; de lo contrario, se determinarán de la siguiente manera:
+El porcentaje, superficie mínima, forma de calcular y lineamientos para la ubicación de las áreas de dotación, cuyo destino sea el equipamiento y áreas verdes, serán definidos en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población.
+
+La superficie de las áreas de dotación a que se refiere el párrafo anterior, en ningún caso podrá ser menor al resultado del cálculo establecido en el presente artículo, y podrá ser superior hasta en un 8% adicional, siempre y cuando este porcentaje adicional sea justificado en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población.
+
+En las Zonas o Municipios, donde no se cuente con Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, o en el mismo no se establezcan las áreas de dotación, se aplicará lo siguiente:
 
 I. En fraccionamientos habitacionales:
 
-a) Con densidad bruta hasta cuarenta viviendas por hectárea, el once por ciento de la superficie total del predio a fraccionar;
+a) Con densidad bruta hasta de cuarenta viviendas por hectárea, el once por ciento de la superficie a fraccionar.
 
-b) Con densidad bruta de cuarenta y una a ochenta viviendas por hectárea, el doce por ciento de la superficie total del predio a fraccionar;
+b) Con densidad bruta de cuarenta y una a ochenta viviendas por hectárea, el doce por ciento de la superficie a fraccionar.
 
-c) Con densidad bruta mayor a ochenta viviendas por hectárea, veinte metros cuadrados por unidad de vivienda;
+c) Con densidad bruta mayor a ochenta viviendas por hectárea, veinte metros cuadrados por unidad de vivienda.
 
-d) En las zonas de interés ambiental se atenderá a lo estipulado en los planes o programas de desarrollo urbano, y
+II. En fraccionamientos comerciales, el doce por ciento de la superficie a fraccionar;
 
-e) En caso de requerirse una superficie mayor, la autoridad deberá proveer la diferencia de acuerdo a la siguiente tabla:
+III. En fraccionamientos industriales, el diez por ciento de la superficie a fraccionar; y
 
-Den- Habi Habi- M 2 por Porcen- Porcen- Porcen-
+IV. En fraccionamientos campestres, el diez por ciento de la superficie a fraccionar.
 
-sidad tan- tan- habitan- taje re- taje del taje apor-
+El área de dotación deberá calcularse sobre la superficie que resulte de descontar a la superficie total del proyecto, las afectaciones o limitaciones por vialidades primarias, restricciones federales, estatales y/o municipales, tales como derecho de vía, cauces y zonas federales de arroyos y ríos, entre otros. En caso de que la superficie afectada o limitada deje de serlo por cualquier circunstancia, para promover su desarrollo, deberá sujetarse al procedimiento establecido por la Ley.
 
-vivien- tes tes te querido polígono tado por
+Las áreas de dotación contempladas en este artículo deberán siempre cumplir con lo previsto en el artículo 105 de la Ley.
 
-das por por aportado autoridad
-
-por vi- Ha por el de-
-
-Ha vien- sarrolla- da dor
-
-25 4.2 105 11.00 11.55% 11.00% 0.6%
-
-35 4.2 142 11.00 16.12% 11.00% 5.2%
-
-45 4.2 189 11.00 20.29% 17.00% 8.8%
-
-II. En cada municipio que cuente con un Instituto de Planeación, se creará un organismo administrador de las áreas de donación para equipamiento urbano que vía un fideicomiso lleve a cabo, entre otras, las siguientes acciones:
+En cada municipio que cuente con un Instituto de Planeación, se creará un organismo administrador de las áreas de dotación para equipamiento urbano, por lo que las dotaciones deberán pasar a un fideicomiso, el cual llevará a cabo, entre otras, las siguientes acciones:
 
 a) Adquirir reservas territoriales según requerimientos de cada dependencia;
 
@@ -1883,23 +1883,17 @@ c) Establecer mecanismos de valuación y venta de propiedades;
 
 d) Administrar y operar los fondos económicos;
 
-e) Las donaciones deberán pasar al fideicomiso del ayuntamiento;
+e) Evaluar las solicitudes para la adquisición de las reservas, y
 
-f) Evaluar las solicitudes para la adquisición de las reservas, y
+f) Elaborar y publicar un plan anual de estudios y necesidades de reservas.
 
-g) Elaborar y publicar un plan anual de estudios y necesidades de reservas.
+El organismo administrador de las áreas de dotación tendrá la obligación de utilizar el monto recibido para la adquisición de terrenos destinados a equipamiento y áreas verdes.
 
-III. Los municipios tendrán la obligación de utilizar el monto recibido para la adquisición de terrenos destinados a equipamiento y áreas verdes;
+Participarán en la integración del organismo administrador, representantes de las Autoridades Gubernamentales, Municipio y Estado, Iniciativa Privada, Institutos de Planeación y Colegios de Profesionistas ligados al tema.
 
-IV. Participarán en la integración del organismo administrador, representantes de: Autoridades Gubernamentales, Municipio y Estado, Iniciativa Privada, IMPLAN, colegios de profesionistas ligados al tema;
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2013)</small>
 
-V. La creación de estos organismos administradores de las donaciones, deberá quedar establecida a más tardar en un plazo de seis meses a partir de la publicación de la presente Ley;
-
-VI. Fraccionamientos comerciales, el doce por ciento de la superficie total a fraccionar;
-
-VII. Fraccionamientos industriales y campestres, el diez por ciento de la superficie total a fraccionar, y
-
-VIII. En las zonas de interés ambiental se atenderá a lo estipulado en los Programas de Desarrollo Urbano Sostenible.
+ARTÍCULO 104 bis. En las Zonas o Municipios, donde no se cuente con Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, o en el mismo no se establezcan las áreas de dotación, se podrá ampliar el porcentaje a que se refieren las fracciones I a IV del artículo anterior, en un 8% adicional, cuando en el predio a urbanizar se requieran realizar obras de captación pluvial con el fin de hacer apto el predio para el desarrollo urbano. Dicho porcentaje de dotación adicional deberá ser determinado y justificado técnicamente mediante un estudio hidrológico a petición de la autoridad, obligándose el desarrollador a solventar y realizar las obras que se determinen en dicho estudio.
 
 ###### ARTÍCULO 105.
 
@@ -2017,11 +2011,13 @@ Tratándose de vialidades regionales, primarias y secundarias, se estará a lo d
 
 ###### ARTÍCULO 123.
 
-Las calles deben quedar capacitadas para desalojar escurrimientos superficiales, para evitar encharcamientos y afectación a guarniciones, redes de instalaciones, banquetas y construcciones colindantes; deberá realizarse un proyecto isométrico en función de la topografía, en donde las pendientes de las calles los dirijan hacia las áreas verdes, las cuales deberán recibir un tratamiento con materiales arenosos de acuerdo a los criterios de diseño de pozos de absorción.
+Las calles deben quedar capacitadas para desalojar escurrimientos superficiales, para evitar encharcamientos y afectación a guarniciones, redes de instalaciones, banquetas y construcciones colindantes.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
 
 ###### ARTÍCULO 124.
 
-Los espesores mínimos y máximos de pavimentación, podrán variar en función de la calidad de la capa de subrasante o de las capas de terreno natural que se encuentren en el lugar.
+Los espesores de pavimentación y subrasantes se harán de acuerdo a los estudios de mecánica de suelo y tráfico vehicular previstos, según sea el caso.
 
 ###### ARTÍCULO 125.
 
@@ -2039,11 +2035,15 @@ En los centros de población estratégicos de nivel estatal y regional, la pavim
 
 I. En las vialidades regionales y primarias que determine el Plan de Desarrollo Urbano Sostenible de Centros de Población;
 
-II. En vialidades con escurrimientos pluviales importantes;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
+
+II. En vialidades con escurrimientos pluviales importantes, de acuerdo a estudios derivados de cada situación en particular;
 
 III. En cruceros con áreas de frenado constante, y
 
-IV. En paradas de autobús.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
+
+IV. En paradas de autobús, de acuerdo a estudios de cada situación en particular.
 
 Las vialidades que no se encuentren en los supuestos anteriores, podrán ser ejecutadas a base de pavimento asfáltico u otros definidos en el Reglamento de esta Ley.
 
@@ -2063,9 +2063,11 @@ El Conjunto Urbano que se define en el artículo 5 de la presente Ley, podrá se
 
 Se deberá obtener del Municipio la autorización para la subdivisión de los predios en áreas privadas y comunes, la cual se insertará en la escritura pública respectiva.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 131.
 
-Todo conjunto urbano en régimen en condominio, deberá satisfacer los mismos requisitos de urbanización dispuestos en el artículo 81 de la presente Ley. Además, se deberá obtener del Municipio la autorización para la subdivisión de los predios en áreas privadas y comunes, la cual se insertará en la escritura pública respectiva.
+Todo conjunto urbano en régimen en condominio, deberá satisfacer los requisitos dispuestos en el artículo 92 de la presente Ley.
 
 ###### ARTÍCULO 132.
 
@@ -2103,17 +2105,11 @@ Cuando el régimen de propiedad en condominio se disuelva o extinga, las vías i
 
 ### CAPÍTULO IV. DE LA VIVIENDA EN EL DESARROLLO URBANO SOSTENIBLE
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 137.
 
-Además de lo que señalan el Código de Edificación de Vivienda, la Ley de Vivienda del Estado de Chihuahua y su Reglamento, las normas para la construcción de vivienda que atenderán los diseñadores, constructores, comercializadoras y financiadores de vivienda que participen en programas o proyectos con participación del Gobierno del Estado, de los Municipios y los particulares, serán las siguientes:
-
-I. Características generales: Energéticamente eficientes, diseño para el clima local y, en el caso de vivienda con financiamiento parcial o total de cualquier orden de gobierno, un por ciento gradualmente creciente con aplicaciones de tecnologías verdes;
-
-II. Entre otros aspectos deberá considerarse la racionalización del uso del agua y, cuando sea factible, sus sistemas de reutilización;
-
-III. Orientación óptima para la zona, infiltración de agua pluvial al subsuelo y, en caso de ser factible, el aprovechamiento de fuentes alternas de energía, y
-
-IV. La adopción de medidas que eviten la contaminación visual, auditiva, del aire, del agua y del suelo.
+Sin menoscabo del cumplimiento de la legislación aplicable, los constructores, comercializadores y financiadores de vivienda que participen en programas o proyectos, tendientes a la incorporación de tecnologías verdes, con participación estatal y/o municipal, deberán sujetarse a las disposiciones que al efecto prevea el reglamento de esta Ley, o bien, a los términos de referencia que al efecto se expida.
 
 ###### ARTÍCULO 138.
 
@@ -2217,15 +2213,19 @@ VIII. Las restricciones de urbanización y construcción que correspondan, de co
 
 IX. Los demás datos, elementos, criterios o lineamientos que se deriven de la legislación y de los Programas de Desarrollo Urbano Sostenible.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 149.
 
-Será necesaria la obtención de licencia de uso del suelo para toda acción urbana, y cuando se trate de las siguientes acciones:
+Sólo será necesaria la obtención de la licencia de uso de suelo cuando se trate de acciones urbanas:
 
-I. La construcción de obras de cabeza o de redes de infraestructura primaria;
+I. Que requieran de la construcción de obras de cabeza o de redes de infraestructura primaria;
 
-II. La autorización de un fraccionamiento habitacional y rural o campestre, y
+II. Cuando este condicionado por un Plan de Desarrollo Urbano vigente;
 
-III. Se pretenda hacer un cambio de uso de suelo.
+III. Referentes a fraccionamientos campestres, y
+
+IV. Relativas a cambio de uso de suelo.
 
 ###### ARTÍCULO 150.
 
@@ -2271,7 +2271,9 @@ Tomando en cuenta la naturaleza y magnitud de la obra por ejecutar, las licencia
 
 Los requisitos básicos para autorizar un fraccionamiento o conjunto urbano, serán los siguientes:
 
-I. Dictamen favorable de impacto urbano y ambiental, y licencia de uso de suelo expedida por las autoridades competentes;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
+
+I. Constancia de zonificación del suelo y dictamen de impacto urbano y ambiental, en caso de que se requiera;
 
 II. Títulos que acrediten la propiedad de los terrenos, inscritos en el Registro Público de la Propiedad;
 
@@ -2279,11 +2281,13 @@ III. Constancia de medidas y colindancias;
 
 IV. Proyecto de ingenierías de redes de infraestructura y de urbanización;
 
-V. Factibilidad de servicios de agua, drenaje sanitario, electrificación, alumbrado público, aseo urbano, seguridad pública, protección civil, servicio de educación básica, comercio y abasto;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
+
+V. Factibilidad de servicios de agua, drenaje sanitario y electrificación;
 
 VI. Programa de las etapas de realización de las obras de urbanización, en el cual se determinará el orden de prioridad para su ejecución;
 
-VII. Estudio económico que contemple la factibilidad de la realización de las obras determinando las inversiones a realizar y la participación individualizada de los adquirentes, y
+VII. (DEROGADA, P.O. 24 DE AGOSTO DE 2013)
 
 VIII. Acta constitutiva de la institución fraccionadora o promotora.
 
@@ -2325,7 +2329,9 @@ IV. Contar con el certificado de libertad de gravámenes al momento de la preven
 
 V. Haber cubierto los impuestos y derechos que correspondan;
 
-VI. Otorgar garantía a satisfacción del Ayuntamiento, por el valor total de las obras que falten por ejecutar, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
+
+VI. Otorgar garantía a satisfacción del Ayuntamiento, por el valor total de las obras que falten por ejecutar, en los términos dispuestos por el artículo 79, fracción IV, de la presente Ley, y
 
 VII. Presentar plano de lotificación del fraccionamiento, indicando la numeración catastral, así como los lotes numerados y acotados interiormente en el terreno.
 
@@ -2677,23 +2683,21 @@ Los habitantes y las organizaciones de la sociedad civil que participen en los p
 
 Se establece como contribución de mejoras por obra pública, de conformidad con las disposiciones vigentes de la materia, el pago o contribución para la ejecución de una obra financiada con recursos públicos que afecta a un número específico de propietarios o poseedores, sean personas físicas o jurídicas, de bienes inmuebles ubicados dentro de un área de beneficio, por un periodo de tiempo determinado.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 202.
 
-Mediante contribución de mejoras, podrán realizarse las obras públicas siguientes:
+Mediante contribución de mejoras, podrán realizarse las obras públicas de rehabilitación siguientes:
 
-I. Introducción, ampliación y rehabilitación de sistemas de agua potable y drenaje;
+I. Sistemas de agua potable y drenaje;
 
-II. Construcción, ampliación y rehabilitación de sistemas para el saneamiento del agua;
+II. Sistemas para el saneamiento del agua;
 
 III. Urbanizaciones:
 
 a. Guarniciones y banquetas.
 
 b. Construcción, pavimentación, repavimentación o mantenimiento de calles, vialidades o caminos rurales.
-
-IV. Adquisición o expropiación de inmuebles para la ejecución de obras públicas o establecimiento de áreas verdes, y
-
-V. En general, cualquier obra pública o acción de beneficio social.
 
 ###### ARTÍCULO 203.
 
@@ -3242,3 +3246,19 @@ Los Ayuntamientos deberán ajustar, en su caso, los reglamentos de la materia, t
 ###### ARTÍCULO TERCERO.
 
 Los Ayuntamientos que cuenten con una población menor a la de 500 mil habitantes, podrán exentarse de la aplicación del inciso b) de la fracción IV, del artículo 150 de la Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua, previo dictamen correspondiente aprobado por el cabildo, debidamente fundado y motivado.
+
+P.O. 24 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 413/2011, QUE REFORMA LOS ARTÍCULOS 5, 83, 104, 123, 124, 127, 131, 137, 149, 152, 158 Y 202; ADICIONA DOS PÁRRAFOS AL ARTÍCULO 104; Y DEROGA LA FRACCIÓN VII DEL ARTÍCULO 152, DE LA LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 1296/2013, QUE REFORMA EL ARTÍCULO 104 Y ADICIONA EL ARTÍCULO 104 BIS, DE LA LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
