@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-administracion-de-bienes-asegurados-decomisados-516
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-02"
-last_updated: "2006-09-02"
+last_updated: "2013-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY PARA LA ADMINISTRACION DE BIENES ASEGURADOS, DECOMISADOS Y ABANDONADOS DEL ESTADO DE COLIMA
 
-LEY PARA LA ADMINISTRACION DE BIENES ASEGURADOS, DECOMISADOS Y ABANDONADOS DEL ESTADO DE COLIMA
+LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS Y ABANDONADOS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2013.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 2 de septiembre de 2006.
 
@@ -77,7 +77,9 @@ IV. Bienes Decomisados: Aquellos así declarados mediante sentencia dictada por 
 
 V. Procuraduría: La Procuraduría General de Justicia del Estado;
 
-VI. Secretaría: La Secretaría de Administración del Gobierno del Estado; y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
+
+VI. Secretaría: La Secretaría de Finanzas y Administración del Estado de Colima; y
 
 VII. Interesado: La persona que acredite interés jurídico sobre los bienes asegurados, decomisados o abandonados.
 
@@ -351,7 +353,9 @@ La Secretaría será responsable de los daños derivados de la pérdida, extrav�
 
 ## TÍTULO TERCERO. De los bienes abandonados
 
-### Capítulo Único
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+
+### Capítulo Primero. Disposiciones generales sobre el abandono de bienes
 
 ###### Artículo 40.
 
@@ -371,7 +375,9 @@ La Secretaría procederá a declarar abandonados los bienes asegurados conforme 
 
 I. Solicitará a la autoridad que decretó el aseguramiento, el informe en el que se haga constar que el interesado o su representante legal no se presentaron a recoger los bienes o a hacer reclamo alguno;
 
-II. Transcurridos los plazos previstos en los artículos 35, 40 y 41 de esta Ley, sin que el interesado o su representante legal manifiesten lo que a su derecho convenga, la Secretaría declarará que los bienes han causado abandono a favor del Estado, siendo declarados como aprovechamiento en los términos de las Leyes Fiscales del Estado; y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
+
+II. Transcurridos los plazos previstos en los artículos 35, 40, 41 y 42 Bis de esta Ley, sin que el interesado o su representante legal manifiesten lo que a su derecho convenga, la Secretaría declarará que los bienes han causado abandono a favor del Estado; y
 
 III. Una vez declarado el abandono, la Secretaría deberá requerir la ratificación de la declaración efectuada en los términos antes señalados al Juez a cuya disposición se encontraban los bienes abandonados, o en caso de que el Ministerio Público no haya ejercitado la acción penal, ante un juzgado civil, en vía de jurisdicción voluntaria.
 
@@ -383,11 +389,47 @@ En el supuesto de que las autoridades referidas consideren que alguna notificaci
 
 Contra las resoluciones dictadas en este procedimiento, no procede recurso alguno.
 
-### Capítulo Único. Del Destino
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2013)</small>
+
+### Capítulo Segundo. De los vehículos automotores abandonados
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2013)</small>
+
+###### Artículo 42 Bis.
+
+Cuando se trate de vehículos automotores asegurados, o que se encuentren en estacionamientos, encierros, corralones y confinamientos públicos, respecto de los cuales el interesado o su representante legal no hayan manifestado lo que a su derecho convenga, el plazo para que causen abandono será de un año, contado a partir:
+
+I. De la notificación de que procede su devolución, en los términos de los artículos 34 y 35 de esta Ley.
+
+II. De la fecha en que ingresó al estacionamiento, encierro, corralón o confinamiento público, si no existe un proceso judicial que le involucre.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2013)</small>
+
+###### Artículo 42 Bis 1.
+
+Vencido el plazo indicado en el numeral anterior, se procederá con la notificación prevista por el artículo 41 de esta Ley, con la excepción de que el plazo concedido al interesado o a su representante, será de cuarenta y cinco días naturales. En los casos previstos por la fracción II del artículo 7, la notificación deberá especificar la marca, submarca, tipo, año modelo, número de serie, placas de circulación y color del vehículo.
+
+El procedimiento para la declaración de abandono de vehículos automotores, será el indicado en el artículo 42 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2013)</small>
+
+###### Artículo 42 Bis 2.
+
+Los vehículos abandonados que funcionen y no necesiten reparación alguna, deberán ser rematados por la Secretaría en subasta pública.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2013)</small>
+
+###### Artículo 42 Bis 3.
+
+Aquellos vehículos abandonados que no funcionen y necesiten alguna reparación, podrán ser rematados por la Secretaría, como desecho ferroso, para su reciclaje.
+
+Se utilizarán todos los materiales de los vehículos, ferrosos y no ferrosos, para producir los bienes que puedan resultar de ellos.
+
+La ganancia obtenida del remate de estos vehículos, será aplicada, en primer término, para la reparación del daño de la víctima u ofendido y si existiere remanente su aplicación será de conformidad con el artículo 44.
 
 ## TÍTULO CUARTO. De los Bienes Decomisados
 
-### Capítulo Único
+### Capítulo Único. Del Destino
 
 ###### Artículo 43.
 
@@ -411,6 +453,8 @@ Cuando alguna autoridad municipal, hubiere colaborado en una investigación cuya
 
 ## TÍTULO QUINTO. Del Recurso de Inconformidad
 
+### Capítulo Único
+
 ###### Artículo 47.
 
 En contra de las condiciones en que se entreguen los bienes y las cuentas que rinda la Secretaría, se podrá interponer por escrito directamente ante la propia Secretaría, el recurso de inconformidad, dentro de los 5 días hábiles siguientes a la fecha de recepción de los bienes.
@@ -423,9 +467,11 @@ Al interponerse el recurso de inconformidad deberán y podrán ofrecerse toda cl
 
 Si se ofrecen pruebas que ameriten desahogo, se concederá al interesado un plazo no menor de diez ni mayor de treinta días para tal efecto. La Secretaría de Administración podrá allegarse los elementos de convicción que considere necesarios. En lo no previsto en esta ley en materia de pruebas, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 50.
 
-Concluido el período probatorio, la Secretaría de Administración resolverá dentro de los quince días siguientes.
+Concluido el período probatorio, la Secretaría resolverá dentro de los quince días siguientes.
 
 ###### Artículo 51.
 
@@ -464,3 +510,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día quince del mes de agosto del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE ADMINISTRACIÓN, LIC. LUIS MARIO LEÓN LÓPEZ. Rúbrica. EL PROCURADOR GENERAL DE JUSTICIA, LIC. ARTURO DÍAZ RIVERA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
