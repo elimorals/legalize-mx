@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-13310
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-27"
-last_updated: "2013-03-23"
+last_updated: "2013-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de agosto de 1986.
 
@@ -531,9 +531,11 @@ En el caso de defunción del jubilado la pensión pasará a los familiares derec
 
 #### SECCION TERCERA. DE LA PENSION POR INVALIDEZ
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 68.
 
-Los trabajadores que resulten inhabilitados física o mentalmente debido a accidente o riesgo de trabajo, y hayan cotizado al Instituto por lo menos durante 15 años consecutivos, tendrán derecho a pensión por invalidez, siguiendo los principios de la pensión por jubilación, en lo conducente.
+Los trabajadores que resulten inhabilitados física o mentalmente debido a accidente o riesgo de trabajo, y/o enfermedades generales, y hayan cotizado al Instituto por lo menos durante 15 años consecutivos, tendrán derecho a pensión por invalidez, siguiendo los principios de la pensión por jubilación, en lo conducente.
 
 ###### ARTICULO 69.
 
@@ -1144,3 +1146,7 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 24 DE AGOSTO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno Constitucional del Estado Libre y Soberano de Zacatecas.
