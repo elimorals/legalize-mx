@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-control-de-bebidas-con-contenido-alcoholico-del-332
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-15"
-last_updated: "2013-05-30"
+last_updated: "2013-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA EL CONTROL DE BEBIDAS CON CONTENIDO ALCOHÓLICO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 15 de junio de 2003.
 
@@ -63,17 +63,23 @@ DEL ESTADO DE DURANGO
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 1.
 
-La presente ley es de orden público, interés social y de observancia obligatoria en el territorio del Estado de Durango. Sus disposiciones tienen por objeto regular la operación y funcionamiento de establecimientos dedicados a la elaboración, envasado, transportación, almacenamiento, venta y consumo de bebidas con contenido alcohólico, así como establecer acciones para prevenir y combatir el abuso en el consumo de bebidas alcohólicas.
+La presente Ley es de orden público, interés social y de observancia obligatoria en el territorio del Estado de Durango. Sus disposiciones tienen por objeto preservar la salud frente a los riesgos derivados del abuso en el consumo de bebidas con contenido alcohólico mediante la regulación de la operación y funcionamiento de los establecimientos dedicados a la elaboración, envasado, transportación, almacenamiento, venta y consumo de bebidas con contenido alcohólico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 2.
 
-Las disposiciones de la presente Ley y los reglamentos municipales coadyuvarán a evitar y combatir el alcoholismo, a través de un estricto control de los establecimientos dedicados a la elaboración, envasado, distribución, almacenamiento, transportación, venta y consumo de bebidas con contenido alcohólico.
+Las disposiciones de la presente Ley y los reglamentos municipales deberán contribuir a evitar y combatir el nocivo consumo de alcohol, a través de un estricto control de los establecimientos dedicados a la elaboración, envasado, distribución, almacenamiento, transportación, venta y consumo de bebidas con contenido alcohólico.
 
 Con este objeto, el Ayuntamiento tiene la facultad para determinar las áreas de restricción y prohibición de venta de bebidas alcohólicas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE AGOSTO DE 2013)</small>
+
+Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, promoverán campañas de difusión e información en materia de combate al abuso en el consumo de bebidas con contenido alcohólico, orientadas a disminuir el consumo y a advertir de las consecuencias negativas que genera en la salud.
 
 ###### Artículo 3.
 
@@ -91,7 +97,13 @@ Se faculta a los Ayuntamientos, para celebrar con las personas físicas o morale
 
 Las aportaciones en efectivo o en especie que con este propósito se obtengan, se destinarán a la realización de obras de beneficio social, donde la sociedad y otras instancias de autoridad también participen.
 
-Los recursos que ingresen a las haciendas públicas de los municipios, por concepto de multas por infracciones a la presente Ley o al reglamento municipal correspondiente, se deberá destinarlos al fomento de la educación, cultura, el deporte, y/o a programas de seguridad pública y contra adicciones.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
+Los recursos que ingresen a las haciendas públicas de los municipios por concepto de multas por infracciones a la presente Ley o al reglamento municipal correspondiente, deberá ser depositado en un fondo que se destinará a los programas permanentes contra las adicciones, de fomento a la educación, la cultura, el deporte y la seguridad pública, para lo cual el Tesorero Municipal o su equivalente, deberán realizar las acciones tendientes al cumplimiento de lo establecido en este dispositivo legal
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE AGOSTO DE 2013)</small>
+
+Las autoridades municipales encargadas de imponer las sanciones económicas, no podrán, en ningún caso, exentar o reducir el monto de las sanciones por infracciones a la presente Ley o a los reglamentos municipales aplicables.
 
 ###### Artículo 6.
 
@@ -101,9 +113,13 @@ La elaboración, envasado, almacenamiento, distribución, transportación, venta
 
 Para poder iniciar o continuar su operación, los establecimientos dedicados a la elaboración, envasado, distribución, almacenamiento, transportación, venta y consumo de bebidas alcohólicas, deberán contar previamente con la licencia y, en su caso, el refrendo respectivo; las que se otorgarán en los términos y bajo las condiciones que establece la presente Ley y los ordenamientos reglamentarios municipales aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 8.
 
-Ningún establecimiento dedicado a los giros que establece esta Ley o el reglamento municipal respectivo, podrán vender bebidas alcohólicas a menores de edad, a personas con discapacidad mental, a los militares, elementos de la policía o transito uniformados y en servicio; y a las no autorizadas para comerciar lícitamente con ellas, así como tampoco en modalidades distintas a aquellas que expresamente les hayan sido autorizadas.
+Queda estrictamente prohibido a los establecimientos dedicados a giros que establece esta Ley, el expendio por cualquier medio de cualquier tipo de bebidas alcohólicas a menores de dieciocho años de edad, a personas con discapacidad mental, a los militares, elementos de la policía o tránsito uniformados y en servicio; y a las no autorizadas para comerciar lícitamente con ellas; tampoco podrán vender bebidas con contenido alcohólico a personas, negocios o establecimientos no autorizadas (sic) para comerciar lícitamente con ellas, así como tampoco en modalidades distintas a aquéllas que expresamente les hayan sido autorizadas.
+
+Para efectos de acreditar la mayoría de edad en relación con la venta, la compra, el expendio o el consumo de bebidas alcohólicas únicamente se considerarán válidos la credencial para votar con fotografía o el pasaporte.
 
 ###### Artículo 9.
 
@@ -275,11 +291,13 @@ Para establecer y operar los negocios a que se refiere esta Ley, se requiere de 
 
 Se consideran establecimientos clandestinos todos aquellos que expendan bebidas alcohólicas sin contar con la licencia a que se refiere el párrafo anterior. Al que realice este tipo de actividad se le sancionará conforme al Artículo 68 párrafo segundo de esta Ley, independientemente de las que señalen otras disposiciones legales o reglamentarias.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 17.
 
-Para los efectos de esta Ley se entiende por licencia la autorización que otorga el Ayuntamiento para establecer y operar locales dedicados a la elaboración, envasado, almacenamiento, distribución, transportación, venta y consumo de bebidas con contenido alcohólico en las distintas modalidades de giros que la misma establece.
+Para los efectos de esta Ley, se entiende por licencia el documento que otorga el Ayuntamiento por el que se concede autorización, términos y condiciones para establecer y operar locales destinados a la elaboración, envasamiento, almacenamiento, distribución, transportación, venta y consumo de bebidas con contenido alcohólico en las distintas modalidades de giros que la misma establece.
 
-Los Ayuntamientos tienen la facultad de cancelar fundada y motivadamente las licencias que se otorgan en los términos de la presente Ley y el reglamento municipal respectivo previa comprobación de que el establecimiento ha vulnerado el orden público o el interés general.
+Los ayuntamientos tienen la facultad de cancelar la licencia que se otorgue en los términos de la presente Ley y el reglamento municipal respectivo, previa comprobación de que el establecimiento ha vulnerado las disposiciones de esta Ley, los reglamentos municipales, el orden público o el interés general.
 
 ###### Artículo 18.
 
@@ -339,9 +357,11 @@ IX. Dos cartas de recomendación que acrediten su solvencia moral; y
 
 X. Certificado de ubicación expedido por la autoridad municipal competente, en el que se especifique que el establecimiento no contraviene lo dispuesto en el artículo 44 fracción I, de la presente Ley.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 22.
 
-Satisfechos los requisitos señalados en los Artículos 20 y 21 de esta Ley, la comisión competente del Ayuntamiento elaborará el dictamen correspondiente y lo someterá a consideración del pleno, en sesión pública, y de aprobarse por mayoría de sus integrantes, se expedirá la licencia respectiva.
+Satisfechos los requisitos señalados en los artículos 20 y 21 de esta Ley, la comisión competente del Ayuntamiento elaborará el dictamen correspondiente y lo someterá a consideración del pleno, en sesión pública, y de aprobarse por la mayoría calificada de sus integrantes, se expedirá la licencia respectiva.
 
 ###### Artículo 23.
 
@@ -351,13 +371,17 @@ A partir de la correcta integración del expediente, no podrá exceder de 90 dí
 
 Las licencias expedidas conforme a esta Ley, constituyen un acto personal e intransferible, que no otorga otros derechos adicionales al titular. Su aprovechamiento deberá efectuarse solamente por la persona a cuyo nombre se haya expedido, ya sea por sí o a través de sus dependientes, trabajadores, comisionistas o representantes legales. La trasgresión a lo anterior, será motivo de cancelación de la licencia y la clausura del establecimiento que esté operando al amparo de la misma.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 25.
 
-Si por algún acto de comercio se vendiere, traspasara, cediere o se enajenare de cualquier otra forma el establecimiento propiedad del titular de una licencia otorgada en los términos de esta Ley, ésta quedará cancelada y el nuevo propietario deberá iniciar el trámite para obtener la licencia correspondiente.
+Si por algún acto de comercio se vendiere, traspasara, cediere o se enajenara de cualquier otra forma el establecimiento propiedad del titular de una licencia otorgada en los términos de esta Ley, ésta quedará cancelada y el Ayuntamiento podrá expedirla al nuevo propietario siempre y cuando cumpla con los requisitos reglamentarios, el cual deberá iniciar el trámite para obtener la licencia correspondiente.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 26.
 
-Se exceptúan de lo dispuesto en el artículo anterior, los casos de fallecimiento del titular de la licencia, en los cuales podrá refrendarse, debiéndose elaborar la solicitud correspondiente para que el Ayuntamiento, en su caso, autorice el cambio de titular en favor de él o los herederos reconocidos por la autoridad judicial, siempre y cuando se cumpla con los requisitos que exigen la presente Ley y el reglamento municipal correspondiente. Esto es aplicable cuando el autorizado pretenda constituirse en sociedad o cuando una sociedad cambie de denominación o razón social. En estos casos el establecimiento continuará funcionando en tanto el Ayuntamiento apruebe o rechace la autorización.
+Sólo en los casos de fallecimiento del titular de la licencia, procederá el cambio de titular de la misma, en los cuales podrá refrendarse, debiéndose elaborar la solicitud correspondiente para que el Ayuntamiento, en su caso, autorice el cambio de titular en favor de él o los herederos reconocidos por la autoridad judicial, siempre y cuando se cumpla con los requisitos que exigen la presente Ley y el reglamento municipal correspondiente. Esto es aplicable cuando el autorizado pretenda constituirse en sociedad o cuando una sociedad cambie de denominación o razón social. En estos casos, el establecimiento continuará funcionando en tanto el Ayuntamiento apruebe o rechace la autorización.
 
 ### CAPÍTULO III. DEL REFRENDO
 
@@ -375,15 +399,19 @@ A quien cumpla con los requisitos que establece esta Ley y el reglamento municip
 
 ### CAPÍTULO IV. DE LOS PERMISOS
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 30.
 
-Los Ayuntamientos podrán autorizar la venta y consumo ocasional bebidas con contenido alcohólico en exposiciones, espectáculos públicos u otros, acordes con la idiosincrasia y costumbres de los habitantes de las distintas regiones del Estado.
+Los ayuntamientos podrán autorizar, mediante permisos especiales, la venta y consumo ocasional de bebidas con contenido alcohólico en exposiciones, espectáculos públicos u otros, acordes con la idiosincrasia y costumbres de los habitantes de las distintas regiones del Estado.
 
 ### CAPÍTULO V. DE LOS DIAS Y HORAS DE FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 31.
 
-Es facultad del Ayuntamiento modificar total o parcialmente los horarios establecidos y los días de funcionamiento, cuando así convenga al orden público e interés de la sociedad. En tales casos, deberá darse a conocer con anticipación a través de los medios de comunicación o mediante disposiciones de tipo administrativo.
+Es facultad del Ayuntamiento modificar total o parcialmente, mediante acuerdo de la mayoría calificada de sus miembros, los horarios establecidos y los días de funcionamiento, cuando así convenga al orden público e interés de la sociedad; en tales casos, deberá darse a conocer con anticipación a través de los medios de comunicación o mediante disposiciones de tipo administrativo.
 
 ###### Artículo 32.
 
@@ -409,9 +437,11 @@ III. Cuando su ubicación altere el orden público y las vías de comunicación.
 
 En las anteriores hipótesis, los interesados deberán dar cumplimiento a las fracciones II, III, VI, VII, VIII, y X del artículo 21 de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 35.
 
-Es facultad de los Ayuntamientos disponer, fundada y motivadamente, el cambio de domicilio a los titulares de licencia cuando así lo requiera el orden público y el interés general de la sociedad. Para tal efecto se observará el procedimiento siguiente:
+Es facultad de los ayuntamientos disponer, el cambio de domicilio a los titulares de la licencia cuando así lo requiera el orden público y el interés general de la sociedad o cuando no se cumplan o hayan cambiado las condiciones establecidas en los reglamentos municipales. Para tal efecto, se observará el procedimiento siguiente:
 
 I. Se le notificará al titular de la licencia con 30 días naturales de anticipación a la fecha en que deba realizarse el cambio;
 
@@ -423,7 +453,9 @@ IV. Si el titular de la licencia bajo cualquier circunstancia, no ha logrado su 
 
 V. Vencido el plazo señalado en la fracción anterior, se procederá a la cancelación definitiva de la licencia.
 
-El cambio de domicilio establecido en el presente artículo o la reubicación a que se refiere el artículo 34 de esta Ley, deberán ser aprobados por la mayoría de los integrantes del Cabildo, una vez que se hayan cubierto todos los requisitos, previstos en los artículos 20 y 21 de esta Ley.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
+El cambio de domicilio establecido en el presente artículo o la reubicación a que se refiere el artículo 34 de esta Ley, deberán ser aprobados por mayoría calificada de los integrantes del Cabildo, una vez que se hayan cubierto todos los requisitos, previstos en los artículos 20 y 21 de esta Ley.
 
 ###### Artículo 36.
 
@@ -435,6 +467,8 @@ La violación a este precepto, se sancionará conforme a lo que establecen los a
 
 ### CAPÍTULO I. DE LAS OBLIGACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 37.
 
 Son obligaciones de los propietarios o encargados de los establecimientos en que se expendan bebidas con contenido alcohólico, las siguientes:
@@ -445,15 +479,43 @@ II. Permitir la inspección de sus instalaciones, mercancías, licencia y demás
 
 III. Exhibir en lugar accesible y visible copia completamente legible de la licencia, del refrendo vigente y de la cédula de empadronamiento fiscal que muestre el número de registro. Presentar los originales a solicitud del inspector del ramo;
 
-IV. Retirar del establecimiento a los asistentes en manifiesto estado de ebriedad, para lo cual solicitará si fuere necesario el auxilio de la fuerza pública;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2013)</small>
+
+IV. Retirar del establecimiento a los asistentes en evidente estado de ebriedad, para lo cual solicitará, si fuere necesario, el auxilio de la fuerza pública.
+
+Se considera como evidente estado de ebriedad, cuando a través de los sentidos por las manifestaciones externas aparentes, razonablemente se puede apreciar que la conducta o la condición física de una persona presenta alteraciones en la coordinación, en la respuesta de reflejos, en el equilibrio o en el lenguaje, con motivo del consumo de bebidas alcohólicas;
 
 V. Impedir y denunciar escándalos en los negocios, ocurriendo para evitarlos, a la fuerza pública. Lo mismo hará cuando tenga conocimiento o encuentre alguna persona que use o posea dentro del local estupefacientes o cualquier tipo de droga enervante o armas. Así mismo evitará y denunciará el consumo de bebidas alcohólicas a las afueras de su local;
 
 VI. Cubrir las sanciones por las infracciones que se deriven del incumplimiento de las obligaciones a su cargo. Los comprobantes de pago deberán conservarse en el local que se opere para que los inspectores puedan verificarlos;
 
-VII. Contar con locales funcionales, cómodos e higiénicos; y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2013)</small>
 
-VIII. Las que se deriven de la presente Ley, los reglamentos correspondientes y demás disposiciones aplicables.
+VII. Contar con locales funcionales, cómodos e higiénicos;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2013)</small>
+
+VIII. Colocar en un lugar visible al público consumidor cuando menos un cartel de acuerdo a las medidas y características previstas en el reglamento municipal respectivo en el que se contenga la leyenda: "El abuso en el consumo de bebidas alcohólicas puede provocar adicción y problemas graves de salud"; y
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2013)</small>
+
+IX. Las que se deriven de la presente Ley, los reglamentos correspondientes y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
+###### Artículo 37 Bis 1.
+
+Los padres, tutores o quienes ejerzan la patria potestad o tengan la custodia de un menor de edad no emancipado o de una persona incapaz, están obligados a:
+
+I. Orientar y educar sobre el consumo de las bebidas alcohólicas, los efectos que produce su abuso y las consecuencias de los actos generados en estado de ebriedad o de ineptitud para conducir;
+
+II. Vigilar las conductas de sus hijos o pupilos, con el fin de prevenir, o en su caso, detectar el consumo de bebidas alcohólicas;
+
+III. Tomas (sic) las medidas necesarias para que los menores o incapaces que consuman bebidas alcohólicas, particularmente en aquellos casos que se abuse de las mismas, se sometan al tratamiento correspondiente;
+
+IV. Colaborar con las autoridades e instituciones educativas cuando se detecte en el menor el consumo de bebidas alcohólicas; y
+
+V. Participar, conjuntamente con los menores o incapaces, en los tratamientos o medidas disciplinarias que se les impongan a éstos, por consumir bebidas alcohólicas.
 
 ###### Artículo 38.
 
@@ -487,21 +549,27 @@ Por lo que se refiere a la transportación en carreteras y caminos estatales y f
 
 ### CAPÍTULO II. DE LAS PROHIBICIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 44.
 
-Además de lo que se establezca en los reglamentos municipales, queda prohibido a los titulares, administradores, encargados o empleados de los negocios dedicados a expender bebidas con contenido alcohólico, lo siguiente:
+Además de lo que se establezca en los reglamentos municipales, queda prohibido a los titulares, propietarios, gerentes, administradores, encargados, dependientes, empleados o comisionistas de los negocios dedicados a expender bebidas con contenido alcohólico, lo siguiente:
 
 I. Establecer los negocios dentro de un radio de ciento cincuenta metros de los linderos de los edificios o casas destinadas a jardines de niños, instituciones educativas públicas o privadas, centros culturales, hospitales, sanatorios, hospicios, asilos, centros asistenciales, fábricas, edificios públicos, mercados, cuarteles militares, casetas de policía y templos religiosos. Esta disposición no regirá para agrupaciones organizadas como mutualidades o asociaciones civiles con fines sociales, deportivos o culturales, así como envasador, ultramarino, tienda de abarrotes con venta de cerveza, supermercado, restaurantes en cualquiera de sus modalidades, bodegas, y almacenes siempre que por sus características no se lesione el interés general y el orden público, y que además sean acordes con las definiciones de los giros que para cada caso establezca la presente Ley y el reglamento correspondiente;
 
-II. Vender bebidas con contenido alcohólico a personas en notorio estado de ebriedad;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2013)</small>
 
-III. Permitir la entrada a menores de edad en los negocios señalados en las fracciones IV, VIII, IX y X, del artículo 10 de esta Ley, exceptuando el giro de discotecas cuando se celebren eventos en que no se vendan y consuman bebidas con contenido alcohólico, debiendo el propietario o encargado inscribir en parte visible del interior y exterior del establecimiento esta prohibición;
+II. Vender bebidas con contenido alcohólico a personas en evidente estado de ebriedad;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2013)</small>
+
+III. Permitir la entrada a menores de dieciocho años de edad en los negocios señalados en las fracciones IV, VIII, IX y X, del artículo 10 de esta Ley, exceptuando el giro de discotecas cuando se celebren eventos en que no se vendan y consuman bebidas con contenido alcohólico, debiendo el propietario o encargado inscribir en parte visible del interior y exterior del establecimiento esta prohibición;
 
 IV. Operar el establecimiento en materia de ventas de bebidas con contenido alcohólico en forma distinta a la autorizada por la licencia correspondiente y a lo establecido en la presente Ley y el reglamento correspondiente;
 
 V. Permitir el consumo de bebidas alcohólicas dentro de los establecimientos a que se refieren las fracciones I, II, VII, XII, XIV, XV, XVII, XX, XXVIII, XXIX y XXX del artículo 10 de esta Ley;
 
-VI. Vender bebidas aIcohólicas para su consumo fuera de los locales de los giros señalados en las fracciones III, IV, V, VI, VIII, IX, X, XI, XIII, XVI, XVIII, XIX, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 10 de la presente Ley;
+VI. Vender bebidas alcohólicas para su consumo fuera de los locales de los giros señalados en las fracciones III, IV, V, VI, VIII, IX, X, XI, XIII, XVI, XVIII, XIX, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 10 de la presente Ley;
 
 VII. Permitir juegos restringidos por la ley y el cruce de apuestas, salvo que se cuente con el permiso de la autoridad competente;
 
@@ -545,7 +613,9 @@ No podrán adquirir licencias para el aprovechamiento de establecimientos en los
 
 I. Servidores públicos en funciones y hasta un año después de haber dejado el cargo;
 
-II. Menores de edad; salvo que adquieran los derechos por herencia, no pudiendo administrarlos sino solo a través de quien legalmente los represente;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2013)</small>
+
+II. Menores de dieciocho años de edad; salvo que adquieran los derechos por herencia, no pudiendo administrarlos sino solo a través de quien legalmente los represente;
 
 III. Personas que hayan sufrido condenas por la comisión de delitos considerados como graves por la legislación penal; así como la distribución ilegal de bebidas. Respecto de otros delitos cometidos intencionalmente, podrá serlo siempre que haya transcurrido un año desde que se cumpliera su condena; y
 
@@ -563,7 +633,9 @@ La función de inspección y vigilancia para la estricta observancia y cumplimie
 
 La dependencia competente del Ayuntamiento podrá ordenar y practicar visitas de inspección a los establecimientos que se dediquen a cualesquiera de los giros que considera esta Ley, en cualquier tiempo, para verificar el cumplimiento de las disposiciones legales en la materia.
 
-Las corporaciones policiacas estarán obligadas a prestar el apoyo que se requiera y, de igual manera, actuar en los casos que tengan conocimiento de alguna violación a la presente Ley, el reglamento municipal correspondiente, o al Código Penal del Estado, para lo cual deberán levantar acta circunstanciada y turnarla a la autoridad competente.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
+Las corporaciones policiacas deberán prestar el apoyo que se requiera y, de igual manera, actuar en los casos que tengan conocimiento de alguna violación a la presente Ley, el reglamento municipal correspondiente, o al Código Penal para el Estado Libre y Soberano de Durango, para lo cual deberán levantar acta circunstanciada y turnarla a la autoridad competente.
 
 ###### Artículo 52.
 
@@ -609,7 +681,9 @@ II. Por hechos o actos que se realicen dentro de los establecimientos que altere
 
 III. Cuando la licencia sea explotada por persona distinta a su titular; salvo lo dispuesto por el artículo 24 de esta Ley;
 
-IV. Por negar el acceso al personal acreditado por la autoridad de la materia para realizar visitas de inspección y por negarse a proporcionar la documentación que al momento de la misma se le requiera;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2013)</small>
+
+IV. Por negar el acceso o por agredir física o verbalmente al personal acreditado por la autoridad de la materia para realizar visitas de inspección y por negarse a proporcionar la documentación que al momento de la misma se le requiera;
 
 V. Por reincidencia, según lo establecido en el artículo 70 de la presente Ley;
 
@@ -631,11 +705,21 @@ I. Homicidio;
 
 II. Lesiones provocadas con arma blanca o arma de fuego;
 
-III. Disparo de arma de fuego; y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2013)</small>
 
-IV. Distribución, venta y/o consumo de estupefacientes.
+III. Disparo de arma de fuego;
 
-En todos estos casos, la clausura implica la cancelación definitiva de la licencia respectiva cuando se desprenda de las investigaciones que los actos cometidos son imputables al propietario o encargado de la negociación.
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2013)</small>
+
+IV. Distribución, venta y/o consumo de estupefacientes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE AGOSTO DE 2013)</small>
+
+V. Venta de bebidas con contenido alcohólico a menores de dieciocho años.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
+En todos estos casos, la clausura implica la cancelación definitiva de la licencia respectiva cuando se desprenda de las investigaciones que los actos cometidos son imputables al propietario, gerentes, encargados, administradores, dependientes, empleados o comisionistas del establecimiento.
 
 ###### Artículo 60.
 
@@ -685,27 +769,33 @@ Podrán levantarse en forma provisional los sellos de clausura, previa petición
 
 Las sanciones por violación a las disposiciones de esta Ley o el reglamento correspondiente, consistirán en multa, clausura provisional, clausura definitiva del establecimiento y la cancelación de la licencia en su caso, de los locales donde se elaboren, envasen, distribuyan, transporten, almacenen, vendan o consuman bebidas con contenido alcohólico.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 68.
 
-Se aplicará multa por el equivalente de 50 a 500 días de salario mínimo general vigente en la entidad, en caso de incumplimiento de las obligaciones y prohibiciones que esta Ley y el reglamento correspondiente establecen. Esta sanción se impondrá a los propietarios o encargados, o a quien o quienes resulten responsables, sin perjuicio de las que impongan otras Leyes o reglamentos.
+Se aplicará multa por el equivalente de 50 a 500 días de salario mínimo general vigente en la entidad, en caso de incumplimiento de las obligaciones y prohibiciones que esta Ley y el reglamento correspondiente establecen. Esta sanción se impondrá a los propietarios gerentes, encargados, administradores, dependientes, empleados o comisionistas del establecimiento, o a quien o quienes resulten responsables, sin perjuicio de las que impongan otras Leyes o reglamentos.
 
-A los propietarios o encargados de negocios que expendan bebidas con contenido alcohólico sin contar con la licencia respectiva conforme al artículo 16 de esta Ley, independientemente del delito que se hubiere cometido en los términos de la legislación penal local, se les impondrá multa por el equivalente de 80 a 800 días de salario mínimo diario general vigente en el Estado, además el Ayuntamiento decomisará las bebidas con contenido alcohólico que en ellos se encuentren; asimismo, se harán acreedores a lo anterior, los propietarios, encargados y los que expendan las citadas bebidas en cualquier local o lugar, sin contar con la licencia o el permiso correspondiente.
+A los propietarios gerentes, encargados, administradores, dependientes, empleados o comisionistas de establecimientos o negocios que expendan bebidas con contenido alcohólico sin contar con la licencia respectiva conforme al artículo 16 de esta Ley, independientemente del delito que se hubiere cometido en los términos de la legislación penal local, se les impondrá multa por el equivalente de 80 a 800 días de salario mínimo diario general vigente en el Estado, además el Ayuntamiento decomisará las bebidas con contenido alcohólico que en ellos se encuentren; asimismo, se harán acreedores a lo anterior, los propietarios, encargados y los que expendan las citadas bebidas en cualquier local o lugar, sin contar con el permiso correspondiente.
 
 ###### Artículo 69.
 
 En los casos a que se refiere el artículo anterior, el propietario de las bebidas alcohólicas podrá probar y alegar lo que a su derecho convenga, a través del procedimiento a que se refiere el artículo 54 último párrafo, de esta Ley.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 70.
 
-Para los efectos de esta Ley y los reglamentos municipales, se considera reincidencia cuando se cometan durante el período de un año por el propietario o encargado del establecimiento de que se trate, tres o más infracciones a esta Ley o al Reglamento que corresponda. La reincidencia por primera ocasión será sancionada con una multa equivalente al doble de la que se haya impuesto con anterioridad, y la segunda, en el triple de su monto, procediendo a partir de la siguiente a ésta a la clausura del establecimiento y a la cancelación de la licencia respectiva por la dependencia competente, conforme a la gravedad de las violaciones cometidas.
+Para los efectos de esta Ley y los reglamentos municipales, se considera reincidencia cuando se cometan durante el período de un año por el propietario, gerentes, encargados, administradores, dependientes, empleados o comisionistas del establecimiento de que se trate, dos o más infracciones a esta Ley o al Reglamento que corresponda. La reincidencia por primera ocasión será sancionada con una multa equivalente al doble de la que se haya impuesto con anterioridad, y en la segunda, se procederá a la clausura definitiva del establecimiento y a la cancelación de la licencia respectiva por la dependencia competente.
 
 ###### Artículo 71.
 
 Corresponde a la dependencia competente o, en su caso al Juzgado Administrativo Municipal, la imposición de multas, las cuales turnará a la autoridad encargada de hacerlas efectivas, de conformidad con el Código Fiscal Municipal.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 72.
 
-La imposición de las sanciones que considera este capítulo, son sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los Infractores. Las infracciones las comete el titular de la licencia por hecho propio o ajeno, entendiéndose en este último caso, cuando sean imputables a sus trabajadores, representantes, o cualesquiera otra persona que esté bajo su cuidado, dirección, dependencia o responsabilidad.
+La imposición de las sanciones que considera este capítulo, son sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los infractores. Las infracciones las comete el titular de la licencia por hecho propio o ajeno, entendiéndose en este último caso, cuando sean imputables a sus trabajadores, gerentes, encargados, administradores, dependientes, empleados, comisionistas, representantes, o cualquier otra persona que esté bajo su cuidado, dirección, dependencia o responsabilidad.
 
 ## TÍTULO OCTAVO. DE LOS MEDIOS DE IMPUGNACIÓN
 
@@ -936,3 +1026,17 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en este decreto.
+
+P.O. 25 DE AGOSTO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo.- Para la aplicación de las presentes disposiciones, en el ámbito municipal, los ayuntamientos que ya cuenten con el Reglamento de la Ley para el Control de Bebidas con Contenido Alcohólico del Estado de Durango, deberán adecuarlo de conformidad con las reformas contenidas en el presente mandato en un plazo de sesenta días; de igual forma los ayuntamientos que no hayan formulado dicho Reglamento deberán emitirlo en un plazo de noventa días, ambos supuestos a partir de la entrada en vigor del presente Decreto.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias y administrativas, sean de carácter estatal o municipal, que se opongan al contenido del presente decreto.
+
+Cuarto.- Los propietarios o poseedores de establecimientos y los titulares de las licencias otorgadas con anterioridad a este decreto, procederán a regularizarse, conforme a las nuevas disposiciones que se establecen en el presente decreto, a más tardar en el mes de diciembre del año dos mil trece, salvo que se trate de cambio de propietario de la persona moral que se dedique a la elaboración, envasado, transportación, almacenamiento, venta y consumo de bebidas con contenido alcohólico, en cuyo caso deberá iniciar el trámite como nueva licencia conforme a lo dispuesto en la presente Ley.
+
+Quinto.- Para los titulares de licencia que tengan documentación en trámite conforme a las disposiciones contenidas en leyes y reglamentos anteriores a la vigencia de este Decreto, le serán aplicables las normas transitorias que preceden a este artículo, en todo aquello que conduzca a la regularización que dichos preceptos señalan.
+
+Sexto.- Los ayuntamientos, a más tardar el 28 de febrero de cada año deberán entregar a la Entidad de Auditoría Superior del Estado, el padrón de las licencias para la venta de bebidas con contenido alcohólico, así como ante la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado de Durango.
