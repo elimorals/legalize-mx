@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-responsabilidades-de-los-servidores-publicos-del-4939"
 country: "mx"
 rank: "ley"
 publication_date: "1988-02-18"
-last_updated: "2008-09-11"
+last_updated: "2013-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el 18, 21, 25 y 28 de febrero de 1988.
 
@@ -425,41 +425,45 @@ VI.- Observar en la dirección de sus inferiores jerárquicos las debidas reglas
 
 VII.- Observar respeto y subordinación legítimas respecto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones.
 
-VIII.- Comunicar por escrito al titular de la dependencia, organismo o entidad en la que preste su servicio, el incumplimiento de las obligaciones establecidas en este Artículo o las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2013)</small>
 
-IX.- Abstenerse de ejercer las funciones de su empleo, cargo o comisión después de concluído el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
+VIII.- Evitar acciones u omisiones que tengan por objeto impedir o anular el reconocimiento o ejercicio de los derechos, y la igualdad real de oportunidades entre mujeres y hombres.
 
-X.- Abstenerse de disponer o autorizar a un subordinado, a no asistir sin causa justificada a sus labores contraviniendo los términos de las Leyes y Reglamentos respectivos;
+IX.- Comunicar por escrito al titular de la dependencia, organismo o entidad en la que preste su servicio, el incumplimiento de las obligaciones establecidas en este Artículo o las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
 
-XI.- Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la ley le prohiba;
+X.- Abstenerse de ejercer las funciones de su empleo, cargo o comisión después de concluído el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
-XII.- Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme de la autoridad competente para ocupar un empleo, cargo o comisión en el servicio público;
+XI.- Abstenerse de disponer o autorizar a un subordinado, a no asistir sin causa justificada a sus labores contraviniendo los términos de las Leyes y Reglamentos respectivos;
 
-XIII.- Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+XII.- Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la ley le prohiba;
 
-XIV.- Informar por escrito al jefe inmediato y en su caso, al superior jerárquico, sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento; y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellas.
+XIII.- Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme de la autoridad competente para ocupar un empleo, cargo o comisión en el servicio público;
 
-XV.- Abstenerse, durante el ejercicio de sus funciones, aceptar o recibir, por sí o por interpósita persona, dinero, objetos mediante enajenación a su favor en precio notoriamente inferior al que el bien de que se trate y que tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la Fracción XII y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
+XIV.- Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
 
-XVI.- Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobables que el Estado le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la Fracción XIII;
+XV.- Informar por escrito al jefe inmediato y en su caso, al superior jerárquico, sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento; y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellas.
 
-XVII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la Fracción XIII;
+XVI.- Abstenerse, durante el ejercicio de sus funciones, aceptar o recibir, por sí o por interpósita persona, dinero, objetos mediante enajenación a su favor en precio notoriamente inferior al que el bien de que se trate y que tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la Fracción XII y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
 
-XVIII.- Presentar con oportunidad y veracidad la declaración de situación patrimonial que corresponda ante la Contaduría Mayor de Hacienda del Congreso del Estado, en los términos que señala la Ley;
+XVII.- Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobables que el Estado le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la Fracción XIII;
+
+XVIII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la Fracción XIII;
+
+XIX.- Presentar con oportunidad y veracidad la declaración de situación patrimonial que corresponda ante la Contaduría Mayor de Hacienda del Congreso del Estado, en los términos que señala la Ley;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
 
-XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba del órgano de control interno, conforme a la competencia de éste;
+XX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba del órgano de control interno, conforme a la competencia de éste;
 
-XX.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las Fracciones de éste Artículo, y en los términos de las normas que al efecto se expidan;
+XXI.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las Fracciones de éste Artículo, y en los términos de las normas que al efecto se expidan;
 
-XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y (sic)
+XXII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y (sic)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE SEPTIEMBRE DE 2008)</small>
 
-XXII.- Proporcionar en forma oportuna y veraz, toda la información y datos que con razón de su encargo sean solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos. En todo caso, la información a que se tenga acceso, deberá manejarse con la más estricta confidencialidad en los términos del artículo 8 de la Ley Orgánica de la Comisión Estatal de Derechos Humanos y del artículo 157 fracción V del Código Penal para el Estado Libre y Soberano de Durango; y
+XXIII.- Proporcionar en forma oportuna y veraz, toda la información y datos que con razón de su encargo sean solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos. En todo caso, la información a que se tenga acceso, deberá manejarse con la más estricta confidencialidad en los términos del artículo 8 de la Ley Orgánica de la Comisión Estatal de Derechos Humanos y del artículo 157 fracción V del Código Penal para el Estado Libre y Soberano de Durango; y
 
-XXIII.- Las demás que le impongan las leyes y reglamentos.
+XXIV.- Las demás que le impongan las leyes y reglamentos.
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría, el subalterno podrá practicarla directamente informando a su superior acerca de este acto.
 
@@ -543,7 +547,7 @@ e) en los Ayuntamientos, la comisión de regidores que sea creada en forma expre
 
 ###### ARTICULO 52o.
 
-Las sanciones administrativas consistirán en:
+Las sanciones administrativas consistirán en:J
 
 I.- (DEROGADA, P.O. 29 DE JUNIO DE 2008)
 
@@ -559,7 +563,9 @@ V.- Sanción económica;
 
 VI.- Inhabilitación temporal para desempeñar empleo, cargo o comisiones en el servicio público.
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de seis meses a tres años si el monto de aquellos no excede de cien veces el salario mínimo mensual vigente en la zona económica respectiva y de tres a diez años si excede de dicho límite.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro, impida o anule el reconocimiento o ejercicio de los derechos e igualdad real de las oportunidades entre mujeres y hombres, o cause daños y perjuicios, será de seis meses a tres años si el monto de aquellos no excede de cien veces el salario mínimo mensual vigente en la zona económica a que corresponda el Estado de Durango, y de tres a diez años si excede de dicho límite.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2008)</small>
 
@@ -971,7 +977,7 @@ El Gobernador Constitucional del Estado, Lic. José Ramírez Gamero.- Rúbrica.
 
 El Secretario General de Gobierno Lic. Gustavo Rivera Ramos.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE JUNIO DE 2008.
 
@@ -996,3 +1002,9 @@ P.O. 11 DE SEPTIEMBRE DE 2008.
 PRIMERO.- El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 25 DE AGOSTO DE 2013.
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Segundo.- Se derogan aquellas disposiciones legales y reglamentarias, en lo que se opongan al presente decreto.
