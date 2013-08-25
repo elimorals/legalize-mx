@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2013-05-19"
+last_updated: "2013-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -1397,7 +1397,13 @@ III.- Prevenir y controlar la contaminación atmosférica originada por humos, p
 
 IV.- Vigilar, inspeccionar y controlar a través de estaciones de medición y diagnóstico la contaminación, estableciendo medidas técnicas en la materia; y
 
-V.- Propiciar el uso de medios de locomoción y energéticos que no deterioren la calidad del ambiente, mediante la autorización o prohibición de determinados combustibles para motores de vehículos, según la clase y el grado de contaminación que produzcan y el peligro que represente su utilización.
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2013)</small>
+
+V.- Propiciar el uso de medios de locomoción y energéticos que no deterioren la calidad del ambiente, mediante la autorización o prohibición de determinados combustibles para motores de vehículos, según la clase y el grado de contaminación que produzcan y el peligro que represente su utilización, así como en establecimientos o lugares dedicados a la producción de ladrillo en cualquiera de sus modalidades, destinados a la construcción y otros productos de cerámica.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2013)</small>
+
+Para cumplir con las fracciones III y V, se vigilará que no se instalen establecimientos o lugares dedicados a la producción de ladrillo en cualquiera de sus modalidades, destinados a la construcción y otros productos de cerámica dentro de un diámetro de 15 kilómetros a la redonda contados a partir del punto cero de los centros de población en aquellos municipios con una población mayor a 50 mil habitantes y de 3 kilómetros en los municipios de menor población.
 
 ###### ARTÍCULO 105.
 
@@ -3347,7 +3353,7 @@ La Autoridad concedente estará facultada para:
 
 I.- Normar el funcionamiento a que se sujetará la prestación del servicio, así como, el uso, aprovechamiento o explotación de servicios públicos por bienes concesionados, y vigilar su cumplimiento;
 
-II.- Ocupar temporalmente el servicio público, e intervenir en su administración, en los casos en que el concesionario lo interrumpa o suspenda, se niegue a seguir prestando, o no lo preste conforme a lo dispuesto. En los casos en que el concesionario oponga resistencia en la medida del interés público a que ser refiere esta fracción, se empleara la fuerza pública; y
+II.- Ocupar temporalmente el servicio público, e intervenir en su administración, en los casos en que el concesionario lo interrumpa o suspenda, se niegue a seguir prestando, o no lo preste conforme a lo dispuesto. En los casos en que el concesionario oponga resistencia en la medida del interés público a que ser (sic) refiere esta fracción, se empleara la fuerza pública; y
 
 III.- Dictar las medidas necesarias tendientes a proteger el interés público, pudiendo inclusive modificar las bases de la concesión, y revocarlas por razones debidamente fundadas y previa garantía de audiencia al concesionario.
 
@@ -3868,3 +3874,21 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los Ayuntamientos deberán expedir el reglamento y las disposiciones administrativas de carácter general que se requieran para la debida observancia del presente decreto, en un plazo no mayor a 90 días, después de entrada en vigor del mismo.
 
 TERCERO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 25 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan lo previsto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos deberán adecuar su normatividad y dispondrán de un plazo de noventa días para lograr la reubicación de las ladrilleras en congruencia con la presente reforma.
+
+###### ARTICULO CUARTO.
+
+Los Ayuntamientos deberán publicar y notificar anualmente al Congreso del Estado y a la ciudadanía en general, el punto inicial o punto cero de referencia de los centros de población.
