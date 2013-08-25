@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-tierras-ociosas-del-estado-5079"
 country: "mx"
 rank: "ley"
 publication_date: "1918-06-23"
-last_updated: "1924-05-18"
+last_updated: "2013-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE TIERRAS OCIOSAS PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 1924.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y OCTAVO TRANSITORIOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 25 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL PRIMERO DE ENERO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2013 (ABROGADA).
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 23 de Junio de 1918.
 
@@ -127,8 +129,26 @@ Publíquese, circúlese y comuníquese a quienes corresponda para su exacta obse
 
 Victoria de Durango, junio 18 de 1918.- Domingo Arrieta.- Joaquín Moreno, Srio.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE MAYO DE 1924.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGOR DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA ESTADO DE DURANGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGOR DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA ESTADO DE DURANGO.
+
+P.O. 25 DE AGOSTO DE 2013.
+
+PRIMERO.- La presente Ley entrará en vigor el primero de enero de 2014, la cual será publicada en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Cualquier trámite que se esté realizando antes de la entrada en vigor de la presente Ley, se seguirá tramitando y se resolverá de conformidad con los ordenamientos vigentes en la materia al momento de su presentación.
+
+TERCERO.- El Titular del Poder Ejecutivo con la participación del Consejo Estatal, formulará el PEC, en base a las previsiones presupuestales a que se refiere el artículo Quinto Transitorio de esta Ley, mismo que será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+CUARTO.- La Secretaría, creará el área especializada en competitividad para el sector rural, en base a lo dispuesto por el Artículo Quinto Transitorio de la presente Ley.
+
+QUINTO.- El Ejecutivo del Estado realizará las previsiones presupuestales para que de manera gradual se cumpla con los objetivos en los presupuestos de egresos de cada año fiscal.
+
+SEXTO.- El Gobernador del Estado, expedirá dentro de los seis meses siguientes a la entrada en vigor de esta Ley, el Reglamento que prevé este ordenamiento y las demás disposiciones administrativas necesarias.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+OCTAVO.- Se abroga la Ley de Tierras Ociosas para el Estado de Durango, aprobada mediante Decreto No. 66, de la XXVI Legislatura, de fecha 15 de junio de 1918, y publicado en el Periódico Oficial No. 50 de fecha 23 de junio de 1918.
