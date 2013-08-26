@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2013-05-31"
+last_updated: "2013-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -1231,7 +1231,9 @@ XI.- Trabajo, Competitividad y Previsión Social;
 
 XII.- Derechos Humanos;
 
-XIII.- Equidad y Género;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2013)</small>
+
+XIII.- Igualdad de Género;
 
 XIV.- Asuntos Indígenas;
 
@@ -2312,3 +2314,15 @@ P.O. 31 DE MAYO DE 2013
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Comisión General de Igualdad de Género, tendrá las mismas funciones y competencias de la Comisión General de Equidad y Género; asimismo, se mantiene a los integrantes de esta última a la de Igualdad de Género.
+
+TERCERO.- Los asuntos en trámite presentados o turnados a la Comisión de Equidad y Género, pasarán a ser competencia de la Comisión de Igualdad de Género.
+
+CUARTO.- Todos los actos suscritos por la Comisión de Equidad y Género y su Presidencia a la entrada en vigor de la presente reforma, sus efectos se entenderán referidos a la Comisión de Igualdad de Género.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
