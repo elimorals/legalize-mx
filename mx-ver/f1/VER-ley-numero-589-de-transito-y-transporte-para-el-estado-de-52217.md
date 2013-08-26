@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2013-07-04"
+last_updated: "2013-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 589 DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -117,17 +117,13 @@ XIV. Ruta: El recorrido autorizado para la prestación del servicio de transport
 
 XIV Bis. Salario: El salario mínimo general vigente en la capital del estado;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XV. Secretaría de Gobierno: A la Secretaría de Gobierno del Poder Ejecutivo del Estado;
+XV. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
 
 > <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 XV Bis. Secretaría de Seguridad Pública: A la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XVI. Secretario de Gobierno: Al titular de la Secretaría de Gobierno del Poder Ejecutivo del Estado;
+XVI. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
 
 > <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -201,11 +197,11 @@ Son autoridades estatales en materia de tránsito y transporte:
 
 I. El Gobernador del Estado;
 
-II. El Secretario de Gobierno;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+II. El Secretario de Seguridad Pública;
 
-II Bis. El Secretario de Seguridad Pública;
+II Bis. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
 
 III. El Secretario de Finanzas y Planeación;
 
@@ -221,47 +217,71 @@ V. El Director de Transporte; y
 
 VI. Los servidores públicos dependientes de las Direcciones de Tránsito o de Transporte, que con fundamento en la Ley ordenan la ejecución, ejecutan o emiten actos administrativos susceptibles de exigirse mediante el uso de la fuerza pública; (sic)
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 11.
 
-El Secretario de Gobierno, además de las facultades que le confiere la Ley Orgánica del Poder Ejecutivo del Estado, tendrá las siguientes:
+El Secretario de Seguridad Pública, además de las facultades que le confiere la Ley Orgánica del Poder Ejecutivo del Estado, tendrá las siguientes:
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 I. Ejecutar los acuerdos que el Gobernador del Estado dicte en materia de transporte;
 
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 II. Implementar los programas de transporte, en los términos de las disposiciones legales vigentes y de los acuerdos emitidos por el Titular del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 III. Proponer al Gobernador del Estado la celebración de acuerdos y convenios en materia de transporte, con dependencias u organismos de los sectores público, privado y social, así como con los Ayuntamientos, en los términos que establezcan las leyes;
 
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 IV. Autorizar la transferencia de la titularidad de las concesiones de transporte en todas las modalidades;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 V. Autorizar las tarifas a que se sujetará la prestación del servicio de transporte público en todas sus modalidades y servicios conexos;
 
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 VI. Acordar la creación de coordinaciones y delegaciones regionales de Transporte;
 
-VII. Tramitar, por conducto de la Dirección de Transporte, los recursos administrativos que le competan en su materia; y
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-VIII. Las demás que establezcan esta Ley y la legislación aplicable.
+VII. Tramitar, por conducto de la Dirección de Transporte, los recursos administrativos que le competan en su materia;
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+VIII. Ejecutar los acuerdos que el Gobernador del Estado dicte en materia de tránsito;
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+IX. Implementar los programas en materia de tránsito, en los términos de las disposiciones legales vigentes y de los acuerdos emitidos por el Titular del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+X. Proponer al Gobernador del Estado la celebración de acuerdos y convenios en materia de tránsito, con dependencias u organismos de los sectores público, privado y social, así como con los Ayuntamientos, en los términos que establezcan las leyes;
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XI. Autorizar las tarifas a que se sujetará la prestación de los servicios públicos de su competencia, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XII. Acordar la creación de coordinaciones y delegaciones regionales de Tránsito;
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XIII. Tramitar, por conducto de la Dirección de Tránsito, los recursos administrativos que le competan en su materia, y
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XIV. Las demás que establezcan esta Ley y la legislación aplicable.
 
 ###### Artículo 11 Bis.
 
-El Secretario de Seguridad Pública, además de las facultades que le confiere la Ley Orgánica del Poder Ejecutivo del Estado, tendrá las siguientes:
-
-I. Ejecutar los acuerdos que el Gobernador del Estado dicte en materia de tránsito;
-
-II. Implementar los programas en materia de tránsito, en los términos de las disposiciones legales vigentes y de los acuerdos emitidos por el Titular del Poder Ejecutivo del Estado;
-
-III. Proponer al Gobernador del Estado la celebración de acuerdos y convenios en materia de tránsito, con dependencias u organismos de los sectores público, privado y social, así como con los Ayuntamientos, en los términos que establezcan las leyes;
-
-IV. Autorizar las tarifas a que se sujetará la prestación delos (sic) servicios públicos de su competencia, en términos de las disposiciones aplicables;
-
-V. Acordar la creación de coordinaciones y delegaciones regionales de Tránsito;
-
-VI. Tramitar, por conducto de la Dirección de Tránsito, los recursos administrativos que le competan en su materia; y
-
-VII. Las demás que establezcan esta Ley y la legislación aplicable.
+(DEROGADO, G.O. 26 DE AGOSTO DE 2013)
 
 ###### Artículo 12.
 
@@ -295,17 +315,27 @@ Son facultades del Director de Transporte, las siguientes:
 
 I. Controlar y supervisar las actividades en materia de transporte;
 
-II. Ejecutar los programas de su competencia, en términos de ley y conforme a los actos administrativos que emita el Secretario de Gobierno;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-III. Proponer al Secretario de Gobierno los programas relativos a la protección de los peatones, conductores, operarios y usuarios de los servicios de transporte particular y público;
+II. Ejecutar los programas de su competencia, en términos de ley y conforme a los actos administrativos que emita el Secretario de Seguridad Pública;
 
-IV. Proponer al Secretario de Gobierno las medidas que considere necesarias para optimizar los servicios de transporte a que se refieren la presente Ley y su Reglamento;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-V. Proponer al Secretario de Gobierno la creación de coordinaciones y delegaciones regionales de Transporte, en puntos estratégicos del Estado;
+III. Proponer al Secretario de Seguridad Pública los programas relativos a la protección de los peatones, conductores, operarios y usuarios de los servicios de transporte particular y público;
+
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+IV. Proponer al Secretario de Seguridad Pública las medidas que considere necesarias para optimizar los servicios de transporte a que se refieren la presente Ley y su Reglamento;
+
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+V. Proponer al Secretario de Seguridad Pública la creación de coordinaciones y delegaciones regionales de Transporte, en puntos estratégicos del Estado;
 
 VI. Establecer sistemas de escalafón, estímulos y recompensas al personal de la Dirección de Transporte, con base en el desempeño de sus actividades;
 
-VII. Proponer al Secretario de Gobierno el diseño y aplicación de programas de capacitación, adiestramiento, actualización y especialización dirigidos al personal de la Dirección;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+VII. Proponer al Secretario de Seguridad Pública el diseño y aplicación de programas de capacitación, adiestramiento, actualización y especialización dirigidos al personal de la Dirección;
 
 VIII. Proporcionar la información que se le solicite, en los términos de la ley de la materia;
 
@@ -329,11 +359,15 @@ XVII. Ejecutar los mandamientos de autoridades judiciales y administrativas, cua
 
 XVIII. En coordinación con la Secretaría de Salud del Estado de Veracruz, operar y administrar el servicio de medicina preventiva en el transporte, realizando exámenes médicos a conductores del servicio de transporte público, con cargo a los concesionarios o permisionarios;
 
-XIX. Proponer al Secretario de Gobierno, la designación o remoción de los servidores públicos que integren la plantilla del personal de la Dirección de Transporte;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XIX. Proponer al Secretario de Seguridad Pública, la designación o remoción de los servidores públicos que integren la plantilla del personal de la Dirección de Transporte;
 
 XX. Representar legalmente, por sí o mediante apoderado legal, a la Dirección de Transporte, a las coordinaciones y delegaciones dependientes de la misma, y ejercer cualquier acción en contra de terceros, en los casos en que se vean afectados los bienes muebles e inmuebles que tienen bajo su resguardo;
 
-XXI. Expedir las licencias de conducir en cualquiera de sus tipos y llevar su registro, así como emitir tarjetones de identificación a conductores de vehículos del transporte público; y
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XXI. Expedir y, en su caso, revocar o suspender las licencias de conducir en cualquiera de sus tipos y llevar su registro, así como emitir tarjetones de identificación por los medios escritos o electrónicos idóneos, a conductores de vehículos del transporte público; y
 
 XXII. Las demás que le confieran esta Ley y legislación aplicable.
 
@@ -1573,11 +1607,11 @@ Las concesiones a que se refiere esta Ley únicamente podrán ser otorgadas en g
 
 No se considerará usufructo o arrendamiento la contratación de operarios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 129.
 
-En los casos en que, de manera inmediata, deba satisfacerse una demanda extraordinaria de transporte público, el Secretario de Gobierno podrá extender permisos temporales, que no excederán de treinta días, en cuyo supuesto los vehículos cumplirán con los requisitos establecidos en esta Ley.
+En los casos en que, de manera inmediata, deba satisfacerse una demanda extraordinaria de transporte público, el Secretario de Seguridad Pública podrá extender permisos temporales, que no excederán de treinta días, en cuyo supuesto los vehículos cumplirán con los requisitos establecidos en esta Ley.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -1617,9 +1651,9 @@ IX. Cumplir con las disposiciones aplicables en materia de protección al ambien
 
 X. Inscribirse en el Registro de Transporte Público;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XI. Prestar el servicio de manera gratuita, por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias o causas análogas que les informe la Secretaría de Gobierno;
+XI. Prestar el servicio de manera gratuita, por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias o causas análogas que les informe la Secretaría de Seguridad Pública;
 
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -1783,11 +1817,11 @@ El Gobierno del Estado podrá indemnizar a los concesionarios afectados hasta en
 
 Tarifa es el precio que el usuario paga por los servicios de transporte público que se le prestan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 139.
 
-El Gobierno del Estado, por conducto de la Secretaría de Gobierno, fijará, revisara y, en su caso, modificará las tarifas, conforme a las cuales se prestará el servicio de transporte público de pasajeros, conforme al estudio técnico a que se refiere el artículo 142 de la presente Ley.
+El Gobierno del Estado, por conducto de la Secretaría de Seguridad Pública, fijará, revisará y, en su caso, modificará las tarifas, conforme a las cuales se prestará el servicio de transporte público de pasajeros, conforme al estudio técnico a que se refiere el artículo 142 de la presente Ley.
 
 Cuando se trate de la modalidad de taxi y el usuario solicite los servicios para transportarse fuera de la localidad o requiera el servicio por un tiempo determinado, la tarifa se fijará en forma convencional.
 
@@ -2190,3 +2224,21 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
 
 Tercero. Las personas que actualmente prestan el servicio concesionado de transporte público, en la modalidad de colectivo, continuarán haciéndolo con los mismos derechos y obligaciones con que les fue otorgada la concesión por el Gobierno del Estado.
+
+G.O. 26 DE AGOSTO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo Tercero. Los asuntos que a la entrada en vigor del presente decreto se encontraran en trámite ante alguna de las áreas administrativas de las Secretarías del Despacho que, como consecuencia de este decreto, se transfieren a otra dependencia, se continuarán tramitando ante dicha Secretaría hasta su conclusión.
+
+Artículo Cuarto. A la brevedad posible, el Ejecutivo del Estado, en la esfera administrativa, efectuará las adecuaciones reglamentarias necesarias que establece el presente Decreto.
+
+Artículo Quinto. Los recursos humanos, financieros y materiales de las Direcciones Generales de Transporte, de la de Prevención y Reinserción Social y de la Dirección General de Ejecución de Medidas Sancionadoras, se transferirán a la Secretaría (sic) Seguridad Pública, con pleno respeto a los derechos laborales de sus trabajadores.
+
+Artículo Sexto. En todos los ordenamientos y disposiciones en que se haga mención de la Dirección General de Transporte, de la Dirección General de Prevención y Reinserción Social, o de la Dirección General de Ejecución de Medidas Sancionadoras se deberán tener por referidas y adscritas a la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Séptimo. La Secretaría de Finanzas y Planeación y la Contraloría General, conformarán un Grupo de Trabajo, a fin de determinar la estructura orgánica mínima indispensable que integrará las Secretarías, cuyas funciones se reforman, adicionan o derogan en este instrumento. Las denominaciones de los órganos y áreas administrativas se ajustarán a lo dispuesto en los Lineamientos por los que se establecen los criterios técnico-administrativos para la modificación, elaboración y autorización de las estructuras orgánicas y plantillas de personal de las Dependencias y Entidades de la Administración Pública.
+
+Artículo Octavo. En tanto se expidan las nuevas normas reglamentarias correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
