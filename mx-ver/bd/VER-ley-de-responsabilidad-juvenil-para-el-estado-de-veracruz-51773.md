@@ -4,7 +4,7 @@ identifier: "VER-ley-de-responsabilidad-juvenil-para-el-estado-de-veracruz-51773
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-11"
-last_updated: "2013-07-30"
+last_updated: "2013-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE RESPONSABILIDAD JUVENIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 11 de septiembre de 2006.
 
@@ -645,7 +645,7 @@ VIII. La detención provisional, en su domicilio, centro médico o centro especi
 
 2. En cualquier caso, el Juez podrá prescindir de toda medida cautelar cuando la promesa del adolescente de someterse al proceso sea suficiente para descartar los motivos que autorizarían el dictado de aquélla conforme a las causas de procedencia.
 
-> <small>(REFORMADO, 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
 
 ###### Artículo 82.
 
@@ -657,7 +657,7 @@ Las medidas cautelares serán ordenadas hasta por cuarenta días de duración y 
 
 2. La detención provisional tendrá lugar en su domicilio, en centro médico o en centros especializados para adolescentes. En este último caso los adolescentes deberán estar separados de aquellos a los que se les haya impuesto una medida sancionadora de privación de libertad mediante sentencia definitiva. Además, deberá observarse la separación por razón de grupo etario y género.
 
-> <small>(REFORMADO, 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
 
 ###### Artículo 84.
 
@@ -1365,9 +1365,9 @@ Los centros especializados en donde se ejecute la medida de privación de libert
 
 2. Los centros deberán prever secciones diferentes para albergar a los hombres y a las mujeres. En los centros no se podrá admitir a adolescentes sin orden previa de autoridad judicial competente. Igualmente, se separarán los adolescentes que se encuentren sujetos a medida de detención provisional de aquellos cuya sentencia se encuentre firme.
 
-> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
-3. Cuando se trate de adultos jóvenes o los adolescentes cumplan la mayoría de edad durante la ejecución de la medida sancionadora deberán ser totalmente separados físicamente de los adolescentes. De no ser posible esa separación, serán trasladados al Centro de Prevención y Readaptación Social que corresponda, a efecto de que en un área especial de dicho Centro continúen con el tratamiento respectivo, bajo la supervisión y seguimiento de las autoridades competentes.
+3. Cuando se trate de adultos jóvenes o los adolescentes cumplan la mayoría de edad durante la ejecución de la medida sancionadora deberán ser totalmente separados físicamente de los adolescentes. De no ser posible esa separación, serán trasladados al Centro de Readaptación Social o Penitenciario que corresponda, a efecto de que en un área especial de dicho Centro continúen con el tratamiento respectivo, bajo la supervisión y seguimiento de las autoridades competentes.
 
 ###### Artículo 151.
 
@@ -1391,9 +1391,11 @@ Cuando el adolescente esté próximo a egresar del centro de privación de la li
 
 ### CAPÍTULO V. Dirección General de Ejecución de Medidas Sancionadoras
 
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 155.
 
-La Dirección General de Ejecución de Medidas Sancionadoras es órgano administrativo desconcentrado de la Secretaría de Gobierno del Estado de Veracruz.
+La Dirección General de Ejecución de Medidas Sancionadoras es órgano administrativo desconcentrado de la Secretaría de Seguridad Pública del Estado de Veracruz.
 
 ###### Artículo 156.
 
@@ -1419,13 +1421,17 @@ V. Cumplir con las órdenes del Juez de Ejecución;
 
 VI. Solicitar al Juez de Ejecución modificar la sanción impuesta al adolescente, cuando sea pertinente de acuerdo a lo dispuesto por la presente Ley;
 
-VII. Presentar al Secretario de Gobierno un informe semestral de las actividades realizadas por la Dirección General de Ejecución de Medidas Sancionadoras y elaborar los informes que le correspondan de conformidad con esta Ley;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+VII. Presentar al Secretario de Seguridad Pública un informe semestral de las actividades realizadas por la Dirección General de Ejecución de Medidas Sancionadoras y elaborar los informes que le correspondan de conformidad con esta Ley;
 
 VIII. Brindar la información que se le requiera conforme a la ley;
 
 IX. Organizar, supervisar y coordinar la administración y funcionamiento de los centros de privación de libertad y demás centros de custodia, encargados de la atención integral de los adolescentes sujetos a privación de la libertad por la aplicación de detención provisional o medida sancionadora;
 
-X. Proponer al Secretario de Gobierno los proyectos de reglamento que sean necesarios para el cumplimiento de sus atribuciones y demás disposiciones de esta Ley en el ámbito de su competencia;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+X. Proponer al Secretario de Seguridad Pública los proyectos de reglamento que sean necesarios para el cumplimiento de sus atribuciones y demás disposiciones de esta Ley en el ámbito de su competencia;
 
 XI. Elaborar los Manuales de Organización y de Procedimientos necesarios para el cumplimiento de sus atribuciones;
 
@@ -1437,17 +1443,25 @@ XIV. Las demás que le confieran las leyes y reglamentos.
 
 ###### Artículo 159.
 
-1. La Dirección General de Ejecución de Medidas Sancionadoras estará a cargo de un Director, designado por el Secretario de Gobierno, quién ejercerá autoridad jerárquica sobre todo el personal de la Dirección, y será responsable del despacho de los asuntos que a éste le correspondan. Son atribuciones del titular de esta Dirección:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+1. La Dirección General de Ejecución de Medidas Sancionadoras estará a cargo de un Director, designado por el Secretario de Seguridad Pública, quién ejercerá autoridad jerárquica sobre todo el personal de la Dirección, y será responsable del despacho de los asuntos que a éste le correspondan. Son atribuciones del titular de esta Dirección:
 
 I. Dirigir y representar a la Dirección General;
 
-II. Designar, suspender o remover de su cargo al personal de la Dirección General, conforme a las disposiciones legalmente aplicables;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+II. Proponer al Secretario de Seguridad Pública, el nombramiento o remoción del personal de la Dirección General, conforme a las disposiciones legalmente aplicables;
 
 III. Coordinar los programas en materia de adolescentes responsables;
 
-IV. Recibir y tramitar las quejas sobre las irregularidades cometidas por personal de la Dirección General, incluyendo al de los Centros Especializados de Privación de la Libertad;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-V. Aprobar los reglamentos internos, los manuales de organización y de procedimientos de la Dirección General incluyendo los correspondientes a los Centros Especializados de Privación de la Libertad;
+IV. Recibir y turnar al área de Asuntos Internos, las quejas sobre irregularidades cometidas por personal de la Dirección General, incluyendo al de los Centros Especializados de Privación de la Libertad;
+
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+V. Proponer al Secretario de Seguridad Pública los proyectos de reglamentos, manuales de organización y de procedimientos de la Dirección General incluyendo los correspondientes a los Centros Especializados de Privación de la Libertad;
 
 VI. Promover lo necesario para el debido cumplimiento de los objetivos de la Dirección General; y
 
@@ -1858,3 +1872,21 @@ G.O. 30 DE JULIO DE 2013.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE AGOSTO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo Tercero. Los asuntos que a la entrada en vigor del presente decreto se encontraran en trámite ante alguna de las áreas administrativas de las Secretarías del Despacho que, como consecuencia de este decreto, se transfieren a otra dependencia, se continuarán tramitando ante dicha Secretaría hasta su conclusión.
+
+Artículo Cuarto. A la brevedad posible, el Ejecutivo del Estado, en la esfera administrativa, efectuará las adecuaciones reglamentarias necesarias que establece el presente Decreto.
+
+Artículo Quinto. Los recursos humanos, financieros y materiales de las Direcciones Generales de Transporte, de la de Prevención y Reinserción Social y de la Dirección General de Ejecución de Medidas Sancionadoras, se transferirán a la Secretaría (sic) Seguridad Pública, con pleno respeto a los derechos laborales de sus trabajadores.
+
+Artículo Sexto. En todos los ordenamientos y disposiciones en que se haga mención de la Dirección General de Transporte, de la Dirección General de Prevención y Reinserción Social, o de la Dirección General de Ejecución de Medidas Sancionadoras se deberán tener por referidas y adscritas a la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Séptimo. La Secretaría de Finanzas y Planeación y la Contraloría General, conformarán un Grupo de Trabajo, a fin de determinar la estructura orgánica mínima indispensable que integrará las Secretarías, cuyas funciones se reforman, adicionan o derogan en este instrumento. Las denominaciones de los órganos y áreas administrativas se ajustarán a lo dispuesto en los Lineamientos por los que se establecen los criterios técnico-administrativos para la modificación, elaboración y autorización de las estructuras orgánicas y plantillas de personal de las Dependencias y Entidades de la Administración Pública.
+
+Artículo Octavo. En tanto se expidan las nuevas normas reglamentarias correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
