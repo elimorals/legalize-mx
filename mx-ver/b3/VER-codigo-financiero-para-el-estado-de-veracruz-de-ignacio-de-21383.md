@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2013-07-31"
+last_updated: "2013-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERÁN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2013.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -55,7 +55,9 @@ FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 Las disposiciones de este Código son de orden público e interés general y tienen por objeto regular:
 
-I. La planeación, programación y presupuestación de las acciones de gobierno;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+I. La planeación, programación, presupuestación, ejercicio, control, evaluación y transparencia de las acciones de gobierno y de los recursos públicos del Estado;
 
 II. La administración financiera y tributaria de la Hacienda Estatal;
 
@@ -67,35 +69,63 @@ V. La integración de la cuenta pública estatal, y
 
 VI. El manejo de la deuda pública estatal.
 
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 2.
 
 Para los efectos de este Código se entenderá por:
 
-I. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave.
+I. Actividad Institucional: La categoría programática que incluye atribuciones o funciones de la Administración Pública Estatal, previstas en la normatividad de las Dependencias y Entidades, que no corresponden a un Programa Presupuestario;
 
-II. Congreso: El Congreso del Estado de Veracruz de Ignacio de la Llave.
+II. Congreso: El Congreso del Estado de Veracruz de Ignacio de la Llave;
 
-III. Poderes: Los Poderes Legislativo, Ejecutivo y Judicial del Estado de Veracruz -Llave.
+III. Contraloría: La Contraloría General;
 
-IV. Municipio o municipios: El o los municipios que se encuentran dentro del territorio de la entidad.
+IV. Dependencias: Las Secretarías de Despacho, la Procuraduría General de Justicia, la Contraloría y la Coordinación General de Comunicación Social;
 
-V. Plan: El Plan Veracruzano de Desarrollo.
+V. Dictamen de Suficiencia Presupuestal: El documento por medio del cual la Secretaría autoriza a las dependencias y entidades el ejercicio del gasto público asignado a sus Programas Presupuestarios y Actividades Institucionales conforme a la normatividad aplicable;
 
-VI. Secretaría: La Secretaría de Finanzas y Planeación.
+VI. Entidades: Los organismos descentralizados, las empresas de participación estatal, los fideicomisos públicos en los que el fideicomitente sea el Gobierno del Estado, las comisiones, comités y juntas creados por el Congreso o por decreto del propio Ejecutivo que cuenten con asignación presupuestal;
 
-VII. Contraloría: La Contraloría General.
+VII. Evaluación: El proceso que tiene como finalidad determinar el grado de eficacia, eficiencia, economía y calidad con que han sido empleados los recursos económicos destinados para alcanzar los objetivos previstos en las políticas públicas, el Plan y los programas que de él se deriven, los Programas Presupuestarios y las Actividades Institucionales, posibilitando la adopción de medidas que garanticen el cumplimiento adecuado de las metas, de conformidad con lo señalado en el Título Sexto, denominado "De Control y Evaluación del Gasto Público" del Libro Cuarto de este Código;
 
-VIII. Dependencias: las Secretarías de Despacho, la Procuraduría General de Justicia, la Contraloría General y la Coordinación General de Comunicación Social.
+VIII. Gasto Público: Las erogaciones que con cargo a recursos públicos realizan las Unidades Presupuestales;
 
-IX. Entidades: los organismos descentralizados, las empresas de participación estatal, los fideicomisos públicos en los que el fideicomitente sea el Gobierno del Estado, las comisiones, comités y juntas creados por el Congreso o por decreto del propio Ejecutivo que cuenten con asignación presupuestal.
+IX. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave;
 
-X. Organismos Autónomos: Los señalados en el capítulo quinto de la Constitución Política del Estado.
+X. Indicador de Desempeño: La observación o fórmula que integra información cuantitativa o cualitativa, estratégica o de gestión, en términos de eficacia, eficiencia, economía y calidad, respecto del logro o resultado de los objetivos de la política pública, de los Programas Presupuestarios y de las Actividades Institucionales de Dependencias y Entidades;
 
-XI. Unidades Presupuestales: los Poderes Legislativo y Judicial, los Organismos Autónomos, las dependencias y entidades del Poder Ejecutivo, que tengan asignación financiera en el presupuesto del Estado para el ejercicio de sus funciones.
+XI. Indicadores Estratégicos: Los Indicadores de Desempeño que miden el grado de cumplimiento de los objetivos de las políticas públicas y de los Programas Presupuestarios, los cuales contribuyen a fortalecer o corregir las estrategias y la orientación de los recursos;
 
-> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+XII. Indicadores de Gestión: Los Indicadores de Desempeño que miden el avance y logro en procesos y actividades, es decir, la forma en que los bienes y servicios públicos son generados y entregados;
 
-XII. Unidades Administrativas: las áreas encargadas de la presupuestación, programación, ejercicio y registro de los recursos financieros, humanos y materiales asignados a las unidades presupuestales para la realización de sus atribuciones. En los fideicomisos públicos será el Secretario Técnico.
+XIII. Ley de Contabilidad: La Ley General de Contabilidad Gubernamental;
+
+XIV. Matriz de Indicadores para Resultados: La herramienta de planeación estratégica que organiza los objetivos, indicadores y metas de un Programa Presupuestario y que de forma resumida y sencilla vincula los instrumentos de diseño, organización, ejecución, seguimiento, monitoreo, evaluación y mejora de los Programas Presupuestarios, como resultado de un proceso de programación realizado con base en la Metodología del Marco Lógico;
+
+XV. Metodología del Marco Lógico: La herramienta de planeación estratégica basada en la estructuración y solución de problemas que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causalidad; identificar los factores externos que pueden influir en el cumplimiento de los objetivos del Programa Presupuestario; proporcionar elementos para evaluar el avance en la consecución de dichos objetivos, y examinar el desempeño del Programa Presupuestario en todas sus etapas. Asimismo, facilita el proceso de conceptualización y diseño de Programas Presupuestarios, a través de la Matriz de Indicadores para Resultados;
+
+XVI. Municipio o municipios: El o los municipios del Estado de Veracruz de Ignacio de Llave;
+
+XVII. Organismos Autónomos: Los señalados en el Capítulo V del Título Segundo de la Constitución Política del Estado de Veracruz de Ignacio de la Llave. Para efectos únicamente de este Código se incluirá también a la Universidad Veracruzana que es una institución autónoma de educación superior;
+
+XVIII. Plan: El Plan Veracruzano de Desarrollo;
+
+XIX. Poderes: Los Poderes Legislativo, Ejecutivo y Judicial del Estado de Veracruz de Ignacio de la Llave;
+
+XX. Presupuesto basado en Resultados: El instrumento de la Gestión por Resultados consistente en un conjunto de actividades y herramientas que permiten que las decisiones involucradas en el proceso presupuestario incorporen, sistemáticamente, consideraciones sobre los resultados obtenidos y esperados de la aplicación de los recursos públicos;
+
+XXI. Programa Presupuestario: La categoría programática que permite organizar, en forma representativa y homogénea, las asignaciones de recursos cuya identificación corresponde a la solución de una problemática de carácter público, que de forma tangible y directa entrega bienes o presta servicios públicos a una población objetivo claramente identificada y localizada;
+
+XXII. Recursos Públicos: Los recursos humanos, materiales y financieros que por cualquier concepto obtengan, contraten, dispongan o apliquen las Unidades Presupuestales;
+
+XXIII. Secretaría: La Secretaría de Finanzas y Planeación del Estado de Veracruz de Ignacio de la Llave;
+
+XXIV. Sistema de Evaluación del Desempeño: El instrumento del proceso integral de planeación estratégica que permite evaluar el desempeño gubernamental en la ejecución de políticas y programas públicos, para mejorar la toma de decisiones;
+
+XXV. Unidades Presupuestales: Los Poderes Legislativo y Judicial, los Organismos Autónomos, las Dependencias y Entidades, que tengan asignación financiera en el presupuesto del Estado para el ejercicio de sus funciones; y
+
+XXVI. Unidades Administrativas: Las áreas encargadas de la presupuestación, programación, ejercicio y registro de los recursos públicos asignados a las unidades presupuestales para la realización de sus atribuciones. En los fideicomisos públicos será el Secretario Técnico.
 
 ###### Artículo 3.
 
@@ -113,6 +143,10 @@ La Secretaría hará la distribución de los recursos públicos de acuerdo con l
 
 Las finanzas públicas del Estado estarán apegadas a criterios de racionalidad y de estricta disciplina fiscal, de manera que para cada año el nivel de gasto que se establezca sea igual o inferior a los ingresos previstos para el mismo ejercicio fiscal.
 
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+Asimismo, para satisfacer los objetivos a los que estén destinados, los recursos públicos de que dispongan las Unidades Presupuestales se administrarán de conformidad con los principios de: eficiencia, eficacia, economía, transparencia, honradez, rendición de cuentas, y evaluación del desempeño.
+
 ###### Artículo 7.
 
 El Gobierno del Estado podrá recurrir al endeudamiento directo como fuente de recursos, para casos excepcionales, previa autorización del Congreso y en los términos establecidos en el presente ordenamiento.
@@ -121,9 +155,15 @@ El Gobierno del Estado podrá recurrir al endeudamiento directo como fuente de r
 
 Los Poderes Legislativo y Judicial y los Organismos Autónomos, sin menoscabo del principio de División de Poderes y con estricto respeto a su funcionamiento autónomo, observarán las disposiciones de este Código en las materias en que le sean aplicables.
 
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 9.
 
-Para los efectos de los libros Cuarto y Quinto de este Código, los plazos fijados en días, meses o años se computarán como días naturales, salvo disposición en contrario y con excepción de lo dispuesto en el Libro Segundo, relativo a las disposiciones de carácter tributario.
+Para los efectos de los libros Cuarto y Quinto de este Código, se estará a lo siguiente:
+
+I. Se privilegiará el principio de transparencia y máxima publicidad de la información financiera en los términos de la Ley de Contabilidad y demás disposiciones aplicables, y
+
+II. Los plazos fijados en días, meses o años se computarán como días naturales salvo disposición en contrario y con excepción de lo dispuesto en el Libro Segundo, relativo a las disposiciones de carácter tributario.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2775,9 +2815,41 @@ XII. Aprovechamientos diversos.
 
 ### CAPÍTULO PRIMERO. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO
 
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 154.
 
-El presupuesto estatal será el que apruebe el Congreso a iniciativa del Gobernador del Estado; en él se estimarán los ingresos a obtener por contribuciones estatales, aprovechamientos, productos y trasferencias federales, así como el costo de las actividades, obras y servicios públicos previstos en los programas anuales a cargo de quienes ejercen el gasto público.
+El presupuesto estatal será el que apruebe el Congreso a iniciativa del Gobernador del Estado; en él se estimarán los ingresos a obtener por contribuciones estatales, aprovechamientos, productos y trasferencias federales, así como el costo de las actividades, obras y servicios públicos previstos en los Programas Presupuestarios y Actividades Institucionales a cargo de quienes ejercen el gasto público.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+###### Artículo 154 Bis.
+
+En el proceso presupuestal se deberán observar las normas contenidas en la Ley de Contabilidad en materia de contabilidad, presupuestación, evaluación del desempeño, cuenta pública y difusión de la información financiera.
+
+Este proceso tiene como finalidad orientar el gasto público a la atención de lo prioritario, tomando en cuenta las estrategias, objetivos y metas contenidos en el Plan y los programas que de éste se derivan, en los términos de la Ley de Planeación del Estado de Veracruz de Ignacio de la Llave, procurando con ello el uso eficiente de los recursos públicos en cada uno de los Programas Presupuestarios y Actividades Institucionales que desarrollen las unidades presupuestales.
+
+El proceso anterior comprende las siguientes fases:
+
+a. Planeación: Consiste en la definición de las acciones tanto estratégicas como operativas que tendrán atención prioritaria, como se establece en el Sistema Estatal de Planeación, con la finalidad de determinar los programas, proyectos de inversión y actividades que sean necesarias para su cumplimiento.
+
+b. Programación: Es la fase donde se definen, ordenan y jerarquizan los Programas Presupuestarios y Actividades Institucionales, partiendo de una selección de objetivos, metas e indicadores de desempeño, así como las Unidades Presupuestales, responsables de su ejecución; y
+
+c. Presupuestación: Es la fase de costeo y asignación de los Recursos Públicos para su aplicación al cumplimiento de Programas Presupuestarios y Actividades Institucionales seleccionados en la fase anterior.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+###### Artículo 154 Ter.
+
+La programación y presupuestación del gasto público se realizará con base en:
+
+I. Las acciones de las Unidades Presupuestales que emanen como resultado de la fase de Planeación;
+
+II. El resultado que arroje el seguimiento, control y evaluación de los indicadores de desempeño y el ejercicio del gasto de cada uno de los Programas Presupuestarios y Actividades Institucionales, y
+
+III. El diagnóstico económico y financiero que para el ejercicio correspondiente formule la Secretaría.
+
+La Secretaría difundirá a las Unidades Presupuestales los documentos y metodologías relativas a la Programación-Presupuestación del gasto público, derivados de este Código, de la Ley de Contabilidad y demás disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -2789,21 +2861,47 @@ Los Ingresos del Estado comprenderán los conceptos de ingresos ordinarios y en 
 
 Al presentarse el Presupuesto del Estado se señalará sólo el monto de los ingresos ordinarios que puedan ser cuantificados; pero, en su caso, al rendir la cuenta pública el Titular del Ejecutivo Estatal, cuantificará y desglosará la totalidad de los ingresos obtenidos en el ejercicio fiscal de que se trate.
 
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 156.
 
-El gasto público estatal se sustentará en presupuestos que se integrarán con base en los objetivos, metas y unidades responsables de su ejecución. Los presupuestos se elaborarán para cada año calendario y se fundarán en costos.
+El gasto público estatal se basará en presupuestos con enfoque en resultados que se integrarán con Programas Presupuestarios y Actividades Institucionales. Para ello se observará lo establecido en la Ley de Contabilidad y demás disposiciones aplicables. Los presupuestos se elaborarán para cada año calendario.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+###### Artículo 156 Bis.
+
+Conforme a los criterios y lineamientos que emita la Secretaría, las Dependencias y Entidades establecerán para cada Programa Presupuestario y Actividad Institucional, en su caso:
+
+I. Los objetivos, sus Indicadores de Desempeño y metas que se pretendan alcanzar;
+
+II. Los bienes y servicios a producir y servicios administrativos de apoyo;
+
+III. Los beneficiarios de los bienes y servicios que se pretendan generar, identificando, en la medida de lo posible, el género, las regiones y los grupos vulnerables; y
+
+IV. La temporalidad de los programas, así como la designación de los responsables de su ejecución.
+
+Para ello, se tomará en cuenta los resultados de la evaluación del desempeño que se hayan obtenido con la aplicación del Gasto Público.
+
+Los Programas Presupuestarios y Actividades Institucionales y demás programas de las Dependencias y Entidades deberán ser analizados y validados por la Secretaría, para que sean congruentes entre sí y respondan a los objetivos prioritarios del Plan y de los programas que de él se deriven.
 
 ###### Artículo 157.
 
 La Secretaría será la encargada de efectuar las previsiones de ingresos, en las que quedarán comprendidos aquellos que se obtengan por la recaudación de contribuciones estatales, productos, aprovechamientos, transferencias federales y demás ingresos federales.
 
-> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 158.
 
-Las unidades presupuestales remitirán sus respectivos proyectos de presupuesto, dentro de los cinco primeros días hábiles del mes de octubre de cada año, a la Secretaría, con sujeción a las normas y estimaciones financieras que el Gobernador del Estado establezca por conducto de la Secretaría.
+Las unidades presupuestales remitirán sus respectivos anteproyectos de presupuesto, dentro de los cinco primeros días hábiles del mes de octubre de cada año, a la Secretaría, con sujeción a las normas y estimaciones financieras que el Gobernador del Estado establezca por conducto de la Secretaría y cumpliendo con la Ley de Contabilidad y demás disposiciones aplicables.
 
-Los Poderes y Organismos autónomos elaborarán sus proyectos de presupuesto, elaborados conforme a sus propios programas operativos, tomando en consideración los lineamientos y estimaciones económicas que emita la Secretaría, los cuales remitirán dentro de los cinco primeros días hábiles del mes de octubre de cada año, con la única excepción del Poder Legislativo, que en el año de su renovación se apegará a lo establecido por el artículo 26 fracción I, inciso a) de la Constitución Política local.
+Los Poderes y los Organismos Autónomos formularán sus proyectos de presupuesto elaborados conforme a sus Programas Presupuestarios y Actividades Institucionales, tomando en consideración los lineamientos y estimaciones económicas que emita la Secretaría y lo dispuesto por la Ley de Contabilidad y demás disposiciones aplicables, los cuales remitirán dentro de los cinco días hábiles del mes de octubre, de cada año, con excepción del Poder Legislativo, que en el año de su renovación se apegará a lo establecido por el artículo 26 fracción I, inciso a) de la Constitución Política del Estado.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+###### Artículo 158 Bis.
+
+En sus anteproyectos de presupuesto, las Unidades Presupuestales determinarán las previsiones del gasto y su calendarización de acuerdo con la clasificación por objeto del gasto y demás clasificaciones que señale la Secretaría, para cada una de las categorías programáticas establecidas por ésta, y apegándose a lo preceptuado por la Ley de Contabilidad y demás disposiciones aplicables.
 
 ###### Artículo 159.
 
@@ -2813,57 +2911,117 @@ Con objeto de lograr un mejor aprovechamiento y eficiencia en el ejercicio de lo
 
 La Secretaría consolidará e integrará el proyecto de presupuesto del Gobierno del Estado, para ser presentado a consideración del C. Gobernador a más tardar el 31 de octubre de cada año.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 160.
 
-La Secretaría autorizará los proyectos de presupuesto de las dependencias y de las entidades que tengan a su cargo programas que deban quedar comprendidos en la integración del proyecto de presupuesto del Estado.
+La Secretaría autorizará los anteproyectos de presupuesto de las dependencias y de las entidades que tengan a su cargo Programas Presupuestarios y Actividades Institucionales que deban quedar comprendidos en la integración del proyecto de presupuesto del Estado.
 
 Las entidades no comprendidas dentro del presupuesto del Estado, a través de sus órganos de gobierno o equivalentes, aprobarán sus presupuestos de ingresos y egresos, de los cuales informarán a la Secretaría.
 
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 161.
 
-El proyecto de presupuesto del Estado se integrará con los documentos que se refieren a:
+El proyecto de Presupuesto del Estado se integrará con los documentos e información siguientes:
 
-a) Descripción clara de la política de gasto público, la cual deberá mostrar su congruencia con los objetivos y metas establecidos en el Plan;
+I. Exposición de motivos, que comprenda los siguientes apartados:
 
-b) Estimación de ingresos por cada concepto de contribución estatal, aprovechamientos, productos, participaciones y aportaciones federales, y demás ingresos;
+a) Situación de la economía mundial y nacional;
 
-c) Estimación de la composición de los gastos de acuerdo a su clasificación económica, administrativa y funcional;
+b) Condiciones económicas, financieras y hacendarias del Estado;
 
-d) Señalar la retribución que corresponda a los empleos públicos;
+c) Situación de la deuda pública al fin del último ejercicio fiscal y la estimación de la que se tendrá al concluir el ejercicio fiscal en curso;
 
-e) Los ingresos obtenidos y gastos realizados del ejercicio presupuestal inmediato anterior;
+d) Estimación de ingresos por cada concepto de contribución estatal, aprovechamientos, productos, participaciones y aportaciones federales, y demás ingresos y la proposición de egresos del ejercicio fiscal correspondiente;
 
-f) El saldo de la deuda pública del ejercicio fiscal inmediato anterior y estimación del que se tendrá al fin del que se propone;
+e) Descripción clara de la política de gasto público, la cual deberá mostrar su congruencia con los objetivos y metas establecidos en el Plan;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 27 DE JUNIO DE 2006)</small>
+f) Ingresos obtenidos y gastos realizados del ejercicio presupuestal inmediato anterior;
 
-g) Los comentarios acerca de las condiciones económicas que se prevén;
+g) Cartera de proyectos de inversiones públicas productivas de ejecución multianual que pretendan iniciarse en el ejercicio así como los contratos de prestación de servicios a largo plazo celebrados de conformidad con la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, detallando los montos a ejercer en ejercicios subsecuentes; y
 
-> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2006)</small>
+h) Los proyectos de inversiones públicas productivas de ejecución multianual iniciados en ejercicios anteriores así como los contratos de prestación de servicios a largo plazo celebrados de conformidad con la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, celebrados en ejercicios anteriores, detallando los montos a ejercer en el ejercicio.
 
-h) Cartera de proyectos de inversiones públicas productivas de ejecución multianual que pretendan iniciarse en el ejercicio, detallando los montos a ejercer en ejercicios subsecuentes; y
+II. Estados financieros del último ejercicio fiscal y estimación que se tendrá al fin del ejercicio fiscal en curso;
 
-> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2006)</small>
+III. Estimación de la composición de los gastos de acuerdo a su clasificación económica, administrativa y funcional, que la Ley de Contabilidad y demás disposiciones aplicables establezcan;
 
-i) Los proyectos de inversiones públicas productivas de ejecución multianual iniciados en ejercicios anteriores, detallando los montos a ejercer en el ejercicio.
+IV. Descripción clara de los Programas Presupuestarios y Actividades Institucionales, en donde se señalen objetivos, metas e Indicadores de Desempeño, y los responsables de su ejecución, así como su valuación en costo;
+
+V. Los resultados de la evaluación del desempeño que se hayan obtenido con la aplicación del gasto público;
+
+VI. Los tabuladores para la remuneración de los servidores públicos, el número de plazas autorizadas y la remuneración integrada mensual y anual que les corresponda;
+
+VII. En el caso de proyectos de inversión que forman parte de los Programas Presupuestarios se deberá especificar:
+
+a) Los proyectos en proceso y nuevos proyectos, identificando los que se consideren prioritarios y estratégicos de acuerdo con los criterios del Plan y demás instrumentos que emanen del mismo;
+
+b) Para el caso de los proyectos en proceso, el total de la inversión realizada al término del ejercicio presupuestal inmediato anterior, la del ejercicio en curso y en su caso, subsecuentes;
+
+c) El lugar geográfico de su realización, la modalidad de inversión y los responsables de su ejecución;
+
+d) El periodo total de ejecución y la previsión de recursos para la puesta en operación de los programas y proyectos;
+
+e) Cartera de proyectos de inversiones públicas productivas de ejecución multianual que pretendan iniciarse en el ejercicio, detallando los montos a ejercer en ejercicios subsecuentes;
+
+f) Los proyectos de inversiones públicas productivas de ejecución multianual iniciados en ejercicios anteriores, detallando los montos a ejercer en el ejercicio, y
+
+g) La estimación del impacto esperado por género, región y grupos vulnerables.
+
+VIII. En general, toda la información que se considere útil para proporcionar elementos de juicio para su aprobación.
+
+En todo caso, el proyecto de Presupuesto de Egresos deberá cumplir con los requisitos que prevén los artículos 46, 47, 48 y 61 fracción II de la Ley de Contabilidad y publicarse en los términos de dicha Ley.
+
+El proyecto de Presupuesto de Egresos enviado al Congreso, así como las disposiciones aplicables a su proceso de integración, los dictámenes, acuerdos de comisión y, en su caso, actas de aprobación correspondientes, conforme al marco jurídico aplicable, deberán publicarse en los términos de la Ley de Contabilidad y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+###### Artículo 161 Bis.
+
+El proyecto de Ley de Ingresos del Estado contendrá cuando menos:
+
+I. La exposición de motivos en la que se señale:
+
+a) La política de ingresos del Gobierno del Estado conforme al Plan;
+
+b) Los ingresos estimados para el año que se presupuesta;
+
+c) La propuesta de ingresos derivados de financiamientos para el año que se presupuesta, que incluya monto, destino, justificación y estimación de las amortizaciones;
+
+d) El saldo y composición de la deuda pública del Estado, y
+
+e) Otros aspectos que el Gobernador del Estado juzgue convenientes para justificar el proyecto de Ley de Ingresos.
+
+II. La estimación de ingresos desglosada por concepto, para el año que se presupuesta.
+
+En todo caso el proyecto de Ley de Ingresos deberá cumplir con los requisitos que prevén los artículos 46, 47, 48 y 61 fracción I de la Ley de Contabilidad y publicarse en los términos de dicha Ley y demás disposiciones aplicables.
+
+La Ley de Ingresos aprobada por el Congreso y la iniciativa correspondiente, así como los dictámenes, acuerdos de comisión y, en su caso, las actas de aprobación respectivas, conforme al marco jurídico vigente, así como las disposiciones aplicables a su proceso de integración, deberán publicarse en los términos de la Ley de Contabilidad y demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 162.
 
-La división de los capítulos en conceptos y partidas específicas se hará con base en el instructivo que al efecto emita la Secretaría.
+La división de los capítulos del Presupuesto de Egresos en conceptos y partidas específicas se hará de acuerdo a la normatividad que al efecto emita la Secretaría y de acuerdo a lo que disponga la Ley de Contabilidad y demás disposiciones aplicables.
 
-El gasto público se ejercerá con base en los calendarios financieros y de metas que se establezcan conforme a los criterios, manuales y lineamientos que determine la Secretaría.
+El gasto público se ejercerá con base en los calendarios financieros y de metas que se establezcan conforme a los criterios, manuales y lineamientos dispuestos por la Ley de Contabilidad y demás disposiciones aplicables.
+
+Los calendarios de presupuesto de egresos con base mensual deberán publicarse en los términos de la Ley de Contabilidad y demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 163.
 
-Durante el mes de agosto de cada año, la Secretaría dará a conocer a las unidades presupuestales los criterios y los lineamientos para la formulación del presupuesto.
+Durante el mes de agosto de cada año, la Secretaría dará a conocer a las Unidades Presupuestales los criterios y los lineamientos para la formulación del presupuesto, observando la Ley de Contabilidad y demás disposiciones aplicables.
 
 ### CAPÍTULO SEGUNDO. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 164.
 
-En cumplimiento de lo dispuesto en el artículo 26 fracción I, inciso a) de la Constitución Política local, el Gobernador del Estado presentará, entre el seis y diez de noviembre de cada año, el presupuesto estatal para su aprobación, el cual detallará ampliamente los ingresos y egresos del año siguiente. Cuando sea año de renovación del Congreso, el Gobernador del Estado tendrá los primeros quince días hábiles del mes de noviembre para presentar el presupuesto. En caso de que el día diez de noviembre sea inhábil, el término se trasladará al día hábil inmediato siguiente.
+En cumplimiento de lo dispuesto en el artículo 26, fracción I, inciso a) de la Constitución Política local, el Gobernador del Estado presentará al Congreso, entre el seis y diez de noviembre de cada año, el presupuesto estatal para su aprobación, el cual detallará ampliamente los ingresos y egresos del año siguiente, debiendo cumplir en lo conducente, además de lo establecido en este Código, la Ley de Contabilidad y demás disposiciones aplicables. En caso de que el día diez de noviembre sea inhábil, el término se trasladará al día hábil inmediato siguiente. Cuando se trate de año de renovación del Congreso, el Gobernador del Estado tendrá los primeros quince días hábiles del mes de noviembre para presentar el presupuesto.
 
 Si al 31 de diciembre no se han aprobado la Ley de Ingresos y el Decreto de Presupuesto de Egresos, el Gobierno del Estado recaudará los ingresos establecidos en este Código; asimismo ejercerá en cada mes una doceava parte del último presupuesto ejercido, en tanto se aprueben dichas Ley o Decreto.
 
@@ -2882,6 +3040,32 @@ Cuando las asignaciones establecidas en el presupuesto resultaren insuficientes 
 Al efecto, la Secretaría, con base en la disponibilidad presupuestal existente, elaborará un dictamen sobre la procedencia de la solicitud, la que será sometida para su aprobación al titular del Poder Ejecutivo, misma que se integrará al informe trimestral correspondiente.
 
 Tratándose del Poder Judicial, del Poder Legislativo y de los Organismos Autónomos, el Ejecutivo Estatal enviará las modificaciones al Congreso, el cual, en su caso, las aprobará.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+###### Artículo 166 Bis.
+
+Las Dependencias y Entidades que elaboren anteproyectos de iniciativas de leyes y decretos que se tenga programado presentar al Congreso, así como reglamentos, decretos, convenios, acuerdos y demás documentos análogos que impliquen repercusiones financieras, realizarán una evaluación sobre su impacto presupuestal, el cual deberá adjuntarse al anteproyecto y remitirse a la Secretaría previo a su trámite ante las instancias que procedan.
+
+En caso de que el anteproyecto tenga un impacto presupuestal, las Dependencias o Entidades deberán señalar la fuente de financiamiento de los nuevos gastos.
+
+La evaluación del impacto presupuestal considerará cuando menos:
+
+I. El costo de la modificación de la estructura orgánica de las Dependencias y Entidades por la creación o modificación de Unidades Presupuestales y plazas en los términos que establezcan la Secretaría y la Contraloría de conformidad con sus respectivas atribuciones;
+
+II. Las modificaciones que deberán hacerse a los Programas Presupuestarios y Actividades Institucionales aprobados de las Dependencias o Entidades;
+
+III. El establecimiento de nuevas atribuciones y actividades que deberán realizar las Dependencias o Entidades;
+
+IV. La inclusión de disposiciones generales que incidan en la regulación en materia presupuestal y organizacional, y
+
+V. El destino específico de gasto público de conformidad con las distintas clasificaciones de gasto aplicables.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+###### Artículo 166 Ter.
+
+Las Dependencias y Entidades presentarán a la Secretaría para su autorización, la solicitud de suficiencia presupuestaria acompañada de la evaluación del impacto presupuestal de los anteproyectos referidos en el artículo anterior, de conformidad con las prioridades de desarrollo del Estado y de la capacidad financiera de la hacienda pública estatal. La Secretaría podrá solicitar a la Dependencia o Entidad, la información complementaria que considere pertinente para dar el trámite respectivo. La Secretaría podrá emitir, cuando así lo considere, recomendaciones que incidan en el ámbito presupuestal respecto del anteproyecto, conforme a las disposiciones jurídicas vigentes. A la autorización que emita la Secretaría, se anexarán los anteproyectos referidos en este artículo y el anterior, para presentarlos a la consideración del Gobernador del Estado.
 
 ###### Artículo 167.
 
@@ -2917,7 +3101,9 @@ La administración del gasto público se efectuará en los términos de este Có
 
 La Secretaría, la Contraloría y el Órgano de Fiscalización Superior del Estado, en el ámbito de sus respectivas competencias, emitirán los criterios y lineamientos para la administración del gasto público estatal, los que serán de observancia obligatoria para las Unidades Presupuestales.
 
-Se exceptúan de las disposiciones del párrafo anterior, el ejercicio, la contabilidad, el control y la evaluación del presupuesto de los Poderes y de los Organismos Autónomos, en cuyos casos sus órganos de gobierno determinarán los criterios y lineamientos aplicables.
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+Se exceptúan de estas disposiciones, el ejercicio, la contabilidad, el control y la evaluación del presupuesto de los Poderes y de los Organismos Autónomos, en cuyo caso sus órganos de gobierno determinarán los criterios y lineamientos aplicables, de conformidad a lo establecido en la Ley de Contabilidad y demás disposiciones aplicables.
 
 ###### Artículo 174.
 
@@ -2983,11 +3169,17 @@ Las unidades presupuestales se abstendrán de formalizar y modificar convenios, 
 
 Los fideicomisos públicos que se constituyan para ejercer recursos obtenidos de contribuciones estatales, estarán facultados para liberar recursos de sus patrimonios fideicomitidos, a través de las instrucciones que generen sus comités técnicos a sus respectivos fiduciarios, en términos de lo dispuesto por el instrumento de su creación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 177.
 
-Las unidades presupuestales serán responsables de la administración de los recursos estatales y federales de que dispongan para la realización de los programas a su cargo.
+Las unidades presupuestales serán responsables de la administración de los recursos estatales y federales de que dispongan para la realización de los Programas Presupuestarios y Actividades Institucionales a su cargo.
 
 Tratándose de fondos federales, las unidades presupuestales ejercerán y controlarán los recursos que les sean transferidos para la realización de los programas convenidos entre la Federación y el Estado, de manera que se aplique la normatividad federal y las disposiciones específicas para su ejercicio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE AGOSTO DE 2013)</small>
+
+Las unidades presupuestales serán responsables de enviar al Ejecutivo Federal, por conducto de la Secretaría, los informes sobre el ejercicio y destino de los recursos de los fondos federales que les sean aplicables, de conformidad con los lineamientos que para el efecto emita esta última.
 
 ###### Artículo 178.
 
@@ -2995,23 +3187,29 @@ La Secretaría será responsable de llevar un padrón de servidores públicos au
 
 Los servidores públicos que administren fondos y valores del Estado caucionarán debidamente su manejo.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 179.
 
-Las dependencias y entidades del Poder Ejecutivo, a través de la Secretaría, así como el Poder Judicial y los Organismos Autónomos de (sic) Estado a través de sus respectivas unidades administrativas responsables del ejercicio presupuestal, estarán obligadas a presentar al Congreso informes trimestrales sobre el ejercicio de sus correspondientes gastos públicos. La revisión de dichos informes se realizará con el apoyo del Órgano de Fiscalización Superior.
+Las Dependencias y Entidades, a través de la Secretaría, así como el Poder Judicial y los Organismos Autónomos del Estado a través de sus respectivas unidades administrativas, estarán obligadas a presentar al Congreso informes trimestrales sobre el ejercicio de su correspondiente gasto público. La revisión de dichos informes se realizará con el apoyo del Órgano de Fiscalización Superior.
+
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
 Con independencia de lo dispuesto en el párrafo anterior, quien ejerza gasto público en el Poder Ejecutivo estará obligado, además, a proporcionar la información que le requiera la Secretaría y la Contraloría. Tratándose de los Poderes Legislativo y Judicial, así como de los Organismos Autónomos de Estado, dicha información será proporcionada a sus correspondientes unidades de control interno.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE AGOSTO DE 2013)</small>
+
+La información financiera que generen las Unidades Presupuestales del Ejecutivo del Estado, será organizada, sistematizada y difundida por la Secretaría, al menos trimestralmente en su respectiva página electrónica de Internet, a más tardar 30 días después del cierre del periodo que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE AGOSTO DE 2013)</small>
+
+Las demás Unidades Presupuestales tendrán las obligaciones a que se refiere el párrafo anterior. La Secretaría establecerá en su respectiva página de Internet, los enlaces electrónicos que permitan acceder a dicha información financiera. Lo señalado en este párrafo y en el anterior, deberá observar la Ley de Contabilidad.
+
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 180.
 
-El gasto público se ajustará al monto autorizado para los programas y partidas presupuestales, salvo las partidas que se señalen como de ampliación automática en los presupuestos, para aquellas erogaciones cuyo monto no sea posible prever.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 27 DE JUNIO DE 2006)</small>
-
-La Secretaría, previo acuerdo del Gobernador del Estado, autorizará las ampliaciones o reducciones de los recursos asignados a las dependencias y entidades comprendidas en el presupuesto, misma que se integrará al informe trimestral correspondiente.
-
-Las ampliaciones presupuestales autorizadas a los Poderes Legislativo y Judicial, y a los Organismos Autónomos estarán a lo dispuesto por este Código y a las disposiciones legales aplicables.
+El gasto público se ajustará al monto autorizado para los Programas Presupuestarios, Actividades Institucionales y partidas presupuestales, excepto para aquellas erogaciones cuyo monto no sea posible prever.
 
 ###### Artículo 181.
 
@@ -3027,9 +3225,11 @@ En el caso de que las unidades presupuestales requieran efectuar erogaciones por
 
 La procedencia de los pagos señalados en los párrafos anteriores será verificada por los órganos de control de las unidades presupuestales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 183.
 
-Las unidades presupuestales no contraerán obligaciones que impliquen comprometer recursos de los subsecuentes ejercicios presupuestales, así como tampoco celebrarán contratos o ejecutarán proyectos de infraestructura de largo plazo, ni otorgarán concesiones, permisos, licencias y autorizaciones o cualquier otro acto de naturaleza análoga, que implique la posibilidad de algún gasto contingente o adquirir obligaciones futuras.
+Las unidades presupuestales no contraerán obligaciones que impliquen comprometer recursos de los subsecuentes ejercicios presupuestales, así como tampoco celebrarán contratos o ejecutarán proyectos de infraestructura de largo plazo, ni otorgarán concesiones, permisos, licencias y autorizaciones o cualquier otro acto de naturaleza análoga, que implique la posibilidad de algún gasto contingente o adquirir obligaciones futuras. Se exceptuarán de lo anterior, los casos previstos en los ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
@@ -3037,9 +3237,11 @@ En casos excepcionales, debidamente justificados y dictaminados, el Gobernador d
 
 Para los efectos del párrafo anterior, las dependencias remitirán a la Secretaría los proyectos respectivos, mismos que contendrán la estimación de la cantidad total a erogar, el monto total de la operación, la justificación del gasto, el periodo de ejecución, el calendario de ministraciones e indicación de las áreas responsables de su ejercicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 184.
 
-Las entidades se sujetarán a las disposiciones legales referentes a la aprobación de su presupuesto y rendición de cuentas que se determinen en los ordenamientos que las crean; debiendo observar, en lo que les sea aplicable, las disposiciones que sobre el ejercicio del gasto se detallan en este Título.
+Las entidades se sujetarán a las disposiciones legales referentes a la aprobación de su presupuesto y rendición de cuentas que se determinen en los ordenamientos que las crean; debiendo observar, en lo que les sea aplicable, las disposiciones que sobre el ejercicio del gasto se detallan en este Título. En todo caso deberán observar la regulación prevista en la Ley de Contabilidad y demás disposiciones aplicables.
 
 Los órganos de gobierno de las entidades reportarán en tiempo y forma a la Secretaría la información presupuestal y contable que le solicite para la integración del presupuesto y de la cuenta pública del Gobierno del Estado.
 
@@ -3059,11 +3261,11 @@ Cuando, por la naturaleza de las funciones que correspondan a la dependencia, o 
 
 Para el ejercicio del gasto público, las coordinaciones administrativas tendrán las mismas facultades que la unidad administrativa, salvo las que se señalen como exclusivas de esta última.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 186.
 
-Los respectivos titulares de las unidades administrativas en las dependencias centralizadas o entidades paraestatales de su adscripción, serán responsables del ejercicio del gasto público asignado a la dependencia o entidad de que se trate de conformidad con lo dispuesto por la Ley Orgánica del Poder Ejecutivo, este Código y demás disposiciones aplicables para lo cual contarán con las siguientes responsabilidades en el ejercicio del gasto público.
+Los respectivos titulares de las unidades administrativas en las dependencias o entidades de su adscripción, serán responsables del ejercicio del gasto público asignado a la dependencia o entidad de que se trate de conformidad con lo dispuesto por la Ley Orgánica del Poder Ejecutivo, este Código, la Ley de Contabilidad y demás disposiciones aplicables, para lo cual contarán con las siguientes responsabilidades en el ejercicio del gasto público:
 
 I. Organizar y dirigir, por acuerdo del titular de la dependencia, las actividades administrativas de la dependencia o entidad;
 
@@ -3073,13 +3275,21 @@ III. Ejercer la administración de los recursos humanos, materiales, adquisicion
 
 IV. Asesorar al titular de la dependencia sobre la política, directrices, normas y criterios técnicos en materia de reforma administrativa y, conforme a sus instrucciones, supervisar, controlar y evaluar su ejecución;
 
-V. Determinar y aplicar las políticas, directrices, procedimientos, normas y criterios técnicos de organización, coordinación e integración que permitan la elaboración y el desarrollo uniforme de los programas de actividades, previo acuerdo con el titular de la dependencia;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-VI. Analizar la información relativa al desarrollo y grado de avance de los programas e informar al titular de la dependencia los resultados obtenidos;
+V. Determinar y aplicar las políticas, directrices, procedimientos, normas y criterios técnicos de organización, coordinación e integración que permitan la elaboración y el desarrollo uniforme de los Programas Presupuestarios y Actividades Institucionales, previo acuerdo con el titular de la dependencia;
 
-VII. Diseñar, integrar e implementar conforme a las directrices del titular de la dependencia un sistema de control y evaluación que optimice la eficiencia de los recursos asignados a los programas autorizados;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-VIII. Revisar la eficiencia de los servicios administrativos que proporciona en apoyo a los programas de la dependencia y proponer, en su caso, al titular de la dependencia medidas para su mejoramiento;
+VI. Realizar la evaluación de los Programas Presupuestarios y Actividades Institucionales a su cargo, ya sea por cuenta propia o a través de terceros, así como analizar la información relativa al desarrollo y grado de avance de los programas e informar al titular de la dependencia los resultados obtenidos de la evaluación;
+
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+VII. Diseñar, integrar e implementar conforme a las directrices del titular de la dependencia un sistema de control y evaluación que optimice la eficiencia de los recursos asignados a los Programas Presupuestarios y Actividades Institucionales autorizados;
+
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+VIII. Revisar la eficiencia de los servicios administrativos que proporciona en apoyo a los Programas Presupuestarios y Actividades Institucionales de la Dependencia o Entidad, y proponer al titular de la misma, medidas para su mejoramiento;
 
 IX. Evaluar y proponer al titular de la dependencia las modificaciones a las estructuras orgánicas de la dependencia, así como en coordinación con los órganos internos de control, actualizar los manuales de organización y procedimientos;
 
@@ -3089,7 +3299,9 @@ XI. Llevar el control presupuestal y establecer los procedimientos para la corre
 
 XII. Formular mensualmente los estados financieros de la dependencia, así como el informe pormenorizado relativo a la conclusión de cada ejercicio;
 
-XIII. Aplicar las políticas, directrices, procedimientos, normas y criterios técnicos de organización, coordinación e integración que permitan la elaboración y desarrollo uniforme de los programas operativos anuales de la dependencia;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XIII. Aplicar las políticas, directrices, procedimientos, normas y criterios técnicos de organización, coordinación e integración que permitan la elaboración y desarrollo uniforme de los Programas Presupuestarios y Actividades Institucionales de la Dependencia;
 
 XIV. Operar el sistema de contabilidad de la dependencia y, en su caso, modificarlo previa anuencia de la Secretaría.
 
@@ -3097,13 +3309,17 @@ XV. Calendarizar el gasto público de la dependencia o entidad y, en su caso, ra
 
 XVI. Realizar las afectaciones, transferencias y recalendarizaciones presupuestales de acuerdo a los lineamientos establecidos por la Secretaría;
 
-XVII. Autorizar la suficiencia y ministración presupuestal a las áreas administrativas de la dependencia o entidad, para el ejercicio del gasto público asignado a sus programas;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XVII. Autorizar la suficiencia y ministración presupuestal a las áreas administrativas de la Dependencia o Entidad, para el ejercicio del gasto público asignado a sus Programas Presupuestarios y Actividades Institucionales;
 
 XVIII. Resguardar, conservar y custodiar el conjunto de la documentación contable y presupuestal, consistente en libros de contabilidad, registros contables y documentación comprobatoria y justificatoria del gasto público;
 
 XIX. Dictaminar al interior de la dependencia o entidad sobre las solicitudes de las áreas administrativas respecto de ampliación presupuestal;
 
-XX. Elaborar el proyecto de presupuesto de la dependencia o entidad de acuerdo a la normatividad de la materia y conforme a los lineamientos de la Secretaría
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XX. Elaborar el anteproyecto de presupuesto de la Dependencia o Entidad de acuerdo a la normatividad estatal y federal de la materia, y conforme a los lineamientos de la Secretaría;
 
 XXI. Mantener actualizados los sistemas de operación de archivos, efectuar la depuración de éstos, y llevar el catálogo de vigencia de documentos.
 
@@ -3163,7 +3379,9 @@ II. Llevar el control de la disponibilidad presupuestal de la dependencia;
 
 III. Proponer a la Secretaría el calendario de asignaciones presupuestales;
 
-IV. Consolidar la información presupuestal y contable de la dependencia, de acuerdo a los lineamientos que emita la Secretaría, y
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+IV. Consolidar la información presupuestal y contable de la Dependencia, de acuerdo a la Ley de Contabilidad y demás disposiciones aplicables, y
 
 V. Elaborar el programa anual de adquisiciones de la dependencia.
 
@@ -3179,19 +3397,25 @@ El Gobernador del Estado podrá disponer que los fondos o pagos de alguna depend
 
 ### CAPÍTULO SEGUNDO. DE LA ADMINISTRACIÓN DE LOS RECURSOS FINANCIEROS
 
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 189.
 
-La Secretaría dará a conocer el presupuesto autorizado por el Congreso y el calendario a las unidades presupuestales, durante los primeros cinco días de mes de enero de cada año.
+La Secretaría dará a conocer el presupuesto autorizado por el Congreso y el calendario a las Unidades Presupuestales, durante los primeros cinco días del mes de enero de cada año. Asimismo deberá de publicarlas en los términos que establece la Ley de Contabilidad y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 190.
 
-Con base en el presupuesto autorizado, las unidades presupuestales harán las adecuaciones que correspondan a sus programas operativos y calendarios anuales y los presentarán a la Secretaría antes de que concluya el mes de enero de cada año.
+Con base en el presupuesto autorizado, las unidades presupuestales harán las adecuaciones que correspondan a sus Programas Presupuestarios y Actividades Institucionales, y calendarios anuales; presentándolos a la Secretaría antes de que concluya el mes de enero de cada año.
 
 Se faculta a la Secretaría para elaborar los calendarios cuando éstos no se le hubieran presentado en tiempo y forma por las unidades presupuestales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 191.
 
-La Secretaría autorizará la suficiencia presupuestaria a las unidades presupuestales conforme a la calendarización respectiva y al monto global estimado para atender los programas a ejecutar.
+La Secretaría autorizará la suficiencia presupuestaria a las unidades presupuestales conforme a la calendarización respectiva y al monto global estimado para atender los Programas Presupuestarios y Actividades Institucionales a ejecutar.
 
 En el ejercicio de sus presupuestos, las unidades presupuestales se sujetarán estrictamente a los calendarios de gasto que establezca la Secretaría
 
@@ -3215,11 +3439,11 @@ La Secretaría determinará los lineamientos a que se sujetarán las dependencia
 
 Los recursos presupuestales que no se hayan destinado oportunamente a efectuar los pagos para los que fueron ministrados, se reintegrarán de inmediato a la Secretaría.
 
-> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 195.
 
-Los montos presupuestales no devengados y las economías presupuestales, previa autorización de la Secretaría, podrán aplicarse a programas prioritarios de las unidades presupuestales que los originen, conforme a los lineamientos administrativos que al efecto expida la Secretaría, los que se integrarán al informe trimestral correspondiente.
+Los montos presupuestales no devengados y las economías presupuestales, previa autorización de la Secretaría, podrán aplicarse a Programas Presupuestarios y Actividades Institucionales de las unidades presupuestales que los originen, conforme a los lineamientos administrativos que al efecto expida la Secretaría.
 
 ###### Artículo 196.
 
@@ -3231,13 +3455,19 @@ Las unidades administrativas, durante los primeros cinco días hábiles del mes 
 
 Todas las unidades presupuestales informarán a la Secretaría, dentro de los primeros cinco días del mes de enero de cada año, el monto, estructura y características de su pasivo circulante al fin del año anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 198.
 
-Las ministraciones de fondos a las dependencias y entidades serán autorizadas por la Secretaría, de acuerdo con los programas y metas correspondientes. La Secretaría podrá reservarse dicha autorización, cuando las dependencias y entidades:
+Las ministraciones de fondos a las Dependencias y Entidades serán autorizadas por la Secretaría, de acuerdo con los Programas Presupuestarios y Actividades Institucionales. La Secretaría podrá reservarse dicha autorización, cuando las Dependencias y Entidades:
 
-I. No envíen la información que les sea requerida, en relación con el ejercicio de sus programas y presupuestos.
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-II. Del análisis del ejercicio de sus presupuestos y en el desarrollo de sus programas, resulte que no cumplen con las metas de los programas aprobados o bien se detecten desviaciones en su ejecución o en la aplicación de los recursos correspondientes.
+I. No envíen la información que les sea requerida, en relación con el avance de los Programas Presupuestarios y Actividades Institucionales, y el ejercicio de sus presupuestos;
+
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+II. No cumplan con las metas de los Programas Presupuestarios y Actividades Institucionales aprobadas o se detecten desviaciones en su ejecución o en la aplicación de los recursos correspondientes;
 
 III. No remitan la información del ejercicio de los recursos en la forma y términos que establezca la Secretaría, lo que motivará la inmediata suspensión de las subsecuentes ministraciones de recursos que, por el mismo concepto, se hubiesen autorizado, así como el reintegro de lo suministrado.
 
@@ -3253,7 +3483,9 @@ I. Que se justifique la aplicación de los recursos solicitados en función de l
 
 II. Que las dependencias no cuenten con recursos ociosos o aplicados en operaciones que originen rendimientos de cualquier clase.
 
-III. El avance programático presupuestal de sus programas, subprogramas y proyectos, con el propósito de regular el ritmo de su ejecución con base en lo programado.
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+III. El avance programático presupuestal de sus Programas Presupuestarios y Actividades Institucionales, con el propósito de regular el ritmo de su ejecución con base en lo programado;
 
 IV. Que la transferencia se efectúe de una partida no prioritaria a otra que sí lo sea.
 
@@ -3287,9 +3519,9 @@ IV. Ingresos provenientes de apoyos adicionales del Gobierno Federal.
 
 V. Aportaciones de beneficiarios, los derivados de convenios interestatales o de aportaciones municipales.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
-Con excepción expresa de aquellos montos que tengan un destino específico, el Gobernador del Estado asignará los recursos excedentes a los programas que considere necesarios. De igual manera, la Secretaría queda facultada para la ministración de los mismos, así como para asignar hasta un ocho por ciento de los ingresos excedentes a incentivar las acciones que efectivamente los hayan generado.
+Con excepción expresa de aquellos montos que tengan un destino específico, el Gobernador del Estado asignará los recursos excedentes a los Programas Presupuestarios y Actividades Institucionales que considere necesarios. De igual manera, la Secretaría queda facultada para la ministración de los mismos, así como para asignar hasta un ocho por ciento de los ingresos excedentes a incentivar las acciones que efectivamente lo hayan generado.
 
 > <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
@@ -3331,7 +3563,9 @@ La Secretaría podrá autorizar traspasos o ampliaciones a las previsiones presu
 
 Las unidades administrativas en el ejercicio del presupuesto en el capítulo de servicios personales deberán:
 
-I. Dar prioridad a los traspasos de plazas y de recursos asignados a sus presupuestos, entre sus unidades responsables y programas;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+I. Dar prioridad a los traspasos de plazas y de recursos asignados a sus presupuestos, entre sus unidades responsables;
 
 II. Apegarse estrictamente a los niveles establecidos en los tabuladores de sueldos, cuotas, tarifas y demás asignaciones autorizadas por la Secretaría;
 
@@ -3339,9 +3573,9 @@ III. Reducir el pago de horas extras y de compensaciones a fin de optimizar los 
 
 IV. Tratándose de remuneraciones adicionales por jornadas, y horas extraordinarias, así como de otras prestaciones del personal que labore en las entidades con asignación presupuestal que se rijan por contratos colectivos de trabajo, los pagos se efectuarán de acuerdo con las estipulaciones contractuales que se mantengan vigentes a esa fecha y con apego a las disposiciones que establezca la Secretaría;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-V. Abstenerse de celebrar contratos de prestación de servicios, incluso con carácter eventual o por honorarios, para cumplir con las cargas ordinarias de trabajo de la dependencia. Los titulares de las dependencias podrán autorizar la celebración de contratos de prestación de servicios por honorarios, cuando exista dictamen de justificación emitido por el área usuaria, en el cual se demuestre la existencia de programas, actividades o proyectos que impliquen un incremento en las cargas ordinarias de trabajo;
+V. Abstenerse de celebrar contratos de prestación de servicios, incluso con carácter eventual o por honorarios, para cumplir con las cargas ordinarias de trabajo de la dependencia. Los titulares de las dependencias y entidades podrán autorizar la celebración de contratos de prestación de servicios por honorarios, cuando exista dictamen de justificación emitido por el área usuaria, en el cual se demuestre la existencia de Programas Presupuestarios y Actividades Institucionales que impliquen un incremento en las cargas ordinarias de trabajo;
 
 VI. Vigilar permanentemente que no se realicen pagos por concepto de compensaciones de cualquier naturaleza, a título de representación en Órganos de Gobierno, Juntas Directivas, Consejos, Comités Técnicos y otros;
 
@@ -3351,9 +3585,11 @@ VIII. Vigilar que no se realicen pagos de servicios personales por medio de fond
 
 IX. Proporcionar a la Contraloría y a la Secretaría, cuando lo requieran, la información relativa a la estructura y plantilla de personal que labora en la dependencia, con objeto de coadyuvar al control y ejercicio presupuestal.
 
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 208.
 
-Las unidades administrativas deberán analizar las estructuras orgánicas y ocupacionales de las dependencias, a efecto de promover su racionalización, sin detrimento de su eficiencia y productividad para cumplir con las prioridades que establecen el Plan Veracruzano de Desarrollo; así como los programas y proyectos del Gobierno del Estado.
+Las unidades administrativas deberán analizar las estructuras orgánicas y ocupacionales de sus Dependencias y Entidades, a efecto de promover su racionalización, sin detrimento de su eficiencia y productividad para cumplir con las prioridades que establece el Plan; así como los Programas Presupuestarios y Actividades Institucionales.
 
 ###### Artículo 209.
 
@@ -3383,7 +3619,9 @@ Corresponde a las dependencias efectuar, a través de sus unidades administrativ
 
 Asimismo, en relación con los bienes inmuebles de propiedad estatal asignados a la dependencia corresponde a la unidad administrativa su conservación y mantenimiento.
 
-Para tal efecto, la unidad administrativa se sujetará a lo dispuesto por las leyes de la materia, y a los programas y presupuesto aprobados.
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+Para tal efecto, la unidad administrativa se sujetará a lo dispuesto por las leyes de la materia, y al presupuesto aprobado de los Programas Presupuestarios y Actividades Institucionales.
 
 ###### Artículo 214.
 
@@ -3391,11 +3629,11 @@ Corresponde a la unidad administrativa de cada dependencia elaborar el programa 
 
 La unidad administrativa determinará la pertinencia de consolidar los requerimientos de adquisiciones y contratación de servicios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 215.
 
-La adquisición de bienes inmuebles para integrarlos al patrimonio estatal debe estar considerada en el programa operativo anual de la Secretaría, a través de la Dirección General del Patrimonio del Estado.
+La adquisición de bienes inmuebles para integrarlos al patrimonio estatal debe estar considerada en el presupuesto aprobado de los Programas Presupuestarios y Actividades Institucionales de la Secretaría.
 
 La Secretaría determinará, en atención al presupuesto autorizado, la disponibilidad presupuestal y el calendario de ministraciones para el pago del precio de los inmuebles a adquirir o de las indemnizaciones que deriven de procedimientos expropiatorios.
 
@@ -3467,7 +3705,9 @@ II. Contar con disponibilidad presupuestal para el pago de la renta; cuyo monto 
 
 III. Autorizar incrementos anuales, los cuales no superarán lo dispuesto en términos de ley.
 
-Sólo se celebrarán contratos de arrendamiento de edificios y locales, cuando correspondan a previamente programas aprobados, debiendo optimizar el uso de los espacios físicos disponibles.
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+Sólo se celebrarán contratos de arrendamiento de edificios y locales, cuando correspondan a Programas Presupuestarios y Actividades Institucionales aprobados previamente, debiendo optimizar el uso de los espacios físicos disponibles.
 
 ###### Artículo 221.
 
@@ -3581,7 +3821,9 @@ b) Las cuotas de trabajadores y las aportaciones patronales que reciba el Instit
 
 c) Los ingresos producto de la prestación de servicios públicos que administren las entidades.
 
-En los casos señalados en las fracciones anteriores, quien realice la recaudación deberá informar a la Secretaría mensualmente el monto de lo recaudado, para que ésta, a su vez, lo reporte en la cuenta pública; asimismo, quien recaude observará las disposiciones relativas a tesorería, contabilidad y control que en éste Código se establecen y que le sean aplicables.
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+En los casos señalados en las fracciones anteriores, quien realice la recaudación deberá informar a la Secretaría mensualmente el monto de lo recaudado, para que ésta, a su vez, lo reporte en la cuenta pública. Asimismo, quien recaude observará las normas relativas a tesorería, contabilidad y control que en este Código, en la Ley de Contabilidad y demás disposiciones se establezcan y le sean aplicables.
 
 ###### Artículo 231.
 
@@ -3597,11 +3839,13 @@ Cuando la ley destine los fondos a un fin determinado, con objeto de aprovecharl
 
 ### CAPÍTULO SEGUNDO. DE LOS PAGOS Y MINISTRACIONES
 
-> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 233.
 
-La Tesorería de la Secretaría, atendiendo a las disponibilidades de recursos financieros con las que se cuente, efectuará los pagos de las obligaciones principales y accesorias a cargo del Gobierno del Estado, incluyendo las que tramiten las unidades presupuestales, en términos de lo establecido en el artículo 267.
+La Tesorería de la Secretaría efectuará el pago de las obligaciones a cargo del Gobierno del Estado con base en el Dictamen de Suficiencia Presupuestal que emita la Secretaría a solicitud de las dependencias y entidades.
+
+Para efectos de lo anterior, la Secretaría operará el sistema de la cuenta única de Tesorería, que será obligatorio para las dependencias y entidades, sin perjuicio de las obligaciones que correspondan a sus respectivas unidades administrativas.
 
 ###### Artículo 234.
 
@@ -3637,11 +3881,15 @@ La Secretaría podrá establecer lineamientos generales para el otorgamiento de 
 
 Corresponde a las unidades administrativas o equivalentes de las dependencias y entidades conservar la documentación respectiva y, en su caso, remitirla a la Secretaría para que ésta proceda a ejercitar los derechos que correspondan al Gobierno del Estado, a cuyo efecto y con la debida oportunidad, se le presentará la información y documentación necesarios.
 
-###### Articulo 239.
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
-El Gobierno del Estado está exento de otorgar garantías y depósitos para el cumplimiento de sus obligaciones de pago con cargo a su presupuesto, con excepción de las previstas para garantizar el pago de deuda pública estatal directa o contingente.
+###### Artículo 239.
 
-Tratándose de deuda pública, la Secretaría otorgará las garantías y avales a cargo del gobierno estatal mediante la suscripción, en términos de su competencia, de los documentos que las constituyan y, cuando así proceda, promoverá la oportuna cancelación de dichas obligaciones.
+El Gobierno del Estado está exento de otorgar garantías y depósitos para el cumplimiento de sus obligaciones de pago con cargo a su presupuesto, con excepción de las previstas para garantizar el pago de; (i) deuda pública estatal directa o contingente o (ii) las obligaciones que deba pagar el Estado o los municipios o las entidades estatales o municipales adquiridas por la celebración de contratos de prestación de servicios de conformidad con la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave.
+
+Tratándose de deuda pública, la Secretaria otorgará las garantías y avales a cargo del gobierno estatal, mediante la suscripción, en términos de su competencia, de los documentos que las constituyan y, cuando así proceda, promoverá la oportuna cancelación de dichas obligaciones.
+
+Tratándose de las obligaciones que deba pagar el Estado o los municipios o las entidades estatales o municipales adquiridas por la celebración de contratos de prestación de servicios, de conformidad con la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, se otorgarán las garantías correspondientes mediante la suscripción de documentos que las constituyan, así como también podrán implementarse mecanismos financieros y documentos que las conformen, cuando así proceda promover la oportuna cancelación de dichas obligaciones de pago establecidas en los mismos.
 
 > <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
 
@@ -3705,23 +3953,31 @@ I. Registrar diariamente la información del ingreso y del egreso efectuados.
 
 II. Enlazar el subsistema de contabilidad de fondos estatales con los demás subsistemas contables del gobierno estatal, a fin de mejorar los mecanismos para el registro de las operaciones.
 
-III. Vincular la contabilidad con la información que registren las instituciones bancarias del movimiento de fondos de las cuentas de gobierno y la cuenta concentradora de la Secretaría.
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+III. Vincular la contabilidad con la información que registren las instituciones bancarias del movimiento de fondos de las cuentas de gobierno y la cuenta concentradora de la Secretaría. Para lo establecido en esta fracción y en las dos anteriores de este artículo, se deberá observar en lo conducente la Ley de Contabilidad y demás disposiciones aplicables.
 
 IV. Establecer y mantener los registros necesarios que provean la información para el análisis económico, financiero y de toma de decisiones.
 
 V. Aportar los elementos que permitan determinar la responsabilidad de los servidores públicos en materia de manejo de fondos y valores mediante controles contables y administrativos.
 
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 250.
 
-Los ingresos resultantes de la recaudación se reflejarán de inmediato en los registros de la oficina receptora, salvo que se trate de instituciones bancarias o terceros autorizados, en cuyo caso éstas efectuarán el registro en los plazos establecidos en las autorizaciones relativas que emita la Secretaría.
+Los ingresos resultantes de la recaudación se reflejarán de inmediato en los registros de la oficina receptora, salvo que se trate de instituciones bancarias o terceros autorizados, en cuyo caso éstas efectuarán el registro en los plazos establecidos en las autorizaciones relativas que emita la Secretaría, considerándose en lo conducente la Ley de Contabilidad y demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 251.
 
-Los bienes que excepcionalmente se reciban para el pago de adeudos a favor del gobierno estatal, conforme a lo dispuesto en este Código, se registrarán en cuentas de orden de la Secretaría.
+Los bienes que excepcionalmente se reciban para el pago de adeudos a favor del gobierno estatal, se registrarán conforme a lo dispuesto en este Código, en la Ley de Contabilidad y demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 252.
 
-Los fondos que resulten del ejercicio de los derechos patrimoniales, inherentes a los valores que representen inversiones financieras del gobierno estatal, deberán registrarse en el subsistema de contabilidad de fondos estatales.
+Los fondos que resulten del ejercicio de los derechos patrimoniales, inherentes a los valores que representen inversiones financieras del gobierno estatal, deberán registrarse en el subsistema de contabilidad de fondos estatales, considerándose lo establecido en la Ley de Contabilidad y demás disposiciones aplicables.
 
 ###### Artículo 253.
 
@@ -3969,11 +4225,11 @@ La Secretaría y la Contraloría General, en el ámbito de sus competencias, har
 
 ### CAPÍTULO TERCERO. DE LA CUENTA PÚBLICA
 
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 280.
 
-La Secretaría emitirá y dará a conocer a las unidades presupuestales, los lineamientos para obtener de éstas los datos necesarios para la elaboración de la cuenta pública, a más tardar el día 30 de noviembre de cada año.
+La Secretaría, emitirá y dará a conocer a las Unidades Presupuestales, los lineamientos para obtener de éstas los datos necesarios para la elaboración de la cuenta pública, a más tardar el día 30 de noviembre de cada año. Los lineamientos correspondientes deberán observar lo dispuesto por la Ley de Contabilidad y demás disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
@@ -4013,11 +4269,11 @@ Las unidades administrativas serán responsables de que la información consolid
 
 La información a que se refiere este artículo, deberá contar con la aprobación del titular de la dependencia o entidad.
 
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 287.
 
-La Secretaría formulará la cuenta pública y la someterá a consideración del Titular del Poder Ejecutivo durante el mes de abril de cada año, para su presentación al Congreso en los términos de la Constitución Política del Estado de Veracruz de Ignacio de la Llave.
+La Secretaría formulará la cuenta pública y la someterá a consideración del Titular del Poder Ejecutivo durante el mes de abril de cada año, para su presentación al Congreso en los términos de la Constitución Política del Estado de Veracruz de Ignacio de la Llave. La información presupuestaria y programática que forme parte de la cuenta pública deberá relacionarse, en lo conducente, con los objetivos y prioridades de la planeación para el desarrollo. La cuenta pública se formulará observando este Código, la Ley de Contabilidad y demás disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
@@ -4029,15 +4285,123 @@ El Titular del Poder Ejecutivo, por sí o por conducto de la Secretaría, presen
 
 ### CAPÍTULO PRIMERO. DEL CONTROL Y EVALUACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 289.
 
-El control y la evaluación del gasto público estatal comprende:
+El control y evaluación del gasto público estatal comprende:
 
 I. La supervisión permanente de los activos, pasivos, ingresos, costos y gastos;
 
-II. El seguimiento a las acciones durante el desarrollo de la ejecución de los programas aprobados; y
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-III. La medición de la eficiencia y eficacia en la consecución de los objetivos y metas de los programas.
+II. El seguimiento a las acciones durante la ejecución de los Programas Presupuestarios y Actividades Institucionales aprobados.
+
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+III. La evaluación del desempeño en función a los objetivos y metas de los Programas Presupuestarios y Actividades Institucionales que integren el presupuesto de egresos del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE AGOSTO DE 2013)</small>
+
+La evaluación del desempeño que se realice en los términos de esta Ley se efectuará sin perjuicio de lo que establezcan otras disposiciones legales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE AGOSTO DE 2013)</small>
+
+La Secretaría será la instancia técnica a que se refiere el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y para tales efectos diseñará, administrará y operará el Sistema de Evaluación del Desempeño, para medir la eficiencia, eficacia y economía en la administración de los recursos públicos de las unidades presupuestales dependientes del Poder Ejecutivo del Estado que permitan su adecuado ejercicio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE AGOSTO DE 2013)</small>
+
+La información que se genere en el marco del Sistema de Evaluación del Desempeño, se difundirá en los términos de la Ley de Contabilidad, por parte de la Secretaría y la Contraloría en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+###### Artículo 289 Bis.
+
+Son atribuciones de la Secretaría en relación al Sistema de Evaluación del Desempeño:
+
+I. Diseñar, coordinar y emitir los lineamientos metodológicos y técnicos para su operación.
+
+II. Aprobar los indicadores del desempeño relativos a los Programas Presupuestarios de las Dependencias y Entidades, conforme a los lineamientos que se establezcan para tal efecto.
+
+III. Establecer los lineamientos para las Dependencias y Entidades relativos a la participación de los evaluadores externos en el marco del Sistema de Evaluación del Desempeño.
+
+IV. Formular un Plan Anual de Evaluación respecto de los indicadores estratégicos que deberá contener, cuando menos, el tipo de evaluación a realizar y los responsables de llevarla a cabo, por cada programa presupuestario.
+
+V. Revisar la evaluación de resultado de los indicadores estratégicos de las Dependencias y Entidades, a fin de que los recursos públicos se asignen en el Presupuesto de Egresos del Estado, de acuerdo con los principios de eficacia, eficiencia, economía y honradez.
+
+VI. Formular recomendaciones a las Dependencias y Entidades con base en los resultados de la revisión a las evaluaciones, con la finalidad de orientar el gasto público para el cumplimiento de los objetivos de la Planeación para el Desarrollo del Estado.
+
+VII. Dar seguimiento al resultado de los indicadores estratégicos.
+
+VIII. Dar seguimiento al cumplimiento de las recomendaciones a que se refiere este artículo.
+
+IX. Elaborar un informe anual que contenga los aspectos relevantes de los resultados de las evaluaciones realizadas en el año precedente, e
+
+X. Impartir, a petición de parte, capacitación en materia de seguimiento y evaluación.
+
+La evaluación del desempeño que realice la Secretaría se efectuará sin perjuicio de la que lleve a cabo el Órgano de Fiscalización Superior del Estado y la Contraloría dentro de sus respectivas competencias.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+###### Artículo 289 Ter.
+
+Son obligaciones de las Dependencias y Entidades en materia de evaluación del desempeño:
+
+I. Elaborar y proponer los indicadores de desempeño con enfoque a resultados, de los programas a su cargo conforme a los lineamientos que emita la Secretaría y la Contraloría;
+
+II. Evaluar por sí mismos o a través de evaluadores externos que observen los lineamientos a los que hace mención el artículo 289 bis fracción III, el resultado de los Programas Presupuestarios y Actividades Institucionales, a fin de que los recursos públicos se asignen en el presupuesto de egresos del Estado, de acuerdo con los principios de eficacia, eficiencia, economía y honradez;
+
+III. Dar seguimiento a los Indicadores de Desempeño de los Programas Presupuestarios y Actividades Institucionales mediante el cálculo de su valor, de manera periódica y permanente, con el propósito de analizar su tendencia;
+
+IV. Atender las recomendaciones derivadas de la revisión a las evaluaciones del desempeño que ordenen la Secretaría y la Contraloría;
+
+V. Informar trimestralmente a la Secretaría y a la Contraloría, mediante los mecanismos que éstas establezcan, los resultados de las evaluaciones a los indicadores de desempeño de los programas a su cargo, dentro de los 10 días siguientes a la conclusión del periodo correspondiente;
+
+VI. Elaborar e implementar proyectos de mejora para incorporarlos en el diseño, adecuación y operación de los programas a su cargo, atendiendo los resultados de las evaluaciones y sus revisiones e informar los avances con oportunidad, y
+
+VII. Acordar con la Secretaría las adecuaciones a los Programas Presupuestarios y Actividades Institucionales en cumplimiento de las recomendaciones resultantes de los procesos de seguimiento y evaluación.
+
+Las Dependencias y Entidades deberán tomar las previsiones presupuestales para contar con los recursos necesarios y dar cumplimiento a las disposiciones de esta Ley, en materia del Sistema de Evaluación del Desempeño.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+###### Artículo 289 Quater.
+
+Las unidades presupuestales deberán conservar la documentación que se genere con motivo de la Evaluación del Desempeño.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+###### Artículo 289 Quinquies.
+
+La Contraloría realizará la evaluación de la gestión de los Programas Presupuestarios y Actividades Institucionales de las Dependencias y Entidades, e informará a la Secretaría los resultados que obtenga.
+
+Son atribuciones de la Contraloría en relación a la evaluación de la gestión:
+
+I. Establecer los lineamientos para las Dependencias y Entidades relativos a la participación de los evaluadores externos en el marco del Sistema de Evaluación del Desempeño, en el ámbito de su competencia. Los evaluadores externos deberán seguir, en todo caso, además de los lineamientos señalados en esta fracción aquéllos a que hace mención el artículo 289 bis fracción III;
+
+II. Evaluar la calidad y consistencia de los indicadores del desempeño de gestión, relativos a las Actividades Institucionales de las Dependencias y Entidades, conforme a los lineamientos que establezca para tal efecto;
+
+III. Formular un Plan Anual de Evaluación respecto de los indicadores de gestión que deberá contener, cuando menos, el tipo de evaluación a realizar y los responsables de llevarla a cabo, por cada Actividad Institucional;
+
+IV. Evaluar los resultados de los indicadores de gestión de los Programas Presupuestarios y Actividades Institucionales de las Dependencias y Entidades, a fin de que los recursos públicos se asignen en el Presupuesto de Egresos del Estado, de acuerdo con los principios de eficacia, eficiencia, economía y honradez;
+
+V. Formular recomendaciones a las Dependencias y Entidades con base en los resultados de las evaluaciones, con el propósito de mejorar la gestión gubernamental;
+
+VI. Dar seguimiento al resultado de los indicadores de gestión;
+
+VII. Dar seguimiento al cumplimiento de las recomendaciones a que se refiere este artículo, así como a los proyectos de mejora que resulten de las evaluaciones realizadas;
+
+VIII. Elaborar un informe anual que contenga los aspectos relevantes de los resultados de las evaluaciones realizadas en el año precedente, los proyectos de mejora y sus resultados, e
+
+IX. Impartir, a petición de parte, capacitación en materia de seguimiento y evaluación.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+###### Artículo 289 Sexies.
+
+El Gobernador del Estado, a través de la Secretaría y a petición expresa de los Poderes Legislativo y Judicial, así como de los Organismos Autónomos, proporcionará la asesoría y apoyo técnico que requieran en materia de Evaluación del Desempeño, así como todos los datos estadísticos, estudios o informes que soliciten y que sean necesarios para llevar a cabo tal evaluación en el ámbito de su competencia.
+
+Los poderes Legislativo y Judicial, así como los Organismos Autónomos, deberán tomar las previsiones presupuestales para contar con los recursos necesarios a fin de dar cumplimiento a las disposiciones de esta Ley, en materia de su respectivo Sistema de Evaluación del Desempeño.
 
 ###### Artículo 290.
 
@@ -4131,7 +4495,9 @@ III. Comprobar el cumplimiento de las normas, disposiciones legales y políticas
 
 IV. Examinar la asignación y utilización de los recursos financieros, humanos y materiales;
 
-V. Revisar el cumplimiento de los objetivos y metas fijados en los programas a cargo de la dependencia o entidad;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+V. Revisar el cumplimiento de los objetivos y metas establecidos para la gestión de los Programas Presupuestarios y Actividades Institucionales a cargo de la Dependencia o Entidad;
 
 VI. Participar en la determinación de indicadores para la realización de auditorías operacionales y de resultados de los programas;
 
@@ -4173,7 +4539,9 @@ Los órganos internos de control de las dependencias y entidades llevarán un co
 
 Las dependencias y entidades, a través de los órganos internos de control enviarán a la Contraloría, en la forma y términos que ésta indique, los siguientes documentos:
 
-I. Informe sobre el avance del cumplimiento de los programas anuales de las dependencias y entidades;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+I. Informe sobre el avance de gestión del cumplimiento de los Programas Presupuestarios y Actividades Institucionales;
 
 II. Informes de las auditorías practicadas;
 
@@ -4198,6 +4566,26 @@ Las dependencias y entidades proporcionarán los informes, documentos y, en gene
 ###### Artículo 307.
 
 La Contraloría dictará las medidas administrativas y aplicará las sanciones que procedan con motivo de las responsabilidades de los servidores públicos que afecten la Hacienda Pública, derivadas del incumplimiento de las disposiciones contenidas en este Código y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+Se sancionará en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado, las conductas previstas en la Ley de Contabilidad.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+Las sanciones administrativas a que se refiere este artículo se impondrán y exigirán con independencia de las responsabilidades de carácter político, penal o civil que, en su caso, lleguen a determinarse por las autoridades competentes.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+Se considera como infracción administrativa grave cuando de manera dolosa se omitan o alteren documentos o registros que integran la contabilidad, con la finalidad de desvirtuar la veracidad de la información financiera o se incumpla con la obligación de señalar la obligación referida en términos de la Ley de Contabilidad.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+También se considerará como infracción administrativa grave, cuando por razón de la naturaleza de sus funciones, un servidor público tenga conocimiento de la alteración o falsedad de la documentación o de la información que tenga como consecuencia daños a la hacienda pública o de cualquier ente público y estando dentro de sus atribuciones no lo eviten o no lo hagan del conocimiento del superior jerárquico o de la autoridad competente.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+Asimismo, cualquier tipo de reincidencia también deberá considerarse como infracción administrativa grave.
 
 ###### Artículo 308.
 
@@ -4239,11 +4627,19 @@ El presente libro regula las operaciones de endeudamiento relativas a las bases 
 
 Asimismo, considera la contratación de operaciones destinadas a cubrir necesidades urgentes de liquidez, a enfrentar situaciones imprevisibles de la economía nacional o estatal y a sufragar las erogaciones que debieran efectuarse en virtud de algún acontecimiento futuro e incierto que alterare la planeación financiera del Estado.
 
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+La deuda pública deberá ser transparentada y publicada en términos de la Ley de Contabilidad y demás disposiciones aplicables.
+
 > <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
 
 ###### Artículo 313.
 
 La deuda pública, en su conjunto, está constituida por las obligaciones directas o indirectas a cargo del Estado, por sí o por sus entidades paraestatales, derivadas de la celebración de financiamientos, reestructuraciones, adquisición de bienes o contratación de obra o servicios cuyo pago se pacte a plazos, así como la emisión de valores, tales como bonos u obligaciones de deuda, certificados bursátiles y pagarés en los que el Estado asuma obligaciones directas o contingentes, constituidos en términos de lo dispuesto por este Código y la celebración de actos jurídicos análogos que, previa autorización del Congreso, se generen a cargo del Estado, por sí o por sus entidades, obligaciones que podrán tener como garantía o fuente de pago o ambas, los ingresos estatales derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios, así como las participaciones federales derivadas del Sistema Nacional de Coordinación Fiscal.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+Las obligaciones directas o indirectas a cargo del Estado o municipios, o las entidades estatales o municipales, que sean consecuencia de la creación de fuentes de pago indirectas, mecanismos financieros o fuentes alternas de pago, respecto de los contratos de prestación de servicios a que se refiere la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, no constituirán deuda pública y se registrarán como gasto corriente.
 
 ###### Artículo 314.
 
@@ -4535,11 +4931,11 @@ Para la cancelación de la inscripción en el Registro Público de Deuda Estatal
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 344.
 
-Las participaciones que corresponden al Estado y los Municipios son inembargables, no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas con apego a lo dispuesto en este Código, a cargo del Estado o municipios, entidades estatales o municipales o de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, que hayan requerido de afectación en pago, en garantía o en ambos, para la emisión de valores tales como bonos, obligaciones de deuda, certificados bursátiles y pagarés y la celebración de actos jurídicos análogos ante personas físicas o morales de nacionalidad mexicana.
+Las participaciones que corresponden al Estado y los Municipios son inembargables, no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas con apego a lo dispuesto en este Código, a cargo del Estado o municipios, entidades estatales o municipales incluyendo las que provengan de la celebración de los contratos de prestación de servicios a que se refiere la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, o de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, que hayan requerido de afectación en pago, en garantía o en ambos, para la emisión de valores tales como bonos, obligaciones de deuda, certificados bursátiles y pagarés y la celebración de actos jurídicos análogos ante personas físicas o morales de nacionalidad mexicana.
 
 Las operaciones deberán estar debidamente inscritas en el registro de la Secretaría de Hacienda y Crédito Público, en el Registro Público de Deuda Estatal y, en su caso, en el Registro de Deuda Pública Municipal correspondiente, tratándose de adeudos avalados por el Estado.
 
@@ -4567,21 +4963,21 @@ De no demostrar el cumplimiento se procederá a efectuar los pagos de las erogac
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 347.
 
-Los ingresos derivados de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, así como las participaciones federales y los demás ingresos derivados de la coordinación fiscal cuya recaudación corresponde al Estado son inembargables, no pueden afectarse para fines específicos, ni estar sujetos a retención, salvo para financiar rubros específicos del gasto público determinados en la propia Ley, así como para el pago de obligaciones contraídas con apego a lo dispuesto en este Código a cargo del Estado o de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, que hayan requerido de su afectación en pago o en garantía o en ambos, para la emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles, pagarés y para la celebración de actos jurídicos análogos ante personas físicas o morales de nacionalidad mexicana.
+Los ingresos derivados de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, así como las participaciones federales y los demás ingresos derivados de la coordinación fiscal cuya recaudación corresponde al Estado son inembargables, no pueden afectarse para fines específicos, ni estar sujetos a retención, salvo para financiar rubros específicos del gasto público determinados en la propia Ley, así como para el pago de obligaciones contraídas con apego a lo dispuesto en este Código a cargo del Estado, incluyendo las que provengan de los contratos de prestación de servicios a que se refiere la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, o de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, que hayan requerido de su afectación en pago o en garantía o en ambos, para la emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles, pagarés y para la celebración de actos jurídicos análogos ante personas físicas o morales de nacionalidad mexicana.
 
 > <small>(ADICIONADO, G.O. 24 DE JULIO DE 2003)</small>
 
 Las afectaciones a estos ingresos deberán estar debidamente inscritas en el Registro Público de Deuda Estatal y, en su caso, en el Registro de Deuda Pública Municipal correspondiente o en el registro de la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 348.
 
-El Estado por conducto del Gobernador, a través de la Secretaría y previa autorización del Congreso, podrá afectar los ingresos estatales derivados de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, así como las participaciones federales y los demás ingresos derivados de la coordinación fiscal como fuente o garantía de pago, o ambas, sobre las obligaciones que contraigan por sí o a través de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente código, incluyendo los valores emitidos en términos de este Código.
+El Estado, por conducto del Gobernador, a través de la Secretaría y previa autorización del Congreso, podrá afectar los ingresos estatales derivados de impuestos, derechos, productos, aprovechamientos, y sus respectivos accesorios, así como las participaciones federales y los demás ingresos derivados de la coordinación fiscal que no tenga un fin específico como fuente o garantía de pago, o ambas, sobre las obligaciones que contraiga por si, incluyendo las que deriven de la celebración de los contratos de prestación de servicios a que se refiere la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, o a través de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, incluyendo los valores emitidos de conformidad con lo establecido en este Código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4926,3 +5322,9 @@ PRIMERO. El presente Código entrará en vigor al día siguiente de su publicaci
 SEGUNDO. A partir del inicio de vigencia del presente Código se deroga con todos sus capítulos el Título Segundo "De los Derechos", del Libro Tercero "De los Ingresos Estatales" del Código Financiero para el Estado de Veracruz de Ignacio de la Llave, así como cualquier otra disposición que contravenga al presente Código.
 
 TERCERO. Durante el ejercicio fiscal de 2013, los organismos públicos descentralizados podrán continuar cobrando los derechos que por los conceptos señalados por este Código es correspondan en sus propias oficinas.
+
+G.O. 26 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. La Secretaría emitirá los lineamientos respecto al Sistema de Evaluación para el Desempeño a que hace referencia el artículo 289 Bis del Código Financiero en un plazo de 90 días después de la publicación del presente Decreto.
