@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2013-07-31"
+last_updated: "2013-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -165,11 +165,9 @@ V. Secretaría de Trabajo, Previsión Social y Productividad;
 
 VI. Secretaría de Desarrollo Económico y Portuario
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
-
-VII. Secretaría de Comunicaciones
+VII. Secretaría de Infraestructura y Obras Públicas;
 
 > <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
@@ -219,9 +217,9 @@ Las atribuciones otorgadas al Gobernador, Secretarios de Despacho y demás Funci
 
 Al frente de cada dependencia habrá un titular que, para el despacho de los asuntos que le competan, se auxiliará con subsecretarios o sus equivalentes, directores generales, directores, subdirectores, jefes y subjefes de departamento, oficina, sección y mesa, y demás prestadores de servicios de apoyo técnico o asesoría, en términos de lo dispuesto por esta ley, cuando así lo señalen sus respectivos reglamentos interiores y lo determinen sus presupuestos.
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
-Cada dependencia contará, además con una unidad administrativa subordinada directamente al titular de la misma y que será responsable de la presupuestación, programación y ejercicio del presupuesto a su cargo, en los términos de las disposiciones aplicables.
+Cada dependencia contará, además, con una unidad administrativa o áreas subordinadas al titular de la misma, responsables de la planeación, presupuestación, programación, ejercicio, evaluación del desempeño del presupuesto a su cargo y difusión de la información financiera, en términos de las disposiciones aplicables.
 
 > <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
@@ -359,7 +357,9 @@ II. Establecer, dirigir y controlar la política de la Secretaría, así como pr
 
 III. Someter al acuerdo del Gobernador del Estado los asuntos encomendados a la Secretaría y los del sector correspondiente;
 
-IV. Desempeñar las comisiones y funciones especiales que el Gobernador le confiera y mantenerlo informado sobre su desarrollo y ejecución;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+IV. Coordinar, por acuerdo del Gobernador del Estado, a los titulares de las dependencias y entidades de la administración pública estatal, y acordar las acciones necesarias para requerir a los mismos los informes correspondientes con el fin de garantizar el cumplimiento de las órdenes y acuerdos del Titular del Ejecutivo estatal; convocar a las reuniones de gabinete que éste le ordene; así como desempeñar las comisiones y funciones especiales que el Gobernador le confiera, y mantenerlo informado sobre su desarrollo y ejecución;
 
 V. Proponer al Gobernador del Estado los proyectos de leyes, decretos, reglamentos, acuerdos, convenios y órdenes sobre asuntos de la competencia de la Secretaría y los del sector correspondiente;
 
@@ -387,7 +387,9 @@ XV. Administrar la Editora de Gobierno del Estado y vigilar todo lo relacionado 
 
 XVI. Proporcionar a los Poderes de la Federación la cooperación y el auxilio que requieran para el debido cumplimiento de lo dispuesto por ordenamientos del ámbito federal;
 
-XVII. Coordinar las relaciones del Poder Ejecutivo con la Federación y las Entidades Federativas, los Poderes Legislativo y Judicial del Estado, así como con los Municipios;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XVII. Conducir y coordinar, en el marco de la colaboración y el respeto pleno a las facultades constitucionales conferidas, las relaciones del Poder Ejecutivo del Estado con el Poder Legislativo, el Poder Judicial, los órganos constitucionales autónomos, los municipios, las autoridades del gobierno federal y las de los gobiernos de las entidades federativas, así como con las agrupaciones políticas y sociales de la Entidad, cuya conducción o coordinación no esté determinada de otra forma por las leyes del Estado y demás disposiciones aplicables;
 
 XVIII. Coordinar las relaciones del Gobierno del Estado con los diversos grupos sociopolíticos de la Entidad;
 
@@ -411,9 +413,15 @@ XXV. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
 XXVI. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XXVII. Administrar y resguardar los centros de observación y adaptación social para menores infractores;
+XXVI Bis. Realizar las acciones necesarias para el fortalecimiento y mantenimiento de la integridad, estabilidad y permanencia de las instituciones democráticas que establece el orden constitucional estatal, y promover las condiciones para la construcción y el establecimiento de acuerdos políticos y consensos sociales, con el propósito superior de mantener, mejorar y consolidar las condiciones de gobernabilidad democrática;
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XXVI Ter. Planear y fomentar las acciones de desarrollo político para atender los asuntos de gobernabilidad y de participación ciudadana que presenten los ciudadanos y organizaciones sociales, y colaborar, en términos de las leyes aplicables y disposiciones aplicables, en la solución de los problemas planteados; así como en la promoción de la participación ciudadana activa, salvo lo relativo a la materia electoral;
+
+XXVII. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
 
 > <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -455,37 +463,43 @@ XXXVI. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
 XXXVII. (DEROGADA, G.O. 20 DE MAYO DE 2002)
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XXXVIII. Coordinar, dirigir y vigilar la política en materia de transporte y otorgar, rescatar, revertir o revocar, conforme a la ley de la materia, concesiones, permisos, autorizaciones o licencias a personas físicas o morales, para la prestación de servicios públicos de transporte de personas y carga, así como controlar su adecuado funcionamiento y los servicios auxiliares de transporte;
+XXXVII Bis. Efectuar las tareas de análisis, prospectiva y evaluación, con el fin de generar la información necesaria para preservar la integridad, estabilidad y permanencia de las instituciones del Estado y el respeto a los derechos humanos;
 
-> <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XXXIX. Proveer lo conducente para la ejecución de las penas y medidas de seguridad impuestas por las autoridades judiciales, así como la vigilancia y control de las personas que se encuentren cumpliendo una condena a disposición del Ejecutivo estatal. Así como elaborar y ejecutar los programas relacionados con el Sistema de Prevención y Readaptación Social del Estado;
+XXXVII Ter. Contribuir, en atención a lo dispuesto en la fracción anterior, a la toma de decisiones informada y oportuna para dar solución a los riesgos de gobernabilidad democrática y atender los conflictos sociales o políticos que se presenten en el Estado, bajo criterios de calidad e interés público;
 
-> <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XL. Administrar los centros de readaptación social y tramitar, por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de procesados y sentenciados;
+XXXVIII. Establecer los mecanismos de análisis, prospectiva y evaluación que contribuyan a preservar la integridad, estabilidad y permanencia del Estado, para contribuir, en lo que corresponda al Ejecutivo local, a dar sustento a la unidad nacional, a preservar la cohesión social, a fortalecer las instituciones de gobierno y promover la participación ciudadana;
 
-> <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XLI. Coordinar, dirigir y vigilar la política estatal en materia de prevención y readaptación social, de conformidad con las leyes de la materia, y
+XXXIX. Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del Estado y coordinar, en vinculación con las organizaciones de la sociedad civil, trabajos y tareas de promoción en defensa de los derechos humanos, así como dar seguimiento a la atención de las recomendaciones que emitan los organismos competentes en dicha materia, y dictar las medidas administrativas necesarias para tal efecto;
 
-> <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2006)</small>
+XL. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
 
-XLII. Custodiar, en coordinación con la Secretaría de Seguridad Pública, a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento;
+XLI. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
+
+XLII. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
 
 XLIII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XLIV. Coordinar y ejecutar programas especiales y acciones de protección a los migrantes veracruzanos y sus familias.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2001)</small>
 
 De la Secretaría de Seguridad Pública
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 18 Bis.
 
-La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, y tránsito, de conformidad con las leyes de la materia.
+La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública, privada, policía y apoyo vial, tránsito, transporte, prevención y reinserción social, y los centros de internamiento especial para adolescentes, de conformidad con lo dispuesto por las leyes de la materia y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -501,17 +515,23 @@ II. Desarrollar, instrumentar y ejecutar la política de seguridad pública esta
 
 III. Participar y colaborar en las medidas que adopte la Secretaría de Gobierno para organizar las actividades que atiendan el fenómeno delictivo;
 
-IV. Presidir el Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-V. Nombrar y remover, con acuerdo del Gobernador del Estado, al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública y de su Consejo Estatal;
+IV. Formar parte del Consejo Estatal de Seguridad Pública y desempeñar las funciones que la ley de la materia determine;
+
+V. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
 
 VI. Promover la participación de los ciudadanos en el diseño y planeación de planes y programas en materia de seguridad pública, así como para el desarrollo de actividades de vigilancia sobre el desempeño de la Secretaría;
 
-> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-VII. Organizar, dirigir, administrar, supervisar y ejercer el mando directo de las corporaciones policíacas y demás fuerzas de seguridad estatales, así como nombrar y remover a los titulares de las mismas, a fin de garantizar el desempeño honesto de su personal y aplicar su correspondiente régimen disciplinario;
+VII. Organizar, dirigir, administrar, supervisar y ejercer el mando directo de las corporaciones policiales y fuerzas de seguridad estatales, y demás órganos auxiliares, así como nombrar y remover a los titulares de las mismas a fin de garantizar el desempeño honesto de su personal y aplicar su correspondiente régimen disciplinario;
 
 VIII. (DEROGADA, G.O. 1 DE FEBRERO DE 2008)
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+VIII Bis. Coordinar, dirigir y vigilar la política en materia de transporte y otorgar, rescatar, revertir o revocar, conforme a la ley de la materia, concesiones, permisos, autorizaciones o licencias a personas físicas o morales, para la prestación de servicios públicos de transporte de personas y carga, así como controlar su adecuado funcionamiento y los servicios auxiliares de transporte;
 
 IX. Establecer un sistema destinado a obtener, analizar, estudiar y procesar información en materia de seguridad pública, mediante métodos que garanticen el estricto respeto a los derechos humanos, con apego a los principios de reserva y confidencialidad en el servicio público;
 
@@ -523,7 +543,9 @@ XI. Coordinar, dirigir y vigilar la política estatal en materia de tránsito y 
 
 XII. Autorizar, en el ámbito de su competencia y en términos de la licencia colectiva concedida por la autoridad federal, el uso de armas a los elementos de las fuerzas policiales en el ámbito de su competencia;
 
-XIII. Cumplimentar las solicitudes de auxilio de la fuerza pública que le presenten las autoridades judiciales;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XIII. Cumplimentar las solicitudes de auxilio de la fuerza pública que le presenten las autoridades ministeriales y judiciales;
 
 XIV. (DEROGADA, G.O. 30 DE AGOSTO DE 2006)
 
@@ -531,29 +553,41 @@ XV. (DEROGADA, G.O. 30 DE AGOSTO DE 2006)
 
 XVI. (DEROGADA, G.O. 30 DE AGOSTO DE 2006)
 
-> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XVII. Custodiar, en coordinación con la Secretaría de Gobierno a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento.
+XVI Bis. Proveer lo conducente para la ejecución de las penas y medidas de seguridad impuestas por las autoridades judiciales, así como la vigilancia y control de las personas que se encuentren cumpliendo una condena a disposición del Ejecutivo estatal; así como elaborar y ejecutar los programas relacionados con el sistema de prevención y reinserción social del Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-> <small>(ADICIONADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+XVI Ter. Administrar, con apego a los derechos humanos, los centros de reinserción social y tramitar, por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de procesados y sentenciados;
 
-XVIII. Colaborar, cuando así lo soliciten, con las autoridades federales, estatales o municipales, en la protección de la integridad física de las personas y en la preservación de sus bienes, en caso de peligro o amenaza, por situaciones que impliquen violencia o riesgo inminente; y
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+XVI Quater. Coordinar, dirigir y vigilar la política estatal en materia de prevención y reinserción social, de conformidad con las leyes de la materia;
 
-> <small>(ADICIONADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XIX. Autorizar, supervisar, verificar, ratificar, regular y controlar los servicios de seguridad privada en el Estado.
+XVII. Custodiar a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento;
+
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XVIII. Colaborar, cuando así lo soliciten, con las autoridades federales, estatales o municipales, en la protección de la integridad física de las personas y en la preservación de sus bienes, en caso de peligro o amenaza, por situaciones que impliquen violencia o riesgo inminente;
+
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XIX. Autorizar, supervisar, verificar, ratificar, regular y controlar los servicios de seguridad privada en el Estado; y
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XX. Administrar y resguardar los centros de internamiento especial para adolescentes, de conformidad con lo dispuesto por la ley en materia de responsabilidad juvenil y demás disposiciones aplicables.
 
 De la Secretaría de Finanzas y Planeación
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 19.
 
-La Secretaría de Finanzas y Planeación es la dependencia responsable de coordinar la administración financiera y tributaria de la Hacienda Pública y de proyectar con la participación de las dependencias y entidades de la administración pública, la planeación, programación y presupuestación del Estado, en el marco del sistema de planeación democrática, así como de llevar el control administrativo de los recursos humanos y materiales, y el control del ejercicio de los recursos financieros de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables.
+La Secretaría de Finanzas y Planeación es la dependencia responsable de coordinar la administración financiera y tributaria de la Hacienda Pública, de proyectar con la participación de las dependencias y entidades de la administración pública estatal, la planeación, programación, presupuestación y evaluación estratégica de los programas presupuestarios, en el marco del sistema de planeación democrática, y de difundir la información correspondiente, así como de llevar el control administrativo de los recursos humanos y materiales, y el control del ejercicio de los recursos financieros, de conformidad con lo dispuesto por esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 20.
 
@@ -565,7 +599,9 @@ II. Coordinar la política económica para el desarrollo del Estado;
 
 III. Coordinar las actividades del Comité de Planeación para el Desarrollo del Estado de Veracruz;
 
-IV. Diseñar, implementar y actualizar un sistema de programación del gasto público, acorde con los objetivos y necesidades de la Administración Pública, asesorando y apoyando a las dependencias y entidades en la integración de sus programas específicos;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+IV. Diseñar, implementar y actualizar un sistema de programación del gasto público bajo los principios de eficiencia, eficacia, economía, transparencia y honradez, acorde con los objetivos y necesidades de la administración pública estatal, asesorando y apoyando a las dependencias y entidades en la integración de sus programas presupuestarios y actividades institucionales;
 
 V. (DEROGADA, G.O. 2 DE JULIO DE 2004)
 
@@ -575,7 +611,9 @@ VI. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones de 
 
 VII. Practicar revisiones y auditorías a los contribuyentes;
 
-VIII. Presupuestar anualmente el gasto público del Gobierno del Estado, tomando en consideración los anteproyectos de presupuestos de las dependencias y entidades del gobierno estatal, quienes deberán elaborar y presentarlos con la anticipación necesaria en términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+VIII. Presupuestar anualmente el gasto público del Gobierno del Estado con enfoque a resultados, tomando en consideración los anteproyectos de presupuestos de las dependencias y entidades del gobierno estatal, quienes los deberán elaborar y presentar con la anticipación necesaria en términos de las disposiciones legales aplicables;
 
 IX. Programar y calcular los ingresos del estado y formular el proyecto de presupuesto de ingresos y egresos anualmente, para someterlo a la consideración del Gobernador del Estado;
 
@@ -591,9 +629,9 @@ XII. Autorizar la suficiencia presupuestal a las dependencias centralizadas y en
 
 XIII. Autorizar, previo acuerdo del Gobernador del Estado, las ampliaciones, transferencias o reducciones de los recursos asignados a las dependencias centralizadas y las entidades paraestatales comprendidas en el presupuesto de egresos;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XIV. Distribuir a través del Sistema Integral de Administración Financiera del Estado de Veracruz, a su cargo, los recursos financieros a las dependencias centralizadas y entidades paraestatales, de conformidad con el presupuesto autorizado y para los efectos de las acciones de control y evaluación del gasto público que establece esta Ley, el Código Financiero para el Estado y demás disposiciones aplicables;
+XIV. Distribuir a través del Sistema Integral de Administración Financiera del Estado de Veracruz, a su cargo, los recursos financieros a las dependencias centralizadas y entidades paraestatales, de conformidad con el presupuesto autorizado y para los efectos de las acciones de control, evaluación, transparencia y difusión del gasto público que establece esta Ley, el Código Financiero para el Estado, la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables;
 
 > <small>(REFORMADA, G.O. 2 DE JULIO DE 2004)</small>
 
@@ -609,7 +647,9 @@ XVII. Intervenir en los juicios de carácter fiscal que se ventilen ante los tri
 
 XVIII. Ejercitar las acciones y oponer las excepciones que procedan para la defensa administrativa y judicial de los derechos de la Hacienda Pública del Estado de Veracruz de Ignacio de la Llave, así como representar a dicho Estado en los procesos jurisdiccionales en los que éste tome parte como entidad federativa coordinada en ingresos federales, incluso en el recurso de revisión administrativa;
 
-XIX. Llevar el control de la deuda pública del Estado y efectuar los pagos correspondientes;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XIX. Llevar el control de la deuda pública del Estado, efectuar los pagos correspondientes, transparentar y difundir la información en la materia.
 
 XX. Ejercer la facultad económico-coactiva para hacer efectivos los créditos fiscales a favor de la Hacienda Pública del Estado;
 
@@ -696,6 +736,14 @@ LVI. Tramitar y ejecutar los acuerdos del Gobernador del Estado relativos a la e
 > <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 LVII. Mantener actualizado el avalúo de los bienes inmuebles estatales; el catastro y la información geográfica y estadística de la Entidad.
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+LVIII. Evaluar los programas presupuestarios de las dependencias y entidades de la administración pública estatal, en el marco del sistema de evaluación del desempeño, previsto en el Código Financiero para el Estado de Veracruz de Ignacio de la Llave; y
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+LIX. Transparentar y difundir la información financiera de las dependencias y entidades de la administración pública estatal, de acuerdo con las disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -1051,15 +1099,21 @@ XXXIV. Fomentar la organización y constitución de toda clase de sociedades coo
 
 XXXV. Difundir las actividades industriales, comerciales y portuarias a través de misiones comerciales, ferias, exposiciones, convenciones y demás eventos de promoción.
 
-De la Secretaría de Comunicaciones
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 26 DE AGOSTO DE 2013)</small>
+
+De la Secretaría de Infraestructura y Obras Públicas
+
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 25.
 
-La Secretaría de Comunicaciones, es la dependencia responsable de coordinar la política del desarrollo de las vías de comunicación de jurisdicción estatal.
+La Secretaría de Infraestructura y Obras Públicas es la dependencia responsable de coordinar, ejecutar, controlar y evaluar las políticas y programas sectoriales en materia de vías de comunicación de jurisdicción estatal y ejecución de obras públicas de conformidad con las leyes aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 26.
 
-Son atribuciones del Secretario de Comunicaciones, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+Son atribuciones del Secretario de Infraestructura y Obras Públicas, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
 
 I. Dirigir, proyectar y controlar la presupuestación y ejecución de los programas relativos a la construcción, conservación y rehabilitación de las vías de comunicación estatales;
 
@@ -1097,15 +1151,39 @@ XV. Promover y, en su caso, organizar la capacitación, investigación y el desa
 
 XVI. Coordinar y ejecutar las políticas y programas del Estado, tanto en materia de aeronáutica como de servicios aéreos gubernamentales;
 
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XVII. Convenir, concertar y establecer las medidas adecuadas de relación interinstitucional con las dependencias y entidades de los órdenes federal, estatal y municipal, mediante la suscripción de instrumentos jurídicos necesarios para la debida concurrencia, administración y aplicación de los recursos financieros destinados a la realización de las obras públicas que sean competencia de la Secretaría;
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XVIII. Instrumentar las medidas y acciones necesarias para la debida certificación de calidad de las obras públicas en el Estado;
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XIX. Proponer políticas y programas relativos a la construcción y mantenimiento de las obras públicas competencia de la Secretaría, de acuerdo con el Plan Estatal de Desarrollo, así como dirigir y coordinar la ejecución de las mismas;
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XX. Elaborar y, en su caso, sancionar los proyectos y presupuestos de las obras públicas competencia de la Secretaría, en coordinación con los entes públicos a los que corresponda su ejecución;
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XXI. Proyectar, ejecutar y, en su caso, supervisar por administración directa o a través de terceros por licitación, las obras públicas competencia de la Secretaría y establecer las bases técnicas a que deben sujetarse las licitaciones para la adjudicación de los respectivos contratos y vigilar el cumplimiento de los mismos, de conformidad con lo dispuesto en las leyes en materia de obras públicas y de proyectos para la prestación de servicios; y
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XXII. Construir, reconstruir y conservar los edificios públicos, los monumentos históricos y las obras de ornato realizadas por el Estado, exceptuando las encomendadas a otro ente público.
+
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
 De la Secretaría de Desarrollo Social
 
-> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 27.
 
-La Secretaría de Desarrollo Social es la dependencia responsable de coordinar la política de desarrollo social para el combate a la pobreza, en particular en materia de asentamientos humanos, ordenamiento del desarrollo territorial regional y urbano y de vivienda, así como ejecutar obras públicas relacionadas con estas materias; y de normar y coordinar la prestación de servicios de asistencia pública y social, incluyendo el Sistema Estatal de Desarrollo Humano y Familiar, en los términos de la normatividad que lo regule.
+La Secretaría de Desarrollo Social es la dependencia responsable de coordinar la política de desarrollo social para el combate a la pobreza, en particular en materia de asentamientos humanos, ordenamiento del desarrollo territorial regional y urbano y de vivienda, así como ejecutar las obras de infraestructura social básica; y de normar y coordinar la prestación de servicios de asistencia pública y social, incluyendo el Sistema Estatal de Desarrollo Humano y Familiar, en los términos de la normatividad que lo regule.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
@@ -1163,29 +1241,25 @@ XII. Promover, en coordinación con las autoridades federales y estatales, la re
 
 XIII. Asesorar, a solicitud de los propios ayuntamientos, en la elaboración de proyectos y ejecución de obras municipales de agua potable y alcantarillado, en la administración y operación de estos servicios y, en su caso, ejecutar y supervisar dichas obras;
 
-> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XIV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas relacionadas con el desarrollo social, de acuerdo con el Plan Estatal de Desarrollo, así como dirigir, coordinar y controlar la ejecución de las mismas;
+XIV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras de infraestructura básica relacionadas con el desarrollo social, así como dirigir, coordinar y controlar la ejecución de las mismas, de acuerdo con el Plan Estatal de Desarrollo;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XV. Elaborar y, en su caso, sancionar los proyectos y presupuestos de las obras públicas, en coordinación con las dependencias a las que corresponda su ejecución;
+XV. Elaborar y, en su caso, sancionar los proyectos y presupuestos de las obras de infraestructura social básica competencia de la Secretaría, en coordinación con las instancias competentes;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XVI. Proyectar, ejecutar y, en su caso, supervisar por administración directa o a través de terceros por licitación, las obras públicas de competencia de esta Secretaría y establecer las bases técnicas a que deben sujetarse las licitaciones para la adjudicación de los respectivos contratos y vigilar el cumplimiento de los mismos;
+XVI. Proyectar, ejecutar y, en su caso, supervisar por administración directa o a través de terceros por licitación, las obras de infraestructura social básica competencia de la Secretaría y establecer las bases técnicas a que deben sujetarse las licitaciones para la adjudicación de los respectivos contratos y vigilar el cumplimiento de los mismos;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XVII. Asesorar técnicamente a los ayuntamientos en la realización de obras públicas, cuando así lo soliciten;
+XVII. Asesorar técnicamente a los Ayuntamientos en la realización de obra de infraestructura social básica municipal, relacionada con la competencia de la Secretaría, y coadyuvar en la elaboración de proyectos y en la ejecución de la misma, cuando así lo soliciten;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+XVIII. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
 
-XVIII. Construir, reconstruir y conservar, los edificios públicos, los monumentos históricos y las obras de ornato realizadas por el Estado, exceptuando las encomendadas a otra dependencia;
-
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
-
-XIX. Coadyuvar, a petición de los ayuntamientos, en la elaboración de proyectos y en la ejecución de la obra pública municipal;
+XIX. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -1217,9 +1291,9 @@ XXVIII. Desarrollar, supervisar y evaluar la operación del Sistema para el Desa
 
 XXIX. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XXX. Coordinar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial la población indígena, los menores, las personas con discapacidades, adultos mayores y la población marginada de las áreas rurales y urbanas, con la finalidad de contribuir a elevar su nivel de vida, asimismo, dirigir y coordinar los programas y acciones de protección a los migrantes veracruzanos y sus familias.
+XXX. Coordinar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial la población indígena, los menores, las personas con discapacidades, adultos mayores y la población marginada de las áreas rurales y urbanas, con la finalidad de contribuir a elevar su nivel de vida.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
@@ -1805,15 +1879,19 @@ XXIII. Las demás que la ley le señale o le asignen el Gobernador del Estado y 
 
 De la Contraloría General
 
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 33.
 
-La Contraloría General es la dependencia responsable de la función de control y evaluación gubernamental y desarrollo administrativo, así como de la inspección y vigilancia de los ingresos, gastos, recursos y obligaciones de las dependencias y entidades de la Administración Pública Estatal, durante el ejercicio presupuestal correspondiente.
+La Contraloría General es la dependencia responsable de la función de control y evaluación de la gestión gubernamental y desarrollo administrativo, así como de la inspección y vigilancia de los ingresos, gastos, recursos y obligaciones de las dependencias y entidades de la administración pública estatal, durante el ejercicio presupuestal correspondiente.
 
 ###### Artículo 34.
 
 Son atribuciones del Contralor General, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
 
-I. Planear, organizar y coordinar el sistema de control y evaluación gubernamental;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+I. Planear, organizar y coordinar el sistema de control y evaluación de la gestión gubernamental y desarrollo administrativo;
 
 II. Participar en la evaluación periódica de la relación que guardan los programas y presupuestos de las dependencias y entidades de la Administración Pública, con los objetivos y prioridades del Plan Veracruzano de Desarrollo, así como los resultados de su ejecución, a fin de recomendar la adopción de las medidas necesarias para corregir las desviaciones detectadas y proponer la adecuación, en su caso, del plan y los programas respectivos;
 
@@ -1837,7 +1915,9 @@ IX. Verificar y comprobar, en coordinación con la Secretaría de Finanzas y Pla
 
 X. Opinar sobre los proyectos de normas de contabilidad y control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros, así como los de contratación de deuda y manejo de fondos y valores que formule la Secretaría de Finanzas y Planeación;
 
-XI. Emitir criterios y lineamientos en materia de simplificación y desarrollo administrativo;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XI. Emitir criterios y lineamientos en materia de simplificación y desarrollo administrativo y mejora en la gestión gubernamental con base en los resultados de las evaluaciones realizadas;
 
 XII. Emitir los lineamientos para la entrega y recepción de oficinas públicas, por cambio de sus titulares o responsables y verificar su cumplimiento;
 
@@ -1877,9 +1957,17 @@ XXIX. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
 
 XXX. Verificar que los arrendamientos inmobiliarios que celebre la Administración Pública Estatal estén sustentados en dictamen de justipreciación de rentas emitido por autoridad catastral;
 
-XXXI. Atender las quejas e inconformidades que presenten los particulares con motivo de licitaciones, concursos, convenios o contratos que celebren con las dependencias y entidades; y
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-XXXII. Conocer de la responsabilidad administrativa de los servidores públicos en términos de la ley de la materia.
+XXXI. Atender las quejas e inconformidades que presenten los particulares con motivo de licitaciones, concursos, convenios o contratos que celebren con las dependencias y entidades;
+
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XXXII. Conocer de la responsabilidad administrativa de los servidores públicos en términos de la ley de la materia; y
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+XXXIII. Evaluar la gestión de los programas presupuestarios y actividades institucionales de las dependencias y entidades de la administración pública estatal, en el marco del sistema de evaluación del desempeño, previsto en el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
 
 De la Procuraduría General de Justicia
 
@@ -1949,9 +2037,9 @@ El Instituto Electoral Veracruzano, la Comisión Estatal de Derechos Humanos y e
 
 Las entidades paraestatales gozarán de autonomía de gestión para el debido cumplimiento de su objeto, y de los objetivos y metas señaladas en sus programas. Al efecto, los órganos de gobierno, o sus equivalentes, de las entidades paraestatales, según sea el caso, expedirán su correspondiente normatividad interior, que deberá establecer las bases específicas de organización, funcionamiento y las atribuciones de sus respectivos directores generales, o similares, y de las distintas áreas que integren la entidad de que se trate. Dicha normatividad deberá publicarse en la Gaceta Oficial del Estado y registrarse ante la Contraloría General.
 
-> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
-Cada entidad paraestatal contará, además con una unidad administrativa responsable de la presupuestación, programación y ejercicio del presupuesto a su cargo en términos de las disposiciones aplicables.
+Cada entidad paraestatal contará, además, con una unidad administrativa o áreas subordinadas al titular de la misma, responsables de la planeación, presupuestación, programación, ejercicio, evaluación del desempeño del presupuesto a su cargo y difusión de la información financiera en términos de las disposiciones aplicables.
 
 > <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
@@ -2528,3 +2616,51 @@ G.O. 31 DE JULIO DE 2013.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 26 DE AGOSTO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 872 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL LA LEY ORGÁNICA DEL PODER EJECUTIVO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, los recursos humanos, financieros y materiales de la Secretaría de Desarrollo Social destinados a la obra pública se transferirán a la Secretaría de Infraestructura y Obras Públicas, con excepción de los relacionados con la ejecución de infraestructura social básica, con pleno respeto a los derechos laborales de sus trabajadores.
+
+CUARTO. La Secretaría de Finanzas y Planeación y la Contraloría General conformarán un Grupo de Trabajo, a fin de determinar la estructura orgánica mínima indispensable que integrará las Secretarías que se reforman en este instrumento. Las denominaciones de los órganos y áreas administrativas se ajustarán a lo dispuesto en los Lineamientos por los que se establecen los criterios técnico-administrativos para la modificación, elaboración y autorización de las estructuras orgánicas y plantillas de personal de las Dependencias y Entidades de la Administración Pública.
+
+QUINTO. Los asuntos en trámite, a la entrada en vigor de este Decreto, serán resueltos por la Dependencia o Entidad a la que se le atribuya la competencia correspondiente.
+
+SEXTO. Las referencias a la Secretaría de Comunicaciones que hagan la legislación y disposiciones normativas se entenderán realizadas a la Secretaría de Infraestructura y Obras Públicas que se crea.
+
+SÉPTIMO. En tanto se expidan las normas reglamentarias correspondientes, seguirá siendo aplicable, en lo que no se oponga a este Decreto, la normatividad vigente.
+
+OCTAVO. Para la atención y seguimiento de los asuntos jurídicos o administrativos en trámite o pendientes de resolución definitiva, así como para el cumplimiento de las obligaciones y ejercicio de los derechos derivados de los convenios, contratos de obras y demás actos jurídicos celebrados con anterioridad con la Secretaría de Comunicaciones, la representación de ésta será sustituida por la Secretaría de Infraestructura y Obras Públicas.
+
+G.O. 26 DE AGOSTO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 873 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO; REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDAD JUVENIL; REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL; REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y TRANSPORTE; Y ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO DE DERECHOS, ORDENAMIENTOS TODOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo Tercero. Los asuntos que a la entrada en vigor del presente decreto se encontraran en trámite ante alguna de las áreas administrativas de las Secretarías del Despacho que, como consecuencia de este decreto, se transfieren a otra dependencia, se continuarán tramitando ante dicha Secretaría hasta su conclusión.
+
+Artículo Cuarto. A la brevedad posible, el Ejecutivo del Estado, en la esfera administrativa, efectuará las adecuaciones reglamentarias necesarias que establece el presente Decreto.
+
+Artículo Quinto. Los recursos humanos, financieros y materiales de las Direcciones Generales de Transporte, de la de Prevención y Reinserción Social y de la Dirección General de Ejecución de Medidas Sancionadoras, se transferirán a la Secretaría (sic) Seguridad Pública, con pleno respeto a los derechos laborales de sus trabajadores.
+
+Artículo Sexto. En todos los ordenamientos y disposiciones en que se haga mención de la Dirección General de Transporte, de la Dirección General de Prevención y Reinserción Social, o de la Dirección General de Ejecución de Medidas Sancionadoras se deberán tener por referidas y adscritas a la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Séptimo. La Secretaría de Finanzas y Planeación y la Contraloría General, conformarán un Grupo de Trabajo, a fin de determinar la estructura orgánica mínima indispensable que integrará las Secretarías, cuyas funciones se reforman, adicionan o derogan en este instrumento. Las denominaciones de los órganos y áreas administrativas se ajustarán a lo dispuesto en los Lineamientos por los que se establecen los criterios técnico-administrativos para la modificación, elaboración y autorización de las estructuras orgánicas y plantillas de personal de las Dependencias y Entidades de la Administración Pública.
+
+Artículo Octavo. En tanto se expidan las nuevas normas reglamentarias correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
+
+G.O. 26 DE AGOSTO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 875 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. La Secretaría emitirá los lineamientos respecto al Sistema de Evaluación para el Desempeño a que hace referencia el artículo 289 Bis del Código Financiero en un plazo de 90 días después de la publicación del presente Decreto.
