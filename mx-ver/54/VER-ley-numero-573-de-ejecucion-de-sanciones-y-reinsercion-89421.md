@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-573-de-ejecucion-de-sanciones-y-reinsercion-89421"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-17"
-last_updated: "2013-05-31"
+last_updated: "2013-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ LEY NÚMERO 573 DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL PARA EL ESTADO 
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE QUE INICIE SU VIGENCIA EL NUEVO CÓDIGO DE PROCEDIMIENTOS PENALES, SUJETÁNDOSE A LA GRADUALIDAD QUE ÉSTE PREVEA EN SUS DISPOSICIONES.</small>
 
-TEXTO ORIGINAL.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL EL 31 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2013.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Veracruz, el lunes 17 de septiembre de 2012.
 
@@ -97,7 +95,9 @@ II. Código Penal: El Código Penal para el Estado Libre y Soberano de Veracruz 
 
 III. Dirección: La autoridad de mayor jerarquía dentro del establecimiento penitenciario;
 
-IV. Dirección General: La Dirección General de Prevención y Reinserción Social adscrita a la Secretaría de Gobierno del Estado;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+IV. Dirección General: La Dirección General de Prevención y Reinserción Social adscrita a la Secretaría de Seguridad Pública del Estado;
 
 V. Director: El titular de la Dirección;
 
@@ -485,9 +485,11 @@ En la misma resolución se ordenará la restitución de la cantidad pagada por c
 
 ### CAPÍTULO PRIMERO. De las Autoridades Administrativas en Materia de Ejecución de Sanciones Penales
 
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 42.
 
-La autoridad ejecutora estará integrada por el Gobernador del Estado, la Secretaría de Gobierno, la Dirección General y las instituciones del sistema penitenciario, cuyos servidores públicos normarán sus funciones de acuerdo con lo dispuesto en el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos.
+La autoridad ejecutora estará integrada por el Gobernador del Estado, la Secretaría de Seguridad Pública, la Dirección General y las instituciones del sistema penitenciario, cuyos servidores públicos normarán sus funciones de acuerdo con lo dispuesto en el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 43.
 
@@ -509,7 +511,9 @@ c) Instruir los tratamientos adecuados para los internos, reglamentar su trabajo
 
 d) Coordinar, vigilar y supervisar las funciones y atribuciones de los directores y demás personal a su cargo;
 
-e) Crear, organizar y administrar el registro de población penitenciaria y proporcionar la información a la Secretaría de Gobierno y a las autoridades que lo soliciten, en ejercicio de sus funciones, se proporcionarán los datos contenidos en el casillero judicial;
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+e) Crear, organizar y administrar el registro de población penitenciaria y proporcionar la información a la Secretaría de Seguridad Pública y sólo a las autoridades que lo soliciten en ejercicio de sus funciones se les proporcionarán los datos contenidos en el casillero judicial;
 
 f) Impulsar la coordinación del Sistema Penitenciario del Estado de Veracruz con el Sistema Nacional Penitenciario;
 
@@ -701,7 +705,7 @@ El internamiento nocturno quedará sujeto a las siguientes reglas:
 
 I. Tendrá lugar desde las veinte horas hasta las ocho horas del día siguiente; y
 
-> <small>(F. DE E., G.O. 31 DE MAYO DE 2013)</small>
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
 
 II. Su cumplimiento quedará sujeto a las disposiciones previstas en las fracciones II, III, IV y V del artículo 62 de la presente Ley.
 
@@ -739,7 +743,7 @@ III. Remisión parcial de la pena; y
 
 IV. Reclusión domiciliaria mediante visita o monitoreo electrónico a distancia.
 
-> <small>(F. DE E., G.O. 31 DE MAYO DE 2013)</small>
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
 
 ###### Artículo 67.
 
@@ -767,7 +771,7 @@ V. Haber cubierto la reparación del daño o proporcionado garantía suficiente 
 
 VI. No estar sujeto a otro proceso penal en el que se haya decretado medida cautelar de prisión preventiva;
 
-> <small>(F. DE E., G.O. 31 DE MAYO DE 2013)</small>
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
 
 VII. No haber sido condenado por delitos contra la salud agravados en su modalidad de narcomenudeo o sus tentativas, previstos en el TÍTULO DECIMO OCTAVO, CAPÍTULO VII de la Ley General de Salud; y
 
@@ -977,7 +981,7 @@ Al quedar en libertad definitiva una persona, el Juez le entregará una constanc
 
 Obtenida la libertad definitiva, el liberado podrá exigir que sean rehabilitados sus derechos civiles, políticos o de familia suspendidos con motivo del procedimiento penal y la sanción impuesta. Una vez presentada la solicitud de rehabilitación, el Juez verificará que el condenado haya extinguido la sanción privativa de libertad impuesta, que resultó absuelto o que le fue concedido el indulto.
 
-> <small>(F. DE E., G.O. 31 DE MAYO DE 2013)</small>
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
 
 Asimismo, podrá el liberado solicitar la cancelación del registro, en el Casillero Judicial del Estado, de la sentencia impuesta en la causa penal cumplida.
 
@@ -1495,7 +1499,9 @@ El Comité de Visita General se integrará por:
 
 I. Un Representante de la Procuraduría General de Justicia del Estado;
 
-II. Un Representante de la Dirección General Jurídica de la Secretaría de Gobierno del Estado;
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+
+II. Un Representante de la Dirección Jurídica de la Secretaría de Seguridad Pública del Estado;
 
 III. Un Representante de la Secretaría de Salud del Estado;
 
@@ -1562,3 +1568,23 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 26 DE AGOSTO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo Tercero. Los asuntos que a la entrada en vigor del presente decreto se encontraran en trámite ante alguna de las áreas administrativas de las Secretarías del Despacho que, como consecuencia de este decreto, se transfieren a otra dependencia, se continuarán tramitando ante dicha Secretaría hasta su conclusión.
+
+Artículo Cuarto. A la brevedad posible, el Ejecutivo del Estado, en la esfera administrativa, efectuará las adecuaciones reglamentarias necesarias que establece el presente Decreto.
+
+Artículo Quinto. Los recursos humanos, financieros y materiales de las Direcciones Generales de Transporte, de la de Prevención y Reinserción Social y de la Dirección General de Ejecución de Medidas Sancionadoras, se transferirán a la Secretaría Seguridad Pública, con pleno respeto a los derechos laborales de sus trabajadores.
+
+Artículo Sexto. En todos los ordenamientos y disposiciones en que se haga mención de la Dirección General de Transporte, de la Dirección General de Prevención y Reinserción Social, o de la Dirección General de Ejecución de Medidas Sancionadoras se deberán tener por referidas y adscritas a la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Séptimo. La Secretaría de Finanzas y Planeación y la Contraloría General, conformarán un Grupo de Trabajo, a fin de determinar la estructura orgánica mínima indispensable que integrará las Secretarías, cuyas funciones se reforman, adicionan o derogan en este instrumento. Las denominaciones de los órganos y áreas administrativas se ajustarán a lo dispuesto en los Lineamientos por los que se establecen los criterios técnico-administrativos para la modificación, elaboración y autorización de las estructuras orgánicas y plantillas de personal de las Dependencias y Entidades de la Administración Pública.
+
+Artículo Octavo. En tanto se expidan las nuevas normas reglamentarias correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
