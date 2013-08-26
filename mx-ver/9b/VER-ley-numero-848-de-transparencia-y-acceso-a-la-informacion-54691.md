@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-848-de-transparencia-y-acceso-a-la-informacion-54691
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-27"
-last_updated: "2012-10-02"
+last_updated: "2013-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY 848 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 27 de febrero de 2007.
 
@@ -127,9 +127,7 @@ XXI. Indicadores de gestión: Instrumento que permite medir el cumplimiento de l
 
 XXII. Sistema de datos personales: El conjunto ordenado de datos personales que estén en posesión de un sujeto obligado;
 
-> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
-
-XXIII. INFOMEX- Veracruz: El sistema electrónico que permite a cualquier persona hacer uso remoto de los mecanismos de acceso a la información y del recurso de revisión a que se refiere esta Ley.
+XXIII. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
 
 Artículo 4
 
@@ -185,9 +183,9 @@ VII. Capacitar a los servidores públicos en materia de transparencia, acceso a 
 
 VIII. Permitir que los servidores públicos del Instituto, debidamente acreditados, puedan tener acceso a toda la información pública y a los archivos administrativos para verificar el cumplimiento de las obligaciones que les impone la ley;
 
-> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
-IX. Adoptar el INFOMEX-Veracruz como sistema electrónico que permita de manera remota el ejercicio del derecho de acceso a la información; y
+IX. Adoptar el sistema electrónico de acceso a la información que determine el Instituto; y
 
 > <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
 
@@ -563,7 +561,9 @@ X. La que por disposición expresa de otra ley vigente, al momento de la publica
 
 Artículo 13
 
-1. Los sujetos obligados que tengan información reservada o confidencial, crearán un Comité de Información de Acceso Restringido que tendrá la responsabilidad de emitir un acuerdo que clasifique la información reservada y confidencial, de conformidad con esta ley y los lineamientos que al efecto dicte el Instituto.
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+1. Los sujetos obligados que tengan información reservada o confidencial crearán un Comité de Información de Acceso Restringido, que tendrá la responsabilidad de emitir un acuerdo que clasifique la información reservada y confidencial, de conformidad con esta Ley y los lineamientos que al efecto dicte el Instituto, atendiendo al procedimiento a que se refiere el párrafo 5 de este artículo.
 
 2. El Comité se integrará por el titular del sujeto obligado, el responsable de la Unidad de Acceso y los servidores públicos que así se determinen.
 
@@ -575,13 +575,13 @@ Artículo 13
 
 4. Los servidores públicos del Instituto, debidamente acreditados y autorizados al efecto, podrán tener acceso a la información clasificada como reservada o confidencial exclusivamente para determinar su debida clasificación, desclasificación o procedencia de su acceso.
 
-> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
-5. La información deberá ser clasificada por el Comité desde el momento en que se genera el documento o el expediente.
+5. La información deberá ser clasificada por el Comité de Información de Acceso Restringido cuando se reciba una solicitud de acceso a la información, por medio de un acuerdo que se le hará saber al solicitante; en el caso de documentos que no se hubieren clasificado previamente, la Unidad Administrativa que tenga la información solicitada bajo su resguardo remitirá al Comité, por conducto de la Unidad de Acceso, el informe respectivo con los elementos necesarios para fundar y motivar la clasificación de la información.
 
-> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
-6. El Instituto podrá establecer criterios específicos para la clasificación de información mediante la expedición de lineamientos de clasificación y desclasificación. En ningún caso los sujetos obligados podrán clasificar documentos mediante acuerdos generales antes de que se genere la información.
+6. El Instituto podrá establecer criterios específicos para la clasificación de información mediante la expedición de lineamientos de clasificación y desclasificación. En ningún caso los sujetos obligados podrán clasificar documentos mediante acuerdos generales antes de que se solicite la información.
 
 Artículo 14
 
@@ -593,21 +593,27 @@ II. Que su liberación pueda amenazar efectivamente el interés protegido por la
 
 III. Que el daño que pueda producirse con su liberación sea mayor que el interés público de conocerla.
 
-2. Se indicará expresamente la fuente de la información, las razones en que se apoye la justificación de la clasificación formulada; si el acuerdo abarca la totalidad o sólo parte de la información, y el plazo de reserva acordado el que deberá estar comprendido dentro del término máximo autorizado en el artículo 15 de la presente ley, así como la designación de la autoridad que será responsable de su conservación.
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+2. Se indicará expresamente la fuente de la información, las razones en que se apoye la justificación de la clasificación formulada; si el acuerdo abarca la totalidad o sólo parte de la información, y el plazo de reserva estimado, así como la designación de la autoridad que será responsable de su conservación.
 
 3. Si los expedientes que contengan información reservada incluyen alguna otra que no tenga tal calidad, la petición o solicitud que se formule se atenderá respecto de esta última.
 
 Artículo 15
 
-1. La información que haya sido clasificada como reservada, deberá permanecer con tal carácter hasta por un periodo de seis años, con la posibilidad de prorrogar el plazo por una sola vez, salvo que antes de esos términos se extinga alguna de las causas que haya motivado su clasificación o medie una resolución del Instituto que declare infundada su reserva.
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
-2. El Instituto, a solicitud de los sujetos obligados, podrá acordar la ampliación del periodo de reserva hasta por un término similar al preceptuado anteriormente, cuando subsistan las causas que hayan dado origen a su clasificación.
+1. La información que haya sido clasificada como reservada deberá permanecer con tal carácter, mientras subsistan las causas que hayan motivado su clasificación, debiendo desclasificarse una vez que las mismas desaparezcan, se determine que ya no ponen en peligro el bien público tutelado o medie una resolución del Instituto que declare infundada su reserva. Con independencia de lo anterior, en el acuerdo de clasificación, de ser viable, deberá determinarse un lapso estimado, en el que debe permanecer reservada la información, sin que la desclasificación opere de manera automática agotado dicho plazo, requerirá siempre de un pronunciamiento del sujeto obligado, o en su caso del Instituto, en el que se analice si las causas generadoras de la clasificación han dejado de estar vigentes.
 
-3. La solicitud de ampliación y su aceptación o rechazo serán públicas y las resoluciones relativas podrán ser impugnadas por los interesados, mediante el recurso de revisión que establece esta ley.
+2. (DEROGADO SEGUNDO PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)
+
+3. (DEROGADO TERCER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)
+
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 Artículo 16
 
-Los sujetos obligados, por conducto de su respectiva Unidad de Acceso, elaborarán semestralmente y por rubros temáticos, un índice de la información o de los expedientes clasificados como reservados. Dicha relación mencionará la unidad administrativa generadora o poseedora de la información pública, la fecha de su clasificación como reservada y el plazo de reserva acordado. En ningún caso ese índice será considerado como información reservada.
+Los sujetos obligados, por conducto de su respectiva Unidad de Acceso, elaborarán semestralmente y por rubros temáticos, un índice de la información o de los expedientes clasificados como reservados. Dicha relación mencionará la unidad administrativa generadora o poseedora de la información pública, la fecha de su clasificación como reservada y el plazo de reserva estimado, En ningún caso ese índice será considerado como información reservada.
 
 ### CAPÍTULO CUARTO. DE LA INFORMACIÓN CONFIDENCIAL
 
@@ -720,6 +726,10 @@ Artículo 26
 2. Los partidos, agrupaciones de ciudadanos, asociaciones y organizaciones políticas, deberán mantener dentro de su estructura una Unidad de Acceso para dar cumplimiento a lo estipulado por esta ley.
 
 3. En el caso de los ayuntamientos, en sesión de cabildo y por mayoría de votos de sus integrantes, se nombrará al encargado de la Unidad de Acceso.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+4. Los sujetos obligados deberán profesionalizar a sus titulares de las Unidades de Acceso a la Información Pública, mediante la capacitación continua y el pago de emolumentos acordes a su responsabilidad, así como dotar de una infraestructura adecuada y suficiente a dichas Unidades, para proporcionar una atención digna a las personas que requieran información o la protección de sus datos personales. El Instituto vigilará el cumplimiento de esta disposición.
 
 Artículo 27
 
@@ -1263,6 +1273,10 @@ V. Las resoluciones del Pleno serán públicas.
 
 4. Para el adecuado ejercicio de su función, el Consejo General del Instituto emitirá los Lineamientos Generales para regular el procedimiento de substanciación del Recurso de Revisión. Los lineamientos respetarán las garantías constitucionales de audiencia y seguridad jurídica y contendrán disposiciones que contemplen las formalidades esenciales del procedimiento, a fin de garantizar al particular certidumbre jurídica en el ejercicio de su prerrogativa de acceso a la información.
 
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+5. En la substanciación del recurso de revisión, debe privilegiarse el uso de los medios electrónicos de comunicación, evitando el dispendio de recursos públicos, disminuyéndose la utilización de altos volúmenes de papel, copias y otros medios.
+
 Artículo 68
 
 La información reservada o confidencial, que en su caso sea solicitada por el Consejo del Instituto por resultar indispensable para resolver el asunto, deberá ser mantenida con ese carácter y no estará disponible en el expediente.
@@ -1470,3 +1484,11 @@ Cuarto. Los entes públicos que a la entrada en vigor de la presente Ley no cuen
 Quinto. El Instituto deberá emitir los lineamientos a que se refiere la presente Ley en un plazo de ciento ochenta días naturales, posteriores a la entrada en vigor de la presente Ley.
 
 Sexto. Se derogan el Capítulo Quinto del Título Primero de la Ley de Transparencia y Acceso a la Información para el Estado y todas las demás disposiciones que contravengan la presente Ley.
+
+G.O. 26 DE AGOSTO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. El sistema INFOMEX seguirá vigente, hasta en tanto el Instituto implemente otro sistema.
+
+TERCERO. Se derogan todas las disposiciones que contravengan al presente decreto.
