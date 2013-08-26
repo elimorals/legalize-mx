@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2013-04-15"
+last_updated: "2013-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -513,7 +513,9 @@ b) Recepción de quejas y denuncias acerca de presuntas violaciones a los derech
 
 c) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-XIII.- EQUIDAD Y GÉNERO:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2013)</small>
+
+XIII.- Igualdad de Género:
 
 a) Revisar y actualizar el marco jurídico necesario a fin de hacer cumplir las obligaciones en materia de igualdad entre mujeres y hombres en el Estado de Puebla;
 
@@ -2742,3 +2744,15 @@ SEGUNDO.- Las referencias que a la entrada en vigor del presente Decreto se haga
 TERCERO.- Los procedimientos legales, administrativos, de fiscalización superior y demás asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante la Comisión General Inspectora del Órgano de Fiscalización Superior o en los que ésta sea parte, así como los que deriven o sean consecuencia de los mismos, continuarán sustanciándose por la Comisión General Inspectora de la Auditoría Superior del Estado, hasta su total conclusión, conforme a las disposiciones aplicables.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Comisión General de Igualdad de Género, tendrá las mismas funciones y competencias de la Comisión General de Equidad y Género; asimismo, se mantiene a los integrantes de esta última a la de Igualdad de Género.
+
+TERCERO.- Los asuntos en trámite presentados o turnados a la Comisión de Equidad y Género, pasarán a ser competencia de la Comisión de Igualdad de Género.
+
+CUARTO.- Todos los actos suscritos por la Comisión de Equidad y Género y su Presidencia a la entrada en vigor de la presente reforma, sus efectos se entenderán referidos a la Comisión de Igualdad de Género.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
