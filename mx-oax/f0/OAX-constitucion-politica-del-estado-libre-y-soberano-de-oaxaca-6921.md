@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2013-08-10"
+last_updated: "2013-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2013.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1395,17 +1395,27 @@ XXI. A iniciativa del Ejecutivo analizar, discutir y decretar anualmente en prim
 
 XXI Bis. Autorizar al Titular del Poder Ejecutivo, la ejecución de los proyectos de inversión en infraestructura pública o de prestación de servicios públicos, así como las erogaciones plurianuales para el cumplimiento de las obligaciones de pago derivadas de dichos proyectos en los Presupuestos de Egresos del Estado, en términos de lo dispuesto por la Ley reglamentaria. Las erogaciones autorizadas deberán incluirse en los subsecuentes Presupuestos de Egresos durante la vigencia de los contratos correspondientes.
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2013)</small>
 
-XXII. Dictaminar anualmente la Cuenta Pública de los poderes del Estado, Órganos Autónomos y Municipios; para revisar y fiscalizar ésta, así como la actuación de cualquier persona física o moral que administre recursos públicos, el Congreso del Estado contará con el apoyo de la Auditoria Superior del Estado.
+XXII. Dictaminar anualmente la Cuenta Pública del Estado y Municipios, el Congreso del Estado contará con el apoyo de la Auditoría Superior del Estado con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas mediante la revisión y fiscalización de las mismas.
 
-En el año que concluya el mandato del Poder Ejecutivo del Estado y de los Municipios, la presentarán al Congreso conforme a los plazos, formas y procedimientos establecidos en la Ley respectiva.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2013)</small>
 
-Sólo se podrá ampliar el plazo de presentación cuando se presente solicitud para que sea justificada, a juicio del Congreso del Estado; a condición de que sea presentada por lo menos con quince días de anticipación a la conclusión del plazo, para lo cual deberá comparecer, ante el pleno, el secretario de Finanzas o bien, el Presidente Municipal del Ayuntamiento respectivo, según se trate de Cuenta Pública estatal o municipal, a informar de las razones que motiven la solicitud; la prórroga no deberá exceder de treinta días naturales y, en tal supuesto, la Auditoría Superior contará con el mismo tiempo adicional para la presentación del informe de resultado de la revisión y fiscalización de la Cuenta Pública.
+Sólo se podrá ampliar el plazo de presentación de las Cuentas Públicas cuando se presente solicitud para que sea justificada, a juicio del Congreso del Estado; a condición de que sea presentada por lo menos con quince días de anticipación a la conclusión del plazo, para lo cual deberá comparecer el Secretario de Finanzas o bien, el Presidente Municipal del Ayuntamiento respectivo, según se trate de Cuenta Pública estatal o municipal, a informar de las razones que motiven la solicitud; la prórroga no deberá exceder de quince días naturales y, en tal supuesto, la Auditoría Superior del Estado contará con el mismo tiempo adicional para la presentación del informe de resultado de la revisión y fiscalización de las Cuentas Públicas.
 
-Tratándose de la Cuenta Pública de los poderes del Estado, órganos autónomos, entes públicos estatales, y todos aquellos entes estatales que ejerzan recursos públicos estatales, enviarán a la Secretaría de Finanzas y Secretaría de la Contraloría y Transparencia Gubernamental, a más tardar el 31 de marzo la información correspondiente al año inmediato anterior y, demás información que estas soliciten conforme a la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2013)</small>
 
-Con base en el análisis del contenido de la Cuenta Pública y las conclusiones técnicas del informe de resultados que le presente la Auditoría Superior del Estado a más tardar el veinte de febrero del año siguiente al de su presentación, el Congreso concluirá la revisión y el dictamen de la Cuenta Pública del Estado a más tardar el quince de agosto del año siguiente al de su presentación, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la entidad de fiscalización seguirán su curso en términos de la normatividad aplicable.
+Tratándose de la Cuenta Pública del Estado, los Poderes del Estado, Órganos Autónomos y todos aquellos entes que ejerzan recursos públicos estatales, enviarán a la Secretaría de Finanzas, a más tardar el último día hábil de febrero del año que corresponda la información correspondiente al año inmediato anterior atendiendo al contenido señalado en la Ley General de Contabilidad Gubernamental y a la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2013)</small>
+
+La Auditoría Superior del Estado a más tardar el 15 de septiembre de la presentación de la Cuenta Pública, deberá rendir al Congreso, por conducto de la Comisión Permanente de Vigilancia de la Auditoria Superior del Estado, los informes de resultados de la Cuenta Pública del Estado. El Congreso a más tardar el 30 de septiembre del año de su presentación, concluirá su revisión y dictamen.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2013)</small>
+
+Por lo que respecta a la Cuenta Pública del Estado del último año de gobierno de cada administración, el titular del Ejecutivo presentará trimestralmente el informe de avance de la Cuenta Pública del Estado dentro de los treinta días naturales siguientes a la conclusión de cada trimestre, la Auditoría Superior del Estado deberá rendir el informe de resultados de los dos primeros trimestres a más tardar el 15 de septiembre del año en que se presentan, debiendo el Congreso a más tardar el 30 de septiembre de ese año concluir su revisión y dictamen. Tratándose del tercero y cuarto trimestres, la Auditoria Superior del Estado tendrá que remitir el informe de resultados que corresponda a ambos trimestres el 15 de septiembre del año de presentación del cuarto trimestre, y el Congreso concluirá su revisión y dictamen a más tardar el 30 de septiembre del mismo año.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2012)</small>
 
 En el caso de las Cuentas Públicas de los Municipios se observará el párrafo anterior, con la salvedad de que presentarán la correspondiente al año anterior a más tardar el ultimo día hábil del mes de febrero, el informe de resultados de la Auditoría Superior del Estado se presentará el último día hábil del mes de noviembre y su dictaminación se realizará a más tardar al termino del segundo periodo ordinario de sesiones.
 
@@ -2077,7 +2087,7 @@ El Gobernador no puede:
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
-I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 53 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, lo hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales.
+I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 53 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, la hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2453,7 +2463,7 @@ IV. Conocer de las peticiones formuladas por el Gobernador del Estado, por trein
 
 V. Substanciar el juicio para la protección de los derechos humanos, por incumplimiento de las recomendaciones hechas a la autoridad por la Defensoría de los Derechos Humanos del Pueblo de Oaxaca;
 
-VI. Solventar recursos relativos a los requisitos de la revocación del mandato señalados en el artículo 25 de la Constitución.
+VI. Solventar recursos relativos a los requisitos de la revocación del mandato señalados en el artículo 25 de esta Constitución.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2971,7 +2981,7 @@ Las declaraciones y resoluciones del Ayuntamiento son inatacables.
 
 ###### ARTICULO 126.
 
-En el Estado de Oaxaca todo individuo tiene derecho a recibir educación. El Estado y los Municipios impartirán educación preescolar, primaria y secundaria. La educación preescolar, primaria y secundaria es obligatoria.
+En el Estado de Oaxaca, todo individuo tiene derecho a recibir educación. El Estado y los Municipios impartirán educación preescolar, primaria y secundaria. La educación preescolar, primaria y secundaria es obligatoria.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -3811,7 +3821,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- El Gobernador del Estado dentro del término de noventa días, contados a partir de la publicación del presente Decreto, propondrá a la Legislatura los candidatos para ocupar el cargo de Procurador General de Justicia del Estado.
 
-TERCERO.- La Legislatura del Estado efectuará las adecuaciones legales necesarias para dar cumplimiento al presente Decreto.
+TERCERO.- La legislatura del Estado efectuará las adecuaciones legales necesidades para dar cumplimiento al presente Decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
@@ -4004,3 +4014,9 @@ P.O. 10 DE AGOSTO DE 2013.
 PRIMERO.- Este Decreto entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Ordénese su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+P.O. 26 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El Congreso del Estado deberá Dictaminar las Cuentas Públicas correspondientes al último bimestre del ejercicio 2010 y el ejercicio fiscal 2011, a más tardar el 30 de agosto del presente año y la correspondiente al ejercicio fiscal 2012 por única ocasión a más tardar el 31 de octubre del año 2013.
