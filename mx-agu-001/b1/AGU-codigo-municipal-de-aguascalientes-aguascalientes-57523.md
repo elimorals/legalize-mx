@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2013-08-12"
+last_updated: "2013-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE SEPTIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -3743,7 +3745,9 @@ En caso de un accidente vial, siniestro, robo o pérdida de auto partes el resgu
 
 ###### ARTÍCULO 248.
 
-Queda estrictamente prohibido a todos resguardantes y usuarios, celebrar convenios en materia de accidentes viales la única autoridad facultada para celebrar este tipo de convenios, será el Sindico Procurador del Municipio.
+Queda estrictamente prohibido a todos resguardantes y usuarios, celebrar convenios en materia de accidentes viales.
+
+La única autoridad facultada para celebrar este tipo de convenios, será el Sindico Procurador del Municipio.
 
 APARTADO DÉCIMO PRIMERO
 
@@ -12679,7 +12683,7 @@ El proyecto constará básicamente de dos documentos: la memoria de cálculo y l
 
 la Memoria de Cálculo deberá cubrir, con el suficiente grado de detalle como para poder ser revisada (sic) evaluada por un profesionista ajeno al proyecto, los siguientes aspectos:
 
-I. Descripción general del proyecto y del tipo de estructura a utilizarse;
+l. Descripción general del proyecto y del tipo de estructura a utilizarse;
 
 II. Resistencia y calidad de los materiales estructurales a utilizarse;
 
@@ -12867,7 +12871,7 @@ III. Acciones Accidentales.- Son las que no se deben al funcionamiento normal de
 
 Acciones Permanente, esta categoría comprende:
 
-I. La carga muerta, debida al peso propio de los elementos estructurales y al peso de los elementos no estructurales incluyendo las instalaciones, al peso del equipo que ocupe una posición fija y permanente en la construcción, y al peso estimado de futuros muros divisorios y de otros elementos no estructurales que puedan colocarse posteriormente en forma permanente;
+l. La carga muerta, debida al peso propio de los elementos estructurales y al peso de los elementos no estructurales incluyendo las instalaciones, al peso del equipo que ocupe una posición fija y permanente en la construcción, y al peso estimado de futuros muros divisorios y de otros elementos no estructurales que puedan colocarse posteriormente en forma permanente;
 
 II. El empuje estático de tierras y de líquidos, de carácter permanente; y
 
@@ -14561,7 +14565,7 @@ Los propietarios de edificaciones tienen obligación de conservarlas en buenas c
 
 ###### ARTÍCULO 1094.
 
-Los predios no edificados deberán estar libres de escombro y basura, drenados adecuadamente y cercados en sus límites que no colinden con alguna construcción permanente, de una altura mínima de 2.50 metros, las cuales no podrán ser de madera, cartón, alambrado de púas y otros similares. Y en su limites con edificaciones colindantes deberá de contar con sus bardas a una altura mínima de 2.50 metros. Para hacer exigible la obligación anterior, la Secretaría deberá notificar el requerimiento correspondiente al propietario, concediéndole el término de quince días hábiles, transcurridos los cuales sin que se cumpla con dicha obligación, los trabajos de cercado y limpieza se podrán hacer por parte de la Secretaría o quien ésta designe.
+Los predios no edificados deberán estar libres de escombro y basura, drenados adecuadamente y cercados en sus límites que no colinden con alguna construcción permanente, de una altura mínima de 2.50 metros, las cuales no podrán ser de madera, cartón, alambrado de púas y otros similares. Y en su (sic) limites con edificaciones colindantes deberá de contar con sus bardas a una altura mínima de 2.50 metros. Para hacer exigible la obligación anterior, la Secretaría deberá notificar el requerimiento correspondiente al propietario, concediéndole el término de quince días hábiles, transcurridos los cuales sin que se cumpla con dicha obligación, los trabajos de cercado y limpieza se podrán hacer por parte de la Secretaría o quien ésta designe.
 
 ###### ARTÍCULO 1095.
 
@@ -18141,7 +18145,7 @@ Los establecimientos dedicados a la renta de equipos de cómputo para Internet o
 
 Los establecimientos dedicados a la venta, renta y/o intercambio de fonogramas o videogramas, deberán solicitar licencia de funcionamiento en los términos de este Código y cumplir con las siguientes obligaciones:
 
-I. Operar en un horario de las nueve a las veintitrés horas.
+l. Operar en un horario de las nueve a las veintitrés horas.
 
 II. Prohibir que laboren menores de edad dentro del establecimiento.
 
@@ -18195,7 +18199,7 @@ Las personas que se dediquen a la venta de revistas y periódicos en estanquillo
 
 > <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO IX], P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO XVIII. De los Espectáculos Públicos
+### CAPÍTULO X (SIC). De los Espectáculos Públicos
 
 ###### ARTÍCULO 1339.
 
@@ -18359,47 +18363,43 @@ Será potestativo del propietario de cualquier establecimiento, en cualquiera de
 
 Será potestativo del propietario de cualquier establecimiento, mientras dure la actuación de los ejecutantes de actividades musicales, apagar los aparatos electrónicos musicales que operen en el local, así como prestar todas las facilidades para el desarrollo de la actividad musical.
 
-> <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO X], P.O. 4 DE MARZO DE 2013)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE SEPTIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS Y DIVERSIONES PÚBLICAS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 26 DE AGOSTO DE 2013)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1348.
 
-Se entiende por espectáculo público todo evento de carácter, musical, cultural, o de cualquier otro tipo dirigido a la diversión o entretenimiento del público en general.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS Y DIVERSIONES PÚBLICAS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 26 DE AGOSTO DE 2013)
 
 ###### ARTÍCULO 1349.
 
-La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, previo cumplimiento de los requisitos que establece este Código, autorizará los espectáculos públicos y los precios de entrada, de acuerdo con la categoría de los mismos y la calidad de los locales, a fin de proteger el interés público.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS Y DIVERSIONES PÚBLICAS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 26 DE AGOSTO DE 2013)
 
 ###### ARTÍCULO 1350.
 
-No se otorgará permiso alguno en los términos del artículo anterior, sin que previamente el solicitante deposite la garantía que le sea fijada por la Secretaría de Finanzas Públicas, misma que en ningún caso podrá ser inferior al diez por ciento del monto del boletaje autorizado, la cual se hará efectiva en caso de que el espectáculo no se celebre o se violen cualquiera de las obligaciones que impone este Código.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS Y DIVERSIONES PÚBLICAS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 26 DE AGOSTO DE 2013)
 
 ###### ARTÍCULO 1351.
 
-Queda prohibido a las empresas de espectáculos vender un mayor número de localidades a las del cupo técnico determinado para el evento o para el lugar de que se trate.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS Y DIVERSIONES PÚBLICAS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 26 DE AGOSTO DE 2013)
 
 ###### ARTÍCULO 1352.
 
-Todo centro de espectáculos que funcione en espacios cerrados, deberá contar con extractores de humo y zonas destinadas para fumadores y no fumadores, cuando dentro de su interior se permita fumar, además con salidas de emergencia claramente identificadas.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS Y DIVERSIONES PÚBLICAS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 26 DE AGOSTO DE 2013)
 
 ###### ARTÍCULO 1353.
 
-Se requiere permiso para la realización de todo tipo de espectáculos públicos, debiendo respetar los niveles máximos de ruidos permitidos por la Norma Oficial Mexicana correspondiente.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS Y DIVERSIONES PÚBLICAS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 26 DE AGOSTO DE 2013)
 
 ###### ARTÍCULO 1354.
 
-La Secretaría del H. Ayuntamiento y Dirección General de Gobierno podrá suspender en cualquier momento un espectáculo público, si se llegase a alterar el orden, se pusiera en peligro la seguridad de los asistentes o no se respetaran las limitaciones que establece este Código o las que se establecieran al espectáculo de que se trate.
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS Y DIVERSIONES PÚBLICAS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 26 DE AGOSTO DE 2013)
 
 ###### ARTÍCULO 1355.
 
-Los espectadores que originen falsas alarmas infundiendo pánico en el público serán sancionados con multa o arresto sin perjuicio de que si por tal situación se cometiera otro delito, se les consigne a las autoridades competentes.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS Y DIVERSIONES PÚBLICAS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 26 DE AGOSTO DE 2013)
 
 ## TÍTULO SEGUNDO. DE LOS MERCADOS, ESTACIONAMIENTOS, COMERCIO Y OTRAS ACTIVIDADES EN LA VÍA PÚBLICA
 
@@ -18935,7 +18935,7 @@ Salvo lo establecido en el artículo 1389 de este Código y en el presente artí
 
 Será nulo de pleno derecho y no producirá efecto jurídico alguno, los actos o hechos que se realicen en contravención del presente artículo.
 
-La autoridad municipal procederá desde luego con audiencia de los afectados a la cancelación del permiso que otorgue cuando la sustitución de los titulares de los establecimientos, se realice en fraude, abuso de confianza o en abuso del espíritu de esta disposición. 1
+La autoridad municipal procederá desde luego con audiencia de los afectados a la cancelación del permiso que otorgue cuando la sustitución de los titulares de los establecimientos, se realice en fraude, abuso de confianza o en abuso del espíritu de esta disposición.
 
 ###### ARTÍCULO 1389.
 
@@ -21882,3 +21882,17 @@ El H. Ayuntamiento aprobará el acuerdo que establezca las bases para la constit
 ###### ARTÍCULO SEXTO.
 
 Todas las disposiciones que se opongan al presente Reglamento, se entenderán derogadas para los efectos legales conducentes.
+
+P.O. 26 DE AGOSTO DE 2013.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE SEPTIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+PRIMERO.- Se deroga el Capítulo X (sic) del Libro Séptimo del Código Municipal de Aguascalientes, artículos 1348, 1349, 1350, 1351, 1352, 1353, 1354 y 1355.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+CUARTO.- Todas aquellas actividades en las que se celebren o desarrollen Espectáculos o Diversiones Públicas, serán reguladas por las disposiciones que establece el presente Reglamento.
+
+QUINTO.- Todo lo no previsto en el presente Reglamento se resolverá de conformidad con las disposiciones que establecen el Código y demás disposiciones jurídicas aplicables a la materia.
