@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2013-07-31"
+last_updated: "2013-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2013.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -963,275 +963,7 @@ foránea: 11 salarios mínimos
 
 j) Por un ejemplar normal atrasado: 1.50 salarios mínimos
 
-D. En materia de Transporte:
-
-I. Expedición de licencia de chofer,
-
-tipo A para conducir vehículos de
-
-motor dedicados al servicio público
-
-de transporte de pasajeros, de acuerdo
-
-con el reglamento de la Ley de
-
-Tránsito y Transporte, previo examen
-
-médico y pericial: 15 salarios mínimos
-
-Canje trianual: 7 salarios mínimos
-
-II. Expedición de licencia de chofer,
-
-tipo B para conducir toda clase de
-
-vehículos de motor de servicios públicos
-
-de carga y particular, de acuerdo con
-
-el reglamento de la Ley de Tránsito y
-
-Transporte, previo examen médico y
-
-pericial: 14 salarios mínimos
-
-Canje trianual: 6 salarios mínimos
-
-III. Expedición de licencia de
-
-automovilista, tipo C para conducir
-
-únicamente automóviles de servicio
-
-particular, de acuerdo con el
-
-Reglamento de la Ley de Tránsito
-
-y Transporte, previo examen
-
-médico y pericial: 12 salarios mínimos
-
-Canje trianual: 5 salarios mínimos
-
-IV. Expedición de licencia de
-
-motociclista, tipo D para conducir
-
-vehículos de dos o más
-
-ruedas, de acuerdo con el
-
-reglamento de la Ley de Tránsito
-
-y Transporte, previo examen
-
-médico y pericial: 8 salarios mínimos
-
-Canje trianual: 4 salarios mínimos
-
-V. Expedición de licencia de
-
-motorista, para conducir
-
-maquinaria pesada para
-
-construcción: 7 salarios mínimos
-
-Canje trianual: 3 salarios mínimos
-
-VI. Expedición de duplicados de
-
-cualquier tipo de licencias de las
-
-señaladas en las fracciones anteriores
-
-de este artículo: 4 salarios mínimos
-
-VII. Por la expedición de los siguientes permisos:
-
-a) Especiales para conducir hasta
-
-por 180 días renovables, a
-
-personas mayores de 16 y
-
-menores de 18 años: 6 salarios mínimos
-
-b) Para establecer el servicio
-
-al público de estacionamiento
-
-de vehículos en inmuebles
-
-particulares, de conformidad
-
-con la Ley de Tránsito y 400 salarios
-
-Transporte y su Reglamento: mínimos
-
-Por revalidación anual: 150 salarios mínimos
-
-c) Particular, para el transporte de carga específica o de personas:
-
-Por un año: 10 salarios mínimos
-
-Por un día: 2 salarios mínimos
-
-d) Particular, para circular vehículos
-
-nuevos sin placas, ni tarjeta de
-
-circulación por 15 días: 3 salarios mínimos
-
-e) Para establecer escuelas de
-
-enseñanza para conducir vehículos: 200 salarios mínimos
-
-Por revalidación anual: 50 salarios mínimos
-
-VIII. Por servicios de transporte público:
-
-a) Expedición de tarjeta anual de identificación de operador de transporte público de pasajeros:
-
-Por un año: 10 salarios mínimos
-
-Por dos años: 18 salarios mínimos
-
-b) Reposición de la tarjeta anual
-
-de identificación de operador de
-
-transporte público de
-
-pasajeros: 2 salarios mínimos
-
-c) Expedición de cuota oficial para
-
-el cobro de servicio público de
-
-transporte de pasajeros: 1 salario mínimo
-
-d) Expedición de permisos de
-
-sustitución temporal de unidad
-
-por 20 días: 2 salarios mínimos
-
-e) La revista vehicular anual
-
-del servicio de transporte público
-
-en cualquiera de sus modalidades: 3 salarios mínimos
-
-f) La realización de los estudios
-
-para la modificación o ampliación
-
-de las rutas de transporte público
-
-en las diversas modalidades y, en
-
-su caso la expedición del croquis
-
-correspondiente por concesión
-
-autorizada por el Estado: 20 salarios mínimos
-
-IX. Por la prestación de otros servicios:
-
-a) Expedición de constancias,
-
-certificados médicos y
-
-documentos de cualquier otra
-
-naturaleza: 2 salarios mínimos
-
-b) Expedición de permisos diversos.
-
-Por día: 2 salarios mínimos
-
-c) Por la utilización de grúas
-
-oficiales para el retiro de vehículos: 4 salarios mínimos
-
-d) Por la utilización de servicio
-
-oficial de depósito y custodia de
-
-vehículos, conforme a los
-
-supuestos y consecuencias
-
-previstas en la Ley y Reglamento
-
-de la materia. Por día: 0.5 salarios mínimos
-
-X. Por el otorgamiento de una concesión o permisos en trámite para prestar el servicio público de transporte en las diferentes modalidades previstas en la Ley de Tránsito y Transporte y su Reglamento:
-
-a) Taxi y colectivo: 250 salarios mínimos
-
-b) Urbano, suburbano y
-
-foráneo: 280 salarios mínimos
-
-c) Carga, escolar, exclusivo
-
-de turismo, recreativo y transporte
-
-de personal de empresas: 155 salarios mínimos
-
-d) Carga especializada en modalidad de grúa:
-
-Tipo "A": 750 salarios mínimos
-
-Tipo "B": 500 salarios mínimos
-
-Tipo "C": 300 salarios mínimos
-
-e) Rural mixto, carga-pasaje: 250 salarios mínimos
-
-XI. Por la transferencia por fallecimiento
-
-del titular de una concesión para
-
-prestar el servicio público de
-
-transporte en la modalidad de taxi,
-
-colectivo, rural mixto, urbano,
-
-suburbano, foráneo, carga, escolar,
-
-exclusivo de turismo o transporte de
-
-personal de empresas: 50 salarios mínimos
-
-XII. Por la autorización para prestar
-
-el servicio de depósito y custodia de
-
-vehículos, de acuerdo con el
-
-Reglamento de la Ley de Tránsito
-
-y Transporte: 500 salarios mínimos
-
-Revalidación anual: 150 salarios mínimos
-
-XIII. Por la transferencia por cesión de derechos de una concesión para prestar el servicio público de transporte en las modalidades siguientes:
-
-a) Taxi, colectivo, urbano,
-
-suburbano, foráneo, carga,
-
-escolar, exclusivo de turismo y
-
-transporte de personal de empresas: 200 salarios mínimos
-
-b) Rural mixto: 150 salarios mínimos
-
-No se causarán estos derechos cuando la transferencia se realice por personas físicas para constituir una moral, siempre y cuando la aportación a la sociedad sea la concesión. Cuando la persona física enajene o transfiera su titularidad en la sociedad, se generará el pago previsto en esta fracción.
+D. (DEROGADO, G.O. 26 DE AGOSTO DE 2013)
 
 E. Por servicios de Catastro.
 
@@ -1556,6 +1288,278 @@ V. Por la utilización del servicio
 social de depósito y custodia 0.5 salarios
 
 de vehículos: mínimos por día
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+
+D. En materia de Transporte:
+
+I. Expedición de licencia de chofer,
+
+tipo A para conducir vehículos de
+
+motor dedicados al servicio público
+
+de transporte de pasajeros, de acuerdo
+
+con el reglamento de la Ley de
+
+Tránsito y Transporte, previo examen
+
+médico y pericial: 15 salarios mínimos
+
+Canje trianual: 7 salarios mínimos
+
+II. Expedición de licencia de chofer,
+
+tipo B para conducir toda clase de
+
+vehículos de motor de servicios públicos
+
+de carga y particular, de acuerdo con
+
+el reglamento de la Ley de Tránsito y
+
+Transporte, previo examen médico y
+
+pericial: 14 salarios mínimos
+
+Canje trianual: 6 salarios mínimos
+
+III. Expedición de licencia de
+
+automovilista, tipo C para conducir
+
+únicamente automóviles de servicio
+
+particular, de acuerdo con el
+
+Reglamento de la Ley de Tránsito
+
+y Transporte, previo examen
+
+médico y pericial: 12 salarios mínimos
+
+Canje trianual: 5 salarios mínimos
+
+IV. Expedición de licencia de
+
+motociclista, tipo D para conducir
+
+vehículos de dos o más
+
+ruedas, de acuerdo con el
+
+reglamento de la Ley de Tránsito
+
+y Transporte, previo examen
+
+médico y pericial: 8 salarios mínimos
+
+Canje trianual: 4 salarios mínimos
+
+V. Expedición de licencia de
+
+motorista, para conducir
+
+maquinaria pesada para
+
+construcción: 7 salarios mínimos
+
+Canje trianual: 3 salarios mínimos
+
+VI. Expedición de duplicados de
+
+cualquier tipo de licencias de las
+
+señaladas en las fracciones anteriores
+
+de este artículo: 4 salarios mínimos
+
+VII. Por la expedición de los siguientes permisos:
+
+a) Especiales para conducir hasta
+
+por 180 días renovables, a
+
+personas mayores de 16 y
+
+menores de 18 años: 6 salarios mínimos
+
+b) Para establecer el servicio
+
+al público de estacionamiento
+
+de vehículos en inmuebles
+
+particulares, de conformidad
+
+con la Ley de Tránsito y
+
+Transporte y su Reglamento: 400 salarios mínimos
+
+Por revalidación anual: 150 salarios mínimos
+
+c) Particular, para el transporte de carga específica o de personas:
+
+Por un año: 10 salarios mínimos
+
+Por un día: 2 salarios mínimos
+
+d) Particular, para circular vehículos
+
+nuevos sin placas, ni tarjeta de
+
+circulación por 15 días: 3 salarios mínimos
+
+e) Para establecer escuelas de
+
+enseñanza para conducir vehículos: 200 salarios mínimos
+
+Por revalidación anual: 50 salarios mínimos
+
+VIII. Por servicios de transporte público:
+
+a) Expedición de tarjeta anual de identificación de operador de transporte público de pasajeros:
+
+Por un año: 10 salarios mínimos
+
+Por dos años: 18 salarios mínimos
+
+b) Reposición de la tarjeta anual
+
+de identificación de operador de
+
+transporte público de
+
+pasajeros: 2 salarios mínimos
+
+c) Expedición de cuota oficial para
+
+el cobro de servicio público de
+
+transporte de pasajeros: 1 salario mínimo
+
+d) Expedición de permisos de
+
+sustitución temporal de unidad
+
+por 20 días: 2 salarios mínimos
+
+e) La revista vehicular anual
+
+del servicio de transporte público
+
+en cualquiera de sus modalidades: 3 salarios mínimos
+
+f) La realización de los estudios
+
+para la modificación o ampliación
+
+de las rutas de transporte público
+
+en las diversas modalidades y, en
+
+su caso la expedición del croquis
+
+correspondiente por concesión
+
+autorizada por el Estado: 20 salarios mínimos
+
+IX. Por la prestación de otros servicios:
+
+a) Expedición de constancias,
+
+certificados médicos y
+
+documentos de cualquier otra
+
+naturaleza: 2 salarios mínimos
+
+b) Expedición de permisos diversos.
+
+Por día: 2 salarios mínimos
+
+c) Por la utilización de grúas
+
+oficiales para el retiro de vehículos: 4 salarios mínimos
+
+d) Por la utilización de servicio
+
+oficial de depósito y custodia de
+
+vehículos, conforme a los
+
+supuestos y consecuencias
+
+previstas en la Ley y Reglamento 0.5 salarios mínimos
+
+de la materia. Por día:
+
+X. Por el otorgamiento de una concesión o permisos en trámite para prestar el servicio público de transporte en las diferentes modalidades previstas en la Ley de Tránsito y Transporte y su Reglamento:
+
+a) Taxi y colectivo: 250 salarios mínimos
+
+b) Urbano, suburbano y
+
+foráneo: 280 salarios mínimos
+
+c) Carga, escolar, exclusivo
+
+de turismo, recreativo y transporte
+
+de personal de empresas: 155 salarios mínimos
+
+d) Carga especializada en modalidad de grúa:
+
+Tipo "A": 750 salarios mínimos
+
+Tipo "B": 500 salarios mínimos
+
+Tipo "C": 300 salarios mínimos
+
+e) Rural mixto, carga-pasaje: 250 salarios mínimos
+
+XI. Por la transferencia por fallecimiento
+
+del titular de una concesión para
+
+prestar el servicio público de
+
+transporte en la modalidad de taxi,
+
+colectivo, rural mixto, urbano,
+
+suburbano, foráneo, carga, escolar,
+
+exclusivo de turismo o transporte de
+
+personal de empresas: 50 salarios mínimos
+
+XII. Por la autorización para prestar
+
+el servicio de depósito y custodia de
+
+vehículos, de acuerdo con el
+
+Reglamento de la Ley de Tránsito
+
+y Transporte: 500 salarios mínimos
+
+Revalidación anual: 150 salarios mínimos
+
+XIII. Por la transferencia por cesión de derechos de una concesión para prestar el servicio público de transporte en las modalidades siguientes:
+
+a) Taxi, colectivo, urbano,
+
+suburbano, foráneo, carga,
+
+escolar, exclusivo de turismo y
+
+transporte de personal de empresas: 200 salarios mínimos
+
+b) Rural mixto: 150 salarios mínimos
+
+No se causarán estos derechos cuando la transferencia se realice por personas físicas para constituir una moral, siempre y cuando la aportación a la sociedad sea la concesión. Cuando la persona física enajene o transfiera su titularidad en la sociedad, se generará el pago previsto en esta fracción.
 
 ### Capítulo Tercero. De los Derechos Prestados por La Secretaría de Finanzas y Planeación
 
@@ -6094,3 +6098,23 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 26 DE AGOSTO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo Tercero. Los asuntos que a la entrada en vigor del presente decreto se encontraran en trámite ante alguna de las áreas administrativas de las Secretarías del Despacho que, como consecuencia de este decreto, se transfieren a otra dependencia, se continuarán tramitando ante dicha Secretaría hasta su conclusión.
+
+Artículo Cuarto. A la brevedad posible, el Ejecutivo del Estado, en la esfera administrativa, efectuará las adecuaciones reglamentarias necesarias que establece el presente Decreto.
+
+Artículo Quinto. Los recursos humanos, financieros y materiales de las Direcciones Generales de Transporte, de la de Prevención y Reinserción Social y de la Dirección General de Ejecución de Medidas Sancionadoras, se transferirán a la Secretaría (sic) Seguridad Pública, con pleno respeto a los derechos laborales de sus trabajadores.
+
+Artículo Sexto. En todos los ordenamientos y disposiciones en que se haga mención de la Dirección General de Transporte, de la Dirección General de Prevención y Reinserción Social, o de la Dirección General de Ejecución de Medidas Sancionadoras se deberán tener por referidas y adscritas a la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Séptimo. La Secretaría de Finanzas y Planeación y la Contraloría General, conformarán un Grupo de Trabajo, a fin de determinar la estructura orgánica mínima indispensable que integrará las Secretarías, cuyas funciones se reforman, adicionan o derogan en este instrumento. Las denominaciones de los órganos y áreas administrativas se ajustarán a lo dispuesto en los Lineamientos por los que se establecen los criterios técnico-administrativos para la modificación, elaboración y autorización de las estructuras orgánicas y plantillas de personal de las Dependencias y Entidades de la Administración Pública.
+
+Artículo Octavo. En tanto se expidan las nuevas normas reglamentarias correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
