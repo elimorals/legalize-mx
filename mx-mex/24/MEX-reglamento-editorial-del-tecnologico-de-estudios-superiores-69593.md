@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-editorial-del-tecnologico-de-estudios-superiores-695
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-10"
-last_updated: "2009-07-10"
+last_updated: "2013-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO EDITORIAL DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE ECATEPEC
 
-REGLAMENTO EDITORIAL DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE ECATEPEC
+REGLAMENTO EDITORIAL DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE ECATEPEC DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE AGOSTO DE 2013.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno Estado de México, el viernes 10 de julio de 2009.
 
@@ -67,7 +67,9 @@ El Subcomité Editorial, estará integrado por:
 
 I.- El Director General del Tecnológico, quien lo presidirá y vigilará su integración y funcionamiento.
 
-II.- El Jefe de la Unidad de Relaciones Públicas y Difusión, quien fungirá como Secretario de Actas.
+> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2013)</small>
+
+II.- El Jefe de la Unidad de Relaciones Públicas y Difusión, quien fungirá como Secretario Técnico.
 
 III.- Siete vocales, quienes serán:
 
@@ -137,9 +139,11 @@ V.- Comunicar a los académicos, egresados y estudiantes de la Institución, la 
 
 VI.- Remitir al Consejo Editorial de la Administración Pública Estatal, el Programa Editorial Anual del Tecnológico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 8.
 
-Son atribuciones del Secretario de Actas, las siguientes:
+Son atribuciones del Secretario Técnico, las siguientes:
 
 I.- Asistir a las reuniones ordinarias y extraordinarias del Subcomité.
 
@@ -378,3 +382,11 @@ DR. RUBÉN JAIME BARAJAS VÁZQUEZ
 SECRETARIO DE LA JUNTA DIRECTIVA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE ECATEPEC
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 26 DE AGOSTO DE 2013.
+
+PRIMERO.- Publíquese las presentes reformas en el Periódico Oficial "Gaceta del Gobierno."
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
