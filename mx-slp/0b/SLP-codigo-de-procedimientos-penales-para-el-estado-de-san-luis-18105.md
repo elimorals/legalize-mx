@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2013-06-18"
+last_updated: "2013-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y CUARTO TRANSITORIOS, EL PRESENTE ORDENAMIENTO SE SEGUIRÁ APLICANDO HASTA EN TANTO SEAN APLICABLES EN TODO EL TERRITORIO DEL ESTADO LAS DISPOSICIONES DEL CÓDIGO PROCESAL PENAL QUE SE EXPIDIÓ A TRAVÉS DEL DECRETO 1156 PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 16 DE OCTUBRE DE 2012.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -75,7 +75,9 @@ I. Recibir las denuncias o querellas que le presenten en forma oral o por escrit
 
 II. Practicar y ordenar la realización de todos los actos conducentes a la comprobación del cuerpo del delito, la demostración de la probable responsabilidad del inculpado y el daño causado para su reparación;
 
-III. Solicitar a la autoridad jurisdiccional las medidas precautorias de arraigo, intervención, aseguramiento o embargo que resulten indispensables para la averiguación previa, así como las órdenes de cateo que procedan;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+III. Solicitar a la autoridad jurisdiccional las medidas precautorias de, intervención; aseguramiento o, embargo que resulten indispensables para la averiguación previa, así como las órdenes de cateo que procedan;
 
 IV. Acordar la detención o retención de los inculpados, cuando así proceda;
 
@@ -1019,11 +1021,11 @@ En ambos casos se iniciará la investigación, si el delito denunciado fuere de 
 
 Si el delito es de los que solamente pueden perseguirse por querella de parte, se admitirá la intervención del apoderado jurídico sólo en el caso de que el poder contenga cláusula especial o compruebe que su mandante le dio instrucciones concretas para formular la querella.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 153.
 
-El Ministerio Público podrá disponer la libertad provisional bajo caución del inculpado en los supuestos y cumpliendo con los requisitos aplicables establecidos en el Código Penal del Estado y en el presente Ordenamiento, sin perjuicio de decretar su arraigo en caso necesario. El Ministerio Público fijará caución suficiente para garantizar que no se sustraiga a la acción de la justicia, ni al pago de los daños y perjuicios que pudieren serle exigidos, conforme a los lineamientos previstos al efecto.
+El Ministerio Público podrá disponer la libertad provisional bajo caución del inculpado en los supuestos y cumpliendo con los requisitos aplicables establecidos en el Código Penal del Estado y en el presente Ordenamiento. El Ministerio Público fijará caución suficiente para garantizar que no se sustraiga a la acción de la justicia, ni al pago de los daños y perjuicios que pudieren serle exigidos, conforme a los lineamientos previstos al efecto.
 
 Si el Ministerio Público concede la libertad provisional al inculpado, lo prevendrá a fin de que comparezca cuantas veces sea necesario para la práctica de diligencias de averiguación previa. El juez a quien se consigne ordenará la presentación del inculpado y si no comparece sin causa justa y comprobada, ordenará su aprehensión, mandando hacer efectiva la garantía otorgada.
 
@@ -1195,35 +1197,7 @@ El personal de las agencias del Ministerio Público, en ningún caso, ni por mot
 
 ###### ARTICULO 164.
 
-En las averiguaciones previas relativas a delitos culposos, el presunto responsable no será privado de su libertad corporal en los lugares ordinarios de reclusión, pues tendrá derecho a quedar arraigado en su domicilio y bajo custodia de otra persona, con sujeción a los requisitos siguientes:
-
-I. Que para los fines del arraigo domiciliario tenga domicilio fijo o señale uno dentro del distrito judicial en que hayan ocurrido los hechos;
-
-II. Que no existan elementos que presuman que el arraigado tiene interés en sustraerse de la acción de la justicia;
-
-III. Que dicha medida no sea perjudicial para su persona o los familiares de la víctima;
-
-IV. Que proteste presentarse ante el agente del Ministerio Público, cuando esta autoridad lo disponga para los trámites de la averiguación;
-
-V. Que garantice o repare el daño o que celebre con el ofendido ante el agente del Ministerio Público, convenio legítimo en el que se cuantifiquen los daños y perjuicios, se establezca la forma en que se hará la reparación y se otorgue la garantía pertinente. Cuando no haya acuerdo de los interesados sobre el monto de los daños y perjuicios, la determinación del mismo será realizada por el agente del Ministerio Público, con base en las constancias existentes en la inspección que respecto de aquél haya practicado, en las versiones de los sujetos relacionados con los hechos y en los demás elementos de prueba que pueda allegarse para el caso;
-
-VI. Que tratándose de delitos surgidos durante el tránsito de vehículos, el presunto responsable no conduzca con temeridad, ni se halle en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares o no se hubiera dado a la fuga sin auxiliar a la víctima;
-
-VII. Que la persona encargada de ejercer la custodia del arraigado tenga domicilio dentro del distrito judicial donde los hechos ocurrieron, que sea de solvencia moral y económica suficiente a juicio del Agente del Ministerio Público según los datos que al efecto sean recabados y se hagan constar en la averiguación y además se solidarice con el arraigado en el convenio a que se refiere la fracción V que antecede, y
-
-VIII. Que la persona designada para ejercer la custodia se comprometa bajo protesta a presentar al arraigado ante el agente del Ministerio Público cuando para ello se le requiera.
-
-Si el arraigado o quien lo custodie desobedeciera sin causa justificada las órdenes del Ministerio Público, se revocará el beneficio y el presunto responsable será remitido al lugar de reclusión.
-
-Si se ejercita la acción penal, el custodio, por conducto de la Policía Ministerial, presentará al inculpado ante el juez competente.
-
-El Ministerio Público podrá autorizar al presunto responsable para que acuda a su trabajo habitual, si se satisfacen los siguientes requisitos:
-
-a). Que lo solicite el interesado precisando la naturaleza de sus labores y la ubicación de su centro de trabajo;
-
-b). Que sin menoscabo de las obligaciones para el presunto responsable, quien ejerza la custodia de este último exprese su conformidad con la solicitud del arraigado, y
-
-c). Que el responsable del centro de trabajo informe periódicamente de la situación del arraigado y se comprometa a darle las facilidades que requiera para cumplir sus obligaciones ante el Ministerio Público.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2013)
 
 ###### ARTICULO 165.
 
@@ -1249,17 +1223,13 @@ Lo anterior sin perjuicio de que la parte interesada decida replantear nuevament
 
 ###### ARTICULO 167.
 
-Cuando en vista de la averiguación previa, el Ministerio Público determine que no es de ejercitarse la acción penal por los hechos qua se hayan denunciado como delictuosos o por lo que se hubiera presentado querella, enviará las diligencias a la Procuraduría General de Justicia dentro del término de quince días para que, el titular o subprocurador autorizado mediante acuerdo general, oyendo el parecer de sus agentes auxiliares decida en definitiva si confirma o revoca tal determinación.
+Cuando en vista de la averiguación previa, el Ministerio Público determine que no es de ejercitarse la acción penal por los hechos que se hayan denunciado como delictuosos o por lo que se hubiera presentado querella, enviará las diligencias a la Procuraduría General de Justicia dentro del término de quince días para que, el titular o subprocurador autorizado mediante acuerdo general, oyendo el parecer de sus agentes auxiliares decida en definitiva si confirma o revoca tal determinación.
 
 Las resoluciones del Procurador General de Justicia o del subprocurador autorizado que confirmen las determinaciones de no ejercicio de la acción penal del Ministerio Público, sólo podrán ser impugnadas ante el Tribunal Estatal de lo Contencioso Administrativo.
 
 ###### ARTICULO 168.
 
-La autoridad judicial podrá, a petición del Ministerio Público, decretar el arraigo domiciliario o imponer la prohibición de abandonar una demarcación geográfica sin su autorización, a la persona en contra de quien se prepare el ejercicio de la acción penal, siempre y cuando exista el riesgo fundado de que se sustraiga a la acción de la justicia. Corresponderá al Ministerio Público y a sus auxiliares vigilar que el mandato de la autoridad judicial sea debidamente cumplido.
-
-El arraigo domiciliario o la prohibición de abandonar una demarcación geográfica se prolongarán por el tiempo estrictamente indispensable, no debiendo exceder de treinta días naturales en el caso del arraigo, y de sesenta días naturales en el de la prohibición de abandonar una demarcación geográfica.
-
-Cuando el afectado pida que el arraigo o la prohibición de abandonar una demarcación geográfica queden sin efecto, la autoridad judicial decidirá, escuchando al Ministerio Público y al afectado, si deben o no mantenerse.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2013)
 
 ###### ARTICULO 169.
 
@@ -1995,11 +1965,13 @@ Concluida la diligencia se leerá al testigo su declaración o la leerá él mis
 
 Si de lo actuado apareciera que algún testigo se ha conducido con falsedad, se mandarán compulsar las constancias conducentes para la investigación de ese delito y se dará vista al Ministerio Público para los efectos a que haya lugar; si en el momento de rendir su declaración el testigo, apareciere que es manifiesta la comisión del delito de falsedad, aquél será detenido desde luego y puesto sin demora a disposición del Ministerio Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 283.
 
-Cuando una persona que tenga que declarar como testigo tuviere que ausentarse del lugar en que se practiquen las diligencias, el juzgador, a solicitud de cualquiera de las partes, procederá a examinarlo desde luego, si fuere posible; en caso contrario, podrá arraigar al testigo por el tiempo que sea estrictamente indispensable para que rinda su declaración.
+Cuando una persona que tenga que declarar como testigo tuviere que ausentarse del lugar en que se practiquen las diligencias, el juzgador, a solicitud de cualquiera de las partes, procederá a examinarlo desde luego, si fuere posible.
 
-Si resultare que la solicitud fue infundada y por lo mismo indebido el arraigo, el testigo podrá exigir al que lo solicitó que lo indemnice de los daños y perjuicios que le haya causado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 284.
 
@@ -2487,7 +2459,9 @@ VI. Los autos en que se niegue la orden de aprehensión o la citación para decl
 
 VII. Los acuerdos que desechen pruebas;
 
-VIII. Los autos que nieguen el cateo, las medidas cautelares de carácter patrimonial o el arraigo del inculpado;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+VIII. Los autos que nieguen el cateo, y las medidas cautelares de carácter patrimonial;
 
 IX. Los autos en que un tribunal se niegue a declarar su incompetencia por declinatoria o a librar el oficio inhibitorio, y
 
@@ -2763,7 +2737,7 @@ XII. Asalto, previsto por el artículo 144;
 
 XIII. Exposición al peligro, que señala el artículo 147 Bis;
 
-XIV. Uso ilícito de equipos de radiocomunicación, previsto en el articulo 147 Ter;
+XIV. Uso ilícito de equipos de radiocomunicación, previsto en el artículo 147 Ter;
 
 XV. Abuso sexual calificado, a que se refiere el artículo 148;
 
@@ -2831,7 +2805,9 @@ No se concederá libertad provisional bajo caución cuando se trate de los delit
 
 Tampoco se otorgará libertad caucional al inculpado cuando éste se encuentre sujeto a otro proceso penal anterior, por el delito de robo en el que se le haya dictado auto de formal prisión.
 
-Cuando el delito merezca pena alternativa o no privativa de la libertad, se dispondrá la libertad sin necesidad de caución y sin perjuicio de pedir el arraigo correspondiente.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2013)</small>
+
+Cuando el delito merezca pena alternativa o no privativa de la libertad, se dispondrá la libertad sin necesidad de caución.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2011)</small>
 
@@ -3137,7 +3113,7 @@ La competencia por declinatoria no podrá resolverse hasta después de que se pr
 
 ###### ARTICULO 438.
 
-El juez que reciba las actuaciones que le remita el que se hubiere declarado incompetente, oirá al Ministerio Público dentro de tres días y resolverá en el término de seis días siguientes a la recepción de las mimas si reconoce su competencia. Si no la reconoce remitirá los autos al Juez de competencia con su opinión, comunicándolo al juez que hubiere enviado el expediente.
+El juez que reciba las actuaciones que le remita el que se hubiere declarado incompetente, oirá al Ministerio Público dentro de tres días y resolverá en el término de seis días siguientes a la recepción de las mimas (sic) si reconoce su competencia. Si no la reconoce remitirá los autos al Juez de competencia con su opinión, comunicándolo al juez que hubiere enviado el expediente.
 
 ###### ARTICULO 439.
 
@@ -4108,3 +4084,9 @@ DECRETO NÚMERO 163 POR EL QUE SE REFORMA EL ARTÍCULO 3° EN SUS FRACCIONES X Y
 PRIMERO. Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE AGOSTO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
