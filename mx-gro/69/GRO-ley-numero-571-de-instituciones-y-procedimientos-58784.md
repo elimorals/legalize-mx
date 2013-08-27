@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-571-de-instituciones-y-procedimientos-58784"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-01"
-last_updated: "2011-09-30"
+last_updated: "2013-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 571 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-LEY NUMERO 571 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
+LEY NÚMERO 571 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 1 de enero de 2008.
 
@@ -81,7 +81,7 @@ VII. Secretario General: Es el Secretario del Instituto Electoral y del Consejo 
 
 VIII. Casilla: La Mesa Directiva de Casilla;
 
-IX. La Comisión de Fiscalización: A la Comisión de Fiscalización y Financiamiento Publico (sic) del Instituto Electoral del Estado de Guerrero;
+IX. La Comisión de Fiscalización: A la Comisión de Fiscalización y Financiamiento Publico del Instituto Electoral del Estado de Guerrero;
 
 X. Partido Político: Los partidos políticos nacionales o estatales acreditados y registrados conforme a las disposiciones legales aplicables;
 
@@ -593,7 +593,7 @@ c) Un comité u organización equivalente en cada uno de los 28 Distritos
 
 Electorales que componen el Estado. Podrán integrar también, comités regionales; y
 
-d) Un órgano responsable de la administración de su patrimonio y recursos financieros y de la presentación de los informes de ingresos y egresos anuales, de campaña y de precampaña, en su caso, a que se refiere el primer párrafo del artículo 60 de esta Ley . (sic)
+d) Un órgano responsable de la administración de su patrimonio y recursos financieros y de la presentación de los informes de ingresos y egresos anuales, de campaña y de precampaña, en su caso, a que se refiere el primer párrafo del artículo 60 de esta Ley.
 
 IV. Las normas para la postulación democrática de sus candidatos;
 
@@ -3165,6 +3165,10 @@ Por la naturaleza de la función estatal que tiene encomendada el Instituto Elec
 
 El Instituto Electoral podrá determinar el cambio de adscripción o de horario de su personal, cuando por necesidades del servicio se requiera, en la forma y términos que establezcan esta Ley y el Estatuto.
 
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2013)</small>
+
+El personal que integre los Cuerpos del Servicio Profesional de Carrera y las ramas administrativas del Instituto Electoral del Estado, serán considerados de confianza, disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
+
 ###### ARTÍCULO 156.
 
 El personal del Instituto Electoral será incorporado al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
@@ -5355,7 +5359,7 @@ b) En caso de no aprobarse el desechamiento o sobreseimiento, o la imposición d
 
 c) En un plazo no mayor a quince días después de la devolución del proyecto y las consideraciones al respecto, la Secretaría emitirá un nuevo proyecto de resolución, debiendo considerar los razonamientos y argumentos que formule la Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 351.
 
@@ -5371,7 +5375,7 @@ III. Rechazar el proyecto de resolución y ordenar a la Secretaría General su d
 
 Los términos previstos en este capítulo podrán ser ampliados por el Consejo General del Instituto, siempre que se justifique plenamente la necesidad de su ampliación o la imposibilidad de concluir los trabajos dentro de los mismos plazos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPÍTULO III. DE LOS PROCEDIMIENTOS ESPECIALES SANCIONADORES
 
@@ -5455,7 +5459,7 @@ En caso de comprobarse la infracción denunciada, el Consejo ordenará el retiro
 
 Asimismo, tomará todas las medidas necesarias para restaurar el orden jurídico violentado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPÍTULO IV. DEL PROCEDIMIENTO EN MATERIA DE QUEJAS SOBRE FINANCIAMIENTO Y GASTO DE LOS PARTIDOS POLÍTICOS
 
@@ -5589,7 +5593,7 @@ El Secretario Técnico del Consejo Estatal Electoral designado el día 1º de en
 
 SEXTO.- Para la observancia y aplicación del artículo 148 y demás relativos de esta Ley, se tomará en cuenta la fase inicial vinculada a la puesta en marcha del Instituto Electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2010)</small>
 
 SÉPTIMO.- El Consejo General del Instituto, al concluir el proceso electoral de Gobernador del Estado del año 2010-2011, elaborará, aprobará e implementará los proyectos de división territorial de los distritos electorales locales de mayoría relativa, sin modificar el número establecido en el artículo 29 de la Constitución Política del Estado. En la realización de estos trabajos se tomarán en cuenta cuando menos los siguientes criterios:
 
@@ -5613,7 +5617,7 @@ OCTAVO.- Para la elección de la Legislatura LIX al Congreso del Estado, tendrá
 
 NOVENO.- Los regidores de mayoría relativa por elección directa serán elegidos a partir del Proceso Electoral de Ayuntamientos y Diputados a celebrarse en el año 2012.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2010)</small>
 
 DÉCIMO.- El Consejo General del Instituto, al concluir el proceso electoral de Gobernador del Estado del año 2010-2011, elaborará, aprobará e implementará los trabajos técnicos para determinar las demarcaciones municipales en las que se elegirán los regidores de mayoría relativa por voto directo, tomando en cuenta los siguientes criterios:
 
@@ -5669,7 +5673,7 @@ j) Durante la Primera semana de Septiembre se efectuará la publicación de la l
 
 k) La elección de Ayuntamientos y Diputados se llevará a cabo el primer domingo de Octubre de 2008.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUM. 118, PUBLICADO EN EL P.O. DE 15 DE SEPTIEMBRE DE 2009, EL TRANSITORIO VIGESIMO PASA A SER EL ACTUAL TRANSITORIO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NUM. 118, PUBLICADO EN EL P.O. DE 15 DE SEPTIEMBRE DE 2009, EL TRANSITORIO VIGÉSIMO PASA A SER EL ACTUAL TRANSITORIO.</small>
 
 DÉCIMO NOVENO.- El proceso electoral de Gobernador de 2011, se llevará a cabo en las siguientes fechas y plazos:
 
@@ -5823,7 +5827,7 @@ LIC. ARMANDO CHAVARRÍA BARRERA.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE SEPTIEMBRE DE 2009.
 
@@ -5868,3 +5872,9 @@ SEGUNDO. Los regidores de mayoría relativa por demarcación municipal a que alu
 Los Ayuntamientos que se elijan en el proceso electoral de 2012, se integraran con el número de regidores que se especifica en el artículo 97 de la Constitución Política Local vigente, mediante Representación Proporcional. Aplicándose para ello la fórmula de asignación de regidores prevista en los artículos 21 y 22 de la presente Ley.
 
 TERCERO. Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y publicación en el Periódico Oficial del Estado de Guerrero.
