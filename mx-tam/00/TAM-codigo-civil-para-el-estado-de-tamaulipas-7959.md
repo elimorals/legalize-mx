@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2013-06-07"
+last_updated: "2013-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1218,6 +1218,14 @@ ART. 287.- El deudor alimentista no podrá pedir que se incorpore a su familia a
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 2010)</small>
 
 ART. 288.- Los alimentos han de ser proporcionados a la posibilidad del que deba darlos y a la necesidad del que deba recibirlos, pero la proporción de éstos no podrá ser un porcentaje inferior al 30 por ciento ni mayor del 50 por ciento del sueldo o salario del deudor alimentista.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2013)</small>
+
+Para los efectos de fijar el porcentaje relativo a los alimentos, el Juez ordenará considerar dentro del sueldo o salario del deudor alimentario, las prestaciones ordinarias o extraordinarias que reciba, como son: cuota diaria, gratificaciones, percepciones, habitación, primas, comisiones, prestaciones en especie y cualquiera otra cantidad o prestación que se entregue al trabajador por su trabajo, excepto los viáticos y gastos de representación.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2013)</small>
+
+Cuando los acreedores alimentarios alcancen su mayoría de edad y se encuentren realizando estudios, conservarán el derecho a recibirlos, hasta el término de su carrera profesional u obtener el título, debiendo analizar el Juez, la procedencia del pago de los gastos de titulación, en cada caso de manera particular, evaluando las condiciones y circunstancias de la profesión.
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
 
@@ -10082,3 +10090,9 @@ Los procedimientos de Declaración de Ausencia y de Presunción de Muerte del Au
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto
+
+P.O. 27 DE AGOSTO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
