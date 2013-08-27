@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2013-05-07"
+last_updated: "2013-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1391,61 +1391,99 @@ El Jefe del Departamento realizará las funciones y ejercerá las atribuciones q
 
 En la primera sesión del año en que se instale el Ayuntamiento, se procederá a nombrar de entre sus miembros a los que formarán las comisiones permanentes, mismas que vigilarán el ramo de la administración que se les encomiende; dichas comisiones serán las siguientes:
 
-I. Hacienda Municipal;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-II. Gobernación;
+I. Agua Potable, Alcantarillado y Saneamiento;
 
-III. Policía Preventiva, Vialidad y Transporte;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)</small>
+II. Alumbrado y Obras Públicas;
 
-IV. Salud Pública;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-V. Alumbrado y Obras Públicas;
+III. Comercio, Anuncios y Espectáculos;
 
-VI. Educación Pública y Bibliotecas;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-VII. Mercados, Centros de Abasto y Rastro;
+IV. Cultura, Recreación, Deporte y Juventud;
 
-VIII. Agua Potable, Alcantarillado y Saneamiento;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-IX. Desarrollo y Equipamiento Urbano;
+V. Derechos Humanos y Participación Ciudadana;
 
-X. Ecología;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-XI. Comercio, Anuncios y Espectáculos;
+VI. Desarrollo Rural y Asuntos Indígenas;
 
-XII. Desarrollo Rural y Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)</small>
+VII. Desarrollo y Equipamiento Urbano;
 
-XIII. Cultura, Recreación y Deporte;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2009)</small>
+VIII. Ecología;
 
-XIV. Servicios;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+IX. Educación Pública y Bibliotecas;
 
-XV. De Atención a Grupos Vulnerables;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+X. Gobernación;
 
-XVI. De Derechos Humanos, y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2013)</small>
+XI. Grupos Vulnerables;
 
-XVII. De Vigilancia.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+XII. Hacienda Municipal;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+XIII. Mercados, Centros de Abasto y Rastro;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+XIV. Policía Preventiva, Vialidad y Transporte;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+XV. Salud Pública y Asistencia Social;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+XVI. Servicios, y
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+XVII. Vigilancia.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 90.
 
-Además de las comisiones señaladas en el artículo anterior, podrán crearse otras en atención a las necesidades del propio Ayuntamiento; asimismo, cuando algún asunto lo amerite se integrarán comisiones temporales o especiales, mismas que conocerán exclusivamente del asunto que motive su creación.
+Además de las comisiones enunciadas en el artículo anterior, podrán crearse otras en atención a las necesidades del propio ayuntamiento; asimismo, cuando algún asunto lo amerite se integrarán comisiones temporales o especiales, mismas que conocerán exclusivamente del asunto que motive su creación.
+
+Las comisiones se conformarán de forma plural y proporcional, teniendo en cuenta el número de sus integrantes y la importancia de los ramos encomendados a las mismas; para su integración se debe considerar el conocimiento, profesión, ocupación, vocación y experiencia de los integrantes del cabildo.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 91.
 
-Las comisiones carecerán de facultades ejecutivas y podrán ser modificadas por el voto de las dos terceras partes de los miembros del Ayuntamiento.
+Las comisiones carecerán de facultades ejecutivas, y podrán ser modificadas por el voto de las dos terceras partes de los miembros del cabildo.
 
-Los asuntos, disposiciones y acuerdos que no se turnen expresamente a una comisión, quedarán al cuidado de la Comisión de Gobernación que estará a cargo del Presidente Municipal.
+Las comisiones del ayuntamiento serán responsables de estudiar, examinar y proponer a éste los acuerdos, acciones o normas tendientes a mejorar la administración pública municipal, así como de vigilar e informar sobre los asuntos a su cargo; además sobre el cumplimiento de las disposiciones y acuerdos que dicte el cabildo.
+
+Las comisiones deben entregar al ayuntamiento, en sesión ordinaria, informe trimestral que permita conocer y transparentar el desarrollo de sus actividades, trabajo y gestiones realizadas.
+
+Los asuntos, disposiciones y acuerdos que no se turnen expresamente a una comisión, quedarán bajo responsabilidad de la Comisión de Gobernación, que estará a cargo del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2013)</small>
+
+ARTICULO 91 BIS. Las comisiones notificarán al cabildo que llamarán a comparecer a los titulares de las dependencias administrativas municipales, a efecto de que les informen, cuando así se requiera, sobre la situación que guardan los asuntos de su competencia.
+
+Las comisiones podrán solicitar al secretario del ayuntamiento, a través del presidente de la comisión, la información necesaria con el propósito de que puedan atender los asuntos que les han sido encomendados, o que les son propios en ejercicio de sus funciones; éste deberá entregarla oportunamente.
 
 ### CAPITULO XII. De los Organismos de Participación Ciudadana
 
@@ -2466,3 +2504,9 @@ P.O. 7 DE MAYO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE AGOSTO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
