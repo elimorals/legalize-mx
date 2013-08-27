@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-penales-para-el-estado-de-guerrero-510
 country: "mx"
 rank: "codigo"
 publication_date: "1993-02-05"
-last_updated: "2011-12-02"
+last_updated: "2013-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NÚMERO 357
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 1993.
 
@@ -41,7 +41,7 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NUMERO 357
 
 ### CAPITULO UNICO. ATRIBUCIONES Y FACULTADES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1.
 
@@ -193,7 +193,7 @@ Los tribunales dictarán de oficio las providencias encaminadas a que la justici
 
 Los tribunales rechazarán de plano, sin necesidad de sustanciar artículo, pero notificando a las partes, los incidentes, recursos o promociones notoriamente frívolos e improcedentes. Contra la resolución judicial caben los medios de impugnación que este Código establece.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE MARZO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MARZO DE 1995)</small>
 
 ### CAPITULO IV. OFICIOS DE COLABORACION, EXHORTOS Y REQUISITORIAS
 
@@ -399,13 +399,13 @@ Las mencionadas autoridades se cerciorarán en todo caso de la identidad del den
 
 La Policía Judicial sólo puede recibir denuncias por delitos perseguibles de oficio, no de los sujetos a querella, cuando en el lugar no haya agente del Ministerio Público ni otra autoridad que legalmente lo sustituya. Inmediatamente dará cuenta al Ministerio Público de la denuncia recibida, para que éste asuma el conocimiento de los hechos y dicte los acuerdos procedentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 Si en la averiguación previa no hay detenido y se trata de delitos culposos, el Ministerio Público dispondrá de seis meses para integrar la averiguación previa, contados a partir de la formulación de la querella o denuncia, ejercitando o no la acción penal, en los delitos dolosos sancionados con una pena máxima no mayor de cinco años de prisión, el Ministerio Público dispondrá de doce meses, si la pena máxima excede de cinco años dispondrá de dieciocho meses para integrar la averiguación y para los delitos graves éste dispondrá de veinticuatro meses.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
@@ -433,25 +433,25 @@ j) Estado Civil; y
 
 k) Nacionalidad, de ser posible;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 En caso de desconocerse alguno de los datos de identidad personal, debe expresarse esta circunstancia, a excepción de los indicados en los incisos b), c), g) y h) que serán obligatorios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 Con la finalidad de lograr la plena identidad de la persona, el Ministerio Público deberá solicitar la información necesaria a las Oficialías del Registro Civil o a la Coordinación Técnica del Sistema Estatal del Registro Civil, así como al Instituto Electoral del Estado de Guerrero, para que le proporcione los datos de las personas que responden a ese mismo nombre, y de ser posible copia de la credencial de las mismas para lograr la plena identidad del sujeto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 Cuando una denuncia o querella se dirija en contra de un sujeto que radique o se presuma se encuentra registrado en otra entidad federativa el Ministerio Público, observará las disposiciones que se establecen en el Título Segundo, Capítulo IV de este Código, con la finalidad de identificar plenamente al sujeto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
@@ -465,7 +465,7 @@ Cuando un servidor público tenga conocimiento de la comisión de un delito, en 
 
 La denuncia y la querella se podrán presentar por escrito o verbalmente. En este caso, la autoridad que la reciba levantará constancia por escrito, que deberá leer al denunciante o querellante, quien la suscribirá o estampará su huella digital. La denuncia y la querella se limitarán a describir los hechos, sin clasificarlos jurídicamente, y satisfarán los requisitos exigidos para el ejercicio del derecho de petición. El funcionario que reciba aquéllas, explicará al denunciante o al querellante, sin perjuicio de la intervención de los asistentes legales de éstos, el alcance del acto que realizan, así como las penas aplicables a quien se produce con falsedad ante las autoridades.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 1 DE FEBRERO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 57.
 
@@ -473,7 +473,7 @@ No se requiere apoderado para la presentación de denuncias. Tratándose de deli
 
 ### CAPITULO II. DILIGENCIAS Y ACTAS DE AVERIGUACION PREVIA
 
-> <small>(ADICIONADO PRIMERO PARRAFO, P.O. 19 DE OCTUBRE DE 2001)</small>
+> <small>(ADICIONADO PRIMERO PÁRRAFO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 58.
 
@@ -493,7 +493,7 @@ a) La separación del agresor del domicilio donde habita la víctima, la cual de
 
 b) Prohibición al agresor de acercare al domicilio de las víctimas, o a su lugar de trabajo o de estudio, y
 
-c) La prohibición de intimidar, amenazar o molestar a 1a víctima.
+c) La prohibición de intimidar, amenazar o molestar a la víctima.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2011)</small>
 
@@ -555,13 +555,13 @@ V. Constituirse en coadyuvante o nombrar a alguien para ese efecto;
 
 VI Ser informado de las resoluciones que finalice o suspenda el procedimiento;
 
-VII. Intervenir en las audiencias convocadas sobre la extinción o suspensión de 1a acción penal o sobreseimiento;
+VII. Intervenir en las audiencias convocadas sobre la extinción o suspensión de la acción penal o sobreseimiento;
 
 VIII. Informar sobre los recursos que puede hacer valer;
 
 IX. A que se le otorguen las medidas de protección y seguridad que requiera;
 
-X Tener acceso al expediente y obtener copia del mismo salvo excepciones. previstas en la ley;
+X Tener acceso al expediente y obtener copia del mismo salvo excepciones previstas en la ley;
 
 XI Solicitar la reapertura de la investigación cuando se haya decretado el archivo; y
 
@@ -587,7 +587,7 @@ En este caso, el funcionario encargado de la Averiguación Previa, formulará la
 
 Cuando exista a favor del inculpado una causa excluyente de responsabilidad penal o excusa absolutoria, plenamente comprobadas, el Ministerio Público lo pondrá en inmediata libertad, si estuviese detenido, y se dirigirá al juzgador para que, en un plazo que no exceda de quince días hábiles, haga la declaratoria correspondiente. Si el Juez considera, mediante resolución fundada, que no procede la confirmación de la libertad, lo hará saber así al Procurador General de Justicia, remitiéndole el expediente para que éste, en términos de la legislación aplicable, disponga lo conducente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 ### CAPITULO III. CUERPO DEL DELITO Y PROBABLE RESPONSABILIDAD
 
@@ -633,7 +633,7 @@ Si la víctima hubiere sido sepultada, se procederá a inhumarla; solamente podr
 
 Cuando el cadáver no se encuentre o por otro motivo no se realice la necropsia bastará que los peritos, en vista de los datos que obren en el expediente dictaminen que la muerte fue resultado de las lesiones inferidas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2011)</small>
 
 ARTICULO 67 BIS.- Para integrar el cuerpo del delito de violencia familiar, deberá acreditarse el vínculo familiar, matrimonial o relación de hecho, en los términos del artículo 194-A del Código Penal; además de agregarse los dictámenes que emitan peritos en materia de salud física y psicoemocional, así como la práctica demás investigaciones, dictámenes o documentos que el Ministerio Público o el Tribunal juzguen pertinentes, siempre que no sean contrarios a derecho.
 
@@ -671,29 +671,19 @@ Habrá caso urgente, cuando se trate de alguno de los delitos considerados como 
 
 En estos supuestos el Ministerio Público, bajo su responsabilidad, ordenará su detención, fundando y expresando los indicios que motivan su proceder. La orden de detención, que siempre será por escrito, deberá ser ejecutada por la policía judicial, la que sin dilación alguna, pondrá al detenido a disposición del Ministerio Público que la haya librado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 Para la detención de una persona en cumplimiento a una orden de aprehensión, reaprehensión o presentación, la policía ministerial o la autoridad que ejecute dicha orden, deberá identificar plena y fehacientemente a la persona, debiendo observar los requisitos establecidos en el quinto párrafo del artículo 54 de este Código y de ser factible acompañar una fotografía, los cuales deberán estar consignados en el parte policial elaborado al proceso penal, bajo responsabilidad en caso de incumplimiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 70.
 
-Se califican como delitos graves para todos los efectos legales, los siguientes: Homicidio, previsto en los Artículos 103, 104 y 108; Homicidio y Lesiones Culposos previsto en el Tercer Párrafo del Artículo 112; Secuestro, señalado en el Artículo 129 y 129 Bis 4; Asalto contra un poblado, a que refiere el Artículo 136; Violación, señalado por los Artículos 139 al 142; Robo, contenido en el Artículo 163 Fracción III, en relación con el 164; Abigeato contemplado en el Artículo 167 Primer Párrafo; Extorsión, previsto por el Artículo 174; Ataque a los Medios de Transporte, previsto en el Artículo 206; Rebelión, previsto en los Artículos del 229 al 232, con la parte final del Artículo 230; Terrorismo, previsto en el Artículo 234 en su Primer Párrafo, y Sabotaje, previsto en el Artículo 235 Fracciones I, II, y III, todos del Código Penal vigente.
+Se califican como delitos graves para todos los efectos legales, los siguientes: Homicidio, previsto en los Artículos 103, 104 y 108; Feminicidio, previsto en el artículo 108 bis; Lesiones consideradas en el artículo 109-C; Homicidio y Lesiones Culposos previsto en el Tercer Párrafo del Artículo 112; Secuestro, señalado en el Artículo 129 y 129 Bis 4; Asalto contra un poblado, a que refiere el Artículo 136; Violación, señalado por los Artículos 139 al 142; Robo, contenido en el Artículo 163 Fracción III, en relación con el 164; Abigeato contemplado en el Artículo 167 Primer Párrafo; Extorsión, previsto por el Artículo 174; Ataque a los Medios de Transporte, previsto en el Artículo 206; Rebelión, previsto en los Artículos del 229 al 232, con la parte final del Artículo 230; Terrorismo, previsto en el Artículo 234 en su Primer Párrafo, y Sabotaje, previsto en el Artículo 235 Fracciones I, II, y III, todos del Código Penal vigente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2011)</small>
-
-También se califican como delitos graves para todos los efectos legales, los siguientes: Despojo, previsto en el artículo 177, segundo párrafo; los artículos 216, 216 Bis 2 y 217 relativos a delitos contra la formación de las personas menores de edad y la protección integral de personas que no tienen la capacidad para comprender el significado del hecho y a la pornografía con utilización de imágenes y/o voz de personas menores de edad o de personas que no tienen la capacidad para comprender el significado del hecho, respectivamente; Contra la administración de justicia cometidos por servidores públicos, previsto en la fracción XXIX del artículo 269 y Evasión de presos contenido en el artículo 273, todos del Código Penal en vigor.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2011)</small>
+También se califican como delitos graves para todos los efectos legales, los siguientes: Despojo previsto en el artículo 177, segundo párrafo; los artículos 216, 216 Bis 2 y 217 relativos a delitos contra la formación de las personas menores de edad y la protección integral de personas que no tienen la capacidad para comprender el significado del hecho y a la pornografía con utilización de imágenes y/o voz de personas menores de edad o de personas que no tienen la capacidad para comprender el significado del hecho, respectivamente; Contra la administración de justicia cometidos por servidores públicos, previsto en la fracción XXIX del artículo 269 y Evasión de presos contenido en el artículo 273, todos del Código Penal en vigor.
 
 Así mismo, es considerado como delito grave para todos los efectos legales, la Trata de Personas, previsto en el artículo 8 de la Ley para, Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Guerrero.
 
@@ -757,7 +747,7 @@ Una vez realizadas la inspección, la descripción y el reconocimiento, en su ca
 
 ### CAPITULO VII. EJERCICIO DE LA ACCION PENAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 74.
 
@@ -795,7 +785,7 @@ Satisfechos los requisitos previstos en el artículo 16 de la Constitución Gene
 
 Si el Juez niega la orden de aprehensión o la de comparecencia, y dicha negativa no implica un sobreseimiento, el Ministerio Público podrá promover pruebas en el proceso y solicitar nuevamente la orden correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
@@ -1193,7 +1183,7 @@ No basta la confesión para comprobar el cuerpo del delito.
 
 ###### Artículo 124.
 
-Los documentos públicos harán prueba plena, salvo el derecho de las partes para redarguirlos de falsedad y para pedir su cotejo con los protocolos o con los originales existentes en los archivos.
+Los documentos públicos harán prueba plena, salvo el derecho de las partes para redarguirlos (sic) de falsedad y para pedir su cotejo con los protocolos o con los originales existentes en los archivos.
 
 ###### Artículo 125.
 
@@ -1755,7 +1745,7 @@ El Secretario General de Gobierno.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE MARZO DE 1995.
 
@@ -1848,3 +1838,17 @@ El presente Decreto entrará en vigor a los dos meses siguientes del día de su 
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 27 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico oficial del Gobierno del Estado de Guerrero.
