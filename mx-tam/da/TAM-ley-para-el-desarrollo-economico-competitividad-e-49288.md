@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-economico-competitividad-e-49288"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-24"
-last_updated: "2010-11-02"
+last_updated: "2013-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY PARA EL DESARROLLO ECONOMICO, COMPETITIVIDAD E INNOVACION DEL ESTADO DE TAMAULIPAS - ANTES LEY PARA EL DESARROLLO ECONOMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS -
 
-LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS
+LEY PARA EL DESARROLLO ECONÓMICO, COMPETITIVIDAD E INNOVACIÓN DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 24 de noviembre de 2005.
 
@@ -43,7 +43,9 @@ LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE
 
 D E C R E T O No. LlX-94
 
-MEDIANTE EL CUAL SE EXPIDE LA LEY PARA EL DESARROLLO ECONOMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2013)</small>
+
+MEDIANTE EL CUAL SE EXPIDE LA LEY PARA EL DESARROLLO ECONÓMICO, COMPETITIVIDAD E INNOVACIÓN DEL ESTADO DE TAMAULIPAS.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -53,7 +55,9 @@ Las disposiciones de esta ley son de carácter general y orden público y tiene 
 
 l. promover, regular y alentar el desarrollo económico equilibrado y sustentable;
 
-II. Ofrecer apoyos financieros, capacitación y consultoría a las empresas tamaulipecas para incrementar su productividad y su competitividad;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+II. Ofrecer apoyos financieros, capacitación y consultoría a las empresas tamaulipecas para incrementar su productividad, innovación y su competitividad;
 
 III. Generar infraestructura estratégica;
 
@@ -67,11 +71,15 @@ VI. Coadyuvar, a través de una permanente y estrecha relación con los sectores
 
 Para los efectos de la presente ley se entiende por:
 
-I. Ley: la Ley para el Desarrollo Económico y la Competitividad del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-II. Consejo: el Consejo Estatal para el Desarrollo Económico y la Competitividad;
+I. Ley: la Ley para el Desarrollo Económico, Competitividad e Innovación del Estado de Tamaulipas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+II. Consejo: el Consejo Estatal para el Desarrollo Económico, Competitividad e Innovación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -81,13 +89,17 @@ III. Dependencias: las que se señalan en el artículo 23 de la Ley Orgánica de
 
 IV. Entidades: las mencionadas en el Capítulo Cuarto de la Ley Orgánica de la Administración Pública del Estado;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-V. Secretaría: la Secretaría de Desarrollo Económico y del Empleo; y
+V. Secretaría: la Secretaría de Desarrollo Económico y Turismo;
 
-> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-VI. Vocación productiva: el uso determinado de una región específica, que ofrece ventajas para el desarrollo sostenible, en función a la inclinación natural a una actividad de su población que es considerada potencialmente productiva.
+VI. Vocación productiva: el uso determinado de una región específica, que ofrece ventajas para el desarrollo sostenible, en función a la inclinación natural a una actividad de su población que es considerada potencialmente productiva; y
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+VII. Innovación: La transformación de una idea en un producto, proceso de fabricación o enfoque de un servicio social determinado, en uno nuevo o mejorado, así como a la transformación de una tecnología en otra de mayor utilidad.
 
 ###### ARTICULO 3°.
 
@@ -99,13 +111,17 @@ Corresponde a la Secretaría la interpretación del presente ordenamiento.
 
 Para el cumplimiento de los objetivos de esta Ley, la Secretaría tiene las siguientes atribuciones:
 
-I. Integrar, ejecutar y evaluar los programas para el desarrollo económico y la competitividad del Estado;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+I. Integrar, ejecutar y evaluar los programas para el desarrollo económico, la competitividad y el fomento de la innovación del Estado;
 
 II. Formular el inventario de los recursos productivos del Estado, así como de la infraestructura existente, y difundir su potencial para la inversión, sometiéndolo a un proceso permanente de evaluación y actualización;
 
 III. Estimular la creación, consolidación y desarrollo de la micro, pequeña y mediana empresa;
 
-IV. Promover, difundir e impulsar programas de investigación científica y tecnológica, así como actos y reuniones de todo tipo tendientes a identificar y detectar innovaciones e inventivas viables;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+IV. Promover, difundir e impulsar programas de investigación científica y tecnológica, así como actos y reuniones de todo tipo tendientes a identificar y detectar innovaciones e inventivas viables, generando estímulos para su desarrollo, en términos de oportunidad y disponibilidad presupuestal, en su caso;
 
 V. Celebrar los acuerdos o convenios de coordinación que coadyuven al cumplimiento de los objetivos descritos en esta Ley, involucrando en ello a los sectores público federal y municipal, social y privado;
 
@@ -123,7 +139,7 @@ XI. Promover a través de las delegaciones federales establecidas en el país y 
 
 XII. Fomentar la constitución y operación de instituciones de crédito y organismos auxiliares, así como celebrar convenios con dependencias federales, con el objeto de ofrecer mayores y mejores opciones de financiamiento a la planta productiva estatal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -131,7 +147,11 @@ XIII. Desarrollar estrategias para promover la instalación de empresas en regio
 
 XIV. Promover y gestionar ante el Gobernador del Estado la firma de convenios de colaboración con gobiernos de otras entidades federativas, a fin de impulsar la ejecución conjunta de programas de desarrollo regional;
 
-XV. Alentar acciones para incorporar a las actividades productivas personas con capacidades diferentes y adultos mayores;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+XV. Alentar acciones para incorporar a las actividades productivas personas con capacidades diferentes y adultos mayores.
+
+Así mismo, con el objeto de alentar la incorporación de los jóvenes al sector productivo se fomentará la realización de ferias de empleo dirigidas preponderante (sic) a personas menores de 30 años en coordinación con los tres niveles de gobierno;
 
 XVI. Promover los productos y servicios tamaulipecos hacia nuevos mercados, tanto nacionales como internacionales;
 
@@ -139,39 +159,43 @@ XVII. Impulsar y acrecentar la consolidación de la competitividad de las empres
 
 XVIII. Fomentar e implementar la creación y desarrollo de parques y corredores industriales, centrales de abasto para distribución y consumo de productos agropecuarios y pesqueros, así como centros turísticos, comerciales y de servicios;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 XIX. Emitir opinión en el seno del Consejo sobre el destino y uso del suelo, así como de terrenos susceptibles para la ubicación de empresas que coadyuven al desarrollo económico sustentable de los municipios;
 
-XX. Apoyar proyectos productivos de los jóvenes para estimular su capacidad emprendedora;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-XXI. Participar en reuniones y mesas de trabajo para el desarrollo económico y la competitividad en el ámbito regional de México y transfronterizo, a fin de proponer al Gobernador del Estado la realización de gestiones ante la Federación que atiendan a la solución de la problemática específica de esta entidad federativa; así como promover acciones y eventos tendientes a impulsar el desarrollo económico sustentable y equilibrado en la zona fronteriza con los Estados Unidos de América.
+XX. Apoyar proyectos productivos y de innovación de los jóvenes para estimular su capacidad emprendedora y dedicar especial atención al fomento de la innovación de las empresas establecidas;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+XXI. Participar en reuniones y mesas de trabajo para el desarrollo económico, la competitividad y la innovación en el ámbito regional de México y transfronterizo, a fin de proponer al Gobernador del Estado la realización de gestiones ante la Federación que atiendan a la solución de la problemática específica de esta entidad federativa; así como promover acciones y eventos tendientes a impulsar el desarrollo económico sustentable y equilibrado en la zona fronteriza con los Estados Unidos de América;
 
 XXII. Elaborar e implementar estrategias para industrializar los productos agrícolas, ganaderos, pesqueros y forestales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 XXIII. Promover reuniones, ferias, talleres y, en general, acciones tendientes a elevar la participación de la mujer en el ámbito empresarial; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 XXIV. Las demás que se desprendan de este ordenamiento y sus normas reglamentarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+En cumplimiento de las atribuciones que le confiere este precepto, la Secretaría alentará relaciones de coordinación de acciones con las demás dependencias estatales, en particular con las Secretarías de Desarrollo Rural, de Desarrollo Urbano y Medio Ambiente y de Obras Públicas, a fin de fomentar los objetivos de desarrollo económico, competitividad y la innovación del Estado.
 
-2. En cumplimiento de las atribuciones que le confiere este precepto, la Secretaria alentará relaciones de coordinación de acciones con las demás dependencias estatales, en particular con las Secretarías de Desarrollo Rural, de Turismo y de Obras Públicas y Desarrollo Urbano, así como con la Agencia Ambiental para el Desarrollo Sustentable, a fin de fomentar los objetivos de desarrollo económico y competitividad del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO P.O. 27 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 5°.
 
-Para impulsar el desarrollo económico y la competitividad, las dependencias promoverán la eficiente vinculación entre los sectores empresarial, educativo y de investigación científica, mediante las siguientes acciones:
+Para impulsar el desarrollo económico, la competitividad y la innovación, las dependencias promoverán la eficiente vinculación entre los sectores empresarial, educativo y de investigación científica, mediante las siguientes acciones:
 
 I. Promover la prestación del servicio social de estudiantes de educación superior en empresas que lo soliciten, de manera coordinada con instituciones educativas que por su perfil formativo sean un apoyo para el sector productivo;
 
@@ -179,15 +203,27 @@ II. Promover y alentar el uso de instalaciones públicas especializadas en norma
 
 III. Celebrar convenios con instituciones educativas, que permitan dar a conocer las estrategias en materia económica que implemente el Gobierno del Estado, así como involucrar al sector educativo en la difusión de acciones tendientes a promover la vocación emprendedora de los estudiantes;
 
-IV. Identificar y promover la creación de nuevas carreras profesionales y técnicas que demandan los sectores industrial, comercial y de servicios, para orientar a los estudiantes en áreas de mayor oportunidad laboral y desarrollo personal, así como mejor remuneradas; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-V. Apoyar la realización de foros, conferencias y reuniones que tengan como objetivo establecer un contacto directo de los jóvenes con el ambiente de negocios y conocer los apoyos que brindan los tres órdenes de gobierno para la creación de empresas.
+IV. Identificar y promover la creación de nuevas carreras profesionales y técnicas que demandan los sectores industrial, comercial y de servicios, para orientar a los estudiantes en áreas de mayor oportunidad laboral y desarrollo personal, así como mejor remuneradas;
 
-### CAPITULO II. DEL CONSEJO ESTATAL PARA El DESARROLLO ECONOMICO Y LA COMPETITIVIDAD
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+V. Apoyar la realización de foros, conferencias y reuniones que tengan como objetivo establecer un contacto directo de los jóvenes con el ambiente de negocios, innovación, nuevas tecnologías y formación empresariales así como conocer los apoyos que brindan los tres órdenes de gobierno para la creación de empresas; y
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+VI. Promover la creación de carreras profesionales con formación empresarial para fomentar la cultura empresarial y la generación de empresas de los nuevos profesionistas
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2013)</small>
+
+### CAPITULO II. DEL CONSEJO ESTATAL PARA El DESARROLLO ECONOMICO, COMPETITIVIDAD E INNOVACION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 6°.
 
-El Consejo Estatal para el Desarrollo Económico y la Competitividad, es el conducto para coordinar las acciones de vinculación de los sectores productivos con el Gobierno del Estado.
+El Consejo Estatal para el Desarrollo Económico, Competitividad e Innovación, es el conducto para coordinar las acciones de vinculación de los sectores productivos con el Gobierno del Estado.
 
 El Consejo podrá recomendar al Ejecutivo del Estado el establecimiento de fideicomisos que tengan por objeto la ejecución específica de proyectos aprobados en el seno del mismo, para lo cual se asignarán los fondos que se estimen necesarios por parte de los tres ordenes de gobierno, de las dependencias, entidades, instituciones educativas o del sector privado en general.
 
@@ -219,7 +255,7 @@ XI. Informar al término de cada sesión, en forma oportuna y veraz, sobre las d
 
 XII. Implementar con los gobiernos federal, estatal y municipales estrategias para dar preferencia en la adquisición de bienes y servicios a empresas y empresarios tamaulipecos; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -229,13 +265,11 @@ XIII. Proponer la entrega de reconocimientos a empresas tamaulipecas que contrib
 
 El Consejo se integra de la forma siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+I. Por parte del Poder Ejecutivo del Estado, el Gobernador del Estado, quien fungirá como Presidente; el Secretario de Desarrollo Económico y Turismo, quien fungirá como Vicepresidente; y los titulares de las Secretarías General de Gobierno; de Finanzas; de Desarrollo Rural; de Turismo; de Salud; y de Obras Públicas y de Desarrollo Urbano y Medio Ambiente, quienes fungirán como Vocales;
 
-I. Por parte del Poder Ejecutivo del Estado, el Gobernador del Estado, quien fungirá como Presidente; el Secretario de Desarrollo Económico y del Empleo, quien fungirá como Vicepresidente; y los titulares de las Secretarías General de Gobierno; de Finanzas; de Desarrollo Rural; de Turismo; de Salud; y de Obras Públicas y de Desarrollo Urbano así como de la Agencia Ambiental para el Desarrollo Sustentable, quienes fungirán como Vocales;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -253,7 +287,7 @@ VII. Por parte de los Consejos Regionales: los presidentes ejecutivos de cada un
 
 VIII. Por parte de la Sociedad Civil: 3 personas que por su destacada trayectoria sean invitadas a participar por el Presidente Ejecutivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -277,17 +311,23 @@ IV. Levantar un acta de cada sesión, tanto ordinarias como extraordinarias, mis
 
 El Presidente Ejecutivo durará en su cargo tres años, pudiendo reelegirse hasta por otro periodo igual, con la aprobación de la mayoría de votos de los integrantes del Consejo.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 10.
 
-El Consejo podrá formular recomendaciones a las dependencias y entidades para que el ejercicio de sus atribuciones coadyuve a los objetivos de desarrollo económico y competitividad del Estado, de conformidad con el Plan Estatal de Desarrollo y los programas sectoriales. En todo caso, las dependencias y entidades informarán al Consejo sobre las determinaciones administrativas derivadas de las recomendaciones que reciban, los resultados obtenidos y, en su caso, las dificultades identificadas para su implementación.
+El Consejo podrá formular recomendaciones a las dependencias y entidades para que el ejercicio de sus atribuciones coadyuve a los objetivos de desarrollo económico, la competitividad y la innovación del Estado, de conformidad con el Plan Estatal de Desarrollo y los programas sectoriales. En todo caso, las dependencias y entidades informarán al Consejo sobre las determinaciones administrativas derivadas de las recomendaciones que reciban, los resultados obtenidos y, en su caso, las dificultades identificadas para su implementación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 11.
 
-El Consejo formará seis Consejos Regionales para el Desarrollo y la Competitividad, los cuales tendrán el objetivo de trabajar coordinada y estrechamente con aquél. Los Consejos Regionales ejercerán las facultades y atribuciones que señale el Reglamento, las cuales seguirán los lineamientos del artículo 7° de esta ley, en lo conducente al ámbito regional, a fin de promover el ejercicio de las facultades y atribuciones del Consejo.
+El Consejo formará seis Consejos Regionales para el Desarrollo, la Competitividad y la Innovación, los cuales tendrán el objetivo de trabajar coordinada y estrechamente con aquél. Los Consejos Regionales ejercerán las facultades y atribuciones que señale el Reglamento, las cuales seguirán los lineamientos del artículo 7° de esta ley, en lo conducente al ámbito regional, a fin de promover el ejercicio de las facultades y atribuciones del Consejo.
 
 El Consejo Regional se integra de la siguiente forma:
 
-I. Por parte del Ejecutivo del Estado: El Secretario de Desarrollo Económico y del Empleo, quien fungirá como Presidente; los Presidentes Municipales de los Ayuntamientos de la región correspondiente, y un Presidente Ejecutivo, que será un empresario del sector privado;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+I. Por parte del Ejecutivo del Estado: El Secretario de Desarrollo Económico y Turismo, quien fungirá como Presidente; los Presidentes Municipales de los Ayuntamientos de la región correspondiente, y un Presidente Ejecutivo, que será un empresario del sector privado;
 
 II. Por parte del Congreso del Estado, un diputado local con residencia en uno de los distritos electorales comprendidos dentro del ámbito territorial del Consejo Regional de que se trate, quien será propuesto por la Junta de Coordinación Política al Pleno del Poder Legislativo, para que éste resuelva por mayoría simple de los diputados presentes;
 
@@ -315,7 +355,7 @@ V. Región Tampico, que incluye los municipios de Tampico, Ciudad Madero y Altam
 
 VI. Región Victoria, que incluye los municipios de: Victoria, Mainero, Villagrán, Hidalgo, San Carlos, Jiménez, Abasolo, Soto la Marina, Padilla, Casas, Guémez, Llera, Jaumave, Miquihuana, Palmillas, Bustamante y Tula.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -329,7 +369,7 @@ El Consejo podrá proponer la celebración de convenios con otros estados en la 
 
 ### CAPITULO IV. DEL OTORGAMIENTO DE ESTIMULOS A LA INVERSION PRODUCTIVA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -389,13 +429,13 @@ I. Subsidio del pago de impuesto sobre nóminas, total o parcialmente, según Ac
 
 La empresa o industria que anteriormente haya recibido estímulos fiscales y se encuentre en los supuestos del Acuerdo Gubernamental vigente, recibirá la exención parcial o total del impuesto sobre nóminas, sólo por los empleos de nueva creación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 II. Subsidio del pago por concepto de derechos de inscripción del Registro Público de la Propiedad Inmueble y del Comercio, de actas constitutivas de sociedades mercantiles, así como los aumentos de capital, cuyo objeto social contemple el desarrollo de actividades productivas; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -451,7 +491,7 @@ VII. Desarrollo de proveedores locales;
 
 VIII. Sustitución de importaciones o aumento de las exportaciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -465,11 +505,9 @@ XII. Impacto económico y social del proyecto.
 
 Al resolver sobre la solicitud de los estímulos fiscales relacionados con este precepto, el Consejo sopesará los aspectos antes enunciados en el contexto de las políticas públicas para el desarrollo equilibrado y sustentable del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-Las empresas establecidas en el Estado que asuman procesos de modernización de sus procesos productivos con base en tecnologías limpias o que disminuyan el consumo de recursos o las de nueva creación o establecimiento que acrediten adoptar criterios de vanguardia en esos ámbitos, podrán ser acreedores a estímulos fiscales a propuesta de la Agencia Ambiental para el Desarrollo Sustentable ante el Consejo en términos de las hipótesis de las fracciones I, II y III del artículo 19 de esta Ley, en términos del Acuerdo Gubernamental que emita el Ejecutivo del Estado.
+Las empresas establecidas en el Estado que asuman procesos de modernización de sus procesos productivos con base en tecnologías limpias o que disminuyan el consumo de recursos o las de nueva creación o establecimiento que acrediten adoptar criterios de vanguardia en esos ámbitos, podrán ser acreedores a estímulos fiscales a propuesta de la Secretaría de Desarrollo Urbano y Medio Ambiente ante el Consejo en términos de las hipótesis de las fracciones I, II y III del artículo 19 de esta Ley, en términos del Acuerdo Gubernamental que emita el Ejecutivo del Estado.
 
 ###### ARTICULO 22.
 
@@ -535,7 +573,7 @@ Al adoptarse la determinación suspensiva se otorgará el derecho de audiencia a
 
 DEL APOYO A LAS MICRO, PEQUEÑA Y MEDIANA EMPRESAS.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 27.
 
@@ -797,7 +835,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTlNEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE JUNIO DE 2008.
 
@@ -814,3 +852,9 @@ P.O. 2 DE NOVIEMBRE DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE AGOSTO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
