@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-495-del-registro-civil-del-estado-de-guerrero-79768"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-04"
-last_updated: "2011-01-04"
+last_updated: "2013-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado en Alcance I, el Martes 4 de enero de 2011.
 
@@ -33,7 +33,7 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA QUINCUAGÉSIMA NOVENA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-C O N S I D E R A N D O .
+C O N S I D E R A N D O ...
 
 Por lo anteriormente expuesto, y con fundamento en lo dispuesto por los artículos 47 fracciones I y XIX de la Constitución Política Local, y en el artículo 8° fracción I de la Ley Orgánica del Poder Legislativo del Estado de Guerrero número 286, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -145,9 +145,23 @@ II. Concertar y promover la capacitación y profesionalización de los Oficiales
 
 III. Establecer y supervisar los instrumentos de información;
 
-IV. Sistematizar, digitalizar y actualizar permanentemente la función registral; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Las demás atribuciones que les confiera esta Ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+IV. Sistematizar, digitalizar y actualizar permanentemente la función registral;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+V. Impartir a los Oficiales del Registro Civil en el Estado, el Curso Taller de Orientación Prematrimonial; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+VI. Las demás atribuciones que les confiera esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 14.
 
@@ -461,9 +475,23 @@ XXXIV. Asignar la Clave Única de Registro de Población (CURP) y remitir mensua
 
 XXXV. Recibir y dar trámite ante la Coordinación Técnica Estatal del Registro Civil, las solicitudes que presenten de aclaración o rectificación administrativa de actas del estado civil, así como recibir y desahogar las pruebas que se ofrezcan;
 
-XXXVI. Realizar las aclaraciones y rectificaciones administrativas en su oficialía, previa resolución de la Coordinación Técnica del Sistema Estatal del Registro Civil, mediante claves de control, el mismo día de su solicitud; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXVII. Las demás que le señalen el Código Civil vigente, las leyes y reglamentos aplicables.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+XXXVI. Realizar las aclaraciones y rectificaciones administrativas en su oficialía, previa resolución de la Coordinación Técnica del Sistema Estatal del Registro Civil, mediante claves de control, el mismo día de su solicitud;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+XXXVII. Impartir a los contrayentes el Curso Taller de Orientación Prematrimonial, establecido en la fracción VIII el (sic) artículo 349 del Código Civil del Estado, por lo menos quince días previos a la fecha de la celebración del matrimonio civil, expidiendo la constancia respectiva a los solicitantes; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2013)</small>
+
+XXXVIII. Las demás que le señalen el Código Civil vigente, las leyes y reglamentos aplicables.
 
 ###### Artículo 38.
 
@@ -1336,3 +1364,23 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 C.P. ISRAEL SOBERANIS NOGUEDA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los seis meses siguientes del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría General de Gobierno, instruirá a la Coordinación Técnica del Registro Civil, para que en ese lapso brinde la capacitación requerida a los Oficiales del Registro Civil de los Municipios del Estado de Guerrero, con relación a lo establecido en la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, así como a la Coordinación Técnica del Registro Civil del Estado y a los Oficiales del Registro Civil de los Municipios del Estado, para los efectos legales conducentes y el cumplimiento de lo señalado en el artículo anterior.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
