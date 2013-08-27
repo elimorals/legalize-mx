@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2012-08-31"
+last_updated: "2013-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -1823,13 +1823,23 @@ VI. Copia del acta de defunción del cónyuge fallecido si alguno de los contray
 
 VII. Copia de la dispensa de impedimentos, si los hubo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-VIII. Constancia de haber recibido pláticas sobre violencia familiar, impartidas por la Secretaría de la Mujer del Gobierno del Estado o la Coordinación Técnica del Sistema Estatal del Registro Civil a través de las Oficialías del Registro Civil.
+VIII. Constancia que acredite la asistencia previa al curso taller de orientación prematrimonial implementado por la Oficialía del Registro Civil Municipal, en el que se deberá hacer del conocimiento a los contrayentes los temas siguientes:
 
-La constancia a que se refiere el párrafo anterior, no tendrá costo alguno para quien la solicite y reciba.
+a). Relación de pareja;
+
+b). Proyecto de vida en pareja;
+
+c). Efectos del matrimonio, con relación a los cónyuges y sus descendientes;
+
+d). Regímenes patrimoniales, patria potestad, patrimonio de la familia, paternidad responsable, responsabilidad financiera;
+
+e). Prevención de la violencia familiar, y
+
+f). Causas y efectos del divorcio.
 
 ###### Artículo 350.
 
@@ -15656,3 +15666,21 @@ El presente Decreto entrará en vigor a los dos meses siguientes del día de su 
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 27 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los seis meses siguientes del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría General de Gobierno, instruirá a la Coordinación Técnica del Registro Civil, para que en ese lapso brinde la capacitación requerida a los Oficiales del Registro Civil de los Municipios del Estado de Guerrero, con relación a lo establecido en la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, así como a la Coordinación Técnica del registro Civil del Estado y a los Oficiales del Registro Civil de los Municipios del Estado, para los efectos legales conducentes y el cumplimiento de lo señalado en el artículo anterior.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
