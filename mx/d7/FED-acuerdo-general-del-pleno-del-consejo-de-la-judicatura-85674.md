@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-85674"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-03"
-last_updated: "2013-06-10"
+last_updated: "2013-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-01-26"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE AGOSTO DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2012.
 
@@ -323,11 +323,15 @@ I. La de Receso; y
 
 II. Las demás que determine el Pleno.
 
+> <small>(REFORMADO POR PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA AL DIVERSO QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 28 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 21.
 
 Cada Comisión permanente se formará por tres consejeros designados por el Pleno, por mayoría calificada de cinco votos, en el año en que deba renovarse. Podrá funcionar con dos consejeros; en caso de ausencia del Presidente de la Comisión respectiva, presidirá el consejero de mayor antigüedad.
 
-En el supuesto anterior, la votación dividida entre los dos consejeros presentes en la sesión, será resuelta por el Pleno.
+En caso de que alguna de las Comisiones Permanentes esté integrada por dos Consejeros, ante la ausencia de uno de ellos, dicha Comisión solicitará que se integre provisionalmente a ella algún Consejero de otra Comisión para evitar la interrupción del despacho de los asuntos.
+
+En los supuestos anteriores, la votación dividida entre los dos consejeros presentes en la sesión, será resuelta por el Pleno.
 
 Las comisiones se renovarán cada dos años. En el caso de que se designe nuevo consejero durante el periodo de funcionamiento de las comisiones, éste se integrará a las de aquél que concluyó su encargo.
 
@@ -3612,3 +3616,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar inmediatamente el texto de este Acuerdo al diverso Acuerdo General que reglamenta la organización y funcionamiento del propio Consejo.
+
+D.O.F. 28 DE AGOSTO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de la publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, y en el portal electrónico del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar inmediatamente el texto de este Acuerdo al diverso Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la organización y funcionamiento del propio Consejo.
