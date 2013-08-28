@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-comision-estatal-del-agua-del-90666"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-12"
-last_updated: "2013-02-27"
+last_updated: "2013-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre del 2012.
 
@@ -234,17 +234,23 @@ I. Solicitar la acreditación de los miembros de la Junta de Gobierno, con la do
 
 II. Coadyuvar con el Presidente de la Junta de Gobierno, en la elaboración y la celebración de sesiones ordinarias y extraordinarias;
 
-III. Levantar el acta de cada sesión con los acuerdos que se hayan aprobado y llevar el control de las actas de las sesiones, así como de la documentación relativa a las mismas;
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-IV. Dar seguimiento a los acuerdos y resoluciones de la Junta de Gobierno, hasta obtener su cumplimiento, y
+III. Convocar de manera directa o en conjunto con el Presidente a sesiones ordinarias y extraordinarias;
 
-V. Las demás que le confieran otras disposiciones jurídicas aplicables.
+IV. Levantar el acta de cada sesión con los acuerdos que se hayan aprobado y llevar el control de las actas de las sesiones, así como de la documentación relativa a las mismas;
+
+V. Dar seguimiento a los acuerdos y resoluciones de la Junta de Gobierno, hasta obtener su cumplimiento, y
+
+VI. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO III. DE LA SECRETARÍA EJECUTIVA Y SUS ATRIBUCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 19.
 
-Al frente de la Secretaría Ejecutiva de la Comisión, habrá una persona titular, quien será el servidor público denominado Secretario Ejecutivo, y tendrá las atribuciones que le confieren la Ley que crea la Comisión, la Ley Estatal de Planeación, así como las demás disposiciones jurídicas y administrativas aplicables, las cuales ejercerá conforme a las necesidades del servicio.
+Al frente de la Secretaría Ejecutiva de la Comisión, habrá una persona titular, servidor público que teniendo el nivel de Secretario será denominado Secretario Ejecutivo, y tendrá las atribuciones que le confieren la Ley que crea la Comisión, la Ley Estatal de Planeación, así como las demás disposiciones jurídicas y administrativas aplicables, las cuales ejercerá conforme a las necesidades del servicio.
 
 Para la mejor atención y despacho de los asuntos de su competencia podrá delegar sus facultades en servidores públicos subalternos, sin perjuicio de su ejercicio directo, excepto aquellas que por disposición de la Ley o el presente Reglamento, deban ser ejercidas directamente por él.
 
@@ -356,7 +362,9 @@ XI. Proponer al Secretario Ejecutivo, los Manuales de Organización y de Políti
 
 XII. Proponer la estructura básica necesaria para el mejor despacho de sus funciones, de conformidad con el presupuesto autorizado para la Comisión.
 
-XIII. Proponer al Secretario Ejecutivo la designación, promoción o remoción de los Directores Generales, Directores de Área, Subdirectores y Jefes de Departamento adscritos a las Unidades Administrativas a su cargo;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XIII. Designar, promover o remover, previa aprobación del Secretario Ejecutivo, a los Directores Generales, Directores de Área, Subdirectores y Jefes de Departamento adscritos a las Unidades Administrativas a su cargo;
 
 XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones o las adquiridas por delegación o suplencia;
 
@@ -372,13 +380,17 @@ XIX. Vigilar que se cumpla con las leyes y disposiciones aplicables en los asunt
 
 XX. Expedir certificaciones de las constancias de los expedientes relativos a los asuntos de su competencia;
 
-XXI. Integrar los expedientes técnicos para la aprobación de los recursos financieros necesarios para la realización de obras y acciones en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XXI. Revisar los expedientes técnicos para la aprobación de los recursos financieros necesarios para la realización de obras y acciones en el ámbito de su competencia;
 
 XXII. Acordar y resolver los asuntos de la competencia de las Unidades Administrativas que integran la Subsecretaría Ejecutiva a su cargo;
 
 XXIII. Autorizar y someter a la consideración del Secretario Ejecutivo, los proyectos de políticas, procedimientos, metodologías, sistemas, normativa, reglas de operación, lineamientos, manuales, guías técnicas y operativas, indicadores, criterios administrativos, formatos e instructivos y demás instrumentos administrativos que, de conformidad con las disposiciones legales aplicables, les corresponda formular, conforme al presente Reglamento Interior, así como efectuar el control administrativo de los mismos;
 
-XXIV. Planear, programar, presupuestar y supervisar las obras hidráulicas estatales, competencia de la Comisión, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XXIV. Planear, programar, presupuestar, supervisar y dar seguimiento a las obras hidráulicas estatales, competencia de la Comisión, de conformidad con las disposiciones jurídicas aplicables;
 
 XXV. Participar en la integración, actualización, depuración y homogenización de las carteras de proyectos de infraestructura hídrica del Estado;
 
@@ -416,7 +428,9 @@ I. Supervisar y coordinar las funciones que corresponden a la Comisión como ór
 
 II. Supervisar y coordinar las funciones operativas y ejecutivas de la Comisión en materia de obras, sistemas y servicios de agua potable, alcantarillado, saneamiento, reúso e intercambio de aguas residuales tratadas;
 
-III. Coordinar los estudios de pre inversión, planeación, anteproyectos, proyectos ejecutivos, conservación, mantenimiento, rehabilitación y construcción de obras con la participación de las Secretarías, Dependencias o Entidades de la Administración Pública Estatal, las autoridades municipales, los particulares y la sociedad organizada en zonas urbanas y rurales;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+III. Coadyuvar en la realización de los estudios de pre inversión, planeación, anteproyectos, proyectos ejecutivos, conservación, mantenimiento, rehabilitación y construcción de obras;
 
 IV. Supervisar obras en materia hídrica;
 
@@ -526,9 +540,13 @@ XXII. Promover la elaboración de estudios para la definición de cuotas de auto
 
 XXIII. Promover y apoyar la instalación de los dispositivos de medición en las fuentes de abastecimiento superficiales y subterráneas;
 
-XXIV. Promover, coordinar, concertar y, en su caso, realizar la investigación y desarrollo tecnológico en materia hidroagrícola y la formación y capacitación de recursos humanos, y
+XXIV. Promover, coordinar, concertar y, en su caso, realizar la investigación y desarrollo tecnológico en materia hidroagrícola y la formación y capacitación de recursos humanos, y (sic)
 
-XXV. Las demás que le delegue el Secretario Ejecutivo y las que señalen las disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XXV. Promover, coordinar y elaborar los estudios de pre inversión, planeación, anteproyectos, proyectos ejecutivos para la conservación, mantenimiento, rehabilitación y construcción de obras de infraestructura hidráulica con la participación de las Secretarías, Dependencias o Entidades de la Administración Pública Estatal, las autoridades municipales, los particulares y la sociedad organizada en zonas urbanas y rurales;
+
+XXVI. Las demás que le delegue el Secretario Ejecutivo y le confieran otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA COORDINACIÓN TÉCNICA
 
@@ -716,9 +734,13 @@ XXIX. Conceder audiencias al público y recibir en acuerdo a cualquier servidor 
 
 XXX. Elaborar en su carácter de área ejecutora, con la participación de las áreas que requiera, las bases de concursos y expedientes técnicos, para las licitaciones públicas o sus excepciones, conforme a las disposiciones jurídicas en la materia;
 
-XXXI. Desarrollar y optimizar el manejo de los recursos de las áreas a su cargo, y
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-XXXII. Las demás que le delegue el Secretario Ejecutivo, la persona titular de la Subsecretaría de su adscripción y le confieran otras disposiciones jurídicas aplicables.
+XXXI. Integrar los expedientes técnicos para la aprobación de los recursos financieros necesarios para la realización de obras y acciones en el ámbito de su competencia;
+
+XXXII. Desarrollar y optimizar el manejo de los recursos de las áreas a su cargo, y
+
+XXXIII. Las demás que le delegue el Secretario Ejecutivo, la persona titular de la Subsecretaría de su adscripción y le confieran otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO X. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES
 
@@ -898,9 +920,13 @@ XVII. Proponer la contratación de los servicios externos necesarios para el ade
 
 XVIII. Certificar, previo cotejo y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan, en el ejercicio de sus funciones, los servidores públicos que les estén subordinados;
 
-XIX. Expedir credenciales de identificación al personal de la Comisión, y
+XIX. Expedir credenciales de identificación al personal de la Comisión, y (sic)
 
-XX. Las demás que le delegue el Secretario Ejecutivo y le confieran otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XX. Representar a la Comisión ante autoridades administrativas a fin de gestionar por su conducto cualquier trámite que para su funcionamiento llegase a requerir;
+
+XXI. Las demás que le delegue el Secretario Ejecutivo y le confieran otras disposiciones jurídicas aplicables.
 
 ###### Artículo 41.
 
@@ -950,17 +976,25 @@ XVIII. Recibir, estudiar y determinar, en su caso, la competencia y procedencia 
 
 XIX. Substanciar y proyectar las resoluciones correspondientes en los recursos administrativos que se interpongan en contra de actos o resoluciones de las unidades administrativas adscritas a la CEA y proponerlas a su titular;
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XX. Representar legalmente a la Comisión ante autoridades administrativas a fin de gestionar por su conducto cualquier trámite que para su funcionamiento llegase a requerir;
+
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-XXI (SIC). Brindar asesoría jurídica al Secretario Ejecutivo de la CEA y a sus unidades administrativas en la concertación, negociación y gestión para la realización de acciones, programas y proyectos relacionados con la suscripción de convenios y contratos de la CEA, así como establecer los aspectos jurídicos de dichos instrumentos y de cualquier otro de naturaleza análoga;
+XXI. Brindar asesoría jurídica al Secretario Ejecutivo de la CEA y a sus unidades administrativas en la concertación, negociación y gestión para la realización de acciones, programas y proyectos relacionados con la suscripción de convenios y contratos de la CEA, así como establecer los aspectos jurídicos de dichos instrumentos y de cualquier otro de naturaleza análoga;
 
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
 XXII. Elaborar y proponer los informes previos y justificados en juicios de amparo en los que sean señalados como autoridades responsables los servidores públicos de la CEA, intervenir cuando ésta tenga el carácter de tercero perjudicado, y formular las promociones, incidentes y medios de defensa procedentes en dicho juicio, en términos de las disposiciones legales aplicables;
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XXIII. Ordenar, en auxilio del Secretario Ejecutivo, que se practiquen visitas de supervisión, inspección y verificación, a fin de vigilar el cumplimiento de la normatividad aplicable;
+
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-XXIV (SIC). Suplir, en sus ausencias, a los servidores públicos del Organismo, en los juicios de amparo en los que sean señalados como autoridades responsables, en lo concerniente, a los informes previos, con justificación, recursos y cualquier otra actuación que dichas autoridades deban realizar conforme a la ley de la materia;
+XXIV. Suplir, en sus ausencias, a los servidores públicos del Organismo, en los juicios de amparo en los que sean señalados como autoridades responsables, en lo concerniente, a los informes previos, con justificación, recursos y cualquier otra actuación que dichas autoridades deban realizar conforme a la ley de la materia;
 
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
@@ -1187,3 +1221,7 @@ SIN RÚBRICA.
 P.O. 27 DE FEBRERO DE 2013.
 
 ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en Periódico Oficial "Tierra y Libertad".
+
+P.O. 28 DE AGOSTO DE 2013.
+
+ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
