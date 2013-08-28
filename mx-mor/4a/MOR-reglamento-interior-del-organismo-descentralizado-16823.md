@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-organismo-descentralizado-16823"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-30"
-last_updated: "2012-05-09"
+last_updated: "2013-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, 30 de junio de 1999.
 
@@ -47,11 +47,15 @@ Cuando en este Reglamento se haga referencia al Organismo, se entenderá hecha a
 
 Son funciones del Organismo.
 
-I.- Organizar y operar en el Estado de Morelos, los servicios de salud a población abierta en materia de salubridad general y de regulación y control sanitarios conforme a lo que establece el Acuerdo de Coordinación;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-II. Organizar y supervisar el Sistema Estatal de Salud, en términos de la Ley General de Salud y la Ley de Salud del Estado de Morelos;
+I.- Organizar y operar en el estado de Morelos, los servicios de salud a la población abierta en materia de salubridad general y local, de regulación y control sanitarios conforme a lo que establece el Acuerdo de Coordinación y la Ley de Salud del Estado de Morelos;
 
-III.- Realizar todas aquellas acciones tendientes a garantizar el derecho a la protección de la salud de los habitantes del Estado;
+II.- (DEROGADA, P.O. 28 DE AGOSTO DE 2013)
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+III.- Realizar todas aquellas acciones tendientes a garantizar el derecho a la protección de la salud de los habitantes del Estado y acceso a los servicios de salud de los transeúntes;
 
 IV.- Proponer y fortalecer la participación de la comunidad en los servicios de salud;
 
@@ -69,9 +73,13 @@ X.- Difundir a las autoridades correspondientes y a la población en general, a 
 
 XI.- Administrar los recursos que le sean asignados, las cuotas de recuperación, así como las aportaciones que reciba de otras personas o instituciones;
 
-XII.- Operar el Sistema de Información en Salud para la Población Abierta y el Sistema Único de Información para la Vigilancia Epidemiológica;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-XIII.- Promover la actualización, difusión y observancia en el Estado, del Plan Maestro de Infraestructura Física en Salud para Población Abierta; y (sic)
+XII.- Operar el Sistema de Información en Salud para la Población sin Seguridad Social y el Sistema Único de Información para la Vigilancia Epidemiológica;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XIII.- Promover la actualización, difusión y observancia en el Estado, del Plan Maestro de Infraestructura Física en Salud;
 
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2002)</small>
 
@@ -87,49 +95,45 @@ I.- Junta de Gobierno.
 
 II.- Dirección General, y
 
-III.- Comisario.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+III.- Comisario Público.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 5°.
 
-Para la más eficaz atención de los asuntos de su competencia, y a fin de cumplir con su objeto, el Organismo contará con las siguientes unidades administrativas;
+Para la más eficaz atención de los asuntos de su competencia, y a fin de cumplir con su objeto, el Organismo contará con las siguientes unidades administrativas:
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2008)</small>
+I.- Dirección de Servicios de Salud a la Persona;
 
-Dirección de Servicios de Salud a la Persona.
+II.- Dirección de Servicios de Salud a la Comunidad;
 
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2008)</small>
+III.- Comisión para la Protección Contra Riesgos Sanitarios del Estado de Morelos;
 
-Dirección de Servicios de Salud a la Comunidad.
+IV.- Dirección de Planeación y Evaluación;
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+V.- Dirección de Administración;
 
-Comisión para la Protección Contra Riesgos Sanitarios del Estado de Morelos.
+VI.- Subdirección Jurídica;
 
-Dirección de Planeación y Evaluación.
+VII.- Dirección de la Unidad de la Beneficencia Pública;
 
-Dirección de Administración.
+VIII.- Unidad de Control de Gestión;
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2002)</small>
+IX.- Subdirección de Programa de Desarrollo Humano Oportunidades;
 
-Subdirección Jurídica.
+X.- Comisaría Pública como órgano de vigilancia y control;
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2002)</small>
+XI.- Unidades Hospitalarias, y
 
-Unidad de Beneficencia Pública Estatal.
+XII.- Jurisdicciones Sanitarias.
 
-Unidad de Control de Gestión.
-
-Unidad de Progresa.
-
-Órgano de Vigilancia y Control (comisario).
-
-Unidades Hospitalarias.
-
-Jurisdicciones Sanitarias.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 6°.
 
-El Organismo conducirá sus actividades en forma programada y de conformidad con las políticas, estrategias y prioridades de la Planeación Nacional y Estatal de Desarrollo, del Sistema Nacional y Estatal de Salud, así como del Programa de Reforma del Sector Salud 1995-2000.
+El Organismo conducirá sus actividades en forma programada y de conformidad con las políticas, estrategias y prioridades de la Planeación Nacional y Estatal de Desarrollo, así como con los Programas Sectoriales en materia de salud Nacionales y Estatales.
 
 ### CAPÍTULO II. DEL PATRIMONIO DEL ORGANISMO
 
@@ -159,11 +163,17 @@ VII.- En general, todos los bienes, derechos y obligaciones que signifiquen util
 
 La Junta de Gobierno estará integrada de la siguiente forma:
 
-I.- Por un Presidente que será el Secretario de Bienestar Social;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-II.- Por los siguientes representantes del Gobierno del Estado; el Secretario de Hacienda y el Oficial Mayor;
+I.- El Gobernador Constitucional del Estado, quien la presidirá por sí o por la persona que designe al efecto;
 
-III.- Por un representante de la Secretaría de Salud del Gobierno Federal, y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+II.- Por las personas titulares de las Secretarías de Salud, Hacienda y de Administración del Poder Ejecutivo Estatal;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+III.- Por un representante de la Secretaría de Salud de la Administración Pública Federal, y
 
 IV.- Por un representante de los trabajadores, que será designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
 
@@ -173,41 +183,47 @@ El Presidente de la Junta podrá invitar a las sesiones de dicho órgano a repre
 
 Por cada miembro propietario habrá un suplente. El Presidente tendrá voto de calidad.
 
-El Director General y el Comisario participarán en las sesiones de la Junta de Gobierno con voz, pero sin voto.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+El Director General y el Comisario Público, adscrito al Organismo, participarán en las sesiones de la Junta de Gobierno con voz, pero sin voto.
 
 Los cargos en la Junta de Gobierno serán honoríficos y por su desempeño no se percibirá retribución, emolumento o compensación alguna.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 9°.
 
-La Junta de Gobierno tendrá las atribuciones que señala el artículo 7 del Decreto que crea el Organismo, además de las siguientes:
+La Junta de Gobierno, además de las que señala el artículo 7 del Decreto que crea el Organismo, tendrá de las siguientes atribuciones:
 
-I.- Definir, en congruencia con los planes y programas nacionales y estatales, las políticas a seguir por el Organismo en materia de Salud;
+I.- Definir y establecer con base en los programas sectoriales de salud, las directrices y prioridades a que se deberá ajustar el Organismo para fijar las políticas generales, objetivos, estrategias y acciones a seguir, que le permitirán cumplir con su objeto, incluyendo sus planes de trabajo;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2002)</small>
+II.- Evaluar el debido cumplimiento de los programas operativos y técnicos aprobados;
 
-II.- Aprobar los proyectos de programas en materia de Salud Pública y presentarlos a consideración de los Servicios de Salud de Morelos para su trámite ante los Gobiernos Estatal y Federal;
+III.- Atender en los términos de la Ley Orgánica de la Administración Pública del Estado de Morelos y demás legislación aplicable en la materia, las políticas, bases y programas generales que regulen las obras públicas, adquisiciones, arrendamientos y prestación de servicios en relación con bienes muebles e inmuebles que requiera el Organismo;
 
-III.- Evaluar el debido cumplimiento de los programas técnicos aprobados;
+IV.- Establecer las bases esenciales de la estructura del Organismo y sus modificaciones, así como aprobar su reglamento interior;
 
-IV.- Vigilar la correcta aplicación de los recursos asignados al Organismo;
+V.- Aprobar, a propuesta del Director General, la designación, cambios y la concesión de licencias de los funcionarios de mandos medios;
 
-V.- Aprobar la estructura orgánica básica del Organismo, así como las modificaciones que procedan;
+VI.- Aprobar los proyectos técnicos y programas operativos del Organismo y presentarlos a la consideración de los Gobiernos Federal y Estatal;
 
-VI.- Analizar y, en su caso, aprobar los informes periódicos que rinda el Director General;
+VII.- Aprobar los programas y presupuestos del Organismo y sus modificaciones;
 
-VII.- Aprobar el Reglamento Interior del Organismo y los manuales de organización, procedimientos y servicios al público;
+VIII.- Vigilar la correcta aplicación de los recursos asignados al Organismo y a la Unidad de Beneficencia Pública Estatal;
 
-VIII.- Aprobar la creación de nuevas unidades de investigación, capacitación y servicio;
+IX.- Aprobar anualmente, con base en el informe del Comisario Público y dictamen de los auditores externos, los estados financieros del Organismo y autorizar la publicación de ellos;
 
-IX.- Autorizar la creación de comisiones de apoyo y determinar las bases de su funcionamiento;
+X.- Examinar y aprobar en su caso, los informes periódicos que presente el Director General, con la intervención que al Comisario Público corresponda;
 
-X.- Discutir y aprobar, en su caso, los proyectos de inversión que propongan;
+XI.- Aprobar la creación de las comisiones de apoyo así como de unidades de investigación, capacitación y servicio que estime necesarias para el logro de las atribuciones del Organismo;
 
-XI.- Examinar, discutir y aprobar, en su caso, los planes de trabajo que se propongan, así como los informes de actividades presupuestales, y estados financieros que se presenten a su consideración;
+XII.- Aprobar la creación y aplicación de reservas sobre sus excedentes económicos, para someterlas al acuerdo del titular de la Secretaría de Salud;
 
-XII.- Aprobar de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen, los convenios, contratos y acuerdos que deba celebrar el organismo con terceros, y
+XIII.- Establecer las normas y bases para hacer la cancelación de adeudos a favor del Organismo y a cargo de terceros, en los casos de notoria imposibilidad práctica de su cobro, con la prevención de que cuando proceda la citada cancelación, se someterá a la aprobación de la Secretaría de Hacienda y de la Secretaría de Salud del Poder Ejecutivo Estatal;
 
-XIII.- Las demás que sean necesarias para el adecuado ejercicio de las facultades señaladas.
+XIV.- Presentar en su caso, por conducto de la Secretaría de Salud del Poder Ejecutivo Estatal, al Gobernador Constitucional del Estado, los proyectos de modificación, fusión o extinción del Organismo con otros organismos, y
+
+XV.- Las demás que le confieran este Reglamento y otras disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 10.
 
@@ -255,9 +271,11 @@ VI.- Las demás que le encomiende la Junta de Gobierno.
 
 ### CAPÍTULO IV. DE LAS SESIONES DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 13.
 
-La Junta de Gobierno deberá sesionar ordinariamente cada 2 meses y podrá hacerlo extraordinariamente cuantas veces lo considere necesario.
+La Junta de Gobierno, deberá sesionar ordinariamente seis veces al año y podrá hacerlo extraordinariamente cuantas veces lo considere necesario, cuando (sic) naturaleza de los asuntos así lo requiera.
 
 ###### Artículo 14.
 
@@ -289,229 +307,207 @@ El acta a que se refiere el Artículo anterior, se someterá a la consideración
 
 El Director General será nombrado por el Titular del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 21.
 
-El Director General tendrá las siguientes funciones:
+El Director General, tendrá las siguientes atribuciones:
 
-I.- Representar al Organismo en los asuntos que se deriven de las funciones del mismo;
+I.- Administrar y representar legalmente al Organismo;
 
-II.- Ejecutar los acuerdos y resoluciones que emita la Junta de Gobierno;
+II.- Someter a la aprobación de la Junta de Gobierno, los nombramientos, cambios y licencias de los funcionarios de mandos medios, así como sus sueldos y demás prestaciones, de acuerdo a las asignaciones globales de presupuesto de gasto corriente aprobadas por ella misma;
 
-III.- Nombrar y remover a los servidores públicos del Organismo, así como determinar sus atribuciones, ámbito de competencia y retribuciones con apego al presupuesto aprobado y demás disposiciones aplicables;
+III.- Establecer las medidas, unidades técnicas y administrativas necesarias para el desarrollo de las actividades del Organismo de manera organizada, congruente, eficaz y eficiente, conforme al reglamento interior;
 
-IV.- Ejercer los actos que le ordene la Junta de Gobierno, pudiendo delegar esa facultad en otros servidores públicos, previo acuerdo de la misma;
+IV.- Asistir a las sesiones de la Junta de Gobierno, con voz pero sin voto;
 
-V.- Proponer a la Junta de Gobierno las políticas generales del Organismo;
+V.- Proponer políticas generales y mecanismos que permitan un óptimo aprovechamiento (sic) los recursos y aplicar los mecanismos de evaluación, que destaquen la eficiencia y eficacia con las cuales desarrolla sus actividades el Organismo;
 
-VI.- Vigilar el cumplimiento del objeto del Organismo;
+VI.- Elaborar y presentar a la Junta de Gobierno, para su aprobación, los programas institucionales así como de organización, planes de trabajo y los presupuestos del Organismo;
 
-VII.- Presentar a la Junta de Gobierno para su aprobación, los planes de trabajo, propuesta de presupuesto, informes de actividades y estados financieros anuales del Organismo;
+VII.- Presentar a la Junta de Gobierno, un informe semestralmente de evaluación de gestión y un informe mensual sobre las actividades del Organismo que incluya el ejercicio de los presupuestos de ingresos y egresos, así como los correspondientes estados financieros;
 
-VIII.- Formular el anteproyecto de presupuesto anual del Organismo y someterlo a la consideración de la Junta de Gobierno;
+VIII.- Recopilar la información y elementos estadísticos que muestren el estado de las funciones del Organismo, para estar en posibilidad de mejorar su gestión;
 
-IX.- Instrumentar los sistemas y procedimientos que permitan la mejor aplicación de los recursos;
+IX.- Dar cumplimiento a los acuerdos que emita la Junta de Gobierno;
 
-X.- Expedir los nombramientos del personal;
+X.- Promover tareas editoriales y de difusión relacionadas con el objeto del Organismo;
 
-XI.- Realizar tareas editoriales y de difusión relacionadas con el objeto del Organismo;
+XI.- Representar al organismo descentralizado ante toda clase de autoridades y personas de derecho público o privado, con todas las facultades, aún aquellas que requieran autorización especial, que corresponden a los apoderados generales para pleitos y cobranzas, actos de administración y de riguroso dominio en los términos del Código Civil para el Estado Libre y Soberano de Morelos. Asimismo otorgar, substituir y revocar poderes generales y especiales con todas las facultades que requieran cláusula especial. El ejercicio de las facultades señaladas en esta fracción será bajo la responsabilidad del Director General; la facultad para realizar actos de dominio y para otorgar, suscribir y endosar títulos de crédito sólo podrá ejercerla por acuerdo expreso de la Junta de Gobierno;
 
-XII.- Suscribir previa autorización de la Junta de Gobierno, acuerdos o convenios con Dependencias y Entidades de la Administración Pública Federal, con las Entidades Federativas, con los Municipios y con Organismos del sector privado y social, en materia de la competencia del Organismo;
+XII.- Atender los problemas de carácter administrativo y laboral;
 
-XIII.- Planear y dirigir técnica y administrativamente el funcionamiento del Organismo;
+XII.- Elaborar y proponer a la Junta de Gobierno, para su aprobación, el Reglamento Interior, los Manuales de Organización y demás disposiciones administrativas relacionadas con la organización y el funcionamiento interno del Organismo;
 
-XIV.- Presentar a la Junta de Gobierno un informe anual de las actividades realizadas y de los resultados obtenidos, acompañando los informes específicos que se le requieran, y
+XIV.- Consultar a la Junta de Gobierno, para la atención de los asuntos, cuando la naturaleza de los asuntos lo demande, y
 
-XV.- Las demás que este Reglamento y otras disposiciones le confieran.
+XV.- Las demás que le asignen otras disposiciones normativas y administrativas aplicables.
 
 ### CAPÍTULO VI. DE LAS UNIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 22.
 
-La Dirección General, las Direcciones de Área, Unidades Hospitalarias y Jurisdicciones Sanitarias, se integrarán de la manera siguiente:
+La Dirección General, las Direcciones de Área, Unidades Hospitalarias y Jurisdicciones Sanitarias, se integrarán a su vez de la manera siguiente:
 
-A) DIRECCIÓN GENERAL
+A) DIRECCIÓN GENERAL:
 
-I. Unidad de Control de Gestión;
+I. La Unidad de Control de Gestión;
 
-II. (DEROGADA, P.O. 9 DE MAYO DE 2012)
+II. La Dirección de la Unidad de la Beneficencia Pública;
 
-III. Unidad de Beneficencia Pública Estatal;
+III. La Subdirección Jurídica;
 
-IV. Subdirección Jurídica;
+IV. El Departamento Contencioso Administrativo;
 
-V. Departamento Contencioso Administrativo;
+V. La Comisaría Pública de la Secretaría de la Contraloría adscrita al Organismo, y
 
-VI. Comisaría de la Contraloría en los Servicios de Salud de Morelos;
+VI. El Departamento de Evaluación y Control;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+B) LA DIRECCIÓN DE SERVICIOS DE SALUD A LA PERSONA POR:
 
-VII. Departamento de Supervisión y Auditoría;
+I. El Departamento de Calidad;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+II. La Subdirección de Primer Nivel de Atención;
 
-VIII. Departamento de Evaluación y Control, y
+III. El Departamento de Regulación de Servicios del Primer Nivel de Atención;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 2012)</small>
+IV. Las Jurisdicciones Sanitarias;
 
-IX. Departamento de Auditoría a Hospitales.
+V. La Jurisdicción Sanitaria I Cuernavaca;
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2008)</small>
+VI. La Jurisdicción Sanitaria II Jojutla;
 
-B) DIRECCIÓN DE SERVICIOS DE SALUD A LA PERSONA
+VII. La Jurisdicción Sanitaria III Cuautla;
 
-I. Subdirección de Enseñanza, Investigación y Capacitación;
+VIII. Las Unidades de Especialidades Médicas;
 
-II. Departamento de Enseñanza e Investigación;
+IX. La Subdirección de Hospitales;
 
-III. Departamento de Capacitación;
+X. El Departamento de Regulación de Servicios del Segundo Nivel de Atención;
 
-IV. Subdirección de Primer Nivel de Atención;
+XI. El Centro Estatal de Transfusión Sanguínea;
 
-V. Jurisdicciones Sanitarias;
+XII. El Hospital General de Axochiapan;
 
-VI. Jurisdicción Sanitaria I Cuernavaca;
+XIII. El Hospital General de Cuautla;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+XIV. El Hospital General de Cuernavaca;
 
-VII. Jurisdicción Sanitaria II Jojutla;
+XV. El Hospital General de Jojutla;
 
-VIII. Jurisdicción sanitaria III Cuautla;
+XVI. El Hospital General de Tetecala;
 
-IX. Departamento de Regulación de Servicios del Primer Nivel de Atención;
+XVII. El Hospital General de la Mujer;
 
-X. Departamento de Salud Reproductiva;
+XVIII. El Hospital General de Temixco;
 
-XI. Subdirección de Hospitales;
+XIX. El Hospital Comunitario de Jonacatepec;
 
-XII. Departamento de Regulación de Servicios del Segundo Nivel de Atención;
+XX. El Hospital Comunitario de Puente de Ixtla;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+XXI. El Hospital Comunitario de Ocuituco;
 
-XIII. Centro Estatal de Transfusión Sanguínea;
+XXII. La Subdirección de Enseñanza, Investigación y Capacitación;
 
-XIV. Hospital General de Axochiapan;
+XXIII. El Departamento de Enseñanza;
 
-XV. Hospital General de Cuautla;
+XXIV. El Departamento de Investigación;
 
-XVI. Hospital General de Cuernavaca;
+XXV. El Departamento de Capacitación, y
 
-XVII. Hospital General de Jojutla;
+XXVI. La Subdirección del Programa de Desarrollo Humano de Oportunidades;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+C) LA DIRECCIÓN DE SERVICIOS DE SALUD A LA COMUNIDAD POR:
 
-XVIII. Hospital General de Tetecala;
+I. El Departamento de Epidemiología;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+II. El Departamento de Prevención y Control de Enfermedades;
 
-XIX. Hospital General de la Mujer, y
+III. El Departamento de Promoción a la Salud, y
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2012)</small>
+IV. Departamento de Salud Reproductiva;
 
-XX. Subdirección del Programa de Desarrollo Humano de Oportunidades.
+D) LA COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MORELOS:
 
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2008)</small>
+I. El Comisionado para la Protección Contra Riesgos Sanitarios, que será el titular de la Comisión;
 
-C) DIRECCIÓN DE SERVICIOS DE SALUD A LA COMUNIDAD
+II. La Jefatura Jurídica y Consultiva;
 
-I. Departamento de Epidemiología;
+III. La Jefatura de Dictamen Sanitario;
 
-II. Departamento de Prevención y Control de Enfermedades, y
+IV. La Coordinación de Protección Sanitaria en la Región I;
 
-III. Departamento de Promoción a la Salud.
+V. La Coordinación de Protección Sanitaria en la Región II;
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+VI. La Coordinación de Protección Sanitaria en la Región III.
 
-D). COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MORELOS
+VII. La Secretaría General;
 
-I. Comisionado para la Protección Contra Riesgos Sanitarios, que será el titular de la Comisión;
+VIII. La Jefatura de Administración y Sistemas;
 
-II. Jefatura Jurídica y Consultiva;
+IX. La Jefatura de Autorización Sanitaria;
 
-III. Jefatura de Dictamen Sanitario;
+X. La Coordinación General del Sistema Estatal Sanitario;
 
-IV. Coordinación de Protección Sanitaria en la Región l;
+XI. La Jefatura de Evidencia y Manejo de Riesgo;
 
-V. Coordinación de Protección Sanitaria en la Región ll;
+XII. La Jefatura de Capacitación y Fomento Sanitario;
 
-VI. Coordinación de Protección Sanitaria en la Región III;
-
-VII. Secretaría General;
-
-VIII. Jefatura de Administración y Sistemas;
-
-IX. Jefatura de Autorización Sanitaria;
-
-X. Coordinación General del Sistema Estatal Sanitario;
-
-XI. Jefatura de Evidencia y Manejo de Riesgo;
-
-XII. Jefatura de Capacitación y Fomento Sanitario;
-
-XIII. Jefatura de Operación Sanitaria;
-
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
+XIII. La Jefatura de Operación Sanitaria;
 
 XIV. Laboratorio Estatal de Salud Pública;
 
-XV. Jefatura de Control Analítico Sanitario;
+XV. La Jefatura de Control Analítico Sanitario;
 
-XVI. Jefatura de Control Analítico Epidemiológico, y
+XVI. La Jefatura de Control Analítico Epidemiológico, y
 
-XVII. Jefatura de Innovación y Calidad.
+XVII. La Jefatura de Innovación y Calidad;
 
-E) DIRECCIÓN DE PLANEACIÓN Y EVALUACIÓN
+E) LA DIRECCIÓN DE PLANEACIÓN Y EVALUACIÓN:
 
-I. Subdirección de Planeación y Desarrollo;
+I. La Subdirección de Planeación y Desarrollo;
 
-II. Departamento de Estadística;
+II. El Departamento de Programación y Desarrollo en Salud;
 
-III. Departamento de Programación;
+III. El Departamento de Evaluación;
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+IV. La Subdirección de Tecnologías e Información en Salud;
 
-IV. Subdirección de Infraestructura Física en la Salud;
+V. El Departamento de Información y Estadística en Salud, y
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+VI. El Departamento de Informática, y
 
-V. Departamento de Obras, Conservación y Mantenimiento;
+F) LA DIRECCIÓN DE ADMINISTRACIÓN:
 
-VI. Departamento de Evaluación y
+I. La Subdirección de Recursos Humanos;
 
-VII. Departamento de Informática.
+II. El Departamento de Sistematización de Pagos;
 
-F) DIRECCIÓN DE ADMINISTRACIÓN
+III. El Departamento de Pagos;
 
-I. Subdirección de Recursos Humanos;
+IV. El Departamento de Operación;
 
-II. Departamento de Sistematización de Pagos;
+V. El Departamento de Relaciones Laborales;
 
-III. Departamento de Pagos.
+VI. La Subdirección de Recursos Financieros;
 
-IV. Departamento de Operación;
+VII. El Departamento de Integración Presupuestal;
 
-V. Departamento de Relaciones Laborales;
+VIII. El Departamento de Control Presupuestal y Contabilidad;
 
-VI. Subdirección de Recursos Financieros;
+IX. El Departamento de Tesorería;
 
-VII. Departamento de Integración Presupuestal;
+X. La Subdirección de Recursos Materiales;
 
-VIII. Departamento de Control Presupuestal y Contabilidad;
+XI. El Departamento de Servicios Generales;
 
-IX. Departamento de Tesorería;
+XII. El Departamento de Adquisiciones;
 
-X. Subdirección de Recursos Materiales;
+XIII. El Departamento de Almacenes y Abastecimiento, y
 
-XI. Departamento de Servicios Generales;
-
-XII. Departamento de Adquisiciones;
-
-XIII. (DEROGADA, P.O. 28 DE OCTUBRE DE 2009)
-
-XIV. (DEROGADA, P.O. 9 DE MAYO DE 2012)
-
-XV. Departamento de Almacenes y Abastecimiento.
+XIV. Departamento de Obras, Conservación y Mantenimiento.
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -523,63 +519,69 @@ I.- Establecer el Sistema de Control de Gestión, a través del registro, seguim
 
 II.- Coordinar las actividades del personal administrativo de la Dirección General para el funcionamiento del Sistema de Control de Gestión;
 
-III.- Establecer el sistema de seguimiento a los acuerdos y compromisos de la Dirección General ante el Consejo Nacional de Salud, la Junta de Gobierno y la Comisaría de la Contraloría en los Servicios de Salud de Morelos, Coordinando la participación de las áreas sustantivas, de apoyo y logística en su seguimiento y cumplimiento;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+III.- Establecer el sistema de seguimiento a los acuerdos y compromisos de la Dirección General, ante el Consejo Nacional de Salud, la Junta de Gobierno y la Comisaría Pública del Organismo, coordinando la participación de las áreas sustantivas, de apoyo y logística en su seguimiento y cumplimiento;
 
 IV.- Establecer seguimiento y evaluar el cumplimiento en tiempo y forma en la integración del Programa Operativo Anual, de la Distribución Presupuestal Federal y Estatal, del Programa de Captación y Aplicación de Cuotas de recuperación, del Programa Anual de inversiones, y de los Estados Financieros del Organismo, para su presentación y aprobación por la Junta de Gobierno, así como su envío a las instancias federales y estatales correspondientes;
 
 V.- Coordinar la formulación y realización del capítulo Salud del informe anual del Gobierno del Estado, así como del anexo estadístico correspondiente;
 
-VI.- Coordinar la formulación y realización del Informe Anual de Labores de los Servicios de Salud de Morelos;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+VI.- Coordinar la formulación y realización del Informe Anual de Labores del Organismo;
 
 VII.- Promover la coordinación de las áreas sustantivas, de apoyo y logística de los Servicios de e Salud para el adecuado desarrollo dé los proyectos específicos que le sean encomendados por la Dirección General;
 
-VIII.- Operar y mantener actualizado el Sistema de Información Estratégica en Salud (SIESA) de la Dirección General, en coordinación con la Dirección de Planeación;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+VIII.- Operar y mantener actualizado el Sistema de Información en Salud de la Dirección General, en coordinación con la Dirección de Planeación y Evaluación, y
 
 IX.- Las demás que le sean encomendadas por la Dirección General.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 23 Bis.
 
-La Unidad de la Beneficencia Pública Estatal tendrá a su cargo las atribuciones y obligaciones específicas siguientes:
+La Dirección de la Unidad de la Beneficencia Pública, tendrá a su cargo las atribuciones y obligaciones específicas siguientes:
 
-I. Formular y operar el programa de apoyos y subsidios específicos a personas físicas e instituciones no lucrativas que tengan por objeto asistencia a la población en general o a grupos determinados de ella en coordinación con los programas de Servicios de Salud de Morelos;
+I. Formular y operar el programa de apoyos y subsidios específicos a personas físicas e instituciones no lucrativas que tengan por objeto asistencia a la población en general o a grupos determinados de ella en coordinación con los programas del Organismo;
 
-II. Representar los intereses de la Beneficencia Pública y Administrar el Patrimonio que le corresponda y conferir poderes generales o especiales para tal fin por conducto del Director General de los Servicios de Salud de Morelos;
+II. Representar los intereses de la Beneficencia Pública y Administrar el Patrimonio que le corresponda y conferir poderes generales o especiales para tal fin, por conducto del Director General del Organismo;
 
-III. Regular y vigilar el Sistema Estatal de Cuotas de Recuperación de los Servicios de Salud en coordinación con las autoridades de los Hospitales y Centros de Salud;
+III. Regular y vigilar el Sistema Estatal de Cuotas de Recuperación de los Servicios de Salud, en coordinación con las autoridades de los Hospitales y Centros de Salud;
 
-IV. Elaborar y presentar al Director General para ser sometidos a la aprobación de la Junta de Gobierno, el programa de trabajo, el presupuesto, el informe de actividades y los estados financieros anuales de la Administración del Patrimonio de la Beneficencia Pública Estatal;
+IV. Elaborar y presentar al Director General, para ser sometidos a la aprobación de la Junta de Gobierno, el programa de trabajo, el presupuesto, el informe de actividades y los estados financieros anuales de la Administración del Patrimonio de la Unidad de la Beneficencia Pública;
 
-V. Administrar el Patrimonio que corresponde a la Beneficencia Pública;
+V. Administrar el Patrimonio que corresponde a la Unidad de la Beneficencia Pública;
 
-VI. Formular y someter a la aprobación de la Junta de Gobierno por conducto del Director General los proyectos de inversión de la Administración del Patrimonio de la Beneficencia Pública Estatal;
+VI. Formular y someter a la aprobación de la Junta de Gobierno, por conducto del Director General, los proyectos de inversión de la Administración del Patrimonio de la Unidad de la Beneficencia Pública;
 
-VII. Promover y gestionar la enajenación de bienes pertenecientes a la Beneficencia Pública Estatal, que no sean necesarios para el cumplimiento de sus fines;
+VII. Promover y gestionar la enajenación de bienes pertenecientes a la Unidad de la Beneficencia Pública que no sean necesarios para el cumplimiento de sus fines;
 
-VIII. El patrimonio que corresponda a la Beneficencia Pública Estatal, será administrado de forma independiente al del Organismo y se integrará por:
+VIII. El Patrimonio que corresponda a la Unidad de la Beneficencia Pública, será administrado de forma independiente al del Organismo y se integrará por:
 
-a). El 10% de las cuotas de recuperación captadas por el Organismo;
+a). EL 10% de las cuotas de recuperación captadas por el Organismo;
 
-b) Los donativos que reciba;
+b). Los Donativos que reciba;
 
-c) Los bienes provenientes de herencias, legados y adjudicaciones;
+c). Los bienes provenientes de herencias, legados y adjudicaciones;
 
-d) Los rendimientos financieros que le correspondan;
+d). Los rendimientos financieros que le correspondan, y
 
-e) Los que reciba por cualquier otro título;
+e). Los que reciba por cualquier otro título.
 
-IX. La Unidad de la Beneficencia Pública Estatal contará con un Patronato, cuyo objetivo será obtener recursos para incrementar su patrimonio y contribuir a sus gastos de operación y al sostenimiento de los programas asistenciales;
+IX. La Unidad de la Beneficencia Pública contará con un Patronato, cuyo objetivo será obtener recursos para incrementar su patrimonio y contribuir a sus gastos de operación y al sostenimiento de los programas asistenciales;
 
-X. El Patronato de la Beneficencia Pública Estatal estará integrado por un Comité conformado por un Presidente, un Secretario, un Tesorero y dos Vocales con carácter honorífico, designados por invitación del Secretario de Salud;
+X. El Patronato de la Unidad de la Beneficencia Pública, estará integrado por un Comité conformado por un presidente, un secretario, un tesorero y dos vocales con carácter honorífico, designados por invitación de la persona titular de la Secretaría de Salud;
 
-XI. De los recursos obtenidos por el Patronato este retendrá únicamente el 5% para pagar sus gastos administrativos y el 95% restante será entregado como donativo a la Beneficencia Pública Estatal;
+XI. De los recursos obtenidos por el Patronato, éste retendrá únicamente el 5%, para pagar sus gastos administrativos y el 95% restante será entregado como donativo a la Unidad de la Beneficencia Pública;
 
-XII. El Patronato informará mensualmente a la Beneficencia Pública Estatal y anualmente a la Junta de Gobierno sobre los eventos y recursos obtenidos, y
+XII. El Patronato informará mensualmente a la Unidad de la Beneficencia Pública y anualmente a la Junta de Gobierno del Organismo sobre los eventos y recursos obtenidos, y
 
-XIII. Las demás que le otorguen las disposiciones legales aplicables.
+XIII. Las demás que le otorguen otras disposiciones legales aplicables.
 
-El Comisario Público de la Secretaría de la Contraloría Estatal adscrito a los Servicios de Salud, podrá auditar por sí misma o por profesionales en la materia al Patronato en cualquier tiempo.
+El Comisario Público de la Secretaría de la Contraloría adscrito al Organismo, podrá auditar por sí o a través (sic) profesionales en la materia al Patronato, en cualquier tiempo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
 
@@ -609,7 +611,7 @@ IX.- Impulsar la organización y participación de los municipios y localidades 
 
 X.- Establecer el sistema de información y elaborar informes bimestrales y trimestrales sobre el avance y resultados del componente de salud y alimentación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 25.
 
@@ -617,15 +619,13 @@ La Subdirección Jurídica tendrá a su cargo las atribuciones específicas sigu
 
 I.- Representar al Organismo Público Descentralizado y a sus servidores públicos cuando sean parte en juicios y en todo procedimiento judicial, por actos derivados del servicio, de conformidad con la legislación aplicable;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+II. Revisar las bases y requisitos legales a que deben sujetarse los acuerdos, bases de coordinación, concesiones, autorizaciones, adquisiciones o permisos que realice o expida el organismo, así como revisar y validar los contratos y convenios;
 
-II.- Revisar las bases y requisitos legales a que deben sujetarse los acuerdos; bases de coordinación, concesiones, autorizaciones, adquisiciones o permisos que realice o expida el organismo, así como revisar y validar los contratos y convenios;
-
-III.- Analizar y proponer los anteproyectos de Leyes, Reglamentos, Decretos, Acuerdos, Ordenes, Circulares y demás Ordenamiento Jurídicos en materia de Salud, emitidos por Autoridades Estatales, examinar y remitir los documentos que vayan a publicarse en el Periódico Oficial, así como difundir la información e interpretación que se refiere a las disposiciones Legales que afecten al Organismo;
+III.- Analizar y proponer a la Consejería Jurídica para su revisión, validación o rubrica en su caso, los anteproyectos de Leyes, Reglamentos, Decretos, Acuerdos, Ordenes, Circulares y demás ordenamientos jurídicos en materia de Salud emitidos por las Autoridades Estatales, que deban publicarse en el Periódico Oficial; así como difundir la interpretación de las disposiciones legales que afecten al Organismo;
 
 IV.- Revisar la información relativa a los nombramientos de los servidores públicos que representan al Organismo en órganos colegiados y comisiones locales que funcionen en la Entidad;
 
-V.- Certificar las constancias que obren en los archivos del Organismo para ser exhibidos ante las Autoridades Judiciales, Administrativas o del Trabajo, y en general, para cualquier trámite, juicio, procedimiento, proceso o averiguación;
+V.- Certificar las constancias originales que obren en los archivos del Organismo para ser exhibidos ante las autoridades judiciales, administrativas o del trabajo, y en general, para cualquier trámite, juicio, procedimiento, proceso o averiguación;
 
 VI.- Dictaminar en definitiva las actas administrativas que se levanten a los trabajadores del Organismo por violación a las disposiciones laborales aplicables, así como reconsiderar, en su caso, los dictámenes de cese que hubiere emitido;
 
@@ -633,63 +633,27 @@ VII.- Coadyuvar con la Procuraduría General de Justicia en el Estado, en la int
 
 VIII.- Difundir e implementar las normas y políticas para regular la administración en los aspectos básicos y complementarios, con referencia a prestaciones, derechos, obligaciones y estímulos laborales, de los recursos humanos;
 
-IX.- Participar en la propuesta de reestructuración y actualización del Reglamento Interno del Organismo, así como contribuir en la revisión de acuerdos, convenios, leyes y decretos relacionados con la esfera de su competencia y apoyar en la elaboración, difusión y actualización de los manuales de organización, procedimientos y servicios al público;
+IX.- Participar en la propuesta de reforma y armonización del Reglamento Interno del Organismo, así como contribuir en la revisión de acuerdos, convenios, leyes y decretos relacionados con la esfera de su competencia y apoyar en la elaboración, difusión y actualización de los manuales de organización, procedimientos y servicios al público;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+X. Coadyuvar en los procesos de regularización, de los inmuebles que estén destinados al Organismo y que por cualquier titulo tenga a su servicio;
 
-X.- Coadyuvar en los procesos de regularización, respecto de los inmuebles que estén destinados al Organismo, que por cualquier título tenga a su servicio;
+XI. Proporcionar a la Comisaría Pública del Organismo, la documentación e información que solicite con motivo de auditorías, supervisiones y revisiones, que lleve a cabo,
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+XII. Recibir, resguardar y, en su caso, destruir los estupefacientes y psicotrópicos remitidos por las autoridades judiciales al Organismo en su calidad de autoridad sanitaria en el Estado, y
 
-XI.- Proporcionar a la Comisaría la Documentación e información que solicite con motivo de auditorías, supervisiones revisiones, entre otras, y
+XIII. Las demás que le confieran las disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2012)</small>
-
-XII.- Recibir, resguardar y, en su caso, destruir los estupefacientes y psicotrópicos remitidos por las autoridades judiciales al Organismo en su calidad de autoridad sanitaria en el Estado.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 26.
 
-El Órgano de vigilancia y Control del Organismo, denominado "Comisaría de la Contraloría en los Servicios de Salud de Morelos", se integra por un Comisario Público propietario y un suplente, designados por la Contraloría General del Estado.
+El órgano de vigilancia y control del Organismo, es Comisaría Pública y se integra por un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría del Poder Ejecutivo Estatal.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 27.
 
-El Comisario tendrá las siguientes facultades y atribuciones:
-
-I.- Representar a la Contraloría General del Estado ante el mas alto nivel del Organismo;
-
-II.- Practicar a las direcciones, hospitales, jurisdicciones y organismos auxiliares, las auditorías y revisiones de cualquier naturaleza con el alcance que se requiera y verificar a través de ellas, el cumplimiento de las disposiciones legales; la información operativa, financiera y contable; la eficiencia en el uso de los recursos asignados; vigilar y evaluar el sistema de control de los activos; el adecuado ejercicio presupuestario y el cumplimiento de las metas y programas comprometidos; recomendar a los titulares de las unidades, la adopción de acciones correctivas que sean necesarias como resultado de las revisiones practicadas; así como, llevar a cabo el seguimiento a las mismas;
-
-III.- Denunciar a la Contraloría General del Estado y a la autoridad competente los hechos que impliquen responsabilidad;
-
-IV.- Vigilar el cumplimiento de las disposiciones reglamentarias, normativas y de política global y sectorial que emitan los Gobiernos Federal y Estatal;
-
-V.- Informar periódicamente a la Contraloría General del Estado y al Director General del Organismo, de los programas y actividades de la comisaría; así como, del resultado de las revisiones practicadas y, en su caso, de las acciones correctivas adoptadas;
-
-VI.- Recibir, atender e investigar las quejas y denuncias que se presenten en contra de los servidores públicos que laboran en el organismo, actuando conforme a lo estipulado en la Ley Federal de Responsabilidades de los Servidores Públicos, así como, la del Estado de Morelos, previo conocimiento de la Dirección General, para su resolución, o si el caso lo amerita, turnarlo a la Contraloría General del Estado o autoridad competente, para su análisis o deslinde de responsabilidades que correspondan;
-
-VII.- Intervenir en el proceso de entrega - recepción de los servidores públicos de mandos medios y superiores del organismo;
-
-VIII.- Ser el conducto para vigilar la aplicación y cumplimiento de las sanciones o decisiones que dicte la Secretaría de la Contraloría y Desarrollo Administrativo, la Contraloría General del Estado o los titulares de las Dependencias del Ejecutivo, según sea el caso, a los servidores públicos adscritos al organismo;
-
-IX.- Vigilar el estricto cumplimiento de las disposiciones legales en materia de adquisiciones, arrendamientos, servicios y obra pública;
-
-X.- Participar en la elaboración y ejecución de convenios que se celebren con la federación, los ayuntamientos y demás órganos de gobierno;
-
-XI.- Vigilar la compatibilidad de funciones de los servidores públicos que laboren en el Organismo;
-
-XII.- Mantener actualizada la normatividad, procedimientos y metodología que regulen el funcionamiento de la comisaría e incorporarla a los instrumentos de evaluación;
-
-XIII.- Verificar que se dé cumplimiento a la obligatoriedad de realizar la declaración de situación patrimonial a los funcionarios que les competa, por inicio y/o término del cargo; así como, la declaración anual;
-
-XIV.- Asesorar y/o apoyar a la Dirección General del Organismo en las funciones encomendadas;
-
-XV.- Proponer programas de mejoramiento de la gestión pública al Titular de la Contraloría General del Estado, o en su caso, al Director General del Organismo;
-
-XVI.- Asistir a las sesiones de la Junta de Gobierno, con voz, pero sin voto;
-
-XVII.- Presentar su opinión sobre los informes que rinda el Director General ante la Junta de Gobierno;
-
-XVIII.- Las demás que le confieran las disposiciones jurídicas o le encomiende, en su caso, el Contralor General del Estado.
+El Comisario Público, tendrá las facultades y atribuciones de acuerdo a la Ley Orgánica de la Administración Pública del Estado de Morelos, el Reglamento Interior de la Secretaría de la Contraloría, y demás normatividad aplicable en la materia.
 
 ###### Artículo 28.
 
@@ -725,133 +689,131 @@ XIV.- Representar al Organismo cuando así lo disponga el Director General;
 
 XV.- Coordinar, previo acuerdo del Director General, las actividades que la Dirección a su cargo realice con las otras Direcciones del Organismo, para el mejor desempeño de sus funciones;
 
-XVI.- Proporcionar a la comisaría del Organismo la documentación e información que solicite con motivo de auditorías, supervisiones, revisiones, entre otras, y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XVI.- Proporcionar a la Comisaría Pública del Organismo la documentación e información que solicite con motivo de auditorías, supervisiones y revisiones que lleve a cabo, y
 
 XVII.- Las demás atribuciones que les confieran las disposiciones legales aplicables y el Director General del Organismo.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 29.
 
 La Dirección de Servicios de Salud a la Persona tendrá las atribuciones específicas siguientes:
 
-I. Coordinar el proceso de planeación, programación, presupuestación y evaluación del área de servicios médicos, proponiendo las metas para el cumplimiento de los objetivos federales y estatales establecidos en el Programa Nacional de Salud 2007-2012, el Modelo de Atención a la Salud, la Ley de Salud del Estado de Morelos, el Catálogo Universal de Servicios de Salud, el Diagnostico Estatal de Salud y demás normatividad aplicable;
+I.- Coordinar el proceso de planeación, programación, presupuestación y evaluación del área de servicios médicos, proponiendo las metas para el cumplimiento de los objetivos federales y estatales establecidos en el Programa Nacional de Salud vigente, el Modelo de Atención a la Salud, la Ley de Salud del Estado de Morelos, el Catálogo Universal de Servicios de Salud, el Diagnostico Estatal de Salud y demás normatividad aplicable;
 
 II. Diseñar, implementar, operar, supervisar y evaluar el Modelo Estatal de Atención a la Salud, estableciendo los procesos de mejora de la calidad, eficiencia y oportunidad;
 
-III. Organizar, coordinar, supervisar y controlar la prestación de servicios de atención médica en las unidades administrativas de Primero y Segundo Nivel de Atención, así como conducir el sistema de referencia y contra-referencia correspondiente;
+III.- Organizar, coordinar, supervisar y controlar la prestación de servicios de atención médica en las unidades hospitalarias de Primero y Segundo Nivel de Atención, así como conducir el sistema de referencia y contra-referencia con un enfoque de calidad total;
 
-IV. Coordinar, instrumentar, supervisar, evaluar y proponer, en su caso, los programas estatales de salud en materia de salud reproductiva y planificación familiar;
+IV.- Vigilar y evaluar los avances en materia de ampliación de cobertura en la prestación de los servicios de salud estatales;
 
-V. Vigilar y evaluar los avances en materia de ampliación de cobertura en la prestación de los servicios de salud estatales;
+V. Administrar los campos clínicos para prácticas, ciclos básicos, ciclos clínicos, internado médico y servicio social de estudiantes, profesionales y de residencias médicas, en coordinación con las instituciones del sector salud, educativo y de las unidades responsables en la Entidad, de acuerdo con las normas, políticas y estrategias aplicables a la salubridad y a la educación media superior, superior y postgrado, así como coordinar los intercambios académicos de recursos humanos en formación nacional e, internacional;
 
-VI. Evaluar los campos clínicos de internado médico y servicio social de estudiantes, profesionales y de residencias médicas, en coordinación con las instituciones del sector salud y de las unidades responsables en la Entidad, de acuerdo con las normas, políticas y estrategias aplicables a la salubridad y a la educación media superior;
+VI.- Proponer las políticas y estrategias para los programas de investigación y capacitación del Organismo, acordes a las necesidades estatales para la formulación y regulación de planes y programas académicos para la formación de recursos humanos en salud, en coordinación con las autoridades e instituciones de salud y educativas de la Entidad, conforme a las normas, políticas y estrategias aplicables a la salubridad general y educación media superior, superior y postgrado, estableciendo y coordinando el Comité Estatal Interinstitucional para Formación de Recursos Humanos para la Salud;
 
-VII. Proponer las políticas y estrategias para la formulación de los planes y programas académicos de investigación, capacitación y adiestramiento en salud, en coordinación con las autoridades e instituciones educativas de la Entidad, conforme a las normas, políticas y estrategias aplicables a la salubridad general y educación media superior, estableciendo y coordinando el Comité Estatal Interinstitucional para Formación de Recursos Humanos para la Salud;
+VII.- Establecer, operar, controlar y evaluar conforme a las normas, políticas y estrategias del Sistema Nacional de Salud y las inherentes a la educación media superior, superior y posgrado, los recursos presupuestales y materiales destinados a la actualización del cuadro básico del acervo para bibliotecas, material didáctico, becas para los recursos humanos en formación, internos de pregrado, médicos en servicio social y residentes, así como lo correspondiente al pago de transportación, alojamiento, alimentación y vestuario correspondiente;
 
-VIII. Establecer, operar, controlar y evaluar conforme a las normas, políticas y estrategias del Sistema Nacional de Salud y las inherentes a la educación media superior y superior, los recursos presupuestales y materiales destinados a la actualización del cuadro básico del acervo para bibliotecas, material impreso, becas para técnicos, internos de pregrado, médicos en servicio social y residentes, así como lo correspondiente al pago de transportación, alojamiento, alimentación y vestuario correspondiente;
+VIII.- Coordinar el desarrollo, instrumentación, supervisión y evaluación de los programas y actividades de capacitación del personal del Organismo, adiestramiento y de servicio social del personal de salud, así como operar el Sistema de Educación Continua Estatal, en coordinación con la Secretaría de Salud del Poder Ejecutivo Estatal;
 
-IX. Coordinar el desarrollo, instrumentación, supervisión y evaluación de los programas y actividades de capacitación, adiestramiento y de servicio social del personal de salud, así como operar el Sistema de Educación Continua Estatal, en coordinación con la Secretaria de Salud del Estado;
+IX.- Establecer y mantener actualizado el inventario de investigaciones en salud que se realicen en la Entidad, y vigilar que cumplan con las disposiciones en materia de salubridad general, y
 
-X. Establecer y mantener actualizado el inventario de investigaciones en salud que se realicen en la Entidad, y que cumplan con las disposiciones en materia de salubridad general, y
+X.- Vigilar el cumplimiento de las normas de enseñanza en salud de la Entidad, conforme a las disposiciones aplicables, e informar regularmente a la Secretaría de Salud del Poder Ejecutivo Estatal.
 
-XI. Vigilar el cumplimiento de las normas de enseñanza en salud de la Entidad, conforme a las disposiciones aplicables, e informar regularmente a la Secretaría de Salud del Estado.
-
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 29 Bis.
 
 La Dirección de Servicios de Salud a la Comunidad tendrá las atribuciones específicas siguientes:
 
-I. Coordinar, instrumentar, supervisar, evaluar y proponer, en su caso, los programas estatales de salud de los Departamentos de Epidemiología, Promoción de la Salud, y Prevención y Control de Enfermedades, conforme a las normas, políticas y estrategias de la Secretaria de Salud, procurando la participación de los sectores público, social y privado;
+I.- Coordinar, instrumentar, supervisar, evaluar y proponer, en su caso, los programas estatales de salud de los Departamentos de Epidemiología, Promoción de la Salud, y Prevención y Control de Enfermedades y de Salud Reproductiva, conforme a las normas, políticas y estrategias de la Secretaría de Salud del Poder Ejecutivo Estatal, procurando la participación de los sectores público, social y privado;
 
-II. Vigilar y controlar la correcta aplicación del presupuesto, en coordinación directa con la Dirección de Administración, las jefaturas de departamento y los jefes de programa de esta Dirección;
+II.- Vigilar y controlar la correcta aplicación del presupuesto, en coordinación directa con la Dirección de Administración, las jefaturas de departamento y los jefes de programa de la Dirección;
 
-III. Cumplir y hacer cumplir las políticas que en materia de salud emanen de la Dirección General de los Servicios de Salud;
+III.- Cumplir y hacer cumplir las políticas que, en materia de salud, emanen de la Dirección General de los Servicios de Salud;
 
-IV. Diseñar y establecer las estrategias necesarias para dar cumplimiento a objetivos y metas plasmados en planes, proyectos y programas, tanto federales como estatales;
+IV.- Diseñar y establecer las estrategias necesarias para dar cumplimiento a objetivos y metas plasmados en planes, proyectos y programas, tanto Federales como estatales;
 
-V. Vigilar y conocer el panorama epidemiológico de la Entidad, propiciando la participación sectorial para la recopilación oportuna de la información, su procesamiento, análisis y difusión, a fin de contribuir a una acertada toma de decisiones, regulando y controlando los sistemas de información establecidos a nivel federal;
+V.- Vigilar y conocer el panorama epidemiológico de la Entidad, propiciando la participación sectorial para la recopilación oportuna de la información, su procesamiento, análisis y difusión, a fin de contribuir a una acertada toma de decisiones, regulando y controlando los sistemas de información establecidos a nivel Federal;
 
-VI. Difundir con oportunidad, cantidad, veracidad y pertinencia la información necesaria para la toma de decisiones, así como a la comunidad en su conjunto, con el fin de mantener una vigilancia permanente y plural del panorama epidemiológico para actuar en consecuencia;
+VI.- Difundir con oportunidad, cantidad, veracidad y pertinencia la información necesaria para la toma de decisiones, así como a la comunidad en su conjunto, con el fin de mantener una vigilancia permanente y plural del panorama epidemiológico para actuar en consecuencia;
 
-VII. Establecer y difundir la información necesaria y requerida por la ley para garantizar la transparencia en el quehacer de la Dirección, en apego a las directrices del marco jurídico en la materia;
+VII.- Establecer y difundir la información necesaria y requerida por la ley para garantizar la transparencia en el quehacer de la Dirección, en apego a las directrices del marco jurídico en la materia;
 
-VIII. Mantener y propiciar la comunicación constante con las áreas internas de los servicios de salud, aprovechando los recursos informáticos y habituales, a fin de lograr su intervención conjunta y oportuna ante situaciones de riesgo epidemiológico, especialmente con la Comisión para la Protección contra Riesgos Sanitarios del Estado de Morelos;
+VIII.- Mantener y propiciar la comunicación constante con las áreas internas del Organismo, aprovechando los recursos informáticos y habituales, a fin de lograr su intervención conjunta y oportuna ante situaciones de riesgo epidemiológico, especialmente con la Comisión para la Protección contra Riesgos Sanitarios del Estado de Morelos;
 
-IX. Gestionar y proponer el fortalecimiento de las redes informáticas institucionales, con el fin de propiciar un manejo integral de la información con oportunidad, calidad y suficiencia;
+IX.- Elaborar propuestas de modificación del marco jurídico que rige al Organismo, y una vez aprobadas, previo trámite correspondiente ante las autoridades competentes, difundirlo entre el personal de las áreas que integran la Dirección;
 
-X. Actualizar el marco jurídico y difundirlo entre el personal de las áreas que integran la Dirección;
+X.- Generar instancias, espacios y alternativas para la actualización, capacitación y desempeño de su personal;
 
-XI. Cumplir y hacer cumplir las Condiciones Generales de Trabajo entre el personal que tenga adscrito;
+XI. Coordinar las estrategias orientadas a generar, motivar y desarrollar la participación de la comunidad en el autocuidado de su salud;
 
-XII. Generar instancias, espacios y alternativas para la actualización, capacitación y desempeño del su personal;
+XII.- Motivar, instruir y capacitar a las autoridades Municipales que lo soliciten, en materia de salud pública, a fin de que contribuyan de manera eficaz, eficiente y efectiva en el control del panorama epidemiológico del Municipio bajo su responsabilidad, con apego a la normatividad en la materia y a la propia convicción de su responsabilidad;
 
-XIII. Coordinar las estrategias orientadas a generar, motivar y desarrollar la participación de la comunidad en el autocuidado de su salud;
+XIII.- Mantener coordinación intersectorial permanente para coadyuvar en la participación plural en materia de prevención y promoción de la salud, enfatizando la coparticipación de las instancias homologas de educación, con el fin de contribuir a la modificación y mejora de los estilos de vida entre las nuevas generaciones de la Entidad;
 
-XIV. Motivar, instruir y capacitar a las autoridades municipales que lo soliciten, en materia de salud pública, a fin de que contribuyan de manera eficaz, eficiente y efectiva en el control del panorama epidemiológico del municipio bajo su responsabilidad, con apego a la normatividad en la materia y a la propia convicción de su responsabilidad;
+XIV. Solicitar, gestionar, aplicar y vigilar los apoyos y recursos necesarios para desarrollar en la Entidad las estrategias emanadas del Modelo de Promoción de la Salud (MOPS), con el fin de privilegiar la prevención, generando estilos de vida saludables que contribuyan a mejorar la calidad de vida de la población;
 
-XV. Mantener coordinación intersectorial permanente para coadyuvar en la participación plural en materia de prevención y promoción de la salud, enfatizando la coparticipación de las instancias homologas de educación, con el fin de contribuir a la modificación y mejora de los estilos de vida entre las nuevas generaciones de la Entidad;
+XV. Promover la adopción de estilos de vida saludables, orientando las acciones inherentes a los adultos y adultos mayores por medio de los grupos de ayuda mutua, a la infancia y adolescencia;
 
-XVI. Solicitar, gestionar, aplicar y vigilar los apoyos y recursos necesarios para desarrollar en la Entidad las estrategias emanadas del Modelo de Promoción de la Salud (MOPS), con el fin de privilegiar la prevención, generando estilos de vida saludables que contribuyan a mejora (sic) la calidad de vida de la población;
+XVI. Evaluar los resultados integrales de los programas de la Dirección, emitir los informes correspondientes a la autoridad, y proponer estrategias para alcanzar las metas establecidas;
 
-XVII. Promover la adopción de estilos de vida saludables, orientando las acciones inherentes a los adultos y adultos mayores por medio de los grupos de ayuda mutua, a la infancia y adolescencia;
+XVII. Promover y organizar la integración de comités y subcomités locales en favor de la salud dentro de los Comités de Planeación y Desarrollo Municipal;
 
-XVIII. Evaluar los resultados integrales de los programas de la Dirección, emitir los informes correspondientes a la autoridad, y proponer estrategias para alcanzar las metas establecidas;
+XVIII. Orientar el diseño, instrumentación, operación y evaluación del sistema estatal de vigilancia epidemiológica y realizar las actividades de sanidad internacional, cuando exista este servicio en la Entidad, vigilando el cumplimiento de las disposiciones respectivas;
 
-XIX. Promover y organizar la integración de comités y subcomités locales en favor de la salud dentro de los Comités de Planeación y Desarrollo Municipal (COPLADEMUN);
+XIX. Orientar el diseño, instrumentación, operación y evaluación del Sistema Único de Información para la Vigilancia Epidemiológica "(SUIVE)", y el Sistema Único Automatizado para la Vigilancia Epidemiológica "(SUAVE)", con la participación de los sectores público, social y privado;
 
-XX. Orientar el diseño, instrumentación, operación y evaluación del sistema estatal de vigilancia epidemiológica y realizar las actividades de sanidad internacional, cuando exista este servicio en la Entidad, vigilando el cumplimiento de las disposiciones respectivas;
+XX. Atender las emergencias epidemiológicas y los desastres o situaciones de riesgo que se presenten en la Entidad, en coordinación con las autoridades de Protección Civil Estatales, coordinando las brigadas al efecto y sin perjuicio de las atribuciones de competencia Federal previstas en los artículos 181 al 184 de la Ley General de Salud;
 
-XXI. Coordinar el Centro Estatal de Vigilancia Epidemiológica, así como orientar el diseño, instrumentación, operación y evaluación de los Sistemas de Información para la Vigilancia Epidemiológica “SUIVE”, y el Automatizado para la Vigilancia Epidemiológica “SUAVE”, con la participación de los sectores publico, social y privado;
+XXI. Implementar estrategias en materia de prevención y control de enfermedades así como de promoción de la salud en base a la información difundida a través del Sistema de Encuestas Nacionales de Salud y Desarrollo, así como de encuestas Estatales de salud conforme a los recursos a su alcance;
 
-XXII. Atender y controlar las emergencias epidemiológicas y los desastres o situaciones de riesgo que se presenten en la Entidad, en coordinación con las autoridades de protección civil estatales, coordinando las brigadas al efecto y sin perjuicio de las atribuciones de competencia federal previstas en los artículos 181 al 184 de la Ley General de Salud;
+XXII. Dirigir las acciones de los sectores público, social y privado para prevenir y combatir los problemas de salud pública;
 
-XXIII. Participar en la operación del Sistema de Encuestas Nacionales de Salud y Desarrollo, conforme a las normas de carácter federal, así como de encuestas estatales de salud que correspondan a las necesidades de la Entidad, en concordancia con los recursos a su alcance;
+XXIII. Planear y evaluar las actividades de los consejos y de los comités inscritos en su campo de acción, en coordinación, en su caso, con la Subsecretaría de Coordinación Sectorial y demás instancias involucradas, y
 
-XXIV. Dirigir y consolidar las acciones de los sectores público, social y privado para prevenir y combatir los problemas de salud pública, y
+XXIV. Coordinar, instrumentar, supervisar, evaluar y proponer, en su caso, los programas Estatales preventivos de salud en materia de salud reproductiva y planificación familiar, así como las acciones que en materia de atención a la persona en unidades de primero y segundo nivel se relacionen con los programas de dicho departamento.
 
-XXV. Planear y evaluar las actividades de los Consejos, Estatal de Prevención de VIH /SIDA (COESIDA), Contra las Adicciones (CECA) y de los comités inscritos en su campo de acción, en coordinación, en su caso, con la Subsecretaría de Coordinación Sectorial y demás instancias involucradas.
-
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 30.
 
-La Comisión para la Protección contra Riesgos Sanitarios del Estado de Morelos, tendrá como objeto el ejercicio de las atribuciones en materia de Regulación, Control y Fomento Sanitario que corresponden al organismo público descentralizado denominado “Servicios de Salud de Morelos”, para lo cual contará con autonomía técnica y operativa. Para el cumplimiento de su objeto, la Comisión para la Protección contra Riesgos Sanitarios del Estado de Morelos, en adelante la COPRISEM, tendrá a su cargo las siguientes atribuciones:
+La Comisión para la Protección contra Riesgos Sanitarios del Estado de Morelos, tendrá como objeto el ejercicio de las atribuciones que en materia de regulación, control y fomento sanitario corresponden al Organismo, para lo cual contará con autonomía técnica y operativa. Para el cumplimiento de su objeto, la Comisión para la Protección contra Riesgos Sanitarios del Estado de Morelos, en adelante la COPRISEM, tendrá a su cargo las siguientes atribuciones:
 
-I. Ejercer el control, y fomento sanitario de los productos, actividades, establecimientos y servicios, en términos de las disposiciones previstas en la Ley General de Salud, Ley de Salud del Estado de Morelos y demás disposiciones legales aplicables;
+I. Ejercer el control y fomento sanitario de los productos, actividades, establecimientos y servicios, en términos de las disposiciones previstas en la Ley General de Salud, Ley de Salud del Estado de Morelos y demás disposiciones legales aplicables;
 
 II. Conducir el Sistema Estatal de Protección contra Riesgos Sanitarios;
 
-III. Coordinar la integración de los diagnósticos situacionales en materia de control y fomento sanitario en la prevención de riesgos sanitarios;
+III. Coordinar la integración de los diagnósticos situacionales del Sistema Estatal de Protección contra Riesgos Sanitarios en materia de control y fomento en la prevención de riesgos sanitarios;
 
-IV. Vigilar el cumplimiento de las normas oficiales mexicanas relativas a los productos, actividades, servicios y establecimientos;
+IV. Vigilar el cumplimiento de la legislación sanitaria vigente y demás disposiciones legales aplicables relativas a los productos, actividades, servicios y establecimientos;
 
 V. Identificar, analizar, evaluar, regular, controlar, fomentar y difundir las condiciones y requisitos para la prevención y manejo de riesgos sanitarios;
 
 VI. Conducir, en los ordenamientos legales aplicables en la materia, la elaboración de las disposiciones para aplicar adecuadamente la regulación, el control y el fomento sanitario a nivel estatal;
 
-VII. Evaluar, expedir o revocar las autorizaciones que, en materia de su competencia, se requieran, así como aquellos actos de autoridad que para el control y el fomento sanitario se establecen o deriven de la Ley General de Salud y sus Reglamentos; de la Ley de Salud del Estado de Morelos, de las normas oficiales mexicanas y demás ordenamientos aplicables;
+VII. Evaluar, expedir o revocar las autorizaciones que, en materia de su competencia, se requieran, así como aquellos actos de autoridad que para el control y el fomento sanitario se establecen o deriven de la Ley General de Salud y sus Reglamentos; de la Ley de Salud del Estado de Morelos, de las Normas Oficiales Mexicanas y demás ordenamientos aplicables;
 
 VIII. Expedir certificados de condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionados con la materia de su competencia;
 
-IX. Imponer sanciones y aplicar medidas de seguridad preventivas o correctivas, según sea el caso;
+IX. Imponer sanciones y aplicar medidas de seguridad, preventivas o correctivas, según sea el caso conforme a la normatividad aplicable;
 
 X. Efectuar la identificación, el análisis de evaluación, el control, el fomento y la difusión de riesgos sanitarios, en las materias de su competencia;
 
-XI. Establecer estrategias de investigación, evaluación y seguimiento de riesgos sanitarios, en coordinación con otras autoridades competentes de la Administración Pública Federal y Estatal;
+XI. Establecer estrategias de investigación, evaluación y seguimiento de riesgos sanitarios, en coordinación con otras autoridades competentes de la Administración Pública Federal, Estatal y Municipal;
 
 XII. Establecer y ejecutar acciones de control, regulación y fomento sanitario, a fin de prevenir y reducir los riesgos sanitarios derivados por la exposición de la población a factores químicos, físicos y biológicos en términos del acuerdo específico;
 
-XIII. Establecer y ejecutar acciones de regulación sanitaria en materia de salubridad local en el ámbito de su competencia previstas en la Ley de Salud del Estado de Morelos;
+XIII. Realizar acciones de regulación, control y fomento sanitario en materia de salubridad local, en el ámbito de su competencia, previstas en la Ley de Salud del Estado de Morelos;
 
-XIV. Participar, en coordinación con las demás unidades administrativas de los Servicios de Salud de Morelos, en la instrumentación de las acciones de prevención y control de enfermedades así como vigilancia, en el ámbito de competencia de la COPRISEM;
+XIV. Participar con las demás unidades administrativas del Organismo, en la instrumentación de las acciones de prevención y control de enfermedades así como vigilancia, en el ámbito de su competencia;
 
-XV. Establecer los mecanismos de supervisión y comunicación con las Coordinaciones Regionales de Protección Sanitaria en los ámbitos de sus respectivas competencias;
+XV. Contar con mecanismos de supervisión y comunicación con las diferentes áreas administrativas que la conforman;
 
-XVI. Planear, organizar, dirigir y controlar los recursos humanos, materiales y financieros asignados a la COPRISEM, de acuerdo con las políticas y lineamientos emitidos por los Servicios de Salud de Morelos;
+XVI. Planear, organizar, dirigir y controlar los recursos humanos, materiales y financieros asignados a la COPRISEM, de acuerdo con las políticas y lineamientos emitidos por el Organismo;
 
-XVII. Formular el programa operativo anual de la COPRISEM, así como ejercer y controlar el presupuesto autorizado;
+XVII. Formular el Programa Operativo Anual de la COPRISEM, así como ejercer y controlar el presupuesto autorizado;
 
 XVIII. Administrar, controlar e informar los ingresos por cuotas de recuperación u otras formas de contraprestación de servicios que se recaben en las áreas de la COPRISEM;
 
@@ -861,15 +823,13 @@ XX. Administrar, controlar e informar los ingresos por el pago de derechos que s
 
 XXI. Administrar los recursos para el financiamiento de la COPRISEM que se aprueben dentro del presupuesto de egresos de la Dependencia, así como los que la Federación le aporte en términos del Acuerdo Específico;
 
-XXII. Vigilar que los ingresos que la COPRISEM obtenga por concepto de donativos nacionales, estatales y municipales, derechos, aprovechamientos y otros de carácter excepcional sean destinados a su gasto de operación;
+XXII. Vigilar que los ingresos que la COPRISEM obtenga por concepto de donativos Nacionales, Estatales y Municipales, derechos, aprovechamientos y otros de carácter excepcional sean destinados a su gasto de operación;
 
-XXIII. (DEROGADA, P.O. 9 DE MAYO DE 2012)
+XXIII. Dirigir los sistemas de información sanitaria en materia de protección contra riesgos sanitarios;
 
-XXIV. Dirigir los sistemas de información sanitaria en materia de protección contra riesgos sanitarios;
+XXIV. Conformar y difundir la información relativa a lineamientos y disposiciones sanitarias publicadas en el Diario Oficial de la Federación y el Periódico Oficial del Estado, y
 
-XXV. Conformar y difundir la información relativa a lineamientos y disposiciones sanitarias publicadas en el Diario Oficial de la Federación y el Periódico Oficial del Estado; y
-
-XXVI. Las demás que le sean encomendadas por la Dirección General.
+XXV. Las demás que le sean encomendadas por la Dirección General en el ámbito de su competencia.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
@@ -879,7 +839,9 @@ Al frente de la COPRISEM, estará un Comisionado el cual será designado y remov
 
 El Comisionado deberá reunir los siguientes requisitos:
 
-I. Contar con título profesional y experiencia de por lo menos cinco años en áreas relacionadas con el ámbito de competencia de la COPRISEM; y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+I.- Contar con título, cédula profesional y experiencia de por lo menos cinco años en áreas relacionadas con el ámbito de competencia de la COPRISEM, y
 
 II. No haber sido sentenciado por delito doloso sancionado con pena privativa de libertad por más de un año, o haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
 
@@ -931,71 +893,71 @@ Para efectos del presente acuerdo el Estado se sectoriza de la siguiente forma:
 
 Región l: Coatlán del Río, Cuernavaca, Emiliano Zapata, Huitzilac, Jiutepec, Mazatepec, Miacatlán, Temixco, Tepoztlán, Tetecala y Xochitepec, con sede en Cuernavaca.
 
-Región ll: Amacuzac, Jojutla, Puente de Ixtla, Tlaquiltenango, Tlaltizapán y Zacatepec, con sede en Zacatepec.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+Región ll: Amacuzac, Jojutla, Puente de Ixtla, Tlaquiltenango, Tlaltizapán de Zapata y Zacatepec, con sede en Jojutla.
 
 Región lll: Cuautla, Ocuituco, Yautepec, Tlalneplantla, Tetela del Volcán, Yecapixtla, Axochiapan, Ayala, Atlatlahucan, Jantetelco, Jonacatepec, Temoac, Tepalcingo, Tlayacapan, Totolapan, y Zacualpan, con sede en Cuautla.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 30 Bis 2.
 
 Son atribuciones del Comisionado:
 
-I. Acordar con el titular de la Secretaría y del Organismo Público Descentralizado denominado “Servicios de Salud de Morelos”, el despacho de los asuntos a su cargo y los de las áreas adscritas a la COPRISEM;
+I.- Acordar con el titular de la Secretaría y con el Director General del Organismo, el despacho de los asuntos a su cargo y los de las áreas adscritas a la COPRISEM;
 
-II. Ejercer el control sanitario de las actividades, establecimientos, productos y servicios, relacionados con las materias de bienes y servicios, insumos para la salud, salud ambiental, saneamiento básico, bancos de sangre, servicios de transfusión, puestos de sangrado y establecimientos de prestación de servicios de salud del sector público, social y privado, con base en la Ley General de Salud, sus Reglamentos, Ley Estatal de Salud, Normas Oficiales Mexicanas y procedimientos indicados por la Comisión Federal para la Protección contra Riesgos Sanitarios, en adelante la COFEPRIS;
+II.- Ejercer el control sanitario de las actividades, establecimientos, productos y servicios, de conformidad con el Acuerdo Específico de Delegación de Facultades y con base en la Ley General de Salud, sus Reglamentos, Ley de Salud del Estado de Morelos, Normas Oficiales Mexicanas y procedimientos indicados por la Comisión Federal para la Protección contra Riesgos Sanitarios, en adelante la COFEPRIS;
 
-III. Emitir las órdenes de visitas de verificación correspondiente;
+III.- Emitir las órdenes de visitas de verificación correspondientes;
 
-IV. Emitir las credenciales ó cartas credenciales que acrediten legalmente al personal verificador para realizar funciones de control sanitario;
+IV.- Emitir la documentación oficial que acredite legalmente al personal de la COPRISEM, para realizar funciones de control sanitario;
 
-V. Dirigir el proceso de vigilancia sanitaria mediante las acciones de otorgamiento de autorizaciones sanitarias, avisos de apertura, verificaciones, toma de muestras, análisis e interpretación, dictaminación y expedición de las notificaciones que se generan en el proceso de vigilancia sanitaria;
+V.- Dirigir el proceso de vigilancia sanitaria a través de avisos de funcionamiento y otorgamiento de autorizaciones sanitarias, verificaciones, toma de muestras, análisis e interpretación, dictamen y expedición de las notificaciones que se generan en el proceso de vigilancia sanitaria;
 
-VI. Imponer sanciones administrativas, aplicar medidas de seguridad, y emitir las resoluciones correspondientes en la esfera de su competencia, así como remitir a las autoridades fiscales correspondientes, en su caso, las resoluciones que impongan sanciones económicas para que se hagan efectivas a través del procedimiento administrativo de ejecución;
+VI.- Imponer sanciones administrativas, aplicar medidas de seguridad, y emitir las resoluciones correspondientes en la esfera de su competencia, así como remitir a las autoridades fiscales correspondientes, en su caso, las resoluciones que impongan sanciones económicas para que se hagan efectivas a través del procedimiento administrativo de ejecución;
 
-VII. Verificar y en su caso ordenar la suspensión de la emisión o difusión de mensajes publicitarios que contravengan lo dispuesto en la legislación, reglamentación y demás disposiciones federales y estatales, aplicables en materia de salud;
+VII.- Verificar y en su caso ordenar la suspensión de la emisión o difusión de mensajes publicitarios que contravengan lo dispuesto en la legislación, reglamentación y demás disposiciones Federales y Estatales, aplicables en materia de salud;
 
-VIII. Conducir la operación de la COPRISEM, a fin de que sus funciones se realicen de manera articulada, congruente y eficaz;
+VIII.- Conducir la operación de la COPRISEM, a fin de que sus funciones se realicen de manera articulada, congruente y eficaz;
 
-IX. Establecer las normas, políticas, criterios, sistemas y procedimientos de autoridades sanitarias estatales respecto de las funciones descentralizadas;
+IX.- Establecer las normas, políticas, criterios, sistemas y procedimientos de autoridades sanitarias Estatales respecto de las funciones descentralizadas;
 
-X. Desempeñar las funciones y comisiones que el titular de los Servicios de Salud de Morelos le encomiende y mantenerlo informado sobre su desarrollo;
+X.- Desempeñar las funciones y comisiones que el Director General del Organismo le encomiende y mantenerlo informado sobre su desarrollo;
 
 XI. Formular los anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, y órdenes en los asuntos de su competencia;
 
-XII. Planear, organizar y evaluar el funcionamiento de las unidades administrativas de la COPRISEM;
+XII. Planear, organizar y evaluar el funcionamiento de las Unidades Administrativas de la COPRISEM;
 
-XIII. Designar y remover a los titulares de las áreas de la COPRISEM, de conformidad con los ordenamientos aplicables previo acuerdo con el titular de los Servicios de Salud de Morelos;
+XIII. Designar y remover a los titulares de las áreas de la COPRISEM de conformidad con los ordenamientos aplicables y previo acuerdo con el titular del Organismo;
 
-XIV. Proponer, previo acuerdo con el titular de los Servicios de Salud de Morelos, la delegación, en servidores públicos subalternos de la COPRISEM, de las facultades que tenga encomendadas;
+XIV. Proponer, previo acuerdo con el titular del Organismo, la delegación en servidores públicos subalternos de la COPRISEM, de las facultades que tenga encomendadas;
 
-XV. Elaborar el Manual de Organización interna de la COPRISEM;
+XV. Elaborar para su aprobación por la Junta de Gobierno, el Manual de Organización de la COPRISEM;
 
-XVI. Proporcionar la información, los datos o la cooperación técnica que le sea requerida por las unidades administrativas de la COFEPRIS y por otras dependencias y entidades de la Administración Pública Estatal;
+XVI. Proporcionar la información, los datos o la cooperación técnica que le sea requerida por las unidades administrativas de la COFEPRIS y por otras Secretarías, Dependencias y Entidades de la Administración Pública Estatal;
 
 XVII. Mantener actualizado y difundir anualmente el diagnóstico sobre la situación prevaleciente del control de riesgos sanitarios en el Estado;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
-
-XVIII. Promover y coordinar, con las unidades administrativas de los Servicios de Salud de Morelos, la capacitación y adiestramiento de los recursos humanos de la COPRISEM;
+XVIII. Promover y coordinar, con las unidades administrativas del Organismo, la capacitación y adiestramiento de los recursos humanos de la COPRISEM;
 
 XIX. Establecer los criterios para la programación, ejecución, información y evaluación del control de riesgos sanitarios en el Estado;
 
-XX. (DEROGADA, P.O. 9 DE MAYO DE 2012)
+XX. Establecer mecanismos de coordinación y cooperación para la eficaz ejecución de las atribuciones a cargo de la COPRISEM, y a participar en la suscripción de instrumentos jurídicos correspondientes;
 
-XXI. Establecer mecanismos de coordinación y cooperación para la eficaz ejecución de las atribuciones a cargo de la COPRISEM, y a participar en la suscripción de instrumentos jurídicos correspondientes;
+XXI. Promover la cooperación con las organizaciones Federales, Estatales y Municipales para favorecer el intercambio técnico y académico y la elaboración de proyectos preventivos y de control, así como participar en las negociaciones y acuerdos sobre las materias competencia de la COPRISEM;
 
-XXII. Promover la cooperación con las organizaciones federales y estatales para favorecer el intercambio técnico y académico y la elaboración de proyectos preventivos y de control así como participar en las negociaciones y acuerdos sobre las materias competencia de la COPRISEM;
+XXII. Autorizar al personal de la COPRISEM, cambios de área de adscripción y cambios de horarios, ya sea a solicitud del propio personal o porque así lo requieran las necesidades del servicio, con la participación de las unidades administrativas competentes del Organismo;
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2012)</small>
+XXIII. Definir y ejercer actos de autoridad en establecimientos competencia de las Coordinaciones de Protección Sanitaria Regionales cuando así se requiera;
 
-XXIII. Autorizar al personal de la COPRISEM, cambios de área de adscripción y cambios de horarios, ya sea a solicitud del propio personal o porque así lo requieran las necesidades del servicio, con la participación de las unidades administrativas competentes de los Servicios de Salud de Morelos;
+XXIV. Expedir certificados de condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionados con la materia de su competencia;
 
-XXIV. Ejercer actos de autoridad en establecimientos competencia de las Coordinaciones de Protección Sanitaria Regionales cuando así se requiera, y
+XXV. Reservar expresamente el derecho de reasumir las actividades encomendadas en materia de control sanitario a las Coordinaciones de Protección Sanitarias Regionales en el ejercicio de esta facultad de atracción;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+XXVI. Expedir y certificar, en su caso, los documentos y constancias que existan en los archivos de la COPRISEM, siempre y cuando la solicitud de certificación sea procedente o en su caso, a petición de autoridad competente, y
 
-XXV. Las demás que este reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general o el titular de los Servicios de Salud de Morelos le deleguen.
+XXVII. Las demás que otras disposiciones o el Director General le confieran.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
@@ -1027,73 +989,67 @@ X. Expedir en su caso, las copias de los documentos o constancias que existan en
 
 XI. Las demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado les confieran.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 30 Bis 4.
 
 Corresponde a la Secretaría General:
 
-I. Establecer con la aprobación del Comisionado, la programación, presupuestación y administración integral de los recursos humanos, materiales y financieros de que disponga la COPRISEM;
+I.- Establecer con la aprobación del Comisionado, la programación, presupuestación y administración integral de los recursos humanos, materiales y financieros de que disponga la COPRISEM;
 
-II. Coordinar y evaluar el proceso anual de programación y presupuestación, así como el ejercicio y control presupuestal y contable;
+II.- Coordinar y evaluar el proceso anual de programación y presupuestación, así como el ejercicio y control presupuestal y contable;
 
-III. (DEROGADA, P.O. 9 DE MAYO DE 2012)
+III. Coordinar y supervisar la operación de los sistemas automatizados para el control y vigilancia sanitaria instalados en la Coordinación General del Sistema Estatal Sanitario, la Jefatura de Dictamen Sanitario, la Jefatura Jurídica y Consultiva, las Coordinaciones de Protección Sanitaria en las Regiones I, II y III, los Padrones de Establecimientos y la formulación de los manuales de la COPRISEM;
 
-IV. Coordinar y supervisar la operación de los sistemas y la formulación de los manuales de la COPRISEM;
+IV. Proponer y conducir la política en materia de administración y desarrollo de personal, en los términos del Servicio de Carrera de la COPRISEM, así como el mejoramiento de sus condiciones sociales, culturales, de seguridad e higiene en el trabajo para el mejor desempeño de sus actividades, bajo los lineamientos que emita el Organismo;
 
-V. Proponer y conducir la política en materia de administración y desarrollo de personal, en los términos del Servicio de Carrera de la COPRISEM, así como el mejoramiento de sus condiciones sociales, culturales, de seguridad e higiene en el trabajo para el mejor desempeño de sus actividades, bajo los lineamientos que emita los Servicios de Salud de Morelos;
+V. Coordinar el sistema de administración de recursos financieros, materiales y de servicios generales de la COPRISEM bajo los lineamientos definidos por el Organismo;
 
-VI. (DEROGADA, P.O. 9 DE MAYO DE 2012)
+VI. Vigilar la aplicación de las políticas y procedimientos definidos por el Organismo para las contrataciones, nombramientos y prestaciones del personal, de acuerdo con las disposiciones vigentes;
 
-VII. (DEROGADA, P.O. 9 DE MAYO DE 2012)
+VII. Conducir las relaciones laborales de la COPRISEM con sus trabajadores, de conformidad con las disposiciones aplicables vigentes en el Organismo y operar las acciones y acuerdos de las Comisiones Mixtas de Escalafón, Capacitación y de Seguridad e Higiene del Trabajo;
 
-VIII. Coordinar el sistema de administración de recursos financieros, materiales y de servicios generales de la COPRISEM bajo los lineamientos definidos por los Servicios de Salud de Morelos;
+VIII.- Operar y controlar los sistemas de abasto, servicios generales, así como los programas de conservación, mantenimiento e inventario de bienes muebles de las áreas que integran la COPRISEM;
 
-IX. Vigilar la aplicación de las políticas y procedimientos definidos por los Servicios de Salud de Morelos para las contrataciones, nombramientos y prestaciones del personal, de acuerdo con las disposiciones vigentes;
+IX. Asesorar en la operación de los sistemas de información y en las estrategias de investigación, evaluación y seguimiento de riesgos sanitarios, en coordinación con otras autoridades competentes de la Administración Pública Federal, Estatal y Municipal;
 
-X. Conducir las relaciones laborales de la COPRISEM con sus trabajadores, de conformidad con las disposiciones aplicables vigentes en los Servicios de Salud de Morelos y operar las acciones y acuerdos de las Comisiones Mixtas de Escalafón, Capacitación y de Seguridad e Higiene del Trabajo;
+X. Detectar y proponer las necesidades de recursos informáticos que requerirán para el funcionamiento de los sistemas de información;
 
-XI. Operar y controlar los sistemas de abasto, servicios generales, así como los programas de conservación, mantenimiento e inventario de bienes muebles de las áreas que integran la COPRISEM;
+XIV. (SIC) Elaborar el informe contable de los recursos financieros asignados a la COPRISEM y remitirlos a la Dirección de Administración;
 
-XII. Asesorar en la operación de los sistemas de información a fin de que éstos cumplan con su objetivo;
+XI. Evaluar las autorizaciones o permisos, así como recibir los avisos de funcionamiento de establecimientos, productos, actividades o servicios de publicidad, de responsables sanitarios, de importaciones y exportaciones y otros, dentro del ámbito de competencia de la COPRISEM, y
 
-XIII. Detectar y proponer las necesidades de recursos informáticos que requerirán para el funcionamiento de los sistemas de información;
+XII. Las demás que otras disposiciones o el Comisionado le confieran.
 
-XIV. Elaborar el informe contable de los recursos financieros asignados a la COPRISEM y remitirlos a la Dirección de Administración, y
-
-XV. Las demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado le confiera.
-
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 30 Bis 5.
 
 Corresponde a la Coordinación General del Sistema Estatal Sanitario:
 
-I. Integrar y sistematizar los objetivos, metas, estrategias, prioridades e indicadores y responsabilidades señalados por el sistema federal sanitario;
+I. Integrar y sistematizar los objetivos, metas, estrategias, prioridades e indicadores y responsabilidades señalados por el Sistema Federal Sanitario;
 
 II. Coordinar las acciones para evaluar y dar seguimiento a los resultados de los indicadores de gestión, de los métodos, procesos y procedimiento, así como proponer acciones preventivas, correctivas o de mejora del Sistema Estatal Sanitario;
 
-III. Proponer las estrategias para el desarrollo de los acuerdos de coordinación que se celebren con los gobiernos Municipales del Estado y en general del Sistema Estatal Sanitario, de conformidad con lo establecido por el Plan Nacional de Desarrollo, los programas anuales globales para la ejecución del plan, los programas Estatales, la Ley General de Salud, el presente Reglamento y demás disposiciones aplicables;
+III. Proponer las estrategias para el desarrollo de los acuerdos de coordinación que se celebren con los Gobiernos Municipales del Estado y, en general, del Sistema Estatal Sanitario, de conformidad con lo establecido por el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo, los programas anuales globales para la ejecución del plan, los programas Estatales, la Ley General de Salud, el presente Reglamento y demás disposiciones aplicables;
 
-IV. (DEROGADA, P.O. 9 DE MAYO DE 2012)
+IV. Participar con las áreas competentes de la COPRISEM, en el diseño de indicadores que permitan evaluar el desempeño y resultados de los niveles de protección y prevención de riesgos sanitarios alcanzados con la instrumentación de las acciones realizadas de fomento, promoción, comunicación, regulación y control sanitario;
 
-V. Participar con las áreas competentes de la COPRISEM, en el diseño de indicadores que permitan evaluar el desempeño y resultados de los niveles de protección y prevención de riesgos sanitarios alcanzados con la instrumentación de las acciones realizadas de fomento, promoción, comunicación, regulación y control sanitario;
+V. Formular las estrategias para la coordinación de acciones con los Gobiernos Municipales del Estado y en general del Sistema Estatal Sanitario, en el marco del desarrollo y modernización administrativa, innovación y mejora continúa de los procesos, a fin de mantener un grado de competitividad y transparencia idóneos;
 
-VI. Formular las estrategias para la coordinación de acciones con los gobiernos Municipales del Estado y en general del Sistema Estatal Sanitario, en el marco del desarrollo y modernización administrativa, innovación y mejora continua de los procesos, a fin de mantener un grado de competitividad y transparencia idóneos;
+VI. Diseñar y proponer procedimientos y flujos de información en conjunto con las áreas involucradas, que permitan optimizar tiempo y recursos informáticos;
 
-VII. Organizar, inducir, controlar y operar los sistemas de información de la COPRISEM, atendiendo a la normatividad vigente;
+VII. Participar en el proceso, planeación programación y presupuestación de las actividades de control contra riesgos sanitarios;
 
-VIII. Realizar los envíos de información correspondientes del Sistema de Información de la COFEPRIS;
+VIII. Coordinar las acciones de control y fomento sanitario en las Coordinaciones de Protección Sanitaria Regionales;
 
-IX. Diseñar y proponer procedimientos y flujos de información en conjunto con las áreas involucradas, que permitan optimizar tiempo y recursos informáticos;
+IX. Proporcionar información en el ámbito de su competencia a los usuarios;
 
-X. Participar en el proceso, planeación programación y presupuestación de las actividades de control contra riesgos sanitarios;
+X. Coordinar las actividades de supervisión y evaluación inherentes a los proyectos y programas de la Coordinación General del Sistema Estatal Sanitario de las de Protección Sanitaria en la Regiones;
 
-XI. Coordinar las acciones de control y fomento sanitario en las Coordinaciones de Protección Sanitaria Regionales;
+XI. Establecer coordinación con el Laboratorio Estatal de Salud Pública para el desarrollo de las actividades inherentes a los proyectos y programas operativos y programáticos, y
 
-XII. Proporcionar información en el ámbito de su competencia a los usuarios, y
-
-XIII. La demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado le confieran.
+XII. La (sic) demás que otras disposiciones o el Comisionado le confieran.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2010)</small>
 
@@ -1125,17 +1081,15 @@ V. Realizar y orientar investigaciones y estudios con el propósito de proteger 
 
 VI. Proponer convenios de colaboración con instituciones afines, destinados a incrementar la capacidad diagnóstica y de servicios que brinda el Laboratorio Estatal;
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-VII. Apoyar los programas de capacitación del personal;
+VII. Apoyar la aplicación de los programas de capacitación del personal;
 
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
 VIII. Gestionar y administrar los recursos necesarios para la adecuada operación del Laboratorio Estatal;
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
-
-IX. Presentar al Comisionado el programa anual de adquisiciones a través de la Secretaria General;
+IX. (DEROGADA, P.O. 28 DE AGOSTO DE 2013)
 
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
@@ -1157,9 +1111,9 @@ XIII. Evaluar los resultados y tomar las medidas necesarias para corregir desvia
 
 XIV. Implementar estrategias, objetivos y políticas de calidad en base a un diagnóstico situacional;
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-XV. Informar periódicamente al Comisionado, sobre los avances y resultados de los diferentes programas;
+XV. Informar periódicamente los avances y resultados de los diferentes programas a las instancias correspondientes;
 
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
@@ -1173,13 +1127,11 @@ XVII. Colaborar conjuntamente con las áreas competentes en el establecimiento d
 
 XVIII. Establecer los lineamientos y políticas sobre el comportamiento ético del personal a cargo;
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-XIX. Autorizar la documentación del Sistema de Calidad;
+XIX. Autorizar la documentación del Sistema de Gestión de la Calidad;
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
-
-XX. Autorizar los informes de resultados;
+XX. (DEROGADA, P.O. 28 DE AGOSTO DE 2013)
 
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
@@ -1201,9 +1153,9 @@ II. Elaborar y revisar los proyectos de iniciativas de leyes, reglamentos, decre
 
 III. Compilar leyes, reglamentos decretos, acuerdos, normas oficiales mexicanas y demás disposiciones jurídicas necesarias para consulta de las unidades administrativas de la COPRISEM, en el desarrollo de las actividades que tiene encomendadas;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-IV. Conocer y difundir las leyes, reglamentos, decretos, acuerdos, normas oficiales mexicanas y demás disposiciones jurídicas, internacionales, nacionales, estatales y municipales relacionadas con la COPRISEM;
+IV. Conocer y difundir la actualización de las leyes, reglamentos, decretos, acuerdos, Normas Oficiales Mexicanas y demás disposiciones jurídicas relacionadas con la COPRISEM;
 
 V. Revisar los lineamientos y requisitos a que deben sujetarse los contratos, convenios, acuerdos, bases de coordinación y autorizaciones que celebre o expida la COPRISEM y dictaminar sobre su interpretación, suspensión, rescisión, terminación y nulidad y demás aspectos jurídicos en coadyuvancia con la Subdirección Jurídica;
 
@@ -1241,13 +1193,11 @@ XVI. Supervisar los procedimientos jurídico-administrativos radicados con motiv
 
 XVII. Las demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado le delegue.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 30 Bis 8.
 
 Corresponde a la Jefatura de Evidencia y Manejo de Riesgo:
-
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
 I. Elaborar y actualizar el diagnóstico situacional del control de riesgos sanitarios en el Estado;
 
@@ -1257,23 +1207,29 @@ III. Promover y coordinar investigaciones dirigidas a identificar los riesgos sa
 
 IV. Participar en la evaluación de la deficiencia de las medidas regulatorias, de fomento y control;
 
-V. Promover, participar y coordinar con organismos, dependencias, entidades y demás instituciones de la Administración Pública Federal, Estatal y Municipal, en la elaboración de proyectos preventivos y de control de riesgos sanitarios;
+V. Promover, participar y coordinar con, Secretarías, Dependencias, Entidades y demás instituciones de la Administración Pública Federal, Estatal y Municipal, en la elaboración de proyectos preventivos y de control de riesgos sanitarios;
 
-VI. Proporcionar la información, datos, asesorías técnicas y profesionales que sean requeridas por las unidades administrativas que conforman la COFEPRIS y la COPRISEM, así como las dependencias y entidades de la Administración Pública Estatal;
+VI. Proporcionar la información, datos, asesorías técnicas y profesionales que sean requeridas por las Unidades Administrativas que conforman la COFEPRIS y la COPRISEM, así como las Dependencias y Entidades de la Administración Pública Estatal;
 
 VII. Participar en la formulación e instrumentación de los proyectos y programas específicos que determine el Comisionado, así como coordinar y evaluar el desarrollo de aquellos que se le asignen directamente;
 
-VIII. Participar en el proceso, planeación, programación y presupuestación de las actividades de control contra riesgos sanitarios, y
+VIII. Participar en el proceso, planeación, programación y presupuestación de las actividades de control contra riesgos sanitarios,
 
-IX. Las demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado le confieran.
+IX. Elaborar e integrar los informes correspondientes de los programas y proyectos de evidencia y manejo de riesgos;
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+X. Supervisar y evaluar las actividades de protección sanitaria en las regiones I, II y III relacionadas con la vigilancia sanitaria en el ámbito de su competencia;
+
+XI. Proporcionar capacitación, consultoría y asesoría intersectorial e intrainstitucional en el ámbito de su competencia;
+
+XII. Participar en la elaboración de los programas operativos, manuales administrativos y de servicios al público en coordinación con las demás unidades administrativas de la COPRISEM, y
+
+XIII. Las demás que otras disposiciones o el Comisionado le confieran.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 30 Bis 9.
 
 Corresponde a la Jefatura de Capacitación y Fomento Sanitario:
-
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
 I. Elaborar y operar programas de capacitación técnica y administrativa del personal de la COPRISEM y de fomento sanitario dirigido al público;
 
@@ -1283,15 +1239,11 @@ III. Promover la concertación social, la difusión de riesgos y la participaci�
 
 IV. Participar en el proceso, planeación, programación y presupuestación de las actividades de control contra riesgos sanitarios;
 
-V. Participar en la elaboración de los manuales administrativos y de servicios al público en coordinación con las demás unidades administrativas de la COPRISEM;
+V. Participar en la elaboración de los programas operativos, manuales administrativos y de servicios al público en coordinación con las demás unidades administrativas de la COPRISEM;
 
-VI. Elaborar y otorgar cursos de capacitación continua para mantener actualizado al personal operativo del área;
-
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+VI. Elaborar y otorgar cursos de capacitación continúa para mantener actualizado al personal operativo del área;
 
 VII. Elaborar e integrar los informes correspondientes de los programas y proyectos de fomento sanitario;
-
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
 
 VIII. Proporcionar la información técnica que sea necesaria para la celebración de convenios de colaboración, dentro de la esfera de competencia de la COPRISEM, a fin de establecer programas de autorregulación;
 
@@ -1299,151 +1251,129 @@ IX. Fungir como instancia de enlace y coordinación con autoridades municipales,
 
 X. Establecer mecanismos de concertación, coordinación y colaboración con instituciones públicas, privadas y sociales, para la ejecución conjunta de acciones encaminadas al fomento sanitario;
 
-XI. Participar, coordinar e instalar comités y subcomités que resulten necesarios para el control de riesgos sanitarios;
+XI. Participar en la organización y coordinación para la instalación de comités y subcomités que resulten necesarios para el control de riesgos sanitarios;
 
-XII. (DEROGADA, P.O. 9 DE MAYO DE 2012)
+XII. Supervisar y evaluar las actividades de protección sanitaria en las regiones I, II y III relacionadas con la vigilancia sanitaria en el ámbito de su competencia;
 
-XIII. Las demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado le confieran.
+XIII. Proporcionar capacitación, consultoría y asesoría intersectorial e intrainstitucional en el ámbito de su competencia, y
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+XIV. Las demás que otras disposiciones o el Comisionado le confieran.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 30 Bis 10.
 
 Corresponde a la Jefatura de Dictamen Sanitario:
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+I.- Elaborar, difundir y supervisar en las Coordinaciones de Protección Sanitarias Regionales, se apliquen los procedimientos, políticas y lineamientos inherentes a las acciones de dictamen sanitario;
 
-I. Supervisar que en las Coordinaciones de Protección Sanitarias Regionales, se apliquen los procedimientos, políticas y lineamientos inherentes a las acciones de dictamen sanitario;
+II.- Elaborar los dictámenes de las actas e informes de verificación sanitaria, y de las solicitudes para el otorgamiento de autorizaciones sanitarias que así lo requieran;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+III.- Elaborar las notificaciones de resultados de las visitas de verificación, de los informes de verificación en la esfera de su competencia, y de los dictámenes que se desprendan de las solicitudes de autorización sanitaria;
 
-II. Elaborar los dictámenes de las actas e informes de verificación sanitaria y los proyectos para el otorgamiento de permiso sanitario de construcción que le sean turnadas;
+IV.- Notificar los documentos que así se requieran y que se generen en esta Jefatura;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+V.- Participar en el proceso, planeación, programación y presupuestación de las actividades de dictámenes sanitarios;
 
-III. Elaborar las notificaciones de resultados de las visitas de verificación y de los informes de verificación, en la esfera de su competencia;
+VI.- Participar en la elaboración de los manuales administrativos y de servicios al público, en las actividades propias de la jefatura, y
 
-IV. (DEROGADA, P.O. 9 DE MAYO DE 2012)
+VII.- Las demás que otras disposiciones o el Comisionado le deleguen.
 
-V. (DEROGADA, P.O. 9 DE MAYO DE 2012)
-
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
-
-VI. Notificar los documentos que así se requieran y que se generen en esta Jefatura;
-
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
-
-VII. Participar en el proceso, planeación, programación y presupuestación de las actividades de dictámenes sanitarios, y
-
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
-
-VIII. Las demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado le deleguen.
-
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 30 Bis 11.
 
 Corresponde a la Jefatura de Operación Sanitaria:
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+I. Elaborar y ejecutar órdenes de visita de verificación y muestreo y, en su caso, aplicar de (sic) medidas de seguridad conforme a las disposiciones aplicables en los establecimientos, actividades, productos y servicios;
 
-I. Realizar visitas e informes de verificación, toma de muestras y en su caso, aplicar las medidas de seguridad conforme a las disposiciones aplicables de la legislación sanitaria vigente. En las actividades, establecimientos, productos y servicios, la Comisión Federal para la Protección Contra Riesgos Sanitarios, elaborará las órdenes de visita de verificación correspondientes;
+II. Participar en las acciones de control y prevención de riesgos a la salud de la población durante las contingencias y accidentes;
 
-II. (DEROGADA, P.O. 9 DE MAYO DE 2012)
+III. Coordinar las acciones de vigilancia sanitarias por operativos, alertas sanitarias y denuncias ciudadanas;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+IV. Participar en el proceso, planeación, programación y presupuestación de las actividades de control contra los riesgos sanitarios;
 
-III. Participar en las acciones de control y prevención de riesgos a la salud de la población durante las contingencias y accidentes;
+V. Supervisar que la vigilancia sanitaria se apegue a las disposiciones previstas en la Ley General de Salud y en la Ley de Salud del Estado de Morelos;
 
-IV. Coordinar las acciones de vigilancia sanitarias por operativos, alertas sanitarias y denuncias ciudadanas;
+VI. Orientar a los usuarios sobre las condiciones sanitarias de las actividades de los establecimientos, productos y servicios, para facilitar el cumplimiento de la legislación y reglamentación sanitaria;
 
-V. Participar en el proceso, planeación, programación y presupuestacion de las actividades de control contra los riesgos sanitarios;
+VII. Promover y apoyar en la integración y actualización del padrón de establecimientos en la materia de su competencia;
 
-VI. (DEROGADA, P.O. 9 DE MAYO DE 2012)
+VIII. Realizar a solicitud del Comisionado, visitas de verificación para comprobar que las condiciones bajo las cuales se otorgan las autorizaciones Sanitarias son cumplidas por los establecimientos de acuerdo a los lineamientos y procedimientos indicados por la Ley General de Salud, sus Reglamentos y Normas Oficiales Mexicanas;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+IX. Participar, en coordinación con las unidades administrativas de la COPRISEM, en la instrumentación de acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica, especialmente cuando se relacione con los riesgos sanitarios derivados de los productos, actividades, servicios y establecimientos en materia de su competencia;
 
-VII. Supervisar que la vigilancia sanitaria se apegue a las disposiciones previstas en la Ley General de Salud y en la Ley de Salud del Estado de Morelos;
+X. Elaborar e integrar los informes correspondientes de los programas y proyectos de Operación Sanitaria;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+XI. Supervisar y evaluar las actividades de protección sanitaria en las regiones I, II y III relacionadas con la vigilancia sanitaria en el ámbito de su competencia;
 
-VIII. Orientar a los usuarios sobre las condiciones sanitarias de las actividades de los establecimientos, productos y servicios, para facilitar el cumplimiento de la legislación y reglamentación sanitaria;
+XII. Proporcionar capacitación, consultoría y asesoría intersectorial e intrainstitucional en el ámbito de su competencia;
 
-IX. Promover y apoyar en la integración y actualización del padrón de establecimientos en la materia de su competencia;
+XIII.- Participar en la elaboración de los programas operativos, manuales administrativos y de servicios al público en coordinación con las demás unidades administrativas de la COPRISEM, y
 
-X. Realizar a solicitud del Comisionado, visitas de verificación para comprobar que las condiciones bajo las cuales se otorgan las autorizaciones Sanitarias son cumplidas por los establecimientos de acuerdo a los lineamientos y procedimientos indicados por la Ley General de Salud, sus Reglamentos y Normas Oficiales Mexicanas;
+XIV.- Las demás que otras disposiciones o el Comisionado le confieran.
 
-XI. Participar, en coordinación con las unidades administrativas de la COPRISEM, en la instrumentación de acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica, especialmente cuando se relacione con los riesgos sanitarios derivados de los productos, actividades, servicios y establecimientos en materia de su competencia, y
-
-XII. Las demás que este Reglamento y otras disposiciones legales reglamentarias y administrativas de carácter general y el Comisionado le confieran.
-
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 30 Bis 12.
 
 Corresponde a la Jefatura de Control Analítico Sanitario:
 
-I. Apoyar en la programación de metas anuales de muestras para control sanitario en coordinación con las áreas competentes;
+I.- Participar en la programación de metas Estatales y Federales, con base a la capacidad analítica en materia de vigilancia sanitaria, en coordinación con las áreas competentes;
 
-II. Programar la recepción de muestras de control sanitario de acuerdo a la capacidad analítica del laboratorio en coordinación con los responsables de área;
+II.- Programar la recepción de muestras de control sanitario de acuerdo a la capacidad analítica del laboratorio en coordinación con los responsables de área;
 
-III. Elaborar el informe mensual sobre la productividad generada para su registro en el Sistema de Información de Salud ( SIS );
+III.- Elaborar el informe mensual sobre la productividad generada para su registro en el Sistema de Información de Salud (SIS);
 
-IV. Supervisar y verificar las actividades que conforman los procesos analíticos;
+IV.- Coordinar la supervisión y verificar las actividades que conforman los procesos analíticos;
 
-V. Participar en la elaboración del Programa Operativo Anual ( POA );
+V.- Participar en la elaboración del Programa Operativo Anual;
 
-VI. Participar en la elaboración, revisión y aprobación de documentos que soporten la actividad operativa y que formen parte de la aplicación del sistema de calidad;
+VI.- Participar en la elaboración, revisión y aprobación de documentos que soporten la actividad operativa y que formen parte de la aplicación del Sistema de Gestión de Calidad;
 
-VII. Participar en programas de capacitación;
+VII.- Elaborar y coordinar el Programa Anual de Capacitación;
 
-VIII. Revisar y validar la información generada por el ingreso de muestras y su respectivo resultado;
+VIII.- Revisar y validar la información generada por el ingreso de muestras y su respectivo resultado;
 
-IX. Actualizar la información relacionada con el marco analítico y metodologías, en base a la normatividad vigente;
+IX.- Actualizar la información relacionada con el marco analítico y metodologías de conformidad con la normatividad vigente;
 
-X. Asesorar técnicamente al personal adscrito que lo requiera;
+X.- Asesorar técnicamente al personal adscrito que lo requiera;
 
-XI. Aplicar los programas analíticos de vigilancia sanitaria establecidos por la Comisión y llevar a cabo los Programas Analíticos solicitados por la COFEPRIS;
+XI.- Aplicar los proyectos y lineamientos en materia de vigilancia sanitaria establecidos por la COFEPRIS y COPRISEM;
 
-XII. Coordinar la aplicación de los procedimientos técnicos de operación, en base a la normatividad establecida para los diferentes procesos analíticos;
+XII.- Coordinar la aplicación de los métodos de prueba, de conformidad con la normatividad establecida para los diferentes procesos analíticos;
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
+XIII.- Sustituir, en su ausencia, al Coordinador del Laboratorio de Salud Pública;
 
-XIII. Sustituir, en su ausencia, al Coordinador del Laboratorio de Salud Pública;
+XIV.- Elaborar y coordinar la aplicación del Programa de Evaluación del Desempeño de la Jefatura, y
 
-XIV. Elaborar y revisar documentación del Sistema de Calidad;
+XV.- Las demás que otras disposiciones, el titular del Laboratorio Estatal de Salud Pública o el Comisionado le confieran.
 
-XV. Revisar y antefirmar los informes de resultado, y
-
-XVI. Las demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado le confieran.
-
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 30 Bis 13.
 
-Corresponde a la Jefatura de Control Analítico Epidemiológico;
+Corresponde a la Jefatura de Control Analítico Epidemiológico:
 
-I. Programar la recepción de muestras de vigilancia epidemiológica de acuerdo a las metas establecidas y la capacidad instalada;
+I. Participar con el Departamento de Epidemiología responsable del Programa de la Dirección de Servicios de Salud a la Comunidad, en el establecimiento de metas de muestreo en base al presupuesto asignado y capacidad analítica del Laboratorio Estatal de Salud Pública;
 
 II. Organizar las actividades inherentes a la recepción y procesamiento de muestras de vigilancia epidemiológica;
 
-III. Coordinar la aplicación de los procedimientos técnicos de operación en base a la normatividad establecida para los diferentes procesos analíticos;
+III. Coordinar y supervisar la aplicación de los procedimientos técnicos de operación en base a la normatividad vigente y lineamientos de vigilancia epidemiológica, para el diagnóstico;
 
 IV. Supervisar la emisión de cálculos y resultados obtenidos en los procedimientos de diagnóstico para el informe final;
 
-V. Programar anualmente el abastecimiento de los materiales e insumos utilizados en el diagnóstico epidemiológico;
+V. Planear y programar la adquisición de equipo, materiales e insumos de laboratorio en función de los recursos financieros asignados, para el diagnóstico epidemiológico e implementación de nuevas pruebas analíticas en apoyo a la vigilancia epidemiológica de enfermedades o contingencias;
 
-VI. Elaboración de manuales, procedimientos, instructivos y formatos relacionados con el control de calidad en epidemiología;
+VI. Participar en la elaboración de manuales, políticas, procedimientos, e instructivos relacionados con el Sistema de Gestión de la Calidad;
 
-VII. Supervisar la correcta aplicación de los lineamientos y procedimientos establecidos para aplicar el Sistema de Calidad;
+VII. Supervisar la correcta aplicación de los lineamientos y procedimientos establecidos para aplicar el Sistema de Gestión de la Calidad;
 
-VIII. Implementar en conjunto con los responsables de área nuevas técnicas de diagnóstico, según los requerimientos de vigilancia epidemiológica;
+VIII. Planear y organizar en conjunto con los responsables de áreas técnicas, la implementación y/o modificación de diagnósticos, según los requerimientos de vigilancia epidemiológica;
 
-IX. Elaborar y revisar la documentación del Sistema de Calidad;
+IX. Revisar y validar los informes de resultados en el ámbito de su competencia, y
 
-X. Revisar y validar los informes de resultados; y
-
-XI. Las demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado le confieran.
+X. Las demás que otras disposiciones, el titular del Laboratorio Estatal de Salud Pública o el Comisionado le confieran.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
@@ -1455,7 +1385,9 @@ I. Coordinar los trabajos de elaboración de los documentos del sistema de calid
 
 II. Supervisar la actividad de las áreas operativas del laboratorio para verificar el cumplimiento con las políticas y procedimientos;
 
-III. Evaluar nuevos proyectos y progresos actuales en el campo del control y aseguramiento de la calidad;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+III. Evaluar en coordinación con el titular del Laboratorio Estatal de Salud Pública nuevos proyectos y progresos actuales en el campo del control y aseguramiento de la calidad;
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
 
@@ -1463,19 +1395,29 @@ IV. Informar al Coordinador del Laboratorio Estatal de Salud Pública, sobre la 
 
 V. Elaborar y supervisar la aplicación del programa interno de auditorías de calidad;
 
-VI. Elaborar y supervisar la aplicación de los programas de verificación y calibración de instrumentos;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-VII. Elaborar y supervisar la aplicación de los programas intra e interlaboratorios para evaluar técnicamente el desempeño del personal analista de los departamentos;
+VI. Elaborar y supervisar la aplicación del Programa de Verificación de Instrumentos;
 
-VIII. Elaborar con los departamentos los programas de capacitación y supervisar su aplicación;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-IX. Coordinar las acciones encaminadas hacia la mejora continua del sistema;
+VII. Verificar la aplicación de los programas intra e interlaboratorios para evaluar técnicamente el desempeño del personal analista de los departamentos;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+VIII. Verificar la aplicación de los programas anuales de capacitación;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+IX. Coordinar las acciones encaminadas hacia la mejora continua del Sistema de Gestión de Calidad del Laboratorio;
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
 
 X. Representar al Coordinador del Laboratorio de Salud Pública en la implantación, conducción y supervisión del Sistema de Calidad, así como el seguimiento de cada una de las actividades que pudiesen comprometer su funcionamiento, para lo cual, podrá participar en la toma de decisiones e implementación de políticas, y
 
-XI. Las demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado le confieran.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XI. Las demás que otras disposiciones, el titular del Laboratorio Estatal de Salud Pública o el Comisionado le confieran.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
@@ -1489,17 +1431,21 @@ II. Realizar el proceso anual de programación y presupuestación, así como el 
 
 III. (DEROGADA, P.O. 9 DE MAYO DE 2012)
 
-IV. Supervisar la operación de los sistemas y la formulación de los manuales de la COPRISEM;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+IV. Ejecutar la operación de los sistemas automatizados para el control y vigilancia sanitaria instalados en la Coordinación General de Sistema Estatal Sanitario, la Jefatura de Dictamen Sanitario, la Jefatura Jurídica y Consultiva, las Coordinaciones de Protección Sanitaria en las Regiones I, II y III, los padrones de los establecimientos y la formulación de los manuales de la COPRISEM;
 
-V. Participar en la aplicación de política en materia de administración y desarrollo de personal, así como el mejoramiento de sus condiciones sociales, culturales, de seguridad e higiene en el trabajo para el mejor desempeño de sus actividades bajo los lineamientos emitidos por Servicios de Salud de Morelos;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+V. Participar en la aplicación de política en materia de administración y desarrollo de personal, así como el mejoramiento de sus condiciones sociales, culturales, de seguridad e higiene en el trabajo para el mejor desempeño de sus actividades bajo los lineamientos emitidos por el Organismo;
 
-VI. Elaborar y someter a consideración del Comisionado los cambios de área, de adscripción y cambios de horarios, ya sea a solicitud del propio personal o porque así lo requieran las necesidades del servicio bajo los lineamientos emitidos por Servicios de Salud de Morelos;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-VII. Coordinar el sistema de administración de recursos financieros, materiales y de servicios generales de la COPRISEM bajo los lineamientos emitidos por Servicios de Salud de Morelos, y
+VI. Elaborar y someter a consideración del Comisionado los cambios de área, de adscripción y cambios de horarios, ya sea a solicitud del propio personal o porque así lo requieran las necesidades del servicio, bajo los lineamientos emitidos por el Organismo;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+VII. Coordinar el sistema de administración de recursos financieros, materiales y de servicios generales de la COPRISEM bajo los lineamientos emitidos por el Organismo, y
 
 VIII. Las demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado le confieran.
 
@@ -1533,9 +1479,13 @@ VI. Evaluar y elaborar las autorizaciones o permisos, así como recibir los avis
 
 VII. Elaborar certificados oficiales de la condición sanitaria de los sistemas de abastecimiento de agua;
 
-VIII. Supervisar que en las Coordinaciones de Protección Sanitarias Regionales se apliquen los procedimientos, políticas y lineamientos establecidos por la COFEPRIS, y
+VIII. Supervisar que en las Coordinaciones de Protección Sanitarias Regionales se apliquen los procedimientos, políticas y lineamientos establecidos por la COFEPRIS, y (sic)
 
-IX. Las demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado le confieran.
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+IX. Elaborar certificados oficiales de la condición sanitaria de los establecimientos en el Estado, y
+
+X. Las demás que otras disposiciones o el Comisionado le confieran.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
@@ -1617,9 +1567,13 @@ Para el mejor desempeño de sus funciones la COPRISEM podrá contar con los sigu
 
 I. Se integrará con los siguientes servidores públicos:
 
-a) El titular de la Secretaría, quien lo presidirá;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
-b) El titular de la Dirección General de los Servicios de Salud de Morelos;
+a) La persona titular de la Secretaría de Salud del Poder Ejecutivo Estatal, quien lo presidirá;
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+b) La persona titular de la Dirección General del Organismo;
 
 c) El Comisionado para la Protección contra Riesgos Sanitarios del Estado de Morelos;
 
@@ -1671,55 +1625,41 @@ Para su mejor organización y funcionamiento, los consejos auxiliares establecer
 
 Los titulares de las áreas de la COPRISEM, serán suplidos en sus ausencias en los asuntos de sus respectivas competencias, por los servidores públicos del nivel jerárquico inmediato inferior que les estén subordinados o por el servidor público que designe el Comisionado.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 31.
 
 La Dirección de Planeación y Evaluación tendrá a su cargo las atribuciones específicas siguientes:
 
-I.- Conducir e integrar el Diagnóstico Estatal de Salud, con la participación de las áreas de Servicios de Salud y de Regulación Sanitaria, como instrumento fundamental de la planeación institucional;
+I.- Coordinar la integración del Diagnóstico Estatal de Salud, con la participación de los titulares de las Unidades Administrativas del Organismo;
 
-II.- Desarrollo de las actividades de planeación, de conformidad con las Estrategias Nacionales instruidas en el Plan Nacional de Desarrollo, el Programa de Reforma del Sector Salud y en los Ordenamientos Normativos Federales y Estatales sobre la materia;
+II.- Desarrollar las actividades de planeación, de conformidad con las estrategias instruidas en los Planes Nacional y Estatal de Desarrollo, los Programas Nacional y Estatal de Salud vigentes y en los ordenamientos normativos Federales y Estatales sobre la materia;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
-
-III.- Coordinar y orientar a las áreas en el proceso de elaboración de sus Programas Operativos Anuales, a efecto de integrar el de los Servicios de Salud de Morelos orientado a resultados, basados en la planeación estratégica, táctica y operativa que permitan definir los recursos necesarios para el cumplimiento de metas, cuidando su congruencia con la normatividad aplicable, tanto a nivel federal, estatal y municipal;
+III. Orientar la elaboración, y coordinación del proceso de programación operativa con los titulares de las unidades responsables de ejecución de programas y proyectos, integrando los Programas Operativos Anuales Estatales y Especiales orientados a resultados y basados en la planeación estratégica, táctica y operativa, cuidando su congruencia con la normatividad aplicable, tanto a nivel estatal, como Federal y Municipal;
 
 IV.- Proponer, promover y supervisar los mecanismos de evaluación y seguimiento a los programas y proyectos especiales para optimizar la asignación de recursos, el mejoramiento de la productividad, la mejoría continua de la calidad y la racionalización de la tecnología de las unidades administrativas emitiendo los informes de resultados que apoyen la toma de decisiones;
 
-V.- Establecer los sistemas que permitan la emisión de la información estadística local, relativa a la prestación de servicios y proporcionaría a la Secretaría de Salud, conforme a los requerimientos y disposiciones aplicables;
+V.- Establecer los sistemas que permitan la emisión de la información estadística local, relativa a la prestación de servicios y proporcionarla a la Secretaría de Salud Federal y Estatal, conforme a los requerimientos y disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+VI.- Promover la observancia de las normas emitidas en materia de Informática, tanto por la Secretaría de Salud como por otras dependencias federales, que normen el uso y operación de los sistemas informáticos, vigilando su cumplimiento tanto en las oficinas centrales estatales, como en las jurisdicciones y unidades aplicativas, estableciendo en su caso los ajustes necesarios dentro de un marco integral de modernización administrativa;
 
-VI.- Establecer la normatividad, tanto de nivel administrativo como de jurisdicciones sanitarias y unidades hospitalarias, así como brindar asesoría y apoyo técnico en materia de rehabilitación de equipo médico y de obra;
+VII.- Coadyuvar en la definición de prioridades del programa de inversiones con base en el Plan Maestro de Infraestructura Física en Salud a invitación del Comité de Planeación para el Desarrollo del Estado de Morelos y el Comité de Planeación para el Desarrollo Municipal, en concordancia con las necesidades prioritarias de las áreas de (sic) que integran el Organismo, llevando a cabo el seguimiento programático-presupuestal;
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+VIII.- Coordinar al interior del Organismo, las peticiones de información en concordancia con las disposiciones que establece la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos en vigor; y
 
-VII.- Controlar y evaluar los proyectos y programas de obras y conservación, adaptación y mantenimiento de los bienes muebles, inmuebles y equipo, llevando a cabo las licitaciones de obra, conservación y mantenimiento, y la contratación de los prestadores de servicios y dictaminación de fallos, de conformidad con la legislación vigente, así como coordinar la entrega-recepción de las obras ejecutadas;
+IX.- Gestionar y proponer el fortalecimiento de las redes informáticas institucionales, con el fin de propiciar un manejo integral de la información con oportunidad, calidad y suficiencia.
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
-
-VIII.- Asesorar y apoyar técnicamente a las Jurisdicciones Sanitarias y a las unidades hospitalarias en materia de conservación y mantenimiento de los aspectos físicos e instalaciones;
-
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
-
-IX.- Participar en los procedimientos de adjudicación de Obra Pública correspondiente a la Infraestructura Física en Salud, ante la Secretaría de Desarrollo Urbano y Obras Públicas;
-
-X.- Promover la observancia de las normas emitidas en materia de Informática, tanto por la Secretaría de Salud como por otras dependencias Federales, que normen el uso y operación de los sistemas informáticos, vigilando su cumplimiento tanto en las Oficinas Centrales Estatales, como en las Jurisdicciones y Unidades aplicativas, estableciendo en su caso los ajustes necesarios dentro de un marco integral de modernización administrativa, y
-
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
-
-XI.- Coadyuvar en la definición de prioridades del programa de inversiones con base en el Plan Estatal Maestro de Infraestructura Física (PMI) y la coordinación con el COPLADE y COPLADEMUN, en concordancia con las necesidades prioritarias de las áreas de que integran los SSM, llevando a cabo el seguimiento programático-presupuestal.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 32.
 
 La Dirección de Administración tendrá a su cargo las siguientes atribuciones específicas:
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
-
-I.- Coordinar, operar, controlar y supervisar la integración, formulación y control del ejercicio del Programa de Presupuesto, y asesorar a las diferentes áreas en el manejo y aplicación de sus recursos, así como en cuanto a las reasignaciones presupuestales que éstas realicen; y orientarlas durante el proceso de presupuestación de sus Programas Operativos Anuales;
+I. Coordinar, operar, controlar y supervisar la integración, formulación y control del ejercicio del Programa de Presupuesto, y asesorar a las diferentes áreas del Organismo en el manejo y aplicación de sus recursos, así como en cuanto a las reasignaciones presupuestales que éstas realicen, y orientarlas durante el proceso de presupuestación de sus Programas Operativos Anuales;
 
 II.- Elaborar conforme al techo presupuestal autorizado, las afectaciones que generen las adquisiciones realizadas, proporcionando los informes que establezca la normatividad vigente;
 
-III.- Llevar a cabo la formulación, propuesta y en su caso, aplicación de las políticas, normas y procedimientos para la racionalización, austeridad, disciplina, aprovechamiento y desconcentración del gasto, de conformidad con los lineamientos que en materia señale las dependencias globalizadoras;
+III.- Llevar a cabo la formulación, propuesta y, en su caso, aplicación de las políticas, normas y procedimientos para la racionalización, austeridad, disciplina, aprovechamiento y desconcentración del gasto, de conformidad con los lineamientos que en la materia señale (sic) las dependencias globalizadoras;
 
 IV.- Establecer los mecanismos necesarios para el control de los enteros que se efectúen ante las autoridades competentes, relativos a los ingresos por cuenta de terceros que se deriven de la prestación de servicios;
 
@@ -1727,31 +1667,33 @@ V.- Definir, establecer y operar el sistema de contabilidad aplicando las metas 
 
 VI.- Recopilar e integrar la información que se requiera para la formulación de la Cuenta Pública y los Estados Financieros del Organismo;
 
-VII.- (DEROGADA, P.O. 28 DE OCTUBRE DE 2009)
+VII.- Llevar a cabo los procesos licitatorios para efectuar las adquisiciones de bienes de consumo y de activo fijo, que requiera el Organismo de conformidad con los programas autorizados, apegándose a los ordenamientos legales que rijan en materia de adquisiciones, expidiendo de acuerdo con sus atribuciones, la normatividad correspondiente;
 
-VIII.- (DEROGADA, P.O. 28 DE OCTUBRE DE 2009)
+VIII.- Administrar los almacenes del Organismo por medio de un sistema de control de inventario, así como vigilar y realizar la distribución de bienes e insumos, de acuerdo a las disponibilidades existentes y en su caso, determinar y tramitar la baja y destino final de maquinaria y equipo y de los demás bienes del Organismo, emitiendo al efecto el dictamen técnico y en su caso, instrumentar el procedimiento respectivo de conformidad con las disposiciones jurídicas aplicables;
 
-IX.- Llevar a cabo los procesos licitatorios para efectuar las adquisiciones de bienes de consumo y de activo fijo, que requiera el Organismo de conformidad con los programas autorizados, apegándose a los ordenamientos legales que rijan en materia de adquisiciones, expidiendo de acuerdo con sus atribuciones, la normatividad correspondiente;
+IX.- Proporcionar los servicios generales de correspondencia, archivo y reproducción, intendencia, mantenimiento de equipo de oficina, transporte de personal, talleres, seguridad y vigilancia que requieran las unidades administrativas del Organismo;
 
-X.- Administrar los almacenes del Organismo por medio de un sistema de control de inventario, así como vigilar y realizar la distribución de bienes e insumos, de acuerdo a las disponibilidades existentes y en su caso, determinar y tramitar la baja y destino final de maquinaria y equipo y de los demás bienes del Organismo, emitiendo al efecto el dictamen técnico y en su caso, instrumentar el procedimiento respectivo de conformidad con las disposiciones jurídicas aplicables;
+X.- Establecer la normatividad, tanto de nivel administrativo como de jurisdicciones sanitarias y unidades hospitalarias, así como brindar asesoría y apoyo técnico en materia de rehabilitación de equipo médico y de obra;
 
-XI.- Proporcionar los servicios generales de correspondencia, archivo y reproducción, intendencia, mantenimiento de equipo de oficina, transporte de personal, talleres, seguridad y vigilancia que requieran las unidades administrativas del Organismo;
+XI.- Controlar y evaluar los proyectos y programas de obras y conservación, adaptación y mantenimiento de los bienes muebles, inmuebles y equipo, llevando a cabo las licitaciones de obra, conservación y mantenimiento, y la contratación de los prestadores de servicios y dictamen de fallos, de conformidad con la legislación vigente, así como coordinar la entrega recepción de las obras ejecutadas;
 
-XII.- (DEROGADA, P.O. 28 DE OCTUBRE DE 2009)
+XII.- Asesorar y apoyar técnicamente a las Jurisdicciones Sanitarias y a las Unidades Hospitalarias en materia de conservación y mantenimiento de los aspectos físicos e instalaciones;
 
-XIII.- Supervisar que las unidades administrativas del Organismo cumplan adecuadamente las resoluciones pronunciadas por las jurisdiccionales sanitarias;
+XIII.- Participar en los procedimientos de adjudicación de obra pública correspondiente a la infraestructura física en salud, ante la Secretaría de Obras Públicas del Poder Ejecutivo Estatal;
 
-XIV.- Proporcionar a los órganos de Vigilancia y control o normativos, la documentación e información que soliciten con motivos de auditorías, supervisiones, revisiones, etc.;
+XIV.- Supervisar que las Unidades Administrativas del Organismo cumplan adecuadamente las resoluciones pronunciadas por las jurisdiccionales sanitarias;
 
-XV.- Implantar y operar sistemas de administración de personal y remuneraciones, acorde con las normas y políticas emitidas por la Secretaría de Salud;
+XV.- Proporcionar a los órganos de vigilancia y control o normativos, la documentación e información que soliciten con motivos de auditorías, supervisiones, revisiones, etc.;
 
-XVI.- Establecer los mecanismos de reclutamiento y selección de personal que ingrese a prestar servicios al Organismo;
+XVI.- Implantar y operar sistemas de administración de personal y remuneraciones, acorde con las normas y políticas emitidas por la Secretaría de Salud;
 
-XVII.- Vigilar la aplicación de las condiciones generales de trabajo del Organismo;
+XVII.- Establecer los mecanismos de reclutamiento y selección de personal que ingrese a prestar servicios al Organismo;
 
-XVIII.- Promover cursos de capacitación y desarrollo profesional al personal que labora en el Organismo, y
+XVIII.- Vigilar la aplicación de las condiciones generales de trabajo del Organismo;
 
-XIX.- Instrumentar y operar el programa de premios, estímulos y recompensas así como establecer el programa anual de vacaciones escalonadas.
+XIX.- Promover cursos de capacitación y desarrollo profesional al personal que labora en el Organismo, y
+
+XX.- Instrumentar y operar el programa de premios, estímulos y recompensas así como establecer el programa anual de vacaciones escalonadas.
 
 ###### Artículo 33.
 
@@ -1791,7 +1733,9 @@ XVI.- Conducir y controlar el sistema de administración de personal, así como 
 
 XVII.- Operar y controlar los sistemas de abasto, servicios generales, así como los programas de conservación, mantenimiento e inventario de bienes muebles e inmuebles de las áreas que integran la jurisdicción;
 
-XVIII.- Participar en la elaboración, actualización, ejecución y control del Plan Estatal Maestro de Infraestructura Física en Salud para Población Abierta, en lo correspondiente a la jurisdicción sanitaria, así como integrar el diagnóstico de la infraestructura y las condiciones de las unidades médicas;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XVIII.- Participar en la elaboración, actualización, ejecución y control del Plan Estatal Maestro de Infraestructura Física en Salud, en lo correspondiente a la jurisdicción sanitaria, así como integrar el diagnóstico de la infraestructura y las condiciones de las unidades médicas;
 
 XIX.- Administrar, controlar e informar los ingresos por cuotas de recuperación u otras formas de contraprestación de servicios que se recaben en las unidades de la jurisdicción, y
 
@@ -1879,15 +1823,17 @@ XXXVI.- La constitución, integración y funciones de los patronatos serán dete
 
 XXXVII.- Establecer y desarrollar los procedimientos, estrategias e instrumentos de evaluación y auto - evaluación de la unidad hospitalaria, y
 
-XXXVIII.- Proporcionar a la comisaría la documentación e información que solicite, con motivo de auditorías, supervisiones, revisiones, entre otras.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XXXVIII.- Proporcionar a la Comisaría Pública del Organismo, la documentación e información que solicite con motivo de las auditorías, supervisiones, revisiones, entre otras que realice.
 
 ### CAPÍTULO VIII. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 35.
 
-Durante las ausencias temporales del Director General de Servicios de Salud de Morelos, la atención y despacho de los asuntos correspondientes, quedará a cargo del Director de Servicios de Salud a la Persona; a falta de éste, por el Director de Servicios de Salud a la Comunidad; a falta de éste, por el Comisionado para la Protección contra Riesgos Sanitarios; a falta de éste, por el Director de Administración y a falta de éste, por el Director de Planeación y Evaluación.
+Durante las ausencias temporales del Director General del Organismo, la atención y despacho de los asuntos correspondientes, quedará a cargo de la persona titular de la Dirección de Servicios de Salud a la Persona; a falta de ésta, por la persona titular de la Dirección de Servicios de Salud a la Comunidad; a falta de ésta, por el Comisionado para la Protección contra Riesgos Sanitarios; a falta de éste, por el Director de Administración y, a falta de éste, por el Director de Planeación y Evaluación, respectivamente.
 
 ###### Artículo 36.
 
@@ -1903,11 +1849,11 @@ Los Directores de área, Subdirectores, Jefes de Departamento, responsables de U
 
 Para su mejor organización y funcionamiento, las comisiones y los comités establecerán sus normas internas de operación.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 39.
 
-La Comisión Consultiva de Legislación y Normas técnicas en materia de salubridad local, se integrará por el Director General, quien la presidirá, el Director de Servicios de Salud a la Persona, el Comisionado para la Protección contra Riesgos Sanitarios, el Director de Planeación y el Subdirector Jurídico, quién será el Secretario Técnico y el Comisario quien asistirá a las sesiones con voz pero sin voto.
+La Comisión Consultiva de Legislación y Normas técnicas en materia de salubridad local, se integrará por el Director General, quien la presidirá, el Director de Servicios de Salud a la Persona, el Comisionado para la Protección contra Riesgos Sanitarios, el Director de Planeación y Evaluación, el Subdirector Jurídico, quién será el Secretario Técnico. El Comisario Público del Organismo asistirá a las sesiones con voz pero sin voto.
 
 ###### Artículo 40.
 
@@ -1935,27 +1881,39 @@ VIII.- Conducir la evaluación del cumplimiento de las normas técnicas y sugeri
 
 El Subcomité de Adquisiciones, Arrendamientos y Servicios del Organismo se integrará de la forma siguiente:
 
-l. Presidente: El Director General de Servicios de Salud de Morelos;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-II. Secretario Técnico: El Director de Administración de Servicios de Salud de Morelos;
+I. Presidente: El Director General del Organismo;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+II. Secretario Técnico: El Director de Administración del Organismo;
 
 III. Representante del Comité: La persona titular de la Unidad Administrativa encargada de las adquisiciones y patrimonio del Poder Ejecutivo.
 
 IV. Vocales: Tres personas titulares de las Unidades Administrativas que conformen la Dependencia o Entidad, designados permanentemente por el Presidente.
 
-A las sesiones del Subcomité de Adquisiciones, Arrendamientos y Servicios podrán asistir el subdirector jurídico y el Comisario Público en el Organismo Servicios de Salud de Morelos, en su calidad de invitados, quienes tendrán voz pero no voto para las decisiones que ahí se tomen.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
+A las sesiones del Subcomité de Adquisiciones, Enajenaciones, Arrendamientos y Servicios podrán asistir el Subdirector Jurídico y el Comisario Público del Organismo, en su calidad de invitados, quienes tendrán voz pero no voto para la toma de decisiones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 42.
 
-El Subcomité de Adquisiciones, Arrendamientos y servicios del Organismo, tendrá las atribuciones siguientes:
+El Subcomité de Adquisiciones, Enajenaciones, Arrendamientos y Servicios del Organismo tendrá las atribuciones siguientes:
 
-I.- Divulgar el contenido de las Leyes de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo y la de Presupuesto, Contabilidad y Gasto Público Federal, así como las demás disposiciones aplicables a dichas actividades; además orientar al personal responsable del abastecimiento y manejo de almacenes, en el cumplimiento de tales ordenamientos legales;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-II.- Ejecutar sus funciones de conformidad con la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo, sus normas y los convenios suscritos con la Federación, que le otorgan facultades específicas;
+I.- Divulgar el contenido de las disposiciones aplicables en materia de adquisiciones, enajenaciones, arrendamientos y servicios, así como las de presupuesto, contabilidad y gasto público, además, orientar al personal responsable del abastecimiento y manejo de almacenes en el cumplimiento de tales ordenamientos normativos;
 
-III.- Establecer la coordinación correspondiente con el Comité de compras del Ejecutivo del Estado, para plantear los asuntos procedentes y coadyuvar al cumplimiento de las normas y acuerdos que dicten tales instancias;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+II.- Ejecutar sus funciones de conformidad con la legislación federal y estatal correspondiente en materia de adquisiciones, enajenaciones, arrendamientos y servicios, sus reglamentos y los convenios suscritos con la Federación, que le otorgan facultades específicas;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+III.- Establecer la coordinación correspondiente con el Comité para el Control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado de Morelos, para plantear los asuntos procedentes y coadyuvar al cumplimiento de las normas y acuerdos que dicten tales instancias;
 
 IV.- Sugerir las investigaciones y métodos necesarios para otorgar mayor eficacia y unificación a los sistemas y procedimientos relacionados con las compras a realizar por el Organismo y con los concursos consolidados de medicamentos y material de curación en los que se participe;
 
@@ -1971,47 +1929,51 @@ IX.- Las que le confiere el acuerdo por el que se crean subcomités para el cont
 
 X.- Las demás que sean necesarias para el cumplimiento de sus funciones; atendiendo en todo caso los convenios y acuerdos de coordinación celebrados entre el Ejecutivo Federal y el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 43.
 
-El Comité Estatal de Planeación, Desarrollo y Control de Infraestructura Física en Salud, constituye el Órgano colegiado de participación plural, con capacidad para coordinar, dirigir, analizar y resolver técnica, administrativa y operativamente en el ámbito Estatal, la planeación, programación presupuestación, supervisión, evaluación, seguimiento y control de las acciones de obras, conservación y equipamiento de las unidades médicas y establecimientos de apoyo a la salud.
+El Comité Estatal de Planeación de Espacios en Salud constituye el órgano colegiado de participación plural, con capacidad para coordinar, dirigir, analizar y resolver técnica, administrativa y operativamente, en el ámbito estatal, la planeación, programación presupuestación, supervisión, evaluación, seguimiento y control de las acciones de obras, conservación y equipamiento de las unidades médicas y establecimientos de apoyo a la salud.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 44.
 
-El Comité Estatal de Planeación, Desarrollo y Control de Infraestructura Física en Salud, tendrá las atribuciones siguientes:
+El Comité Estatal de Planeación de Espacios en Salud tendrá las atribuciones siguientes:
 
-I.- Aplicar y vigilar que se cumplan tanto la normatividad, como los programas de acciones que determinen, la Secretaría de Salud, el Organismo, el Sistema Estatal de Salud, el Programa Integral, el PEMISPA, la Oficialía Mayor, la CGOCE y la UDIF, en forma conjunta o particularmente;
+I.- Conocer el Plan Maestro de Infraestructura Física en Salud a efecto de validar las propuestas para la ejecución de obra nueva, ampliación, sustitución, remodelación, conservación y mantenimiento de la infraestructura física del Organismo;
 
-II.- Verificar que las decisiones en materia de planeación, programación, presupuestación supervisión, evaluación, seguimiento y control de las acciones de Infraestructura Física, se efectúen en un marco de respeto, imparcialidad, objetividad y corresponsabilidad y que impulsen el logro de los objetivos de la descentralización, en forma expedita;
+II.- Aplicar y vigilar que se cumplan tanto la normatividad, como los programas de acciones que determinen, la Secretaría de Salud del Poder Ejecutivo Estatal, el Organismo, el Plan Maestro de Infraestructura Física en Salud (PMIFS), la Secretaria de Obras Públicas del Poder Ejecutivo Estatal, la Dirección General de Desarrollo de la Infraestructura Física y la Dirección General de Planeación y Desarrollo en Salud de la Secretaría de Salud Federal en forma conjunta o particularmente;
 
-III.- Verificar que sus decisiones sean cumplidas cabalmente y con oportunidad y en su caso, aplicar las medidas correctivas para, cuando se presenten, subsanar retrasos o inconsistencias en la ejecución de los trabajos que se hayan derivado de la toma de decisiones, y
+III.- Verificar que las decisiones en materia de planeación, programación, presupuestación supervisión, evaluación, seguimiento y control de las acciones de infraestructura física, se efectúen en un marco de respeto, imparcialidad, objetividad;
 
-IV.- Informar de los resultados de la operación regular del Comité, a la Junta de Gobierno del Organismo, a la CGOCE, a través de la UDIE, para efectos de seguimiento.
+IV.- Verificar que sus decisiones sean cumplidas cabalmente y con oportunidad por las instancias ejecutoras y financiadoras de Gobierno del Estado y, en su caso, aplicar las medidas correctivas para, cuando se presenten, se subsanen retrasos o inconsistencias en la ejecución de los trabajos que se hayan derivado de la toma de decisiones, e
+
+V.- Informar de los resultados de la operación regular del Comité, a la Junta de Gobierno del Organismo para efectos de seguimiento.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 45.
 
-El comité Estatal de Planeación, Desarrollo y Control de Infraestructura Física en Salud, se integrará de la siguiente forma:
+El Comité Estatal de Planeación de Espacios en Salud se integrará de la siguiente forma:
 
-I.- PRESIDENTE.- Director General del Organismo;
+I. PRESIDENTE.- La persona titular de la Dirección General del Organismo;
 
-II.- SECRETARIO TÉCNICO EJECUTIVO.- Director de Planeación del Organismo;
+II. SECRETARIO TÉCNICO EJECUTIVO.- La persona titular de la Dirección de Planeación y Evaluación del Organismo;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+III. COORDINADOR ESTATAL DEL PMIFS.- La persona titular de la Subdirección de Planeación y Desarrollo del Organismo;
 
-III.- SECRETARIOS AUXILIARES.- Director de Servicios de Salud a la Persona, Comisionado para la Protección contra Riesgos Sanitarios, Director de Administración y Jefe de Infraestructura del Organismo;
+IV. VOCALES.- La persona titular de la Dirección de Servicios de Salud a la Persona, Director de Servicios de Salud a la Comunidad, Comisionado para la Protección contra Riesgos Sanitarios, Director de Administración, Jefes de las Jurisdicciones Sanitarias y Directores de los Hospitales;
 
-IV.- VOCALES.- Integrantes del COPLADE y representantes del Sistema Estatal de Salud, Jefes de Jurisdicción Sanitaria y Directores de Hospital;
+V. ASESORES.- La persona titular de la Comisaria Pública y la persona titular de la Subdirección Jurídica del Organismo, así como un representante de las diferentes áreas de la Secretaría de Salud Federal, quienes participarán con voz pero sin voto, e
 
-V.- TÉCNICO OPERATIVO.- Coordinador Estatal del PEMISPA.
+VI. INVITADOS.- Los servidores públicos de los que se consideren necesaria su asistencia, para proporcionar o aclarar información de los asuntos a tratar de acuerdo a las necesidades particulares del Organismo, quienes tendrán derecho a voz pero no a voto.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
-
-VI.- ASESORES.- Comisario, Subdirector Jurídico y un representante de la Secretaria de Salud, quienes participarán con voz pero sin voto; y
-
-VII.- INVITADOS.- representante de la Secretaría de Salud, y los que se consideren necesarios, que asistan para proporcionar o aclarar información de los asuntos a tratar de acuerdo a las necesidades particulares del Organismo, quienes tendrán derecho a voz pero no a voto.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 46.
 
-Las funciones y desarrollo de las sesiones del Comité Estatal de Planeación, Desarrollo y Control de Infraestructura Física en Salud, se regirán por el Manual de Organización expedido por la Oficialía Mayor de la Secretaría de Salud.
+El funcionamiento y desarrollo de las sesiones del Comité Estatal de Planeación de Espacios en Salud se regirán por su propio Reglamento que se expida por aquél.
 
 ###### Artículo 47.
 
@@ -2027,39 +1989,39 @@ II.- Identificar necesidades de servicios y equipos de informática;
 
 III.- Proponer parámetros que determinen el funcionamiento y los requerimientos de servicios informáticos, conforme a la estructura Jurídica, Orgánica y Programática del Organismo:
 
-IV.- Proponer medidas para la adecuación, organización y sistematización Jurídica que fomente la óptima coordinación en materia de Informática;
+IV.- (DEROGADA, P.O. 28 DE AGOSTO DE 2013)
 
-V.- Fomentar la formulación de un plan de integración y desarrollo de un sistema sectorial de servicios informáticos, con base en las normas aplicables para el efecto;
+V.- (DEROGADA, P.O. 28 DE AGOSTO DE 2013)
 
-VI.- Realizar el análisis necesario para la integración de un programa estatal de desarrollo informático, que permita regular, administrar y consolidar los servicios informáticos del Organismo;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+VI.- Realizar el análisis necesario para la integración de un programa institucional de desarrollo informático que permita regular, administrar y consolidar los servicios informáticos del Organismo;
 
 VII.- Formular sugerencias respecto al presupuesto para la adquisición y contratación de bienes y servicios informáticos;
 
-VIII.- Promover que el uso de definiciones, clasificaciones, nomenclaturas, procedimientos y cálculos matemáticos empleados en los servicios y recursos informáticos, se ajusten a las normas nacionales e internacionales adoptadas por la Secretaría de Hacienda y Crédito Público;
+VIII.- (DEROGADA, P.O. 28 DE AGOSTO DE 2013)
 
-IX.- Recomendar el empleo de formularios uniformes para la recolección, codificación y captura de información, así como la simplificación y optimización de los procedimientos;
+IX.- (DEROGADA, P.O. 28 DE AGOSTO DE 2013)
 
 X.- Evaluar y proponer alternativas de solución sobre el sistema de servicios informáticos, y
 
-XI.- Informar al Comité de Informática de la Secretaría de Salud de los acuerdos y resoluciones que se adopten por el Comité del Organismo.
+XI.- (DEROGADA, P.O. 28 DE AGOSTO DE 2013)
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 49.
 
 El Comité de Informática se integrará de la siguiente forma:
 
-I.- PRESIDENTE.- Director General del Organismo;
+I.- PRESIDENTE.- La persona titular de la Dirección General del Organismo;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+II.- COORDINADOR GENERAL.- La persona titular de la Dirección de Planeación y Evaluación del Organismo;
 
-II.- VOCALES.- Director de Servicios de Salud a la Persona, Comisionado para la Protección contra Riesgos Sanitarios, Director de Administración, así como por la Coordinación Hospitalaria y la Jefatura de Enseñanza, Investigación y Capacitación;
+III.- SECRETARIO TÉCNICO.- La persona titular de la Subdirección de Tecnologías e Información en Salud;
 
-III.- COORDINADOR GENERAL.- Director de Planeación y Evaluación;
+IV.- VOCALES.- La persona titular de la Dirección de Servicios de Salud a la Persona, Director de Servicios de Salud a la Comunidad, Comisionado para la Protección contra Riesgos Sanitarios, Director de Administración, e
 
-IV.- SECRETARIO TÉCNICO.- Jefe de Informática del Organismo, y
-
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
-
-V.- INVITADOS PERMANENTES.- Representante de la Secretaría de Salud, de la Oficialía Mayor de Gobierno del Estado y las Direcciones Generales de Estadística e Informática del Instituto Nacional de Estadística, Geografía e Informática, así como el Comisario del Organismo.
+V.- INVITADOS.- Los servidores públicos de los que se considere necesaria, su asistencia para proporcionar o aclarar información de los asuntos a tratar de acuerdo a las necesidades particulares del Organismo, quienes tendrán derecho a voz pero no a voto.
 
 ###### Artículo 50.
 
@@ -2077,13 +2039,19 @@ I.- Presidente: El Director de Servicios de Salud a la Persona;
 
 II.- Secretario Ejecutivo: El Subdirector de Hospitales;
 
-III.- Secretario Técnico: El responsable del programa de Residuos Peligrosos Biológico Infecciosos en los Servicios de Salud de Morelos;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-IV.- Vocales: El Director de Planeación, el Director de Administración, el Subdirector de Primer Nivel de Atención, el Subdirector de Almacenes y Control de Abasto y el Jefe de Departamento de Servicios Generales;
+III.- Secretario Técnico: El responsable del Programa de Residuos Peligrosos Biológico Infecciosos en el Organismo;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+IV.- Vocales: Las personas titulares de la Dirección de Planeación y Evaluación, de la Dirección de Administración, de la Subdirección de Primer Nivel de Atención y de la Jefatura de Departamento de Servicios Generales;
 
 V.- Asesor: El Subdirector Jurídico, quien participa con voz pero sin voto;
 
-VI.- Órgano de Control: Representante de la Comisaría de la Secretaría de la Contraloría quien participa con voz pero sin voto, y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+VI.- Órgano de Control: el Comisario Público del Organismo quien participa con voz pero sin voto, y
 
 VII.- Invitado Permanente: Un representante de la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Morelos, con voz pero sin voto.
 
@@ -2093,13 +2061,19 @@ VII.- Invitado Permanente: Un representante de la Comisión para la Protección 
 
 La comisión de vigilancia del Programa de Residuos Peligrosos Biológico Infecciosos tendrá las siguientes atribuciones:
 
-I.- Asesorar y apoyar en el ámbito de su competencia a las Unidades de Salud dependientes de los Servicios de Salud de Morelos, para llevar a cabo el Programa de Manejo de los Residuos Peligrosos Biológico Infecciosos, de acuerdo con la reglamentación y normatividad vigente;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+I.- Asesorar y apoyar en el ámbito de su competencia a las unidades médicas de primer y segundo nivel de atención dependientes del Organismo, para llevar a cabo el Programa de Manejo de los Residuos Peligrosos Biológico Infecciosos, de acuerdo con la reglamentación y normatividad vigente en la materia;
 
 II.- Analizar el comportamiento de la generación de los residuos peligrosos biológico infecciosos a fin de disminuir la generación de los mismos;
 
-III.- Informar de los avances en la materia sobre la problemática que se presenta en la generación y manejo de residuos peligrosos biológico infecciosos, en las Unidades de Salud y presentar propuestas de solución para mejorar la eficiencia, y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-IV.- Presentar informes del comportamiento en la generación de residuos biológicos infecciosos por las Unidades Médicas al Comité de Adquisiciones, toda vez que sea pertinente, para agilizar los insumos necesarios para el desempeño del Programa de Residuos Peligrosos Biológico Infecciosos.
+III.- Informar de los avances en la materia sobre la problemática que se presenta en la generación y manejo de residuos peligrosos biológico infecciosos, en las Unidades Médicas de primer y segundo nivel de atención y presentar propuestas de solución para mejorar la eficiencia, y
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+IV.- Presentar informes del comportamiento en la generación de residuos biológicos infecciosos por las Unidades Médicas de primer y segundo nivel de atención a la Dirección de Administración del Organismo, toda vez que sea pertinente, para agilizar los insumos necesarios para el desempeño del Programa de Residuos Peligrosos Biológico Infecciosos.
 
 > <small>(ADICIONADO, P. O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -2224,3 +2198,11 @@ P.O. 9 DE MAYO DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
 
 SEGUNDO. Las Unidades Administrativas que por el presente Decreto deban actualizar sus manuales de políticas y procedimientos, contarán con un plazo de 90 días hábiles para actualizarlo.
+
+P.O. 28 DE AGOSTO DE 2013.
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan las disposiciones de igual o menor rango jerárquico normativo que contravengan al presente Decreto.
+
+TERCERA. Los Manuales de Organización, y de Políticas y Procedimientos del Organismo Público Descentralizado denominado "Servicios de Salud de Morelos", deberán ser modificados, actualizados y aprobados por su Junta de Gobierno, en plazo no mayor a treinta días hábiles contados a partir de la entrada en vigor del presente Decreto.
