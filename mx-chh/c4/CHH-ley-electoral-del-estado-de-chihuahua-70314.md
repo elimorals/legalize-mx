@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-70314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-12"
-last_updated: "2012-10-13"
+last_updated: "2013-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 12 de septiembre de 2009.
 
@@ -3393,7 +3393,11 @@ Artículo 226
 
 7. Los magistrados del Tribunal durarán en su encargo seis años y podrán ser reelectos por una sola ocasión. Asimismo, percibirán una remuneración igual a la que reciben los magistrados del Supremo Tribunal de Justicia del Estado.
 
-8. En caso de renuncia, destitución, incapacidad, ausencia o muerte de los magistrados del Tribunal, se procederá a nombrar a quien los sustituya, bajo el mismo procedimiento señalado en el punto dos de este artículo. La ausencia temporal del Magistrado Presidente será suplida por el magistrado de mayor antigüedad en el cargo. Si estuvieren varios en ese caso, suplirá el de mayor edad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+8. En caso de renuncia, destitución, incapacidad, ausencia o muerte de los magistrados del Tribunal, se procederá a nombrar a quien los sustituya, bajo el mismo procedimiento señalado en el punto tres de este artículo. La ausencia temporal del Magistrado Presidente será suplida por el magistrado de mayor antigüedad en el cargo. Si estuvieren varios en ese caso, suplirá el de mayor edad. La ausencia temporal de cualesquiera de los otros Magistrados, solo cuando haya iniciado el Proceso Electoral, será suplida por el Secretario General del Tribunal.
 
 Artículo 227
 
@@ -5652,3 +5656,25 @@ II.- Los Diputados que integrarán la LXV Legislatura local, durarán dos años 
 III.- Los integrantes de los Ayuntamientos, así como de las Juntas Municipales y Comisarios de Policía que se elijan en el año 2016, durarán igualmente dos años en su cargo.
 
 Las autoridades electorales del Estado proveerán lo necesario en cada caso, a fin de que las disposiciones contenidas en este artículo tengan un exacto cumplimiento, y para que la periodicidad establecida por los artículos constitucionales mencionados, se concrete precisamente a los casos enunciados en las fracciones anteriores.
+
+P.O. 28 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de las Iniciativas, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que respecta a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor en un año contado a partir del día siguiente al de su publicación en el Periódico Oficial del Estado. Las reformas y adiciones a la Ley Electoral del Estado de Chihuahua, contenidas en el Artículo Segundo del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
+
+###### ARTÍCULO TERCERO.
+
+El Tribunal de Justicia Electoral y Administrativa del Estado se integrará por los magistrados que actualmente conforman el Tribunal Estatal Electoral, quienes cumplirán el cargo por el período para el cual fueron designados anteriormente.
+
+###### ARTÍCULO CUARTO.
+
+El patrimonio del Tribunal de Justicia Electoral y Administrativa del Estado se compondrá con el que posea el Tribunal Estatal Electoral al momento de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Una vez que entre en vigor la presente reforma se deberán hacer las adecuaciones legales pertinentes en un plazo de noventa días.
