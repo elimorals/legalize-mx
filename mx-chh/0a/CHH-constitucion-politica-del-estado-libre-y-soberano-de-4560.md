@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2013-06-29"
+last_updated: "2013-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2013.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -493,9 +493,11 @@ I.- El Legislativo, en una asamblea que se denominará "Congreso del Estado".
 
 II.- El Ejecutivo, en un funcionario con el nombre de "Gobernador del Estado".
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- El Judicial, en un "Supremo Tribunal de Justicia" y en los jueces de primera instancia, menores y de paz.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+III. El Judicial, en un Supremo Tribunal de Justicia, un Tribunal de Justicia Electoral y Administrativa y en los jueces de primera instancia, menores y de paz.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -541,11 +543,11 @@ V.- Sucesivamente, el Presidente Municipal que, habiendo permanecido dentro del 
 
 La persona que asuma el Poder Ejecutivo conforme a este artículo, convocará dentro de los noventa días siguientes a elecciones de diputados al Congreso, y éste una vez instalado, nombrará Gobernador con el carácter que corresponda.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA DENOMINACIÓN DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-## TITULO VI.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2013)</small>
 
-DE LOS PROCESOS ELECTORALES.
+## TITULO VI.. DE LOS PROCESOS ELECTORALES Y DE LA JUSTICIA ADMINISTRATIVA
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
@@ -557,7 +559,11 @@ La renovación de los Poderes Legislativo, Ejecutivo y los Ayuntamientos, se rea
 
 Los procesos electorales ordinarios para la renovación del Poder Ejecutivo se celebrarán cada seis años, y para el Poder Legislativo y los Ayuntamientos cada tres años; todos los procesos se sujetarán a los principios rectores de certeza, legalidad, imparcialidad, objetividad e independencia.
 
-Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, fijando los plazos convenientes para el desahogo de todas las instancias impugnativas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, fijando los plazos convenientes para el desahogo de todas las instancias impugnativas. Además, garantizará la protección de los derechos político electorales del ciudadano, de votar, ser votado y de asociarse individual y libremente para tomar parte en forma pacífica de los asuntos políticos del Estado.
 
 La Ley establecerá los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación y las causales de nulidad de las elecciones de Gobernador, diputados y ayuntamientos.
 
@@ -587,7 +593,11 @@ El Consejero Presidente y los consejeros electorales participan con voz y voto. 
 
 La duración del cargo de Consejero Presidente, así como la de los demás consejeros electorales, será de seis años, y estos últimos se elegirán de forma escalonada cada tres años. En ningún caso los consejeros podrán ser reelectos. La ley regulará lo relativo al llamamiento de los consejeros electorales designados para el proceso electoral inmediato anterior, para la celebración de procesos de plebiscito y referéndum.
 
-Las sesiones de los órganos electorales serán públicas y sus resoluciones recurribles ante el Tribunal Estatal Electoral, conforme disponga la ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+Las sesiones de los órganos electorales serán públicas y sus resoluciones recurribles ante el Tribunal de Justicia Electoral y Administrativa del Estado.
 
 Las actividades, funciones y servicios de carácter electoral, incluidas las relativas al padrón de electores, podrán desarrollarse en coordinación con el órgano federal competente. La ley establecerá las condiciones, requisitos y modalidades en que se convenga dicha coordinación.
 
@@ -597,41 +607,51 @@ El Instituto Estatal Electoral podrá realizar convenios con el Instituto Federa
 
 El Instituto Estatal electoral tendrá a su cargo, en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, diputados y miembros de los ayuntamientos, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Art. 37.
 
-El Tribunal Estatal Electoral es el órgano de legalidad y plena jurisdicción en la materia electoral, autónomo en su funcionamiento e independiente en sus decisiones, con patrimonio propio. Se compondrá de tres Magistrados que deberán satisfacer los mismos requisitos que establece esta Constitución para ser Magistrado del Supremo Tribunal de Justicia y además no haber sido candidato o haber desempeñado cargo de elección popular, ni fungido como dirigente de partido político en los últimos cinco años previos a la elección.
+El Tribunal de Justicia Electoral y Administrativa es el órgano especializado del Poder Judicial del Estado, de legalidad y plena jurisdicción en la materia electoral y administrativa, autónomo en su funcionamiento e independiente en sus decisiones, con patrimonio propio. Se compondrá de tres Magistrados que deberán satisfacer los mismos requisitos que establece esta Constitución para ser Magistrado del Supremo Tribunal de Justicia y además no haber sido candidato o haber desempeñado cargo de elección popular, ni fungido como dirigente de partido político en los últimos cinco años previos a la elección.
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
 
 Los Magistrados serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes, de entre los aspirantes que propongan los grupos parlamentarios. Si la mencionada mayoría no se logra en única votación, la Junta de Coordinación Parlamentaria propondrá una terna de candidatos para cada uno de los cargos que no se hubieren cubierto, de entre los aspirantes que hubiesen propuesto los grupos parlamentarios, efectuándose la elección por mayoría calificada de los diputados presentes; si no se logra tal elección la designación se hará mediante insaculación de entre los candidatos propuestos por la Junta de Coordinación Parlamentaria la ley establecerá las reglas y procedimientos de designación.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los Magistrados del Tribunal Estatal Electoral durarán en su encargo seis años, pudiendo ser reelectos por una sola ocasión. Recibirán remuneración igual a la que perciben los magistrados del Supremo Tribunal de Justicia del Estado.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+Los Magistrados del Tribunal de Justicia Electoral y Administrativa del Estado durarán en su encargo seis años, pudiendo ser reelectos por una sola ocasión. Recibirán remuneración igual a la que perciben los magistrados del Supremo Tribunal de Justicia del Estado.
 
-Corresponde al Tribunal Estatal Electoral resolver en forma definitiva e inatacable las impugnaciones que se presenten en materia electoral, de referéndum y plebiscito, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
-En la elección de Gobernador, el Instituto Estatal Electoral dará cuenta al Congreso de la declaratoria de validez y de la constancia de mayoría que hubiere expedido, y en caso de impugnación, el Tribunal Estatal Electoral dará cuenta al Congreso de su resolución para que éste, mediante formal decreto haga la declaratoria de Gobernador electo, que a su vez turnará al Ejecutivo para su publicación en el Periódico Oficial del Estado. Si el Ejecutivo o el Congreso no cumplieren en el término que la Ley señale, el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en caso de impugnación ordenarán la publicación de la mencionada declaratoria en el Periódico Oficial.
+Corresponde al Tribunal de Justicia Electoral y Administrativa del Estado resolver en forma definitiva e inatacable, las impugnaciones que se presenten, conforme a lo siguiente:
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El Tribunal Estatal Electoral funcionará en pleno durante los procesos electorales, los plebiscitarios y de referéndum; podrán establecerse salas regionales. La Ley establecerá la forma de su organización y funcionamiento.
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
-Concluido cada proceso electoral, el Tribunal Estatal Electoral presentará al Congreso y hará público un informe del desempeño de sus funciones.
+A. Las de materia electoral, de referéndum y plebiscito, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2009)</small>
+En la elección de Gobernador, el Instituto Estatal Electoral dará cuenta al Congreso de la declaratoria de validez y de la constancia de mayoría que hubiere expedido, y en caso de impugnación el Tribunal de Justicia Electoral y Administrativa del Estado dará cuenta al Congreso de su resolución para que éste, mediante formal decreto haga la declaratoria de Gobernador electo, que a su vez turnará al Ejecutivo para su publicación en el Periódico Oficial del Estado. Si el Ejecutivo o el Congreso no cumplieren en el término que la Ley señale, el Instituto Estatal Electoral o el Tribunal de Justicia Electoral y Administrativa del Estado, en caso de impugnación ordenarán la publicación de la mencionada declaratoria en el Periódico Oficial.
 
-El Tribunal Estatal Electoral hará uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones, en los términos que fije la ley.
+El Tribunal de Justicia Electoral y Administrativa del Estado funcionará en pleno durante los procesos electorales, los plebiscitarios y de referéndum; podrán establecerse salas regionales. La Ley establecerá la forma de su organización y funcionamiento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2009)</small>
+Concluido cada proceso electoral, el Tribunal de Justicia Electoral y Administrativa del Estado presentará al Congreso y hará público un informe del desempeño de sus funciones.
 
-El Tribunal Estatal Electoral sólo podrá declarar la nulidad de una elección por las causales expresamente establecidas en las leyes.
+El Tribunal de Justicia Electoral y Administrativa del Estado hará uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones, en los términos que fije la ley.
+
+El Tribunal de Justicia Electoral y Administrativa del Estado sólo podrá declarar la nulidad de una elección por las causales expresamente establecidas en las leyes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+B. Las de materia administrativa derivada de los juicios y controversias que se susciten entre los particulares y la administración pública estatal o municipal, ya sea centralizada o descentralizada en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
@@ -773,21 +793,23 @@ El Congreso se instalará, en casos ordinarios, el día primero de octubre y en 
 
 El Congreso cambiará su nomenclatura cada tres años.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Art. 45.
 
-El Instituto Estatal Electoral declarará diputados electos al Congreso del Estado, a los candidatos que hubieren recibido constancias de mayoría y de asignación proporcional no impugnadas ante el Tribunal Estatal Electoral dentro de los plazos y con los requisitos establecidos por la ley.
+El Instituto Estatal Electoral declarará diputados electos al Congreso del Estado, a los candidatos que hubieren recibido constancias de mayoría y de asignación proporcional no impugnadas ante el Tribunal de Justicia Electoral y Administrativa del Estado dentro de los plazos y con los requisitos establecidos por la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Art. 46.
 
-El Tribunal Estatal Electoral resolverá las impugnaciones que se interpongan en contra de las declaratorias de validez de elecciones y de las constancias de mayoría y de las de asignación proporcional otorgadas a los candidatos a diputados. Del mismo modo, las que se presenten en materia de referéndum y plebiscito.
+El Tribunal de Justicia Electoral y Administrativa del Estado resolverá las impugnaciones que se interpongan en contra de las declaratorias de validez de elecciones y de las constancias de mayoría y de las de asignación proporcional otorgadas a los candidatos a diputados. Del mismo modo, las que se presenten en materia de referéndum y plebiscito.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
-
-Las resoluciones que dicte el Tribunal Estatal Electoral serán definitivas e inatacables.
+Las resoluciones que dicte el Tribunal de Justicia Electoral y Administrativa del Estado serán definitivas e inatacables.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1031,17 +1053,23 @@ XV.- Constituido en Colegio Electoral:
 
 A.- Elegir Gobernador interino, provisional o sustituto en los casos que establezca esta Constitución.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-B.- Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo; así como aprobar el nombramiento del Fiscal General del Estado que para tal efecto envíe el Gobernador.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+B) Nombrar los magistrados que deban integrar el Poder Judicial; así como aprobar el nombramiento del Fiscal General del Estado que para tal efecto envíe el Gobernador.
 
-C.- Elegir y remover al consejero presidente y consejeros electorales del Instituto Estatal Electoral, a los magistrados del Tribunal Estatal Electoral, así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
-D.- Nombrar, a propuesta en terna del Ejecutivo, a los miembros que integrarán los consejos municipales, mientras se celebran las correspondientes elecciones extraordinarias, en los casos en que el Tribunal Estatal Electoral hubiere declarado la nulidad de los comicios o cuando, por cualquier otro motivo, dentro del primer año de ejercicio constitucional, faltaren de modo absoluto todos los miembros del ayuntamiento.
+C) Elegir y remover al consejero presidente y consejeros electorales del Instituto Estatal Electoral, así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+D) Nombrar, a propuesta en terna del Ejecutivo, a los miembros que integrarán los consejos municipales mientras se celebran las correspondientes elecciones extraordinarias, en los casos en que el Tribunal de Justicia Electoral y Administrativa del Estado hubiere declarado la nulidad de los comicios o cuando, por cualquier otro motivo, dentro del primer año de ejercicio constitucional, faltaren de modo absoluto todos los miembros del ayuntamiento;
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1059,9 +1087,11 @@ En los casos de nulidad de elecciones y en los demás a que se refieren este inc
 
 Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga el Código Municipal.
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVI.- Recibir la protesta legal del Gobernador, de los Diputados; de los Magistrados del Supremo Tribunal de Justicia, del Fiscal General del Estado; de los Magistrados del Tribunal Estatal Electoral y del Tribunal de lo Contencioso Administrativo; del Consejero Presidente y de los Consejeros Electorales del Instituto Estatal Electoral; del Presidente y demás integrantes del Consejo de la Comisión Estatal de los Derechos Humanos, así como de los Consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XVI.- Recibir la protesta legal del Gobernador, de los Diputados: de los Magistrados del Poder Judicial, del Fiscal General del Estado; del Consejero Presidente y de los Consejeros Electorales del Instituto Estatal Electoral; así como de los Consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1071,9 +1101,11 @@ XVII.- Resolver sobre las renuncias que hagan de sus cargos los funcionarios a q
 
 XVIII.- Convocar para elecciones extraordinarias de Gobernador en los casos que determina esta Constitución y de diputados en el caso del artículo 60 y, cuando habiendo falta definitiva de un diputado propietario y de su suplente, hayan de transcurrir más de doce meses para que se efectúen las ordinarias.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIX.- Conceder licencia temporal para separarse del ejercicio de sus funciones al gobernador, a los diputados, y a los magistrados del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo y del Supremo Tribunal de Justicia, cuando la de estos últimos sea por más de veinte días; al consejero presidente y consejeros electorales del Instituto Estatal Electoral; así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XIX.- Conceder licencia temporal para separarse del ejercicio de sus funciones al Gobernador, a los Diputados y a los Magistrados del Poder Judicial, cuando la de estos últimos sea por más de veinte días; al Consejero Presidente y Consejeros Electorales del Instituto Estatal Electoral; así como a los Consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1095,9 +1127,9 @@ XXIV.- Decretar la organización de las fuerzas de seguridad pública del Estado
 
 XXV.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribunales del Estado, mediante acuerdo de los dos tercios del número de diputados presentes.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXVI.- Instituir el Tribunal de lo Contencioso Administrativo dotado de plena autonomía para dictar sus fallos, que tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal o municipal y los particulares, estableciendo las normas para su organización, funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+XXVI. (DEROGADA, P.O. 28 DE AGOSTO DE 2013)
 
 > <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1409,9 +1441,11 @@ VI.- (DEROGADA, P.O. 9 DE MAYO DE 2007)
 
 VII.- Acordar la citación de los Suplentes en caso de falta absoluta de los Diputados Propietarios, que hubieren de funcionar en las sesiones próximas del Congreso.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- Recibir del Instituto Estatal Electoral y, en su caso, del Tribunal Estatal Electoral, la información relativa a la elección de Gobernador, de la que dará cuenta oportuna al Congreso para efectos de la declaratoria de Gobernador Electo.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+VIII.- Recibir del Instituto Estatal Electoral y, en su caso, del Tribunal de Justicia Electoral y Administrativa del Estado, la información relativa a la elección de Gobernador, de la que dará cuenta oportuna al Congreso, para efectos de la declaratoria de Gobernador Electo;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1621,9 +1655,9 @@ XVIII.- Presidir todas las reuniones oficiales a que concurra, a excepción de l
 
 XIX.- Asistir a la apertura del primer periodo ordinario de sesiones del Congreso, salvo lo dispuesto en el artículo 55, párrafo segundo y de los períodos extraordinarios cuando el Ejecutivo hubiere promovido la convocatoria por medio de la Diputación Permanente. En el primer caso, deberá presentar un informe sobre el estado que guarde la administración pública, y en el segundo sobre las razones que lo haya motivado a promover la solicitud respectiva de conformidad con el artículo 51.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XX.- Proponer al Congreso los candidatos a magistrados del Tribunal de lo Contencioso Administrativo.
+XX.- (DEROGADA, P.O. 28 DE AGOSTO DE 2013)
 
 XXI.- Pedir informes al Congreso y al Supremo Tribunal de Justicia sobre asuntos de los ramos de su incumbencia, respectivamente, y darlos cuando dichos Poderes los pidan acerca de los que competen al Ejecutivo.
 
@@ -1775,11 +1809,15 @@ DEL PODER JUDICIAL.
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Art. 99.
 
-La potestad de aplicar las leyes del fuero común en materia civil y penal en el territorio del Estado, corresponde al Poder Judicial, salvo las excepciones previstas en la ley.
+Se deposita el ejercicio del Poder Judicial del Estado en un Supremo Tribunal de Justicia y en un Tribunal de Justicia Electoral y Administrativa.
+
+La potestad de aplicar las leyes del fuero común en materia civil, penal, electoral y administrativa en el territorio del Estado, corresponde al Poder Judicial, salvo las excepciones previstas en la ley.
 
 ### CAPITULO II.
 
@@ -1797,7 +1835,25 @@ DEL SUPREMO TRIBUNAL DE JUSTICIA.
 
 Todos los cargos y empleos en el Poder Judicial son de aceptación y desempeño enteramente libres, pudiendo los nombrados tanto excusarse de aceptarlos como de renunciarlos ante la autoridad que haya hecho la designación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+Art 102.- Si al terminarse el período señalado a los magistrados y jueces pertenecientes al Supremo Tribunal de Justicia:
+
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+1.- No se hubiera emitido el dictamen de evaluación y, con base en el mismo, llevado a cabo su reelección, en su caso, se entenderá que han sido ratificados en sus cargos, sin perjuicio de las responsabilidades en que incurran los funcionarios legislativos o judiciales en quienes recaiga la omisión.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+2.- No se hubieran electo o presentado quienes deban reemplazarlos, continuarán aquellos en el ejercicio de sus funciones hasta que se haga la elección o se presenten los electos o nombrados, respectivamente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+Si al terminarse el período señalado al resto de los funcionarios pertenecientes al Supremo Tribunal de Justicia, no hubieren sido electos o nombrados quienes deban reemplazarlos, o no se hubieren presentado éstos, continuarán aquellos en el ejercicio de sus funciones hasta que se haga la elección o el nombramiento o se presenten los electos o nombrados, respectivamente.
 
 ###### Art. 102.
 
@@ -1813,17 +1869,33 @@ Si al terminarse el período señalado al resto de los funcionarios judiciales n
 
 El Supremo Tribunal de Justicia se compondrá cuando menos de quince magistrados, que serán designados de la siguiente manera:
 
-Cuando exista una vacante absoluta o se autorice la creación de una nueva Sala, el Supremo Tribunal de Justicia emitirá convocatoria pública dirigida a quienes satisfagan los requisitos que establece el artículo 108, por conducto de un Jurado, constituido por dos miembros del Poder Legislativo, dos del Poder Ejecutivo y dos magistrados del Poder Judicial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+Cuando exista una vacante absoluta o se autorice la creación de una nueva Sala, el Supremo Tribunal de Justicia emitirá convocatoria pública dirigida a quienes satisfagan los requisitos que establece el artículo 108, por conducto de un Jurado, constituido por dos miembros del Poder Legislativo, dos del Poder Ejecutivo y dos magistrados del Poder Judicial que tengan competencia en materia civil o penal.
 
 El Jurado elaborará los exámenes públicos de oposición que habrán de aprobar los aspirantes en los términos que disponga la Ley Orgánica respectiva. En igualdad de circunstancias se preferirá a aquellas personas que hayan prestado sus servicios con eficiencia y probidad en su honorabilidad, competencia y antecedentes, entre otras ramas de la profesión jurídica.
 
-Los magistrados serán electos por el Congreso con la votación de las dos terceras partes de los diputados presentes, mediante escrutinio secreto. Si ninguno obtuviere tal mayoría en primera votación, se repetirá ésta entre los dos que hubieran obtenido más sufragios y se declarará electo al que obtenga el expresado número de votos. Si luego de celebrada la segunda ronda de votación ninguno obtuviese la mayoría calificada, se elegirá a quien logre la mayoría absoluta; en caso de empate, se designará magistrado a quien ya preste sus servicios al Poder Judicial o, en su caso, al que tenga más años haciéndolo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+Los magistrados del Supremo Tribunal de Justicia serán electos por el Congreso con la votación de las dos terceras partes de los diputados presentes, mediante escrutinio secreto. Si ninguno obtuviere tal mayoría en primera votación, se repetirá ésta entre los dos que hubieran obtenido más sufragios y se declarará electo al que obtenga el expresado número de votos. Si luego de celebrada la segunda ronda de votación ninguno obtuviese la mayoría calificada, se elegirá a quien logre la mayoría absoluta; en caso de empate, se designará magistrado a quien ya preste sus servicios al Poder Judicial o, en su caso, al que tenga más años haciéndolo.
 
 El procedimiento de elección se establecerá en la Ley Orgánica del Poder Judicial.
 
-Los magistrados que concluyan su encargo podrán ser, en su caso, reelectos por el Congreso, por mayoría calificada de los diputados presentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los magistrados y jueces en funciones o que disfruten de licencia con goce de sueldo, no podrán desempeñar otro cargo, empleo o comisión que fueren retribuidos, salvo los de docencia y fuera de las horas designadas al despacho de los asuntos del Poder Judicial.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+Los magistrados del Supremo Tribunal de Justicia que concluyan su encargo podrán ser, en su caso, reelectos por el Congreso, por mayoría calificada de los diputados presentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+Los magistrados y jueces del Supremo Tribunal de Justicia en funciones o que disfruten de licencia con goce de sueldo, no podrán desempeñar otro cargo, empleo o comisión que fueren retribuidos, salvo los de docencia y fuera de las horas designadas al despacho de los asuntos del Poder Judicial.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JUNIO DE 2013)</small>
 
@@ -1841,17 +1913,17 @@ Corresponde a la Sala de Control Constitucional la revisión de las resoluciones
 
 Cuando la inaplicación a que se refiere el párrafo anterior la determinen las salas colegiadas del Supremo Tribunal de Justicia, las atribuciones de la Sala de Control Constitucional serán ejercidas directamente por el Pleno.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO III.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
-DE LOS JUECES DE PRIMERA INSTANCIA, MENORES Y DE PAZ.
+### CAPITULO III.. DE LOS JUECES DE PRIMERA INSTANCIA, MENORES Y DE PAZ DEL SUPREMO TRIBUNAL DE JUSTICIA
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 106.
 
-Nunca podrán desempeñar su función simultáneamente en el Tribunal, magistrados que entre sí sean cónyuges, parientes consanguíneos en línea recta o colateral dentro del cuarto grado. Tratándose de afines, la prohibición comprende la línea recta y la colateral dentro del segundo grado.
+Nunca podrán desempeñar su función simultáneamente en el Supremo Tribunal de Justicia, magistrados que entre sí sean cónyuges, parientes consanguíneos en línea recta o colateral dentro del cuarto grado.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1917,13 +1989,17 @@ VI.- Crear y suprimir juzgados de acuerdo a las necesidades de la administració
 
 VII.- Conceder licencias a los magistrados, para separarse de sus cargos cuando aquéllas pasen de cinco días, pero no de veinte.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- Conceder licencias por más de diez días y hasta por seis meses a funcionarios y empleados del Poder Judicial.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+VIII.- Conceder licencias por más de diez días y hasta por seis meses a funcionarios y empleados del Supremo Tribunal de Justicia.
 
-IX.- Suspender hasta por tres meses, por causa grave y justificada que no sea motivo de proceso, a los funcionarios y empleados del Poder Judicial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+IX.- Suspender hasta por tres meses, por causa grave y justificada que no sea motivo de proceso, a los funcionarios y empleados del Supremo Tribunal de Justicia.
 
 Podrá suspenderlos también, durante todo el tiempo que fuere necesario para realizar las investigaciones conducentes, con objeto de determinar su responsabilidad.
 
@@ -1935,9 +2011,11 @@ X.- Aprobar sus reglamentos interiores.
 
 XI.- Formular y aplicar los exámenes de oposición para la designación de los Jueces de Primera Instancia.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII.- Formular el Proyecto de Presupuesto de Egresos del Poder Judicial, así como administrar y ejercer el que le sea aprobado por el Congreso del Estado.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XII.- Formular el Proyecto de Presupuesto de Egresos del Supremo Tribunal de Justicia, así como administrar y ejercer el que le sea aprobado por el Congreso del Estado.
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1951,17 +2029,23 @@ XIV.- Resolver las controversias que se susciten entre los ayuntamientos y el Co
 
 XV.- Resolver los conflictos que se susciten entre dos o más municipios de la entidad, así como entre los municipios y el Ejecutivo del Estado, en los términos que disponga la ley.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVI. Proponer, al Congreso del Estado, la creación de organismos descentralizados del Poder Judicial;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+XVI.- Proponer, al Congreso del Estado, la creación de organismos descentralizados del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-XVII. Conocer sobre las violaciones a los derechos de los gobernados en los términos del artículo 200 de esta Constitución; y
+XVII.- Conocer sobre las violaciones a los derechos de los gobernados en los términos del artículo 200 de esta Constitución; y
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-XVIII. Ejercer las demás atribuciones que le señalan las leyes.
+XVIII.- Ejercer las demás atribuciones que le señalan las leyes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA DENOMINACIÓN DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Art. 110.
 
@@ -2015,11 +2099,13 @@ Los Jueces de Primer Instancia, Menores y de Paz, nombrarán y removerán con ap
 
 Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Art. 117.
 
-La Ley Orgánica determinará el número de Magistrados, Jueces de Garantía, Jueces de Juicio Oral y Jueces, sus jurisdicciones, competencias y todo lo demás relativo a los funcionarios, empleados y auxiliares de la administración de justicia.
+La Ley Orgánica determinará el número de Magistrados del Supremo Tribunal de Justicia, Jueces de Garantía, Jueces de Juicio Oral y Jueces, sus jurisdicciones, competencias y todo lo demás relativo a los funcionarios, empleados y auxiliares de la administración de justicia.
 
 ## TITULO X.
 
@@ -2747,11 +2833,13 @@ IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, 
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
 ###### Art. 166.
 
-El Supremo Tribunal de Justicia, el Tribunal Estatal Electoral, el Instituto Estatal Electoral, el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública y la Comisión Estatal de los Derechos Humanos, por conducto de sus respectivos presidentes, comunicarán oportunamente al Poder Ejecutivo el proyecto de presupuesto de egresos para cada año fiscal a fin de que, sin modificación alguna, lo presente al Congreso.
+El Supremo Tribunal de Justicia, el Tribunal de Justicia Electoral y Administrativa del Estado, el Instituto Estatal Electoral y el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, por conducto de sus respectivos presidentes, comunicarán oportunamente al Poder Ejecutivo el proyecto de presupuesto de egresos para cada año fiscal a fin de que, sin modificación alguna, lo presente al Congreso.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -2893,17 +2981,19 @@ I.- Del Poder Legislativo, los Diputados al Congreso del Estado.
 
 II.- Del Poder Ejecutivo, el Gobernador del Estado, el Secretario General de Gobierno y el Fiscal General del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Del Poder Judicial, los magistrados del Supremo Tribunal de Justicia y los jueces de primera instancia.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+
+III.- Del Poder Judicial, los Magistrados del Supremo Tribunal de Justicia, del Tribunal de Justicia Electoral y Administrativa del Estado y los Jueces de Primera Instancia;
 
 > <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 IV.- De la Comisión Estatal de Derechos Humanos, su presidente.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Del Tribunal Estatal Electoral, cuando esté en funciones, sus Magistrados, y
+V.- (DEROGADA, P.O. 28 DE AGOSTO DE 2013)
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
@@ -3081,11 +3171,19 @@ Con este objeto, se les enviará oportunamente copia de la iniciativa y de los d
 
 El Congreso del Estado, o la Diputación Permanente en su caso, hará el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas, sin que pueda el Ejecutivo, con relación a éstas, hacer observaciones.
 
-Las reformas o adiciones aprobadas conforme al procedimiento anterior, serán sometidas a referéndum derogatorio, total o parcial, si dentro de los cuarenta y cinco días naturales siguientes a la fecha de su publicación así se solicita al Tribunal Estatal de Elecciones por el diez por ciento, cuando menos, de los chihuahuenses inscritos en el padrón electoral, debidamente identificados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+Las reformas o adiciones aprobadas conforme al procedimiento anterior, serán sometidas a referéndum derogatorio, total o parcial, si dentro de los cuarenta y cinco días naturales siguientes a la fecha de su publicación así se solicita al Tribunal de Justicia Electoral y Administrativa del Estado por el diez por ciento, cuando menos, de los chihuahuenses inscritos en el padrón electoral, debidamente identificados.
 
 Las reformas o adiciones objetadas quedarán ratificadas si más del cincuenta por ciento de los ciudadanos que participen en el referéndum emite su opinión favorable a ellas. Caso contrario, serán derogadas y no podrán ser objeto de nueva iniciativa antes de dos años.
 
-El Tribunal Estatal de Elecciones efectuará el cómputo de los resultados y ordenará su publicación en el periódico oficial. Lo mismo hará con el texto de las reformas o adiciones ratificadas y, en su caso, remitirá al Congreso las que no lo hayan sido para su derogación en forma inmediata.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
+
+El Tribunal de Justicia Electoral y Administrativa del Estado efectuará el cómputo de los resultados y ordenará su publicación en el Periódico Oficial. Lo mismo hará con el texto de las reformas o adiciones ratificadas y, en su caso, remitirá al Congreso las que no lo hayan sido para su derogación en forma inmediata.
 
 Las reformas y adiciones que impliquen adecuaciones de la presente Constitución a la Federal, así como las reformas al artículo 125 cuando sólo se refieran a cambios en el nombre de alguno o algunos municipios, serán aprobadas por el Congreso siguiendo el procedimiento ordinario establecido en el Capítulo V del Título VII.
 
@@ -3934,3 +4032,25 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 Por lo que respecta a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas y adiciones contenidas en los Artículos Segundo y Tercero del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
+
+P.O. 28 DE AGOSTO DE 2013
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de las Iniciativas, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que respecta a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor en un año contado a partir del día siguiente al de su publicación en el Periódico Oficial del Estado. Las reformas y adiciones a la Ley Electoral del Estado de Chihuahua, contenidas en el Artículo Segundo del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
+
+###### ARTÍCULO TERCERO.
+
+El Tribunal de Justicia Electoral y Administrativa del Estado se integrará por los magistrados que actualmente conforman el Tribunal Estatal Electoral, quienes cumplirán el cargo por el período para el cual fueron designados anteriormente.
+
+###### ARTÍCULO CUARTO.
+
+El patrimonio del Tribunal de Justicia Electoral y Administrativa del Estado se compondrá con el que posea el Tribunal Estatal Electoral al momento de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Una vez que entre en vigor la presente reforma se deberán hacer las adecuaciones legales pertinentes en un plazo de noventa días.
