@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2013-07-17"
+last_updated: "2013-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE SEPTIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -751,9 +753,15 @@ XXVIII. Participar en el establecimiento y expedición, en coordinación con las
 
 > <small>(ADICIONADA, G.G. 26 DE OCTUBRE DE 2011)</small>
 
-XXIX. Participar en la prevención, tratamiento y rehabilitación de la farmacodependencia y coordinarse con las autoridades federales y las instituciones públicas, privadas o sociales para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso para su recuperación, así como para la superación de la problemática; y
+XXIX. Participar en la prevención, tratamiento y rehabilitación de la farmacodependencia y coordinarse con las autoridades federales y las instituciones públicas, privadas o sociales para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso para su recuperación, así como para la superación de la problemática; y (sic)
 
-XXX. Las demás que señalen las leyes, reglamentos y disposiciones en la materia.
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+XXX. Emitir a través del Consejo Rector de Impacto Sanitario, el Dictamen de Factibilidad de Impacto Sanitario;
+
+XXXI. Vigilar el debido cumplimiento del Dictamen de Factibilidad de Impacto Sanitario, a través de visitas de verificación, así como la aplicación de las medidas de seguridad e imposición de sanciones que le correspondan en el ámbito de sus atribuciones;
+
+XXXII. Las demás que señalen las leyes, reglamentos y disposiciones en la materia.
 
 > <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
@@ -1363,17 +1371,35 @@ IX. Formular y promover el establecimiento de medidas para el fomento y protecci
 
 X. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial y comercial contengan los convenios firmados entre el mismo y la administración pública federal;
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI. Las demás que señalen las leyes y reglamentos vigentes en el Estado;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
-XII. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+XI. Crear, operar y mantener actualizado en coordinación con los ayuntamientos, el Registro Estatal de Unidades Económicas o Establecimientos para la Enajenación, Reparación o Mantenimiento de Vehículos Automotores Usados y Autopartes Nuevas y Usadas;
 
-XIII. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIV. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE AGOSTO DE 2013)</small>
 
-XV. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+XII. Difundir la información relativa a las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE AGOSTO DE 2013)</small>
+
+XIII. Expedir Normas Técnicas en las materias de su competencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE AGOSTO DE 2013)</small>
+
+XIV. Vigilar el debido cumplimiento del Dictamen de Factibilidad Comercial Automotriz, a través de visitas de verificación, así como la aplicación de las medidas de seguridad e imposición de sanciones que le correspondan en el ámbito de sus atribuciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE AGOSTO DE 2013)</small>
+
+XV. Las demás que señalen las leyes y reglamentos vigentes en el Estado;
 
 XVI. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
 
@@ -2293,7 +2319,7 @@ CUARTO.- El Gobernador y los Ayuntamientos en el ámbito de su esfera administra
 
 G.G. 19 DE DICIEMBRE DE 2012.
 
-DECRETO No. 33, POR EL QUE SE REFORMAN LOS ARTÍCULOS 24 EN SU FRACCIÓN LIII Y 49 EN SU SEGUNDO PÁRRAFO; ASÍ COMO SE ADICIONA AL ARTICULO 49 CON UN TERCER PÁRRAFO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE MÉXICO.
+DECRETO NÚMERO 33, POR EL QUE SE REFORMAN LOS ARTÍCULOS 24 EN SU FRACCIÓN LIII Y 49 EN SU SEGUNDO PÁRRAFO; ASÍ COMO SE ADICIONA AL ARTICULO 49 CON UN TERCER PÁRRAFO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -2317,7 +2343,7 @@ OCTAVO.- Se solicita a la Secretaría de Finanzas y al Instituto Hacendario del 
 
 G.G. 19 DE DICIEMBRE DE 2012.
 
-DECRETO No. 37, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15; 17; SEGUNDO Y TERCER PÁRRAFO DEL ARTICULO 19; EL ARTICULO 39; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTICULO 10; LA FRACCIÓN XVIII Y UN TERCER PÁRRAFO AL ARTICULO 19, RECORRIÉNDOSE EL SUBSECUENTE Y UN ARTICULO 38 TER; Y SE DEROGAN LAS FRACCIONES IV, VII, VIII, XI, XII, XIV, XV, XXII, XXIII, XXIV, XXV, XXVI, XXVII Y XXIX DEL ARTICULO 21 Y LA FRACCIÓN II DEL ARTICULO 40 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE MÉXICO.
+DECRETO NÚMERO 37, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15; 17; SEGUNDO Y TERCER PÁRRAFO DEL ARTICULO 19; EL ARTICULO 39; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTICULO 10; LA FRACCIÓN XVIII Y UN TERCER PÁRRAFO AL ARTICULO 19, RECORRIÉNDOSE EL SUBSECUENTE Y UN ARTICULO 38 TER; Y SE DEROGAN LAS FRACCIONES IV, VII, VIII, XI, XII, XIV, XV, XXII, XXIII, XXIV, XXV, XXVI, XXVII Y XXIX DEL ARTICULO 21 Y LA FRACCIÓN II DEL ARTICULO 40 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -2356,3 +2382,43 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- El Titular del Ejecutivo del Estado, proveerá en la esfera administrativa, la exacta observancia del presente Decreto, adecuando al efecto las disposiciones reglamentarias correspondientes.
+
+G.G. 29 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 131, POR EL QUE SE REFORMAN LAS FRACCIONES XI, XII, XIII, XIV Y XV DEL ARTÍCULO 36 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los 30 días naturales siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas que no tengan permiso o licencia de funcionamiento deberán tramitarla ante la autoridad municipal correspondiente, del 1 de enero de 2014 al 31 de marzo de 2014.
+
+CUARTO.- El Consejo Rector de Factibilidad Comercial Automotriz, deberá de estar instalado en un plazo de 30 días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- La Secretaría de Desarrollo Económico contará con un plazo de 60 días naturales, a partir de la entrada en vigor del presente Decreto, para la integración del Registro Estatal de Unidades Económicas o Establecimientos para la Enajenación, Reparación o Mantenimiento de Vehículos Automotores Usados y Autopartes Nuevas y Usadas.
+
+SEXTO.- El Gobernador y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+SÉPTIMO.- El Ejecutivo del Estado deberá expedir el reglamento interior del Consejo Rector de Factibilidad Comercial Automotriz, en un plazo que no excederá de 30 días naturales posteriores a su instalación.
+
+OCTAVO.- La Secretaría de Desarrollo Económico deberá expedir las Normas Técnicas, en un plazo que no excederá de 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+NOVENO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 29 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 132, POR EL QUE SE REFORMA LA FRACCIÓN XXX RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 26 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los Ayuntamientos en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+CUARTO.- El Consejo Rector de Impacto Sanitario, deberá de estar instalado en un término de quince días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- Se establece un término de diez días naturales posteriores a la instalación del Consejo Rector de Impacto Sanitario para que puedan sesionar sobre los asuntos correspondientes a la emisión del Dictamen de Factibilidad de Impacto Sanitario.
+
+SEXTO.- El Ejecutivo del Estado deberá expedir en un término de quince días naturales a partir de la entrada en vigor del presente Decreto las disposiciones reglamentarias respectivas.
+
+SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
