@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2013-02-28"
+last_updated: "2013-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE SEPTIEMBRE DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE FEBRERO DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 28 DE FEBRERO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO 53 PUBLICADO EN LA G.G. DE 22 DE FEBRERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -933,9 +933,9 @@ Dentro de los tres días hábiles posteriores a la presentación de la solicitud
 
 En caso de que la autoridad competente no de respuesta a la solicitud de certificación dentro del plazo señalado en el párrafo anterior, los peticionarios acreditarán la existencia de la resolución afirmativa ficta, que producirá todos sus efectos legales ante las autoridades administrativas, con la presentación del documento que acuse de recibo original que contenga la petición formulada en el que aparezca claramente, o sello fechador original de la dependencia administrativa o la constancia de recepción con firma original del servidor público respectivo.
 
-> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
-La resolución afirmativa ficta operará tratándose de peticiones que den inicio a procedimientos en las materias reguladas por el Código Administrativo del Estado de México. Excepto, tratándose de peticiones que tengan por objeto la transmisión de la propiedad o la posesión de bienes del Estado, municipios y organismos auxiliares de carácter estatal o municipal, la afectación de derechos de terceros, el otorgamiento o modificación de concesiones para la prestación de servicios públicos, autorizaciones de conjuntos urbanos, licencias de uso del suelo, normas técnicas, dictámenes de protección civil y del permiso sanitario, y resolución del recurso administrativo de inconformidad. Tampoco se configura la resolución afirmativa ficta, cuando la petición se hubiese presentado ante autoridad incompetente, así como en los casos de la rescisión de las relaciones laborales con los policías.
+La resolución afirmativa ficta operará tratándose de peticiones que den inicio a procedimientos en las materias reguladas por el Código Administrativo del Estado de México. Excepto, tratándose de peticiones que tengan por objeto la transmisión de la propiedad o la posesión de bienes del Estado, municipios y organismos auxiliares de carácter estatal o municipal, la afectación de derechos de terceros, el otorgamiento o modificación de concesiones para la prestación de servicios públicos, autorizaciones de conjuntos urbanos, licencias de uso del suelo, normas técnicas, dictámenes de protección civil y del Dictamen de Factibilidad de Impacto Sanitario emitido por el Consejo Rector de Impacto Sanitario del Estado de México, y resolución del recurso administrativo de inconformidad. Tampoco se configura la resolución afirmativa ficta cuando la petición se hubiese presentado ante autoridad incompetente, así como en los casos de la recisión de las relaciones laborales con los policías.
 
 En todos los casos en que no opera la resolución afirmativa ficta, el silencio de las autoridades en el plazo de treinta días hábiles posteriores a la presentación o recepción de la petición, se considerará como resolución negativa ficta, que significa decisión desfavorable a los derechos e intereses de los peticionarios, para efectos de su impugnación en el juicio contencioso administrativo.
 
@@ -2510,3 +2510,19 @@ CUARTO.- Los Ayuntamientos realizarán el refrendo a más tardar el 30 de abril 
 QUINTO.- Para dar cumplimiento a lo establecido por las fracciones I y II del artículo 2.47 Ter del Código Administrativo del Estado de México, los propietarios o poseedores de establecimientos mercantiles donde se vendan o suministren bebidas alcohólicas, contarán con un plazo máximo que no deberá exceder del 30 de junio de 2013.
 
 SEXTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 29 DE AGOSTO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los Ayuntamientos en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+CUARTO.- El Consejo Rector de Impacto Sanitario, deberá de estar instalado en un término de quince días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- Se establece un término de diez días naturales posteriores a la instalación del Consejo Rector de Impacto Sanitario para que puedan sesionar sobre los asuntos correspondientes a la emisión del Dictamen de Factibilidad de Impacto Sanitario.
+
+SEXTO. El Ejecutivo del Estado deberá expedir en un término de quince días naturales a partir de la entrada en vigor del presente Decreto las disposiciones reglamentarias respectivas.
+
+SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
