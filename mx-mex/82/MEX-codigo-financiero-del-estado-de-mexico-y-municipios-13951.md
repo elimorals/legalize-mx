@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2013-07-17"
+last_updated: "2013-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE SEPTIEMBRE DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1863,24 +1865,6 @@ En caso de que los saldos finales de las cuentas y subcuentas mencionadas en el 
 
 VII. Comparación analítica entre los conceptos o parámetros considerados para la determinación y pago de la contribución revisada en el ejercicio fiscal dictaminado y los considerados en el ejercicio fiscal inmediato anterior.
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-###### Artículo 47 Bis.
-
-Las personas físicas y jurídicas colectivas obligadas al pago del Impuesto Predial, deberán dictaminar la determinación de la base declarada de dicho impuesto en el año inmediato anterior en la manifestación del valor catastral de sus inmuebles ubicados en el territorio del Estado, de conformidad con este Código y las demás disposiciones que se emitan para tal efecto, cuando en dicho año se ubiquen en cualquiera de los siguientes supuestos:
-
-I. Sean propietarias o poseedoras de inmuebles ubicados en el territorio del Estado, cuyo valor catastral determinado conforme lo establece el Título Quinto de este Código, aplicando las tablas de valores unitarios de suelo y construcciones vigentes en ese año, sea igual o superior a $20,000,000.00 (veinte millones de pesos 00/100 M.N.), en cuyo caso el dictamen comprenderá exclusivamente a los inmuebles que tengan un valor catastral igual o superior a dicha cantidad.
-
-II. Sean propietarias o poseedoras de inmuebles ubicados en el territorio del Estado, cuyo valor catastral determinado conforme lo establece el Título Quinto de este Código, aplicando las tablas de valores unitarios de suelo y construcciones vigentes en ese año, sea igual o superior a $5,000,000.00 (cinco millones de pesos 00/100 M.N.), únicamente cuando la suma del valor catastral de dichos inmuebles sea igual o superior a $20,000,000.00 (veinte millones de pesos 00/100 M.N.), en cuyo caso el dictamen comprenderá exclusivamente a los inmuebles que tengan un valor catastral igual o superior a $5,000,000.00 (cinco millones de pesos 00/100 M.N.).
-
-El dictamen de la determinación de la base del Impuesto Predial, tendrá vigencia para el año que se dictamina, así como para los dos siguientes siempre que el Impuesto Predial de los inmuebles objeto de dictaminación se pague oportunamente en términos de este Código, no se realicen mejoras, ampliaciones o construcciones que aumenten el valor catastral de los mismos y no se modifique la información aplicable a los inmuebles objeto de dictaminación conforme a las tablas de valores unitarios de suelo y construcciones que estén vigentes para dichos años, prevaleciendo la obligación de presentar el aviso de dictamen correspondiente en cada año.
-
-La dictaminación de la determinación de la base del Impuesto Predial consistirá en verificar por medio de un especialista en valuación inmobiliaria registrado por el IGECEM, la correcta determinación del valor catastral que se haya declarado respecto de los inmuebles objeto de dictaminación, conforme a las tablas de valores unitarios de suelo y construcciones publicadas en el Periódico Oficial "Gaceta del Gobierno" del Estado de México vigentes en el año que se dictamine.
-
-Las personas físicas y jurídicas colectivas que no estén obligadas a dictaminar la determinación de la base del Impuesto Predial en los términos de éste artículo, podrán optar por dictaminarse presentando oportunamente ante la autoridad fiscal competente el aviso de dictamen a que se refiere el primer párrafo del artículo 47 Bis- I de este Código, en cuyo caso les serán aplicables las disposiciones fiscales atribuibles a los contribuyentes obligados. No se dará efecto legal alguno al ejercicio de la opción de dictaminarse cuando se realice fuera del plazo establecido en dicha disposición, ni cuando la opción se ejerza después de iniciado o notificado al contribuyente el ejercicio de las facultades de comprobación de la autoridad fiscal por el impuesto y año a dictaminar.
-
-Para los efectos de este artículo, cuando un contribuyente deba dictaminar o ejerza la opción de hacerlo respecto de la determinación de la base del Impuesto Predial por más de un inmueble en el mismo año, se presentará un dictamen en el que se detallará la información de todos los inmuebles objeto de dictaminación en ese año, en cuyo caso el contribuyente designará a un dictaminador en particular, pudiendo presentarse diferentes dictámenes respecto de los inmuebles objeto de dictaminación.
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
@@ -1940,6 +1924,24 @@ IX. Que se verificó el correcto registro y valuación de todas las obligaciones
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 X. Que se corroboró la integración a la base para la determinación del impuesto revisado, del monto total de las remuneraciones al trabajo personal sin deducción o disminución alguna, así como de las erogaciones provenientes de pasivos u obligaciones pendientes de pago relacionados con la base de dicho impuesto, de acuerdo al alcance establecido y la naturaleza de los procedimientos de auditoría generalmente aceptados aplicables a las circunstancias.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 47 Bis.
+
+Las personas físicas y jurídicas colectivas obligadas al pago del Impuesto Predial, deberán dictaminar la determinación de la base declarada de dicho impuesto en el año inmediato anterior en la manifestación del valor catastral de sus inmuebles ubicados en el territorio del Estado, de conformidad con este Código y las demás disposiciones que se emitan para tal efecto, cuando en dicho año se ubiquen en cualquiera de los siguientes supuestos:
+
+I. Sean propietarias o poseedoras de inmuebles ubicados en el territorio del Estado, cuyo valor catastral determinado conforme lo establece el Título Quinto de este Código, aplicando las tablas de valores unitarios de suelo y construcciones vigentes en ese año, sea igual o superior a $20,000,000.00 (veinte millones de pesos 00/100 M.N.), en cuyo caso el dictamen comprenderá exclusivamente a los inmuebles que tengan un valor catastral igual o superior a dicha cantidad.
+
+II. Sean propietarias o poseedoras de inmuebles ubicados en el territorio del Estado, cuyo valor catastral determinado conforme lo establece el Título Quinto de este Código, aplicando las tablas de valores unitarios de suelo y construcciones vigentes en ese año, sea igual o superior a $5,000,000.00 (cinco millones de pesos 00/100 M.N.), únicamente cuando la suma del valor catastral de dichos inmuebles sea igual o superior a $20,000,000.00 (veinte millones de pesos 00/100 M.N.), en cuyo caso el dictamen comprenderá exclusivamente a los inmuebles que tengan un valor catastral igual o superior a $5,000,000.00 (cinco millones de pesos 00/100 M.N.).
+
+El dictamen de la determinación de la base del Impuesto Predial, tendrá vigencia para el año que se dictamina, así como para los dos siguientes siempre que el Impuesto Predial de los inmuebles objeto de dictaminación se pague oportunamente en términos de este Código, no se realicen mejoras, ampliaciones o construcciones que aumenten el valor catastral de los mismos y no se modifique la información aplicable a los inmuebles objeto de dictaminación conforme a las tablas de valores unitarios de suelo y construcciones que estén vigentes para dichos años, prevaleciendo la obligación de presentar el aviso de dictamen correspondiente en cada año.
+
+La dictaminación de la determinación de la base del Impuesto Predial consistirá en verificar por medio de un especialista en valuación inmobiliaria registrado por el IGECEM, la correcta determinación del valor catastral que se haya declarado respecto de los inmuebles objeto de dictaminación, conforme a las tablas de valores unitarios de suelo y construcciones publicadas en el Periódico Oficial "Gaceta del Gobierno" del Estado de México vigentes en el año que se dictamine.
+
+Las personas físicas y jurídicas colectivas que no estén obligadas a dictaminar la determinación de la base del Impuesto Predial en los términos de éste artículo, podrán optar por dictaminarse presentando oportunamente ante la autoridad fiscal competente el aviso de dictamen a que se refiere el primer párrafo del artículo 47 Bis- I de este Código, en cuyo caso les serán aplicables las disposiciones fiscales atribuibles a los contribuyentes obligados. No se dará efecto legal alguno al ejercicio de la opción de dictaminarse cuando se realice fuera del plazo establecido en dicha disposición, ni cuando la opción se ejerza después de iniciado o notificado al contribuyente el ejercicio de las facultades de comprobación de la autoridad fiscal por el impuesto y año a dictaminar.
+
+Para los efectos de este artículo, cuando un contribuyente deba dictaminar o ejerza la opción de hacerlo respecto de la determinación de la base del Impuesto Predial por más de un inmueble en el mismo año, se presentará un dictamen en el que se detallará la información de todos los inmuebles objeto de dictaminación en ese año, en cuyo caso el contribuyente designará a un dictaminador en particular, pudiendo presentarse diferentes dictámenes respecto de los inmuebles objeto de dictaminación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3844,8 +3846,6 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE LA FUNCION REGISTRAL
 (DEROGADO, G.G. 25 DE FEBRERO DE 2013)
 
 #### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE SALUD DEL ESTADO DE MÉXICO
-
-> <small>(REFORMADO [N. DE E. ADICIONADO Y REUBICADO], G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 79.
 
@@ -6379,31 +6379,7 @@ F). Las copias certificadas que se expidan para la substanciación de cualquier 
 
 ###### Artículo 105.
 
-Por los servicios prestados por el Instituto de Salud del Estado de México, se pagarán los derechos conforme a la siguiente:
-
-TARIFA
-
-CONCEPTO Número de Salarios Mínimos
-
-Generales Vigentes del Área
-
-Geográfica que Corresponda
-
-Expedición del permiso sanitario 100
-
-previo al refrendo que realicen
-
-los Municipios respecto de las
-
-licencias de funcionamiento
-
-con giros comerciales de venta
-
-de bebidas alcohólicas, en
-
-botella cerrada para el consumo
-
-inmediato o al copeo.
+(DEROGADO, G.G. 29 DE AGOSTO DE 2013)
 
 > <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -11049,7 +11025,7 @@ Zona B. Municipios de Medio Impacto; son aquellos que presentan una población m
 
 Zona C. Municipios de Bajo Impacto; son aquellos con baja densidad poblacional cuyos habitantes se encuentran distantes unos de otros, con una actividad predominantemente de tipo agrícola o ganadera, sin desarrollo industrial o comercial. Estos son: Acambay, Acolman, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Apaxco, Atenco, Atizapán, Atlautla, Axapusco, Ayapango, Calimaya, Coatepec Harinas, Cocotitlán, Chapa de Mota, Chapultepec, Chiautla, Donato Guerra, Ecatzingo, El Oro, Hueypoxtla, Isidro Fabela, Ixtapan del Oro, Jilotzingo, Jiquipilco, Jocotitlán, Joquicingo, Juchitepec, Luvianos, Malinalco, Mexicalzingo, Morelos, Nextlalpan, Nopaltepec, Ocuilán, Otumba, Otzoloapan, Otzolotepec, Papalotla, Polotitlán, Rayón, San Antonio La Isla, San Felipe del Progreso, San José del Rincón, San Martín de las Pirámides, San Simón de Guerrero, Santo Tomás, Soyaniquilpan de Juárez, Sultepec, Tejupilco, Temamatla, Temascalapa, Temascalcingo, Temascaltepec, Temoaya, Tenango del Aire, Tenango del Valle, Teoloyucan, Teotihuacan, Tepetlaoxtoc, Tepetlixpa, Tequixquiac, Texcaltitlán, Texcalyacac, Tezoyuca, Timilpan, Tlalmanalco, Tlatlaya, Tonatico, Tonanitla, Villa de Allende, Villa del Carbón, Villa Guerrero, Villa Victoria, Xalatlaco, Zacazonapan, Zacualpan y Zumpahuacán.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 216-D.
 
@@ -16104,3 +16080,19 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- La reforma a la fracción IV del artículo 169 del Código Financiero del Estado de México y Municipios, entrará en vigor el día 1 de enero de 2014.
+
+G.G. 29 DE AGOSTO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los Ayuntamientos en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+CUARTO.- El Consejo Rector de Impacto Sanitario, deberá de estar instalado en un término de quince días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- Se establece un término de diez días naturales posteriores a la instalación del Consejo Rector de Impacto Sanitario para que puedan sesionar sobre los asuntos correspondientes a la emisión del Dictamen de Factibilidad de Impacto Sanitario.
+
+SEXTO.- El Ejecutivo del Estado deberá expedir en un término de quince días naturales a partir de la entrada en vigor del presente Decreto las disposiciones reglamentarias respectivas.
+
+SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
