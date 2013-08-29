@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-07-18"
+last_updated: "2013-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 11 DE SEPTIEMBRE DE 2013 Y EL 30 DE OCTUBRE DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -973,9 +975,11 @@ Los ingresos del Consejo Estatal de Población, así como los productos e instru
 
 ### CAPITULO SEGUNDO. De las autoridades
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 2.
 
-3.- Son autoridades en materia de salud la Secretaría de Salud, el Instituto de Salud del Estado de México y los municipios, en su caso.
+3.- Son autoridades en materia de salud la Secretaría de Salud, el Instituto de Salud del Estado de México y los municipios, en su caso. Es autoridad en materia de impacto sanitario el Consejo Rector de Impacto Sanitario.
 
 ### CAPITULO TERCERO. De la Secretaría de Salud
 
@@ -1643,9 +1647,9 @@ VI. Promover la formación y capacitación de recursos humanos especializados pa
 
 VII. Crear y actualizar permanentemente el padrón de instituciones y organismos que realicen actividades de prevención, atención y reinserción social en materia de adicciones;
 
-(ADICIONADA, G.G. 22 DE FEBRERO DE 2013) (F. DE E., G.G. 28 DE FEBRERO DE 2013)
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
-VII Bis. Crear y actualizar el registro de establecimientos mercantiles que cuenten con el permiso sanitario para la solicitud o renovación de licencia de funcionamiento de un establecimiento mercantil con venta o suministro de bebidas alcohólicas, en botella cerrada, para el consumo inmediato o al copeo;
+VII Bis. Crear y actualizar el registro de establecimientos mercantiles que cuenten con Dictamen de Factibilidad de Impacto Sanitario para la solicitud o refrendo de licencia de funcionamiento de un establecimiento mercantil con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo;
 
 VIII. Proporcionar asistencia técnica y apoyo a los establecimientos de rehabilitación y atención privados y sociales, con base en los lineamientos que fije el Ejecutivo del Estado;
 
@@ -1797,27 +1801,67 @@ VII. Promover la creación de Unidades de Prevención y Tratamiento de las adicc
 
 47.- Los ayuntamientos, para prevenir las adicciones, podrán restringir el expendio y consumo de bebidas alcohólicas y tabaco, en las distintas instalaciones recreativas y deportivas, o con motivo de la realización de festejos populares o tradicionales.
 
-> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 2.
 
-47 Bis.- Los ayuntamientos sólo permitirán el funcionamiento de establecimientos mercantiles cuyo giro contemple la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo para su consumo en el interior, dentro de los horarios siguientes:
+47 Bis.- Los ayuntamientos solo permitirán el funcionamiento de establecimientos mercantiles cuyo giro contemple la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo para su consumo en el interior, a las personas físicas y jurídico colectivas que cuenten previamente con el Dictamen de Factibilidad de Impacto Sanitario que expida para tal efecto el Consejo Rector de Impacto Sanitario.
 
-I. Bares, cantinas y restaurantes bar, de las 11:00 a las 02:00 horas del día siguiente;
+ADICIONADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2013)
+
+Las autorizaciones se ajustarán a los horarios siguientes:
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+l. Bares, cantinas, restaurantes bar y salones de baile, de las 11:00 a las 02:00 horas del día siguiente;
+
+> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
 II. Discotecas y video bares con pista de baile, de las 17:00 a las 02:00 horas del día siguiente;
 
+> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
 III. Pulquerías, de las 15:00 a las 23:00 horas;
+
+> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
 IV. Centros nocturnos y cabarets, de las 20:00 a las 02:00 horas del día siguiente;
 
-V. Bailes públicos, de las 17:00 a las 02:00 horas del día siguiente; y
+> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
-VI. Centros botaneros, cerveceros y salones de baile, de las 15:00 a las 22:00 horas.
+V. Bailes públicos, de las 17:00 a las 02:00 horas del día siguiente; y (sic)
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+VI. Centros botaneros y cerveceros, de las 15:00 a las 22:00 horas;
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+VII. Restaurantes bar, con un horario máximo a las 02:00 horas del día siguiente. En este tipo de establecimientos sólo se podrá vender o suministrar bebidas alcohólicas hasta la 01:30 horas y cerrarán sus instalaciones a las 02:00 horas.
+
+> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 Los horarios a los que se hace referencia en las fracciones anteriores, por ningún motivo podrán ser ampliados.
 
+> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
 Cuando por su denominación algún establecimiento no se encuentre comprendido en las clasificaciones anteriores, se ubicará en aquel que por sus características les sea más semejante.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+En ningún caso, se podrá permitir la permanencia de los consumidores dentro del establecimiento, después del horario autorizado.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+Las autoridades sanitarias así como las municipales, en el ámbito de sus respectivas atribuciones, como parte de la cultura de prevención y atención a las adicciones, y a la protección contra riesgos a la salud, vigilarán que no se vendan o suministren bebidas alcohólicas a las personas menores de edad o incapaces, o fuera de los horarios autorizados.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+Las autoridades podrán actuar por sí o por denuncia ciudadana.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+Si del resultado de las verificaciones se aprecia el incumplimiento de estas disposiciones se procederá administrativamente contra los responsables y penalmente conforme a las disposiciones aplicables en la materia.
 
 > <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -1825,11 +1869,23 @@ Cuando por su denominación algún establecimiento no se encuentre comprendido e
 
 47 Ter.- Queda prohibida la contratación de menores de edad en los giros mercantiles citados en el artículo anterior; además será requisito para su operación, los siguientes:
 
-> <small>(F. DE E., G.G. 28 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
-I. Contar con un aparato que mida el nivel de alcohol de sus clientes, mismo que deberá cumplir con las especificaciones establecidas en la Norma Oficial Mexicana, expedida para tal efecto, para que al observarles notoriamente alcoholizados, les ofrezcan llamar a un taxi, exhortándoles a no conducir; y
+l. Contar con un aparato que mida el nivel de alcohol de sus clientes, para que al observarles notoriamente alcoholizados, se les ofrezca llamar a un taxi, exhortándoles a no conducir;
 
-II. Contar con publicidad escrita visible que indique: "El abuso en el consumo de bebidas alcohólicas es dañino para la salud", "El consumo de bebidas alcohólicas está prohibido a menores de edad", "La licencia de funcionamiento vigente, que autorice la venta de bebidas alcohólicas deberá estar en lugar visible dentro del propio establecimiento", "La venta de bebidas alcohólicas sin licencia es un delito", “Por tu seguridad, propon un conductor designado”, “Está prohibida la venta, suministro y consumo de bebidas alcohólicas fuera de este establecimiento”.
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+II. Contar con publicidad escrita visible que indique: "El abuso en el consumo de bebidas alcohólicas es dañino para la salud", "El consumo de bebidas alcohólicas está prohibido a menores de edad", "Facilitar el acceso de bebidas alcohólicas a los menores constituye un delito". "La licencia de funcionamiento vigente, que autorice la venta de bebidas alcohólicas deberá estar en lugar visible dentro del propio establecimiento", "La venta de bebidas alcohólicas sin licencia es un delito", "Por tu seguridad, propón un conductor designado", "Está prohibida la venta, suministro y consumo de bebidas alcohólicas fuera de este establecimiento".
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 2.
+
+47 Quáter.- La venta de bebidas alcohólicas en botella cerrada en aquellos establecimientos mercantiles cuyo giro la contemple, sólo será permitida por los ayuntamientos en un horario de las 07:00 a las 22:00 horas de lunes a sábados y los domingos de las 07:00 a las 17:00 horas. En ningún caso se autorizará la venta de bebidas alcohólicas en botella cerrada después de los horarios establecidos.
+
+Las autoridades sanitarias, así como las municipales, en el ámbito de sus respectivas atribuciones, para la prevención y atención de las adicciones, vigilarán que no se expendan bebidas alcohólicas en botella cerrada fuera del horario autorizado.
+
+Las autoridades podrán actuar por sí o por denuncia ciudadana.
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1839,7 +1895,9 @@ II. Contar con publicidad escrita visible que indique: "El abuso en el consumo d
 
 I. Orientar sobre las alternativas de servicio de transporte a sus clientes, cuando consuman bebidas alcohólicas;
 
-II. Verificar que las personas que consumen bebidas alcohólicas en esos establecimientos sean mayores de edad;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+II. Verificar que las personas que consumen bebidas alcohólicas en esos establecimientos sean mayores de edad, y en caso de que aprecien que un mayor de edad facilite bebidas alcohólicas a un menor o incapaz, informar inmediatamente a las autoridades;
 
 III. Evitar que se sirvan o expendan bebidas adulteradas, alteradas o contaminadas con sustancias tóxicas;
 
@@ -1851,9 +1909,145 @@ V. Informar a sus clientes sobre los efectos nocivos del abuso en el consumo de 
 
 VI. Contar con instrumentos que permitan a los clientes que así lo soliciten cuantificar la concentración de alcohol en la sangre a través del aliento espirado, con el objeto principalmente de contribuir al consumo moderado y la prevención de accidentes.
 
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
-Con el objeto de combatir el alcoholismo, los Ayuntamientos y las autoridades estatales, en el ámbito de sus respectivas competencias, no autorizarán la instalación de establecimientos dedicados a la venta de bebidas alcohólicas en envase cerrado o por copeo, que se ubiquen en un radio no menor de 300 metros de centros educativos, instalaciones deportivas o centros de salud.
+Con el objeto de combatir el alcoholismo, los Ayuntamientos y las autoridades estatales, en el ámbito de sus respectivas competencias, no autorizarán la instalación de establecimientos dedicados a la venta de bebidas alcohólicas en envase cerrado para su consumo inmediato o por copeo, en esos establecimientos, que se ubiquen en un radio no menor de 500 metros de centros educativos, estancias infantiles, instalaciones deportivas o centros de salud.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 2.
+
+48 Bis.- El Consejo Rector de Impacto Sanitario es la autoridad encargada de emitir el Dictamen de Factibilidad de Impacto Sanitario para la solicitud y refrendo que realice el ayuntamiento para la licencia de funcionamiento que deben obtener los establecimientos mercantiles con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 2.
+
+48 Ter.- El Consejo Rector de Impacto Sanitario se integrará por:
+
+l. Un Presidente, que será el Comisionado para la Protección contra Riesgos Sanitarios del Estado de México;
+
+II. Un Secretario Técnico, que será nombrado por el Presidente;
+
+III. Cinco Vocales, que serán los representantes:
+
+a) De la Secretaría de Seguridad Ciudadana, por conducto de la Dirección General de Protección Civil del Estado de México.
+
+b) De la Secretaría de Educación.
+
+c) De la Secretaría de Desarrollo Económico.
+
+d) De la Secretaría del Medio Ambiente.
+
+e) Del Instituto Mexiquense contra las Adicciones.
+
+Quienes tendrán derecho a voz y voto, y podrán designar a un suplente.
+
+El presidente deberá convocar como invitados permanentes al Consejo, representantes:
+
+a) De la sociedad civil.
+
+b) Del sector empresarial y de cámaras de comercio.
+
+c) De las asociaciones de colonos.
+
+d) De la Comisión de Derechos Humanos del Estado de México o de la Defensoría Municipal de Derechos Humanos.
+
+e) De las asociaciones de padres de familia del sector educativo.
+
+f) Del ayuntamiento de cuyo territorio se pretende emitir el dictamen de factibilidad.
+
+Quienes tendrán derecho a voz, debiéndose renovar escalonadamente cada dos años.
+
+El cargo de miembro del Consejo Rector de Impacto Sanitario será honorífico y habrá un suplente que integre el Consejo, en caso de ausencia de los titulares.
+
+Las determinaciones del Consejo Rector de Impacto Sanitario se tomarán por mayoría de votos, para lo cual, el Secretario contará únicamente con voz. El Presidente, en caso de empate, tendrá voto de calidad.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 2.
+
+48 Quáter.- Para el cumplimiento de sus fines, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
+
+l. Emitir el Dictamen de Factibilidad de Impacto Sanitario, necesario para que los ayuntamientos de la entidad, expidan y refrenden, dentro de sus atribuciones y competencias, las licencias que deben obtener los establecimientos mercantiles con venta o suministro de bebidas alcohólicas, para el consumo inmediato o al copeo para su debido funcionamiento;
+
+II. Elaborar el diagnóstico de la situación que prevalece en materia del funcionamiento de establecimientos mercantiles con venta o suministro de bebidas alcohólicas en la entidad, y su impacto sanitario en la comunidad, debiéndose allegar de la información correspondiente;
+
+III. Proponer programas y acciones tendientes a combatir el alcoholismo, su adicción y la violencia que su consumo genera, principalmente entre jóvenes y menores de edad, y apoyar su ejecución;
+
+IV. Solicitar la colaboración de las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal y municipal, y de los sectores social y privado, para el fomento de una nueva cultura para combatir al alcoholismo y sus efectos sociales;
+
+V. Proponer la actualización del marco jurídico de la materia;
+
+VI. Adoptar las medidas administrativas necesarias para favorecer el acceso de la ciudadanía a los servicios que brinda;
+
+VII. Crear oficinas regionales para la expedición del Dictamen de Factibilidad de Impacto Sanitario;
+
+VIII. Tomar los acuerdos que se consideren necesarios para orientar las acciones que den cumplimiento a los fines del Consejo Rector de Impacto Sanitario;
+
+IX. Adoptar las demás acciones necesarias para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 2.
+
+48 Quintus.- Para la solicitud y refrendo de la licencia de funcionamiento de un establecimiento mercantil con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo, se requiere del Dictamen de Factibilidad de Impacto Sanitario, emitido por el Consejo Rector.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 2.
+
+48 Sexies.- El Dictamen de Factibilidad de Impacto Sanitario es el documento oficial con vigencia anual que es requisito obligatorio para que los ayuntamientos emitan o refrenden, dentro de sus atribuciones y competencia, las licencias de funcionamiento que deben obtener los establecimientos mercantiles con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
+
+El Dictamen de Factibilidad de Impacto Sanitario es de carácter personal e intransferible, por ende, todo acto contario (sic) a lo señalado será nulo de pleno derecho.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 2.
+
+48 Septies.- Son requisitos para la expedición del Dictamen de Factibilidad de Impacto Sanitario:
+
+l. Solicitud firmada por el interesado que deberá presentar vía electrónica o por escrito, manifestando, bajo protesta de decir verdad, que los datos en ella contenidos son ciertos;
+
+II. A la solicitud mencionada, se acompañará el original para cotejo y copia de:
+
+a) Identificación oficial del titular que contenga fotografía y firma. En caso de que no sea el titular quien realice el tramite, deberá presentar carta poder y copia de identificación oficial del poderdante, apoderado y dos testigos. Tratándose de personas jurídicas colectivas, presentar el instrumento notarial con el que acredite su personalidad.
+
+b) Documento con el que se acredite la propiedad o posesión del inmueble donde se encuentre instalado o se pretenda instalar el establecimiento mercantil con venta o suministro de bebidas alcohólicas en botella cerrada para el consumo inmediato o al copeo.
+
+c) Aviso de funcionamiento emitido por la jurisdicción de regulación sanitaria del lugar donde se encuentre instalado o se pretenda instalar el establecimiento mercantil con venta o suministro de bebidas alcohólicas en botella cerrada para el consumo inmediato o al copeo.
+
+d) Acta constitutiva en caso de ser persona jurídica colectiva.
+
+e) Dictamen de Viabilidad emitido por la Secretaría de Seguridad Ciudadana, a través de la Dirección General de Protección Civil, para los establecimientos de alto o mediano riesgo o, en su caso, el Dictamen de Viabilidad de bajo riesgo, emitido por la autoridad de Protección Civil Municipal.
+
+f) Dictamen de Impacto Regional para el caso de predios o inmuebles que por sus características producen un impacto significativo sobre la infraestructura y equipamiento urbano y servicios públicos previstos para una región o para un centro de población, en relación con su entorno regional.
+
+g) Fotografías de la fachada y del interior del inmueble.
+
+h) En su caso, licencia de funcionamiento que se pretenda renovar.
+
+i) Croquis de localización, señalando colindancias, abarcando un radio no menor de 500 metros del establecimiento mercantil con venta o suministro de bebidas alcohólicas en botella cerrada para el consumo inmediato o al copeo, que incluya puntos claves de referencia tales como centros escolares, estancias infantiles, instalaciones deportivas y centros de salud.
+
+j) Presentar opinión emitida por la autoridad auxiliar correspondiente.
+
+III. Acreditar que el establecimiento cumpla con las condiciones de higiene y seguridad que establezcan las disposiciones legales y normas sanitarias;
+
+IV. Acreditar la instalación de aislante de sonido que garantice el no generar ruido en el medio ambiente o contaminación, que afecte a la salud de los usuarios, de dependientes y personal expuesto. Quedando prohibido el uso de aislante que pongan en riesgo la seguridad de los usuarios;
+
+V. Acreditar la instalación de sistemas visibles, cuya finalidad sea tener a la vista de los usuarios y personal expuesto a contaminación auditiva, los niveles de ruido, y dar a conocer si se encuentra dentro del rango permitido o se ha excedido del mismo.
+
+En ningún caso se podrá exceder del límite de 60db (A) para las emisiones sonoras, en función de los niveles ponderados en A [db(A)].
+
+VI. Contar con la evidencia documental y fotográfica que permita acreditar el cumplimiento de la Ley General para el Control del Tabaco y su Reglamento.
+
+Se negará el Dictamen de Factibilidad de Impacto Sanitario cuando se incumpla con cualquiera de los requisitos establecidos en este Código.
+
+### CAPITULO PRIMERO. Disposiciones generales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
@@ -1931,6 +2125,18 @@ Para efectos de este Título se entiende por control sanitario el conjunto de ac
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.33], G.G. 30 DE SEPTIEMBRE DE 2010)
 
+### CAPITULO SEGUNDO. De las autorizaciones sanitarias
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
+
+#### SECCION PRIMERA. De la recolección de muestras
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
+
 ###### Artículo 2.
 
 52.- Los comerciantes que ejerzan su actividad en la vía pública están obligados a conservar las condiciones higiénicas que señalen las normas técnicas estatales.
@@ -1947,11 +2153,9 @@ Para efectos de este Título se entiende por control sanitario el conjunto de ac
 
 53 Bis.- Los propietarios ó poseedores de los edificios y locales, o de los negocios en ellos establecidos, además de cumplir con la obligación de ejecutar las obras que se requieran para cumplir con las condiciones de higiene y de seguridad que establezcan las disposiciones legales y las normas sanitarias locales, tendrán la obligación de instalar aislantes de sonido, particularmente en restaurantes-bares, bares, discotecas y centros de espectáculos para no generar ruido en el medio ambiente, o contaminación, que afecte la salud de los usuarios, de dependientes y personal expuesto; así como el derecho de terceros, por encima de los siguientes niveles:
 
-Los límites máximos permisibles para las emisiones sonoras dentro de los establecimientos señalados, se determinan en función de decibeles ponderados en A [db(A)]; por lo que dentro de restaurantes, bares, discotecas y centros de espectáculos, los límites máximos de emisión y horarios son los siguientes, sin menoscabo de las regulaciones específicas en cuanto a los horarios de funcionamiento:
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
-a) De las 6:00 a 22:00 Hrs. 68 db(A); y
-
-b) De las 22:00 a las 6:00 Hrs, será de 65 db(A)
+Los límites máximos permisibles para las emisiones sonoras dentro de los establecimientos señalados, se determinan en función de decibeles ponderados en A[db(A)]; por lo que dentro de restaurantes, bares, discotecas y centros de espectáculos, los límites máximos de emisión serán de 60db (A).
 
 Será obligación de los titulares instalar sistemas visibles cuya finalidad es tener a la vista de los usuarios y personal expuesto a contaminación auditiva, los niveles de ruido y dar a conocer si se encuentran en el rango permitido o se ha excedido; por lo que en ese momento los titulares y/o empleados tendrán la obligación de disminuir los volúmenes de sonido y ruido hasta que se mantengan en el rango permitido.
 
@@ -1965,17 +2169,19 @@ Queda estrictamente prohibido el uso de aislantes de sonido que pongan en riesgo
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.35], G.G. 30 DE SEPTIEMBRE DE 2010)
 
-### CAPITULO PRIMERO. Disposiciones generales
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
-
 ###### Artículo 2.
 
 54.- Los residuos sólidos municipales deben tratarse conforme a lo previsto en las normas técnicas estatales, de tal manera que no signifiquen un peligro para la salud y por ningún motivo se manipularán antes de su tratamiento o disposición final.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.36], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+#### SECCION SEGUNDA. De las medidas de seguridad sanitaria
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE OCTUBRE DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
@@ -1996,18 +2202,6 @@ En caso de animales muertos abandonados, la "COPRISEM" dictará las medidas para
 56.- La "COPRISEM" realizará análisis periódicos de la potabilidad de las aguas, conforme a lo previsto en las normas oficiales mexicanas.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.38], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-### CAPITULO SEGUNDO. De las autorizaciones sanitarias
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
-
-#### SECCION PRIMERA. De la recolección de muestras
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
@@ -2033,6 +2227,10 @@ Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean ver
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
 
+#### SECCION TERCERA. De las sanciones
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.52], G.G. 30 DE SEPTIEMBRE DE 2010)
+
 ###### Artículo 2.
 
 60.- Cuando las construcciones, terrenos, edificios o locales representen un peligro para la población por su insalubridad, la "COPRISEM" podrá ordenar al propietario o poseedor la realización de las obras que estime necesarias para evitar el peligro o, en su defecto, ordenar la ejecución de las obras con cargo al omiso.
@@ -2048,12 +2246,6 @@ Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean ver
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
-
-#### SECCION SEGUNDA. De las medidas de seguridad sanitaria
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
@@ -2071,6 +2263,10 @@ Las autorizaciones sanitarias tendrán el carácter de licencias y permisos.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.45], G.G. 30 DE SEPTIEMBRE DE 2010)
 
+## TITULO PRIMERO. Disposiciones generales
+
+### CAPITULO TERCERO. De la vigilancia
+
 ###### Artículo 2.
 
 64.- Los panteones y crematorios requieren de licencia sanitaria, que deben exhibir en un lugar visible. Cuando los crematorios cambien de ubicación, requerirán nueva licencia.
@@ -2087,9 +2283,7 @@ II. El comercio de alimentos y bebidas en la vía pública; y
 
 III. El traslado de cadáveres de seres humanos a distancias mayores a cien kilómetros dentro del Estado.
 
-> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
-
-IV. La autorización y el refrendo que realice el Ayuntamiento de la licencia de funcionamiento de un establecimiento mercantil con venta o suministro de bebidas alcohólicas, en botella cerrada para el consumo inmediato o al copeo. En estos supuestos, la Secretaría de Salud a través del Consejo Rector de Impacto Sanitario emitirá el Dictamen de Factibilidad; su integración y funcionamiento se establecerán en la reglamentación correspondiente.
+IV. (DEROGADA, G.G. 29 DE AGOSTO DE 2013)
 
 El permiso sanitario que se expida, tendrá la vigencia de un año, es de carácter personal e intransferible. Se otorgará a favor de las personas físicas, jurídicas o entes colectivos solicitantes previo cumplimiento de los requisitos.
 
@@ -2139,10 +2333,6 @@ Cuando la revocación de una autorización se funde en los riesgos o daños a la
 
 La revocación surtirá efectos de clausura, prohibición de uso y de ejercicio de las actividades que hubiesen sido autorizadas.
 
-#### SECCION TERCERA. De las sanciones
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.52], G.G. 30 DE SEPTIEMBRE DE 2010)
-
 ###### Artículo 2.
 
 67.- La "COPRISEM" independientemente de las visitas de verificación, podrá llevar a cabo la recolección de muestras de productos perecederos y no perecederos, así como de superficies vivas e inertes, para determinar la presencia de microorganismos patógenos causantes de daños a la salud.
@@ -2191,9 +2381,11 @@ VIII. La desocupación o desalojo de casas, edificios, establecimientos y, en ge
 
 IX. La prohibición de actos de uso, que es la determinación mediante la cual se ordena a los poseedores, encargados u ocupantes la utilización de los aparatos, equipos, sustancias, productos terminados, recipientes o cualquier otro implemento empleado en procesos de producción de bienes y servicios o para la prestación de servicios; y
 
-> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
-X. La suspensión temporal hasta por noventa días a establecimientos con venta de bebidas alcohólicas, que no cuenten con la licencia de funcionamiento o el permiso sanitario, incumplan el horario autorizado, contraten, vendan o suministren bebidas alcohólicas a menores de edad, así como por incumplir lo establecido por las fracciones I y II del artículo 2.47 Ter;
+X. La suspensión temporal hasta por noventa días a establecimientos con venta o suministro de bebidas alcohólicas, que no cuenten con el Dictamen de Factibilidad de Impacto Sanitario en términos del artículo 2.47 Quintus o incumplan con el horario autorizado, contraten, vendan o suministren bebidas alcohólicas a menores de edad.
+
+Una vez aplicada esta medida de seguridad, se podrá iniciar con el procedimiento administrativo establecido en el Código de Procedimientos Administrativos del Estado de México, a fin de que en caso de que se mantenga el incumplimiento, se sancione con la clausura temporal o definitiva, parcial o total, según corresponda. Además se procederá penalmente conforme a la ley de la materia.
 
 > <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -2251,10 +2443,6 @@ Si el dictamen reporta que el bien asegurado no es nocivo para la salud o cumple
 
 Si del dictamen resulta que el bien asegurado es nocivo para la salud, se podrá someter a un tratamiento que haga posible su aprovechamiento por el interesado o determinar su destrucción.
 
-## TITULO PRIMERO. Disposiciones generales
-
-### CAPITULO TERCERO. De la vigilancia
-
 ###### Artículo 2.
 
 71.- Son sanciones administrativas:
@@ -2285,11 +2473,15 @@ II. Con multa equivalente de cincuenta a quinientas veces el salario mínimo gen
 
 (REUBICADA Y REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
-III. Con multa equivalente de doscientas cincuenta a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.55; y
+III. Con multa equivalente de doscientas cincuenta a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.55; y (sic)
 
 (REUBICADA Y REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 IV. Con multa equivalente de mil a cuatro mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, en caso de no contar con la licencia a que se refiere el artículo 2.64.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+V. Con multa equivalente de mil quinientas a cuatro mil veces de salario mínimo general vigente del área geográfica que corresponda, al momento de cometer la infracción a quién incumpla con la prohibición de vender bebidas alcohólicas fuera del horario autorizado.
 
 > <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -2301,15 +2493,23 @@ I. Con multa equivalente de doscientos cincuenta a quinientas veces de salario m
 
 II. Con multa equivalente de dos mil a dos mil quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción y la suspensión definitiva, por el incumplimiento a lo dispuesto en la fracción V del artículo 2.47 Bis;
 
-III. Con multa equivalente de quinientas a mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, y la clausura definitiva por el incumplimiento a lo dispuesto en el artículo 2.37 Ter; y
+III. Con multa equivalente de quinientas a mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, y la clausura definitiva por el incumplimiento a lo dispuesto en el artículo 2.37 Ter; y (sic)
 
 IV. Con multa equivalente de quinientas a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, y la clausura definitiva por el incumplimiento a lo dispuesto en los artículos 2.37 Bis y 2.47 Ter primer párrafo.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+V. Con multa equivalente de mil quinientas a cuatro mil veces de salario mínimo general vigente del área geográfica que corresponda, al momento de cometer la violación a lo dispuesto por las fracciones I y II del artículo 2.47 Ter.
 
 > <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 2.
 
 72 Ter.- Además de lo señalado en el artículo anterior, como medida de seguridad, los ayuntamientos, a través de la autoridad competente, estarán facultados para suspender temporalmente, hasta por noventa días, el funcionamiento de estos establecimientos, mientras se lleve a cabo el procedimiento administrativo y con el objeto de preservar el interés público y la salud.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+Una vez aplicada esta medida de seguridad se podrá iniciar con el procedimiento administrativo establecido en el Código de Procedimientos Administrativos del Estado de México, a fin de que en caso de que se mantenga el incumplimiento se sancione con la clausura temporal o definitiva, parcial o total, según corresponda.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.54], G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -2342,6 +2542,10 @@ IV. Cuando por la peligrosidad de las actividades que se realicen o por la natur
 V. Cuando se compruebe que las actividades que se realizan en un establecimiento violan las disposiciones sanitarias y constituyen un peligro grave para la salud;
 
 VI. Reincidencia por tercera ocasión.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+VII. Cuando los establecimientos a que se refiere el artículo 2.48 Quintus carezcan del Dictamen de Factibilidad de Impacto Sanitario correspondiente.
 
 En los casos de clausura definitiva quedarán sin efecto las autorizaciones que, en su caso, se hubiesen otorgado al establecimiento o construcción de que se trate.
 
@@ -6455,6 +6659,10 @@ c) Contar como mínimo, con una grúa de alguno de los tipos descritos en el art
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
 #### SECCION PRIMERA. Condiciones del servicio
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
@@ -7129,37 +7337,61 @@ V. Omitir tener contratada y vigente la póliza de seguro de responsabilidad civ
 
 86.- La suspensión tiene por efecto, el impedimento para que, durante el tiempo que dure la sanción, el concesionario pueda prestar el servicio. En el caso del servicio público auxiliar de depósito y guarda de vehículos, subsistirán el resto de sus obligaciones derivadas de la concesión, incluida la de proveer del servicio al público para la devolución de vehículos.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE AGOSTO DE 2013)</small>
 
-# LIBRO OCTAVO. Del tránsito y estacionamientos de servicio al público
+### CAPITULO PRIMERO. De los estacionamientos de servicio al público
+
+# LIBRO OCTAVO
+
+Del tránsito, de los estacionamientos de servicio al público y de las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas
 
 ## TITULO SEGUNDO. Del tránsito
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO SEGUNDO. De las unidades económicas o establecimientos para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+1.- Este Libro tiene por objeto regular el tránsito de vehículos, personas y objetos que se realiza en la infraestructura vial primaria y local, el establecimiento de estacionamientos de servicio al público, así como las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+2.- Las disposiciones de este Libro tienen como finalidad garantizar la seguridad de los peatones, conductores y pasajeros que utilizan la infraestructura vial, así como llevar a cabo un efectivo registro de aquellas unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas.
+
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
-
-###### Artículo 8.
-
-1.- Este Libro tiene por objeto regular el tránsito de vehículos, personas y objetos que se realiza en la infraestructura vial primaria y local, así como el establecimiento de estacionamientos de servicio al público.
-
-###### Artículo 8.
-
-2.- Las disposiciones de este Libro tienen como finalidad garantizar la seguridad de los peatones, conductores y pasajeros que utilizan la infraestructura vial.
-
-### CAPITULO TERCERO. De las organizaciones de productores
 
 ###### Artículo 8.
 
 3.- Son autoridades para la aplicación de este Libro la Secretaría de Seguridad Ciudadana y los municipios.
 
-Corresponde a la Secretaría de Seguridad Ciudadana, ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-## TITULO TERCERO. De los estacionamientos de servicio al público
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
-### CAPITULO PRIMERO. De la producción y transformación
+Corresponde a la Secretaría de Seguridad Ciudadana, ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria, y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público y en lo referente a las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas. La Secretaría de Desarrollo Económico contará con las atribuciones contenidas en el presente Libro.
+
+## TITULO TERCERO
+
+De los estacionamientos de servicio al público y de las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 8.
 
@@ -7223,7 +7455,7 @@ Las autoridades deberán presentar a los conductores ante el Oficial Calificador
 
 Una vez expedidos los programas a que se refiere esta fracción, por las autoridades correspondientes, deberán ser publicados en el Periódico Oficial “Gaceta del Gobierno”, en los medios oficiales de los municipios y en un diario de mayor circulación en esta Entidad Federativa.
 
-### CAPITULO SEGUNDO. De la comercialización
+### CAPITULO TERCERO. De las organizaciones de productores
 
 ###### Artículo 8.
 
@@ -7339,7 +7571,7 @@ l) Obstruir los accesos y espacios destinados a las personas con discapacidad.
 
 > <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
+### CAPITULO PRIMERO. De la producción y transformación
 
 ###### Artículo 8.
 
@@ -7353,15 +7585,229 @@ II. Detener la marcha de su vehículo cuando la autoridad establezca y lleve a c
 
 III. Someterse a las pruebas para la detección del grado de intoxicación que determine este Libro, a través del médico adscrito a la Oficialía Calificadora ante el cual sean presentados, cuando muestren síntomas de que conducen en estado de ebriedad o bajo el influjo de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 8.
 
 17.- Los municipios podrán otorgar permisos para el establecimiento de estacionamientos de servicio al público, los cuales tendrán las instalaciones necesarias para la seguridad de las personas y de los vehículos, respondiendo por los daños que a los mismos se ocasionen.
 
 Para efectos del párrafo anterior, se consideran estacionamientos de servicio al público, los locales destinados a la prestación al público del servicio de recepción, guarda y protección de vehículos a cambio del pago de una tarifa autorizada.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 29 DE AGOSTO DE 2013)</small>
+
 ## TITULO CUARTO. De las infracciones y sanciones
 
-### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
+### CAPITULO SEGUNDO. De la comercialización
+
+###### Artículo 8.
+
+17 Bis.- Las unidades económicas o establecimientos para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas son:
+
+l. Establecimientos de autopartes nuevas: aquellos que se dedican a la comercialización de piezas nuevas sueltas que no se encuentran adheridas a una base de vehículo de motor;
+
+II. Establecimientos de deshuesadero: aquellos que se dedican a la comercialización de piezas usadas sueltas que no se encuentran adheridas a una base de vehículo de motor;
+
+III. Lotes de autos: unidades económicas o establecimientos de apertura y funcionamiento permanente, que se dedican a la compra, venta y recepción en consignación de vehículos automotores usados;
+
+IV. Establecimientos de mecánica y reparación de vehículos: aquellos que se dedican a la reparación o mantenimiento de vehículos usados y autopartes de tipo mecánico, eléctrico y estético;
+
+V. Tianguis de autos: unidades económicas o establecimientos de apertura y funcionamiento temporal, donde se realizan actos relacionados con la enajenación y comercialización de vehículos automotores usados;
+
+VI. Casas de empeño;
+
+VII. Agencias automotrices con venta de vehículos usados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
+
+###### Artículo 8.
+
+17 Ter.- Las unidades económicas o establecimientos para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas deberán:
+
+l. Contar y operar con licencia de funcionamiento aprobada por cabildo, previo a lo cual, deberán obtener los dictámenes y autorizaciones respectivos, incluyendo el de Factibilidad Comercial Automotriz, aún tratándose de unidades económicas o establecimientos constituidos en bienes inmuebles de régimen social;
+
+II. Contar y operar con los formatos de contratos de adhesión registrados ante la Procuraduría Federal de Protección al Consumidor. Este requisito sólo aplicará para los lotes de autos;
+
+III. Cumplir con las Normas Oficiales y Técnicas vigentes;
+
+IV. Contar y operar con un sistema interno que permita registrar de inmediato los autos o autopartes adquiridas e identificar plenamente al enajenante, debiendo proporcionar la información a la autoridad competente para los efectos conducentes;
+
+V. Abstenerse de vender y prohibir la venta y consumo de bebidas alcohólicas;
+
+VI. Observar un horario de las 8:00 y 20:00 horas;
+
+VII. Los propietarios o encargados de los establecimientos dedicados a la enajenación de vehículos, deberán consultar al menos los sistemas de vehículos robados REPUVE, Sistema Estatal y OCRA virtual. Si de la consulta se advierte que el vehículo tiene reporte de robo, deberá comunicarlo a la autoridad competente;
+
+VIII. Además de lo anterior, los tianguis de autos deberán:
+
+a) Contar con la superficie establecida en la Norma Técnica correspondiente;
+
+b) Elaborar un registro de las personas y de los vehículos objeto de enajenación, debiendo entregar a aquellos el comprobante correspondiente y asignarles el cajón de estacionamiento respectivo. Dicho registro estará a disposición de la Secretaría de Seguridad Ciudadana y de la Procuraduría General de Justicia del Estado de México.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+17 Quáter.- Para el refrendo anual de la licencia de funcionamiento deberán actualizarse los dictámenes y autorizaciones respectivos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+17 Quintus.- Los usuarios deberán acreditar ante la autoridad competente, cuando ésta se los requiera, que los vehículos o autopartes significativas a enajenar cuentan con la documentación correspondiente que legitime su propiedad o posesión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+17 Sexies.- El Consejo Rector de Factibilidad Comercial Automotriz es la autoridad encargada de emitir el Dictamen de Factibilidad Comercial Automotriz, respecto de las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y de autopartes nuevas y usadas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+17 Septies.- El Consejo Rector de Factibilidad Comercial Automotriz se integrará por:
+
+l. Un Presidente, que será designado por el Secretario de Desarrollo Económico;
+
+II. Un Secretario Técnico, que será el Director General de Comercio, que tendrá voz pero sin voto;
+
+III. Cuatro Vocales que serán los representantes:
+
+a) Del Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+b) De la Fiscalía Especializada para la Atención de Delitos de Robo de Vehículos de la Procuraduría General de Justicia del Estado de México;
+
+c) De la Dirección General de Combate al Robo de Vehículos y Transporte de la Secretaría de Seguridad Ciudadana;
+
+d) De la Secretaría de la Contraloría.
+
+Las sesiones del Consejo serán públicas, en donde el Presidente del Consejo deberá invitar a un representante del sector empresarial y a otro de la sociedad civil, además de un representante de los Ayuntamientos en cuyo territorio se pretende emitir el Dictamen de Factibilidad Comercial Automotriz, que tendrán voz, pero sin voto.
+
+Los cargos de los integrantes del Consejo son honoríficos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+17 Octies.- Para el cumplimiento de sus fines, el Consejo Rector de Factibilidad Comercial Automotriz tendrá las funciones siguientes:
+
+l. Atender y resolver, de manera permanente, colegiada e integral, las solicitudes de los particulares referentes a las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y de autopartes nuevas y usadas, para la emisión del Dictamen de Factibilidad Comercial Automotriz;
+
+II. Emitir el Dictamen de Factibilidad Comercial Automotriz;
+
+III. Establecer los procedimientos y formatos para la recepción e integración de los expedientes técnicos;
+
+IV. Sesionar, en términos del Reglamento Interior que al efecto expida el Ejecutivo del Estado;
+
+V. Las demás que le confieran otras disposiciones legales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+17 Nonies.- El Dictamen de Factibilidad Comercial Automotriz es el documento oficial con vigencia anual que consiste en la valoración de la procedencia comercial del establecimiento de acuerdo a la naturaleza del giro y constituye un requisito obligatorio para la emisión de la licencia de funcionamiento y su refrendo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+17 Decies.- Son requisitos para la expedición del Dictamen de Factibilidad Económica:
+
+l. Solicitud firmada por el propietario o poseedor del inmueble que precise el giro pretendido;
+
+II. Documento que acredite la propiedad o posesión del predio o inmueble;
+
+III. Identificación oficial, Cédula Fiscal, Registro Federal de Contribuyentes y Clave Única de Registro de Población, para personas físicas;
+
+IV. Identificación oficial del representante legal, Cédula Fiscal, Registro Federal de Contribuyentes y Acta Constitutiva, para personas jurídicas colectivas;
+
+V. Carta Poder en su caso;
+
+VI. Datos de identificación del predio o inmueble;
+
+VII. Manifestación del número de fuentes de empleo generadas;
+
+VIII. Dictamen de Impacto Regional, en su caso;
+
+IX. Dictamen de Incorporación o Impacto Vial, en su caso;
+
+X. Autorización en materia de Impacto Ambiental;
+
+XI. Constancia de Factibilidad de Uso de Suelo;
+
+XII. Cumplir con los requisitos legales, reglamentarios y de las Normas Técnicas que emita la Secretaría de Desarrollo Económico;
+
+XIII. Las demás que establezcan otras disposiciones legales aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+17 Undecies.- Se negará el Dictamen de Factibilidad Comercial Automotriz o su refrendo cuando se incumplan los requisitos establecidos en el artículo 8.17 Decies.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+17 Duodecies.- El Dictamen de Factibilidad Comercial Automotriz contendrá lo siguiente:
+
+l. Número de Dictamen;
+
+II. Ubicación del inmueble;
+
+III. Nombre del solicitante;
+
+IV. Vigencia;
+
+V. Lugar y fecha de expedición;
+
+VI. Determinación fundada y motivada de la procedencia del giro pretendido;
+
+VII. Las restricciones federales, estatales y municipales, en su caso;
+
+VIII. Nombre, cargo y firma de la autoridad que emita el dictamen.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+17 Terdecies.- La Secretaría de Desarrollo Económico será la encargada de crear, operar y mantener actualizado el Registro Estatal de Unidades Económicas o Establecimientos para la Enajenación, Reparación o Mantenimiento de Vehículos Usados y Autopartes Nuevas y Usadas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+17 Quáterdecies.- Queda estrictamente prohibido ocupar las vías públicas para realizar actos relacionados con la enajenación de los bienes mencionados en este Capítulo, con excepción de los particulares que oferten hasta dos vehículos de su propiedad frente a su domicilio, supuesto en el cual deberán contar con los documentos que acrediten la propiedad de los bienes respectivos.
 
 ###### Artículo 8.
 
@@ -7391,7 +7837,7 @@ IV. En materia de estacionamientos, la multa se calculará multiplicando el núm
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO QUINTO. De los apoyos y estímulos
+## TITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 8.
 
@@ -7521,15 +7967,67 @@ III. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
 
 22.- Sólo después de haberse cubierto el importe de las multas, traslado y depósito ante la autoridad competente en su caso, se procederá a la entrega de los vehículos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 3 DE MAYO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-## TITULO PRIMERO. Disposiciones generales
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+23.- Son sanciones administrativas:
+
+l. Amonestación con apercibimiento;
+
+II. Multa;
+
+III. Clausura temporal o definitiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+24.- Las sanciones impuestas por la Secretaría de Desarrollo Económico son las siguientes:
+
+l. Multa de 50 a 100 días de salario mínimo vigente en la zona geográfica que corresponda, por incumplir con lo dispuesto por las fracciones II y VIII inciso a), del articulo 8.17 Ter;
+
+II. Clausura temporal o definitiva de la unidad económica o establecimiento que se dedique a la enajenación, reparación o mantenimiento de vehículos usados y autopartes nuevas y usadas, por no contar con el Dictamen de Factibilidad Comercial Automotriz o con el sistema interno de registro, establecido en las fracciones IV y VIII, inciso b), del articulo 8.17 Ter.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+25.- Las sanciones impuestas por los ayuntamientos son las siguientes:
+
+l. Multa de 50 a 100 días de salario mínimo vigente en la zona geográfica que corresponda, por incumplir con lo dispuesto por las fracciones V, VI y VII del artículo 8.17 Ter y por el artículo 8.17 Quáterdecies;
+
+II. Clausura temporal o definitiva de la unidad económica o establecimiento que se dedique a la enajenación, reparación o mantenimiento de vehículos usados y autopartes nuevas y usadas, por no contar con licencia de funcionamiento, o por reincidir en el incumplimiento de lo dispuesto por la fracción V del artículo 8.17 Ter o del artículo 8.17 Quáterdecies.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+26.- Además de lo señalado en los artículos 8.23 y 8.24, como medida de seguridad, la Secretaría de Desarrollo Económico y los ayuntamientos, a través de la autoridad competente, estarán facultados para suspender temporalmente hasta por noventa días, el funcionamiento de las unidades económicas o establecimientos para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas. Durante la suspensión se llevará cabo el procedimiento administrativo correspondiente, a fin de que en caso de que se mantenga el incumplimiento se sancione con la clausura temporal o definitiva, según corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 8.
+
+27.- En contra de las resoluciones que emitan la Secretaría de Desarrollo Económico y los municipios, procederá el recurso de inconformidad ante la propia autoridad o juicio ante el Tribunal de lo Contencioso Administrativo del Estado de México.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 3 DE MAYO DE 2006)</small>
 
 # LIBRO NOVENO. Del fomento y desarrollo agropecuario y acuícola
 
 ## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias y acuícolas
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
 
 ###### Artículo 9.
 
@@ -7541,7 +8039,7 @@ III. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
 
 2.- Las disposiciones de este Libro tienen como finalidad lograr en la Entidad un incremento sostenido de las actividades agropecuarias y acuícolas para contribuir al desarrollo rural del Estado.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO QUINTO. De los apoyos y estímulos
 
 ###### Artículo 9.
 
@@ -7551,9 +8049,7 @@ III. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
 
 4.- Los municipios podrán participar en las acciones reguladas en este Libro.
 
-### CAPITULO TERCERO. De los consejos consultivos económicos
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 9.
 
@@ -7567,7 +8063,7 @@ Se entiende por productor rural la persona física que directa o indirectamente 
 
 > <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 9.
 
@@ -7605,7 +8101,9 @@ III. Que los programas para la tecnificación del riego que realicen los diferen
 
 IV. La erradicación del sistema de rosa, tumba y quema y de incendios inducidos para fines de explotación agropecuarias.
 
-### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
+### CAPITULO TERCERO. De los consejos consultivos económicos
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 9.
 
@@ -7625,7 +8123,7 @@ VI. La formación y capacitación de árbitros, así como la constitución de un
 
 VII. La integración de cadenas productivas, y mecanismos que permitan la obtención de financiamientos con tasas preferenciales, en materia de comercialización.
 
-### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
+### CAPITULO PRIMERO. Disposiciones generales
 
 #### SECCION TERCERA. De las excepciones a la licitación pública
 
@@ -7713,7 +8211,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y de
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados, serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-### CAPITULO CUARTO. Del turismo
+### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
 
 ###### Artículo 9.
 
@@ -7727,9 +8225,7 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 15.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
 
 ###### Artículo 9.
 
@@ -7765,9 +8261,7 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 > <small>(DEROGADO CON LOS ARTÍCULOS, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+### CAPITULO CUARTO. Del turismo
 
 ###### Artículo 9.
 
@@ -7789,7 +8283,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7801,7 +8295,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Discapacidad y su Integración al Desarrollo Social
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7815,7 +8309,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPÍTULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7833,7 +8327,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEGUNDO. De la atención médica
+### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Discapacidad y su Integración al Desarrollo Social
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7867,7 +8361,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
 
-### CAPITULO TERCERO. De la educación regular y especial
+### CAPÍTULO PRIMERO. Disposiciones generales
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7885,9 +8379,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
+### CAPITULO SEGUNDO. De la atención médica
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 10.
 
@@ -7903,7 +8397,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO QUINTO. Del tránsito y transporte
+### CAPITULO TERCERO. De la educación regular y especial
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7921,9 +8415,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
+### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 10.
 
@@ -7993,7 +8487,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
+### CAPITULO QUINTO. Del tránsito y transporte
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8017,7 +8511,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO OCTAVO. De la atención integral a las personas con discapacidad
+### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8047,7 +8541,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con discapacidad o terceros
+### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8059,9 +8553,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO OCTAVO. De la atención integral a las personas con discapacidad
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
@@ -8087,9 +8581,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
+### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con discapacidad o terceros
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
@@ -8105,9 +8599,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO TERCERO. De los procedimientos de adjudicación
+### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -8141,7 +8635,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO CUARTO. De la contratación
+### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8189,9 +8683,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO QUINTO. De la ejecución
+### CAPITULO TERCERO. De los procedimientos de adjudicación
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -8219,7 +8713,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEXTO. De la administración directa
+### CAPITULO CUARTO. De la contratación
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8249,7 +8743,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEPTIMO. De la información, verificación y control
+### CAPITULO QUINTO. De la ejecución
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8267,7 +8761,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO OCTAVO. De los medios de defensa
+### CAPITULO SEXTO. De la administración directa
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8279,9 +8773,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO PRIMERO. Parte general
+### CAPITULO SEPTIMO. De la información, verificación y control
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -8297,9 +8791,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEGUNDO. De la planeación, programación y sistematización
+### CAPITULO OCTAVO. De los medios de defensa
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -8353,7 +8847,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. De la sistematización
+### CAPITULO PRIMERO. Parte general
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8519,7 +9013,7 @@ La invalidez podrá ser declarada de oficio en sede administrativa por la depend
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. De las operaciones consolidadas
+### CAPITULO SEGUNDO. De la planeación, programación y sistematización
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8651,7 +9145,7 @@ IV. Las demás que establezca el Reglamento respectivo.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO QUINTO. De los catálogos
+### CAPITULO TERCERO. De la sistematización
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8869,7 +9363,7 @@ Si la dependencia, entidad o ayuntamiento no firmare el contrato dentro del plaz
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEXTO. De la integración y funciones de los Comités
+### CAPITULO CUARTO. De las operaciones consolidadas
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -9013,11 +9507,9 @@ En el supuesto de la fracción II, el contratista afectado podrá demandar la re
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEPTIMO. De los procedimientos de adquisición
+### CAPITULO QUINTO. De los catálogos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 12.
 
@@ -9139,7 +9631,7 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO OCTAVO. De las enajenaciones
+### CAPITULO SEXTO. De la integración y funciones de los Comités
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -9161,9 +9653,11 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO NOVENO. De los contratos
+### CAPITULO SEPTIMO. De los procedimientos de adquisición
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ###### Artículo 12.
 
@@ -9195,7 +9689,7 @@ Tratándose de obras que se ejecuten o se pretendan ejecutar con recursos munici
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO. De las garantías
+### CAPITULO OCTAVO. De las enajenaciones
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -9255,11 +9749,11 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO DECIMO PRIMERO. De los contratos abiertos
+### CAPITULO NOVENO. De los contratos
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO DECIMO SEGUNDO. De la información y verificación
+### CAPITULO DECIMO. De las garantías
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -9269,7 +9763,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
+### CAPITULO DECIMO PRIMERO. De los contratos abiertos
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -9323,7 +9817,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
+### CAPITULO DECIMO SEGUNDO. De la información y verificación
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -9377,9 +9871,9 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO PRIMERO. De las disposiciones generales
+### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
@@ -9395,9 +9889,9 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
+### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
@@ -9407,7 +9901,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO TERCERO. Del servicio
+### CAPITULO PRIMERO. De las disposiciones generales
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -9425,7 +9919,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO CUARTO. De la coordinación
+### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -9461,7 +9955,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO PRIMERO. Del IGECEM
+### CAPITULO TERCERO. Del servicio
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -9633,7 +10127,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON LA SECCIONE Y LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO UNICO
+### CAPITULO CUARTO. De la coordinación
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -9707,9 +10201,9 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO PRIMERO. Del IGECEM
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -9773,9 +10267,9 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO II. De la dirección del periódico oficial
+### CAPITULO UNICO
 
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -9797,7 +10291,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO III. Del funcionamiento del periódico oficial
+### CAPITULO I. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -9815,7 +10309,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO IV. Del procedimiento de publicación y circulación
+### CAPITULO II. De la dirección del periódico oficial
 
 > <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
@@ -9845,7 +10339,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO V. De la fe de erratas
+### CAPITULO III. Del funcionamiento del periódico oficial
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -9857,9 +10351,9 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO VI. De las responsabilidades de los servidores públicos
+### CAPITULO IV. Del procedimiento de publicación y circulación
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 13.
 
@@ -9899,9 +10393,9 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO UNICO
+### CAPITULO V. De la fe de erratas
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 14.
 
@@ -10143,9 +10637,9 @@ V. Las personas cuya colaboración se requiera.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
+### CAPITULO VI. De las responsabilidades de los servidores públicos
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 14.
 
@@ -10389,7 +10883,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10423,7 +10917,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO TERCERO. Autorización del Proyecto
+### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10465,7 +10959,7 @@ V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO CUARTO. Análisis Costo-Beneficio
+### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10663,7 +11157,7 @@ El Secretario Técnico, tiene las facultades y obligaciones que se establecen en
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
+### CAPITULO TERCERO. Autorización del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10737,7 +11231,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO SEXTO. Administración del Proyecto
+### CAPITULO CUARTO. Análisis Costo-Beneficio
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10807,7 +11301,7 @@ Las publicaciones en el Periódico Oficial “Gaceta del Gobierno”, se realiza
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO PRIMERO. Características Generales
+### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10865,7 +11359,7 @@ IV. Donaciones a instituciones privadas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
+### CAPITULO SEXTO. Administración del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10923,7 +11417,7 @@ Por motivos técnicos, en la publicación del documento se podrá omitir la impr
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO TERCERO. Autorización del Modelo de Contrato
+### CAPITULO PRIMERO. Características Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10967,7 +11461,7 @@ Para los efectos del presente artículo, se entiende que el periódico oficial s
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
+### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10999,7 +11493,7 @@ II.- Por errores en el texto de los documentos originales que contengan la mater
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Disposiciones Generales
+### CAPITULO TERCERO. Autorización del Modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11021,7 +11515,7 @@ II. Por actos u omisiones que entorpezcan los procedimientos de edición, public
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO TERCERO. Del procedimiento de licitación pública
+### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11115,7 +11609,7 @@ Las disposiciones administrativas que se emitan de conformidad a la facultad pre
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO CUARTO. De las excepciones a la licitación pública
+### CAPITULO SEGUNDO. Disposiciones Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11151,7 +11645,7 @@ En las autorizaciones, la Secretaría podrá requerir que la Unidad Contratante 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO TERCERO. Del procedimiento de licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11229,7 +11723,7 @@ De aprobarse por la Legislatura el incremento en el presupuesto a que se refiere
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
+### CAPITULO CUARTO. De las excepciones a la licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11273,7 +11767,7 @@ En caso de que la Unidad Contratante omitiera presentar la información prevista
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO. Generalidades
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11289,7 +11783,7 @@ En caso de que la Unidad Contratante omitiera presentar la información prevista
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO UNICO
+### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11347,9 +11841,9 @@ VIII. Desarrollar, administrar, supervisar, evaluar y rendir los informes necesa
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 16.
 
@@ -11363,9 +11857,9 @@ VIII. Desarrollar, administrar, supervisar, evaluar y rendir los informes necesa
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 16.
 
@@ -11461,7 +11955,7 @@ En ningún caso el Contrato tendrá por objeto principal la adquisición forzosa
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -11489,7 +11983,7 @@ Cualquier modificación que pudiere surgir como resultado de las juntas de aclar
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Del derecho de vía
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -11519,7 +12013,7 @@ IV. Las demás que establezca el reglamento de este Libro.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO TERCERO. De la publicidad exterior en la Infraestructura Vial Primaria
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -11559,7 +12053,7 @@ Con el objeto de brindar difusión y publicidad a los procesos de contratación 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. Del derecho de vía
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -11685,7 +12179,7 @@ La Unidad Contratante podrá cancelar una licitación por caso fortuito o fuerza
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Del plazo
+### CAPITULO TERCERO. De la publicidad exterior en la Infraestructura Vial Primaria
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -11771,9 +12265,9 @@ XI. Las demás que por cualquier causa se encuentren impedidas para ello por dis
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO TERCERO. De las obligaciones de los concesionarios y permisionarios
+### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -11817,7 +12311,7 @@ La Unidad Contratante tendrá derecho de compensar cantidades que le adeude el P
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO CUARTO. De la terminación y revocación
+### CAPITULO SEGUNDO. Del plazo
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -11845,9 +12339,9 @@ En caso de incumplimiento de la Unidad Contratante y siempre que ésta dependa d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO QUINTO. De los dictámenes
+### CAPITULO TERCERO. De las obligaciones de los concesionarios y permisionarios
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 16.
 
@@ -11875,7 +12369,7 @@ Los órganos de control interno y el Órgano Superior de Fiscalización del Esta
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. De la Junta de Caminos del Estado de México
+### CAPITULO CUARTO. De la terminación y revocación
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -11919,7 +12413,7 @@ IV. La situación específica del infractor.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
+### CAPITULO QUINTO. De los dictámenes
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -11985,9 +12479,9 @@ En las materias reguladas en el presente Libro no procederá el recurso administ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPÍTULO TERCERO. Del Sistema de Transporte Masivo y Teleférico del Estado de México
+### CAPITULO PRIMERO. De la Junta de Caminos del Estado de México
 
-> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -12069,9 +12563,9 @@ IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura var
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. Del registro estatal de comunicaciones
+### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
 
-> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -12131,9 +12625,9 @@ Para los efectos de este artículo la Secretaría contará con un registro de v�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPÍTULO TERCERO. Del Sistema de Transporte Masivo y Teleférico del Estado de México
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -12163,9 +12657,9 @@ IV. Cubrir los daños que ocasionen a la infraestructura vial y su derecho de v�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las autoridades
+### CAPITULO CUARTO. Del registro estatal de comunicaciones
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -12249,9 +12743,9 @@ Si dentro de este lazo no fuere reclamado dicho material, la autoridad queda fac
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De las normas técnicas
+### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -12473,7 +12967,7 @@ Declarada desierta una licitación pública, se podrá adjudicar la concesión a
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. De los peritos responsables de obra
+### CAPITULO SEGUNDO. De las autoridades
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -12525,9 +13019,9 @@ III. Las demás proyecciones financieras y operativas que considere la rentabili
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
 
-### CAPITULO PRIMERO. De las licencias de construcción
+### CAPITULO TERCERO. De las normas técnicas
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -12621,7 +13115,7 @@ b) Al término de la concesión o sus modificaciones, los bienes objeto de la co
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
 
-### CAPITULO SEGUNDO. De los permisos de obra
+### CAPITULO CUARTO. De los peritos responsables de obra
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -12811,7 +13305,7 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De las constancias
+### CAPITULO PRIMERO. De las licencias de construcción
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -12833,7 +13327,7 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. De los lineamientos de diseño
+### CAPITULO SEGUNDO. De los permisos de obra
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -12901,7 +13395,7 @@ La organización y funcionamiento de la Junta se rige por el reglamento interno 
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De los lineamientos del proyecto
+### CAPITULO TERCERO. De las constancias
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -12991,7 +13485,7 @@ La organización y funcionamiento del Sistema se rige por el reglamento interno 
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De los lineamientos de diseño para personas con discapacidad
+### CAPITULO PRIMERO. De los lineamientos de diseño
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13107,7 +13601,7 @@ La organización y funcionamiento del Sistema se rige por el Reglamento Interno 
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De los lineamientos del proyecto
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13171,7 +13665,7 @@ El Registro Estatal de Comunicaciones será público y tendrá efectos declarati
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De los criterios de diseño estructural
+### CAPITULO TERCERO. De los lineamientos de diseño para personas con discapacidad
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13215,7 +13709,7 @@ VII. Las sanciones que se contengan en los respectivos títulos de concesión.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. De las prevenciones estructurales
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13275,7 +13769,7 @@ XIII. Procurarán la utilización de tecnologías a efecto de lograr un aprovech
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO CUARTO. De las demoliciones y excavaciones
+### CAPITULO SEGUNDO. De los criterios de diseño estructural
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13337,7 +13831,7 @@ XI. Las demás que le confieran otras disposiciones legales.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO UNICO. De los procedimientos constructivos, de los materiales y de la supervisión de las obras
+### CAPITULO TERCERO. De las prevenciones estructurales
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13445,7 +13939,7 @@ Sin perjuicio de lo anterior, dentro del año siguiente a la entrada en vigor de
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO PRIMERO. De las visitas de verificación
+### CAPITULO CUARTO. De las demoliciones y excavaciones
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13701,7 +14195,7 @@ XII. Obras urgentes para prevenir accidentes o en ejecución de medidas de segur
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las medidas de seguridad
+### CAPITULO UNICO. De los procedimientos constructivos, de los materiales y de la supervisión de las obras
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13805,7 +14299,7 @@ La autoridad municipal competente autorizará diferencias de obra ejecutada con 
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. De las infracciones y sanciones
+### CAPITULO PRIMERO. De las visitas de verificación
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13837,7 +14331,7 @@ La constancia se podrá otorgar para ambos o para uno u otro servicio, de acuerd
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO CUARTO. Del recurso de inconformidad
+### CAPITULO SEGUNDO. De las medidas de seguridad
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13882,6 +14376,10 @@ Los locales destinados a cines, auditorios, teatros, salas de concierto, reunió
 ## TITULO CUARTO. De la seguridad estructural de las construcciones
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO TERCERO. De las infracciones y sanciones
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -13978,6 +14476,10 @@ Las vías públicas contarán con rampas y guías en las banquetas para identifi
 48.- En las construcciones deberá asegurarse un comportamiento estructural eficiente en condiciones normales de funcionamiento, así como proporcionar seguridad contra las acciones y situaciones accidentales que puedan afectar la estructura, con especial atención a los efectos sísmicos y ampliaciones.
 
 El proyecto considerará una estructura que cumpla con los requisitos que establezcan este Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables, lo cual será documentado en una memoria de cálculo y planos estructurales, que deberán ser avalados por perito responsable de obra.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO CUARTO. Del recurso de inconformidad
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15201,6 +15703,18 @@ DÉCIMO QUINTO.- El Programa Estatal de Publicidad Exterior deberá ser expedido
 
 DÉCIMO SEXTO.- Los permisos y autorizaciones en materia de publicidad exterior, vigentes al entrar en vigor las reformas serán respetados en sus términos hasta la conclusión del plazo por el que fueron otorgados. El Programa Estatal de Publicidad Exterior fijará los lineamientos para el otorgamiento de plazos adicionales de vigencia, cuando ello sea procedente.
 
+G.G. 1 DE SEPTIEMBRE DE 2011.
+
+DECRETO NÚMERO 337, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1.1 EN SU FRACCIÓN X; 2.16 EN SU FRACCIÓN XIV; 2.21 EN SU FRACCIÓN III; 3.8 EN SU FRACCIÓN III; 5.63 EN SU FRACCIÓN VIII; 5.64 EN SU PRIMER PÁRRAFO Y LAS FRACCIONES II, III, IV, V, VII Y IX; 8.16 FRACCIÓN X EN SU INCISO L); LA DENOMINACIÓN DEL LIBRO DÉCIMO PRIMERO; 11.1; 11.2; 11.3; 11.4; 11.5; 11.6; 11.8 EN SUS FRACCIONES I, II, III, IV, V, VI, VIII, IX, XI Y XII; LA DENOMINACIÓN DEL CAPÍTULO CUARTO DEL LIBRO DÉCIMO PRIMERO; 11.9 EN SU PRIMER PÁRRAFO; 11.10 EN SUS FRACCIONES I Y III; 11.11 EN SU PRIMER PÁRRAFO; LA DENOMINACIÓN DEL TÍTULO SEGUNDO DEL LIBRO DÉCIMO PRIMERO; 11.12 EN SU PRIMER PÁRRAFO Y LAS FRACCIONES VII Y VIII; 11.13 EN SUS PÁRRAFOS PRIMERO Y TERCERO; 11.15 EN SU PRIMER PÁRRAFO Y LAS FRACCIONES III Y VI; 11.16 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO; 11.17; 11.18 EN SUS FRACCIONES I Y II; 11.20; 11.21 EN SUS FRACCIONES II, III Y IV; 11.24; 11.25; 11.26 EN SUS FRACCIONES V Y VI; 11.27; 11.28; 11.29 EN SUS FRACCIONES I Y II; 11.30 EN SUS PÁRRAFOS PRIMERO Y ÚLTIMO, Y LAS FRACCIONES I Y III; 11.31 EN SU PRIMER PÁRRAFO; 11.32 EN SUS FRACCIONES I Y II; 11.33 EN SUS PÁRRAFOS PRIMERO Y ÚLTIMO, Y EN SU FRACCIÓN II; 11.34 EN SU PRIMER Y ÚLTIMO PÁRRAFOS; 11.35 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO; 11.36; LA DENOMINACIÓN DEL CAPÍTULO OCTAVO DEL LIBRO DÉCIMO PRIMERO; 11.37 EN SU PRIMER PÁRRAFO, Y LAS FRACCIONES I Y III; 11.38; LA DENOMINACIÓN DEL CAPÍTULO NOVENO DEL LIBRO DÉCIMO PRIMERO; 11.39; 11.40; 11.41; 11.42; 11.43 EN SUS FRACCIONES I Y III EN SU INCISO A); 12.15 EN SU FRACCIÓN XIII DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
+
+CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
+
 G.G. 14 DE ABRIL DE 2011.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
@@ -15244,18 +15758,6 @@ Los fraccionamientos que se encuentren en proceso de ejecución para su conclusi
 SEXTO.- En tanto el Estado y sus municipios celebran los convenios de transferencia de funciones a éstos últimos, aquél continuará prestando las funciones relacionadas con la expedición de las licencias de uso del suelo, cédulas informativas de zonificación, cambios de uso del suelo, coeficiente de ocupación del suelo y coeficiente de utilización del suelo, densidad de vivienda, así como de altura de edificaciones y frente mínimo.
 
 SÉPTIMO.- El Titular del Poder Ejecutivo Estatal, a través de las Secretarías de Finanzas y Desarrollo Urbano, deberá constituir el Fideicomiso de Reserva Territorial para el Desarrollo de Equipamiento Urbano Regional en un plazo máximo de 120 días hábiles, a partir de la entrada en vigor de este ordenamiento.
-
-G.G. 1 DE SEPTIEMBRE DE 2011.
-
-DECRETO NÚMERO 337, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1.1 EN SU FRACCIÓN X; 2.16 EN SU FRACCIÓN XIV; 2.21 EN SU FRACCIÓN III; 3.8 EN SU FRACCIÓN III; 5.63 EN SU FRACCIÓN VIII; 5.64 EN SU PRIMER PÁRRAFO Y LAS FRACCIONES II, III, IV, V, VII Y IX; 8.16 FRACCIÓN X EN SU INCISO L); LA DENOMINACIÓN DEL LIBRO DÉCIMO PRIMERO; 11.1; 11.2; 11.3; 11.4; 11.5; 11.6; 11.8 EN SUS FRACCIONES I, II, III, IV, V, VI, VIII, IX, XI Y XII; LA DENOMINACIÓN DEL CAPÍTULO CUARTO DEL LIBRO DÉCIMO PRIMERO; 11.9 EN SU PRIMER PÁRRAFO; 11.10 EN SUS FRACCIONES I Y III; 11.11 EN SU PRIMER PÁRRAFO; LA DENOMINACIÓN DEL TÍTULO SEGUNDO DEL LIBRO DÉCIMO PRIMERO; 11.12 EN SU PRIMER PÁRRAFO Y LAS FRACCIONES VII Y VIII; 11.13 EN SUS PÁRRAFOS PRIMERO Y TERCERO; 11.15 EN SU PRIMER PÁRRAFO Y LAS FRACCIONES III Y VI; 11.16 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO; 11.17; 11.18 EN SUS FRACCIONES I Y II; 11.20; 11.21 EN SUS FRACCIONES II, III Y IV; 11.24; 11.25; 11.26 EN SUS FRACCIONES V Y VI; 11.27; 11.28; 11.29 EN SUS FRACCIONES I Y II; 11.30 EN SUS PÁRRAFOS PRIMERO Y ÚLTIMO, Y LAS FRACCIONES I Y III; 11.31 EN SU PRIMER PÁRRAFO; 11.32 EN SUS FRACCIONES I Y II; 11.33 EN SUS PÁRRAFOS PRIMERO Y ÚLTIMO, Y EN SU FRACCIÓN II; 11.34 EN SU PRIMER Y ÚLTIMO PÁRRAFOS; 11.35 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO; 11.36; LA DENOMINACIÓN DEL CAPÍTULO OCTAVO DEL LIBRO DÉCIMO PRIMERO; 11.37 EN SU PRIMER PÁRRAFO, Y LAS FRACCIONES I Y III; 11.38; LA DENOMINACIÓN DEL CAPÍTULO NOVENO DEL LIBRO DÉCIMO PRIMERO; 11.39; 11.40; 11.41; 11.42; 11.43 EN SUS FRACCIONES I Y III EN SU INCISO A); 12.15 EN SU FRACCIÓN XIII DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
-
-CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
 
 G.G. 9 DE SEPTIEMBRE DE 2011.
 
@@ -15637,11 +16139,11 @@ CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan
 
 G.G. 3 DE MAYO DE 2013.
 
-DECRETO No. 80 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO TRANSITORIO DÉCIMO DEL DECRETO NÚMERO 394, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO", DE FECHA 16 DE DICIEMBRE DE 2011, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y REFORMADO MEDIANTE DECRETO NUMERO 10, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO", DE FECHA 26 DE OCTUBRE DE 2012.
+DECRETO No. 80 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO TRANSITORIO DÉCIMO DEL DECRETO NÚMERO 394, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO”, DE FECHA 16 DE DICIEMBRE DE 2011, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y REFORMADO MEDIANTE DECRETO NUMERO 10, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO”, DE FECHA 26 DE OCTUBRE DE 2012.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
@@ -15722,3 +16224,43 @@ G.G. 18 DE JULIO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 131, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL LIBRO OCTAVO, LOS ARTÍCULOS 8.1, 8.2, 8.3 EN SU SEGUNDO PÁRRAFO, LA DENOMINACIÓN DEL TÍTULO TERCERO DEL LIBRO OCTAVO, Y SE ADICIONAN LOS CAPÍTULOS PRIMERO Y SEGUNDO DEL TÍTULO TERCERO DEL LIBRO OCTAVO CON LOS ARTÍCULOS 8.17 BIS. 8.17 TER. 8.17 QUÁTER, 8.17 QUINTUS, 8.17 SEXIES, 8.17 SEPTIES, 8.17 OCTIES, 8.17 NONIES, 8.17 DECIES, 8.17 UNDECIES, 8.17 DUODECIES, 8.17 TERDECIES Y 8.17 QUÁTERDECIES, ASÍ COMO LOS ARTÍCULOS 8.23, 8.24, 8.25, 8.26 Y 8.27 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los 30 días naturales siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas que no tengan permiso o licencia de funcionamiento deberán tramitarla ante la autoridad municipal correspondiente, del 1 de enero de 2014 al 31 de marzo de 2014.
+
+CUARTO.- El Consejo Rector de Factibilidad Comercial Automotriz, deberá de estar instalado en un plazo de 30 días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- La Secretaría de Desarrollo Económico contará con un plazo de 60 días naturales, a partir de la entrada en vigor del presente Decreto, para la integración del Registro Estatal de Unidades Económicas o Establecimientos para la Enajenación, Reparación o Mantenimiento de Vehículos Automotores Usados y Autopartes Nuevas y Usadas.
+
+SEXTO.- El Gobernador y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+SÉPTIMO.- El Ejecutivo del Estado deberá expedir el reglamento interior del Consejo Rector de Factibilidad Comercial Automotriz, en un plazo que no excederá de 30 días naturales posteriores a su instalación.
+
+OCTAVO.- La Secretaría de Desarrollo Económico deberá expedir las Normas Técnicas, en un plazo que no excederá de 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+NOVENO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 29 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 132, POR EL QUE SE REFORMAN LOS ARTÍCULOS 2.3; LA FRACCIÓN VII BIS DEL ARTÍCULO 2.39; EL PÁRRAFO PRIMERO Y LAS FRACCIONES I Y VI DEL ARTÍCULO 2.47 BIS; LAS FRACCIONES I Y II DEL ARTÍCULO 2.47 TER; LA FRACCIÓN II Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 2.48; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 2.53 BIS; LA FRACCIÓN X DEL ARTÍCULO 2.68. SE ADICIONAN LA FRACCIÓN VII Y CUARTO PÁRRAFO AL ARTÍCULO 2.47 BIS; EL ARTÍCULO 2.47 QUÁTER; LOS ARTÍCULOS 2.48 BIS; 2.48 TER; 2.48 QUÁTER; 2.48 QUINTUS; 2.48 SEXIES; 2.48 SEPTIES; LA FRACCIÓN V AL ARTÍCULO 2.72; LA FRACCIÓN V AL ARTÍCULO 2.72 BIS; EL SÉPTIMO PÁRRAFO DEL ARTÍCULO 2.72 TER. SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 2.65 Y LA FRACCIÓN VIII AL ARTÍCULO 2.75 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los Ayuntamientos en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+CUARTO.- El Consejo Rector de Impacto Sanitario, deberá de estar instalado en un término de quince días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- Se establece un término de diez días naturales posteriores a la instalación del Consejo Rector de Impacto Sanitario para que puedan sesionar sobre los asuntos correspondientes a la emisión del Dictamen de Factibilidad de Impacto Sanitario.
+
+SEXTO.- El Ejecutivo del Estado deberá expedir en un término de quince días naturales a partir de la entrada en vigor del presente Decreto las disposiciones reglamentarias respectivas.
+
+SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
