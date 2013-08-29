@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-juventud-del-estado-de-campeche-82686"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-13"
-last_updated: "2012-12-13"
+last_updated: "2013-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2013.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el miércoles 13 de julio de 2011.
 
@@ -371,9 +371,43 @@ Se crea el Sistema como un mecanismo de coordinación funcional de las dependenc
 
 Dicho Sistema deberá hacer congruente los planes y programas estatales en materia de juventud con los que implemente el gobierno federal a través del Instituto Mexicano de la Juventud.
 
-## Título Cuarto. Del Instituto de la Juventud de Campeche
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### Capítulo II. Del Consejo Consultivo del Sistema Estatal de Atención a la Juventud
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 2013)</small>
+
+## Título Tercero Bis. De las Autoridades Estatales y Municipales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 2013)</small>
+
+### Capítulo Único. De sus Atribuciones
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+
+###### Artículo 37 Bis.
+
+El Ejecutivo del Estado, en el ámbito de su competencia y de conformidad a sus recursos presupuestales, tendrá las obligaciones siguientes:
+
+I. Garantizar a los jóvenes el ejercicio y goce pleno de los derechos establecidos en la presente Ley;
+
+II. Promover entre los jóvenes programas de desarrollo físico, social, y cultural, que se encuentren en el Plan Estatal de Desarrollo y los programas que la Federación destine para el Estado;
+
+III. Impulsar a los jóvenes para que tengan una plena participación en la vida económica y política; y
+
+IV. Promover el respeto a sus derechos y cumplir con el objeto de esta Ley.
+
+El Poder Legislativo, en el ámbito de su competencia deberá revisar permanentemente la legislación que se relacione o afecte el ámbito de los jóvenes, con la finalidad de promover las iniciativas y reformas que correspondan, para garantizar el ejercicio de sus derechos; asegurar un adecuado presupuesto para el desarrollo de programas en su beneficio.
+
+Los Ayuntamientos, en el ámbito de sus respectivas competencias y de conformidad a sus recursos presupuestales, tendrán las obligaciones siguientes:
+
+I. promover y ejecutar los programas que sean necesarios para garantizar a los jóvenes, el ejercicio y goce pleno de los derechos establecidos en la presente Ley.
+
+II. Planear y ejecutar políticas públicas para los jóvenes, incluyendo acciones que garanticen el ejercicio de sus derechos; e
+
+III. Impulsar a los jóvenes para que tengan una plena participación en la vida económica, política, cultural, deportiva y social dentro de sus municipios.
 
 ###### Artículo 38.
 
@@ -381,7 +415,7 @@ El Sistema está constituido por el conjunto de acciones, recursos y programas r
 
 El Estado programará e instrumentará las acciones y medidas adecuadas, propiciando los servicios y beneficios sociales, políticos, económicos y educativos para garantizar el desarrollo físico, moral e intelectual de los jóvenes.
 
-### Capítulo I. De su naturaleza y atribuciones
+### Capítulo II. Del Consejo Consultivo del Sistema Estatal de Atención a la Juventud
 
 ###### Artículo 39.
 
@@ -407,6 +441,10 @@ VII. Las demás que le otorgue esta ley su reglamento y otras disposiciones lega
 
 El Consejo a convocatoria de su Presidente, sesionará cuando menos dos veces al año de manera ordinaria y de manera extraordinaria las veces que sean necesarias.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 41.
 
 El Consejo se integrará por los siguientes miembros:
@@ -421,31 +459,39 @@ IV. Vocales con conocimiento en la materia, que serán designados por las siguie
 
 a) La Secretaría de Gobierno;
 
-b) El Instituto del Deporte del Estado de Campeche;
+b) La Secretaría de Desarrollo Social y Regional
 
 c) La Secretaría de Cultura;
 
 d) La Secretaría de Salud;
 
-e) Un representante por cada una de las instituciones educativas de los niveles medios superior y superior de los sectores público y privado interesadas;
+e) La Secretaría de Desarrollo Industrial y Comercial;
 
-f) Un representante por cada una de las organizaciones juveniles existentes en el Estado;
+f) El Instituto del Deporte del Estado de Campeche;
 
-g) En su caso, los titulares de los centros; y
+g) La Dirección de Trabajo y Previsión Social;
 
-h) El o los jóvenes ganadores del Premio Estatal a la Juventud del año anterior.
+h) Sistema de Atención a Niños, Niñas y Adolescentes Farmacodependientes del Estado de Campeche;
 
-El Consejo podrá invitar tanto a personas físicas como morales que por su desempeño y conocimientos en materia de juventud puedan contribuir al cumplimiento de sus funciones;
+i) Un representante por cada una de las instituciones educativas de los niveles medios superior y superior de los sectores público y privado interesadas;
 
-Los Consejeros señalados en las: fracciones I, II, III y IV, incisos a), b), c), d), e) y f), contarán con derecho a voz y voto.
+j) Un representante por cada una de las organizaciones juveniles existentes en el Estado;
+
+k) En su caso, los titulares de los centros; y
+
+l) El o los jóvenes ganadores del Premio Estatal a la Juventud del año anterior.
+
+El Consejo podrá invitar tanto a personas físicas como morales que por su desempeño y conocimientos en materia de juventud puedan contribuir al cumplimiento de sus funciones.
+
+Los Consejeros señalados en las fracciones I, II, III y IV, incisos a), b), c), d), e) f), g) y h), contarán con derecho a voz y voto.
 
 ###### Artículo 42.
 
 Para que el Consejo sesione válidamente se requiere la presencia de la mitad más uno de los integrantes con derecho a voto, y sus determinaciones se tomarán por mayoría.
 
-## Título Quinto. Del Programa Estatal de la Juventud
+## Título Cuarto. Del Instituto de la Juventud de Campeche
 
-### Capítulo II. Órganos de Gobierno y sus Atribuciones
+### Capítulo I. De su naturaleza y atribuciones
 
 ###### Artículo 43.
 
@@ -521,7 +567,7 @@ XXV. Impulsar el mejoramiento de las instituciones y servicios para la juventud;
 
 XXVI. Las demás que le otorgue la presente ley y otros ordenamientos legales.
 
-### Capítulo Único. Del Programa Estatal de la Juventud
+### Capítulo II. Órganos de Gobierno y sus Atribuciones
 
 #### Sección Tercera. Del Patrimonio del Instituto
 
@@ -677,9 +723,9 @@ Dichos bienes y derechos deberán tener como destino facilitar el cumplimiento d
 
 Las relaciones de trabajo entre el organismo y sus trabajadores se regirán por la Ley de los Trabajadores al servicio del Gobierno del Estado de Campeche y serán incorporados al régimen de la seguridad social que otorga la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Campeche.
 
-## Título Sexto. De los Centros Municipales de Atención a la Juventud
+## Título Quinto. Del Programa Estatal de la Juventud
 
-### Capítulo Único. Prevenciones Generales
+### Capítulo Único. Del Programa Estatal de la Juventud
 
 ###### Artículo 56.
 
@@ -725,9 +771,9 @@ XIII. Mecanismos para que el joven discapacitado pueda llegar a bastarse a sí m
 
 XIV. Lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quienes ejerzan la patria potestad o custodia.
 
-## Título Séptimo. De las Denuncias y Sanciones
+## Título Sexto. De los Centros Municipales de Atención a la Juventud
 
-### Capítulo Único. Disposiciones Generales
+### Capítulo Único. Prevenciones Generales
 
 ###### Artículo 59.
 
@@ -744,6 +790,10 @@ IV. Coordinar con el Instituto el desarrollo de actividades previstas en el Prog
 V. Establecer mecanismos de cooperación con el Instituto en lo técnico y lo económico para el cumplimiento de las disposiciones de esta ley; y
 
 VI. Realizar convenios de colaboración con el estado para cumplir con el objeto de este ordenamiento, el Programa y los programas diseñados por el ayuntamiento.
+
+## Título Séptimo. De las Denuncias y Sanciones
+
+### Capítulo Único. Disposiciones Generales
 
 ###### Artículo 60.
 
@@ -778,5 +828,11 @@ Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campech
 P.O. 13 DE DICIEMBRE DE 2012.
 
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+P.O. 29 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
