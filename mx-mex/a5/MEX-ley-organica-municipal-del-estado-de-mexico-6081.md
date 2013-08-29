@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2013-07-18"
+last_updated: "2013-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE SEPTIEMBRE DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -737,7 +739,11 @@ XXII. Dotar de servicios públicos a los habitantes del municipio;
 
 XXIII. Preservar, conservar y restaurar el medio ambiente; así como generar las acciones necesarias a fin de crear áreas verdes que permitan mejorar la calidad de vida y convivencia social de los habitantes del municipio, establecidos como espacios públicos de conservación ambiental;
 
-XXIV. Participar en la creación y administración de sus reservas territoriales y ecológicas; convenir con otras autoridades el control y la vigilancia sobre la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones privadas; planificar y regular de manera conjunta y coordinada el desarrollo de las localidades conurbadas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+XXIV. Participar en la creación y administración de sus reservas territoriales y ecológicas; convenir con otras autoridades el control y la vigilancia sobre la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; planificar y regular de manera conjunta y coordinada el desarrollo de las localidades conurbadas;
 
 > <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2011)</small>
 
@@ -750,6 +756,12 @@ XXIV Ter. Prohibir el establecimiento de una gasolinera o estación de servicio 
 Tratándose de municipios colindantes en el Estado, que integren una zona conurbada o metropolitana, para el cumplimiento de lo dispuesto en esta fracción, deberán establecer los mecanismos de coordinación necesarios para el cumplimiento de esta disposición.
 
 Los ayuntamientos informarán a la autoridad federal competente sobre las autorizaciones que otorguen para el funcionamiento de gasolineras o estaciones de servicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+XXIV Quáter. Otorgar licencias y permisos para construcciones privadas y para el funcionamiento de unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas;
 
 > <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -1099,7 +1111,13 @@ XIII Bis. Desarrollar un programa permanente de mejora regulatoria, en coordinac
 
 XIII Ter. Proponer al ayuntamiento y ejecutar un programa especial para otorgar la licencia provisional de funcionamiento para negocios de bajo riesgo sanitario, ambiental o de protección civil, que autorice el cabildo conforme a la clasificación contenida en el Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo;
 
-> <small>N. DE E. LA APLICACIÓN DE ESTA FRACCIÓN SERA A PARTIR DEL PRIMERO DE ENERO DE 2012; PREVIO A SU APLICACIÓN, LOS INFORMES DE LOS PRESIDENTES MUNICIPALES SE LLEVARAN A CABO DENTRO DE LOS PRIMEROS DIEZ DÍAS DEL MES DE AGOSTO, CON LAS FORMALIDADES ESTABLECIDAS EN LA LEY, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+XIII Quáter. Expedir previo acuerdo del ayuntamiento, licencias de funcionamiento de las unidades económicas o establecimientos destinados a la enajenación, de vehículos automotores usados y autopartes nuevas y usadas;
+
+> <small>N. DE E. LA APLICACIÓN DE ESTA FRACCIÓN SERA A PARTIR DEL PRIMERO DE ENERO DE 2012; PREVIO A SU APLICACIÓN, LOS INFORMES DE LOS PRESIDENTES MUNICIPALES SE LLEVARÁN A CABO DENTRO DE LOS PRIMEROS DIEZ DÍAS DEL MES DE AGOSTO, CON LAS FORMALIDADES ESTABLECIDAS EN LA LEY, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA.</small>
 
 XIV. Vigilar que se integren y funcionen los consejos de participación ciudadana municipal y otros órganos de los que formen parte representantes de los vecinos;
 
@@ -1111,9 +1129,9 @@ XV. Informar por escrito al ayuntamiento, dentro de los primeros tres días háb
 
 XVI. Cumplir y hacer cumplir dentro de su competencia, las disposiciones contenidas en las leyes y reglamentos federales, estatales y municipales, así como aplicar, a los infractores las sanciones correspondientes o remitirlos, en su caso, a las autoridades correspondientes;
 
-> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
-XVI. Bis. Vigilar, a través de la autoridad competente que los establecimientos mercantiles con venta o suministro de bebidas alcohólicas en botella cerrada para el consumo inmediato, o al copeo, cuenten con la correspondiente licencia de funcionamiento y que además, cumplan en todo momento, con las especificaciones y condiciones contempladas en la misma y con lo señalado en el Libro Segundo del Código Administrativo del Estado de México, en caso contrario ordenará a quien corresponda a fin de que se suspenda provisionalmente el funcionamiento del establecimiento y en su momento se proceda a la clausura definitiva de éste, independientemente de la obligación de dar vista al Ministerio Público por la posible comisión de algún delito;
+XVI. Bis. Vigilar que los establecimientos mercantiles con venta o suministro de bebidas alcohólicas en botella cerrada, consumo inmediato y al copeo, cuenten con la correspondiente licencia de funcionamiento y con las disposiciones legales y reglamentarias correspondientes, instaurar los procedimientos sancionadores correspondientes y, en su caso, dar vista al Ministerio Público por la posible comisión de algún delito;
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1897,7 +1915,17 @@ XVII. Auxiliar al Presidente Municipal en la coordinación con las dependencias 
 
 XVIII. Conducir la coordinación interinstitucional de las dependencias municipales a las que corresponda conocer sobre el otorgamiento de permisos y licencias para la apertura y funcionamiento de unidades económicas;
 
-XIX. Las demás que señalen las disposiciones aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+XIX. Crear un Registro Municipal de las licencias de funcionamiento otorgadas a las Unidades Económicas o Establecimientos para la Enajenación, Reparación o Mantenimiento de Vehículos Automotores Usados y Autopartes Nuevas y Usadas, así como remitir dentro de los cinco días naturales siguientes los datos generados en el registro a la Secretaría de Desarrollo Económico, Secretaría de Seguridad Ciudadana y a la Procuraduría General de Justicia del Estado de México, la información respectiva;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+XX. Las demás que señalen las disposiciones legales aplicables.
 
 ### CAPITULO CUARTO. De la Contraloría Municipal
 
@@ -2381,7 +2409,7 @@ I. Nombre del ayuntamiento convocante y fundamento legal;
 
 II. Requisitos que esta Ley exige para ser aspirante a Defensor Municipal de Derechos Humanos;
 
-III. Documentos soporte de los requisitos exigidos a tos aspirantes;
+III. Documentos soporte de los requisitos exigidos a los aspirantes;
 
 IV. Plazo para su presentación;
 
@@ -3876,3 +3904,43 @@ DECRETO NÚMERO 116 POR EL QUE SE REFORMA EL ARTÍCULO 69 FRACCIÓN I, INCISO I)
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 131, POR EL QUE SE REFORMAN LA FRACCIÓN XXIV DEL ARTÍCULO 31; LA FRACCIÓN XIII QUÁTER DEL ARTÍCULO 48; LA FRACCIÓN XIX DEL ARTÍCULO 96 QUÁTER. SE ADICIONAN LA FRACCIÓN XXIV QUÁTER AL ARTÍCULO 31; LA FRACCIÓN XX AL ARTÍCULO 96 QUÁTER DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los 30 días naturales siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas que no tengan permiso o licencia de funcionamiento deberán tramitarla ante la autoridad municipal correspondiente, del 1 de enero de 2014 al 31 de marzo de 2014.
+
+CUARTO.- El Consejo Rector de Factibilidad Comercial Automotriz, deberá de estar instalado en un plazo de 30 días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- La Secretaría de Desarrollo Económico contará con un plazo de 60 días naturales, a partir de la entrada en vigor del presente Decreto, para la integración del Registro Estatal de Unidades Económicas o Establecimientos para la Enajenación, Reparación o Mantenimiento de Vehículos Automotores Usados y Autopartes Nuevas y Usadas.
+
+SEXTO.- El Gobernador y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+SÉPTIMO.- El Ejecutivo del Estado deberá expedir el reglamento interior del Consejo Rector de Factibilidad Comercial Automotriz, en un plazo que no excederá de 30 días naturales posteriores a su instalación.
+
+OCTAVO.- La Secretaría de Desarrollo Económico deberá expedir las Normas Técnicas, en un plazo que no excederá de 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+NOVENO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 29 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 132, POR EL QUE SE REFORMA LA FRACCIÓN XVI BIS DEL ARTÍCULO 48 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los Ayuntamientos en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+CUARTO.- El Consejo Rector de Impacto Sanitario, deberá de estar instalado en un término de quince días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- Se establece un término de diez días naturales posteriores a la instalación del Consejo Rector de Impacto Sanitario para que puedan sesionar sobre los asuntos correspondientes a la emisión del Dictamen de Factibilidad de Impacto Sanitario.
+
+SEXTO.- El Ejecutivo del Estado deberá expedir en un término de quince días naturales a partir de la entrada en vigor del presente Decreto las disposiciones reglamentarias respectivas.
+
+SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
