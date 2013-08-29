@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2012-11-09"
+last_updated: "2013-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2013.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -77,25 +77,25 @@ El hombre y la mujer son sujetos de iguales derechos y obligaciones ante la ley.
 
 La libertad del hombre y de la mujer no tiene más límite que la prohibición de la ley; por tanto, toda persona tiene el deber de acatar los ordenamientos expedidos por autoridad competente. Las autoridades sólo tienen las atribuciones concedidas expresamente por la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
 > <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
 
 En materia penal el proceso será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación y tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, evitar que el culpable quede impune y asegurar que se reparen los daños causados por el delito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
 > <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
 
 Toda persona es inocente en tanto no se le declare culpable mediante sentencia del juez de la causa que no haya conocido el caso previamente, y ante quien se desarrollará todo el juicio, incluyendo el desahogo y valoración de pruebas. Esta función judicial de ninguna manera será delegable. Cualquier prueba obtenida en violación de derechos fundamentales será nula.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
 > <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
 
 Habrá jueces de control que garanticen los derechos de los imputados y de las víctimas y decidan sobre las medidas cautelares en los términos de la ley de la materia. La prisión preventiva sólo procederá cuando otras medidas no sean suficientes en los términos de las leyes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
 > <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
 
@@ -142,6 +142,10 @@ Las autoridades del Estado promoverán las condiciones necesarias para el pleno 
 > <small>(ADICIONADO, G.O. 29 DE ENERO DE 2007)</small>
 
 La ley garantizará que la mujer no sea objeto de discriminación y que tenga los mismos derechos y obligaciones que el varón en la vida política, social, económica y cultural del Estado. Asimismo, promoverá que la igualdad entre hombres y mujeres se regule también en las denominaciones correspondientes a los cargos públicos.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2013)</small>
+
+El Estado promoverá, en la medida de los recursos presupuestales disponibles, el acceso universal a internet y otras tecnologías de la información y las comunicaciones emergentes, con un enfoque prioritario a la población con rezago social.
 
 > <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
 
@@ -551,7 +555,9 @@ II. Dar la interpretación auténtica de las leyes o decretos;
 
 III. Iniciar ante el Congreso de la Unión las leyes o decretos que sean competencia del Poder Legislativo de la Federación, así como su reforma o abolición, y secundar, cuando lo estime conveniente, las iniciativas que presenten los Congresos de otros Estados;
 
-IV. Legislar en materia de educación; de cultura y deporte; profesiones; bienes, aguas y vías de comunicación de jurisdicción local; de salud y asistencia social; combate al alcoholismo, tabaquismo y drogadicción; de prostitución; de desarrollo social y comunitario; de protección al ambiente y de restauración del equilibrio ecológico; de turismo; de desarrollo regional y urbano; de desarrollo agropecuario, forestal y pesquero; de comunicación social; de municipio libre; de relaciones de trabajo del Gobierno del Estado o los ayuntamientos y sus trabajadores; de responsabilidades de los servidores públicos; de planeación para reglamentar la formulación, instrumentación, control, evaluación y actualización del Plan Veracruzano de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el poder público; así como expedir las leyes, decretos o acuerdos necesarios al régimen interior y al bienestar del Estado; sin perjuicio de legislar en los demás asuntos de su competencia;
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2013)</small>
+
+IV. Legislar en materia de educación; de cultura y deporte; profesiones; bienes, aguas y vías de comunicación de jurisdicción local; de salud y asistencia social; combate al alcoholismo, tabaquismo y drogadicción; de prostitución; de desarrollo social y comunitario; de protección al ambiente y de restauración del equilibrio ecológico; de turismo; de desarrollo regional y urbano; de desarrollo agropecuario, forestal y pesquero; de comunicación social; de municipio libre; de relaciones de trabajo del Gobierno del Estado o los ayuntamientos y sus trabajadores; de promoción al acceso universal a internet y otras tecnologías de la información y las comunicaciones emergentes; de responsabilidades de los servidores públicos; de planeación para reglamentar la formulación, instrumentación, control, evaluación y actualización del Plan Veracruzano de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el poder público; así como expedir las leyes, decretos o acuerdos necesarios al régimen interior y al bienestar del Estado; sin perjuicio de legislar en los demás asuntos de su competencia.
 
 V. Darse su Ley Orgánica, y la demás normatividad interior necesaria para el adecuado desarrollo de sus funciones, las que no requerirán de la promulgación del Ejecutivo para tener vigencia;
 
@@ -2690,3 +2696,9 @@ Segundo. La ley que establezca la organización y funcionamiento de la Comisión
 Tercero. Por única ocasión, el Congreso del Estado, al aprobar por primera vez el nombramiento de los integrantes de la Comisión, señalará también, de entre ellos, a quien ejercerá la Presidencia de la misma.
 
 Cuarto. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 29 DE AGOSTO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
