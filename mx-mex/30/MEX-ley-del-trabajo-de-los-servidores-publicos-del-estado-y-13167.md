@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2011-03-03"
+last_updated: "2013-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DEL ESTADO DE MEXICO
 
-LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE SEPTIEMBRE DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 2011.
+LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -399,6 +401,10 @@ Cuando se realice el cambio de adscripción de un servidor público que implique
 
 Cada institución pública o, en su caso, dependencia, en razón de la naturaleza de sus funciones, fijará las condiciones generales de trabajo aplicables a sus servidores públicos, de común acuerdo, con el sindicato, en caso de existir esta representación, las que tendrán una duración de tres años y podrán ratificarse o modificarse a su término.
 
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+Asimismo, en las condiciones de trabajo queda prohibida toda discriminación por motivo de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias políticas, sexuales o estado civil, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
 ###### Artículo 55.
 
 En caso de que las instituciones públicas o los sindicatos objetaren sustancialmente las condiciones generales de trabajo, podrán concurrir ante el Tribunal, el que resolverá en definitiva. El ejercicio de esta acción no suspende su vigencia.
@@ -743,11 +749,15 @@ III. El arresto del servidor público;
 
 IV. La prisión preventiva del servidor público, seguida de sentencia absolutoria;
 
-V. Las previstas por otros ordenamientos aplicables e impuestas por la autoridad competente; o
+V. Las previstas por otros ordenamientos aplicables e impuestas por la autoridad competente; o (sic)
 
 VI. Las que se determinen en las condiciones generales de trabajo de las instituciones públicas o dependencias;
 
 VII. Las licencias otorgadas sin goce de sueldo para desempeñar cargo de elección popular o comisiones sindicales.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+VIII. La designación hecha de los servidores públicos, como representantes, ante los organismos estatales, tales como el Instituto de Transparencia y Acceso a la Información Pública, Comisión Estatal de Derechos Humanos y otros semejantes, durante el periodo en que dure el cargo o comisión, siempre y cuando el cargo sea incompatible, o se perciba una remuneración económica.
 
 El tiempo de suspensión de la relación laboral en los casos previstos por las fracciones I y II se sujetará a lo que establezca la incapacidad expedida por el Instituto de Seguridad Social del Estado de México y Municipios.
 
@@ -797,7 +807,9 @@ XIII. Suspender las labores en el caso previsto en el artículo 176 de esta ley 
 
 XIV. Incumplir reiteradamente disposiciones establecidas en las condiciones generales de trabajo de la institución pública o dependencia respectiva que constituyan faltas graves;
 
-XV. Ser condenado a prisión como resultado de una sentencia ejecutoriada;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+XV. Ser condenado a prisión como resultado de una sentencia ejecutoriada, que le impida el cumplimiento de la relación de trabajo.
 
 XVI. Portar y hacer uso de credenciales de identificación no autorizadas por la autoridad competente;
 
@@ -807,7 +819,7 @@ XVII. Sustraer tarjetas o listas de puntualidad y asistencia del lugar destinado
 
 > <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-XVIII. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes en lo que al trabajo se refiere; e
+XVIII. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes en lo que al trabajo se refiere; e (sic)
 
 > <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
 
@@ -818,6 +830,10 @@ Para los efectos de la presente fracción se entiende por:
 A. Acoso sexual, es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos; y
 
 B. Hostigamiento sexual, es el ejercicio del poder, en una relación de subordinación real de la víctima frente a la persona agresora en los ámbitos laboral y/o escolar. Se expresa en conductas verbales o no verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+XX. La falta de requisitos que exijan las leyes y reglamentos, necesarios para la prestación del servicio cuando sea imputable al trabajador, desde la fecha en que el patrón tenga conocimiento del hecho, hasta por un periodo de dos meses.
 
 ###### Artículo 94.
 
@@ -845,9 +861,13 @@ V. No inscribirlo en el Instituto de Seguridad Social del Estado de México y Mu
 
 VI. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes.
 
-> <small>(REFORMADO, G.G. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
-En estos casos, el servidor público podrá separarse de su trabajo dentro de los treinta días siguientes a la fecha en que se dé cualquiera de las causas y tendrá derecho a que la institución pública lo indemnice con el importe de tres meses de sueldo base, veinte días por cada año devengado y cubriéndole las prestaciones a que tenga derecho, así como los salarios vencidos desde la fecha en que el Servidor Público se haya separado de su trabajo hasta que se cumplimente el laudo, o hasta que el servidor público se incorpore a laborar en un municipio o institución pública de los poderes del Estado, independientemente del tiempo que dure el proceso.
+En estos casos, el servidor público podrá separarse de su trabajo dentro de los treinta días siguientes a la fecha en que se dé cualquiera de las causas y tendrá derecho a que la institución pública lo indemnice con el importe de tres meses de sueldo base, veinte días por cada año devengado y cubriéndole las prestaciones a que tenga derecho, así como los salarios vencidos desde la fecha en que el Servidor Público se haya separado de su trabajo hasta por un periodo máximo de doce meses o hasta que el servidor público se incorpore a laborar en un municipio o institución pública de los poderes del Estado o cualquier organismo estatal, siempre y cuando esto último ocurra en un plazo no mayor a los doce meses antes mencionados, independientemente del tiempo que dure el proceso.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+Si al término del plazo de los doce meses señalados en los artículos 95, 96 y 97 no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe del adeudo, a razón del nueve por ciento anual capitalizable al momento del pago.
 
 > <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -857,25 +877,45 @@ Cuando el sueldo base del servidor público exceda del doble del salario mínimo
 
 Para el pago de cualquier indemnización que se genere por las relaciones laborales entre las instituciones o dependencias y sus servidores públicos señaladas en esta ley no generarán ningún tipo de interés.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 96.
 
-El servidor público podrá solicitar ante el Tribunal o la Sala Auxiliar correspondiente, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice. Cuando el servidor público considere injustificada la causa de rescisión de la relación laboral, o bien lo injustificado del despido podrá demandar ante el Tribunal o en la Sala Auxiliar que se le cubra la indemnización de tres meses de su salario base, así como los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo o que se le reinstale en el trabajo que desempeñaba con el pago de los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo, o hasta que el servidor público se incorpore a laborar en un municipio o institución pública de los poderes del Estado, independientemente del tiempo que dure el proceso.
+El servidor público podrá solicitar ante el Tribunal o la Sala correspondiente, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice. Cuando el servidor público considere injustificada la causa de rescisión de la relación laboral, o bien lo injustificado del despido podrá demandar ante el Tribunal o en la Sala que se le cubra la indemnización de tres meses de su salario base, así como los salarios vencidos desde la fecha del despido hasta por un periodo máximo de doce meses o que se le reinstale en el trabajo que desempeñaba con el pago de los salarios vencidos desde la fecha del despido hasta por un periodo máximo de doce meses, independientemente del tiempo que, dure el proceso.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 No se considerará en el pago de salarios vencidos los aguinaldos e incrementos que se otorguen en el salario de los servidores públicos mientras dure el proceso para objeto de las indemnizaciones a que se refieren los artículos 95, 96 y 97 de esta ley.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
-Cuando el servidor público ejercite la acción de reinstalación en el trabajo que desempeñaba, será procedente el pago proporcional de sus prestaciones a que tenga derecho con los incrementos que sufra su salario en el período que dure el proceso.
+Cuando el servidor público ejercite la acción de reinstalación en el trabajo que desempeñaba, será procedente el pago proporcional de sus prestaciones a que tenga derecho con los incrementos que sufra su salario en el periodo que dure el proceso, con excepción de los salarios vencidos ya que únicamente se aplicará esta disposición en el máximo de doce meses de pago de los mismos, en caso de ser procedentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 20 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+En cualquier estado del procedimiento el demandado podrá pagar todo o en parte lo reclamado por el actor exhibiendo la cantidad líquida en moneda nacional o en cheque certificado a nombre de éste, previa cuantificación que haga el Tribunal o la Sala de que las cantidades cubren las prestaciones señaladas en la demanda y que se encuentren ajustadas a derecho, hasta la fecha en que se exhiba. En el primer supuesto se dará por terminado el juicio liberando a la institución pública de la acción principal y sus accesorias.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+El Tribunal o la Sala aprobará la consignación de pago y pondrá a disposición del actor la cantidad depositada a su favor, apercibiéndolo de que para el supuesto de no aceptar la cantidad base de su reclamación, los salarios vencidos dejarán de correr, caso contrario se ordenará el archivo del expediente como asunto total y definitivamente concluido.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+Excepcionalmente para el efecto de que la cantidad exhibida por la parte demandada sea menor a la que le corresponda al actor, el Tribunal o la Sala le requerirá, para que en un término de cinco días hábiles, contados a partir de que surta sus efectos de notificación el acuerdo que recaiga, deposite la cantidad faltante y hecho lo anterior se tendrá por satisfecha la acción legal ejercitada.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+Para la hipótesis de que la demandada sólo exhiba la cantidad por indemnizaciones y sus prestaciones accesorias dejarán de correr los salarios caídos, continuándose con el procedimiento por las prestaciones pendientes de pago.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 97.
 
-Las instituciones públicas o dependencias no estarán obligadas a reinstalar al servidor público, pero sí a cubrirle la indemnización de tres meses de salario base, veinte días por cada año de servicios, en términos del artículo 95 párrafo segundo de esta ley y cubrirle las prestaciones a que tenga derecho, así como los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo, o hasta que el servidor público se incorpore a laborar en un municipio o institución pública de los poderes del Estado, independientemente del tiempo que dure el proceso.
+Las instituciones públicas o dependencias no estarán obligadas a reinstalar al servidor público, pero sí a cubrirle la indemnización de tres meses de salario base, veinte días por cada año de servicios en términos del artículo 95 párrafo segundo de esta ley y cubrirle las prestaciones a que tenga derecho, así como los salarios vencidos desde la fecha del despido hasta por un periodo máximo de doce meses, independientemente del tiempo que dure el proceso, exhibiendo la totalidad de la cantidad liquida en moneda nacional o mediante cheque certificado al momento de la negativa de reinstalar al actor.
 
 I. El servidor público cuente con una antigüedad menor a un año;
 
@@ -1509,7 +1549,7 @@ En tanto la huelga no sea declarada inexistente, ilegal, ilícita o terminada, e
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 180.
 
@@ -1629,7 +1669,7 @@ VII. Dictar la resolución que ordene la suspensión temporal de su cargo de un 
 
 VIII. Conocer de cualquier otro asunto relativo, derivado o directamente vinculado con las relaciones de trabajo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 186.
 
@@ -1679,7 +1719,7 @@ VII. No haber sido condenado por delito intencional sancionado con pena corporal
 
 Para ser Presidente de alguna de las Salas auxiliares se reunirán los requisitos del Presidente del Tribunal, solo que deberá contar, con más de veinticinco años de edad y con cuatro años de ejercicio profesional posteriores a la obtención del título de licenciado en derecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 188.
 
@@ -1701,7 +1741,7 @@ Para su debido funcionamiento el Tribunal contará con secretarios generales, se
 
 Los integrantes y demás servidores públicos del Tribunal o de las Salas tendrán las facultades y obligaciones que se determinen en su reglamento interior. Los integrantes del Tribunal durarán en su encargo como término máximo seis años, tratándose de los poderes públicos del Estado; los representantes de los sindicatos y de los ayuntamientos lo serán por un período máximo de tres años, pudiendo ser redesignados por sus representados. En todo caso, la designación se hará de conformidad con sus normas internas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 190.
 
@@ -1755,13 +1795,17 @@ Cuando el conflicto afecte la prestación de servicios públicos de comunicacion
 
 Son partes en el proceso, los servidores públicos, las instituciones públicas o las dependencias, los sindicatos reconocidos ante el Tribunal y, en general, quien acredite tener interés jurídico.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
-Los terceros interesados podrán intervenir en el proceso comprobando su interés jurídico en el mismo o cuando sean llamados por el Tribunal o las Salas.
+Los terceros interesados podrán intervenir en el proceso comprobando su interés jurídico en el mismo o cuando sean llamados por el Tribunal o las Salas, quienes deberán manifestar lo que a su derecho convenga por escrito en el juicio, hasta antes de la celebración de la audiencia de conciliación, ofrecimiento y admisión de pruebas, apercibiéndolos que para el caso de no hacerlo antes de la etapa referida, se tendrá por perdido su derecho para hacerlo valer con posterioridad y se estarán a las resultas del laudo.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 Los servidores públicos, mayores de 16 y menores de 18 años, tienen capacidad por sí mismos para comparecer a juicio; pero, en caso de no estar asesorados, el Tribunal o las Salas solicitarán la intervención de la Procuraduría de la Defensa del Trabajo.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+Lo señalado en el párrafo anterior se aplicará también tratándose del procedimiento promovido por los aspirantes a beneficiarios de algún trabajador fallecido.
 
 ###### Artículo 196.
 
@@ -1793,6 +1837,10 @@ V. El poder que otorgue el servidor público para ser representado, se entender�
 
 VI. En todos los casos señalados con anterioridad, los apoderados legales de las partes, deberán presentar la cédula profesional que los faculte para ejercer la profesión de licenciado en derecho.
 
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+Asimismo, las partes autorizarán a otras personas para oír notificaciones y recibir documentos, quienes no tendrán facultades para comparecer e intervenir en el juicio.
+
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 197.
@@ -1815,11 +1863,11 @@ Siempre que dos o más personas ejerciten la misma acción u opongan la misma ex
 
 ### CAPITULO IV. De la Competencia
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 200.
 
-Cuando existan en el expediente datos que lo justifiquen, el Tribunal o las Salas, de oficio, deberán declararse incompetentes en cualquier estado del proceso, hasta antes de ser declarado el cierre de la instrucción. Si el Tribunal o la Sala que se trate, se declara incompetente, con citación de las partes, remitirán de inmediato el expediente a la autoridad que estime competente o, en su caso, a la que deba decidir la competencia.
+Cuando existan en el expediente datos que lo justifiquen, el Tribunal o las Salas, de oficio, deberán declararse incompetentes en cualquier estado del proceso, hasta antes de la audiencia de admisión de pruebas. Si el Tribunal o la Sala de que se trate, se declara incompetente, con citación de las partes, remitirán de inmediato el expediente a la autoridad que estime competente o, en su caso, a la que deba decidir la competencia.
 
 > <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
 
@@ -1867,7 +1915,11 @@ Cuando en la fecha señalada no se hubiere llevado a cabo la práctica de alguna
 
 Todas las actuaciones procesales serán autorizadas por el secretario, excepción hecha de las diligencias encomendadas a otros servidores públicos del Tribunal o de la Salas. Lo actuado en la audiencia se hará constar en actas, las que deberán ser firmadas por las personas que en ellas intervengan, quieran y sepan hacerlo. Cuando algún integrante del Tribunal o de la Sala omitiere firmar las actas de las diligencias en las que estuvo presente, se entenderá que está conforme con ellas. De las actas de las audiencias se entregará copia a cada una de las partes comparecientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+El Tribunal o la Sala están obligados a expedir a la parte solicitante copias simples y certificadas de cualquier documento o constancia que obre en el expediente a su costa, debiendo de obrar en autos acuse de recibido, también deberá certificar la copia fotostática que exhiban las partes de algún documento o constancia que aparezca en autos, previo cotejo que se haga con el original.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 205.
 
@@ -1887,7 +1939,7 @@ En caso de extravío o desaparición del expediente o de alguna constancia, el s
 
 En el caso del artículo anterior, el Tribunal o la Sala señalará, dentro de las setenta y dos horas hábiles siguientes, día y hora para que tenga lugar una audiencia en la que las partes deberán aportar todos los elementos, constancias y copias que obren en su poder. El Tribunal o la Sala podrán ordenar se practiquen aquellas actuaciones y diligencias necesarias para reponer los autos teniendo en cuenta, en su caso, la existencia de alguna certificación de lo actuado. Si el Tribunal o la Sala consideran que hubo la comisión de algún delito, realizarán la denuncia ante el Ministerio Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 208.
 
@@ -1895,7 +1947,9 @@ Para mantener el buen orden en el desarrollo de las audiencias o diligencias y e
 
 I. Amonestación;
 
-II. Multa que no podrá exceder de diez veces el salario mínimo general, vigente en el lugar y tiempo en que se cometa la violación; y (sic)
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+II. Multa que no podrá exceder de cien veces el salario mínimo general, vigente en el lugar y tiempo en que se cometa la violación; y (sic)
 
 > <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -1909,13 +1963,15 @@ IV. Arresto hasta por treinta y seis horas pudiendo ser conmutable por multa.
 
 Las autoridades encargadas de las fuerzas públicas, de procuración de justicia y de los centros penitenciarios tendrán la obligación de atender las órdenes del Tribunal o de la Salas cuando se traten de correcciones disciplinarias y de medios de apremio.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 209.
 
 Para que las personas concurran a las audiencias en las que su presencia sea indispensable, o para asegurar el cumplimiento de cualquiera de sus resoluciones, el Presidente, los auxiliares y secretarios del Tribunal o de la Sala podrán emplear, sin respetar el orden en que se señalan, conjunta o indistintamente cualquiera de los siguientes medios de apremio:
 
-I. Multa que no excederá de diez veces el salario mínimo general vigente, en el lugar y tiempo en que se cometió la infracción;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+l. Multa que no excederá de cien veces el salario mínimo general vigente, en el lugar y tiempo en que se cometió la infracción;
 
 II. Presentación de la persona con auxilio de la fuerza pública; y (sic)
 
@@ -1939,6 +1995,10 @@ Los términos comenzarán a correr al día siguiente en que surta efectos la not
 
 Las notificaciones surtirán sus efectos el día en que se practiquen.
 
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+En los casos en que el Tribunal o la Sala dejen de actuar conforme al calendario de labores aprobado por el Pleno del Tribunal, así como cuando por caso fortuito o de fuerza mayor no puedan llevarse a cabo actuaciones, los términos no se computarán en los días motivo de la suspensión de labores que se publicarán en el boletín laboral o en los estrados, en su caso.
+
 > <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 212.
@@ -1947,11 +2007,11 @@ Cuando el domicilio de la persona demandada se encuentre fuera del lugar de resi
 
 ### CAPITULO VII. De las Notificaciones
 
-> <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 213.
 
-Las partes desde el escrito inicial de demanda y de la contestación a la misma, respectivamente, deberán señalar domicilio dentro del municipio de la residencia del Tribunal o de las Salas que se trate, para recibir notificaciones; si no lo hacen, las notificaciones personales y de cualquier índole, se harán por estrados o boletín laboral.
+Las partes desde el escrito inicial de demanda y de la contestación a la misma, respectivamente, así como los terceros interesados, deberán señalar domicilio dentro del municipio de la residencia del Tribunal o de las Salas que se trate, para recibir notificaciones; si no lo hacen, las notificaciones personales y de cualquier índole, se harán por estrados o boletín laboral.
 
 ###### Artículo 214.
 
@@ -2037,9 +2097,15 @@ IV. Acumulación; y
 
 V. Excusa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 218.
 
-Cuando se promueva un incidente dentro de una audiencia o diligencia, el tribunal substanciará y resolverá de plano, oyendo a las partes, continuándose el procedimiento de inmediato. Cuando se trate de nulidad, competencia y en los casos de acumulación y excusa, dentro de las veinticuatro horas siguientes se señalará día y hora para la audiencia incidental, en la que se resolverá.
+Cuando se promueva un incidente dentro de una audiencia o diligencia, el tribunal substanciará y resolverá de plano, oyendo a las partes las cuales podrán ofrecer las pruebas que a sus intereses convengan debiéndose desahogar las que así lo requieran, continuándose el procedimiento principal en el estado en que se encuentra. Cuando se trate de nulidad, competencia y en los casos de acumulación y excusa, dentro de las veinticuatro horas siguientes se señalará día y hora para la audiencia incidental, en la que se resolverá.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+En los incidentes que no tengan señalada una tramitación especial en esta ley se resolverán de plano oyendo a las partes.
 
 > <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
 
@@ -2093,9 +2159,11 @@ VIII. Cualquier otro medio de prueba que aporten los descubrimientos de la cienc
 
 Las pruebas deben referirse a los hechos controvertidos cuando no hayan sido confesados por las partes, y se ofrecerán acompañadas de todos los elementos necesarios para su desahogo.
 
-> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
-Artículo 220 A. Sí alguna persona no puede, por enfermedad u otro motivo justificado a juicio del Tribunal, concurrir al local del mismo para absolver posiciones o contestar un interrogatorio; previa comprobación del hecho, mediante certificado médico u otra constancia fehaciente que se exhiba, bajo protesta de decir verdad, éste señalará nueva fecha para el desahogo de la prueba correspondiente; y de subsistir el impedimento, el médico deberá comparecer, dentro de los cinco días siguientes, a ratificar el documento en cuyo caso, el Tribunal deberá trasladarse al lugar donde aquella se encuentre para el desahogo de la diligencia. El certificado médico deberá contener los siguientes requisitos: a) El (sic) nombre completo de la institución que expidió al médico su título profesional, y b) el número de cédula profesional; además, por razón inexcusable de certidumbre, dada la finalidad que persigue este documento, debe indicarse el nombre del médico que lo suscribe, la fecha de expedición del certificado y la manifestación que revele la existencia de un estado patológico que afecta a la persona examinada, del cual pueda deducirse la imposibilidad física de comparecencia.
+Artículo 220 A. Sí alguna persona no puede, por enfermedad u otro motivo justificado a juicio del Tribunal o la Sala, concurrir al local del mismo para absolver posiciones o reconocer el contenido o firma de un documento o rendir testimonio, previa comprobación del hecho, mediante certificado médico u otra constancia fehaciente que se exhiba, bajo protesta de decir verdad, se señalará nueva fecha para el desahogo de la prueba correspondiente, y de subsistir el impedimento, el Secretario de Acuerdos del Tribunal o de la Sala certificará tal circunstancia y deberá trasladarse al lugar donde se encuentre el imposibilitado para llevar a cabo el desahogo de la diligencia, levantando el acta circunstanciada correspondiente y en caso de no encontrarse la persona se le declarará confeso o por reconocido el contenido y la firma de los documentos base del desahogo o bien por desierta la prueba según sea el caso. El certificado médico deberá contener los siguientes requisitos: a) El nombre completo de la institución que expidió al médico su título profesional, b) el número de cédula profesional, c) el nombre del médico que lo suscribe, la fecha de expedición del certificado y la manifestación que revele la existencia de un estado patológico que afecta a la persona examinada, del cual pueda deducirse la imposibilidad física de comparecencia.
+
+Los certificados médicos expedidos por instituciones públicas de seguridad social se eximen de cumplir con los requisitos del párrafo anterior.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2145,9 +2213,11 @@ El Tribunal exhortado recibirá la confesional en los términos en que lo solici
 
 Artículo 220 G. Se tendrá por confesión expresa y espontánea, las afirmaciones que formulen las partes en cualquier acto del procedimiento.
 
-> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2013)</small>
 
-Artículo 220 H. Cuando la persona a quien se señale para absolver posiciones sobre hechos propios, ya no labore para la institución pública o dependencia, previa comprobación de hecho, el oferente de la prueba será requerido para que proporcione el domicilio donde deba ser citada. En caso de que el oferente ignore el domicilio, lo hará del conocimiento del Tribunal o la Sala antes de la fecha señalada para la celebración de la Audiencia de desahogo de pruebas, y el Tribunal o la Sala requerirán a la Institución o dependencia Pública que proporcione el último domicilio que tenga registrado de dicha persona.
+Artículo 220 H. Cuando la persona a quien se señale para absolver posiciones sobre hechos propios, ya no labore para la institución pública o dependencia, previa comprobación de hecho, la prueba cambiará su naturaleza a testimonial, en tal caso el oferente de la prueba será requerido para que proporcione el domicilio donde deba ser citada. En caso de que el oferente ignore el domicilio, lo hará del conocimiento del Tribunal o la Sala antes de la fecha señalada para la celebración de la Audiencia de desahogo de pruebas, y el Tribunal o la Sala requerirán a la Institución o dependencia Pública que proporcione el último domicilio que tenga registrado de dicha persona.
+
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
 
 Para el indebido caso que no comparezca ante la autoridad que ordenó su citación se le harán efectivos los medios de apremio que señala el artículo 209 de la presente ley.
 
@@ -2197,11 +2267,15 @@ Los documentos que se presenten en idioma distinto al español, deberán acompa�
 
 Artículo 220 M. La parte que ofrezca prueba testimonial deberá cumplir con los requisitos siguientes:
 
-I. Sólo podrán ofrecerse un máximo de tres testigos por cada hecho controvertido que se pretenda probar, indicando los nombres y domicilios de los testigos;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+l. Sólo podrán ofrecerse un máximo de tres testigos por cada hecho controvertido que se pretenda probar, indicando los nombres de los testigos;
 
 II. Cuando exista impedimento para presentar directamente a los testigos, deberá solicitarse al Tribunal o a la Sala que los cite, señalando y acreditando la causa o motivo justificados que le impidan presentarlos directamente, no bastando con decir que tiene imposibilidad de presentarlos, bajo la pena que de no hacerlo, se declarará desierta;
 
-III. Si el testigo radica fuera del lugar de residencia del Tribunal o la Sala, el oferente deberá, al momento de ofrecer la prueba, acompañar interrogatorio por escrito, al tenor del cual deberá de ser examinado el testigo; de no hacerlo, se declarará desierta. Así mismo exhibirá copias del interrogatorio, las que se pondrán a disposición de las demás partes, para que dentro del término de tres días presente su pliego de repreguntas en sobre cerrado.
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+III. Si el testigo radica fuera del lugar de residencia del Tribunal o la Sala, el oferente deberá, al momento de ofrecer la prueba, acompañar interrogatorio por escrito, al tenor del cual deberá de ser examinado el testigo, así como el domicilio de éste; de no hacerlo, se declarará desierta. Así mismo exhibirá copias del interrogatorio, las que se pondrán a disposición de las demás partes, para que dentro del término de tres días presente su pliego de repreguntas en sobre cerrado, sin que los interrogatorios puedan ser ampliados por las partes.
 
 El Tribunal o la Sala, en el caso de la fracción II de este artículo, ordenará se cite al testigo para que rinda su declaración, previo citatorio que se haga de la autoridad en la hora y día que al efecto se señale, previniéndolos que para el caso de que no comparezcan se les aplicará cualquiera de las medios de apremio señaladas por esta ley. (sic)
 
@@ -2213,9 +2287,9 @@ Artículo 220 N. En el desahogo de la prueba testimonial se observarán las norm
 
 I. El oferente de la prueba presentará directamente a sus testigos, salvo lo dispuesto en el artículo 220 M fracción II de la presente ley, y el Tribunal o la Sala procederá a recibir su testimonio;
 
-> <small>(REFORMADA, G.G. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
-II. El testigo deberá identificarse ante el Tribunal o la Sala y para el caso de no hacerlo en el momento de la audiencia, se le decretará a la parte oferente la deserción por ese testigo.
+II. Los testigos deberán identificarse con documento oficial con fotografía ante el Tribunal o la Sala y para el caso de no hacerlo se les concederá un término de tres días hábiles contados a partir del día siguiente del desahogo para exhibirlo en original y copia, apercibiendo a la oferente que de no presentarlas se le decretará deserción de la probanza únicamente por los atestes no identificados.
 
 III. Los testigos serán examinados por separado, en el orden en que fueran ofrecidos. Los interrogatorios se formularán oralmente, salvo lo dispuesto en la fracción III del artículo 220 M de esta ley;
 
@@ -2257,7 +2331,9 @@ Se le dará esa credibilidad siempre y cuando la parte oferente la ofrezca como 
 
 Artículo 220 O. La prueba pericial versará sobre cuestiones relativas a alguna ciencia técnica, o arte.
 
-Deberá ofrecerse mencionando el nombre y profesión de su perito e indicando la materia sobre la que deba versar, exhibiendo por escrito el cuestionario respectivo, con copia para cada una de las partes.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+Deberá ofrecerse mencionando el nombre y profesión de su perito e indicando la materia sobre la que deba versar, exhibiendo por escrito el cuestionario respectivo, con copia para cada una de las partes. La omisión del cuestionario dará lugar a que el Tribunal o Sala no admita la prueba.
 
 > <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2313,9 +2389,15 @@ III. De la diligencia se levantará acta circunstanciada, que firmarán los que 
 
 Artículo 220 T. Para acreditar hechos o circunstancias que tengan relación con el asunto que se ventile, las partes pueden presentar fotografías, copias fotostáticas, videos, cintas cinematográficas y cualquier otra producción de imágenes.
 
-También como medio de prueba debe admitirse los registros dactiloscópicos, fonográficos, biométricos, magnéticos los sistemas de información electrónica y demás descubrimientos de la ciencia, la técnica o el arte que produzcan convicción en el ánimo de la autoridad laboral del Tribunal o de la Sala.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
-(REUBICADO Y REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)
+También como medio de prueba debe admitirse las fotografías, cintas cinematográficas, registros dactiloscópicos, grabaciones de audio y de video, o las distintas tecnologías de la información y la comunicación, tales como sistemas informáticos, medios electrónicos ópticos, fax, correo electrónico, documento digital, firma electrónica o contraseña y, en general los sistemas de información electrónica y demás descubrimientos de la ciencia, la técnica o el arte que produzcan convicción en el ánimo del Tribunal o de la Sala.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
+Para el ofrecimiento, desahogo y reproducción de los medios de prueba señalados en el presente artículo, las partes deberán de allegar al Tribunal o la Sala, los instrumentos, aparatos o elementos necesarios para que pueda apreciarse el contenido de los mismos, en caso de que el oferente no lo haga se tendrá por no admitida.
+
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ENERO DE 2007)
 
 ###### Artículo 221.
 
@@ -2403,11 +2485,11 @@ VI. Indicación del lugar en que puedan obtenerse los que el actor no pudiese ap
 
 Cuando el servidor público ignore el nombre del titular de la institución pública o dependencia, o la denominación exacta del centro de trabajo donde labora o laboró, deberá precisar en su escrito inicial de demanda, al menos el domicilio de la institución pública o dependencia en donde prestó o presta sus servicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 229.
 
-El Tribunal o la Sala dentro de los tres días hábiles siguientes a la presentación de la demanda, prevendrá al actor para que en el plazo de cinco días hábiles corrija su demanda por ser obscura e imprecisa, en caso de que no lo haga se tendrá por ratificada. Admitida la demanda y el escrito de pruebas se correrá traslado de ella a la parte demandada, así como de las pruebas, en un plazo no mayor de cinco días hábiles, emplazándola para que la conteste dentro del plazo de diez días hábiles, contados a partir del día siguiente del emplazamiento, ésta deberá contener copia cotejada de la demanda y de los acuerdos que le recayeron, apercibiéndolo que para el caso de no contestarla en el término señalado se tendrá por contestada en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas ofrezca pruebas en contrario con la que acredite que el actor no era servidor público, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
+El Tribunal o la Sala dentro de tres días siguientes a la presentación de la demanda, prevendrá al actor para que en el plazo de tres días corrija su demanda por ser obscura e imprecisa, en caso de que no lo haga se tendrá por ratificada. Asimismo, cuando el actor sea el servidor público o sus beneficiarios podrá aclarar, modificar o enderezar la demanda por una sola vez en un término de cinco días hábiles contados a partir de la presentación de la demanda, para el caso de no hacerlo se le tendrá por perdido su derecho para hacerlo valer con posterioridad. Admitida la demanda y el escrito de pruebas se correrá traslado de ella a la parte demandada, así como de las pruebas, en un plazo no mayor de cinco días hábiles, emplazándola para que la conteste dentro del plazo de diez días hábiles contados a partir del día siguiente del emplazamiento, ésta deberá contener copia cotejada de la demanda y de los acuerdos que le recayeron, apercibiéndolo que para el caso de no contestarla en el término señalado se tendrá por contestada en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas ofrezca pruebas en contrario con las que acredite que el actor no era servidor público, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
 
 > <small>(REFORMADO, G.G. 3 DE MARZO DE 2011)</small>
 
@@ -2421,7 +2503,7 @@ Durante la tramitación de los conflictos individuales y colectivos bastará la 
 
 (DEROGADO, G.G. 30 DE ENERO DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE MARZO DE 2011)</small>
 
 ###### Artículo 231.
 
@@ -2477,9 +2559,13 @@ La etapa de ofrecimiento y admisión de pruebas se desarrollará conforme a las 
 
 I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos. Inmediatamente el demandado ofrecerá sus pruebas y podrá objetar las de su contraparte, y aquél, a su vez, podrá objetar las del demandado;
 
-II. Las partes podrán ofrecer nuevas pruebas siempre que se relacionen con las ofrecidas por la contraparte y que no se haya cerrado la etapa de ofrecimiento de pruebas; y
+II. Las partes podrán ofrecer nuevas pruebas siempre que se relacionen con las ofrecidas por la contraparte y que no se haya cerrado la etapa de ofrecimiento de pruebas; y (sic)
 
 III Concluido el ofrecimiento de pruebas, el Tribunal o la Sala resolverán inmediatamente sobre su admisión.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+IV. Concluido el ofrecimiento, el Tribunal o la Sala, resolverán inmediatamente sobre las pruebas que admitan y las que desechen. En caso contrario, el Tribunal o la Sala se podrán reservar para resolver dentro de los tres días hábiles siguientes.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2493,11 +2579,11 @@ La etapa de ofrecimiento y admisión de pruebas se llevará a cabo aún cuando n
 
 El Tribunal o la Sala podrán ordenar se desahoguen las pruebas que consideren necesarias para mejor proveer hasta el cierre de la instrucción.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 237.
 
-El Tribunal o la Sala, una vez agotada la etapa de ofrecimiento y admisión de pruebas, señalará en el mismo acuerdo, el día y la hora para la celebración de la audiencia de desahogo de pruebas la que deberá efectuarse dentro de los quince días hábiles siguientes, y ordenará, en su caso, que se giren los oficios necesarios para recabar los informes o copias que deba expedir alguna autoridad o exhibir persona ajena al juicio y que haya solicitado el oferente, con los apercibimientos señalados en esta ley.
+El Tribunal o la Sala, una vez agotada la etapa de ofrecimiento y admisión de pruebas, señalará en el mismo acuerdo, el día y la hora para la celebración de la audiencia de desahogo de pruebas la que deberá efectuarse dentro de los quince días hábiles siguientes, y ordenará, en su caso, que se giren los oficios y exhortos necesarios para recabar los informes o copias que deba expedir alguna autoridad o exhibir persona ajena al juicio y que haya solicitado el oferente, con los apercibimientos señalados en esta Ley.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2515,9 +2601,13 @@ Cuando las pruebas sean documentos que se hayan solicitado a autoridades diversa
 
 (DEROGADO, G.G. 20 DE ENERO DE 2009)
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE SEPTIEMBRE DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 241.
 
-Desahogadas las pruebas, las partes, en la misma audiencia o en un término de 48 horas, podrán formular sus alegatos.
+Desahogadas las pruebas de (sic) les concederá a las partes un término de 48 horas, para que por escrito formulen alegatos.
 
 ###### Artículo 242.
 
@@ -2533,7 +2623,7 @@ II. Acto seguido se abrirá, en su caso, la discusión correspondiente; y
 
 III. Finalmente el presidente recogerá la votación y declarará el resultado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 244.
 
@@ -2743,7 +2833,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JAIME VAZQUEZ CASTILLO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 21 DE JULIO DE 2006.
 
@@ -2896,3 +2986,11 @@ G.G. 3 DE MARZO DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 29 DE AGOSTO DE 2013.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno":
+
+SEGUNDO. Cualquier asunto en trámite se sustanciará hasta su conclusión, de conformidad con lo establecido en las disposiciones vigentes hasta antes de entrar en vigor el presente Decreto.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
