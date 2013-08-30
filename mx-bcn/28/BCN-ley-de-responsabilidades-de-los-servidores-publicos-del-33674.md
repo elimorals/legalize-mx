@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2012-12-07"
+last_updated: "2013-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -446,6 +446,10 @@ En ningún caso se podrán recibir de dichas personas títulos valor, bienes inm
 VII. Intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción anterior;
 
 VIII. Causar daños y perjuicios a la Hacienda Pública Estatal o Municipal, sea por el manejo irregular de fondos y valores Estatales y Municipales, o por irregularidades en el manejo, administración, ejercicio o pago de recursos económicos y materiales del Gasto Público del Estado o Municipios; o de los transferidos, descentralizados, concentrados o convenidos entre la Federación, el Estado o los Municipios, así como con los otros Poderes;
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+En ningún caso se podrá utilizar los recursos económicos provenientes de deuda pública, para fines y acciones distintas a las que motivaron su contratación.
 
 IX. Impedir por sí o por interpósita persona, o inhibir utilizando cualquier medio de intimidación, la formulación de quejas y denuncias, o con motivo de las mismas realizar cualquier conducta injusta u omitir una causa justa y debida que lesionen los intereses de los quejosos, o denunciantes o de las personas que guarden vínculo familiar, de negocios o afectivos con éstos. Asimismo, desestimar, rezagar o desechar queja o denuncia en contra de algún servidor público, cuando ésta reúna los requisitos y formalidades establecidas en la presente Ley o mostrar parcialidad en el trámite de la misma;
 
@@ -1006,3 +1010,7 @@ P.O. 26 DE OCTUBRE DE 2012.
 P.O. 7 DE DICIEMBRE DE 2012.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE AGOSTO DE 2013.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
