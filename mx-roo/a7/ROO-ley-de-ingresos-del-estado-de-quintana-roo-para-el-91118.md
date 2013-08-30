@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ingresos-del-estado-de-quintana-roo-para-el-91118"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-10"
-last_updated: "2013-07-17"
+last_updated: "2013-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2013
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 10 de diciembre de 2012.
 
@@ -43,7 +43,9 @@ En el Ejercicio Fiscal 2013, el Estado de Quintana Roo recibirá los ingresos pr
 
 CONCEPTO MONTO
 
-Impuestos 1,293,043,132
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+Impuestos 1,392,113,004
 
 Impuestos sobre los ingresos 3,951,982
 
@@ -73,9 +75,13 @@ Cedular por la enajenación de 13,567,473
 
 bienes inmuebles
 
-Impuestos sobre nóminas y asimilables 623,651,654
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
-Sobre nóminas 623,651,654
+Impuestos sobre nóminas y asimilables 722,721,526
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+Sobre nóminas 722,721,526
 
 Accesorios 53,542,628
 
@@ -419,23 +425,23 @@ Transferencias a fideicomisos, 0
 
 mandatos y análogos
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
-Ingresos derivados de financiamientos 7,484,000,000
+Ingresos derivados de financiamientos 4,984´000,000
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
-Endeudamiento interno 7,484,000,000
+Endeudamiento interno 4,984´000,000
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
-Empréstitos 7,484,000,000
+Empréstitos 4,984´000,000
 
 Endeudamiento externo 0
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
-GRAN TOTAL DE INGRESOS 27,374,728,894
+GRAN TOTAL DE INGRESOS 24,973,798,766
 
 ###### ARTÍCULO 2°.
 
@@ -582,3 +588,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+P.O. 30 DE AGOSTO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
