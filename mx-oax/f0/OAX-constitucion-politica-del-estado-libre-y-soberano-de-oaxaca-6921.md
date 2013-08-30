@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2013-08-26"
+last_updated: "2013-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -42,6 +42,10 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 ###### ARTICULO 1°.
 
 El Estado de Oaxaca es parte integrante de los Estados Unidos Mexicanos y es libre y soberano en todo lo que concierne a su régimen interior.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+En el Estado queda prohibida toda discriminación con motivo del origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la condición de migrante, las preferencias sexuales, el estado civil o cualquier otra característica que atente contra la dignidad humana y tenga por objeto anular o reducir los derechos y libertades de los individuos.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -391,43 +395,27 @@ La operación de este sistema estará a cargo de instituciones, tribunales y aut
 
 Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la consignación y las que impongan las medidas. Estas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 16.
 
-El Estado de Oaxaca tiene una composición étnica plural, sustentada en la presencia y diversidad de los pueblos y comunidades que lo integran. El derecho a la libre determinación de los pueblos y comunidades indígenas se expresa como autonomía, en tanto partes integrantes del Estado de Oaxaca, en el marco del orden jurídico vigente; por tanto dichos pueblos y comunidades tienen personalidad jurídica de derecho público y gozan de derechos sociales. La ley reglamentaria establecerá las medidas y procedimientos que permitan hacer valer y respetar los derechos sociales de los pueblos y comunidades indígenas.
+El Estado de Oaxaca tiene una composición multiétnica, multilingüe y pluricultural, sustentada en la presencia y diversidad de los pueblos y comunidades que lo integran. El derecho a la libre determinación de los pueblos y comunidades indígenas, así como del Pueblo y comunidades afromexicanas se expresa como autonomía, en tanto partes integrantes del Estado de Oaxaca, en el marco del orden jurídico vigente; por tanto dichos pueblos y comunidades tienen personalidad jurídica de derecho público y gozan de derechos sociales. La ley reglamentaria establecerá las medidas y procedimientos que permitan hacer valer y respetar los derechos sociales de los pueblos y comunidades indígenas y del Pueblo y comunidades afromexicanas.
 
-(REFORMADO, P.O. 6 DE JUNIO DE 1998) (F. DE E., P.O. 18 DE JUNIO DE 1998)
+Los pueblos indígenas del Estado de Oaxaca son: Amuzgos, Cuicatecos, Chatinos, Chinantecos, Chocholtecos, Chontales, Huaves, lxcatecos, Mazatecos, Mixes, Mixtecos, Nahuas, Triquis, Zapotecos y Zoques. El Estado reconoce a las comunidades indígenas y afromexicanas que los conforman, a sus reagrupamientos étnicos, lingüísticos o culturales. La ley reglamentaria protegerá al Pueblo y las comunidades afromexicanas, así como a los indígenas pertenecientes a cualquier otro pueblo procedente de otros Estados de la República y que por cualquier circunstancia, residan dentro del territorio del Estado de Oaxaca. Asimismo el Estado reconoce a los pueblos y comunidades indígenas y afromexicanas, sus formas de organización social, política y de gobierno, sus sistemas normativos internos, la jurisdicción que tendrán en sus territorios, el acceso a los recursos naturales de sus tierras y territorios, su participación en el quehacer educativo y en los planes y programas de desarrollo, sus formas de expresión religiosa y artística, la protección de las mismas y de su acervo cultural y en general para todos los elementos que configuran su identidad. Por tanto, la ley reglamentaria establecerá las normas, medidas y procedimientos que aseguren la protección y respeto de dichos derechos sociales, los cuales serán ejercidos directamente por las autoridades de los pueblos y comunidades indígenas y afromexicanas o por quienes legalmente los representen.
 
-Los pueblos indígenas del Estado de Oaxaca son: Amuzgos, Cuicatecos, Chatinos, Chinantecos, Chocholtecos, Chontales, Huaves, Ixcatecos, Mazatecos, Mixes, Mixtecos, Nahuas, Triquis, Zapotecos y Zoques. El Estado reconoce a las comunidades indígenas que los conforman, a sus reagrupamientos étnicos, lingüísticos o culturales. La ley reglamentaria protegerá a las comunidades afromexicanas y a los indígenas pertenecientes a cualquier otro pueblo procedente de otros Estados de la República y que por cualquier circunstancia, residan dentro del territorio del Estado de Oaxaca. Asimismo el Estado reconoce a los pueblos y comunidades indígenas, sus formas de organización social, política y de gobierno, sus sistemas normativos internos, la jurisdicción que tendrán en sus territorios, el acceso a los recursos naturales de sus tierras y territorios, su participación en el quehacer educativo y en los planes y programas de desarrollo, sus formas de expresión religiosa y artística, la protección de las mismas y de su acervo cultural y en general para todos los elementos que configuran su identidad. Por tanto, la ley reglamentaria establecerá las normas, medidas y procedimientos que aseguren la protección y respeto de dichos derechos sociales, los cuales serán ejercidos directamente por las autoridades de los pueblos y comunidades indígenas o por quienes legalmente los representen.
+La ley reglamentaria castigará las diversas formas de discriminación étnica y las conductas etnocidas; así como el saqueo cultural en el Estado. Igualmente protegerá a los pueblos y comunidades indígenas y al Pueblo y comunidades afromexicanas contra reacomodos y desplazamientos, determinando los derechos y obligaciones que se deriven de los casos de excepción que pudieran darse, así como las sanciones que procedan con motivo de su contravención.
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1998)</small>
+La Ley establecerá los procedimientos que aseguren a los indígenas y afromexicanos el acceso efectivo a la protección jurídica que el Estado brinda a todos sus habitantes.
 
-La ley reglamentaria castigará las diversas formas de discriminación étnica y las conductas etnocidas; así como el saqueo cultural en el Estado. Igualmente protegerá a los pueblos y comunidades indígenas contra reacomodos y desplazamientos, determinando los derechos y obligaciones que se deriven de los casos de excepción que pudieran darse, así como las sanciones que procedan con motivo de su contravención.
+En los juicios en que un indígena o un afromexicano sea parte, las autoridades se asegurarán que de preferencia, los procuradores de justicia y los jueces sean hablantes de la lengua nativa o, en su defecto, cuenten con un traductor bilingüe y se tomarán en consideración dentro del marco de la Ley vigente, su condición, prácticas y costumbres, durante el proceso y al dictar sentencia.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+En los conflictos de límites ejidales, municipales o de bienes comunales, el Estado promoverá la conciliación y concertación para la solución definitiva, con la participación de las autoridades comunitarias de los pueblos y comunidades indígenas y afromexicanas.
 
-La Ley establecerá los procedimientos que aseguren a los indígenas el acceso efectivo a la protección jurídica que el Estado brinda a todos sus habitantes.
+Se reconocen los sistemas normativos internos de los pueblos y comunidades indígenas y afromexicanas, así como jurisdicción a las autoridades comunitarias de los mismos. La Ley reglamentaria establecerá los casos y formalidades en que proceda la jurisdicción mencionada y las formas de homologación y convalidación de los procedimientos, juicios, decisiones y resoluciones de las autoridades comunitarias.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+El Estado, en el ámbito de su competencia, reconoce a los pueblos y comunidades indígenas y afromexicano el derecho social al uso y disfrute de los recursos naturales de sus tierras y territorios, en los términos de la ley reglamentaria; asimismo, de acuerdo a sus programas presupuestales, dictará medidas tendientes a procurar el desarrollo económico, social y cultural de los pueblos y comunidades indígenas y afromexicano.
 
-En los juicios en que un indígena sea parte, las autoridades se asegurarán que de preferencia, los procuradores de justicia y los jueces sean hablantes de la lengua nativa o, en su defecto, cuenten con un traductor bilingüe y se tomarán en consideración dentro del marco de la Ley vigente, su condición, prácticas y costumbres, durante el proceso y al dictar sentencia.
-
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1998)</small>
-
-En los conflictos de límites ejidales, municipales o de bienes comunales, el Estado promoverá la conciliación y concertación para la solución definitiva, con la participación de las autoridades comunitarias de los pueblos y comunidades indígenas.
-
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1998)</small>
-
-Se reconocen los sistemas normativos internos de los pueblos y comunidades indígenas, así como jurisdicción a las autoridades comunitarias de los mismos. La Ley reglamentaria establecerá los casos y formalidades en que proceda la jurisdicción mencionada y las formas de homologación y convalidación de los procedimientos, juicios, decisiones y resoluciones de las autoridades comunitarias.
-
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1998)</small>
-
-El Estado, en el ámbito de su competencia, reconoce a los pueblos y comunidades indígenas el derecho social al uso y disfrute de los recursos naturales de sus tierras y territorios, en los términos de la ley reglamentaria; asimismo, de acuerdo a sus programas presupuestales, dictará medidas tendientes a procurar el desarrollo económico, social y cultural de los pueblos y comunidades indígenas.
-
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1998)</small>
-
-La ley reglamentaria establecerá normas y procedimientos que permitan la eficaz prestación de los servicios del Registro Civil y de otras instituciones vinculadas con dichos servicios a los pueblos y comunidades indígenas, así como las sanciones que procedan para el caso de incumplimiento.
+La ley reglamentaria establecerá normas y procedimientos que permitan la eficaz prestación de los servicios del Registro Civil y de otras instituciones vinculadas con dichos servicios a los pueblos y comunidades indígenas y al pueblo y comunidades afromexicanas, así como las sanciones que procedan para el caso de incumplimiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -649,15 +637,23 @@ Los procesos electorales y de participación ciudadana son actos de interés pú
 
 I.- Las elecciones ordinarias de Diputados Locales, Gobernador del Estado y de los integrantes de los ayuntamientos por el régimen de partidos políticos, se celebrarán el primer domingo de julio del año que corresponda;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2013)</small>
 
-II. La Ley protegerá y propiciará las prácticas democráticas en todas las comunidades del Estado de Oaxaca, para la elección de sus Ayuntamientos, en los términos establecidos por el artículo 2° Apartado A, fracciones III y VII de la Constitución Política de los Estados Unidos Mexicanos y 16 de esta Constitución, y establecerá los mecanismos para garantizar la plena y total participación de la mujer en dichos procesos electorales.
+II.- La ley protegerá y propiciará las prácticas democráticas en todas las comunidades indígenas y afromexicanas del Estado de Oaxaca, para la elección de sus Ayuntamientos, en los términos establecidos por el artículo 2°. Apartado A, fracciones III y VII de la Constitución Política de los Estados Unidos Mexicanos y 16 de la Constitución Política del Estado Libre y Soberano de Oaxaca; establecerá los mecanismos para garantizar la plena y total participación de la mujer en dichos procesos electorales y el ejercicio de su derecho a votar y ser votada en condiciones de igualdad con el de los varones y sancionará su contravención.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
 Las mujeres disfrutarán y ejercerán su derecho a votar y ser votadas en condiciones de igualdad con los varones; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electas o designadas.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+
 En ningún caso las prácticas comunitarias podrán limitar los derechos políticos y electorales de los y las ciudadanas oaxaqueñas. Corresponderá al Instituto Estatal Electoral y de Participación Ciudadana y al Tribunal Estatal Electoral garantizar el cumplimiento efectivo de la universalidad del sufragio, en los términos que marque la ley.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+
 Todas las ciudadanas y ciudadanos del Estado tienen derecho a no ser discriminados en la elección de las autoridades municipales. Los usos y costumbres de las comunidades no deben ser contrarios a los derechos fundamentales establecidos en la presente Constitución, en los tratados internacionales ratificados por el Estado Mexicano y en la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
 La contravención a estos derechos, será sancionada en los términos de la legislación electoral.
 
@@ -2087,7 +2083,7 @@ El Gobernador no puede:
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
-I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 53 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, la hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales.
+I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 53 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, lo hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -3191,7 +3187,7 @@ Acto continuo, la misma autoridad que tome la protesta dirá: "Si no lo hicierei
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2011)</small>
 
-Los servidores públicos que la ley determine deberán someterse para su ingreso y permanencia en el servicio público a exámenes de control de confianza. El Congreso del Estado expedirá una ley que en razón de esta disposición establezca las bases y procedimientos para tal efecto.
+Los servidores públicos que la ley determine deberán someterse para su ingreso y permanencia en el servicio público a exámenes de control de confianza. El Congreso del Estado expedirá una ley que en razón de esta disposición establezcan las bases y procedimientos para tal efecto.
 
 (REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -4020,3 +4016,9 @@ P.O. 26 DE AGOSTO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El Congreso del Estado deberá Dictaminar las Cuentas Públicas correspondientes al último bimestre del ejercicio 2010 y el ejercicio fiscal 2011, a más tardar el 30 de agosto del presente año y la correspondiente al ejercicio fiscal 2012 por única ocasión a más tardar el 31 de octubre del año 2013.
+
+P.O. 30 DE AGOSTO DE 2013.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
