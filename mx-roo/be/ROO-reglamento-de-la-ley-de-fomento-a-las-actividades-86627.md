@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-la-ley-de-fomento-a-las-actividades-86627"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-30"
-last_updated: "2012-01-30"
+last_updated: "2013-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "ROO"
 
 REGLAMENTO DE LA LEY DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 30 de enero de 2012.
 
@@ -272,13 +272,21 @@ f) Descripción de las actividades de desarrollo social que realiza la organizac
 
 g) Nombre, sello y firma de quien autoriza la expedición de la constancia;
 
-II. Asignar una Clave Única de Identificación Estatal asignada de manera automática por el Sistema de Información, conforme a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2013)</small>
 
-a. Los primeros nueve caracteres corresponden al Registro Federal de Contribuyentes de la organización;
+II. Asignar una Clave Única de Identificación Estatal, generada de manera automática por el Sistema de Información, conforme a lo siguiente:
 
-b. Los siguientes dos caracteres identifican al Municipio en que se constituyó la organización, conforme a la clasificación del Instituto Nacional de Estadística, Geografía e Informática;
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
-c. Los siguientes dos caracteres identifican a la localidad en que se constituyó la organización, conforme a la clasificación del Instituto Nacional de Estadística, Geografía e Informática;
+a. Los primeros doce caracteres corresponden al Registro Federal de Contribuyentes, incluyendo la homoclave;
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+b. Los siguientes tres caracteres identifican al Municipio en que se constituyó la organización, conforme a la clasificación del Instituto Nacional de Estadística, Geografía e Informática;
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+c. Los siguientes cuatro caracteres identifican a la localidad en que se constituyó la organización, conforme a la clasificación del Instituto Nacional de Estadística, Geografía e Informática;
 
 d. Enseguida se incluirán dos caracteres para evitar duplicidades, y
 
@@ -439,3 +447,15 @@ EL SECRETARIO DE DESARROLLO SOCIAL.
 MTRO. ÁNGEL EZEQUIEL RIVERO PALOMO.
 
 > <small>N. DE E. VÉASE FORMATO PARA EL REGISTRO ESTATAL DE ORGANIZACIONES CIVILES, EN EL P.O. 30 DE ENERO DE 2012, PÁGINAS 46 A LA 53.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE AGOSTO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
