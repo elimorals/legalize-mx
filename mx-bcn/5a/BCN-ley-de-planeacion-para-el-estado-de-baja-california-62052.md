@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-planeacion-para-el-estado-de-baja-california-62052"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2013-02-15"
+last_updated: "2013-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -83,9 +83,9 @@ IV. INEPLAN.- El Instituto Estatal de Planeación;
 
 V. SEDOC.- Sistema Estatal de Información, Documentación, Estadística, y Cartografía de Baja California;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
-VI. EVALUACIÓN.- Proceso que tiene como finalidad determinar el grado de eficacia, eficiencia y perspectiva de equidad de género, con que han sido empleados los recursos destinados a alcanzar los objetivos previstos, posibilitando la determinación de las desviaciones y la adopción de medidas correctivas que garanticen el cumplimiento adecuado de las metas;
+VI. EVALUACIÓN.- Proceso que tiene como finalidad determinar el grado de eficacia y eficiencia, con que han sido empleados los recursos destinados y las medidas tomadas para alcanzar los objetivos previstos, posibilitando la determinación de las desviaciones y la adopción de medidas correctivas que garanticen el cumplimiento adecuado de las metas;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -111,7 +111,9 @@ I.- El de racionalidad, para posibilitar el aprovechamiento máximo de los recur
 
 II.- El de continuidad, para que la modificación o supresión de todo Plan o programa se sustente en un estudio social, económico, político y jurídico que lo justifique;
 
-III.- El de universalidad, integrando las diferentes fases o etapas del proceso económico, social y administrativo, previendo las consecuencias institucionales que producirá la instrumentación de sus acciones en el entorno sociopolítico del Estado;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+III.- El de universalidad, integrando las diferentes fases o etapas del proceso económico, social, ambiental y administrativo, previendo las consecuencias institucionales que producirá la instrumentación de sus acciones en el entorno sociopolítico del Estado;
 
 IV.- El de unidad, para que todo programa e iniciativa derivada del Plan Estratégico del Estado y del Plan Estatal de Desarrollo, así como de los Planes Municipales equivalentes, estén coordinados entre sí, formando un todo, orgánico, funcional y compatible;
 
@@ -145,7 +147,9 @@ VIII.- Los Ayuntamientos;
 
 IX.- Los Presidentes Municipales, y
 
-X.- Los Organismos Municipales de Planeación.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+X.- Los Institutos Municipales de Planeación u Organismos Municipales de Planeación.
 
 ###### ARTÍCULO 6.
 
@@ -155,13 +159,17 @@ Es responsabilidad del Gobernador del Estado, conducir la Planeación Estatal de
 
 El Gobernador del Estado remitirá el Plan Estatal de Desarrollo al Congreso del Estado para su examen y opinión, en un plazo no mayor de seis meses a partir del inicio de su gestión constitucional. El Plan Estratégico del Estado será remitido al momento de concluirse y cuando se haya actualizado su contenido.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 8.
 
-Los Ayuntamientos aprobarán los Planes de Desarrollo Municipales y antes de remitirlos al Congreso del Estado, los enviarán al lNEPLAN a efecto de que realice un dictamen de compatibilidad con el Plan Estatal de Desarrollo del Estado. De igual forma sucederá para el caso de los Planes Estratégicos Municipales y su actualización.
+Los Ayuntamientos aprobarán los Planes de Desarrollo Municipales y antes de remitirlos al Congreso del Estado, los enviarán al INEPLAN a efecto de que realice un dictamen de compatibilidad con el Plan Estatal de Desarrollo. De igual forma sucederá para el caso de los Planes Estratégicos Municipales y su actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### ARTÍCULO 9.
 
-El informe que actualmente rinda el titular del Poder Ejecutivo ante el Poder Legislativo sobre el estado que guarda la administración pública, incluirá el avance en el cumplimiento del Plan de Desarrollo del Estado.
+El informe que rinda el titular del Poder Ejecutivo ante el Poder Legislativo sobre el estado que guarda la administración pública, incluirá el avance en el cumplimiento del Plan de Desarrollo del Estado y del Plan Estratégico del Estado.
 
 Las iniciativas de Leyes y de Decretos, así como los Reglamentos y Acuerdos que expida el Ejecutivo del Estado, deberán señalar las relaciones que, en su caso, existan entre el contenido de dichos documentos, el Plan Estratégico del Estado, el Plan Estatal de Desarrollo y los programas relativos.
 
@@ -255,7 +263,9 @@ I.- Proporcionar los lineamientos a las dependencias y entidades de la administr
 
 II.- Coordinar las actividades de planeación operativa que requieran la elaboración de programas, así como programación del gasto público de las dependencias y entidades de la administración pública estatal, vigilando que los programas y sus respectivos presupuestos mantengan congruencia con el plan estatal de desarrollo y cuenten con enfoque de género;
 
-III.- Evaluar periódicamente la relación que guarden los programas y presupuestos de las diversas dependencias de la administración pública Estatal, así como los resultados de su ejecución, con los objetivos del Plan Estatal;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+III.- Evaluar periódicamente la relación que guarden los programas y presupuestos de las diversas dependencias de la administración pública Estatal, así como los resultados de su ejecución, con los objetivos del Plan Estatal de Desarrollo;
 
 IV.- Apoyar técnicamente a los gobiernos Municipales que lo soliciten, en las tareas de programación;
 
@@ -263,7 +273,9 @@ V.- Participar en la definición de las políticas financiera, fiscal y creditic
 
 VI.- Proyectar y calcular los ingresos del Estado, tomando en cuenta las necesidades de recursos y utilización del crédito público para la ejecución de los programas;
 
-VII.- Verificar que las operaciones en que se haga uso del crédito público prevean el cumplimiento de los objetivos y prioridades del Plan Estatal y los programas; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+VII.- Verificar que las operaciones en que se haga uso del crédito público prevean el cumplimiento de los objetivos y prioridades del Plan Estatal de Desarrollo y los programas; y
 
 VIII.- Las demás que le atribuyan las Leyes, reglamentos, decretos y acuerdos sobre la materia.
 
@@ -271,13 +283,19 @@ VIII.- Las demás que le atribuyan las Leyes, reglamentos, decretos y acuerdos s
 
 Corresponde a las Dependencias de la Administración Pública Estatal en materia de planeación las siguientes atribuciones:
 
-I.- Intervenir en el ámbito de su competencia en la elaboración del Plan Estratégico del Estado, Plan Estatal de Desarrollo y Planes Sectoriales, apartando información al INEPLAN y remitiendo a éste las evaluaciones periódicas de su respectiva gestión, para contribuir a la actualización de los documentos de planeación;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
-II.- Elaborar los programas sectoriales, con base en los parámetros establecidos por los Planes elaborados por el lNEPLAN y tomando en cuenta las propuestas que presenten los integrantes del sector;
+I.- Intervenir en el ámbito de su competencia en la elaboración del Plan Estratégico del Estado y Plan Estatal de Desarrollo, aportando información al INEPLAN y remitiendo a éste las evaluaciones periódicas de su respectiva gestión, para contribuir a la actualización de los documentos de planeación;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+II.- Elaborar los planes y programas sectoriales, con base en los parámetros establecidos por los Planes elaborados por el INEPLAN y tomando en cuenta las propuestas que presenten los integrantes del sector;
 
 III.- Mantener la congruencia de los programas sectoriales con las políticas públicas que determine el Gobernador del Estado;
 
-IV.- Coordinar las actividades tendientes a cumplir con los programas anuales resultantes del Plan Estatal;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+IV.- Coordinar las actividades tendientes a cumplir con los programas anuales resultantes del Plan Estatal de Desarrollo;
 
 V.- Asegurar la visión sectorial en las actividades de programación que correspondan a las entidades de la administración estatal, agrupadas en su sector;
 
@@ -319,19 +337,33 @@ IV.- Elaborar y actualizar cada diez años el Plan Estratégico del Estado, comp
 
 V.- Elaborar el Plan Estatal de Desarrollo, compatibilizando y actualizando al mismo los planes Municipales, las propuestas de las dependencias y entidades de la Administración Pública Estatal, así como los planteamientos y propuestas de los grupos sociales interesados que serán sistematizadas por el COPLADE de manera oportuna;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
-VI.- Elaborar estudios y diagnósticos territoriales, sociales, urbanos, rurales, económicos, de infraestructura pública, ambientales, cartográficos, del patrimonio histórico y cultural, de perspectiva de equidad de género, así como los demás que sean necesarios para el proceso de planeación y que apoyen el diseño de las políticas y programas correspondientes.
+VI.- Elaborar estudios y diagnósticos territoriales, sociales, urbanos, rurales, económicos, de infraestructura pública, ambientales, cartográficos, del patrimonio histórico y cultural, así como los demás que sean necesarios para el proceso de planeación y que apoyen el diseño de las políticas y planes correspondientes,
 
-VII.- Diseñar la planeación y ordenamiento territorial de Baja California, incluyendo áreas urbanas, rurales, costas y reservas ecológicas, elaborando los planes sectoriales correspondientes, así como aquellos otros solicitados por el Gobernador del Estado. La aprobación de los planes anteriores corresponde al titular del Ejecutivo, previo dictamen del Consejo Directivo del lNEPLAN;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+VII.- Diseñar la planeación y ordenamiento territorial de Baja California, incluyendo áreas urbanas, rurales, costas y reservas ecológicas, elaborando los planes correspondientes, así como aquellos otros solicitados por el Gobernador del Estado. La aprobación de los planes anteriores corresponde al titular del Ejecutivo, previo dictamen del Consejo Directivo del INEPLAN;
 
 VIII.- Elaborar el Informe Bienal sobre Calidad de Vida y Desarrollo Humano del Estado de Baja California, con indicadores y estadísticas continuas que permitan evaluar la evolución social de la entidad;
 
 IX.- Concertar acuerdos en materia de planeación con organismos e institutos de investigación públicos o privados, así como con instituciones científicas y de educación superior;
 
-X.- Integrar y actualizar de manera permanente el SEDOC, que incluirá los elementos necesarios para sustentar y evaluar al proceso de planeación y al cumplimiento de sus objetivos y metas, y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
-XI.- Las demás que le atribuyan las Leyes, reglamentos, decretos y acuerdos sobre la materia.
+X.- Participar en la coordinación con los titulares de las representaciones Federales en el Estado, para verificar que los programas, proyectos y acciones que se desarrollan en la Entidad, garanticen su efectiva ejecución y beneficio social en el marco de la planeación de desarrollo;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+XI.- Evaluar en coordinación con el COPLADE, la ejecución de los Planes Estratégico del Estado y Estatal de Desarrollo.
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+XII.- Integrar y actualizar de manera permanente el SEDOC, que incluirá los elementos necesarios para sustentar y evaluar al proceso de planeación y al cumplimiento de sus objetivos y metas, y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+XIII.- Las demás que le atribuyan las Leyes, reglamentos, decretos y acuerdos sobre la materia.
 
 ###### ARTÍCULO 20.
 
@@ -341,7 +373,9 @@ I.- Organizar y sistematizar las demandas y necesidades de la sociedad bajacalif
 
 II.- Recopilar y sistematizar la información de los programas e iniciativas de los gobiernos Federal y Municipales, con el objeto de promover la cooperación y coordinación con la administración Estatal y con las organizaciones de la sociedad civil y empresas privadas; la información será compartida y coordinada con el SEDOC;
 
-III.- Operar los mecanismos de concertación, participación, coordinación e inducción del Gobierno del Estado, con los ciudadanos, grupos y organizaciones sociales y privados, así como con los gobiernos Federal, de las Entidades Federativas y de los Municipios;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+III.- Operar los mecanismos de concertación, participación, coordinación e inducción del Gobierno del Estado, con los ciudadanos, grupos y organizaciones sociales y privados, así como con los gobiernos Federal, de las Dependencias y Entidades Federativas así como de los Municipios;
 
 IV.- Promover la participación de los habitantes y de los grupos y organizaciones sociales y privados a través de la incorporación de sus aspiraciones y demandas para en su caso incorporarlas a la estrategia del desarrollo;
 
@@ -361,7 +395,9 @@ IX.- Las demás que le atribuyan las Leyes, reglamentos, decretos y acuerdos sob
 
 Corresponde al Poder Legislativo en materia de planeación las siguientes atribuciones:
 
-I.- Intervenir en las materias que le competen en la elaboración del Plan Estratégico Estatal del Estado y el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+I.- Intervenir en las materias que le competen en la elaboración del Plan Estratégico del Estado y el Plan Estatal de Desarrollo;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -397,7 +433,9 @@ I.- Aprobar y ejecutar el Plan Estratégico Municipal y el Plan Municipal de Des
 
 II.- Aprobar los Presupuestos de Egresos de acuerdo a los objetivos del Plan Municipal de Desarrollo;
 
-III.- Proponer al Órgano Municipal de Planeación, los objetivos prioritarios para que formen parte del Plan Estratégico Municipal y el Municipal de Desarrollo;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+III.- Proponer al Instituto Municipal de Planeación u Órgano Municipal de Planeación, los objetivos prioritarios para que formen parte del Plan Estratégico Municipal y el Municipal de Desarrollo;
 
 IV.- Proponer al Gobierno Estatal y al Federal, programas de inversión, gasto y financiamiento para ejecutarse dentro del Municipio;
 
@@ -413,7 +451,9 @@ VII.- Las demás que le atribuyan las Leyes, reglamentos, decretos y acuerdos so
 
 Corresponde al Presidente Municipal en materia de planeación las siguientes atribuciones:
 
-I.- Representar al Organismo Municipal de Planeación ante autoridades e instituciones públicas y privadas;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+I.- Representar al Instituto u Organismo Municipal de Planeación ante autoridades e instituciones públicas y privadas;
 
 II.- Celebrar acuerdos de coordinación con el Sector Público Federal y Estatal y concertaciones con los sectores social y privado para el cumplimiento de los objetivos del Plan Estratégico Municipal y del Plan Municipal de Desarrollo;
 
@@ -443,7 +483,9 @@ II.- Elaborar sus programas y presupuesto anual basado en la técnica del presup
 
 III.- Mantener la congruencia de sus programas con el Plan Estatal y el plan Municipal, así como con los programas Federales y Estatales cuyo ámbito sea el del Municipio;
 
-IV.- Aportar información al Organismo Municipal de Planeación sobre sus programas y evaluaciones periódicas de su respectiva gestión, para contribuir a la actualización de los documentos de planeación; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+IV.- Aportar información al Instituto Municipal de Planeación u Organismo Municipal de Planeación sobre sus programas y evaluaciones periódicas de su respectiva gestión, para contribuir a la actualización de los documentos de planeación; y
 
 V.- Las demás que le atribuyan las Leyes, reglamentos, decretos y acuerdos sobre la materia.
 
@@ -459,17 +501,21 @@ II.- Elaborar su Programa Operativo Institucional;
 
 III.- Proponer al ayuntamiento los presupuestos anuales para la ejecución de sus programas, incorporando en los mismos la perspectiva de equidad de género;
 
-IV.- Evaluar periódicamente la relación que guarden sus actividades y los resultados de su ejecución con los objetivos y prioridades del Plan Municipal, informando al organismo municipal de planeación para contribuir a la actualización de los documentos de planeación; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+IV.- Evaluar periódicamente la relación que guarden sus actividades y los resultados de su ejecución con los objetivos y prioridades del Plan Municipal, informando al instituto municipal de planeación u organismo municipal de planeación para contribuir a la actualización de los documentos de planeación; y
 
 V.- Las demás que le atribuyan las Leyes, reglamentos, decretos y acuerdos sobre la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 27.
 
-Corresponde a los Organismos Municipales en materia de planeación, las siguientes atribuciones:
+Corresponde a los Institutos Municipales u Organismos Municipales en materia de planeación, las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
-I.- Recopilar, organizar y sistematizar las demandas y necesidades sociales de la población municipal, considerando la diversidad regional, cultural, económica, de género, social, ambiental e institucional, para lo cual instrumentará los foros, consultas y eventos necesarios. La información resultante será comunicada oportunamente a las entidades de la administración municipal correspondiente a través de la presidencia municipal, con el propósito de su integración en los programas, iniciativas y propuestas pertinentes. Se enviará además, copia al SEDOC para su integración en la base de datos estatal.
+I.- Recopilar, organizar y sistematizar las demandas y necesidades sociales de la población municipal, considerando la diversidad regional, cultural, económica, social, ambiental e institucional, para lo cual instrumentará los foros, consultas y eventos necesarios. La información resultante será comunicada oportunamente a las entidades de la Administración Municipal correspondiente a través de la Presidencia Municipal, con el propósito de su integración en los planes, programas e iniciativas pertinentes. Se enviará además copia al SEDOC para su integración en la base de datos Estatal;
 
 II.- Elaborar el Plan Estratégico Municipal y el Plan Municipal de Desarrollo, asegurando la congruencia conceptual y técnica entre ambos planes y sus horizontes temporales, con el predominio del primero; además, guardarán congruencia y coordinación con la respectiva planeación Estatal y Federal. También elaborará los planes y programas Municipales Sectoriales o de carácter territorial que orienten las políticas y acciones de la Administración Municipal y sus dependencias;
 
@@ -493,13 +539,15 @@ IX.- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sob
 
 En el ámbito del Sistema Estatal de Planeación del Desarrollo, se da la participación y consulta de los diversos grupos sociales, con el objeto de que la población exprese sus opiniones para la formulación, instrumentación y evaluación de los planes y los programas a que se refiere esta Ley.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
-Sólo los consejos ciudadanos de carácter consultivo existentes y los que sean creados en la entidad, así como los consejos formalizados o que sean creados en los municipios y las organizaciones representativas de obreros, campesinos, mujeres, grupos populares, instituciones académicas, profesionales de la investigación, organismos empresariales, y otras agrupaciones sociales, participarán como órganos de consulta permanente en el proceso de planeación del desarrollo, a través de su integración en los respectivos comités de planeación para el desarrollo del estado y de los organismos municipales que realicen tal función.
+Sólo los consejos ciudadanos de carácter consultivo existentes y los que sean creados en la Entidad, así como los consejos formalizados o que sean creados en los Municipios y las organizaciones representativas de obreros, campesinos, grupos populares, instituciones académicas, profesionales de la investigación, organismos empresariales, y otras agrupaciones sociales, participarán como órganos de consulta permanente en el proceso de planeación del desarrollo, a través de su integración en los respectivos Comités de Planeación para el Desarrollo del Estado y de los institutos municipales u organismos Municipales que realicen tal función.
 
 Todos los particulares podrán participar con sus opiniones y propuestas en los distintos ámbitos de la planeación, ya sea Estatal, Regional o Municipal, a través de las Mesas de Trabajo y foros de consulta que sean convocados para tal efecto.
 
-Estos foros se realizarán durante los primeros tres meses del plazo requerido para elaborar el Plan Estatal y dentro de los primeros dos meses para elaborar los Planes Municipales como parte del programa de actividades del COPLADE y de los organismos municipales de planeación.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+Estos foros se realizarán durante los primeros tres meses del plazo requerido para elaborar el Plan Estatal y dentro de los primeros dos meses para elaborar los Planes Municipales como parte del programa de actividades del COPLADE y de los institutos municipales de planeación u organismos municipales de planeación.
 
 El Gobernador o Presidentes Municipales electos que hayan recibido la constancia de mayoría por las autoridades correspondientes, podrán acordar con las administraciones Estatal o Municipales en funciones, se inicien los foros de consulta por las instancias de planeación.
 
@@ -509,11 +557,17 @@ Para el caso de los Planes Estratégico tanto del Estado como de los Municipios 
 
 Los foros de consulta ciudadana se realizarán en los siguientes ámbitos:
 
-I.- Estatales: Estos serán sectoriales o temáticos, siendo organizados y convocados por la Coordinación de los respectivos Subcomités del COPLADE;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
-II.- Regionales: Serán organizados y convocados por las coordinaciones de los respectivos Subcomités de cada región, con el apoyo de la Coordinación General del COPLADE, de acuerdo a las correspondientes Mesas de Trabajo, en su caso, podrán ser de carácter temático; y,
+I.- Estatales: Estos serán integrales, sectoriales o temáticos, siendo organizados y convocados por la Coordinación de los respectivos Subcomités del COPLADE;
 
-III.- Municipales: Habrán de ser organizados y convocados por los Organismos Municipales de Planeación, de acuerdo a la estructura sectorial o por Mesas de Trabajo que hayan adoptado para su funcionamiento.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+II.- Regionales: Serán organizados y convocados por las coordinaciones de los respectivos Subcomités de cada región, con el apoyo de la Coordinación General del COPLADE, de acuerdo a las correspondientes Mesas de Trabajo o, en su caso, podrán ser de carácter integral, sectorial y temático; y,
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+III.- Municipales: Habrán de ser organizados y convocados por los Institutos Municipales de Planeación u Organismos Municipales de Planeación, de acuerdo a la estructura sectorial o por Mesas de Trabajo que hayan adoptado para su funcionamiento.
 
 ###### ARTÍCULO 30.
 
@@ -521,17 +575,23 @@ La participación de los Consejos Ciudadanos de carácter consultivo y de las di
 
 I.- En el ámbito de la planeación estatal, a través de los Subcomités Sectoriales, Regionales y Especiales que operan en el COPLADE, la cual quedará formalizada mediante los instrumentos que las disposiciones legales determinen al respecto; y
 
-II.- En el ámbito de los Municipios, la participación social se llevará a cabo en los Organismos Municipales de Planeación, a través de las figuras de representación que se determinen conformar.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+II.- En el ámbito de los Municipios, la participación social se llevará a cabo en los Consejos de los Institutos Municipales de Planeación y de los Organismos Municipales de Planeación, a través de las figuras de representación que se determinen conformar.
 
 ###### ARTÍCULO 31.
 
 Las autoridades Estatales y Municipales promoverán la figura de los Consejos Ciudadanos Consultivos como alternativa de organización y participación social plural, incluyente, corresponsable y democrática de la comunidad para la planeación del desarrollo, los cuales tendrán los siguientes objetivos:
 
-I.- Lograr, mediante la participación activa, el mejoramiento integral de las condiciones generales de vida de la comunidad, así como las del entorno ocupado por ella;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+I.- Lograr, mediante la participación activa, el mejoramiento de la calidad de vida de la comunidad, así como las del entorno ocupado por ella;
 
 II.- Procurar que se modifiquen actitudes y prácticas que han actuado como obstáculo al desarrollo integral de la comunidad, promoviendo que la disposición al cambio sea el factor que articule la verdadera interacción de toda la comunidad;
 
-III.- Despertar, en cada miembro y entre los grupos que lo integran, el interés para que en forma organizada actúen, participen y se comprometan en la percepción, la proposición de soluciones y la elección de alternativas para resolver en conjunto con las autoridades Municipales, la problemática que los afecta;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+III.- Despertar, en cada miembro y entre los grupos que lo integran, el interés para que en forma organizada actúen, participen y se comprometan en la percepción, la proposición de soluciones, la elección y ejecución de alternativas para resolver en conjunto con las autoridades Municipales, la problemática que los afecta;
 
 IV.- Constituir una organización comunitaria que infunda la unidad, la solidaridad, la subsidiaridad, la corresponsabilidad y la democracia entre sus miembros y su entorno, y
 
@@ -539,9 +599,11 @@ IV.- Constituir una organización comunitaria que infunda la unidad, la solidari
 
 V.- Formar un verdadero instrumento de vinculación y concertación entre la sociedad y los gobiernos estatal y municipales, promoviendo que lleven a cabo el diseño, elaboración, aplicación, seguimiento y evaluación de resultados de los planes y programas, en el ámbito de su competencia, con perspectiva de equidad de género.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 32.
 
-El reglamento de la presente ley, los internos del COPLADE y de los Organismos Municipales de Planeación, contendrán las disposiciones que normarán la organización, funcionamiento, formalidades, periodicidad y términos de la consulta y participación social.
+El reglamento de la presente ley, los internos del COPLADE y de los Organismos Municipales de Planeación, así como de los Institutos Municipales de Planeación contendrán las disposiciones que normarán la organización, funcionamiento, formalidades, periodicidad y términos de la consulta y participación social.
 
 ### CAPÍTULO QUINTO. DE LOS PLANES Y PROGRAMAS
 
@@ -599,13 +661,17 @@ Cada programa deberá al menos contener el objetivo, estrategia o línea de acci
 
 III.- La tercer etapa de control, es la captación de información sobre la ejecución de los programas, con el propósito de identificar desviaciones, corregirlas y afinar insuficiencias que pudieran haber surgido en los (sic) otras etapas; y,
 
-IV.- La cuarta etapa de evaluación consistente en la revisión periódica de resultados de los programas: sectoriales, especiales, regionales, territoriales, programas operativos anuales, con el fin de obtener conclusiones cualitativas y cuantitativas sobre el cumplimiento de los objetivos de los planes a que se refiere esta Ley.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+IV.- La cuarta etapa de evaluación consistente en la revisión periódica de resultados de los planes y programas: estratégico, de desarrollo, sectoriales, especiales, regionales, territoriales, operativos anuales, con el fin de obtener conclusiones cualitativas y cuantitativas sobre el cumplimiento de los objetivos de los planes a que se refiere esta Ley.
 
 ###### ARTÍCULO 35.
 
 Las estrategias y líneas de acción contenidas en los planes, así como los proyectos y actividades de los programas podrán ser modificados, para lo cual se elaborará un dictamen de reconducción y actualización al término de la etapa de evaluación de los resultados que así lo justifiquen, bien sea por condiciones extraordinarias o para fortalecer los objetivos del desarrollo, informando a la Legislatura de lo anterior.
 
-Los dictámenes de reconducción o actualización serán emitidos por el lNEPLAN para el caso de los planes Estatales y por los Organismos Municipales de planeación para el caso de los planes municipales. Las dependencias y entidades de la Administración Pública Estatal o Municipal emitirán los dictámenes de reconducción o actualización para el caso de los programas.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+Los dictámenes de reconducción o actualización serán emitidos por el INEPLAN para el caso de los planes Estatales y por los Institutos Municipales de Planeación u Organismos Municipales de planeación para el caso de los planes municipales. Las dependencias y entidades de la Administración Pública Estatal o Municipal emitirán los dictámenes de reconducción o actualización para el caso de los programas.
 
 ###### ARTÍCULO 36.
 
@@ -629,7 +695,9 @@ I.- Por corto plazo de tres a seis años calendario;
 
 II.- Por mediano plazo la vigencia del plan por un periodo que comprende de siete a doce años, y
 
-III.- Por largo plazo la vigencia del plan por un periodo que comprende de siete a treinta años.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+III.- Por largo plazo la vigencia del plan por un periodo que comprende de trece a treinta años.
 
 En todos los planes estratégicos es imprescindible que se establezcan los tiempos a corto, mediano y largo plazo para facilitar la evaluación del cumplimiento de sus objetivos.
 
@@ -663,7 +731,9 @@ Los plazos para las etapas de formulación, instrumentación, control y evaluaci
 
 I.- El Plan Estratégico Estatal y los Planes Estratégicos Municipales, se formularán dentro de los dos últimos años del plazo de duración de los mismos; y se publicarán en el Periódico Oficial del Estado, a los qince (sic) días siguientes a la fecha de conclusión de estos instrumentos de planeación.
 
-El Plan Estratégico Estatal y de los Planes Estratégicos Municipales actualizarán sus horizontes de largo plazo cada dieciocho años respectivamente, en un plazo de un año, contado a partir del inicio del año previsto para ello.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+El Plan Estratégico Estatal y de los Planes Estratégicos Municipales actualizará sus horizontes de largo plazo cada diez y ocho años respectivamente, en un plazo de un año, contado a partir del inicio del año previsto para ello.
 
 Para la formulación del Plan Estatal de Desarrollo, será de seis meses a partir de la toma de posesión del Gobernador electo, y para los Municipios, será de cuatro meses contados a partir de la toma de posesión del Presidente Municipal.
 
@@ -673,7 +743,9 @@ II.- El plazo de la etapa de instrumentación, es de un año calendario a travé
 
 III.- El plazo de la etapa de control, será permanente una vez aprobados los programas emanados de los planes, determinándose su aplicación preventiva, concurrente y sancionadora, en base a lo que determine la Ley de Responsabilidades de los Servidores Públicos para el Estado de Baja California; y,
 
-IV.- El plazo para la etapa de evaluación de los Planes Estratégico Estatal y Municipales será de tres meses antes de iniciar el proceso de sus actualizaciones respectivas. El plazo para la evaluación de los Planes Estatal y Municipales de Desarrollo será de dos meses antes de la conclusión de su vigencia, y tales facultades le corresponden al INEPLAN y a los Organismos Municipales de Planeación.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+IV.- El plazo para la etapa de evaluación de los Planes Estratégico Estatal y Municipales será de tres meses antes de iniciar el proceso de sus actualizaciones respectivas. El plazo para la evaluación de los Planes Estatal y Municipales de Desarrollo será de dos meses antes de la conclusión de su vigencia, y tales facultades le corresponden al INEPLAN y a los Institutos de Planeación u Organismos Municipales de Planeación.
 
 ###### ARTÍCULO 44.
 
@@ -691,9 +763,11 @@ V.- El plazo para el programa institucional será de tres meses contados a parti
 
 VI.- El plazo para los programas territoriales será de seis meses a cuatro años a partir de la publicación de los distintos planes sectoriales.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 45.
 
-Los planes Municipales deberán elaborarse, aprobarse y enviarse al lNEPLAN para su compatibilización con el Plan Estatal de Desarrollo dentro de un plazo de cuatro meses a partir de la fecha de la toma de posesión de los Presidentes Municipales y su vigencia no excederá del período constitucional que les corresponda; los cuales deberá estar articulados con los Planes Estratégicos Municipales respectivos, y considerarse recursos presupuestales para garantizar su ejecución. Asimismo, antes de finalizar la administración municipal deberán publicar la evaluación del avance del Plan Municipal correspondiente realizado por el Organismo Municipal de Planeación. Los Planes Estratégicos Municipales también deberán ser evaluados por el organismo competente y se deberá llevar a cabo antes de que proceda su actualización.
+Los planes Municipales deberán elaborarse, aprobarse y enviarse al INEPLAN para su compatibilización con el Plan Estatal de Desarrollo dentro de un plazo de cuatro meses a partir de la fecha de la toma de posesión de los Presidentes Municipales y su vigencia no excederá del período constitucional que les corresponda; los cuales deberá estar articulados con los Planes Estratégicos Municipales respectivos, y considerarse recursos presupuestales para garantizar su ejecución. Asimismo, antes de finalizar la administración municipal deberán publicar la evaluación del avance del Plan Municipal correspondiente realizado por el Instituto Municipal de Planeación u Organismo Municipal de Planeación. Los Planes Estratégicos Municipales también deberán ser evaluados por el organismo competente y se deberá llevar a cabo antes de que proceda su actualización.
 
 ###### ARTÍCULO 46.
 
@@ -763,7 +837,9 @@ Los programas especiales se referirán a las prioridades del Desarrollo Integral
 
 Los programas regionales se referirán a zonas que se consideren prioritarias o estratégicas, en función de los objetivos fijados en el Plan Estratégico del Estado, en el Plan Estatal de Desarrollo o en un plan sectorial y cuya extensión territorial rebase el ámbito de un Municipio.
 
-También podrán desarrollarse programas subregionales en áreas prioritarias que se ubican dentro de una porción territorial de un Municipio, y para tal efecto se elaborarán por los Organismos Municipales de Planeación en función de los objetivos fijados en el Plan Estratégico Municipal y/o en el Plan Municipal de Desarrollo.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+También podrán desarrollarse programas subregionales en áreas prioritarias que se ubican dentro de una porción territorial de un Municipio, y para tal efecto se elaborarán por los Institutos Municipales de Planeación Organismos Municipales de Planeación en función de los objetivos fijados en el Plan Estratégico Municipal y/o en el Plan Municipal de Desarrollo.
 
 ###### ARTÍCULO 56.
 
@@ -791,21 +867,27 @@ El INEPLAN validará los programas sectoriales, especiales y regionales y territ
 
 Los programas institucionales deberán ser sometidos para su aprobación al titular de la Dependencia coordinadora de sector, con la validación del INEPLAN.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 61.
 
-El Organismo Municipal de Planeación formulará el Plan Estratégico Municipal y el Plan Municipal de Desarrollo y lo enviará al Presidente Municipal para su aprobación por el Cabildo.
+El Instituto Municipal de Planeación u Organismo Municipal de Planeación formulará el Plan Estratégico Municipal y el Plan Municipal de Desarrollo y lo enviará al Presidente Municipal para su aprobación por el Cabildo.
 
-Cada programa que emane de los anteriores planes será validado por el Organismo Municipal de Planeación y aprobado por el Presidente Municipal, con excepción del programa Operativo Anual que sustenta el Presupuesto de Egresos Municipal, que será aprobado por los Cabildos correspondientes.
+Cada programa que emane de los anteriores planes será validado por Instituto Municipal de Planeación u Organismo Municipal de Planeación y aprobado por el Ayuntamiento, así como, el programa Operativo Anual que sustenta el Presupuesto de Egresos Municipal.
 
 ###### ARTÍCULO 62.
 
 El Plan Estratégico del Estado, el Plan Estatal de Desarrollo, los Planes Sectoriales, los Planes Estratégicos Municipales, los Planes Municipales de Desarrollo y los programas sectoriales, especiales, regionales, territoriales y operativos anuales e institucionales, así como sus respectivas evaluaciones se publicarán en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2013)</small>
+
 ###### ARTÍCULO 63.
 
-El Plan Estatal de Desarrollo los planes sectoriales, los Planes Municipales de Desarrollo se evaluarán antes de concluir su vigencia, de conformidad con lo establecido en el artículo 43 fracción IV de este ordenamiento. Los programas sectoriales, regionales y especiales, serán evaluados cada año por el INEPLAN y los Organismos Municipales de Planeación en el ámbito de su competencia. Las adecuaciones consecuentes, previa su aprobación por parte del Gobernador y de los Ayuntamientos, en su caso, se publicarán en el Periódico Oficial del Estado.
+El Plan Estatal de Desarrollo los planes sectoriales, los Planes Municipales de Desarrollo se evaluarán antes de concluir su vigencia, de conformidad con lo establecido en el artículo 43 fracción IV de este ordenamiento. Los programas sectoriales, regionales y especiales, serán evaluados cada año por el INEPLAN y los Institutos Municipales de Planeación u Organismos Municipales de Planeación en el ámbito de su competencia. Las adecuaciones consecuentes, previa su aprobación por parte del Gobernador y de los Ayuntamientos, en su caso, se publicarán en el Periódico Oficial del Estado.
 
-Los Planes Estratégicos Estatal y Municipales serán evaluados antes de realizar su proceso de actualización por el lNEPLAN y por los Organismos Municipales de Planeación, respectivamente.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+Los Planes Estratégicos Estatal y Municipales serán evaluados antes de realizar su proceso de actualización por el INEPLAN y por los Institutos Municipales de Planeación u Organismos Municipales de Planeación, respectivamente.
 
 Todo proceso de evaluación de los planes o programas respectivos deberá considerar la opinión y sentir de la comunidad representativa.
 
@@ -827,17 +909,25 @@ El Convenio de Coordinación es un instrumento de orden público por medio del c
 
 Para los efectos del artículo anterior, el Ejecutivo del Estado podrá convenir con los Ayuntamientos:
 
-I.- Su participación directa en la planeación o por conducto de los Organismos Municipales de Planeación o a través de las propuestas que estimen pertinentes;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+I.- Su participación directa en la planeación o por conducto de los Institutos Municipales de Planeación u Organismos Municipales de Planeación o a través de las propuestas que estimen pertinentes;
 
 II.- Los procedimientos de coordinación entre las autoridades Estatales y Municipales para propiciar la Planeación del Desarrollo Integral de cada Municipio y su congruencia con la planeación estatal y la nacional, así como para promover la participación de los diversos sectores de la sociedad en las actividades de planeación;
 
 III.- El establecimiento de lineamientos y procedimientos que orienten la formulación del Programa Operativo Anual de la Administración Pública Municipal y que permitan instrumentar los objetivos, estrategias y líneas de acción definidos en el Plan Municipal o en el Plan Estratégico Municipal;
 
-IV.- Los apoyos a través del INEPLAN para el establecimiento de lineamientos metodológicos que permitan a los Organismos Municipales de Planeación, la eficaz coordinación de acciones para el control y evaluación permanente del Plan Municipal, el Plan Estratégico y del Programa Operativo Anual;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
-V.- La información y asesoría técnica del lNEPLAN a los organismos municipales de planeación para la formulación y actualización permanente del Plan Municipal de Desarrollo y Plan Estratégico Municipal, así como para incorporar los planteamientos que emanen de los mismos en el Plan Estatal de Desarrollo y Plan Estratégico Estatal;
+IV.- Los apoyos a través del INEPLAN para el establecimiento de lineamientos metodológicos que permitan a los Institutos Municipales de Planeación u Organismos Municipales de Planeación, la eficaz coordinación de acciones para el control y evaluación permanente del Plan Municipal, el Plan Estratégico y del Programa Operativo Anual;
 
-VI.- Mecanismos de participación para la ejecución de acciones y programas de desarrollo socioeconómico que concerté el Estado con el Ejecutivo Federal, así como de aquellos programas estatales definidos como prioritarios para el desarrollo municipal, y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+V.- La información y asesoría técnica del INEPLAN a los Institutos Municipales de Planeación u organismos municipales de planeación para la formulación y actualización permanente del Plan Municipal de Desarrollo y Plan Estratégico Municipal, así como para incorporar los planteamientos que emanen de los mismos en el Plan Estatal de Desarrollo y Plan Estratégico Estatal;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+VI.- Mecanismos de participación para la ejecución de acciones y programas de desarrollo socioeconómico que concierte el Estado con el Ejecutivo Federal, así como de aquellos programas estatales definidos como prioritarios para el desarrollo municipal, y
 
 VII.- La elaboración de los programas regionales.
 
@@ -1010,3 +1100,9 @@ P.O. 28 DE DICIEMBRE DE 2012.
 P.O. 15 DE FEBRERO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE AGOSTO DE 2013.
+
+PRIMERO.- las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que entren en vigor las presentes reformas, se otorgará un plazo de 60 días para la realización de modificaciones a los reglamentos respectivos en materia de planeación.
