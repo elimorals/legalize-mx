@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2013-05-15"
+last_updated: "2013-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -1677,35 +1677,41 @@ DEL JUICIO EN GENERAL
 
 ### CAPITULO I. De la Conciliación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 257.
 
-Antes de dar entrada a la contestación de la demanda o a la reconvención en su caso, el Juez deberá citar a ambas partes a una audiencia de conciliación, la cual por constituir un mecanismo alternativo de solución de conflicto, deberá ser substanciada ante el Centro de Justicia Alternativa, ubicado en el domicilio del Juez del conocimiento; salvo lo dispuesto en el numeral 260.
+Antes de dar entrada a la contestación de la demanda o a la reconvención en su caso, el Juez deberá citar a ambas partes a una audiencia de conciliación, en la cual se le dará el uso de la voz al conciliador, quien expondrá de manera breve a las partes los beneficios de llegar a un acuerdo conciliatorio. Si aceptan la propuesta de conciliar, el juez deberá suspender la audiencia, hasta por quince días hábiles, prorrogables por un periodo de tiempo igual, a solicitud de las partes.
 
-En caso de inasistencia u oposición de parte, el Centro devolverá las constancias correspondientes, a efecto de continuar la tramitación del juicio, en ambos casos se estará a lo dispuesto por el numeral 258 de este ordenamiento.
+Por constituir un mecanismo alternativo de solución de conflicto, la conciliación deberá ser substanciada ante el Centro de Justicia Alternativa, ubicado en el domicilio del Juez del conocimiento; salvo lo dispuesto en el numeral 260.
 
-Si se llegara a un convenio conciliatorio, el Centro lo hará del conocimiento del Juez de la causa, para que éste proceda al archivo del expediente; quedándose en poder del Centro las constancias necesarias para vigilar el cumplimiento de los acuerdos y en su caso de la ejecución.
+En caso de inasistencia u oposición de parte al arreglo conciliatorio, el Centro, remitirá al juez de la causa el informe correspondiente, a efecto de continuar la tramitación del juicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Si se llegara a un convenio conciliatorio, el Centro de Justicia Alternativa lo hará del conocimiento del Juez de la causa, para que éste, previo el cumplimiento de los acuerdos pactados y si así lo ameritare, proceda al archivo del expediente.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+En el caso de que en el convenio se hayan pactado prestaciones de naturaleza futura o de tracto sucesivo, las constancias necesarias para vigilar su cumplimiento permanecerán en poder del Centro de Justicia Alternativa, pudiendo proceder, en su caso, a la ejecución del mismo en términos de la Ley de Justicia Alternativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 258.
 
-La simple negativa para avenirse a una transacción, se tomará en cuenta para condenar en costas a aquélla parte que resulte vencida en el juicio.
+La inasistencia de alguna de las partes a las audiencias de conciliación, se tomará en cuenta para condenar en costas a aquella parte que resulte vencida en el juicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 259.
 
-El arreglo a que llegaren las partes tendrá la fuerza definitiva de una sentencia consentida y podrá ser ejecutada por conducto del Centro de Justicia Alternativa en términos de lo dispuesto en la Ley de Justicia Alternativa.
+El arreglo a que llegaren las partes tendrá carácter de sentencia ejecutoriada y podrá ser ejecutada por conducto del Centro de Justicia Alternativa en términos de lo dispuesto en la Ley de Justicia Alternativa.
 
-En ningún caso el trámite de la conciliación podrá exceder de quince días hábiles.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6083,9 +6089,9 @@ En todo lo no previsto regirán las reglas generales de este Código en cuanto n
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO VÉASE TRANSITORIO PRIMERO; RESPECTO A LA ENTRADA EN VIGOR DE LOS PROCEDIMIENTOS ORALES EN MATERIA FAMILIAR ESTABLECIDOS EN LAS FRACCIONES I, II, III, IV, V Y X VÉASE TRANSITORIOS PRIMERO Y SEGUNDO; Y EN CUANTO A LA ENTRADA EN VIGOR DE LOS PROCEDIMIENTOS ORALES EN MATERIA CIVIL ESTABLECIDOS EN LAS FRACCIONES VI A LA IX VÉASE TRANSITORIO TERCERO, TODOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 30 DE AGOSTO DE 2013.</small>
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 888.
 
@@ -6113,757 +6119,923 @@ En los casos de los dos artículos anteriores no son necesarias formalidades de 
 
 En todos estos casos se le dará intervención al Ministerio Público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
 
-## TÍTULO VIGÉSIMO PRIMERO. PROCEDIMIENTO ORAL
+## TÍTULO VIGÉSIMO PRIMERO. DEL PROCEDIMIENTO ORAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011) (REPUBLICADO, P.O. 30 DE AGOSTO DE 2013)
 
-### CAPÍTULO II. PRUEBAS
+### CAPÍTULO II. DEL PROCEDIMIENTO ORAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 892.
 
 Se sujetarán al procedimiento oral:
 
-I.- Las controversias que se susciten con motivo de alimentos, y convivencia de menores, cuando éstas constituyan el objeto de la acción principal;
+I. Las controversias que se susciten con motivo de alimentos y convivencia de menores, cuando éstas constituyan el objeto de la acción principal;
 
-II.- Las solicitudes de divorcio por mutuo consentimiento;
+II. Las solicitudes de divorcio por mutuo consentimiento;
 
-III.- Los actos de jurisdicción que versen sobre enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos, y la adopción;
+III. Los actos de jurisdicción que versen sobre enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos, y la adopción;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. Las rectificaciones de actas del estado civil;
 
-IV.- (DEROGADA, P.O. 15 DE MAYO DE 2013)
+V. Las solicitudes del divorcio incausado;
 
-V.- Las rectificaciones de actas del estado civil.
+VI. Los medios preparatorios a juicio oral;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VII. El juicio de Desahucio;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+VIII. El juicio hipotecario;
 
-VI.- Las solicitudes del divorcio incausado.
+IX. La jurisdicción voluntaria de información ad perpetuam, y
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+X. Las tercerías, (sic)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 893.
 
-El procedimiento oral se realizará con base en los principios de oralidad, inmediación, igualdad, publicidad, contradicción, concentración y continuidad. En lo no previsto por este Título, y en cuanto no se oponga a lo dispuesto por el mismo, se aplicarán las disposiciones comunes de este Código.
+El procedimiento oral se realizará con base en los principios de oralidad, inmediación, igualdad, publicidad, contradicción, concentración y continuidad. En lo no previsto por este título, y en cuanto no se oponga a lo dispuesto por el mismo, se aplicarán las disposiciones comunes de este código.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 893
-
-Bis.- El procedimiento en términos de lo dispuesto en este título estará a cargo de un Juez de Instrucción y de un Juez oral, el primero tendrá bajo su cargo la recepción, análisis, admisión de la demanda, contestación, reconvención, contestación a la misma en su caso, así como las diversas promociones presentadas que no tengan que ventilarse en la audiencia oral y las que se presenten en ejecución de sentencia. El Juez Oral presidirá las audiencias inicial y de juicio, dictando la sentencia correspondiente.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 893
-
-Ter.- Todas las promociones que se tengan que presentar por escrito tendrán que realizarse ante el Administrador de Gestión Judicial, mismo que dará cuenta al Juez de Instrucción o de oralidad, según sea el caso.
-
-El Administrador de Gestión Judicial tendrá a su cargo un fedatario, mismo que será el que realice el cotejo de los documentos que se presenten ante él, y las certificaciones correspondientes; así mismo dependerán de él los notificadores que serán los encargados de llevar a cabo las notificaciones ordenadas por los jueces de instrucción y de oralidad.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 893
-
-Quáter.- El juez al recibir la promoción por parte del Administrador de Gestión Judicial realizará el acuerdo correspondiente, mismo que será firmado únicamente por él; una vez realizado el acuerdo se remitirá al Administrador de Gestión Judicial para que éste, en caso de ser necesario, lo turne para su notificación al actuario correspondiente.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Articulo 893
-
-Quintus.- Los acuerdos y notificaciones que dicte en audiencia el Juez oral deberá remitirlas al Administrador de Gestión Judicial para que éste a su vez les dé el trámite correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 894.
 
-Salvo lo dispuesto en este Título, las promociones de las partes deberán formularse oralmente durante las audiencias, debiendo desecharse de plano las notoriamente frívolas e improcedentes, imponiendo a los promoventes una multa de quince días de salario mínimo, la que se duplicará en caso de reincidencia.
+El procedimiento, en términos de lo dispuesto en este título, estará a cargo de un Juez de Instrucción y de un Juez Oral.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El Juez de Instrucción tendrá bajo su cargo la recepción, análisis, admisión de la demanda, contestación, reconvención, contestación a la reconvención en su caso, así como las diversas promociones presentadas que no tengan que ventilarse en la audiencia oral y las que se presenten en ejecución de sentencia.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+El Juez Oral presidirá las audiencias inicial y de juicio, dictando la sentencia correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 895.
 
-El Juez proveerá, en el momento y oralmente, toda cuestión que le sea planteada durante el desarrollo de las audiencias, con excepción de lo dispuesto en este Título.
+En caso de que una de las partes o ambas tengan alguna discapacidad ya sea visual, auditiva o carezca de lenguaje, el Juez Oral ordenará la asistencia necesaria que permita su adecuada intervención en las diligencias en que formen parte.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Si para el desahogo de la audiencia de juicio no es posible contar con la asistencia requerida, ésta deberá suspenderse y ordenarse lo conducente para que tenga lugar en fecha posterior, a efecto de que se cumpla con tal disposición.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 896.
 
-Las partes no podrán invocar, leer, ni incorporar como prueba al procedimiento oral, antecedente alguno relacionado con la proposición, discusión, aceptación o rechazo, procedencia, o revocación de un método alterno hecho valer, salvo lo dispuesto en la Ley de Justicia Alternativa.
+El Juez tendrá las más amplias facultades de dirección procesal para decidir en forma pronta y expedita lo que en derecho corresponda.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+Para hacer cumplir sus determinaciones el Juez puede emplear cualquiera de las correcciones disciplinarias y medios de apremio que se establecen en los artículos 87 y 89 de este Código, en los términos que se especifican.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 897.
 
-Las diligencias de desahogo de pruebas que deban verificarse fuera del juzgado, pero dentro de su ámbito de competencia territorial, deberán ser presididas por el Juez Oral, video grabadas por personal técnico adscrito al Poder Judicial del Estado y certificadas de conformidad con lo dispuesto para el desarrollo de las audiencias en el juzgado.
+Las promociones de las partes, con excepción de aquéllas previstas en el artículo 905, deberán formularse oralmente durante las audiencias, debiendo desecharse de plano las notoriamente frívolas e improcedentes, imponiendo a los promoventes una multa de quince días de salario mínimo general vigente en el Estado, la que se duplicará en caso de reincidencia.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 898.
 
-La nulidad de una actuación deberá reclamarse en la audiencia subsecuente, bajo pena de quedar validada de pleno derecho. La producida en la audiencia de juicio deberá reclamarse durante ésta, antes de que el Juez Oral pronuncie la sentencia definitiva.
+El Juez proveerá, en el momento y oralmente, toda cuestión que le sea planteada durante el desarrollo de las audiencias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 899.
 
-Las resoluciones judiciales pronunciadas en las audiencias se tendrán por notificadas, sin necesidad de formalidad alguna, a quienes estén presentes o debieron haber estado presentes.
+Las partes no podrán invocar, leer, ni incorporar como prueba al procedimiento oral, antecedente alguno relacionado con la proposición, discusión, aceptación o rechazo, procedencia, o revocación de un método alterno hecho valer, salvo lo dispuesto en la Ley de Justicia Alternativa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 900.
 
-Las tercerías que surjan dentro del procedimiento oral, se sustanciarán en forma separada, con los mismos trámites y procedimientos de éste.
+Las diligencias de desahogo de pruebas que deban verificarse fuera del juzgado, pero dentro de su ámbito de competencia territorial, deberán ser presididas por el Juez Oral, registradas por el personal técnico adscrito al Poder Judicial del Estado de acuerdo a lo establecido en el artículo 924 de este código y certificadas de conformidad con lo dispuesto para el desarrollo de las audiencias en el juzgado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 901.
 
-En los escritos de demanda, reconvención y contestación a éstas, respectivamente, las partes ofrecerán y exhibirán sus pruebas.
+La nulidad de una actuación deberá reclamarse en la audiencia subsecuente, bajo pena de quedar validada de pleno derecho, con excepción de la nulidad por defecto en el emplazamiento, la cual podrá reclamarse en cualquier momento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La producida en la Audiencia de Juicio deberá reclamarse durante ésta, hasta antes de que el Juez Oral pronuncie la sentencia definitiva.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 902.
 
-La prueba confesional en este juicio será desahogada de la siguiente manera:
+En el juicio oral únicamente se notificará personalmente el emplazamiento, así como el auto que fije la hora y fecha en que se llevará a cabo la audiencia inicial. Las demás determinaciones se notificarán a las partes conforme a la regla prevista en el artículo 917 de este Código.
 
-I.- Los interrogatorios podrán formularse sin restricción alguna siempre y cuando se refieran a hechos propios del declarante que sean objeto propio del debate;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Al formular las preguntas al absolvente, el juez examinará y calificará cuidadosamente las mismas.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 903.
 
-En caso de que el absolvente, a pesar de haberle hecho el apercibimiento correspondiente no asista, se niegue a contestar o conteste con evasivas las preguntas, de oficio se le declarará confeso y se tendrán por ciertos los hechos que la contraparte pretenda acreditar, salvo prueba en contrario.
+La excepción de incompetencia, se tramitará por el Juez de Instrucción, sin suspender el procedimiento, remitiendo de inmediato copia certificada al Tribunal de alzada, por conducto del administrador de gestión judicial del juzgado respectivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Recibidas las actuaciones, el Administrador de Gestión Judicial del Tribunal de Alzada, remitirá dichas constancias al Magistrado en turno, para que éste a su vez, a más tardar dentro de los tres días siguientes, decida sobre la admisión de la excepción.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+En el mismo acuerdo en donde se admita dicha excepción, el Magistrado citará a una audiencia dentro de los cinco días hábiles siguientes, en la que emitirá la resolución correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 904.
 
-La testimonial se desahogará mediante interrogatorio oral que formulen las partes o el Juez en lo que estime pertinente. Los testigos depondrán de viva voz.
+La recusación será admisible hasta antes de la calificación de las pruebas en la audiencia correspondiente y se tramitará conforme a las reglas previstas en el artículo anterior.
 
-Las preguntas deben estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. El Juez debe cuidar de que se cumplan estas condiciones impidiendo preguntas que las contraríen.
+Si la recusación se declara fundada, será nulo lo actuado a partir del momento en que se hizo valer.
 
-La calificación de las preguntas será implícita, el Juez solo intervendrá para desechar las que no cumplan con los requisitos legales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Cuando la parte oferente manifieste no tener más preguntas que formular a su testigo, la contraria podrá repreguntar sobre las respuestas otorgadas, y dirigir al testigo preguntas tendientes para acreditar cualquier circunstancia que afecte su credibilidad; o exhibir las constancias que la justifiquen.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+### CAPÍTULO III. DE LAS PRUEBAS
 
-El Juez Oral podrá interrogar al testigo, de no hacerlo, le permitirá que se retire; cuidará que no se comunique con las personas que falten por rendir su testimonio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
-### CAPÍTULO III. AUDIENCIAS
+#### SECCIÓN PRIMERA. FIJACION DE LA LITIS
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCIÓN PRIMERA. DEL OFRECIMIENTO DE LAS PRUEBAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 905.
 
-Cuando se trate de testigos que deban ser citados por el Juez Oral, se les apercibirá que en caso de desobediencia se aplicará (sic) las medidas de apremio que establece el artículo 89, con excepción de la fracción III del presente Código, la citación se hará por lo menos con dos días de anticipación al día en que deban declarar. No obstante lo anterior, la prueba se declarará desierta si aplicados los medios de apremio señalados en el párrafo anterior no se logra la presentación de los testigos, sin perjuicio de que el juez le dé vista a la autoridad correspondiente por el delito de desobediencia y resistencia de particulares.
+La demanda, contestación, reconvención y contestación a la reconvención, deberá presentarse por escrito ante la administración de gestión judicial del juzgado correspondiente y reunirá los requisitos que se establecen en los artículos 264 y 269 de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 906.
 
-Es instrumento público el registro del procedimiento oral; probará el modo en que se desarrolló la audiencia o diligencia correspondiente, la observancia de las formalidades, 1as personas que hubieran intervenido, las resoluciones pronunciadas por el Juez Oral, los actos que se llevaron a cabo y tendrá valor probatorio para los efectos del procedimiento, de los recursos y requerimientos que correspondan, excepto si se aprueba que fue alterado.
+Las partes podrán autorizar a una o varias personas con capacidad legal para oír y recibir documentos y notificaciones en su nombre. Asimismo, podrán otorgar mandato de acuerdo a lo establecido en el Código Civil del Estado, facultando a su mandatario para interponer los recursos e impugnaciones que procedan, ofrecer e intervenir en el desahogo de pruebas y alegar en las audiencias, sin que éste último pueda sustituir o delegar dichas facultades en un tercero.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+El mandatario deberá acreditar encontrarse legalmente autorizado para ejercer la profesión de abogado o licenciado en derecho, debiendo proporcionar los datos correspondientes en el escrito que se otorgue el mandato y exponer la cédula profesional para la práctica de la abogacía, en las diligencias en que intervengan.
+
+Las personas autorizadas en los términos anteriores, deberán indicar su correo electrónico proporcionado por la Administración de Gestión Judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 907.
 
-Los documentos que presenten las partes, podrán ser objetados al contestar la demanda, o al contestar la reconvención, o en su caso, el actor deberá objetar las ofrecidas por el demandado en su contestación dentro de los tres días siguientes a su admisión, con el ofrecimiento de los medios de convicción que la acrediten; la de los exhibidos en la audiencia de juicio se hará en ésta. El Juez Oral proveerá lo conducente para recibir en la audiencia de juicio principal las probanzas admitidas.
+En los escritos de demanda, contestación, reconvención y contestación a la reconvención, las partes ofrecerán sus pruebas, mismas que serán relacionadas con los puntos controvertidos, y se proporcionará el nombre, apellidos y domicilio de los testigos, la pericial que en su caso se ofrezca y los puntos sobre los que versará, así como la exhibición de las documentales que obren en su poder o el escrito mediante el cual se hayan solicitado los documentos que no tuvieren en su poder.
+
+Si las partes no cumplen con los requisitos anteriores en los escritos que fijan la litis, el Juez de Instrucción no podrá admitirlas aunque se ofrezcan por las partes posteriormente, salvo que importen excepción superveniente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 908.
+
+Admitida la demanda, el Juez de Instrucción con las copias de la demanda y los documentos que se acompañan ordenará emplazar al demandado, a fin de que, en un plazo de nueve días, ocurra a producir su contestación por escrito, debiendo referirse a todos y cada uno de los hechos aducidos por el actor, confesándolos o negándolos, así como, en su caso, interponer excepciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 909.
+
+Transcurrido el plazo fijado para contestar la demanda, sin que lo hubiere hecho, se hará declaración de rebeldía, sin que medie petición de parte.
+
+El Juez de Instrucción examinará, escrupulosamente y bajo su más estricta responsabilidad, si el emplazamiento fue practicado al demandado en forma legal. En el caso de que el emplazamiento no se haya realizado conforme a la ley, el Juez de Instrucción mandará a reponerlo.
+
+Se presumirán confesados los hechos de la demanda que se dejaren de contestar, salvo lo previsto en la parte final del artículo 276 de este código, para los casos en que se afecten las relaciones familiares o el estado civil de las personas, pues entonces se tendrá por contestado en sentido negativo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 910.
+
+El escrito de contestación se formulará ajustándose a los términos previstos para la demanda. Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, salvo las supervenientes que se harán valer dentro de los tres días siguientes en que se tenga conocimiento y hasta antes de la sentencia, manifestándolas bajo protesta de decir verdad, la que se tramitará de forma incidental, reservándose su resolución para la sentencia definitiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 911.
+
+El demandado, al tiempo de contestar la demanda, podrá proponer la reconvención. Si se admite por el Juez de Instrucción, se correrá traslado de la misma al actor, a fin de que la conteste por escrito en un plazo de seis días hábiles siguientes a la fecha en que surta efectos su notificación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 912.
+
+El demandado podrá allanarse a la demanda; en este caso, el Juez de Instrucción citará a las partes a la audiencia de juicio, que tendrá verificativo en un plazo no mayor de ocho días, en la que se dictará la sentencia respectiva.
+
+El acuerdo dictado se remitirá al Administrador de Gestión Judicial a efecto de que éste señale día y hora, para la realización de la audiencia de juicio. La notificación a las partes será por conducto del Administrador de Gestión Judicial.
+
+El Juez de Instrucción deberá seguir el procedimiento cuando advirtiere que:
+
+a) Existe fraude;
+
+b) Lo pidiere un tercero excluyente;
+
+c) El demandado no tuviere la libre disposición del derecho o éste es irrenunciable;
+
+d) Lo hiciere el mandatario o apoderado que no esté especialmente facultado para ello;
+
+e) Los hechos admitidos no pudieren probarse por confesión, si la ley exige prueba específica;
+
+f) La sentencia pudiere producir efectos de cosa juzgada respecto de terceros; y
+
+g) Existiere litisconsorcio necesario y no hubiere conformidad de todos los demandados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 913.
+
+Una vez contestada la demanda y en su caso la reconvención, o transcurridos los plazos para ello, el juez de instrucción señalará de inmediato fecha y hora para la celebración de la audiencia inicial.
+
+El Juez Oral admitirá, en su caso, las pruebas que fuesen ofrecidas en relación con las excepciones procesales opuestas, para que se rindan a más tardar en la audiencia de juicio. En caso de no desahogarse las pruebas en la audiencia, se declararán desiertas por causa imputable al oferente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+#### SECCIÓN SEGUNDA. DE LAS AUDIENCIAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 914.
+
+Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes o mandatarios, y podrán someter el conflicto a un método alterno para conciliar ante el Juez Oral y suscribir, en su caso, el convenio correspondiente de acuerdo a lo establecido en la Ley de Justicia Alternativa para el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 915.
+
+El Juez de Instrucción ordenará la citación para la audiencia inicial, haciéndole saber a las partes su obligación de asistir a la audiencia, apercibiéndolas de las consecuencias previstas para el caso de no comparecer.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 916.
+
+La fecha y hora de las audiencias se deberá fijar con la mayor proximidad posible para procurar la continuidad del procedimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 917.
+
+Las resoluciones judiciales pronunciadas en las audiencias se tendrán por notificadas en ese mismo acto, sin necesidad de formalidad alguna a quienes estén presentes o debieron haberlo estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 918.
+
+Cualquiera de las partes que no hablen el idioma español, formularán sus preguntas o contestaciones por medio de un intérprete, en cuyo caso el Juez Oral será quien lo designe. Las preguntas o contestaciones serán relatadas en el idioma español por el intérprete y si así lo solicitare, éste permanecerá a su lado durante toda la audiencia. En estos casos, a solicitud del (sic) de la parte o del intérprete, se concederá el tiempo suficiente para que éste pueda hacer la traducción respectiva, cuidando, en lo posible, que no se interrumpa el adecuado desarrollo del debate.
+
+Los intérpretes al iniciar su función serán advertidos de las penas en que incurren los falsos declarantes y sobre su obligación de traducir o interpretar fielmente lo dicho.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 919.
+
+Las audiencias serán presididas por el Juez Oral. Serán públicas y se desarrollarán oralmente en lo relativo a toda intervención de quienes participen en ella, respetando las disposiciones aplicables de la Ley de Transparencia y Acceso a la Información Pública del Estado.
+
+Durante el desarrollo de las audiencias el Juez Oral asumirá en todo momento la dirección del proceso, pudiendo ordenar la práctica de las pruebas, dirigir el debate, moderar la discusión, imponer el orden y exigir el cumplimiento de las formalidades que correspondan, así como aplicar las correcciones disciplinarias a que se refiere este Código e incluso el retiro de la sala de audiencias.
+
+El Juez podrá ordenar al encargado de Sala, la limitación del acceso de público a un número determinado de personas. También podrá impedir el acceso y ordenar la salida de aquellas que se presenten en condiciones incompatibles con la formalidad de la audiencia.
+
+Quienes asistan deberán permanecer en silencio, mientras no estén autorizados para exponer o deban responder a las preguntas que se les realicen. No podrán portar objetos que pueda utilizarse para molestar, ofender o adoptar comportamiento intimidatorio o provocativo, contrario al decoro, ni producir disturbios que alteren la sana conducción del procedimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 920.
+
+El Juez Oral determinará el inicio y la conclusión de cadauna (sic) de las etapas de las audiencias, precluyendo los derechos procesales que debieron ejercitarse en las anteriores.
+
+La parte que asista tardíamente a una audiencia se incorporará al procedimiento en la etapa en que ésta se encuentre, sin perjuicio de que las partes puedan conciliar hasta antes de que se dicte la sentencia.
+
+Si una parte o los terceros llegan al recinto oficial después de iniciada la audiencia, podrán incorporarse, sin embargo, tendrán por precluído el derecho para hacer valer las manifestaciones y demás actos referentes a las actuaciones ya celebradas.
+
+El secretario de actas mínimas hará constar el momento de la incorporación.
+
+Una vez que los testigos, peritos o partes concluyan su intervención, podrán ausentarse del recinto oficial cuando el Juez Oral así lo determine.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 921.
+
+Las partes y los terceros que intervengan en el desarrollo de las audiencias deberán rendir previamente protesta de que se han conducido y se conducirán con verdad durante el procedimiento; para tal efecto, el Juez Oral dará lectura íntegra de las disposiciones del Código Penal que tipifican el delito de falsedad en declaraciones y en informes dados a una autoridad, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad.
+
+La protesta así rendida surtirá efectos en todas las intervenciones querealice (sic) quien protestó durante las actuaciones del procedimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 922.
+
+Durante el desarrollo de las audiencias, de estimarlo necesario, el juez podrá decretar recesos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 923.
+
+Cuando una audiencia no logre concluirse o llevarse a cabo en la fecha señalada para su celebración, el Juez podrá suspenderla o diferirla, y deberá fijar en el acto, la fecha y hora de su reanudación o celebración, salvo que ello resultare materialmente imposible deberá ordenarlo cuando resulte pertinente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 924.
+
+Las audiencias se registrarán por videograbación, audio grabación o cualquier medio idóneo a juicio del Juez Oral, para producir fe, que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido, y el acceso a los mismos a quienes de acuerdo a la Ley tuvieren derecho a ello.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 925.
+
+En cada audiencia el encargado de la sala hará constar oralmente en el registro a que se hace referencia al artículo anterior, la fecha, hora y el lugar de realización, así como la causa que se tratará en la audiencia y los nombres de los servidores públicos jurisdiccionales que la presiden y demás personas que intervendrán, haciéndole saber a las partes, comparecientes y público asistente, el orden, decoro y respeto que deberán observar.
+
+Corresponde al Encargado de Sala verificar la identidad de los que intervendrán en las audiencias; y hará constar la inasistencia de alguna de las partes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 926.
+
+En el transcurso de las audiencias o al terminarse éstas, el Secretario de Actas Mínimas levantará un acta que deberá contener, cuando menos:
+
+I. El lugar, la fecha, hora de inicio y término y el expediente al que corresponde;
+
+II. El nombre de quienes intervienen y la constancia de la inasistencia de los que debieron o no pudieron estar presentes, indicándose la causa de la ausencia si se conoce;
+
+III. Una relación sucinta del desarrollo de la audiencia; y
+
+IV. La firma del Juez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 927.
+
+El Juez Oral deberá certificar el medio óptico o magnético en donde se encuentre grabada la audiencia respectiva, identificar dicho medio con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+#### SECCIÓN TERCERA. DE LA AUDIENCIA INICIAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 928.
+
+Contestada la demanda y la reconvención o transcurridos los plazos para hacerlo, el Juez de Instrucción de oficio examinará la personalidad del actor y del demandado, y en su caso, la personalidad del apoderado o mandatario. Para el caso de no estar satisfecha, ordenará corregir cualquier deficiencia que sea subsanable al respecto, para lo cual otorgará un plazo improrrogable de tres días a las partes para que la subsanen. Cuando no se acredite la representación del demandado, se continuará el juicio en rebeldía de éste. Si no se subsanare el del actor, el Juez de Instrucción sobreseerá el juicio y devolverá los documentos exhibidos por las partes.
+
+De estar satisfechos los requisitos de la contestación y en su caso, de la reconvención, se fijará fecha y hora, sin exceder de quince días hábiles, para llevar a cabo la audiencia inicial y se ordenará notificación personal a las partes por lo menos tres días de anticipación, apercibiéndolos de las consecuencias previstas en el artículo 917 de este Código para el caso de no comparecer.
+
+Si se ofreciera prueba que requiera de diligencia especial para su desahogo, se mandará prepararla.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 929.
+
+La audiencia inicial tiene por objeto:
+
+I. La enunciación de la Litis;
+
+II. La conciliación de las partes por conducto de personal capacitado del Centro de Justicia Alternativa;
+
+III. La depuración del procedimiento;
+
+IV. La admisión de pruebas y la citación de la audiencia de juicio en términos de lo contemplado en el artículo 928 de este Código.
+
+V. La fijación de acuerdos sobre hechos no controvertidos, y
+
+VI. La fijación de acuerdos probatorios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 930.
+
+En caso de que el demandado no conteste la demanda, el Juez de Instrucción declarará la rebeldía y fijará fecha y hora para la audiencia inicial, en la que el Juez Oral admitirá las pruebas ofrecidas por el actor y en caso que éstas no ameriten preparación tendrá por concluida la audiencia inicial e inmediatamente dará inicio a la audiencia de juicio, en la cual se desahogaran las pruebas admitidas, dictándose de ser posible la sentencia definitiva, de no ser así, citará a las partes para dictarla en un término que no podrá exceder de ocho días.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 931.
+
+La Audiencia inicial se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa justificada, el Juez Oral podrá imponerle alguno de los medios de apremio establecido en este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 932.
+
+Al inicio de la Audiencia inicial, una vez que el Encargado de Sala lleve a cabo lo referido en el artículo 925 de este Código, el juez Oral expondrá un breve resumen de lo demandado y de la contestación a la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 933.
+
+Tratándose de las excepciones dilatorias que no tengan una tramitación especial en este capítulo, se escucharán los alegatos, primero del actor y posteriormente del demandado. Enseguida, el Juez dictará la resolución correspondiente, concluyendo la etapa de depuración.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 934.
+
+En caso de que se oponga la excepción de conexidad de la causa, el Juez de Instrucción informará de inmediato al que conozca del procedimiento más antiguo que se pretende acumular, para efecto de que no se pronuncie sentencia definitiva, en tanto no quede resuelta la misma.
+
+En este caso el Juez Oral pronunciará si existe o no la misma. Si considera que no existe, continuará el procedimiento, reservando al opositor su derecho de impugnar vía agravio dicha resolución, al momento del dictado de la sentencia definitiva. Si considera que existe remitirá al juez del conocimiento más antiguo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 935.
+
+En caso de que no se opusiera excepción alguna o las que se opusieran resulten improcedentes, se procederá a admitir los medios de prueba ofrecidos en la demanda, reconvención y contestación a éstas y las relacionadas con la objeción de documentos, y se dictarán las medidas necesarias para preparar el desahogo de las que así lo requieran en la audiencia de juicio.
+
+Cuando se advierta la falta de algún requisito en el ofrecimiento de alguna prueba, el Juez Oral requerirá al oferente para que lo subsane en ese acto, de no hacerlo, la desechará.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 936.
+
+El Juez Oral le dará el uso de la voz al facilitador adscrito adscrito (sic) al Centro de Justicia Alternativa, quien de una manera breve expondrá a las partes los beneficios de llegar a un acuerdo conciliatorio. Si las partes aceptan la propuesta del facilitador, el Juez Oral deberá suspender la audiencia, hasta por dos horas, con la finalidad de que se proceda a la salida alterna propuesta, pasando a la sala acondicionada contigua al Juzgado oral, para procurar la conciliación.
+
+Una vez transcurrido el término que se les concedió a las partes para conciliar o antes si el facilitador así lo determina, lo hará del conocimiento del Juez Oral para que éste reanude la audiencia inicial.
+
+Si las partes lograron un acuerdo conciliatorio, el facilitador, en uso de la palabra pondrá a consideración del Juez Oral las cláusulas del citado acuerdo, con la finalidad de que el Juez Oral analice las mismas; y si estuviera de acuerdo con el acuerdo, será aprobado y elevado a la categoría de sentencia ejecutoriada, decretando en consecuencia el archivo definitivo del expediente.
+
+Si las partes con posterioridad a la etapa de conciliación en la audiencia inicial llegaren a un acuerdo satisfactorio, lo harán saber al Juez Oral para su aprobación y homologación, mismo que podrá ser en cualquier etapa del procedimiento.
+
+Las partes podrán presentar acuerdos conciliatorios en la etapa de ejecución, únicamente respecto de lo condenado en la sentencia definitiva.
+
+La ejecución del convenio, en caso de incumplimiento, estará a cargo delJuez (sic) de Instrucción.
+
+En caso de que no existiera convenio alguno, se procederá de inmediato a continuar con la audiencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 937.
+
+Las partes pueden solicitar al Juez Oral tenga por acreditados ciertos hechos; dichos acuerdos probatorios no podrán ser discutidos posteriormente.
+
+En caso de que existieran pruebas de necesaria dilación, mandará preparar aquellas que requieran diligencia especial y fijará la fecha y hora para la Audiencia de Juicio, misma que deberá fijarse en un término de quince días hábiles, a la que deberán concurrir las partes, así como los testigos y peritos, en caso de que se hayan ofrecido estas pruebas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 938.
+
+En las acciones de divorcio, en las cuales las partes hayan decidido disolver su vínculo matrimonial en los términos del artículo 803 del Código Civil, se suspenderá el proceso contencioso por un plazo no mayor a diez días, debiendo presentarse la solicitud respectiva ante el juzgado que conoce del negocio. Decretado el divorcio en esa forma, se ordenará el archivo del primer proceso como asunto concluido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 939.
+
+En la etapa de preparación de las pruebas, podrá desahogarse la inspección judicial y la pericial, así como solicitarse los informes y enviar los exhortos para el desahogo de aquellas probanzas que lo requieran, las cuales se tramitarán por conducto del oferente de la prueba respectiva.
+
+Cuando las pruebas hubieren de practicarse fuera del Estado o del País, se recibirán a petición de parte dentro de un plazo de treinta a sesenta días naturales, siempre que se llenen los siguientes requisitos:
+
+I. Que se solicite en la demanda, en la contestación o en la reconvención;
+
+II. Que se indiquen los nombres y residencia de los testigos que hayan de ser examinados, cuando la prueba sea testificar; y
+
+III. Que se designen, en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que han de testimoniarse o presentarse originales.
+
+El Juez Oral al calificar la admisibilidad de las pruebas, determinará el monto de la multa, en caso de no rendirse la prueba. Sin este depósito no se hará el señalamiento para la recepción de la prueba.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 940.
+
+En caso de que la prueba pericial verse sobre la firma o escritura de alguna de las partes, en la misma audiencia deberá estamparse la firma, rasgos caligráficos o cuerpo de escritura, que el Juez Oral considere necesarios, pudiendo éste o las partes hacer las observaciones que estimen pertinentes, a fin de que los peritos dictaminen al respecto.
+
+Si no compareció quien debe firmar o escribir, se le citará en la fecha y hora que determine el Juez Oral, con el apercibimiento de aplicarle los medios de apremio que este Código establece.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+#### SECCIÓN CUARTA. AUDIENCIA DE JUICIO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 941.
+
+La Audiencia de Juicio se llevará a cabo con o sin la asistencia de las partes, sancionando a quien no acuda sin causa calificada por el Juez Oral con una multa hasta por el monto establecido en el artículo 89 del presente Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 942.
+
+La audiencia de Juicio comprenderá las siguientes etapas:
+
+I. Desahogo de pruebas, en el orden que el Juez Oral determine;
+
+II. Los alegatos de las partes, y
+
+III. El dictado de la sentencia, de ser posible en la misma audiencia, de no ser así, se citará a las partes para dictarla dentro del término de diez días.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+#### SECCIÓN QUINTA. DE LA APELACIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 943.
+
+Sólo la sentencia definitiva, los autos y las sentencias interlocutorias que pongan fin al procedimiento son apelables en ambos efectos, salvo en los casos que la acción prevea que es en efecto devolutivo.
+
+La impugnación contra las demás resoluciones que se pronuncien duranteel (sic) procedimiento, se harán valer en el momento en que se dicten; y los agravios ante la segunda instancia, en el caso de que el agraviado interponga el recurso de apelación contra la sentencia definitiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 944.
+
+El recurso de apelación se interpondrá en audiencia ante el mismo Juez Oral que dictó la resolución. Una vez interpuesto el recurso el Juez Oral ordenará remitir las actuaciones al Tribunal de Alzada, en un término no mayor de tres días, y notificará a las partes la sede de dicho tribunal, haciéndole de su conocimiento que las notificaciones para el apelante se harán por vía de estrados, hasta en tanto las partes no acudan ante éste a fijar un nuevo domicilio en la jurisdicción del Tribunal de Alzada, para recibir notificaciones y la forma para recibirlas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 945.
+
+Recibidas las actuaciones, el Administrador de Gestión Judicial del Tribunal de Alzada, remitirá dichas constancias al Magistrado en turno, para que éste a su vez, a más tardar dentro de los tres días siguientes, decida la admisibilidad del recurso.
+
+En el mismo acuerdo en donde se admita el recurso, el Magistrado citará a una audiencia dentro de los cinco días hábiles siguientes, para la expresión oral de agravios.
+
+Los acuerdos serán únicamente firmados por el Magistrado que los realice.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 946.
+
+En la audiencia de expresión oral de agravios los recurrentes harán uso de la palabra a fin de exponer de manera breve, clara y sumaria los motivos y fundamentos que atañen a la parte o partes de la resolución recurrida, en seguida, también a través del uso de la palabra, la parte contraria intervendrá para que, si así lo desea, indique brevemente su posición respecto a lo planteado por el recurrente. El magistrado instructor podrá limitar el uso de la voz ante planteamientos meramente excesivos e imprecisos.
+
+Si el o los recurrentes no se presentaren a la audiencia, se declarará desierto el recurso.
+
+Concluido el debate, el magistrado instructor pronunciará la resolución en forma oral el mismo día o si no fuere posible, hasta dentro de un plazo de diez días hábiles siguientes a la celebración de la audiencia, en fecha y hora que dará a conocer a los intervinientes en la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2013)</small>
+
+#### SECCIÓN SEXTA. DE LOS INCIDENTES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 947.
+
+Los incidentes que no tengan tramitación especial sólo podrán promoverse oralmente en las audiencias y no suspenderán éstas. La parte contraria contestará oralmente en la audiencia y de no hacerlo se tendrá por precluido su derecho.
+
+Tratándose de una cuestión que requiera prueba y de ser procedente su admisión, el juez Oral ordenará su desahogo en audiencia especial o dentro de algunas de las audiencias del procedimiento, en la cual escuchará los alegatos de las partes, en el orden que determine. Enseguida se dictará la resolución si fuera posible; en caso contrario, citará a las partes para dictarla dentro del término de tres días.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 948.
+
+Si en la audiencia de juicio no pudiere concluirse una cuestión incidental, el juez continuará con el desarrollo de la audiencia, sin que pueda dictar sentencia definitiva, hasta en tanto no se resuelva el incidente en los términos del artículo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO IV. DE LA EJECUCIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+Artículo 962 Septiés.- La ejecución de los convenios celebrados ante el juez oral y de las resoluciones dictadas por éstos, será llevada por el juez de instrucción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 949.
+
+La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás pruebas que les hayan sido admitidas, y sólo de estimarlo necesario, el Juez Oral, en auxilio del oferente, expedirá los oficios o citaciones y realizará el nombramiento del perito respectivo, en el entendido de que serán puestos a disposición de la parte oferente los oficios y citaciones respectivas, a afecto de que preparen sus pruebas y éstas se desahoguen en la audiencia de juicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2013)</small>
+
+#### SECCIÓN PRIMERA. DE LA CONFESIONAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 950.
+
+La prueba confesional en este juicio se desahogará conforme a las siguientes reglas:
+
+I. El oferente de la prueba podrá pedir que la contraparte se presente a declarar sobre los interrogatorios que, en el acto de la audiencia se formulen;
+
+II. Los interrogatorios podrán formularse libremente sin más limitación que las preguntas se refieran a hechos propios del declarante que sean objeto del debate. El Juez, en el acto de la audiencia, examinará y calificará las preguntas cuidadosamente; y
+
+III. Previo el apercibimiento correspondiente, en caso de que la persona que deba declarar no asista sin justa causa o no conteste las preguntas que se le formulen, de oficio se hará efectivo el apercibimiento y se tendrán por ciertos los hechos que la contraparte pretenda acreditar, salvo prueba en contrario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2013)</small>
+
+#### SECCIÓN SEGUNDA. DE LA TESTIMONIAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 951.
+
+La testimonial se desahogará mediante interrogatorio oral que formulen las partes o el Juez en lo que estime pertinente. Los testigos depondrán de viva voz.
+
+Las preguntas deben estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho, tendrán relación directa con los puntos controvertidos y no serán inductivas, ni contrarias al derecho o a la moral. El Juez debe cuidar de que se cumplan estas condiciones impidiendo preguntas que las contraríen.
+
+La calificación de las preguntas será implícita, el Juez solo intervendrá para desechar las que no cumplan con los requisitos legales.
+
+Cuando la parte oferente manifieste no tener más preguntas que formular a su testigo, la parte contraria podrá interrogar al testigo sobre las respuestas otorgadas, y dirigir al testigo preguntas tendientes para acreditar cualquier circunstancia que afecte su credibilidad o exhibir las constancias que la justifiquen.
+
+El Juez Oral podrá interrogar al testigo, de no hacerlo, le permitirá que se retire; cuidará que no se comunique con las personas que falten por rendir su testimonio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 952.
+
+Las partes tendrán la obligación de presentar sus propios testigos, para cuyo efecto se les entregarán las cédulas de notificación. La prueba se declarará desierta si el testigo no es presentado por el oferente. Sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad y pedirán que se les cite.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 953.
+
+Cuando se trate de testigos que deban ser citados por el Juez Oral, se les apercibirá que en caso de desobediencia se aplicará una multa por el importe establecido en el artículo 89 de este código o se les hará comparecer por medio de la fuerza pública.
+
+La citación se hará mediante cédula por lo menos con veinticuatro horas de anticipación al día en que deban declarar, sin contar el día en que se verifique la diligencia ni el señalado para recibir la declaración.
+
+Si el testigo citado no asistiere a rendir su declaración en la audiencia programada, el juez le hará efectivo el apercibimiento realizado y reprogramará su desahogo. En este caso podrá suspenderse la audiencia.
+
+La prueba se declarará desierta, si aplicados los medios de apremioseñalados (sic) anteriormente, no se logra la presentación de los testigos. Igualmente, en caso de que el señalamiento del domicilio de algún testigo resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al oferente una sanción pecuniaria cuyo monto será el establecido en la fracción I del artículo 89 de este código. El juez despachará de oficio la ejecución en contra del infractor, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido, declarándose desierta la prueba testimonial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2013)</small>
+
+#### SECCIÓN TERCERA. DE LA INSTRUMENTAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 954.
+
+Es instrumento público el registro del procedimiento oral; probará el modo en que se desarrolló la audiencia o diligencia correspondiente, la observancia de las formalidades, las personas que hubieran intervenido, las resoluciones pronunciadas por el Juez Oral y los actos que se llevaron a cabo. Tendrá valor probatorio para los efectos del procedimiento, de los recursos y requerimientos que correspondan, excepto si se aprueba que fue alterado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 955.
+
+Los documentos que presenten las partes, podrán ser objetados al contestar la demanda o la reconvención, o en su caso, el actor deberá objetar las ofrecidas por el demandado en su contestación dentro de los tres días siguientes a su admisión, con el ofrecimiento de los medios de convicción que la acrediten; la de los exhibidos en la audiencia de juicio se hará en ésta. El Juez Oral proveerá lo conducente para recibir en la audiencia de juicio las probanzas admitidas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2013)</small>
+
+#### SECCIÓN CUARTA. DE LA PERICIAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 956.
+
+La prueba pericial será ofrecida y admitida cuando la naturaleza de los puntos o cuestiones materia de la litis requieran conocimientos científicos o tecnológicos o bien experiencia práctica en el ejercicio de un servicio u oficio, con la finalidad de prestar auxilio al Juzgador.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 957.
+
+La prueba pericial se ofrecerá en los escritos respectivos, sea la demanda, reconvención y contestación a éstas, expresando los puntos sobre los que debe versar y las cuestiones que deba dictaminar el perito, debiendo el oferente garantizar mediante recibo oficial emitido por el Fondo para el Mejoramiento de la Administración de Justicia del Estado, el pago de los honorarios del o los peritos, que en su caso designe el Juez Oral del Padrón de Peritos que emite el Consejo de la Judicatura del Estado, de acuerdo al arancel que establece el Consejo de la Judicatura del Estado. Sin perjuicio de que el oferente de la prueba pueda proponer perito de su parte.
+
+En caso de que el oferente no cumpla con lo establecido en el párrafo anterior, se negará la admisión de la prueba en la etapa correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 958.
+
+Admitida la prueba pericial, el Juez Oral hará la designación de un perito o de los que estime convenientes para la práctica de la diligencia, sin perjuicio de que las partes puedan ser asesoradas por un perito en la audiencia de desahogo de pruebas en la que el perito designado por el Juez Oral presente su dictamen correspondiente. Los peritos que asesoren a las partes no podrán intervenir en el desahogo del dictamen pericial respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 959.
+
+El juez de instrucción hará saber a las partes, la fecha y hora señalada para la audiencia inicial, en la que el o los peritos propuestos por las partes, aceptarán y protestarán el cargo conferido. Si alguna de las partes o ambas no presenta ante el juez en la audiencia inicial al perito o peritos propuestos, se tendrán por no designados.
+
+El juez de instrucción le hará saber al perito o peritos que están en el Padrón de peritos que emite el Consejo de la Judicatura, que deberán comparecer a la audiencia inicial ante el juez oral, para que en ese momento tomen protesta del cargo y las partes le realicen manifestaciones sobre las cuales desean que verse el peritaje, independientemente de las preguntas que le formulen sobre aplicación de sus conocimientos en la materia.
+
+Si no comparecen el o los peritos propuestos ante el juez oral en la audiencia inicial, éste designará otro en su lugar del mismo padrón, para efectos de que funja como perito dentro del procedimiento y se dará vista al Consejo de la Judicatura para que proceda a su baja del padrón correspondiente, independientemente de aplicarle una sanción pecuniaria equivalente a la cantidad que cotizó por sus servicios; además, será responsable de los daños y perjuicios causados por su culpa.
+
+En caso de que no comparezcan los peritos propuestos por las partes, se desahogará la prueba con el o los dictámenes exhibidos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 960.
+
+En caso de que el perito, con el fin de emitir su dictamen, tenga necesidad de entrevistar a una o más personas, corresponderá al Juez de Instrucción señalar el lugar, día y hora de esta diligencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 961.
+
+Cuando se trate de la evaluación de menores, el Juez de Instrucción determinará la forma en que se llevará a cabo, procurando que no se afecte la integridad física, psicológica o emocional de aquellos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 962.
+
+Los peritos deben tener título y cédula en la ciencia o técnica a que pertenezca el punto sobre el que ha de oírse su parecer, si la profesión estuviere legalmente regulada.
+
+Los peritos prácticos o expertos en oficios o servicios no requerirán título ni cédula profesional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 962 Bis.
+
+El Juez Oral podrá denegar la admisión de la prueba pericial, cuando los puntos sobre los que deba versar la peritación y las cuestiones que deben resolver los peritos, a juicio del Juzgador, sean innecesarias; porque el conocimiento objeto o materia de la pericia propuesta o su explicación no requiera especial preparación; cuando su práctica no sea posible, en razón de la naturaleza transitoria del hecho, de su incosteabilidad o falta de precisión de los puntos y cuestiones que se sometan a la opinión de los peritos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 962 Ter.
+
+El perito nombrado por el Juez Oral puede ser recusado en el momento de la audiencia inicial, por los mismos impedimentos por los que pueden serlo los jueces, substanciándose y resolviéndose en la misma audiencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 962 Quáter.
+
+Los peritos quedan autorizados para solicitar aclaraciones de las partes, requerir informes de terceros y obtener copias, planos o practicar consultas o experimentos. De igual manera están facultados para inspeccionar personas, lugares, bienes muebles o inmuebles, documentos y libros; obtener muestras para exámenes de laboratorio o experimentos o ilustrar sus dictámenes.
+
+Las partes y terceros tienen obligación de darles facilidades para el cumplimiento de su misión y el Juez Oral les prestará el auxilio necesario para ese fin.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 962 Quinquies.
+
+Los peritos asistirán a la audiencia respectiva con el fin de exponer las conclusiones de sus dictámenes y, en su caso, responder las preguntas que el Juez Oral o las partes formulen.
+
+El Juez podrá ordenar que el perito nombrado por él, repita o amplíe el peritaje o que practique las indagaciones que estime pertinentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2013)</small>
+
+#### SECCIÓN QUINTA. DE LA PRUEBA SUPERVENIENTE
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+Artículo 962 Sexties.- Después de la demanda y contestación, reconvención y contestación a la reconvención en su caso, no se admitirán al actor ni al demandado, respectivamente, otros documentos que los que se hallen en alguno de los casos siguientes:
+
+I. Ser de fecha posterior a dichos escritos;
+
+II. Los anteriores respecto de los cuales, protestando decir verdad, asevere la parte que los presente no haber tenido antes conocimiento de su existencia, y
+
+III. Los que no hayan sido posible adquirir con anterioridad por causas que no sean imputables a la parte interesada.
+
+Cuando alguna de las partes tenga conocimiento de una prueba documental superveniente, deberá ofrecerla dentro de los tres días siguientes a la fecha en que tuviere conocimiento de la misma, siempre y cuando no se haya llevado a cabo la Audiencia de Juicio y el Juez Oral, oyendo previamente a la parte contraria en la misma audiencia, resolverá lo conducente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO V. REGLAS ESPECIALES EN MATERIA FAMILIAR
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
-###### Artículo 908.
-
-Admitida la prueba pericial, el Juez Oral hará la designación de un perito o de los que estime convenientes para la práctica de la diligencia, sin perjuicio de que las partes puedan ser asesoradas por un perito en la audiencia de desahogo de pruebas en la que el perito designado por el Juez Oral presente su dictamen correspondiente. Los peritos que asesoren a las partes no podrán intervenir en el desahogo del dictamen pericial respectivo.
-
-###### Artículo 909.
-
-(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
+### CAPÍTULO PRIMERO. DIVORCIO POR MUTUO CONSENTIMIENTO
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 910.
-
-El perito designado por el Juez Oral deberá aceptar y protestar el cargo en un plazo de tres días, contados a partir del día en que se le haga saber su designación ante el Juez de Instrucción, quien deberá proveer lo correspondiente.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 911.
-
-Una vez protestado el cargo, en la audiencia de desahogo de pruebas, el perito deberá presentar ante el Juez Oral el dictamen correspondiente.
-
-###### Artículo 912.
-
-(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
-
-###### Artículo 913.
-
-(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-#### SECCIÓN SEGUNDA. CONFESIONAL
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 914.
-
-Los peritos asistirán a la audiencia respectiva con el fin de exponer las conclusiones de sus dictámenes y, en su caso, responder las preguntas que el Juez Oral o las partes les formulen.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 915.
-
-El perito designado por el Juez Oral que habiendo aceptado el cargo no rinda su dictamen o deje de concurrir a la audiencia respectiva sin justa causa calificada por el Juez, se le impondrá una sanción pecuniaria equivalente a la cantidad que cotizo por sus servicios; además, será responsable de los daños y perjuicios causados por su culpa. En este caso, el Juez Oral designará nuevo perito.
-
-###### Artículo 916.
-
-(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 917.
-
-En caso de que el perito, con el fin de emitir su dictamen, tenga necesidad de entrevistar a una o más personas, corresponderá al Juez de Instrucción señalar el lugar, día y hora.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 918.
-
-Cuando se trate de la evaluación de menores, el Juez de Instrucción determinará la forma en que se llevara a cabo, procurando que no se afecte la integridad física, psicológica o emocional de aquellos.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 919.
-
-Los honorarios de los peritos designados por el Juez Oral, serán pagados por el Estado. No es aplicable lo anterior a los peritos que asesoren a las partes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 920.
-
-No será aplicable al procedimiento oral lo dispuesto en los artículos 343, 344, 345, 346 y 349 de este Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 921.
-
-Las audiencias serán presididas por el Juez Oral bajo pena de nulidad; serán públicas y se desarrollarán oralmente en lo relativo a toda intervención de quienes participen en ellas.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 922.
-
-Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, pero solo las partes podrán someter el conflicto a un método alterno, para conciliar ante el Juez Oral, y suscribir, en su caso, el convenio correspondiente.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 923.
-
-El Juez de Instrucción ordenará la citación para la audiencia inicial, haciéndole saber a las partes su obligación de asistir a la audiencia, apercibiéndolas de las consecuencias previstas en el artículo 899 de este Código para el caso de no comparecer.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 924.
-
-El Juez Oral determinará el inicio y la conclusión de cada una de las etapas de las audiencias, precluyendo los derechos procesales que debieron ejercitarse en las anteriores.
-
-La parte que asista tardíamente a una audiencia se incorporará al procedimiento en la etapa en que ésta se encuentra, sin perjuicio de que las partes puedan conciliar hasta antes de que se dicte la sentencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 925
-
-La fecha y hora de las audiencias se deberá fijar con la mayor proximidad posible para procurar la continuidad del procedimiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 926.
-
-Cuando una audiencia no logre concluirse en la fecha señalada para su celebración, el Juez podrá suspenderla.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 927.
-
-Cada vez que proceda la suspensión de una audiencia deberá fijarse, en el acto, la fecha y hora de su reanudación, salvo que ello resultare materialmente imposible.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-#### SECCIÓN TERCERA. TESTIMONIAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 928.
-
-Las audiencias se registrarán por videograbación, audio grabación o cualquier medio idóneo, a juicio del Juez, para producir fe, que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido, y el acceso a los mismos a quienes de acuerdo a la Ley tuvieren derecho a ello.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 929.
-
-En cada audiencia el Encargado de la Sala hará constar oralmente en el registro a que se hace referencia al artículo anterior, la fecha, hora y el lugar de realización, así como la causa que se tratará en la audiencia y los nombres de los servidores públicos jurisdiccionales que la presiden y demás personas que intervendrán, haciéndole saber a las partes, comparecientes y público asistente, el orden, decoro y respeto que deberán observar.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-Corresponde al Encargado de Sala verificar la identidad de los que intervendrán en las audiencias; hará constar la inasistencia de alguna de las partes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-Si una parte o los terceros llegan al recinto oficial después de iniciada la audiencia, podrán incorporarse, sin embargo, tendrán por precluído el derecho para hacer valer las manifestaciones y demás actos referentes a las actuaciones ya celebradas.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-El Encargado de Sala hará constar el momento de su incorporación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 930.
-
-Las partes y los terceros que intervengan en el desarrollo de las audiencias deberán rendir previamente protesta de que se han conducido y se conducirán con verdad durante el procedimiento; para tal efecto, el juez Oral dará lectura íntegra de las disposiciones del Código Penal que tipifican el delito de falsedad en declaraciones y en informes dados a una autoridad, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-La protesta así rendida surtirá efectos en todas las intervenciones que realice quien protestó durante las actuaciones del procedimiento.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Articulo 931.
-
-Durante el desarrollo de las audiencias el Juez Oral podrá limitar el tiempo en el uso excesivo de la palabra; asumirá en todo momento la dirección del proceso, deberá imponer el orden y en su caso, las correcciones disciplinarias a que se refiere este Código e incluso el retiro de la sala de audiencias.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 932.
-
-En el transcurso de las audiencias o al terminarse éstas, se levantará un acta por el secretario de actas mínimas, que deberá contener:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2011)</small>
-
-I.- El lugar, la fecha, hora de inicio y término y el expediente al que corresponde;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2011)</small>
-
-II.- El nombre de quienes intervienen y la constancia de la inasistencia de los que debieron o pudieron estar presentes, indicándose la causa de la ausencia si se conoce;
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-III.- La relación breve de los actos procesales celebrados, en forma enumerada, y la mención sucinta de requerimientos, citaciones, apercibimientos y cualquier otro acto que el Juez determine deba comunicarse a las partes o terceros que no asistieron, la cual deberá estar firmada por el Juez Oral.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 933.
-
-El Juez Oral deberá certificar el medio óptico o magnético en donde se encuentre grabada la audiencia respectiva, identificar dicho medio con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 934.
-
-Se podrá solicitar, ante el Administrador de Gestión Judicial, copia simple o certificada, de las actas o los registros, o parte de ellos, que obren en el procedimiento, las que deberán ser certificadas por el fedatario adscrito al Administrador de Gestión Judicial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-Lo anterior con excepción de los casos señalados en la Ley de Acceso a la Información Pública del Estado.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 935.
-
-La conservación de los registros estará a cargo del Administrador de Gestión Judicial del juzgado. Cuando por cualquier causa se dañe el soporte material del registro afectando su contenido, el Juez de Instrucción ordenará reemplazarlo, en todo o en parte, por una copia fiel, que obtendrá de quien la tuviere, si no dispone de ella directamente.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 936.
-
-El Administrador de Gestión Judicial de los Juzgados Orales será responsable de los aparatos y el personal de auxilio necesarios para tener acceso a los registros del procedimiento, a fin de conocer su contenido, pudiendo tomar apuntes.
-
-Lo anterior con excepción de los casos en que la Ley de Acceso a la Información Pública del Estado obligue a la autoridad a negar el acceso público a la información.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 937.
-
-Los incidentes que no tengan tramitación especial sólo podrán promoverse oralmente en las audiencias y no suspenderán éstas. La parte contraria podrá contestar oralmente en la audiencia.
-
-Tratándose de una cuestión que requiera prueba, el juez Oral ordenará el diligenciamiento y la desahogara en audiencia especial o dentro de algunas de las audiencias del procedimiento, en la cual escuchará los alegatos de las partes, en el orden que determine. Enseguida se dictará la resolución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 938.
-
-En caso de que en la audiencia de juicio no pudiere concluirse una cuestión incidental, el Juez continuará con el desarrollo de la audiencia, suspenderá el pronunciamiento de la sentencia definitiva y procederá en los términos del párrafo anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 939.
-
-La recusación será admisible hasta antes de la calificación de las pruebas en la Audiencia correspondiente. Si la recusación se declara fundada, será nulo lo actuado a partir del momento en que se interpuso la recusación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 940.
-
-La demanda deberá presentarse por escrito ante el Administrador de Gestión Judicial de los juzgados orales y reunirá los requisitos de los artículos 264 y 265 del presente código.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-#### SECCIÓN CUARTA. INSTRUMENTAL
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 941.
-
-Admitida la demanda, el Juez de Instrucción con las copias de la demanda y los documentos que se acompañan ordenará emplazar al demandado, a fin de que, en un plazo de nueve días, ocurra a producir su contestación por escrito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 942.
-
-El escrito de contestación se formulará ajustándose a los términos previstos para la demanda. Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, salvo las supervenientes.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-#### SECCIÓN QUINTA. PERICIAL
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 943.
-
-El demandado podrá allanarse a la demanda; en este caso, el Juez de Instrucción citará al dictado de la sentencia.
-
-Dicho acuerdo se remitirá al Administrador de Gestión Judicial al efecto de que este señale día y hora a un plazo no mayor de tres días, para la realización de dicha audiencia misma que llevará el Juez Oral. La notificación de las partes será por conducto del Administrador de Gestión Judicial.
-
-Deberá el Juez de Instrucción seguir el procedimiento cuando advirtiere:
-
-a).- Fraude;
-
-b).- Lo pidiere un tercero excluyente;
-
-c).- El demandado no tuviere la libre disposición del derecho o éste es irrenunciable;
-
-d).- Lo hiciere el Apoderado que no esté especialmente facultado;
-
-e).- Los hechos admitidos no pudieren probarse por confesión, si la ley exige prueba específica;
-
-f).- La sentencia pudiere producir efectos de cosa juzgada respecto de terceros; y
-
-g).- Existiere litisconsorcio necesario y no hubiere conformidad de todos los demandados.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 944.
-
-El demandado, al tiempo de contestar la demanda, podrá proponer la reconvención. Si se admite por el Juez de Instrucción, se correrá traslado de la misma al actor, a fin de que la conteste por escrito en un plazo de seis días.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 945.
-
-Si el demandado o el actor reconvenido no formulan su contestación, analizado el emplazamiento respectivo, la demanda o la reconvención se tendrán por contestadas en sentido afirmativo, excepto en los casos en que las demandas afecten las relaciones familiares o el estado civil de las personas, pues entonces la demanda se tendrá por contestada en sentido negativo.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 946.
-
-Contestada la demanda y la reconvención, o transcurridos los plazos para hacerlo, el Juez de Instrucción de oficio examinará la personalidad del actor y en su caso la personalidad del representante o apoderado del demandado; no estando satisfecha, ordenará en su caso corregir cualquier deficiencia que sea subsanable al respecto, para lo cual otorgará un plazo improrrogable de tres días a las partes para que la subsanen. Cuando no se acredite la representación del demandado, se continuará el juicio en rebeldía de este. Si no se subsanare el del actor, el Juez de Instrucción sobreseerá el juicio y devolverá los documentos. De estar satisfecha, se fijará fecha y hora para la Audiencia inicial, la cual no podrá exceder de quince días hábiles, ordenando notificarla personalmente a las partes por lo menos tres días antes de ésta, apercibiéndolos de las consecuencias previstas en el artículo 899 de este Código para el caso de no comparecer. Si se ofreciera prueba que requiera de diligencia especial para su desahogo, se mandará prepararla.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 946 Bis.
-
-La audiencia inicial tiene por objeto:
-
-I.- La enunciación de la Litis;
-
-II.- La conciliación de las partes por conducto de personal capacitado del Centro de Justicia Alternativa;
-
-III.- La depuración del procedimiento; y
-
-IV.- La admisión de pruebas y la citación de la audiencia de juicio en términos de lo contemplado en el artículo 946 de este Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 #### SECCIÓN PRIMERA. ALIMENTOS
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 947.
-
-La Audiencia inicial se llevará a cabo con o sin la asistencia de las partes.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 948.
-
-La Audiencia podrá suspenderse o diferirse cuando el Juez Oral lo estime pertinente.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-### CAPÍTULO IV. INCIDENTES
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 949.
-
-Al inicio de la Audiencia inicial, una vez que el Encargado de Sala lleve a cabo lo referido en el artículo 929 de este Código, el juez Oral expondrá un breve resumen de lo demandado y de la contestación a la misma.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 949
-
-Bis.- El Juez Oral le dará el uso de la voz al conciliador adscrito al juzgado oral, quien de una manera breve expondrá a las partes los beneficios de llegar a un acuerdo conciliatorio. Si las partes aceptan la propuesta del conciliador, el Juez Oral deberá suspender la audiencia, hasta por dos horas, con la finalidad de que se proceda a la salida alterna propuesta, pasando a la sala de conciliación contigua al juzgado oral.
-
-Una vez transcurrido el término que se les concedió a las partes para conciliar o antes si el conciliador así lo determina, lo hará del conocimiento del Juez Oral para que éste reanude la audiencia inicial.
-
-Si las partes lograron un acuerdo conciliatorio, el conciliador, haciendo uso de la palabra, pondrá a consideración del Juez Oral las cláusulas del citado convenio, con la finalidad de que el citado juzgador analice las mismas; y si estuviera de acuerdo con el convenio, será aprobado y elevado a la categoría de sentencia ejecutoriada, decretando en consecuencia el archivo definitivo del expediente.
-
-La ejecución del convenio, en caso de incumplimiento, estará a cargo del Juez de Instrucción.
-
-En caso de que no existiera convenio alguno, se procederá de inmediato a continuar con la audiencia.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-#### SECCIÓN SEGUNDA. CONVIVENCIA DE MENORES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 950.
-
-Tratándose de las excepciones dilatorias, y que no hubieran pruebas que requieran diligencia especial, se escucharán los alegatos, primero del actor y posteriormente del demandado. Enseguida, el Juez dictará la sentencia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-#### SECCIÓN PRIMERA. PROCEDIMIENTO
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 951.
-
-Si se opone la excepción de incompetencia, el Juez oral pronunciará si sostiene o no su competencia. Si el Juez oral considera que es competente, continuará el procedimiento, reservando al opositor su derecho de impugnar vía agravio dicha resolución, en caso de inconformarse con la sentencia definitiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-Si el Juez considera que es incompetente, suspenderá el procedimiento y remitirá de inmediato todo lo actuado al Pleno del Tribunal, a fin de que resuelva lo conducente.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 952.
-
-En caso de que se oponga la excepción de conexidad de la causa, el Juez de instrucción informará de inmediato al que conozca del procedimiento más antiguo que se pretende acumular, para efecto de que no se pronuncie sentencia definitiva, en tanto no quede resuelta la misma.
-
-En este caso el Juez Oral pronunciará si existe o no la misma. Si considera que no existe, continuará el procedimiento, reservando al opositor su derecho de impugnar vía agravio dicha resolución, al momento del dictado de la sentencia definitiva. Si considera que existe remitirá al juez del conocimiento más antiguo.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 953.
-
-En caso de que no se opusiera excepción alguna o las que se opusieran resulten improcedentes, se procederá a admitir los medios de prueba ofrecidos en la demanda, reconvención y contestación a estas, y las relacionadas con la objeción de documentos, y dictará las medidas necesarias para preparar el desahogo de las que así lo requieran en la audiencia de juicio.
-
-Cuando se advierta la falta de algún requisito en el ofrecimiento de alguna prueba, el Juez oral requerirá al oferente para que lo subsane en ese acto, de no hacerlo, la desechará.
-
-#### SECCIÓN SEGUNDA. ENAJENACIÓN DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCIÓN ACERCA DE SUS DERECHOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 954.
-
-(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 955.
-
-Las partes pueden solicitar al juez oral tenga por acreditados ciertos hechos; dichos acuerdos probatorios no podrán ser discutidos posteriormente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 956.
-
-En las acciones de divorcio, en las cuales las partes hayan decidido disolver su vínculo matrimonial en los términos del artículo 803 del Código Civil, se suspenderá el proceso contencioso por un plazo no mayor a diez días, debiendo presentarse la solicitud respectiva ante el juzgado que conoce del negocio. Decretado el divorcio en esa forma, se ordenará el archivo del primer proceso como asunto concluido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 957.
-
-Dentro de la etapa de preparación de las pruebas, podrá desahogarse la inspección judicial y la pericial, así como solicitarse los informes y enviar los exhortos para el desahogo de aquellas probanzas que lo requieran, las cuales se tramitarán por conducto del oferente de la prueba respectiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 958.
-
-En caso de que la prueba pericial verse sobre la firma o escritura de alguna de las partes, en la misma Audiencia deberá estamparse la firma, rasgos caligráficos o cuerpo de escritura, que el Juez considere necesarios, pudiendo éste o las partes hacer las observaciones que estimen pertinentes, a fin de que los peritos dictaminen al respecto.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-Si no compareció quien debe firmar o escribir, se le citará para la fecha y hora que determine el Juez Oral.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-###### Artículo 959.
-
-Si no se opusiera excepción alguna, se procederá a la admisión de las pruebas ofrecidas con los escritos de demanda, reconvención y contestación a estas y se mandará a preparar aquellas pruebas que requieran de alguna tramitación especial, fijándose fecha y hora para la audiencia de juicio, la cual no podrá excederse del término de quince días hábiles. El ofrecimiento, la admisión y el desahogo de las pruebas, se sujetará a las reglas establecidas para ello en este Código.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 960.
-
-La Audiencia de Juicio se llevará a cabo con o sin la asistencia de las partes, sancionando a quien no acuda sin causa calificada por el Juez Oral con una multa hasta por el monto establecido en el artículo 89 del presente Código.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 961.
-
-La audiencia de Juicio comprenderá las siguientes etapas:
-
-I.- Desahogo de pruebas, en el orden que el Juez Oral determine;
-
-II.- Los alegatos de las partes;
-
-III.- El dictado de la sentencia de ser posible en la misma audiencia, de no ser así se citará a las partes para dictarla dentro del término de diez días.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 962.
-
-Sólo la sentencia definitiva, los autos y las sentencias interlocutorias que pongan fin al procedimiento son apelables en ambos efectos, salvo en los casos que la acción prevea que es en efecto devolutivo.
-
-La impugnación contra las demás resoluciones que se pronuncien durante el procedimiento se hará valer en el momento; y los agravios ante la segunda instancia, en el caso de que el agraviado interponga el recurso de apelación contra la sentencia definitiva.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 962
-
-Bis.- El recurso de apelación se interpondrá en audiencia ante el mismo juez Oral que dictó la resolución, una vez interpuesto el recurso el juez de juicio oral ordenará remitir las actuaciones al Tribunal de Alzada, en un término no mayor de tres días, notificándole a las partes la sede de dicho tribunal, haciéndole de su conocimiento que las notificaciones para el apelante se harán por vía de estrados, hasta en tanto las partes no acudan ante éste a fijar un nuevo domicilio en la jurisdicción del Tribunal de Alzada, para recibir notificaciones y la forma para recibirlas.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-###### Artículo 962
-
-Ter.- Recibidas las actuaciones, el Administrador de Gestión Judicial del Tribunal de Alzada, remitirá dichas constancias al Magistrado en turno, para qué este a su vez, a más tardar dentro de los tres días siguientes, decida la admisibilidad del recurso.
-
-En el mismo acuerdo en donde se admita el recurso, el Magistrado citará a una audiencia dentro de los cinco días hábiles siguientes, para la expresión oral de agravios, los acuerdos serán únicamente firmados por el Magistrado que realice el acuerdo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2013)</small>
-
-###### Artículo 962
-
-Quater.- En dicha audiencia los recurrentes harán uso de la palabra a fin de exponer de manera breve, clara y sumaria los motivos y fundamentos que atañen a la parte o partes de la resolución recurrida, en seguida, también a través del uso de la palabra, la parte contraria intervendrá para que, si así lo desea, indique brevemente su posición respecto a lo planteado por el recurrente. El magistrado instructor podrá limitar el uso de la voz ante planteamientos meramente excesivos e imprecisos.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-Si el o los recurrentes no se presentaren a la audiencia, se declarará desierto el recurso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
-
-Concluido el debate, el magistrado instructor pronunciará la resolución en forma oral, el mismo día o, si no fuere posible, hasta dentro de un plazo de diez días hábiles siguientes a la celebración de la audiencia, en fecha y hora que dará a conocer a los intervinientes en la misma.
-
-(REUBICADO [N. DE E. ANTES CAPÍTULO VI], P.O. 30 DE NOVIEMBRE DE 2012)
-
-### CAPÍTULO V. PROCEDIMIENTO ORAL GENERAL
-
-REGLAS GENERALES
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-### CAPÍTULO VI. APELACIÓN
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -6949,6 +7121,12 @@ Las controversias que se promuevan sobre el importe de los alimentos se decidir�
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
+#### SECCIÓN SEGUNDA. CONVIVENCIA DE MENORES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 971.
 
 Se sujetarán al procedimiento oral, así como a las reglas especiales de esta sección, las controversias que se susciten con motivo de:
@@ -7011,11 +7189,15 @@ La sentencia se ejecutará, si así se solicita, sin necesidad de fianza.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
-### CAPÍTULO VII. REGLAS ESPECIALES
+### CAPÍTULO SEGUNDO. JURISDICCIÓN VOLUNTARIA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+#### SECCIÓN PRIMERA. PROCEDIMIENTO
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 977.
 
@@ -7024,6 +7206,12 @@ Los cónyuges que convengan en divorciarse en los términos del artículo 803 de
 Si la solicitud, el convenio o la documentación fueren insuficientes, el Juez de Instrucción concederá a los solicitantes un plazo de tres días para que los completen.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
+#### SECCIÓN SEGUNDA. ENAJENACIÓN DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCIÓN ACERCA DE SUS DERECHOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 978.
 
@@ -7191,9 +7379,11 @@ La resolución que se decrete en el divorcio incausado será irrecurrible.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
-### CAPÍTULO PRIMERO. DIVORCIO POR MUTUO CONSENTIMIENTO
+### CAPÍTULO III. DE LOS MEDIOS PREPARATORIOS A JUICIO ORAL
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 986.
 
@@ -7311,17 +7501,349 @@ Para recibir dinero en nombre del menor o incapacitado, los progenitores o el tu
 
 Lo dispuesto en los artículos que preceden se aplicará a la transacción y arrendamiento por más de cinco años de bienes de menores o incapacitados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO IV. DEL JUICIO DE DESAHUICIO (SIC)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 998.
+
+El juicio oral civil podrá prepararse, pidiendo declaración bajo protesta de decir verdad el que pretenda demandar, de aquél contra quien se propone dirigir la demanda. Presentando la solicitud por escrito ante la Administración de Gestión Judicial del Juzgado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 999.
+
+Al pedirse la diligencia preparatoria debe expresarse el motivo por el que se solicita y el litigio civil que se trata de seguir. Una vez admitidos se fijará fecha y hora para llevar a cabo la audiencia de desahogo, de acuerdo a las formalidades previstas en el capítulo segundo sección segunda y tercera de este título, y se ordenará la citación personal para que comparezca ante el Juez Oral. En la notificación se expresará el nombre y apellidos del promovente, objeto de la diligencia, la cantidad que se reclame y el origen del adeudo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1000.
+
+Si el deudor fuere hallado o no en su domicilio y debidamente cerciorado, el actuario entregará la cédula en la que se contenga la transcripción íntegra del auto que se hubiere dictado al propio interesado, a su mandatario, al pariente más cercano que se encontrare en la casa, a sus empleados, a sus domésticos o a cualquier otra persona que viva en el domicilio del demandado, entregándole también copias del traslado de la solicitud debidamente selladas y cotejadas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1001.
+
+Si no comparece a la audiencia y se le hubiere apercibido de tener por cierta la deuda o en su caso por acreditado el arrendamiento, previo cercioramiento de que la notificación fue legalmente practicada, se tendrán por justificadas las diligencias, siguiéndose el juicio oral conforme marca la ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1002.
+
+Contra la resolución que concede la diligencia preparatoria no habrá ningún recurso. Contra la resolución que la niegue habrá el de apelación en ambos efectos, si fuere apelable la sentencia del juicio que se prepara.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO V. DEL JUICIO HIPOTECARIO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1003.
+
+Con la demanda se exhibirá el contrato de arrendamiento o el documento respectivo que justifique la ocupación, en caso de haberse celebrado por escrito. En el caso de que el contrato de arrendamiento o el documento mediante el cual se justifique la ocupación sea otorgado o ratificado ante notario público, el actor podrá solicitar al Juez de Instrucción provea auto en el que se requiera al demandado, para que en el acto de la diligencia compruebe con los documentos idóneos estar al corriente del pago de las rentas, y si no lo hiciera en el primer supuesto se le embargarán bienes bastantes para cubrir las rentas reclamadas y acto continuo se emplazará al demandado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1004.
+
+Emplazado el demandado y en caso de que el inmueble se encuentre desocupado, a petición del arrendador, se le dará posesión del inmueble en forma provisional, debiendo continuarse el procedimiento por sus demás etapas hasta su conclusión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO VI. DE LA JURISDICCION VOLUNTARIA DE INFORMACION AD PERPETUAM
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1005.
+
+Procederá el juicio hipotecario, si éste fue constituido en los términos de los Artículos 3096, 3097, 3098, 3099, 3108 y demás relativos del Código Civil para el Estado, y además cuando:
+
+I. El documento base de la acción tenga carácter de título ejecutivo;
+
+II. El bien se encuentre inscrito a favor del demandado; y
+
+III. No exista embargo o gravamen en favor de tercero, inscrito cuando menos noventa días anteriores a la de la presentación de la demanda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1006.
+
+Presentado el escrito de demanda, acompañado del instrumento respectivo, el juez de instrucción, previa calificación de que se reúnen los requisitos fijados por el artículo anterior, admitirá la misma y mandará anotar la demanda en el Registro Público de la Propiedad y que se corra traslado de ésta al deudor, para contestar la demanda y a oponer las excepciones, que no podrán ser otras que:
+
+I. Las fundadas en las que el demandado no haya firmado el documento base de la acción, su alteración o la de falsedad del mismo;
+
+II. Incumplimiento;
+
+III. Pago o compensación;
+
+IV. Remisión o quita;
+
+V. Oferta de no cobrar o espera, y
+
+VI. Novación de contrato.
+
+Las excepciones comprendidas en las fracciones III, IV, V y VI solo se admitirán cuando se funden en prueba documental.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1007.
+
+La demanda se anotará al margen de la inscripción registral de la hipoteca en el Registro Público correspondiente, a cuyo efecto el actor exhibirá un tanto más de dicha demanda, documento base de la acción y en su caso, de aquellos con que justifique su representación, para que previo cotejo con sus originales, se certifiquen por el Fedatario, haciendo constar que se expiden para efectos de que la parte interesada inscriba su demanda, a quien se le entregarán para tal fin, debiendo hacer las gestiones en el Registro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1008.
+
+Anotada la demanda en el Registro Público de la Propiedad, no podrá verificarse en la finca hipotecada ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el juez de instrucción por acreedor con mejor derecho, en fecha anterior a la demanda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO VII. DE LAS TERCERÍAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1009.
+
+La solicitud se presentará por escrito ante la Administración de Gestión Judicial del Juzgado y reunirá los requisitos de los artículos 90, 91 y 264 de este Código y cualquier otro requisito que el Juez de Instrucción considere prudente.
+
+Si no se reúnen las exigencias previstas en el párrafo anterior, el Juez concederá al promovente un término de tres días para completarlas. En caso de que no se cumpla esa prevención, se desechará de plano su solicitud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1010.
+
+Cumplidas las exigencias, el Juez de Instrucción citará a la audiencia de juicio, previa fecha y hora que proporcione el Administrador de Gestión Judicial, la cual se celebrará ante el Juez Oral dentro del plazo de diez días, citando al promovente y al Ministerio Público, quedando a cargo del Interesado la preparación de las pruebas ofrecidas, apercibido que de no hacerlo así, se declararán desiertas las mismas ordenándose el archivo del expediente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1011.
+
+En la audiencia a que se refiere el artículo anterior, se desahogarán las pruebas que requieran diligencia especial en el orden que el Juez Oral determine, una vez concluido el desahogo de las mismas, si fuere posible se dictará la sentencia. En caso contrario, citará a las partes para dictarla dentro del término de tres días.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1012.
+
+Las diligencias de jurisdicción voluntaria serán apelables. La impugnación se hará valer en el momento de dictarse la correspondiente resolución y los agravios se formularán ante la segunda instancia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1013.
+
+Las tercerías que surjan dentro del procedimiento oral, se sustanciarán en forma separada, con los mismos trámites y procedimientos de este título.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1014.
+
+En todo lo no previsto regirán las reglas generales de este Código, en cuanto no se opongan a las disposiciones del presente título.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+## TÍTULO VIGÉSIMO TERCERO. DE LA ADMINISTRACIÓN DE GESTIÓN JUDICIAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1015.
+
+La administración de gestión judicial será el área encargada de coadyuvar con las labores operativas de los juzgados y tribunales del Estado, en aquellos distritos que el Consejo de la Judicatura del Poder Judicial designe.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1016.
+
+La administración de gestión judicial contará con un administrador el cual tendrá a su cargo a los fedatarios, los actuarios, secretarios de actas mínimas, encargados de sala y el personal administrativo que el órgano judicial requiera.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1017.
+
+Las copias simples de los documentos que se presenten, cotejadas y autorizadas por el fedatario, correrán en los autos, quedando los originales bajo el resguardo de la administración de gestión judicial, donde podrá verlos la parte contraria, si lo pidiere.
+
+Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el personal que la reciba en la administración.
+
+Tratándose de los casos señalados en el Artículo 109 Bis de este código, pueden ser remitidos vía electrónica al correo institucional de la administración de gestión judicial.
+
+Para efectos de identificación de la petición correspondiente deberá señalar el juzgado al que va dirigido, el número del expediente, el nombre del solicitante y el nombre de las partes, por lo que el Juez tendrá a su disposición la citada promoción a más tardar al día siguiente, acordando lo conducente en términos de ley.
+
+La promoción a la que se hace alusión en líneas precedentes, únicamente será válida si es remitida a través de la cuenta de correo electrónico proporcionada por el administrador de gestión judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1018.
+
+La demanda deberá presentarse por escrito ante la Administración de Gestión Judicial de los juzgados y reunirá los requisitos establecidos en los artículos 264 y 265 del presente Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1019.
+
+Todas las promociones se presentarán ante la Administración de Gestión Judicial, haciéndose constar el día y hora en el que se presenta, dando cuenta al Juez, Juez de instrucción, Juez Oral o Magistrado, según sea el caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1020.
+
+El fedatario será el que realice el cotejo de los documentos que se presentan ante la administración y las certificaciones correspondientes, asimismo auxiliará en las funciones jurídicas de notificación y en el cómputo de los términos judiciales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1021.
+
+La administración cuidará que los expedientes sean cosidos y exactamente foliados, al agregarse cada una de las hojas y pondrán el sello del juzgado que corresponda en el fondo del cuaderno, de manera que queden debidamente selladas las dos caras.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1022.
+
+Se podrá solicitar, ante la Administración de Gestión Judicial, copia simple de los documentos o resoluciones que obran en autos, o parte de ellos. Así también, los interesados, podrán obtener copias del expediente, valiéndose de cualquier otro medio tecnológico, bastando que lo soliciten verbalmente, sin que se requiera decreto judicial, dejando constancia en autos de su recepción.
+
+Igualmente, podrán solicitar por escrito o por correo electrónico, copia certificada de cualquier documento que obre en juicio y de los medios de registro de las audiencias, que la ley determine o deba darse a las partes en virtud de decreto judicial, las cuales deberán ser certificadas por el fedatario adscrito.
+
+Cuando la parte interesada solicite copia certificada de uno o varios documentos completos, en ningún taso se dará vista a la contraria. Al entregarse las copias certificadas, el que las reciba debe dejar en autos razón y constancia de su recibo.
+
+Lo anterior con excepción de los casos señalados en la Ley de Transparencia y Acceso a la Información Pública del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1023.
+
+El juez, al recibir los escritos que le fueren turnados por parte del Administrador de Gestión Judicial, realizará el acuerdo correspondiente, que será firmado por él y el Secretario de Acuerdos, con excepción de los procedimientos orales, en cuyo caso será firmado únicamente por el Juez de Instrucción; una vez realizado el acuerdo se remitirá al Administrador de Gestión Judicial para que éste, en caso de ser necesario, lo turne para su notificación al actuario correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1024.
+
+Los acuerdos y notificaciones que dicte en audiencia el Juez deberá remitirlas al Administrador de Gestión Judicial para que éste a su vez les dé el trámite correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1025.
+
+Los actuarios serán los encargados de llevar a cabo las notificaciones ordenadas por los jueces, jueces de instrucción, Jueces de oralidad o magistrados, según sea el caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1026.
+
+En cada audiencia el Encargado de la Sala hará constar oralmente la fecha, hora y el lugar de realización, así como el tipo de diligencia que se tratará en la audiencia y los nombres de los servidores públicos jurisdiccionales que la presiden y demás personas que intervendrán, haciéndole saber a las partes, comparecientes y público asistente, el orden, decoro y respeto que deberán observar. Asimismo, les harán saber que, en observancia a la privacidad de las personas que intervienen, se prohíbe ingresar a la sala con cámaras, teléfonos celulares, o cualquier medio electrónico que puedan ser utilizados para grabar una audiencia.
+
+Las partes que no cumplan con lo anterior serán desalojadas, y se les podrá aplicar cualquier corrección disciplinaria o medios de apremio establecidos en este Código.
+
+Corresponde previamente al Encargado de Sala verificar la identidad de los que intervendrán en las audiencias y hará constar la inasistencia de las partes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1027.
+
+El Administrador de Gestión Judicial será responsable de la custodia de los expedientes que se integren en el juicio, así como de los registros físicos y medios electrónicos que se deriven de las audiencias, ya sean orales o escritas, o cualquier otro medio idóneo que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido y el acceso a los mismos a quienes de acuerdo a la ley tuvieren derecho a ello.
+
+Cuando por cualquier causa se dañe el soporte material del registro afectando su contenido, el Juez de Instrucción ordenará reemplazarlo, en todo o en parte, por una copia fiel, que obtendrá de quien la tuviere, si no dispone de ella directamente.
+
+Lo anterior con excepción de los casos en que la Ley de Transparencia y Acceso a la Información Pública del Estado obligue a la autoridad a negar el acceso público a la información.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1028.
+
+El Administrador de Gestión Judicial de los Juzgados será responsable de los aparatos y el personal de auxilio necesarios para tener acceso a los registros del procedimiento, a fin de conocer su contenido, pudiendo tomar apuntes.
+
+Lo anterior con excepción de los casos en que la Ley de Transparencia y Acceso a la Información Pública del Estado, obligue a la autoridad a negar el acceso público a la información.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 1029.
+
+Todas las audiencias de desahogo de pruebas y alegatos, así como la inicial y de juicio, serán agendadas por el administrador de gestión judicial a petición del juez o magistrado, según sea el caso.
+
 TITULO ESPECIAL
 
 De los Juzgados Menores
 
 De la Justicia de Paz
-
-### CAPÍTULO SEGUNDO. JURISDICCIÓN VOLUNTARIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1o.
 
@@ -7683,7 +8205,11 @@ PRIMERO.- Estas reformas al Código de Procedimientos Civiles para el Estado Lib
 
 SEGUNDO.- El procedimiento oral en materia familiar que prevén las reformas contenidas en el presente Decreto, se aplicará en principio únicamente en el Distrito Judicial de Chetumal. Con respecto a su aplicación en el resto de los Distritos Judiciales de la Entidad, ésta se hará de manera gradual y preferentemente en los siguientes Distritos Judiciales y conforme la siguiente calendarización:
 
-a) En el Distrito Judicial de Cancún, hasta el 16 de agosto del año 2013.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+a) En el Distrito Judicial de Cozumel, hasta el 16 de agosto del año 2013.
 
 b) En el Distrito Judicial de Felipe Carrillo Puerto, hasta el 16 de agosto de 2015.
 
@@ -7732,3 +8258,27 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el
 SEGUNDO.- La aplicación del presente decreto será únicamente en el Distrito Judicial de Chetumal. Con respecto a su aplicación en el resto de los Distritos Judiciales de la entidad, se procederá conforme a lo que se previó en el artículo segundo transitorio del Decreto 419, publicado en el Periódico Oficial del Estado en fecha 10 de Febrero del 2011 y aprobado por la Décima Segunda Legislatura del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, cuando inicie su vigencia el Decreto por el que se reforma el párrafo tercero de (sic) artículo 98 y se deroga el último párrafo del artículo 101 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+Segundo. Los procedimientos orales en materia familiar establecidos en las fracciones I, II, III, IV, V y X del artículo 892 del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, contenidas en el presente decreto, seguirán rigiéndose conforme a lo que prevé el artículo segundo transitorio del Decreto 419, publicado en el Periódico Oficial del Estado en fecha 10 de Febrero del 2011 y aprobado por la Décima Segunda Legislatura del Estado.
+
+Los procedimientos orales en materia familiar iniciados con antelación a la entrada en vigor de esta reforma, serán concluidos conforme a las disposiciones vigentes con anterioridad a este Decreto.
+
+Tercero. Los procedimientos orales en materia civil establecidos en las fracciones VI al IX del artículo 892 del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, que prevé las reformas contenidas en el presente Decreto, entrarán en vigor de manera gradual y preferentemente en los siguientes Distritos Judiciales y conforme a la siguiente calendarización:
+
+a) En el Distrito Judicial de Cozumel, hasta el día diecisiete del mes de marzo de 2014.
+
+b) En el Distrito Judicial de Solidaridad, hasta el día diecisiete de noviembre de 2014.
+
+c) En el Distrito Judicial de Cancún, hasta el diecisiete de marzo de 2015.
+
+d) En los restantes Distritos Judiciales de la entidad, hasta el diecisiete de marzo de 2016.
+
+Cuando de forma extraordinaria a lo previsto en el calendario antes citado, el Consejo de la Judicatura del Poder Judicial del Estado, considere que existen las condiciones necesarias para la implementación de las reformas en alguno de los distritos judiciales del Estado, en alguna fecha previa a las establecidas en el calendario referido, la Legislatura del Estado o en su caso, la Diputación Permanente, previa comunicación que le formule el Consejo de la Judicatura del Estado, emitirá la Declaratoria, que se publicará en el Periódico Oficial del Estado, en la que se señale expresamente que el procedimiento oral en materia civil contenido en el presente Decreto, se aplicará en el Distrito o Distritos Judiciales a que se contraiga la comunicación antes referida.
+
+Cuarto. El título Vigésimo Tercero denominado "De La Administración De Gestión Judicial" del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, únicamente aplicará para los juzgados que el Consejo de la Judicatura determine mediante acuerdo.
+
+Quinto.- El Consejo de la Judicatura del Estado debe realizar las adecuaciones necesarias en el Reglamento de la Visitaduría Judicial del Consejo de la Judicatura del Poder Judicial del Estado de Quintana Roo.
