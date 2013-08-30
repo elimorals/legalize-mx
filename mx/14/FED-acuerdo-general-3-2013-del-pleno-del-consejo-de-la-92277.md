@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2013-08-09"
+last_updated: "2013-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE AGOSTO DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -137,7 +137,9 @@ III. TERCER CIRCUITO:
 
 2. Cinco tribunales unitarios con residencia en Zapopan.
 
-3. Veintitrés juzgados de Distrito especializados: siete de Procesos Penales Federales con sede en Puente Grande, Municipio de Juanacatlán; cuatro de Amparo en Materia Penal; seis en materia administrativa y de trabajo, y seis en materia civil, todos con residencia en Zapopan.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 24/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE AGOSTO DE 2013)</small>
+
+3. Veinticuatro juzgados de Distrito especializados: siete de Procesos Penales Federales con sede en Puente Grande, Municipio de Juanacatlán; cuatro de Amparo en Materia Penal, siete en materias administrativa y de trabajo, y seis en materia civil, todos con residencia en el Municipio de Zapopan.
 
 > <small>(ADICIONADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 12/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE ABRIL DE 2013)</small>
 
@@ -814,3 +816,11 @@ CUARTO. Los amparos indirectos y los recursos derivados de los mismos que se pre
 QUINTO. A fin de equilibrar las cargas de trabajo que llegaren a presentarse en los Juzgados de Distrito y Tribunales Colegiados de Circuito en Materia Administrativa Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en el Distrito Federal, la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal podrá establecer su competencia temporal compartida con otros órganos jurisdiccionales del primer circuito para el conocimiento de asuntos diversos de naturaleza administrativa, así como regular el turno, total o parcial, de los mismos.
 
 SEXTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 20/2009 y al Acuerdo General 3/2013, ambos del Pleno del Consejo de la Judicatura Federal.
+
+D.O.F. 30 DE AGOSTO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito.
