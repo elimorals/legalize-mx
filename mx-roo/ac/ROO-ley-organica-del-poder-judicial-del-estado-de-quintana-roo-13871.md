@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2013-05-15"
+last_updated: "2013-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -449,11 +449,13 @@ V.- De los demás asuntos que le encomienden las leyes o acuerde el Tribunal Ple
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 32
 
-Bis.- En materia de oralidad familiar y en los casos previstos en el Código de Procedimientos Civiles vigente en el Estado, los recursos de apelación interpuestos ante los jueces orales, se tramitarán y resolverán de manera unitaria, atendiendo a las disposiciones legales que regulan dicho procedimiento.
+Bis.- En materia de oralidad civil, familiar y en los casos previstos en el Código de Procedimientos Civiles vigente en el Estado, los recursos de apelación interpuestos ante los jueces orales, se tramitarán y resolverán de manera unitaria, atendiendo a las disposiciones legales que regulan dicho procedimiento.
 
 #### Sección Sexta. De los Magistrados del Tribunal Superior de Justicia
 
@@ -471,9 +473,11 @@ IV.- Vigilar que las labores del tribunal se desarrollen con normalidad comunica
 
 V.- Conceder audiencia a los interesados en los asuntos de que conozcan; y (sic)
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI.- En aquellos casos de materia de oralidad familiar el magistrado de numero deberá tramitar y resolver de forma unitaria los recursos de apelación, que por turno le corresponda, atendiendo a las disposiciones legales que regulan dicho procedimiento; y,
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+VI. En aquellos casos de materia de oralidad civil y familiar el magistrado de numero deberá tramitar y resolver de forma unitaria los recursos de apelación, que por turno le corresponda, atendiendo a las disposiciones legales que regulan dicho procedimiento, y
 
 VII.- Las demás que les encomienden las leyes.
 
@@ -715,21 +719,29 @@ En el caso a que se refiere el artículo anterior, el Pleno del Consejo de la Ju
 
 Los Jueces de Primera Instancia conocerán de todos los asuntos de la competencia de los Juzgados de Paz, cuando en el Distrito de su residencia no funcionen éstos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 58.
 
-Los Juzgados estarán a cargo de un Juez, que será el titular del órgano y contarán con el número de Secretarios, Actuarios y demás servidores públicos que requieran conforme a las necesidades del servicio y a la capacidad presupuestal. Además, uno o más Juzgados a la vez contarán con una administración concentrada, la cual estará a cargo de un Administrador de Gestión Judicial, quien dispondrá de un fedatario, notificadores y demás servidores públicos y personal administrativo que se requiera. Para ello, el Consejo de la Judicatura del Estado determinará en cuales distritos judiciales se establecerán este sistema de gestión judicial, así como también la competencia que tendrá la administración, sobre uno o más juzgados, atendiendo a la actividad y el número de juzgados existentes por cada distrito judicial.
+Los Juzgados y Tribunales Unitarios estarán a cargo de un Juez o Magistrado respectivamente, que será el titular del órgano y contará con el número de Secretarios, Actuarios y demás servidores públicos que requieran conforme a las necesidades del servicio y a la capacidad presupuestal, según sea la determinación del consejo. Así también, podrán contar uno o más juzgados, o uno o más magistrados unitarios a la vez, con una administración concentrada, la cual estará a cargo de un Administrador de Gestión Judicial, quien dispondrá de fedatarios, actuarios, secretarios de actas mínimas, encargados de sala y demás servidores públicos y personal administrativo que se requiera. Para ello, el Consejo de la Judicatura del Estado determinará en cuáles distritos judiciales se establecerán este sistema de gestión judicial, así como también la competencia que tendrá la administración, sobre uno o más juzgados, atendiendo a la actividad y el número de juzgados o tribunales unitarios existentes por cada distrito judicial.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+Los juzgados orales y los Tribunales unitarios contarán con el número de Jueces y Magistrados que el servicio requiera y, además, con el personal siguiente:
 
-Los Juzgados y Tribunales Orales contarán con el número de Jueces que el servicio requiera y, además, con el personal siguiente:
+I. Un administrador de Gestión Judicial;
 
-I.- Un Administrador de Gestión Judicial;
+II. Fedatarios;
 
-II.- Notificadores; y
+III. Actuarios;
 
-III.- El personal auxiliar que determine el Consejo de la Judicatura.
+IV. Secretarios de Actas Mínimas;
+
+V. Encargados de Salas;
+
+VI. Secretarios Auxiliares, y
+
+VII. El personal auxiliar que determine el Consejo de la Judicatura.
 
 ###### Artículo 59.
 
@@ -841,6 +853,18 @@ II.- Remitir al Fondo Para mejoramiento en la Administración e impartición de 
 
 III.- Visitar los centros preventivos o de readaptación social, a fin de cerciorarse de que no exista privación ilegal de libertad de persona alguna.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+Artículo 64 BIS.- Son obligaciones de los jueces de instrucción:
+
+I. La recepción, análisis y admisión de la demanda, contestación, reconvención y contestación a la misma;
+
+II. Acordar las diversas promociones presentadas que no tengan que ventilarse en la audiencia oral; y
+
+III. Acordar las diversas promociones presentadas en ejecución de sentencia.
+
 #### Sección Tercera. De los Juzgados de Primera Instancia
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
@@ -849,9 +873,11 @@ III.- Visitar los centros preventivos o de readaptación social, a fin de cercio
 
 Los Juzgados de Primera Instancia conocerán de los asuntos del orden civil, mercantil, familiar, penal o competencia mixta, conforme a la organización jurisdiccional establecida por esta Ley o la que determine el Pleno del Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La administración de los Juzgados y Tribunales Orales estarán a cargo de un Administrador de Gestión Judicial.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+La gestión administrativa que señala el artículo 58 de esta Ley, en los juzgados y tribunales que el Consejo determine, estarán a cargo de un Administrador de Gestión Judicial.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -1291,73 +1317,141 @@ VI.- Levantar inmediatamente las actas correspondientes, haciendo constar en ell
 
 VI.- Las demás que las leyes y los Jueces determinen.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 86
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2013)</small>
 
-Bis.- Los Administradores de Gestión Judicial de los Juzgados y Tribunales orales, tendrán las siguientes facultades comunes:
+###### Artículo 86 Bis.
+
+Los Administradores de Gestión Judicial de los Juzgados y Tribunales que el Consejo de la Judicatura determine, tendrán las siguientes facultades comunes:
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 I.- Dirigir las labores administrativas de los juzgados o tribunales de su adscripción;
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 II.- Supervisar el desempeño de los servidores públicos a su cargo;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 III.- Llevar el manejo administrativo y la custodia de las salas de audiencias, juzgados y tribunales a su cargo, a fin de que se encuentren en condiciones óptimas de uso;
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 IV.- Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles asignados;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 V.- Supervisar por turno la distribución de los asuntos entre los jueces o tribunales.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 VI.- Supervisar la programación de las diligencias a desarrollarse en los recintos de audiencia a su cargo.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 VII.- Elaborar y remitir los informes estadísticos anuales, mensuales y demás que determine el Consejo de la Judicatura.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 VIII.- Recibir, inventariar, custodiar y entregar los bienes y valores que se encuentren a disposición de los juzgados o tribunales.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 IX.- Controlar el manejo de registros de los asuntos tramitados en el juzgado o tribunal.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 X.- Cotejar las actuaciones con sus reproducciones, para fidelidad de estos documentos.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 XI.- Revisar físicamente los expedientes digitalizados de los juicios o de las causas.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 XII.- Dar cuenta de la correspondencia al juez de despacho, al de instrucción u oral, según sea el caso.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 XIII.- Tramitar la correspondencia administrativa del juzgado o tribunal.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 XIV.- Auxiliar al titular de juzgado o tribunal en el trámite de los juicios de amparo.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 XV.- Auxiliar en el desahogo de las audiencias.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 XVI.- Elaborar y mantener actualizado el registro de los sujetos procesales que intervienen en cada caso.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 XVII.- Dar cuenta al titular del árgano jurisdiccional respectivo de los medios de impugnación que se hagan valer.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 XVIII.- Atender los requerimientos que formule la Unidad de Información del Poder Judicial.
 
-XIX.- Coordinar el trabajo de los notificadores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+XIX.- Coordinar el trabajo de los actuarios;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 XX.- Verificar que se realicen las notificaciones que se hayan ordenado.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 XXI.- Tener a su cargo el archivo del órgano jurisdiccional.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 XXII.- Remitir al archivo general los asuntos que se encuentren concluidos.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 XXIII.- Verificar que las audiencias queden registradas en los medios instrumentados para tal efecto.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 XXIV.- Ingresar y ubicar en las salas de audiencias, en el lugar que les corresponda, a los sujetos procesales, testigos, peritos y demás intervinientes.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 XXV.- Cumplir durante las audiencias, con las instrucciones que emita el titular del órgano jurisdiccional.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 XXVI.- Realizar las tareas administrativas que le encomienden los titulares de los órganos jurisdiccionales de su adscripción.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 XXVII.- Tomar las medidas administrativas necesarias para la buena marcha de los asuntos.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 XXVIII.- Instrumentar un expediente judicial de cada asuntos (sic) que sea sometido a la competencia de los órganos jurisdiccionales de su adscripción.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 XXIX.- Remitir los valores y garantías que se reciban en el juzgado o tribunal dentro de los plazos señalados en las disposiciones administrativas.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 XXX.- Vigilar que el rol de turnos de jueces y demás personal del juzgado o tribunal se realice en los términos autorizados por el Consejo de la Judicatura.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+
 XXXI.- Supervisar que en cada audiencia se redacte el acta mínima correspondiente.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 XXXII.- Las demás que determine la Ley o el Consejo de la Judicatura.
 
@@ -1372,6 +1466,54 @@ I.- Ser mayor de veinticinco años;
 II.- Ser licenciado en Derecho o licenciado en Administración o carrera afín; y
 
 III.- No haber sido condenado por delito doloso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 86 Quáter.
+
+Los Fedatarios de los Juzgados y Tribunales, tendrán las siguientes facultades:
+
+I. Recibir y proporcionar los datos que sean necesarios para rendir los informes de labores, en lo que respecta a sus funciones;
+
+II. Otorgar a los interesados autorización para sacar copias del expediente, valiéndose de cualquier medio electrónico;
+
+III. Expedir las copias certificadas que la ley determine o deban darse a las partes en virtud de decreto judicial;
+
+IV. Entregar a las partes documentos autorizados por el Juez;
+
+V. Cotejar y certificar todo tipo de documentos que las partes adjuntan a los escritos, dejando constancia de lo realizado en el expediente;
+
+VI. Expedir y certificar las copias de los medios de registro de las audiencias que la ley determine o deban darse a las partes en virtud de decreto judicial;
+
+VII. Cotejar que estén debidamente digitalizados los expedientes, y
+
+VIII. Certificar el medio electrónico en donde se encuentre registrada la audiencia respectiva, verificando que contenga lo que sucedió en la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 86 Quinquies.
+
+Son obligaciones de los Secretarios de Actas Mínimas de los Juzgados y Tribunales:
+
+I. Levantar en acta una relación sucinta de lo acontecido en las audiencias que se lleven a cabo en los procedimientos orales;
+
+II. En segunda instancia, realizar una síntesis de los agravios expuestos y la postura de la contraparte; y
+
+III. Dar cuenta y acordar las promociones que se reciban en el Tribunal Unitario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+Artículo 86 Sexties.- Son obligaciones de los Secretarios Auxiliares:
+
+I. Formular los proyectos de acuerdos que le sean encomendados por el Juez, y
+
+II. Las demás labores que sean necesarias para el buen funcionamiento del Juzgado.
 
 ## TITULO TERCERO. DE LA ORGANIZACION ADMINISTRATIVA DEL PODER JUDICIAL
 
@@ -1733,63 +1875,139 @@ XIII.- Diseñar, elaborar y mantener actualizada una página de Internet y los s
 
 La vigilancia judicial tiene por objeto velar por que la justicia se imparta oportuna y eficazmente, y conlleva al examen de la conducta de los servidores de la impartición y administración de justicia y puntual desempeño de sus deberes.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 106.
 
-La Visitaduría Judicial es el órgano auxiliar del Consejo de la Judicatura competente para inspeccionar el funcionamiento de los Juzgados de Primera Instancia y de Paz, así como para supervisar las conductas de los integrantes de estos órganos.
+La Visitaduría es el órgano auxiliar del Consejo de la Judicatura, competente para inspeccionar el funcionamiento de los Tribunales Unitarios, Juzgados de Primera Instancia, Juzgados de Control, Tribunales de Juicio Oral, Juzgados de Ejecución de Sentencias, Juzgados de Paz, Tribunal y Juzgados de Justicia para Adolescentes, Centro de Justicia Alternativa, Sistema de Justicia Indígena, Centro de Convivencia Familiar Supervisada y demás órganos del Poder Judicial, con excepción del Pleno del Tribunal Superior de Justicia del Estado y sus salas.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 107.
 
-Las funciones que en esta ley se confieran a la visitaduría judicial, serán ejercitadas por el magistrado y juez consejeros.
+La Visitaduría del Poder Judicial, estará integrada por:
 
-El Consejo de la Judicatura establecerá, a propuesta del Presidente, mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño de los Consejeros Visitadores.
+I. Un Visitador General,
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+II. Los Visitadores de zona o por materia que determine el Consejo;
+
+III. Los Visitadores Auxiliares; y
+
+IV. El demás personal técnico y operativo que determine el Consejo de acuerdo a la capacidad presupuestal.
+
+El Visitador General, deberá ser Juez de Primera Instancia, gozar de amplia experiencia y conocimiento del funcionamiento de los órganos jurisdiccionales y no haber sido sancionado por falta grave. Será designado por el Consejo de la Judicatura, a propuesta de su Presidente, y durará cuatro años en el ejercicio de su encargo, prorrogable por una sola vez por el mismo período, a propuesta del Consejo de la Judicatura. Una vez concluido su encargo, se reincorporará a su función de juez.
+
+El Visitador de zona o por materia, deberá ser preferente Secretario de Juzgado o Secretario de Estudio y Cuenta de Sala, y no haber sido sancionado por falta grave por el Consejo. Será designado por el Consejo de la Judicatura, a propuesta de su Presidente. Durará tres años en el ejercicio de su encargo, prorrogables por una sola vez por el mismo período, a consideración del Consejo de la Judicatura. Una vez concluido su encargo, se reincorporará a su puesto.
+
+Las funciones que está ley le confiere al Visitador General podrán ser ejercidos por el visitador judicial que determine el Consejo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 108.
 
-Los Visitadores ejercerán sus funciones de conformidad con las disposiciones generales que emita el Consejo de la Judicatura para tal efecto y conforme a las instrucciones de su Presidente.
+El Visitador General y los Visitadores ejercerán sus funciones de conformidad con el Reglamento y los acuerdos que emita el Consejo de la Judicatura del Estado, con base en lo siguiente:
 
-Los visitadores, de acuerdo con los sorteos periódicos que realice el secretario ejecutivo de disciplina, deberán inspeccionar de manera ordinaria los juzgados de primera instancia, de paz, el centro de asistencia Jurídica y el Sistema de Justicia Indígena, cuando menos, dos veces por año, de conformidad con las disposiciones generales que emita el Consejo de la Judicatura Estatal en esta materia.
+A. El Visitador General tendrá las siguientes obligaciones:
 
-Ningún visitador, podrá visitar los mismos órganos más de dos años.
+I. Informar a los distintos órganos de las visitas ordinarias de inspección que se vayan a practicar, a fin de que se proceda a fijar el correspondiente aviso en un lugar visible en que se llevará a cabo la visita, con quince días de anticipación, para efecto de que las personas interesadas puedan acudir a la visita y manifestar lo que a su derecho corresponda;
 
-Los visitadores deberán informar con la debida oportunidad al Presidente del Tribunal, de las visitas ordinarias de inspección que se vayan a practicar a fin de que se proceda a fijar el correspondiente aviso en los estrados del órgano, con una anticipación mínima de quince días. Para el efecto de que las personas interesadas puedan acudir a la visita y manifestar sus quejas o denuncias.
+II. Planear, programar, coordinar e implementar la práctica de las visitas que la ley y el reglamento contemplan;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+III. Solicitar al Consejo de la Judicatura que se emitan las medidas provisionales que, por su naturaleza y urgencia, así lo ameriten, en caso de que durante el desarrollo de alguna visita de inspección, se advierta la existencia de algún acto que pudiera lesionar gravemente la impartición de justicia;
+
+IV. Remitir al Consejo de la Judicatura las correspondientes actas de visita que se levanten, informando los resultados, respecto a las supervisiones de conducta de los servidores públicos de los órganos visitados;
+
+V. Solicitar a los órganos auxiliares y áreas administrativas del Consejo, así como a los órganos jurisdiccionales, la información que se requiera para la realización de las funciones de la Visitaduría;
+
+VI. Proponer al Consejo de la Judicatura, cuando exista razón fundada, la práctica de la visita de inspección correspondiente, o bien la investigación de algún hecho o acto concreto relacionado con el funcionamiento de algún órgano de los señalados en el artículo 106 de la presente ley, con la conducta o el desempeño de cualquier funcionario o empleado judicial que pudiera ser constitutivo de causa de responsabilidad;
+
+VII. Instruir el cumplimiento, o cumplir por sí mismo, los acuerdos emitidos por el Consejo de la Judicatura, para la investigación de un hecho relacionado con algún servidor público de los órganos referidos en el artículo 106 de la presente ley;
+
+VIII. Implementar las visitas extraordinarias programadas que el Consejo de la Judicatura acuerde. De no hacerse especial designación, el Visitador General señalará al visitador que se encargará de realizarla;
+
+IX. Rendir los informes al Consejo de la Judicatura, que sean requeridos a la Visitaduría;
+
+X. Rendir al Consejo de la Judicatura, cada seis meses, un informe detallado de labores;
+
+XI. Emitir los dictámenes de las visitas realizadas, los cuales incluirán las recomendaciones correspondientes. Se deberá dar seguimiento al cumplimiento de dichas recomendaciones y se informará oportunamente al Consejo de la Judicatura en caso de que algún servidor público no cumpla con éstas;
+
+XII. Remitir al Consejo de la Judicatura y a la Dirección de Recursos Humanos copia de las recomendaciones que se deriven de los dictámenes respectivos, para la integración al expediente personal y el seguimiento respectivo, y
+
+XIII. Las demás que le confieran la ley, el reglamento así como las disposiciones que en la materia emita el Consejo.
+
+En ausencia del Visitador General, los dictámenes a que se hace referencia en la fracción XI, serán emitidos por el Magistrado o Juez Consejeros, que por turno corresponda, de conformidad con el acuerdo que emita el Consejo de la Judicatura.
+
+B. Los Visitadores de Zona o Materia, tendrán las siguientes obligaciones:
+
+I. Practicar las visitas ordinarias y especiales a los órganos que determine el Consejo de la Judicatura o el Visitador General, para verificar su debido funcionamiento;
+
+II. Dar cuenta al Visitador General de las irregularidades que adviertan sobre el funcionamiento de los órganos visitados y la disciplina del personal adscrito a éstos, con motivo de las visitas realizadas, las cuales las deberá consignar en el acta respectiva y soportarlas con los elementos de prueba que estimen necesarios, para lo cual el Visitador podrá solicitar copia certificada de los documentos en que consten dichos elementos, e inclusive realizar las investigaciones que resulten conducentes.
+
+III. Dar seguimiento a las recomendaciones derivadas de los dictámenes emitidos con motivo de las visitas;
+
+IV. Informar al Visitador General del cumplimiento de sus determinaciones en los asuntos derivados de las visitas;
+
+V. Abstenerse de emitir juicios de aprobación o reprobación sobre el resultado de la visita ante personas distintas de las que integran el Consejo de la Judicatura o el Visitador General;
+
+VI. Rendir un reporte semestral dirigido al Visitador General, que contenga el concentrado de las visitas que se hayan realizado y el resultado que de éstas emita el Consejo,
+
+VII. Recibir quejas administrativas durante la práctica de las visitas, a partir de lo cual podrá proceder en los términos dispuestos en la parte final de la fracción II, con el fin de obtener elementos probatorios que las respalden y establecer la existencia o no de una infracción a la ley, así como presumir la responsabilidad del servidor público denunciado;
+
+VIII. Denunciar las causas de responsabilidad administrativa de los servidores públicos del Poder Judicial, en los términos establecidos en esta ley;
+
+IX. Asistir y estar presente en la audiencia llevada ante el Juez, cuando para tales efectos sea nombrado por el Consejo de la Judicatura;
+
+X. Suplir las ausencias temporales del visitador general, cuando así lo determine el Consejo de la Judicatura, o la de algún otro visitador, cuando lo disponga el Visitador General, y
+
+XI. Las demás que le asigne la ley, el reglamento o las disposiciones que emita el Consejo de la Judicatura.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 109.
 
-En las visitas ordinarias el Visitador Judicial General o los visitadores judiciales, considerando las particularidades de cada órgano, realizarán, además de lo que específicamente determine el Consejo de la Judicatura, lo siguiente:
+Las visitas, en cada órgano, se llevarán a cabo cuando menos dos veces por año, de conformidad con los acuerdos que emita el Consejo de la Judicatura y conforme a las disposiciones del reglamento.
 
-I.- Solicitar la lista del personal para comprobar su asistencia;
+Ningún visitador deberá supervisar los mismos órganos más de dos años consecutivos.
 
-II.- Verificar que los valores estén debidamente guardados, ya sea en la caja de seguridad del órgano visitado, o en alguna institución de crédito;
+En las visitas ordinarias el Visitador General o los Visitadores, considerando las particularidades de cada órgano, realizarán, además de lo que determine el Consejo de la Judicatura y el propio reglamento, lo siguiente:
 
-III.- Comprobar que se encuentren debidamente asegurados los instrumentos y objetos de delito;
+I. Pedirán la lista del personal para comprobar su asistencia;
 
-IV.- Revisar los libros de gobierno a fin de determinar si se encuentran en orden y contienen los datos requeridos;
+II. Verificarán el uso, funcionamiento y actualización del Libro de Gobierno Electrónico y demás sistemas de gestión judicial y electrónicos de registro, de acuerdo al órgano judicial de que se trate y aprobados por el Consejo de la Judicatura;
 
-V.- Hacer constar el número de asuntos que hayan ingresado al órgano visitado durante el tiempo que comprenda la visita, y determinar si los procesados que disfrutan de libertad caucional han cumplido con la obligación de presentarse en los plazos fijos, y el estado en que se encuentran los procesos en suspenso con relación al término de prescripción de la acción penal;
+III. Comprobar que se encuentran debidamente asegurados los instrumentos y objetos del delito;
 
-VI.- Examinar los expedientes a fin de verificar que se lleven con arreglo a la ley; que las resoluciones y acuerdos hayan sido dictados y cumplidos oportunamente; que las notificaciones y diligencias se efectúen en los plazos legales; que los exhortos y despachos hayan sido diligenciados; y que se observen los términos constitucionales y demás garantías que la Constitución Política de los Estados Unidos Mexicanos y la ley otorga a los procesados, víctimas y ofendidos.
+IV. Hacer constar el número de asuntos penales, civiles, familiares y mercantiles, de exhortos y requisitorias que hayan ingresado al órgano visitado durante el tiempo que comprenda la visita, y verificar si los procesados que disfrutan de libertad bajo caución han cumplido con la obligación de presentarse en los plazos fijados, y si en algún proceso en suspenso transcurrió el término de prescripción de la acción penal;
 
-Cuando el visitador advierta que en un proceso se venció el término para dictar sentencia o pronunciar otra resolución, recomendará que ésta se pronuncie a la brevedad posible. En cada uno de los expedientes revisados, se pondrá la constancia respectiva, y
+V. Examinar como mínimo diez expedientes escogidos en forma aleatoria, formados con motivo de las causas penales, asuntos civiles, familiares o mercantiles, con el fin de verificar que se tramitan dentro de los plazos y términos de ley; sin embargo, pueden examinar un número mayor de expedientes, cuando se considere necesario para cumplir con el objeto de la visita. Asimismo, deben revisar si se han respetado las etapas procesales correspondientes y si se han respetado los derechos humanos y las garantías que la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Quintana Roo otorga a los procesados;
 
-Revisar que se haya cumplido con la ley en los juicios de amparo en que el órgano visitado sea autoridad responsable;
+VI. Cuando el visitador advierta que en un proceso se venció el término para dictar sentencia o pronunciar otra resolución, recomendará que ésta se pronuncie a la brevedad posible. En cada uno de los expedientes revisados, se pondrá la constancia respectiva.
 
-De toda visita de inspección deberá levantarse acta circunstanciada, en la cual se hará constar el desarrollo de la misma, las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate, las manifestaciones que respecto de la visita o del contenido del acta quisieran realizar los propios titulares o servidores del órgano, y la firma del juez o titular que corresponda y la del visitador.
+VII. Verificar que, dentro del órgano visitado, los empleados y funcionarios públicos den cumplimiento a las obligaciones de ley;
 
-Una copia del acta levantada por el visitador se entregará al titular del órgano visitado y el original se remitirá a la Presidencia del Tribunal Superior de Justicia y al Consejo de la Judicatura, para los efectos legales procedentes.
+VIII. Verificar que las notificaciones que se realicen por lista sean publicadas y se coloquen en los estrados con oportunidad, y
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+IX. En el órgano visitado, los visitadores deben revisar las condiciones en que se archivan los expedientes y demás documentos importantes, así como la ubicación y distribución del local destinado para tal fin.
+
+De toda visita de inspección deberá levantarse acta circunstanciada, en la cual se hará constar el desarrollo de la misma, las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate, las manifestaciones que respecto de la visita o del contenido del acta quisieran realizar los propios titulares o servidores del órgano, la firma del juez o titular que corresponda y la del visitador. Se levantará en dos tantos, uno de ellos quedará en el propio órgano y el otro la conservará el visitador, para los efectos legales conducentes.
+
+Lo asentado en las actas circunstanciadas por los visitadores se tendrá como cierto, salvo prueba en contrario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 110.
 
-El Consejo de la Judicatura, por conducto de su Presidente, podrá ordenar a los Consejeros Visitadores la celebración de auditorías especiales que comprendan determinado período de tiempo y/o expedientes, así como visitas extraordinarias de inspección o la integración de comités de investigación, siempre que a juicio existan elementos que hagan presumir irregularidades cometidas por algunos de los integrantes del Poder Judicial sujetos a su supervisión.
+El Consejo de la Judicatura, por conducto de su Presidente, podrá ordenar la celebración de auditorías especiales que comprendan determinado período de tiempo y/o expedientes, así como visitas extraordinarias de inspección o la integración de comités de investigación, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por algunos de los integrantes del Poder Judicial sujetos a supervisión.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -1807,11 +2025,13 @@ El ingreso y la promoción de los servidores públicos de carácter jurisdiccion
 
 Para ser Juez de Primera Instancia o de Paz se requiere cumplir los requisitos que señala el artículo 101 de la Constitución Política del Estado, con excepción de la edad que deberá ser de veintiocho años, por lo menos, cumplidos al día de su designación y del título y de la cédula profesional que deberá tener una antigüedad mínima de cinco años al día de su nombramiento.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 113.
 
-Para ser Secretario de Acuerdos de las Salas y Juzgados; Secretario de Estudio y Cuenta y Actuarios, se requiere satisfacer los mismos requisitos exigidos para ser Juez, con excepción de la edad mínima que deberá ser de veinticuatro años de edad y contar con título y cédula profesional, sin ninguna condicionante en cuanto al tiempo de expedición; no obstante deberán acreditar un mínimo de práctica de un año y haber acreditado los cursos que al efecto imparta la Escuela Judicial.
+Para ser Secretario de Acuerdos de las Salas y Juzgados; Secretario de Estudio y Cuenta; Fedatario y Actuario, se requiere satisfacer los mismos requisitos exigidos para ser Juez, con excepción de la edad mínima que deberá ser de veinticuatro años de edad y contar con título y cédula profesional, sin ninguna condicionante en cuanto al tiempo de expedición; no obstante deberán acreditar un mínimo de práctica de un año y haber acreditado los cursos que al efecto imparta la Escuela Judicial.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -1873,45 +2093,69 @@ Los magistrados numerarios del Tribunal Superior de Justicia del Estado tienen d
 
 ### CAPITULO VII. DE LA CARRERA JUDICIAL
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 116.
 
 La Carrera Judicial estará integrada por las siguientes categorías:
 
-I.- Jueces de Primera Instancia;
+A) TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, JUZGADOS DE PRIMERA INSTANCIA Y JUZGADOS DE PAZ.
 
-II.- Jueces de Paz;
+I. Juez de Primera Instancia;
 
-III.- Secretario General de Acuerdos del Tribunal Superior de Justicia;
+II. Juez de Paz;
 
-IV.- Secretarios de Estudio y Cuenta de los Magistrados del Tribunal Superior de Justicia;
+III. Secretario General de Acuerdos del Tribunal Superior de Justicia;
 
-V.- Secretario de Acuerdos de Sala;
+IV. Secretario de Acuerdos de Sala;
 
-VI.- Secretarios de Estudio y Cuenta de Juzgados de Primera Instancia;
+V. Secretarios de Estudio y Cuenta de los Magistrados del Tribunal Superior de Justicia;
 
-VII.- Secretarios de Acuerdos de Juzgados de Primera Instancia;
+VI. Secretario de Acuerdos de Juzgado de Primera Instancia;
 
-VIII.- Secretario de Juzgados de Paz; y (sic)
+VII. Secretario de Estudio y Cuenta de Juzgado de Primera Instancia;
 
-IX.- Actuario del Poder Judicial del Estado.
+VIII. Secretario de Acuerdos de Juzgado de paz;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE ABRIL DE 2013)</small>
+IX. Actuario, y
 
-X.- Fedatario;
+X. Secretario Auxiliar.
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2013)</small>
+B) JUZGADO DE PRIMERA INSTANCIA CON ADMINISTRACIÓN DE GESTIÓN JUDICIAL.
 
-XI.- Secretario de Actas Mínimas;
+I. Juez de Primera Instancia;
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2013)</small>
+II. Administrador de Gestión Judicial;
 
-X (SIC).- Secretario Auxiliar.
+III. Secretario de Acuerdos;
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+IV. Secretario de Estudio y Cuenta;
 
-Los atributos de la carrera judicial, no se extinguen por promoción a otro cargo que no implique función jurisdiccional.
+V. Fedatario;
+
+VI. Actuario, y
+
+VII. Secretario Auxiliar.
+
+C) JUZGADO DE ORALIDAD.
+
+I. Juez de Primera Instancia de Oralidad;
+
+II. Juez de Instrucción;
+
+III. Administrador de Gestión Judicial;
+
+IV. Fedatario;
+
+V. Actuario;
+
+VI. Secretario Auxiliar;
+
+VII. Secretario de Actas Mínimas, y
+
+VIII. Encargado de sala.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -1926,6 +2170,30 @@ El Consejo de la Judicatura del Estado tendrá la facultad de obtener y verifica
 ###### Artículo 118.
 
 En los concursos internos de oposición únicamente podrán participar los de la categoría inmediata inferior, y en los concursos de oposición libre, podrán participar los aspirantes que satisfagan los requisitos contenidos en la Convocatoria que al efecto expida el Consejo de la Judicatura.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 118 Bis.
+
+Para ser Juez de Primera Instancia se requiere:
+
+I. Ser ciudadano mexicano por nacimiento y ciudadano quintanarroense, en ejercicio de sus derechos políticos civiles;
+
+II. No tener menos de veintiocho años de edad el día de la designación;
+
+III. Poseer al día de su designación, con título profesional de Licenciado en Derecho y Cédula Profesional con una antigüedad mínima de cinco años, expedido por la autoridad o institución legalmente facultada para ello;
+
+IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, peculado y cualquier otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+V. Haber residido en el Estado durante los diez años anteriores al día de la designación;
+
+VI. No pertenecer al Estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación, y
+
+VII. No haber sido Gobernador, Secretario de Despacho o su equivalente, Procurador General de Justicia, Senador, Diputado Federal o Local, ni Presidente Municipal, durante el año previo al día de su designación.
+
+Los jueces de paz y de Instrucción deberán reunir los mismos requisitos que se establecen para ser Juez de Primera Instancia, con excepción del título y de la cédula profesional que deberá tener una antigüedad mínima de tres años al día de su nombramiento.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2681,7 +2949,7 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 
 ###### ARTICULO SEGUNDO.
 
-Los recursos radicados en las Salas Civil y Penal del Tribunal Superior de Justicia y en el Tribunal Unitario con sede en Cancún, se seguirán tramitando en dichos Organos Jurisdiccionales, hasta en tanto el Pleno del Tribunal Superior de Justicia acuerde lo conducente de conformidad a las presentes reformas de la Ley Orgánica del Poder Judicial.
+Los recursos radicados en las Salas Civil y Penal del Tribunal Superior de Justicia y en el Tribunal Unitario con sede en Cancún, se seguirán tramitando en dichos Órganos Jurisdiccionales, hasta en tanto el Pleno del Tribunal Superior de Justicia acuerde lo conducente de conformidad a las presentes reformas de la Ley Orgánica del Poder Judicial.
 
 P.O. 15 DE FEBRERO DE 2002.
 
@@ -2774,3 +3042,27 @@ P.O. 15 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, cuando inicie su vigencia el Decreto por el que se reforma el párrafo tercero de (sic) artículo 98 y se deroga el último párrafo del artículo 101 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+SEGUNDO.- Los procedimientos orales en materia familiar establecidos en las fracciones I, II, III, IV, V y X del artículo 892 del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, contenidas en el presente decreto, seguirán rigiéndose conforme a lo que prevé el artículo segundo transitorio del Decreto 419, publicado en el Periódico Oficial del Estado en fecha 10 de Febrero del 2011 y aprobado por la Décima Segundo Legislatura del Estado.
+
+Los procedimientos orales en materia familiar iniciados con antelación a la entrada en vigor de esta reforma, serán concluidos conforme a las disposiciones vigentes con anterioridad a este Decreto.
+
+TERCERO.- Los procedimientos orales en materia civil establecidos en las fracciones VI al (sic) IX del artículo 892 del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, que prevé las reformas contenidas en el presente Decreto, entrarán en vigor de manera gradual y preferentemente en los siguientes Distritos Judiciales y conforme a la siguiente calendarización.
+
+a) En el Distrito Judicial de Cozumel, hasta el día diecisiete del mes de marzo de 2014.
+
+b) En el Distrito Judicial de Solidaridad, hasta el día diecisiete de noviembre de 2014.
+
+c) En el Distrito Judicial de Cancún, hasta el diecisiete de marzo de 2015.
+
+d) En los restantes Distritos Judiciales de la entidad, hasta el diecisiete de marzo de 2016.
+
+Cuando de forma extraordinaria a lo previsto en el calendario antes citado, el Consejo de la Judicatura del Poder Judicial del Estado, considere que existen las condiciones necesarias para la implementación de las reformas en alguno de los distritos judiciales del Estado, en alguna fecha previa a las establecidas en el calendario referido, la Legislatura del Estado o en su caso, la Diputación Permanente, previa comunicación que le formule el Consejo de la Judicatura del Estado, en la que se señale expresamente que el procedimiento oral en materia civil contenido en el presente Decreto, se aplicará en el Distrito o Distritos Judiciales a que se contraiga la comunicación antes referida.
+
+CUARTO.- El título Vigésimo Tercero denominado "De la Administración de Gestión Judicial" del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, únicamente aplicará para los juzgados que el Consejo de la Judicatura determine mediante acuerdo.
+
+QUINTO.- El Consejo de la Judicatura del Estado debe realizar las adecuaciones necesarias en el Reglamento de la Visitaduría Judicial del Consejo de la Judicatura del Poder Judicial del Estado de Quintana Roo.
