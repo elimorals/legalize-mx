@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2013-08-23"
+last_updated: "2013-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -101,9 +101,17 @@ VI.- Incluya mensajes que resulten contrarios a los derechos humanos que reconoc
 
 VII.- Tienda a generar alarma injustificada entre el público o presente su propia acción como algo violento;
 
-VIII.- No se identifique con claridad como mensaje de un sujeto obligado o no incluya su mención expresa como responsable de la publicación y difusión; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
-IX.- Publicite los productos o servicios del sector privado o utilice imágenes, colores, logotipos, sonidos u otros símbolos asociados a éste o cualquier partido político, incluyendo la promoción de donaciones sin fines de lucro.
+VIII.- No se identifique con claridad como mensaje de un sujeto obligado o no incluya su mención expresa como responsable de la publicación y difusión;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+IX.- Publicite los productos o servicios del sector privado o utilice imágenes, colores, logotipos, sonidos u otros símbolos asociados a éste o cualquier partido político, incluyendo la promoción de donaciones sin fines de lucro; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+X.- Incluya mensajes que utilicen de forma incorrecta el lenguaje, ya sea de forma hablada o escrita.
 
 El incumplimiento de estas disposiciones será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
@@ -2078,6 +2086,10 @@ P.O. 23 DE AGOSTO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El personal, los bienes, recursos presupuestales e información que la Secretaría de Protección Civil haya utilizado o estén asignados para la atención de los asuntos de su competencia, se destinarán a las atribuciones y funciones de la Coordinación Estatal de Protección Civil que se crea con este Decreto.
+
+P.O. 30 DE AGOSTO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
