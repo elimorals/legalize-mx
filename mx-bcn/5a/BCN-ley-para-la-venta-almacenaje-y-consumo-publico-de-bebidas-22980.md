@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2011-07-08"
+last_updated: "2013-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE BAJA CALIFORNIA
+LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -43,7 +43,7 @@ LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTA
 
 Del objeto de la ley.- La presente ley es de orden público, interés social y de observancia obligatoria en el Estado de Baja California. Tiene por objeto establecer las disposiciones generales mediante las cuales los municipios regularán la venta, almacenaje para su venta y la venta para consumo de bebidas alcohólicas, dentro de sus jurisdicciones territoriales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 2.
 
@@ -129,11 +129,15 @@ e).- Vinos generosos.- Las bebidas alcohólicas elaboradas con no menos de seten
 
 f).- Vinos de mesa.- Las bebidas alcohólicas fermentadas que se elaboran con el jugo de uvas, pudiendo contener gas carbónico de origen endógeno como ingredientes o aditivos, sin adicionar alcohol de calidad común o aguardiente de uva o de azúcar y cuyo contenido alcohólico a la temperatura de quince grados centígrados sea superior al dos por ciento por volumen, pero que no exceda de doce por ciento.
 
-VI.- Consejo.- El Consejo Consultivo Municipal, que se establezca conforme a lo dispuesto por esta Ley y el Reglamento;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2013)</small>
 
-VII.- Establecimiento.- El sitio, local o edificación habilitada y acondicionada conforme a los requisitos y condiciones derivados del reglamento, susceptible de ser autorizada para realizar cualquiera de las actividades a que se refiere la presente Ley;
+VI.- Bebidas alcohólicas adulteradas.- Bebida alcohólica cuya naturaleza o composición no corresponda a aquellas con que se etiquete, anuncie, expenda, suministre, o cuando no coincida con las especificaciones de su autorización o haya sufrido tratamiento que disimule su alteración, se encubran defectos en su proceso o en la calidad sanitaria de las materias primas utilizadas, de acuerdo con la Norma Oficial Mexicana Vigente.
 
-VIII.- Giro.- La actividad mercantil preponderante del establecimiento, que cumple con los requisitos necesarios conforme al reglamento, para que le sea otorgado un permiso para la venta, almacenaje para su venta o venta para consumo de bebidas alcohólicas, bajo la siguiente clasificación general:
+VII.- Consejo.- El Consejo Consultivo Municipal, que se establezca conforme a lo dispuesto por esta Ley y el Reglamento;
+
+VIII.- Establecimiento.- El sitio, local o edificación habilitada y acondicionada conforme a los requisitos y condiciones derivados del reglamento, susceptible de ser autorizada para realizar cualquiera de las actividades a que se refiere la presente Ley;
+
+IX.- Giro.- La actividad mercantil preponderante del establecimiento, que cumple con los requisitos necesarios conforme al reglamento, para que le sea otorgado un permiso para la venta, almacenaje para su venta o venta para consumo de bebidas alcohólicas, bajo la siguiente clasificación general:
 
 a).- Establecimientos susceptibles de ser autorizados para la venta de bebidas alcohólicas en envase cerrado:
 
@@ -181,17 +185,17 @@ d).- Establecimientos susceptibles de ser autorizados para la venta para consumo
 
 9).- Centro de Espectáculos.- Establecimiento mercantil cuya actividad exclusiva es proporcionar esparcimiento mediante la presentación de espectáculos públicos y que cuente con las instalaciones para tal efecto.
 
-IX.- Permiso.- La autorización por escrito que expide la autoridad competente para realizar la actividad de venta, almacenaje para su venta o venta para consumo de bebidas con graduación alcohólica;
+X.- Permiso.- La autorización por escrito que expide la autoridad competente para realizar la actividad de venta, almacenaje para su venta o venta para consumo de bebidas con graduación alcohólica;
 
-X.- Permisionario.- La persona física o moral, titular de un permiso;
+XI.- Permisionario.- La persona física o moral, titular de un permiso;
 
-XI.- Reglamento.- El Reglamento de esta Ley, que al efecto expidan los Ayuntamientos Municipales;
+XII.- Reglamento.- El Reglamento de esta Ley, que al efecto expidan los Ayuntamientos Municipales;
 
-XII.- Servicios adicionales.- Las actividades de diversión, entretenimiento o espectáculos, que se realicen o presenten en los establecimientos o giros autorizados para desarrollar cualquiera de las actividades a que se refiere esta Ley, bajo las modalidades que se determinen como tales en el Reglamento y que previo permiso otorgado, podrán explotar de manera temporal o permanente los permisionarios en sus establecimientos;
+XIII.- Servicios adicionales.- Las actividades de diversión, entretenimiento o espectáculos, que se realicen o presenten en los establecimientos o giros autorizados para desarrollar cualquiera de las actividades a que se refiere esta Ley, bajo las modalidades que se determinen como tales en el Reglamento y que previo permiso otorgado, podrán explotar de manera temporal o permanente los permisionarios en sus establecimientos;
 
-XIII.- Venta.- La comercialización de bebidas alcohólicas en envase cerrado, realizada en los establecimientos o giros autorizados para ello, con sujeción a las medidas y restricciones que establece esta Ley y los reglamentos Municipales; y
+XIV.- Venta.- La comercialización de bebidas alcohólicas en envase cerrado, realizada en los establecimientos o giros autorizados para ello, con sujeción a las medidas y restricciones que establece esta Ley y los reglamentos Municipales; y
 
-XIV.- Venta para consumo.- La comercialización al público de bebidas alcohólicas en envase abierto, para consumo directo en los establecimientos o giros autorizados para ello, con sujeción a las medidas y restricciones que establece esta Ley y los reglamentos Municipales.
+XV.- Venta para consumo.- La comercialización al público de bebidas alcohólicas en envase abierto, para consumo directo en los establecimientos o giros autorizados para ello, con sujeción a las medidas y restricciones que establece esta Ley y los reglamentos Municipales.
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJO CONSULTIVO MUNICIPAL
 
@@ -229,7 +233,7 @@ De la zonificación.- Para la expedición de permisos que autoricen cualesquiera
 
 ### CAPÍTULO TERCERO. DE LOS PERMISOS MUNICIPALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2002)</small>
 
 ###### ARTÍCULO 10.
 
@@ -359,7 +363,9 @@ III.- Quienes se les hubiere cancelado un permiso, por violaciones a esta Ley o 
 
 IV.- Quienes pretendan ubicar un establecimiento o giro a menos de cien metros de otros similares; excepción de aquellos que pretendan exclusivamente la venta para consumo con alimentos o se establezcan en zonas que el ayuntamiento determine como hoteleras, restauranteras o turísticas, las que se deberán precisar en sus límites;
 
-V.- A quienes pretendan ubicar un establecimiento o giro cuya actividad principal sea la venta para consumo de bebidas alcohólicas, a menos de ciento cincuenta metros de escuelas, lugares de atención o guarda de menores, iglesias, centros deportivos u otros giros similares; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+V.- A quienes pretendan ubicar un establecimiento o giro cuya actividad principal sea la venta para consumo de bebidas alcohólicas, a menos de ciento cincuenta metros de escuelas, lugares de atención o guarda de menores, iglesias, centros deportivos, parques públicos, hospitales u otros giros similares; y
 
 VI.- A quienes se encuentren en los supuestos que establezca el reglamento municipal correspondiente.
 
@@ -561,7 +567,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P. JORGE RAMOS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE ABRIL DE 2002.
 
@@ -569,7 +575,7 @@ UNICO.- La presente reforma entrará en vigencia al día siguiente de su publica
 
 P.O. 7 DE JUNIO DE 2002.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
 
 P.O. 14 DE NOVIEMBRE DE 2003.
 
@@ -620,3 +626,9 @@ CUARTO.- Los Ayuntamientos contarán hasta con 60 días naturales, contados a pa
 QUINTO.- Los permisionarios o quienes atiendan los establecimientos o giros contemplados en los incisos c) y d) de la Fracción VIII del artículo 6 de esta Ley, contarán hasta con 60 días naturales contados a partir de la entrada en vigor del presente decreto para contar con los servicios de uno o más sitios de taxi señalados en la fracción V del artículo 18 de esta Ley.
 
 SEXTO.- Los permisionarios o quienes atiendan los establecimientos o giros contarán hasta con 30 días naturales contados a partir de la implementación de los programas de control y prevención de ingestión de bebidas alcohólicas en conductores de vehículos, para contar dentro de sus establecimientos con la difusión a estos programas conforme a lo señalado en la fracción VII del artículo 18 de esta Ley.
+
+P.O. 30 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado de Baja California.
