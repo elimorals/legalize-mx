@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2013-08-27"
+last_updated: "2013-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA PARLAMENTARIA: 27 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA PARLAMENTARIA: 30 DE AGOSTO DE 2013.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -445,15 +445,15 @@ Los Diputados con igual afiliación de partido, podrán organizarse en Grupos Pa
 
 Los Diputados que no deseen o dejen de pertenecer a un Grupo Parlamentario o no puedan formar un Grupo Parlamentario por los requisitos establecidos en esta Ley, se les guardarán las consideraciones que a los Diputados coordinados, y apoyándolos en lo individual, conforme a las posibilidades y presupuesto del Congreso del Estado, para que puedan desempeñar sus funciones de representación popular.
 
-> <small>(REFORMADO [N DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
 
 El órgano de gobierno denominado Junta de Coordinación Política se integra con cada uno de los diputados coordinadores de los grupos parlamentarios de los partidos políticos con representación en el Congreso, así como por los diputados pertenecientes a partidos políticos que cuenten con un solo escaño. La Junta de Coordinación Política expresa la pluralidad del Congreso del Estado y toma sus resoluciones por el voto ponderado de sus integrantes, quienes se constituyen en representantes de su Grupo Parlamentario, procurando el máximo consenso posible.
 
-> <small>(REFORMADO [N DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
 
 El órgano de gobierno denominado Órgano Colegiado del Instituto de Estudios Legislativos se integra por un Presidente y tres Secretarios, todos ellos diputados del Congreso del Estado. El Presidente del órgano colegiado y los tres Secretarios serán nombrados por la Junta de Coordinación Política a propuesta de los coordinadores de cada uno de los grupos parlamentarios. El Órgano Colegiado del Instituto de Estudios Legislativos tomará sus decisiones y acuerdos por el voto de la mayoría de sus integrantes. La Presidencia se ejercerá por el lapso del periodo ordinario de sesiones.
 
-> <small>(REFORMADO [N DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
 
 La Presidencia de la Junta de Coordinación Política, la Presidencia de la Mesa Directiva y la Presidencia del Órgano Colegiado del Instituto de Estudios Legislativos del Congreso del Estado serán rotativas y no podrán recaer en Diputados del mismo grupo parlamentario.
 
@@ -477,7 +477,7 @@ Los Grupos Parlamentarios deberán entregar la documentación requerida en el ar
 
 Examinada por el Presidente del Congreso la documentación referida, dará cuenta de ella a la Asamblea y hará en su caso la declaratoria de reconocimiento de los Grupos Parlamentarios para los efectos de esta Ley.
 
-> <small>(REFORMADO [N DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
 
 El funcionamiento, las actividades y los procedimientos para la designación de los Coordinadores de los Grupos Parlamentarios, serán regulados por las normas estatutarias y los lineamientos de los respectivos partidos políticos, en el marco de las disposiciones de esta Ley.
 
@@ -487,7 +487,7 @@ El funcionamiento, las actividades y los procedimientos para la designación de 
 
 La Coalición Legislativa es el órgano que se conforma del acuerdo de los diputados con representación en el Congreso del Estado, con la finalidad de dar seguimiento y representación a sus plataformas, principios y acuerdos en beneficio de los intereses de la ciudadanía.
 
-> <small>(REFORMADO [N DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
 
 Se conformará en la segunda sesión ordinaria de la Legislatura entrante, presentando ante la Presidencia del Congreso para la declaratoria correspondiente, la siguiente documentación:
 
@@ -505,11 +505,11 @@ F) Forma de gobierno;
 
 G) Responsabilidades y derechos.
 
-> <small>(REFORMADO [N DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
 
 La Coalición Legislativa se tendrá como un solo órgano legislativo; su representación recae en un titular que se denominará Coordinador General, que asumirá el espacio que corresponda ante la Junta de Coordinación Política, teniendo voz y voto, tendrá además un vicecoordinador y tres secretarios que auxiliarán en las diversas tareas que se encomienden.
 
-> <small>(REFORMADO [N DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
 
 La Coalición Legislativa dispondrá, como si se tratase de un solo Grupo Parlamentario, de los espacios adecuados, asesores, personal y materiales necesarios para el cumplimiento de sus funciones, atendiendo al número de sus integrantes.
 
@@ -955,7 +955,7 @@ En tanto órganos colegiados, las comisiones tienen las atribuciones siguientes:
 
 12. Las demás que se derivan de esta Ley y su Reglamento y otras disposiciones aplicables.
 
-> <small>(REFORMADO [N DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
 
 ###### ARTÍCULO 58.
 
@@ -965,7 +965,7 @@ Las comisiones ordinarias que el Pleno determine para el ejercicio y cumplimient
 
 El Congreso podrá aumentar el número de las Comisiones ordinarias, según lo exija la importancia de la materia o asunto, estas se regirán por el Reglamento que determinará su organización y funcionamiento.
 
-> <small>(REFORMADO [N DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 59.
 
@@ -1187,7 +1187,7 @@ VI.- Vigilar y evaluar el avance presupuestal y programático del Órgano de Fis
 
 VII.- Presentar a la Junta de Coordinación Política, las propuestas de nombramiento o remoción del Titular del Órgano de Fiscalización Superior.
 
-> <small>(REFORMADO [N DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 27 DE AGOSTO DE 2013)</small>
 
 Para el cumplimiento de sus atribuciones, la Comisión de Fiscalización del Gasto Público, ordenará al Órgano de Fiscalización Superior, el estudio, análisis y opinión de los asuntos que le encomiende, así como el conocimiento, estudio y elaboración de los anteproyectos de dictamen con motivo del resultado de la fiscalización de la Cuenta Pública Anual de las entidades fiscalizables, previstas en la Ley de Fiscalización Superior para el Estado de Baja California.
 
@@ -1921,6 +1921,10 @@ El dictamen se presentará al Pleno del Congreso en los plazos señalados en el 
 
 Solo podrá dispensarse del trámite de ser turnada una iniciativa a la Comisión competente, en los asuntos que por acuerdo del Pleno del Congreso del Estado, por mayoría simple y en votación económica, se califiquen de urgente y de obvia resolución, de conformidad con lo dispuesto en la Constitución Local, la presente ley y su reglamento.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+Además de lo señalado en el párrafo anterior, para la procedencia de la dispensa de trámite resultará necesario cuando menos la existencia de determinados hechos que generen una condición de urgencia en la discusión y aprobación de una iniciativa de ley o decreto, que de no realizarse traería consecuencias negativas para la sociedad. Así mismo, la condición de urgencia deberá evidenciar la necesidad de omitirse los trámites parlamentarios correspondientes, sin que esto implique la afectación a principios o valores democráticos.
+
 > <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 120.
@@ -2642,3 +2646,7 @@ G.P. 27 DE AGOSTO DE 2013.
 PRIMERO.- Las presentes reformas entrarán en vigor el día 30 de septiembre del año 2013.
 
 SEGUNDO.- Publíquese en la Gaceta del Poder Legislativo del Estado de Baja California.
+
+P.O. 30 DE AGOSTO DE 2013.
+
+Único.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado, se publicará en la Gaceta del Poder Legislativo, enviándose al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
