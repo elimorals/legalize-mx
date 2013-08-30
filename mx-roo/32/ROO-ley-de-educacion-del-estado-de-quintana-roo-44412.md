@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-44412"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-14"
-last_updated: "2013-07-30"
+last_updated: "2013-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 14 de marzo de 2005
 
@@ -123,7 +123,11 @@ IX. Establecer y consolidar compromisos encausados a disminuir los rezagos socia
 
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
 
-X.- Favorecer una educación que proporcione a la sociedad una concepción de universalidad con el objetivo de reforzar en el educando los valores de la cultura de la legalidad a través del conocimiento y la observancia de la ley, la participación, la no discriminación, la tolerancia, la pluralidad, y el respeto a los derechos humanos alentando la construcción de relaciones democráticas sustentadas en la dignidad de la persona, la integridad de la familia y la convicción por el Interés general de la sociedad.
+X. Favorecer una educación que proporcione a la sociedad una concepción de universalidad con el objetivo de reforzar en el educando los valores de la cultura de la legalidad a través del conocimiento y la observancia de la ley, la participación, la no discriminación, la tolerancia, la pluralidad, y el respeto a los derechos humanos alentando la construcción de relaciones democráticas sustentadas en la dignidad de la persona, la integridad de la familia y la convicción por el Interés general de la sociedad.
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+X (SIC). Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático así como la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales.
 
 ###### Artículo 8.
 
@@ -1147,6 +1151,72 @@ VI. Las demás que señala la Ley, su reglamento y demás disposiciones aplicabl
 
 El Estado, por conducto de la Secretaría de Educación y Cultura, podrá, sin perjuicio de las atribuciones conferidas al Instituto Quintanarroense de la Cultura, celebrar convenios con los Ayuntamientos de cada Municipio, para coordinar o unificar sus actividades culturales y cumplir de mejor manera las responsabilidades a su cargo.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+## TÍTULO DÉCIMO. DE LA EDUCACIÓN AMBIENTAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 86.
+
+Para los efectos de esta Ley, la Educación Ambiental es la Instrucción con conocimientos ecológicos necesarios para adquirir formación y valores de preservación, cuidado y sostenimiento del medio ambiente en todas las actividades humanas, teniendo como finalidad fomentar entre los educandos una verdadera conciencia entre su entorno y el medio ambiente a través de los mecanismos adecuados.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 87.
+
+Son bases que sustentan la política estatal en materia de educación ambiental, las siguientes:
+
+I.- Proteger los recursos naturales del Estado de Quintana Roo;
+
+II.- Promover y difundir la riqueza natural del Estado en todos los escenarios y foros;
+
+III.- Fortalecer los programas destinados al desarrollo sustentable del Estado, y
+
+IV.- Fomentar el compromiso de los habitantes de Quintana Roo con el medio ambiente.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 88.
+
+El Estado por conducto de la Secretaría de Educación y Cultura podrá celebrar convenios con los ayuntamientos de cada municipio, para coordinar o unificar sus actividades en materia de educación ambiental.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 89.
+
+La Autoridad Educativa Estatal incluirá en sus planes y programas las adecuaciones pertinentes para atender las problemáticas ambientales que se generen en el entorno de los educandos a fin de crear conciencia sobre el cuidado al medio ambiente y proporcionar los conocimientos para enfrentarlas.
+
+La educación ambiental se deberá implementar a través de programas que fomenten en los educandos la cultura del cuidado y protección del medio ambiente, acorde a los planes correspondientes de las asignaturas afines. Dichos programas tendrán como finalidad primordial promover conocimientos, habilidades, valores y aptitudes para incentivar la participación individual y colectiva en el análisis, prevención y reducción de problemas ambientales, y favorecer así la calidad de vida de las generaciones presentes y futuras.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 90.
+
+Los educadores podrán valorar la diversidad de opciones metodológicas, disciplinarias y didácticas, con el objeto de seleccionar aquéllas que sean idóneas para la enseñanza y fomento de una cultura ambiental.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 91.
+
+Los educadores trasladarán al marco escolar temáticas ambientales que le permitan formar educandos sensibles y defensores de su medio ambiente.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 92.
+
+La Educación Ambiental estará respaldada por acciones encaminadas a fomentar la cultura ecológica.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### Artículo 93.
+
+Los sitios donde se impartan servicios educativos que ofrecen al Estado y los Municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios; podrán contar con espacios adecuados para la disposición y separación de sus residuos, de acuerdo a la ley aplicable.
+
 ### CAPÍTULO II. FACULTADES Y OBLIGACIONES DE LA AUTORIDAD EDUCATIVA ESTATAL
 
 ###### Artículo 24.
@@ -1334,3 +1404,9 @@ P.O. 30 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor, previa su publicación en el Periódico Oficial del Estado de Quintana Roo, cuando inicie su vigencia el Decreto por el que se reforma el párrafo tercero, párrafo sexto y párrafo octavo en su inciso a) del Artículo 32 de la Constitución Política del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
