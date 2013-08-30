@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-consejo-estatal-electoral-de-sinaloa-39
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-02"
-last_updated: "2004-06-02"
+last_updated: "2013-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL ELECTORAL DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 2 de junio de 2004.
 
@@ -32,7 +32,7 @@ REGLAMENTO INTERIOR DEL CONSEJO ESTATAL ELECTORAL DE SINALOA
 
 ## TÍTULO PRIMERO
 
-### CAPITULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1.
 
@@ -72,6 +72,10 @@ j).- Consejos Municipales: a los Consejos Municipales Electorales.
 
 k).- Comisiones: a las Comisiones del Consejo Estatal Electoral.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+l).- Contraloría Interna: El órgano interno de control del Consejo Estatal Electoral.
+
 ###### ARTICULO 5.
 
 Además de los señalados en el Artículo 86 de la Ley, los Coordinadores y titulares de áreas de los Consejos Electorales, antes de tomar posesión de sus cargos, deberán rendir protesta de ley, ante el Consejo correspondiente, o en su caso, ante la Comisión que funge entre procesos, en los siguientes términos:
@@ -82,15 +86,21 @@ El interrogado contestará: “Si protesto”
 
 El Presidente dirá: “Si no lo hiciereis así, que el pueblo de Sinaloa os lo demande”.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+ARTICULO 5 BIS.- Dentro del plazo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa los servidores públicos del Consejo Estatal desde el nivel de Jefe de Departamento o su equivalente, deberán presentar ante la Contraloría Interna su Declaración de Situación Patrimonial de Inicio, en los formatos que la propia Contraloría Interna les proporcionará.
+
+Durante los ejercicios anuales subsiguientes, los servidores públicos a que se refiere el párrafo anterior, deberán presentar la Declaración de Actualización de su Situación Patrimonial, dentro del plazo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
+
 ## TÍTULO SEGUNDO
 
-### CAPITULO I. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DEL CONSEJO ESTATAL ELECTORAL DE SINALOA
+### CAPÍTULO I. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DEL CONSEJO ESTATAL ELECTORAL DE SINALOA
 
 ###### ARTICULO 6.
 
 El Consejo Estatal es un órgano dotado de autonomía, personalidad jurídica y patrimonio propio, encargado de la preparación, desarrollo, vigilancia y calificación de los procesos electorales, así como de la información de los resultados. En su ejercicio serán principios rectores la certeza, la legalidad, la independencia, la objetividad y la imparcialidad. Será autoridad en la materia, profesional en su desempeño e independiente en sus decisiones.
 
-### CAPITULO II. DE LA COMISION QUE FUNGE ENTRE PROCESOS
+### CAPÍTULO II. DE LA COMISION QUE FUNGE ENTRE PROCESOS
 
 ###### ARTICULO 7.
 
@@ -134,7 +144,7 @@ Para las sesiones de la Comisión, se seguirá el mismo procedimiento establecid
 
 Los integrantes del Consejo Estatal o en su caso los de la Comisión que funge entre procesos deberán continuar en sus encargos en tanto el Congreso del Estado no realice el nombramiento de los nuevos integrantes del Consejo Estatal y estos hayan protestado el cargo.
 
-### CAPITULO III. DE LAS SESIONES
+### CAPÍTULO III. DE LAS SESIONES
 
 ###### ARTICULO 12.
 
@@ -246,7 +256,7 @@ Las intervenciones de los integrantes del Consejo en los debates y discusiones n
 
 Los oradores no podrán ser interrumpidos en el uso de la palabra, salvo por el Presidente para hacer las precisiones y aclaraciones del caso, señalarle que su tiempo ha concluido, solicitarle que su intervención se constriña al tema que se encuentre desahogando o llamarlo al orden cuando así lo considere.
 
-### CAPITULO IV. DE LAS MOCIONES
+### CAPÍTULO IV. DE LAS MOCIONES
 
 ###### ARTICULO 30.
 
@@ -268,7 +278,7 @@ f).- Pedir la aplicación de las disposiciones contenidas en el presente reglame
 
 Toda moción de orden deberá dirigirse al Presidente, quien la podrá aceptar o denegar, previa consulta al orador.
 
-### CAPITULO V. DE LAS VOTACIONES
+### CAPÍTULO V. DE LAS VOTACIONES
 
 ###### ARTICULO 32.
 
@@ -302,7 +312,7 @@ En caso de que existiera más de un proyecto de acuerdo o resolución de un mism
 
 De presentarse este caso, los Consejeros sólo podrán votar una de las propuestas.
 
-### CAPITULO VI. DE LAS ACTAS Y ACUERDOS
+### CAPÍTULO VI. DE LAS ACTAS Y ACUERDOS
 
 ###### ARTICULO 37.
 
@@ -332,7 +342,7 @@ Dentro de las 24 horas siguientes a la sesión en que fueren aprobados, el Secre
 
 ## TÍTULO TERCERO
 
-### CAPITULO ÚNICO. DE LAS NOTIFICACIONES Y PUBLICACIÓN DE LOS ACUERDOS Y RESOLUCIONES
+### CAPÍTULO ÚNICO. DE LAS NOTIFICACIONES Y PUBLICACIÓN DE LOS ACUERDOS Y RESOLUCIONES
 
 ###### ARTICULO 43.
 
@@ -412,7 +422,7 @@ Cuando se trate de convocatorias a sesiones, éstas se harán por oficio, en el 
 
 ## TÍTULO CUARTO
 
-### CAPITULO I. DE LAS ATRIBUCIONES Y RESPONSABILIDADES DE LOS INTEGRANTES DEL CONSEJO
+### CAPÍTULO I. DE LAS ATRIBUCIONES Y RESPONSABILIDADES DE LOS INTEGRANTES DEL CONSEJO
 
 ###### ARTICULO 56.
 
@@ -614,7 +624,7 @@ i).- Las demás que le confiere el Consejo Estatal y su Presidente.
 
 ## TÍTULO QUINTO
 
-### CAPITULO I. DE LAS COMISIONES DEL CONSEJO ESTATAL ELECTORAL
+### CAPÍTULO I. DE LAS COMISIONES DEL CONSEJO ESTATAL ELECTORAL
 
 ###### ARTICULO 67.
 
@@ -734,7 +744,7 @@ V. Proponer al Consejo Estatal los lineamientos y la documentación para registr
 
 VI. Vigilar que los consejos Distritales cumplan con la selección y aprobación de los lugares en que habrá de instalarse una casilla.
 
-VII. Conocer de las faltas administrativas o excesos en que incurra el Secretario y los Coordinadores del Consejo Estatal, proponiendo las sanciones que se pudieran aplicar, conforme a lo estipulado en los Artículos del 246 al 251 de la Ley.
+VII. (DEROGADA, P.O. 30 DE AGOSTO DE 2013)
 
 VIII. Conocer de las faltas administrativas o excesos en que incurran los Presidentes, Secretarios y Consejeros ciudadanos de los Consejos distritales y municipales electorales, así como los Capacitadores e integrantes de las mesas directivas de casilla, autoridades, funcionarios electos y partidos políticos, proponiendo las sanciones que se pudieran aplicar, conforme a lo estipulado en los Artículos del 246 al 251 de la Ley.
 
@@ -764,9 +774,19 @@ IV. Proponer al Consejo las medidas de orientación y de control, necesarias y c
 
 V. Vigilar que los Consejos distritales y municipales cuenten a tiempo con los recursos financieros, el recurso electrónico, de oficina y mobiliario necesario para el desarrollo de sus funciones.
 
-VI. Vigilar el ejercicio del presupuesto de egresos que administre el Presidente y hacer las propuestas necesarias.
+VI. (DEROGADA, P.O. 30 DE AGOSTO DE 2013)
 
-VII. Las demás que le confiera expresamente el Consejo.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+
+VII. Expedir la convocatoria pública y desarrollar el procedimiento para la designación del Titular de la Contraloría Interna, hasta la propuesta de una terna que debe presentar al Pleno.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2013)</small>
+
+VIII. Ejecutar la política aprobada por el Pleno para implementar el Servicio Profesional de Carrera.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2013)</small>
+
+IX. Desarrollar las demás que le confieran este Reglamento y las que expresamente le encomiende el Pleno.
 
 ###### ARTICULO 84.
 
@@ -928,47 +948,217 @@ Las disposiciones del capitulo III, del título segundo del presente reglamento 
 
 ## TÍTULO SÉPTIMO
 
-### CAPITULO ÚNICO. DE LAS INFRACCIONES, FALTAS ADMINISTRATIVAS Y SANCIONES
+### CAPÍTULO ÚNICO. DE LAS INFRACCIONES, FALTAS ADMINISTRATIVAS Y SANCIONES
 
 ###### ARTICULO 108.
 
-El Consejo Estatal Electoral conocerá de las infracciones y violaciones que a las disposiciones de la Ley electoral cometan:
-
-I.- Las autoridades que no proporcionen en tiempo y forma la información que les sea solicitada; en los términos de lo dispuesto por la Ley.
-
-II.- Los funcionarios electorales cuando, sin incurrir en delito, transgredan los principios que rigen la actuación, establecidos en los artículos 47 y 52 de la Ley.
-
-III.- Los diputados y regidores electos, cuando sin causa justificada, no se presenten a desempeñar su cargo, dentro de los plazos previstos por los artículos 28 y 112 de la Constitución Política del Estado.
-
-IV.- Los partidos políticos, cuando habiendo postulado candidatos a diputados o regidores, acuerden que éstos no desempeñen el cargo para el que resultaron electos.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2013)
 
 ###### ARTICULO 109.
 
-Para el conocimiento y calificación de las infracciones a que se refiere el artículo anterior, se aplicará el procedimiento siguiente:
-
-I.- El procedimiento administrativo podrá iniciarse de oficio o a petición de parte, pero siempre deberá formularse por escrito;
-
-II.- El Consejo Estatal por conducto de su Presidente le dará entrada a la solicitud solo cuando quien promueva acredite su personalidad y ofrezca las pruebas respectivas; de incumplir con lo anterior el Presidente del Consejo la desechará de plano.
-
-III.- Una vez que el Presidente del Consejo Estatal haya verificado que la solicitud cumple con los requisitos señalados en el párrafo anterior, éste lo turnará a la comisión respectiva, la que se podrá allegar de todos los elementos de convicción que considere necesarios para presentar su dictamen al Pleno, de ser posible, en la sesión mas próxima del Consejo, concediendo el derecho de audiencia a quien corresponda, para lo cual la Comisión deberá emplazarlos con el fin de que contesten por escrito manifestando lo que a su derecho convenga y ofrezcan pruebas, dándoles un plazo máximo de cinco días contados a partir del día siguiente a su notificación.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2013)
 
 ###### ARTICULO 110.
 
-El Consejo Estatal podrá imponer a los funcionarios electorales las siguientes sanciones:
-
-I.- Amonestación por escrito, a los Presidentes y Consejeros ciudadanos de los consejos distritales y municipales y a los Secretarios de los Consejos Electorales, cuando participen indirectamente en actos de proselitismo partidista.
-
-II.- La suspensión del cargo, a los Secretarios de los Consejos Electorales que participen directamente en actos de proselitismo electoral, o cuando manifiesten públicamente una tendencia partidista.
-
-III.- La destitución del cargo, a los Presidentes y Consejeros Ciudadanos de los Consejos Distritales o Municipales y, a los Secretarios de los Consejos Electorales que participen directamente en actos de proselitismo electoral, o cuando manifiesten una tendencia partidista, o cuando emitan públicamente juicios de valor a favor o en contra de candidatos o partidos políticos, o cuando realicen actos encaminados a orientar el voto de los ciudadanos a favor de determinado candidato o partido político, o al abstencionismo.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2013)
 
 ###### ARTICULO 111.
 
-Las sanciones que señala el artículo anterior, también se aplicarán, cuando los Presidentes y Consejeros de los consejos Distritales o Municipales y Secretarios de los Consejos electorales, realicen cualquier otra conducta o acto contraria (sic) a los principios de certeza, legalidad, independencia, imparcialidad y objetividad, que afecten o trasciendan en la credibilidad del desarrollo del proceso electoral, previo dictamen de la Comisión de organización y vigilancia electoral.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2013)
 
 ###### ARTICULO 112.
 
-En el caso de que los Coordinadores y Capacitadores de los Consejos Electorales, así como los integrantes de las mesas directivas de casilla, incurran en conductas, actos u omisiones, encaminadas al incumplimiento de sus funciones, la Comisión determinará, previa valoración de la falta, la sanción correspondiente, pudiendo ser amonestación, suspensión o destitución del cargo.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2013)
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+## TÍTULO OCTAVO. DE LA CONTRALORIA INTERNA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 113.
+
+La Contraloría Interna es un órgano permanente con independencia funcional, encargada (sic) realizar el control y auditoría del Consejo Estatal Electoral, así como de aplicar todas las disposiciones y procedimientos previstos en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa, con el fin de asegurar que los recursos sean obtenidos y aplicados de manera honesta, eficiente y eficaz, en función de los objetivos planteados en los planes y proyectos que acuerde el Pleno al aprobar el anteproyecto de presupuesto que le proponga el Presidente.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 114.
+
+En su ejercicio el Contralor y el personal de la Contraloría Interna se conducirá con estricto apego a los principios de legalidad, independencia, transparencia, certeza, imparcialidad, honradez, eficiencia, eficacia, racionalidad y lealtad.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 115.
+
+La Contraloría Interna tendrá las siguientes atribuciones:
+
+a).- Vigilar que todos los servidores públicos del Consejo Estatal cumplan con los deberes y obligaciones que impone la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa
+
+b).- Identificar e investigar conductas contrarias a los principios del servicio público y violatorias de las leyes, que realicen servidores públicos del Consejo Estatal y, en su caso, incoar procedimientos administrativos, determinar las responsabilidades derivadas del incumplimiento de los deberes e imponer las sanciones que correspondan, con apego a lo dispuesto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa;
+
+c).- Recibir y atender de cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de medios de prueba, de manera pacífica y respetuosa, las denuncias o quejas por incumplimiento de los deberes de los servidores públicos y sujetos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
+
+d).- Recibir, sustanciar y resolver los recursos de revocación que presenten los servidores públicos del Consejo Estatal en contra de las sanciones administrativas que se les impongan;
+
+e).- Implementar y mantener actualizado el Registro de Antecedentes de los Servidores Públicos Sancionados; así como su cancelación en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
+
+f).- Participar y formular opiniones en:
+
+1) El sistema de administración, las normas de contabilidad y los procedimientos de custodia de valores del Consejo Estatal;
+
+2) El sistema de registro y custodia de los bienes propiedad del Consejo Estatal;
+
+3) Las reglas, lineamientos y manuales que, en materia de control interno, elaboren las distintas áreas del Consejo Estatal, antes de iniciar su aplicación;
+
+4) Los lineamientos de los procesos de entrega recepción y la propuesta para su modificación;
+
+g).- Implementar el Sistema de Monitoreo e Información de los Indicadores de Gestión de las distintas áreas del Consejo Estatal
+
+h).- Presentar a los responsables de las áreas revisadas y auditadas las observaciones y recomendaciones preventivas y correctivas que resulten de la actuación de la Contraloría Interna;
+
+i).- Participar en los procedimientos de adquisición, arrendamiento, enajenación de bienes muebles y servicios, así como de ejecución de obra pública, que se lleven a cabo en el Consejo Estatal, y en general cualquiera que modifique el patrimonio del Consejo, de conformidad con las disposiciones legales y reglamentarias vigentes;
+
+j).- Elaborar el Manual de Organización de la Contraloría Interna.
+
+k).- Elaborar el programa anual de auditorías internas y presentarlo al Pleno a más tardar el último día hábil del mes de enero de cada año, así como la realización de auditorías especiales a los servicios de apoyo administrativo, técnico y jurídico;
+
+l).- Poner a consideración del Pleno los informes y propuestas que considere pertinentes, quien se encargará de analizarlas, calificarlas y, de considerarlas procedentes, aprobarlas; y
+
+m).- Las demás que le confieran la Constitución Política del Estado de Sinaloa, la Ley de Responsabilidades Administrativas de los Servidores Públicos, el presente Reglamento y otras disposiciones legales y reglamentarias.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 116.
+
+La Contraloría Interna contará con los recursos humanos, económicos y materiales de acuerdo a las necesidades de su función y suficientes para el ejercicio de sus atribuciones, mismos que deberán preverse en el anteproyecto de presupuesto que cada año se apruebe.
+
+Además podrá auxiliarse de aquellas unidades que se creen, previa autorización del Pleno, a propuesta del Contralor Interno. Las funciones de las unidades que se constituyan en términos de este artículo, quedarán establecidas en el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 117.
+
+La Contraloría Interna estará a cargo de un Contralor, quien será nombrado por el Pleno del Consejo, de una terna propuesta por la Comisión de Presupuesto y Administración, con sujeción al procedimiento establecido en este Reglamento. Así mismo el Contralor podrá ser removido únicamente por el Pleno.
+
+El Contralor Interno ejercerá el cargo hasta en tanto el nuevo Consejo no designe a su sucesor o sea ratificado en él por el Pleno del Consejo.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 118.
+
+La designación del Contralor se sujetará al procedimiento siguiente:
+
+I. La Comisión de Presupuesto y Administración expedirá la convocatoria pública para que, dentro de los diez días hábiles siguientes a la publicación, los organismos integrantes de los sectores empresarial, comercial, de servicios, agrupaciones de profesionistas, instituciones de educación superior y ciudadanos presenten propuestas o auto propuestas para ocupar el cargo de Contralor del Consejo Estatal;
+
+II. Concluido el plazo y recibidas las propuestas, que deberán acompañarse con los documentos y manifestaciones para acreditar el cumplimiento de requisitos que señale este Reglamento, la Comisión de Presupuesto y Administración procederá, dentro del plazo de diez días, a la revisión, análisis y declaración del cumplimiento de requisitos sobre las mismas, y emitir el acuerdo respectivo;
+
+III. Luego del análisis y la revisión de los expedientes, en un plazo no mayor a diez días, la Comisión de Presupuesto y Administración entrevistará por separado a cada uno de los profesionistas propuestos que cumplan con los requisitos, con el propósito de evaluar en forma individual su perfil y capacidades. Para tal efecto deberá tomar en cuenta la experiencia, conocimientos y antecedentes laborales de cada uno de ellos. En las reuniones que se realicen para este efecto, podrán participar los integrantes del Consejo que lo deseen.
+
+IV. En un plazo que no deberá exceder de cinco días hábiles contados a partir de la fecha de la última entrevista, la Comisión de Presupuesto y Administración formulará su dictamen, a fin de proponer al Pleno la terna que considere idónea; comunicándolo al Presidente al día siguiente del vencimiento de dicho plazo para que instruya su inclusión en el orden del día de la sesión ordinaria o extraordinaria más próxima;
+
+En caso de que ninguno de los aspirantes propuestos en el dictamen obtenga mayoría de votos del total de los integrantes con derecho a voto en el Pleno, en la misma sesión, se realizará una segunda votación eliminando al ciudadano que menos votos obtuvo de la terna propuesta por la Comisión de Presupuesto y Administración, el ganador será designado Contralor Interno;
+
+V. Cuando se trate de nombramiento por conclusión del cargo, la Comisión podrá proponer al Pleno la ratificación del Contralor Interno, y si la propuesta no fuera aceptada deberá desarrollar el procedimiento descrito en los incisos anteriores; y,
+
+VI. La persona designada para ocupar el cargo de Contralor rendirá protesta ante el Pleno del Consejo Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 119.
+
+Para ser Contralor se requiere satisfacer los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos;
+
+II. Poseer título y cédula profesional de licenciatura en contaduría pública, derecho, administración o cualquier otro título profesional relacionado con la administración pública o la auditoría, expedido por autoridad o institución legalmente facultada para ello, con una antigüedad mínima de cinco años;
+
+IV (SIC). No haber sido Secretario o Subsecretario de Despacho del Poder Ejecutivo, Procurador General o Subprocurador de Justicia del Estado, Magistrado del Poder Judicial, o haber desempeñado cargo de elección popular, ni en órgano de dirección nacional, estatal o municipal en algún partido o agrupación política, ni integrante de organismos autónomos reconocidos por la Constitución, durante los cinco años previos al de su nombramiento;
+
+V. Al momento de su designación, no tener parentesco por consanguinidad o afinidad hasta el tercer grado con el titular del Poder Ejecutivo, los Diputados del Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia del Estado, los Secretarios de Despacho, del titular o equivalente de cualquier otro órgano autónomo ni de los servidores públicos del Consejo Estatal Electoral;
+
+VI. Contar con experiencia mínima de cinco años previos a su nombramiento en materia de administración pública; y
+
+VII. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiera sido de carácter culposo.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 120.
+
+Para el cumplimiento de su función, la Contraloría Interna tendrá acceso a cualquier información que obre en cualquiera de las dependencias administrativas, jurídicas, operativas y de investigación del Consejo Estatal Electoral, cuyos titulares estarán obligados a proporcionarla oportunamente, en las condiciones en que ésta exista, siempre que lo requiera y lo solicite por escrito.
+
+El Contralor Interno y el personal adscrito a la Contraloría quedan sujetos a la obligación de confidencialidad, por lo que no podrán divulgar en forma alguna la información que se alleguen o que se ponga a su disposición por cualquier medio.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 121.
+
+La Contraloría Interna vigilará que la Presidencia, la Secretaría General, las Coordinaciones, los titulares de las áreas y los servidores públicos del Consejo Estatal, incluidos los de los Consejos Distritales y Municipales, observen todas las disposiciones legales que les resulten aplicables, y apliquen los lineamientos, perfiles, manuales y sistemas de control que permitan orientar el ejercicio de sus atribuciones al mejoramiento, modernización y transparencia del desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 122.
+
+El Contralor tendrá, además de las que la Ley dispone, las atribuciones siguientes:
+
+I. Coordinar y administrar el funcionamiento de las áreas que integran la Contraloría Interna;
+
+II. Dirigir y vigilar la aplicación de la política que para la Contraloría Interna establezca el Pleno, a propuesta del propio Contralor;
+
+III. Administrar los recursos humanos, materiales y financieros asignados a la Contraloría Interna;
+
+IV. Elaborar y presentar al Pleno su programa de trabajo anual durante el mes de julio a través de la Presidencia, quien deberá incluir el punto en la sesión ordinaria o extraordinaria siguiente;
+
+V. Elaborar y presentar a la Presidencia del Consejo Estatal, el anteproyecto de presupuesto anual de egresos de la Contraloría Interna, para que lo incluya en su propuesta de Presupuesto anual del Consejo Estatal;
+
+VI. Proponer a la Presidencia del Consejo Estatal el nombramiento de los servidores públicos de la Contraloría Interna, excepto los cargos que se desprendan de este Reglamento, así como las remociones que sean necesarias para el buen funcionamiento de la misma, acompañadas de la justificación legal que corresponda;
+
+VII. Vigilar que periódicamente se realice y actualice el inventario de bienes muebles e inmuebles del Consejo Estatal, mismo que deberá incluirse en su informe anual de actividades;
+
+VIII. Proponer acciones de carácter preventivo, para el adecuado ejercicio de las funciones y el cumplimiento de las obligaciones de los servidores públicos del Consejo Estatal;
+
+IX. Dar seguimiento a los procesos de licitación, arrendamientos y enajenaciones de bienes y servicios, de contratación de obra y en general de todos aquellos que modifiquen el patrimonio del Consejo; verificando el cumplimiento de la normatividad en la materia;
+
+X. Elaborar y entregar oportunamente a los servidores públicos del Consejo Estatal, los formatos de declaración patrimonial, en términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa;
+
+XI. Informar al Pleno, durante el primer trimestre de cada año, por conducto de la Presidencia, sobre los resultados de las acciones de control y evaluación de las áreas y dependencias del Consejo Estatal, así como de los avances cualitativos y cuantitativos de las actividades de la Contraloría;
+
+XII. Participar en los procesos de entrega-recepción de las dependencias y unidades administrativas
+
+XIII. Representar a la Contraloría Interna en los procedimientos en que tenga participación;
+
+XIV. Suscribir convenios y acuerdos con dependencias, órganos o entidades del Gobierno Federal, Estatal o Municipal, previa autorización del Pleno;
+
+XV. Expedir los acuerdos, circulares y disposiciones que sean necesarios para el buen despacho de los asuntos que son competencia de la Contraloría Interna;
+
+XVI. Presentar a la Presidencia del Consejo Estatal, durante la primera quincena del mes de enero de cada ejercicio, un informe anual de actividades para que lo integre al Informe Financiero Anual;
+
+XVII. Previa solicitud de parte, apoyar y orientar en asuntos de su competencia a los servidores públicos del Consejo Estatal;
+
+XVIII. Ejecutar todas las acciones que correspondan a la Contraloría Interna; y
+
+XIX. Las demás que le correspondan conforme a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa y a este Reglamento; o le encomiende el Pleno.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 123.
+
+Para la instauración y desarrollo de procedimientos de responsabilidades administrativas, la Contraloría interna se sujetará invariablemente a las disposiciones de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 124.
+
+La coordinación del trámite y seguimiento de los asuntos que son competencia de la Contraloría Interna corresponden al Contralor, quién para la mejor organización y celeridad de sus actividades podrá delegar facultades a sus subalternos, ajustándose a las formalidades legales y reglamentarias.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+###### ARTICULO 125.
+
+En caso de ausencia absoluta del Contralor, corresponderá a la Comisión de Presupuesto y Administración desarrollar el procedimiento previsto en el artículo 118 de este Reglamento, para hacer la propuesta respectiva al Pleno.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -987,3 +1177,15 @@ LIC. JULIANA ARAUJO CORONEL
 SECRETARIA DEL CONSEJO
 
 Así lo aprobó por mayoría de votos el pleno del Consejo Estatal Electoral, en la segunda sesión ordinaria del mes de mayo del 2004.
+
+P.O. 30 DE AGOSTO DE 2013.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO.- Se aprueban las modificaciones y adiciones al Reglamento Interior del Consejo Estatal Electoral descritas en el Considerando V, de conformidad con lo expuesto en el Anexo Único del presente.
+
+SEGUNDO.- Se deroga el Acuerdo CP-001/2011 de fecha 15 de julio de 2011 relativo a la integración del Órgano Interno de Control.
+
+SEXTO.- Publíquese el presente Acuerdo en el Periódico Oficial “El Estado de Sinaloa”.
+
+SÉPTIMO.- Las modificaciones al Reglamento Interno del Consejo Estatal Electoral entrarán en vigor al día siguiente de su publicación en “El Periódico Oficial El Estado de Sinaloa”.
