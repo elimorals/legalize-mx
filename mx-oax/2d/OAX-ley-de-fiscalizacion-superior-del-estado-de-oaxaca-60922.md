@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fiscalizacion-superior-del-estado-de-oaxaca-60922"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-23"
-last_updated: "2010-03-03"
+last_updated: "2013-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE OAXACA
 
-LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE OAXACA
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 30 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013 (ABROGADA).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 23 de abril de 2008.
 
@@ -993,8 +995,22 @@ ING. TEOFILO MANUEL GARCÍA CORPUS.
 
 Al C...
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 3 DE MARZO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE AGOSTO DE 2013.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se abroga la Ley de Fiscalización Superior del Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca, mediante Decreto 606, de fecha 23 de abril de 2008.
+
+TERCERO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan en todo o en parte a la Presente Ley.
+
+CUARTO.- La Auditoría Superior del Estado deberá remitir al Congreso del Estado el informe de resultados de la cuenta pública 2012 a más tardar el 25 de octubre del presente año, debiendo el H. Congreso del Estado dictaminarla el 31 de octubre de ese mismo año.
+
+QUINTO.- La Auditoría contará con un plazo improrrogable de sesenta días, para presentar ante la Comisión las adecuaciones a su Reglamento.
+
+SEXTO.- Hasta en tanto no se expida el Código de Procedimientos Administrativos de la Auditoría Superior del Estado de Oaxaca, todos los procedimientos que al efecto lleve a cabo la Auditoría, se tramitarán de conformidad con las disposiciones del Código de Procedimientos Civiles para el Estado de Oaxaca.
