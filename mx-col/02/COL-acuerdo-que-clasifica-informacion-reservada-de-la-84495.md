@@ -4,7 +4,7 @@ identifier: "COL-acuerdo-que-clasifica-informacion-reservada-de-la-84495"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-12-10"
-last_updated: "2011-12-10"
+last_updated: "2013-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # ACUERDO QUE CLASIFICA INFORMACION RESERVADA DE LA SECRETARIA DE SEGURIDAD PUBLICA, DEL GOBIERNO DEL ESTADO DE COLIMA -ANTES ACUERDO DE LA SECRETARIA DE SEGURIDAD PUBLICA QUE CLASIFICA COMO RESERVADA LA INFORMACION PUBLICA CONTENIDA EN EL PRESENTE DOCUMENTO, DEL ESTADO DE COLIMA-
 
-ACUERDO QUE CLASIFICA COMO RESERVADA LA INFORMACIÓN PÚBLICA CONTENIDA EN EL PRESENTE DOCUMENTO EN EL ESTADO DE COLIMA
+ACUERDO QUE CLASIFICA INFORMACIÓN RESERVADA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, DEL GOBIERNO DEL ESTADO DE COLIMA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2013.
 
 Acuerdo publicado en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 10 de diciembre del 2011.
 
@@ -39,7 +39,9 @@ Con base en las facultades referidas, el fundamento legal citado, lo establecido
 
 ACUERDO
 
-QUE CLASIFICA COMO RESERVADA LA INFORMACIÓN PÚBLICA CONTENIDA EN EL PRESENTE DOCUMENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2013)</small>
+
+“ACUERDO QUE CLASIFICA INFORMACIÓN RESERVADA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA”, DEL GOBIERNO DEL ESTADO DE COLIMA.
 
 ###### Artículo 1.
 
@@ -53,7 +55,9 @@ III. Las estrategias de seguridad que realizan las diversas corporaciones polici
 
 IV. La revelación de nombres, datos generales, fotografías, adscripciones, asignaciones, bitácoras, roles de servicios, número de elementos que conforman los diferentes cuerpos de seguridad, cargos y funciones, en especial de los integrantes de los cuerpos policiales y de seguridad, información que se encuentra en poder de la Dirección General de la Policía Estatal Preventiva, como en la Dirección General de Prevención y Readaptación Social, la Dirección de Seguridad Privada y el Instituto para el Tratamiento de Menores Infractores, clasificándose en razón a que su divulgación compromete la privacidad o la seguridad de los particulares, así como se pone en riesgo la seguridad interior de la entidad, orientada al bienestar social, la protección de los derechos fundamentales de la misma y el mantenimiento del estado de derecho. En el caso particular de los reclusos menores de edad, se reserva también su información respecto de datos personales, infracción cometida, así como también el material de identificación fotográfico de los adolescentes infractores;
 
-V. Expedientes administrativos de los elementos policiales, entendiéndose como tales los que se encuentran en poder de las coordinaciones administrativas o similares de las diferentes dependencias que integran la Secretaría de Seguridad Pública, los cuales contienen información personal de los elementos policiales, así como también expedientes integrados por motivo de instauración de procedimiento ante el Consejo de Honor y Justicia, mismo que siguen forma de juicio y que aún no se concluyan, información que se clasifica en virtud de que su difusión obstaculizaría o bloquearía su debido desarrollo y conclusión, así como afectaría derechos personalísimos de los elementos policiales;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2013)</small>
+
+V. Expedientes administrativos de los elementos policiales, entendiéndose como tales los que se encuentran en poder de las coordinaciones administrativas o similares de las diferentes dependencias que integran la Secretaría de Seguridad Pública, los cuales contienen información personal de los elementos policiales, así como también expedientes integrados por motivo de instauración de procedimiento ante el Consejo de Honor y Justicia, así como de aquellos procesos de investigación llevados a cabo por la Unidad de Asuntos internos instaurados por denuncia anónima, comparecencia u oficio, derivados del incumplimiento de los requisitos de permanencia y principios de actuación de los integrantes de los (sic) instituciones de seguridad pública mismos que siguen forma de juicio y que aún no se concluyan, información que se clasifica en virtud de que su difusión obstaculizaría o bloquearía su debido desarrollo y conclusión, así como afectaría derechos personalisimos de los elementos policiales y de las personas que tengan el carácter de quejosos, testigos y que sean parte de los mismos.
 
 VI. Lista de clientes de las empresas de Seguridad Privada, información que se encuentra en poder de la Dirección de Seguridad Privada, misma que se clasifica en razón a la secrecía que se debe de guardar de los datos privados de cada empresa de seguridad privada que solicita su validación y revalidación ante la Secretaría;
 
@@ -88,3 +92,9 @@ II. Responsables de cuerpos policiales.
 Dado en la Ciudad de Colima, Colima, en las oficinas de la Secretaría de Seguridad Pública, a los 03 días del mes de Diciembre de dos mil once.
 
 Atentamente. SUFRAGIO EFECTIVO. NO REELECCIÓN. EL SECRETARIO DE SEGURIDAD PÚBLICA, C. Gral. de Div. D.E.M. Ret. Raúl Pinedo Dávila. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+P.O. 31 DE AGOSTO DE 2013.
+
+ÚNICO.-. (sic) El presente Acuerdo entra en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
