@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2013-08-10"
+last_updated: "2013-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -581,7 +581,7 @@ XII.- Aprobar, en su caso, el anteproyecto de Ley de Ingresos, que a su consider
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2013)</small>
 
-XIII.- Aprobar el Presupuesto de Egresos de acuerdo con los ingresos que hubiere autorizado el Congreso y remitirlo al Ejecutivo del Estado para su publicación en el Periódico Oficial, a más tardar el día 31 de diciembre, siendo aplicable en lo conducente lo dispuesto por el Capitulo Único del Título Cuarto, de la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado, así como la Ley General de Contabilidad Gubernamental.
+XIII.- Aprobar el Presupuesto de Egresos de acuerdo con los ingresos que hubiere autorizado el Congreso y remitirlo al Ejecutivo del Estado para su publicación en el Periódico Oficial, a más tardar el día 31 de diciembre, siendo aplicable en lo conducente lo dispuesto por el Capitulo Único del Titulo Cuarto, de la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado, así como la Ley General de Contabilidad Gubernamental.
 
 Los presupuestos, sólo podrán ser ampliados, cuando los ingresos reales sean superiores al ingreso estimado en la ley;
 
@@ -2253,9 +2253,13 @@ Para el caso de establecimientos de centros industriales, agropecuarios, educati
 
 Para la venta de bienes muebles del dominio privado municipal se requerirá el acuerdo del Ayuntamiento cuando su valor sea superior a doscientos cincuenta veces el salario mínimo general vigente en la zona económica de que se trate; cuando su importe sea menor, bastará el acuerdo por escrito del Presidente Municipal.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
 
-Queda prohibido enajenar bienes muebles e inmuebles, durante los últimos seis meses de la Administración, salvo que los bienes muebles tengan un año de haberse inutilizado o bien se encuentren inservibles, para lo cual el Secretario deberá certificar el estado que guardan los bienes a enajenarse.
+Queda prohibido enajenar bienes muebles e inmuebles de dominio público y privado, durante los últimos seis meses de la Administración, salvo que los bienes muebles tengan un año de haberse inutilizado o bien se encuentren inservibles, para lo cual el Secretario deberá certificar el estado que guardan los bienes a enajenarse.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2013)</small>
+
+Los bienes inmuebles sujetos a un proceso de regularización de la tenencia de la tierra, no quedan comprendidos en la prohibición referida en este Artículo.
 
 ### CAPITULO UNICO
 
@@ -4363,6 +4367,28 @@ El presente Decreto surtirá vigencia un día después de la entrada en vigor de
 
 P.O. 23 DE FEBRERO DE 2013.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2013)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Los trámites sobre enajenaciones que se hubiesen iniciado antes del 9 de abril del año 2013, se concluirán conforme a las disposiciones vigentes, hasta antes de la entrada en vigor del Decreto No. 801/2012 II P.O., publicado en el Periódico Oficial del Estado el 23 de febrero del año 2013.
+
+P.O. 19 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2013.
+
+DECRETO No. 1270/2013 II P.O. POR EL QUE SE REFORMA LA FRACCIÓN I Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 68 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -4377,9 +4403,17 @@ DECRETO No. 1271/2013 II P.O. POR EL QUE SE ADICIONA UNA FRACCIÓN XIV AL ARTÍC
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Estado.
 
-P.O. 19 DE JUNIO DE 2013.
+P.O. 6 DE JULIO DE 2013.
+
+DECRETO No. 1272/2013 II P.O. POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEXTO, AMBOS DEL ARTÍCULO 110 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4390,22 +4424,6 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Las disposiciones legales y administrativas estatales que se encuentren vigentes a la entrada en vigor del presente Decreto y que se opongan a lo dispuesto por la Ley General de Contabilidad Gubernamental, dejarán de aplicarse en la medida en que resulte aplicable esta última y las disposiciones que de ella emanen.
 
 P.O. 10 DE AGOSTO DE 2013.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 6 DE JULIO DE 2013.
-
-DECRETO No. 1270/2013 II P.O. POR EL QUE SE REFORMA LA FRACCIÓN I Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 68 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Estado.
-
-P.O. 6 DE JULIO DE 2013.
-
-DECRETO No. 1272/2013 II P.O. POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEXTO, AMBOS DEL ARTÍCULO 110 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4419,8 +4437,8 @@ Para la elección de las Juntas Municipales en las Secciones Municipales de Barb
 
 El Presidente Municipal de Guadalupe y Calvo contará con un plazo máximo de noventa días para brindar a las nuevas secciones municipales, la infraestructura necesaria y los recursos, en la medida de sus posibilidades económicas, para que aquellas puedan iniciar sus trabajos.
 
+P.O. 31 DE AGOSTO DE 2013.
+
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Estado.
-
-P.O. 10 DE JULIO DE 2013.
+El presente Decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Estado.
