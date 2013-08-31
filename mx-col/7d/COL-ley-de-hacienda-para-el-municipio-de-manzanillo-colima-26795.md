@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2013-07-27"
+last_updated: "2013-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -849,9 +849,9 @@ Cuando la construcción tenga como consecuencia la demolición por más de 40.00
 
 Las áreas de estacionamiento en los anteriores conceptos se consideran en el cobro, con el 10 por ciento de las mismas tarifas, de acuerdo a la superficie habilitada para este servicio, excepto habitacional unifamiliar de cualquier densidad.
 
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
 
-Cuando el permiso de la obra o construcción sea por regularización el pago del derecho por los conceptos anteriores aumentará en un 50%, entiéndase por regularizaciones a todas las obras construidas sin permiso previo y las que se encuentran en proceso de construcción, excluyéndose de dicha hipótesis los incisos a), b), c) y d) anteriores.
+Cuando el permiso de la obra o construcción sea por regularización el pago del derecho por los conceptos anteriores aumentará en un 50%, entiéndase por regularizaciones a todas las obras construidas sin permiso previo y las que se encuentran en proceso de construcción. Cuando el permiso de obra para construcción de vivienda sea para su regularización se sujetará a la tarifa establecida en los incisos a), b), c) y d) de esta fracción.
 
 II. Permiso para remodelación o reparación, incluyendo la inspección de la obra según el tipo, por M2, de acuerdo con la siguiente clasificación:
 
@@ -1417,9 +1417,7 @@ e) Turístico 1.50
 
 f) Otros 1.50
 
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
-
-Cuando se trate de modificación y refrendo de la licencia de urbanización no se cobrará derecho alguno.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE AGOSTO DE 2013)</small>
 
 VI. Por la autorización del proyecto ejecutivo de urbanización, por metro cuadrado, considerando la superficie de vialidad, según categoría:
 
@@ -1787,7 +1785,9 @@ a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por 
 
 4.- Cabaretes 500.00
 
-5.- Casinos y similares 1000.00
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
+
+5.- Casinos y similares 10000.00
 
 6.- Cenadurías 50.00
 
@@ -1985,7 +1985,9 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 4.- Cabarets 5.00
 
-5.- Casinos y similares 10.00
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
+
+5.- Casinos y similares 50.00
 
 6.- Cenadurías 3.00
 
@@ -2169,7 +2171,9 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 63.- Otros giros no especificados de 2.00 a 11.00
 
-d) Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2013)</small>
+
+d) por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
 
 1.- Agencias 10.00
 
@@ -2179,7 +2183,9 @@ d) Por la expedición de autorizaciones de funcionamiento en horario extraordina
 
 4.- Cabarets 5.00
 
-5.- Casinos y similares 15.00
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
+
+5.- Casinos y similares 75.00
 
 6.- Cenadurías 1.00
 
@@ -2427,7 +2433,9 @@ i) Por los depósitos en garantía, por ejercicio fiscal, por cada una:
 
 10.- Cafetería con venta de cerveza 20 a 25
 
-11.- Casinos y similares 90 a 100
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
+
+11.- Casinos y similares 450 a 500
 
 12.- Cenadurías A 20 a 25
 
@@ -2823,9 +2831,9 @@ a).- Cuando el valor de los predios fusionados, subdivididos o renotificados sea
 
 a 11,157 días de salario mínimo 2.50
 
-2.- Cuando el valor catastral sea de 11,157
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
 
-días de salario mínimo en adelante 3.00
+2.- Mas de un valor catastral equivalente a 11,157 días de salario mínimo se pagará sobre el excedente de dicho valor el 0.01 por ciento.
 
 V.- inscripción y registro de actas o avisos
 
@@ -2858,6 +2866,60 @@ por un notario publico 4.00
 e).- Por modificar datos manifestados
 
 erróneamente 3.00
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2013)</small>
+
+VI.- Por modificar registros manifestados
+
+erróneamente 1.80
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2013)</small>
+
+VII.- Por cartografía a escala 1:1.000 en forma digita (sic),
+
+Zona catastral:
+
+a). Archivo DXF (manzanas, predios y nomenclaturas)
+
+75.00
+
+b). Archivos DXF (manzanas, predios, construcciones,
+
+nomenclaturas, cotas, fotogramétricas en coordenadas
+
+universal transversa de Mercator) 120.00
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2013)</small>
+
+VIII.- Por cartografía del plano general, en formato
+
+Digital de la zona urbana de la cabecera municipal:
+
+a).- Archivos DXF (manzanas, predios, construcciones,
+
+nomenclaturas de las calles, hidrografía, vías de
+
+comunicación, cotas fotogramétricas en coordenadas
+
+universal transversa de Mercator)
+
+145.00
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2013)</small>
+
+IX.- Por cartografía 1:10,00 en formato digital por cada
+
+Población o comunidad:
+
+a) Archivos DXF (manzana, predios, Construcciones,
+
+nomenclaturas de calles, hidrografía, Vías de
+
+comunicación, cotas fotogramétricas en Coordenadas
+
+Universal transversal de Mercator)
+
+72.00 a 145.00
 
 C) ECOLOGIA
 
@@ -2947,9 +3009,21 @@ Refrendos 50%
 
 VI. Licencia de explotación de bancos de material de construcción y sitios de explotación de recursos naturales. Por cada M3 0.05
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2013)</small>
 
-VII. Por la licencia para la ubicación de escombreras o depósito de residuos de construcciones 10.00
+VII. Por la licencia para la ubicación de escombreras
+
+o depósito de residuos de construcciones (de manejo
+
+especial):
+
+a) Sitios de tiro menores a 240.00
+
+m2 50.00
+
+b) Sitios de tiro mayores a 240.00 m2
+
+100.00
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -3093,17 +3167,31 @@ d).- Vehículos automotores (venta) 5.00
 
 e).- Refrendo 50.00%
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2013)</small>
 
-XXIII. Licencia municipal ambiental. Anualmente
+XXIII.- Licencia municipal ambiental.
 
-a).- Predios o instalaciones menores a 240.00 M2 (pequeña empresa) 3.00
+a).- Licencia Ambiental Municipal para empresas que
 
-b).- Predios o instalaciones mayores a 240.00 M2 (mediana empresa) 4.00
+realizan actividades Comerciales y de Servicios.
 
-c).- Industria 5.00
+1.- Pequeña 15.00
 
-d).- Refrendo 50.00%
+2.- Mediana 20.00
+
+3.- Grande 25.00
+
+b).- Licencia ambiental municipal para empresas que
+
+realizan actividades industriales.
+
+1.- Pequeña 25.00
+
+2.- Mediana 30.00
+
+3.- Grande 100.00
+
+c).- Refrendo 50.00%
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -3317,21 +3405,25 @@ Los servicios de seguridad que soliciten los particulares, se pagarán por cada 
 
 Unidades de salario
 
-1.- Discotecas 10.00
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
 
-2.- Fiestas particulares 7.00
+1.- Discotecas 13.00
 
-3.- Otros 10.00
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+2.- Fiestas particulares 10.00
 
-I. Por servicio de patrullaje en vialidades
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
 
-del municipio por desfiles de promoción de
+3.- Otros 11.00
 
-firmas comerciales y espectáculos.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2013)</small>
 
-Por evento 20.00
+I. Por servicio de patrullaje en vialidades del municipio
+
+por Desfiles de promoción de firmas comerciales y
+
+espectáculos. Por evento 22.00
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -3341,17 +3433,19 @@ del municipio por desfiles deportivos,
 
 sociales, culturales y religiosos 0.00
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2013)</small>
 
-III. Por servicio de estacionamiento de
+III. Por servicio de estacionamiento de autobuses
 
-autobuses foráneos en áreas autorizadas
+foráneos en áreas autorizadas durante la semana
 
-durante la semana santa y periodos
+santa y periodos Vacacionales. Por
 
-vacacionales. Por día 5.00
+día 7.00
 
-Tratándose de vehículos particulares será de 0.25
+Tratándose de vehículos particulares será
+
+de 0.50
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -3360,6 +3454,10 @@ IV. Permiso de carga y descarga de
 vehículos de carga pesada dentro del
 
 primer cuadro, por cada evento 1.50
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2013)</small>
+
+La Dirección de Tránsito y Vialidad es la dependencia que determinara las áreas restringidas del Municipio.
 
 ### CAPITULO IV. DE LOS SERVICIOS PUBLICOS
 
@@ -3827,9 +3925,11 @@ a) (DEROGADO, P.O. 15 DE ENERO DE 2003)
 
 b) (DEROGADO, P.O. 15 DE ENERO DE 2003)
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE AGOSTO DE 2013)</small>
 
-c) Primera Zona 4.45
+c) Lotes de terreno en cementerio urbano por m2
+
+25.00
 
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
 
@@ -3907,21 +4007,31 @@ La venta de esquilmos, productos de aparcería, desechos y basura, será de conf
 
 ### CAPITULO IX. SERVICIO DE ARRASTRE DE GRUAS Y MANIOBRAS
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
+
 ###### ARTICULO 118.
 
 Los productos derivados de arrastre de grúas y maniobras se cubrirán de conformidad a lo siguiente:
 
 Unidad de salario
 
-I. Servicio de arrastre de grúa en la zona conurbada de la ciudad 7.00
+I. Servicio de arrastre de grúa en la zona conurbada de la ciudad 9.00
 
-II. Kilómetro adicional por arrastre fuera de la zona conurbada 0.30
+II. Kilometro adicional por arrastre fuera de la zona conurbada 0.50
 
-III. Por maniobras especiales de 7.00 a 20.00
+III. Por maniobras especiales desde salida de camino por hora 7.00
 
-IV. Por vehículo detenido en el corralón, por día 1.00
+IV. Por maniobras especiales por volcadura 10.00
 
-V. Otros Según acuerdo de Cabildo.
+V. Por maniobras especiales de salvamento fuera del camino 20.00
+
+VI. Por pensión Sedan y Pick-Up 1.00
+
+VII. Por pensión Camión 3 Toneladas en adelante 2.00
+
+VIII. Por pensión motos y bicicletas 0.10
+
+IX. Otros de 0.10 a 20.00
 
 ### CAPITULO X. OTROS PRODUCTOS
 
@@ -4262,3 +4372,7 @@ P.O. 4 DE MAYO DE 2013.
 P.O. 27 DE JULIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE AGOSTO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
