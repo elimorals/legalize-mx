@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2012-02-18"
+last_updated: "2013-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -39,9 +39,11 @@ DECRETO No. 145
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 1o.
 
-Se crean en el Estado de Colima, de manera permanente, las siguientes Insignias:
+Se crean en el Estado de Colima, de manera permanente, para entregar a hombres y mujeres por su destacada labor en los diferentes ámbitos, las siguientes Insignias:
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 1968)</small>
 
@@ -75,29 +77,31 @@ V.- Condecoración “LIC. BALBINO DAVALOS”, que se otorgará a quienes se dis
 
 VI.- Condecoración “DR. MIGUEL GALINDO”, que se otorgara a quienes se hayan destacado en la labor científica (investigadores, médicos, químicos, biólogos, astrónomos, astrólogos, matemáticos, autores y tratadistas de la materia, etc.); y
 
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2013)</small>
 
-VII.- Premio Estatal de Periodismo, como reconocimiento público a la labor que realizan los trabajadores de los medios de comunicación, en las categorías siguientes:
+VII.- Premio Estatal de Periodismo, como reconocimiento público a la labor que realizan los trabajadores y colaboradores periodísticos de los medios de comunicación, en las categorías siguientes:
 
-I.- Reportaje;
+a) Reportaje;
 
-II.- Conducción de noticias por radio o televisión;
+b) Conducción de noticias por radio o televisión;
 
-III.- Artículo de fondo / opinión;
+c) Artículo de fondo / opinión;
 
-IV.- Caricatura / Humos;
+d) Análisis Político, siempre que sea periodista;
 
-V.-Entrevista;
+e) Caricatura / Humor;
 
-VI.- Crónica;
+f) Entrevista;
 
-VII.- Fotografía;
+g) Crónica;
 
-VIII.- Servicio de orientación y utilidad a la sociedad;
+h) Fotografía;
 
-IX.- Periodismo cultural / difusión científica; y
+i) Noticia;
 
-X.- Periodismo deportivo.
+j) Periodismo cultural / difusión científica; y
+
+k) Periodismo deportivo.
 
 La entrega de estos premios se hará en el marco del festejo del día de la libertad de expresión.
 
@@ -117,21 +121,23 @@ El otorgamiento de las insignias será decretado en cada caso particular por el 
 
 La entrega de las insignias la hará personalmente el propio Jefe del Poder Ejecutivo, o quien haga sus veces, en solemne ceremonia que anualmente habrá de efectuarse aprovechando uno de los actos celebrados con motivo de la Feria Regional, en la inteligencia de que el Decreto que en cada caso particular expida el H. Congreso Local para el otorgamiento de las condecoraciones, se dará a conocer en cada vez, personalmente por el mismo Ejecutivo del Estado.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 6o.
 
-La entrega del Premio Estatal de Periodismo a la labor que realizan los trabajadores de los medios de comunicación a que se refiere la fracción VII, del artículo 1° de esa Ley, se hará de manera personal en sesión solemne el día de la libertad de expresión o cuando así lo determine el pleno, en el Congreso del Estado.
+La entrega del Premio Estatal de Periodismo a la labor que realizan los trabajadores y colaboradores periodísticos de los medios de comunicación a que se refiere la fracción VII, del artículo 1° de esta Ley, se hará de manera personal en sesión solemne el día de la Libertad de expresión o cuando así lo determine el Pleno, en el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
 
-La Comisión de Educación y Cultura del H. Congreso del Estado, expedirá la convocatoria en el mes de marzo, misma que señalará los plazos, términos y requisitos, la cual será publicada en los periódicos de mayor circulación, dirigida a los medios de comunicación de la entidad, a los periodistas, reporteros y en general a toda la población del Estado, admitiéndose sólo propuestas en ternas de candidatos al Premio en sus diferentes categorías.
+La Comisión de Educación y Cultura del H. Congreso del Estado, expedirá la convocatoria durante el mes de abril, misma que señalará los plazos, términos y requisitos, la cual será publicada en los periódicos de mayor circulación, dirigida a los medios de comunicación de la entidad, a los periodistas, reporteros, colaboradores periodísticos y en general a toda la población del Estado, admitiéndose todas las propuestas de candidatos al Premio en sus diferentes categorías.
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
 
 La Comisión de Educación y Cultura del H. Congreso del Estado, convocará a la integración de un Consejo Ciudadano que examinará las candidaturas presentadas y propondrá al o los acreedores al premio o bien sugerirá que se declare desierto, si las candidaturas no reúnen las condiciones para ser consideradas.
 
-El Consejo Ciudadano se integrará con un representante de las instituciones de Educación Superior Públicas y Privadas del Estado, así como aquellas escuelas que tengan especialidad en comunicación o periodismo; las asociaciones o clubes debidamente registrados que agrupen a reporteros, periodistas, escritores, caricaturistas y fotógrafos de Colima; y por cada una de las administraciones municipales.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
+
+El Consejo Ciudadano se integrará con un representante de las instituciones de Educación Superior Públicas y Privadas del Estado, así como aquellas escuelas que tengan especialidad en comunicación o periodismo; las asociaciones o clubes debidamente registrados que agrupen a reporteros, periodistas, escritores, caricaturistas y fotógrafos de Colima.
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
 
@@ -188,3 +194,7 @@ P.O. 23 SEPTIEMBRE DE 2006.
 P.O. 18 DE FEBRERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE AGOSTO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
