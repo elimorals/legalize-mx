@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-atender-sancionar-y-eliminar-la-93833"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2013-04-08"
+last_updated: "2013-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -175,9 +175,11 @@ VIII Transparencia y acceso a la información.
 
 ### CAPÍTULO II.. DE LA DISCRIMINACIÓN
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 11.
 
-La discriminación, es toda conducta activa u omisiva que en forma de preferencia, distinción, exclusión, repudio, desprecio, rechazo o restricción, dirigida a una persona o grupo, basada en su origen o identidad indígena o nacional, sexo o género, edad, discapacidad, condición social o económica, condición de salud, embarazo, lengua, religión, opiniones, preferencia sexual, estado civil, identidad política, apariencia física, características genéticas, situación migratoria o cualquier otra que tenga por efecto negar, obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos humanos, en condiciones de equidad e igualdad.
+La discriminación, es toda conducta activa u omisiva que en forma de preferencia, distinción, exclusión, repudio, desprecio, rechazo o restricción, dirigida a una persona o grupo, basada en su origen o identidad indígena o nacional, sexo o género, edad, discapacidad, condición social o económica, condición de salud, embarazo, lengua, religión, opiniones, preferencia sexual, estado civil, identidad política, apariencia física, características genéticas, situación migratoria o cualquier otra que tenga por efecto negar, obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos humanos y libertades, en condiciones de equidad e igualdad.
 
 ###### Artículo 12.
 
@@ -187,9 +189,11 @@ Tampoco, se consideraran actos discriminatorios, los que por su naturaleza, no t
 
 ### CAPÍTULO III.. DE LAS MEDIDAS PREVENTIVAS, POSITIVAS Y COMPENSATORIAS PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 13.
 
-Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, están obligadas a planear, impulsar y adoptar las medidas preventivas, positivas y compensatorias que tiendan a favorecer condiciones de igualdad real de oportunidades y de trato, así como para prevenir, atender, sancionar y eliminar toda forma de discriminación, debiendo implementar como parte fundamental de sus políticas públicas, que el principio de igualdad y no discriminación, rija en todas las acciones, medidas y estrategias que se implementen en el ámbito de su respectiva competencia.
+Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, están obligadas a planear, impulsar y adoptar las medidas preventivas, positivas y compensatorias que tiendan a favorecer condiciones de igualdad real de oportunidades y de trato, así como para prevenir, atender, sancionar y eliminar toda forma de discriminación, debiendo implementar como parte fundamental de sus políticas públicas, que el principio de igualdad y no discriminación, rija en todas las acciones, medidas y estrategias que se implementen en el ámbito de su respectiva competencia con el fin de erradicar aquéllos obstáculos que limiten en los hechos el ejercicio de derechos y libertades de las personas, que impidan su pleno desarrollo y su efectiva participación en la vida política, económica, cultural y social del país y del Estado.
 
 ###### Artículo 14.
 
@@ -291,7 +295,9 @@ VI. Impulsar la armonización de la legislación local, de modo que los lineamie
 
 VII. Auspiciar la participación política de la mujer y el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a cualquier cargo o función pública en el Estado;
 
-VIII. Fomentar la libre elección del empleo e incentivar las oportunidades de acceso, permanencia y ascenso en el mismo, sin condicionarlo a pruebas de gravidez, maternidad, responsabilidades familiares, estado civil, o cualquier otro que limite el ejercicio pleno de sus derechos;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+VIII. Fomentar la libre elección del empleo e incentivar las oportunidades de acceso, permanencia y ascenso en el mismo, sin condicionarlo a pruebas de gravidez, maternidad, responsabilidades familiares, estado civil, origen o identidad indígena, o cualquier otro que limite el ejercicio pleno de sus derechos;
 
 IX. Establecer en igualdad de condiciones, la remuneración, prestaciones y condiciones laborales para el trabajo de igual valor;
 
@@ -383,13 +389,29 @@ VI. Procurar que en el marco de las Leyes aplicables, cuando se fijen sanciones 
 
 VII. Garantizar que en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se tomen en cuenta sus costumbres y especificidades culturales, respetando sus derechos humanos;
 
-VIII. Garantizar, a lo largo de cualquier proceso legal, el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua, usos y costumbres, respetando sus derechos humanos;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-IX. Garantizar la promoción y respeto de tradiciones y costumbres en la (sic) que participen todas las personas pertenecientes a la comunidad de que se trate; que incluyan programas de enseñanza, transmisión intergeneracional e intercultural;
+VIII. Garantizar, a lo largo de cualquier proceso legal, el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua, usos y costumbres, respetando sus derechos humanos; así como eliminar distinciones en los actos y documentos que expida la Oficina del Registro del Estado Familiar, en razón de la lengua u origen étnico de la persona para realizar el trámite;
 
-X. Fomentar e implementar programas públicos para modificar e inhibir prácticas consuetudinarias que vulneren los derechos humanos; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XI. Las demás que establezca la presente ley y otras disposiciones aplicables.
+IX. Garantizar la promoción y respeto de tradiciones y costumbres en la que participen todas las personas pertenecientes a la comunidad de que se trate, garantizando la protección de sus derechos humanos sobre cualquier tipo de uso o costumbre que atente contra la dignidad e integridad humana y en el que incluyan programas de enseñanza, transmisión intergeneracional e intercultural;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+X. Fomentar e implementar programas públicos para modificar e inhibir prácticas consuetudinarias que vulneren los derechos humanos;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XI. De acuerdo a la disponibilidad presupuestaría, difundir a través de textos, tecnología de la información, medios audiovisuales, impresos e informáticos: leyes, reglamentos, así como los contenidos de los programas, obras, servicios dirigidos a los pueblos y comunidades indígenas, en la lengua de sus correspondientes beneficiarios;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XII. Reconocer que las lenguas indígenas serán válidas, al igual que el español, para cualquier asunto o trámite de carácter público, así como para acceder plenamente a la gestión, servicios e información pública en el Estado de Hidalgo; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XIII. Las demás que establezca la presente ley y otras disposiciones aplicables.
 
 ###### Artículo 24.
 
@@ -806,3 +828,13 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado de Hidalgo dispondrá, que el presente Decreto, se traduzca a las lenguas que hablan los diferentes pueblos y comunidades indígenas existentes en el Territorio Estatal, así como, la difusión entre las diferentes dependencias educativas y de Gobierno en sus respectivos órdenes.
