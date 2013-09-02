@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2010-12-31"
+last_updated: "2013-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78304&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -57,9 +59,11 @@ QUE CREA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
 ### CAPÍTULO PRIMERO. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley tiene por objeto regular y garantizar el derecho a la igualdad entre mujeres y hombres, mediante los mecanismos institucionales y de aceleramiento para la igualdad, así como, a través de las políticas públicas de equiparación que permitan en el Estado, la materialización de la igualdad real en los ámbitos público y privado.
+La presente Ley tiene por objeto regular y garantizar el derecho a la igualdad entre mujeres y hombres, mediante los mecanismos institucionales y de aceleramiento para la igualdad, así como, a través de las políticas públicas de equiparación que permitan en el Estado, la materialización de la igualdad real en los ámbitos público y privado, para cimentar una sociedad justa sin discriminación con respeto mutuo entre las personas y sus culturas.
 
 ###### ARTÍCULO 2.
 
@@ -89,9 +93,11 @@ La rectoría y operación de la política en materia de igualdad real en el Esta
 
 En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 5.
 
-Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en el territorio del Estado de Hidalgo que, por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión o discapacidad, se encuentren con algún tipo de desventaja, trato diferenciado o ante la violación del principio de igualdad que esta Ley tutela.
+Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en el territorio del Estado de Hidalgo que, por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, lengua, opinión o discapacidad, se encuentren con algún tipo de desventaja, trato diferenciado o ante la violación del principio de igualdad que esta Ley tutela.
 
 ###### ARTÍCULO 6.
 
@@ -123,9 +129,27 @@ XII.- Perspectiva de género: Categoría científica, analítica y política que
 
 XIII.- Racionalidad pragmática: Conjunto de razones para hacer práctica la igualdad, el ejercicio de los derechos y la toma de decisiones;
 
-XIV.- Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XIV. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
 XV.- Transversalidad: Proceso que permite garantizar la incorporación de la perspectiva de género con el objeto de valorar las implicaciones que tiene, para las mujeres y los hombres, cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XVI.- Intracultural: Vitalización de los elementos culturales propios, dirigidos a fortalecer la identidad cultural, devolviendo el valor legítimo que corresponde a nuestras culturas y a nuestras cosmovisiones.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XVII.- Intercultural: Proceso de estacionamientos de comunicación e interacción entre personas y grupos donde no se permite que un grupo cultural esté por encima del otro, favoreciendo en todo momento la integración y convivencia entre culturas;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XVIII.- Plurilingüe: Que habla varias lenguas; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XIX.- Sororidad: Es una nueva experiencia práctica intelectual y política entre mujeres que pretende materializarse en acciones específicas.
 
 ### CAPÍTULO SEGUNDO. DE LA IGUALDAD REAL
 
@@ -237,9 +261,15 @@ VII.- Efectuar la planeación y previsión para incorporar en el Presupuesto de 
 
 VIII.- Promover, en coordinación con las Dependencias de la Administración Pública Federal y Municipal, la aplicación de la presente Ley;
 
-IX.- Promover la participación de la sociedad en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la Política de Igualdad entre mujeres y hombres; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-X.- Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+IX.- Promover la participación de la sociedad en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la Política de Igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+X.- Garantizar el bienestar, el desarrollo, la seguridad y la protección e igualdad dignidad (sic) de las personas, de los pueblos y las comunidades, y fomentar el respeto mutuo y el diálogo intracultural, intercultural y plurilingüe; y
+
+XI.- Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ###### ARTÍCULO 17.
 
@@ -527,11 +557,45 @@ III.- Establecer los mecanismos para la atención de las víctimas en todos los 
 
 IV.- Efectuar campañas sobre la importancia de la equidad de género y el respeto entre mujeres y hombres
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA IGUALDAD EN LOS PUEBLOS Y COMUNIDADES INDÍGENAS ENTRE MUJERES Y HOMBRES
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 35 BIS (SIC).- Serán objetivos de la Política de Igualdad en material (sic) de Pueblos y Comunidades Indígenas.
+
+I.- Garantizar los derechos de las mujeres indígenas en condiciones de equidad para garantizar su participación active (sic) y directa en la toma de decisiones relacionadas con la vida comunitaria;
+
+II.- Proteger a las mujeres; mayores de 60 años, embarazadas o lactantes, así mismo aquellas que tengan alguna discapacidad o incapacidad medica siendo titulares de los derechos sobre tenencia de la tierra, quienes deberán ser tratadas con respeto y dignidad y no podrán ser obligadas a realizar faenas en el campo, ni trabajos que excedan con capacidad física y pongan en riesgo su salud e integridad;
+
+III.- Eliminar el tratado diferenciado en los pueblos y comunidades indígenas que obstaculiza la igualdad en el uso de sus derechos y obligaciones para elegir o ser elegida como autoridad o representante, para el ejercicio de sus propias formas de gobierno; y
+
+IV.- Garantizar el acceso a bienes y servicios en igualdad de oportunidades.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 35 TER (SIC).- Para los efectos de lo previsto en el Artículo anterior, la Administración Pública Estatal desarrollará las siguientes acciones:
+
+I.- Asegurar que los miembros de los pueblos y comunidades indígenas gocen en pie de igualdad, los derechos y oportunidades que la legislación les otorga;
+
+II.- Establecer acciones para transversalizar la perspectiva de género en los pueblos y comunidades indígenas, con acciones específicas que sean medibles y evaluables;
+
+III.- Vigilar que se garantice la participación e integración de las mujeres en condiciones de equidad frente a los varones, de tal forma que contribuyan a lograr su realización y superación, así como el reconocimiento y respeto a su dignidad;
+
+IV.- Establecer sinergias y estrategias de sororidad entre los grupos feministas y de mujeres organizadas.
+
+V.- Establecer metodologías y formas de trabajo participativas que promuevan la equidad entre mujeres y hombres;
+
+VI.- Promover políticas dirigidas a eliminar todas las formas de discriminación contra las mujeres en el acceso, tenencia y herencia de la tierra;
+
+VII.- Difundir información en medios de comunicación escritos, electrónicos, radio y televisión sobre equidad de género y su puesta en práctica en los pueblos y comunidades indígenas; y
+
+VIII.- Desarrollar políticas, planes y programas para la prevención, atención y eliminación de la violencia en todas sus formas y en todos sus espacios, ejercida contra las mujeres indígenas; (sic)
 
 ## TÍTULO IV. DEL ACOMPAÑAMIENTO EN MATERIA DE IGUALDAD
 
-### CAPÍTULO PRIMERO. DE LA OBSERVANCIA EN MATERIA DE IGUALDAD
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO
 
 ###### ARTÍCULO 35.
 
@@ -563,7 +627,7 @@ Los servidores públicos que contravengan las disposiciones contenidas en la pre
 
 ## TÍTULO V. DE LA INSTITUCIONALIZACIÓN DE LA IGUALDAD
 
-### CAPÍTULO SEGUNDO. DE LA SOSTENIBILIDAD
+### CAPÍTULO PRIMERO. DE LA OBSERVANCIA EN MATERIA DE IGUALDAD
 
 ###### ARTÍCULO 39.
 
@@ -589,13 +653,13 @@ V.- Difundir información sobre los diversos aspectos relacionados con la iguald
 
 VI.- Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
-### CAPÍTULO TERCERO. DEL PROGRAMA ESTATAL PARA GARANTIZAR LA IGUALDAD REAL ENTRE MUJERES Y HOMBRES
+### CAPÍTULO SEGUNDO. DE LA SOSTENIBILIDAD
 
 ###### ARTÍCULO 42.
 
 La evaluación de las acciones y políticas de gobierno se articularán para eliminar cualquier desigualdad entre mujeres y hombres y la consecuente discriminación, buscando, en todo momento, la sostenibilidad social, a fin de que se den procesos de institucionalización de la igualdad.
 
-### CAPÍTULO CUARTO. DEL DERECHO A LA INFORMACIÓN EN MATERIA DE IGUALDAD
+### CAPÍTULO TERCERO. DEL PROGRAMA ESTATAL PARA GARANTIZAR LA IGUALDAD REAL ENTRE MUJERES Y HOMBRES
 
 ###### ARTÍCULO 43.
 
@@ -612,6 +676,8 @@ IV.- Mecanismos de evaluación.
 ###### ARTÍCULO 44.
 
 El Instituto deberá revisar el Programa Estatal de Igualdad cada tres años, y se modificará, en caso de ser necesario, de conformidad con la evaluación del impacto que efectué.
+
+### CAPÍTULO CUARTO. DEL DERECHO A LA INFORMACIÓN EN MATERIA DE IGUALDAD
 
 ###### ARTÍCULO 45.
 
@@ -672,3 +738,9 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
