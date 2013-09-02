@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2013-08-26"
+last_updated: "2013-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE SEPTIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE SEPTIEMBRE DE 2013.</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -12683,7 +12683,7 @@ El proyecto constará básicamente de dos documentos: la memoria de cálculo y l
 
 la Memoria de Cálculo deberá cubrir, con el suficiente grado de detalle como para poder ser revisada (sic) evaluada por un profesionista ajeno al proyecto, los siguientes aspectos:
 
-l. Descripción general del proyecto y del tipo de estructura a utilizarse;
+I. Descripción general del proyecto y del tipo de estructura a utilizarse;
 
 II. Resistencia y calidad de los materiales estructurales a utilizarse;
 
@@ -18145,7 +18145,7 @@ Los establecimientos dedicados a la renta de equipos de cómputo para Internet o
 
 Los establecimientos dedicados a la venta, renta y/o intercambio de fonogramas o videogramas, deberán solicitar licencia de funcionamiento en los términos de este Código y cumplir con las siguientes obligaciones:
 
-l. Operar en un horario de las nueve a las veintitrés horas.
+I. Operar en un horario de las nueve a las veintitrés horas.
 
 II. Prohibir que laboren menores de edad dentro del establecimiento.
 
@@ -18199,7 +18199,7 @@ Las personas que se dediquen a la venta de revistas y periódicos en estanquillo
 
 > <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO IX], P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO X (SIC). De los Espectáculos Públicos
+### CAPÍTULO XVIII. De los Espectáculos Públicos
 
 ###### ARTÍCULO 1339.
 
@@ -18363,9 +18363,7 @@ Será potestativo del propietario de cualquier establecimiento, en cualquiera de
 
 Será potestativo del propietario de cualquier establecimiento, mientras dure la actuación de los ejecutantes de actividades musicales, apagar los aparatos electrónicos musicales que operen en el local, así como prestar todas las facilidades para el desarrollo de la actividad musical.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE SEPTIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS Y DIVERSIONES PÚBLICAS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 26 DE AGOSTO DE 2013)</small>
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS Y DIVERSIONES PÚBLICAS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 26 DE AGOSTO DE 2013) (F. DE E., P.O. 2 DE SEPTIEMBRE DE 2013)
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -21885,9 +21883,9 @@ Todas las disposiciones que se opongan al presente Reglamento, se entenderán de
 
 P.O. 26 DE AGOSTO DE 2013.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE SEPTIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-PRIMERO.- Se deroga el Capítulo X (sic) del Libro Séptimo del Código Municipal de Aguascalientes, artículos 1348, 1349, 1350, 1351, 1352, 1353, 1354 y 1355.
+PRIMERO.- Se deroga el Capítulo XVIII del Libro Séptimo del Código Municipal de Aguascalientes, artículos 1348, 1349, 1350, 1351, 1352, 1353, 1354 y 1355.
 
 SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
