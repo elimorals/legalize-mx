@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-del-suelo-del-municipio-25406
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-01"
-last_updated: "2013-04-17"
+last_updated: "2013-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2002.
 
@@ -1373,6 +1373,10 @@ V. Los Miembros de la Comisión de Desarrollo Urbano del R. Ayuntamiento.
 
 Será presidida por el Presidente Municipal y en su ausencia, será presidida por el Secretario de Desarrollo Urbano y Ecología. Las sesiones se tomarán por mayoría de los votos de los integrantes presentes, correspondiendo voto de calidad, en los casos de empate, al que presida la sesión. Se levantará un acta de cada sesión por quien sea designado Secretario de actas, misma que deberá ser firmada por los miembros presentes de la comisión.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Solo en los casos de cambio de alineamientos de uso de suelo de aquellos destinos y usos comerciales del suelo y edificios contemplados en el numeral 9 del artículo 20 y los destinos y usos de servicios del suelo y edificios contemplados en el numeral 15 del artículo 21, de este ordenamiento legal, corresponderá al Secretario de Desarrollo Urbano y Ecología su análisis y estudio, emitiendo si son o no factibles su autorización.
+
 > <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 24 Bis 2.
@@ -2125,11 +2129,11 @@ Cuando un predio o edificio no tenga capacidad para alojar el número de cajones
 
 Cuando en un mismo predio se tengan usos del suelo y/o edificios múltiples y desfasados en horarios, la Secretaría de Desarrollo Urbano y Ecología podrá autorizar que el área de estacionamiento sea menor que la suma total de los requerimientos sin que ésta sea menor al requerimiento mayor de las partes individuales.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 93.
 
-En los fraccionamientos y/o conjuntos habitacionales de interés social con lotes menores a 120 metros cuadrados de superficie que tengan usos habitacionales y que, además tengan usos comerciales y de servicios vecinales o de barrio no se requerirán los cajones de estacionamiento para estos dos últimos usos como se indica en el Artículo 89, siempre y cuando el área del uso comercial y de servicios no exceda del 40% del total de la construcción.
+En los Fraccionamientos y/o conjuntos habitacionales de interés social con lotes menores a 120 metros cuadrados de superficie que tengan usos habitacionales y que además tengan usos comerciales y de servicios vecinales o de barrio no se requerirán los cajones de estacionamiento como se indica en el Artículo 89, siempre y cuando el área del uso comercial y de servicios no exceda de 60 M2 de Construcción.
 
 ###### Artículo 94.
 
@@ -3496,3 +3500,7 @@ P.O. 17 DE ABRIL DE 2013.
 Primero: Las presentes modificaciones de este Reglamento entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León y en la Gaceta Municipal.
 
 Segundo: Envíese para su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
