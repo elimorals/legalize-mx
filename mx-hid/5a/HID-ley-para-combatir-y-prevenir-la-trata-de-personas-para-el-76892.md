@@ -4,7 +4,7 @@ identifier: "HID-ley-para-combatir-y-prevenir-la-trata-de-personas-para-el-76892
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2011-07-18"
+last_updated: "2013-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA COMBATIR Y PREVENIR LA TRATA DE PERSONAS PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 4 de octubre de 2010.
 
@@ -193,23 +193,31 @@ VIII.- La Secretaría de Seguridad Pública;
 
 IX.- La Secretaría de Salud;
 
-X.- La Procuraduría General de Justicia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XI.- El Tribunal Superior de Justicia;
+X.- La Secretaría del Trabajo y Previsión Social;
 
-XII.- Un Diputado representante del Poder Legislativo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XIII.- Entidades de la Administración Pública Federal que estime conveniente;
+XI.- La Secretaría de Planeación, Desarrollo Regional y Metropolitano;
 
-XIV.- El Sistema Estatal para el Desarrollo Integral de la Familia;
+XII.- La Procuraduría General de Justicia;
 
-XV.- El Instituto Hidalguense de las Mujeres;
+XIII.- El Tribunal Superior de Justicia;
 
-XVI.- El Instituto para la atención de los Adultos Mayores;
+XIV.- Un Diputado representante del Poder Legislativo;
 
-XVII.- El Consejo Estatal de Población; y
+XV.- Entidades de la Administración Pública Federal que estime conveniente;
 
-XVIII.- La Coordinación General de Apoyo al Hidalguense.
+XVI.- El Sistema Estatal para el Desarrollo Integral de la Familia;
+
+XVII.- El Instituto Hidalguense de las Mujeres;
+
+XVIII.- El Instituto para la atención de los Adultos Mayores;
+
+XIX.- El Consejo Estatal de Población; y
+
+XX.- La Coordinación General de Apoyo al Hidalguense.
 
 ###### Artículo 15.
 
@@ -465,7 +473,7 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE NOVIEMBRE DE 2010.
 
@@ -476,3 +484,7 @@ El presente Decreto entrará en vigor al día siguiente al de su Publicación en
 P.O. 18 DE JULIO DE 2011.
 
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
