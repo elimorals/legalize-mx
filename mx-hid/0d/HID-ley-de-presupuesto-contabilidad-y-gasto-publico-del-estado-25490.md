@@ -4,7 +4,7 @@ identifier: "HID-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-2549
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-15"
-last_updated: "2008-03-10"
+last_updated: "2013-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE HIDALGO
 
-LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE HIDALGO
+LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 15 de julio de 2002.
 
@@ -54,6 +54,10 @@ QUE CONTIENE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE H
 ###### ARTICULO 1.
 
 La presente Ley es de orden público, tiene por objeto normar y regular las acciones relativas a la planeación, programación, presupuestación, ejercicio, contabilidad, control, vigilancia y evaluación del Gasto Público Estatal, los procedimientos de coordinación para el registro e información de estas materias y corresponde su aplicación al Titular .del Poder Ejecutivo del Estado a través de la Secretaría de Finanzas la cual dictará las normas para su aplicación e interpretación administrativa.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Los sujetos obligados a cumplir las disposiciones de la presente Ley deberán observar que la administración de los recursos públicos del Estado sea con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
 
 ###### ARTICULO 2.
 
@@ -505,7 +509,7 @@ Se exceptúa de lo dispuesto en este Artículo la documentación relativa a los 
 
 La revisión de Cuenta Pública, tendrá por objeto determinar los resultados de la gestión financiera, verificar si se ha ajustado a los criterios señalados en el presupuesto aprobado, conforme a las disposiciones aplicables, así como comprobar el cumplimiento de los objetivos en los planes, programas y subprogramas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 83.
 
@@ -667,7 +671,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE DICIEMBRE DE 2005.
 
@@ -680,3 +684,7 @@ P.O. 10 DE MARZO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
