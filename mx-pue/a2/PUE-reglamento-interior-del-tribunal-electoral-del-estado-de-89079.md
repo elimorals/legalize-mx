@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-tribunal-electoral-del-estado-de-89079"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-10"
-last_updated: "2012-09-17"
+last_updated: "2013-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 14 DE SEPTIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 10 de agosto de 2012.
 
@@ -457,7 +455,9 @@ XXII. Las demás que le confieren las leyes aplicables y las que le encomiende e
 
 El Secretario tendrá las atribuciones siguientes:
 
-I. Autorizar las actuaciones del Pleno o del Presidente;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+I. Autorizar las actuaciones del Pleno o del Presidente; dar fe exclusivamente en el ejercicio de sus atribuciones, así como autorizar con su firma las constancias y documentos expedidos dentro del ámbito de competencia del Tribunal y suscribir los documentos inherentes al ejercicio de su cargo;
 
 II. Dar cuenta de los asuntos que correspondan al Pleno o al Presidente, en su caso;
 
@@ -2434,3 +2434,9 @@ CUARTO.- Quedan derogadas todas las disposiciones generales y acuerdos que se op
 QUINTO.- Para la aplicación de la notificación por correo electrónico, conforme a lo establecido en los artículos 166 y 168 del presente Reglamento, se deberán aprobar los lineamientos y contar con las herramientas tecnológicas que permitan su adecuada aplicación.
 
 H. Puebla de Zaragoza, a 6 de agosto de 2012.- Presidente.- MAGISTRADO ANTONIO OROPEZA BARBOSA.- Rúbrica.- Magistrado.- REYNANLDO LAZCANO FERNÁNDEZ.- Rúbrica.- Magistrado.- MARCO ANTONIO GABRIEL GONZÁLEZ ALEGRÍA.- Rúbrica.- Secretario General de Acuerdos.- ISRAEL ARGÚELLO BOY.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
