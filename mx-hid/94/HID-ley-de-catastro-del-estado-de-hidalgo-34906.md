@@ -4,7 +4,7 @@ identifier: "HID-ley-de-catastro-del-estado-de-hidalgo-34906"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-24"
-last_updated: "2003-11-24"
+last_updated: "2013-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE CATASTRO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CATASTRO DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 2 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 24 de noviembre de 2003.
 
@@ -628,3 +630,17 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Catastro del Estado de Hidalgo, publicada en el Periódico Oficial del Estado el 24 de noviembre del 2003 y se derogan todas las demás disposiciones que se opongan a esta Ley.
+
+TERCERO. En tanto se expiden las disposiciones administrativas derivadas de esta ley, seguirán en vigor las que rigen actualmente, en lo que no la contravengan.
+
+CUARTA (SIC). El Reglamento a que se refiere esta Ley se emitirá en un plazo de 180 días contados a partir de la fecha de entrada en vigor.
+
+QUINTA (SIC). Todo los actos, procedimientos y recursos administrativo (sic) relacionados con la materia de esta Ley que se hubieren iniciado bajo la vigencia de la Ley de Catastro que se abroga, se tramitarán y resolverán conforme a lo (sic) disposiciones de la misma.
