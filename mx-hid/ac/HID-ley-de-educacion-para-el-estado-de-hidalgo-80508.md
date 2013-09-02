@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-80508"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-28"
-last_updated: "2013-08-19"
+last_updated: "2013-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 28 de marzo de 2011.
 
@@ -61,19 +61,25 @@ Las disposiciones de esta Ley son de orden público, interés social y de observ
 
 La función social educativa de las universidades y demás instituciones de educación superior a las que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, se regulará por las leyes que rigen a dichas instituciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 2.
 
-Todo individuo tiene derecho a recibir educación y por lo tanto, todos los habitantes de la Entidad tienen las mismas oportunidades de acceso al Sistema Educativo Estatal. La educación que imparta el Estado deberá desarrollar armónicamente todas las facultades del ser humano y fomentará en él, el amor a la patria y la conciencia de la solidaridad internacional, en la independencia y la justicia.
+Todo individuo tiene derecho a recibir educación y por lo tanto, todos los habitantes de la Entidad tienen las mismas oportunidades de acceso al Sistema Educativo Estatal. La educación que imparta el Estado deberá desarrollar armónicamente todas las facultades del ser humano y fomentará en él, el respeto a los derechos humanos, el amor a la patria y la conciencia de la solidaridad internacional, en la independencia y la justicia.
 
-La educación es un medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad y es factor determinante para la adquisición de conocimientos y para formar a personas que tengan sentido de solidaridad social.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+La educación es un medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad y es factor determinante para la adquisición de conocimientos y para formar a personas que tengan sentido de solidaridad social, igualdad genérica y no discriminación.
 
 En consecuencia no se podrá negar la participación en el proceso de enseñanza aprendizaje a personas que presenten padecimientos físicos o mentales y el objetivo en estos casos será ayudarlos a alcanzar la plenitud en ambos aspectos.
 
 Deberá asegurarse la participación activa del educando en el proceso educativo, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines a que se refiere el Artículo 7 de esta Ley.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 3.
 
-El Estado está obligado a prestar todos los servicios educativos para que su población pueda cursar la educación preescolar, primaria y secundaria, estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la presente Ley.
+El Estado está obligado a prestar todos los servicios educativos para que su población pueda cursar la educación preescolar, primaria, secundaria y media superior estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la presente Ley, respetando y favoreciendo el desarrollo de los hidalguenses y de los pueblos y comunidades indígenas de la entidad.
 
 ###### ARTÍCULO 4.
 
@@ -83,23 +89,37 @@ Todos los habitantes del Estado, deben cursar la educación preescolar, primaria
 
 Todo hidalguense o vecino del Estado, tiene derecho a recibir educación sin distinción de raza, sexo, lengua, ideología, creencia religiosa, situación migratoria, impedimento físico, de salud, estado de gravidez, o cualquiera otra condición personal, económica, política o social, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables; por lo que el Estado tiene obligación de impartir la educación básica. Además, promoverá y atenderá la educación media superior y superior y podrá ofrecer educación inicial, especial, para adultos, capacitación para el trabajo, normal y demás para la formación de maestros de educación básica. Para tal efecto:
 
-l.- La educación preescolar, primaria, secundaria son obligatorias;
+I.- La educación preescolar, primaria, secundaria son obligatorias;
 
-II.- El Estado, en concurrencia con la Federación, promoverá el interés por la ciencia, la tecnología y las actitudes que estimulen la investigación científica y la innovación tecnológica y humanística, motivando el aprecio y difusión de las culturas regional, estatal, nacional y universal;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+II.- El Estado, en concurrencia con la Federación, promoverá el interés por la ciencia, la tecnología y las actitudes que estimulen la investigación científica y la innovación tecnológica y humanística, motivando el aprecio y difusión de las culturas regional, estatal, nacional y universal, libres de estereotipos de sumisión;
 
 III.- La Educación Básica que imparta el Estado, cubrirá la demanda de los y las hidalguenses; brindando la oportunidad efectiva de concluirla en cualquier institución o programa, a menores y adultos que por alguna razón no la hubiesen terminado en forma regular;
 
-IV.- La Autoridad Educativa Local, atenderá la educación de los grupos étnicos de la Entidad, enriqueciendo los contenidos regionales de los libros de texto gratuitos en su lengua materna; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- La Autoridad Educativa Local, atenderá la educación de los grupos étnicos de la Entidad, enriqueciendo los contenidos regionales de los libros de texto gratuitos en su lengua materna; asimismo, en los niveles básico, media superior y superior, se fomentará la educación bilingüe e intercultural, el multilingüismo y el respeto a la diversidad y los derechos lingüísticos y favoreciendo a los derechos humanos de los individuos en general y de las mujeres en particular, para que no queden condicionados a usos y costumbres; y
 
 V.- La educación que imparta el Estado, en el marco del Federalismo, se llevará a cabo con la concurrencia prevista en las Constituciones Políticas Federal y Estatal, conforme a la distribución de la función social educativa establecida en la Ley General de Educación y en el presente ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 6.
 
-La educación que imparta el estado será:
+La educación que imparta el Estado será:
 
-l.- Laica. Se mantendrá por completo ajena a cualquier doctrina religiosa; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-II.- Gratuita. Las donaciones de cualquier índole destinadas a promover o fomentar la educación, en ningún caso se entenderán como contraprestaciones del servicio educativo.
+I.- Laica. Se mantendrá por completo ajena a cualquier doctrina religiosa;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Gratuita. Las donaciones de cualquier índole destinadas a promover o fomentar la educación, en ningún caso se entenderán como contraprestaciones del servicio educativo; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+III.- Libre de prejuicios y estereotipos de sumisión, sustentada en los principios de equidad, igualdad y no discriminación.
 
 Los recursos que aporten la Federación, el Estado y los Municipios, deberán atender las necesidades del servicio educativo.
 
@@ -115,15 +135,25 @@ III.- Orientar la educación hacia el desarrollo de competencias y habilidades p
 
 IV.- Promover acciones en todos los tipos y modalidades educativas para que los estudiantes desarrollen sus capacidades para aprender a aprender, estimulando la atención, la memoria y el ejercicio del pensamiento. Que aprendan a hacer, que aprendan a vivir juntos iguales y diferentes y aprendan a ser;
 
-V.- Fortalecer la conciencia de la nacionalidad y la soberanía, el aprecio por la historia, los símbolos patrios, las instituciones nacionales, tradiciones, riqueza artística, especificidades interculturales y pluriétnicas, propiciando la adquisición, enriquecimiento y difusión de los bienes y valores de la cultura universal, nacional y, en especial, la del patrimonio cultural del Estado;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-VI.- Promover mediante la enseñanza, el conocimiento de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas; así como impulsar el desarrollo de la educación indígena, proteger y estimular las características lingüísticas e interculturales de cada uno de los diversos grupos étnicos del Estado, de la población rural dispersa y de grupos migrantes del mismo. Los hablantes de lenguas indígenas, tendrán acceso a los niveles de preescolar y primaria en su propia lengua y en español.
+V.- Fortalecer la conciencia de la nacionalidad y la soberanía, el aprecio por la historia, los símbolos patrios, las instituciones nacionales, los derechos humanos, tradiciones, riqueza artística, especificidades interculturales y pluriétnicas, propiciando la adquisición, enriquecimiento y difusión de los bienes y valores de la cultura universal, nacional y en especial la del patrimonio cultural del Estado;
 
-VII.- Propiciar el conocimiento y la práctica de una cultura democrática en todos los niveles educativos como forma de Gobierno y convivencia, que permita a todos los educandos participar en la toma de decisiones para el mejoramiento de la sociedad;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-VIII.- Promover los valores de justicia, observancia de la Ley, igualdad de los individuos ante ésta; propiciando la cultura de la legalidad, de la paz y la no violencia, así como el conocimiento de los derechos humanos y el respeto a los mismos;
+VI.- Promover mediante la enseñanza, el conocimiento de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas; así como impulsar el desarrollo de la educación indígena, bilingüe e intercultural, proteger y estimular las características lingüísticas e interculturales de cada uno de los diversos grupos étnicos del Estado, de la población rural dispersa y de grupos migrantes del mismo. Los hablantes de lenguas indígenas, tendrán acceso a los niveles de educación básica, media y media superior, obligatoria en su propia lengua y en español;
 
-IX.- Promover en todos los tipos, niveles y modalidades de la educación, actitudes tendentes a lograr la equidad de género, la educación para la paz, la tolerancia y el respeto a la diversidad humana;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- Propiciar el conocimiento y la práctica de una cultura democrática, al interior de la familia y en todos los niveles educativos como forma de gobierno y convivencia, que permita a todos los educandos participar en la toma de decisiones para el mejoramiento de la sociedad;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+VIII.- Promover los valores de justicia, observancia de la Ley, igualdad de los individuos ante ésta; la igualdad sustantiva entre mujeres y hombres, la no discriminación, propiciando la cultura de la legalidad, de la paz y la no violencia en cualquiera de sus manifestaciones, de la equidad de género; de la riqueza multicultural y pluriétnica de la nación; así como el conocimiento de los derechos humanos y el respeto a los mismos;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+IX.- Promover en todos los tipos, niveles y modalidades de la educación, actitudes tendentes a lograr la erradicación de la violencia contra las mujeres, la igualdad sustantiva entre mujeres y hombres, la educación para la paz, la tolerancia y el respeto a la diversidad humana;
 
 X.- Preparar para la vida y al mismo tiempo, fomentar la investigación y la innovación científica y tecnológica; así como la formación de recursos humanos y la generación de conocimiento útil para la solución de problemáticas en el Estado y sus regiones;
 
@@ -135,7 +165,9 @@ XIII.- Impulsar la enseñanza del idioma extranjero en el que mayoritariamente s
 
 XIV.- Fomentar la cultura de la salud, fortaleciendo de manera permanente las actividades físicas con sentido de corporeidad, la práctica del deporte, los hábitos de higiene y sana alimentación, la educación sexual y el desarrollo de la sensibilidad para erradicar la violencia familiar y escolar;
 
-XV.- Desarrollar actitudes solidarias en los individuos y crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XV.- Desarrollar actitudes solidarias en los individuos y crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a la violencia de género;
 
 XVI.- Promover el conocimiento y contenido de las Constituciones Políticas de los Estados Unidos Mexicanos y del Estado de Hidalgo.
 
@@ -157,23 +189,41 @@ XXIII.- Promover y fomentar la lectura;
 
 XXIV.- Difundir los derechos y deberes de niños, niñas y adolescentes y las formas de protección con que cuentan para ejercitarlos;
 
-XXV.- Realizar acciones educativas para prevenir que se cometan ilícitos en contra de menores de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XXVI.- Fomentar desde los niveles de educación básica la cultura del ahorro;
+XXV.- Realizar acciones educativas para prevenir que se cometan ilícitos en contra de menores de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XXVI.- Fomentar desde los niveles de educación básica la cultura del ahorro; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XXVII.- La eliminación de estereotipos establecidos en función del sexo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 8.
 
-El criterio que orientará la educación que el Estado y sus organismos descentralizados y órganos desconcentrados, así como los particulares, impartan, se basará en los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra las mujeres, niñas y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios; además:
+El criterio que orientará la educación que el Estado y sus organismos descentralizados y órganos desconcentrados, así como los particulares, impartan, se basará en los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra las mujeres, niñas y niños e indígenas, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios.
 
-I.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo, debiendo consecuentemente iniciarse y desarrollarse desde las estructuras familiares y sociales;
 
 II.- Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, la defensa de nuestra independencia política, el aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-III.- Contribuirá a la mejor convivencia humana, aportando elementos para robustecer en el educando el aprecio a la dignidad de la persona, la integridad de los diversos tipos de familia, la convicción del interés general de la sociedad y la cultura de la paz sustentando los ideales de fraternidad e igualdad y respeto de los derechos de todos los seres humanos, evitando los privilegios de raza, religión, grupo, sexo o de individuos; y
+III.- Contribuirá a la mejor convivencia humana, aportando elementos para robustecer en el educando el aprecio a la dignidad de la persona, la integridad de los diversos tipos de familia, la solución no violenta de conflictos, la convicción del interés general de la sociedad, sustentando los ideales de fraternidad e igualdad de derechos de todos los seres humanos, evitando los privilegios de raza, religión, grupo, sexo o de individuos;
 
-IV.- Contribuirá a evitar toda práctica, conducta, expresión y actitud que conduzca a la discriminación o subordinación de género.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Contribuirá a evitar toda práctica, conducta, expresión y actitud que conduzca a la discriminación o subordinación de género; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Respetará los principios de la comunidad, como forma de vida y razón de ser de los pueblos y comunidades indígenas.
 
 ###### ARTÍCULO 9.
 
@@ -225,7 +275,9 @@ El Titular del Poder Ejecutivo Estatal, a través de la Autoridad Educativa Loca
 
 La autoridad educativa local tiene en exclusiva las atribuciones siguientes:
 
-I.- Prestar los servicios de educación inicial, básica, incluyendo la indígena, especial, para adultos, capacitación para el trabajo, media superior y superior, normal y demás para la formación de maestros de educación básica;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Prestar los servicios de educación inicial, básica, incluyendo la indígena bilingüe e intercultural, especial, para adultos, capacitación para el trabajo, media superior y superior, normal y demás para la formación de maestros de educación básica;
 
 II.- Planear, organizar y dirigir la política educativa;
 
@@ -245,9 +297,33 @@ IX.- Otorgar, negar o revocar autorización a los particulares para impartir edu
 
 X.- Coordinar y operar un padrón estatal de alumnos, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un Sistema Estatal de Información Educativa coordinado con el Sistema Nacional de Información Educativa;
 
-XI.- Establecer, regular y operar, de conformidad con las disposiciones emitidas por la autoridad educativa federal, los mecanismos de ingreso, promoción y permanencia en el servicio docente y de administración escolar; así como sugerir las modificaciones que considere necesarias para el mejor funcionamiento de tales mecanismos; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XII.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables en la materia.
+XI.- Establecer, regular y operar, de conformidad con las disposiciones emitidas por la autoridad educativa federal, los mecanismos de ingreso, promoción y permanencia en el servicio docente y de administración escolar; así como sugerir las modificaciones que considere necesarias para el mejor funcionamiento de tales mecanismos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XII.- Concertar acciones y establecer convenios con instituciones de educación superior, para que sus egresados presten servicio social en escuelas de las comunidades rurales, zonas urbanas marginadas y regiones habitadas por las comunidades indígenas de la Entidad;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XIII.- Establecer programas educativos que promuevan la educación bilingüe e intercultural, y permitan el rescate y el conocimiento de las culturas indígenas del Estado;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XIV.- Garantizar que los profesores de educación indígena que atiendan la educación básica en comunidades indígenas hablen y escriban la lengua indígena del lugar y conozcan la cultura del pueblo o comunidad en el que se desempeñen;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XV.- Apoyar la formación y acreditación profesional de intérpretes y traductores en lenguas indígenas;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XVI.- Promover la conservación de las costumbres, tradiciones y expresiones autóctonas; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XVII.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables en la materia.
 
 ###### ARTÍCULO 15.
 
@@ -259,9 +335,13 @@ II.- Celebrar acuerdos, convenios y contratos con la Federación, las demás ent
 
 III.- Editar libros y producir materiales de apoyo didáctico, comprendiendo medios apropiados en la lengua indígena, que favorezcan el proceso educativo, distintos a los libros de texto gratuitos;
 
-IV.- Prestar servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar al sistema educativo, la innovación educativa y la investigación científica, tecnológica y humanística;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Promover permanentemente la investigación que sirva como base a la innovación educativa y a la solución de los problemas económicos y sociales del Estado;
+IV.- Prestar servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar al sistema educativo, la innovación educativa y la investigación científica, tecnológica y humanística; asimismo procurar que en las bibliotecas públicas se reserve un lugar para la conservación de la información y documentación más representativa de la literatura y lenguas indígenas;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Promover permanentemente la investigación con perspectiva de género que sirva como base a la innovación educativa y a la solución de los problemas económicos y sociales del Estado;
 
 VI.- Impulsar el desarrollo de la enseñanza de las Tecnologías y de la investigación científica;
 
@@ -273,7 +353,9 @@ IX.- Promover prácticas cooperativas de ahorro, producción y consumo, de acuer
 
 X.- Distribuir en forma oportuna, completa, amplia y eficiente los libros de texto gratuitos y demás materiales educativos complementarios que la Autoridad Educativa Federal le proporcione, así como los materiales didácticos elaborados en el Estado con contenidos específicos y regionales destinados a preservar sus particularidades;
 
-XI.- Conceder becas económicas o de exención, así como estímulos, a los estudiantes que así lo requieran, de acuerdo con su situación socioeconómica y desempeño académico, en términos de los reglamentos aplicables y la disponibilidad presupuestal;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XI.- Conceder becas económicas o de exención, así como estímulos, a los estudiantes que así lo requieran, de acuerdo con su situación socioeconómica y desempeño académico, dando prioridad a aquellos alumnos procedentes de pueblos y comunidades indígenas del Estado, en términos de los reglamentos aplicables y la disponibilidad presupuestal;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
 
@@ -285,23 +367,25 @@ XIV.- Vigilar el estricto cumplimiento por parte de las empresas establecidas en
 
 XV.- Promover la mejora continua de los procesos académicos y administrativos del sistema educativo;
 
-XVI.- Canalizar a la instancia correspondiente, a través de los educadores, los casos de educandos con problemas de salud física o mental;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XVI.- Canalizar a la instancia correspondiente, a través de los educadores, los casos de educandos con problemas de salud física, mental o de violencia escolar en el centro educativo, en su familia o en su comunidad;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
 XVII.- Elaborar un Plan de Convivencia, Paz Escolar y Prevención de la Violencia;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XVIII.- Establecer lineamientos para la atención médica y tratamiento psicológico a las víctimas y a los agresores;
+XVIII.- Promover e impulsar en el ámbito de su competencia las actividades y programas dirigidos a prevenir, atender y sancionar la violencia contra las mujeres, así como la igualdad real entre mujeres y hombres en términos de los ordenamientos en la materia;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XIX.- Determinar, sin prejuicio del desarrollo escolar de los alumnos, el tipo de faltas y sanciones que ameriten los actos de violencia;
+XIX.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y (sic)
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XX.- Promover e impulsar programas de prevención, detección y atención de casos de violencia y abuso escolar en cualquiera de sus manifestaciones;
+XX.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables en la materia.
 
 > <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -309,11 +393,11 @@ XXI.- Vigilar que los alimentos y bebidas comercializados al interior de las esc
 
 > <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XXII.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y
+XXII.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y (sic)
 
 > <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XXIII.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables en la materia.
+XXIII.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables en la materia. (sic)
 
 ###### ARTÍCULO 16.
 
@@ -347,7 +431,9 @@ El educador, en la era del conocimiento, es un profesional del aprendizaje; adem
 
 Para ejercer la docencia en instituciones establecidas por el Estado, por sus organismos descentralizados y por los particulares con autorización o con reconocimiento de validez oficial de estudios, los educadores deberán de satisfacer los requisitos que, en su caso, se estipulen en los acuerdos entre la autoridad educativa federal y la autoridad educativa local.
 
-Los maestros de educación indígena que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación que diseñe la autoridad educativa y su bilingüismo en la lengua indígena que corresponda y el español.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Los maestros de educación indígena que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación que diseñe la autoridad educativa, y certificar su bilingüismo en la lengua indígena que corresponda y el español, asimismo conocer la cultura del pueblo o comunidad indígena en el que se desempeñen.
 
 El Estado otorgará un salario profesional digno y otras prestaciones, que permitan al profesorado de los planteles del propio Estado alcanzar un nivel de vida decoroso para ellos y su familia; puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan y para realizar actividades destinadas a su desarrollo personal y profesional.
 
@@ -397,7 +483,9 @@ I.- Participar en el desarrollo de las actividades educativas, pedagógicas, cie
 
 II.- Recibir el cuidado y atención necesarios para preservar su integridad física, sexual, psicológica y social, fincadas en el respeto a su dignidad;
 
-III.- Participar en actividades académicas, artísticas y demás que se lleven a cabo en la escuela, que les permitan el desarrollo de su autoestima; además de ser tratados con respeto, considerando sus características particulares;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+III.- Participar en actividades académicas, artísticas y demás que se lleven a cabo en la escuela, que les permitan el desarrollo de su autoestima; además de ser tratados con respeto, considerando sus características particulares y a no ser discriminados;
 
 IV.- Actuar en un ambiente de enseñanza que genere la construcción de aprendizajes significativos que permitan plantear y afrontar de mejor manera los problemas de la vida cotidiana tales como la pobreza, cambio climático, prevención de la salud, el desempleo y otras fuentes de aprendizaje;
 
@@ -417,21 +505,31 @@ XI.- Recibir la atención que requieran, por parte de los docentes y las autorid
 
 XII.- Organizarse en los términos señalados en el Reglamento Interno de cada institución educativa;
 
-XIII.- Recibir instrucción escolar también en lengua indígena, para aquellos cuya lengua materna sea distinta del español;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XIII.- Recibir instrucción escolar obligatoria también en lengua indígena, para aquellos cuya lengua materna sea distinta del español;
 
 XIV.- Recibir atención especial en caso de discapacidades, aptitudes sobresalientes y talentos específicos;
 
 XV.- Ser incorporado, como estudiante de escuela pública, a los servicios básicos de salud pública, si no disfruta de este servicio;
 
-XVI.- Ser canalizado, a través de los educadores, a la instancia correspondiente en caso de presentar problemas de salud;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XVI.- Ser canalizado, a través de los educadores, a la instancia correspondiente en caso de presentar problemas de salud o de violencia escolar en el centro educativo, en su familia o en su comunidad;
 
 XVII.- Recibir orientación respecto a los problemas de la vida cotidiana como la cultura del crédito, del consumo y de la alimentación adecuada;
 
-XVIII.- Contar con los apoyos necesarios de las Autoridades Estatales y Municipales de acuerdo a su situación socioeconómica y desempeño académico, tales como becas económicas o de exención, estancias en albergues u otros estímulos, en los términos de los reglamentos respectivos y de acuerdo con la disponibilidad presupuestal;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XIX.- Obtener el acceso, permanencia y egreso oportuno de la escuela, así como el logro de aprendizajes relevantes, incluyendo a quienes provienen de hogares en situación de pobreza;
+XVIII.- Contar con los apoyos necesarios de las autoridades estatales y municipales de acuerdo a su situación socioeconómica y desempeño académico dando prioridad a aquellos alumnos procedentes de pueblos y comunidades indígenas del Estado, tales como becas económicas o de exención, estancias en albergues u otros estímulos, en los términos de los reglamentos respectivos y de acuerdo con la disponibilidad presupuestal;
 
-XX.- Recibir capacitación para desarrollar una cultura de la salud que propicie comportamientos y entornos saludables;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XIX.- Obtener el acceso, permanencia y egreso oportuno de la escuela, así como el logro de aprendizajes relevantes, incluyendo a quienes provienen de hogares en situación de pobreza o de un pueblo o comunidad indígena;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XX.- Recibir capacitación para desarrollar una cultura de la salud y derechos humanos que propicie comportamientos y entornos saludables;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -535,7 +633,9 @@ III.- Garantizar que el servicio educativo se ofrezca en igualdad de condiciones
 
 IV.- Vigilar que no se condicione la inscripción, asistencia y entrega de documentos oficiales a los educandos, cuyos padres o tutores no puedan cumplir con aportaciones de cualquier tipo, que acuerden las asociaciones de padres de familia;
 
-V.- Desarrollar, evaluar y mejorar de manera permanente los programas de apoyo a docentes que presten sus servicios en comunidades aisladas y zonas urbano-marginadas, a fin de fomentar el arraigo en sus comunidades y cumplir con el calendario escolar;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Desarrollar, evaluar y mejorar de manera permanente los programas de apoyo, incluidos los de carácter económico, a docentes que presten sus servicios en comunidades indígenas, aisladas y zonas urbano-marginadas, a fin de fomentar el arraigo en sus comunidades y cumplir con el calendario escolar;
 
 VI.- Promover la creación de centros de desarrollo infantil, de integración social, de educación especial, internados, albergues y demás servicios que apoyen en forma continua y estable el aprendizaje de los educandos;
 
@@ -545,11 +645,15 @@ VIII.- Otorgar apoyos pedagógicos a grupos con requerimientos educativos espec�
 
 IX.- Establecer y consolidar sistemas de educación a distancia;
 
-X.- Efectuar campañas educativas tendentes a elevar los niveles culturales, sociales y de bienestar de los habitantes de la entidad, comprendiendo programas de alfabetización, escuela para padres, escuelas siempre abiertas, respeto al medio ambiente, erradicación de violencia familiar, prevención del delito y todo aquel que impulse la educación comunitaria.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+X.- Efectuar campañas educativas tendentes a elevar los niveles culturales, sociales y de bienestar de los habitantes de la Entidad, comprendiendo programas de alfabetización, escuela para padres, escuelas siempre abiertas, respeto al medio ambiente, igualdad entre mujeres y hombres, erradicación de violencia familiar, prevención del delito y todo aquel que impulse la educación comunitaria.
 
 XI.- Desarrollar programas con perspectiva de género, para otorgar becas y demás apoyos económicos, orientados preferentemente a estudiantes que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
 
-XII.- Efectuar programas específicos a padres de familia, que les permitan dar mejor atención a sus hijas, hijos o pupilos;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XII.- Efectuar programas específicos a padres y madres de familia, que les permitan dar mejor atención a sus hijas, hijos o pupilos y que éstos se desarrollen en un ambiente de democracia familiar;
 
 XIII.- Reconocer a las organizaciones de la sociedad civil y a las cooperativas de maestros que se dediquen a la enseñanza;
 
@@ -557,7 +661,9 @@ XIV.- Promover una mayor participación de los diferentes sectores sociales en l
 
 XV.- Reconocer y distinguir a quienes contribuyan al logro de los propósitos educativos mencionados en este Capítulo;
 
-XVI.- Proporcionar materiales educativos en las lenguas indígenas que correspondan en las escuelas en donde asista mayoritariamente población indígena;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XVI.- Proporcionar materiales educativos en las lenguas indígenas que correspondan en las escuelas en donde asista población indígena;
 
 XVII.- Buscar la ampliación de la cobertura de atención a educandos que presenten necesidades educativas especiales, sobresalientes, y a grupos interculturales bilingües, para favorecer el desarrollo de sus capacidades, habilidades y aptitudes, permitiendo su integración escolar, ocupacional y social;
 
@@ -569,9 +675,11 @@ XIX.- Realizar las demás actividades que permitan mejorar la calidad, equidad y
 
 Las Autoridades Estatales procurarán que los planteles educativos cuenten con las instalaciones, personal y equipo adecuado para satisfacer la demanda y atender adecuadamente a los educandos con necesidades especiales.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 39.
 
-El otorgamiento de becas, estímulos y demás apoyos económicos de la autoridad educativa local, estará destinado a motivar el acceso, permanencia y logro del aprendizaje de los educandos en todos los tipos, niveles y modalidades de la educación.
+El otorgamiento de becas, estímulos y demás apoyos económicos de la autoridad educativa local, estará destinado a motivar el acceso, permanencia y logro del aprendizaje de los educandos en todos los tipos, niveles y modalidades de la educación, destinando el cincuenta por ciento de estos a mujeres.
 
 #### SECCIÓN PRIMERA. DE LA EVALUACIÓN EDUCATIVA
 
@@ -617,9 +725,11 @@ La autoridad educativa local podrá asignar, de acuerdo con la disponibilidad pr
 
 #### SECCIÓN SEGUNDA. DE LA PLANEACIÓN Y COORDINACIÓN INSTITUCIONAL
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 49.
 
-La planeación del desarrollo del Sistema Estatal de Educación, se orientará a establecer un servicio educativo equitativo y de calidad, incorporado a la Federación, y teniendo como fundamento el Plan Estatal de Desarrollo, el Programa Sectorial de la Federación, el Programa Anual de Actividades, los diagnósticos y evaluaciones de los sistemas nacional y estatal y demás disposiciones legales para el diseño del Programa Estatal de Educación.
+La planeación del desarrollo del Sistema Estatal de Educación, se orientará a establecer un servicio educativo equitativo y de calidad, incorporado a la Federación, y teniendo como fundamento el Plan Estatal de Desarrollo, el Programa Sectorial de la Federación, el Programa Estatal Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, el Programa Estatal para Garantizar la Igualdad Real entre Mujeres y Hombres, el Programa Anual de Actividades, los diagnósticos y evaluaciones de los sistemas nacional y estatal y demás disposiciones legales para el diseño del Programa Estatal de Educación.
 
 ###### ARTÍCULO 50.
 
@@ -765,35 +875,53 @@ V.- Desarrollar programas de orientación y apoyo para los padres o tutores, a f
 
 ### CAPÍTULO III. DE LA EDUCACIÓN BÁSICA Y SUS NIVELES
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 62.
 
-La educación básica está compuesta por los niveles de preescolar, primaria y secundaria. La preescolar constituye requisito para la primaria. Tiene como finalidad el desarrollo armónico e integral de todas las facultades de los educandos, que adquieran valores cívicos y éticos, actitudes, conocimientos, habilidades y destrezas que requieren para su vida presente y su desempeño futuro en un mundo de constantes avances científicos y tecnológicos.
+La educación básica está compuesta por los niveles de preescolar, primaria y secundaria. La preescolar constituye requisito para la primaria. Tiene como finalidad el desarrollo armónico e integral de todas las facultades de los educandos, que adquieran valores cívicos y éticos, actitudes, conocimientos, habilidades y destrezas, así como fomentar el respeto, preservación y desarrollo de las culturas de los pueblos y comunidades indígenas, que requieren para su vida presente y su desempeño futuro en un mundo de constantes avances científicos y tecnológicos.
 
 ###### ARTÍCULO 63.
 
 La educación básica posibilitará a la población del Estado que curse preescolar, primaria y secundaria, la adquisición de conocimientos fundamentales, desarrollando los valores y las actividades necesarias para una vida personal y familiar. Comprenderá:
 
-I.- Lenguajes básicos: El español y el matemático, así como los fundamentos de un segundo idioma y de informática;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Lenguajes básicos: El español o lengua materna- indígena y el matemático, así como los fundamentos de un segundo idioma y de informática;
 
 II.- Conocimientos fundamentales de las ciencias naturales y las ciencias sociales;
 
 III.- Competencias y habilidades intelectuales básicas para localizar, procesar y analizar información; fomentar el aprendizaje autodidacta; desarrollar aptitudes para el planteamiento y la solución de problemas, la toma de decisiones y apreciar los alcances del desarrollo científico, tecnológico y humanístico;
 
-IV.- Conocimientos elementales y el desarrollo de habilidades para valorar las diversas manifestaciones de la cultura regional, estatal, nacional y universal;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Conocimientos elementales y el desarrollo de habilidades para valorar las diversas manifestaciones de la cultura regional, estatal, nacional y universal; así como el conocimiento de los pueblos y comunidades indígenas existentes en la entidad y de sus aportaciones a la cultura estatal.
 
 V.- Elementos básicos y de ética, para la participación libre y responsable en la vida familiar, comunitaria y social;
 
-VI.- Conocimientos básicos, valores, actitudes y hábitos alimenticios para la conservación de la salud individual y colectiva, y el cuidado del entorno ecológico; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-VII.- Capacidad para relacionarse, comunicarse y colaborar en el trabajo colectivo, para el logro de un objetivo común.
+VI.- Conocimientos básicos, valores, actitudes y hábitos alimenticios para la conservación de la salud individual y colectiva, y el cuidado del entorno ecológico;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- Capacidad para relacionarse, comunicarse y colaborar en el trabajo colectivo, para el logro de un objetivo común; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+VIII.- Conocimientos básicos de derechos humanos, perspectiva de género y prevención de la violencia.
 
 ###### ARTÍCULO 64.
 
 La Autoridad educativa local propondrá a la Federal las modificaciones necesarias a los planes y programas de estudio de manera que la educación básica, en sus tres niveles, tenga las adaptaciones requeridas para responder a las características lingüísticas y culturales de cada uno de los diversos grupos indígenas del estado, así como de la población rural dispersa y grupos migratorios.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 65.
 
-Los planes y programas de estudio de educación preescolar, primaria y secundaria, serán los que determine la Autoridad Educativa Federal. La Local, considerará que los planes y programas de educación básica se enriquezcan con contenidos regionales, de manera que permitan a los educandos adquirir un mejor conocimiento de la historia, geografía, costumbres y tradiciones, así como otros aspectos propios de la entidad y sus Municipios; tomando en consideración las propuestas de educadores, madres y padres de familia, y grupos e instituciones sociales interesados en la educación.
+Los planes y programas de estudio de educación preescolar, primaria y secundaria, serán los que determine la autoridad educativa federal. La Local, considerará que los planes y programas de educación básica se enriquezcan con contenidos regionales, de manera que permitan a los educandos adquirir un mejor conocimiento de la historia, geografía, costumbres y tradiciones, así como otros aspectos propios de la entidad y sus municipios; tomando en consideración las propuestas de educadores, madres y padres de familia, y grupos e instituciones sociales interesados en la educación, protección a los diferentes grupos considerados vulnerables y la protección de los derechos humanos establecidos.
+
+Los planes y programas de estudio responderán adecuadamente a las diferentes características lingüísticas de la población rural, urbana y grupos migrantes, así como de las culturas Náhuatl, Otomí, Tének y Pame de la Entidad, debiendo ser en el caso de las culturas indígenas antes señaladas, bilingüe e intercultural.
 
 ###### ARTÍCULO 66.
 
@@ -831,21 +959,33 @@ Así mismo, promoverá la educación física inclusiva mediante la cual dará op
 
 #### SECCIÓN SEGUNDA. DE LA EDUCACIÓN INDÍGENA
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 69.
 
-El Estado en concurrencia con los Municipios y organismos descentralizados y desconcentrados, impartirá educación indígena, en términos de lo dispuesto por las Constituciones Políticas tanto Federal como Local, y demás leyes y ordenamientos que de ellas emanen; respetando y fortaleciendo sus tradiciones, usos y costumbres.
+El Estado en concurrencia con los municipios y organismos descentralizados y desconcentrados, impartirá educación indígena, bilingüe e intercultural, en términos de lo dispuesto por las Constituciones Políticas tanto Federal como Local, y demás leyes y ordenamientos que de ellas emanen; respetando y fortaleciendo sus tradiciones, usos y costumbres, así como el pleno respeto a los derechos humanos, en especial los de los grupos vulnerables.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 70.
 
-La educación que reciban los estudiantes indígenas será de calidad, garantizará el acceso, la permanencia y eficiencia, combatiendo el analfabetismo y la desigualdad.
+La educación que reciban los estudiantes indígenas será gratuita y de calidad, garantizará el acceso, la permanencia y eficiencia, combatiendo el analfabetismo, y la desigualdad.
 
 ###### ARTÍCULO 71.
 
 Los hablantes de lenguas indígenas tendrán acceso, en los niveles de preescolar y primaria, en su propia lengua y en español.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 72.
 
-La educación para los estudiantes indígenas tendrá un enfoque intercultural-bilingüe, promoverá la opinión de la comunidad educativa y de las autoridades, organizaciones e individuos de la comunidad indígena, en el proceso educativo.
+La educación para los estudiantes indígenas tendrá un enfoque intercultural-bilingüe, propiciará la enseñanza de lecto-escritura, en su propio idioma, y promoverá la opinión de la comunidad educativa y de las autoridades, organizaciones e individuos de la comunidad indígena, en el proceso educativo.
+
+Se entiende por educación bilingüe la educación que se imparte a los educandos, tanto en la lengua de la comunidad indígenas de que se trate, como en idioma español, propiciando que tanto los estudiantes indígenas como no indígenas concurren a la misma escuela, se interrelacionen mediante el estudio, comprensión y uso de ambas lenguas.
+
+La educación intercultural propicia la convivencia armónica entre la cultura indígenas (sic) específica de una región y la cultura nacional, mediante el conocimiento, la exaltación y análisis a los elementos históricos, y los valores de cada una de ellas, sin excluirse la una de la otra, y sin pretender su integración; favorece el enriquecimiento educativo mediante los elementos del multiculturalismo, y el desarrollo y estudio sistemático de ambas culturas de manera complementaria.
+
+Conforman la educación indígena: la educación inicial, educación preescolar, educación primaria, secundaria y media superior bilingüe e intercultural, y en la medida de las posibilidades presupuestarias comprenderá asimismo, la educación superior bilingüe e intercultural. Igualmente, incluye los servicios de apoyo asistencial y de extensión educativa.
 
 ###### ARTÍCULO 73.
 
@@ -859,31 +999,49 @@ En sus programas de estudios, estas instituciones velarán por la preservación 
 
 En los servicios de educación indígena intercultural se considera el contenido escolar como el elemento cultural que se selecciona para ser estimulado, transmitido o adquirido intencionalmente, por medio de la experiencia educativa y se refiere a conocimientos, hábitos, habilidades, destrezas, actitudes y valores.
 
-La educación intercultural de los educandos indígenas, procurará garantizar la articulación de la educación básica y consecuentemente, la continuidad y progresión del proceso educativo.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+La educación bilingüe e intercultural de los educandos indígenas, procurará garantizar la articulación de la educación básica y consecuentemente, la continuidad y progresión del proceso educativo.
 
 ###### ARTÍCULO 75.
 
 La autoridad educativa local será la encargada de diseñar y definir los propósitos, contenidos y metodología educativa especifica; sin menoscabo de los planes y programas emitidos por la Federación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+En la elaboración de planes y programas de estudio relativos a la educación indígena se consultará a los pueblos y comunidades indígenas a través de las autoridades tradicionales, con el fin de incorporar su (sic) propuestas.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 76.
 
-En la educación inclusiva o intercultural indígena, se promoverá que desde enfoques didácticos globalizadores, se privilegie la apropiación de aprendizajes socialmente significativos, que resulten útiles a la vida presente y que se constituyan en la base de futuros aprendizajes.
+En la educación inclusiva, bilingüe o intercultural indígena, se promoverá que desde enfoques didácticos globalizadores, se privilegie la apropiación de aprendizajes socialmente significativos, que resulten útiles a la vida presente y que se constituyan en la base de futuros aprendizajes.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 77.
 
-En la educación intercultural indígena, se promoverá el reconocimiento del valor pedagógico y didáctico que representa el uso y la enseñanza de las lenguas indígenas y del español, como portadores de los símbolos de las culturas indígenas, procurando que los materiales educativos sean seleccionados a partir de su congruencia con los propósitos y contenidos educativos, así como su pertinencia con las características de los procesos de enseñanza y aprendizaje que en cada aula se desarrolle.
+En la educación bilingüe e intercultural indígena, se promoverá el reconocimiento del valor pedagógico y didáctico que representa el uso y la enseñanza de las lenguas indígenas y del español, como portadores de los símbolos de las culturas indígenas, procurando que los materiales educativos sean seleccionados a partir de su congruencia con los propósitos y contenidos educativos, así como su pertinencia con las características de los procesos de enseñanza y aprendizaje que en cada aula se desarrolle.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 78.
 
-La educación intercultural de los educandos indígenas impulsará la formación de docentes, directivos y personal técnico como un proceso integrado, sistemático y permanente, que garantice la continuidad y progresión de las acciones de formación inicial, de actualización y de nivelación académica y superación profesional.
+La educación bilingüe e intercultural de los educandos indígenas impulsará la formación de docentes, directivos y personal técnico como un proceso integrado, sistemático y permanente, que garantice la continuidad y progresión de las acciones de formación inicial, de actualización y de nivelación académica y superación profesional.
+
+Para impartir educación en los diferentes niveles en los pueblos y comunidades indígenas, deberán participar profesores capacitados en educación bilingüe e intercultural y que cuenten con certificados que comprueben sus conocimientos y aptitudes, asimismo deberán conocer la cultura del lugar donde se desempeñen, procurando que radiquen dentro de la propia comunidad, a fin de propiciar el cabal cumplimiento del calendario y horas de labor escolar aprobados por la autoridad educativa local.
+
+Es obligación del Estado otorgar un salario profesional digno y otras prestaciones, que permitan al profesorado de educación bilingüe e intercultural arraigarse en las comunidades aplicándose lo previsto en el Artículo 21 de la Sección Segunda del Capítulo II.
 
 ###### ARTÍCULO 79.
 
 Los albergues escolares tenderán a fortalecerse o reorientarse para que los educandos reciban los apoyos educativos y asistenciales que posibiliten, de manera permanente y equitativa, la consolidación de oportunidades de ingresos, permanencia y logro educativo.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 80.
 
-En la educación intercultural indígena, se propiciará el uso de los medios electrónicos de comunicación y de las nuevas tecnologías disponibles, para enriquecer los procesos de enseñanza y de aprendizaje.
+En la educación bilingüe e intercultural indígena, se propiciará el uso de los medios electrónicos de comunicación y de las nuevas tecnologías disponibles, para enriquecer los procesos de enseñanza y de aprendizaje.
 
 #### SECCIÓN TERCERA. DE LA EDUCACIÓN PARA ADULTOS y LA FORMACIÓN PARA EL TRABAJO
 
@@ -1009,7 +1167,9 @@ XI.- Formar ciudadanos que valoren el carácter intercultural del Estado y contr
 
 XII.- La educación media superior fortalecerá aún más en el estudiante las habilidades para aprender a aprender, el desarrollo de sus competencias, que integren habilidades, valores, conocimientos y actitudes, para continuar su escolaridad o, en su caso, para que acceda de manera creativa y responsable al mundo del trabajo. Asimismo fomentará su identidad nacional, la práctica del ejercicio físico y mental, la libertad, el respeto a la dignidad humana y el rechazo a todo tipo de adicciones; y
 
-XIII.- La educación media superior fortalecerá en el educando, además de lo previsto en la currícula respectiva, los conocimientos sobre temas transversales como: sexualidad, reproducción humana, planificación familiar, paternidad y maternidad responsables, rechazo a la violencia intrafamiliar, fomento del conocimiento sobre las enfermedades de transmisión sexual, el cuidado del medio ambiente, el uso racional del agua y otros como el consumismo, la migración, la cultura del crédito y la pobreza.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XIII.- La educación media superior fortalecerá en el educando, además de lo previsto en la currícula respectiva, los conocimientos sobre temas transversales como: sexualidad, igualdad de género, no discriminación, reproducción humana, planificación familiar, paternidad y maternidad responsables, rechazo a la violencia familiar y contra las mujeres, fomento del conocimiento sobre las enfermedades de transmisión sexual, el cuidado del medio ambiente, el uso racional del agua y otros como el consumismo, la migración, la cultura del crédito y la pobreza, así como la diversidad cultural y lingüística de nuestro Estado.
 
 ###### ARTÍCULO 97.
 
@@ -1473,7 +1633,9 @@ VII.- Promover actividades de orientación, capacitación y difusión, dirigidas
 
 VIII.- Proponer estímulos y reconocimientos de carácter social a los educandos, educadores, directivos y personal de apoyo y asistencia a la educación;
 
-IX.- Estimular, promover y apoyar actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+IX.- Estimular, promover y apoyar actividades de intercambio, colaboración y participación interescolar culturales, cívicos, deportivos y sociales, y de concientización sobre igualdad entre mujeres y hombres; y (sic)
 
 X.- En general, realizar actividades para apoyar y fortalecer la educación en el Municipio; y
 
@@ -1483,7 +1645,7 @@ XI.- Las demás que el Reglamento respectivo establezca.
 
 El Consejo Estatal de Participación Social deberá integrarse por:
 
-l.- Autoridades educativas estatales;
+I.- Autoridades educativas estatales;
 
 II.- Autoridades Educativas Municipales;
 
@@ -1533,7 +1695,9 @@ La autoridad educativa local y los medios de comunicación, cumplen una función
 
 Para este efecto, la autoridad educativa local:
 
-I.- Efectuará acciones permanentes de sensibilización social y motivación para la participación ciudadana;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Efectuará acciones permanentes de sensibilización social y motivación para la participación ciudadana, erradicación de la violencia hacia las mujeres y eliminación de estereotipos establecidos en función del sexo;
 
 II.- Difundirá los valores y la cultura hidalguense;
 
@@ -1770,3 +1934,7 @@ P.O. 19 DE AGOSTO DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a esta Ley.
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
