@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -69,9 +69,13 @@ Son principios rectores que garantizan el acceso al derecho a una vida libre de 
 
 I.- La no discriminación;
 
-II.- El respeto a la dignidad humana de las mujeres;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-III.- La libertad de las mujeres.
+II.- El respeto a los derechos y la dignidad humana de las mujeres;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+III.- La autodeterminación y libertad de las mujeres.
 
 IV.- La igualdad sustantiva entre mujeres y hombres;
 
@@ -119,17 +123,27 @@ XIV.- Agravio Comparado: Implica un trato desigual de las mujeres dentro del mar
 
 Los tipos de violencia contra las mujeres son:
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-I.- La violencia psicológica: Es cualquier acción u omisión de abandono, insultos, marginación, restricción a la autodeterminación, amenazas, intimidación, coacción, devaluación, anulación, prohibición y celotipia; que provocan en quien las recibe: deterioro, disminución o afectación en las diferentes áreas de su autoestima y personalidad;
+I.- La violencia psicológica: Es cualquier acción u omisión de abandono, insultos, marginación, restricción a la autodeterminación, amenazas, intimidación, coacción, devaluación, anulación, prohibición, humillaciones, comparaciones destructivas, rechazo y celotipia; que provocan en quien las recibe: deterioro, disminución o afectación en las diferentes áreas de su autoestima y personalidad.
+
+Se considera como tal, la regulación de la fecundidad o la inseminación artificial no consentidas, la prostitución forzada, la pornografía infantil, la trata de mujeres, el acceso carnal no consentido, las expresiones lascivas, el hostigamiento sexual, los actos libidinosos, la degradación de las mujeres en los medios de comunicación con objeto sexual y las demás que afecten su normal desarrollo psicosexual.
 
 II.- Violencia física.- Es cualquier acción intencional, en el que se utiliza parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física de las mujeres, independientemente de que se produzca o no lesiones físicas y que va encaminado a obtener su sometimiento y control.
 
 III.- Violencia patrimonial.- Es cualquier acción u omisión de sustracción, destrucción, retención, transformación de objetos, valores, documentos personales o bienes de las mujeres o de su entorno familiar, que limitan o dañan la supervivencia económica, independientemente del valor material o emocional, asociado a éstos;
 
-IV.- Violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar sus ingresos propios, adquiridos o asignados; así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Violencia sexual.- Es cualquier acción mediante la violencia física o moral que atenta contra la libertad, dignidad sexual e integridad psicofísica, que genera daño o limita el ejercicio de la sexualidad, independientemente de que constituya un ilícito previsto y sancionado por las Leyes Penales.
+IV.- Violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la victima; se manifiesta a través de limitaciones encaminadas a controlar sus ingresos propios, adquiridos o asignados, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Violencia sexual.- Es cualquier acción mediante la violencia física o moral que atenta contra la libertad, dignidad sexual e integridad psicofísica, que genera daño o limita el ejercicio de la sexualidad, independientemente de que constituya un ilícito previsto y sancionado por las leyes penales; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- La violencia obstétrica.- Es la omisión de atención oportuna y eficaz de las emergencias obstétricas, a través de los métodos que causen el menor daño a la salud e integridad de las mujeres, practicados sin obtener su consentimiento voluntario, expreso e informado.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA
 
@@ -262,6 +276,10 @@ VII.- Implementar sanciones administrativas para los superiores jerárquicos del
 ###### ARTÍCULO 15.
 
 La violencia en la comunidad es toda acción u omisión, que se realiza de manera colectiva o individual por actores sociales o comunitarios, que generan degradación, discriminación, marginación, exclusión en la esfera pública o privada, que transgreden derechos fundamentales de las mujeres y que propician su estado de riesgo e indefensión.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 15 BIS.- El Estado y los Municipios garantizarán que en las demarcaciones donde existan mujeres pertenecientes a pueblos y comunidades indígenas, se implementen de manera prioritaria las acciones necesarias para prevenir y sancionar la violencia en la comunidad, a efecto de que las mismas gocen del respeto estricto a sus (sic) integridad y sus derechos humanos y con ello eliminar la impunidad de las conductas violentas en contra de las mujeres, que en ocasiones se agrava por razón de la edad, clase y condición social o la etnia a la que pertenecen.
 
 ###### ARTÍCULO 16.
 
@@ -1056,3 +1074,11 @@ Con motivo del proceso de armonización normativa, los Municipios dentro de los 
 P.O. 31 DE DICIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado de Hidalgo dispondrá que la presente Ley, se traduzca a las lenguas que hablan los diferentes pueblos y comunidades indígenas existentes en el territorio Estatal, así como, la difusión entre las diferentes dependencias educativas y de Gobierno en sus respectivos órdenes.
