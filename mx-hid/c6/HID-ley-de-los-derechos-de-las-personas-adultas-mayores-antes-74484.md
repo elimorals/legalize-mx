@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2012-10-22"
+last_updated: "2013-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -315,7 +315,7 @@ VI.- Realizar campañas y jornadas especiales de prevención de accidentes, enfe
 
 VII.- Implementar programas y concertar convenios con las instituciones de salud del Gobierno Federal y de la iniciativa privada, con el propósito de que incluya dentro de estas instituciones: Geriatría, Gerontología y Tanalogía (sic), para la atención médica y administrativa a fin de que los adultos mayores puedan tener acceso a los servicios de atención médica que les proporcione el sistema de salud;
 
-VIII.- Vigilar que en las instituciones públicas, privadas y sociales, que otorguen atención médica, cuenten con personal que posea preparación, capacidad y conocimientos en el cuidado del los adultos mayores;
+VIII.- Vigilar que en las instituciones públicas, privadas y sociales, que otorguen atención médica, cuenten con personal que posea preparación, capacidad y conocimientos en el cuidado del los (sic) adultos mayores;
 
 IX.- Garantizar, prevenir y controlar los efectos nocivos de los factores ambientales en la salud, mediante programas de saneamiento básico que eviten el contagio por enfermedades transmisibles;
 
@@ -397,17 +397,27 @@ VII.- Recibir quejas e informes a través de la Procuraduría de la Defensa del 
 
 VIII.- Denunciar ante las autoridades correspondientes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que perjudique a los adultos mayores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 25.
 
-A la Secretaría de Turismo, le corresponde:
+A la Secretaría de Turismo y Cultura, le corresponde:
 
 I.- Promover en coordinación con Dependencias y Entidades Públicas o Privadas, actividades de recreación y turismo particularmente aquéllas que se refieran al rescate y transmisión de la cultura y de la historia diseñadas para adultos mayores;
 
 II.- Vigilar el funcionamiento y mantenimiento de las instalaciones de los atractivos turísticos con los que cuenta el Estado procurando brindar condiciones que garanticen comodidad a los adultos mayores;
 
-III.- Difundir permanentemente a través de los medios masivos de comunicación, las actividades, que se realizan en favor de los adultos mayores, con el objeto de garantizar el derecho de recreación y turismo de este sector de la población; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-IV.- Fomentar y realizar actividades turísticas al interior del Estado, a los diferentes lugares de recreación y de afluencia turística, mediante la celebración de Convenios con las empresas del ramo para ofrecer tarifas especiales o gratuitas en los centros públicos o privados de entretenimiento, recreación, cultura y deporte, hospedajes en hoteles y centros turísticos.
+III.- Difundir permanentemente a través de los medios masivos de comunicación, las actividades, que se realizan en favor de los adultos mayores, con el objeto de garantizar el derecho de recreación y turismo de este sector de la población;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Fomentar y realizar actividades turísticas al interior del Estado, a los diferentes lugares de recreación y de afluencia turística, mediante la celebración de convenios con las empresas del ramo para ofrecer tarifas especiales o gratuitas en los centros públicos o privados de entretenimiento, recreación, cultura y deporte, hospedajes en hoteles y centros turísticos; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Fomentar, en coordinación con la Secretaría del Trabajo y Previsión Social del Gobierno del Estado de Hidalgo y con los Ayuntamientos de la entidad, el empleo de los adultos mayores en el sector turístico.
 
 ###### Artículo 26.
 
@@ -531,13 +541,13 @@ SECRETARIO
 
 DIP. GUILLERMO MARTÍN VILLEGAS FLORES
 
-EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POILÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
+EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS TREINTA Y UN DÍAS DEL MES DE MARZO DEL AÑO DOS MIL DIEZ.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
-LIC. MIGUEL ANGEL OSORIO CHON
+LIC. MIGUEL ANGEL OSORIO CHONG
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
@@ -546,3 +556,7 @@ P.O. 22 DE OCTUBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
