@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2013-02-25"
+last_updated: "2013-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -319,11 +319,11 @@ El trabajo se entenderá como un derecho y una obligación que debe cumplirse re
 
 La ley determinará cuáles son las profesiones que necesitan título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades que han de expedirlos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 8°.
 
-Todos los habitantes del Estado tienen derecho a la alimentación nutritiva, suficiente y de calidad, a la salud, a disfrutar de una vivienda digna y decorosa, y en general, al bienestar y a la seguridad individual y social, como objetivos de la permanente superación del nivel de vida de la población. La Ley definirá las bases y formas para conseguir estas finalidades en concurrencia con la Federación.
+Todos los habitantes del Estado tienen derecho a la alimentación nutritiva, suficiente y de calidad, a la protección de la salud, a disfrutar de una vivienda digna y decorosa, y en general, al bienestar y a la seguridad individual y social, como objetivos de la permanente superación del nivel de vida de la población. La Ley definirá las bases y formas para conseguir estas finalidades en concurrencia con la Federación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
@@ -897,7 +897,7 @@ Si al inicio del año no estuviere aprobada la Ley de Ingresos del Estado y/o la
 
 En la aprobación del Presupuesto de Egresos del Estado, el Congreso no podrá dejar de prever las asignaciones presupuestales necesarias para cubrir los siguientes gastos ineludibles, sujeto a la disponibilidad presupuestaria anual de:
 
-l.- Contratos de prestación de servicios a largo plazo, hasta que sean pagados en su totalidad;
+I.- Contratos de prestación de servicios a largo plazo, hasta que sean pagados en su totalidad;
 
 II.- Proyectos de infraestructura productiva y deuda pública, hasta que sean pagados en su totalidad;
 
@@ -1087,6 +1087,10 @@ XII. Expedir las leyes que rijan el patrimonio del Estado y el de los Municipios
 
 XIII. (DEROGADA, P.O. 25 DE FEBRERO DE 2013)
 
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XIII BIS.- Aprobar los convenios que se celebren entre dos o más municipios del Estado de Hidalgo, derivado de los conflictos de límites territoriales que se susciten entre éstos y en los que no exista controversia jurisdiccional.
+
 XIV. Dar posesión a los Diputados Suplentes en caso de inhabilitación o licencia de los Diputados Propietarios;
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
@@ -1109,7 +1113,7 @@ XX. (DEROGADA, P.O. 9 DE MAYO DE 1998)
 
 > <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
-XX Bis.- Hacer comparecer a las autoridades, servidoras o servidores públicos que hayan recibido Recomendación de la Comisión de Derechos Humanos del Estado y no las hubieren aceptado, o que habiéndolas aceptado sean omisos en su cumplimiento.
+XX BIS.- Hacer comparecer a las autoridades, servidoras o servidores públicos que hayan recibido Recomendación de la Comisión de Derechos Humanos del Estado y no las hubieren aceptado, o que habiéndolas aceptado sean omisos en su cumplimiento.
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -2469,7 +2473,7 @@ Los Municipios no podrán contraer obligaciones o empréstitos sino cuando se de
 
 En la aprobación del Presupuesto de Egresos, los Municipios no podrán dejar de prever las asignaciones presupuestales necesarias para cubrir los siguientes gastos ineludibles, sujeto a la disponibilidad presupuestaria anual:
 
-l.- Contratos de prestación de servicios a largo plazo, hasta que sean pagados en su totalidad;
+I.- Contratos de prestación de servicios a largo plazo, hasta que sean pagados en su totalidad;
 
 II.- Proyectos de infraestructura productiva, deuda pública y adeudos de ejercicios anteriores, hasta que sean pagados en su totalidad;
 
@@ -3299,7 +3303,7 @@ SEGUNDO.- Hasta en tanto sea expedida la nueva Ley Orgánica del Poder Judicial,
 
 P.O. 29 DE MARZO DE 1999.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
 P. O. 26 DE FEBRERO DE 2001.
 
@@ -3580,3 +3584,7 @@ SEGUNDO.- En cuanto a la obligatoriedad del Estado de garantizar la educación m
 TERCERO.- Para dar cumplimiento al principio de obligatoriedad, en los presupuestos Estatal y de los Municipios, se incluirán los recursos necesarios; asimismo, se establecerán los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos crecientes para infraestructura de la educación media superior.
 
 CUARTO.- Respecto de la reforma al Artículo 99, realícense las correspondientes reformas a los ordenamientos secundarios en un plazo de hasta un año a partir de la entrada en vigor del presente Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
