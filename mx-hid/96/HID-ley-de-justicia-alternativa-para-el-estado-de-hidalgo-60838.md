@@ -4,7 +4,7 @@ identifier: "HID-ley-de-justicia-alternativa-para-el-estado-de-hidalgo-60838"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-21"
-last_updated: "2009-06-22"
+last_updated: "2013-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 2 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de abril de 2008.
 
@@ -806,3 +808,17 @@ P.O. 22 DE JUNIO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Justicia Alternativa para el Estado de Hidalgo, Decreto número 555, publicada el 21 de abril de 2008.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En la fecha y en los lugares en que entre en vigencia el Nuevo Sistema de Justicia Penal previsto en el Código Procesal Penal publicado en el periódico oficial del Estado el 14 de marzo de 2011, el Centro de la Procuraduría tendrá competencia para conocer y facilitar los acuerdos reparatorios que deseen realizar los interesados desde el momento en que tenga conocimiento de la noticia de delito y hasta antes de la formulación de la imputación; y el Centro del Poder Judicial tendrá competencia, en materia penal, para conocer y facilitar esos acuerdos después de haberse formulado la imputación y hasta antes de la apertura del juicio oral.
+
+CUARTO. En un plazo no mayor de 180 días a partir del inicio de vigencia del presente Decreto, el Consejo de la Judicatura del Poder Judicial y la Procuraduría General de Justicia del Estado, expedirán los Reglamentos correspondientes.
+
+QUINTO. Aquellas personas que hayan recibido nombramiento, certificación o cargo de mediadores o conciliadores en el Sistema de Justicia Alternativa, serán consideradas como facilitadores para todos los efectos legales.
