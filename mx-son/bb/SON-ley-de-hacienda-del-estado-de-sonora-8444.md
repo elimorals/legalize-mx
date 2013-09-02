@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2013-06-27"
+last_updated: "2013-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "SON"
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2013, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 2 DE SEPTIEMBRE DE 2013.</small>
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -3549,15 +3551,11 @@ III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por exp
 
 ### Capítulo Tercero. Servicios por la Expedición, Revalidación y Canje de Licencias Para la Venta de Bebidas con Contenido Alcohólico
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ### Capítulo Cuarto. Servicios de Ganadería
-
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
 
 ###### Artículo 293.
 
@@ -3673,13 +3671,11 @@ Para la realización del Programa de Carreteras Estatales que desarrollará el G
 
 Estas contribuciones se recaudarán en la misma forma y simultáneamente con los impuestos normales respectivos sobre producción y sacrificio de ganado vacuno y sobre producción agrícola.
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2013, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 2 DE SEPTIEMBRE DE 2013.</small>
 
 ## TITULO CUARTO. De los Derechos
 
 ### Capítulo Quinto. Servicios por Expedición, Inscripción y Registro de Títulos y por Autorización para ejercer cualquier Profesión o Especialidad
-
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3747,7 +3743,7 @@ El monto de las cuotas o tarifas de los derechos que este título establece en c
 
 > <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
-El factor aplicable para el mes de enero, será el que resulte de dividir el índice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior entre el mes de mayo inmediato enterior; el factor aplicable para el mes de julio, será el que se obtenga de dividir el índice Nacional de Precios al Consumidor del mes de mayo entre el del mes de noviembre inmediato anterior.
+El factor aplicable para el mes de enero, será el que resulte de dividir el índice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior entre el mes de mayo inmediato anterior; el factor aplicable para el mes de julio, será el que se obtenga de dividir el índice Nacional de Precios al Consumidor del mes de mayo entre el del mes de noviembre inmediato anterior.
 
 > <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -3789,8 +3785,6 @@ Cuando el pago de derechos deba efectuarse con posterioridad a la prestación de
 
 ### Capítulo Sexto. Por Servicios de Certificaciones, Constancias y Autorizaciones
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 301.
@@ -3802,8 +3796,6 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE DE 2012)</small>
 
 ### Capítulo Séptimo. Servicios prestados por la Dirección General de Notarías
-
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -4137,8 +4129,6 @@ Cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y 
 
 ### Capítulo Octavo. De los servicios prestados por la Dirección General de Documentación y Archivo
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 307.
@@ -4213,8 +4203,6 @@ i) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
 ### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
@@ -4242,8 +4230,6 @@ del punto anterior, por cada prórroga. N$ 50.00
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
-
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -4411,8 +4397,6 @@ servidor público. $176.00
 
 ### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
-
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 310.
@@ -4572,8 +4556,6 @@ XI.- Por la expedición de constancias del archivo administrativo de Servidores 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ### Capítulo Décimo Tercero. Servicios del Registro Civil
-
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -4737,8 +4719,6 @@ El pago de los derechos por canje de placas se efectuará por trienio, durante l
 
 Las autoridades estatales o municipales competentes en el Estado, en la actualización del registro de vehículos por altas, cambios, bajas de placas o realicen el canje de placas por el término de su vigencia, deberán cerciorarse que no existan adeudos por concepto de derechos de placas o revalidaciones de las mismas, correspondientes a los últimos 5 años. En caso de que existan adeudos, dichas autoridades procederán a llevar a cabo su cobro, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 313.
@@ -4792,8 +4772,6 @@ En el caso a que se refiere el párrafo anterior, se expedirá un juego de placa
 En caso de extravío de una o ambas placas, su reposición implicará la asignación de un juego de placas distinto, causando los derechos por concepto de baja de placas así como los de expedición de placas de acuerdo a la especificación de que se trate.
 
 Tratándose de baja de placas por robo de vehículo previa la acreditación de la presentación de la denuncia respectiva ante la autoridad competente, no se cobrará el derecho correspondiente.
-
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4957,8 +4935,6 @@ La Secretaría de Hacienda podrá emitir normatividad simplificando los trámite
 
 La Secretaría de Hacienda deberá mantener permanentemente actualizado el Registro Estatal Vehicular, así como el Registro de Licencias para conducir vehículos, para lo cual podrá celebrar convenios de colaboración administrativa con los municipios del Estado.
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 319.
@@ -4978,8 +4954,6 @@ Los servicios relativos a información en materia vehicular y de otros registros
 3.- Por confirmación de pagos y/o bajas relativas al padrón vehicular. $ 70.00
 
 ### Capitulo Décimo Cuarto. Otros Servicios
-
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -5740,8 +5714,6 @@ El Ejecutivo del Estado por conducto de la dependencia que corresponda, previo e
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 Dichos Servicios no causarán el pago de la Contribución para el Fortalecimiento a la Infraestructura Educativa.
-
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
