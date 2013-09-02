@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2013-07-29"
+last_updated: "2013-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -123,7 +123,7 @@ Para dirimir las controversias que se generen entre la Administración Pública 
 
 ###### ARTÍCULO 10.
 
-El territorio del Estado, se integra con los 84 Municipios siguientes: 1.- Acatlán, 2.- Acaxochitlán, 3.- Actopan, 4.- Agua Blanca de Iturbide, 5.- Ajacuba, 6.- Alfajayucan; 7.- Almoloya, 8.- Apan, 9.- Atitalaquia, 10.- Atlapexco, 11.- Atotonilco El Grande, 12.- Atotonilco de Tula, 13.- Calnali, 14.- Cardonal, 15; Cuautepec de Hinojosa, 16.- Chapantongo, 17.- Chapulhuacán, 18.- Chilcuautla, 19.- El Arenal, 20.- Eloxochitlán, 21.- Emiliano Zapata, 22.- Epazoyucan, 23.- Francisco I. Madero, 24.- Huasca de Ocampo, 25.- Huautla, 26.- Huazalingo, 27.- Huehuetla, 28.- Huejutla de Reyes, 29.- Huichapan, 30.- Ixmiquilpan, 31.- Jacala de Ledezma, 32.- Jaltocán, 33.- Juárez Hidalgo, 34.- La Misión, 35.- Lolotla, 36.- Metepec, 37.- Metztitlán, 38.- Mineral del Chico, 39.- Mineral del Monte, 40.- Mineral de la Reforma, 41.- Mixquiahuala de Juárez, 42.- Molango de Escamilla, 43.- Nicolás Flores, 44.- Nopala de Villagrán, 45.- Omitlán de Juárez, 46.- Pacula, 47.- Pachuca de Soto, 48.- Pisaflores, 49.- Progreso de Obregón, 50.- San Agustín Metzquititlán 51.- San Agustín Tlaxiaca, 52.- San Bartolo Tutotepec, 53.- San Felipe Orizatlán, 54.- San Salvador, 55.- Santiago de Anaya, 56.- Santiago Tulantepec de Lugo Guerrero, 57.- Singuilucan, 58.- Tasquillo, 59.- Tecozautla, 60.- Tenango de Doria, 61.- Tepeapulco, 62.- Tepehuacán de Guerrero, 63.- Tepeji del Río de Ocampo, 64.- Tepetitlán, 65.- Tetepango, 66.- Tezontepec de Aldama, 67.- Tianguistengo, 68.- Tizayuca, 69.- Tlahuelilpan, 70.- Tlahuiltepa, 71.- Tlanalapa, 72.- Tlanchinol, 73.- Tlaxcoapan, 74.- Tolcayuca, 75.- Tula de Allende, 76.- Tulancingo de Bravo, 77.- Villa de Tezontepec, 78.- Xochiatipan, 79.- Xochicoatlán, 80.- Yahualica, 81.- Zacualtipán de Ángeles, 82.- Zapotlán de Juárez, 83.- Zempoala, 84.- Zimapán.
+El territorio del Estado, se integra con los 84 Municipios siguientes: 1.- Acatlán, 2.- Acaxochitlán, 3.- Actopan, 4.- Agua Blanca de Iturbide, 5.- Ajacuba, 6.- Alfajayucan; 7.- Almoloya, 8.- Apan, 9.- Atitalaquia, 10.- Atlapexco, 11.- Atotonilco El Grande, 12.- Atotonilco de Tula, 13.- Calnali, 14.- Cardonal, 15; Cuautepec de Hinojosa; 16.- Chapantongo, 17.- Chapulhuacán, 18.- Chilcuautla, 19.- El Arenal, 20.- Eloxochitlán, 21.- Emiliano Zapata, 22.- Epazoyucan, 23.- Francisco I. Madero, 24.- Huasca de Ocampo, 25.- Huautla, 26.- Huazalingo, 27.- Huehuetla, 28.- Huejutla de Reyes, 29.- Huichapan, 30.- lxmiquilpan, 31.- Jacala de Ledezma, 32.- Jaltocán, 33.- Juárez Hidalgo, 34.- La Misión, 35.- Lolotla, 36.- Metepec, 37.- Metztitlán, 38.- Mineral del Chico, 39.- Mineral del Monte, 40.- Mineral de la Reforma, 41.- Mixquiahuala de Juárez, 42.- Molango de Escamilla, 43.- Nicolás Flores, 44.- Nopala de Villagrán, 45.- Omitlán de Juárez, 46.- Pacula, 47.- Pachuca de Soto, 48.- Pisaflores, 49.- Progreso de Obregón, 50.- San Agustín Metzquititlán 51.- San Agustín Tlaxiaca, 52.- San Bartolo Tutotepec, 53.- San Felipe Orizatlán, 54.- San Salvador, 55.- Santiago de Anaya, 56.- Santiago Tulantepec de Lugo Guerrero, 57.- Singuilucan, 58.- Tasquillo, 59.- Tecozautla, 60.- Tenango de Doria, 61.- Tepeapulco, 62.- Tepehuacán de Guerrero, 63.- Tepeji del Río de Ocampo, 64.- Tepetitlán, 65.- Tetepango, 66.- Tezontepec de Aldama, 67.- Tianguistengo, 68.- Tizayuca, 69.- Tlahuelilpan, 70.- Tlahuiltepa, 71.- Tlanalapa, 72.- Tlanchinol, 73.- Tlaxcoapan, 74.- Tolcayuca, 75.- Tula de Allende, 76.- Tulancingo de Bravo, 77.- Villa de Tezontepec, 78.- Xochiatipan, 79.- Xochicoatlán, 80.- Yahualica, 81.- Zacualtipán de Ángeles, 82.- Zapotlán de Juárez, 83.- Zempoala, 84.- Zimapán.
 
 La sede del Ayuntamiento residirá en la Cabecera Municipal, podrá ser reubicada temporalmente cuando las circunstancias así lo justifiquen, con la aprobación de la mayoría de sus integrantes y en caso de que sea definitiva, se requerirá la autorización del Congreso del Estado.
 
@@ -255,31 +255,37 @@ IV.- Comunidades, las que tengan 500 habitantes o más; y
 
 V.- Rancherías, las que tengan menos de 500 habitantes.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 25.
 
-Los Municipios reconocerán a las comunidades indígenas, entendidas éstas como un conjunto de personas que poseen todas y cada una de las siguientes características:
+Los municipios reconocerán a las comunidades indígenas que estén consideradas dentro del Catálogo de Pueblos y Comunidades indígenas para el Estado de Hidalgo, entendidas éstas como un conjunto de personas que poseen todas y cada una de las siguientes características:
 
-I.- Ser parte integrante de un grupo indígena o de unidades socioeconómicas, culturales e históricas, cuyas raíces se entrelazan con aquéllas que constituyeron la civilización mesoamericana;
+I. Ser parte integrante de un grupo indígena o de unidades socioeconómicas, culturales e históricas, cuyas raíces se entrelazan con aquéllas que constituyeron la civilización mesoamericana;
 
-II.- Hablar una lengua propia;
+II. Hablar una lengua propia;
 
-III.- Ocupar sus territorios en forma continua y permanente;
+III. Ocupar sus territorios en forma continua y permanente;
 
-IV.- Ostentar culturas específicas que los identifique internamente y los diferencie del resto de la población del Estado; y
+IV. Ostentar culturas específicas que los identifique internamente y los diferencie del resto de la población del Estado;
 
-V.- Tener un origen previo a la conformación del Estado de Hidalgo, por haber sido parte integrante de su estructura política y territorial.
+V. Tener un origen previo a la conformación del Estado de Hidalgo, por haber sido parte integrante de su estructura política y territorial antes de la colonización; y
 
-En las comunidades indígenas plenamente reconocidas conforme a este artículo, los Ayuntamientos promoverán el desarrollo de sus lenguas, cultura, usos, costumbres y formas específicas de organización social.
+VI. Tener autoridades tradicionales, conservan sus sistemas normativos, cultura e instituciones sociales, políticas y económicas o parte de ellas.
 
-Con el propósito de preservar los usos y costumbres de las comunidades indígenas, los Ayuntamientos podrán contar con una unidad especializada y/o una Dirección de Asuntos Indígenas, la que estará en directa y constante comunicación con los representantes de sus comunidades; ésta será quien brinde orientación en sus acciones.
+En las comunidades indígenas plenamente reconocidas conforme a este artículo, los Ayuntamientos promoverán el desarrollo, preservación y conservación de sus lenguas, cultura, usos, costumbres y formas específicas de organización social.
 
-Los pueblos y comunidades indígenas del Estado de Hidalgo tienen el derecho de conservar sus costumbres e instituciones propias, siempre que éstas no sean incompatibles con los derechos fundamentales definidos por el sistema jurídico Nacional, ni con los derechos humanos internacionalmente reconocidos.
+Con el propósito de preservar los usos y costumbres de las comunidades indígenas, los Ayuntamientos podrán contar con una Secretaría de Desarrollo de Pueblos y Comunidades Indígenas, la que estará en directa y constante comunicación con los representantes de sus comunidades; quien podrá ser quien brinde gestión y orientación en sus acciones.
 
-Al efecto, los Municipios podrán coordinarse con la Federación o el Estado para ejecutar programas de ambos órdenes de gobierno, relativos a los rubros señalados en este artículo.
+Los pueblos y comunidades indígenas del Estado de Hidalgo tienen el derecho de conservar sus costumbres e instituciones propias, siempre que éstas no sean incompatibles con los derechos fundamentales definidos por el sistema jurídico nacional, ni con los derechos humanos internacionalmente reconocidos.
 
-Los Municipios, en ejercicio de su facultad reglamentaria y para promover la igualdad de oportunidades de los indígenas, y eliminando cualquier práctica discriminatoria; establecerán las instituciones que determinarán las políticas necesarias para garantizar la vigencia de sus derechos, así como el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+Al efecto, los Ayuntamientos asegurarán que las comunidades y pueblos indígenas, gocen de los programas de desarrollo e infraestructura comunitaria para ello podrán coordinarse con la Federación o el Estado para ejecutar programas de ambos órdenes de gobierno, relativos a los rubros señalados en este artículo.
 
-Además, donde existan comunidades de familias de migrantes, para evitar la desintegración familiar, promoverán el desarrollo social, proyectos productivos, formas específicas de organización social y programas de apoyo a las familias que se encuentren en abandono, temporal o definitivo, tomo consecuencia de la migración.
+Los Ayuntamientos, en ejercicio de su facultad reglamentaria y para promover la igualdad de oportunidades de los indígenas, y eliminando cualquier práctica discriminatoria; establecerán las instituciones que determinarán las políticas necesarias para garantizar la vigencia de sus derechos, así como el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+
+Las autoridades municipales, en el ejercicio de sus atribuciones, así como los particulares, respetarán íntegramente la dignidad y derechos individuales de los indígenas, tratándolos con el respeto que deriva de su calidad como personas. La misma obligación tendrá con relación a los derechos sociales de los Pueblos y Comunidades Indígenas.
+
+Además, donde existan comunidades de familias de migrantes, para evitar la desintegración familiar, promoverán el desarrollo social, proyectos productivos, formas específicas de organización social y programas de apoyo a las familias que se encuentren en abandono, temporal o definitivo, como consecuencia de la migración.
 
 ### CAPÍTULO TERCERO. DE LA TRANSPARENCIA MUNICIPAL
 
@@ -559,9 +565,17 @@ Cada Municipio podrá organizar actos cívicos en las fechas históricas tradici
 
 Los órganos que al efecto se conformen, se integrarán y funcionarán, en términos de los reglamentos correspondientes y en concordancia con el párrafo décimo primero del Artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, básicamente al elaborar el diagnóstico y el Programa Municipal de cultura, el catálogo de su patrimonio y el de sus principales manifestaciones culturales; podrán promover estas actividades alentando la participación social, fomentando la investigación y difusión de las manifestaciones culturales en el Municipio.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Se reconoce el derecho de las personas indígenas a practicar y revitalizar sus tradiciones y costumbres culturales. El Ayuntamiento, de acuerdo de (sic) sus atribuciones y asignaciones presupuestarias, apoyará y proporcionará a los Pueblos y comunidades indígenas los recursos que prevean los programas autorizados con ese objeto, para el mantenimiento, protección y desarrollo de sus manifestaciones culturales, étnicas, artes, expresiones musicales, fiestas tradicionales y literatura oral y escrita.
+
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
 
 ARTÍCULO 55 BIS.- En función del presupuesto destinado al rubro, en las bibliotecas públicas municipales se otorgarán servicios culturales complementarios, mediante la impartición permanente de exposiciones, conferencias, talleres o cursos de geografía, historia, literatura, poesía, música, filosofía, idiomas, fotografía, arte en sus distintas manifestaciones, así como aquellos que dispongan las Autoridades Municipales, los cuales se dirijan a promover el desarrollo cultura de los hidalguenses.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Asimismo, se establecerá en las bibliotecas municipales un lugar reservado para la información y documentación representativa sobre las lenguas y literatura indígena, así como las actividades que garanticen el desarrollo, preservación, conservación de la cultura de los pueblos y comunidades indígenas.
 
 ### CAPÍTULO SEXTO. FACULTADES Y OBLIGACIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -613,19 +627,25 @@ n).- Auxiliar a las autoridades de la Federación y del Estado en las medidas qu
 
 o).- Administrar su patrimonio conforme a la Ley;
 
-p).- Formular, aprobar y administrar, en su ámbito territorial, la zonificación y planes de desarrollo urbano, conforme a la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo y a lo previsto en los planes y programas vigentes aplicables;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+p).- Formular, aprobar y administrar, en su ámbito territorial, la zonificación y planes de desarrollo urbano y rural, conforme a la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo y a lo previsto en los planes y programas vigentes aplicables;
 
 q).- Analizar y aprobar, en su caso, la iniciativa de Ley de Ingresos, la que será enviada al Congreso del Estado para su aprobación;
 
 r).- Proponer al Congreso del Estado, en el ámbito de su competencia, las cuotas y tarifas aplicables a impuestos, derechos, productos, aprovechamientos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria; así como las tasas de las contribuciones adicionales. Los Ayuntamientos y, en su caso, el Congreso del Estado, podrán solicitar los criterios técnicos de las dependencias del Poder Ejecutivo Estatal, a fin de respaldar sus proyectos y resoluciones;
 
-s).- Formular y aprobar anualmente su presupuesto de egresos, el cual deberá ser aprobado por las dos terceras partes del Ayuntamiento;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+s).- Analizar y en su caso aprobar anualmente su presupuesto de egresos, el cual deberá ser aprobado por las dos terceras partes del Ayuntamiento; en caso de ser necesario realizar adecuaciones presupuestales, éstas deberán ser aprobadas en los términos señalados dentro del ejercicio fiscal al que correspondan y antes del gasto.
 
 t).- Autorizar al Presidente Municipal, la celebración de contratos con particulares e instituciones oficiales, sobre asuntos de interés público, en los términos de Ley. Al efecto, los Ayuntamientos están facultados para obligarse crediticiamente a través del Presidente Municipal; en este caso, se deberán observar los criterios de aprobación establecidos en esta Ley, así como en las disposiciones de la materia.
 
 Los municipios, sólo podrán contraer deuda pública cuando esta se destine a inversión pública productiva en términos de la legislación aplicable. No constituirán deuda pública, las obligaciones directas a corto plazo que contraigan los municipios y que reunan los requisitos exigidos por la legislación vigente.
 
-u).- Autorizar la nomenclatura de las calles, jardines, plazas y paseos públicos;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+u).- Autorizar la nomenclatura de las calles, jardines, plazas y paseos públicos, así como instrumentar las medidas necesarias para que estás y sus topónimos, sean inscritos en español y en las lenguas indígenas de uso en el territorio, de acuerdo a su disponibilidad presupuestaria;
 
 v).- Prevenir y sancionar, con el auxilio de las autoridades competentes, el alcoholismo, la prostitución, la adicción a las drogas y toda actividad que signifique perjuicio a la sociedad o sean considerados delitos federales o comunes;
 
@@ -643,9 +663,11 @@ a).- Convenir con el Estado, Instituciones de Educación Superior, otros municip
 
 b).- Promover la integración de los miembros de los Consejos de Colaboración Municipal;
 
-c).- Adquirir bienes, en cualquiera de las formas previstas por la Ley dentro de su jurisdicción. Si los Ayuntamientos se .encontraren en posesión de bienes vacantes, operará en su favor la prescripción positiva en los términos que señala el Código Civil vigente en el Estado;
+c).- Adquirir bienes, en cualquiera de las formas previstas por la Ley dentro de su jurisdicción. Si los Ayuntamientos se encontraren en posesión de bienes vacantes, operará en su favor la prescripción positiva en los términos que señala el Código Civil vigente en el Estado;
 
-d).- Acrecentar los bienes patrimoniales y promover el desenvolvimiento material, cívico, social, económico, cultural, artístico, deportivo, científico, tecnológico y educativo en general, en la municipalidad, defender y preservar el medio ambiente a través de programas concretos;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+d).- Acrecentar los bienes patrimoniales y promover el desenvolvimiento material, cívico, social, económico, cultural, artístico, deportivo, científico, tecnológico y educativo en general, en la municipalidad, defender y preservar el medio ambiente a través de programas concretos; así como trabajos que estarán encaminados a la recuperación, documentación y difusión de elementos que constituyen el patrimonio cultural indígena;
 
 e).- Enajenar, a título gratuito u oneroso, los inmuebles de dominio privado del Municipio, únicamente cuando así lo aprueben las dos terceras partes de los integrantes del Ayuntamiento, previa localización y medición de la propiedad y avalúo por peritos; la venta se efectuará en los términos de la autorización y conforme a lo previsto por la Ley de la materia;
 
@@ -661,19 +683,45 @@ j).- Proceder conforme a Ley Sobre Monumentos y Zonas Arqueológicas, Artística
 
 k).- Regular, de acuerdo a su competencia, el funcionamiento de espectáculos y giros industriales, comerciales, turísticos y de servicios profesionales;
 
-l).- Normar *el establecimiento de mercados, tianguis y ferias, en su ámbito de competencia;
+l).- Normar el establecimiento de mercados, tianguis y ferias, en su ámbito de competencia;
 
 m).- Reglamentar, conforme a su competencia, las actividades mercantiles en la vía pública;
 
-n).- Vigilar que las obras públicas, acciones o servicios, se ejecuten de acuerdo a la Ley y el programa establecido; y
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+n).- Vigilar que las obras públicas, acciones o servicios, se ejecuten de acuerdo a la Ley y el programa establecido;
 
 o).- Aprobar o desechar las propuestas realizadas por el Presidente Municipal, respecto a la designación de comisiones de gobierno y administración.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
 
-p) Nombrar al Cronista Municipal, quien tendrá a su cargo la investigación histórica y cultural que preserve y fomente la identidad de los pobladores con su Municipio y con el Estado, así como la integración, conservación y enriquecimiento del archivo histórico del Municipio.
+p).- Nombrar al Cronista Municipal, quien tendrá a su cargo la investigación histórica y cultural que preserve y fomente la identidad de los pobladores con su Municipio y con el Estado, así como la integración, conservación y enriquecimiento del archivo histórico del Municipio.
 
 El nombramiento del Cronista Municipal, será a propuesta de la Comisión de Educación y Cultura de cada Ayuntamiento, debiendo recaer en la persona que se distinga por sus amplios conocimientos en la historia y cultura del Municipio, así como que sea destacado por sus méritos y aportaciones a la cultura Municipal. Para su designación, deberán escucharse a las asociaciones e instituciones educativas, culturales y sociales del Municipio, durando en su encargo cuatro años, pudiendo ser ratificado por acuerdo del Ayuntamiento entrante, su nombramiento será de manera honorifica.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Será atribución del Cronista Municipal, entre otras, el registro literario y documental de los personajes y acontecimientos históricos más relevantes del municipio; así como el estudio y rescate de las costumbres y tradiciones y la descripción de las transformaciones urbanas del municipio.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Para el cumplimiento de sus tareas, el Cronista Municipal contará con los recursos que se deriven del trabajo coordinado con las instituciones públicas y privadas, que tengan injerencia en la investigación, acervo y difusión de las culturas populares;
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+q).- Proponer y elaborar acciones y proyectos estratégicos enfocados al desarrollo en zonas metropolitanas en el Estado de manera concurrente con los Gobiernos Federal, Estatal y Municipal cuando así lo consideren;
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+r).- En el caso de municipios con población indígena reconocida elaborarán reglamentos internos propios de cada localidad a fin de que coadyuven al mejoramiento, establecimiento, limitación y regulación de los usos y costumbres con la participación de la comunidad;
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+s).- Preservar la cultura, derechos lingüísticos y tradiciones de los pueblos y comunidades indígenas, su protección legal y tomar en cuenta su opinión para la formulación de los Planes Municipales de Desarrollo y en los asuntos y acuerdos municipales que les afecten; y
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+t).- A más tardar, noventa días hábiles posteriores a la toma (sic) posesión, podrá solicitar al Congreso del Estado la modificación al Catálogo de Pueblos y Comunidades Indígenas, para lo cual se deberá aplicar la metodología de una Cédula Antropológica como un instrumento técnico.
 
 III.- Las demás que le concedan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las leyes que de ellas emanen. A tal efecto y en el ámbito de su competencia, la Legislatura del Estado, tomará en cuenta las condiciones territoriales y socioeconómicas del Municipio y su capacidad técnica, administrativa y financiera.
 
@@ -733,13 +781,17 @@ XXIII.- Turismo;
 
 XXIV. Deporte;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XXV. Vivienda; y
+XXV.- Vivienda;
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XXVI. Pesca y Acuacultura
+XXVI. Pesca y Acuacultura; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XXVII. Desarrollo Rural y atención a pueblos y comunidades Indígenas.
 
 La concurrencia comprende la elaboración, ejecución y operación de programas, obras, servicios y acciones, de acuerdo con sus capacidades técnicas, administrativas y financieras, conforme a los Convenios de Coordinación que, para tal efecto, se celebren y en los términos que disponga la legislación correspondiente.
 
@@ -777,11 +829,9 @@ f).- Autorizar a la Tesorería Municipal, las órdenes de pago, conforme al Pres
 
 g).- Constituir el Comité de Planeación del Desarrollo Municipal, con la participación de representantes de los sectores público, social y privado, y de profesionistas y técnicos que residan dentro de su territorio; así como el Comité de Desarrollo Urbano Municipal, en los términos del Reglamento respectivo;
 
-h).- Cumplir con el Plan Estatal de Desarrollo, el del Municipio y los programas sectoriales, regionales y especiales aprobados, respecto a lo que se refiere a su Municipio. A más tardar, noventa días después de tomar posesión de su cargo, el Presidente Municipal deberá presentar un Plan Municipal de Desarrollo Urbano, congruente con el Plan Estatal;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
-
-Asimismo, contará con el mismo plazo, para presentar el Atlas de Riesgos correspondiente, actualizado a su gestión.
+h) Cumplir con el Plan Estatal de Desarrollo, el del Municipio y los programas sectoriales, regionales y especiales aprobados, respecto a lo que se refiere a su Municipio. A más tardar, noventa días después de tomar posesión de su cargo, el Presidente Municipal deberá presentar un Plan Municipal de Desarrollo Urbano que contenga los Planes de Desarrollo Rural para los Pueblos y Comunidades Indígenas en caso de contar con población indígena reconocida, congruentes con el Plan Estatal;
 
 i).- Coadyuvar con las Autoridades Federales en la aplicación y cumplimiento de las disposiciones previstas en los Artículos 27 y 30 de la Constitución Política de los Estados Unidos Mexicanos, de acuerdo a su normatividad interna;
 
@@ -799,7 +849,9 @@ o).- Obligar crediticiamente al Municipio en forma mancomunada con el Secretario
 
 p).- Solicitar la expropiación de bienes por causa de utilidad pública, como lo previene la Constitución Política del Estado;
 
-q).- Formular anualmente la iniciativa de la Ley de Ingresos y remitirla al Congreso del Estado para su aprobación, a más tardar en la primera quincena del mes de Noviembre;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+q) Formular anualmente, con apoyo de la Tesorería Municipal, la iniciativa de la Ley de Ingresos y remitirla al Congreso del Estado para su aprobación, a más tardar en la primera quincena del mes de Noviembre;
 
 r).- Formular anualmente el Presupuesto de Egresos;
 
@@ -829,9 +881,15 @@ dd).- Calificar las infracciones por violaciones a las Leyes, Reglamentos y dem�
 
 ee).- Resolver los recursos administrativos que sean de su competencia;
 
-ff).- Celebrar contratos y convenios, con particulares e instituciones oficiales, sobre asuntos de interés público, previa autorización del Ayuntamiento, y
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ff) Celebrar contratos y convenios, con particulares e instituciones oficiales, sobre asuntos de interés público, previa autorización del Ayuntamiento;
 
 gg).- Presentar ante la Auditoría Superior del Congreso del Estado, su declaración patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los treinta días hábiles siguientes a ésta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+hh).- Tratándose de municipios pertenecientes a Zonas Metropolitanas, elaborar un Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial que contenga proyectos y programas congruentes con el Plan de Desarrollo Estatal y Municipal en materia metropolitana y que deberá ser presentado a más tardar noventa días después de tomar posesión de su cargo.
 
 II.- Asimismo, podrán:
 
@@ -871,7 +929,9 @@ p).- Realizar las obras necesarias en el Municipio, de acuerdo con el Plan de De
 
 q).- Expedir constancias de vecindad;
 
-r).- Conceder permisos para manifestaciones públicas, de conformidad con el Bando de Policía y Gobierno; y (sic)
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+r).- Conceder permisos para manifestaciones públicas, de conformidad con el Bando de Policía y Gobierno;
 
 s).- Promover los programas y acciones necesarias para la preservación, conservación, mitigación del daño y restauración del medio ambiente; y (sic)
 
@@ -891,7 +951,9 @@ Para los efectos de la fracción I inciso a) del artículo anterior, cuando el A
 
 En los reglamentos que expidan los Ayuntamientos, se podrá impedir a los Presidentes Municipales, lo siguiente:
 
-I.- Aplicar los fondos, valores y bienes Municipales a fines distintos a los que están destinados y excederse en el ejercicio del Presupuesto de Egresos. La transferencia de partidas, sólo podrá realizarse con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+I. Aplicar los fondos, valores y bienes municipales a fines distintos a los que están destinados y excederse en el ejercicio del Presupuesto de Egresos. Asimismo no podrán realizar adecuaciones presupuestales sin contar con la aprobación del Ayuntamiento en los términos previstos por el artículo 56 fracción s).
 
 II.- Imponer contribución o sanción alguna que no esté señalada en las Leyes, Reglamentos y otras disposiciones legales vigentes;
 
@@ -1023,13 +1085,25 @@ X.- Realizar sesiones de audiencia pública, para recibir peticiones y propuesta
 
 XI.- Formular; con la participación de las instancias competentes del Ayuntamiento y de los sectores social y privado, el conocimiento y estudio de los asuntos en materia de Derechos Humanos, para lo cual se deberán atender las necesidades y características particulares de su Municipio, impulsar y fortalecer en todas las actividades que desarrolle el propio Ayuntamiento la protección y promoción de los derechos humanos; y (sic)
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XII.- Presentar ante la Auditoría Superior del Estado, su declaración patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los treinta días hábiles siguientes a ésta; y
+XII.- Presentar ante la Auditoría Superior del Estado, su declaración patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los treinta días hábiles siguientes a ésta;
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2013)</small>
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XIII.- Las demás que les otorguen las leyes y reglamentos.
+XIII.- Formular propuestas de estudio, acciones y proyectos en materia de zonas metropolitanas congruentes con el Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XIV.- Asegurar que las Comunidades y Pueblos Indígenas avecindadas en su territorio, gocen de los programas de desarrollo e infraestructura comunitaria y de asistencia social, estableciendo presupuestos específicos destinados a ellos, de conformidad con la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XV.- Crearán en coordinación los Delegados Municipales y de las instancias competentes y los sectores social y privado los reglamentos internos propios de cada localidad a fin de que coadyuven al mejoramiento, establecimiento, limitación y regulación de los usos y costumbres con la participación de la comunidad; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XVI.- Las demás que les otorguen las leyes y reglamentos.
 
 Los Regidores, concurrirán a las sesiones del Ayuntamiento, con voz y voto; percibirán su dieta de asistencia que señale el presupuesto de egresos del Municipio y no podrán, en ningún caso, desempeñar cargos, empleos o comisiones remuneradas en la Administración Pública Municipal.
 
@@ -1083,13 +1157,17 @@ k).- De igualdad y Género;
 
 l).- De adultos Mayores;
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-m).- De Medio Ambiente; y
+m) De Medio Ambiente;
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-n).- De Desarrollo Económico.
+n) De Desarrollo Económico; y
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ñ) De Desarrollo Rural y atención a pueblos y comunidades
 
 II.- Serán especiales, las que designe el Ayuntamiento, de acuerdo con las necesidades del Municipio.
 
@@ -1207,9 +1285,21 @@ II.- Vigilar el cumplimiento de las disposiciones reglamentarias que expida el A
 
 III.- Coadyuvar en la elaboración, revisión y actualización del censo de población de la comunidad correspondiente;
 
-IV.- Auxiliar en todo lo que requiera al Presidente Municipal para el mejor cumplimiento de sus funciones, salvo en los asuntos político-electorales; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Las demás que le otorguen los reglamentos respectivos.
+IV.- Auxiliar en todo lo que requiera al Presidente Municipal para el mejor cumplimiento de sus funciones, salvo en los asuntos político-electorales;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Auxiliar en la elaboración del Reglamento Interno de las comunidades indígenas reconocidas, a fin de que se establezcan, limiten y regulen los usos y costumbres propios, respetando el derecho a la consulta;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- Los delegados y subdelegados podrán elaborar un plan de desarrollo rural o urbano según sea el caso, mismo que precisará los objetivos, estrategias, líneas de acción y prioridades del Desarrollo Integral de la comunidad con una visión de 20 a 30 años a futuro; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- Las demás que le otorguen los reglamentos respectivos.
 
 ###### ARTÍCULO 82.
 
@@ -1307,7 +1397,109 @@ IV.- La deuda que contraten.
 
 Los Municipios podrán celebrar convenios con el Estado, para que éste se haga cargo de algunas de las funciones relacionadas con la administración de estas contribuciones.
 
-### CAPÍTULO PRIMERO. DE LA SECRETARÍA GENERAL MUNICIPAL
+### CAPÍTULO TERCERO. DE LAS INICIATIVAS DE LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 95 BIS.- Para la aprobación de las iniciativas de Ley de Ingresos y Presupuesto de Egresos del Municipio, la Tesorería Municipal deberá proporcionar al Ayuntamiento como mínimo lo siguiente:
+
+I. Información contable, con la desagregación siguiente:
+
+a) Estado de situación financiera;
+
+b) Estado de variación en la hacienda pública;
+
+c) Estado de cambios en la situación financiera;
+
+d) Notas a los estados financieros;
+
+e) Estado analítico del activo; y
+
+f) Estado analítico de la Deuda Pública, en su caso.
+
+II. Información presupuestaria, con la desagregación siguiente:
+
+a) Estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto, incluyendo los ingresos excedentes generados;
+
+b) Estado analítico del ejercicio del presupuesto de egresos del que se derivarán las siguientes clasificaciones:
+
+i. Administrativa;
+
+ii. Económica y por objeto del gasto; y
+
+iii. Funcional-programática;
+
+El estado analítico del ejercicio del presupuesto de egresos deberá identificar los montos y adecuaciones presupuestarias y subejercicios por Ramo y/o Programa; (sic)
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 95 TER.- Además de la información prevista en las respectivas leyes en materia financiera, fiscal y presupuestaria, los Municipios, incluirán en sus respectivas leyes de ingresos y presupuestos de egresos apartados específicos con la información siguiente:
+
+I. Ley de Ingresos:
+
+a) Las fuentes de sus ingresos sean ordinarios o extraordinarios, desagregando el monto de cada una, incluyendo los recursos federales que se estime serán transferidos por la Federación a través de los fondos de participaciones y aportaciones federales, subsidios y convenios de reasignación; así como los ingresos recaudados con base en las disposiciones locales, el padrón de contribuyentes; y
+
+b) Las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza con contrapartes, proveedores, contratistas y acreedores, incluyendo la disposición de bienes o expectativa de derechos sobre éstos, contraídos directamente o a través de cualquier instrumento jurídico considerado o no dentro de la estructura orgánica de la administración pública correspondiente, y la celebración de actos jurídicos análogos a los anteriores y sin perjuicio de que dichas obligaciones tengan como propósito el canje o refinanciamiento de otras o de que sea considerado o no como deuda pública en los ordenamientos aplicables. Asimismo, la composición de dichas obligaciones y el destino de los recursos obtenidos;
+
+II. Presupuestos de Egresos:
+
+a) Las prioridades de gasto, los programas y proyectos, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; y
+
+b) Las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de asociaciones público privadas y proyectos de prestación de servicios, entre otros.
+
+Los funcionarios de la administración pública municipal deberán comparecer ante el Ayuntamiento cuando se les requiera para aportar la información necesaria que contribuya a un mejor análisis de las Iniciativas.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 95 QUATER.- La Iniciativa de Ley de Ingresos deberá ser presentada al Ayuntamiento por el Presidente Municipal con apoyo del Tesorero Municipal a más tardar el 15 de octubre del año anterior al de su ejercicio, para su análisis, discusión y, en su caso, aprobación. La aprobación de dicha iniciativa será a más tardar el 31 de octubre de ese mismo año.
+
+La iniciativa de Ley de Ingresos contendrá la estimación de los ingresos a recaudar por parte de la Tesorería Municipal, de acuerdo con lo facultado en la Ley de Hacienda para los Municipios del Estado de Hidalgo.
+
+En la proyección del ingreso a que se refiere el párrafo anterior, la Tesorería Municipal deberá considerar las necesidades de gasto público municipal, la utilización del crédito público, en su caso, y la sanidad financiera de la administración pública municipal.
+
+Cualquier modificación a la Ley de Ingresos solo podrá realizarse durante el ejercicio fiscal de su vigencia.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 95 QUINQUIES.- El Presupuesto de Egresos Municipal será el que apruebe el Ayuntamiento respectivo, contendrá el ejercicio del gasto público municipal desde el primero de enero hasta el treinta y uno de diciembre del ejercicio fiscal correspondiente.
+
+Para tal efecto el Presidente Municipal, deberá presentar al Ayuntamiento la iniciativa de Proyecto de Presupuesto de Egresos previamente elaborado por la Tesorería Municipal, a más tardar el 1 de diciembre del año anterior al de su ejercicio, mismo que será turnado a la Comisión de Hacienda para su análisis y dictamen.
+
+En caso de que al treinta y uno de diciembre del año que corresponda, el Ayuntamiento no apruebe el Presupuesto de Egresos que regirá el próximo año, se declarará aplicable para el siguiente ejercicio fiscal, el Presupuesto de Egresos que se encuentre vigente, sólo en lo relativo al gasto corriente.
+
+Para la formulación y aprobación del Presupuesto de Egresos del Municipio se deberá observar lo siguiente:
+
+I. El Presupuesto de Egresos, además de comprender las erogaciones a que se refiere el artículo 95 TER fracción II, deberá incorporar los subsidios, apoyos, donaciones, estímulos y demás conceptos de gasto que con el carácter de transferencias de recursos se otorguen a entidades, organismos e instituciones que realizan actividades, obras o servicios acordes a los objetivos y metas del Plan Municipal de Desarrollo, así como la amortización y pago de intereses de la deuda pública municipal y pago de adeudos de ejercicios fiscales anteriores;
+
+II. Para la asignación de las previsiones de gasto público municipal la Tesorería Municipal proyectará y calculará los egresos del gobierno municipal, haciéndolo compatible con la disponibilidad de recursos al proyectar y estimar los ingresos del Municipio;
+
+III. Para la formulación del proyecto de Presupuesto de Egresos las dependencias y entidades municipales elaborarán, oportunamente, sus anteproyectos de presupuesto, con base en las normas, montos y plazos establecidos.
+
+Las entidades paramunicipales formularán sus propios anteproyectos de presupuestos de egresos y, previa autorización de sus órganos de gobierno, los remitirán a la Tesorería Municipal, para que ordene su incorporación, en capítulo especial, al proyecto de Presupuesto de Egresos del Ayuntamiento;
+
+IV. Los programas, para efecto de su presupuestación, deberán contener:
+
+a) Los objetivos que se pretendan alcanzar, así como su justificación;
+
+b) La desagregación en subprogramas, cuando las actividades lo requieran;
+
+c) La cuantificación de metas por programa y subprograma, en su caso, con sus unidades de medida, indicadores de medición y denominación;
+
+d) Las previsiones de gasto;
+
+e) Las principales características de los programas y subprogramas, en su caso, y los criterios que justifiquen la asignación de los recursos; y
+
+f) Las demás previsiones que estime la Tesorería Municipal.
+
+V. El proyecto de Presupuesto de Egresos deberá incluir la calendarización del ejercicio por cada mes, a nivel de capítulos y especificando importes por conceptos y partidas en forma consolidada respecto al total de dicho presupuesto. Además, las Políticas de gasto durante el ejercicio del presupuesto y rendición de cuentas al Ayuntamiento;
+
+VI. La Comisión de Hacienda del Ayuntamiento analizará el proyecto y elaborará el dictamen correspondiente que deberá ser sometido a la revisión y, en su caso, aprobación del Ayuntamiento, durante la segunda quincena del mes de diciembre del año anterior al de su ejercicio;
+
+VII. El proyecto de Presupuesto de Egresos y el dictamen deberán ser presentados a todos los integrantes del Ayuntamiento para su análisis, discusión y aprobación, en su caso, por las dos terceras partes de los integrantes del Ayuntamiento;
+
+VIII. Una vez aprobado el Presupuesto de Egresos, el Ayuntamiento, a más tardar el 31 de diciembre, por conducto del Presidente Municipal, deberá publicarlo en el Periódico Oficial del Estado y en su página de internet, remitiendo una copia del mismo con todos sus anexos, a la Auditoría Superior del Estado, dentro de los primeros diez días del ejercicio fiscal siguiente al que corresponda el presupuesto aprobado, en caso de existir adecuaciones presupuestales, se publicarán a través de los medios señalados y se remitirán a dicha Entidad de Fiscalización dentro de los 10 días hábiles siguientes a la fecha de su aprobación, en el entendido de que la información contenida en estas servirá para la revisión y fiscalización de la Cuenta Pública; y
+
+IX. Las modificaciones al Presupuesto de Egresos se podrán realizar solamente durante el mismo Ejercicio Fiscal de su vigencia y por causa justificada, éstas deberán ser aprobadas en los términos señalados dentro del ejercicio fiscal al que correspondan y antes del gasto. Para lo cual se deberá seguir el mismo procedimiento que para su aprobación y ser sancionadas por las dos terceras partes del Ayuntamiento.
 
 ###### ARTÍCULO 93.
 
@@ -1361,11 +1553,13 @@ X.- Las demás facultades que, en relación con la Hacienda Pública Municipal, 
 
 La malversación de fondos Municipales y cualquier otro hecho que se estime en contra de la Hacienda Pública Municipal podrá ser denunciada por cualquier persona, ante el Ayuntamiento, Presidente Municipal u otra autoridad que resulte competente.
 
-### CAPÍTULO SEGUNDO. DE LA TESORERÍA MUNICIPAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPÍTULO PRIMERO. DE LA SECRETARÍA GENERAL MUNICIPAL
 
 ## TÍTULO SEXTO. RÉGIMEN ADMINISTRATIVO
 
-### CAPÍTULO TERCERO. DE LA CONTRALORÍA
+### CAPÍTULO SEGUNDO. DE LA TESORERÍA MUNICIPAL
 
 ###### ARTÍCULO 96.
 
@@ -1431,7 +1625,7 @@ Para el desempeño de sus funciones y el desahogo de los asuntos legales, el Sec
 
 Las ausencias del Secretario General Municipal serán cubiertas por el funcionario que designe el Presidente.
 
-### CAPÍTULO CUARTO. DE LOS SERVICIOS PÚBLICOS
+### CAPÍTULO TERCERO. DE LA CONTRALORÍA
 
 ###### ARTÍCULO 100.
 
@@ -1529,7 +1723,7 @@ XXVI.-Vigilar que las acciones relativas a la planeación, programación, presup
 
 XXVII.- Las demás que le asignen las Leyes y Reglamentos.
 
-### CAPÍTULO QUINTO. DE LAS DEPENDENCIAS ENCARGADAS DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS
+### CAPÍTULO CUARTO. DE LOS SERVICIOS PÚBLICOS
 
 ###### ARTÍCULO 105.
 
@@ -1613,7 +1807,7 @@ IV.- No haber sido condenado mediante sentencia ejecutoriada, por delito doloso;
 
 V.- No contar con inhabilitación vigente para desempeñar un cargo, empleo o comisión en el servicio público.
 
-### CAPÍTULO SEXTO. DE LA ASISTENCIA SOCIAL
+### CAPÍTULO QUINTO. DE LAS DEPENDENCIAS ENCARGADAS DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS
 
 ###### ARTÍCULO 108.
 
@@ -1673,7 +1867,7 @@ Cuando los servicios públicos sean prestados directamente por el Ayuntamiento, 
 
 Cuando los servicios públicos Municipales sean concesionados a particulares, se sujetarán a las disposiciones de esta Ley, así como a los decretos y reglamentos del Municipio de que se trate.
 
-### CAPÍTULO SÉPTIMO. DE LA POLICÍA PREVENTIVA MUNICIPAL
+### CAPÍTULO SEXTO. DE LA ASISTENCIA SOCIAL
 
 ###### ARTÍCULO 112.
 
@@ -1823,7 +2017,7 @@ V.- Autorizar las licencias y permisos de funcionamiento y cuidar que se paguen 
 
 VI.- Regular el comercio establecido, así como la autorización de espectáculos públicos en el Municipio.
 
-### CAPÍTULO OCTAVO. DE LA UNIDAD MUNICIPAL DE PROTECCIÓN CIVIL Y EL H. CUERPO DE BOMBEROS
+### CAPÍTULO SÉPTIMO. DE LA POLICÍA PREVENTIVA MUNICIPAL
 
 ###### ARTÍCULO 122.
 
@@ -1833,7 +2027,7 @@ La Junta Municipal para el Desarrollo Integral de la Familia, estará regida por
 
 El Titular del Desarrollo Integral de la Familia Municipal, deberá contar con el apoyo de su Unidad Técnica, cuyo responsable deberá ser un profesionista o técnico con conocimientos en las materias de derecho, administración o ramas afines a éstas. El responsable de la Unidad referida, refrendará con su firma los documentos oficiales suscritos por el titular del Desarrollo Integral de la Familia Municipal.
 
-### CAPÍTULO NOVENO. DE LOS ACTOS ADMINISTRATIVOS MUNICIPALES
+### CAPÍTULO OCTAVO. DE LA UNIDAD MUNICIPAL DE PROTECCIÓN CIVIL Y EL H. CUERPO DE BOMBEROS
 
 ###### ARTÍCULO 123.
 
@@ -1907,7 +2101,7 @@ VIII.- Vigilar que los cuerpos policiacos bajo su mando, realicen sus funciones 
 
 IX.- Las demás que le asignen las Leyes y Reglamentos, el Ayuntamiento y el Presidente Municipal.
 
-### CAPÍTULO DÉCIMO. DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
+### CAPÍTULO NOVENO. DE LOS ACTOS ADMINISTRATIVOS MUNICIPALES
 
 ###### ARTÍCULO 127.
 
@@ -1953,9 +2147,61 @@ XI.- Rendir informe al Presidente Municipal, respecto de los acontecimientos reg
 
 XII.- Las demás que les asignen las Leyes y Reglamentos, el Ayuntamiento y el Presidente Municipal.
 
-### CAPÍTULO PRIMERO. DE LA MUNICIPALIZACIÓN
+### CAPÍTULO DÉCIMO. DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
 
-### CAPÍTULO SEGUNDO. DE LAS CONCESIONES DE LOS SERVICIOS PÚBLICOS MUNICIPALES
+### CAPÍTULO DÉCIMO BIS. DE LA SECRETARÍA DE DESARROLLO PARA PUEBLOS Y COMUNIDADES INDÍGENAS
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 145 BIS.- En los municipios que cuenten con población indígena, los ayuntamientos podrán contar con una Secretaría de Desarrollo para Pueblos y Comunidades Indígenas, para atender o canalizar, con respeto a su cultura, usos, costumbres, tradiciones y formas de organización comunitaria, las demandas y propuestas de las personas y comunidades indígenas de su circunscripción y que correspondan a su competencia.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 145 TER.- La Secretaría de Desarrollo para Pueblos y Comunidades Indígenas estará a cargo de una persona que hable y escriba suficientemente la lengua o lenguas indígenas de la región de que se trate, aprobado por el Cabildo a propuesta del Presidente Municipal, quien preferentemente consultará a las autoridades tradicionales de las principales comunidades para presentar la misma.
+
+El titular de la Secretaría realizará las funciones y ejercerá las atribuciones que señale el Reglamento Interior del Municipio correspondiente. Se procurará que el personal de esta Secretaría sea preferentemente indígena.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 145 QUATER.- La Secretaría de Desarrollo para Pueblos y Comunidades Indígenas, tendrá las siguientes facultades y obligaciones:
+
+I.- Vigilar que los procesos de planeación municipal, consideren el mejoramiento de las condiciones de vida, de trabajo, de salud y educación de los pueblos indígenas, con su participación y cooperación;
+
+II.- Asegurar que los Pueblos y Comunidades Indígenas avecindados en su territorio, gocen de los programas de desarrollo e infraestructura comunitaria y de asistencia social, estableciendo presupuestos específicos destinados a ellos, cumpliendo con la normatividad aplicable;
+
+III.- Promover con la participación de las comunidades indígenas programas de rescate, desarrollo y conservación de sus lenguas, tradiciones, costumbres, artesanías y todo aspecto relacionado con su vida cultural;
+
+IV.- Proponer al Ayuntamiento conforme a la Ley de la materia y en el ámbito de sus competencias, los planes y programas de desarrollo rural sustentable;
+
+V.- Reconocer y promover la participación de las autoridades y representantes comunitarios indígenas que hayan sido designadas por sus usos y costumbres, así como de los diferentes sistemas normativos en la toma de decisiones municipales;
+
+VI.- Realizar campañas informativas y de difusión de identidad indígena, para valorar la importancia de los Pueblos y Comunidades Indígenas asentados en el municipio, de su grandeza y riqueza cultural, y de la trascendencia en nuestro pasado y presente indígena, a efecto de evitar la discriminación y de fomentar el respeto hacia las personas, Pueblos y Comunidades Indígenas.
+
+VII.- Coadyuvar con los servicios de salud del Estado para lograr el acceso de los indígenas a los servicios de salud municipal, tal acción deberá entenderse como prioritaria;
+
+VIII.- Coadyuvar con el Ayuntamiento en la elaboración del Plan de Desarrollo Municipal;
+
+IX.- Comparecer ante el Ayuntamiento, cuando sea requerido;
+
+X.- Asistir al Presidente Municipal, en las funciones técnicas del Comité de Planeación para el Desarrollo Municipal;
+
+XI.- Participar en el registro de la nomenclatura de las calles, jardines, plazas y paseos públicos, así como actualizar las toponimias de las comunidades y ejidos del municipio y señalizar las áreas públicas, de acuerdo a las normas ortográficas de la lengua indígena de los habitantes de dicho espacio territorial;
+
+XII.- Elaborar el diagnóstico y el Programa Municipal de cultura, el catálogo de su patrimonio y el de sus principales manifestaciones culturales, basándose en la información contenida en el Catálogo de Comunidades Indígenas;
+
+XIII.- En coordinación con las autoridades y departamento municipales competentes elaborarán programas con el objeto de revitalizar, preservar, desarrollar y difundir las manifestaciones culturales, etnicas, artes y expresiones musicales, fiestas tradicionales y la literatura oral y escrita propias del municipio;
+
+XIV.- En coordinación con el Presidente Municipal elaborar planes y programas de desarrollo en el combate a la pobreza extrema de los Pueblos y Comunidades Indígenas, proyectando estrategias de 20 a 30 años a futuro; y
+
+XV.- Las demás que señale esta ley y las disposiciones legales aplicables en el Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 146 (SIC) QUINQUIES.- Los Pueblos y las comunidades indígenas tienen el derecho a decidir las prioridades, en lo que atañe al proceso de desarrollo, en la medida en que éste afecte a sus vidas, creencias, instituciones y bienestar espiritual y a las tierras que ocupan o utilizan, así como a decidir su desarrollo económico, social y cultural en el contexto del Plan Municipal de Desarrollo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 146 (SIC) SEXTUS.- El Municipio a través de La Secretaría de Desarrollo para Pueblos y Comunidades Indígenas deberá realizar estudios, en coordinación con las comunidades indígenas, a fin de evaluar la incidencia económica, social, cultural y sobre el ambiente, que las actividades de desarrollo previstas, puedan tener sobre esos pueblos. Los resultados de estos estudios se considerarán como criterios fundamentales para la ejecución de las actividades del desarrollo.
 
 ###### ARTÍCULO 130.
 
@@ -2017,7 +2263,7 @@ Los Ayuntamientos, con apego a la legislación vigente sobre asentamientos human
 
 Los acuerdos, concesiones, licencias, permisos y autorizaciones otorgados por autoridades, funcionarios o empleados Municipales, que carezcan de la competencia necesaria para ello, o los que se dicten por error, dolo o violencia, que perjudiquen o restrinjan los derechos del Municipio sobre sus bienes de dominio público o sobre cualquier materia administrativa, serán anulados administrativamente por los Ayuntamientos, previa audiencia de los interesados.
 
-### CAPÍTULO PRIMERO. DE LA CONCILIACIÓN MUNICIPAL
+### CAPÍTULO PRIMERO. DE LA MUNICIPALIZACIÓN
 
 ###### ARTÍCULO 139.
 
@@ -2043,9 +2289,17 @@ VII.- Promover la celebración de acuerdos de cooperación entre el sector públ
 
 VIII.- Promover la coordinación con otros Comités Municipales para coadyuvar en la formulación, instrumentación, control y evaluación de planes y programas para el desarrollo de zonas intermunicipales, y solicitar al Ayuntamiento pida la intervención del Gobierno del Estado, para tales efectos;
 
-IX.- Fungir como órgano de consulta de los gobiernos Federal, Estatal y Municipal, sobre la situación socioeconómica del Municipio; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-X.- Proponer a los gobiernos Federal, Estatal y Municipal, medidas de carácter jurídico, administrativo y financiero necesarias para el cumplimiento de las funciones y la consecución de los objetivos del propio comité.
+IX.- Fungir como órgano de consulta de los gobiernos Federal, Estatal y Municipal, sobre la situación socioeconómica del Municipio;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+X.- Proponer a los gobiernos Federal, Estatal y Municipal, medidas de carácter jurídico, administrativo y financiero, necesarias para el cumplimiento de las funciones y la consecución de los objetivos del propio comité; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XI.- Promover y participar en el estudio, acción, planeación y aplicación estratégica de proyectos establecidos en el Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial.
 
 ###### ARTÍCULO 141.
 
@@ -2093,6 +2347,12 @@ Los cargos de la Asamblea General y del Consejo Directivo del Comité de Planeac
 
 El Comité de Planeación, contará con el apoyo técnico que en cada caso se convenga con las Entidades de la Administración Pública Federal y Estatal, para su adecuada operación.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPÍTULO SEGUNDO. DE LAS CONCESIONES DE LOS SERVICIOS PÚBLICOS MUNICIPALES
+
+### CAPÍTULO PRIMERO. DE LA CONCILIACIÓN MUNICIPAL
+
 ### CAPÍTULO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
 ### CAPÍTULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
@@ -2101,11 +2361,9 @@ El Comité de Planeación, contará con el apoyo técnico que en cada caso se co
 
 ### CAPÍTULO ÚNICO
 
-### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
-
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
-
 ## TÍTULO SÉPTIMO. DE LA MUNICIPALIZACIÓN Y CONCESIÓN DE LOS SERVICIOS PÚBLICOS
+
+### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
 
 ###### ARTÍCULO 146.
 
@@ -2134,6 +2392,8 @@ Seguido el trámite que señala el artículo precedente, el Ayuntamiento, con la
 ###### ARTÍCULO 151.
 
 En caso de que se apruebe la municipalización del servicio y el Municipio carezca de recursos para prestarlo, podrá nuevamente otorgarlo en concesión en términos de esta Ley.
+
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
 
 ###### ARTÍCULO 152.
 
@@ -2244,6 +2504,18 @@ La justicia administrativa es una instancia que tiene por objeto mantener la tra
 En sus procedimientos, el Conciliador Municipal deberá observar la Ley Estatal del Procedimiento Administrativo para el Estado.
 
 El Presidente designará y removerá de su cargo al Conciliador Municipal.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+El Ayuntamiento, garantizará que toda persona sin distinciones de origen étnico, lengua, sexo, edad, condición social, religión ó estado civil tenga derecho a los métodos de justicia administrativa.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+El Ayuntamiento reconocerá la existencia de las autoridades y los sistemas normativos internos de las comunidades y pueblos indígenas, así como, el derecho de éstos a resolver las controversias y conflictos de entre sus miembros, mediante la aplicación que, de tales sistemas, hagan sus autoridades reconocidas, dentro del ámbito de la autonomía interior que les otorga la legislación, siempre que éstas no contravengan los derechos fundamentales, consagrados en nuestra Carta Magna, la del Estado y la legislación secundaria.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Se entiende y reconoce como sistema normativo indígena, aquél que comprende reglas generales de comportamiento, mediante las cuales la autoridad indígena regula la convivencia, la prevención y solución de conflictos internos, la definición de derechos y obligaciones, el uso y aprovechamiento de espacios comunes y la aplicación de sanciones, mismas que, deberán ser plasmadas en el Reglamento Interno respectivo de cada comunidad, con pleno respeto al marco constitucional Federal y Estatal, así como a los derechos humanos.
 
 ###### ARTÍCULO 161.
 
@@ -2600,3 +2872,11 @@ SEGUNDO.- Por lo que hace a la presentación de la declaración de situación pa
 P.O. 29 DE JULIO DE 2013.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El titular del Poder Ejecutivo del Estado de Hidalgo dispondrá, que la presente Ley, se traduzca a las lenguas que hablan los diferentes pueblos y comunidades indígenas existentes en el territorio estatal, así como, la difusión entre las diferentes Dependencias Educativas y de Gobierno en sus respectivos órdenes, a través de medios electrónicos.
