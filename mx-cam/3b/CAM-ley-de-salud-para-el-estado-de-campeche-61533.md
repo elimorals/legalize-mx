@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2011-08-04"
+last_updated: "2013-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -43,7 +43,7 @@ LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
 ### Capítulo Único
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 23 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Artículo 1.
 
@@ -205,13 +205,13 @@ XIII. Coadyuvar a que la formación y distribución de los recursos humanos para
 
 XIV. Promover e impulsar la participación de la comunidad en el cuidado de la salud e impulsar la permanente actualización de las disposiciones legales en materia de salud; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA [N DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2011)</small>
 
 XV. La prestación de los servicios de atención a la obesidad, así como la orientación y vigilancia en materia de nutrición conforme a los programas que se formulen y desarrollen al respecto; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE AGOSTO DE 2011)</small>
 
@@ -363,9 +363,23 @@ VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud
 
 IX. La promoción del mejoramiento de la nutrición;
 
-X. La asistencia social a los grupos más vulnerables; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XI. Los demás que establezca esta Ley y otras disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+X. La asistencia social a los grupos más vulnerables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XI. La prevención, tratamiento y control de la drogadicción, además de la rehabilitación de las personas adictas; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XII. Los demás que establezca esta Ley y otras disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 27.
 
@@ -489,7 +503,7 @@ La Secretaría Estatal establecerá los procedimientos para regular las modalida
 
 La Secretaría Estatal y las propias instituciones de salud, establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que los usuarios o solicitantes presenten sus quejas, reclamaciones y sugerencias, respecto de la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 50.
 
@@ -1059,7 +1073,7 @@ Los profesionales, técnicos y auxiliares de salud y los establecimientos que pr
 
 ### Capítulo III. Nutrición
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2011)</small>
 
@@ -1109,19 +1123,19 @@ De igual forma impulsará acciones encaminadas al combate de los trastornos alim
 
 En los programas, a que refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, procurando al efecto la participación de las sociedades, asociaciones y otras formas de organización cuyas actividades se relacionen con la producción de alimentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2011)</small>
 
 Así mismo buscará propiciar el desarrollo de las comunidades a partir de la instrumentación de políticas públicas tendientes a mejorar sus condiciones sanitarias, nutrición, atención médica y asegurar el acceso efectivo a los servicios de salud mediante la ampliación de su cobertura, apoyando la nutrición mediante programas de alimentación, en especial para la población infantil.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2011)</small>
 
 Artículo 119 bis.- Los apoyos nutricionales que proporcionen las dependencias y entidades de la administración pública estatal, serán entregados a los beneficiarios previa valoración del estado nutricional que realice el Sistema Estatal de Salud.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2011)</small>
 
@@ -1375,7 +1389,7 @@ V. La atención de los padecimientos que se produzcan como consecuencia de los a
 
 VI. La promoción de la participación de la comunidad en la prevención de accidentes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JULIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2010)</small>
 
 ## Título Décimo. Asistencia Social, Prevención y Rehabilitación de Personas con Discapacidad
 
@@ -1447,7 +1461,7 @@ El Estado y los Municipios promoverán la creación de establecimientos en los q
 
 Para los efectos de esta Ley, se entiende por discapacidad toda capacidad física, intelectual o sensorial disminuida o limitada en forma transitoria o permanente para realizar las actividades necesarias en el normal desempeño físico, mental, social, ocupacional o económico del ser humano.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Artículo 157.
 
@@ -1609,7 +1623,9 @@ IV. Promoverá y llevará a cabo campañas permanentes de información y orienta
 
 A los propietarios y responsables de establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga la Secretaría Estatal, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley, sin perjuicio de las sanciones penales que en el caso correspondan.
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 Artículo 170 bis.- Para el tratamiento de los farmacodependientes, las dependencias y entidades de la administración pública estatal deberán crear centros especializados en atención y rehabilitación de farmacodependientes, en los que, al igual que en las acciones de prevención, se respeten los derechos humanos, la integridad y libre decisión del farmacodependiente.
 
@@ -1619,7 +1635,7 @@ I. Crear un padrón de instituciones y organismos públicos y privados que reali
 
 II. Celebrar convenios de colaboración con instituciones nacionales o internacionales de los sectores social o privado y con personas físicas que se dediquen a la prevención, tratamiento, atención y rehabilitación en materia de farmacodependencia, con el fin de que quienes requieran de asistencia puedan, conforme a sus necesidades, características y posibilidades económicas, acceder a los servicios que estas instituciones o personas físicas ofrecen.
 
-Los centros especializados en atención y rehabilitación de farmacodependientes podrán funcionar dentro o fuera de las instalaciones de los centros de reinserción social, sin perjuicio de que éstos últimos puedan celebrar los convenios de colaboración que correspondan con las instituciones, organismos y personas físicas a los que a que se refieren las fracciones I y II del presente artículo.
+Los centros especializados en atención y rehabilitación de farmacodependientes podrán funcionar dentro o fuera de las instalaciones de los centros de reinserción social, sin perjuicio de que estos últimos puedan celebrar los convenios de colaboración que correspondan con las instituciones, organismos y personas físicas a los que a que refieren las fracciones I y II del presente artículo; y se ajustarán a lo dispuesto en el Capítulo I bis del Título Decimoctavo de esta Ley.
 
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2010)</small>
 
@@ -1635,7 +1651,7 @@ Los profesionales de la salud, al prescribir medicamentos que contengan substanc
 
 Artículo 171 bis.- Cuando el centro o institución de salud reciba reporte de no ejercicio de la acción penal, en términos del artículo 478 de la Ley General, las autoridades estatales de salud deberán citar al farmacodependiente o consumidor a efecto de proporcionarle orientación e invitarlo a tomar parte en los programas contra la farmacodependencia o en aquellos preventivos de la misma.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JULIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2010)</small>
 
 ### Capítulo Único
 
@@ -1961,7 +1977,51 @@ Título Decimosexto
 
 Certificados
 
-### Capítulo II. Sanciones Administrativas
+### Capítulo I bis. De los Centros de Rehabilitación de Adicciones
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Artículo 238 bis.- Que los sectores social y privado podrán prestar los servicios de tratamiento y rehabilitación de adictos, para lo cual deberán tramitar la autorización y el registro de funcionamiento de los centros ante la Secretaría de Salud, cumpliendo con la normatividad que al efecto emita.
+
+Los Centros de Rehabilitación de Adicciones, públicos y privados, deberán contar con personal profesional para la atención de las adicciones, reuniendo la capacidad necesaria para prestar los servicios de rehabilitación. La Secretaría expedirá la reglamentación que determine las características profesionales o técnicas que el personal de los centros debe reunir para cumplir con sus funciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Articulo 238 ter. Para operar un Centro de Rehabilitación de Adicciones en el Estado, independientemente de lo que prescriban la Ley General de Salud y la Norma Oficial Mexicana para la prevención, tratamiento y control de las adicciones deberán de cumplir con los siguientes requisitos:
+
+I. Contar con autorización de funcionamiento de la Secretaría;
+
+II. Coadyuvar con el personal de la Secretaría para verificar el cumplimiento de las disposiciones relativas contenidas en la presente Ley;
+
+III. Contar con un Coordinador y un Secretario Técnico acreditados ante la Secretaría;
+
+IV. Emitir los lineamientos y disposiciones del proceso de tratamiento y rehabilitación, mismos que serán registrados ante la Secretaría y ponerlos a disposición de los pacientes, sus familiares o representantes legales;
+
+V. Garantizar el respeto de la dignidad y de los derechos humanos fundamentales de los pacientes quedando prohibida cualquier forma de maltrato, mutilación, presión, abuso, engaño o robo que lesione la integridad física y patrimonial de los adictos.
+
+VI. Realizar las acciones necesarias para que la Secretaría practique visitas o inspecciones con el fin de verificar el cumplimiento de las disposiciones relativas contenidas en esta Ley o en los reglamentos respectivos;
+
+VII. Sujetarse, en su caso, a las visitas e inspecciones que la Secretaría realice para revisar el uso de los recursos públicos, subsidios o subvenciones que puedan ser entregados al Centro de Rehabilitación de Adicciones.
+
+Con respecto al ingreso de personas para otorgarles tratamiento o rehabilitación, el Secretario Técnico deberá:
+
+I. Efectuar una entrevista al solicitante a fin de determinar el grado de afección física y su personalidad;
+
+II. Efectuar una entrevista con los miembros de la familia para determinar las limitaciones del entorno que afecten al paciente y a la familia misma;
+
+III. Emitir un informe en el que se señalará la orientación terapéutica a seguir, el tratamiento necesario de acuerdo a las posibilidades de rehabilitación, así como seguimiento y revisión del mismo.
+
+IV. Para efectos de lograr la rehabilitación y reintegración del paciente, el tratamiento se basará en un enfoque multidisciplinario que consiste en una evaluación inicial que incluya exámenes de laboratorio y gabinete, terapias personales y grupales, terapias intrafamiliares; control del síndrome de abstinencia y del período de postramiento, ayuda para mantenerse sin droga o alcohol, atención de enfermedades físicas y mentales y cualquier otro tratamiento señalado por la Secretaría;
+
+V. La internación en los Centros de Rehabilitación de Adicciones deberá ser voluntaria sin mediar el miedo, dolo o engaño. El coordinador garantizará que el paciente manifieste su voluntad libre para llevar a cabo los procesos de rehabilitación.
+
+Los Centros de Rehabilitación de Adicciones de los sectores privado o social que vienen operando en el Estado, en tanto no cuenten con el personal profesional para la asistencia médica, el tratamiento psicológico y social, podrán seguir funcionando, pero deberán promover la participación de profesionistas mediante la prestación del servicio social o prácticas profesionales, previa celebración del convenio respectivo con las instituciones de educación superior.
+
+Los programas de tratamiento para la rehabilitación de los adictos, no deben contemplar acciones que atenten contra la dignidad y salud.
 
 ###### Artículo 208.
 
@@ -1995,7 +2055,11 @@ Título Decimoséptimo
 
 Vigilancia Sanitaria
 
-### Capítulo III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### Capítulo II. Sanciones Administrativas
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 213.
 
@@ -2097,11 +2161,15 @@ En el caso de toma de muestras de productos perecederos deberá conservarse en c
 
 En el caso de los productos recogidos, en procedimientos de muestreo o verificación, sólo el Laboratorio Estatal de Salud Pública o aquél que habilite la Secretaría Estatal podrán determinar, por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
-Título Decimoctavo
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Medidas de Seguridad Sanitaria, Sanciones y Delitos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-### Capítulo IV. Del Procedimiento Administrativo
+Titulo Decimoctavo
+
+Medidas de Seguridad Sanitaria. De los Centros de Rehabilitación de Adicciones. Sanciones y Delitos
+
+### Capítulo III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### Artículo 226.
 
@@ -2203,13 +2271,21 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de la Secretaría Estatal, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### Capítulo V. Prescripción
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### Capítulo VI. Delitos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+### Capítulo IV. Del Procedimiento Administrativo
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+### Capítulo V. Prescripción
 
 ###### Artículo 239.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones que emanen de ella, serán sancionadas administrativamente por la COPRISCAM, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones que emanen de ella, serán sancionadas administrativamente por la COPRISCAM y el Consejo Estatal contra las Adicciones en el ámbito de sus respectivas competencias, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
 ###### Artículo 240.
 
@@ -2243,13 +2319,21 @@ VI. El carácter intencional o no de la acción u omisión constitutiva de la in
 
 Se sancionará con multa equivalente de cien hasta mil veces el salario mínimo general diario vigente en el Estado, en el momento de la infracción, la violación de las disposiciones contenidas en los artículos 50, 51, 96, 111, 113, 129, 131, 145, 210, 211 y 212 de esta Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 243.
 
-Se sancionará con multa equivalente de mil hasta cuatro mil veces el salario mínimo general diario vigente en el Estado, en el momento de la infracción, la violación a las disposiciones contenidas en los artículos 139, 220 y 234 de esta Ley.
+Se sancionará con multa equivalente de mil hasta cuatro mil veces el salario mínimo general diario vigente en el Estado, en el momento de la infracción, la violación a las disposiciones contenidas en los artículos 139, 220, 234 y 238 ter, primer párrafo, fracciones IV, VI y VII de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 244.
 
-Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en el Estado, en el momento de la infracción, la violación a las disposiciones contenidas en el artículo 109 de esta Ley.
+Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en el Estado, en el momento de la infracción, la violación a las disposiciones contenidas en los artículos 109 y 238 ter, primer párrafo, fracción V y segundo párrafo, fracción V de esta Ley.
 
 ###### Artículo 245.
 
@@ -2259,9 +2343,13 @@ Las infracciones no previstas en este Capítulo serán sancionadas con multa equ
 
 En caso de reincidencia se duplicará el monto de la multa que corresponda. Para los efectos de este Capítulo se entiende por reincidencia que el infractor cometa la misma violación, a las disposiciones de esta Ley o sus reglamentos, dos o más veces dentro del período de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 247.
 
-La aplicación de las multas será sin perjuicio de que se dicten las medidas de seguridad sanitaria que procedan hasta en tanto se subsanen las irregularidades. El cobro de las multas estará a cargo de la Secretaría de Finanzas y Administración, conforme al procedimiento previsto en el Código Fiscal del Estado de Campeche. Los recursos que se recauden con motivo de las multas impuestas por la COPRISCAM quedarán a disposición de la Secretaría Estatal para su aplicación o inversión.
+La aplicación de las multas será sin perjuicio de que se dicten las medidas de seguridad sanitaria que procedan hasta en tanto se subsanen las irregularidades. El cobro de las multas estará a cargo de la Secretaría de Finanzas, conforme al procedimiento previsto en el Código Fiscal del Estado de Campeche. Los recursos que se recauden con motivo de las multas impuestas por la COPRISCAM y por el Consejo Estatal contra las Adicciones quedarán a disposición de la Secretaría Estatal para su aplicación o inversión.
 
 ###### Artículo 248.
 
@@ -2273,13 +2361,31 @@ II. Cuando después de la reapertura de un establecimiento, local, fábrica, maq
 
 III. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, maquiladora, construcción o edificio de que se trate, sea necesario proteger la salud de la población;
 
-IV. Cuando en el establecimiento se vendan o suministren estupefacientes y/o sustancias psicotrópicas sin cumplir con los requisitos que señalen la Ley General y sus reglamentos; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-V. Por reincidencia en tercera ocasión.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Cuando en el establecimiento se vendan o suministren estupefacientes y/o sustancias psicotrópicas sin cumplir con los requisitos que señalen la Ley General y sus reglamentos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+V. Cuando en los Centros de Rehabilitación de Adicciones se prueben violaciones y daños contra la dignidad, derechos fundamentales o patrimonio de los pacientes; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+VI. Por reincidencia en tercera ocasión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 249.
 
-En los casos de clausura definitiva quedarán sin efecto las autorizaciones que, en su caso, se hubieren otorgado al establecimiento, local, fábrica, maquiladora o edificio de que se trate.
+En los casos de clausura definitiva quedarán sin efecto las autorizaciones que, en su caso, se hubieren otorgado al establecimiento, local, fábrica, maquiladora, centro de rehabilitación de adicciones o edificio de que se trate.
 
 ###### Artículo 250.
 
@@ -2290,6 +2396,8 @@ I. A la persona que interfiera o se oponga al ejercicio de las funciones de la S
 II. A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la Secretaría Estatal, provocando con ello un peligro a la salud de las personas.
 
 Solo procederá esta sanción, si previamente se dictó cualquiera otra de las sanciones a que se refiere este Capítulo. Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
+
+### Capítulo VI. Delitos
 
 ###### Artículo 251.
 
@@ -2339,9 +2447,13 @@ La Secretaría Estatal, con base en el resultado de la visita de verificación, 
 
 La Secretaría Estatal hará uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 255.
 
-Derivado de las irregularidades sanitarias que reporte el acta de verificación, la COPRISCAM citará al interesado personalmente o por correo registrado con acuse de recibo, para que dentro de un plazo no menor de cinco ni mayor de treinta días comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes en relación con los hechos asentados en el acta.
+Derivado de las irregularidades sanitarias que reporte el acta de verificación, la COPRISCAM y el Consejo Estatal contra las Adicciones, en su caso, citará al interesado personalmente o por correo registrado con acuse de recibo, para que dentro de un plazo no menor de cinco ni mayor de treinta días comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes en relación con los hechos asentados en el acta.
 
 ###### Artículo 256.
 
@@ -2365,7 +2477,7 @@ Cuando del contenido de un acta de verificación se desprenda la posible comisi�
 
 ###### Artículo 261.
 
-El procedimiento administrativo ante la Secretaría Estatal y sus órganos desconcentrados se substanciará y resolverá con arreglo a los términos y condiciones que señala la Ley de Procedimiento Administrativo del Estado de Campeche. A falta de disposición expresa y en cuanto no se oponga a lo que prescribe esta Ley, se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado.
+El procedimiento administrativo ante la Secretaría Estatal y sus órganos desconcentrados se substanciará y resolverá con arreglo a los términos y condiciones que señala la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche. A falta de disposición expresa y en cuanto no se oponga a lo que prescribe esta Ley, se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado.
 
 ###### Artículo 262.
 
@@ -2421,7 +2533,7 @@ Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campech
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. EN D. RICARDO MEDINA FARFÁN.- RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 14 DE SEPTIEMBRE DE 2009.
 
@@ -2454,3 +2566,13 @@ P.O. 4 DE AGOSTO DE 2011.
 PRIMERO.- Este decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Secretaría de Salud del Estado realizará los ajustes programáticos necesarios para la implementación de las acciones que se deriven del presente decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto por este decreto.
