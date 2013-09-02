@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2013-06-28"
+last_updated: "2013-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE SEPTIEMBRE DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -151,7 +151,7 @@ El ingreso y promoción a las categorías de Juez de Distrito y Magistrado de Ci
 
 La Comisión, con el auxilio del Instituto y de los órganos que el Pleno determine, llevará a cabo los concursos de oposición a que se refiere el artículo 112 de la Ley, conforme a las bases que para tal efecto se emitan, en las que se señalen los elementos del perfil que deba reunir cada uno de los cargos concursados.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 12 Bis.
 
@@ -289,7 +289,7 @@ Los dictámenes que emita el Pleno respecto de adscripción o readscripción, co
 
 Los dictámenes que sobre adscripción o readscripción apruebe el Pleno, deberán notificarse a todos los interesados, para los efectos del Título Séptimo, Capítulo III, de la Ley.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 24 Bis.
 
@@ -487,9 +487,9 @@ Los cursos enumerados en cada uno de los incisos anteriores, aunque se hayan rec
 
 El Curso de Especialización Judicial que se impartía anteriormente, se equipara a la Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito para efectos de ser valorado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ORDENAMIENTO QUE MODIFICA EL ACUERDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL ORDENAMIENTO QUE MODIFICA EL ACUERDO.</small>
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 23 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 23 DE NOVIEMBRE DE 2009)</small>
 
 II. La antigüedad será valorada por el desempeño en cada una de las categorías de la carrera judicial, en los siguientes términos:
 
@@ -709,7 +709,7 @@ Los exámenes de aptitud serán aplicados por el Instituto, de conformidad con l
 
 Los exámenes de aptitud para secretario se practicarán, previa convocatoria, a las personas que propongan los titulares o que demuestren haber acreditado el Curso para Actuario y que reúnan los requisitos previstos en los artículos 51 y 52 de este Acuerdo.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
 
 La documentación que se genere al respecto, quedará en resguardo del Instituto.
 
@@ -729,7 +729,7 @@ En el caso de que una persona reprobara el examen tres veces, no podrá presenta
 
 El acreditamiento de la Especialidad y del Curso para Secretarios, recibidos en la modalidad presencial, se homologan a la aprobación del examen de aptitud para secretario.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
 
 La documentación que se genere al respecto, quedará en resguardo del Instituto.
 
@@ -897,7 +897,7 @@ Los nombramientos para ocupar una plaza vacante de base de secretario o actuario
 
 ###### Artículo 84.
 
-(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 20 DE JULIO DE 2010)
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 20 DE JULIO DE 2010)
 
 ###### Artículo 85.
 
@@ -909,7 +909,7 @@ Los titulares de los órganos jurisdiccionales pueden otorgar, en cualquier mome
 
 ###### Artículo 87.
 
-(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 20 DE JULIO DE 2010)
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 20 DE JULIO DE 2010)
 
 ###### Artículo 88.
 
@@ -969,9 +969,15 @@ La designación del secretario que deba suplir a un Magistrado de Tribunal Coleg
 
 Los períodos vacacionales a que se refiere el artículo 160 de la Ley deberán disfrutarse por los magistrados de tribunales colegiados de circuito, durante la segunda quincena de los meses de julio y diciembre de cada año.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 100.
 
-Los magistrados de tribunales unitarios de circuito y los jueces de distrito podrán gozar de los períodos vacacionales a que se refiere el artículo 160 de la Ley, en el primer período vacacional de quince días, a partir del primer día hábil del mes de julio al último día hábil de la primera quincena del mes de agosto y, el segundo, a partir del primer día hábil del mes de diciembre al último día hábil de la primera quincena del mes de enero del año siguiente. La Comisión, previo análisis de las solicitudes presentadas, podrá autorizar el disfrute de las vacaciones fuera de los períodos señalados, siempre y cuando existan causas excepcionales y justificadas para ello.
+Los magistrados de tribunales unitarios de circuito y los jueces de distrito podrán gozar de los períodos vacacionales a que se refiere el artículo 160 de la Ley, en el primer período vacacional de quince días, del uno al quince o del dieciséis al treinta de los meses de julio y agosto; y, el segundo del uno al quince o del dieciséis al treinta de diciembre, así como del uno al quince o del dieciséis al treinta de enero del año siguiente.
+
+Se exceptúa de lo anterior a los titulares de los órganos jurisdiccionales que conforme al sistema de turno de guardias que regula el Consejo, no les sea posible tomarlas conforme a los lapsos de quince días precisados.
+
+La Comisión, previo análisis de las solicitudes presentadas, podrá autorizar el disfrute de las vacaciones fuera de los meses de julio y agosto y, diciembre y enero, siempre y cuando existan causas excepcionales y justificadas para ello.
 
 ###### Artículo 101.
 
@@ -1071,7 +1077,7 @@ Las licencias de los demás servidores públicos de los tribunales colegiados de
 
 A la solicitud de licencia deberá acompañarse el visto bueno del magistrado al que esté adscrito el servidor público de que se trate o, en caso de negativa, una exposición por escrito, debidamente fundada y motivada, a efecto de que la instancia facultada para conceder la licencia considere los argumentos de las partes para resolver sobre la procedencia de la solicitud.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 115.
 
@@ -1583,7 +1589,7 @@ CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deb
 
 > <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL VOTO PARTICULAR DEL CONSEJERO MAGISTRADO JUAN CARLOS CRUZ RAZO.</small>
 
-VOTO PARTICULAR QUE FORMULA EL CONSEJERO MAGISTRADO JUAN CARLOS CRUZ RAZO, EN RELACION CON EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DEROGA EL ULTIMO PARRAFO DEL ARTICULO 71 Y LOS DIVERSOS NUMERALES 84 Y 87, Y ADICIONA UN SEGUNDO Y TERCER PARRAFOS AL PRECEPTO 72, DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES.
+VOTO PARTICULAR QUE FORMULA EL CONSEJERO MAGISTRADO JUAN CARLOS CRUZ RAZO, EN RELACIÓN CON EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 71 Y LOS DIVERSOS NUMERALES 84 Y 87, Y ADICIONA UN SEGUNDO Y TERCER PÁRRAFOS AL PRECEPTO 72, DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES.
 
 El Pleno del Consejo de la Judicatura Federal, en sesión celebrada el veintitrés de junio de dos mil diez, aprobó, por mayoría de seis votos de los señores Consejeros, con el voto en contra del suscrito, el Acuerdo General mediante el cual, por una parte, se derogaron el párrafo último del numeral 71 y los artículos 84 y 87 del Acuerdo General que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, y por otra, se adicionaron dos párrafos al artículo 72 de este mismo acuerdo.
 
@@ -1832,3 +1838,11 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en las páginas de Internet e Intranet del Consejo de la Judicatura Federal.
 
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar el texto de estas reformas, a los Acuerdos Generales correspondientes.
+
+D.O.F. 2 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales.
