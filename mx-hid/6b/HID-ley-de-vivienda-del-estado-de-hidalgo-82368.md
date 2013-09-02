@@ -4,7 +4,7 @@ identifier: "HID-ley-de-vivienda-del-estado-de-hidalgo-82368"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-18"
-last_updated: "2012-10-22"
+last_updated: "2013-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VIVIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Alcance al Periódico Oficial del estado de Hidalgo, el lunes 18 de julio de 2011.
 
@@ -77,9 +77,11 @@ XI. Obtener y administrar toda la información relacionada con suelo habitaciona
 
 XII. Destinar recursos económicos a la investigación tecnológica, a la innovación y a la promoción de sistemas constructivos socialmente apropiados, con el concurso de las instancias u órganos competentes.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 2.
 
-Todos los hidalguenses tienen derecho a una vivienda digna y decorosa, que sea la base de su patrimonio familiar, así como el lugar seguro en el que disfruten de su intimidad y que cuente con las condiciones y servicios necesarios para lograr esta garantía constitucional.
+Todos los hidalguenses tienen derecho a una vivienda digna y decorosa, entendida esta como aquella que cumple con las disposiciones jurídicas aplicables en materia de asentamientos humanos, construcción, habitabilidad, salubridad, cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión y contemple criterios de calidad en sus materiales y en su construcción para la prevención de desastres naturales y la protección física y seguridad de sus ocupantes, que sea la base de su patrimonio familiar, así como el lugar seguro en el que disfruten de su intimidad y que cuente con las condiciones y servicios necesarios para lograr este derecho humano fundamental.
 
 ###### Artículo 3.
 
@@ -992,3 +994,7 @@ P.O. 22 DE OCTUBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial.
