@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2013-04-01"
+last_updated: "2013-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -463,7 +463,9 @@ Las competencias de las comisiones ordinarias conciernen en lo general a sus res
 
 Son comisiones ordinarias:
 
-I. La Comisión de Puntos Constitucionales;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+I. La Comisión de Puntos Constitucionales y Control Interno de Convencionalidad.
 
 II. La Comisión de Gobernación y Protección Civil;
 
@@ -499,7 +501,9 @@ XVII. La Comisión de Pesca;
 
 XVIII. La Comisión de Fortalecimiento Municipal;
 
-XIX. La Comisión de Equidad de Género;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+XIX. La Comisión de Igualdad de Género.
 
 XX. La Comisión de Atención a Grupos Vulnerables;
 
@@ -935,9 +939,13 @@ Toda propuesta, iniciativa o proyecto de ley, decreto o acuerdo, que se someta a
 
 Recibida una propuesta, iniciativa o proyecto se le dará el trámite siguiente:
 
-I. Conforme al orden que la presidencia de la Mesa Directiva determine, será dada a conocer en sesión a la asamblea mediante la lectura íntegra de su texto. Podrá omitirse la lectura, cuando a cada uno de los miembros de la asamblea legislativa presentes en la sesión se le entregue copia de ella. En este caso sólo se dará lectura a su exposición de motivos;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-II. Leída la propuesta, iniciativa o proyecto o, en su caso, únicamente su exposición de motivos, el presidente de la Mesa Directiva dispondrá que se turne a la o las comisiones de ordinarias que correspondan, en atención a su materia;
+I. Conforme al orden que la presidencia de la Mesa Directiva determine, en un plazo no mayor de 30 días posteriores a su recepción, será dada a conocer en sesión a la asamblea mediante la lectura integra de su texto. Podrá omitirse la lectura, cuando a cada uno de los miembros de la asamblea legislativa presentes en la sesión se le entregue copia de ella. En este caso sólo se dará lectura a su exposición de motivos;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+II. Leída la propuesta, iniciativa o proyecto o, en su caso, únicamente su exposición de motivos, el presidente de la Mesa Directiva dispondrá que se turne a la o las comisiones ordinarias que correspondan, en atención a su materia, en un plazo no mayor a 30 días posteriores a su lectura;
 
 III. Las comisiones ordinarias, dentro del plazo que esta misma ley señala, analizarán la iniciativa y emitirán dictamen recomendando a la asamblea la aprobación, en su integridad o con modificaciones, o el rechazo de la iniciativa de ley, decreto o acuerdo. En caso de aprobación, el dictamen contendrá la minuta proyecto de ley, decreto o acuerdo que proponga la comisión o comisiones;
 
@@ -1870,3 +1878,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas disposiciones legales y reglamentarias que se opongan al presente decreto.
 
 TERCERO.- La propuesta para la integración de esta comisión deberá ser presentada ante el pleno en los términos y condiciones que establece la Ley Orgánica del Poder Legislativo del Estado de Campeche.
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los asuntos turnados a las Comisiones de Puntos Constitucionales y de Equidad y Género, se tendrán por turnados a las Comisiones de Puntos Constitucionales y Control Interno de Convencionalidad y de Igualdad de Género, respectivamente.
+
+TERCERO.- Las referencias hechas en otras disposiciones legales a la Comisión de Puntos Constitucionales, se tendrán como hechas a la Comisión de Puntos Constitucionales y Control Interno de Convencionalidad del Congreso del Estado.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
