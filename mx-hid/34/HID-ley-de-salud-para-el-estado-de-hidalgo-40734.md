@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2012-11-26"
+last_updated: "2013-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -293,7 +293,7 @@ IX.- Promover el establecimiento de un sistema de información básico en materi
 
 X.- Promover, coordinar y realizar la evaluación de programas y servicios de salud relacionados con la prevención del alcoholismo, el tabaquismo y la fármacodependencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -416,6 +416,46 @@ Todo cambio de propietario de un establecimiento, de razón o denominación, de 
 ###### Artículo 16.
 
 Los establecimientos relacionados con las actividades, productos o servicios regulados por esta Ley en materia de Salubridad Local, entre otros requisitos que en particular señale la presente Ley, deberán contar con: área física suficiente para la prestación del servicio de que se trate, Iluminación y ventilación adecuadas, instalación eléctrica debidamente protegida y en buen estado, instalaciones hidráulicas y drenaje en buen estado, rejillas, coladeras, paredes, puertas, ventanas y pintura en buen estado de conservación e instalaciones sanitarias funcionales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+MEDICINA TRADICIONAL Y LA PROTECCION A LA SALUD DE LOS PUEBLOS Y COMUNIDADES INDIGENAS
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 16 Bis.
+
+Se reconoce a la medicina tradicional indígena, como el conjunto de concepciones, saberes, métodos de prevención, prácticas curativas y medicamentos tradicionales manejados por los médicos o curadores de las diversas comunidades indígenas, y que han sido aprendidos generacionalmente mediante transmisión oral.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 16 Ter.
+
+La Secretaría de Salud y los Ayuntamiento, en el ámbito de su competencia, garantizarán y apoyarán el desarrollo del libre ejercicio de la medicina tradicional de los pueblos y comunidades indígenas, que comprende el uso de plantas para fines rituales y curativos, a fin de que se conserven y desarrollen como parte de su cultura y patrimonio.
+
+La Secretaría de Salud del Estado, establecerá un programa de conocimiento, investigación y registro de plantas medicinales que se utilicen en la medicina tradicional, a fin de contar con elementos que permitan evaluar su viabilidad o inocuidad y en su caso, proscribir el uso de aquéllas que se compruebe de manera científica, que deterioran la salud de los usuarios.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 16 Quater.
+
+La Secretaría de Salud del Estado, implementará mecanismos para que pueda aprovecharse la medicina tradicional, apoyando las propuestas que en esta materia promuevan las comunidades indígenas, a través de sus representantes y autoridades propias.
+
+En los hospitales generales y regionales del Estado, que traten población indígena, cuando así lo permita la disponibilidad presupuestaría, podrá haber dentro del área de trabajo social, cuando menos un traductor de las lenguas náhuatl, Hñahñu, Otomí, Tepehua, Tenek y Pame, conforme a la población indígena que se atienda, a fin de que los indígenas, que no hablen suficientemente el español, puedan recibir la atención que requieren de manera óptima.
+
+La Secretaría de Salud dispondrá las medidas necesarias para que el personal que preste sus servicios en los pueblos y comunidades de indígenas, cuente con los conocimientos básicos sobre la cultura, costumbres y lenguas propias de estas comunidades.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Artículo 16 Quintus.- El Estado, promoverá acciones conjuntas con las comunidades indígenas, para el desarrollo de los conocimientos tradicionales de medicina y herbolaria, asimismo, fortalecerá los procesos organizativos para preservar y difundir las prácticas de la medicina tradicional indígena y propiciar una interrelación entre ésta y la medicina alópata.
+
+Las autoridades comunitarias e indígenas, cuando así se establezca, podrán participar como coadyuvantes en las campañas de salud, vacunación y aquéllas referidas a la atención preventiva de la salud y en su caso, en las acciones normativas frente a la aparición de epidemias o pandemias.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Artículo 16 Sextus.- Las autoridades de salud, promoverán el reconocimiento y autorización de los médicos tradicionales indígenas de las comunidades, generando para ello, programas de registro y acreditación de médicos tradicionales, curanderos y parteras, así como de sus asociaciones y organismos, con la finalidad de generar las condiciones y proporcionarles los elementos necesarios para el desempeño de sus funciones, de igual forma promoverá el desarrollo y actualización de sus conocimientos y su capacitación en el manejo de otras técnicas, conocimientos e instrumentos auxiliares de la medicina.
+
+El sector salud, promoverá asimismo, cursos, talleres y diplomados con valor curricular, dirigidos al personal médico que radica y labora en zonas con población indígena relativos a antropología médica y medicina tradicional.
 
 ### CAPITULO V. PANTEONES, CREMATORIOS Y FUNERARIAS
 
@@ -961,7 +1001,7 @@ Los vehículos que se destinen al transporte de alimentos deberán contar con lo
 
 La prestación de este servicio público se ajustará a las medidas de seguridad e higiene que señalen las disposiciones aplicables, y la vigilancia sanitaria estará a cargo de la Autoridad Sanitaria Estatal.
 
-###### Articulo 123.
+###### Artículo 123.
 
 El transporte dedicado al traslado local de la carne y de productos perecederos, deberá cumplir, además de los requisitos técnicos correspondientes que señale la Autoridad Sanitaria, los siguientes:
 
@@ -1690,3 +1730,9 @@ Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Es
 P.O. 26 DE NOVIEMBRE DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
