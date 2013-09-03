@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-5771
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-13"
-last_updated: "2009-02-17"
+last_updated: "2013-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE DOLORES HIDALGO, CUNA DE LA INDEPENDENCIA NACIONAL, GUANAJUATO
 
-REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE DOLORES HIDALGO, CUNA DE LA INDEPENDENCIA NACIONAL, GUANAJUATO
+REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE DOLORES HIDALGO, CUNA DE LA INDEPENDENCIA NACIONAL, GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PÚBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 13 de noviembre de 2007.
 
@@ -39,21 +39,31 @@ REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PUBLICA PARA EL MUNICIPIO DE
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 1.
 
-El presente reglamento tiene por objeto regular la estructura y el funcionamiento de la Unidad de Acceso a la Información Pública del Municipio de Dolores Hidalgo, Cuna de la Independencia Nacional, Guanajuato; así como garantizar el acceso a toda persona a la información pública que se generen en el seno del Ayuntamiento, de sus Dependencias, Entidades o cualquier otro organismo municipal.
+El presente reglamento tiene por objeto regular la estructura y el funcionamiento de la unidad de Acceso a la Información Pública del Municipio de Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato, así como resguardar el derecho de toda persona al acceso a la información pública que generen los sujetos obligados por la ley y el presente reglamento siendo los siguientes:
 
-En la interpretación de este reglamento se deberá favorecer el principio de máxima publicidad.
+I.- Ayuntamiento
+
+II.- El Presidente Municipal y demás dependencias administrativas
+
+III.- Los organismos públicos descentralizados, las empresas de participación municipal, los fideicomisos públicos, y;
+
+IV.- Cualquier otra entidad, órgano u organización que reciba recursos públicos del Municipio debiendo entregar únicamente la información que derive de la actividad subsidiada.
 
 ###### ARTICULO 2.
 
 Para los efectos de este Reglamento se entenderá por:
 
-l.- LEY.- La Ley de Acceso a la Información Pública, para el Estado y los Municipios de Guanajuato.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
 
-II.- REGLAMENTO.- A este Reglamento de la Unidad de Acceso a la Información Pública para el Municipio de Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato.
+I.- LEY.- Ley de Transparencia y acceso a la información pública para el Estado y los Municipios de Guanajuato.
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
+
+II.- REGLAMENTO.- Reglamento de la Unidad de Acceso a la Información Pública para el Municipio de Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato.
 
 III.- INSTITUTO.- El Instituto de Acceso a la Información Pública del Estado de Guanajuato.
 
@@ -71,7 +81,9 @@ VI.- MÁXIMA PUBLICIDAD.- Principio que orienta la forma de interpretar y aplica
 
 La Unidad de Acceso será el vínculo entre las diversas dependencias del Ayuntamiento y el solicitante de la información.
 
-Además, es la unidad obligada a recabar y dar respuesta al solicitante en términos de la Ley y el presente Reglamento, de la información solicitada.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
+
+Asimismo está obligada a recabar y difundir la información pública, recibir y despachar las solicitudes de acceso en los términos de la ley y este reglamento, debiendo entregar o negar la información debidamente fundada y motivada la contestación de solicitud.
 
 ###### ARTICULO 4.
 
@@ -93,35 +105,39 @@ I.- Dos auxiliares para la programación de banco de datos y captura de la infor
 
 II.- La estructura que requiera el servicio y permita el presupuesto.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 7.
 
-El titular de la Unidad, deberá de reunir los siguientes requisitos:
+El titular de la Unidad de Acceso, deberá de reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano;
+I. Ser ciudadano mexicano en pleno uso de sus derechos civiles y políticos;
 
-II. Preferentemente Licenciado en Derecho;
+II. Preferentemente ser Licenciado en Derecho o su equivalente académico, con por lo menos 1 año de ejercicio profesional, o bien contar con experiencia en la rama de la administración pública por lo menos de 3 años;
 
-III. Con residencia en el Municipio;
+III. Con residencia en el Municipio por lo menos 3 años anteriores a la postulación;
 
-IV. En pleno ejercicio de sus derechos civiles y políticos;
+IV. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2013)
 
-V. No haber sido condenado por delito doloso;
+V. No haber sido condenado por delito doloso, intencional, o aquellos que lastimen seriamente la fama pública;
 
-VI. Tener cuando menos veinticinco años cumplidos el día de su designación;
+VI. Tener cuando menos 25 veinticinco años cumplidos al día de su designación;
 
-VII. Contar con la capacidad y aptitud para el desempeño de la función;
+VII. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2013)
 
-VIII. Gozar de reconocido prestigio personal y profesional; y
+VIII. Gozar de reconocido prestigio personal y/o profesional;
 
-IX. Tener al menos un año de experiencia profesional.
+IX. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 8.
 
 El titular de la Unidad de Acceso, durará en su cargo el tiempo que dure el periodo de la Administración Pública Municipal en funciones.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 9.
 
-El titular de la Unidad de Acceso podrá ser removido en los términos del artículo 110 B de la Ley Orgánica Municipal para el Estado de Guanajuato.
+El titular de la Unidad de Acceso, podrá ser removido antes de concluir la administración que lo designo, cuando incurra en las causales de destitución establecidas en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, debiendo proceder además en base a lo que dispone el artículo 126 de la Ley Orgánica Municipal para el Estado de Guanajuato.
 
 ###### ARTICULO 10.
 
@@ -131,13 +147,15 @@ La Unidad de Acceso contará con la estructura administrativa, espacio físico y
 
 DE LAS OBLIGACIONES DE LA UNIDAD DE ACCESO.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 11.
 
-La Unidad de Acceso, tendrá las obligaciones:
+La Unidad de Acceso a la Información Pública, tendrá las siguientes obligaciones:
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
 
-I.- Difundir y actualizar en el botón transparencia de la pagina web del Municipio, la información pública señalada en el artículo 10 de la Ley; incluyendo: las sesiones del Ayuntamiento que no sean de materia secretas de conformidad con el artículo 59 de la Ley Orgánica Municipal para el Estado de Guanajuato; así como los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general que apruebe el Ayuntamiento;
+I.- Recabar y Difundir la información pública;
 
 II.- Recibir y despachar las solicitudes de acceso a la información publica;
 
@@ -181,13 +199,17 @@ Para facilitar lo anterior, la información que genere cada dependencia y sea cl
 
 Para los mismos efectos, cuando la información clasificada como reservada deje de serlo, se pondrá a disposición del público a partir del momento en que venza el plazo de su clasificación o cese la causa que originó la misma.
 
-XIII.- Vigilar que no se distribuya, difunda o comercialicen los datos personales contenidos en los sistemas de acceso a la información pública.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
+
+XIII.- Vigilar que no se destruya, difunda o comercialice los datos personales contenidos en los sistemas de acceso a la información pública, sin autorización del titular del derecho.
 
 Si la dependencia transmite a la Unidad de Acceso información confidencial o reservada como parte de los documentos solicitados, ésta elaborará la presentación que pueda ser entregada en cumplimiento de este Reglamento.
 
 XIV.- Integrar un catálogo respecto de la información con que cuenta cada dependencia y mantenerlo actualizado; y
 
-XV.- Las demás contenidas en el artículo 37 de la Ley.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
+
+XV.- Las demás contenidas en el artículo 36 de la Ley.
 
 ###### ARTICULO 12.
 
@@ -241,7 +263,7 @@ DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PUBLICA.
 
 Cualquier persona, sin necesidad de acreditar interés alguno o justificar su utilización, podrá solicitar ante la Unidad de Acceso la información pública por correo electrónico.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 17.
 
@@ -275,21 +297,27 @@ La información publicada en el portal de Internet de cada sujeto obligado, podr
 
 Una vez recibida la solicitud respectiva en la Unidad de Acceso, ésta procederá al análisis de la misma, y en su caso:
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2009)</small>
 
 I.- Si los datos proporcionados por el solicitante no bastaren para localizar los documentos o aquellos son erróneos, la Unidad de Acceso deberá requerir al solicitante, por una vez y dentro de los diez días siguientes a la presentación de la solicitud, para que indique los elementos necesarios o corrija los datos. En caso de que no de cumplimiento al requerimiento, se desechará la solicitud.
 
-Este requerimiento interrumpirá el plazo establecido en el artículo 42 de la Ley.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
+
+Dentro del término legal de 5 cinco días hábiles establecidos en la Ley en su artículo 41, se interrumpirá cuando el solicitante no cumpla con todos los requisitos para realizar la petición, por lo que empezaran a correr a partir del día siguiente en que el solicitante satisfaga el requerimiento de aclaración.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
+
+En caso de modificación sustancial de la solicitud de acceso a la información presentada en cumplimiento al requerimiento de aclaración comenzará a corres (sic) un nuevo plazo de 5 días hábiles para dar respuesta a la petición.
 
 II.- Cuando la solicitud de información contenga los datos necesarios para darte trámite, se requerirá al titular de la dependencia que corresponda dentro de los tres días hábiles siguientes al en que se haya recibido la solicitud, la información respectiva.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 21.
 
-El titular dé la Unidad Administrativa procederá a revisar la petición de la Unidad de Acceso a efecto de determinar si cuenta con la información requerida; en su caso, deberá remitirla a la Unidad de Acceso dentro de cinco días hábiles siguientes, a fin de que se clasifique y se le dé el trámite correspondiente.
+Notificado el requerimiento al titular de la dependencia que cuente con la información requerida, deberá remitirla si la tiene en un término no mayor a 3 días hábiles, para el efecto de que el titular de la unidad de acceso, valore los documentos aportados por el requerido y clasifique dicha información en base a los lineamientos establecidos en la Ley como pública, reservada o confidencial, y le dé el trámite correspondiente.
 
-Si no existe la contestación de la Unidad Administrativa, el titular de la Unidad de Acceso ampliará el plazo hasta diez días más para dar respuesta a la solicitud, y requerirá nuevamente a la Unidad Administrativa a fin de que ésta responda a la petición en el plazo de tres días hábiles.
+Si no existe respuesta de la dependencia requerida dentro del término otorgado, el titular de la unidad de acceso, lo requerirá de nueva cuenta por un plazo improrrogable de 01 día hábil con apercibimiento que de no remitirla en el plazo establecido se le remitirá a la autoridad competente para que inste el proceso de responsabilidades administrativas contenidos en la Ley de Responsabilidades administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2009)</small>
 
@@ -297,9 +325,11 @@ Si no existe la contestación de la Unidad Administrativa, el titular de la Unid
 
 La falta de respuesta a un requerimiento de la Unidad de Acceso en el plazo previsto en este Reglamento, dará lugar a responsabilidad administrativa del servidor público que negare la información, en los términos de la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 22.
 
-Si la información solicitada no se encuentra en los archivos de la dependencia, ésta deberá notificar a la Unidad de Acceso dentro de los cinco días hábiles siguientes a aquél en que haya recibido la solicitud, a fin de que se apliquen las medidas pertinentes para localizar la información solicitada y se culmine el trámite correspondiente.
+Si la información solicitada no se encuentra en los archivos de la dependencia, está deberá notificar a la Unidad de Acceso dentro del siguiente día hábil al que recibió el requerimiento de información, a fin de que se realicen las medidas pertinentes para localizar la información solicitada y se culmine el trámite respectivo.
 
 En caso de que no se encuentre la información, el titular de la Unidad de Acceso fundará y motivará la resolución que confirme la inexistencia de la misma y la notificará al solicitante.
 
@@ -311,7 +341,9 @@ En el caso de la información solicitada por el particular ya esté disponible a
 
 En el supuesto que en la información solicitada se detecte que existen datos personales, la Unidad de Acceso comunicará al titular de los mismos en un término de tres días hábiles, a fin de que exprese si no tiene inconveniente en que se proporcione sus datos.
 
-Si el titular de los datos personales dentro del término de cinco días hábiles no dá contestación al requerimiento se entenderá que no desea que se conozca tal información.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
+
+Si el titular de los datos personales dentro del término concedido no da contestación al requerimiento se entenderá que no desea que se conozca tal información.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2009)</small>
 
@@ -323,13 +355,17 @@ Cuando la información solicitada contenga datos clasificados tanto públicos co
 
 DE LA AMPLIACIÓN DEL PLAZO PARA LA ENTREGA DE INFORMACIÓN.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 26.
 
-En su caso la dependencia dentro de los cinco días hábiles siguientes al requerimiento de información, podrá solicitar a la Unidad de Acceso la ampliación del término para la entrega de la misma exponiendo los motivos para dicha ampliación.
+Cuando no sea posible la entrega de la información peticionada dentro del plazo establecido a la autoridad requerida, deberá pedir está dentro de los 2 días siguientes a la notificación del requerimiento, a la unidad de acceso la ampliación del término para dar cumplimiento al requerimiento debidamente, exponiendo los motivos por los cuales requiere la ampliación.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 27.
 
-La Unidad de Acceso resolverá dentro de tres días hábiles siguientes a la presentación de la solicitud de ampliación del plazo. Si procede o no, informando de ello al solicitante señalando el término de ampliación el cual no excederá de lo previsto en el artículo 42 de Ley.
+La unidad de acceso, cuando sea viable la ampliación notificará a la autoridad y al peticionario de la prorroga señalando los motivos de la misma, la cual no será mayor a 3 días hábiles.
 
 ###### ARTICULO 28.
 
@@ -341,7 +377,9 @@ Podrán ser causas de ampliación de término para la entrega de información:
 
 l.- Cuando el sujeto obligado tenga la información solicitada, pero sea materialmente imposible tenerla en el lapso de término previsto por la ley.
 
-II.- Cuando exista requerimiento de aclaración a que se refiere el artículo 39 de la Ley.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Cuando exista requerimiento de aclaración de la solicitud al peticionario;
 
 III.- Por causas de fuerza mayor.
 
@@ -397,9 +435,11 @@ En caso de que se determine que no es procedente la modificación, la Unidad de 
 
 DE LOS MEDIOS DE IMPUGNACIÓN.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 37.
 
-Los actos y resoluciones dictadas en la aplicación de este Reglamento podrán ser impugnadas mediante el Recurso de Inconformidad en los términos establecidos en el título tercero de la Ley y en su caso en el título décimo de la Ley Orgánica Municipal para el Estado de Guanajuato.
+Los actos y resoluciones dictadas en el (sic) aplicación del presente reglamento por la Unidad de Acceso, mediante el recurso de queja contemplado en la Ley de Protección de Datos personales para el Estado y los Municipios de Guanajuato; el recurso de revocación contemplado en la Ley en los términos del TITULO TERCERO, y en su caso acudir directamente ante el Juzgado Administrativo Municipal o Tribunal de lo Contencioso Administrativo en los términos del Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 ### CAPITULO IX.
 
@@ -446,3 +486,13 @@ P.O. 17 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente acuerdo entrará en vigor, al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno de Estado de Guanajuato.
+
+P.O. 3 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas al presente reglamento, entraran en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de información que hayan iniciado antes de la entrada en vigor del presente decreto, se tramitaran y resolverán de conformidad con las disposiciones vigentes al momento de su inicio.
