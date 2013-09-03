@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-medio-ambiente-y-76046"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-13"
-last_updated: "2010-07-13"
+last_updated: "2013-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE Y APROVECHAMIENTO SUSTENTABLE DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE Y APROVECHAMIENTO SUSTENTABLE DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y APROVECHAMIENTO SUSTENTABLE DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y APROVECHAMIENTO SUSTENTABLE DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 3 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el martes 13 de julio de 2010.
 
@@ -91,7 +93,7 @@ I. Representar al Gobernador del Estado, cuando se requiera, en los asuntos de s
 
 II. Formular, conducir y evaluar la política estatal en materia de aprovechamiento sustentable de recursos naturales, gestión ambiental, cambio climático, protección, restauración, conservación y saneamiento de los ecosistemas, regulación del desarrollo urbano en equilibrio con el medio ambiente, incluyendo bienes y servicios ambientales así como protección de áreas naturales estatales de conformidad con la legislación aplicable y los objetivos, estrategias, lineamientos, políticas y prioridades el (sic) Plan Estatal de Desarrollo en congruencia con el Plan Nacional de Desarrollo;
 
-IIl. Coordinar y supervisar los programas del gobierno federal que en materia de medio ambiente y aprovechamiento sustentable de recursos naturales se apliquen en el Estado de Campeche, en el ámbito de su competencia;
+III. Coordinar y supervisar los programas del gobierno federal que en materia de medio ambiente y aprovechamiento sustentable de recursos naturales se apliquen en el Estado de Campeche, en el ámbito de su competencia;
 
 IV. Coordinarse con otras dependencias y entidades estatales, federales y municipales para la definición de los programas y acciones de su competencia;
 
@@ -193,7 +195,7 @@ IX. Formular denuncias o querellas ante el Ministerio Público de los hechos del
 
 X. En el caso de los juicios de amparo, podrá representar a la Secretaría, a su titular y a cualesquiera de sus unidades administrativas, cuando éstos sean designados con el carácter de autoridades responsables ordenadoras o ejecutoras del acto o actos que se reclamen, para lo cual podrá rendir en su presentación, por la vía de suplencia, los informes que se les soliciten, así como interponer los recursos que correspondan durante la tramitación de tales juicios, actuando en todas sus instancias, incluso pedir los sobreseimientos y manifestar las causales dé improcedencia que se adviertan; para ese efecto, las unidades administrativas señaladas como responsables deberán proporcionarle, dentro del término de ley, las pruebas documentales que resulten necesarias para acreditar la constitucionalidad de sus actos, así como proponer los contenidos que deban rendirse en los informes;
 
-XI. Dar trámite y dictar resolución, en su caso, a las denuncias que se interpongan conforme al el (sic) Capítulo lll del Título Sexto de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Campeche;
+XI. Dar trámite y dictar resolución, en su caso, a las denuncias que se interpongan conforme al el (sic) Capítulo III del Título Sexto de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Campeche;
 
 XII. Realizar los actos de inspección y vigilancia, ejecución de medidas de seguridad y sanciones, así como los procedimientos y recursos administrativos en materia de medio ambiente en el ámbito de competencia estatal regulados por la legislación respectiva;
 
@@ -341,7 +343,7 @@ I. Establecer lineamientos generales en materia de informática, así como integ
 
 II. Diseñar e implementar políticas, normas y programas para mantener actualizada la infraestructura de computo de las unidades administrativas de la Secretaría y evaluar su funcionamierto (sic) en congruencia con los requerimientos de las unidades;
 
-lIl. Dictaminar sobre la contratación, adquisición, instalación, operación y mantenimiento de los equipos de procesamiento electrónico de datos e imágenes, incluyendo sus programas, equipos auxiliares asignados a las unidades administrativas de la Secretaría;
+III. Dictaminar sobre la contratación, adquisición, instalación, operación y mantenimiento de los equipos de procesamiento electrónico de datos e imágenes, incluyendo sus programas, equipos auxiliares asignados a las unidades administrativas de la Secretaría;
 
 IV. Dictaminar y evaluar los servicios informáticos que proporcionan a la Secretaría, las empresas prestadoras de servicios;
 
@@ -349,7 +351,7 @@ V. Proponer los programas y presupuestos anuales destinados a proporcionar los s
 
 VI. Definir en coordinación con las unidades administrativas de la Secretaría, los servicios en materia de informática necesarios para el desarrollo de las funciones a ellas encomendadas;
 
-VlI. Desarrollar e instrumentar en colaboración con las unidades administrativas usuarias, los controles sobre la información derivada de los procesos informáticos desarrollados por la Secretaría;
+VII. Desarrollar e instrumentar en colaboración con las unidades administrativas usuarias, los controles sobre la información derivada de los procesos informáticos desarrollados por la Secretaría;
 
 VIII. Diseñar y programar las bases de datos del sistema informático de la Secretaría;
 
@@ -458,3 +460,13 @@ Segundo.- Se abroga el Reglamento Interior de la Secretaría de Ecología expedi
 Dado en el Palacio de Gobierno, residencia del Poder Ejecutivo del Estado, en la Ciudad de San Francisco de Campeche, Municipio y Estado de Campeche, a los cinco días del mes de junio del año de dos mil diez.
 
 LIC. FERNANDO EUTIMIO ORTEGA BERNES, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- DRA. EVELIA RIVERA ARRIAGA, SECRETARIA DE MEDIO AMBIENTE Y APROVECHAMIENTO SUSTENTABLE.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2013.
+
+Primero.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Medio Ambiente y Aprovechamiento Sustentable publicado en el Periódico Oficial del Estado con fecha 13 de julio de 2010.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico Estatal, que se opongan al contenido del presente Decreto.
