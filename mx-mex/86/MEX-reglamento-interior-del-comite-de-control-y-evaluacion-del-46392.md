@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-comite-de-control-y-evaluacion-del-4639
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-23"
-last_updated: "2009-07-16"
+last_updated: "2013-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL COMITE DE CONTROL Y EVALUACION DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL COMITE DE CONTROL Y EVALUACION DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JULIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 3 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 3 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el viernes 23 de septiembre de 2005.
 
@@ -466,7 +468,7 @@ CONTRALOR INTERNO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 16 DE JULIO DE 2009.
 
@@ -475,3 +477,13 @@ PRIMERO.- La interpretación del presente Reglamento así como lo no previsto se
 SEGUNDO.- Los integrantes del COCOE podrán proponer modificaciones por situaciones no previstas en este Reglamento, las cuales deberán ser aprobadas por los miembros del COCOE.
 
 TERCERO.- La presente modificación, entrará en vigor al día hábil siguiente de su publicación en la Gaceta del Gobierno.
+
+G.G. 3 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. Este Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. Los integrantes del COCDE podrán proporcionar modificaciones por situaciones no previstas en este Reglamento, las cuales deberán ser aprobadas por los miembros del COCDE.
+
+TERCERO. La interpretación del presente Reglamento, así como lo no previsto en éste, será resuelto por la Secretaría de la Contraloría del Gobierno del Gobierno del Estado de México.
+
+CUARTO. Queda derogado la Modificación al Reglamento Interior del Comité de Control y Evaluación del Instituto Materno Infantil del Estado de México, publicado en la Gaceta del Gobierno el 16 de julio de 2009.
