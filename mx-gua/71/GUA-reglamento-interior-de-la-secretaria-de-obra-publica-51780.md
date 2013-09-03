@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-obra-publica-51780"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-19"
-last_updated: "2008-05-06"
+last_updated: "2013-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRA PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRA PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRA PÚBLICA, PUBLICADO EN EL P.O. DE 3 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el martes 19 de septiembre de 2006.
 
@@ -1676,3 +1678,13 @@ Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuart
 Artículo Segundo. Se derogan aquellas disposiciones que se opongan a este Decreto Gubernativo.
 
 Artículo Tercero. A la entrada en vigencia del presente Decreto Gubernativo cualquier referencia que en decretos, reglamentos, convenios u otros instrumentos jurídicos se haga a la Subsecretaría de Administración Interna y Servicios Jurídicos, se entenderá hecha a la Subsecretaría de Planeación, Proyectos y de Servicios Jurídicos.
+
+P.O. 3 DE SEPTIEMBRE DE 2013.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento Interior vigente
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Obra Pública, contenido en el Decreto Gubernativo número 295, publicado en el Periódico Oficial de Gobierno del Estado, número 150 A Tercera Parte de fecha 19 de septiembre del 2006.
