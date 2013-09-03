@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-comision-de-derechos-humanos-del-6063
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-12"
-last_updated: "2008-02-12"
+last_updated: "2013-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA
 
-REGLAMENTO INTERIOR DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA
+REGLAMENTO INTERIOR DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+N. DE. E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN LA PRIMERA SECCIÓN DEL P.O. DE 3 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 12 de febrero de 2008.
 
@@ -896,3 +898,13 @@ Primero. El presente Reglamento fue aprobado unánimemente por el Consejo Consul
 Segundo. Se abroga el Reglamento Interior de la Comisión de Derechos Humanos del Estado de Coahuila, aprobado por unanimidad el 9 de febrero de 1993 por el Consejo del mismo Organismo.
 
 Saltillo, Coahuila a los 12 días del mes de noviembre del dos mil siete. El Presidente de la Comisión de Derechos Humanos y de su Consejo Consultivo, Lic. Luís Fernando García Rodríguez. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Reglamento fue aprobado unánimemente por el Consejo Consultivo de la Comisión de los Derechos Humanos del estado de Coahuila de Zaragoza, el día 16 de abril del 2013.
+
+TERCERO. Se abroga el Reglamento Interior de la Comisión de los (sic) Derechos Humanos del Estado de Coahuila de Zaragoza, aprobado por unanimidad el día 12 de noviembre del 2007 por el Consejo del mismo Organismo.
