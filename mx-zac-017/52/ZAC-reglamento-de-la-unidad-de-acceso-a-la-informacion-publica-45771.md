@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4577
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-06"
-last_updated: "2005-07-06"
+last_updated: "2013-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ZAC"
 ---
 # REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA EN EL MUNICIPIO DE GUADALUPE, ZAC
 
-REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA EN EL MUNICIPIO DE GUADALUPE, ZACATECAS
+REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA EN EL MUNICIPIO DE GUADALUPE, ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA EN EL MUNICIPIO DE GUADALUPE, ZAC, PUBLICADO EN EL P.O. DE 4 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 6 de julio de 2005.
 
@@ -608,3 +610,21 @@ Presidente Municipal
 Ing. Roberto Luevano Silva
 
 Secretario de Gobierno Municipal
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 4 DE SEPTIEMBRE DE 2013.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas. Dicha publicación deberá realizarse a más tardar en un plazo de diez (10) días hábiles posteriores a la fecha de aprobación por el Cabildo.
+
+Artículo Segundo.- Se abroga el Reglamento de la Unidad de Acceso a la Información Pública en el Municipio de Guadalupe, Zac. de fecha 6 de julio del 2005.
+
+Artículo Tercero.- El Departamento de Enlace Municipal contará con el presupuesto y estructura necesarios para el ejercicio de sus funciones.
+
+Artículo Cuarto.- Los costos por obtener información no podrán ser superiores a la suma de:
+
+I.- El costo de los materiales utilizados en la reproducción de la información; y
+
+II.- El costo de envío.
+
+Artículo Quinto.- En los casos no previstos en este Reglamento se resolverán conforme a lo establecido por la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas.
