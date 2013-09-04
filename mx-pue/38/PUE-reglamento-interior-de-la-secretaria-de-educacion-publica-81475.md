@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-educacion-publica-81475
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-13"
-last_updated: "2011-05-13"
+last_updated: "2013-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en la Duodécima Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de mayo de 2011.
 
@@ -189,13 +189,17 @@ IX. Dirección General de Desarrollo Educativo
 
 IX.1 Coordinaciones Regionales de Desarrollo Educativo
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 5.
 
-Los titulares de las unidades administrativas referidas en el artículo anterior y los servidores públicos adscritos a éstas, ejercerán sus atribuciones con sujeción a las leyes, objetivos, estrategias y prioridades previstas en el Plan Estatal de Desarrollo y de conformidad con los lineamientos, políticas y programas establecidos por el Gobernador del Estado y por el Secretario.
+Los titulares de las unidades administrativas y de los órganos desconcentrados, así como los servidores públicos adscritos a éstas, ejercerán sus atribuciones con sujeción a las leyes, objetivos, estrategias y prioridades previstas por el Plan Estatal de Desarrollo y de conformidad con los lineamientos, políticas y programas establecidos por el Gobernador del Estado y por el Secretario.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 6.
 
-Las unidades administrativas de la Secretaría estarán integradas por el personal directivo, técnico y administrativo que el servicio requiera, de conformidad con la estructura orgánica, manuales de organización y disponibilidad presupuestal, de conformidad con la normatividad aplicable.
+Las unidades administrativas y los órganos desconcentrados de la Secretaría, estarán integradas por el personal directivo, técnico y administrativo que el servicio requiera de conformidad con la estructura orgánica, manuales de organización y disponibilidad presupuestal, de conformidad con la normatividad aplicable.
 
 ## TÍTULO SEGUNDO. DE LAS ATRIBUCIONES
 
@@ -213,7 +217,9 @@ El Secretario podrá ejercer directamente cualquiera de las atribuciones de los 
 
 Son atribuciones del Secretario, las siguientes:
 
-I. Establecer, dirigir y controlar la política de la Secretaría y la del sector paraestatal coordinado por ella, de conformidad con la legislación aplicable, con los objetivos, estrategias y prioridades de los Planes Nacional y Estatal de Desarrollo y con los lineamientos que el Gobernador del Estado expresamente señale;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+l. Establecer, dirigir y controlar la política de la Secretaría, la de sus órganos desconcentrados y la del sector paraestatal coordinado por ella, de conformidad con la legislación aplicable, con los objetivos, estrategias y prioridades de los Planes Nacional y Estatal de Desarrollo y con los lineamientos que el Gobernador del Estado expresamente señale;
 
 II. Someter a consideración del Gobernador del Estado los asuntos que así lo ameriten, que sean competencia de la Secretaría, y los del sector paraestatal que le corresponda coordinar;
 
@@ -229,17 +235,25 @@ VII. Proponer al Gobernador del Estado la creación, modificación o supresión 
 
 VIII. Instaurar comisiones, unidades de coordinación, de asesoría y de apoyo técnico que requiera el funcionamiento de la Secretaría, y designar a sus integrantes;
 
-IX. Establecer para el mejor desempeño de las atribuciones de la Secretaría previa autorización de las Secretarías de Finanzas, de Administración y de la Contraloría, las unidades administrativas que se requieran, con la competencia, circunscripción, sede y personal técnico y administrativo que sea necesario;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-X. Remitir los manuales de organización, de procedimientos y de servicios al público y demás que sean necesarios para la eficiente atención de los asuntos de la Secretaría y, una vez aprobados, remitirlos a la Secretaría de la Contraloría, para su validación y registro;
+IX. Establecer para el mejor desempeño de las atribuciones de la Secretaría, las unidades administrativas que se requieran, con la competencia, circunscripción, sede y personal técnico y administrativo que sea necesario, previa autorización de las instancias competentes, de conformidad con la disponibilidad presupuestal y disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+X. Aprobar los manuales de organización, de procedimientos y de servicios al público y demás que sean necesarios para la eficiente atención de los asuntos de la Secretaría, y ordenar sean remitidos a la dependencia competente, para su autorización;
 
 XI. Acordar con los titulares de las unidades administrativas bajo su dependencia directa, los asuntos de sus respectivas competencias y supervisar el ejercicio de las atribuciones de dichos servidores públicos;
 
-XII. Autorizar el anteproyecto de presupuesto de egresos de la Secretaría y de sus órganos desconcentrados y en su caso, las modificaciones a éstos, ordenando su envío a la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XII. Autorizar el anteproyecto de presupuesto de egresos de la Secretaría y de sus órganos desconcentrados, y en su caso, las modificaciones a éstos, ordenando su envío a la dependencia competente;
 
 XIII. Aprobar los proyectos de programas sectoriales, regionales y especiales de la Secretaría, incluyendo sus órganos desconcentrados, y autorizar los programas institucionales de las entidades paraestatales del sector coordinado por la Secretaría;
 
-XIV. Emitir las órdenes, circulares, acuerdos y demás disposiciones necesarios para el funcionamiento de la Secretaría;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XIV. Emitir circulares, convocatorias, acuerdos y demás disposiciones en el ámbito de su competencia;
 
 XV. Autorizar los sistemas, estudios, medidas administrativas y técnicas para la adecuada organización y funcionamiento de la Secretaría;
 
@@ -257,7 +271,9 @@ XXI. Proponer a la autoridad educativa federal, los contenidos regionales que ha
 
 XXII. Determinar y formular planes y programas de estudio distintos a los previstos en la fracción que precede, de conformidad con los ordenamientos legales aplicables;
 
-XXIII. Establecer las políticas y acciones necesarias para ejecutar y vigilar el cumplimiento de los convenios que en materia educativa celebre el Ejecutivo del Estado con los tres órdenes de gobierno y con instituciones públicas o privadas, organismos internacionales, gobiernos extranjeros, filantrópicos y oferentes de cooperación a nivel nacional e internacional;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XXIII. Establecer las políticas y acciones necesarias para ejecutar y vigilar el cumplimiento de los convenios que en materia educativa, cultura física y deporte, así como de la juventud, celebre el Titular del Poder Ejecutivo del Estado con los tres órdenes de gobierno y con instituciones públicas o privadas, organismos internacionales, gobiernos extranjeros, filantrópicos y oferentes de cooperación a nivel nacional e internacional, y suscribir los instrumentos jurídicos para el adecuado funcionamiento de la Secretaría;
 
 XXIV. Promover y coordinar la integración de un consejo de educación que promueva la participación social en el Estado que tenga como objeto fortalecer y elevar la calidad de la educación pública y ampliar la cobertura de los servicios educativos;
 
@@ -435,9 +451,9 @@ XII. Promover la aplicación de la investigación, la innovación y las nuevas t
 
 XIII. Definir en coordinación con las áreas correspondientes de la Secretaría, las estrategias de implementación, seguimiento y evaluación de los programas federales sujetos a reglas de operación, a bases y lineamientos y de apoyo extraordinario que respondan a los objetivos de política educativa nacional y estatal;
 
-XIV. Validar la oferta de formación continua y superación profesional de acuerdo a la política federal y a los requerimientos, necesidades y demandas estatales;
+XIV. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2013)
 
-XV. Supervisar la transparencia de los procedimientos para otorgar, negar, revocar y retirar la autorización o el reconocimiento de validez oficial de estudios a los particulares que impartan educación básica;
+XV. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2013)
 
 XVI. Implementar y evaluar las propuestas del uso e inclusión de las nuevas tecnologías en los diferentes tipos, niveles y modalidades educativas;
 
@@ -455,11 +471,13 @@ XXII. Ordenar la capacitación en tecnología educativa, a docentes en servicio 
 
 XXIII. Planear y organizar, en coordinación con los niveles respectivos, la distribución del equipo de educación a distancia adquirido por los gobiernos federal y estatal, asimismo brindar asesoría y dar mantenimiento al mismo;
 
-XXIV. Coordinar y organizar a los equipos de la Secretaría especializados en la educación a distancia basada en las tecnologías de la información y las comunicaciones;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-XXV. Conducir a las instancias que integran el Sistema de Actualización, Capacitación y Superación para Docentes de Educación Básica, asimismo evaluar su desempeño;
+XXIV. Coordinar y organizar los programas de educación a distancia basada en las tecnologías de la información y las comunicaciones; y
 
-XXVI. Dirigir, sistematizar y evaluar la aplicación de los programas alternativos de capacitación, actualización y superación para maestros en servicio de la educación básica; y
+XXV. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2013)
+
+XXVI. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2013)
 
 XXVII. Fomentar el intercambio de innovaciones.
 
@@ -611,9 +629,25 @@ XVIII. Otorgar o negar reconocimiento de validez oficial de estudios a particula
 
 XIX. Apoyar a los niveles respectivos, en la coordinación y distribución del equipo de educación a distancia adquirido por el Gobierno Federal o Estatal;
 
-XX. Apoyar a los equipos de la Secretaría especializados en la educación a distancia basada en las tecnologías de la información y las comunicaciones; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-XXI. Coordinar y dirigir a los centros de maestros.
+XX. Coadyuvar con las unidades administrativas de la Secretaría para la instrumentación de la educación a distancia basada en las tecnologías de la información y las comunicaciones;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XXI. Coordinar y dirigir a los centros de maestros;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XXII. Validar la oferta de formación continua y superación profesional, de acuerdo a la política federal y a los requerimientos, necesidades y demandas estatales;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XXIII. Conducir a las instancias que integran el Sistema de Actualización, Capacitación y Superación para Docentes de Educación Básica, así como evaluar su desempeño; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XXIV. Dirigir, sistematizar y evaluar la aplicación de los programas alternativos de capacitación, actualización y superación para maestros en servicio de la educación básica.
 
 ### CAPÍTULO III. DE LA OFICIALÍA MAYOR
 
@@ -765,9 +799,17 @@ XIX. Suscribir los documentos relativos al ejercicio de sus atribuciones y aqué
 
 XX. Conferir aquéllas atribuciones que sean delegables a servidores públicos subalternos, sin perjuicio de su ejercicio directo, expidiendo los acuerdos relativos que deberán ser registrados en la Dirección General de Asuntos Jurídicos y Relaciones Laborales;
 
-XXI. Mantener, cuando sea procedente, contacto permanente con las Coordinaciones Regionales de Desarrollo Educativo a efecto de asegurar la eficiencia de los servicios administrativos desconcentrados; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-XXII. Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos les atribuyan directamente, y aquéllas que les asignen sus superiores jerárquicos.
+XXI. Mantener, cuando sea procedente, contacto permanente con las Coordinaciones Regionales de Desarrollo Educativo a efecto de asegurar la eficiencia de los servicios administrativos desconcentrados;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XXII. Ejercer, previo acuerdo por escrito de su superior jerárquico, las atribuciones que este Reglamento otorgue a los titulares de las unidades administrativas a su cargo, de conformidad con las disposiciones aplicables; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XXIII. Las demás que le delegue el Secretario o su superior jerárquico y aquéllas que otros ordenamientos le confieran.
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS Y RELACIONES LABORALES
 
@@ -791,7 +833,9 @@ VII. Proponer al Secretario la normatividad general que habrá de observarse en 
 
 VIII. Representar a la Secretaría en todos los procedimientos jurisdiccionales y administrativos que sean de su competencia, instrumentar medios preparatorios de juicio, medidas precautorias, presentar demandas, contestaciones, reconvenciones, desistirse, interponer recursos, recusar, promover incidentes, rendir informes, ofrecer y desahogar pruebas, celebrar transacciones, solicitar la suspensión o diferimiento de las audiencias, alegar, pedir se dicte sentencia y seguir los juicios y procedimientos hasta ejecutar las resoluciones y en general, ejercer las mismas atribuciones que un mandatario con todas las facultades generales y particulares que requieran cláusulas especiales conforme a la ley, así como todas aquellas que sean necesarias para la substanciación de los procedimientos respectivos en defensa de los intereses de la Secretaría; debiendo informar al Secretario de estas acciones;
 
-IX. Elaborar, proponer los informes previos y justificados que en materia de amparo deban rendir el Secretario y los demás servidores públicos que sean señalados como autoridades responsables; asimismo, los escritos de demanda o contestación según proceda en las controversias constitucionales o acciones de inconstitucionalidad; promover y desistirse, en su caso, de los juicios de amparo cuando la Secretaría tenga el carácter de quejosa o intervenir como tercero perjudicado en los juicios de amparo, y en general, ejercitar todas las acciones que a dichos juicios se refieran;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+IX. Rendir en representación del Secretario los informes previos y justificados que en materia de amparo deba realizar, así como elaborar y proponer los informes previos y justificados que en materia de amparo deban rendir los servidores públicos de la Secretaría que sean señalados como autoridades responsables; asimismo, los escritos de demanda o contestación según proceda en las controversias constitucionales o acciones de inconstitucionalidad; promover y desistirse, en su caso, de los juicios de amparo cuando la Secretaría tenga el carácter de quejosa o intervenir como tercero perjudicado en los juicios de amparo, y en general, ejercitar todas las acciones que a dichos juicios se refieran;
 
 X. Presentar denuncias, querellas, constancias de hechos, desistimientos y otorgar perdón ante el Ministerio Público u otras autoridades competentes, coadyuvar con el Ministerio Público en la integración de las averiguaciones previas y en el trámite de los procesos que afecten a la Secretaría, o bien en los que ésta tenga interés jurídico, y solicitar la intervención del Procurador General de Justicia del Estado, en todos aquéllos asuntos contenciosos que le competan; en términos de las disposiciones legales aplicables;
 
@@ -811,7 +855,9 @@ XVII. Requerir por sí o por conducto del Director de Asuntos Jurídicos o del D
 
 XVIII. Cumplir y hacer cumplir las disposiciones jurídicas que rijan el funcionamiento de la Secretaría; y
 
-XIX. Emitir criterios generales y lineamientos para la aplicación de la legislación laboral en las relaciones de la Secretaría con sus trabajadores.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XIX. Emitir criterios generales y lineamientos para la aplicación de la legislación laboral en las relaciones de la Secretaría con sus trabajadores, así como circulares y demás disposiciones en el ámbito de su competencia.
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE DESARROLLO EDUCATIVO
 
@@ -1539,9 +1585,17 @@ VII. Ordenar y actualizar los archivos y controles escolares derivados de las ac
 
 VIII. Apoyar y asesorar a las áreas de la Secretaría en la recopilación, producción, sistematización y difusión de información estadística sobre el sistema educativo;
 
-IX. Recabar, analizar, validar y mantener actualizada la estadística educativa en todos sus niveles, modalidades y tipos del sistema educativo estatal; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-X. Actualizar la base de datos de toda la información que se origine en los planteles educativos bajo su responsabilidad, en coordinación con las Direcciones de Nuevas Tecnologías y de Informática.
+IX. Recabar, analizar, validar y mantener actualizada la estadística educativa en todos sus niveles, modalidades y tipos de sistema educativo estatal;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+X. Actualizar la base de datos de toda la información que se origine en los planteles educativos bajo su responsabilidad, en coordinación con las Direcciones de Nuevas Tecnologías y de Informática; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XI. Expedir los certificados de estudios de los alumnos de instituciones educativas que conforman el Sistema Educativo Estatal.
 
 #### SECCIÓN QUINTA. DE LA DIRECCIÓN DE EVALUACIÓN EDUCATIVA
 
@@ -2231,7 +2285,7 @@ V. Apoyar en el establecimiento de indicadores y metas a todas las unidades resp
 
 VI. Proponer el calendario presupuestal anual de los recursos para la Secretaría, con excepción del que concierne a la Subsecretaría de Educación Básica;
 
-VII. Planear en coordinación con la Dirección General de Formación y Desarrollo de Docentes, la matricula de las escuelas de educación normal en el Estado;
+VII. Planear en coordinación con la Dirección General de Formación y Desarrollo de Docentes, la matrícula de las escuelas de educación normal en el Estado;
 
 VIII. Dar seguimiento al ejercicio del gasto de las unidades administrativas del sector educativo, con excepción de aquéllas que corresponden a la educación básica;
 
@@ -2819,19 +2873,79 @@ XLII. Difundir en coordinación con el área competente de la Secretaría, los s
 
 XLIII. Las demás que les delegue o encomiende el Secretario o su superior jerárquico, y aquéllas que otros ordenamientos les confieran.
 
-## TÍTULO TERCERO
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-### CAPÍTULO ÚNICO. DE LAS SUPLENCIAS
+## TÍTULO TERCERO. DE LOS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 77.
 
-El Secretario será suplido, en sus ausencias no mayores a quince días, por los Subsecretarios conforme al ámbito de su competencia, o en su caso, por el funcionario público que el mismo designe, sin perjuicio de las atribuciones que corresponden al Gobernador del Estado.
+Para la atención y despacho de los asuntos de su competencia, la Secretaría podrá contar con órganos administrativos desconcentrados que le estarán jerárquicamente subordinados, los que tendrán las atribuciones específicas para resolver sobre la materia objeto de la desconcentración que se determinen en el instrumento jurídico de creación, de conformidad con las disposiciones legales aplicables.
 
-Las ausencias menores de quince días de los Subsecretarios, oficial mayor, el titular de la unidad de enlace de vinculación, fortalecimiento educativo y coordinación paraestatal, directores generales, directores y titulares de las coordinaciones regionales de desarrollo educativo serán cubiertas por el funcionario que designe el titular de cada área.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 78.
 
-Las ausencias mayores a quince días de los Subsecretarios, oficial mayor, el titular de la unidad de enlace de vinculación, fortalecimiento educativo y coordinación paraestatal, directores generales, directores y titulares de las coordinaciones regionales de desarrollo educativo, serán cubiertas por el funcionario que para tal efecto designe el Secretario.
+Los órganos administrativos desconcentrados normarán su organización y funcionamiento, de conformidad con la Ley Orgánica de la Administración Pública del Estado de Puebla, el presente Reglamento, por el instrumento jurídico de su creación y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 79.
+
+Los titulares de los organismos administrativos desconcentrados, además de las atribuciones genéricas establecidas en el artículo 17 del presente Reglamento, tendrán las siguientes:
+
+I. Implementar de conformidad con los lineamientos que establezca el Secretario, las normas, sistemas y procedimientos de carácter técnico y administrativo que deban regir a las unidades administrativas con que cuenten;
+
+II. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento del órgano administrativo desconcentrado, de conformidad con los lineamientos que establezca el Secretario;
+
+III. Acordar con el Secretario los asuntos encomendados al órgano administrativo desconcentrado a su cargo que así lo ameriten;
+
+IV. Coordinarse con la unidad administrativa competente de la Secretaría para la administración de los recursos humanos, financieros y materiales que se asignen al órgano desconcentrado a su cargo, para el desarrollo de sus actividades, de acuerdo con sus programas y objetivos, de conformidad con las disposiciones legales aplicables;
+
+V. Coordinar la ejecución del programa operativo anual del órgano administrativo desconcentrado con las unidades administrativas de la Secretaría;
+
+VI. Formular y proponer al Secretario, los programas de simplificación y modernización administrativa del órgano administrativo desconcentrado a su cargo, e instrumentarlos una vez aprobados;
+
+VII. Proponer al Secretario, los anteproyectos relativos a la organización, fusión, modificación o desaparición de las unidades administrativas a su cargo;
+
+VIII. Someter a consideración del Secretario, los manuales de organización, de procedimientos y servicios al público del órgano administrativo desconcentrado a su cargo;
+
+IX. Participar en el marco sectorial, en los mecanismos de coordinación y concertación, y en el cumplimiento de los compromisos programáticos que se establezcan con otras Dependencias y Entidades de la Administración Pública Estatal;
+
+X. Vigilar que se cumpla con las disposiciones legales y administrativas en los asuntos de su competencia; y
+
+XI. Cumplir con las normas de control y fiscalización que se establezcan.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+## TÍTULO CUARTO. DE LAS SUPLENCIAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 80.
+
+Las ausencias y licencias de los servidores públicos adscritos a la Secretaría no mayores a quince días hábiles, serán suplidas de la siguiente manera:
+
+l. El Secretario por los Subsecretarios conforme al ámbito de su competencia o por el servidor público que éste designe;
+
+II. Los Subsecretarios, Oficial Mayor, Titular de Enlace de Vinculación, Fortalecimiento Educativo y Coordinación Paraestatal, Titulares de los Órganos Desconcentrados, Directores Generales, Directores y Titulares de las Coordinaciones Regionales de Desarrollo Educativo, por el servidor público que designe el Secretario.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 81.
+
+En el caso de las ausencias del Secretario mayores a quince días hábiles, se deberá observar lo dispuesto por la Ley Orgánica de la Administración Pública del Estado.
+
+En los casos de ausencias temporales por más de quince días hábiles de los Subsecretarios, Oficial Mayor, el Titular de la Unidad de Enlace de Vinculación, Fortalecimiento Educativo y Coordinación Paraestatal, Directores Generales, Directores y Titulares de las Coordinaciones Regionales de Desarrollo Educativo, el Secretario podrá autorizar por escrito a los servidores públicos subalternos para que realicen en ausencia del titular las atribuciones que le corresponda.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -2846,3 +2960,11 @@ CUARTO.- Cuando las atribuciones de alguna unidad administrativa establecida con
 QUINTO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
 
 Dado en la Sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los once días del mes de mayo de dos mil once.- El Gobernador Constitucional del Estado Libre y Soberano de Puebla.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario de Educación Pública.- C. LUIS MALDONADO VENEGAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO.- Quedan sin efecto las disposiciones que contravengan lo dispuesto en este Decreto.
