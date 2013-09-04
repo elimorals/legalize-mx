@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ejecucion-de-sanciones-penales-medidas-de-seguridad-8237
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-09"
-last_updated: "2012-05-25"
+last_updated: "2013-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EJECUCIÓN DE SANCIONES PENALES, MEDIDAS DE SEGURIDAD Y PRISIÓN PREVENTIVA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 9 de julio de 2011.
 
@@ -85,7 +85,9 @@ X. Inimputable: persona que está en los supuestos que establece el Código Pena
 
 XI. Interno: persona sujeta a custodia en uno de los centros penitenciarios en situación jurídica de imputado o sentenciado;
 
-XII. Juez de ejecución: juez de ejecución de sanciones penales y medidas de seguridad;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XII. Juez de Ejecución: juez de ejecución de sanciones penales, medidas de seguridad y prisión preventiva.
 
 XIII. Juez de proceso: juez de primera instancia que impone una sanción penal, medida de seguridad o prisión preventiva;
 
@@ -713,6 +715,10 @@ El juez de proceso, tendrá las funciones previstas en la Ley Orgánica del Pode
 
 El juez de ejecución tendrá competencia en el territorio del Estado en relación con la ejecución de las sentencias emitidas por el juez del proceso de esta Entidad.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+El Consejo de la Judicatura mediante acuerdos, determinará el número y límite territorial del juez de ejecución y, en su caso, la asignación de la competencia a los jueces de proceso, para conocer y resolver sobre los beneficios a que tenga derecho el sentenciado conforme a la presente ley.
+
 ###### Artículo 82.
 
 Son atribuciones del juez de ejecución, las siguientes:
@@ -811,9 +817,11 @@ II. El Ministerio Público, y
 
 III. El ofendido o la víctima, por sí mismos o por conducto de su representante.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 85.
 
-Una vez que cause ejecutoria la sentencia dictada por el juez de proceso, éste deberá remitir dentro de las cuarenta y ocho horas siguientes, copia de dicha sentencia y del auto que la declara ejecutoriada, al juez de ejecución para efectos del procedimiento de ejecución.
+Una vez que cause ejecutoria la sentencia dictada por el juez de proceso, si no existiere promoción pendiente de resolver, éste deberá remitir dentro de los cinco días siguientes, copia de dicha sentencia y del auto que la declara ejecutoriada, al juez de ejecución para efectos del procedimiento de ejecución.
 
 ###### Artículo 86.
 
@@ -895,23 +903,35 @@ En el supuesto señalado en el párrafo anterior, el sentenciado deberá otorgar
 
 ### Capítulo II. Conmutación de la Sanción
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 92.
 
-El juez de ejecución, en auto que resolverá de plano al iniciar el procedimiento de ejecución, concederá el beneficio de la conmutación de la sanción de prisión, a aquél sentenciado que cumpla con los siguientes requisitos:
+De ser procedente el beneficio de la conmutación de la sanción de prisión, el juez de proceso, en el mismo auto que declare ejecutoriada la sentencia, requerirá al sentenciado para que, en su caso, comparezca dentro de los tres días siguientes de la notificación, a satisfacer los requisitos exigidos para su otorgamiento; así como, de ubicarse en tal supuesto, a demostrar que cumplió con la reparación del daño en los términos de la presente ley.
 
-I. Que no haya sido declarado habitual por sentencia ejecutoriada;
+En el mismo proveído, se ordenará que sea apercibido, que de no comparecer a manifestar y justificar su acogimiento, se procederá por el juez de ejecución, a ejecutarse la sanción impuesta, sin demérito de dejar a salvo sus derechos para hacerlos valer con posteridad.
+
+En este supuesto, al día siguiente de transcurrido el término de referencia, el juez de proceso remitirá las constancias necesarias al juez de ejecución, para que continúe el procedimiento respecto de las sanciones impuestas.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 93.
+
+Cuando hubiere transcurrido el término previsto en el primer párrafo del artículo anterior, será optativo para el sentenciado satisfacer ante el juez de proceso o de ejecución, los requisitos exigidos para el otorgamiento del beneficio de la conmutación de la sanción de prisión, pero en este caso, de hacerse ante el juez de proceso, éste solamente se limitará a informar y enviar, de inmediato, las constancias necesarias al juez de ejecución, para que esta autoridad haga las anotaciones administrativas que correspondan y resuelva conforme a derecho.
+
+El juez de ejecución, en auto que resolverá de plano la promoción que formulare el sentenciado, concederá el beneficio de la conmutación de la sanción de prisión, siempre que cumpla con los siguientes requisitos:
+
+I. Que no haya sido declarado delincuente habitual por sentencia ejecutoriada;
 
 II. Que la sanción de prisión impuesta no exceda de cinco años, y
 
 III. Que haya sido cubierta la multa impuesta, así como la reparación del daño, siempre y cuando ésta última haya sido determinada de manera líquida en la sentencia.
 
-###### Artículo 93.
-
-Una vez cumplidos los requisitos para la concesión del beneficio de la conmutación de la sanción, el juez de ejecución ordenará la inmediata y absoluta libertad del sentenciado; en el caso de que goce de su libertad provisional bajo caución concedida durante el proceso o que se encuentre en libertad por sancionarse el delito imputado con pena alternativa, se ordenará su absoluta libertad con efectos administrativos.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 94.
 
-El juez de ejecución concederá el beneficio de la conmutación, en los casos que sea procedente.
+Una vez cumplidos los requisitos para la concesión del beneficio de la conmutación de la sanción, el juez de proceso o de ejecución, según sea el caso, ordenará la inmediata y absoluta libertad del sentenciado; en el caso de que goce de su libertad provisional bajo caución concedida durante el proceso o que se encuentre en libertad por sancionarse el delito imputado con pena alternativa, se ordenará su absoluta libertad con efectos administrativos.
 
 ### Capítulo III. Suspensión de la Sanción de Prisión Impuesta en Sentencia
 
@@ -1420,3 +1440,7 @@ P.O. 25 DE MAYO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 4 DE SEPTIEMBRE DE 2013.
+
+Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
