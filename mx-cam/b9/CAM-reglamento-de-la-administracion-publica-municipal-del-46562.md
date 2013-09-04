@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-administracion-publica-municipal-del-46562"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-05"
-last_updated: "2009-09-23"
+last_updated: "2013-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "CAM"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 5 de octubre de 2005.
 
@@ -46,39 +46,55 @@ El Presidente Municipal es el titular de la Administración Pública Municipal. 
 
 El Presidente Municipal, previo acuerdo del Ayuntamiento y para el cumplimiento de los programas aprobados, podrá llevar a cabo la desconcentración administrativa que se requiera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 4.
 
-El Presidente Municipal se auxiliará en el desempeño de sus funciones de las siguientes dependencias:
+El Presidente se auxiliará en el desempeño de sus funciones de las siguientes dependencias:
 
 I. La Secretaría del H. Ayuntamiento;
 
 II. La Tesorería;
 
-III. La Oficialía Mayor;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+III. LA Dirección De Administración
 
 IV. Dirección de Gobernación;
 
 V. La Dirección de Seguridad Pública y Tránsito;
 
-VI. La Dirección de Obras Públicas;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+VI. La Dirección de Obras Públicas - Desarrollo Urbano - Medio Ambiente.
 
 VII. La Dirección de Servicios Públicos Municipales;
 
-VIII. La Dirección de Cultura y Deporte;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+VIII. Dirección de Educación y Deporte;
 
 IX. La Dirección de Comunicación Social;
 
 X. La Dirección de Contraloría;
 
-XI. La Dirección de Planeación, Desarrollo Social y Económico.
+> <small>N. DE E. DEL ACUERDO PUBLICADO EN EL P.O. DE 4 DE SEPTIEMBRE DE 2013 SE MODIFICA LA FRACCIÓN XII, SIN EMBARGO, DEL TEXTO SE ADVIERTE QUE CORRESPONDE A LA PRESENTE FRACCIÓN.</small>
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XI. La Dirección de Desarrollo Social, Rural y Económico
 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 XII. La Dirección de Planeación
 
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-XIII. La Dirección de Desarrollo Social y Económico
+XIII. Dirección de CATASTRO
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XIV. Dirección de Cultura, Turismo y Artesanías
 
 ###### Artículo 5.
 
@@ -270,49 +286,51 @@ XXIV. Ejercer la facultad económica-coactiva conforme a las leyes y reglamentos
 
 XXV. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones legales reglamentarias.
 
-### CAPITULO III. LA OFICIALlA MAYOR
+### CAPITULO III. LA OFICIALIA MAYOR
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 21.
 
-A la Oficialía Mayor le corresponden las siguientes atribuciones:
+La Dirección de Administración es la dependencia que se hace cargo de la administración, supervisión y control de los recursos humanos materiales y patrimoniales del Ayuntamiento y le corresponde las siguientes atribuciones:
 
-I. Colaborar en la formulación del anteproyecto del presupuesto anual del Gobierno Municipal;
+I. Colaborar en la elaboración del proyecto de presupuesto anual del Gobierno Municipal;
 
-II. Controlar conjuntamente con la Tesorería las erogaciones respecto al gasto corriente, conforme al presupuesto de egresos aprobado por el Ayuntamiento;
+II. Colaborar conjuntamente con la Tesorería en la administración, supervisión y control del gasto corriente conforme al presupuesto de egresos autorizado y para su mejor aprovechamiento;
 
-III. Formular y estudiar los anteproyectos de manuales que específicamente se relacionan con la administración y desarrollo del personal; del patrimonio y los servicios generales;
+III. Elaborar, mantener actualizados y dar a conocer al personal y a la ciudadanía en general, los manuales de organización de procedimientos y el directorio de trámites y servicios públicos de la administración municipal.
 
-IV. Proponer, coordinar y controlar las medidas técnicas y administrativas que permitan el buen funcionamiento de la Administración Pública Municipal;
+IV. Apoyar y participar en los proyectos de reorganización que formulen (sic) la administración pública municipal;
 
-V. Establecer, con la aprobación del Presidente Municipal o del Ayuntamiento, las políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos y materiales del Ayuntamiento;
+V. Dirigir las acciones que tiendan a promocionar a las dependencias Administrativas (sic) los elementos de trabajo necesarios para el desarrollo de sus funciones;
 
-VI. Detectar, planear y evaluar las necesidades que en materia de recursos humanos requiera la administración para proveer a las dependencias del personal necesario para el desarrollo de sus funciones, por lo que tendrá a su cargo la selección, contratación y capacitación del mismo;
+VI. Establecer las normas y políticas, así como planear, programar coordinar y dirigir las actividades que tienen por objeto el reclutamiento, selección, contradicción, promoción, renuncias, licencias, jubilaciones, pensiones, capacitaciones, desarrollo y control del personal;
 
-VII. Expedir y tramitar por acuerdo del Ayuntamiento los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores municipales;
+VII. Expedir identificaciones al personal adscrito al municipio
 
-VIII. Establecer las normas, políticas y lineamientos de administración, remuneración, capacitación y desarrollo del personal;
+VIII. Clasificar y controlar las remuneraciones, retenciones, descuentos y beneficios de previsión social, servicios médicos y demás beneficios a los trabajadores;
 
-IX. Mantener actualizado el escalafón de los trabajadores municipales, llevar al corriente el archivo de los expedientes personales de los servidores públicos y establecer y aplicar coordinadamente con las unidades administrativas los procedimientos de evaluación y control de los recursos humanos;
+IX. Formular y publicar el calendario oficial, determinando los días festivos y periodos vacacionales del personal;
 
-X. Vigilar el cumplimiento de las disposiciones legales y estatutarias que rigen las relaciones laborales entre el Gobierno Municipal y los servidores públicos municipales;
+X. Integrar y operar la bolsa de trabajo municipal,
 
-XI. Expedir identificaciones al personal adscrito al Municipio;
+XI. Vigilar el cumplimiento de las disposiciones legales y estatutarias que rigen las relaciones laborales entre el gobierno municipal y los servidores municipales.
 
-XII. Adquirir y suministrar oportunamente los bienes materiales (mobiliarios y equipos) y servicios (intendencia, transporte) que requieran las distintas dependencias de la administración municipal, así como lo que se requiera para su mantenimiento conforme a las disposiciones legales que regulan su operación;
+XII. Presidir el Comité Municipal de Adquisiciones;
 
-XIII. Elaborar y mantener el padrón de proveedores de la Administración Pública Municipal;
+XIII. Proponer y aplicar las políticas de administración de recursos materiales y la presentación de servicios generales;
 
-XIV. Controlar y vigilar los almacenes mediante la implantación de sistemas y procedimientos que optimicen las operaciones de recepción, guarda, registro y despacho de mercancía, bienes muebles y materiales en general;
+XIV. Adquirir, administrar y abastecer oportunamente los recursos materiales y servicios que requieren las dependencias del Ayuntamiento para el desarrollo de sus funciones, en apego a las leyes, reglamentos, políticas y procedimientos vigentes de la materia;
 
-XV. Elaborar, controlar y mantener actualizado el inventario general de los bienes propiedad del Ayuntamiento;
+XV. Elaborar, mantener actualizado y difundir el padrón de proveedores de la administración pública municipal;
 
-XVI. Efectuar la contratación de los seguros necesarios para la protección de los bienes de la Administración Pública Municipal;
+XVI. Controlar y vigilar los almacenes mediante la implantación de sistemas y procedimientos que optimicen las operaciones de recepción, guarda, registro y despacho de mercancía, bienes muebles y materiales en general.
 
-XVII. Hacerse cargo de la recepción, distribución y despacho de la correspondencia oficial;
+XVII. Elaborar, controlar y mantener actualizado el inventario general de los bienes patrimoniales del Ayuntamiento;
 
-XVIII. Formular y divulgar el calendario oficial; y
+XVIII. Efectuar acciones y procedimientos para la protección y mejor aprovechamiento de los bienes muebles e inmuebles del Ayuntamiento y;
 
-XIX. Las demás que le encomienden al Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones reglamentarias.
+XIX. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este reglamento y otras disposiciones legales y reglamentarias vigentes.
 
 ### CAPITULO IV. LA DIRECCION DE GOBERNACION
 
@@ -382,7 +400,7 @@ IX. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este
 
 Reglamento y otras disposiciones reglamentarias.
 
-### CAPITULO VII. LA DIRECCION DE SERVICIOS PUBLlCOS MUNICIPALES
+### CAPITULO VII. LA DIRECCION DE SERVICIOS PUBLICOS MUNICIPALES
 
 ###### Artículo 25.
 
@@ -516,7 +534,7 @@ XVI. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, est
 
 ### CAPITULO XI. LA DIRECCION DE PLANEACION, DESARROLLO SOCIAL Y ECONOMICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO POR EL QUE SE REFORMA EL PRESENTE ORDENAMIENTO, PUBLICADO EN EL P.O. DE 23 DE SEPTIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO PARA QUEDAR CONFORMADO POR QUINCE FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO POR EL QUE SE REFORMA EL PRESENTE ORDENAMIENTO, PUBLICADO EN EL P.O. DE 23 DE SEPTIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PARA QUEDAR CONFORMADO POR QUINCE FRACCIONES.</small>
 
 ###### Artículo 29.
 
@@ -538,7 +556,7 @@ VII. Levantar y mantener actualizado el Inventario de la Obra Pública Municipal
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-VIII. Formular diagnósticos que permitan conocer la situación real de la infraestructura urbana y rural del Municipio;
+VIII. Formular diagnósticos que permitan conocer la situación real de la insfraestructura urbana urbana y rural del Municipio;
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
@@ -546,7 +564,7 @@ IX. Elaborar, proponer y dar seguimiento al Programa Anual de Obras o Inversione
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-X. Proponer proyectos de infraestructura que beneficien al municipio ante los gobiernos federal y estatal, otros organismos estatales, nacionales o internacionales, para la atracción de recursos que permitan su ejecución;
+X. Proponer proyectos de infraestructura que beneficien al municipio ante los gobiernos federal y estatal, otros organismos estatales, nacionales o internacionales para la atracción de recursos que permitan su ejecución;
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
@@ -562,59 +580,33 @@ XIII. Coadyuvar en el seguimiento de los programas, planes y acciones municipale
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-XIV. Coadyuvar en el diseño de procedimientos técnico-administrativos que permitan el aprovechamiento óptimo de los recursos existentes para la realización de los programas de inversión municipal, considerando el cumplimiento de lo establecido en el respectivo presupuesto de egresos y las disposiciones aplicables sobre transferencias de recursos federales y estatales;
+XIV. Coadyuvar en el diseño de procedimientos técnicos-administrativos que permitan el aprovechamiento óptimo de los recursos existentes para la realización de los programas de inversión municipal, considerando el cumplimiento de lo establecido en el respectivo presupuesto de egresos y las disposiciones aplicables sobre transferencias de recursos federales y estatales;
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 XV. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones legales y reglamentarias vigentes.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PRIMERO DE REFORMAS PUBLICADO EN EL P.O. DE 4 DE SEPTIEMBRE DE 2013, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PASANDO DE VEINTIUNA A SIETE FRACCIONES.</small>
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 29 Bis.
 
-La Dirección de Desarrollo Social y Económico es la dependencia encargada de la instrumentación y ejecución de acciones que promuevan mejores condiciones de vida y el bienestar de los habitantes, familias y comunidades de la jurisdicción municipal, para tal fin contará con las siguientes atribuciones:
+La Dirección de Desarrollo Social, Rural y Económico es la dependencia encargada de la instrumentación y ejecución de acciones que promuevan mejores condiciones de vida y el bienestar de los habitantes, familias y comunidades de la jurisdicción municipal, así como de promover, gestionar e impulsar el desarrollo de las labores productivas del campo y de los demás sectores económicos en el municipio, para tal fin contará con las siguientes atribuciones:
 
-l. Diseñar, proponer y ejecutar políticas, programas y acciones en materia de educación, salud, alimentación y demás rubros que promuevan el desarrollo social en el Municipio;
+I. Diseñar, proponer y ejecutar políticas, programas y acciones en materia de educación, salud, alimentación y demás rubros que promuevan el desarrollo social en el municipio.
 
-II. Concertar y coadyuvar con las dependencias federales, estatales, instituciones particulares y demás dependencias municipales, la operación y ejecución de acciones en su ámbito de competencia;
+II. Fomentar el establecimiento de tiendas de artículos básicos y de consumo popular;
 
-III. Establecer y coordinar programas que impulsen el desarrollo educativo de los habitantes del municipio;
+III. Impulsar la capacitación y asistencia técnica integral en el campo, las micros, pequeñas y medianas empresas establecidas en el Municipio;
 
-IV. Diseñar e instrumentar programas municipales para la asignación de becas académicas, así como coordinarse con instituciones y organizaciones publicas o privadas para obtenerlas en favor de los habitantes del municipio;
+IV. Elaborar y dar seguimiento a un diagnostico Económico que permita conocer las principales actividades económicas que se desarrollan en el Municipio, su estado e impacto en la vida de la población;
 
-V. Establecer programas y propiciar convenios con las autoridades competentes que promuevan entre la ciudadanía, una cultura de respeto al medio ambiente y a los recursos naturales existentes en el Municipio;
+V. Integrar un padrón de productores e integrantes de los diversos sectores económicos en el municipio;
 
-VI. Supervisar, evaluar y dar seguimiento a los planes y programas de desarrollo social del Ayuntamiento;
+VI. Promover la realización de ferias y Exposiciones que permitan a los habitantes de las comunidades rurales dar a conocer sus labores productivas y artesanales y en su caso comercializarlos.
 
-VII. Promover la participación de la comunidad en los programas que impulse la municipalidad para el bienestar social;
-
-VIII. Elaborar y dar seguimiento a los diagnósticos existentes del Municipio en materia de desarrollo social;
-
-IX. Elaborar, proponer, coordinar y ejecutar políticas, programas y acciones que fomenten la actividad económica y la generación de empleos en el Municipio;
-
-X. Coadyuvar y mantener comunicación con las dependencias federales y estatales encargadas de la promoción y el fomento económico;
-
-XI. Participar en la administración de las empresas paramunicipaIes;
-
-XII. Promover acciones de coordinación con los sectores público, social y privado que permitan el diseño y ejecución de proyectos productivos prioritarios para el Municipio;
-
-XIII. Proponer al Cabildo, el otorgamiento de estímulos tributarios conforme lo establece la Ley para el Fomento de Actividades Económicas y Empresariales del Estado, a los inversionistas que pretendan establecerse en el municipio;
-
-XIV. Diseñar y desarrollar acciones que fomenten y fortalezcan la actividad artesanal, agrícola, pesquera, comercial y turística;
-
-XV. Proponer acciones que contribuyan al fortalecimiento de la Infraestructura productiva existente en el Municipio;
-
-XVI. Brindar información respecto los programas productivos, empresariales y de créditos que existan y asesoría en la gestión;
-
-XVII. Promover la organización de eventos que apoyen la comercialización de productos agrícolas, ganaderos, pesqueros, artesanales y de otros productos o servicios que se generen en el Municipio;
-
-XVIII. Fomentar el establecimiento de tiendas de artículos básicos y de consumo popular;
-
-XIX. Impulsar la capacitación y asistencia técnica integral en la (sic) micros, pequeñas y medianas empresas establecidas en el Municipio;
-
-XX. Elaborar y dar seguimiento a un Diagnostico Económico que permita conocer las principales actividades económicas que se desarrollan en el Municipio, su estado e impacto en la vida de la población;
-
-XXI. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones legales y reglamentarias vigentes.
+VII. Las demás que le encomienden el Ayuntamiento, el presidente Municipal este Reglamento y otras disposiciones legales y reglamentarias vigentes.
 
 ## TITULO III. DE LA ADMINISTRACION PUBLICA MUNICIPAL DESCENTRALIZADA
 
@@ -684,7 +676,7 @@ El presente reglamento entrará en vigor, al día siguiente de su publicación e
 
 P.O. 23 DE SEPTIEMBRE DE 2009.
 
-ACUERDO POR EL QUE SE ADICIONA EL ARTICULO 28 DEL REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL.
+ACUERDO POR EL QUE SE ADICIONA EL ARTÍCULO 28 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL.
 
 PRIMERO.- El presente acuerdo entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -707,3 +699,37 @@ CUARTO.- Se ratifica el nombramiento otorgado por el Cabildo en sesión del día
 CUARTO (SIC).- La Dirección de Desarrollo Social y Económico se integrará con los recursos humanos y materiales que permita el Presupuesto de Egresos del Municipio de Calkiní para el Ejercicio Fiscal 2007 y en términos de lo dispuesto en dicho instrumento. En todo caso, se dará prioridad a los recursos que a la fecha se venían destinando para esas labores y que se encontraba a cargo de la Dirección de Planeación, Desarrollo Social y, Económico.
 
 QUINTO.- Cúmplase.
+
+P.O. 4 DE SEPTIEMBRE DE 2013.
+
+ACUERDO PRIMERO POR EL QUE SE MODIFICA LAS FRACCIONES III Y XII DEL ARTÍCULO 4 LOS ARTÍCULOS 21 Y 29 BIS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL.
+
+PRIMERO.- El presente acuerdo entrará en vigor, el mismo días de su aprobación
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones administrativas expedidas por el H. Ayuntamiento del Municipio de Calkiní, en lo que se oponga el contenido del Presente Acuerdo.
+
+CUARTO.- Hágase el correspondiente registro en el libro de Reglamentos del Municipio de Calkiní.
+
+QUINTO.- Realícense las modificaciones que se requieran en el Presupuesto y/o en el sistema de Contabilidad Gubernamental a cargo del Municipio en lo relativo al ejercicio fiscal 2012.
+
+SEXTO.- Cúmplase
+
+P.O. 4 DE SEPTIEMBRE DE 2013.
+
+ACUERDO PRIMERO POR EL QUE SE MODIFICA LA FRACCIÓN VIII DEL ARTÍCULO 4, EL ARTÍCULO 26 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.
+
+P.O. 4 DE SEPTIEMBRE DE 2013.
+
+ACUERDO PRIMERO POR EL QUE SE MODIFICA LA FRACCIÓN VI DEL ARTÍCULO 4, EL ARTÍCULO 24 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.
+
+P.O. 4 DE SEPTIEMBRE DE 2013
+
+ACUERDO PRIMERO POR EL QUE SE ADICIONA LA FRACCIÓN XIII AL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.
