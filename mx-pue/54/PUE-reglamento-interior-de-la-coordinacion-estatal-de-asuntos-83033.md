@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-coordinacion-estatal-de-asuntos-83033
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-27"
-last_updated: "2011-06-27"
+last_updated: "2013-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION ESTATAL DE ASUNTOS INTERNACIONALES Y DE APOYO A MIGRANTES POBLANOS
 
-REGLAMENTO INTERIOR DE LA COORDINACION ESTATAL DE ASUNTOS INTERNACIONALES Y DE APOYO A MIGRANTES POBLANOS
+REGLAMENTO INTERIOR DE LA COORDINACIÓN ESTATAL DE ASUNTOS INTERNACIONALES Y DE APOYO A MIGRANTES POBLANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en la Décima Sección del Periódico Oficial del Estado de Puebla, el lunes 27 de junio de 2011.
 
@@ -43,9 +43,11 @@ REGLAMENTO INTERIOR DE LA COORDINACIÓN ESTATAL DE ASUNTOS INTERNACIONALES Y DE 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 1.
 
-La Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos, como Organismo Público Descentralizado del Gobierno del Estado de Puebla, con personalidad jurídica y patrimonio propios, autonomía técnica y de gestión, sectorizado al Gobernador del Estado, tiene a su cargo las funciones y atribuciones que expresamente le confiere su Decreto de creación, el presente Reglamento Interior, la Ley Orgánica de la Administración Pública del Estado, las demás leyes, reglamentos, acuerdos y decretos vigentes y aplicables en el Estado de Puebla.
+La Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos, como Organismo Público Descentralizado del Gobierno del Estado de Puebla, con personalidad jurídica y patrimonio propios, autonomía técnica y de gestión, sectorizado al Gobernador del Estado, tiene a su cargo las funciones y atribuciones que expresamente le confiere la Ley Orgánica de la Administración Pública del Estado, su Decreto de creación, leyes, reglamentos, acuerdos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 2.
 
@@ -87,45 +89,71 @@ I. Junta Directiva;
 
 II. Coordinador General; y
 
-III. La siguiente estructura administrativa:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-III.1 Coordinador Adjunto;
+III. Las siguientes unidades administrativas:
 
-III.1.1 Dirección de Oficinas en el Extranjero;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-III.2 Dirección de Apoyo y Protección de Migrantes;
+1. Coordinación Adjunta;
 
-III.3 Dirección de Vinculación y Cooperación Internacional;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-III.4 Dirección de la Agenda Internacional;
+1.1 Dirección de Apoyo y Protección de Migrantes;
 
-III.5 Dirección Administrativa;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-III.5.1 Subdirección Jurídica; y
+1.2 Dirección de Oficinas en el Extranjero;
 
-III.6 Consejo Consultivo.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-Las Unidades Administrativas de la Coordinación estarán integradas por el personal directivo, técnico y administrativo que el servicio requiera, de acuerdo a la estructura orgánica y disponibilidad presupuestal que se autorice conforme a las normas respectivas.
+2. Dirección de Vinculación y Cooperación Internacional;
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+3. Dirección de la Agenda y Promoción Internacional;
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+4. Dirección Administrativa;
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+5. Subdirección de Asuntos Jurídicos, y
+
+III.6 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2013)
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+Los Titulares de las unidades administrativas de la Coordinación serán auxiliados por el personal técnico y administrativo que se requiera para el ejercicio de sus funciones, de conformidad con la estructura orgánica aprobada y la disponibilidad presupuestal que se autorice conforme a las normas respectivas.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 5.
 
-Los Directores y Subdirectores de las Unidades Administrativas, a que se refiere el artículo anterior, ejercerán sus atribuciones de acuerdo a lo que se establezca en los ordenamientos aplicables, el presente Reglamento, y lo que determine la Junta Directiva.
+El Coordinador General, los Titulares de las unidades administrativas y los servidores públicos adscritos a éstas, ejercerán sus atribuciones con sujeción a la Ley de Entidades Paraestatales del Estado de Puebla, el Decreto, reglamentos, acuerdos, convenios y sus anexos, circulares de carácter general y demás disposiciones que incidan en el ámbito de competencia de la Coordinación.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 6.
 
-Los servidores públicos adscritos a la Coordinación guardarán reserva y confidencialidad sobre los asuntos de su competencia, sujetos en todo caso a lo que dispongan los ordenamientos legales sobre transparencia, acceso a la información y rendición de cuentas; asimismo deberán sujetar sus actos a las disposiciones legales correspondientes.
+El personal adscrito a la Coordinación deberá integrar, custodiar y dar de baja los expedientes, la documentación, la información, los registros, los datos, aún los contenidos en medios electrónicos, que por razón del ejercicio de sus facultades y actividades genere, obtenga, administre, maneje, archive o custodie, de conformidad con las disposiciones legales y normatividad aplicables.
 
 ## TÍTULO SEGUNDO. DE LAS ATRIBUCIONES
 
 ### CAPÍTULO I. DE LA JUNTA DIRECTIVA
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 7.
 
-La Junta Directiva es el órgano de gobierno de la Coordinación, se integra en la forma que dispone el Decreto y ejercerá las atribuciones que éste le confiere.
+La Junta Directiva se integrará en los términos que señala el artículo 7 del Decreto de creación y contará con las atribuciones que contemplan los artículos 52 de la Ley de Entidades Paraestatales del Estado de Puebla y 10 del Decreto.
 
 ### CAPÍTULO II
 
-#### SECCIÓN I. DEL COORDINADOR GENERAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+#### SECCIÓN I. DE LA COORDINACIÓN GENERAL
 
 ###### ARTÍCULO 8.
 
@@ -135,9 +163,11 @@ El Coordinador General será el representante legal de la Coordinación, con las
 
 Corresponde al Coordinador General la representación, trámite y resolución de los asuntos de la competencia de la Coordinación, quien para la mejor atención y desarrollo de los mismos podrá conferir su desempeño a los servidores públicos subalternos, excepto aquéllos que por disposición legal, reglamentaria o por acuerdo del Gobernador deban ser ejecutados directamente por aquél.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 10.
 
-Para el despacho de los asuntos de la Coordinación, su titular tendrá, además de las atribuciones que prevé el Decreto, las siguientes:
+Al frente de la Coordinación, habrá un Coordinador General, quien para el exacto cumplimiento de las atribuciones previstas en los artículos 17 y 53 de la Ley de Entidades Paraestatales del Estado de Puebla y 14 del Decreto de creación, tendrá las siguientes:
 
 I. Coordinar las, actividades del organismo, a fin de que éstas se lleven a cabo en forma programada de conformidad con las políticas, estrategias y prioridades que para el logro de sus objetivos y metas establezcan el Gobernador o la Junta Directiva, en concordancia con los Planes Nacional y Estatal de Desarrollo
 
@@ -173,7 +203,9 @@ XVI. Asignar a las Unidades Administrativas de la Coordinación, las atribucione
 
 XVII. Establecer los lineamientos para el debido manejo, resguardo y custodia de la documentación e información a su cargo;
 
-XVIII. Expedir, en términos de la normatividad legal, y a solicitud del interesado o autoridad competente, las constancias o certificaciones de documentos existentes en los archivos de su área, previo pago de los derechos que procedan;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XVIII. Expedir cuando proceda de conformidad con la legislación y normatividad aplicables, copias certificadas de los documentos que obran en los archivos de la Coordinación;
 
 XIX. Llevar a cabo, cuando lo estime necesario, cualquiera de las atribuciones de las Unidades Administrativas que conforman la Coordinación a su cargo, sin necesidad de acuerdo previo;
 
@@ -185,23 +217,37 @@ XXII. Convocar a los integrantes del Consejo Consultivo a sesiones ordinarias y 
 
 XXIII. Inscribir a la Coordinación en el registro de entidades paraestatales de la Secretaría de la Contraloría, así como sus modificaciones; y
 
-XXIV. Las demás que le delegue o encomiende la Junta Directiva, así como aquéllas que otros ordenamientos le confieran.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-#### SECCIÓN II. DEL COORDINADOR ADJUNTO
+XXIV. Dirigir las relaciones con las sedes diplomáticas de México en el exterior, y de países extranjeros y organismos multilaterales acreditados en nuestro país, a fin de promover programas y proyectos de cooperación internacional y visitas oficiales que beneficien al Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XXV. Celebrar acuerdos que en materia de vinculación y cooperación internacional se lleven a cabo en beneficio del Gobierno del Estado; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XXVI. Las demás que le delegue o encomiende la Junta Directiva, así como aquéllas que otros ordenamientos le confieran.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+#### SECCIÓN II. DE LA COORDINACIÓN ADJUNTA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 11.
 
-El Coordinador Adjunto dependerá directamente del Coordinador General y tendrá las siguientes atribuciones:
+El Titular de la Coordinación Adjunta, dependerá directamente de la Coordinación General y tendrá las atribuciones siguientes:
 
-l. Proponer al Coordinador General la apertura o cierre de las casas de representación;
+I. Proponer al Coordinador General la apertura o cierre de las casas de representación;
 
 II. Poner a consideración del Coordinador General los informes que deban rendirse en relación con las actividades desarrolladas, en el ámbito de su competencia;
 
 III. Dirigir la operación de las casas de representación para el cumplimiento oportuno y eficaz de las acciones y programas de protección, de conformidad con la normatividad aplicable;
 
-IV. Apoyar en su caso, y en coordinación con la Dirección de la Agenda Internacional, las visitas y giras oficiales al extranjero del Gobernador o servidores públicos del Estado;
+IV. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2013)
 
-V. Coadyuvar en la programación de giras y visitas oficiales de los servidores públicos del Estado, cuando se le requiera;
+V. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2013)
 
 VI. Ejecutar las políticas, criterios, sistemas y procedimientos que deban regir a las unidades a su cargo;
 
@@ -211,25 +257,43 @@ VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aqu�
 
 IX. Proporcionar en el ámbito de su competencia y en términos de las disposiciones legales aplicables, la información requerida por las dependencias y entidades de la administración pública del Estado, la Federación, los Municipios y particulares en los casos permitidos por la ley;
 
-X. Coordinar sus acciones con las demás unidades administrativas de la Coordinación para el mejor desempeño de sus atribuciones; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-XI. Las demás que le delegue o encomiende el Coordinador General, así como aquéllas que otros ordenamientos le confieran.
+X. Coordinar sus acciones con las demás unidades administrativas de la Coordinación para el mejor desempeño de sus atribuciones;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XI. Planear y dirigir las acciones para apoyar la protección a ciudadanos poblanos y a sus familias en el extranjero y en sus lugares de origen; así como aquéllas orientadas a promover el desarrollo integral de migrantes poblanos y sus familias; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XII. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante, para el buen funcionamiento de la Coordinación, le encomiende el Coordinador General.
 
 ### CAPÍTULO III
 
 #### SECCIÓN I. DE LAS DIRECCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 12.
 
-Al frente de cada Dirección habrá un titular, quien tendrá las siguientes atribuciones:
+Al frente de cada una de las Direcciones habrá un Titular, quien tendrá las siguientes atribuciones:
 
-I. Acordar con el Coordinador General el despacho de los asuntos de las unidades administrativas a su cargo, e informar sobre el desarrollo y resultado de los mismos;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-II. Desempeñar las comisiones que el Coordinador General le encomiende y mantenerlo informado sobre el desarrollo y resultado de las mismas;
+I. Acordar con su superior jerárquico el despacho de los asuntos de las unidades administrativas a su cargo e informar sobre el desarrollo y resultado de los mismos;
 
-III. Proponer al Coordinador General, los programas, estudios y proyectos elaborados en el área de su responsabilidad;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-IV. Poner a consideración del Coordinador General los informes que deban rendirse en relación con las actividades desarrolladas, en el ámbito de su competencia;
+II. Desempeñar las comisiones que su superior jerárquico le encomiende y mantenerlo informado sobre el desarrollo y resultado de las mismas;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+III. Proponer a su superior jerárquico, los programas, estudios y proyectos elaborados en el área de su responsabilidad;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Poner a consideración de su superior jerárquico, los informes que deban rendirse en relación con las actividades desarrolladas, en el ámbito de su competencia;
 
 V. Establecer de acuerdo a su competencia y con apego a la normatividad vigente las políticas, criterios, sistemas y procedimientos de carácter técnico que deban regir a las unidades a su cargo;
 
@@ -249,15 +313,19 @@ XII. Asegurar el cumplimiento de los acuerdos emitidos en el ámbito de su compe
 
 XIII. Coordinar sus acciones con las demás unidades administrativas de la Coordinación para el mejor desempeño de sus atribuciones; y
 
-XIV. Las demás que le delegue o encomiende el Coordinador General, así como aquéllas que otros ordenamientos le confieran.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XIV. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante, para el buen funcionamiento de la Coordinación, le encomiende la Coordinación General o su superior jerárquico.
 
 #### SECCIÓN II. DE LA DIRECCIÓN DE OFICINAS EN EL EXTRANJERO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 13.
 
-La Dirección de Oficinas en el Extranjero dependerá del Coordinador Adjunto y su titular tendrá, además de las atribuciones señaladas en el presente Reglamento, las siguientes:
+El Titular de la Dirección de Oficinas en el Extranjero, dependerá directamente de la Coordinación Adjunta y tendrá, además de las atribuciones señaladas en el artículo 12 del Reglamento, las siguientes:
 
-I. Analizar la conveniencia de realizar visitas al exterior por parte del Gobernador o demás funcionarios de la Administración Pública Estatal y proponerlas al Coordinador Adjunto;
+I. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2013)
 
 II. Dirigir el desempeño de las labores de las casas de representación, en materia de prestación de servicios a los migrantes poblanos;
 
@@ -279,7 +347,9 @@ X. Apoyar en la localización de migrantes en países extranjeros;
 
 XI. Prestar servicios de apoyo a los migrantes en las casas de representación, coordinándose con la Dirección de Apoyo y Protección de Migrantes, en materia de repatriación de cadáveres y traslado de enfermos;
 
-XII. Apoyar en el ámbito de su competencia, la promoción del Estado en materia turística, educativa, cultural, social y económica, de acuerdo con los lineamientos y políticas emitidas por las autoridades competentes;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XII. Colaborar en el ámbito de su competencia, en la promoción del Estado en materia turística, educativa, cultural, social y económica, de acuerdo con los lineamientos y políticas emitidas por las autoridades competentes;
 
 XIII. Crear una base de datos de los migrantes que acuden a las casas de representación;
 
@@ -289,9 +359,11 @@ XV. Promover a través de las casas de representación, programas de cooperació
 
 #### SECCIÓN III. DE LA DIRECCIÓN DE APOYO Y PROTECCIÓN DE MIGRANTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 14.
 
-La Dirección de Apoyo y Protección de Migrantes dependerá del Coordinador General y su titular tendrá, además de las atribuciones señaladas en el presente Reglamento, las siguientes:
+El Titular de la Dirección de Apoyo y Protección de Migrantes, dependerá directamente de la Coordinación Adjunta y su Titular tendrá, además de las atribuciones señaladas en el artículo 12 del Reglamento, las siguientes:
 
 I. Coordinar con instancias y organismos locales, nacionales e internacionales, públicos o privados, el desarrollo de acciones conjuntas en beneficio de los migrantes;
 
@@ -325,15 +397,19 @@ XV. Asesorar a los poblanos en el extranjero y a sus familias, en la obtención 
 
 XVI. Coordinar y participar en el traslado de enfermos de las instituciones hospitalarias extranjeras a las instituciones de salud estatal, y orientar a los familiares de migrantes respecto de los trámites para visitar a los enfermos terminales o asistir a sus funerales; y
 
-XVII. Proponer al Coordinador General las acciones que fomenten la participación ciudadana en aquellos asuntos de interés público de competencia de la Coordinación.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XVII. Proponer a su superior jerárquico las acciones que fomenten la participación ciudadana en aquellos asuntos de interés público de competencia de la Coordinación.
 
 #### SECCIÓN IV. DE LA DIRECCIÓN DE VINCULACIÓN Y COOPERACIÓN INTERNACIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 15.
 
-La Dirección de Vinculación y Cooperación Internacional dependerá del Coordinador General y su titular tendrá, además de las atribuciones señaladas en el presente Reglamento, las siguientes:
+El Titular de la Dirección de Vinculación y Cooperación Internacional, dependerá de la Coordinación General, y tendrá, además de las atribuciones señaladas en el artículo 12 del Reglamento, las siguientes:
 
-l. Proponer a su superior jerárquico los temas de cooperación internacional que por su relevancia deban formar parte de la agenda internacional del Gobernador y otros altos funcionarios;
+I. Proponer a su superior jerárquico los temas de cooperación internacional que por su relevancia deban formar parte de la agenda internacional del Gobernador y otros altos funcionarios;
 
 II. Establecer en el ámbito de su competencia, comunicación con autoridades de los tres órdenes de gobierno y del extranjero, organismos internacionales y de la sociedad civil, con el objeto de identificar y concertar proyectos de cooperación internacional de interés, en beneficio de los poblanos;
 
@@ -345,7 +421,9 @@ V. Integrar y mantener actualizado un sistema de información de las organizacio
 
 VI. Planear y proponer estrategias de apoyo para las Secretarías y otras instancias del Gobierno del Estado en materia de cooperación internacional;
 
-VII. Proponer en el ámbito de su competencia, la celebración de convenios o acuerdos con la Federación, los Estados, los Municipios e instituciones públicas o privadas en materia de cooperación internacional, así como asesorar a los servidores públicos de otras Secretarías y demás instancias del Gobierno del Estado para su celebración;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+VII. Proponer en el ámbito de su competencia, la celebración de convenios, acuerdos e instrumentos que impulsen la cultura de hermanamiento y desarrollo del Estado en materia de vinculación y cooperación internacional, tanto con instituciones públicas o privadas de carácter internacional o nacional, así como con la Federación, los Estados o los Municipios, pudiendo brindar asesoría a otras Secretarías, y demás instancias del Gobierno del Estado;
 
 VIII. Difundir los convenios o acuerdos celebrados en materia de cooperación internacional;
 
@@ -353,17 +431,31 @@ IX. Llevar un registro actualizado de los proyectos, programas, acuerdos y conve
 
 X. Participar en el ámbito de su competencia, en el diseño y establecimiento de los mecanismos de coordinación y concertación que se establezcan con autoridades internacionales, federales, estatales y municipales;
 
-XI. Proporcionar a la Subdirección Jurídica los documentos necesarios para la elaboración de Acuerdos de Hermanamiento entre el Estado y órganos gubernamentales extranjeros;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-XII. Coordinarse con las demás unidades administrativas para el mejor desempeño de sus atribuciones; y
+XI. Proporcionar a la Subdirección de Asuntos Jurídicos los documentos necesarios para la elaboración de Acuerdos de Hermanamiento entre el Estado y órganos gubernamentales extranjeros;
 
-XIII. Mantener comunicación en el ámbito de su competencia, con las sedes diplomáticas de México en el exterior, y de países extranjeros y organismos multilaterales acreditados en nuestro país, a fin de promover programas y proyectos de cooperación internacional y visitas oficiales que beneficien al Estado.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE LA AGENDA INTERNACIONAL
+XII. Coordinar acciones con las demás unidades administrativas para el mejor desempeño de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XIII. Mantener comunicación en el ámbito de su competencia, con las sedes diplomáticas de México en el exterior, y de países extranjeros y organismos multilaterales acreditados en nuestro país, a fin de promover programas y proyectos de cooperación internacional y visitas oficiales que beneficien al Estado; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XIV. Dirigir las acciones para la celebración de acuerdos que en materia de vinculación y cooperación internacional, se lleven a cabo en beneficio del Gobierno del Estado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+#### SECCIÓN V. DE LA DIRECCIÓN DE LA AGENDA Y PROMOCIÓN INTERNACIONAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 16.
 
-La Dirección de la Agenda Internacional dependerá del Coordinador General y su titular tendrá, además de las atribuciones señaladas en el presente Reglamento, las siguientes:
+El Titular de la Dirección de la Agenda y Promoción Internacional, dependerá directamente de la Coordinación General, y tendrá, además de las atribuciones señaladas en el artículo 12 del Reglamento, las siguientes:
 
 I. Proponer en el ámbito de su competencia, la Agenda Internacional del Ejecutivo del Estado, que integre los temas de promoción cultural, educativa, turística, social y económica poblana en el extranjero;
 
@@ -379,7 +471,9 @@ VI. Planear y coordinar en el ámbito de su competencia, las actividades inheren
 
 VII. Analizar el beneficio real de los programas de promoción que lleve a cabo la Coordinación, y dar a conocer los resultados al Coordinador General;
 
-VIII. Organizar la participación de la Coordinación en ferias, congresos, exposiciones y demás eventos que se celebren a nivel internacional, donde se promueva al Estado y sus municipios;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+VIII. Organizar la participación de la Coordinación en ferias, congresos, exposiciones, y demás eventos que se celebren a nivel internacional, donde se promueva al Estado y sus municipios, coordinándose para ello con las instancias competentes;
 
 IX. Promover por sí o a través de las instancias competentes, la integración de proyectos productivos y el desarrollo de programas de promoción social en el exterior a beneficio de los poblanos, integrando los directorios de servicios de promoción social internacional;
 
@@ -389,9 +483,11 @@ XI. Instrumentar estrategias y mecanismos tendientes a apoyar la promoción econ
 
 #### SECCIÓN VI. DE LA DIRECCIÓN ADMINISTRATIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 17.
 
-La Dirección Administrativa dependerá del Coordinador General y su titular tendrá, además de las atribuciones señaladas en el presente Reglamento, las siguientes:
+El Titular de la Dirección Administrativa, dependerá directamente de la Coordinación General y tendrá, además de las atribuciones señaladas en el artículo 12 del Reglamento, las siguientes:
 
 I. Diseñar y proponer las políticas, normas y procedimientos para la eficaz y eficiente administración de los recursos financieros, humanos, materiales, e informáticos de la Coordinación;
 
@@ -427,17 +523,37 @@ XVI. Emitir los documentos para la identificación de los funcionarios adscritos
 
 XVII. Coordinar la elaboración y someter a aprobación del Coordinador General los manuales de procedimiento, operación y servicio, y demás que sean necesarios en la Coordinación y, una vez aprobados, remitirlos a la Secretaría de la Contraloría para su validación y registro;
 
-XVIII. Realizar las acciones correspondientes para el desarrollo del servicio civil de carrera de los servidores públicos de la Coordinación, conforme a los ordenamientos legales aplicables; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XVIII. Realizar las acciones correspondientes para el desarrollo del servicio civil de carrera de los servidores públicos de la Coordinación, conforme a los ordenamientos legales aplicables;
 
 XIX. Llevar a cabo el reclutamiento, selección y contratación del personal de la Coordinación, conforme a la normatividad aplicable.
 
-#### SECCIÓN VII. DE LA SUBDIRECCIÓN JURÍDICA
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XX. Diseñar los objetivos e indicadores que formarán parte de las estrategias institucionales, sometiéndolos a consideración de su superior jerárquico;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XXI. Vigilar que los programas y proyectos establecidos por la Coordinación y sus unidades administrativas, se encuentren vinculados entre sí y alineados con los objetivos, estrategias y metas planteadas en el Plan Estatal de Desarrollo, así como con la legislación y normatividad aplicable; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XXII. Verificar la actualización de la página web de la Coordinación.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+#### SECCIÓN VII. DE LA SUBDIRECCIÓN DE ASUNTOS JURÍDICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 18.
 
-La Subdirección Jurídica dependerá de la Dirección Administrativa y su titular, tendrá las atribuciones siguientes:
+El Titular de la Subdirección de Asuntos Jurídicos, dependerá directamente de la Coordinación General, y tendrá las atribuciones siguientes:
 
-I. Acordar con el titular de la Dirección Administrativa, el despacho de los asuntos a su cargo e informar sobre el desarrollo de los mismos;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+I. Acordar con su superior jerárquico, el despacho de los asuntos a su cargo e informar sobre el desarrollo de los mismos;
 
 II. Planear, programar y dirigir el desarrollo de los programas y acciones que le sean encomendadas;
 
@@ -451,9 +567,11 @@ VI. Llevar el control y registro de las firmas de los servidores públicos de la
 
 VII. Apoyar la elaboración y difusión de manuales, normas y lineamientos jurídico-administrativos;
 
-VIII. Representar a la Coordinación en todos los procedimientos jurisdiccionales y administrativos que sean de su competencia, instrumentar medios preparatorios de juicio, medidas precautorias, presentar demandas, contestaciones, reconvenciones, denuncias, querellas, desistirse, interponer recursos, recusar, promover incidentes, rendir informes, ofrecer y desahogar pruebas, celebrar transacciones, solicitar la suspensión o diferimiento de las audiencias, alegar, pedir se dicte sentencia y seguir los juicios y procedimientos hasta ejecutar las resoluciones y en general, ejercer las mismas atribuciones que un mandatario con todas las facultades generales y particulares que requieran cláusulas especiales conforme a la ley; así como todas aquéllas que sean necesarias para la substanciación de procedimientos respectivos en defensa de los intereses de la Coordinación, asimismo deberá informar al Director Administrativo de estas acciones;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-IX. Fungir como Delegado en los juicios de amparo, elaborar demandas, contestaciones, informes, recursos y demás promociones, en aquellos juicios donde tenga interés o sea señalado como autoridad responsable cualquier servidor público adscrito a la Coordinación;
+VIII. Representar jurídicamente a la Coordinación con todas las facultades generales y particulares que requieran cláusulas especiales conforme a la ley, en todos los procedimientos jurisdiccionales y administrativos que sean de su competencia, instrumentar medios preparatorios de juicio, medidas precautorias, presentar demandas, contestaciones, reconvenciones, denuncias, querellas, desistirse, interponer recursos, promover incidentes, rendir informes, ofrecer y desahogar pruebas, celebrar transacciones, solicitar la suspensión o diferimiento de las audiencias, alegar, pedir se dicte sentencia, seguir los juicios y procedimientos hasta ejecutar las resoluciones, otorgar el perdón que proceda, y en general, todas aquéllas acciones que sean necesarias para la substanciación de los procedimientos respectivos en defensa de los intereses de la Coordinación, debiendo informar a la Coordinación General del resultado de su representación;
+
+IX. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2013)
 
 X. Solicitar a las unidades administrativas competentes, la información y documentación que requieran las autoridades fiscales, judiciales, administrativas y de cualquier índole, en términos de las disposiciones legales aplicables;
 
@@ -461,9 +579,21 @@ XI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquél
 
 XII. Vigilar que el personal a su cargo no incurra en acciones u omisiones con las cuales provoque el incumplimiento del servicio;
 
-XIII. Coordinar y vigilar el manejo, resguardo y custodia de la documentación e información a su cargo; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
-XIV. Las demás que le confiera su superior jerárquico, los ordenamientos legales vigentes en la materia y el presente Reglamento.
+XIII. Coordinar y vigilar el manejo, resguardo y custodia de la documentación e información a su cargo;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XIV. Expedir cuando proceda, de conformidad con la legislación y normatividad aplicables y en suplencia del Coordinador General, copias certificadas de los documentos que obran en los archivos de la Coordinación;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XV. Participar en el ámbito de su competencia, en la elaboración de convenios, acuerdos, contratos, y demás actos jurídicos de la Coordinación, sometiendo a consideración del Coordinador General los anteproyectos de éstos, así como de reglamentos, decretos, circulares, y demás disposiciones jurídicas relacionadas con el funcionamiento de la Coordinación, dando el trámite correspondiente una vez aprobados; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+XVI. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante, para el buen funcionamiento de la Coordinación, le encomiende la Junta Directiva o la Coordinación General.
 
 ## TÍTULO TERCERO. DEL CONSEJO CONSULTIVO
 
@@ -505,39 +635,47 @@ V. Coadyuvar con la Coordinación y las demás instancias estatales y municipale
 
 VI. Las demás que considere convenientes el Coordinador General conforme a la naturaleza del órgano, que es de análisis y opinión.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 25.
 
-Para su organización y funcionamiento, la Coordinación deberá sujetarse a lo dispuesto por la Ley de Planeación para el Desarrollo del Estado de Puebla, Plan Estatal de Desarrollo y en su caso, a los programas especiales, sectoriales, institucionales y regionales que deriven del mismo.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2013)
 
-La programación de la Coordinación deberá contener la fijación de objetivos y metas, y en su caso, los resultados económicos y financieros esperados, así como las bases para evaluar las acciones que lleve a cabo, la definición de estrategias y prioridades; la previsión y organización de recursos que sean necesarios para alcanzarlas; la expresión de programas para la coordinación de sus tareas, así como las previsiones respecto a las posibles modificaciones a sus estructuras.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 26.
 
-Para la vigilancia, control y evaluación de las funciones de la Coordinación, el Comisario Público que sea designado por la Secretaría de la Contraloría, asistirá a las sesiones de la Junta Directiva como invitado permanente, con voz pero sin voto.
-
-El Comisario Público participará en el establecimiento de los mecanismos de evaluación que el Coordinador General proponga a la Junta Directiva.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2013)
 
 ###### ARTÍCULO 27.
 
-Las ausencias y licencias de los servidores públicos no mayores a quince días naturales, serán suplidas de la siguiente manera:
+Las ausencias y licencias de los servidores públicos no mayores a quince días hábiles, serán suplidas de la siguiente manera:
 
-I. El Coordinador General por los Directores, conforme al ámbito de su competencia o por el servidor público que designe el Coordinador General; y
+I. El Coordinador General será suplido por el Coordinador Adjunto, el Director o el Subdirector de Asuntos Jurídicos conforme a la competencia del asunto de que se trate, sin perjuicio de las facultades que correspondan a la Junta Directiva; y
 
-II. El Coordinador Adjunto, los Directores y el Subdirector Jurídico, por los servidores públicos que designe el Coordinador General.
+II. El Coordinador Adjunto, los Directores y el Subdirector de Asuntos Jurídicos, serán suplidos por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias, o en su caso, por quienes determine el Coordinador General, sin perjuicio de las facultades que correspondan a la Junta Directiva.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 28.
 
-En los casos de ausencias temporales por más de quince días del Coordinador General, éstas serán cubiertas por el servidor público que expresamente designe la Junta Directiva.
+Para el caso de las ausencias del Coordinador General por más de quince días hábiles, se deberá observar lo dispuesto por la Ley Orgánica de la Administración Pública del Estado.
 
-## TÍTULO CUARTO. DE LA OPERACIÓN Y CONTROL
+En los casos de ausencias temporales por más de quince días hábiles del Coordinador Adjunto, Directores y el Subdirector de Asuntos Jurídicos, el Coordinador General podrá autorizar por escrito a los servidores públicos subalternos para que realicen en ausencia del Titular las atribuciones que correspondan.
 
-### CAPÍTULO I. DEL DESARROLLO Y OPERACIÓN
+## TÍTULO CUARTO
 
-### CAPÍTULO II. DEL CONTROL Y EVALUACIÓN
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPÍTULO I
+
+### CAPÍTULO II
 
 ## TÍTULO QUINTO. DE LAS SUPLENCIAS
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2013)</small>
 
 ## TRANSITORIOS
 
@@ -550,3 +688,11 @@ TERCERO.- Las aprobaciones de la Junta Directiva que prevé el artículo Décimo
 CUARTO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los veinticuatro días del mes de junio de 2011.- "Sufragio Efectivo. No Reelección".- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.- El Coordinador General de la Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos.- C. MIGUEL HAKIM SIMÓN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día hábil siguiente de su publicación.
+
+SEGUNDO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
