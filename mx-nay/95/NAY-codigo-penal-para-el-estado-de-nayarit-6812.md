@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2013-07-02"
+last_updated: "2013-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2013.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -2859,9 +2859,9 @@ I.- Al particular que ilegítimamente prive a otro de su libertad personal;
 
 II.- Al que obligue a otro a prestarle trabajo o servicios personales sin la retribución debida, ya sea empleando violencia física o moral, o valiéndose del engaño o de cualquier otro medio semejante;
 
-III.- Al particular que por medio de la violencia obligue ilegítimamente a una persona a tolerar, hacer u omitir alguna cosa; y,
+III.- Al particular que por medio de la violencia obligue ilegítimamente a una persona a tolerar, hacer u omitir alguna cosa; y (sic),
 
-IV.- Al que de alguna manera viole, con perjuicio de otro, los derechos establecidos por la Constitución General de la República o por la Constitución del Estado, en favor de las personas.
+IV.- (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2013)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JULIO DE 2011)</small>
 
@@ -4430,3 +4430,7 @@ P.O. 13 DE MARZO DE 2013.
 P.O. 2 DE JULIO DE 2013.
 
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 4 DE SEPTIEMBRE DE 2013.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
