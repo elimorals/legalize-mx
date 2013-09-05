@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-sonorense-de-la-juventud-2195
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-09"
-last_updated: "2001-08-09"
+last_updated: "2013-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE LA JUVENTUD, PUBLICADO EN EL B.O. DE 5 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 9 de agosto de 2001.
 
@@ -570,3 +572,19 @@ DE LA
 JUVENTUD
 
 LA JUNTA DE GOBIERNO.- SECRETARÍA DE EDUCACIÓN Y CULTURA VICEPRESIDENTE SUPLENTE.- PROFR. JOAQUÍN ENRÍQUEZ FLORES.- RÚBRICA.- SECRETARÍA DE GOBIERNO VOCAL- SUPLENTE.- ING. MARTÍN VALENZUELA RIVERA.- RÚBRICA.- SECRETARÍA DE FINANZAS VOCAL- SUPLENTE.- C.P. SERGIO DUARTE ESCOBOZA.- RÚBRICA.- SECRETARÍA DE PLANEACIÓN DEL DESARROLLO Y GASTO PÚBLICO VOCAL- SUPLENTE.- LIC. JORGE VILLAESCUSA CELAYA.- SIN RÚBRICA.- SECRETARÍA DE INFRAESTRUCTURA URBANA Y ECOLOGÍA VOCAL- SUPLENTE.- LIC. CIDONIO MEDINA DUARTE.- RÚBRICA.- SISTEMA PARA EL DESARROLLO ESTATAL DE LA FAMILIA VOCAL- SUPLENTE.- LIC. CESAR AUGUSTO MARCOR RAMÍREZ.- RÚBRICA.- INSTITUTO SONORENSE DE LA MUJER VOCAL- SUPLENTE ING. KARLA MARÍA APODACA IBARRA.- RÚBRICA.- INSTITUTO SONORENSE DE CULTURA VOCAL- SUPLENTE.- LIC. SERGIO CUELLAR URREA.- RÚBRICA.- COMISIÓN DEL DEPORTE DEL ESTADO DE SONORA VOCAL- SUPLENTE.- RÚBRICA.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 5 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto Sonorense de la Juventud, publicado en el Boletín Oficial del Gobierno del Estado, número 12, Sección II, de fecha 9 de agosto de 2001.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de Organización y de Procedimientos deberán expedirse dentro de sesenta días posteriores a la publicación del presente Reglamento Interior. El Director General del Instituto queda facultado para resolver las cuestiones relacionadas con las materias de dichos manuales que se presenten mientras éstos se expidan.
