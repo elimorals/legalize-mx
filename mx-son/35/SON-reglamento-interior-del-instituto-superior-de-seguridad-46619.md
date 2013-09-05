@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-superior-de-seguridad-46619"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-03"
-last_updated: "2005-10-03"
+last_updated: "2013-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO SUPERIOR DE SEGURIDAD PUBLICA DEL ESTADO
 
-REGLAMENTO INTERIOR DEL INSTITUTO SUPERIOR DE SEGURIDAD PUBLICA DEL ESTADO
+REGLAMENTO INTERIOR DEL INSTITUTO SUPERIOR DE SEGURIDAD PÚBLICA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO SUPERIOR DE SEGURIDAD PÚBLICA DEL ESTADO, PUBLICADO EN EL B.O. DE 5 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado de Sonora, el lunes 3 de octubre de 2005.
 
@@ -41,7 +43,7 @@ El Instituto Superior de Seguridad Pública del Estado es un organismo público 
 
 Para los efectos de este Reglamento se entenderá por:
 
-l. Ley: La Ley de Seguridad Pública para el Estado de Sonora;
+I. Ley: La Ley de Seguridad Pública para el Estado de Sonora;
 
 II. Instituto: El Instituto Superior de Seguridad Pública del Estado; (sic)
 
@@ -93,7 +95,7 @@ El Consejo Directivo evaluará la forma en que los objetivos serán alcanzados y
 
 Corresponde al Consejo Directivo:
 
-l. Establecer las políticas generales del Instituto y dictar los acuerdos necesarios para cumplir con sus objetivos eficazmente;
+I. Establecer las políticas generales del Instituto y dictar los acuerdos necesarios para cumplir con sus objetivos eficazmente;
 
 II. Autorizar el presupuesto anual de egresos del Instituto y vigilar su ejercicio;
 
@@ -129,7 +131,7 @@ Para la celebración de las sesiones del Consejo Directivo, se deberá emitir co
 
 El Presidente del Consejo Directivo tendrá a su cargo las siguientes funciones:
 
-l. Instalar, presidir y clausurar las sesiones, y en caso de empate, emitir voto de calidad;
+I. Instalar, presidir y clausurar las sesiones, y en caso de empate, emitir voto de calidad;
 
 II. Convocar a sesiones ordinarias y extraordinarias cuando lo considere necesario;
 
@@ -241,7 +243,7 @@ El Patronato es un órgano de apoyo del Instituto que tendrá como finalidad apo
 
 El Patronato estará integrado por:
 
-l. El Director General del Instituto;
+I. El Director General del Instituto;
 
 II. Los representantes de los sectores social y privado del Consejo Directivo del Instituto;
 
@@ -279,7 +281,7 @@ La convocatoria para reuniones ordinarias o extraordinarias del Patronato se aco
 
 Las sesiones se desarrollarán en el siguiente orden:
 
-l. Lista de asistencia y declaratoria relativa al quórum;
+I. Lista de asistencia y declaratoria relativa al quórum;
 
 II. Instalación legal de la reunión;
 
@@ -353,7 +355,7 @@ XII. Desempeñar las demás atribuciones que les confieran las distintas disposi
 
 Corresponde a la Dirección de Investigación y Desarrollo Académico las siguientes atribuciones:
 
-l. Diseñar y someter a la consideración del Director General los programas académicos del Instituto de docencia, investigación y extensión;
+I. Diseñar y someter a la consideración del Director General los programas académicos del Instituto de docencia, investigación y extensión;
 
 II. Coordinar y evaluar las actividades de los Departamentos adscritos a la Dirección, de acuerdo a las instrucciones del Director General;
 
@@ -471,7 +473,7 @@ VIII. Las demás que le señalen otros ordenamientos jurídicos y las que le enc
 
 Corresponden a la Unidad Jurídica las siguientes atribuciones:
 
-l. Dar asesoría y apoyo técnico necesario al Director General, en todos aquellos asuntos de carácter jurídico que éste le encomiende;
+I. Dar asesoría y apoyo técnico necesario al Director General, en todos aquellos asuntos de carácter jurídico que éste le encomiende;
 
 II. Emitir dictámenes u opiniones respecto de las consultas que en materia jurídica formulen las Unidades Administrativas del Instituto;
 
@@ -571,7 +573,7 @@ Dado en la Ciudad de Hermosillo, Sonora, a los 31 días del mes de Agosto de 200
 
 CONSEJO DIRECTIVO
 
-EL VICEPRESIDENTE, LIC. HORACIO VALENZUELA IBARRA, SECRETARIO EJECUTIVO DE SEGURIDAD, EN SUSTITUCIÓN DEL ING. EDUARDO BOURS CASTELO, GOBERNADOR DEL ESTADO Y PRESIDENTE DEL CONSEJO DIRECTIVO. RÚBRICA. VOCAL, LIC. ANDRÉS MIRANDA GUERRERO, SUBPROCURADOR GENERAL DE JUSTICIA DEL ESTADO, EN REPRESENTACIÓN Y SUPLENCIA DEL LIC. ABEL MURRIETA GUTIÉRREZ, PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, RÚBRICA. VOCAL, ING. EDMUNDO BEJARANO MAYA, COORDINADOR GENERAL DEL SllAF DE LA SECRETARÍA DE HACIENDA, EN REPRESENTACIÓN Y SUPLENCIA DEL LIC. GUILLERMO HOPKINS GÁMEZ, RÚBRICA. VOCAL, LIC. HORACIO SORIA SALAZAR, SECRETARIO DE EDUCACIÓN Y CULTURA, RÚBRICA. VOCAL, CMDTE. JESÚS NAVARRO SALAS, SECRETARIO DE SEGURIDAD PÚBLICA MUNICIPAL DE CAJEME, EN REPRESENTACIÓN Y SUPLENCIA DEL C. JESÚS FÉLIX HOLGUÍN, PRESIDENTE MUNICIPAL DE CAJEME, SONORA, RÚBRICA. VOCAL, LIC. ILIANA RODRÍGUEZ OSUNA, ASESORA JURÍDICA DEL PRESIDENTE DE EMPALME, EN HERMOSILLO, EN REPRESENTACIÓN Y SUPLENCIA DEL ING. JUAN MANUEL SAUCEDA MORALES, PRESIDENTE MUNICIPAL DE EMPALME, SONORA, RÚBRICA. VOCAL, DR. MIGUEL ÁNGEL SOTO LAMADRID, REPRESENTANTE DEL SECTOR SOCIAL, RÚBRICA. VOCAL, LIC. JOSÉ COPPEL LUKEN, REPRESENTANTE DEL SECTOR PRIVADO, RÚBRICA. SECRETARIO, ING. HUMBERTO LÓPEZ FAVELA, DIRECTOR GENERAL DEL INSTITUTO SUPERIOR DE SEGURIDAD PÚBLICA DEL ESTADO, RÚBRICA.
+EL VICEPRESIDENTE, LIC. HORACIO VALENZUELA IBARRA, SECRETARIO EJECUTIVO DE SEGURIDAD, EN SUSTITUCIÓN DEL ING. EDUARDO BOURS CASTELO, GOBERNADOR DEL ESTADO Y PRESIDENTE DEL CONSEJO DIRECTIVO. RÚBRICA. VOCAL, LIC. ANDRÉS MIRANDA GUERRERO, SUBPROCURADOR GENERAL DE JUSTICIA DEL ESTADO, EN REPRESENTACIÓN Y SUPLENCIA DEL LIC. ABEL MURRIETA GUTIÉRREZ, PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, RÚBRICA. VOCAL, ING. EDMUNDO BEJARANO MAYA, COORDINADOR GENERAL DEL SIIAF DE LA SECRETARÍA DE HACIENDA, EN REPRESENTACIÓN Y SUPLENCIA DEL LIC. GUILLERMO HOPKINS GÁMEZ, RÚBRICA. VOCAL, LIC. HORACIO SORIA SALAZAR, SECRETARIO DE EDUCACIÓN Y CULTURA, RÚBRICA. VOCAL, CMDTE. JESÚS NAVARRO SALAS, SECRETARIO DE SEGURIDAD PÚBLICA MUNICIPAL DE CAJEME, EN REPRESENTACIÓN Y SUPLENCIA DEL C. JESÚS FÉLIX HOLGUÍN, PRESIDENTE MUNICIPAL DE CAJEME, SONORA, RÚBRICA. VOCAL, LIC. ILIANA RODRÍGUEZ OSUNA, ASESORA JURÍDICA DEL PRESIDENTE DE EMPALME, EN HERMOSILLO, EN REPRESENTACIÓN Y SUPLENCIA DEL ING. JUAN MANUEL SAUCEDA MORALES, PRESIDENTE MUNICIPAL DE EMPALME, SONORA, RÚBRICA. VOCAL, DR. MIGUEL ÁNGEL SOTO LAMADRID, REPRESENTANTE DEL SECTOR SOCIAL, RÚBRICA. VOCAL, LIC. JOSÉ COPPEL LUKEN, REPRESENTANTE DEL SECTOR PRIVADO, RÚBRICA. SECRETARIO, ING. HUMBERTO LÓPEZ FAVELA, DIRECTOR GENERAL DEL INSTITUTO SUPERIOR DE SEGURIDAD PÚBLICA DEL ESTADO, RÚBRICA.
 
 INSTITUTO SUPERIOR DE SEGURIDAD PÚBLICA DEL ESTADO
 
@@ -604,3 +606,19 @@ INVESTIGACION Y PROGRAMACION,
 DESARROLLO ORGANIZACION Y
 
 ACADEMICO PRESUPUESTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 5 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto Superior de Seguridad Pública del Estado publicado en el Boletín Oficial No. 27, Sección III, del 3 de octubre de 2005.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público deberán expedirse dentro de los sesenta días posteriores a la publicación del presente Reglamento Interior. Asimismo el Director General queda facultado para resolver las cuestiones que en relación con dichos manuales se presenten en tanto éstos se expiden.
