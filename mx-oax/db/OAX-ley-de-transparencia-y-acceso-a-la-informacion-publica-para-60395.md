@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-603
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-15"
-last_updated: "2012-11-23"
+last_updated: "2013-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60395&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de marzo de 2008.
 
@@ -289,7 +289,13 @@ XVIII. Los informes que, por disposición legal, generen los sujetos obligados;
 
 XIX. En su caso, los mecanismos de participación ciudadana de que dispongan; y
 
-XX. Cualquier otra información que sea de utilidad o se considere relevante, además de la que con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+XX. La Cuenta Pública del Estado, los informes trimestrales y los demás informes a que aluden la Ley General de Contabilidad Gubernamental, la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables; y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+XXI. Cualquier otra información que sea de utilidad o se considere relevante, además de la que con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público.
 
 La información a que se refiere este artículo deberá publicarse de tal forma que facilite su uso y comprensión por las personas, y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad. Los sujetos obligados deberán atender las recomendaciones que al respecto expida el Instituto.
 
@@ -1254,3 +1260,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 23 DE NOVIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+PRIMERO .- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor rango, que se opongan al presente Decreto.
