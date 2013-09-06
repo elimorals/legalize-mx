@@ -4,7 +4,7 @@ identifier: "ROO-codigo-procesal-penal-para-el-estado-libre-y-soberano-de-86729"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-02-17"
-last_updated: "2012-02-17"
+last_updated: "2013-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 CÓDIGO PROCESAL PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE EL ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO NÚMERO 065 PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2012, EL CUAL SEÑALA QUE ENTRARÁ EN VIGOR DE MANERA PROGRESIVA, EL 15 DE OCTUBRE DEL AÑO DOS MIL TRECE, EN EL DISTRITO JUDICIAL DE CHETUMAL, DE ACUERDO CON LA "DECLARATORIA DE QUE EL SISTEMA PENAL ACUSATORIO ADVERSAL Y ORAL HA SIDO INCORPORADO EN EL ESTADO DE QUINTANA ROO" Y EN LOS DEMÁS DISTRITOS JUDICIALES CONFORME A LAS FECHAS QUE CONTENDRÁ LA DECLARATORIA SEÑALADA.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE EL ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO NÚMERO 065 PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2012 Y REFORMADO POR DECRETO NÚMERO 309 PUBLICADO EN EL P.O. DE 6 DE SEPTIEMBRE DE 2013, EL CUAL SEÑALA QUE ENTRARÁ EN VIGOR DE MANERA PROGRESIVA, EL 10 DE JUNIO DEL AÑO DOS MIL CATORCE, EN EL DISTRITO JUDICIAL DE CHETUMAL, DE ACUERDO CON LA "DECLARATORIA DE QUE EL SISTEMA PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL ESTADO DE QUINTANA ROO" Y EN LOS DEMÁS DISTRITOS JUDICIALES CONFORME A LAS FECHAS QUE CONTENDRÁ LA DECLARATORIA SEÑALADA.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
 
 Código publicado en el Número 5 Extraordinario Bis del Periódico Oficial del Estado de Quintana Roo, el viernes 17 de febrero de 2012.
 
@@ -5483,7 +5483,9 @@ PRIMERO. Entrada en vigor
 
 El Código Procesal Penal del Estado de Quintana Roo, contenido en el presente decreto entrará en vigor de manera progresiva, previa su publicación en el Periódico Oficial del Estado, según las siguientes prevenciones:
 
-I. Sus disposiciones se aplicarán el quince de octubre del año dos mil trece, en el Distrito Judicial de Chetumal, de acuerdo a la "Declaratoria de que el Sistema Procesal Penal Acusatorio Adversarial y Oral ha sido incorporado en el Estado de Quintana Roo", misma que deberá ser emitida por el Congreso del Estado, a solicitud expresa del Poder Judicial del Estado. Esta declaratoria deberá ser publicada en el Periódico Oficial del Estado de Quintana Roo.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+I. Sus disposiciones se aplicarán el diez de junio del año dos mil catorce, en el Distrito Judicial de Chetumal, de acuerdo a la "Declaratoria de que el Sistema Procesal Penal Acusatorio Adversarial y Oral ha sido incorporado en el Estado de Quintana Roo", misma que deberá ser emitida por el Congreso del Estado, a solicitud expresa del Poder Judicial del Estado de Quintana Roo. Esta declaratoria deberá ser publicada en el Periódico Oficial del Estado de Quintana Roo.
 
 II. En los demás distritos judiciales que conforman la jurisdicción de la entidad, sus disposiciones se aplicarán en las fechas que contendrá la Declaratoria señalada en la fracción anterior.
 
@@ -5566,3 +5568,11 @@ ARQ. LUIS ALBERTO GONZÁLEZ FLORES
 EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 
 LIC. GASPAR ARMANDO GARCÍA TORRES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
