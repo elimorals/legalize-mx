@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-mediante-el-cual-se-aprueban-los-lineamientos-en-72770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-02-15"
-last_updated: "2011-12-16"
+last_updated: "2013-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72770&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-01-28"
 
 ACUERDO MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS EN MATERIA DE RACIONALIDAD, AUSTERIDAD Y DISCIPLINA PRESUPUESTAL DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE SEPTIEMBRE DE 2013.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el lunes 15 de febrero de 2010.
 
@@ -272,9 +272,11 @@ El incremento anual en estas tarifas no podrá ser mayor a la tasa de inflación
 
 Las comisiones nacionales cuyos gastos sean pagados por el Instituto serán atendidas sólo por un servidor público del Instituto siempre y cuando tenga alguna actividad a desarrollar en el evento de que se trate. Únicamente en los eventos de la Conferencia Mexicana de Acceso a la Información Pública (COMAIP) podrán participar hasta tres Comisionados, siempre y cuando cada uno de ellos tenga alguna actividad específica a desarrollar en el evento. Estas comisiones deberán guardar estrecha relación con el cumplimiento de los objetivos y programas institucionales.
 
+> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 22.
 
-En el caso de las comisiones internacionales cuyos gastos sean pagados por el Instituto, cada Comisionado Ciudadano podrá participar en una comisión por año como máximo. Las comisiones internacionales se realizarán de conformidad con las necesidades institucionales y con base en la suficiencia presupuestal.
+En el caso de las comisiones internacionales cuyos gastos sean pagados por el Instituto, cada Comisionado Ciudadano podrá participar de conformidad con las necesidades institucionales y con base en la suficiencia presupuestal.
 
 Estas comisiones deberán guardar estrecha relación con el cumplimiento de los objetivos y programas institucionales.
 
@@ -379,3 +381,7 @@ Responsable de la Publicación
 G.O. 16 DE DICIEMBRE DE 2011.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+
+G.O. 6 DE SEPTIEMBRE DE 2013.
+
+Transitorio Único.- Publíquese en la Gaceta Oficial del Distrito Federal.
