@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-conservacion-y-restauracion-del-11909"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-10"
-last_updated: "1995-11-10"
+last_updated: "2013-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "ROO"
 ---
 # LEY DE PROTECCION, CONSERVACION Y RESTAURACION DEL PATRIMONIO HISTORICO, CULTURAL Y ARTISTICO DEL ESTADO DE QUINTANA ROO
 
-LEY DE PROTECCION, CONSERVACION Y RESTAURACION DEL PATRIMONIO HISTORICO, CULTURAL Y ARTISTICO DEL ESTADO DE QUINTANA ROO
+LEY DE PROTECCIÓN, CONSERVACIÓN Y RESTAURACIÓN DEL PATRIMONIO HISTÓRICO, CULTURAL Y ARTÍSTICO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 6 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
 
-Ley publicada en el Periódico Oficial el 10 de Noviembre de 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013 (ABROGADA).
+
+Ley publicada en la Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 10 de noviembre de 1995.
 
 DECRETO NUMERO 127 POR EL QUE SE APRUEBA LA LEY DE PROTECCION, CONSERVACION Y RESTAURACION DEL PATRIMONIO HISTORICO, CULTURAL Y ARTISTICO DEL ESTADO DE QUINTANA ROO.
 
@@ -256,3 +258,23 @@ C. ING. RAFAEL LARA Y LARA
 EL C. SECRETARIO DE EDUCACION Y CULTURA
 
 C. PROFR. ALFREDO DIAZ JIMENEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de esta Ley, queda abrogada la Ley de Preservación, Conservación y Restauración del Patrimonio Histórico, Cultural y Artístico, publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el día 10 de Noviembre de 1995.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor de esta ley quedan derogadas todas las disposiciones de igual o menor rango que se opongan al contenido de la misma.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Ejecutivo, en un plazo no mayor a 180 días hábiles contados a partir de la entrada en vigor de esta Ley, deberá expedir el Reglamento de la Ley de Patrimonio Cultural del Estado de Quintana Roo.
