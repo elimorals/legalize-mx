@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2013-04-30"
+last_updated: "2013-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -786,6 +786,10 @@ g) Mantener los servicios de seguridad pública, policía preventiva y tránsito
 h) Expedir el reglamento que establezca las condiciones a que se deberán someter las concesiones de servicios públicos y determinar cuáles de ellos no podrán ser sujetos de concesión a particulares;
 
 i) Decretar la cancelación de las concesiones de servicios públicos que hayan otorgado a particulares de conformidad con el reglamento de la materia;
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+j) Prever las disposiciones necesarias para implementar la conexión gratuita a internet en los parques urbanos.
 
 IV. En Materia de Hacienda Pública Municipal:
 
@@ -3004,3 +3008,11 @@ TERCERO.- El Tribunal Electoral, el Instituto Electoral, el Instituto de Transpa
 P.O. 30 DE ABRIL DE 2013.
 
 Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Para la implementación del presente Decreto deberán considerarse las previsiones presupuestales respectivas en los Presupuestos de Egresos para el ejercicio fiscal 2014 de las instancias obligadas a cumplir con lo establecido en el presente decreto.
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
