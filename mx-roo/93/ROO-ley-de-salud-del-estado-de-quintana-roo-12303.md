@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2013-06-14"
+last_updated: "2013-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -133,11 +133,15 @@ XIX.- Participar con las autoridades federales, estatales, municipales y con los
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
-XX.- La prevención del consumo de narcóticos, atención a las adicciones y persecución de los delitos contra la salud, en los términos del artículo 474 de la Ley General de Salud, y
+XX.- La prevención del consumo de narcóticos, atención a las adicciones y persecución de los delitos contra la salud, en los términos del artículo 474 de la Ley General de Salud, y (sic)
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
 XXI.- Las demás que establezca la Ley General de Salud, sus Reglamentos, acuerdos de coordinación y/o colaboración y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+XXII. El tratamiento integral del dolor.
 
 B.- En materia de Salubridad Local:
 
@@ -249,9 +253,17 @@ XIII.- Coadyuvar a que la formación y distribución de los recursos humanos par
 
 XIV.- Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud;
 
-XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
+XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud; y (sic)
 
-XVI.- Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+XVI. Coordinar y gestionar la obtención de recursos nacionales e internacionales para el fortalecimiento del Fondo Estatal de Salud y de los programas de salud locales;
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+XVII. Proponer, elaborar y suscribir acuerdos o convenios para la obtención de recursos nacionales e internacionales para el fortalecimiento del Fondo Estatal de Salud y los programas de salud locales, y
+
+XVIII.- Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 ###### ARTICULO 9o.
 
@@ -351,6 +363,20 @@ I. Promover y llevar a cabo campañas permanentes de información y orientación
 
 II. Proporcionar información y brindar la atención médica y los tratamientos que se requieran a las personas que consuman estupefacientes y psicotrópicos.
 
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+III. En la prevención y tratamiento de la farmacodependencia se deberá contemplar para la superación:
+
+a) Fortalecer la responsabilidad social, la autogestión y el auto cuidado de la salud, fomentando la conformación de estilos de vida y entornos saludables que permitan desarrollar el potencial de cada persona, propiciando condiciones que eleven la calidad de vida de las familias y de las comunidades;
+
+b) Identificar a las comunidades terapéuticas, para la rehabilitación de farmacodependientes, en la que sin necesidad de internamiento, se pueda hacer posible la reinserción social, a través del apoyo mutuo, y
+
+c) Reconocer la importancia de los diversos grupos, asociaciones civiles, organismos no gubernamentales, que ofrecen servicios gratuitos en apoyo a los farmacodependientes en recuperación, con base en experiencias vivenciales compartidas entre los miembros del grupo, para lograr la abstinencia en el uso de narcóticos.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 13 TER.- Le corresponde a la Secretaría de Salud del Estado en coordinación con las autoridades de seguridad pública ejercer las acciones relativas a la orientación y tratamiento de la farmacodependencia en términos del artículo 193 bis de la Ley General de Salud.
+
 ###### ARTICULO 14.
 
 El Ejecutivo Estatal podrá convenir con los Ayuntamientos, con la asesoría de la Secretaria de Salud del Gobierno Federal, la desconcentración o descentralización, en su caso, por parte de éstos, de la prestación de los servicios de Salubridad General concurrente y de Salubridad Local, cuando su desarrollo económico y social lo haga necesario.
@@ -421,15 +447,75 @@ Para los efectos del Artículo anterior, el Gobierno del Estado y el Ejecutivo F
 
 El Organismo Público Descentralizado mencionado en el artículo anterior aplicará en el ámbito Estatal la Legislación Sanitaria Federal y Estatal en términos de su Decreto de Creación y de los Acuerdos de Coordinación que al respecto suscriba el Gobierno del Estado con el Ejecutivo Federal.
 
-> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO III. DEL CONSEJO CONSULTIVO DE SALUD
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 24-A.
+
+El sistema contará con un Consejo Consultivo de Salud, el cual se integra de la siguiente manera:
+
+I. El Secretario de Salud del Gobierno del Estado, quien lo presidirá;
+
+II. El Presidente de la Comisión de Salud y Asistencia Social del Congreso del Estado;
+
+III. El Secretario de Hacienda;
+
+IV. El Secretario de Desarrollo Social;
+
+V. El Director General del Sistema Estatal para el Desarrollo Integral de la Familia;
+
+VI. El Presidente del Colegio de Médicos del Estado de Quintana Roo, y
+
+VII. El Director de la División de Ciencias de la Salud de la Universidad de Quintana Roo.
+
+Para ser Consejero se debe estar en pleno goce de sus derechos civiles y políticos.
+
+El Presidente del Consejo puede invitar a las sesiones a los representantes de las unidades médicas públicas y privadas, de los colegios de profesionales de la salud y de especialistas en materia de salud o que éste considere tengan injerencia con el objeto del Consejo.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 24-B.
+
+Los miembros enunciados en el artículo anterior participan dentro del Consejo Consultivo con voz y voto. El Secretario de Salud del Gobierno del Estado tiene voto de calidad en caso de empate.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 24-C.
+
+Los cargos de los Consejeros serán honoríficos y por su desempeño no se percibirá retribución, emolumento o compensación alguna.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 24-D.
+
+El Consejo Consultivo debe sesionar en forma ordinaria dos veces al año y de manera extraordinaria cuando haya asuntos urgentes que tratar.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 24-E.
+
+El Consejo Consultivo tiene las siguientes atribuciones:
+
+I. Participar y emitir opiniones para la formulación de las políticas públicas en materia de salud;
+
+II. Proponer líneas de acción y estrategias para el fortalecimiento y consolidación del Sistema Estatal de Salud;
+
+III. Analizar, evaluar y emitir su opinión sobre planes, programas y proyectos del Sector Salud en el Estado;
+
+IV. Promover y establecer mecanismos de coordinación en materia de servicios de salud, y
+
+V. Las demás que se establezcan en la presente Ley.
+
+> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
 ## TITULO TERCERO. PRESTACION DE LOS SERVICIOS DE SALUD
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO II. ATENCION MEDICA
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 25.
 
@@ -461,7 +547,9 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria; de las no transmisibles más frecuentes y de los accidentes;
 
-III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+III.- La atención médica integral, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias;
 
 IV.- La atención materno infantil;
 
@@ -493,7 +581,7 @@ II.- Que los establecimientos de los sectores público, social y privado dedicad
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO III. PRESTADORES DE SERVICIOS DE SALUD
+### CAPITULO II. ATENCION MEDICA
 
 ###### ARTICULO 32.
 
@@ -505,17 +593,19 @@ Las actividades de atención médica son:
 
 I.- Preventivas, que incluyen las de promoción general y las de protección específica;
 
-II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno, y
+II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno, y (sic)
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
 
 III.- De rehabilitación, que incluye acciones tendientes a facilitar que una persona con discapacidad alcance un nivel físico, mental y sensorial óptimo para compensar la pérdida de una función, así como proporcionarle una mejor integración social.
 
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
+
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO IV
-
-USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACION DE LA COMUNIDAD.
+### CAPITULO III. PRESTADORES DE SERVICIOS DE SALUD
 
 ###### ARTICULO 34.
 
@@ -569,7 +659,9 @@ La Secretaría de Salud del Gobierno del Estado, en el ámbito de su competencia
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO V. ATENCION MATERNO-INFANTIL
+### CAPITULO IV
+
+USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACION DE LA COMUNIDAD.
 
 ###### ARTICULO 43.
 
@@ -649,17 +741,27 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO VI. SERVICIOS DE PLANIFICACION FAMILIAR
+### CAPITULO V. ATENCION MATERNO-INFANTIL
 
 ###### ARTICULO 56.
 
 La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna, y
+I.- La atención integral y tratamiento técnico profesional a la mujer, durante el embarazo, parto, puerperio y lactancia;
+
+II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna, y (sic)
 
 III.- La promoción de la integración y del bienestar familiar.
+
+ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)
+
+IV. La información a la mujer embarazada, sobre la infección por el Virus de la Inmunodeficiencia Humana (VIH), haciendo de su conocimiento las ventajas de una detección oportuna, y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+V. La atención médica de las mujeres embarazadas y de las niñas y los niños que viven con VIH.
 
 ###### ARTICULO 57.
 
@@ -699,11 +801,81 @@ En materia de higiene escolar, corresponde al Gobierno del Estado, establecer la
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las Autoridades Sanitarias Estatales y Educativas competentes.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPITULO VI BIS (SIC). ATENCION INTEGRAL DE LA SALUD DE LA MUJER
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+#### SECCION PRIMERA. DE LA ATENCION INTEGRAL DE LA SALUD DE LA MUJER
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 61-A.
+
+La Secretaría de Salud del Gobierno del Estado debe elaborar, de manera anual, un programa para otorgar el servicio integral de salud a la mujer.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 61-B.
+
+El Programa de Atención Integral de la Mujer es el instrumento rector que regula las acciones en torno a la atención de los problemas de salud específicos de la mujer, mismo que deberá contener los siguientes apartados:
+
+I. El diagnóstico situacional de las necesidades en materia de salud de las mujeres en el estado;
+
+II. El análisis integral que contenga las estadísticas respecto de las enfermedades que más inciden en la salud de la mujer, y
+
+III. Un plan de trabajo que establezca acciones, plazos y zonas de competencia para el cumplimiento de los objetivos del Programa de Atención Integral de la Salud de la Mujer.
+
+La Secretaría de Salud del Gobierno del Estado será la encargada de la difusión del Programa de Atención Integral de la Mujer en el Estado.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+#### SECCION SEGUNDA. DE LA PREVENCION, DETECCIÓN Y ATENCIÓN DEL CÁNCER EN LA MUJER
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 61-C.
+
+Es obligación del Estado, a través de la Secretaría de Salud del Gobierno del Estado, establecer las acciones específicas y programas de prevención, detección y atención del cáncer en la mujer, de manera integral y multidisciplinaria.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 61-D.
+
+Las acciones y programas que emprenda la Secretaría de Salud del Gobierno del Estado, deben estar primordialmente enfocadas en los cánceres cervicouterino, de mama, endometrio y de ovario en la mujer.
+
+Además se debe:
+
+I. Difundir la importancia que amerita la práctica constante y periódica de las pruebas para la prevención y detección del cáncer cérvicouterino;
+
+II. Difundir la importancia que amerita la práctica periódica del examen clínico de mama;
+
+III. Capacitar a los prestadores de servicios de salud público y privado para la orientación de sus pacientes respecto a la detección temprana del cáncer cérvicouterino y de mama, y
+
+IV.- Difundir en los diversos centros educativos del Estado las medidas de prevención del cáncer en la mujer.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 61-E.
+
+En los programas de prevención, detección y atención del cáncer en la mujer se debe cumplir con las Normas Oficiales Mexicanas en la materia y los estándares de calidad y eficiencia de acuerdo a las normas establecidas.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 61-F.
+
+La Secretaría de Salud del Gobierno del Estado debe disponer de la infraestructura, equipo de vanguardia, recursos humanos y financieros para garantizar la correcta prevención, atención y detección de los casos de cáncer diagnosticados en la mujer.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 61-G.
+
+La prevención, detección y atención del cáncer en la mujer debe ser de carácter integral y multidisciplinaria para disminuir la morbimortalidad por esta enfermedad entre las mujeres.
+
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO VII. SALUD MENTAL
-
-### CAPITULO I. PROFESIONALES TECNICOS Y AUXILIARES
+### CAPITULO VI. SERVICIOS DE PLANIFICACION FAMILIAR
 
 ###### ARTICULO 62.
 
@@ -717,13 +889,19 @@ Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presi�
 
 Los servicios de planificación familiar comprenden:
 
-I.- La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, con base en los contenidos y estrategias que establezcan el Consejo Nacional de Población;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-Il.- La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar;
+I.- La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar, educación sexual y prevención de la infección por VIH y otras infecciones de transmisión sexual, con base en los contenidos y estrategias que establezcan el Consejo Nacional de Población;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+II.- La promoción del respeto a la elección libre e informada de los métodos anticonceptivos modernos, seguros y efectivos, de calidad y costo accesible;
 
 III.- La asesoría para la prestación de servicios de planificación familiar a cargo de los sectores públicos, social y privado y la supervisión y evaluación en su ejecución, de acuerdo con la política establecida por el Consejo Nacional de Población.
 
-IV.- El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la reproducción humana;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- La atención para la prevención de problemas de infertilidad, infecciones de transmisión sexual, cáncer cérvicouterino, mamario y prostático.
 
 V.- La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar, y
 
@@ -733,29 +911,55 @@ VI.- La recopilación, sistematización y actualización de la información nece
 
 Los Comités de Salud a que se refiere el Artículo 53 de esta Ley, promoverán que en las poblaciones y comunidades semi-urbanas y rurales en el Estado se impartan pláticas de orientación en materia de planificación familiar y educación sexual, las instituciones de salud y educativas brindarán al efecto el apoyo necesario.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+En materia de planificación familiar, las acciones de información y orientación educativa en las comunidades indígenas, deberán llevarse a cabo en español y en la lengua o lenguas indígenas en uso en la región o comunidad de que se trate.
+
 ###### ARTICULO 65.
 
 El Gobierno del Estado, coadyuvará con la Secretaría de Salud del Ejecutivo Federal, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional y del Programa de Planificación Familiar del Sector Salud y cuidará que se incorporen en los programas estatales de salud.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+### CAPITULO VII. SALUD MENTAL
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 66.
 
-La prevención de las enfermedades mentales tienen carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+La prevención de las enfermedades mentales tiene carácter prioritario. Se basa en el conocimiento de los factores de riesgo que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 67.
 
-Para la promoción de la salud mental, la Secretaría de Salud del Gobierno del Estado y las instituciones de salud en coordinación con las autoridades competentes de cada materia, fomentarán y apoyarán:
+Para la promoción de la salud mental, la Secretaría de Salud del Gobierno del Estado y las instituciones de salud en coordinación con las autoridades federales, estatales y municipales competentes en la materia, fomentarán y apoyarán:
 
 I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
-III.- La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencias, y
+III.- La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencias, y (sic)
 
-IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+IV. La implementación de programas para la prevención del suicidio, y
+
+V.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 67-A.
+
+La Secretaría de Salud del Gobierno del Estado formulará el Programa Estatal contra el Suicidio, el cual contendrá la política pública para prevenir el problema social del suicidio y desarrollará lo siguiente:
+
+I. Elaboración de información científica sobre las causas del suicidio y su dinámica en el Estado;
+
+II. Establecer y difundir ampliamente líneas de comunicación de contacto directo, atendidas por especialistas, para asistencia a víctimas potenciales y recibir denuncias preventivas de terceros;
+
+III. Formular recomendaciones a las autoridades de los municipios a fin de capacitar a los comerciantes de objetos comúnmente utilizados para auto infringirse lesiones con el propósito de identificar a suicidas potenciales y dar aviso a las autoridades sanitarias, y
+
+IV. Coordinación con la Secretaría de Educación del Estado, para integrar información sobre posibles casos de depresión detectados en las escuelas.
 
 ###### ARTICULO 68.
 
@@ -785,7 +989,7 @@ A estos efectos, se establecerá la coordinación necesaria entre las Autoridade
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
+### CAPITULO I. PROFESIONALES TECNICOS Y AUXILIARES
 
 ###### ARTICULO 71.
 
@@ -815,7 +1019,7 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las espe
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO UNICO
+### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### ARTICULO 75.
 
@@ -843,9 +1047,7 @@ El Gobierno del Estado y con la participación de las instituciones de educació
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
 
 ###### ARTICULO 80.
 
@@ -865,9 +1067,13 @@ III.- Promover al personal formado en el área de la salud pública, a través d
 
 IV.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros;
 
-V.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de salud en actividades docentes o técnicas; y
+V.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de salud en actividades docentes o técnicas; y (sic)
 
 VI.- Autorizar en los lugares del Estado donde no existan profesionales o técnicos de salud, el ejercicio de algunas actividades esenciales específicas a personas que carezcan de título profesional, como parteras empíricas y curanderos, siempre y cuando reúnan los requisitos que para el efecto contempla la Ley General de Salud y sus reglamentos.
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- Fomentar la capacitación del personal técnico y médico de los servicios de salud en el Estado, en materia de sexualidad y procreación desde una perspectiva de género.
 
 ###### ARTICULO 82.
 
@@ -895,7 +1101,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 ###### ARTICULO 85.
 
@@ -961,7 +1167,9 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO II. EDUCACION PARA LA SALUD
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 92.
 
@@ -989,7 +1197,7 @@ En los establecimientos de los sectores público, social y privado que presten s
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO III. NUTRICION
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 94.
 
@@ -1011,9 +1219,7 @@ V.- Fomento sanitario.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
+### CAPITULO II. EDUCACION PARA LA SALUD
 
 ###### ARTICULO 96.
 
@@ -1023,9 +1229,23 @@ I.- Fomentar en la población el desarrollo de actividades y conductas que le pe
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 96 BIS.- La educación sexual, especialmente en los adolescentes, incluirá las siguientes acciones:
+
+a) Fomentar una sexualidad placentera, responsable y libremente decidida;
+
+b) Promover el respeto a la integridad corporal y la autonomía en el control del cuerpo;
+
+c) Procurar el más alto nivel de salud sexual;
+
+d) Observar la confidencialidad en el tratamiento de la sexualidad, particularmente de las y los adolescentes;
+
+e) Impulsar el acceso a la orientación médica para la prevención y tratamiento de infecciones de transmisión sexual -incluyendo el VIH, SIDA y Hepatitis B y C, cáncer cérvicouterino, mamario y prostático.
 
 ###### ARTICULO 97.
 
@@ -1033,9 +1253,7 @@ Las Autoridades Sanitarias Estatales en coordinación con las autoridades federa
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO V. SALUD OCUPACIONAL
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
+### CAPITULO III. NUTRICION
 
 ###### ARTICULO 98.
 
@@ -1047,7 +1265,7 @@ En los programas a que se refiere el Artículo anterior, se incorporarán accion
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
@@ -1099,9 +1317,9 @@ El Gobierno del Estado en coordinación con las autoridades federales y municipa
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+### CAPITULO V. SALUD OCUPACIONAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 106.
 
@@ -1117,7 +1335,9 @@ El Gobierno del Estado, en coordinación con la (sic) dependencias y entidades f
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 108.
 
@@ -1125,7 +1345,9 @@ El Gobierno del Estado, en coordinación con las autoridades federales, realizar
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO IV. ACCIDENTES
+### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 109.
 
@@ -1173,7 +1395,9 @@ III.- En un plazo no mayor de veinticuatro horas en los casos individuales de en
 
 IV.- En un plazo no mayor de veinticuatro horas de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no afectada, y
 
-V.- Notificación obligatoria inmediata a la Autoridad Sanitaria más cercana de los casos en que se detecte la presencia del virus de la Inmunodeficiencia Humana (VIH) o de anticuerpos de dichos virus, en algunas personas.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Notificación obligatoria inmediata a la Autoridad Sanitaria más cercana de los casos en que se detecte la presencia del virus de la Inmunodeficiencia Humana (VIH) o de anticuerpos de dichos virus, en algunas personas, actuando con absoluta confidencialidad y respeto al derecho de privacidad del enfermo de VIH/SIDA, así como del trabajador de la salud que haya diagnosticado tal enfermedad.
 
 ###### ARTICULO 111.
 
@@ -1233,7 +1457,7 @@ Las autoridades sanitarias del estado podrán ordenar, por causa de epidemia, la
 
 ###### ARTICULO 121.
 
-El transporte de pacientes con enfermedades transmisibles, deberá efectuarse en vehículos acondicionados al efecto; a falta de estos, podrán utilizarse los que autorice la autoridad sanitaria. los mismos podrán usarse posteriormente para otros fines, previa la aplicación de las medidas que procedan.
+El transporte de pacientes con enfermedades transmisibles, deberá efectuarse en vehículos acondicionados al efecto; a falta de estos, podrán utilizarse los que autorice la autoridad sanitaria. Los mismos podrán usarse posteriormente para otros fines, previa la aplicación de las medidas que procedan.
 
 ###### ARTICULO 122.
 
@@ -1241,7 +1465,7 @@ Las autoridades sanitarias determinarán los casos en que se deba proceder a la 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO UNICO
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTICULO 123.
 
@@ -1267,7 +1491,7 @@ Los profesionales, técnicos y auxiliares de la salud deberán rendir los inform
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPITULO IV. ACCIDENTES
 
 ###### ARTICULO 126.
 
@@ -1291,147 +1515,289 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Para la mayor eficiencia de las acciones a las que se refiere este Artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO V. DEL PROGRAMA DE PREVENCIÓN, ATENCIÓN Y CONTROL DEL VIH/SIDA E INFECCIONES DE TRANSMISIÓN SEXUAL
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 127 BIS.- Las Autoridades Sanitarias del Estado, sin detrimento de la observancia de las normas que resulten aplicables y atendiendo a la disponibilidad presupuestal, se coordinarán con las Autoridades Federales en la ejecución del Programa de Prevención, Atención y Control del VIH/SIDA e Infecciones de Transmisión Sexual, que comprenderá entre otras, las siguientes acciones:
+
+I. Prestar servicios de atención médica integral, detección y tratamiento para las personas enfermas del VIH/SIDA y otras infecciones de transmisión sexual, así como las infecciones oportunistas que se les asocian (hepatitis, citomegalovirus entre otras), aunado al apoyo y orientación psicológica a los familiares, en los niveles y la capacidad que corresponda a las unidades médicas o centros de salud del Estado, sin menoscabo de la calidad, estigma o discriminación;
+
+II. Difundir información sobre los efectos del VIH/SIDA y otras infecciones de transmisión sexual en la salud, sus formas de transmisión y las medidas de prevención, dirigida prioritariamente a los adolescentes, indígenas y grupos de alto riesgo de vulnerabilidad en el Estado, a través de técnicas individuales, grupales o de comunicación masiva;
+
+III. Coordinar acciones con las Autoridades Educativas del Estado para fortalecer la educación integral en sexualidad y la promoción de la salud sexual, así como apoyar la investigación en el campo de la sexualidad humana para prevenir el VIH/SIDA y otras infecciones de transmisión sexual;
+
+IV. Promover el uso del condón (femenino y masculino), priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer VIH/SIDA y otras infecciones de transmisión sexual, de conformidad con las políticas que determinen las Autoridades Sanitarias competentes;
+
+V. Fomentar la cultura del respeto, igualdad de derechos y la erradicación del estigma, la discriminación, y la violación de los derechos fundamentales de las personas que padecen del VIH/SIDA y otras infecciones de transmisión sexual;
+
+VI. Impulsar el desarrollo de estrategias de prevención perinatal del VIH/SIDA, así como medidas de prevención sexual, desde la atención materno-infantil, para incrementar la detección oportuna y el tratamiento médico eficaz de las mujeres embarazadas y de los niños que viven con VIH/SIDA;
+
+VII. Organizar en coordinación con los grupos y organismos de la sociedad civil interesados, actividades específicas para reducir los riesgos de transmisión del VIH/SIDA y otras infecciones de transmisión sexual, permitiendo su plena y total participación en todos los niveles;
+
+VIII. Desarrollar acciones para detectar y atender oportunamente los casos de VIH/SIDA y otras infecciones de transmisión sexual en los centros penitenciarios del Estado, así como diseñar estrategias fronterizas, atendiendo a la (sic) condiciones de movilidad de los migrantes que transitan por la entidad, para prevenir, atender y controlar la propagación del VIH/SIDA y otras infecciones de transmisión sexual en el Estado,
+
+IX. Garantizar la confidencialidad en el manejo de los casos del SIDA y de las pruebas seropositivas detectadas;
+
+X. Promover la actualización permanente en los trabajadores de la salud, para que cuenten con información actualizada y suficiente sobre características del virus, forma de transmisión, medidas preventivas, aspectos para el diagnóstico, aspectos clínicos, vigilancia epidemiológica, posibilidades terapéuticas y riesgo laboral potencial, a fin de que actúen permanentemente como orientadores y difusores de las medidas preventivas; y
+
+XI. Las demás acciones, políticas y estrategias que determinen las autoridades competentes.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+## TITULO OCTAVO BIS. De los Cuidados Paliativos a los Enfermos en Situación Terminal
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-A.
+
+El presente título tiene por objeto:
+
+I. Salvaguardar la dignidad de los enfermos en situación terminal, para garantizar una vida de calidad a través de los cuidados y atenciones médicas, necesarios para ello;
+
+II, Garantizar una muerte natural en condiciones dignas a los enfermos en situación terminal;
+
+III. Establecer y garantizar los derechos del enfermo en situación terminal en relación con su tratamiento;
+
+IV. Dar a conocer los límites entre el tratamiento curativo y el paliativo;
+
+V. Determinar los medios ordinarios y extraordinarios en los tratamientos, y
+
+VI. Establecer los límites entre la defensa de la vida del enfermo en situación terminal y la obstinación terapéutica.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 127-B.
+
+Para los efectos de este Título, se entenderá por:
+
+I. Enfermedad en estado terminal. A todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para el paciente sea menor a 6 meses;
+
+II. Cuidados básicos. La higiene, alimentación e hidratación, y en su caso el manejo de la vía aérea permeable;
+
+III. Cuidados Paliativos. Es el cuidado activo y total de aquéllas enfermedades que no responden a tratamiento curativo. El control del dolor, y de otros síntomas, así como la atención de aspectos psicológicos, sociales y espirituales;
+
+IV. Enfermo en situación terminal. Es la persona que tiene una enfermedad incurable e irreversible y que tiene un pronóstico de vida inferior a seis meses;
+
+V. Obstinación terapéutica. La adopción de medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía;
+
+VI. Medios extraordinarios. Los que constituyen una carga demasiado grave para el enfermo y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
+
+VII. Medios ordinarios. Los que son útiles para conservar la vida del enfermo en situación terminal o para curarlo y que no constituyen, para él una carga grave o desproporcionada a los beneficios que se pueden obtener;
+
+VIII. Muerte natural. El proceso de fallecimiento natural de un enfermo en situación terminal, contando con asistencia física, psicológica y en su caso, espiritual, y
+
+IX. Tratamiento del dolor. Todas aquellas medidas proporcionadas por profesionales de la salud, orientadas a reducir los sufrimientos físicos y emocional producto de una enfermedad terminal, destinadas a mejorar la calidad de vida.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 127 C.- Corresponde al Sistema Estatal de Salud garantizar el pleno, libre e informado ejercicio de los derechos que señalan esta Ley y demás ordenamientos aplicables, a los enfermos en situación terminal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPITULO II. DE LOS DERECHOS DE LOS ENFERMOS EN SITUACION TERMINAL
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-D.
+
+Los pacientes enfermos en situación terminal tienen los siguientes derechos:
+
+I. Recibir atención médica integral;
+
+II. Ingresar a las instituciones de salud cuando requiera atención médica;
+
+III. Dejar voluntariamente la institución de salud en que esté hospitalizado, de conformidad a las disposiciones aplicables;
+
+IV. Recibir un trato digno, respetuoso y profesional procurando preservar su calidad de vida;
+
+V. Recibir información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad y los tipos de tratamientos por los cuales puede optar según la enfermedad que padezca;
+
+VI. Dar su consentimiento informado por escrito para la aplicación o no de tratamientos, medicamentos y cuidados paliativos adecuados a su enfermedad, necesidades y calidad de vida;
+
+VII. Solicitar al médico que le administre medicamentos que mitiguen el dolor;
+
+VIII. Renunciar, abandonar o negarse en cualquier momento a recibir o continuar el tratamiento que considere extraordinario;
+
+IX. Optar por recibir los cuidados paliativos en un domicilio particular;
+
+X. Designar, a algún familiar, representante legal o a una persona de su confianza, para el caso de que, con el avance de la enfermedad, esté impedido a expresar su voluntad, lo haga en su representación;
+
+XI. A recibir los servicios espirituales, cuando lo solicite él, su familia, representante legal o persona de su confianza, y
+
+XII. Los demás que las leyes señalen.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-E.
+
+Toda persona mayor de edad, en pleno uso de sus facultades mentales, puede, en cualquier momento e independientemente de su estado de salud, expresar su voluntad por escrito ante dos testigos, de recibir o no cualquier tratamiento, en caso de que llegase a padecer una enfermedad y estar en situación terminal y no le sea posible manifestar dicha voluntad. Dicho documento podrá ser revocado en cualquier momento.
+
+Para que sea válida la disposición de voluntad referida en el párrafo anterior, deberá apegarse a lo dispuesto en la presente Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-F.
+
+El paciente en situación terminal, mayor de edad y en pleno uso de sus facultades mentales, tiene derecho a la suspensión voluntaria del tratamiento curativo y como consecuencia al inicio de tratamiento estrictamente paliativo en la forma y términos previstos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-G.
+
+La suspensión voluntaria del tratamiento curativo supone la cancelación de todo medicamento que busque contrarrestar la enfermedad terminal del paciente y el inicio de tratamientos enfocados de manera exclusiva a la disminución del dolor o malestar del paciente.
+
+En este caso, el médico especialista en el padecimiento del paciente terminal interrumpe, suspende o no inicia el tratamiento, la administración de medicamentos, el uso de instrumentos o cualquier procedimiento que contribuya a la prolongación de la vida del paciente en situación terminal dejando que su padecimiento evolucione naturalmente.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-H.
+
+El paciente en situación terminal que esté recibiendo los cuidados paliativos, podrá solicitar recibir nuevamente el tratamiento curativo, ratificando su decisión por escrito ante el personal médico correspondiente.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-I.
+
+Si el enfermo en situación terminal es menor de edad, o se encuentra incapacitado para expresar su voluntad, las decisiones derivadas de los derechos señalados en este título, serán asumidos por los padres o el tutor y a falta de estos por su representante legal, persona de su confianza mayor de edad o juez de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-J.
+
+Los cuidados paliativos se proporcionarán desde el momento en que se diagnostica el estado terminal de la enfermedad, por el médico especialista.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-K.
+
+Los familiares del enfermo en situación terminal tienen la obligación de respetar la decisión que de manera voluntaria tome el enfermo en los términos de este título.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-L.
+
+En casos de urgencia médica, y que exista incapacidad del enfermo en situación terminal para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por el médico especialista y/o por el Comité de Bioética de la institución.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-M.
+
+Todos los documentos a que se refiere este título se regirán de acuerdo a lo que se establezca en el reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPITULO III. DE LAS FACULTADES Y OBLIGACIONES DE LAS INSTITUCIONES DE SALUD
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-N.
+
+Las Instituciones del Sistema Estatal de Salud:
+
+I. Ofrecerán el servicio para la atención debida a los enfermos en situación terminal;
+
+II. Proporcionarán los servicios de orientación, asesoría y seguimiento al enfermo en situación terminal y o sus familiares o persona de confianza en el caso de que los cuidados paliativos se realicen en el domicilio particular;
+
+III. De igual manera, en el caso de que los cuidados paliativos se realicen en el domicilio particular, la Secretaría pondrá en operación una línea telefónica de acceso gratuito para que se le oriente, asesore y dé seguimiento al enfermo en situación terminal o a sus familiares o persona de su confianza;
+
+IV. Proporcionarán los cuidados paliativos correspondientes al tipo y grado de enfermedad, desde el momento del diagnóstico de la enfermedad terminal hasta el último momento.
+
+V. Fomentarán la creación de áreas especializadas que presten atención a los enfermos en situación terminal, y
+
+VI. Garantizarán la capacitación y actualización permanente de los recursos humanos para la salud, en materia de cuidados paliativos y atención a enfermos en situación terminal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPITULO IV. DE LOS DERECHOS, FACULTADES Y OBLIGACIONES DE LOS MEDICOS Y PERSONAL SANITARIO
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127
+
+Ñ.- Los médicos tratantes y el equipo sanitario que preste los cuidados paliativos, para el mejor desempeño de sus servicios, deberán estar debidamente capacitados humana y técnicamente, por instituciones autorizadas para ello.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-O.
+
+Los médicos especialistas en las instituciones de segundo y tercer nivel, tendrán las siguientes obligaciones:
+
+I. Proporcionar toda la información que el paciente requiera, así como la que el médico considere necesaria para que el enfermo en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados;
+
+II. Pedir el consentimiento informado del enfermo en situación terminal, por escrito ante dos testigos, para los tratamientos o medidas a tomar respecto de la enfermedad terminal;
+
+III. Informar oportunamente al enfermo en situación terminal, cuando el tratamiento curativo no dé resultados;
+
+IV. Informar al enfermo en situación terminal, sobre las opciones que existan de cuidados paliativos;
+
+V. Respetar la decisión del enfermo en situación terminal en cuanto al tratamiento curativo y cuidados paliativos, una vez que se le haya explicado en términos sencillos las consecuencias de su decisión;
+
+VI. Garantizar que se brinden los cuidados básicos o tratamiento al paciente en todo momento;
+
+VII. Procurar las medidas mínimas necesaria (sic) para preservar la calidad de vida de los enfermos en situación terminal;
+
+VIII. Respetar y aplicar todas y cada una de las medidas y procedimientos para los casos que señala esta ley;
+
+IX. Hacer saber al enfermo, de inmediato y antes de su aplicación, si el tratamiento a seguir para aliviar el dolor y los síntomas de su enfermedad tenga como posibles efectos secundarios disminuir el tiempo de vida;
+
+X. Solicitar una segunda opinión a otro médico especialista, cuando su diagnóstico sea una enfermedad terminal; y
+
+XI. Las demás que le señalen ésta y otras leyes.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-P.
+
+Los médicos tratantes podrán suministrar fármacos paliativos a un enfermo en situación terminal, aun cuando con ello se pierda estado de alerta o se acorte la vida del paciente, siempre y cuando se suministren dichos fármacos paliativos con el objeto de aliviar el dolor del paciente.
+
+Podrán hacer uso, de ser necesario de acuerdo con lo estipulado en la presente Ley de analgésicos del grupo de los opioides. En estos casos será necesario el consentimiento del enfermo.
+
+En ningún caso se suministrarán tales fármacos con la finalidad de acortar o terminar la vida del paciente, en tal caso se estará sujeto a las disposiciones penales aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-Q.
+
+Los médicos tratantes, en ningún caso y por ningún motivo implementaran medios extraordinarios al enfermo en situación terminal, sin su consentimiento.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-R.
+
+Para garantizar una vida de calidad y el respeto a la dignidad del enfermo en situación terminal, el personal médico no deberá aplicar tratamientos o medidas consideradas como obstinación terapéutica ni medios extraordinarios.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-S.
+
+El personal médico que deje de proporcionar los cuidados básicos a los enfermos en situación terminal, será sancionado conforme lo establecido por las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-T.
+
+El personal médico que, por decisión propia, deje de proporcionar cualquier tratamiento o cuidado sin el consentimiento del enfermo en situación terminal, o en caso que esté impedido para expresar su voluntad, el de su familia o persona de confianza, será sancionado conforme lo establecido por las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 127-U.
+
+Queda prohibida, la práctica de la eutanasia, entendida como homicidio por piedad así como el suicidio asistido conforme lo señala el Código Penal del Estado de Quintana Roo, bajo el amparo de esta ley. En tal caso se estará a lo que señalan las disposiciones penales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2010)</small>
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE LAS PERSONAS CON DISCAPACIDAD
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
-
-### CAPITULO III BIS. DE LA PARTICIPACION DEL ESTADO EN LA PERSECUCION DE LOS DELITOS CONTRA LA SALUD, EN SU MODALIDAD DE NARCOMENUDEO
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
-
-ARTICULO 157 BIS.- Las autoridades de seguridad pública, procuración e impartición de justicia, así como de ejecución de penas y medidas de seguridad del Estado, conocerán y resolverán de los delitos o ejecutarán las sanciones y medidas de seguridad a que se refiere el Capítulo VII del Título Décimo Octavo, de la Ley General de Salud, en la forma y con la competencia prevista en el Artículo 474 de la propia Ley.
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
-
-ARTICULO 157 TER.- Los procedimientos penales y, en su caso, la ejecución de las penas y medidas de seguridad por los delitos a que se refiere este Capítulo, se regirán por las leyes del Estado en la materia, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
-
-ARTICULO 157 QUÁTER.- El Ministerio Público o el Juez de Garantía, en su caso, tan pronto identifiquen que una persona relacionada con un procedimiento es farmacodependiente, deberán de informar de inmediato y, en su caso, dar intervención a la Secretaría de Salud del Estado, para los efectos del tratamiento que corresponda.
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
-
-ARTICULO 157 QUINTUS.- Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo emplearé para realizar cualesquiera de las conductas sancionadas en el presente Capítulo o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de los ordenamientos correspondientes.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
-
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 A.- Los aspectos concernientes al control sanitario de la disposición de órganos, tejidos, células y sus componentes y derivados, productos y cadáveres de seres humanos, con fines terapéuticos, son regulados conforme a las normas correspondientes contenidas en la Ley General de Salud, el Reglamento de la Ley General de Salud, las Normas Oficiales Mexicanas y los acuerdos de observancia general que en la materia dicten las autoridades competentes.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
-
-### CAPITULO II. DEL OBJETO Y DEL CONSEJO ESTATAL DE TRASPLANTES
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 B.- Se constituye El Consejo Estatal de Trasplantes, como una Comisión Intersecretarial de la Administración Pública Estatal.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 C.- El Consejo tendrá por objeto promover, apoyar y coordinar las acciones en materia de trasplantes que realizan las instituciones de salud estatales en los sectores público, social y privado, con el propósito de reducir la morbilidad y mortalidad por padecimiento (sic) susceptibles de ser corregidos mediante este procedimiento, bajo los lineamientos que se establecen en la Ley General y Estatal de Salud, así como en las normas técnicas que sobre esta materia dicte la Secretaría de Salud u otros ordenamientos legales, concediéndole plena autonomía técnica para emitir opiniones, acuerdos y resoluciones, relacionados con el control y vigilancia de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, en términos de la Ley General de Salud, su reglamentación y demás disposiciones federales; así como a las actividades relacionadas con éstos y respecto de los establecimientos en que se realicen dichos actos
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 D.- El Consejo Estatal de Trasplantes tendrá las siguientes funciones:
-
-I.- Promover el diseño, instrumentación y operación del Sistema Estatal de Trasplantes, así como de los subsistemas que lo integren de conformidad con el Programa Nacional de Trasplantes y en apoyo de las acciones que el Consejo Nacional de Trasplantes lleve a cabo;
-
-II.- Proponer políticas, estrategias y acciones para la elaboración y aplicación del Programa Estatal de Trasplantes de acuerdo con las acciones que señale el Programa Nacional de Trasplantes;
-
-III.- Proponer a las autoridades competentes la realización de actividades educativas, de investigación y de difusión, para el fomento de la cultura de la donación de órganos, tejidos y células;
-
-IV.- Establecer mecanismos para la sistematización y difusión entre los sectores involucrados de la normatividad y de la información científica, técnica y sanitaria en materia de trasplantes;
-
-V.- Coordinar las acciones de las dependencias y entidades públicas estatales en la instrumentación del Programa Estatal de Trasplantes en congruencia con el Programa Nacional de Trasplantes, así como promover la concertación de acciones con las instituciones de los sectores social y privado que lleven a cabo tareas relacionadas con el Programa mencionado;
-
-VI.- Proponer a las autoridades competentes mecanismos de coordinación entre las autoridades interinstitucionales de la Entidad, con el objeto de que éstas adopten las medidas necesarias para apoyar las acciones en materia de trasplantes;
-
-VII.- Coordinar sus acciones con el Registro Nacional de Trasplantes y con los Centros Nacional y Estatales de Transfusión Sanguínea, en el ámbito de sus respectivas competencias;
-
-VIII.- Proponer mecanismos de coordinación y evaluación de los programas de capacitación y atención relacionados con los trasplantes y con los Centros Nacionales y Estatales de Transfusión Sanguínea, en el ámbito de sus respectivas competencias;
-
-IX.- Coadyuvar en la coordinación de un sistema de información y evaluación del Programa de Trasplantes en el ámbito Estatal y Municipal;
-
-X.- Coadyuvar con las autoridades competentes en la prevención del tráfico ilegal de órganos, tejidos y células;
-
-XI.- Promover el desarrollo de investigaciones en la materia, y
-
-XII.- Las demás que establezca la Ley General de Salud, Ley Estatal de Salud, acuerdos de coordinación y/o colaboración y otras disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 E.- El Consejo Estatal de Trasplantes se integrará:
-
-I.- El Gobernador del Estado, quien fungirá como Presidente;
-
-II.- El Secretario de Salud y Director General de Servicios Estatales de Salud del Estado; quien fungirá como Coordinador General;
-
-III.- El Secretario de Gobierno;
-
-IV.- El Secretario de Educación del Estado;
-
-V.- El Secretario de Planeación y Desarrollo Regional del Estado; y
-
-VI.- El Procurador General de Justicia del Estado.
-
-Los últimos cuatro nombrados anteriormente, serán considerados como Consejeros, cuyas funciones deberán estar previstas en el Reglamento Interior del Consejo Estatal de Trasplantes para el Estado de Quintana Roo.
-
-El Consejo Estatal de Trasplantes para el Estado de Quintana Roo, celebrará sesiones en forma ordinaria tres veces al año, y en forma extraordinaria cuantas veces sean necesarias; las decisiones se tomarán por mayoría de sus miembros, teniendo el Presidente voto de calidad en caso de empate.
-
-El Presidente del Consejo Estatal de Trasplantes para el Estado de Quintana Roo invitará a participar en sus sesiones, con voz pero sin voto, a los representantes de las Dependencias Federales, Estatales y Municipales, así como a representantes de Instituciones Académicas de reconocido prestigio en las Ciencias Médicas, en la entidad así como aquellas personas e instituciones que por su experiencia puedan auxiliar al Consejo en la realización de su objeto.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 F.- El Consejo Estatal de Trasplantes para el Estado de Quintana Roo, podrá determinar la creación de Comités y grupos de trabajo, tanto de carácter permanente como transitorios, que estime convenientes para el estudio y solución de los asuntos específicos relacionados con su objeto.
-
-La integración de cada uno de los Comités, como su organización y funcionamiento, se sujetará a lo que disponga el Reglamento Interno del Consejo.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 G.- Para el eficaz desarrollo de sus funciones, el Consejo Estatal de Trasplantes para el Estado de Quintana Roo, contará con un Secretario Técnico, que será el titular de la Dirección de Protección Contra Riesgos Sanitarios de los Servicios Estatales de Salud, quien tendrá las facultades que se le asignen en el Reglamento Interno del Consejo.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 H.- El Consejo promoverá la constitución de un Patronato que tendrá por objeto la obtención de recursos para coadyuvar con aquél en la realización de sus funciones.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
-
-## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
-
-> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
-
-### CAPITULO III. DEL PATRONATO
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 I.- Es de interés público el promover la participación y colaboración de la sociedad y de sus diversos sectores, para apoyar las labores del Consejo y de las Instituciones de Salud debidamente acreditadas que realicen trasplantes de órganos, tejidos y celulas de seres humanos con fines terapéuticos.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 J.- Con el objeto de coordinar la participación y colaboración de la sociedad y sus diversos sectores, se instituye el Patronato para la Donación y Trasplantes de Órganos, Tejidos y células.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 K.- El Patronato para la Donación y Trasplantes de Órganos, Tejidos y celulas, estará a cargo de la Presidenta del Patronato del Desarrollo Integral de la Familia de Quintana Roo y su mesa directiva, se conformará de acuerdo con el instrumento público que le de formalidad.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 L.- El Patronato para la Donación y Trasplantes de Órganos, Tejidos y celulas, procurará la más amplia participación de la comunidad para apoyar con recursos financieros y materiales, las actividades propiamente médicas y quirúrgicas en materia de trasplante de órganos y tejidos, así como las de capacitación, información, difusión y mejoramiento de las instalaciones de las Instituciones que participen en el programa estatal de trasplantes.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 LL.- El Patronato para la Donación y Trasplante de Órganos, Tejidos y celulas definirá la aplicación y los rubros en que se utilizarán los recursos financieros y materiales que se obtengan por la gestión, escuchando la opinión del Consejo Estatal de Trasplantes.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 128.
 
@@ -1599,35 +1965,11 @@ El organismo del Gobierno Estatal previsto en el Artículo 133 de esta Ley tendr
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-## TITULO DECIMO PRIMERO BIS (SIC). DE LA DISPOSICION DE ORGANOS, TEJIDOS Y CELULAS EN EL ESTADO
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2010)</small>
-
-### CAPITULO IV. DEL REGISTRO DE DONADORES
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 M.- El Consejo Estatal de Trasplantes, deberá contar con un Registro Estatal de Donadores, que integre la información en materia de donaciones, trasplantes y lista de pacientes en espera de un órgano, tejido o célula, a través de un control que contenga los datos de los donadores debidamente relacionados con los de los trasplantados.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 N.- El Registro Estatal de Donadores de Quintana Roo, estará a cargo de la Secretaria de Salud del Estado.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 Ñ.- El Registro Estatal de Donadores de Quintana Roo, tiene carácter confidencial, y únicamente tendrán acceso a esta información:
-
-1. La Autoridad Judicial
-
-2. La Autoridad Sanitaria
-
-3. El Consejo Estatal de Trasplantes.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-ARTICULO 157 O.- El Secretario de Salud del Estado, proporcionará al Consejo Estatal de Trasplantes, la información en materia de donaciones, trasplantes y lista de pacientes en espera de un órgano, tejido o célula en el Estado, contenida en el Registro Estatal de Donadores de Quintana Roo y en coordinación con el Registro Nacional de Trasplantes, se deberá integrar a la lista nacional de donadores, para que en su caso pueda cumplirse con la voluntad de las personas que han decidido donar sus órganos, tejidos o células.
+## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+
+### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 152.
 
@@ -1655,7 +1997,7 @@ IV.- Efectos de abuso de bebidas alcohólicas en los ámbitos familiar, social, 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTICULO 154.
 
@@ -1675,7 +2017,7 @@ II.- La educación a la familia para prevenir el consumo de tabaco por parte de 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTOS
+### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTICULO 156.
 
@@ -1687,7 +2029,9 @@ La Secretaría de Salud del Estado, atendiendo a lo dispuesto en el párrafo ant
 
 l. Coordinarse con la Secretaría de Salud, en el marco del Sistema Nacional de Salud, atendiendo al programa nacional de prevención y tratamiento de la farmacodependencia de conformidad a los convenios respectivos.
 
-Los programas y acciones para el combate a la farmacodependencia se regirán en el respeto a la integridad y libre voluntad del farmacodependiente, con excepción de lo previsto en el segundo párrafo del artículo 193 Bis de la Ley General de Salud.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+Los programas y acciones para el combate a la farmacodependencia observarán en todo momento el respeto a los derechos humanos y se regirán en el respeto a la integridad y libre voluntad del farmacodependiente, con excepción de lo previsto en el segundo párrafo del artículo 193 Bis de la Ley General de Salud.
 
 II. Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos;
 
@@ -1699,7 +2043,7 @@ V. Crear indicadores y bases de datos que permitan identificar zonas, sectores y
 
 VI. Supervisar a las instituciones y organismos públicos y privados para que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, apegándose al respeto de la integridad y libre decisión del farmacodependiente;
 
-VII. Construir indicadores públicos sobre los índices de farmacodependencia en el Estado; y
+VII. Construir indicadores públicos sobre los índices de farmacodependencia en el Estado; y (sic)
 
 VIII. Fomentar la participación comunitaria y coordinación con las autoridades federales y las instituciones públicas o privadas para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso de superación de la farmacodependencia.
 
@@ -1717,6 +2061,14 @@ c) El número de farmacodependientes que concluyeron o no, exitosamente sus trat
 
 Esta información se utilizará exclusivamente con fines estadísticos, y sin señalar identidades, para la prevención de la farmacodependencia. La información estará protegida en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo.
 
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+IX. Elaborar un Programa Estatal para la Prevención y Tratamiento de la farmacodependencia, cuyos objetivos sean concordantes con el programa nacional en la materia; y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+X. Promover convenios de colaboración con instituciones nacionales e internacionales en materia de farmacodependencia.
+
 ###### ARTICULO 157.
 
 El Gobierno del Estado y los Municipios para evitar y prevenir el consumo de substancias inhalantes, que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
@@ -1733,23 +2085,217 @@ A los establecimientos que vendan o utilicen substancias inhalantes con efectos 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2010)</small>
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO III BIS. DE LA PARTICIPACION DEL ESTADO EN LA PERSECUCION DE LOS DELITOS CONTRA LA SALUD, EN SU MODALIDAD DE NARCOMENUDEO
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 157 BIS.- Las autoridades de seguridad pública, procuración e impartición de justicia, así como de ejecución de penas y medidas de seguridad del Estado, conocerán, resolverán los delitos y/o ejecutarán las sanciones y medidas de seguridad a que se refiere el capítulo VII del Título Décimo Octavo, de la Ley General de Salud, en la forma y con la competencia prevista en el artículo 474 de la propia Ley, mismas que se implementarán de acuerdo (sic) la tabla prevista en el artículo 479 de la referida Ley.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+ARTICULO 157 TER.- Los procedimientos penales y, en su caso, la ejecución de las penas y medidas de seguridad por los delitos a que se refiere este Capítulo, se regirán por las leyes del Estado en la materia, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+ARTICULO 157 QUÁTER.- El Ministerio Público o el Juez de Garantía, en su caso, tan pronto identifiquen que una persona relacionada con un procedimiento es farmacodependiente, deberán de informar de inmediato y, en su caso, dar intervención a la Secretaría de Salud del Estado, para los efectos del tratamiento que corresponda.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+
+ARTICULO 157 QUINTUS.- Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo emplearé para realizar cualesquiera de las conductas sancionadas en el presente Capítulo o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de los ordenamientos correspondientes.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
+
+## TITULO DECIMO PRIMERO BIS (SIC). DE LA DISPOSICION DE ORGANOS, TEJIDOS Y CELULAS EN EL ESTADO
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2010)</small>
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 A.- Los aspectos concernientes al control sanitario de la disposición de órganos, tejidos, células y sus componentes y derivados, productos y cadáveres de seres humanos, con fines terapéuticos, son regulados conforme a las normas correspondientes contenidas en la Ley General de Salud, el Reglamento de la Ley General de Salud, las Normas Oficiales Mexicanas y los acuerdos de observancia general que en la materia dicten las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 157
+
+A BIS.- El Gobierno del Estado, a través del Titular del Poder Ejecutivo, concurrirá con las autoridades federales en la materia a efecto de coadyuvar en los objetivos del Sistema Nacional de Trasplantes, así como en las diversas acciones y actividades que se deriven del Programa Nacional de Trasplantes.
+
+Asimismo, las autoridades sanitarias estatales procurarán el apoyo y la coordinación con el Centro Nacional de Trasplantes, los Consejos de Trasplantes de las demás entidades federativas, las instituciones de educación superior a través de sus escuelas y facultades de medicina, los colegios y las academias legalmente reconocidos de medicina, cirugía y ciencias y las instituciones de salud públicas, sociales y privadas con autorización legal y capacidad técnica para realizar, conforme a los procedimientos jurídicos y protocolos médicos vigentes, la disposición de órganos y tejidos con fines terapéuticos.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 157
+
+A TER.- Es de interés público en el Estado de Quintana Roo promover la cultura de donación de órganos y tejidos entre la población, como forma esencialmente humanista y de solidaridad entre los individuos, en virtud de que representa una alternativa para recobrar la salud de las personas.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 157
+
+A QUATER.- El Gobierno del Estado, a través del Titular del Poder Ejecutivo, garantizará mecanismos eficaces para: 7 (sic)
+
+I. Asegurar el respeto a la voluntad de los individuos que expresamente hayan determinado donar sus órganos y tejidos en los términos de la legislación aplicable;
+
+II. Promover que los establecimientos que realicen procesos de donación y de trasplantes debidamente acreditados y certificados legalmente para ello, realicen los procedimientos de trasplante con fines terapéuticos, en forma oportuna y adecuada en beneficio de los usuarios de los servidos de salud, y
+
+III. Colaborar en la vigilancia sanitaria de los trasplantes, fomentando la coordinación entre las autoridades sanitarias a que se refiere esta Ley y la Ley General de Salud.
+
+Las autoridades estatales que intervengan en los diversos procedimientos de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, actuarán con la debida diligencia que ameritan estos casos y auxiliarán en el ágil desahogo de los trámites que por ley deben cubrirse.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 157
+
+A QUINQUIES.- En el proceso de donación de órganos y tejidos intervendrá la Secretaría de Salud del Estado, a través del Consejo de Trasplantes y los establecimientos de salud autorizados para obtener órganos y tejidos y realizar trasplantes.
+
+Si la causa de la muerte del donante está relacionada con un hecho presuntamente constitutivo de delito, intervendrán además de los anteriores, la Procuraduría General de Justicia del Estado.
+
+Para efectos del párrafo anterior los establecimientos autorizados que tramiten una donación, notificarán al Ministerio Público y al Consejo de Trasplantes de la existencia de un potencial donante. El Ministerio Público realizará las siguientes acciones:
+
+a) Solicitará al médico adscrito al servicio médico forense, que certifique el diagnóstico de la muerte cerebral, así como la dictaminación de que la extracción de los órganos y tejidos no alterarán el resultado de la necropsia;
+
+b) Levantará acta ministerial del estado clínico del posible donador y del lugar donde se encuentre;
+
+c) Recabará el consentimiento de los disponentes secundarios en los términos de lo dispuesto por la Ley General de Salud, los documentos de quienes acrediten el parentesco con los medios legales idóneos, el certificado de pérdida de la vida y el dictamen del médico adscrito al servicio médico forense.
+
+En caso de que el posible donador cuente con algún documento que acredite la calidad de donador, el agente del Ministerio Público deberá asentar en el acta ministerial la descripción de dicho documento, y
+
+d) Informará al Procurador General de Justicia del Estado de las circunstancias del proceso de donación, para su conocimiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
+
+### CAPITULO II. DEL OBJETO Y DEL CONSEJO ESTATAL DE TRASPLANTES
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 B.- Se constituye El Consejo Estatal de Trasplantes, como una Comisión Intersecretarial de la Administración Pública Estatal.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 C.- El Consejo tendrá por objeto promover, apoyar y coordinar las acciones en materia de trasplantes que realizan las instituciones de salud estatales en los sectores público, social y privado, con el propósito de reducir la morbilidad y mortalidad por padecimiento (sic) susceptibles de ser corregidos mediante este procedimiento, bajo los lineamientos que se establecen en la Ley General y Estatal de Salud, así como en las normas técnicas que sobre esta materia dicte la Secretaría de Salud u otros ordenamientos legales, concediéndole plena autonomía técnica para emitir opiniones, acuerdos y resoluciones, relacionados con el control y vigilancia de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, en términos de la Ley General de Salud, su reglamentación y demás disposiciones federales; así como a las actividades relacionadas con éstos y respecto de los establecimientos en que se realicen dichos actos
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 D.- El Consejo Estatal de Trasplantes tendrá las siguientes funciones:
+
+I.- Promover el diseño, instrumentación y operación del Sistema Estatal de Trasplantes, así como de los subsistemas que lo integren de conformidad con el Programa Nacional de Trasplantes y en apoyo de las acciones que el Consejo Nacional de Trasplantes lleve a cabo;
+
+II.- Proponer políticas, estrategias y acciones para la elaboración y aplicación del Programa Estatal de Trasplantes de acuerdo con las acciones que señale el Programa Nacional de Trasplantes;
+
+III.- Proponer a las autoridades competentes la realización de actividades educativas, de investigación y de difusión, para el fomento de la cultura de la donación de órganos, tejidos y células;
+
+IV.- Establecer mecanismos para la sistematización y difusión entre los sectores involucrados de la normatividad y de la información científica, técnica y sanitaria en materia de trasplantes;
+
+V.- Coordinar las acciones de las dependencias y entidades públicas estatales en la instrumentación del Programa Estatal de Trasplantes en congruencia con el Programa Nacional de Trasplantes, así como promover la concertación de acciones con las instituciones de los sectores social y privado que lleven a cabo tareas relacionadas con el Programa mencionado;
+
+VI.- Proponer a las autoridades competentes mecanismos de coordinación entre las autoridades interinstitucionales de la Entidad, con el objeto de que éstas adopten las medidas necesarias para apoyar las acciones en materia de trasplantes;
+
+VII.- Coordinar sus acciones con el Registro Nacional de Trasplantes y con los Centros Nacional y Estatales de Transfusión Sanguínea, en el ámbito de sus respectivas competencias;
+
+VIII.- Proponer mecanismos de coordinación y evaluación de los programas de capacitación y atención relacionados con los trasplantes y con los Centros Nacionales y Estatales de Transfusión Sanguínea, en el ámbito de sus respectivas competencias;
+
+IX.- Coadyuvar en la coordinación de un sistema de información y evaluación del Programa de Trasplantes en el ámbito Estatal y Municipal;
+
+X.- Coadyuvar con las autoridades competentes en la prevención del tráfico ilegal de órganos, tejidos y células;
+
+XI.- Promover el desarrollo de investigaciones en la materia, y
+
+XII.- Las demás que establezca la Ley General de Salud, Ley Estatal de Salud, acuerdos de coordinación y/o colaboración y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 E.- El Consejo Estatal de Trasplantes se integrará:
+
+I.- El Gobernador del Estado, quien fungirá como Presidente;
+
+II.- El Secretario de Salud y Director General de Servicios Estatales de Salud del Estado; quien fungirá como Coordinador General;
+
+III.- El Secretario de Gobierno;
+
+IV.- El Secretario de Educación del Estado;
+
+V.- El Secretario de Planeación y Desarrollo Regional del Estado; y
+
+VI.- El Procurador General de Justicia del Estado.
+
+Los últimos cuatro nombrados anteriormente, serán considerados como Consejeros, cuyas funciones deberán estar previstas en el Reglamento Interior del Consejo Estatal de Trasplantes para el Estado de Quintana Roo.
+
+El Consejo Estatal de Trasplantes para el Estado de Quintana Roo, celebrará sesiones en forma ordinaria tres veces al año, y en forma extraordinaria cuantas veces sean necesarias; las decisiones se tomarán por mayoría de sus miembros, teniendo el Presidente voto de calidad en caso de empate.
+
+El Presidente del Consejo Estatal de Trasplantes para el Estado de Quintana Roo invitará a participar en sus sesiones, con voz pero sin voto, a los representantes de las Dependencias Federales, Estatales y Municipales, así como a representantes de Instituciones Académicas de reconocido prestigio en las Ciencias Médicas, en la entidad así como aquellas personas e instituciones que por su experiencia puedan auxiliar al Consejo en la realización de su objeto.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 F.- El Consejo Estatal de Trasplantes para el Estado de Quintana Roo, podrá determinar la creación de Comités y grupos de trabajo, tanto de carácter permanente como transitorios, que estime convenientes para el estudio y solución de los asuntos específicos relacionados con su objeto.
+
+La integración de cada uno de los Comités, como su organización y funcionamiento, se sujetará a lo que disponga el Reglamento Interno del Consejo.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 G.- Para el eficaz desarrollo de sus funciones, el Consejo Estatal de Trasplantes para el Estado de Quintana Roo, contará con un Secretario Técnico, que será el titular de la Dirección de Protección Contra Riesgos Sanitarios de los Servicios Estatales de Salud, quien tendrá las facultades que se le asignen en el Reglamento Interno del Consejo.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 H.- El Consejo promoverá la constitución de un Patronato que tendrá por objeto la obtención de recursos para coadyuvar con aquél en la realización de sus funciones.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
+
+### CAPITULO III. DEL PATRONATO
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 I.- Es de interés público el promover la participación y colaboración de la sociedad y de sus diversos sectores, para apoyar las labores del Consejo y de las Instituciones de Salud debidamente acreditadas que realicen trasplantes de órganos, tejidos y celulas de seres humanos con fines terapéuticos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 J.- Con el objeto de coordinar la participación y colaboración de la sociedad y sus diversos sectores, se instituye el Patronato para la Donación y Trasplantes de Órganos, Tejidos y células.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 K.- El Patronato para la Donación y Trasplantes de Órganos, Tejidos y celulas, estará a cargo de la Presidenta del Patronato del Desarrollo Integral de la Familia de Quintana Roo y su mesa directiva, se conformará de acuerdo con el instrumento público que le de formalidad.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 L.- El Patronato para la Donación y Trasplantes de Órganos, Tejidos y celulas, procurará la más amplia participación de la comunidad para apoyar con recursos financieros y materiales, las actividades propiamente médicas y quirúrgicas en materia de trasplante de órganos y tejidos, así como las de capacitación, información, difusión y mejoramiento de las instalaciones de las Instituciones que participen en el programa estatal de trasplantes.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 LL.- El Patronato para la Donación y Trasplante de Órganos, Tejidos y celulas definirá la aplicación y los rubros en que se utilizarán los recursos financieros y materiales que se obtengan por la gestión, escuchando la opinión del Consejo Estatal de Trasplantes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
+
+### CAPITULO IV. DEL REGISTRO DE DONADORES
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 M.- El Consejo Estatal de Trasplantes, deberá contar con un Registro Estatal de Donadores, que integre la información en materia de donaciones, trasplantes y lista de pacientes en espera de un órgano, tejido o célula, a través de un control que contenga los datos de los donadores debidamente relacionados con los de los trasplantados.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 N.- El Registro Estatal de Donadores de Quintana Roo, estará a cargo de la Secretaria de Salud del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 Ñ.- El Registro Estatal de Donadores de Quintana Roo, tiene carácter confidencial, y únicamente tendrán acceso a esta información:
+
+1. La Autoridad Judicial
+
+2. La Autoridad Sanitaria
+
+3. El Consejo Estatal de Trasplantes.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2010)</small>
+
+ARTICULO 157 O.- El Secretario de Salud del Estado, proporcionará al Consejo Estatal de Trasplantes, la información en materia de donaciones, trasplantes y lista de pacientes en espera de un órgano, tejido o célula en el Estado, contenida en el Registro Estatal de Donadores de Quintana Roo y en coordinación con el Registro Nacional de Trasplantes, se deberá integrar a la lista nacional de donadores, para que en su caso pueda cumplirse con la voluntad de las personas que han decidido donar sus órganos, tejidos o células.
+
+> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
 ## TITULO DECIMO PRIMERO. SALUBRIDAD LOCAL
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
-
-### CAPITULO V. LIMPIEZA PUBLICA
-
-### CAPITULO VI. RASTROS
-
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
-
-## TITULO DECIMO SEGUNDO. AUTORIZACIONES Y CERTIFICADOS
-
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 158.
 
@@ -1761,7 +2307,7 @@ Corresponde al Gobierno del Estado y a los Ayuntamientos en el ámbito de sus re
 
 Para los efectos de este Título, se entiende por Control Sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones que ejerce en materia de salubridad local el Gobierno del Estado, en base a lo que establecen las Normas Técnicas y otras disposiciones legales aplicables.
 
-Las materias a que se refiere el Artículo 5o. Apartado "A" de esta Ley así como aquellas que comprenden los acuerdos de coordinación para la integración orgánica y descentralización operativa de los servicios de salud, y los acuerdos de coordinación con el objeto de descentralizar el ejercicio de las funciones de Regulación, Control y Fomento Sanitario y sus anexos técnicos correspondientes, el ejercicio del Control Sanitario se Ilevará a cabo, en los términos de la Ley General de Salud y demás disposiciones reglamentarias que emanen de ella, y las normas técnicas correspondientes
+Las materias a que se refiere el Artículo 5o. Apartado "A" de esta Ley así como aquellas que comprenden los acuerdos de coordinación para la integración orgánica y descentralización operativa de los servicios de salud, y los acuerdos de coordinación con el objeto de descentralizar el ejercicio de las funciones de Regulación, Control y Fomento Sanitario y sus anexos técnicos correspondientes, el ejercicio del Control Sanitario se llevará a cabo, en los términos de la Ley General de Salud y demás disposiciones reglamentarias que emanen de ella, y las normas técnicas correspondientes
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
@@ -1813,7 +2359,7 @@ Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTOS
 
 ###### ARTICULO 165.
 
@@ -1839,7 +2385,7 @@ Para los efectos de esta Ley, se entiende por construcción toda edificación o 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO X. BAÑOS PUBLICOS Y GIMNASIOS
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTICULO 169.
 
@@ -1875,7 +2421,7 @@ El dueño, encargado o poseedor de la construcción, reconstrucción, modificaci
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### ARTICULO 177.
 
@@ -1919,7 +2465,7 @@ La aprobación de las solicitudes de refrigeración, exhumación y cremación de
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 185.
 
@@ -1971,7 +2517,7 @@ Para toda actividad relacionada con este Capítulo se estará a lo dispuesto por
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XIII. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 193.
 
@@ -2021,7 +2567,7 @@ Queda prohibida la venta de carne para el consumo humano, cuando no se cumplan c
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 203.
 
@@ -2057,7 +2603,7 @@ En las poblaciones donde no haya sistema de alcantarillado se estará a lo dispu
 
 ###### ARTICULO 210.
 
-Los proyectos para la implantación de sistemas de alcantarillado deberán ser estudiados y aprobados por la Autoridad Municipal, con la intervención que corresponda al Gobierno del Estado y la obra se Ilevará a cabo bajo la supervisión de la misma.
+Los proyectos para la implantación de sistemas de alcantarillado deberán ser estudiados y aprobados por la Autoridad Municipal, con la intervención que corresponda al Gobierno del Estado y la obra se llevará a cabo bajo la supervisión de la misma.
 
 ###### ARTICULO 211.
 
@@ -2065,7 +2611,7 @@ Queda prohibido que los desechos sólidos o líquidos que conduzcan los caños s
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XV. TRANSPORTE PUBLICO ESTATAL Y MUNICIPAL
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 212.
 
@@ -2093,7 +2639,7 @@ Las condiciones y requisitos sanitarios que deban reunir los establecimientos a 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XVI. GASOLINERIAS
+### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
 
 ###### ARTICULO 215.
 
@@ -2123,7 +2669,7 @@ La Autoridad Sanitaria, deberá practicar visitas periódicas a los reclusorios,
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO XVII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y EN SERES HUMANOS
+### CAPITULO X. BAÑOS PUBLICOS Y GIMNASIOS
 
 ###### ARTICULO 221.
 
@@ -2143,9 +2689,7 @@ Para abrir al servicio público estos establecimientos, deberán sujetarse a lo 
 
 La operación de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y a las Normas Técnicas que en materia de salubridad local dicte el Gobierno del Estado.
 
-### CAPITULO XVIII
-
-DE LOS VENDEDORES SEMIFIJOS Y AMBULANTES.
+### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 224.
 
@@ -2161,21 +2705,7 @@ Una vez terminada la edificación del centro de reunión y antes de abrirse al p
 
 El funcionamiento de los establecimientos a que se refiere el Artículo 224 de esta Ley, deberá sujetarse a las disposiciones legales aplicables y, contara con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XIX. CASAS, EDIFICIOS Y, EN GENERAL, CUALQUIER INMUEBLE DE DOMINIO PUBLICO O PRIVADO
-
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
-
-ARTICULO 248 BIS.- Para los efectos de esta Ley, se entiende por casas, edificios y, en general, cualquier inmueble de dominio público o privado, a los establecimientos destinados como casa habitación, centros de trabajo, bodegas y, cualquier otro tipo de inmueble rústico o urbano.
-
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
-
-ARTICULO 248 TER.- Los propietarios o poseedores de cualquiera de los establecimientos señalados en el artículo anterior, estarán obligados a conservar las condiciones de saneamiento básico de los mismos, en los términos que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes, so pena de las acciones sanitarias preventivas de seguridad a fin de garantizar la salud pública, independientemente de las medidas y sanciones aplicables por esta Ley.
-
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
-
-ARTICULO 248 QUÁTER.- La Secretaría verificará que los establecimientos destinados como casa habitación, centros de trabajo, bodegas y, cualquier otro tipo de inmueble rústico o urbano, cumplan con las condiciones de saneamiento básico que determine esta Ley, los reglamentos respectivos, las normas técnicas correspondientes y las disposiciones legales aplicables.
-
-En el supuesto de que el establecimiento a verificar se encuentre permanentemente cerrado y la causa que origina la visita represente un riesgo inminente para la salud pública, la autoridad sanitaria competente, previa autorización judicial, tendrá libre acceso para llevar a cabo las acciones sanitarias necesarias para corregir las anomalías existentes o detectadas en el establecimiento, mismas que se harán con cargo al propietario.
+### CAPITULO XII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
 
 ###### ARTICULO 227.
 
@@ -2187,7 +2717,7 @@ El funcionamiento y personal de los establecimientos señalados en el Artículo 
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XIII. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### ARTICULO 229.
 
@@ -2205,7 +2735,7 @@ Corresponde a la Autoridad Sanitaria competente ejercer la verificación sanitar
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 231.
 
@@ -2225,7 +2755,7 @@ En los establecimientos de hospedaje, se deberá contar necesariamente con los e
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO XV. TRANSPORTE PUBLICO ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 234.
 
@@ -2237,9 +2767,7 @@ Los transportes que circulen por uno o más Municipios del Estado no requerirán
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
+### CAPITULO XVI. GASOLINERIAS
 
 ###### ARTICULO 236.
 
@@ -2249,9 +2777,7 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad así como las características sanitarias y de prevención ecológicas que establezcan las disposiciones legales y reglamentos aplicables y las norma técnicas correspondientes.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
+### CAPITULO XVII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y EN SERES HUMANOS
 
 ###### ARTICULO 238.
 
@@ -2285,7 +2811,9 @@ Los propietarios de los animales a que se refiere el Artículo anterior estarán
 
 Las Autoridades Sanitarias, mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia así como otras zoonosis.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO XVIII
+
+DE LOS VENDEDORES SEMIFIJOS Y AMBULANTES.
 
 ###### ARTICULO 242.
 
@@ -2319,13 +2847,25 @@ Los vendedores semifijos y ambulantes no podrán vender pescado, marisco, aguas 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2013)</small>
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO XIX. CASAS, EDIFICIOS Y, EN GENERAL, CUALQUIER INMUEBLE DE DOMINIO PUBLICO O PRIVADO
 
-## TITULO XIII. VIGILANCIA SANITARIA
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
 
-> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+ARTICULO 248 BIS.- Para los efectos de esta Ley, se entiende por casas, edificios y, en general, cualquier inmueble de dominio público o privado, a los establecimientos destinados como casa habitación, centros de trabajo, bodegas y, cualquier otro tipo de inmueble rústico o urbano.
 
-### CAPITULO IV. RECURSOS DE INCONFORMIDAD
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+
+ARTICULO 248 TER.- Los propietarios o poseedores de cualquiera de los establecimientos señalados en el artículo anterior, estarán obligados a conservar las condiciones de saneamiento básico de los mismos, en los términos que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes, so pena de las acciones sanitarias preventivas de seguridad a fin de garantizar la salud pública, independientemente de las medidas y sanciones aplicables por esta Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+
+ARTICULO 248 QUÁTER.- La Secretaría verificará que los establecimientos destinados como casa habitación, centros de trabajo, bodegas y, cualquier otro tipo de inmueble rústico o urbano, cumplan con las condiciones de saneamiento básico que determine esta Ley, los reglamentos respectivos, las normas técnicas correspondientes y las disposiciones legales aplicables.
+
+En el supuesto de que el establecimiento a verificar se encuentre permanentemente cerrado y la causa que origina la visita represente un riesgo inminente para la salud pública, la autoridad sanitaria competente, previa autorización judicial, tendrá libre acceso para llevar a cabo las acciones sanitarias necesarias para corregir las anomalías existentes o detectadas en el establecimiento, mismas que se harán con cargo al propietario.
+
+## TITULO DECIMO SEGUNDO. AUTORIZACIONES Y CERTIFICADOS
+
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 249.
 
@@ -2365,7 +2905,7 @@ Los derechos a que se refiere esta Ley se regirán por lo que disponga la Legisl
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 257.
 
@@ -2429,6 +2969,8 @@ La Autoridad Sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiera la autorización revocada.
 
+### CAPITULO III. CERTIFICADOS
+
 ###### ARTICULO 265.
 
 Para los efectos de esta Ley, se entiende por certificado la constancia expedida en los términos que establezcan las Autoridades Sanitarias competentes, para la comprobación o información de determinados hechos.
@@ -2461,9 +3003,13 @@ Las Autoridades Judiciales o Administrativas solo admitirán como válidos los c
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
-## TITULO XIV. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+## TITULO XIII. VIGILANCIA SANITARIA
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 270.
 
@@ -2555,7 +3101,7 @@ V.- En caso de desacuerdo con el resultado que se haya notificado, el interesado
 
 VI.- Con la impugnación a que se refiere la Fracción anterior, el interesado deberá acompañar el original del análisis particular que se hubiere practicado a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia del muestreo, así como, en su caso, la muestra testigo. Sin el cumplimiento de este requisito no se dará trámite a la impugnación y el resultado del análisis oficial quedará firme;
 
-(REFORMADA, P.O. 30 DE ABRIL DE 1998))
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 1998)</small>
 
 VII.- La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la autoridad sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos, el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos, y
 
@@ -2586,6 +3132,14 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la Autoridad Sanitaria competente en el Estado, determinarán por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+
+## TITULO XIV. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+
+> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 282.
 
@@ -2689,6 +3243,8 @@ La desocupación o desalojo de casas, edificios, establecimientos y, en general,
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
+
 ###### ARTICULO 295.
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones que emanen de ella, serán sancionadas administrativamente por las Autoridades Sanitarias del Estado, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
@@ -2733,11 +3289,11 @@ Se sancionará con multa hasta mil veces el salario mínimo general diario vigen
 
 Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 103, 115, 121, 184, 208, 225, 237, 246, 247, 248, 276 y 291 de esta Ley.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 300.
 
-Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que trate, la violación a las disposiciones contenidas en los artículos 62, 87, 90 y 104 de esta Ley.
+Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que trate, la violación a las disposiciones contenidas en los artículos 62, 87, 90, 104, 127-S y 127-T de esta Ley.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
 
@@ -2786,6 +3342,8 @@ Sólo procederá esta sanción, si previamente se dictó cualquier otra de las s
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 307.
 
@@ -2863,6 +3421,8 @@ Cuando del contenido de un acta de verificación se desprenda la posible comisi�
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
+### CAPITULO IV. RECURSOS DE INCONFORMIDAD
+
 ###### ARTICULO 317.
 
 Contra actos y resoluciones que dicten las Autoridades Sanitarias del Estado que con motivo de la aplicación de esta Ley den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de inconformidad.
@@ -2935,6 +3495,8 @@ En la tramitación del recurso de inconformidad, se aplicará supletoriamente el
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
+### CAPITULO V. PRESCRIPCION
+
 ###### ARTICULO 329.
 
 El ejercicio de la facultad para imponer las sanciones administrativas que dicte la autoridad competente previstas en la presente Ley, su reglamento y disposiciones aplicables en la materia, prescribirán en el término de tres años.
@@ -2950,6 +3512,52 @@ Cuando el presunto infractor impugnase los actos de la Autoridad Sanitaria compe
 ###### ARTICULO 332.
 
 Los interesados podrán hacer valer la prescripción, por vía de excepción. La autoridad deberá declararla de oficio.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+## TITULO DECIMO QUINTO. FONDO ESTATAL DE SALUD
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPITULO UNICO. ADMINISTRACION Y DESTINO
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 333.
+
+El Ejecutivo del Estado, acordará la integración de un Fondo Estatal de Salud en el que participen los representantes de los sectores público, social y privado, cuyo propósito es mejorar la calidad y cobertura de los servicios de salud en la Entidad, primordialmente para garantizar la operatividad en la prestación de los servicios básicos.
+
+La administración del patrimonio de este fondo queda a cargo de la Secretaría de Salud del Gobierno del Estado, quien debe informar, de forma semestral, al Consejo Estatal sobre su manejo, el cual verificará el uso adecuado de estos recursos.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 334.
+
+El patrimonio del Fondo Estatal de Salud se integra con:
+
+I. Las aportaciones del Gobierno Federal, Estatal y Municipal;
+
+II. El 20% de las multas que se generen de forma anual por infracciones a esta ley;
+
+III. Las donaciones o herencias que realice cualquier persona física o moral;
+
+IV. Las aportaciones de organismos nacionales e internacionales;
+
+V. Los intereses que se generen del fondo, y
+
+VI. Los demás recursos que obtenga por cualquier otro concepto.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 335.
+
+El patrimonio del Fondo se podrá destinar a:
+
+I. A la adquisición de material de curación para la prestación de los servicios básicos de salud;
+
+II. Al mejoramiento de la infraestructura de las unidades medidas (sic) de los servicios de salud locales, y
+
+III. A sufragar los gastos que origine su administración.
 
 T R A N S I T O R I O S
 
@@ -3060,3 +3668,13 @@ TRANSITORIO:
 P.O. 14 DE JUNIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Ejecutivo del Estado, a través de la Secretaría de Salud, expedirá el Programa de Atención Integral a la Mujer, el Programa Estatal contra el Suicidio, el Programa Estatal para la Prevención, Atención y Control de VIH/SIDA e infecciones de Transmisión Sexual y el Programa Estatal para la prevención y Tratamiento de la Farmacodependencia, en un plazo no mayor a ciento veinte días contados a partir de la entrada en vigor el (sic) presente decreto.
+
+TERCERO. El Ejecutivo del Estado, a través de los mecanismos legales correspondientes, deberá constituir el Fondo Estatal de Salud, en un plazo no mayor a ciento veinte días contados a partir de la entrada en vigor el (sic) presente decreto.
+
+CUARTO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
