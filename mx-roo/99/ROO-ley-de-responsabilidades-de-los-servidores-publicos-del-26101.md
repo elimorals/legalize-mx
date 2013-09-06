@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-responsabilidades-de-los-servidores-publicos-del-26101"
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-30"
-last_updated: "2010-11-05"
+last_updated: "2013-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUINTANA ROO
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUINTANA ROO
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 30 de septiembre de 2002.
 
@@ -227,7 +227,7 @@ Si la votación fuere en el sentido de que no es responsable el servidor públic
 
 ### CAPITULO II. DE LA DECLARATORIA DE PROCEDENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 27.
 
@@ -325,7 +325,7 @@ Todo lo no previsto por esta Ley y en las discusiones y votaciones se observará
 
 En el juicio político a que se refiere esta Ley, los acuerdos y determinaciones de la Legislatura se tomarán en sesión pública, excepto en la que se presente la acusación o cuando las buenas costumbres o el interés general, exijan que la audiencia sea secreta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 43.
 
@@ -351,7 +351,7 @@ En todo lo relativo al procedimiento del juicio político no previsto en esta Le
 
 ### CAPITULO I. OBLIGACIONES DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 47.
 
@@ -405,23 +405,35 @@ XXIII.- Abstenerse de impedir, por sí o por interpósita persona, utilizando cu
 
 XXIV.- Proporcionar en forma oportuna y veraz, la información y datos solicitados por la institución a la que legalmente le compete la vigilancia y defensa de los derechos humanos a efecto de que ésta pueda cumplir con sus atribuciones;
 
-XXV.- Cumplir con la entrega del despacho a su cargo en los términos que establezcan las disposiciones legales o administrativas que al efecto se establezcan;
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-XXVI.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de utilizar los recursos públicos que tenga a su disposición en virtud de su cargo, al apoyo de un partido político o de un candidato, o de proporcionar ese apoyo con su participación o a través de la de sus subordinados usando el tiempo correspondiente a sus labores para prestar servicios a un partido político o a un candidato; sin perjuicio de la responsabilidad penal que pudiere corresponderle;
+XXV.- Responder las recomendaciones que les presente la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, y en el supuesto de que se decida no aceptar o no cumplir las recomendaciones, deberá hacer pública su negativa, fundándola y motivándola en términos de lo dispuesto por el Apartado B, del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos y, la Ley de la Comisión Estatal de los Derechos Humanos;
 
-XXVII.- Abstenerse de adquirir para sí o para las personas a que se refiere la fracción XIV, bienes inmuebles que pudieren incrementar su valor o, en general, que mejore sus condiciones, como resultado de la realización de obras o inversiones públicas o privadas, que haya autorizado o tenido conocimiento con motivo de su empleo, cargo o comisión. Esta restricción será aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión;
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-XXVIII.- El servidor público que deje de desempeñar su empleo, cargo o comisión deberá observar, hasta un año después de haber concluido sus funciones, lo siguiente:
+XXVI.- Atender los llamados de la Comisión Legislativa de Derechos Humanos, a comparecer, a efecto de que expliquen el motivo de su negativa a aceptar o cumplir las recomendaciones de la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, en términos del Apartado B, del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+XXVII.- Abstenerse de incurrir en la reiteración de conductas que hayan sido materia de una recomendación previa, que no haya sido aceptada o cumplida, emitida por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos;
+
+XXVIII.- Cumplir con la entrega del despacho a su cargo en los términos que establezcan las disposiciones legales o administrativas que al efecto se establezcan;
+
+XXIX.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de utilizar los recursos públicos que tenga a su disposición en virtud de su cargo, al apoyo de un partido político o de un candidato, o de proporcionar ese apoyo con su participación o a través de la de sus subordinados usando el tiempo correspondiente a sus labores para prestar servicios a un partido político o a un candidato; sin perjuicio de la responsabilidad penal que pudiere corresponderle;
+
+XXX.- Abstenerse de adquirir para sí o para las personas a que se refiere la fracción XIV, bienes inmuebles que pudieren incrementar su valor o, en general, que mejore sus condiciones, como resultado de la realización de obras o inversiones públicas o privadas, que haya autorizado o tenido conocimiento con motivo de su empleo, cargo o comisión. Esta restricción será aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión;
+
+XXXI.- El servidor público que deje de desempeñar su empleo, cargo o comisión deberá observar, hasta un año después de haber concluido sus funciones, lo siguiente:
 
 a) En ningún caso aprovechará su influencia u obtendrá alguna ventaja derivada de la función que desempeñaba, para sí o para las personas a que se refiere la fracción XIV.
 
-b) No usar en provecho propio o de terceros, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sea del dominio público;
+b) No usar en provecho propio o de terceros, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sea del dominio público.
 
 > <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
-XXIX.- Recibir y dar curso por los superiores jerárquicos de toda queja por hostigamiento sexual o acoso sexual que le formulen sus subordinados;
+XXXII.- Recibir y dar curso por los superiores jerárquicos de toda queja por hostigamiento sexual o acoso sexual que le formulen sus subordinados.
 
-XXX.- Las demás que le impongan las leyes, reglamentos, decretos, acuerdos y convenios vigentes en el Estado.
+XXXIII.- Las demás que le impongan las leyes, reglamentos, decretos, acuerdos y convenios vigentes en el Estado.
 
 ###### ARTICULO 48.
 
@@ -901,7 +913,7 @@ LA SECRETARIA DE LA CONTRALORIA DEL ESTADO DE QUINTANA ROO
 
 LIC. SONIA LETICIA ELÍAS CORAL
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE JUNIO DE 2004.
 
@@ -918,3 +930,9 @@ P.O. 5 DE NOVIEMBRE DE 2010.
 TRANSITORIO:
 
 ÚNICO.- Para los efectos legales que correspondan, publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quinta Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
