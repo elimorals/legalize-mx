@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-cultura-y-las-artes-del-estado-de-quintana-roo-58298"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2007-12-17"
+last_updated: "2013-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE CULTURA Y LAS ARTES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Número 85 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -253,7 +253,7 @@ Para efectos de lo anterior, la Secretaria llevará a cabo una evaluación con v
 
 V.- Que para el desarrollo de las actividades culturales a realizar por el Ejecutivo, las que se realicen bajo su patrocinio o las convenidas con las instituciones, organismos y los particulares, consideren los siguientes aspectos:
 
-a Conocer y valorar con anticipación las actividades que se pretenden llevara cabo;
+a Conocer y valorar con anticipación las actividades que se pretenden llevar a cabo;
 
 b Cerciorarse del buen prestigio y la solvencia profesional de los autores o responsables de dichas actividades;
 
@@ -279,7 +279,7 @@ VI.- Se cuente con los recursos financieros necesarios para ello.
 
 ###### ARTÍCULO 14.
 
-El Ejecutivo del Estado podrá, de acuerdo con el presupuesto disponible y por conducto de la Secretaría, enviar las obras Inerarias que edite, a:
+El Ejecutivo del Estado podrá, de acuerdo con el presupuesto disponible y por conducto de la Secretaría, enviar las obras literarias que edite, a:
 
 l.- La red de bibliotecas públicas municipales y las asociaciones culturales;
 
@@ -675,21 +675,25 @@ III.- Dar crédito al Gobierno del Estado y a la Secretaría en los productos y 
 
 En caso de que los beneficiarios del fondo no cumplan con los compromisos señalados en este artículo, ya no podrán solicitar recursos del mismo en años posteriores.
 
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
 ## TÍTULO CUARTO. DE LOS ÓRGANOS DE CONSULTA Y APOYO CULTURAL
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
 ### CAPÍTULO ÚNICO. DEL CONSEJO CONSULTIVO DE CULTURA DEL ESTADO
 
 ###### ARTÍCULO 42.
 
-El Ejecutivo del Estado creará un Consejo Consultivo de Cultura el cual funcionará con el carácter de órgano colegiado y honorario de colaboración, orientación y consulta, que coadyuvará en la planeación, desarrollo y gestión de la política cultural de la entidad.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2013)
 
 ###### ARTÍCULO 43.
 
-Este Consejo Consultivo coadyuvará con la Secretaria y la Secretaría de Desarrollo, en la realización de dictámenes de viabilidad sobre las declaratorias de obras y objetos, y sitios que deban ser considerados Patrimonio Cultural del Estado, así como aportar opiniones, para la elaboración de los programas y proyectos, orientados a la preservación y promoción de la cultura.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2013)
 
 ###### ARTÍCULO 44.
 
-Su constitución, atribuciones y funcionamiento, estará sujeto a lo que establezcan las disposiciones reglamentarias expedidas por el ejecutivo del Estado.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2013)
 
 ## TÍTULO QUINTO. DEL PATRIMONIO CULTURAL DEL ESTADO
 
@@ -757,23 +761,25 @@ Para efecto de lo anterior, el Consejo Estatal para la Cultura y las Artes deter
 
 Las personas que observen o tengan conocimiento de peligro de destrucción, pérdida o deterioro de un bien declarado Patrimonio Cultural del Estado, deberán hacerlo del conocimiento de la Secretaría quien comprobará el hecho y procederá conforme a lo necesario para su protección.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
 ### CAPÍTULO II. DEL REGISTRO DEL PATRIMONIO CULTURAL DEL ESTADO
 
 ###### ARTÍCULO 52.
 
-Con objeto de contar con un control de los bienes culturales existentes y contribuir a su preservación, el Ejecutivo del Estado, por conducto de la Secretaría, conformará un Registro del Patrimonio Cultural del Estado, que contendrá la relación ordenada y clasificada de dichos bienes, tanto públicos como privados, muebles e inmuebles.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2013)
 
 ###### ARTÍCULO 53.
 
-Para el control estadístico y administrativo por parte de la Secretaria, de los elementos considerados Patrimonio Cultural del Estado, se deberá solicitar la colaboración de las instancias normativas competentes; particularmente de aquellos bienes, que carecen de un registro actualizado.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2013)
 
 ###### ARTÍCULO 54.
 
-Las instrucciones competentes integrarán el Registro Cultural del Estado y estará a cargo de la Secretaría, cuando se trate de muebles e inmuebles respectivamente, que lo mantendrá permanentemente actualizado. Ese registro podrá incrementarse mediante la aportación de datos que realicen los particulares, instituciones públicas o los organismos no gubernamentales vinculados a la cultura o las artes, previo análisis del valor artístico e histórico que se determine conforme a lo que establezca esta Ley.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2013)
 
 ###### ARTÍCULO 55.
 
-Para cumplir con lo señalado en este Capítulo, la Secretaría deberá convenir con las autoridades competentes, sobre todo lo relativo para integrar dicho registro, con la finalidad de fortalecer la preservación de esos bienes, pudiendo la Secretaria determinar la aplicación supletoria de las disposiciones de la Ley del Patrimonio del Estado de Quintana Roo.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2013)
 
 ### CAPÍTULO III. DE LA DECLARATORIA DE PATRIMONIO CULTURAL Y FECHAS CONMEMORATIVAS DEL ESTADO
 
@@ -1054,3 +1060,9 @@ LIC. FELIX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 ROSARIO ORTIZ YELADAQUI.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE QUINTANA ROO.]</small>
