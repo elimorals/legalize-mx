@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "2013-07-30"
+last_updated: "2013-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -67,9 +67,13 @@ En los casos no previstos en esta Ley o sus reglamentos, se aplicará supletoria
 
 Las Leyes respectivas y los tratados celebrados y aprobados de conformidad con lo dispuesto por el Artículo 133 de la Constitución General de la República serán aplicables a las relaciones de trabajo en todo lo que beneficie al trabajador, a partir de la fecha de su vigencia.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 7.
 
-En la interpretación de las normas de trabajo deberá entenderse que (sic) estas tienden a procurar el logro de la justicia social, considerando que el trabajo es un derecho y un deber social, y no un artículo de comercio. Por tanto debe exigirse que sean respetadas las libertades y dignidad de quien lo ofrece, en tanto quien lo recibe está obligado a guardar las condiciones que aseguren la vida, la salud y un nivel económico decoroso para el trabajador y su familia. No podrán establecerse distinciones entre los trabajadores por motivo de raza, sexo, edad, credo religioso, doctrina política o condición social.
+En la interpretación de las normas de trabajo deberá entenderse que estas tienden a procurar el logro de la justicia social, considerando que el trabajo es un derecho y un deber social, y no un artículo de comercio. Por tanto debe exigirse que sean respetadas las libertades y dignidad de quien lo ofrece, en tanto quien lo recibe está obligado a guardar las condiciones que aseguren la vida, la salud y un nivel económico decoroso para el trabajador y su familia.
+
+No podrán establecerse distinciones entre los trabajadores por razón de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, la condición sexual, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de los trabajadores. Cualquier acto o comportamiento que tenga por efecto anular o alterar la igualdad de oportunidades o de trato en el empleo u ocupación, será considerado como discriminatorio.
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
 
@@ -525,11 +529,15 @@ XI.- Contribuir al fomento de las actividades deportivas y culturales entre sus 
 
 XII.- Emitir los lineamientos que contengan los procedimientos administrativos en materia laboral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 50.
 
 Queda prohibido a los funcionarios de los Poderes, Ayuntamientos y Organismos Descentralizados:
 
-I.- Negarse a aceptar trabajadores por razón de edad.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+I. Negarse a aceptar trabajadores por razón de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, la condición sexual, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de los trabajadores;
 
 II.- Intervenir en cualquier forma en el régimen interno, de los sindicatos o de la federación respectiva.
 
@@ -577,9 +585,47 @@ III.- La prisión preventiva del trabajador seguida de sentencia absolutoria o e
 
 Los trabajadores que tengan encomendado el manejo de fondos, valores o bienes, podrán ser suspendidos hasta por sesenta días por los funcionarios competentes cuando apareciere alguna irregularidad en su gestión, en tanto se efectúa la investigación y se resuelve su cese.
 
-### CAPITULO IX. DEL TERMINO DE LA RELACION CONTRACTUAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-### CAPITULO X. DEL ESCALAFON
+### CAPÍTULO VIII BIS. DEL TRABAJO DE LAS PERSONAS CON DISCAPACIDAD
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 52
+
+BIS.- Las personas con discapacidad tendrán los mismos derechos y obligaciones que ésta Ley establece para los trabajadores, con el propósito de incorporar en condiciones de igualdad y equidad a las personas con discapacidad al trabajo, evitando así situaciones de discriminación, segregación, negociación o explotación.
+
+Para los efectos que la ley disponga se entenderá al trabajador con discapacidad como aquél que presente una ausencia, pérdida o restricción de la habilidad para desarrollar una actividad neuromotora, intelectual, visual o auditiva, que no le impiden la realización o desarrollo de la actividad laboral.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 52
+
+TER.- Los sujetos obligados de esta ley, adecuarán sus instalaciones de trabajo, de acuerdo a las normas y reglamentos vigentes, para proporcionar a los trabajadores con discapacidad las condiciones necesarias de acceso, seguridad y libre desplazamiento, que les permitan efectuar con normalidad sus actividades laborales.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 52
+
+QUÁTER.- No se podrá dar preferencia a una persona íntegra en sus capacidades físicas, mentales o sensoriales, sobre una persona con discapacidad que califique por encima de la primera para ocupar un puesto vacante.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 52
+
+QUINQUIES.- La contratación de las personas con discapacidad se sujetará a las reglas siguientes:
+
+I. Deberán ser considerados en igualdad de condiciones respecto de cualquier otra persona, siempre y cuando la persona con discapacidad acredite su aptitud para ocupar el empleo que pretende y no se ponga en riesgo su salud o vida o de sus compañeros de trabajo, ni se comprometa la seguridad del centro de trabajo.
+
+II. Las personas con discapacidad tendrán derecho a trabajos compatibles de acuerdo con su condición de discapacidad y aptitudes, siendo los sujetos obligados por la presente Ley en su carácter de patrones, quienes informen de forma clara, oportuna y precisa las condiciones, del tipo y características del trabajo, considerando las facilidades de accesibilidad, libre desplazamiento y ubicación del trabajo ofertado.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 52
+
+SEXTIES.- Los trabajadores con discapacidad podrán recibir rehabilitación laboral, capacitación y desarrollo de habilidades para el trabajo atendiendo a su discapacidad, en estas materias. Los sujetos obligados por la presente Ley, podrán solicitar apoyo y orientación de las instituciones públicas y privadas especializadas.
+
+### CAPITULO IX. DEL TERMINO DE LA RELACION CONTRACTUAL
 
 ###### ARTICULO 53.
 
@@ -627,7 +673,7 @@ BIS.- Cuando el trabajador incurra en algunas de las causales a que se refiere l
 
 Si a juicio del Titular procede a demandar ante el Tribunal Estatal de Conciliación y Arbitraje la terminación de los afectados del nombramiento del trabajador, a la demanda se acompañarán como instrumento base de la acción, el acta administrativa y los documentos que, al formularse ésta, se hayan agregado a la misma.
 
-### CAPITULO XI. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES
+### CAPITULO X. DEL ESCALAFON
 
 ###### ARTICULO 54.
 
@@ -725,9 +771,7 @@ Las vacantes temporales mayores de seis meses, serán las que se originen por li
 
 Los jefes de las Dependencias, de acuerdo con los Representantes Sindicales respectivos, podrán proponer, con el objetivo de cubrir vacantes sujetas a escalafón, movimientos de carácter provisional de acuerdo con lo que señalen las condiciones generales del trabajo.
 
-### CAPITULO XII. CONDICIONES GENERALES DE TRABAJO
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1996)</small>
+### CAPITULO XI. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES
 
 ###### ARTICULO 74.
 
@@ -881,7 +925,9 @@ Los Sindicatos de los Trabajadores de los Poderes Ejecutivo, Legislativo y judic
 
 Todos los conflictos que surjan entre las Federaciones y los Sindicatos, o entre los Sindicatos mismos, serán resueltos por el Tribunal Estatal de Conciliación y Arbitraje.
 
-### CAPITULO XIII. DE LA HUELGA
+### CAPITULO XII. CONDICIONES GENERALES DE TRABAJO
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 97.
 
@@ -917,7 +963,7 @@ Las condiciones generales de trabajo, salvo acuerdo entre las partes, surtirán 
 
 Las prestaciones económicas de las condiciones generales de trabajo que signifiquen erogaciones económicas, deberán ser analizadas y aprobadas por las respectivas unidades administrativas de cada uno de los Poderes, Ayuntamientos y organismos descentralizados, que de acuerdo con su normatividad autoricen erogaciones y manejen fondos y valores. Sin este requisito, no podrá exigirse su cumplimiento.
 
-### CAPITULO XIV. DECLARACION, PROCEDIMIENTO Y TERMINACION DE LA HUELGA
+### CAPITULO XIII. DE LA HUELGA
 
 ###### ARTICULO 102.
 
@@ -977,7 +1023,7 @@ La huelga deberá limitarse al mero acto de la suspensión de trabajo.
 
 Los actos de coacción o de violencia física o moral sobre las personas o de fuerza sobre las cosas cometidas por los huelguistas, tendrán como consecuencia, respecto de los responsables, la pérdida de su calidad de trabajadores. Si no constituyen otro delito cuya pena sea mayor, se sancionará con prisión hasta de dos años y multa hasta de diez mil pesos, más la reparación del daño.
 
-### CAPITULO XV. DE LA PRESCRIPCION
+### CAPITULO XIV. DECLARACION, PROCEDIMIENTO Y TERMINACION DE LA HUELGA
 
 ###### ARTICULO 111.
 
@@ -1037,9 +1083,7 @@ IV.- Por laudo de la persona o Tribunal que a solicitud de las partes y con la c
 
 V.- Por sobrevenir el estado previsto por el Artículo 29 de la Constitución General de la República.
 
-### CAPITULO XVI. DEL TRIBUNAL ESTATAL DE CONCILIACION DE ARBITRAJE, INTEGRACION Y FUNCIONAMIENTO
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+### CAPITULO XV. DE LA PRESCRIPCION
 
 ###### ARTICULO 122.
 
@@ -1091,6 +1135,10 @@ El primer día se contará completo aún cuando no lo sea, y cuando sea inhábil
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
+### CAPITULO XVI. DEL TRIBUNAL ESTATAL DE CONCILIACION DE ARBITRAJE, INTEGRACION Y FUNCIONAMIENTO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 126.
 
 El Tribunal Estatal de Conciliación y arbitraje será colegiado, funcionará en Pleno de Salas; éstas se integran con dos representantes cada una, siendo el Presidente del Tribunal el tercer árbitro quien formará parte de cada una de las Salas y lo presidirá.
@@ -1135,7 +1183,7 @@ El Tribunal Estatal de Conciliación y Arbitraje se ajustará a las siguientes b
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-l.- Contará con un Secretario General de Acuerdos, Secretarios Proyectistas, Auxiliares de Acuerdos, Actuarios y el personal que sea necesario;
+I.- Contará con un Secretario General de Acuerdos, Secretarios Proyectistas, Auxiliares de Acuerdos, Actuarios y el personal que sea necesario;
 
 II.- (DEROGADA, P.O. 22 DE MARZO DE 2011)
 
@@ -1532,3 +1580,7 @@ P.O. 30 DE JULIO DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Los Poderes Legislativo, Ejecutivo y Judicial, Ayuntamientos y Organismos Descentralizados, en un término no mayor de ciento ochenta días hábiles deberán contar con los lineamientos que contengan los procedimientos administrativos en materia laboral.
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
