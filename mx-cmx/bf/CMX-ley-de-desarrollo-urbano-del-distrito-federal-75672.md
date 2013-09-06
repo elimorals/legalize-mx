@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2010-07-15"
+last_updated: "2013-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -552,7 +552,9 @@ La formulación y aprobación de los programas se sujetará al siguiente procedi
 
 I. La Secretaría publicará en la Gaceta Oficial del Distrito Federal el aviso para informar el inicio de la formulación del programa;
 
-II. La Secretaría, en un plazo máximo de 180 días hábiles contados a partir de la publicación del aviso a que se refiere la fracción anterior, formulará un proyecto de programa, con el auxilio de talleres de participación ciudadana;
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+II. La Secretaría, en un plazo máximo de 180 días hábiles contados a partir de la publicación del aviso a que se refiere la fracción anterior, formulará un proyecto de programa, con el auxilio de talleres de participación ciudadana. Cuando se trate de formulación y aprobación de programas relacionados con suelo de conservación, la Secretaría de Medio Ambiente deberá pronunciarse irrenunciablemente en un término no mayor a 90 días hábiles sobre el particular, fundando dicha resolución en el Programa General de Ordenamiento Ecológico del Distrito Federal; dicha resolución tendrá carácter definitivo y vinculatorio y en caso de negativa por parte de la Secretaría de Medio Ambiente, dicho asunto se tendrá por concluido y ya no se turnará a la Asamblea Legislativa del Distrito Federal para su análisis.
 
 III. La Secretaría lo remitirá, al Jefe Delegacional correspondiente para que haga observaciones;
 
@@ -582,7 +584,9 @@ XV. Concluido el plazo a que se refiere la fracción anterior, la Secretaría de
 
 XVI. El Jefe de Gobierno, en un plazo no mayor a 20 días hábiles, presentará a consideración de la Asamblea el programa;
 
-XVII. La Asamblea tendrá un plazo máximo de 40 días hábiles de los periodos de sesiones ordinarias, contados a partir de la fecha de recepción del programa, para resolver, o en su caso, notificar observaciones y devolver el programa con su expediente técnico al Jefe de Gobierno;
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+XVII. La Asamblea tendrá un plazo máximo de 90 días hábiles de los periodos de sesiones ordinarias, contados a partir de la fecha de recepción del programa, para resolver, o en su caso, notificar observaciones y devolver el programa con su expediente técnico al Jefe de Gobierno;
 
 XVIII. Si en el plazo a que se refiere la fracción anterior, la Asamblea no resuelve o no notifica al Jefe de Gobierno sus observaciones, se entenderá que el programa ha sido aprobado y el Jefe de Gobierno procederá a promulgarlo y publicarlo en la Gaceta Oficial del Distrito Federal;
 
@@ -590,7 +594,9 @@ XIX. Si la Asamblea notifica al Jefe de Gobierno observaciones al programa en el
 
 XX. La Secretaría practicará las adecuaciones al programa en un plazo máximo de 10 días hábiles, al término del cual lo volverá a remitir al Jefe de Gobierno para que, a su vez, lo presente nuevamente a consideración de la Asamblea;
 
-XXI. La Asamblea tendrá un plazo máximo de 20 días hábiles de los periodos de sesiones ordinarias para resolver sobre la aprobación del programa;
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+XXI. La Asamblea tendrá un plazo máximo de 45 días hábiles de los periodos de sesiones ordinarias para resolver sobre la aprobación del programa;
 
 XXII. Si en el plazo a que se refiere la fracción anterior, la Asamblea no resuelve sobre la aprobación del programa, se entenderá que éste ha sido aprobado y el Jefe de Gobierno procederá a promulgarlo y publicarlo en la Gaceta Oficial del Distrito Federal;
 
@@ -638,7 +644,9 @@ La formulación de modificaciones a los programas iniciada de oficio por la Secr
 
 I. La Secretaría formulará el proyecto de modificación del programa;
 
-II. Si media una solicitud de parte, con base en ella la Secretaría deberá formular el proyecto en un plazo máximo de 20 días hábiles contados a partir de la fecha de recepción de la solicitud;
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+II. Si media una solicitud de parte, con base en ella la Secretaría deberá formular el proyecto en un plazo máximo de 20 días hábiles contados a partir de la fecha de recepción de la solicitud. Cuando se trate de modificaciones a los programas relacionados con suelo de conservación, la Secretaría de Medio Ambiente deberá pronunciarse irrenunciablemente en un término no mayor a 15 días hábiles sobre la procedencia o no de la solicitud, fundando dicha resolución en el Programa General de Ordenamiento Ecológico del Distrito Federal; dicha resolución tendrá carácter definitivo y vinculatorio y en caso de negativa por parte de la Secretaría de Medio Ambiente, dicho asunto se tendrá por concluido y ya no se turnará a la Asamblea Legislativa del Distrito Federal para su análisis.
 
 III. Por cada proyecto de modificación la Secretaría integrará un expediente técnico que deberá contener los antecedentes que determinan la necesidad de modificar el programa, y en su caso la solicitud de parte, así como las constancias de todo lo que se actúe en el procedimiento;
 
@@ -652,7 +660,9 @@ VII. La Secretaría deberá remitir al Jefe de Gobierno el proyecto de modificac
 
 VIII. El Jefe de Gobierno presentará a consideración de la Asamblea la modificación con su respectivo expediente técnico;
 
-IX. La Asamblea tendrá un plazo máximo de 40 días hábiles de los periodos de sesiones ordinarias contados a partir de la fecha de recepción de la modificación, para resolver, y en su caso, notificar observaciones y devolver la modificación con su expediente técnico al Jefe de Gobierno;
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+IX. La Asamblea tendrá un plazo máximo de 90 días hábiles de los periodos de sesiones ordinarias contados a partir de la fecha de recepción de la modificación, para resolver, y en su caso, notificar observaciones y devolver la modificación con su expediente técnico al Jefe de Gobierno;
 
 X. Si en el plazo a que se refiere la fracción anterior, la Asamblea no resuelve o no notifica al Jefe de Gobierno sus observaciones, se entenderá que la modificación ha sido aprobada y el Jefe de Gobierno procederá a promulgarla y publicarla en la Gaceta Oficial del Distrito Federal;
 
@@ -660,7 +670,9 @@ XI. Si la Asamblea notifica al Jefe de Gobierno observaciones a la modificación
 
 XII. La Secretaría practicará las adecuaciones a la modificación en un plazo máximo de 10 días hábiles, al término del cual la volverá a remitir al Jefe de Gobierno para que, a su vez, la presente nuevamente a consideración de la Asamblea;
 
-XIII. La Asamblea tendrá un plazo máximo de 20 días hábiles de los periodos de sesiones ordinarias para resolver sobre la aprobación de la modificación;
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+XIII. La Asamblea tendrá un plazo máximo de 45 días hábiles de los periodos de sesiones ordinarias para resolver sobre la aprobación de la modificación;
 
 XIV. Si en el plazo a que se refiere la fracción anterior, la Asamblea no resuelve sobre la aprobación de la modificación, se entenderá que ésta ha sido aprobada y el Jefe de Gobierno procederá a promulgarla y publicarla en la Gaceta Oficial del Distrito Federal;
 
@@ -678,7 +690,9 @@ II. Cuando la solicitud se refiera al cambio de zonificación de un predio espec
 
 III. Concluido el plazo previsto en la fracción anterior, la Secretaría remitirá la solicitud y las opiniones de los vecinos al Comité Técnico de Modificaciones a los Programas de Desarrollo Urbano, para su dictamen;
 
-IV. El Comité Técnico de Modificaciones a los Programas de Desarrollo Urbano emitirá su dictamen en un plazo máximo de 10 días hábiles contados a partir de la fecha en que concluya el plazo para que los vecinos manifiesten opiniones a la Secretaría;
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+IV. El Comité Técnico de Modificaciones a los Programas de Desarrollo Urbano emitirá su dictamen en un plazo máximo de 10 días hábiles contados a partir de la fecha en que concluya el plazo para que los vecinos manifiesten opiniones a la Secretaría. Cuando la solicitud de modificación a los programas se refiera a suelo de conservación, la Secretaría de Medio Ambiente tendrá voto definitivo y vinculatorio, por lo que deberá pronunciarse sobre el particular en un término no mayor a 5 días hábiles sobre la procedencia o no de la solicitud, fundando dicha resolución en el Programa General de Ordenamiento Ecológico del Distrito Federal, y en caso de negativa por parte de la Secretaría de Medio Ambiente, dicho asunto se tendrá por concluido y ya no se turnará a la Asamblea Legislativa del Distrito Federal para su análisis.
 
 V. Si el dictamen a que se refiere la fracción anterior es favorable, la Secretaría formulará el proyecto de modificación;
 
@@ -692,9 +706,13 @@ IX. El Jefe de Gobierno presentará a consideración de la Asamblea la modificac
 
 X. La Comisión de Desarrollo e Infraestructura Urbana de la Asamblea dictaminará la modificación presentada por el Jefe de Gobierno y someterá su dictamen a la aprobación del Pleno de la Asamblea;
 
-XI. El plazo máximo para que la Comisión de Desarrollo e Infraestructura Urbana de la Asamblea cumpla con la fracción anterior, será de 20 días hábiles contados a partir de la fecha en que reciba la modificación del programa;
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-XII. El Pleno de la Asamblea resolverá sobre el dictamen de la Comisión de Desarrollo e Infraestructura Urbana en un plazo máximo de 20 días hábilesde (sic) los periodos de sesiones ordinarias contados a partir de la fecha en que se reciba el dictamen de la Comisión;
+XI. El plazo máximo para que la Comisión de Desarrollo e Infraestructura Urbana de la Asamblea cumpla con la fracción anterior, será de 90 días hábiles contados a partir de la fecha en que reciba la modificación del programa;
+
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+XII. El Pleno de la Asamblea resolverá sobre el dictamen de la Comisión de Desarrollo e Infraestructura Urbana en un plazo máximo de 45 días hábiles de los periodos de sesiones ordinarias contados a partir de la fecha en que se reciba el dictamen de la Comisión;
 
 XIII. Si el Pleno de la Asamblea hace observaciones a la modificación, la devolverá al Jefe de Gobierno con su respectivo expediente técnico, en un plazo máximo de tres días hábiles de los periodos de sesiones ordinarias contados a partir de la fecha en que se aprueben las observaciones;
 
@@ -704,7 +722,9 @@ XV. Si en el plazo que establece este artículo, el Pleno de la Asamblea notific
 
 XVI. La Secretaría practicará las adecuaciones a la modificación en un plazo máximo de 10 días hábiles, al término del cual la volverá a remitir al Jefe de Gobierno para que, a su vez, la presente nuevamente a consideración de la Asamblea;
 
-XVII. La Asamblea tendrá un plazo máximo de 20 días hábiles para resolver sobre la aprobación de la modificación;
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+XVII. La Asamblea tendrá un plazo máximo de 45 días hábiles para resolver sobre la aprobación de la modificación;
 
 XVIII. Si en el plazo a que se refiere la fracción anterior, el Pleno de la Asamblea no resuelve sobre la aprobación de la modificación, se entenderá que ésta ha sido aprobada y el Jefe de Gobierno procederá a promulgarla y publicarla en la Gaceta Oficial del Distrito Federal;
 
@@ -718,7 +738,9 @@ I. La Secretaría de Desarrollo Urbano y Vivienda, quien lo presidirá;
 
 II. La Secretaría de Desarrollo Económico;
 
-III. La Secretaría de Medio Ambiente;
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+III. La Secretaría de Medio Ambiente, misma que tendrá voto definitivo y vinculatorio cuando se trate de modificaciones a los programas relacionados con suelo de conservación, por lo que deberá pronunciarse de manera irrenunciable en un término no mayor a 30 días hábiles sobre la procedencia o no de la solicitud, fundando dicha resolución en lo dispuesto por el Programa General de Ordenamiento Ecológico del Distrito Federal y en caso de negativa por parte de la Secretaría de Medio Ambiente, dicho asunto se tendrá por concluido y ya no se turnará a la Asamblea Legislativa del Distrito Federal para su análisis.
 
 IV. La Secretaría de Transporte y Vialidad;
 
@@ -788,7 +810,9 @@ IV. Una vez formulado el proyecto, el Comité lo remitirá con su expediente té
 
 V. El Jefe de Gobierno presentará a consideración de la Asamblea el instrumento denominado Área de Gestión Estratégica con su respectivo expediente técnico;
 
-VI. La Asamblea tendrá un plazo máximo de 40 días hábiles de los periodos de sesiones ordinarias contados a partir de la fecha de recepción del instrumento para resolver, y en su caso, notificar observaciones y devolver el instrumento al Jefe de Gobierno;
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+VI. La Asamblea tendrá un plazo máximo de 90 días hábiles de los periodos de sesiones ordinarias contados a partir de la fecha de recepción del instrumento para resolver, y en su caso, notificar observaciones y devolver el instrumento al Jefe de Gobierno;
 
 VII. Si en el plazo a que se refiere la fracción anterior, la Asamblea no resuelve ni notifica al Jefe de Gobierno sus observaciones, se entenderá que el Área de Gestión Estratégica ha sido aprobada y el Jefe de Gobierno procederá a promulgarla y publicarla en la Gaceta Oficial del Distrito Federal;
 
@@ -796,7 +820,9 @@ VIII. Si la Asamblea notifica al Jefe de Gobierno observaciones al instrumento e
 
 IX. El Comité hará las adecuaciones al instrumento en un plazo máximo de 10 días hábiles, al término del cual la volverá a remitir al Jefe de Gobierno para que, a su vez, lo presente nuevamente a consideración de la Asamblea;
 
-X. La Asamblea tendrá un plazo máximo de 20 días hábiles de los periodos de sesiones orinarias (sic) para resolver sobre la aprobación del Área de Gestión Estratégica;
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+X. La Asamblea tendrá un plazo máximo de 45 días hábiles de los periodos de sesiones ordinarias para resolver sobre la aprobación del Área de Gestión Estratégica;
 
 XI. Si en el plazo a que se refiere la fracción anterior, la Asamblea no resuelve sobre la aprobación del instrumento, se entenderá que éste ha sido aprobado y el Jefe de Gobierno procederá a promulgarlo y publicarlo en la Gaceta Oficial del Distrito Federal;
 
@@ -810,7 +836,9 @@ I. La Secretaría de Desarrollo Urbano y Vivienda, quien lo presidirá;
 
 II. La Secretaría de Desarrollo Económico;
 
-III. La Secretaría de Medio Ambiente;
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+III. La Secretaría de Medio Ambiente; misma que tendrá voto definitivo y vinculatorio cuando se trate de programas relacionados con suelo de conservación, por lo que deberá pronunciarse de manera irrenunciable en un término no mayor a 30 días hábiles sobre la procedencia o no de la solicitud, fundando dicha resolución en lo dispuesto por el Programa General de Ordenamiento Ecológico del Distrito Federal y en caso de negativa por parte de la Secretaría de Medio Ambiente, dicho asunto se tendrá por concluido y ya no se turnará a la Asamblea Legislativa del Distrito Federal para su análisis.
 
 IV. La Secretaría de Transporte y Vialidad;
 
@@ -1414,12 +1442,40 @@ CUARTO. Los Programas Delegacionales y Parciales de Desarrollo Urbano, Recursos 
 
 QUINTO. Los Programas de Desarrollo Urbano expedidos con anterioridad a la vigencia de esta Ley, continuarán en vigor.
 
-SEXTO. Con el propósito de fomentar y consolidar, la actividad económica de la Ciudad, la Secretaría de Desarrollo Urbano y Vivienda en coordinación con las Delegaciones emitirá, dentro de un plazo de 90 días posteriores a la entrada en vigor de la presente Ley, un programa de regularización del uso del suelo de establecimientos mercantiles de hasta 100 metros cuadrados de superficie construida, cuyos giros sean abasto y almacenamiento, venta de productos básicos y de especialidades, administración y asistencia social, y sean de bajo impacto urbano de conformidad con lo establecido en el artículo 42 de esta Ley, para que cuenten con el certificado del uso del suelo correspondiente.
+> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+SEXTO. Con el propósito de fomentar y consolidar, la actividad económica de la Ciudad, la Secretaría de Desarrollo Urbano y Vivienda en coordinación con las Delegaciones emitirá, dentro de un plazo de 90 días posteriores a la entrada en vigor de la presente, un programa de regularización del uso del suelo de establecimientos mercantiles de hasta 100 metros cuadrados de superficie construida, cuyos giros sean abasto y almacenamiento, venta de productos básicos y de especialidades, administración y asistencia social, y sean de bajo impacto urbano de conformidad con lo establecido en el artículo 42 de esta Ley, para que cuenten con el certificado del uso del suelo correspondiente y previo pago, por única ocasión, de un derecho por regularización equivalente a cinco días de salario mínimo.
+
+La Secretaria de Desarrollo Urbano y Vivienda, la Secretaria de Desarrollo Económico y las Delegaciones deberán instrumentar una campaña de difusión de dicho Programa.
 
 Este programa de regularización en materia del uso del suelo, estará vigente durante dos años a partir de su publicación en la Gaceta Oficial del Distrito Federal.
+
+La Secretaría de Desarrollo Urbano y Vivienda, deberá informar semestralmente a la Asamblea Legislativa del Distrito Federal, de los avances y el resultado final de la instrumentación de este Programa.
 
 SÉPTIMO. Los Programas de Desarrollo Urbano deberán integrar la zonificación que establece el Programa General de Ordenamiento Ecológico para el suelo de conservación y para las áreas de valor ambiental que se ubiquen en el suelo urbano.
 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintisiete días del mes de abril del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. JULIO CÉSAR MORENO RIVERA, PRESIDENTE.- DIP. KAREN QUIROGA ANGUIANO, SECRETARIA.- DIP. RAFAEL CALDERÓN JIMÉNEZ, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los 29 días del mes de junio del año dos mil diez.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNANDEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 6 DE SEPTIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL.
+
+PRIMERO.- Túrnese el presente decreto al Jefe de Gobierno del Distrito Federal, para su promulgación y debido cumplimiento.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 6 DE SEPTIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL.
+
+Primero. Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y debido cumplimiento.
+
+Segundo. El presente Decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero. Los trámites ingresados y en proceso de modificación se sujetaran al procedimiento vigente al momento de inicio del trámite administrativo.
