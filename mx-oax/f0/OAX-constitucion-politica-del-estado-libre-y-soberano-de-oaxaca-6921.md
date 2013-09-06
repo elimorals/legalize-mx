@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2013-08-30"
+last_updated: "2013-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -263,9 +263,9 @@ En el Estado nadie podrá desempeñar trabajos personales sin la justa retribuci
 
 Las autoridades de los municipios y comunidades preservarán el tequio como expresión de solidaridad según los usos de cada pueblo y comunidad indígenas. Los tequios encaminados a la realización de obras de beneficio común, derivados de los acuerdos de las asambleas, de las autoridades municipales y de las comunitarias de cada pueblo y comunidad indígena, podrán ser considerados por la ley como pago de contribuciones municipales; la ley determinará las autoridades y procedimientos tendientes a resolver las controversias que se susciten con motivo de la prestación del tequio.
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 1985)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. Establecerá la participación del Gobierno del Estado en materia de salubridad general concurrente, atendiendo a lo dispuesto por la Legislación Sanitaria Federal. Asimismo definirá la competencia del Estado y de los Municipios en materia de salubridad local.
+En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona tiene derecho a la protección de la salud, este implicará la participación de todos los órganos de poder público, para que en la medida de sus competencias hagan funcional este derecho fundamental. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. Establecerá la participación del Gobierno del Estado en materia de salubridad general concurrente, atendiendo a lo dispuesto por la Legislación Sanitaria Federal. Asimismo definirá la competencia del Estado y de los Municipios en materia de salubridad local.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1084,6 +1084,10 @@ Ningún ciudadano podrá rehusarse a desempeñar el cargo de Diputado, si no es 
 ###### ARTICULO 37.
 
 Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y nunca podrán ser reconvenidos por ellas.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+Los servidores públicos titulares o responsables de la información, de la institución pública respectiva, facilitarán a los diputados la información que soliciten, salvo la que conforme a la Ley, su acceso se encuentre restringido por ser de clasificación reservada o confidencial.
 
 ###### ARTICULO 38.
 
@@ -2083,7 +2087,7 @@ El Gobernador no puede:
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
-I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 53 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, lo hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales.
+I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 53 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, la hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2451,15 +2455,25 @@ b) El Gobernador del Estado, y
 
 c) Los órganos autónomos del Estado, en las materias de sus respectivas competencias.
 
-Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas por las dos terceras partes de los miembros del Pleno de la Sala Constitucional, y surtirán efectos a partir de su publicación, sin poder aplicarse retroactivamente excepto cuando se trate de asuntos del orden penal y en beneficio del inculpado;
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-III. Conocer de las peticiones formuladas por los demás Tribunales y Jueces del Estado, cuando tengan duda sobre la constitucionalidad o aplicación de una ley local, en el proceso sobre el cual tengan conocimiento, en los términos que disponga la ley;
+Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas por las dos terceras partes de los miembros del Pleno del Tribunal Superior de Justicia, y surtirán sus efectos a partir de su publicación, sin poder aplicarse retroactivamente excepto cuando se trate de asuntos del orden penal y en beneficio del inculpado;
 
-IV. Conocer de las peticiones formuladas por el Gobernador del Estado, por treinta por ciento de los Diputados al Congreso del Estado o por los órganos autónomos en el ámbito de sus respectivas competencias, sobre la constitucionalidad de un proyecto de ley o decreto aprobado por el Congreso previo a su promulgación y publicación. El Tribunal deberá resolver estos asuntos en un plazo máximo de quince días naturales; y (sic)
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-V. Substanciar el juicio para la protección de los derechos humanos, por incumplimiento de las recomendaciones hechas a la autoridad por la Defensoría de los Derechos Humanos del Pueblo de Oaxaca;
+III. Conocer de las peticiones formuladas por los demás Tribunales y Jueces del Estado, cuando tengan duda sobre la constitucionalidad o aplicación de una ley local, en el proceso sobre el cual tengan conocimiento, en los términos que disponga la Ley. Las resoluciones dictadas por las dos terceras partes de los miembros del Pleno del Tribunal Superior de Justicia tendrán efectos de criterios orientados no vinculantes;
 
-VI. Solventar recursos relativos a los requisitos de la revocación del mandato señalados en el artículo 25 de esta Constitución.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Conocer de las peticiones formuladas por el Gobernador del Estado, por treinta por ciento de los Diputados al Congreso del Estado o por los órganos autónomos en el ámbito de sus respectivas competencias, sobre la constitucionalidad de un proyecto de ley o decreto aprobado por el Congreso previo a su promulgación y publicación. El Tribunal Superior de Justicia deberá resolver en un plazo máximo de quince días naturales, mediante la aprobación de las dos terceras partes de sus miembros;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+V. Sustanciar y resolver el juicio para la protección de los derechos humanos, por incumplimiento de las recomendaciones hechas a la autoridad por la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, y;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+VI. Solventar y resolver los recursos relativos a los requisitos de la revocación del mandato señalados en el artículo 25 de esta Constitución, en los términos y plazos señalados por la Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -4022,3 +4036,21 @@ P.O. 30 DE AGOSTO DE 2013.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO 1970, POR EL QUE SE REFORMAN LAS FRACCIONES II A LA VI DEL APARTADO B, DEL ARTÍCULO 106 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
+
+ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO 2044, POR EL QUE SE MODIFICA EL ARTÍCULO 37 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, ADICIONÁNDOLE UN PÁRRAFO SEGUNDO.
+
+ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO 2045, POR EL QUE SE MODIFICA EL PÁRRARO QUINTO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
+
+ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
