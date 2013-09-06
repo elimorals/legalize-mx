@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2011-12-24"
+last_updated: "2013-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -201,7 +201,9 @@ Las disposiciones presupuestarias y administrativas fortalecerán la operación 
 
 La autonomía presupuestaria otorgada a los Ejecutores de gasto a través de la Constitución Política del Estado Libre y Soberano de Oaxaca o, en su caso, de disposición expresa en las leyes de su creación, comprende:
 
-a) Aprobar sus programas operativos anuales y enviarlos a la Secretaría para su integración al proyecto de Presupuesto de Egresos, observando los criterios generales de política económica;
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+a) Aprobar sus programas operativos anuales, tabuladores de sueldos y salarios y enviarlos a la Secretaría para su integración al proyecto de Presupuesto de Egresos, observando los criterios generales de política económica;
 
 b) Ejercer sus presupuestos observando lo dispuesto en esta Ley, sujetándose a las disposiciones de control interno emitidas por sus órganos de control. Dicho ejercicio deberá realizarse con base en los principios de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, y estarán sujetas a la normatividad, la evaluación y el control de los órganos correspondientes;
 
@@ -211,7 +213,13 @@ d) Realizar sus pagos a través de sus respectivas tesorerías o sus equivalente
 
 e) Determinar los ajustes que correspondan en sus presupuestos en caso de disminución de ingresos, observando en lo conducente lo dispuesto en el artículo 19 de esta Ley;
 
-f) Llevar la contabilidad y elaborar sus informes conforme a lo previsto en esta Ley y demás disposiciones aplicables, así como enviarlos a la Secretaría para su integración al informe de Avance de Gestión y a la Cuenta Pública.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+f) Llevar la contabilidad y elaborar sus informes conforme a lo previsto en esta ley y demás disposiciones aplicables, así como enviarlos a la Secretaría para la integración de los informes trimestrales y Cuenta Pública del Estado, que deben entregarse al Congreso;
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+g) Poner a disposición de la ciudadanía a través de Internet la información financiera y presupuestal, dentro de los treinta días naturales siguientes al cierre del periodo que corresponda.
 
 Los Ejecutores de gasto público que cuenten con autonomía presupuestaria deberán sujetarse a lo previsto en esta Ley y a las disposiciones específicas contenidas en las leyes de su creación, sujetándose al margen de autonomía establecido en el presente artículo.
 
@@ -241,13 +249,17 @@ Los titulares de las Unidades de administración estarán facultados para realiz
 
 El Ejecutivo Estatal autorizará, por conducto de la Secretaría, la participación estatal en las empresas, sociedades y asociaciones, civiles o mercantiles, ya sea en su creación, para aumentar su capital o patrimonio o adquiriendo todo o parte de éstos en los términos de la Ley de Entidades Paraestatales del Estado de Oaxaca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 10.
 
-Son fideicomisos públicos los que constituye el Ejecutivo Estatal, por conducto de la Secretaría en su carácter de fideicomitente única de la administración pública centralizada, o las entidades, con el propósito de auxiliar a éste en la competencia del Estado para impulsar las áreas prioritarias y estratégicas del desarrollo. Asimismo, son fideicomisos públicos aquéllos que constituyan los Poderes Legislativo y Judicial y los Órganos Autónomos a los que se asignen recursos del Presupuesto de Egresos a través de los ramos autónomos.
+Son fideicomisos públicos los que constituye el Ejecutivo Estatal, por conducto de la Secretaría en su carácter de fideicomitente único del Gobierno del Estado, con el propósito de auxiliar a éste en la competencia del Estado para impulsar las áreas prioritarias y estratégicas del desarrollo. Asimismo, son fideicomisos públicos aquellos que constituyan los Poderes Legislativo y Judicial y los Órganos Autónomos a los que se asignen recursos del Presupuesto de Egresos.
 
 Los fideicomisos públicos considerados entidades en términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca y la Ley de Entidades Paraestatales del Estado de Oaxaca, podrán constituirse o incrementar su patrimonio con autorización del Ejecutivo Estatal, emitida por conducto de la Secretaría, la que en su caso, propondrá al titular del Ejecutivo Estatal la modificación o extinción de los mismos cuando así convenga al interés público.
 
-Los fideicomisos públicos no considerados entidades sólo podrán constituirse con la autorización de la Secretaría en los términos del Capítulo IV de la Ley de Entidades Paraestatales del Estado de Oaxaca. Quedan exceptuados de esta autorización aquellos fideicomisos que constituyan las entidades no apoyadas presupuestariamente.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+Los fideicomisos públicos de administración y pago sólo podrán constituirse y contratarse por la Secretaría. Quedan exceptuados de esta autorización aquellos fideicomisos que constituyan las entidades no apoyadas presupuestariamente.
 
 Las dependencias y entidades sólo podrán otorgar recursos públicos a fideicomisos observando lo siguiente:
 
@@ -257,9 +269,15 @@ II. Previo informe y autorización de la Secretaría; en los términos de su Reg
 
 III. A través de las partidas específicas que para tales fines prevea el clasificador por objeto del gasto.
 
-La Unidad responsable de la dependencia o entidad con cargo a cuyo presupuesto se hayan otorgado los recursos o que coordine su operación será responsable de reportar en los informes trimestrales, conforme lo establezca el Reglamento, los ingresos, incluyendo rendimientos financieros del periodo, egresos, así como su destino y el saldo.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+La Unidad responsable con cargo a cuyo presupuesto se hayan otorgado los recursos o que coordine su operación, será responsable de reportar en los informes trimestrales los ingresos, incluyendo rendimientos financieros, egresos, avance de programas, metas alcanzadas y estados financieros del período, así como su destino y el saldo.
 
 Los fideicomisos públicos que tengan como objeto principal financiar programas y proyectos de inversión deberán sujetarse a las disposiciones generales en la materia.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+Cuando en alguna disposición legal se haga referencia a la constitución de fondos, invariablemente deberán ser considerados como fideicomisos públicos de administración y pago, debiendo observar lo establecido en el presente artículo.
 
 ###### Artículo 11.
 
@@ -827,11 +845,15 @@ En el ejercicio de sus presupuestos, las dependencias y entidades se sujetarán 
 
 La Secretaría queda facultada para elaborar los calendarios de presupuesto de las dependencias y entidades de conformidad con los montos aprobados por el Congreso del Estado.
 
-Los calendarios de presupuesto deberán comunicarse por la Secretaría a las Dependencias y entidades, así como publicarse en el Periódico Oficial del Estado dentro de los 20 días hábiles posteriores a la publicación del Presupuesto en el propio órgano de difusión. A su vez, la Unidad de administración de cada dependencia y entidad deberán comunicar los calendarios de presupuesto correspondientes a sus respectivas áreas administrativas.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+Los calendarios de presupuesto deberán comunicarse por la Secretaría a los Ejecutores de gasto, así como publicarse en el Periódico Oficial del Estado a más tardar el último día del mes de enero del año que corresponda. A su vez, la Unidad de administración de cada dependencia y entidad deberán comunicar los calendarios de presupuesto correspondientes a sus respectivas áreas administrativas.
 
 Los calendarios a que se refiere el párrafo anterior deberán ser en términos mensuales.
 
-La Secretaría cumplirá los calendarios de presupuesto autorizados a las dependencias en los términos de las disposiciones aplicables e informará al respecto en el informe de Avance de Gestión, por Unidad responsable y por capítulo de gasto.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+La Secretaria deberá incluir en los informes trimestrales y Cuenta Pública el cumplimiento de los calendarios de presupuesto por Unidad responsable y por capítulo de gasto.
 
 ###### Artículo 47.
 
@@ -1398,3 +1420,11 @@ SECRETARÍA
 DIP. IVONNE GALLEGOS CARREÑO
 
 SECRETARÍA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor rango, que se opongan al presente Decreto.
