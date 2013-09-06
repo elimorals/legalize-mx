@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2013-08-02"
+last_updated: "2013-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -115,49 +115,57 @@ VII. CONSERVACIÓN: Conjunto de políticas y medidas orientadas a mantener la di
 
 VIII. CONTAMINACION LUMINICA: Emisión de flujo luminoso en la atmosfera de fuentes artificiales nocturnas, en intensidades, direcciones, rangos espectrales u horarios innecesarios para la realización de las actividades previstas en la zona en que se instala la fuente;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-IX. EUTROFICACIÓN: Proceso de fertilización acelerada en lagos, arroyos y esteros, generado por un enriquecimiento de nutrientes que produce alga, lama y plantas que deterioran el ambiente acuático;
+IX. CONTINGENCIA AMBIENTAL: Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas, declarada por las autoridades competentes cuando se presenta o se prevé con base en objetivos o en el monitoreo de la contaminación ambiental;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-X. FUENTE FIJA: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
+X. EMERGENCIA ECOLÓGICA: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, pone en peligro a uno o varios ecosistemas, declarada por las autoridades competentes cuando se presenta o se prevé con base en objetivos o en el monitoreo de la contaminación ambiental;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-XI. FUENTE MÓVIL: Unidad sujeta a movimiento que genera y emite contaminantes a la atmósfera;
+XI. EUTROFICACIÓN: Proceso de fertilización acelerada en lagos, arroyos y esteros, generado por un enriquecimiento de nutrientes que produce alga, lama y plantas que deterioran el ambiente acuático;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-XII. INVERNADERO (EFECTO DE): Propiedad de la atmósfera de dejar entrar de una manera fácil la radiación solar, pero que a la vez dificulta la salida del calor. Este fenómeno se acentúa por la acumulación de gases en el aire producidos por la combustión de hidrocarburos y otras actividades humanas;
+XII. FUENTE FIJA: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-XIII. LEY: Ley de Protección al Ambiente para el Estado de Baja California;
+XIII. FUENTE MÓVIL: Unidad sujeta a movimiento que genera y emite contaminantes a la atmósfera;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-XIV. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XIV. INVERNADERO (EFECTO DE): Propiedad de la atmósfera de dejar entrar de una manera fácil la radiación solar, pero que a la vez dificulta la salida del calor. Este fenómeno se acentúa por la acumulación de gases en el aire producidos por la combustión de hidrocarburos y otras actividades humanas;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-XV. MEJOR TECNOLOGÍA DISPONIBLE: El conjunto de equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, logra la mayor reducción, minimización o eliminación de dichos contaminantes, o reduce su grado de peligrosidad, comparada con otras tecnologías usuales. Se entiende asimismo, que su implementación es técnicamente factible, que es posible su adquisición en el mercado regional, y que su costo es razonablemente comparable a tecnologías usuales, tradicionales o análogas;
+XV. LEY: Ley de Protección al Ambiente para el Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-XVI. QUEMA: Combustión no controlada de cualquier sustancia o material;
+XVI. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-XVII. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
+XVII. MEJOR TECNOLOGÍA DISPONIBLE: El conjunto de equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, logra la mayor reducción, minimización o eliminación de dichos contaminantes, o reduce su grado de peligrosidad, comparada con otras tecnologías usuales. Se entiende asimismo, que su implementación es técnicamente factible, que es posible su adquisición en el mercado regional, y que su costo es razonablemente comparable a tecnologías usuales, tradicionales o análogas;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-XVIII. SECRETARÍA: Secretaría de Protección al Ambiente del Estado de Baja California, y
+XVIII. QUEMA: Combustión no controlada de cualquier sustancia o material;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-XIX. VIDA SILVESTRE: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentren bajo el control del hombre, así como ferales.
+XIX. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+XX. SECRETARÍA: Secretaría de Protección al Ambiente del Estado de Baja California, y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+XXI. VIDA SILVESTRE: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como ferales.
 
 ###### ARTÍCULO 3.
 
@@ -1275,7 +1283,7 @@ Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de
 
 ###### ARTÍCULO 93.
 
-El Ejecutivo del Estado realizará las acciones necesarias para evitar o, en su caso, controlar procesos de eutroficación (sic), salinización o cualquier otro proceso de degradación de las aguas de competencia estatal.
+El Ejecutivo del Estado realizará las acciones necesarias para evitar o, en su caso, controlar procesos de eutroficación, salinización o cualquier otro proceso de degradación de las aguas de competencia estatal.
 
 ###### ARTÍCULO 94.
 
@@ -2800,3 +2808,7 @@ SEGUNDO.- El titular del Poder Ejecutivo y los Ayuntamientos del Estado en el á
 P.O. 2 DE AGOSTO DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
