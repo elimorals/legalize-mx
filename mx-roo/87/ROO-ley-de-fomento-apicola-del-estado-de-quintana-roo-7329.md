@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-fomento-apicola-del-estado-de-quintana-roo-7329"
 country: "mx"
 rank: "ley"
 publication_date: "1979-11-30"
-last_updated: "1979-11-30"
+last_updated: "2013-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7329&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "ROO"
 ---
 # LEY DE FOMENTO APICOLA DEL ESTADO DE QUINTANA ROO
 
-LEY DE FOMENTO APICOLA DEL ESTADO DE QUINTANA ROO
+LEY DE FOMENTO APÍCOLA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 6 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
 
-Ley publicada en el Periódico Oficial el 30 de Noviembre de 1979.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013 (ABROGADA).
+
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Quintana Roo, el viernes 30 de noviembre de 1979.
 
 DECRETO NUMERO 58
 
@@ -380,3 +382,31 @@ LIC. JESUS MATINEZ ROSS.- Rúbrica.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. JOSE IRABIEN MEDINA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento Apícola publicada en el Periódico Oficial del Estado, el día treinta de noviembre del año de mil novecientos setenta y nueve.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga cualquier disposición que contravenga lo dispuesto en la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Titular del Ejecutivo del Estado emitirá el reglamento en un plazo no mayor de ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los Municipios en el ámbito de sus respectivas competencias deberán reglamentar las atribuciones otorgadas por la presente Ley en un término no mayor de ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los apicultores contarán con un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley para registrarse en el Municipio correspondiente y marcar sus colmenas.
