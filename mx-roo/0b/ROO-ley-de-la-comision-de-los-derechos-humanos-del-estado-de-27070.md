@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-27070"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-13"
-last_updated: "2009-06-30"
+last_updated: "2013-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE LA COMISION DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO -ANTES LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO-
 
-LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
+LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 13 de diciembre de 2002.
 
@@ -183,13 +183,15 @@ I. Actos y resoluciones de organismos o autoridades electorales;
 
 II. Resoluciones de carácter jurisdiccional;
 
-III. Conflictos de carácter laboral; y
+III. (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2013)
 
 IV. Consultas formuladas por autoridades, particulares u otras entidades, sobre la interpretación de las disposiciones constitucionales y legales.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 14.
 
-En los términos de esta Ley, sólo podrán admitirse o conocerse quejas o inconformidades contra actos u omisiones de autoridades judiciales o laborales estatales, cuando dichos actos y omisiones tengan carácter administrativo. La Comisión por ningún motivo podrá examinar cuestiones jurisdiccionales de fondo.
+En los términos de esta Ley, sólo podrán admitirse o conocerse quejas o inconformidades contra actos u omisiones de autoridades judiciales estatales, cuando dichos actos y omisiones tengan carácter administrativo. La Comisión por ningún motivo podrá examinar cuestiones jurisdiccionales de fondo.
 
 ### CAPÍTULO II. DEL NOMBRAMIENTO Y FACULTADES DEL PRESIDENTE DE LA COMISIÓN
 
@@ -587,23 +589,35 @@ En el proyecto de recomendación, se señalarán las medidas que procedan para l
 
 Los proyectos antes referidos serán presentados al Presidente para su consideración final.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 55.
 
-En caso de que no se comprueben las violaciones de derechos humanos imputadas, la Comisión dictará acuerdo de no responsabilidad.
+En caso de que no se comprueben las violaciones a los derechos humanos imputadas, la Comisión dictará acuerdo de no responsabilidad.
 
-De comprobarse las violaciones a los derechos humanos de los quejosos, se emitirá una recomendación a la autoridad o servidor público respectivo, para su exacto cumplimiento. En caso de incumplimiento a la recomendación o de la negativa de aceptación de la misma, la Comisión estará en aptitud de hacer pública esta circunstancia, y procederá a turnar la recomendación o la negativa de la autoridad, a la Secretaría de la Contraloría del Estado, tratándose de servidores públicos del Poder Ejecutivo; a la Gran Comisión de la Legislatura, en el caso del Poder Legislativo; al Consejo de la Judicatura cuando corresponda al Poder Judicial, y al Ayuntamiento respectivo, cuando se trate de funcionarios de la administración pública municipal; en todos los casos, para el efecto de que se inicie el procedimiento de responsabilidad administrativa, ya sea en contra del titular de la dependencia o entidad a quien se haya dirigido la recomendación, en caso de incumplimiento, o bien, en contra del servidor publico referido en los puntos de la recomendación, en caso de que se produzca la negativa de la autoridad a la aceptación del documento de la Comisión.
+De comprobarse las violaciones a los derechos humanos de los quejosos, se emitirá una recomendación a la autoridad o servidor público respectivo para su exacto cumplimiento.
 
-Lo mismo procederá en caso de que la autoridad que haya aceptado la recomendación, omita, evada o simule el cumplimiento de la recomendación.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 56.
 
-La recomendación será pública y autónoma, no tendrá carácter imperativo para la autoridad o servidor público al cual sea dirigida y, en consecuencia, no podrá por sí misma anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiese presentado la queja o denuncia.
+La recomendación será pública autónoma, no tendrá carácter imperativo para la autoridad o servidor público al cual sea dirigida y, en consecuencia, no podrá por sí misma anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiese presentado la queja o denuncia. Todo servidor público estará obligado a responder las recomendaciones presentadas por este Organismo.
 
-En todo caso, una vez recibida la recomendación, la autoridad o servidor público de que se trate informará, dentro de los cinco días hábiles siguientes a partir de la notificación, si acepta dicha recomendación y, en caso de aceptar la misma, quedará obligado a cumplirla en sus términos, debiendo remitir a la Comisión dentro de los cinco días hábiles siguientes a la aceptación, las pruebas que acrediten su exacto cumplimiento. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo amerite.
+Una vez recibida la recomendación, la autoridad o servidor público de que se trate informará, dentro de los cinco días hábiles siguientes a partir de la notificación, si acepta dicha recomendación y, en caso de aceptar la misma, quedará obligado a cumplirla en sus términos, debiendo remitir a la Comisión dentro de los cinco días hábiles siguientes a la aceptación, las pruebas que acrediten su exacto cumplimiento. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo amerite.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 56
+
+Bis.- Cuando las recomendaciones emitidas no sean aceptadas o cumplidas total o parcialmente por los servidores públicos, la Comisión Estatal de Derechos Humanos dará vista al Congreso del Estado de tal situación, a fin de que la Comisión Legislativa de Derechos Humanos, a su juicio y con el objeto de que expliquen las razones de su conducta o justifiquen su omisión, se sirva citar a comparecer ante la misma, a los servidores públicos involucrados, durante el periodo legislativo al momento de la notificación de la negativa o el periodo legislativo inmediato posterior en caso de ocurrir ésta en un periodo de receso. Esta comparecencia será de carácter público, en ella las víctimas podrán exponer su testimonio, sea por escrito, comparecencia o por cualquier otro medio que cumpla con el cometido de que los diputados conozcan el punto de vista de las víctimas. La Comisión Estatal de Derechos Humanos por conducto de su representante legal, estará presente en la comparecencia del servidor público y podrá intervenir en ella.
+
+La ley Orgánica del Congreso del Estado regulará el procedimiento al que alude el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 57.
 
-En contra de las recomendaciones, acuerdos o resoluciones definitivas de la Comisión, solamente procede el recurso de inconformidad señalado en el Artículo 102 Apartado "B" de la Constitución Política de los Estados Unidos Mexicanos.
+En contra de las recomendaciones, acuerdos o resoluciones definitivas de la Comisión, así como, por omisiones o inactividad del Organismo, solamente procede el recurso de inconformidad señalado en el Artículo 102 Apartado “B” de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 58.
 
@@ -730,3 +744,9 @@ P.O. 30 DE JUNIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
