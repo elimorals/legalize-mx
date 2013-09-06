@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-la-gestion-publica-3881
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-20"
-last_updated: "2011-11-04"
+last_updated: "2013-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA GESTION PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA GESTION PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA GESTIÓN PÚBLICA
 
-ULTIMA REFORMADA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA TRANSPARENCIA Y RENDICIÓN DE CUENTAS, PUBLICADO EN EL P.O. DE 6 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 20 de abril de 2004.
 
@@ -1455,7 +1457,7 @@ Para el desahogo de los asuntos de su competencia, la Coordinación de Enlace co
 
 La Subsecretaría de Evaluación Gubernamental contará con la Dirección de Evaluaciones Especializadas, la cual se integrará con el personal que requieran las necesidades del servicio y permita el presupuesto.
 
-La Dirección de Evaluaciones Especializadas se encargará de diseñar y llevar a cabo estrategias y acciones de supervisión, evaluación, control y fiscalización. así como de consejería y consultoría, en materia de obra pública, ejercicio de recursos, y ejecución de acciones, programas y proyectos que realicen las dependencias y entidades de la administración pública estatal, y en su caso, municipal, para lo cual contará con las atribuciones señaladas en los artículos 29 y 33 de este Reglamento, y además tendrá específicamente las siguientes atribuciones:
+La Dirección de Evaluaciones Especializadas se encargará de diseñar y llevar a cabo estrategias y acciones de supervisión, evaluación, control y fiscalización, así como de consejería y consultoría, en materia de obra pública, ejercicio de recursos, y ejecución de acciones, programas y proyectos que realicen las dependencias y entidades de la administración pública estatal, y en su caso, municipal, para lo cual contará con las atribuciones señaladas en los artículos 29 y 33 de este Reglamento, y además tendrá específicamente las siguientes atribuciones:
 
 I. Realizar la consejería y consultoría, en materia de ejercicio de recursos, y ejecución de acciones, obra pública, programas y proyectos que realicen las dependencias y entidades de la administración pública estatal, y en su caso, municipal;
 
@@ -1857,7 +1859,7 @@ EL SECRETARIO DE LA GESTIÓN PÚBLICA
 
 JORGE ALBERTO ROMERO HIDALGO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 7 DE JUNIO DE 2005.
 
@@ -1882,3 +1884,21 @@ Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuart
 Artículo Segundo. Los asuntos en trámite que a la entrada en vigor del presente decreto estuvieran siendo conocidos por la Unidad de Quejas y Denuncias para la Secretaría de Educación de Guanajuato, serán continuados hasta su resolución por la Dirección de Quejas, Denuncias y Responsabilidad Patrimonial.
 
 Artículo Tercero. Dentro de los asuntos en trámite de las Direcciones de Informática y de Asesoría Legal y Situación Patrimonial, a la entrega (sic) en vigor del presente decreto, se entenderá que toda referencia a aquéllas se hacen a las Direcciones de Tecnologías de la Información y de Asesoría Legal, Situación Patrimonial y Responsabilidades, respectivamente, por lo que el cambio de denominación no afectará en ningún modo la validez de las actuaciones respectivas
+
+P.O. 6 DE SEPTIEMBRE DE 2013.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento Interior de la Secretaría de la Gestión Pública
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 189, mediante el cual se expide el Reglamento Interior de la Secretaría de la Gestión Pública, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 64, Segunda Parte, de fecha 20 de abril de 2004.
+
+Resolución de asuntos en trámite
+
+Artículo Tercero. Los asuntos en trámite que a la entrada en vigor del presente decreto estuvieran siendo conocidos por las unidades administrativas de la Secretaría, serán continuados hasta su resolución por las unidades a cuya competencia correspondan conforme al presente Reglamento.
+
+Alusión a asuntos en trámite en la Subsecretaría de Impulso a la Administración Pública
+
+Artículo Cuarto. Toda referencia a los asuntos en trámite de la Subsecretaría de Impulso a la Administración Pública se entenderán aludidos a la Subsecretaría de Contraloría Social y Mejoramiento de la Gestión Pública; así como, las referencias a asuntos de las demás unidades administrativas de la Secretaría cuya denominación cambie, se consideran vinculadas a las unidades administrativas a cuya competencia correspondan conforme al presente Reglamento.
