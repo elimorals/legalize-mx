@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2013-08-31"
+last_updated: "2013-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -295,9 +295,11 @@ LXIV.- TEMÓSACHIC, con cabecera en el pueblo del mismo nombre y sus Secciones M
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2012)</small>
 
-LXV. URIQUE, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuérachi, San Rafael, Cieneguita Lluvia de Oro, Tubares, Bahuichivo, Corareachi y Guapalayna;
+LXV.- URIQUE, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuérachi, San Rafael, Cieneguita Lluvia de Oro, Tubares, Bahuichivo, Corareachi y Guapalayna;
 
-LXVI.- URUACHI; con cabecera en el pueblo del mismo nombre y als (sic) secciones municipales de Batopilillas y El Rebaje; y
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2013)</small>
+
+LXVI.- URUACHI, con cabecera en el pueblo del mismo nombre y las Secciones Municipales de Batopilillas, El Rebaje y Rocoroyvo.
 
 LXVII.- VALLE DE ZARAGOZA; con cabecera en el pueblo del mismo nombre y las secciones municipales de El Velduque y San Felipe;
 
@@ -4442,3 +4444,13 @@ P.O. 31 DE AGOSTO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Estado, y su vigencia será a partir del día 10 de octubre de 2013.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la elección de la Junta Municipal en la Sección Municipal de Rocoroyvo, en lo conducente, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, debiéndose llevar a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente Decreto.
