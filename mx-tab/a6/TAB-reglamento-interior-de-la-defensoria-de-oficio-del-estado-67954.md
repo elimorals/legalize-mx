@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-defensoria-de-oficio-del-estado-67954
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-21"
-last_updated: "2009-03-21"
+last_updated: "2013-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA DEFENSORIA DE OFICIO DEL ESTADO DE TABASCO
 
-REGLAMENTO INTERIOR DE LA DEFENSORIA DE OFICIO DEL ESTADO DE TABASCO
+REGLAMENTO INTERIOR DE LA DEFENSORÍA DE OFICIO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO, EL REGLAMENTO INTERIOR DE LA DEFENSORÍA DE OFICIO DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 21 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, UNA VEZ QUE ENTRE EN VIGOR EN FORMA GRADUAL Y POR REGIONES, DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL NUEVO REGLAMENTO INTERIOR DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE TABASCO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 21 de marzo de 2009.
 
@@ -500,3 +502,21 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO
 LIC. HUMBERTO DOMINGO MAYANS CANABAL
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Queda sin efectos cualquier disposición legal que se contraponga a lo previsto en el presente Reglamento.
+
+TERCERO. Las circunscripciones del Instituto que contempla este Reglamento, se establecerán en forma gradual y por Regiones, la vigencia y aplicación será de la forma siguiente: Región 1. El municipio de Macuspana, el 28 de Septiembre del 2012. Región 2. El municipio de Cunduacán, el 06 de Abril del 2015. Región 3. Los municipios de Jalapa, Tacotalpa y Teapa, el 06 de octubre de 2014. Región 4. Los municipios de Tenosique, Balancán, Emiliano Zapata y Jonuta el 19 de octubre de 2015. Región 5. Los municipios de Paraíso y Centla, el 15 de diciembre de 2014. Región 6. Los municipios de Nacajuca, Jalpa de Méndez y Comalcalco, el 24 de Agosto del 2015. Región 7. El municipio de Huimanguillo el 07 de Diciembre del 2015. Región 8. El Municipio de Cárdenas, el 25 de abril de 2016. Región 9. El municipio de Centro, el 06 de Junio del 2016.
+
+CUARTO. Las plazas, los espacios y la instalación y aplicación del Sistema de Seguimiento de la Defensa Pública, estará sujeta a la disponibilidad presupuestaria prevista para el ejercicio fiscal que corresponda.
+
+QUINTO. Los peritos que requiere el Departamento de servicios auxiliares del Instituto, empezaran a operar una vez, que haya sido autorizada la partida presupuestaria para este rubro, mientras tanto el usuario del servicio de la defensa pública cubrirá lo (sic) erogación de este gasto.
+
+SEXTO. Se abroga el Reglamento interior de la Defensoría de Oficio del Estado de Tabasco, publicado en el Periódico Oficial del Estado número 6943 "suplemento" de fecha 21 de marzo de 2009.
+
+SEPTIMO. En tanto se expiden a los manuales de organización y procedimientos, el Director General quedará facultado para resolver lo conducente de aplicación del presente reglamento.
