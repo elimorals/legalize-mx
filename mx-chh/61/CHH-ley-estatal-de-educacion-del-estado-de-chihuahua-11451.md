@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2013-08-03"
+last_updated: "2013-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -140,6 +140,10 @@ I. Obligatoria, para la educación preescolar, primaria, secundaria y media supe
 II. Gratuita, presupuestando del gasto público recursos suficientes para la prestación de los servicios educativos; las donaciones destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del Servicio Educativo, por tal razón, la inscripción o el acceso de los alumnos a los planteles escolares no podrá condicionarse al pago de cuotas o donativos.
 
 III. Laica, por lo que se mantendrá ajena a cualquier doctrina religiosa.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2013)</small>
+
+El condicionar la inscripción o acceso al servicio educativo de alumnos de educación pública del nivel básico, a cualquier contraprestación que violente los principios antes señalados, será sancionado conforme a la normatividad correspondiente.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -3562,6 +3566,10 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La autoridad educativa deberá adecuar toda la reglamentación correspondiente a la presente reforma.
+
+P.O. 7 DE SEPTIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
