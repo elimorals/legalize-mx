@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-vialidad-y-transito-del-municipio-de-81535"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-13"
-last_updated: "2011-07-01"
+last_updated: "2013-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE MONTERREY DEL ESTADO DE NUEVO LEON
+REGLAMENTO DE VIALIDAD Y TRÁNSITO DEL MUNICIPIO DE MONTERREY DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 13 de diciembre de 2010.
 
@@ -55,13 +55,19 @@ Son autoridades para la aplicación del presente reglamento las siguientes:
 
 I. El Presidente Municipal;
 
-II. El Secretario de Vialidad y Tránsito;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
-III. Los Directores de la Secretaría de Vialidad y Tránsito;
+II. El Secretario de Seguridad Pública y Vialidad;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
+III. Los Directores de la Secretaria de Seguridad Pública y Vialidad;
 
 IV. Los Oficiales de Tránsito; y
 
-V. El personal autorizado por el Secretario de Vialidad y Tránsito.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
+V. El personal autorizado por el Secretario de Seguridad Pública y Vialidad.
 
 ###### ARTÍCULO 3.
 
@@ -131,11 +137,13 @@ Para efectos del supuesto previsto por la fracción III, inciso e, de este artí
 
 Se considerará accidente de tránsito cualquier tipo de choque en vía pública o privada en el que intervengan uno o más vehículos. Igualmente es accidente de tránsito cuando una o más personas son embestidas por un vehículo en movimiento. En ambos casos los involucrados deberán dar aviso inmediato a la autoridad de tránsito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 6.
 
-La atención y diligencias respecto de los accidentes de tránsito se harán por parte del personal autorizado por la Secretaría de Vialidad y Tránsito; quien seguirá el procedimiento siguiente:
+La atención y diligencias de los accidentes de tránsito lo hará el personal autorizado por la Secretaría de Seguridad Pública y Vialidad, de acuerdo al siguiente procedimiento:
 
-l. Abordará al o los conductores y:
+I. Abordará al o los conductores y:
 
 a) Con cortesía, proporcionará su nombre y número de oficial;
 
@@ -185,9 +193,11 @@ c) Cuando considere que alguno de los conductores no se encuentre en pleno uso d
 
 d) Cuando así lo requiera por escrito alguno de los conductores participantes en la hoja donde manifieste cómo ocurrió el accidente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 7.
 
-Solamente el personal autorizado de la Secretaría de Vialidad y Tránsito asignado para la atención del accidente puede disponer la movilización de los vehículos participantes en el mismo, excepto cuando el no hacerlo pudiese provocar otro accidente.
+Solamente el personal autorizado por la Secretaría de Seguridad Pública y Vialidad asignado para la atención del accidente puede disponer la movilización de los vehículos participantes en el mismo, excepto cuando el no hacerlo pudiese provocar otro accidente.
 
 En todo accidente el personal de Tránsito hará que los conductores despejen el área de residuos derivados del mismo y tomará las medidas necesarias para la limpieza de la vía pública, pudiendo solicitar el auxilio de cualquier dependencia pública según el tipo y la magnitud del accidente. De resultar gastos por las labores de limpieza estos deberán ser cubiertos por el responsable del accidente, mismos que se considerarán como daños municipales.
 
@@ -315,15 +325,13 @@ individuo conduzca el mismo vehículo,
 
 se aplicará una multa de 200 a 600 cuotas.
 
-24 Poseer en el área de pasajeros de un 30 a 200
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
-vehículo una botella, lata u otro envase
+24 Poseer, en el área de pasajeros de un vehículo, una o más botellas, latas u otros envases que contengan
 
-que contenga una bebida alcohólica
+bebidas alcohólicas abiertas, con los sellos rotos o 20 a 100
 
-abierta o que tenga los sellos rotos o el
-
-contenido parcialmente consumido;
+el contenido parcialmente consumido. No se considerará como área de pasajeros aquella con asientos abatibles habilitada para carga. En caso de reincidencia se aumentará hasta al doble el monto de la multa impuesta previamente. En el caso de que el infractor sea menor de edad, multa de 30 a 200 cuotas y suspensión de la licencia de conducir hasta por 3 meses.
 
 25 Huir del lugar del accidente; 10 a 20
 
@@ -399,9 +407,11 @@ Las multas impuestas conforme al presente reglamento tendrán el carácter de cr
 
 ### CAPÍTULO CUARTO. LIBERACIÓN DE VEHÍCULOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 14.
 
-Para la entrega de vehículos retirados de la circulación el propietario o el infractor deberá presentar ante la Secretaría de Vialidad y Tránsito los siguientes documentos:
+Para la entrega de vehículos retirados de la circulación el propietario o el infractor deberá presentar ante la Secretaría de Seguridad Pública y Vialidad los siguientes documentos:
 
 l. El comprobante de no adeudos de infracciones de tránsito;
 
@@ -425,9 +435,11 @@ En caso de que las partes involucradas en un accidente vial lleguen a un acuerdo
 
 ### CAPÍTULO QUINTO. EXCLUSIVOS RESIDENCIALES, COMERCIALES Y PARA TAXIS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 17.
 
-La Secretaría de Vialidad y Tránsito podrá autorizar cajones de estacionamiento exclusivo para uso residencial o comercial previa solicitud del propietario de algún inmueble o de su representante legal cumpliendo con lo siguiente:
+La Secretaría de Seguridad Pública y Vialidad podrá autorizar cajones de estacionamiento exclusivo para uso residencial o comercial previa solicitud del propietario de algún inmueble o de su representante legal cumpliendo con lo siguiente:
 
 l. Presentar solicitud en formato oficial;
 
@@ -455,9 +467,11 @@ V. Cuando de otorgarse se afecte la vialidad.
 
 Los cajones de estacionamiento exclusivo residenciales o comerciales podrán tener el carácter de exclusivo para discapacitados; en cada caso se colocará el señalamiento adecuado siempre a costa del solicitante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 20.
 
-La Secretaría de Vialidad y Tránsito podrá autorizar cajones de estacionamiento exclusivos para la instalación de bases de taxis previa presentación de los siguientes requisitos:
+La Secretaría de Seguridad Pública y Vialidad podrá autorizar cajones de estacionamiento exclusivos para la instalación de bases de taxis previa presentación de los siguientes requisitos:
 
 l. Llenar la solicitud en el formato oficial;
 
@@ -497,7 +511,9 @@ VI. Que el nombre, firma y teléfono de los vecinos colindantes que hubieren dad
 
 VII. Que cuando el lugar donde se pretenda ubicar el exclusivo esté frente a propiedad privada, se obtenga la autorización por escrito del propietario y allegar copia de la identificación de éste. En caso de que el exclusivo se pretenda instalar frente a una institución pública, privada o persona moral de cualquier tipo, la autorización deberá constar en hoja membretada y estar firmada por quien tenga facultades para otorgar dicha autorización; y
 
-VIII. La revisión física del lugar donde se pretenda ubicar el exclusivo y la verificación de los nombres, firmas, teléfonos de los vecinos colindantes y de las autorizaciones de los propietarios colindantes se llevará a cabo por personal de la Dirección de Ingeniería Vial.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
+VIII. La revisión física del lugar donde se pretenda ubicar el exclusivo y la verificación de los nombres, firmas y teléfonos de los vecinos colindantes. Las autorizaciones de los propietarios colindantes se llevarán a cabo por personal de la Secretaría de Seguridad Pública y Vialidad.
 
 ###### ARTÍCULO 22.
 
@@ -515,83 +531,59 @@ Las autorizaciones para cajones de estacionamiento exclusivo tendrán vigencia a
 
 ### CAPÍTULO SEXTO. CARGA Y DESCARGA
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 24.
 
-En el Municipio de Monterrey, los vehículos de carga pesada, podrán circular libremente por las siguientes avenidas:
+Los vehículos de transporte de carga pesada, con largo itinerario, circularán por las siguientes calles y avenidas, de forma obligatoria por los carriles establecidos para su circulación, los cuales se encuentran debidamente señalizados:
 
-1 Boulevard Gustavo Díaz Ordaz en ambos sentidos de circulación de límite Municipal a Av. General Pablo González Garza (Fleteros)
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 9 DE SEPTIEMBRE DE 2013, PÁGINA 16.</small>
 
-2 Aarón Sáenz en ambos sentidos de circulación de Boulevard Díaz Ordaz a Av. General Pablo González Garza (Fleteros)
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
-3 Calzada San Jerónimo con sentido de circulación de Poniente a Oriente de Av. General Pablo González Garza (Fleteros) a Av. Dr. José Eleuterio González (Gonzalitos)
+###### ARTÍCULO 24 Bis.
 
-4 Puente Gonzalitos con sentido de circulación de Norte a Sur de Av. Constitución a Av. Morones Prieto
+Los vehículos de transporte de carga pesada, podrán transitar sin requerir permiso por las siguientes calles y avenidas alimentadoras:
 
-5 Av. Morones Prieto en ambos sentidos de circulación (lo correspondiente al Municipio de Monterrey)
+No. CALLE O AVENIDA
 
-6 Av. General Pablo González Garza (Fleteros) en ambos sentidos de circulación por carril secundario de Aarón Sáenz y Av. Cristóbal Colón
+1 Av. Aarón Sáenz desde la Av. Pablo González Garza (fleteros) hasta la Av. Blvr. Gustavo Díaz Ordaz, en el sentido Oriente - Poniente y en el sentido Poniente - Oriente hasta la calle Camino al Club de Tiro.
 
-7 Arteaga con sentido de circulación de Poniente a Oriente de Av. General Pablo González Garza (Fleteros) a Av. Venustiano Carranza
+2 Camino al Club de Tiro de Aarón Sáenz a Blvr. Gustavo Díaz Ordaz.
 
-8 Av. Venustiano Carranza con sentido de circulación de Sur a Norte de Arteaga a Av. Ruiz Cortines en sentido de circulación de Norte a Sur de Av. Ruiz Cortines a Av. Cristóbal Colón
+3 Blvr. Gustavo Díaz Ordaz desde Limites Municipales hasta la Av. Pablo González Garza
 
-9 Puente Prolongación Venustiano Carranza en ambos sentidos de circulación de Av. Bernardo Reyes al límite Municipal de Monterrey
+4 Av. Pablo González Garza (Fleteros), en ambos sentidos de circulación.
 
-10 Av. Ruiz Cortines en ambos sentidos de circulación de Av. Rangel Frías a límite Municipal de Monterrey
+5 Calle Arteaga desde la Av. Pablo González Garza a la Av. Venustiano Carranza.
 
-11 Av. Rangel Frías en ambos sentidos de circulación de Av. Ruiz Cortines a Av. Abraham Lincoln
+6 Av. Cristóbal Colón desde la Av. Venustiano Carranza hasta la Av. Pablo González Garza.
 
-12 Av. Abraham Lincoln en ambos sentidos de circulación de límite Municipal a Av. Fidel Velázquez
+7 Calzada Guadalupe Victoria desde la Av. Vicente Guerrero hasta la Av. Bernardo Reyes, en ambos sentidos de circulación.
 
-13 Av. Fidel Velázquez en ambos sentidos de circulación de Abraham Lincoln a Av. Manuel L. Barragán
+8 La calle Gral. Pedro María Anaya desde la Av. Vicente Guerrero hasta la Av. Bernardo Reyes, en ambos sentidos de circulación.
 
-14 Av. Manuel L. Barragán con sentido de circulación de Norte a Sur de límite Municipal de Monterrey y Av. Alfonso Reyes
+9 Av. Almazán desde Av. Bernardo Reyes hasta Copan en el sentido Poniente-Oriente.
 
-15 Av. Alfonso Reyes de Calzada Guadalupe a Av. Ciudad de los Ángeles en el sentido de circulación que corresponda
+10 Calle Tomas Alba Edison desde la calle Rómulo Díaz de la Vega a la Av. Luis Mora, en ambos sentido.
 
-16 Calzada Guadalupe Victoria en ambos sentidos de circulación de Av. Vicente Guerrero a Av. Bernardo Reyes
+11 Av. Venustiano Carranza desde la calle Arteaga a la Av. A. Ruiz Cortines y en ambos sentidos hasta la Av. Cristóbal Colón.
 
-17 Av. Bernardo Reyes en ambos sentidos de circulación de Calzada Guadalupe Victoria a Av. Almazán
+12 Av. Luis Mora de la Av. Vicente Guerrero hasta la Av. Adolfo Ruiz Cortines, en ambos sentidos de circulación.
 
-18 Av. Almazán en ambos sentidos de circulación de Av. Bernardo Reyes a Av. Manuel L. Barragán, lo Que corresponde al Municipio de Monterrey
+13 Av. Bernardo Reyes desde la Av. Calzada Victoria hasta Av. Anillo Periférico
 
-19 Av. Churubusco en ambos sentidos de Circulación de Av. Ruiz Cortines a Av. Constitución
+14 Av. Anillo Periférico de la Av. Bernardo Reyes hasta Límites Municipales
 
-20 Av. Constitución en ambos sentidos de circulación de límite Municipal de Monterrey a Av. Revolución
+15 Av. Manuel I. Barragán desde la Av. Fidel Velásquez hasta la Av. A. Ruiz Cortines.
 
-21 Av. Revolución en ambos sentidos de circulación de Av. Constitución a Av. Eugenio Garza Sada
+16 Av. Alfonso Reyes desde la Av. Adolfo Ruiz Cortines hasta la Av. Cd. De los Ángeles.
 
-22 Av. Eugenio Garza Sada en ambos sentidos de circulación de Av. Revolución a la Carretera Nacional, lo que corresponda al Municipio de Monterrey
+17 Av. Vicente Guerrero de la Av. Luis Mora hasta la Av. Cd. de los Ángeles, en ambos sentidos de circulación.
 
-23 Av. Fundidora con sentido de circulación de Sur a Norte de Av. Constitución a Av. Francisco I. Madero
+18 Av. San Nicolás desde la Av. José Ángel Conchello hasta la calle de 2a de San Francisco.
 
-24 Av. Francisco Márquez con sentido de circulación de Norte a Sur de Av. Francisco I. Madero a Constitución
-
-25 Av. José Ángel Conchello en ambos sentidos de circulación de Av. Ruiz Cortines a Av. Francisco I. Madero
-
-26 Av. Félix U Gómez en ambos sentidos de circulación de José Ángel Conchello a Av. Ciudad de los Ángeles y con sentido de Sur a Norte de Plan de Ayutla a José Ángel Conchello
-
-27 Av. Luis Mora en ambos sentidos de circulación de Av. Ruiz Cortines a Av. Cristóbal Colón
-
-28 Av. Cristóbal Colón con sentido de circulación de Oriente a Poniente de Antonio I. Villarreal a Av. Luis Mora por carril secundario y de Av. Venustiano Carranza a Fleteros
-
-29 Prolongación Francisco I. Madero en ambos sentidos de circulación de Antonio I. Villarreal a Av. Constituyentes de Nuevo León
-
-30 Central Pedro María Anaya en ambos sentidos de circulación de Av. Bernardo Reyes a Av. Vicente Guerrero
-
-31 Av. Vicente Guerrero en ambos sentidos de circulación de límite Municipal de Monterrey a Av. Luis Mora
-
-32 Av. Diego Díaz de Berlanga en ambos sentidos de circulación de Av. Ciudad de los Ángeles a Av. Adolfo Ruiz Cortines
-
-33 Av. San Nicolás en ambos sentidos de circulación de Av. Ciudad de los Ángeles a Av. Progreso
-
-34 Av. Progreso en ambos sentidos de circulación de Mariano Escobedo a Rafael Platón Sánchez
-
-35 Rafael Platón Sánchez en ambos sentidos de circulación de Av. Progreso a Av. Cristóbal Colón
-
-36 Plan de Ayutla con sentido de circulación de Poniente a Oriente de Rafael Platón Sánchez a Av. Félix U. Gómez
-
-37 Tomás A. Edison en ambos sentidos de circulación de Av. Luis Mora a Díaz de la Vega
+19 Av. Diego Díaz de Berlanga desde la Av. Cd. de los Ángeles hasta la Av. Ruiz Cortines, en ambos sentido.
 
 ###### ARTÍCULO 25.
 
@@ -607,7 +599,9 @@ I. Tarjeta de circulación vigente;
 
 II. Póliza de seguro vigente; y
 
-III. Licencia de conducir del operador vigente.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
+III. Licencia de conducir del operador vigente; y
 
 La recepción de la documentaci s (sic) descrita podrá hacerse a través de correo electrónico; y el pago podrá realizarse a través de medios electrónicos.
 
@@ -617,15 +611,19 @@ El costo del permiso para circular vehículos de carga pesada por avenidas disti
 
 l. 45 cuotas anuales para vehículos con una capacidad de carga de 12 toneladas o más; y
 
-II. 30 cuotas anuales para vehículos con una capacidad de carga mayor de 5 toneladas y hasta 11.99 toneladas o que tenga una longitud de 7 metros o más.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
+II. 30 cuotas anuales para vehículos con una capacidad de carga mayor de 5 toneladas y hasta 11.99 toneladas o que tenga una longitud de 7 metros o más y
 
 En los casos establecidos en los incisos anteriores, podrán obtenerse permisos con vigencia mensual, trimestral, semestral y anual, en cuyo caso el costo correspondiente se dividirá entre 12, 4 ó 2, según sea el caso. Durante la vigencia del permiso podrán concederse sin costo hasta 2 modificaciones a la ruta y el horario.
 
 A las personas físicas o morales que soliciten permisos para más de 5 vehículos de carga pesada de su propiedad, se les aplicará un descuento del 20% por flotilla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 28.
 
-La circulación de vehículos de carga pesada en el primer cuadro de la ciudad se encuentra restringida y se sujetará a los horarios y condiciones que establezca la Secretaría de Vialidad y Tránsito en el permiso respectivo.
+La circulación de vehículos de carga pesada en el primer cuadro de la ciudad se encuentra restringida y se sujetará a los horarios y condiciones que establezca la Secretaría de Seguridad Pública y Vialidad en el permiso respectivo.
 
 Para efectos de este reglamento, el primer cuadro de la ciudad es el polígono comprendido entra las calles Félix U. Gómez y Venustiano Carranza y entre Av. Constitución y Av. Francisco I. Madero.
 
@@ -659,21 +657,11 @@ VI. Abstenerse de utilizar personas para sujetar la carga y abstenerse de transp
 
 ###### ARTÍCULO 32.
 
-(DEROGADO, P.O. 1 DE JULIO DE 2011)
-
-ARTÍCULO 33 (DEROGADO, P.O. 1 DE JULIO DE 2011)
+(DEROGADO, P.O. 9 DE SEPTIEMBRE DE 2013)
 
 ###### ARTÍCULO 33.
 
-Los permisos para circular sin placas se sujetarán a lo siguiente:
-
-I. Se emitirán con una vigencia máxima de treinta días naturales y sólo podrá obtenerse un permiso al año para cada vehículo;
-
-II. El permiso para circular sin placas sólo tendrá validez en el Municipio de Monterrey;
-
-III. No podrá otorgarse permiso para circular sin placas a vehículos de carga, carga pesada, taxis, vehículos de transporte público de pasajeros o cualquier otro que no sea de uso particular; y
-
-IV. El solicitante del permiso deberá presentar la factura o la carta factura del vehículo en original, comprobante de domicilio, credencial de elector, licencia de conducir vigente y en su caso, la baja de las placas.
+(DEROGADO, P.O. 9 DE SEPTIEMBRE DE 2013)
 
 ### CAPÍTULO OCTAVO. CIRCULACIÓN VEHICULAR
 
@@ -711,7 +699,9 @@ Los remolques deberán contar con un sistema de frenado, un par de luces trasera
 
 Los conductores de todo vehículo automotor y los peatones que caminen o crucen las vialidades municipales deberán:
 
-l. Acatar las disposiciones que para la observancia de este reglamento y en procuración del buen tránsito vehicular y la seguridad de los individuos determinen los oficiales adscritos a la Secretaría de Vialidad y Tránsito;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
+I. Acatar las disposiciones que para la observancia de este reglamento y en procuración del buen tránsito vehicular y la seguridad de los individuos determinen los oficiales adscritos a la Secretaría de Seguridad Pública y Vialidad;
 
 II. Respetar la simbología y señalización oficial establecida para regular la vialidad y tránsito vehicular en el Municipio;
 
@@ -857,7 +847,9 @@ III. Saber leer y escribir;
 
 IV. Presentar solicitud en formato oficial acompañada de la Cédula Única del Registro de Población, identificación oficial y del pago de derechos correspondiente;
 
-V. Encontrarse física y mentalmente apto para conducir vehículos automotores, según valoración médica que se practique por personal técnico designado por la Secretaría de Vialidad y Tránsito;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
+V. Encontrarse física y mentalmente apto para conducir vehículos automotores, según valoración médica que se practique por personal técnico designado por la Secretaría de Seguridad Pública y Vialidad;
 
 VI. Acreditar mediante examen teórico y práctico el tener conocimientos técnicos suficientes en materia de vialidad y tránsito y habilidad para conducir vehículos y sus dispositivos;
 
@@ -877,9 +869,11 @@ I. Incurra en la infracción contemplada en el numeral 25 del recuadro del artí
 
 II. Incurra en tres ocasiones en un plazo de un año en cualquiera de los supuestos de infracción contemplados en los numerales 1, 2 y 3 del recuadro del artículo 9 de este reglamento.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 46.
 
-La licencia de conducir será suspendida o cancelada en caso de incurrir en los supuestos de los numerales 23 y 24 del recuadro del artículo 9 del presente reglamento, en los términos establecidos en la Ley Estatal de Prevención y Combate al Abuso del Alcohol del Estado.
+La licencia de conducir será suspendida o cancelada en caso de incurrir en los supuestos de los numerales 23 y 24 del recuadro del artículo 9 del presente reglamento, en los términos establecidos en la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León.
 
 ###### ARTÍCULO 47.
 
@@ -899,15 +893,19 @@ Una vez cumplida la instrucción de alto absoluto proyectada por la luz roja, es
 
 Constituye obligación de todo conductor y peatón respetar la simbología y señalización oficial instalada en la vía pública municipal.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 50.
 
-Está reservado para las autoridades de vialidad y tránsito el establecimiento, la modificación, reubicación o retiro de nomenclaturas, semaforización y señalizaciones de cualquier tipo en la vía pública.
+Está reservado para las autoridades de la Secretaría de Seguridad Pública y Vialidad el establecimiento, la modificación, reubicación o retiro de nomenclaturas, semaforización y señalizaciones de cualquier tipo en la vía pública.
 
 ### CAPÍTULO DÉCIMO PRIMERO. ATRIBUCIONES DE LA AUTORIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 51.
 
-Son atribuciones del Secretario de Vialidad y Tránsito las siguientes:
+Son atribuciones del Secretario de Seguridad Pública y Vialidad las siguientes:
 
 I. Ordenar, imponer o ejecutar las medidas necesarias para salvaguardar la seguridad de peatones y conductores en la vía pública;
 
@@ -927,39 +925,57 @@ VIII. Aprobar los permisos y licencias que conforme al presente reglamento sean 
 
 IX. Las demás que le confiera el presente reglamento y demás disposiciones legales.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2013)
+
 ###### ARTÍCULO 52.
 
 El personal autorizado y los oficiales de tránsito, en todos sus grados y jerarquías, tienen la autoridad para hacer cumplir las disposiciones de vialidad y tránsito contenidas en este reglamento, por ello, los conductores y peatones se sujetarán a las disposiciones que éstos indiquen y, en caso de desacato a alguna obligación establecida por este ordenamiento, podrán ser por ellos sancionados mediante la aplicación de las multas por infracción establecidas en los capítulos precedentes.
 
-Tendrán autoridad para retirar de la circulación los vehículos que hayan caído en los supuestos contemplados para ello en este reglamento o en las normas de derecho que resulten aplicables, estando facultados para ordenar el depósito de los mismos en los corralones o depósito oficial de vehículos con que para ello cuente o disponga la Secretaría de Vialidad y Tránsito.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
+Tendrán autoridad para retirar de la circulación los vehículos que hayan caído en los supuestos contemplados para ello en este reglamento o en las normas de derecho que resulten aplicables, estando facultados para ordenar el depósito de los mismos en los corralones o depósito oficial de vehículos con que para ello cuente o disponga la Secretaría de Seguridad Pública y Vialidad.
 
 ###### ARTÍCULO 53.
 
 El personal autorizado y los Oficiales de Tránsito están facultados para marcar el alto al conductor que haya incurrido en violación al presente reglamento, a fin de verificar el cumplimiento de los requisitos relativos a la circulación vehicular e imponerle la infracción correspondiente.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 54.
 
-La Secretaría de Vialidad y Tránsito podrá instrumentar operativos de revisión y filtros de inspección y control tendientes a verificar el cumplimiento de las reglas contenidas en este ordenamiento y a evitar la circulación de vehículos conducidos por personas en estado de ebriedad incompleta o completa.
+La Secretaría de Seguridad Pública y Vialidad podrá instrumentar operativos de revisión y filtros de inspección y control tendientes a verificar el cumplimiento de las reglas contenidas en este ordenamiento y a evitar la circulación de vehículos conducidos por personas en estado de ebriedad incompleta o completa.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 55.
 
-Los oficiales de la Secretaría de Vialidad y Tránsito y el personal autorizado están facultados para retener a los conductores que hayan participado en algún accidente vehicular donde haya terceros con lesiones de apariencia grave o fallecidos, a fin de ponerlos inmediatamente a disposición del Ministerio Público.
+Los oficiales de la Secretaría de Seguridad Pública y Vialidad y el personal autorizado están facultados para retener a los conductores que hayan participado en algún accidente vehicular donde haya terceros con lesiones de apariencia grave o fallecidos, a fin de ponerlos inmediatamente a disposición del Ministerio Público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 56.
 
-La Secretaría de Vialidad y Tránsito contará con un área de atención a los involucrados en todo accidente automovilístico o siniestro producido con motivo del tránsito vehicular, la cual convocará hasta en dos ocasiones para la celebración de una junta conciliatoria en la que se escuchará la opinión de cada una de las partes, se les mostrará el acta y croquis que en su caso se haya levantado oficialmente; se procurará su conciliación y se les orientará sobre el contenido de las reglas y normas aplicables al tópico.
+La Secretaría de Seguridad Pública y Vialidad contará con un área de atención a los involucrados en todo accidente automovilístico o siniestro producido con motivo del tránsito vehicular, la cual convocará hasta en dos ocasiones para la celebración de una junta conciliatoria en la que se escuchará la opinión de cada una de las partes, se les mostrará el acta y croquis que en su caso se haya levantado oficialmente; se procurará su conciliación y se les orientará sobre el contenido de las reglas y normas aplicables al tópico.
+
+(REPUBLICADO, P.O. 9 DE SEPTIEMBRE DE 2013)
 
 Agotada que sea la referida junta conciliatoria o desatendida que sea en dos ocasiones por uno o más de los interesados, se dará por concluida la misma; prevaleciendo en todo caso el derecho de las partes para ejercitar las acciones que legalmente estimen convenientes y procediéndose a la liberación del vehículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 57.
 
-La Secretaría de Vialidad y Tránsito tomará las medidas preventivas para la preservación de la seguridad de las personas que participen en desfiles, caravanas, manifestaciones, peregrinaciones, o cualquier otro tipo de concentración humana en la vía pública, siempre que los organizadores den aviso por escrito a la Secretaría con cuando menos 72 horas de anticipación al evento.
+La Secretaría de Seguridad Pública y Vialidad tomará las medidas preventivas para la preservación de la seguridad de las personas que participen en desfiles, caravanas, manifestaciones, peregrinaciones, o cualquier otro tipo de concentración humana en la vía pública, siempre que los organizadores den aviso por escrito a la Secretaría con cuando menos 72 horas de anticipación al evento.
+
+(REPUBLICADO, P.O. 9 DE SEPTIEMBRE DE 2013)
 
 Los eventos deportivos o de cualquier otro tipo que requieran el cierre de calles o un despliegue operativo importante se realizarán previa autorización de la autoridad de tránsito.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 58.
 
-La Autoridad Municipal podrá determinar la instalación de relojes estacionómetros en la vía pública, previo estudio de factibilidad elaborado por la Secretaría de Vialidad y Tránsito.
+La Autoridad Municipal podrá determinar la instalación de relojes estacionómetros en la vía pública, previo estudio de factibilidad elaborado por la Secretaría de Seguridad Pública y Vialidad.
 
 ### CAPÍTULO DÉCIMO SEGUNDO. OBSERVATORIO DE SEGURIDAD VIAL
 
@@ -1004,3 +1020,9 @@ SECRETARIO DEL AYUNTAMIENTO
 P.O. 1 DE JULIO DE 2011.
 
 ÚNICO: Las presentes reformas por modificación y derogación del Reglamento de Vialidad y Tránsito del Municipio de Monterrey, Nuevo León, entraran en vigor el día 5 - cinco de julio del 2011- dos mil once.
+
+P.O. 9 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO
+
+Las presentes reformas por modificación, adición y derogación del Reglamento de Vialidad y Tránsito del Municipio de Monterrey entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
