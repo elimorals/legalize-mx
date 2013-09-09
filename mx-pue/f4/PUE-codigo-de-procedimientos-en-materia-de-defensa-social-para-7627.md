@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2013-07-17"
+last_updated: "2013-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO DE FORMA GRADUAL POR LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, INICIANDO POR LA REGIÓN JUDICIAL QUE SE ESTABLEZCA EN LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO A PARTIR DEL 15 DE ENERO DE 2013 Y CONCLUYENDO EL 17 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2013.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -855,7 +855,7 @@ III.- Si no pudieren examinar a las personas a que se refiere la fracción anter
 
 ###### Artículo 67.
 
-En los casos de delito flagrante, toda persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud, a la del Ministerio Publico, conforme lo establece el quinto párrafo del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+En los casos de delito flagrante, toda persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud, a la del Ministerio Público, conforme lo establece el quinto párrafo del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
 En casos de flagrancia, el Ministerio Público que tome conocimiento de los hechos, calificará la detención. Si la detención es injustificada, ordenará que los detenidos queden en libertad.
 
@@ -1025,9 +1025,9 @@ K Bis.- Feminicidio, previsto en el artículo 312 Bis;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
-L.- Robo previsto en el artículo 373, en relación con los artículos: 374 fracción IV, cuando se realice en cualquiera de las circunstancias señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XVII, XIX, XX, XXIII, XXIV y XXV del artículo 380, y los artículos 374 fracciones VI y VII y 375;
+L.- Robo previsto en el artículo 373, en relación con las fracciones IV, VI y VII del artículo 374; las fracciones I, II, V y VI del artículo 375; y las fracciones I, II, III, IV, VII, IX, X, XI, XVII, XIX, XX, XXIII, XXIV y XXV del artículo 380.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2609,7 +2609,7 @@ IV.- Si el acusado está presente y designa a otra persona para que continúe su
 
 V.- Podrán interrogar al acusado sobre los hechos materia del proceso, el Juez, el Ministerio Público y la Defensa.
 
-VI.- Podrán repetirse las diligencias de prueba que se hubieren practicado durante la instrucción, si fuere necesario y posible, a juicio del Juez, y las partes lo hubieren solicitado a mas tardar el día siguiente al en que se les notificó el auto de citación para la audiencia.
+VI.- Podrán repetirse las diligencias de prueba que se hubieren practicado durante la instrucción, si fuere necesario y posible, a juicio del Juez, y las partes lo hubieren solicitado a más tardar el día siguiente al en que se les notificó el auto de citación para la audiencia.
 
 VII.- Se leerán las constancias que las partes soliciten y que el Juez estime conducentes, incluyéndose necesariamente entre ellas, las conclusiones del Ministerio Público y del Defensor.
 
@@ -2671,7 +2671,7 @@ Si el dictamen pericial medico concluye que es necesario que el acusado sea inte
 
 ###### Artículo 240.
 
-Si se comprueba la existencia del delito, y que en el tuvo participación el acusado, el Juez ordenará el Internamiento conforme a lo dispuesto por el Código de Defensa Social.
+Si se comprueba la existencia del delito, y que en él tuvo participación el acusado, el Juez ordenará el Internamiento conforme a lo dispuesto por el Código de Defensa Social.
 
 ###### Artículo 241.
 
@@ -3237,7 +3237,7 @@ I.- Se consignarán en el proceso o toca con expresión de causa.
 
 II.- EL Magistrado o Juez comunicará su excusa al Tribunal Superior, remitiendo las constancias que estime procedentes.
 
-III.- La Sala, en la audiencia en que se le de cuenta, resolverá la excusa de plano, si la causa fuere notoria.
+III.- La Sala, en la audiencia en que se le dé cuenta, resolverá la excusa de plano, si la causa fuere notoria.
 
 IV.- Si la causa de la excusa no fuere notoria, la Sala recibirá dentro de tres días la información que estime conducente, y vencido ese término, dictará su resolución, calificando la excusa.
 
@@ -3255,7 +3255,7 @@ I.- Cuando el acusado se hubiere sustraído a la acción de la justicia;
 
 II.- Al advertirse que la infracción a que se contrae el proceso, es de aquéllas que no pueden perseguirse sin previa querella del ofendido, y que esta no ha sido presentada;
 
-III.- Cuando se advierta que no se lleno algún requisito previo que la ley exija para que pueda incoarse el procedimiento;
+III.- Cuando se advierta que no se llenó algún requisito previo que la ley exija para que pueda incoarse el procedimiento;
 
 IV.- Cuando el procesado quede afectado de enajenación mental, cualquiera que sea el estado del proceso; y,
 
@@ -4216,3 +4216,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- EI presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
