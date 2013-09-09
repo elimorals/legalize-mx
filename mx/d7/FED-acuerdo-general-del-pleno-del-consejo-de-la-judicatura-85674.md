@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-85674"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-03"
-last_updated: "2013-08-28"
+last_updated: "2013-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-01-26"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE SEPTIEMBRE DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2012.
 
@@ -2439,13 +2439,21 @@ XXII. Emitir opinión jurídica respecto de los proyectos legislativos que le in
 
 XXIII. Intervenir, en el ámbito de su competencia, en el desahogo de acciones relacionadas con la atención de asuntos internacionales que incidan en el ámbito de competencia del Consejo;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 9 DE SEPTIEMBRE DE 2013)</small>
 
-XXIV. Integrar el Comité de Acceso a la Información y Protección de Datos Personales; y
+XXIV. Integrar el Comité de Acceso a la Información y Protección de Datos Personales;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 9 DE SEPTIEMBRE DE 2013)</small>
 
-XXV. Las demás que establezcan el Pleno, y las comisiones.
+XXV. Representar al Presidente en aquellos casos en que sea señalado como autoridad responsable en los juicios de amparo, sin perjuicio de su apersonamiento directo en los juicios en que así lo determine.
+
+El Director General de Asuntos Jurídicos deberá informar al Presidente del ejercicio de la atribución a que se refiere el párrafo anterior.
+
+En caso de ausencia temporal o permanente del Titular de la Dirección General de Asuntos Jurídicos, éste será suplido por los Secretarios Técnicos adscritos a dicha unidad administrativa en el orden que determine el manual de organización correspondiente; y
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 9 DE SEPTIEMBRE DE 2013)</small>
+
+XXVI. Las demás que establezcan el Pleno, y las Comisiones”.
 
 > <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
@@ -3624,3 +3632,11 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de la publicaci
 SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, y en el portal electrónico del Consejo de la Judicatura Federal.
 
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar inmediatamente el texto de este Acuerdo al diverso Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la organización y funcionamiento del propio Consejo.
+
+D.O.F. 9 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales deberá integrar inmediatamente el texto de este Acuerdo al diverso que reglamenta la organización y funcionamiento del propio Consejo.
