@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-82375"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-30"
-last_updated: "2013-08-03"
+last_updated: "2013-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de junio de 2011.
 
@@ -1217,17 +1217,23 @@ El Poder Legislativo establecerá los mecanismos que resulten oportunos para per
 
 Los consejeros ciudadanos se elegirán de la siguiente forma:
 
-I. El Pleno del Congreso del Estado nombrará una comisión especial integrada hasta por siete diputados; la que integrará una lista de candidatos propietarios y suplentes hasta por el triple del número a elegir, de entre las propuestas presentadas por los partidos políticos y por los ciudadanos potosinos, previa convocatoria que para el efecto se expida. De la lista presentada, el Congreso, en Pleno, procurará en todo caso que se encuentren representadas las diferentes zonas del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
+I. El Pleno del Congreso del Estado nombrará una Comisión Especial, la que llevará a cabo el proceso para proponer a las personas que aspiran al cargo de consejeros ciudadanos, en la que se incluirá a los candidatos propietarios y suplentes, de entre las propuestas presentadas por los partidos políticos y por los ciudadanos potosinos, previa convocatoria que para el efecto se expida; hecho lo anterior, remitirá la lista a la Comisión de Gobernación la que expedirá el dictamen correspondiente, en la que deberá observarse además, lo establecido en los artículos, 77 y 94 de esta Ley. De la lista presentada, el Pleno procurará en todo caso que se encuentren representadas las diferentes zonas del Estado.
 
-La convocatoria que al efecto se expida con una anticipación no menor al plazo de noventa días anteriores a la elección de consejeros, establecerá cuando menos los requisitos a cumplir por los candidatos a integrar el Consejo; se deberán incluir, mediante lineamientos generales, los parámetros, condiciones o requisitos que deberán reunir los documentos con los que se pretendan acreditar los requisitos exigidos para el cargo de consejero ciudadano, así como precisar si existe un plazo perentorio mediante el cual sea posible subsanar posibles omisiones o defectos en dicha documentación, mediante el requerimiento que haga la comisión especial; así como también los mecanismos que resulten adecuados para seleccionar a quienes demuestren mejor aptitud e idoneidad para el desempeño del consejero ciudadano electoral, con apego a lo establecido en los artículos 77 y 94 de esta Ley;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
-II. De la lista presentada por la comisión especial, el Congreso, en Pleno, elegirá a cada uno de los consejeros ciudadanos propietarios y suplentes, por el voto secreto de por lo menos las dos terceras partes de sus miembros presentes;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
-III. Si realizadas al menos tres rondas de votación no se cubriera la totalidad de consejeros a elegir, la comisión especial deberá presentar una nueva lista por el doble de los consejeros faltantes. En este último caso, en lo conducente se seguirá el procedimiento señalado en las fracciones anteriores, y
+II. De la lista presentada, el Pleno del Congreso elegirá a cada uno de los consejeros ciudadanos propietarios y suplentes, por el voto secreto de por lo menos las dos terceras partes de sus miembros presentes;
 
-IV. Para cubrir las ausencias temporales de los consejeros ciudadanos, de entre la lista de candidatos que refiere el párrafo primero de la fracción I anterior y que no resulten nombrados consejeros propietarios, serán electos los consejeros suplentes en la misma cantidad que los propietarios a elegir, aplicándose en lo conducente, lo dispuesto por las fracciones II y III precedentes. Las ausencias temporales de los consejeros ciudadanos propietarios serán cubiertas por los suplentes, en el orden que determine el Congreso al elegirlos.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
+III. Para la elección de los consejeros propietarios y suplentes, el Pleno del Congreso llevará a cabo las rondas que sean necesarias hasta la integración total del Consejo, y
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Para cubrir las ausencias temporales de los consejeros ciudadanos, de entre la lista de candidatos a que refiere el párrafo primero de la fracción I, y que no resulten nombrados consejeros propietarios, serán electos los consejeros suplentes en la misma cantidad que los propietarios a elegir, aplicándose en lo conducente, lo dispuesto por la (sic) fracciones II y III de este artículo. Las ausencias temporales de los consejeros ciudadanos propietarios serán cubiertas por los suplentes, en el orden que determine el Congreso al elegirlos.
 
 En todo caso, en la integración del Consejo no prevalecerá más del setenta por ciento de consejeros de un mismo género.
 
@@ -1235,13 +1241,13 @@ En todo caso, en la integración del Consejo no prevalecerá más del setenta po
 
 El Presidente del Consejo será electo por el voto de cuando menos las dos terceras partes de los miembros presentes del Congreso del Estado, de entre alguno de los consejeros ciudadanos propietarios que integren el Pleno del Consejo.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 91.
 
-Los consejeros ciudadanos, propietarios y suplentes, durarán en su encargo seis años improrrogables, y serán electos en forma escalonada cada dos años, de tres en tres.
+Los consejeros ciudadanos, propietarios y suplentes, durarán en su encargo tres años improrrogables.
 
-> <small>(REFORMADO P.O. 31 DE JULIO DE 2013)</small>
-
-Los consejeros ciudadanos serán electos en el mes de diciembre dentro del periodo ordinario de la Legislatura del año que corresponda, e iniciarán a ejercer sus funciones a los treinta días naturales posteriores a su elección.
+Los consejeros ciudadanos serán electos a más tardar el quince de diciembre del año anterior al del inicio del proceso electoral; e iniciarán el ejercicio de sus funciones el ocho de enero del año de inicio del proceso electoral.
 
 ###### ARTICULO 92.
 
@@ -1273,25 +1279,23 @@ III. No desempeñar, ni haber desempeñado ningún cargo de elección popular en
 
 IV. Tener como mínimo, cumplidos treinta años de edad el día de su designación, tratándose del Consejo. En lo que corresponde a las comisiones distritales y comités municipales, deberán tener, al menos, veintiún años de edad;
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
-V. Presentar constancia de residencia efectiva e ininterrumpida de cuando menos dos años, conforme a lo establecido por la fracción I de este artículo;
+V. Tener una residencia efectiva en el Estado de cuando menos dos años;
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
-VI. Presentar constancia de antecedentes no penales expedida por el Departamento de Criminalística y Archivos Periciales del Estado o, en su caso, por el alcaide o director del centro de readaptación social del distrito judicial que corresponda;
+VI. No haber sido condenado por delito doloso;
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
-VII. Presentar constancia de no inhabilitación expedida por la Auditoría Superior del Estado;
+VII. No estar inhabilitado para desempeñar funciones, empleos, cargos, o comisiones de cualquier naturaleza en el servicio público, y
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
-VIII. Entregar proyecto personal de un tema en derecho electoral, que abone a la evolución del sistema electoral en el Estado, y
+VIII. Los demás que se establezcan en la convocatoria respectiva.
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2013)</small>
-
-IX. Exhibir a dicha Comisión, constancias de estudios máximos y los relacionados con la materia, expedidos todos por instituciones oficialmente reconocidas, así como las mismas de su participación en actividades o puestos electorales; todas éstas tendrán un valor para la evaluación objetiva conforme lo establezca la Comisión, estando en orden de prelación las relacionadas con la materia.
+IX. (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 95.
 
@@ -3147,7 +3151,7 @@ La propaganda electoral, una vez terminadas las campañas que realicen los parti
 
 Sin perjuicio de las sanciones que corresponde aplicar, dado el incumplimiento de lo dispuesto por este artículo, la autoridad electoral, por sí misma, o solicitándolo al ayuntamiento respectivo, podrá proceder al retiro de la propaganda en cuestión, con cargo a las prerrogativas de financiamiento público pendientes de ejercer, del partido o partidos políticos que corresponda. Tratándose de candidatos independientes, se estará a lo dispuesto por el Título Décimo Segundo y a los artículos 274 BIS y 285 BIS de esta Ley.
 
-Ninguna persona física o moral, sea a título propio o por cuenta ce terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
+Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
 
 ###### ARTICULO 222.
 
@@ -3545,7 +3549,7 @@ VI. En la elección de diputados, la totalidad de los paquetes electorales sólo
 
 VII. A continuación se abrirán los paquetes con muestras de alteración y se realizarán, según sea el caso, las operaciones señaladas en las fracciones anteriores, haciéndose constar lo procedente en el acta respectiva.
 
-a) Acto seguido se abrirán los paquetes en que se contengan los expedientes de las casillas, para extraer el de la elección de diputados y se procederá en los términos del la fracción III de este artículo.
+a) Acto seguido se abrirán los paquetes en que se contengan los expedientes de las casillas, para extraer el de la elección de diputados y se procederá en los términos del (sic) la fracción III de este artículo.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
 
@@ -5071,9 +5075,7 @@ SEGUNDO. Con la vigencia del presente Decreto se abroga la Ley Electoral del Est
 
 TERCERO. Para garantizar la debida observancia de este Decreto se habrán de seguir las previsiones siguientes:
 
-1ª. Por única vez, para los efectos que se establecen en el artículo 91 de la Ley Electoral, los consejeros ciudadanos que sean electos para integrar el Pleno del Consejo en el año 2014, según el orden de prelación en la lista que apruebe el Congreso del Estado, durarán en su encargo, del uno al tres, seis años; del cuatro al seis, cuatro años; y del siete al nueve, dos años; sin perjuicio de que cualquiera de ellos pueda ser nombrado como Presidente del Consejo, en cuyo caso, no podrá ejercerlo después del periodo para el que fuese electo.
-
-En caso de que los consejeros ciudadanos electos para integrar el Pleno del Consejo en el periodo 2011 al 2014, sean ratificados para el periodo inmediato siguiente, éstos no podrán durar en su nuevo encargo más de cuatro años.
+1ª. (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2013)
 
 2ª. A la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana, contará con un plazo de sesenta días naturales para expedir o adecuar sus disposiciones reglamentarias, administrativas y estatutarias a este mismo Decreto.
 
@@ -5130,3 +5132,9 @@ DECRETO 317 POR LO QUE SE REFORMAN LOS ARTÍCULOS, 88 EN SU PÁRRAFO SEGUNDO, 89
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
