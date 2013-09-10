@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-salud-del-estado-de-mexico-25202"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-13"
-last_updated: "2013-06-10"
+last_updated: "2013-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE SALUD DEL ESTADO DE MEXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el miércoles 13 de marzo de 2002.
 
@@ -371,7 +371,9 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de las enfermedades.
 
-II. Acciones de orientación y vigilancia en materia de nutrición, fomento a la lactancia materna y, en su caso, de ayuda alimentaria directa para mejorar el estado nutricional del grupo materno infantil.
+> <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2013)</small>
+
+II. Acciones de orientación y vigilancia en materia de nutrición, fomento a la lactancia materna y, en su caso, de ayuda alimentaria directa para mejorar el estado nutricional del grupo materno infantil, así como acciones de promoción para la creación de Bancos de Leche Humana en los establecimientos de salud que cuenten con servicios neonatales.
 
 III. Acciones para controlar las enfermedades que pueden prevenirse por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años.
 
@@ -384,6 +386,10 @@ I. Programas para padres de familia destinados a promover la atención materno i
 II. Actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes.
 
 III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas.
+
+> <small>(ADICIONADA, G.G. 10 DE SEPTIEMBRE DE 2013)</small>
+
+III Bis. Establecimiento de Lactarios en los centros de trabajo con madres lactantes.
 
 IV. Acciones relacionadas con la educación básica, la alfabetización de adultos, el acceso y disponibilidad de agua potable y medios sanitarios de eliminación de excretas.
 
@@ -2454,3 +2460,9 @@ G.G. 10 DE JUNIO DE 2013.
 PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 10 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
