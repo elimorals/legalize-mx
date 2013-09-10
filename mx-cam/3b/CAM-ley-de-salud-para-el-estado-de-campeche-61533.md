@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2013-09-02"
+last_updated: "2013-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -173,6 +173,10 @@ VII. Coadyuvar a la modificación de los patrones culturales que determinen háb
 
 VIII. Promover un sistema de prevención de riesgos que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud.
 
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2013)</small>
+
+IX. Promover campañas que procuren el acceso y el fomento a la cultura del consumo de agua en instituciones educativas.
+
 ###### Artículo 6.
 
 La coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría Estatal correspondiéndole lo siguiente:
@@ -199,7 +203,9 @@ X. Coadyuvar con las dependencias y entidades federales competentes en la regula
 
 XI. Promover el establecimiento de un Sistema Estatal de Información Básica en Materia de Salud;
 
-XII. Apoyar la coordinación entre las instituciones de salud y educativas del Estado, para formar y capacitar recursos humanos para la salud;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2013)</small>
+
+XII. Apoyar la coordinación entre las instituciones de salud y educativas del Estado, para formar y capacitar recursos humanos para la salud; y para fomentar la cultura del consumo de agua.
 
 XIII. Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
 
@@ -1405,9 +1411,9 @@ Para los efectos de esta Ley se entiende por asistencia social el conjunto de ac
 
 Son actividades básicas de asistencia social:
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2013)</small>
 
-I. La atención a personas que, por sus carencias socioeconómicas o por problemas de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+I. La atención a personas que por sus carencias socioeconómicas o por problemas de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo; así como a mujeres gestantes o en período de lactancia, madres solteras y adolescentes embarazadas en pobreza extrema y marginación, en situación de maltrato, abandono, violencia de género o intrafamiliar, en situación de cualquier tipo de explotación y víctimas de abuso sexual
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
 
@@ -1991,7 +1997,7 @@ Los Centros de Rehabilitación de Adicciones, públicos y privados, deberán con
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-Articulo 238 ter. Para operar un Centro de Rehabilitación de Adicciones en el Estado, independientemente de lo que prescriban la Ley General de Salud y la Norma Oficial Mexicana para la prevención, tratamiento y control de las adicciones deberán de cumplir con los siguientes requisitos:
+Artículo 238 ter. Para operar un Centro de Rehabilitación de Adicciones en el Estado, independientemente de lo que prescriban la Ley General de Salud y la Norma Oficial Mexicana para la prevención, tratamiento y control de las adicciones deberán de cumplir con los siguientes requisitos:
 
 I. Contar con autorización de funcionamiento de la Secretaría;
 
@@ -2533,7 +2539,7 @@ Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campech
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. EN D. RICARDO MEDINA FARFÁN.- RUBRICAS.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 14 DE SEPTIEMBRE DE 2009.
 
@@ -2576,3 +2582,9 @@ El presente decreto entrará en vigor a los quince días siguientes de su public
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto por este decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
