@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-estimulos-a-la-calidad-en-el-desempeno-del-85546"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-20"
-last_updated: "2012-01-20"
+last_updated: "2013-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO "ESTÍMULOS A LA CALIDAD EN EL DESEMPEÑO DEL PERSONAL DOCENTE", COLEGIO DE BACHILLERES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO PROGRAMA DE ESTÍMULOS A LA CALIDAD EN EL DESEMPEÑO DEL PERSONAL DOCENTE, PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 20 de enero de 2012.
 
@@ -177,7 +179,7 @@ Forman parte de los documentos legales para la operatividad del programa de “E
 
 ### CAPITULO IV. PUNTUACION TOTAL, NIVELES, NÚMERO DE SALARIOS Y PRESUPUESTO
 
-12. PUNTACION TOTAL.
+12. PUNTACION (SIC) TOTAL.
 
 El puntaje de los criterios de evaluación para el Programa de “Estímulos a la Calidad en el Desempeño del Personal Docente”, se asignará en una escala de 1 a 800 y se distribuirá de la siguiente manera:
 
@@ -402,3 +404,11 @@ Desglose de los criterios, factores, indicadores
 Anexo 2
 
 "Significados y consideraciones de los indicadores de evaluación"
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 10 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- Se abroga el Reglamento interno para el Programa de Estímulos a la calidad en el desempeño del personal docente del Colegio de Bachilleres de (sic) Estado de Baja California Sur, de fecha octubre 22 de 2011.
+
+SEGUNDO.- El presente Reglamento entrará en vigor el día siguiente de haber sido aprobado por la Junta Directiva del Colegio de Bachilleres del Estado de Baja California Sur.
