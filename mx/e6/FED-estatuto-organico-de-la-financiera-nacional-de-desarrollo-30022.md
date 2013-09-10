@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2013-03-13"
+last_updated: "2013-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGÁNICO DE LA FINANCIERA RURAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE SEPTIEMBRE DE 2013.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -671,21 +671,23 @@ IX. Llevar a cabo las demás actividades dentro del área de su competencia, que
 
 ARTICULO 25 BIS.- (DEROGADO, D.O.F. 22 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2013)</small>
 
-ARTICULO 25 TER.- Corresponde a la Subdirección Corporativa de Desarrollo Institucional:
+ARTICULO 25 TER.- Corresponde a la Dirección Ejecutiva de Desarrollo y Vinculación del Negocio:
 
-I. Efectuar las actividades que permitan vincular a la Financiera con dependencias y entidades de la administración pública federal; comisiones intersecretariales y equivalentes; poderes legislativo y judicial; gobiernos de las entidades federativas; gobiernos municipales; organismos académicos y empresariales de los sectores privado y social; organizaciones de productores y organismos internacionales, a fin de enriquecer las políticas relacionadas con el objeto de la Financiera;
+I.- Proponer la política de relaciones interinstitucionales con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como el sector privado y social para operar los programas que se celebren con instituciones orientadas a la inversión y financiamiento;
 
-II. Formular recomendaciones sobre los programas de financiamiento, apoyo y capacitación;
+II.- Coordinar al interior de la institución la implementación de acciones para atender las iniciativas legislativas y puntos de acuerdo de las cámaras con temas relacionados al sector rural, así como proponer las estrategias de vinculación interinstitucional de las mismas;
 
-III. Dar seguimiento a las iniciativas legislativas y a puntos de acuerdo de las cámaras vinculados al sector rural;
+III.- Coordinar y facilitar reuniones de los directivos de la Institución con las autoridades de los gobiernos estatales y municipales, con los representantes de las distintas organizaciones vinculadas al sector rural, instituciones académicas, empresas y organismos, con el propósito de establecer acuerdos o convenios que impulsen el desarrollo del sector rural nacional;
 
-IV. Coordinar y facilitar las reuniones de los directivos de la Institución con las autoridades de los gobiernos estatales y municipales, con los representantes de las distintas organizaciones vinculadas al sector rural, instituciones académicas, empresas y organismos nacionales e internacionales;
+IV.- Proponer actividades que propicien la generación de vínculos estratégicos, de cooperación e intercambio de información, experiencias y tecnología con entidades nacionales e internacionales relacionadas con el financiamiento rural;
 
-V. Promover vínculos estratégicos y de cooperación, así como propiciar la celebración de convenios de colaboración e intercambio de información, experiencias y tecnología, con entidades nacionales e internacionales, y
+V.- Establecer comunicación con organismos e instituciones orientadas a la inversión y financiamiento de proyectos productivos del sector rural para identificar tendencias y perspectivas de los mismos, en cuanto a demanda de productos del sector rural nacional, así como la aplicación de las mejores prácticas en el tema en coordinación con las Direcciones Generales Adjuntas o áreas competentes;
 
-VI. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario.
+VI.- Diseñar y proponer estrategias de participación de la Financiera en foros, eventos, convenios e iniciativas de cooperación para promover la participación de instituciones y organismos en proyectos productivos que fortalezcan el desarrollo del sector rural mexicano, así como dar seguimiento al cumplimiento de las obligaciones que de ellos se derive; y
+
+VII.- Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario.
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -2758,3 +2760,7 @@ UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguien
 D.O.F. 13 DE MARZO DE 2013.
 
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE SEPTIEMBRE DE 2013.
+
+ÚNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
