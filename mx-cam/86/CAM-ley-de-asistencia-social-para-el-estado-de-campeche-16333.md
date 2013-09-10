@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-asistencia-social-para-el-estado-de-campeche-16333"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-06"
-last_updated: "2012-08-13"
+last_updated: "2013-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16333&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el jueves 6 de abril de 2000.
 
@@ -81,7 +81,9 @@ En los términos del artículo 3 de esta ley, las personas objetivo de las accio
 
 I.- Los menores de edad con discapacidad, en estado de abandono, desamparo, desnutrición, o sujetos a maltrato, violencia intrafamiliar, o explotados, sujetos a actos de corrupción, en pobreza extrema, farmacodependientes, alcohólicos, indígenas, migrantes y repatriados en cualquiera de las condiciones expuestas con antelación, o cualquier estado que ponga en riesgo su integridad física o emocional, y menores de edad en circunstancias especialmente difíciles;
 
-II.- Las mujeres gestantes o en período de lactancia, adolescentes embarazadas en pobreza extrema y marginación, fueran objeto de violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Las mujeres gestantes o en período de lactancia, madres solteras y adolescentes embarazadas en pobreza extrema y marginación, en situación de maltrato, abandono, violencia de género ó intrafamiliar y en situación de cualquier tipo de explotación y víctimas de abuso sexual.
 
 III.- Los senectos en estado de abandono, maltrato, en desamparo, con discapacidad, incapacidad jurídica, marginación, o sujetos a maltrato;
 
@@ -91,7 +93,7 @@ V.- Los indigentes;
 
 VI.- Las personas que por su extrema ignorancia, requieran de la Asistencia Social;
 
-VII.- las víctimas en estado de abandono por la comisión de delitos, y cónyuge, concubina o concubino e hijos menores de edad en desprotección total, de quienes se encuentran detenidos por causas penales;
+VII.- Las víctimas en estado de abandono por la comisión de delitos, y cónyuge, concubina o concubino e hijos menores de edad en desprotección total, de quienes se encuentran detenidos por causas penales;
 
 VIII.- Los habitantes del medio rural o urbano marginados que carezcan de lo indispensable para su subsistencia, incluyendo a indígenas que enfrenten condiciones de marginación;
 
@@ -103,9 +105,13 @@ X.- Las personas afectadas por desastres.
 
 Los sujetos de atención de la Asistencia Social tendrán derecho a recibir:
 
-I.- Atención, acorde a sus necesidades, por personal profesional calificado y responsable;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2013)</small>
 
-II.- Estricto respeto, a su condición jurídica y humana; y
+I.- Atención de calidad, con oportunidad y calidez acorde a sus necesidades, por personal profesional calificado y responsable;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2013)</small>
+
+II. Estricto respeto a su condición jurídica y humana, cuidando la confidencialidad de sus condiciones personales y de los servicios que reciban.
 
 III.- Los servicios gratuitamente sin discriminación por su credo, origen étnico, género o ideología.
 
@@ -201,7 +207,7 @@ IV.- La generación de modelos de atención que atiendan a la población objetiv
 
 ###### ARTÍCULO 31.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Campeche, tendrá respecto de la Asistencia Social, las siguientes atribuciones:
+El Sistema para el Desarrollo Integral de la Familia en el Estado de Campeche, tendrá respecto de la Asistencia Social, las siguientes atribuciones:
 
 I.- Supervisar la aplicación de las normas técnicas que rijan la prestación de los servicios de Asistencia Social, así como la difusión y adecuación de las mismas entre los integrantes del Sistema Estatal de Asistencia Social;
 
@@ -475,9 +481,9 @@ XII.- Las demás que sean necesarias para el ejercicio de las facultades anterio
 
 ###### ARTÍCULO 49.
 
-La Junta de Gobierno podrá integrar los Comités Técnicos necesarios para el estudio y propuesta de mecanismos que aseguren la coordinación interinstitucional en atención de las tareas asistenciales y elevar la calidad y eficiencia que estimen necesarias.
+La Junta de Gobierno podrá integrar los Comités Técnicos necesarios para el estudio y propuesta de mecanismos que aseguren la coordinación interinstitucional en la atención de las tareas asistenciales y elevar la calidad y eficiencia que estimen necesarias.
 
-Estos comités estarán formados por los representantes que al electo designen las dependencias y entidades competentes.
+Estos comités estarán formados por los representantes que al efecto designen las dependencias y entidades competentes.
 
 ###### ARTÍCULO 50.
 
@@ -519,7 +525,7 @@ X.- Las demás que sean necesarias para el ejercicio de las anteriores.
 
 ###### ARTÍCULO 54.
 
-El comisario será designado y removido libremente por el Gobernador del Estado y será ciudadano mexicano por nacimiento, tener mas de 30 años de edad, con título profesional de Contador Público y con experiencia no menos de cinco años en la Administración Pública.
+El comisario será designado y removido libremente por el Gobernador del Estado y será ciudadano mexicano por nacimiento, tener mas de 30 años de edad, con título profesional de Contador Público y con una experiencia no menos de cinco años en la Administración Pública.
 
 ###### ARTÍCULO 55.
 
@@ -617,7 +623,7 @@ XI.- La participación ciudadana en los diversos programas y actividades de inte
 
 XII.- Realizar la canalización en caso de ser necesario, de personas que por su particular problemática no se les pueda atender de acuerdo a la cobertura de acción del organismo;
 
-XIII.- Promover, motivar y orientar sobre los servicios Planificación Familiar a la comunidad y a la familia en particular;
+XIII.- Promover, motivar y orientar sobre los servicios de Planificación Familiar a la comunidad y a la familia en particular;
 
 XIV.- Diseñar y aplicar Programas de Planificación Familiar en parejas, hombres y mujeres en edad fértil; y
 
@@ -645,7 +651,7 @@ Los Programas Preventivos tendrán como propósitos sustantivos, la orientación
 
 Se consideran como Programas Preventivos, los encaminados a brindar:
 
-I.- Orientación y formación de padres de familia, para la prevención de la violencia intrafamiliar y el maltrato infantil;
+I.- Orientación y formación a padres de familia, para la prevención de la violencia intrafamiliar y el maltrato infantil;
 
 II.- Orientación a menores de edad y jóvenes sobre la prevención de los riesgos en salud;
 
@@ -785,7 +791,7 @@ I.- Defender y asesorar al menor de edad en juicio y fuera de él cuando así lo
 
 II.- Prestar asesoría jurídica a la familia, siempre que su intervención sea conveniente para mantener la integración familiar;
 
-III.- Hacer del conocimiento del Ministerio Público todos aquellos casos que imponen el ejercicio de acciones en las que, en los términos de la Legislación Civil, Penal y Familiar, esté legitimado y que se traduzcan en la salvaguarda de los intereses de los menores de edad y la familia, para el efecto de que deduzca dichas acciones ante las autoridades judiciales competentes;
+III.- Hacer del conocimiento del Ministerio Público todos aquellos casos que imponen el ejercicio de acciones en las que, en los términos de la legislación Civil, Penal y Familiar, esté legitimado y que se traduzcan en la salvaguarda de los intereses de los menores de edad y la familia, para el efecto de que deduzca dichas acciones ante las autoridades judiciales competentes;
 
 IV.- La promoción entre las familias de la constitución del patrimonio familiar;
 
@@ -859,7 +865,7 @@ A todas las actuaciones practicadas por el Procurador, y los Procuradores Auxili
 
 ###### ARTÍCULO 89.
 
-Los menores de edad, las mujeres o cualquier otro miembro de la familia sometidos a maltrato físico o moral o violencia intrafamiliar, recibirán por parte del organismo a través de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, atención psicoterapeuta especializada, que incluirá su tratamiento, así como el de su familia o el de aquellas persona bajo cuyo cuidado se encuentren o con quienes convivan.
+Los menores de edad, las mujeres o cualquier otro miembro de la familia sometidos a maltrato físico o moral o violencia intrafamiliar, recibirán por parte del organismo a través de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, atención psicoterapeuta especializada, que incluirá su tratamiento, así como el de su familia o el de aquellas personas bajo cuyo cuidado se encuentren o con quienes convivan.
 
 ###### ARTÍCULO 90.
 
@@ -869,7 +875,7 @@ Para los efectos de esta Ley, se considera que los menores de edad o las mujeres
 
 Corresponde a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, a través del área de Trabajo Social respectiva, investigar a través de los estudios de dicha disciplina, sobre la existencia de cualquier tipo de maltrato a menores de edad, mujeres o cualquier otro miembro de la familia, poniendo en conocimiento del Ministerio Público y coadyuvando con éste, para los efectos de que se inicie la averiguación previa correspondiente hasta lograr su consignación ante el Juez Penal respectivo.
 
-Unicamente a solicitud de las autoridades judiciales, se expedirán cualesquiera constancias de los archivos de la Procuraduría de la Defensa del Menor la Mujer y la Familia, y se realizarán investigaciones de trabajo social y estudios socioecononómicos como apoyo por parte de la dicha Procuraduría, siendo éstos como los mencionados en el párrafo anterior de carácter confidencial.
+Unicamente a solicitud de las autoridades judiciales, se expedirán cualesquiera constancias de los archivos de la Procuraduría de la Defensa del Menor la Mujer y la Familia, y se realizarán investigaciones de trabajo social y estudios socioeconómicos como apoyo por parte de la dicha Procuraduría, siendo éstos como los mencionados en el párrafo anterior de carácter confidencial.
 
 ###### ARTÍCULO 92.
 
@@ -905,7 +911,7 @@ Con el propósito de asegurar la adecuada coordinación de acciones en el ámbit
 
 ###### ARTÍCULO 99.
 
-Con el objeto de ampliar la cobertura y la calidad de los servicios en materia de Asistencia Social en los municipios, el Gobierno del Estado a través del organismo, promoverá la celebración de convenios entre éste y las distintas dependencias del gobierno, a fin de:
+Con el objeto de ampliar la cobertura y la calidad de los servicios en materia de Asistencia Social en los municipios, el Gobierno del Estado a través del organismo, promoverá la celebración de convenios entre éste y las distintas dependencias de gobierno, a fin de:
 
 I.- Establecer programas conjuntos;
 
@@ -923,7 +929,7 @@ El organismo promoverá el establecimiento de dependencias que integrarán los S
 
 ###### ARTÍCULO 101.
 
-El organismo administrará de acuerdo a las bases legales relativas, los apoyos y participaciones que el Gobierno Federal aporte a los municipios destinados exclusivamente al otorgamiento de desayunos escolares, apoyos alimentarios, Asistencia Social a la población en pobreza extrema y tendrá bajo su responsabilidad el seguimiento, y asesoría de los programas que operen los municipios a través de los Sistemas D.I.F. Municipales.
+El organismo administrará de acuerdo a las bases legales relativas, los apoyos y participaciones que el Gobierno Federal aporte a los municipios destinados exclusivamente al otorgamiento de desayunos escolares, apoyos alimentarios, Asistencia Social a (sic) población en pobreza extrema y tendrá bajo su responsabilidad el seguimiento, y asesoría de los programas que operen los municipios a través de los Sistemas D.I.F. Municipales.
 
 ###### ARTÍCULO 102.
 
@@ -993,7 +999,7 @@ VIII.- Centros de Desarrollo y Capacitación;
 
 IX.- Corresponsabilidad Social; y
 
-X.- Las demás que el Director General del organismo y la Presidencia Honoraria del Patronato del mismo, le señalen.
+X.- Las demás que el Director General del organismo y la Presidenta Honoraria del Patronato del mismo, le señalen.
 
 ###### ARTÍCULO 109.
 
@@ -1058,3 +1064,9 @@ SEGUNDO.- Los procedimientos relativos a las materias de adopción y pérdida de
 TERCERO.- El Pleno del H. Tribunal Superior de Justicia del Estado de Campeche realizará todas las acciones necesarias para la implementación de lo dispuesto en el presente decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
