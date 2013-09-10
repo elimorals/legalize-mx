@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-del-consejo-guerrerense-de-desarrollo-rural-57229"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-02"
-last_updated: "2007-10-02"
+last_updated: "2013-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO DEL CONSEJO GUERRERENSE DE DESARROLLO RURAL SUSTENTABLE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CONSEJO GUERRERENSE PARA EL DESARROLLO RURAL SUSTENTABLE, PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de octubre de 2007.
 
@@ -141,35 +143,35 @@ La evaluación de las solicitudes para ingresar al Consejo Guerrerense como miem
 
 El Consejo Guerrerense será un órgano consultivo de participación, análisis, deliberación, promoción de consensos, acuerdos, seguimiento y evaluación, que coadyuven a favorecer, definir y orientar una mejor política, programas y acciones públicas que impulsen el desarrollo rural sustentable en Guerrero, entre las que estarán:
 
-• Planeación, programación y seguimiento.
+- Planeación, programación y seguimiento.
 
-• Formulación, evaluación y selección de proyectos estratégicos de carácter estatal.
+- Formulación, evaluación y selección de proyectos estratégicos de carácter estatal.
 
-• Información agropecuaria.
+- Información agropecuaria.
 
-• Financiamiento rural.
+- Financiamiento rural.
 
-• Apoyos a los programas inherentes a la política de fomento al desarrollo rural.
+- Apoyos a los programas inherentes a la política de fomento al desarrollo rural.
 
-• Fomento a la empresa social rural.
+- Fomento a la empresa social rural.
 
-• Promoción y comercialización agropecuaria y de pesca y acuacultura.
+- Promoción y comercialización agropecuaria y de pesca y acuacultura.
 
-• Bienestar social rural.
+- Bienestar social rural.
 
-• Lucha contra la desertificación y degradación de los recursos naturales.
+- Lucha contra la desertificación y degradación de los recursos naturales.
 
-• Investigación y transferencia tecnológica.
+- Investigación y transferencia tecnológica.
 
-• Registro agropecuario.
+- Registro agropecuario.
 
-• Inspección y certificación de semillas.
+- Inspección y certificación de semillas.
 
-• Normalización e inspección de productos agropecuarios y almacenamiento.
+- Normalización e inspección de productos agropecuarios y almacenamiento.
 
-• Sanidad, inocuidad y calidad agropecuaria y alimentaria.
+- Sanidad, inocuidad y calidad agropecuaria y alimentaria.
 
-• Capacitación y asistencia técnica rural integral.
+- Capacitación y asistencia técnica rural integral.
 
 ###### Artículo 12.
 
@@ -416,3 +418,17 @@ EL SECRETARIO DE DESARROLLO RURAL.
 LIC. ARMANDO RIOS PITER.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2013.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se abroga el Reglamento del Consejo Guerrerense de Desarrollo Rural Sustentable, publicado en el Periódico Oficial del Gobierno del Estado número 79, de fecha 02 de octubre del año 2007.
+
+Tercero. El Consejo Guerrerense, de acuerdo a lo que mandata la Ley número 814 de Desarrollo Rural Sustentable del Estado de Guerrero promoverá en el año 2013, la integración de los Consejos Distritales y Municipales, que habrá en cada una de las regiones económicas del Estado, así como la orientación del funcionamiento de los Consejos Municipales.
+
+Cuarto. Para efectos de difusión y ejecución del presente Reglamento y de la Ley número 814 de Desarrollo Rural Sustentable del Estado de Guerrero, se acuerda la edición impresa de cuando menos cinco mil ejemplares para que sean distribuidos entre los actores del campo guerrerense.
+
+Quinto. Los casos no previstos en el presente Reglamento serán resueltos por el Pleno del Consejo Guerrerense.
