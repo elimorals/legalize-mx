@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-de-educacion-del-93765"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-27"
-last_updated: "2013-03-27"
+last_updated: "2013-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN, PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Suplemento 11 del Periódico Oficial del Estado de Zacatecas, el miércoles 27 de marzo de 2013.
 
@@ -1602,3 +1604,19 @@ FRANCISCO ESCOBEDO VILLEGAS
 EL SECRETARIO DE EDUCACIÓN
 
 MARCO VINICIO FLORES CHÁVEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2013.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Educación, publicado en el Periódico Oficial, Órgano del Gobierno del Estado en Suplemento 11 al No. 25, de fecha 27 de marzo de 2013.
+
+Tercero.- Se derogan las demás disposiciones jurídicas y administrativas que se opongan al presente Reglamento.
+
+Cuarto.- A la publicación del presente Estatuto y de conformidad con el término establecido por la Secretaría de la Función Pública, deberán expedirse el Manual de Organización y el de Procedimientos.
+
+Quinto.- Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento, a cargo de áreas administrativas cuya denominación se modifica o cambian de adscripción, se continuarán hasta su resolución por el área que sea competente en los términos del presente Reglamento Interior.
+
+Sexto.- Las autoridades de la Secretaría se obligan a respetar íntegramente los derechos laborales de los trabajadores de la educación.
