@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2013-04-06"
+last_updated: "2013-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2013.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -305,9 +305,9 @@ II. Participar en la preparación, desarrollo y vigilancia de los procesos elect
 
 III. Participar en los procesos de referéndum, de plebiscito, de iniciativa popular y de revocación del mandato a que se convoque en los términos de esta Constitución y sus leyes reglamentarias;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
 
-IV. Ser votados para todos los cargos de elección popular y nombrados para cualquier otro empleo o comisión, siempre que reúnan las calidades que establece la ley. Para ocupar los cargos de diputado local o integrante de algún Ayuntamiento, no se requiere ser mexicano por nacimiento; y (sic)
+IV. Ser votados y registrados para acceder a cargos de elección popular, en los términos, requisitos y condiciones que establezca la ley y nombrados para cualquier otro empleo o comisión, siempre que reúnan las calidades que establece la ley. Para ocupar los cargos de diputado local o integrante de algún Ayuntamiento, no se requiere ser mexicano por nacimiento;
 
 V. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos concernientes al Estado o al Municipio
 
@@ -481,6 +481,10 @@ d) Los pensionados y jubilados tendrán consideraciones especiales en el pago de
 
 Todo individuo tiene derecho a la alimentación, la salud, la asistencia social, la vivienda, el descanso y la recreación; la protección de sus bienes, la paz y la seguridad pública.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
+
+Toda persona tiene derecho al acceso libre y universal a internet y al software libre, para integrarse a la sociedad de la información y el conocimiento y con ello promover su desarrollo individual y el progreso social. El Estado lo garantizará.
+
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2012)</small>
 
 Toda persona tiene derecho a un medio ambiente social que le permita vivir en paz y en armonía con todos los demás seres humanos. Cualquier forma de violencia es destructiva y atenta contra el desarrollo humano integral y la dignidad de la persona.
@@ -613,17 +617,19 @@ En todos los casos el Estado y los Municipios darán preferencia a los sectores 
 
 ### CAPÍTULO PRIMERO. DE LOS PROCESOS ELECTORALES
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 35.
 
-Corresponde al Estado garantizar la integración de los poderes públicos como lo disponen esta Constitución y las leyes que de ella emanan. En consecuencia, la organización, preparación y realización de las elecciones de sus titulares, cuando su renovación deba hacerse por la vía comicial, es competencia estatal y a la vez derecho de los ciudadanos y de los partidos políticos, quienes intervendrán de manera concurrente en los términos que la ley de la materia determine.
+Corresponde al Estado garantizar la integración de los poderes públicos como lo disponen esta Constitución y las leyes que de ella emanan. En consecuencia, la organización, preparación y realización de las elecciones de sus titulares, cuando su renovación deba hacerse por la vía comicial, es competencia estatal y a la vez derecho de los ciudadanos, quienes podrán participar como candidatos de manera independiente y, de los partidos políticos, quienes intervendrán de manera concurrente en los términos que la ley de la materia determine.
 
 ###### Artículo 36.
 
 Los servidores públicos del Estado y de los Municipios, en el ámbito de sus competencias y con sujeción a la ley, garantizarán la libertad del sufragio y sancionarán la violación a las garantías individuales, el ataque a las instituciones democráticas y los actos que impidan la participación de los ciudadanos en la vida política, económica, cultural y social del Estado. El incumplimiento en que incurra cualquier servidor público dará lugar a la aplicación de las sanciones previstas por la ley penal.
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
 
-Los servidores públicos tendrán en todo momento la obligación de aplicar con imparcialidad los recursos públicos que estén bajo su responsabilidad y deberán abstenerse de participar para influir en la equidad de la competencia entre los partidos políticos.
+Los servidores públicos tendrán en todo momento la obligación de aplicar con imparcialidad los recursos públicos que estén bajo su responsabilidad y deberán abstenerse de participar para influir en la equidad de la competencia entre los partidos políticos y los candidatos independientes.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
@@ -631,11 +637,11 @@ Los servidores públicos tendrán en todo momento la obligación de aplicar con 
 
 Los ciudadanos zacatecanos tienen el derecho de estar representados en todos los organismos que tengan a su cargo funciones electorales, así como de consulta popular previstas por las leyes para el mejor desempeño de las atribuciones de los poderes públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 38.
 
-El Estado garantizará la certeza, imparcialidad, independencia, legalidad y objetividad de la función electoral y de consulta popular. La organización, preparación y realización de los procesos electorales y de consulta popular, se sujetará a las reglas siguientes:
+El Estado garantizará la certeza, imparcialidad, independencia, legalidad y objetividad de la función electoral y de consulta popular ciudadana. La organización, preparación y realización de los procesos electorales y de consulta popular, se sujetará a las reglas siguientes:
 
 I. Se ejercerá a través de un organismo público autónomo y de carácter permanente, denominado Instituto Electoral del Estado de Zacatecas, dotado de personalidad jurídica y patrimonio propios, en cuya integración intervienen el Poder Legislativo del Estado, los partidos políticos con registro y los ciudadanos zacatecanos, en los términos ordenados por esta Constitución y la ley de la materia;
 
@@ -657,15 +663,21 @@ VI. Los consejeros representantes del Poder Legislativo serán propuestos por lo
 
 VII. El Consejero Presidente propondrá al Consejo General una terna para la designación del Secretario Ejecutivo, que será elegido mediante el voto de las dos terceras partes de sus integrantes;
 
-VIII. Fungirán en el ámbito de su competencia, los Consejos Electorales Distritales y Municipales, los cuales se integran por un Consejero Presidente, un Secretario Ejecutivo con voz pero sin derecho a voto, cuatro consejeros electorales con sus respectivos suplentes, nombrados todos ellos por las dos terceras partes del Consejo General, el que podrá tomar en cuenta las propuestas que hagan los partidos políticos. Los partidos políticos estatales y nacionales podrán acreditar un representante en cada uno de los Consejos Distritales y Municipales, con derecho de voz pero no de voto; y (sic)
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
+
+VIII. Fungirán en el ámbito de su competencia, los Consejos Electorales Distritales y Municipales, los cuales se integran por un Consejero Presidente, un Secretario Ejecutivo con voz pero sin derecho a voto, cuatro consejeros electorales con sus respectivos suplentes, nombrados todos ellos por las dos terceras partes del Consejo General, el que podrá tomar en cuenta las propuestas que hagan los partidos políticos. Los partidos políticos estatales y nacionales así como los ciudadanos que participen con el carácter de candidatos independientes, podrán acreditar un representante en cada uno de los Consejos Distritales y Municipales, con derecho a voz pero no de voto;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
+
+IX. Los candidatos independientes estarán representados ante la autoridad electoral de la elección en que participen y ante las mesas directivas de casilla correspondientes;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-IX. La Ley señalará las atribuciones del Instituto Electoral del Estado de Zacatecas, así como las de los Consejos General, Distritales y Municipales. Para los procesos de consulta popular se estará a lo dispuesto por la ley de la materia, y
+X. La Ley señalará las atribuciones del Instituto Electoral del Estado de Zacatecas, así como las de los Consejos General, Distritales y Municipales. Para los procesos de consulta popular se estará a lo dispuesto por la ley de la materia, y
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
 
-X. La ley establecerá las bases para que el Instituto Electoral del Estado de Zacatecas, pueda convenir con el Instituto Federal Electoral, para que éste se haga cargo de la organización de los procesos electorales.
+XI. La ley establecerá las bases para que el Instituto Electoral del Estado de Zacatecas, pueda convenir con el Instituto Federal Electoral, para que éste se haga cargo de la organización de los procesos electorales.
 
 Las sesiones de estos órganos serán públicas, salvo los casos de excepción que la ley determine.
 
@@ -703,11 +715,15 @@ Se establecerá un sistema de medios de impugnación contra actos o resoluciones
 
 Los partidos políticos son entidades de interés público y tienen derecho de participar en las elecciones constitucionales de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos, así como al uso permanente de los medios de comunicación social y al acceso a los tiempos de radio y televisión, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales y demás disposiciones aplicables.
 
-En la propaganda política o electoral que difundan los partidos o coaliciones deberán de abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas. La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los órdenes de gobierno federal, estatal o municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
+
+En la propaganda política o electoral que difundan los partidos, coaliciones o candidatos independientes, deberán de abstenerse de expresiones que denigren a las instituciones y a los propios partidos, coaliciones o candidatos independientes, o que calumnien a las personas. La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los órdenes del gobierno federal, estatal o municipal, deberá tener carácter institucional y fines informáticos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
 Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes, como de los municipios y cualquier otro ente público de los tres órdenes de gobierno. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales o las necesarias para la protección civil en casos de emergencia. La ley dispondrá las sanciones que deberán imponerse por el incumplimiento de estas disposiciones, con independencia de las responsabilidades administrativas o penales que se deriven.
 
-Los partidos políticos sólo se constituirán por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo se les reconoce el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
+
+Los partidos políticos sólo se constituirán por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa.
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos en los términos que expresamente señale la ley.
 
@@ -731,9 +747,13 @@ Los partidos políticos rendirán informe público, una vez al año, de sus movi
 
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
 
-La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos, así como el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, el diez por ciento del tope de gastos establecido para la última campaña a Gobernador.
+Los ciudadanos que participen como candidatos independientes se sujetarán al régimen de fiscalización que la ley establezca.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
+
+La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos, así como de los candidatos que participen con el carácter de candidatos independientes. También sobre el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, el diez por ciento del tope de gastos establecidos para la última campaña a Gobernador.
 
 El financiamiento público que reciban los partidos políticos que conserven su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales, y se otorgará conforme a las bases siguientes y a lo que disponga la ley:
 
@@ -757,7 +777,7 @@ IV. La ley establecerá los procedimientos para el control y vigilancia del orig
 
 V. La ley establecerá las bases obligatorias para la coordinación entre el Instituto Federal Electoral y el Instituto Electoral del Estado de Zacatecas, en materia de fiscalización de las finanzas de los partidos políticos, en los términos de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2012)</small>
 
@@ -3090,3 +3110,17 @@ P.O. 6 DE ABRIL DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO 693, POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 26 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO 696, POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 14; SE REFORMA EL ARTÍCULO 35; SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 36; SE REFORMAN LA FRACCIÓN VIII Y SE ADICIONA UNA FRACCIÓN IX, RECORRIÉNDOSE LAS SIGUIENTES EN SU ORDEN AL ARTÍCULO 38; SE REFORMAN LOS PÁRRAFOS SEGUNDO Y CUARTO DEL ARTÍCULO 43; SE ADICIONA UN QUINTO PÁRRAFO RECORRIÉNDOSE LOS SIGUIENTES EN SU ORDEN Y SE REFORMA EL SEXTO PÁRRAFO DEL ARTÍCULO 44, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
+
+Artículo primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
