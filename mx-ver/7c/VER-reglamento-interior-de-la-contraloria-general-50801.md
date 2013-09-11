@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-contraloria-general-50801"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-24"
-last_updated: "2007-08-15"
+last_updated: "2013-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL
 
-REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONTRALORÍA GENERAL, PUBLICADO EN LA G.O. DE 11 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
+REGLAMENTO INTERIOR DE LA CONTRALORÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de mayo de 2006.
 
@@ -663,8 +663,32 @@ LIC. REYNALDO G. ESCOBAR PÉREZ
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 15 DE AGOSTO DE 2007.
 
 Quinto. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 11 DE SEPTIEMBRE DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA CONTRALORÍA GENERAL”.]
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Contraloría General del Estado, publicado en el número extraordinario 119, de la Gaceta Oficial de (sic) estado, el 24 de mayo de 2006, así como sus reformas y adiciones posteriores; y se derogan todas las demás disposiciones que se opongan al presente reglamento.
+
+Artículo Tercero. Las unidades administrativas con denominación nueva o distinta que aparecen en el presente Reglamento y que tienen competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de los mismos, continuando su substanciación y dictarán las resoluciones respectivas.
+
+Artículo Cuarto. Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, bases, manuales y demás disposiciones reglamentarias, a la anterior Dirección General de Auditoría Gubernamental que desaparece por virtud del presente Reglamento, se entenderán hechas o conferidas a la Dirección General de Control, Evaluación y Auditoría. De igual manera, las demás áreas administrativas y subalternas que cambian de denominación o desaparecen por virtud del presente ordenamiento, se entenderán hechas o conferidas a aquellas que correspondan conforme a lo establecido en el presente reglamento.
+
+Artículo Quinto. Continuarán en vigor los acuerdos que hayan sido expedidos por el titular de la Contraloría, así como los demás instrumentos jurídicos que actualmente se encuentren vigentes en lo que no se opongan a las disposiciones del presente ordenamiento, en tanto no se modifiquen o dejen sin efectos.
+
+Artículo Sexto. La Unidad Administrativa de la Contraloría, realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos de (sic) presente ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+Artículo Séptimo. Los sistemas electrónicos con que cuenta la Contraloría seguirán siendo operados por el área administrativa competente a la entrada en vigor de este Decreto, realizándose las adecuaciones tecnológicas correspondientes.
+
+Artículo Octavo. Las modificaciones a la estructura orgánica de la Contraloría que deriven de la entrada en vigor del presente Decreto serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Contraloría.
+
+Artículo Noveno. La Contraloría contará con un plazo de noventa días para adecuar su Manual General de Organización y de Procedimientos y servicios al Público.
+
+Artículo Décimo. En tanto se adecuan los Manuales de Organización, Procedimientos y Servicios al Público, el Contralor estará facultado para resolver las cuestiones que dichos manuales deben regular.
