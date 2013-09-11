@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2013-08-29"
+last_updated: "2013-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE SEPTIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE SEPTIEMBRE DE 2013.</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -759,7 +759,11 @@ XXIX. Participar en la prevención, tratamiento y rehabilitación de la farmacod
 
 XXX. Emitir a través del Consejo Rector de Impacto Sanitario, el Dictamen de Factibilidad de Impacto Sanitario;
 
+(ADICIONADA, G.G. 29 DE AGOSTO DE 2013) (F. DE E., G.G. 11 DE SEPTIEMBRE DE 2013)
+
 XXXI. Vigilar el debido cumplimiento del Dictamen de Factibilidad de Impacto Sanitario, a través de visitas de verificación, así como la aplicación de las medidas de seguridad e imposición de sanciones que le correspondan en el ámbito de sus atribuciones;
+
+(ADICIONADA, G.G. 29 DE AGOSTO DE 2013) (F. DE E., G.G. 11 DE SEPTIEMBRE DE 2013)
 
 XXXII. Las demás que señalen las leyes, reglamentos y disposiciones en la materia.
 
