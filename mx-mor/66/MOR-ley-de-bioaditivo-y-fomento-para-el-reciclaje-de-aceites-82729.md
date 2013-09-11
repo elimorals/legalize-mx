@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-bioaditivo-y-fomento-para-el-reciclaje-de-aceites-82729"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-01"
-last_updated: "2011-09-01"
+last_updated: "2013-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE BIOADITIVO Y FOMENTO PARA EL RECICLAJE DE ACEITES VEGETALES Y GRASAS ANIMALES RESIDUALES PARA EL ESTADO DE MORELOS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el jueves 1 de septiembre de 2011.
 
@@ -193,9 +193,11 @@ XIV.-Proceso Productivo: Conjunto de actividades relacionadas con la extracción
 
 COMPETENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 7.
 
-Corresponde al Ejecutivo Estatal, a través de la Comisión Estatal de Agua y Medio Ambiente:
+Corresponde al Ejecutivo Estatal, a través de la Secretaría de Desarrollo Sustentable:
 
 I.- Establecer, promover y aplicar programas de separación, recolección, gestión, acopio, entrega, traslado, y proceso de transesterificación de aceites vegetales y grasas residuales;
 
@@ -258,3 +260,15 @@ SECRETARIO DE GOBIERNO
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Tierra y Libertad", órgano de difusión de Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
