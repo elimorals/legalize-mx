@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-08-29"
+last_updated: "2013-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 11 DE SEPTIEMBRE DE 2013 Y EL 30 DE OCTUBRE DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 11 DE SEPTIEMBRE DE 2013 NO APLICA AL ARTICULADO DEL DECRETO 132 PUBLICADO EN LA G.G. DE 29 DE AGOSTO DE 2013.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2176,8 +2176,6 @@ Queda estrictamente prohibido el uso de aislantes de sonido que pongan en riesgo
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.36], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 #### SECCION SEGUNDA. De las medidas de seguridad sanitaria
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE OCTUBRE DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -11763,7 +11761,7 @@ En caso de que la Unidad Contratante omitiera presentar la información prevista
 
 ###### Artículo 16.
 
-21.- De aprobarse el Proyecto por parte de la Secretaría, el Ejecutivo del Estado someterá a la aprobación de la Legislatura el desarrollo del Proyecto señalando el presupuesto estimado para dicho Proyecto en todos los ejercicios presupuestales en los que estaría vigente.
+21.- De aprobarse el Proyecto por parte de la Secretaría, el Ejecuvio del Estado someterá a la aprobación de la Legislatura el desarrollo del Proyecto señalando el presupuesto estimado para dicho Proyecto en todos los ejercicios presupuestales en los que estaría vigente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
