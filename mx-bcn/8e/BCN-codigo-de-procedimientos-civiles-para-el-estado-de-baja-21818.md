@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2013-08-23"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -121,9 +121,9 @@ ART. 16.- Al perturbado en la posesión jurídica o derivada de un bien inmueble
 
 La procedencia de esta acción requiere: que la perturbación consista en actos preparatorios tendientes directamente a la usurpación violenta, o a impedir el ejercicio del derecho; que se reclame dentro de un año y el poseedor no haya obtenido la posesión de su contrario por fuerza, clandestinamente o a ruegos.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 17.- El que es despojado de la posesión jurídica o derivada de un bien inmueble, debe ser ante todo restituido y le compete la acción de recobrar contra el despojador, contra el que ha mandado el despojo, contra el que a sabiendas y directamente se aprovecha del despojo, y contra el sucesor del despojante. Tiene por objeto reponer al despojado en la posesión, indemnizarlo de los daños y perjuicios, obtener del demandado que afiance su abstención y, a la vez, conminarlo con multa y arresto para el caso de reincidencia.
+ART. 17.- El que es despojado de la posesión jurídica o derivada de un bien inmueble, debe ser ante todo restituido y le compete la acción de recobrar contra el despojador, contra el que ha mandado el despojo, contra el que ha sabiendas y directamente se aprovecha del despojo, y contra el sucesor del despojante. Tiene por objeto reponer al despojado en la posesión, indemnizarlo de los daños y perjuicios, obtener del demandado que afiance su abstención y, a la vez, conminarlo con multa y arresto para el caso de reincidencia.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -157,7 +157,7 @@ ART. 22.- Las acciones personales se deducirán para exigir el cumplimiento de u
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 23.- El enriquecimiento sin causa de una parte, con detrimento de otra, presta mérito al perjudicado para ejercitar la acción de indemnización en la medida en que aquella se enriqueció.
+ART. 23.- El enriquecimiento sin causa de una parte, con detrimento de otra, presta mérito al perjudicado para ejercitar la acción de indemnización en la medida en que aquélla se enriqueció.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -177,15 +177,15 @@ ART. 26.- Ninguna acción puede ejercitarse sino por aquél a quien compete, o p
 
 Las acciones derivadas de derechos inherentes a la persona del deudor, nunca se ejercitarán por el acreedor.
 
-Los acreedores que acepten la herencia que corresponda a su deudor ejercitarán las acciones pertenecientes a este, en los términos en que el Código Civil lo permita.
+Los acreedores que acepten la herencia que corresponda a su deudor ejercitarán las acciones pertenecientes a éste, en los términos en que el Código Civil lo permita.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 27.- Las acciones que se transmiten contra los herederos no obligan a estos sino en proporción a sus cuotas, salvo, en todo caso, la responsabilidad que les resulte cuando sea solidaria su obligación con el autor de la herencia, por ocultación de bienes, o por dolo o fraude en la administración de bienes indivisos.
+ART. 27.- Las acciones que se transmiten contra los herederos no obligan a éstos sino en proporción a sus cuotas, salvo, en todo caso, la responsabilidad que les resulte cuando sea solidaria su obligación con el autor de la herencia, por ocultación de bienes, o por dolo o fraude en la administración de bienes indivisos.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 28.- Cuando haya varias acciones contra una misma persona, respecto de una misma cosa, y provengan de una misma causa deben intentarse en una sola demanda, por el ejercicio de una o mas quedan extinguidas las otras.
+ART. 28.- Cuando haya varias acciones contra una misma persona, respecto de una misma cosa, y provengan de una misma causa deben intentarse en una sola demanda, por el ejercicio de una o más quedan extinguidas las otras.
 
 No pueden acumularse en la misma demanda las acciones contrarias o contradictorias, ni las posesorias con las petitorias, ni cuando una dependa del resultado de la otra. Tampoco son acumulables acciones que por su cuantía o naturaleza corresponden a jurisdicciones diferentes.
 
@@ -205,7 +205,7 @@ ART. 30.- Las acciones duran lo que la obligación que representan, menos en los
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 31.- Intentada una acción y contestada la de manda, no podrá modificarse ni alterarse, salvo los casos en que la Ley expresamente lo permita.
+ART. 31.- Intentada una acción y contestada la demanda, no podrá modificarse ni alterarse, salvo los casos en que la Ley expresamente lo permita.
 
 En el desistimiento de la demanda o de la acción se tendrá en cuenta:
 
@@ -241,7 +241,7 @@ ART. 33.- El procedimiento se suspende:
 
 I.- Cuando en un procedimiento civil se denuncie un hecho que constituya delito, siempre que se llenen los siguientes requisitos:
 
-a).- Que con motivo del ejercicio de la acción penal se libre orden de aprehensión; civil; y
+a).- Que con motivo del ejercicio de la acción penal se libre orden de aprehensión;
 
 b).- Que lo pida el Ministerio Público en el juicio civil; y
 
@@ -377,7 +377,7 @@ ART. 44.- Tienen capacidad para comparecer en juicio:
 
 I.- Las personas físicas que conforme a la Ley estén en pleno ejercicio de sus derechos civiles;
 
-II.- Las jurídicas por medio de quienes las represen ten, sea por disposición de la Ley o conforme a sus escrituras constitutivas o estatutos;
+II.- Las jurídicas por medio de quienes las representen, sea por disposición de la Ley o conforme a sus escrituras constitutivas o estatutos;
 
 III.- Las agrupaciones que no constituyan personas jurídicas reconocidas por la Ley, por medio de quienes en su nombre hayan contratado;
 
@@ -391,13 +391,13 @@ VI.- El Ministerio Público.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 45.- Por los que no se hallen en el caso del artículo anterior, comparecerán sus representantes legítimos o los que deban suplir a las personas que no tengan capacidad para comprender el significado del hecho conforme a derecho. Los ausentes e ignorados serán representantes como se previene en el Título Décimo primero, Libro primero del Código Civil.
+ART. 45.- Por los que no se hallen en el caso del artículo anterior, comparecerán sus representantes legítimos o los que deban suplir a las personas que no tengan capacidad para comprender el significado del hecho conforme a derecho. Los ausentes e ignorados serán representados como se previene en el Título Décimo primero, Libro primero del Código Civil.
 
 En los casos de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, a falta o por impedimento de los padres, el Juez, previa opinión del Sistema para el Desarrollo Integral de la Familia, proveerá el nombramiento de Tutor Especial para un juicio determinado.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 46.- Los interesados y sus representantes legítimos podrán comparecer en juicio por sí o hacerse representar o patrocinar por uno o mas abogados procuradores. La intervención de abogados o procuradores para la asistencia técnica de las partes podrá llevarse a cabo como patronos de los interesados, o como mandatarios, en los términos del mandato judicial respectivo; observándose para tales efectos, las siguientes reglas:
+ART. 46.- Los interesados y sus representantes legítimos podrán comparecer en juicio por sí o hacerse representar o patrocinar por uno o más abogados procuradores. La intervención de abogados o procuradores para la asistencia técnica de las partes podrá llevarse a cabo como patronos de los interesados, o como mandatarios, en los términos del mandato judicial respectivo; observándose para tales efectos, las siguientes reglas:
 
 I.- Los abogados patronos y los procuradores, por el sólo hecho de su designación, podrán llevar a cabo, directamente en beneficio de la parte que los designe, todos los actos procesales que correspondan a dicha parte, excepto aquéllos que impliquen disposición del derecho de litigio, los enumerados en el Artículo 2461 del Código Civil y los que conforme a la Ley estén reservados personalmente a los interesados. La designación de patronos o de procuradores se hará por escrito dirigido al Juez, o apud-acta, sin necesidad de ratificación.
 
@@ -409,9 +409,7 @@ III.- Cuando los abogados patronos o los procuradores actúen como mandatarios, 
 
 IV.- Los honorarios de los abogados patronos y de los procuradores podrán regularse mediante convenio celebrado con la parte que los designe. A falta de convenio, se fijarán de acuerdo con el Arancel. Los abogados patronos y los procuradores podrán reclamar de las partes que los designen, el pago de sus honorarios en forma incidental, en el juicio respectivo;
 
-V.- Será materia de responsabilidad civil de los abogados patronos y de los procuradores abandonar la defensa de un cliente o negocio sin motivo justificado y causando un daño. También incurrirán en responsabilidad civil hacia la parte que
-
-representen cuando le causen un daño o perjuicio por negligencia, actitud maliciosa o culpa grave. Esta responsabilidad podrá exigirse en forma incidental en el juicio correspondiente.
+V.- Será materia de responsabilidad civil de los abogados patronos y de los procuradores abandonar la defensa de un cliente o negocio sin motivo justificado y causando un daño. También incurrirán en responsabilidad civil hacia la parte que representen cuando le causen un daño o perjuicio por negligencia, actitud maliciosa o culpa grave. Esta responsabilidad podrá exigirse en forma incidental en el juicio correspondiente.
 
 Los abogados patronos y los procuradores que designe cada parte podrán actuar separadamente o asociados; pero, en todo caso, la responsabilidad en que incurran en el ejercicio de su profesión o encargo será siempre individual.
 
@@ -421,7 +419,7 @@ VI.- Sólo podrán ser designados abogados patronos o procuradores las personas 
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 47.- El tribunal examinará la personalidad de las partes bajo su responsabilidad; esto no obstante, el litigante tiene el derecho de impugnarla cuando tenga razones para ello. Contra el auto en que el Juez desconozca la personalidad del actor, negándose a dar curso a la demanda, se da la queja.
+ART. 47.- El tribunal examinará la personalidad de las partes bajo su responsabilidad; esto no obstante, el litigante tiene el derecho de impugnarla cuando tenga razones para ello. Contra el auto en que el Juez desconozca la personalidad del actor, negándose a dar curso a la demanda, se dá la queja.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -527,7 +525,7 @@ Los interesados pueden presentar una copia simple de sus escritos, a fin de que 
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 66.- El Secretario hará constar el día y la hora en que se presente un escrito y dará cuenta con él, a mas tardar, dentro de veinticuatro horas, bajo la pena de multa, equivalente a un salario mínimo, sin perjuicio de las demás que merezca conforme a las leyes.
+ART. 66.- El Secretario hará constar el día y la hora en que se presente un escrito y dará cuenta con él, a más tardar, dentro de veinticuatro horas, bajo la pena de multa, equivalente a un salario mínimo, sin perjuicio de las demás que merezca conforme a las leyes.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -585,7 +583,7 @@ Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 74.- Las actuaciones serán nulas cuando les falte alguna de las formalidades esenciales, de manera que quede sin defensa cualquiera de las partes, y cuando la ley expresamente lo determine; pero no podrá ser invocada esa nulidad por la parte que dio lugar a ella.
+ART. 74.- Las actuaciones serán nulas cuando les falte alguna de las formalidades esenciales, de manera que quede sin defensa cualquiera de las partes, y cuando la ley expresamente lo determine; pero no podrá ser invocada esa nulidad por la parte que dió lugar a ella.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -637,7 +635,7 @@ ART. 83.- Los jueces y tribunales no podrán, bajo ningún pretexto, aplazar, di
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 84.- Tampoco podrán los jueces y tribunales variar ni modificar sus sentencias después de firmadas, pero sí aclarar algún concepto o suplir cualquiera omisión que contengan sobre punto discutido en el litigio.
+ART. 84.- Tampoco podrán los jueces y tribunales variar ni modificar sus sentencias después de firmadas, pero si aclarar algún concepto o suplir cualquiera omisión que contengan sobre punto discutido en el litigio.
 
 Estas aclaraciones podrán hacerse de oficio dentro del día hábil siguiente al de la publicación de la sentencia, o a instancia de parte, presentada dentro del día siguiente al de la notificación.
 
@@ -681,7 +679,7 @@ ART. 92.- La sentencia firme produce acción y excepción contra los que litigar
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 93.- El tercero puede excepecionarse (sic) contra la sentencia firme, pero no contra la que recayó en juicio de estado civil, a menos que alegue colusión de los litigantes para perjudicarlo.
+ART. 93.- El tercero puede excepcionarse contra la sentencia firme, pero no contra la que recayó en juicio de estado civil, a menos que alegue colusión de los litigantes para perjudicarlo.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -707,7 +705,7 @@ Se entenderá que el actor tiene a su disposición los documentos y deberá acom
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 97.- La presentación de documentos de que habla el artículo anterior cuando sean públicos, podrá hacerse por copia simple, si el interesado manifestare que carece de otra fehaciente; pero no producirá aquélla ningún efecto, si durante el término de prueba, o en la audiencia respectiva, no se presentare una copia del documento con los requisitos necesarios para que haga fe en juicio.
+ART. 97.- La presentación de documentos de que habla el artículo anterior cuando sean públicos, podrá hacerse por copia simple, si el interesado manifestare que carece de otra fehaciente; pero no producirá aquélla ningún efecto, si durante el término de prueba, o en la audiencia respectiva, no se presentare una copia del documento con los requisitos necesarios para que haga fé en juicio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -725,7 +723,7 @@ ART. 100.- De todo documento que se presente después del término de ofrecimien
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 101.- Cuando la impugnación del documento nuevo se refiera a su admisión, por no hallarse en ninguno de los casos expresados en el artículo 98, el juez reservará para la definitiva, la resolución de lo que estime procedente.
+ART. 101.- Cuando la impugnación del documento nuevo se refiera a su admisión, por no hallarse en ninguno de los casos expresados en el artículo 98, el Juez reservará para la definitiva, la resolución de lo que estime procedente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -775,7 +773,7 @@ ART. 109.- Los Tribunales deberán acordar de conformidad que los exhortos y des
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 110.- Las notificaciones, citaciones y emplazamientos se efectuarán dentro de los tres días siguientes al en que se dicten las resoluciones que las prevengan, cuando el Juez o la ley no dispusieren otra cosa. Los infractores de esta disposición serán destituidos de su cargo cuando reincidan por más de tres ocasiones, sin responsabilidad para el Tribunal Superior de Justicia previa audiencia de defensa ante el Juez o Magistrado correspondiente.
+ART. 110.- Las notificaciones, citaciones y emplazamientos se efectuarán dentro de los tres días siguientes al en que se dicten las resoluciones que las prevengan, cuando el Juez o la ley no dispusieren otra cosa. Los infractores de esta disposición serán destituídos de su cargo cuando reincidan por más de tres ocasiones, sin responsabilidad para el Tribunal Superior de Justicia previa audiencia de defensa ante el Juez o Magistrado correspondiente.
 
 Para los anteriores efectos, se llevará un registro diario de los expedientes que se les entreguen, debiendo recibirlos bajo su firma y directamente del secretario de acuerdos, a quien se le devolverán dentro del plazo señalado.
 
@@ -835,15 +833,15 @@ ART. 117.- En las notificaciones de emplazamiento, deberán cumplirse las siguie
 
 I.- El emplazamiento debe hacerse según los casos, a las personas que a continuación se indica:
 
-a).- Si se tratare de personas físicas directamente a la parte a quien se va a emplazar, a menos de que carezcan de capacidad procesal, pues en este caso se hará el emplazamiento a su representante legal. Sólo se autoriza el emplazamiento por medio de apoderado cuando éste radique dentro de la jurisdicción del Tribunal y la persona emplazada radique fuera de ese lugar o se ignore su paradero, o si el apoderado vive fuera de la jurisdicción, pero dentro de la República y el emplazado en el extranjero no tiene domicilio conocido o se ignora su paradero. En este caso se requiere que el apoderado tenga poder general o especial bastante para contestar la demanda y para la defensa en juicio del emplazado. El apoderado sólo puede negarse a intervenir si demuestra que no aceptó o renunció a la representación. A petición del apoderado y según las circunstancias, el Juez podrá ampliar el término para contestar el emplazamiento hasta por treinta días más, si el apoderado necesitare recabar instrucciones de su mandante;
+A).- Si se tratare de personas físicas directamente a la parte a quien se va a emplazar, a menos de que carezcan de capacidad procesal, pues en este caso se hará el emplazamiento a su representante legal. Sólo se autoriza el emplazamiento por medio de apoderado cuando éste radique dentro de la jurisdicción del Tribunal y la persona emplazada radique fuera de ese lugar o se ignore su paradero, o si el apoderado vive fuera de la jurisdicción, pero dentro de la República y el emplazado en el extranjero no tiene domicilio conocido o se ignora su paradero. En este caso se requiere que el apoderado tenga poder general o especial bastante para contestar la demanda y para la defensa en juicio del emplazado. El apoderado sólo puede negarse a intervenir si demuestra que no aceptó o renunció a la representación. A petición del apoderado y según las circunstancias, el Juez podrá ampliar el término para contestar el emplazamiento hasta por treinta días más, si el apoderado necesitare recabar instrucciones de su mandante;
 
-b).- Tratándose de personas morales, asociaciones, agrupaciones, instituciones o bien de dependencias o servicios de la Administración Pública, el emplazamiento se hará por conducto de las personas u órganos que las representen. Si los representantes fueren varios, el emplazamiento se tendrá por válido cuando se haga a cualquiera de ellos. Si la representación corresponde a una junta o colectividad, bastará que se haga a la persona que la ostente;
+B).- Tratándose de personas morales, asociaciones, agrupaciones, instituciones o bien de dependencias o servicios de la Administración Pública, el emplazamiento se hará por conducto de las personas u órganos que las representen. Si los representantes fueren varios, el emplazamiento se tendrá por válido cuando se haga a cualquiera de ellos. Si la representación corresponde a una junta o colectividad, bastará que se haga a la persona que la ostente;
 
-II.- El emplazamiento deberá hacerse en el domicilio que señale la parte que lo pide, que deberá ser precisamente el lugar en que habita el emplazado, si es persona física, y si se trata de persona jurídica en el domicilio social, y en sus oficinas o principal establecimiento de sus negocios, salvo que se trate de establecimientos o sucursales, en que lo será el del lugar de tales establecimientos o sucursales, si cuentan con representante facultado para comparecer en juicio, si se trata de negocios realizados por o con intervención de estos. El notificador deberá cerciorarse de que el señalamiento reúne estas circunstancias antes de hacerlo, pudiendo ser autorizado para notificarlo personalmente en el lugar donde habitualmente trabaje o en cualquier lugar en que se encuentre la persona física o representante emplazado dentro de la jurisdicción; pero en este caso, deberá entenderse directamente con la persona de que se trate, y el notificador hará constar específicamente en la diligencia los medios de que se valió para identificarla, comprobar su personalidad en caso de representación y demás particulares;
+II.- El emplazamiento deberá hacerse en el domicilio que señale la parte que lo pide, que deberá ser precisamente el lugar en que habita el emplazado, si es persona física, y si se trata de persona jurídica en el domicilio social, y en sus oficinas o principal establecimiento de sus negocios, salvo que se trate de establecimientos o sucursales, en que lo será el del lugar de tales establecimientos o sucursales, si cuentan con representante facultado para comparecer en juicio, si se trata de negocios realizados por o con intervención de éstos. El notificador deberá cerciorarse de que el señalamiento reúne estas circunstancias antes de hacerlo, pudiendo ser autorizado para notificarlo personalmente en el lugar donde habitualmente trabaje o en cualquier lugar en que se encuentre la persona física o representante emplazado dentro de la jurisdicción; pero en este caso, deberá entenderse directamente con la persona de que se trate, y el notificador hará constar específicamente en la diligencia los medios de que se valió para identificarla, comprobar su personalidad en caso de representación y demás particulares;
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-III.- El emplazamiento se entenderá directamente con el interesado si estuviere presente, entregándosele copia de la demanda y demás documentos y del auto o proveído que deba notificarse. Si la persona a quien se hace el emplazamiento no fuere encontrada en su domicilio se le dejará citatorio para hora fija, dentro de las horas hábiles del día siguiente, y se fijará atendiendo a las reglas de la lógica, tomando en consideración las circunstancias que se hayan manifestado para garantizar que el interesado tenga conocimiento real y efectivo del citatorio, además en el citatorio se fijará la persona a quien va dirigido, la diligencia a practicar, órgano judicial que lo emite, y los términos precisos del apercibimiento, para el caso que el interesado no atienda el citatorio, debiendo integrar la copia del mismo y levantar la razón del citatorio al momento de la diligencia. En caso de que no espere, se le hará notificación por cédula. La cédula en estos casos se entregará a parientes o domésticos del interesado, o a cualquier otra persona adulta que viva en la casa, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser citada, de todo lo cual asentará razón en las diligencias. Tratándose de arrendamiento o desahucio de vivienda o departamento, la cédula no podrá dejarse con las personas que dependan del propietario. La cédula contendrá mención del juicio de que se trate y la inserción del auto o proveído que deba notificarse, y se entregará junto con las copias del traslado. La persona que se le recoja deberá firmar por su recibo, y si se rehusare a hacerlo, se pondrá razón de la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo. Si se informare al notificador que el emplazado está ausente del lugar del juicio se hará constar esta circunstancia a efecto de que el juez determine lo que proceda. Sólo podrá hacerse el emplazamiento por cédula cuando se realice en el domicilio del emplazado y éste no esté presente; en los demás casos deberá hacerse personal y directamente;
+III.- El emplazamiento se entenderá directamente con el interesado si estuviere presente, entregándosele copia de la demanda y demas documentos y del auto o proveído que deba notificarse. Si la persona a quien se hace el emplazamiento no fuere encontrada en su domicilio se le dejara citatorio para hora fija, dentro de las horas hábiles del día siguiente, y se fijara atendiendo a las reglas de la lógica, tomando en consideración las circunstancias que se hayan manifestado para garantizar que el interesado tenga conocimiento real y efectivo del citatorio, además en el citatorio se fijará la persona a quien va dirigido, la diligencia a practicar, órgano judicial que lo emite, y los términos precisos del apercibimiento, para el caso que el interesado no atienda el citatorio, debiendo integrar la copia del mismo y levantar la razón del citatorio al momento de la diligencia. En caso de que no espere, se le hará notificación por cédula. La cédula en estos casos se entregará a parientes o domésticos del interesado, o a cualquier otra persona adulta que viva en la casa, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe de ser citada, de todo lo cual asentará razón en las diligencias. Tratándose de arrendamiento o desahucio de vivienda o departamento, la cédula no podrá dejarse con las personas que dependan del propietario. La cédula contendrá mención del juicio de que se trate y la inserción del auto o proveído que deba notificarse, y se entregará junto con las copias del traslado. La persona que se le recoja deberá firmar por su recibo, y si se rehusare a hacerlo, se pondrá razón de la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo. Si se informare al notificador que el emplazado está ausente del lugar del juicio se hará constar esta circunstancia a efecto de que el juez determine lo que proceda. Sólo podrá hacerse el emplazamiento por cédula cuando se realice en el domicilio del emplazado y éste no esté presente; en los demás casos deberá hacerse personal y directamente;
 
 IV.- Cuando la persona a quien deba emplazarse no radique en el lugar del juicio, pero sí dentro del mismo distrito judicial, se aplicará lo dispuesto por los Artículos 105 y 106 de este Código. Si se halla en otro partido distinto o fuera del Estado pero dentro de la República, y fuere conocido su domicilio, el emplazamiento se le hará por despacho o exhorto de acuerdo con la forma prevista en el Capítulo anterior. Si una vez despachado el exhorto sobreviniere un cambio de domicilio de la persona a quien se pretende emplazar, dentro de la jurisdicción del Juez requerido, éste se entenderá facultado para hacer el emplazamiento en el nuevo domicilio, sin necesidad de nuevo exhorto, bastando que así lo pida la parte interesada ante el Juez exhortado;
 
@@ -887,7 +885,7 @@ III.- Cuando se trate de inmatricular un inmueble en el Registro Público de la 
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2007)</small>
 
-Igualmente los edictos se fijarán en lugares públicos. En la solicitud se mencionará el origen de la posesión, el nombre de la persona de quien en su caso la obtuviera el peticionario, del causahabiente de aquélla si fuere conocido; la ubicación precisa del bien, medidas y sus colindancias; en nombre y domicilio de los colindantes, debiendo acompañar levantamiento topográfico o deslinde debidamente autorizado y certificado por catastro competente en donde se ubique el inmueble; así como un certificado de no-inscripción del inmueble expedido por el Registro Público de la Propiedad. Terminada la publicación se correrá traslado de la solicitud a la persona de quien obtuviera la posesión o su causahabiente si fuera conocido, al Ministerio Público, a los colindantes, al registrador de la propiedad para que manifiesten lo que a su derecho convenga, por el término de 9 días. Contesten o no y sin necesidad de acuse de rebeldía, el Juez al vencerse el último término del traslado, abrirá una dilación probatoria por 30 días. Además de las pruebas que tuviere, el solicitante está en la obligación de probar su posesión en concepto de dueño por medios legales y además por la información de tres testigos, preferentemente colindantes del inmueble a in matricular o, en su caso, que tengan bienes raíces en el lugar de ubicación del predio de que se trata. La sentencia se pronunciará después del término de alegar, dentro de ocho días.
+Igualmente los edictos se fijarán en lugares públicos. En la solicitud se mencionará el origen de la posesión, el nombre de la persona de quien en su caso la obtuviera el peticionario, del causahabiente de aquélla si fuere conocido; la ubicación precisa del bien, medidas y sus colindancias; el nombre y domicilio de los colindantes, debiendo acompañar levantamiento topográfico o deslinde debidamente autorizado y certificado por catastro competente en donde se ubique el inmueble; así como un certificado de no-inscripción del inmueble expedido por el Registro Público de la Propiedad. Terminada la publicación se correrá traslado de la solicitud a la persona de quien obtuviera la posesión o su causahabiente si fuera conocido, al Ministerio Público, a los colindantes, al registrador de la propiedad para que manifiesten lo que a su derecho convenga, por el término de 9 días. Contesten o no y sin necesidad de acuse de rebeldía, el Juez al vencerse el último término del traslado, abrirá una dilación probatoria por 30 días. Además de las pruebas que tuviere, el solicitante está en la obligación de probar su posesión en concepto de dueño por medios legales y además por la información de tres testigos, preferentemente colindantes del inmueble a in matricular o, en su caso, que tengan bienes raíces en el lugar de ubicación del predio de que se trata. La sentencia se pronunciará después del término de alegar, dentro de ocho días.
 
 La sentencia es apelable en ambos efectos y el recurso se substancia como en los juicios ordinarios.
 
@@ -939,7 +937,7 @@ ART. 132.- En los autos se harán constar el día en que comienzan a correr los 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 133.- Una vez concluidos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el juicio su curso y se tendrá por perdido el derecho que, dentro de ellos, debió ejercitarse; salvo los casos en que la ley disponga otra cosa.
+ART. 133.- Una vez concluídos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el juicio su curso y se tendrá por perdido el derecho que, dentro de ellos, debió ejercitarse; salvo los casos en que la ley disponga otra cosa.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -1017,7 +1015,7 @@ XII.- Las costas serán a cargo del actor; pero serán compensables con las que 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 139.- Por ningún acto judicial se cobrarán costas, ni aun cuando se actuare con testigos de asistencia, o se practicaren diligencias fuera del lugar del juicio.
+ART. 139.- Por ningún acto judicial se cobrarán costas, ni aún cuando se actuare con testigos de asistencia, o se practicaren diligencias fuera del lugar del juicio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1043,19 +1041,19 @@ Servirá de base para el cálculo de las costas el importe de lo sentenciado;
 
 II.- En las sentencias declarativas y constitutivas, la condenación en costas, se regirá por las reglas siguientes:
 
-a).- Si ninguna de las partes hubiere procedido con temeridad o mala fe, no habrá condena en costas ni gastos, y cada una reportará los que hubiere erogado;
+A).- Si ninguna de las partes hubiere procedido con temeridad o mala fe, no habrá condena en costas ni gastos, y cada una reportará los que hubiere erogado;
 
-b).- La parte que, a juicio del Juez, hubiere obrado con temeridad o mala fe, será condenada a indemnizar a su contraparte los gastos y costas del juicio; y
+B).- La parte que, a juicio del Juez, hubiere obrado con temeridad o mala fe, será condenada a indemnizar a su contraparte los gastos y costas del juicio; y
 
-c).- Cuando el demandado se allane a las peticiones del actor, o el actor se conforme con la contestación a la demanda, no habrá condenación en costas, y cada parte reportará las que hubiere erogado;
+C).- Cuando el demandado se allane a las peticiones del actor, o el actor se conforme con la contestación a la demanda, no habrá condenación en costas, y cada parte reportará las que hubiere erogado;
 
 III.- En los casos de litisconsorcio, el Juez podrá condenar solidariamente a todas o a alguna de las partes, de acuerdo con las reglas contenidas en las dos Fracciones anteriores, y establecerá la forma en que se repartan las costas. En todo caso, cuando sean varias las personas o partes que pierdan y haya condena en costas, el Juez distribuirá su importe entre ellas en proporción a sus respectivos intereses y si no hubiere base para fijar la proporción, se entenderá que se hace por partes iguales;
 
 IV.- El Tribunal podrá condenar a una de las partes, aún cuando la sentencia de fondo le fuere favorable, al pago de los gastos y costas parciales que se originen con motivo de un procedimiento o incidente que haya suscitado sin fundamento legal, o cuando se trate de recursos desestimados o gastos inútiles; o bien podrá excluir estas costas parciales de la condena a la parte vencida;
 
-V.- El Tribunal podrá sancionar el ejercicio malicioso de la acción y la falta de probidad y lealtad de las partes con la condena en los daños y perjuicios que ocasiones a la contraparte con motivo del proceso, independientemente de lo que acuerde sobre las costas;
+V.- El Tribunal podrá sancionar el ejercicio malicioso de la acción y la falta de probidad y lealtad de las partes con la condena en los daños y perjuicios que ocasione a la contraparte con motivo del proceso, independientemente de lo que acuerde sobre las costas;
 
-VI.- La parte que presente documentos falsos o testigos falsos o sobornados, será siempre condenada en los gastos y costas y en los daños y perjuicios, sin que tenga aplicación en este caso las reglas de las Fracciones anteriores que pudieren beneficiarla; y
+VI.- La parte que presente documentos falsos o testigos falsos o sobornados, será siempre condenada en los gastos y costas y en los daños y perjuicios, sin que tengan aplicación en este caso las reglas de las Fracciones anteriores que pudieren beneficiarla; y
 
 VII.- En caso de apelación, será condenada en las costas de ambas instancias, sin tener en cuenta la declaración a este respecto formulada en la primera, la parte contra la cual haya recaído dos sentencias adversas siempre que éstas sean conformes de toda conformidad. Cuando no concurran estas circunstancias en la sentencia de segunda instancia se hará la condena en costas con sujeción a las reglas contenidas en este Artículo.
 
@@ -1081,7 +1079,7 @@ ART. 143.- En los negocios ante los jueces de paz no se causarán costas, cualqu
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 144.- Toda demanda debe formularse ante juez competente.
+ART. 144.- Toda demanda debe formularse ante Juez competente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1093,7 +1091,7 @@ ART. 146.- Ningún tribunal puede negarse a conocer de un asunto sino por consid
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 147.- Ningún juez puede sostener competencia con un tribunal superior bajo cuya jurisdicción se halle, pero sí con otro tribunal que, aunque sea superior en su clase, no ejerza jurisdicción sobre él.
+ART. 147.- Ningún Juez puede sostener competencia con un tribunal superior bajo cuya jurisdicción se halle, pero sí con otro tribunal que, aunque sea superior en su clase, no ejerza jurisdicción sobre él.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1111,7 +1109,7 @@ ART. 150.- La jurisdicción por razón del territorio es la única que se puede 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 151.- Si el juez deja de conocer por recusación o excusa, conocerá el que siga en número si lo hubiere en el partido judicial; si no lo hubiere, se observará lo que dispone la Ley Orgánica de Tribunales.
+ART. 151.- Si el Juez deja de conocer por recusación o excusa, conocerá el que siga en número si lo hubiere en el partido judicial; si no lo hubiere, se observará lo que dispone la Ley Orgánica de Tribunales.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1119,7 +1117,7 @@ ART. 152.- Es Juez competente aquel al que los litigantes se hubieren sometido e
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 153.- Hay sumisión expresa cuando los interesados renuncian clara y terminantemente el fuero que la ley les concede y designan con toda precisión el juez a quien se someten.
+ART. 153.- Hay sumisión expresa cuando los interesados renuncian clara y terminantemente el fuero que la ley les concede y designan con toda precisión el Juez a quien se someten.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -1219,13 +1217,13 @@ ART. 161.- En la reconvención, es Juez competente el que lo sea para conocer de
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 162.- Las cuestiones de tercería deben substanciarse y decidirse por el Juez que sea competente para conocer del asunto principal. Cuando el interés de la tercería que se interponga exceda del que la ley somete a la competencia del juez que está conociendo del negocio principal, se remitirá lo actuado en éste, y la tercería al que designe el tercer opositor y sea competente para conocer de la cuestión por razón de la materia, del interés mayor y del territorio.
+ART. 162.- Las cuestiones de tercería deben substanciarse y decidirse por el Juez que sea competente para conocer del asunto principal. Cuando el interés de la tercería que se interponga exceda del que la ley somete a la competencia del Juez que está conociendo del negocio principal, se remitirá lo actuado en éste, y la tercería al que designe el tercer opositor y sea competente para conocer de la cuestión por razón de la materia, del interés mayor y del territorio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 163.- Para los actos preparatorios del juicio, será competente el juez que lo fuere para el negocio principal.
+ART. 163.- Para los actos preparatorios del juicio, será competente el Juez que lo fuere para el negocio principal.
 
-En las providencias precautorias regirá lo dispuesto en el párrafo anterior. Si los autos estuvieren en segunda instancia, será competente para dictar la providencia precautoria el juez que conoció de ellos en primera instancia. En caso de urgencia, puede dictarla el del lugar donde se hallen la persona o la cosa objeto de la providencia, y efectuado, se remitirán las actuaciones al competente.
+En las providencias precautorias regirá lo dispuesto en el párrafo anterior. Si los autos estuvieren en segunda instancia, será competente para dictar la providencia precautoria el Juez que conoció de ellos en primera instancia. En caso de urgencia, puede dictarla el del lugar donde se hallen la persona o la cosa objeto de la providencia, y efectuado, se remitirán las actuaciones al competente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1235,11 +1233,11 @@ En las providencias precautorias regirá lo dispuesto en el párrafo anterior. S
 
 ART. 164.- Las cuestiones de competencia podrán promoverse por inhibitoria o por declinatoria.
 
-La inhibitoria se intentará ante el juez a quien se considere competente, pidiéndole que dirija oficio al que se estima no serlo, para que se inhiba y remita los autos.
+La inhibitoria se intentará ante el Juez a quien se considere competente, pidiéndole que dirija oficio al que se estima no serlo, para que se inhiba y remita los autos.
 
-La declinatoria se propondrá ante el juez a quien se considere incompetente, pidiéndole que se abstenga del conocimiento del negocio y remita los autos al considerado competente. Se substanciará conforme al capítulo I del título sexto.
+La declinatoria se propondrá ante el Juez a quien se considere incompetente, pidiéndole que se abstenga del conocimiento del negocio y remita los autos al considerado competente. Se substanciará conforme al capítulo I del título sexto.
 
-En ningún caso se promoverán de oficio las cuestiones de competencia; pero el juez que se estime incompetente puede inhibirse del conocimiento del negocio, siendo apelable en ambos efectos su resolución.
+En ningún caso se promoverán de oficio las cuestiones de competencia; pero el Juez que se estime incompetente puede inhibirse del conocimiento del negocio, siendo apelable en ambos efectos su resolución.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -1257,13 +1255,13 @@ En los incidentes en que se afecten los derechos de familia, será imprescindibl
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 167.- El juez ante quien se promueva la inhibitoria, mandará librar oficio requiriendo al juez que estime incompetente para que se abstenga de conocer del negocio, y remitirá desde luego las actuaciones respectivas al superior, haciéndolo saber al interesado.
+ART. 167.- El Juez ante quien se promueva la inhibitoria, mandará librar oficio requiriendo al Juez que estime incompetente para que se abstenga de conocer del negocio, y remitirá desde luego las actuaciones respectivas al superior, haciéndolo saber al interesado.
 
-Luego que el juez requerido reciba el oficio inhibitorio, acordará la suspensión del procedimiento y remitirá, a su vez, los autos originales al superior, con citación de las partes.
+Luego que el Juez requerido reciba el oficio inhibitorio, acordará la suspensión del procedimiento y remitirá, a su vez, los autos originales al superior, con citación de las partes.
 
 Recibidos los autos en el tribunal que deba decidir la competencia, citará a las partes a una audiencia verbal dentro de los tres días siguientes a la citación, en la que recibirá pruebas y alegatos y pronunciará resolución. En los incidentes en que afecten los derechos de la familia, será imprescindible oír al Ministerio Público.
 
-Decidida la competencia enviará los autos al juez declarado competente, con testimonio de la sentencia, de la cual remitirá otro tanto al juez contendiente. De la resolución dictada por el tribunal no se da más recurso que el de responsabilidad.
+Decidida la competencia enviará los autos al Juez declarado competente, con testimonio de la sentencia, de la cual remitirá otro tanto al Juez contendiente. De la resolución dictada por el tribunal no se da más recurso que el de responsabilidad.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1291,7 +1289,7 @@ ART. 170.- La infracción del artículo anterior producirá la nulidad de lo act
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 171.- Todo magistrado, juez o secretario, se tendrá por forzosamente impedido para conocer en los casos siguientes:
+ART. 171.- Todo magistrado, Juez o secretario, se tendrá por forzosamente impedido para conocer en los casos siguientes:
 
 I.- En negocio en que tenga interés directo o indirecto;
 
@@ -1311,7 +1309,7 @@ VIII.- Cuando después de comenzado el pleito, haya admitido él, su cónyuge o 
 
 IX.- Si ha sido abogado o procurador, perito o testigo en el negocio de que se trate;
 
-X.- Si ha conocido del negocio como juez, árbitro o asesor, resolviendo algún punto que afecte a la substancia de la cuestión, en la misma instancia o en otra;
+X.- Si ha conocido del negocio como Juez, árbitro o asesor, resolviendo algún punto que afecte a la substancia de la cuestión, en la misma instancia o en otra;
 
 XI.- Cuando él, su cónyuge o alguno de sus parientes consanguíneos en línea recta, sin limitación de grados, de los colaterales dentro del segundo, o de los afines en el primero, siga contra alguna de las partes, o no haya pasado un año, de haber seguido un juicio civil o una causa criminal, como acusador, querellante o denunciante, o se haya constituído parte civil en causa criminal seguida contra cualquiera de ellas;
 
@@ -1325,7 +1323,7 @@ XV.- Si es tutor o curador de alguno de los interesados, o no han pasado tres a�
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2004)</small>
 
-XVI. Estar en una situación que pueda afectar su imparcialidad en forma análoga o más graves que las mencionadas.
+XVI. Estar en una situación que pueda afectar su imparcialidad en forma análoga o mas grave que las mencionadas.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -1345,7 +1343,7 @@ ART. 173.- Cuando los Magistrados, Jueces o Secretarios no se inhibieren a pesar
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 174.- En los concursos sólo podrá hacer uso de la recusación el representante legítimo de los acreedores en los negocios que afecten al interés general; en los que afecten al interés particular de alguno de los acreedores, podrá el interesado hacer uso de la recusación; pero el juez no quedará inhibido más que en el punto de que se trate. Resuelta la cuestión se reintegra al principal.
+ART. 174.- En los concursos sólo podrá hacer uso de la recusación el representante legítimo de los acreedores en los negocios que afecten al interés general; en los que afecten al interés particular de alguno de los acreedores, podrá el interesado hacer uso de la recusación; pero el Juez no quedará inhibido más que en el punto de que se trate. Resuelta la cuestión se reintegra al principal.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1373,7 +1371,7 @@ II.- Al cumplimentar exhortos o despachos;
 
 III.- En las demás diligencias cuya práctica se encomiende por otros jueces o tribunales;
 
-IV.- En las diligencias de mera ejecución; más si en las de ejecución mixta, o sea cuando el juez ejecutor deba de resolver sobre las excepciones que se opongan;
+IV.- En las diligencias de mera ejecución; más si en las de ejecución mixta, o sea cuando el Juez ejecutor deba de resolver sobre las excepciones que se opongan;
 
 V.- En los demás actos que no radiquen jurisdicción, ni importen conocimiento de causa.
 
@@ -1399,11 +1397,11 @@ ART. 180.- Las recusaciones pueden interponerse durante el juicio desde que se f
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 181.- Entretanto se califica o decide, la recusación suspende la jurisdicción del tribunal o del juez, sin perjuicio de que prosiga la sección de ejecución.
+ART. 181.- Entretanto se califica o decide, la recusación suspende la jurisdicción del tribunal o del Juez, sin perjuicio de que prosiga la sección de ejecución.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 182.- Declarada procedente la recusación, termina la jurisdicción del magistrado o juez, o la intervención del secretario en el negocio de que se trate.
+ART. 182.- Declarada procedente la recusación, termina la jurisdicción del magistrado o Juez, o la intervención del secretario en el negocio de que se trate.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -1411,7 +1409,7 @@ ART. 183.- Una vez impuesta la recusación, la parte recusante no podrá alzarla
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 184.- Si se declarare improcedente o no probada la causa de recusación que se hubiere alegado, no se volverá a admitir otra recusación, aunque el recusante proteste que la causa es superveniente o que no había tenido conocimiento de ella, a menos cuando hubiere variación en el personal, en cuyo caso podrá hacerse valer la recusación respecto al nuevo magistrado, juez o secretario.
+ART. 184.- Si se declarare improcedente o no probada la causa de recusación que se hubiere alegado, no se volverá a admitir otra recusación, aunque el recusante proteste que la causa es superveniente o que no había tenido conocimiento de ella, a menos cuando hubiere variación en el personal, en cuyo caso podrá hacerse valer la recusación respecto al nuevo magistrado, Juez o secretario.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1427,7 +1425,7 @@ II.- Cuando no se funde en alguna de las causas a que se refiere el artículo 17
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 186.- Toda recusación se interpondrá ante el juez o tribunal que conozca del negocio, expresándose con toda claridad y precisión la causa en que se funde.
+ART. 186.- Toda recusación se interpondrá ante el Juez o tribunal que conozca del negocio, expresándose con toda claridad y precisión la causa en que se funde.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1449,11 +1447,11 @@ No se dará curso a ninguna recusación si al interponerla, el recusante no exhi
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 191.- De la recusación de un magistrado conocerá la sala de que forma parte, y que, para tal efecto, se integrará de acuerdo con la ley; de la de un juez, la sala respectiva.
+ART. 191.- De la recusación de un magistrado conocerá la sala de que forma parte, y que, para tal efecto, se integrará de acuerdo con la ley; de la de un Juez, la sala respectiva.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 192.- Si en la sentencia se declara que procede la recusación, volverán los autos al juzgado de su origen con testimonio de dicha sentencia, para que éste, a su vez, los remita al juez que corresponda. En el tribunal queda el magistrado recusado separado del conocimiento del negocio, y se completará la sala en la forma que determine la ley.
+ART. 192.- Si en la sentencia se declara que procede la recusación, volverán los autos al juzgado de su origen con testimonio de dicha sentencia, para que éste, a su vez, los remita al Juez que corresponda. En el tribunal queda el magistrado recusado separado del conocimiento del negocio, y se completará la sala en la forma que determine la ley.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1493,7 +1491,7 @@ ART. 195.- Al pedirse la diligencia preparatoria debe expresarse el motivo porqu
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 196.- El juez puede disponer lo que crea conveniente, ya para cerciorarse de la personalidad del que solicita la diligencia preparatoria, ya de la urgencia de examinar a los testigos.
+ART. 196.- El Juez puede disponer lo que crea conveniente, ya para cerciorarse de la personalidad del que solicita la diligencia preparatoria, ya de la urgencia de examinar a los testigos.
 
 Contra la resolución que concede la diligencia preparatoria, no habrá ningún recurso. Contra la resolución que la niegue habrá el de apelación en ambos efectos, si fuere apelable la sentencia del juicio que se prepara o que se teme.
 
@@ -1527,7 +1525,7 @@ ART. 201.- Si el tenedor del documento o cosa mueble fuere el mismo a quien se v
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 202.- Puede prepararse el juicio ejecutivo, pidiendo al deudor confesión judicial bajo protesta de decir verdad, y el juez señalará día y hora para la comparecencia. En este caso, el deudor habrá de estar en el lugar del juicio cuando se le haga la citación, y ésta deberá ser personal, expresándose en la notificación el objeto de la diligencia, la cantidad que se reclame y la causa del deber.
+ART. 202.- Puede prepararse el juicio ejecutivo, pidiendo al deudor confesión judicial bajo protesta de decir verdad, y el Juez señalará día y hora para la comparecencia. En este caso, el deudor habrá de estar en el lugar del juicio cuando se le haga la citación, y ésta deberá ser personal, expresándose en la notificación el objeto de la diligencia, la cantidad que se reclame y la causa del deber.
 
 Si el deudor no fuere hallado en su habitación, se entregará la cédula, conteniendo los puntos a que se refiere el párrafo anterior, al pariente más cercano que se encontrare en la casa.
 
@@ -1537,7 +1535,7 @@ Si después de dos citaciones no compareciere ni alegare justa causa que se lo i
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 203.- El documento privado que contenga deuda líquida y sea de plazo cumplido, dará mérito para que el juez ordene el requerimiento de pago como preliminar del embargo que se practicará en caso de no hacerse aquél en el acto de la diligencia; pero siempre será necesario que previamente se intime al deudor para que reconozca su firma ante el actuario en el mismo acto. Cuando intimado dos veces rehuse contestar si es o no es suya la firma, se tendrá por reconocida.
+ART. 203.- El documento privado que contenga deuda líquida y sea de plazo cumplido, dará mérito para que el Juez ordene el requerimiento de pago como preliminar del embargo que se practicará en caso de no hacerse aquél en el acto de la diligencia; pero siempre será necesario que previamente se intime al deudor para que reconozca su firma ante el actuario en el mismo acto. Cuando intimado dos veces rehuse contestar si es o no es suya la firma, se tendrá por reconocida.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1549,7 +1547,7 @@ El notario hará constar el reconocimiento al pie del documento mismo, asentando
 
 ART. 205.- Si es instrumento público o privado reconocido y contiene cantidad ilíquida, puede prepararse la acción ejecutiva, siempre que la liquidación pueda hacerse en un término que no excederá de nueve días.
 
-La liquidación se hace incidentalmente con un escrito de cada parte y la resolución del juez, sin ulterior recurso más que el de responsabilidad.
+La liquidación se hace incidentalmente con un escrito de cada parte y la resolución del Juez, sin ulterior recurso más que el de responsabilidad.
 
 (REFORMADA SU DENOMINACIÓN, P.O. 20 DE JUNIO DE 1975) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1599,7 +1597,7 @@ ART. 215.- La inconformidad de alguno de los cónyuges sobre la resolución o di
 
 (REFORMADO, P.O. 20 DE JUNIO DE 1975) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 216.- Si al vencimiento del plazo concedido no se acredita al juez que se ha presentado la demanda, la denuncia o la querella, cesarán los efectos de la separación, quedando obligado el cónyuge a regresar al domicilio conyugal dentro de las 24 horas siguientes.
+ART. 216.- Si al vencimiento del plazo concedido no se acredita al Juez que se ha presentado la demanda, la denuncia o la querella, cesarán los efectos de la separación, quedando obligado el cónyuge a regresar al domicilio conyugal dentro de las 24 horas siguientes.
 
 (REFORMADO, P.O. 20 DE JUNIO DE 1975) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1607,7 +1605,7 @@ ART. 217.- El cónyuge que se separó, tendrá en todo tiempo el derecho de volv
 
 (REFORMADO, P.O. 20 DE JUNIO DE 1975) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 218.- Si el Juez que decretó la separación no fuere el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuere competente, quien confirmará, en su caso, la decisión dictada con motivo de separación, siguiendo el juicio su curso legal.
+ART. 218.- Si el Juez que decretó la separación no fuere el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuere competente, quien confirmará, en su caso, la decisión dictada con motivo de la separación, siguiendo el juicio su curso legal.
 
 ART. 219.- (DEROGADO, P.O. 20 DE JUNIO DE 1975) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1619,17 +1617,17 @@ ART. 220.- (DEROGADO, P.O. 20 DE JUNIO DE 1975) (REPUBLICADO, P.O. 26 DE MAYO DE
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 221.- Cuando en escritura privada o pública sometieren los interesados las diferencias que surjan, a la decisión de un árbitro, y no estando nombrado éste, debe prepararse el juicio arbitral por el nombramiento del mismo por el juez.
+ART. 221.- Cuando en escritura privada o pública sometieren los interesados las diferencias que surjan, a la decisión de un árbitro, y no estando nombrado éste, debe prepararse el juicio arbitral por el nombramiento del mismo por el Juez.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 222.- Al efecto, presentándose el documento con la cláusula compromisoria por cualquiera de los interesados, citará el Juez a junta dentro del tercer día para que se presenten a elegir árbitro, apercibiéndolos de que, en caso de no hacerlo, lo hará en su rebeldía.
 
-Si la cláusula compromisoria forma parte de documento privado, al emplazar a la otra parte a la junta a que se refiere el artículo anterior, el actuario la requerirá previamente para que reconozca la firma del documento, y si se rehusare a contestar a la segunda interrogación, se tendrá por reconocida.
+Si la cláusula compromisoria forma parte de documento privado, al emplazar a la otra parte a la junta a que se refiere el artículo anterior, el actuario la requerirá previamente para que reconozca la firma del documento, y si se rehusase a contestar a la segunda interrogación, se tendrá por reconocida.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 223.- En la junta procurará el juez que elijan árbitro de común acuerdo los interesados y, en caso de no conseguirlo, designará uno entre las personas que anualmente son listadas por el Tribunal Superior con tal objeto.
+ART. 223.- En la junta procurará el Juez que elijan árbitro de común acuerdo los interesados y, en caso de no conseguirlo, designará uno entre las personas que anualmente son listadas por el Tribunal Superior con tal objeto.
 
 Lo mismo se hará cuando el árbitro nombrado en el compromiso renunciare y no hubiere substituto designado.
 
@@ -1647,21 +1645,21 @@ ART. 225.- Si el acreedor rehusare recibir la prestación debida, o dar el docum
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 226.- Si el acreedor fuere cierto y conocido, se le citará para día, hora y lugar determinados, a fin de que reciba o vea depositar la cosa debida. Si la cosa fuere mueble de difícil conducción, la diligencia se practicará en el lugar donde se encuentre, siempre que fuere dentro de la jurisdicción territorial; si estuviere fuera, se le citará y se librará el exhorto o el despacho correspondiente al juez del lugar para que en su presencia el acreedor reciba o vea depositar la cosa debida.
+ART. 226.- Si el acreedor fuere cierto y conocido, se le citará para día, hora y lugar determinados, a fin de que reciba o vea depositar la cosa debida. Si la cosa fuere mueble de difícil conducción, la diligencia se practicará en el lugar donde se encuentre, siempre que fuere dentro de la jurisdicción territorial; si estuviere fuera, se le citará y se librará el exhorto o el despacho correspondiente al Juez del lugar para que en su presencia el acreedor reciba o vea depositar la cosa debida.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 227.- Si el acreedor fuere desconocido, se le citará por los periódicos y por el plazo que designe el juez.
+ART. 227.- Si el acreedor fuere desconocido, se le citará por los periódicos y por el plazo que designe el Juez.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 228.- Si el acreedor estuviere ausente o fuere incapaz, será citado su representante legítimo.
 
-Si el acreedor no comparece en el día, hora y lugar designados, o no envía procurador con autorización bastante que reciba la cosa, el juez extenderá certificación en que consten la no comparecencia del acreedor, la descripción de la cosa ofrecida y que quedó constituído el depósito en la persona o establecimiento designado por el juez o por la ley.
+Si el acreedor no comparece en el día, hora y lugar designados, o no envía procurador con autorización bastante que reciba la cosa, el Juez extenderá certificación en que consten la no comparecencia del acreedor, la descripción de la cosa ofrecida y que quedó constituído el depósito en la persona o establecimiento designado por el Juez o por la ley.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 229.- Si la cosa debida fuese cosa cierta y determinada que debiere ser consignada en el lugar en donde se encuentra, y el acreedor no la retirara ni la transportara, el deudor puede obtener del juez la autorización para depositarla en otro lugar.
+ART. 229.- Si la cosa debida fuese cosa cierta y determinada que debiere ser consignada en el lugar en donde se encuentra, y el acreedor no la retirara ni la transportara, el deudor puede obtener del Juez la autorización para depositarla en otro lugar.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1687,7 +1685,7 @@ ART. 234.- Cuando el acreedor se rehusare en el acto de la diligencia a recibir 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 235.- El depositario que se constituya en estas diligencias será designado por el juez, si con intervención de él se practicaren. Si fueren hechas con intervención de notario, la designación será bajo la responsabilidad del deudor.
+ART. 235.- El depositario que se constituya en estas diligencias será designado por el Juez, si con intervención de él se practicaren. Si fueren hechas con intervención de notario, la designación será bajo la responsabilidad del deudor.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1729,7 +1727,7 @@ En este caso, la providencia se reducirá a prevenir al demandado que no se ause
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 242.- Si la petición de arraigo se presentare antes de entablar la demanda, además de la prueba que exige el artículo 240, el actor deberá dar una fianza a satisfacción del juez, de responder de los daños y perjuicios que se sigan si no se entabla la demanda.
+ART. 242.- Si la petición de arraigo se presentare antes de entablar la demanda, además de la prueba que exige el artículo 240, el actor deberá dar una fianza a satisfacción del Juez, de responder de los daños y perjuicios que se sigan si no se entabla la demanda.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1737,7 +1735,7 @@ ART. 243.- El que quebrante el arraigo será castigado con la pena que señala e
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 244.- Cuando se solicite el secuestro provisional se expresará el valor de la demanda o el de la cosa que se reclama, designando ésta con toda precisión, y el juez, al decretarlo, fijará la cantidad por la cual haya de practicarse la diligencia.
+ART. 244.- Cuando se solicite el secuestro provisional se expresará el valor de la demanda o el de la cosa que se reclama, designando ésta con toda precisión, y el Juez, al decretarlo, fijará la cantidad por la cual haya de practicarse la diligencia.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1745,7 +1743,7 @@ ART. 245.- Cuando se pida un secuestro provisional, sin fundarlo en título ejec
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 246.- Si el demandado consigna el valor u objeto reclamado, si da fianza bastante a juicio del juez, o prueba tener bienes raíces suficientes para responder del éxito de la demanda, no se llevará a cabo la providencia precautoria, o se levantará la que se hubiere dictado.
+ART. 246.- Si el demandado consigna el valor u objeto reclamado, si da fianza bastante a juicio del Juez, o prueba tener bienes raíces suficientes para responder del éxito de la demanda, no se llevará a cabo la providencia precautoria, o se levantará la que se hubiere dictado.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1761,11 +1759,11 @@ ART. 249.- En la ejecución de las providencias precautorias no se admitirá exc
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 250.- El aseguramiento de bienes decretado por providencia precautoria y la consignación a que se refiere el artículo 246 se rigen por lo dispuesto en las reglas generales del secuestro, formándose la sección de ejecución que se previene en los juicios ejecutivos. El interventor y el depositario serán nombrados por el juez.
+ART. 250.- El aseguramiento de bienes decretado por providencia precautoria y la consignación a que se refiere el artículo 246 se rigen por lo dispuesto en las reglas generales del secuestro, formándose la sección de ejecución que se previene en los juicios ejecutivos. El interventor y el depositario serán nombrados por el Juez.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 251.- Ejecutada la providencia precautoria antes de ser entablada la demanda, el que la pidió deberá entablarla dentro de tres días, si el juicio hubiere de seguirse en el lugar en que aquélla se dictó. Si debiere seguirse en otro lugar, el juez aumentará a los tres días señalados, uno por cada cuarenta kilómetros.
+ART. 251.- Ejecutada la providencia precautoria antes de ser entablada la demanda, el que la pidió deberá entablarla dentro de tres días, si el juicio hubiere de seguirse en el lugar en que aquélla se dictó. Si debiere seguirse en otro lugar, el Juez aumentará a los tres días señalados, uno por cada cuarenta kilómetros.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1781,7 +1779,7 @@ ART. 254.- Igualmente puede reclamar la providencia precautoria un tercero, cuan
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 255.- Cuando la providencia precautoria se dicte por un juez que no sea el que deba conocer del negocio principal, una vez ejecutada y resulta la reclamación, si se hubiere formulado, se remitirán al juez competente las actuaciones, que en todo caso se unirán al expediente, para que en él obren los efectos que correspondan conforme a derecho.
+ART. 255.- Cuando la providencia precautoria se dicte por un Juez que no sea el que deba conocer del negocio principal, una vez ejecutada y resulta la reclamación, si se hubiere formulado, se remitirán al Juez competente las actuaciones, que en todo caso se unirán al expediente, para que en él obren los efectos que correspondan conforme a derecho.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1807,7 +1805,7 @@ V.- Los hechos en que el actor funde su petición, numerándolos y narrándolos 
 
 VI.- Los fundamentos de derecho y la clase de acción, procurando citar los preceptos legales o principios jurídicos aplicables;
 
-VII.- El valor de lo demandado, si de ello depende la competencia del juez.
+VII.- El valor de lo demandado, si de ello depende la competencia del Juez.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1815,7 +1813,7 @@ ART. 257.- Presentada la demanda con los documentos y copias prevenidos, se corr
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 258.- Si la demanda fuere obscura o irregular, el juez debe prevenir al actor que la aclare, corrija o complete de acuerdo con los artículos anteriores, señalando en concreto sus defectos; hecho lo cual le dará curso. El juez puede hacer esta prevención por una sola vez y verbalmente. Si no le da curso, podrá el promovente acudir en queja al superior.
+ART. 258.- Si la demanda fuere obscura o irregular, el Juez debe prevenir al actor que la aclare, corrija o complete de acuerdo con los artículos anteriores, señalando en concreto sus defectos; hecho lo cual le dará curso. El Juez puede hacer esta prevención por una sola vez y verbalmente. Si no le da curso, podrá el promovente acudir en queja al superior.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1825,11 +1823,11 @@ ART. 259.- Los efectos de la presentación de la demanda son: interrumpir la pre
 
 ART. 260.- Los efectos del emplazamiento son:
 
-I.- Prevenir el juicio en favor del juez que lo hace;
+I.- Prevenir el juicio en favor del Juez que lo hace;
 
-II.- Sujetar al emplazado a seguir el juicio ante el juez que lo emplazó, siendo competente al tiempo de la citación, aunque después deje de serlo con relación al demandado, porque éste cambie de domicilio, o por otro motivo legal;
+II.- Sujetar al emplazado a seguir el juicio ante el Juez que lo emplazó, siendo competente al tiempo de la citación, aunque después deje de serlo con relación al demandado, porque éste cambie de domicilio, o por otro motivo legal;
 
-III.- Obligar al demandado a contestar ante el juez que lo emplazó, salvo siempre el derecho de provocar la incompetencia;
+III.- Obligar al demandado a contestar ante el Juez que lo emplazó, salvo siempre el derecho de provocar la incompetencia;
 
 IV.- Producir todas las consecuencias de la interpelación judicial, si por otros medios no se hubiere constituído ya en mora el obligado;
 
@@ -1861,11 +1859,11 @@ V.- En los casos en que se autorice la denuncia por disposición de la Ley, o po
 
 En los casos de denuncia del pleito a terceros, se observará lo siguiente:
 
-a).- La petición de denuncia se hará a más tardar al contestarse la demanda. La petición posterior no será tramitada;
+A).- La petición de denuncia se hará a más tardar al contestarse la demanda. La petición posterior no será tramitada;
 
-b).- Si se admite la denuncia, se ampliará el término para el emplazamiento, a efecto de que el tercero disfrute del plazo completo; y
+B).- Si se admite la denuncia, se ampliará el término para el emplazamiento, a efecto de que el tercero disfrute del plazo completo; y
 
-c).- La sentencia firme producirá acción y excepción contra los terceros llamados legalmente al juicio;
+C).- La sentencia firme producirá acción y excepción contra los terceros llamados legalmente al juicio;
 
 Cuando el Juez considere que debe darse a un tercero la oportunidad de defensa, o la Ley lo exija para la regularidad del procedimiento, a falta de petición de parte, procederá a requerir su intervención, sin cuyo requisito la sentencia que se dicte no producirá en su contra los efectos de la cosa juzgada.
 
@@ -1889,7 +1887,7 @@ ART. 264.- En el caso de que se declare infundada o improcedente la incompetenci
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 265.- Cuando en la sentencia definitiva se declare procedente alguna excepción dilatoria, que no fue de previo pronunciamiento, se abstendrá el juez de fallar la cuestión principal, reservando el derecho del actor.
+ART. 265.- Cuando en la sentencia definitiva se declare procedente alguna excepción dilatoria, que no fue de previo pronunciamiento, se abstendrá el Juez de fallar la cuestión principal, reservando el derecho del actor.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1903,9 +1901,9 @@ ART. 266.- En el escrito de contestación el demandado deberá referirse a cada 
 
 ART. 267.- Transcurrido el término del emplazamiento sin haber sido contestada la demanda, se hará la declaración de rebeldía y se mandará recibir el negocio a prueba, observándose las prescripciones del Título Noveno.
 
-Para hacer la declaración en rebeldía, el juez examinará escrupulosamente y bajo su más estricta responsabilidad si las citaciones y notificaciones precedentes están hechas al demandado en la forma legal, si el demandante no señaló casa en el lugar del juicio, y si el demandado quebrantó el arraigo.
+Para hacer la declaración en rebeldía, el Juez examinará escrupulosamente y bajo su más estricta responsabilidad si las citaciones y notificaciones precedentes están hechas al demandado en la forma legal, si el demandante no señaló casa en el lugar del juicio, y si el demandado quebrantó el arraigo.
 
-Si el juez encontrare que el emplazamiento no se hizo correctamente, mandará reponerlo e impondrá una corrección disciplinaria al actuario cuando aparezca responsable.
+Si el Juez encontrare que el emplazamiento no se hizo correctamente, mandará reponerlo e impondrá una corrección disciplinaria al actuario cuando aparezca responsable.
 
 Se presumirán confesados los hechos de la demanda que se deje de contestar, excepto en los casos en que las demandas afecten las relaciones familiares o el estado civil de las personas, pues entonces la demanda se tendrá por contestada en sentido negativo.
 
@@ -1951,7 +1949,7 @@ Para el cumplimiento de sus determinaciones, el juez podrá aplicar los medios d
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 273.- El juez mandará recibir el pleito a prueba en el caso de que los litigantes lo hayan solicitado, o de que él estime necesaria. Si el juez no decidiere sobre el particular, se entenderá que se recibe a prueba, corriendo, desde luego, el término para ofrecerlas.
+ART. 273.- El Juez mandará recibir el pleito a prueba en el caso de que los litigantes lo hayan solicitado, o de que él estime necesaria. Si el Juez no decidiere sobre el particular, se entenderá que se recibe a prueba, corriendo, desde luego, el término para ofrecerlas.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1987)</small>
 
@@ -1973,11 +1971,11 @@ ART. 274.- Para conocer la verdad sobre los puntos controvertidos puede el juzga
 
 ART. 275.- Los tribunales podrán decretar en todo tiempo, sea cual fuere la naturaleza del negocio, la práctica o ampliación de cualquiera diligencia probatoria, siempre que sea conducente para el conocimiento de la verdad sobre los puntos cuestionados.
 
-En la práctica de estas diligencias, el juez obrará como estime procedente para obtener el mejor resultado de ellas, sin lesionar el derecho de las partes, oyéndolas y procurando en todo su igualdad.
+En la práctica de estas diligencias, el Juez obrará como estime procedente para obtener el mejor resultado de ellas, sin lesionar el derecho de las partes, oyéndolas y procurando en todo su igualdad.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 276.- Los daños y perjuicios que se ocasionen a tercero por comparecer, o exhibir cosas, serán indemnizados por la parte que ofreció la prueba, o por ambas si el juez procedió de oficio, sin perjuicio de hacer la regulación de costas en su oportunidad.
+ART. 276.- Los daños y perjuicios que se ocasionen a tercero por comparecer, o exhibir cosas, serán indemnizados por la parte que ofreció la prueba, o por ambas si el Juez procedió de oficio, sin perjuicio de hacer la regulación de costas en su oportunidad.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2011,11 +2009,11 @@ El auto en que se admita alguna prueba no es recurrible; el que la deseche es ap
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 282.- Los hechos notorios no necesitan ser probados, y el juez puede invocarlos, aunque no hayan sido alegados por las partes.
+ART. 282.- Los hechos notorios no necesitan ser probados, y el Juez puede invocarlos, aunque no hayan sido alegados por las partes.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 283.- Cuando una de las partes se oponga a la inspección o reconocimiento ordenados por el tribunal, para conocer sus condiciones fiscales o mentales, o no conteste a las preguntas que el tribunal le dirija, éste debe tener por ciertas las afirmaciones de la contraparte, salvo prueba en contrario. Lo mismo se hará si una de las partes no exhibe a la inspección del tribunal la cosa o documento que tiene en su poder.
+ART. 283.- cuando una de las partes se oponga a la inspección o reconocimiento ordenados por el tribunal, para conocer sus condiciones fiscales o mentales, o no conteste a las preguntas que el tribunal le dirija, éste debe tener por ciertas las afirmaciones de la contraparte, salvo prueba en contrario. Lo mismo se hará si una de las partes no exhibe a la inspección del tribunal la cosa o documento que tiene en su poder.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2025,9 +2023,9 @@ Los tribunales tienen la facultad y el deber de compeler a terceros, por los apr
 
 De la mencionada obligación están exentos los ascendientes, descendientes, cónyuges y personas que deben guardar secreto profesional, en los casos en que se trate de probar contra la parte con la que están relacionados.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 285.- La Ley reconoce como medios de prueba:
+ART. 285.- La ley reconoce como medios de prueba:
 
 I.- Confesión y declaración de las partes;
 
@@ -2091,7 +2089,7 @@ ART. 293.- Al solicitarse la inspección judicial se determinarán los puntos so
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 294.- Al día siguiente en que termine el período del ofrecimiento de pruebas, el juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. No se admitirán diligencias de pruebas contra derecho, contra la moral o sobre hechos que no han sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles. Contra el auto que deseche una prueba procede la apelación en el efecto devolutivo, cuando fuere apelable la sentencia en lo principal. En los demás casos no hay más recurso que el de responsabilidad.
+ART. 294.- Al día siguiente en que termine el período del ofrecimiento de pruebas, el Juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. No se admitirán diligencias de pruebas contra derecho, contra la moral o sobre hechos que no han sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles. Contra el auto que deseche una prueba procede la apelación en el efecto devolutivo, cuando fuere apelable la sentencia en lo principal. En los demás casos no hay más recurso que el de responsabilidad.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2117,7 +2115,7 @@ ART. 296.- Al día siguiente de que se notifique el auto de admisión se abre po
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 297.- Cuando las pruebas hubieren de practicarse fuera del Estado de Baja California o del país, se recibirán a petición de parte dentro de un término de sesenta y noventa días, respectivamente siempre que se llenen los siguientes requisitos: 1o.- Que se solicite durante el ofrecimiento de pruebas; 2o.- Que se indiquen los nombres y residencia de los testigos que hayan de ser examinados, cuando la prueba sea testifical; 3o.- Que se designen, en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que han de testimoniarse, o presentarse originales.
+ART. 297.- Cuando las pruebas hubieren de practicarse fuera del Estado de Baja California o del país, se recibirán a petición de parte dentro de un término de sesenta y noventa días, respectivamente siempre que se llenen los siguientes requisitos: 1o.- Que se solicite durante el ofrecimiento de pruebas, 2o.- Que se indiquen los nombres y residencia de los testigos que hayan de ser examinados, cuando la prueba sea testifical; 3o.- Que se designen, en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que han de testimoniarse, o presentarse originales.
 
 El Juez al calificar la admisibilidad de las pruebas, determinará el monto de la cantidad que el promovente deposite como multa, en caso de no rendirse la prueba. Sin este depósito no se hará el señalamiento para la recepción de la prueba.
 
@@ -2133,7 +2131,7 @@ El término extraordinario correrá desde el día siguiente al auto que califica
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 300.- Ni el término ordinario ni el extraordinario podrán suspenderse ni ampliarse, ni aun por consentimiento común de los interesados. Sólo causas muy graves a juicio del juez, y bajo su responsabilidad, podrán producir la suspensión.
+ART. 300.- Ni el término ordinario ni el extraordinario podrán suspenderse ni ampliarse, ni aun por consentimiento común de los interesados. Sólo causas muy graves a juicio del Juez, y bajo su responsabilidad, podrán producir la suspensión.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -2169,7 +2167,7 @@ VI.- Si el que debe absolver posiciones estuviere ausente, se le mandará examin
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 305.- La prueba de confesión judicial se ofrecerá presentando el pliego que contenga las posiciones, y pidiendo que se cite a la persona que debe absolverlas. Si el pliego se presentare cerrado, debe guardarse así en el secreto del Juzgado. La prueba será admitida aunque no se exhiba el pliego, pidiendo tan sólo la citación; pero si no concurriere el absolvente a la diligencia de prueba, no podrá ser declarado confeso mas que de aquellas posiciones que con anticipación a la fecha de la audiencia se hubieren formulado por escrito.
+ART. 305.- La prueba de confesión judicial se ofrecerá presentando el pliego que contenga las posiciones, y pidiendo que se cite a la persona que debe absolverlas. Si el pliego se presentare cerrado, debe guardarse así en el secreto del Juzgado. La prueba será admitida aunque no se exhiba el pliego, pidiendo tan sólo la citación; pero si no concurriere el absolvente a la diligencia de prueba, no podrá ser declarado confeso más que de aquellas posiciones que con anticipación a la fecha de la audiencia se hubieren formulado por escrito.
 
 No será permitido usar de este medio probatorio más de una vez en la primera instancia y otra en la segunda, a no ser que se aleguen hechos o presenten documentos nuevos, en cuyo caso se podrán articular otra vez, con referencia a los hechos o documentos nuevamente aducidos.
 
@@ -2181,7 +2179,7 @@ I.- Deben referirse a hechos que sean objeto del debate, debiendo repelerse de o
 
 II.- Deben formularse en términos precisos, y no ser insidiosas. Se tendrán por insidiosas las preguntas que se dirijan a ofuscar la inteligencia del que ha de responder, con objeto de inducirlo a error y obtener una confesión contraria a la verdad;
 
-III.- Cada pregunta no debe contener mas de un solo hecho, a menos que por la íntima relación que existe entre varios, no puedan afirmarse o negarse uno sin afirmar o negar el otro, y formen un solo hecho complejo;
+III.- Cada pregunta no debe contener más de un solo hecho, a menos que por la íntima relación que existe entre varios, no puedan afirmarse o negarse uno sin afirmar o negar el otro, y formen un solo hecho complejo;
 
 IV.- Deberán referirse a hechos propios de la parte absolvente; y
 
@@ -2261,7 +2259,7 @@ ART. 314.- Las partes podrán en cualquier tiempo, desde la contestación de la 
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 315.- En este caso, los interrogatorios podrán formularse libremente, sin mas limitación que las preguntas se refieran a los hechos objeto del debate.
+ART. 315.- En este caso, los interrogatorios podrán formularse libremente, sin más limitación que las preguntas se refieran a los hechos objeto del debate.
 
 Las preguntas podrán ser inquisitivas, y podrán no referirse a hechos propios, con tal de que el que declare tenga conocimiento de los mismos.
 
@@ -2405,7 +2403,7 @@ V.- Las firmas puestas en actuaciones judiciales en presencia del secretario del
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 339.- El juez podrá hacer por sí mismo la comprobación después de oír a los peritos revisores y apreciará el resultado de esta prueba conforme a las reglas de la sana crítica, sin tener que sujetarse al dictamen de aquéllos, y aun puede ordenar que se repita el cotejo por otros peritos.
+ART. 339.- El Juez podrá hacer por sí mismo la comprobación después de oír a los peritos revisores y apreciará el resultado de esta prueba conforme a las reglas de la sana crítica, sin tener que sujetarse al dictamen de aquéllos, y aun puede ordenar que se repita el cotejo por otros peritos.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2423,11 +2421,11 @@ Si la profesión o el arte no estuvieren legalmente reglamentados, o estándolo,
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 342.- Cada parte, dentro del tercer día, nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo. El tercero en discordia será nombrado por el juez.
+ART. 342.- Cada parte, dentro del tercer día, nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo. El tercero en discordia será nombrado por el Juez.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 343.- El juez nombrará los peritos que correspondan a cada parte, en los siguientes casos:
+ART. 343.- El Juez nombrará los peritos que correspondan a cada parte, en los siguientes casos:
 
 I.- Si alguno de los litigantes dejare de hacer el nombramiento en el término señalado en el artículo anterior;
 
@@ -2441,7 +2439,7 @@ V.- Si el designado por los litigantes no se encontrare en el lugar del juicio o
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 344.- El juez señalará lugar, día y hora para que la diligencia se practique, si debe presidirla. En cualquier otro caso, fijará a los peritos un término prudente para que presenten dictamen. Las partes pueden, en todo caso, formular a los peritos cuestiones que sean pertinentes.
+ART. 344.- El Juez señalará lugar, día y hora para que la diligencia se practique, si debe presidirla. En cualquier otro caso, fijará a los peritos un término prudente para que presenten dictamen. Las partes pueden, en todo caso, formular a los peritos cuestiones que sean pertinentes.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2457,7 +2455,7 @@ Los peritos citados oportunamente serán sancionados con multas hasta de diez ve
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 346.- El perito que nombre el juez puede ser recusado dentro de las cuarenta y ocho horas siguientes a la en que se notifique su nombramiento a los litigantes, siempre que concurra alguna de las siguientes causas:
+ART. 346.- El perito que nombre el Juez puede ser recusado dentro de las cuarenta y ocho horas siguientes a la en que se notifique su nombramiento a los litigantes, siempre que concurra alguna de las siguientes causas:
 
 I.- Consanguinidad dentro del cuarto grado;
 
@@ -2465,7 +2463,7 @@ II.- Interés directo o indirecto en el pleito;
 
 III.- Ser socio, inquilino, arrendador o amigo íntimo de alguna de las partes.
 
-El juez calificará de plano la recusación, y las partes deben presentar las pruebas al hacerla valer. Contra el auto en que se admita o deseche la recusación no procede recurso alguno. Admitida, se nombrará nuevo perito en los mismos términos que al recusado.
+El Juez calificará de plano la recusación, y las partes deben presentar las pruebas al hacerla valer. Contra el auto en que se admita o deseche la recusación no procede recurso alguno. Admitida, se nombrará nuevo perito en los mismos términos que al recusado.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2473,7 +2471,7 @@ ART. 347.- En caso de ser desechada la recusación, se impondrá al recusante un
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 348.- El honorario de cada perito será pagado por la parte que lo nombró, o en cuyo defecto lo hubiere nombrado el juez, y el del tercero, por ambas partes, sin perjuicio de lo que disponga la resolución definitiva sobre condenación en costas.
+ART. 348.- El honorario de cada perito será pagado por la parte que lo nombró, o en cuyo defecto lo hubiere nombrado el Juez, y el del tercero, por ambas partes, sin perjuicio de lo que disponga la resolución definitiva sobre condenación en costas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ENERO DE 2013)</small>
 
@@ -2505,7 +2503,7 @@ IV.- Rendido y ratificado el dictamen en los términos de esta Ley, se pondrá a
 
 V.- Los honorarios del perito serán cubiertos por la parte que ofreció la prueba.
 
-El valor de la prueba será plena, siempre y cuando concurran las condiciones antes señaladas y las observaciones o impugnaciones que en su caso se hicieron no estén justificadas a criterio del Juez.
+El valor de esta prueba será plena, siempre y cuando concurran las condiciones antes señaladas y las observaciones o impugnaciones que en su caso se hicieron no estén justificadas a criterio del Juez.
 
 Serán aplicables a esta prueba, en lo conducente las reglas generales de la prueba pericial.
 
@@ -2523,7 +2521,7 @@ También podrán concurrir a ella los testigos de identidad o peritos que fueren
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 350.- Del reconocimiento se levantará acta que firmarán los que a él concurran, asentándose los puntos que lo provocaron, las observaciones, declaraciones de peritos y todo lo necesario para esclarecer la verdad. En el caso en que el juez dicte la sentencia en el momento mismo de la inspección, no se necesitan esas formalidades, bastando con que se haga referencia a las observaciones que hayan provocado su convicción.
+ART. 350.- Del reconocimiento se levantará acta que firmarán los que a él concurran, asentándose los puntos que lo provocaron, las observaciones, declaraciones de peritos y todo lo necesario para esclarecer la verdad. En el caso en que el Juez dicte la sentencia en el momento mismo de la inspección, no se necesitan esas formalidades, bastando con que se haga referencia a las observaciones que hayan provocado su convicción.
 
 Cuando fuere necesario, se levantarán planos o se sacarán vistas fotográficas del lugar u objetos inspeccionados.
 
@@ -2543,7 +2541,7 @@ A quien proporcione domicilio inexacto o inexistente de algún testigo o de comp
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 353.- A los ancianos de mas de setenta años y a los enfermos podrá el Juez, según las circunstancias, recibirles la declaración en sus casas en presencia de la otra parte, si asistiere.
+ART. 353.- A los ancianos de más de setenta años y a los enfermos podrá el Juez, según las circunstancias, recibirles la declaración en sus casas en presencia de la otra parte, si asistiere.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2553,7 +2551,7 @@ En casos urgentes podrán rendir declaración personalmente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 355.- Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El juez debe cuidar de que se cumplan estas condiciones impidiendo preguntas que las contraríen. Contra la desestimación de preguntas sólo cabe la apelación en el efecto preventivo.
+ART. 355.- Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El Juez debe cuidar de que se cumplan estas condiciones impidiendo preguntas que las contraríen. Contra la desestimación de preguntas sólo cabe la apelación en el efecto preventivo.
 
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1987)</small>
 
@@ -2573,11 +2571,11 @@ ART. 358.- Después de tomarle al testigo la protesta de conducirse con verdad y
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 359.- Los testigos serán examinados separada y sucesivamente, sin que unos puedan presenciar las declaraciones de los otros. A este efecto, el juez fijará un sólo día para que se presenten los testigos que deben declarar, y designará el lugar en que deben permanecer hasta la conclusión de la diligencia, salvo lo dispuesto en los artículos 353 y 355. Si no fuere posible terminar el examen de los testigos en un solo día, la diligencia se suspenderá para continuarla al día siguiente.
+ART. 359.- Los testigos serán examinados separada y sucesivamente, sin que unos puedan presenciar las declaraciones de los otros. A este efecto, el Juez fijará un sólo día para que se presenten los testigos que deben declarar, y designará el lugar en que deben permanecer hasta la conclusión de la diligencia, salvo lo dispuesto en los artículos 353 y 355. Si no fuere posible terminar el examen de los testigos en un solo día, la diligencia se suspenderá para continuarla al día siguiente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 360.- Cuando el testigo deje de contestar a algún punto o haya incurrido en contradicción, o se haya expresado con ambigüedad, pueden las partes llamar la atención del juez para que éste, si lo estima conveniente, exija al testigo las aclaraciones oportunas.
+ART. 360.- Cuando el testigo deje de contestar a algún punto o haya incurrido en contradicción, o se haya expresado con ambigüedad, pueden las partes llamar la atención del Juez para que éste, si lo estima conveniente, exija al testigo las aclaraciones oportunas.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2585,15 +2583,15 @@ ART. 361.- El tribunal tendrá la más amplia facultad para hacer a los testigos
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 362.- Si el testigo no sabe el idioma, rendirá su declaración por medio de intérprete, que será nombrado por el juez. Si el testigo lo pidiere, además de asentarse su declaración en castellano, podrá escribirse en su propio idioma por él o por el intérprete.
+ART. 362.- Si el testigo no sabe el idioma, rendirá su declaración por medio de intérprete, que será nombrado por el Juez. Si el testigo lo pidiere, además de asentarse su declaración en castellano, podrá escribirse en su propio idioma por él o por el intérprete.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 363.- Las respuestas del testigo se harán constar en autos en forma que al mismo tiempo se comprenda el sentido o términos de la pregunta formulada. Salvo en casos excepcionales, a juicio del juez, en que permitirá que se escriba textualmente la pregunta y a continuación la respuesta.
+ART. 363.- Las respuestas del testigo se harán constar en autos en forma que al mismo tiempo se comprenda el sentido o términos de la pregunta formulada. Salvo en casos excepcionales, a juicio del Juez, en que permitirá que se escriba textualmente la pregunta y a continuación la respuesta.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 364.- Los testigos están obligados a dar la razón de su dicho, y el juez deberá exigirla en todo caso.
+ART. 364.- Los testigos están obligados a dar la razón de su dicho, y el Juez deberá exigirla en todo caso.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2619,7 +2617,7 @@ Quedan comprendidas dentro del término fotografías, las cintas cinematográfic
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 369.- Como medio de prueba deben admitirse también los registros dactiloscópicos, fonográficos y demás elementos que produzcan convicción en el ánimo del juez.
+ART. 369.- Como medio de prueba deben admitirse también los registros dactiloscópicos, fonográficos y demás elementos que produzcan convicción en el ánimo del Juez.
 
 La parte que presente esos medios de prueba deberá ministrar al tribunal los aparatos o elementos necesarios, para que pueda apreciarse el valor de los registros y reproducirse los sonidos y figuras.
 
@@ -2657,7 +2655,7 @@ ART. 373.- Los testigos no sólo deben declarar las personas a quienes oyeron re
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 374.- Presunción es la consecuencia que la ley o el juez deducen de un hecho conocido para averiguar la verdad de otro desconocido: la primera se llama legal, y la segunda humana.
+ART. 374.- Presunción es la consecuencia que la ley o el Juez deducen de un hecho conocido para averiguar la verdad de otro desconocido: la primera se llama legal, y la segunda humana.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2669,7 +2667,7 @@ ART. 376.- El que tiene a su favor una presunción legal, sólo está obligado a
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 377.- No se admite prueba contra la presunción legal, cuando la ley lo prohíbe expresamente y cuando el efecto de la presunción es anular un acto o negar una acción, salvo el caso en que la ley haya reservado el derecho de probar.
+ART. 377.- No se admite prueba contra la presunción legal, cuando la ley lo prohibe expresamente y cuando el efecto de la presunción es anular un acto o negar una acción, salvo el caso en que la ley haya reservado el derecho de probar.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2681,7 +2679,7 @@ ART. 378.- Contra las demás presunciones legales y contra las humanas es admisi
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 379.- Las pruebas se recibirán en la audiencia a que se refiere el artículo 382. Si hubieren de practicarse algunas en otro lugar, ante juez diferente, se citará para la audiencia de pruebas dentro de los sesenta días, y si las diligencias de prueba hubieren de practicarse fuera del territorio nacional, se citará a la audiencia en un plazo no mayor de noventa días.
+ART. 379.- Las pruebas se recibirán en la audiencia a que se refiere el artículo 382. Si hubieren de practicarse algunas en otro lugar, ante Juez diferente, se citará para la audiencia de pruebas dentro de los sesenta días, y si las diligencias de prueba hubieren de practicarse fuera del territorio nacional, se citará a la audiencia en un plazo no mayor de noventa días.
 
 El Juez al calificar la admisibilidad de las pruebas resolverá sobre la fecha de la celebración de la audiencia y determinará el monto de la cantidad que se deposite como multa en caso de no rendirse la prueba. Sobre este particular rigen las mismas disposiciones de los artículos 297 y 298.
 
@@ -2691,7 +2689,7 @@ La audiencia se celebrará con las pruebas que estén preparadas, dejándose a s
 
 ART. 380.- Antes de la celebración de la audiencia, las pruebas deberán prepararse con toda oportunidad, para que en ella puedan recibirse, y al efecto se procederá:
 
-I.- A citar a las partes a absolver posiciones que formulen las mismas, bajo el apercibimiento de que si no se presentan a declarar serán tenidos por confesos o de ser conducidos por la policía si el juez lo estima conveniente;
+I.- A citar a las partes a absolver posiciones que formulen las mismas, bajo el apercibimiento de que si no se presentan a declarar serán tenidos por confesos o de ser conducidos por la policía si el Juez lo estima conveniente;
 
 II.- A citar a los testigos y peritos bajo el apercibimiento de multa o de ser conducidos por la policía, a no ser que la parte que los ofreció se comprometiera a su perjuicio a presentarlos;
 
@@ -2699,7 +2697,7 @@ III.- A dar todas las facilidades necesarias a los peritos para el examen de obj
 
 IV.- A delegar o exhortar el Juez que corresponda para que practique la inspección ocular y las compulsas que tengan que efectuarse fuera del lugar del juicio;
 
-V.- A exhortar al juez que corresponda para que reciba la información de testigos, cuando esta prueba tenga que practicarse fuera del lugar del juicio;
+V.- A exhortar al Juez que corresponda para que reciba la información de testigos, cuando esta prueba tenga que practicarse fuera del lugar del juicio;
 
 VI.- A mandar traer copias, documentos, libros y demás instrumentos ofrecidos por las partes, ordenando las compulsas que fueren necesarias.
 
@@ -2709,7 +2707,7 @@ ART. 381.- La impugnación de falsedad de un documento puede hacerse desde la co
 
 De la impugnación se correrá traslado al colitigante y en la audiencia del juicio se presentarán las pruebas y contrapruebas relativas a la impugnación.
 
-Lo dispuesto en este artículo sólo da competencia al juez para conocer y decidir en lo principal la fuerza probatoria del documento impugnado, sin que pueda hacerse declaración alguna general que afecte al instrumento y sin perjuicio del procedimiento penal a que hubiere lugar.
+Lo dispuesto en este artículo sólo da competencia al Juez para conocer y decidir en lo principal la fuerza probatoria del documento impugnado, sin que pueda hacerse declaración alguna general que afecte al instrumento y sin perjuicio del procedimiento penal a que hubiere lugar.
 
 Si en el momento, de la celebración de la audiencia se tramitare proceso penal sobre la falsedad del documento en cuestión, el tribunal, sin suspender el procedimiento y según las circunstancias, determinará, al dictar sentencia, si se reserva los derechos del impugnador para el caso en que penalmente se demuestre la falsedad, o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
 
@@ -2721,11 +2719,11 @@ La audiencia se celebrará, concurran o no las partes, y estén o no presentes l
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 383.- El Secretario o el relator que el juez designare, referirá oralmente la demanda y la contestación. A continuación las pruebas se recibirán en el orden fijado en el artículo 285. Sin perjuicio de que se reciban las pruebas ya preparadas, se dejarán pendientes para la continuación de la audiencia las que no lo hubieren sido.
+ART. 383.- El Secretario o el relator que el Juez designare, referirá oralmente la demanda y la contestación. A continuación las pruebas se recibirán en el orden fijado en el artículo 285. Sin perjuicio de que se reciban las pruebas ya preparadas, se dejarán pendientes para la continuación de la audiencia las que no lo hubieren sido.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 384.- La prueba de confesión se recibirá asentando las contestaciones en que vaya implícita la pregunta, sin necesidad de asentar ésta. El juez debe particularmente atender a que no se formulen posiciones extrañas a los puntos cuestionados. Las partes pueden hacerse recíprocamente preguntas y formularse posiciones, y el juez tiene la facultad de asentar, o el resultado de este careo o bien las contestaciones conteniendo las preguntas.
+ART. 384.- La prueba de confesión se recibirá asentando las contestaciones en que vaya implícita la pregunta, sin necesidad de asentar ésta. El Juez debe particularmente atender a que no se formulen posiciones extrañas a los puntos cuestionados. Las partes pueden hacerse recíprocamente preguntas y formularse posiciones, y el Juez tiene la facultad de asentar, o el resultado de este careo o bien las contestaciones conteniendo las preguntas.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -2733,15 +2731,15 @@ ART. 385.- En seguida se relatarán los documentos presentados, poniéndose de m
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 386.- Los peritos dictaminarán por escrito u oralmente en presencia de las partes y del tercero en discordia si lo hubiere. Tanto las partes, como el tercero y el juez pueden formular observaciones y hacer preguntas pertinentes durante la audiencia, en la cual se rendirá la prueba, y el tercero dirá su parecer.
+ART. 386.- Los peritos dictaminarán por escrito u oralmente en presencia de las partes y del tercero en discordia si lo hubiere. Tanto las partes, como el tercero y el Juez pueden formular observaciones y hacer preguntas pertinentes durante la audiencia, en la cual se rendirá la prueba, y el tercero dirá su parecer.
 
-Los peritos citados oportunamente serán sancionados con multas hasta de tres mil pesos en caso de que no concurran, salvo causa grave que calificará el juez.
+Los peritos citados oportunamente serán sancionados con multas hasta de tres mil pesos en caso de que no concurran, salvo causa grave que calificará el Juez.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 387.- Los testigos indicados en el auto de admisión de pruebas serán examinados en la audiencia, en presencia de las partes. El juez puede, de oficio, interrogar ampliamente a los testigos sobre los hechos objeto de esta prueba, para el mejor esclarecimiento de la verdad. Las partes también pueden interrogar a los testigos, limitándose a los hechos o puntos controvertidos; y el juez estrictamente debe impedir preguntas ociosas e impertinentes.
+ART. 387.- Los testigos indicados en el auto de admisión de pruebas serán examinados en la audiencia, en presencia de las partes. El Juez puede, de oficio, interrogar ampliamente a los testigos sobre los hechos objeto de esta prueba, para el mejor esclarecimiento de la verdad. Las partes también pueden interrogar a los testigos, limitándose a los hechos o puntos controvertidos; y el Juez estrictamente debe impedir preguntas ociosas e impertinentes.
 
-No deben asentarse en el acta literalmente preguntas ni respuestas, y sólo en caso en que excepcionalmente el juez estime prudente hacerlas constar, se asentarán las contestaciones implicando la pregunta. El secretario, bajo la vigilancia del juez, hará un extracto de la declaración de los testigos con relación a los puntos controvertidos, extracto que figurará en el acta de que más adelante se habla.
+No deben asentarse en el acta literalmente preguntas ni respuestas, y sólo en caso en que excepcionalmente el Juez estime prudente hacerlas constar, se asentarán las contestaciones implicando la pregunta. El secretario, bajo la vigilancia del Juez, hará un extracto de la declaración de los testigos con relación a los puntos controvertidos, extracto que figurará en el acta de que más adelante se habla.
 
 En las causas apelables, además de este extracto se agregarán a los autos las preguntas y declaraciones literales que los taquígrafos oficiales del tribunal hayan tomado. En las causas no apelables, el extracto basta.
 
@@ -2763,7 +2761,7 @@ Cuando se invoquen jurisprudencia, doctrinas o, leyes de los Estados, Distrito o
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 391.- De esta audiencia, el secretario, bajo la vigilancia del juez, levantará acta desde que principie hasta que concluya la diligencia, haciendo constar el día, lugar y hora, la autoridad judicial ante quien se celebra, los nombres de las partes y abogados, peritos, testigos, intérpretes; el nombre de las partes que no concurrieron, las decisiones judiciales sobre personalidad, competencia e incidentes, declaraciones de las partes en la forma expresada en el artículo 384, extracto de las conclusiones de los peritos y de las declaraciones de los testigos conforme al artículo 387, el resultado de la inspección ocular si la hubo, y los documentos ofrecidos como prueba si no constaron ya en el auto de admisión; las conclusiones de las partes en el debate oral, a no ser que por escrito las hubieren presentado los litigantes, y los puntos resolutivos del fallo.
+ART. 391.- De esta audiencia, el secretario, bajo la vigilancia del Juez, levantará acta desde que principie hasta que concluya la diligencia, haciendo constar el día, lugar y hora, la autoridad judicial ante quien se celebra, los nombres de las partes y abogados, peritos, testigos, intérpretes; el nombre de las partes que no concurrieron, las decisiones judiciales sobre personalidad, competencia e incidentes, declaraciones de las partes en la forma expresada en el artículo 384, extracto de las conclusiones de los peritos y de las declaraciones de los testigos conforme al artículo 387, el resultado de la inspección ocular si la hubo, y los documentos ofrecidos como prueba si no constaron ya en el auto de admisión; las conclusiones de las partes en el debate oral, a no ser que por escrito las hubieren presentado los litigantes, y los puntos resolutivos del fallo.
 
 Los testigos y peritos pueden retirarse de la audiencia después de desempeñar su cometido, firmando al margen del acta en la parte correspondiente a ellos.
 
@@ -2773,7 +2771,7 @@ ART. 392.- Los tribunales, bajo su más estricta responsabilidad, al celebrar la
 
 I.- Continuación del procedimiento, de tal modo que no pueda suspenderse ni interrumpirse la audiencia hasta que no haya terminado; en consecuencia, desecharán de plano las recusaciones y los incidentes que pudieran interrumpirla;
 
-II.- Los jueces que resuelvan deben ser los mismos que asistieron a la recepción de las pruebas y alegatos de las partes. Si por causa insuperable dejare el juez de continuar la audiencia y fuere distinto el que lo substituyere en el conocimiento del negocio, puede mandar repetir las diligencias de prueba, si éstas no consisten sólo en documentos;
+II.- Los jueces que resuelvan deben ser los mismos que asistieron a la recepción de las pruebas y alegatos de las partes. Si por causa insuperable dejare el Juez de continuar la audiencia y fuere distinto el que lo substituyere en el conocimiento del negocio, puede mandar repetir las diligencias de prueba, si éstas no consisten sólo en documentos;
 
 III.- Mantener la mayor igualdad entre las partes, de modo que no se haga concesión a una de ellas sin que se haga lo mismo con la otra;
 
@@ -2817,7 +2815,7 @@ ART. 397.- El declarado confeso sin que haya hecho confesión, puede rendir prue
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 398.- La confesión judicial expresa que afecte a toda la demanda, engendra el efecto de obligar al juez a otorgar en la sentencia un plazo de gracia al deudor después de efectuado el secuestro y a reducir las costas.
+ART. 398.- La confesión judicial expresa que afecte a toda la demanda, engendra el efecto de obligar al Juez a otorgar en la sentencia un plazo de gracia al deudor después de efectuado el secuestro y a reducir las costas.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2837,7 +2835,7 @@ ART. 401.- La confesión no producirá el efecto probatorio a que se refieren lo
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 402.- La confesión judicial o extrajudicial sólo produce efecto en lo que perjudica al que la hace, pero no puede dividirse contra el que la hizo, salvo cuando se refiera a hechos diferentes o cuando una parte de la confesión esté probada por otros medios, o cuando en algún extremo sea contraria a la naturaleza o a las leyes.
+ART. 402.- La confesión judicial o extrajudicial sólo produce efecto en lo que perjudica al que la hace, pero no puede dividirse contra el que la hizo, salvo cuando se refiera a hechos diferentes o cuando una parte de la confesión esté aprobada por otros medios, o cuando en algún extremo sea contraria a la naturaleza o a las leyes.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2881,7 +2879,7 @@ ART. 412.- El reconocimiento o inspección judicial hará prueba plena cuando se
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 413.- El dictamen de peritos y la prueba testimonial serán valorizados según el prudente arbitrio del juez.
+ART. 413.- El dictamen de peritos y la prueba testimonial serán valorizados según el prudente arbitrio del Juez.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -2919,7 +2917,7 @@ Los jueces apreciarán en justicia el valor de las presunciones humanas.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 418.- La valorización de las pruebas se hará de acuerdo con el presente capítulo, a menos que por el enlace interior de las pruebas rendidas y de las presunciones formadas, el tribunal adquiera convicción distinta respecto de los hechos materia del litigio. En este caso, deberá fundar el juez cuidadosamente esta parte de su sentencia.
+ART. 418.- La valorización de las pruebas se hará de acuerdo con el presente capítulo, a menos que por el enlace interior de las pruebas rendidas y de las presunciones formadas, el tribunal adquiera convicción distinta respecto de los hechos materia del litigio. En este caso, deberá fundar el Juez cuidadosamente esta parte de su sentencia.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2939,7 +2937,7 @@ Pasado que sea el término para alegar, serán citadas las partes para sentencia
 
 ART. 420.- Hay cosa juzgada cuando la sentencia causa ejecutoria.
 
-Causan ejecutoria por ministerio de ley.
+Causan ejecutoria por Ministerio de Ley.
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 1979)</small>
 
@@ -2959,7 +2957,7 @@ ART. 421.- Causan ejecutoria por declaración judicial:
 
 I.- Las sentencias consentidas expresamente por las partes o por sus mandatarios con poder o cláusula especial;
 
-II.- Las sentencias de que hecha notificación en forma, no se interpone recurso en el término señalado por la ley; y
+II.- Las sentencias de que hecha notificación en forma, no se interpone recurso en el término señalado por la Ley; y
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 1979)</small>
 
@@ -3035,7 +3033,7 @@ ART. 425.- Todas las contiendas entre partes cuya tramitación no esté prevista
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 426.- En los casos de las fracciones VI, VIII y XVI no se requieren más solemnidades que oír a las partes, primero al denunciante o al actor, en seguida a los demandados, recibir en ese orden sus pruebas en el acto mismo y dictar allí la resolución concisa. Si no estuviere el secretario, procederá el juez, con dos testigos de asistencia. Todo el juicio se hará constar en una sola acta cuando termine en un solo día.
+ART. 426.- En los casos de las fracciones VI, VIII y XVI no se requieren más solemnidades que oír a las partes, primero al denunciante o al actor, en seguida a los demandados, recibir en ese orden sus pruebas en el acto mismo y dictar allí la resolución concisa. Si no estuviere el secretario, procederá el Juez, con dos testigos de asistencia. Todo el juicio se hará constar en una sola acta cuando termine en un solo día.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3061,11 +3059,11 @@ Los alegatos serán verbales, pudiendo presentar las conclusiones por escrito.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 431.- Si en la contestación de la demanda se opusiere falta de personalidad en el actor, no se interrumpirá el curso del juicio. Principiará la audiencia recibiendo las pruebas relativas a esa excepción, resolviéndose el punto. Si se desecha la dilatoria se entra al fondo del negocio para ocuparse de las demás excepciones; si se declara procedente se suspenderá la audiencia, y en caso de que el Superior revocare la determinación, se citará de nuevo a la audiencia de pruebas y alegatos.
+ART. 431.- Si en la contestación de la demanda se opusiere falta de personalidad en el actor, no se interrumpirá el curso del juicio. Principiará la audiencia recibiendo las pruebas relativas a esa excepción, resolviendo el punto. Si se desecha la dilatoria se entra al fondo del negocio para ocuparse de las demás excepciones; si se declara procedente se suspenderá la audiencia, y en caso de que el Superior revocare la determinación, se citará de nuevo a la audiencia de pruebas y alegatos.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 432.- La sentencia breve y concisa en cortas proposiciones se dictará en la audiencia misma, a menos que se tratare de pruebas documentales voluminosas, porque entonces disfrutará el juez de un plazo de tres días para dictarla.
+ART. 432.- La sentencia breve y concisa en cortas proposiciones se dictará en la audiencia misma, a menos que se tratare de pruebas documentales voluminosas, porque entonces disfrutará el Juez de un plazo de tres días para dictarla.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3079,10 +3077,6 @@ Cuando en el interdicto de obra nueva la protección eficaz se realice con sólo
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-### CAPITULO II. Del juicio ejecutivo
-
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
 ART. 435.- Las reglas del juicio ordinario y en especial las del Capítulo VI del Título Sexto, se aplicarán al juicio sumario en lo que no se opongan a lo dispuesto en el presente Capítulo.
 
 No puede concederse término extraordinario de prueba en los negocios a que se refiere el artículo 424. Tampoco proceden términos de gracia en ellos, a no ser en los juicios ejecutivos e hipotecarios que tengan por objeto pago de dinero.
@@ -3090,6 +3084,10 @@ No puede concederse término extraordinario de prueba en los negocios a que se r
 No son admisibles la reconvención o la compensación sino cuando las acciones en que se funden estuvieren también sujetas a juicio sumario.
 
 Las resoluciones sobre alimentos que fueren apeladas se ejecutarán sin fianza, y las que recaigan en los casos de la fracción VIII del artículo 424 son inapelables.
+
+(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+
+### CAPITULO II. Del juicio ejecutivo
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3109,17 +3107,17 @@ III.- Los demás instrumentos públicos que conforme al artículo 328 hacen prue
 
 IV.- Cualquier documento privado después de reconocido por quien lo hizo o lo mandó extender; basta con que se reconozca la firma, aun cuando se niegue la deuda;
 
-V.- La confesión de la deuda hecha ante juez competente por el deudor o por su representante con facultades para ello;
+V.- La confesión de la deuda hecha ante Juez competente por el deudor o por su representante con facultades para ello;
 
-VI.- Los convenios celebrados en el curso de un juicio ante el juez, ya sea de las partes entre sí o de terceros que se hubieren obligado como fiadores, depositarios, o en cualquiera otra forma;
+VI.- Los convenios celebrados en el curso de un juicio ante el Juez, ya sea de las partes entre sí o de terceros que se hubieren obligado como fiadores, depositarios, o en cualquiera otra forma;
 
 VII.- Las pólizas originales de contratos celebrados con intervención de corredor público;
 
-VIII.- El juicio uniforme de contadores, si las partes ante el juez o por escritura pública, o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado;
+VIII.- El juicio uniforme de contadores, si las partes ante el Juez o por escritura pública, o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
 
-IX.- Los convenios celebrados por las partes ante la Procuraduría General de Justicia del Estado, ante la Procuraduría para la Defensa de los Derechos de los Menores y la Familia, antes los juzgados de Primera Instancia del Ramo Penal o ante los Juzgados Penales de Paz.
+IX.- Los convenios celebrados por las partes ante la Procuraduría General de Justicia del Estado, ante la Procuraduría para la Defensa de los Derechos de los Menores y la Familia, ante los juzgados de Primera Instancia del Ramo Penal o ante los Juzgados Penales de Paz.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
 
@@ -3149,11 +3147,11 @@ ART. 441.- Las obligaciones sujetas a condición suspensiva o a plazo no serán 
 
 ART. 442.- Si el título ejecutivo contiene obligación de hacer, se observarán las reglas siguientes:
 
-I.- Si el actor exige la prestación del hecho por el obligado o por un tercero conforme al artículo 1939 del Código Civil, el juez, atendidas las circunstancias del hecho, señalará un término prudente para que se cumpla la obligación;
+I.- Si el actor exige la prestación del hecho por el obligado o por un tercero conforme al artículo 1939 del Código Civil, el Juez, atendidas las circunstancias del hecho, señalará un término prudente para que se cumpla la obligación;
 
 II.- Si en el contrato se estableció alguna pena, por el importe de ésta, se decretará la ejecución;
 
-III.- Si no se fijó la pena, el importe de los daños y perjuicios será fijado por el actor cuando transcurrido el plazo para la prestación del hecho por el obligado mismo, el demandante optare por el resarcimiento de daños y perjuicios; en este caso, el juez debe moderar prudentemente la cantidad señalada;
+III.- Si no se fijó la pena, el importe de los daños y perjuicios será fijado por el actor cuando transcurrido el plazo para la prestación del hecho por el obligado mismo, el demandante optare por el resarcimiento de daños y perjuicios; en este caso, el Juez debe moderar prudentemente la cantidad señalada;
 
 IV.- Hecho el acto por el tercero, o efectuado el embargo por los daños y perjuicios o la pena, puede oponerse el demandado, de la misma manera que en las demás ejecuciones.
 
@@ -3165,7 +3163,7 @@ I.- Si no se designa la calidad de la cosa y existieren de varias clases en pode
 
 II.- Si hubiere sólo calidades diferentes a la estipulada, se embargarán si así lo pidiere el actor, sin perjuicio de que en la sentencia definitiva se hagan los abonos recíprocos correspondientes;
 
-III.- Si no hubiere en poder del demandado ninguna calidad, se despachará ejecución por la cantidad de dinero que señale el actor, debiendo prudentemente moderarla el juez, de acuerdo con los precios corrientes en plaza, sin perjuicio de lo que señale por daños y perjuicios, moderables también.
+III.- Si no hubiere en poder del demandado ninguna calidad, se despachará ejecución por la cantidad de dinero que señale el actor, debiendo prudentemente moderarla el Juez, de acuerdo con los precios corrientes en plaza, sin perjuicio de lo que señale por daños y perjuicios, moderables también.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3245,7 +3243,7 @@ ART. 453.- Si el título ejecutivo contiene obligaciones recíprocas, la parte q
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 454.- El contrato de compraventa concertado bajo la condición resolutoria de la falta de pago del precio total o parcial, da lugar a la acción ejecutiva para recuperar la cosa vendida, si el acreedor consigna las prestaciones recibidas del demandado, con la reducción correspondiente al demérito de la cosa, calculado en el contrato o prudentemente por el juez.
+ART. 454.- El contrato de compraventa concertado bajo la condición resolutoria de la falta de pago del precio total o parcial, da lugar a la acción ejecutiva para recuperar la cosa vendida, si el acreedor consigna las prestaciones recibidas del demandado, con la reducción correspondiente al demérito de la cosa, calculado en el contrato o prudentemente por el Juez.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3263,7 +3261,7 @@ ART. 456.- Para que procedan en vía ejecutiva las acciones a que se refieren lo
 
 ART. 457.- Se tramitará en la vía especial hipotecaria todo juicio que tenga por objeto el pago o prelación de un crédito garantizado por hipoteca, sin importar la naturaleza jurídica de dicho crédito, ni la materia que lo regula.
 
-Para que el juicio se siga según las reglas del presente Capítulo, es requisito indispensable que el contrato de hipoteca conste en escritura pública o documento privado, según corresponda, que éste inscrito en el Registro Público de la Propiedad y que sea de plazo cumplido, o que éste sea exigible en los términos pactados, o bien conforme a las disposiciones legales aplicables.
+Para que el juicio se siga según las reglas del presente Capítulo, es requisito indispensable que el contrato de hipoteca conste en escritura pública o documento privado, según corresponda, que esté inscrito en el Registro Público de la Propiedad y que sea de plazo cumplido, o que éste sea exigible en los términos pactados, o bien conforme a las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -3277,9 +3275,9 @@ III.- No exista embargo o gravamen a favor de tercero, inscrito cuando menos nov
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-ART. 459.- Presentado el escrito de demanda, acompañado del instrumento respectivo, y del certificado de gravámenes correspondiente, el Juez, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, admitirá la misma señalando fecha para la audiencia de ley, la que deberá celebrarse dentro de los treinta días hábiles siguientes, mandará inscribir la demanda en el Registro público de la Propiedad y que se emplace al deudor, para que dentro del término de cinco días, ocurra a contestarla y a oponer las excepciones que no podrán ser otras que:
+ART. 459.- Presentado el escrito de demanda, acompañado del instrumento respectivo, y del certificado de gravámenes correspondiente, el Juez, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, admitirá la misma señalando fecha para la audiencia de ley, la que deberá celebrarse dentro de los treinta días hábiles siguientes, mandará inscribir la demanda en el Registro Público de la Propiedad y que se emplace al deudor, para que dentro del término de cinco días, ocurra a contestarla y a oponer las excepciones que no podrán ser otras que:
 
-I.- Las fundadas en que el demandado no hay firmado el documento base de la acción, su alteración o la de falsedad del mismo;
+I.- Las fundadas en que el demandado no haya firmado el documento base de la acción, su alteración o la de falsedad del mismo;
 
 II.- La falta de representación, de poder bastante o facultades legales de quien haya suscrito en representación del demandado el documento base de la acción;
 
@@ -3309,7 +3307,7 @@ Las excepciones comprendidas en las fracciones de la IV a la VI, y de la VIII a 
 
 Para la admisión de las excepciones de litispendencia y conexidad de causa, deberá exhibirse con la contestación las copias selladas de la demanda y contestación de ésta; o en su caso, las copias de las cédulas de emplazamiento del juicio pendiente o conexo, la copia sellada del escrito en que solicita la expedición del documento respectivo, o bien, la documentación que acredite que se encuentra tramitando un procedimiento arbitral.
 
-El Juez bajo su más estricta responsabilidad revisará escrupulosamente la contestación de la demanda y desechará de plano aquellas excepciones en las que sea necesario exhibir documento y el mismo no se acompañe; salvo los caos (sic) a los que se refieren los artículos 96 y 97 de este Código.
+El Juez bajo su más estricta responsabilidad revisará escrupulosamente la contestación de la demanda y desechará de plano aquellas excepciones en las que sea necesario exhibir documento y el mismo no se acompañe; salvo los casos a los que se refieren los artículos 96 y 97 de este Código.
 
 La reconvención sólo será procedente cuando se funde en el mismo documento base de la acción. En cualquier otro caso se desechará de plano.
 
@@ -3337,7 +3335,7 @@ ART. 462.- Si en el título con base al cual se ejercita una acción hipotecaria
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-ART. 463.- La demanda se inscribirá en el Registro Público de la Propiedad, a cuyo efecto el actor exhibirá un tanto más de su escrito de demanda, documentos base de la acción y en su caso, de aquellos con que justifique su representación para que, previo cotejo con sus originales se certifiquen por el Secretario, haciendo constar que se expiden para que la parte interesada inscriba su demanda, a quien se le entregarán para tal fin debiendo hacer las gestiones conducentes en la oficina registradora correspondiente, acreditándolo en su oportunidad al juzgado.
+ART. 463.- La demanda se inscribirá en el Registro Público de la Propiedad, a cuyo efecto el actor exhibirá un tanto más de su escrito de demanda, documentos base de la acción y en su caso, de aquellos con que justifique su representación para que, previo cotejo con sus originales se certifiquen por el Secretario, haciendo constar que se expiden para que la parte interesada inscriba su demanda, a quien se le entregarán para tal fin debiendo hacer las gestiones conducentes en la oficina registradora correspondiente, acreditándolo en su oportunidad al Juzgado.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -3415,9 +3413,9 @@ ART. 474.- En el caso previsto en el segundo párrafo del artículo 2783 del Có
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 475.- El juicio de desahucio procede cuando se exige la desocupación de una finca o local por falta de pago de dos o mas mensualidades de renta.
+ART. 475.- El juicio de desahucio procede cuando se exige la desocupación de una finca o local por falta de pago de dos o más mensualidades de renta.
 
-Con la demanda se acompañará el contrato escrito del arrendamiento, cuando ello fuera necesario para la validez del acto conforme a Código Civil. En caso de no ser necesario contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documentos, o este se haya extraviado o destruido, se justificarán estas circunstancias por medio de información testimonial, prueba documental o cualquiera otra bastante, que se recibirá como medio preparatorio del jucio (sic).
+Con la demanda se acompañará el contrato escrito del arrendamiento, cuando ello fuera necesario para la validez del acto conforme a Código Civil. En caso de no ser necesario contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documentos, o este se haya extraviado o destruido, se justificarán estas circunstancias por medio de información testimonial, prueba documental o cualquiera otra bastante, que se recibirá como medio preparatorio del juicio.
 
 Simultáneamente con el desahucio podrá reclamarse el pago de las rentas vencidas y de las que se sigan venciendo hasta que tenga verificativo el lanzamiento.
 
@@ -3439,9 +3437,9 @@ Si se exhibieren copias de escrito de ofrecimiento de pago, se pedirán los orig
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 478.- Cuando durante el plazo fijado para el desahucio exhiba el inquilino el recibo de las pensiones debidas o el importe de ellas, dará el juez por terminada la providencia de lanzamiento, sin condenación en costas.
+ART. 478.- Cuando durante el plazo fijado para el desahucio exhiba el inquilino el recibo de las pensiones debidas o el importe de ellas, dará el Juez por terminada la providencia de lanzamiento, sin condenación en costas.
 
-Si el recibo presentado es de fecha posterior, o la exhibición del importe de las pensiones se hace fuera del término señalado para el desahucio, también se dará por concluida la providencia de lanzamiento, pero se condenará al inquilino al pago de las costas causadas.
+Si el recibo presentado es de fecha posterior, o la exhibición del importe de las pensiones se hace fuera del término señalado para el deshaucio (sic), también se dará por concluida la providencia de lanzamiento, pero se condenará al inquilino al pago de las costas causadas.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3505,15 +3503,15 @@ Esta disposición será aplicable en la ejecución de convenios celebrados ante 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 487.- La ejecución de sentencia que haya causado ejecutoria o que deba llevarse adelante por estar otorgada ya la fianza correspondiente, se hará por el juez que hubiere conocido del negocio en primera instancia.
+ART. 487.- La ejecución de sentencia que haya causado ejecutoria o que deba llevarse adelante por estar otorgada ya la fianza correspondiente, se hará por el Juez que hubiere conocido del negocio en primera instancia.
 
 La ejecución de los autos firmes, que resuelvan un incidente, queda a cargo del Juez que conozca del principal.
 
-La ejecución de los convenios celebrados en juicio, se hará por el juez que conozca del negocio en que tuvieron lugar, pero no procede en la vía de apremio, si no consta en escritura pública o judicialmente en autos.
+La ejecución de los convenios celebrados en juicio, se hará por el Juez que conozca del negocio en que tuvieron lugar, pero no procede en la vía de apremio, si no consta en escritura pública o judicialmente en autos.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 488.- Cuando las transacciones o los convenios se celebren en segunda instancia, serán ejecutados por el juez que conoció en la primera, a cuyo efecto el tribunal devolverá los autos al inferior, acompañándole testimonio del convenio.
+ART. 488.- Cuando las transacciones o los convenios se celebren en segunda instancia, serán ejecutados por el Juez que conoció en la primera, a cuyo efecto el tribunal devolverá los autos al inferior, acompañándole testimonio del convenio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3529,7 +3527,7 @@ ART. 491.- La ejecución de las sentencias y convenios en la vía ejecutiva, se 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 492.- Cuando se pida la ejecución de sentencia, el juez señalará al deudor el término improrrogable de cinco días para que la cumpla, si en ella no se hubiere fijado algún término para ese efecto.
+ART. 492.- Cuando se pida la ejecución de sentencia, el Juez señalará al deudor el término improrrogable de cinco días para que la cumpla, si en ella no se hubiere fijado algún término para ese efecto.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3537,7 +3535,7 @@ ART. 493.- Si la sentencia condenare al pago de cantidad líquida, se procederá
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 494.- Sólo hasta después de asegurados los bienes por medio del secuestro podrán tener efecto los términos de gracia concedidos por el juez o por la ley.
+ART. 494.- Sólo hasta después de asegurados los bienes por medio del secuestro podrán tener efecto los términos de gracia concedidos por el Juez o por la ley.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3567,7 +3565,7 @@ ART. 500.- Si la sentencia contuviere condena al pago de cantidad líquida y de 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 501.- Si la sentencia no contiene cantidad líquida, la parte a cuyo favor se pronunció, al promover la ejecución presentará su liquidación de la cual se dará vista por tres días a la parte condenada. Si ésta nada expusiere dentro del término fijado se decretará la ejecución por la cantidad que importe la liquidación; mas si expresare su inconformidad, se dará vista de las razones que alegue a la parte promovente por tres días y de lo que replique, por otros tres al deudor. El juez fallará dentro de igual término lo que estime justo. Esta resolución será apelable en el efecto devolutivo.
+ART. 501.- Si la sentencia no contiene cantidad líquida, la parte a cuyo favor se pronunció, al promover la ejecución presentará su liquidación de la cual se dará vista por tres días a la parte condenada. Si ésta nada expusiere dentro del término fijado se decretará la ejecución por la cantidad que importe la liquidación; mas si expresare su inconformidad, se dará vista de las razones que alegue a la parte promovente por tres días y de lo que replique, por otros tres al deudor. El Juez fallará dentro de igual término lo que estime justo. Esta resolución será apelable en el efecto devolutivo.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3577,23 +3575,23 @@ Lo mismo se practicará cuando la cantidad ilíquida proceda de frutos, rentas o
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 503.- Si la sentencia condena a hacer alguna cosa, el juez señalará, al que fue condenado, un plazo prudente para el cumplimiento, atendidas las circunstancias del hecho y de las personas.
+ART. 503.- Si la sentencia condena a hacer alguna cosa, el Juez señalará, al que fué condenado, un plazo prudente para el cumplimiento, atendidas las circunstancias del hecho y de las personas.
 
 Si pasado el plazo el obligado no cumpliere, se observarán las reglas siguientes:
 
 I.- Si el hecho fuere personal del obligado, y no pudiere presentarse por otro, se le compelerá empleando los medios de apremio más eficaces, sin perjuicio del derecho para exigirle la responsabilidad civil;
 
-II.- Si el hecho pudiere prestarse por otro, el juez nombrará persona que lo ejecute a costa del obligado, en el término que le fije;
+II.- Si el hecho pudiere prestarse por otro, el Juez nombrará persona que lo ejecute a costa del obligado, en el término que le fije;
 
-III.- Si el hecho consiste en el otorgamiento de algún instrumento o la celebración de un acto jurídico, el juez lo ejecutará por el obligado, expresándose en el documento, que se otorgó en rebeldía.
-
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
-ART. 504.- Si el ejecutante optare, en cualquiera de los casos enumerados en el artículo anterior, por el resarcimiento de daños y perjuicios, se procederá a embargar bienes del deudor por la cantidad que aquél señalare y que el juez podrá moderar prudentemente, sin perjuicio de que el deudor reclame sobre el monto. Esta reclamación se substanciará como el incidente de liquidación de sentencia.
+III.- Si el hecho consiste en el otorgamiento de algún instrumento o la celebración de un acto jurídico, el Juez lo ejecutará por el obligado, expresándose en el documento, que se otorgó en rebeldía.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 505.- Cuando la sentencia condena a rendir cuentas, el juez señalará un término prudente al obligado para que se rindan, e indicará también a quién deban de rendirse.
+ART. 504.- Si el ejecutante optare, en cualquiera de los casos enumerados en el artículo anterior, por el resarcimiento de daños y perjuicios, se procederá a embargar bienes del deudor por la cantidad que aquél señalare y que el Juez podrá moderar prudentemente, sin perjuicio de que el deudor reclame sobre el monto. Esta reclamación se substanciará como el incidente de liquidación de sentencia.
+
+(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+
+ART. 505.- Cuando la sentencia condena a rendir cuentas, el Juez señalará un término prudente al obligado para que se rindan, e indicará también a quién deban de rendirse.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3611,13 +3609,13 @@ La impugnación de algunas partidas no impide que se despache ejecución a solic
 
 ART. 508.- Si el obligado no rindiere cuentas en el plazo que se le señaló, puede el actor pedir que se despache ejecución contra el deudor, si durante el juicio comprobó que éste tuviera ingresos por la cantidad que éstos importaron. El obligado puede impugnar el monto de la ejecución, substanciándose el incidente en la misma forma a que se refiere el artículo anterior.
 
-En el mismo caso podrá el acreedor pedir al juez que, en vez de ejecutar al obligado, preste el hecho un tercero que el tribunal nombre al efecto.
+En el mismo caso podrá el acreedor pedir al Juez que, en vez de ejecutar al obligado, preste el hecho un tercero que el tribunal nombre al efecto.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 509.- Cuando la sentencia condene a dividir una cosa común y no dé las bases para ello, se convocara a los interesados a una junta para que, en la presencia judicial, determinen las bases de la partición o designen un partidor; y, si no se pusieren de acuerdo en una u otra cosa, el juez designará a persona que haga la partición y que sea perito en la materia, si fueren menester conocimientos especiales. Señalará a éste el término prudente para que presente el proyecto partitorio.
+ART. 509.- Cuando la sentencia condene a dividir una cosa común y no dé las bases para ello, se convocara a los interesados a una junta para que, en la presencia judicial, determinen las bases de la partición o designen un partidor; y, si no se pusieren de acuerdo en una u otra cosa, el Juez designará a persona que haga la partición y que sea perito en la materia, si fueren menester conocimientos especiales. Señalará a éste el término prudente para que presente el proyecto partitorio.
 
-Presentado el plan de partición, quedará en la secretaría a la vista de los interesados por seis días comunes, para que formulen las objeciones dentro de ese mismo tiempo y de las que se correrá traslado al partidor, y se substanciarán en la misma forma de los incidentes de liquidación de sentencia. El juez, al resolver, mandará hacer las adjudicaciones y extender las hijuelas con una breve relación de los antecedentes respectivos.
+Presentado el plan de partición, quedará en la secretaría a la vista de los interesados por seis días comunes, para que formulen las objeciones dentro de ese mismo tiempo y de las que se correrá traslado al partidor, y se substanciarán en la misma forma de los incidentes de liquidación de sentencia. El Juez, al resolver, mandará hacer las adjudicaciones y extender las hijuelas con una breve relación de los antecedentes respectivos.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3633,7 +3631,7 @@ En caso de no poderse entregar los bienes señalados en la sentencia, se despach
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 512.- Cuando la sentencia ordene la entrega de personas, el juez dictará las disposiciones más conducentes a que no quede frustrado lo fallado.
+ART. 512.- Cuando la sentencia ordene la entrega de personas, el Juez dictará las disposiciones más conducentes a que no quede frustrado lo fallado.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3649,7 +3647,7 @@ ART. 515.- La acción para pedir la ejecución de una sentencia, transacción o 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 516.- Cuando la sentencia pronunciada por un juez deba ser ejecutada por otro de diverso partido judicial, pero sujeto al mismo tribunal superior, bastará simple oficio.
+ART. 516.- Cuando la sentencia pronunciada por un Juez deba ser ejecutada por otro de diverso partido judicial, pero sujeto al mismo tribunal superior, bastará simple oficio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3683,7 +3681,7 @@ Verificado de cualquiera de los modos indicados el requerimiento, se procederá 
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 522.- El derecho de designar los bienes que han de embargarse corresponde al deudor; y sólo que éste se rehusé a hacerlo o que esté ausente, podrá ejercerlo el actor o su representante; pero cualquiera de ellos se sujetará al siguiente orden: 1o.- Los bienes consignados como garantía de la obligación que se reclaman; 2o.- Dinero; 3o.- Créditos realizados en el acto; 4o.- Alhajas; 5o.- Frutos y rentas de toda especie; 6o.- Bienes muebles no comprendidos en las fracciones anteriores; 7o.- Bienes raíces; 8o.- Sueldos o comisiones; 9o.- Créditos.
+ART. 522.- El derecho de designar los bienes que han de embargarse corresponde al deudor; y sólo que éste se rehuse a hacerlo o que esté ausente, podrá ejercerlo el actor o su representante; pero cualquiera de ellos se sujetará al siguiente orden: 1o.- Los bienes consignados como garantía de la obligación que se reclaman; 2o.- Dinero; 3o.- Créditos realizados en el acto; 4o.- Alhajas; 5o.- Frutos y rentas de toda especie; 6o.- Bienes muebles no comprendidos en las fracciones anteriores; 7o.- Bienes raíces; 8o.- Sueldos o comisiones; 9o.- Créditos.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3701,7 +3699,7 @@ ART. 524.- El embargo sólo subsiste en cuanto los bienes que fueron objeto de �
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 525.- Cualquiera dificultad suscitada en la diligencia de embargo no la impedirá ni suspenderá; el actuario la allanará prudentemente, a reserva de lo que determine el juez.
+ART. 525.- Cualquiera dificultad suscitada en la diligencia de embargo no la impedirá ni suspenderá; el actuario la allanará prudentemente, a reserva de lo que determine el Juez.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3711,7 +3709,7 @@ ART. 526.- Cuando practicado el remate de los bienes consignados en garantía no
 
 ART. 527.- Podrá pedirse la ampliación de embargo:
 
-I.- En cualquier caso en que, a juicio del juez, no basten los bienes secuestrados para cubrir la deuda y las costas;
+I.- En cualquier caso en que, a juicio del Juez, no basten los bienes secuestrados para cubrir la deuda y las costas;
 
 II.- Si el bien secuestrado que se sacó a remate dejare de cubrir el importe de lo reclamado a consecuencia de las retasas que sufriere, o si transcurrido un año desde la remisión, tratándose de muebles, no se hubiere obtenido su venta;
 
@@ -3747,13 +3745,13 @@ II.- El lecho cotidiano, los vestidos y los muebles del uso ordinario del deudor
 
 III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
 
-IV.- La maquinaria, instrumentos y animales propios para el cultivo agrícola, en cuanto fueren necesarios para el servicio de la finca a que estén destinados, a juicio del juez, a cuyo efecto oirá el informe de un perito nombrado por él;
+IV.- La maquinaria, instrumentos y animales propios para el cultivo agrícola, en cuanto fueren necesarios para el servicio de la finca a que estén destinados, a juicio del Juez, a cuyo efecto oirá el informe de un perito nombrado por él;
 
 V.- Los libros, aparatos, instrumentos y útiles de las personas que ejerzan o se dediquen al estudio de profesiones liberales;
 
 VI.- Las armas y caballos que los militares en servicio activo usen, indispensables para éste, conforme a las leyes relativas;
 
-VII.- Los efectos, maquinaria e instrumentos propios para el fomento y giro de las negociaciones mercantiles o industriales, en cuanto fueren necesarios para su servicio y movimiento, a juicio del juez, a cuyo efecto oirá el dictamen de un perito nombrado por él, pero podrán ser intervenidos juntamente con la negociación a que estén destinados;
+VII.- Los efectos, maquinaria e instrumentos propios para el fomento y giro de las negociaciones mercantiles o industriales, en cuanto fueren necesarios para su servicio y movimiento, a juicio del Juez, a cuyo efecto oirá el dictamen de un perito nombrado por él, pero podrán ser intervenidos juntamente con la negociación a que estén destinados;
 
 VIII.- Las mieses antes de ser cosechadas, pero no los derechos sobre las siembras;
 
@@ -3773,7 +3771,7 @@ XV.- Los ejidos de los pueblos y la parcela individual que en su fraccionamiento
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 531.- El deudor sujeto a patria potestad o a tutela, el que estuviere físicamente impedido para trabajar y el que sin culpa carezca de bienes o de profesión u oficio, tendrá alimentos que el juez fijará, atendidas la importancia de la demanda y de los bienes y las circunstancias del demandado.
+ART. 531.- El deudor sujeto a patria potestad o a tutela, el que estuviere físicamente impedido para trabajar y el que sin culpa carezca de bienes o de profesión u oficio, tendrá alimentos que el Juez fijará, atendidas la importancia de la demanda y de los bienes y las circunstancias del demandado.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3785,23 +3783,23 @@ ART. 533.- Cuando se aseguren créditos, el secuestro se reducirá a notificar a
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 534.- Si los créditos a que se refiere el artículo anterior fueren litigiosos, la providencia de secuestro se notificará al juez de los autos respectivos, dándole a conocer al depositario nombrado a fin de que éste pueda sin obstáculo alguno desempeñar las obligaciones que le impone la parte final del artículo anterior.
+ART. 534.- Si los créditos a que se refiere el artículo anterior fueren litigiosos, la providencia de secuestro se notificará al Juez de los autos respectivos, dándole a conocer al depositario nombrado a fin de que éste pueda sin obstáculo alguno desempeñar las obligaciones que le impone la parte final del artículo anterior.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 535.- Recayendo el secuestro sobre bienes muebles que no sean dinero, alhajas, ni créditos, el depositario que se nombre sólo tendrá el carácter de simple custodio de los objetos puestos a su cuidado, los que conservará a disposición del juez respectivo. Si los muebles fueren fructíferos, rendirá cuenta en los términos del artículo 543.
+ART. 535.- Recayendo el secuestro sobre bienes muebles que no sean dinero, alhajas, ni créditos, el depositario que se nombre sólo tendrá el carácter de simple custodio de los objetos puestos a su cuidado, los que conservará a disposición del Juez respectivo. Si los muebles fueren fructíferos, rendirá cuenta en los términos del artículo 543.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 536.- El depositario, en el caso del artículo anterior, pondrá en conocimiento del juzgado el lugar en que quede constituído el depósito, y recabará la autorización para hacer, en caso necesario, los gastos de almacenaje. Si no pudiere el depositario hacer los gastos que demande el depósito, pondrá esta circunstancia en conocimiento del juez para que éste, oyendo a las partes en una junta que se celebrará dentro de tres días, decrete el modo de hacer los gastos, según en la junta se acordare, o en caso de no haber acuerdo, imponiendo esa obligación al que obtuvo la providencia de secuestro.
+ART. 536.- El depositario, en el caso del artículo anterior, pondrá en conocimiento del juzgado el lugar en que quede constituído el depósito, y recabará la autorización para hacer, en caso necesario, los gastos de almacenaje. Si no pudiere el depositario hacer los gastos que demande el depósito, pondrá esta circunstancia en conocimiento del Juez para que éste, oyendo a las partes en una junta que se celebrará dentro de tres días, decrete el modo de hacer los gastos, según en la junta se acordare, o en caso de no haber acuerdo, imponiendo esa obligación al que obtuvo la providencia de secuestro.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 537.- Si los muebles depositados fueren cosas fungibles, el depositario tendrá además, la obligación de imponerse del precio que en la plaza tengan los efectos confiados a su guarda, a fin de que si encuentra ocasión favorable para la venta, lo ponga, desde luego, en conocimiento del juez, con objeto de que éste determine lo que fuere conveniente.
+ART. 537.- Si los muebles depositados fueren cosas fungibles, el depositario tendrá además, la obligación de imponerse del precio que en la plaza tengan los efectos confiados a su guarda, a fin de que si encuentra ocasión favorable para la venta, lo ponga, desde luego, en conocimiento del Juez, con objeto de que éste determine lo que fuere conveniente.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 538.- Si los muebles depositados fueren cosas fáciles de deteriorarse o demeritarse, el depositario deberá examinar frecuentemente su estado y poner en conocimientos del juez el deterioro o demérito que en ellos observe o tema fundamentalmente que sobrevenga, a fin de que éste dicte el remedio oportuno para evitar el mal, o acuerde su venta con las mejores condiciones, en vista de los precios de plaza y del demérito que hayan sufrido o estén expuestos a sufrir los objetos secuestrados.
+ART. 538.- Si los muebles depositados fueren cosas fáciles de deteriorarse o demeritarse, el depositario deberá examinar frecuentemente su estado y poner en conocimientos del Juez el deterioro o demérito que en ellos observe o tema fundamentalmente que sobrevenga, a fin de que éste dicte el remedio oportuno para evitar el mal, o acuerde su venta con las mejores condiciones, en vista de los precios de plaza y del demérito que hayan sufrido o estén expuestos a sufrir los objetos secuestrados.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3815,13 +3813,13 @@ II.- Recaudará las pensiones que por arrendamiento rinda la finca, en sus térm
 
 III.- Hará, sin previa autorización, los gastos ordinarios de la finca, como el pago de contribuciones y los de mera conservación, servicio y aseo, no siendo excesivo su monto, cuyos gastos incluirá en la cuenta mensual de que después se hablará;
 
-IV.- Para hacer los gastos de reparación o de construcción, ocurrirá al juez solicitando la licencia para ello, y acompañando, al efecto, los presupuestos respectivos;
+IV.- Para hacer los gastos de reparación o de construcción, ocurrirá al Juez solicitando la licencia para ello, y acompañando, al efecto, los presupuestos respectivos;
 
 V.- Pagará, previa autorización judicial, los réditos de los gravámenes reconocidos sobre la finca.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 540.- Pedida la autorización a que se refiere la fracción IV del artículo anterior, el juez citará a una audiencia que se verificará dentro de tres días para que las partes, en vista de los documentos que se acompañan, resuelvan de común acuerdo, si se autoriza o no el gasto. No lográndose el acuerdo, el juez dictará la resolución que corresponda.
+ART. 540.- Pedida la autorización a que se refiere la fracción IV del artículo anterior, el Juez citará a una audiencia que se verificará dentro de tres días para que las partes, en vista de los documentos que se acompañan, resuelvan de común acuerdo, si se autoriza o no el gasto. No lográndose el acuerdo, el Juez dictará la resolución que corresponda.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3839,11 +3837,11 @@ V.- Ministrará los fondos para los gastos de la negociación o finca rústica y
 
 VI.- Depositará el dinero que resultare sobrante, después de cubiertos los gastos necesarios y ordinarios, como se previene en el artículo 529;
 
-VII.- Tomará provisionalmente las medidas que la prudencia aconseje para evitar los abusos y malos manejos en los administradores, dando inmediatamente cuenta al juez para su ratificación y, en su caso, para que determine lo conducente a remediar el mal.
+VII.- Tomará provisionalmente las medidas que la prudencia aconseje para evitar los abusos y malos manejos en los administradores, dando inmediatamente cuenta al Juez para su ratificación y, en su caso, para que determine lo conducente a remediar el mal.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 542.- Si en el cumplimiento de los deberes que el artículo anterior impone al interventor, éste encontrare que la administración no se hace convenientemente, o puede perjudicar los derechos del que pidió y obtuvo el secuestro, lo pondrá en conocimiento del juez, para que, oyendo a las partes y al interventor, determine lo conveniente.
+ART. 542.- Si en el cumplimiento de los deberes que el artículo anterior impone al interventor, éste encontrare que la administración no se hace convenientemente, o puede perjudicar los derechos del que pidió y obtuvo el secuestro, lo pondrá en conocimiento del Juez, para que, oyendo a las partes y al interventor, determine lo conveniente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3851,13 +3849,13 @@ ART. 543.- Los que tengan administración o intervención, presentarán al juzga
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 544.- El juez con audiencia de las partes aprobará o reprobará la cuenta mensual y determinará los fondos que deban quedar para los gastos necesarios, mandando depositar el sobrante líquido. Los incidentes relativos al depósito y a las cuentas se seguirán por cuerda separada.
+ART. 544.- El Juez con audiencia de las partes aprobará o reprobará la cuenta mensual y determinará los fondos que deban quedar para los gastos necesarios, mandando depositar el sobrante líquido. Los incidentes relativos al depósito y a las cuentas se seguirán por cuerda separada.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 545.- Será removido de plano el depositario en los siguientes casos: 1o.- Si dejare de rendir cuenta mensual o la presentada no fuere aprobada; 2o.- Cuando no haya manifestado su domicilio o el cambio de éste; 3o.- Cuando tratándose de bienes muebles no pusiere en conocimiento del juzgado, dentro de las cuarenta y ocho horas que sigan a la entrega, el lugar en donde quede constituido el depósito.
+ART. 545.- Será removido de plano el depositario en los siguientes casos: 1o.- Si dejare de rendir cuenta mensual o la presentada no fuere aprobada; 2o.- Cuando no haya manifestado su domicilio o el cambio de éste; 3o.- Cuando tratándose de bienes muebles no pusiere en conocimiento del juzgado, dentro de las cuarenta y ocho horas que sigan a la entrega, el lugar en donde quede constituído el depósito.
 
-Si el removido fuere el deudor, el ejecutante nombrará nuevo depositario. Si lo fuere el acreedor o la persona por él nombrada, la nueva elección se hará por el juez.
+Si el removido fuere el deudor, el ejecutante nombrará nuevo depositario. Si lo fuere el acreedor o la persona por él nombrada, la nueva elección se hará por el Juez.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3871,7 +3869,7 @@ ART. 547.- Los depositarios e interventores percibirán por honorario el que les
 
 ART. 548.- Al ejecutarse las sentencias se formará la sección de ejecución y se integrará con el mandamiento de embargo, los incidentes relativos a ampliación y reducción del mismo, los de venta y remate de los bienes secuestrados, nombramientos, remociones y remuneraciones de peritos y depositarios y, en general, lo que comprenda la sección de ejecución en los juicios ejecutivos e hipotecarios, así como en las providencias precautorias.
 
-Los incidentes de liquidación de sentencia, rendición de cuentas y determinación de daños y perjuicios se seguirán en el cuaderno principal, y de ellos conocerá el juez, así como del auto aprobatorio del remate.
+Los incidentes de liquidación de sentencia, rendición de cuentas y determinación de daños y perjuicios se seguirán en el cuaderno principal, y de ellos conocerá el Juez, así como del auto aprobatorio del remate.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3887,7 +3885,7 @@ ART. 550.- Toda venta que conforme a la ley deba de hacerse en subasta o almoned
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 551.- Todo remate de bienes raíces será público y deberá celebrarse en el juzgado en que actúe el juez que fuere competente para la ejecución.
+ART. 551.- Todo remate de bienes raíces será público y deberá celebrarse en el juzgado en que actúe el Juez que fuere competente para la ejecución.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3901,7 +3899,7 @@ ART. 553.- Si del certificado aparecieren gravámenes, con la oportunidad debida
 
 ART. 554.- Los acreedores citados conforme al artículo anterior, tendrán derecho:
 
-I.- Para intervenir en el acto del remate, pudiendo hacer al juez las observaciones que estimen oportunas para garantizar sus derechos;
+I.- Para intervenir en el acto del remate, pudiendo hacer al Juez las observaciones que estimen oportunas para garantizar sus derechos;
 
 II.- Para recurrir el auto de aprobación del remate, en su caso, y
 
@@ -3921,7 +3919,7 @@ ART. 555.- El avalúo se practicará de acuerdo con las reglas establecidas para
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 556.- Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por dos veces, de siete en siete días, fijándose edictos en los sitios públicos de costumbre, y, si el valor de la cosa pasare de cinco mil pesos, se insertarán aquéllos en un periódico de información. A petición de cualquiera de las partes y a su costa, el juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
+ART. 556.- Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por dos veces, de siete en siete días, fijándose edictos en los sitios públicos de costumbre, y, si el valor de la cosa pasare de cinco mil pesos, se insertarán aquéllos en un periódico de información. A petición de cualquiera de las partes y a su costa, el Juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
@@ -3929,7 +3927,7 @@ ART. 557.- Antes de fincarse el remate, podrá el deudor librar sus bienes pagan
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 558.- Si los bienes raíces estuvieren situados en diversos lugares, en todos éstos se publicarán los edictos en los sitios de costumbre y en las puertas de los juzgados respectivos. En el caso a que este artículo se refiere, se ampliará el término de los edictos, concediéndose un día más por cada cuarenta kilómetros o por una fracción que exceda de la mitad, y se calculará para designarlo la distancia mayor a que se hallen los bienes. Puede el juez usar, además de los dichos, algún otro medio de publicidad para llamar postores.
+ART. 558.- Si los bienes raíces estuvieren situados en diversos lugares, en todos éstos se publicarán los edictos en los sitios de costumbre y en las puertas de los juzgados respectivos. En el caso a que este artículo se refiere, se ampliará el término de los edictos, concendiéndose (sic) un día más por cada cuarenta kilómetros o por una fracción que exceda de la mitad, y se calculará para designarlo la distancia mayor a que se hallen los bienes. Puede el Juez usar, además de los dichos, algún otro medio de publicidad para llamar postores.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3959,17 +3957,17 @@ ART. 563.- Desde que se anuncie el remate y durante éste, se pondrán de manifi
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 564.- El juez que ejecuta decidirá de plano cualquiera cuestión que se suscite durante la subasta, y de sus resoluciones no se dará más recurso que el de responsabilidad, a menos que la ley disponga otra cosa.
+ART. 564.- El Juez que ejecuta decidirá de plano cualquiera cuestión que se suscite durante la subasta, y de sus resoluciones no se dará más recurso que el de responsabilidad, a menos que la ley disponga otra cosa.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 565.- El día del remate, a la hora señalada, pasará el juez personalmente lista de los postores presentados, y concederá media hora para admitir a los que de nuevo se presenten. Concluída la media hora, el juez declarará que va a procederse al remate y ya no admitirá nuevos postores. Enseguida revisará las propuestas presentadas, desechando, desde luego, las que no tengan postura legal y las que no estuvieren acompañadas del billete de depósito a que se refiere el artículo 560.
+ART. 565.- El día del remate, a la hora señalada, pasará el Juez personalmente lista de los postores presentados, y concederá media hora para admitir a los que de nuevo se presenten. Concluída la media hora, el Juez declarará que va a procederse al remate y ya no admitirá nuevos postores. En seguida revisará las propuestas presentadas, desechando, desde luego, las que no tengan postura legal y las que no estuvieren acompañadas del billete de depósito a que se refiere el artículo 560.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 566.- Calificadas de buenas las posturas, el juez las leerá en alta voz por sí mismo o mandará darles lectura por la secretaría, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, el juez decidirá cuál sea la preferente.
+ART. 566.- Calificadas de buenas las posturas, el Juez las leerá en alta voz por sí mismo o mandará darles lectura por la secretaría, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, el Juez decidirá cuál sea la preferente.
 
-Hecha la declaración de la postura considerada preferente, el juez preguntará si alguno de los licitadores la mejora. En caso de que alguno la mejore, dentro de los cinco minutos que sigan a la pregunta, interrogará de nuevo si algún postor puja la mejora; y así sucesivamente con respecto a las pujas que se hagan. En cualquier momento en que, pasados cinco minutos de hecha la pregunta correspondiente, no se mejorare la última postura o puja, declarará el tribunal fincado el remate en favor del postor que hubiere hecho aquélla.
+Hecha la declaración de la postura considerada preferente, el Juez preguntará si alguno de los licitadores la mejora. En caso de que alguno la mejore, dentro de los cinco minutos que sigan a la pregunta, interrogará de nuevo si algún postor puja la mejora; y así sucesivamente con respecto a las pujas que se hagan. En cualquier momento en que, pasados cinco minutos de hecha la pregunta correspondiente, no se mejorare la última postura o puja, declarará el tribunal fincado el remate en favor del postor que hubiere hecho aquella.
 
 ART. 567.- (DEROGADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3997,7 +3995,7 @@ Los postores a que se refiere este artículo cumplirán con el requisito previo 
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 571.- Cuando dentro del término expresado en el artículo anterior se mejore la postura, el juez mandará abrir nueva licitación entre los dos postores, citándose dentro de tercer día para que en su presencia hagan las pujas, y adjudicará la finca al que hiciere la proposición más ventajosa.
+ART. 571.- Cuando dentro del término expresado en el artículo anterior se mejore la postura, el Juez mandando abrir nueva licitación entre los dos postores, citándose dentro del tercer día para que en su presencia hagan las pujas, y adjudicará la finca al que hiciere la proposición más ventajosa.
 
 Si el primer postor, en vista de la mejora hecha por el segundo, manifestare que renuncia a sus derechos, o no se presentare a la licitación, se fincará en favor del segundo. Lo mismo se hará con el primero, si el segundo no se presenta a la licitación.
 
@@ -4007,7 +4005,7 @@ ART. 572.- Si en la tercera subasta se hiciere postura admisible en cuanto al pr
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 573.- Cualquiera liquidación que tenga que hacerse de los gravámenes que afecten a los inmuebles vendidos, gastos de la ejecución y demás, se regulará por el juez con un escrito de cada parte y resolución dentro del tercer día.
+ART. 573.- Cualquiera liquidación que tenga que hacerse de los gravámenes que afecten a los inmuebles vendidos, gastos de la ejecución y demás, se regulará por el Juez con un escrito de cada parte y resolución dentro del tercer día.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
@@ -4095,19 +4093,19 @@ De la ejecución de las sentencias y demás resoluciones dictadas por los tribun
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 585.- El juez ejecutor que reciba exhorto con las inserciones necesarias, conforme a derecho para la ejecución de una sentencia u otra resolución judicial, cumplirá con lo que disponga el juez requirente, siempre que lo que haya de ejecutarse no fuere contrario a las leyes del Estado.
+ART. 585.- El Juez ejecutor que reciba exhorto con las inserciones necesarias, conforme a derecho para la ejecución de una sentencia u otra resolución judicial, cumplirá con lo que disponga el Juez requirente, siempre que lo que haya de ejecutarse no fuere contrario a las leyes del Estado.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 586.- Los jueces ejecutores no podrán oír ni conocer de excepciones, cuando fueren opuestas por alguna de las partes que litigan ante el juez requirente, salvo el caso de competencia legalmente interpuesta por alguno de los interesados.
+ART. 586.- Los jueces ejecutores no podrán oír ni conocer de excepciones, cuando fueren opuestas por alguna de las partes que litigan ante el Juez requirente, salvo el caso de competencia legalmente interpuesta por alguno de los interesados.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 587.- Si al ejecutar los autos insertos en las requisitorias, se opusiere algún tercero, el juez ejecutor oirá sumariamente y calificará las excepciones opuestas, conforme a las reglas siguientes:
+ART. 587.- Si al ejecutar los autos insertos en las requisitorias, se opusiere algún tercero, el Juez ejecutor oirá sumariamente y calificará las excepciones opuestas, conforme a las reglas siguientes:
 
-I.- Cuando un tercero que no hubiere sido oído por el juez requirente y poseyere en nombre propio la cosa en que debe ejecutarse la sentencia, no se llevará adelante la ejecución, devolviéndose el exhorto con inserción del auto en que se dictare esa resolución y de las constancias en que se haya fundado;
+I.- Cuando un tercero que no hubiere sido oído por el Juez requirente y poseyere en nombre propio la cosa en que debe ejecutarse la sentencia, no se llevará adelante la ejecución, devolviéndose el exhorto con inserción del auto en que se dictare esa resolución y de las constancias en que se haya fundado;
 
-II.- Si el tercer opositor que se presente ante el juez requerido, no probare que posee con cualquier título traslativo de dominio la cosa sobre que verse la ejecución del auto inserto en la requisitoria, será condenado a satisfacer las costas, daños y perjuicios a quien se los hubiere ocasionado. Contra esta resolución sólo se da el recurso de queja.
+II.- Si el tercer opositor que se presente ante el Juez requerido, no probare que posee con cualquier título traslativo de dominio la cosa sobre que verse la ejecución del auto inserto en la requisitoria, será condenado a satisfacer las costas, daños y perjuicios a quien se los hubiere ocasionado. Contra esta resolución sólo se da el recurso de queja.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4123,7 +4121,7 @@ IV.- Siempre que la parte condenada haya sido emplazada personalmente para ocurr
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 589.- El juez que reciba despacho u orden de su superior para ejecutar cualquiera diligencia, es mero ejecutor y, en consecuencia, no dará curso a ninguna excepción que opongan los interesados, y se tomará simplemente razón de sus respuestas en el expediente, antes de devolverlo.
+ART. 589.- El Juez que reciba despacho u orden de su superior para ejecutar cualquiera diligencia, es mero ejecutor y, en consecuencia, no dará curso a ninguna excepción que opongan los interesados, y se tomará simplemente razón de sus respuestas en el expediente, antes de devolverlo.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4147,7 +4145,7 @@ VI.- Que llenen los requisitos necesarios para ser consideradas como auténticas
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 592.- Es competente para ejecutar una sentencia dictada en el extranjero el juez que lo sería para seguir el juicio en que se dictó, conforme al título tercero.
+ART. 592.- Es competente para ejecutar una sentencia dictada en el extranjero el Juez que lo sería para seguir el juicio en que se dictó, conforme al título tercero.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4179,7 +4177,7 @@ El compromiso posterior a la sentencia irrevocable, sólo tendrá lugar si los i
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 597.- El compromiso puede celebrarse por escritura pública, por escritura privada o en acta ante el juez, cualquiera que sea la cuantía.
+ART. 597.- El compromiso puede celebrarse por escritura pública, por escritura privada o en acta ante el Juez, cualquiera que sea la cuantía.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4209,7 +4207,7 @@ III.- Las acciones de nulidad de matrimonio;
 
 IV.- Las concernientes al estado civil de las personas, con la excepción contenida en el artículo 336 del Código Civil;
 
-V.- Los demás en que lo prohíba expresamente la ley.
+V.- Los demás en que lo prohiba expresamente la ley.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4247,9 +4245,9 @@ I.- Por muerte del árbitro elegido en el compromiso o en cláusula compromisori
 
 II.- Por excusa del árbitro o árbitros, que sólo puede ser por enfermedad comprobada que les impida desempeñar su oficio;
 
-III.- Por recusación, con causa declarada procedente, cuando el árbitro hubiere sido designado por el juez, pues al nombrado de común acuerdo no se le puede recusar;
+III.- Por recusación, con causa declarada procedente, cuando el árbitro hubiere sido designado por el Juez, pues al nombrado de común acuerdo no se le puede recusar;
 
-IV.- Por nombramiento recaído en el árbitro de magistrado, juez propietario o interino por más de tres meses; lo mismo se entenderá de cualquier otro empleo de la administración de justicia que impida de hecho o de derecho la función de arbitraje;
+IV.- Por nombramiento recaído en el árbitro de magistrado, Juez propietario o interino por más de tres meses; lo mismo se entenderá de cualquier otro empleo de la administración de justicia que impida de hecho o de derecho la función de arbitraje;
 
 V.- Por la expiración del plazo estipulado o del legal a que se refiere el artículo 603.
 
@@ -4267,7 +4265,7 @@ ART. 611.- El laudo será firmado por cada uno de los árbitros, y, en caso de h
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 612.- En caso de que los árbitros estuvieren autorizados a nombrar un tercero en discordia, y no lograren ponerse de acuerdo, acudirán al juez de primera instancia.
+ART. 612.- En caso de que los árbitros estuvieren autorizados a nombrar un tercero en discordia, y no lograren ponerse de acuerdo, acudirán al Juez de primera instancia.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4279,7 +4277,7 @@ ART. 614.- Los árbitros decidirán según las reglas del derecho, a menos que, 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 615.- De las recusaciones y excusas de los árbitros conocerá el juez ordinario, conforme a las leyes y sin ulterior recurso.
+ART. 615.- De las recusaciones y excusas de los árbitros conocerá el Juez ordinario, conforme a las leyes y sin ulterior recurso.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4287,19 +4285,19 @@ ART. 616.- Los árbitros pueden conocer de los incidentes, sin cuya resolución 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 617.- Los árbitros pueden condenar en costas, daños y perjuicios, a las partes, y aun imponer multas; pero para emplear los medios de apremio deben ocurrir al juez ordinario.
+ART. 617.- Los árbitros pueden condenar en costas, daños y perjuicios, a las partes, y aun imponer multas; pero para emplear los medios de apremio deben ocurrir al Juez ordinario.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 618.- Notificado el laudo, se pasarán los autos al juez ordinario para su ejecución, a no ser que las partes pidieren aclaración de sentencia.
+ART. 618.- Notificado el laudo, se pasarán los autos al Juez ordinario para su ejecución, a no ser que las partes pidieren aclaración de sentencia.
 
-Para la ejecución de autos y decretos, se acudirá también al juez de primera instancia.
+Para la ejecución de autos y decretos, se acudirá también al Juez de Primera Instancia.
 
-Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos el Tribunal Superior, sujetándose, en todos sus procedimientos, a lo dispuesto para los juicios comunes.
+Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el Juez que recibió los autos y remitirá éstos el Tribunal Superior, sujetándose, en todos sus procedimientos, a lo dispuesto para los juicios comunes.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 619.- Es competente para todos los actos relativos al juicio arbitral, en lo que se refiere a jurisdicción que no tenga el árbitro, y para la ejecución de la sentencia y admisión de recursos, el juez designado en el compromiso; a falta de éste, el del lugar del tribunal de arbitraje, y, si hubiere varios jueces, el de número más bajo.
+ART. 619.- Es competente para todos los actos relativos al juicio arbitral, en lo que se refiere a jurisdicción que no tenga el árbitro, y para la ejecución de la sentencia y admisión de recursos, el Juez designado en el compromiso; a falta de éste, el del lugar del tribunal de arbitraje, y, si hubiere varios jueces, el de número más bajo.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4309,11 +4307,11 @@ ART. 620.- Los jueces ordinarios están obligados a impartir el auxilio de su ju
 
 ART. 621.- La apelación solo será admisible conforme a las reglas del derecho común.
 
-Contra las resoluciones del árbitro designado por el juez cabe el amparo de garantías, conforme a las leyes respectivas.
+Contra las resoluciones del árbitro designado por el Juez cabe el amparo de garantías, conforme a las leyes respectivas.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 622.- El juez debe compeler a los árbitros a cumplir con sus obligaciones.
+ART. 622.- El Juez debe compeler a los árbitros a cumplir con sus obligaciones.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4335,23 +4333,23 @@ ART. 624.- El litigante será declarado rebelde a petición de parte contraria, 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 625.- Los autos que ordenen que un negocio se reciba a prueba o señalen día para la audiencia de pruebas y alegatos, así como los puntos resolutivos de la sentencia, además de notificarse por el Boletín Judicial, se publicarán dos veces, de tres en tres días, en el mismo Boletín o en el periódico local que indique el juez, si se tratare del caso previsto en la fracción II del artículo 122.
+ART. 625.- Los autos que ordenen que un negocio se reciba a prueba o señalen día para la audiencia de pruebas y alegatos, así como los puntos resolutivos de la sentencia, además de notificarse por el Boletín Judicial, se publicarán dos veces, de tres en tres días, en el mismo Boletín o en el periódico local que indique el Juez, si se tratare del caso previsto en la fracción II del artículo 122.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 626.- Desde el día en que fue declarado rebelde o quebrantó el arraigo el demandado, se decretará, si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto se estime necesario para asegurar lo que sea objeto del juicio.
+ART. 626.- Desde el día en que fué declarado rebelde o quebrantó el arraigo el demandado, se decretará, si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto se estime necesario para asegurar lo que sea objeto del juicio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 627.- La retención se hará en poder de la persona que tenga a su disposición o bajo su custodia los bienes muebles en que haya de consistir, concediendo el juez un término prudente para que garantice su manejo como depositario.
+ART. 627.- La retención se hará en poder de la persona que tenga a su disposición o bajo su custodia los bienes muebles en que haya de consistir, concediendo el Juez un término prudente para que garantice su manejo como depositario.
 
-Si extinguido ese término no ofreciere garantías suficientes a juicio del juez, se constituirán los muebles en depósito de persona que tenga bienes raíces o afiance su manejo a satisfacción del juez.
+Si extinguido ese término no ofreciere garantías suficientes a juicio del Juez, se constituirán los muebles en depósito de persona que tenga bienes raíces o afiance su manejo a satisfacción del Juez.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 628.- El embargo de los inmuebles se hará expidiendo mandamiento, por duplicado, al registrador de la propiedad que corresponda, para que se inscriba el secuestro. Una de las copias, después de cumplimentado el registro, se unirá a los autos.
 
-Los inmuebles se pondrán también en depósito de la persona en cuyo poder se encuentren, y el juez dará un término prudente para que garantice su manejo, si no fuere el demandado mismo.
+Los inmuebles se pondrán también en depósito de la persona en cuyo poder se encuentren, y el Juez dará un término prudente para que garantice su manejo, si no fuere el demandado mismo.
 
 No haciéndolo, se colocarán bajo depósito, según lo disponen los artículos 539 y siguientes, exigiéndose al depositario las mismas garantías que previene el artículo anterior.
 
@@ -4429,7 +4427,7 @@ IV.- Apelar e interponer los recursos procedentes.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 643.- El demandado debe denunciar el pleito al obligado a la evicción antes de la contestación de la demanda, solicitándose del juez, quien, según las circunstancias, ampliará el término del emplazamiento para que el tercero pueda disfrutar del plazo completo. El tercero obligado a la evicción, una vez salido al pleito, se convierte en principal.
+ART. 643.- El demandado debe denunciar el pleito al obligado a la evicción antes de la contestación de la demanda, solicitándose del Juez, quien, según las circunstancias, ampliará el término del emplazamiento para que el tercero pueda disfrutar del plazo completo. El tercero obligado a la evicción, una vez salido al pleito, se convierte en principal.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4459,7 +4457,7 @@ II.- El acreedor que sin tener derecho real no haya embargado el bien objeto de 
 
 III.- El acreedor a quien el deudor señale bienes bastantes a solventar el crédito;
 
-IV.- El acreedor a quien la ley lo prohíba en otros casos.
+IV.- El acreedor a quien la ley lo prohiba en otros casos.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4475,11 +4473,11 @@ ART. 651.- Las tercerías excluyentes no suspenderán el curso del negocio en qu
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 652.- Si la tercería fuere de preferencia se seguirán los procedimientos del juicio principal en que se interponga hasta la realización de los bienes embargados, suspendiéndose el pago que se hará al acreedor que tenga mejor derecho, definida que quede la tercería. Entretanto se decide ésta, se depositará a disposición del juez el precio de la venta.
+ART. 652.- Si la tercería fuere de preferencia se seguirán los procedimientos del juicio principal en que se interponga hasta la realización de los bienes embargados, suspendiéndose el pago que se hará al acreedor que tenga mejor derecho, definida que quede la tercería. Entretanto se decide ésta, se depositará a disposición del Juez el precio de la venta.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 653.- Si el actor y el demandado se allanaren a la demanda de la tercería, el juez, sin más trámites, mandará cancelar los embargos, si fuere excluyente de dominio, y dictará sentencia, si fuere de preferencia.
+ART. 653.- Si el actor y el demandado se allanaren a la demanda de la tercería, el Juez, sin más trámites, mandará cancelar los embargos, si fuere excluyente de dominio, y dictará sentencia, si fuere de preferencia.
 
 Lo mismo hará cuando ambos dejaren de contestar a la demanda de tercería.
 
@@ -4505,9 +4503,9 @@ ART. 658.- Si sólo alguno de los bienes ejecutados fuere objeto de la tercería
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 659.- Si la tercería, cualquiera que sea, se interpone ante un Juez de Paz y el interés de ella exceda del que la Ley somete a la jurisdicción de estos jueces, aquél ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés.
+ART. 659.- Si la tercería, cualquiera que sea, se interpone ante un Juez de Paz y el interés de ella exceda del que la Ley somete a la jurisdicción de estos jueces, aquél ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al Juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés.
 
-El juez designado correrá traslado de la demanda entablada y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores.
+El Juez designado correrá traslado de la demanda entablada y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4521,7 +4519,7 @@ Divorcio por mutuo consentimiento
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 660.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 269 del Código Civil, deberán ocurrir al Tribunal competente presentando el convenio que se exige en el artículo 270 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos que sean personas menores de dieciocho años de edad.
+ART. 660.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 269 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 270 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos que sean personas menores de dieciocho años de edad.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -4641,7 +4639,7 @@ ART. 681.- Se admitirán en un solo efecto las apelaciones en los casos en que n
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 682.- De las sentencias interlocutorias con fuerza de definitivas, que no paralizan ni ponen término al juicio, se admitirán las apelaciones en el efecto devolutivo; pero si el juicio fuere ordinario y el apelante, en un plazo que no exceda de seis días, presta fianza a satisfacción del juez para responder, en su caso, de las costas, daños y perjuicios que pueda ocasionar a la parte contraria, se admitirá la apelación en ambos efectos.
+ART. 682.- De las sentencias interlocutorias con fuerza de definitivas, que no paralizan ni ponen término al juicio, se admitirán las apelaciones en el efecto devolutivo; pero si el juicio fuere ordinario y el apelante, en un plazo que no exceda de seis días, presta fianza a satisfacción del Juez para responder, en su caso, de las costas, daños y perjuicios que pueda ocasionar a la parte contraria, se admitirá la apelación en ambos efectos.
 
 Si el tribunal confirmase la resolución apelada, condenará al apelante al pago de dichas indemnizaciones, fijando, prudencialmente, el importe de los daños y perjuicios, que no bajarán de mil pesos ni podrán exceder de cinco mil, además de lo que importen las costas.
 
@@ -4665,7 +4663,7 @@ I.- La calificación de idoneidad de la garantía será hecha por el Juez confor
 
 II.- La garantía otorgada comprenderá la devolución de la cosa o cosas que deban percibirse, sus frutos e intereses y la indemnización de daños y perjuicios, si el superior revoca el fallo.
 
-III.- La contragarantía que se otorgue comprenderá el pago de lo juzgado y sentenciado y su cumplimiento en el caso de que la sentencia condene a hacer o a no hacer y la indemnización de daños y perjuicios si el superior confirma el fallo.
+III.- La contragarantía que se otorgue comprenderá el pago de los (sic) juzgado y sentenciado y su cumplimiento en el caso de que la sentencia condene a hacer o a no hacer y la indemnización de daños y perjuicios si el superior confirma el fallo.
 
 IV.- La liquidación de los daños y perjuicios se hará en la ejecución de la sentencia.
 
@@ -4685,11 +4683,11 @@ IV.- Del auto aprobatorio del remate.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 687.- Admitida la apelación en ambos efectos, el juez remitirá los autos originales, desde luego, al Tribunal Superior, dentro del tercer día.
+ART. 687.- Admitida la apelación en ambos efectos, el Juez remitirá los autos originales, desde luego, al Tribunal Superior, dentro del tercer día.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 688.- En el caso del artículo anterior se suspenderá la ejecución de la sentencia o auto apelado hasta que recaiga el fallo del superior; mientras tanto, queda en suspenso la jurisdicción del juez para seguir conociendo de los autos principales, desde el momento en que se admita la apelación en ambos efectos, sin perjuicio de que la sección de ejecución continúe en poder del juez a quo, para resolver lo concerniente al depósito, a las cuentas, gastos y administración.
+ART. 688.- En el caso del artículo anterior se suspenderá la ejecución de la sentencia o auto apelado hasta que recaiga el fallo del superior; mientras tanto, queda en suspenso la jurisdicción del Juez para seguir conociendo de los autos principales, desde el momento en que se admita la apelación en ambos efectos, sin perjuicio de que la sección de ejecución continúe en poder del Juez a quo, para resolver lo concerniente al depósito, a las cuentas, gastos y administración.
 
 (REFORMADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4703,7 +4701,7 @@ ART. 691.- (DEROGADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE
 
 (REFORMADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 692.- Solo en los escritos de expresión de agravios y contestación de ellos, tratándose de apelación de sentencia definitiva en juicio ordinario, las partes pueden ofrecer pruebas, con excepción de la confesional, especificando los puntos sobre qué deban versar, los cuales nunca serán extraños a la cuestión debatida, y en la hipótesis del Artículo 694.
+ART. 692.- Sólo en los escritos de expresión de agravios y contestación de ellos, tratándose de apelación de sentencia definitiva en juicio ordinario, las partes pueden ofrecer pruebas, con excepción de la confesional, especificando los puntos sobre qué deban versar, los cuales nunca serán extraños a la cuestión debatida, y en la hipótesis del Artículo 694.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4731,7 +4729,7 @@ ART. 697.- En el auto de calificación de pruebas la Sala podrá optar por recib
 
 (REFORMADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 698.- Contestados los agravios o perdido el derecho de hacerlo, si no se hubiera promovido prueba o concluída la recepción de las que se hubieren admitido, serán citados las partes para sentencia, que se pronunciará en el término que señala el Artículo 87.
+ART. 698.- Contestados los agravios o perdido el derecho de hacerlo, si no se hubiera promovido prueba o concluida la recepción de las que se hubieren admitido, serán citadas las partes para sentencia, que se pronunciará en el término que señala el Artículo 87.
 
 ART. 699.- (DEROGADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4771,7 +4769,7 @@ ART. 708.- (DEROGADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE
 
 ART. 709.- El recurso de queja tiene lugar:
 
-I.- Contra el juez que se niega a admitir una demanda, o desconoce de oficio la personalidad de un litigante antes del emplazamiento;
+I.- Contra el Juez que se niega a admitir una demanda, o desconoce de oficio la personalidad de un litigante antes del emplazamiento;
 
 II.- Respecto a las interlocutorias dictadas en la ejecución de sentencias;
 
@@ -4781,7 +4779,7 @@ IV.- En los demás casos fijados por la ley.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 710.- Se da el recurso de queja en contra de los ejecutores y secretarios por ante el juez. Contra los primeros, sólo por exceso o defecto de las ejecuciones y por las decisiones en los incidentes de ejecución. Contra los segundos, por omisiones y negligencias en el desempeño de sus funciones.
+ART. 710.- Se da el recurso de queja en contra de los ejecutores y secretarios por ante el Juez. Contra los primeros, sólo por exceso o defecto de las ejecuciones y por las decisiones en los incidentes de ejecución. Contra los segundos, por omisiones y negligencias en el desempeño de sus funciones.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
@@ -4809,11 +4807,11 @@ ART. 715.- No podrá promoverse demanda de responsabilidad civil, sino hasta que
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 716.- Cuando la demanda se dirija contra un Juez de Paz, cualquiera que sea su cuantía, conocerá de ella el Juez de Primera Instancia a que aquél corresponda. Contra la sentencia que éste pronuncie, procederá la apelación en ambos efectos para ante el tribunal superior, si el juicio por su cuantía fuere apelable.
+ART. 716.- Cuando la demanda se dirija contra un Juez de Paz, cualquiera que sea su cuantía, conocerá de ella el Juez de Primera Instancia a que aquél corresponda. Contra la sentencia que éste pronuncie, procederá la apelación en ambos efectos para ante el Tribunal Superior, si el juicio por su cuantía fuere apelable.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 717.- Las salas del tribunal superior conocerán, en primera y única instancia, de las demandas de responsabilidad civil presentadas contra los jueces de primera instancia. Contra las sentencias que aquéllas dicten no se dará recurso alguno.
+ART. 717.- Las Salas del Tribunal Superior conocerán, en primera y única instancia, de las demandas de responsabilidad civil presentadas contra los jueces de primera instancia. Contra las sentencias que aquéllas dicten no se dará recurso alguno.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4863,11 +4861,11 @@ Es necesario cuando dos o más acreedores de plazo cumplido han demandado o ejec
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 725.- Declarado el concurso, el juez resolverá:
+ART. 725.- Declarado el concurso, el Juez resolverá:
 
 I.- Notificar, personalmente o por cédula, al deudor la formación de su concurso necesario, y por el Boletín el concurso voluntario;
 
-II.- Hacer saber a los acreedores la formación del concurso por edictos que se publicarán en dos periódicos de información que designará el juez. Si hubiere acreedores en el lugar del juicio, se citarán por medio de cédula por correo o telégrafo, si fuere necesario;
+II.- Hacer saber a los acreedores la formación del concurso por edictos que se publicarán en dos periódicos de información que designará el Juez. Si hubiere acreedores en el lugar del juicio, se citarán por medio de cédula por correo o telégrafo, si fuere necesario;
 
 III.- Nombrar síndico provisional;
 
@@ -4953,11 +4951,11 @@ Si cuando se presenten los acreedores morosos a reclamar sus créditos, estuvies
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 738.- Si en la primera reunión no fuere posible rectificar todos los créditos presentados, el juez suspenderá la audiencia, para continuarla al día siguiente, haciéndolo constar en el acta, sin necesidad de una nueva convocatoria.
+ART. 738.- Si en la primera reunión no fuere posible rectificar todos los créditos presentados, el Juez suspenderá la audiencia, para continuarla al día siguiente, haciéndolo constar en el acta, sin necesidad de una nueva convocatoria.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 739.- En la misma junta, una vez terminada la rectificación y graduación, los acreedores, por mayoría de créditos y de personas asistentes a la junta, designarán síndico definitivo. En su defecto, lo designará el juez.
+ART. 739.- En la misma junta, una vez terminada la rectificación y graduación, los acreedores, por mayoría de créditos y de personas asistentes a la junta, designarán síndico definitivo. En su defecto, lo designará el Juez.
 
 Podrán también por unanimidad y a solicitud del concursado, celebrar arreglos con éste, o pedir todos los acreedores comunes cuyos créditos hayan sido verificados, la adjudicación en copropiedad de los bienes del concursado, dándole carta de pago a éste y debiendo pagar previamente las costas y los créditos privilegiados.
 
@@ -4965,7 +4963,7 @@ Si el deudor común se opusiese, se substanciará la oposición incidentalmente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 740.- Después de esta junta y en ausencia de convenios, resueltas las apelaciones y oposiciones que se hubieren suscitado, el síndico procurará la venta de los bienes del concursado y el juez mandará hacer la de los muebles, conforme a lo prevenido en el artículo 584, sirviendo de base para la venta el que conste en inventarios, con un quebranto de veinte por ciento. Si no hubiere valor en los inventarios, se mandará tasar por un corredor titulado si lo hubiere, y, en su defecto, por comerciante acreditado. Los inmuebles se sacarán a remate conforme a las reglas respectivas, nombrando el perito valuador el juez.
+ART. 740.- Después de esta junta y en ausencia de convenios, resueltas las apelaciones y oposiciones que se hubieren suscitado, el síndico procurará la venta de los bienes del concursado y el Juez mandará hacer la de los muebles, conforme a lo prevenido en el artículo 584, sirviendo de base para la venta el que conste en inventarios, con un quebranto de veinte por ciento. Si no hubiere valor en los inventarios, se mandará tasar por un corredor titulado si lo hubiere, y, en su defecto, por comerciante acreditado. Los inmuebles se sacarán a remate conforme a las reglas respectivas, nombrando el perito valuador el Juez.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4985,7 +4983,7 @@ ART. 743.- Cuando se hubiere pagado íntegramente a los acreedores, celebrado co
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 744.- Los acreedores listados en el estado del deudor o que presentaren sus documentos justificativos, tienen derecho de nombrar interventor que vigile los actos de los síndicos, pudiendo hacer al juez las observaciones que estime pertinentes y a la junta de acreedores en su oportunidad.
+ART. 744.- Los acreedores listados en el estado del deudor o que presentaren sus documentos justificativos, tienen derecho de nombrar interventor que vigile los actos de los síndicos, pudiendo hacer al Juez las observaciones que estime pertinentes y a la junta de acreedores en su oportunidad.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5009,7 +5007,7 @@ Ejecutará personalmente las funciones del cargo, a menos que tuviera que desemp
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 748.- No puede ser síndico el pariente del concursado o del juez dentro del cuarto grado de consanguinidad, ni segundo de afinidad, ni su amigo ni su socio, ni el enemigo, ni con quien tenga comunidad de intereses.
+ART. 748.- No puede ser síndico el pariente del concursado o del Juez dentro del cuarto grado de consanguinidad, ni segundo de afinidad, ni su amigo ni su socio, ni el enemigo, ni con quien tenga comunidad de intereses.
 
 El que se halle en alguno de estos casos deberá excusarse y ser substituido inmediatamente.
 
@@ -5019,7 +5017,7 @@ ART. 749.- El síndico deberá otorgar fianza dentro de los primeros quince día
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 750.- Si el síndico provisional comprendiere que hay necesidad de realizar efectos, bienes o valores que pudieran perderse, disminuir su precio o deteriorarse, o fuere muy costosa su conservación, podrá enajenarlos con autorización del juez, quien la dará, previa audiencia del Ministerio Público, en el plazo que le señale, según la urgencia del caso.
+ART. 750.- Si el síndico provisional comprendiere que hay necesidad de realizar efectos, bienes o valores que pudieran perderse, disminuir su precio o deteriorarse, o fuere muy costosa su conservación, podrá enajenarlos con autorización del Juez, quien la dará, previa audiencia del Ministerio Público, en el plazo que le señale, según la urgencia del caso.
 
 Esto mismo se hará cuando fuere estrictamente indispensable para cubrir gastos urgentes de administración y conservación.
 
@@ -5065,9 +5063,9 @@ ART. 755.- Luego que el tribunal tenga conocimiento de la muerte de una persona 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 756.- Las medidas urgentes para la conservación de los bienes, que el juez debe decretar en el caso del artículo anterior, son las siguientes:
+ART. 756.- Las medidas urgentes para la conservación de los bienes, que el Juez debe decretar en el caso del artículo anterior, son las siguientes:
 
-I.- Reunir los papeles del difunto que, cerrados y sellados, se depositarán en el secreto del juzgado;
+I.- Reunir los papeles del difunto que, cerrados y sellados, se depositarán en el secreto del Juzgado;
 
 II.- Ordenar a la administración de correos que le remita la correspondencia que venga para el autor de la sucesión, con la cual hará lo mismo que con los demás papeles;
 
@@ -5077,7 +5075,7 @@ El Ministerio Público asistirá a la diligencia de aseguramiento de los bienes 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 757.- Si pasados diez días de la muerte del autor de la sucesión, no se presenta el testamento, si en él no está nombrado el albacea, o si no se denuncia el intestado, el juez nombrará un interventor que reúna los requisitos siguientes:
+ART. 757.- Si pasados diez días de la muerte del autor de la sucesión, no se presenta el testamento, si en él no está nombrado el albacea, o si no se denuncia el intestado, el Juez nombrará un interventor que reúna los requisitos siguientes:
 
 I.- Ser mayor de edad;
 
@@ -5133,7 +5131,7 @@ VI.- Las acciones de los legatarios reclamando sus legados, siempre que sean pos
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 765.- En los juicios sucesorios el Ministerio Público presentará a los herederos ausentes mientras no se presenten o no acrediten su representante legítimo, a las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho que no tengan representantes legítimos, y a la Beneficencia Pública cuando no haya herederos legítimos dentro del grado de la ley, y mientras no se haga reconocimiento o declaración de herederos.
+ART. 765.- En los juicios sucesorios el Ministerio Público representará a los herederos ausentes mientras no se presenten o no acrediten su representante legítimo, a las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho que no tengan representantes legítimos, y a la Beneficencia Pública cuando no haya herederos legítimos dentro del grado de ley, y mientras no se haga reconocimiento o declaración de herederos.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5141,7 +5139,7 @@ ART. 766.- La intervención que debe tener el representante del fisco será dete
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 767.- El albacea manifestará, dentro de tres días de hacérsele saber el nombramiento, si acepta. Si acepta y entra en la administración, le prevendrá el juez que dentro de tres meses debe garantizar su manejo con sujeción a lo dispuesto en los artículos 1595 y 1596 del Código Civil, salvo que todos los interesados le hayan dispensado de esa obligación.
+ART. 767.- El albacea manifestará, dentro de tres días de hacérsele saber el nombramiento, si acepta. Si acepta y entra en la administración, le prevendrá el Juez que dentro de tres meses debe garantizar su manejo con sujeción a lo dispuesto en los artículos 1595 y 1596 del Código Civil, salvo que todos los interesados le hayan dispensado de esa obligación.
 
 Si no garantiza su manejo dentro del término señalado, se le removerá de plano.
 
@@ -5149,9 +5147,9 @@ Si no garantiza su manejo dentro del término señalado, se le removerá de plan
 
 ART. 768.- Iniciado el juicio y siendo los herederos mayores de edad, podrán, después del reconocimiento de sus derechos, encomendar a un notario la formación de inventarios, avalúos, liquidación y partición de la herencia, procediendo en todo de común acuerdo, que constará en una o varias actas. Podrán convenir los interesados que los acuerdos se tomen a mayoría de votos, que siempre serán por personas.
 
-Cuando no hubiere este convenio, la oposición de parte se substanciará incidentalmente ante el juez que previno.
+Cuando no hubiere este convenio, la oposición de parte se substanciará incidentalmente ante el Juez que previno.
 
-El juez, en su caso, dará aviso de la separación inmediatamente al fisco haciéndole saber el nombre del notario y los demás particulares.
+El Juez, en su caso, dará aviso de la separación inmediatamente al fisco haciéndole saber el nombre del notario y los demás particulares.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5219,11 +5217,11 @@ ART. 774.- Si durante la tramitación de un intestado apareciere el testamento, 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 775.- El que promueva el juicio de testamentaría debe de presentar el testamento del difunto. El juez, sin más trámite, lo tendrá por radicado y en el mismo auto convocará a los interesados a una junta para que, si hubiere albacea nombrado en el testamento, se les dé a conocer, y, si no lo hubiere, procedan a elegirlo con arreglo a lo prescrito en los artículos 1569, 1570, 1571 y 1575 del Código Civil.
+ART. 775.- El que promueva el juicio de testamentaría debe de presentar el testamento del difunto. El Juez, sin más trámite, lo tendrá por radicado y en el mismo auto convocará a los interesados a una junta para que, si hubiere albacea nombrado en el testamento, se les dé a conocer, y, si no lo hubiere, procedan a elegirlo con arreglo a lo prescrito en los artículos 1569, 1570, 1571 y 1575 del Código Civil.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 776.- La junta se verificará dentro de los ocho días siguientes a la citación, si la mayoría de los herederos reside en el lugar del juicio. Si la mayoría residiere fuera del lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias. La citación se hará por cédula o correo certificado.
+ART. 776.- La junta se verificará dentro de los ocho días siguientes a la citación, si la mayoría de los herederos reside en el lugar del juicio. Si la mayoría residiere fuera del lugar del juicio, el Juez señalará el plazo que crea prudente, atendidas las distancias. La citación se hará por cédula o correo certificado.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5253,7 +5251,7 @@ ART. 781.- Si el tutor o cualquier representante legítimo de algún heredero qu
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 782.- Si el testamento no es impugnado ni se objeta la capacidad de los interesados, el juez, en la misma junta, reconocerá como herederos a los que estén nombrados en las porciones que les correspondan.
+ART. 782.- Si el testamento no es impugnado ni se objeta la capacidad de los interesados, el Juez, en la misma junta, reconocerá como herederos a los que estén nombrados en las porciones que les correspondan.
 
 Si se impugnare la validez del testamento o la capacidad legal de algún heredero, se substanciará el juicio ordinario correspondiente con el albacea o el heredero respectivamente, sin que por ello se suspenda otra cosa que la adjudicación de los bienes en la partición.
 
@@ -5273,7 +5271,7 @@ Debe el denunciante indicar los nombres y domicilio de los parientes en línea r
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 785.- El juez tendrá por radicada la sucesión y mandará notificarlo, por cédula o correo certificado, a las personas señaladas como descendientes, ascendientes y cónyuge supérstite o, en su defecto, como parientes colaterales dentro del cuarto grado, haciéndoles saber el nombre del finado con los demás particulares que lo identificaren y la fecha y lugar del fallecimiento, para que justifiquen sus derechos a la herencia y nombren albacea.
+ART. 785.- El Juez tendrá por radicada la sucesión y mandará notificarlo, por cédula o correo certificado, a las personas señaladas como descendientes, ascendientes y cónyuge supérstite o, en su defecto, como parientes colaterales dentro del cuarto grado, haciéndoles saber el nombre del finado con los demás particulares que lo identificaren y la fecha y lugar del fallecimiento, para que justifiquen sus derechos a la herencia y nombren albacea.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5285,7 +5283,7 @@ ART. 787.- Dicha información se practicará con citación del Ministerio Públi
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 788.- Practicadas las diligencias antes dichas, haya o no pedimento del Ministerio Público, el juez, sin más trámites, dictará auto haciendo la declaración de herederos ab-intestato, si la estimare procedente, o denegándola con reserva de su derecho a los que la hayan pretendido, para el juicio ordinario.
+ART. 788.- Practicadas las diligencias antes dichas, haya o no pedimento del Ministerio Público, el Juez, sin más trámites, dictará auto haciendo la declaración de herederos ab-intestato, si la estimare procedente, o denegándola con reserva de su derecho a los que la hayan pretendido, para el juicio ordinario.
 
 Este auto será apelable en el efecto devolutivo.
 
@@ -5295,7 +5293,7 @@ ART. 789.- El mismo procedimiento establecido en los tres artículos que precede
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 790.- Hecha la declaración de herederos de acuerdo con los artículos precedentes, el juez, en el mismo auto en que la hizo, citará a una junta de herederos dentro de los ocho días siguientes para que designen albacea. Se omitirá la junta si el heredero fuere único, o si los interesados, desde su presentación, dieren su voto por escrito o en comparecencia; en este último caso, al hacerse la declaración de herederos, hará el juez la designación de albacea. Este albacea tiene el carácter de definitivo.
+ART. 790.- Hecha la declaración de herederos de acuerdo con los artículos precedentes, el Juez, en el mismo auto en que la hizo, citará a una junta de herederos dentro de los ocho días siguientes para que designen albacea. Se omitirá la junta si el heredero fuere único, o si los interesados, desde su presentación, dieren su voto por escrito o en comparecencia; en este último caso, al hacerse la declaración de herederos, hará el juez la designación de albacea. Este albacea tiene el carácter de definitivo.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5303,9 +5301,9 @@ ART. 791.- Si ninguno de los pretendientes hubiere sido declarado heredero, cont
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 792.- Si la declaración de herederos la solicitaren parientes colaterales, dentro del cuarto grado, el juez, después de recibir los justificantes del entroncamiento y la información testimonial del artículo 786, mandará fijar avisos en los sitios públicos del lugar del juicio y en los lugares del fallecimiento y origen del finado, anunciando su muerte sin testar, y los nombres y grado de parentesco de los que reclaman la herencia, y llamando a los que se crean con igual o mejor derecho para que comparezcan en el juzgado a reclamarla dentro de cuarenta días.
+ART. 792.- Si la declaración de herederos la solicitaren parientes colaterales, dentro del cuarto grado, el Juez, después de recibir los justificantes del entroncamiento y la información testimonial del artículo 786, mandará fijar avisos en los sitios públicos del lugar del juicio y en los lugares del fallecimiento y origen del finado, anunciando su muerte sin testar, y los nombres y grado de parentesco de los que reclaman la herencia, y llamando a los que se crean con igual o mejor derecho para que comparezcan en el juzgado a reclamarla dentro de cuarenta días.
 
-El juez prudentemente podrá ampliar el plazo anterior cuando, por el origen del difunto u otras circunstancias, se presuma que podrá haber parientes fuera de la República.
+El Juez prudentemente podrá ampliar el plazo anterior cuando, por el origen del difunto u otras circunstancias, se presuma que podrá haber parientes fuera de la República.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1987)</small>
 
@@ -5313,13 +5311,13 @@ Los edictos se insertarán, además, dos veces de diez en diez días en un peri�
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 793.- Transcurrido el término de los edictos, a contar desde el día siguiente de su publicación, si nadie se hubiere presentado, trayendo los autos a la vista, el juez hará la declaración prevenida en el artículo 790.
+ART. 793.- Transcurrido el término de los edictos, a contar desde el día siguiente de su publicación, si nadie se hubiere presentado, trayendo los autos a la vista, el Juez hará la declaración prevenida en el artículo 790.
 
-Si hubieren comparecido otros parientes, el juez les señalará un término no mayor de quince días para que, en audiencia del Ministerio Público, presenten los justificantes del parentesco, procediéndose como se indica en los artículos 788 a 792.
+Si hubieren comparecido otros parientes, el Juez les señalará un término no mayor de quince días para que, en audiencia del Ministerio Público, presenten los justificantes del parentesco, procediéndose como se indica en los artículos 788 a 792.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 794.- Si dentro del mes de iniciado el juicio sucesorio no se presentaren descendientes, cónyuge, ascendientes, concubina o colaterales dentro del cuarto grado, el juez mandará fijar edictos en los sitios públicos, de la manera y por el término expresados en el artículo 792, anunciando la muerte intestada de la persona de cuya sucesión se trate, y llamando a los que se crean con derecho a la herencia.
+ART. 794.- Si dentro del mes de iniciado el juicio sucesorio no se presentaren descendientes, cónyuge, ascendientes, concubina o colaterales dentro del cuarto grado, el Juez mandará fijar edictos en los sitios públicos, de la manera y por el término expresados en el artículo 792, anunciando la muerte intestada de la persona de cuya sucesión se trate, y llamando a los que se crean con derecho a la herencia.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5361,7 +5359,7 @@ El inventario y avalúo se practicarán simultáneamente, siempre que no fuere i
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 802.- El inventario se practicará por el actuario del Juzgado o por un notario nombrado por la mayoría de los hechos cuando esta la constituyan personas menores de dieciocho años de edad o cuando los establecimientos de personas menores de dieciocho años de edad o cuando los establecimientos de beneficencia tuvieren interés en la sucesión como herederos o legatarios.
+ART. 802.- El inventario se practicará por el actuario del Juzgado o por un notario nombrado por la mayoría de los herederos cuando esta la constituyan personas menores de dieciocho años de edad o cuando los establecimientos de beneficencia tuvieren interés en la sucesión como herederos o legatarios.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -5371,7 +5369,7 @@ El Juez puede concurrir cuando lo estime oportuno.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 804.- Los herederos, dentro de los diez días que sigan a la declaración o reconocimiento de sus derechos, designarán, a mayoría de votos, un perito valuador, y, si no lo hicieren o no se pusieren de acuerdo, el juez lo designará.
+ART. 804.- Los herederos, dentro de los diez días que sigan a la declaración o reconocimiento de sus derechos, designarán, a mayoría de votos, un perito valuador, y, si no lo hicieren o no se pusieren de acuerdo, el Juez lo designará.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5395,7 +5393,7 @@ ART. 809.- Practicados el inventario y avalúo serán agregados a los autos y se
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 810.- Si transcurriese ese término sin haberse hecho oposición, el juez los aprobará, sin más trámites. Si se dedujese oposición contra el inventario o avalúo, se substanciarán las que se presentaren en forma incidental, con una audiencia común, si fueren varias, a la que concurrirán los interesados y el perito que hubiese practicado la valorización, para que con las pruebas rendidas se discuta la cuestión promovida.
+ART. 810.- Si transcurriese ese término sin haberse hecho oposición, el Juez los aprobará, sin más trámites. Si se dedujese oposición contra el inventario o avalúo, se substanciarán las que se presentaren en forma incidental, con una audiencia común, si fueren varias, a la que concurrirán los interesados y el perito que hubiese practicado la valorización, para que con las pruebas rendidas se discuta la cuestión promovida.
 
 Para dar curso a esta oposición, es indispensable expresar, concretamente, cuál es el valor que se atribuye a cada uno de los bienes y cuáles son las pruebas que se invocan como base de la objeción al inventario.
 
@@ -5419,11 +5417,11 @@ ART. 814.- El inventario hecho por el albacea o por heredero aprovecha a todos l
 
 El inventario perjudica a los que lo hicieron y a los que lo aprobaron.
 
-Aprobado el inventario por el juez o por el consentimiento de todos los interesados, no puede reformarse sino por error o dolo declarados por sentencia definitiva pronunciada en juicio sumario.
+Aprobado el inventario por el Juez o por el consentimiento de todos los interesados, no puede reformarse sino por error o dolo declarados por sentencia definitiva pronunciada en juicio sumario.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 815.- Si pasados los términos que señala el artículo 801, el albacea no promoviere o no concluyere el inventario, se estará a lo dispuesto por los artículos 1,638 y 1,639 del Código Civil.
+ART. 815.- Si pasados los términos que señala el artículo 801, el albacea no promoviere o no concluyere el inventario, se estará a lo dispuesto por los artículos 1638 y 1639 del Código Civil.
 
 La remoción a que se refiere el último precepto será de plano.
 
@@ -5457,7 +5455,7 @@ ART. 820.- Si la falta de herederos depende de incapacidad legal del nombrado o 
 
 ART. 821.- Si por cualquier motivo no hubiere albacea después de un mes de iniciado el juicio sucesorio, podrá el interventor, con autorización del tribunal, intentar las demandas que tengan por objeto recobrar bienes o hacer efectivos derechos pertenecientes a aquéllas, y contestar las demandas que contra ella se promuevan.
 
-En los casos muy urgentes, podrá el juez, aun antes de que se cumpla el término que se fija en el párrafo que antecede, autorizar al interventor para que demande y conteste a nombre de la sucesión. La falta de autorización no podrá ser invocada por terceros.
+En los casos muy urgentes, podrá el Juez, aun antes de que se cumpla el término que se fija en el párrafo que antecede, autorizar al interventor para que demande y conteste a nombre de la sucesión. La falta de autorización no podrá ser invocada por terceros.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5471,7 +5469,7 @@ El albacea judicial tendrá el mismo honorario que el interventor.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 824.- El juez abrirá la correspondencia que venga dirigida al difunto, en presencia del secretario y del interventor, en los períodos que señalen, según las circunstancias. El interventor recibirá la que tenga relación con el caudal, dejándose testimonio de ella en los autos, y el juez conservará la restante para darle en su oportunidad el destino correspondiente.
+ART. 824.- El Juez abrirá la correspondencia que venga dirigida al difunto, en presencia del secretario y del interventor, en los períodos que señalen, según las circunstancias. El interventor recibirá la que tenga relación con el caudal, dejándose testimonio de ella en los autos, y el Juez conservará la restante para darle en su oportunidad el destino correspondiente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5493,7 +5491,7 @@ ART. 827.- Los libros de cuentas y papeles del difunto se entregarán al albacea
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 828.- Si nadie se hubiere presentado alegando derecho a la herencia, o no hubieren sido reconocidos los que se hubiesen presentado, y se hubiere declarado heredera a la Beneficencia Pública, se entregarán a ésta los bienes y los libros y papeles que tengan relación con ella. Los demás se archivarán con los autos del intestado, en un pliego cerrado y sellado, en cuya cubierta rubricarán el juez, el representante del Ministerio Público y el secretario.
+ART. 828.- Si nadie se hubiere presentado alegando derecho a la herencia, o no hubieren sido reconocidos los que se hubiesen presentado, y se hubiere declarado heredera a la Beneficencia Pública, se entregarán a ésta los bienes y los libros y papeles que tengan relación con ella. Los demás se archivarán con los autos del intestado, en un pliego cerrado y sellado, en cuya cubierta rubricarán el Juez, el representante del Ministerio Público y el secretario.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5505,7 +5503,7 @@ DE LA RENDICION DE CUENTAS
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 830.- El interventor, el cónyuge en el caso del artículo 817 y el albacea, ya sea provisional, judicial o definitivo, están obligados a rendir, dentro de los cinco primeros días de cada año del ejercicio de su cargo, la cuenta de su administración correspondiente al año anterior, pudiendo el juez, de oficio, exigir el cumplimiento de este deber.
+ART. 830.- El interventor, el cónyuge en el caso del artículo 817 y el albacea, ya sea provisional, judicial o definitivo, están obligados a rendir, dentro de los cinco primeros días de cada año del ejercicio de su cargo, la cuenta de su administración correspondiente al año anterior, pudiendo el Juez, de oficio, exigir el cumplimiento de este deber.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5517,7 +5515,7 @@ ART. 832.- La garantía otorgada por el interventor y el albacea no se cancelar�
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 833.- Cuando el que administre no rinda, dentro del término legal, su cuenta anual, será removido de plano. También podrá ser removido, a juicio del juez y solicitud de cualquiera de los interesados, cuando alguna de las cuentas no fuere aprobada en su totalidad.
+ART. 833.- Cuando el que administre no rinda, dentro del término legal, su cuenta anual, será removido de plano. También podrá ser removido, a juicio del Juez y solicitud de cualquiera de los interesados, cuando alguna de las cuentas no fuere aprobada en su totalidad.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5525,7 +5523,7 @@ ART. 834.- Cuando no alcancen los bienes para pagar las deudas y legados, el alb
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 835.- Concluidas las operaciones de liquidación, dentro de los ocho días siguientes presentará el albacea su cuenta general de albaceazgo; si no lo hace se le apremiará por los medios legales, siendo aplicables las reglas de ejecución de sentencia.
+ART. 835.- Concluídas las operaciones de liquidación, dentro de los ocho días siguientes presentará el albacea su cuenta general de albaceazgo; si no lo hace se le apremiará por los medios legales, siendo aplicables las reglas de ejecución de sentencia.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5533,13 +5531,13 @@ ART. 836.- Presentada la cuenta mensual, anual o general de administración, se 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 837.- Si todos los interesados aprobaren la cuenta, o no la impugnaren, el juez la aprobará. Si alguno o algunos de los interesados no estuvieren conformes, se tramitará el incidente respectivo; pero es indispensable para que se le dé curso, precisar la objeción y que los que sostengan la misma pretensión nombren representante común.
+ART. 837.- Si todos los interesados aprobaren la cuenta, o no la impugnaren, el Juez la aprobará. Si alguno o algunos de los interesados no estuvieren conformes, se tramitará el incidente respectivo; pero es indispensable para que se le dé curso, precisar la objeción y que los que sostengan la misma pretensión nombren representante común.
 
 El auto que apruebe o repruebe la cuenta es apelable en el efecto devolutivo.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 838.- Concluido y aprobado el inventario, el albacea procederá a la liquidación de la herencia.
+ART. 838.- Concluído y aprobado el inventario, el albacea procederá a la liquidación de la herencia.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5551,7 +5549,7 @@ ART. 839.- El albacea, dentro de los quince días de aprobado el inventario, pre
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 840.- Presentado el proyecto, mandará el juez ponerlo a la vista de los interesados, por cinco días.
+ART. 840.- Presentado el proyecto, mandará el Juez ponerlo a la vista de los interesados, por cinco días.
 
 Si los interesados están conformes o nada exponen dentro del término de la vista, lo aprobará el juez y mandará abonar a cada uno la porción que le corresponda. La inconformidad expresa se substanciará en forma incidental.
 
@@ -5565,7 +5563,7 @@ ART. 841.- Cuando los productos de los bienes variaren de bimestre a bimestre, e
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 842.- Aprobada la cuenta general de administración, dentro de los quince días siguientes presentará el albacea el proyecto de partición de los bienes, en los términos que lo dispone el Código Civil y con sujeción a este capítulo, o, si no hiciere por sí mismo la partición, lo manifestará al juez dentro de los tres días de aprobada la cuenta, a fin de que se nombre contador que la haga.
+ART. 842.- Aprobada la cuenta general de administración, dentro de los quince días siguientes presentará el albacea el proyecto de partición de los bienes, en los términos que lo dispone el Código Civil y con sujeción a este capítulo, o, si no hiciere por sí mismo la partición, lo manifestará al Juez dentro de los tres días de aprobada la cuenta, a fin de que se nombre contador que la haga.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5587,21 +5585,21 @@ ART. 844.- Tienen derecho a pedir la partición de la herencia:
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 845.- Cuando el albacea no haga la partición por sí mismo promoverá, dentro del tercer día de aprobada la cuenta, la elección de un contador o abogado con título oficial registrado en el asiento del tribunal para que haga la división de los bienes. El juez convocará a los herederos, por medio del correo o cédula, a junta, dentro de los tres días siguientes, a fin de que se haga en su presencia la elección.
+ART. 845.- Cuando el albacea no haga la partición por sí mismo promoverá, dentro del tercer día de aprobada la cuenta, la elección de un contador o abogado con título oficial registrado en el asiento del tribunal para que haga la división de los bienes. El Juez convocará a los herederos, por medio del correo o cédula, a junta, dentro de los tres días siguientes, a fin de que se haga en su presencia la elección.
 
-Si no hubiere mayoría, el juez nombrará partidor eligiéndolo entre los propuestos.
+Si no hubiere mayoría, el Juez nombrará partidor eligiéndolo entre los propuestos.
 
 El cónyuge aunque no tenga el carácter de heredero será tenido como parte, si entre los bienes hereditarios hubiere bienes de la sociedad conyugal.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 846.- El Juez pondrá a disposición del partido los autos y, bajo inventario, los papeles y documentos relativos al caudal, para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo, y multas de hasta diez veces el salario mínimo en Baja California.
+ART. 846.- El Juez pondrá a disposición del partidor los autos y, bajo inventario, los papeles y documentos relativos al caudal, para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo, y multas de hasta diez veces el salario mínimo en Baja California.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 847.- El partidor pedirá a los interesados las instrucciones que juzgue necesarias a fin de hacer las adjudicaciones de conformidad con ellos, en todo lo que estén de acuerdo, o de conciliar en lo posible sus pretensiones.
 
-Puede ocurrir al juez para que por correo o cédulas los cite a una junta, a fin de que en ella los interesados fijen de común acuerdo las bases de la partición, que se considerará como un convenio. Si no hubiere conformidad, el partidor se sujetará a los principios legales.
+Puede ocurrir al Juez para que por correo o cédulas los cite a una junta, a fin de que en ella los interesados fijen de común acuerdo las bases de la partición, que se considerará como un convenio. Si no hubiere conformidad, el partidor se sujetará a los principios legales.
 
 En todo caso, al hacerse la división se separarán los bienes que correspondan al cónyuge que sobreviva, conforme a las capitulaciones matrimoniales o a las disposiciones que regulan la sociedad conyugal.
 
@@ -5615,9 +5613,9 @@ Si hubiere bienes gravados, se especificarán los gravámenes, indicando el modo
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 849.- Concluido el proyecto de partición, el juez lo mandará poner a la vista de los interesados, en la secretaría, por un término de diez días.
+ART. 849.- Concluido el proyecto de partición, el Juez lo mandará poner a la vista de los interesados, en la secretaría, por un término de diez días.
 
-Vencido sin hacerse oposición, el juez aprobará el proyecto y dictará sentencia de adjudicación, mandando entregar a cada interesado los bienes que le hubieren sido aplicados, con los títulos de propiedad, después de ponerse en ellos, por el secretario, una nota en que se haga constar la adjudicación.
+Vencido sin hacerse oposición, el Juez aprobará el proyecto y dictará sentencia de adjudicación, mandando entregar a cada interesado los bienes que le hubieren sido aplicados, con los títulos de propiedad, después de ponerse en ellos, por el secretario, una nota en que se haga constar la adjudicación.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5677,7 +5675,7 @@ II.- El inventario y avalúo se harán por el cónyuge que sobreviva o el albace
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-III.- El Juez convocará a junta a los interesados, nombrando en ella tutores especiales a las personas menores de dieciocho años de edad que tuvieren representante legítimo cuando el interés de éstos fuere opuesto al de aquellos, y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra ponerlos de acuerdo, nombrará un partido entre los contadores oficiales a cargo del erario, para que, en el término de cinco días, presente el proyecto de partición, que dará a conocer a los interesados en una nueva junta a que serán convocados por cédula o correo. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
+III.- El Juez convocará a junta a los interesados, nombrando en ella tutores especiales a las personas menores de dieciocho años de edad que tuvieren representante legítimo cuando el interés de éstos fuere opuesto al de aquellos, y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra ponerlos de acuerdo, nombrará un partidor entre los contadores oficiales a cargo del erario, para que, en el término de cinco días, presente el proyecto de partición, que dará a conocer a los interesados en una nueva junta a que serán convocados por cédula o correo. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
 
 IV.- Todas las resoluciones se harán constar en actas, y no se requieren peticiones escritas de parte interesada para la tramitación del juicio, con excepción de la denuncia del intestado, que se hará con copia para dar aviso al Fisco, en su caso;
 
@@ -5723,9 +5721,9 @@ ART. 862.- Para la apertura del testamento cerrado, los testigos reconocerán se
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 863.- Cumplido lo prescrito, en sus respectivos casos, en los artículos del Código Civil números 1429 a 1434, el juez, en presencia del notario, testigos, representante del Ministerio Público y secretario, abrirá el testamento, lo leerá para sí y después le dará lectura en voz alta, omitiendo lo que deba permanecer en secreto.
+ART. 863.- Cumplido lo prescrito, en sus respectivos casos, en los artículos del Código Civil números 1429 a 1434, el Juez, en presencia del notario, testigos, representante del Ministerio Público y secretario, abrirá el testamento, lo leerá para sí y después le dará lectura en voz alta, omitiendo lo que deba permanecer en secreto.
 
-En seguida firmarán al margen del testamento las personas que hayan intervenido en la diligencia, con el juez y el secretario, y se le pondrá el sello del juzgado, asentándose acta de todo ello.
+En seguida firmarán al margen del testamento las personas que hayan intervenido en la diligencia, con el Juez y el secretario, y se le pondrá el sello del juzgado, asentándose acta de todo ello.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5733,7 +5731,7 @@ ART. 864.- Será preferida para la protocolización de todo testamento cerrado, 
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 865.- Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversas, el juez procederá respecto a cada uno de ellos como se previene en este capítulo y los hará protocolizar, en un mismo oficio, para los efectos a que haya lugar en los casos previstos por los artículos 1381 y 1383 del Código Civil.
+ART. 865.- Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversas, el Juez procederá respecto a cada uno de ellos como se previene en este capítulo y los hará protocolizar, en un mismo oficio, para los efectos a que haya lugar en los casos previstos por los artículos 1381 y 1383 del Código Civil.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5827,7 +5825,7 @@ De la jurisdicción voluntaria
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 878.- La jurisdicción voluntaria comprende todos los actos en que, por disposición de la ley o por solicitud de los interesados, se requiere la intervención del juez, sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
+ART. 878.- La jurisdicción voluntaria comprende todos los actos en que, por disposición de la ley o por solicitud de los interesados, se requiere la intervención del Juez, sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5841,7 +5839,7 @@ I.- Cuando la solicitud promovida afecte los intereses públicos;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-II.- Cuando se refiere a la persona, o bienes de personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho;
+II.- Cuando se refiera a la persona, o bienes de personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho;
 
 III.- Cuando tenga relación con los derechos o bienes de un ausente;
 
@@ -5851,17 +5849,17 @@ IV.- Cuando lo dispusieren las leyes.
 
 ART. 881.- Si a la solicitud promovida se opusiere parte legítima, se seguirá el negocio en procedimiento sumario siempre que la oposición no se funde en la negativa del derecho del que promueve el negocio de jurisdicción voluntaria. En tal caso se sustanciará el pleito conforme a los trámites establecidos para el juicio que corresponda.
 
-Si la oposición se hiciere por quien no tenga personalidad ni interés para ello, el juez la desechará de plano. Igualmente desechará las oposiciones presentadas después de efectuado el acto de jurisdicción voluntaria, reservando el derecho al opositor.
+Si la oposición se hiciere por quien no tenga personalidad ni interés para ello, el Juez la desechará de plano. Igualmente desechará las oposiciones presentadas después de efectuado el acto de jurisdicción voluntaria, reservando el derecho al opositor.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 882.- El juez podrá variar o modificar las providencias que dictare, sin sujeción estricta a los términos y formas establecidos respecto de la jurisdicción contenciosa.
+ART. 882.- El Juez podrá variar o modificar las providencias que dictare, sin sujeción estricta a los términos y formas establecidos respecto de la jurisdicción contenciosa.
 
 No se comprenden en esta disposición los autos que tengan fuerza de definitivos y contra los que no se hubiere interpuesto recurso alguno, a no ser que se demostrara que cambiaron las circunstancias que afectan el ejercicio de la acción.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 883.- Las providencias de jurisdicción voluntaria serán apelables, en ambos efectos, si el recurso lo interpusiere el promovente de las diligencias, y sólo en el devolutivo, cuando el que recurre hubiere venido al expediente voluntariamente o llamado por el juez, o para oponerse a la solicitud que haya dado motivo a su formación.
+ART. 883.- Las providencias de jurisdicción voluntaria serán apelables, en ambos efectos, si el recurso lo interpusiere el promovente de las diligencias, y sólo en el devolutivo, cuando el que recurre hubiere venido al expediente voluntariamente o llamado por el Juez, o para oponerse a la solicitud que haya dado motivo a su formación.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5883,7 +5881,7 @@ ART. 886.- En los negocios de personas menores de dieciocho años de edad o pers
 
 ART. 887.- Ninguna tutela puede conferirse sin que previamente se haga la declaración de persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho de la persona que va a quedar sujeta a ella.
 
-La declaración de minoría de edad o de no tener capacidad para comprender el significado del hecho puede pedirse: 1o .- Por la misma persona, si ha cumplido dieciséis años; 2o.- Por su cónyuge; 3o.- Por sus presuntos herederos legítimos; 4o.- Por el albacea; 5o.- Por el Ministerio Público; 6o. Por el Sistema para el Desarrollo Integral de la Familia de Baja California.
+La declaración de minoría de edad o de no tener capacidad para comprender el significado del hecho puede pedirse: 1o .- Por la misma persona, si ha cumplido dieciséis años; 2o.- Por su cónyuge; 3o.- Por sus presuntos herederos legítimos; 4o.- Por el albacea; 5o.- Por el Ministerio Público; 6o.- Por el Sistema para el Desarrollo Integral de la Familia de Baja California.
 
 Pueden pedir la declaración de minoría de edad los funcionarios encargados de ello por el Código Civil.
 
@@ -5893,29 +5891,27 @@ ART. 888.- Si a la petición de la declaración de minoría de edad se acompaña
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 889.- La declaración de incapacidad por causa de demencia que no resulte declarada en sentencia firme, se acreditará en juicio sumario que se seguirá entre el peticionario y un tutor interino que para tal objeto designe el juez, reservando a las partes el derecho que pueda asistirles en el juicio correspondiente.
+ART. 889.- La declaración de incapacidad por causa de demencia que no resulte declarada en sentencia firme, se acreditará en juicio sumario que se seguirá entre el peticionario y un tutor interino que para tal objeto designe el Juez, reservando a las partes el derecho que pueda asistirles en el juicio correspondiente.
 
 Como diligencias prejudiciales se practicarán las siguientes:
 
-I.- Recibida la demanda de interdicción, el juez ordenará las medidas tutelares conducentes al aseguramiento de la persona y bienes del señalado como incapacitado; ordenará que la persona que auxilia a aquél de cuya interdicción se trata, lo ponga a disposición de los médicos alienistas en el plazo de 72 horas para que sea sometido a examen; ordenará que el afectado sea oído personalmente o representado durante este procedimiento; y que la persona bajo cuya guarda se encuentra el indicado como incapaz se abstenga de disponer de los bienes del incapacitado, siempre que, a la demanda se acompañe certificado de un médico alienista o informe fidedigno de la persona que lo auxilia u otro medio de convicción que justifique la necesidad de estas medidas;
+I.- Recibida la demanda de interdicción, el Juez ordenará las medidas tutelares conducentes al aseguramiento de la persona y bienes del señalado como incapacitado; ordenará que la persona que auxilia a aquél de cuya interdicción se trata, lo ponga a disposición de los médicos alienistas en el plazo de 72 horas para que sea sometido a examen; ordenará que el afectado sea oído personalmente o representado durante este procedimiento; y que la persona bajo cuya guarda se encuentra el indicado como incapaz se abstenga de disponer de los bienes del incapacitado, siempre que, a la demanda se acompañe certificado de un médico alienista o informe fidedigno de la persona que lo auxilia u otro medio de convicción que justifique la necesidad de estas medidas;
 
-II.- Los médicos que practiquen el examen deberán ser designados por el juez y serán de preferencia alienistas. Dicho examen se hará en presencia del juez, previa citación de la persona que hubiere pedido la interdicción y del Ministerio Público;
+II.- Los médicos que practiquen el examen deberán ser designados por el Juez y serán de preferencia alienistas. Dicho examen se hará en presencia del Juez, previa citación de la persona que hubiere pedido la interdicción y del Ministerio Público;
 
-III.- Si del dictamen pericial resultare comprobada la incapacidad, o por lo menos hubiere duda fundada acerca de la capacidad de la persona cuya interdicción se pide, el juez proveerá las siguientes medidas:
+III.- Si del dictamen pericial resultare comprobada la incapacidad, o por lo menos hubiere duda fundada acerca de la capacidad de la persona cuya interdicción se pide, el Juez proveerá las siguientes medidas:
 
-a).- Nombrar tutor y curador interinos, cargos que deberán recaer en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlos: padre, madre, cónyuge, hijos, abuelos y hermanos del incapacitado.
+A).- Nombrar tutor y curador interinos, cargos que deberán recaer en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlos: padre, madre, cónyuge, hijos, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos y paternos, el Juez resolverá atendiendo a las circunstancias. En caso de no haber ninguna de las personas indicadas o no siendo aptas para la tutela el Juez con todo escrúpulo debe nombrar como tutor interino a persona de reconocida honorabilidad, prefiriendo a la que sea pariente o amiga del incapacitado o de sus padres y que no tenga ninguna relación de amistad o comunidad de intereses o dependencias con el solicitante de la declaración.
 
-Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos o paternos, el Juez resolverá atendiendo a las circunstancias. En caso de no haber ninguna de las personas indicadas o no siendo aptas para la tutela el Juez con todo escrúpulo debe nombrar como tutor interino a persona de reconocida honorabilidad, prefiriendo a la que sea pariente o amiga del incapacitado o de sus padres y que no tenga ninguna relación de amistad o comunidad de intereses o dependencias con el solicitante de la declaración.
+B).- Poner los bienes del presunto incapacitado bajo la administración del tutor interino. Los de la sociedad conyugal, si la hubiere, quedarán bajo la administración del otro cónyuge.
 
-b).- Poner los bienes del presunto incapacitado bajo la administración del tutor interino. Los de la sociedad conyugal, si la hubiere, quedarán bajo la administración del otro cónyuge.
-
-c).- Proveer legalmente de la patria potestad o tutela a las personas que tuviere bajo su guarda el presunto incapacitado.
+C).- Proveer legalmente de la patria potestad o tutela a las personas que tuviere bajo su guarda el presunto incapacitado.
 
 De la resolución en que se dicten las providencias mencionadas en este artículo procede el recurso de apelación en el efecto devolutivo.
 
-IV.- Dictadas las providencias que establecen las fracciones anteriores se procederá a un segundo reconocimiento médico del presunto incapacitado, con peritos diferentes, en los mismos términos que los señalados por la fracción II. En caso de discrepancia con los peritos que rindieron el primer dictamen se practicará una junta de avenencia a la mayor brevedad posible y si no la hubiere el juez designará peritos terceros en discordia.
+IV.- Dictadas las providencias que establecen las fracciones anteriores se procederá a un segundo reconocimiento médico del presunto incapacitado, con peritos diferentes, en los mismos términos que los señalados por la fracción II. En caso de discrepancia con los peritos que rindieron el primer dictamen se practicará una junta de avenencia a la mayor brevedad posible y si no la hubiere el Juez designará peritos terceros en discordia.
 
-V.- Hecho lo anterior el juez citará a una audiencia, en la cual, si estuvieren conformes el tutor y el Ministerio Público con el solicitante de la interdicción, dictará resolución declarando o no esta.
+V.- Hecho lo anterior el Juez citará a una audiencia, en la cual, si estuvieren conformes el tutor y el Ministerio Público con el solicitante de la interdicción, dictará resolución declarando o no esta.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5925,7 +5921,7 @@ I.- Durante el procedimiento subsistirán las medidas decretadas conforme al art
 
 II.- El presunto incapacitado será oído en juicio, si él lo pidiera, independientemente de la representación atribuida al tutor interino;
 
-III.- El estado de incapacidad puede probarse por cualquier medio idóneo de convicción; pero en todo caso se requiere la certificación de tres médicos por lo menos, preferentemente alienistas del servicio Médico Legal o de instituciones médicas oficiales. Cada parte puede nombrar un perito médico para que intervenga en la audiencia y rinda su dictamen. El examen del presunto incapacitado se hará en presencia del Juez, con citación de las partes y del Ministerio Público. El juez podrá hacer al examinado, a los médicos, a las partes y a los testigos cuantas preguntas estime convenientes para calificar el resultado de las pruebas;
+III.- El estado de incapacidad puede probarse por cualquier medio idóneo de convicción; pero en todo caso se requiere la certificación de tres médicos por lo menos, preferentemente alienistas del servicio Médico Legal o de instituciones médicas oficiales. Cada parte puede nombrar un perito médico para que intervenga en la audiencia y rinda su dictamen. El examen del presunto incapacitado se hará en presencia del Juez, con citación de las partes y del Ministerio Público. El Juez podrá hacer al examinado, a los médicos, a las partes y a los testigos cuantas preguntas estime convenientes para calificar el resultado de las pruebas;
 
 IV.- Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente, previa autorización judicial;
 
@@ -5941,7 +5937,7 @@ VIII.- El que dolosamente promueva juicio de incapacidad, será responsable de l
 
 ART. 891.- Todo tutor, cualquiera que sea su clase, debe aceptar previamente y prestar las garantías exigidas por el Código Civil para que se le discierna el cargo, a no ser que la ley lo exceptuare expresamente.
 
-El tutor debe manifestar si acepta o no el cargo dentro de los cinco días que sigan a la notificación de su nombramiento. En igual término debe proponer sus impedimentos o excusas, disfrutando un día más por cada doscientos kilómetros o fracción que exceda de la mitad, que medien entre su domicilio y el lugar de la residencia del juez competente.
+El tutor debe manifestar si acepta o no el cargo dentro de los cinco días que sigan a la notificación de su nombramiento. En igual término debe proponer sus impedimentos o excusas, disfrutando un día más por cada doscientos kilómetros o fracción que exceda de la mitad, que medien entre su domicilio y el lugar de la residencia del Juez competente.
 
 Cuando el impedimento o la causa legal de excusa ocurrieren después de la aceptación de la tutela los términos correrán desde el día en que el tutor conoció el impedimento o la causa legal de excusa.
 
@@ -5953,7 +5949,7 @@ ART. 892.- La persona podrá oponerse al nombramiento de tutor hecho por la pers
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 893.- Siempre que el tutor nombrado no reúna los requisitos que la ley exige para ser tutor, el juez denegará el discernimiento del cargo y proveerá al nombramiento en la forma y términos prevenidos por el Código Civil.
+ART. 893.- Siempre que el tutor nombrado no reúna los requisitos que la ley exige para ser tutor, el Juez denegará el discernimiento del cargo y proveerá al nombramiento en la forma y términos prevenidos por el Código Civil.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5993,13 +5989,15 @@ ART. 896.- En todos los casos de impedimento, separación o excusa del curador p
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 897.- Sobre la rendición y aprobación de cuentas de los tutores, regirán las disposiciones contenidas en los artículos 505 y siguientes, con estas modificaciones: 1o.- No se requiere prevención judicial para que las rindan en el mes de enero de cada año, conforme los dispone el artículo 587 del Código Civil; 2o.- Se requiere prevención judicial para que las rindan antes de llegar a ese término; 3o.- Las personas a quienes deban ser rendidas, son el mismo Juez, el curador, la misma persona que haya cumplido dieciséis años de edad, el tutor que le reciba, el pupilo que dejaré de serlo, y las demás personas que fija el Código Civil; 4o.- La sentencia que desaprobare las cuentas indicará, si fuere posible, los alcances.
-
-Del auto de la aprobación pueden apelar el Ministerio Público, el Sistema para el Desarrollo Integral de la Familia de Baja California, los demás interesados y el curador si hizo observación. Del auto de desaprobación pueden apelar el tutor, el curador, el Ministerio Público y el Sistema para el Desarrollo Integral de la Familia de Baja California; 5o.- Si se objetaren de falsas algunas partidas, se substanciará el incidente por cuerda separada, entendiéndose la audiencia solo con los objetantes, el Ministerio Público, el Sistema para el Desarrollo Integral de la Familia de Baja California y el tutor.
+ART. 897.- Sobre la rendición y aprobación de cuentas de los tutores, regirán las disposiciones contenidas en los artículos 505 y siguientes, con estas modificaciones: 1o.- No se requiere prevención judicial para que las rindan en el mes de enero de cada año, conforme los dispone el artículo 587 del Código Civil; 2o.- Se requiere prevención judicial para que las rindan antes de llegar a ese término; 3o.- Las personas a quienes deban ser rendidas, son el mismo Juez, el curador, la misma persona que haya cumplido dieciséis años de edad, el tutor que le reciba, el pupilo que dejare de serlo, y las demás personas que fija el Código Civil; 4o.- La sentencia que desaprobare las cuentas indicará, si fuere posible, los alcances.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 898.- Cuando del examen de las cuentas resulten motivos graves para sospechar dolo, fraude o culpa lata en el tutor, se iniciará, desde luego, a petición de parte, del Ministerio Público; o del Sistema para el Desarrollo Integral de la Familia, el juicio de separación, que se seguirá en la forma contenciosa; y si de los primeros actos del juicio resultaren confirmadas las sospechas, se nombrará, desde luego, un tutor interino, sin perjuicio de que se remita testimonio de lo conducente a las autoridades penales.
+Del auto de la aprobación pueden apelar el Ministerio Público, el Sistema para el Desarrollo Integral de la Familia de Baja California, los demás interesados y el curador si hizo observaciones. Del auto de desaprobación pueden apelar el tutor, el curador, el Ministerio Público y el Sistema para el Desarrollo Integral de la Familia de Baja California; 5o.- Si se objetaren de falsas algunas partidas, se substanciará el incidente por cuerda separada, entendiéndose la audiencia sólo con los objetantes, el Ministerio Público, el Sistema para el Desarrollo Integral de la Familia de Baja California y el tutor.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+
+ART. 898.- Cuando del examen de las cuentas resulten motivos graves para sospechar dolo, fraude o culpa lata en el tutor, se iniciará, desde luego, a petición de parte, del Ministerio Público, o del Sistema para el Desarrollo Integral de la Familia, el juicio de separación, que se seguirá en la forma contenciosa; y si de los primeros actos del juicio resultaren confirmadas las sospechas, se nombrará, desde luego, un tutor interino, sin perjuicio de que se remita testimonio de lo conducente a las autoridades penales.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6023,7 +6021,7 @@ Si fuere el tutor quien solicitare la venta, debe proponer, al hacer la promoci�
 
 La solicitud del tutor se sustanciará en forma de incidente con intervención del curador, el Ministerio Público y el Sistema para el Desarrollo Integral de la Familia de Baja California. La sentencia que se dictare es apelable en ambos efectos.
 
-Los peritos que se designen para hacer el avalúo serán nombrados por el juez.
+Los peritos que se designen para hacer el avalúo serán nombrados por el Juez.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -6035,7 +6033,7 @@ El remate de los inmuebles se hará conforme a los artículos 551 y siguientes y
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-Si en la primera almoneda no hubiere postor, el juez convocará, a solicitud del tutor o del curador, a una junta dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
+Si en la primera almoneda no hubiere postor, el Juez convocará, a solicitud del tutor o del curador, a una junta dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6045,7 +6043,7 @@ ART. 903.- Para la venta de acciones y títulos de renta se concederá la autori
 
 ART. 904.- El precio de la venta se entregará al tutor si las fianzas o garantías prestadas son suficientes para responder de él. De otra manera, se depositará en el establecimiento destinado al efecto.
 
-El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación.
+El Juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6067,9 +6065,11 @@ ART. 907.- Lo dispuesto en los artículos que preceden se aplicará al gravamen 
 
 ART. 908.- El que pretende adoptar, deberá manifestar y acompañar a la promoción inicial, en su caso, los documentos que acrediten lo siguiente:
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-I.- Su nombre y edad de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho que pretenda adoptar, así como la clase de adopción que sea realizar;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Nombre y edad de la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho que pretende adoptar;
 
 II.- Nombre y domicilio de quienes ejerzan sobre él la Patria Potestad o la Tutela, o de las personas que lo hayan acogido;
 
@@ -6077,13 +6077,29 @@ II.- Nombre y domicilio de quienes ejerzan sobre él la Patria Potestad o la Tut
 
 III.- El estudio médico, psicológico y socio-económico, tanto de los adoptantes como de la persona menor de dieciocho años de edad, o persona que no tenga la capacidad para comprender el significado del hecho que se pretenda adoptar, realizado por el Sistema Estatal para el Desarrollo Integral de la Familia, pudiéndose exhibir en forma posterior y a petición del Juez;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-IV.- La constancia de la exposición o del tiempo de abandono para los efectos del artículo 441 del Código Civil, cuando la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, hubiere sido acogida por una institución de asistencia pública o privada; y,
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+IV.- La constancia de exposición o del tiempo del abandono, para los efectos del artículo 441 del Código Civil, levantada por el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de los Menores y la Familia, cuando la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, hubiere sido acogida por una institución de asistencia pública o privada;
 
-V.- Tratándose de extranjeros, además de lo previsto con antelación, deberán acompañar los documentos que acrediten su legal estancia o residencia en México y autorización de la Secretaría de Gobernación para internarse y permanecer en la República con la finalidad de realizar la adopción; certificado la idoneidad para adoptar expedido por la autoridad competente de su país de origen y constancia de que la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, que se pretende adoptar ha sido autorizado para entrar y rescindir permanentemente en el.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+V.- El consentimiento por escrito levantado ante la Procuraduría para la Defensa de los Menores y la Familia, dependiente del Sistema Estatal para el Desarrollo Integral de la Familia, otorgado por las personas que tengan ese deber legal, en los términos del artículo 394 BIS, a efecto de llevar a cabo su ratificación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- Certificado de idoneidad expedido por el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de los Menores y la Familia, en los términos establecidos en la fracción VI del artículo 394 BIS, del Código Civil para el Estado de Baja California; y,
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- Tratándose de extranjeros, además de lo previsto con antelación, deberán acompañar los documentos que acrediten su legal estancia o residencia en México y autorización de la Secretaría de Gobernación para internarse y permanecer en la República con la finalidad de realizar la adopción.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -6155,11 +6171,11 @@ El Ministerio Público y las personas con cuya citación se reciba la informaci�
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 913.- El juez está obligado a ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho.
+ART. 913.- El Juez está obligado a ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 914.- Si los testigos no fueren conocidos del juez o del secretario, la parte deberá presentar dos que abonen a cada uno de los presentados.
+ART. 914.- Si los testigos no fueren conocidos del Juez o del secretario, la parte deberá presentar dos que abonen a cada uno de los presentados.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6203,23 +6219,23 @@ V.- Los planos y demás documentos que vengan a servir para la diligencia, y des
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 920.- Hecha la promoción, el juez la mandará hacer saber a los colindantes para que dentro de tres días presenten los títulos o documentos de su posesión, y nombren perito si quisieren hacerlo, y se señalará el día, hora y lugar para que dé principio la diligencia de deslinde.
+ART. 920.- Hecha la promoción, el Juez la mandará hacer saber a los colindantes para que dentro de tres días presenten los títulos o documentos de su posesión, y nombren perito si quisieren hacerlo, y se señalará el día, hora y lugar para que de principio la diligencia de deslinde.
 
 Si fuere necesario identificar alguno o algunos de los puntos de deslinde, los interesados podrán presentar dos testigos de identificación cada uno, a la hora de la diligencia.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 921.- El día y hora señalados, el juez acompañado del secretario, peritos, testigos de identificación e interesados que asistan al lugar designado para dar principio a la diligencia, conforme a las reglas siguientes:
+ART. 921.- El día y hora señalados, el Juez acompañado del secretario, peritos, testigos de identificación e interesados que asistan al lugar designado para dar principio a la diligencia, conforme a las reglas siguientes:
 
 I.- Practicará el apeo, asentándose acta en que constarán todas las observaciones que hicieren los interesados;
 
 II.- La diligencia no se suspenderá por virtud de las observaciones, sino en el caso de que alguna persona presente en el acto un documento debidamente registrado que pruebe que el terreno que se trata de deslindar es de su propiedad;
 
-III.- El juez, al ir demarcando los límites del fundo deslindado, otorgará posesión al promovente de la propiedad que quede comprendida dentro de ellos, si ninguno de los colindantes se opusiera, o mandará que se le mantenga en la que esté disfrutando;
+III.- El Juez, al ir demarcando los límites del fundo deslindado, otorgará posesión al promovente de la propiedad que quede comprendida dentro de ellos, si ninguno de los colindantes se opusiera, o mandará que se le mantenga en la que esté disfrutando;
 
-IV.- Si hay oposición de alguno de los colindantes respecto a un punto determinado, por considerar que conforme a sus títulos quede comprendido dentro de los límites de su propiedad, el tribunal oirá a los testigos de identificación y a los peritos, e invitará a los interesados a que se pongan de acuerdo. Si esto se lograre, se hará constar, y se otorgará la posesión según su sentido. Si no se lograre el acuerdo, se abstendrá el juez de hacer declaración alguna en cuanto a la posesión, respetando en ella a quien la disfrute, y mandará reservar sus derechos a los interesados para que los hagan valer en el juicio correspondiente;
+IV.- Si hay oposición de alguno de los colindantes respecto a un punto determinado, por considerar que conforme a sus títulos quede comprendido dentro de los límites de su propiedad, el tribunal oirá a los testigos de identificación y a los peritos, e invitará a los interesados a que se pongan de acuerdo. Si esto se lograre, se hará constar, y se otorgará la posesión según su sentido. Si no se lograre el acuerdo, se abstendrá el Juez de hacer declaración alguna en cuanto a la posesión, respetando en ella a quien la disfrute, y mandará reservar sus derechos a los interesados para que los hagan valer en el juicio correspondiente;
 
-V.- El juez mandará que se fijen las señales convenientes en los puntos deslindados, las que quedarán como límites legales.
+V.- El Juez mandará que se fijen las señales convenientes en los puntos deslindados, las que quedarán como límites legales.
 
 Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados ni se fijará en ellos señal alguna, mientras no haya sentencia ejecutoria que resuelva la cuestión, dictada en el juicio correspondiente.
 
@@ -6235,7 +6251,7 @@ ART. 922.- Los gastos generales de apeo se harán por el que lo promueva. Los qu
 
 ART. 923.- Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
 
-I.- La autorización judicial que soliciten los emancipados, para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial;
+I.- La autorización judicial que soliciten los emancipados, para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se les nombrará u (sic) tutor especial;
 
 II.- (DEROGADA, P.O. 20 DE JUNIO DE 1975)
 
@@ -6243,11 +6259,17 @@ III.- La calificación de la excusa de la patria potestad en los casos a que se 
 
 IV.- (DEROGADA, P.O. 10 DE MAYO DE 1983)
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-ART. 924.- Podrá decretarse el depósito: de las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores, o reciban de éstos ejemplos perniciosos, a juicio del Juez o sea obligados por ellos a cometer actos reprobados por las leyes; de las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-La persona menor de dieciocho años de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez que determine sobre su custodia.
+ART. 924.- Podrá decretarse el depósito:
+
+I.- De menores con incapacidad que se hallen sujetos a la patria potestad o la tutela y que fueren maltratados por sus padres o tutores, a juicio del juez de lo familiar, o sean obligados por ellos a cometer actos reprobados por las leyes, y
+
+II.- De huérfanos o menores con incapacidad que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
+
+La persona menor de dieciocho años de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez de lo familiar, que determine sobre su custodia.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6275,9 +6297,9 @@ ART. 928.- La audiencia a que se refiere el Artículo anterior, se sujetará a l
 
 I.- Esta audiencia deberá versar únicamente sobre la conciliación;
 
-II.- La audiencia se celebrará dentro de los cinco días siguientes a la fecha en que quede fijada la litis y como requisito previo para que se dé inicio al período de pruebas;
+II.- La audiencia se celebrará dentro de los cinco días siguientes a la fecha en que quede fijada la litis y como requisito previo para que se de inicio al período de pruebas;
 
-III.- La asistencia de las partes deberá ser obligatoria y en forma personal y no por medio de apoderado. El Juez deberá hacer uso de los medios de apremio mas eficaces para lograr la comparecencia de las partes;
+III.- La asistencia de las partes deberá ser obligatoria y en forma personal y no por medio de apoderado. El Juez deberá hacer uso de los medios de apremio más eficaces para lograr la comparecencia de las partes;
 
 IV.- En la audiencia, el Juez, sin prejuzgar sobre el fondo del negocio, hará una exhortación a las partes para que procuren llegar a un acuerdo conciliatorio;
 
@@ -6291,7 +6313,7 @@ VI.- Celebrado el convenio se le dará vista a los apoderados de las partes para
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-VII.- El convenio, para ser aprobado, no deberá lesionar los derechos que conforme a la Ley son irrenunciables a contravenir normas de orden público; y
+VII.- El convenio, para ser aprobado, no deberá lesionar los derechos que conforme a la Ley son irrenunciables o contravenir normas de orden público; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -6317,9 +6339,9 @@ Una vez resuelto lo anterior, se continuará con la audiencia.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 931.- En la audiencia, las partes aportarán las pruebas que así procedan y que hayan ofrecido, sin mas limitación que no sean contrarias a la moral o estén prohibidas por la Ley.
+ART. 931.- En la audiencia, las partes aportarán las pruebas que así procedan y que hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la Ley.
 
-Para investigar la verdad material sobre los puntos cuestionados puede el Juez o el Tribunal, ordenar la recepción de una o mas pruebas aunque no las ofrezcan las partes.
+Para investigar la verdad material sobre los puntos cuestionados puede el Juez o el Tribunal, ordenar la recepción de una o más pruebas aunque no las ofrezcan las partes.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -6335,15 +6357,15 @@ ART. 934.- La audiencia se llevará a cabo dentro de los quince días contados a
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 935.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar bajo protesta de decir verdad el no estar en aptitud de hacerlo, se impondrá al Actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación se hará con apercibimiento de arresto hasta por quince días, de no comparecer el testigo o el perito sin causa justificada y al promovente de la prueba, de imponerle una multa hasta de diez veces el salario mínimo en Baja California, en caso de que el señalamiento de domicilio resulte inexacto o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes, en caso de que se ofrezca la prueba confesional, deberán ser citados con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
+ART. 935.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar bajo protesta de decir verdad el no estar en aptitud de hacerlo, se impondrá al Actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación se hará con apercibimiento de arresto hasta por quince días, de no comparecer el testigo o el perito sin causa justificada y al promovente de la prueba, de imponerle una multa hasta de diez veces el salario mínimo en Baja California, en caso de que el señalamiento de domicilio resulte inexacto o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante, las partes, en caso de que se ofrezca la prueba confesional, deberán ser citados con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 936.- La sentencia se pronunciará de manera breve y concisa, en el mismo momento de la audiencia de ser así posible o dentro de los cinco días siguientes. En su decisión el juzgador tomará en consideración, privilegiando, el interés superior de las personas menores de dieciocho años de edad que formen parte de la familia, y si no los hubiere en ésta, se atenderá al interés de ella y por último la de los mayores que la formen.
+ART. 936.- La sentencia se pronunciará de manera breve y concisa, en el mismo momento de la audiencia de ser así posible o dentro de los cinco días siguientes. En su decisión el juzgador tomará en consideración, privilegiando, el interés superior de las personas menores de dieciocho años de edad que formen parte de la familia, y si no los hubiere en ésta, se atenderá al interés de ella y por último al de los mayores que la formen.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 937.- La sentencia que se dicte, será apelable en el efecto devolutivo, debiendo interponerse en la forma y términos previstos en el Capitulo respectivo que reglamenta dicho recurso, pero si la parte recurrente careciere de abogado, el propio Juzgado solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días mas para enterarse del asunto y a efecto de hacer valer el recurso correspondiente y los agravios correspondientes o cualquier derecho a nombre de la parte que asesore.
+ART. 937.- La sentencia que se dicte, será apelable en el efecto devolutivo, debiendo interponerse en la forma y términos previstos en el Capítulo respectivo que reglamenta dicho recurso, pero si la parte recurrente careciere de abogado, el propio Juzgado solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días más para enterarse del asunto y a efecto de hacer valer el recurso correspondiente y los agravios correspondientes o cualquier derecho a nombre de la parte que asesore.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2006)</small>
 
@@ -6391,21 +6413,21 @@ ART. 944.- Conocerán los Jueces de Paz, de los juicios cuya cuantía se señale
 
 Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aún cuando se reclamen en ella.
 
-Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas se computará el importe de las prestaciones en un año, a no ser que se trataré de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este Artículo.
+Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas se computará el importe de las prestaciones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este Artículo.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 945.- Si se dudare del valor de la cosa demandada o del interés del pleito, antes de expedirse la cita para el demandado, el Juez oirá el dictamen de un perito que él mismo nombrará a costa del actor.
 
-Aún cuando esto se hubiere hecho, el demandado, en el acto del juicio, podrá pedir que se declare que el negocio no es de la jurisdicción de paz, por exceder de tres mil pesos su cuantía y, en tal caso, el Juez oirá lo que ambas partes expongan y la opinión de los peritos que presenten, resolviendo enseguida. Si declarare ser competente, se continuará la audiencia como lo establecen los Artículos 962 al 965.
+Aún cuando esto se hubiere hecho, el demandado, en el acto del juicio, podrá pedir que se declare que el negocio no es de la jurisdicción de paz, por exceder de tres mil pesos su cuantía y, en tal caso, el Juez oirá lo que ambas partes expongan y la opinión de los peritos que presenten, resolviendo enseguida. Si declarare ser competente, se continuará la audiencia como lo establecen los artículos 962 al 965.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 946.- Cuando el Juez, en cualquier estado del negocio, encuentre que éste no es de su competencia, por exceder de los límites que se fijan en el Artículo 944, o en razón de corresponder a Juez de diversa jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al Juez correspondiente.
+ART. 946.- Cuando el Juez, en cualquier estado del negocio, encuentre que éste no es de su competencia, por exceder de los límites que se fijan en el artículo 944, o en razón de corresponder a Juez de diversa jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al Juez correspondiente.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 947.- Cada Juzgado conocerá de los negocios relativos a predios ubicados dentro de su jurisdicción, cuando se trate de arrendamiento o de acciones reales sobre bienes inmuebles. Conocerá también de aquellos en que el demandado sea citado en lugar que se encuentre comprendido dentro de la misma jurisdicción.
+ART. 947.- Cada juzgado conocerá de los negocios relativos a predios ubicados dentro de su jurisdicción, cuando se trate de arrendamiento o de acciones reales sobre bienes inmuebles. Conocerá también de aquellos en que el demandado sea citado en lugar que se encuentre comprendido dentro de la misma jurisdicción.
 
 En caso de duda será competente, por razón del territorio, el Juez de Paz que haya prevenido, y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; por el hecho de haber conocido indebidamente de casos correspondientes a otras jurisdicciones, será motivo de corrección disciplinaria que impondrá el Presidente del Tribunal Superior, mediante queja del agraviado.
 
@@ -6439,9 +6461,9 @@ III.- La finca o departamento arrendado, cuando se trate de desocupación.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 951.- El Comisario o gendarme que lleve la cita se cerciorará de que el demandado se encuentra en el lugar designado y le entregará la cita personalmente. Si no lo encontrare y el lugar fuere alguno de los enumerados en las Fracciones I o III del Artículo anterior, cerciorándose de este hecho, dejará la cita con la persona de mayor confianza que encuentre.
+ART. 951.- El Comisario o gendarme que lleve la cita se cerciorará de que el demandado se encuentra en el lugar designado y le entregará la cita personalmente. Si no lo encontrare y el lugar fuere alguno de los enumerados en las fracciones I o III del artículo anterior, cerciorándose de este hecho, dejará la cita con la persona de mayor confianza que encuentre.
 
-Si no se encontraré al demandado, y el lugar no fuere de los enumerados en las Fracciones I y III no se le dejará la cita, debiéndose expedir de nuevo cuando lo promueva el actor.
+Si no se encontrare al demandado, y el lugar no fuere de los enumerados en las fracciones I y III no se le dejará la cita, debiéndose expedir de nuevo cuando lo promueva el actor.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6463,13 +6485,13 @@ En el Juzgado habrá el número necesario de libretas para que pueda llevar una 
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 956.- En los casos a que se refiere el Artículo 952, el recibo se firmará por la persona a quien, se hiciere la citación. Si no supiere, o no pudiere firmar, lo hará a su ruego, un testigo; si no quisiera firmar o presentar testigos, que lo hagan, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de hasta el equivalente a un salario mínimo.
+ART. 956.- En los casos a que se refiere el artículo 952, el recibo se firmará por la persona a quien, se hiciere la citación. Si no supiere, o no pudiere firmar, lo hará a su ruego, un testigo; si no quisiera firmar o presentar testigos, que lo hagan, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de hasta el equivalente a un salario mínimo.
 
 En la libreta se asentará la razón de lo ocurrido.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 957.- Los peritos, testigos y, en general, terceros que no constituyan parte, pueden ser citados por correo, telégrafo y aún teléfono, cerciorándose el Secretario, previamente, de la exactitud de la dirección de la persona citada.
+ART. 957.- Los peritos, testigos y, en general, terceros que no constituyan parte, pueden ser citados por correo, telégrafo y aun teléfono, cerciorándose el Secretario, previamente, de la exactitud de la dirección de la persona citada.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6477,7 +6499,7 @@ ART. 957.- Los peritos, testigos y, en general, terceros que no constituyan part
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 958.- Cuando se presente como actor o como reo alguien que no sea personalmente conocido por el Juez ni por el Secretario, se procederá a su identificación por medio de declaración oral, o carta de conocimiento de persona caracterizada y de arraigo, por documento bastante, o por cualquier otro medio que fuere suficiente a juicio del Juez.
+ART. 958.- Cuando se presente como actor o como reo alguien que no sea personalmente conocido por el Juez ni por el secretario, se procederá a su identificación por medio de declaración oral, o carta de conocimiento de persona caracterizada y de arraigo, por documento bastante, o por cualquier otro medio que fuere suficiente a juicio del Juez.
 
 No será necesaria la identificación aunque se trate de personas desconocidas, cuando por la naturaleza o circunstancias del caso no hubiere peligro de suplantación de la persona.
 
@@ -6489,25 +6511,25 @@ El que se presente como actor o como reo usando el nombre de otro para hacerse p
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 959.- Si al anunciarse el despacho del negocio no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de hasta diez veces el salario mínimo en Baja California, que se aplicará al reo por vía de indemnización, y, sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
+ART. 959.- Si al anunciarse el despacho del negocio no estuviere presente el actor y si el demandado, se impondrá a aquél una multa de hasta diez veces el salario mínimo en Baja California, que se aplicará al reo por vía de indemnización, y, sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 960.- Si al ser llamado a contestar la demanda no estuviere presente el demandado, y constare que fue debidamente citado, lo cual comprobará el Juez con especial cuidado, se dará por contestada la demanda en sentido afirmativo y se continuará la audiencia. Cuando se presente durante ella el demandado, continuará ésta con su intervención, según el estado en que se halle, y no se le admitirá prueba sobre ninguna excepción, si no demostrare el impedimento de caso fortuito o fuerza mayor que le impidiera presentarse a contestar la demanda.
+ART. 960.- Si al ser llamado a contestar la demanda no estuviere presente el demandado, y constare que fué debidamente citado, lo cual comprobará el Juez con especial cuidado, se dará por contestada la demanda en sentido afirmativo y se continuará la audiencia. Cuando se presente durante ella el demandado, continuará ésta con su intervención, según el estado en que se halle, y no se le admitirá prueba sobre ninguna excepción, si no demostrare el impedimento de caso fortuito o fuerza mayor que le impidiera presentarse a contestar la demanda.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 961.- Si al anunciarse el despacho del negocio no estuvieren presentes el actor ni el demandado, se tendrá por no expedida la cita y podrá expedirse de nuevo si el actor lo pidiere. Lo mismo se observará cuando no ocurra el demandado y aparezca que no fue citado debidamente.
+ART. 961.- Si al anunciarse el despacho del negocio no estuvieren presentes el actor ni el demandado, se tendrá por no expedida la cita y podrá expedirse de nuevo si el actor lo pidiere. Lo mismo se observará cuando no ocurra el demandado y aparezca que no fué citado debidamente.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 962.- Concurriendo al Juzgado las partes, en virtud de la citación, se abrirá la audiencia y en ella se observarán las siguientes prevenciones:
+ART. 962.- Concurriendo al juzgado las partes, en virtud de la citación, se abrirá la audiencia y en ella se observarán las siguientes prevenciones:
 
 I.- Expondrán oralmente sus pretensiones, por su orden, el actor su demanda y el reo su contestación, y exhibirán los documentos u objetos que estimen conducentes a su defensa, y presentarán a los testigos y peritos que pretendan sean oídos;
 
 II.- Las partes pueden hacerse mutuamente las preguntas que quieran, interrogar a los testigos y peritos y, en general, presentar todas las pruebas que se puedan rendir, desde luego;
 
-III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia, sin substanciar artículos o incidentes de previo pronunciamiento. Si de lo que expongan o aprueben las partes resultara demostrada la procedencia de una excepción dilatoria, el Juez lo declarará así, desde luego, y dará por terminada la audiencia. Ante los Jueces de Paz, sólo se admitirá reconvención hasta tres mil pesos;
+III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia, sin substanciar artículos o incidentes de previo pronunciamiento. Si de lo que expongan o aprueben las partes resultará demostrada la procedencia de una excepción dilatoria, el Juez lo declarará así, desde luego, y dará por terminada la audiencia. Ante los jueces de paz, sólo se admitirá reconvención hasta tres mil pesos;
 
 IV.- El Juez podrá hacer libremente las preguntas que juzgue oportunas a cuantas personas estuvieren presentes en la audiencia, carear a las partes entre sí o con los testigos y a éstos, los unos con los otros, examinar documentos, objetos o lugares y hacerlos reconocer por peritos;
 
@@ -6523,11 +6545,11 @@ ART. 963.- Las sentencias se dictarán a verdad sabida, sin necesidad de sujetar
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 964.- Debe el Juez observar escrupulosamente lo dispuesto por el Artículo 143 de este Código, aún en negocios mercantiles. No se impondrán multas por temeridad. Los gastos de ejecución serán a cargo del condenado.
+ART. 964.- Debe el Juez observar escrupulosamente lo dispuesto por el Artículo 143 de este Código, aun en negocios mercantiles. No se impondrán multas por temeridad. Los gastos de ejecución serán a cargo del condenado.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 965.- Contra las resoluciones pronunciadas por los Jueces de Paz no se dará mas recurso que el de responsabilidad.
+ART. 965.- Contra las resoluciones pronunciadas por los Jueces de Paz no se dará más recurso que el de responsabilidad.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6535,7 +6557,7 @@ ART. 965.- Contra las resoluciones pronunciadas por los Jueces de Paz no se dar�
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 966.- Los Jueces de Paz tienen obligación de proveer a la eficaz e inmediata ejecución de sus sentencias, y, a ese efecto, dictarán todas las medidas necesarias, en la forma y términos que a su juicio fueren procedentes, sin contrariar las reglas siguientes:
+ART. 966.- Los jueces de paz tienen obligación de proveer a la eficaz e inmediata ejecución de sus sentencias, y, a ese efecto, dictarán todas las medidas necesarias, en la forma y términos que a su juicio fueren procedentes, sin contrariar las reglas siguientes:
 
 I.- Si al pronunciarse la sentencia estuvieren presentes ambas partes, el Juez las interrogará acerca de la forma que cada una proponga para la ejecución y procurará que lleguen a un avenimiento a ese respecto;
 
@@ -6571,9 +6593,9 @@ ART. 971.- Si el secuestro recayere en créditos o rentas, la ejecución consist
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 972.- El remate de bienes muebles se hará en la forma que determina el Artículo 584 de este Código. Si se trataré de bienes raíces, se anunciará el remate por medio de avisos que se fijen en los lugares de costumbre y en la puerta del Juzgado, y se hará previa citación de los acreedores que resulten del certificado de gravámenes que sin causa de derechos expedirá el Registrador Público de la Propiedad. El avalúo se hará por medio de cualquiera clase de pruebas que el Juez podrá allegar de oficio.
+ART. 972.- El remate de bienes muebles se hará en la forma que determina el artículo 584 de este Código. Si se tratare de bienes raíces, se anunciará el remate por medio de avisos que se fijen en los lugares de costumbre y en la puerta del juzgado, y se hará previa citación de los acreedores que resulten del certificado de gravámenes que sin causa de derechos expedirá el Registrador Público de la Propiedad. El avalúo se hará por medio de cualquiera clase de pruebas que el Juez podrá allegar de oficio.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)ART. 973.- Si atendidas las circunstancias y la naturaleza de los bienes, el Juez estimare que deben pignorarse los muebles antes de venderse, los pignorará en la mayor suma posible, pero que no exceda de la necesaria para cubrir la cantidad a cuyo pago se haya condenado y los gastos de traslación. Si la cantidad prestada bastare para cubrir dichos gastos, se entregará el billete de empeño al ejecutado y, en caso contrario, el empeño se hará en el concepto de que el objeto salga a remate en la almoneda mas próxima y el billete se retendrá en el Juzgado hasta que el acreedor quede íntegramente pagado o hasta que los objetos pignorados se realicen, entregándose entonces al deudor la demasía que hubiere.
+(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)ART. 973.- Si atendidas las circunstancias y la naturaleza de los bienes, el Juez estimare que deben pignorarse los muebles antes de venderse, los pignorará en la mayor suma posible, pero que no exceda de la necesaria para cubrir la cantidad a cuyo pago se haya condenado y los gastos de traslación. Si la cantidad prestada bastare para cubrir dichos gastos, se entregará el billete de empeño al ejecutado y, en caso contrario, el empeño se hará en el concepto de que el objeto salga a remate en la almoneda mas próxima y el billete se retendrá en el juzgado hasta que el acreedor quede íntegramente pagado o hasta que los objetos pignorados se realicen, entregándose entonces al deudor la demasía que hubiere.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6581,25 +6603,25 @@ ART. 974.- Todos los actos del ejecutor serán revisables, sea de oficio o a pet
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 975.- Cuando la sentencia condene a entregar cosa determinada, para obtener su cumplimiento se podrán emplear los medios de apremio que autoriza el Artículo 73 de este Código, y si fuere necesario el cateo, se podrá autorizar, previa orden especial y escrita, que se rompan cerraduras en cuanto fuere posible, para encontrar la cosa.
+ART. 975.- Cuando la sentencia condene a entregar cosa determinada, para obtener su cumplimiento se podrán emplear los medios de apremio que autoriza el artículo 73 de este Código, y si fuere necesario el cateo, se podrá autorizar, previa orden especial y escrita, que se rompan cerraduras en cuanto fuere posible, para encontrar la cosa.
 
-Si ni aún así se obtuviere la entrega, el Juez fijará la cantidad que como reparación se deba entregar a la parte que obtuvo, procediéndose a exigir su pago con arreglo a los Artículos 966 a 973.
+Si ni aun así se obtuviere la entrega, el Juez fijará la cantidad que como reparación se deba entregar a la parte que obtuvo, procediéndose a exigir su pago con arreglo a los Artículos 966 a 973.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 976.- Si la sentencia condena a hacer, el Juez señalará al que fue condenado un plazo prudente para el cumplimiento, y se estará en todo a lo dispuesto en el Artículo 503 de este Código.
+ART. 976.- Si la sentencia condena a hacer, el Juez señalará al que fué condenado, un plazo prudente para el cumplimiento, y se estará en todo a lo dispuesto en el artículo 503 de este Código.
 
 Si el hecho consistiere en el otorgamiento de un contrato, o la celebración de un acto jurídico, el Juez lo ejecutará en rebeldía del condenado.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 977.- El tercero que considere perjudicados sus derechos al ejecutar la sentencia, ocurrirá al Juez de Paz, presentando sus pruebas, y el Juez, con audiencia inmediata de las partes, resolverá si subsiste o no el secuestro, o el acto de ejecución practicado, sin decidir sobre la propiedad de la cosa ni sobre otros hechos controvertidos.
+ART. 977.- El tercero que considere perjudicados sus derechos al ejecutar la sentencia, ocurrirá al Juez de paz, presentando sus pruebas, y el Juez, con audiencia inmediata de las partes, resolverá si subsiste o no el secuestro, o el acto de ejecución practicado, sin decidir sobre la propiedad de la cosa ni sobre otros hechos controvertidos.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 978.- Los juicios de desocupación de predios o localidades arrendados se substanciarán conforme a las reglas establecidas para los demás juicios, sin tener, en caso alguno, período de lanzamiento.
 
-Cuando la sentencia condene a la desocupación, se concederá para ésta un término de ocho a veinte días, según la importancia de la cosa arrendada, a juicio del Juez; pero, desde luego, se procederá al aseguramiento de bienes suficientes a cubrir el importe de las rentas a cuyo pago se hubiere condenado.
+Cuando la sentencia condene a la desocupación, se concederá para ésta un término de ocho a veinte días, según la importancia de la cosa arrendada, a juicio del Juez, pero, desde luego, se procederá al aseguramiento de bienes suficientes a cubrir el importe de las rentas a cuyo pago se hubiere condenado.
 
 La desocupación de predios rústicos podrá decretarse hasta los sesenta días.
 
@@ -6609,9 +6631,9 @@ La desocupación de predios rústicos podrá decretarse hasta los sesenta días.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 979.- Las cuestiones incidentales que se susciten ante los Jueces de Paz, se resolverán juntamente con la principal, a menos que por su naturaleza sea forzoso decidirlas antes, o que se promuevan después de la sentencia; pero en ningún caso se formará artículo, sino que se decidirán de plano.
+ART. 979.- Las cuestiones incidentales que se susciten ante los jueces de paz, se resolverán juntamente con la principal, a menos que por su naturaleza sea forzoso decidirlas antes, o que se promuevan después de la sentencia; pero en ningún caso se formará artículo, sino que se decidirán de plano.
 
-La conexidad sólo procede, cuando se trate de juicios que se sigan ante el mismo Juez de Paz, y se resolverá luego que se promuevan, sin necesidad de audiencia especial ni otra actuación. Queda abolida la práctica de promover acumulaciones de autos llevados ante Juzgados de Paz diferentes.
+La conexidad sólo procede, cuando se trate de juicios que se sigan ante el mismo Juez de paz, y se resolverá luego que se promuevan, sin necesidad de audiencia especial ni otra actuación. Queda abolida la práctica de promover acumulaciones de autos llevados ante juzgados de paz diferentes.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6623,29 +6645,29 @@ ART. 980.- Las promociones de nulidad de actuaciones por falta o defecto de cita
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 981.- Las disposiciones de este Título se aplicarán también en los juicios sobre actos mercantiles, sin que a ello obsten las disposiciones que en contrario hay en el Código de Comercio.
+ART. 981.- Las disposiciones de este título se aplicarán también en los juicios sobre actos mercantiles, sin que a ello obsten las disposiciones que en contrario hay en el Código de Comercio.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 982.- En los negocios de la competencia de los Juzgados de Paz, únicamente se aplicarán las disposiciones de este Código y de la Ley Orgánica del Poder Judicial del Estado de Baja California, en lo que fuere indispensable para complementar las disposiciones de este Título y que no se opongan directa ni indirectamente a éstas.
+ART. 982.- En los negocios de la competencia de los Juzgados de Paz, únicamente se aplicarán las disposiciones de este Código y de la Ley Orgánica del Poder Judicial del Estado de Baja California, en lo que fuere indispensable, para complementar las disposiciones de este Título y que no se opongan directa ni indirectamente a éstas.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 983.- Ante los Jueces de Paz no será necesaria la intervención de abogados ni se exigirá ritualidad alguna ni forma determinada en las promociones o alegaciones que se hagan.
+ART. 983.- Ante los jueces de paz no será necesaria la intervención de abogados ni se exigirá ritualidad alguna ni forma determinada en las promociones o alegaciones que se hagan.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 984.- El despacho de los Juzgados de Paz se regirá por lo establecido en la Ley Orgánica del Poder Judicial del Estado.
+ART. 984.- El despacho de los juzgados de paz se regirá por lo establecido en la Ley Orgánica del Poder Judicial del Estado.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 985.- Las audiencias serán públicas. Si en la hora señalada para una audiencia no se hubiere terminado el negocio o negocios anteriores, las personas citadas deberán permanecer hasta que llegue su turno al asunto respectivo, siguiéndose rigurosamente para la vista de los negocios el orden que les corresponda, según la lista del día, que se fijará en los tableros del Juzgado desde la víspera.
+ART. 985.- Las audiencias serán públicas. Si en la hora señalada para una audiencia no se hubiere terminado el negocio o negocios anteriores, las personas citadas deberán permanecer hasta que llegue su turno al asunto respectivo, siguiéndose rigurosamente para la vista de los negocios el orden que les corresponda, según la lista del día, que se fijará en los tableros del juzgado desde la víspera.
 
-Cuando fuere necesario esperar alguna persona a quien se hubiere llamado a la audiencia, o conceder tiempo a los peritos para que examinen las cosas acerca de las que hayan de emitir dictamen, u ocurriere algún otro caso que lo exija, a juicio del Juez, se suspenderá la audiencia por un término prudente, no mayor de una hora, y si fuere enteramente indispensable, dispondrá el Juez la continuación para el día siguiente, a mas tardar. La violación de este precepto amerita corrección disciplinaria, que impondrá el superior, y será anotada en el expediente que a cada funcionario judicial corresponda.
+Cuando fuere necesario esperar alguna persona a quien se hubiere llamado a la audiencia, o conceder tiempo a los peritos para que examinen las cosas acerca de las que hayan de emitir dictamen, u ocurriere algún otro caso que lo exija, a juicio del Juez, se suspenderá la audiencia por un término prudente, no mayor de una hora, y si fuere enteramente indispensable, dispondrá el Juez la continuación para el día siguiente, a más tardar. La violación de este precepto amerita corrección disciplinaria, que impondrá el superior, y será anotada en el expediente que a cada funcionario judicial corresponda.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 986.- Para cada asunto se formará un breve expediente con los documentos relativos a él y, en todo caso, con el acta de la audiencia, en la que muy sucintamente se relatarán los puntos principales y se asentará la sentencia, así como lo relativo a su ejecución. Bastará que las actas sean autorizadas por el Juez y el Secretario o los testigos de asistencia en su caso; pero los interesados tendrán el derecho de firmarlas también, pudiendo sacar copias de ellas, cuya exactitud certificará el Secretario, previo cotejo, si así se pidiere. El condenado que estuviere presente firmará, en todo caso, el acta, a menos de no saber o estar físicamente impedido; si fuere posible, se imprimirán sus huellas digitales.
+ART. 986.- Para cada asunto se formará un breve expediente con los documentos relativos a él y, en todo caso, con el acta de la audiencia, en la que muy sucintamente se relatarán los puntos principales y se asentará la sentencia, así como lo relativo a su ejecución. Bastará que las actas sean autorizadas por el Juez y el secretario o los testigos de asistencia en su caso; pero los interesados tendrán el derecho de firmarlas también, pudiendo sacar copias de ellas, cuya exactitud certificará el secretario, previo cotejo, si así se pidiere. El condenado que estuviere presente firmará, en todo caso, el acta, a menos de no saber o estar físicamente impedido; si fuere posible, se imprimirán sus huellas digitales.
 
 En los asuntos de menos de trescientos pesos, no se requiere ni la formación de expedientes, bastando con asentar en el libro de gobierno el asunto de la demanda y la contestación que se diere, sucintamente relatada, y los puntos resolutivos de la sentencia con los preceptos legales que le sirvieron de fundamento.
 
@@ -6655,13 +6677,13 @@ ART. 987.- Los documentos y objetos presentados por las partes, les serán devue
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 988.- Para la facilidad y rapidez en el despacho, las citas, órdenes, actas y demás documentos necesarios se extenderán en esqueletos impresos que tendrán los huecos que su objeto requiera, y los cuales se llenarán haciendo constar, en breve extracto, lo indispensable para la exactitud y precisión del documento. Cuando por motivos especiales fuere necesario hacer constar más de lo que cupiere en el hueco correspondiente, se escribirá al reverso del documento, o en hojas que se agregarán a él.
+ART. 988.- Para la facilidad y rapidez en el despacho, las citas, órdenes, actas y demás documentos necesarios, se extenderán en esqueletos impresos que tendrán los huecos que su objeto requiera, y los cuales se llenarán haciendo constar, en breve extracto, lo indispensable para la exactitud y precisión del documento. Cuando por motivos especiales fuere necesario hacer constar más de lo que cupiere en el hueco correspondiente, se escribirá al reverso del documento, o en hojas que se agregarán a él.
 
-El Presidente del Tribunal Superior, fijará cada año en el mes de diciembre, los modelos de esqueletos que se hayan de emplear en el año siguiente, oyendo al efecto a los Jueces de Paz, a los que convocará a las juntas que estime necesarias y cuidará de la impresión y distribución de los esqueletos en cantidad necesaria.
+El presidente del Tribunal Superior, fijará cada año en el mes de diciembre, los modelos de esqueletos que se hayan de emplear en el año siguiente, oyendo al efecto a los Jueces de Paz, a los que convocará a las juntas que estime necesarias y cuidará de la impresión y distribución de los esqueletos en cantidad necesaria.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 989.- Los Jueces de Paz no son recusables; pero deben excusarse cuando estén impedidos; en tal caso el negocio pasará a otro Juzgado del mismo Partido Judicial, si lo hubiere; y si no, al Juez de Primera Instancia de número menor. Si por disposición de la Ley Orgánica del Poder Judicial un Juez de Primera Instancia conoce de casos de justicia de paz, y se excusa, conocerá del asunto el Secretario de su adscripción. Si los Jueces impedidos no se excusaren, a queja de parte el Superior impondrá una corrección disciplinaria y hará la anotación en el expediente del funcionario.
+ART. 989.- Los Jueces de paz no son recusables; pero deben excusarse cuando estén impedidos; en tal caso el negocio pasará a otro Juzgado del mismo Partido Judicial, si lo hubiere; y si no, al Juez de Primera Instancia de número menor. Si por disposición de la Ley Orgánica del Poder Judicial un Juez de Primera Instancia conoce de casos de justicia de paz, y se excusa, conocerá del asunto el Secretario de su adscripción. Si los Jueces impedidos no se excusaren, a queja de parte el Superior impondrá una corrección disciplinaria y hará la anotación en el expediente del funcionario.
 
 T R A N S I T O R I O S:
 
@@ -6968,3 +6990,7 @@ SEGUNDO.- Los procesos que se hayan iniciado con anterioridad a la vigencia de l
 P.O. 23 DE AGOSTO DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+Único.- Las presentes reformas entrarán en vigor a los noventa días posteriores a la publicación del presente decreto en el Periódico Oficial del Estado.
