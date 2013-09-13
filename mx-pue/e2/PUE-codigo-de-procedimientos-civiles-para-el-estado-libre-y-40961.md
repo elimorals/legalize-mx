@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-40961"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-08-09"
-last_updated: "2012-09-14"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 9 de agosto de 2004.
 
@@ -5983,9 +5983,17 @@ II.- Los jueces municipales del interior del Estado;
 
 III.- Los Jueces de Paz;
 
-IV.- Los jueces indígenas, y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Los notarios del Estado.
+IV.- Los Jueces Indígenas;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Los Notarios del Estado; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- El Sistema para el Desarrollo Integral de la Familia del Estado de Puebla.
 
 ###### Artículo 837.
 
@@ -5998,6 +6006,10 @@ Si comparecen los interesados, el mediador procurará avenirlos a fin de obtener
 ###### Artículo 839.
 
 Los acuerdos alcanzados ante el Centro Estatal de Mediación, tendrán efecto de cosa juzgada.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Los convenios en Materia Familiar celebrados ante el Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, no requerirán de homologación, sin embargo para que tales acuerdos tengan efecto de cosa juzgada, el Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, deberá informar al Centro Estatal de Mediación del Poder Judicial del Estado de Puebla, para su registro.
 
 ###### Artículo 840.
 
@@ -6119,7 +6131,7 @@ Todo aquel que está en pleno ejercicio de sus derechos civiles puede compromete
 
 ###### Artículo 864.
 
-Las partes tienen el derecho de sujetar sus diferencias al procedimiento arbitral, antes de que haya juicio, durante éste y aún después de pronunciada sentencia, siempre que ésta no hubiere causado ejecutoria.
+Las partes tienen el derecho de sujetar sus diferencias al procedimiento arbitral, antes de que haya juicio, durante éste y aun después de pronunciada sentencia, siempre que ésta no hubiere causado ejecutoria.
 
 ###### Artículo 865.
 
@@ -6346,5 +6358,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 14 DE SEPTIEMBRE DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
