@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-participacion-ciudadana-del-estado-de-tabasco-52101"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2006-09-30"
+last_updated: "2013-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL DECRETO 032, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 30 de septiembre de 2006.
 
@@ -622,3 +624,37 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JUAN CARLOS CASTILLEJOS CASTILLEJOS
 
 SECRETARIO DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 032, POR EL QUE SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 6, LAS FRACCIONES I, II, IV Y V DEL ARTÍCULO 7; EL ARTÍCULO 8 BIS; LA FRACCIÓN V DEL APARTADO A, EL INCISO J) DE LA FRACCIÓN I DEL APARTADO C Y LA FRACCIÓN I DEL APARTADO D DEL ARTÍCULO 9; EL ARTÍCULO 13; LAS FRACCIONES IV Y V DEL TERCER PÁRRAFO DEL ARTÍCULO 14; LA FRACCIÓN III Y LOS PÁRRAFOS PRIMERO, TERCERO Y CUARTO DE LA FRACCIÓN IV, DEL ARTÍCULO 15; EL ARTÍCULO 19; EL PRIMER PÁRRAFO DEL ARTICULO 21; EL PRIMER PÁRRAFO DEL ARTÍCULO 23; EL PRIMER PÁRRAFO DEL ARTÍCULO 27; LA FRACCIÓN V DEL ARTÍCULO 33; EL PRIMER PÁRRAFO DEL ARTÍCULO 35; LAS FRACCIONES XIX, XXXVI, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XLI Y LA FRACCIÓN XLII, DEL ARTÍCULO 36; LA FRACCIÓN VI DEL ARTÍCULO 39; LA FRACCIÓN IV DEL ARTÍCULO 44; EL PRIMER PÁRRAFO DEL ARTÍCULO 45; EL ARTÍCULO 47; EL ARTÍCULO 48; LAS FRACCIONES IX, XVII Y XVIII DEL ARTÍCULO 51; LA FRACCIÓN VIII DEL ARTÍCULO 63 BIS; EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I Y EL INCISO F) DE LA FRACCIÓN XI DEL ARTÍCULO 64; EL INCISO I) DEL PRIMER PÁRRAFO DE LA FRACCIÓN VIII Y EL SEGUNDO PÁRRAFO DE DICHA FRACCIÓN, ASÍ COMO EL ÚNICO PÁRRAFO DE LA FRACCIÓN IX, DEL ARTÍCULO 65; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 83. SE ADICIONA: UNA FRACCIÓN VI AL ARTÍCULO 7, SE DEROGAN: LA FRACCIÓN III DEL APARTADO A DEL TERCER PÁRRAFO DEL ARTÍCULO 9; Y EL TERCER PÁRRAFO DE LA FRACCIÓN XLI DEL ARTÍCULO 36, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los presidentes municipales y regidores de los ayuntamientos, así como los diputados a la LXI Legislatura del Congreso del Estado, electos el 1° de julio de 2012 para el trienio 2013-2015, concluirán su encargo el 31 de diciembre de 2015. El Gobernador electo para el período 2013-2018 concluirá su mandato el 31 de diciembre de 2018.
+
+Los diputados a la LXII Legislatura del Congreso del Estado de Tabasco, que se elijan el 5 de julio de 2015 para el trienio 2016-2018, entrarán en funciones el 1° de enero de 2016 y concluirán su encargo el 4 de septiembre de 2018.
+
+Los presidentes municipales y regidores, que resulten electos el 5 de julio de 2015 para el trienio 2016-2018, entrarán en funciones el 1° de enero de 2016 y concluirán su encargo el 4 de octubre de 2018
+
+El Gobernador que resulte electo el 1° de julio de 2018, entrará en funciones el 1° de enero de 2019 y concluirá su encargo el 30 de septiembre de 2024.
+
+TERCERO.- La actual LXI Legislatura del Congreso del Estado celebrará sus períodos ordinarios de sesiones en las fechas previstas originalmente para su mandato; es decir, en el primer año de su ejercicio, el primer periodo ordinario será del 1° de enero al 15 de mayo y el segundo período del 15 de septiembre al 15 de diciembre de 2013; en el segundo año, el primer período será del 1° de febrero al 15 de mayo y el segundo periodo del 15 de septiembre al 15 de diciembre de 2014; en el tercer año, el primer período será del 1° de febrero al 15 de mayo y el segundo del 15 de septiembre al 15 de diciembre de 2015, concluyendo su mandato el 31 de diciembre del mismo año.
+
+La LXII Legislatura del Congreso del Estado, que fungirá del 1° de enero de 2016 al 4 de septiembre de 2018, tendrá sólo cinco períodos ordinarios de sesiones: en el primer año de ejercicio, el primer período correrá del 1° de enero al 15 de mayo de 2016 y el segundo periodo del 5 de septiembre al 15 de diciembre del mismo año; en el segundo año de ejercicio, el primer período correrá del 1° de febrero al 15 de mayo de 2017 y el segundo período del 5 de septiembre al 15 de diciembre del mismo año; el tercer año de ejercicio tendrá un solo período ordinario de sesiones que correrá del 1° de febrero al 15 de mayo de 2018, concluyendo el ejercicio de la Legislatura el 4 de septiembre de 2018.
+
+CUARTO.- El Gobernador electo para el período 2013-2018, presentará al Congreso del Estado el informe a que se refiere el Artículo 51, fracción XVII de la Constitución del Estado de Tabasco, el segundo domingo del mes de noviembre de cada año de su ejercicio, incluido el último. El Gobernador que resulte electo para la administración 2019-2024, presentará sus respectivos informes conforme a lo señalado en dicho numeral.
+
+QUINTO.- Se abroga la Ley de Participación Ciudadana del Estado de Tabasco. El Congreso deberá expedir la nueva Ley de Participación Ciudadana del Estado de Tabasco, a más tardar en un plazo de seis meses contados a partir de la fecha de publicación del presente Decreto.
+
+De igual modo, a más tardar en un plazo de seis meses contados a partir de la fecha de publicación del presente Decreto, el Congreso del Estado deberá realizar las adecuaciones pertinentes en la Ley Electoral del Estado y en la Ley del Sistema de Medios de Impugnación en Materia Electoral, así como en los demás ordenamientos a que haya lugar.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO.- Comuníquese a las Cámaras de Senadores y de Diputados del Congreso de la Unión, del cumplimiento de lo establecido por el Artículo Tercero Transitorio del Decreto de reformas a la Constitución Política de los Estados Unidos Mexicanos, publicado el 9 de agosto de 2012 en el Diario Oficial de la Federación, para los efectos procedentes.
+
+OCTAVO.- Las modificaciones a los Artículos 19, 21 y 27 de la Constitución Política del Estado Libre y Soberano de Tabasco contenidas en el presente Decreto entrarán en vigor a partir del 20 de agosto de 2018.
+
+NOVENO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política el Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
