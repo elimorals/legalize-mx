@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-proteccion-civil-del-distrito-federal-82130"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-08"
-last_updated: "2011-07-08"
+last_updated: "2013-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82130&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2011-07-06"
 ---
 # LEY DEL SISTEMA DE PROTECCION CIVIL DEL DISTRITO FEDERAL
 
-LEY DEL SISTEMA DE PROTECCION CIVIL DEL DISTRITO FEDERAL
+LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 8 de julio de 2011.
 
@@ -1182,23 +1182,21 @@ En la primera sesión ordinaria de los Consejos Delegacionales se presentarán l
 
 C) DE LOS PROGRAMAS INTERNOS DE PROTECCIÓN CIVIL
 
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 86.
 
 El Programa Interno de Protección Civil se deberá implementar en:
 
-I. Inmuebles destinados a vivienda plurifamiliar y conjuntos habitacionales, por parte de los propietarios o poseedores;
+I. Inmuebles destinados a vivienda plurifamiliar y conjuntos habitacionales, por parte de los propietarios y poseedores;
 
 II. Inmuebles destinados al servicio público, por parte del servidor público que designe el Titular;
 
-III. Unidades Habitacionales, por parte de los administradores; y,
+III. Unidades Habitacionales, por parte de los administradores; y (sic)
 
-IV. Establecimientos mercantiles de mediano y alto riesgo, en términos del Reglamento, los Términos de Referencia y las Normas Técnicas, así como aquellos en donde los usuarios sean predominantemente personas con discapacidad, adultos mayores, mujeres embarazadas o se manejen sustancias o materiales peligrosos;
+IV. Establecimientos mercantiles de impacto zonal e impacto vecinal, en términos del Reglamento, los Términos de Referencia y las Normas Técnicas, así como aquellos en donde los usuarios sean predominantemente personas con discapacidad, adultos mayores, mujeres embarazadas o se manejen sustancias o materiales peligrosos;
 
-V. Centros comerciales, donde el administrador del inmueble estará obligado a presentarlo e incluir lo correspondiente para los establecimientos mercantiles que forman parte del centro comercial, por lo que no será necesario que cada uno presente un programa individual, con excepción de aquellos que representen un alto riesgo dictaminado así por la Delegación.
-
-Las Delegaciones promoverán la implementación de los programas a los que se refiere el presente artículo y establecerán cursos de capacitación para la elaboración para los responsables de elaborarlos en Viviendas Plurifamiliares, Conjuntos Habitacionales y Unidades Habitacionales.
-
-Los cursos de capacitación a los que se refiere el párrafo anterior serán obligatorios cuando el responsable de hacerlo omita la presentación del Programa Interno de Protección Civil.
+V. Centros Comerciales, donde el administrador del inmueble estará obligado a presentarlo e incluir lo correspondiente para los establecimientos mercantiles que forman parte del centro comercial, contando con al menos un paramédico de guardia debidamente acreditado por la Secretaria de Salud del Distrito Federal, desde la apertura, hasta el cierre de actividades del mismo.
 
 ###### Artículo 87.
 
@@ -1207,6 +1205,10 @@ El Programa Interno de Protección Civil a que se refiere el artículo anterior 
 Los Programas Internos deberán ser evaluados y en su caso aprobados por la Delegación; si existieren observaciones se dará un plazo de cinco días hábiles para subsanar las deficiencias.
 
 Una vez aprobado el Programa Interno de Protección Civil, la Delegación deberá clasificarlo y registrarlo en una base de datos que enviará a la Secretaría de manera semestral sin perjuicio de integrar una propia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Los programas internos de protección civil a los que obliga la presente Ley, deberán ser revalidados cada año.
 
 ###### Artículo 88.
 
@@ -1884,6 +1886,10 @@ En el caso de reincidencia, el monto de la multa podrá ser hasta dos veces del 
 
 La falta de existencia de un Programa Interno de Protección Civil para los establecimientos mercantiles y empresas de mediano y alto riesgo, será causal de multa de 20 a 200 veces el Salario Mínimo General Vigente en el Distrito Federal, así como clausura, previo desahogo del procedimiento preventivo que establezca el Reglamento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+La ausencia de un paramédico en el interior de los centros comerciales durante el horario de funcionamiento del mismo, de acuerdo a lo establecido en el articulo 86 fracción V de la presente Ley, será sancionada con una multa de 300 a 500 días de Salario Mínimo General Vigente en el Distrito Federal.
+
 ###### Artículo 186.
 
 En el caso de las empresas que deban contar con una Póliza de Seguro adicional al Programa Interno de Protección Civil y no lo hagan, se sancionará con multa de 500 a 1000 veces el Salario Mínimo General Vigente en el Distrito Federal y la clausura de las instalaciones hasta en tanto se cubra con dicho requisito.
@@ -1957,3 +1963,11 @@ DÉCIMO TERCERO.- La Secretaría y los Órganos Político Administrativos del Di
 Recinto de la Asamblea Legislativa del Distrito Federal, a los once días del mes de mayo del año dos mil once.- POR LA MESA DIRECTIVA.- DIP. NORBERTO ASCENCIO SOLIS CRUZ, PRESIDENTE, DIP. JOSÉ VALENTÍN MALDONADO SALGADO, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los seis días del mes de julio del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.-EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.- LA SECRETARÍA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSAMÁRQUEZ CABRERA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- La sanción establecida en el artículo 65, con relación a la fracción X del artículo 48 de la Ley de Establecimientos Mercantiles del Distrito Federal, entrara en vigor a partir de los 90 días hábiles de la publicación del presente Decreto. Con la finalidad de que los establecimientos obligados realicen las adecuaciones correspondientes a sus instalaciones para el cumplimiento de la Ley.
